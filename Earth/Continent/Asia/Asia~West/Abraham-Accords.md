@@ -1,11 +1,13 @@
 ---
+aliases:
+  - Abraham-Accords
 has_participants:
-  - "[[Israel]]"
-  - "[[Bahrain]]"
-  - "[[../../America~North/USA]]"
-  - "[[United_Arab_Emirates]]"
-  - "[[../../Africa/Africa~North/Morocco|Morocco]]"
-  - "[[../../Africa/Africa~East/Sudan/Sudan~North]]"
+  - '[[Israel]]'
+  - '[[Bahrain]]'
+  - '[[../../America~North/USA]]'
+  - '[[United_Arab_Emirates]]'
+  - '[[../../Africa/Africa~North/Morocco|Morocco]]'
+  - '[[../../Africa/Africa~East/Sudan/Sudan~North]]'
 ---
 
 # [[Abraham-Accords]] 

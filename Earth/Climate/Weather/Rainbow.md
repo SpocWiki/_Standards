@@ -1,6 +1,7 @@
 ---
 aliases:
   - Regenbogen
+  - Rainbow
 has_id_wikidata: Q1052
 color:
   - "[[_Standards/WikiData/WD~sky_blue,373160]]"
@@ -28,19 +29,19 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 different_from: "[[_Standards/WikiData/WD~Tęcza,9363831]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~rainbow,134876085]]"
-OmegaWiki_Defined_Meaning: "7041"
+OmegaWiki_Defined_Meaning: 7041
 Commons_gallery: Rainbow
 image: http://commons.wikimedia.org/wiki/Special:FilePath/WhereRainbowRises.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B0%E0%A6%82%E0%A6%A7%E0%A6%A8%E0%A7%81.wav
 panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/Rainbow%20Karlsruhe%20May%202021.jpg
 spherical_panorama_image: http://commons.wikimedia.org/wiki/Special:FilePath/Rainbow%20on%20the%20Azores%20%E2%80%93%20360%C2%B0%20drone%20shot.jpg
 Unicode_character: 🌈
-U_S_National_Archives_Identifier: "10675069"
+U_S_National_Archives_Identifier: 10675069
 Iconclass_notation: 26B2
 Commons_category: Rainbows
 ---
 
-# [[Rainbow]] 
+# [[Rainbow]] 🌈 
 
 #is_/same_as :: [[../../../WikiData/WD~Rainbow,1052|WD~Rainbow,1052]]  
 

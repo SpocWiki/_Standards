@@ -4,21 +4,23 @@ aliases:
   - install_url
   - installUrl
   - has_url_for_install_url
+  - has_url_for_install
+  - has url for install
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - install_url
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_install_url
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

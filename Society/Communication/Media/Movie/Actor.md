@@ -1,7 +1,7 @@
 ---
 aliases:
-- Actor
-- Actress
+  - Actor
+  - Actress
 ---
 
 # [[Actor]] 

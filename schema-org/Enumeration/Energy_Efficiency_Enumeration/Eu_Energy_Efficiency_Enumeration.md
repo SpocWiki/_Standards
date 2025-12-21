@@ -4,20 +4,22 @@ aliases:
   - eu_energy_efficiency_enumeration
   - EUEnergyEfficiencyEnumeration
   - is_an_eu_energy_efficiency_enumeration
+  - Eu_Energy_Efficiency_Enumeration
+  - Eu Energy Efficiency Enumeration
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - eu_energy_efficiency_enumeration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_eu_energy_efficiency_enumeration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

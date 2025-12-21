@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Serbia
+  - Serbie
+  - صربيا
+  - 塞尔维亚
+  - Сербия
+  - the Republic of Serbia
+  - la República de Serbia
+has_id_wikidata: Q403
 location:
   - 44.82
   - 20.48
@@ -15,27 +24,18 @@ cssclasses:
   - Country
 publish: true
 title: Serbia
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Serbia
-  - Serbie
-  - صربيا
-  - 塞尔维亚
-  - Сербия
-  - the Republic of Serbia
-  - la República de Serbia
+publishDate: ""
+expiryDate: ""
 Languages:
   - sr
   - hu
   - bs
   - rom
 icon: flag-rs
-has_id_wikidata: Q403
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
@@ -414,7 +414,7 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Danube%20in%20Ri
 BHCL_UUID:
   - f05755c3-3759-4ba1-8982-7157bd8d9708
   - 9e68967f-4ca3-4b99-8c7f-c4e956949fe6
-inception: "2006"
+inception: 2006
 has_time_started: 2006-06
 short_name: 🇷🇸
 nominal_GDP:

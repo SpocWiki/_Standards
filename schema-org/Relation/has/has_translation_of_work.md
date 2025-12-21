@@ -3,12 +3,13 @@ aliases:
   - has translation-of-work
   - translationOfWork
   - has_translation_of_work
+  - has translation of work
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - translation
   - of
   - work
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_translation_of_work
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

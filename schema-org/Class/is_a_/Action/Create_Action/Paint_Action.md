@@ -4,20 +4,22 @@ aliases:
   - paint_action
   - PaintAction
   - is_a_paint_action
+  - Paint_Action
+  - Paint Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - paint_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_paint_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

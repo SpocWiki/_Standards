@@ -9,39 +9,40 @@ aliases:
   - TV Serie
   - Fernsehserie
   - television series
-  - 
+  - ''
+  - TV_Series
 has_id_wikidata: Q5398426
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - tv_series
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_tv_series Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_tv_series Class
 type: Type
 different_from:
-  - "[[_Standards/WikiData/WD~miniseries,1259759]]"
-  - "[[_Standards/WikiData/WD~serial_drama,7724161]]"
+  - '[[_Standards/WikiData/WD~miniseries,1259759]]'
+  - '[[_Standards/WikiData/WD~serial_drama,7724161]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~television_series_season,3464665]]"
-  - "[[_Standards/WikiData/WD~television_series_episode,21191270]]"
+  - '[[_Standards/WikiData/WD~television_series_season,3464665]]'
+  - '[[_Standards/WikiData/WD~television_series_episode,21191270]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~series_of_creative_works,7725310]]"
-  - "[[_Standards/WikiData/WD~television_program,15416]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_television_series,13412410]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Television_series,15659642]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_television_program,110562117]]"
+  - '[[_Standards/WikiData/WD~series_of_creative_works,7725310]]'
+  - '[[_Standards/WikiData/WD~television_program,15416]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_television_series,13412410]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Television_series,15659642]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_television_program,110562117]]'
 properties_for_this_type:
   - IMDb ID
   - original language of film or TV show

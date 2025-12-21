@@ -1,19 +1,20 @@
 ---
+aliases:
+  - Democratic Republic of the Congo
+  - DR Congo
+  - Congo-Kinshasa
+  - Democratic_Republic_of_the_Congo
+  - Congo~Kinshasa
+has_id_wikidata: Q974
 location:
   - -4.3
   - 15.3
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q974
 SpocWebEntityId: 26862
 isDeleted: false
 confidential: public
-aliases:
-  - Democratic Republic of the Congo
-  - DR Congo
-  - Congo-Kinshasa
-  - Democratic_Republic_of_the_Congo
 contains_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Kasaï-Oriental,80953]]"
   - "[[_Standards/WikiData/WD~Haut-Katanga_Province,130268]]"

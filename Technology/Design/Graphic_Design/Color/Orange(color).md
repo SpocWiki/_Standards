@@ -2,27 +2,28 @@
 aliases:
   - Orange
   - Orange (color)
-  - color Orange 
+  - color Orange
+  - Orange(color)
 has_id_wikidata: Q39338
 instance_of:
-  - "[[_Standards/WikiData/WD~secondary_color,373934]]"
-  - "[[_Standards/WikiData/WD~web_color,376346]]"
-  - "[[_Standards/WikiData/WD~spectral_color,910300]]"
-described_by_source: "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-part_of: "[[_Standards/WikiData/WD~seven_prismatic_colors,43213808]]"
+  - '[[_Standards/WikiData/WD~secondary_color,373934]]'
+  - '[[_Standards/WikiData/WD~web_color,376346]]'
+  - '[[_Standards/WikiData/WD~spectral_color,910300]]'
+described_by_source: '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+part_of: '[[_Standards/WikiData/WD~seven_prismatic_colors,43213808]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Kamala,124606790]]"
-  - "[[_Standards/WikiData/WD~Kamala,124606792]]"
+  - '[[_Standards/WikiData/WD~Kamala,124606790]]'
+  - '[[_Standards/WikiData/WD~Kamala,124606792]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~yellow,943]]"
-  - "[[_Standards/WikiData/WD~red,3142]]"
-  - "[[_Standards/WikiData/WD~light,9128]]"
-followed_by: "[[_Standards/WikiData/WD~yellow,943]]"
-follows: "[[_Standards/WikiData/WD~red,3142]]"
-named_after: "[[_Standards/WikiData/WD~orange,13191]]"
+  - '[[_Standards/WikiData/WD~yellow,943]]'
+  - '[[_Standards/WikiData/WD~red,3142]]'
+  - '[[_Standards/WikiData/WD~light,9128]]'
+followed_by: '[[_Standards/WikiData/WD~yellow,943]]'
+follows: '[[_Standards/WikiData/WD~red,3142]]'
+named_after: '[[_Standards/WikiData/WD~orange,13191]]'
 frequency: 500000000000000
 wavelength: 612.5
-OmegaWiki_Defined_Meaning: "5822"
+OmegaWiki_Defined_Meaning: 5822
 CSS_color_keyword: orange
 subreddit: orange
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Color%20icon%20orange.svg

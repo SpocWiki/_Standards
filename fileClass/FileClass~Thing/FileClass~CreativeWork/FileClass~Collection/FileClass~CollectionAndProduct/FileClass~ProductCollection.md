@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ProductCollection
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct
 fields:
-- id: lb6K3J
-  name: IncludesObject
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/TypeAndQuantityNode')"
-  type: MultiFile
-  path: ''
+  - id: lb6K3J
+    name: IncludesObject
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/TypeAndQuantityNode')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ProductCollection
-- class/Thing/CreativeWork/Collection/CollectionAndProduct/ProductCollection
-- is_a_/ProductCollection
-- schema-org/ProductCollection
+  - class/ProductCollection
+  - class/Thing/CreativeWork/Collection/CollectionAndProduct/ProductCollection
+  - is_a_/ProductCollection
+  - schema-org/ProductCollection
 tags:
-- class/FileClass
-- class/ProductCollection
-- is_a_/ProductCollection
-- class/Thing/CreativeWork/Collection/CollectionAndProduct/ProductCollection
+  - class/FileClass
+  - class/ProductCollection
+  - is_a_/ProductCollection
+  - class/Thing/CreativeWork/Collection/CollectionAndProduct/ProductCollection
 version: 2.0
 ---
 

@@ -7,37 +7,39 @@ aliases:
   - Transvaal War
   - Anglo–Boer War
   - South African War
+  - 1899-Second_Boer_War+1902
+  - 1899-Second Boer War+1902
 has_id_wikidata: Q215112
 participant:
-  - "[[_Standards/WikiData/WD~British_Raj,129286]]"
-  - "[[_Standards/WikiData/WD~Louis_Botha,159397]]"
-  - "[[_Standards/WikiData/WD~Orange_Free_State,218023]]"
-  - "[[_Standards/WikiData/WD~Robert_Gascoyne_Cecil,_3rd_Marquess_of_Salisbury,243705]]"
-  - "[[_Standards/WikiData/WD~Paul_Kruger,244407]]"
-  - "[[_Standards/WikiData/WD~Schalk_Willem_Burger,282482]]"
-  - "[[_Standards/WikiData/WD~Joseph_Chamberlain,315999]]"
-  - "[[_Standards/WikiData/WD~Frederick_Roberts,_1st_Earl_Roberts,335008]]"
-  - "[[_Standards/WikiData/WD~Alfred_Milner,_1st_Viscount_Milner,356361]]"
-  - "[[_Standards/WikiData/WD~Koos_de_la_Rey,380938]]"
-  - "[[_Standards/WikiData/WD~Piet_Joubert,469797]]"
-  - "[[_Standards/WikiData/WD~Christiaan_de_Wet,547828]]"
-  - "[[_Standards/WikiData/WD~South_African_Republic,550374]]"
-  - "[[_Standards/WikiData/WD~Piet_Cronjé,591879]]"
-  - "[[_Standards/WikiData/WD~Redvers_Buller,726293]]"
-  - "[[_Standards/WikiData/WD~British_Ceylon,918153]]"
-  - "[[_Standards/WikiData/WD~Martinus_Theunis_Steyn,2355196]]"
-  - "[[_Standards/WikiData/WD~Colony_of_New_Zealand,5148518]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~British_Empire,8680]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - '[[_Standards/WikiData/WD~British_Raj,129286]]'
+  - '[[_Standards/WikiData/WD~Louis_Botha,159397]]'
+  - '[[_Standards/WikiData/WD~Orange_Free_State,218023]]'
+  - '[[_Standards/WikiData/WD~Robert_Gascoyne_Cecil,_3rd_Marquess_of_Salisbury,243705]]'
+  - '[[_Standards/WikiData/WD~Paul_Kruger,244407]]'
+  - '[[_Standards/WikiData/WD~Schalk_Willem_Burger,282482]]'
+  - '[[_Standards/WikiData/WD~Joseph_Chamberlain,315999]]'
+  - '[[_Standards/WikiData/WD~Frederick_Roberts,_1st_Earl_Roberts,335008]]'
+  - '[[_Standards/WikiData/WD~Alfred_Milner,_1st_Viscount_Milner,356361]]'
+  - '[[_Standards/WikiData/WD~Koos_de_la_Rey,380938]]'
+  - '[[_Standards/WikiData/WD~Piet_Joubert,469797]]'
+  - '[[_Standards/WikiData/WD~Christiaan_de_Wet,547828]]'
+  - '[[_Standards/WikiData/WD~South_African_Republic,550374]]'
+  - '[[_Standards/WikiData/WD~Piet_Cronjé,591879]]'
+  - '[[_Standards/WikiData/WD~Redvers_Buller,726293]]'
+  - '[[_Standards/WikiData/WD~British_Ceylon,918153]]'
+  - '[[_Standards/WikiData/WD~Martinus_Theunis_Steyn,2355196]]'
+  - '[[_Standards/WikiData/WD~Colony_of_New_Zealand,5148518]]'
+  - '[[_Standards/WikiData/WD~Australia,408]]'
+  - '[[_Standards/WikiData/WD~British_Empire,8680]]'
+  - '[[_Standards/WikiData/WD~Canada,16]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-part_of: "[[_Standards/WikiData/WD~military_history_of_South_Africa,6857636]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+part_of: '[[_Standards/WikiData/WD~military_history_of_South_Africa,6857636]]'
 start_time: 1899-10-23T00:00:00Z
-location: "[[_Standards/WikiData/WD~South_Africa,258]]"
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+location: '[[_Standards/WikiData/WD~South_Africa,258]]'
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Second%20Anglo%20-%20Boer%20War%2C%20South%20Africa%201899%20-%201902%20Q82943.jpg
 Commons_gallery: Second Boer war
 Commons_category: Second Boer War

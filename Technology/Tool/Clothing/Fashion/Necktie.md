@@ -2,6 +2,7 @@
 aliases:
   - long tie
   - tie
+  - Necktie
 has_id_wikidata: Q44416
 subclass_of:
   - "[[_Standards/WikiData/WD~costume_accessory,1065579]]"
@@ -10,12 +11,12 @@ subclass_of:
 different_from: "[[_Standards/WikiData/WD~Slips,31667808]]"
 described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 worn_on: "[[_Standards/WikiData/WD~neck,9633]]"
-Nomenclature_for_Museum_Cataloging: "2067"
-OmegaWiki_Defined_Meaning: "6529"
+Nomenclature_for_Museum_Cataloging: 2067
+OmegaWiki_Defined_Meaning: 6529
 Dewey_Decimal_Classification:
-  - "646.3"
-  - "687.19"
-  - "391.41"
+  - 646.3
+  - 687.19
+  - 391.41
 MCN_code: 6117.80.10
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Cravate%20Nf%201%201%201%20-%20Elix.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dress-pinstripe.jpg
@@ -26,7 +27,7 @@ Commons_gallery: Necktie
 Commons_category: Neckties
 ---
 
-# [[Necktie]]  
+# [[Necktie]] 👔 
 
 #is_/same_as :: [[WD~Necktie,44416]] 
 

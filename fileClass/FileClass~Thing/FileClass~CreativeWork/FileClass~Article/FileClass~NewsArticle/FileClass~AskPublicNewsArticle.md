@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~AskPublicNewsArticle
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/AskPublicNewsArticle
-- class/Thing/CreativeWork/Article/NewsArticle/AskPublicNewsArticle
-- is_an_/AskPublicNewsArticle
-- schema-org/AskPublicNewsArticle
+  - class/AskPublicNewsArticle
+  - class/Thing/CreativeWork/Article/NewsArticle/AskPublicNewsArticle
+  - is_an_/AskPublicNewsArticle
+  - schema-org/AskPublicNewsArticle
 tags:
-- class/FileClass
-- class/AskPublicNewsArticle
-- '#is_an_/AskPublicNewsArticle'
-- class/Thing/CreativeWork/Article/NewsArticle/AskPublicNewsArticle
+  - class/FileClass
+  - class/AskPublicNewsArticle
+  - '#is_an_/AskPublicNewsArticle'
+  - class/Thing/CreativeWork/Article/NewsArticle/AskPublicNewsArticle
 version: 2.0
 ---
 

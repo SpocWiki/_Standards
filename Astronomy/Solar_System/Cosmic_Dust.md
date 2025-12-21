@@ -4,13 +4,15 @@ aliases:
   - extraterrestrial dust
   - space dust
   - star dust
+  - Cosmic_Dust
+  - Cosmic Dust
 has_id_wikidata: Q193384
 subclass_of:
-  - "[[_Standards/WikiData/WD~dust,165632]]"
-  - "[[_Standards/WikiData/WD~particle,1621273]]"
-  - "[[_Standards/WikiData/WD~astronomical_object,6999]]"
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-part_of: "[[_Standards/WikiData/WD~outer_space,4169]]"
+  - '[[_Standards/WikiData/WD~dust,165632]]'
+  - '[[_Standards/WikiData/WD~particle,1621273]]'
+  - '[[_Standards/WikiData/WD~astronomical_object,6999]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+part_of: '[[_Standards/WikiData/WD~outer_space,4169]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Porous%20chondriteIDP.jpg
 UMLS_CUI: C0376611
 MeSH_tree_code:

@@ -2,24 +2,25 @@
 aliases:
   - reboot
   - rebooting
+  - Booting
 has_id_wikidata: Q180256
 has_part_s_:
-  - "[[_Standards/WikiData/WD~power_on_self_test,277541]]"
+  - '[[_Standards/WikiData/WD~power_on_self_test,277541]]'
 uses:
-  - "[[_Standards/WikiData/WD~bootloader,836795]]"
-  - "[[_Standards/WikiData/WD~computer_firmware,102676349]]"
+  - '[[_Standards/WikiData/WD~bootloader,836795]]'
+  - '[[_Standards/WikiData/WD~computer_firmware,102676349]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~bootstrapping,1195936]]"
-  - "[[_Standards/WikiData/WD~preparation,19833559]]"
-  - "[[_Standards/WikiData/WD~planned_process,104637332]]"
-  - "[[_Standards/WikiData/WD~starting_up,125517441]]"
+  - '[[_Standards/WikiData/WD~bootstrapping,1195936]]'
+  - '[[_Standards/WikiData/WD~preparation,19833559]]'
+  - '[[_Standards/WikiData/WD~planned_process,104637332]]'
+  - '[[_Standards/WikiData/WD~starting_up,125517441]]'
 Stack_Exchange_tag:
   - https://unix.stackexchange.com/tags/boot
   - https://askubuntu.com/tags/boot
   - https://superuser.com/tags/boot
   - https://stackoverflow.com/tags/boot
 facet_of:
-  - "[[_Standards/WikiData/WD~operating_system,9135]]"
+  - '[[_Standards/WikiData/WD~operating_system,9135]]'
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Flow-diagram-computer-booting-sequences-tr.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Flow-diagram-computer-booting-sequences.svg

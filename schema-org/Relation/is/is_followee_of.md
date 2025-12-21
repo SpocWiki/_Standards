@@ -2,21 +2,22 @@
 aliases:
   - followee
   - is_followee_of
+  - is followee of
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - followee
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_followee_of
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

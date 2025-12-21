@@ -1,31 +1,32 @@
 ---
 aliases:
   - Geflügel
+  - Poultry
 has_id_wikidata: Q178559
 has_use:
-  - "[[_Standards/WikiData/WD~egg_as_food,93189]]"
-  - "[[_Standards/WikiData/WD~poultry_farming,861182]]"
-  - "[[_Standards/WikiData/WD~poultry_meat,18087876]]"
+  - '[[_Standards/WikiData/WD~egg_as_food,93189]]'
+  - '[[_Standards/WikiData/WD~poultry_farming,861182]]'
+  - '[[_Standards/WikiData/WD~poultry_meat,18087876]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~livestock,103459]]"
-  - "[[_Standards/WikiData/WD~domesticated_bird,57815212]]"
+  - '[[_Standards/WikiData/WD~livestock,103459]]'
+  - '[[_Standards/WikiData/WD~domesticated_bird,57815212]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-instance_of: "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
-OmegaWiki_Defined_Meaning: "2939"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+OmegaWiki_Defined_Meaning: 2939
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Scheuerer%20H%C3%BChnerhof.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Abattoir%20de%20volaille.jpg
 subreddit: poultry
-U_S_National_Archives_Identifier: "10644281"
+U_S_National_Archives_Identifier: 10644281
 Commons_category: Poultry
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33578%20%28ibo%29-Deventus-Okuko.wav
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Volailles.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_02000068
-Dewey_Decimal_Classification: "664.93"
+Dewey_Decimal_Classification: 664.93
 MeSH_tree_code:
   - B01.050.050.116.625
   - B01.050.150.900.248.690

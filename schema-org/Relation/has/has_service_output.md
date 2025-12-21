@@ -1,31 +1,32 @@
 ---
 aliases:
-- service-output
-- serviceOutput
-- has_service_output
-- is_producing
-- produces
+  - service-output
+  - serviceOutput
+  - has_service_output
+  - is_producing
+  - produces
+  - has service output
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- service_output
-- service
-- output
-layout: 
-license: "CC BY-SA 4.0"
+  - service_output
+  - service
+  - output
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_service_output
 publish: true
-publishDate: 
+publishDate: ''
 supersedes: produces
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_service_output
 type: Predi_Relation
 ---

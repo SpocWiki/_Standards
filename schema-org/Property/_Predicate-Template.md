@@ -4,34 +4,36 @@ aliases:
   - label_snail
   - label
   - has_label_snail
+  - _Predicate-Template
+  - ' Predicate-Template'
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
 enumerationtype:
-  "{ enumerationtype: }":
+  '{ enumerationtype: }': ''
 equivalent_class:
-  "{ equivalentProperty: }":
-expiryDate:
+  '{ equivalentProperty: }': ''
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - "{ label_snail: }":
-layout:
+  - '{ label_snail: }': ''
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 publish: true
-publishDate:
+publishDate: ''
 superseded_by:
-  "{ supersededBy: }":
+  '{ supersededBy: }': ''
 supersedes:
-  "{ supersedes: }":
+  '{ supersedes: }': ''
 tags:
   - class/Property
   - schema-org/Property
 title:
-  "{ has_label_snail: }":
+  '{ has_label_snail: }': ''
 type: Predicate
 ---
 

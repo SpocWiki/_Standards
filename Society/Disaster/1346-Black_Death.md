@@ -1,44 +1,47 @@
 ---
+aliases:
+  - 1346-Black_Death
+  - 1346-Black Death
 has_id_wikidata: Q42005
 has_immediate_cause:
-  - "[[_Standards/WikiData/WD~Rattus_rattus,106133]]"
-  - "[[_Standards/WikiData/WD~Oriental_rat_flea,499106]]"
-has_cause: "[[_Standards/WikiData/WD~plague,133780]]"
+  - '[[_Standards/WikiData/WD~Rattus_rattus,106133]]'
+  - '[[_Standards/WikiData/WD~Oriental_rat_flea,499106]]'
+has_cause: '[[_Standards/WikiData/WD~plague,133780]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~plague,133780]]"
-  - "[[_Standards/WikiData/WD~bubonic_plague,217519]]"
+  - '[[_Standards/WikiData/WD~plague,133780]]'
+  - '[[_Standards/WikiData/WD~bubonic_plague,217519]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~disease_outbreak,3241045]]"
-  - "[[_Standards/WikiData/WD~pandemic,12184]]"
-depicted_by: "[[_Standards/WikiData/WD~St._Gregory_the_Great,133281076]]"
+  - '[[_Standards/WikiData/WD~disease_outbreak,3241045]]'
+  - '[[_Standards/WikiData/WD~pandemic,12184]]'
+depicted_by: '[[_Standards/WikiData/WD~St._Gregory_the_Great,133281076]]'
 end_time: 1352-01-01T00:00:00Z
 start_time: 1346-01-01T00:00:00Z
 country:
-  - "[[_Standards/WikiData/WD~Armenia,399]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Azerbaijan,227]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
+  - '[[_Standards/WikiData/WD~Armenia,399]]'
+  - '[[_Standards/WikiData/WD~Russia,159]]'
+  - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
+  - '[[_Standards/WikiData/WD~Georgia,230]]'
 country_of_origin:
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Mongol_Empire,12557]]"
+  - '[[_Standards/WikiData/WD~India,668]]'
+  - '[[_Standards/WikiData/WD~Mongol_Empire,12557]]'
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
+  - '[[_Standards/WikiData/WD~Ukraine,212]]'
 location:
-  - "[[_Standards/WikiData/WD~Caucasus,18869]]"
-  - "[[_Standards/WikiData/WD~North_Africa,27381]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-  - "[[_Standards/WikiData/WD~Asia,48]]"
+  - '[[_Standards/WikiData/WD~Caucasus,18869]]'
+  - '[[_Standards/WikiData/WD~North_Africa,27381]]'
+  - '[[_Standards/WikiData/WD~Europe,46]]'
+  - '[[_Standards/WikiData/WD~Asia,48]]'
 number_of_deaths: 75000000
-OmegaWiki_Defined_Meaning: "1074229"
+OmegaWiki_Defined_Meaning: 1074229
 Commons_category: Black Death
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Doutielt3.jpg
-P8189: "987007283124505171"
+P8189: 987007283124505171
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "BlackDeath"]
 Krugosvet_article: istoriya/CHERNAYA_SMERT.html
 ---

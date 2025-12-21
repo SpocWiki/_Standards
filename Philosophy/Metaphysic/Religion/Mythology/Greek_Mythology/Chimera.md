@@ -7,7 +7,7 @@ aliases:
   - Chimæra
   - Χίμαιρα
   - Chímaira
-has_id_wikidata:
+has_id_wikidata: ''
 ---
 
 # [[Chimera]] 

@@ -1,19 +1,21 @@
 ---
 aliases:
   - Kohlenstoff-Zyklus
+  - Carbon_Cycle
+  - Carbon Cycle
 has_id_wikidata: Q167751
-different_from: "[[_Standards/WikiData/WD~CNO_cycle,222971]]"
-subclass_of: "[[_Standards/WikiData/WD~biogeochemical_cycle,846303]]"
+different_from: '[[_Standards/WikiData/WD~CNO_cycle,222971]]'
+subclass_of: '[[_Standards/WikiData/WD~biogeochemical_cycle,846303]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~carbon_fixation,901921]]"
-  - "[[_Standards/WikiData/WD~carbon_sequestration,15305550]]"
-  - "[[_Standards/WikiData/WD~carbon_storage,101953195]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Carbon_cycle,110250127]]"
-facet_of: "[[_Standards/WikiData/WD~carbon,623]]"
+  - '[[_Standards/WikiData/WD~carbon_fixation,901921]]'
+  - '[[_Standards/WikiData/WD~carbon_sequestration,15305550]]'
+  - '[[_Standards/WikiData/WD~carbon_storage,101953195]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Carbon_cycle,110250127]]'
+facet_of: '[[_Standards/WikiData/WD~carbon,623]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/NASA%20-%20A%20Year%20in%20the%20Life%20of%20Earth%27s%20CO2%20x1SgmFa0r04.webm
-Dewey_Decimal_Classification: "577.144"
-P8189: "987007283487105171"
+Dewey_Decimal_Classification: 577.144
+P8189: 987007283487105171
 UMLS_CUI:
   - C0599130
   - C2936196

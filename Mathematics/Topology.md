@@ -1,31 +1,32 @@
 ---
 aliases:
   - topological
+  - Topology
 has_id_wikidata: Q42989
 different_from:
-  - "[[_Standards/WikiData/WD~topography,134435]]"
-  - "[[_Standards/WikiData/WD~topology,18786106]]"
-is_the_study_of: "[[_Standards/WikiData/WD~topological_space,179899]]"
+  - '[[_Standards/WikiData/WD~topography,134435]]'
+  - '[[_Standards/WikiData/WD~topology,18786106]]'
+is_the_study_of: '[[_Standards/WikiData/WD~topological_space,179899]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-  - "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+  - '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q13561427,13561427]]"
-  - "[[_Standards/WikiData/WD~Template_Topology,14847644]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Topology,14616571]]"
-practiced_by: "[[_Standards/WikiData/WD~topologist,18663426]]"
-part_of: "[[_Standards/WikiData/WD~mathematics,395]]"
-subclass_of: "[[_Standards/WikiData/WD~mathematics,395]]"
-Dewey_Decimal_Classification: "514"
-OmegaWiki_Defined_Meaning: "505496"
-Universal_Decimal_Classification: "515.1"
+  - '[[_Standards/WikiData/WD~Q13561427,13561427]]'
+  - '[[_Standards/WikiData/WD~Template_Topology,14847644]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Topology,14616571]]'
+practiced_by: '[[_Standards/WikiData/WD~topologist,18663426]]'
+part_of: '[[_Standards/WikiData/WD~mathematics,395]]'
+subclass_of: '[[_Standards/WikiData/WD~mathematics,395]]'
+Dewey_Decimal_Classification: 514
+OmegaWiki_Defined_Meaning: 505496
+Universal_Decimal_Classification: 515.1
 PhilPapers_topic: topology
 Commons_gallery: Topology
 Commons_category: Topology
 image: http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%B6bius%20strip.jpg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/topology
-Classification_of_Instructional_Programs_code: "27.0105"
+Classification_of_Instructional_Programs_code: 27.0105
 Krugosvet_article: matematika/topologiya
 ---
 

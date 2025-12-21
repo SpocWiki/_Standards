@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bell
 has_id_wikidata: Q101401
 studied_by: "[[_Standards/WikiData/WD~campanology,168058]]"
 part_of:
@@ -47,7 +49,7 @@ properties_for_this_type:
   - strike tone
   - creator
   - made from material
-Nomenclature_for_Museum_Cataloging: "11189"
+Nomenclature_for_Museum_Cataloging: 11189
 Commons_gallery: Bell
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Church%20bell%20cutaway.png
 official_name:
@@ -61,24 +63,24 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De%20Dek
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Gl%C3%B6ckschen%2020220720.stl
 described_at_URL: http://www.mimo-db.eu/HornbostelAndSachs/27
 Unicode_character: 🔔
-Hornbostel_Sachs_classification: "111.242"
+Hornbostel_Sachs_classification: 111.242
 Iconclass_notation: 48C73431
 Dewey_Decimal_Classification:
-  - "786.8848"
-  - "786.884819"
+  - 786.8848
+  - 786.884819
 MCN_code: 8306.10.00
-P8189: "987007283278905171"
+P8189: 987007283278905200
 Commons_category: Bells
 Krugosvet_article: muzyka/kolokol
 ---
 
-# [[Bell]] 
+# [[Bell]] 🔔 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Bell,101401|WD~Bell,101401]] 
 
 ## #has_/text_of_/abstract 
 
-> A **Bell** /ˈbɛl/ () is a directly struck idiophone percussion instrument. 
+> A **Bell** /ˈbɛl/ is a directly struck idiophone percussion instrument. 
 > Most bells have the shape of a hollow cup 
 > that when struck vibrates in a single strong strike tone, 
 > with its sides forming an efficient resonator. 

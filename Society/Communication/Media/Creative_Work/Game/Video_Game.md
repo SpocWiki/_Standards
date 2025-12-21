@@ -4,21 +4,23 @@ aliases:
   - video_game
   - VideoGame
   - is_a_video_game
+  - Video_Game
+  - Video Game
 has_id_wikidata: Q7889
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - video_game
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_video_game Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

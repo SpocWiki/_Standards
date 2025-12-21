@@ -1,31 +1,33 @@
 ---
 aliases:
-- award
-- award
-- award
-- has_text_of_award
-- "schema:award"
-- "dbo:award"
-- "wdt:P166"
+  - award
+  - award
+  - award
+  - has_text_of_award
+  - schema:award
+  - dbo:award
+  - wdt:P166
+  - has_award
+  - has award
 confidential: public
 cssclasses:
-- Predicate
-- Text
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- award
-layout: 
-license: "CC BY-SA 4.0"
+  - award
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_text_of_award
 publish: true
-publishDate: 
+publishDate: ''
 supersedes: awards
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_award
 type: Pred_Text
 ---

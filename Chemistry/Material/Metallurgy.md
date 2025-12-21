@@ -1,29 +1,31 @@
 ---
+aliases:
+  - Metallurgy
+has_id_wikidata: Q11467
 Colon_Classification: F191
 Commons_category: Metallurgy
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 Dewey_Decimal_Classification: 669
-different_from: "[[_Standards/WikiData/WD~Q11777633,11777633]]"
-has_id_wikidata: Q11467
+different_from: '[[_Standards/WikiData/WD~Q11777633,11777633]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/VysokePece1.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
+  - '[[_Standards/WikiData/WD~industry,268592]]'
+  - '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
 MeSH_tree_code: J01.576.655.875.400
-partially_coincident_with: "[[_Standards/WikiData/WD~Q19724861,19724861]]"
+partially_coincident_with: '[[_Standards/WikiData/WD~Q19724861,19724861]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~metallurgist,18576582]]"
-  - "[[_Standards/WikiData/WD~metallurgical_engineer,27947380]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~metal_industry,1924906]]"
+  - '[[_Standards/WikiData/WD~metallurgist,18576582]]'
+  - '[[_Standards/WikiData/WD~metallurgical_engineer,27947380]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~metal_industry,1924906]]'
 Stack_Exchange_tag: https://chemistry.stackexchange.com/tags/metallurgy
-subclass_of: "[[_Standards/WikiData/WD~materials_science,228736]]"
+subclass_of: '[[_Standards/WikiData/WD~materials_science,228736]]'
 U_S_National_Archives_Identifier: 10644494
 ---
 

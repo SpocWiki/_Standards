@@ -1,30 +1,31 @@
 ---
 aliases:
-- negative-notes
-- negativeNotes
-- has_negative_notes
-- has_cons
-- "has cons"
+  - negative-notes
+  - negativeNotes
+  - has_negative_notes
+  - has_cons
+  - has cons
+  - has negative notes
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- negative_notes
-- negative
-- notes
-layout: 
-license: "CC BY-SA 4.0"
+  - negative_notes
+  - negative
+  - notes
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_negative_notes
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_negative_notes
 type: Predi_Relation
 ---

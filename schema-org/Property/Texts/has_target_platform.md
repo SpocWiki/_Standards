@@ -4,22 +4,24 @@ aliases:
   - target_platform
   - targetPlatform
   - has_text_of_target_platform
+  - has_target_platform
+  - has target platform
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - target
   - platform
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_target_platform
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

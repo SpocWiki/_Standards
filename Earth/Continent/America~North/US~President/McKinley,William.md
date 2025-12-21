@@ -1,26 +1,26 @@
 ---
 aliases:
-- McKinley,William
-- "William McKinley"
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - McKinley,William
+  - William McKinley
+  - ''
 has_id_wikidata: Q35041
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: McKinley,William
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: McKinley,William
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- McKinley,William
-- 
+  - McKinley,William
+  - ''
 title: McKinley,William
 type: private_note
 ---

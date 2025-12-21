@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~AutoBodyShop
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/AutoBodyShop
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoBodyShop
-- is_an_/AutoBodyShop
-- schema-org/AutoBodyShop
+  - class/AutoBodyShop
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoBodyShop
+  - is_an_/AutoBodyShop
+  - schema-org/AutoBodyShop
 tags:
-- class/FileClass
-- class/AutoBodyShop
-- '#is_an_/AutoBodyShop'
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoBodyShop
+  - class/FileClass
+  - class/AutoBodyShop
+  - '#is_an_/AutoBodyShop'
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoBodyShop
 version: 2.0
 ---
 

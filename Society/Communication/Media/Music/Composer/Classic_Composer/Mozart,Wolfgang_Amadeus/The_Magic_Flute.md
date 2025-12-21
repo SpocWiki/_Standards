@@ -2,53 +2,54 @@
 aliases:
   - The_Magic_Flute
   - Die Zauberflöte
+  - The Magic Flute
 has_id_wikidata: Q5064
-lyricist: "[[_Standards/WikiData/WD~Emanuel_Schikaneder,213547]]"
-librettist: "[[_Standards/WikiData/WD~Emanuel_Schikaneder,213547]]"
+lyricist: '[[_Standards/WikiData/WD~Emanuel_Schikaneder,213547]]'
+librettist: '[[_Standards/WikiData/WD~Emanuel_Schikaneder,213547]]'
 genre:
-  - "[[_Standards/WikiData/WD~singspiel,377258]]"
-  - "[[_Standards/WikiData/WD~opera,1344]]"
-location_of_first_performance: "[[_Standards/WikiData/WD~Theater_auf_der_Wieden,673479]]"
-country_of_origin: "[[_Standards/WikiData/WD~Archduchy_of_Austria,699964]]"
+  - '[[_Standards/WikiData/WD~singspiel,377258]]'
+  - '[[_Standards/WikiData/WD~opera,1344]]'
+location_of_first_performance: '[[_Standards/WikiData/WD~Theater_auf_der_Wieden,673479]]'
+country_of_origin: '[[_Standards/WikiData/WD~Archduchy_of_Austria,699964]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Der_Hölle_Rache_kocht_in_meinem_Herzen,1194515]]"
-  - "[[_Standards/WikiData/WD~Der_Vogelfänger_bin_ich_ja,3023536]]"
-  - "[[_Standards/WikiData/WD~Dies_Bildnis_ist_bezaubernd_schön,3027514]]"
-  - "[[_Standards/WikiData/WD~O_zittre_nicht,_mein_lieber_Sohn,3347827]]"
+  - '[[_Standards/WikiData/WD~Der_Hölle_Rache_kocht_in_meinem_Herzen,1194515]]'
+  - '[[_Standards/WikiData/WD~Der_Vogelfänger_bin_ich_ja,3023536]]'
+  - '[[_Standards/WikiData/WD~Dies_Bildnis_ist_bezaubernd_schön,3027514]]'
+  - '[[_Standards/WikiData/WD~O_zittre_nicht,_mein_lieber_Sohn,3347827]]'
   - "[[_Standards/WikiData/WD~In_diesen_heil'gen_Hallen,50321655]]"
-followed_by: "[[_Standards/WikiData/WD~The_Magic_Flute_Part_Two,1198170]]"
-part_of_the_series: "[[_Standards/WikiData/WD~list_of_operas_by_Wolfgang_Amadeus_Mozart,1922620]]"
+followed_by: '[[_Standards/WikiData/WD~The_Magic_Flute_Part_Two,1198170]]'
+part_of_the_series: '[[_Standards/WikiData/WD~list_of_operas_by_Wolfgang_Amadeus_Mozart,1922620]]'
 characters:
-  - "[[_Standards/WikiData/WD~Papageno,2455222]]"
-  - "[[_Standards/WikiData/WD~Pamina,9054901]]"
-  - "[[_Standards/WikiData/WD~Sarastro,9074573]]"
-  - "[[_Standards/WikiData/WD~The_Queen_of_the_Night,11687745]]"
-  - "[[_Standards/WikiData/WD~Tamino,11704223]]"
-  - "[[_Standards/WikiData/WD~Papagena,50804851]]"
-  - "[[_Standards/WikiData/WD~Monostatos,53700428]]"
-  - "[[_Standards/WikiData/WD~Two_armoured_men,54997339]]"
-  - "[[_Standards/WikiData/WD~Three_slaves,54997344]]"
-  - "[[_Standards/WikiData/WD~Speaker_of_the_temple,55010092]]"
-  - "[[_Standards/WikiData/WD~First_priest,55010099]]"
-  - "[[_Standards/WikiData/WD~Second_priest,55010102]]"
-  - "[[_Standards/WikiData/WD~Third_priest,55010106]]"
-  - "[[_Standards/WikiData/WD~Lady_1,55010116]]"
-  - "[[_Standards/WikiData/WD~Lady_3,55010123]]"
-  - "[[_Standards/WikiData/WD~Lady_2,55010120]]"
-  - "[[_Standards/WikiData/WD~First_child_spirit,55010126]]"
-  - "[[_Standards/WikiData/WD~Second_child_spirit,55010132]]"
-  - "[[_Standards/WikiData/WD~Third_child_spirit,55010136]]"
-  - "[[_Standards/WikiData/WD~Priests,_women,_people,_slaves,63677471]]"
-discography: "[[_Standards/WikiData/WD~The_Magic_Flute_discography,6103799]]"
-based_on: "[[_Standards/WikiData/WD~libretto_of_The_Magic_Flute,24965474]]"
-instance_of: "[[_Standards/WikiData/WD~dramatico_musical_work,58483083]]"
+  - '[[_Standards/WikiData/WD~Papageno,2455222]]'
+  - '[[_Standards/WikiData/WD~Pamina,9054901]]'
+  - '[[_Standards/WikiData/WD~Sarastro,9074573]]'
+  - '[[_Standards/WikiData/WD~The_Queen_of_the_Night,11687745]]'
+  - '[[_Standards/WikiData/WD~Tamino,11704223]]'
+  - '[[_Standards/WikiData/WD~Papagena,50804851]]'
+  - '[[_Standards/WikiData/WD~Monostatos,53700428]]'
+  - '[[_Standards/WikiData/WD~Two_armoured_men,54997339]]'
+  - '[[_Standards/WikiData/WD~Three_slaves,54997344]]'
+  - '[[_Standards/WikiData/WD~Speaker_of_the_temple,55010092]]'
+  - '[[_Standards/WikiData/WD~First_priest,55010099]]'
+  - '[[_Standards/WikiData/WD~Second_priest,55010102]]'
+  - '[[_Standards/WikiData/WD~Third_priest,55010106]]'
+  - '[[_Standards/WikiData/WD~Lady_1,55010116]]'
+  - '[[_Standards/WikiData/WD~Lady_3,55010123]]'
+  - '[[_Standards/WikiData/WD~Lady_2,55010120]]'
+  - '[[_Standards/WikiData/WD~First_child_spirit,55010126]]'
+  - '[[_Standards/WikiData/WD~Second_child_spirit,55010132]]'
+  - '[[_Standards/WikiData/WD~Third_child_spirit,55010136]]'
+  - '[[_Standards/WikiData/WD~Priests,_women,_people,_slaves,63677471]]'
+discography: '[[_Standards/WikiData/WD~The_Magic_Flute_discography,6103799]]'
+based_on: '[[_Standards/WikiData/WD~libretto_of_The_Magic_Flute,24965474]]'
+instance_of: '[[_Standards/WikiData/WD~dramatico_musical_work,58483083]]'
 derivative_work: "[[_Standards/WikiData/WD~Ach,_ich_fühl's_=_O,_gwae_fi_allan_o'r_opera_Die_Zauberflöte_,75286266]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~opera,1344]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
+form_of_creative_work: '[[_Standards/WikiData/WD~opera,1344]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
 number_of_parts_of_this_work: 2
-language_of_work_or_name: "[[_Standards/WikiData/WD~German,188]]"
-composer: "[[_Standards/WikiData/WD~Wolfgang_Amadeus_Mozart,254]]"
-catalog_code: "620"
+language_of_work_or_name: '[[_Standards/WikiData/WD~German,188]]'
+composer: '[[_Standards/WikiData/WD~Wolfgang_Amadeus_Mozart,254]]'
+catalog_code: 620
 title: Die Zauberflöte
 publication_date: 1800-01-01T00:00:00Z
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Mozart%20-%20Magic%20Flute%20Overture.ogg

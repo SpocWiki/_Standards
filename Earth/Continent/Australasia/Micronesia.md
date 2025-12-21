@@ -1,61 +1,63 @@
 ---
+aliases:
+  - Micronesia
 has_id_wikidata: Q702
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Palau,695]]'
-- "[[_Standards/WikiData/WD~Marshall_Islands,709]]"
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~United_States,30]]"
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
+  - "[[_Standards/WikiData/WD~Palau,695]]"
+  - "[[_Standards/WikiData/WD~Marshall_Islands,709]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Australia,408]]"
 shares_border_with:
-- '[[_Standards/WikiData/WD~Palau,695]]'
-- "[[_Standards/WikiData/WD~United_States,30]]"
-- "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
+  - "[[_Standards/WikiData/WD~Palau,695]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
 country: "[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]"
 member_of:
-- "[[_Standards/WikiData/WD~United_Nations,1065]]"
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
-- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
-- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
-- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+  - "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
 language_used:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Pohnpeian,28422]]'
-- '[[_Standards/WikiData/WD~Satawalese,28477]]'
-- '[[_Standards/WikiData/WD~Chuukese,33161]]'
-- '[[_Standards/WikiData/WD~Kosraean,33464]]'
-- '[[_Standards/WikiData/WD~Yapese,34029]]'
-- '[[_Standards/WikiData/WD~Woleaian,34037]]'
-- '[[_Standards/WikiData/WD~Kapingamarangi,35771]]'
-- '[[_Standards/WikiData/WD~Puluwatese,36397]]'
-- "[[_Standards/WikiData/WD~Ngatik_Men_s_Creole,36400]]"
-- '[[_Standards/WikiData/WD~Pingelapese,36421]]'
-- '[[_Standards/WikiData/WD~Ulithian,36842]]'
-- '[[_Standards/WikiData/WD~Mokilese,2335528]]'
-- '[[_Standards/WikiData/WD~Nukuoro,2635961]]'
-- '[[_Standards/WikiData/WD~Pááfang,3063517]]'
-- '[[_Standards/WikiData/WD~Mortlockese,3324598]]'
-- '[[_Standards/WikiData/WD~Nguluwan,6528643]]'
-- '[[_Standards/WikiData/WD~Namonuito,12908815]]'
-official_language: '[[_Standards/WikiData/WD~English,1860]]'
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Pohnpeian,28422]]"
+  - "[[_Standards/WikiData/WD~Satawalese,28477]]"
+  - "[[_Standards/WikiData/WD~Chuukese,33161]]"
+  - "[[_Standards/WikiData/WD~Kosraean,33464]]"
+  - "[[_Standards/WikiData/WD~Yapese,34029]]"
+  - "[[_Standards/WikiData/WD~Woleaian,34037]]"
+  - "[[_Standards/WikiData/WD~Kapingamarangi,35771]]"
+  - "[[_Standards/WikiData/WD~Puluwatese,36397]]"
+  - "[[_Standards/WikiData/WD~Ngatik_Men_s_Creole,36400]]"
+  - "[[_Standards/WikiData/WD~Pingelapese,36421]]"
+  - "[[_Standards/WikiData/WD~Ulithian,36842]]"
+  - "[[_Standards/WikiData/WD~Mokilese,2335528]]"
+  - "[[_Standards/WikiData/WD~Nukuoro,2635961]]"
+  - "[[_Standards/WikiData/WD~Pááfang,3063517]]"
+  - "[[_Standards/WikiData/WD~Mortlockese,3324598]]"
+  - "[[_Standards/WikiData/WD~Nguluwan,6528643]]"
+  - "[[_Standards/WikiData/WD~Namonuito,12908815]]"
+official_language: "[[_Standards/WikiData/WD~English,1860]]"
 instance_of:
-- '[[_Standards/WikiData/WD~country,6256]]'
-- "[[_Standards/WikiData/WD~island_country,112099]]"
-- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~island_country,112099]]"
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC+10_00,7056]]'
-- '[[_Standards/WikiData/WD~UTC+11_00,7069]]'
+  - "[[_Standards/WikiData/WD~UTC+10_00,7056]]"
+  - "[[_Standards/WikiData/WD~UTC+11_00,7069]]"
 lowest_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 water_as_percent_of_area: 0
@@ -65,8 +67,8 @@ marriageable_age:
   - 16
   - 18
 minimum_temperature_record: 17.8
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.fm,40423]]'
-capital: '[[_Standards/WikiData/WD~Palikir,42751]]'
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.fm,40423]]"
+capital: "[[_Standards/WikiData/WD~Palikir,42751]]"
 maximum_temperature_record: 36.1
 Gini_coefficient: 40.1
 IAB_code: 1292
@@ -75,8 +77,8 @@ FIPS_5_2_numeric_code_US_states_: 64
 Human_Development_Index: 0.628
 area: 702
 continent:
-- '[[_Standards/WikiData/WD~Oceania,55643]]'
-- "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
+  - "[[_Standards/WikiData/WD~Oceania,55643]]"
+  - "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
 total_fertility_rate: 3.243
 death_rate:
   - 5.728
@@ -118,28 +120,28 @@ rural_population:
 population: 105544
 OmegaWiki_Defined_Meaning: 153582
 short_name:
-- FM
-- "\U0001F1EB\U0001F1F2"
+  - FM
+  - 🇫🇲
 INSEE_countries_and_foreign_territories_code: 99516
 U_S_National_Archives_Identifier: 10035700
 flag: "[[_Standards/WikiData/WD~flag_of_the_Federated_States_of_Micronesia,190648]]"
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Chuuk,221684]]'
-- "[[_Standards/WikiData/WD~Kosrae_State,1785093]]"
-- "[[_Standards/WikiData/WD~Pohnpei_State,7771127]]"
-- "[[_Standards/WikiData/WD~Yap_State,11342951]]"
+  - "[[_Standards/WikiData/WD~Chuuk,221684]]"
+  - "[[_Standards/WikiData/WD~Kosrae_State,1785093]]"
+  - "[[_Standards/WikiData/WD~Pohnpei_State,7771127]]"
+  - "[[_Standards/WikiData/WD~Yap_State,11342951]]"
 has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Seal_of_the_Federated_States_of_Micronesia,459549]]"
 coat_of_arms: "[[_Standards/WikiData/WD~Seal_of_the_Federated_States_of_Micronesia,459549]]"
 basic_form_of_government: "[[_Standards/WikiData/WD~federal_republic,512187]]"
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~911,533806]]'
-- '[[_Standards/WikiData/WD~111,4547309]]'
+  - "[[_Standards/WikiData/WD~911,533806]]"
+  - "[[_Standards/WikiData/WD~111,4547309]]"
 anthem:
-- "[[_Standards/WikiData/WD~Patriots_of_Micronesia,570327]]"
-- '[[_Standards/WikiData/WD~Preamble,6498282]]'
+  - "[[_Standards/WikiData/WD~Patriots_of_Micronesia,570327]]"
+  - "[[_Standards/WikiData/WD~Preamble,6498282]]"
 described_by_source: "[[_Standards/WikiData/WD~Historical_Dictionary_of_Switzerland,642074]]"
-twinned_administrative_body: '[[_Standards/WikiData/WD~Konan,820496]]'
-highest_point: '[[_Standards/WikiData/WD~Dolohmwar,1236265]]'
+twinned_administrative_body: "[[_Standards/WikiData/WD~Konan,820496]]"
+highest_point: "[[_Standards/WikiData/WD~Dolohmwar,1236265]]"
 legislative_body: "[[_Standards/WikiData/WD~Congress_of_the_Federated_States_of_Micronesia,1287548]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_Federated_States_of_Micronesia,2453777]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Federated_States_of_Micronesia,2574246]]"
@@ -147,26 +149,26 @@ economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_Federated_States_of_M
 culture: "[[_Standards/WikiData/WD~culture_of_the_Federated_States_of_Micronesia,3007272]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_Federated_States_of_Micronesia,3044354]]"
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-different_from: '[[_Standards/WikiData/WD~Micronesia,3359409]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Micronesia,3359409]]'
-part_of: '[[_Standards/WikiData/WD~Micronesia,3359409]]'
-named_after: '[[_Standards/WikiData/WD~Micronesia,3359409]]'
+different_from: "[[_Standards/WikiData/WD~Micronesia,3359409]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Micronesia,3359409]]"
+part_of: "[[_Standards/WikiData/WD~Micronesia,3359409]]"
+named_after: "[[_Standards/WikiData/WD~Micronesia,3359409]]"
 foundational_text: "[[_Standards/WikiData/WD~Constitution_of_the_Federated_States_of_Micronesia,5164251]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Federated_States_of_Micronesia,7112761]]"
 head_of_state: "[[_Standards/WikiData/WD~Wesley_Simina,7984081]]"
 head_of_government: "[[_Standards/WikiData/WD~Wesley_Simina,7984081]]"
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q8077135,8077135]]'
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q8077135,8077135]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Federated_States_of_Micronesia_topics,13365388]]"
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
-- "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
+  - "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+  - "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_Federated_States_of_Micronesia,30133416]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_the_Federated_States_of_Micronesia,30133416]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_The_Federated_States_of_Micronesia,52258994]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_the_Federated_States_of_Micronesia,53709965]]"
 archives_at: "[[_Standards/WikiData/WD~Federated_States_of_Micronesia_Office_of_National_Archives,_Culture_and_Historic_Preservation,106690283]]"
-coordinates_of_northernmost_point: "Point(139.7 10.08)"
+coordinates_of_northernmost_point: Point(139.7 10.08)
 demonym:
   - ميكرونيزي
   - ميكرونيزية
@@ -193,48 +195,48 @@ demonym:
   - micronesiana
   - micronesiane
   - micronesiani
-ISNI: 0000000121095799
+ISNI: 121095799
 motto_text:
-- "Heddwch, Undod, Rhyddid"
-- "Experience the warmth"
-- "Peace, Unity, Liberty"
-official_website: "https://gov.fm"
-coordinates_of_easternmost_point: "Point(162.973889 5.313333)"
+  - Heddwch, Undod, Rhyddid
+  - Experience the warmth
+  - Peace, Unity, Liberty
+official_website: https://gov.fm
+coordinates_of_easternmost_point: Point(162.973889 5.313333)
 native_label:
-- Mikronesia
-- "Federated States of Micronesia"
-inception: "1986-11-03"
-has_time_started: "1986-11-03"
-coordinate_location: "Point(158.183333333 6.916666666)"
+  - Mikronesia
+  - Federated States of Micronesia
+inception: 1986-11-03
+has_time_started: 1986-11-03
+coordinate_location: Point(158.183333333 6.916666666)
 nominal_GDP:
   - 404028900
   - 427094119
 IOC_country_code: FSM
 ISO_3166_1_alpha_3_code: FSM
-geoshape: "http://commons.wikimedia.org/data/main/Data:Federated+States+of+Micronesia.map"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Falalop%20Island%20%28Ulithi%20atoll%2C%20Federated%20States%20of%20Micronesia%29%20banner%20Aerial%20view%20of%20airfield.jpg"
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Federated%20States%20of%20Micronesia.svg"
+geoshape: http://commons.wikimedia.org/data/main/Data:Federated+States+of+Micronesia.map
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Falalop%20Island%20%28Ulithi%20atoll%2C%20Federated%20States%20of%20Micronesia%29%20banner%20Aerial%20view%20of%20airfield.jpg
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Federated%20States%20of%20Micronesia.svg
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-GrandCelinien-%C3%89tats%20f%C3%A9d%C3%A9r%C3%A9s%20de%20Micron%C3%A9sie.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%AE%E0%AC%BE%E0%AC%87%E0%AC%95%E0%AD%8D%E0%AC%B0%E0%AD%8B%E0%AC%A8%E0%AD%87%E0%AC%B8%E0%AC%BF%E0%AC%86.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-Estats%20Federats%20de%20Micron%C3%A8sia.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Micronezia.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Pl-Sfederowane%20Stany%20Mikronezji.ogg"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Micronesia%20on%20the%20globe%20%28small%20islands%20magnified%29%20%28Polynesia%20centered%29.svg"
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20the%20Federated%20States%20of%20Micronesia.svg"
-country_calling_code: +691
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-GrandCelinien-%C3%89tats%20f%C3%A9d%C3%A9r%C3%A9s%20de%20Micron%C3%A9sie.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%AE%E0%AC%BE%E0%AC%87%E0%AC%95%E0%AD%8D%E0%AC%B0%E0%AD%8B%E0%AC%A8%E0%AD%87%E0%AC%B8%E0%AC%BF%E0%AC%86.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-Estats%20Federats%20de%20Micron%C3%A8sia.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Micronezia.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Pl-Sfederowane%20Stany%20Mikronezji.ogg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Micronesia%20on%20the%20globe%20%28small%20islands%20magnified%29%20%28Polynesia%20centered%29.svg
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20the%20Federated%20States%20of%20Micronesia.svg
+country_calling_code: 691
 Libris_URI: 1zcfjv1k00zfm8d
-Commons_gallery: "Federated States of Micronesia"
-Commons_category: "Federated States of Micronesia"
+Commons_gallery: Federated States of Micronesia
+Commons_category: Federated States of Micronesia
 hashtag: FederatedStatesofMicronesia
-Unicode_character: 🇫🇲 
+Unicode_character: 🇫🇲
 CIVICUS_Monitor_country_entry: micronesia
 subreddit: micronesia
-IPA_transcription: "mɪkɾu'neːsɪɑfœdəɾɑʂuːnː"
+IPA_transcription: mɪkɾu'neːsɪɑfœdəɾɑʂuːnː
 Colon_Classification: SG--935
 Krugosvet_article: strany_mira/MIKRONEZIYA.html
-name_in_native_language: "les États fédérés de Micronésie"
-official_name: "les États fédérés de Micronésie"
+name_in_native_language: les États fédérés de Micronésie
+official_name: les États fédérés de Micronésie
 ---
 
 # [[Micronesia]] 

@@ -1,41 +1,43 @@
 ---
 aliases:
-- "Great Influenza epidemic"
-- "Spanish flu"
+  - Great Influenza epidemic
+  - Spanish flu
+  - 1918-1920_flu_pandemic
+  - 1918-1920 flu pandemic
+has_id_wikidata: Q178275
 anatomical_location: '[[_Standards/WikiData/WD~human_lung,2640512]]'
-Commons_category: "Spanish flu"
+Commons_category: Spanish flu
 country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
-described_at_URL: "https://www.who.int/influenza/pandemic-influenza-an-evolving-challenge/en/"
+described_at_URL: https://www.who.int/influenza/pandemic-influenza-an-evolving-challenge/en/
 described_by_source: '[[_Standards/WikiData/WD~Pale_Rider._The_Spanish_Flu_of_1918_and_How_it_Changed_the_World,89882914]]'
 different_from: '[[_Standards/WikiData/WD~trench_fever,393477]]'
 disease_transmission_process:
-- '[[_Standards/WikiData/WD~waterfowl,82592]]'
-- '[[_Standards/WikiData/WD~droplet_infection,871752]]'
-end_time: "1920-12-01T00:00:00Z"
-has_id_wikidata: Q178275
+  - '[[_Standards/WikiData/WD~waterfowl,82592]]'
+  - '[[_Standards/WikiData/WD~droplet_infection,871752]]'
+end_time: 1920-12-01T00:00:00Z
 has_immediate_cause: '[[_Standards/WikiData/WD~influenza_A_virus_subtype_H1N1,161393]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emergency%20hospital%20during%20Influenza%20epidemic%2C%20Camp%20Funston%2C%20Kansas%20-%20NCP%201603.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Emergency%20hospital%20during%20Influenza%20epidemic%2C%20Camp%20Funston%2C%20Kansas%20-%20NCP%201603.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~zoonosis,182672]]'
-- '[[_Standards/WikiData/WD~influenza_pandemic,2723958]]'
-- '[[_Standards/WikiData/WD~disease_outbreak,3241045]]'
-- '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
-- '[[_Standards/WikiData/WD~pandemic,12184]]'
+  - '[[_Standards/WikiData/WD~zoonosis,182672]]'
+  - '[[_Standards/WikiData/WD~influenza_pandemic,2723958]]'
+  - '[[_Standards/WikiData/WD~disease_outbreak,3241045]]'
+  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+  - '[[_Standards/WikiData/WD~pandemic,12184]]'
 MeSH_tree_code: K01.400.504.968.450
 number_of_cases: 500000000
 number_of_deaths: 50000000
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]'
 P8189: 987007537434205171
 start_point:
-- '[[_Standards/WikiData/WD~Étaples,273522]]'
-- '[[_Standards/WikiData/WD~Haskell_County,374663]]'
-- '[[_Standards/WikiData/WD~Camp_Funston,1029832]]'
-- '[[_Standards/WikiData/WD~Fort_Riley,1438701]]'
-start_time: "1918-01-01T00:00:00Z"
+  - '[[_Standards/WikiData/WD~Étaples,273522]]'
+  - '[[_Standards/WikiData/WD~Haskell_County,374663]]'
+  - '[[_Standards/WikiData/WD~Camp_Funston,1029832]]'
+  - '[[_Standards/WikiData/WD~Fort_Riley,1438701]]'
+start_time: 1918-01-01T00:00:00Z
 subclass_of:
-- '[[_Standards/WikiData/WD~influenza,2840]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
-subject_named_as: "Spanische Grippe"
+  - '[[_Standards/WikiData/WD~influenza,2840]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
+subject_named_as: Spanische Grippe
 UMLS_CUI: C3658260
 ---
 

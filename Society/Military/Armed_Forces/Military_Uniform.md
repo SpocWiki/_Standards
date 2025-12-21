@@ -1,20 +1,22 @@
 ---
 aliases:
   - Military_uniform
+  - Military_Uniform
+  - Military Uniform
 has_id_wikidata: Q1196123
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-studied_by: "[[_Standards/WikiData/WD~cultural_history_of_the_military,1593568]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+studied_by: '[[_Standards/WikiData/WD~cultural_history_of_the_military,1593568]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~military_personal_equipment,11798718]]"
-  - "[[_Standards/WikiData/WD~uniform,7434]]"
-Nomenclature_for_Museum_Cataloging: "14129"
-U_S_National_Archives_Identifier: "10675204"
-Thomson_Reuters_Business_Classification: "5210101018"
+  - '[[_Standards/WikiData/WD~military_personal_equipment,11798718]]'
+  - '[[_Standards/WikiData/WD~uniform,7434]]'
+Nomenclature_for_Museum_Cataloging: 14129
+U_S_National_Archives_Identifier: 10675204
+Thomson_Reuters_Business_Classification: 5210101018
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Infanterie.%20FRENCH%20INFANTRY%20UNIFORMS%20Warriors%20soldiers%20from%20antiquity%20%28Gauls%29%20to%201918.%20Public%20domain%20illustration%20Larousse%20du%20XX%C3%A8me%20si%C3%A8cle%201932.jpg
 exact_match: http://wordnet-rdf.princeton.edu/wn30/03763968-n
-Common_Procurement_Vocabulary_code: "35811300"
+Common_Procurement_Vocabulary_code: 35811300
 Commons_category: Military uniforms
 IMDb_keyword: military-uniform
 ---

@@ -3,12 +3,14 @@ aliases:
   - excited state
   - Anregung
   - Angeregter Zustand
+  - Excited_State
+  - Excited State
 has_id_wikidata: Q215328
-instance_of: "[[_Standards/WikiData/WD~energy_level,669532]]"
-facet_of: "[[_Standards/WikiData/WD~excitation,108898119]]"
+instance_of: '[[_Standards/WikiData/WD~energy_level,669532]]'
+facet_of: '[[_Standards/WikiData/WD~excitation,108898119]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~excited_state_chemistry,113207671]]"
-  - "[[_Standards/WikiData/WD~quantum_mechanics,944]]"
+  - '[[_Standards/WikiData/WD~excited_state_chemistry,113207671]]'
+  - '[[_Standards/WikiData/WD~quantum_mechanics,944]]'
 IEV_number: 113-06-09
 ---
 

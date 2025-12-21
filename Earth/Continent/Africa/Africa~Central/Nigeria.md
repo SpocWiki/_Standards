@@ -7,13 +7,13 @@ aliases:
   - Нигерия
   - the Federal Republic of Nigeria
   - la República Federal de Nigeria
+has_id_wikidata: Q1033
 Languages:
   - en-NG
   - ha
   - yo
   - ig
   - ff
-has_id_wikidata: Q1033
 location:
   - 9.17222
   - 6.46778
@@ -908,12 +908,12 @@ cssclasses:
   - Country
 publish: true
 title: Nigeria
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 ---
 
 # [[Nigeria]] 

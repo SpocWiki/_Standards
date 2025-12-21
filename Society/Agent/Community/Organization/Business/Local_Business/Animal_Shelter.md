@@ -4,20 +4,22 @@ aliases:
   - animal_shelter
   - AnimalShelter
   - is_an_animal_shelter
+  - Animal_Shelter
+  - Animal Shelter
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - animal_shelter
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_animal_shelter Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

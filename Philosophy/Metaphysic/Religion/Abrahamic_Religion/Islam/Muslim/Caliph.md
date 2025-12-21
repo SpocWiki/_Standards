@@ -2,23 +2,24 @@
 aliases:
   - Kalif
   - Caliphate
+  - Caliph
 has_id_wikidata: Q65997
-organization_directed_by_the_office_or_position: "[[_Standards/WikiData/WD~caliphate,131401]]"
+organization_directed_by_the_office_or_position: '[[_Standards/WikiData/WD~caliphate,131401]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~title_of_authority,480319]]"
-  - "[[_Standards/WikiData/WD~position,4164871]]"
-  - "[[_Standards/WikiData/WD~hereditary_title,5737899]]"
+  - '[[_Standards/WikiData/WD~title_of_authority,480319]]'
+  - '[[_Standards/WikiData/WD~position,4164871]]'
+  - '[[_Standards/WikiData/WD~hereditary_title,5737899]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-has_list: "[[_Standards/WikiData/WD~caliph_of_Islam,1416228]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+has_list: '[[_Standards/WikiData/WD~caliph_of_Islam,1416228]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~religious_leader,15995642]]"
-  - "[[_Standards/WikiData/WD~monarch,116]]"
-  - "[[_Standards/WikiData/WD~head_of_state,48352]]"
+  - '[[_Standards/WikiData/WD~religious_leader,15995642]]'
+  - '[[_Standards/WikiData/WD~monarch,116]]'
+  - '[[_Standards/WikiData/WD~head_of_state,48352]]'
 inception: 0632-01-01T00:00:00Z
 native_label:
   - خَلِيفَة
@@ -30,7 +31,7 @@ exact_match:
   - https://finto.fi/koko/en/page/p75488
   - https://finto.fi/ysa/en/page/Y208730
   - https://finto.fi/yso/en/page/p29154
-P8189: "987007293762005171"
+P8189: 987007293762005171
 Commons_category: Caliphs
 Krugosvet_article: kultura_i_obrazovanie/religiya/HALIF.html
 male_form_of_label: خليفة د لمسلمين

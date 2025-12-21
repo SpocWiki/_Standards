@@ -1,25 +1,27 @@
 ---
 aliases:
   - Kommunikationssatellit
+  - Communications_Satellite
+  - Communications Satellite
 has_id_wikidata: Q149918
 has_use: "[[../../WikiData/WD~Satellite_communication,2225985]]"
 subclass_of: "[[_Standards/WikiData/WD~artificial_satellite_of_the_Earth,12832168]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_communications_satellite,13965330]]"
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 instance_of: "[[_Standards/WikiData/WD~spacecraft_type,131610589]]"
-Nomenclature_for_Museum_Cataloging: "11739"
+Nomenclature_for_Museum_Cataloging: 11739
 Unicode_character: 🛰
 image: http://commons.wikimedia.org/wiki/Special:FilePath/AFSATCOM%20diagram.PNG
 MIL_STD_2525_Symbol_Identification_Code:
-  - "10010500001111000000"
-  - "10010500001206000000"
-Iconclass_notation: "46E672"
-P8189: "987007294962805171"
+  - 10010500001111000000
+  - 10010500001206000000
+Iconclass_notation: .inf
+P8189: 987007294962805100
 Commons_category: Communication satellites
 Krugosvet_article: nauka_i_tehnika/transport_i_svyaz/SPUTNIK_SVYAZI.html
 ---
 
-# [[Communications_Satellite]] 
+# [[Communications_Satellite]] 🛰 
 
 #is_/same_as :: [[../../WikiData/WD~Communications_satellite,149918|WD~Communications_satellite,149918]] 
 #has_/created :: [[../IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication|Satellite_Communication]]  

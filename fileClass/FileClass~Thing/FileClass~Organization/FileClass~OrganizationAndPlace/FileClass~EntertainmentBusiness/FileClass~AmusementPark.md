@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~AmusementPark
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/AmusementPark
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AmusementPark
-- is_an_/AmusementPark
-- schema-org/AmusementPark
+  - class/AmusementPark
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AmusementPark
+  - is_an_/AmusementPark
+  - schema-org/AmusementPark
 tags:
-- class/FileClass
-- class/AmusementPark
-- '#is_an_/AmusementPark'
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AmusementPark
+  - class/FileClass
+  - class/AmusementPark
+  - '#is_an_/AmusementPark'
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AmusementPark
 version: 2.0
 ---
 

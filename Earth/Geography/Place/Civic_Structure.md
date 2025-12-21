@@ -4,20 +4,22 @@ aliases:
   - civic_structure
   - CivicStructure
   - is_a_civic_structure
+  - Civic_Structure
+  - Civic Structure
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - civic_structure
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_civic_structure Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

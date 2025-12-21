@@ -4,21 +4,23 @@ aliases:
   - body_measurement_height
   - BodyMeasurementHeight
   - is_a_body_measurement_height
+  - Body_Measurement_Height
+  - Body Measurement Height
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: BodyMeasurementTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - body_measurement_height
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_body_measurement_height Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

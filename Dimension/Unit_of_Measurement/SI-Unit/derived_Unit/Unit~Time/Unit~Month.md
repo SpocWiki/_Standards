@@ -1,38 +1,39 @@
 ---
 aliases:
   - Monat
+  - Unit~Month
 has_id_wikidata: Q5151
 subclass_of:
-  - "[[_Standards/WikiData/WD~time_interval,186081]]"
-  - "[[_Standards/WikiData/WD~point_in_time_with_respect_to_recurrent_timeframe,14795564]]"
+  - '[[_Standards/WikiData/WD~time_interval,186081]]'
+  - '[[_Standards/WikiData/WD~point_in_time_with_respect_to_recurrent_timeframe,14795564]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~unit_of_time,1790144]]"
-  - "[[_Standards/WikiData/WD~unit_without_standard_conversion_to_SI,21684377]]"
-  - "[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]"
-measured_physical_quantity: "[[_Standards/WikiData/WD~duration,2199864]]"
-different_from: "[[_Standards/WikiData/WD~Q18909655,18909655]]"
+  - '[[_Standards/WikiData/WD~unit_of_time,1790144]]'
+  - '[[_Standards/WikiData/WD~unit_without_standard_conversion_to_SI,21684377]]'
+  - '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~duration,2199864]]'
+different_from: '[[_Standards/WikiData/WD~Q18909655,18909655]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q27094048,27094048]]"
-  - "[[_Standards/WikiData/WD~Q110300393,110300393]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q33094604,33094604]]"
+  - '[[_Standards/WikiData/WD~Q27094048,27094048]]'
+  - '[[_Standards/WikiData/WD~Q110300393,110300393]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q33094604,33094604]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~day,573]]"
-  - "[[_Standards/WikiData/WD~week,23387]]"
-part_of: "[[_Standards/WikiData/WD~year,577]]"
+  - '[[_Standards/WikiData/WD~day,573]]'
+  - '[[_Standards/WikiData/WD~week,23387]]'
+part_of: '[[_Standards/WikiData/WD~year,577]]'
 Wikidata_property: month of the year
-subdivision_of_this_unit: "[[_Standards/WikiData/WD~week,23387]]"
+subdivision_of_this_unit: '[[_Standards/WikiData/WD~week,23387]]'
 Wikidata_time_precision: 10
 conversion_to_standard_unit: 29.5
 duration: 29.5
 UCUM_code: mo
-OmegaWiki_Defined_Meaning: "5914"
+OmegaWiki_Defined_Meaning: 5914
 UN_CEFACT_Common_Code: MON
 unit_symbol:
   - MM

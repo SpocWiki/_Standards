@@ -2,21 +2,23 @@
 aliases:
   - Russells Paradoxon
   - Russell's paradox (also known as Russell's antinomy
+  - Russell's_Paradox
+  - Russell's Paradox
 has_id_wikidata: Q33401
-instance_of: "[[_Standards/WikiData/WD~paradox,483372]]"
+instance_of: '[[_Standards/WikiData/WD~paradox,483372]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~axiomatic_set_theory,904423]]"
-  - "[[_Standards/WikiData/WD~set_theory,12482]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~axiomatic_set_theory,904423]]'
+  - '[[_Standards/WikiData/WD~set_theory,12482]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 time_of_discovery_or_invention: 1901-01-01T00:00:00Z
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>R</mi><mo stretchy="false">:</mo><mo stretchy="false">=</mo><mo fence="false" stretchy="false">{</mo><mi>x</mi><mo stretchy="false">&#x2223;</mo><mi>x</mi><mo stretchy="false">&#x2209;</mo><mi>x</mi><mo fence="false" stretchy="false">}</mo></mstyle></mrow></math>
-named_after: "[[_Standards/WikiData/WD~Bertrand_Russell,33760]]"
+named_after: '[[_Standards/WikiData/WD~Bertrand_Russell,33760]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Bertrand_Russell,33760]]"
-  - "[[_Standards/WikiData/WD~Ernst_Zermelo,57248]]"
+  - '[[_Standards/WikiData/WD~Bertrand_Russell,33760]]'
+  - '[[_Standards/WikiData/WD~Ernst_Zermelo,57248]]'
 author:
-  - "[[_Standards/WikiData/WD~Bertrand_Russell,33760]]"
-  - "[[_Standards/WikiData/WD~Ernst_Zermelo,57248]]"
+  - '[[_Standards/WikiData/WD~Bertrand_Russell,33760]]'
+  - '[[_Standards/WikiData/WD~Ernst_Zermelo,57248]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Russell%27s%20paradox.svg
 PhilPapers_topic: russells-paradox
 ---

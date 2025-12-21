@@ -4,21 +4,23 @@ aliases:
   - wearable_measurement_height
   - WearableMeasurementHeight
   - is_a_wearable_measurement_height
+  - Wearable_Measurement_Height
+  - Wearable Measurement Height
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableMeasurementTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_measurement_height
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_measurement_height Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

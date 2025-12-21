@@ -1,31 +1,33 @@
 ---
+aliases:
+  - Meson
 has_id_wikidata: Q102742
 subclass_of:
-  - "[[_Standards/WikiData/WD~hadron,101667]]"
-  - "[[_Standards/WikiData/WD~boson,43101]]"
-antiparticle: "[[_Standards/WikiData/WD~meson,102742]]"
+  - '[[_Standards/WikiData/WD~hadron,101667]]'
+  - '[[_Standards/WikiData/WD~boson,43101]]'
+antiparticle: '[[_Standards/WikiData/WD~meson,102742]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~baryon_number,110346]]"
-  - "[[_Standards/WikiData/WD~lepton_number,174012]]"
-followed_by: "[[_Standards/WikiData/WD~baryon,159731]]"
+  - '[[_Standards/WikiData/WD~baryon_number,110346]]'
+  - '[[_Standards/WikiData/WD~lepton_number,174012]]'
+followed_by: '[[_Standards/WikiData/WD~baryon,159731]]'
 different_from:
-  - "[[_Standards/WikiData/WD~diquark,265326]]"
-  - "[[_Standards/WikiData/WD~Meson,23810842]]"
+  - '[[_Standards/WikiData/WD~diquark,265326]]'
+  - '[[_Standards/WikiData/WD~Meson,23810842]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~antiquark,2052084]]"
-  - "[[_Standards/WikiData/WD~quark,6718]]"
+  - '[[_Standards/WikiData/WD~antiquark,2052084]]'
+  - '[[_Standards/WikiData/WD~quark,6718]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
-follows: "[[_Standards/WikiData/WD~quark,6718]]"
+  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
+follows: '[[_Standards/WikiData/WD~quark,6718]]'
 interaction:
-  - "[[_Standards/WikiData/WD~strong_interaction,11415]]"
-  - "[[_Standards/WikiData/WD~gravity,11412]]"
+  - '[[_Standards/WikiData/WD~strong_interaction,11415]]'
+  - '[[_Standards/WikiData/WD~gravity,11412]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Michael%20Schoenitzer%20%28MichaelSchoenitzer%29-Meson.wav
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/mesons
-Dewey_Decimal_Classification: "539.72162"
-P8189: "987007565542505171"
+Dewey_Decimal_Classification: 539.72162
+P8189: 987007565542505171
 Commons_category: Mesons
 MeSH_tree_code: G01.249.600
 ---

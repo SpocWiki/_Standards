@@ -4,20 +4,22 @@ aliases:
   - computer_language
   - ComputerLanguage
   - is_a_computer_language
+  - Computer_Language
+  - Computer Language
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - computer_language
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_computer_language Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

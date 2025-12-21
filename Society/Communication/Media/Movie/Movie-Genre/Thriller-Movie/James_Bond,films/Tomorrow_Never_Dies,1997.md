@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Tomorrow Never Dies"
+  - Tomorrow Never Dies
+  - Tomorrow_Never_Dies,1997
+  - Tomorrow Never Dies,1997
 ---
 
 ## #has_/text_of_/abstract 

@@ -2,33 +2,34 @@
 aliases:
   - Monoceros
   - Einhorn
+  - Zodiac~Monoceros
+has_id_wikidata: Q10428
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-has_id_wikidata: Q10428
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Petrus_Plancius,333534]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Petrus_Plancius,333534]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]"
-  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]'
+  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q10729035,10729035]]"
-  - "[[_Standards/WikiData/WD~Template_Stars_of_Monoceros,10857942]]"
+  - '[[_Standards/WikiData/WD~Q10729035,10729035]]'
+  - '[[_Standards/WikiData/WD~Template_Stars_of_Monoceros,10857942]]'
 time_of_discovery_or_invention: 1612-01-01T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~unicorn,7246]]"
+named_after: '[[_Standards/WikiData/WD~unicorn,7246]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Orion,8860]]"
-  - "[[_Standards/WikiData/WD~Gemini,8923]]"
-  - "[[_Standards/WikiData/WD~Puppis,9251]]"
-  - "[[_Standards/WikiData/WD~Canis_Minor,9305]]"
-  - "[[_Standards/WikiData/WD~Lepus,10446]]"
-  - "[[_Standards/WikiData/WD~Canis_Major,10538]]"
-  - "[[_Standards/WikiData/WD~Hydra,10578]]"
-instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+  - '[[_Standards/WikiData/WD~Orion,8860]]'
+  - '[[_Standards/WikiData/WD~Gemini,8923]]'
+  - '[[_Standards/WikiData/WD~Puppis,9251]]'
+  - '[[_Standards/WikiData/WD~Canis_Minor,9305]]'
+  - '[[_Standards/WikiData/WD~Lepus,10446]]'
+  - '[[_Standards/WikiData/WD~Canis_Major,10538]]'
+  - '[[_Standards/WikiData/WD~Hydra,10578]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
 area: 482
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Monoceros%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Monoceros%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg

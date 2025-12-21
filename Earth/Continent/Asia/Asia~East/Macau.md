@@ -7,24 +7,24 @@ aliases:
   - منطقة ماكاو الإدارية الخاصة التابعة للصين
   - 中国澳门特别行政区
   - Китай, Специальный административный район Макао
-  - 
+  - ''
 confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
+keywords: ''
 Languages:
   - zh
   - zh-MO
   - pt
-layout:
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 publish: true
-publishDate:
+publishDate: ''
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26965
 tags:

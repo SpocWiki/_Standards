@@ -4,22 +4,24 @@ aliases:
   - id_isrc_code
   - id_isrcCode
   - has_id_isrc_code
+  - has_id_isrc
+  - has id isrc
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - id_isrc
   - code
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_id_isrc_code
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

@@ -4,21 +4,22 @@ aliases:
   - remaining_attendee_capacity
   - remainingAttendeeCapacity
   - has_number_of_remaining_attendees
+  - has number of remaining attendees
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - remaining_attendee_capacity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_remaining_attendee_capacity
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

@@ -3,23 +3,24 @@ aliases:
   - has result-review
   - resultReview
   - has_result_review
+  - has result review
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - result_review
   - result
   - review
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_result_review
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

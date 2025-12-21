@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _South-America-CityDB
+  - ' South-America-CityDB'
 database_plugin: basic
 ---
 

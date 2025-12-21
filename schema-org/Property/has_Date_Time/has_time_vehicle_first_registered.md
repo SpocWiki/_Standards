@@ -4,20 +4,21 @@ aliases:
   - date_vehicle_first_registered
   - dateVehicleFirstRegistered
   - has_time_vehicle_first_registered
+  - has time vehicle first registered
 confidential: public
 cssclasses:
   - Predicate
   - Date_Time
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
-layout:
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Date

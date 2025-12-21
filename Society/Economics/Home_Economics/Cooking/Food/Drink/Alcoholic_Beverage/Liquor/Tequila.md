@@ -2,22 +2,22 @@
 aliases:
   - Tequila
 has_id_wikidata: Q122195
-made_from_material: "[[_Standards/WikiData/WD~Agave_tequilana,311065]]"
-based_on: "[[_Standards/WikiData/WD~Mezcal,726413]]"
-different_from: "[[_Standards/WikiData/WD~Tequila,732012]]"
-named_after: "[[_Standards/WikiData/WD~Tequila,847764]]"
+made_from_material: '[[_Standards/WikiData/WD~Agave_tequilana,311065]]'
+based_on: '[[_Standards/WikiData/WD~Mezcal,726413]]'
+different_from: '[[_Standards/WikiData/WD~Tequila,732012]]'
+named_after: '[[_Standards/WikiData/WD~Tequila,847764]]'
 start_time: 1600-01-01T00:00:00Z
-indigenous_to: "[[_Standards/WikiData/WD~Mexico,96]]"
-country_of_origin: "[[_Standards/WikiData/WD~Mexico,96]]"
-country: "[[_Standards/WikiData/WD~Mexico,96]]"
+indigenous_to: '[[_Standards/WikiData/WD~Mexico,96]]'
+country_of_origin: '[[_Standards/WikiData/WD~Mexico,96]]'
+country: '[[_Standards/WikiData/WD~Mexico,96]]'
 alcohol_by_volume: 40
-subclass_of: "[[_Standards/WikiData/WD~liquor,56139]]"
+subclass_of: '[[_Standards/WikiData/WD~liquor,56139]]'
 Commons_category: Tequila
 subreddit: tequila
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tequilas.JPG
 native_label: Tequila
-Amazon_com_browse_node: "15158372011"
-OmegaWiki_Defined_Meaning: "490269"
+Amazon_com_browse_node: 15158372011
+OmegaWiki_Defined_Meaning: 490269
 ---
 
 # [[Tequila]]

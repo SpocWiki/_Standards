@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bathtub
 has_id_wikidata: Q152095
 has_use:
   - "[[_Standards/WikiData/WD~bathing,327651]]"
@@ -8,17 +10,17 @@ subclass_of:
   - "[[_Standards/WikiData/WD~plumbing_fixture,2024731]]"
 described_by_source: "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
 different_from: "[[_Standards/WikiData/WD~Wanna,7967993]]"
-Nomenclature_for_Museum_Cataloging: "282"
+Nomenclature_for_Museum_Cataloging: 282
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1rm60rt0t%20rtbcwh.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000991
 Unicode_character: 🛁
 Iconclass_notation: 41A2411
-P8189: "987007284632405171"
+P8189: 987007284632405100
 Commons_category: Bathtubs
 IMDb_keyword: bathtub
 ---
 
-# [[Bathtub]] 
+# [[Bathtub]] 🛁 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Bathtub,152095|WD~Bathtub,152095]] 
 

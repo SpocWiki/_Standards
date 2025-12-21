@@ -4,21 +4,22 @@ aliases:
   - terms-per-year
   - termsPerYear
   - has_value_for_terms_per_year
+  - has value for terms per year
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - terms-per-year
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_terms-per-year
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

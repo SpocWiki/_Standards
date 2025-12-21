@@ -2,29 +2,30 @@
 aliases:
   - statuette
   - figurine
+  - Statue
 has_id_wikidata: Q179700
 subclass_of:
-  - "[[_Standards/WikiData/WD~sculpture,860861]]"
-  - "[[_Standards/WikiData/WD~artificial_physical_object,8205328]]"
-  - "[[_Standards/WikiData/WD~figure,29527347]]"
+  - '[[_Standards/WikiData/WD~sculpture,860861]]'
+  - '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
+  - '[[_Standards/WikiData/WD~figure,29527347]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
-  - "[[_Standards/WikiData/WD~Kartographer_icon,134980502]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_statue,10563810]]"
-instance_of: "[[_Standards/WikiData/WD~genre_of_sculpture,18783400]]"
-Universal_Decimal_Classification: "730"
-Nomenclature_for_Museum_Cataloging: "12977"
-OmegaWiki_Defined_Meaning: "430779"
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+  - '[[_Standards/WikiData/WD~Kartographer_icon,134980502]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_statue,10563810]]'
+instance_of: '[[_Standards/WikiData/WD~genre_of_sculpture,18783400]]'
+Universal_Decimal_Classification: 730
+Nomenclature_for_Museum_Cataloging: 12977
+OmegaWiki_Defined_Meaning: 430779
 IMDb_keyword: statue
 Commons_category: Statues
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20and%20Child%20from%20the%20Church%20in%20Kruzlowa%20Wyzna%20-%20MNK%20I-119%20%2896516%29.tiff
 EntitySchema_for_this_class: E99
-UNSPSC_Code: "60121003"
-P8189: "987007531885805171"
+UNSPSC_Code: 60121003
+P8189: 987007531885805171
 sRGB_color_hex_triplet: C1A170
 OpenStreetMap_tag_or_key:
   - Tag:artwork_type=statue

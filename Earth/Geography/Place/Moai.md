@@ -18,7 +18,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ahu%20Tongariki.jpg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Moai.stl
 ---
 
-# [[Moai]] 
+# [[Moai]] 🗿 
 
 ![[../../../assets/Moai.png]] 
 

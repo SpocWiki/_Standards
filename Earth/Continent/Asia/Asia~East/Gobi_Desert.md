@@ -1,6 +1,7 @@
 ---
 aliases:
   - Gobi Desert
+  - Gobi_Desert
 has_id_wikidata: Q42070
 ---
 

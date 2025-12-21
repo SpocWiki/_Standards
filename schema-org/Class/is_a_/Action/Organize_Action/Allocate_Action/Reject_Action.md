@@ -4,20 +4,22 @@ aliases:
   - reject_action
   - RejectAction
   - is_a_reject_action
+  - Reject_Action
+  - Reject Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - reject_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_reject_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

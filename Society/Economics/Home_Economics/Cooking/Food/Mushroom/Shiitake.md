@@ -4,34 +4,38 @@ aliases:
   - Chinese mushroom
   - black mushroom
   - Lentinula edodes
+  - Shiitake
+  - 香菇
+  - houževnatec jedlý
+  - Shiitake-Pilz
 has_id_wikidata: Q320999
-mushroom_ecological_type: "[[_Standards/WikiData/WD~saprobiont,114750]]"
-hymenium_type: "[[_Standards/WikiData/WD~lamella,269345]]"
-subclass_of: "[[_Standards/WikiData/WD~edible_mushroom,654236]]"
-parent_taxon: "[[_Standards/WikiData/WD~Lentinula,1303903]]"
-mushroom_cap_shape: "[[_Standards/WikiData/WD~convex_mushroom_cap,14544535]]"
-hymenium_attachment: "[[_Standards/WikiData/WD~free_hymenium_attachment,14544563]]"
-stipe_character: "[[_Standards/WikiData/WD~bare_stipe,14544581]]"
-edibility: "[[_Standards/WikiData/WD~choice_mushroom,19888517]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+mushroom_ecological_type: '[[_Standards/WikiData/WD~saprobiont,114750]]'
+hymenium_type: '[[_Standards/WikiData/WD~lamella,269345]]'
+subclass_of: '[[_Standards/WikiData/WD~edible_mushroom,654236]]'
+parent_taxon: '[[_Standards/WikiData/WD~Lentinula,1303903]]'
+mushroom_cap_shape: '[[_Standards/WikiData/WD~convex_mushroom_cap,14544535]]'
+hymenium_attachment: '[[_Standards/WikiData/WD~free_hymenium_attachment,14544563]]'
+stipe_character: '[[_Standards/WikiData/WD~bare_stipe,14544581]]'
+edibility: '[[_Standards/WikiData/WD~choice_mushroom,19888517]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 taxon_synonym:
-  - "[[_Standards/WikiData/WD~Agaricus_edodes,61778950]]"
-  - "[[_Standards/WikiData/WD~Lentinus_edodes,105057495]]"
-  - "[[_Standards/WikiData/WD~Collybia_shiitake,107583857]]"
-  - "[[_Standards/WikiData/WD~Lentinus_mellianus,107973896]]"
-  - "[[_Standards/WikiData/WD~Lentinus_shiitake,107974653]]"
-  - "[[_Standards/WikiData/WD~Lentinus_tonkinensis,107974724]]"
-  - "[[_Standards/WikiData/WD~Tricholoma_shiitake,108443601]]"
-has_basionym: "[[_Standards/WikiData/WD~Agaricus_edodes,61778950]]"
+  - '[[_Standards/WikiData/WD~Agaricus_edodes,61778950]]'
+  - '[[_Standards/WikiData/WD~Lentinus_edodes,105057495]]'
+  - '[[_Standards/WikiData/WD~Collybia_shiitake,107583857]]'
+  - '[[_Standards/WikiData/WD~Lentinus_mellianus,107973896]]'
+  - '[[_Standards/WikiData/WD~Lentinus_shiitake,107974653]]'
+  - '[[_Standards/WikiData/WD~Lentinus_tonkinensis,107974724]]'
+  - '[[_Standards/WikiData/WD~Tricholoma_shiitake,108443601]]'
+has_basionym: '[[_Standards/WikiData/WD~Agaricus_edodes,61778950]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~cultivated_mushroom,76749327]]"
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~shiitake_mushroom,105965457]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-different_from: "[[_Standards/WikiData/WD~Shia_Islam,9585]]"
-spore_print_color: "[[_Standards/WikiData/WD~white,23444]]"
-PLU_code: "4651"
-OmegaWiki_Defined_Meaning: "1167303"
+  - '[[_Standards/WikiData/WD~cultivated_mushroom,76749327]]'
+  - '[[_Standards/WikiData/WD~taxon,16521]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~shiitake_mushroom,105965457]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+different_from: '[[_Standards/WikiData/WD~Shia_Islam,9585]]'
+spore_print_color: '[[_Standards/WikiData/WD~white,23444]]'
+PLU_code: 4651
+OmegaWiki_Defined_Meaning: 1167303
 taxon_common_name:
   - shiitake
   - 香菇

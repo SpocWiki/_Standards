@@ -1,4 +1,15 @@
 ---
+aliases:
+  - Tunisia
+  - Túnez
+  - Tunisie
+  - تونس
+  - 突尼斯
+  - Тунис
+  - the Republic of Tunisia
+  - la República de Túnez
+  - Tunesien
+has_id_wikidata: Q948
 member_of:
   - "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
   - "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
@@ -373,7 +384,6 @@ short_name: 🇹🇳
 inception: 1956-03-20
 has_time_started: 1956-03-20
 coordinates_of_westernmost_point: Point(7.52542 33.79829)
-has_id_wikidata: Q948
 location:
   - 36.8
   - 10.18
@@ -390,22 +400,12 @@ cssclasses:
   - Country
 publish: true
 title: Tunisia
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Tunisia
-  - Túnez
-  - Tunisie
-  - تونس
-  - 突尼斯
-  - Тунис
-  - the Republic of Tunisia
-  - la República de Túnez
-  - Tunesien
+publishDate: ""
+expiryDate: ""
 Languages:
   - ar-TN
   - fr

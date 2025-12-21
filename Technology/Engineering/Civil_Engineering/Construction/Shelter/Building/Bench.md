@@ -1,29 +1,30 @@
 ---
+aliases:
+  - Bank
+  - Bench
 has_id_wikidata: Q204776
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~banquette,2883457]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~banquette,2883457]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~street_furniture,13397636]]"
-  - "[[_Standards/WikiData/WD~seating_furniture,129006002]]"
+  - '[[_Standards/WikiData/WD~street_furniture,13397636]]'
+  - '[[_Standards/WikiData/WD~seating_furniture,129006002]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Skamya,19798315]]"
+  - '[[_Standards/WikiData/WD~Skamya,19798315]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~type_of_seat,134548662]]"
-OmegaWiki_Defined_Meaning: "7489"
-Nomenclature_for_Museum_Cataloging: "1073"
+  - '[[_Standards/WikiData/WD~type_of_seat,134548662]]'
+OmegaWiki_Defined_Meaning: 7489
+Nomenclature_for_Museum_Cataloging: 1073
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Victoria%20Centennial%20Fountain%2C%20Victoria%2C%20British%20Columbia%2C%20Canada%2013.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Q204776%20noun%2049868%20ccrancescoFerraro%20bench.svg
 Iconclass_notation: 41A723
-P8189: "987007283136705171"
+P8189: 987007283136705171
 Commons_gallery: Benches
 Commons_category: Benches
 OpenStreetMap_tag_or_key:
   - Key:bench
   - Tag:amenity=bench
-aliases:
-  - Bank
 ---
 
 # [[Bench]] 

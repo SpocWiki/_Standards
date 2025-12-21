@@ -4,43 +4,44 @@ aliases:
   - Matti Ensio Nykänen
   - Matti Nykänen
   - Nykänen
+  - Nykänen,Matti
 has_id_wikidata: Q16849
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~athlete,2066131]]"
-  - "[[_Standards/WikiData/WD~ski_jumper,13382603]]"
-place_of_birth: "[[_Standards/WikiData/WD~Jyväskylä,134620]]"
-convicted_of: "[[_Standards/WikiData/WD~assault,365680]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~athlete,2066131]]'
+  - '[[_Standards/WikiData/WD~ski_jumper,13382603]]'
+place_of_birth: '[[_Standards/WikiData/WD~Jyväskylä,134620]]'
+convicted_of: '[[_Standards/WikiData/WD~assault,365680]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Holmenkollen_Medal,541985]]"
-  - "[[_Standards/WikiData/WD~Knight_First_Class_of_the_Order_of_the_Lion_of_Finland,47338068]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Finns_Party,634277]]"
-place_of_death: "[[_Standards/WikiData/WD~Joutseno,829851]]"
-residence: "[[_Standards/WikiData/WD~Joutseno,829851]]"
+  - '[[_Standards/WikiData/WD~Holmenkollen_Medal,541985]]'
+  - '[[_Standards/WikiData/WD~Knight_First_Class_of_the_Order_of_the_Lion_of_Finland,47338068]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Finns_Party,634277]]'
+place_of_death: '[[_Standards/WikiData/WD~Joutseno,829851]]'
+residence: '[[_Standards/WikiData/WD~Joutseno,829851]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Matti,1474085]]"
-  - "[[_Standards/WikiData/WD~Ensio,11858012]]"
+  - '[[_Standards/WikiData/WD~Matti,1474085]]'
+  - '[[_Standards/WikiData/WD~Ensio,11858012]]'
 cause_of_death:
-  - "[[_Standards/WikiData/WD~pancreatitis,1527888]]"
-  - "[[_Standards/WikiData/WD~pneumonia,12192]]"
-dance_style: "[[_Standards/WikiData/WD~erotic_dancing,3015661]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-different_from: "[[_Standards/WikiData/WD~Matti_Nykänen,11881652]]"
+  - '[[_Standards/WikiData/WD~pancreatitis,1527888]]'
+  - '[[_Standards/WikiData/WD~pneumonia,12192]]'
+dance_style: '[[_Standards/WikiData/WD~erotic_dancing,3015661]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+different_from: '[[_Standards/WikiData/WD~Matti_Nykänen,11881652]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Mervi_Tapola,16990810]]"
-  - "[[_Standards/WikiData/WD~Pia_Nykänen,106620303]]"
-instrument: "[[_Standards/WikiData/WD~voice,17172850]]"
-place_of_burial: "[[_Standards/WikiData/WD~Jyväskylä_old_cemetery,18659629]]"
-family_name: "[[_Standards/WikiData/WD~Nykänen,27890975]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Finnish,1412]]"
-sport: "[[_Standards/WikiData/WD~ski_jumping,7718]]"
-field_of_work: "[[_Standards/WikiData/WD~ski_jumping,7718]]"
-medical_condition: "[[_Standards/WikiData/WD~diabetes,12206]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Finland,33]]"
+  - '[[_Standards/WikiData/WD~Mervi_Tapola,16990810]]'
+  - '[[_Standards/WikiData/WD~Pia_Nykänen,106620303]]'
+instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
+place_of_burial: '[[_Standards/WikiData/WD~Jyväskylä_old_cemetery,18659629]]'
+family_name: '[[_Standards/WikiData/WD~Nykänen,27890975]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Finnish,1412]]'
+sport: '[[_Standards/WikiData/WD~ski_jumping,7718]]'
+field_of_work: '[[_Standards/WikiData/WD~ski_jumping,7718]]'
+medical_condition: '[[_Standards/WikiData/WD~diabetes,12206]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Finland,33]]'
 number_of_children: 3
 mass: 54
 height: 177
@@ -49,8 +50,8 @@ date_of_birth: 1963-07-17T00:00:00Z
 nickname: Nukes
 name_in_native_language: Matti Nykänen
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Matti%20Nyk%C3%A4nen%202014-01-30%20001%20%28cropped%29.jpg
-ISNI: "0000000371899466"
-Munzinger_Sport_number: "01000000229"
+ISNI: 0000000371899466
+Munzinger_Sport_number: 01000000229
 Europeana_entity: agent/base/50343
 Commons_category: Matti Nykänen
 birth_name: Matti Ensio Nykänen

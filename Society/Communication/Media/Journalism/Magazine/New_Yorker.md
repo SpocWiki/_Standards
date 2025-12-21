@@ -1,58 +1,60 @@
 ---
 aliases:
   - The_New_Yorker
+  - New_Yorker
+  - New Yorker
 has_id_wikidata: Q217305
 inception: 1925-02-21T00:00:00Z
 start_time: 1925-02-17T00:00:00Z
 field_of_work:
-  - "[[_Standards/WikiData/WD~popular_culture,131265]]"
-  - "[[_Standards/WikiData/WD~cartoon,627603]]"
-  - "[[_Standards/WikiData/WD~fiction,8253972]]"
-  - "[[_Standards/WikiData/WD~politics,7163]]"
+  - '[[_Standards/WikiData/WD~popular_culture,131265]]'
+  - '[[_Standards/WikiData/WD~cartoon,627603]]'
+  - '[[_Standards/WikiData/WD~fiction,8253972]]'
+  - '[[_Standards/WikiData/WD~politics,7163]]'
 founded_by:
-  - "[[_Standards/WikiData/WD~Jane_Grant,277757]]"
-  - "[[_Standards/WikiData/WD~Harold_Ross,1585917]]"
-distributed_by: "[[_Standards/WikiData/WD~Q368215,368215]]"
-indexed_in_bibliographic_review: "[[_Standards/WikiData/WD~Scopus,371467]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~Condé_Nast,605401]]"
-publisher: "[[_Standards/WikiData/WD~Condé_Nast,605401]]"
-award_received: "[[_Standards/WikiData/WD~George_Polk_Award,845188]]"
-editor: "[[_Standards/WikiData/WD~David_Remnick,1176307]]"
-newspaper_format: "[[_Standards/WikiData/WD~tabloid,1449648]]"
-different_from: "[[_Standards/WikiData/WD~New_York,1507987]]"
+  - '[[_Standards/WikiData/WD~Jane_Grant,277757]]'
+  - '[[_Standards/WikiData/WD~Harold_Ross,1585917]]'
+distributed_by: '[[_Standards/WikiData/WD~Q368215,368215]]'
+indexed_in_bibliographic_review: '[[_Standards/WikiData/WD~Scopus,371467]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~Condé_Nast,605401]]'
+publisher: '[[_Standards/WikiData/WD~Condé_Nast,605401]]'
+award_received: '[[_Standards/WikiData/WD~George_Polk_Award,845188]]'
+editor: '[[_Standards/WikiData/WD~David_Remnick,1176307]]'
+newspaper_format: '[[_Standards/WikiData/WD~tabloid,1449648]]'
+different_from: '[[_Standards/WikiData/WD~New_York,1507987]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~news_magazine,1684600]]"
-  - "[[_Standards/WikiData/WD~publishing_company,2085381]]"
-  - "[[_Standards/WikiData/WD~production_team,7247847]]"
-  - "[[_Standards/WikiData/WD~magazine,41298]]"
+  - '[[_Standards/WikiData/WD~news_magazine,1684600]]'
+  - '[[_Standards/WikiData/WD~publishing_company,2085381]]'
+  - '[[_Standards/WikiData/WD~production_team,7247847]]'
+  - '[[_Standards/WikiData/WD~magazine,41298]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~The_New_Yorker,_Volume_1,104830044]]"
-  - "[[_Standards/WikiData/WD~The_New_Yorker,_Volume_2,116819428]]"
-  - "[[_Standards/WikiData/WD~The_New_Yorker,_Volume_3,116819436]]"
-mascot: "[[_Standards/WikiData/WD~Eustace_Tilley,115563951]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928]]"
+  - '[[_Standards/WikiData/WD~The_New_Yorker,_Volume_1,104830044]]'
+  - '[[_Standards/WikiData/WD~The_New_Yorker,_Volume_2,116819428]]'
+  - '[[_Standards/WikiData/WD~The_New_Yorker,_Volume_3,116819436]]'
+mascot: '[[_Standards/WikiData/WD~Eustace_Tilley,115563951]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928]]'
 language_of_work_or_name:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~American_English,7976]]"
-main_subject: "[[_Standards/WikiData/WD~politics,7163]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~American_English,7976]]'
+main_subject: '[[_Standards/WikiData/WD~politics,7163]]'
 main_Wikidata_property:
   - The New Yorker contributor ID
   - The New Yorker topic ID
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_publication: "[[_Standards/WikiData/WD~New_York_City,60]]"
-headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_publication: '[[_Standards/WikiData/WD~New_York_City,60]]'
+headquarters_location: '[[_Standards/WikiData/WD~New_York_City,60]]'
 social_media_followers:
   - 1000000
   - 8978668
-platform: "[[../../../../../WikiData/WD~Q48493,48493]]"
+platform: '[[../../../../../WikiData/WD~Q48493,48493]]'
 ISSN_L: 0028-792X
 ISSN:
   - 0028-792X
   - 2163-3827
 OCLC_number:
-  - "1760231"
-  - "61311198"
+  - 1760231
+  - 61311198
 total_produced: 1221133
 Commons_category: The New Yorker
 title: The New Yorker

@@ -1,6 +1,7 @@
 ---
 aliases:
-- Anthropozän
+  - Anthropozän
+  - Epoch~3~Anthropocene
 has_id_wikidata: Q26841
 ---
 

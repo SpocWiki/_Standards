@@ -4,6 +4,7 @@ aliases:
   - coffee maker
   - coffee machine
   - espresso maker
+  - Coffeemaker
 has_id_wikidata: Q211841
 ---
 

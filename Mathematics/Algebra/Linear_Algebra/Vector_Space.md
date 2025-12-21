@@ -2,6 +2,8 @@
 aliases:
   - vector space
   - Linear space
+  - Vector_Space
+  - Vector Space
 has_id_wikidata: Q125977
 studied_by:
   - "[[_Standards/WikiData/WD~linear_algebra,82571]]"

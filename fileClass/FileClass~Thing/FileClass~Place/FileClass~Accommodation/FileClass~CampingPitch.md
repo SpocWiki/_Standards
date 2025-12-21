@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CampingPitch
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation
 fields: []
 icon: tent
 limit: 9
 mapWithTag: false
 tagNames:
-- class/CampingPitch
-- class/Thing/Place/Accommodation/CampingPitch
-- is_a_/CampingPitch
-- schema-org/CampingPitch
+  - class/CampingPitch
+  - class/Thing/Place/Accommodation/CampingPitch
+  - is_a_/CampingPitch
+  - schema-org/CampingPitch
 tags:
-- class/FileClass
-- class/CampingPitch
-- is_a_/CampingPitch
-- class/Thing/Place/Accommodation/CampingPitch
+  - class/FileClass
+  - class/CampingPitch
+  - is_a_/CampingPitch
+  - class/Thing/Place/Accommodation/CampingPitch
 version: 2.0
 ---
 

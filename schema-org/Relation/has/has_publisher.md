@@ -1,27 +1,28 @@
 ---
 aliases:
-- has_publisher
-- "dbo:publisher"
-- "schema:publisher"
-- "wdt:P123"
+  - has_publisher
+  - dbo:publisher
+  - schema:publisher
+  - wdt:P123
+  - has publisher
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- publisher
-layout: 
-license: "CC BY-SA 4.0"
+  - publisher
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_publisher
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_publisher
 type: Predi_Relation
 ---

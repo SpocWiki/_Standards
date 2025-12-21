@@ -4,21 +4,22 @@ aliases:
   - duration-of-warranty
   - durationOfWarranty
   - has_value_for_duration_of_warranty
+  - has value for duration of warranty
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - duration-of-warranty
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_duration-of-warranty
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

@@ -4,20 +4,22 @@ aliases:
   - beauty_salon
   - BeautySalon
   - is_a_beauty_salon
+  - Beauty_Salon
+  - Beauty Salon
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - beauty_salon
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_beauty_salon Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

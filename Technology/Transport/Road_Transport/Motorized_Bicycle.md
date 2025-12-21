@@ -4,20 +4,22 @@ aliases:
   - motorized_bicycle
   - MotorizedBicycle
   - is_a_motorized_bicycle
+  - Motorized_Bicycle
+  - Motorized Bicycle
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - motorized_bicycle
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_motorized_bicycle Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

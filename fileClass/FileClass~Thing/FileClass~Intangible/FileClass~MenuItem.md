@@ -1,38 +1,40 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MenuItem
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: TUlPPq
-  name: MenuAddOn
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/MenuItem')"
-  type: MultiFile
-  path: ''
-- id: 5mdPTn
-  name: Nutrition
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/NutritionInformation')"
-  type: MultiFile
-  path: ''
-- id: 7SDWNa
-  name: Offers
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Demand')"
-  type: MultiFile
-  path: ''
+  - id: TUlPPq
+    name: MenuAddOn
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/MenuItem')
+    type: MultiFile
+    path: ''
+  - id: 5mdPTn
+    name: Nutrition
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/NutritionInformation')
+    type: MultiFile
+    path: ''
+  - id: 7SDWNa
+    name: Offers
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Demand')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MenuItem
-- class/Thing/Intangible/MenuItem
-- is_a_/MenuItem
-- schema-org/MenuItem
+  - class/MenuItem
+  - class/Thing/Intangible/MenuItem
+  - is_a_/MenuItem
+  - schema-org/MenuItem
 tags:
-- class/FileClass
-- class/MenuItem
-- is_a_/MenuItem
-- class/Thing/Intangible/MenuItem
+  - class/FileClass
+  - class/MenuItem
+  - is_a_/MenuItem
+  - class/Thing/Intangible/MenuItem
 version: 2.0
 ---
 

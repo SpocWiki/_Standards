@@ -1,31 +1,33 @@
 ---
+aliases:
+  - Polonium
 has_id_wikidata: Q979
 SpocWebEntityId: 21979
 type: Element
 part_of:
-  - "[[_Standards/WikiData/WD~group_16,104567]]"
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
+  - '[[_Standards/WikiData/WD~group_16,104567]]'
+  - '[[_Standards/WikiData/WD~period_6,239813]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~group_16,104567]]"
-  - "[[_Standards/WikiData/WD~post_transition_metal,19591]]"
+  - '[[_Standards/WikiData/WD~group_16,104567]]'
+  - '[[_Standards/WikiData/WD~post_transition_metal,19591]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 time_of_discovery_or_invention: 1898-01-01T00:00:00Z
-different_from: "[[_Standards/WikiData/WD~Element_84,129955955]]"
+different_from: '[[_Standards/WikiData/WD~Element_84,129955955]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Marie_Curie,7186]]"
-  - "[[_Standards/WikiData/WD~Pierre_Curie,37463]]"
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
-named_after: "[[_Standards/WikiData/WD~Poland,36]]"
+  - '[[_Standards/WikiData/WD~Marie_Curie,7186]]'
+  - '[[_Standards/WikiData/WD~Pierre_Curie,37463]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+named_after: '[[_Standards/WikiData/WD~Poland,36]]'
 electronegativity: 2
 atomic_number: 84
 ionic_radius: 0.97
-Gmelin_number: "40435"
-OmegaWiki_Defined_Meaning: "160201"
+Gmelin_number: 40435
+OmegaWiki_Defined_Meaning: 160201
 InChIKey: HZEBHPIOVYHPMT-UHFFFAOYSA-N
-PubChem_CID: "6328143"
+PubChem_CID: 6328143
 chemical_formula: Po
 element_symbol: Po
 UNII: DQY03U61EJ
@@ -33,13 +35,13 @@ InChI: InChI=1S/Po
 Commons_gallery: Polonium
 Commons_category: Polonium
 Unicode_character: 釙
-canonical_SMILES: "[Po]"
+canonical_SMILES: '[Po]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2019-11-22%20Spark%20plugs%20and%20static%20eliminators%20with%20radioactive%20polonium%20at%20museum%20display.jpg
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20157.jpg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20084%20polonium.png
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Polonium%20spectrum%20visible.png
 EC_number: 231-118-2
-RIA_Novosti_reference: "55967007"
+RIA_Novosti_reference: 55967007
 CAS_Registry_Number: 7440-08-6
 UMLS_CUI: C0032390
 MeSH_tree_code:

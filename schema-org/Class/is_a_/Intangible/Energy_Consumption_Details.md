@@ -4,20 +4,22 @@ aliases:
   - energy_consumption_details
   - EnergyConsumptionDetails
   - is_an_energy_consumption_details
+  - Energy_Consumption_Details
+  - Energy Consumption Details
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - energy_consumption_details
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_energy_consumption_details Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

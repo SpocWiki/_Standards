@@ -2,6 +2,7 @@
 aliases:
   - business leader
   - Business-People
+  - Business-Person
 ---
 
 

@@ -4,20 +4,22 @@ aliases:
   - educational_organization
   - EducationalOrganization
   - is_an_educational_organization
+  - Educational_Organization
+  - Educational Organization
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - educational_organization
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_educational_organization Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -4,23 +4,24 @@ aliases:
   - id_payment_method
   - paymentMethodId
   - has_id_payment_method
+  - has id payment method
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - payment
   - method
   - id
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_id_payment_method
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

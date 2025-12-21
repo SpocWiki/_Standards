@@ -4,20 +4,22 @@ aliases:
   - borrow_action
   - BorrowAction
   - is_a_borrow_action
+  - Borrow_Action
+  - Borrow Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - borrow_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_borrow_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

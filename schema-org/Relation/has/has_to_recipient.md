@@ -3,23 +3,24 @@ aliases:
   - has to-recipient
   - toRecipient
   - has_to_recipient
+  - has to recipient
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - to_recipient
   - to
   - recipient
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_to_recipient
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

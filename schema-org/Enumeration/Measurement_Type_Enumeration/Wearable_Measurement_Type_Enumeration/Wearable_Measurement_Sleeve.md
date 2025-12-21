@@ -4,21 +4,23 @@ aliases:
   - wearable_measurement_sleeve
   - WearableMeasurementSleeve
   - is_a_wearable_measurement_sleeve
+  - Wearable_Measurement_Sleeve
+  - Wearable Measurement Sleeve
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableMeasurementTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_measurement_sleeve
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_measurement_sleeve Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

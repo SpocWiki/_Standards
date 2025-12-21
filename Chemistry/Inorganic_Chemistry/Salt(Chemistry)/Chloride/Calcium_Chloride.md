@@ -1,33 +1,35 @@
 ---
 aliases:
   - Kalziumchlorid
+  - Calcium_Chloride
+  - Calcium Chloride
 has_id_wikidata: Q208451
 has_part_s_:
-  - "[[_Standards/WikiData/WD~chloride_ion,108200]]"
-  - "[[_Standards/WikiData/WD~calcium(2+),23905776]]"
+  - '[[_Standards/WikiData/WD~chloride_ion,108200]]'
+  - '[[_Standards/WikiData/WD~calcium(2+),23905776]]'
 has_use:
-  - "[[_Standards/WikiData/WD~food_additive,189567]]"
-  - "[[_Standards/WikiData/WD~medication,12140]]"
+  - '[[_Standards/WikiData/WD~food_additive,189567]]'
+  - '[[_Standards/WikiData/WD~medication,12140]]'
 medical_condition_treated:
-  - "[[_Standards/WikiData/WD~cardiac_arrest,202837]]"
-  - "[[_Standards/WikiData/WD~tetany,511818]]"
+  - '[[_Standards/WikiData/WD~cardiac_arrest,202837]]'
+  - '[[_Standards/WikiData/WD~tetany,511818]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~hygroscopy,216678]]"
-  - "[[_Standards/WikiData/WD~bitterness,1517187]]"
+  - '[[_Standards/WikiData/WD~hygroscopy,216678]]'
+  - '[[_Standards/WikiData/WD~bitterness,1517187]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~calcium_salt,4427704]]"
-  - "[[_Standards/WikiData/WD~chloride,44791900]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~pharmaceutical_preparation_of_calcium_chloride,4498216]]"
+  - '[[_Standards/WikiData/WD~calcium_salt,4427704]]'
+  - '[[_Standards/WikiData/WD~chloride,44791900]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~pharmaceutical_preparation_of_calcium_chloride,4498216]]'
 different_from:
-  - "[[_Standards/WikiData/WD~calcium_chloride_hexahydrate,27163154]]"
-  - "[[_Standards/WikiData/WD~calcium_chloride_monohydrate,27282950]]"
-  - "[[_Standards/WikiData/WD~calcium_chloride_dihydrate,29207042]]"
-  - "[[_Standards/WikiData/WD~calcium_chloride_tetrahydrate,82297357]]"
-  - "[[_Standards/WikiData/WD~Calcium_chloride,130291008]]"
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-color: "[[_Standards/WikiData/WD~white,23444]]"
+  - '[[_Standards/WikiData/WD~calcium_chloride_hexahydrate,27163154]]'
+  - '[[_Standards/WikiData/WD~calcium_chloride_monohydrate,27282950]]'
+  - '[[_Standards/WikiData/WD~calcium_chloride_dihydrate,29207042]]'
+  - '[[_Standards/WikiData/WD~calcium_chloride_tetrahydrate,82297357]]'
+  - '[[_Standards/WikiData/WD~Calcium_chloride,130291008]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+color: '[[_Standards/WikiData/WD~white,23444]]'
 defined_daily_dose: 0.2
 density: 2.15
 melting_point:
@@ -37,23 +39,23 @@ solubility:
   - 81.3
   - http://www.wikidata.org/.well-known/genid/0590224a1948aa1bdb6e9cffc3e39225
 mass: 109.9
-ZVG_number: "1910"
+ZVG_number: 1910
 PubChem_CID:
-  - "24854"
-  - "5284359"
+  - 24854
+  - 5284359
 boiling_point: 1935.5
-CosIng_number: "32318"
+CosIng_number: 32318
 InChI: InChI=1S/Ca.2ClH/h;2*1H/q+2;;/p-2
 InChIKey: UXVMQQNJUSDDNG-UHFFFAOYSA-L
 UNII: OFM21057LP
 E_number: E509
-NSC_number: "759598"
-RxNorm_CUI: "1667640"
+NSC_number: 759598
+RxNorm_CUI: 1667640
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Calcium%20chloride.jpg
-canonical_SMILES: "[Cl-].[Cl-].[Ca+2]"
+canonical_SMILES: '[Cl-].[Cl-].[Ca+2]'
 CAS_Registry_Number: 10043-52-4
 EC_number: 233-140-8
-P8189: "987007293773205171"
+P8189: 987007293773205171
 ATC_code:
   - A12AA07
   - B05XA07

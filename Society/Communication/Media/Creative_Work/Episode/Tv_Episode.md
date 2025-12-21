@@ -4,20 +4,22 @@ aliases:
   - tv_episode
   - TVEpisode
   - is_a_tv_episode
+  - Tv_Episode
+  - Tv Episode
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - tv_episode
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_tv_episode Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,7 +1,9 @@
 ---
-has_id_wikidata: Q191831
 aliases:
   - ammonium sulphate
+  - Ammonium_Sulfate
+  - Ammonium Sulfate
+has_id_wikidata: Q191831
 ---
 
 # [[Ammonium_Sulfate]] 

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Kuiper belt
+  - Kuiper_Belt
+  - Kuiper Belt
 has_id_wikidata: Q427
 ---
 

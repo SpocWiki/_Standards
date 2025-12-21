@@ -1,48 +1,49 @@
 ---
 aliases:
   - Property
+  - Property(Law)
 has_id_wikidata: Q1400881
 has_part_s_:
-  - "[[_Standards/WikiData/WD~intellectual_property,131257]]"
-  - "[[_Standards/WikiData/WD~personal_property,499094]]"
-  - "[[_Standards/WikiData/WD~private_property,555911]]"
-  - "[[_Standards/WikiData/WD~public_property,702627]]"
-  - "[[_Standards/WikiData/WD~collective_ownership,4227971]]"
-  - "[[_Standards/WikiData/WD~title,5393493]]"
-  - "[[_Standards/WikiData/WD~real_property,10494269]]"
+  - '[[_Standards/WikiData/WD~intellectual_property,131257]]'
+  - '[[_Standards/WikiData/WD~personal_property,499094]]'
+  - '[[_Standards/WikiData/WD~private_property,555911]]'
+  - '[[_Standards/WikiData/WD~public_property,702627]]'
+  - '[[_Standards/WikiData/WD~collective_ownership,4227971]]'
+  - '[[_Standards/WikiData/WD~title,5393493]]'
+  - '[[_Standards/WikiData/WD~real_property,10494269]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
 has_cause:
-  - "[[_Standards/WikiData/WD~convention,367293]]"
-  - "[[_Standards/WikiData/WD~natural_law,29524]]"
-  - "[[_Standards/WikiData/WD~morality,48324]]"
+  - '[[_Standards/WikiData/WD~convention,367293]]'
+  - '[[_Standards/WikiData/WD~natural_law,29524]]'
+  - '[[_Standards/WikiData/WD~morality,48324]]'
 different_from:
-  - "[[_Standards/WikiData/WD~possession,829909]]"
-  - "[[_Standards/WikiData/WD~property,937228]]"
-  - "[[_Standards/WikiData/WD~estate,2186896]]"
-  - "[[_Standards/WikiData/WD~ownership,6498684]]"
-instance_of: "[[_Standards/WikiData/WD~role,4897819]]"
-has_characteristic: "[[_Standards/WikiData/WD~ownership,6498684]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Property_navbox,17517461]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q32536402,32536402]]"
+  - '[[_Standards/WikiData/WD~possession,829909]]'
+  - '[[_Standards/WikiData/WD~property,937228]]'
+  - '[[_Standards/WikiData/WD~estate,2186896]]'
+  - '[[_Standards/WikiData/WD~ownership,6498684]]'
+instance_of: '[[_Standards/WikiData/WD~role,4897819]]'
+has_characteristic: '[[_Standards/WikiData/WD~ownership,6498684]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Property_navbox,17517461]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32536402,32536402]]'
 Wikidata_property:
   - owner of
   - owned by
-facet_of: "[[_Standards/WikiData/WD~capitalism,6206]]"
+facet_of: '[[_Standards/WikiData/WD~capitalism,6206]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~law,7748]]"
-  - "[[_Standards/WikiData/WD~economics,8134]]"
-  - "[[_Standards/WikiData/WD~sociology,21201]]"
-  - "[[_Standards/WikiData/WD~anthropology,23404]]"
-  - "[[_Standards/WikiData/WD~political_economy,47555]]"
-subclass_of: "[[_Standards/WikiData/WD~goods,28877]]"
-OmegaWiki_Defined_Meaning: "435478"
+  - '[[_Standards/WikiData/WD~law,7748]]'
+  - '[[_Standards/WikiData/WD~economics,8134]]'
+  - '[[_Standards/WikiData/WD~sociology,21201]]'
+  - '[[_Standards/WikiData/WD~anthropology,23404]]'
+  - '[[_Standards/WikiData/WD~political_economy,47555]]'
+subclass_of: '[[_Standards/WikiData/WD~goods,28877]]'
+OmegaWiki_Defined_Meaning: 435478
 PhilPapers_topic: property
-U_S_National_Archives_Identifier: "10642012"
+U_S_National_Archives_Identifier: 10642012
 ---
 
 # [[Property(Law)]] 

@@ -1,18 +1,19 @@
 ---
 aliases:
   - Unterhaltung
+  - Entertainment
 has_id_wikidata: Q173799
 practiced_by:
-  - "[[_Standards/WikiData/WD~entertainer,138858]]"
-  - "[[_Standards/WikiData/WD~Q12576271,12576271]]"
+  - '[[_Standards/WikiData/WD~entertainer,138858]]'
+  - '[[_Standards/WikiData/WD~Q12576271,12576271]]'
 has_use:
-  - "[[_Standards/WikiData/WD~leisure,180910]]"
-  - "[[_Standards/WikiData/WD~pleasure,208195]]"
-subclass_of: "[[_Standards/WikiData/WD~activity,1914636]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_entertainment,7112620]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Entertainment,12895887]]"
-has_contributing_factor: "[[_Standards/WikiData/WD~entertainment_industry,19595701]]"
-described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[_Standards/WikiData/WD~leisure,180910]]'
+  - '[[_Standards/WikiData/WD~pleasure,208195]]'
+subclass_of: '[[_Standards/WikiData/WD~activity,1914636]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_entertainment,7112620]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Entertainment,12895887]]'
+has_contributing_factor: '[[_Standards/WikiData/WD~entertainment_industry,19595701]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Commons_category: Entertainment
 IMDb_keyword: entertainment
 subreddit: entertainment

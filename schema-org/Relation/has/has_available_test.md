@@ -1,23 +1,24 @@
 ---
 aliases:
   - has_available_test
+  - has available test
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - available
   - test
   - availableTest
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_available_test
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

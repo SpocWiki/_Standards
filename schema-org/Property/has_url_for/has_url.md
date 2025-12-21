@@ -2,21 +2,23 @@
 aliases:
   - url
   - has_url_for_url
+  - has_url
+  - has url
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - url
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_url
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

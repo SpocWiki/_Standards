@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Milan Kundera"
+  - Milan Kundera
+  - Kundera,Milan
 ---
 
 # [[Kundera,Milan]]

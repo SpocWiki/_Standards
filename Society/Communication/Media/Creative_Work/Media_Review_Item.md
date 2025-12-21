@@ -4,20 +4,22 @@ aliases:
   - media_review_item
   - MediaReviewItem
   - is_a_media_review_item
+  - Media_Review_Item
+  - Media Review Item
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - media_review_item
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_media_review_item Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

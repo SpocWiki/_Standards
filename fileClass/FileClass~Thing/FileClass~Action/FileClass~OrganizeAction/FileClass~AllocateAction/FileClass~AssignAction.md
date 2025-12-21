@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~AssignAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/AssignAction
-- class/Thing/Action/OrganizeAction/AllocateAction/AssignAction
-- is_an_/AssignAction
-- schema-org/AssignAction
+  - class/AssignAction
+  - class/Thing/Action/OrganizeAction/AllocateAction/AssignAction
+  - is_an_/AssignAction
+  - schema-org/AssignAction
 tags:
-- class/FileClass
-- class/AssignAction
-- '#is_an_/AssignAction'
-- class/Thing/Action/OrganizeAction/AllocateAction/AssignAction
+  - class/FileClass
+  - class/AssignAction
+  - '#is_an_/AssignAction'
+  - class/Thing/Action/OrganizeAction/AllocateAction/AssignAction
 version: 2.0
 ---
 

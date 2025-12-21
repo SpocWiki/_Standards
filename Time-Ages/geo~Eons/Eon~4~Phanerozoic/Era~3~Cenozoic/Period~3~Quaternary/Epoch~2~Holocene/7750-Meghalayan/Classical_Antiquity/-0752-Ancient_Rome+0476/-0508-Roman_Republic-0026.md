@@ -2,34 +2,36 @@
 aliases:
   - Roman Republic
   - Roman_Republic
+  - -0508-Roman_Republic-0026
+  - -0508-Roman Republic-0026
 has_id_wikidata: Q17167
 start_time: -0508-01-01T00:00:00Z
 inception: -0508-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: -0026-01-14T00:00:00Z
 end_time: -0026-01-01T00:00:00Z
 legislative_body:
-  - "[[_Standards/WikiData/WD~Roman_Senate,130614]]"
+  - '[[_Standards/WikiData/WD~Roman_Senate,130614]]'
   - "[[_Standards/WikiData/WD~citizens'_assemblies_of_the_Roman_Republic,1114821]]"
-official_religion: "[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]"
-different_from: "[[_Standards/WikiData/WD~Roman_Republic,346629]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~aristocratic_republic,666680]]"
-currency: "[[_Standards/WikiData/WD~Roman_currency,952064]]"
+official_religion: '[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]'
+different_from: '[[_Standards/WikiData/WD~Roman_Republic,346629]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~aristocratic_republic,666680]]'
+currency: '[[_Standards/WikiData/WD~Roman_currency,952064]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~form_of_government,1307214]]"
-  - "[[_Standards/WikiData/WD~historical_country,3024240]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-  - "[[_Standards/WikiData/WD~empire,48349]]"
+  - '[[_Standards/WikiData/WD~form_of_government,1307214]]'
+  - '[[_Standards/WikiData/WD~historical_country,3024240]]'
+  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
+  - '[[_Standards/WikiData/WD~empire,48349]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
-official_language: "[[_Standards/WikiData/WD~Latin,397]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+  - '[[_Standards/WikiData/WD~Latin,397]]'
+  - '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+official_language: '[[_Standards/WikiData/WD~Latin,397]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 area:
   - 10000
   - 1950000
-capital: "[[_Standards/WikiData/WD~Rome,220]]"
-OmegaWiki_Defined_Meaning: "913399"
+capital: '[[_Standards/WikiData/WD~Rome,220]]'
+OmegaWiki_Defined_Meaning: 913399
 Commons_category: Roman Republic
 coordinate_location: Point(12.5 41.9)
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Republica%20Romana.svg

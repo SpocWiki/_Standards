@@ -1,52 +1,54 @@
 ---
-excludes: 
+aliases:
+  - FileClass~GeoCoordinates
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-- id: XZqhmN
-  name: Address
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')"
-  type: MultiFile
-  path: ''
-- id: h6Ryhn
-  name: AddressCountry
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place/AdministrativeArea/Country')"
-  type: MultiFile
-  path: ''
-- id: Ve2EJ4
-  name: Elevation
-  options: {}
-  type: Number
-  path: ''
-- id: ltPjWU
-  name: Latitude
-  options: {}
-  type: Number
-  path: ''
-- id: G1WiSS
-  name: Longitude
-  options: {}
-  type: Number
-  path: ''
-- id: 8WUL8D
-  name: PostalCode
-  options: {}
-  type: Input
-  path: ''
+  - id: XZqhmN
+    name: Address
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
+    type: MultiFile
+    path: ''
+  - id: h6Ryhn
+    name: AddressCountry
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
+    type: MultiFile
+    path: ''
+  - id: Ve2EJ4
+    name: Elevation
+    options: {}
+    type: Number
+    path: ''
+  - id: ltPjWU
+    name: Latitude
+    options: {}
+    type: Number
+    path: ''
+  - id: G1WiSS
+    name: Longitude
+    options: {}
+    type: Number
+    path: ''
+  - id: 8WUL8D
+    name: PostalCode
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/GeoCoordinates
-- class/Thing/Intangible/StructuredValue/GeoCoordinates
-- is_a_/GeoCoordinates
-- schema-org/GeoCoordinates
+  - class/GeoCoordinates
+  - class/Thing/Intangible/StructuredValue/GeoCoordinates
+  - is_a_/GeoCoordinates
+  - schema-org/GeoCoordinates
 tags:
-- class/FileClass
-- class/GeoCoordinates
-- is_a_/GeoCoordinates
-- class/Thing/Intangible/StructuredValue/GeoCoordinates
+  - class/FileClass
+  - class/GeoCoordinates
+  - is_a_/GeoCoordinates
+  - class/Thing/Intangible/StructuredValue/GeoCoordinates
 version: 2.0
 ---
 

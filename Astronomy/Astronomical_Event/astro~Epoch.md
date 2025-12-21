@@ -1,6 +1,7 @@
 ---
 aliases:
   - Epoch
+  - astro~Epoch
 has_id_wikidata: Q2703
 ---
 

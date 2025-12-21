@@ -4,20 +4,22 @@ aliases:
   - rsvp_action
   - RsvpAction
   - is_a_rsvp_action
+  - Rsvp_Action
+  - Rsvp Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - rsvp_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_rsvp_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

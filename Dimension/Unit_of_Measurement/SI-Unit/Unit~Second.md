@@ -1,7 +1,8 @@
 ---
 aliases:
   - Sekunde
-has_id_wikidata: Q11574 
+  - Unit~Second
+has_id_wikidata: Q11574
 Commons_category: Second
 Commons_gallery: Second
 conversion_to_SI_unit: 1
@@ -23,39 +24,39 @@ conversion_to_standard_unit:
   - 3.170979198377e-9
   - 3.170979198377e-10
   - 3.170979198377e-11
-described_by_source: "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]"
+described_by_source: '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
 different_from:
-  - "[[_Standards/WikiData/WD~second,636099]]"
-  - "[[_Standards/WikiData/WD~arcsecond,829073]]"
-  - "[[_Standards/WikiData/WD~Sekunde,22699224]]"
+  - '[[_Standards/WikiData/WD~second,636099]]'
+  - '[[_Standards/WikiData/WD~arcsecond,829073]]'
+  - '[[_Standards/WikiData/WD~Sekunde,22699224]]'
 exact_match: https://www.w3.org/TR/owl-time/#time:unitSecond
 IEV_number: 112-02-04
 image: http://commons.wikimedia.org/wiki/Special:FilePath/AnalogClockAnimation2%203hands%201h%20in%20realtime.gif
 instance_of:
-  - "[[_Standards/WikiData/WD~SI_base_unit,223662]]"
-  - "[[_Standards/WikiData/WD~unit_of_time,1790144]]"
-  - "[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]"
-  - "[[_Standards/WikiData/WD~UCUM_base_unit,82047053]]"
+  - '[[_Standards/WikiData/WD~SI_base_unit,223662]]'
+  - '[[_Standards/WikiData/WD~unit_of_time,1790144]]'
+  - '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
+  - '[[_Standards/WikiData/WD~UCUM_base_unit,82047053]]'
 measured_physical_quantity:
-  - "[[_Standards/WikiData/WD~duration,2199864]]"
-  - "[[_Standards/WikiData/WD~reactor_time_constant,99518950]]"
-  - "[[_Standards/WikiData/WD~specific_impulse_by_weight,100828354]]"
-  - "[[_Standards/WikiData/WD~half-life,47270]]"
+  - '[[_Standards/WikiData/WD~duration,2199864]]'
+  - '[[_Standards/WikiData/WD~reactor_time_constant,99518950]]'
+  - '[[_Standards/WikiData/WD~specific_impulse_by_weight,100828354]]'
+  - '[[_Standards/WikiData/WD~half-life,47270]]'
 numeric_value:
   - 9192631770
   - 3.168876464081849e-8
 OmegaWiki_Defined_Meaning: 5947
 part_of:
-  - "[[_Standards/WikiData/WD~MKS_system_of_units,512417]]"
-  - "[[_Standards/WikiData/WD~minute,7727]]"
-  - "[[_Standards/WikiData/WD~centimeter_gram_second_system_of_units,26240]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110322053,110322053]]"
+  - '[[_Standards/WikiData/WD~MKS_system_of_units,512417]]'
+  - '[[_Standards/WikiData/WD~minute,7727]]'
+  - '[[_Standards/WikiData/WD~centimeter_gram_second_system_of_units,26240]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110322053,110322053]]'
 short_name:
   - sek.
   - sek.
   - sek.
-subclass_of: "[[_Standards/WikiData/WD~time_interval,186081]]"
-subdivision_of_this_unit: "[[_Standards/WikiData/WD~decisecond,3251645]]"
+subclass_of: '[[_Standards/WikiData/WD~time_interval,186081]]'
+subdivision_of_this_unit: '[[_Standards/WikiData/WD~decisecond,3251645]]'
 UCUM_code: s
 unit_symbol: s
 UN_CEFACT_Common_Code: SEC

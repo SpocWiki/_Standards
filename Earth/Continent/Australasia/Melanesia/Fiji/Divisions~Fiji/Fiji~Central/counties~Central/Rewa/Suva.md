@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Suva
+has_id_wikidata: Q38807
 confidential: public
 isDeleted: false
 coordinate_location: Point(178.433333333 -18.133333333)
@@ -10,43 +13,42 @@ SpocWebEntityId: 35988
 tags:
   - geo/City
 type: City
-has_id_wikidata: Q38807
 capital_of:
-  - "[[_Standards/WikiData/WD~Viti_Levu,208198]]"
-  - "[[_Standards/WikiData/WD~Dominion_of_Fiji,5291089]]"
-  - "[[_Standards/WikiData/WD~Fiji,712]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Viti_Levu,208198]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Rewa,1365257]]"
-instance_of: "[[_Standards/WikiData/WD~city,515]]"
-country: "[[_Standards/WikiData/WD~Fiji,712]]"
+  - '[[_Standards/WikiData/WD~Viti_Levu,208198]]'
+  - '[[_Standards/WikiData/WD~Dominion_of_Fiji,5291089]]'
+  - '[[_Standards/WikiData/WD~Fiji,712]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Viti_Levu,208198]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Rewa,1365257]]'
+instance_of: '[[_Standards/WikiData/WD~city,515]]'
+country: '[[_Standards/WikiData/WD~Fiji,712]]'
 official_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Fijian,33295]]"
-  - "[[_Standards/WikiData/WD~Fiji_Hindi,46728]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+12_00,7105]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Fijian,33295]]'
+  - '[[_Standards/WikiData/WD~Fiji_Hindi,46728]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+12_00,7105]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
 elevation_above_sea_level: 0
 local_dialing_code:
-  - "333"
-  - "34"
-  - "32"
-  - "38"
+  - 333
+  - 34
+  - 32
+  - 38
 area: 2048
 population: 88271
-WOEID: "1064103"
+WOEID: 1064103
 Commons_category: Suva
 native_label:
   - Suva
   - सुवा
 official_name: Suva
-OmegaWiki_Defined_Meaning: "742351"
+OmegaWiki_Defined_Meaning: 742351
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Fiji%20map.png
-U_S_National_Archives_Identifier: "10038293"
+U_S_National_Archives_Identifier: 10038293
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Suva%20Banner%20Wikivoyage.jpg
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Suva%20City.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Suva%2C%20Fiji%2052.jpg
 official_website: https://www.suvacity.org
-ISNI: "0000000111831043"
+ISNI: 0000000111831043
 Facebook_username: scc.suvacitycouncil
 YouTube_handle: suvacitycouncil
 demonym:

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Fallschirm
+  - Parachute
 has_id_wikidata: Q482816
 has_part_s_:
   - "[[_Standards/WikiData/WD~handle,200266]]"
@@ -22,11 +23,11 @@ subclass_of: "[[_Standards/WikiData/WD~protective_device,3030569]]"
 different_from: "[[_Standards/WikiData/WD~Spadochron,9339993]]"
 has_use: "[[_Standards/WikiData/WD~deceleration,12307971]]"
 has_characteristic: "[[_Standards/WikiData/WD~control,29017603]]"
-Nomenclature_for_Museum_Cataloging: "11679"
+Nomenclature_for_Museum_Cataloging: 11679
 Commons_category: Parachutes
-GS1_GPC_code: "10001832"
-OmegaWiki_Defined_Meaning: "541394"
-U_S_National_Archives_Identifier: "10644780"
+GS1_GPC_code: 10001832
+OmegaWiki_Defined_Meaning: 541394
+U_S_National_Archives_Identifier: 10644780
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/USN%20parachute%20demo%20team%20at%20Minot%20AFB.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/IJA%20Type%201%20Cargo%20Parachute.jpg
@@ -34,14 +35,14 @@ image:
 exact_match:
   - http://wordnet-rdf.princeton.edu/wn30/03888257-n
   - http://wordnet-rdf.princeton.edu/wn31/103839738-n
-UNSPSC_Code: "25201904"
-Dewey_Decimal_Classification: "629.134386"
+UNSPSC_Code: 25201904
+Dewey_Decimal_Classification: 629.134386
 MCN_code: 8804.00.00
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/PARASHYUT.html
 Unicode_character: 🪂
 ---
 
-# [[Parachute]] 
+# [[Parachute]] 🪂 
 
 #is_/same_as :: [[WD~Parachute,482816]] 
 

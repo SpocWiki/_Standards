@@ -1,10 +1,11 @@
 ---
 aliases:
   - Protostern
+  - Protostar
 has_id_wikidata: Q204903
-subclass_of: "[[_Standards/WikiData/WD~young_stellar_object,497654]]"
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-part_of: "[[_Standards/WikiData/WD~star_formation,16744]]"
+subclass_of: '[[_Standards/WikiData/WD~young_stellar_object,497654]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+part_of: '[[_Standards/WikiData/WD~star_formation,16744]]'
 Commons_category: Protostars
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20diamond%20in%20the%20dust.jpg
 Stack_Exchange_tag: https://astronomy.stackexchange.com/tags/protostar

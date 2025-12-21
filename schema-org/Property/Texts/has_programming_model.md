@@ -4,22 +4,24 @@ aliases:
   - programming_model
   - programmingModel
   - has_text_of_programming_model
+  - has_programming_model
+  - has programming model
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - programming
   - model
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_programming_model
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

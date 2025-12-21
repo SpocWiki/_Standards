@@ -1,29 +1,30 @@
 ---
 aliases:
   - Kristallographie
+  - Crystallography
 has_id_wikidata: Q160398
 subclass_of:
-  - "[[_Standards/WikiData/WD~mineralogy,83353]]"
-  - "[[_Standards/WikiData/WD~materials_science,228736]]"
-  - "[[_Standards/WikiData/WD~analytical_chemistry,2346]]"
+  - '[[_Standards/WikiData/WD~mineralogy,83353]]'
+  - '[[_Standards/WikiData/WD~materials_science,228736]]'
+  - '[[_Standards/WikiData/WD~analytical_chemistry,2346]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
-  - "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-practiced_by: "[[_Standards/WikiData/WD~crystallographer,15142825]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Crystallography,125809136]]"
-has_characteristic: "[[_Standards/WikiData/WD~Crystallography_on_stamps,130218608]]"
-is_the_study_of: "[[_Standards/WikiData/WD~crystal,43533]]"
-Dewey_Decimal_Classification: "548"
-OmegaWiki_Defined_Meaning: "802"
+  - '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
+  - '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~crystallographer,15142825]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Crystallography,125809136]]'
+has_characteristic: '[[_Standards/WikiData/WD~Crystallography_on_stamps,130218608]]'
+is_the_study_of: '[[_Standards/WikiData/WD~crystal,43533]]'
+Dewey_Decimal_Classification: 548
+OmegaWiki_Defined_Meaning: 802
 GitHub_topic: crystallography
-Iconclass_notation: "49E4"
-Basisklassifikation: "38.31"
+Iconclass_notation: 49E4
+Basisklassifikation: 38.31
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Crystal%20lattice%20composition.png
   - http://commons.wikimedia.org/wiki/Special:FilePath/Crystallography.jpg

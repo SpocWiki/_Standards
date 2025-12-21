@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~WearAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/WearAction
-- class/Thing/Action/ConsumeAction/UseAction/WearAction
-- is_a_/WearAction
-- schema-org/WearAction
+  - class/WearAction
+  - class/Thing/Action/ConsumeAction/UseAction/WearAction
+  - is_a_/WearAction
+  - schema-org/WearAction
 tags:
-- class/FileClass
-- class/WearAction
-- is_a_/WearAction
-- class/Thing/Action/ConsumeAction/UseAction/WearAction
+  - class/FileClass
+  - class/WearAction
+  - is_a_/WearAction
+  - class/Thing/Action/ConsumeAction/UseAction/WearAction
 version: 2.0
 ---
 

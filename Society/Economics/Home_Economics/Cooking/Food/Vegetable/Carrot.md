@@ -1,6 +1,7 @@
 ---
 aliases:
   - Karotte
+  - Carrot
 has_id_wikidata: Q81
 subclass_of:
   - "[[_Standards/WikiData/WD~taproot,609336]]"
@@ -28,34 +29,34 @@ water_footprint: 195
 color: "[[_Standards/WikiData/WD~orange,39338]]"
 shape: "[[_Standards/WikiData/WD~cone,42344]]"
 PLU_code:
-  - "4094"
-  - "4563"
-  - "4565"
-  - "4562"
-  - "4564"
-USDA_NDB_number: "11124"
-OmegaWiki_Defined_Meaning: "941547"
+  - 4094
+  - 4563
+  - 4565
+  - 4562
+  - 4564
+USDA_NDB_number: 11124
+OmegaWiki_Defined_Meaning: 941547
 Commons_category: Carrots
 Unicode_character: 🥕
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Carrots%20of%20many%20colors.jpg
 Dewey_Decimal_Classification:
-  - "583.849"
-  - "635.13"
-  - "641.3513"
-  - "641.6513"
+  - 583.849
+  - 635.13
+  - 641.3513
+  - 641.6513
 sectional_view:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Carrot%20cross%20section%2002.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Wortel%20doorsneden.jpg
 Amazon_com_browse_node:
-  - "11194809011"
-  - "6459254011"
-  - "6507155011"
-P8189: "987007560220205171"
+  - 11194809011
+  - 6459254011
+  - 6507155011
+P8189: 987007560220205200
 FoodEx2_code: A00QH
 UMLS_CUI: C1141640
 UNII: L56Z1JK48B
 ---
-# [[Carrot]] 
+# [[Carrot]] 🥕 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Carrot,81|WD~Carrot,81]] 
 

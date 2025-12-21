@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Group-13-Boron
 has_id_wikidata: Q189294
 type: ElementGroup
 ---

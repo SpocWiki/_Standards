@@ -1,23 +1,25 @@
 ---
+aliases:
+  - Bearing(mechanical)
 has_id_wikidata: Q190100
 subclass_of:
-  - "[[_Standards/WikiData/WD~machine_element,839546]]"
-  - "[[_Standards/WikiData/WD~product,2424752]]"
-  - "[[_Standards/WikiData/WD~connector,18819626]]"
+  - '[[_Standards/WikiData/WD~machine_element,839546]]'
+  - '[[_Standards/WikiData/WD~product,2424752]]'
+  - '[[_Standards/WikiData/WD~connector,18819626]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~rolling_element_bearing,1335987]]"
-  - "[[_Standards/WikiData/WD~plain_bearing,18830]]"
-different_from: "[[_Standards/WikiData/WD~Q9394452,9394452]]"
-has_use: "[[_Standards/WikiData/WD~physical_interface,64830866]]"
-Product_and_Service_Code: "31"
-Nomenclature_for_Museum_Cataloging: "8908"
-GS1_GPC_code: "10003170"
+  - '[[_Standards/WikiData/WD~rolling_element_bearing,1335987]]'
+  - '[[_Standards/WikiData/WD~plain_bearing,18830]]'
+different_from: '[[_Standards/WikiData/WD~Q9394452,9394452]]'
+has_use: '[[_Standards/WikiData/WD~physical_interface,64830866]]'
+Product_and_Service_Code: 31
+Nomenclature_for_Museum_Cataloging: 8908
+GS1_GPC_code: 10003170
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ball%20bearing.jpg
-P8189: "987007282411105171"
+P8189: 987007282411105171
 Commons_category: Bearings
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/PODSHIPNIK.html
 Baidu_Tieba_name: 轴承

@@ -4,21 +4,23 @@ aliases:
   - transcript
   - transcript
   - has_text_of_transcript
+  - has_transcript
+  - has transcript
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - transcript
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_transcript
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

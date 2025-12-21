@@ -4,21 +4,22 @@ aliases:
   - direct_apply
   - directApply
   - is_direct_apply
+  - is direct apply
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - direct_apply
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_direct_apply
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

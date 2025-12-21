@@ -1,29 +1,30 @@
 ---
 aliases:
   - Korruption
+  - Corruption
 has_id_wikidata: Q366
-different_from: "[[_Standards/WikiData/WD~bribery,187436]]"
-part_of: "[[_Standards/WikiData/WD~abuse,600571]]"
-subclass_of: "[[_Standards/WikiData/WD~wrongdoing,896677]]"
+different_from: '[[_Standards/WikiData/WD~bribery,187436]]'
+part_of: '[[_Standards/WikiData/WD~abuse,600571]]'
+subclass_of: '[[_Standards/WikiData/WD~wrongdoing,896677]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~police_corruption,1248389]]"
-  - "[[_Standards/WikiData/WD~political_corruption,10858400]]"
-  - "[[_Standards/WikiData/WD~judicial_corruption,77751990]]"
-handled_mitigated_or_managed_by: "[[_Standards/WikiData/WD~governance,1553864]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~abuse_of_power,1975478]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Corruption,11013132]]"
-manifestation_of: "[[_Standards/WikiData/WD~governance_failure,42417210]]"
-relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiData/WD~Target_16.5_of_the_Sustainable_Development_Goals,57590924]]"
-opposite_of: "[[_Standards/WikiData/WD~anti_corruption,60741353]]"
-practiced_by: "[[_Standards/WikiData/WD~corrupt_official,122687476]]"
+  - '[[_Standards/WikiData/WD~police_corruption,1248389]]'
+  - '[[_Standards/WikiData/WD~political_corruption,10858400]]'
+  - '[[_Standards/WikiData/WD~judicial_corruption,77751990]]'
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~governance,1553864]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~abuse_of_power,1975478]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Corruption,11013132]]'
+manifestation_of: '[[_Standards/WikiData/WD~governance_failure,42417210]]'
+relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_16.5_of_the_Sustainable_Development_Goals,57590924]]'
+opposite_of: '[[_Standards/WikiData/WD~anti_corruption,60741353]]'
+practiced_by: '[[_Standards/WikiData/WD~corrupt_official,122687476]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
-has_characteristic: "[[_Standards/WikiData/WD~evil,15292]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+has_characteristic: '[[_Standards/WikiData/WD~evil,15292]]'
 Library_of_Congress_Classification: K5261
 Commons_category: Corruption
 IMDb_keyword: corruption
-OmegaWiki_Defined_Meaning: "455389"
+OmegaWiki_Defined_Meaning: 455389
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Campaign%20Contributions%20Cause%20Colossal%20Crimes%20-1924%20cartoon.jpg
 Wikitribune_category: crime/corruption
 Krugosvet_article: ekonomika-i-pravo/korrupciya

@@ -4,20 +4,21 @@ aliases:
   - activity
   - activityDuration
   - has_duration_of_activity
+  - has duration of activity
 confidential: public
 cssclasses:
   - Predicate
   - Duration
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
-layout:
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Durations

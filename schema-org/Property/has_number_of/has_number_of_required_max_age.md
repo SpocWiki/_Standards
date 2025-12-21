@@ -4,21 +4,22 @@ aliases:
   - required_max_age
   - requiredMaxAge
   - has_number_of_required_max_age
+  - has number of required max age
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - required_max_age
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_required_max_age
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

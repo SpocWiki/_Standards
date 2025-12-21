@@ -1,6 +1,8 @@
 ---
 aliases:
   - Schaltkreis-Design
+  - Circuit_Design
+  - Circuit Design
 has_id_wikidata: Q3245116
 ---
 # [[Circuit_Design]] 

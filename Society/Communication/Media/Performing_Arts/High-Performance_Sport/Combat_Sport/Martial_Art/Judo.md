@@ -2,26 +2,27 @@
 aliases:
   - 柔道
   - Jūdō
+  - Judo
 has_id_wikidata: Q11420
-founded_by: "[[_Standards/WikiData/WD~Kanō_Jigorō,190141]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Kanō_Jigorō,190141]]"
+founded_by: '[[_Standards/WikiData/WD~Kanō_Jigorō,190141]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Kanō_Jigorō,190141]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~budō,752021]]"
-  - "[[_Standards/WikiData/WD~combat_sport,7128792]]"
-  - "[[_Standards/WikiData/WD~martial_art,11417]]"
+  - '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+  - '[[_Standards/WikiData/WD~budō,752021]]'
+  - '[[_Standards/WikiData/WD~combat_sport,7128792]]'
+  - '[[_Standards/WikiData/WD~martial_art,11417]]'
 uses:
-  - "[[_Standards/WikiData/WD~tatami,318763]]"
-  - "[[_Standards/WikiData/WD~judogi,2374719]]"
-authority: "[[_Standards/WikiData/WD~International_Judo_Federation,1191347]]"
-practiced_by: "[[_Standards/WikiData/WD~judoka,6665249]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Judo,14407158]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Judo,18929460]]"
+  - '[[_Standards/WikiData/WD~tatami,318763]]'
+  - '[[_Standards/WikiData/WD~judogi,2374719]]'
+authority: '[[_Standards/WikiData/WD~International_Judo_Federation,1191347]]'
+practiced_by: '[[_Standards/WikiData/WD~judoka,6665249]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Judo,14407158]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Judo,18929460]]'
 time_of_discovery_or_invention: 1882-01-01T00:00:00Z
 inception: 1882-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-country_of_origin: "[[_Standards/WikiData/WD~Japan,17]]"
-OmegaWiki_Defined_Meaning: "407036"
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
+OmegaWiki_Defined_Meaning: 407036
 subreddit: judo
 native_label: 柔道
 image: http://commons.wikimedia.org/wiki/Special:FilePath/KOCIS%20Korea%20Judo%20Kim%20Jaebum%20London%2036%20%287696361164%29.jpg

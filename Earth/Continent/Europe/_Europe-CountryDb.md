@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _Europe-CountryDb
+  - ' Europe-CountryDb'
 database_plugin: basic
 ---
 

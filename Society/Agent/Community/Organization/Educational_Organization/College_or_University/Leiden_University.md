@@ -2,15 +2,16 @@
 aliases:
   - Leiden University
   - Universiteit Leiden
+  - Leiden_University
 has_id_wikidata: Q156598
 ISNI:
-  - "0000000120132535"
-  - "0000000123121970"
+  - 0000000120132535
+  - 0000000123121970
 IPv4_routing_prefix:
   - 188.200.154.48/29
   - 194.171.106.0/24
 IPv6_routing_prefix: 2001:610:318::/48
-EU_Participant_Identification_Code: "999974553"
+EU_Participant_Identification_Code: 999974553
 Pinterest_username: boards
 Wolfram_Language_entity_code: Entity["University", "UniversiteitLeiden::c3wzd"]
 EU_VAT_number: NL809778282B01
@@ -22,52 +23,52 @@ Mastodon_address: universiteitleiden@mastodon.nl
 motto_text: Libertatis Praesidium
 native_label: Universiteit Leiden
 official_name: Universiteit Leiden
-founded_by: "[[_Standards/WikiData/WD~William_the_Silent,78454]]"
+founded_by: '[[_Standards/WikiData/WD~William_the_Silent,78454]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Q118398,118398]]"
-  - "[[_Standards/WikiData/WD~Coimbra_Group,211620]]"
-  - "[[_Standards/WikiData/WD~International_Association_of_Universities,284199]]"
-  - "[[_Standards/WikiData/WD~European_University_Association,868940]]"
-  - "[[_Standards/WikiData/WD~League_of_European_Research_Universities,1152269]]"
-  - "[[_Standards/WikiData/WD~Association_of_Universities_in_the_Netherlands,2574590]]"
-  - "[[_Standards/WikiData/WD~Stichting_Academisch_Erfgoed,3212092]]"
-  - "[[_Standards/WikiData/WD~Committee_on_Publication_Ethics,5153090]]"
-  - "[[_Standards/WikiData/WD~ORCID,_Inc.,19861084]]"
-  - "[[_Standards/WikiData/WD~UNA_Europa,97293368]]"
-  - "[[_Standards/WikiData/WD~Coalition_for_Advancing_Research_Assessment,115682002]]"
-  - "[[_Standards/WikiData/WD~Leiden_Delft_Erasmus_Universities,136349390]]"
-partnership_with: "[[_Standards/WikiData/WD~NIOD_Institute_for_War,_Holocaust_and_Genocide_Studies,474823]]"
+  - '[[_Standards/WikiData/WD~Q118398,118398]]'
+  - '[[_Standards/WikiData/WD~Coimbra_Group,211620]]'
+  - '[[_Standards/WikiData/WD~International_Association_of_Universities,284199]]'
+  - '[[_Standards/WikiData/WD~European_University_Association,868940]]'
+  - '[[_Standards/WikiData/WD~League_of_European_Research_Universities,1152269]]'
+  - '[[_Standards/WikiData/WD~Association_of_Universities_in_the_Netherlands,2574590]]'
+  - '[[_Standards/WikiData/WD~Stichting_Academisch_Erfgoed,3212092]]'
+  - '[[_Standards/WikiData/WD~Committee_on_Publication_Ethics,5153090]]'
+  - '[[_Standards/WikiData/WD~ORCID,_Inc.,19861084]]'
+  - '[[_Standards/WikiData/WD~UNA_Europa,97293368]]'
+  - '[[_Standards/WikiData/WD~Coalition_for_Advancing_Research_Assessment,115682002]]'
+  - '[[_Standards/WikiData/WD~Leiden_Delft_Erasmus_Universities,136349390]]'
+partnership_with: '[[_Standards/WikiData/WD~NIOD_Institute_for_War,_Holocaust_and_Genocide_Studies,474823]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Leiden_University_Library,638395]]"
-  - "[[_Standards/WikiData/WD~African_Studies_Centre_Leiden,2174585]]"
-  - "[[_Standards/WikiData/WD~Leiden_University_Medical_Center,2406409]]"
-  - "[[_Standards/WikiData/WD~Leiden_Law_School,55616739]]"
-  - "[[_Standards/WikiData/WD~Faculteit_der_Archeologie,61662973]]"
-  - "[[_Standards/WikiData/WD~Faculty_of_Humanities,61662985]]"
-  - "[[_Standards/WikiData/WD~Institute_for_Governance_and_Global_Affairs,61662993]]"
-  - "[[_Standards/WikiData/WD~Faculty_of_Social_and_Behavioural_Sciences,61666647]]"
-  - "[[_Standards/WikiData/WD~Faculteit_der_Wiskunde_en_Natuurwetenschappen,61666665]]"
-funder: "[[_Standards/WikiData/WD~Open_Society_Foundations,786194]]"
+  - '[[_Standards/WikiData/WD~Leiden_University_Library,638395]]'
+  - '[[_Standards/WikiData/WD~African_Studies_Centre_Leiden,2174585]]'
+  - '[[_Standards/WikiData/WD~Leiden_University_Medical_Center,2406409]]'
+  - '[[_Standards/WikiData/WD~Leiden_Law_School,55616739]]'
+  - '[[_Standards/WikiData/WD~Faculteit_der_Archeologie,61662973]]'
+  - '[[_Standards/WikiData/WD~Faculty_of_Humanities,61662985]]'
+  - '[[_Standards/WikiData/WD~Institute_for_Governance_and_Global_Affairs,61662993]]'
+  - '[[_Standards/WikiData/WD~Faculty_of_Social_and_Behavioural_Sciences,61666647]]'
+  - '[[_Standards/WikiData/WD~Faculteit_der_Wiskunde_en_Natuurwetenschappen,61666665]]'
+funder: '[[_Standards/WikiData/WD~Open_Society_Foundations,786194]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Rijksmuseum_van_Oudheden,1860378]]"
-  - "[[_Standards/WikiData/WD~Rapenburg_70_74,_Leiden,17339242]]"
-  - "[[_Standards/WikiData/WD~Leidse_Hoogleraren,23667505]]"
+  - '[[_Standards/WikiData/WD~Rijksmuseum_van_Oudheden,1860378]]'
+  - '[[_Standards/WikiData/WD~Rapenburg_70_74,_Leiden,17339242]]'
+  - '[[_Standards/WikiData/WD~Leidse_Hoogleraren,23667505]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Regional_Archives_Nijmegen,15881190]]"
-  - "[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~rector_magnificus_of_Leiden_University,20968836]]"
-rector: "[[_Standards/WikiData/WD~Hester_Bijl,59096960]]"
-described_by_source: "[[_Standards/WikiData/WD~Medvik,99413897]]"
-part_of: "[[_Standards/WikiData/WD~ELIXIR_NL,109496389]]"
+  - '[[_Standards/WikiData/WD~Regional_Archives_Nijmegen,15881190]]'
+  - '[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~rector_magnificus_of_Leiden_University,20968836]]'
+rector: '[[_Standards/WikiData/WD~Hester_Bijl,59096960]]'
+described_by_source: '[[_Standards/WikiData/WD~Medvik,99413897]]'
+part_of: '[[_Standards/WikiData/WD~ELIXIR_NL,109496389]]'
 coordinate_location: Point(4.485277777 52.156944444)
 inception: 1575-02-18T00:00:00Z
 language_used:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Dutch,7411]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Dutch,7411]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~university,3918]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
-country: "[[_Standards/WikiData/WD~Netherlands,55]]"
+  - '[[_Standards/WikiData/WD~university,3918]]'
+  - '[[_Standards/WikiData/WD~organization,43229]]'
+country: '[[_Standards/WikiData/WD~Netherlands,55]]'
 ranking:
   - 70
   - 80
@@ -91,10 +92,10 @@ social_media_followers:
   - 10800
   - 36090
 location:
-  - "[[_Standards/WikiData/WD~The_Hague,36600]]"
-  - "[[_Standards/WikiData/WD~Leiden,43631]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Leiden,43631]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Leiden,43631]]"
+  - '[[_Standards/WikiData/WD~The_Hague,36600]]'
+  - '[[_Standards/WikiData/WD~Leiden,43631]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Leiden,43631]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Leiden,43631]]'
 employees: 7860
 count_of_students: 33474
 Commons_category: Leiden University

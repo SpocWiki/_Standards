@@ -4,20 +4,22 @@ aliases:
   - geospatial_geometry
   - GeospatialGeometry
   - is_a_geospatial_geometry
+  - Geospatial_Geometry
+  - Geospatial Geometry
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - geospatial_geometry
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_geospatial_geometry Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

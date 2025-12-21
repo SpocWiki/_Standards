@@ -2,6 +2,7 @@
 aliases:
   - Kuchen
   - gateau
+  - Cake
 has_id_wikidata: Q13276
 made_from_material:
   - "[[_Standards/WikiData/WD~egg_as_food,93189]]"
@@ -20,7 +21,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~bánh,5004791]]"
   - "[[_Standards/WikiData/WD~bakers'_confection,113389041]]"
 described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-USDA_NDB_number: "18135"
+USDA_NDB_number: 18135
 Commons_gallery: Cake
 Unicode_character:
   - 🎂
@@ -31,12 +32,12 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Runebergintorttu.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Cake-article.ogg
 exact_match: http://purl.obolibrary.org/obo/ENVO_02000063
-U_S_National_Archives_Identifier: "10647897"
+U_S_National_Archives_Identifier: 10647897
 Amazon_com_browse_node:
-  - "16317271"
-  - "347681011"
-  - "6524482011"
-P8189: "987007293769005171"
+  - 16317271
+  - 347681011
+  - 6524482011
+P8189: 987007293769005200
 Danbooru_tag: cake
 IMDb_keyword: cake
 subreddit:
@@ -52,7 +53,7 @@ Wikidata_usage_instructions: Instances of this class are actual cakes.  Cake typ
 hashtag_: cake
 ---
 
-# [[Cake]] 
+# [[Cake]] 🍰 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Cake,13276|WD~Cake,13276]] 
 

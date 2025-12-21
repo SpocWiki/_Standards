@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Bone
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Bone
-- class/Thing/MedicalEntity/AnatomicalStructure/Bone
-- is_a_/Bone
-- schema-org/Bone
+  - class/Bone
+  - class/Thing/MedicalEntity/AnatomicalStructure/Bone
+  - is_a_/Bone
+  - schema-org/Bone
 tags:
-- class/FileClass
-- class/Bone
-- is_a_/Bone
-- class/Thing/MedicalEntity/AnatomicalStructure/Bone
+  - class/FileClass
+  - class/Bone
+  - is_a_/Bone
+  - class/Thing/MedicalEntity/AnatomicalStructure/Bone
 version: 2.0
 ---
 

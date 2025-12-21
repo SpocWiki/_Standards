@@ -4,21 +4,22 @@ aliases:
   - review-rating
   - reviewRating
   - has_value_for_review_rating_stars
+  - has value for review rating stars
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - review-rating
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_review-rating
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

@@ -10,39 +10,39 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: ''
+has_Template: '[[Extract~Note~Template]]'
 has_time_started: 2025-04-13
 isDeleted: false
 isReadOnly: false
 keywords: Pragmatism
 lang: en
-layout:
+layout: ''
 license: (c)copyrighted
 linkTitle: Pragmatism
 publish: false
-publishDate:
+publishDate: ''
 tags:
   - Pragmatism
   - excalidraw
 title: Pragmatism
 type: private_note
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Pragmatism,4133192]]"
-  - "[[_Standards/WikiData/WD~Pragmatisme,7237646]]"
+  - '[[_Standards/WikiData/WD~Pragmatism,4133192]]'
+  - '[[_Standards/WikiData/WD~Pragmatisme,7237646]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]"
-  - "[[_Standards/WikiData/WD~ideology,7257]]"
-practiced_by: "[[_Standards/WikiData/WD~pragmatist,16263353]]"
-inspired_by: "[[_Standards/WikiData/WD~Q47471464,47471464]]"
-subclass_of: "[[_Standards/WikiData/WD~philosophy,5891]]"
+  - '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]'
+  - '[[_Standards/WikiData/WD~ideology,7257]]'
+practiced_by: '[[_Standards/WikiData/WD~pragmatist,16263353]]'
+inspired_by: '[[_Standards/WikiData/WD~Q47471464,47471464]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
 Dewey_Decimal_Classification:
-  - "144.3"
-  - "370.12"
+  - 144.3
+  - 370.12
 PhilPapers_topic: pragmatism
 Commons_category: Pragmatism
 ---

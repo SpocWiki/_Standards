@@ -4,23 +4,24 @@ aliases:
   - part_of_system
   - partOfSystem
   - is_part_of_system
+  - is part of system
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - part
   - of
   - system
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_part_of_system
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -4,21 +4,23 @@ aliases:
   - offline_event_attendance_mode
   - OfflineEventAttendanceMode
   - is_an_offline_event_attendance_mode
+  - Offline_Event_Attendance_Mode
+  - Offline Event Attendance Mode
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: EventAttendanceModeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - offline_event_attendance_mode
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_offline_event_attendance_mode Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

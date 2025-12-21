@@ -4,21 +4,23 @@ aliases:
   - reservation_cancelled
   - ReservationCancelled
   - is_a_reservation_cancelled
+  - Reservation_Cancelled
+  - Reservation Cancelled
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: ReservationStatusType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - reservation_cancelled
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_reservation_cancelled Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

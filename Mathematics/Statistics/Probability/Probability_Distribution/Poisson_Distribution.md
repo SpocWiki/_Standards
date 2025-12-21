@@ -2,22 +2,24 @@
 aliases:
   - Poisson distribution
   - Poissonverteilung
+  - Poisson_Distribution
+  - Poisson Distribution
 has_id_wikidata: Q205692
 subclass_of:
-  - "[[_Standards/WikiData/WD~binomial_distribution,185547]]"
-  - "[[_Standards/WikiData/WD~Panjer_distribution,1090859]]"
-  - "[[_Standards/WikiData/WD~Conway_Maxwell_Poisson_distribution,3258310]]"
-  - "[[_Standards/WikiData/WD~compound_Poisson_distribution,3711786]]"
-  - "[[_Standards/WikiData/WD~Tweedie_distribution,7857491]]"
-  - "[[_Standards/WikiData/WD~univariate_probability_distribution,7893853]]"
-  - "[[_Standards/WikiData/WD~natural_exponential_family_with_quadratic_variance_function,22682141]]"
-  - "[[_Standards/WikiData/WD~discrete_probability_distribution,26898117]]"
-named_after: "[[_Standards/WikiData/WD~Siméon_Denis_Poisson,190772]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~binomial_distribution,185547]]'
+  - '[[_Standards/WikiData/WD~Panjer_distribution,1090859]]'
+  - '[[_Standards/WikiData/WD~Conway_Maxwell_Poisson_distribution,3258310]]'
+  - '[[_Standards/WikiData/WD~compound_Poisson_distribution,3711786]]'
+  - '[[_Standards/WikiData/WD~Tweedie_distribution,7857491]]'
+  - '[[_Standards/WikiData/WD~univariate_probability_distribution,7893853]]'
+  - '[[_Standards/WikiData/WD~natural_exponential_family_with_quadratic_variance_function,22682141]]'
+  - '[[_Standards/WikiData/WD~discrete_probability_distribution,26898117]]'
+named_after: '[[_Standards/WikiData/WD~Siméon_Denis_Poisson,190772]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 probability_mass_function: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><msup><mi>&#x03BB;</mi><mrow data-mjx-texclass="ORD"><mi>x</mi></mrow></msup></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>x</mi><mo stretchy="false">!</mo></mrow></mrow></mfrac></mrow><msup><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">e</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mi>&#x03BB;</mi></mrow></mrow></msup></mstyle></mrow></math>
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>x</mi><mo stretchy="false">!</mo></mstyle></mrow></math>

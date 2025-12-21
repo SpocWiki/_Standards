@@ -4,21 +4,23 @@ aliases:
   - wearable_measurement_outside_leg
   - WearableMeasurementOutsideLeg
   - is_a_wearable_measurement_outside_leg
+  - Wearable_Measurement_Outside_Leg
+  - Wearable Measurement Outside Leg
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableMeasurementTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_measurement_outside_leg
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_measurement_outside_leg Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

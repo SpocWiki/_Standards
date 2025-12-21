@@ -1,24 +1,25 @@
 ---
 aliases:
   - Mysticismus
+  - Mysticism
 has_id_wikidata: Q45996
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - "[[_Standards/WikiData/WD~mysticism,1956943]]"
-  - "[[_Standards/WikiData/WD~mysticism,16861950]]"
+  - '[[_Standards/WikiData/WD~mysticism,1956943]]'
+  - '[[_Standards/WikiData/WD~mysticism,16861950]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~faith,5410500]]"
-  - "[[_Standards/WikiData/WD~non_rational_belief_system,136485030]]"
-practiced_by: "[[_Standards/WikiData/WD~mystic,12328016]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~mysticism,16861950]]"
-has_part_s_: "[[_Standards/WikiData/WD~Mystical_experience,21707257]]"
-instance_of: "[[_Standards/WikiData/WD~way_of_life,24034076]]"
-facet_of: "[[_Standards/WikiData/WD~religion,9174]]"
+  - '[[_Standards/WikiData/WD~faith,5410500]]'
+  - '[[_Standards/WikiData/WD~non_rational_belief_system,136485030]]'
+practiced_by: '[[_Standards/WikiData/WD~mystic,12328016]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~mysticism,16861950]]'
+has_part_s_: '[[_Standards/WikiData/WD~Mystical_experience,21707257]]'
+instance_of: '[[_Standards/WikiData/WD~way_of_life,24034076]]'
+facet_of: '[[_Standards/WikiData/WD~religion,9174]]'
 Commons_category: Mysticism
 subreddit: mysticism
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hildegard%20von%20Bingen%20Liber%20Divinorum%20Operum.jpg

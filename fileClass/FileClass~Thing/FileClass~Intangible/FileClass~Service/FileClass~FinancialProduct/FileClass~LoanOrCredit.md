@@ -1,70 +1,72 @@
 ---
-excludes: 
+aliases:
+  - FileClass~LoanOrCredit
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct
 fields:
-- id: tnoLPj
-  name: Amount
-  options: {}
-  type: Number
-  path: ''
-- id: MSrZCZ
-  name: Currency
-  options: {}
-  type: Input
-  path: ''
-- id: rmSuLR
-  name: GracePeriod
-  options:
-    min: 0
-    max: 2359
-  type: Number
-  path: ''
-- id: Dx4fNQ
-  name: LoanRepaymentForm
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/RepaymentSpecification')"
-  type: MultiFile
-  path: ''
-- id: lMBjjz
-  name: LoanTerm
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: H81NZc
-  name: LoanType
-  options: {}
-  type: Input
-  path: ''
-- id: d8Atmo
-  name: RecourseLoan
-  options: {}
-  type: Boolean
-  path: ''
-- id: 4G4zYD
-  name: RenegotiableLoan
-  options: {}
-  type: Boolean
-  path: ''
-- id: puuMri
-  name: RequiredCollateral
-  options:
-    dvQueryString: "dv.pages('#class/Thing')"
-  type: MultiFile
-  path: ''
+  - id: tnoLPj
+    name: Amount
+    options: {}
+    type: Number
+    path: ''
+  - id: MSrZCZ
+    name: Currency
+    options: {}
+    type: Input
+    path: ''
+  - id: rmSuLR
+    name: GracePeriod
+    options:
+      min: 0
+      max: 2359
+    type: Number
+    path: ''
+  - id: Dx4fNQ
+    name: LoanRepaymentForm
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/RepaymentSpecification')
+    type: MultiFile
+    path: ''
+  - id: lMBjjz
+    name: LoanTerm
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: H81NZc
+    name: LoanType
+    options: {}
+    type: Input
+    path: ''
+  - id: d8Atmo
+    name: RecourseLoan
+    options: {}
+    type: Boolean
+    path: ''
+  - id: 4G4zYD
+    name: RenegotiableLoan
+    options: {}
+    type: Boolean
+    path: ''
+  - id: puuMri
+    name: RequiredCollateral
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/LoanOrCredit
-- class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit
-- is_a_/LoanOrCredit
-- schema-org/LoanOrCredit
+  - class/LoanOrCredit
+  - class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit
+  - is_a_/LoanOrCredit
+  - schema-org/LoanOrCredit
 tags:
-- class/FileClass
-- class/LoanOrCredit
-- is_a_/LoanOrCredit
-- class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit
+  - class/FileClass
+  - class/LoanOrCredit
+  - is_a_/LoanOrCredit
+  - class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit
 version: 2.0
 ---
 

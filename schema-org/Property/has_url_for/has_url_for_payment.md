@@ -4,21 +4,23 @@ aliases:
   - payment_url
   - paymentUrl
   - has_url_for_payment_url
+  - has_url_for_payment
+  - has url for payment
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - payment_url
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_payment_url
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

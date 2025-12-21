@@ -2,44 +2,45 @@
 aliases:
   - Wall Street Journal
   - The_Wall_Street_Journal
+  - Wall_Street_Journal
 has_id_wikidata: Q164746
 account_charge_subscription_fee:
   - 700
   - 2199
   - 38.99
 award_received:
-  - "[[_Standards/WikiData/WD~Pulitzer_Prize_for_Public_Service,644995]]"
-  - "[[_Standards/WikiData/WD~George_Polk_Award,845188]]"
-  - "[[_Standards/WikiData/WD~Philip_Meyer_Journalism_Award,7184075]]"
+  - '[[_Standards/WikiData/WD~Pulitzer_Prize_for_Public_Service,644995]]'
+  - '[[_Standards/WikiData/WD~George_Polk_Award,845188]]'
+  - '[[_Standards/WikiData/WD~Philip_Meyer_Journalism_Award,7184075]]'
 Bluesky_handle: wsj.com
 British_Library_system_number: 13921759
 CODEN: WSJOAF
 Commons_category: The Wall Street Journal
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-described_by_source: "[[_Standards/WikiData/WD~Project_Oasis,124617164]]"
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+described_by_source: '[[_Standards/WikiData/WD~Project_Oasis,124617164]]'
 Dewey_Decimal_Classification_works_and_editions_:
   - 71.3
   - 332.05
-different_from: "[[_Standards/WikiData/WD~Wall_Street_Journal,124561283]]"
+different_from: '[[_Standards/WikiData/WD~Wall_Street_Journal,124561283]]'
 domain_name: wsj.com
-editor_in_chief: "[[_Standards/WikiData/WD~Emma_Tucker,84147191]]"
+editor_in_chief: '[[_Standards/WikiData/WD~Emma_Tucker,84147191]]'
 Facebook_username: WSJ
 founded_by:
-  - "[[_Standards/WikiData/WD~Charles_Dow,472182]]"
-  - "[[_Standards/WikiData/WD~Charles_Bergstresser,2958536]]"
-  - "[[_Standards/WikiData/WD~Edward_Jones,3048584]]"
+  - '[[_Standards/WikiData/WD~Charles_Dow,472182]]'
+  - '[[_Standards/WikiData/WD~Charles_Bergstresser,2958536]]'
+  - '[[_Standards/WikiData/WD~Edward_Jones,3048584]]'
 Giphy_username: wsj
-has_edition_or_translation: "[[_Standards/WikiData/WD~Wall_Street_journal_(Midwest_ed.),27709807]]"
+has_edition_or_translation: '[[_Standards/WikiData/WD~Wall_Street_journal_(Midwest_ed.),27709807]]'
 has_time_started: 1889-07-08
-headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+headquarters_location: '[[_Standards/WikiData/WD~New_York_City,60]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Wall%20Street%20Journal%20first%20issue.jpg
 inception: 1889-07-08
-indexed_in_bibliographic_review: "[[_Standards/WikiData/WD~Scopus,371467]]"
+indexed_in_bibliographic_review: '[[_Standards/WikiData/WD~Scopus,371467]]'
 Instagram_username: wsj
 instance_of:
-  - "[[_Standards/WikiData/WD~daily_newspaper,1110794]]"
-  - "[[_Standards/WikiData/WD~scientific_journal,5633421]]"
-  - "[[_Standards/WikiData/WD~business_newspaper,106651372]]"
+  - '[[_Standards/WikiData/WD~daily_newspaper,1110794]]'
+  - '[[_Standards/WikiData/WD~scientific_journal,5633421]]'
+  - '[[_Standards/WikiData/WD~business_newspaper,106651372]]'
 ISO_4_abbreviation: Wall St. J., East. Ed.
 ISSN:
   - 0193-2241
@@ -47,24 +48,24 @@ ISSN:
   - 0099-9660
   - 2574-9579
 ISSN_L: 0099-9660
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
 Library_of_Congress_Classification_works_and_editions_: HG1 .W59
 Library_of_Congress_Control_Number_LCCN_bibliographic_: sn79004569
 Libris_URI: 1ccwkpxwzbbpjwsz
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Wall%20Street%20Journal%20Logo.svg
 Mastodon_address: WSJ@flipboard.com
 member_of:
-  - "[[_Standards/WikiData/WD~Inter_American_Press_Association,1626261]]"
-  - "[[_Standards/WikiData/WD~New_York_News_Publishers_Association,123213584]]"
-newspaper_format: "[[_Standards/WikiData/WD~broadsheet,665319]]"
+  - '[[_Standards/WikiData/WD~Inter_American_Press_Association,1626261]]'
+  - '[[_Standards/WikiData/WD~New_York_News_Publishers_Association,123213584]]'
+newspaper_format: '[[_Standards/WikiData/WD~broadsheet,665319]]'
 OCLC_control_number: 4299067
 official_shop_URL: https://wsjshop.com/
 official_website: https://wsj.com
-owned_by: "[[_Standards/WikiData/WD~Dow_Jones_&_Company,1126244]]"
+owned_by: '[[_Standards/WikiData/WD~Dow_Jones_&_Company,1126244]]'
 Pinterest_username: wsj
-place_of_publication: "[[_Standards/WikiData/WD~New_York_City,60]]"
+place_of_publication: '[[_Standards/WikiData/WD~New_York_City,60]]'
 publication_interval: 1
-publisher: "[[_Standards/WikiData/WD~Dow_Jones_&_Company,1126244]]"
+publisher: '[[_Standards/WikiData/WD~Dow_Jones_&_Company,1126244]]'
 Reddit_username: wsj
 short_name: WSJ
 Snapchat_username: wsj

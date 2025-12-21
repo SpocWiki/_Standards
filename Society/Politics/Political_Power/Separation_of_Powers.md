@@ -3,24 +3,26 @@ aliases:
   - separation of powers
   - Gewaltenteilung
   - Gewaltentrennung
+  - Separation_of_Powers
+  - Separation of Powers
 has_id_wikidata: Q79896
 subclass_of:
-  - "[[_Standards/WikiData/WD~political_philosophy,179805]]"
-  - "[[_Standards/WikiData/WD~government_structure,19944802]]"
+  - '[[_Standards/WikiData/WD~political_philosophy,179805]]'
+  - '[[_Standards/WikiData/WD~government_structure,19944802]]'
 different_from:
-  - "[[_Standards/WikiData/WD~decentralization,188961]]"
-  - "[[_Standards/WikiData/WD~balance_of_power,1125082]]"
-  - "[[_Standards/WikiData/WD~tripartite_classification_of_authority,3565078]]"
-  - "[[_Standards/WikiData/WD~federal_system,22676603]]"
-  - "[[_Standards/WikiData/WD~power_sharing,107969678]]"
-facet_of: "[[_Standards/WikiData/WD~risk_management,189447]]"
-opposite_of: "[[_Standards/WikiData/WD~fusion_of_powers,2093159]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Separation_of_powers,20727942]]"
+  - '[[_Standards/WikiData/WD~decentralization,188961]]'
+  - '[[_Standards/WikiData/WD~balance_of_power,1125082]]'
+  - '[[_Standards/WikiData/WD~tripartite_classification_of_authority,3565078]]'
+  - '[[_Standards/WikiData/WD~federal_system,22676603]]'
+  - '[[_Standards/WikiData/WD~power_sharing,107969678]]'
+facet_of: '[[_Standards/WikiData/WD~risk_management,189447]]'
+opposite_of: '[[_Standards/WikiData/WD~fusion_of_powers,2093159]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Separation_of_powers,20727942]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~pentad,29428403]]"
-  - "[[_Standards/WikiData/WD~triad,29430681]]"
-  - "[[_Standards/WikiData/WD~political_concept,33104069]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+  - '[[_Standards/WikiData/WD~pentad,29428403]]'
+  - '[[_Standards/WikiData/WD~triad,29430681]]'
+  - '[[_Standards/WikiData/WD~political_concept,33104069]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 Library_of_Congress_Classification: JF229
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Scene%20at%20the%20Signing%20of%20the%20Constitution%20of%20the%20United%20States.jpg
 Commons_category: Separation of powers

@@ -1,16 +1,19 @@
 ---
+aliases:
+  - South_Tarawa
+  - South Tarawa
 confidential: public
 isDeleted: false
 location:
-- 1.4
-- 172.9667
+  - 1.4
+  - 172.9667
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 36739
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

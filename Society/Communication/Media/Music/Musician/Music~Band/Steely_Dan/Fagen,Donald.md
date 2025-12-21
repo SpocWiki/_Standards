@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Donald Fagen"
+  - Donald Fagen
+  - Fagen,Donald
 ---
 
 #has_/time_/started :: 1948-01-10 

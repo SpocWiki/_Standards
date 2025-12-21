@@ -3,12 +3,13 @@ aliases:
   - has exercise-related-diet
   - exerciseRelatedDiet
   - has_exercise_related_diet
+  - has exercise related diet
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - related
   - diet
   - exercise_related_diet
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_exercise_related_diet
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

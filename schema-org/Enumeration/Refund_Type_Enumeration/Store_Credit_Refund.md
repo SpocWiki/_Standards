@@ -4,21 +4,23 @@ aliases:
   - store_credit_refund
   - StoreCreditRefund
   - is_a_store_credit_refund
+  - Store_Credit_Refund
+  - Store Credit Refund
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: RefundTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - store_credit_refund
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_store_credit_refund Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

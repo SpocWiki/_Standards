@@ -1,109 +1,111 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CDCPMDRecord
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-- id: nrbabt
-  name: CvdCollectionDate
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: lijOcK
-  name: CvdFacilityCounty
-  options: {}
-  type: Input
-  path: ''
-- id: 6buYl3
-  name: CvdFacilityId
-  options: {}
-  type: Input
-  path: ''
-- id: UaJOWC
-  name: CvdNumBeds
-  options: {}
-  type: Number
-  path: ''
-- id: 1ykiVx
-  name: CvdNumBedsOcc
-  options: {}
-  type: Number
-  path: ''
-- id: OLBTBl
-  name: CvdNumC19Died
-  options: {}
-  type: Number
-  path: ''
-- id: AqrgUe
-  name: CvdNumC19HOPats
-  options: {}
-  type: Number
-  path: ''
-- id: NHPomp
-  name: CvdNumC19HospPats
-  options: {}
-  type: Number
-  path: ''
-- id: 4cyT6t
-  name: CvdNumC19MechVentPats
-  options: {}
-  type: Number
-  path: ''
-- id: CuhC0C
-  name: CvdNumC19OFMechVentPats
-  options: {}
-  type: Number
-  path: ''
-- id: yPGO20
-  name: CvdNumC19OverflowPats
-  options: {}
-  type: Number
-  path: ''
-- id: RQCJVT
-  name: CvdNumICUBeds
-  options: {}
-  type: Number
-  path: ''
-- id: tguNam
-  name: CvdNumICUBedsOcc
-  options: {}
-  type: Number
-  path: ''
-- id: cUwanU
-  name: CvdNumTotBeds
-  options: {}
-  type: Number
-  path: ''
-- id: HkEjBy
-  name: CvdNumVent
-  options: {}
-  type: Number
-  path: ''
-- id: c5zOsK
-  name: CvdNumVentUse
-  options: {}
-  type: Number
-  path: ''
-- id: 64dFBm
-  name: DatePosted
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
+  - id: nrbabt
+    name: CvdCollectionDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: lijOcK
+    name: CvdFacilityCounty
+    options: {}
+    type: Input
+    path: ''
+  - id: 6buYl3
+    name: CvdFacilityId
+    options: {}
+    type: Input
+    path: ''
+  - id: UaJOWC
+    name: CvdNumBeds
+    options: {}
+    type: Number
+    path: ''
+  - id: 1ykiVx
+    name: CvdNumBedsOcc
+    options: {}
+    type: Number
+    path: ''
+  - id: OLBTBl
+    name: CvdNumC19Died
+    options: {}
+    type: Number
+    path: ''
+  - id: AqrgUe
+    name: CvdNumC19HOPats
+    options: {}
+    type: Number
+    path: ''
+  - id: NHPomp
+    name: CvdNumC19HospPats
+    options: {}
+    type: Number
+    path: ''
+  - id: 4cyT6t
+    name: CvdNumC19MechVentPats
+    options: {}
+    type: Number
+    path: ''
+  - id: CuhC0C
+    name: CvdNumC19OFMechVentPats
+    options: {}
+    type: Number
+    path: ''
+  - id: yPGO20
+    name: CvdNumC19OverflowPats
+    options: {}
+    type: Number
+    path: ''
+  - id: RQCJVT
+    name: CvdNumICUBeds
+    options: {}
+    type: Number
+    path: ''
+  - id: tguNam
+    name: CvdNumICUBedsOcc
+    options: {}
+    type: Number
+    path: ''
+  - id: cUwanU
+    name: CvdNumTotBeds
+    options: {}
+    type: Number
+    path: ''
+  - id: HkEjBy
+    name: CvdNumVent
+    options: {}
+    type: Number
+    path: ''
+  - id: c5zOsK
+    name: CvdNumVentUse
+    options: {}
+    type: Number
+    path: ''
+  - id: 64dFBm
+    name: DatePosted
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CDCPMDRecord
-- class/Thing/Intangible/StructuredValue/CDCPMDRecord
-- is_a_/CDCPMDRecord
-- schema-org/CDCPMDRecord
+  - class/CDCPMDRecord
+  - class/Thing/Intangible/StructuredValue/CDCPMDRecord
+  - is_a_/CDCPMDRecord
+  - schema-org/CDCPMDRecord
 tags:
-- class/FileClass
-- class/CDCPMDRecord
-- is_a_/CDCPMDRecord
-- class/Thing/Intangible/StructuredValue/CDCPMDRecord
+  - class/FileClass
+  - class/CDCPMDRecord
+  - is_a_/CDCPMDRecord
+  - class/Thing/Intangible/StructuredValue/CDCPMDRecord
 version: 2.0
 ---
 

@@ -4,21 +4,23 @@ aliases:
   - leisure_time_activity
   - LeisureTimeActivity
   - is_a_leisure_time_activity
+  - Leisure_Time_Activity
+  - Leisure Time Activity
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: PhysicalActivityCategory
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - leisure_time_activity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_leisure_time_activity Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

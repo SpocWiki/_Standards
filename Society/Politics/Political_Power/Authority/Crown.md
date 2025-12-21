@@ -1,6 +1,7 @@
 ---
 aliases:
   - Krone
+  - Crown
 has_id_wikidata: Q170984
 instance_of: "[[_Standards/WikiData/WD~symbol,80071]]"
 different_from:
@@ -24,16 +25,16 @@ subclass_of:
   - "[[_Standards/WikiData/WD~headdress,28972621]]"
   - "[[_Standards/WikiData/WD~power_symbol,111325174]]"
 depicted_by: "[[_Standards/WikiData/WD~Crowned_Head_of_a_Woman,131557322]]"
-Nomenclature_for_Museum_Cataloging: "14083"
-OmegaWiki_Defined_Meaning: "870564"
+Nomenclature_for_Museum_Cataloging: 14083
+OmegaWiki_Defined_Meaning: 870564
 Commons_category: Crowns
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Reichskrone%20Schatzkammer.jpg
 Unicode_character: 👑
 Iconclass_notation: 44BB191
-Dewey_Decimal_Classification: "739.228"
+Dewey_Decimal_Classification: 739.228
 ---
 
-# [[Crown]] 
+# [[Crown]] 👑 
 
 #is_/same_as :: [[../../../../WikiData/WD~Crown,170984|WD~Crown,170984]] 
 

@@ -4,20 +4,22 @@ aliases:
   - real_estate_agent
   - RealEstateAgent
   - is_a_real_estate_agent
+  - Real_Estate_Agent
+  - Real Estate Agent
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - real_estate_agent
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_real_estate_agent Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

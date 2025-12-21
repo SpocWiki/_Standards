@@ -3,23 +3,24 @@ aliases:
   - has layout-image
   - layoutImage
   - has_layout_image
+  - has layout image
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - layout_image
   - layout
   - image
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_layout_image
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

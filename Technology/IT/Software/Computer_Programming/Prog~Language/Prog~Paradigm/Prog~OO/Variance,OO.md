@@ -1,6 +1,7 @@
 ---
 aliases:
-- Variance
+  - Variance
+  - Variance,OO
 ---
 
 # [[Variance,OO]] 

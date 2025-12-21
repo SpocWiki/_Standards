@@ -4,21 +4,22 @@ aliases:
   - loan-term
   - loanTerm
   - has_value_for_loan_term
+  - has value for loan term
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - loan-term
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_loan-term
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

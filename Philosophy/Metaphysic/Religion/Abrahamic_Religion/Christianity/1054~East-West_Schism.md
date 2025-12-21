@@ -1,8 +1,10 @@
 ---
 aliases:
   - East–West Schism
-  - Great Schism 
+  - Great Schism
   - Schism of 1054
+  - 1054~East-West_Schism
+  - 1054~East-West Schism
 ---
 
 # [[1054~East-West_Schism]] 

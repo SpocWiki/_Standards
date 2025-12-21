@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PaintAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~CreateAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PaintAction
-- class/Thing/Action/CreateAction/PaintAction
-- is_a_/PaintAction
-- schema-org/PaintAction
+  - class/PaintAction
+  - class/Thing/Action/CreateAction/PaintAction
+  - is_a_/PaintAction
+  - schema-org/PaintAction
 tags:
-- class/FileClass
-- class/PaintAction
-- is_a_/PaintAction
-- class/Thing/Action/CreateAction/PaintAction
+  - class/FileClass
+  - class/PaintAction
+  - is_a_/PaintAction
+  - class/Thing/Action/CreateAction/PaintAction
 version: 2.0
 ---
 

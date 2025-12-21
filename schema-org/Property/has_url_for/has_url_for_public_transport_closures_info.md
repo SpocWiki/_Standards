@@ -4,21 +4,22 @@ aliases:
   - public_transport_closures_info
   - publicTransportClosuresInfo
   - has_url_for_public_transport_closures_info
+  - has url for public transport closures info
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - public_transport_closures_info
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_public_transport_closures_info
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

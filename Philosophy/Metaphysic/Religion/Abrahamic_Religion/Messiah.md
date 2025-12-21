@@ -1,27 +1,28 @@
 ---
 aliases:
   - Messias
+  - Messiah
 has_id_wikidata: Q51626
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-facet_of: "[[_Standards/WikiData/WD~messianism,630281]]"
-has_list: "[[_Standards/WikiData/WD~list_of_messiah_claimants,1289748]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+facet_of: '[[_Standards/WikiData/WD~messianism,630281]]'
+has_list: '[[_Standards/WikiData/WD~list_of_messiah_claimants,1289748]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~religious_belief,2728698]]"
-  - "[[_Standards/WikiData/WD~biblical_concept,30149195]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Masih,12471347]]"
+  - '[[_Standards/WikiData/WD~religious_belief,2728698]]'
+  - '[[_Standards/WikiData/WD~biblical_concept,30149195]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Masih,12471347]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~believer,17573152]]"
-  - "[[_Standards/WikiData/WD~religious_character,18563354]]"
-  - "[[_Standards/WikiData/WD~fictional_religious_occupation,47472256]]"
-  - "[[_Standards/WikiData/WD~eschatological_figure,131743524]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q32004294,32004294]]"
+  - '[[_Standards/WikiData/WD~believer,17573152]]'
+  - '[[_Standards/WikiData/WD~religious_character,18563354]]'
+  - '[[_Standards/WikiData/WD~fictional_religious_occupation,47472256]]'
+  - '[[_Standards/WikiData/WD~eschatological_figure,131743524]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32004294,32004294]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cristo%20Aurea%20Solar.jpg
 Stack_Exchange_tag:
   - https://christianity.stackexchange.com/tags/messiah

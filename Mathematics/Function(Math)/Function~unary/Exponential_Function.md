@@ -1,6 +1,8 @@
 ---
 aliases:
   - exponential
+  - Exponential_Function
+  - Exponential Function
 has_id_wikidata: Q168698
 ---
 

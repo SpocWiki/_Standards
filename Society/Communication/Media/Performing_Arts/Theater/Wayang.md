@@ -3,26 +3,27 @@ aliases:
   - ꦮꦪꦁ
   - ꦫꦶꦁꦒꦶꦠ
   - ringgit
+  - Wayang
 has_id_wikidata: Q1078316
-subclass_of: "[[_Standards/WikiData/WD~puppetry,588750]]"
+subclass_of: '[[_Standards/WikiData/WD~puppetry,588750]]'
 intangible_cultural_heritage_status:
-  - "[[_Standards/WikiData/WD~Masterpieces_of_the_Oral_and_Intangible_Heritage_of_Humanity,877988]]"
-  - "[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]"
-instance_of: "[[_Standards/WikiData/WD~theatrical_genre,7777573]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+  - '[[_Standards/WikiData/WD~Masterpieces_of_the_Oral_and_Intangible_Heritage_of_Humanity,877988]]'
+  - '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
+instance_of: '[[_Standards/WikiData/WD~theatrical_genre,7777573]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 location:
-  - "[[_Standards/WikiData/WD~Central_Java,3557]]"
-  - "[[_Standards/WikiData/WD~East_Java,3586]]"
-  - "[[_Standards/WikiData/WD~West_Java,3724]]"
-  - "[[_Standards/WikiData/WD~Yogyakarta,3741]]"
-  - "[[_Standards/WikiData/WD~Majalengka,10377]]"
-  - "[[_Standards/WikiData/WD~Blora,10608]]"
-  - "[[_Standards/WikiData/WD~Tegal,10705]]"
-  - "[[_Standards/WikiData/WD~Pekalongan,11026]]"
-  - "[[_Standards/WikiData/WD~Gresik,11077]]"
-country_of_origin: "[[_Standards/WikiData/WD~Indonesia,252]]"
-country: "[[_Standards/WikiData/WD~Indonesia,252]]"
+  - '[[_Standards/WikiData/WD~Central_Java,3557]]'
+  - '[[_Standards/WikiData/WD~East_Java,3586]]'
+  - '[[_Standards/WikiData/WD~West_Java,3724]]'
+  - '[[_Standards/WikiData/WD~Yogyakarta,3741]]'
+  - '[[_Standards/WikiData/WD~Majalengka,10377]]'
+  - '[[_Standards/WikiData/WD~Blora,10608]]'
+  - '[[_Standards/WikiData/WD~Tegal,10705]]'
+  - '[[_Standards/WikiData/WD~Pekalongan,11026]]'
+  - '[[_Standards/WikiData/WD~Gresik,11077]]'
+country_of_origin: '[[_Standards/WikiData/WD~Indonesia,252]]'
+country: '[[_Standards/WikiData/WD~Indonesia,252]]'
 Commons_gallery: Wayang
 Commons_category: Wayang
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2%20painted%20wayang%20puppets.jpg

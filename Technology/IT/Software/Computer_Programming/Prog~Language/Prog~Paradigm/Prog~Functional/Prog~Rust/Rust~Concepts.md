@@ -1,29 +1,29 @@
 ---
 aliases:
-- Rust~Concepts
-- 
+  - Rust~Concepts
+  - ''
 confidential: private
-cssclasses: "private note"
+cssclasses: private note
 draft: true
-expiryDate: 
+expiryDate: ''
 has_time_started: 2024-01-06
 isDeleted: false
 isReadOnly: false
 Key: Value
 keywords:
-- Rust~Concepts
+  - Rust~Concepts
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Rust~Concepts
 Predicate: '[[Object]]'
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Rust~Concepts
-- "rather use"
+  - Rust~Concepts
+  - rather use
 title: Rust~Concepts
-type: "private note"
+type: private note
 ---
 
 # [[Rust~Concepts]] 

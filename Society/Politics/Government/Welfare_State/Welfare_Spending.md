@@ -1,30 +1,32 @@
 ---
 aliases:
   - Wohlfahrt
+  - Welfare_Spending
+  - Welfare Spending
 has_id_wikidata: Q12002092
 part_of:
-  - "[[_Standards/WikiData/WD~social_state,619610]]"
-  - "[[_Standards/WikiData/WD~social_security,2483208]]"
+  - '[[_Standards/WikiData/WD~social_state,619610]]'
+  - '[[_Standards/WikiData/WD~social_security,2483208]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 different_from:
-  - "[[_Standards/WikiData/WD~social_insurance,7653906]]"
-  - "[[_Standards/WikiData/WD~welfare,125569548]]"
-subclass_of: "[[_Standards/WikiData/WD~economic_support,11497309]]"
+  - '[[_Standards/WikiData/WD~social_insurance,7653906]]'
+  - '[[_Standards/WikiData/WD~welfare,125569548]]'
+subclass_of: '[[_Standards/WikiData/WD~economic_support,11497309]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~social_services,11588306]]"
-  - "[[_Standards/WikiData/WD~type_of_policy,96251375]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Welfare,26003971]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q32536151,32536151]]"
-has_goal: "[[_Standards/WikiData/WD~welfare,125569548]]"
+  - '[[_Standards/WikiData/WD~social_services,11588306]]'
+  - '[[_Standards/WikiData/WD~type_of_policy,96251375]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Welfare,26003971]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32536151,32536151]]'
+has_goal: '[[_Standards/WikiData/WD~welfare,125569548]]'
 PhilPapers_topic: welfare
 Commons_category: Welfare
-U_S_National_Archives_Identifier: "10643362"
+U_S_National_Archives_Identifier: 10643362
 IPTC_NewsCode: mediatopic/20000817
-Dewey_Decimal_Classification: "368.4"
+Dewey_Decimal_Classification: 368.4
 ---
 
 # [[Welfare_Spending]] 

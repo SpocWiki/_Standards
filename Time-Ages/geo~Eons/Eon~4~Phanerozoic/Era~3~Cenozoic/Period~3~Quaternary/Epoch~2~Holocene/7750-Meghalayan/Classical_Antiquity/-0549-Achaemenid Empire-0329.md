@@ -5,6 +5,7 @@ aliases:
   - Persian Empire
   - First Persian Empire
   - 𐎧𐏁𐏂
+  - -0549-Achaemenid Empire-0329
 has_id_wikidata: Q389688
 inception: -0549-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: -0329-01-01T00:00:00Z

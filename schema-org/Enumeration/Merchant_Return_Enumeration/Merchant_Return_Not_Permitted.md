@@ -4,21 +4,23 @@ aliases:
   - merchant_return_not_permitted
   - MerchantReturnNotPermitted
   - is_a_merchant_return_not_permitted
+  - Merchant_Return_Not_Permitted
+  - Merchant Return Not Permitted
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MerchantReturnEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - merchant_return_not_permitted
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_merchant_return_not_permitted Class
 publish: true
-publishDate:
+publishDate: ''
 supersedes: ProductReturnNotPermitted
 tags:
   - class/Class

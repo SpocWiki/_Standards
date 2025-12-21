@@ -3,26 +3,27 @@ aliases:
   - electronic condenser
   - condenser
   - Kondensator
+  - Capacitor
+has_id_wikidata: Q5322
 Commons_category: Capacitors
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-  - "[[_Standards/WikiData/WD~battery,267298]]"
-  - "[[_Standards/WikiData/WD~condenser,607569]]"
+  - '[[_Standards/WikiData/WD~battery,267298]]'
+  - '[[_Standards/WikiData/WD~condenser,607569]]'
 GS1_GPC_code: 10005622
 has_characteristic:
-  - "[[_Standards/WikiData/WD~capacitance,164399]]"
-has_id_wikidata: Q5322
+  - '[[_Standards/WikiData/WD~capacitance,164399]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/IEEE%20315%20Fundamental%20Items%20Symbols%20%2832%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/JVC%20MX-J950R%20-%20power%20module-1112%20%28cropped%29%20-%20Elna%20Silmic%20electrolytic%20capacitors.jpg
 short_name:
   - C
 Stack_Exchange_tag: https://electronics.stackexchange.com/tags/capacitor
 subclass_of:
-  - "[[_Standards/WikiData/WD~one-port_circuit,233003]]"
-  - "[[_Standards/WikiData/WD~passive_electronic_component,9252564]]"
-  - "[[_Standards/WikiData/WD~electronic_component,11653]]"
+  - '[[_Standards/WikiData/WD~one-port_circuit,233003]]'
+  - '[[_Standards/WikiData/WD~passive_electronic_component,9252564]]'
+  - '[[_Standards/WikiData/WD~electronic_component,11653]]'
 ---
 
 # [[Capacitor]] 

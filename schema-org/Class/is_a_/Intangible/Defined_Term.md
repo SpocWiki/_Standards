@@ -1,28 +1,30 @@
 ---
 aliases:
-- defined-term
-- defined_term
-- DefinedTerm
-- is_a_defined_term
-- "defined term"
+  - defined-term
+  - defined_term
+  - DefinedTerm
+  - is_a_defined_term
+  - defined term
+  - Defined_Term
+  - Defined Term
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- defined_term
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_defined_term Class"
+  - defined_term
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_a_defined_term Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_defined_term Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_defined_term Class
 type: Type
 ---
 

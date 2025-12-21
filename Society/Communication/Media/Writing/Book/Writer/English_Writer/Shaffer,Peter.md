@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Peter Shaffer"
-- "Sir Peter Levin Shaffer"
+  - Peter Shaffer
+  - Sir Peter Levin Shaffer
+  - Shaffer,Peter
 ---
 
 # [[Shaffer,Peter]] 

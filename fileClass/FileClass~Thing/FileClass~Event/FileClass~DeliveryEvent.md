@@ -1,39 +1,41 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DeliveryEvent
+excludes: ''
 extends: FileClass~Thing/FileClass~Event
 fields:
-- id: ThuzHi
-  name: AccessCode
-  options: {}
-  type: Input
-  path: ''
-- id: 1A2Rof
-  name: AvailableFrom
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: BNAx1R
-  name: AvailableThrough
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
+  - id: ThuzHi
+    name: AccessCode
+    options: {}
+    type: Input
+    path: ''
+  - id: 1A2Rof
+    name: AvailableFrom
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: BNAx1R
+    name: AvailableThrough
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DeliveryEvent
-- class/Thing/Event/DeliveryEvent
-- is_a_/DeliveryEvent
-- schema-org/DeliveryEvent
+  - class/DeliveryEvent
+  - class/Thing/Event/DeliveryEvent
+  - is_a_/DeliveryEvent
+  - schema-org/DeliveryEvent
 tags:
-- class/FileClass
-- class/DeliveryEvent
-- is_a_/DeliveryEvent
-- class/Thing/Event/DeliveryEvent
+  - class/FileClass
+  - class/DeliveryEvent
+  - is_a_/DeliveryEvent
+  - class/Thing/Event/DeliveryEvent
 version: 2.0
 ---
 

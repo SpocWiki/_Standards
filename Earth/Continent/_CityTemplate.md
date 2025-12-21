@@ -1,17 +1,19 @@
 ---
 aliases:
-- 
+  - ''
+  - _CityTemplate
+  - ' CityTemplate'
 confidential: public
 isDeleted: false
 isReadOnly: false
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 publish: true
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

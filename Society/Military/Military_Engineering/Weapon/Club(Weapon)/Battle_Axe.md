@@ -1,14 +1,17 @@
 ---
+aliases:
+  - Battle_Axe
+  - Battle Axe
 has_id_wikidata: Q852049
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~war_axe,57207682]]"
-  - "[[_Standards/WikiData/WD~weapon,728]]"
-instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
-Nomenclature_for_Museum_Cataloging: "8236"
+  - '[[_Standards/WikiData/WD~war_axe,57207682]]'
+  - '[[_Standards/WikiData/WD~weapon,728]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+Nomenclature_for_Museum_Cataloging: 8236
 IMDb_keyword: battle-axe
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Indian%20%28Sind%29%20tabar%202.jpg
-P8189: "987007549344405171"
+P8189: 987007549344405171
 Commons_category: Battle axes
 ---
 

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~HotelRoom
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/HotelRoom
-- class/Thing/Place/Accommodation/Room/HotelRoom
-- is_a_/HotelRoom
-- schema-org/HotelRoom
+  - class/HotelRoom
+  - class/Thing/Place/Accommodation/Room/HotelRoom
+  - is_a_/HotelRoom
+  - schema-org/HotelRoom
 tags:
-- class/FileClass
-- class/HotelRoom
-- is_a_/HotelRoom
-- class/Thing/Place/Accommodation/Room/HotelRoom
+  - class/FileClass
+  - class/HotelRoom
+  - is_a_/HotelRoom
+  - class/Thing/Place/Accommodation/Room/HotelRoom
 version: 2.0
 ---
 

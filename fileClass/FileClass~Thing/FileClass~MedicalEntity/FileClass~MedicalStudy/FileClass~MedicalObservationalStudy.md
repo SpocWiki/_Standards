@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MedicalObservationalStudy
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MedicalObservationalStudy
-- class/Thing/MedicalEntity/MedicalStudy/MedicalObservationalStudy
-- is_a_/MedicalObservationalStudy
-- schema-org/MedicalObservationalStudy
+  - class/MedicalObservationalStudy
+  - class/Thing/MedicalEntity/MedicalStudy/MedicalObservationalStudy
+  - is_a_/MedicalObservationalStudy
+  - schema-org/MedicalObservationalStudy
 tags:
-- class/FileClass
-- class/MedicalObservationalStudy
-- is_a_/MedicalObservationalStudy
-- class/Thing/MedicalEntity/MedicalStudy/MedicalObservationalStudy
+  - class/FileClass
+  - class/MedicalObservationalStudy
+  - is_a_/MedicalObservationalStudy
+  - class/Thing/MedicalEntity/MedicalStudy/MedicalObservationalStudy
 version: 2.0
 ---
 

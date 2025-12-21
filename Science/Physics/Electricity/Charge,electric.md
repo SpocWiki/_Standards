@@ -3,6 +3,7 @@ aliases:
   - Electric Charge
   - Electric_Charge
   - Elektrische Ladung
+  - Charge,electric
 has_id_wikidata: Q1111
 subclass_of:
   - "[[_Standards/WikiData/WD~charge,73792]]"
@@ -23,7 +24,7 @@ Wikidata_property: electric charge
 quantity_symbol_string_:
   - Q
   - q
-OmegaWiki_Defined_Meaning: "767128"
+OmegaWiki_Defined_Meaning: 767128
 IEV_number: 113-02-10
 quantity_symbol_LaTeX_:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>Q</mi></mstyle></mrow></math>

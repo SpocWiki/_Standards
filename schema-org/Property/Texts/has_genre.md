@@ -1,30 +1,32 @@
 ---
 aliases:
-- genre
-- genre
-- genre
-- has_text_of_genre
-- "schema:genre"
-- "dbo:genre"
-- "wdt:P136"
+  - genre
+  - genre
+  - genre
+  - has_text_of_genre
+  - schema:genre
+  - dbo:genre
+  - wdt:P136
+  - has_genre
+  - has genre
 confidential: public
 cssclasses:
-- Predicate
-- Text
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- genre
-layout: 
-license: "CC BY-SA 4.0"
+  - genre
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_text_of_genre
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_genre
 type: Pred_Text
 ---

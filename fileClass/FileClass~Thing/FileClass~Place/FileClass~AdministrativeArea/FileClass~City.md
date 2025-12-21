@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~City
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/City
-- class/Thing/Place/AdministrativeArea/City
-- is_a_/City
-- schema-org/City
+  - class/City
+  - class/Thing/Place/AdministrativeArea/City
+  - is_a_/City
+  - schema-org/City
 tags:
-- class/FileClass
-- class/City
-- is_a_/City
-- class/Thing/Place/AdministrativeArea/City
+  - class/FileClass
+  - class/City
+  - is_a_/City
+  - class/Thing/Place/AdministrativeArea/City
 version: 2.0
 ---
 

@@ -1,30 +1,31 @@
 ---
+aliases:
+  - Mikroskop
+  - Zodiac~Microscopium
+has_id_wikidata: Q10492
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-aliases:
-  - Mikroskop
-has_id_wikidata: Q10492
 named_after:
-  - "[[_Standards/WikiData/WD~microscope,196538]]"
-  - "[[_Standards/WikiData/WD~Antonie_van_Leeuwenhoek,43522]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703]]"
-part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
+  - '[[_Standards/WikiData/WD~microscope,196538]]'
+  - '[[_Standards/WikiData/WD~Antonie_van_Leeuwenhoek,43522]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Microscopium,6449737]]"
-  - "[[_Standards/WikiData/WD~Q10729080,10729080]]"
+  - '[[_Standards/WikiData/WD~Template_Microscopium,6449737]]'
+  - '[[_Standards/WikiData/WD~Q10729080,10729080]]'
 time_of_discovery_or_invention: 1751-01-01T00:00:00Z
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Sagittarius,8866]]"
-  - "[[_Standards/WikiData/WD~Piscis_Austrinus,10409]]"
-  - "[[_Standards/WikiData/WD~Indus,10450]]"
-  - "[[_Standards/WikiData/WD~Capricornus,10535]]"
-  - "[[_Standards/WikiData/WD~Telescopium,10546]]"
-  - "[[_Standards/WikiData/WD~Grus,10563]]"
-instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+  - '[[_Standards/WikiData/WD~Sagittarius,8866]]'
+  - '[[_Standards/WikiData/WD~Piscis_Austrinus,10409]]'
+  - '[[_Standards/WikiData/WD~Indus,10450]]'
+  - '[[_Standards/WikiData/WD~Capricornus,10535]]'
+  - '[[_Standards/WikiData/WD~Telescopium,10546]]'
+  - '[[_Standards/WikiData/WD~Grus,10563]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
 area: 209.5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Microscopium.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Microscopium%20constellation%20map.svg

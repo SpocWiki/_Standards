@@ -4,21 +4,23 @@ aliases:
   - staged_content
   - StagedContent
   - is_a_staged_content
+  - Staged_Content
+  - Staged Content
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MediaManipulationRatingEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - staged_content
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_staged_content Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -4,22 +4,24 @@ aliases:
   - discount_currency
   - discountCurrency
   - has_text_of_discount_currency
+  - has_discount_currency
+  - has discount currency
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - discount
   - currency
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_discount_currency
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

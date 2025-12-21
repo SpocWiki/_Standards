@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MobilePhoneStore
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MobilePhoneStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MobilePhoneStore
-- is_a_/MobilePhoneStore
-- schema-org/MobilePhoneStore
+  - class/MobilePhoneStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MobilePhoneStore
+  - is_a_/MobilePhoneStore
+  - schema-org/MobilePhoneStore
 tags:
-- class/FileClass
-- class/MobilePhoneStore
-- is_a_/MobilePhoneStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MobilePhoneStore
+  - class/FileClass
+  - class/MobilePhoneStore
+  - is_a_/MobilePhoneStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MobilePhoneStore
 version: 2.0
 ---
 

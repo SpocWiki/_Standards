@@ -3,12 +3,13 @@ aliases:
   - has free-shipping-threshold
   - freeShippingThreshold
   - has_free_shipping_threshold
+  - has free shipping threshold
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - shipping
   - threshold
   - free_shipping_threshold
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_free_shipping_threshold
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

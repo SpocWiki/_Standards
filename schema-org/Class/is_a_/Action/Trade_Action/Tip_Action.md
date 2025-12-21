@@ -4,20 +4,22 @@ aliases:
   - tip_action
   - TipAction
   - is_a_tip_action
+  - Tip_Action
+  - Tip Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - tip_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_tip_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

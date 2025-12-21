@@ -1,6 +1,8 @@
 ---
 aliases:
-- "John D. Carmack II"
+  - John D. Carmack II
+  - Carmack,John_D
+  - Carmack,John D
 ---
 
 #has_/time_/started :: 1970-08-21 

@@ -1,46 +1,48 @@
 ---
 aliases:
   - Nuclear power
+  - Nuclear_Power
+  - Nuclear Power
 has_id_wikidata: Q12739
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~electrical_energy,206799]]"
-  - "[[_Standards/WikiData/WD~district_heating,278784]]"
-  - "[[_Standards/WikiData/WD~warm_water,63958763]]"
-facet_of: "[[_Standards/WikiData/WD~nuclear_reaction,238323]]"
+  - '[[_Standards/WikiData/WD~electrical_energy,206799]]'
+  - '[[_Standards/WikiData/WD~district_heating,278784]]'
+  - '[[_Standards/WikiData/WD~warm_water,63958763]]'
+facet_of: '[[_Standards/WikiData/WD~nuclear_reaction,238323]]'
 uses:
-  - "[[_Standards/WikiData/WD~district_heating,278784]]"
-  - "[[_Standards/WikiData/WD~energy_production,3406659]]"
-  - "[[_Standards/WikiData/WD~nuclear_binding_energy,6750062]]"
+  - '[[_Standards/WikiData/WD~district_heating,278784]]'
+  - '[[_Standards/WikiData/WD~energy_production,3406659]]'
+  - '[[_Standards/WikiData/WD~nuclear_binding_energy,6750062]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~nuclear_technology,348091]]"
-  - "[[_Standards/WikiData/WD~energy_source,1522115]]"
-  - "[[_Standards/WikiData/WD~technology,11016]]"
+  - '[[_Standards/WikiData/WD~nuclear_technology,348091]]'
+  - '[[_Standards/WikiData/WD~energy_source,1522115]]'
+  - '[[_Standards/WikiData/WD~technology,11016]]'
 has_use:
-  - "[[_Standards/WikiData/WD~climate_change_mitigation,898653]]"
-  - "[[_Standards/WikiData/WD~energy_production,3406659]]"
+  - '[[_Standards/WikiData/WD~climate_change_mitigation,898653]]'
+  - '[[_Standards/WikiData/WD~energy_production,3406659]]'
 part_of:
-  - "[[_Standards/WikiData/WD~sustainable_energy,1962383]]"
-  - "[[_Standards/WikiData/WD~energy_industry,2151621]]"
-  - "[[_Standards/WikiData/WD~alternative_energy,4202245]]"
-  - "[[_Standards/WikiData/WD~nuclear_program,19753332]]"
+  - '[[_Standards/WikiData/WD~sustainable_energy,1962383]]'
+  - '[[_Standards/WikiData/WD~energy_industry,2151621]]'
+  - '[[_Standards/WikiData/WD~alternative_energy,4202245]]'
+  - '[[_Standards/WikiData/WD~nuclear_program,19753332]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~energy_production,3406659]]"
-  - "[[_Standards/WikiData/WD~form_of_energy,3935690]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Nuclear_technology,14615983]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_nuclear_power,16000280]]"
+  - '[[_Standards/WikiData/WD~energy_production,3406659]]'
+  - '[[_Standards/WikiData/WD~form_of_energy,3935690]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Nuclear_technology,14615983]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_nuclear_power,16000280]]'
 carbon_footprint: 12
-OmegaWiki_Defined_Meaning: "2567"
-U_S_National_Archives_Identifier: "10641714"
+OmegaWiki_Defined_Meaning: 2567
+U_S_National_Archives_Identifier: 10641714
 GitHub_topic: nuclear
 Dewey_Decimal_Classification:
-  - "539.7"
-  - "333.7924"
+  - 539.7
+  - 333.7924
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nuclear%20Power%20Plant%20Cattenom.jpg
-P8189: "987007536108505171"
+P8189: 987007536108505171
 UMLS_CUI: C0028572
 MeSH_tree_code:
   - G01.536

@@ -2,21 +2,23 @@
 aliases:
   - Versöhnungstag
   - Day of Atonement
+  - Yom_Kippur
+  - Yom Kippur
 has_id_wikidata: Q132994
-subclass_of: "[[_Standards/WikiData/WD~Jewish_holiday,94920]]"
+subclass_of: '[[_Standards/WikiData/WD~Jewish_holiday,94920]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Jewish_Encyclopedia,653922]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~The_Jewish_Encyclopedia,653922]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~public_holiday,1197685]]"
+  - '[[_Standards/WikiData/WD~public_holiday,1197685]]'
   - "[[_Standards/WikiData/WD~ta'anit,2593233]]"
-day_in_year_for_periodic_occurrence: "[[_Standards/WikiData/WD~June_10,2920950]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Judaism,9268]]"
+day_in_year_for_periodic_occurrence: '[[_Standards/WikiData/WD~June_10,2920950]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Judaism,9268]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Maurycy%20Gottlieb%20-%20Jews%20Praying%20in%20the%20Synagogue%20on%20Yom%20Kippur.jpg
-Dewey_Decimal_Classification: "296.432"
+Dewey_Decimal_Classification: 296.432
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/OM-KIPPUR.html
 IPTC_NewsCode: mediatopic/20000695
 Commons_category: Yom Kippur

@@ -5,52 +5,54 @@ aliases:
   - PublicSwimmingPool
   - is_a_public_swimming_pool
   - swimming pool, swimming bath, wading pool, paddling pool, or simply pool
+  - Swimming_Pool
+  - Swimming Pool
 has_id_wikidata: Q1501
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - public_swimming_pool
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_public_swimming_pool Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_public_swimming_pool Class
 type: Type
 associated_hazard:
-  - "[[_Standards/WikiData/WD~drowning,506616]]"
-  - "[[_Standards/WikiData/WD~bathing_death,15785099]]"
-  - "[[_Standards/WikiData/WD~slip,_trip,_fall,95693871]]"
+  - '[[_Standards/WikiData/WD~drowning,506616]]'
+  - '[[_Standards/WikiData/WD~bathing_death,15785099]]'
+  - '[[_Standards/WikiData/WD~slip,_trip,_fall,95693871]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Swimming_Pools_(Drank),958595]]"
-  - "[[_Standards/WikiData/WD~open_water,2479431]]"
-  - "[[_Standards/WikiData/WD~Natatorium,2744619]]"
-  - "[[_Standards/WikiData/WD~alberca,110164525]]"
+  - '[[_Standards/WikiData/WD~Swimming_Pools_(Drank),958595]]'
+  - '[[_Standards/WikiData/WD~open_water,2479431]]'
+  - '[[_Standards/WikiData/WD~Natatorium,2744619]]'
+  - '[[_Standards/WikiData/WD~alberca,110164525]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~sports_venue,1076486]]"
-  - "[[_Standards/WikiData/WD~swimming_facility,12004466]]"
-  - "[[_Standards/WikiData/WD~pool_&_spa_product,117208189]]"
+  - '[[_Standards/WikiData/WD~sports_venue,1076486]]'
+  - '[[_Standards/WikiData/WD~swimming_facility,12004466]]'
+  - '[[_Standards/WikiData/WD~pool_&_spa_product,117208189]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_swimming_pool,20367641]]"
-instance_of: "[[_Standards/WikiData/WD~product_category,63981612]]"
-used_by: "[[_Standards/WikiData/WD~competitive_swimming,31920]]"
-sport: "[[_Standards/WikiData/WD~competitive_swimming,31920]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_swimming_pool,20367641]]'
+instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
+used_by: '[[_Standards/WikiData/WD~competitive_swimming,31920]]'
+sport: '[[_Standards/WikiData/WD~competitive_swimming,31920]]'
 operating_cost: 1450
-catalog_code: "1"
-Nomenclature_for_Museum_Cataloging: "698"
-U_S_National_Archives_Identifier: "10644085"
+catalog_code: 1
+Nomenclature_for_Museum_Cataloging: 698
+U_S_National_Archives_Identifier: 10644085
 hashtag: pool
-OmegaWiki_Defined_Meaning: "345236"
+OmegaWiki_Defined_Meaning: 345236
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fm%20stirling%20pool.jpg
 IMDb_keyword: swimming-pool
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Algemene%20sfeer%20van%20een%20zwembad%20-%20SoundCloud%20-%20Beeld%20en%20Geluid.ogg
@@ -63,7 +65,7 @@ Commons_gallery: Swimming pool
 Commons_category: Swimming pools
 OpenStreetMap_key: swimming_pool
 OpenStreetMap_tag: leisure=swimming_pool
-Dewey_Decimal_Classification: "797.2"
+Dewey_Decimal_Classification: 797.2
 ---
 
 # [[Swimming_Pool]] 

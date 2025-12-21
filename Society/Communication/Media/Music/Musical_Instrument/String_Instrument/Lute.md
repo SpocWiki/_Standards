@@ -1,28 +1,29 @@
 ---
 aliases:
   - Laute
+  - Lute
 has_id_wikidata: Q180733
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-different_from: "[[_Standards/WikiData/WD~Lutnia,11764328]]"
-used_by: "[[_Standards/WikiData/WD~lutenist,21166956]]"
-subclass_of: "[[_Standards/WikiData/WD~plucked_string_necked_bowl_lute,65516030]]"
-depicted_by: "[[_Standards/WikiData/WD~Central_panel_of_altarpiece_of_San_Zeno,132247331]]"
-Nomenclature_for_Museum_Cataloging: "10805"
-OmegaWiki_Defined_Meaning: "349299"
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+different_from: '[[_Standards/WikiData/WD~Lutnia,11764328]]'
+used_by: '[[_Standards/WikiData/WD~lutenist,21166956]]'
+subclass_of: '[[_Standards/WikiData/WD~plucked_string_necked_bowl_lute,65516030]]'
+depicted_by: '[[_Standards/WikiData/WD~Central_panel_of_altarpiece_of_San_Zeno,132247331]]'
+Nomenclature_for_Museum_Cataloging: 10805
+OmegaWiki_Defined_Meaning: 349299
 Hornbostel_Sachs_classification: 321.321-5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lute%20%28by%20Princess%20Ruto%2C%202013-02-11%29.jpg
-Amazon_com_browse_node: "11972771"
+Amazon_com_browse_node: 11972771
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/LYUTNYA.html
 Commons_category: Lutes
 ---

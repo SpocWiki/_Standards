@@ -1,24 +1,25 @@
 ---
 aliases:
   - synthesiser or synth
+  - Synthesizer
 has_id_wikidata: Q163829
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Robert_Moog,200883]]"
-different_from: "[[_Standards/WikiData/WD~electric_piano,1136507]]"
-subclass_of: "[[_Standards/WikiData/WD~electronic_musical_instrument,1327500]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_synthesizer,14385351]]"
-has_characteristic: "[[_Standards/WikiData/WD~synthesizer_model,19716577]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
-simulates: "[[_Standards/WikiData/WD~musical_instrument,34379]]"
-Hornbostel_Sachs_classification: "53"
-Nomenclature_for_Museum_Cataloging: "10692"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Robert_Moog,200883]]'
+different_from: '[[_Standards/WikiData/WD~electric_piano,1136507]]'
+subclass_of: '[[_Standards/WikiData/WD~electronic_musical_instrument,1327500]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_synthesizer,14385351]]'
+has_characteristic: '[[_Standards/WikiData/WD~synthesizer_model,19716577]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+simulates: '[[_Standards/WikiData/WD~musical_instrument,34379]]'
+Hornbostel_Sachs_classification: 53
+Nomenclature_for_Museum_Cataloging: 10692
 Commons_gallery: Synthesizer
-Amazon_com_browse_node: "11973861"
+Amazon_com_browse_node: 11973861
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Micromoog.jpg
 Stack_Exchange_tag: https://stackoverflow.com/tags/synthesizer
 MCN_code: 9207.10.10
 subreddit: synthesizers
 Commons_category: Synthesizers
-Dewey_Decimal_Classification: "786.74"
+Dewey_Decimal_Classification: 786.74
 ---
 
 # [[Synthesizer]] 

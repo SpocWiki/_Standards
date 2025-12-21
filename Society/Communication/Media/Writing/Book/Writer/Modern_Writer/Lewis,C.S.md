@@ -1,110 +1,111 @@
 ---
-has_id_wikidata: Q9204
 aliases:
   - Clive Staples Lewis
   - C. S. Lewis
   - Lewis
+  - Lewis,C.S
+has_id_wikidata: Q9204
 influenced_by:
-  - "[[_Standards/WikiData/WD~John_Milton,79759]]"
-  - "[[_Standards/WikiData/WD~William_Morris,182589]]"
-  - "[[_Standards/WikiData/WD~G._K._Chesterton,183167]]"
-  - "[[_Standards/WikiData/WD~Beatrix_Potter,214565]]"
-  - "[[_Standards/WikiData/WD~Joseph_Butler,218322]]"
-  - "[[_Standards/WikiData/WD~Edith_Nesbit,231708]]"
-  - "[[_Standards/WikiData/WD~H._Rider_Haggard,237196]]"
-  - "[[_Standards/WikiData/WD~George_MacDonald,368519]]"
-  - "[[_Standards/WikiData/WD~Evelyn_Underhill,454734]]"
-  - "[[_Standards/WikiData/WD~Edward_Plunkett,_18th_Baron_of_Dunsany,458658]]"
-  - "[[_Standards/WikiData/WD~Thomas_Traherne,2044035]]"
-  - "[[_Standards/WikiData/WD~Plato,859]]"
-  - "[[_Standards/WikiData/WD~Aristotle,868]]"
-  - "[[_Standards/WikiData/WD~J._R._R._Tolkien,892]]"
-  - "[[_Standards/WikiData/WD~Dante_Alighieri,1067]]"
-  - "[[_Standards/WikiData/WD~Geoffrey_Chaucer,5683]]"
-  - "[[_Standards/WikiData/WD~Arthur_Balfour,19008]]"
-  - "[[_Standards/WikiData/WD~William_Butler_Yeats,40213]]"
-  - "[[_Standards/WikiData/WD~William_Blake,41513]]"
-  - "[[_Standards/WikiData/WD~H._G._Wells,42511]]"
+  - '[[_Standards/WikiData/WD~John_Milton,79759]]'
+  - '[[_Standards/WikiData/WD~William_Morris,182589]]'
+  - '[[_Standards/WikiData/WD~G._K._Chesterton,183167]]'
+  - '[[_Standards/WikiData/WD~Beatrix_Potter,214565]]'
+  - '[[_Standards/WikiData/WD~Joseph_Butler,218322]]'
+  - '[[_Standards/WikiData/WD~Edith_Nesbit,231708]]'
+  - '[[_Standards/WikiData/WD~H._Rider_Haggard,237196]]'
+  - '[[_Standards/WikiData/WD~George_MacDonald,368519]]'
+  - '[[_Standards/WikiData/WD~Evelyn_Underhill,454734]]'
+  - '[[_Standards/WikiData/WD~Edward_Plunkett,_18th_Baron_of_Dunsany,458658]]'
+  - '[[_Standards/WikiData/WD~Thomas_Traherne,2044035]]'
+  - '[[_Standards/WikiData/WD~Plato,859]]'
+  - '[[_Standards/WikiData/WD~Aristotle,868]]'
+  - '[[_Standards/WikiData/WD~J._R._R._Tolkien,892]]'
+  - '[[_Standards/WikiData/WD~Dante_Alighieri,1067]]'
+  - '[[_Standards/WikiData/WD~Geoffrey_Chaucer,5683]]'
+  - '[[_Standards/WikiData/WD~Arthur_Balfour,19008]]'
+  - '[[_Standards/WikiData/WD~William_Butler_Yeats,40213]]'
+  - '[[_Standards/WikiData/WD~William_Blake,41513]]'
+  - '[[_Standards/WikiData/WD~H._G._Wells,42511]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_College,_Oxford,81087]]"
-  - "[[_Standards/WikiData/WD~Malvern_College,1536562]]"
-  - "[[_Standards/WikiData/WD~Campbell_College,5028025]]"
-  - "[[_Standards/WikiData/WD~Wynyard_School,8040273]]"
-employer: "[[_Standards/WikiData/WD~Magdalen_College,81162]]"
-movement: "[[_Standards/WikiData/WD~Inklings,81984]]"
+  - '[[_Standards/WikiData/WD~University_College,_Oxford,81087]]'
+  - '[[_Standards/WikiData/WD~Malvern_College,1536562]]'
+  - '[[_Standards/WikiData/WD~Campbell_College,5028025]]'
+  - '[[_Standards/WikiData/WD~Wynyard_School,8040273]]'
+employer: '[[_Standards/WikiData/WD~Magdalen_College,81162]]'
+movement: '[[_Standards/WikiData/WD~Inklings,81984]]'
 genre:
-  - "[[_Standards/WikiData/WD~fantasy,132311]]"
-  - "[[_Standards/WikiData/WD~apologetics,191776]]"
-  - "[[_Standards/WikiData/WD~mirabilia,3306693]]"
-  - "[[_Standards/WikiData/WD~science_fiction,24925]]"
+  - '[[_Standards/WikiData/WD~fantasy,132311]]'
+  - '[[_Standards/WikiData/WD~apologetics,191776]]'
+  - '[[_Standards/WikiData/WD~mirabilia,3306693]]'
+  - '[[_Standards/WikiData/WD~science_fiction,24925]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Prometheus_Award,142392]]"
-  - "[[_Standards/WikiData/WD~Hugo_Award_for_Best_Dramatic_Presentation,_Long_Form,1056240]]"
-  - "[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novel,115280877]]"
+  - '[[_Standards/WikiData/WD~Prometheus_Award,142392]]'
+  - '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Dramatic_Presentation,_Long_Form,1056240]]'
+  - '[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novel,115280877]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~literary_studies,208217]]"
-  - "[[_Standards/WikiData/WD~fantasy_literature,1057172]]"
-  - "[[_Standards/WikiData/WD~creative_and_professional_writing,113209507]]"
-  - "[[_Standards/WikiData/WD~poetry,482]]"
-  - "[[_Standards/WikiData/WD~radio,872]]"
-  - "[[_Standards/WikiData/WD~theology,34178]]"
-  - "[[_Standards/WikiData/WD~writing,37260]]"
+  - '[[_Standards/WikiData/WD~literary_studies,208217]]'
+  - '[[_Standards/WikiData/WD~fantasy_literature,1057172]]'
+  - '[[_Standards/WikiData/WD~creative_and_professional_writing,113209507]]'
+  - '[[_Standards/WikiData/WD~poetry,482]]'
+  - '[[_Standards/WikiData/WD~radio,872]]'
+  - '[[_Standards/WikiData/WD~theology,34178]]'
+  - '[[_Standards/WikiData/WD~writing,37260]]'
 child:
-  - "[[_Standards/WikiData/WD~Douglas_Gresham,354538]]"
-  - "[[_Standards/WikiData/WD~David_Gresham,117273537]]"
-family_name: "[[_Standards/WikiData/WD~Lewis,426463]]"
-spouse: "[[_Standards/WikiData/WD~Joy_Davidman,465594]]"
+  - '[[_Standards/WikiData/WD~Douglas_Gresham,354538]]'
+  - '[[_Standards/WikiData/WD~David_Gresham,117273537]]'
+family_name: '[[_Standards/WikiData/WD~Lewis,426463]]'
+spouse: '[[_Standards/WikiData/WD~Joy_Davidman,465594]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~The_Chronicles_of_Narnia,483412]]"
-  - "[[_Standards/WikiData/WD~Mere_Christianity,1078487]]"
-  - "[[_Standards/WikiData/WD~Till_We_Have_Faces,1280994]]"
-  - "[[_Standards/WikiData/WD~The_Space_Trilogy,2070438]]"
-  - "[[_Standards/WikiData/WD~The_Screwtape_Letters,2267287]]"
-  - "[[_Standards/WikiData/WD~Surprised_by_Joy,2367535]]"
-  - "[[_Standards/WikiData/WD~Fern_seed_and_elephants_and_other_essays_on_Christianity,90006679]]"
+  - '[[_Standards/WikiData/WD~The_Chronicles_of_Narnia,483412]]'
+  - '[[_Standards/WikiData/WD~Mere_Christianity,1078487]]'
+  - '[[_Standards/WikiData/WD~Till_We_Have_Faces,1280994]]'
+  - '[[_Standards/WikiData/WD~The_Space_Trilogy,2070438]]'
+  - '[[_Standards/WikiData/WD~The_Screwtape_Letters,2267287]]'
+  - '[[_Standards/WikiData/WD~Surprised_by_Joy,2367535]]'
+  - '[[_Standards/WikiData/WD~Fern_seed_and_elephants_and_other_essays_on_Christianity,90006679]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Carnegie_Medal,1043985]]"
-  - "[[_Standards/WikiData/WD~Sir_Israel_Gollancz_Prize,7527342]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_British_Academy,27988727]]"
-  - "[[_Standards/WikiData/WD~honorary_doctorate_at_the_Laval_University,51527076]]"
-  - "[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Lyon,126415845]]"
-  - "[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Dijon,126422634]]"
+  - '[[_Standards/WikiData/WD~Carnegie_Medal,1043985]]'
+  - '[[_Standards/WikiData/WD~Sir_Israel_Gollancz_Prize,7527342]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_British_Academy,27988727]]'
+  - '[[_Standards/WikiData/WD~honorary_doctorate_at_the_Laval_University,51527076]]'
+  - '[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Lyon,126415845]]'
+  - '[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Dijon,126422634]]'
 occupation:
-  - "[[_Standards/WikiData/WD~theologian,1234713]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-sibling: "[[_Standards/WikiData/WD~Warren_Lewis,3038321]]"
-military_branch: "[[_Standards/WikiData/WD~Somerset_Light_Infantry,3489806]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-patient_of: "[[_Standards/WikiData/WD~Robert_Havard,4250312]]"
-bibliography: "[[_Standards/WikiData/WD~C._S._Lewis_bibliography,5006838]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Anglicanism,6423963]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-place_of_burial: "[[_Standards/WikiData/WD~Holy_Trinity_Church,16246860]]"
+  - '[[_Standards/WikiData/WD~theologian,1234713]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+sibling: '[[_Standards/WikiData/WD~Warren_Lewis,3038321]]'
+military_branch: '[[_Standards/WikiData/WD~Somerset_Light_Infantry,3489806]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+patient_of: '[[_Standards/WikiData/WD~Robert_Havard,4250312]]'
+bibliography: '[[_Standards/WikiData/WD~C._S._Lewis_bibliography,5006838]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Anglicanism,6423963]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+place_of_burial: '[[_Standards/WikiData/WD~Holy_Trinity_Church,16246860]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Clive,16542399]]"
-  - "[[_Standards/WikiData/WD~Staples,97477568]]"
-student_of: "[[_Standards/WikiData/WD~William_T._Kirkpatrick,22018659]]"
+  - '[[_Standards/WikiData/WD~Clive,16542399]]'
+  - '[[_Standards/WikiData/WD~Staples,97477568]]'
+student_of: '[[_Standards/WikiData/WD~William_T._Kirkpatrick,22018659]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]"
-  - "[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]"
-  - "[[_Standards/WikiData/WD~ProDetLit,124821483]]"
-archives_at: "[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]"
-father: "[[_Standards/WikiData/WD~Albert_James_Lewis,76246410]]"
-mother: "[[_Standards/WikiData/WD~Florence_Augusta_Hamilton,76246409]]"
+  - '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
+  - '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
+  - '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
+archives_at: '[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]'
+father: '[[_Standards/WikiData/WD~Albert_James_Lewis,76246410]]'
+mother: '[[_Standards/WikiData/WD~Florence_Augusta_Hamilton,76246409]]'
 date_of_birth: 1898-11-29T00:00:00Z
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~Iedereen_Leest,101246526]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~British_English,7979]]"
-place_of_birth: "[[_Standards/WikiData/WD~Belfast,10686]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Iedereen_Leest,101246526]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~British_English,7979]]'
+place_of_birth: '[[_Standards/WikiData/WD~Belfast,10686]]'
 residence:
-  - "[[_Standards/WikiData/WD~Belfast,10686]]"
-  - "[[_Standards/WikiData/WD~Oxford,34217]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_locations: "[[_Standards/WikiData/WD~London,84]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-place_of_death: "[[_Standards/WikiData/WD~Oxford,34217]]"
+  - '[[_Standards/WikiData/WD~Belfast,10686]]'
+  - '[[_Standards/WikiData/WD~Oxford,34217]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_locations: '[[_Standards/WikiData/WD~London,84]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+place_of_death: '[[_Standards/WikiData/WD~Oxford,34217]]'
 Commons_category: C. S. Lewis
 Commons_Creator_page: C. S. Lewis
 Commons_gallery: C. S. Lewis
@@ -118,8 +119,8 @@ name_in_native_language: Clive Staples Lewis
 birth_name: Clive Staples Lewis
 ISNI:
   - 000000036863861X
-  - "0000000368638628"
-  - "0000000121235691"
+  - 0000000368638628
+  - 0000000121235691
 BHCL_UUID: 4c010101-2b00-4749-8348-4c8c620dee8e
 date_of_death: 1963-11-22T00:00:00Z
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/C.%20S.%20Lewis%27%20grave.jpg
@@ -131,7 +132,7 @@ Stack_Exchange_tag:
   - https://christianity.stackexchange.com/tags/cs-lewis
   - https://literature.stackexchange.com/tags/c-s-lewis
 Libris_URI: 1zcfg61k1x78f73
-P8189: "987007275587105171"
+P8189: 987007275587105171
 Europeana_entity: agent/base/59903
 subreddit: CSLewis
 ---

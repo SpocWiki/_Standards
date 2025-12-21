@@ -2,6 +2,7 @@
 aliases:
   - Luciano Pavarotti
   - Luciano_Pavarotti
+  - Pavarotti,Luciano
 has_id_wikidata: Q37615
 ---
 

@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Tokyo subway sarin attack"
+  - Tokyo subway sarin attack
+  - Tokyo_subway_sarin_attack
 ---
 
 # [[Tokyo_subway_sarin_attack]]

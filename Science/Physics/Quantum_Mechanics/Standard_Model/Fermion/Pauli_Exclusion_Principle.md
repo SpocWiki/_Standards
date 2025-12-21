@@ -1,12 +1,14 @@
 ---
 aliases:
-  - "Pauli exclusion principle (German: Pauli-Ausschlussprinzip"
+  - 'Pauli exclusion principle (German: Pauli-Ausschlussprinzip'
+  - Pauli_Exclusion_Principle
+  - Pauli Exclusion Principle
 has_id_wikidata: Q131594
-named_after: "[[_Standards/WikiData/WD~Wolfgang_Pauli,65989]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Wolfgang_Pauli,65989]]"
-subclass_of: "[[_Standards/WikiData/WD~principle_of_identity,4378893]]"
-instance_of: "[[_Standards/WikiData/WD~education_theory,5341232]]"
-facet_of: "[[_Standards/WikiData/WD~quantum_mechanics,944]]"
+named_after: '[[_Standards/WikiData/WD~Wolfgang_Pauli,65989]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Wolfgang_Pauli,65989]]'
+subclass_of: '[[_Standards/WikiData/WD~principle_of_identity,4378893]]'
+instance_of: '[[_Standards/WikiData/WD~education_theory,5341232]]'
+facet_of: '[[_Standards/WikiData/WD~quantum_mechanics,944]]'
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "PauliExclusionPrinciple"]
 ---
 

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~InteractAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/InteractAction
-- class/Thing/Action/InteractAction
-- is_an_/InteractAction
-- schema-org/InteractAction
+  - class/InteractAction
+  - class/Thing/Action/InteractAction
+  - is_an_/InteractAction
+  - schema-org/InteractAction
 tags:
-- class/FileClass
-- class/InteractAction
-- '#is_an_/InteractAction'
-- class/Thing/Action/InteractAction
+  - class/FileClass
+  - class/InteractAction
+  - '#is_an_/InteractAction'
+  - class/Thing/Action/InteractAction
 version: 2.0
 ---
 

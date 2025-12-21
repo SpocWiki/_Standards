@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Ones Who walk away from Omelas"
+  - Ones Who walk away from Omelas
+  - Ones_who_walk_away_from_Omelas
+  - Ones who walk away from Omelas
 ---
 
 #has_/creator :: [[Le_Guin,Ursula_K.]] 

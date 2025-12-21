@@ -4,20 +4,22 @@ aliases:
   - taxi_reservation
   - TaxiReservation
   - is_a_taxi_reservation
+  - Taxi_Reservation
+  - Taxi Reservation
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - taxi_reservation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_taxi_reservation Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

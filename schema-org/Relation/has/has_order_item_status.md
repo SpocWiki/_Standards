@@ -3,12 +3,13 @@ aliases:
   - has order-item-status
   - orderItemStatus
   - has_order_item_status
+  - has order item status
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - order
   - item
   - status
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_order_item_status
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

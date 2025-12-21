@@ -1,24 +1,25 @@
 ---
 aliases:
   - Pass
+  - Passport
 has_id_wikidata: Q43812
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Certificate_of_Citizenship,2324663]]"
-  - "[[_Standards/WikiData/WD~travel_document,2616578]]"
-  - "[[_Standards/WikiData/WD~Q48533333,48533333]]"
+  - '[[_Standards/WikiData/WD~Certificate_of_Citizenship,2324663]]'
+  - '[[_Standards/WikiData/WD~travel_document,2616578]]'
+  - '[[_Standards/WikiData/WD~Q48533333,48533333]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~travel_document,2616578]]"
-  - "[[_Standards/WikiData/WD~photo_identification,120484254]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Passports,7663406]]"
-Nomenclature_for_Museum_Cataloging: "13680"
-OmegaWiki_Defined_Meaning: "349972"
-U_S_National_Archives_Identifier: "10642242"
+  - '[[_Standards/WikiData/WD~travel_document,2616578]]'
+  - '[[_Standards/WikiData/WD~photo_identification,120484254]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Passports,7663406]]'
+Nomenclature_for_Museum_Cataloging: 13680
+OmegaWiki_Defined_Meaning: 349972
+U_S_National_Archives_Identifier: 10642242
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Greek%20Passport.svg
 Commons_category: Passports
 pronunciation_audio:
@@ -26,7 +27,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Pasaporte%20%28spa%29-Haylli.wav
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Passport.jpg
 Stack_Exchange_tag: https://travel.stackexchange.com/tags/passports
-UNSPSC_Code: "55121803"
+UNSPSC_Code: 55121803
 Commons_gallery: Common-design passport groups
 OpenStreetMap_tag: diplomatic:services:passport=yes
 ---

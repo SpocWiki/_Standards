@@ -9,29 +9,30 @@ aliases:
   - Nordeuropæiske Lavland
   - Noord-Europese Laagvlakte
   - Plaine d'Europe du Nord
+  - North_European_Plain
 has_id_wikidata: Q560549
 has_part_s_:
-  - "[[_Standards/WikiData/WD~North_German_Plain,166004]]"
-  - "[[_Standards/WikiData/WD~Flanders_Plaine,3390964]]"
-  - "[[_Standards/WikiData/WD~Central_Polish_Lowlands,11792486]]"
-  - "[[_Standards/WikiData/WD~Baltic_southern_coast,11819931]]"
-  - "[[_Standards/WikiData/WD~Q11821196,11821196]]"
-  - "[[_Standards/WikiData/WD~Southern_North_Sea_coast,12051561]]"
-  - "[[_Standards/WikiData/WD~Jutland,25389]]"
+  - '[[_Standards/WikiData/WD~North_German_Plain,166004]]'
+  - '[[_Standards/WikiData/WD~Flanders_Plaine,3390964]]'
+  - '[[_Standards/WikiData/WD~Central_Polish_Lowlands,11792486]]'
+  - '[[_Standards/WikiData/WD~Baltic_southern_coast,11819931]]'
+  - '[[_Standards/WikiData/WD~Q11821196,11821196]]'
+  - '[[_Standards/WikiData/WD~Southern_North_Sea_coast,12051561]]'
+  - '[[_Standards/WikiData/WD~Jutland,25389]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~lowland,193071]]"
-  - "[[_Standards/WikiData/WD~physiographic_province,7189710]]"
-part_of: "[[_Standards/WikiData/WD~European_Plain,877091]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - '[[_Standards/WikiData/WD~lowland,193071]]'
+  - '[[_Standards/WikiData/WD~physiographic_province,7189710]]'
+part_of: '[[_Standards/WikiData/WD~European_Plain,877091]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 coordinate_location: Point(14.0 54.0)
 country:
-  - "[[_Standards/WikiData/WD~Belgium,31]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
-  - "[[_Standards/WikiData/WD~Netherlands,55]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Czech_Republic,213]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+  - '[[_Standards/WikiData/WD~Belgium,31]]'
+  - '[[_Standards/WikiData/WD~Denmark,35]]'
+  - '[[_Standards/WikiData/WD~Poland,36]]'
+  - '[[_Standards/WikiData/WD~Netherlands,55]]'
+  - '[[_Standards/WikiData/WD~Germany,183]]'
+  - '[[_Standards/WikiData/WD~Czech_Republic,213]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20landforms%20-%20North%20European%20Plain.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20landforms%20-%20North%20European%20Plain.svg
 Commons_category: North European Plain

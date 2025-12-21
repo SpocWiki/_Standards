@@ -1,9 +1,11 @@
 ---
-different_from:
-- '[[_Standards/WikiData/WD~age_of_the_Earth,935310]]'
-- '[[_Standards/WikiData/WD~age,100343219]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
+aliases:
+  - geo~Ages
 has_id_wikidata: Q568683
+different_from:
+  - '[[_Standards/WikiData/WD~age_of_the_Earth,935310]]'
+  - '[[_Standards/WikiData/WD~age,100343219]]'
+  - '[[_Standards/WikiData/WD~stage,1123245]]'
 has_part_s_: '[[_Standards/WikiData/WD~polarity_chron,3290178]]'
 part_of: '[[_Standards/WikiData/WD~epoch,754897]]'
 standards_body: '[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104]]'

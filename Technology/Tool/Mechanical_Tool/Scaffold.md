@@ -1,16 +1,17 @@
 ---
 aliases:
   - Gerüst
+  - Scaffold
 has_id_wikidata: Q233320
-location: "[[_Standards/WikiData/WD~construction_site,360418]]"
-has_contributing_factor: "[[_Standards/WikiData/WD~construction,385378]]"
+location: '[[_Standards/WikiData/WD~construction_site,360418]]'
+has_contributing_factor: '[[_Standards/WikiData/WD~construction,385378]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-used_by: "[[_Standards/WikiData/WD~construction_worker,811122]]"
-subclass_of: "[[_Standards/WikiData/WD~product,2424752]]"
-has_use: "[[_Standards/WikiData/WD~transport,7590]]"
-Nomenclature_for_Museum_Cataloging: "8698"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+used_by: '[[_Standards/WikiData/WD~construction_worker,811122]]'
+subclass_of: '[[_Standards/WikiData/WD~product,2424752]]'
+has_use: '[[_Standards/WikiData/WD~transport,7590]]'
+Nomenclature_for_Museum_Cataloging: 8698
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Capitol%20Dome%20Restoration%20-%20Early%20October%202014%20%2815275286649%29.jpg
 Commons_category: Scaffolding
 OpenStreetMap_tag: support=scaffold

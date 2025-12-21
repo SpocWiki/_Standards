@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Star-Class~G
 _Radius-sol: 1.2
 _Temperature: 5900
 _name: G

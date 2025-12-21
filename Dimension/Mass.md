@@ -2,7 +2,7 @@
 aliases:
   - Inertia
   - Mass
-  - 
+  - ""
 has_id_wikidata: Q11423
 subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
@@ -37,12 +37,12 @@ ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="htt
 Wikidata_property: mass
 has_effect: "[[_Standards/WikiData/WD~force,11402]]"
 invariant_under: "[[_Standards/WikiData/WD~chemical_reaction,36534]]"
-OmegaWiki_Defined_Meaning: "8357"
+OmegaWiki_Defined_Meaning: 8357
 quantity_symbol_string_:
   - M
   - m
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>m</mi></mstyle></mrow></math>
-Dewey_Decimal_Classification: "531.14"
+Dewey_Decimal_Classification: 531.14
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2kg%20Gewicht%20freigeschnitten.jpg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/mass
 equivalent_class: https://schema.org/Mass

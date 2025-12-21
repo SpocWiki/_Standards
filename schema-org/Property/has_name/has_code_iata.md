@@ -4,22 +4,23 @@ aliases:
   - code_iata
   - iataCode
   - has_code_iata
+  - has code iata
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - iata
   - code
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_code_iata
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

@@ -1,20 +1,22 @@
 ---
 aliases:
   - electrical network
+  - Electrical_Network
+  - Electrical Network
 has_id_wikidata: Q132629
 has_part_s_:
-  - "[[_Standards/WikiData/WD~electrical_conductor,124291]]"
-  - "[[_Standards/WikiData/WD~electrical_element,210729]]"
-  - "[[_Standards/WikiData/WD~electrical_load,931447]]"
-depicted_by: "[[_Standards/WikiData/WD~circuit_diagram,1045991]]"
+  - '[[_Standards/WikiData/WD~electrical_conductor,124291]]'
+  - '[[_Standards/WikiData/WD~electrical_element,210729]]'
+  - '[[_Standards/WikiData/WD~electrical_load,931447]]'
+depicted_by: '[[_Standards/WikiData/WD~circuit_diagram,1045991]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~network,1900326]]"
-  - "[[_Standards/WikiData/WD~engineered_physical_system,120926552]]"
-studied_by: "[[_Standards/WikiData/WD~circuit_theory,2089905]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~current_circuit,2327095]]"
-has_characteristic: "[[_Standards/WikiData/WD~electronic_circuit_topology,7825049]]"
-part_of: "[[_Standards/WikiData/WD~electrical_diagram,21652122]]"
-different_from: "[[_Standards/WikiData/WD~electronic_system,65280844]]"
+  - '[[_Standards/WikiData/WD~network,1900326]]'
+  - '[[_Standards/WikiData/WD~engineered_physical_system,120926552]]'
+studied_by: '[[_Standards/WikiData/WD~circuit_theory,2089905]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~current_circuit,2327095]]'
+has_characteristic: '[[_Standards/WikiData/WD~electronic_circuit_topology,7825049]]'
+part_of: '[[_Standards/WikiData/WD~electrical_diagram,21652122]]'
+different_from: '[[_Standards/WikiData/WD~electronic_system,65280844]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ohm%27s%20Law%20with%20Voltage%20source%20TeX.svg
 Commons_category: Electrical circuits
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/ELEKTRICHESKIE_TSEPI.html

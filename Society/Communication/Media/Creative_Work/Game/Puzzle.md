@@ -1,18 +1,19 @@
 ---
 aliases:
   - Puzzel
+  - Puzzle
 has_id_wikidata: Q13698
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~product_category,63981612]]"
-  - "[[_Standards/WikiData/WD~game_genre,107551175]]"
-part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-subclass_of: "[[_Standards/WikiData/WD~game,11410]]"
-IAB_code: "269"
-Nomenclature_for_Museum_Cataloging: "14785"
+  - '[[_Standards/WikiData/WD~product_category,63981612]]'
+  - '[[_Standards/WikiData/WD~game_genre,107551175]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+subclass_of: '[[_Standards/WikiData/WD~game,11410]]'
+IAB_code: 269
+Nomenclature_for_Museum_Cataloging: 14785
 Commons_category: Puzzles
 Commons_gallery: Puzzle
-OmegaWiki_Defined_Meaning: "370805"
+OmegaWiki_Defined_Meaning: 370805
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Set%20of%20various%20puzzles.jpg
 Stack_Exchange_site_URL: https://puzzling.stackexchange.com
 ---

@@ -5,6 +5,7 @@ aliases:
   - منغوليا
   - 蒙古
   - Монголия
+has_id_wikidata: Q711
 anthem: "[[_Standards/WikiData/WD~National_anthem_of_Mongolia,271864]]"
 area: 1564116
 basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_system,166747]]"
@@ -166,7 +167,7 @@ emergency_phone_number:
   - "[[_Standards/WikiData/WD~103,25648811]]"
   - "[[_Standards/WikiData/WD~105,25648856]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Mongolia,16639003]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 1626335
   - 1658241
@@ -183,7 +184,6 @@ GS1_country_code: 865
 Happy_Planet_Index_score: 24.5
 hashtag: Mongolia
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-has_id_wikidata: Q711
 has_time_started: 1992-02-12
 head_of_government: "[[_Standards/WikiData/WD~Oyunerdene_Luvsannamsrai,24248226]]"
 head_of_state: "[[_Standards/WikiData/WD~Khurelsukh_Ukhnaa,27058418]]"
@@ -214,7 +214,7 @@ ISO_3166_1_alpha_3_code: MNG
 ISO_3166_1_numeric_code: 496
 isReadOnly: false
 ITU_letter_code: MNG
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/MONGOLIYA.html
 Languages:
   - mn
@@ -229,13 +229,13 @@ language_used:
   - "[[_Standards/WikiData/WD~Kazakh,9252]]"
   - "[[_Standards/WikiData/WD~Uyghur,13263]]"
   - "[[_Standards/WikiData/WD~Tuvan,34119]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~State_Great_Khural,1544714]]"
 Libris_URI: 20dgf94l53xh9bf
 licence_plate_code: MGL
 license: CC BY-SA 4.0
 life_expectancy: 73
-linkTitle:
+linkTitle: ""
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~East_Asia,27231]]"
 located_in_time_zone:
   - "[[_Standards/WikiData/WD~Asia_Hovd,4806283]]"
@@ -309,7 +309,7 @@ PM20_geo_code: B99
 population: 3409939
 public_holiday: "[[_Standards/WikiData/WD~Tsagaan_Sar,2340640]]"
 publish: true
-publishDate:
+publishDate: ""
 replaces: "[[_Standards/WikiData/WD~Chinese_Empire,12060881]]"
 rural_population:
   - 1045010

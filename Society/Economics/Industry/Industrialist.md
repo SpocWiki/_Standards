@@ -2,18 +2,19 @@
 aliases:
   - business magnate
   - tycoon
+  - Industrialist
 has_id_wikidata: Q6606110
 subclass_of:
-  - "[[_Standards/WikiData/WD~entrepreneur,131524]]"
-  - "[[_Standards/WikiData/WD~businessperson,43845]]"
+  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+  - '[[_Standards/WikiData/WD~businessperson,43845]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~business_magnate,911554]]"
-  - "[[_Standards/WikiData/WD~fabricator,42855995]]"
+  - '[[_Standards/WikiData/WD~business_magnate,911554]]'
+  - '[[_Standards/WikiData/WD~fabricator,42855995]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~occupation,12737077]]"
-  - "[[_Standards/WikiData/WD~profession,28640]]"
-different_from: "[[_Standards/WikiData/WD~Gyáros,131314829]]"
-field_of_this_occupation: "[[_Standards/WikiData/WD~industrial_sector,8148]]"
+  - '[[_Standards/WikiData/WD~occupation,12737077]]'
+  - '[[_Standards/WikiData/WD~profession,28640]]'
+different_from: '[[_Standards/WikiData/WD~Gyáros,131314829]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~industrial_sector,8148]]'
 male_form_of_label:
   - industriale
   - industriel

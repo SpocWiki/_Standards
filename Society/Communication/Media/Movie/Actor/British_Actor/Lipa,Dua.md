@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Dua Lipa"
+  - Dua Lipa
+  - Lipa,Dua
 ---
 
 # [[Lipa,Dua]] 

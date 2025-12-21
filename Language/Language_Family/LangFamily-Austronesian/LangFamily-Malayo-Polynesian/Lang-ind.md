@@ -2,58 +2,59 @@
 aliases:
   - Indonesian
   - Bahasa Indonesia
+  - Lang-ind
 has_id_wikidata: Q9240
 Glottolog_code: stin1234
 GOST_7_75_97_code: инд 210
 instance_of:
-  - "[[_Standards/WikiData/WD~macrolanguage,152559]]"
-  - "[[_Standards/WikiData/WD~standard_language,399495]]"
-  - "[[_Standards/WikiData/WD~literary_language,1097949]]"
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~human_language,20162172]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
-  - "[[_Standards/WikiData/WD~language,34770]]"
+  - '[[_Standards/WikiData/WD~macrolanguage,152559]]'
+  - '[[_Standards/WikiData/WD~standard_language,399495]]'
+  - '[[_Standards/WikiData/WD~literary_language,1097949]]'
+  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
+  - '[[_Standards/WikiData/WD~human_language,20162172]]'
+  - '[[_Standards/WikiData/WD~natural_language,33742]]'
+  - '[[_Standards/WikiData/WD~language,34770]]'
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
-  - "[[_Standards/WikiData/WD~subject_verb_object,651641]]"
-  - "[[_Standards/WikiData/WD~zero_marking_language,17141330]]"
-  - "[[_Standards/WikiData/WD~noun_adjective,74835210]]"
-  - "[[_Standards/WikiData/WD~synthetic_language,48612]]"
+  - '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
+  - '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
+  - '[[_Standards/WikiData/WD~zero_marking_language,17141330]]'
+  - '[[_Standards/WikiData/WD~noun_adjective,74835210]]'
+  - '[[_Standards/WikiData/WD~synthetic_language,48612]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Hokkien,1624231]]"
-  - "[[_Standards/WikiData/WD~Old_Sundanese,56197074]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Portuguese,5146]]"
-  - "[[_Standards/WikiData/WD~Japanese,5287]]"
-  - "[[_Standards/WikiData/WD~Dutch,7411]]"
-  - "[[_Standards/WikiData/WD~Persian,9168]]"
-  - "[[_Standards/WikiData/WD~Sanskrit,11059]]"
-  - "[[_Standards/WikiData/WD~Minangkabau,13324]]"
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
-  - "[[_Standards/WikiData/WD~Hakka_Chinese,33375]]"
-  - "[[_Standards/WikiData/WD~Javanese,33549]]"
-  - "[[_Standards/WikiData/WD~Sundanese,34002]]"
-  - "[[_Standards/WikiData/WD~Teochew,36759]]"
-  - "[[_Standards/WikiData/WD~Old_Javanese,49340]]"
-  - "[[_Standards/WikiData/WD~Kawi,49341]]"
-studied_by: "[[_Standards/WikiData/WD~indonesiology,2623652]]"
+  - '[[_Standards/WikiData/WD~Hokkien,1624231]]'
+  - '[[_Standards/WikiData/WD~Old_Sundanese,56197074]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Portuguese,5146]]'
+  - '[[_Standards/WikiData/WD~Japanese,5287]]'
+  - '[[_Standards/WikiData/WD~Dutch,7411]]'
+  - '[[_Standards/WikiData/WD~Persian,9168]]'
+  - '[[_Standards/WikiData/WD~Sanskrit,11059]]'
+  - '[[_Standards/WikiData/WD~Minangkabau,13324]]'
+  - '[[_Standards/WikiData/WD~Arabic,13955]]'
+  - '[[_Standards/WikiData/WD~Hakka_Chinese,33375]]'
+  - '[[_Standards/WikiData/WD~Javanese,33549]]'
+  - '[[_Standards/WikiData/WD~Sundanese,34002]]'
+  - '[[_Standards/WikiData/WD~Teochew,36759]]'
+  - '[[_Standards/WikiData/WD~Old_Javanese,49340]]'
+  - '[[_Standards/WikiData/WD~Kawi,49341]]'
+studied_by: '[[_Standards/WikiData/WD~indonesiology,2623652]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Indonesian_slang,4200642]]"
-  - "[[_Standards/WikiData/WD~Colloquial_Indonesian,109267354]]"
-  - "[[_Standards/WikiData/WD~Standard_Indonesian,110620923]]"
-  - "[[_Standards/WikiData/WD~Colloquial_Jakarta_Indonesian,110621636]]"
-language_regulatory_body: "[[_Standards/WikiData/WD~Agency_for_Language_Development_and_Cultivation,4840587]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~1_National,29051546]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~Q131938994,131938994]]"
+  - '[[_Standards/WikiData/WD~Indonesian_slang,4200642]]'
+  - '[[_Standards/WikiData/WD~Colloquial_Indonesian,109267354]]'
+  - '[[_Standards/WikiData/WD~Standard_Indonesian,110620923]]'
+  - '[[_Standards/WikiData/WD~Colloquial_Jakarta_Indonesian,110621636]]'
+language_regulatory_body: '[[_Standards/WikiData/WD~Agency_for_Language_Development_and_Cultivation,4840587]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q131938994,131938994]]'
 coordinate_location: Point(106.8275 -6.175)
-writing_system: "[[_Standards/WikiData/WD~Latin_script,8229]]"
-subclass_of: "[[_Standards/WikiData/WD~Malay,9237]]"
-named_after: "[[_Standards/WikiData/WD~Indonesia,252]]"
-country: "[[_Standards/WikiData/WD~Indonesia,252]]"
-indigenous_to: "[[_Standards/WikiData/WD~Indonesia,252]]"
-IAB_code: "1096"
-OmegaWiki_Defined_Meaning: "6203"
-ABS_ASCL_2011_code: "6504"
+writing_system: '[[_Standards/WikiData/WD~Latin_script,8229]]'
+subclass_of: '[[_Standards/WikiData/WD~Malay,9237]]'
+named_after: '[[_Standards/WikiData/WD~Indonesia,252]]'
+country: '[[_Standards/WikiData/WD~Indonesia,252]]'
+indigenous_to: '[[_Standards/WikiData/WD~Indonesia,252]]'
+IAB_code: 1096
+OmegaWiki_Defined_Meaning: 6203
+ABS_ASCL_2011_code: 6504
 ISO_639_1_code: id
 POSIX_locale_identifier: id
 Wikimedia_language_code: id

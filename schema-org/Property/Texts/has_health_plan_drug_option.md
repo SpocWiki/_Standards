@@ -4,12 +4,14 @@ aliases:
   - health_plan_drug_option
   - healthPlanDrugOption
   - has_text_of_health_plan_drug_option
+  - has_health_plan_drug_option
+  - has health plan drug option
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +19,11 @@ keywords:
   - plan
   - drug
   - option
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_health_plan_drug_option
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

@@ -1,7 +1,9 @@
 ---
 aliases:
   - Berlin Conference
-has_id_wikidata:
+  - 1884-Berlin_Conference
+  - 1884-Berlin Conference
+has_id_wikidata: ''
 ---
 
 # [[1884-Berlin_Conference]] 

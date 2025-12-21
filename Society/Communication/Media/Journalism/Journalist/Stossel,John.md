@@ -1,31 +1,32 @@
 ---
 aliases:
   - John_Stossel
+  - Stossel,John
 has_id_wikidata: Q579324
 employer:
-  - "[[_Standards/WikiData/WD~Fox_Broadcasting_Company,166419]]"
-  - "[[_Standards/WikiData/WD~American_Broadcasting_Company,169889]]"
-medical_condition: "[[_Standards/WikiData/WD~stuttering,186676]]"
-place_of_birth: "[[_Standards/WikiData/WD~Chicago_Heights,578277]]"
+  - '[[_Standards/WikiData/WD~Fox_Broadcasting_Company,166419]]'
+  - '[[_Standards/WikiData/WD~American_Broadcasting_Company,169889]]'
+medical_condition: '[[_Standards/WikiData/WD~stuttering,186676]]'
+place_of_birth: '[[_Standards/WikiData/WD~Chicago_Heights,578277]]'
 award_received:
-  - "[[_Standards/WikiData/WD~George_Polk_Award,845188]]"
-  - "[[_Standards/WikiData/WD~News_and_Documentary_Emmy_Awards,11247971]]"
+  - '[[_Standards/WikiData/WD~George_Polk_Award,845188]]'
+  - '[[_Standards/WikiData/WD~News_and_Documentary_Emmy_Awards,11247971]]'
 occupation:
-  - "[[_Standards/WikiData/WD~television_presenter,947873]]"
-  - "[[_Standards/WikiData/WD~journalist,1930187]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-field_of_work: "[[_Standards/WikiData/WD~journalist,1930187]]"
-given_name: "[[_Standards/WikiData/WD~John,4925477]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~television_presenter,947873]]'
+  - '[[_Standards/WikiData/WD~journalist,1930187]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+field_of_work: '[[_Standards/WikiData/WD~journalist,1930187]]'
+given_name: '[[_Standards/WikiData/WD~John,4925477]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~New_Trier_High_School,7012169]]"
-  - "[[_Standards/WikiData/WD~Princeton_University,21578]]"
-family_name: "[[_Standards/WikiData/WD~Stossel,18821525]]"
-sibling: "[[_Standards/WikiData/WD~Thomas_P._Stossel,22096468]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~New_Trier_High_School,7012169]]'
+  - '[[_Standards/WikiData/WD~Princeton_University,21578]]'
+family_name: '[[_Standards/WikiData/WD~Stossel,18821525]]'
+sibling: '[[_Standards/WikiData/WD~Thomas_P._Stossel,22096468]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 social_media_followers:
   - 1030000
   - 1029978
@@ -36,7 +37,7 @@ date_of_birth:
   - 1947-03-04T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Stossel%20by%20Gage%20Skidmore%202.jpg
 official_website: https://johnstossel.com
-ISNI: "0000000021274976"
+ISNI: 0000000021274976
 Plex_person_key: 5d776885594b2b001e68e7b0
 Parler_username_archived_: JohnStossel
 Facebook_username: JohnStossel

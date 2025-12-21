@@ -4,21 +4,22 @@ aliases:
   - getting_tested_info
   - gettingTestedInfo
   - has_url_for_getting_tested_info
+  - has url for getting tested info
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - getting_tested_info
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_getting_tested_info
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

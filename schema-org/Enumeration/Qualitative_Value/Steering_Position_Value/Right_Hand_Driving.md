@@ -4,21 +4,23 @@ aliases:
   - right_hand_driving
   - RightHandDriving
   - is_a_right_hand_driving
+  - Right_Hand_Driving
+  - Right Hand Driving
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: SteeringPositionValue
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - right_hand_driving
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_right_hand_driving Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

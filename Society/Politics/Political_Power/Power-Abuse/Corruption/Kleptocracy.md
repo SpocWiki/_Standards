@@ -1,15 +1,16 @@
 ---
 aliases:
   - thievocracy
+  - Kleptocracy
 has_id_wikidata: Q191244
 subclass_of:
-  - "[[_Standards/WikiData/WD~oligarchy,79751]]"
-  - "[[_Standards/WikiData/WD~state_system,20076236]]"
+  - '[[_Standards/WikiData/WD~oligarchy,79751]]'
+  - '[[_Standards/WikiData/WD~state_system,20076236]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~form_of_state,183039]]"
-  - "[[_Standards/WikiData/WD~form_of_government,1307214]]"
-described_by_source: "[[_Standards/WikiData/WD~Siyasî_Düşünce_Sözlüğü,122958404]]"
-OmegaWiki_Defined_Meaning: "1493200"
+  - '[[_Standards/WikiData/WD~form_of_state,183039]]'
+  - '[[_Standards/WikiData/WD~form_of_government,1307214]]'
+described_by_source: '[[_Standards/WikiData/WD~Siyasî_Düşünce_Sözlüğü,122958404]]'
+OmegaWiki_Defined_Meaning: 1493200
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Corrupt-Legislation-Vedder-Highsmith-detail-1.jpeg
 ---
 

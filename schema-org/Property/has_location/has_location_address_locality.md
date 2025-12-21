@@ -4,22 +4,23 @@ aliases:
   - address_locality
   - addressLocality
   - has_location_address_locality
+  - has location address locality
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - address
   - locality
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_address_locality
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

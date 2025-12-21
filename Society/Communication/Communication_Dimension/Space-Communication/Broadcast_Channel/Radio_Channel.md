@@ -5,21 +5,23 @@ aliases:
   - RadioChannel
   - is_a_radio_channel
   - Radio station
+  - Radio_Channel
+  - Radio Channel
 has_id_wikidata: Q1474440
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - radio_channel
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_radio_channel Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

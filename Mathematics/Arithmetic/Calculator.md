@@ -1,6 +1,7 @@
 ---
 aliases:
   - Taschenrechner
+  - Calculator
 has_id_wikidata: Q31087
 ---
 

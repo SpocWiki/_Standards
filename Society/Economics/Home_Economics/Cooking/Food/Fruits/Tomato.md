@@ -1,6 +1,18 @@
 ---
 aliases:
   - Tomate
+  - Tomato
+  - томат
+  - помидор
+  - トマト
+  - 西红柿
+  - tomaatti
+  - 番茄
+  - tomatera
+  - lilek rajče
+  - garden tomato
+  - Tomaat
+  - 櫻桃小番茄
 has_id_wikidata: Q23501
 has_use:
   - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
@@ -60,15 +72,15 @@ taxon_common_name:
   - 櫻桃小番茄
 short_name: помідор
 taxon_author_citation: L.
-OmegaWiki_Defined_Meaning: "423688"
-ITIS_TSN: "521671"
+OmegaWiki_Defined_Meaning: 423688
+ITIS_TSN: 521671
 Unicode_character: 🍅
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%9F%E0%A6%AE%E0%A7%87%E0%A6%9F%E0%A7%8B.wav
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=101442
 sequenced_genome_URL: https://plants.ensembl.org/Solanum_lycopersicum
 UNII: 0243Q4990L
-Common_Procurement_Vocabulary_code: "03221240"
-Amazon_com_browse_node: "6465022011"
+Common_Procurement_Vocabulary_code: 3221240
+Amazon_com_browse_node: 6465022011
 GenBank_assembly_accession_number:
   - GCA_002954035.1
   - GCA_025759855.1
@@ -90,7 +102,7 @@ Baidu_Tieba_name: 番茄
 external_data_available_at_URL: https://www.gbif.org/dataset/31dc1507-a6e1-4233-a8df-c7a78596a7e4
 ---
 
-# [[Tomato]] 
+# [[Tomato]] 🍅 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tomato,23501|WD~Tomato,23501]] 
 

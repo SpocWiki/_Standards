@@ -4,21 +4,22 @@ aliases:
   - unsaturated-fat-content
   - unsaturatedFatContent
   - has_value_for_unsaturated_fat_in_gram
+  - has value for unsaturated fat in gram
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - unsaturated-fat-content
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_unsaturated-fat-content
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

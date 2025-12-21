@@ -1,29 +1,30 @@
 ---
 aliases:
   - Bürokratie
+  - Bureaucracy
 has_id_wikidata: Q72468
-opposite_of: "[[_Standards/WikiData/WD~adhocracy,356648]]"
-practiced_by: "[[_Standards/WikiData/WD~bureaucrat,572700]]"
+opposite_of: '[[_Standards/WikiData/WD~adhocracy,356648]]'
+practiced_by: '[[_Standards/WikiData/WD~bureaucrat,572700]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
-has_effect: "[[_Standards/WikiData/WD~iron_law_of_oligarchy,1299608]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+has_effect: '[[_Standards/WikiData/WD~iron_law_of_oligarchy,1299608]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~tripartite_classification_of_authority,3565078]]"
-  - "[[_Standards/WikiData/WD~public_administration,31728]]"
+  - '[[_Standards/WikiData/WD~tripartite_classification_of_authority,3565078]]'
+  - '[[_Standards/WikiData/WD~public_administration,31728]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-B%C3%BCrokratie.ogg
-instance_of: "[[_Standards/WikiData/WD~political_system,28108]]"
-OmegaWiki_Defined_Meaning: "432866"
-U_S_National_Archives_Identifier: "10636611"
+instance_of: '[[_Standards/WikiData/WD~political_system,28108]]'
+OmegaWiki_Defined_Meaning: 432866
+U_S_National_Archives_Identifier: 10636611
 Commons_category: Bureaucracy
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E8%A1%8C%E6%94%BF%E5%AE%A1%E6%89%B9%E5%B1%80%E5%B0%81%E5%AD%98%E7%9A%84109%E6%9E%9A%E5%85%AC%E7%AB%A0%2020191005%20122243.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Office%201719.jpg
-P8189: "987007292686905171"
+P8189: 987007292686905171
 Wolfram_Language_entity_code:
   - Entity["Concept", "Bureaucracy::v5x6q"]
   - Entity["Concept", "Bureaucracy::x2868"]

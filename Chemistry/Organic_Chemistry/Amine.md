@@ -1,45 +1,47 @@
 ---
+aliases:
+  - Amine
 has_id_wikidata: Q167198
 different_from:
-  - "[[_Standards/WikiData/WD~amides,188777]]"
-  - "[[_Standards/WikiData/WD~carboxamides,355679]]"
-  - "[[_Standards/WikiData/WD~anime,1107]]"
-  - "[[_Standards/WikiData/WD~ammonia,4087]]"
+  - '[[_Standards/WikiData/WD~amides,188777]]'
+  - '[[_Standards/WikiData/WD~carboxamides,355679]]'
+  - '[[_Standards/WikiData/WD~anime,1107]]'
+  - '[[_Standards/WikiData/WD~ammonia,4087]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~amino_group,1210630]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~amino_group,1210630]]'
 part_of:
-  - "[[_Standards/WikiData/WD~amine_binding,14904822]]"
-  - "[[_Standards/WikiData/WD~response_to_amine,14906661]]"
-  - "[[_Standards/WikiData/WD~amine_transmembrane_transporter_activity,14916230]]"
-  - "[[_Standards/WikiData/WD~aminergic_neurotransmitter_loading_into_synaptic_vesicle,14916236]]"
-  - "[[_Standards/WikiData/WD~amine_metabolic_process,14916457]]"
-  - "[[_Standards/WikiData/WD~amine_transport,21106441]]"
-  - "[[_Standards/WikiData/WD~cellular_response_to_amine_stimulus,21108120]]"
-  - "[[_Standards/WikiData/WD~G_protein_coupled_amine_receptor_activity,21110865]]"
-  - "[[_Standards/WikiData/WD~amine_biosynthetic_process,21120124]]"
-  - "[[_Standards/WikiData/WD~amine_catabolic_process,22276004]]"
-  - "[[_Standards/WikiData/WD~chromaffin_granule_amine_transport,22290736]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
-subclass_of: "[[_Standards/WikiData/WD~organonitrogen_compound,55739694]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~organic_amino_compound,72174340]]"
-conjugate_acid: "[[_Standards/WikiData/WD~ammonium_ion_derivative,74244141]]"
-OmegaWiki_Defined_Meaning: "157"
+  - '[[_Standards/WikiData/WD~amine_binding,14904822]]'
+  - '[[_Standards/WikiData/WD~response_to_amine,14906661]]'
+  - '[[_Standards/WikiData/WD~amine_transmembrane_transporter_activity,14916230]]'
+  - '[[_Standards/WikiData/WD~aminergic_neurotransmitter_loading_into_synaptic_vesicle,14916236]]'
+  - '[[_Standards/WikiData/WD~amine_metabolic_process,14916457]]'
+  - '[[_Standards/WikiData/WD~amine_transport,21106441]]'
+  - '[[_Standards/WikiData/WD~cellular_response_to_amine_stimulus,21108120]]'
+  - '[[_Standards/WikiData/WD~G_protein_coupled_amine_receptor_activity,21110865]]'
+  - '[[_Standards/WikiData/WD~amine_biosynthetic_process,21120124]]'
+  - '[[_Standards/WikiData/WD~amine_catabolic_process,22276004]]'
+  - '[[_Standards/WikiData/WD~chromaffin_granule_amine_transport,22290736]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+subclass_of: '[[_Standards/WikiData/WD~organonitrogen_compound,55739694]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~organic_amino_compound,72174340]]'
+conjugate_acid: '[[_Standards/WikiData/WD~ammonium_ion_derivative,74244141]]'
+OmegaWiki_Defined_Meaning: 157
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Amine-2D-general.png
-SMARTS_notation: "[NX3;H2,H1;!$(NC=O)]"
-P8189: "987007293903605171"
+SMARTS_notation: '[NX3;H2,H1;!$(NC=O)]'
+P8189: 987007293903605171
 Commons_category: Amines
 UMLS_CUI: C0002508
 MeSH_tree_code: D02.092
 Krugosvet_article: nauka_i_tehnika/himiya/AMINI.html
 Dewey_Decimal_Classification:
-  - "547.042"
-  - "661.894"
-  - "572.548"
+  - 547.042
+  - 661.894
+  - 572.548
 ---
 
 # [[Amine]] 

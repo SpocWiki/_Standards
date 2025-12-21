@@ -1,40 +1,42 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DoseSchedule
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
 fields:
-- id: NasP6Z
-  name: DoseUnit
-  options: {}
-  type: Input
-  path: ''
-- id: AxlH6O
-  name: DoseValue
-  options: {}
-  type: Number
-  path: ''
-- id: 4r2Kmx
-  name: Frequency
-  options: {}
-  type: Input
-  path: ''
-- id: DBgZgl
-  name: TargetPopulation
-  options: {}
-  type: Input
-  path: ''
+  - id: NasP6Z
+    name: DoseUnit
+    options: {}
+    type: Input
+    path: ''
+  - id: AxlH6O
+    name: DoseValue
+    options: {}
+    type: Number
+    path: ''
+  - id: 4r2Kmx
+    name: Frequency
+    options: {}
+    type: Input
+    path: ''
+  - id: DBgZgl
+    name: TargetPopulation
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DoseSchedule
-- class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule
-- is_a_/DoseSchedule
-- schema-org/DoseSchedule
+  - class/DoseSchedule
+  - class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule
+  - is_a_/DoseSchedule
+  - schema-org/DoseSchedule
 tags:
-- class/FileClass
-- class/DoseSchedule
-- is_a_/DoseSchedule
-- class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule
+  - class/FileClass
+  - class/DoseSchedule
+  - is_a_/DoseSchedule
+  - class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule
 version: 2.0
 ---
 

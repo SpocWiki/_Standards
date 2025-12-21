@@ -2,6 +2,8 @@
 aliases:
   - Jacquard
   - Joseph Marie Charles
+  - Jacquard,Joseph_Marie
+  - Jacquard,Joseph Marie
 has_id_wikidata: Q310833
 described_at_URL:
   - http://www.digiporta.net/index.php?id=376591882
@@ -9,38 +11,38 @@ described_at_URL:
   - http://www.digiporta.net/index.php?id=832262953
   - http://www.digiporta.net/index.php?id=603084493
 occupation:
-  - "[[_Standards/WikiData/WD~engineer,81096]]"
-  - "[[_Standards/WikiData/WD~inventor,205375]]"
-  - "[[_Standards/WikiData/WD~merchant,215536]]"
-  - "[[_Standards/WikiData/WD~weaver,437512]]"
+  - '[[_Standards/WikiData/WD~engineer,81096]]'
+  - '[[_Standards/WikiData/WD~inventor,205375]]'
+  - '[[_Standards/WikiData/WD~merchant,215536]]'
+  - '[[_Standards/WikiData/WD~weaver,437512]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~punched_card,183414]]"
-  - "[[_Standards/WikiData/WD~Jacquard_loom,1369967]]"
+  - '[[_Standards/WikiData/WD~punched_card,183414]]'
+  - '[[_Standards/WikiData/WD~Jacquard_loom,1369967]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-given_name: "[[_Standards/WikiData/WD~Joseph_Marie,3184339]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-award_received: "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
-family_name: "[[_Standards/WikiData/WD~Jacquard,56245436]]"
-place_of_burial: "[[_Standards/WikiData/WD~Cemetery_of_Oullins,83191805]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+given_name: '[[_Standards/WikiData/WD~Joseph_Marie,3184339]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+award_received: '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+family_name: '[[_Standards/WikiData/WD~Jacquard,56245436]]'
+place_of_burial: '[[_Standards/WikiData/WD~Cemetery_of_Oullins,83191805]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
 date_of_birth: 1752-07-07T00:00:00Z
 date_of_death: 1834-08-07T00:00:00Z
-place_of_birth: "[[_Standards/WikiData/WD~Lyon,456]]"
-place_of_death: "[[_Standards/WikiData/WD~Oullins,8358]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
+place_of_birth: '[[_Standards/WikiData/WD~Lyon,456]]'
+place_of_death: '[[_Standards/WikiData/WD~Oullins,8358]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 Commons_gallery: Joseph Marie Jacquard
 Commons_category: Joseph Marie Jacquard
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%C3%80%20la%20m%C3%A9moire%20de%20J.M.%20Jacquard%20-%20d%27apr%C3%A8s%20le%20tableau%20de%20C.%20Bonnefond%20%3B%20ex%C3%A9cut%C3%A9%20par%20Didier%20Petit%20et%20Cie.%20LCCN2002737214.tif
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Tombe%20de%20Joseph-Marie%20Jacquard%20-%20Cimeti%C3%A8re%20Oullins%2C%20Rhone%2C%20France.jpg
-ISNI: "0000000066756186"
+ISNI: 0000000066756186
 birth_name: Joseph Marie Charles Jacquard
 name_in_native_language: Joseph Marie Jacquard
 ---

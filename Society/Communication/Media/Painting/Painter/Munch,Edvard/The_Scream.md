@@ -3,27 +3,28 @@ aliases:
   - The_Scream
   - Skrik
   - Der Schrei der Natur
+  - The Scream
 has_id_wikidata: Q471379
 depicts:
-  - "[[_Standards/WikiData/WD~Oslofjord,667456]]"
-  - "[[_Standards/WikiData/WD~sky,527]]"
-  - "[[_Standards/WikiData/WD~man,8441]]"
+  - '[[_Standards/WikiData/WD~Oslofjord,667456]]'
+  - '[[_Standards/WikiData/WD~sky,527]]'
+  - '[[_Standards/WikiData/WD~man,8441]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~work_of_art,838948]]"
-  - "[[_Standards/WikiData/WD~group_of_paintings,18573970]]"
-collection: "[[_Standards/WikiData/WD~National_Museum_of_Art,_Architecture_and_Design,1132918]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~painting,3305213]]"
+  - '[[_Standards/WikiData/WD~work_of_art,838948]]'
+  - '[[_Standards/WikiData/WD~group_of_paintings,18573970]]'
+collection: '[[_Standards/WikiData/WD~National_Museum_of_Art,_Architecture_and_Design,1132918]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~painting,3305213]]'
 location:
-  - "[[_Standards/WikiData/WD~National_Gallery_of_Norway,3330707]]"
-  - "[[_Standards/WikiData/WD~California,99]]"
+  - '[[_Standards/WikiData/WD~National_Gallery_of_Norway,3330707]]'
+  - '[[_Standards/WikiData/WD~California,99]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~The_Scream,18891155]]"
-  - "[[_Standards/WikiData/WD~The_Scream,18891158]]"
-  - "[[_Standards/WikiData/WD~The_Scream,18891156]]"
-  - "[[_Standards/WikiData/WD~The_Scream,18891157]]"
+  - '[[_Standards/WikiData/WD~The_Scream,18891155]]'
+  - '[[_Standards/WikiData/WD~The_Scream,18891158]]'
+  - '[[_Standards/WikiData/WD~The_Scream,18891156]]'
+  - '[[_Standards/WikiData/WD~The_Scream,18891157]]'
 inception: 1893-01-01T00:00:00Z
 height: 91
-creator: "[[_Standards/WikiData/WD~Edvard_Munch,41406]]"
+creator: '[[_Standards/WikiData/WD~Edvard_Munch,41406]]'
 width: 73.5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%2C%201893%2C%20The%20Scream%2C%20oil%2C%20tempera%20and%20pastel%20on%20cardboard%2C%2091%20x%2073%20cm%2C%20National%20Gallery%20of%20Norway.jpg
 coordinate_location: Point(10.7375 59.916111111)

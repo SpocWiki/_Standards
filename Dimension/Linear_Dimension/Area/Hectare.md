@@ -1,20 +1,21 @@
 ---
 aliases:
   - Hektar
+  - Hectare
 has_id_wikidata: Q35852
 described_by_source:
-  - "[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~unit_of_area,1371562]]"
-  - "[[_Standards/WikiData/WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]"
-  - "[[_Standards/WikiData/WD~SI_accepted_non_SI_unit,106839753]]"
-different_from: "[[_Standards/WikiData/WD~square_hectometre,101463679]]"
-measured_physical_quantity: "[[_Standards/WikiData/WD~area,11500]]"
+  - '[[_Standards/WikiData/WD~unit_of_area,1371562]]'
+  - '[[_Standards/WikiData/WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]'
+  - '[[_Standards/WikiData/WD~SI_accepted_non_SI_unit,106839753]]'
+different_from: '[[_Standards/WikiData/WD~square_hectometre,101463679]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~area,11500]]'
 conversion_to_SI_unit: 10000
 conversion_to_standard_unit:
   - 100
@@ -27,7 +28,7 @@ conversion_to_standard_unit:
   - 2.471054
   - 0.003861022
   - 15500031
-OmegaWiki_Defined_Meaning: "1091771"
+OmegaWiki_Defined_Meaning: 1091771
 UCUM_code: har
 UN_CEFACT_Common_Code: HAR
 unit_symbol:

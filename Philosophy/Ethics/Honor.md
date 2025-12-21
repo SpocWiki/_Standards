@@ -1,18 +1,19 @@
 ---
 aliases:
   - Honour
+  - Honor
 has_id_wikidata: Q207333
-different_from: "[[_Standards/WikiData/WD~award,618779]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+different_from: '[[_Standards/WikiData/WD~award,618779]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Q12894952,12894952]]"
-  - "[[_Standards/WikiData/WD~Q18122260,18122260]]"
-  - "[[_Standards/WikiData/WD~Q111909662,111909662]]"
-opposite_of: "[[_Standards/WikiData/WD~dishonor,26001337]]"
-instance_of: "[[_Standards/WikiData/WD~ethical_concept,55979391]]"
-depicted_by: "[[_Standards/WikiData/WD~Honor_defeats_Deceit,131851006]]"
+  - '[[_Standards/WikiData/WD~Q12894952,12894952]]'
+  - '[[_Standards/WikiData/WD~Q18122260,18122260]]'
+  - '[[_Standards/WikiData/WD~Q111909662,111909662]]'
+opposite_of: '[[_Standards/WikiData/WD~dishonor,26001337]]'
+instance_of: '[[_Standards/WikiData/WD~ethical_concept,55979391]]'
+depicted_by: '[[_Standards/WikiData/WD~Honor_defeats_Deceit,131851006]]'
 Commons_category: Honour
-OmegaWiki_Defined_Meaning: "1373250"
+OmegaWiki_Defined_Meaning: 1373250
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q207333-ar.oga
 ---
 

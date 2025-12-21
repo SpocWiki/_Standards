@@ -2,51 +2,52 @@
 aliases:
   - Gabrielle Bonheur Chanel
   - Coco Chanel
+  - Chanel,Coco
 has_id_wikidata: Q45661
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]"
-  - "[[_Standards/WikiData/WD~The_Costume_Institute,67087093]]"
-  - "[[_Standards/WikiData/WD~Jozef_Wiggers_collection,113993463]]"
-place_of_birth: "[[_Standards/WikiData/WD~Saumur,193821]]"
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]'
+  - '[[_Standards/WikiData/WD~The_Costume_Institute,67087093]]'
+  - '[[_Standards/WikiData/WD~Jozef_Wiggers_collection,113993463]]'
+place_of_birth: '[[_Standards/WikiData/WD~Saumur,193821]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Hans_Günther_von_Dincklage,215487]]"
-  - "[[_Standards/WikiData/WD~Grand_Duke_Dmitri_Pavlovich_of_Russia,372954]]"
-  - "[[_Standards/WikiData/WD~Boy_Capel,2084103]]"
-  - "[[_Standards/WikiData/WD~Étienne_Balsan,3592054]]"
-employer: "[[_Standards/WikiData/WD~Chanel,218115]]"
-place_of_death: "[[_Standards/WikiData/WD~Hôtel_Ritz_Paris,656054]]"
+  - '[[_Standards/WikiData/WD~Hans_Günther_von_Dincklage,215487]]'
+  - '[[_Standards/WikiData/WD~Grand_Duke_Dmitri_Pavlovich_of_Russia,372954]]'
+  - '[[_Standards/WikiData/WD~Boy_Capel,2084103]]'
+  - '[[_Standards/WikiData/WD~Étienne_Balsan,3592054]]'
+employer: '[[_Standards/WikiData/WD~Chanel,218115]]'
+place_of_death: '[[_Standards/WikiData/WD~Hôtel_Ritz_Paris,656054]]'
 occupation:
-  - "[[_Standards/WikiData/WD~costume_designer,1323191]]"
-  - "[[_Standards/WikiData/WD~business_executive,2961975]]"
-  - "[[_Standards/WikiData/WD~fashion_designer,3501317]]"
-  - "[[_Standards/WikiData/WD~grand_couturier,4845479]]"
-  - "[[_Standards/WikiData/WD~modiste,18199649]]"
-  - "[[_Standards/WikiData/WD~textile_designer,18611810]]"
-place_of_burial: "[[_Standards/WikiData/WD~Bois_de_Vaux_Cemetery,2972597]]"
-different_from: "[[_Standards/WikiData/WD~Coco_Chanel,2981326]]"
+  - '[[_Standards/WikiData/WD~costume_designer,1323191]]'
+  - '[[_Standards/WikiData/WD~business_executive,2961975]]'
+  - '[[_Standards/WikiData/WD~fashion_designer,3501317]]'
+  - '[[_Standards/WikiData/WD~grand_couturier,4845479]]'
+  - '[[_Standards/WikiData/WD~modiste,18199649]]'
+  - '[[_Standards/WikiData/WD~textile_designer,18611810]]'
+place_of_burial: '[[_Standards/WikiData/WD~Bois_de_Vaux_Cemetery,2972597]]'
+different_from: '[[_Standards/WikiData/WD~Coco_Chanel,2981326]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~jewelry_design,6189617]]"
-  - "[[_Standards/WikiData/WD~fashion_design,29583]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-award_received: "[[_Standards/WikiData/WD~Neiman_Marcus_Fashion_Award,6989627]]"
-given_name: "[[_Standards/WikiData/WD~Gabrielle,13585060]]"
-mother: "[[_Standards/WikiData/WD~Jeanne_Devolle,15727194]]"
-family_name: "[[_Standards/WikiData/WD~Chanelle,37076120]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q65060079,65060079]]"
+  - '[[_Standards/WikiData/WD~jewelry_design,6189617]]'
+  - '[[_Standards/WikiData/WD~fashion_design,29583]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+award_received: '[[_Standards/WikiData/WD~Neiman_Marcus_Fashion_Award,6989627]]'
+given_name: '[[_Standards/WikiData/WD~Gabrielle,13585060]]'
+mother: '[[_Standards/WikiData/WD~Jeanne_Devolle,15727194]]'
+family_name: '[[_Standards/WikiData/WD~Chanelle,37076120]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q65060079,65060079]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~TheaterEncyclopedie,104771187]]"
-relative: "[[_Standards/WikiData/WD~André_Palasse,69758980]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~TheaterEncyclopedie,104771187]]'
+relative: '[[_Standards/WikiData/WD~André_Palasse,69758980]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 on_focus_list_of_Wikimedia_project:
   - "[[_Standards/WikiData/WD~Met_x_Wikipedia_Virtual_Edit_Meet_up_Women's_History_Month,105758538]]"
-  - "[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]"
-father: "[[_Standards/WikiData/WD~Albert_Chanel,108840344]]"
+  - '[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]'
+father: '[[_Standards/WikiData/WD~Albert_Chanel,108840344]]'
 date_of_birth: 1883-08-19T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_locations: "[[_Standards/WikiData/WD~Paris,90]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_locations: '[[_Standards/WikiData/WD~Paris,90]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 pseudonym: Coco Chanel
 Commons_category: Coco Chanel
 date_of_death: 1971-01-10T00:00:00Z
@@ -60,7 +61,7 @@ name_in_native_language: Coco Chanel
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Coco%20Chanel%20in%20Los%20Angeles%2C%201931%20%28cropped%29.jpg
 official_website: https://chanel.com
 ISNI: 000000008377452X
-P8189: "987007458081605171"
+P8189: 987007458081605171
 Europeana_entity: agent/base/98053
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/SHANEL_GABRIEL.html
 Libris_URI: tr5774gc3th392d

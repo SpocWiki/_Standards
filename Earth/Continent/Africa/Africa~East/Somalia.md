@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Somalia
+  - Somalie
+  - الصومال
+  - 索马里
+  - Сомали
+  - the Federal Republic of Somalia
+  - la República Federal de Somalia
+has_id_wikidata: Q1045
 top_level_Internet_domain: "[[_Standards/WikiData/WD~.so,126480]]"
 flag: "[[_Standards/WikiData/WD~flag_of_Somalia,159538]]"
 member_of:
@@ -247,7 +256,7 @@ rural_population:
   - 8906671
   - 9090664
   - 9269665
-inception: "1960"
+inception: 1960
 has_time_started: 1960-06
 population: 11031386
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Somalia.svg
@@ -284,7 +293,6 @@ official_name:
   - Soomaaliya
 short_name: 🇸🇴
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Administrative%20divisions%20of%20Somalia.svg
-has_id_wikidata: Q1045
 location:
   - 2.02
   - 45.33
@@ -300,20 +308,12 @@ source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
 title: Somalia
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Somalia
-  - Somalie
-  - الصومال
-  - 索马里
-  - Сомали
-  - the Federal Republic of Somalia
-  - la República Federal de Somalia
+publishDate: ""
+expiryDate: ""
 Languages:
   - so-SO
   - ar-SO

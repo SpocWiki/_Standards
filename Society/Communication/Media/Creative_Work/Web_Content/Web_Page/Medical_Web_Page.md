@@ -4,20 +4,22 @@ aliases:
   - medical_web_page
   - MedicalWebPage
   - is_a_medical_web_page
+  - Medical_Web_Page
+  - Medical Web Page
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_web_page
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_web_page Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

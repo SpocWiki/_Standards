@@ -4,21 +4,22 @@ aliases:
   - restocking-fee
   - restockingFee
   - has_value_for_restocking_fee
+  - has value for restocking fee
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - restocking-fee
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_restocking-fee
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

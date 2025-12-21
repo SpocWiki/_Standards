@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Burt Lancaster"
-- "Burton Stephen Lancaster"
+  - Burt Lancaster
+  - Burton Stephen Lancaster
+  - Lancaster,Burt
 ---
 
 #has_/time_/started :: 1913-11-02 

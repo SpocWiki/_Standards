@@ -4,21 +4,22 @@ aliases:
   - players_online
   - playersOnline
   - has_number_of_players_online
+  - has number of players online
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - players_online
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_players_online
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

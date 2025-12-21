@@ -4,20 +4,22 @@ aliases:
   - television_station
   - TelevisionStation
   - is_a_television_station
+  - Television_Station
+  - Television Station
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - television_station
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_television_station Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

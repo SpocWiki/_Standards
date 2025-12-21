@@ -4,6 +4,7 @@ aliases:
   - Congo-Brazzaville
   - Congo Republic
   - Republic_of_the_Congo
+  - Congo~Brazzaville
 has_id_wikidata: Q971
 location:
   - -4.26667
@@ -199,7 +200,7 @@ female_population:
   - 2854622
   - 2921372
   - 2988624
-inception: "1960"
+inception: 1960
 has_time_started: 1960-06
 motto_text:
   - Unité, Travail, Progrès

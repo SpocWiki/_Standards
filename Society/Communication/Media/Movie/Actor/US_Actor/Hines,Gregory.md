@@ -4,44 +4,45 @@ aliases:
   - Gregory Oliver Hines
   - Gregory Hines
   - Hines
+  - Hines,Gregory
 has_id_wikidata: Q367653
 name_in_native_language: Gregory Hines
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~ballet_dancer,805221]]"
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~choreographer,2490358]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~dancer,5716684]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-dance_style: "[[_Standards/WikiData/WD~tap_dance,244475]]"
-student: "[[_Standards/WikiData/WD~Savion_Glover,360244]]"
-cause_of_death: "[[_Standards/WikiData/WD~liver_cancer,623031]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~ballet_dancer,805221]]'
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~choreographer,2490358]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~dancer,5716684]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+dance_style: '[[_Standards/WikiData/WD~tap_dance,244475]]'
+student: '[[_Standards/WikiData/WD~Savion_Glover,360244]]'
+cause_of_death: '[[_Standards/WikiData/WD~liver_cancer,623031]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Gregory,922983]]"
-  - "[[_Standards/WikiData/WD~Oliver,2110096]]"
+  - '[[_Standards/WikiData/WD~Gregory,922983]]'
+  - '[[_Standards/WikiData/WD~Oliver,2110096]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Theatre_World_Award,1131356]]"
-  - "[[_Standards/WikiData/WD~Tony_Award_for_Best_Actor_in_a_Musical,1723064]]"
-  - "[[_Standards/WikiData/WD~Drama_Desk_Award_for_Outstanding_Actor_in_a_Musical,5305702]]"
-nominated_for: "[[_Standards/WikiData/WD~Tony_Award_for_Best_Actor_in_a_Musical,1723064]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
-instrument: "[[_Standards/WikiData/WD~voice,17172850]]"
-family_name: "[[_Standards/WikiData/WD~Hines,26226402]]"
-place_of_burial: "[[_Standards/WikiData/WD~St._Volodymyr_Ukrainian_Cemetery,97482255]]"
-described_by_source: "[[_Standards/WikiData/WD~NFF_Archive,131377870]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_birth: "[[_Standards/WikiData/WD~New_York_City,60]]"
-place_of_death: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
-ethnic_group: "[[_Standards/WikiData/WD~African_Americans,49085]]"
+  - '[[_Standards/WikiData/WD~Theatre_World_Award,1131356]]'
+  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actor_in_a_Musical,1723064]]'
+  - '[[_Standards/WikiData/WD~Drama_Desk_Award_for_Outstanding_Actor_in_a_Musical,5305702]]'
+nominated_for: '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actor_in_a_Musical,1723064]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
+family_name: '[[_Standards/WikiData/WD~Hines,26226402]]'
+place_of_burial: '[[_Standards/WikiData/WD~St._Volodymyr_Ukrainian_Cemetery,97482255]]'
+described_by_source: '[[_Standards/WikiData/WD~NFF_Archive,131377870]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_birth: '[[_Standards/WikiData/WD~New_York_City,60]]'
+place_of_death: '[[_Standards/WikiData/WD~Los_Angeles,65]]'
+ethnic_group: '[[_Standards/WikiData/WD~African_Americans,49085]]'
 Commons_category: Gregory Hines
 ISNI: 000000010902850X
 work_period_start_: 1968-01-01T00:00:00Z

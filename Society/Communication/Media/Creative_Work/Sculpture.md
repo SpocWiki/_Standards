@@ -4,42 +4,42 @@ aliases:
   - Skulptur
   - Sculpture
   - is_a_sculpture
+has_id_wikidata: Q860861
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sculpture
-layout: 
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_sculpture Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_sculpture Class
 type: Type
-has_id_wikidata: Q860861
 subclass_of:
-  - "[[_Standards/WikiData/WD~plastic_artwork,350268]]"
-  - "[[_Standards/WikiData/WD~artificial_physical_object,8205328]]"
+  - '[[_Standards/WikiData/WD~plastic_artwork,350268]]'
+  - '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_sculpture,7112723]]"
+  - '[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_sculpture,7112723]]'
 different_from:
-  - "[[_Standards/WikiData/WD~sculpture,17310537]]"
-  - "[[_Standards/WikiData/WD~art_of_sculpture,11634]]"
-fabrication_method: "[[_Standards/WikiData/WD~sculpture_technique,21711025]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_work_of_art,116474095]]"
+  - '[[_Standards/WikiData/WD~sculpture,17310537]]'
+  - '[[_Standards/WikiData/WD~art_of_sculpture,11634]]'
+fabrication_method: '[[_Standards/WikiData/WD~sculpture_technique,21711025]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_work_of_art,116474095]]'
 properties_for_this_type: Vanderkrogt.net Statues ID
-manifestation_of: "[[_Standards/WikiData/WD~art_of_sculpture,11634]]"
-Nomenclature_for_Museum_Cataloging: "12956"
+manifestation_of: '[[_Standards/WikiData/WD~art_of_sculpture,11634]]'
+Nomenclature_for_Museum_Cataloging: 12956
 Commons_gallery: Sculpture
 hashtag_:
   - sculpture

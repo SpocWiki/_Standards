@@ -1,30 +1,31 @@
 ---
 aliases:
-- location-created
-- location_created
-- locationCreated
-- has_location_created
-- "schema:locationCreated"
-- "dbo:placeOfOrigin"
-- "wdt:P1071"
+  - location-created
+  - location_created
+  - locationCreated
+  - has_location_created
+  - schema:locationCreated
+  - dbo:placeOfOrigin
+  - wdt:P1071
+  - has location created
 confidential: public
 cssclasses:
-- Predicate
-- geo
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- location_created
-layout: 
-license: "CC BY-SA 4.0"
+  - location_created
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_location_created
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_created
 type: Pred_geo
 ---

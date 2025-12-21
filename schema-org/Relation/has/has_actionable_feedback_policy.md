@@ -1,12 +1,13 @@
 ---
 aliases:
   - has_actionable_feedback_policy
+  - has actionable feedback policy
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -14,11 +15,11 @@ keywords:
   - feedback
   - policy
   - actionableFeedbackPolicy
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_actionable_feedback_policy
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

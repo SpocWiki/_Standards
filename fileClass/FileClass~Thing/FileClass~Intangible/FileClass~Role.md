@@ -1,39 +1,41 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Role
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: cDz1Ur
-  name: EndDate
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: RWtAXu
-  name: RoleName
-  options: {}
-  type: Input
-  path: ''
-- id: UVrpFU
-  name: StartDate
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
+  - id: cDz1Ur
+    name: EndDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: RWtAXu
+    name: RoleName
+    options: {}
+    type: Input
+    path: ''
+  - id: UVrpFU
+    name: StartDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Role
-- class/Thing/Intangible/Role
-- is_a_/Role
-- schema-org/Role
+  - class/Role
+  - class/Thing/Intangible/Role
+  - is_a_/Role
+  - schema-org/Role
 tags:
-- class/FileClass
-- class/Role
-- is_a_/Role
-- class/Thing/Intangible/Role
+  - class/FileClass
+  - class/Role
+  - is_a_/Role
+  - class/Thing/Intangible/Role
 version: 2.0
 ---
 

@@ -1,8 +1,9 @@
 ---
 aliases:
-- "Denzel_Washington"
-- "Denzel Washington"
-- "Denzel Hayes Washington Jr."
+  - Denzel_Washington
+  - Denzel Washington
+  - Denzel Hayes Washington Jr.
+  - Washington,Denzel
 ---
 
 # [[Washington,Denzel]] 

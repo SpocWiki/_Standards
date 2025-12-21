@@ -1,30 +1,32 @@
 ---
-excludes: 
+aliases:
+  - FileClass~EmployeeRole
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole
 fields:
-- id: jPWbP3
-  name: BaseSalary
-  options: {}
-  type: Number
-  path: ''
-- id: 3YpenZ
-  name: SalaryCurrency
-  options: {}
-  type: Input
-  path: ''
+  - id: jPWbP3
+    name: BaseSalary
+    options: {}
+    type: Number
+    path: ''
+  - id: 3YpenZ
+    name: SalaryCurrency
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/EmployeeRole
-- class/Thing/Intangible/Role/OrganizationRole/EmployeeRole
-- is_an_/EmployeeRole
-- schema-org/EmployeeRole
+  - class/EmployeeRole
+  - class/Thing/Intangible/Role/OrganizationRole/EmployeeRole
+  - is_an_/EmployeeRole
+  - schema-org/EmployeeRole
 tags:
-- class/FileClass
-- class/EmployeeRole
-- '#is_an_/EmployeeRole'
-- class/Thing/Intangible/Role/OrganizationRole/EmployeeRole
+  - class/FileClass
+  - class/EmployeeRole
+  - '#is_an_/EmployeeRole'
+  - class/Thing/Intangible/Role/OrganizationRole/EmployeeRole
 version: 2.0
 ---
 

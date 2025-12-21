@@ -4,20 +4,22 @@ aliases:
   - program_membership
   - ProgramMembership
   - is_a_program_membership
+  - Program_Membership
+  - Program Membership
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - program_membership
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_program_membership Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

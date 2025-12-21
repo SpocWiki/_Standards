@@ -4,6 +4,7 @@ aliases:
   - Eigenvektoren
   - Eigenvektor
   - characteristic vector
+  - Eigenvector
 has_id_wikidata: Q190524
 subclass_of: "[[_Standards/WikiData/WD~invariant,188211]]"
 approximation_algorithm: "[[_Standards/WikiData/WD~Rayleigh_Ritz_method,852247]]"

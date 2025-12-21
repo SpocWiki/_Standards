@@ -4,23 +4,25 @@ aliases:
   - time_of_day
   - timeOfDay
   - has_text_of_time_of_day
+  - has_time_of_day
+  - has time of day
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - time
   - of
   - day
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_time_of_day
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

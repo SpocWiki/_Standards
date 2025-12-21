@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Lolita (1962)"
+  - Lolita (1962)
+  - Lolita(1962)
 ---
 
 # [[Lolita(1962)]] 

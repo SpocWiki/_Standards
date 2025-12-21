@@ -5,6 +5,7 @@ aliases:
   - is_an_event
   - dbo:Event
   - schema:Event
+has_id_wikidata: Q1656682
 confidential: public
 cssclasses:
   - Type
@@ -16,29 +17,28 @@ equivalent_class:
   - http://www.cidoc-crm.org/entity/e5-event/version-6.2
   - https://schema.org/Event
   - https://www.w3.org/ns/activitystreams#Event
-expiryDate:
+expiryDate: ''
 icon: fas_bolt_lightning
 isDeleted: false
 isReadOnly: false
 keywords:
   - event
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_event Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_event Class
 type: Type
-has_id_wikidata: Q1656682
-facet_of: "[[_Standards/WikiData/WD~planning,309100]]"
+facet_of: '[[_Standards/WikiData/WD~planning,309100]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~occurrence,1190554]]"
-  - "[[_Standards/WikiData/WD~service,7406919]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Events,60004055]]"
-has_characteristic: "[[_Standards/WikiData/WD~form_of_event,108586636]]"
+  - '[[_Standards/WikiData/WD~occurrence,1190554]]'
+  - '[[_Standards/WikiData/WD~service,7406919]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Events,60004055]]'
+has_characteristic: '[[_Standards/WikiData/WD~form_of_event,108586636]]'
 properties_for_this_type:
   - location
   - officially opened by

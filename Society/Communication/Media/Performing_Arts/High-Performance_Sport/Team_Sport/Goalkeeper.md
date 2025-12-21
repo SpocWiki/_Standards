@@ -6,25 +6,26 @@ aliases:
   - GK
   - goalie
   - keeper
+  - Goalkeeper
 has_id_wikidata: Q172964
-has_part_s_: "[[_Standards/WikiData/WD~goalkeeper,179789]]"
+has_part_s_: '[[_Standards/WikiData/WD~goalkeeper,179789]]'
 sport:
-  - "[[_Standards/WikiData/WD~bandy,183018]]"
-  - "[[_Standards/WikiData/WD~lacrosse,185851]]"
-  - "[[_Standards/WikiData/WD~Gaelic_football,204632]]"
-  - "[[_Standards/WikiData/WD~floorball,206763]]"
-  - "[[_Standards/WikiData/WD~hurling,213711]]"
-  - "[[_Standards/WikiData/WD~netball,231200]]"
-  - "[[_Standards/WikiData/WD~international_rules_football,1666862]]"
-  - "[[_Standards/WikiData/WD~field_hockey,1455]]"
-  - "[[_Standards/WikiData/WD~association_football,2736]]"
-  - "[[_Standards/WikiData/WD~water_polo,7707]]"
-  - "[[_Standards/WikiData/WD~handball,8418]]"
-  - "[[_Standards/WikiData/WD~ice_hockey,41466]]"
-instance_of: "[[_Standards/WikiData/WD~position,1781513]]"
-subclass_of: "[[_Standards/WikiData/WD~athlete,2066131]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-OmegaWiki_Defined_Meaning: "342451"
+  - '[[_Standards/WikiData/WD~bandy,183018]]'
+  - '[[_Standards/WikiData/WD~lacrosse,185851]]'
+  - '[[_Standards/WikiData/WD~Gaelic_football,204632]]'
+  - '[[_Standards/WikiData/WD~floorball,206763]]'
+  - '[[_Standards/WikiData/WD~hurling,213711]]'
+  - '[[_Standards/WikiData/WD~netball,231200]]'
+  - '[[_Standards/WikiData/WD~international_rules_football,1666862]]'
+  - '[[_Standards/WikiData/WD~field_hockey,1455]]'
+  - '[[_Standards/WikiData/WD~association_football,2736]]'
+  - '[[_Standards/WikiData/WD~water_polo,7707]]'
+  - '[[_Standards/WikiData/WD~handball,8418]]'
+  - '[[_Standards/WikiData/WD~ice_hockey,41466]]'
+instance_of: '[[_Standards/WikiData/WD~position,1781513]]'
+subclass_of: '[[_Standards/WikiData/WD~athlete,2066131]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+OmegaWiki_Defined_Meaning: 342451
 female_form_of_label:
   - gardienne de but
   - שוערת

@@ -4,22 +4,23 @@ aliases:
   - alternate_name
   - alternateName
   - has_name_alternate
+  - has name alternate
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - alternate
   - name
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_name_alternate
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

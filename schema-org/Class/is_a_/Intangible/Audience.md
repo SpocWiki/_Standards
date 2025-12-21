@@ -1,30 +1,30 @@
 ---
 aliases:
-- audience
-- audience
-- Audience
-- is_an_audience
-- "schema:audience"
-- "dbo:audience"
-- "wdt:P2360"
+  - audience
+  - audience
+  - Audience
+  - is_an_audience
+  - schema:audience
+  - dbo:audience
+  - wdt:P2360
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- audience
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_audience Class"
+  - audience
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_an_audience Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_audience Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_audience Class
 type: Type
 ---
 

@@ -3,18 +3,20 @@ aliases:
   - Control engineering
   - control systems engineering 
   - automation engineering
+  - Control_Engineering
+  - Control Engineering
 has_id_wikidata: Q4917288
 subclass_of:
-  - "[[_Standards/WikiData/WD~systems_engineering,682496]]"
-  - "[[_Standards/WikiData/WD~engineering,11023]]"
+  - '[[_Standards/WikiData/WD~systems_engineering,682496]]'
+  - '[[_Standards/WikiData/WD~engineering,11023]]'
 part_of:
-  - "[[_Standards/WikiData/WD~automation_technology,787422]]"
-  - "[[_Standards/WikiData/WD~engineering_cybernetics,1777655]]"
-  - "[[_Standards/WikiData/WD~control_engineering,_mechatronics_and_robotics,113104535]]"
+  - '[[_Standards/WikiData/WD~automation_technology,787422]]'
+  - '[[_Standards/WikiData/WD~engineering_cybernetics,1777655]]'
+  - '[[_Standards/WikiData/WD~control_engineering,_mechatronics_and_robotics,113104535]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~branch_of_engineering,12015335]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_control_engineering,7112595]]"
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_control_engineering,7112595]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Control%20Engineering%20Icon.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Loaded%20centrifugal%20governor%20%28New%20Catechism%20of%20the%20Steam%20Engine%2C%201904%29.jpg
 Stack_Exchange_tag: https://engineering.stackexchange.com/tags/control-engineering

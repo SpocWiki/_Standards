@@ -4,22 +4,23 @@ aliases:
   - code_of_unit
   - unitCode
   - has_code_of_unit
+  - has code of unit
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - unit
   - code
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_code_of_unit
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

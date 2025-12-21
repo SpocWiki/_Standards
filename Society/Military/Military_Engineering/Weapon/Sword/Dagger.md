@@ -1,6 +1,7 @@
 ---
 aliases:
   - Dolch
+  - Dagger
 has_id_wikidata: Q182780
 described_by_source:
   - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -13,14 +14,14 @@ subclass_of: "[[_Standards/WikiData/WD~stabbing_weapon,1514280]]"
 has_list: "[[_Standards/WikiData/WD~Q52092067,52092067]]"
 instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
 length: 25
-Nomenclature_for_Museum_Cataloging: "8165"
+Nomenclature_for_Museum_Cataloging: 8165
 Iconclass_notation: 45C13(DAGGER)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dagger%20MET%20sf26-145-43s1.jpg
 Commons_category: Daggers
 Unicode_character: 🗡
 ---
 
-# [[Dagger]] 
+# [[Dagger]] 🗡 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Dagger,182780|WD~Dagger,182780]] 
 

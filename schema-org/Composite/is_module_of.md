@@ -1,28 +1,29 @@
 ---
 aliases:
-- module-of
-- module_of
-- moduleOf
-- is_module_of
-- is_a_fraction_of
-- is_a_partition_of
-- 
+  - module-of
+  - module_of
+  - moduleOf
+  - is_module_of
+  - is_a_fraction_of
+  - is_a_partition_of
+  - ''
+  - is module of
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords: ''
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: is_module_of
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- schema-org/Relation
+  - schema-org/Relation
 title: is_module_of
 type: Predi_Relation
 ---

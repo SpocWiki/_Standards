@@ -1,19 +1,21 @@
 ---
-Commons_category: Strong nuclear force
-Dewey_Decimal_Classification: 539.7548
-Stack_Exchange_tag: https://physics.stackexchange.com/tags/strong-force
 aliases:
   - Strong interaction
   - strong nuclear force
   - strong force
-described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - Strong_Interaction
+  - Strong Interaction
 has_id_wikidata: Q11415
+Commons_category: Strong nuclear force
+Dewey_Decimal_Classification: 539.7548
+Stack_Exchange_tag: https://physics.stackexchange.com/tags/strong-force
+described_by_source:
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nuclear%20Force%20anim%20smaller.gif
 instance_of:
-  - "[[_Standards/WikiData/WD~fundamental_interaction,104934]]"
+  - '[[_Standards/WikiData/WD~fundamental_interaction,104934]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~elementary_particle_interaction,71130616]]"
+  - '[[_Standards/WikiData/WD~elementary_particle_interaction,71130616]]'
 ---
 
 # [[Strong_Interaction]] 

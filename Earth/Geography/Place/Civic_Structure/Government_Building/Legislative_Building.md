@@ -4,20 +4,22 @@ aliases:
   - legislative_building
   - LegislativeBuilding
   - is_a_legislative_building
+  - Legislative_Building
+  - Legislative Building
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - legislative_building
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_legislative_building Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

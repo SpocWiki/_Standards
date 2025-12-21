@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Tullio Levi-Civita"
+  - Tullio Levi-Civita
+  - Levi-Civita,Tullio
 ---
 
 #has_/time_/started :: 1873-03-29 

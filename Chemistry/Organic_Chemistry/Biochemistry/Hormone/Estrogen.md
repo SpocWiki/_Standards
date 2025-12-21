@@ -1,27 +1,28 @@
 ---
 aliases:
-- Oestrogen
-- Östrogen
+  - Oestrogen
+  - Östrogen
+  - Estrogen
+has_id_wikidata: Q277954
 Commons_category: Estrogens
 different_from: '[[_Standards/WikiData/WD~estrin,30611685]]'
-has_id_wikidata: Q277954
 instance_of:
-- '[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173]]'
+  - '[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173]]'
 MeSH_tree_code: D27.505.696.399.472.277
 part_of:
-- '[[_Standards/WikiData/WD~response_to_estrogen,14599729]]'
-- '[[_Standards/WikiData/WD~estrogen_metabolic_process,14863651]]'
-- '[[_Standards/WikiData/WD~estrogen_biosynthetic_process,14865014]]'
-- '[[_Standards/WikiData/WD~estrogen_receptor_activity,14902297]]'
-- '[[_Standards/WikiData/WD~cellular_response_to_estrogen_stimulus,14902316]]'
-- '[[_Standards/WikiData/WD~estrogen_catabolic_process,21123543]]'
-- '[[_Standards/WikiData/WD~estrogen_secretion,22290462]]'
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A7%87%E0%A6%A8.wav"
+  - '[[_Standards/WikiData/WD~response_to_estrogen,14599729]]'
+  - '[[_Standards/WikiData/WD~estrogen_metabolic_process,14863651]]'
+  - '[[_Standards/WikiData/WD~estrogen_biosynthetic_process,14865014]]'
+  - '[[_Standards/WikiData/WD~estrogen_receptor_activity,14902297]]'
+  - '[[_Standards/WikiData/WD~cellular_response_to_estrogen_stimulus,14902316]]'
+  - '[[_Standards/WikiData/WD~estrogen_catabolic_process,21123543]]'
+  - '[[_Standards/WikiData/WD~estrogen_secretion,22290462]]'
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A7%87%E0%A6%A8.wav
 subclass_of:
-- '[[_Standards/WikiData/WD~steroid_hormone,422137]]'
-- '[[_Standards/WikiData/WD~sex_steroid,422812]]'
-- '[[_Standards/WikiData/WD~hormone,11364]]'
-WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/estrogens"
+  - '[[_Standards/WikiData/WD~steroid_hormone,422137]]'
+  - '[[_Standards/WikiData/WD~sex_steroid,422812]]'
+  - '[[_Standards/WikiData/WD~hormone,11364]]'
+WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/estrogens
 ---
 
 # [[Estrogen]] 

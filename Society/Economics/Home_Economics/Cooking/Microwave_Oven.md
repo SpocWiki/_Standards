@@ -1,19 +1,21 @@
 ---
 aliases:
   - Mikrowellenofen
+  - Microwave_Oven
+  - Microwave Oven
 has_id_wikidata: Q127956
-uses: "[[_Standards/WikiData/WD~microwave,127995]]"
-location_of_creation: "[[_Standards/WikiData/WD~Raytheon,156644]]"
-creator: "[[_Standards/WikiData/WD~Raytheon,156644]]"
+uses: '[[_Standards/WikiData/WD~microwave,127995]]'
+location_of_creation: '[[_Standards/WikiData/WD~Raytheon,156644]]'
+creator: '[[_Standards/WikiData/WD~Raytheon,156644]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~home_appliance,212920]]"
-  - "[[_Standards/WikiData/WD~electrical_appliance,2425052]]"
-  - "[[_Standards/WikiData/WD~cooking_appliance,57583712]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Percy_Spencer,451052]]"
-has_use: "[[../../../../WikiData/WD~heating,4311765]]"
-instance_of: "[[_Standards/WikiData/WD~cooking_appliance,57583712]]"
-Nomenclature_for_Museum_Cataloging: "4114"
-OmegaWiki_Defined_Meaning: "1170137"
+  - '[[_Standards/WikiData/WD~home_appliance,212920]]'
+  - '[[_Standards/WikiData/WD~electrical_appliance,2425052]]'
+  - '[[_Standards/WikiData/WD~cooking_appliance,57583712]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Percy_Spencer,451052]]'
+has_use: '[[../../../../WikiData/WD~heating,4311765]]'
+instance_of: '[[_Standards/WikiData/WD~cooking_appliance,57583712]]'
+Nomenclature_for_Museum_Cataloging: 4114
+OmegaWiki_Defined_Meaning: 1170137
 IMDb_keyword: microwave
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Microwave%20oven.ogg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Nissin%20Cup%20Noodle%20Gohan%20curry%20flavoured%2C%20-2013%20a.webm

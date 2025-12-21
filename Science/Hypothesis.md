@@ -3,22 +3,23 @@ aliases:
   - hypotheses
   - Hypothese
   - Hypothesen
+  - Hypothesis
 has_id_wikidata: Q41719
 part_of:
-  - "[[_Standards/WikiData/WD~theorem,65943]]"
-  - "[[_Standards/WikiData/WD~theory,17737]]"
+  - '[[_Standards/WikiData/WD~theorem,65943]]'
+  - '[[_Standards/WikiData/WD~theory,17737]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~proposition,108163]]"
-  - "[[_Standards/WikiData/WD~premise,321703]]"
-  - "[[../WikiData/WD~work,386724]]"
+  - '[[_Standards/WikiData/WD~proposition,108163]]'
+  - '[[_Standards/WikiData/WD~premise,321703]]'
+  - '[[../WikiData/WD~work,386724]]'
 described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-has_characteristic: "[[_Standards/WikiData/WD~testability,2149495]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+has_characteristic: '[[_Standards/WikiData/WD~testability,2149495]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~unknown,24238356]]"
-  - "[[_Standards/WikiData/WD~hypothetical_thinking,94626994]]"
+  - '[[_Standards/WikiData/WD~unknown,24238356]]'
+  - '[[_Standards/WikiData/WD~hypothetical_thinking,94626994]]'
 properties_for_this_type:
   - solved by
   - instance of

@@ -1,40 +1,42 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Seat
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: gpzyrk
-  name: SeatNumber
-  options: {}
-  type: Input
-  path: ''
-- id: NZruqA
-  name: SeatRow
-  options: {}
-  type: Input
-  path: ''
-- id: z0piEz
-  name: SeatSection
-  options: {}
-  type: Input
-  path: ''
-- id: GlIh0b
-  name: SeatingType
-  options: {}
-  type: Input
-  path: ''
+  - id: gpzyrk
+    name: SeatNumber
+    options: {}
+    type: Input
+    path: ''
+  - id: NZruqA
+    name: SeatRow
+    options: {}
+    type: Input
+    path: ''
+  - id: z0piEz
+    name: SeatSection
+    options: {}
+    type: Input
+    path: ''
+  - id: GlIh0b
+    name: SeatingType
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Seat
-- class/Thing/Intangible/Seat
-- is_a_/Seat
-- schema-org/Seat
+  - class/Seat
+  - class/Thing/Intangible/Seat
+  - is_a_/Seat
+  - schema-org/Seat
 tags:
-- class/FileClass
-- class/Seat
-- is_a_/Seat
-- class/Thing/Intangible/Seat
+  - class/FileClass
+  - class/Seat
+  - is_a_/Seat
+  - class/Thing/Intangible/Seat
 version: 2.0
 ---
 

@@ -2,21 +2,22 @@
 aliases:
   - Pastafarianism
   - Flying Spaghetti Monster
+  - Pastafari
 has_id_wikidata: Q14397660
-different_from: "[[_Standards/WikiData/WD~Rastafari,101462]]"
-in_opposition_to: "[[_Standards/WikiData/WD~intelligent_design,172618]]"
-creator: "[[_Standards/WikiData/WD~Bobby_Henderson,379057]]"
-founded_by: "[[_Standards/WikiData/WD~Bobby_Henderson,379057]]"
+different_from: '[[_Standards/WikiData/WD~Rastafari,101462]]'
+in_opposition_to: '[[_Standards/WikiData/WD~intelligent_design,172618]]'
+creator: '[[_Standards/WikiData/WD~Bobby_Henderson,379057]]'
+founded_by: '[[_Standards/WikiData/WD~Bobby_Henderson,379057]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~parody_religion,904201]]"
-  - "[[_Standards/WikiData/WD~religious_satire,7311396]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
+  - '[[_Standards/WikiData/WD~parody_religion,904201]]'
+  - '[[_Standards/WikiData/WD~religious_satire,7311396]]'
+  - '[[_Standards/WikiData/WD~religion,9174]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Gospel_of_the_Flying_Spaghetti_Monster,3269406]]"
-  - "[[_Standards/WikiData/WD~Open_Letter_To_Kansas_School_Board,67204975]]"
-foundational_text: "[[_Standards/WikiData/WD~The_Gospel_of_the_Flying_Spaghetti_Monster,3269406]]"
-subclass_of: "[[_Standards/WikiData/WD~monotheistic_religion,19842652]]"
-has_characteristic: "[[_Standards/WikiData/WD~monotheism,9159]]"
+  - '[[_Standards/WikiData/WD~The_Gospel_of_the_Flying_Spaghetti_Monster,3269406]]'
+  - '[[_Standards/WikiData/WD~Open_Letter_To_Kansas_School_Board,67204975]]'
+foundational_text: '[[_Standards/WikiData/WD~The_Gospel_of_the_Flying_Spaghetti_Monster,3269406]]'
+subclass_of: '[[_Standards/WikiData/WD~monotheistic_religion,19842652]]'
+has_characteristic: '[[_Standards/WikiData/WD~monotheism,9159]]'
 official_website: https://www.spaghettimonster.org/
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flying%20Spaghetti%20Monster%20icon.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Touched%20by%20His%20Noodly%20Appendage%20HD.jpg

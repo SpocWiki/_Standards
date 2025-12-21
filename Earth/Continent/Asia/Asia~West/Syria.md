@@ -319,12 +319,12 @@ cssclasses:
   - Country
 publish: true
 title: Syria
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 Languages:
   - ar-SY
   - ku

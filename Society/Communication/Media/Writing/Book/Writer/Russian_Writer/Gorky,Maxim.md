@@ -5,75 +5,76 @@ aliases:
   - Алексей Максимович Пешков
   - Maxim Gorky
   - Максим Горький
+  - Gorky,Maxim
 has_id_wikidata: Q12706
 residence:
-  - "[[_Standards/WikiData/WD~Sorrento,72672]]"
-  - "[[_Standards/WikiData/WD~Capri,173292]]"
-  - "[[_Standards/WikiData/WD~Moscow,649]]"
-  - "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
-  - "[[_Standards/WikiData/WD~Nizhny_Novgorod,891]]"
+  - '[[_Standards/WikiData/WD~Sorrento,72672]]'
+  - '[[_Standards/WikiData/WD~Capri,173292]]'
+  - '[[_Standards/WikiData/WD~Moscow,649]]'
+  - '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
+  - '[[_Standards/WikiData/WD~Nizhny_Novgorod,891]]'
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~playwright,214917]]"
-  - "[[_Standards/WikiData/WD~dramaturge,487596]]"
-  - "[[_Standards/WikiData/WD~journalist,1930187]]"
-  - "[[_Standards/WikiData/WD~publisher,2516866]]"
-  - "[[_Standards/WikiData/WD~opinion_journalist,6051619]]"
-  - "[[_Standards/WikiData/WD~novelist,6625963]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~diarist,18939491]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~playwright,214917]]'
+  - '[[_Standards/WikiData/WD~dramaturge,487596]]'
+  - '[[_Standards/WikiData/WD~journalist,1930187]]'
+  - '[[_Standards/WikiData/WD~publisher,2516866]]'
+  - '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
+  - '[[_Standards/WikiData/WD~novelist,6625963]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~diarist,18939491]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~Library_of_Congress,131454]]"
-  - "[[_Standards/WikiData/WD~University_of_Pennsylvania_Libraries,18572874]]"
+  - '[[_Standards/WikiData/WD~Library_of_Congress,131454]]'
+  - '[[_Standards/WikiData/WD~University_of_Pennsylvania_Libraries,18572874]]'
 notable_work:
   - "[[_Standards/WikiData/WD~Mat',169632]]"
-  - "[[_Standards/WikiData/WD~The_Lower_Depths,1330429]]"
-  - "[[_Standards/WikiData/WD~The_Life_of_Klim_Samgin,4180181]]"
-  - "[[_Standards/WikiData/WD~Twenty_six_Men_and_a_Girl,6009635]]"
-  - "[[_Standards/WikiData/WD~My_Childhood,25396007]]"
-movement: "[[_Standards/WikiData/WD~socialist_realism,180902]]"
+  - '[[_Standards/WikiData/WD~The_Lower_Depths,1330429]]'
+  - '[[_Standards/WikiData/WD~The_Life_of_Klim_Samgin,4180181]]'
+  - '[[_Standards/WikiData/WD~Twenty_six_Men_and_a_Girl,6009635]]'
+  - '[[_Standards/WikiData/WD~My_Childhood,25396007]]'
+movement: '[[_Standards/WikiData/WD~socialist_realism,180902]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_Lenin,185493]]"
-  - "[[_Standards/WikiData/WD~Griboyedov_Prize,18406081]]"
-  - "[[_Standards/WikiData/WD~Q28664601,28664601]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Russian_Social_Democratic_Labour_Party,204911]]"
-field_of_work: "[[_Standards/WikiData/WD~belletristic_literature,268416]]"
+  - '[[_Standards/WikiData/WD~Order_of_Lenin,185493]]'
+  - '[[_Standards/WikiData/WD~Griboyedov_Prize,18406081]]'
+  - '[[_Standards/WikiData/WD~Q28664601,28664601]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Russian_Social_Democratic_Labour_Party,204911]]'
+field_of_work: '[[_Standards/WikiData/WD~belletristic_literature,268416]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"
-  - "[[_Standards/WikiData/WD~Literary_Encyclopedia_1929_1939,4263804]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+  - '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
+  - '[[_Standards/WikiData/WD~Literary_Encyclopedia_1929_1939,4263804]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
-  - "[[_Standards/WikiData/WD~Bio_bibliographic_Dictionary_of_20th_Century_Russian_Writers,42068474]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Writers_of_St._Petersburg._XX_century,108611244]]"
-  - "[[_Standards/WikiData/WD~Russian_literature_of_the_20th_century._Volume_1,_2005,124510026]]"
-  - "[[_Standards/WikiData/WD~Russian_Writers_XIX_c._Tome_1,125555255]]"
-employer: "[[_Standards/WikiData/WD~Pushkin_House,1024181]]"
-place_of_burial: "[[_Standards/WikiData/WD~Kremlin_Wall_Necropolis,1130019]]"
-member_of: "[[_Standards/WikiData/WD~USSR_Union_of_Writers,1425328]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
+  - '[[_Standards/WikiData/WD~Bio_bibliographic_Dictionary_of_20th_Century_Russian_Writers,42068474]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Writers_of_St._Petersburg._XX_century,108611244]]'
+  - '[[_Standards/WikiData/WD~Russian_literature_of_the_20th_century._Volume_1,_2005,124510026]]'
+  - '[[_Standards/WikiData/WD~Russian_Writers_XIX_c._Tome_1,125555255]]'
+employer: '[[_Standards/WikiData/WD~Pushkin_House,1024181]]'
+place_of_burial: '[[_Standards/WikiData/WD~Kremlin_Wall_Necropolis,1130019]]'
+member_of: '[[_Standards/WikiData/WD~USSR_Union_of_Writers,1425328]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Maxim_Gorky,1899918]]"
-  - "[[_Standards/WikiData/WD~Gorki,5824198]]"
+  - '[[_Standards/WikiData/WD~Maxim_Gorky,1899918]]'
+  - '[[_Standards/WikiData/WD~Gorki,5824198]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Maria_Andreyeva,2026593]]"
-  - "[[_Standards/WikiData/WD~Yekaterina_Peshkova,2070393]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-place_of_death: "[[_Standards/WikiData/WD~Gorki_10,4144333]]"
-family_name: "[[_Standards/WikiData/WD~Peshkov,4362187]]"
-child: "[[_Standards/WikiData/WD~Maxim_Peshkov,4362191]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-list_of_works: "[[_Standards/WikiData/WD~Maxim_Gorky_bibliography,6795584]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27069113,27069113]]"
-given_name: "[[_Standards/WikiData/WD~Aleksey,29014670]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+  - '[[_Standards/WikiData/WD~Maria_Andreyeva,2026593]]'
+  - '[[_Standards/WikiData/WD~Yekaterina_Peshkova,2070393]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+place_of_death: '[[_Standards/WikiData/WD~Gorki_10,4144333]]'
+family_name: '[[_Standards/WikiData/WD~Peshkov,4362187]]'
+child: '[[_Standards/WikiData/WD~Maxim_Peshkov,4362191]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+list_of_works: '[[_Standards/WikiData/WD~Maxim_Gorky_bibliography,6795584]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27069113,27069113]]'
+given_name: '[[_Standards/WikiData/WD~Aleksey,29014670]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 work_period_start_: 1892-01-01T00:00:00Z
 date_of_birth: 1868-03-28T00:00:00Z
 plaque_image:
@@ -84,18 +85,18 @@ plaque_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/MaximGorkiinTbilisi.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Memorial%20plaque%20villa%20Irmgard.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Plaque%20in%20Yerevan%20-%20Maxim%20Gorky%20has%20stayed%20in%20this%20home%20in%201928.jpg
-place_of_birth: "[[_Standards/WikiData/WD~Nizhny_Novgorod,891]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
-writing_language: "[[_Standards/WikiData/WD~Russian,7737]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Russian,7737]]"
-native_language: "[[_Standards/WikiData/WD~Russian,7737]]"
-cause_of_death: "[[_Standards/WikiData/WD~pneumonia,12192]]"
+place_of_birth: '[[_Standards/WikiData/WD~Nizhny_Novgorod,891]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
+writing_language: '[[_Standards/WikiData/WD~Russian,7737]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Russian,7737]]'
+native_language: '[[_Standards/WikiData/WD~Russian,7737]]'
+cause_of_death: '[[_Standards/WikiData/WD~pneumonia,12192]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
-place_of_detention: "[[_Standards/WikiData/WD~Peter_and_Paul_Fortress,38646]]"
+  - '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+  - '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
+place_of_detention: '[[_Standards/WikiData/WD~Peter_and_Paul_Fortress,38646]]'
 Commons_category: Maxim Gorky
 Commons_Creator_page: Maxim Gorky
 Commons_gallery: Maxim Gorky
@@ -104,7 +105,7 @@ pseudonym:
   - Максим Горький
   - Иегудиил Хламида
 BHCL_UUID: 0eac8e3f-e536-47c1-9838-f76d16010df4
-U_S_National_Archives_Identifier: "10568549"
+U_S_National_Archives_Identifier: 10568549
 Regensburg_Classification: KI 3880
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/GORKI_MAKSIM.html
 Swedish_Royal_Theater_Archive: Person/585
@@ -114,8 +115,8 @@ work_period_end_: 1936-01-01T00:00:00Z
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%AE%E0%A5%85%E0%A4%95%E0%A5%8D%E0%A4%9D%E0%A4%BF%E0%A4%AE%20%E0%A4%97%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%80.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Maxim%20Gorky%20LOC%20Restored%20edit1.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/MaximGorkySignature.svg
-ISNI: "0000000121445808"
-NLC_authorities: "000141756"
+ISNI: 0000000121445808
+NLC_authorities: 000141756
 Libris_URI: 20dgbpll5hgp2d8
 CYT_CCS: AC000314713
 Europeana_entity: agent/base/60863

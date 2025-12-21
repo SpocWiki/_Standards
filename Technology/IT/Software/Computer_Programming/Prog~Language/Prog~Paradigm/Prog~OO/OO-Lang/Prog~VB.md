@@ -1,6 +1,7 @@
 ---
 aliases:
-- Visual-Basic
+  - Visual-Basic
+  - Prog~VB
 ---
 
 #has_/parent :[[../../Prog~Structured/Structured_Prog-Lang/Microsoft_BASIC|Microsoft_BASIC]]]] 

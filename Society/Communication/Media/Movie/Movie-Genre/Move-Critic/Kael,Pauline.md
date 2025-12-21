@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Pauline Kael"
+  - Pauline Kael
+  - Kael,Pauline
 ---
 
 #has_/time_/started :: 1919-06-19 

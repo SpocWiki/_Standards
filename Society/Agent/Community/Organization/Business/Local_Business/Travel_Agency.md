@@ -4,20 +4,22 @@ aliases:
   - travel_agency
   - TravelAgency
   - is_a_travel_agency
+  - Travel_Agency
+  - Travel Agency
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - travel_agency
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_travel_agency Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

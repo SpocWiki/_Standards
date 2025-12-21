@@ -3,12 +3,13 @@ aliases:
   - has passenger-priority-status
   - passengerPriorityStatus
   - has_passenger_priority_status
+  - has passenger priority status
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - passenger
   - priority
   - status
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_passenger_priority_status
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -4,21 +4,22 @@ aliases:
   - engine-power
   - enginePower
   - has_value_for_engine_power_watt
+  - has value for engine power watt
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - engine-power
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_engine-power
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

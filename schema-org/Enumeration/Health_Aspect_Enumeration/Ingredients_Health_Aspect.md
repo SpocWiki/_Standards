@@ -4,21 +4,23 @@ aliases:
   - ingredients_health_aspect
   - IngredientsHealthAspect
   - is_an_ingredients_health_aspect
+  - Ingredients_Health_Aspect
+  - Ingredients Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - ingredients_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_ingredients_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

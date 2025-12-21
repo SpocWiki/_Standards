@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Dartmouth College"
+  - Dartmouth College
+  - Dartmouth_College
 ---
 
 > **Dartmouth College** (; DART-məth) is a private Ivy League research university 

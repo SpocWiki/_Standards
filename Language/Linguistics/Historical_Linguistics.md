@@ -2,25 +2,27 @@
 aliases:
   - Historical linguistics
   - diachronic linguistics
+  - Historical_Linguistics
+  - Historical Linguistics
 has_id_wikidata: Q190375
 different_from:
-  - "[[_Standards/WikiData/WD~history_of_linguistics,1478235]]"
-  - "[[_Standards/WikiData/WD~folk_linguistics,5464463]]"
+  - '[[_Standards/WikiData/WD~history_of_linguistics,1478235]]'
+  - '[[_Standards/WikiData/WD~folk_linguistics,5464463]]'
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~historical_language,2315359]]"
-  - "[[_Standards/WikiData/WD~diachrony,5270227]]"
-opposite_of: "[[_Standards/WikiData/WD~synchronic_linguistics,3833032]]"
+  - '[[_Standards/WikiData/WD~historical_language,2315359]]'
+  - '[[_Standards/WikiData/WD~diachrony,5270227]]'
+opposite_of: '[[_Standards/WikiData/WD~synchronic_linguistics,3833032]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~branch_of_linguistics,135892289]]"
-practiced_by: "[[_Standards/WikiData/WD~historical_linguist,88372589]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Historical_linguistics,104837518]]"
-part_of: "[[_Standards/WikiData/WD~historical,_comparative_and_typological_linguistics,113128713]]"
-subclass_of: "[[_Standards/WikiData/WD~linguistics,8162]]"
-Dewey_Decimal_Classification: "417"
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~branch_of_linguistics,135892289]]'
+practiced_by: '[[_Standards/WikiData/WD~historical_linguist,88372589]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Historical_linguistics,104837518]]'
+part_of: '[[_Standards/WikiData/WD~historical,_comparative_and_typological_linguistics,113128713]]'
+subclass_of: '[[_Standards/WikiData/WD~linguistics,8162]]'
+Dewey_Decimal_Classification: 417
 Library_of_Congress_Classification: P140-P143.3
 Stack_Exchange_tag: https://linguistics.stackexchange.com/tags/historical-linguistics
-Basisklassifikation: "17.15"
+Basisklassifikation: 17.15
 Wolfram_Language_entity_code: Entity["Concept", "DiachronicLinguistics::wz537"]
 Commons_category: Historical linguistics
 PhilPapers_topic: historical-linguistics

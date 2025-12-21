@@ -3,70 +3,70 @@ aliases:
   - atlas
   - Atlas
   - is_an_atlas
-  - Atlas:
+  - Atlas: ''
+has_id_wikidata: Q162827
 confidential: private
 cssclasses:
   - private
   - note
 draft: true
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - atlas
-layout:
+layout: ''
 license: (c)copyrighted
 linkTitle:
-  Atlas:
+  Atlas: ''
 publish: false
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
-  - Atlas:
+  - Atlas: ''
   - excalidraw
 title:
-  Atlas:
+  Atlas: ''
 type: private_note
-has_id_wikidata: Q162827
 instance_of:
-  - "[[_Standards/WikiData/WD~literary_genre,223393]]"
-  - "[[_Standards/WikiData/WD~genre,483394]]"
-  - "[[_Standards/WikiData/WD~cartographic_product,124608594]]"
+  - '[[_Standards/WikiData/WD~literary_genre,223393]]'
+  - '[[_Standards/WikiData/WD~genre,483394]]'
+  - '[[_Standards/WikiData/WD~cartographic_product,124608594]]'
 described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 different_from:
-  - "[[_Standards/WikiData/WD~atlas,1303310]]"
-  - "[[_Standards/WikiData/WD~atlas,105606599]]"
-  - "[[_Standards/WikiData/WD~anatomical_atlas,110912290]]"
+  - '[[_Standards/WikiData/WD~atlas,1303310]]'
+  - '[[_Standards/WikiData/WD~atlas,105606599]]'
+  - '[[_Standards/WikiData/WD~anatomical_atlas,110912290]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~map_series,1734578]]"
-  - "[[_Standards/WikiData/WD~cartographic_work,25106976]]"
-  - "[[_Standards/WikiData/WD~book,571]]"
-  - "[[../WikiData/WD~reference_work,13136]]"
-named_after: "[[_Standards/WikiData/WD~Atlas_of_Mauretania,4816856]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Atlas,6690593]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Atlas,13365287]]"
-studied_by: "[[_Standards/WikiData/WD~atlas_cartography,124611981]]"
-has_part_s_: "[[_Standards/WikiData/WD~map,4006]]"
-Nomenclature_for_Museum_Cataloging: "13396"
+  - '[[_Standards/WikiData/WD~map_series,1734578]]'
+  - '[[_Standards/WikiData/WD~cartographic_work,25106976]]'
+  - '[[_Standards/WikiData/WD~book,571]]'
+  - '[[../WikiData/WD~reference_work,13136]]'
+named_after: '[[_Standards/WikiData/WD~Atlas_of_Mauretania,4816856]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Atlas,6690593]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Atlas,13365287]]'
+studied_by: '[[_Standards/WikiData/WD~atlas_cartography,124611981]]'
+has_part_s_: '[[_Standards/WikiData/WD~map,4006]]'
+Nomenclature_for_Museum_Cataloging: 13396
 Commons_gallery: Atlas
 image: http://commons.wikimedia.org/wiki/Special:FilePath/OrteliusWorldMap.jpeg
 Commons_category: Atlases
 equivalent_class:
   - http://bibliograph.net/Atlas
   - https://schema.org/Atlas
-P8189: "987007295068605171"
+P8189: 987007295068605171
 UMLS_CUI: C0004171
 entry_in_abbreviations_table: атл.
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-has_Template: "[[Extract~Note~Template]]"
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": null }':
+  '{ "date:YYYY-MM-DD": null }': ''
 lang: en
 ---
 

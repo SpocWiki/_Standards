@@ -1,4 +1,7 @@
 ---
+aliases:
+  - has_Date_Time
+  - has Date Time
 icon: date
 ---
 

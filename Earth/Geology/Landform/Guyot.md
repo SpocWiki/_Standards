@@ -2,11 +2,12 @@
 aliases:
   - tablemount
   - seamount
+  - Guyot
 has_id_wikidata: Q151957
-named_after: "[[_Standards/WikiData/WD~Arnaud_Henri_Guyot,124032]]"
-named_by: "[[_Standards/WikiData/WD~Harry_Hammond_Hess,470792]]"
-subclass_of: "[[_Standards/WikiData/WD~seamount,503269]]"
-different_from: "[[_Standards/WikiData/WD~Q19933837,19933837]]"
+named_after: '[[_Standards/WikiData/WD~Arnaud_Henri_Guyot,124032]]'
+named_by: '[[_Standards/WikiData/WD~Harry_Hammond_Hess,470792]]'
+subclass_of: '[[_Standards/WikiData/WD~seamount,503269]]'
+different_from: '[[_Standards/WikiData/WD~Q19933837,19933837]]'
 bathymetry_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Atlantismeteorcomplex3d.png
   - http://commons.wikimedia.org/wiki/Special:FilePath/Hawaiian%20seamount%20chain.jpg

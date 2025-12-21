@@ -4,20 +4,22 @@ aliases:
   - pet_store
   - PetStore
   - is_a_pet_store
+  - Pet_Store
+  - Pet Store
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - pet_store
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_pet_store Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

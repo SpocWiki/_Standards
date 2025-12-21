@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~BuddhistTemple
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/BuddhistTemple
-- class/Thing/Place/CivicStructure/PlaceOfWorship/BuddhistTemple
-- is_a_/BuddhistTemple
-- schema-org/BuddhistTemple
+  - class/BuddhistTemple
+  - class/Thing/Place/CivicStructure/PlaceOfWorship/BuddhistTemple
+  - is_a_/BuddhistTemple
+  - schema-org/BuddhistTemple
 tags:
-- class/FileClass
-- class/BuddhistTemple
-- is_a_/BuddhistTemple
-- class/Thing/Place/CivicStructure/PlaceOfWorship/BuddhistTemple
+  - class/FileClass
+  - class/BuddhistTemple
+  - is_a_/BuddhistTemple
+  - class/Thing/Place/CivicStructure/PlaceOfWorship/BuddhistTemple
 version: 2.0
 ---
 

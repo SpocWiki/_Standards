@@ -1,5 +1,7 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Optician
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness
 fields: []
 icon: glasses
@@ -13,7 +15,7 @@ tagNames:
 tags:
   - class/FileClass
   - class/Optician
-  - "#is_an_/Optician"
+  - '#is_an_/Optician'
   - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/Optician
 version: 2
 ---

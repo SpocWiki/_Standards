@@ -4,20 +4,22 @@ aliases:
   - auto_rental
   - AutoRental
   - is_an_auto_rental
+  - Auto_Rental
+  - Auto Rental
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - auto_rental
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_auto_rental Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

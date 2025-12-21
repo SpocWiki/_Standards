@@ -1,12 +1,14 @@
 ---
+aliases:
+  - Anti-Clericalism
 has_id_wikidata: Q478004
 subclass_of:
-  - "[[_Standards/WikiData/WD~political_opposition,192852]]"
-  - "[[_Standards/WikiData/WD~opposition,3884233]]"
-opposite_of: "[[_Standards/WikiData/WD~clericalism,747439]]"
-instance_of: "[[_Standards/WikiData/WD~political_ideology,12909644]]"
-facet_of: "[[_Standards/WikiData/WD~religion,9174]]"
-P8189: "987007295600005171"
+  - '[[_Standards/WikiData/WD~political_opposition,192852]]'
+  - '[[_Standards/WikiData/WD~opposition,3884233]]'
+opposite_of: '[[_Standards/WikiData/WD~clericalism,747439]]'
+instance_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+facet_of: '[[_Standards/WikiData/WD~religion,9174]]'
+P8189: 987007295600005171
 Commons_category: Anticlericalism
 Library_of_Congress_Classification: BR1625
 ---

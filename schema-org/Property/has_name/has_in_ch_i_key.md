@@ -4,12 +4,14 @@ aliases:
   - in_ch_i_key
   - inChIKey
   - has_text_of_in_ch_i_key
+  - has_in_ch_i_key
+  - has in ch i key
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +19,11 @@ keywords:
   - ch
   - i
   - key
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_in_ch_i_key
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

@@ -1,32 +1,34 @@
 ---
-excludes: 
+aliases:
+  - FileClass~RentAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 fields:
-- id: kh9dRV
-  name: Landlord
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: tphgNR
-  name: RealEstateAgent
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RealEstateAgent')"
-  type: MultiFile
-  path: ''
+  - id: kh9dRV
+    name: Landlord
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: tphgNR
+    name: RealEstateAgent
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RealEstateAgent')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/RentAction
-- class/Thing/Action/TradeAction/RentAction
-- is_a_/RentAction
-- schema-org/RentAction
+  - class/RentAction
+  - class/Thing/Action/TradeAction/RentAction
+  - is_a_/RentAction
+  - schema-org/RentAction
 tags:
-- class/FileClass
-- class/RentAction
-- is_a_/RentAction
-- class/Thing/Action/TradeAction/RentAction
+  - class/FileClass
+  - class/RentAction
+  - is_a_/RentAction
+  - class/Thing/Action/TradeAction/RentAction
 version: 2.0
 ---
 

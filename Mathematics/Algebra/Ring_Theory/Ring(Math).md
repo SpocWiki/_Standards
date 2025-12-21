@@ -2,24 +2,25 @@
 aliases:
   - Ring
   - rng
+  - Ring(Math)
 has_id_wikidata: Q161172
 underlying_structure_s_:
-  - "[[_Standards/WikiData/WD~abelian_group,181296]]"
-  - "[[_Standards/WikiData/WD~monoid,208237]]"
-  - "[[_Standards/WikiData/WD~non_empty_set,10533491]]"
-studied_by: "[[_Standards/WikiData/WD~ring_theory,1208658]]"
+  - '[[_Standards/WikiData/WD~abelian_group,181296]]'
+  - '[[_Standards/WikiData/WD~monoid,208237]]'
+  - '[[_Standards/WikiData/WD~non_empty_set,10533491]]'
+studied_by: '[[_Standards/WikiData/WD~ring_theory,1208658]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~semiring,1333055]]"
-  - "[[_Standards/WikiData/WD~nonassociative_ring,13512116]]"
-  - "[[_Standards/WikiData/WD~rng,17102802]]"
+  - '[[_Standards/WikiData/WD~semiring,1333055]]'
+  - '[[_Standards/WikiData/WD~nonassociative_ring,13512116]]'
+  - '[[_Standards/WikiData/WD~rng,17102802]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~additive_identity,2767837]]"
-  - "[[_Standards/WikiData/WD~multiplicative_identity,68019776]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~additive_identity,2767837]]'
+  - '[[_Standards/WikiData/WD~multiplicative_identity,68019776]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 different_from:
-  - "[[_Standards/WikiData/WD~nonassociative_ring,13512116]]"
-  - "[[_Standards/WikiData/WD~rng,17102802]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~nonassociative_ring,13512116]]'
+  - '[[_Standards/WikiData/WD~rng,17102802]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt"><mtr><mtd><mo stretchy="false">(</mo><mi>r</mi><mo stretchy="false">+</mo><mi>s</mi><mo stretchy="false">)</mo><mo stretchy="false">+</mo><mi>t</mi></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mo stretchy="false">+</mo><mo stretchy="false">(</mo><mi>s</mi><mo stretchy="false">+</mo><mi>t</mi><mo stretchy="false">)</mo></mtd></mtr><mtr><mtd><mo stretchy="false">(</mo><mi>r</mi><mi>s</mi><mo stretchy="false">)</mo><mi>t</mi></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mo stretchy="false">(</mo><mi>s</mi><mi>t</mi><mo stretchy="false">)</mo></mtd></mtr><mtr><mtd></mtd></mtr></mtable></mrow></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt"><mtr><mtd><mi>r</mi><mo stretchy="false">(</mo><mi>s</mi><mo stretchy="false">+</mo><mi>t</mi><mo stretchy="false">)</mo></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mi>s</mi><mo stretchy="false">+</mo><mi>r</mi><mi>t</mi></mtd></mtr><mtr><mtd><mo stretchy="false">(</mo><mi>r</mi><mo stretchy="false">+</mo><mi>s</mi><mo stretchy="false">)</mo><mi>t</mi></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mi>t</mi><mo stretchy="false">+</mo><mi>s</mi><mi>t</mi></mtd></mtr></mtable></mrow></mstyle></mrow></math>
@@ -27,7 +28,7 @@ in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>0</mn></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>r</mi><mo stretchy="false">+</mo><mi>s</mi><mo stretchy="false">=</mo><mi>s</mi><mo stretchy="false">+</mo><mi>r</mi></mstyle></mrow></math>
-OmegaWiki_Defined_Meaning: "384031"
+OmegaWiki_Defined_Meaning: 384031
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Dedekind.jpeg
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt"><mtr><mtd><mo stretchy="false">(</mo><mi>r</mi><mo stretchy="false">+</mo><mi>s</mi><mo stretchy="false">)</mo><mo stretchy="false">+</mo><mi>t</mi></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mo stretchy="false">+</mo><mo stretchy="false">(</mo><mi>s</mi><mo stretchy="false">+</mo><mi>t</mi><mo stretchy="false">)</mo></mtd></mtr><mtr><mtd><mi>r</mi><mo stretchy="false">+</mo><mi>s</mi></mtd><mtd><mo stretchy="false">=</mo><mi>s</mi><mo stretchy="false">+</mo><mi>r</mi></mtd></mtr><mtr><mtd><mi>r</mi><mo stretchy="false">+</mo><mn>0</mn></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi></mtd></mtr><mtr><mtd><mi>r</mi><mo stretchy="false">+</mo><mo stretchy="false">(</mo><mo stretchy="false">&#x2212;</mo><mi>r</mi><mo stretchy="false">)</mo></mtd><mtd><mo stretchy="false">=</mo><mn>0</mn></mtd></mtr><mtr><mtd><mo stretchy="false">(</mo><mi>r</mi><mi>s</mi><mo stretchy="false">)</mo><mi>t</mi></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mo stretchy="false">(</mo><mi>s</mi><mi>t</mi><mo stretchy="false">)</mo></mtd></mtr><mtr><mtd><mn>1</mn><mi>r</mi><mo stretchy="false">=</mo><mi>r</mi><mn>1</mn></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi></mtd></mtr><mtr><mtd><mi>r</mi><mo stretchy="false">(</mo><mi>s</mi><mo stretchy="false">+</mo><mi>t</mi><mo stretchy="false">)</mo></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mi>s</mi><mo stretchy="false">+</mo><mi>r</mi><mi>t</mi></mtd></mtr><mtr><mtd><mo stretchy="false">(</mo><mi>r</mi><mo stretchy="false">+</mo><mi>s</mi><mo stretchy="false">)</mo><mi>t</mi></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mi>t</mi><mo stretchy="false">+</mo><mi>s</mi><mi>t</mi></mtd></mtr></mtable></mrow></mstyle></mrow></math>
 ---

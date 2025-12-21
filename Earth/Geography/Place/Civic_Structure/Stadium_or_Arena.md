@@ -4,21 +4,23 @@ aliases:
   - stadium_or_arena
   - StadiumOrArena
   - is_a_stadium_or_arena
+  - Stadium_or_Arena
+  - Stadium or Arena
 has_id_wikidata: Q483110
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - stadium_or_arena
-layout:
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_stadium_or_arena Class
 publish: true
-publishDate:
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
@@ -57,16 +59,16 @@ properties_for_this_type:
   - located in the administrative territorial entity
   - operator
 Wikidata_property: home venue
-Nomenclature_for_Museum_Cataloging: "702"
+Nomenclature_for_Museum_Cataloging: 702
 Wolfram_Language_entity_type: Stadium
 Commons_gallery: Stadium
-U_S_National_Archives_Identifier: "10645160"
+U_S_National_Archives_Identifier: 10645160
 IMDb_keyword: stadium
-OmegaWiki_Defined_Meaning: "366536"
+OmegaWiki_Defined_Meaning: 366536
 Dewey_Decimal_Classification:
-  - "796.068"
-  - "725.827"
-  - "796.4068"
+  - 796.068
+  - 725.827
+  - 796.4068
 Commons_category: Stadiums
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Camp%20nou%20before%20F.C.%20Barcelona%20-%20Real%20Madrid%20league%20match%20of%202012.JPG
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Stadion2.ogg
@@ -78,7 +80,7 @@ OpenStreetMap_tag:
   - leisure=stadium
 ---
 
-# [[Stadium_or_Arena]] 
+# [[Stadium_or_Arena]] 🏟 
 
 #is_/same_as :: [[../../../../WikiData/WD~Stadium,483110|WD~Stadium,483110]] 
 

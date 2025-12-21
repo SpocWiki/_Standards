@@ -4,21 +4,22 @@ aliases:
   - cvd-num-tot-beds
   - cvdNumTotBeds
   - has_number_of_Covid_tot_beds
+  - has number of Covid tot beds
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - cvd-num-tot-beds
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_cvd-num-tot-beds
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

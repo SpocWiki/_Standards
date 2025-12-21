@@ -4,22 +4,24 @@ aliases:
   - access_mode
   - accessMode
   - has_text_of_access_mode
+  - has_access_mode
+  - has access mode
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - access
   - mode
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_access_mode
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

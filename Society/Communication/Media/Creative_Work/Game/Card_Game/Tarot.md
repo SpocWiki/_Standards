@@ -4,23 +4,24 @@ aliases:
   - tarocchi
   - tarocks
   - tarot
+  - Tarot
 has_id_wikidata: Q583269
 has_use:
-  - "[[_Standards/WikiData/WD~tarot_card_reading,126645]]"
-  - "[[_Standards/WikiData/WD~tarot_card_game,510406]]"
-  - "[[_Standards/WikiData/WD~divination,1043197]]"
-different_from: "[[_Standards/WikiData/WD~tarot_card_game,510406]]"
+  - '[[_Standards/WikiData/WD~tarot_card_reading,126645]]'
+  - '[[_Standards/WikiData/WD~tarot_card_game,510406]]'
+  - '[[_Standards/WikiData/WD~divination,1043197]]'
+different_from: '[[_Standards/WikiData/WD~tarot_card_game,510406]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~card_deck,3418492]]"
-  - "[[_Standards/WikiData/WD~religious_object,12910132]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~tarot_card,12058324]]"
-Nomenclature_for_Museum_Cataloging: "14231"
+  - '[[_Standards/WikiData/WD~card_deck,3418492]]'
+  - '[[_Standards/WikiData/WD~religious_object,12910132]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~tarot_card,12058324]]'
+Nomenclature_for_Museum_Cataloging: 14231
 Commons_gallery: Tarot
 subreddit: tarot
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Playingtrumps.gif
-Iconclass_notation: "13E221"
+Iconclass_notation: 13E221
 Commons_category: Tarot cards
-Dewey_Decimal_Classification: "133.32424"
+Dewey_Decimal_Classification: 133.32424
 ---
 
 # [[Tarot]] 

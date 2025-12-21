@@ -3,12 +3,13 @@ aliases:
   - has program-membership-used
   - programMembershipUsed
   - has_program_membership_used
+  - has program membership used
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - program
   - membership
   - used
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_program_membership_used
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

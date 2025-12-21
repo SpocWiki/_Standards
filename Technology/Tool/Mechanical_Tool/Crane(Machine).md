@@ -1,24 +1,25 @@
 ---
 aliases:
   - Kran
+  - Crane(Machine)
 has_id_wikidata: Q178692
 subclass_of:
-  - "[[_Standards/WikiData/WD~lifting_equipment,173878]]"
-  - "[[_Standards/WikiData/WD~material_handling_equipment,15984860]]"
-item_operated: "[[_Standards/WikiData/WD~lifting_hook,495451]]"
+  - '[[_Standards/WikiData/WD~lifting_equipment,173878]]'
+  - '[[_Standards/WikiData/WD~material_handling_equipment,15984860]]'
+item_operated: '[[_Standards/WikiData/WD~lifting_hook,495451]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-operator: "[[_Standards/WikiData/WD~crane_driver,2561741]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+operator: '[[_Standards/WikiData/WD~crane_driver,2561741]]'
 source_of_energy:
-  - "[[_Standards/WikiData/WD~human_energy,20984829]]"
+  - '[[_Standards/WikiData/WD~human_energy,20984829]]'
   - http://www.wikidata.org/.well-known/genid/01901288507ada457334a34a6e315361
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_crane,22842545]]"
-has_part_s_: "[[_Standards/WikiData/WD~cockpit,55669353]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_crane,22842545]]'
+has_part_s_: '[[_Standards/WikiData/WD~cockpit,55669353]]'
 discoverer_or_inventor: http://www.wikidata.org/.well-known/genid/f67ab47cf5898787239711828fa145aa
-OmegaWiki_Defined_Meaning: "7641"
+OmegaWiki_Defined_Meaning: 7641
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Turmdrehkran-liebherr.jpg
 exact_match: http://wordnet-rdf.princeton.edu/wn30/03126707-n
 Commons_gallery: Cranes (machines)

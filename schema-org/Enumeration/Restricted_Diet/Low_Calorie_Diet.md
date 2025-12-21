@@ -4,21 +4,23 @@ aliases:
   - low_calorie_diet
   - LowCalorieDiet
   - is_a_low_calorie_diet
+  - Low_Calorie_Diet
+  - Low Calorie Diet
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: RestrictedDiet
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - low_calorie_diet
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_low_calorie_diet Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

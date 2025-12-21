@@ -1,33 +1,34 @@
 ---
 aliases:
   - Seele
+  - Soul
 has_id_wikidata: Q9165
 part_of:
-  - "[[_Standards/WikiData/WD~person,215627]]"
-  - "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-  - "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~person,215627]]'
+  - '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+  - '[[_Standards/WikiData/WD~human,5]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
-has_characteristic: "[[_Standards/WikiData/WD~Christian_mortalism,1794963]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~Q3179298,3179298]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+has_characteristic: '[[_Standards/WikiData/WD~Christian_mortalism,1794963]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Q3179298,3179298]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Q9368348,9368348]]"
-  - "[[_Standards/WikiData/WD~spirit,120312205]]"
-instance_of: "[[_Standards/WikiData/WD~religious_concept,23847174]]"
-subclass_of: "[[_Standards/WikiData/WD~mind,450]]"
+  - '[[_Standards/WikiData/WD~Q9368348,9368348]]'
+  - '[[_Standards/WikiData/WD~spirit,120312205]]'
+instance_of: '[[_Standards/WikiData/WD~religious_concept,23847174]]'
+subclass_of: '[[_Standards/WikiData/WD~mind,450]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
-OmegaWiki_Defined_Meaning: "349815"
+  - '[[_Standards/WikiData/WD~philosophy,5891]]'
+  - '[[_Standards/WikiData/WD~religion,9174]]'
+OmegaWiki_Defined_Meaning: 349815
 Commons_category: Soul
 PhilPapers_topic: the-soul
 Colon_Classification: Q:34

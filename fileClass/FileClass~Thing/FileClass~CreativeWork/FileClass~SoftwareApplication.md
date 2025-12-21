@@ -1,134 +1,136 @@
 ---
-excludes: 
+aliases:
+  - FileClass~SoftwareApplication
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: mF2KYR
-  name: ApplicationCategory
-  options: {}
-  type: Input
-  path: ''
-- id: VjDGg8
-  name: ApplicationSubCategory
-  options: {}
-  type: Input
-  path: ''
-- id: 4CJks5
-  name: ApplicationSuite
-  options: {}
-  type: Input
-  path: ''
-- id: CIhYlg
-  name: AvailableOnDevice
-  options: {}
-  type: Input
-  path: ''
-- id: PxgvKr
-  name: CountriesNotSupported
-  options: {}
-  type: Input
-  path: ''
-- id: Z8fqtk
-  name: CountriesSupported
-  options: {}
-  type: Input
-  path: ''
-- id: p8d6rP
-  name: DownloadUrl
-  options: {}
-  type: Input
-  path: ''
-- id: jMPiYB
-  name: FeatureList
-  options: {}
-  type: Input
-  path: ''
-- id: BuL3VY
-  name: FileSize
-  options: {}
-  type: Input
-  path: ''
-- id: fp9WLJ
-  name: InstallUrl
-  options: {}
-  type: Input
-  path: ''
-- id: BS5wbt
-  name: MemoryRequirements
-  options: {}
-  type: Input
-  path: ''
-- id: dJmBCK
-  name: OperatingSystem
-  options: {}
-  type: Input
-  path: ''
-- id: uab5tn
-  name: Permissions
-  options: {}
-  type: Input
-  path: ''
-- id: nffEs1
-  name: ProcessorRequirements
-  options: {}
-  type: Input
-  path: ''
-- id: xmUVeB
-  name: ReleaseNotes
-  options: {}
-  type: Input
-  path: ''
-- id: fF3Frr
-  name: Screenshot
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"
-  type: MultiFile
-  path: ''
-- id: ENTDN1
-  name: SoftwareAddOn
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/SoftwareApplication')"
-  type: MultiFile
-  path: ''
-- id: 760UTW
-  name: SoftwareHelp
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
-  type: MultiFile
-  path: ''
-- id: jIvoiH
-  name: SoftwareRequirements
-  options: {}
-  type: Input
-  path: ''
-- id: yIS1bn
-  name: SoftwareVersion
-  options: {}
-  type: Input
-  path: ''
-- id: OQTiGd
-  name: StorageRequirements
-  options: {}
-  type: Input
-  path: ''
-- id: m64bMg
-  name: SupportingData
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Dataset/DataFeed')"
-  type: MultiFile
-  path: ''
+  - id: mF2KYR
+    name: ApplicationCategory
+    options: {}
+    type: Input
+    path: ''
+  - id: VjDGg8
+    name: ApplicationSubCategory
+    options: {}
+    type: Input
+    path: ''
+  - id: 4CJks5
+    name: ApplicationSuite
+    options: {}
+    type: Input
+    path: ''
+  - id: CIhYlg
+    name: AvailableOnDevice
+    options: {}
+    type: Input
+    path: ''
+  - id: PxgvKr
+    name: CountriesNotSupported
+    options: {}
+    type: Input
+    path: ''
+  - id: Z8fqtk
+    name: CountriesSupported
+    options: {}
+    type: Input
+    path: ''
+  - id: p8d6rP
+    name: DownloadUrl
+    options: {}
+    type: Input
+    path: ''
+  - id: jMPiYB
+    name: FeatureList
+    options: {}
+    type: Input
+    path: ''
+  - id: BuL3VY
+    name: FileSize
+    options: {}
+    type: Input
+    path: ''
+  - id: fp9WLJ
+    name: InstallUrl
+    options: {}
+    type: Input
+    path: ''
+  - id: BS5wbt
+    name: MemoryRequirements
+    options: {}
+    type: Input
+    path: ''
+  - id: dJmBCK
+    name: OperatingSystem
+    options: {}
+    type: Input
+    path: ''
+  - id: uab5tn
+    name: Permissions
+    options: {}
+    type: Input
+    path: ''
+  - id: nffEs1
+    name: ProcessorRequirements
+    options: {}
+    type: Input
+    path: ''
+  - id: xmUVeB
+    name: ReleaseNotes
+    options: {}
+    type: Input
+    path: ''
+  - id: fF3Frr
+    name: Screenshot
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
+    type: MultiFile
+    path: ''
+  - id: ENTDN1
+    name: SoftwareAddOn
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/SoftwareApplication')
+    type: MultiFile
+    path: ''
+  - id: 760UTW
+    name: SoftwareHelp
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ''
+  - id: jIvoiH
+    name: SoftwareRequirements
+    options: {}
+    type: Input
+    path: ''
+  - id: yIS1bn
+    name: SoftwareVersion
+    options: {}
+    type: Input
+    path: ''
+  - id: OQTiGd
+    name: StorageRequirements
+    options: {}
+    type: Input
+    path: ''
+  - id: m64bMg
+    name: SupportingData
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Dataset/DataFeed')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/SoftwareApplication
-- class/Thing/CreativeWork/SoftwareApplication
-- is_a_/SoftwareApplication
-- schema-org/SoftwareApplication
+  - class/SoftwareApplication
+  - class/Thing/CreativeWork/SoftwareApplication
+  - is_a_/SoftwareApplication
+  - schema-org/SoftwareApplication
 tags:
-- class/FileClass
-- class/SoftwareApplication
-- is_a_/SoftwareApplication
-- class/Thing/CreativeWork/SoftwareApplication
+  - class/FileClass
+  - class/SoftwareApplication
+  - is_a_/SoftwareApplication
+  - class/Thing/CreativeWork/SoftwareApplication
 version: 2.0
 ---
 

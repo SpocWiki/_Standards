@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Kenneth Charles Branagh"
-- "Kenneth Branagh"
+  - Kenneth Charles Branagh
+  - Kenneth Branagh
+  - Branagh,Kenneth
 ---
 
 #has_/time_/started :: 1960-12-10 

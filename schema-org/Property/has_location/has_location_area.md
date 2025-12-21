@@ -4,21 +4,22 @@ aliases:
   - area
   - area
   - has_location_area
+  - has location area
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - area
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_area
 publish: true
-publishDate:
+publishDate: ''
 superseded_by: serviceArea
 tags:
   - class/Property

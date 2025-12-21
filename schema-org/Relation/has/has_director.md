@@ -1,29 +1,29 @@
 ---
 aliases:
-- has director
-- has_director
-- "schema:director"
-- "dbo:director"
-- "wdt:P57"
+  - has director
+  - has_director
+  - schema:director
+  - dbo:director
+  - wdt:P57
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- director
-layout: 
-license: "CC BY-SA 4.0"
+  - director
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_director
 publish: true
-publishDate: 
+publishDate: ''
 supersedes: directors
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_director
 type: Predi_Relation
 ---

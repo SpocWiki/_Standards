@@ -4,21 +4,23 @@ aliases:
   - prevention_health_aspect
   - PreventionHealthAspect
   - is_a_prevention_health_aspect
+  - Prevention_Health_Aspect
+  - Prevention Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - prevention_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_prevention_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

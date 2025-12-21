@@ -1,17 +1,19 @@
 ---
 aliases:
   - convex set
+  - Convex_Set
+  - Convex Set
 has_id_wikidata: Q193657
 part_of:
-  - "[[_Standards/WikiData/WD~affine_space,382698]]"
-  - "[[_Standards/WikiData/WD~list_of_types_of_sets,28659876]]"
+  - '[[_Standards/WikiData/WD~affine_space,382698]]'
+  - '[[_Standards/WikiData/WD~list_of_types_of_sets,28659876]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~star_domain,769917]]"
-  - "[[_Standards/WikiData/WD~topological_subspace,77613467]]"
-studied_by: "[[_Standards/WikiData/WD~convex_geometry,1783542]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-has_characteristic: "[[_Standards/WikiData/WD~convexity,52927961]]"
-opposite_of: "[[_Standards/WikiData/WD~non_convex_set,91483756]]"
+  - '[[_Standards/WikiData/WD~star_domain,769917]]'
+  - '[[_Standards/WikiData/WD~topological_subspace,77613467]]'
+studied_by: '[[_Standards/WikiData/WD~convex_geometry,1783542]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+has_characteristic: '[[_Standards/WikiData/WD~convexity,52927961]]'
+opposite_of: '[[_Standards/WikiData/WD~non_convex_set,91483756]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Convex%20polygon%20illustration1.svg
 Commons_category: Convexity
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>k</mi><mo stretchy="false">=</mo><mn>1</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>r</mi></mrow></munderover></mstyle><msub><mi>&#x03BB;</mi><mrow data-mjx-texclass="ORD"><mi>k</mi></mrow></msub><msub><mi>u</mi><mrow data-mjx-texclass="ORD"><mi>k</mi></mrow></msub><mo stretchy="false">&#x2208;</mo><mi>S</mi><mo>,</mo><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>k</mi><mo stretchy="false">=</mo><mn>1</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>r</mi></mrow></munderover></mstyle><msub><mi>&#x03BB;</mi><mrow data-mjx-texclass="ORD"><mi>k</mi></mrow></msub><mo stretchy="false">=</mo><mn>1</mn></mstyle></mrow></math>

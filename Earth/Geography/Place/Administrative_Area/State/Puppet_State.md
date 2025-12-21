@@ -4,17 +4,19 @@ aliases:
   - puppet régime
   - puppet government
   - dummy government
+  - Puppet_State
+  - Puppet State
 has_id_wikidata: Q208164
-opposite_of: "[[_Standards/WikiData/WD~great_power,185145]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~satellite_state,325261]]"
+opposite_of: '[[_Standards/WikiData/WD~great_power,185145]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~satellite_state,325261]]'
 different_from:
-  - "[[_Standards/WikiData/WD~client_state,1151405]]"
-  - "[[_Standards/WikiData/WD~vassal_state,1371288]]"
-subclass_of: "[[_Standards/WikiData/WD~client_state,1151405]]"
+  - '[[_Standards/WikiData/WD~client_state,1151405]]'
+  - '[[_Standards/WikiData/WD~vassal_state,1371288]]'
+subclass_of: '[[_Standards/WikiData/WD~client_state,1151405]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~international_law,4394526]]"
-  - "[[_Standards/WikiData/WD~political_science,36442]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Puppet_ruler,7260719]]"
+  - '[[_Standards/WikiData/WD~international_law,4394526]]'
+  - '[[_Standards/WikiData/WD~political_science,36442]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Puppet_ruler,7260719]]'
 Commons_category: Puppet states
 ---
 

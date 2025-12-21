@@ -8,27 +8,28 @@ aliases:
   - Соломоновы Острова
   - las Islas Salomón
   - Islas Salomón (las)
+  - Solomon_Islands
 has_id_wikidata: Q685
 confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate:
+expiryDate: ''
 icon: flag-sb
 isDeleted: false
 isReadOnly: false
-keywords:
+keywords: ''
 Languages:
   - en-SB
   - tpi
-layout:
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 location:
   - -9.46667
   - 159.817
 publish: true
-publishDate:
+publishDate: ''
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 27010
 tags:

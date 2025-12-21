@@ -4,21 +4,22 @@ aliases:
   - in_store_return_offered
   - inStoreReturnsOffered
   - is_in_store_return_offered
+  - is in store return offered
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - in_store_return_offered
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_in_store_return_offered
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

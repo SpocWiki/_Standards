@@ -2,29 +2,30 @@
 aliases:
   - Bundesstaat
   - föderaler Staat
+  - Federation
 has_id_wikidata: Q43702
 different_from:
-  - "[[_Standards/WikiData/WD~confederation,170156]]"
-  - "[[_Standards/WikiData/WD~federation,5440723]]"
-  - "[[_Standards/WikiData/WD~federation,132125429]]"
-opposite_of: "[[_Standards/WikiData/WD~unitary_state,179164]]"
-facet_of: "[[_Standards/WikiData/WD~federalism,204886]]"
-has_part_s_: "[[_Standards/WikiData/WD~federal_republic,512187]]"
+  - '[[_Standards/WikiData/WD~confederation,170156]]'
+  - '[[_Standards/WikiData/WD~federation,5440723]]'
+  - '[[_Standards/WikiData/WD~federation,132125429]]'
+opposite_of: '[[_Standards/WikiData/WD~unitary_state,179164]]'
+facet_of: '[[_Standards/WikiData/WD~federalism,204886]]'
+has_part_s_: '[[_Standards/WikiData/WD~federal_republic,512187]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~political_union,1140229]]"
-  - "[[_Standards/WikiData/WD~federal_system,22676603]]"
-instance_of: "[[_Standards/WikiData/WD~form_of_government,1307214]]"
-manifestation_of: "[[_Standards/WikiData/WD~federal_system,22676603]]"
-has_cause: "[[_Standards/WikiData/WD~interstate_agreement,76806512]]"
+  - '[[_Standards/WikiData/WD~political_union,1140229]]'
+  - '[[_Standards/WikiData/WD~federal_system,22676603]]'
+instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214]]'
+manifestation_of: '[[_Standards/WikiData/WD~federal_system,22676603]]'
+has_cause: '[[_Standards/WikiData/WD~interstate_agreement,76806512]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Carte%20suisse2.png
-Dewey_Decimal_Classification: "321.02"
+Dewey_Decimal_Classification: 321.02
 Commons_category: Federación
 ---
 

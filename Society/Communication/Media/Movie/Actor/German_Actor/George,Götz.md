@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Götz George"
-- "Götz Karl August George"
+  - Götz George
+  - Götz Karl August George
+  - George,Götz
 ---
 
 # [[George,Götz]] 

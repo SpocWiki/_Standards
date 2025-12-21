@@ -1,29 +1,30 @@
 ---
 aliases:
   - Kathedrale
+  - Cathedral
 has_id_wikidata: Q2977
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-instance_of: "[[_Standards/WikiData/WD~building_type,811102]]"
-locations: "[[_Standards/WikiData/WD~episcopal_see,866196]]"
-headquarters_locations: "[[_Standards/WikiData/WD~episcopal_see,866196]]"
-contains: "[[_Standards/WikiData/WD~cathedra,1138500]]"
-named_after: "[[_Standards/WikiData/WD~cathedra,1138500]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+instance_of: '[[_Standards/WikiData/WD~building_type,811102]]'
+locations: '[[_Standards/WikiData/WD~episcopal_see,866196]]'
+headquarters_locations: '[[_Standards/WikiData/WD~episcopal_see,866196]]'
+contains: '[[_Standards/WikiData/WD~cathedra,1138500]]'
+named_after: '[[_Standards/WikiData/WD~cathedra,1138500]]'
 occupant:
-  - "[[_Standards/WikiData/WD~high_priest,1399157]]"
-  - "[[_Standards/WikiData/WD~bishop,29182]]"
+  - '[[_Standards/WikiData/WD~high_priest,1399157]]'
+  - '[[_Standards/WikiData/WD~bishop,29182]]'
 different_from:
-  - "[[_Standards/WikiData/WD~former_cathedral,97588309]]"
-  - "[[_Standards/WikiData/WD~Katedra,105415360]]"
-depicted_by: "[[_Standards/WikiData/WD~Cathedral,131576649]]"
+  - '[[_Standards/WikiData/WD~former_cathedral,97588309]]'
+  - '[[_Standards/WikiData/WD~Katedra,105415360]]'
+depicted_by: '[[_Standards/WikiData/WD~Cathedral,131576649]]'
 Wikidata_property: cathedral
-subclass_of: "[[_Standards/WikiData/WD~church_building,16970]]"
-Nomenclature_for_Museum_Cataloging: "588"
-U_S_National_Archives_Identifier: "10674952"
+subclass_of: '[[_Standards/WikiData/WD~church_building,16970]]'
+Nomenclature_for_Museum_Cataloging: 588
+U_S_National_Archives_Identifier: 10674952
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Dom2.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Kathedrale.ogg
@@ -32,7 +33,7 @@ Commons_category: Cathedrals
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Canterbury%20Cathedral%20-%20Portal%20Nave%20Cross-spire.jpeg
   - http://commons.wikimedia.org/wiki/Special:FilePath/CathedraleNotre-DameDeParis.jpg
-P8189: "987007284850805171"
+P8189: 987007284850805171
 OpenStreetMap_tag_or_key: Tag:building=cathedral
 ---
 

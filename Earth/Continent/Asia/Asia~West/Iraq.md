@@ -8,6 +8,7 @@ aliases:
   - la República del Iraq
   - Iraq (el)
   - Irak
+has_id_wikidata: Q796
 follows: "[[_Standards/WikiData/WD~Kingdom_of_Iraq,149805]]"
 member_of:
   - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
@@ -314,7 +315,7 @@ Commons_gallery: العراق
 Gujarati_Vishwakosh_entry: ઇરાક
 short_name: 🇮🇶
 population: 38274618
-inception: "1932"
+inception: 1932
 has_time_started: 1932-06
 licence_plate_code: IRQ
 ISO_3166_1_alpha_3_code: IRQ
@@ -353,7 +354,6 @@ BHCL_UUID:
 Wolfram_Language_entity_code: Entity["HistoricalCountry", "Iraq"]
 CIVICUS_Monitor_country_entry: iraq
 GitHub_topic: iraq
-has_id_wikidata: Q796
 location:
   - 33.34
   - 44.42
@@ -370,12 +370,12 @@ cssclasses:
   - Country
 publish: true
 title: Iraq
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 Languages:
   - ar-IQ
   - ku

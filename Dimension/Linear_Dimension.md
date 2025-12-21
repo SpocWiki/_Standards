@@ -2,7 +2,7 @@
 aliases:
   - Linear Dimension
   - Linear_Dimension
-  - 
+  - ''
 ---
 
 # [[Linear_Dimension]] 

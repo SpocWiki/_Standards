@@ -2,21 +2,22 @@
 aliases:
   - equals
   - is_equal_to
+  - is equal to
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - equal
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_equal_to
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

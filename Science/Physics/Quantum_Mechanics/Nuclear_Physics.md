@@ -3,16 +3,18 @@ aliases:
   - Kernphysik
   - Nuclear physics
   - Nuklearphysik
+  - Nuclear_Physics
+  - Nuclear Physics
 has_id_wikidata: Q81197
-instance_of: "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Nuclear_physics,6931796]]"
-practiced_by: "[[_Standards/WikiData/WD~nuclear_physicist,16742096]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-part_of: "[[_Standards/WikiData/WD~physics,413]]"
-is_the_study_of: "[[_Standards/WikiData/WD~atomic_nucleus,37147]]"
-OmegaWiki_Defined_Meaning: "2576"
-Dewey_Decimal_Classification: "539.7"
-U_S_National_Archives_Identifier: "10642231"
+instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Nuclear_physics,6931796]]'
+practiced_by: '[[_Standards/WikiData/WD~nuclear_physicist,16742096]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+part_of: '[[_Standards/WikiData/WD~physics,413]]'
+is_the_study_of: '[[_Standards/WikiData/WD~atomic_nucleus,37147]]'
+OmegaWiki_Defined_Meaning: 2576
+Dewey_Decimal_Classification: 539.7
+U_S_National_Archives_Identifier: 10642231
 Commons_category: Nuclear physics
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NuclearReaction.svg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/nuclear-physics

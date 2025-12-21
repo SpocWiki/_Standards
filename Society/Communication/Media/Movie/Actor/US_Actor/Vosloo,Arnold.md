@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Arnold Vosloo"
+  - Arnold Vosloo
+  - Vosloo,Arnold
 ---
 
 #has_/time_/started :: 1962-06-16 

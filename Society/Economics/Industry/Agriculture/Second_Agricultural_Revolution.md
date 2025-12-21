@@ -1,42 +1,43 @@
 ---
 aliases:
-- "British Agricultural Revolution"
-- "Second Agricultural Revolution"
+  - British Agricultural Revolution
+  - Second Agricultural Revolution
+  - Second_Agricultural_Revolution
 confidential: private
 cssclasses:
-- private
-- note
+  - private
+  - note
 draft: true
-expiryDate: 
+expiryDate: ''
 has_Template:
-- Extract~Note~Template
+  - Extract~Note~Template
 has_time_started: 2024-06-23
 isDeleted: false
 isReadOnly: false
-keywords: "British Agricultural Revolution"
+keywords: British Agricultural Revolution
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
-linkTitle: "British Agricultural Revolution"
+linkTitle: British Agricultural Revolution
 publish: false
-publishDate: 
+publishDate: ''
 TableByName:
   British_Agricultural_Revolution.tsv:
     columns:
-    - Year
-    - Wheat
-    - Rye
-    - Barley
-    - Oats
-    - Peas
-    - '%/Year/Worker'
-    headings: 
-    align: "|---|--:|:--|:-:|"
+      - Year
+      - Wheat
+      - Rye
+      - Barley
+      - Oats
+      - Peas
+      - '%/Year/Worker'
+    headings: ''
+    align: '|---|--:|:--|:-:|'
 tags:
-- British
-- Agricultural
-- Revolution
-title: "British Agricultural Revolution"
+  - British
+  - Agricultural
+  - Revolution
+title: British Agricultural Revolution
 type: private_note
 ---
 

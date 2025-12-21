@@ -4,21 +4,23 @@ aliases:
   - hindu_diet
   - HinduDiet
   - is_a_hindu_diet
+  - Hindu_Diet
+  - Hindu Diet
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: RestrictedDiet
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - hindu_diet
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_hindu_diet Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -4,20 +4,22 @@ aliases:
   - medical_organization
   - MedicalOrganization
   - is_a_medical_organization
+  - Medical_Organization
+  - Medical Organization
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_organization
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_organization Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

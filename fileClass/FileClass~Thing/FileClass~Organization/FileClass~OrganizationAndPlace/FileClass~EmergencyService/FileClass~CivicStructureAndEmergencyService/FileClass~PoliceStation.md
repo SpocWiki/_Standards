@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PoliceStation
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService
 fields: []
 icon: siren
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PoliceStation
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService/PoliceStation
-- is_a_/PoliceStation
-- schema-org/PoliceStation
+  - class/PoliceStation
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService/PoliceStation
+  - is_a_/PoliceStation
+  - schema-org/PoliceStation
 tags:
-- class/FileClass
-- class/PoliceStation
-- is_a_/PoliceStation
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService/PoliceStation
+  - class/FileClass
+  - class/PoliceStation
+  - is_a_/PoliceStation
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService/PoliceStation
 version: 2.0
 ---
 

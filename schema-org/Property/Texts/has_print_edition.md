@@ -4,22 +4,24 @@ aliases:
   - print_edition
   - printEdition
   - has_text_of_print_edition
+  - has_print_edition
+  - has print edition
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - print
   - edition
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_print_edition
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

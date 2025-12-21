@@ -2,23 +2,24 @@
 aliases:
   - Latin Script
   - Roman Script
+  - Script~Latn
 has_id_wikidata: Q8229
-subclass_of: "[[_Standards/WikiData/WD~alphabetic_writing_system,2182919]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Latin_alphabet,3772237]]"
-replaces: "[[_Standards/WikiData/WD~Old_Italic,4891256]]"
-based_on: "[[_Standards/WikiData/WD~Old_Italic,4891256]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Latin_script,15063213]]"
+subclass_of: '[[_Standards/WikiData/WD~alphabetic_writing_system,2182919]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Latin_alphabet,3772237]]'
+replaces: '[[_Standards/WikiData/WD~Old_Italic,4891256]]'
+based_on: '[[_Standards/WikiData/WD~Old_Italic,4891256]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Latin_script,15063213]]'
 different_from:
-  - "[[_Standards/WikiData/WD~English_script,16929818]]"
-  - "[[_Standards/WikiData/WD~Latin_script_alphabet,29575627]]"
-  - "[[_Standards/WikiData/WD~Latin_alphabet,41670]]"
-script_directionality: "[[_Standards/WikiData/WD~left_to_right,17321844]]"
-has_part_s_: "[[_Standards/WikiData/WD~Latin_script_letter,19776628]]"
-described_by_source: "[[_Standards/WikiData/WD~Wikipesija,108929142]]"
+  - '[[_Standards/WikiData/WD~English_script,16929818]]'
+  - '[[_Standards/WikiData/WD~Latin_script_alphabet,29575627]]'
+  - '[[_Standards/WikiData/WD~Latin_alphabet,41670]]'
+script_directionality: '[[_Standards/WikiData/WD~left_to_right,17321844]]'
+has_part_s_: '[[_Standards/WikiData/WD~Latin_script_letter,19776628]]'
+described_by_source: '[[_Standards/WikiData/WD~Wikipesija,108929142]]'
 inception: -0700-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~writing_system,8192]]"
-locations: "[[_Standards/WikiData/WD~Italy,38]]"
-ISO_15924_numeric_code: "215"
+instance_of: '[[_Standards/WikiData/WD~writing_system,8192]]'
+locations: '[[_Standards/WikiData/WD~Italy,38]]'
+ISO_15924_numeric_code: 215
 name:
   - latin
   - Latin

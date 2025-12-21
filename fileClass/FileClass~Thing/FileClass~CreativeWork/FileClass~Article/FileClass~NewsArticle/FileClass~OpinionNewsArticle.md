@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~OpinionNewsArticle
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/OpinionNewsArticle
-- class/Thing/CreativeWork/Article/NewsArticle/OpinionNewsArticle
-- is_an_/OpinionNewsArticle
-- schema-org/OpinionNewsArticle
+  - class/OpinionNewsArticle
+  - class/Thing/CreativeWork/Article/NewsArticle/OpinionNewsArticle
+  - is_an_/OpinionNewsArticle
+  - schema-org/OpinionNewsArticle
 tags:
-- class/FileClass
-- class/OpinionNewsArticle
-- '#is_an_/OpinionNewsArticle'
-- class/Thing/CreativeWork/Article/NewsArticle/OpinionNewsArticle
+  - class/FileClass
+  - class/OpinionNewsArticle
+  - '#is_an_/OpinionNewsArticle'
+  - class/Thing/CreativeWork/Article/NewsArticle/OpinionNewsArticle
 version: 2.0
 ---
 

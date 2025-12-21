@@ -1,20 +1,22 @@
 ---
 aliases:
   - single displacement reaction or single substitution reaction
+  - Substitution_Reaction
+  - Substitution Reaction
 has_id_wikidata: Q503396
-different_from: "[[_Standards/WikiData/WD~Substitution,225565]]"
+different_from: '[[_Standards/WikiData/WD~Substitution,225565]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-has_effect: "[[_Standards/WikiData/WD~replacement,23009439]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+has_effect: '[[_Standards/WikiData/WD~replacement,23009439]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~replacement,23009439]]"
-  - "[[_Standards/WikiData/WD~chemical_reaction,36534]]"
+  - '[[_Standards/WikiData/WD~replacement,23009439]]'
+  - '[[_Standards/WikiData/WD~chemical_reaction,36534]]'
 Dewey_Decimal_Classification:
-  - "541.39"
-  - "547.2"
-  - "660.299"
+  - 541.39
+  - 547.2
+  - 660.299
 Commons_category: Substitution reactions
 ---
 

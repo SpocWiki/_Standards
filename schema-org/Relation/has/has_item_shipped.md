@@ -3,23 +3,24 @@ aliases:
   - has item-shipped
   - itemShipped
   - has_item_shipped
+  - has item shipped
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - item_shipped
   - item
   - shipped
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_item_shipped
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

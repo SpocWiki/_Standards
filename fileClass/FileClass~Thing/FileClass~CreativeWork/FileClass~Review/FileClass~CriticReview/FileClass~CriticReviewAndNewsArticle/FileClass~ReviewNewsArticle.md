@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ReviewNewsArticle
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ReviewNewsArticle
-- class/Thing/CreativeWork/Review/CriticReview/CriticReviewAndNewsArticle/ReviewNewsArticle
-- is_a_/ReviewNewsArticle
-- schema-org/ReviewNewsArticle
+  - class/ReviewNewsArticle
+  - class/Thing/CreativeWork/Review/CriticReview/CriticReviewAndNewsArticle/ReviewNewsArticle
+  - is_a_/ReviewNewsArticle
+  - schema-org/ReviewNewsArticle
 tags:
-- class/FileClass
-- class/ReviewNewsArticle
-- is_a_/ReviewNewsArticle
-- class/Thing/CreativeWork/Review/CriticReview/CriticReviewAndNewsArticle/ReviewNewsArticle
+  - class/FileClass
+  - class/ReviewNewsArticle
+  - is_a_/ReviewNewsArticle
+  - class/Thing/CreativeWork/Review/CriticReview/CriticReviewAndNewsArticle/ReviewNewsArticle
 version: 2.0
 ---
 

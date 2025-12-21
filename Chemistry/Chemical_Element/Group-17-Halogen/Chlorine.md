@@ -1,38 +1,39 @@
 ---
 aliases:
   - Chlor
-associated_hazard: "[[_Standards/WikiData/WD~chlorine_exposure,21173551]]"
+  - Chlorine
+has_id_wikidata: Q688
+associated_hazard: '[[_Standards/WikiData/WD~chlorine_exposure,21173551]]'
 atomic_number: 17
 Commons_category: Chlorine
 Commons_gallery: Chlorine
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Chlorine,84675867]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Chlorine,84675867]]'
 different_from:
-  - "[[_Standards/WikiData/WD~CL,224479]]"
-  - "[[_Standards/WikiData/WD~serum_chloride_level,432392]]"
-  - "[[_Standards/WikiData/WD~dichlorine,1904422]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Wilhelm_Scheele,70538]]"
+  - '[[_Standards/WikiData/WD~CL,224479]]'
+  - '[[_Standards/WikiData/WD~serum_chloride_level,432392]]'
+  - '[[_Standards/WikiData/WD~dichlorine,1904422]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Wilhelm_Scheele,70538]]'
 electronegativity: 3
 electron_configuration:
-  - "[Ne] 3s² 3p⁵"
+  - '[Ne] 3s² 3p⁵'
   - 1s² 2s² 2p⁶ 3s² 3p⁵
 element_symbol: Cl
 EPPO_Code: TXCHLO
 Gmelin_number: 788
 has_characteristic:
-  - "[[_Standards/WikiData/WD~gaseous_state_of_matter,29147941]]"
-has_id_wikidata: Q688
+  - '[[_Standards/WikiData/WD~gaseous_state_of_matter,29147941]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chlorine%20liquid%20in%20an%20ampoule.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
-  - "[[_Standards/WikiData/WD~essential_medicine,35456]]"
+  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - '[[_Standards/WikiData/WD~essential_medicine,35456]]'
 ionic_radius:
   - 0.08
   - 0.12
@@ -43,7 +44,7 @@ mass: 35.45
 MeSH_tree_code:
   - D01.268.380.150
   - D01.362.225
-named_after: "[[_Standards/WikiData/WD~green,3133]]"
+named_after: '[[_Standards/WikiData/WD~green,3133]]'
 OmegaWiki_Defined_Meaning: 575
 oxidation_state:
   - -1
@@ -55,13 +56,13 @@ oxidation_state:
   - 6
   - 7
 part_of:
-  - "[[_Standards/WikiData/WD~period_3,211331]]"
-  - "[[_Standards/WikiData/WD~halogens,19605]]"
+  - '[[_Standards/WikiData/WD~period_3,211331]]'
+  - '[[_Standards/WikiData/WD~halogens,19605]]'
 Reaxys_registry_number: 3902968
 SpocWebEntityId: 21918
 subclass_of:
-  - "[[_Standards/WikiData/WD~diatomic_nonmetal,19753344]]"
-  - "[[_Standards/WikiData/WD~halogens,19605]]"
+  - '[[_Standards/WikiData/WD~diatomic_nonmetal,19753344]]'
+  - '[[_Standards/WikiData/WD~halogens,19605]]'
 time_of_discovery_or_invention: 1774
 type: Element
 UMLS_CUI: C0008209

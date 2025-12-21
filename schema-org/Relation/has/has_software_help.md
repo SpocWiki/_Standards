@@ -3,23 +3,24 @@ aliases:
   - has software-help
   - softwareHelp
   - has_software_help
+  - has software help
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - software_help
   - software
   - help
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_software_help
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

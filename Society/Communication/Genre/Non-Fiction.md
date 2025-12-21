@@ -2,6 +2,8 @@
 aliases:
   - Non Fiction
   - nonfiction
+  - Non-Fiction
+has_id_wikidata: Q213051
 confidential: private
 cssclasses:
   - private
@@ -10,22 +12,21 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 lang: en
-layout:
+layout: ''
 license: (c)copyrighted
 publish: false
-publishDate:
+publishDate: ''
 type: private_note
-has_id_wikidata: Q213051
 opposite_of:
-  - "[[_Standards/WikiData/WD~belletristic_literature,268416]]"
-  - "[[_Standards/WikiData/WD~fiction,8253]]"
-subclass_of: "[[../../../WikiData/WD~work,386724]]"
-instance_of: "[[_Standards/WikiData/WD~genre,483394]]"
-different_from: "[[_Standards/WikiData/WD~non_fiction_literature,27801]]"
+  - '[[_Standards/WikiData/WD~belletristic_literature,268416]]'
+  - '[[_Standards/WikiData/WD~fiction,8253]]'
+subclass_of: '[[../../../WikiData/WD~work,386724]]'
+instance_of: '[[_Standards/WikiData/WD~genre,483394]]'
+different_from: '[[_Standards/WikiData/WD~non_fiction_literature,27801]]'
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wa-fel%20LM%20warab%C3%AA.ogg
 IPTC_NewsCode: mediatopic/20000016
 IMDb_keyword:

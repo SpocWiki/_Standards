@@ -1,17 +1,19 @@
 ---
 aliases:
   - Peter, Paul and Mary
+  - Peter,Paul_and_Mary
+  - Peter,Paul and Mary
 has_id_wikidata: Q654716
-instance_of: "[[_Standards/WikiData/WD~musical_group,215380]]"
+instance_of: '[[_Standards/WikiData/WD~musical_group,215380]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Mary_Travers,466386]]"
-  - "[[_Standards/WikiData/WD~Paul_Stookey,1133611]]"
-  - "[[_Standards/WikiData/WD~Peter_Yarrow,2033344]]"
-record_label: "[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]"
-discography: "[[_Standards/WikiData/WD~Peter,_Paul_and_Mary_discography,88976020]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-location_of_formation: "[[_Standards/WikiData/WD~New_York_City,60]]"
-genre: "[[_Standards/WikiData/WD~folk_music,43343]]"
+  - '[[_Standards/WikiData/WD~Mary_Travers,466386]]'
+  - '[[_Standards/WikiData/WD~Paul_Stookey,1133611]]'
+  - '[[_Standards/WikiData/WD~Peter_Yarrow,2033344]]'
+record_label: '[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]'
+discography: '[[_Standards/WikiData/WD~Peter,_Paul_and_Mary_discography,88976020]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+location_of_formation: '[[_Standards/WikiData/WD~New_York_City,60]]'
+genre: '[[_Standards/WikiData/WD~folk_music,43343]]'
 work_period_start_: 1961-01-01T00:00:00Z
 inception: 1961-01-01T00:00:00Z
 name: Peter, Paul and Mary
@@ -20,7 +22,7 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Peter%2C%20Paul%20and%20Mary%202006.jpg
 work_period_end_: 2009-01-01T00:00:00Z
 official_website: https://www.peterpaulandmary.com/
-ISNI: "0000000121041715"
+ISNI: 0000000121041715
 Commons_category: Peter, Paul and Mary
 Facebook_username: peterpaulandmary
 ---

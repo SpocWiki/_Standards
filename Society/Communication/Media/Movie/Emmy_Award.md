@@ -3,26 +3,27 @@ aliases:
   - Emmy Award
   - Emmys
   - Emmy
+  - Emmy_Award
 has_id_wikidata: Q123737
 conferred_by:
-  - "[[_Standards/WikiData/WD~Academy_of_Television_Arts_&_Sciences,427611]]"
-  - "[[_Standards/WikiData/WD~National_Academy_of_Television_Arts_and_Sciences,2822443]]"
+  - '[[_Standards/WikiData/WD~Academy_of_Television_Arts_&_Sciences,427611]]'
+  - '[[_Standards/WikiData/WD~National_Academy_of_Television_Arts_and_Sciences,2822443]]'
 creator:
-  - "[[_Standards/WikiData/WD~Academy_of_Television_Arts_&_Sciences,427611]]"
-  - "[[_Standards/WikiData/WD~National_Academy_of_Television_Arts_and_Sciences,2822443]]"
-subclass_of: "[[_Standards/WikiData/WD~television_award,1407225]]"
+  - '[[_Standards/WikiData/WD~Academy_of_Television_Arts_&_Sciences,427611]]'
+  - '[[_Standards/WikiData/WD~National_Academy_of_Television_Arts_and_Sciences,2822443]]'
+subclass_of: '[[_Standards/WikiData/WD~television_award,1407225]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~television_award,1407225]]"
-  - "[[_Standards/WikiData/WD~group_of_awards,107655869]]"
+  - '[[_Standards/WikiData/WD~television_award,1407225]]'
+  - '[[_Standards/WikiData/WD~group_of_awards,107655869]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Creative_Arts_Emmy_Award,3002405]]"
-  - "[[_Standards/WikiData/WD~Sports_Emmy_Awards,3494164]]"
-  - "[[_Standards/WikiData/WD~Technology_and_Engineering_Emmy_Award,7692549]]"
-  - "[[_Standards/WikiData/WD~News_and_Documentary_Emmy_Awards,11247971]]"
+  - '[[_Standards/WikiData/WD~Creative_Arts_Emmy_Award,3002405]]'
+  - '[[_Standards/WikiData/WD~Sports_Emmy_Awards,3494164]]'
+  - '[[_Standards/WikiData/WD~Technology_and_Engineering_Emmy_Award,7692549]]'
+  - '[[_Standards/WikiData/WD~News_and_Documentary_Emmy_Awards,11247971]]'
   - "[[_Standards/WikiData/WD~Children's_and_Family_Emmy_Awards,109875376]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Emmy_Awards,12401028]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Emmy_Awards,12401028]]'
 Wikidata_property: Emmys person ID
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 social_media_followers: 313856
 DPLA_subject_term: Emmy Awards
 Commons_gallery: Emmy Awards

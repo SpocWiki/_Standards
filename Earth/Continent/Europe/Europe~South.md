@@ -1,7 +1,8 @@
 ---
 aliases:
-- "South Europe"
-- "Southern Europe"
+  - South Europe
+  - Southern Europe
+  - Europe~South
 ---
 
 # Europe~South

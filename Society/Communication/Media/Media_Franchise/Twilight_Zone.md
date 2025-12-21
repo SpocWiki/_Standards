@@ -1,45 +1,47 @@
 ---
 aliases:
   - The_Twilight_Zone
+  - Twilight_Zone
+  - Twilight Zone
 has_id_wikidata: Q742103
-named_after: "[[_Standards/WikiData/WD~twilight,164160]]"
+named_after: '[[_Standards/WikiData/WD~twilight,164160]]'
 composer:
-  - "[[_Standards/WikiData/WD~Franz_Waxman,213611]]"
-  - "[[_Standards/WikiData/WD~Jerry_Goldsmith,235077]]"
-  - "[[_Standards/WikiData/WD~Bernard_Herrmann,296804]]"
-  - "[[_Standards/WikiData/WD~Leonard_Rosenman,1346580]]"
+  - '[[_Standards/WikiData/WD~Franz_Waxman,213611]]'
+  - '[[_Standards/WikiData/WD~Jerry_Goldsmith,235077]]'
+  - '[[_Standards/WikiData/WD~Bernard_Herrmann,296804]]'
+  - '[[_Standards/WikiData/WD~Leonard_Rosenman,1346580]]'
 genre:
-  - "[[_Standards/WikiData/WD~science_fiction_television_program,336059]]"
-  - "[[_Standards/WikiData/WD~horror_television_series,20220309]]"
-  - "[[_Standards/WikiData/WD~fantasy_television_series,98526245]]"
-  - "[[_Standards/WikiData/WD~anthology_series,23653]]"
-executive_producer: "[[_Standards/WikiData/WD~Rod_Serling,435920]]"
-creator: "[[_Standards/WikiData/WD~Rod_Serling,435920]]"
-cast_member: "[[_Standards/WikiData/WD~Rod_Serling,435920]]"
-distribution_format: "[[_Standards/WikiData/WD~video_on_demand,723685]]"
-color: "[[_Standards/WikiData/WD~black_and_white,838368]]"
-derivative_work: "[[_Standards/WikiData/WD~Twilight_Zone_The_Movie,1330737]]"
+  - '[[_Standards/WikiData/WD~science_fiction_television_program,336059]]'
+  - '[[_Standards/WikiData/WD~horror_television_series,20220309]]'
+  - '[[_Standards/WikiData/WD~fantasy_television_series,98526245]]'
+  - '[[_Standards/WikiData/WD~anthology_series,23653]]'
+executive_producer: '[[_Standards/WikiData/WD~Rod_Serling,435920]]'
+creator: '[[_Standards/WikiData/WD~Rod_Serling,435920]]'
+cast_member: '[[_Standards/WikiData/WD~Rod_Serling,435920]]'
+distribution_format: '[[_Standards/WikiData/WD~video_on_demand,723685]]'
+color: '[[_Standards/WikiData/WD~black_and_white,838368]]'
+derivative_work: '[[_Standards/WikiData/WD~Twilight_Zone_The_Movie,1330737]]'
 distributed_by:
-  - "[[_Standards/WikiData/WD~Hulu,1630304]]"
-  - "[[_Standards/WikiData/WD~CBS_Media_Ventures,5009281]]"
-list_of_episodes: "[[_Standards/WikiData/WD~list_of_The_Twilight_Zone_episodes,2709200]]"
-producer: "[[_Standards/WikiData/WD~Buck_Houghton,2927449]]"
-nominated_for: "[[_Standards/WikiData/WD~Hugo_Award_for_Best_Dramatic_Presentation,3414212]]"
-award_received: "[[_Standards/WikiData/WD~Hugo_Award_for_Best_Dramatic_Presentation,3414212]]"
+  - '[[_Standards/WikiData/WD~Hulu,1630304]]'
+  - '[[_Standards/WikiData/WD~CBS_Media_Ventures,5009281]]'
+list_of_episodes: '[[_Standards/WikiData/WD~list_of_The_Twilight_Zone_episodes,2709200]]'
+producer: '[[_Standards/WikiData/WD~Buck_Houghton,2927449]]'
+nominated_for: '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Dramatic_Presentation,3414212]]'
+award_received: '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Dramatic_Presentation,3414212]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~The_Twilight_Zone,_season_4,3468867]]"
-  - "[[_Standards/WikiData/WD~The_Twilight_Zone,_season_1,3727523]]"
-  - "[[_Standards/WikiData/WD~The_Twilight_Zone,_season_2,3727527]]"
-  - "[[_Standards/WikiData/WD~The_Twilight_Zone,_season_5,3727525]]"
-  - "[[_Standards/WikiData/WD~The_Twilight_Zone,_season_3,3727528]]"
-instance_of: "[[_Standards/WikiData/WD~television_series,5398426]]"
-media_franchise: "[[_Standards/WikiData/WD~The_Twilight_Zone,14329491]]"
-described_by_source: "[[_Standards/WikiData/WD~The_Twilight_Zone,127300978]]"
-original_language_of_film_or_TV_show: "[[_Standards/WikiData/WD~English,1860]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~The_Twilight_Zone,_season_4,3468867]]'
+  - '[[_Standards/WikiData/WD~The_Twilight_Zone,_season_1,3727523]]'
+  - '[[_Standards/WikiData/WD~The_Twilight_Zone,_season_2,3727527]]'
+  - '[[_Standards/WikiData/WD~The_Twilight_Zone,_season_5,3727525]]'
+  - '[[_Standards/WikiData/WD~The_Twilight_Zone,_season_3,3727528]]'
+instance_of: '[[_Standards/WikiData/WD~television_series,5398426]]'
+media_franchise: '[[_Standards/WikiData/WD~The_Twilight_Zone,14329491]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Twilight_Zone,127300978]]'
+original_language_of_film_or_TV_show: '[[_Standards/WikiData/WD~English,1860]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_seasons: 5
 number_of_episodes: 156
-original_broadcaster: "[[_Standards/WikiData/WD~CBS,43380]]"
+original_broadcaster: '[[_Standards/WikiData/WD~CBS,43380]]'
 end_time: 1964-06-19T00:00:00Z
 start_time: 1959-10-02T00:00:00Z
 title: The Twilight Zone

@@ -4,21 +4,22 @@ aliases:
   - eligible_region
   - eligibleRegion
   - has_location_eligible_region
+  - has location eligible region
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - eligible_region
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_eligible_region
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

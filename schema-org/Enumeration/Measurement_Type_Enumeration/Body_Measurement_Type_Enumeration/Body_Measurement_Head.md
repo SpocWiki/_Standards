@@ -4,21 +4,23 @@ aliases:
   - body_measurement_head
   - BodyMeasurementHead
   - is_a_body_measurement_head
+  - Body_Measurement_Head
+  - Body Measurement Head
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: BodyMeasurementTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - body_measurement_head
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_body_measurement_head Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

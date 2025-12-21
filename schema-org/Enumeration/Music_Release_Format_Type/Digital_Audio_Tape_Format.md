@@ -4,21 +4,23 @@ aliases:
   - digital_audio_tape_format
   - DigitalAudioTapeFormat
   - is_a_digital_audio_tape_format
+  - Digital_Audio_Tape_Format
+  - Digital Audio Tape Format
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MusicReleaseFormatType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - digital_audio_tape_format
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_digital_audio_tape_format Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

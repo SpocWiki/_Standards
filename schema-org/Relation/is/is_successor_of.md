@@ -4,22 +4,24 @@ aliases:
   - successor_of
   - successorOf
   - has_predecessor
+  - is_successor_of
+  - is successor of
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - successor
   - of
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_successor_of
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

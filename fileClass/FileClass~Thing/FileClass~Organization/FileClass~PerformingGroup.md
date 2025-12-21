@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PerformingGroup
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PerformingGroup
-- class/Thing/Organization/PerformingGroup
-- is_a_/PerformingGroup
-- schema-org/PerformingGroup
+  - class/PerformingGroup
+  - class/Thing/Organization/PerformingGroup
+  - is_a_/PerformingGroup
+  - schema-org/PerformingGroup
 tags:
-- class/FileClass
-- class/PerformingGroup
-- is_a_/PerformingGroup
-- class/Thing/Organization/PerformingGroup
+  - class/FileClass
+  - class/PerformingGroup
+  - is_a_/PerformingGroup
+  - class/Thing/Organization/PerformingGroup
 version: 2.0
 ---
 

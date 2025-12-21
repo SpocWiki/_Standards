@@ -4,20 +4,22 @@ aliases:
   - exercise_plan
   - ExercisePlan
   - is_an_exercise_plan
+  - Exercise_Plan
+  - Exercise Plan
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - exercise_plan
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_exercise_plan Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

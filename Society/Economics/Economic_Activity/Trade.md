@@ -1,46 +1,47 @@
 ---
 aliases:
   - Handel
+  - Trade
 has_id_wikidata: Q601401
 part_of:
-  - "[[_Standards/WikiData/WD~economy,159810]]"
-  - "[[_Standards/WikiData/WD~market,37654]]"
+  - '[[_Standards/WikiData/WD~economy,159810]]'
+  - '[[_Standards/WikiData/WD~market,37654]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~sales,194189]]"
-  - "[[_Standards/WikiData/WD~barter,484830]]"
-  - "[[_Standards/WikiData/WD~procurement,829492]]"
+  - '[[_Standards/WikiData/WD~sales,194189]]'
+  - '[[_Standards/WikiData/WD~barter,484830]]'
+  - '[[_Standards/WikiData/WD~procurement,829492]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~merchant,215536]]"
-  - "[[_Standards/WikiData/WD~trader,3704253]]"
-  - "[[_Standards/WikiData/WD~mercander,9031604]]"
-  - "[[_Standards/WikiData/WD~vendor,104099828]]"
+  - '[[_Standards/WikiData/WD~merchant,215536]]'
+  - '[[_Standards/WikiData/WD~trader,3704253]]'
+  - '[[_Standards/WikiData/WD~mercander,9031604]]'
+  - '[[_Standards/WikiData/WD~vendor,104099828]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
   - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
 different_from:
-  - "[[_Standards/WikiData/WD~transfer_payment,1411457]]"
-  - "[[_Standards/WikiData/WD~trading_business_(Handelsgewerbe),1489930]]"
-has_part_s_: "[[_Standards/WikiData/WD~trade_item,7832052]]"
-subclass_of: "[[../../../WikiData/WD~economic_activity,8187769]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Trade,15218281]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+  - '[[_Standards/WikiData/WD~transfer_payment,1411457]]'
+  - '[[_Standards/WikiData/WD~trading_business_(Handelsgewerbe),1489930]]'
+has_part_s_: '[[_Standards/WikiData/WD~trade_item,7832052]]'
+subclass_of: '[[../../../WikiData/WD~economic_activity,8187769]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Trade,15218281]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~type_of_economic_interaction,54445847]]"
-  - "[[_Standards/WikiData/WD~service_type,130303173]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~sacrifice,64534006]]"
+  - '[[_Standards/WikiData/WD~type_of_economic_interaction,54445847]]'
+  - '[[_Standards/WikiData/WD~service_type,130303173]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~sacrifice,64534006]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~interaction_science,97008347]]"
-  - "[[_Standards/WikiData/WD~economics,8134]]"
-  - "[[_Standards/WikiData/WD~commerce,26643]]"
-industry: "[[_Standards/WikiData/WD~trade_industry,136954213]]"
-facet_of: "[[_Standards/WikiData/WD~economics,8134]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~commerce,26643]]"
-Dewey_Decimal_Classification: "381"
-OmegaWiki_Defined_Meaning: "3808"
+  - '[[_Standards/WikiData/WD~interaction_science,97008347]]'
+  - '[[_Standards/WikiData/WD~economics,8134]]'
+  - '[[_Standards/WikiData/WD~commerce,26643]]'
+industry: '[[_Standards/WikiData/WD~trade_industry,136954213]]'
+facet_of: '[[_Standards/WikiData/WD~economics,8134]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~commerce,26643]]'
+Dewey_Decimal_Classification: 381
+OmegaWiki_Defined_Meaning: 3808
 Commons_category: Trading
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fredmeyer%20edit%201.jpg
 ---

@@ -1,34 +1,35 @@
 ---
 aliases:
   - Kalligrafie
+  - Calligraphy
 has_id_wikidata: Q12681
 described_by_source:
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_genre,1792379]]"
-  - "[[_Standards/WikiData/WD~type_of_arts,56055944]]"
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
-practiced_by: "[[_Standards/WikiData/WD~calligrapher,3303330]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~calligraphic_work,22669850]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
+  - '[[_Standards/WikiData/WD~art_genre,1792379]]'
+  - '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
+  - '[[_Standards/WikiData/WD~hobby,47728]]'
+practiced_by: '[[_Standards/WikiData/WD~calligrapher,3303330]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~calligraphic_work,22669850]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~visual_arts,36649]]"
-  - "[[_Standards/WikiData/WD~writing,37260]]"
+  - '[[_Standards/WikiData/WD~visual_arts,36649]]'
+  - '[[_Standards/WikiData/WD~writing,37260]]'
 social_media_followers: 293993
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Calligraphy%20word.jpg
 Iconclass_notation: 49L4
-P8189: "987007293759405171"
+P8189: 987007293759405171
 GitHub_topic: calligraphy
 hashtag: calligraphy
 subreddit: Calligraphy
 Commons_gallery: Calligraphy
 Commons_category: Calligraphy
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Calligraphy,6846987]]"
-  - "[[_Standards/WikiData/WD~Q25941896,25941896]]"
+  - '[[_Standards/WikiData/WD~Template_Calligraphy,6846987]]'
+  - '[[_Standards/WikiData/WD~Q25941896,25941896]]'
 hashtag_: calligraphy
 ---
 

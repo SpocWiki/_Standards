@@ -4,20 +4,22 @@ aliases:
   - user_blocks
   - UserBlocks
   - is_a_user_blocks
+  - User_Blocks
+  - User Blocks
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - user_blocks
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_user_blocks Class
 publish: true
-publishDate:
+publishDate: ''
 superseded_by: InteractionCounter
 tags:
   - class/Class

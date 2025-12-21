@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DisagreeAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DisagreeAction
-- class/Thing/Action/AssessAction/ReactAction/DisagreeAction
-- is_a_/DisagreeAction
-- schema-org/DisagreeAction
+  - class/DisagreeAction
+  - class/Thing/Action/AssessAction/ReactAction/DisagreeAction
+  - is_a_/DisagreeAction
+  - schema-org/DisagreeAction
 tags:
-- class/FileClass
-- class/DisagreeAction
-- is_a_/DisagreeAction
-- class/Thing/Action/AssessAction/ReactAction/DisagreeAction
+  - class/FileClass
+  - class/DisagreeAction
+  - is_a_/DisagreeAction
+  - class/Thing/Action/AssessAction/ReactAction/DisagreeAction
 version: 2.0
 ---
 

@@ -2,6 +2,8 @@
 aliases:
   - Optical_disc
   - optical disc
+  - Optical_Disc
+  - Optical Disc
 has_id_wikidata: Q234870
 subclass_of:
   - "[[_Standards/WikiData/WD~computer_storage_media,66221]]"
@@ -15,7 +17,7 @@ topic_has_template: "[[_Standards/WikiData/WD~Template_Optical_disc,5893235]]"
 shape: "[[_Standards/WikiData/WD~disk,10803218]]"
 used_by: "[[_Standards/WikiData/WD~optical_disc_drive,4492]]"
 has_characteristic: "[[_Standards/WikiData/WD~removable_media,37768]]"
-Nomenclature_for_Museum_Cataloging: "10486"
+Nomenclature_for_Museum_Cataloging: 10486
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cd-en-vrac.jpg
 Unicode_character:
   - 💿
@@ -23,7 +25,7 @@ Unicode_character:
 Commons_category: Optical discs
 ---
 
-# [[Optical_Disc]] 
+# [[Optical_Disc]] 💿 
 
 #is_/same_as :: [[WD~Optical_disc,234870]] 
 

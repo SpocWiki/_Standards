@@ -1,6 +1,7 @@
 ---
 aliases:
-- "John Landis"
+  - John Landis
+  - Landis,John
 ---
 
 # [[Landis,John]] 

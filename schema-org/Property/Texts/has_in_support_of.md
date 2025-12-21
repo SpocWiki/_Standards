@@ -4,23 +4,25 @@ aliases:
   - in_support_of
   - inSupportOf
   - has_text_of_in_support_of
+  - has_in_support_of
+  - has in support of
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - in
   - support
   - of
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_in_support_of
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

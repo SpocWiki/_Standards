@@ -1,6 +1,7 @@
 ---
 aliases:
   - Flüchtling
+  - Refugee
 has_id_wikidata: Q131572
 female_form_of_label:
   - uchodźczyni
@@ -24,16 +25,16 @@ male_form_of_label:
   - refuxáu
   - pabėgėlis
 different_from:
-  - "[[_Standards/WikiData/WD~asylum_seeker,564811]]"
-  - "[[_Standards/WikiData/WD~person_in_hiding,136513901]]"
-subclass_of: "[[_Standards/WikiData/WD~displaced_person,706601]]"
+  - '[[_Standards/WikiData/WD~asylum_seeker,564811]]'
+  - '[[_Standards/WikiData/WD~person_in_hiding,136513901]]'
+subclass_of: '[[_Standards/WikiData/WD~displaced_person,706601]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
-instance_of: "[[_Standards/WikiData/WD~occupation,12737077]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-studied_by: "[[_Standards/WikiData/WD~refugee_studies,134621536]]"
-U_S_National_Archives_Identifier: "10644813"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+instance_of: '[[_Standards/WikiData/WD~occupation,12737077]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+studied_by: '[[_Standards/WikiData/WD~refugee_studies,134621536]]'
+U_S_National_Archives_Identifier: 10644813
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20Dutch%20school%20teacher%20leads%20a%20group%20of%20refugee%20children%20just%20disembarked%20from%20a%20ship%20at%20Tilbury%20Docks%20in%20Essex%20during%201945.%20D24064.jpg
 UMLS_CUI: C0034961
 MeSH_tree_code: M01.755

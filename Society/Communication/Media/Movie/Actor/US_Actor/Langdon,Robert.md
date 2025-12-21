@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Robert Langdon"
+  - Robert Langdon
+  - Langdon,Robert
 ---
 
 ## #has_/text_of_/abstract 

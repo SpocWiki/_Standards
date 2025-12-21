@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Drum
+has_id_wikidata: Q11404
 Amazon_com_browse_node: 11970521
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Bass%20drum.ogg
 Commons_category: Drums
@@ -16,7 +19,6 @@ different_from:
   - "[[_Standards/WikiData/WD~Q4097679,4097679]]"
   - "[[_Standards/WikiData/WD~Trommel_screen,4100165]]"
 exact_match: http://wordnet-rdf.princeton.edu/wn30/03249569-n
-has_id_wikidata: Q11404
 Hornbostel_Sachs_classification: 21
 Iconclass_notation: 48C7341
 image:
@@ -34,7 +36,7 @@ subclass_of: "[[_Standards/WikiData/WD~struck_membranophone,19588483]]"
 Unicode_character: 🥁
 ---
 
-# [[Drum]] 
+# [[Drum]] 🥁 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Drum,11404|WD~Drum,11404]] 
 

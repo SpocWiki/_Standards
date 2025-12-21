@@ -4,20 +4,21 @@ aliases:
   - product_collection
   - ProductCollection
   - is_a_product_collection
+  - product collection
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - product_collection
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_product_collection Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

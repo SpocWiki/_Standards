@@ -1,29 +1,29 @@
 ---
 aliases:
-- Rust~Syntax
-- 
+  - Rust~Syntax
+  - ''
 confidential: private
-cssclasses: "private note"
+cssclasses: private note
 draft: true
-expiryDate: 
+expiryDate: ''
 has_time_started: 2024-01-06
 isDeleted: false
 isReadOnly: false
 Key: Value
 keywords:
-- Rust~Syntax
+  - Rust~Syntax
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Rust~Syntax
 Predicate: '[[Object]]'
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Rust~Syntax
-- "rather use"
+  - Rust~Syntax
+  - rather use
 title: Rust~Syntax
-type: "private note"
+type: private note
 ---
 
 # [[Rust~Syntax]] 

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~WatchAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/WatchAction
-- class/Thing/Action/ConsumeAction/WatchAction
-- is_a_/WatchAction
-- schema-org/WatchAction
+  - class/WatchAction
+  - class/Thing/Action/ConsumeAction/WatchAction
+  - is_a_/WatchAction
+  - schema-org/WatchAction
 tags:
-- class/FileClass
-- class/WatchAction
-- is_a_/WatchAction
-- class/Thing/Action/ConsumeAction/WatchAction
+  - class/FileClass
+  - class/WatchAction
+  - is_a_/WatchAction
+  - class/Thing/Action/ConsumeAction/WatchAction
 version: 2.0
 ---
 

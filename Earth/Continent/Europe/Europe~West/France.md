@@ -10,10 +10,10 @@ aliases:
   - french
   - francais
   - französisch
-title: France
-linkTitle:
-type: Country
 has_id_wikidata: Q142
+title: France
+linkTitle: ""
+type: Country
 location:
   - 46.8944
   - 2.33663
@@ -28,11 +28,11 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-keywords:
-layout:
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 Languages:
   - fr-FR
   - frp
@@ -308,7 +308,7 @@ coordinates_of_easternmost_point: Point(9.56 42.282222222)
 coordinates_of_southernmost_point: Point(9.258953435 41.333546483)
 Gregorian_calendar_start_date:
   - 1582-12-20
-  - "1806"
+  - 1806
 coordinates_of_westernmost_point: Point(-5.151111111 48.445833333)
 highest_point: "[[_Standards/WikiData/WD~Mont_Blanc,583]]"
 shares_border_with:

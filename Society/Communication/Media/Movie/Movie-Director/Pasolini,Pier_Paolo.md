@@ -3,6 +3,8 @@ aliases:
   - Pier Paolo Pasolini
   - Paolo Pasolini
   - Pasolini
+  - Pasolini,Pier_Paolo
+  - Pasolini,Pier Paolo
 ---
 
 # [[Pasolini,Pier_Paolo]] 

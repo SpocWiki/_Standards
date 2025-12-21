@@ -4,20 +4,22 @@ aliases:
   - product_model
   - ProductModel
   - is_a_product_model
+  - Product_Model
+  - Product Model
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - product_model
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_product_model Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,52 +1,54 @@
 ---
 aliases:
-- "Apartheid in South Africa"
+  - Apartheid in South Africa
+  - 1948-Apartheid,South_Africa
+  - 1948-Apartheid,South Africa
+has_id_wikidata: Q11409
 applies_to_jurisdiction:
-- '[[_Standards/WikiData/WD~South_Africa,258]]'
-- '[[_Standards/WikiData/WD~South-West_Africa,953068]]'
+  - '[[_Standards/WikiData/WD~South_Africa,258]]'
+  - '[[_Standards/WikiData/WD~South-West_Africa,953068]]'
 based_on:
-- '[[_Standards/WikiData/WD~Baasskap,2877652]]'
-- '[[_Standards/WikiData/WD~racism,8461]]'
-- '[[_Standards/WikiData/WD~white_supremacy,698752]]'
+  - '[[_Standards/WikiData/WD~Baasskap,2877652]]'
+  - '[[_Standards/WikiData/WD~racism,8461]]'
+  - '[[_Standards/WikiData/WD~white_supremacy,698752]]'
 Commons_category: Apartheid
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-- '[[_Standards/WikiData/WD~The_Oxford_Encyclopedia_of_African_Thought,22639418]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+  - '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+  - '[[_Standards/WikiData/WD~The_Oxford_Encyclopedia_of_African_Thought,22639418]]'
 Dewey_Decimal_Classification: 305.800968
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Hendrik_Frensch_Verwoerd,297000]]'
 dissolved_abolished_or_demolished_date: 1991
 followed_by: '[[_Standards/WikiData/WD~history_of_South_Africa_(1944_present),3136857]]'
 follows: '[[_Standards/WikiData/WD~history_of_South_Africa_(1910_1948),4533954]]'
 foundational_text:
-- '[[_Standards/WikiData/WD~Population_Registration_Act,_1950,772197]]'
-- '[[_Standards/WikiData/WD~Prohibition_of_Mixed_Marriages_Act,_1949,1586493]]'
+  - '[[_Standards/WikiData/WD~Population_Registration_Act,_1950,772197]]'
+  - '[[_Standards/WikiData/WD~Prohibition_of_Mixed_Marriages_Act,_1949,1586493]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~Minoritarianism,6869224]]'
-- '[[_Standards/WikiData/WD~social_stratification,841628]]'
+  - '[[_Standards/WikiData/WD~Minoritarianism,6869224]]'
+  - '[[_Standards/WikiData/WD~social_stratification,841628]]'
 has_effect: '[[_Standards/WikiData/WD~Legacies_of_apartheid,6517187]]'
-has_id_wikidata: Q11409
 has_time_started: 1948-01-01
 has_time_stopped: 1991-06
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/DurbanSign1989.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/DurbanSign1989.jpg
 inception: 1948
 instance_of:
-- '[[_Standards/WikiData/WD~policy,1156854]]'
-- '[[_Standards/WikiData/WD~racism,8461]]'
+  - '[[_Standards/WikiData/WD~policy,1156854]]'
+  - '[[_Standards/WikiData/WD~racism,8461]]'
 Library_of_Congress_Classification: DT1757
 manifestation_of: '[[_Standards/WikiData/WD~racism,8461]]'
 MeSH_tree_code:
-- I01.696.050
-- I01.880.735.820.500.125
+  - I01.696.050
+  - I01.880.735.820.500.125
 OmegaWiki_Defined_Meaning: 431433
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]'
 PhilPapers_topic: apartheid
 significant_event: '[[_Standards/WikiData/WD~Coloured_vote_constitutional_crisis,5149235]]'
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Pt-Apartheid-Intro.ogg"
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Pt-Apartheid-Intro.ogg
 subclass_of:
-- '[[_Standards/WikiData/WD~divide_and_rule,68951]]'
-- '[[_Standards/WikiData/WD~racial_segregation,59816]]'
+  - '[[_Standards/WikiData/WD~divide_and_rule,68951]]'
+  - '[[_Standards/WikiData/WD~racial_segregation,59816]]'
 UMLS_CUI: C0680431
 U_S_National_Archives_Identifier: 10640722
 ---

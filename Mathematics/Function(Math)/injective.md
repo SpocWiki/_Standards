@@ -1,6 +1,7 @@
 ---
 aliases:
-- injection(Math)
+  - injection(Math)
+  - injective
 ---
 
 #is_/same_as :: [[Monomorphism]] 

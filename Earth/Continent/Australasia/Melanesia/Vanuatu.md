@@ -1,11 +1,18 @@
 ---
+aliases:
+  - Vanuatu
+  - فانواتو
+  - 瓦努阿图
+  - Вануату
+  - the Republic of Vanuatu
+  - la República de Vanuatu
+has_id_wikidata: Q686
 location:
   - -17.75
   - 168.3
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q686
 SpocWebEntityId: 27056
 isDeleted: false
 confidential: public
@@ -16,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Vanuatu
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Vanuatu
-  - فانواتو
-  - 瓦努阿图
-  - Вануату
-  - the Republic of Vanuatu
-  - la República de Vanuatu
+publishDate: ""
+expiryDate: ""
 Languages:
   - bi
   - en-VU

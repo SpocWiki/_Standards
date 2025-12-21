@@ -1,52 +1,53 @@
 ---
 aliases:
   - Linux
+  - OS~Linux
 has_id_wikidata: Q388
 Wolfram_Language_entity_code: Entity["Concept", "Linux::x59m3"]
 Lemmy_instance_URL: https://linux.community
-mascot: "[[_Standards/WikiData/WD~Tux,131200]]"
+mascot: '[[_Standards/WikiData/WD~Tux,131200]]'
 programmed_in:
-  - "[[_Standards/WikiData/WD~assembly_language,165436]]"
-  - "[[../../../../WikiData/WD~Q575650,575650]]"
-  - "[[../../../../WikiData/WD~Q15777,15777]]"
+  - '[[_Standards/WikiData/WD~assembly_language,165436]]'
+  - '[[../../../../WikiData/WD~Q575650,575650]]'
+  - '[[../../../../WikiData/WD~Q15777,15777]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~project,170584]]"
-  - "[[_Standards/WikiData/WD~collaborative_work,15545584]]"
-  - "[[_Standards/WikiData/WD~operating_system,9135]]"
+  - '[[_Standards/WikiData/WD~project,170584]]'
+  - '[[_Standards/WikiData/WD~collaborative_work,15545584]]'
+  - '[[_Standards/WikiData/WD~operating_system,9135]]'
 platform:
-  - "[[_Standards/WikiData/WD~Q182933,182933]]"
-  - "[[_Standards/WikiData/WD~Q272629,272629]]"
-  - "[[_Standards/WikiData/WD~RISC_V,17637401]]"
+  - '[[_Standards/WikiData/WD~Q182933,182933]]'
+  - '[[_Standards/WikiData/WD~Q272629,272629]]'
+  - '[[_Standards/WikiData/WD~RISC_V,17637401]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~MINIX,187906]]"
-  - "[[_Standards/WikiData/WD~Q11368,11368]]"
+  - '[[_Standards/WikiData/WD~MINIX,187906]]'
+  - '[[_Standards/WikiData/WD~Q11368,11368]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~computing_platform,241317]]"
-  - "[[_Standards/WikiData/WD~free_software,341]]"
-  - "[[_Standards/WikiData/WD~Unix_like_operating_system,14656]]"
-sponsor: "[[_Standards/WikiData/WD~Linux_Foundation,858851]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Linux,1517650]]"
+  - '[[_Standards/WikiData/WD~computing_platform,241317]]'
+  - '[[_Standards/WikiData/WD~free_software,341]]'
+  - '[[_Standards/WikiData/WD~Unix_like_operating_system,14656]]'
+sponsor: '[[_Standards/WikiData/WD~Linux_Foundation,858851]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Linux,1517650]]'
 distribution_format:
-  - "[[_Standards/WikiData/WD~DVD_ROM,2144513]]"
-  - "[[_Standards/WikiData/WD~digital_download,54820071]]"
-  - "[[_Standards/WikiData/WD~floppy_disk,5293]]"
-  - "[[_Standards/WikiData/WD~CD_ROM,7982]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~GNU_Linux,3251801]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Linux,8084313]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Linux,8210921]]"
+  - '[[_Standards/WikiData/WD~DVD_ROM,2144513]]'
+  - '[[_Standards/WikiData/WD~digital_download,54820071]]'
+  - '[[_Standards/WikiData/WD~floppy_disk,5293]]'
+  - '[[_Standards/WikiData/WD~CD_ROM,7982]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~GNU_Linux,3251801]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Linux,8084313]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Linux,8210921]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Q11368,11368]]"
-  - "[[_Standards/WikiData/WD~Linux_kernel,14579]]"
-  - "[[_Standards/WikiData/WD~Linus_Torvalds,34253]]"
-based_on: "[[_Standards/WikiData/WD~Linux_kernel,14579]]"
-different_from: "[[_Standards/WikiData/WD~Linux_kernel,14579]]"
-studied_by: "[[_Standards/WikiData/WD~computer_science,21198]]"
-creator: "[[_Standards/WikiData/WD~Linus_Torvalds,34253]]"
+  - '[[_Standards/WikiData/WD~Q11368,11368]]'
+  - '[[_Standards/WikiData/WD~Linux_kernel,14579]]'
+  - '[[_Standards/WikiData/WD~Linus_Torvalds,34253]]'
+based_on: '[[_Standards/WikiData/WD~Linux_kernel,14579]]'
+different_from: '[[_Standards/WikiData/WD~Linux_kernel,14579]]'
+studied_by: '[[_Standards/WikiData/WD~computer_science,21198]]'
+creator: '[[_Standards/WikiData/WD~Linus_Torvalds,34253]]'
 official_website: https://kernel.org
 Commons_gallery: Linux
 Commons_category: Linux
-software_version_identifier: "6.14"
-OmegaWiki_Defined_Meaning: "525916"
+software_version_identifier: 6.14
+OmegaWiki_Defined_Meaning: 525916
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Tux.svg
 Baidu_Tieba_name: linux
 GitHub_topic: linux

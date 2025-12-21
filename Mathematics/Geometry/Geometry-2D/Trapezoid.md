@@ -2,20 +2,21 @@
 aliases:
   - Trapez
   - trapezium
+  - Trapezoid
 has_id_wikidata: Q46303
-described_by_source: "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-different_from: "[[_Standards/WikiData/WD~Trapez,12777716]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-subclass_of: "[[_Standards/WikiData/WD~convex_quadrilateral,39447036]]"
+described_by_source: '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+different_from: '[[_Standards/WikiData/WD~Trapez,12777716]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+subclass_of: '[[_Standards/WikiData/WD~convex_quadrilateral,39447036]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~leg,117009003]]"
-  - "[[_Standards/WikiData/WD~base,117009001]]"
-  - "[[_Standards/WikiData/WD~edge,26382]]"
-studied_by: "[[_Standards/WikiData/WD~geometry,8087]]"
-has_characteristic: "[[_Standards/WikiData/WD~area,11500]]"
-has_facet_polytope: "[[_Standards/WikiData/WD~edge,26382]]"
-OmegaWiki_Defined_Meaning: "375310"
+  - '[[_Standards/WikiData/WD~leg,117009003]]'
+  - '[[_Standards/WikiData/WD~base,117009001]]'
+  - '[[_Standards/WikiData/WD~edge,26382]]'
+studied_by: '[[_Standards/WikiData/WD~geometry,8087]]'
+has_characteristic: '[[_Standards/WikiData/WD~area,11500]]'
+has_facet_polytope: '[[_Standards/WikiData/WD~edge,26382]]'
+OmegaWiki_Defined_Meaning: 375310
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Trapezoid%20special%20cases.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%B8%E0%A4%AE%E0%A4%B2%E0%A4%82%E0%A4%AC%20%E0%A4%9A%E0%A5%8C%E0%A4%95%E0%A5%8B%E0%A4%A8.wav
 Commons_category: Trapezoids

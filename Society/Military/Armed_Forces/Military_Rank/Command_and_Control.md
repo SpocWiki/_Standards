@@ -1,12 +1,14 @@
 ---
 aliases:
   - Command and control
+  - Command_and_Control
+  - Command and Control
 has_id_wikidata: Q21662260
 different_from:
-  - "[[_Standards/WikiData/WD~military_administration,858496]]"
-  - "[[_Standards/WikiData/WD~Dowodzenie,9210426]]"
-subclass_of: "[[_Standards/WikiData/WD~military_control_system,12153018]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_management,96247293]]"
+  - '[[_Standards/WikiData/WD~military_administration,858496]]'
+  - '[[_Standards/WikiData/WD~Dowodzenie,9210426]]'
+subclass_of: '[[_Standards/WikiData/WD~military_control_system,12153018]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_management,96247293]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SICCONA%20%28Command%2C%20Control%20and%20Navigation%20System%29%20-%20Italian%20Army.png
 ---
 

@@ -2,12 +2,13 @@
 aliases:
   - has cutoff-time
   - has_cutoff_time
+  - has cutoff time
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - time
   - cutoff_time
   - cutoffTime
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_cutoff_time
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

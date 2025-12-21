@@ -1,19 +1,20 @@
 ---
 aliases:
   - koog
+  - Polder
 has_id_wikidata: Q106259
 subclass_of:
-  - "[[_Standards/WikiData/WD~region,82794]]"
-  - "[[_Standards/WikiData/WD~human_made_landform,12529452]]"
-uses: "[[_Standards/WikiData/WD~levee,105190]]"
+  - '[[_Standards/WikiData/WD~region,82794]]'
+  - '[[_Standards/WikiData/WD~human_made_landform,12529452]]'
+uses: '[[_Standards/WikiData/WD~levee,105190]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-different_from: "[[_Standards/WikiData/WD~land_reclamation,1130322]]"
-has_use: "[[_Standards/WikiData/WD~land_reclamation,1130322]]"
-part_of: "[[_Standards/WikiData/WD~water_board,13138621]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~land_reclamation,1130322]]'
+has_use: '[[_Standards/WikiData/WD~land_reclamation,1130322]]'
+part_of: '[[_Standards/WikiData/WD~water_board,13138621]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2012-05-13%20Nordsee-Luftbilder%20DSCF8784.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000286
 Commons_category: Polders

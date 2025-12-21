@@ -8,6 +8,7 @@ aliases:
   - the Republic of the Gambia
   - Gambia (the)
   - la República de Gambia
+has_id_wikidata: Q1005
 anthem: "[[_Standards/WikiData/WD~For_The_Gambia_Our_Homeland,273244]]"
 area: 11300
 basic_form_of_government: "[[_Standards/WikiData/WD~republic,7270]]"
@@ -119,7 +120,7 @@ electrical_plug_type: "[[_Standards/WikiData/WD~BS_1363,1528507]]"
 emergency_phone_number:
   - "[[_Standards/WikiData/WD~118,11185210]]"
   - "[[_Standards/WikiData/WD~116,25648807]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 1261541
   - 1293962
@@ -132,7 +133,6 @@ geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_Gambia,1503142]]"
 geoshape: http://commons.wikimedia.org/data/main/Data:The+Gambia.map
 hashtag: TheGambia
 has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
-has_id_wikidata: Q1005
 has_time_started: 1965-01-01
 headquarters_locations: "[[_Standards/WikiData/WD~Banjul,3726]]"
 head_of_government: "[[_Standards/WikiData/WD~Adama_Barrow,27917049]]"
@@ -156,7 +156,7 @@ ISO_3166_1_alpha_3_code: GMB
 ISO_3166_1_numeric_code: 270
 isReadOnly: false
 ITU_letter_code: GMB
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/GAMBIYA.html
 Languages:
   - en-GM
@@ -174,13 +174,13 @@ language_used:
   - "[[_Standards/WikiData/WD~Mandinka,33678]]"
   - "[[_Standards/WikiData/WD~Mandjak,35822]]"
   - "[[_Standards/WikiData/WD~Serer,36284]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_The_Gambia,1427127]]"
 Libris_URI: 75kml5jr0dgh804
 licence_plate_code: WAG
 license: CC BY-SA 4.0
 life_expectancy: 61.193
-linkTitle:
+linkTitle: ""
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~West_Africa,4412]]"
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 located_in_time_zone:
@@ -253,7 +253,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Gambia.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE.wav
 publish: true
-publishDate:
+publishDate: ""
 replaces: "[[_Standards/WikiData/WD~Commonwealth_realm_of_the_Gambia,7735661]]"
 rural_population:
   - 955107

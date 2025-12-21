@@ -1,18 +1,19 @@
 ---
 aliases:
   - 侍
+  - Samurai
 has_id_wikidata: Q38142
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
-subclass_of: "[[_Standards/WikiData/WD~warrior,1250916]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~bushi,1975935]]"
-has_list: "[[_Standards/WikiData/WD~list_of_samurai,6637227]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_samurai,13479978]]"
-instance_of: "[[_Standards/WikiData/WD~profession,28640]]"
-country: "[[_Standards/WikiData/WD~Japan,17]]"
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+subclass_of: '[[_Standards/WikiData/WD~warrior,1250916]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~bushi,1975935]]'
+has_list: '[[_Standards/WikiData/WD~list_of_samurai,6637227]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_samurai,13479978]]'
+instance_of: '[[_Standards/WikiData/WD~profession,28640]]'
+country: '[[_Standards/WikiData/WD~Japan,17]]'
 Commons_category: Samurai
 IMDb_keyword: samurai
 hashtag: samurai

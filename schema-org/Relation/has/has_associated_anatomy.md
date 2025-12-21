@@ -1,23 +1,24 @@
 ---
 aliases:
   - has_associated_anatomy
+  - has associated anatomy
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - associated
   - anatomy
   - associatedAnatomy
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_associated_anatomy
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -4,22 +4,24 @@ aliases:
   - cost_origin
   - costOrigin
   - has_text_of_cost_origin
+  - has_cost_origin
+  - has cost origin
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - cost
   - origin
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_cost_origin
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

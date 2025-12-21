@@ -4,22 +4,24 @@ aliases:
   - cooking_method
   - cookingMethod
   - has_text_of_cooking_method
+  - has_cooking_method
+  - has cooking method
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - cooking
   - method
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_cooking_method
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

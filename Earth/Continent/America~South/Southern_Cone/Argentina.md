@@ -1,11 +1,20 @@
 ---
+aliases:
+  - Argentina
+  - Argentine
+  - الأرجنتين
+  - 阿根廷
+  - Аргентина
+  - the Argentine Republic
+  - la República Argentina
+  - Argentina (la)
+has_id_wikidata: Q414
 location:
   - -34.62
   - -58.41
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q414
 SpocWebEntityId: 26835
 isDeleted: false
 confidential: public
@@ -16,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Argentina
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Argentina
-  - Argentine
-  - الأرجنتين
-  - 阿根廷
-  - Аргентина
-  - the Argentine Republic
-  - la República Argentina
-  - Argentina (la)
+publishDate: ""
+expiryDate: ""
 Languages:
   - es-AR
   - en

@@ -1,25 +1,27 @@
 ---
-excludes: 
+aliases:
+  - FileClass~EducationalAudience
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience
 fields:
-- id: 1lUTdS
-  name: EducationalRole
-  options: {}
-  type: Input
-  path: ''
+  - id: 1lUTdS
+    name: EducationalRole
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/EducationalAudience
-- class/Thing/Intangible/Audience/EducationalAudience
-- is_an_/EducationalAudience
-- schema-org/EducationalAudience
+  - class/EducationalAudience
+  - class/Thing/Intangible/Audience/EducationalAudience
+  - is_an_/EducationalAudience
+  - schema-org/EducationalAudience
 tags:
-- class/FileClass
-- class/EducationalAudience
-- '#is_an_/EducationalAudience'
-- class/Thing/Intangible/Audience/EducationalAudience
+  - class/FileClass
+  - class/EducationalAudience
+  - '#is_an_/EducationalAudience'
+  - class/Thing/Intangible/Audience/EducationalAudience
 version: 2.0
 ---
 

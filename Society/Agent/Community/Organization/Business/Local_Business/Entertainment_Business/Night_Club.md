@@ -5,21 +5,23 @@ aliases:
   - NightClub
   - is_a_night_club
   - dance club
+  - Night_Club
+  - Night Club
 has_id_wikidata: Q622425
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - night_club
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_night_club Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

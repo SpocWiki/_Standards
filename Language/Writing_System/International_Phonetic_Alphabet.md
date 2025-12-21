@@ -1,6 +1,7 @@
 ---
 aliases:
   - International Phonetic Alphabet
+  - International_Phonetic_Alphabet
 has_id_wikidata: Q21204
 short_name:
   - IPA
@@ -81,35 +82,35 @@ short_name:
   - ХАФӘ́
 OpenStreetMap_key: name:pronunciation
 used_by:
-  - "[[_Standards/WikiData/WD~lexicography,184524]]"
-  - "[[_Standards/WikiData/WD~linguistics,8162]]"
-  - "[[_Standards/WikiData/WD~speech_language_pathology,33226]]"
+  - '[[_Standards/WikiData/WD~lexicography,184524]]'
+  - '[[_Standards/WikiData/WD~linguistics,8162]]'
+  - '[[_Standards/WikiData/WD~speech_language_pathology,33226]]'
 different_from:
-  - "[[_Standards/WikiData/WD~NATO_phonetic_alphabet,190194]]"
-  - "[[_Standards/WikiData/WD~phonetic_transcription,743569]]"
-symbolizes: "[[_Standards/WikiData/WD~phone,202064]]"
-instance_of: "[[_Standards/WikiData/WD~phonetic_alphabet,579287]]"
+  - '[[_Standards/WikiData/WD~NATO_phonetic_alphabet,190194]]'
+  - '[[_Standards/WikiData/WD~phonetic_transcription,743569]]'
+symbolizes: '[[_Standards/WikiData/WD~phone,202064]]'
+instance_of: '[[_Standards/WikiData/WD~phonetic_alphabet,579287]]'
 creator:
-  - "[[_Standards/WikiData/WD~Alexander_John_Ellis,621776]]"
-  - "[[_Standards/WikiData/WD~Henry_Sweet,636326]]"
-  - "[[_Standards/WikiData/WD~Daniel_Jones,706648]]"
-author: "[[_Standards/WikiData/WD~International_Phonetic_Association,846513]]"
+  - '[[_Standards/WikiData/WD~Alexander_John_Ellis,621776]]'
+  - '[[_Standards/WikiData/WD~Henry_Sweet,636326]]'
+  - '[[_Standards/WikiData/WD~Daniel_Jones,706648]]'
+author: '[[_Standards/WikiData/WD~International_Phonetic_Association,846513]]'
 based_on:
-  - "[[_Standards/WikiData/WD~Romic_alphabet,2839610]]"
-  - "[[_Standards/WikiData/WD~Greek_alphabet,8216]]"
-  - "[[_Standards/WikiData/WD~Latin_script,8229]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_International_Phonetic_Alphabet,3136933]]"
+  - '[[_Standards/WikiData/WD~Romic_alphabet,2839610]]'
+  - '[[_Standards/WikiData/WD~Greek_alphabet,8216]]'
+  - '[[_Standards/WikiData/WD~Latin_script,8229]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_International_Phonetic_Alphabet,3136933]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_IPA,5614568]]"
-  - "[[_Standards/WikiData/WD~Template_IPA,5751017]]"
-  - "[[_Standards/WikiData/WD~Template_IPA_navigation,13034075]]"
-  - "[[_Standards/WikiData/WD~Template_IPA,14375728]]"
-  - "[[_Standards/WikiData/WD~Q15673665,15673665]]"
-  - "[[_Standards/WikiData/WD~Q114872997,114872997]]"
-has_part_s_: "[[_Standards/WikiData/WD~IPA_symbol,41885931]]"
+  - '[[_Standards/WikiData/WD~Template_Infobox_IPA,5614568]]'
+  - '[[_Standards/WikiData/WD~Template_IPA,5751017]]'
+  - '[[_Standards/WikiData/WD~Template_IPA_navigation,13034075]]'
+  - '[[_Standards/WikiData/WD~Template_IPA,14375728]]'
+  - '[[_Standards/WikiData/WD~Q15673665,15673665]]'
+  - '[[_Standards/WikiData/WD~Q114872997,114872997]]'
+has_part_s_: '[[_Standards/WikiData/WD~IPA_symbol,41885931]]'
 inception: 1888-08-01T00:00:00Z
 Wikidata_property: IPA transcription
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Otto_Jespersen,23870]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Otto_Jespersen,23870]]'
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/IPA%20Chart%202005%20in%20Bengali.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/IPA%20chart%202020.svg

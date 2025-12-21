@@ -4,20 +4,22 @@ aliases:
   - video_game_clip
   - VideoGameClip
   - is_a_video_game_clip
+  - Video_Game_Clip
+  - Video Game Clip
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - video_game_clip
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_video_game_clip Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

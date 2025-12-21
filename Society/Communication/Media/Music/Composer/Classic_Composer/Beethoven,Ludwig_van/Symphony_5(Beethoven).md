@@ -3,23 +3,25 @@ aliases:
   - Symphony No. 5 in C minor, Op. 67
   - Fate Symphony
   - Schicksalssinfonie
+  - Symphony_5(Beethoven)
+  - Symphony 5(Beethoven)
 has_id_wikidata: Q188709
-different_from: "[[_Standards/WikiData/WD~Symphony_No._5,240124]]"
-tonality: "[[_Standards/WikiData/WD~C_minor,309994]]"
-location_of_first_performance: "[[_Standards/WikiData/WD~Theater_an_der_Wien,374336]]"
+different_from: '[[_Standards/WikiData/WD~Symphony_No._5,240124]]'
+tonality: '[[_Standards/WikiData/WD~C_minor,309994]]'
+location_of_first_performance: '[[_Standards/WikiData/WD~Theater_an_der_Wien,374336]]'
 dedicated_to:
-  - "[[_Standards/WikiData/WD~Andrii_Rozumovskyi,502943]]"
-  - "[[_Standards/WikiData/WD~Joseph_Francis,_7th_Prince_of_Lobkowicz,570845]]"
+  - '[[_Standards/WikiData/WD~Andrii_Rozumovskyi,502943]]'
+  - '[[_Standards/WikiData/WD~Joseph_Francis,_7th_Prince_of_Lobkowicz,570845]]'
 part_of:
-  - "[[_Standards/WikiData/WD~list_of_symphonies_by_Ludwig_van_Beethoven,1851396]]"
-  - "[[_Standards/WikiData/WD~list_of_compositions_by_Ludwig_van_Beethoven_by_opus_number,24953042]]"
-derivative_work: "[[_Standards/WikiData/WD~Symphony_No._5,28943917]]"
-instance_of: "[[_Standards/WikiData/WD~musical_work_composition,105543609]]"
-location_of_creation: "[[_Standards/WikiData/WD~Vienna,1741]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~symphony,9734]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-composer: "[[_Standards/WikiData/WD~Ludwig_van_Beethoven,255]]"
-opus_number: "67"
+  - '[[_Standards/WikiData/WD~list_of_symphonies_by_Ludwig_van_Beethoven,1851396]]'
+  - '[[_Standards/WikiData/WD~list_of_compositions_by_Ludwig_van_Beethoven_by_opus_number,24953042]]'
+derivative_work: '[[_Standards/WikiData/WD~Symphony_No._5,28943917]]'
+instance_of: '[[_Standards/WikiData/WD~musical_work_composition,105543609]]'
+location_of_creation: '[[_Standards/WikiData/WD~Vienna,1741]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~symphony,9734]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+composer: '[[_Standards/WikiData/WD~Ludwig_van_Beethoven,255]]'
+opus_number: 67
 musical_motif: "{\\clef treble \\key c \\minor \\set Staff.midiInstrument=#\"violin\"\\tempo\"Allegro con brio\"2=108\\time 2/4r8g'\\ff[g'g']ees'2\\fermata r8f'[f'f']d'2~d'\\fermata}"
 Commons_category: Symphony No. 5 (Beethoven)
 title: 5. Sinfonie

@@ -1,40 +1,41 @@
 ---
-has_id_wikidata: Q213812
 aliases:
   - George Herman "Babe" Ruth
   - George Herman Ruth
   - Babe Ruth
   - '"Babe" Ruth'
+  - Babe_Ruth
+has_id_wikidata: Q213812
 member_of_sports_team:
-  - "[[_Standards/WikiData/WD~New_York_Yankees,213417]]"
-  - "[[_Standards/WikiData/WD~Boston_Red_Sox,213959]]"
-  - "[[_Standards/WikiData/WD~Boston_Braves,5869139]]"
-handedness: "[[_Standards/WikiData/WD~left_handedness,789447]]"
+  - '[[_Standards/WikiData/WD~New_York_Yankees,213417]]'
+  - '[[_Standards/WikiData/WD~Boston_Red_Sox,213959]]'
+  - '[[_Standards/WikiData/WD~Boston_Braves,5869139]]'
+handedness: '[[_Standards/WikiData/WD~left_handedness,789447]]'
 position_played_on_team_speciality:
-  - "[[_Standards/WikiData/WD~pitcher,1048902]]"
-  - "[[_Standards/WikiData/WD~outfielder,1142885]]"
-league_or_competition: "[[_Standards/WikiData/WD~Major_League_Baseball,1163715]]"
-cause_of_death: "[[_Standards/WikiData/WD~nasopharynx_carcinoma,1693598]]"
-place_of_death: "[[_Standards/WikiData/WD~Memorial_Sloan_Kettering_Cancer_Center,1808012]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-place_of_burial: "[[_Standards/WikiData/WD~Gate_of_Heaven_Cemetery,4127009]]"
-award_received: "[[_Standards/WikiData/WD~Boston_Red_Sox_Hall_of_Fame,4948047]]"
-spouse: "[[_Standards/WikiData/WD~Claire_Merritt_Ruth,5125265]]"
-child: "[[_Standards/WikiData/WD~Dorothy_Ruth,5298615]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-occupation: "[[_Standards/WikiData/WD~baseball_player,10871364]]"
+  - '[[_Standards/WikiData/WD~pitcher,1048902]]'
+  - '[[_Standards/WikiData/WD~outfielder,1142885]]'
+league_or_competition: '[[_Standards/WikiData/WD~Major_League_Baseball,1163715]]'
+cause_of_death: '[[_Standards/WikiData/WD~nasopharynx_carcinoma,1693598]]'
+place_of_death: '[[_Standards/WikiData/WD~Memorial_Sloan_Kettering_Cancer_Center,1808012]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+place_of_burial: '[[_Standards/WikiData/WD~Gate_of_Heaven_Cemetery,4127009]]'
+award_received: '[[_Standards/WikiData/WD~Boston_Red_Sox_Hall_of_Fame,4948047]]'
+spouse: '[[_Standards/WikiData/WD~Claire_Merritt_Ruth,5125265]]'
+child: '[[_Standards/WikiData/WD~Dorothy_Ruth,5298615]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+occupation: '[[_Standards/WikiData/WD~baseball_player,10871364]]'
 given_name:
-  - "[[_Standards/WikiData/WD~George,15921732]]"
-  - "[[_Standards/WikiData/WD~Herman,16276646]]"
-family_name: "[[_Standards/WikiData/WD~Ruth,37494439]]"
-record_held: "[[_Standards/WikiData/WD~Major_League_Baseball_single_season_home_run_record,38245483]]"
-relative: "[[_Standards/WikiData/WD~Julia_Ruth_Stevens,92536840]]"
+  - '[[_Standards/WikiData/WD~George,15921732]]'
+  - '[[_Standards/WikiData/WD~Herman,16276646]]'
+family_name: '[[_Standards/WikiData/WD~Ruth,37494439]]'
+record_held: '[[_Standards/WikiData/WD~Major_League_Baseball_single_season_home_run_record,38245483]]'
+relative: '[[_Standards/WikiData/WD~Julia_Ruth_Stevens,92536840]]'
 date_of_birth: 1895-02-06T00:00:00Z
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_birth: "[[_Standards/WikiData/WD~Baltimore,5092]]"
-sport: "[[_Standards/WikiData/WD~baseball,5369]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+place_of_birth: '[[_Standards/WikiData/WD~Baltimore,5092]]'
+sport: '[[_Standards/WikiData/WD~baseball,5369]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 earned_run_average: 2.28
 Commons_Creator_page: Babe Ruth
 Commons_gallery: Babe Ruth
@@ -43,14 +44,14 @@ nickname:
   - Bambino
   - Babe Ruth
   - Sultan of Swat
-U_S_National_Archives_Identifier: "10580232"
+U_S_National_Archives_Identifier: 10580232
 date_of_death: 1948-08-16T00:00:00Z
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Babe%20ruth%20grave.JPG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Babe%20Ruth%2C%201933.jpg
 official_website: http://www.baberuth.com/
-ISNI: "0000000084360580"
-Munzinger_Sport_number: "01000004528"
-P8189: "987007457756905171"
+ISNI: 0000000084360580
+Munzinger_Sport_number: 01000004528
+P8189: 987007457756905171
 Facebook_username: BabeRuth
 birth_name: George Herman Ruth, Jr.
 work_period_end_: 1935-05-20T00:00:00Z

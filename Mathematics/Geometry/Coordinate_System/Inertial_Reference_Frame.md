@@ -2,8 +2,10 @@
 aliases:
   - Inertialsystem
   - inertial reference frame
-  - inertial space 
+  - inertial space
   - Galilean reference frame
+  - Inertial_Reference_Frame
+  - Inertial Reference Frame
 ---
 
 # [[Inertial_Reference_Frame]] 

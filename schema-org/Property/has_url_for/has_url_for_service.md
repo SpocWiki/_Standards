@@ -4,21 +4,23 @@ aliases:
   - service_url
   - serviceUrl
   - has_url_for_service_url
+  - has_url_for_service
+  - has url for service
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - service_url
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_service_url
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

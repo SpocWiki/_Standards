@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Marc Forster"
+  - Marc Forster
+  - Forster,Marc
 ---
 
 ## #has_/text_of_/abstract 

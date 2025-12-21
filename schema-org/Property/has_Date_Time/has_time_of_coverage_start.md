@@ -4,20 +4,21 @@ aliases:
   - coverage_start_time
   - coverageStartTime
   - has_time_of_coverage_start
+  - has time of coverage start
 confidential: public
 cssclasses:
   - Predicate
   - Date_Time
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
-layout:
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Date

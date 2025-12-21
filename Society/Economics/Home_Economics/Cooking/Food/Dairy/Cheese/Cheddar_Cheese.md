@@ -1,30 +1,32 @@
 ---
 aliases:
   - cheddar
+  - Cheddar_Cheese
+  - Cheddar Cheese
 has_id_wikidata: Q217525
 subclass_of:
-  - "[[_Standards/WikiData/WD~dairy_product,185217]]"
+  - '[[_Standards/WikiData/WD~dairy_product,185217]]'
   - "[[_Standards/WikiData/WD~cow's_milk_cheese,3088299]]"
-  - "[[_Standards/WikiData/WD~British_cheese,19361017]]"
-different_from: "[[_Standards/WikiData/WD~Cheddar,415379]]"
-named_after: "[[_Standards/WikiData/WD~Cheddar,1019479]]"
+  - '[[_Standards/WikiData/WD~British_cheese,19361017]]'
+different_from: '[[_Standards/WikiData/WD~Cheddar,415379]]'
+named_after: '[[_Standards/WikiData/WD~Cheddar,1019479]]'
 made_from_material: "[[_Standards/WikiData/WD~cow's_milk,10988133]]"
-has_part_s_: "[[_Standards/WikiData/WD~milk,8495]]"
-location_of_creation: "[[_Standards/WikiData/WD~Somerset,23157]]"
+has_part_s_: '[[_Standards/WikiData/WD~milk,8495]]'
+location_of_creation: '[[_Standards/WikiData/WD~Somerset,23157]]'
 country_of_origin:
-  - "[[_Standards/WikiData/WD~England,21]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~England,21]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 food_energy: 410
-OmegaWiki_Defined_Meaning: "537452"
-USDA_NDB_number: "01009"
+OmegaWiki_Defined_Meaning: 537452
+USDA_NDB_number: 01009
 native_label: Cheddar
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-Xabier%20Ca%C3%B1as-Cheddar%20gazta.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Somerset-Cheddar.jpg
 equivalent_class: http://id.cabi.org/cabt/26971
 download_URL: https://factgaze.com/the-complete-guide-to-cheddar-cheese/
-Common_Procurement_Vocabulary_code: "15543200"
-Amazon_com_browse_node: "6520458011"
-P8189: "987007285077905171"
+Common_Procurement_Vocabulary_code: 15543200
+Amazon_com_browse_node: 6520458011
+P8189: 987007285077905171
 UMLS_CUI: C0452767
 DPLA_subject_term:
   - Cheddar (Fromage)

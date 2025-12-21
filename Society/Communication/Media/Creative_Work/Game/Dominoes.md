@@ -1,28 +1,29 @@
 ---
 aliases:
   - Domino
+  - Dominoes
 has_id_wikidata: Q32907
 different_from:
-  - "[[_Standards/WikiData/WD~Domino,227425]]"
-  - "[[_Standards/WikiData/WD~Chinese_dominoes,5254574]]"
+  - '[[_Standards/WikiData/WD~Domino,227425]]'
+  - '[[_Standards/WikiData/WD~Chinese_dominoes,5254574]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-instance_of: "[[_Standards/WikiData/WD~tile_based_game,1272194]]"
-based_on: "[[_Standards/WikiData/WD~Pai_gow,1278119]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~tile_based_game,1272194]]'
+based_on: '[[_Standards/WikiData/WD~Pai_gow,1278119]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Board_and_table_games,9456907]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Toys,21830926]]"
-has_part_s_: "[[_Standards/WikiData/WD~domino_tile,16629690]]"
-subclass_of: "[[_Standards/WikiData/WD~game_equipment,17638008]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Board_and_table_games,9456907]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Toys,21830926]]'
+has_part_s_: '[[_Standards/WikiData/WD~domino_tile,16629690]]'
+subclass_of: '[[_Standards/WikiData/WD~game_equipment,17638008]]'
 minimum_number_of_players: 2
 maximum_number_of_players: 4
-Nomenclature_for_Museum_Cataloging: "14280"
-OmegaWiki_Defined_Meaning: "1069788"
+Nomenclature_for_Museum_Cataloging: 14280
+OmegaWiki_Defined_Meaning: 1069788
 Commons_gallery: Dominoes
 Commons_category: Dominoes
-UNSPSC_Code: "60102513"
+UNSPSC_Code: 60102513
 Iconclass_notation: 43C54
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dominospiel.JPG
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Domino-article.ogg

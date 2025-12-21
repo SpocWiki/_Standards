@@ -4,20 +4,22 @@ aliases:
   - toy_store
   - ToyStore
   - is_a_toy_store
+  - Toy_Store
+  - Toy Store
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - toy_store
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_toy_store Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

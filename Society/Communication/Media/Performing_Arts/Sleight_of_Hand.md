@@ -3,22 +3,24 @@ aliases:
   - prestidigitation
   - legerdemain
   - Fingerfertigkeit
+  - Sleight_of_Hand
+  - Sleight of Hand
 has_id_wikidata: Q350834
 used_by:
-  - "[[_Standards/WikiData/WD~entertainer,138858]]"
-  - "[[_Standards/WikiData/WD~card_sharp,1394884]]"
-  - "[[_Standards/WikiData/WD~illusionist,1658894]]"
-  - "[[_Standards/WikiData/WD~pickpocket,13163812]]"
+  - '[[_Standards/WikiData/WD~entertainer,138858]]'
+  - '[[_Standards/WikiData/WD~card_sharp,1394884]]'
+  - '[[_Standards/WikiData/WD~illusionist,1658894]]'
+  - '[[_Standards/WikiData/WD~pickpocket,13163812]]'
 part_of:
-  - "[[_Standards/WikiData/WD~card_manipulation,599568]]"
-  - "[[_Standards/WikiData/WD~pickpocketing,873750]]"
-  - "[[_Standards/WikiData/WD~micromagic,2096207]]"
-  - "[[_Standards/WikiData/WD~cardistry,2110853]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-has_part_s_: "[[_Standards/WikiData/WD~palming,3053177]]"
+  - '[[_Standards/WikiData/WD~card_manipulation,599568]]'
+  - '[[_Standards/WikiData/WD~pickpocketing,873750]]'
+  - '[[_Standards/WikiData/WD~micromagic,2096207]]'
+  - '[[_Standards/WikiData/WD~cardistry,2110853]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+has_part_s_: '[[_Standards/WikiData/WD~palming,3053177]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~circus_skill,4990963]]"
-  - "[[_Standards/WikiData/WD~fine_motor_skill,46627]]"
+  - '[[_Standards/WikiData/WD~circus_skill,4990963]]'
+  - '[[_Standards/WikiData/WD~fine_motor_skill,46627]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Display%20Card%20Flourish.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Sleight%20of%20hand.ogg
 ---

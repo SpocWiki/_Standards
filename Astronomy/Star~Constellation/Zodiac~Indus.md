@@ -1,28 +1,30 @@
 ---
+aliases:
+  - Zodiac~Indus
+has_id_wikidata: Q10450
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-has_id_wikidata: Q10450
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Petrus_Plancius,333534]]"
-part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Petrus_Plancius,333534]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q10729034,10729034]]"
-  - "[[_Standards/WikiData/WD~Template_Stars_of_Indus,14336010]]"
+  - '[[_Standards/WikiData/WD~Q10729034,10729034]]'
+  - '[[_Standards/WikiData/WD~Template_Stars_of_Indus,14336010]]'
 time_of_discovery_or_invention: 1597-01-01T00:00:00Z
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Sagittarius,8866]]"
-  - "[[_Standards/WikiData/WD~Microscopium,10492]]"
-  - "[[_Standards/WikiData/WD~Octans,10503]]"
-  - "[[_Standards/WikiData/WD~Pavo,10515]]"
-  - "[[_Standards/WikiData/WD~Telescopium,10546]]"
-  - "[[_Standards/WikiData/WD~Grus,10563]]"
-  - "[[_Standards/WikiData/WD~Tucana,10567]]"
-instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
-named_after: "[[_Standards/WikiData/WD~Indigenous_peoples_of_the_Americas,36747]]"
+  - '[[_Standards/WikiData/WD~Sagittarius,8866]]'
+  - '[[_Standards/WikiData/WD~Microscopium,10492]]'
+  - '[[_Standards/WikiData/WD~Octans,10503]]'
+  - '[[_Standards/WikiData/WD~Pavo,10515]]'
+  - '[[_Standards/WikiData/WD~Telescopium,10546]]'
+  - '[[_Standards/WikiData/WD~Grus,10563]]'
+  - '[[_Standards/WikiData/WD~Tucana,10567]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+named_after: '[[_Standards/WikiData/WD~Indigenous_peoples_of_the_Americas,36747]]'
 area: 294
 official_name: Indus
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Indus.jpg

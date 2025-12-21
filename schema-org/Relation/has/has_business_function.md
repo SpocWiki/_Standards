@@ -2,12 +2,13 @@
 aliases:
   - has business-function
   - has_business_function
+  - has business function
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - function
   - business_function
   - businessFunction
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_business_function
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

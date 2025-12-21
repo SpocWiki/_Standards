@@ -1,41 +1,42 @@
 ---
 aliases:
   - Burj Khalifa
+  - Burj_Khalifa
 has_id_wikidata: Q12495
 made_from_material:
-  - "[[_Standards/WikiData/WD~reinforced_concrete,184190]]"
-  - "[[_Standards/WikiData/WD~aluminium,663]]"
-  - "[[_Standards/WikiData/WD~steel,11427]]"
-  - "[[_Standards/WikiData/WD~glass,11469]]"
+  - '[[_Standards/WikiData/WD~reinforced_concrete,184190]]'
+  - '[[_Standards/WikiData/WD~aluminium,663]]'
+  - '[[_Standards/WikiData/WD~steel,11427]]'
+  - '[[_Standards/WikiData/WD~glass,11469]]'
 architect:
-  - "[[_Standards/WikiData/WD~Adrian_Smith,374276]]"
-  - "[[_Standards/WikiData/WD~Skidmore,_Owings_&_Merrill,459464]]"
-  - "[[_Standards/WikiData/WD~William_F._Baker,834854]]"
-  - "[[_Standards/WikiData/WD~George_J._Efstathiou,5540994]]"
-  - "[[_Standards/WikiData/WD~Marshall_Strabala,13647155]]"
-significant_event: "[[_Standards/WikiData/WD~construction,385378]]"
+  - '[[_Standards/WikiData/WD~Adrian_Smith,374276]]'
+  - '[[_Standards/WikiData/WD~Skidmore,_Owings_&_Merrill,459464]]'
+  - '[[_Standards/WikiData/WD~William_F._Baker,834854]]'
+  - '[[_Standards/WikiData/WD~George_J._Efstathiou,5540994]]'
+  - '[[_Standards/WikiData/WD~Marshall_Strabala,13647155]]'
+significant_event: '[[_Standards/WikiData/WD~construction,385378]]'
 main_building_contractor:
-  - "[[_Standards/WikiData/WD~Samsung_C&T_Corporation,499194]]"
-  - "[[_Standards/WikiData/WD~Besix,2749540]]"
-  - "[[_Standards/WikiData/WD~Arabtec,4783497]]"
+  - '[[_Standards/WikiData/WD~Samsung_C&T_Corporation,499194]]'
+  - '[[_Standards/WikiData/WD~Besix,2749540]]'
+  - '[[_Standards/WikiData/WD~Arabtec,4783497]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~architectural_landmark,2319498]]"
-  - "[[_Standards/WikiData/WD~skyscraper,11303]]"
-inspired_by: "[[_Standards/WikiData/WD~Great_Mosque_of_Samarra,593115]]"
-structural_engineer: "[[_Standards/WikiData/WD~William_F._Baker,834854]]"
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~architectural_landmark,2319498]]'
+  - '[[_Standards/WikiData/WD~skyscraper,11303]]'
+inspired_by: '[[_Standards/WikiData/WD~Great_Mosque_of_Samarra,593115]]'
+structural_engineer: '[[_Standards/WikiData/WD~William_F._Baker,834854]]'
 architectural_style:
-  - "[[_Standards/WikiData/WD~high_tech_architecture,845318]]"
-  - "[[_Standards/WikiData/WD~neo_futurism,17012219]]"
+  - '[[_Standards/WikiData/WD~high_tech_architecture,845318]]'
+  - '[[_Standards/WikiData/WD~neo_futurism,17012219]]'
 has_use:
-  - "[[_Standards/WikiData/WD~office_building,1021645]]"
-  - "[[_Standards/WikiData/WD~hotel,27686]]"
-named_after: "[[_Standards/WikiData/WD~Khalifa_bin_Zayed_Al_Nahyan,1059948]]"
-developer: "[[_Standards/WikiData/WD~Emaar_Properties,1153463]]"
-owned_by: "[[_Standards/WikiData/WD~Emaar_Properties,1153463]]"
-state_of_use: "[[_Standards/WikiData/WD~in_use,55654238]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Dubai,612]]"
-country: "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
+  - '[[_Standards/WikiData/WD~office_building,1021645]]'
+  - '[[_Standards/WikiData/WD~hotel,27686]]'
+named_after: '[[_Standards/WikiData/WD~Khalifa_bin_Zayed_Al_Nahyan,1059948]]'
+developer: '[[_Standards/WikiData/WD~Emaar_Properties,1153463]]'
+owned_by: '[[_Standards/WikiData/WD~Emaar_Properties,1153463]]'
+state_of_use: '[[_Standards/WikiData/WD~in_use,55654238]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Dubai,612]]'
+country: '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
 floors_below_ground: 1
 capital_cost: 1500000000
 number_of_elevators: 58

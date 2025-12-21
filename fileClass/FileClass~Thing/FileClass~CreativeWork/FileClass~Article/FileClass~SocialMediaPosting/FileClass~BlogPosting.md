@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~BlogPosting
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/BlogPosting
-- class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting
-- is_a_/BlogPosting
-- schema-org/BlogPosting
+  - class/BlogPosting
+  - class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting
+  - is_a_/BlogPosting
+  - schema-org/BlogPosting
 tags:
-- class/FileClass
-- class/BlogPosting
-- is_a_/BlogPosting
-- class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting
+  - class/FileClass
+  - class/BlogPosting
+  - is_a_/BlogPosting
+  - class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting
 version: 2.0
 ---
 

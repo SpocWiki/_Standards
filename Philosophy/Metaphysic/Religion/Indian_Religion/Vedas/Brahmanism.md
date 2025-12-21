@@ -1,18 +1,19 @@
 ---
 aliases:
   - Vedism
+  - Brahmanism
 has_id_wikidata: Q889766
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-in_opposition_to: "[[_Standards/WikiData/WD~anti_Brahminism,4774117]]"
-subclass_of: "[[_Standards/WikiData/WD~Hinduism,9089]]"
-instance_of: "[[_Standards/WikiData/WD~religion,9174]]"
-Dewey_Decimal_Classification: "294.5"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+in_opposition_to: '[[_Standards/WikiData/WD~anti_Brahminism,4774117]]'
+subclass_of: '[[_Standards/WikiData/WD~Hinduism,9089]]'
+instance_of: '[[_Standards/WikiData/WD~religion,9174]]'
+Dewey_Decimal_Classification: 294.5
 ---
 
 # [[Brahmanism]] 

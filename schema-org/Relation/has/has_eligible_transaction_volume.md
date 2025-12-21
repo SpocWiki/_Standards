@@ -2,12 +2,13 @@
 aliases:
   - has eligible-transaction-volume
   - has_eligible_transaction_volume
+  - has eligible transaction volume
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - volume
   - eligible_transaction_volume
   - eligibleTransactionVolume
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_eligible_transaction_volume
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

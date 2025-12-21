@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Keanu Reeves"
-- "Keanu Charles Reeves"
+  - Keanu Reeves
+  - Keanu Charles Reeves
+  - Reeves,Keanu
 ---
 
 #has_/time_/started :: 1964-09-02 

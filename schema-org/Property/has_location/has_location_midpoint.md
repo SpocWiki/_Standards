@@ -4,21 +4,22 @@ aliases:
   - geo_midpoint
   - geoMidpoint
   - has_location_midpoint
+  - has location midpoint
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - geo_midpoint
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_midpoint
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

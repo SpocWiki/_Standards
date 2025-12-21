@@ -1,8 +1,9 @@
 ---
 aliases:
   - Äquinoktium
-  - Tagundnachtgleiche 
+  - Tagundnachtgleiche
   - Tag-und-Nacht-Gleiche
+  - Equinox
 ---
 
 # [[Equinox]] 

@@ -3,67 +3,68 @@ aliases:
   - Thai language
   - Thai
   - Siamese
+  - Lang-tha
 has_id_wikidata: Q9217
 Glottolog_code: thai1261
 Baidu_Tieba_name: 泰语
 short_name:
   - тайаг
   - тайский
-Dewey_Decimal_Classification: "495.91"
-studied_by: "[[_Standards/WikiData/WD~Thai_studies,174028]]"
+Dewey_Decimal_Classification: 495.91
+studied_by: '[[_Standards/WikiData/WD~Thai_studies,174028]]'
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~stress,181767]]"
-  - "[[_Standards/WikiData/WD~tonal_language,191328]]"
-  - "[[_Standards/WikiData/WD~analytic_language,209544]]"
-  - "[[_Standards/WikiData/WD~subject_verb_object,651641]]"
-  - "[[_Standards/WikiData/WD~isolating_language,7423311]]"
-  - "[[_Standards/WikiData/WD~stress_timed_language,7888721]]"
-  - "[[_Standards/WikiData/WD~noun_adjective,74835210]]"
+  - '[[_Standards/WikiData/WD~stress,181767]]'
+  - '[[_Standards/WikiData/WD~tonal_language,191328]]'
+  - '[[_Standards/WikiData/WD~analytic_language,209544]]'
+  - '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
+  - '[[_Standards/WikiData/WD~isolating_language,7423311]]'
+  - '[[_Standards/WikiData/WD~stress_timed_language,7888721]]'
+  - '[[_Standards/WikiData/WD~noun_adjective,74835210]]'
 has_tense:
-  - "[[_Standards/WikiData/WD~present_tense,192613]]"
-  - "[[_Standards/WikiData/WD~future_tense,501405]]"
+  - '[[_Standards/WikiData/WD~present_tense,192613]]'
+  - '[[_Standards/WikiData/WD~future_tense,501405]]'
 writing_system:
-  - "[[_Standards/WikiData/WD~Thai_script,236376]]"
-  - "[[_Standards/WikiData/WD~romanization_of_Thai,7362709]]"
+  - '[[_Standards/WikiData/WD~Thai_script,236376]]'
+  - '[[_Standards/WikiData/WD~romanization_of_Thai,7362709]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~standard_language,399495]]"
-  - "[[_Standards/WikiData/WD~literary_language,1097949]]"
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~human_language,20162172]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
-  - "[[_Standards/WikiData/WD~language,34770]]"
-named_after: "[[_Standards/WikiData/WD~Thai_people,472834]]"
-language_regulatory_body: "[[_Standards/WikiData/WD~Royal_Society_of_Thailand,689721]]"
-different_from: "[[_Standards/WikiData/WD~Tai,749720]]"
-subclass_of: "[[_Standards/WikiData/WD~Southwestern_Tai,10889250]]"
+  - '[[_Standards/WikiData/WD~standard_language,399495]]'
+  - '[[_Standards/WikiData/WD~literary_language,1097949]]'
+  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
+  - '[[_Standards/WikiData/WD~human_language,20162172]]'
+  - '[[_Standards/WikiData/WD~natural_language,33742]]'
+  - '[[_Standards/WikiData/WD~language,34770]]'
+named_after: '[[_Standards/WikiData/WD~Thai_people,472834]]'
+language_regulatory_body: '[[_Standards/WikiData/WD~Royal_Society_of_Thailand,689721]]'
+different_from: '[[_Standards/WikiData/WD~Tai,749720]]'
+subclass_of: '[[_Standards/WikiData/WD~Southwestern_Tai,10889250]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Krung_Thep_dialect,11328388]]"
-  - "[[_Standards/WikiData/WD~Khorat_Thai,13022730]]"
-UNESCO_language_status: "[[_Standards/WikiData/WD~1_safe,20672086]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~1_National,29051546]]"
+  - '[[_Standards/WikiData/WD~Krung_Thep_dialect,11328388]]'
+  - '[[_Standards/WikiData/WD~Khorat_Thai,13022730]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546]]'
 coordinate_location: Point(100.67 14.19)
 has_grammatical_person:
-  - "[[_Standards/WikiData/WD~first_person_singular,51929218]]"
-  - "[[_Standards/WikiData/WD~first_person_plural,51929290]]"
-  - "[[_Standards/WikiData/WD~second_person_singular,51929369]]"
-  - "[[_Standards/WikiData/WD~second_person_plural,51929403]]"
-  - "[[_Standards/WikiData/WD~third_person_singular,51929447]]"
-  - "[[_Standards/WikiData/WD~third_person_plural,51929517]]"
+  - '[[_Standards/WikiData/WD~first_person_singular,51929218]]'
+  - '[[_Standards/WikiData/WD~first_person_plural,51929290]]'
+  - '[[_Standards/WikiData/WD~second_person_singular,51929369]]'
+  - '[[_Standards/WikiData/WD~second_person_plural,51929403]]'
+  - '[[_Standards/WikiData/WD~third_person_singular,51929447]]'
+  - '[[_Standards/WikiData/WD~third_person_plural,51929517]]'
 country:
-  - "[[_Standards/WikiData/WD~Cambodia,424]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Myanmar,836]]"
-  - "[[_Standards/WikiData/WD~Thailand,869]]"
-indigenous_to: "[[_Standards/WikiData/WD~Thailand,869]]"
+  - '[[_Standards/WikiData/WD~Cambodia,424]]'
+  - '[[_Standards/WikiData/WD~Malaysia,833]]'
+  - '[[_Standards/WikiData/WD~Myanmar,836]]'
+  - '[[_Standards/WikiData/WD~Thailand,869]]'
+indigenous_to: '[[_Standards/WikiData/WD~Thailand,869]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Khmer,9205]]"
-  - "[[_Standards/WikiData/WD~Sanskrit,11059]]"
-  - "[[_Standards/WikiData/WD~Pali,36727]]"
-  - "[[_Standards/WikiData/WD~Teochew,36759]]"
+  - '[[_Standards/WikiData/WD~Khmer,9205]]'
+  - '[[_Standards/WikiData/WD~Sanskrit,11059]]'
+  - '[[_Standards/WikiData/WD~Pali,36727]]'
+  - '[[_Standards/WikiData/WD~Teochew,36759]]'
 number_of_speakers_writers_or_signers: 20700000
-ABS_ASCL_2011_code: "6402"
-IAB_code: "1189"
-OmegaWiki_Defined_Meaning: "6644"
+ABS_ASCL_2011_code: 6402
+IAB_code: 1189
+OmegaWiki_Defined_Meaning: 6644
 GitHub_topic: thai
 ISO_639_1_code: th
 POSIX_locale_identifier: th

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~EmailMessage
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Message
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/EmailMessage
-- class/Thing/CreativeWork/Message/EmailMessage
-- is_an_/EmailMessage
-- schema-org/EmailMessage
+  - class/EmailMessage
+  - class/Thing/CreativeWork/Message/EmailMessage
+  - is_an_/EmailMessage
+  - schema-org/EmailMessage
 tags:
-- class/FileClass
-- class/EmailMessage
-- '#is_an_/EmailMessage'
-- class/Thing/CreativeWork/Message/EmailMessage
+  - class/FileClass
+  - class/EmailMessage
+  - '#is_an_/EmailMessage'
+  - class/Thing/CreativeWork/Message/EmailMessage
 version: 2.0
 ---
 

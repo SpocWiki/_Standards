@@ -1,7 +1,9 @@
 ---
 aliases:
-- Beobachtungsstudie
-- "Observational study"
+  - Beobachtungsstudie
+  - Observational study
+  - Observational_Study
+  - Observational Study
 ---
 
 # [[Observational_Study]] 

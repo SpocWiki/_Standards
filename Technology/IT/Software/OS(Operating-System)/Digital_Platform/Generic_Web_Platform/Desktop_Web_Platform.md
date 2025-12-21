@@ -4,21 +4,23 @@ aliases:
   - desktop_web_platform
   - DesktopWebPlatform
   - is_a_desktop_web_platform
+  - Desktop_Web_Platform
+  - Desktop Web Platform
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: DigitalPlatformEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - desktop_web_platform
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_desktop_web_platform Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

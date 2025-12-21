@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Recommendation
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Recommendation
-- class/Thing/CreativeWork/Review/Recommendation
-- is_a_/Recommendation
-- schema-org/Recommendation
+  - class/Recommendation
+  - class/Thing/CreativeWork/Review/Recommendation
+  - is_a_/Recommendation
+  - schema-org/Recommendation
 tags:
-- class/FileClass
-- class/Recommendation
-- is_a_/Recommendation
-- class/Thing/CreativeWork/Review/Recommendation
+  - class/FileClass
+  - class/Recommendation
+  - is_a_/Recommendation
+  - class/Thing/CreativeWork/Review/Recommendation
 version: 2.0
 ---
 

@@ -4,20 +4,22 @@ aliases:
   - aggregate_offer
   - AggregateOffer
   - is_an_aggregate_offer
+  - Aggregate_Offer
+  - Aggregate Offer
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - aggregate_offer
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_aggregate_offer Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

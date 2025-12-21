@@ -1,56 +1,57 @@
 ---
 aliases:
   - Sahara Desert
+  - Sahara
 has_id_wikidata: Q6583
 area: 9200000
 Commons_category: Sahara
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
 coordinate_location: Point(12.612222222 23.079722222)
 country:
-  - "[[_Standards/WikiData/WD~Algeria,262]]"
-  - "[[_Standards/WikiData/WD~Chad,657]]"
-  - "[[_Standards/WikiData/WD~Mali,912]]"
-  - "[[_Standards/WikiData/WD~Tunisia,948]]"
-  - "[[_Standards/WikiData/WD~Mauritania,1025]]"
-  - "[[_Standards/WikiData/WD~Morocco,1028]]"
-  - "[[_Standards/WikiData/WD~Niger,1032]]"
-  - "[[_Standards/WikiData/WD~Sudan,1049]]"
-  - "[[_Standards/WikiData/WD~Egypt,79]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
+  - '[[_Standards/WikiData/WD~Algeria,262]]'
+  - '[[_Standards/WikiData/WD~Chad,657]]'
+  - '[[_Standards/WikiData/WD~Mali,912]]'
+  - '[[_Standards/WikiData/WD~Tunisia,948]]'
+  - '[[_Standards/WikiData/WD~Mauritania,1025]]'
+  - '[[_Standards/WikiData/WD~Morocco,1028]]'
+  - '[[_Standards/WikiData/WD~Niger,1032]]'
+  - '[[_Standards/WikiData/WD~Sudan,1049]]'
+  - '[[_Standards/WikiData/WD~Egypt,79]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-different_from: "[[_Standards/WikiData/WD~Sahara,1293939]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+different_from: '[[_Standards/WikiData/WD~Sahara,1293939]]'
 ecoregion_WWF_:
-  - "[[_Standards/WikiData/WD~Tanezrouft,1384782]]"
-  - "[[_Standards/WikiData/WD~Tibesti-Jebel_Uweinat_montane_xeric_woodlands,3889412]]"
-  - "[[_Standards/WikiData/WD~Sahara_Desert,3889421]]"
-  - "[[_Standards/WikiData/WD~South_Saharan_steppe_and_woodlands,3890655]]"
-  - "[[_Standards/WikiData/WD~West_Saharan_montane_xeric_woodlands,3890933]]"
-  - "[[_Standards/WikiData/WD~Atlantic_coastal_desert,3892981]]"
-  - "[[_Standards/WikiData/WD~North_Saharan_steppe_and_woodlands,41285]]"
-highest_point: "[[_Standards/WikiData/WD~Emi_Koussi,257441]]"
+  - '[[_Standards/WikiData/WD~Tanezrouft,1384782]]'
+  - '[[_Standards/WikiData/WD~Tibesti-Jebel_Uweinat_montane_xeric_woodlands,3889412]]'
+  - '[[_Standards/WikiData/WD~Sahara_Desert,3889421]]'
+  - '[[_Standards/WikiData/WD~South_Saharan_steppe_and_woodlands,3890655]]'
+  - '[[_Standards/WikiData/WD~West_Saharan_montane_xeric_woodlands,3890933]]'
+  - '[[_Standards/WikiData/WD~Atlantic_coastal_desert,3892981]]'
+  - '[[_Standards/WikiData/WD~North_Saharan_steppe_and_woodlands,41285]]'
+highest_point: '[[_Standards/WikiData/WD~Emi_Koussi,257441]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sahara%20real%20color.jpg
-instance_of: "[[_Standards/WikiData/WD~desert,8514]]"
-Köppen_climate_classification: "[[_Standards/WikiData/WD~hot_desert_climate,5772665]]"
+instance_of: '[[_Standards/WikiData/WD~desert,8514]]'
+Köppen_climate_classification: '[[_Standards/WikiData/WD~hot_desert_climate,5772665]]'
 length: 4800
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Algeria,262]]"
-  - "[[_Standards/WikiData/WD~Chad,657]]"
-  - "[[_Standards/WikiData/WD~Mali,912]]"
-  - "[[_Standards/WikiData/WD~Tunisia,948]]"
-  - "[[_Standards/WikiData/WD~Libya,1016]]"
-  - "[[_Standards/WikiData/WD~Mauritania,1025]]"
-  - "[[_Standards/WikiData/WD~Morocco,1028]]"
-  - "[[_Standards/WikiData/WD~Sudan,1049]]"
-  - "[[_Standards/WikiData/WD~Egypt,79]]"
-lowest_point: "[[_Standards/WikiData/WD~Qattara_Depression,841050]]"
+  - '[[_Standards/WikiData/WD~Algeria,262]]'
+  - '[[_Standards/WikiData/WD~Chad,657]]'
+  - '[[_Standards/WikiData/WD~Mali,912]]'
+  - '[[_Standards/WikiData/WD~Tunisia,948]]'
+  - '[[_Standards/WikiData/WD~Libya,1016]]'
+  - '[[_Standards/WikiData/WD~Mauritania,1025]]'
+  - '[[_Standards/WikiData/WD~Morocco,1028]]'
+  - '[[_Standards/WikiData/WD~Sudan,1049]]'
+  - '[[_Standards/WikiData/WD~Egypt,79]]'
+lowest_point: '[[_Standards/WikiData/WD~Qattara_Depression,841050]]'
 native_label: الصحراء الكُبرى
 OmegaWiki_Defined_Meaning: 488981
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Sahara%20banner.jpg
 PM20_geo_code: C1a
-topic_s_main_template: "[[_Standards/WikiData/WD~Q18604125,18604125]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Q18604125,18604125]]'
 U_S_National_Archives_Identifier: 10044315
 width: 1800
 ---

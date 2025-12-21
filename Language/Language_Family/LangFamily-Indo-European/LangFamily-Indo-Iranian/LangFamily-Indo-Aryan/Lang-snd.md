@@ -2,48 +2,49 @@
 aliases:
   - Sindhi language
   - Sindhi
+  - Lang-snd
 has_id_wikidata: Q33997
 indigenous_to:
-  - "[[_Standards/WikiData/WD~Balochistan,163239]]"
-  - "[[_Standards/WikiData/WD~Gujarat,1061]]"
-  - "[[_Standards/WikiData/WD~Andhra_Pradesh,1159]]"
-  - "[[_Standards/WikiData/WD~Bihar,1165]]"
-  - "[[_Standards/WikiData/WD~Maharashtra,1191]]"
-  - "[[_Standards/WikiData/WD~Madhya_Pradesh,1188]]"
-  - "[[_Standards/WikiData/WD~Delhi,1353]]"
-  - "[[_Standards/WikiData/WD~Rajasthan,1437]]"
-  - "[[_Standards/WikiData/WD~Tamil_Nadu,1445]]"
-  - "[[_Standards/WikiData/WD~Uttar_Pradesh,1498]]"
-  - "[[_Standards/WikiData/WD~Odisha,22048]]"
-  - "[[_Standards/WikiData/WD~Sindh,37211]]"
-language_regulatory_body: "[[_Standards/WikiData/WD~Sindhi_Language_Authority,286970]]"
-linguistic_typology: "[[_Standards/WikiData/WD~subject_object_verb,539808]]"
+  - '[[_Standards/WikiData/WD~Balochistan,163239]]'
+  - '[[_Standards/WikiData/WD~Gujarat,1061]]'
+  - '[[_Standards/WikiData/WD~Andhra_Pradesh,1159]]'
+  - '[[_Standards/WikiData/WD~Bihar,1165]]'
+  - '[[_Standards/WikiData/WD~Maharashtra,1191]]'
+  - '[[_Standards/WikiData/WD~Madhya_Pradesh,1188]]'
+  - '[[_Standards/WikiData/WD~Delhi,1353]]'
+  - '[[_Standards/WikiData/WD~Rajasthan,1437]]'
+  - '[[_Standards/WikiData/WD~Tamil_Nadu,1445]]'
+  - '[[_Standards/WikiData/WD~Uttar_Pradesh,1498]]'
+  - '[[_Standards/WikiData/WD~Odisha,22048]]'
+  - '[[_Standards/WikiData/WD~Sindh,37211]]'
+language_regulatory_body: '[[_Standards/WikiData/WD~Sindhi_Language_Authority,286970]]'
+linguistic_typology: '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 writing_system:
-  - "[[_Standards/WikiData/WD~Gujarati,733944]]"
-  - "[[_Standards/WikiData/WD~Khojki,1740656]]"
-  - "[[_Standards/WikiData/WD~Khudabadi,6402810]]"
-  - "[[_Standards/WikiData/WD~Sindhi_Perso_Arabic_script,25550226]]"
-  - "[[_Standards/WikiData/WD~Devanagari_Sindhi,116688933]]"
-different_from: "[[_Standards/WikiData/WD~Sindhis,1258074]]"
+  - '[[_Standards/WikiData/WD~Gujarati,733944]]'
+  - '[[_Standards/WikiData/WD~Khojki,1740656]]'
+  - '[[_Standards/WikiData/WD~Khudabadi,6402810]]'
+  - '[[_Standards/WikiData/WD~Sindhi_Perso_Arabic_script,25550226]]'
+  - '[[_Standards/WikiData/WD~Devanagari_Sindhi,116688933]]'
+different_from: '[[_Standards/WikiData/WD~Sindhis,1258074]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
-subclass_of: "[[_Standards/WikiData/WD~Sindhi_languages,7522212]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~2_Provincial,29051547]]"
-part_of: "[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]"
-has_characteristic: "[[_Standards/WikiData/WD~Sahitya_Akademi_Prize_for_Translation_in_Sindhi,136719633]]"
+  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
+  - '[[_Standards/WikiData/WD~natural_language,33742]]'
+subclass_of: '[[_Standards/WikiData/WD~Sindhi_languages,7522212]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~2_Provincial,29051547]]'
+part_of: '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]'
+has_characteristic: '[[_Standards/WikiData/WD~Sahitya_Akademi_Prize_for_Translation_in_Sindhi,136719633]]'
 country:
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
+  - '[[_Standards/WikiData/WD~India,668]]'
+  - '[[_Standards/WikiData/WD~Pakistan,843]]'
 number_of_speakers_writers_or_signers: 24600000
-IAB_code: "1170"
-OmegaWiki_Defined_Meaning: "6694"
+IAB_code: 1170
+OmegaWiki_Defined_Meaning: 6694
 entry_in_abbreviations_table: S.
-ABS_ASCL_2011_code: "5208"
+ABS_ASCL_2011_code: 5208
 Ethnologue_com_language_code: snd
 ISO_639_3_code: snd
 ISO_639_2_code: snd
@@ -58,7 +59,7 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sindhi%20language.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Sindhi%20Literature%20%28cropped%29.JPG
 exact_match: http://publications.europa.eu/resource/authority/language/SND
-Dewey_Decimal_Classification: "491.41"
+Dewey_Decimal_Classification: 491.41
 Linguasphere_code: 59-AAF-f
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/SINDHI.html
 Glottolog_code: sind1272

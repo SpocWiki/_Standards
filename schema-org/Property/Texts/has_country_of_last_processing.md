@@ -4,12 +4,14 @@ aliases:
   - country_of_last_processing
   - countryOfLastProcessing
   - has_text_of_country_of_last_processing
+  - has_country_of_last_processing
+  - has country of last processing
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +19,11 @@ keywords:
   - of
   - last
   - processing
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_country_of_last_processing
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

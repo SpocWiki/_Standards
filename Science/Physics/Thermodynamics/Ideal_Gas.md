@@ -1,16 +1,18 @@
 ---
 aliases:
   - ideal gas
+  - Ideal_Gas
+  - Ideal Gas
 has_id_wikidata: Q172280
-has_use: "[[_Standards/WikiData/WD~ideal_gas_law,191785]]"
-instance_of: "[[_Standards/WikiData/WD~scientific_model,193946]]"
+has_use: '[[_Standards/WikiData/WD~ideal_gas_law,191785]]'
+instance_of: '[[_Standards/WikiData/WD~scientific_model,193946]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~mathematical_model,486902]]"
-  - "[[_Standards/WikiData/WD~gas,11432]]"
-opposite_of: "[[_Standards/WikiData/WD~real_gas,908724]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
+  - '[[_Standards/WikiData/WD~mathematical_model,486902]]'
+  - '[[_Standards/WikiData/WD~gas,11432]]'
+opposite_of: '[[_Standards/WikiData/WD~real_gas,908724]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/ideal-gas
 Gujarati_Vishwakosh_entry: આદર્શ-વાયુ
 ---

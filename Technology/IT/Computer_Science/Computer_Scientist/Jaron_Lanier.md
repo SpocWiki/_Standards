@@ -7,44 +7,44 @@ aliases:
 has_id_wikidata: Q92862
 name_in_native_language: Jaron Zepel Lani
 occupation:
-  - "[[_Standards/WikiData/WD~computer_scientist,82594]]"
-  - "[[_Standards/WikiData/WD~pianist,486748]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~visual_artist,3391743]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~programmer,5482740]]"
-  - "[[_Standards/WikiData/WD~essayist,11774202]]"
-  - "[[_Standards/WikiData/WD~artificial_intelligence_researcher,15976092]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-  - "[[_Standards/WikiData/WD~businessperson,43845]]"
-influenced_by: "[[_Standards/WikiData/WD~Marvin_Minsky,204815]]"
+  - '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+  - '[[_Standards/WikiData/WD~pianist,486748]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~visual_artist,3391743]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~programmer,5482740]]'
+  - '[[_Standards/WikiData/WD~essayist,11774202]]'
+  - '[[_Standards/WikiData/WD~artificial_intelligence_researcher,15976092]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
+  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+influenced_by: '[[_Standards/WikiData/WD~Marvin_Minsky,204815]]'
 employer:
-  - "[[_Standards/WikiData/WD~Silicon_Graphics,623459]]"
-  - "[[_Standards/WikiData/WD~VPL_Research,2506391]]"
-  - "[[_Standards/WikiData/WD~Advanced_Network_and_Services,4686242]]"
-  - "[[_Standards/WikiData/WD~Atari,_Inc.,13409231]]"
-  - "[[_Standards/WikiData/WD~Microsoft,2283]]"
-  - "[[_Standards/WikiData/WD~Columbia_University,49088]]"
-educated_at: "[[_Standards/WikiData/WD~New_Mexico_State_University,1353248]]"
-award_received: "[[_Standards/WikiData/WD~Goldsmith_Book_Prize,1414391]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Silicon_Graphics,623459]]'
+  - '[[_Standards/WikiData/WD~VPL_Research,2506391]]'
+  - '[[_Standards/WikiData/WD~Advanced_Network_and_Services,4686242]]'
+  - '[[_Standards/WikiData/WD~Atari,_Inc.,13409231]]'
+  - '[[_Standards/WikiData/WD~Microsoft,2283]]'
+  - '[[_Standards/WikiData/WD~Columbia_University,49088]]'
+educated_at: '[[_Standards/WikiData/WD~New_Mexico_State_University,1353248]]'
+award_received: '[[_Standards/WikiData/WD~Goldsmith_Book_Prize,1414391]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~You_Are_Not_a_Gadget,11858873]]"
-  - "[[_Standards/WikiData/WD~Who_Owns_the_Future_,17154960]]"
-given_name: "[[_Standards/WikiData/WD~Jaron,19968014]]"
-family_name: "[[_Standards/WikiData/WD~Lanier,21507896]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-field_of_work: "[[_Standards/WikiData/WD~computer_science,21198]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_birth: "[[_Standards/WikiData/WD~New_York_City,60]]"
+  - '[[_Standards/WikiData/WD~You_Are_Not_a_Gadget,11858873]]'
+  - '[[_Standards/WikiData/WD~Who_Owns_the_Future_,17154960]]'
+given_name: '[[_Standards/WikiData/WD~Jaron,19968014]]'
+family_name: '[[_Standards/WikiData/WD~Lanier,21507896]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+field_of_work: '[[_Standards/WikiData/WD~computer_science,21198]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_birth: '[[_Standards/WikiData/WD~New_York_City,60]]'
 Commons_category: Jaron Lanier
 date_of_birth: 1960-05-03T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jaron%20Lanier%201.jpg
 official_website: http://www.jaronlanier.com/
-ISNI: "0000000118753199"
+ISNI: 0000000118753199
 Europeana_entity: agent/base/148536
 ---
 

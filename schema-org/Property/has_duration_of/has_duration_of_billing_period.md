@@ -4,20 +4,21 @@ aliases:
   - billing_period
   - billingPeriod
   - has_duration_of_billing_period
+  - has duration of billing period
 confidential: public
 cssclasses:
   - Predicate
   - Duration
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
-layout:
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Durations

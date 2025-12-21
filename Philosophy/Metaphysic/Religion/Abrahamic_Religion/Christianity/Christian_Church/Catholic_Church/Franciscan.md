@@ -2,7 +2,8 @@
 aliases:
   - Franciscan Order
   - Franciscans
-has_id_wikidata:
+  - Franciscan
+has_id_wikidata: ''
 ---
 
 # [[Franciscan]] 

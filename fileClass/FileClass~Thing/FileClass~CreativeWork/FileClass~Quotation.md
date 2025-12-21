@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Quotation
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: AWhnlr
-  name: SpokenByCharacter
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
+  - id: AWhnlr
+    name: SpokenByCharacter
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
 icon: quote
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Quotation
-- class/Thing/CreativeWork/Quotation
-- is_a_/Quotation
-- schema-org/Quotation
+  - class/Quotation
+  - class/Thing/CreativeWork/Quotation
+  - is_a_/Quotation
+  - schema-org/Quotation
 tags:
-- class/FileClass
-- class/Quotation
-- is_a_/Quotation
-- class/Thing/CreativeWork/Quotation
+  - class/FileClass
+  - class/Quotation
+  - is_a_/Quotation
+  - class/Thing/CreativeWork/Quotation
 version: 2.0
 ---
 

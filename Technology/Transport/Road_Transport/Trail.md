@@ -3,14 +3,15 @@ aliases:
   - Pfad
   - path
   - track
+  - Trail
 has_id_wikidata: Q628179
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]"
-subclass_of: "[[_Standards/WikiData/WD~path,5004679]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~outdoor_route,11899420]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_trail,13362630]]"
-maintenance_method: "[[_Standards/WikiData/WD~trail_maintenance,66314461]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]'
+subclass_of: '[[_Standards/WikiData/WD~path,5004679]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~outdoor_route,11899420]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_trail,13362630]]'
+maintenance_method: '[[_Standards/WikiData/WD~trail_maintenance,66314461]]'
 properties_for_this_type:
   - terminus
   - length
@@ -18,7 +19,7 @@ properties_for_this_type:
   - cumulative elevation gain
   - located in the administrative territorial entity
 Commons_gallery: Trail
-U_S_National_Archives_Identifier: "10642332"
+U_S_National_Archives_Identifier: 10642332
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Burg%20Epprechtstein.jpg
 GeoNames_feature_code: R.TRL
 Commons_category: Trails

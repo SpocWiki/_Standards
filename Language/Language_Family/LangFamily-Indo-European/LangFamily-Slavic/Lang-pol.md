@@ -3,88 +3,89 @@ aliases:
   - Polish
   - Polnisch
   - polski
+  - Lang-pol
+has_id_wikidata: Q809
 tags:
   - Lang/pl
 type: Lang
-has_id_wikidata: Q809
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~stress,123414]]"
-  - "[[_Standards/WikiData/WD~nominative_accusative_language,178435]]"
-  - "[[_Standards/WikiData/WD~fusional_language,318917]]"
-  - "[[_Standards/WikiData/WD~subject_verb_object,651641]]"
-  - "[[_Standards/WikiData/WD~pro_drop_language,661936]]"
-  - "[[_Standards/WikiData/WD~stress_timed_language,7888721]]"
-  - "[[_Standards/WikiData/WD~free_order_language,33129605]]"
-  - "[[_Standards/WikiData/WD~adjective_noun,74834637]]"
-  - "[[_Standards/WikiData/WD~synthetic_language,48612]]"
+  - '[[_Standards/WikiData/WD~stress,123414]]'
+  - '[[_Standards/WikiData/WD~nominative_accusative_language,178435]]'
+  - '[[_Standards/WikiData/WD~fusional_language,318917]]'
+  - '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
+  - '[[_Standards/WikiData/WD~pro_drop_language,661936]]'
+  - '[[_Standards/WikiData/WD~stress_timed_language,7888721]]'
+  - '[[_Standards/WikiData/WD~free_order_language,33129605]]'
+  - '[[_Standards/WikiData/WD~adjective_noun,74834637]]'
+  - '[[_Standards/WikiData/WD~synthetic_language,48612]]'
 has_grammatical_case:
-  - "[[_Standards/WikiData/WD~nominative_case,131105]]"
-  - "[[_Standards/WikiData/WD~dative_case,145599]]"
-  - "[[_Standards/WikiData/WD~accusative_case,146078]]"
-  - "[[_Standards/WikiData/WD~genitive_case,146233]]"
-  - "[[_Standards/WikiData/WD~vocative_case,185077]]"
-  - "[[_Standards/WikiData/WD~instrumental_case,192997]]"
-  - "[[_Standards/WikiData/WD~locative_case,202142]]"
+  - '[[_Standards/WikiData/WD~nominative_case,131105]]'
+  - '[[_Standards/WikiData/WD~dative_case,145599]]'
+  - '[[_Standards/WikiData/WD~accusative_case,146078]]'
+  - '[[_Standards/WikiData/WD~genitive_case,146233]]'
+  - '[[_Standards/WikiData/WD~vocative_case,185077]]'
+  - '[[_Standards/WikiData/WD~instrumental_case,192997]]'
+  - '[[_Standards/WikiData/WD~locative_case,202142]]'
 indigenous_to:
-  - "[[_Standards/WikiData/WD~Silesians,140472]]"
-  - "[[_Standards/WikiData/WD~Kashubians,147239]]"
-  - "[[_Standards/WikiData/WD~Lviv_Oblast,164193]]"
-  - "[[_Standards/WikiData/WD~Frýdek_Místek_District,175781]]"
-  - "[[_Standards/WikiData/WD~Poles,1026]]"
-  - "[[_Standards/WikiData/WD~Žilina,25797]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
-follows: "[[_Standards/WikiData/WD~Middle_Polish,402878]]"
+  - '[[_Standards/WikiData/WD~Silesians,140472]]'
+  - '[[_Standards/WikiData/WD~Kashubians,147239]]'
+  - '[[_Standards/WikiData/WD~Lviv_Oblast,164193]]'
+  - '[[_Standards/WikiData/WD~Frýdek_Místek_District,175781]]'
+  - '[[_Standards/WikiData/WD~Poles,1026]]'
+  - '[[_Standards/WikiData/WD~Žilina,25797]]'
+  - '[[_Standards/WikiData/WD~Poland,36]]'
+follows: '[[_Standards/WikiData/WD~Middle_Polish,402878]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-subclass_of: "[[_Standards/WikiData/WD~Lechitic,742782]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+subclass_of: '[[_Standards/WikiData/WD~Lechitic,742782]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
-studied_by: "[[_Standards/WikiData/WD~Polish_studies,1463332]]"
+  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
+  - '[[_Standards/WikiData/WD~natural_language,33742]]'
+studied_by: '[[_Standards/WikiData/WD~Polish_studies,1463332]]'
 has_grammatical_gender:
-  - "[[_Standards/WikiData/WD~feminine,1775415]]"
-  - "[[_Standards/WikiData/WD~neuter,1775461]]"
-  - "[[_Standards/WikiData/WD~masculine_personal,27918551]]"
-  - "[[_Standards/WikiData/WD~masculine_animate_non_personal,52943193]]"
-  - "[[_Standards/WikiData/WD~masculine_inanimate,52943434]]"
-language_regulatory_body: "[[_Standards/WikiData/WD~Council_for_the_Polish_Language,2102593]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Polish_language,5866013]]"
+  - '[[_Standards/WikiData/WD~feminine,1775415]]'
+  - '[[_Standards/WikiData/WD~neuter,1775461]]'
+  - '[[_Standards/WikiData/WD~masculine_personal,27918551]]'
+  - '[[_Standards/WikiData/WD~masculine_animate_non_personal,52943193]]'
+  - '[[_Standards/WikiData/WD~masculine_inanimate,52943434]]'
+language_regulatory_body: '[[_Standards/WikiData/WD~Council_for_the_Polish_Language,2102593]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Polish_language,5866013]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Polish_language,11706039]]"
-  - "[[_Standards/WikiData/WD~Q84557466,84557466]]"
-UNESCO_language_status: "[[_Standards/WikiData/WD~1_safe,20672086]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~1_National,29051546]]"
+  - '[[_Standards/WikiData/WD~Template_Polish_language,11706039]]'
+  - '[[_Standards/WikiData/WD~Q84557466,84557466]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546]]'
 has_grammatical_person:
-  - "[[_Standards/WikiData/WD~first_person_singular,51929218]]"
-  - "[[_Standards/WikiData/WD~first_person_plural,51929290]]"
-  - "[[_Standards/WikiData/WD~second_person_singular,51929369]]"
-  - "[[_Standards/WikiData/WD~second_person_plural,51929403]]"
-  - "[[_Standards/WikiData/WD~third_person_masculine_singular,52431955]]"
-  - "[[_Standards/WikiData/WD~third_person_feminine_singular,52431970]]"
-  - "[[_Standards/WikiData/WD~third_person_neuter_singular,52433289]]"
-  - "[[_Standards/WikiData/WD~third_person_masculine_plural_inanimate,52945975]]"
-  - "[[_Standards/WikiData/WD~third_person_masculine_plural_personal,52946277]]"
+  - '[[_Standards/WikiData/WD~first_person_singular,51929218]]'
+  - '[[_Standards/WikiData/WD~first_person_plural,51929290]]'
+  - '[[_Standards/WikiData/WD~second_person_singular,51929369]]'
+  - '[[_Standards/WikiData/WD~second_person_plural,51929403]]'
+  - '[[_Standards/WikiData/WD~third_person_masculine_singular,52431955]]'
+  - '[[_Standards/WikiData/WD~third_person_feminine_singular,52431970]]'
+  - '[[_Standards/WikiData/WD~third_person_neuter_singular,52433289]]'
+  - '[[_Standards/WikiData/WD~third_person_masculine_plural_inanimate,52945975]]'
+  - '[[_Standards/WikiData/WD~third_person_masculine_plural_personal,52946277]]'
 has_conjugation_class:
-  - "[[_Standards/WikiData/WD~first_Polish_conjugation,54298185]]"
-  - "[[_Standards/WikiData/WD~second_conjugation,54298511]]"
-  - "[[_Standards/WikiData/WD~third_conjugation,54298694]]"
-  - "[[_Standards/WikiData/WD~fourth_conjugation,54298837]]"
-  - "[[_Standards/WikiData/WD~fifth_conjugation,54299590]]"
-  - "[[_Standards/WikiData/WD~sixth_conjugation,54299731]]"
-  - "[[_Standards/WikiData/WD~seventh_conjugation,54299796]]"
-  - "[[_Standards/WikiData/WD~eighth_conjugation,54299833]]"
-  - "[[_Standards/WikiData/WD~ninth_conjugation,54299867]]"
-  - "[[_Standards/WikiData/WD~tenth_conjugation,54299894]]"
-  - "[[_Standards/WikiData/WD~eleventh_conjugation,54299976]]"
-  - "[[_Standards/WikiData/WD~Polish_irregular_verbs,54300568]]"
-has_part_s_: "[[_Standards/WikiData/WD~standard_Polish,67181781]]"
-writing_system: "[[_Standards/WikiData/WD~Latin_script,8229]]"
-country: "[[_Standards/WikiData/WD~Poland,36]]"
+  - '[[_Standards/WikiData/WD~first_Polish_conjugation,54298185]]'
+  - '[[_Standards/WikiData/WD~second_conjugation,54298511]]'
+  - '[[_Standards/WikiData/WD~third_conjugation,54298694]]'
+  - '[[_Standards/WikiData/WD~fourth_conjugation,54298837]]'
+  - '[[_Standards/WikiData/WD~fifth_conjugation,54299590]]'
+  - '[[_Standards/WikiData/WD~sixth_conjugation,54299731]]'
+  - '[[_Standards/WikiData/WD~seventh_conjugation,54299796]]'
+  - '[[_Standards/WikiData/WD~eighth_conjugation,54299833]]'
+  - '[[_Standards/WikiData/WD~ninth_conjugation,54299867]]'
+  - '[[_Standards/WikiData/WD~tenth_conjugation,54299894]]'
+  - '[[_Standards/WikiData/WD~eleventh_conjugation,54299976]]'
+  - '[[_Standards/WikiData/WD~Polish_irregular_verbs,54300568]]'
+has_part_s_: '[[_Standards/WikiData/WD~standard_Polish,67181781]]'
+writing_system: '[[_Standards/WikiData/WD~Latin_script,8229]]'
+country: '[[_Standards/WikiData/WD~Poland,36]]'
 number_of_speakers_writers_or_signers: 39700000
-IAB_code: "1159"
-ABS_ASCL_2011_code: "3602"
-OmegaWiki_Defined_Meaning: "6240"
+IAB_code: 1159
+ABS_ASCL_2011_code: 3602
+OmegaWiki_Defined_Meaning: 6240
 Ethnologue_com_language_code: pol
 WALS_lect_code: pol
 ISO_639_3_code: pol
@@ -109,7 +110,7 @@ POSIX_locale_identifier: pl
 native_label:
   - język polski
   - polszczyzna
-Dewey_Decimal_Classification: "491.85"
+Dewey_Decimal_Classification: 491.85
 Commons_category: Polish language
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5885%20%28tam%29-Sriveenkat-%E0%AE%AA%E0%AF%8B%E0%AE%B2%E0%AE%BF%E0%AE%AF%20%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF.wav
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Polish%20language.svg

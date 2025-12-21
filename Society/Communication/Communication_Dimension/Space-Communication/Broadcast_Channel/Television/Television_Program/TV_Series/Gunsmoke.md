@@ -2,52 +2,53 @@
 aliases:
   - Rauchende Colts
   - Gun Law
+  - Gunsmoke
 has_id_wikidata: Q29641
 cast_member:
-  - "[[_Standards/WikiData/WD~Burt_Reynolds,202148]]"
-  - "[[_Standards/WikiData/WD~Dennis_Weaver,365550]]"
-  - "[[_Standards/WikiData/WD~Amanda_Blake,450012]]"
-  - "[[_Standards/WikiData/WD~James_Arness,470190]]"
-  - "[[_Standards/WikiData/WD~Ken_Curtis,949696]]"
-  - "[[_Standards/WikiData/WD~Sue_Randall,1153161]]"
-  - "[[_Standards/WikiData/WD~Milburn_Stone,1287322]]"
-  - "[[_Standards/WikiData/WD~Glenn_Strange,1368948]]"
-composer: "[[_Standards/WikiData/WD~Jerry_Goldsmith,235077]]"
+  - '[[_Standards/WikiData/WD~Burt_Reynolds,202148]]'
+  - '[[_Standards/WikiData/WD~Dennis_Weaver,365550]]'
+  - '[[_Standards/WikiData/WD~Amanda_Blake,450012]]'
+  - '[[_Standards/WikiData/WD~James_Arness,470190]]'
+  - '[[_Standards/WikiData/WD~Ken_Curtis,949696]]'
+  - '[[_Standards/WikiData/WD~Sue_Randall,1153161]]'
+  - '[[_Standards/WikiData/WD~Milburn_Stone,1287322]]'
+  - '[[_Standards/WikiData/WD~Glenn_Strange,1368948]]'
+composer: '[[_Standards/WikiData/WD~Jerry_Goldsmith,235077]]'
 creator:
-  - "[[_Standards/WikiData/WD~Nathan_Juran,588246]]"
-  - "[[_Standards/WikiData/WD~Norman_Macdonnell,7052546]]"
-color: "[[_Standards/WikiData/WD~black_and_white,838368]]"
-list_of_episodes: "[[_Standards/WikiData/WD~list_of_Gunsmoke_television_episodes,5219091]]"
-instance_of: "[[_Standards/WikiData/WD~television_series,5398426]]"
-director: "[[_Standards/WikiData/WD~Norman_Macdonnell,7052546]]"
-genre: "[[_Standards/WikiData/WD~Westerns_on_television,7988576]]"
+  - '[[_Standards/WikiData/WD~Nathan_Juran,588246]]'
+  - '[[_Standards/WikiData/WD~Norman_Macdonnell,7052546]]'
+color: '[[_Standards/WikiData/WD~black_and_white,838368]]'
+list_of_episodes: '[[_Standards/WikiData/WD~list_of_Gunsmoke_television_episodes,5219091]]'
+instance_of: '[[_Standards/WikiData/WD~television_series,5398426]]'
+director: '[[_Standards/WikiData/WD~Norman_Macdonnell,7052546]]'
+genre: '[[_Standards/WikiData/WD~Westerns_on_television,7988576]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_10,16553015]]"
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_19,16553018]]"
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_17,16553021]]"
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_12,16553027]]"
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_18,16553024]]"
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_9,16553030]]"
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_8,16553033]]"
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_4,16553039]]"
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_1,16553036]]"
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_14,16553042]]"
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_15,16553045]]"
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_2,16553051]]"
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_5,16553048]]"
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_16,16553054]]"
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_6,16553057]]"
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_3,16553062]]"
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_7,16553060]]"
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_13,16553065]]"
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_20,16553071]]"
-  - "[[_Standards/WikiData/WD~Gunsmoke,_season_11,16553068]]"
-different_from: "[[_Standards/WikiData/WD~Gunsmoke,120202692]]"
-original_language_of_film_or_TV_show: "[[_Standards/WikiData/WD~English,1860]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_10,16553015]]'
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_19,16553018]]'
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_17,16553021]]'
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_12,16553027]]'
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_18,16553024]]'
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_9,16553030]]'
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_8,16553033]]'
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_4,16553039]]'
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_1,16553036]]'
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_14,16553042]]'
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_15,16553045]]'
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_2,16553051]]'
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_5,16553048]]'
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_16,16553054]]'
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_6,16553057]]'
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_3,16553062]]'
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_7,16553060]]'
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_13,16553065]]'
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_20,16553071]]'
+  - '[[_Standards/WikiData/WD~Gunsmoke,_season_11,16553068]]'
+different_from: '[[_Standards/WikiData/WD~Gunsmoke,120202692]]'
+original_language_of_film_or_TV_show: '[[_Standards/WikiData/WD~English,1860]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_seasons: 20
-distributed_by: "[[_Standards/WikiData/WD~CBS,43380]]"
-original_broadcaster: "[[_Standards/WikiData/WD~CBS,43380]]"
+distributed_by: '[[_Standards/WikiData/WD~CBS,43380]]'
+original_broadcaster: '[[_Standards/WikiData/WD~CBS,43380]]'
 number_of_episodes: 635
 end_time: 1975-03-31T00:00:00Z
 Commons_category: Gunsmoke

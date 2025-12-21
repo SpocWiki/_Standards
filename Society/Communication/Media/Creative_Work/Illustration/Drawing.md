@@ -4,48 +4,48 @@ aliases:
   - drawing
   - Drawing
   - is_a_drawing
+has_id_wikidata: Q93184
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - drawing
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_drawing Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_drawing Class
 type: Type
-has_id_wikidata: Q93184
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-fabrication_method: "[[_Standards/WikiData/WD~art_of_drawing,2921001]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+fabrication_method: '[[_Standards/WikiData/WD~art_of_drawing,2921001]]'
 different_from:
-  - "[[_Standards/WikiData/WD~art_of_drawing,2921001]]"
-  - "[[_Standards/WikiData/WD~painting,3305213]]"
-  - "[[_Standards/WikiData/WD~art_of_painting,11629]]"
+  - '[[_Standards/WikiData/WD~art_of_drawing,2921001]]'
+  - '[[_Standards/WikiData/WD~painting,3305213]]'
+  - '[[_Standards/WikiData/WD~art_of_painting,11629]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~artificial_physical_object,8205328]]"
-  - "[[_Standards/WikiData/WD~two_dimensional_visual_artwork,110304307]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Drawing,19369096]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_work_of_art,116474095]]"
-IAB_code: "251"
-Nomenclature_for_Museum_Cataloging: "12903"
+  - '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
+  - '[[_Standards/WikiData/WD~two_dimensional_visual_artwork,110304307]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Drawing,19369096]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_work_of_art,116474095]]'
+IAB_code: 251
+Nomenclature_for_Museum_Cataloging: 12903
 IMDb_keyword: drawing
 subreddit: drawing
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Zeichnung.ogg
 Commons_gallery: Drawing
 Commons_category: Drawing
 Iconclass_notation: 48C524
-U_S_National_Archives_Identifier: "10630765"
+U_S_National_Archives_Identifier: 10630765
 IPTC_NewsCode: mediatopic/20000034
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Luke%20drawing%20the%20Virgin%20RvdW%20Detail.jpg
 equivalent_class: https://schema.org/Drawing

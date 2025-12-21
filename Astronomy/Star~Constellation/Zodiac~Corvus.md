@@ -1,36 +1,37 @@
 ---
 aliases:
   - Rabe
+  - Zodiac~Corvus
+has_id_wikidata: Q10517
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-has_id_wikidata: Q10517
 _SpocWebEntityId: 28110
 _name-la: Corvus
 _name-genitive: Corvi
 _name-de: Rabe
 _is_:
   same_as:
-    - "[[../../WikiData/WD~Corvus,10517|WD~Corvus,10517]]"
-    - - "[Zodiac~Corvus](/_Standards/Astronomy/Star~Constellation/Zodiac~Corvus.md)"
-    - - "[Zodiac~Corvus.public](/_public/Astronomy/Star~Constellation/Zodiac~Corvus.public.md)"
-    - - "[Zodiac~Corvus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Corvus.internal.md)"
-    - - "[Zodiac~Corvus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Corvus.protect.md)"
-    - - "[Zodiac~Corvus.private](/_private/Astronomy/Star~Constellation/Zodiac~Corvus.private.md)"
-    - - "[Zodiac~Corvus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Corvus.personal.md)"
-    - - "[Zodiac~Corvus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Corvus.secret.md)"
+    - '[[../../WikiData/WD~Corvus,10517|WD~Corvus,10517]]'
+    - - '[Zodiac~Corvus](/_Standards/Astronomy/Star~Constellation/Zodiac~Corvus.md)'
+    - - '[Zodiac~Corvus.public](/_public/Astronomy/Star~Constellation/Zodiac~Corvus.public.md)'
+    - - '[Zodiac~Corvus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Corvus.internal.md)'
+    - - '[Zodiac~Corvus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Corvus.protect.md)'
+    - - '[Zodiac~Corvus.private](/_private/Astronomy/Star~Constellation/Zodiac~Corvus.private.md)'
+    - - '[Zodiac~Corvus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Corvus.personal.md)'
+    - - '[Zodiac~Corvus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Corvus.secret.md)'
 _is_same_as:
-  - "[[../../WikiData/WD~Corvus,10517|WD~Corvus,10517]]"
-  - - "[Zodiac~Corvus](/_Standards/Astronomy/Star~Constellation/Zodiac~Corvus.md)"
-  - - "[Zodiac~Corvus.public](/_public/Astronomy/Star~Constellation/Zodiac~Corvus.public.md)"
-  - - "[Zodiac~Corvus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Corvus.internal.md)"
-  - - "[Zodiac~Corvus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Corvus.protect.md)"
-  - - "[Zodiac~Corvus.private](/_private/Astronomy/Star~Constellation/Zodiac~Corvus.private.md)"
-  - - "[Zodiac~Corvus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Corvus.personal.md)"
-  - - "[Zodiac~Corvus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Corvus.secret.md)"
+  - '[[../../WikiData/WD~Corvus,10517|WD~Corvus,10517]]'
+  - - '[Zodiac~Corvus](/_Standards/Astronomy/Star~Constellation/Zodiac~Corvus.md)'
+  - - '[Zodiac~Corvus.public](/_public/Astronomy/Star~Constellation/Zodiac~Corvus.public.md)'
+  - - '[Zodiac~Corvus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Corvus.internal.md)'
+  - - '[Zodiac~Corvus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Corvus.protect.md)'
+  - - '[Zodiac~Corvus.private](/_private/Astronomy/Star~Constellation/Zodiac~Corvus.private.md)'
+  - - '[Zodiac~Corvus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Corvus.personal.md)'
+  - - '[Zodiac~Corvus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Corvus.secret.md)'
 ---
 
 # [[Zodiac~Corvus]] 

@@ -6,48 +6,19 @@ aliases:
   - Associativität
 has_id_wikidata: Q177251
 used_by:
-  - "[[_Standards/WikiData/WD~union,185359]]"
-  - "[[_Standards/WikiData/WD~addition,32043]]"
-  - "[[_Standards/WikiData/WD~multiplication,40276]]"
+  - '[[_Standards/WikiData/WD~union,185359]]'
+  - '[[_Standards/WikiData/WD~addition,32043]]'
+  - '[[_Standards/WikiData/WD~multiplication,40276]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~rule_of_replacement,1361787]]"
-  - "[[_Standards/WikiData/WD~mathematical_property,3924032]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~rule_of_replacement,1361787]]'
+  - '[[_Standards/WikiData/WD~mathematical_property,3924032]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Associativity%20of%20binary%20operations%20%28without%20question%20marks%29.svg
-defining_formula: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \forall x,y\colon (x\star y)\star z=x\star (y\star z)}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <mi mathvariant="normal">&#x2200;<!-- ∀ --></mi>
-          <mi>x</mi>
-          <mo>,</mo>
-          <mi>y</mi>
-          <mo>&#x003A;<!-- : --></mo>
-          <mo stretchy="false">(</mo>
-          <mi>x</mi>
-          <mo>&#x22C6;<!-- ⋆ --></mo>
-          <mi>y</mi>
-          <mo stretchy="false">)</mo>
-          <mo>&#x22C6;<!-- ⋆ --></mo>
-          <mi>z</mi>
-          <mo>=</mo>
-          <mi>x</mi>
-          <mo>&#x22C6;<!-- ⋆ --></mo>
-          <mo stretchy="false">(</mo>
-          <mi>y</mi>
-          <mo>&#x22C6;<!-- ⋆ --></mo>
-          <mi>z</mi>
-          <mo stretchy="false">)</mo>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle \forall x,y\colon (x\star y)\star z=x\star (y\star z)}</annotation>
-    </semantics>
-  </math>
+defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\forall x,y\\colon (x\\star y)\\star z=x\\star (y\\star z)}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi mathvariant=\"normal\">&#x2200;<!-- ∀ --></mi>\n        <mi>x</mi>\n        <mo>,</mo>\n        <mi>y</mi>\n        <mo>&#x003A;<!-- : --></mo>\n        <mo stretchy=\"false\">(</mo>\n        <mi>x</mi>\n        <mo>&#x22C6;<!-- ⋆ --></mo>\n        <mi>y</mi>\n        <mo stretchy=\"false\">)</mo>\n        <mo>&#x22C6;<!-- ⋆ --></mo>\n        <mi>z</mi>\n        <mo>=</mo>\n        <mi>x</mi>\n        <mo>&#x22C6;<!-- ⋆ --></mo>\n        <mo stretchy=\"false\">(</mo>\n        <mi>y</mi>\n        <mo>&#x22C6;<!-- ⋆ --></mo>\n        <mi>z</mi>\n        <mo stretchy=\"false\">)</mo>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle \\forall x,y\\colon (x\\star y)\\star z=x\\star (y\\star z)}</annotation>\n  </semantics>\n</math>"
 ---
 
 # [[associative]] 

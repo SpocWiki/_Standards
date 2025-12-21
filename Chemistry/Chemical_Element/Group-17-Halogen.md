@@ -1,45 +1,46 @@
 ---
-type: ElementGroup
 aliases:
   - Halogen
   - Halogene
   - Halogens
+  - Group-17-Halogen
 has_id_wikidata: Q19605
+type: ElementGroup
 instance_of:
-  - "[[_Standards/WikiData/WD~group,83306]]"
-  - "[[_Standards/WikiData/WD~main_group,428830]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]"
+  - '[[_Standards/WikiData/WD~group,83306]]'
+  - '[[_Standards/WikiData/WD~main_group,428830]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]'
 part_of:
-  - "[[_Standards/WikiData/WD~p_block,214483]]"
-  - "[[_Standards/WikiData/WD~halogen_metabolic_process,22283822]]"
-  - "[[_Standards/WikiData/WD~periodic_table,10693]]"
+  - '[[_Standards/WikiData/WD~p_block,214483]]'
+  - '[[_Standards/WikiData/WD~halogen_metabolic_process,22283822]]'
+  - '[[_Standards/WikiData/WD~periodic_table,10693]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~fluorine,650]]"
-  - "[[_Standards/WikiData/WD~chlorine,688]]"
-  - "[[_Standards/WikiData/WD~bromine,879]]"
-  - "[[_Standards/WikiData/WD~astatine,999]]"
-  - "[[_Standards/WikiData/WD~iodine,1103]]"
-  - "[[_Standards/WikiData/WD~tennessine,1306]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
-subclass_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
-OmegaWiki_Defined_Meaning: "1136"
+  - '[[_Standards/WikiData/WD~fluorine,650]]'
+  - '[[_Standards/WikiData/WD~chlorine,688]]'
+  - '[[_Standards/WikiData/WD~bromine,879]]'
+  - '[[_Standards/WikiData/WD~astatine,999]]'
+  - '[[_Standards/WikiData/WD~iodine,1103]]'
+  - '[[_Standards/WikiData/WD~tennessine,1306]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+subclass_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+OmegaWiki_Defined_Meaning: 1136
 element_symbol: X
 short_name: X
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Halogene.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Halogens.jpg
 Dewey_Decimal_Classification:
-  - "546.73"
-  - "547.02"
-  - "572.556"
-  - "661.073"
-  - "665.83"
+  - 546.73
+  - 547.02
+  - 572.556
+  - 661.073
+  - 665.83
 UMLS_CUI: C0018544
 MeSH_tree_code: D01.268.380
 Commons_category: Halogens

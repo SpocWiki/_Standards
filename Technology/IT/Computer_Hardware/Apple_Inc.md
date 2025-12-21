@@ -1,8 +1,9 @@
 ---
 aliases:
-- "Apple Inc"
-- Apple,Company
-- "Apple Computer, Inc"
+  - Apple Inc
+  - Apple,Company
+  - Apple Computer, Inc
+  - Apple_Inc
 has_id_wikidata: Q312
 ---
 

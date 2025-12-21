@@ -4,21 +4,22 @@ aliases:
   - collection
   - collection
   - is_in_collection
+  - is in collection
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - collection
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_in_collection
 publish: true
-publishDate:
+publishDate: ''
 superseded_by: targetCollection
 tags:
   - class/Relation

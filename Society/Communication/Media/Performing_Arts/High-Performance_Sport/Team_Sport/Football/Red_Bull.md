@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Red Bull"
-- "Red Bull GmbH"
+  - Red Bull
+  - Red Bull GmbH
+  - Red_Bull
 ---
 
 > **Red Bull** is a brand of energy drinks created and owned by the Austrian company Red Bull GmbH. 

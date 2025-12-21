@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Scott Pilgrim vs. the World"
+  - Scott Pilgrim vs. the World
+  - Scott_Pilgrim_vs.the_World
+  - Scott Pilgrim vs.the World
 ---
 
 ## #has_/text_of_/abstract 

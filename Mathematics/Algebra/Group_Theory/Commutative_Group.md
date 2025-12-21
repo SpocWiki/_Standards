@@ -1,7 +1,9 @@
 ---
 aliases:
-- "abelian group"
-- "commutative group"
+  - abelian group
+  - commutative group
+  - Commutative_Group
+  - Commutative Group
 has_id_wikidata: Q181296
 ---
 

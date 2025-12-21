@@ -3,74 +3,75 @@ aliases:
   - François_Truffaut
   - François Roland Truffaut
   - Truffaut
+  - Truffaut,François
 has_id_wikidata: Q53002
 field_of_work:
-  - "[[_Standards/WikiData/WD~screenplay,103076]]"
-  - "[[_Standards/WikiData/WD~film_direction,12765827]]"
-  - "[[_Standards/WikiData/WD~film_acting,115160932]]"
-  - "[[_Standards/WikiData/WD~film_criticism,4482]]"
+  - '[[_Standards/WikiData/WD~screenplay,103076]]'
+  - '[[_Standards/WikiData/WD~film_direction,12765827]]'
+  - '[[_Standards/WikiData/WD~film_acting,115160932]]'
+  - '[[_Standards/WikiData/WD~film_criticism,4482]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Film,139184]]"
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Supporting_Role,548389]]"
-  - "[[_Standards/WikiData/WD~César_Award_for_Best_Film,645595]]"
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]"
-  - "[[_Standards/WikiData/WD~National_Society_of_Film_Critics_Award_for_Best_Director,1315008]]"
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Film_Not_in_the_English_Language,2925687]]"
-  - "[[_Standards/WikiData/WD~Hugo_Award_for_Best_Dramatic_Presentation,3414212]]"
-  - "[[_Standards/WikiData/WD~David_di_Donatello_Luchino_Visconti,3703245]]"
-  - "[[_Standards/WikiData/WD~National_Society_of_Film_Critics_Award_for_Best_Screenplay,6978541]]"
-  - "[[_Standards/WikiData/WD~César_Award_for_Best_Director,24137]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Christian,106039]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Fanny_Ardant,106349]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Film,139184]]'
+  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Supporting_Role,548389]]'
+  - '[[_Standards/WikiData/WD~César_Award_for_Best_Film,645595]]'
+  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
+  - '[[_Standards/WikiData/WD~National_Society_of_Film_Critics_Award_for_Best_Director,1315008]]'
+  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Film_Not_in_the_English_Language,2925687]]'
+  - '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Dramatic_Presentation,3414212]]'
+  - '[[_Standards/WikiData/WD~David_di_Donatello_Luchino_Visconti,3703245]]'
+  - '[[_Standards/WikiData/WD~National_Society_of_Film_Critics_Award_for_Best_Screenplay,6978541]]'
+  - '[[_Standards/WikiData/WD~César_Award_for_Best_Director,24137]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christian,106039]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Fanny_Ardant,106349]]'
 award_received:
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Film,139184]]"
-  - "[[_Standards/WikiData/WD~Cannes_Best_Director_Award,510175]]"
-  - "[[_Standards/WikiData/WD~César_Award_for_Best_Film,645595]]"
-  - "[[_Standards/WikiData/WD~New_York_Film_Critics_Circle_Award_for_Best_Director,696972]]"
-  - "[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Director,696998]]"
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]"
-  - "[[_Standards/WikiData/WD~National_Society_of_Film_Critics_Award_for_Best_Director,1315008]]"
-  - "[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Foreign_Language_Film,1328249]]"
-  - "[[_Standards/WikiData/WD~New_York_Film_Critics_Circle_Award_for_Best_Film,1983066]]"
-  - "[[_Standards/WikiData/WD~Bodil_Award_for_Best_Non_American_Film,3352913]]"
-  - "[[_Standards/WikiData/WD~David_di_Donatello_Luchino_Visconti,3703245]]"
-  - "[[_Standards/WikiData/WD~Jean_Le_Duc_award,16509832]]"
-  - "[[_Standards/WikiData/WD~César_Award_for_Best_Director,24137]]"
-place_of_birth: "[[_Standards/WikiData/WD~17th_arrondissement_of_Paris,197297]]"
-cause_of_death: "[[_Standards/WikiData/WD~brain_tumor,233309]]"
-place_of_burial: "[[_Standards/WikiData/WD~Montmartre_Cemetery,746647]]"
-employer: "[[_Standards/WikiData/WD~Cahiers_du_cinéma,909176]]"
-given_name: "[[_Standards/WikiData/WD~Q1166840,1166840]]"
-residence: "[[_Standards/WikiData/WD~Villeperdue,1170302]]"
+  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Film,139184]]'
+  - '[[_Standards/WikiData/WD~Cannes_Best_Director_Award,510175]]'
+  - '[[_Standards/WikiData/WD~César_Award_for_Best_Film,645595]]'
+  - '[[_Standards/WikiData/WD~New_York_Film_Critics_Circle_Award_for_Best_Director,696972]]'
+  - '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Director,696998]]'
+  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
+  - '[[_Standards/WikiData/WD~National_Society_of_Film_Critics_Award_for_Best_Director,1315008]]'
+  - '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Foreign_Language_Film,1328249]]'
+  - '[[_Standards/WikiData/WD~New_York_Film_Critics_Circle_Award_for_Best_Film,1983066]]'
+  - '[[_Standards/WikiData/WD~Bodil_Award_for_Best_Non_American_Film,3352913]]'
+  - '[[_Standards/WikiData/WD~David_di_Donatello_Luchino_Visconti,3703245]]'
+  - '[[_Standards/WikiData/WD~Jean_Le_Duc_award,16509832]]'
+  - '[[_Standards/WikiData/WD~César_Award_for_Best_Director,24137]]'
+place_of_birth: '[[_Standards/WikiData/WD~17th_arrondissement_of_Paris,197297]]'
+cause_of_death: '[[_Standards/WikiData/WD~brain_tumor,233309]]'
+place_of_burial: '[[_Standards/WikiData/WD~Montmartre_Cemetery,746647]]'
+employer: '[[_Standards/WikiData/WD~Cahiers_du_cinéma,909176]]'
+given_name: '[[_Standards/WikiData/WD~Q1166840,1166840]]'
+residence: '[[_Standards/WikiData/WD~Villeperdue,1170302]]'
 occupation:
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~film_critic,4220892]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~producer,47541952]]"
-  - "[[_Standards/WikiData/WD~film_screenwriter,69423232]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_François_Truffaut,14374315]]"
-student: "[[_Standards/WikiData/WD~Alain_Maline,16916420]]"
-bibliography: "[[_Standards/WikiData/WD~François_Truffaut_bibliography,17037945]]"
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~director,3455803]]'
+  - '[[_Standards/WikiData/WD~film_critic,4220892]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~producer,47541952]]'
+  - '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_François_Truffaut,14374315]]'
+student: '[[_Standards/WikiData/WD~Alain_Maline,16916420]]'
+bibliography: '[[_Standards/WikiData/WD~François_Truffaut_bibliography,17037945]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-family_name: "[[_Standards/WikiData/WD~Truffaut,41636561]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-archives_at: "[[_Standards/WikiData/WD~Q81844982,81844982]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-native_language: "[[_Standards/WikiData/WD~French,150]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
-place_of_death: "[[_Standards/WikiData/WD~Neuilly_sur_Seine,48958]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+family_name: '[[_Standards/WikiData/WD~Truffaut,41636561]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+archives_at: '[[_Standards/WikiData/WD~Q81844982,81844982]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+native_language: '[[_Standards/WikiData/WD~French,150]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
+place_of_death: '[[_Standards/WikiData/WD~Neuilly_sur_Seine,48958]]'
 Google_Doodle: francois-truffauts-80th-birthday
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/TRYUFFO_FRANSUA.html
 name_in_native_language: François Roland Truffaut

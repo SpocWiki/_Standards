@@ -4,20 +4,22 @@ aliases:
   - music_release_format_type
   - MusicReleaseFormatType
   - is_a_music_release_format_type
+  - Music_Release_Format_Type
+  - Music Release Format Type
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - music_release_format_type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_music_release_format_type Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

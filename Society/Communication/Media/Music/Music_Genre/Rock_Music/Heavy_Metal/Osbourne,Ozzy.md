@@ -3,6 +3,7 @@ aliases:
   - Ozzy_Osbourne
   - John Michael "Ozzy" Osbourne
   - Prince of Darkness
+  - Osbourne,Ozzy
 has_id_wikidata: Q133151
 ---
 

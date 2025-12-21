@@ -2,21 +2,22 @@
 aliases:
   - Field
   - Feld
+  - Field(Agriculture)
 has_id_wikidata: Q188869
-part_of: "[[_Standards/WikiData/WD~rural_area,175185]]"
+part_of: '[[_Standards/WikiData/WD~rural_area,175185]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Pole,249104]]"
-  - "[[_Standards/WikiData/WD~field_category,54662266]]"
-  - "[[_Standards/WikiData/WD~magnetic_field,11408]]"
+  - '[[_Standards/WikiData/WD~Pole,249104]]'
+  - '[[_Standards/WikiData/WD~field_category,54662266]]'
+  - '[[_Standards/WikiData/WD~magnetic_field,11408]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~arable_land,843920]]"
-  - "[[_Standards/WikiData/WD~agricultural_land,3395383]]"
-award_received: "[[_Standards/WikiData/WD~Soil_of_the_Year,889448]]"
+  - '[[_Standards/WikiData/WD~arable_land,843920]]'
+  - '[[_Standards/WikiData/WD~agricultural_land,3395383]]'
+award_received: '[[_Standards/WikiData/WD~Soil_of_the_Year,889448]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Lexicon_of_Egyptology_(1._Edition),117232527]]"
-has_part_s_: "[[_Standards/WikiData/WD~soil,36133]]"
-Dewey_Decimal_Classification: "633"
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Lexicon_of_Egyptology_(1._Edition),117232527]]'
+has_part_s_: '[[_Standards/WikiData/WD~soil,36133]]'
+Dewey_Decimal_Classification: 633
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Field%20Hamois%20Belgium%20Luc%20Viatour.jpg
 Commons_category: Fields
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Champ%20Nm%201%201%201%20-%20Elix.webm

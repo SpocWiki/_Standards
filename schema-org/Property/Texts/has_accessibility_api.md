@@ -4,22 +4,24 @@ aliases:
   - accessibility_api
   - accessibilityAPI
   - has_text_of_accessibility_api
+  - has_accessibility_api
+  - has accessibility api
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - accessibility
   - api
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_accessibility_api
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

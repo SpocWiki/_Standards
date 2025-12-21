@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DanceEvent
+excludes: ''
 extends: FileClass~Thing/FileClass~Event
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DanceEvent
-- class/Thing/Event/DanceEvent
-- is_a_/DanceEvent
-- schema-org/DanceEvent
+  - class/DanceEvent
+  - class/Thing/Event/DanceEvent
+  - is_a_/DanceEvent
+  - schema-org/DanceEvent
 tags:
-- class/FileClass
-- class/DanceEvent
-- is_a_/DanceEvent
-- class/Thing/Event/DanceEvent
+  - class/FileClass
+  - class/DanceEvent
+  - is_a_/DanceEvent
+  - class/Thing/Event/DanceEvent
 version: 2.0
 ---
 

@@ -5,66 +5,67 @@ aliases:
   - Humphrey Bogart
   - Bogart
   - Bogie
+  - Bogart,Humphrey
 has_id_wikidata: Q16390
-nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
-  - "[[_Standards/WikiData/WD~World_War_I_Victory_Medal,13409491]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+  - '[[_Standards/WikiData/WD~World_War_I_Victory_Medal,13409491]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Lauren_Bacall,104000]]"
-  - "[[_Standards/WikiData/WD~Mary_Philips,275428]]"
-  - "[[_Standards/WikiData/WD~Mayo_Methot,529654]]"
-  - "[[_Standards/WikiData/WD~Helen_Menken,543385]]"
-employer: "[[_Standards/WikiData/WD~Warner_Bros.,126399]]"
+  - '[[_Standards/WikiData/WD~Lauren_Bacall,104000]]'
+  - '[[_Standards/WikiData/WD~Mary_Philips,275428]]'
+  - '[[_Standards/WikiData/WD~Mayo_Methot,529654]]'
+  - '[[_Standards/WikiData/WD~Helen_Menken,543385]]'
+employer: '[[_Standards/WikiData/WD~Warner_Bros.,126399]]'
 genre:
-  - "[[_Standards/WikiData/WD~drama_film,130232]]"
-  - "[[_Standards/WikiData/WD~Western_film,172980]]"
-  - "[[_Standards/WikiData/WD~film_noir,185867]]"
-  - "[[_Standards/WikiData/WD~war_film,369747]]"
-  - "[[_Standards/WikiData/WD~thriller_film,2484376]]"
-cause_of_death: "[[_Standards/WikiData/WD~esophageal_cancer,372701]]"
-member_of: "[[_Standards/WikiData/WD~American_Legion,468865]]"
+  - '[[_Standards/WikiData/WD~drama_film,130232]]'
+  - '[[_Standards/WikiData/WD~Western_film,172980]]'
+  - '[[_Standards/WikiData/WD~film_noir,185867]]'
+  - '[[_Standards/WikiData/WD~war_film,369747]]'
+  - '[[_Standards/WikiData/WD~thriller_film,2484376]]'
+cause_of_death: '[[_Standards/WikiData/WD~esophageal_cancer,372701]]'
+member_of: '[[_Standards/WikiData/WD~American_Legion,468865]]'
 occupation:
-  - "[[_Standards/WikiData/WD~character_actor,948329]]"
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~stage_manager,19375711]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~sailor,45199]]"
-educated_at: "[[_Standards/WikiData/WD~Phillips_Academy,1432645]]"
-place_of_burial: "[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1437214]]"
+  - '[[_Standards/WikiData/WD~character_actor,948329]]'
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~stage_manager,19375711]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+  - '[[_Standards/WikiData/WD~sailor,45199]]'
+educated_at: '[[_Standards/WikiData/WD~Phillips_Academy,1432645]]'
+place_of_burial: '[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1437214]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Humphrey,1637225]]"
-  - "[[_Standards/WikiData/WD~DeForest,98400639]]"
+  - '[[_Standards/WikiData/WD~Humphrey,1637225]]'
+  - '[[_Standards/WikiData/WD~DeForest,98400639]]'
 child:
-  - "[[_Standards/WikiData/WD~Stephen_Humphrey_Bogart,2344560]]"
-  - "[[_Standards/WikiData/WD~Leslie_Bogart,120485698]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~Seaman_apprentice,7440698]]"
-filmography: "[[_Standards/WikiData/WD~Humphrey_Bogart_filmography,12631007]]"
-mother: "[[_Standards/WikiData/WD~Maud_Humphrey,15452283]]"
-family_name: "[[_Standards/WikiData/WD~Bogart,16860174]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+  - '[[_Standards/WikiData/WD~Stephen_Humphrey_Bogart,2344560]]'
+  - '[[_Standards/WikiData/WD~Leslie_Bogart,120485698]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~Seaman_apprentice,7440698]]'
+filmography: '[[_Standards/WikiData/WD~Humphrey_Bogart_filmography,12631007]]'
+mother: '[[_Standards/WikiData/WD~Maud_Humphrey,15452283]]'
+family_name: '[[_Standards/WikiData/WD~Bogart,16860174]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 date_of_birth: 1899-12-25T00:00:00Z
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-father: "[[_Standards/WikiData/WD~Belmont_DeForest_Bogart,96215981]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-writing_language: "[[_Standards/WikiData/WD~American_English,7976]]"
-native_language: "[[_Standards/WikiData/WD~American_English,7976]]"
-military_branch: "[[_Standards/WikiData/WD~United_States_Navy,11220]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-country_for_sport: "[[_Standards/WikiData/WD~United_States,30]]"
-work_locations: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_birth: "[[_Standards/WikiData/WD~New_York_City,60]]"
-place_of_death: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+father: '[[_Standards/WikiData/WD~Belmont_DeForest_Bogart,96215981]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+writing_language: '[[_Standards/WikiData/WD~American_English,7976]]'
+native_language: '[[_Standards/WikiData/WD~American_English,7976]]'
+military_branch: '[[_Standards/WikiData/WD~United_States_Navy,11220]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+country_for_sport: '[[_Standards/WikiData/WD~United_States,30]]'
+work_locations: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_birth: '[[_Standards/WikiData/WD~New_York_City,60]]'
+place_of_death: '[[_Standards/WikiData/WD~Los_Angeles,65]]'
 number_of_children: 2
 height: 173
-U_S_National_Archives_Identifier: "10580496"
+U_S_National_Archives_Identifier: 10580496
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/BOGART_HEMFRI.html
 IMDb_keyword: reference-to-humphrey-bogart
 birth_name: Humphrey DeForest Bogart
@@ -72,7 +73,7 @@ work_period_start_: 1921-01-01T00:00:00Z
 name_in_native_language: Humphrey Bogart
 Commons_gallery: Humphrey Bogart
 Commons_category: Humphrey Bogart
-United_States_Armed_Forces_service_number: "1123062"
+United_States_Armed_Forces_service_number: 1123062
 date_of_death: 1957-01-14T00:00:00Z
 work_period_end_: 1956-01-01T00:00:00Z
 image:
@@ -81,7 +82,7 @@ image:
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Humphrey%20Bogart%20Grave.JPG
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Humphrey%20Bogart%20signature.svg
 official_website: http://www.humphreybogart.com/
-ISNI: "0000000121380063"
+ISNI: 0000000121380063
 Plex_person_key: 5d776825103a2d001f563b3f
 Libris_URI: dbqswkxx2kwq6fc
 ---

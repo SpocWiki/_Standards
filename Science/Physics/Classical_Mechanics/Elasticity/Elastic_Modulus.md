@@ -2,6 +2,8 @@
 aliases:
   - modulus of elasticity
   - elastic modulus
+  - Elastic_Modulus
+  - Elastic Modulus
 has_id_wikidata: Q192005
 subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"

@@ -1,6 +1,7 @@
 ---
 aliases:
-- Reddit
+  - Reddit
+  - subreddit
 ---
 
 ## #has_/text_of_/abstract 

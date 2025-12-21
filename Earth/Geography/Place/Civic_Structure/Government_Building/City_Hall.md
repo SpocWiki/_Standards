@@ -4,20 +4,22 @@ aliases:
   - city_hall
   - CityHall
   - is_a_city_hall
+  - City_Hall
+  - City Hall
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - city_hall
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_city_hall Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,8 +1,9 @@
 ---
-has_id_wikidata: Q9531
 aliases:
   - British Broadcasting Corporation
   - British Broadcasting Company
+  - BBC
+has_id_wikidata: Q9531
 ---
 # [[BBC]] 
 

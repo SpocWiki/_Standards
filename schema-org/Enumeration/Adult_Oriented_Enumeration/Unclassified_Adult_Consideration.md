@@ -4,21 +4,23 @@ aliases:
   - unclassified_adult_consideration
   - UnclassifiedAdultConsideration
   - is_an_unclassified_adult_consideration
+  - Unclassified_Adult_Consideration
+  - Unclassified Adult Consideration
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: AdultOrientedEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - unclassified_adult_consideration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_unclassified_adult_consideration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

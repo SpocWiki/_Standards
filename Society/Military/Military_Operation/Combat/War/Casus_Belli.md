@@ -1,6 +1,8 @@
 ---
 aliases:
   - Kriegsursache
+  - Casus_Belli
+  - Casus Belli
 has_id_wikidata: Q45635
 ---
 

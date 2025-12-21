@@ -2,36 +2,37 @@
 aliases:
   - Monty Python's Flying Circus
   - Monty Python
+  - Monty_Python's_Flying_Circus
 has_id_wikidata: Q16401
 cast_member:
-  - "[[_Standards/WikiData/WD~Terry_Jones,166159]]"
-  - "[[_Standards/WikiData/WD~Eric_Idle,210741]]"
-  - "[[_Standards/WikiData/WD~Michael_Palin,223985]]"
-  - "[[_Standards/WikiData/WD~Carol_Cleveland,238012]]"
-  - "[[_Standards/WikiData/WD~Graham_Chapman,24962]]"
-  - "[[_Standards/WikiData/WD~John_Cleese,25014]]"
-  - "[[_Standards/WikiData/WD~Terry_Gilliam,25078]]"
-original_broadcaster: "[[_Standards/WikiData/WD~BBC_One,191472]]"
-producer: "[[_Standards/WikiData/WD~Ian_MacNaughton,710041]]"
-director: "[[_Standards/WikiData/WD~Ian_MacNaughton,710041]]"
-distribution_format: "[[_Standards/WikiData/WD~video_on_demand,723685]]"
-distributed_by: "[[_Standards/WikiData/WD~Netflix,907311]]"
-theme_music: "[[_Standards/WikiData/WD~The_Liberty_Bell,2225377]]"
+  - '[[_Standards/WikiData/WD~Terry_Jones,166159]]'
+  - '[[_Standards/WikiData/WD~Eric_Idle,210741]]'
+  - '[[_Standards/WikiData/WD~Michael_Palin,223985]]'
+  - '[[_Standards/WikiData/WD~Carol_Cleveland,238012]]'
+  - '[[_Standards/WikiData/WD~Graham_Chapman,24962]]'
+  - '[[_Standards/WikiData/WD~John_Cleese,25014]]'
+  - '[[_Standards/WikiData/WD~Terry_Gilliam,25078]]'
+original_broadcaster: '[[_Standards/WikiData/WD~BBC_One,191472]]'
+producer: '[[_Standards/WikiData/WD~Ian_MacNaughton,710041]]'
+director: '[[_Standards/WikiData/WD~Ian_MacNaughton,710041]]'
+distribution_format: '[[_Standards/WikiData/WD~video_on_demand,723685]]'
+distributed_by: '[[_Standards/WikiData/WD~Netflix,907311]]'
+theme_music: '[[_Standards/WikiData/WD~The_Liberty_Bell,2225377]]'
 list_of_episodes: "[[_Standards/WikiData/WD~list_of_Monty_Python's_Flying_Circus_episodes,2470548]]"
 has_part_s_:
   - "[[_Standards/WikiData/WD~Monty_Python's_Flying_Circus,_season_4,3729279]]"
   - "[[_Standards/WikiData/WD~Monty_Python's_Flying_Circus,_season_2,3729280]]"
   - "[[_Standards/WikiData/WD~Monty_Python's_Flying_Circus,_season_3,3729281]]"
   - "[[_Standards/WikiData/WD~Monty_Python's_Flying_Circus,_season_1,5275837]]"
-instance_of: "[[_Standards/WikiData/WD~television_series,5398426]]"
+instance_of: '[[_Standards/WikiData/WD~television_series,5398426]]'
 list_of_characters: "[[_Standards/WikiData/WD~list_of_recurring_Monty_Python's_Flying_Circus_characters,6636184]]"
-genre: "[[_Standards/WikiData/WD~comedy_television_series,9335576]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~Monty_Python_sketch,16909656]]"
-original_language_of_film_or_TV_show: "[[_Standards/WikiData/WD~English,1860]]"
-production_company: "[[_Standards/WikiData/WD~British_Broadcasting_Corporation,9531]]"
-creator: "[[_Standards/WikiData/WD~Monty_Python,16402]]"
-followed_by: "[[_Standards/WikiData/WD~And_Now_for_Something_Completely_Different,16403]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+genre: '[[_Standards/WikiData/WD~comedy_television_series,9335576]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~Monty_Python_sketch,16909656]]'
+original_language_of_film_or_TV_show: '[[_Standards/WikiData/WD~English,1860]]'
+production_company: '[[_Standards/WikiData/WD~British_Broadcasting_Corporation,9531]]'
+creator: '[[_Standards/WikiData/WD~Monty_Python,16402]]'
+followed_by: '[[_Standards/WikiData/WD~And_Now_for_Something_Completely_Different,16403]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 duration: 30
 number_of_seasons: 4
 number_of_episodes: 45

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Ice hockey
+  - Ice_Hockey
+  - Ice Hockey
 has_id_wikidata: Q41466
 different_from:
   - "[[_Standards/WikiData/WD~bandy,183018]]"
@@ -35,10 +37,10 @@ competition_class:
   - "[[_Standards/WikiData/WD~women's_ice_hockey,33107434]]"
   - "[[_Standards/WikiData/WD~men's_ice_hockey,56054955]]"
 country_of_origin: "[[_Standards/WikiData/WD~Canada,16]]"
-IAB_code: "515"
+IAB_code: 515
 BHCL_UUID: 68510a43-562d-4d28-9d91-bb52b5f35804
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Ice%20hockey%20pictogram.svg
-OmegaWiki_Defined_Meaning: "711928"
+OmegaWiki_Defined_Meaning: 711928
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NLA%2C%20Lausanne%20HC%20vs.%20Rapperswil-Jona%20Lakers%2C%2011th%20November%202014%2003.JPG
 Iconclass_notation: 43C41321
 Commons_gallery: Ice hockey
@@ -50,7 +52,7 @@ Unicode_character: 🏒
 OpenStreetMap_tag: sport=ice_hockey
 ---
 
-# [[Ice_Hockey]] 
+# [[Ice_Hockey]] 🏒 
 
 #is_/same_as :: [[WD~Ice_hockey,41466]] 
 

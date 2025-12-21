@@ -1,29 +1,30 @@
 ---
 aliases:
   - Etikette
+  - Etiquette
 has_id_wikidata: Q188907
-has_use: "[[_Standards/WikiData/WD~politeness,281287]]"
+has_use: '[[_Standards/WikiData/WD~politeness,281287]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~manners,1067192]]"
-  - "[[_Standards/WikiData/WD~formality,1757948]]"
-  - "[[_Standards/WikiData/WD~conduct,106803732]]"
-subclass_of: "[[_Standards/WikiData/WD~mores,1115221]]"
+  - '[[_Standards/WikiData/WD~manners,1067192]]'
+  - '[[_Standards/WikiData/WD~formality,1757948]]'
+  - '[[_Standards/WikiData/WD~conduct,106803732]]'
+subclass_of: '[[_Standards/WikiData/WD~mores,1115221]]'
 different_from:
-  - "[[_Standards/WikiData/WD~good_practice,10506640]]"
-  - "[[_Standards/WikiData/WD~courtesy,16515017]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~good_manners,11228056]]"
-has_part_s_: "[[_Standards/WikiData/WD~dress,13120975]]"
-has_contributing_factor: "[[_Standards/WikiData/WD~culture,11042]]"
+  - '[[_Standards/WikiData/WD~good_practice,10506640]]'
+  - '[[_Standards/WikiData/WD~courtesy,16515017]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~good_manners,11228056]]'
+has_part_s_: '[[_Standards/WikiData/WD~dress,13120975]]'
+has_contributing_factor: '[[_Standards/WikiData/WD~culture,11042]]'
 Dewey_Decimal_Classification:
-  - "390"
-  - "395"
+  - 390
+  - 395
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cinema%20etiquette%20title%20card.jpg
 Commons_category: Etiquette
 Krugosvet_article: istoriya/ETIKET.html

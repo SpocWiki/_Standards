@@ -4,69 +4,70 @@ aliases:
   - Thomas Paine
   - Paine
   - Thomas Pain
+  - Paine,Thomas
 has_id_wikidata: Q126462
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~entrepreneur,131524]]"
-  - "[[_Standards/WikiData/WD~journalist,1930187]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~opinion_journalist,6051619]]"
-  - "[[_Standards/WikiData/WD~prose_writer,12144794]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+  - '[[_Standards/WikiData/WD~journalist,1930187]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
+  - '[[_Standards/WikiData/WD~prose_writer,12144794]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-place_of_death: "[[_Standards/WikiData/WD~Greenwich_Village,205380]]"
-place_of_birth: "[[_Standards/WikiData/WD~Thetford,237250]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+place_of_death: '[[_Standards/WikiData/WD~Greenwich_Village,205380]]'
+place_of_birth: '[[_Standards/WikiData/WD~Thetford,237250]]'
 member_of:
-  - "[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]"
-  - "[[_Standards/WikiData/WD~Pennsylvania_Abolition_Society,3374773]]"
+  - '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+  - '[[_Standards/WikiData/WD~Pennsylvania_Abolition_Society,3374773]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~deism,620629]]"
-place_of_burial: "[[_Standards/WikiData/WD~New_Rochelle,744948]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~deism,620629]]'
+place_of_burial: '[[_Standards/WikiData/WD~New_Rochelle,744948]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Common_Sense,843940]]"
-  - "[[_Standards/WikiData/WD~Rights_of_Man,979108]]"
-  - "[[_Standards/WikiData/WD~The_Age_of_Reason,1983019]]"
-different_from: "[[_Standards/WikiData/WD~Thomas_O._Paine,1367762]]"
-position_held: "[[_Standards/WikiData/WD~member_of_the_French_National_Assembly,3044918]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-educated_at: "[[_Standards/WikiData/WD~Thetford_Grammar_School,7783567]]"
-award_received: "[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]"
-given_name: "[[_Standards/WikiData/WD~Thomas,16428906]]"
+  - '[[_Standards/WikiData/WD~Common_Sense,843940]]'
+  - '[[_Standards/WikiData/WD~Rights_of_Man,979108]]'
+  - '[[_Standards/WikiData/WD~The_Age_of_Reason,1983019]]'
+different_from: '[[_Standards/WikiData/WD~Thomas_O._Paine,1367762]]'
+position_held: '[[_Standards/WikiData/WD~member_of_the_French_National_Assembly,3044918]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+educated_at: '[[_Standards/WikiData/WD~Thetford_Grammar_School,7783567]]'
+award_received: '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]'
+given_name: '[[_Standards/WikiData/WD~Thomas,16428906]]'
 family_name:
-  - "[[_Standards/WikiData/WD~Paine,16880907]]"
-  - "[[_Standards/WikiData/WD~Pain,37486727]]"
+  - '[[_Standards/WikiData/WD~Paine,16880907]]'
+  - '[[_Standards/WikiData/WD~Pain,37486727]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Thomas_Paine,28048367]]"
-  - "[[_Standards/WikiData/WD~Thomas_Paine_(1737_1809),119802486]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikiproject_Nuremberg_Trials,100137722]]"
+  - '[[_Standards/WikiData/WD~Thomas_Paine,28048367]]'
+  - '[[_Standards/WikiData/WD~Thomas_Paine_(1737_1809),119802486]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikiproject_Nuremberg_Trials,100137722]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Mary_Lambert,108668999]]"
-  - "[[_Standards/WikiData/WD~Elizabeth_Ollive,108669005]]"
+  - '[[_Standards/WikiData/WD~Mary_Lambert,108668999]]'
+  - '[[_Standards/WikiData/WD~Elizabeth_Ollive,108669005]]'
 date_of_birth: 1737-02-09T00:00:00Z
 writing_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Paris,90]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_location: '[[_Standards/WikiData/WD~Paris,90]]'
 BHCL_UUID:
   - bcf9cded-d410-4af1-bf3b-20ce1ec49725
   - ff952d30-a1b9-4825-ac8b-c4fead4c0e67
@@ -77,8 +78,8 @@ Commons_gallery: Thomas Paine
 birth_name: Thomas Paine
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Paine%20rev1.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Paine%20Signature.svg
-ISNI: "0000000108643658"
-U_S_National_Archives_Identifier: "10582088"
+ISNI: 0000000108643658
+U_S_National_Archives_Identifier: 10582088
 Libris_URI: 97mpstxt1r930qf
 Europeana_entity: agent/base/145364
 Krugosvet_article_archived_: istoriya/PEN_TOMAS.html

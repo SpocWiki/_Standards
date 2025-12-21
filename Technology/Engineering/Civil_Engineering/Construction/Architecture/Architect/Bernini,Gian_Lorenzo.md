@@ -1,8 +1,10 @@
 ---
 aliases:
-- "Giovanni Lorenzo Bernini"
-- "Gian Lorenzo Bernini"
-- "Gianlorenzo Bernini"
+  - Giovanni Lorenzo Bernini
+  - Gian Lorenzo Bernini
+  - Gianlorenzo Bernini
+  - Bernini,Gian_Lorenzo
+  - Bernini,Gian Lorenzo
 ---
 
 #has_/time_/started ::  1598-12-07

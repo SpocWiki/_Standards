@@ -4,21 +4,22 @@ aliases:
   - subscription_required
   - requiresSubscription
   - is_subscription_required
+  - is subscription required
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - subscription_required
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_subscription_required
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~SpreadsheetDigitalDocument
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/SpreadsheetDigitalDocument
-- class/Thing/CreativeWork/DigitalDocument/SpreadsheetDigitalDocument
-- is_a_/SpreadsheetDigitalDocument
-- schema-org/SpreadsheetDigitalDocument
+  - class/SpreadsheetDigitalDocument
+  - class/Thing/CreativeWork/DigitalDocument/SpreadsheetDigitalDocument
+  - is_a_/SpreadsheetDigitalDocument
+  - schema-org/SpreadsheetDigitalDocument
 tags:
-- class/FileClass
-- class/SpreadsheetDigitalDocument
-- is_a_/SpreadsheetDigitalDocument
-- class/Thing/CreativeWork/DigitalDocument/SpreadsheetDigitalDocument
+  - class/FileClass
+  - class/SpreadsheetDigitalDocument
+  - is_a_/SpreadsheetDigitalDocument
+  - class/Thing/CreativeWork/DigitalDocument/SpreadsheetDigitalDocument
 version: 2.0
 ---
 

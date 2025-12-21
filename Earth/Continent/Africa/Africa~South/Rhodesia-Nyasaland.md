@@ -1,12 +1,14 @@
 ---
+aliases:
+  - Rhodesia-Nyasaland
 confidential: public
 isDeleted: false
 location:
-- -17.8639
-- 31.0297
+  - -17.8639
+  - 31.0297
 SpocWebEntityId: 76702
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

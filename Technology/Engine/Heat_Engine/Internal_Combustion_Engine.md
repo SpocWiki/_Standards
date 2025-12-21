@@ -1,29 +1,31 @@
 ---
 aliases:
   - Verbrennermotor
+  - Internal_Combustion_Engine
+  - Internal Combustion Engine
 has_id_wikidata: Q12757
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Nicolaus_Otto,75782]]"
-  - "[[_Standards/WikiData/WD~Rudolf_Diesel,12674]]"
-has_effect: "[[_Standards/WikiData/WD~air_pollution,131123]]"
-has_characteristic: "[[_Standards/WikiData/WD~combustion,133235]]"
-uses: "[[_Standards/WikiData/WD~motor_fuel,337540]]"
-opposite_of: "[[_Standards/WikiData/WD~external_combustion_engine,843537]]"
-produced_sound: "[[_Standards/WikiData/WD~engine_noise,1949792]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~internal_combustion_engine_component,5156698]]"
-subclass_of: "[[_Standards/WikiData/WD~combustion_engine,6018565]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~explosion_motor,20987250]]"
-instance_of: "[[_Standards/WikiData/WD~engine_class,135841149]]"
+  - '[[_Standards/WikiData/WD~Nicolaus_Otto,75782]]'
+  - '[[_Standards/WikiData/WD~Rudolf_Diesel,12674]]'
+has_effect: '[[_Standards/WikiData/WD~air_pollution,131123]]'
+has_characteristic: '[[_Standards/WikiData/WD~combustion,133235]]'
+uses: '[[_Standards/WikiData/WD~motor_fuel,337540]]'
+opposite_of: '[[_Standards/WikiData/WD~external_combustion_engine,843537]]'
+produced_sound: '[[_Standards/WikiData/WD~engine_noise,1949792]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~internal_combustion_engine_component,5156698]]'
+subclass_of: '[[_Standards/WikiData/WD~combustion_engine,6018565]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~explosion_motor,20987250]]'
+instance_of: '[[_Standards/WikiData/WD~engine_class,135841149]]'
 properties_for_this_type: supercharger
-OmegaWiki_Defined_Meaning: "1201812"
+OmegaWiki_Defined_Meaning: 1201812
 Colon_Classification: D646
 short_name: ICE
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Verbrennungsmotor2.ogg
 Dewey_Decimal_Classification:
-  - "629.25"
-  - "621.43"
-  - "623.8723"
+  - 629.25
+  - 621.43
+  - 623.8723
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Diesel%20Engine%20%284%20cycle%20running%29.gif
   - http://commons.wikimedia.org/wiki/Special:FilePath/Qt-Flash-Final.gif

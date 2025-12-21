@@ -2,12 +2,13 @@
 aliases:
   - has credential-category
   - has_credential_category
+  - has credential category
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - category
   - credential_category
   - credentialCategory
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_credential_category
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

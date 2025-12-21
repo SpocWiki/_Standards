@@ -3,12 +3,13 @@ aliases:
   - has-energy-efficiency-category
   - hasEnergyEfficiencyCategory
   - has_energy_efficiency_category
+  - has energy efficiency category
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +18,11 @@ keywords:
   - category
   - energy_efficiency_category
   - energyEfficiencyCategory
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_energy_efficiency_category
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

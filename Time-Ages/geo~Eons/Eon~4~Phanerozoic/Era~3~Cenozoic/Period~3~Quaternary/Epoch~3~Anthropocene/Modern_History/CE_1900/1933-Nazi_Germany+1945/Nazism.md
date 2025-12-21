@@ -3,37 +3,38 @@ aliases:
   - Nazismus
   - Nationalsozialismus
   - National Socialism
+  - Nazism
 has_id_wikidata: Q7310
 has_characteristic:
-  - "[[_Standards/WikiData/WD~Pan_Germanism,155812]]"
-  - "[[_Standards/WikiData/WD~militarism,177266]]"
-  - "[[_Standards/WikiData/WD~anti_communism,182121]]"
-  - "[[_Standards/WikiData/WD~German_nationalism,370744]]"
-  - "[[_Standards/WikiData/WD~anti_capitalism,389647]]"
-  - "[[_Standards/WikiData/WD~social_conservatism,1414298]]"
-  - "[[_Standards/WikiData/WD~antiliberalism,2853246]]"
-  - "[[_Standards/WikiData/WD~ultranationalism,38352698]]"
-  - "[[_Standards/WikiData/WD~Aryanism,85743247]]"
-  - "[[_Standards/WikiData/WD~authoritarianism,6229]]"
-  - "[[_Standards/WikiData/WD~racism,8461]]"
-  - "[[_Standards/WikiData/WD~antisemitism,22649]]"
-practiced_by: "[[_Standards/WikiData/WD~Nazi,574578]]"
+  - '[[_Standards/WikiData/WD~Pan_Germanism,155812]]'
+  - '[[_Standards/WikiData/WD~militarism,177266]]'
+  - '[[_Standards/WikiData/WD~anti_communism,182121]]'
+  - '[[_Standards/WikiData/WD~German_nationalism,370744]]'
+  - '[[_Standards/WikiData/WD~anti_capitalism,389647]]'
+  - '[[_Standards/WikiData/WD~social_conservatism,1414298]]'
+  - '[[_Standards/WikiData/WD~antiliberalism,2853246]]'
+  - '[[_Standards/WikiData/WD~ultranationalism,38352698]]'
+  - '[[_Standards/WikiData/WD~Aryanism,85743247]]'
+  - '[[_Standards/WikiData/WD~authoritarianism,6229]]'
+  - '[[_Standards/WikiData/WD~racism,8461]]'
+  - '[[_Standards/WikiData/WD~antisemitism,22649]]'
+practiced_by: '[[_Standards/WikiData/WD~Nazi,574578]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Germany,6871603]]"
-  - "[[_Standards/WikiData/WD~WikiProject_European_history,8486525]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]"
-  - "[[_Standards/WikiData/WD~WikiProject_LGBTQ+_studies,15092984]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Discrimination,15304988]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Jewish_history,21830231]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Nazism,5622957]]"
-instance_of: "[[_Standards/WikiData/WD~political_ideology,12909644]]"
-described_by_source: "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Germany,6871603]]'
+  - '[[_Standards/WikiData/WD~WikiProject_European_history,8486525]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]'
+  - '[[_Standards/WikiData/WD~WikiProject_LGBTQ+_studies,15092984]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Discrimination,15304988]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Jewish_history,21830231]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Nazism,5622957]]'
+instance_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~ethnic_supremacism,122167123]]"
-  - "[[_Standards/WikiData/WD~fascism,6223]]"
-  - "[[_Standards/WikiData/WD~antisemitism,22649]]"
-OmegaWiki_Defined_Meaning: "351523"
+  - '[[_Standards/WikiData/WD~ethnic_supremacism,122167123]]'
+  - '[[_Standards/WikiData/WD~fascism,6223]]'
+  - '[[_Standards/WikiData/WD~antisemitism,22649]]'
+OmegaWiki_Defined_Meaning: 351523
 BHCL_UUID: 1a269c25-3156-4b72-b3b6-e8aa46e153fd
 booru_tag: nazism
 IMDb_keyword: nazi

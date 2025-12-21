@@ -1,30 +1,31 @@
 ---
 aliases:
-- 
+  - ''
+  - CC-BY
 confidential: private
-cssclasses: 
+cssclasses: ''
 draft: false
-expiryDate: 
+expiryDate: ''
 has_creator: '[[]]'
 has_destroyer: '[[]]'
-has_location_created: 
-has_location_destroyed: 
-has_time_created: 
-has_time_destroyed: 
+has_location_created: ''
+has_location_destroyed: ''
+has_time_created: ''
+has_time_destroyed: ''
 isDeleted: false
 isReadOnly: false
 Key: Value
-keywords: 
+keywords: ''
 lang: en
-layout: 
-linkTitle: 
+layout: ''
+linkTitle: ''
 Predicate: '[[Object]]'
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- "rather use"
+  - rather use
 title: CC-BY
-type: 
+type: ''
 ---
 
 Tags: #IT #URL #license 

@@ -2,6 +2,8 @@
 aliases:
   - compact disc
   - CD
+  - CD(Compact_Disc)
+  - CD(Compact Disc)
 has_id_wikidata: Q34467
 ---
 

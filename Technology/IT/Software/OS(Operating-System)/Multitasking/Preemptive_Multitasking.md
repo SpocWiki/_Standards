@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Preemptive multitasking"
+  - Preemptive multitasking
+  - Preemptive_Multitasking
+  - Preemptive Multitasking
 ---
 
 #is_/opposite_of :: [[Cooperative_Multitasking]]

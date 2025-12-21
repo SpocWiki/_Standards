@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Alan Moore"
+  - Alan Moore
+  - Moore,Alan
 has_id_wikidata: Q205739
 ---
 

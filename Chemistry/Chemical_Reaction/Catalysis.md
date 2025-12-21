@@ -1,29 +1,30 @@
 ---
 aliases:
   - Katalyse
+  - Catalysis
 has_id_wikidata: Q82264
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-different_from: "[[_Standards/WikiData/WD~catalytic_activity,1735592]]"
-uses: "[[_Standards/WikiData/WD~catalyst,12385831]]"
-has_part_s_: "[[_Standards/WikiData/WD~catalyst,12385831]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+different_from: '[[_Standards/WikiData/WD~catalytic_activity,1735592]]'
+uses: '[[_Standards/WikiData/WD~catalyst,12385831]]'
+has_part_s_: '[[_Standards/WikiData/WD~catalyst,12385831]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~molecular_function,14860489]]"
-  - "[[_Standards/WikiData/WD~chemical_reaction,36534]]"
-instance_of: "[[_Standards/WikiData/WD~molecular_function,14860489]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-studied_by: "[[_Standards/WikiData/WD~catalysis_and_mechanisms_of_reactions,113141551]]"
-All_Science_Journal_Classification_Codes: "1503"
-OmegaWiki_Defined_Meaning: "503"
-Basisklassifikation: "35.17"
+  - '[[_Standards/WikiData/WD~molecular_function,14860489]]'
+  - '[[_Standards/WikiData/WD~chemical_reaction,36534]]'
+instance_of: '[[_Standards/WikiData/WD~molecular_function,14860489]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+studied_by: '[[_Standards/WikiData/WD~catalysis_and_mechanisms_of_reactions,113141551]]'
+All_Science_Journal_Classification_Codes: 1503
+OmegaWiki_Defined_Meaning: 503
+Basisklassifikation: 35.17
 Commons_category: Catalysis
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Low%20Temperature%20Oxidation%20Catalyst.jpeg
 exact_match: http://purl.obolibrary.org/obo/GO_0003824
-P8189: "987007284858305171"
+P8189: 987007284858305171
 UMLS_CUI:
   - C0007382
   - C0243102

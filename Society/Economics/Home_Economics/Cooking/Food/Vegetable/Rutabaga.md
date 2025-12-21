@@ -3,23 +3,41 @@ aliases:
   - Swedish turnip
   - neep
   - Steckrübe
+  - Rutabaga
+  - Bodenkohlrabi
+  - Wruke
+  - Runkelrübe
+  - Kohlrübe
+  - rumena koleraba
+  - Runke
+  - brukev řepka tuřín
+  - Butterrübe
+  - Dodschn
+  - Erdkohlrabi
+  - Schwedische Rübe
+  - Unterkohlrabi
+  - Dotsche
+  - lanttu
+  - Knutsche
+  - kavla
+  - 蔓菁甘蓝
 has_id_wikidata: Q158464
-taxon_rank: "[[_Standards/WikiData/WD~subspecies,68947]]"
-has_fruit_type: "[[_Standards/WikiData/WD~silique,148529]]"
-parent_taxon: "[[../../../../../../WikiData/WD~Brassica_napus,177932]]"
-award_received: "[[_Standards/WikiData/WD~Vegetable_of_the_year,1344055]]"
-subclass_of: "[[_Standards/WikiData/WD~useful_plant,11992872]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+taxon_rank: '[[_Standards/WikiData/WD~subspecies,68947]]'
+has_fruit_type: '[[_Standards/WikiData/WD~silique,148529]]'
+parent_taxon: '[[../../../../../../WikiData/WD~Brassica_napus,177932]]'
+award_received: '[[_Standards/WikiData/WD~Vegetable_of_the_year,1344055]]'
+subclass_of: '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~turnip,60714336]]"
-  - "[[_Standards/WikiData/WD~rutabaga,104733765]]"
-hardiness_of_plant: "[[_Standards/WikiData/WD~2,99546131]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-has_use: "[[_Standards/WikiData/WD~vegetable,11004]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[_Standards/WikiData/WD~turnip,60714336]]'
+  - '[[_Standards/WikiData/WD~rutabaga,104733765]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+has_use: '[[_Standards/WikiData/WD~vegetable,11004]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 PLU_code:
-  - "4748"
-  - "4747"
+  - 4748
+  - 4747
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rutabaga%2C%20variety%20nadmorska.JPG
 taxon_common_name:
   - Bodenkohlrabi

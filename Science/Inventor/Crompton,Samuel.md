@@ -1,29 +1,30 @@
 ---
 aliases:
   - Samuel_Crompton
+  - Crompton,Samuel
 has_id_wikidata: Q140692
-country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-place_of_death: "[[_Standards/WikiData/WD~Bolton,184579]]"
-place_of_birth: "[[_Standards/WikiData/WD~Bolton,184579]]"
-occupation: "[[_Standards/WikiData/WD~inventor,205375]]"
-given_name: "[[_Standards/WikiData/WD~Samuel,629347]]"
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+place_of_death: '[[_Standards/WikiData/WD~Bolton,184579]]'
+place_of_birth: '[[_Standards/WikiData/WD~Bolton,184579]]'
+occupation: '[[_Standards/WikiData/WD~inventor,205375]]'
+given_name: '[[_Standards/WikiData/WD~Samuel,629347]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Svensk_uppslagsbok,1766280]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-family_name: "[[_Standards/WikiData/WD~Crompton,5187637]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-child: "[[_Standards/WikiData/WD~Frances_Crompton,75644399]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Svensk_uppslagsbok,1766280]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+family_name: '[[_Standards/WikiData/WD~Crompton,5187637]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+child: '[[_Standards/WikiData/WD~Frances_Crompton,75644399]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
 date_of_birth: 1753-12-03T00:00:00Z
-place_of_burial: "[[_Standards/WikiData/WD~Bari,3519]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+place_of_burial: '[[_Standards/WikiData/WD~Bari,3519]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_gallery: Samuel Crompton
 Commons_category: Samuel Crompton
-ISNI: "0000000081998896"
+ISNI: 0000000081998896
 date_of_death: 1827-06-26T00:00:00Z
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Crompton%20Samuel%20signature.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Crompton.jpg

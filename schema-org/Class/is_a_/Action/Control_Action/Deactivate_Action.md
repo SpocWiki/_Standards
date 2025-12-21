@@ -4,20 +4,22 @@ aliases:
   - deactivate_action
   - DeactivateAction
   - is_a_deactivate_action
+  - Deactivate_Action
+  - Deactivate Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - deactivate_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_deactivate_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

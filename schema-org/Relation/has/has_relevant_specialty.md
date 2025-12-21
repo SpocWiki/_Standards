@@ -3,23 +3,24 @@ aliases:
   - has relevant-specialty
   - relevantSpecialty
   - has_relevant_specialty
+  - has relevant specialty
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - relevant_specialty
   - relevant
   - specialty
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_relevant_specialty
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

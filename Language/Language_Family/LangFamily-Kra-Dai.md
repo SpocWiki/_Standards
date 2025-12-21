@@ -2,20 +2,21 @@
 aliases:
   - Kra–Dai language
   - Kra–Dai languages
+  - LangFamily-Kra-Dai
 has_id_wikidata: Q34171
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Tai,749720]]"
-  - "[[_Standards/WikiData/WD~Kra,1022087]]"
-  - "[[_Standards/WikiData/WD~Kam_Sui,1023641]]"
-  - "[[_Standards/WikiData/WD~Hlai,1023648]]"
-  - "[[_Standards/WikiData/WD~Jiamao,3178570]]"
-  - "[[_Standards/WikiData/WD~Ong_Be,7093790]]"
-  - "[[_Standards/WikiData/WD~Jizhao,45242758]]"
+  - '[[_Standards/WikiData/WD~Tai,749720]]'
+  - '[[_Standards/WikiData/WD~Kra,1022087]]'
+  - '[[_Standards/WikiData/WD~Kam_Sui,1023641]]'
+  - '[[_Standards/WikiData/WD~Hlai,1023648]]'
+  - '[[_Standards/WikiData/WD~Jiamao,3178570]]'
+  - '[[_Standards/WikiData/WD~Ong_Be,7093790]]'
+  - '[[_Standards/WikiData/WD~Jizhao,45242758]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Austro_Tai,783816]]"
-  - "[[_Standards/WikiData/WD~Asian_languages,98791755]]"
-UNESCO_language_status: "[[_Standards/WikiData/WD~3_definitely_endangered,20672088]]"
-instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
+  - '[[_Standards/WikiData/WD~Austro_Tai,783816]]'
+  - '[[_Standards/WikiData/WD~Asian_languages,98791755]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~3_definitely_endangered,20672088]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Taikadai-en.svg
 Commons_category: Kra-Dai languages
 WALS_family_code: taikadai

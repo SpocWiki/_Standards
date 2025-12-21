@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Amun
 has_id_wikidata: Q58373
 ---
 

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Katsushika Hokusai
+  - Hokusai
+has_id_wikidata: Q5586
 child:
   - "[[_Standards/WikiData/WD~Katsushika_Ōi,11621076]]"
   - "[[_Standards/WikiData/WD~Katsushika_Tatsujo,11621090]]"
@@ -36,7 +38,6 @@ floruit:
 genre: "[[_Standards/WikiData/WD~portrait,134307]]"
 given_name: "[[_Standards/WikiData/WD~Hokusai,65613226]]"
 Google_Doodle: birthday-of-katsushika-hokusai
-has_id_wikidata: Q5586
 has_works_in_the_collection:
   - "[[_Standards/WikiData/WD~Honolulu_Museum_of_Art,128316]]"
   - "[[_Standards/WikiData/WD~Library_of_Congress,131454]]"
@@ -158,6 +159,8 @@ work_location: "[[_Standards/WikiData/WD~Edo,215646]]"
 work_period_end_: 1849
 work_period_start_: 1775
 ---
+
+# [[Hokusai]] 
 
 #has_/time_/started :: 1760-10-31 
 #has_/time_/started :: 1849-05-10 

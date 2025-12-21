@@ -1,42 +1,45 @@
 ---
+aliases:
+  - Balkan_Mountains
+  - Balkan Mountains
 has_id_wikidata: Q170427
 made_from_material:
-  - "[[_Standards/WikiData/WD~gneiss,166409]]"
-  - "[[_Standards/WikiData/WD~limestone,23757]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Balkan_Mountains,170427]]"
+  - '[[_Standards/WikiData/WD~gneiss,166409]]'
+  - '[[_Standards/WikiData/WD~limestone,23757]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Balkan_Mountains,170427]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~Q111223470,111223470]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318]]"
-part_of: "[[_Standards/WikiData/WD~Alpide_belt,847514]]"
-highest_point: "[[_Standards/WikiData/WD~Botev_Peak,894703]]"
-different_from: "[[_Standards/WikiData/WD~Stara_Planina,3497086]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Haemus_Mons,4897067]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Lovech,6587068]]"
-mountain_range: "[[_Standards/WikiData/WD~Balcanides,11036790]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+  - '[[_Standards/WikiData/WD~Q111223470,111223470]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318]]'
+part_of: '[[_Standards/WikiData/WD~Alpide_belt,847514]]'
+highest_point: '[[_Standards/WikiData/WD~Botev_Peak,894703]]'
+different_from: '[[_Standards/WikiData/WD~Stara_Planina,3497086]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Haemus_Mons,4897067]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Lovech,6587068]]'
+mountain_range: '[[_Standards/WikiData/WD~Balcanides,11036790]]'
 coordinate_location:
   - Point(24.97626 42.78421)
   - Point(25.0 43.25)
 country:
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+  - '[[_Standards/WikiData/WD~Serbia,403]]'
+  - '[[_Standards/WikiData/WD~Bulgaria,219]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 length: 530
-instance_of: "[[_Standards/WikiData/WD~mountain_range,46831]]"
+instance_of: '[[_Standards/WikiData/WD~mountain_range,46831]]'
 elevation_above_sea_level: 2376
 area: 11596
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Balkan%20Mountains%20Wikivoyage%20banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Balkangebirge%20Balkan%20topo%20de.jpg
 Commons_category: Stara planina
-P8189: "987007282303105171"
+P8189: 987007282303105171
 ---
 
 # [[Balkan_Mountains]] 

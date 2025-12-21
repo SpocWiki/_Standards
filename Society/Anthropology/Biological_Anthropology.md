@@ -1,16 +1,18 @@
 ---
-has_id_wikidata: Q27172
 aliases:
   - physical anthropology
+  - Biological_Anthropology
+  - Biological Anthropology
+has_id_wikidata: Q27172
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_work,627436]]"
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~branch_of_anthropology,106720965]]"
-practiced_by: "[[_Standards/WikiData/WD~biological_anthropologist,102123287]]"
-subclass_of: "[[_Standards/WikiData/WD~anthropology,23404]]"
+  - '[[_Standards/WikiData/WD~field_of_work,627436]]'
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~branch_of_anthropology,106720965]]'
+practiced_by: '[[_Standards/WikiData/WD~biological_anthropologist,102123287]]'
+subclass_of: '[[_Standards/WikiData/WD~anthropology,23404]]'
 described_at_URL:
   - https://anthropology.dartmouth.edu/undergraduate/courses/biological-anthropology
   - https://physanth.org/career/career-biological-anthropology/
@@ -18,10 +20,10 @@ described_at_URL:
   - https://anthro.ucsc.edu/about/sub-fields/physical-anthro.html
   - https://www.discoveranthropology.org.uk/about-anthropology/what-is-anthropology/biological-anthropology.html
 Iconclass_notation: 49F3
-Basisklassifikation: "42.88"
+Basisklassifikation: 42.88
 Commons_category: Anthropology
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Primate%20skull%20series%20no%20legend.png
-P8189: "987007546022505171"
+P8189: 987007546022505171
 UMLS_CUI: C0003187
 Wolfram_Language_entity_code: Entity["Concept", "PhysicalAnthropology::7whjt"]
 MeSH_tree_code: I01.076.368

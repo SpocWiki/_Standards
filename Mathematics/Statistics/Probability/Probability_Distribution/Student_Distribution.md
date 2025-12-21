@@ -2,18 +2,20 @@
 aliases:
   - Student's_t
   - Student's t
+  - Student_Distribution
+  - Student Distribution
 has_id_wikidata: Q576072
-named_after: "[[_Standards/WikiData/WD~William_Sealy_Gosset,334375]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Sealy_Gosset,334375]]"
+named_after: '[[_Standards/WikiData/WD~William_Sealy_Gosset,334375]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Sealy_Gosset,334375]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~continuous_probability_distribution,917918]]"
-  - "[[_Standards/WikiData/WD~location_scale_family,6664772]]"
-  - "[[_Standards/WikiData/WD~multivariate_t_distribution,6935144]]"
-  - "[[_Standards/WikiData/WD~noncentral_t_distribution,6960434]]"
-  - "[[_Standards/WikiData/WD~univariate_probability_distribution,7893853]]"
-  - "[[_Standards/WikiData/WD~symmetric_probability_distribution,16000505]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]"
+  - '[[_Standards/WikiData/WD~continuous_probability_distribution,917918]]'
+  - '[[_Standards/WikiData/WD~location_scale_family,6664772]]'
+  - '[[_Standards/WikiData/WD~multivariate_t_distribution,6935144]]'
+  - '[[_Standards/WikiData/WD~noncentral_t_distribution,6960434]]'
+  - '[[_Standards/WikiData/WD~univariate_probability_distribution,7893853]]'
+  - '[[_Standards/WikiData/WD~symmetric_probability_distribution,16000505]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
 excess_kurtosis:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>3</mn><mo stretchy="false">+</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mn>6</mn></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x03BD;</mi><mo stretchy="false">&#x2212;</mo><mn>4</mn></mrow></mrow></mfrac></mrow><mo>,</mo><mi>&#x03BD;</mi><mo>&gt;</mo><mn>4</mn></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mn>3</mn><mo stretchy="false">(</mo><mi>&#x03BD;</mi><mo stretchy="false">&#x2212;</mo><mn>2</mn><mo stretchy="false">)</mo></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x03BD;</mi><mo stretchy="false">&#x2212;</mo><mn>4</mn></mrow></mrow></mfrac></mrow><mo>,</mo><mi>&#x03BD;</mi><mo>&gt;</mo><mn>4</mn></mstyle></mrow></math>

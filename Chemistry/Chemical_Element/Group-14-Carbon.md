@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Group-14-Carbon
 has_id_wikidata: Q106693
 type: ElementGroup
 ---

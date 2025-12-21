@@ -1,20 +1,23 @@
 ---
+aliases:
+  - Atmospheric_Circulation
+  - Atmospheric Circulation
 has_id_wikidata: Q2615451
 subclass_of:
-  - "[[_Standards/WikiData/WD~circulation,205879]]"
-  - "[[_Standards/WikiData/WD~air_current,4698318]]"
+  - '[[_Standards/WikiData/WD~circulation,205879]]'
+  - '[[_Standards/WikiData/WD~air_current,4698318]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~atmospheric_sciences,757520]]"
-  - "[[_Standards/WikiData/WD~meteorology,25261]]"
-  - "[[_Standards/WikiData/WD~climatology,52139]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-facet_of: "[[_Standards/WikiData/WD~atmosphere_of_Earth,3230]]"
+  - '[[_Standards/WikiData/WD~atmospheric_sciences,757520]]'
+  - '[[_Standards/WikiData/WD~meteorology,25261]]'
+  - '[[_Standards/WikiData/WD~climatology,52139]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+facet_of: '[[_Standards/WikiData/WD~atmosphere_of_Earth,3230]]'
 Commons_category: Atmospheric circulation
 Krugosvet_article: nauka_i_tehnika/fizika/ATMOSFERI_TSIRKULYATSIYA.html
-Dewey_Decimal_Classification: "551.517"
+Dewey_Decimal_Classification: 551.517
 ---
 
 # [[Atmospheric_Circulation]] 

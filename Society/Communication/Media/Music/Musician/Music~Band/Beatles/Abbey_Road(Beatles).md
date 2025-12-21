@@ -1,25 +1,27 @@
 ---
 aliases:
-- Beatles~Abbey_Road
-- 
+  - Beatles~Abbey_Road
+  - ''
+  - Abbey_Road(Beatles)
+  - Abbey Road(Beatles)
 confidential: private
-cssclasses: "private note"
+cssclasses: private note
 draft: true
-expiryDate: 
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 has_time_started: 2024-10-20
 isDeleted: false
 isReadOnly: false
 keywords: Beatles~Abbey_Road
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Beatles~Abbey_Road
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Beatles~Abbey_Road
-- 
+  - Beatles~Abbey_Road
+  - ''
 title: Beatles~Abbey_Road
 type: private_note
 ---

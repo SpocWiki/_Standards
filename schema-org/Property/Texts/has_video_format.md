@@ -4,22 +4,24 @@ aliases:
   - video_format
   - videoFormat
   - has_text_of_video_format
+  - has_video_format
+  - has video format
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - video
   - format
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_video_format
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

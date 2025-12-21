@@ -1,23 +1,24 @@
 ---
 aliases:
   - Vieh
+  - Livestock
 has_id_wikidata: Q103459
-facet_of: "[[_Standards/WikiData/WD~animal_husbandry,80962]]"
-different_from: "[[_Standards/WikiData/WD~Fee,560146]]"
+facet_of: '[[_Standards/WikiData/WD~animal_husbandry,80962]]'
+different_from: '[[_Standards/WikiData/WD~Fee,560146]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~domesticated_animal,622852]]"
-  - "[[_Standards/WikiData/WD~productive_animal,1797813]]"
-  - "[[_Standards/WikiData/WD~captive_animal,57812559]]"
+  - '[[_Standards/WikiData/WD~domesticated_animal,622852]]'
+  - '[[_Standards/WikiData/WD~productive_animal,1797813]]'
+  - '[[_Standards/WikiData/WD~captive_animal,57812559]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Animal_culture,19362175]]"
-instance_of: "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Animal_culture,19362175]]'
+instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Hicks%20001.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_02000005
-U_S_National_Archives_Identifier: "10638714"
+U_S_National_Archives_Identifier: 10638714
 MeSH_tree_code: B01.050.050.116.500
 UMLS_CUI: C2936506
 Colon_Classification: KX2

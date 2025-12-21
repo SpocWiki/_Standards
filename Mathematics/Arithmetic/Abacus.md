@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Abacus
+has_id_wikidata: Q12806
 BHCL_UUID: 63df099e-db44-46f1-8aad-b620e3e6927b
 Commons_category: Abacus
 Commons_gallery: Abacus
@@ -16,7 +19,6 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 exact_match: http://wordnet-rdf.princeton.edu/wn30/02666196-n
-has_id_wikidata: Q12806
 has_use: "[[_Standards/WikiData/WD~Q48782649,48782649]]"
 Iconclass_notation: 49D5311
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RomanAbacusRecon.jpg
@@ -29,7 +31,7 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Abacus,25979696]]"
 Unicode_character: 🧮
 ---
 
-# [[Abacus]] 
+# [[Abacus]] 🧮 
 
 #is_/same_as :: [[../../WikiData/WD~Abacus,12806]] 
 

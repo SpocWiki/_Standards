@@ -2,14 +2,15 @@
 aliases:
   - Ugric
   - Ugrian
+  - LangFamily-Ugric
 has_id_wikidata: Q156631
-subclass_of: "[[_Standards/WikiData/WD~Finno_Ugric,79890]]"
+subclass_of: '[[_Standards/WikiData/WD~Finno_Ugric,79890]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Hungarian,9067]]"
-  - "[[_Standards/WikiData/WD~Khanty,33563]]"
-  - "[[_Standards/WikiData/WD~Mansi,33759]]"
-instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
-Dewey_Decimal_Classification: "494.51"
+  - '[[_Standards/WikiData/WD~Hungarian,9067]]'
+  - '[[_Standards/WikiData/WD~Khanty,33563]]'
+  - '[[_Standards/WikiData/WD~Mansi,33759]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
+Dewey_Decimal_Classification: 494.51
 Libris_URI: hftwvx015knrqh4
 Linguist_List_code: ugri
 ---

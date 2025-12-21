@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~VideoObjectSnapshot
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/VideoObjectSnapshot
-- class/Thing/CreativeWork/MediaObject/VideoObject/VideoObjectSnapshot
-- is_a_/VideoObjectSnapshot
-- schema-org/VideoObjectSnapshot
+  - class/VideoObjectSnapshot
+  - class/Thing/CreativeWork/MediaObject/VideoObject/VideoObjectSnapshot
+  - is_a_/VideoObjectSnapshot
+  - schema-org/VideoObjectSnapshot
 tags:
-- class/FileClass
-- class/VideoObjectSnapshot
-- is_a_/VideoObjectSnapshot
-- class/Thing/CreativeWork/MediaObject/VideoObject/VideoObjectSnapshot
+  - class/FileClass
+  - class/VideoObjectSnapshot
+  - is_a_/VideoObjectSnapshot
+  - class/Thing/CreativeWork/MediaObject/VideoObject/VideoObjectSnapshot
 version: 2.0
 ---
 

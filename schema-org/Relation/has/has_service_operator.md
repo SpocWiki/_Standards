@@ -3,23 +3,24 @@ aliases:
   - has service-operator
   - serviceOperator
   - has_service_operator
+  - has service operator
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - service_operator
   - service
   - operator
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_service_operator
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

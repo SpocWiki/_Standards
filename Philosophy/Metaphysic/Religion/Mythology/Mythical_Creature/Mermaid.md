@@ -1,6 +1,7 @@
 ---
 aliases:
   - Meerjungfrau
+  - Mermaid
 has_id_wikidata: Q182559
 ---
 

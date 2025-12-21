@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Applied_Ethics
+  - Applied Ethics
 has_id_wikidata: Q538733
 ---
 

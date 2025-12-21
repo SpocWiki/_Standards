@@ -4,20 +4,22 @@ aliases:
   - tv_clip
   - TVClip
   - is_a_tv_clip
+  - Tv_Clip
+  - Tv Clip
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - tv_clip
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_tv_clip Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

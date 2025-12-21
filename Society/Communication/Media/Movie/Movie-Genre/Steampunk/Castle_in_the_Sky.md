@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Castle in the Sky"
-- "Laputa: Castle in the Sky"
+  - Castle in the Sky
+  - 'Laputa: Castle in the Sky'
+  - Castle_in_the_Sky
 ---
 
 ## #has_/text_of_/abstract 

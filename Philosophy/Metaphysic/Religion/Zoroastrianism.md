@@ -35,15 +35,15 @@ instance_of: "[[_Standards/WikiData/WD~religion,9174]]"
 official_language: "[[_Standards/WikiData/WD~Avestan,29572]]"
 named_after: "[[_Standards/WikiData/WD~Zoroaster,35811]]"
 founded_by: "[[_Standards/WikiData/WD~Zoroaster,35811]]"
-Dewey_Decimal_Classification: "295"
-OmegaWiki_Defined_Meaning: "933779"
+Dewey_Decimal_Classification: 295
+OmegaWiki_Defined_Meaning: 933779
 Colon_Classification: Q8451
 subreddit: Zoroastrianism
 Commons_gallery: Zoroastrianism
 Commons_category: Zoroastrianism
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Faravahar.png
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Zoroastrianism%20banner.png
-P8189: "987007536540205171"
+P8189: 987007536540205200
 Krugosvet_article: kultura_i_obrazovanie/religiya/ZOROASTRIZM.html
 OpenStreetMap_tag_or_key: Tag:religion=zoroastrian
 ---

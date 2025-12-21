@@ -1,22 +1,23 @@
 ---
 aliases:
   - Kalkstein
+  - Limestone
 has_id_wikidata: Q23757
 made_from_material:
-  - "[[_Standards/WikiData/WD~calcite,171917]]"
-  - "[[_Standards/WikiData/WD~aragonite,23775]]"
-instance_of: "[[_Standards/WikiData/WD~material,214609]]"
-has_characteristic: "[[_Standards/WikiData/WD~hygroscopy,216678]]"
+  - '[[_Standards/WikiData/WD~calcite,171917]]'
+  - '[[_Standards/WikiData/WD~aragonite,23775]]'
+instance_of: '[[_Standards/WikiData/WD~material,214609]]'
+has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-subclass_of: "[[_Standards/WikiData/WD~carbonate_rock,777913]]"
-award_received: "[[_Standards/WikiData/WD~Rock_of_the_Year,1519491]]"
-associated_hazard: "[[_Standards/WikiData/WD~limestone_exposure,21174818]]"
-has_effect: "[[_Standards/WikiData/WD~limestone_exposure,21174818]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+subclass_of: '[[_Standards/WikiData/WD~carbonate_rock,777913]]'
+award_received: '[[_Standards/WikiData/WD~Rock_of_the_Year,1519491]]'
+associated_hazard: '[[_Standards/WikiData/WD~limestone_exposure,21174818]]'
+has_effect: '[[_Standards/WikiData/WD~limestone_exposure,21174818]]'
 vapor_pressure: 0
 time_weighted_average_exposure_limit:
   - 10
@@ -27,7 +28,7 @@ Mohs_hardness: 3
 decomposition_point:
   - 1517
   - 2442
-UNSPSC_Code: "11111608"
+UNSPSC_Code: 11111608
 Commons_gallery: Limestone
 Commons_category: Limestone
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Limestone%20outcrop%20in%20Citatah.jpg

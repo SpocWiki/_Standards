@@ -1,73 +1,74 @@
 ---
 aliases:
   - Universal Declaration of Human Rights
+  - Universal_Declaration_of_Human_Rights
 has_id_wikidata: Q7813
-applies_to_jurisdiction: "[[_Standards/WikiData/WD~member_states_of_the_United_Nations,160016]]"
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~member_states_of_the_United_Nations,160016]]'
 depicts:
-  - "[[_Standards/WikiData/WD~presumption_of_innocence,275462]]"
-  - "[[_Standards/WikiData/WD~freedom_of_thought,277569]]"
-  - "[[_Standards/WikiData/WD~equality_before_the_law,316254]]"
-  - "[[_Standards/WikiData/WD~right_to_work,514404]]"
-  - "[[_Standards/WikiData/WD~due_process,1068288]]"
-  - "[[_Standards/WikiData/WD~right_to_a_fair_trial,1757432]]"
-  - "[[_Standards/WikiData/WD~right_to_housing,1849028]]"
-  - "[[_Standards/WikiData/WD~arbitrary_arrest_and_detention,2080864]]"
-  - "[[_Standards/WikiData/WD~right_to_health,2919435]]"
-  - "[[_Standards/WikiData/WD~freedom_of_expression,3831748]]"
-  - "[[_Standards/WikiData/WD~right_to_property,11917765]]"
-  - "[[_Standards/WikiData/WD~right_to_an_effective_remedy,113023546]]"
-  - "[[_Standards/WikiData/WD~right_to_a_social_and_international_order,130212763]]"
+  - '[[_Standards/WikiData/WD~presumption_of_innocence,275462]]'
+  - '[[_Standards/WikiData/WD~freedom_of_thought,277569]]'
+  - '[[_Standards/WikiData/WD~equality_before_the_law,316254]]'
+  - '[[_Standards/WikiData/WD~right_to_work,514404]]'
+  - '[[_Standards/WikiData/WD~due_process,1068288]]'
+  - '[[_Standards/WikiData/WD~right_to_a_fair_trial,1757432]]'
+  - '[[_Standards/WikiData/WD~right_to_housing,1849028]]'
+  - '[[_Standards/WikiData/WD~arbitrary_arrest_and_detention,2080864]]'
+  - '[[_Standards/WikiData/WD~right_to_health,2919435]]'
+  - '[[_Standards/WikiData/WD~freedom_of_expression,3831748]]'
+  - '[[_Standards/WikiData/WD~right_to_property,11917765]]'
+  - '[[_Standards/WikiData/WD~right_to_an_effective_remedy,113023546]]'
+  - '[[_Standards/WikiData/WD~right_to_a_social_and_international_order,130212763]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~statute,820655]]"
-  - "[[_Standards/WikiData/WD~customary_international_law,1194894]]"
-  - "[[_Standards/WikiData/WD~non_binding_resolution,7048853]]"
-  - "[[_Standards/WikiData/WD~written_work,47461344]]"
-  - "[[_Standards/WikiData/WD~declaration,62662439]]"
-part_of: "[[_Standards/WikiData/WD~International_Bill_of_Human_Rights,1328552]]"
-time_period: "[[_Standards/WikiData/WD~contemporary_literature,1498333]]"
-genre: "[[_Standards/WikiData/WD~legal_act,1864008]]"
-collection: "[[_Standards/WikiData/WD~Palais_de_Chaillot,13360213]]"
+  - '[[_Standards/WikiData/WD~statute,820655]]'
+  - '[[_Standards/WikiData/WD~customary_international_law,1194894]]'
+  - '[[_Standards/WikiData/WD~non_binding_resolution,7048853]]'
+  - '[[_Standards/WikiData/WD~written_work,47461344]]'
+  - '[[_Standards/WikiData/WD~declaration,62662439]]'
+part_of: '[[_Standards/WikiData/WD~International_Bill_of_Human_Rights,1328552]]'
+time_period: '[[_Standards/WikiData/WD~contemporary_literature,1498333]]'
+genre: '[[_Standards/WikiData/WD~legal_act,1864008]]'
+collection: '[[_Standards/WikiData/WD~Palais_de_Chaillot,13360213]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-  - "[[_Standards/WikiData/WD~WikiForHumanRights_2019,78499962]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+  - '[[_Standards/WikiData/WD~WikiForHumanRights_2019,78499962]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Swedish_edition),15723684]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Arabic_edition),15723695]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Catalan_edition),15723711]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(cs_edition),15723717]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Danish_edition),15723726]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(German_edition),15723739]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Greek_edition),15723751]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Esperanto_edition),15723774]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Spanish_edition),15723785]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(French_edition),15723801]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Hebrew_edition),15723823]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Hungarian_edition),15723935]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(id_edition),15723964]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Italian_edition),15723982]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Latin_edition),15723998]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Polish_edition),15724040]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(pt_edition),15724055]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(ro_edition),15724151]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Russian_edition),15724165]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(sk_edition),15724183]]"
-  - "[[_Standards/WikiData/WD~Q15724269,15724269]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Chinese_edition),15724282]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Swedish_edition),15727223]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(fo),15880159]]"
-  - "[[_Standards/WikiData/WD~Tamule_N_Amḍal_N_Lxǝqqǝn_N_Awadǝm,117864807]]"
-  - "[[_Standards/WikiData/WD~Q128902311,128902311]]"
-published_in: "[[_Standards/WikiData/WD~United_Nations_General_Assembly_Resolution_217,20715248]]"
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Swedish_edition),15723684]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Arabic_edition),15723695]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Catalan_edition),15723711]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(cs_edition),15723717]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Danish_edition),15723726]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(German_edition),15723739]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Greek_edition),15723751]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Esperanto_edition),15723774]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Spanish_edition),15723785]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(French_edition),15723801]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Hebrew_edition),15723823]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Hungarian_edition),15723935]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(id_edition),15723964]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Italian_edition),15723982]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Latin_edition),15723998]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Polish_edition),15724040]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(pt_edition),15724055]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(ro_edition),15724151]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Russian_edition),15724165]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(sk_edition),15724183]]'
+  - '[[_Standards/WikiData/WD~Q15724269,15724269]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Chinese_edition),15724282]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(Swedish_edition),15727223]]'
+  - '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights_(fo),15880159]]'
+  - '[[_Standards/WikiData/WD~Tamule_N_Amḍal_N_Lxǝqqǝn_N_Awadǝm,117864807]]'
+  - '[[_Standards/WikiData/WD~Q128902311,128902311]]'
+published_in: '[[_Standards/WikiData/WD~United_Nations_General_Assembly_Resolution_217,20715248]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~article_9_of_the_Universal_Declaration_of_Human_Rights,80083142]]"
-  - "[[_Standards/WikiData/WD~Article_19_of_the_Universal_Declaration_of_Human_Rights,116878154]]"
-author: "[[_Standards/WikiData/WD~United_Nations_Universal_Declaration_of_Human_Rights_Drafting_Committee,136487622]]"
-main_subject: "[[_Standards/WikiData/WD~human_rights,8458]]"
-mandates: "[[_Standards/WikiData/WD~human_rights,8458]]"
-facet_of: "[[_Standards/WikiData/WD~human_rights,8458]]"
-place_of_publication: "[[_Standards/WikiData/WD~Paris,90]]"
+  - '[[_Standards/WikiData/WD~article_9_of_the_Universal_Declaration_of_Human_Rights,80083142]]'
+  - '[[_Standards/WikiData/WD~Article_19_of_the_Universal_Declaration_of_Human_Rights,116878154]]'
+author: '[[_Standards/WikiData/WD~United_Nations_Universal_Declaration_of_Human_Rights_Drafting_Committee,136487622]]'
+main_subject: '[[_Standards/WikiData/WD~human_rights,8458]]'
+mandates: '[[_Standards/WikiData/WD~human_rights,8458]]'
+facet_of: '[[_Standards/WikiData/WD~human_rights,8458]]'
+place_of_publication: '[[_Standards/WikiData/WD~Paris,90]]'
 number_of_pages: 6
-legislated_by: "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
+legislated_by: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
 work_available_at_URL:
   - https://fn.se/wp-content/uploads/2016/07/Allmanforklaringomdemanskligarattigheterna.pdf
   - http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf

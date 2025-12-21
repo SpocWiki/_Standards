@@ -1,7 +1,8 @@
 ---
-has_id_wikidata: Q7291
 aliases:
   - Federball
+  - Badminton
+has_id_wikidata: Q7291
 ---
 
 # [[Badminton]] 

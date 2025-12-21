@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Bridge
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/Bridge
-- class/Thing/Place/CivicStructure/Bridge
-- is_a_/Bridge
-- schema-org/Bridge
+  - class/Bridge
+  - class/Thing/Place/CivicStructure/Bridge
+  - is_a_/Bridge
+  - schema-org/Bridge
 tags:
-- class/FileClass
-- class/Bridge
-- is_a_/Bridge
-- class/Thing/Place/CivicStructure/Bridge
+  - class/FileClass
+  - class/Bridge
+  - is_a_/Bridge
+  - class/Thing/Place/CivicStructure/Bridge
 version: 2.0
 ---
 

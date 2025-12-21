@@ -1,6 +1,7 @@
 ---
 aliases:
   - Month of Year
+  - Month_of_Year
 has_id_wikidata: Q5151
 ---
 

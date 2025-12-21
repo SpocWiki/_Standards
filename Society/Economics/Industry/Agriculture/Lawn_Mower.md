@@ -4,15 +4,17 @@ aliases:
   - grass cutter
   - mower
   - lawnmower
+  - Lawn_Mower
+  - Lawn Mower
 has_id_wikidata: Q260521
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~blade,330946]]"
-  - "[[_Standards/WikiData/WD~engine,44167]]"
+  - '[[_Standards/WikiData/WD~blade,330946]]'
+  - '[[_Standards/WikiData/WD~engine,44167]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~bar_mower,10858147]]"
-  - "[[_Standards/WikiData/WD~machine,11019]]"
-has_use: "[[_Standards/WikiData/WD~Lawn_mowing,134509389]]"
-Nomenclature_for_Museum_Cataloging: "8986"
+  - '[[_Standards/WikiData/WD~bar_mower,10858147]]'
+  - '[[_Standards/WikiData/WD~machine,11019]]'
+has_use: '[[_Standards/WikiData/WD~Lawn_mowing,134509389]]'
+Nomenclature_for_Museum_Cataloging: 8986
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/WWS%20Lawnmower.ogg
 time_of_discovery_or_invention: 1830-01-01T00:00:00Z
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Ride-on%20Lawn%20Mower.webm

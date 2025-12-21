@@ -4,16 +4,18 @@ aliases:
   - Cable TV
   - Kabelfernsehen
   - CATV
+  - Cable_Television
+  - Cable Television
 has_id_wikidata: Q184452
-opposite_of: "[[_Standards/WikiData/WD~terrestrial_television,175122]]"
-uses: "[[_Standards/WikiData/WD~digital_cable,5276046]]"
-has_list: "[[_Standards/WikiData/WD~list_of_cable_television_companies,16000145]]"
-subclass_of: "[[_Standards/WikiData/WD~television,289]]"
-U_S_National_Archives_Identifier: "10638568"
+opposite_of: '[[_Standards/WikiData/WD~terrestrial_television,175122]]'
+uses: '[[_Standards/WikiData/WD~digital_cable,5276046]]'
+has_list: '[[_Standards/WikiData/WD~list_of_cable_television_companies,16000145]]'
+subclass_of: '[[_Standards/WikiData/WD~television,289]]'
+U_S_National_Archives_Identifier: 10638568
 Commons_category: Cable television
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Belling-Lee-Stecker.jpg
-Common_Procurement_Vocabulary_code: "92232000"
-P8189: "987007293764905171"
+Common_Procurement_Vocabulary_code: 92232000
+P8189: 987007293764905171
 ---
 
 # [[Cable_Television]] 

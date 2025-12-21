@@ -4,22 +4,24 @@ aliases:
   - storage_requirements
   - storageRequirements
   - has_text_of_storage_requirements
+  - has_storage_requirements
+  - has storage requirements
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - storage
   - requirements
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_storage_requirements
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

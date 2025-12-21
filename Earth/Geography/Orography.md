@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Orography 
-  - oreography 
+  - Orography
+  - oreography
   - orology
   - oreology
 ---

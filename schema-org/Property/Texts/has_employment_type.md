@@ -4,22 +4,24 @@ aliases:
   - employment_type
   - employmentType
   - has_text_of_employment_type
+  - has_employment_type
+  - has employment type
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - employment
   - type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_employment_type
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

@@ -2,6 +2,7 @@
 aliases:
   - Ernst Lubitsch
   - Ernst_Lubitsch
+  - Lubitsch,Ernst
 ---
 
 # [[Lubitsch,Ernst]] 

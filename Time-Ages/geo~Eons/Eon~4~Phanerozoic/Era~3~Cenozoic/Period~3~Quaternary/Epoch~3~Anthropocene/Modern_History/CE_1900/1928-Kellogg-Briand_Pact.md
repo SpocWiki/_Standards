@@ -3,13 +3,15 @@ aliases:
   - Kellogg–Briand Pact
   - Pact of Paris
   - General Treaty for Renunciation of War as an Instrument of National Policy
+  - 1928-Kellogg-Briand_Pact
+  - 1928-Kellogg-Briand Pact
 has_id_wikidata: Q205073
-instance_of: "[[_Standards/WikiData/WD~treaty,131569]]"
+instance_of: '[[_Standards/WikiData/WD~treaty,131569]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Aristide_Briand,179888]]"
-  - "[[_Standards/WikiData/WD~Frank_B._Kellogg,193009]]"
-locations: "[[_Standards/WikiData/WD~Paris,90]]"
-United_Nations_Treaty_Series_registration_number: "2137"
+  - '[[_Standards/WikiData/WD~Aristide_Briand,179888]]'
+  - '[[_Standards/WikiData/WD~Frank_B._Kellogg,193009]]'
+locations: '[[_Standards/WikiData/WD~Paris,90]]'
+United_Nations_Treaty_Series_registration_number: 2137
 Library_of_Congress_Classification: KZ5593.2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kellogg%E2%80%93Briand%20Pact%20%281928%29.jpg
 work_available_at_URL: https://treaties.un.org/Pages/showDetails.aspx?objid=0800000280168041

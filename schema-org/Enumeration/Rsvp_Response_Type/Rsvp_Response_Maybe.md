@@ -4,21 +4,23 @@ aliases:
   - rsvp_response_maybe
   - RsvpResponseMaybe
   - is_a_rsvp_response_maybe
+  - Rsvp_Response_Maybe
+  - Rsvp Response Maybe
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: RsvpResponseType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - rsvp_response_maybe
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_rsvp_response_maybe Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

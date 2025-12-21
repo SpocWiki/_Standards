@@ -1,27 +1,28 @@
 ---
 aliases:
-- has_logo
-- "schema:logo"
-- "dbo:logo"
-- "wdt:P154"
+  - has_logo
+  - schema:logo
+  - dbo:logo
+  - wdt:P154
+  - has logo
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- logo
-layout: 
-license: "CC BY-SA 4.0"
+  - logo
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_logo
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_logo
 type: Predi_Relation
 ---

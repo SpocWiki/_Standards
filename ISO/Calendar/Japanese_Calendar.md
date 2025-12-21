@@ -1,9 +1,11 @@
 ---
 aliases:
   - Japanese calendar
+  - Japanese_Calendar
+  - Japanese Calendar
 has_id_wikidata: Q13788
-topic_s_main_category: "[[_Standards/WikiData/WD~Q10153562,10153562]]"
-subclass_of: "[[_Standards/WikiData/WD~calendar,12132]]"
+topic_s_main_category: '[[_Standards/WikiData/WD~Q10153562,10153562]]'
+subclass_of: '[[_Standards/WikiData/WD~calendar,12132]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jokyo-reki.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%AA%D9%82%D9%88%D9%8A%D9%85%20%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A.wav
 ---

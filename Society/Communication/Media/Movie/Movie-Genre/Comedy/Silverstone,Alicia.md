@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Alicia Silverstone"
+  - Alicia Silverstone
+  - Silverstone,Alicia
 ---
 
 #has_/time_/started :: 1976-10-04 

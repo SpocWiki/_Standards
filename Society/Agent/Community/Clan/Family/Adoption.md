@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Adoption
 has_id_wikidata: Q180472
 ---
 

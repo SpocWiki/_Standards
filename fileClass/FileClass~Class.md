@@ -1,23 +1,25 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Class
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: rpfWON
-  name: is_sub_class_of
-  options:
-    dvQueryString: "dv.pages('#class/Class')"
-  type: File
-  path: ''
+  - id: rpfWON
+    name: is_sub_class_of
+    options:
+      dvQueryString: dv.pages('#class/Class')
+    type: File
+    path: ''
 icon: list
 limit: 100
 mapWithTag: true
 tagNames:
-- is_a_/Class
-- schema-org/Class
-- class/Class
+  - is_a_/Class
+  - schema-org/Class
+  - class/Class
 tags:
-- class/FileClass
-- is_a_/Class
+  - class/FileClass
+  - is_a_/Class
 version: 2.0
 ---
 

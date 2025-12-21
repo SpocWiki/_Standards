@@ -2,18 +2,20 @@
 aliases:
   - Schmelzpunkt
   - liquefaction point
+  - Melting_Point
+  - Melting Point
 has_id_wikidata: Q15318
 different_from:
-  - "[[_Standards/WikiData/WD~enthalpy_of_fusion,484790]]"
-  - "[[_Standards/WikiData/WD~freezing_point,912202]]"
-  - "[[_Standards/WikiData/WD~Melting_Point,123360607]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~freezing_point,912202]]"
-less_than: "[[_Standards/WikiData/WD~boiling_point,1003183]]"
-instance_of: "[[_Standards/WikiData/WD~thermal_property,65939908]]"
+  - '[[_Standards/WikiData/WD~enthalpy_of_fusion,484790]]'
+  - '[[_Standards/WikiData/WD~freezing_point,912202]]'
+  - '[[_Standards/WikiData/WD~Melting_Point,123360607]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~freezing_point,912202]]'
+less_than: '[[_Standards/WikiData/WD~boiling_point,1003183]]'
+instance_of: '[[_Standards/WikiData/WD~thermal_property,65939908]]'
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">&#x0398;</mi></mrow></mstyle></mrow></math>
 Wikidata_property: melting point
-subclass_of: "[[_Standards/WikiData/WD~temperature,11466]]"
-OmegaWiki_Defined_Meaning: "1056552"
+subclass_of: '[[_Standards/WikiData/WD~temperature,11466]]'
+OmegaWiki_Defined_Meaning: 1056552
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%97%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Schmelzpunkt.ogg

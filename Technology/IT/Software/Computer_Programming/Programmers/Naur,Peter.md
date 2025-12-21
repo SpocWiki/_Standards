@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Peter Naur"
+  - Peter Naur
+  - Naur,Peter
 ---
 
 #has_/time_/started :: 1928-10-25 

@@ -2,12 +2,13 @@
 aliases:
   - has blood-supply
   - has_blood_supply
+  - has blood supply
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - supply
   - blood_supply
   - bloodSupply
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_blood_supply
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

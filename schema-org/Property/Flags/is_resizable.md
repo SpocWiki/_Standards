@@ -4,21 +4,22 @@ aliases:
   - resizable
   - isResizable
   - is_resizable
+  - is resizable
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - resizable
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_resizable
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

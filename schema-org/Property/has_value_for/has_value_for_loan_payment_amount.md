@@ -4,21 +4,22 @@ aliases:
   - loan-payment-amount
   - loanPaymentAmount
   - has_value_for_loan_payment_amount
+  - has value for loan payment amount
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - loan-payment-amount
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_loan-payment-amount
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

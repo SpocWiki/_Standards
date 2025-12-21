@@ -3,46 +3,47 @@ aliases:
   - George_Eastman
   - George Eastman
   - Eastman
+  - Eastman,George
 has_id_wikidata: Q189147
 date_of_death: 1932-03-14T00:00:00Z
 work_period_end_: 1932-01-01T00:00:00Z
 occupation:
-  - "[[_Standards/WikiData/WD~entrepreneur,131524]]"
-  - "[[_Standards/WikiData/WD~inventor,205375]]"
-  - "[[_Standards/WikiData/WD~philanthropist,12362622]]"
-  - "[[_Standards/WikiData/WD~patron_of_the_arts,15472169]]"
-  - "[[_Standards/WikiData/WD~photographer,33231]]"
+  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+  - '[[_Standards/WikiData/WD~inventor,205375]]'
+  - '[[_Standards/WikiData/WD~philanthropist,12362622]]'
+  - '[[_Standards/WikiData/WD~patron_of_the_arts,15472169]]'
+  - '[[_Standards/WikiData/WD~photographer,33231]]'
 award_received:
-  - "[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]"
-  - "[[_Standards/WikiData/WD~American_Institute_of_Chemists_Gold_Medal,3853553]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Progress_Medal,19946848]]"
-residence: "[[_Standards/WikiData/WD~George_Eastman_Museum,1507284]]"
+  - '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
+  - '[[_Standards/WikiData/WD~American_Institute_of_Chemists_Gold_Medal,3853553]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~Progress_Medal,19946848]]'
+residence: '[[_Standards/WikiData/WD~George_Eastman_Museum,1507284]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~George_Eastman_Museum,1507284]]"
-  - "[[_Standards/WikiData/WD~Rare_Books,_Special_Collections,_and_Preservation,_University_of_Rochester,108576328]]"
-cause_of_death: "[[_Standards/WikiData/WD~gunshot_wound,2140674]]"
-place_of_birth: "[[_Standards/WikiData/WD~Waterville,3452971]]"
-place_of_burial: "[[_Standards/WikiData/WD~Eastman_Business_Park,5330778]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-given_name: "[[_Standards/WikiData/WD~George,15921732]]"
+  - '[[_Standards/WikiData/WD~George_Eastman_Museum,1507284]]'
+  - '[[_Standards/WikiData/WD~Rare_Books,_Special_Collections,_and_Preservation,_University_of_Rochester,108576328]]'
+cause_of_death: '[[_Standards/WikiData/WD~gunshot_wound,2140674]]'
+place_of_birth: '[[_Standards/WikiData/WD~Waterville,3452971]]'
+place_of_burial: '[[_Standards/WikiData/WD~Eastman_Business_Park,5330778]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~George,15921732]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-family_name: "[[_Standards/WikiData/WD~Eastman,16869754]]"
-owner_of: "[[_Standards/WikiData/WD~Portrait_of_a_Man_(68.101),18032356]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-father: "[[_Standards/WikiData/WD~George_Eastman,96206726]]"
-mother: "[[_Standards/WikiData/WD~Maria_Kilbourn,96206727]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+family_name: '[[_Standards/WikiData/WD~Eastman,16869754]]'
+owner_of: '[[_Standards/WikiData/WD~Portrait_of_a_Man_(68.101),18032356]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+father: '[[_Standards/WikiData/WD~George_Eastman,96206726]]'
+mother: '[[_Standards/WikiData/WD~Maria_Kilbourn,96206727]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
 work_period_start_: 1881-01-01T00:00:00Z
 date_of_birth: 1854-07-12T00:00:00Z
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-manner_of_death: "[[_Standards/WikiData/WD~suicide,10737]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_death: "[[_Standards/WikiData/WD~Rochester,49218]]"
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+manner_of_death: '[[_Standards/WikiData/WD~suicide,10737]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_death: '[[_Standards/WikiData/WD~Rochester,49218]]'
 Commons_category: George Eastman
 name_in_native_language: George Eastman
 image:

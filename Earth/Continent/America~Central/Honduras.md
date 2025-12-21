@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Honduras
+  - هندوراس
+  - 洪都拉斯
+  - Гондурас
+  - the Republic of Honduras
+  - la República de Honduras
+has_id_wikidata: Q783
 location:
   - 14.1
   - -87.2167
@@ -15,25 +23,17 @@ cssclasses:
   - Country
 publish: true
 title: Honduras
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Honduras
-  - هندوراس
-  - 洪都拉斯
-  - Гондурас
-  - the Republic of Honduras
-  - la República de Honduras
+publishDate: ""
+expiryDate: ""
 Languages:
   - es-HN
   - cab
   - miq
 icon: flag-hn
-has_id_wikidata: Q783
 flag: "[[_Standards/WikiData/WD~flag_of_Honduras,102939]]"
 member_of:
   - "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"

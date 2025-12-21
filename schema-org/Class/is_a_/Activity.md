@@ -1,8 +1,9 @@
 ---
 aliases:
-- "foaf:activity"
-- "prov:activity"
-- "schema:Activity"
+  - foaf:activity
+  - prov:activity
+  - schema:Activity
+  - Activity
 ---
 
 # [[Activity]] 

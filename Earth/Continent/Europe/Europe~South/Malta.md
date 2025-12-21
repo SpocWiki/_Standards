@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Malta
+  - Malte
+  - مالطة
+  - 马耳他
+  - Мальта
+  - the Republic of Malta
+  - la República de Malta
+has_id_wikidata: Q233
 central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Malta,74690]]"
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
@@ -284,7 +293,6 @@ male_population:
   - 266898
   - 269705
   - 276869
-has_id_wikidata: Q233
 location:
   - 35.9
   - 14.52
@@ -301,20 +309,12 @@ cssclasses:
   - Country
 publish: true
 title: Malta
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Malta
-  - Malte
-  - مالطة
-  - 马耳他
-  - Мальта
-  - the Republic of Malta
-  - la República de Malta
+publishDate: ""
+expiryDate: ""
 Languages:
   - mt
   - en-MT

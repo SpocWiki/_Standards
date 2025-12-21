@@ -1,8 +1,11 @@
 ---
-associated_hazard: "[[_Standards/WikiData/WD~rhodium_exposure,21175091]]"
+aliases:
+  - Rhodium
+has_id_wikidata: Q1087
+associated_hazard: '[[_Standards/WikiData/WD~rhodium_exposure,21175091]]'
 atomic_number: 45
 boiling_point: 6741
-canonical_SMILES: "[Rh]"
+canonical_SMILES: '[Rh]'
 CAS_Registry_Number: 7440-16-6
 chemical_formula: Rh
 Commons_category: Rhodium
@@ -13,29 +16,28 @@ Common_Procurement_Vocabulary_code:
 CPV_Supplementary_code: AA22
 density: 12.41
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
-different_from: "[[_Standards/WikiData/WD~Rod,231105]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Hyde_Wollaston,312975]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+different_from: '[[_Standards/WikiData/WD~Rod,231105]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Hyde_Wollaston,312975]]'
 DSSTOX_compound_identifier: DTXCID0031053
 EC_number: 231-125-0
 electrical_conductivity: 22300000
 electronegativity: 2.28
-electron_configuration: "[Kr] 5s¹ 4d⁸"
+electron_configuration: '[Kr] 5s¹ 4d⁸'
 element_symbol: Rh
-has_effect: "[[_Standards/WikiData/WD~rhodium_exposure,21175091]]"
-has_id_wikidata: Q1087
+has_effect: '[[_Standards/WikiData/WD~rhodium_exposure,21175091]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhodium%20powder%20pressed%20melted.jpg
 immediately_dangerous_to_life_or_health: 100
 InChI: InChI=1S/Rh
 InChIKey: MHOVAHRLVXNVSD-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~combustible_powder,21073023]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - '[[_Standards/WikiData/WD~combustible_powder,21073023]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
   - 0.6
   - 0.55
@@ -46,19 +48,19 @@ MeSH_tree_code:
   - D01.268.556.793
   - D01.268.956.781
   - D01.552.544.793
-named_after: "[[_Standards/WikiData/WD~rose,533047]]"
+named_after: '[[_Standards/WikiData/WD~rose,533047]]'
 OmegaWiki_Defined_Meaning: 349380
 oxidation_state: 3
 part_of:
-  - "[[_Standards/WikiData/WD~group_9,208107]]"
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
+  - '[[_Standards/WikiData/WD~group_9,208107]]'
+  - '[[_Standards/WikiData/WD~period_5,244982]]'
 PubChem_CID: 23948
 RTECS_number: VI9069000
 SpocWebEntityId: 21943
 subclass_of:
-  - "[[_Standards/WikiData/WD~platinum_group,223995]]"
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
-  - "[[_Standards/WikiData/WD~transition_metal,19588]]"
+  - '[[_Standards/WikiData/WD~platinum_group,223995]]'
+  - '[[_Standards/WikiData/WD~period_5,244982]]'
+  - '[[_Standards/WikiData/WD~transition_metal,19588]]'
 tensile_modulus_of_elasticity: 275000
 time_of_discovery_or_invention: 1803
 time_weighted_average_exposure_limit: 0.1

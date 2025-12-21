@@ -1,22 +1,24 @@
 ---
 aliases:
   - Semiten
+  - Semitic_People
+  - Semitic People
 has_id_wikidata: Q62928
 instance_of:
-  - "[[_Standards/WikiData/WD~archaism,181970]]"
-  - "[[_Standards/WikiData/WD~panethnicity,719642]]"
-  - "[[_Standards/WikiData/WD~ethnolinguistic_group,4533081]]"
-named_after: "[[_Standards/WikiData/WD~Shem,200902]]"
+  - '[[_Standards/WikiData/WD~archaism,181970]]'
+  - '[[_Standards/WikiData/WD~panethnicity,719642]]'
+  - '[[_Standards/WikiData/WD~ethnolinguistic_group,4533081]]'
+named_after: '[[_Standards/WikiData/WD~Shem,200902]]'
 different_from:
-  - "[[_Standards/WikiData/WD~simit,903997]]"
-  - "[[_Standards/WikiData/WD~Semitic,34049]]"
-studied_by: "[[_Standards/WikiData/WD~Semitic_studies,2142577]]"
+  - '[[_Standards/WikiData/WD~simit,903997]]'
+  - '[[_Standards/WikiData/WD~Semitic,34049]]'
+studied_by: '[[_Standards/WikiData/WD~Semitic_studies,2142577]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-part_of: "[[_Standards/WikiData/WD~Afroasiatic_peoples,63361041]]"
-subclass_of: "[[_Standards/WikiData/WD~Afroasiatic_peoples,63361041]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+part_of: '[[_Standards/WikiData/WD~Afroasiatic_peoples,63361041]]'
+subclass_of: '[[_Standards/WikiData/WD~Afroasiatic_peoples,63361041]]'
 Commons_category: Semitic peoples
 ---
 

@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Estonia
+  - Estonie
+  - إستونيا
+  - 爱沙尼亚
+  - Эстония
+  - the Republic of Estonia
+  - la República de Estonia
+has_id_wikidata: Q191
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
@@ -372,7 +381,6 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Estland.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Estonia.wav
 country_calling_code: 372
-has_id_wikidata: Q191
 location:
   - 59.4167
   - 24.75
@@ -389,20 +397,12 @@ cssclasses:
   - Country
 publish: true
 title: Estonia
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Estonia
-  - Estonie
-  - إستونيا
-  - 爱沙尼亚
-  - Эстония
-  - the Republic of Estonia
-  - la República de Estonia
+publishDate: ""
+expiryDate: ""
 Languages:
   - et
   - ru

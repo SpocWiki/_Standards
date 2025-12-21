@@ -4,21 +4,22 @@ aliases:
   - rating-value
   - ratingValue
   - has_value_for_rating
+  - has value for rating
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - rating-value
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_rating-value
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

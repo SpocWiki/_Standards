@@ -4,20 +4,22 @@ aliases:
   - news_media_organization
   - NewsMediaOrganization
   - is_a_news_media_organization
+  - News_Media_Organization
+  - News Media Organization
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - news_media_organization
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_news_media_organization Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

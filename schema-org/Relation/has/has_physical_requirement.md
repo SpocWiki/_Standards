@@ -3,23 +3,24 @@ aliases:
   - has physical-requirement
   - physicalRequirement
   - has_physical_requirement
+  - has physical requirement
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - physical_requirement
   - physical
   - requirement
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_physical_requirement
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

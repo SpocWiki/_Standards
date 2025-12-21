@@ -4,21 +4,22 @@ aliases:
   - min-price
   - minPrice
   - has_value_for_min_price
+  - has value for min price
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - min-price
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_min-price
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

@@ -1,23 +1,24 @@
 ---
 aliases:
   - Punkt
+  - Point
 has_id_wikidata: Q44946
 subclass_of:
-  - "[[_Standards/WikiData/WD~locus,211548]]"
-  - "[[_Standards/WikiData/WD~element,379825]]"
-  - "[[_Standards/WikiData/WD~zero_dimensional_space,1801244]]"
-part_of: "[[_Standards/WikiData/WD~line,1228250]]"
+  - '[[_Standards/WikiData/WD~locus,211548]]'
+  - '[[_Standards/WikiData/WD~element,379825]]'
+  - '[[_Standards/WikiData/WD~zero_dimensional_space,1801244]]'
+part_of: '[[_Standards/WikiData/WD~line,1228250]]'
 different_from:
-  - "[[_Standards/WikiData/WD~node,1304193]]"
-  - "[[_Standards/WikiData/WD~node,1777473]]"
-  - "[[_Standards/WikiData/WD~Nukta,7069129]]"
-has_characteristic: "[[_Standards/WikiData/WD~coordinate,3250736]]"
+  - '[[_Standards/WikiData/WD~node,1304193]]'
+  - '[[_Standards/WikiData/WD~node,1777473]]'
+  - '[[_Standards/WikiData/WD~Nukta,7069129]]'
+has_characteristic: '[[_Standards/WikiData/WD~coordinate,3250736]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~primitive_notion,6453739]]"
-  - "[[_Standards/WikiData/WD~geometric_concept,21550639]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~null_polytope,27064338]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Point,111226098]]"
+  - '[[_Standards/WikiData/WD~primitive_notion,6453739]]'
+  - '[[_Standards/WikiData/WD~geometric_concept,21550639]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~null_polytope,27064338]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Point,111226098]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ACP%203.svg
 Colon_Classification: B621
 Commons_category: Points (mathematics)

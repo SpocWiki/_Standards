@@ -1,4 +1,16 @@
 ---
+aliases:
+  - Moldova
+  - Republic of Moldova
+  - República de Moldova
+  - République de Moldova
+  - جمهورية مولدوفا
+  - 摩尔多瓦共和国
+  - Республика Молдова
+  - the Republic of Moldova
+  - Republic of Moldova (the)
+  - la República de Moldova
+has_id_wikidata: Q217
 location:
   - 47
   - 28.9167
@@ -15,30 +27,18 @@ cssclasses:
   - Country
 publish: true
 title: Moldova
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Moldova
-  - Republic of Moldova
-  - República de Moldova
-  - République de Moldova
-  - جمهورية مولدوفا
-  - 摩尔多瓦共和国
-  - Республика Молдова
-  - the Republic of Moldova
-  - Republic of Moldova (the)
-  - la República de Moldova
+publishDate: ""
+expiryDate: ""
 Languages:
   - ro
   - ru
   - gag
   - tr
 icon: flag-md
-has_id_wikidata: Q217
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"

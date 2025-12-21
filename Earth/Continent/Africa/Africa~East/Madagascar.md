@@ -6,26 +6,26 @@ aliases:
   - Мадагаскар
   - the Republic of Madagascar
   - la República de Madagascar
+has_id_wikidata: Q1019
 confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate:
-has_id_wikidata: Q1019
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
+keywords: ''
 Languages:
   - fr-MG
   - mg
-layout:
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 location:
   - -18.8933
   - 47.5083
 publish: true
-publishDate:
+publishDate: ''
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26959
 tags:

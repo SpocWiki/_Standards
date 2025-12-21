@@ -1,25 +1,27 @@
 ---
-excludes: 
+aliases:
+  - FileClass~WebApplication
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication
 fields:
-- id: dEsYaA
-  name: BrowserRequirements
-  options: {}
-  type: Input
-  path: ''
+  - id: dEsYaA
+    name: BrowserRequirements
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/WebApplication
-- class/Thing/CreativeWork/SoftwareApplication/WebApplication
-- is_a_/WebApplication
-- schema-org/WebApplication
+  - class/WebApplication
+  - class/Thing/CreativeWork/SoftwareApplication/WebApplication
+  - is_a_/WebApplication
+  - schema-org/WebApplication
 tags:
-- class/FileClass
-- class/WebApplication
-- is_a_/WebApplication
-- class/Thing/CreativeWork/SoftwareApplication/WebApplication
+  - class/FileClass
+  - class/WebApplication
+  - is_a_/WebApplication
+  - class/Thing/CreativeWork/SoftwareApplication/WebApplication
 version: 2.0
 ---
 

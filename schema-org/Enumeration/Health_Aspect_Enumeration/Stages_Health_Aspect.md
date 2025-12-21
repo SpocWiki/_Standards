@@ -4,21 +4,23 @@ aliases:
   - stages_health_aspect
   - StagesHealthAspect
   - is_a_stages_health_aspect
+  - Stages_Health_Aspect
+  - Stages Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - stages_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_stages_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

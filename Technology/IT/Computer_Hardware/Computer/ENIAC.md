@@ -1,6 +1,7 @@
 ---
 aliases:
   - Electronic Numerical  Integrator and Computer
+  - ENIAC
 has_id_wikidata: Q169399
 ---
 

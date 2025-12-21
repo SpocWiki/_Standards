@@ -1,51 +1,53 @@
 ---
+aliases:
+  - ARD(broadcaster)
 has_id_wikidata: Q49653
-chairperson: "[[_Standards/WikiData/WD~Tom_Buhrow,108634]]"
+chairperson: '[[_Standards/WikiData/WD~Tom_Buhrow,108634]]'
 owned_by:
-  - "[[_Standards/WikiData/WD~Mitteldeutscher_Rundfunk,158948]]"
-  - "[[_Standards/WikiData/WD~Norddeutscher_Rundfunk,201275]]"
-  - "[[_Standards/WikiData/WD~Westdeutscher_Rundfunk,203453]]"
-  - "[[_Standards/WikiData/WD~Bayerischer_Rundfunk,278637]]"
-  - "[[_Standards/WikiData/WD~Nordwestdeutscher_Rundfunk,446604]]"
-  - "[[_Standards/WikiData/WD~Ostdeutscher_Rundfunk_Brandenburg,446608]]"
-  - "[[_Standards/WikiData/WD~Süddeutscher_Rundfunk,446987]]"
-  - "[[_Standards/WikiData/WD~Saarländischer_Rundfunk,691047]]"
-  - "[[_Standards/WikiData/WD~Sender_Freies_Berlin,692419]]"
-  - "[[_Standards/WikiData/WD~Radio_Bremen,694837]]"
-  - "[[_Standards/WikiData/WD~Südwestrundfunk,700133]]"
-  - "[[_Standards/WikiData/WD~Südwestfunk,897128]]"
-  - "[[_Standards/WikiData/WD~Rundfunk_Berlin_Brandenburg,19899]]"
-  - "[[_Standards/WikiData/WD~Hessischer_Rundfunk,23565]]"
+  - '[[_Standards/WikiData/WD~Mitteldeutscher_Rundfunk,158948]]'
+  - '[[_Standards/WikiData/WD~Norddeutscher_Rundfunk,201275]]'
+  - '[[_Standards/WikiData/WD~Westdeutscher_Rundfunk,203453]]'
+  - '[[_Standards/WikiData/WD~Bayerischer_Rundfunk,278637]]'
+  - '[[_Standards/WikiData/WD~Nordwestdeutscher_Rundfunk,446604]]'
+  - '[[_Standards/WikiData/WD~Ostdeutscher_Rundfunk_Brandenburg,446608]]'
+  - '[[_Standards/WikiData/WD~Süddeutscher_Rundfunk,446987]]'
+  - '[[_Standards/WikiData/WD~Saarländischer_Rundfunk,691047]]'
+  - '[[_Standards/WikiData/WD~Sender_Freies_Berlin,692419]]'
+  - '[[_Standards/WikiData/WD~Radio_Bremen,694837]]'
+  - '[[_Standards/WikiData/WD~Südwestrundfunk,700133]]'
+  - '[[_Standards/WikiData/WD~Südwestfunk,897128]]'
+  - '[[_Standards/WikiData/WD~Rundfunk_Berlin_Brandenburg,19899]]'
+  - '[[_Standards/WikiData/WD~Hessischer_Rundfunk,23565]]'
 member_of:
-  - "[[_Standards/WikiData/WD~European_Broadcasting_Union,166400]]"
-  - "[[_Standards/WikiData/WD~Deutscher_Musikrat,1205137]]"
-  - "[[_Standards/WikiData/WD~Vertrauensstelle_gegen_sexuelle_Belästigung,54590149]]"
-  - "[[_Standards/WikiData/WD~German_Media_Council,62816344]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~terrestrial_television,175122]]"
-different_from: "[[_Standards/WikiData/WD~ARD,256926]]"
+  - '[[_Standards/WikiData/WD~European_Broadcasting_Union,166400]]'
+  - '[[_Standards/WikiData/WD~Deutscher_Musikrat,1205137]]'
+  - '[[_Standards/WikiData/WD~Vertrauensstelle_gegen_sexuelle_Belästigung,54590149]]'
+  - '[[_Standards/WikiData/WD~German_Media_Council,62816344]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~terrestrial_television,175122]]'
+different_from: '[[_Standards/WikiData/WD~ARD,256926]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~KiKA,262627]]"
-  - "[[_Standards/WikiData/WD~ARD_Mediathek,296581]]"
-  - "[[_Standards/WikiData/WD~One,316322]]"
-  - "[[_Standards/WikiData/WD~DW_TV,1156181]]"
-  - "[[_Standards/WikiData/WD~Phoenix,3381361]]"
-  - "[[_Standards/WikiData/WD~Arte_Deutschland_TV,23017388]]"
-  - "[[_Standards/WikiData/WD~funk,23786473]]"
-  - "[[_Standards/WikiData/WD~ARD_Audiothek,60983102]]"
-  - "[[_Standards/WikiData/WD~EinsPlus,45845]]"
-  - "[[_Standards/WikiData/WD~Das_Erste,49727]]"
+  - '[[_Standards/WikiData/WD~KiKA,262627]]'
+  - '[[_Standards/WikiData/WD~ARD_Mediathek,296581]]'
+  - '[[_Standards/WikiData/WD~One,316322]]'
+  - '[[_Standards/WikiData/WD~DW_TV,1156181]]'
+  - '[[_Standards/WikiData/WD~Phoenix,3381361]]'
+  - '[[_Standards/WikiData/WD~Arte_Deutschland_TV,23017388]]'
+  - '[[_Standards/WikiData/WD~funk,23786473]]'
+  - '[[_Standards/WikiData/WD~ARD_Audiothek,60983102]]'
+  - '[[_Standards/WikiData/WD~EinsPlus,45845]]'
+  - '[[_Standards/WikiData/WD~Das_Erste,49727]]'
 child_organization_unit:
-  - "[[_Standards/WikiData/WD~ARD_Hauptstadtstudio,296515]]"
-  - "[[_Standards/WikiData/WD~ARD_Stern,296554]]"
-  - "[[_Standards/WikiData/WD~ARD_Foto,109829474]]"
-award_received: "[[_Standards/WikiData/WD~Q2227687,2227687]]"
-instance_of: "[[_Standards/WikiData/WD~broadcaster,15265344]]"
-legal_form: "[[_Standards/WikiData/WD~public_law_institution_(Germany),67207116]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Stuttgart,1022]]"
-industry: "[[_Standards/WikiData/WD~mass_media,11033]]"
-location_of_formation: "[[_Standards/WikiData/WD~Berlin,64]]"
-country: "[[_Standards/WikiData/WD~Germany,183]]"
-official_language: "[[_Standards/WikiData/WD~German,188]]"
+  - '[[_Standards/WikiData/WD~ARD_Hauptstadtstudio,296515]]'
+  - '[[_Standards/WikiData/WD~ARD_Stern,296554]]'
+  - '[[_Standards/WikiData/WD~ARD_Foto,109829474]]'
+award_received: '[[_Standards/WikiData/WD~Q2227687,2227687]]'
+instance_of: '[[_Standards/WikiData/WD~broadcaster,15265344]]'
+legal_form: '[[_Standards/WikiData/WD~public_law_institution_(Germany),67207116]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Stuttgart,1022]]'
+industry: '[[_Standards/WikiData/WD~mass_media,11033]]'
+location_of_formation: '[[_Standards/WikiData/WD~Berlin,64]]'
+country: '[[_Standards/WikiData/WD~Germany,183]]'
+official_language: '[[_Standards/WikiData/WD~German,188]]'
 social_media_followers:
   - 847000
   - 161457
@@ -60,8 +62,8 @@ short_name: ARD
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/ARD%20Logo%202019.svg
 Mastodon_instance_URL: https://ard.social
 described_at_URL: https://www.kek-online.de/medienkonzentration/mediendatenbank/#/profile/shareholder/5be1a6b6-c5dc-4a3d-ad7b-deaabd587214
-ISNI: "0000000121953271"
-P8189: "987007461971305171"
+ISNI: 0000000121953271
+P8189: 987007461971305171
 X_Twitter_username:
   - ardde
   - ARDde

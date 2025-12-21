@@ -3,12 +3,13 @@ aliases:
   - is suitable-for-diet
   - suitableForDiet
   - is_suitable_for_diet
+  - is suitable for diet
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - suitable
   - for
   - diet
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_suitable_for_diet
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

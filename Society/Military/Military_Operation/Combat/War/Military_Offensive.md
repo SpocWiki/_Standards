@@ -4,6 +4,8 @@ aliases:
   - attack
   - offensive
   - Military_offensive
+  - Military_Offensive
+  - Military Offensive
 has_id_wikidata: Q2001676
 ---
 

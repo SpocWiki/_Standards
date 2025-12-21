@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Chester Bennington"
+  - Chester Bennington
+  - Bennington,Chester
 ---
 
 #is_/part_of :: [[../Linkin_Park]] 

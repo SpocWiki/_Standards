@@ -3,26 +3,27 @@ aliases:
   - European Atomic Energy Community
   - EAEC
   - EURATOM
+  - European_Atomic_Energy_Community
 has_id_wikidata: Q8919
 instance_of:
-  - "[[_Standards/WikiData/WD~international_organization,484652]]"
-  - "[[_Standards/WikiData/WD~regional_organization,4120211]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
+  - '[[_Standards/WikiData/WD~international_organization,484652]]'
+  - '[[_Standards/WikiData/WD~regional_organization,4120211]]'
+  - '[[_Standards/WikiData/WD~organization,43229]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-member_of: "[[_Standards/WikiData/WD~The_ITER_Organization,101069148]]"
-part_of: "[[_Standards/WikiData/WD~European_Union,458]]"
-followed_by: "[[_Standards/WikiData/WD~European_Union,458]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]"
-OmegaWiki_Defined_Meaning: "1353"
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+member_of: '[[_Standards/WikiData/WD~The_ITER_Organization,101069148]]'
+part_of: '[[_Standards/WikiData/WD~European_Union,458]]'
+followed_by: '[[_Standards/WikiData/WD~European_Union,458]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]'
+OmegaWiki_Defined_Meaning: 1353
 BHCL_UUID: 7039c7dd-a208-42cc-80cc-6d529623a86a
 EU_Corporate_body_code: EAEC
 start_time: 1958-01-01T00:00:00Z
 inception: 1957-03-25T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-45653-0001%2C%20Rom%2C%20Vertr%C3%A4ge%20%C3%BCber%20Zollpakt%20und%20Eurotom%20unterzeichnet.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Euratom%202019.svg
-ISNI: "0000000123700446"
+ISNI: 0000000123700446
 Commons_category: European Atomic Energy Community
 short_name: Euratom
 ---

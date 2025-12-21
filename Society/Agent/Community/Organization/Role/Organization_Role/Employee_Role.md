@@ -4,20 +4,22 @@ aliases:
   - employee_role
   - EmployeeRole
   - is_an_employee_role
+  - Employee_Role
+  - Employee Role
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - employee_role
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_employee_role Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

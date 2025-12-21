@@ -4,91 +4,93 @@ aliases:
   - Lesane Parish Crooks
   - 2Pac
   - Makaveli
+  - Tupac_Shakur
+  - Tupac Shakur
 has_id_wikidata: Q6107
 genre:
-  - "[[_Standards/WikiData/WD~conscious_hip_hop,141459]]"
-  - "[[_Standards/WikiData/WD~West_Coast_hip_hop,429264]]"
-  - "[[_Standards/WikiData/WD~gangsta_rap,753679]]"
-  - "[[_Standards/WikiData/WD~hardcore_hip_hop,966564]]"
-  - "[[_Standards/WikiData/WD~political_hip_hop,969663]]"
-  - "[[_Standards/WikiData/WD~G_funk,1045541]]"
-  - "[[_Standards/WikiData/WD~mafioso_rap,9302696]]"
-manner_of_death: "[[_Standards/WikiData/WD~homicide,149086]]"
+  - '[[_Standards/WikiData/WD~conscious_hip_hop,141459]]'
+  - '[[_Standards/WikiData/WD~West_Coast_hip_hop,429264]]'
+  - '[[_Standards/WikiData/WD~gangsta_rap,753679]]'
+  - '[[_Standards/WikiData/WD~hardcore_hip_hop,966564]]'
+  - '[[_Standards/WikiData/WD~political_hip_hop,969663]]'
+  - '[[_Standards/WikiData/WD~G_funk,1045541]]'
+  - '[[_Standards/WikiData/WD~mafioso_rap,9302696]]'
+manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~songwriter,753110]]"
-  - "[[_Standards/WikiData/WD~lyricist,822146]]"
-  - "[[_Standards/WikiData/WD~rapper,2252262]]"
-  - "[[_Standards/WikiData/WD~dancer,5716684]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~activist,15253558]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~songwriter,753110]]'
+  - '[[_Standards/WikiData/WD~lyricist,822146]]'
+  - '[[_Standards/WikiData/WD~rapper,2252262]]'
+  - '[[_Standards/WikiData/WD~dancer,5716684]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~activist,15253558]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
-  - "[[_Standards/WikiData/WD~Soul_Train_Music_Award_for_Best_R&B_Soul_Album_of_the_Year,7564359]]"
-  - "[[_Standards/WikiData/WD~Soul_Train_Music_Award_for_Best_Rap_Album,7564368]]"
-  - "[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Rap_Hip_Hop_Artist,19858088]]"
-  - "[[_Standards/WikiData/WD~MOBO_Awards_for_Best_Video,63890997]]"
+  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+  - '[[_Standards/WikiData/WD~Soul_Train_Music_Award_for_Best_R&B_Soul_Album_of_the_Year,7564359]]'
+  - '[[_Standards/WikiData/WD~Soul_Train_Music_Award_for_Best_Rap_Album,7564368]]'
+  - '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Rap_Hip_Hop_Artist,19858088]]'
+  - '[[_Standards/WikiData/WD~MOBO_Awards_for_Best_Video,63890997]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Interscope_Records,231694]]"
-  - "[[_Standards/WikiData/WD~Death_Row_Records,847018]]"
-  - "[[_Standards/WikiData/WD~Amaru_Entertainment,2273516]]"
-named_after: "[[_Standards/WikiData/WD~Túpac_Amaru_II,315937]]"
+  - '[[_Standards/WikiData/WD~Interscope_Records,231694]]'
+  - '[[_Standards/WikiData/WD~Death_Row_Records,847018]]'
+  - '[[_Standards/WikiData/WD~Amaru_Entertainment,2273516]]'
+named_after: '[[_Standards/WikiData/WD~Túpac_Amaru_II,315937]]'
 convicted_of:
-  - "[[_Standards/WikiData/WD~assault,365680]]"
-  - "[[_Standards/WikiData/WD~sexual_abuse,43414]]"
-copyright_representative: "[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]"
+  - '[[_Standards/WikiData/WD~assault,365680]]'
+  - '[[_Standards/WikiData/WD~sexual_abuse,43414]]'
+copyright_representative: '[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]'
 relative:
-  - "[[_Standards/WikiData/WD~Assata_Shakur,467961]]"
-  - "[[_Standards/WikiData/WD~Geronimo_Pratt,711080]]"
-  - "[[_Standards/WikiData/WD~Kastro,2153802]]"
+  - '[[_Standards/WikiData/WD~Assata_Shakur,467961]]'
+  - '[[_Standards/WikiData/WD~Geronimo_Pratt,711080]]'
+  - '[[_Standards/WikiData/WD~Kastro,2153802]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Digital_Underground,605778]]"
-  - "[[_Standards/WikiData/WD~Outlawz,1057147]]"
-  - "[[_Standards/WikiData/WD~Thug_Life,1079019]]"
+  - '[[_Standards/WikiData/WD~Digital_Underground,605778]]'
+  - '[[_Standards/WikiData/WD~Outlawz,1057147]]'
+  - '[[_Standards/WikiData/WD~Thug_Life,1079019]]'
 residence:
-  - "[[_Standards/WikiData/WD~East_Harlem,1069687]]"
-  - "[[_Standards/WikiData/WD~Marin_City,2586362]]"
-  - "[[_Standards/WikiData/WD~Pen_Lucy,7162090]]"
-  - "[[_Standards/WikiData/WD~Manhattan,11299]]"
-  - "[[_Standards/WikiData/WD~Las_Vegas,23768]]"
-  - "[[_Standards/WikiData/WD~Los_Angeles,65]]"
-  - "[[_Standards/WikiData/WD~California,99]]"
-place_of_birth: "[[_Standards/WikiData/WD~East_Harlem,1069687]]"
-cause_of_death: "[[_Standards/WikiData/WD~drive_by_shooting,1259359]]"
+  - '[[_Standards/WikiData/WD~East_Harlem,1069687]]'
+  - '[[_Standards/WikiData/WD~Marin_City,2586362]]'
+  - '[[_Standards/WikiData/WD~Pen_Lucy,7162090]]'
+  - '[[_Standards/WikiData/WD~Manhattan,11299]]'
+  - '[[_Standards/WikiData/WD~Las_Vegas,23768]]'
+  - '[[_Standards/WikiData/WD~Los_Angeles,65]]'
+  - '[[_Standards/WikiData/WD~California,99]]'
+place_of_birth: '[[_Standards/WikiData/WD~East_Harlem,1069687]]'
+cause_of_death: '[[_Standards/WikiData/WD~drive_by_shooting,1259359]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Mopreme_Shakur,1352765]]"
-  - "[[_Standards/WikiData/WD~Sekyiwa_Shakur,62739620]]"
-  - "[[_Standards/WikiData/WD~Takerra_Allen,111490920]]"
-discography: "[[_Standards/WikiData/WD~Tupac_Shakur_discography,1510112]]"
-place_of_detention: "[[_Standards/WikiData/WD~Clinton_Correctional_Facility,1637388]]"
-mother: "[[_Standards/WikiData/WD~Afeni_Shakur,2273636]]"
+  - '[[_Standards/WikiData/WD~Mopreme_Shakur,1352765]]'
+  - '[[_Standards/WikiData/WD~Sekyiwa_Shakur,62739620]]'
+  - '[[_Standards/WikiData/WD~Takerra_Allen,111490920]]'
+discography: '[[_Standards/WikiData/WD~Tupac_Shakur_discography,1510112]]'
+place_of_detention: '[[_Standards/WikiData/WD~Clinton_Correctional_Facility,1637388]]'
+mother: '[[_Standards/WikiData/WD~Afeni_Shakur,2273636]]'
 father:
-  - "[[_Standards/WikiData/WD~Mutulu_Shakur,3394760]]"
-  - "[[_Standards/WikiData/WD~Billy_Garland,8248007]]"
+  - '[[_Standards/WikiData/WD~Mutulu_Shakur,3394760]]'
+  - '[[_Standards/WikiData/WD~Billy_Garland,8248007]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Baltimore_School_for_the_Arts,4852925]]"
-  - "[[_Standards/WikiData/WD~Paul_Laurence_Dunbar_High_School,7151957]]"
-  - "[[_Standards/WikiData/WD~Tamalpais_High_School,7680600]]"
+  - '[[_Standards/WikiData/WD~Baltimore_School_for_the_Arts,4852925]]'
+  - '[[_Standards/WikiData/WD~Paul_Laurence_Dunbar_High_School,7151957]]'
+  - '[[_Standards/WikiData/WD~Tamalpais_High_School,7680600]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Kidada_Jones,6404568]]"
-  - "[[_Standards/WikiData/WD~Madonna,1744]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-place_of_death: "[[_Standards/WikiData/WD~University_Medical_Center_of_Southern_Nevada,7894830]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Tupac_Shakur,12713007]]"
-instrument: "[[_Standards/WikiData/WD~voice,17172850]]"
-family_name: "[[_Standards/WikiData/WD~Shakur,21493975]]"
-given_name: "[[_Standards/WikiData/WD~Tupac,56694162]]"
-spouse: "[[_Standards/WikiData/WD~Keisha_Morris,57055903]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-ethnic_group: "[[_Standards/WikiData/WD~African_Americans,49085]]"
+  - '[[_Standards/WikiData/WD~Kidada_Jones,6404568]]'
+  - '[[_Standards/WikiData/WD~Madonna,1744]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+place_of_death: '[[_Standards/WikiData/WD~University_Medical_Center_of_Southern_Nevada,7894830]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Tupac_Shakur,12713007]]'
+instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
+family_name: '[[_Standards/WikiData/WD~Shakur,21493975]]'
+given_name: '[[_Standards/WikiData/WD~Tupac,56694162]]'
+spouse: '[[_Standards/WikiData/WD~Keisha_Morris,57055903]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+ethnic_group: '[[_Standards/WikiData/WD~African_Americans,49085]]'
 Commons_category: Tupac Shakur
 Instagram_username: 2pac
 X_Twitter_username:
@@ -104,13 +106,13 @@ date_of_birth: 1971-06-16T00:00:00Z
 work_period_start_: 1989-01-01T00:00:00Z
 work_period_end_: 1996-01-01T00:00:00Z
 date_of_death: 1996-09-13T00:00:00Z
-P1015: "7045587"
+P1015: 7045587
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/2Pac-Logo.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2pac%20edit%20cropped%20further.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Tupac%20Shakur%27s%20signature.svg
 official_website: http://www.2pac.com
-ISNI: "0000000120260457"
-IPI_name_number: "00241664772"
+ISNI: 0000000120260457
+IPI_name_number: 00241664772
 Giphy_username: 2pacalypse
 Plex_person_key: 5d776832e6d55c002040c5fb
 Libris_URI: 75kmqmpr0mzj43c

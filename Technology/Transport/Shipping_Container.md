@@ -6,25 +6,27 @@ aliases:
   - cargo container
   - sea container
   - ocean container
-  - container van 
+  - container van
   - sea van
-  - sea can 
+  - sea can
   - C can
   - MILVAN
   - SEAVAN
+  - Shipping_Container
+  - Shipping Container
 has_id_wikidata: Q187956
-designed_to_carry: "[[_Standards/WikiData/WD~cargo,319224]]"
+designed_to_carry: '[[_Standards/WikiData/WD~cargo,319224]]'
 has_use:
-  - "[[_Standards/WikiData/WD~container_building,1128503]]"
-  - "[[_Standards/WikiData/WD~intermodal_freight_transport,1675313]]"
+  - '[[_Standards/WikiData/WD~container_building,1128503]]'
+  - '[[_Standards/WikiData/WD~intermodal_freight_transport,1675313]]'
 different_from:
-  - "[[_Standards/WikiData/WD~shipping_container,1180158]]"
-  - "[[_Standards/WikiData/WD~Container,134580419]]"
-subclass_of: "[[_Standards/WikiData/WD~shipping_container,1180158]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_668,5974408]]"
-instance_of: "[[_Standards/WikiData/WD~mechanical_standard,124838920]]"
-Nomenclature_for_Museum_Cataloging: "11769"
-Product_and_Service_Code: "8150"
+  - '[[_Standards/WikiData/WD~shipping_container,1180158]]'
+  - '[[_Standards/WikiData/WD~Container,134580419]]'
+subclass_of: '[[_Standards/WikiData/WD~shipping_container,1180158]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_668,5974408]]'
+instance_of: '[[_Standards/WikiData/WD~mechanical_standard,124838920]]'
+Nomenclature_for_Museum_Cataloging: 11769
+Product_and_Service_Code: 8150
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Container%2001%20KMJ.jpg
 MCN_code: 8609.00.00
 Commons_gallery: Intermodal container

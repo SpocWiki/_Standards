@@ -4,20 +4,22 @@ aliases:
   - school_district
   - SchoolDistrict
   - is_a_school_district
+  - School_District
+  - School District
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - school_district
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_school_district Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

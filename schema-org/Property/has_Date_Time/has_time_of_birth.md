@@ -1,29 +1,30 @@
 ---
 aliases:
-- birth-date
-- birth_date
-- birthDate
-- has_time_of_birth
-- "schema:birthDate"
-- "dbo:birthDate"
-- "wdt:P569"
+  - birth-date
+  - birth_date
+  - birthDate
+  - has_time_of_birth
+  - schema:birthDate
+  - dbo:birthDate
+  - wdt:P569
+  - has time of birth
 confidential: public
 cssclasses:
-- Predicate
-- Date_Time
+  - Predicate
+  - Date_Time
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+keywords: ''
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: ''
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Date
+  - class/Property
+  - schema-org/Property/Date
 title: has_time_of_birth
 type: Predi_Date_Time
 ---

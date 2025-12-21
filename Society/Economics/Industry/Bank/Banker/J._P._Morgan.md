@@ -7,82 +7,82 @@ aliases:
   - Morgan
 has_id_wikidata: Q54168
 occupation:
-  - "[[_Standards/WikiData/WD~entrepreneur,131524]]"
-  - "[[_Standards/WikiData/WD~banker,806798]]"
-  - "[[_Standards/WikiData/WD~financier,1979607]]"
-  - "[[_Standards/WikiData/WD~art_collector,10732476]]"
+  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+  - '[[_Standards/WikiData/WD~banker,806798]]'
+  - '[[_Standards/WikiData/WD~financier,1979607]]'
+  - '[[_Standards/WikiData/WD~art_collector,10732476]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Göttingen,152838]]"
-  - "[[_Standards/WikiData/WD~Cheshire_Academy,5092939]]"
-  - "[[_Standards/WikiData/WD~Boston_English_High_School,5378285]]"
+  - '[[_Standards/WikiData/WD~University_of_Göttingen,152838]]'
+  - '[[_Standards/WikiData/WD~Cheshire_Academy,5092939]]'
+  - '[[_Standards/WikiData/WD~Boston_English_High_School,5378285]]'
 child:
-  - "[[_Standards/WikiData/WD~John_Pierpont_Morgan,_Jr.,174774]]"
-  - "[[_Standards/WikiData/WD~Anne_Morgan,205269]]"
-  - "[[_Standards/WikiData/WD~Juliet_Pierpont_Hamilton,94356432]]"
-  - "[[_Standards/WikiData/WD~Louisa_Pierpont_Morgan,94362007]]"
-different_from: "[[_Standards/WikiData/WD~John_Morgan,424267]]"
+  - '[[_Standards/WikiData/WD~John_Pierpont_Morgan,_Jr.,174774]]'
+  - '[[_Standards/WikiData/WD~Anne_Morgan,205269]]'
+  - '[[_Standards/WikiData/WD~Juliet_Pierpont_Hamilton,94356432]]'
+  - '[[_Standards/WikiData/WD~Louisa_Pierpont_Morgan,94362007]]'
+different_from: '[[_Standards/WikiData/WD~John_Morgan,424267]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Bibliographical_Society,539216]]"
-  - "[[_Standards/WikiData/WD~Roxburghe_Club,2170733]]"
-  - "[[_Standards/WikiData/WD~Grolier_Club,5174002]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Episcopal_Church,682443]]"
+  - '[[_Standards/WikiData/WD~Bibliographical_Society,539216]]'
+  - '[[_Standards/WikiData/WD~Roxburghe_Club,2170733]]'
+  - '[[_Standards/WikiData/WD~Grolier_Club,5174002]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Episcopal_Church,682443]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~economics_of_banking,806718]]"
-  - "[[_Standards/WikiData/WD~money_management,1944407]]"
-  - "[[_Standards/WikiData/WD~investment,4290]]"
-  - "[[_Standards/WikiData/WD~finance,43015]]"
+  - '[[_Standards/WikiData/WD~economics_of_banking,806718]]'
+  - '[[_Standards/WikiData/WD~money_management,1944407]]'
+  - '[[_Standards/WikiData/WD~investment,4290]]'
+  - '[[_Standards/WikiData/WD~finance,43015]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-family_name: "[[_Standards/WikiData/WD~Morgan,1260128]]"
-notable_work: "[[_Standards/WikiData/WD~The_Morgan_Library_&_Museum,1478423]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+family_name: '[[_Standards/WikiData/WD~Morgan,1260128]]'
+notable_work: '[[_Standards/WikiData/WD~The_Morgan_Library_&_Museum,1478423]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Portrait_of_Nicolaes_Ruts,3937637]]"
-  - "[[_Standards/WikiData/WD~Portrait_of_an_Elderly_Man,_traditionally_called_Heer_Bodolphe,17987246]]"
-  - "[[_Standards/WikiData/WD~Portrait_of_Mrs._Bodolphe,17987855]]"
-  - "[[_Standards/WikiData/WD~Portrait_of_a_Man,_Said_to_be_Christopher_Columbus_(born_about_1446,_died_1506),19911671]]"
-  - "[[_Standards/WikiData/WD~Allegory_of_Winter,19914256]]"
-  - "[[_Standards/WikiData/WD~Portrait_of_a_Painter_with_Long_Curls,22093561]]"
-  - "[[_Standards/WikiData/WD~Prayer_Bead_with_the_Adoration_of_the_Magi_and_the_Crucifixion,25352136]]"
-  - "[[_Standards/WikiData/WD~Prayer_Bead_with_the_Crucifixion_and_Jesus_before_Pilate,33087389]]"
-  - "[[_Standards/WikiData/WD~Prayer_Bead_with_Jesus_Carrying_the_Cross_and_the_Crucifixion,33092835]]"
-  - "[[_Standards/WikiData/WD~Prayer_Bead_with_the_Prayer_of_the_Rosary_and_the_Lamentation,33093075]]"
-  - "[[_Standards/WikiData/WD~Rosary_Bead_with_the_Last_Judgement,33093101]]"
-father: "[[_Standards/WikiData/WD~Junius_Spencer_Morgan,4118236]]"
+  - '[[_Standards/WikiData/WD~Portrait_of_Nicolaes_Ruts,3937637]]'
+  - '[[_Standards/WikiData/WD~Portrait_of_an_Elderly_Man,_traditionally_called_Heer_Bodolphe,17987246]]'
+  - '[[_Standards/WikiData/WD~Portrait_of_Mrs._Bodolphe,17987855]]'
+  - '[[_Standards/WikiData/WD~Portrait_of_a_Man,_Said_to_be_Christopher_Columbus_(born_about_1446,_died_1506),19911671]]'
+  - '[[_Standards/WikiData/WD~Allegory_of_Winter,19914256]]'
+  - '[[_Standards/WikiData/WD~Portrait_of_a_Painter_with_Long_Curls,22093561]]'
+  - '[[_Standards/WikiData/WD~Prayer_Bead_with_the_Adoration_of_the_Magi_and_the_Crucifixion,25352136]]'
+  - '[[_Standards/WikiData/WD~Prayer_Bead_with_the_Crucifixion_and_Jesus_before_Pilate,33087389]]'
+  - '[[_Standards/WikiData/WD~Prayer_Bead_with_Jesus_Carrying_the_Cross_and_the_Crucifixion,33092835]]'
+  - '[[_Standards/WikiData/WD~Prayer_Bead_with_the_Prayer_of_the_Rosary_and_the_Lamentation,33093075]]'
+  - '[[_Standards/WikiData/WD~Rosary_Bead_with_the_Last_Judgement,33093101]]'
+father: '[[_Standards/WikiData/WD~Junius_Spencer_Morgan,4118236]]'
 given_name:
-  - "[[_Standards/WikiData/WD~John,4925477]]"
-  - "[[_Standards/WikiData/WD~Pierpont,92047411]]"
-place_of_burial: "[[_Standards/WikiData/WD~Cedar_Hill_Cemetery,5056756]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-mother: "[[_Standards/WikiData/WD~Juliet_Pierpont,59480824]]"
+  - '[[_Standards/WikiData/WD~John,4925477]]'
+  - '[[_Standards/WikiData/WD~Pierpont,92047411]]'
+place_of_burial: '[[_Standards/WikiData/WD~Cedar_Hill_Cemetery,5056756]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+mother: '[[_Standards/WikiData/WD~Juliet_Pierpont,59480824]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Mary_Lyman_Morgan,89285061]]"
-  - "[[_Standards/WikiData/WD~Sarah_Spencer_Morgan,112199206]]"
-  - "[[_Standards/WikiData/WD~Junius_Spencer_Morgan_Jr.,112199282]]"
-  - "[[_Standards/WikiData/WD~Juliet_Pierpont_Morgan,112199359]]"
+  - '[[_Standards/WikiData/WD~Mary_Lyman_Morgan,89285061]]'
+  - '[[_Standards/WikiData/WD~Sarah_Spencer_Morgan,112199206]]'
+  - '[[_Standards/WikiData/WD~Junius_Spencer_Morgan_Jr.,112199282]]'
+  - '[[_Standards/WikiData/WD~Juliet_Pierpont_Morgan,112199359]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Frances_Tracy_Morgan,93577085]]"
-  - "[[_Standards/WikiData/WD~Amelia_Sturges_Morgan,94357149]]"
+  - '[[_Standards/WikiData/WD~Frances_Tracy_Morgan,93577085]]'
+  - '[[_Standards/WikiData/WD~Amelia_Sturges_Morgan,94357149]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Provenance,98801351]]"
-  - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Provenance,98801351]]'
+  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
 date_of_birth: 1837-04-17T00:00:00Z
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 work_location:
-  - "[[_Standards/WikiData/WD~New_York_City,60]]"
-  - "[[_Standards/WikiData/WD~London,84]]"
-place_of_death: "[[_Standards/WikiData/WD~Rome,220]]"
-place_of_birth: "[[_Standards/WikiData/WD~Hartford,33486]]"
+  - '[[_Standards/WikiData/WD~New_York_City,60]]'
+  - '[[_Standards/WikiData/WD~London,84]]'
+place_of_death: '[[_Standards/WikiData/WD~Rome,220]]'
+place_of_birth: '[[_Standards/WikiData/WD~Hartford,33486]]'
 Commons_gallery: J. P. Morgan
 Libris_URI: 97mqvrct3xqqm5s
 name_in_native_language: John Pierpont Morgan

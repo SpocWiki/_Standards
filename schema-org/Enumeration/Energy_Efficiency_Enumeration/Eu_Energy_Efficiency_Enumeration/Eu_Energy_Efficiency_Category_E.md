@@ -4,21 +4,23 @@ aliases:
   - eu_energy_efficiency_category_e
   - EUEnergyEfficiencyCategoryE
   - is_an_eu_energy_efficiency_category_e
+  - Eu_Energy_Efficiency_Category_E
+  - Eu Energy Efficiency Category E
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: EUEnergyEfficiencyEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - eu_energy_efficiency_category_e
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_eu_energy_efficiency_category_e Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

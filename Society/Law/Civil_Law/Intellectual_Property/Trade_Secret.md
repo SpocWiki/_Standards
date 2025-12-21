@@ -2,6 +2,7 @@
 aliases:
   - Trade Secret
   - Trade Secrets
+  - Trade_Secret
 ---
 
 # [[Trade_Secret]] 

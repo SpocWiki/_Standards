@@ -3,23 +3,25 @@ aliases:
   - has legislation-changes
   - legislationChanges
   - has_legislation_changes
+  - has_legislation_changes_to
+  - has legislation changes to
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - legislation_changes
   - legislation
   - changes
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_legislation_changes
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

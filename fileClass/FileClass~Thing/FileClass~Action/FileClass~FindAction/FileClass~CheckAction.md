@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CheckAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~FindAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CheckAction
-- class/Thing/Action/FindAction/CheckAction
-- is_a_/CheckAction
-- schema-org/CheckAction
+  - class/CheckAction
+  - class/Thing/Action/FindAction/CheckAction
+  - is_a_/CheckAction
+  - schema-org/CheckAction
 tags:
-- class/FileClass
-- class/CheckAction
-- is_a_/CheckAction
-- class/Thing/Action/FindAction/CheckAction
+  - class/FileClass
+  - class/CheckAction
+  - is_a_/CheckAction
+  - class/Thing/Action/FindAction/CheckAction
 version: 2.0
 ---
 

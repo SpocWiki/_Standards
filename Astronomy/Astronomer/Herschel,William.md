@@ -4,103 +4,104 @@ aliases:
   - Frederick William Herschel
   - Friedrich Wilhelm Herschel
   - Herschel
+  - Herschel,William
 has_id_wikidata: Q14277
-religion_or_worldview: "[[_Standards/WikiData/WD~Lutheranism,75809]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Lutheranism,75809]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Caroline_Herschel,76948]]"
-  - "[[_Standards/WikiData/WD~Alexander_Herschel,20967523]]"
+  - '[[_Standards/WikiData/WD~Caroline_Herschel,76948]]'
+  - '[[_Standards/WikiData/WD~Alexander_Herschel,20967523]]'
 student:
-  - "[[_Standards/WikiData/WD~Caroline_Herschel,76948]]"
-  - "[[_Standards/WikiData/WD~John_Frederick_William_Herschel,14278]]"
+  - '[[_Standards/WikiData/WD~Caroline_Herschel,76948]]'
+  - '[[_Standards/WikiData/WD~John_Frederick_William_Herschel,14278]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Royal_Society,123885]]"
-  - "[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]"
-  - "[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]"
-  - "[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]"
-  - "[[_Standards/WikiData/WD~Academy_of_Science_for_Public_Utility,414379]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]"
-  - "[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]"
-  - "[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]"
-  - "[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]"
+  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+  - '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
+  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
+  - '[[_Standards/WikiData/WD~Academy_of_Science_for_Public_Utility,414379]]'
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+  - '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
+  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]'
+  - '[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]'
+  - '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Hanover,164079]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Hanover,164079]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~musician,639669]]"
-  - "[[_Standards/WikiData/WD~oboist,16003954]]"
-  - "[[_Standards/WikiData/WD~astronomer,11063]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
+  - '[[_Standards/WikiData/WD~physicist,169470]]'
+  - '[[_Standards/WikiData/WD~musician,639669]]'
+  - '[[_Standards/WikiData/WD~oboist,16003954]]'
+  - '[[_Standards/WikiData/WD~astronomer,11063]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
 award_received:
-  - "[[_Standards/WikiData/WD~honorary_degree,209896]]"
-  - "[[_Standards/WikiData/WD~Royal_Guelphic_Order,705153]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]"
-place_of_death: "[[_Standards/WikiData/WD~Slough,211907]]"
+  - '[[_Standards/WikiData/WD~honorary_degree,209896]]'
+  - '[[_Standards/WikiData/WD~Royal_Guelphic_Order,705153]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+place_of_death: '[[_Standards/WikiData/WD~Slough,211907]]'
 instrument:
-  - "[[_Standards/WikiData/WD~pipe_organ,281460]]"
-  - "[[_Standards/WikiData/WD~violin,8355]]"
-  - "[[_Standards/WikiData/WD~oboe,8377]]"
+  - '[[_Standards/WikiData/WD~pipe_organ,281460]]'
+  - '[[_Standards/WikiData/WD~violin,8355]]'
+  - '[[_Standards/WikiData/WD~oboe,8377]]'
 residence:
-  - "[[_Standards/WikiData/WD~Datchet,285778]]"
-  - "[[_Standards/WikiData/WD~Old_Windsor,2529554]]"
-  - "[[_Standards/WikiData/WD~Observatory_House,7075465]]"
-  - "[[_Standards/WikiData/WD~Bath,22889]]"
-  - "[[_Standards/WikiData/WD~England,21]]"
-doctoral_advisor: "[[_Standards/WikiData/WD~Nevil_Maskelyne,450757]]"
+  - '[[_Standards/WikiData/WD~Datchet,285778]]'
+  - '[[_Standards/WikiData/WD~Old_Windsor,2529554]]'
+  - '[[_Standards/WikiData/WD~Observatory_House,7075465]]'
+  - '[[_Standards/WikiData/WD~Bath,22889]]'
+  - '[[_Standards/WikiData/WD~England,21]]'
+doctoral_advisor: '[[_Standards/WikiData/WD~Nevil_Maskelyne,450757]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]"
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-  - "[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]"
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+  - '[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Herschel_wedge,600076]]"
-  - "[[_Standards/WikiData/WD~Q54030749,54030749]]"
-  - "[[_Standards/WikiData/WD~infrared_radiation,11388]]"
+  - '[[_Standards/WikiData/WD~Herschel_wedge,600076]]'
+  - '[[_Standards/WikiData/WD~Q54030749,54030749]]'
+  - '[[_Standards/WikiData/WD~infrared_radiation,11388]]'
 employer:
-  - "[[_Standards/WikiData/WD~Charles_Avison,1063634]]"
-  - "[[_Standards/WikiData/WD~Bath_Philharmonia,4868935]]"
-  - "[[_Standards/WikiData/WD~Observatory_House,7075465]]"
-  - "[[_Standards/WikiData/WD~Octagon_Chapel,_Bath,15263396]]"
-  - "[[_Standards/WikiData/WD~Militia_and_Volunteers_of_County_Durham,21061862]]"
-  - "[[_Standards/WikiData/WD~Hanoverian_Foot_Guards,114566713]]"
-  - "[[_Standards/WikiData/WD~Leeds,39121]]"
-different_from: "[[_Standards/WikiData/WD~Sir_William_Herschel,_2nd_Baronet,1370601]]"
-place_of_burial: "[[_Standards/WikiData/WD~Church_of_St_Laurence,_Upton_cum_Chalvey,5117466]]"
-archives_at: "[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-given_name: "[[_Standards/WikiData/WD~William,12344159]]"
-father: "[[_Standards/WikiData/WD~Isaac_Herschel,20967498]]"
-mother: "[[_Standards/WikiData/WD~Anna_Ilse_Moritzen,20967508]]"
-spouse: "[[_Standards/WikiData/WD~Mary_Baldwin,20967560]]"
-family_name: "[[_Standards/WikiData/WD~Herschel,21506801]]"
-position_held: "[[_Standards/WikiData/WD~President_of_the_Royal_Astronomical_Society,24357183]]"
+  - '[[_Standards/WikiData/WD~Charles_Avison,1063634]]'
+  - '[[_Standards/WikiData/WD~Bath_Philharmonia,4868935]]'
+  - '[[_Standards/WikiData/WD~Observatory_House,7075465]]'
+  - '[[_Standards/WikiData/WD~Octagon_Chapel,_Bath,15263396]]'
+  - '[[_Standards/WikiData/WD~Militia_and_Volunteers_of_County_Durham,21061862]]'
+  - '[[_Standards/WikiData/WD~Hanoverian_Foot_Guards,114566713]]'
+  - '[[_Standards/WikiData/WD~Leeds,39121]]'
+different_from: '[[_Standards/WikiData/WD~Sir_William_Herschel,_2nd_Baronet,1370601]]'
+place_of_burial: '[[_Standards/WikiData/WD~Church_of_St_Laurence,_Upton_cum_Chalvey,5117466]]'
+archives_at: '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+given_name: '[[_Standards/WikiData/WD~William,12344159]]'
+father: '[[_Standards/WikiData/WD~Isaac_Herschel,20967498]]'
+mother: '[[_Standards/WikiData/WD~Anna_Ilse_Moritzen,20967508]]'
+spouse: '[[_Standards/WikiData/WD~Mary_Baldwin,20967560]]'
+family_name: '[[_Standards/WikiData/WD~Herschel,21506801]]'
+position_held: '[[_Standards/WikiData/WD~President_of_the_Royal_Astronomical_Society,24357183]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Sir_William_Herschel,28048274]]"
-  - "[[_Standards/WikiData/WD~Sir_William_Herschel,_1738_1822,50860891]]"
-  - "[[_Standards/WikiData/WD~Sir_William_Herschel,50907459]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
+  - '[[_Standards/WikiData/WD~Sir_William_Herschel,28048274]]'
+  - '[[_Standards/WikiData/WD~Sir_William_Herschel,_1738_1822,50860891]]'
+  - '[[_Standards/WikiData/WD~Sir_William_Herschel,50907459]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
 date_of_birth: 1738-11-15T00:00:00Z
-place_of_birth: "[[_Standards/WikiData/WD~Hanover,1715]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-child: "[[_Standards/WikiData/WD~John_Frederick_William_Herschel,14278]]"
-field_of_work: "[[_Standards/WikiData/WD~optics,14620]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+place_of_birth: '[[_Standards/WikiData/WD~Hanover,1715]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+child: '[[_Standards/WikiData/WD~John_Frederick_William_Herschel,14278]]'
+field_of_work: '[[_Standards/WikiData/WD~optics,14620]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Wolfram_Language_entity_code: Entity["Concept", "SirFrederickWilliamHerschel::h2282"]
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/13810
 Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/GERSHEL_VILYAM.html
@@ -130,8 +131,8 @@ described_at_URL:
   - http://www.digiporta.net/index.php?id=973264420
   - http://www.digiporta.net/index.php?id=988978687
   - http://www.digiporta.net/index.php?id=990767025
-ISNI: "0000000080992062"
-P1015: "99019720"
+ISNI: 0000000080992062
+P1015: 99019720
 Europeana_entity: agent/base/146954
 ---
 

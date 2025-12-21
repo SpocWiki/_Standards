@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Lesotho
+  - ليسوتو
+  - 莱索托
+  - Лесото
+  - the Kingdom of Lesotho
+  - el Reino de Lesotho
+has_id_wikidata: Q1013
 flag: "[[_Standards/WikiData/WD~flag_of_Lesotho,104969]]"
 instance_of:
   - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
@@ -239,7 +247,7 @@ coordinates_of_southernmost_point: Point(28.11363 -30.67558)
 population: 2007201
 ISO_3166_1_alpha_3_code: LSO
 ITU_letter_code: LSO
-inception: "1966"
+inception: 1966
 has_time_started: 1966-06
 coordinates_of_northernmost_point: Point(28.65 -28.57)
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Lesotho.svg
@@ -260,7 +268,6 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Lesotho%20banner
 official_website: https://www.gov.ls/
 country_calling_code: 266
 U_S_National_Archives_Identifier: 10044258
-has_id_wikidata: Q1013
 location:
   - -29.4667
   - 27.9333
@@ -277,19 +284,12 @@ cssclasses:
   - Country
 publish: true
 title: Lesotho
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Lesotho
-  - ليسوتو
-  - 莱索托
-  - Лесото
-  - the Kingdom of Lesotho
-  - el Reino de Lesotho
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-LS
   - st

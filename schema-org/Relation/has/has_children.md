@@ -1,27 +1,28 @@
 ---
 aliases:
-- has_children
-- "schema:child"
-- "dbo:child"
-- "wdt:P40"
+  - has_children
+  - schema:child
+  - dbo:child
+  - wdt:P40
+  - has children
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- children
-layout: 
-license: "CC BY-SA 4.0"
+  - children
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_children
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_children
 type: Predi_Relation
 ---

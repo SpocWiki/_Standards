@@ -1,33 +1,34 @@
 ---
 aliases:
   - Economic Cooperation Organization
+  - Economic_Cooperation_Organization
 has_id_wikidata: Q225950
-instance_of: "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
+instance_of: '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
 different_from:
-  - "[[_Standards/WikiData/WD~D_8_Organization_for_Economic_Cooperation,577526]]"
-  - "[[_Standards/WikiData/WD~OCE,9051376]]"
-  - "[[_Standards/WikiData/WD~ECO,12103486]]"
-  - "[[_Standards/WikiData/WD~OWZ,118287147]]"
-  - "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
-partnership_with: "[[_Standards/WikiData/WD~Conference_on_Interaction_and_Confidence_Building_Measures_in_Asia,605501]]"
-replaces: "[[_Standards/WikiData/WD~Regional_Cooperation_for_Development,5704450]]"
+  - '[[_Standards/WikiData/WD~D_8_Organization_for_Economic_Cooperation,577526]]'
+  - '[[_Standards/WikiData/WD~OCE,9051376]]'
+  - '[[_Standards/WikiData/WD~ECO,12103486]]'
+  - '[[_Standards/WikiData/WD~OWZ,118287147]]'
+  - '[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]'
+partnership_with: '[[_Standards/WikiData/WD~Conference_on_Interaction_and_Confidence_Building_Measures_in_Asia,605501]]'
+replaces: '[[_Standards/WikiData/WD~Regional_Cooperation_for_Development,5704450]]'
 general_secretary:
-  - "[[_Standards/WikiData/WD~Abdolrahim_Gavahi,5957360]]"
-  - "[[_Standards/WikiData/WD~Halil_İbrahim_Akça,6055767]]"
-  - "[[_Standards/WikiData/WD~Shamshad_Ahmad,7487754]]"
-  - "[[_Standards/WikiData/WD~Yahya_Maroofi,8046927]]"
-  - "[[_Standards/WikiData/WD~Önder_Özar,24303955]]"
-  - "[[_Standards/WikiData/WD~Hadi_Soleimanpour,63253838]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Economic_Cooperation_Organization,10990425]]"
+  - '[[_Standards/WikiData/WD~Abdolrahim_Gavahi,5957360]]'
+  - '[[_Standards/WikiData/WD~Halil_İbrahim_Akça,6055767]]'
+  - '[[_Standards/WikiData/WD~Shamshad_Ahmad,7487754]]'
+  - '[[_Standards/WikiData/WD~Yahya_Maroofi,8046927]]'
+  - '[[_Standards/WikiData/WD~Önder_Özar,24303955]]'
+  - '[[_Standards/WikiData/WD~Hadi_Soleimanpour,63253838]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Economic_Cooperation_Organization,10990425]]'
 child_organization_unit:
-  - "[[_Standards/WikiData/WD~ECO_Trade_and_Development_Bank,28221177]]"
-  - "[[_Standards/WikiData/WD~ECO_Science_Foundation,30324560]]"
-country: "[[_Standards/WikiData/WD~Iran,794]]"
-official_language: "[[_Standards/WikiData/WD~English,1860]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Tehran,3616]]"
+  - '[[_Standards/WikiData/WD~ECO_Trade_and_Development_Bank,28221177]]'
+  - '[[_Standards/WikiData/WD~ECO_Science_Foundation,30324560]]'
+country: '[[_Standards/WikiData/WD~Iran,794]]'
+official_language: '[[_Standards/WikiData/WD~English,1860]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Tehran,3616]]'
 official_observer_status_in_organization:
-  - "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+  - '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
+  - '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
 short_name:
   - ECO
   - OWZ
@@ -38,7 +39,7 @@ locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Economic%20Cooperation%20Organization.png
   - http://commons.wikimedia.org/wiki/Special:FilePath/Economic%20Cooperation%20Organization%20map.svg
 official_website: http://www.eco.int/
-ISNI: "0000000115233008"
+ISNI: 0000000115233008
 Commons_category: Economic Cooperation Organization
 official_name:
   - Organisation für Wirtschaftskooperation

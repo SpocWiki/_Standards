@@ -9,16 +9,16 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: GameServerStatus
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - online
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_online Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

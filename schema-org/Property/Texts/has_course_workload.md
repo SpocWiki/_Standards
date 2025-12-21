@@ -4,22 +4,24 @@ aliases:
   - course_workload
   - courseWorkload
   - has_text_of_course_workload
+  - has_course_workload
+  - has course workload
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - course
   - workload
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_course_workload
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

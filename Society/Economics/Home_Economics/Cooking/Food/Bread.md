@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Brot
+  - Pain
+  - Bread
+has_id_wikidata: Q7802
 Amazon_com_browse_node:
   - 16317251
   - 18776870011
@@ -20,7 +25,6 @@ different_from:
   - "[[_Standards/WikiData/WD~food,2095]]"
 EPPO_Code: YBRED
 fabrication_method: "[[_Standards/WikiData/WD~breadmaking,3063799]]"
-has_id_wikidata: Q7802
 has_part_s_:
   - "[[_Standards/WikiData/WD~water,283]]"
   - "[[_Standards/WikiData/WD~flour,36465]]"
@@ -61,13 +65,9 @@ subreddit:
 UMLS_CUI: C0006138
 Unicode_character: 🍞
 U_S_National_Archives_Identifier: 10637726
-aliases:
-  - Brot
-  - Pain
-  - Bread
 ---
 
-# [[Bread]] 
+# [[Bread]] 🍞 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Bread,7802|WD~Bread,7802]] 
 

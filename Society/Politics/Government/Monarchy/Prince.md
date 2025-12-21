@@ -2,6 +2,7 @@
 aliases:
   - Prinz
   - Fürst
+  - Prince
 has_id_wikidata: Q2747456
 said_to_be_the_same_as:
   - "[[_Standards/WikiData/WD~Tsarevich,147925]]"
@@ -23,7 +24,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~royal_prince,3403409]]"
   - "[[_Standards/WikiData/WD~imperial_prince,28495701]]"
 honorific_prefix: "[[_Standards/WikiData/WD~Prince,128938649]]"
-OmegaWiki_Defined_Meaning: "5814"
+OmegaWiki_Defined_Meaning: 5814
 female_form_of_label:
   - princess
   - principessa
@@ -58,7 +59,7 @@ Unicode_character: 🤴
 applies_to_jurisdiction: http://www.wikidata.org/.well-known/genid/d85cd4d08487012eddda109dcbc2f556
 ---
 
-# [[Prince]] 
+# [[Prince]] 🤴 
 
 #is_/same_as :: [[WD~Prince,2747456]] 
 

@@ -7,74 +7,75 @@ aliases:
   - Beat Takeshi
   - ビートたけし
   - Bīto Takeshi
+  - Kitano,Takeshi
 has_id_wikidata: Q26372
 award_received:
-  - "[[_Standards/WikiData/WD~Golden_Lion,209459]]"
-  - "[[_Standards/WikiData/WD~European_Film_Award_for_Best_Non_European_Film,1377772]]"
-  - "[[_Standards/WikiData/WD~Asian_Film_Award_for_Best_Director,4806631]]"
-  - "[[_Standards/WikiData/WD~Golden_Arrow_Award,5354425]]"
-  - "[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]"
-  - "[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]"
-  - "[[_Standards/WikiData/WD~Blue_Ribbon_Awards_for_Best_Director,19833431]]"
-  - "[[_Standards/WikiData/WD~Blue_Ribbon_Awards_for_Best_Actor,19833467]]"
-  - "[[_Standards/WikiData/WD~Blue_Ribbon_Awards_for_Best_Supporting_Actor,19833556]]"
-  - "[[_Standards/WikiData/WD~Mainichi_Film_Award_for_Best_Actor,20002154]]"
-  - "[[_Standards/WikiData/WD~Nikkan_Sports_Film_Award_for_Best_Director,20649162]]"
-  - "[[_Standards/WikiData/WD~Nikkan_Sports_Film_Award_for_Best_Newcomer,20649173]]"
-  - "[[_Standards/WikiData/WD~The_Order_of_the_Rising_Sun,_Gold_Rays_with_Rosette,55339174]]"
-place_of_birth: "[[_Standards/WikiData/WD~Adachi,213464]]"
+  - '[[_Standards/WikiData/WD~Golden_Lion,209459]]'
+  - '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Non_European_Film,1377772]]'
+  - '[[_Standards/WikiData/WD~Asian_Film_Award_for_Best_Director,4806631]]'
+  - '[[_Standards/WikiData/WD~Golden_Arrow_Award,5354425]]'
+  - '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
+  - '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+  - '[[_Standards/WikiData/WD~Blue_Ribbon_Awards_for_Best_Director,19833431]]'
+  - '[[_Standards/WikiData/WD~Blue_Ribbon_Awards_for_Best_Actor,19833467]]'
+  - '[[_Standards/WikiData/WD~Blue_Ribbon_Awards_for_Best_Supporting_Actor,19833556]]'
+  - '[[_Standards/WikiData/WD~Mainichi_Film_Award_for_Best_Actor,20002154]]'
+  - '[[_Standards/WikiData/WD~Nikkan_Sports_Film_Award_for_Best_Director,20649162]]'
+  - '[[_Standards/WikiData/WD~Nikkan_Sports_Film_Award_for_Best_Newcomer,20649173]]'
+  - '[[_Standards/WikiData/WD~The_Order_of_the_Rising_Sun,_Gold_Rays_with_Rosette,55339174]]'
+place_of_birth: '[[_Standards/WikiData/WD~Adachi,213464]]'
 occupation:
-  - "[[_Standards/WikiData/WD~comedian,245068]]"
-  - "[[_Standards/WikiData/WD~television_presenter,947873]]"
-  - "[[_Standards/WikiData/WD~painter,1028181]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - '[[_Standards/WikiData/WD~comedian,245068]]'
+  - '[[_Standards/WikiData/WD~television_presenter,947873]]'
+  - '[[_Standards/WikiData/WD~painter,1028181]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~director,3455803]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Battle_Royale,864592]]"
-  - "[[_Standards/WikiData/WD~Kikujiro,1091097]]"
-  - "[[_Standards/WikiData/WD~Violent_Cop,1156893]]"
-  - "[[_Standards/WikiData/WD~A_Scene_at_the_Sea,1157019]]"
-  - "[[_Standards/WikiData/WD~Sonatine,1339178]]"
-  - "[[_Standards/WikiData/WD~Takeshi_no_Chōsenjō,3514327]]"
-  - "[[_Standards/WikiData/WD~Q11270907,11270907]]"
-  - "[[_Standards/WikiData/WD~Q11442632,11442632]]"
-nominated_for: "[[_Standards/WikiData/WD~European_Film_Award_for_Best_Non_European_Film,1377772]]"
-partner_in_business_or_sport: "[[_Standards/WikiData/WD~Beat_Kiyoshi,2421815]]"
+  - '[[_Standards/WikiData/WD~Battle_Royale,864592]]'
+  - '[[_Standards/WikiData/WD~Kikujiro,1091097]]'
+  - '[[_Standards/WikiData/WD~Violent_Cop,1156893]]'
+  - '[[_Standards/WikiData/WD~A_Scene_at_the_Sea,1157019]]'
+  - '[[_Standards/WikiData/WD~Sonatine,1339178]]'
+  - '[[_Standards/WikiData/WD~Takeshi_no_Chōsenjō,3514327]]'
+  - '[[_Standards/WikiData/WD~Q11270907,11270907]]'
+  - '[[_Standards/WikiData/WD~Q11442632,11442632]]'
+nominated_for: '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Non_European_Film,1377772]]'
+partner_in_business_or_sport: '[[_Standards/WikiData/WD~Beat_Kiyoshi,2421815]]'
 represented_by:
-  - "[[_Standards/WikiData/WD~Office_Kitano,3349547]]"
-  - "[[_Standards/WikiData/WD~Ohta_Production,10941633]]"
-  - "[[_Standards/WikiData/WD~T._N_Gon,53309163]]"
-student_of: "[[_Standards/WikiData/WD~Senzaburō_Fukami,3478811]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-part_of: "[[_Standards/WikiData/WD~Two_Beat,11318864]]"
+  - '[[_Standards/WikiData/WD~Office_Kitano,3349547]]'
+  - '[[_Standards/WikiData/WD~Ohta_Production,10941633]]'
+  - '[[_Standards/WikiData/WD~T._N_Gon,53309163]]'
+student_of: '[[_Standards/WikiData/WD~Senzaburō_Fukami,3478811]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+part_of: '[[_Standards/WikiData/WD~Two_Beat,11318864]]'
 child:
-  - "[[_Standards/WikiData/WD~Shōko_Kitano,11404265]]"
-  - "[[_Standards/WikiData/WD~Atsushi_Kitano,105704075]]"
-sibling: "[[_Standards/WikiData/WD~Masaru_Kitano,11404271]]"
+  - '[[_Standards/WikiData/WD~Shōko_Kitano,11404265]]'
+  - '[[_Standards/WikiData/WD~Atsushi_Kitano,105704075]]'
+sibling: '[[_Standards/WikiData/WD~Masaru_Kitano,11404271]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Mikiko_Kitano,11404285]]"
-  - "[[_Standards/WikiData/WD~Q136972808,136972808]]"
+  - '[[_Standards/WikiData/WD~Mikiko_Kitano,11404285]]'
+  - '[[_Standards/WikiData/WD~Q136972808,136972808]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Tokyo_Metropolitan_Adachi_High_School,11525629]]"
-  - "[[_Standards/WikiData/WD~Adachi_Ward_fourth_junior_high_school,11636975]]"
-  - "[[_Standards/WikiData/WD~Meiji_University,46492]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]"
-position_held: "[[_Standards/WikiData/WD~founder_member,15140392]]"
-blood_type: "[[_Standards/WikiData/WD~Q19831451,19831451]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Takeshi_Kitano,22825997]]"
-family_name: "[[_Standards/WikiData/WD~Kitano,26203206]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-given_name: "[[_Standards/WikiData/WD~Takeshi,125373155]]"
-affiliation: "[[_Standards/WikiData/WD~Q137008546,137008546]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Japanese,5287]]"
-native_language: "[[_Standards/WikiData/WD~Japanese,5287]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Japan,17]]"
+  - '[[_Standards/WikiData/WD~Tokyo_Metropolitan_Adachi_High_School,11525629]]'
+  - '[[_Standards/WikiData/WD~Adachi_Ward_fourth_junior_high_school,11636975]]'
+  - '[[_Standards/WikiData/WD~Meiji_University,46492]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
+position_held: '[[_Standards/WikiData/WD~founder_member,15140392]]'
+blood_type: '[[_Standards/WikiData/WD~Q19831451,19831451]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Takeshi_Kitano,22825997]]'
+family_name: '[[_Standards/WikiData/WD~Kitano,26203206]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+given_name: '[[_Standards/WikiData/WD~Takeshi,125373155]]'
+affiliation: '[[_Standards/WikiData/WD~Q137008546,137008546]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Japanese,5287]]'
+native_language: '[[_Standards/WikiData/WD~Japanese,5287]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Japan,17]]'
 number_of_children: 2
 mass: 76
 height: 168
@@ -98,9 +99,9 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Takeshi%20Kitano%2
 official_shop_URL: https://kitanoblue.co.jp/
 official_website: https://takeshi-kitano.jp/
 ISNI:
-  - "0000000121486319"
-  - "0000000368647495"
-  - "0000000448915613"
+  - 0000000121486319
+  - 0000000368647495
+  - 0000000448915613
 ---
 
 # [[Kitano,Takeshi]] 

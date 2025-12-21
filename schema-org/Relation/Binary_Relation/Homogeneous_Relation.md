@@ -1,11 +1,13 @@
 ---
 aliases:
   - endorelation
+  - Homogeneous_Relation
+  - Homogeneous Relation
 has_id_wikidata: Q54938846
-subclass_of: "[[_Standards/WikiData/WD~binary_relation,130901]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-opposite_of: "[[_Standards/WikiData/WD~heterogeneous_relation,54939316]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_relation,130324710]]"
+subclass_of: '[[_Standards/WikiData/WD~binary_relation,130901]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+opposite_of: '[[_Standards/WikiData/WD~heterogeneous_relation,54939316]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_relation,130324710]]'
 ---
 
 # [[Homogeneous_Relation]] 

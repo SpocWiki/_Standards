@@ -3,23 +3,24 @@ aliases:
   - has message-attachment
   - messageAttachment
   - has_message_attachment
+  - has message attachment
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - message_attachment
   - message
   - attachment
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_message_attachment
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

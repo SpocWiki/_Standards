@@ -2,48 +2,49 @@
 aliases:
   - Hangul
   - Korean alphabet
-  - Chosŏn'gŭl 
-  - 조선글 
-  - 한글 
+  - Chosŏn'gŭl
+  - 조선글
+  - 한글
+  - Script~Hang
 has_id_wikidata: Q8222
 language_of_work_or_name:
-  - "[[_Standards/WikiData/WD~Jejuan,129648]]"
-  - "[[_Standards/WikiData/WD~Korean,9176]]"
+  - '[[_Standards/WikiData/WD~Jejuan,129648]]'
+  - '[[_Standards/WikiData/WD~Korean,9176]]'
 has_use:
-  - "[[_Standards/WikiData/WD~Jejuan,129648]]"
-  - "[[_Standards/WikiData/WD~Korean,9176]]"
-  - "[[_Standards/WikiData/WD~Cia_Cia,35284]]"
+  - '[[_Standards/WikiData/WD~Jejuan,129648]]'
+  - '[[_Standards/WikiData/WD~Korean,9176]]'
+  - '[[_Standards/WikiData/WD~Cia_Cia,35284]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~syllabary,182133]]"
-  - "[[_Standards/WikiData/WD~phonetic_transcription,1049394]]"
-  - "[[_Standards/WikiData/WD~featural_writing_system,1191127]]"
-  - "[[_Standards/WikiData/WD~constructed_writing_system,1191702]]"
-  - "[[_Standards/WikiData/WD~alphabetic_writing_system,2182919]]"
-  - "[[_Standards/WikiData/WD~unicase_alphabet,4004706]]"
-  - "[[_Standards/WikiData/WD~phonemic_transcription,4491715]]"
+  - '[[_Standards/WikiData/WD~syllabary,182133]]'
+  - '[[_Standards/WikiData/WD~phonetic_transcription,1049394]]'
+  - '[[_Standards/WikiData/WD~featural_writing_system,1191127]]'
+  - '[[_Standards/WikiData/WD~constructed_writing_system,1191702]]'
+  - '[[_Standards/WikiData/WD~alphabetic_writing_system,2182919]]'
+  - '[[_Standards/WikiData/WD~unicase_alphabet,4004706]]'
+  - '[[_Standards/WikiData/WD~phonemic_transcription,4491715]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Writing_systems,5497429]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Korea,8503515]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Linguistics,10857957]]"
-  - "[[_Standards/WikiData/WD~Applied_Linguistics_task_force,21830290]]"
-history_of_topic: "[[_Standards/WikiData/WD~Origin_of_hangul,7102482]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Writing_systems,5497429]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Korea,8503515]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Linguistics,10857957]]'
+  - '[[_Standards/WikiData/WD~Applied_Linguistics_task_force,21830290]]'
+history_of_topic: '[[_Standards/WikiData/WD~Origin_of_hangul,7102482]]'
 script_directionality:
-  - "[[_Standards/WikiData/WD~left_to_right,17321844]]"
-  - "[[_Standards/WikiData/WD~vertical_right_to_left,105395084]]"
-derivative_work: "[[_Standards/WikiData/WD~Taiwanese_Hangul,24839798]]"
+  - '[[_Standards/WikiData/WD~left_to_right,17321844]]'
+  - '[[_Standards/WikiData/WD~vertical_right_to_left,105395084]]'
+derivative_work: '[[_Standards/WikiData/WD~Taiwanese_Hangul,24839798]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~jamo,41799425]]"
-  - "[[_Standards/WikiData/WD~ㄱ,40113]]"
-  - "[[_Standards/WikiData/WD~ㅋ,40173]]"
-has_characteristic: "[[_Standards/WikiData/WD~Hangul_syllable,55809450]]"
+  - '[[_Standards/WikiData/WD~jamo,41799425]]'
+  - '[[_Standards/WikiData/WD~ㄱ,40113]]'
+  - '[[_Standards/WikiData/WD~ㅋ,40173]]'
+has_characteristic: '[[_Standards/WikiData/WD~Hangul_syllable,55809450]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-  - "[[_Standards/WikiData/WD~History_of_Ming,28763]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+  - '[[_Standards/WikiData/WD~History_of_Ming,28763]]'
 inception: 1443-01-01T00:00:00Z
 Wikidata_property: Hangul pronunciation
-country_of_origin: "[[_Standards/WikiData/WD~Korea,18097]]"
-creator: "[[_Standards/WikiData/WD~Sejong_the_Great,37682]]"
-ISO_15924_numeric_code: "286"
+country_of_origin: '[[_Standards/WikiData/WD~Korea,18097]]'
+creator: '[[_Standards/WikiData/WD~Sejong_the_Great,37682]]'
+ISO_15924_numeric_code: 286
 native_label:
   - 한글
   - 반절

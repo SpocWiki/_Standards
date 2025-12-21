@@ -1,23 +1,25 @@
 ---
+aliases:
+  - Birthday
 has_id_wikidata: Q47223
 subclass_of:
-  - "[[_Standards/WikiData/WD~party,200538]]"
-  - "[[_Standards/WikiData/WD~anniversary,1062856]]"
+  - '[[_Standards/WikiData/WD~party,200538]]'
+  - '[[_Standards/WikiData/WD~anniversary,1062856]]'
 opposite_of:
-  - "[[_Standards/WikiData/WD~unbirthday,222353]]"
-  - "[[_Standards/WikiData/WD~death_anniversary,1202197]]"
+  - '[[_Standards/WikiData/WD~unbirthday,222353]]'
+  - '[[_Standards/WikiData/WD~death_anniversary,1202197]]'
 different_from:
-  - "[[_Standards/WikiData/WD~date_of_birth,2389905]]"
-  - "[[_Standards/WikiData/WD~official_birthday,105518754]]"
-part_of: "[[_Standards/WikiData/WD~date_of_birth,2389905]]"
+  - '[[_Standards/WikiData/WD~date_of_birth,2389905]]'
+  - '[[_Standards/WikiData/WD~official_birthday,105518754]]'
+part_of: '[[_Standards/WikiData/WD~date_of_birth,2389905]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
-commemorates: "[[_Standards/WikiData/WD~birth,14819852]]"
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+commemorates: '[[_Standards/WikiData/WD~birth,14819852]]'
 Wikidata_property: birthday
-IAB_code: "170"
-OmegaWiki_Defined_Meaning: "5907"
+IAB_code: 170
+OmegaWiki_Defined_Meaning: 5907
 hashtag:
   - Geburtstag
   - birthday
@@ -29,7 +31,7 @@ subreddit: birthday
 Commons_gallery: Birthday
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Birthday%20cake.jpg
 Iconclass_notation: 31D4
-P8189: "987007282553305171"
+P8189: 987007282553305171
 Commons_category: Birthdays
 ---
 

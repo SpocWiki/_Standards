@@ -9,6 +9,8 @@ aliases:
   - decimal
   - decimal number
   - Decimals
+  - Decimal_numeral_System
+  - Decimal numeral System
 has_id_wikidata: Q81365
 ---
 

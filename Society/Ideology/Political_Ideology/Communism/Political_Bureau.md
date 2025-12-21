@@ -3,9 +3,11 @@ aliases:
   - politburo
   - political bureau
   - Politbüro
+  - Political_Bureau
+  - Political Bureau
 has_id_wikidata: Q309118
-subclass_of: "[[_Standards/WikiData/WD~panel,938236]]"
-has_part_s_: "[[_Standards/WikiData/WD~Politburo_member,115136557]]"
+subclass_of: '[[_Standards/WikiData/WD~panel,938236]]'
+has_part_s_: '[[_Standards/WikiData/WD~Politburo_member,115136557]]'
 Commons_category: Politburos
 ---
 

@@ -4,22 +4,24 @@ aliases:
   - application_category
   - applicationCategory
   - has_text_of_application_category
+  - has_application_category
+  - has application category
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - application
   - category
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_application_category
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

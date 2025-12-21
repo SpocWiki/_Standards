@@ -2,6 +2,7 @@
 aliases:
   - Rad
   - Reifen
+  - Wheel
 has_id_wikidata: Q446
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/MeshRad%2020221030.stl
 Commons_category: Wheels
@@ -33,7 +34,7 @@ subclass_of: "[[_Standards/WikiData/WD~simple_machine,186713]]"
 Unicode_character: 🛞
 ---
 
-# [[Wheel]] 
+# [[Wheel]] 🛞 
 
 #is_/same_as :: [[../../../../WikiData/WD~Wheel,446|WD~Wheel,446]] 
 

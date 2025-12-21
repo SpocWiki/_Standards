@@ -4,61 +4,62 @@ aliases:
   - Louis-Jacques-Mandé Daguerre
   - Louis Daguerre
   - Daguerre
+  - Daguerre,Louis
 has_id_wikidata: Q131405
 award_received:
-  - "[[_Standards/WikiData/WD~72_names_on_the_Eiffel_Tower,162873]]"
-  - "[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
-  - "[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]"
+  - '[[_Standards/WikiData/WD~72_names_on_the_Eiffel_Tower,162873]]'
+  - '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
+  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+  - '[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
-  - "[[_Standards/WikiData/WD~Musée_Carnavalet,640447]]"
-  - "[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]"
-  - "[[_Standards/WikiData/WD~Walker_Art_Gallery,1536471]]"
-  - "[[_Standards/WikiData/WD~Musée_des_Beaux_Arts_de_Rouen,3086934]]"
-  - "[[_Standards/WikiData/WD~Musée_des_Beaux_Arts_de_Quimper,3330220]]"
-  - "[[_Standards/WikiData/WD~Musée_Adrien_Mentienne,23599751]]"
-  - "[[_Standards/WikiData/WD~Photography_Collection,105026832]]"
-place_of_death: "[[_Standards/WikiData/WD~Bry_sur_Marne,369954]]"
+  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+  - '[[_Standards/WikiData/WD~Musée_Carnavalet,640447]]'
+  - '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
+  - '[[_Standards/WikiData/WD~Walker_Art_Gallery,1536471]]'
+  - '[[_Standards/WikiData/WD~Musée_des_Beaux_Arts_de_Rouen,3086934]]'
+  - '[[_Standards/WikiData/WD~Musée_des_Beaux_Arts_de_Quimper,3330220]]'
+  - '[[_Standards/WikiData/WD~Musée_Adrien_Mentienne,23599751]]'
+  - '[[_Standards/WikiData/WD~Photography_Collection,105026832]]'
+place_of_death: '[[_Standards/WikiData/WD~Bry_sur_Marne,369954]]'
 occupation:
-  - "[[_Standards/WikiData/WD~chemist,593644]]"
-  - "[[_Standards/WikiData/WD~painter,1028181]]"
-  - "[[_Standards/WikiData/WD~graphic_artist,1925963]]"
-  - "[[_Standards/WikiData/WD~daguerreotypist,23011096]]"
-  - "[[_Standards/WikiData/WD~photographer,33231]]"
+  - '[[_Standards/WikiData/WD~chemist,593644]]'
+  - '[[_Standards/WikiData/WD~painter,1028181]]'
+  - '[[_Standards/WikiData/WD~graphic_artist,1925963]]'
+  - '[[_Standards/WikiData/WD~daguerreotypist,23011096]]'
+  - '[[_Standards/WikiData/WD~photographer,33231]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-member_of: "[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]"
-place_of_birth: "[[_Standards/WikiData/WD~Cormeilles_en_Parisis,841957]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+member_of: '[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]'
+place_of_birth: '[[_Standards/WikiData/WD~Cormeilles_en_Parisis,841957]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Jacques,941049]]"
-  - "[[_Standards/WikiData/WD~Louis,2897866]]"
+  - '[[_Standards/WikiData/WD~Jacques,941049]]'
+  - '[[_Standards/WikiData/WD~Louis,2897866]]'
 student_of:
-  - "[[_Standards/WikiData/WD~Pierre_Prévost,1987835]]"
-  - "[[_Standards/WikiData/WD~Ignazio_Degotti,53508249]]"
-student: "[[_Standards/WikiData/WD~Antoine_Claudet,2853823]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-artist_files_at: "[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Daguerre,54857623]]"
-place_of_burial: "[[_Standards/WikiData/WD~Cemetery_of_Bry_sur_Marne,71816400]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+  - '[[_Standards/WikiData/WD~Pierre_Prévost,1987835]]'
+  - '[[_Standards/WikiData/WD~Ignazio_Degotti,53508249]]'
+student: '[[_Standards/WikiData/WD~Antoine_Claudet,2853823]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+artist_files_at: '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Daguerre,54857623]]'
+place_of_burial: '[[_Standards/WikiData/WD~Cemetery_of_Bry_sur_Marne,71816400]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
-  - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
-  - "[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]"
-spouse: "[[_Standards/WikiData/WD~Louise_Georgina_Arrowsmith,109323026]]"
-relative: "[[_Standards/WikiData/WD~John_Arrowsmith,125365721]]"
+  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
+  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+  - '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
+spouse: '[[_Standards/WikiData/WD~Louise_Georgina_Arrowsmith,109323026]]'
+relative: '[[_Standards/WikiData/WD~John_Arrowsmith,125365721]]'
 date_of_death: 1851-07-10T00:00:00Z
-cause_of_death: "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-native_language: "[[_Standards/WikiData/WD~French,150]]"
-writing_language: "[[_Standards/WikiData/WD~French,150]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
+cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+native_language: '[[_Standards/WikiData/WD~French,150]]'
+writing_language: '[[_Standards/WikiData/WD~French,150]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 BHCL_UUID: a5bcbc93-2384-406b-b666-b367ae6b8c97
 name_in_native_language: Louis Daguerre
 birth_name: Louis Jacques Mandé Daguerre
@@ -80,7 +81,7 @@ described_at_URL:
   - http://www.digiporta.net/index.php?id=543796728
   - http://www.digiporta.net/index.php?id=606100142
   - http://www.digiporta.net/index.php?id=868479592
-ISNI: "0000000114714125"
+ISNI: 0000000114714125
 Europeana_entity: agent/base/148114
 Libris_URI: hftwwsh10rhjfbx
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/DAGER_LUI_ZHAK_MANDE.html

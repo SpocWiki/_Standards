@@ -1,6 +1,7 @@
 ---
 aliases:
-- "News Corp"
+  - News Corp
+  - News_Corp
 ---
 
 # [[News_Corp]] 

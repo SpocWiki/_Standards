@@ -1,6 +1,7 @@
 ---
 aliases:
-- ESCWA
+  - ESCWA
+  - UNESCWA
 ---
 
 # [[UNESCWA]] 

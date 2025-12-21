@@ -1,18 +1,19 @@
 ---
 aliases:
   - Innereien
+  - Offal
 has_id_wikidata: Q157484
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-different_from: "[[_Standards/WikiData/WD~Abat,2820192]]"
-by_product_of: "[[_Standards/WikiData/WD~animal_slaughter,4282505]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~animal_organ,24060765]]"
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+different_from: '[[_Standards/WikiData/WD~Abat,2820192]]'
+by_product_of: '[[_Standards/WikiData/WD~animal_slaughter,4282505]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~animal_organ,24060765]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
-  - "[[_Standards/WikiData/WD~food,2095]]"
-  - "[[_Standards/WikiData/WD~meat,10990]]"
+  - '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+  - '[[_Standards/WikiData/WD~food,2095]]'
+  - '[[_Standards/WikiData/WD~meat,10990]]'
 Dewey_Decimal_Classification:
-  - "641.36"
-  - "641.66"
+  - 641.36
+  - 641.66
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Animal%20Internals%20%284257194088%29.jpg
 Commons_category: Offal
 ---

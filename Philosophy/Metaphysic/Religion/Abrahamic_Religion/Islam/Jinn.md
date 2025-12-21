@@ -3,6 +3,7 @@ aliases:
   - djinn
   - Dschinn
   - genie
+  - Jinn
 has_id_wikidata: Q3465
 native_label:
   - جِنِّيِّين
@@ -72,7 +73,7 @@ Unicode_character:
   - 🧞♂️
 ---
 
-# [[Jinn]] 
+# [[Jinn]] 🧞  
 
 #is_/same_as :: [[WD~Jinn,3465]] 
 

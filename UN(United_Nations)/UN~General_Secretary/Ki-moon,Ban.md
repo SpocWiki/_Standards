@@ -1,107 +1,109 @@
 ---
+aliases:
+  - Ki-moon,Ban
 has_id_wikidata: Q1253
 position_held:
-  - "[[_Standards/WikiData/WD~United_Nations_Secretary_General,81066]]"
-  - "[[_Standards/WikiData/WD~Foreign_minister_of_South_Korea,12592509]]"
-  - "[[_Standards/WikiData/WD~chairperson_of_the_Ethics_Commission_of_the_International_Olympic_Committee,47472704]]"
-  - "[[_Standards/WikiData/WD~ambassador_of_South_Korea_to_Austria,102722649]]"
+  - '[[_Standards/WikiData/WD~United_Nations_Secretary_General,81066]]'
+  - '[[_Standards/WikiData/WD~Foreign_minister_of_South_Korea,12592509]]'
+  - '[[_Standards/WikiData/WD~chairperson_of_the_Ethics_Commission_of_the_International_Olympic_Committee,47472704]]'
+  - '[[_Standards/WikiData/WD~ambassador_of_South_Korea_to_Austria,102722649]]'
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~diplomat,193391]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~diplomat,193391]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Decoration_of_Honour_for_Services_to_the_Republic_of_Austria,94044]]"
-  - "[[_Standards/WikiData/WD~National_Order_of_the_Ivory_Coast,112269]]"
-  - "[[_Standards/WikiData/WD~Order_of_Saint_Agatha,338751]]"
-  - "[[_Standards/WikiData/WD~Olympic_Order,634353]]"
-  - "[[_Standards/WikiData/WD~Order_of_Liberty,743230]]"
-  - "[[_Standards/WikiData/WD~Order_of_Friendship,791135]]"
-  - "[[_Standards/WikiData/WD~Order_of_Sikatuna,980578]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Sun_of_Peru,1415232]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Netherlands_Lion,1471215]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Liberator_General_San_Martín,1783970]]"
-  - "[[_Standards/WikiData/WD~Order_of_Saint_Charles,2029016]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_in_the_Order_of_the_Netherlands_Lion,2297608]]"
-  - "[[_Standards/WikiData/WD~Order_of_Rio_Branco,2628946]]"
-  - "[[_Standards/WikiData/WD~Order_of_Civil_Merit,2703201]]"
-  - "[[_Standards/WikiData/WD~Order_of_José_Matías_Delgado,3885158]]"
-  - "[[_Standards/WikiData/WD~National_Order_of_Madagascar,3885159]]"
-  - "[[_Standards/WikiData/WD~National_Order_of_Burkina_Faso,3885157]]"
-  - "[[_Standards/WikiData/WD~Order_of_Merit_for_Distinguished_Services,6052096]]"
-  - "[[_Standards/WikiData/WD~James_A._Van_Fleet_Award,6128306]]"
-  - "[[_Standards/WikiData/WD~Grand_Officer_of_the_Legion_of_Honour,10855216]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Legion_of_Honour,10855226]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_1st_class_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905105]]"
-  - "[[_Standards/WikiData/WD~Gold_Olympic_Order,15279719]]"
-  - "[[_Standards/WikiData/WD~Order_of_Unity,16141142]]"
-  - "[[_Standards/WikiData/WD~Order_of_Ismoili_Somoni,16683303]]"
-  - "[[_Standards/WikiData/WD~National_Order_of_Merit,17012026]]"
-  - "[[_Standards/WikiData/WD~Grand_Star_of_the_Decoration_for_Services_to_the_Republic_of_Austria,17409133]]"
-  - "[[_Standards/WikiData/WD~Dostyk_Order_of_grade_I,18080682]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Sun_of_Peru,25755314]]"
-  - "[[_Standards/WikiData/WD~Emblem_of_Unity,27921518]]"
-  - "[[_Standards/WikiData/WD~Amir_Amanullah_Khan_Award,28136414]]"
-  - "[[_Standards/WikiData/WD~Collar_of_the_Spanish_Order_of_the_Civil_Merit,29383181]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_Katholieke_Universiteit_Leuven,30168724]]"
-  - "[[_Standards/WikiData/WD~Humanitarian_of_the_Year,33232596]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_Moscow_State_Institute_of_International_Relations,41695835]]"
-  - "[[_Standards/WikiData/WD~honorary_doctorate_from_Columbia_University,41795590]]"
-  - "[[_Standards/WikiData/WD~Honorary_doctor_at_the_Nanjing_University,41977694]]"
-  - "[[_Standards/WikiData/WD~honorary_doctorate_of_the_National_University_of_San_Marcos,49802084]]"
-  - "[[_Standards/WikiData/WD~Medal_of_Honor_of_the_Congress_of_the_Republic_of_Peru,65931846]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Liberty,67155293]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Auckland,83530295]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_Comenius_University,88466601]]"
-  - "[[_Standards/WikiData/WD~Medal_of_the_Oriental_Republic_of_Uruguay,96279182]]"
-  - "[[_Standards/WikiData/WD~Distinguished_SNU_Members,97224689]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Paris_1_Pantheon_Sorbonne,126416227]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Bordeaux,131353823]]"
-  - "[[_Standards/WikiData/WD~Order_of_Merit_of_the_Federal_Republic_of_Germany,21164]]"
-field_of_work: "[[_Standards/WikiData/WD~international_relations,166542]]"
-member_of_political_party: "[[_Standards/WikiData/WD~independent_politician,327591]]"
+  - '[[_Standards/WikiData/WD~Decoration_of_Honour_for_Services_to_the_Republic_of_Austria,94044]]'
+  - '[[_Standards/WikiData/WD~National_Order_of_the_Ivory_Coast,112269]]'
+  - '[[_Standards/WikiData/WD~Order_of_Saint_Agatha,338751]]'
+  - '[[_Standards/WikiData/WD~Olympic_Order,634353]]'
+  - '[[_Standards/WikiData/WD~Order_of_Liberty,743230]]'
+  - '[[_Standards/WikiData/WD~Order_of_Friendship,791135]]'
+  - '[[_Standards/WikiData/WD~Order_of_Sikatuna,980578]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Sun_of_Peru,1415232]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Netherlands_Lion,1471215]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Liberator_General_San_Martín,1783970]]'
+  - '[[_Standards/WikiData/WD~Order_of_Saint_Charles,2029016]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_in_the_Order_of_the_Netherlands_Lion,2297608]]'
+  - '[[_Standards/WikiData/WD~Order_of_Rio_Branco,2628946]]'
+  - '[[_Standards/WikiData/WD~Order_of_Civil_Merit,2703201]]'
+  - '[[_Standards/WikiData/WD~Order_of_José_Matías_Delgado,3885158]]'
+  - '[[_Standards/WikiData/WD~National_Order_of_Madagascar,3885159]]'
+  - '[[_Standards/WikiData/WD~National_Order_of_Burkina_Faso,3885157]]'
+  - '[[_Standards/WikiData/WD~Order_of_Merit_for_Distinguished_Services,6052096]]'
+  - '[[_Standards/WikiData/WD~James_A._Van_Fleet_Award,6128306]]'
+  - '[[_Standards/WikiData/WD~Grand_Officer_of_the_Legion_of_Honour,10855216]]'
+  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Legion_of_Honour,10855226]]'
+  - '[[_Standards/WikiData/WD~Grand_Cross_1st_class_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905105]]'
+  - '[[_Standards/WikiData/WD~Gold_Olympic_Order,15279719]]'
+  - '[[_Standards/WikiData/WD~Order_of_Unity,16141142]]'
+  - '[[_Standards/WikiData/WD~Order_of_Ismoili_Somoni,16683303]]'
+  - '[[_Standards/WikiData/WD~National_Order_of_Merit,17012026]]'
+  - '[[_Standards/WikiData/WD~Grand_Star_of_the_Decoration_for_Services_to_the_Republic_of_Austria,17409133]]'
+  - '[[_Standards/WikiData/WD~Dostyk_Order_of_grade_I,18080682]]'
+  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Sun_of_Peru,25755314]]'
+  - '[[_Standards/WikiData/WD~Emblem_of_Unity,27921518]]'
+  - '[[_Standards/WikiData/WD~Amir_Amanullah_Khan_Award,28136414]]'
+  - '[[_Standards/WikiData/WD~Collar_of_the_Spanish_Order_of_the_Civil_Merit,29383181]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Katholieke_Universiteit_Leuven,30168724]]'
+  - '[[_Standards/WikiData/WD~Humanitarian_of_the_Year,33232596]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Moscow_State_Institute_of_International_Relations,41695835]]'
+  - '[[_Standards/WikiData/WD~honorary_doctorate_from_Columbia_University,41795590]]'
+  - '[[_Standards/WikiData/WD~Honorary_doctor_at_the_Nanjing_University,41977694]]'
+  - '[[_Standards/WikiData/WD~honorary_doctorate_of_the_National_University_of_San_Marcos,49802084]]'
+  - '[[_Standards/WikiData/WD~Medal_of_Honor_of_the_Congress_of_the_Republic_of_Peru,65931846]]'
+  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Liberty,67155293]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Auckland,83530295]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_Comenius_University,88466601]]'
+  - '[[_Standards/WikiData/WD~Medal_of_the_Oriental_Republic_of_Uruguay,96279182]]'
+  - '[[_Standards/WikiData/WD~Distinguished_SNU_Members,97224689]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Paris_1_Pantheon_Sorbonne,126416227]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Bordeaux,131353823]]'
+  - '[[_Standards/WikiData/WD~Order_of_Merit_of_the_Federal_Republic_of_Germany,21164]]'
+field_of_work: '[[_Standards/WikiData/WD~international_relations,166542]]'
+member_of_political_party: '[[_Standards/WikiData/WD~independent_politician,327591]]'
 member_of:
-  - "[[_Standards/WikiData/WD~The_Elders,1517662]]"
-  - "[[_Standards/WikiData/WD~ABLF_alumni_network,115725302]]"
+  - '[[_Standards/WikiData/WD~The_Elders,1517662]]'
+  - '[[_Standards/WikiData/WD~ABLF_alumni_network,115725302]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Chungju_High_School,5116377]]"
-  - "[[_Standards/WikiData/WD~Harvard_University,13371]]"
-  - "[[_Standards/WikiData/WD~Seoul_National_University,39913]]"
-  - "[[_Standards/WikiData/WD~John_F._Kennedy_School_of_Government,49127]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
+  - '[[_Standards/WikiData/WD~Chungju_High_School,5116377]]'
+  - '[[_Standards/WikiData/WD~Harvard_University,13371]]'
+  - '[[_Standards/WikiData/WD~Seoul_National_University,39913]]'
+  - '[[_Standards/WikiData/WD~John_F._Kennedy_School_of_Government,49127]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-given_name: "[[_Standards/WikiData/WD~Ki_moon,18126809]]"
-family_name: "[[_Standards/WikiData/WD~Ban,20017935]]"
-participant_in: "[[_Standards/WikiData/WD~World_Government_Summit_2015,116790970]]"
-professorship: "[[_Standards/WikiData/WD~Foreign_member_of_the_Russian_Academy_of_Arts,124728452]]"
+  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+given_name: '[[_Standards/WikiData/WD~Ki_moon,18126809]]'
+family_name: '[[_Standards/WikiData/WD~Ban,20017935]]'
+participant_in: '[[_Standards/WikiData/WD~World_Government_Summit_2015,116790970]]'
+professorship: '[[_Standards/WikiData/WD~Foreign_member_of_the_Russian_Academy_of_Arts,124728452]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Buddhism,748]]"
-  - "[[_Standards/WikiData/WD~Confucianism,9581]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~South_Korea,884]]"
-affiliation: "[[_Standards/WikiData/WD~United_Nations,1065]]"
-employer: "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - '[[_Standards/WikiData/WD~Buddhism,748]]'
+  - '[[_Standards/WikiData/WD~Confucianism,9581]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~South_Korea,884]]'
+affiliation: '[[_Standards/WikiData/WD~United_Nations,1065]]'
+employer: '[[_Standards/WikiData/WD~United_Nations,1065]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Korean,9176]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-native_language: "[[_Standards/WikiData/WD~Korean,9176]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Korean,9176]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+native_language: '[[_Standards/WikiData/WD~Korean,9176]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 residence:
-  - "[[_Standards/WikiData/WD~New_York_City,60]]"
-  - "[[_Standards/WikiData/WD~North_Chungcheong,41066]]"
+  - '[[_Standards/WikiData/WD~New_York_City,60]]'
+  - '[[_Standards/WikiData/WD~North_Chungcheong,41066]]'
 number_of_children: 3
-place_of_birth: "[[_Standards/WikiData/WD~Eumseong_County,50315]]"
+place_of_birth: '[[_Standards/WikiData/WD~Eumseong_County,50315]]'
 affiliation_string:
   - United Nations
   - Ban Ki-moon Centre for Global Citizens; 8th Secretary-General
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ban%20Ki-moon%201-2.jpg
 audio_recording_of_the_subject_s_spoken_voice: http://commons.wikimedia.org/wiki/Special:FilePath/Ban%20Ki-moon%20voice.ogg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Ban%20Ki%20Moon%20Signature.svg
-ISNI: "0000000122138711"
-RIA_Novosti_reference: "54463079"
-P8189: "987007604763805171"
+ISNI: 0000000122138711
+RIA_Novosti_reference: 54463079
+P8189: 987007604763805171
 Revised_Romanization: Ban Gimun
 Commons_category: Ban Ki-moon
 Commons_gallery: Ban Ki-moon

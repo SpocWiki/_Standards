@@ -1,26 +1,27 @@
 ---
 aliases:
-- Pleiocene
-- Плиоцен
-- Pliocén
-- Pliocæn
-- Pliozän
-- Ploceno
-- Pliotseen
-- Plioseeni
-- Pliocène
-- pliocén
-- pliocene
-- 鮮新世
-- Pliocenas
-- Plioceen
-- Pliocen
-- Pliocen
-- Pliocénico
-- pliocén
-- pliocen
-- pliocen
-- 上新世
+  - Pleiocene
+  - Плиоцен
+  - Pliocén
+  - Pliocæn
+  - Pliozän
+  - Ploceno
+  - Pliotseen
+  - Plioseeni
+  - Pliocène
+  - pliocén
+  - pliocene
+  - 鮮新世
+  - Pliocenas
+  - Plioceen
+  - Pliocen
+  - Pliocen
+  - Pliocénico
+  - pliocén
+  - pliocen
+  - pliocen
+  - 上新世
+  - Epoch~2~Pliocene
 ---
 
 # [[Epoch~2~Pliocene]] 

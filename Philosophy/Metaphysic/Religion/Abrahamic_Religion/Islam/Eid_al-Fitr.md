@@ -1,30 +1,32 @@
 ---
 aliases:
   - Eid
+  - Eid_al-Fitr
+  - Eid al-Fitr
 has_id_wikidata: Q464458
 instance_of:
-  - "[[_Standards/WikiData/WD~religious_holiday,375011]]"
-  - "[[_Standards/WikiData/WD~public_holiday,1197685]]"
-  - "[[_Standards/WikiData/WD~Islamic_holidays,6484291]]"
-  - "[[_Standards/WikiData/WD~Islamic_term,23384401]]"
+  - '[[_Standards/WikiData/WD~religious_holiday,375011]]'
+  - '[[_Standards/WikiData/WD~public_holiday,1197685]]'
+  - '[[_Standards/WikiData/WD~Islamic_holidays,6484291]]'
+  - '[[_Standards/WikiData/WD~Islamic_term,23384401]]'
 day_in_year_for_periodic_occurrence:
-  - "[[_Standards/WikiData/WD~2_Shawwal,4121948]]"
-  - "[[_Standards/WikiData/WD~1_Shawwal,4121955]]"
+  - '[[_Standards/WikiData/WD~2_Shawwal,4121948]]'
+  - '[[_Standards/WikiData/WD~1_Shawwal,4121955]]'
 foods_traditionally_associated:
-  - "[[_Standards/WikiData/WD~bean_pie,4876265]]"
-  - "[[_Standards/WikiData/WD~seviyan,113667563]]"
+  - '[[_Standards/WikiData/WD~bean_pie,4876265]]'
+  - '[[_Standards/WikiData/WD~seviyan,113667563]]'
 follows:
-  - "[[_Standards/WikiData/WD~Zakat_al_Fitr,4917977]]"
-  - "[[_Standards/WikiData/WD~doubt_night,132818553]]"
-  - "[[_Standards/WikiData/WD~Ramadan,41662]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~Cuti_bersama,5196842]]"
-part_of: "[[_Standards/WikiData/WD~Islamic_holidays,6484291]]"
-country: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-subclass_of: "[[_Standards/WikiData/WD~Eid,15645154]]"
+  - '[[_Standards/WikiData/WD~Zakat_al_Fitr,4917977]]'
+  - '[[_Standards/WikiData/WD~doubt_night,132818553]]'
+  - '[[_Standards/WikiData/WD~Ramadan,41662]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Cuti_bersama,5196842]]'
+part_of: '[[_Standards/WikiData/WD~Islamic_holidays,6484291]]'
+country: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+subclass_of: '[[_Standards/WikiData/WD~Eid,15645154]]'
 described_by_source: "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-followed_by: "[[_Standards/WikiData/WD~Fasting_six_days_of_Shawwal_month,40376469]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki_Loves_Folklore,96622031]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
+followed_by: '[[_Standards/WikiData/WD~Fasting_six_days_of_Shawwal_month,40376469]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki_Loves_Folklore,96622031]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
 Commons_category: Eid al-Fitr
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eid%20Prayers%20in%20Rajarbagh%2C%20Dhaka%20on%206%20October%202014.jpg
 Library_of_Congress_Classification: BP186.45

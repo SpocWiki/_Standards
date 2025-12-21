@@ -1,21 +1,23 @@
 ---
+aliases:
+  - Fermion
 has_id_wikidata: Q44363
 has_characteristic:
-  - "[[_Standards/WikiData/WD~Pauli_exclusion_principle,131594]]"
-  - "[[_Standards/WikiData/WD~Fermi_Dirac_statistics,274072]]"
-has_superpartner: "[[_Standards/WikiData/WD~sfermion,2347008]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
+  - '[[_Standards/WikiData/WD~Pauli_exclusion_principle,131594]]'
+  - '[[_Standards/WikiData/WD~Fermi_Dirac_statistics,274072]]'
+has_superpartner: '[[_Standards/WikiData/WD~sfermion,2347008]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Fermion-article.ogg
-subclass_of: "[[_Standards/WikiData/WD~massive_quantum_particle,28877390]]"
-named_after: "[[_Standards/WikiData/WD~Enrico_Fermi,8753]]"
-interaction: "[[_Standards/WikiData/WD~gravity,11412]]"
+subclass_of: '[[_Standards/WikiData/WD~massive_quantum_particle,28877390]]'
+named_after: '[[_Standards/WikiData/WD~Enrico_Fermi,8753]]'
+interaction: '[[_Standards/WikiData/WD~gravity,11412]]'
 spin_quantum_number: 1
-opposite_of: "[[_Standards/WikiData/WD~boson,43101]]"
-OmegaWiki_Defined_Meaning: "1235296"
+opposite_of: '[[_Standards/WikiData/WD~boson,43101]]'
+OmegaWiki_Defined_Meaning: 1235296
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Fermiones%20bosones.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A8.wav
 IEV_number: 113-05-12
-P8189: "987007529000905171"
+P8189: 987007529000905171
 Commons_category: Fermions
 ---
 

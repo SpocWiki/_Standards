@@ -1,28 +1,29 @@
 ---
 aliases:
   - Topas
+  - Topaz
 has_id_wikidata: Q134985
 named_after: "[[_Standards/WikiData/WD~St._John's_Island,_Egypt,389131]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~nesosilicates,429635]]"
-  - "[[_Standards/WikiData/WD~cyclosilicates,11515780]]"
+  - '[[_Standards/WikiData/WD~nesosilicates,429635]]'
+  - '[[_Standards/WikiData/WD~cyclosilicates,11515780]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Mineralogia,_eller_mineralriket_indelt_och_beskrifvet,32062091]]"
-  - "[[_Standards/WikiData/WD~Q37072498,37072498]]"
-crystal_system: "[[_Standards/WikiData/WD~orthorhombic_crystal_system,648961]]"
-instance_of: "[[_Standards/WikiData/WD~mineral_species,12089225]]"
-IMA_status_and_or_rank: "[[_Standards/WikiData/WD~grandfathered_mineral_(G),13406846]]"
-different_from: "[[_Standards/WikiData/WD~Topaz,21900871]]"
-streak_color: "[[_Standards/WikiData/WD~white,23444]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Mineralogia,_eller_mineralriket_indelt_och_beskrifvet,32062091]]'
+  - '[[_Standards/WikiData/WD~Q37072498,37072498]]'
+crystal_system: '[[_Standards/WikiData/WD~orthorhombic_crystal_system,648961]]'
+instance_of: '[[_Standards/WikiData/WD~mineral_species,12089225]]'
+IMA_status_and_or_rank: '[[_Standards/WikiData/WD~grandfathered_mineral_(G),13406846]]'
+different_from: '[[_Standards/WikiData/WD~Topaz,21900871]]'
+streak_color: '[[_Standards/WikiData/WD~white,23444]]'
 Mohs_hardness: 8
 density: 3.53
-CosIng_number: "59782"
+CosIng_number: 59782
 Commons_category: Topaz
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Topaze%20Br%C3%A9sil.jpg
 Iconclass_notation: 25D11(TOPAZ)

@@ -1,43 +1,45 @@
 ---
-excludes: 
+aliases:
+  - FileClass~SportsEvent
+excludes: ''
 extends: FileClass~Thing/FileClass~Event
 fields:
-- id: eKSc97
-  name: AwayTeam
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: Sk1sq5
-  name: Competitor
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: bQRfJf
-  name: HomeTeam
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: CtjIte
-  name: Sport
-  options: {}
-  type: Input
-  path: ''
+  - id: eKSc97
+    name: AwayTeam
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: Sk1sq5
+    name: Competitor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: bQRfJf
+    name: HomeTeam
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: CtjIte
+    name: Sport
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/SportsEvent
-- class/Thing/Event/SportsEvent
-- is_a_/SportsEvent
-- schema-org/SportsEvent
+  - class/SportsEvent
+  - class/Thing/Event/SportsEvent
+  - is_a_/SportsEvent
+  - schema-org/SportsEvent
 tags:
-- class/FileClass
-- class/SportsEvent
-- is_a_/SportsEvent
-- class/Thing/Event/SportsEvent
+  - class/FileClass
+  - class/SportsEvent
+  - is_a_/SportsEvent
+  - class/Thing/Event/SportsEvent
 version: 2.0
 ---
 

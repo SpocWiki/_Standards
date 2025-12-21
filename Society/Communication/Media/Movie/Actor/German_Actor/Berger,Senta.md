@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Senta Berger"
-- "Senta Verhoeven"
+  - Senta Berger
+  - Senta Verhoeven
+  - Berger,Senta
 ---
 
 #has_/spouse :: [[../../Movie-Directors/Verhoeven,Michael]] 

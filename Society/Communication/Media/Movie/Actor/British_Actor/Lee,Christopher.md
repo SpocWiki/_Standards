@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Christopher Lee"
-- "Sir Christopher Frank Carandini Lee"
+  - Christopher Lee
+  - Sir Christopher Frank Carandini Lee
+  - Lee,Christopher
 ---
 
 # [[Lee,Christopher]] 

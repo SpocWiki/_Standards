@@ -1,8 +1,9 @@
 ---
 aliases:
   - Fred_Astaire
-  - Fred Astaire 
+  - Fred Astaire
   - Frederick Austerlitz
+  - Astaire,Fred
 has_id_wikidata: Q100937
 ---
 # [[Astaire,Fred]] 

@@ -4,54 +4,55 @@ aliases:
   - John Robert Cocker
   - Joe Cocker
   - Cocker
+  - Cocker,Joe
 has_id_wikidata: Q190076
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~plumber,252924]]"
-  - "[[_Standards/WikiData/WD~pianist,486748]]"
-  - "[[_Standards/WikiData/WD~songwriter,753110]]"
-  - "[[_Standards/WikiData/WD~recording_artist,55960555]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~plumber,252924]]'
+  - '[[_Standards/WikiData/WD~pianist,486748]]'
+  - '[[_Standards/WikiData/WD~songwriter,753110]]'
+  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Island_Records,190585]]"
-  - "[[_Standards/WikiData/WD~Capitol_Records,193023]]"
-  - "[[_Standards/WikiData/WD~A&M_Records,277626]]"
-  - "[[_Standards/WikiData/WD~Decca,557632]]"
-  - "[[_Standards/WikiData/WD~Chrysalis_Records,1088453]]"
-  - "[[_Standards/WikiData/WD~Regal_Zonophone,2137237]]"
-  - "[[_Standards/WikiData/WD~The_Rocket_Record_Company,3939773]]"
-  - "[[_Standards/WikiData/WD~IL,111031086]]"
-copyright_representative: "[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]"
-place_of_death: "[[_Standards/WikiData/WD~Crawford,1013510]]"
-residence: "[[_Standards/WikiData/WD~Crawford,1013510]]"
-discography: "[[_Standards/WikiData/WD~Joe_Cocker_discography,1691363]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-educated_at: "[[_Standards/WikiData/WD~Sheffield_Central_Technical_School,7492602]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Joe_Cocker,10584982]]"
-award_received: "[[_Standards/WikiData/WD~Officer_of_the_Order_of_the_British_Empire,10762848]]"
+  - '[[_Standards/WikiData/WD~Island_Records,190585]]'
+  - '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
+  - '[[_Standards/WikiData/WD~A&M_Records,277626]]'
+  - '[[_Standards/WikiData/WD~Decca,557632]]'
+  - '[[_Standards/WikiData/WD~Chrysalis_Records,1088453]]'
+  - '[[_Standards/WikiData/WD~Regal_Zonophone,2137237]]'
+  - '[[_Standards/WikiData/WD~The_Rocket_Record_Company,3939773]]'
+  - '[[_Standards/WikiData/WD~IL,111031086]]'
+copyright_representative: '[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]'
+place_of_death: '[[_Standards/WikiData/WD~Crawford,1013510]]'
+residence: '[[_Standards/WikiData/WD~Crawford,1013510]]'
+discography: '[[_Standards/WikiData/WD~Joe_Cocker_discography,1691363]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+educated_at: '[[_Standards/WikiData/WD~Sheffield_Central_Technical_School,7492602]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Joe_Cocker,10584982]]'
+award_received: '[[_Standards/WikiData/WD~Officer_of_the_Order_of_the_British_Empire,10762848]]'
 instrument:
-  - "[[_Standards/WikiData/WD~voice,17172850]]"
-  - "[[_Standards/WikiData/WD~piano,5994]]"
-  - "[[_Standards/WikiData/WD~harmonica,51290]]"
-family_name: "[[_Standards/WikiData/WD~Cocker,37203390]]"
-given_name: "[[_Standards/WikiData/WD~John_Robert,52147684]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-spouse: "[[_Standards/WikiData/WD~Pam_Baker,108667442]]"
-place_of_burial: "[[_Standards/WikiData/WD~Garden_of_Memories_Cemetery,117648173]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
+  - '[[_Standards/WikiData/WD~voice,17172850]]'
+  - '[[_Standards/WikiData/WD~piano,5994]]'
+  - '[[_Standards/WikiData/WD~harmonica,51290]]'
+family_name: '[[_Standards/WikiData/WD~Cocker,37203390]]'
+given_name: '[[_Standards/WikiData/WD~John_Robert,52147684]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+spouse: '[[_Standards/WikiData/WD~Pam_Baker,108667442]]'
+place_of_burial: '[[_Standards/WikiData/WD~Garden_of_Memories_Cemetery,117648173]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 genre:
-  - "[[_Standards/WikiData/WD~blues,9759]]"
-  - "[[_Standards/WikiData/WD~rock_music,11399]]"
-voice_type: "[[_Standards/WikiData/WD~baritone,31687]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_locations: "[[_Standards/WikiData/WD~New_York_City,60]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~blues,9759]]'
+  - '[[_Standards/WikiData/WD~rock_music,11399]]'
+voice_type: '[[_Standards/WikiData/WD~baritone,31687]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_locations: '[[_Standards/WikiData/WD~New_York_City,60]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 social_media_followers: 350000
 height: 1.74
-place_of_birth: "[[_Standards/WikiData/WD~Sheffield,42448]]"
-cause_of_death: "[[_Standards/WikiData/WD~lung_cancer,47912]]"
+place_of_birth: '[[_Standards/WikiData/WD~Sheffield,42448]]'
+cause_of_death: '[[_Standards/WikiData/WD~lung_cancer,47912]]'
 Commons_gallery: Joe Cocker
 Commons_category: Joe Cocker
 date_of_birth: 1944-05-20T00:00:00Z
@@ -60,10 +61,10 @@ date_of_death: 2014-12-22T00:00:00Z
 work_period_start_: 1960-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Cocker%20-%20Festival%20du%20Bout%20du%20Monde%202013%20-%20050%20%28cropped%29.jpg
 official_website: https://www.cocker.com/
-ISNI: "0000000109078187"
+ISNI: 0000000109078187
 IPI_name_number:
-  - "00128456564"
-  - "00128477063"
+  - 00128456564
+  - 00128477063
 Plex_person_key: 5d77682e999c64001ec2df7d
 Europeana_entity: agent/base/60887
 TikTok_username: joecockerofficial

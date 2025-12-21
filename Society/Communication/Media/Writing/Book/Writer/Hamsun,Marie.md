@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Marie Hamsun"
-- "Marie Andersen"
+  - Marie Hamsun
+  - Marie Andersen
+  - Hamsun,Marie
 ---
 
 # [[Hamsun,Marie]] 

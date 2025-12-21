@@ -1,28 +1,29 @@
 ---
 aliases:
-- is-based-on
-- based_on
-- isBasedOn
-- is_based_on
-- is_based_on_url
+  - is-based-on
+  - based_on
+  - isBasedOn
+  - is_based_on
+  - is_based_on_url
+  - is based on
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords: ''
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: is_based_on
 publish: true
-publishDate: 
+publishDate: ''
 supersedes: isBasedOnUrl
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_based_on
 type: Predi_Relation
 ---

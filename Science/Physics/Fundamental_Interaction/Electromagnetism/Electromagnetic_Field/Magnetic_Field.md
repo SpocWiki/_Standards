@@ -1,17 +1,19 @@
 ---
 aliases:
   - magnetic field
+  - Magnetic_Field
+  - Magnetic Field
 has_id_wikidata: Q11408
-subclass_of: "[[_Standards/WikiData/WD~field,185674]]"
+subclass_of: '[[_Standards/WikiData/WD~field,185674]]'
 different_from:
-  - "[[_Standards/WikiData/WD~field,188869]]"
-  - "[[_Standards/WikiData/WD~Les_Champs_Magnétiques,2745130]]"
+  - '[[_Standards/WikiData/WD~field,188869]]'
+  - '[[_Standards/WikiData/WD~Les_Champs_Magnétiques,2745130]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~magnetism,3294789]]"
-  - "[[_Standards/WikiData/WD~magnetic_field_strength,28123]]"
-  - "[[../../../../../WikiData/WD~magnetic_flux_density,30204]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-OmegaWiki_Defined_Meaning: "983619"
+  - '[[_Standards/WikiData/WD~magnetism,3294789]]'
+  - '[[_Standards/WikiData/WD~magnetic_field_strength,28123]]'
+  - '[[../../../../../WikiData/WD~magnetic_flux_density,30204]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+OmegaWiki_Defined_Meaning: 983619
 video: http://commons.wikimedia.org/wiki/Special:FilePath/54.%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B5%D1%82%D0%BD%D0%BE%20%D0%BF%D0%BE%D0%BB%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B0%D0%B2%20%D1%81%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DipolMagnet.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%9A%E0%A7%8C%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%95%20%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A7%8D%E0%A6%B0.wav

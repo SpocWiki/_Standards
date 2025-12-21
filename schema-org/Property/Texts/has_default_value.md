@@ -4,22 +4,24 @@ aliases:
   - default_value
   - defaultValue
   - has_text_of_default_value
+  - has_default_value
+  - has default value
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - default
   - value
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_default_value
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

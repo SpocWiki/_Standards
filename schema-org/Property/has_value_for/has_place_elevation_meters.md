@@ -1,28 +1,29 @@
 ---
 aliases:
-- elevation_meters
-- elevation
-- has_place_elevation_meters
-- has_value_for_elevation_meters
-- "geo:alt"
+  - elevation_meters
+  - elevation
+  - has_place_elevation_meters
+  - has_value_for_elevation_meters
+  - geo:alt
+  - has place elevation meters
 confidential: public
 cssclasses:
-- Predicate
-- Quantity
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- elevation
-layout: 
-license: "CC BY-SA 4.0"
+  - elevation
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_elevation_meters
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_elevation_meters
 type: Predi_Quantity
 ---

@@ -2,19 +2,20 @@
 aliases:
   - Jade Emperor
   - Yudi
+  - Jade_Emperor
 has_id_wikidata: Q860434
-present_in_work: "[[_Standards/WikiData/WD~Journey_to_the_West,70784]]"
-child: "[[_Standards/WikiData/WD~Nüwa,641632]]"
-birthday: "[[_Standards/WikiData/WD~9th_day_of_the_1st_month_in_the_Chinese_calendar,838914]]"
+present_in_work: '[[_Standards/WikiData/WD~Journey_to_the_West,70784]]'
+child: '[[_Standards/WikiData/WD~Nüwa,641632]]'
+birthday: '[[_Standards/WikiData/WD~9th_day_of_the_1st_month_in_the_Chinese_calendar,838914]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Shangdi,2714875]]"
-  - "[[_Standards/WikiData/WD~God,190]]"
+  - '[[_Standards/WikiData/WD~Shangdi,2714875]]'
+  - '[[_Standards/WikiData/WD~God,190]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Taoist_deity,3027597]]"
-  - "[[_Standards/WikiData/WD~theonym,12160552]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-manifestation_of: "[[_Standards/WikiData/WD~supreme_deity,111813054]]"
-from_narrative_universe: "[[_Standards/WikiData/WD~Journey_to_the_West_universe,123655154]]"
+  - '[[_Standards/WikiData/WD~Taoist_deity,3027597]]'
+  - '[[_Standards/WikiData/WD~theonym,12160552]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+manifestation_of: '[[_Standards/WikiData/WD~supreme_deity,111813054]]'
+from_narrative_universe: '[[_Standards/WikiData/WD~Journey_to_the_West_universe,123655154]]'
 Commons_category: Jade Emperor
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Portraits%20of%20Jade%20Emperor%20and%20the%20Heavenly%20Kings.JPG
 native_label: 玉皇上帝

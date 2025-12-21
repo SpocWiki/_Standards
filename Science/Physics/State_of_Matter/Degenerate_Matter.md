@@ -2,9 +2,11 @@
 aliases:
   - Degenerate matter
   - Degenerierte Materie
+  - Degenerate_Matter
+  - Degenerate Matter
 has_id_wikidata: Q51368
-instance_of: "[[_Standards/WikiData/WD~state_of_matter,11430]]"
-subclass_of: "[[_Standards/WikiData/WD~matter,35758]]"
+instance_of: '[[_Standards/WikiData/WD~state_of_matter,11430]]'
+subclass_of: '[[_Standards/WikiData/WD~matter,35758]]'
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "DegenerateMatter"]
 ---
 

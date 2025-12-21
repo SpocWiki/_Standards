@@ -1,43 +1,45 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Brand
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: 3m26qR
-  name: AggregateRating
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Rating/AggregateRating')"
-  type: MultiFile
-  path: ''
-- id: MU2HDl
-  name: Logo
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"
-  type: MultiFile
-  path: ''
-- id: rzYza0
-  name: Review
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Review')"
-  type: MultiFile
-  path: ''
-- id: rJitP5
-  name: Slogan
-  options: {}
-  type: Input
-  path: ''
+  - id: 3m26qR
+    name: AggregateRating
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Rating/AggregateRating')
+    type: MultiFile
+    path: ''
+  - id: MU2HDl
+    name: Logo
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
+    type: MultiFile
+    path: ''
+  - id: rzYza0
+    name: Review
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+    type: MultiFile
+    path: ''
+  - id: rJitP5
+    name: Slogan
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Brand
-- class/Thing/Intangible/Brand
-- is_a_/Brand
-- schema-org/Brand
+  - class/Brand
+  - class/Thing/Intangible/Brand
+  - is_a_/Brand
+  - schema-org/Brand
 tags:
-- class/FileClass
-- class/Brand
-- is_a_/Brand
-- class/Thing/Intangible/Brand
+  - class/FileClass
+  - class/Brand
+  - is_a_/Brand
+  - class/Thing/Intangible/Brand
 version: 2.0
 ---
 

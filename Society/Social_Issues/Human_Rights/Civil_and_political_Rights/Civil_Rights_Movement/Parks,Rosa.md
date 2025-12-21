@@ -4,62 +4,63 @@ aliases:
   - Rosa Parks
   - Parks
   - Rosa_Parks
+  - Parks,Rosa
 has_id_wikidata: Q41921
-place_of_birth: "[[_Standards/WikiData/WD~Tuskegee,79718]]"
-medical_condition: "[[_Standards/WikiData/WD~dementia,83030]]"
+place_of_birth: '[[_Standards/WikiData/WD~Tuskegee,79718]]'
+medical_condition: '[[_Standards/WikiData/WD~dementia,83030]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~civil_and_political_rights,191600]]"
-  - "[[_Standards/WikiData/WD~activism,203764]]"
-  - "[[_Standards/WikiData/WD~civil_rights_movement,13406660]]"
-  - "[[_Standards/WikiData/WD~civil_rights,25447176]]"
-  - "[[_Standards/WikiData/WD~racial_segregation,59816]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~United_Methodist_Church,329646]]"
+  - '[[_Standards/WikiData/WD~civil_and_political_rights,191600]]'
+  - '[[_Standards/WikiData/WD~activism,203764]]'
+  - '[[_Standards/WikiData/WD~civil_rights_movement,13406660]]'
+  - '[[_Standards/WikiData/WD~civil_rights,25447176]]'
+  - '[[_Standards/WikiData/WD~racial_segregation,59816]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~United_Methodist_Church,329646]]'
 occupation:
-  - "[[_Standards/WikiData/WD~public_figure,662729]]"
-  - "[[_Standards/WikiData/WD~civil_rights_advocate,1021386]]"
-  - "[[_Standards/WikiData/WD~human_rights_activist,1476215]]"
-  - "[[_Standards/WikiData/WD~political_activist,11499147]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
+  - '[[_Standards/WikiData/WD~public_figure,662729]]'
+  - '[[_Standards/WikiData/WD~civil_rights_advocate,1021386]]'
+  - '[[_Standards/WikiData/WD~human_rights_activist,1476215]]'
+  - '[[_Standards/WikiData/WD~political_activist,11499147]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]"
+  - '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
   - "[[_Standards/WikiData/WD~National_Women's_Hall_of_Fame,1967852]]"
-  - "[[_Standards/WikiData/WD~Spingarn_Medal,1994926]]"
+  - '[[_Standards/WikiData/WD~Spingarn_Medal,1994926]]'
   - "[[_Standards/WikiData/WD~Alabama_Women's_Hall_of_Fame,4705361]]"
-  - "[[_Standards/WikiData/WD~Ellis_Island_Medal_of_Honor,5365910]]"
+  - '[[_Standards/WikiData/WD~Ellis_Island_Medal_of_Honor,5365910]]'
   - "[[_Standards/WikiData/WD~Michigan_Women's_Hall_of_Fame,6837811]]"
-  - "[[_Standards/WikiData/WD~NAACP_Image_Award_for_Outstanding_Supporting_Actress_in_a_Drama_Series,6952071]]"
+  - '[[_Standards/WikiData/WD~NAACP_Image_Award_for_Outstanding_Supporting_Actress_in_a_Drama_Series,6952071]]'
   - "[[_Standards/WikiData/WD~Women's_Caucus_for_Art_Lifetime_Achievement_Award,17019319]]"
-  - "[[_Standards/WikiData/WD~Candace_Award,27851929]]"
-  - "[[_Standards/WikiData/WD~Golden_Plate_Award,28663097]]"
-  - "[[_Standards/WikiData/WD~International_Freedom_Conductor_Award,28663129]]"
-  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
-educated_at: "[[_Standards/WikiData/WD~Alabama_State_College,941524]]"
+  - '[[_Standards/WikiData/WD~Candace_Award,27851929]]'
+  - '[[_Standards/WikiData/WD~Golden_Plate_Award,28663097]]'
+  - '[[_Standards/WikiData/WD~International_Freedom_Conductor_Award,28663129]]'
+  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+educated_at: '[[_Standards/WikiData/WD~Alabama_State_College,941524]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Rosa,1640276]]"
-  - "[[_Standards/WikiData/WD~Louise,3215140]]"
-member_of: "[[_Standards/WikiData/WD~Alpha_Kappa_Alpha,3308284]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
+  - '[[_Standards/WikiData/WD~Rosa,1640276]]'
+  - '[[_Standards/WikiData/WD~Louise,3215140]]'
+member_of: '[[_Standards/WikiData/WD~Alpha_Kappa_Alpha,3308284]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 family_name:
-  - "[[_Standards/WikiData/WD~McCauley,6800243]]"
-  - "[[_Standards/WikiData/WD~Parks,27237735]]"
-place_of_burial: "[[_Standards/WikiData/WD~Woodlawn_Cemetery,8033008]]"
+  - '[[_Standards/WikiData/WD~McCauley,6800243]]'
+  - '[[_Standards/WikiData/WD~Parks,27237735]]'
+place_of_burial: '[[_Standards/WikiData/WD~Woodlawn_Cemetery,8033008]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
-  - "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
+  - '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+  - '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Notable_Black_American_Women,105958972]]"
-  - "[[_Standards/WikiData/WD~Wegbereiterinnen,124097894]]"
-  - "[[_Standards/WikiData/WD~The_Westminster_Handbook_to_Women_in_American_Religious_History,136651584]]"
-spouse: "[[_Standards/WikiData/WD~Raymond_Parks,108664219]]"
-owner_of: "[[_Standards/WikiData/WD~Q128483103,128483103]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-residence: "[[_Standards/WikiData/WD~Detroit,12439]]"
-place_of_death: "[[_Standards/WikiData/WD~Detroit,12439]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-significant_event: "[[_Standards/WikiData/WD~civil_disobedience,47217]]"
-ethnic_group: "[[_Standards/WikiData/WD~African_Americans,49085]]"
+  - '[[_Standards/WikiData/WD~Notable_Black_American_Women,105958972]]'
+  - '[[_Standards/WikiData/WD~Wegbereiterinnen,124097894]]'
+  - '[[_Standards/WikiData/WD~The_Westminster_Handbook_to_Women_in_American_Religious_History,136651584]]'
+spouse: '[[_Standards/WikiData/WD~Raymond_Parks,108664219]]'
+owner_of: '[[_Standards/WikiData/WD~Q128483103,128483103]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+residence: '[[_Standards/WikiData/WD~Detroit,12439]]'
+place_of_death: '[[_Standards/WikiData/WD~Detroit,12439]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+significant_event: '[[_Standards/WikiData/WD~civil_disobedience,47217]]'
+ethnic_group: '[[_Standards/WikiData/WD~African_Americans,49085]]'
 Commons_gallery: Rosa Parks
 Commons_category: Rosa Parks
 date_of_death: 2005-10-24T00:00:00Z
@@ -69,9 +70,9 @@ spoken_text_audio:
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Parks%201997.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Parks%20Signature.svg
 ISNI:
-  - "0000000121227464"
-  - "0000000368638433"
-U_S_National_Archives_Identifier: "10571886"
+  - 0000000121227464
+  - 0000000368638433
+U_S_National_Archives_Identifier: 10571886
 Google_Doodle: 55th-anniversary-rosa-parks-refuses-to-move
 Libris_URI: tr58gpcc5bmrpw6
 name_in_kana: ローザ・パークス

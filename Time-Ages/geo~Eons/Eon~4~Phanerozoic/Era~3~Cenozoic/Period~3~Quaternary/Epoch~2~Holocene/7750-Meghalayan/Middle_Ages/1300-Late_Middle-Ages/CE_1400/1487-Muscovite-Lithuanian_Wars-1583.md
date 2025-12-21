@@ -4,15 +4,17 @@ aliases:
   - Russo-Lithuanian Wars
   - Muscovite Wars
   - Lithuanian Wars
+  - 1487-Muscovite-Lithuanian_Wars-1583
+  - 1487-Muscovite-Lithuanian Wars-1583
 has_id_wikidata: Q1567698
 participant:
-  - "[[_Standards/WikiData/WD~Grand_Principality_of_Moscow,170770]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Poland,1649871]]"
-  - "[[_Standards/WikiData/WD~Grand_Duchy_of_Lithuania,49683]]"
+  - '[[_Standards/WikiData/WD~Grand_Principality_of_Moscow,170770]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Poland,1649871]]'
+  - '[[_Standards/WikiData/WD~Grand_Duchy_of_Lithuania,49683]]'
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-instance_of: "[[_Standards/WikiData/WD~series_of_wars,104212151]]"
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[_Standards/WikiData/WD~series_of_wars,104212151]]'
 start_time: 1487-01-01T00:00:00Z
 end_time: 1583-01-01T00:00:00Z
 Universal_Decimal_Classification: 355.48(47:474.5)

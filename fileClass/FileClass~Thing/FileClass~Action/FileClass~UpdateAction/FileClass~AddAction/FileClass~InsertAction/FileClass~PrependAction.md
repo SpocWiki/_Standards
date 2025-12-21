@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PrependAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PrependAction
-- class/Thing/Action/UpdateAction/AddAction/InsertAction/PrependAction
-- is_a_/PrependAction
-- schema-org/PrependAction
+  - class/PrependAction
+  - class/Thing/Action/UpdateAction/AddAction/InsertAction/PrependAction
+  - is_a_/PrependAction
+  - schema-org/PrependAction
 tags:
-- class/FileClass
-- class/PrependAction
-- is_a_/PrependAction
-- class/Thing/Action/UpdateAction/AddAction/InsertAction/PrependAction
+  - class/FileClass
+  - class/PrependAction
+  - is_a_/PrependAction
+  - class/Thing/Action/UpdateAction/AddAction/InsertAction/PrependAction
 version: 2.0
 ---
 

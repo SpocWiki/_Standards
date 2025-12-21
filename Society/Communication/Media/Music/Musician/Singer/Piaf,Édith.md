@@ -4,84 +4,85 @@ aliases:
   - Édith Piaf
   - Edith Piaf
   - Édith Giovanna Gassion
+  - Piaf,Édith
 has_id_wikidata: Q1631
 award_received:
-  - "[[_Standards/WikiData/WD~Grammy_Hall_of_Fame,81180]]"
-  - "[[_Standards/WikiData/WD~gold_record,521371]]"
-  - "[[_Standards/WikiData/WD~platinum_record,3194212]]"
-  - "[[_Standards/WikiData/WD~silver_record,5400477]]"
+  - '[[_Standards/WikiData/WD~Grammy_Hall_of_Fame,81180]]'
+  - '[[_Standards/WikiData/WD~gold_record,521371]]'
+  - '[[_Standards/WikiData/WD~platinum_record,3194212]]'
+  - '[[_Standards/WikiData/WD~silver_record,5400477]]'
 significant_person:
-  - "[[_Standards/WikiData/WD~Jean_Cocteau,83158]]"
-  - "[[_Standards/WikiData/WD~Marguerite_Monnot,293092]]"
-  - "[[_Standards/WikiData/WD~Louis_Leplée,614107]]"
-  - "[[_Standards/WikiData/WD~Simone_Berteaut,2288049]]"
-  - "[[_Standards/WikiData/WD~Raymond_Asso,2552540]]"
+  - '[[_Standards/WikiData/WD~Jean_Cocteau,83158]]'
+  - '[[_Standards/WikiData/WD~Marguerite_Monnot,293092]]'
+  - '[[_Standards/WikiData/WD~Louis_Leplée,614107]]'
+  - '[[_Standards/WikiData/WD~Simone_Berteaut,2288049]]'
+  - '[[_Standards/WikiData/WD~Raymond_Asso,2552540]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Yves_Montand,106057]]"
-  - "[[_Standards/WikiData/WD~Marcel_Cerdan,347201]]"
-  - "[[_Standards/WikiData/WD~Louis_Gérardin,448325]]"
+  - '[[_Standards/WikiData/WD~Yves_Montand,106057]]'
+  - '[[_Standards/WikiData/WD~Marcel_Cerdan,347201]]'
+  - '[[_Standards/WikiData/WD~Louis_Gérardin,448325]]'
   - http://www.wikidata.org/.well-known/genid/48d058a85e28109ee9770895beab19f5
 record_label:
-  - "[[_Standards/WikiData/WD~Polydor,155152]]"
-  - "[[_Standards/WikiData/WD~Pathé_Marconi,26203208]]"
-place_of_death: "[[_Standards/WikiData/WD~Grasse,173705]]"
+  - '[[_Standards/WikiData/WD~Polydor,155152]]'
+  - '[[_Standards/WikiData/WD~Pathé_Marconi,26203208]]'
+place_of_death: '[[_Standards/WikiData/WD~Grasse,173705]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~songwriter,753110]]"
-  - "[[_Standards/WikiData/WD~street_artist,2914170]]"
-  - "[[_Standards/WikiData/WD~chansonnier,13391399]]"
-  - "[[_Standards/WikiData/WD~recording_artist,55960555]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~songwriter,753110]]'
+  - '[[_Standards/WikiData/WD~street_artist,2914170]]'
+  - '[[_Standards/WikiData/WD~chansonnier,13391399]]'
+  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
 medical_condition:
-  - "[[_Standards/WikiData/WD~rheumatoid_arthritis,187255]]"
-  - "[[_Standards/WikiData/WD~keratitis,757838]]"
-  - "[[_Standards/WikiData/WD~blindness,10874]]"
-significant_event: "[[_Standards/WikiData/WD~funeral,201676]]"
-present_in_work: "[[_Standards/WikiData/WD~La_Vie_en_Rose,236217]]"
+  - '[[_Standards/WikiData/WD~rheumatoid_arthritis,187255]]'
+  - '[[_Standards/WikiData/WD~keratitis,757838]]'
+  - '[[_Standards/WikiData/WD~blindness,10874]]'
+significant_event: '[[_Standards/WikiData/WD~funeral,201676]]'
+present_in_work: '[[_Standards/WikiData/WD~La_Vie_en_Rose,236217]]'
 genre:
-  - "[[_Standards/WikiData/WD~chanson,1062400]]"
-  - "[[_Standards/WikiData/WD~chanson_réaliste,2956171]]"
+  - '[[_Standards/WikiData/WD~chanson,1062400]]'
+  - '[[_Standards/WikiData/WD~chanson_réaliste,2956171]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Théophanis_Lamboukas,1393800]]"
-  - "[[_Standards/WikiData/WD~Jacques_Pills,1678088]]"
-member_of: "[[_Standards/WikiData/WD~Ancient_Mystical_Order_Rosae_Crucis,1759864]]"
-copyright_representative: "[[_Standards/WikiData/WD~SACEM,1806936]]"
-cause_of_death: "[[_Standards/WikiData/WD~internal_bleeding,2361887]]"
+  - '[[_Standards/WikiData/WD~Théophanis_Lamboukas,1393800]]'
+  - '[[_Standards/WikiData/WD~Jacques_Pills,1678088]]'
+member_of: '[[_Standards/WikiData/WD~Ancient_Mystical_Order_Rosae_Crucis,1759864]]'
+copyright_representative: '[[_Standards/WikiData/WD~SACEM,1806936]]'
+cause_of_death: '[[_Standards/WikiData/WD~internal_bleeding,2361887]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Milord,2608479]]"
-  - "[[_Standards/WikiData/WD~La_Vie_en_rose,11986]]"
-  - "[[_Standards/WikiData/WD~Non,_je_ne_regrette_rien,11988]]"
-mother: "[[_Standards/WikiData/WD~Line_Marsa,3241476]]"
-father: "[[_Standards/WikiData/WD~Louis_Gassion,3262015]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+  - '[[_Standards/WikiData/WD~Milord,2608479]]'
+  - '[[_Standards/WikiData/WD~La_Vie_en_rose,11986]]'
+  - '[[_Standards/WikiData/WD~Non,_je_ne_regrette_rien,11988]]'
+mother: '[[_Standards/WikiData/WD~Line_Marsa,3241476]]'
+father: '[[_Standards/WikiData/WD~Louis_Gassion,3262015]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Giovanna,3806969]]"
-  - "[[_Standards/WikiData/WD~Édith,18188068]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-discography: "[[_Standards/WikiData/WD~Édith_Piaf_discography,11903317]]"
-instrument: "[[_Standards/WikiData/WD~voice,17172850]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Édith_Piaf,18998338]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-family_name: "[[_Standards/WikiData/WD~Gassion,99889250]]"
+  - '[[_Standards/WikiData/WD~Giovanna,3806969]]'
+  - '[[_Standards/WikiData/WD~Édith,18188068]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+discography: '[[_Standards/WikiData/WD~Édith_Piaf_discography,11903317]]'
+instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Édith_Piaf,18998338]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+family_name: '[[_Standards/WikiData/WD~Gassion,99889250]]'
 place_of_burial:
-  - "[[_Standards/WikiData/WD~Grave_of_Gassion_Piaf,112336139]]"
-  - "[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311]]"
-child: "[[_Standards/WikiData/WD~Marcelle_Dupont,117037882]]"
+  - '[[_Standards/WikiData/WD~Grave_of_Gassion_Piaf,112336139]]'
+  - '[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311]]'
+child: '[[_Standards/WikiData/WD~Marcelle_Dupont,117037882]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 residence:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Paris,90]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-place_of_birth: "[[_Standards/WikiData/WD~Paris,90]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-native_language: "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Paris,90]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+place_of_birth: '[[_Standards/WikiData/WD~Paris,90]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+native_language: '[[_Standards/WikiData/WD~French,150]]'
 number_of_children: 1
-voice_type: "[[_Standards/WikiData/WD~contralto,37137]]"
+voice_type: '[[_Standards/WikiData/WD~contralto,37137]]'
 height: 147
 Europeana_entity: agent/base/57562
 Libris_URI: c9prvfvw30z832z
@@ -96,7 +97,7 @@ Commons_gallery: Édith Piaf
 pseudonym: Édith Piaf
 Commons_category: Édith Piaf
 ISNI:
-  - "0000000368643144"
+  - 0000000368643144
   - 000000012136707X
 date_of_death: 1963-10-10T00:00:00Z
 work_period_end_: 1963-01-01T00:00:00Z
@@ -105,8 +106,8 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Edith%20Piaf%20Sig
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Piaf%20Harcourt%201946%202.jpg
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Plaque%20%C3%89dith%20Piaf%2C%2067%20boulevard%20Lannes%2C%20Paris%2016.jpg
 IPI_name_number:
-  - "00011475025"
-  - "00024250523"
+  - 00011475025
+  - 00024250523
 ---
 
 # [[Piaf,Édith]] 

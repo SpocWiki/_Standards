@@ -1,42 +1,44 @@
 ---
-excludes: 
+aliases:
+  - FileClass~OrderItem
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: W02EK2
-  name: OrderDelivery
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/ParcelDelivery')"
-  type: MultiFile
-  path: ''
-- id: Ap1IVZ
-  name: OrderItemNumber
-  options: {}
-  type: Input
-  path: ''
-- id: n9qYlW
-  name: OrderQuantity
-  options: {}
-  type: Number
-  path: ''
-- id: 69xAVr
-  name: OrderedItem
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/OrderItem')"
-  type: MultiFile
-  path: ''
+  - id: W02EK2
+    name: OrderDelivery
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ParcelDelivery')
+    type: MultiFile
+    path: ''
+  - id: Ap1IVZ
+    name: OrderItemNumber
+    options: {}
+    type: Input
+    path: ''
+  - id: n9qYlW
+    name: OrderQuantity
+    options: {}
+    type: Number
+    path: ''
+  - id: 69xAVr
+    name: OrderedItem
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/OrderItem')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/OrderItem
-- class/Thing/Intangible/OrderItem
-- is_an_/OrderItem
-- schema-org/OrderItem
+  - class/OrderItem
+  - class/Thing/Intangible/OrderItem
+  - is_an_/OrderItem
+  - schema-org/OrderItem
 tags:
-- class/FileClass
-- class/OrderItem
-- '#is_an_/OrderItem'
-- class/Thing/Intangible/OrderItem
+  - class/FileClass
+  - class/OrderItem
+  - '#is_an_/OrderItem'
+  - class/Thing/Intangible/OrderItem
 version: 2.0
 ---
 

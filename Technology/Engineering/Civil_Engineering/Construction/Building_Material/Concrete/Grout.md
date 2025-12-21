@@ -2,6 +2,7 @@
 aliases:
   - Fließmörtel
   - Fugenmörtel
+  - Grout
 has_id_wikidata: Q4580104
 ---
 

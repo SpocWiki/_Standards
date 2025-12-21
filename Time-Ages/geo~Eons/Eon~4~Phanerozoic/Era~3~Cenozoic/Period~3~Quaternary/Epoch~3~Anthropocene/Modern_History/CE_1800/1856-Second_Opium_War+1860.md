@@ -1,17 +1,19 @@
 ---
 aliases:
-  - "Second Opium War (simplified Chinese: 第二次鸦片战争; traditional Chinese: 第二次鴉片戰爭), also known as the Second Anglo-Chinese War or Arrow War"
+  - 'Second Opium War (simplified Chinese: 第二次鸦片战争; traditional Chinese: 第二次鴉片戰爭), also known as the Second Anglo-Chinese War or Arrow War'
+  - 1856-Second_Opium_War+1860
+  - 1856-Second Opium War+1860
 has_id_wikidata: Q418151
 participant:
-  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 end_time: 1860-01-01T00:00:00Z
 point_in_time: 1856-10-08T00:00:00Z
 start_time: 1856-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Second%20Opium%20War-guangzhou.jpg
 Commons_category: Second Opium War
 ---

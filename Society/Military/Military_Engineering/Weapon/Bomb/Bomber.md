@@ -1,17 +1,19 @@
 ---
+aliases:
+  - Bomber
 has_id_wikidata: Q170877
-has_use: "[[_Standards/WikiData/WD~airstrike,2380335]]"
-instance_of: "[[_Standards/WikiData/WD~aircraft_functional_class,20027953]]"
-subclass_of: "[[_Standards/WikiData/WD~attack_airplane,65924079]]"
+has_use: '[[_Standards/WikiData/WD~airstrike,2380335]]'
+instance_of: '[[_Standards/WikiData/WD~aircraft_functional_class,20027953]]'
+subclass_of: '[[_Standards/WikiData/WD~attack_airplane,65924079]]'
 military_designation:
   - B
   - VB
-Nomenclature_for_Museum_Cataloging: "11706"
+Nomenclature_for_Museum_Cataloging: 11706
 image: http://commons.wikimedia.org/wiki/Special:FilePath/B-1B%20over%20the%20pacific%20ocean.jpg
-MIL_STD_2525_Symbol_Identification_Code: "10010100001101030000"
-UNSPSC_Code: "25131701"
-Common_Procurement_Vocabulary_code: "35611300"
-P8189: "987007283109605171"
+MIL_STD_2525_Symbol_Identification_Code: 10010100001101030000
+UNSPSC_Code: 25131701
+Common_Procurement_Vocabulary_code: 35611300
+P8189: 987007283109605171
 Commons_category: Bomber aircraft
 ---
 # [[Bomber]] 

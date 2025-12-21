@@ -4,30 +4,31 @@ aliases:
   - Евгений Онегин, роман в стихах
   - Yevgeniy Onegin, roman v stikhakh
   - Eugene Onegin
+  - Eugene_Onegin
 has_id_wikidata: Q50948
-illustrator: "[[_Standards/WikiData/WD~Ilya_Repin,172911]]"
-genre: "[[_Standards/WikiData/WD~verse_novel,948970]]"
-dedicated_to: "[[_Standards/WikiData/WD~Pyotr_Pletnyov,2993843]]"
+illustrator: '[[_Standards/WikiData/WD~Ilya_Repin,172911]]'
+genre: '[[_Standards/WikiData/WD~verse_novel,948970]]'
+dedicated_to: '[[_Standards/WikiData/WD~Pyotr_Pletnyov,2993843]]'
 characters:
-  - "[[_Standards/WikiData/WD~Tatyana_Larina,4452680]]"
-  - "[[_Standards/WikiData/WD~Olga,55011438]]"
-  - "[[_Standards/WikiData/WD~Vladimir_Lensky,55011468]]"
-  - "[[_Standards/WikiData/WD~Eugene_Onegin,63612224]]"
-  - "[[_Standards/WikiData/WD~Q105194669,105194669]]"
-instance_of: "[[_Standards/WikiData/WD~literary_work,7725634]]"
-list_of_characters: "[[_Standards/WikiData/WD~list_of_Eugene_Onegin_characters,16700928]]"
+  - '[[_Standards/WikiData/WD~Tatyana_Larina,4452680]]'
+  - '[[_Standards/WikiData/WD~Olga,55011438]]'
+  - '[[_Standards/WikiData/WD~Vladimir_Lensky,55011468]]'
+  - '[[_Standards/WikiData/WD~Eugene_Onegin,63612224]]'
+  - '[[_Standards/WikiData/WD~Q105194669,105194669]]'
+instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
+list_of_characters: '[[_Standards/WikiData/WD~list_of_Eugene_Onegin_characters,16700928]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Q111575311,111575311]]"
-  - "[[_Standards/WikiData/WD~Q112746391,112746391]]"
-  - "[[_Standards/WikiData/WD~Q112750668,112750668]]"
-author: "[[_Standards/WikiData/WD~Alexander_Pushkin,7200]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~Russian,7737]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~novel,8261]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-country_of_origin: "[[_Standards/WikiData/WD~Russia,159]]"
+  - '[[_Standards/WikiData/WD~Q111575311,111575311]]'
+  - '[[_Standards/WikiData/WD~Q112746391,112746391]]'
+  - '[[_Standards/WikiData/WD~Q112750668,112750668]]'
+author: '[[_Standards/WikiData/WD~Alexander_Pushkin,7200]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Russian,7737]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~novel,8261]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+country_of_origin: '[[_Standards/WikiData/WD~Russia,159]]'
 number_of_parts_of_this_work: 8
-translator: "[[_Standards/WikiData/WD~Vladimir_Nabokov,36591]]"
-derivative_work: "[[_Standards/WikiData/WD~Eugene_Onegin,50956]]"
+translator: '[[_Standards/WikiData/WD~Vladimir_Nabokov,36591]]'
+derivative_work: '[[_Standards/WikiData/WD~Eugene_Onegin,50956]]'
 publication_date: 1825-01-01T00:00:00Z
 inception: 1823-01-01T00:00:00Z
 title: Евгений Онегин

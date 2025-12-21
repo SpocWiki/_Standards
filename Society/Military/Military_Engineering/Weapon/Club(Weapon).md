@@ -10,6 +10,7 @@ aliases:
   - nightstick
   - impact weapon
   - Schläger
+  - Club(Weapon)
 has_id_wikidata: Q392326
 ---
 

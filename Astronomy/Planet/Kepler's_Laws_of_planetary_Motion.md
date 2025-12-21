@@ -2,16 +2,18 @@
 aliases:
   - Kepler's laws
   - Kepler laws
+  - Kepler's_Laws_of_planetary_Motion
+  - Kepler's Laws of planetary Motion
 has_id_wikidata: Q83219
-instance_of: "[[_Standards/WikiData/WD~physical_law,214070]]"
+instance_of: '[[_Standards/WikiData/WD~physical_law,214070]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 has_part_s_:
   - "[[_Standards/WikiData/WD~Kepler's_first_law,122928282]]"
   - "[[_Standards/WikiData/WD~Kepler's_second_law,122928303]]"
   - "[[_Standards/WikiData/WD~Kepler's_third_law,122928319]]"
-named_after: "[[_Standards/WikiData/WD~Johannes_Kepler,8963]]"
+named_after: '[[_Standards/WikiData/WD~Johannes_Kepler,8963]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Circular%20orbit%20of%20planet%20with%20%28eccentricty%20of%200.0%29.gif
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ellipitical%20orbit%20of%20planet%20with%20an%20eccentricty%20of%200.2.gif

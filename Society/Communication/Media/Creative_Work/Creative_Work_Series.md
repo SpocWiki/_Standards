@@ -4,20 +4,22 @@ aliases:
   - creative_work_series
   - CreativeWorkSeries
   - is_a_creative_work_series
+  - Creative_Work_Series
+  - Creative Work Series
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - creative_work_series
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_creative_work_series Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

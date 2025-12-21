@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~SkiResort
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/SkiResort
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort/ResortAndSportsActivityLocation/SkiResort
-- is_a_/SkiResort
-- schema-org/SkiResort
+  - class/SkiResort
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort/ResortAndSportsActivityLocation/SkiResort
+  - is_a_/SkiResort
+  - schema-org/SkiResort
 tags:
-- class/FileClass
-- class/SkiResort
-- is_a_/SkiResort
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort/ResortAndSportsActivityLocation/SkiResort
+  - class/FileClass
+  - class/SkiResort
+  - is_a_/SkiResort
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort/ResortAndSportsActivityLocation/SkiResort
 version: 2.0
 ---
 

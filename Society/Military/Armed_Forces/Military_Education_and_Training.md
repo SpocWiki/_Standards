@@ -1,15 +1,17 @@
 ---
 aliases:
   - Military education and training
+  - Military_Education_and_Training
+  - Military Education and Training
 has_id_wikidata: Q2351849
 subclass_of:
-  - "[[_Standards/WikiData/WD~training,918385]]"
-  - "[[_Standards/WikiData/WD~education,8434]]"
-described_by_source: "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-practiced_by: "[[_Standards/WikiData/WD~directing_staff,5280423]]"
-different_from: "[[_Standards/WikiData/WD~military_training,10894999]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~military_training,10894999]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
+  - '[[_Standards/WikiData/WD~training,918385]]'
+  - '[[_Standards/WikiData/WD~education,8434]]'
+described_by_source: '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+practiced_by: '[[_Standards/WikiData/WD~directing_staff,5280423]]'
+different_from: '[[_Standards/WikiData/WD~military_training,10894999]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~military_training,10894999]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
 Iconclass_notation: 45B2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/15th%20MEU%20Marines%20zero%20in%20on%20targets%20150323-M-GC438-073.jpg
 Commons_category: Military education and training

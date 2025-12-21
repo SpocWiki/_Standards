@@ -1,29 +1,30 @@
 ---
 aliases:
   - Ontologie
+  - Ontology(Philosophy)
 has_id_wikidata: Q44325
 different_from:
-  - "[[_Standards/WikiData/WD~anthology,105420]]"
-  - "[[_Standards/WikiData/WD~ontology,324254]]"
-  - "[[_Standards/WikiData/WD~ontology,347424]]"
+  - '[[_Standards/WikiData/WD~anthology,105420]]'
+  - '[[_Standards/WikiData/WD~ontology,324254]]'
+  - '[[_Standards/WikiData/WD~ontology,347424]]'
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~being,203872]]"
-  - "[[_Standards/WikiData/WD~becoming,461674]]"
-  - "[[_Standards/WikiData/WD~existence,468777]]"
-  - "[[_Standards/WikiData/WD~reality,9510]]"
+  - '[[_Standards/WikiData/WD~being,203872]]'
+  - '[[_Standards/WikiData/WD~becoming,461674]]'
+  - '[[_Standards/WikiData/WD~existence,468777]]'
+  - '[[_Standards/WikiData/WD~reality,9510]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-practiced_by: "[[_Standards/WikiData/WD~ontologist,16743936]]"
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~ontologist,16743936]]'
 part_of:
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~metaphysics,35277]]"
-Dewey_Decimal_Classification: "111"
+  - '[[_Standards/WikiData/WD~philosophy,5891]]'
+  - '[[_Standards/WikiData/WD~metaphysics,35277]]'
+Dewey_Decimal_Classification: 111
 BHCL_UUID: 20964cc2-7531-4a03-a41f-fe83c4d16f19
 PhilPapers_topic: ontology
 Commons_category: Ontology

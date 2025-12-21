@@ -4,6 +4,7 @@ aliases:
   - Richard Phillips Feynman
   - Richard Feynman
   - Feynman
+  - Feynman,Richard
 has_id_wikidata: Q39246
 ---
 

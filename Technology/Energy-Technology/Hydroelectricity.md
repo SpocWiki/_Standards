@@ -3,20 +3,21 @@ aliases:
   - Wasserkraft
   - hydroelectric power
   - hydropower
+  - Hydroelectricity
 has_id_wikidata: Q80638
-different_from: "[[_Standards/WikiData/WD~hydropower,170196]]"
+different_from: '[[_Standards/WikiData/WD~hydropower,170196]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~hydropower,170196]]"
-  - "[[_Standards/WikiData/WD~sustainable_energy,1962383]]"
-  - "[[_Standards/WikiData/WD~renewable_energy,12705]]"
+  - '[[_Standards/WikiData/WD~hydropower,170196]]'
+  - '[[_Standards/WikiData/WD~sustainable_energy,1962383]]'
+  - '[[_Standards/WikiData/WD~renewable_energy,12705]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~electricity_generation,383973]]"
-part_of: "[[_Standards/WikiData/WD~energy_industry,2151621]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+  - '[[_Standards/WikiData/WD~industry,268592]]'
+  - '[[_Standards/WikiData/WD~electricity_generation,383973]]'
+part_of: '[[_Standards/WikiData/WD~energy_industry,2151621]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 carbon_footprint: 24
-OmegaWiki_Defined_Meaning: "1113042"
+OmegaWiki_Defined_Meaning: 1113042
 Commons_category: Hydroelectricity
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ThreeGorgesDam-China2009.jpg
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/GIDROENERGETIKA.html

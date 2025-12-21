@@ -4,20 +4,22 @@ aliases:
   - shipping_delivery_time
   - ShippingDeliveryTime
   - is_a_shipping_delivery_time
+  - Shipping_Delivery_Time
+  - Shipping Delivery Time
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - shipping_delivery_time
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_shipping_delivery_time Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

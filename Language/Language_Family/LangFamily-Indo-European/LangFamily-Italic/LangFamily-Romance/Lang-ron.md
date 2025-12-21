@@ -2,8 +2,9 @@
 aliases:
   - Romanian language
   - Romanian
-  - limba română 
+  - limba română
   - românește
+  - Lang-ron
 ---
 
 # [[Lang-ron]] 

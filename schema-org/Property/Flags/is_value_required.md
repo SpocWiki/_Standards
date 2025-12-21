@@ -4,21 +4,22 @@ aliases:
   - value_required
   - valueRequired
   - is_value_required
+  - is value required
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - value_required
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_value_required
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

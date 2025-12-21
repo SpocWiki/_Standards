@@ -4,20 +4,22 @@ aliases:
   - special_announcement
   - SpecialAnnouncement
   - is_a_special_announcement
+  - Special_Announcement
+  - Special Announcement
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - special_announcement
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_special_announcement Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

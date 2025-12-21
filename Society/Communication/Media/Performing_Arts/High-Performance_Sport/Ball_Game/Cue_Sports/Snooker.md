@@ -2,24 +2,25 @@
 aliases:
   - English billiards
   - Russian pyramid
+  - Snooker
 has_id_wikidata: Q11015
 uses:
-  - "[[_Standards/WikiData/WD~cue_stick,593707]]"
-  - "[[_Standards/WikiData/WD~cue_ball,11982823]]"
-  - "[[_Standards/WikiData/WD~snooker_attachments,18434985]]"
-  - "[[_Standards/WikiData/WD~snooker_ball,55398354]]"
+  - '[[_Standards/WikiData/WD~cue_stick,593707]]'
+  - '[[_Standards/WikiData/WD~cue_ball,11982823]]'
+  - '[[_Standards/WikiData/WD~snooker_attachments,18434985]]'
+  - '[[_Standards/WikiData/WD~snooker_ball,55398354]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~game_of_skill,1368898]]"
-  - "[[_Standards/WikiData/WD~cue_sports,3341285]]"
+  - '[[_Standards/WikiData/WD~game_of_skill,1368898]]'
+  - '[[_Standards/WikiData/WD~cue_sports,3341285]]'
 authority:
-  - "[[_Standards/WikiData/WD~International_Billiards_and_Snooker_Federation,1666379]]"
-  - "[[_Standards/WikiData/WD~World_Professional_Billiards_and_Snooker_Association,2030665]]"
-instance_of: "[[_Standards/WikiData/WD~sports_discipline,2312410]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Neville_Francis_Fitzgerald_Chamberlain,2565047]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Snooker,8208917]]"
-practiced_by: "[[_Standards/WikiData/WD~snooker_player,17165321]]"
+  - '[[_Standards/WikiData/WD~International_Billiards_and_Snooker_Federation,1666379]]'
+  - '[[_Standards/WikiData/WD~World_Professional_Billiards_and_Snooker_Association,2030665]]'
+instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Neville_Francis_Fitzgerald_Chamberlain,2565047]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Snooker,8208917]]'
+practiced_by: '[[_Standards/WikiData/WD~snooker_player,17165321]]'
 social_media_followers: 47170
-OmegaWiki_Defined_Meaning: "622318"
+OmegaWiki_Defined_Meaning: 622318
 IMDb_keyword: snooker
 subreddit: snooker
 Commons_gallery: Snooker

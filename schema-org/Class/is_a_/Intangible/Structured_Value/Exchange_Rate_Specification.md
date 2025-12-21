@@ -4,20 +4,22 @@ aliases:
   - exchange_rate_specification
   - ExchangeRateSpecification
   - is_an_exchange_rate_specification
+  - Exchange_Rate_Specification
+  - Exchange Rate Specification
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - exchange_rate_specification
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_exchange_rate_specification Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

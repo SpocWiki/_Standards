@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Mali
+  - Malí
+  - مالي
+  - 马里
+  - Мали
+  - the Republic of Mali
+  - la República de Malí
+has_id_wikidata: Q912
 instance_of:
   - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
   - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
@@ -364,7 +373,6 @@ male_population:
 coordinates_of_southernmost_point: Point(-7.0499 10.1478)
 population: 20250833
 coordinate_location: Point(-4.0 17.0)
-has_id_wikidata: Q912
 location:
   - 12.65
   - -8
@@ -381,20 +389,12 @@ cssclasses:
   - Country
 publish: true
 title: Mali
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Mali
-  - Malí
-  - مالي
-  - 马里
-  - Мали
-  - the Republic of Mali
-  - la República de Malí
+publishDate: ""
+expiryDate: ""
 Languages:
   - fr-ML
   - bm

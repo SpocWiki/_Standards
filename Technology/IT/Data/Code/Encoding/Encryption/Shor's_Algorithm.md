@@ -2,13 +2,15 @@
 aliases:
   - Shor algorithm
   - Shor-algorithm
+  - Shor's_Algorithm
+  - Shor's Algorithm
 has_id_wikidata: Q940334
-named_after: "[[_Standards/WikiData/WD~Peter_Shor,370071]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Peter_Shor,370071]]"
+named_after: '[[_Standards/WikiData/WD~Peter_Shor,370071]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Peter_Shor,370071]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~quantum_algorithm,2623817]]"
-  - "[[_Standards/WikiData/WD~integer_factorization_algorithm,97940647]]"
-computes_solution_to: "[[_Standards/WikiData/WD~integer_factorization,4846249]]"
+  - '[[_Standards/WikiData/WD~quantum_algorithm,2623817]]'
+  - '[[_Standards/WikiData/WD~integer_factorization_algorithm,97940647]]'
+computes_solution_to: '[[_Standards/WikiData/WD~integer_factorization,4846249]]'
 time_of_discovery_or_invention: 1994-01-01T00:00:00Z
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Beno%C3%AEt%20Prieur-algorithme%20de%20Shor.wav
 ---

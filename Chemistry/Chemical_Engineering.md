@@ -2,30 +2,32 @@
 aliases:
   - Chemical_engineering
   - Chemical engineering
+  - Chemical_Engineering
+  - Chemical Engineering
 has_id_wikidata: Q83588
-uses: "[[_Standards/WikiData/WD~unit_operations_of_Chemical_Engineering,1420676]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~process_engineering,2144042]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_chemical_engineering,2900601]]"
+uses: '[[_Standards/WikiData/WD~unit_operations_of_Chemical_Engineering,1420676]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~process_engineering,2144042]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_chemical_engineering,2900601]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~branch_of_engineering,12015335]]"
-  - "[[_Standards/WikiData/WD~applied_science,28797]]"
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
+  - '[[_Standards/WikiData/WD~applied_science,28797]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~chemical_technologist,5090503]]"
-  - "[[_Standards/WikiData/WD~chemical_engineer,7888586]]"
+  - '[[_Standards/WikiData/WD~chemical_technologist,5090503]]'
+  - '[[_Standards/WikiData/WD~chemical_engineer,7888586]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Chemical_engineering,6872011]]"
-  - "[[_Standards/WikiData/WD~Template_Chemical_eng,11427155]]"
-subclass_of: "[[_Standards/WikiData/WD~engineering,11023]]"
-OmegaWiki_Defined_Meaning: "542"
-Dewey_Decimal_Classification: "660"
+  - '[[_Standards/WikiData/WD~Template_Chemical_engineering,6872011]]'
+  - '[[_Standards/WikiData/WD~Template_Chemical_eng,11427155]]'
+subclass_of: '[[_Standards/WikiData/WD~engineering,11023]]'
+OmegaWiki_Defined_Meaning: 542
+Dewey_Decimal_Classification: 660
 P10203:
-  - "1501"
-  - "1500"
-ISCO_88_occupation_class: "8131"
-U_S_National_Archives_Identifier: "10640211"
+  - 1501
+  - 1500
+ISCO_88_occupation_class: 8131
+U_S_National_Archives_Identifier: 10640211
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Colonne%20distillazione.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Chemengg.jpg

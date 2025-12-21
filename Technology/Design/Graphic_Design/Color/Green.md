@@ -1,24 +1,25 @@
 ---
 aliases:
   - Grün
+  - Green
 has_id_wikidata: Q3133
-instance_of: "[[_Standards/WikiData/WD~primary_color,166902]]"
+instance_of: '[[_Standards/WikiData/WD~primary_color,166902]]'
 symbolizes:
-  - "[[_Standards/WikiData/WD~hope,190507]]"
-  - "[[_Standards/WikiData/WD~Islam,432]]"
-  - "[[_Standards/WikiData/WD~spring,1312]]"
-  - "[[_Standards/WikiData/WD~Ireland,22890]]"
-described_by_source: "[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]"
-represents: "[[_Standards/WikiData/WD~Gaelic_culture,24527291]]"
-part_of: "[[_Standards/WikiData/WD~seven_prismatic_colors,43213808]]"
-follows: "[[_Standards/WikiData/WD~yellow,943]]"
+  - '[[_Standards/WikiData/WD~hope,190507]]'
+  - '[[_Standards/WikiData/WD~Islam,432]]'
+  - '[[_Standards/WikiData/WD~spring,1312]]'
+  - '[[_Standards/WikiData/WD~Ireland,22890]]'
+described_by_source: '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
+represents: '[[_Standards/WikiData/WD~Gaelic_culture,24527291]]'
+part_of: '[[_Standards/WikiData/WD~seven_prismatic_colors,43213808]]'
+follows: '[[_Standards/WikiData/WD~yellow,943]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~color,1075]]"
-  - "[[_Standards/WikiData/WD~light,9128]]"
-followed_by: "[[_Standards/WikiData/WD~blue,1088]]"
+  - '[[_Standards/WikiData/WD~color,1075]]'
+  - '[[_Standards/WikiData/WD~light,9128]]'
+followed_by: '[[_Standards/WikiData/WD~blue,1088]]'
 wavelength: 535
 frequency: 545000000000000
-OmegaWiki_Defined_Meaning: "6403"
+OmegaWiki_Defined_Meaning: 6403
 short_name: G
 Commons_gallery: Green
 Commons_category: Green
@@ -31,7 +32,7 @@ Iconclass_notation: 22C4(GREEN)
 sRGB_color_hex_triplet: 00FF00
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-verd-spreadthesign.ogv
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Groen%20%28kleur%29-article.ogg
-P8189: "987007540903005171"
+P8189: 987007540903005171
 subreddit: ColorGreen
 Wolfram_Language_entity_code:
   - Entity["Color", {"AutomobilePaint", {"BMW", "062", "Green"}}]

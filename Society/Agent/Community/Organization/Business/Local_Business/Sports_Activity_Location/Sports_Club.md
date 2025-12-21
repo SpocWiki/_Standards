@@ -4,20 +4,22 @@ aliases:
   - sports_club
   - SportsClub
   - is_a_sports_club
+  - Sports_Club
+  - Sports Club
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sports_club
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_sports_club Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

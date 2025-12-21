@@ -5,21 +5,22 @@ aliases:
   - citation
   - has_citation_in
   - is_cited_in
+  - is cited in
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - citation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_citation_in
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

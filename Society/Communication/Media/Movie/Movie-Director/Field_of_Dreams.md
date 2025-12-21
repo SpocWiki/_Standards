@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Field of Dreams"
+  - Field of Dreams
+  - Field_of_Dreams
 ---
 
 ## #has_/text_of_/abstract 

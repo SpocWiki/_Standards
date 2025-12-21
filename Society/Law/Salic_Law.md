@@ -3,28 +3,30 @@ aliases:
   - Salic law
   - Lex salica
   - Salian law
+  - Salic_Law
+  - Salic Law
 has_id_wikidata: Q152507
-applies_to_jurisdiction: "[[_Standards/WikiData/WD~Francia,146246]]"
-collection: "[[_Standards/WikiData/WD~Bibliothèque_nationale_de_France,193563]]"
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~Francia,146246]]'
+collection: '[[_Standards/WikiData/WD~Bibliothèque_nationale_de_France,193563]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Great_Encyclopedia_of_Cyril_and_Methodius,4091875]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Great_Encyclopedia_of_Cyril_and_Methodius,4091875]]'
+  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-instance_of: "[[_Standards/WikiData/WD~code_of_law,922203]]"
-named_after: "[[_Standards/WikiData/WD~Salian_Franks,939852]]"
-part_of: "[[_Standards/WikiData/WD~Early_Germanic_law,1078683]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Salic_law,1471259]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~code_of_law,922203]]'
+named_after: '[[_Standards/WikiData/WD~Salian_Franks,939852]]'
+part_of: '[[_Standards/WikiData/WD~Early_Germanic_law,1078683]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Salic_law,1471259]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Q105967808,105967808]]"
-  - "[[_Standards/WikiData/WD~The_Salic_Law,124690871]]"
+  - '[[_Standards/WikiData/WD~Q105967808,105967808]]'
+  - '[[_Standards/WikiData/WD~The_Salic_Law,124690871]]'
 point_in_time: 0500-01-01T00:00:00Z
-language_of_work_or_name: "[[_Standards/WikiData/WD~Latin,397]]"
+language_of_work_or_name: '[[_Standards/WikiData/WD~Latin,397]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lex%20Salica%20Wandalgarius%2001.jpg
 Krugosvet_article_archived_: istoriya/salicheskii-zakon
 Commons_category: Lex Salica

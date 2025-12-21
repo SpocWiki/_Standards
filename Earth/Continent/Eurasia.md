@@ -1,33 +1,34 @@
 ---
 aliases:
   - Eurasien
+  - Eurasia
 has_id_wikidata: Q5401
-subclass_of: "[[_Standards/WikiData/WD~region,82794]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Old_World,174807]]"
+subclass_of: '[[_Standards/WikiData/WD~region,82794]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Old_World,174807]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Eurasianism,1324222]]"
-  - "[[_Standards/WikiData/WD~Eurasia,1374287]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Eurasia,1949625]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Eurasia,18015525]]"
-studied_by: "[[_Standards/WikiData/WD~Eurasian_studies,23019171]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Eurasia,122244419]]"
+  - '[[_Standards/WikiData/WD~Eurasianism,1324222]]'
+  - '[[_Standards/WikiData/WD~Eurasia,1374287]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Eurasia,1949625]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Eurasia,18015525]]'
+studied_by: '[[_Standards/WikiData/WD~Eurasian_studies,23019171]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Eurasia,122244419]]'
 coordinate_location: Point(80.0 50.0)
-highest_point: "[[_Standards/WikiData/WD~Mount_Everest,513]]"
+highest_point: '[[_Standards/WikiData/WD~Mount_Everest,513]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Australian_continent,3960]]"
-  - "[[_Standards/WikiData/WD~Africa,15]]"
-  - "[[_Standards/WikiData/WD~North_America,49]]"
+  - '[[_Standards/WikiData/WD~Australian_continent,3960]]'
+  - '[[_Standards/WikiData/WD~Africa,15]]'
+  - '[[_Standards/WikiData/WD~North_America,49]]'
 minimum_temperature_record: -67.7
-lowest_point: "[[_Standards/WikiData/WD~Dead_Sea,23883]]"
+lowest_point: '[[_Standards/WikiData/WD~Dead_Sea,23883]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-  - "[[_Standards/WikiData/WD~Asia,48]]"
+  - '[[_Standards/WikiData/WD~Europe,46]]'
+  - '[[_Standards/WikiData/WD~Asia,48]]'
 maximum_temperature_record: 53.9
-instance_of: "[[_Standards/WikiData/WD~supercontinent,55833]]"
+instance_of: '[[_Standards/WikiData/WD~supercontinent,55833]]'
 area: 54759000
 demonym:
   - евразиец
@@ -46,7 +47,7 @@ demonym:
   - Evrazijec
   - Evrazijka
 population: 5348554000
-U_S_National_Archives_Identifier: "10044501"
+U_S_National_Archives_Identifier: 10044501
 Commons_category: Eurasia
 Commons_gallery: Eurasia
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Eurasia%20%28orthographic%20projection%29.svg

@@ -1,6 +1,9 @@
 ---
+aliases:
+  - Iridium
+has_id_wikidata: Q877
 atomic_number: 77
-canonical_SMILES: "[Ir]"
+canonical_SMILES: '[Ir]'
 CAS_Registry_Number: 7439-88-5
 chemical_formula: Ir
 Commons_category: Iridium
@@ -8,45 +11,44 @@ Commons_gallery: Iridium
 Common_Procurement_Vocabulary_code: 14761000
 CPV_Supplementary_code: AA28
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Iridium,108310061]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Iridium,108310061]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Q11714083,11714083]]"
-  - "[[_Standards/WikiData/WD~indium,1094]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Smithson_Tennant,377800]]"
+  - '[[_Standards/WikiData/WD~Q11714083,11714083]]'
+  - '[[_Standards/WikiData/WD~indium,1094]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Smithson_Tennant,377800]]'
 DSSTOX_compound_identifier: DTXCID8047636
 EC_number: 231-095-9
 electronegativity: 2.2
 element_symbol: Ir
-has_id_wikidata: Q877
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Iridium%20foil.jpg
 InChI: InChI=1S/Ir
 InChIKey: GKOZUEZYRPOHIO-UHFFFAOYSA-N
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
   - 0.57
   - 0.63
   - 0.68
-location_of_discovery: "[[_Standards/WikiData/WD~London,84]]"
+location_of_discovery: '[[_Standards/WikiData/WD~London,84]]'
 mass: 192.217
 MeSH_tree_code:
   - D01.268.556.401
   - D01.268.956.280
   - D01.552.544.401
-named_after: "[[_Standards/WikiData/WD~Iris,184570]]"
+named_after: '[[_Standards/WikiData/WD~Iris,184570]]'
 OmegaWiki_Defined_Meaning: 160503
 part_of:
-  - "[[_Standards/WikiData/WD~group_9,208107]]"
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
+  - '[[_Standards/WikiData/WD~group_9,208107]]'
+  - '[[_Standards/WikiData/WD~period_6,239813]]'
 PubChem_CID: 23924
 SpocWebEntityId: 21973
-subclass_of: "[[_Standards/WikiData/WD~platinum_group,223995]]"
+subclass_of: '[[_Standards/WikiData/WD~platinum_group,223995]]'
 time_of_discovery_or_invention: 1803
-topic_s_main_category: "[[_Standards/WikiData/WD~Q18200788,18200788]]"
+topic_s_main_category: '[[_Standards/WikiData/WD~Q18200788,18200788]]'
 type: Element
 UMLS_CUI: C0022071
 Unicode_character: 銥

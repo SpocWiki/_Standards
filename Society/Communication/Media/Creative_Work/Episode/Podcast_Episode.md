@@ -4,20 +4,22 @@ aliases:
   - podcast_episode
   - PodcastEpisode
   - is_a_podcast_episode
+  - Podcast_Episode
+  - Podcast Episode
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - podcast_episode
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_podcast_episode Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -5,36 +5,37 @@ aliases:
   - Infanterie
   - foot soldier
   - Fußsoldat
+  - Infantry
 has_id_wikidata: Q29171
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-subclass_of: "[[_Standards/WikiData/WD~branch_of_service,690109]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_service,690109]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+subclass_of: '[[_Standards/WikiData/WD~branch_of_service,690109]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_service,690109]]'
 subject_has_role:
-  - "[[_Standards/WikiData/WD~humanitarian_aid,826745]]"
-  - "[[_Standards/WikiData/WD~emergency_management,1460420]]"
-  - "[[_Standards/WikiData/WD~defense,1985622]]"
-  - "[[_Standards/WikiData/WD~peacekeeping,3354958]]"
-  - "[[_Standards/WikiData/WD~non_combatant_evacuation_operation,3735153]]"
-  - "[[_Standards/WikiData/WD~destruction,17781833]]"
-  - "[[_Standards/WikiData/WD~seizure_and_holding_of_ground,38118256]]"
-  - "[[_Standards/WikiData/WD~securing,38118608]]"
-  - "[[_Standards/WikiData/WD~clearing,38119444]]"
+  - '[[_Standards/WikiData/WD~humanitarian_aid,826745]]'
+  - '[[_Standards/WikiData/WD~emergency_management,1460420]]'
+  - '[[_Standards/WikiData/WD~defense,1985622]]'
+  - '[[_Standards/WikiData/WD~peacekeeping,3354958]]'
+  - '[[_Standards/WikiData/WD~non_combatant_evacuation_operation,3735153]]'
+  - '[[_Standards/WikiData/WD~destruction,17781833]]'
+  - '[[_Standards/WikiData/WD~seizure_and_holding_of_ground,38118256]]'
+  - '[[_Standards/WikiData/WD~securing,38118608]]'
+  - '[[_Standards/WikiData/WD~clearing,38119444]]'
 part_of:
-  - "[[_Standards/WikiData/WD~marines,1898583]]"
-  - "[[_Standards/WikiData/WD~army,37726]]"
-different_from: "[[_Standards/WikiData/WD~Pekhota,21853018]]"
-Dewey_Decimal_Classification: "356"
-OmegaWiki_Defined_Meaning: "1209580"
+  - '[[_Standards/WikiData/WD~marines,1898583]]'
+  - '[[_Standards/WikiData/WD~army,37726]]'
+different_from: '[[_Standards/WikiData/WD~Pekhota,21853018]]'
+Dewey_Decimal_Classification: 356
+OmegaWiki_Defined_Meaning: 1209580
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundeswehr%20G36.jpg
 Commons_gallery: Infantry
 Commons_category: Infantry
-U_S_National_Archives_Identifier: "10675356"
+U_S_National_Archives_Identifier: 10675356
 Krugosvet_article_archived_: nauka_i_tehnika/voennaya_tehnika/PEHOTA.html
 ---
 

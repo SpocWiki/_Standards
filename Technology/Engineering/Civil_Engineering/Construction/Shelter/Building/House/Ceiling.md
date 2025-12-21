@@ -1,6 +1,7 @@
 ---
 aliases:
   - Decke
+  - Ceiling
 has_id_wikidata: Q221706
 ---
 

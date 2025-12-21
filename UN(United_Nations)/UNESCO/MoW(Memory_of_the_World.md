@@ -1,6 +1,8 @@
 ---
 aliases:
-- MoW
+  - MoW
+  - MoW(Memory_of_the_World
+  - MoW(Memory of the World
 ---
 
 > [[../UNESCO|UNESCO]]'s **Memory of the World** (MoW) Programme is an international initiative 

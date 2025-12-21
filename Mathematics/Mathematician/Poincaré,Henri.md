@@ -2,6 +2,7 @@
 aliases:
   - Henri Poincaré
   - Henri_Poincaré
+  - Poincaré,Henri
 has_id_wikidata: Q81082
 ---
 

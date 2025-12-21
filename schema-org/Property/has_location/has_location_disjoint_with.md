@@ -4,21 +4,23 @@ aliases:
   - geo_disjoint
   - geoDisjoint
   - has_location_disjoint
+  - has_location_disjoint_with
+  - has location disjoint with
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - geo_disjoint
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_disjoint
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

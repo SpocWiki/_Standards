@@ -1,11 +1,13 @@
 ---
 aliases:
   - Modernist literature
+  - Modernist_Literature
+  - Modernist Literature
 has_id_wikidata: Q971480
-instance_of: "[[_Standards/WikiData/WD~literary_movement,3326717]]"
+instance_of: '[[_Standards/WikiData/WD~literary_movement,3326717]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Infogalactic,55075031]]"
-  - "[[_Standards/WikiData/WD~Justapedia,124209338]]"
+  - '[[_Standards/WikiData/WD~Infogalactic,55075031]]'
+  - '[[_Standards/WikiData/WD~Justapedia,124209338]]'
 Commons_category: Modernist literature
 Provenio_UUID: 601b0c48-39e1-4249-a279-952a87e3439b
 ---

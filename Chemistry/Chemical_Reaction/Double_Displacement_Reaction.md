@@ -1,6 +1,8 @@
 ---
 aliases:
   - salt metathesis reaction (also called a double displacement reaction, double replacement reaction, or double decomposition
+  - Double_Displacement_Reaction
+  - Double Displacement Reaction
 has_id_wikidata: Q13533728
 ---
 

@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Djibouti
+  - جيبوتي
+  - 吉布提
+  - Джибути
+  - the Republic of Djibouti
+  - la República de Djibouti
+has_id_wikidata: Q977
 lowest_point: "[[_Standards/WikiData/WD~Lake_Assal,81239]]"
 flag: "[[_Standards/WikiData/WD~flag_of_Djibouti,102184]]"
 coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Djibouti,109125]]"
@@ -257,7 +265,6 @@ subreddit: Djibouti
 hashtag: Djibouti
 Libris_URI: ljx0zd0451qfg4f
 Krugosvet_article: strany_mira/DZHIBUTI.html
-has_id_wikidata: Q977
 location:
   - 11.6
   - 43.1667
@@ -274,19 +281,12 @@ cssclasses:
   - Country
 publish: true
 title: Djibouti
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Djibouti
-  - جيبوتي
-  - 吉布提
-  - Джибути
-  - the Republic of Djibouti
-  - la República de Djibouti
+publishDate: ""
+expiryDate: ""
 Languages:
   - fr-DJ
   - ar

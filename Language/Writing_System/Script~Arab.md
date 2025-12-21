@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Arabic Script"
+  - Arabic Script
+  - Script~Arab
 ---
 
 Used to indicate Latin Script in Web-Pages 

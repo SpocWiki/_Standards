@@ -1,14 +1,15 @@
 ---
 aliases:
   - Chlorid
+  - Chloride
 has_id_wikidata: Q44791900
-different_from: "[[_Standards/WikiData/WD~chloride_ion,108200]]"
-has_part_s_: "[[_Standards/WikiData/WD~chloride_ion,108200]]"
-subclass_of: "[[_Standards/WikiData/WD~halide,193086]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Chlorides,20690402]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+different_from: '[[_Standards/WikiData/WD~chloride_ion,108200]]'
+has_part_s_: '[[_Standards/WikiData/WD~chloride_ion,108200]]'
+subclass_of: '[[_Standards/WikiData/WD~halide,193086]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Chlorides,20690402]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 Commons_category: Chlorides
-Common_Procurement_Vocabulary_code: "24312120"
+Common_Procurement_Vocabulary_code: 24312120
 UMLS_CUI:
   - C0008201
   - C0008203

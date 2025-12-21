@@ -2,23 +2,24 @@
 aliases:
   - Fight
   - Gefecht
+  - Combat
 has_id_wikidata: Q650711
-has_characteristic: "[[_Standards/WikiData/WD~violence,124490]]"
+has_characteristic: '[[_Standards/WikiData/WD~violence,124490]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~violence,124490]]"
-  - "[[_Standards/WikiData/WD~conflict,180684]]"
-  - "[[_Standards/WikiData/WD~cause_of_death,1931388]]"
-  - "[[_Standards/WikiData/WD~behavior,9332]]"
-has_cause: "[[_Standards/WikiData/WD~conflict,180684]]"
+  - '[[_Standards/WikiData/WD~violence,124490]]'
+  - '[[_Standards/WikiData/WD~conflict,180684]]'
+  - '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
+  - '[[_Standards/WikiData/WD~behavior,9332]]'
+has_cause: '[[_Standards/WikiData/WD~conflict,180684]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~combatant,1414937]]"
-  - "[[_Standards/WikiData/WD~soldier,4991371]]"
-  - "[[_Standards/WikiData/WD~fictional_combatant,125887191]]"
-part_of: "[[_Standards/WikiData/WD~warfare,12786121]]"
+  - '[[_Standards/WikiData/WD~combatant,1414937]]'
+  - '[[_Standards/WikiData/WD~soldier,4991371]]'
+  - '[[_Standards/WikiData/WD~fictional_combatant,125887191]]'
+part_of: '[[_Standards/WikiData/WD~warfare,12786121]]'
 Commons_category: Combat
 IMDb_keyword: combat
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thure%20de%20Thulstrup%20-%20L.%20Prang%20and%20Co.%20-%20Battle%20of%20Gettysburg%20-%20Restoration%20by%20Adam%20Cuerden%20%28cropped%29.jpg

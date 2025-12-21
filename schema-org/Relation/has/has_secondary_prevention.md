@@ -3,23 +3,24 @@ aliases:
   - has secondary-prevention
   - secondaryPrevention
   - has_secondary_prevention
+  - has secondary prevention
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - secondary_prevention
   - secondary
   - prevention
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_secondary_prevention
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,25 +1,27 @@
 ---
+aliases:
+  - Alkene
+has_id_wikidata: Q81406
 Commons_category: Alkenes
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from: '[[_Standards/WikiData/WD~alkane,41581]]'
-has_id_wikidata: Q81406
 instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 MeSH_tree_code: D02.455.326.271
 OmegaWiki_Defined_Meaning: 427905
 P8189: 987007546028505171
 part_of:
-- '[[_Standards/WikiData/WD~alkene_catabolic_process,22281422]]'
-- '[[_Standards/WikiData/WD~cellular_alkene_metabolic_process,22281421]]'
-- '[[_Standards/WikiData/WD~alkene_biosynthetic_process,22282736]]'
-- '[[_Standards/WikiData/WD~alkene_binding,22314559]]'
+  - '[[_Standards/WikiData/WD~alkene_catabolic_process,22281422]]'
+  - '[[_Standards/WikiData/WD~cellular_alkene_metabolic_process,22281421]]'
+  - '[[_Standards/WikiData/WD~alkene_biosynthetic_process,22282736]]'
+  - '[[_Standards/WikiData/WD~alkene_binding,22314559]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~acyclic_compound,344942]]'
-- '[[_Standards/WikiData/WD~olefin,11797724]]'
-- '[[_Standards/WikiData/WD~aliphatic_hydrocarbon,47165582]]'
+  - '[[_Standards/WikiData/WD~acyclic_compound,344942]]'
+  - '[[_Standards/WikiData/WD~olefin,11797724]]'
+  - '[[_Standards/WikiData/WD~aliphatic_hydrocarbon,47165582]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Alkenes,7307237]]'
 UNSPSC_Code: 12352002
 ---

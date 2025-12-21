@@ -1,23 +1,24 @@
 ---
 aliases:
   - Symbolismus
+  - Symbolism
 has_id_wikidata: Q164800
 country:
-  - "[[_Standards/WikiData/WD~Second_Polish_Republic,207272]]"
-  - "[[_Standards/WikiData/WD~Belgium,31]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+  - '[[_Standards/WikiData/WD~Second_Polish_Republic,207272]]'
+  - '[[_Standards/WikiData/WD~Belgium,31]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+  - '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~cultural_movement,2198855]]"
-  - "[[_Standards/WikiData/WD~literary_movement,3326717]]"
+  - '[[_Standards/WikiData/WD~art_movement,968159]]'
+  - '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
+  - '[[_Standards/WikiData/WD~literary_movement,3326717]]'
 different_from:
-  - "[[_Standards/WikiData/WD~symbolism,4419563]]"
-  - "[[_Standards/WikiData/WD~Q10371637,10371637]]"
-has_part_s_: "[[_Standards/WikiData/WD~symbolism,15673106]]"
+  - '[[_Standards/WikiData/WD~symbolism,4419563]]'
+  - '[[_Standards/WikiData/WD~Q10371637,10371637]]'
+has_part_s_: '[[_Standards/WikiData/WD~symbolism,15673106]]'
 inception: 1857-01-01T00:00:00Z
 Commons_gallery: Symbolism (arts)
 Commons_category: Symbolism (arts)

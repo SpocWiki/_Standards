@@ -1,35 +1,37 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CivicStructureEmergencyServiceAndMedicalOrganization
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService
 fields:
-- id: JTy8yN
-  name: HealthPlanNetworkId
-  options: {}
-  type: Input
-  path: ''
-- id: Pa0Dqx
-  name: IsAcceptingNewPatients
-  options: {}
-  type: Boolean
-  path: ''
-- id: xne1Ts
-  name: OpeningHours
-  options: {}
-  type: Input
-  path: ''
+  - id: JTy8yN
+    name: HealthPlanNetworkId
+    options: {}
+    type: Input
+    path: ''
+  - id: Pa0Dqx
+    name: IsAcceptingNewPatients
+    options: {}
+    type: Boolean
+    path: ''
+  - id: xne1Ts
+    name: OpeningHours
+    options: {}
+    type: Input
+    path: ''
 icon: siren
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CivicStructureAndEmergencyServiceAndMedicalOrganization
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyServiceAndMedicalOrganization
-- is_a_/CivicStructureAndEmergencyServiceAndMedicalOrganization
-- schema-org/CivicStructureAndEmergencyServiceAndMedicalOrganization
+  - class/CivicStructureAndEmergencyServiceAndMedicalOrganization
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyServiceAndMedicalOrganization
+  - is_a_/CivicStructureAndEmergencyServiceAndMedicalOrganization
+  - schema-org/CivicStructureAndEmergencyServiceAndMedicalOrganization
 tags:
-- class/FileClass
-- class/CivicStructureAndEmergencyServiceAndMedicalOrganization
-- is_a_/CivicStructureAndEmergencyServiceAndMedicalOrganization
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyServiceAndMedicalOrganization
+  - class/FileClass
+  - class/CivicStructureAndEmergencyServiceAndMedicalOrganization
+  - is_a_/CivicStructureAndEmergencyServiceAndMedicalOrganization
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyServiceAndMedicalOrganization
 version: 2.0
 ---
 

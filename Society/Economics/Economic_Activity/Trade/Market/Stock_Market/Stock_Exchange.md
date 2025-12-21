@@ -4,17 +4,19 @@ aliases:
   - stock exchange
   - securities exchange
   - bourse
+  - Stock_Exchange
+  - Stock Exchange
 has_id_wikidata: Q11691
 subclass_of:
-  - "[[_Standards/WikiData/WD~trading_venue,179076]]"
-  - "[[_Standards/WikiData/WD~capital_market,750458]]"
-item_operated: "[[_Standards/WikiData/WD~stock_market,475000]]"
+  - '[[_Standards/WikiData/WD~trading_venue,179076]]'
+  - '[[_Standards/WikiData/WD~capital_market,750458]]'
+item_operated: '[[_Standards/WikiData/WD~stock_market,475000]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 uses:
-  - "[[_Standards/WikiData/WD~open_outcry,1936122]]"
-  - "[[_Standards/WikiData/WD~electronic_trade_matching,5358441]]"
+  - '[[_Standards/WikiData/WD~open_outcry,1936122]]'
+  - '[[_Standards/WikiData/WD~electronic_trade_matching,5358441]]'
 Commons_category: Stock exchanges
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NY%20stock%20exchange%20traders%20floor%20LC-U9-10548-6.jpg
 Iconclass_notation: 46B52

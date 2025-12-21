@@ -1,43 +1,45 @@
 ---
+aliases:
+  - Aesthetics
+has_id_wikidata: Q35986
 Basisklassifikation: 8.41
 Colon_Classification: R5
 Commons_category: Aesthetics
 described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 Dewey_Decimal_Classification:
   - 701
   - 701.17
   - 801.93
-different_from: "[[_Standards/WikiData/WD~art,55336315]]"
+different_from: '[[_Standards/WikiData/WD~art,55336315]]'
 hashtag: aesthetics
-has_id_wikidata: Q35986
-history_of_topic: "[[_Standards/WikiData/WD~history_of_aesthetics,3773025]]"
+history_of_topic: '[[_Standards/WikiData/WD~history_of_aesthetics,3773025]]'
 Iconclass_notation: 49C214
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aristotelesbunt.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]"
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+  - '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
 Krugosvet_article: gumanitarnye_nauki/filosofiya/ESTETIKA.html
 Library_of_Congress_Classification: BH1-BH301
 MeSH_tree_code:
   - K01.752.210
   - F02.463.785.477
 OmegaWiki_Defined_Meaning: 69
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Art+Feminism,24909800]]"
-part_of: "[[_Standards/WikiData/WD~axiology,186531]]"
-practiced_by: "[[_Standards/WikiData/WD~aesthetician,21550346]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+part_of: '[[_Standards/WikiData/WD~axiology,186531]]'
+practiced_by: '[[_Standards/WikiData/WD~aesthetician,21550346]]'
 Provenio_UUID: 142457bd-d95a-4f78-94d6-4916014bab56
-subclass_of: "[[_Standards/WikiData/WD~philosophy,5891]]"
+subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
 subreddit: Esthetics
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Aesthetics,6670897]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Aesthetics,6670897]]'
 UMLS_CUI: C0014901
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_aesthetics,16000272]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_aesthetics,16000272]]'
 ---
 
 ## #has_/text_of_/abstract 

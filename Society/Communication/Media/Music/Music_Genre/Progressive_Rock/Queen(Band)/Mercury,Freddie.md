@@ -3,116 +3,117 @@ aliases:
   - Freddie Mercury
   - Farrokh Bulsara
   - Freddie_Mercury
+  - Mercury,Freddie
 has_id_wikidata: Q15869
 genre:
-  - "[[_Standards/WikiData/WD~glam_rock,76092]]"
-  - "[[_Standards/WikiData/WD~hard_rock,83270]]"
-  - "[[_Standards/WikiData/WD~pop_rock,484641]]"
-  - "[[_Standards/WikiData/WD~neoclassicism,535611]]"
-  - "[[_Standards/WikiData/WD~traditional_heavy_metal,1133657]]"
-  - "[[_Standards/WikiData/WD~classical_crossover,56342556]]"
-  - "[[_Standards/WikiData/WD~classic_rock,56351111]]"
-  - "[[_Standards/WikiData/WD~rock_and_roll,7749]]"
-  - "[[_Standards/WikiData/WD~progressive_rock,49451]]"
-  - "[[_Standards/WikiData/WD~disco,58339]]"
+  - '[[_Standards/WikiData/WD~glam_rock,76092]]'
+  - '[[_Standards/WikiData/WD~hard_rock,83270]]'
+  - '[[_Standards/WikiData/WD~pop_rock,484641]]'
+  - '[[_Standards/WikiData/WD~neoclassicism,535611]]'
+  - '[[_Standards/WikiData/WD~traditional_heavy_metal,1133657]]'
+  - '[[_Standards/WikiData/WD~classical_crossover,56342556]]'
+  - '[[_Standards/WikiData/WD~classic_rock,56351111]]'
+  - '[[_Standards/WikiData/WD~rock_and_roll,7749]]'
+  - '[[_Standards/WikiData/WD~progressive_rock,49451]]'
+  - '[[_Standards/WikiData/WD~disco,58339]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~glam_rock,76092]]"
-  - "[[_Standards/WikiData/WD~hard_rock,83270]]"
-  - "[[_Standards/WikiData/WD~pop_rock,484641]]"
-  - "[[_Standards/WikiData/WD~traditional_heavy_metal,1133657]]"
-  - "[[_Standards/WikiData/WD~operatic_pop,2336819]]"
-  - "[[_Standards/WikiData/WD~classic_rock,56351111]]"
-  - "[[_Standards/WikiData/WD~neoclassical_music,106576145]]"
-  - "[[_Standards/WikiData/WD~opera,1344]]"
-  - "[[_Standards/WikiData/WD~rock_and_roll,7749]]"
-  - "[[_Standards/WikiData/WD~pop_music,37073]]"
-  - "[[_Standards/WikiData/WD~progressive_rock,49451]]"
-  - "[[_Standards/WikiData/WD~disco,58339]]"
+  - '[[_Standards/WikiData/WD~glam_rock,76092]]'
+  - '[[_Standards/WikiData/WD~hard_rock,83270]]'
+  - '[[_Standards/WikiData/WD~pop_rock,484641]]'
+  - '[[_Standards/WikiData/WD~traditional_heavy_metal,1133657]]'
+  - '[[_Standards/WikiData/WD~operatic_pop,2336819]]'
+  - '[[_Standards/WikiData/WD~classic_rock,56351111]]'
+  - '[[_Standards/WikiData/WD~neoclassical_music,106576145]]'
+  - '[[_Standards/WikiData/WD~opera,1344]]'
+  - '[[_Standards/WikiData/WD~rock_and_roll,7749]]'
+  - '[[_Standards/WikiData/WD~pop_music,37073]]'
+  - '[[_Standards/WikiData/WD~progressive_rock,49451]]'
+  - '[[_Standards/WikiData/WD~disco,58339]]'
 instrument:
-  - "[[_Standards/WikiData/WD~Hammond_organ,105891]]"
-  - "[[_Standards/WikiData/WD~voice,17172850]]"
-  - "[[_Standards/WikiData/WD~piano,5994]]"
-  - "[[_Standards/WikiData/WD~guitar,6607]]"
-  - "[[_Standards/WikiData/WD~keyboard_instrument,52954]]"
+  - '[[_Standards/WikiData/WD~Hammond_organ,105891]]'
+  - '[[_Standards/WikiData/WD~voice,17172850]]'
+  - '[[_Standards/WikiData/WD~piano,5994]]'
+  - '[[_Standards/WikiData/WD~guitar,6607]]'
+  - '[[_Standards/WikiData/WD~keyboard_instrument,52954]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Polydor,155152]]"
-  - "[[_Standards/WikiData/WD~Columbia_Records,183387]]"
-  - "[[_Standards/WikiData/WD~EMI,183412]]"
-  - "[[_Standards/WikiData/WD~Parlophone,208909]]"
-  - "[[_Standards/WikiData/WD~Hollywood_Records,387539]]"
+  - '[[_Standards/WikiData/WD~Polydor,155152]]'
+  - '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
+  - '[[_Standards/WikiData/WD~EMI,183412]]'
+  - '[[_Standards/WikiData/WD~Parlophone,208909]]'
+  - '[[_Standards/WikiData/WD~Hollywood_Records,387539]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Lata_Mangeshkar,156347]]"
-  - "[[_Standards/WikiData/WD~Jimi_Hendrix,5928]]"
+  - '[[_Standards/WikiData/WD~Lata_Mangeshkar,156347]]'
+  - '[[_Standards/WikiData/WD~Jimi_Hendrix,5928]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Sultanate_of_Zanzibar,157904]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~Sultanate_of_Zanzibar,157904]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~record_producer,183945]]"
-  - "[[_Standards/WikiData/WD~pianist,486748]]"
-  - "[[_Standards/WikiData/WD~singer_songwriter,488205]]"
-  - "[[_Standards/WikiData/WD~graphic_designer,627325]]"
-  - "[[_Standards/WikiData/WD~guitarist,855091]]"
-  - "[[_Standards/WikiData/WD~painter,1028181]]"
-  - "[[_Standards/WikiData/WD~rock_musician,12374149]]"
-  - "[[_Standards/WikiData/WD~manufacturer,13235160]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~record_producer,183945]]'
+  - '[[_Standards/WikiData/WD~pianist,486748]]'
+  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+  - '[[_Standards/WikiData/WD~graphic_designer,627325]]'
+  - '[[_Standards/WikiData/WD~guitarist,855091]]'
+  - '[[_Standards/WikiData/WD~painter,1028181]]'
+  - '[[_Standards/WikiData/WD~rock_musician,12374149]]'
+  - '[[_Standards/WikiData/WD~manufacturer,13235160]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Bohemian_Rhapsody,187745]]"
-  - "[[_Standards/WikiData/WD~We_Are_the_Champions,238564]]"
+  - '[[_Standards/WikiData/WD~Bohemian_Rhapsody,187745]]'
+  - '[[_Standards/WikiData/WD~We_Are_the_Champions,238564]]'
   - "[[_Standards/WikiData/WD~Don't_Stop_Me_Now,262417]]"
-  - "[[_Standards/WikiData/WD~Love_of_My_Life,2572]]"
+  - '[[_Standards/WikiData/WD~Love_of_My_Life,2572]]'
 ethnic_group:
-  - "[[_Standards/WikiData/WD~Parsi,200263]]"
-  - "[[_Standards/WikiData/WD~British_Indians,4115170]]"
-significant_event: "[[_Standards/WikiData/WD~cremation,207315]]"
-place_of_death: "[[_Standards/WikiData/WD~Kensington,288781]]"
-discography: "[[_Standards/WikiData/WD~Freddie_Mercury_discography,662665]]"
-cause_of_death: "[[_Standards/WikiData/WD~bronchopneumonia,734512]]"
-award_received: "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-nominated_for: "[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Original_Song,1420891]]"
+  - '[[_Standards/WikiData/WD~Parsi,200263]]'
+  - '[[_Standards/WikiData/WD~British_Indians,4115170]]'
+significant_event: '[[_Standards/WikiData/WD~cremation,207315]]'
+place_of_death: '[[_Standards/WikiData/WD~Kensington,288781]]'
+discography: '[[_Standards/WikiData/WD~Freddie_Mercury_discography,662665]]'
+cause_of_death: '[[_Standards/WikiData/WD~bronchopneumonia,734512]]'
+award_received: '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+nominated_for: '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Original_Song,1420891]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Q1452579,1452579]]"
-  - "[[_Standards/WikiData/WD~Farrokh,58199600]]"
+  - '[[_Standards/WikiData/WD~Q1452579,1452579]]'
+  - '[[_Standards/WikiData/WD~Farrokh,58199600]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_West_London,2007778]]"
+  - '[[_Standards/WikiData/WD~University_of_West_London,2007778]]'
   - "[[_Standards/WikiData/WD~St._Mary's_School,3967568]]"
   - "[[_Standards/WikiData/WD~St._Peter's_Boys_School,3967574]]"
-  - "[[_Standards/WikiData/WD~West_Thames_College,4019102]]"
-  - "[[_Standards/WikiData/WD~Ealing_Art_College,5325472]]"
-place_of_birth: "[[_Standards/WikiData/WD~Zanzibar_City,2222874]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+  - '[[_Standards/WikiData/WD~West_Thames_College,4019102]]'
+  - '[[_Standards/WikiData/WD~Ealing_Art_College,5325472]]'
+place_of_birth: '[[_Standards/WikiData/WD~Zanzibar_City,2222874]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Jim_Hutton,5931091]]"
-  - "[[_Standards/WikiData/WD~Mary_Austin,33129243]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-copyright_representative: "[[_Standards/WikiData/WD~PRS_for_Music,7120528]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Freddie_Mercury,12201742]]"
+  - '[[_Standards/WikiData/WD~Jim_Hutton,5931091]]'
+  - '[[_Standards/WikiData/WD~Mary_Austin,33129243]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+copyright_representative: '[[_Standards/WikiData/WD~PRS_for_Music,7120528]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Freddie_Mercury,12201742]]'
 family_name:
-  - "[[_Standards/WikiData/WD~Mercury,16279352]]"
-  - "[[_Standards/WikiData/WD~Q37430993,37430993]]"
-residence: "[[_Standards/WikiData/WD~Garden_Lodge,_Kensington,60750552]]"
-sibling: "[[_Standards/WikiData/WD~Kashmira_Cooke,64790950]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-father: "[[_Standards/WikiData/WD~Bomi_Bulsara,71404803]]"
-mother: "[[_Standards/WikiData/WD~Jer_Bulsara,71405332]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]"
-significant_person: "[[_Standards/WikiData/WD~Paul_Prenter,124006747]]"
-work_location: "[[_Standards/WikiData/WD~Munich,1726]]"
-location_of_formation: "[[_Standards/WikiData/WD~Zanzibar_Islands,1774]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Zoroastrianism,9601]]"
-member_of: "[[_Standards/WikiData/WD~Queen,15862]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Mercury,16279352]]'
+  - '[[_Standards/WikiData/WD~Q37430993,37430993]]'
+residence: '[[_Standards/WikiData/WD~Garden_Lodge,_Kensington,60750552]]'
+sibling: '[[_Standards/WikiData/WD~Kashmira_Cooke,64790950]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+father: '[[_Standards/WikiData/WD~Bomi_Bulsara,71404803]]'
+mother: '[[_Standards/WikiData/WD~Jer_Bulsara,71405332]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
+significant_person: '[[_Standards/WikiData/WD~Paul_Prenter,124006747]]'
+work_location: '[[_Standards/WikiData/WD~Munich,1726]]'
+location_of_formation: '[[_Standards/WikiData/WD~Zanzibar_Islands,1774]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Zoroastrianism,9601]]'
+member_of: '[[_Standards/WikiData/WD~Queen,15862]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 number_of_children: 1
-sexual_orientation: "[[_Standards/WikiData/WD~bisexuality,43200]]"
+sexual_orientation: '[[_Standards/WikiData/WD~bisexuality,43200]]'
 ISNI:
-  - "0000000109859100"
-  - "0000000368567946"
-IPI_name_number: "00077406269"
+  - 0000000109859100
+  - 0000000368567946
+IPI_name_number: 00077406269
 Plex_person_key: 5d776844880197001ec962f6
 Europeana_entity: agent/base/60385
 Google_Doodle: freddie-mercurys-65th-birthday

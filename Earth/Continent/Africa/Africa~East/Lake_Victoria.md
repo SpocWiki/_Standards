@@ -1,61 +1,62 @@
 ---
 aliases:
   - Lake Victoria
+  - Lake_Victoria
+has_id_wikidata: Q5505
 location:
   - -1
   - 33
 area: 68100
 basin_country:
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-  - "[[_Standards/WikiData/WD~Uganda,1036]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
+  - '[[_Standards/WikiData/WD~Tanzania,924]]'
+  - '[[_Standards/WikiData/WD~Uganda,1036]]'
+  - '[[_Standards/WikiData/WD~Kenya,114]]'
 bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Vic%20Bathy.jpg
-category_for_the_water_basin: "[[_Standards/WikiData/WD~Q18120944,18120944]]"
+category_for_the_water_basin: '[[_Standards/WikiData/WD~Q18120944,18120944]]'
 Commons_category: Lake Victoria
 Commons_gallery: Lake Victoria
 coordinate_location: Point(33.0 -1.0)
 country:
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-  - "[[_Standards/WikiData/WD~Uganda,1036]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
+  - '[[_Standards/WikiData/WD~Tanzania,924]]'
+  - '[[_Standards/WikiData/WD~Uganda,1036]]'
+  - '[[_Standards/WikiData/WD~Kenya,114]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Lake_Uniamési,3549925]]"
-  - "[[_Standards/WikiData/WD~Lago_Victoria,22702690]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~John_Hanning_Speke,125084]]"
-drainage_basin: "[[_Standards/WikiData/WD~Nile_basin,2887548]]"
+  - '[[_Standards/WikiData/WD~Lake_Uniamési,3549925]]'
+  - '[[_Standards/WikiData/WD~Lago_Victoria,22702690]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~John_Hanning_Speke,125084]]'
+drainage_basin: '[[_Standards/WikiData/WD~Nile_basin,2887548]]'
 elevation_above_sea_level: 1133
-has_id_wikidata: Q5505
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Getting%20out%20to%20fish%20at%20dusk.jpg
 inflows:
-  - "[[_Standards/WikiData/WD~Mara_River,530479]]"
-  - "[[_Standards/WikiData/WD~Simiyu_River,1340687]]"
-  - "[[_Standards/WikiData/WD~Kagera_River,2750140]]"
-  - "[[_Standards/WikiData/WD~Nzoia_River,2915185]]"
-  - "[[_Standards/WikiData/WD~Yala_River,3571381]]"
-  - "[[_Standards/WikiData/WD~Gucha_River,3652178]]"
-  - "[[_Standards/WikiData/WD~Sondu_Miriu,12294178]]"
-  - "[[_Standards/WikiData/WD~Mogusi_River,56042333]]"
-  - "[[_Standards/WikiData/WD~Nyando_River,58792399]]"
-instance_of: "[[_Standards/WikiData/WD~lake,23397]]"
+  - '[[_Standards/WikiData/WD~Mara_River,530479]]'
+  - '[[_Standards/WikiData/WD~Simiyu_River,1340687]]'
+  - '[[_Standards/WikiData/WD~Kagera_River,2750140]]'
+  - '[[_Standards/WikiData/WD~Nzoia_River,2915185]]'
+  - '[[_Standards/WikiData/WD~Yala_River,3571381]]'
+  - '[[_Standards/WikiData/WD~Gucha_River,3652178]]'
+  - '[[_Standards/WikiData/WD~Sondu_Miriu,12294178]]'
+  - '[[_Standards/WikiData/WD~Mogusi_River,56042333]]'
+  - '[[_Standards/WikiData/WD~Nyando_River,58792399]]'
+instance_of: '[[_Standards/WikiData/WD~lake,23397]]'
 length: 337
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Great_Rift_Valley,81591]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Great_Rift_Valley,81591]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Kaart%20Victoriameer.png
-named_after: "[[_Standards/WikiData/WD~Victoria,9439]]"
-outflows: "[[_Standards/WikiData/WD~White_Nile,4814791]]"
+named_after: '[[_Standards/WikiData/WD~Victoria,9439]]'
+outflows: '[[_Standards/WikiData/WD~White_Nile,4814791]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Tanzanie%20du%20Nord-Ouest%20banner.jpg
-part_of: "[[_Standards/WikiData/WD~African_Great_Lakes,87982]]"
+part_of: '[[_Standards/WikiData/WD~African_Great_Lakes,87982]]'
 perimeter: 4828
 residence_time_of_water: 24
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-  - "[[_Standards/WikiData/WD~Uganda,1036]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
+  - '[[_Standards/WikiData/WD~Tanzania,924]]'
+  - '[[_Standards/WikiData/WD~Uganda,1036]]'
+  - '[[_Standards/WikiData/WD~Kenya,114]]'
 time_of_discovery_or_invention: 1858
 vertical_depth: 83
 volume_as_quantity: 2750000

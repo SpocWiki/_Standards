@@ -1,11 +1,13 @@
 ---
 aliases:
   - Middle Eastern theatre of World War I
+  - Middle_Eastern_theater_of_World_War_I
+  - Middle Eastern theater of World War I
 has_id_wikidata: Q1765465
-instance_of: "[[_Standards/WikiData/WD~theater_of_war,718893]]"
+instance_of: '[[_Standards/WikiData/WD~theater_of_war,718893]]'
 location:
-  - "[[_Standards/WikiData/WD~Middle_East,7204]]"
-  - "[[_Standards/WikiData/WD~Central_Asia,27275]]"
+  - '[[_Standards/WikiData/WD~Middle_East,7204]]'
+  - '[[_Standards/WikiData/WD~Central_Asia,27275]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/G.C.%2018%20March%201915%20Gallipoli%20Campaign%20Article.jpg
 Commons_category: Middle Eastern theatre of World War I
 end_time: 1918-10-30T00:00:00Z

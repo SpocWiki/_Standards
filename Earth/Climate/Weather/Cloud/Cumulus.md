@@ -1,6 +1,7 @@
 ---
 aliases:
   - Kumulus
+  - Cumulus
 has_id_wikidata: Q14189
 ---
 

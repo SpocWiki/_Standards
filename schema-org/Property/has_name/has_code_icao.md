@@ -4,22 +4,23 @@ aliases:
   - code_icao
   - icaoCode
   - has_code_icao
+  - has code icao
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - icao
   - code
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_code_icao
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

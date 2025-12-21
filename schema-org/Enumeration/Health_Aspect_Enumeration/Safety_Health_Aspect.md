@@ -4,21 +4,23 @@ aliases:
   - safety_health_aspect
   - SafetyHealthAspect
   - is_a_safety_health_aspect
+  - Safety_Health_Aspect
+  - Safety Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - safety_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_safety_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

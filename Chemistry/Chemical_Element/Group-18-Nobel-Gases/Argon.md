@@ -1,60 +1,62 @@
 ---
+aliases:
+  - Argon
+has_id_wikidata: Q696
 ASHRAE_refrigerant_number: 740
 atomic_number: 18
 boiling_point: -185.85
-canonical_SMILES: "[Ar]"
+canonical_SMILES: '[Ar]'
 CAS_Registry_Number: 7440-37-1
 chemical_formula: Ar
 Commons_category: Argon
 Commons_gallery: Argon
 CosIng_number: 54501
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~John_Strutt,_3rd_Baron_Rayleigh,83297]]"
-  - "[[_Standards/WikiData/WD~William_Ramsay,950726]]"
+  - '[[_Standards/WikiData/WD~John_Strutt,_3rd_Baron_Rayleigh,83297]]'
+  - '[[_Standards/WikiData/WD~William_Ramsay,950726]]'
 DSSTOX_compound_identifier: DTXCID0031055
 dynamic_viscosity: 22.7
 EC_number: 231-147-0
 electron_configuration:
   - 1s² 2s² 2p⁶ 3s² 3p⁶
-  - "[Ne] 3s² 3p⁶"
+  - '[Ne] 3s² 3p⁶'
 element_symbol: Ar
 E_number: E938
 Gujarati_Vishwakosh_entry: આગૉર્ન
 has_characteristic:
-  - "[[_Standards/WikiData/WD~colorlessness,11567495]]"
-  - "[[_Standards/WikiData/WD~odorlessness,30007162]]"
-  - "[[_Standards/WikiData/WD~tastelessness,30100868]]"
-has_id_wikidata: Q696
-has_use: "[[_Standards/WikiData/WD~food_additive,189567]]"
+  - '[[_Standards/WikiData/WD~colorlessness,11567495]]'
+  - '[[_Standards/WikiData/WD~odorlessness,30007162]]'
+  - '[[_Standards/WikiData/WD~tastelessness,30100868]]'
+has_use: '[[_Standards/WikiData/WD~food_additive,189567]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Argon%20ice%201.jpg
 InChI: InChI=1S/Ar
 InChIKey: XKRFYHLGVUSROY-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~atmophile_element,2313842]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
-  - "[[_Standards/WikiData/WD~gas,11432]]"
+  - '[[_Standards/WikiData/WD~atmophile_element,2313842]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - '[[_Standards/WikiData/WD~gas,11432]]'
 mass: 39.95
 melting_point: -189.34
 MeSH_tree_code:
   - D01.268.613.050
   - D01.362.641.113
-named_after: "[[_Standards/WikiData/WD~laziness,484]]"
+named_after: '[[_Standards/WikiData/WD~laziness,484]]'
 OmegaWiki_Defined_Meaning: 15591
 part_of:
-  - "[[_Standards/WikiData/WD~period_3,211331]]"
-  - "[[_Standards/WikiData/WD~noble_gases,19609]]"
+  - '[[_Standards/WikiData/WD~period_3,211331]]'
+  - '[[_Standards/WikiData/WD~noble_gases,19609]]'
 PubChem_CID: 23968
 speed_of_sound: 813
 SpocWebEntityId: 21919
 standard_molar_entropy: 154.8
-subclass_of: "[[_Standards/WikiData/WD~noble_gases,19609]]"
+subclass_of: '[[_Standards/WikiData/WD~noble_gases,19609]]'
 time_of_discovery_or_invention: 1894
 type: Element
 UMLS_CUI: C0003781

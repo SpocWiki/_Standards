@@ -5,12 +5,14 @@ aliases:
   - Rússko-turĭéckije vójny
   - Russo-Ottoman wars
   - Osmanlı-Rus savaşları
+  - 1568-Russo-Turkish_Wars+1918
+  - 1568-Russo-Turkish Wars+1918
 has_id_wikidata: Q743046
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-instance_of: "[[_Standards/WikiData/WD~series_of_wars,104212151]]"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[_Standards/WikiData/WD~series_of_wars,104212151]]'
 start_time: 1568-01-01T00:00:00Z
 Commons_category: Russo-Turkish Wars
 Universal_Decimal_Classification: 355.48(47:560)

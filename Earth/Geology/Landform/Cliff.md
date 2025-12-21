@@ -1,6 +1,7 @@
 ---
 aliases:
   - Klippe
+  - Cliff
 has_id_wikidata: Q107679
 ---
 

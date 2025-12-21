@@ -1,26 +1,26 @@
 ---
 aliases:
-- Hoover,Herbert
-- "Herbert Hoover"
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Hoover,Herbert
+  - Herbert Hoover
+  - ''
 has_id_wikidata: Q35236
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Hoover,Herbert
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Hoover,Herbert
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Hoover,Herbert
-- 
+  - Hoover,Herbert
+  - ''
 title: Hoover,Herbert
 type: private_note
 ---

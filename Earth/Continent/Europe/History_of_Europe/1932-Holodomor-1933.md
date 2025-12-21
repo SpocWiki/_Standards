@@ -1,20 +1,21 @@
 ---
 aliases:
   - Ukrainian Famine
+  - 1932-Holodomor-1933
 has_id_wikidata: Q165058
-location: "[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]"
+location: '[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~famine,168247]]"
-  - "[[_Standards/WikiData/WD~mass_killings_under_communist_regimes,2235125]]"
-  - "[[_Standards/WikiData/WD~communist_crime,105967822]]"
-  - "[[_Standards/WikiData/WD~genocide,41397]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Holodomor,14347304]]"
-part_of: "[[_Standards/WikiData/WD~Holodomors_in_Ukraine,20071161]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Holodomor,24820257]]"
-studied_by: "[[_Standards/WikiData/WD~Holodomor_studies,109505011]]"
+  - '[[_Standards/WikiData/WD~famine,168247]]'
+  - '[[_Standards/WikiData/WD~mass_killings_under_communist_regimes,2235125]]'
+  - '[[_Standards/WikiData/WD~communist_crime,105967822]]'
+  - '[[_Standards/WikiData/WD~genocide,41397]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Holodomor,14347304]]'
+part_of: '[[_Standards/WikiData/WD~Holodomors_in_Ukraine,20071161]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Holodomor,24820257]]'
+studied_by: '[[_Standards/WikiData/WD~Holodomor_studies,109505011]]'
 coordinate_location: Point(32.0 49.0)
-country: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+country: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
 number_of_deaths:
   - 3500000
   - 4500000

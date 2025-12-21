@@ -3,28 +3,29 @@ aliases:
   - Chan
   - Sŏn
   - Thiền
+  - Zen
 has_id_wikidata: Q7953
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Japanese_Zen,189424]]"
-  - "[[_Standards/WikiData/WD~Chan_Buddhism,940709]]"
-  - "[[_Standards/WikiData/WD~Korean_Seon,3489994]]"
-  - "[[_Standards/WikiData/WD~Taiwanese_Chan_Buddhism,15925534]]"
-instance_of: "[[_Standards/WikiData/WD~school_of_Buddhism,222516]]"
-different_from: "[[_Standards/WikiData/WD~Zem,4023370]]"
-named_after: "[[_Standards/WikiData/WD~Dhyāna_in_Buddhism,6577829]]"
+  - '[[_Standards/WikiData/WD~Japanese_Zen,189424]]'
+  - '[[_Standards/WikiData/WD~Chan_Buddhism,940709]]'
+  - '[[_Standards/WikiData/WD~Korean_Seon,3489994]]'
+  - '[[_Standards/WikiData/WD~Taiwanese_Chan_Buddhism,15925534]]'
+instance_of: '[[_Standards/WikiData/WD~school_of_Buddhism,222516]]'
+different_from: '[[_Standards/WikiData/WD~Zem,4023370]]'
+named_after: '[[_Standards/WikiData/WD~Dhyāna_in_Buddhism,6577829]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~A_Dictionary_of_Chinese_Buddhist_Terms,10886720]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~A_Dictionary_of_Chinese_Buddhist_Terms,10886720]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Zen_Buddhism,14335104]]"
-  - "[[_Standards/WikiData/WD~Template_Zen,20750798]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Buddhism,748]]"
-subclass_of: "[[_Standards/WikiData/WD~Mahāyāna,48362]]"
+  - '[[_Standards/WikiData/WD~Template_Zen_Buddhism,14335104]]'
+  - '[[_Standards/WikiData/WD~Template_Zen,20750798]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Buddhism,748]]'
+subclass_of: '[[_Standards/WikiData/WD~Mahāyāna,48362]]'
 subreddit: zen
 Library_of_Congress_Classification: BQ9250-BQ9299
 Commons_gallery: Zen Buddhism
 Commons_category: Zen Buddhism
-OmegaWiki_Defined_Meaning: "877702"
+OmegaWiki_Defined_Meaning: 877702
 native_label:
   - 禅
   - 선
@@ -34,7 +35,7 @@ native_label:
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eiheiji%20gate.jpg
 APA_Dictionary_of_Psychology_entry: zen-buddhism
 OpenStreetMap_tag: denomination=zen
-Dewey_Decimal_Classification: "294.3927"
+Dewey_Decimal_Classification: 294.3927
 ---
 
 # [[Zen]] 

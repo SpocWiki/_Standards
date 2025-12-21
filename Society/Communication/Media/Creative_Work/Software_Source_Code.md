@@ -4,20 +4,22 @@ aliases:
   - software_source_code
   - SoftwareSourceCode
   - is_a_software_source_code
+  - Software_Source_Code
+  - Software Source Code
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - software_source_code
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_software_source_code Class
 publish: true
-publishDate:
+publishDate: ''
 supersedes: Code
 tags:
   - class/Class

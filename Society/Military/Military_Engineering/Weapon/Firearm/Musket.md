@@ -1,27 +1,28 @@
 ---
 aliases:
   - Muskete
+  - Musket
 has_id_wikidata: Q178243
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~smoothbore,1064392]]"
-  - "[[_Standards/WikiData/WD~single_shot_firearm,1310130]]"
-  - "[[_Standards/WikiData/WD~muzzle_loader,1461850]]"
-  - "[[_Standards/WikiData/WD~black_powder_gun,9180271]]"
-derivative_work: "[[_Standards/WikiData/WD~musketoon,1118628]]"
+  - '[[_Standards/WikiData/WD~smoothbore,1064392]]'
+  - '[[_Standards/WikiData/WD~single_shot_firearm,1310130]]'
+  - '[[_Standards/WikiData/WD~muzzle_loader,1461850]]'
+  - '[[_Standards/WikiData/WD~black_powder_gun,9180271]]'
+derivative_work: '[[_Standards/WikiData/WD~musketoon,1118628]]'
 different_from:
-  - "[[_Standards/WikiData/WD~musketoon,1118628]]"
-  - "[[_Standards/WikiData/WD~Q65276123,65276123]]"
-instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
-Nomenclature_for_Museum_Cataloging: "8268"
+  - '[[_Standards/WikiData/WD~musketoon,1118628]]'
+  - '[[_Standards/WikiData/WD~Q65276123,65276123]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+Nomenclature_for_Museum_Cataloging: 8268
 Commons_category: Muskets
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Flintl%C3%A5sstudsare%2C%20Flintl%C3%A5sstudsarfragment%20-%20Livrustkammaren%20-%2086495.tif
 ---

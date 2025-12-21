@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PublicToilet
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/PublicToilet
-- class/Thing/Place/CivicStructure/PublicToilet
-- is_a_/PublicToilet
-- schema-org/PublicToilet
+  - class/PublicToilet
+  - class/Thing/Place/CivicStructure/PublicToilet
+  - is_a_/PublicToilet
+  - schema-org/PublicToilet
 tags:
-- class/FileClass
-- class/PublicToilet
-- is_a_/PublicToilet
-- class/Thing/Place/CivicStructure/PublicToilet
+  - class/FileClass
+  - class/PublicToilet
+  - is_a_/PublicToilet
+  - class/Thing/Place/CivicStructure/PublicToilet
 version: 2.0
 ---
 

@@ -4,20 +4,22 @@ aliases:
   - molecular_entity
   - MolecularEntity
   - is_a_molecular_entity
+  - Molecular_Entity
+  - Molecular Entity
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - molecular_entity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_molecular_entity Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

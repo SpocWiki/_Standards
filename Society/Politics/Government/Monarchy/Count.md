@@ -5,17 +5,18 @@ aliases:
   - count
   - countess
   - Gräfin
+  - Count
 has_id_wikidata: Q28989
-part_of: "[[_Standards/WikiData/WD~nobility,134737]]"
-instance_of: "[[_Standards/WikiData/WD~noble_title,355567]]"
+part_of: '[[_Standards/WikiData/WD~nobility,134737]]'
+instance_of: '[[_Standards/WikiData/WD~noble_title,355567]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~count,3519259]]"
-subclass_of: "[[_Standards/WikiData/WD~count,3519259]]"
-different_from: "[[_Standards/WikiData/WD~graf,12822637]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~count,3519259]]'
+subclass_of: '[[_Standards/WikiData/WD~count,3519259]]'
+different_from: '[[_Standards/WikiData/WD~graf,12822637]]'
 female_form_of_label:
   - графиня
   - Gräfin
@@ -37,10 +38,10 @@ male_form_of_label:
   - Graf
   - grev
 Dewey_Decimal_Classification:
-  - "305.522"
-  - "929.7"
+  - 305.522
+  - 929.7
   - 1--08621
-  - "305.4821"
+  - 305.4821
 Commons_category: Counts
 ---
 

@@ -1,25 +1,25 @@
 ---
 aliases:
-- Ford,Gerald
-- "Gerald Ford"
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Ford,Gerald
+  - Gerald Ford
+  - ''
 has_id_wikidata: Q9582
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Ford,Gerald
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Ford,Gerald
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- 
+  - ''
 title: Ford,Gerald
 type: private_note
 ---

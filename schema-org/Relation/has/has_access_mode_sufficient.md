@@ -3,12 +3,13 @@ aliases:
   - has_sufficient_access-mode
   - has_access_mode_sufficient
   - has_sufficient_access_mode
+  - has access mode sufficient
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +18,11 @@ keywords:
   - sufficient
   - access_mode_sufficient
   - access-mode_sufficient
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_access_mode_sufficient
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,11 +1,13 @@
 ---
 aliases:
   - Industrial agriculture
+  - Industrial_Agriculture
+  - Industrial Agriculture
 has_id_wikidata: Q1347753
-instance_of: "[[_Standards/WikiData/WD~industry,268592]]"
-opposite_of: "[[_Standards/WikiData/WD~family_farming,1019285]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-part_of: "[[_Standards/WikiData/WD~industrial_sector,8148]]"
+instance_of: '[[_Standards/WikiData/WD~industry,268592]]'
+opposite_of: '[[_Standards/WikiData/WD~family_farming,1019285]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+part_of: '[[_Standards/WikiData/WD~industrial_sector,8148]]'
 Commons_category: Industrial agriculture
 ---
 

@@ -2,7 +2,8 @@
 aliases:
   - Νάρκισσος
   - Nárkissos
-has_id_wikidata:
+  - Narcissus(Mythology)
+has_id_wikidata: ''
 ---
 
 # [[Narcissus(Mythology)]] 

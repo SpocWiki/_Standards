@@ -2,6 +2,7 @@
 aliases:
   - Classic Composer
   - Classic Composers
+  - Classic_Composer
 ---
 
 

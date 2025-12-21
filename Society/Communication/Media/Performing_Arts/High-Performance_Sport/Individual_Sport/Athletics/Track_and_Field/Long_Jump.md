@@ -1,16 +1,18 @@
 ---
 aliases:
   - Weitsprung
+  - Long_Jump
+  - Long Jump
 has_id_wikidata: Q170737
-record_or_record_progression: "[[_Standards/WikiData/WD~Long_jump_world_record_progression,472369]]"
+record_or_record_progression: '[[_Standards/WikiData/WD~Long_jump_world_record_progression,472369]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~vault,598168]]"
-  - "[[_Standards/WikiData/WD~horizontal_jump,3945829]]"
-different_from: "[[_Standards/WikiData/WD~standing_long_jump,679291]]"
-described_by_source: "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-instance_of: "[[_Standards/WikiData/WD~sports_discipline,2312410]]"
-practiced_by: "[[_Standards/WikiData/WD~long_jumper,13381428]]"
-sport: "[[_Standards/WikiData/WD~athletics,542]]"
+  - '[[_Standards/WikiData/WD~vault,598168]]'
+  - '[[_Standards/WikiData/WD~horizontal_jump,3945829]]'
+different_from: '[[_Standards/WikiData/WD~standing_long_jump,679291]]'
+described_by_source: '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
+practiced_by: '[[_Standards/WikiData/WD~long_jumper,13381428]]'
+sport: '[[_Standards/WikiData/WD~athletics,542]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/2007%20Military%20World%20Games%20long%20jump.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Jessica%20Ennis%20-%20long%20jump%20-%204.jpg

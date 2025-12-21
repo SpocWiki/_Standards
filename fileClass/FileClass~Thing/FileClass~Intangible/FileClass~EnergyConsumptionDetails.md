@@ -1,25 +1,27 @@
 ---
-excludes: 
+aliases:
+  - FileClass~EnergyConsumptionDetails
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: wSbewp
-  name: HasEnergyEfficiencyCategory
-  options: {}
-  type: Input
-  path: ''
+  - id: wSbewp
+    name: HasEnergyEfficiencyCategory
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/EnergyConsumptionDetails
-- class/Thing/Intangible/EnergyConsumptionDetails
-- is_an_/EnergyConsumptionDetails
-- schema-org/EnergyConsumptionDetails
+  - class/EnergyConsumptionDetails
+  - class/Thing/Intangible/EnergyConsumptionDetails
+  - is_an_/EnergyConsumptionDetails
+  - schema-org/EnergyConsumptionDetails
 tags:
-- class/FileClass
-- class/EnergyConsumptionDetails
-- '#is_an_/EnergyConsumptionDetails'
-- class/Thing/Intangible/EnergyConsumptionDetails
+  - class/FileClass
+  - class/EnergyConsumptionDetails
+  - '#is_an_/EnergyConsumptionDetails'
+  - class/Thing/Intangible/EnergyConsumptionDetails
 version: 2.0
 ---
 

@@ -1,6 +1,8 @@
 ---
 aliases:
   - ping-pong
+  - Table_Tennis
+  - Table Tennis
 has_id_wikidata: Q3930
 Baidu_Tieba_name: 乒乓球
 Unicode_character: 🏓
@@ -8,7 +10,7 @@ name:
   - Gossima
   - Ping Pong
 OpenStreetMap_tag: sport=table_tennis
-Dewey_Decimal_Classification: "796.346"
+Dewey_Decimal_Classification: 796.346
 subclass_of:
   - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
   - "[[_Standards/WikiData/WD~ball_game,877517]]"
@@ -30,14 +32,14 @@ instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
 country_of_origin: "[[_Standards/WikiData/WD~England,21]]"
 minimum_number_of_players: 2
 maximum_number_of_players: 4
-IAB_code: "538"
-U_S_National_Archives_Identifier: "10648524"
+IAB_code: 538
+U_S_National_Archives_Identifier: 10648524
 BHCL_UUID: cab8b5bc-fd98-4e67-9e81-f5eb5def46ac
 alternative_name: Ping-Pong
 described_at_URL:
   - https://www.bouncepingpong.com/about
   - https://neal.fun/earth-reviews/table-tennis
-OmegaWiki_Defined_Meaning: "757442"
+OmegaWiki_Defined_Meaning: 757442
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Table%20tennis%20pictogram.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Tischtennis2.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mondial%20Ping%20-%20Men%27s%20Singles%20-%20Round%204%20-%20Kenta%20Matsudaira-Vladimir%20Samsonov%20-%2057.jpg
@@ -51,7 +53,7 @@ Archive_of_Our_Own_tag: Table Tennis RPF
 subreddit: tabletennis
 ---
 
-# [[Table_Tennis]] 
+# [[Table_Tennis]] 🏓 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Table_tennis,3930|WD~Table_tennis,3930]]  
 

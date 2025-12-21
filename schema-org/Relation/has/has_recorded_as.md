@@ -3,23 +3,24 @@ aliases:
   - has recorded-as
   - recordedAs
   - has_recorded_as
+  - has recorded as
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - recorded_as
   - recorded
   - as
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_recorded_as
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

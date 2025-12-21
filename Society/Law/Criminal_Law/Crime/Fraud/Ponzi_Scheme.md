@@ -1,14 +1,16 @@
 ---
 aliases:
   - Q219407
+  - Ponzi_Scheme
+  - Ponzi Scheme
 has_id_wikidata: Q219407
 subclass_of:
-  - "[[_Standards/WikiData/WD~pyramid_scheme,214242]]"
-  - "[[_Standards/WikiData/WD~business_model,815823]]"
-  - "[[_Standards/WikiData/WD~financial_fraud,131936081]]"
-based_on: "[[_Standards/WikiData/WD~pyramid_scheme,214242]]"
-named_after: "[[_Standards/WikiData/WD~Charles_Ponzi,360145]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_crime,130583773]]"
+  - '[[_Standards/WikiData/WD~pyramid_scheme,214242]]'
+  - '[[_Standards/WikiData/WD~business_model,815823]]'
+  - '[[_Standards/WikiData/WD~financial_fraud,131936081]]'
+based_on: '[[_Standards/WikiData/WD~pyramid_scheme,214242]]'
+named_after: '[[_Standards/WikiData/WD~Charles_Ponzi,360145]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_crime,130583773]]'
 Commons_category: Pyramid and Ponzi schemes
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Ponzi.jpg
 ---

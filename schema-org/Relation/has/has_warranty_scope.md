@@ -3,23 +3,24 @@ aliases:
   - has warranty-scope
   - warrantyScope
   - has_warranty_scope
+  - has warranty scope
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - warranty_scope
   - warranty
   - scope
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_warranty_scope
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

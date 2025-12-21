@@ -4,92 +4,93 @@ aliases:
   - Miles Dewey Davis III
   - Miles Davis
   - Davis
+  - Davis,Miles
 has_id_wikidata: Q93341
 genre:
-  - "[[_Standards/WikiData/WD~bebop,105513]]"
-  - "[[_Standards/WikiData/WD~jazz_fusion,105527]]"
-  - "[[_Standards/WikiData/WD~hard_bop,181010]]"
-  - "[[_Standards/WikiData/WD~cool_jazz,327547]]"
-  - "[[_Standards/WikiData/WD~modal_jazz,1127530]]"
-  - "[[_Standards/WikiData/WD~jazz,8341]]"
+  - '[[_Standards/WikiData/WD~bebop,105513]]'
+  - '[[_Standards/WikiData/WD~jazz_fusion,105527]]'
+  - '[[_Standards/WikiData/WD~hard_bop,181010]]'
+  - '[[_Standards/WikiData/WD~cool_jazz,327547]]'
+  - '[[_Standards/WikiData/WD~modal_jazz,1127530]]'
+  - '[[_Standards/WikiData/WD~jazz,8341]]'
 occupation:
-  - "[[_Standards/WikiData/WD~conductor,158852]]"
-  - "[[_Standards/WikiData/WD~musician,639669]]"
-  - "[[_Standards/WikiData/WD~songwriter,753110]]"
-  - "[[_Standards/WikiData/WD~bandleader,806349]]"
-  - "[[_Standards/WikiData/WD~film_score_composer,1415090]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~trumpeter,12377274]]"
-  - "[[_Standards/WikiData/WD~jazz_musician,15981151]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~recording_artist,55960555]]"
-  - "[[_Standards/WikiData/WD~orchestra_leader,135107015]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
+  - '[[_Standards/WikiData/WD~conductor,158852]]'
+  - '[[_Standards/WikiData/WD~musician,639669]]'
+  - '[[_Standards/WikiData/WD~songwriter,753110]]'
+  - '[[_Standards/WikiData/WD~bandleader,806349]]'
+  - '[[_Standards/WikiData/WD~film_score_composer,1415090]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~trumpeter,12377274]]'
+  - '[[_Standards/WikiData/WD~jazz_musician,15981151]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+  - '[[_Standards/WikiData/WD~orchestra_leader,135107015]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
 instrument:
-  - "[[_Standards/WikiData/WD~synthesizer,163829]]"
-  - "[[_Standards/WikiData/WD~flugelhorn,382616]]"
-  - "[[_Standards/WikiData/WD~organ,1444]]"
-  - "[[_Standards/WikiData/WD~trumpet,8338]]"
+  - '[[_Standards/WikiData/WD~synthesizer,163829]]'
+  - '[[_Standards/WikiData/WD~flugelhorn,382616]]'
+  - '[[_Standards/WikiData/WD~organ,1444]]'
+  - '[[_Standards/WikiData/WD~trumpet,8338]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
-  - "[[_Standards/WikiData/WD~American_Book_Awards,463606]]"
-  - "[[_Standards/WikiData/WD~NEA_Jazz_Masters,488296]]"
-  - "[[_Standards/WikiData/WD~Paul_Acket_Award,865039]]"
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-  - "[[_Standards/WikiData/WD~MOJO_Awards,3319330]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~honorary_doctorate_of_Paris_Nanterre_University,112115429]]"
+  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+  - '[[_Standards/WikiData/WD~American_Book_Awards,463606]]'
+  - '[[_Standards/WikiData/WD~NEA_Jazz_Masters,488296]]'
+  - '[[_Standards/WikiData/WD~Paul_Acket_Award,865039]]'
+  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+  - '[[_Standards/WikiData/WD~MOJO_Awards,3319330]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~honorary_doctorate_of_Paris_Nanterre_University,112115429]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Columbia_Records,183387]]"
-  - "[[_Standards/WikiData/WD~Capitol_Records,193023]]"
-  - "[[_Standards/WikiData/WD~ACT_Music,288810]]"
-  - "[[_Standards/WikiData/WD~Fontana_Records,729590]]"
-  - "[[_Standards/WikiData/WD~Philips_Records,1536003]]"
-  - "[[_Standards/WikiData/WD~Prestige,1811175]]"
+  - '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
+  - '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
+  - '[[_Standards/WikiData/WD~ACT_Music,288810]]'
+  - '[[_Standards/WikiData/WD~Fontana_Records,729590]]'
+  - '[[_Standards/WikiData/WD~Philips_Records,1536003]]'
+  - '[[_Standards/WikiData/WD~Prestige,1811175]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Cicely_Tyson,238081]]"
-  - "[[_Standards/WikiData/WD~Betty_Davis,292355]]"
-  - "[[_Standards/WikiData/WD~Frances_Taylor_Davis,78580570]]"
-place_of_birth: "[[_Standards/WikiData/WD~Alton,443852]]"
+  - '[[_Standards/WikiData/WD~Cicely_Tyson,238081]]'
+  - '[[_Standards/WikiData/WD~Betty_Davis,292355]]'
+  - '[[_Standards/WikiData/WD~Frances_Taylor_Davis,78580570]]'
+place_of_birth: '[[_Standards/WikiData/WD~Alton,443852]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Juilliard_School,503246]]"
-  - "[[_Standards/WikiData/WD~East_St._Louis_Lincoln_High_School,23091861]]"
-copyright_representative: "[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]"
-discography: "[[_Standards/WikiData/WD~Miles_Davis_discography,941305]]"
-place_of_burial: "[[_Standards/WikiData/WD~Woodlawn_Cemetery,2000666]]"
+  - '[[_Standards/WikiData/WD~Juilliard_School,503246]]'
+  - '[[_Standards/WikiData/WD~East_St._Louis_Lincoln_High_School,23091861]]'
+copyright_representative: '[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]'
+discography: '[[_Standards/WikiData/WD~Miles_Davis_discography,941305]]'
+place_of_burial: '[[_Standards/WikiData/WD~Woodlawn_Cemetery,2000666]]'
 student_of:
-  - "[[_Standards/WikiData/WD~William_Vacchiano,2580837]]"
-  - "[[_Standards/WikiData/WD~Elwood_Buchanan,5368321]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~William_Vacchiano,2580837]]'
+  - '[[_Standards/WikiData/WD~Elwood_Buchanan,5368321]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Miles,6851298]]"
-  - "[[_Standards/WikiData/WD~Dewey,16275509]]"
+  - '[[_Standards/WikiData/WD~Miles,6851298]]'
+  - '[[_Standards/WikiData/WD~Dewey,16275509]]'
 is_member_of:
-  - "[[_Standards/WikiData/WD~Miles_Davis_Quintet,6851373]]"
-  - "[[_Standards/WikiData/WD~The_Miles_Davis_Sextet,98609608]]"
-  - "[[_Standards/WikiData/WD~The_Miles_Davis_Quartet,111569483]]"
-  - "[[_Standards/WikiData/WD~Miles_Davis_All_Stars,111569671]]"
-father: "[[_Standards/WikiData/WD~Miles_Henry_Davis,6851410]]"
-family_name: "[[_Standards/WikiData/WD~Davis,12652678]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Miles_Davis,14336602]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
+  - '[[_Standards/WikiData/WD~Miles_Davis_Quintet,6851373]]'
+  - '[[_Standards/WikiData/WD~The_Miles_Davis_Sextet,98609608]]'
+  - '[[_Standards/WikiData/WD~The_Miles_Davis_Quartet,111569483]]'
+  - '[[_Standards/WikiData/WD~Miles_Davis_All_Stars,111569671]]'
+father: '[[_Standards/WikiData/WD~Miles_Henry_Davis,6851410]]'
+family_name: '[[_Standards/WikiData/WD~Davis,12652678]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Miles_Davis,14336602]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~George_and_Joyce_Wein_Collection,75059699]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~American_English,7976]]"
+  - '[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~George_and_Joyce_Wein_Collection,75059699]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~American_English,7976]]'
 cause_of_death:
-  - "[[_Standards/WikiData/WD~pneumonia,12192]]"
-  - "[[_Standards/WikiData/WD~stroke,12202]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_death: "[[_Standards/WikiData/WD~Santa_Monica,47164]]"
-ethnic_group: "[[_Standards/WikiData/WD~African_Americans,49085]]"
+  - '[[_Standards/WikiData/WD~pneumonia,12192]]'
+  - '[[_Standards/WikiData/WD~stroke,12202]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_death: '[[_Standards/WikiData/WD~Santa_Monica,47164]]'
+ethnic_group: '[[_Standards/WikiData/WD~African_Americans,49085]]'
 social_media_followers: 45302
 Libris_URI: jgvxz06240nq05s
 Commons_gallery: Miles Davis
@@ -104,7 +105,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Miles%20Davis%20%28Thr
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Miles%20Davis%20Gravesite.JPG
 official_website: https://www.milesdavis.com
 ISNI: 000000012144707X
-IPI_name_number: "00007619785"
+IPI_name_number: 00007619785
 Plex_person_key: 5d7768aa3ab0e7001f507318
 Europeana_entity: agent/base/60166
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/DEVIS_MALZ.html

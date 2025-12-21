@@ -4,6 +4,8 @@ aliases:
   - Ei
   - Eier
   - Eggs
+  - Egg_as_Food
+  - Egg as Food
 has_id_wikidata: Q93189
 has_part_s_:
   - "[[_Standards/WikiData/WD~egg_yolk,181409]]"
@@ -34,15 +36,15 @@ natural_product_of_taxon:
 made_from_material: "[[_Standards/WikiData/WD~egg,17147]]"
 color: "[[_Standards/WikiData/WD~white,23444]]"
 food_energy: 70
-CosIng_number: "92396"
-USDA_NDB_number: "01123"
-OmegaWiki_Defined_Meaning: "340828"
+CosIng_number: 92396
+USDA_NDB_number: 1123
+OmegaWiki_Defined_Meaning: 340828
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eierdoos.jpg
 Unicode_character: 🥚
 Iconclass_notation: 41C642
 Commons_category: Poultry eggs
 UNII: 291P45F896
-Amazon_com_browse_node: "6459144011"
+Amazon_com_browse_node: 6459144011
 UMLS_CUI: C0013710
 hashtag_: egg_(food)
 booru_tag: egg_(food)
@@ -53,7 +55,7 @@ MeSH_tree_code:
   - J02.500.470
 ---
 
-# [[Egg_as_Food]] 
+# [[Egg(Food)]]  🍳 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Egg_as_food,93189|WD~Egg_as_food,93189]] 
 

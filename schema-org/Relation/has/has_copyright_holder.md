@@ -2,12 +2,13 @@
 aliases:
   - has copyright-holder
   - has_copyright_holder
+  - has copyright holder
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - holder
   - copyright_holder
   - copyrightHolder
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_copyright_holder
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

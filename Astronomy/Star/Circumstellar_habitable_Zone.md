@@ -2,6 +2,8 @@
 aliases:
   - habitable zone
   - Goldilocks zone
+  - Circumstellar_habitable_Zone
+  - Circumstellar habitable Zone
 has_id_wikidata: Q215913
 ---
 # [[Circumstellar_habitable_Zone]] 

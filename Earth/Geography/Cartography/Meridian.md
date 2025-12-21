@@ -1,6 +1,7 @@
 ---
 aliases:
   - Line of Longitude
+  - Meridian
 has_id_wikidata: Q32099
 different_from: "[[_Standards/WikiData/WD~north_south_running_great_circle,145519]]"
 manifestation_of:
@@ -30,7 +31,7 @@ Unicode_character: 🌐
 Krugosvet_article_archived_: Earth_sciences/geografiya/MERIDIAN.html
 ---
 
-# [[Meridian]] 
+# [[Meridian]] 🌐 
 
 #is_/same_as :: [[WD~Meridian,32099]] 
 

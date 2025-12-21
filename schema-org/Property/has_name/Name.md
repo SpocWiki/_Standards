@@ -1,6 +1,7 @@
 ---
 aliases:
   - Nom
+  - Name
 has_id_wikidata: Q82799
 different_from:
   - "[[_Standards/WikiData/WD~proper_noun,147276]]"
@@ -26,12 +27,12 @@ Wikidata_property:
   - subject named as
   - name
 has_part_s_: "[[_Standards/WikiData/WD~word,8171]]"
-Dewey_Decimal_Classification: "929"
+Dewey_Decimal_Classification: 929
 exact_match: https://schema.org/name
 OpenStreetMap_key: name
 hashtag: name
 Commons_category: Names
-U_S_National_Archives_Identifier: "10640933"
+U_S_National_Archives_Identifier: 10640933
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Coming%20up%20with%20business%20names.jpg
 equivalent_class:
   - http://dbpedia.org/ontology/Name

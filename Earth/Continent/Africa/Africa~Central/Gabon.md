@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Gabon
+  - Gabón
+  - غابون
+  - 加蓬
+  - Габон
+  - the Gabonese Republic
+  - la República Gabonesa
+  - Gabón (el)
+has_id_wikidata: Q1000
 flag: "[[_Standards/WikiData/WD~flag_of_Gabon,101769]]"
 member_of:
   - "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
@@ -291,7 +301,7 @@ urban_population:
   - 2167652
 population: 2025137
 native_label: République gabonaise
-inception: "1960"
+inception: 1960
 has_time_started: 1960-06
 coordinates_of_southernmost_point: Point(11.15322 -3.96005)
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Gabon.svg
@@ -301,7 +311,6 @@ Unicode_character: 🇬🇦
 coordinate_location: Point(11.5 -0.683330555)
 geoshape: http://commons.wikimedia.org/data/main/Data:Gabon.map
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Gabon%20banner%20Lop%C3%A9%20National%20Park.jpg
-has_id_wikidata: Q1000
 location:
   - 0.383333
   - 9.45
@@ -318,21 +327,12 @@ cssclasses:
   - Country
 publish: true
 title: Gabon
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Gabon
-  - Gabón
-  - غابون
-  - 加蓬
-  - Габон
-  - the Gabonese Republic
-  - la República Gabonesa
-  - Gabón (el)
+publishDate: ""
+expiryDate: ""
 Languages:
   - fr-GA
 ---

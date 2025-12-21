@@ -1,76 +1,77 @@
 ---
 aliases:
   - Genghis Khan
+  - Genghis_Khan
 has_id_wikidata: Q720
-noble_title: "[[_Standards/WikiData/WD~khan,181888]]"
+noble_title: '[[_Standards/WikiData/WD~khan,181888]]'
 child:
-  - "[[_Standards/WikiData/WD~Jochi,186581]]"
-  - "[[_Standards/WikiData/WD~Chagatai_Khan,487543]]"
-  - "[[_Standards/WikiData/WD~Qojin,1914424]]"
-  - "[[_Standards/WikiData/WD~Alahaibieji,2770270]]"
-  - "[[_Standards/WikiData/WD~Tümelün,2885851]]"
-  - "[[_Standards/WikiData/WD~Kölgen,4251208]]"
-  - "[[_Standards/WikiData/WD~Wuluchi,7063489]]"
-  - "[[_Standards/WikiData/WD~Chawuer,7063952]]"
-  - "[[_Standards/WikiData/WD~Shuerche,7064003]]"
-  - "[[_Standards/WikiData/WD~Chechiyegen,7199764]]"
-  - "[[_Standards/WikiData/WD~Al_Altan,17032401]]"
+  - '[[_Standards/WikiData/WD~Jochi,186581]]'
+  - '[[_Standards/WikiData/WD~Chagatai_Khan,487543]]'
+  - '[[_Standards/WikiData/WD~Qojin,1914424]]'
+  - '[[_Standards/WikiData/WD~Alahaibieji,2770270]]'
+  - '[[_Standards/WikiData/WD~Tümelün,2885851]]'
+  - '[[_Standards/WikiData/WD~Kölgen,4251208]]'
+  - '[[_Standards/WikiData/WD~Wuluchi,7063489]]'
+  - '[[_Standards/WikiData/WD~Chawuer,7063952]]'
+  - '[[_Standards/WikiData/WD~Shuerche,7064003]]'
+  - '[[_Standards/WikiData/WD~Chechiyegen,7199764]]'
+  - '[[_Standards/WikiData/WD~Al_Altan,17032401]]'
   - "[[_Standards/WikiData/WD~Yeli'andun,18110553]]"
-  - "[[_Standards/WikiData/WD~Ögedei_Khan,7519]]"
-  - "[[_Standards/WikiData/WD~Tolui,7517]]"
-military_casualty_classification: "[[_Standards/WikiData/WD~killed_in_action,210392]]"
-place_of_death: "[[_Standards/WikiData/WD~Yinchuan,211243]]"
+  - '[[_Standards/WikiData/WD~Ögedei_Khan,7519]]'
+  - '[[_Standards/WikiData/WD~Tolui,7517]]'
+military_casualty_classification: '[[_Standards/WikiData/WD~killed_in_action,210392]]'
+place_of_death: '[[_Standards/WikiData/WD~Yinchuan,211243]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Börte,234805]]"
-  - "[[_Standards/WikiData/WD~Yesugen,4177255]]"
-  - "[[_Standards/WikiData/WD~Yesui,4177257]]"
-  - "[[_Standards/WikiData/WD~Khulan,4502265]]"
-  - "[[_Standards/WikiData/WD~Gürbesu,7064842]]"
-  - "[[_Standards/WikiData/WD~Chahe,7065392]]"
-  - "[[_Standards/WikiData/WD~Princess_Qiguo,7066478]]"
-  - "[[_Standards/WikiData/WD~Hedaan,7067167]]"
-  - "[[_Standards/WikiData/WD~Ibaqa_beki,30948830]]"
-mother: "[[_Standards/WikiData/WD~Hoelun,378676]]"
+  - '[[_Standards/WikiData/WD~Börte,234805]]'
+  - '[[_Standards/WikiData/WD~Yesugen,4177255]]'
+  - '[[_Standards/WikiData/WD~Yesui,4177257]]'
+  - '[[_Standards/WikiData/WD~Khulan,4502265]]'
+  - '[[_Standards/WikiData/WD~Gürbesu,7064842]]'
+  - '[[_Standards/WikiData/WD~Chahe,7065392]]'
+  - '[[_Standards/WikiData/WD~Princess_Qiguo,7066478]]'
+  - '[[_Standards/WikiData/WD~Hedaan,7067167]]'
+  - '[[_Standards/WikiData/WD~Ibaqa_beki,30948830]]'
+mother: '[[_Standards/WikiData/WD~Hoelun,378676]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Genghis_Khan,399347]]"
-  - "[[_Standards/WikiData/WD~Temujin,11319370]]"
-father: "[[_Standards/WikiData/WD~Yesugei,573157]]"
+  - '[[_Standards/WikiData/WD~Genghis_Khan,399347]]'
+  - '[[_Standards/WikiData/WD~Temujin,11319370]]'
+father: '[[_Standards/WikiData/WD~Yesugei,573157]]'
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]"
-  - "[[_Standards/WikiData/WD~History_of_Yuan,1345223]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Q54149726,54149726]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]'
+  - '[[_Standards/WikiData/WD~History_of_Yuan,1345223]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Q54149726,54149726]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Qasar,617010]]"
-  - "[[_Standards/WikiData/WD~Belgutei,1014890]]"
-  - "[[_Standards/WikiData/WD~Behter,1067326]]"
-  - "[[_Standards/WikiData/WD~Temüge,2556187]]"
-  - "[[_Standards/WikiData/WD~Hachiun,2598916]]"
-  - "[[_Standards/WikiData/WD~Temulin,7068897]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Tengrism,837605]]"
-family: "[[_Standards/WikiData/WD~Borjigin,1059073]]"
+  - '[[_Standards/WikiData/WD~Qasar,617010]]'
+  - '[[_Standards/WikiData/WD~Belgutei,1014890]]'
+  - '[[_Standards/WikiData/WD~Behter,1067326]]'
+  - '[[_Standards/WikiData/WD~Temüge,2556187]]'
+  - '[[_Standards/WikiData/WD~Hachiun,2598916]]'
+  - '[[_Standards/WikiData/WD~Temulin,7068897]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Tengrism,837605]]'
+family: '[[_Standards/WikiData/WD~Borjigin,1059073]]'
 occupation:
-  - "[[_Standards/WikiData/WD~traditional_leader_or_chief,1259323]]"
-  - "[[_Standards/WikiData/WD~military_leader,1402561]]"
-  - "[[_Standards/WikiData/WD~monarch,116]]"
-military_branch: "[[_Standards/WikiData/WD~Military_of_the_Mongol_Empire,1299234]]"
-place_of_birth: "[[_Standards/WikiData/WD~Delüün_Boldog,2068087]]"
-cause_of_death: "[[_Standards/WikiData/WD~horse_fall,2967712]]"
-place_of_burial: "[[_Standards/WikiData/WD~Mausoleum_of_Genghis_Khan,3301848]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-depicted_by: "[[_Standards/WikiData/WD~The_Private_Life_of_Genghis_Khan,7758404]]"
-given_name: "[[_Standards/WikiData/WD~Genghis,18605948]]"
-position_held: "[[_Standards/WikiData/WD~Khagan_of_the_Mongol_Empire,60484572]]"
-relative: "[[_Standards/WikiData/WD~Tekina_Khatun,108091442]]"
+  - '[[_Standards/WikiData/WD~traditional_leader_or_chief,1259323]]'
+  - '[[_Standards/WikiData/WD~military_leader,1402561]]'
+  - '[[_Standards/WikiData/WD~monarch,116]]'
+military_branch: '[[_Standards/WikiData/WD~Military_of_the_Mongol_Empire,1299234]]'
+place_of_birth: '[[_Standards/WikiData/WD~Delüün_Boldog,2068087]]'
+cause_of_death: '[[_Standards/WikiData/WD~horse_fall,2967712]]'
+place_of_burial: '[[_Standards/WikiData/WD~Mausoleum_of_Genghis_Khan,3301848]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+depicted_by: '[[_Standards/WikiData/WD~The_Private_Life_of_Genghis_Khan,7758404]]'
+given_name: '[[_Standards/WikiData/WD~Genghis,18605948]]'
+position_held: '[[_Standards/WikiData/WD~Khagan_of_the_Mongol_Empire,60484572]]'
+relative: '[[_Standards/WikiData/WD~Tekina_Khatun,108091442]]'
 date_of_birth: 1162-06-07T00:00:00Z
-present_in_work: "[[_Standards/WikiData/WD~Civilization_V,2385]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Mongol_Empire,12557]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-OmegaWiki_Defined_Meaning: "1245306"
+present_in_work: '[[_Standards/WikiData/WD~Civilization_V,2385]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Mongol_Empire,12557]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+OmegaWiki_Defined_Meaning: 1245306
 Krugosvet_article: istoriya/CHINGISHAN.html
 art_name: 成吉思汗
 Baidu_Tieba_name: 成吉思汗
@@ -90,8 +91,8 @@ BHCL_UUID: 24cefdf5-8288-431d-b6ff-93d725e1c562
 temple_name: 太祖
 image: http://commons.wikimedia.org/wiki/Special:FilePath/YuanEmperorAlbumGenghisPortrait.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Cengiz%20Haqan%20in%20Old%20Uyghur%20script.svg
-ISNI: "0000000118101908"
-NLC_authorities: "001885915"
+ISNI: 0000000118101908
+NLC_authorities: 001885915
 CYT_CCS: AC000398216
 Wolfram_Language_entity_code: Entity["Concept", "GenghisKhan::8k576"]
 Libris_URI: gdsvpsv01w1kcbk

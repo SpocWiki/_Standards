@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Ranga Yogeshwar"
-- "Ranganathan Gregoire Yogeshwar"
+  - Ranga Yogeshwar
+  - Ranganathan Gregoire Yogeshwar
+  - Yogeshwar,Ranga
 ---
 
 #has_/time_/started :: 1959-05-18 

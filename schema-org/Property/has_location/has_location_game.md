@@ -4,21 +4,22 @@ aliases:
   - game_location
   - gameLocation
   - has_location_game
+  - has location game
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - game_location
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_game
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

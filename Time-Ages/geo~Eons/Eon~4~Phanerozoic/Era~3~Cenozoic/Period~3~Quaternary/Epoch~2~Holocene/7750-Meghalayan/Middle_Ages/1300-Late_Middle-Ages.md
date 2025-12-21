@@ -1,7 +1,9 @@
 ---
 aliases:
-- "late medieval period"
-- "Late Middle Ages"
+  - late medieval period
+  - Late Middle Ages
+  - 1300-Late_Middle-Ages
+  - 1300-Late Middle-Ages
 ---
 
 #is_a_/time_/Culture 

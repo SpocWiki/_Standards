@@ -1,6 +1,7 @@
 ---
 aliases:
-- "FIFA World Cup"
+  - FIFA World Cup
+  - FIFA_World_Cup
 ---
 
 ## #has_/text_of_/abstract 

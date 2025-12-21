@@ -1,13 +1,15 @@
 ---
 aliases:
   - clear ice
+  - Black_Ice
+  - Black Ice
 has_id_wikidata: Q220604
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-subclass_of: "[[_Standards/WikiData/WD~glaze,1192031]]"
-instance_of: "[[_Standards/WikiData/WD~ice,23392]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~glaze,1192031]]'
+instance_of: '[[_Standards/WikiData/WD~ice,23392]]'
 Commons_category: Black ice
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20ice%20on%20footway.jpg
 ---

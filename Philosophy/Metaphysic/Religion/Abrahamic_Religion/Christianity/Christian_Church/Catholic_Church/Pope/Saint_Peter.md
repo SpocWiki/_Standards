@@ -7,6 +7,8 @@ aliases:
   - Cephas
   - Shimon bar Yonah
   - Petrus
+  - Saint_Peter
+  - Saint Peter
 has_id_wikidata: Q33923
 present_in_work:
   - "[[_Standards/WikiData/WD~Gospel_of_Mark,107388]]"
@@ -86,16 +88,16 @@ date_of_birth: 0000-01-01T00:00:00Z
 Commons_gallery: Petrus
 BHCL_UUID: 164cfea1-c2fe-4c71-a536-93eac0fc4207
 Iconclass_notation: 11H(PETER)
-U_S_National_Archives_Identifier: "6147268"
+U_S_National_Archives_Identifier: 6147268
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pope-peter%20pprubens.jpg
 Commons_category: Saint Peter
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Peter%20Spoken%20Version.ogg
 Stack_Exchange_tag: https://christianity.stackexchange.com/tags/peter
-ISNI: "0000000119847373"
+ISNI: 119847373
 Provenio_UUID:
   - 1000dcb3-a472-4a7d-a2d1-841a3e40d57d
   - 70130031-2e18-4a3d-b4e3-9e70800f1d83
-RIA_Novosti_reference: "51222211"
+RIA_Novosti_reference: 51222211
 Library_of_Congress_Classification: BS2505-BS2507
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/PETR_SV.html
 Image_Archive_Herder_Institute: Q33923

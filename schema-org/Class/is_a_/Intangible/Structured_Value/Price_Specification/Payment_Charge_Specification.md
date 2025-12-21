@@ -4,20 +4,22 @@ aliases:
   - payment_charge_specification
   - PaymentChargeSpecification
   - is_a_payment_charge_specification
+  - Payment_Charge_Specification
+  - Payment Charge Specification
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - payment_charge_specification
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_payment_charge_specification Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

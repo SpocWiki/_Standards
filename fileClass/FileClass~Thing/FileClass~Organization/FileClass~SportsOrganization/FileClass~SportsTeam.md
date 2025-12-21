@@ -1,32 +1,34 @@
 ---
-excludes: 
+aliases:
+  - FileClass~SportsTeam
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization
 fields:
-- id: KAOeHz
-  name: Athlete
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: CeUAth
-  name: Coach
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
+  - id: KAOeHz
+    name: Athlete
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: CeUAth
+    name: Coach
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/SportsTeam
-- class/Thing/Organization/SportsOrganization/SportsTeam
-- is_a_/SportsTeam
-- schema-org/SportsTeam
+  - class/SportsTeam
+  - class/Thing/Organization/SportsOrganization/SportsTeam
+  - is_a_/SportsTeam
+  - schema-org/SportsTeam
 tags:
-- class/FileClass
-- class/SportsTeam
-- is_a_/SportsTeam
-- class/Thing/Organization/SportsOrganization/SportsTeam
+  - class/FileClass
+  - class/SportsTeam
+  - is_a_/SportsTeam
+  - class/Thing/Organization/SportsOrganization/SportsTeam
 version: 2.0
 ---
 

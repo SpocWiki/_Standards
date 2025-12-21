@@ -1,4 +1,11 @@
 ---
+aliases:
+  - pedal cycle
+  - bike
+  - push-bike
+  - cycle
+  - Bicycle
+has_id_wikidata: Q11442
 Baidu_Tieba_name: 自行车
 carbon_footprint:
   - 21
@@ -25,7 +32,6 @@ hashtag:
   - rower
   - ровар
 has_effect: "[[_Standards/WikiData/WD~travel,61509]]"
-has_id_wikidata: Q11442
 has_list:
   - "[[_Standards/WikiData/WD~list_of_bicycle_brands_and_manufacturing_companies,953630]]"
   - "[[_Standards/WikiData/WD~list_of_bicycle_types,1392620]]"
@@ -120,14 +126,9 @@ uses:
   - "[[_Standards/WikiData/WD~pedal_crank_drive,124300632]]"
 U_S_National_Archives_Identifier: 10647185
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_bicycles,7112565]]"
-aliases:
-  - pedal cycle
-  - bike
-  - push-bike
-  - cycle
 ---
 
-# [[Bicycle]] 
+# [[Bicycle]] 🚲 
 
 #is_/same_as :: [[../../../WikiData/WD~Bicycle,11442|WD~Bicycle,11442]] 
 

@@ -4,20 +4,22 @@ aliases:
   - fm_radio_channel
   - FMRadioChannel
   - is_a_fm_radio_channel
+  - Fm_Radio_Channel
+  - Fm Radio Channel
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - fm_radio_channel
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_fm_radio_channel Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

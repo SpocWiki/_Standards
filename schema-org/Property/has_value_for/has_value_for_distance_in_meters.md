@@ -4,21 +4,22 @@ aliases:
   - distance
   - distance
   - has_value_for_distance_in_meters
+  - has value for distance in meters
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - distance
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_distance
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

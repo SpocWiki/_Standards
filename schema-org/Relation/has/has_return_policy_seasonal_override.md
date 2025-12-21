@@ -3,12 +3,13 @@ aliases:
   - has return-policy-seasonal-override
   - returnPolicySeasonalOverride
   - has_return_policy_seasonal_override
+  - has return policy seasonal override
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +18,11 @@ keywords:
   - policy
   - seasonal
   - override
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_return_policy_seasonal_override
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

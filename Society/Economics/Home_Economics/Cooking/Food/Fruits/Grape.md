@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Grape
+has_id_wikidata: Q10978
 Amazon_com_browse_node:
   - 2255595011
   - 6464957011
@@ -24,7 +27,6 @@ different_from:
   - "[[_Standards/WikiData/WD~Q18909646,18909646]]"
   - "[[_Standards/WikiData/WD~grapefruit,21552830]]"
 equivalent_class: http://dbpedia.org/ontology/Grape
-has_id_wikidata: Q10978
 Iconclass_notation: 47I4223
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wine%20grapes03.jpg
 instance_of: "[[_Standards/WikiData/WD~fruit,3314483]]"
@@ -55,6 +57,10 @@ water_footprint:
   - 608
   - 2433
 ---
+
+# [[Grape]] 🍇 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Grape,10978|WD~Grape,10978]]
 
 ## #has_/text_of_/abstract 
 

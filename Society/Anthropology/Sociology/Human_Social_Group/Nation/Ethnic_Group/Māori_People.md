@@ -1,45 +1,47 @@
 ---
 aliases:
   - Māori
+  - Māori_People
+  - Māori People
 has_id_wikidata: Q6122670
 subclass_of:
-  - "[[_Standards/WikiData/WD~indigenous_people,103817]]"
-  - "[[_Standards/WikiData/WD~Polynesians,1042001]]"
+  - '[[_Standards/WikiData/WD~indigenous_people,103817]]'
+  - '[[_Standards/WikiData/WD~Polynesians,1042001]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-part_of: "[[_Standards/WikiData/WD~Polynesians,1042001]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+part_of: '[[_Standards/WikiData/WD~Polynesians,1042001]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Rātana,1468049]]"
-  - "[[_Standards/WikiData/WD~Ringatū,3432223]]"
-  - "[[_Standards/WikiData/WD~Mātauranga_Māori,99547709]]"
-  - "[[_Standards/WikiData/WD~Islam,432]]"
-  - "[[_Standards/WikiData/WD~Christianity,5043]]"
+  - '[[_Standards/WikiData/WD~Rātana,1468049]]'
+  - '[[_Standards/WikiData/WD~Ringatū,3432223]]'
+  - '[[_Standards/WikiData/WD~Mātauranga_Māori,99547709]]'
+  - '[[_Standards/WikiData/WD~Islam,432]]'
+  - '[[_Standards/WikiData/WD~Christianity,5043]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Museum_aan_de_Stroom,1646305]]"
-  - "[[_Standards/WikiData/WD~British_Museum,6373]]"
+  - '[[_Standards/WikiData/WD~Museum_aan_de_Stroom,1646305]]'
+  - '[[_Standards/WikiData/WD~British_Museum,6373]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Moriori_people,1758372]]"
-  - "[[_Standards/WikiData/WD~Maouri_people,6753697]]"
-  - "[[_Standards/WikiData/WD~Maori_People,124353353]]"
-flag: "[[_Standards/WikiData/WD~Tino_Rangatiratanga_flag,98609686]]"
-country_of_origin: "[[_Standards/WikiData/WD~New_Zealand,664]]"
-country: "[[_Standards/WikiData/WD~New_Zealand,664]]"
+  - '[[_Standards/WikiData/WD~Moriori_people,1758372]]'
+  - '[[_Standards/WikiData/WD~Maouri_people,6753697]]'
+  - '[[_Standards/WikiData/WD~Maori_People,124353353]]'
+flag: '[[_Standards/WikiData/WD~Tino_Rangatiratanga_flag,98609686]]'
+country_of_origin: '[[_Standards/WikiData/WD~New_Zealand,664]]'
+country: '[[_Standards/WikiData/WD~New_Zealand,664]]'
 language_used:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Māori,36451]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Māori,36451]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Māori,36451]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Māori,36451]]'
 native_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Māori,36451]]"
-instance_of: "[[_Standards/WikiData/WD~ethnic_group,41710]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Māori,36451]]'
+instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710]]'
 population: 775836
 native_label: Māori
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Tino%20Rangatiratanga%20Maori%20Flag.svg

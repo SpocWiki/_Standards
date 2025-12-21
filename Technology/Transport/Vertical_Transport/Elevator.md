@@ -25,8 +25,8 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
 Wikidata_property: number of elevators
-Nomenclature_for_Museum_Cataloging: "98"
-OmegaWiki_Defined_Meaning: "156773"
+Nomenclature_for_Museum_Cataloging: 98
+OmegaWiki_Defined_Meaning: 156773
 Commons_gallery: Elevator
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Aufzug.ogg
@@ -37,10 +37,10 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/20110712%20bruxelles018.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/20110712%20bruxelles021.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Aiga%20elevator.svg
-U_S_National_Archives_Identifier: "10676318"
-UNSPSC_Code: "24101604"
+U_S_National_Archives_Identifier: 10676318
+UNSPSC_Code: 24101604
 Iconclass_notation: 41A342
-Common_Procurement_Vocabulary_code: "42416100"
+Common_Procurement_Vocabulary_code: 42416100
 IMDb_keyword: elevator
 Commons_category: Elevators
 Wolfram_Language_entity_code: Entity["Concept", "Elevator::2v7fm"]
@@ -49,7 +49,7 @@ OpenStreetMap_tag_or_key: Tag:highway=elevator
 Unicode_character: 🛗
 ---
 
-# [[Elevator]] 
+# [[Elevator]] 🛗 
 
 #is_/same_as :: [[../../../WikiData/WD~Elevator,132911|WD~Elevator,132911]] 
 

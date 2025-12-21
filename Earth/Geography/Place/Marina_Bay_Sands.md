@@ -4,26 +4,27 @@ aliases:
   - Marina Bay Sands, Singapore
   - Marina Bay Sands Singapore
   - Marina Bay Sands
+  - Marina_Bay_Sands
 has_id_wikidata: Q548679
-architect: "[[_Standards/WikiData/WD~Moshe_Safdie,220944]]"
+architect: '[[_Standards/WikiData/WD~Moshe_Safdie,220944]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Union_of_International_Associations,549714]]"
-  - "[[_Standards/WikiData/WD~Singapore_Hotel_Association,117587430]]"
-owned_by: "[[_Standards/WikiData/WD~Las_Vegas_Sands,1506045]]"
-significant_event: "[[_Standards/WikiData/WD~renovation,2144402]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Downtown_Core,3810086]]"
-located_on_street: "[[_Standards/WikiData/WD~Bayfront_Avenue,4874519]]"
+  - '[[_Standards/WikiData/WD~Union_of_International_Associations,549714]]'
+  - '[[_Standards/WikiData/WD~Singapore_Hotel_Association,117587430]]'
+owned_by: '[[_Standards/WikiData/WD~Las_Vegas_Sands,1506045]]'
+significant_event: '[[_Standards/WikiData/WD~renovation,2144402]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Downtown_Core,3810086]]'
+located_on_street: '[[_Standards/WikiData/WD~Bayfront_Avenue,4874519]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~casino_hotel,6043159]]"
-  - "[[_Standards/WikiData/WD~tower_block,18142]]"
-  - "[[_Standards/WikiData/WD~hotel,27686]]"
+  - '[[_Standards/WikiData/WD~casino_hotel,6043159]]'
+  - '[[_Standards/WikiData/WD~tower_block,18142]]'
+  - '[[_Standards/WikiData/WD~hotel,27686]]'
 check_out_time:
-  - "[[_Standards/WikiData/WD~11_AM,41618189]]"
-  - "[[_Standards/WikiData/WD~11_00,55811097]]"
-check_in_time: "[[_Standards/WikiData/WD~15_00,55811778]]"
-hotel_rating: "[[_Standards/WikiData/WD~5_star_hotel_rating,109248725]]"
+  - '[[_Standards/WikiData/WD~11_AM,41618189]]'
+  - '[[_Standards/WikiData/WD~11_00,55811097]]'
+check_in_time: '[[_Standards/WikiData/WD~15_00,55811778]]'
+hotel_rating: '[[_Standards/WikiData/WD~5_star_hotel_rating,109248725]]'
 coordinate_location: Point(103.86 1.2825)
-country: "[[_Standards/WikiData/WD~Singapore,334]]"
+country: '[[_Standards/WikiData/WD~Singapore,334]]'
 floors_above_ground:
   - 55
   - 57
@@ -32,7 +33,7 @@ social_media_followers: 32555
 review_score:
   - 4.6/5
   - 4.786/5
-postal_code: "018956"
+postal_code: 018956
 image_of_interior: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80%20-%20panoramio%20%2825%29.jpg
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Marina%20Bay%20Sands%20in%20the%20evening%20-%2020101120.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Marina%20Bay%20Sands%20logo.svg

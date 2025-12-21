@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CollectionPage
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CollectionPage
-- class/Thing/CreativeWork/WebPage/CollectionPage
-- is_a_/CollectionPage
-- schema-org/CollectionPage
+  - class/CollectionPage
+  - class/Thing/CreativeWork/WebPage/CollectionPage
+  - is_a_/CollectionPage
+  - schema-org/CollectionPage
 tags:
-- class/FileClass
-- class/CollectionPage
-- is_a_/CollectionPage
-- class/Thing/CreativeWork/WebPage/CollectionPage
+  - class/FileClass
+  - class/CollectionPage
+  - is_a_/CollectionPage
+  - class/Thing/CreativeWork/WebPage/CollectionPage
 version: 2.0
 ---
 

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ElectronicsStore
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ElectronicsStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ElectronicsStore
-- is_an_/ElectronicsStore
-- schema-org/ElectronicsStore
+  - class/ElectronicsStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ElectronicsStore
+  - is_an_/ElectronicsStore
+  - schema-org/ElectronicsStore
 tags:
-- class/FileClass
-- class/ElectronicsStore
-- '#is_an_/ElectronicsStore'
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ElectronicsStore
+  - class/FileClass
+  - class/ElectronicsStore
+  - '#is_an_/ElectronicsStore'
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ElectronicsStore
 version: 2.0
 ---
 

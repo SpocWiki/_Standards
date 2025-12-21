@@ -4,11 +4,13 @@ aliases:
   - bulletproof vest
   - ballistic vest
   - bullet-resistant vest
+  - Bulletproof_Vest
+  - Bulletproof Vest
 has_id_wikidata: Q391752
 subclass_of:
-  - "[[_Standards/WikiData/WD~body_armor,485027]]"
-  - "[[_Standards/WikiData/WD~vest,958210]]"
-Nomenclature_for_Museum_Cataloging: "8148"
+  - '[[_Standards/WikiData/WD~body_armor,485027]]'
+  - '[[_Standards/WikiData/WD~vest,958210]]'
+Nomenclature_for_Museum_Cataloging: 8148
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NIJ%20LVLIIIA%20Kogelvrij%20vest%2C%20BA8001.jpg
 exact_match: http://wordnet-rdf.princeton.edu/wn30/02916936-n
 Commons_category: Bulletproof vests

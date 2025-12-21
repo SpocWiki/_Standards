@@ -21,15 +21,16 @@ aliases:
   - predkambrij
   - prekambrium
   - 前寒武纪
+  - Super-Eon~Precambrian
 has_id_wikidata: Q103910
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~supereon,15398983]]"
-  - "[[_Standards/WikiData/WD~supereonothem,108674179]]"
-named_after: "[[_Standards/WikiData/WD~Cambria,27814]]"
-part_of: "[[_Standards/WikiData/WD~geologic_time_scale,43521]]"
+  - '[[_Standards/WikiData/WD~supereon,15398983]]'
+  - '[[_Standards/WikiData/WD~supereonothem,108674179]]'
+named_after: '[[_Standards/WikiData/WD~Cambria,27814]]'
+part_of: '[[_Standards/WikiData/WD~geologic_time_scale,43521]]'
 Commons_category: Precambrian
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/PreCambrian%20Era%20Geological%20Timeline.png

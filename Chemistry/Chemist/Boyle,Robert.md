@@ -1,78 +1,79 @@
 ---
 aliases:
   - Robert_Boyle
+  - Boyle,Robert
 has_id_wikidata: Q43393
 member_of:
-  - "[[_Standards/WikiData/WD~Royal_Society,123885]]"
-  - "[[_Standards/WikiData/WD~Invisible_College,652556]]"
+  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+  - '[[_Standards/WikiData/WD~Invisible_College,652556]]'
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~chemist,593644]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
+  - '[[_Standards/WikiData/WD~physicist,169470]]'
+  - '[[_Standards/WikiData/WD~chemist,593644]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
 notable_work:
   - "[[_Standards/WikiData/WD~Boyle's_law,175974]]"
-  - "[[_Standards/WikiData/WD~New_Experiments_Physico_Mechanicall,_Touching_the_Spring_of_the_Air_and_its_Effects,42193437]]"
-  - "[[_Standards/WikiData/WD~The_Sceptical_Chymist,60161]]"
+  - '[[_Standards/WikiData/WD~New_Experiments_Physico_Mechanicall,_Touching_the_Spring_of_the_Air_and_its_Effects,42193437]]'
+  - '[[_Standards/WikiData/WD~The_Sceptical_Chymist,60161]]'
 residence:
-  - "[[_Standards/WikiData/WD~County_Waterford,184594]]"
-  - "[[_Standards/WikiData/WD~England,21]]"
-educated_at: "[[_Standards/WikiData/WD~Eton_College,192088]]"
+  - '[[_Standards/WikiData/WD~County_Waterford,184594]]'
+  - '[[_Standards/WikiData/WD~England,21]]'
+educated_at: '[[_Standards/WikiData/WD~Eton_College,192088]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Ibn_Tufayl,251259]]"
-  - "[[_Standards/WikiData/WD~Cornelis_Drebbel,365463]]"
-  - "[[_Standards/WikiData/WD~Galileo_Galilei,307]]"
-  - "[[_Standards/WikiData/WD~René_Descartes,9191]]"
-  - "[[_Standards/WikiData/WD~Francis_Bacon,37388]]"
-  - "[[_Standards/WikiData/WD~Otto_von_Guericke,60095]]"
-different_from: "[[_Standards/WikiData/WD~Robert_F._Boyle,521400]]"
+  - '[[_Standards/WikiData/WD~Ibn_Tufayl,251259]]'
+  - '[[_Standards/WikiData/WD~Cornelis_Drebbel,365463]]'
+  - '[[_Standards/WikiData/WD~Galileo_Galilei,307]]'
+  - '[[_Standards/WikiData/WD~René_Descartes,9191]]'
+  - '[[_Standards/WikiData/WD~Francis_Bacon,37388]]'
+  - '[[_Standards/WikiData/WD~Otto_von_Guericke,60095]]'
+different_from: '[[_Standards/WikiData/WD~Robert_F._Boyle,521400]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Biographie_universelle_ancienne_et_moderne,19135495]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]"
-place_of_burial: "[[_Standards/WikiData/WD~St_Martin_in_the_Fields,1335201]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Biographie_universelle_ancienne_et_moderne,19135495]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+  - '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+place_of_burial: '[[_Standards/WikiData/WD~St_Martin_in_the_Fields,1335201]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Roger_Boyle,_1st_Earl_of_Orrery,1345535]]"
-  - "[[_Standards/WikiData/WD~Richard_Boyle,_1st_Earl_of_Burlington,5590389]]"
-  - "[[_Standards/WikiData/WD~Katherine_Jones,_Viscountess_Ranelagh,6376433]]"
-  - "[[_Standards/WikiData/WD~Mary_Rich,_Countess_of_Warwick,6780600]]"
-  - "[[_Standards/WikiData/WD~Francis_Boyle,_1st_Viscount_Shannon,15442982]]"
-place_of_birth: "[[_Standards/WikiData/WD~Lismore_Castle,2368947]]"
-father: "[[_Standards/WikiData/WD~Richard_Boyle,_1st_Earl_of_Cork,2485385]]"
-honorific_prefix: "[[_Standards/WikiData/WD~The_Honourable,2746176]]"
-given_name: "[[_Standards/WikiData/WD~Robert,4927937]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Anglicanism,6423963]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-award_received: "[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]"
-family_name: "[[_Standards/WikiData/WD~Boyle,15789581]]"
-depicted_by: "[[_Standards/WikiData/WD~The_Shannon_Portrait_of_the_Hon._Robert_Boyle,36688079]]"
-mother: "[[_Standards/WikiData/WD~Catherine_Fenton,75318836]]"
+  - '[[_Standards/WikiData/WD~Roger_Boyle,_1st_Earl_of_Orrery,1345535]]'
+  - '[[_Standards/WikiData/WD~Richard_Boyle,_1st_Earl_of_Burlington,5590389]]'
+  - '[[_Standards/WikiData/WD~Katherine_Jones,_Viscountess_Ranelagh,6376433]]'
+  - '[[_Standards/WikiData/WD~Mary_Rich,_Countess_of_Warwick,6780600]]'
+  - '[[_Standards/WikiData/WD~Francis_Boyle,_1st_Viscount_Shannon,15442982]]'
+place_of_birth: '[[_Standards/WikiData/WD~Lismore_Castle,2368947]]'
+father: '[[_Standards/WikiData/WD~Richard_Boyle,_1st_Earl_of_Cork,2485385]]'
+honorific_prefix: '[[_Standards/WikiData/WD~The_Honourable,2746176]]'
+given_name: '[[_Standards/WikiData/WD~Robert,4927937]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Anglicanism,6423963]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+award_received: '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
+family_name: '[[_Standards/WikiData/WD~Boyle,15789581]]'
+depicted_by: '[[_Standards/WikiData/WD~The_Shannon_Portrait_of_the_Hon._Robert_Boyle,36688079]]'
+mother: '[[_Standards/WikiData/WD~Catherine_Fenton,75318836]]'
 date_of_birth: 1627-01-25T00:00:00Z
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Irish,9142]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~Latin,397]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Irish,9142]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~physics,413]]"
-  - "[[_Standards/WikiData/WD~chemistry,2329]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~London,84]]"
-employer: "[[_Standards/WikiData/WD~University_of_Oxford,34433]]"
-student: "[[_Standards/WikiData/WD~Robert_Hooke,46830]]"
-doctoral_student: "[[_Standards/WikiData/WD~Robert_Hooke,46830]]"
+  - '[[_Standards/WikiData/WD~physics,413]]'
+  - '[[_Standards/WikiData/WD~chemistry,2329]]'
+  - '[[_Standards/WikiData/WD~philosophy,5891]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~London,84]]'
+employer: '[[_Standards/WikiData/WD~University_of_Oxford,34433]]'
+student: '[[_Standards/WikiData/WD~Robert_Hooke,46830]]'
+doctoral_student: '[[_Standards/WikiData/WD~Robert_Hooke,46830]]'
 Commons_category: Robert Boyle
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/47781
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/BOL_ROBERT.html
@@ -89,7 +90,7 @@ described_at_URL:
   - http://www.digiporta.net/index.php?id=216942998
   - http://www.digiporta.net/index.php?id=274204222
   - http://www.digiporta.net/index.php?id=894641846
-ISNI: "0000000109002537"
+ISNI: 0000000109002537
 Provenio_UUID: 7274d432-9780-4dbf-a79d-ec317dccbea8
 ---
 

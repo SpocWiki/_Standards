@@ -1,34 +1,22 @@
 ---
 aliases:
   - Siedepunkt
+  - Boiling_Point
+  - Boiling Point
 has_id_wikidata: Q1003183
-different_from: "[[_Standards/WikiData/WD~condensation_point,3014744]]"
+different_from: '[[_Standards/WikiData/WD~condensation_point,3014744]]'
 described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-instance_of: "[[_Standards/WikiData/WD~thermal_property,65939908]]"
+instance_of: '[[_Standards/WikiData/WD~thermal_property,65939908]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/11.%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0%D1%82%D0%B0%20%D0%B8%20%D0%B2%D1%80%D0%B8%D0%B5%D1%9A%D0%B5%D1%82%D0%BE%20%D0%BD%D0%B0%20%D1%82%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82.ogv
 Wikidata_property: boiling point
-subclass_of: "[[_Standards/WikiData/WD~temperature,11466]]"
-greater_than: "[[_Standards/WikiData/WD~melting_point,15318]]"
-OmegaWiki_Defined_Meaning: "416"
+subclass_of: '[[_Standards/WikiData/WD~temperature,11466]]'
+greater_than: '[[_Standards/WikiData/WD~melting_point,15318]]'
+OmegaWiki_Defined_Meaning: 416
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kochendes%20wasser02.jpg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Boiling%20point%20vs%20molar%20mass%20graph.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%81%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A6%82%E0%A6%95.wav
 Krugosvet_article: nauka_i_tehnika/fizika/TEMPERATURA_KIPENIYA.html
-ISQ_dimension: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\mathsf {\Theta }}}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <mrow class="MJX-TeXAtom-ORD">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="sans-serif">&#x0398;<!-- Θ --></mi>
-            </mrow>
-          </mrow>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle {\mathsf {\Theta }}}</annotation>
-    </semantics>
-  </math>
+ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {\\Theta }}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi mathvariant=\"sans-serif\">&#x0398;<!-- Θ --></mi>\n          </mrow>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {\\Theta }}}</annotation>\n  </semantics>\n</math>"
 ---
 
 # [[Boiling_Point]] 

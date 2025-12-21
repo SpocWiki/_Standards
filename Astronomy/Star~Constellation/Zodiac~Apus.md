@@ -1,40 +1,41 @@
 ---
 aliases:
   - Paradiesvogel
+  - Zodiac~Apus
+has_id_wikidata: Q10506
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-has_id_wikidata: Q10506
-different_from: "[[_Standards/WikiData/WD~birds_of_paradise,179333]]"
-named_after: "[[_Standards/WikiData/WD~birds_of_paradise,179333]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Petrus_Plancius,333534]]"
+different_from: '[[_Standards/WikiData/WD~birds_of_paradise,179333]]'
+named_after: '[[_Standards/WikiData/WD~birds_of_paradise,179333]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Petrus_Plancius,333534]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Apus,6505275]]"
-  - "[[_Standards/WikiData/WD~Q10729105,10729105]]"
+  - '[[_Standards/WikiData/WD~Template_Apus,6505275]]'
+  - '[[_Standards/WikiData/WD~Q10729105,10729105]]'
 time_of_discovery_or_invention: 1598-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Ara,9253]]"
-  - "[[_Standards/WikiData/WD~Triangulum_Australe,10422]]"
-  - "[[_Standards/WikiData/WD~Musca,10435]]"
-  - "[[_Standards/WikiData/WD~Chamaeleon,10457]]"
-  - "[[_Standards/WikiData/WD~Octans,10503]]"
-  - "[[_Standards/WikiData/WD~Circinus,10508]]"
-  - "[[_Standards/WikiData/WD~Pavo,10515]]"
+  - '[[_Standards/WikiData/WD~Ara,9253]]'
+  - '[[_Standards/WikiData/WD~Triangulum_Australe,10422]]'
+  - '[[_Standards/WikiData/WD~Musca,10435]]'
+  - '[[_Standards/WikiData/WD~Chamaeleon,10457]]'
+  - '[[_Standards/WikiData/WD~Octans,10503]]'
+  - '[[_Standards/WikiData/WD~Circinus,10508]]'
+  - '[[_Standards/WikiData/WD~Pavo,10515]]'
 area: 206
 short_name: Aps
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Apus%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Apus%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Apus.jpg
-OmegaWiki_Defined_Meaning: "689237"
+OmegaWiki_Defined_Meaning: 689237
 Commons_gallery: Apus (constellation)
 Commons_category: Apus (constellation)
 official_name: Apus

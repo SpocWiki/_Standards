@@ -2,22 +2,24 @@
 aliases:
   - Number theory
   - Number-theory
+  - Number_Theory
+  - Number Theory
 has_id_wikidata: Q12479
-different_from: "[[_Standards/WikiData/WD~numerology,140732]]"
+different_from: '[[_Standards/WikiData/WD~numerology,140732]]'
 part_of:
-  - "[[_Standards/WikiData/WD~pure_mathematics,837863]]"
-  - "[[_Standards/WikiData/WD~mathematics,395]]"
-instance_of: "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Number_theory,14615430]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Number_theory,16648951]]"
-has_part_s_: "[[_Standards/WikiData/WD~elementary_number_theory,18450254]]"
-practiced_by: "[[_Standards/WikiData/WD~number_theorist,115653130]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-subclass_of: "[[_Standards/WikiData/WD~mathematics,395]]"
-is_the_study_of: "[[_Standards/WikiData/WD~integer,12503]]"
-Universal_Decimal_Classification: "511"
-OmegaWiki_Defined_Meaning: "797305"
+  - '[[_Standards/WikiData/WD~pure_mathematics,837863]]'
+  - '[[_Standards/WikiData/WD~mathematics,395]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Number_theory,14615430]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Number_theory,16648951]]'
+has_part_s_: '[[_Standards/WikiData/WD~elementary_number_theory,18450254]]'
+practiced_by: '[[_Standards/WikiData/WD~number_theorist,115653130]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+subclass_of: '[[_Standards/WikiData/WD~mathematics,395]]'
+is_the_study_of: '[[_Standards/WikiData/WD~integer,12503]]'
+Universal_Decimal_Classification: 511
+OmegaWiki_Defined_Meaning: 797305
 Library_of_Congress_Classification: QA241-QA247.5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Euclid%27s%20Orchard%20%28large%29.svg
 Stack_Exchange_tag:
@@ -27,9 +29,9 @@ Stack_Exchange_tag:
   - https://mathematica.stackexchange.com/tags/number-theory
   - https://mathoverflow.net/tags/nt.number-theory
   - https://stackoverflow.com/tags/number-theory
-Classification_of_Instructional_Programs_code: "27.0102"
-Basisklassifikation: "31.14"
-Dewey_Decimal_Classification: "512.7"
+Classification_of_Instructional_Programs_code: 27.0102
+Basisklassifikation: 31.14
+Dewey_Decimal_Classification: 512.7
 Krugosvet_article_archived_: nauka_i_tehnika/matematika/CHISEL_TEORIYA.html
 Commons_category: Number theory
 GitHub_topic: number-theory

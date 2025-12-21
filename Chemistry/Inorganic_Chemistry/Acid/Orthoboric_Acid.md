@@ -2,6 +2,8 @@
 aliases:
   - Borsäure
   - Boric acid
+  - Orthoboric_Acid
+  - Orthoboric Acid
 has_id_wikidata: Q187045
 RTECS_number: ED4550000
 chemical_formula:
@@ -11,48 +13,48 @@ CSD_Refcode: JAGREP
 ATC_code:
   - S02AA03
   - D08AD
-found_in_taxon: "[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]"
+found_in_taxon: '[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]'
 has_use:
-  - "[[_Standards/WikiData/WD~insecticide,181322]]"
-  - "[[_Standards/WikiData/WD~food_preservative,6509670]]"
-  - "[[_Standards/WikiData/WD~fire_prevention_agent,107870616]]"
+  - '[[_Standards/WikiData/WD~insecticide,181322]]'
+  - '[[_Standards/WikiData/WD~food_preservative,6509670]]'
+  - '[[_Standards/WikiData/WD~fire_prevention_agent,107870616]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~mineral_acid,408683]]"
-  - "[[_Standards/WikiData/WD~boron_oxoacid,73358092]]"
+  - '[[_Standards/WikiData/WD~mineral_acid,408683]]'
+  - '[[_Standards/WikiData/WD~boron_oxoacid,73358092]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 part_of:
-  - "[[_Standards/WikiData/WD~active_borate_transmembrane_transporter_activity,21135415]]"
-  - "[[_Standards/WikiData/WD~borate_transmembrane_transport,21135412]]"
-  - "[[_Standards/WikiData/WD~borate_transport,21135413]]"
-  - "[[_Standards/WikiData/WD~borate_binding,22314429]]"
-  - "[[_Standards/WikiData/WD~borate_efflux_transmembrane_transporter_activity,22325006]]"
-  - "[[_Standards/WikiData/WD~borate_export_across_plasma_membrane,47991394]]"
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+  - '[[_Standards/WikiData/WD~active_borate_transmembrane_transporter_activity,21135415]]'
+  - '[[_Standards/WikiData/WD~borate_transmembrane_transport,21135412]]'
+  - '[[_Standards/WikiData/WD~borate_transport,21135413]]'
+  - '[[_Standards/WikiData/WD~borate_binding,22314429]]'
+  - '[[_Standards/WikiData/WD~borate_efflux_transmembrane_transporter_activity,22325006]]'
+  - '[[_Standards/WikiData/WD~borate_export_across_plasma_membrane,47991394]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~hydrogen,556]]"
-  - "[[_Standards/WikiData/WD~boron,618]]"
-  - "[[_Standards/WikiData/WD~oxygen,629]]"
+  - '[[_Standards/WikiData/WD~hydrogen,556]]'
+  - '[[_Standards/WikiData/WD~boron,618]]'
+  - '[[_Standards/WikiData/WD~oxygen,629]]'
 pKa:
   - 9.2
   - 9.14
 melting_point: 170.9
-CosIng_number: "32208"
-PubChem_CID: "7628"
-ZVG_number: "3640"
-RxNorm_CUI: "1700"
-Gmelin_number: "1585"
+CosIng_number: 32208
+PubChem_CID: 7628
+ZVG_number: 3640
+RxNorm_CUI: 1700
+Gmelin_number: 1585
 mass: 62.018
-CCDC_Number: "214361"
-NSC_number: "81726"
+CCDC_Number: 214361
+NSC_number: 81726
 InChIKey: KGBXLFKZBHKPEV-UHFFFAOYSA-N
 InChI: InChI=1S/BH3O3/c2-1(3)4/h2-4H
 UNII: R57ZHV85D4
 E_number: E284
-UNSPSC_Code: "51241204"
+UNSPSC_Code: 51241204
 image_of_molecular_model_or_crystal_lattice_model: http://commons.wikimedia.org/wiki/Special:FilePath/Boric-acid-3D-vdW.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Boric%20acid.jpg
 CAS_Registry_Number: 10043-35-3

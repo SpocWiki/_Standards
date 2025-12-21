@@ -3,23 +3,24 @@ aliases:
   - has legislation-type
   - legislationType
   - has_legislation_type
+  - has legislation type
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - legislation_type
   - legislation
   - type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_legislation_type
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

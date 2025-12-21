@@ -1,4 +1,6 @@
 ---
+aliases:
+  - WD~Metronome,156424
 has_id_wikidata: Q156424
 ---
 

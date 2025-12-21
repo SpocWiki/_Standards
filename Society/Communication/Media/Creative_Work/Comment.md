@@ -8,16 +8,16 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - comment
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_comment Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

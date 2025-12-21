@@ -4,21 +4,23 @@ aliases:
   - low_fat_diet
   - LowFatDiet
   - is_a_low_fat_diet
+  - Low_Fat_Diet
+  - Low Fat Diet
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: RestrictedDiet
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - low_fat_diet
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_low_fat_diet Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

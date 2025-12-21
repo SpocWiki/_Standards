@@ -4,21 +4,23 @@ aliases:
   - weapon_consideration
   - WeaponConsideration
   - is_a_weapon_consideration
+  - Weapon_Consideration
+  - Weapon Consideration
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: AdultOrientedEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - weapon_consideration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_weapon_consideration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

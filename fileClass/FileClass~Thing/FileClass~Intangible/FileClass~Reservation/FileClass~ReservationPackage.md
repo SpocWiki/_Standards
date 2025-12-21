@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ReservationPackage
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 fields:
-- id: 7kKmqO
-  name: SubReservation
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Reservation')"
-  type: MultiFile
-  path: ''
+  - id: 7kKmqO
+    name: SubReservation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Reservation')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ReservationPackage
-- class/Thing/Intangible/Reservation/ReservationPackage
-- is_a_/ReservationPackage
-- schema-org/ReservationPackage
+  - class/ReservationPackage
+  - class/Thing/Intangible/Reservation/ReservationPackage
+  - is_a_/ReservationPackage
+  - schema-org/ReservationPackage
 tags:
-- class/FileClass
-- class/ReservationPackage
-- is_a_/ReservationPackage
-- class/Thing/Intangible/Reservation/ReservationPackage
+  - class/FileClass
+  - class/ReservationPackage
+  - is_a_/ReservationPackage
+  - class/Thing/Intangible/Reservation/ReservationPackage
 version: 2.0
 ---
 

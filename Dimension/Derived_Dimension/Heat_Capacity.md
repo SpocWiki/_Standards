@@ -2,6 +2,8 @@
 aliases:
   - Heat capacity or thermal capacity
   - thermal mass
+  - Heat_Capacity
+  - Heat Capacity
 has_id_wikidata: Q179388
 subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"

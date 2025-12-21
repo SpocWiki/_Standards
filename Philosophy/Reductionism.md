@@ -1,18 +1,19 @@
 ---
 aliases:
   - Reduktionismus
+  - Reductionism
 has_id_wikidata: Q206829
-opposite_of: "[[_Standards/WikiData/WD~holism,192891]]"
+opposite_of: '[[_Standards/WikiData/WD~holism,192891]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~parsimony,3364869]]"
-  - "[[_Standards/WikiData/WD~simplism,6128824]]"
-has_part_s_: "[[_Standards/WikiData/WD~reductionism_in_physics,3935253]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~merism,12771393]]"
+  - '[[_Standards/WikiData/WD~parsimony,3364869]]'
+  - '[[_Standards/WikiData/WD~simplism,6128824]]'
+has_part_s_: '[[_Standards/WikiData/WD~reductionism_in_physics,3935253]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~merism,12771393]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~philosophical_concept,33104279]]"
-  - "[[_Standards/WikiData/WD~theory,17737]]"
-part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-described_by_source: "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+  - '[[_Standards/WikiData/WD~philosophical_concept,33104279]]'
+  - '[[_Standards/WikiData/WD~theory,17737]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 described_at_URL: https://www.enciclopedia.cat/search/terms/472183/reduccionisme
 Commons_category: Reductionism
 ---

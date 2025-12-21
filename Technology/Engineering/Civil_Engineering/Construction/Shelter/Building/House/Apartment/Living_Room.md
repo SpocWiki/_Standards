@@ -5,14 +5,16 @@ aliases:
   - lounge
   - sitting room
   - drawing room
+  - Living_Room
+  - Living Room
 has_id_wikidata: Q475018
-subclass_of: "[[_Standards/WikiData/WD~room,180516]]"
+subclass_of: '[[_Standards/WikiData/WD~room,180516]]'
 different_from:
-  - "[[_Standards/WikiData/WD~dwelling,699405]]"
-  - "[[_Standards/WikiData/WD~Living_room_(building),102180605]]"
-part_of: "[[_Standards/WikiData/WD~residential_building,11755880]]"
-described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-OmegaWiki_Defined_Meaning: "6083"
+  - '[[_Standards/WikiData/WD~dwelling,699405]]'
+  - '[[_Standards/WikiData/WD~Living_room_(building),102180605]]'
+part_of: '[[_Standards/WikiData/WD~residential_building,11755880]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+OmegaWiki_Defined_Meaning: 6083
 Iconclass_notation: 41A221
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Woonkamer-article.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sittingroom-edit1.jpg

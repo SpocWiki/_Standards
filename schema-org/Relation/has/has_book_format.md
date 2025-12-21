@@ -2,12 +2,13 @@
 aliases:
   - has book-format
   - has_book_format
+  - has book format
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - format
   - book_format
   - bookFormat
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_book_format
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

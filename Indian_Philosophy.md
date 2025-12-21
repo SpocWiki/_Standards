@@ -2,19 +2,21 @@
 aliases:
   - Indian philosophy
   - Indische Philosophie
+  - Indian_Philosophy
+  - Indian Philosophy
 has_id_wikidata: Q376022
 described_by_source:
-  - "[[WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica,455]]"
-different_from: "[[_Standards/WikiData/WD~Hindu_philosophy,1079293]]"
+  - '[[WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica,455]]'
+different_from: '[[_Standards/WikiData/WD~Hindu_philosophy,1079293]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q10556983,10556983]]"
-  - "[[_Standards/WikiData/WD~Template_Indian_philosophy,11266359]]"
-instance_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-subclass_of: "[[_Standards/WikiData/WD~philosophy,5891]]"
+  - '[[_Standards/WikiData/WD~Q10556983,10556983]]'
+  - '[[_Standards/WikiData/WD~Template_Indian_philosophy,11266359]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
 Colon_Classification: R6
 Commons_category: Indian philosophy
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/INDISKAYA_FILOSOFIYA.html

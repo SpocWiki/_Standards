@@ -4,20 +4,22 @@ aliases:
   - assign_action
   - AssignAction
   - is_an_assign_action
+  - Assign_Action
+  - Assign Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - assign_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_assign_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,18 +1,20 @@
 ---
 aliases:
   - Fast food
+  - Fast_Food
+  - Fast Food
 has_id_wikidata: Q81799
 instance_of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]"
-  - "[[_Standards/WikiData/WD~dietary_style,131908101]]"
-opposite_of: "[[_Standards/WikiData/WD~Slow_Food,335823]]"
+  - '[[_Standards/WikiData/WD~industry,268592]]'
+  - '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]'
+  - '[[_Standards/WikiData/WD~dietary_style,131908101]]'
+opposite_of: '[[_Standards/WikiData/WD~Slow_Food,335823]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~dish,746549]]"
-  - "[[_Standards/WikiData/WD~human_food,8195619]]"
-different_from: "[[_Standards/WikiData/WD~food_truck,3303463]]"
-made_from_material: "[[_Standards/WikiData/WD~convenience_food,13030962]]"
-OmegaWiki_Defined_Meaning: "7287"
+  - '[[_Standards/WikiData/WD~dish,746549]]'
+  - '[[_Standards/WikiData/WD~human_food,8195619]]'
+different_from: '[[_Standards/WikiData/WD~food_truck,3303463]]'
+made_from_material: '[[_Standards/WikiData/WD~convenience_food,13030962]]'
+OmegaWiki_Defined_Meaning: 7287
 Commons_category: Fast food
 OpenStreetMap_tag_or_key: Tag:amenity=fast_food
 image: http://commons.wikimedia.org/wiki/Special:FilePath/In-N-Out%20Burger%20cheeseburgers.jpg

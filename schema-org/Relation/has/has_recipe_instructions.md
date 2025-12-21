@@ -3,23 +3,24 @@ aliases:
   - has recipe-instructions
   - recipeInstructions
   - has_recipe_instructions
+  - has recipe instructions
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - recipe_instructions
   - recipe
   - instructions
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_recipe_instructions
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

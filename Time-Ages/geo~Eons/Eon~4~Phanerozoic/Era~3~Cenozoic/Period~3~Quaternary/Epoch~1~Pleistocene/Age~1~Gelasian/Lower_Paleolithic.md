@@ -4,8 +4,9 @@ aliases:
   - Lower Palaeolithic
   - Old Stone Age
   - Altpaläolithikum
+  - Lower_Paleolithic
 has_id_wikidata: Q7463501
-instance_of: "[[_Standards/WikiData/WD~archaeological_period,15401633]]"
+instance_of: '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
 end_time: -300000-01-01T00:00:00Z
 start_time: -3300000-01-01T00:00:00Z
 Commons_category: Lower Paleolithic

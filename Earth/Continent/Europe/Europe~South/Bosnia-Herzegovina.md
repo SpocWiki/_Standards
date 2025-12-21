@@ -2,6 +2,7 @@
 aliases:
   - Bosnia_and_Herzegovina
   - Bosnia and Herzegovina
+  - Bosnia-Herzegovina
 has_id_wikidata: Q225
 location:
   - 43.87

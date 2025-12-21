@@ -5,25 +5,25 @@ aliases:
   - Scheck
 has_id_wikidata: Q80042
 subclass_of:
-  - "[[_Standards/WikiData/WD~promissory_note,190122]]"
-  - "[[_Standards/WikiData/WD~foreign_currencies,831772]]"
-  - "[[_Standards/WikiData/WD~paper_product,1668556]]"
-  - "[[_Standards/WikiData/WD~negotiable_instrument,3359388]]"
+  - '[[_Standards/WikiData/WD~promissory_note,190122]]'
+  - '[[_Standards/WikiData/WD~foreign_currencies,831772]]'
+  - '[[_Standards/WikiData/WD~paper_product,1668556]]'
+  - '[[_Standards/WikiData/WD~negotiable_instrument,3359388]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~payment_method,1912682]]"
-  - "[[_Standards/WikiData/WD~product_category,63981612]]"
-part_of: "[[_Standards/WikiData/WD~checkbook,87002152]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~check_stub,107392820]]"
-Nomenclature_for_Museum_Cataloging: "13896"
-OmegaWiki_Defined_Meaning: "434769"
+  - '[[_Standards/WikiData/WD~payment_method,1912682]]'
+  - '[[_Standards/WikiData/WD~product_category,63981612]]'
+part_of: '[[_Standards/WikiData/WD~checkbook,87002152]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~check_stub,107392820]]'
+Nomenclature_for_Museum_Cataloging: 13896
+OmegaWiki_Defined_Meaning: 434769
 Commons_category: Cheques
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FORD%2C%20Gerald%20%28signed%20check%29.jpg
 Iconclass_notation: 46B314
-P8189: "987007285078305171"
+P8189: 987007285078305171
 ---
 
 # [[Cheque]] 

@@ -4,19 +4,21 @@ aliases:
   - September Campaign,
   - Polish Campaign
   - Polish Defensive War
+  - 1939-Invasion_of_Poland
+  - 1939-Invasion of Poland
 has_id_wikidata: Q150812
 instance_of:
-  - "[[_Standards/WikiData/WD~invasion,467011]]"
-  - "[[_Standards/WikiData/WD~military_operation,645883]]"
-  - "[[_Standards/WikiData/WD~military_campaign,831663]]"
+  - '[[_Standards/WikiData/WD~invasion,467011]]'
+  - '[[_Standards/WikiData/WD~military_operation,645883]]'
+  - '[[_Standards/WikiData/WD~military_campaign,831663]]'
 order_of_battle:
-  - "[[_Standards/WikiData/WD~German_order_of_battle_for_Operation_Fall_Weiss,855504]]"
-  - "[[_Standards/WikiData/WD~Polish_army_order_of_battle_in_1939,7210012]]"
-  - "[[_Standards/WikiData/WD~order_of_battle_of_the_Polish_Army,_September_28,_1939,11798978]]"
-  - "[[_Standards/WikiData/WD~order_of_battle_of_the_Wehrmacht_for_the_attack_on_Poland,11798976]]"
-participant: "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
-has_contributing_factor: "[[_Standards/WikiData/WD~Fall_Weiss,26078]]"
-locations: "[[_Standards/WikiData/WD~Poland,36]]"
+  - '[[_Standards/WikiData/WD~German_order_of_battle_for_Operation_Fall_Weiss,855504]]'
+  - '[[_Standards/WikiData/WD~Polish_army_order_of_battle_in_1939,7210012]]'
+  - '[[_Standards/WikiData/WD~order_of_battle_of_the_Polish_Army,_September_28,_1939,11798978]]'
+  - '[[_Standards/WikiData/WD~order_of_battle_of_the_Wehrmacht_for_the_attack_on_Poland,11798976]]'
+participant: '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+has_contributing_factor: '[[_Standards/WikiData/WD~Fall_Weiss,26078]]'
+locations: '[[_Standards/WikiData/WD~Poland,36]]'
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Poland.png
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Defenders%20of%20Warsaw%20%281939%29.jpg

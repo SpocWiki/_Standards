@@ -1,19 +1,21 @@
 ---
 aliases:
   - W-type star
+  - Wolf–Rayet_Star
+  - Wolf–Rayet Star
 has_id_wikidata: Q6251
 instance_of:
-  - "[[_Standards/WikiData/WD~spectral_class,179600]]"
-  - "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
+  - '[[_Standards/WikiData/WD~spectral_class,179600]]'
+  - '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Georges_Rayet,499187]]"
-  - "[[_Standards/WikiData/WD~Charles_Wolf,720089]]"
-has_part_s_: "[[_Standards/WikiData/WD~Wolf_Rayet_nebula,2928009]]"
-different_from: "[[_Standards/WikiData/WD~Wolf_Rayet_type_star,9283096]]"
-subclass_of: "[[_Standards/WikiData/WD~emission_line_star,72803622]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+  - '[[_Standards/WikiData/WD~Georges_Rayet,499187]]'
+  - '[[_Standards/WikiData/WD~Charles_Wolf,720089]]'
+has_part_s_: '[[_Standards/WikiData/WD~Wolf_Rayet_nebula,2928009]]'
+different_from: '[[_Standards/WikiData/WD~Wolf_Rayet_type_star,9283096]]'
+subclass_of: '[[_Standards/WikiData/WD~emission_line_star,72803622]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20cosmic%20couple.jpg
-Dewey_Decimal_Classification: "523.88"
+Dewey_Decimal_Classification: 523.88
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Artist%27s%20impression%20of%20the%20evolution%20of%20a%20hot%20high-mass%20binary%20star.ogv
 Commons_category: Wolf-Rayet stars
 ---

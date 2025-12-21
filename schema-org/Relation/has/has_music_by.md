@@ -3,23 +3,24 @@ aliases:
   - has music-by
   - musicBy
   - has_music_by
+  - has music by
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - music_by
   - music
   - by
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_music_by
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

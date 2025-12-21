@@ -3,29 +3,31 @@ aliases:
   - washing machine
   - laundry machine
   - clothes washer
+  - Washing_Machine
+  - Washing Machine
 has_id_wikidata: Q124441
 uses:
-  - "[[_Standards/WikiData/WD~sewer_network,156849]]"
-  - "[[_Standards/WikiData/WD~water,283]]"
-  - "[[_Standards/WikiData/WD~electricity,12725]]"
-shape: "[[_Standards/WikiData/WD~parallelepiped,181658]]"
-different_from: "[[_Standards/WikiData/WD~dishwasher,186263]]"
+  - '[[_Standards/WikiData/WD~sewer_network,156849]]'
+  - '[[_Standards/WikiData/WD~water,283]]'
+  - '[[_Standards/WikiData/WD~electricity,12725]]'
+shape: '[[_Standards/WikiData/WD~parallelepiped,181658]]'
+different_from: '[[_Standards/WikiData/WD~dishwasher,186263]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~home_appliance,212920]]"
-  - "[[_Standards/WikiData/WD~major_appliance,12269769]]"
-  - "[[_Standards/WikiData/WD~electric_household_appliance,20076681]]"
-  - "[[_Standards/WikiData/WD~cleaning_tool,26270576]]"
-has_use: "[[_Standards/WikiData/WD~laundry,852100]]"
+  - '[[_Standards/WikiData/WD~home_appliance,212920]]'
+  - '[[_Standards/WikiData/WD~major_appliance,12269769]]'
+  - '[[_Standards/WikiData/WD~electric_household_appliance,20076681]]'
+  - '[[_Standards/WikiData/WD~cleaning_tool,26270576]]'
+has_use: '[[_Standards/WikiData/WD~laundry,852100]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~textile,28823]]"
-OmegaWiki_Defined_Meaning: "1117759"
-Nomenclature_for_Museum_Cataloging: "9150"
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~textile,28823]]'
+OmegaWiki_Defined_Meaning: 1117759
+Nomenclature_for_Museum_Cataloging: 9150
 Dewey_Decimal_Classification:
-  - "643.6"
-  - "683.88"
+  - 643.6
+  - 683.88
 video: http://commons.wikimedia.org/wiki/Special:FilePath/A%20white%20washing%20machine%20manufactured%20by%20Husqvarna%20in%20the%201990s.webm
 audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Algemene%20sfeer%20van%20een%20wasmachine%20-%20SoundCloud%20-%20Beeld%20en%20Geluid.ogg

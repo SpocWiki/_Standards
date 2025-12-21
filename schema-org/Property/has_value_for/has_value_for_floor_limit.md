@@ -4,21 +4,22 @@ aliases:
   - floor-limit
   - floorLimit
   - has_value_for_floor_limit
+  - has value for floor limit
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - floor-limit
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_floor-limit
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

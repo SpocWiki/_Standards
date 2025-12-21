@@ -11,16 +11,16 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - car
-layout:
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_car Class
 publish: true
-publishDate:
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
@@ -122,9 +122,9 @@ less_than:
   - "[[_Standards/WikiData/WD~bus,5638]]"
   - "[[_Standards/WikiData/WD~truck,43193]]"
 maximum_capacity: 8
-IAB_code: "25"
-OmegaWiki_Defined_Meaning: "482"
-Nomenclature_for_Museum_Cataloging: "12173"
+IAB_code: 25
+OmegaWiki_Defined_Meaning: 482
+Nomenclature_for_Museum_Cataloging: 12173
 subreddit:
   - cars
   - auto
@@ -135,7 +135,7 @@ Commons_gallery: Car
 IMDb_keyword: car
 hashtag: car
 UMLS_CUI: C0004381
-U_S_National_Archives_Identifier: "10640181"
+U_S_National_Archives_Identifier: 10640181
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-J0711-0001-003%2C%20Warnem%C3%BCnde%2C%20Stau.jpg
 ComputerLanguage_com_definition: automobile
 OpenStreetMap_key: motorcar
@@ -146,14 +146,14 @@ equivalent_class: https://schema.org/Car
 Commons_category: Automobiles
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Swl-bil-spreadthesign-4014.ogv
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000605
-MIL_STD_2525_Symbol_Identification_Code: "10011500001601000000"
-UNSPSC_Code: "25101503"
+MIL_STD_2525_Symbol_Identification_Code: 10011500001601000000
+UNSPSC_Code: 25101503
 Iconclass_notation: 46C161
 MeSH_tree_code: J01.937.500.100
 Baidu_Tieba_name: 汽车
 ---
 
-# [[Car]] 
+# [[Car]] 🚗 
 
 [[../../../../Class|Class]] of all cars.
 

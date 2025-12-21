@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MedicalRiskFactor
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-- id: JG0Ihe
-  name: IncreasesRiskOf
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity')"
-  type: MultiFile
-  path: ''
+  - id: JG0Ihe
+    name: IncreasesRiskOf
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MedicalRiskFactor
-- class/Thing/MedicalEntity/MedicalRiskFactor
-- is_a_/MedicalRiskFactor
-- schema-org/MedicalRiskFactor
+  - class/MedicalRiskFactor
+  - class/Thing/MedicalEntity/MedicalRiskFactor
+  - is_a_/MedicalRiskFactor
+  - schema-org/MedicalRiskFactor
 tags:
-- class/FileClass
-- class/MedicalRiskFactor
-- is_a_/MedicalRiskFactor
-- class/Thing/MedicalEntity/MedicalRiskFactor
+  - class/FileClass
+  - class/MedicalRiskFactor
+  - is_a_/MedicalRiskFactor
+  - class/Thing/MedicalEntity/MedicalRiskFactor
 version: 2.0
 ---
 

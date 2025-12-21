@@ -5,81 +5,82 @@ aliases:
   - Astrid Lindgren
   - Astrid_Lindgren
   - Lindgren
+  - Lindgren,Astrid
 has_id_wikidata: Q55767
-member_of_political_party: "[[_Standards/WikiData/WD~Swedish_Social_Democratic_Party,105112]]"
+member_of_political_party: '[[_Standards/WikiData/WD~Swedish_Social_Democratic_Party,105112]]'
 genre:
   - "[[_Standards/WikiData/WD~children's_literature,131539]]"
-  - "[[_Standards/WikiData/WD~fairy_tale,699]]"
-given_name: "[[_Standards/WikiData/WD~Q167755,167755]]"
+  - '[[_Standards/WikiData/WD~fairy_tale,699]]'
+given_name: '[[_Standards/WikiData/WD~Q167755,167755]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Mio,_My_Son,178688]]"
-  - "[[_Standards/WikiData/WD~The_Brothers_Lionheart,1142693]]"
+  - '[[_Standards/WikiData/WD~Mio,_My_Son,178688]]'
+  - '[[_Standards/WikiData/WD~The_Brothers_Lionheart,1142693]]'
   - "[[_Standards/WikiData/WD~Ronja,_the_Robber's_Daughter,1144655]]"
-  - "[[_Standards/WikiData/WD~Bill_Bergson,1261962]]"
-  - "[[_Standards/WikiData/WD~The_Six_Bullerby_Children,1506195]]"
-  - "[[_Standards/WikiData/WD~Karlsson_on_the_Roof,1990880]]"
-  - "[[_Standards/WikiData/WD~Pippi_Longstocking,2446285]]"
-  - "[[_Standards/WikiData/WD~Emil_from_Lönneberga,21475406]]"
+  - '[[_Standards/WikiData/WD~Bill_Bergson,1261962]]'
+  - '[[_Standards/WikiData/WD~The_Six_Bullerby_Children,1506195]]'
+  - '[[_Standards/WikiData/WD~Karlsson_on_the_Roof,1990880]]'
+  - '[[_Standards/WikiData/WD~Pippi_Longstocking,2446285]]'
+  - '[[_Standards/WikiData/WD~Emil_from_Lönneberga,21475406]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Hans_Christian_Andersen_Award,327154]]"
-  - "[[_Standards/WikiData/WD~Deutscher_Jugendliteraturpreis,691086]]"
-  - "[[_Standards/WikiData/WD~Nils_Holgersson_Plaque,1270327]]"
-  - "[[_Standards/WikiData/WD~Expressens_Heffaklump,1384818]]"
-  - "[[_Standards/WikiData/WD~Litteris_et_Artibus,3332220]]"
-  - "[[_Standards/WikiData/WD~Svenska_Dagbladet_Literature_Prize,3353869]]"
-  - "[[_Standards/WikiData/WD~Illis_quorum,3432215]]"
-  - "[[_Standards/WikiData/WD~International_Swede_of_the_Year,6053779]]"
-  - "[[_Standards/WikiData/WD~Lisebergsapplåden,10563197]]"
-  - "[[_Standards/WikiData/WD~Order_of_Freedom_of_the_Republic_of_Slovenia,11997611]]"
-  - "[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]"
-  - "[[_Standards/WikiData/WD~Member_of_the_Order_of_Vasa,116884132]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Smile,55697]]"
-member_of: "[[_Standards/WikiData/WD~Samfundet_De_Nio,1507627]]"
+  - '[[_Standards/WikiData/WD~Hans_Christian_Andersen_Award,327154]]'
+  - '[[_Standards/WikiData/WD~Deutscher_Jugendliteraturpreis,691086]]'
+  - '[[_Standards/WikiData/WD~Nils_Holgersson_Plaque,1270327]]'
+  - '[[_Standards/WikiData/WD~Expressens_Heffaklump,1384818]]'
+  - '[[_Standards/WikiData/WD~Litteris_et_Artibus,3332220]]'
+  - '[[_Standards/WikiData/WD~Svenska_Dagbladet_Literature_Prize,3353869]]'
+  - '[[_Standards/WikiData/WD~Illis_quorum,3432215]]'
+  - '[[_Standards/WikiData/WD~International_Swede_of_the_Year,6053779]]'
+  - '[[_Standards/WikiData/WD~Lisebergsapplåden,10563197]]'
+  - '[[_Standards/WikiData/WD~Order_of_Freedom_of_the_Republic_of_Slovenia,11997611]]'
+  - '[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]'
+  - '[[_Standards/WikiData/WD~Member_of_the_Order_of_Vasa,116884132]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Smile,55697]]'
+member_of: '[[_Standards/WikiData/WD~Samfundet_De_Nio,1507627]]'
 occupation:
   - "[[_Standards/WikiData/WD~children's_writer,4853732]]"
-  - "[[_Standards/WikiData/WD~novelist,6625963]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-significant_person: "[[_Standards/WikiData/WD~Elsa_Olenius,4970914]]"
+  - '[[_Standards/WikiData/WD~novelist,6625963]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+significant_person: '[[_Standards/WikiData/WD~Elsa_Olenius,4970914]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Gunnar_Ericsson,5411103]]"
-  - "[[_Standards/WikiData/WD~Ingegerd_Lindström,16912270]]"
-  - "[[_Standards/WikiData/WD~Stina_Hergin,16912273]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Astrid_Lindgren,6689360]]"
-place_of_death: "[[_Standards/WikiData/WD~Gustav_Vasa_parish,10511165]]"
+  - '[[_Standards/WikiData/WD~Gunnar_Ericsson,5411103]]'
+  - '[[_Standards/WikiData/WD~Ingegerd_Lindström,16912270]]'
+  - '[[_Standards/WikiData/WD~Stina_Hergin,16912273]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Astrid_Lindgren,6689360]]'
+place_of_death: '[[_Standards/WikiData/WD~Gustav_Vasa_parish,10511165]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Swedish_Literature_Bank,10567910]]"
-  - "[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]"
-  - "[[_Standards/WikiData/WD~Svenskt_kvinnobiografiskt_lexikon,50395049]]"
-  - "[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - '[[_Standards/WikiData/WD~Swedish_Literature_Bank,10567910]]'
+  - '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
+  - '[[_Standards/WikiData/WD~Svenskt_kvinnobiografiskt_lexikon,50395049]]'
+  - '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
   - "[[_Standards/WikiData/WD~The_History_of_Nordic_Women's_Literature,99568516]]"
-  - "[[_Standards/WikiData/WD~Q113369276,113369276]]"
-  - "[[_Standards/WikiData/WD~ProDetLit,124821483]]"
-place_of_birth: "[[_Standards/WikiData/WD~Vimmerby_Parish,10715638]]"
+  - '[[_Standards/WikiData/WD~Q113369276,113369276]]'
+  - '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
+place_of_birth: '[[_Standards/WikiData/WD~Vimmerby_Parish,10715638]]'
 child:
-  - "[[_Standards/WikiData/WD~Karin_Nyman,16595992]]"
-  - "[[_Standards/WikiData/WD~Lars_Lindgren,26262208]]"
-spouse: "[[_Standards/WikiData/WD~Sture_Lindgren,16649707]]"
-family_name: "[[_Standards/WikiData/WD~Lindgren,23536612]]"
+  - '[[_Standards/WikiData/WD~Karin_Nyman,16595992]]'
+  - '[[_Standards/WikiData/WD~Lars_Lindgren,26262208]]'
+spouse: '[[_Standards/WikiData/WD~Sture_Lindgren,16649707]]'
+family_name: '[[_Standards/WikiData/WD~Lindgren,23536612]]'
 Plex_person_key: 5d776832880197001ec92e62
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~Project_Svenskt_kvinnobiografiskt_lexikon,100741461]]"
-  - "[[_Standards/WikiData/WD~Iedereen_Leest,101246526]]"
-place_of_burial: "[[_Standards/WikiData/WD~Vimmerby_Cemetery,108045462]]"
-father: "[[_Standards/WikiData/WD~Samuel_August_Ericsson,116013175]]"
-mother: "[[_Standards/WikiData/WD~Hanna_Ericsson,116013355]]"
-writing_language: "[[_Standards/WikiData/WD~Swedish,9027]]"
+  - '[[_Standards/WikiData/WD~Project_Svenskt_kvinnobiografiskt_lexikon,100741461]]'
+  - '[[_Standards/WikiData/WD~Iedereen_Leest,101246526]]'
+place_of_burial: '[[_Standards/WikiData/WD~Vimmerby_Cemetery,108045462]]'
+father: '[[_Standards/WikiData/WD~Samuel_August_Ericsson,116013175]]'
+mother: '[[_Standards/WikiData/WD~Hanna_Ericsson,116013355]]'
+writing_language: '[[_Standards/WikiData/WD~Swedish,9027]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Swedish,9027]]"
-  - "[[_Standards/WikiData/WD~Danish,9035]]"
-native_language: "[[_Standards/WikiData/WD~Swedish,9027]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Sweden,34]]"
+  - '[[_Standards/WikiData/WD~Swedish,9027]]'
+  - '[[_Standards/WikiData/WD~Danish,9035]]'
+native_language: '[[_Standards/WikiData/WD~Swedish,9027]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Sweden,34]]'
 social_media_followers: 8200
-P8189: "987007289902605171"
+P8189: 987007289902605171
 Europeana_entity: agent/base/60348
 Libris_URI: fcrtpljz1qp2bdv
 Regensburg_Classification: GX 6528
@@ -102,7 +103,7 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Astrid%20Lind
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Astrid%20Lindgren%20signature.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Emil%20Astrid%20Lindgrens%20V%C3%A4rld%20banner.jpg
 official_website: https://www.astridlindgren.com
-ISNI: "0000000084029206"
+ISNI: 0000000084029206
 ---
 
 # [[Lindgren,Astrid]] 

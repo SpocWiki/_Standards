@@ -1,17 +1,19 @@
 ---
 aliases:
   - Free_fall
+  - Free_Fall
+  - Free Fall
 has_id_wikidata: Q140028
 subclass_of:
-  - "[[_Standards/WikiData/WD~uniformly_accelerated_motion,376908]]"
-  - "[[_Standards/WikiData/WD~fall,11620540]]"
+  - '[[_Standards/WikiData/WD~uniformly_accelerated_motion,376908]]'
+  - '[[_Standards/WikiData/WD~fall,11620540]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>v</mi><mo stretchy="false">=</mo><mo stretchy="false">&#x2212;</mo><mi>g</mi><mi>t</mi></mstyle></mrow></math>
-part_of: "[[_Standards/WikiData/WD~classical_mechanics,11397]]"
-has_cause: "[[_Standards/WikiData/WD~gravity,11412]]"
+part_of: '[[_Standards/WikiData/WD~classical_mechanics,11397]]'
+has_cause: '[[_Standards/WikiData/WD~gravity,11412]]'
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>g</mi></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>v</mi></mstyle></mrow></math>

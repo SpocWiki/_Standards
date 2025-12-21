@@ -3,6 +3,7 @@ aliases:
   - lorry
   - Laster
   - Lastwagen
+  - Truck
 has_id_wikidata: Q43193
 different_from:
   - "[[_Standards/WikiData/WD~Christt_Hope_(Country_Singer_&_songwriter),340647]]"
@@ -26,8 +27,8 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Trucks,15885132
 has_characteristic: "[[_Standards/WikiData/WD~truck_model,21546143]]"
 described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 greater_than: "[[_Standards/WikiData/WD~car,1420]]"
-IAB_code: "3"
-Nomenclature_for_Museum_Cataloging: "12213"
+IAB_code: 3
+Nomenclature_for_Museum_Cataloging: 12213
 Commons_gallery: Truck
 name:
   - lorry
@@ -36,18 +37,18 @@ name:
 short_name:
   - Lkw
   - LKW
-OmegaWiki_Defined_Meaning: "412047"
+OmegaWiki_Defined_Meaning: 412047
 subreddit: Trucks
 Commons_category: Trucks
 Unicode_character: 🚚
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2000%20Peterbilt%20379.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000602
-U_S_National_Archives_Identifier: "10641044"
+U_S_National_Archives_Identifier: 10641044
 Iconclass_notation: 46C163
-Dewey_Decimal_Classification: "629.224"
+Dewey_Decimal_Classification: 629.224
 ---
 
-# [[Truck]] 
+# [[Truck]] 🚚 
 
 #is_/same_as  :: [[../../../WikiData/WD~Truck,43193|WD~Truck,43193]]  
 

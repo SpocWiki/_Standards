@@ -4,20 +4,22 @@ aliases:
   - auto_wash
   - AutoWash
   - is_an_auto_wash
+  - Auto_Wash
+  - Auto Wash
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - auto_wash
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_auto_wash Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

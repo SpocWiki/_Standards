@@ -4,22 +4,23 @@ aliases:
   - superseded_by
   - supersededBy
   - is_superseded_by
+  - is superseded by
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - superseded
   - by
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_superseded_by
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

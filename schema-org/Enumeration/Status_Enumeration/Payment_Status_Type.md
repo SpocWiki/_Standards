@@ -4,20 +4,22 @@ aliases:
   - payment_status_type
   - PaymentStatusType
   - is_a_payment_status_type
+  - Payment_Status_Type
+  - Payment Status Type
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - payment_status_type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_payment_status_type Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

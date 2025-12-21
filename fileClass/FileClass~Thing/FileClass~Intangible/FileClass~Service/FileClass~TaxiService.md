@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~TaxiService
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/TaxiService
-- class/Thing/Intangible/Service/TaxiService
-- is_a_/TaxiService
-- schema-org/TaxiService
+  - class/TaxiService
+  - class/Thing/Intangible/Service/TaxiService
+  - is_a_/TaxiService
+  - schema-org/TaxiService
 tags:
-- class/FileClass
-- class/TaxiService
-- is_a_/TaxiService
-- class/Thing/Intangible/Service/TaxiService
+  - class/FileClass
+  - class/TaxiService
+  - is_a_/TaxiService
+  - class/Thing/Intangible/Service/TaxiService
 version: 2.0
 ---
 

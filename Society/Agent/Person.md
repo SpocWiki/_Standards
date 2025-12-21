@@ -11,16 +11,16 @@ cssclasses:
   - Type
 draft: false
 equivalent_class: http://xmlns.com/foaf/0.1/Person
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - person
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_person Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~QuoteAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/QuoteAction
-- class/Thing/Action/TradeAction/QuoteAction
-- is_a_/QuoteAction
-- schema-org/QuoteAction
+  - class/QuoteAction
+  - class/Thing/Action/TradeAction/QuoteAction
+  - is_a_/QuoteAction
+  - schema-org/QuoteAction
 tags:
-- class/FileClass
-- class/QuoteAction
-- is_a_/QuoteAction
-- class/Thing/Action/TradeAction/QuoteAction
+  - class/FileClass
+  - class/QuoteAction
+  - is_a_/QuoteAction
+  - class/Thing/Action/TradeAction/QuoteAction
 version: 2.0
 ---
 

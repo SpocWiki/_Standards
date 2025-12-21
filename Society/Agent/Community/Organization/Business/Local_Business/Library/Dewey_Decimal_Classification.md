@@ -1,37 +1,38 @@
 ---
 aliases:
   - Dewey Decimal Classification
+  - Dewey_Decimal_Classification
 has_id_wikidata: Q48460
-publisher: "[[_Standards/WikiData/WD~OCLC,_Inc.,190593]]"
-studied_by: "[[_Standards/WikiData/WD~library_science,199655]]"
+publisher: '[[_Standards/WikiData/WD~OCLC,_Inc.,190593]]'
+studied_by: '[[_Standards/WikiData/WD~library_science,199655]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Universal_Decimal_Classification,243350]]"
-  - "[[_Standards/WikiData/WD~Library_of_Congress_Classification,621080]]"
-  - "[[_Standards/WikiData/WD~Colon_Classification,1110558]]"
-  - "[[_Standards/WikiData/WD~Bliss_bibliographic_classification,1114454]]"
-  - "[[_Standards/WikiData/WD~Chinese_Library_Classification,5100524]]"
+  - '[[_Standards/WikiData/WD~Universal_Decimal_Classification,243350]]'
+  - '[[_Standards/WikiData/WD~Library_of_Congress_Classification,621080]]'
+  - '[[_Standards/WikiData/WD~Colon_Classification,1110558]]'
+  - '[[_Standards/WikiData/WD~Bliss_bibliographic_classification,1114454]]'
+  - '[[_Standards/WikiData/WD~Chinese_Library_Classification,5100524]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~decimal_classification,1207369]]"
-  - "[[_Standards/WikiData/WD~series_of_creative_works,7725310]]"
-  - "[[_Standards/WikiData/WD~universal_classification_scheme,24243801]]"
-  - "[[_Standards/WikiData/WD~library_classification_scheme,48473]]"
+  - '[[_Standards/WikiData/WD~decimal_classification,1207369]]'
+  - '[[_Standards/WikiData/WD~series_of_creative_works,7725310]]'
+  - '[[_Standards/WikiData/WD~universal_classification_scheme,24243801]]'
+  - '[[_Standards/WikiData/WD~library_classification_scheme,48473]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~DDC_23,15222117]]"
-  - "[[_Standards/WikiData/WD~DDC_22,15222138]]"
-  - "[[_Standards/WikiData/WD~DDC_21,20830578]]"
-  - "[[_Standards/WikiData/WD~DDC_19,22291302]]"
-  - "[[_Standards/WikiData/WD~DDC_20,22291387]]"
-  - "[[_Standards/WikiData/WD~DDC_11,22293455]]"
-  - "[[_Standards/WikiData/WD~Classification_and_Subject_Index_for_Cataloguing_and_Arranging_the_Books_and_Pamphlets_of_a_Library,26486789]]"
-  - "[[_Standards/WikiData/WD~DDC_18,55765088]]"
-has_use: "[[_Standards/WikiData/WD~item_of_collection_or_exhibition,18593264]]"
+  - '[[_Standards/WikiData/WD~DDC_23,15222117]]'
+  - '[[_Standards/WikiData/WD~DDC_22,15222138]]'
+  - '[[_Standards/WikiData/WD~DDC_21,20830578]]'
+  - '[[_Standards/WikiData/WD~DDC_19,22291302]]'
+  - '[[_Standards/WikiData/WD~DDC_20,22291387]]'
+  - '[[_Standards/WikiData/WD~DDC_11,22293455]]'
+  - '[[_Standards/WikiData/WD~Classification_and_Subject_Index_for_Cataloguing_and_Arranging_the_Books_and_Pamphlets_of_a_Library,26486789]]'
+  - '[[_Standards/WikiData/WD~DDC_18,55765088]]'
+has_use: '[[_Standards/WikiData/WD~item_of_collection_or_exhibition,18593264]]'
 inception: 1876-01-01T00:00:00Z
 Wikidata_property:
   - Dewey Decimal Classification
   - Dewey Decimal Classification (works and editions)
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-used_by: "[[_Standards/WikiData/WD~library,7075]]"
-creator: "[[_Standards/WikiData/WD~Melvil_Dewey,26879]]"
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+used_by: '[[_Standards/WikiData/WD~library,7075]]'
+creator: '[[_Standards/WikiData/WD~Melvil_Dewey,26879]]'
 exact_match:
   - http://purl.org/dc/terms/DDC
   - http://www.bl.uk/schemas/bibliographic/blterms#TopicDDC
@@ -44,7 +45,7 @@ short_name:
   - CDD
 Commons_category: Dewey Decimal System
 Datahub_page: dewey_decimal_classification
-Dewey_Decimal_Classification: "025.431"
+Dewey_Decimal_Classification: 025.431
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dewey%20relatv%20index.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteuse%20Journ%C3%A9e%202%20-%209%20%28Madehub%29-classification%20d%C3%A9micale%20de%20Dewey.wav
 described_at_URL: https://www.oclc.org/content/dam/oclc/dewey/ddc23-summaries.pdf

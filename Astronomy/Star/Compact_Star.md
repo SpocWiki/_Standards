@@ -1,7 +1,9 @@
 ---
 aliases:
-  - compact object 
+  - compact object
   - compact star
+  - Compact_Star
+  - Compact Star
 has_id_wikidata: Q368442
 ---
 

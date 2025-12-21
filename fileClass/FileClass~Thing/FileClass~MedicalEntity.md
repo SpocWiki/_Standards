@@ -1,66 +1,68 @@
 ---
-bookmarksGroups: 
-excludes: 
+aliases:
+  - FileClass~MedicalEntity
+bookmarksGroups: ''
+excludes: ''
 extends: FileClass~Thing
-favoriteView: 
+favoriteView: ''
 fields:
-- id: sF7aOM
-  name: Code
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible/MedicalCode')"
-  type: MultiFile
-  path: ''
-- id: mqC9eT
-  name: Funding
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Grant')"
-  type: MultiFile
-  path: ''
-- id: 4uA4rQ
-  name: Guideline
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalGuideline')"
-  type: MultiFile
-  path: ''
-- id: CW29vX
-  name: LegalStatus
-  options: {}
-  type: Input
-  path: ''
-- id: nVFrsP
-  name: RecognizingAuthority
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: x6wrRG
-  name: Study
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalStudy')"
-  type: MultiFile
-  path: ''
+  - id: sF7aOM
+    name: Code
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible/MedicalCode')
+    type: MultiFile
+    path: ''
+  - id: mqC9eT
+    name: Funding
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Grant')
+    type: MultiFile
+    path: ''
+  - id: 4uA4rQ
+    name: Guideline
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalGuideline')
+    type: MultiFile
+    path: ''
+  - id: CW29vX
+    name: LegalStatus
+    options: {}
+    type: Input
+    path: ''
+  - id: nVFrsP
+    name: RecognizingAuthority
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: x6wrRG
+    name: Study
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalStudy')
+    type: MultiFile
+    path: ''
 fieldsOrder:
-- x6wrRG
-- nVFrsP
-- CW29vX
-- 4uA4rQ
-- mqC9eT
-- sF7aOM
-filesPaths: 
+  - x6wrRG
+  - nVFrsP
+  - CW29vX
+  - 4uA4rQ
+  - mqC9eT
+  - sF7aOM
+filesPaths: ''
 icon: plus-circle
 limit: 9
 mapWithTag: true
 savedViews: []
 tagNames:
-- class/MedicalEntity
-- class/Thing/MedicalEntity
-- is_a_/MedicalEntity
-- schema-org/MedicalEntity
+  - class/MedicalEntity
+  - class/Thing/MedicalEntity
+  - is_a_/MedicalEntity
+  - schema-org/MedicalEntity
 tags:
-- class/FileClass
-- class/MedicalEntity
-- is_a_/MedicalEntity
-- class/Thing/MedicalEntity
+  - class/FileClass
+  - class/MedicalEntity
+  - is_a_/MedicalEntity
+  - class/Thing/MedicalEntity
 version: 2.1
 ---
 

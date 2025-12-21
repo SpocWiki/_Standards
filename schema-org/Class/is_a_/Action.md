@@ -1,28 +1,28 @@
 ---
 aliases:
-- action
-- action
-- Action
-- is_an_action
-- "schema:Action"
+  - action
+  - action
+  - Action
+  - is_an_action
+  - schema:Action
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 is_sub_class_of: '[[../Thing|Thing]]'
 keywords:
-- action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_action Class"
+  - action
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_an_action Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- schema-org/Class
-title: "is_an_action Class"
+  - schema-org/Class
+title: is_an_action Class
 type: Type
 ---
 

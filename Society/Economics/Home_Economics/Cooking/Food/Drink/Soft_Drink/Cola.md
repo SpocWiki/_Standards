@@ -1,16 +1,17 @@
 ---
 aliases:
   - Kola
+  - Cola
 has_id_wikidata: Q134041
-has_part_s_: "[[_Standards/WikiData/WD~caramel_color,227816]]"
-color: "[[_Standards/WikiData/WD~dark_brown,15699769]]"
+has_part_s_: '[[_Standards/WikiData/WD~caramel_color,227816]]'
+color: '[[_Standards/WikiData/WD~dark_brown,15699769]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~caffeinated_soft_drink,116869244]]"
-  - "[[_Standards/WikiData/WD~sugary_drink,122973887]]"
+  - '[[_Standards/WikiData/WD~caffeinated_soft_drink,116869244]]'
+  - '[[_Standards/WikiData/WD~sugary_drink,122973887]]'
 inception: 1886-01-01T00:00:00Z
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-USDA_NDB_number: "14148"
-P8189: "987007563685505171"
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+USDA_NDB_number: 14148
+P8189: 987007563685505171
 Commons_category: Cola drinks
 ---
 

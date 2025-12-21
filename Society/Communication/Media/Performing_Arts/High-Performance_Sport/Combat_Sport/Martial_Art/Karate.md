@@ -2,6 +2,7 @@
 aliases:
   - 空手
   - 空手道, Karate-dō
+  - Karate
 has_id_wikidata: Q11419
 different_from:
   - "[[_Standards/WikiData/WD~Muay_Thai,120931]]"
@@ -27,7 +28,7 @@ instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
 Commons_gallery: Karate
 Commons_category: Karate
 native_label: 空手
-OmegaWiki_Defined_Meaning: "516466"
+OmegaWiki_Defined_Meaning: 516466
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Karate%20pictogram.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Kihon%20for%20the%206th%20kyu%20test.ogv
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Opsylac-karat%C3%A9.wav
@@ -39,7 +40,7 @@ Unicode_character: 🥋
 OpenStreetMap_tag: sport=karate
 ---
 
-# [[Karate]] 
+# [[Karate]]  🥋
 
 #is_/same_as :: [[WD~Karate,11419]] 
 

@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Mauritius
+  - Mauricio
+  - Maurice
+  - موريشيوس
+  - 毛里求斯
+  - Маврикий
+  - the Republic of Mauritius
+  - la República de Mauricio
+has_id_wikidata: Q1027
 instance_of:
   - "[[_Standards/WikiData/WD~island_country,112099]]"
   - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
@@ -302,7 +312,6 @@ short_name: 🇲🇺
 coordinates_of_easternmost_point: Point(63.41667 -19.7)
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Mauritius%20%28%2Bclaim%20islands%29.svg
 bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Rodrigues%20Island%20bathymetric%20environment%20map-fr.svg
-has_id_wikidata: Q1027
 location:
   - -20.1667
   - 57.5167
@@ -319,21 +328,12 @@ cssclasses:
   - Country
 publish: true
 title: Mauritius
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Mauritius
-  - Mauricio
-  - Maurice
-  - موريشيوس
-  - 毛里求斯
-  - Маврикий
-  - the Republic of Mauritius
-  - la República de Mauricio
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-MU
   - bho

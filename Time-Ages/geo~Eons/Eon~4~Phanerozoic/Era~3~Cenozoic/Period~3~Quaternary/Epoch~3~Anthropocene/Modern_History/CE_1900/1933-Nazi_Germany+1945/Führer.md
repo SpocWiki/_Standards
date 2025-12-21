@@ -1,13 +1,14 @@
 ---
 aliases:
   - Fuehrer
+  - Führer
 has_id_wikidata: Q484079
-different_from: "[[_Standards/WikiData/WD~Reichsführer_SS,162312]]"
+different_from: '[[_Standards/WikiData/WD~Reichsführer_SS,162312]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~title,216353]]"
-  - "[[_Standards/WikiData/WD~position,4164871]]"
-official_residence: "[[_Standards/WikiData/WD~Reich_Chancellery,698208]]"
-country: "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
+  - '[[_Standards/WikiData/WD~title,216353]]'
+  - '[[_Standards/WikiData/WD~position,4164871]]'
+official_residence: '[[_Standards/WikiData/WD~Reich_Chancellery,698208]]'
+country: '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
 dissolved_abolished_or_demolished_date: 1945-04-30T00:00:00Z
 inception: 1934-08-02T00:00:00Z
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Standarte%20Adolf%20Hitlers.svg

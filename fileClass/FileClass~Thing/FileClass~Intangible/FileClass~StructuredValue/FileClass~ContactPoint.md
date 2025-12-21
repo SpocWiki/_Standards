@@ -1,64 +1,66 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ContactPoint
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-- id: psjAsA
-  name: AreaServed
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place/AdministrativeArea')"
-  type: MultiFile
-  path: ''
-- id: sc0wdu
-  name: AvailableLanguage
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Language')"
-  type: MultiFile
-  path: ''
-- id: NojFhK
-  name: ContactType
-  options: {}
-  type: Input
-  path: ''
-- id: KFW1pE
-  name: Email
-  options: {}
-  type: Input
-  path: ''
-- id: Et2JIK
-  name: FaxNumber
-  options: {}
-  type: Input
-  path: ''
-- id: KKaUTM
-  name: HoursAvailable
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')"
-  type: MultiFile
-  path: ''
-- id: DrgOW3
-  name: ProductSupported
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Product')"
-  type: MultiFile
-  path: ''
-- id: 9eCEo5
-  name: Telephone
-  options: {}
-  type: Input
-  path: ''
+  - id: psjAsA
+    name: AreaServed
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
+    type: MultiFile
+    path: ''
+  - id: sc0wdu
+    name: AvailableLanguage
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Language')
+    type: MultiFile
+    path: ''
+  - id: NojFhK
+    name: ContactType
+    options: {}
+    type: Input
+    path: ''
+  - id: KFW1pE
+    name: Email
+    options: {}
+    type: Input
+    path: ''
+  - id: Et2JIK
+    name: FaxNumber
+    options: {}
+    type: Input
+    path: ''
+  - id: KKaUTM
+    name: HoursAvailable
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')
+    type: MultiFile
+    path: ''
+  - id: DrgOW3
+    name: ProductSupported
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product')
+    type: MultiFile
+    path: ''
+  - id: 9eCEo5
+    name: Telephone
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ContactPoint
-- class/Thing/Intangible/StructuredValue/ContactPoint
-- is_a_/ContactPoint
-- schema-org/ContactPoint
+  - class/ContactPoint
+  - class/Thing/Intangible/StructuredValue/ContactPoint
+  - is_a_/ContactPoint
+  - schema-org/ContactPoint
 tags:
-- class/FileClass
-- class/ContactPoint
-- is_a_/ContactPoint
-- class/Thing/Intangible/StructuredValue/ContactPoint
+  - class/FileClass
+  - class/ContactPoint
+  - is_a_/ContactPoint
+  - class/Thing/Intangible/StructuredValue/ContactPoint
 version: 2.0
 ---
 

@@ -6,19 +6,19 @@ aliases:
   - s quark
 has_id_wikidata: Q6763
 interaction:
-  - "[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]"
-  - "[[_Standards/WikiData/WD~strong_interaction,11415]]"
-  - "[[_Standards/WikiData/WD~gravity,11412]]"
-  - "[[_Standards/WikiData/WD~weak_interaction,11418]]"
-antiparticle: "[[_Standards/WikiData/WD~strange_antiquark,11905755]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
+  - '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+  - '[[_Standards/WikiData/WD~strong_interaction,11415]]'
+  - '[[_Standards/WikiData/WD~gravity,11412]]'
+  - '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+antiparticle: '[[_Standards/WikiData/WD~strange_antiquark,11905755]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
 electric_charge: -0.3333333333333333
 subclass_of:
-  - "[[_Standards/WikiData/WD~quark,6718]]"
-  - "[[_Standards/WikiData/WD~elementary_particle,43116]]"
+  - '[[_Standards/WikiData/WD~quark,6718]]'
+  - '[[_Standards/WikiData/WD~elementary_particle,43116]]'
 parity_quantum_number: 1
 spin_quantum_number: 0.5
-Monte_Carlo_Particle_Number: "3"
+Monte_Carlo_Particle_Number: 3
 mass: 93.5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Strange%20quark.svg
 ---

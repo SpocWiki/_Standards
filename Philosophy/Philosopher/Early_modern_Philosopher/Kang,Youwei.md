@@ -2,6 +2,7 @@
 aliases:
   - Kang Youwei
   - Kang_Youwei
+  - Kang,Youwei
 has_id_wikidata: Q360135
 Libris_URI: dbqsncbx2v0zkt2
 Krugosvet_article_archived_: filosofiya/kan-yuvey
@@ -54,48 +55,48 @@ date_of_death:
   - 1927-03-31T00:00:00Z
   - 1927-02-28T00:00:00Z
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~journalist,1930187]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~journalist,1930187]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~National_Museum_in_Warsaw,153306]]"
-  - "[[_Standards/WikiData/WD~Ashmolean_Museum,636400]]"
-  - "[[_Standards/WikiData/WD~Shanghai_Museum,1051293]]"
-  - "[[_Standards/WikiData/WD~Kaohsiung_Museum_of_Fine_Arts,3846600]]"
-place_of_death: "[[_Standards/WikiData/WD~Qingdao,170322]]"
-student: "[[_Standards/WikiData/WD~Liang_Chi_chao,379836]]"
-doctoral_student: "[[_Standards/WikiData/WD~Liang_Chi_chao,379836]]"
-genre: "[[_Standards/WikiData/WD~treatise,384515]]"
+  - '[[_Standards/WikiData/WD~National_Museum_in_Warsaw,153306]]'
+  - '[[_Standards/WikiData/WD~Ashmolean_Museum,636400]]'
+  - '[[_Standards/WikiData/WD~Shanghai_Museum,1051293]]'
+  - '[[_Standards/WikiData/WD~Kaohsiung_Museum_of_Fine_Arts,3846600]]'
+place_of_death: '[[_Standards/WikiData/WD~Qingdao,170322]]'
+student: '[[_Standards/WikiData/WD~Liang_Chi_chao,379836]]'
+doctoral_student: '[[_Standards/WikiData/WD~Liang_Chi_chao,379836]]'
+genre: '[[_Standards/WikiData/WD~treatise,384515]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Old_Mandarin,837169]]"
-  - "[[_Standards/WikiData/WD~Classical_Chinese,37041]]"
-place_of_birth: "[[_Standards/WikiData/WD~Nanhai_District,1023893]]"
+  - '[[_Standards/WikiData/WD~Old_Mandarin,837169]]'
+  - '[[_Standards/WikiData/WD~Classical_Chinese,37041]]'
+place_of_birth: '[[_Standards/WikiData/WD~Nanhai_District,1023893]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]"
-  - "[[_Standards/WikiData/WD~Qingdai_Xuezhe_Xiangzhuan,10390632]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Seven_Hundred_Eminent_People_of_the_Qing_Dynasty,107130538]]"
-  - "[[_Standards/WikiData/WD~Biographies_of_Recent_Dignitaries,132125227]]"
-family_name: "[[_Standards/WikiData/WD~Kang,3594969]]"
-child: "[[_Standards/WikiData/WD~Kang_Tongbi,6362326]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-place_of_burial: "[[_Standards/WikiData/WD~Tomb_of_Kang_Youwei,11063882]]"
-sibling: "[[_Standards/WikiData/WD~Kang_Youpu,11063885]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Republic_of_China,13426199]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-ancestral_home: "[[_Standards/WikiData/WD~Nanhai,113490639]]"
+  - '[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]'
+  - '[[_Standards/WikiData/WD~Qingdai_Xuezhe_Xiangzhuan,10390632]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Seven_Hundred_Eminent_People_of_the_Qing_Dynasty,107130538]]'
+  - '[[_Standards/WikiData/WD~Biographies_of_Recent_Dignitaries,132125227]]'
+family_name: '[[_Standards/WikiData/WD~Kang,3594969]]'
+child: '[[_Standards/WikiData/WD~Kang_Tongbi,6362326]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+place_of_burial: '[[_Standards/WikiData/WD~Tomb_of_Kang_Youwei,11063882]]'
+sibling: '[[_Standards/WikiData/WD~Kang_Youpu,11063885]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Republic_of_China,13426199]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+ancestral_home: '[[_Standards/WikiData/WD~Nanhai,113490639]]'
 date_of_birth: 1858-03-19T00:00:00Z
-field_of_work: "[[_Standards/WikiData/WD~philosophy,5891]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Confucianism,9581]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Kuomintang,31113]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-writing_language: "[[_Standards/WikiData/WD~Classical_Chinese,37041]]"
+field_of_work: '[[_Standards/WikiData/WD~philosophy,5891]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Confucianism,9581]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Kuomintang,31113]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+writing_language: '[[_Standards/WikiData/WD~Classical_Chinese,37041]]'
 Commons_Creator_page: Kang Youwei
 Commons_category: Kang Youwei
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kang-youwei2-large.jpg
-ISNI: "0000000122818856"
-NLC_authorities: "000160704"
+ISNI: 0000000122818856
+NLC_authorities: 000160704
 BHCL_UUID:
   - 0bb7e00c-2ed7-42ea-9dce-c2ea7545bb20
   - 3bcdbbba-75fe-4690-b90e-57be4e656c24

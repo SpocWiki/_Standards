@@ -4,21 +4,22 @@ aliases:
   - fuel-consumption
   - fuelConsumption
   - has_value_for_fuel_consumption_l_km
+  - has value for fuel consumption l km
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - fuel-consumption
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_fuel-consumption
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

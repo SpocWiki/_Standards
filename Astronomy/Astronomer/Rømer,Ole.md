@@ -8,44 +8,45 @@ aliases:
   - Ole Rømer
   - Ole Römer
   - Rømer
+  - Rømer,Ole
 has_id_wikidata: Q160187
-religion_or_worldview: "[[_Standards/WikiData/WD~Lutheranism,75809]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Lutheranism,75809]]'
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~police_officer,384593]]"
-  - "[[_Standards/WikiData/WD~patent_inventor,715679]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~astronomer,11063]]"
-  - "[[_Standards/WikiData/WD~judge,16533]]"
+  - '[[_Standards/WikiData/WD~physicist,169470]]'
+  - '[[_Standards/WikiData/WD~mathematician,170790]]'
+  - '[[_Standards/WikiData/WD~police_officer,384593]]'
+  - '[[_Standards/WikiData/WD~patent_inventor,715679]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~astronomer,11063]]'
+  - '[[_Standards/WikiData/WD~judge,16533]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Copenhagen,186285]]"
-  - "[[_Standards/WikiData/WD~Aarhus_Katedralskole,12300325]]"
-employer: "[[_Standards/WikiData/WD~University_of_Copenhagen,186285]]"
+  - '[[_Standards/WikiData/WD~University_of_Copenhagen,186285]]'
+  - '[[_Standards/WikiData/WD~Aarhus_Katedralskole,12300325]]'
+employer: '[[_Standards/WikiData/WD~University_of_Copenhagen,186285]]'
 member_of:
-  - "[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]"
-  - "[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]"
+  - '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
+  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]"
-given_name: "[[_Standards/WikiData/WD~Ole,2097883]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]'
+given_name: '[[_Standards/WikiData/WD~Ole,2097883]]'
 notable_work: "[[_Standards/WikiData/WD~Rømer's_determination_of_the_speed_of_light,2898393]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-family_name: "[[_Standards/WikiData/WD~Rømer,33036010]]"
-spouse: "[[_Standards/WikiData/WD~Anne_Marie_Bartholin,109326282]]"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+family_name: '[[_Standards/WikiData/WD~Rømer,33036010]]'
+spouse: '[[_Standards/WikiData/WD~Anne_Marie_Bartholin,109326282]]'
 date_of_death: 1710-09-19T00:00:00Z
-place_of_death: "[[_Standards/WikiData/WD~Copenhagen,1748]]"
-residence: "[[_Standards/WikiData/WD~Copenhagen,1748]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Danish,9035]]"
-place_of_birth: "[[_Standards/WikiData/WD~Aarhus,25319]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+place_of_death: '[[_Standards/WikiData/WD~Copenhagen,1748]]'
+residence: '[[_Standards/WikiData/WD~Copenhagen,1748]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Danish,9035]]'
+place_of_birth: '[[_Standards/WikiData/WD~Aarhus,25319]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_Creator_page: Ole Rømer
 Commons_category: Ole Rømer
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Ole%20R%C3%B8mer%20Signature.svg

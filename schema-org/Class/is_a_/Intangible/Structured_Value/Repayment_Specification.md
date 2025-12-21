@@ -4,20 +4,22 @@ aliases:
   - repayment_specification
   - RepaymentSpecification
   - is_a_repayment_specification
+  - Repayment_Specification
+  - Repayment Specification
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - repayment_specification
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_repayment_specification Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

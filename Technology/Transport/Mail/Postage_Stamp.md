@@ -2,47 +2,49 @@
 aliases:
   - Briefmarke
   - postage stamp
+  - Postage_Stamp
+  - Postage Stamp
 has_id_wikidata: Q37930
 Commons_gallery: Postage stamps
 Commons_category: Postage stamps
 Baidu_Tieba_name: 邮票
-studied_by: "[[_Standards/WikiData/WD~philately,131026]]"
+studied_by: '[[_Standards/WikiData/WD~philately,131026]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~manifestation,286583]]"
-  - "[[_Standards/WikiData/WD~indicia,352618]]"
-  - "[[../../../WikiData/WD~work,386724]]"
-  - "[[_Standards/WikiData/WD~genre,483394]]"
-  - "[[_Standards/WikiData/WD~stationery,875696]]"
-  - "[[_Standards/WikiData/WD~collectible,2342494]]"
-  - "[[_Standards/WikiData/WD~historical_source,3750478]]"
-  - "[[_Standards/WikiData/WD~print,11060274]]"
-  - "[[_Standards/WikiData/WD~adhesive_stamp,110163439]]"
+  - '[[_Standards/WikiData/WD~manifestation,286583]]'
+  - '[[_Standards/WikiData/WD~indicia,352618]]'
+  - '[[../../../WikiData/WD~work,386724]]'
+  - '[[_Standards/WikiData/WD~genre,483394]]'
+  - '[[_Standards/WikiData/WD~stationery,875696]]'
+  - '[[_Standards/WikiData/WD~collectible,2342494]]'
+  - '[[_Standards/WikiData/WD~historical_source,3750478]]'
+  - '[[_Standards/WikiData/WD~print,11060274]]'
+  - '[[_Standards/WikiData/WD~adhesive_stamp,110163439]]'
 part_of:
-  - "[[_Standards/WikiData/WD~stamp_series,673383]]"
-  - "[[_Standards/WikiData/WD~stamp_edition,1926935]]"
-  - "[[_Standards/WikiData/WD~stamp_year_set,126720640]]"
+  - '[[_Standards/WikiData/WD~stamp_series,673383]]'
+  - '[[_Standards/WikiData/WD~stamp_edition,1926935]]'
+  - '[[_Standards/WikiData/WD~stamp_year_set,126720640]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~postage_stamp_separation,731790]]"
-  - "[[_Standards/WikiData/WD~First_day_(of_validity),1362379]]"
-  - "[[_Standards/WikiData/WD~stamp_condition,7597456]]"
-  - "[[_Standards/WikiData/WD~First_day_of_issue,126616154]]"
-  - "[[_Standards/WikiData/WD~last_day_of_validity,126672672]]"
-  - "[[_Standards/WikiData/WD~local_first_day_of_issue,126673806]]"
-  - "[[_Standards/WikiData/WD~price_estimation,127700370]]"
-  - "[[_Standards/WikiData/WD~type_of_postage_stamp,131578051]]"
+  - '[[_Standards/WikiData/WD~postage_stamp_separation,731790]]'
+  - '[[_Standards/WikiData/WD~First_day_(of_validity),1362379]]'
+  - '[[_Standards/WikiData/WD~stamp_condition,7597456]]'
+  - '[[_Standards/WikiData/WD~First_day_of_issue,126616154]]'
+  - '[[_Standards/WikiData/WD~last_day_of_validity,126672672]]'
+  - '[[_Standards/WikiData/WD~local_first_day_of_issue,126673806]]'
+  - '[[_Standards/WikiData/WD~price_estimation,127700370]]'
+  - '[[_Standards/WikiData/WD~type_of_postage_stamp,131578051]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~postal_cover,827026]]"
-  - "[[_Standards/WikiData/WD~first_day_cover,1362383]]"
-  - "[[_Standards/WikiData/WD~first_day_sheet,1362387]]"
-has_use: "[[_Standards/WikiData/WD~franking,1444571]]"
-has_part_s_: "[[_Standards/WikiData/WD~rarity,2066703]]"
+  - '[[_Standards/WikiData/WD~postal_cover,827026]]'
+  - '[[_Standards/WikiData/WD~first_day_cover,1362383]]'
+  - '[[_Standards/WikiData/WD~first_day_sheet,1362387]]'
+has_use: '[[_Standards/WikiData/WD~franking,1444571]]'
+has_part_s_: '[[_Standards/WikiData/WD~rarity,2066703]]'
 has_list:
-  - "[[_Standards/WikiData/WD~list_of_postage_stamps,2426423]]"
-  - "[[_Standards/WikiData/WD~Postage_stamp_classification,4180112]]"
-  - "[[_Standards/WikiData/WD~list_of_most_expensive_philatelic_items,97176501]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_postage_stamp,10985899]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-instance_of: "[[_Standards/WikiData/WD~philatelic_term,126286955]]"
+  - '[[_Standards/WikiData/WD~list_of_postage_stamps,2426423]]'
+  - '[[_Standards/WikiData/WD~Postage_stamp_classification,4180112]]'
+  - '[[_Standards/WikiData/WD~list_of_most_expensive_philatelic_items,97176501]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_postage_stamp,10985899]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~philatelic_term,126286955]]'
 properties_for_this_type:
   - designed by
   - color
@@ -65,18 +67,18 @@ properties_for_this_type:
   - based on
   - creator
   - depicts
-made_from_material: "[[_Standards/WikiData/WD~paper,11472]]"
+made_from_material: '[[_Standards/WikiData/WD~paper,11472]]'
 inappropriate_property_for_this_type: country
-Nomenclature_for_Museum_Cataloging: "13909"
-OmegaWiki_Defined_Meaning: "161415"
+Nomenclature_for_Museum_Cataloging: 13909
+OmegaWiki_Defined_Meaning: 161415
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Salvador%201892%20Sc74.jpg
-U_S_National_Archives_Identifier: "10643534"
+U_S_National_Archives_Identifier: 10643534
 Dewey_Decimal_Classification:
-  - "332.63"
-  - "383.23"
-  - "686.288"
-  - "769.56"
-UNSPSC_Code: "44121513"
+  - 332.63
+  - 383.23
+  - 686.288
+  - 769.56
+UNSPSC_Code: 44121513
 ---
 
 # [[Postage_Stamp]] 

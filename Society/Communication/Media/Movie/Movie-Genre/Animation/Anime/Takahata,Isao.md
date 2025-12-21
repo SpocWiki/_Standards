@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Isao Takahata"
+  - Isao Takahata
+  - Takahata,Isao
 ---
 
 > **Isao Takahata** (高畑 勲, Takahata Isao, October 29, 1935 – April 5, 2018) 

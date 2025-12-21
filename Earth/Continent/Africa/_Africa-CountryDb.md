@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _Africa-CountryDb
+  - ' Africa-CountryDb'
 database_plugin: basic
 ---
 

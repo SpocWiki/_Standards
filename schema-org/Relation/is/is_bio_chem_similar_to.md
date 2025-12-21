@@ -4,23 +4,25 @@ aliases:
   - bio_chem_similarity
   - bioChemSimilarity
   - has_bio_chem_similarity
+  - is_bio_chem_similar_to
+  - is bio chem similar to
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - bio
   - chem
   - similarity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_bio_chem_similarity
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

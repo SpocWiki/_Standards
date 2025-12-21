@@ -3,15 +3,16 @@ aliases:
   - Onomastik
   - onomatology
   - Onomatologie
+  - Onomastics
 has_id_wikidata: Q175156
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~name,82799]]"
-  - "[[_Standards/WikiData/WD~naming,25488743]]"
-has_part_s_: "[[_Standards/WikiData/WD~toponymy,485762]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Personal_names,11131773]]"
-practiced_by: "[[_Standards/WikiData/WD~onomastician,15976327]]"
-subclass_of: "[[_Standards/WikiData/WD~linguistics,8162]]"
+  - '[[_Standards/WikiData/WD~name,82799]]'
+  - '[[_Standards/WikiData/WD~naming,25488743]]'
+has_part_s_: '[[_Standards/WikiData/WD~toponymy,485762]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Personal_names,11131773]]'
+practiced_by: '[[_Standards/WikiData/WD~onomastician,15976327]]'
+subclass_of: '[[_Standards/WikiData/WD~linguistics,8162]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Onoma.jpg
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/ONOMASTIKA.html
 Commons_category: Onomastics

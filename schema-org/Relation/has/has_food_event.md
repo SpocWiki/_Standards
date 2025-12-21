@@ -3,23 +3,24 @@ aliases:
   - has food-event
   - foodEvent
   - has_food_event
+  - has food event
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - food
   - event
   - food_event
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_food_event
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

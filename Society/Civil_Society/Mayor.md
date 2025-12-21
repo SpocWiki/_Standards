@@ -1,6 +1,7 @@
 ---
 aliases:
   - Bürgermeister
+  - Mayor
 has_id_wikidata: Q30185
 female_form_of_label:
   - alcaldesa
@@ -58,41 +59,41 @@ male_form_of_label:
   - عمدة
   - Buergermeeschter
 subclass_of:
-  - "[[_Standards/WikiData/WD~authority,174834]]"
-  - "[[_Standards/WikiData/WD~governing_body,895526]]"
-  - "[[_Standards/WikiData/WD~head_of_government,2285706]]"
-  - "[[_Standards/WikiData/WD~local_politician,10547393]]"
-  - "[[_Standards/WikiData/WD~elective_office,17279032]]"
-  - "[[_Standards/WikiData/WD~head_of_a_city,116783387]]"
+  - '[[_Standards/WikiData/WD~authority,174834]]'
+  - '[[_Standards/WikiData/WD~governing_body,895526]]'
+  - '[[_Standards/WikiData/WD~head_of_government,2285706]]'
+  - '[[_Standards/WikiData/WD~local_politician,10547393]]'
+  - '[[_Standards/WikiData/WD~elective_office,17279032]]'
+  - '[[_Standards/WikiData/WD~head_of_a_city,116783387]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~burgomaster,177529]]"
-  - "[[_Standards/WikiData/WD~city_head,4145633]]"
-  - "[[_Standards/WikiData/WD~Reeve_(Canada),78892422]]"
+  - '[[_Standards/WikiData/WD~burgomaster,177529]]'
+  - '[[_Standards/WikiData/WD~city_head,4145633]]'
+  - '[[_Standards/WikiData/WD~Reeve_(Canada),78892422]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - "[[_Standards/WikiData/WD~chief_of_the_village,876722]]"
-  - "[[_Standards/WikiData/WD~head_of_the_city_council,10353658]]"
-  - "[[_Standards/WikiData/WD~Lord_Mayor,11902879]]"
-  - "[[_Standards/WikiData/WD~lieutenant_governor,15875661]]"
-  - "[[_Standards/WikiData/WD~alcalde,87003419]]"
-  - "[[_Standards/WikiData/WD~village_chief,113958153]]"
-instance_of: "[[_Standards/WikiData/WD~position,4164871]]"
-honorific_prefix: "[[_Standards/WikiData/WD~Mayor,122429205]]"
-applies_to_jurisdiction: "[[_Standards/WikiData/WD~municipality,15284]]"
-OmegaWiki_Defined_Meaning: "7141"
-U_S_National_Archives_Identifier: "10639265"
+  - '[[_Standards/WikiData/WD~chief_of_the_village,876722]]'
+  - '[[_Standards/WikiData/WD~head_of_the_city_council,10353658]]'
+  - '[[_Standards/WikiData/WD~Lord_Mayor,11902879]]'
+  - '[[_Standards/WikiData/WD~lieutenant_governor,15875661]]'
+  - '[[_Standards/WikiData/WD~alcalde,87003419]]'
+  - '[[_Standards/WikiData/WD~village_chief,113958153]]'
+instance_of: '[[_Standards/WikiData/WD~position,4164871]]'
+honorific_prefix: '[[_Standards/WikiData/WD~Mayor,122429205]]'
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~municipality,15284]]'
+OmegaWiki_Defined_Meaning: 7141
+U_S_National_Archives_Identifier: 10639265
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Femme%20Maire%202.jpg
 IMDb_keyword: mayor
 equivalent_class: http://dbpedia.org/ontology/Mayor
 Dewey_Decimal_Classification:
-  - "320.854"
-  - "352.23216"
+  - 320.854
+  - 352.23216
 Provenio_UUID: 91a66c22-c1d5-4bfe-8603-e32495b8a87d
 Commons_category: Mayors
 ---

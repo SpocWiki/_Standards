@@ -3,30 +3,31 @@ aliases:
   - Erpressung
   - shakedown
   - exaction
+  - Extortion
 has_id_wikidata: Q6452087
 subclass_of:
-  - "[[_Standards/WikiData/WD~crime,83267]]"
-  - "[[_Standards/WikiData/WD~coercion,325980]]"
-  - "[[_Standards/WikiData/WD~Vermögensdelikt,1772449]]"
+  - '[[_Standards/WikiData/WD~crime,83267]]'
+  - '[[_Standards/WikiData/WD~coercion,325980]]'
+  - '[[_Standards/WikiData/WD~Vermögensdelikt,1772449]]'
 main_regulatory_text:
-  - "[[_Standards/WikiData/WD~Strafgesetzbuch,674827]]"
-  - "[[_Standards/WikiData/WD~Polish_Penal_Code,1029679]]"
-  - "[[_Standards/WikiData/WD~penal_code_of_South_Korea,14858002]]"
+  - '[[_Standards/WikiData/WD~Strafgesetzbuch,674827]]'
+  - '[[_Standards/WikiData/WD~Polish_Penal_Code,1029679]]'
+  - '[[_Standards/WikiData/WD~penal_code_of_South_Korea,14858002]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-part_of: "[[_Standards/WikiData/WD~Penal_Code_of_Japan,2750187]]"
+part_of: '[[_Standards/WikiData/WD~Penal_Code_of_Japan,2750187]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~elements_of_an_offence,20820018]]"
-  - "[[_Standards/WikiData/WD~Wikibase_reason_for_deprecated_rank,27949697]]"
-  - "[[_Standards/WikiData/WD~type_of_crime,130583773]]"
+  - '[[_Standards/WikiData/WD~elements_of_an_offence,20820018]]'
+  - '[[_Standards/WikiData/WD~Wikibase_reason_for_deprecated_rank,27949697]]'
+  - '[[_Standards/WikiData/WD~type_of_crime,130583773]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~hostage_taker,111007953]]"
-  - "[[_Standards/WikiData/WD~extortionist,111438723]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~blackmail,34284]]"
-U_S_National_Archives_Identifier: "10638637"
-MIL_STD_2525_Symbol_Identification_Code: "10014000001101060000"
+  - '[[_Standards/WikiData/WD~hostage_taker,111007953]]'
+  - '[[_Standards/WikiData/WD~extortionist,111438723]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~blackmail,34284]]'
+U_S_National_Archives_Identifier: 10638637
+MIL_STD_2525_Symbol_Identification_Code: 10014000001101060000
 Commons_category: Extortion
 ---
 

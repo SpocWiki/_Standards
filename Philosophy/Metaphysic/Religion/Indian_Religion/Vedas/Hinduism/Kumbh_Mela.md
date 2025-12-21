@@ -1,15 +1,17 @@
 ---
 aliases:
   - कुम्भमेला
+  - Kumbh_Mela
+  - Kumbh Mela
 has_id_wikidata: Q10283
-participant: "[[_Standards/WikiData/WD~hijra,660882]]"
-subclass_of: "[[_Standards/WikiData/WD~Hindu_pilgrimage,15726071]]"
+participant: '[[_Standards/WikiData/WD~hijra,660882]]'
+subclass_of: '[[_Standards/WikiData/WD~Hindu_pilgrimage,15726071]]'
 intangible_cultural_heritage_status:
-  - "[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]"
-  - "[[_Standards/WikiData/WD~National_List_for_Intangible_Cultural_Heritage_(ICH),113105924]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]"
-instance_of: "[[_Standards/WikiData/WD~pilgrimage_feast,113071362]]"
-country: "[[_Standards/WikiData/WD~India,668]]"
+  - '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
+  - '[[_Standards/WikiData/WD~National_List_for_Intangible_Cultural_Heritage_(ICH),113105924]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
+instance_of: '[[_Standards/WikiData/WD~pilgrimage_feast,113071362]]'
+country: '[[_Standards/WikiData/WD~India,668]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kumbh%20Mela2001.JPG
 official_website: http://kumbhmelaallahabad.gov.in/
 described_at_URL:

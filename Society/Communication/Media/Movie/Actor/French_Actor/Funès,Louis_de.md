@@ -3,53 +3,55 @@ aliases:
   - Louis_de_Funès
   - Louis Germain David de Funès de Galarza
   - Louis de Funès
+  - Funès,Louis_de
+  - Funès,Louis de
 has_id_wikidata: Q2737
-place_of_birth: "[[_Standards/WikiData/WD~Courbevoie,189715]]"
+place_of_birth: '[[_Standards/WikiData/WD~Courbevoie,189715]]'
 occupation:
-  - "[[_Standards/WikiData/WD~comedian,245068]]"
-  - "[[_Standards/WikiData/WD~pianist,486748]]"
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~dub_actor,11481802]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-place_of_burial: "[[_Standards/WikiData/WD~Le_Cellier,664678]]"
+  - '[[_Standards/WikiData/WD~comedian,245068]]'
+  - '[[_Standards/WikiData/WD~pianist,486748]]'
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~dub_actor,11481802]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+place_of_burial: '[[_Standards/WikiData/WD~Le_Cellier,664678]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Lycée_Condorcet,926749]]"
-  - "[[_Standards/WikiData/WD~Cours_Simon,1137719]]"
+  - '[[_Standards/WikiData/WD~Lycée_Condorcet,926749]]'
+  - '[[_Standards/WikiData/WD~Cours_Simon,1137719]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Germain,1303342]]"
-  - "[[_Standards/WikiData/WD~Louis,2897866]]"
-  - "[[_Standards/WikiData/WD~David,18057751]]"
+  - '[[_Standards/WikiData/WD~Germain,1303342]]'
+  - '[[_Standards/WikiData/WD~Louis,2897866]]'
+  - '[[_Standards/WikiData/WD~David,18057751]]'
 child:
-  - "[[_Standards/WikiData/WD~Olivier_de_Funès,1366088]]"
-  - "[[_Standards/WikiData/WD~Q128903293,128903293]]"
-filmography: "[[_Standards/WikiData/WD~Louis_Funès_filmography,3072136]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-award_received: "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
-family: "[[_Standards/WikiData/WD~de_Funès,29511361]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+  - '[[_Standards/WikiData/WD~Olivier_de_Funès,1366088]]'
+  - '[[_Standards/WikiData/WD~Q128903293,128903293]]'
+filmography: '[[_Standards/WikiData/WD~Louis_Funès_filmography,3072136]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+award_received: '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+family: '[[_Standards/WikiData/WD~de_Funès,29511361]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 family_name:
-  - "[[_Standards/WikiData/WD~de_Funès,55146316]]"
-  - "[[_Standards/WikiData/WD~de_Galarza,120401777]]"
+  - '[[_Standards/WikiData/WD~de_Funès,55146316]]'
+  - '[[_Standards/WikiData/WD~de_Galarza,120401777]]'
 relative:
-  - "[[_Standards/WikiData/WD~Julia_de_Funès,62829112]]"
-  - "[[_Standards/WikiData/WD~Teolindo_Soto_Barro,106531655]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - '[[_Standards/WikiData/WD~Julia_de_Funès,62829112]]'
+  - '[[_Standards/WikiData/WD~Teolindo_Soto_Barro,106531655]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Jeanne_de_Funès,106555636]]"
-  - "[[_Standards/WikiData/WD~Germaine_Louise_Élodie_Carroyer,128901115]]"
-instrument: "[[_Standards/WikiData/WD~piano,5994]]"
-cause_of_death: "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
-place_of_death: "[[_Standards/WikiData/WD~Nantes,12191]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
-native_language: "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~Jeanne_de_Funès,106555636]]'
+  - '[[_Standards/WikiData/WD~Germaine_Louise_Élodie_Carroyer,128901115]]'
+instrument: '[[_Standards/WikiData/WD~piano,5994]]'
+cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
+place_of_death: '[[_Standards/WikiData/WD~Nantes,12191]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
+native_language: '[[_Standards/WikiData/WD~French,150]]'
 Commons_category: Louis de Funès
 work_period_end_: 1982-01-01T00:00:00Z
 date_of_death: 1983-01-27T00:00:00Z
@@ -58,7 +60,7 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Graf%20De%20F
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20de%20Fun%C3%A8s%201970.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20de%20Fun%C3%A8s%20signature.png
 official_website: http://www.louisdefunes.com/
-ISNI: "0000000121340520"
+ISNI: 0000000121340520
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/FYUNES_LUI_DE.html
 birth_name:
   - Louis Germain David de Funès de Galarza y Soto

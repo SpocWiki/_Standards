@@ -2,6 +2,7 @@
 aliases:
   - Bleistift
   - lead pencil
+  - Pencil
 has_id_wikidata: Q14674
 has_use:
   - "[[_Standards/WikiData/WD~drawing,93184]]"
@@ -19,9 +20,9 @@ instance_of: "[[_Standards/WikiData/WD~product_category,63981612]]"
 made_from_material:
   - "[[_Standards/WikiData/WD~wood,287]]"
   - "[[_Standards/WikiData/WD~graphite,5309]]"
-Nomenclature_for_Museum_Cataloging: "11584"
-OmegaWiki_Defined_Meaning: "5835"
-GS1_GPC_code: "10001234"
+Nomenclature_for_Museum_Cataloging: 11584
+OmegaWiki_Defined_Meaning: 5835
+GS1_GPC_code: 10001234
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2014-01-16-Hittegods%20%2812009261426%29.jpg
 Unicode_character:
   - ✏️
@@ -30,13 +31,13 @@ Unicode_character:
   - 🖉
 time_of_earliest_written_record: 1688-01-01T00:00:00Z
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Pencil%20Diagram.svg
-UNSPSC_Code: "44121714"
+UNSPSC_Code: 44121714
 Iconclass_notation: 49L52
 MCN_code: 9609.10.00
 Commons_category: Pencils
 ---
 
-# [[Pencil]] 
+# [[Pencil]] ✏️ 
 
 #is_/same_as :: [[WD~Pencil,14674]] 
 

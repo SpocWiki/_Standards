@@ -4,23 +4,25 @@ aliases:
   - bank_account_type
   - bankAccountType
   - has_text_of_bank_account_type
+  - has_bank_account_type
+  - has bank account type
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - bank
   - account
   - type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_bank_account_type
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

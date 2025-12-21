@@ -1,19 +1,20 @@
 ---
 aliases:
   - Gebäck
+  - Pastry
 has_id_wikidata: Q477248
 described_by_source:
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~baked_good,2251745]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~baked_good,2251745]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~baked_good,2251745]]"
-  - "[[_Standards/WikiData/WD~bánh,5004791]]"
-  - "[[_Standards/WikiData/WD~pastries_and_scones,115618359]]"
-  - "[[_Standards/WikiData/WD~food,2095]]"
+  - '[[_Standards/WikiData/WD~baked_good,2251745]]'
+  - '[[_Standards/WikiData/WD~bánh,5004791]]'
+  - '[[_Standards/WikiData/WD~pastries_and_scones,115618359]]'
+  - '[[_Standards/WikiData/WD~food,2095]]'
 different_from:
-  - "[[_Standards/WikiData/WD~confection,5159627]]"
-  - "[[_Standards/WikiData/WD~pastry_dough,116188654]]"
+  - '[[_Standards/WikiData/WD~confection,5159627]]'
+  - '[[_Standards/WikiData/WD~pastry_dough,116188654]]'
 booru_tag: pastry
 Danbooru_tag: pastry
 hashtag: pastry
@@ -21,7 +22,7 @@ Archive_of_Our_Own_tag: Pastries
 Commons_category: Pastries
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Baked%20goods.jpg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/3DPastry001%20HQ.stl
-Amazon_com_browse_node: "18770272011"
+Amazon_com_browse_node: 18770272011
 ---
 
 # [[Pastry]] 

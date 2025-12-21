@@ -4,21 +4,23 @@ aliases:
   - body_measurement_underbust
   - BodyMeasurementUnderbust
   - is_a_body_measurement_underbust
+  - Body_Measurement_Underbust
+  - Body Measurement Underbust
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: BodyMeasurementTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - body_measurement_underbust
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_body_measurement_underbust Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

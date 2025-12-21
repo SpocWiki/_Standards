@@ -1,8 +1,10 @@
 ---
 aliases:
-- "Virtual method table"
-- VMT
-- Virtual-Method-Table
+  - Virtual method table
+  - VMT
+  - Virtual-Method-Table
+  - VMT(Virtual_Method_Table)
+  - VMT(Virtual Method Table)
 ---
 
 ## #has_/text_of_/abstract 

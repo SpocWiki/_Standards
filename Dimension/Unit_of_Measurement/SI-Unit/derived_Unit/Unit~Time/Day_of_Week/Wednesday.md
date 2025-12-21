@@ -9,16 +9,16 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: DayOfWeek
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wednesday
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wednesday Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -4,21 +4,22 @@ aliases:
   - true
   - value
   - is_true
+  - is true
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - true
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_true
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

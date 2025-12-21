@@ -1,95 +1,97 @@
 ---
+aliases:
+  - Euro
+has_id_wikidata: Q4916
 applies_to_jurisdiction: '[[_Standards/WikiData/WD~eurozone,8268]]'
 award_received: '[[_Standards/WikiData/WD~Charlemagne_Prize,152337]]'
 central_bank_issuer: '[[_Standards/WikiData/WD~European_Central_Bank,8901]]'
 Commons_category: Euro
 Commons_gallery: Euro
 country:
-- '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- '[[_Standards/WikiData/WD~Ireland,27]]'
-- '[[_Standards/WikiData/WD~Belgium,31]]'
-- '[[_Standards/WikiData/WD~Spain,29]]'
-- '[[_Standards/WikiData/WD~Luxembourg,32]]'
-- '[[_Standards/WikiData/WD~Finland,33]]'
-- '[[_Standards/WikiData/WD~Italy,38]]'
-- '[[_Standards/WikiData/WD~Lithuania,37]]'
-- '[[_Standards/WikiData/WD~Austria,40]]'
-- '[[_Standards/WikiData/WD~Greece,41]]'
-- '[[_Standards/WikiData/WD~Portugal,45]]'
-- '[[_Standards/WikiData/WD~Netherlands,55]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Estonia,191]]'
-- '[[_Standards/WikiData/WD~Latvia,211]]'
-- '[[_Standards/WikiData/WD~Slovakia,214]]'
-- '[[_Standards/WikiData/WD~Slovenia,215]]'
-- '[[_Standards/WikiData/WD~Croatia,224]]'
-- '[[_Standards/WikiData/WD~Andorra,228]]'
-- '[[_Standards/WikiData/WD~Cyprus,229]]'
-- '[[_Standards/WikiData/WD~Monaco,235]]'
-- '[[_Standards/WikiData/WD~Malta,233]]'
-- '[[_Standards/WikiData/WD~San_Marino,238]]'
-- '[[_Standards/WikiData/WD~Montenegro,236]]'
-- '[[_Standards/WikiData/WD~Vatican_City,237]]'
+  - '[[_Standards/WikiData/WD~Kosovo,1246]]'
+  - '[[_Standards/WikiData/WD~Ireland,27]]'
+  - '[[_Standards/WikiData/WD~Belgium,31]]'
+  - '[[_Standards/WikiData/WD~Spain,29]]'
+  - '[[_Standards/WikiData/WD~Luxembourg,32]]'
+  - '[[_Standards/WikiData/WD~Finland,33]]'
+  - '[[_Standards/WikiData/WD~Italy,38]]'
+  - '[[_Standards/WikiData/WD~Lithuania,37]]'
+  - '[[_Standards/WikiData/WD~Austria,40]]'
+  - '[[_Standards/WikiData/WD~Greece,41]]'
+  - '[[_Standards/WikiData/WD~Portugal,45]]'
+  - '[[_Standards/WikiData/WD~Netherlands,55]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+  - '[[_Standards/WikiData/WD~Germany,183]]'
+  - '[[_Standards/WikiData/WD~Estonia,191]]'
+  - '[[_Standards/WikiData/WD~Latvia,211]]'
+  - '[[_Standards/WikiData/WD~Slovakia,214]]'
+  - '[[_Standards/WikiData/WD~Slovenia,215]]'
+  - '[[_Standards/WikiData/WD~Croatia,224]]'
+  - '[[_Standards/WikiData/WD~Andorra,228]]'
+  - '[[_Standards/WikiData/WD~Cyprus,229]]'
+  - '[[_Standards/WikiData/WD~Monaco,235]]'
+  - '[[_Standards/WikiData/WD~Malta,233]]'
+  - '[[_Standards/WikiData/WD~San_Marino,238]]'
+  - '[[_Standards/WikiData/WD~Montenegro,236]]'
+  - '[[_Standards/WikiData/WD~Vatican_City,237]]'
 currency_symbol_description: '[[_Standards/WikiData/WD~euro_sign,18100]]'
 depicted_by: '[[_Standards/WikiData/WD~euro_sign,18100]]'
 described_by_source: '[[_Standards/WikiData/WD~Canon_of_Flanders,111845748]]'
 different_from: '[[_Standards/WikiData/WD~Euro,231952]]'
-exact_match: "http://dati.beniculturali.it/cis/Euro"
-has_id_wikidata: Q4916
+exact_match: http://dati.beniculturali.it/cis/Euro
 history_of_topic: '[[_Standards/WikiData/WD~history_of_the_euro,2293337]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Euro%20coins%20and%20banknotes.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Euro%20coins%20and%20banknotes.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~decimal_currency,25401445]]'
-- '[[_Standards/WikiData/WD~currency,8142]]'
+  - '[[_Standards/WikiData/WD~decimal_currency,25401445]]'
+  - '[[_Standards/WikiData/WD~currency,8142]]'
 ISO_4217_code: EUR
 Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/EVRO.html
-logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Euro%20symbol.svg"
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Euro%20symbol.svg
 named_after: '[[_Standards/WikiData/WD~Europe,46]]'
 Nomenclature_for_Museum_Cataloging: 13850
 OmegaWiki_Defined_Meaning: 337443
-OpenStreetMap_tag_or_key: "Key:currency:EUR"
+OpenStreetMap_tag_or_key: Key:currency:EUR
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681519,25681519]]'
 PermID: 500111
 point_in_time: 2002-01-01
 price:
-- 24.5
-- 1.95583
-- 655.957
-- 7.46038
-- 491.96775
+  - 24.5
+  - 1.95583
+  - 655.957
+  - 7.46038
+  - 491.96775
 short_name:
-- euro
-- Euro
-- евро
-- euro
-- ευρώ
-- euro
-- euro
-- euro
-- euro
-- euró
-- euro
-- euras
-- eiro
-- ewro
-- euro
-- euro
-- euro
-- euro
-Stack_Exchange_tag: "https://stackoverflow.com/tags/euro"
+  - euro
+  - Euro
+  - евро
+  - euro
+  - ευρώ
+  - euro
+  - euro
+  - euro
+  - euro
+  - euró
+  - euro
+  - euras
+  - eiro
+  - ewro
+  - euro
+  - euro
+  - euro
+  - euro
+Stack_Exchange_tag: https://stackoverflow.com/tags/euro
 start_time: 2002-01-01
 subdivision_of_this_unit: '[[_Standards/WikiData/WD~eurocent,2377701]]'
 TeX_string:
-- \EUR
-- \euro
-- \texteuro
+  - \EUR
+  - \euro
+  - \texteuro
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Euro,10347768]]'
-- '[[_Standards/WikiData/WD~Q62683097,62683097]]'
+  - '[[_Standards/WikiData/WD~Template_Euro,10347768]]'
+  - '[[_Standards/WikiData/WD~Q62683097,62683097]]'
 Unicode_character: €
 unit_symbol: €
-Wolfram_Language_unit_code: "\"Euros\""
+Wolfram_Language_unit_code: '"Euros"'
 ---
 
 # [[Euro]] 

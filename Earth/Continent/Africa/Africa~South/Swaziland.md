@@ -1,17 +1,17 @@
 ---
+aliases:
+  - Eswatini
+  - Swaziland
+has_id_wikidata: Q1050
 location:
   - -26.3167
   - 31.1333
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q1050
 SpocWebEntityId: 27027
 isDeleted: false
 confidential: public
-aliases:
-  - Eswatini
-  - Swaziland
 capital:
   - "[[_Standards/WikiData/WD~Lobamba,101418]]"
   - "[[_Standards/WikiData/WD~Mbabane,3904]]"

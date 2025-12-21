@@ -4,27 +4,29 @@ aliases:
   - مجلس التعاون لدول الخليج العربيّة
   - Gulf Cooperation Council
   - مجلس التعاون الخليجي
+  - GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf)
+  - GCC(Cooperation Council for the Arab States of the Gulf)
 has_id_wikidata: Q217172
 instance_of:
-  - "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
-  - "[[_Standards/WikiData/WD~trade_bloc,1129645]]"
-  - "[[_Standards/WikiData/WD~international_cooperation,9378718]]"
+  - '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
+  - '[[_Standards/WikiData/WD~trade_bloc,1129645]]'
+  - '[[_Standards/WikiData/WD~international_cooperation,9378718]]'
 member_of:
-  - "[[_Standards/WikiData/WD~ITU_Radiocommunication_Sector,376047]]"
-  - "[[_Standards/WikiData/WD~ITU_Telecommunication_Standardization_Sector,4007363]]"
-  - "[[_Standards/WikiData/WD~ITU_Telecommunication_Development_Sector,15846374]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_GCC,8084589]]"
-child_organization_unit: "[[_Standards/WikiData/WD~GCC_STAT,55683445]]"
+  - '[[_Standards/WikiData/WD~ITU_Radiocommunication_Sector,376047]]'
+  - '[[_Standards/WikiData/WD~ITU_Telecommunication_Standardization_Sector,4007363]]'
+  - '[[_Standards/WikiData/WD~ITU_Telecommunication_Development_Sector,15846374]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_GCC,8084589]]'
+child_organization_unit: '[[_Standards/WikiData/WD~GCC_STAT,55683445]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Bahrain,398]]"
-  - "[[_Standards/WikiData/WD~Kuwait,817]]"
-  - "[[_Standards/WikiData/WD~Oman,842]]"
-  - "[[_Standards/WikiData/WD~Qatar,846]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-  - "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Riyadh,3692]]"
-official_language: "[[_Standards/WikiData/WD~Arabic,13955]]"
-official_observer_status_in_organisation: "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
+  - '[[_Standards/WikiData/WD~Bahrain,398]]'
+  - '[[_Standards/WikiData/WD~Kuwait,817]]'
+  - '[[_Standards/WikiData/WD~Oman,842]]'
+  - '[[_Standards/WikiData/WD~Qatar,846]]'
+  - '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
+  - '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Riyadh,3692]]'
+official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
+official_observer_status_in_organisation: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
 social_media_followers: 113954
 Commons_category: Cooperation Council for the Arab States of the Gulf
 short_name:
@@ -59,7 +61,7 @@ official_website:
   - https://gcc-sg.ae
   - https://gcc-sg.org/ar-sa/Pages/default.aspx
   - https://www.gcc-sg.org/en/Pages/default.aspx
-ISNI: "0000000121621795"
+ISNI: 0000000121621795
 Instagram_username: gccprotocol
 EU_Corporate_body_code: GULF_COOP_COUN
 name: Gulfstaternas samarbetsråd

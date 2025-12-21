@@ -4,23 +4,25 @@ aliases:
   - available_on_device
   - availableOnDevice
   - has_text_of_available_on_device
+  - is_available_on_device
+  - is available on device
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - available
   - on
   - device
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_available_on_device
 publish: true
-publishDate:
+publishDate: ''
 supersedes: device
 tags:
   - class/Property

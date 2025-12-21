@@ -1,29 +1,30 @@
 ---
 aliases:
-- duration
-- duration
-- duration
-- has_duration
-- "schema:duration"
-- "dbo:runtime"
-- "wdt:P2047"
+  - duration
+  - duration
+  - duration
+  - has_duration
+  - schema:duration
+  - dbo:runtime
+  - wdt:P2047
+  - has duration
 confidential: public
 cssclasses:
-- Predicate
-- Duration
+  - Predicate
+  - Duration
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+keywords: ''
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: ''
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Durations
+  - class/Property
+  - schema-org/Property/Durations
 title: has_duration
 type: Predi_Duration
 ---

@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Der Clou"
+  - Der Clou
+  - Sting(1973)
 ---
 
 ## #has_/text_of_/abstract 

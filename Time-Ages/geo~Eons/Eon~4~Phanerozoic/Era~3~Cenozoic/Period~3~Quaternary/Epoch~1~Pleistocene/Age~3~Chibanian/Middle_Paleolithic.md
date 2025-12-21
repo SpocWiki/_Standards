@@ -3,8 +3,9 @@ aliases:
   - Mittelpaläolithikum
   - Middle Palaeolithic
   - Middle Paleolithic
+  - Middle_Paleolithic
 has_id_wikidata: Q626270
-instance_of: "[[_Standards/WikiData/WD~archaeological_period,15401633]]"
+instance_of: '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
 start_time: -300000-01-01T00:00:00Z
 end_time: -30000-01-01T00:00:00Z
 Commons_category: Middle Paleolithic

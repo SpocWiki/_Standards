@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Canal
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater
 fields: []
 icon: waves
 limit: 9
 mapWithTag: false
 tagNames:
-- class/Canal
-- class/Thing/Place/Landform/BodyOfWater/Canal
-- is_a_/Canal
-- schema-org/Canal
+  - class/Canal
+  - class/Thing/Place/Landform/BodyOfWater/Canal
+  - is_a_/Canal
+  - schema-org/Canal
 tags:
-- class/FileClass
-- class/Canal
-- is_a_/Canal
-- class/Thing/Place/Landform/BodyOfWater/Canal
+  - class/FileClass
+  - class/Canal
+  - is_a_/Canal
+  - class/Thing/Place/Landform/BodyOfWater/Canal
 version: 2.0
 ---
 

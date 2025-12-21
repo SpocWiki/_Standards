@@ -1,18 +1,20 @@
 ---
-Commons_category: "Periodic table group 4"
-Dewey_Decimal_Classification: 546.51
+aliases:
+  - Group-04-Titanium
 has_id_wikidata: Q189302
+Commons_category: Periodic table group 4
+Dewey_Decimal_Classification: 546.51
 has_part_s_:
-- '[[_Standards/WikiData/WD~titanium,716]]'
-- '[[_Standards/WikiData/WD~zirconium,1038]]'
-- '[[_Standards/WikiData/WD~hafnium,1119]]'
-- '[[_Standards/WikiData/WD~rutherfordium,1226]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - '[[_Standards/WikiData/WD~titanium,716]]'
+  - '[[_Standards/WikiData/WD~zirconium,1038]]'
+  - '[[_Standards/WikiData/WD~hafnium,1119]]'
+  - '[[_Standards/WikiData/WD~rutherfordium,1226]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 instance_of: '[[_Standards/WikiData/WD~group,83306]]'
 P8189: 987007538813205171
 part_of:
-- '[[_Standards/WikiData/WD~d_block,214503]]'
-- '[[_Standards/WikiData/WD~periodic_table,10693]]'
+  - '[[_Standards/WikiData/WD~d_block,214503]]'
+  - '[[_Standards/WikiData/WD~periodic_table,10693]]'
 type: ElementGroup
 ---
 

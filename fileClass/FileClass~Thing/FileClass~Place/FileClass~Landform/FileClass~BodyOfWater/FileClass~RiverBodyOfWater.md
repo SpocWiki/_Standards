@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~RiverBodyOfWater
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater
 fields: []
 icon: waves
 limit: 9
 mapWithTag: false
 tagNames:
-- class/RiverBodyOfWater
-- class/Thing/Place/Landform/BodyOfWater/RiverBodyOfWater
-- is_a_/RiverBodyOfWater
-- schema-org/RiverBodyOfWater
+  - class/RiverBodyOfWater
+  - class/Thing/Place/Landform/BodyOfWater/RiverBodyOfWater
+  - is_a_/RiverBodyOfWater
+  - schema-org/RiverBodyOfWater
 tags:
-- class/FileClass
-- class/RiverBodyOfWater
-- is_a_/RiverBodyOfWater
-- class/Thing/Place/Landform/BodyOfWater/RiverBodyOfWater
+  - class/FileClass
+  - class/RiverBodyOfWater
+  - is_a_/RiverBodyOfWater
+  - class/Thing/Place/Landform/BodyOfWater/RiverBodyOfWater
 version: 2.0
 ---
 

@@ -1,16 +1,17 @@
 ---
 aliases:
   - Khoisan language
+  - Lang-khi
 has_id_wikidata: Q33614
-topic_has_template: "[[_Standards/WikiData/WD~Q10596037,10596037]]"
+topic_has_template: '[[_Standards/WikiData/WD~Q10596037,10596037]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-subclass_of: "[[_Standards/WikiData/WD~human_language,20162172]]"
-instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+subclass_of: '[[_Standards/WikiData/WD~human_language,20162172]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
 number_of_speakers_writers_or_signers: 370000
-OmegaWiki_Defined_Meaning: "590029"
-Dewey_Decimal_Classification: "486.1"
+OmegaWiki_Defined_Meaning: 590029
+Dewey_Decimal_Classification: 486.1
 IETF_language_tag: khi
 ISO_639_2_code: khi
 ISO_639_5_code: khi

@@ -1,9 +1,11 @@
 ---
 aliases:
   - ethnic conflict
+  - Ethnic_Conflict
+  - Ethnic Conflict
 has_id_wikidata: Q766875
-subclass_of: "[[_Standards/WikiData/WD~social_conflict,2672648]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_conflict,125092269]]"
+subclass_of: '[[_Standards/WikiData/WD~social_conflict,2672648]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_conflict,125092269]]'
 ---
 
 #is_/same_as :: [[../../../../WikiData/WD~Ethnic_conflict,766875|WD~Ethnic_conflict,766875]] 

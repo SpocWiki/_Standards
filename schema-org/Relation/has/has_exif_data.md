@@ -3,23 +3,24 @@ aliases:
   - has exif-data
   - exifData
   - has_exif_data
+  - has exif data
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - exif
   - data
   - exif_data
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_exif_data
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

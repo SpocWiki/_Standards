@@ -1,6 +1,8 @@
 ---
 aliases:
   - classical simple machine
+  - Classical_simple_Machine
+  - Classical simple Machine
 ---
 
 # [[Classical_simple_Machine]] 

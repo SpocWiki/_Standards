@@ -1,14 +1,16 @@
 ---
 aliases:
-- "{ LatinName }": 
+  - '{ LatinName }': ''
+  - Zodiac_Template
+  - Zodiac Template
 confidential: public
 isDeleted: false
 isReadOnly: false
 publish: true
 SpocWebEntityId:
-  "{ SpocWebEntityId }": 
+  '{ SpocWebEntityId }': ''
 tags:
-- astro/Zodiac
+  - astro/Zodiac
 type: Zodiac
 ---
 

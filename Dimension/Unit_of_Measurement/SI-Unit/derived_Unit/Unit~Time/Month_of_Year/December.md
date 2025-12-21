@@ -4,72 +4,72 @@ aliases:
   - Dezember
 has_id_wikidata: Q126
 named_after:
-  - "[[_Standards/WikiData/WD~neutral_country,185963]]"
-  - "[[_Standards/WikiData/WD~Yule,211945]]"
-  - "[[_Standards/WikiData/WD~winter,1311]]"
-  - "[[_Standards/WikiData/WD~snow,7561]]"
-  - "[[_Standards/WikiData/WD~Sus,10798]]"
-  - "[[_Standards/WikiData/WD~Christmas,19809]]"
-  - "[[_Standards/WikiData/WD~10,23806]]"
+  - '[[_Standards/WikiData/WD~neutral_country,185963]]'
+  - '[[_Standards/WikiData/WD~Yule,211945]]'
+  - '[[_Standards/WikiData/WD~winter,1311]]'
+  - '[[_Standards/WikiData/WD~snow,7561]]'
+  - '[[_Standards/WikiData/WD~Sus,10798]]'
+  - '[[_Standards/WikiData/WD~Christmas,19809]]'
+  - '[[_Standards/WikiData/WD~10,23806]]'
 followed_by:
-  - "[[_Standards/WikiData/WD~Undecimber,547853]]"
-  - "[[_Standards/WikiData/WD~January,108]]"
+  - '[[_Standards/WikiData/WD~Undecimber,547853]]'
+  - '[[_Standards/WikiData/WD~January,108]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-different_from: "[[_Standards/WikiData/WD~December,1181762]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_December_calendar,10614701]]"
-subclass_of: "[[_Standards/WikiData/WD~month_of_the_Gregorian_calendar,18602249]]"
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~December,1181762]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_December_calendar,10614701]]'
+subclass_of: '[[_Standards/WikiData/WD~month_of_the_Gregorian_calendar,18602249]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q28790364,28790364]]"
-  - "[[_Standards/WikiData/WD~Q56299392,56299392]]"
-  - "[[_Standards/WikiData/WD~Q117477769,117477769]]"
-instance_of: "[[_Standards/WikiData/WD~calendar_month,47018901]]"
-depicted_by: "[[_Standards/WikiData/WD~December,131628828]]"
+  - '[[_Standards/WikiData/WD~Q28790364,28790364]]'
+  - '[[_Standards/WikiData/WD~Q56299392,56299392]]'
+  - '[[_Standards/WikiData/WD~Q117477769,117477769]]'
+instance_of: '[[_Standards/WikiData/WD~calendar_month,47018901]]'
+depicted_by: '[[_Standards/WikiData/WD~December,131628828]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~December_3,2298]]"
-  - "[[_Standards/WikiData/WD~December_7,2299]]"
-  - "[[_Standards/WikiData/WD~December_2,2296]]"
-  - "[[_Standards/WikiData/WD~December_1,2297]]"
-  - "[[_Standards/WikiData/WD~December_10,2302]]"
-  - "[[_Standards/WikiData/WD~December_6,2303]]"
-  - "[[_Standards/WikiData/WD~December_5,2300]]"
-  - "[[_Standards/WikiData/WD~December_8,2301]]"
-  - "[[_Standards/WikiData/WD~December_9,2304]]"
-  - "[[_Standards/WikiData/WD~December_4,2310]]"
-  - "[[_Standards/WikiData/WD~December_11,2363]]"
-  - "[[_Standards/WikiData/WD~December_12,2369]]"
-  - "[[_Standards/WikiData/WD~December_13,2379]]"
-  - "[[_Standards/WikiData/WD~December_14,2382]]"
-  - "[[_Standards/WikiData/WD~December_15,2383]]"
-  - "[[_Standards/WikiData/WD~December_16,2410]]"
-  - "[[_Standards/WikiData/WD~December_17,2413]]"
-  - "[[_Standards/WikiData/WD~December_18,2438]]"
-  - "[[_Standards/WikiData/WD~December_19,2451]]"
-  - "[[_Standards/WikiData/WD~December_20,2455]]"
-  - "[[_Standards/WikiData/WD~December_21,2603]]"
-  - "[[_Standards/WikiData/WD~December_22,2636]]"
-  - "[[_Standards/WikiData/WD~December_23,2676]]"
-  - "[[_Standards/WikiData/WD~December_24,2705]]"
-  - "[[_Standards/WikiData/WD~December_25,2745]]"
-  - "[[_Standards/WikiData/WD~December_26,2761]]"
-  - "[[_Standards/WikiData/WD~December_27,2800]]"
-  - "[[_Standards/WikiData/WD~December_28,2832]]"
-  - "[[_Standards/WikiData/WD~December_29,2862]]"
-  - "[[_Standards/WikiData/WD~December_30,2901]]"
-  - "[[_Standards/WikiData/WD~December_31,2912]]"
+  - '[[_Standards/WikiData/WD~December_3,2298]]'
+  - '[[_Standards/WikiData/WD~December_7,2299]]'
+  - '[[_Standards/WikiData/WD~December_2,2296]]'
+  - '[[_Standards/WikiData/WD~December_1,2297]]'
+  - '[[_Standards/WikiData/WD~December_10,2302]]'
+  - '[[_Standards/WikiData/WD~December_6,2303]]'
+  - '[[_Standards/WikiData/WD~December_5,2300]]'
+  - '[[_Standards/WikiData/WD~December_8,2301]]'
+  - '[[_Standards/WikiData/WD~December_9,2304]]'
+  - '[[_Standards/WikiData/WD~December_4,2310]]'
+  - '[[_Standards/WikiData/WD~December_11,2363]]'
+  - '[[_Standards/WikiData/WD~December_12,2369]]'
+  - '[[_Standards/WikiData/WD~December_13,2379]]'
+  - '[[_Standards/WikiData/WD~December_14,2382]]'
+  - '[[_Standards/WikiData/WD~December_15,2383]]'
+  - '[[_Standards/WikiData/WD~December_16,2410]]'
+  - '[[_Standards/WikiData/WD~December_17,2413]]'
+  - '[[_Standards/WikiData/WD~December_18,2438]]'
+  - '[[_Standards/WikiData/WD~December_19,2451]]'
+  - '[[_Standards/WikiData/WD~December_20,2455]]'
+  - '[[_Standards/WikiData/WD~December_21,2603]]'
+  - '[[_Standards/WikiData/WD~December_22,2636]]'
+  - '[[_Standards/WikiData/WD~December_23,2676]]'
+  - '[[_Standards/WikiData/WD~December_24,2705]]'
+  - '[[_Standards/WikiData/WD~December_25,2745]]'
+  - '[[_Standards/WikiData/WD~December_26,2761]]'
+  - '[[_Standards/WikiData/WD~December_27,2800]]'
+  - '[[_Standards/WikiData/WD~December_28,2832]]'
+  - '[[_Standards/WikiData/WD~December_29,2862]]'
+  - '[[_Standards/WikiData/WD~December_30,2901]]'
+  - '[[_Standards/WikiData/WD~December_31,2912]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Julian_calendar,11184]]"
-  - "[[_Standards/WikiData/WD~Gregorian_calendar,12138]]"
-follows: "[[_Standards/WikiData/WD~November,125]]"
+  - '[[_Standards/WikiData/WD~Julian_calendar,11184]]'
+  - '[[_Standards/WikiData/WD~Gregorian_calendar,12138]]'
+follows: '[[_Standards/WikiData/WD~November,125]]'
 time_index: 11.5
-OmegaWiki_Defined_Meaning: "6981"
+OmegaWiki_Defined_Meaning: 6981
 name:
   - prosince
   - grudnia

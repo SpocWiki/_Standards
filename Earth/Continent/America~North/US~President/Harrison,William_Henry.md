@@ -1,26 +1,27 @@
 ---
 aliases:
-- Harrison,William_Henry
-- "William Henry Harrison"
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Harrison,William_Henry
+  - William Henry Harrison
+  - ''
+  - Harrison,William Henry
 has_id_wikidata: Q11869
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Harrison,William_Henry
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Harrison,William_Henry
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Harrison,William_Henry
-- 
+  - Harrison,William_Henry
+  - ''
 title: Harrison,William_Henry
 type: private_note
 ---

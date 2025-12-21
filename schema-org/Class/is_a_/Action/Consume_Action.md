@@ -4,20 +4,22 @@ aliases:
   - consume_action
   - ConsumeAction
   - is_a_consume_action
+  - Consume_Action
+  - Consume Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - consume_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_consume_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

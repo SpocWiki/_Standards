@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Palau
+  - Palaos
+  - بالاو
+  - 帕劳
+  - Палау
+  - the Republic of Palau
+  - la República de Palau
+has_id_wikidata: Q695
 instance_of:
   - "[[_Standards/WikiData/WD~island_country,112099]]"
   - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
@@ -233,7 +242,6 @@ CIVICUS_Monitor_country_entry: palau
 Unicode_character: 🇵🇼
 Krugosvet_article: strany_mira/PALAU.html
 MeSH_tree_code: Z01.639.760.680.717
-has_id_wikidata: Q695
 location:
   - 7.35
   - 134.467
@@ -250,20 +258,12 @@ cssclasses:
   - Country
 publish: true
 title: Palau
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Palau
-  - Palaos
-  - بالاو
-  - 帕劳
-  - Палау
-  - the Republic of Palau
-  - la República de Palau
+publishDate: ""
+expiryDate: ""
 Languages:
   - pau
   - sov

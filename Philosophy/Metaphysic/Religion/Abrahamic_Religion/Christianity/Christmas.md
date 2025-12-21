@@ -1,11 +1,12 @@
 ---
 aliases:
   - Weihnacht
+  - Christmas
 has_id_wikidata: Q19809
-U_S_National_Archives_Identifier: "10640215"
-Dewey_Decimal_Classification: "394.2663"
-RIA_Novosti_reference: "58576160"
-P8189: "987007286329105171"
+U_S_National_Archives_Identifier: 10640215
+Dewey_Decimal_Classification: 394.2663
+RIA_Novosti_reference: 58576160
+P8189: 987007286329105171
 Krugosvet_article: kultura_i_obrazovanie/religiya/ROZHDESTVO.html
 IPTC_NewsCode: mediatopic/20000691
 Libris_URI: wt798zlf03kxpdk
@@ -15,61 +16,61 @@ hashtag_:
   - Weihnachten
 Baidu_Tieba_name: 圣诞节
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Christmas_Eve,106010]]"
-  - "[[_Standards/WikiData/WD~Boxing_Day,956699]]"
+  - '[[_Standards/WikiData/WD~Christmas_Eve,106010]]'
+  - '[[_Standards/WikiData/WD~Boxing_Day,956699]]'
   - "[[_Standards/WikiData/WD~Saint_Stephen's_Day,1366863]]"
-  - "[[_Standards/WikiData/WD~Christmas_Day,2703710]]"
-  - "[[_Standards/WikiData/WD~Second_Day_of_Christmas,15113728]]"
+  - '[[_Standards/WikiData/WD~Christmas_Day,2703710]]'
+  - '[[_Standards/WikiData/WD~Second_Day_of_Christmas,15113728]]'
 foods_traditionally_associated:
-  - "[[_Standards/WikiData/WD~turrón,159304]]"
-  - "[[_Standards/WikiData/WD~gingerbread,178600]]"
-  - "[[_Standards/WikiData/WD~Plätzchen,505115]]"
-  - "[[_Standards/WikiData/WD~Christmas_pudding,852576]]"
-  - "[[_Standards/WikiData/WD~pork_belly,1365868]]"
-  - "[[_Standards/WikiData/WD~pinnekjøtt,1703574]]"
-  - "[[_Standards/WikiData/WD~smalahove,2097276]]"
-  - "[[_Standards/WikiData/WD~medisterpølse,2669352]]"
-  - "[[_Standards/WikiData/WD~gulugulu,2671459]]"
-  - "[[_Standards/WikiData/WD~Christmas_ham,3353942]]"
-  - "[[_Standards/WikiData/WD~turkey_meat,4200953]]"
-  - "[[_Standards/WikiData/WD~meatball,4831844]]"
+  - '[[_Standards/WikiData/WD~turrón,159304]]'
+  - '[[_Standards/WikiData/WD~gingerbread,178600]]'
+  - '[[_Standards/WikiData/WD~Plätzchen,505115]]'
+  - '[[_Standards/WikiData/WD~Christmas_pudding,852576]]'
+  - '[[_Standards/WikiData/WD~pork_belly,1365868]]'
+  - '[[_Standards/WikiData/WD~pinnekjøtt,1703574]]'
+  - '[[_Standards/WikiData/WD~smalahove,2097276]]'
+  - '[[_Standards/WikiData/WD~medisterpølse,2669352]]'
+  - '[[_Standards/WikiData/WD~gulugulu,2671459]]'
+  - '[[_Standards/WikiData/WD~Christmas_ham,3353942]]'
+  - '[[_Standards/WikiData/WD~turkey_meat,4200953]]'
+  - '[[_Standards/WikiData/WD~meatball,4831844]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Christmastide,867780]]"
-  - "[[_Standards/WikiData/WD~Great_Feasts_of_the_Orthodox_Church,1402000]]"
+  - '[[_Standards/WikiData/WD~Christmastide,867780]]'
+  - '[[_Standards/WikiData/WD~Great_Feasts_of_the_Orthodox_Church,1402000]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~public_holiday,1197685]]"
-  - "[[_Standards/WikiData/WD~federal_holiday_in_the_United_States,5440532]]"
-  - "[[_Standards/WikiData/WD~Christian_holy_day,60075825]]"
-subclass_of: "[[_Standards/WikiData/WD~celebration,3010205]]"
+  - '[[_Standards/WikiData/WD~public_holiday,1197685]]'
+  - '[[_Standards/WikiData/WD~federal_holiday_in_the_United_States,5440532]]'
+  - '[[_Standards/WikiData/WD~Christian_holy_day,60075825]]'
+subclass_of: '[[_Standards/WikiData/WD~celebration,3010205]]'
 day_in_year_for_periodic_occurrence:
-  - "[[_Standards/WikiData/WD~December_25,5249028]]"
-  - "[[_Standards/WikiData/WD~Koiak_29,115801083]]"
-  - "[[_Standards/WikiData/WD~January_6,2221]]"
-  - "[[_Standards/WikiData/WD~January_7,2228]]"
-  - "[[_Standards/WikiData/WD~January_19,2266]]"
-  - "[[_Standards/WikiData/WD~December_24,2705]]"
-  - "[[_Standards/WikiData/WD~December_25,2745]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Christmas,6558109]]"
-different_from: "[[_Standards/WikiData/WD~Q9178338,9178338]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Christmas,11041988]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki_Loves_Popular_Culture_Brazil_Traditions,_rituals_and_oral_expressions,116878906]]"
-color: "[[_Standards/WikiData/WD~white,23444]]"
-commemorates: "[[_Standards/WikiData/WD~Nativity_of_Jesus,51628]]"
+  - '[[_Standards/WikiData/WD~December_25,5249028]]'
+  - '[[_Standards/WikiData/WD~Koiak_29,115801083]]'
+  - '[[_Standards/WikiData/WD~January_6,2221]]'
+  - '[[_Standards/WikiData/WD~January_7,2228]]'
+  - '[[_Standards/WikiData/WD~January_19,2266]]'
+  - '[[_Standards/WikiData/WD~December_24,2705]]'
+  - '[[_Standards/WikiData/WD~December_25,2745]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Christmas,6558109]]'
+different_from: '[[_Standards/WikiData/WD~Q9178338,9178338]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Christmas,11041988]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki_Loves_Popular_Culture_Brazil_Traditions,_rituals_and_oral_expressions,116878906]]'
+color: '[[_Standards/WikiData/WD~white,23444]]'
+commemorates: '[[_Standards/WikiData/WD~Nativity_of_Jesus,51628]]'
 Commons_category: Christmas
 Commons_gallery: Christmas
 IMDb_keyword: christmas
-OmegaWiki_Defined_Meaning: "397467"
+OmegaWiki_Defined_Meaning: 397467
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Adoration%20of%20the%20Shepherds%2C%20Murillo%20%28Prado%20Museum%29.jpg
 spoken_text_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Es-navidad-article.ogg

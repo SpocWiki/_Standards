@@ -1,6 +1,7 @@
 ---
 aliases:
   - Möbel
+  - Furniture
 has_id_wikidata: Q14745
 ---
 

@@ -2,17 +2,21 @@
 aliases:
   - Wounded Knee Massacre
   - Battle of Wounded Knee
+  - 1890-Wounded_Knee_Massacre
+  - 1890-Wounded Knee Massacre
 has_id_wikidata: Q108413
 coordinate_location: Point(-102.365 43.1425)
-location: [ 43.1425, -102.365]
-participant: "[[_Standards/WikiData/WD~7th_Cavalry_Regiment,269574]]"
+location:
+  - 43.1425
+  - -102.365
+participant: '[[_Standards/WikiData/WD~7th_Cavalry_Regiment,269574]]'
 locations:
-  - "[[_Standards/WikiData/WD~Wounded_Knee_Creek,1839733]]"
-  - "[[_Standards/WikiData/WD~Wounded_Knee_National_Historic_Landmark,8037403]]"
-instance_of: "[[_Standards/WikiData/WD~massacre,3199915]]"
+  - '[[_Standards/WikiData/WD~Wounded_Knee_Creek,1839733]]'
+  - '[[_Standards/WikiData/WD~Wounded_Knee_National_Historic_Landmark,8037403]]'
+instance_of: '[[_Standards/WikiData/WD~massacre,3199915]]'
 point_in_time: 1890-12-29T00:00:00Z
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~South_Dakota,1211]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~South_Dakota,1211]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_deaths: 300
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Woundedkneesceneafterbattle.jpg
 Commons_category: Wounded Knee Massacre

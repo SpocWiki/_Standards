@@ -4,22 +4,24 @@ aliases:
   - alternative_headline
   - alternativeHeadline
   - has_text_of_alternative_headline
+  - has_alternative_headline
+  - has alternative headline
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - alternative
   - headline
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_alternative_headline
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - WD~Nuclear_technology,348091
+  - WD~Nuclear technology,348091
 has_id_wikidata: Q348091
 ---
 

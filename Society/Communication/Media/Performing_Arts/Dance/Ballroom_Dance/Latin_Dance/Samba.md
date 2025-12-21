@@ -1,13 +1,15 @@
 ---
+aliases:
+  - Samba
+has_id_wikidata: Q11403
 Commons_category: Samba
 Commons_gallery: Samba
 country_of_origin: '[[_Standards/WikiData/WD~Brazil,155]]'
 different_from:
-- '[[_Standards/WikiData/WD~samba,1340043]]'
-- '[[_Standards/WikiData/WD~samba,1375949]]'
-has_id_wikidata: Q11403
+  - '[[_Standards/WikiData/WD~samba,1340043]]'
+  - '[[_Standards/WikiData/WD~samba,1375949]]'
 has_time_started: 1914-01-01
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/HK%20TST%20night%20%E6%9F%8F%E9%BA%97%E8%B3%BC%E7%89%A9%E5%A4%A7%E9%81%93%20Park%20Lane%20Shopper%27s%20Boulevard%20%E5%B7%B4%E8%A5%BF%20Brasil%20%E6%A3%AE%E5%B7%B4%E8%88%9E%E5%A8%98%20Samba%20female%20dancers%20Nov-2010%2002.JPG"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/HK%20TST%20night%20%E6%9F%8F%E9%BA%97%E8%B3%BC%E7%89%A9%E5%A4%A7%E9%81%93%20Park%20Lane%20Shopper%27s%20Boulevard%20%E5%B7%B4%E8%A5%BF%20Brasil%20%E6%A3%AE%E5%B7%B4%E8%88%9E%E5%A8%98%20Samba%20female%20dancers%20Nov-2010%2002.JPG
 inception: 1914
 instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki_Loves_Cultura_Popular_Brasil_-_Danças,_festivais_e_músicas,116742198]]'

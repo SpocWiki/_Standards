@@ -4,20 +4,22 @@ aliases:
   - inform_action
   - InformAction
   - is_an_inform_action
+  - Inform_Action
+  - Inform Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - inform_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_inform_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

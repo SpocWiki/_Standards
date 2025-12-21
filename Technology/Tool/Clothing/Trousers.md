@@ -2,27 +2,28 @@
 aliases:
   - slacks
   - pants
+  - Trousers
 has_id_wikidata: Q39908
 described_by_source:
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-worn_on: "[[_Standards/WikiData/WD~lower_body,112966814]]"
-Nomenclature_for_Museum_Cataloging: "2434"
-OmegaWiki_Defined_Meaning: "349559"
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+worn_on: '[[_Standards/WikiData/WD~lower_body,112966814]]'
+Nomenclature_for_Museum_Cataloging: 2434
+OmegaWiki_Defined_Meaning: 349559
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Hose2.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Trousers%20%28drawing%29.jpg
 Commons_gallery: Trousers
 Commons_category: Trousers
 Dewey_Decimal_Classification:
-  - "646.3"
-  - "391.476"
-  - "687.113"
-  - "646.433"
+  - 646.3
+  - 391.476
+  - 687.113
+  - 646.433
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Broek%20%28kledingstuk%29-article.ogg
 Iconclass_notation: 41D231
-P2167: "53101503"
+P2167: 53101503
 hashtag: pants
 ---
 

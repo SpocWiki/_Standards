@@ -4,20 +4,22 @@ aliases:
   - home_and_construction_business
   - HomeAndConstructionBusiness
   - is_a_home_and_construction_business
+  - Home_and_Construction_Business
+  - Home and Construction Business
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - home_and_construction_business
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_home_and_construction_business Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -2,32 +2,33 @@
 aliases:
   - Large Magellanic Cloud
   - Große Magellanische Wolke
+  - Large_Magellanic_Cloud
 has_id_wikidata: Q49957
 instance_of:
-  - "[[_Standards/WikiData/WD~irregular_galaxy,190397]]"
-  - "[[_Standards/WikiData/WD~dwarf_galaxy,190438]]"
-  - "[[_Standards/WikiData/WD~infrared_source,67206691]]"
-  - "[[_Standards/WikiData/WD~gamma_ray_source,71962386]]"
+  - '[[_Standards/WikiData/WD~irregular_galaxy,190397]]'
+  - '[[_Standards/WikiData/WD~dwarf_galaxy,190438]]'
+  - '[[_Standards/WikiData/WD~infrared_source,67206691]]'
+  - '[[_Standards/WikiData/WD~gamma_ray_source,71962386]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Tarantula_Nebula,224145]]"
-  - "[[_Standards/WikiData/WD~Q829324,829324]]"
-  - "[[_Standards/WikiData/WD~Q1046302,1046302]]"
-  - "[[_Standards/WikiData/WD~Q88365157,88365157]]"
+  - '[[_Standards/WikiData/WD~Tarantula_Nebula,224145]]'
+  - '[[_Standards/WikiData/WD~Q829324,829324]]'
+  - '[[_Standards/WikiData/WD~Q1046302,1046302]]'
+  - '[[_Standards/WikiData/WD~Q88365157,88365157]]'
 child_astronomical_body:
-  - "[[_Standards/WikiData/WD~NGC_2079,1046802]]"
-  - "[[_Standards/WikiData/WD~NGC_2084,1257636]]"
-  - "[[_Standards/WikiData/WD~N113,17124840]]"
-  - "[[_Standards/WikiData/WD~R136,5116]]"
+  - '[[_Standards/WikiData/WD~NGC_2079,1046802]]'
+  - '[[_Standards/WikiData/WD~NGC_2084,1257636]]'
+  - '[[_Standards/WikiData/WD~N113,17124840]]'
+  - '[[_Standards/WikiData/WD~R136,5116]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Milky_Way_subgroup,18424563]]"
-  - "[[_Standards/WikiData/WD~Q67796371,67796371]]"
-  - "[[_Standards/WikiData/WD~Local_Group,3944]]"
-  - "[[_Standards/WikiData/WD~Magellanic_Clouds,50028]]"
+  - '[[_Standards/WikiData/WD~Milky_Way_subgroup,18424563]]'
+  - '[[_Standards/WikiData/WD~Q67796371,67796371]]'
+  - '[[_Standards/WikiData/WD~Local_Group,3944]]'
+  - '[[_Standards/WikiData/WD~Magellanic_Clouds,50028]]'
 declination: -69.75611
-parent_astronomical_body: "[[_Standards/WikiData/WD~Milky_Way,321]]"
-named_after: "[[_Standards/WikiData/WD~Ferdinand_Magellan,1496]]"
-constellation: "[[_Standards/WikiData/WD~Dorado,8837]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Abd_al_Rahman_al_Sufi,11075]]"
+parent_astronomical_body: '[[_Standards/WikiData/WD~Milky_Way,321]]'
+named_after: '[[_Standards/WikiData/WD~Ferdinand_Magellan,1496]]'
+constellation: '[[_Standards/WikiData/WD~Dorado,8837]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Abd_al_Rahman_al_Sufi,11075]]'
 absolute_magnitude: -18.5
 metallicity: -0.55
 apparent_magnitude: 0.4

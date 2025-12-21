@@ -1,32 +1,33 @@
 ---
 aliases:
   - Stahl
+  - Steel
 has_id_wikidata: Q11427
 Colon_Classification: F182
-color: "[[_Standards/WikiData/WD~grey,42519]]"
+color: '[[_Standards/WikiData/WD~grey,42519]]'
 Commons_category: Steel
 Commons_gallery: Steel
 CPV_Supplementary_code: AA11
 density: 7850
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Dewey_Decimal_Classification:
   - 669.142
   - 620.17
   - 672
 different_from:
-  - "[[_Standards/WikiData/WD~Çelik,1158653]]"
-  - "[[_Standards/WikiData/WD~Acél,121304601]]"
-fabrication_method: "[[_Standards/WikiData/WD~steelmaking,482090]]"
+  - '[[_Standards/WikiData/WD~Çelik,1158653]]'
+  - '[[_Standards/WikiData/WD~Acél,121304601]]'
+fabrication_method: '[[_Standards/WikiData/WD~steelmaking,482090]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~carbon,623]]"
-  - "[[_Standards/WikiData/WD~iron,677]]"
+  - '[[_Standards/WikiData/WD~carbon,623]]'
+  - '[[_Standards/WikiData/WD~iron,677]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Steel%20wire%20rope.png
-instance_of: "[[_Standards/WikiData/WD~alloy,37756]]"
+instance_of: '[[_Standards/WikiData/WD~alloy,37756]]'
 MeSH_tree_code:
   - D01.490.800
   - D01.552.033.847
@@ -35,10 +36,10 @@ MeSH_tree_code:
 Nomenclature_for_Museum_Cataloging: 6188
 OmegaWiki_Defined_Meaning: 3625
 recycling_code: 40
-subclass_of: "[[_Standards/WikiData/WD~iron_alloy,10772391]]"
+subclass_of: '[[_Standards/WikiData/WD~iron_alloy,10772391]]'
 tensile_modulus_of_elasticity: 210
 time_of_discovery_or_invention: 1865
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Steels,6436177]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Steels,6436177]]'
 UMLS_CUI: C0038239
 UNSPSC_Code: 11101704
 U_S_National_Archives_Identifier: 10644079

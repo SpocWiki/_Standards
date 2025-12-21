@@ -1,20 +1,21 @@
 ---
 aliases:
   - Rennen
+  - Racing
 has_id_wikidata: Q878123
 different_from:
-  - "[[_Standards/WikiData/WD~Spanish_style_bullfighting,2640883]]"
-  - "[[_Standards/WikiData/WD~The_Ride,29581183]]"
-  - "[[_Standards/WikiData/WD~Q54894541,54894541]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~race,22938576]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-subclass_of: "[[_Standards/WikiData/WD~sport,349]]"
+  - '[[_Standards/WikiData/WD~Spanish_style_bullfighting,2640883]]'
+  - '[[_Standards/WikiData/WD~The_Ride,29581183]]'
+  - '[[_Standards/WikiData/WD~Q54894541,54894541]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~race,22938576]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+subclass_of: '[[_Standards/WikiData/WD~sport,349]]'
 IMDb_keyword: racing
 Commons_category: Racing sports
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Course%20Nf%201%201%201%20-%20Elix.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/GGF%20Race5.jpg
-U_S_National_Archives_Identifier: "10643549"
+U_S_National_Archives_Identifier: 10643549
 ---
 
 # [[Racing]] 

@@ -1,29 +1,30 @@
 ---
 aliases:
-- is-part-of
-- part_of
-- isPartOf
-- is_part_of
-- schema: isPartOf
-- "dbo:isPartOf"
-- "wdt:P361"
+  - is-part-of
+  - part_of
+  - isPartOf
+  - is_part_of
+  - schema: isPartOf
+  - dbo:isPartOf
+  - wdt:P361
+  - is part of
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords: ''
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: is_part_of
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_part_of
 type: Predi_Relation
 ---

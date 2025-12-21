@@ -1,37 +1,39 @@
 ---
 aliases:
   - International Society for Krishna Consciousness (ISKCON), commonly known as the Hare Krishna Movement
+  - International_Society_for_Krishna_Consciousness
+  - International Society for Krishna Consciousness
 has_id_wikidata: Q190193
-founded_by: "[[_Standards/WikiData/WD~A._C._Bhaktivedanta_Swami_Prabhupada,234898]]"
+founded_by: '[[_Standards/WikiData/WD~A._C._Bhaktivedanta_Swami_Prabhupada,234898]]'
 significant_person:
-  - "[[_Standards/WikiData/WD~Q296609,296609]]"
-  - "[[_Standards/WikiData/WD~Poly_Styrene,2273733]]"
-  - "[[_Standards/WikiData/WD~George_Harrison,2643]]"
+  - '[[_Standards/WikiData/WD~Q296609,296609]]'
+  - '[[_Standards/WikiData/WD~Poly_Styrene,2273733]]'
+  - '[[_Standards/WikiData/WD~George_Harrison,2643]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~international_organization,484652]]"
-  - "[[_Standards/WikiData/WD~religious_organization,1530022]]"
-represents: "[[_Standards/WikiData/WD~Bhakti,507417]]"
-influenced_by: "[[_Standards/WikiData/WD~Gaudiya_Math,558397]]"
-foundational_text: "[[_Standards/WikiData/WD~Bhagavad_gītā_As_It_Is,854700]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Gaudiya_Vaishnavism,1144575]]"
+  - '[[_Standards/WikiData/WD~international_organization,484652]]'
+  - '[[_Standards/WikiData/WD~religious_organization,1530022]]'
+represents: '[[_Standards/WikiData/WD~Bhakti,507417]]'
+influenced_by: '[[_Standards/WikiData/WD~Gaudiya_Math,558397]]'
+foundational_text: '[[_Standards/WikiData/WD~Bhagavad_gītā_As_It_Is,854700]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Gaudiya_Vaishnavism,1144575]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Hare_Krishna_Food_for_Life,2025654]]"
-  - "[[_Standards/WikiData/WD~Bhaktivedanta_Book_Trust,2477033]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Mayapur,2606609]]"
-maintained_by: "[[_Standards/WikiData/WD~Governing_Body_Commission,4399981]]"
-has_list: "[[_Standards/WikiData/WD~list_of_International_Society_for_Krishna_Consciousness_members_and_patrons,6574329]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-history_of_topic: "[[_Standards/WikiData/WD~History_of_the_International_Society_for_Krishna_Consciousness,16157302]]"
+  - '[[_Standards/WikiData/WD~Hare_Krishna_Food_for_Life,2025654]]'
+  - '[[_Standards/WikiData/WD~Bhaktivedanta_Book_Trust,2477033]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Mayapur,2606609]]'
+maintained_by: '[[_Standards/WikiData/WD~Governing_Body_Commission,4399981]]'
+has_list: '[[_Standards/WikiData/WD~list_of_International_Society_for_Krishna_Consciousness_members_and_patrons,6574329]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+history_of_topic: '[[_Standards/WikiData/WD~History_of_the_International_Society_for_Krishna_Consciousness,16157302]]'
 followed_by:
-  - "[[_Standards/WikiData/WD~Science_of_Identity_Foundation,60851500]]"
-  - "[[_Standards/WikiData/WD~ISKCON_Revival_Movement,104869221]]"
-industry: "[[_Standards/WikiData/WD~religious_congregations_and_associations,130370869]]"
-location_of_formation: "[[_Standards/WikiData/WD~Copenhagen,1748]]"
+  - '[[_Standards/WikiData/WD~Science_of_Identity_Foundation,60851500]]'
+  - '[[_Standards/WikiData/WD~ISKCON_Revival_Movement,104869221]]'
+industry: '[[_Standards/WikiData/WD~religious_congregations_and_associations,130370869]]'
+location_of_formation: '[[_Standards/WikiData/WD~Copenhagen,1748]]'
 social_media_followers: 65731
 inception: 1967-07-13T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Iskcon%20Dwarka.png
 official_website: https://www.iskcon.org
-ISNI: "0000000109424561"
+ISNI: 0000000109424561
 Libris_URI: fcrv0v7z56m4ts3
 Commons_category: International Society for Krishna Consciousness
 X_Twitter_username: iskcon

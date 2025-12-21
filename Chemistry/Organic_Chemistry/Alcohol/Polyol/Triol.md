@@ -1,10 +1,11 @@
 ---
 aliases:
   - Triols
+  - Triol
 has_id_wikidata: Q3539455
-subclass_of: "[[_Standards/WikiData/WD~polyol,415812]]"
-follows: "[[_Standards/WikiData/WD~diol,421916]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+subclass_of: '[[_Standards/WikiData/WD~polyol,415812]]'
+follows: '[[_Standards/WikiData/WD~diol,421916]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 Commons_category: Triols
 ---
 

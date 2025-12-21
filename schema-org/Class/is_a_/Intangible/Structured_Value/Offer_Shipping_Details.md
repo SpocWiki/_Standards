@@ -4,20 +4,22 @@ aliases:
   - offer_shipping_details
   - OfferShippingDetails
   - is_an_offer_shipping_details
+  - Offer_Shipping_Details
+  - Offer Shipping Details
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - offer_shipping_details
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_offer_shipping_details Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -3,19 +3,21 @@ aliases:
   - Winter Olympic Games
   - Jeux olympiques d'hiver
   - Winter_Olympic_Games
+  - Winter_Olympics
+  - Winter Olympics
 has_id_wikidata: Q82414
-sport: "[[_Standards/WikiData/WD~winter_sport,204686]]"
-instance_of: "[[_Standards/WikiData/WD~recurring_sporting_event,18608583]]"
-subclass_of: "[[_Standards/WikiData/WD~Olympic_Games,5389]]"
-season_ends: "[[_Standards/WikiData/WD~February,109]]"
-season_starts: "[[_Standards/WikiData/WD~February,109]]"
+sport: '[[_Standards/WikiData/WD~winter_sport,204686]]'
+instance_of: '[[_Standards/WikiData/WD~recurring_sporting_event,18608583]]'
+subclass_of: '[[_Standards/WikiData/WD~Olympic_Games,5389]]'
+season_ends: '[[_Standards/WikiData/WD~February,109]]'
+season_starts: '[[_Standards/WikiData/WD~February,109]]'
 event_interval: 4
-organizer: "[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]"
-IAB_code: "523"
+organizer: '[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]'
+IAB_code: 523
 logo_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20rings%20without%20rims.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20Rings%20Icon.svg
-Dewey_Decimal_Classification: "796.98"
+Dewey_Decimal_Classification: 796.98
 inception: 1924-01-01T00:00:00Z
 Commons_category: Winter Olympics
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Athlete%27s%20oath%20at%201924%20Winter%20Olympics.jpg

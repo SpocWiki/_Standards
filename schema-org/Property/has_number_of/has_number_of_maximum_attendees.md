@@ -4,21 +4,22 @@ aliases:
   - maximum_attendee_capacity
   - maximumAttendeeCapacity
   - has_number_of_maximum_attendees
+  - has number of maximum attendees
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - maximum_attendee_capacity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_maximum_attendee_capacity
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

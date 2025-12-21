@@ -2,6 +2,7 @@
 aliases:
   - Tür
   - porte
+  - Door
 has_id_wikidata: Q36794
 has_part_s_:
   - "[[_Standards/WikiData/WD~peephole,82711]]"
@@ -30,9 +31,9 @@ part_of:
   - "[[_Standards/WikiData/WD~wall,42948]]"
 connects_with: "[[_Standards/WikiData/WD~doorway,21263223]]"
 different_from: "[[_Standards/WikiData/WD~doorway,21263223]]"
-Nomenclature_for_Museum_Cataloging: "108"
+Nomenclature_for_Museum_Cataloging: 108
 Commons_category: Doors
-OmegaWiki_Defined_Meaning: "1253751"
+OmegaWiki_Defined_Meaning: 1253751
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Doors%2023%2001%2056%20018000.jpeg
   - http://commons.wikimedia.org/wiki/Special:FilePath/L-door.png
@@ -46,7 +47,7 @@ Unicode_character: 🚪
 OpenStreetMap_tag_or_key: Key:door
 ---
 
-# [[Door]] 
+# [[Door]] 🚪 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Door,36794|WD~Door,36794]] 
 

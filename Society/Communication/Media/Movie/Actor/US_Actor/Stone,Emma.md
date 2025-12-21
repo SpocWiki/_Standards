@@ -3,6 +3,7 @@ aliases:
   - Emma_Stone
   - Emma Stone
   - Emily Jean Stone
+  - Stone,Emma
 ---
 
 # [[Stone,Emma]]

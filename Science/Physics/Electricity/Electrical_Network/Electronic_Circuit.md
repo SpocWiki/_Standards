@@ -2,17 +2,19 @@
 aliases:
   - electronic circuit
   - elektronischer Schaltkreis
+  - Electronic_Circuit
+  - Electronic Circuit
 has_id_wikidata: Q1815901
-subclass_of: "[[_Standards/WikiData/WD~electrical_circuit,132629]]"
+subclass_of: '[[_Standards/WikiData/WD~electrical_circuit,132629]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~printed_circuit_board,173350]]"
-  - "[[_Standards/WikiData/WD~electronic_component,11653]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-studied_by: "[[_Standards/WikiData/WD~electrical_circuits_and_systems,113161574]]"
+  - '[[_Standards/WikiData/WD~printed_circuit_board,173350]]'
+  - '[[_Standards/WikiData/WD~electronic_component,11653]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+studied_by: '[[_Standards/WikiData/WD~electrical_circuits_and_systems,113161574]]'
 properties_for_this_type: instruction set
-part_of: "[[_Standards/WikiData/WD~electronics,11650]]"
+part_of: '[[_Standards/WikiData/WD~electronics,11650]]'
 social_media_followers: 15371
-Nomenclature_for_Museum_Cataloging: "8790"
+Nomenclature_for_Museum_Cataloging: 8790
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Circuit.JPG
   - http://commons.wikimedia.org/wiki/Special:FilePath/Common%20Base%20amplifier.png

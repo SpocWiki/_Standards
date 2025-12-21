@@ -1,6 +1,8 @@
 ---
 aliases:
   - Progressive Era
+  - 1890-Progressive_Era
+  - 1890-Progressive Era
 ---
 
 # [[1890-Progressive_Era]] 

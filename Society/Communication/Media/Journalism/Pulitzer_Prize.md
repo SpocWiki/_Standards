@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Pulitzer Prize"
+  - Pulitzer Prize
+  - Pulitzer_Prize
 ---
 
 ## #has_/text_of_/abstract 

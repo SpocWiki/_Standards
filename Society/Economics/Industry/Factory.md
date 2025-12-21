@@ -3,6 +3,7 @@ aliases:
   - Fabrik
   - plant
   - mill
+  - Factory
 has_id_wikidata: Q83405
 different_from: "[[_Standards/WikiData/WD~manufactory,380342]]"
 subclass_of:
@@ -19,8 +20,8 @@ described_by_source:
 part_of: "[[_Standards/WikiData/WD~business,4830453]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_factory,13383730]]"
 has_effect: "[[_Standards/WikiData/WD~pollution,58734]]"
-Nomenclature_for_Museum_Cataloging: "807"
-OmegaWiki_Defined_Meaning: "385823"
+Nomenclature_for_Museum_Cataloging: 807
+OmegaWiki_Defined_Meaning: 385823
 IMDb_keyword: factory
 Iconclass_notation: 47A12
 Commons_gallery: Factory
@@ -36,7 +37,7 @@ OpenStreetMap_tag_or_key:
   - Tag:man_made=works
 ---
 
-# [[Factory]] 
+# [[Factory]] 🏭 
 
 #is_/same_as :: [[../../../WikiData/WD~Factory,83405|WD~Factory,83405]] 
 

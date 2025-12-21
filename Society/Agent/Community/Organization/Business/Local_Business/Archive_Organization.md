@@ -4,20 +4,22 @@ aliases:
   - archive_organization
   - ArchiveOrganization
   - is_an_archive_organization
+  - Archive_Organization
+  - Archive Organization
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - archive_organization
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_archive_organization Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

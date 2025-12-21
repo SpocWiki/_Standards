@@ -2,42 +2,43 @@
 aliases:
   - Shintoism
   - Shintoismus
+  - Shinto
 has_id_wikidata: Q812767
 has_characteristic:
-  - "[[_Standards/WikiData/WD~state_religion,188213]]"
-  - "[[_Standards/WikiData/WD~polytheism,9163]]"
+  - '[[_Standards/WikiData/WD~state_religion,188213]]'
+  - '[[_Standards/WikiData/WD~polytheism,9163]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic_Dictionary_of_Ism_s,120495625]]"
-subclass_of: "[[_Standards/WikiData/WD~folk_religion,1068640]]"
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Encyclopedic_Dictionary_of_Ism_s,120495625]]'
+subclass_of: '[[_Standards/WikiData/WD~folk_religion,1068640]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~ethnic_religion,1189816]]"
-  - "[[_Standards/WikiData/WD~polytheistic_religion,108704490]]"
-  - "[[_Standards/WikiData/WD~lifestyle,32090]]"
+  - '[[_Standards/WikiData/WD~ethnic_religion,1189816]]'
+  - '[[_Standards/WikiData/WD~polytheistic_religion,108704490]]'
+  - '[[_Standards/WikiData/WD~lifestyle,32090]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~koshintō,3096508]]"
-  - "[[_Standards/WikiData/WD~Buddhism,748]]"
-  - "[[_Standards/WikiData/WD~Hinduism,9089]]"
-  - "[[_Standards/WikiData/WD~Confucianism,9581]]"
-  - "[[_Standards/WikiData/WD~Taoism,9598]]"
-  - "[[_Standards/WikiData/WD~Abrahamic_religion,47280]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Shinto,11027445]]"
+  - '[[_Standards/WikiData/WD~koshintō,3096508]]'
+  - '[[_Standards/WikiData/WD~Buddhism,748]]'
+  - '[[_Standards/WikiData/WD~Hinduism,9089]]'
+  - '[[_Standards/WikiData/WD~Confucianism,9581]]'
+  - '[[_Standards/WikiData/WD~Taoism,9598]]'
+  - '[[_Standards/WikiData/WD~Abrahamic_religion,47280]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Shinto,11027445]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Shinto,14399019]]"
-  - "[[_Standards/WikiData/WD~Template_Shinto2,92754822]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Shinto,15884900]]"
-studied_by: "[[_Standards/WikiData/WD~Shinto_studies,114567052]]"
-location_of_formation: "[[_Standards/WikiData/WD~Japan,17]]"
-OmegaWiki_Defined_Meaning: "941144"
+  - '[[_Standards/WikiData/WD~Template_Shinto,14399019]]'
+  - '[[_Standards/WikiData/WD~Template_Shinto2,92754822]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Shinto,15884900]]'
+studied_by: '[[_Standards/WikiData/WD~Shinto_studies,114567052]]'
+location_of_formation: '[[_Standards/WikiData/WD~Japan,17]]'
+OmegaWiki_Defined_Meaning: 941144
 Commons_category: Shintō
-U_S_National_Archives_Identifier: "10676418"
-Basisklassifikation: "11.88"
-Universal_Decimal_Classification: "225.2"
+U_S_National_Archives_Identifier: 10676418
+Basisklassifikation: 11.88
+Universal_Decimal_Classification: 225.2
 Iconclass_notation: 12O
 subreddit: Shinto
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hakone%20Shrine%20Haiden.jpg

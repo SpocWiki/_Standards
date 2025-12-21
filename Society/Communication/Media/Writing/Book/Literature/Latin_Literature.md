@@ -1,17 +1,19 @@
 ---
 aliases:
   - Latin literature
+  - Latin_Literature
+  - Latin Literature
 has_id_wikidata: Q184890
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-different_from: "[[_Standards/WikiData/WD~ancient_Roman_literature,2591602]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Latin_literature,3974133]]"
-instance_of: "[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]"
-part_of: "[[_Standards/WikiData/WD~Latin_and_classical_Greek_literature,113128791]]"
-subclass_of: "[[_Standards/WikiData/WD~literature,8242]]"
-Dewey_Decimal_Classification: "870"
-Basisklassifikation: "18.44"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~ancient_Roman_literature,2591602]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Latin_literature,3974133]]'
+instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
+part_of: '[[_Standards/WikiData/WD~Latin_and_classical_Greek_literature,113128791]]'
+subclass_of: '[[_Standards/WikiData/WD~literature,8242]]'
+Dewey_Decimal_Classification: 870
+Basisklassifikation: 18.44
 Commons_category: Latin-language literature
 ---
 

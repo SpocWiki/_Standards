@@ -4,20 +4,21 @@ aliases:
   - expected_arrival_until
   - expectedArrivalUntil
   - has_time_of_expected_arrival_until
+  - has time of expected arrival until
 confidential: public
 cssclasses:
   - Predicate
   - Date_Time
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
-layout:
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Date

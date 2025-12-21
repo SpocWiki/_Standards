@@ -1,33 +1,34 @@
 ---
 aliases:
   - Lincoln Memorial
+  - Lincoln_Memorial
 has_id_wikidata: Q213559
 made_from_material:
-  - "[[_Standards/WikiData/WD~reinforced_concrete,184190]]"
-  - "[[_Standards/WikiData/WD~Yule_marble,3287571]]"
-  - "[[_Standards/WikiData/WD~Indiana_limestone,6023318]]"
-  - "[[_Standards/WikiData/WD~Sylacauga_marble,7660541]]"
-  - "[[_Standards/WikiData/WD~Tennessee_marble,7700258]]"
-locations: "[[_Standards/WikiData/WD~West_Potomac_Park,285616]]"
-operator: "[[_Standards/WikiData/WD~National_Park_Service,308439]]"
+  - '[[_Standards/WikiData/WD~reinforced_concrete,184190]]'
+  - '[[_Standards/WikiData/WD~Yule_marble,3287571]]'
+  - '[[_Standards/WikiData/WD~Indiana_limestone,6023318]]'
+  - '[[_Standards/WikiData/WD~Sylacauga_marble,7660541]]'
+  - '[[_Standards/WikiData/WD~Tennessee_marble,7700258]]'
+locations: '[[_Standards/WikiData/WD~West_Potomac_Park,285616]]'
+operator: '[[_Standards/WikiData/WD~National_Park_Service,308439]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~National_Memorial_of_the_United_States,1967454]]"
-  - "[[_Standards/WikiData/WD~memorial,5003624]]"
-creator: "[[_Standards/WikiData/WD~Daniel_Chester_French,720910]]"
-architectural_style: "[[_Standards/WikiData/WD~Greek_Revival_architecture,1513688]]"
-architect: "[[_Standards/WikiData/WD~Henry_Bacon,2530379]]"
-appears_in_the_heritage_monument_list: "[[_Standards/WikiData/WD~National_Register_of_Historic_Places_listings_in_Washington,_D.C.,6977769]]"
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~National_Memorial_of_the_United_States,1967454]]'
+  - '[[_Standards/WikiData/WD~memorial,5003624]]'
+creator: '[[_Standards/WikiData/WD~Daniel_Chester_French,720910]]'
+architectural_style: '[[_Standards/WikiData/WD~Greek_Revival_architecture,1513688]]'
+architect: '[[_Standards/WikiData/WD~Henry_Bacon,2530379]]'
+appears_in_the_heritage_monument_list: '[[_Standards/WikiData/WD~National_Register_of_Historic_Places_listings_in_Washington,_D.C.,6977769]]'
 heritage_designation:
-  - "[[_Standards/WikiData/WD~National_Register_of_Historic_Places_listed_place,19558910]]"
-  - "[[_Standards/WikiData/WD~District_of_Columbia_Inventory_of_Historic_Sites,73198230]]"
+  - '[[_Standards/WikiData/WD~National_Register_of_Historic_Places_listed_place,19558910]]'
+  - '[[_Standards/WikiData/WD~District_of_Columbia_Inventory_of_Historic_Sites,73198230]]'
 coordinate_location: Point(-77.050138888 38.889277777)
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-continent: "[[_Standards/WikiData/WD~North_America,49]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
-commemorates: "[[_Standards/WikiData/WD~Abraham_Lincoln,91]]"
-depicts: "[[_Standards/WikiData/WD~Abraham_Lincoln,91]]"
-named_after: "[[_Standards/WikiData/WD~Abraham_Lincoln,91]]"
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+continent: '[[_Standards/WikiData/WD~North_America,49]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+commemorates: '[[_Standards/WikiData/WD~Abraham_Lincoln,91]]'
+depicts: '[[_Standards/WikiData/WD~Abraham_Lincoln,91]]'
+named_after: '[[_Standards/WikiData/WD~Abraham_Lincoln,91]]'
 elevation_above_sea_level:
   - 11
   - 16
@@ -41,8 +42,8 @@ visitors_per_year:
   - 3307585
   - 4009145
   - 6042315
-postal_code: "20037"
-NRHP_reference_number: "66000030"
+postal_code: 20037
+NRHP_reference_number: 66000030
 Park_Alpha_Code: LINC
 native_label: Lincoln Memorial
 official_name: Lincoln Memorial
@@ -51,7 +52,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20L
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Lincoln%20memorial%20as%20seen%20during%20January%202016%20blizzard.jpg
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Lincoln%20Memorial%20July%204th%201.jpg
 official_website: https://www.nps.gov/linc/index.htm
-U_S_National_Archives_Identifier: "10647061"
+U_S_National_Archives_Identifier: 10647061
 Wolfram_Language_entity_code:
   - Entity["Building", "LincolnMemorial::z9s68"]
   - Entity["HistoricalEvent", "LincolnMemorialDedicated"]

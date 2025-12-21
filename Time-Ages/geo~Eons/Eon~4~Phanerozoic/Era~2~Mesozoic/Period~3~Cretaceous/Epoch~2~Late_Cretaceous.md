@@ -1,5 +1,7 @@
 ---
-aliases: []
+aliases:
+  - Epoch~2~Late_Cretaceous
+  - Epoch~2~Late Cretaceous
 ischart: UpperCretaceous
 ---
 

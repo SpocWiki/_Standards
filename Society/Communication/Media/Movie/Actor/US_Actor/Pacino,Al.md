@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Al Pacino"
-- "Alfredo James Pacino"
+  - Al Pacino
+  - Alfredo James Pacino
+  - Pacino,Al
 ---
 
 #has_/time_/started :: 1940-04-25 

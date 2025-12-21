@@ -1,6 +1,8 @@
 ---
 aliases:
-- "American Horror Story"
+  - American Horror Story
+  - AHS(American_Horror_Story)
+  - AHS(American Horror Story)
 ---
 
 ## #has_/text_of_/abstract 

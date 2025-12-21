@@ -1,25 +1,26 @@
 ---
 aliases:
   - Elektrochemie
+  - Electrochemistry
 has_id_wikidata: Q7877
 described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_electrochemistry,907543]]"
+  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_electrochemistry,907543]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~interdisciplinary_science,1665984]]"
-  - "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-practiced_by: "[[_Standards/WikiData/WD~electrochemist,71126987]]"
-part_of: "[[_Standards/WikiData/WD~physical_chemistry,11372]]"
-subclass_of: "[[_Standards/WikiData/WD~physical_chemistry,11372]]"
-All_Science_Journal_Classification_Codes: "1603"
-OmegaWiki_Defined_Meaning: "1127937"
-Basisklassifikation: "35.14"
+  - '[[_Standards/WikiData/WD~interdisciplinary_science,1665984]]'
+  - '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+practiced_by: '[[_Standards/WikiData/WD~electrochemist,71126987]]'
+part_of: '[[_Standards/WikiData/WD~physical_chemistry,11372]]'
+subclass_of: '[[_Standards/WikiData/WD~physical_chemistry,11372]]'
+All_Science_Journal_Classification_Codes: 1603
+OmegaWiki_Defined_Meaning: 1127937
+Basisklassifikation: 35.14
 Commons_category: Electrochemistry
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Schemas%20electrolyse%20h2o.svg
 Stack_Exchange_tag: https://chemistry.stackexchange.com/tags/electrochemistry

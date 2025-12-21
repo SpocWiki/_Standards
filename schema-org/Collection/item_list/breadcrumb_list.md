@@ -4,20 +4,21 @@ aliases:
   - breadcrumb_list
   - BreadcrumbList
   - is_a_breadcrumb_list
+  - breadcrumb list
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - breadcrumb_list
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_breadcrumb_list Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

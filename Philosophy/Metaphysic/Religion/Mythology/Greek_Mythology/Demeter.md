@@ -1,6 +1,7 @@
 ---
 aliases:
   - Deo
+  - Demeter
 ---
 
 # [[Demeter]] 

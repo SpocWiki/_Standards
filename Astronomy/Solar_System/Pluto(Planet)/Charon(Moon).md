@@ -1,16 +1,17 @@
 ---
 aliases:
   - Pluto I
+  - Charon(Moon)
 has_id_wikidata: Q6604
-instance_of: "[[_Standards/WikiData/WD~moon_of_Pluto,184246]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~James_W._Christy,315845]]"
-type_of_orbit: "[[_Standards/WikiData/WD~hadeocentric_orbit,3884961]]"
+instance_of: '[[_Standards/WikiData/WD~moon_of_Pluto,184246]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~James_W._Christy,315845]]'
+type_of_orbit: '[[_Standards/WikiData/WD~hadeocentric_orbit,3884961]]'
 part_of:
-  - "[[_Standards/WikiData/WD~outer_Solar_System,3962257]]"
-  - "[[_Standards/WikiData/WD~Pluto_System,108855214]]"
-site_of_astronomical_discovery: "[[_Standards/WikiData/WD~United_States_Naval_Observatory_Flagstaff_Station,4439554]]"
-parent_astronomical_body: "[[_Standards/WikiData/WD~Pluto,339]]"
-named_after: "[[_Standards/WikiData/WD~Charon,6612]]"
+  - '[[_Standards/WikiData/WD~outer_Solar_System,3962257]]'
+  - '[[_Standards/WikiData/WD~Pluto_System,108855214]]'
+site_of_astronomical_discovery: '[[_Standards/WikiData/WD~United_States_Naval_Observatory_Flagstaff_Station,4439554]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Pluto,339]]'
+named_after: '[[_Standards/WikiData/WD~Charon,6612]]'
 absolute_magnitude: 1
 orbital_eccentricity: 0.00005
 mass: 1.52
@@ -25,7 +26,7 @@ time_of_discovery_or_invention: 1978-06-22T00:00:00Z
 Commons_category: Charon (moon)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Charon%20in%20True%20Color%20-%20High-Res.jpg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Charon%20symbol%20%28fixed%20width%29.svg
-P8189: "987007558753805171"
+P8189: 987007558753805171
 Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Charon"]
 IPA_transcription: ˈçaːʁɔn
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Charon.ogg

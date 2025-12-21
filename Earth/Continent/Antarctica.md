@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Antarctica
+has_id_wikidata: Q51
 area: 14200000
 BHCL_UUID: 2e650cb8-9fde-4a97-8480-d9f4ac4bf6b8
 Commons_category: Antarctica
@@ -36,7 +39,6 @@ discoverer_or_inventor:
 FIPS_10_4_countries_and_regions_: AY
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Antarctica,2742952]]"
 geoshape: http://commons.wikimedia.org/data/main/Data:Antarctica.map
-has_id_wikidata: Q51
 has_part_s_:
   - "[[_Standards/WikiData/WD~West_Antarctica,530917]]"
   - "[[_Standards/WikiData/WD~East_Antarctica,866405]]"

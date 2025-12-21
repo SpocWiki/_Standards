@@ -4,20 +4,22 @@ aliases:
   - blog_posting
   - BlogPosting
   - is_a_blog_posting
+  - Blog_Posting
+  - Blog Posting
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - blog_posting
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_blog_posting Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

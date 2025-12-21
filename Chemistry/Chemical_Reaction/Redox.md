@@ -3,19 +3,20 @@ aliases:
   - reduction–oxidation or oxidation–reduction
   - Redox Reaktion
   - Redox Reaction
+  - Redox
 has_id_wikidata: Q82682
 used_by:
-  - "[[_Standards/WikiData/WD~electrochemical_cell,80097]]"
-  - "[[_Standards/WikiData/WD~cellular_respiration,912751]]"
+  - '[[_Standards/WikiData/WD~electrochemical_cell,80097]]'
+  - '[[_Standards/WikiData/WD~cellular_respiration,912751]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~reduction,912546]]"
-  - "[[_Standards/WikiData/WD~oxidation,1786087]]"
-  - "[[_Standards/WikiData/WD~half_reaction,2272343]]"
-part_of: "[[_Standards/WikiData/WD~Systems_Biology_Ontology,2377160]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
+  - '[[_Standards/WikiData/WD~reduction,912546]]'
+  - '[[_Standards/WikiData/WD~oxidation,1786087]]'
+  - '[[_Standards/WikiData/WD~half_reaction,2272343]]'
+part_of: '[[_Standards/WikiData/WD~Systems_Biology_Ontology,2377160]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/16.%20%D0%A0%D0%B5%D0%B0%D0%BA%D1%86%D0%B8%D1%98%D0%B0%20%D0%BC%D0%B5%D1%93%D1%83%20%D1%81%D0%B8%D0%BB%D0%BD%D0%BE%20%D0%BE%D0%BA%D1%81%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BE%20%D0%B8%20%D1%80%D0%B5%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BE%20%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE.webm
-studied_by: "[[_Standards/WikiData/WD~electrochemistry,7877]]"
-subclass_of: "[[_Standards/WikiData/WD~chemical_reaction,36534]]"
+studied_by: '[[_Standards/WikiData/WD~electrochemistry,7877]]'
+subclass_of: '[[_Standards/WikiData/WD~chemical_reaction,36534]]'
 Commons_category: Redox reactions
 exact_match: http://biomodels.net/SBO/SBO_0000200
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RustyChainEdit1.jpg

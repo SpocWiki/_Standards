@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Kad network"
+  - Kad network
+  - Kad_network
 ---
 
 ## #has_/text_of_/abstract 

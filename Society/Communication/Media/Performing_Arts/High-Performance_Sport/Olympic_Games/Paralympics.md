@@ -1,19 +1,20 @@
 ---
 aliases:
   - Paralympic Games
+  - Paralympics
 has_id_wikidata: Q73633
-organizer: "[[_Standards/WikiData/WD~International_Paralympic_Committee,175386]]"
-sport: "[[_Standards/WikiData/WD~paralympic_sports,589184]]"
+organizer: '[[_Standards/WikiData/WD~International_Paralympic_Committee,175386]]'
+sport: '[[_Standards/WikiData/WD~paralympic_sports,589184]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~Winter_Paralympic_Games,3317976]]"
-  - "[[_Standards/WikiData/WD~Summer_Paralympic_Games,3327913]]"
+  - '[[_Standards/WikiData/WD~Winter_Paralympic_Games,3317976]]'
+  - '[[_Standards/WikiData/WD~Summer_Paralympic_Games,3327913]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Paralympic_Games,10704472]]"
-  - "[[_Standards/WikiData/WD~Q26119048,26119048]]"
-country: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-trophy_awarded: "[[_Standards/WikiData/WD~Paralympic_medal,15243428]]"
-flag: "[[_Standards/WikiData/WD~Paralympic_flag,119631640]]"
-instance_of: "[[_Standards/WikiData/WD~recurring_international_multi_sports_competition,135741070]]"
+  - '[[_Standards/WikiData/WD~Template_Paralympic_Games,10704472]]'
+  - '[[_Standards/WikiData/WD~Q26119048,26119048]]'
+country: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+trophy_awarded: '[[_Standards/WikiData/WD~Paralympic_medal,15243428]]'
+flag: '[[_Standards/WikiData/WD~Paralympic_flag,119631640]]'
+instance_of: '[[_Standards/WikiData/WD~recurring_international_multi_sports_competition,135741070]]'
 event_interval: 4
 social_media_followers:
   - 1220000
@@ -25,7 +26,7 @@ X_Twitter_username: Paralympics
 Commons_category: Paralympic Games
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/IPC%20logo%20%282019%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/IPC%20logo%20%282019%29.svg
-RIA_Novosti_reference: "44139654"
+RIA_Novosti_reference: 44139654
 subreddit: olympics
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Paralympic%20flag%20%282019%29.svg
 inception: 1960-01-01T00:00:00Z

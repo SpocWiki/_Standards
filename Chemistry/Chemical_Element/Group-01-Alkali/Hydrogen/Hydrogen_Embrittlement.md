@@ -1,8 +1,9 @@
 ---
 aliases:
-- "Hydrogen Embrittlement"
-- "hydrogen-assisted cracking"
-- "hydrogen-induced cracking"
+  - Hydrogen Embrittlement
+  - hydrogen-assisted cracking
+  - hydrogen-induced cracking
+  - Hydrogen_Embrittlement
 ---
 
 ## #has_/text_of_/abstract 

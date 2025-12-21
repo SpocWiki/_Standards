@@ -4,20 +4,22 @@ aliases:
   - business_entity_type
   - BusinessEntityType
   - is_a_business_entity_type
+  - Business_Entity_Type
+  - Business Entity Type
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - business_entity_type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_business_entity_type Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

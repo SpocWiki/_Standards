@@ -1,6 +1,8 @@
 ---
 aliases:
-- "On Her Majesty's Secret Service"
+  - On Her Majesty's Secret Service
+  - On_Her_Majesty's_Secret_Service,1969
+  - On Her Majesty's Secret Service,1969
 ---
 
 ## #has_/text_of_/abstract 

@@ -5,66 +5,66 @@ aliases:
   - Andrew Carnegie
 has_id_wikidata: Q484265
 occupation:
-  - "[[_Standards/WikiData/WD~entrepreneur,131524]]"
-  - "[[_Standards/WikiData/WD~economist,188094]]"
-  - "[[_Standards/WikiData/WD~merchant,215536]]"
-  - "[[_Standards/WikiData/WD~business_magnate,911554]]"
-  - "[[_Standards/WikiData/WD~industrialist,6606110]]"
-  - "[[_Standards/WikiData/WD~philanthropist,12362622]]"
-  - "[[_Standards/WikiData/WD~fabricator,42855995]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Presbyterianism,178169]]"
+  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+  - '[[_Standards/WikiData/WD~economist,188094]]'
+  - '[[_Standards/WikiData/WD~merchant,215536]]'
+  - '[[_Standards/WikiData/WD~business_magnate,911554]]'
+  - '[[_Standards/WikiData/WD~industrialist,6606110]]'
+  - '[[_Standards/WikiData/WD~philanthropist,12362622]]'
+  - '[[_Standards/WikiData/WD~fabricator,42855995]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Presbyterianism,178169]]'
 movement:
-  - "[[_Standards/WikiData/WD~philanthropy,185733]]"
-  - "[[_Standards/WikiData/WD~noninterventionism,1203128]]"
-  - "[[_Standards/WikiData/WD~patriotism,6241]]"
-place_of_birth: "[[_Standards/WikiData/WD~Dunfermline,211950]]"
-position_held: "[[_Standards/WikiData/WD~rector,212071]]"
-place_of_burial: "[[_Standards/WikiData/WD~Sleepy_Hollow_Cemetery,360779]]"
-member_of: "[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]"
+  - '[[_Standards/WikiData/WD~philanthropy,185733]]'
+  - '[[_Standards/WikiData/WD~noninterventionism,1203128]]'
+  - '[[_Standards/WikiData/WD~patriotism,6241]]'
+place_of_birth: '[[_Standards/WikiData/WD~Dunfermline,211950]]'
+position_held: '[[_Standards/WikiData/WD~rector,212071]]'
+place_of_burial: '[[_Standards/WikiData/WD~Sleepy_Hollow_Cemetery,360779]]'
+member_of: '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~Q18843010,18843010]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+  - '[[_Standards/WikiData/WD~Q18843010,18843010]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_American_Library_Biography,31790728]]"
-  - "[[_Standards/WikiData/WD~Q56286171,56286171]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_third_supplement,116234546]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]"
-cause_of_death: "[[_Standards/WikiData/WD~bronchopneumonia,734512]]"
-contributed_to_creative_work: "[[_Standards/WikiData/WD~Popular_Science,773087]]"
-place_of_death: "[[_Standards/WikiData/WD~Lenox,2076362]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-spouse: "[[_Standards/WikiData/WD~Louise_Whitfield_Carnegie,6689005]]"
-child: "[[_Standards/WikiData/WD~Margaret_Carnegie_Miller,6759245]]"
-sibling: "[[_Standards/WikiData/WD~Thomas_M._Carnegie,7792033]]"
-given_name: "[[_Standards/WikiData/WD~Andrew,18042461]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_American_Library_Biography,31790728]]'
+  - '[[_Standards/WikiData/WD~Q56286171,56286171]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_third_supplement,116234546]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
+cause_of_death: '[[_Standards/WikiData/WD~bronchopneumonia,734512]]'
+contributed_to_creative_work: '[[_Standards/WikiData/WD~Popular_Science,773087]]'
+place_of_death: '[[_Standards/WikiData/WD~Lenox,2076362]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+spouse: '[[_Standards/WikiData/WD~Louise_Whitfield_Carnegie,6689005]]'
+child: '[[_Standards/WikiData/WD~Margaret_Carnegie_Miller,6759245]]'
+sibling: '[[_Standards/WikiData/WD~Thomas_M._Carnegie,7792033]]'
+given_name: '[[_Standards/WikiData/WD~Andrew,18042461]]'
 relative:
-  - "[[_Standards/WikiData/WD~George_Lauder,18343976]]"
-  - "[[_Standards/WikiData/WD~George_Lauder,61582442]]"
-family_name: "[[_Standards/WikiData/WD~Carnegie,31892236]]"
+  - '[[_Standards/WikiData/WD~George_Lauder,18343976]]'
+  - '[[_Standards/WikiData/WD~George_Lauder,61582442]]'
+family_name: '[[_Standards/WikiData/WD~Carnegie,31892236]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Bessemer_Gold_Medal,43900491]]"
-  - "[[_Standards/WikiData/WD~Honorary_Doctorate_from_the_National_Autonomous_University_of_Mexico,64152520]]"
-  - "[[_Standards/WikiData/WD~American_Library_Association_Honorary_Membership,107183707]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
-mother: "[[_Standards/WikiData/WD~Margaret_Morrison_Carnegie,105292400]]"
-father: "[[_Standards/WikiData/WD~William_Carnegie,105303034]]"
-present_in_work: "[[_Standards/WikiData/WD~Firmament,105582867]]"
+  - '[[_Standards/WikiData/WD~Bessemer_Gold_Medal,43900491]]'
+  - '[[_Standards/WikiData/WD~Honorary_Doctorate_from_the_National_Autonomous_University_of_Mexico,64152520]]'
+  - '[[_Standards/WikiData/WD~American_Library_Association_Honorary_Membership,107183707]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+mother: '[[_Standards/WikiData/WD~Margaret_Morrison_Carnegie,105292400]]'
+father: '[[_Standards/WikiData/WD~William_Carnegie,105303034]]'
+present_in_work: '[[_Standards/WikiData/WD~Firmament,105582867]]'
 date_of_birth: 1835-11-25T00:00:00Z
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Republican_Party,29468]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 Commons_gallery: Andrew Carnegie
 Commons_category: Andrew Carnegie
 Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/3682076
@@ -73,9 +73,9 @@ name_in_native_language: Andrew Carnegie
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Carnegie%20Gravesite.JPG
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Carnegie%20signature.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Carnegie%2C%20three-quarter%20length%20portrait%2C%20seated%2C%20facing%20slightly%20left%2C%201913-crop.jpg
-ISNI: "0000000122831065"
+ISNI: 0000000122831065
 Libris_URI: 75kmmjsr1frtcbj
-P8189: "987007259572305171"
+P8189: 987007259572305171
 ---
 
 # [[Carnegie,Andrew]] 

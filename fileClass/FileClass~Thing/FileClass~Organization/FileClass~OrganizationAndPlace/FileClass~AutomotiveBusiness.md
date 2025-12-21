@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~AutomotiveBusiness
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/AutomotiveBusiness
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness
-- is_an_/AutomotiveBusiness
-- schema-org/AutomotiveBusiness
+  - class/AutomotiveBusiness
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness
+  - is_an_/AutomotiveBusiness
+  - schema-org/AutomotiveBusiness
 tags:
-- class/FileClass
-- class/AutomotiveBusiness
-- '#is_an_/AutomotiveBusiness'
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness
+  - class/FileClass
+  - class/AutomotiveBusiness
+  - '#is_an_/AutomotiveBusiness'
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness
 version: 2.0
 ---
 

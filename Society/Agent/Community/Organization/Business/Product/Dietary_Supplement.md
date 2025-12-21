@@ -4,20 +4,22 @@ aliases:
   - dietary_supplement
   - DietarySupplement
   - is_a_dietary_supplement
+  - Dietary_Supplement
+  - Dietary Supplement
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - dietary_supplement
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_dietary_supplement Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

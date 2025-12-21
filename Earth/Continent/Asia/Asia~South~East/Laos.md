@@ -1,4 +1,17 @@
 ---
+aliases:
+  - Laos
+  - Lao People's Democratic Republic
+  - República Democrática Popular Lao
+  - République démocratique populaire lao
+  - جمهورية لاو الديمقراطية الشعبية
+  - 老挝人民民主共和国
+  - Лаосская Народно-Демократическая Республика
+  - the Lao People's Democratic Republic
+  - Lao People's Democratic Republic (the)
+  - la República Democrática Popular Lao
+  - República Democrática Popular Lao (la)
+has_id_wikidata: Q819
 instance_of:
   - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
   - "[[_Standards/WikiData/WD~people's_republic,465613]]"
@@ -308,7 +321,7 @@ rural_population:
   - 4663189
   - 4682315
   - 4698995
-inception: "1949"
+inception: 1949
 has_time_started: 1949-06
 coordinate_location: Point(104.1 18.2)
 coordinates_of_northernmost_point: Point(101.77 22.5)
@@ -333,7 +346,6 @@ Instagram_username: laos_simplybeautiful
 Krugosvet_article: strany-mira/laos
 MeSH_tree_code: Z01.252.145.435
 Commons_gallery: ປະເທດລາວ
-has_id_wikidata: Q819
 location:
   - 17.9667
   - 102.6
@@ -350,24 +362,12 @@ cssclasses:
   - Country
 publish: true
 title: Laos
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Laos
-  - Lao People's Democratic Republic
-  - República Democrática Popular Lao
-  - République démocratique populaire lao
-  - جمهورية لاو الديمقراطية الشعبية
-  - 老挝人民民主共和国
-  - Лаосская Народно-Демократическая Республика
-  - the Lao People's Democratic Republic
-  - Lao People's Democratic Republic (the)
-  - la República Democrática Popular Lao
-  - República Democrática Popular Lao (la)
+publishDate: ""
+expiryDate: ""
 Languages:
   - lo
   - fr

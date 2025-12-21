@@ -1,6 +1,7 @@
 ---
 aliases:
   - Pascal
+  - Unit~Pascal
 has_id_wikidata: Q44395
 ---
 

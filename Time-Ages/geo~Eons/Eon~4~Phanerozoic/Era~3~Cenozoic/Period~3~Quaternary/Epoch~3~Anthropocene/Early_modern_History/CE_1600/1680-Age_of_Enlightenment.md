@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Age of Enlightenment"
+  - Age of Enlightenment
+  - 1680-Age_of_Enlightenment
+  - 1680-Age of Enlightenment
 has_id_wikidata: Q12539
 ---
 

@@ -4,21 +4,23 @@ aliases:
   - transformed_content
   - TransformedContent
   - is_a_transformed_content
+  - Transformed_Content
+  - Transformed Content
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MediaManipulationRatingEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - transformed_content
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_transformed_content Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

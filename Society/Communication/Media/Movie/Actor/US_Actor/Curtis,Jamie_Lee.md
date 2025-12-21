@@ -1,73 +1,75 @@
 ---
 aliases:
   - Jamie Lee Curtis
+  - Curtis,Jamie_Lee
+  - Curtis,Jamie Lee
 has_id_wikidata: Q106997
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]"
-  - "[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Kiss,257235]]"
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Leading_Role,687123]]"
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Supporting_Role,787123]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Supporting_Actress_Motion_Picture,822907]]"
-  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie,989447]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_Musical_or_Comedy,1011564]]"
-  - "[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Female_Actor_in_a_Supporting_Role,1320315]]"
-  - "[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Female_Performance,4220898]]"
-  - "[[_Standards/WikiData/WD~Satellite_Award_for_Best_Actress_Motion_Picture_Musical_or_Comedy,5261137]]"
-  - "[[_Standards/WikiData/WD~Genie_Award_for_Best_Performance_by_a_Foreign_Actress,5533178]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+  - '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Kiss,257235]]'
+  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Leading_Role,687123]]'
+  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Supporting_Role,787123]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Supporting_Actress_Motion_Picture,822907]]'
+  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie,989447]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_Musical_or_Comedy,1011564]]'
+  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Female_Actor_in_a_Supporting_Role,1320315]]'
+  - '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Female_Performance,4220898]]'
+  - '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Actress_Motion_Picture_Musical_or_Comedy,5261137]]'
+  - '[[_Standards/WikiData/WD~Genie_Award_for_Best_Performance_by_a_Foreign_Actress,5533178]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]"
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Supporting_Role,787123]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_Musical_or_Comedy,1011564]]"
-  - "[[_Standards/WikiData/WD~Disney_Legends,1150306]]"
-  - "[[_Standards/WikiData/WD~Jupiter_Awards,1713744]]"
-  - "[[_Standards/WikiData/WD~Hasty_Pudding_Woman_of_the_Year,10294045]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-father: "[[_Standards/WikiData/WD~Tony_Curtis,162389]]"
-noble_title: "[[_Standards/WikiData/WD~baron,165503]]"
-mother: "[[_Standards/WikiData/WD~Janet_Leigh,205314]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Supporting_Role,787123]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_Musical_or_Comedy,1011564]]'
+  - '[[_Standards/WikiData/WD~Disney_Legends,1150306]]'
+  - '[[_Standards/WikiData/WD~Jupiter_Awards,1713744]]'
+  - '[[_Standards/WikiData/WD~Hasty_Pudding_Woman_of_the_Year,10294045]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+father: '[[_Standards/WikiData/WD~Tony_Curtis,162389]]'
+noble_title: '[[_Standards/WikiData/WD~baron,165503]]'
+mother: '[[_Standards/WikiData/WD~Janet_Leigh,205314]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Halloween,221103]]"
-  - "[[_Standards/WikiData/WD~A_Fish_Called_Wanda,466186]]"
-sibling: "[[_Standards/WikiData/WD~Kelly_Curtis,273574]]"
-spouse: "[[_Standards/WikiData/WD~Christopher_Guest,336074]]"
+  - '[[_Standards/WikiData/WD~Halloween,221103]]'
+  - '[[_Standards/WikiData/WD~A_Fish_Called_Wanda,466186]]'
+sibling: '[[_Standards/WikiData/WD~Kelly_Curtis,273574]]'
+spouse: '[[_Standards/WikiData/WD~Christopher_Guest,336074]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_the_Pacific,630226]]"
-  - "[[_Standards/WikiData/WD~Beverly_Hills_High_School,1185037]]"
-  - "[[_Standards/WikiData/WD~Choate_Rosemary_Hall,5103452]]"
-  - "[[_Standards/WikiData/WD~Harvard_Westlake_School,5676252]]"
-  - "[[_Standards/WikiData/WD~The_Center_for_Early_Education,7721887]]"
-  - "[[_Standards/WikiData/WD~Westlake_High_School,7988976]]"
+  - '[[_Standards/WikiData/WD~University_of_the_Pacific,630226]]'
+  - '[[_Standards/WikiData/WD~Beverly_Hills_High_School,1185037]]'
+  - '[[_Standards/WikiData/WD~Choate_Rosemary_Hall,5103452]]'
+  - '[[_Standards/WikiData/WD~Harvard_Westlake_School,5676252]]'
+  - '[[_Standards/WikiData/WD~The_Center_for_Early_Education,7721887]]'
+  - '[[_Standards/WikiData/WD~Westlake_High_School,7988976]]'
 occupation:
-  - "[[_Standards/WikiData/WD~executive_producer,1053574]]"
+  - '[[_Standards/WikiData/WD~executive_producer,1053574]]'
   - "[[_Standards/WikiData/WD~children's_writer,4853732]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-honorific_prefix: "[[_Standards/WikiData/WD~The_Right_Honourable,1480896]]"
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+honorific_prefix: '[[_Standards/WikiData/WD~The_Right_Honourable,1480896]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Jamie,1674029]]"
-  - "[[_Standards/WikiData/WD~Lee,2061957]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-family_name: "[[_Standards/WikiData/WD~Curtis,12787162]]"
+  - '[[_Standards/WikiData/WD~Jamie,1674029]]'
+  - '[[_Standards/WikiData/WD~Lee,2061957]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+family_name: '[[_Standards/WikiData/WD~Curtis,12787162]]'
 child:
-  - "[[_Standards/WikiData/WD~Ruby_Guest,43376115]]"
-  - "[[_Standards/WikiData/WD~Annie_Guest,56234831]]"
+  - '[[_Standards/WikiData/WD~Ruby_Guest,43376115]]'
+  - '[[_Standards/WikiData/WD~Annie_Guest,56234831]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Q75600472,75600472]]"
-filmography: "[[_Standards/WikiData/WD~list_of_Jamie_Lee_Curtis_performances,110324199]]"
-participant_in: "[[_Standards/WikiData/WD~Global_Conference_2022,116813846]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-work_location: "[[_Standards/WikiData/WD~United_States,30]]"
-residence: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
-ancestral_home: "[[_Standards/WikiData/WD~Germany,183]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Q75600472,75600472]]'
+filmography: '[[_Standards/WikiData/WD~list_of_Jamie_Lee_Curtis_performances,110324199]]'
+participant_in: '[[_Standards/WikiData/WD~Global_Conference_2022,116813846]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+work_location: '[[_Standards/WikiData/WD~United_States,30]]'
+residence: '[[_Standards/WikiData/WD~Los_Angeles,65]]'
+ancestral_home: '[[_Standards/WikiData/WD~Germany,183]]'
 number_of_children: 2
-place_of_birth: "[[_Standards/WikiData/WD~Santa_Monica,47164]]"
-identifier_in_filmpolski_movie_database: "1087"
+place_of_birth: '[[_Standards/WikiData/WD~Santa_Monica,47164]]'
+identifier_in_filmpolski_movie_database: 1087
 name_in_native_language: Jamie Lee Curtis
 work_period_start_: 1977-01-01T00:00:00Z
 date_of_birth: 1958-11-22T00:00:00Z
@@ -76,9 +78,9 @@ Commons_gallery: Jamie Lee Curtis
 Commons_category: Jamie Lee Curtis
 social_media_followers: 755276
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Jamie%20Lee%20Curtis%27s%20signature.png
-ISNI: "0000000121461779"
+ISNI: 0000000121461779
 Plex_person_key: 5d77682785719b001f3a0f91
-P1015: "90913256"
+P1015: 90913256
 affiliation_string: Comet Pictures
 Instagram_username: curtisleejamie
 X_Twitter_username: jamieleecurtis

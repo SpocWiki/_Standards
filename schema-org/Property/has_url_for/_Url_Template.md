@@ -1,28 +1,30 @@
 ---
 aliases:
-  - "{ label-dash: }":
-  - "{ label_snail: }":
-  - "{ label: }":
+  - '{ label-dash: }': ''
+  - '{ label_snail: }': ''
+  - '{ label: }': ''
   - has_url_for_{{label_snail}}
+  - _Url_Template
+  - ' Url Template'
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - "{ label_snail: }":
-layout:
+  - '{ label_snail: }': ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_{{label_snail}}
 publish: true
-publishDate:
+publishDate: ''
 superseded_by:
-  "{ supersededBy: }":
+  '{ supersededBy: }': ''
 supersedes:
-  "{ supersedes: }":
+  '{ supersedes: }': ''
 tags:
   - class/Property
   - schema-org/Property/Url

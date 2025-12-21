@@ -4,22 +4,23 @@ aliases:
   - code_for_discount
   - discountCode
   - has_code_for_discount
+  - has code for discount
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - discount
   - code
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_code_for_discount
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

@@ -3,92 +3,93 @@ aliases:
   - Fritz Haber
   - Fritz_Haber
   - Haber
+  - Haber,Fritz
 has_id_wikidata: Q57075
-student_of: "[[_Standards/WikiData/WD~Robert_Bunsen,71031]]"
-doctoral_advisor: "[[_Standards/WikiData/WD~Robert_Bunsen,71031]]"
+student_of: '[[_Standards/WikiData/WD~Robert_Bunsen,71031]]'
+doctoral_advisor: '[[_Standards/WikiData/WD~Robert_Bunsen,71031]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Lutheranism,75809]]"
-  - "[[_Standards/WikiData/WD~Christianity,5043]]"
-  - "[[_Standards/WikiData/WD~Judaism,9268]]"
+  - '[[_Standards/WikiData/WD~Lutheranism,75809]]'
+  - '[[_Standards/WikiData/WD~Christianity,5043]]'
+  - '[[_Standards/WikiData/WD~Judaism,9268]]'
 occupation:
-  - "[[_Standards/WikiData/WD~engineer,81096]]"
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~chemist,593644]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~academic,3400985]]"
+  - '[[_Standards/WikiData/WD~engineer,81096]]'
+  - '[[_Standards/WikiData/WD~physicist,169470]]'
+  - '[[_Standards/WikiData/WD~chemist,593644]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~academic,3400985]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Heidelberg_University,151510]]"
-  - "[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]"
-  - "[[_Standards/WikiData/WD~Elisabet_Gymnasium,1329669]]"
-  - "[[_Standards/WikiData/WD~Johanneum_Breslau,1698809]]"
-  - "[[_Standards/WikiData/WD~ETH_Zurich,11942]]"
-  - "[[_Standards/WikiData/WD~Technische_Universität_Berlin,51985]]"
+  - '[[_Standards/WikiData/WD~Heidelberg_University,151510]]'
+  - '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
+  - '[[_Standards/WikiData/WD~Elisabet_Gymnasium,1329669]]'
+  - '[[_Standards/WikiData/WD~Johanneum_Breslau,1698809]]'
+  - '[[_Standards/WikiData/WD~ETH_Zurich,11942]]'
+  - '[[_Standards/WikiData/WD~Technische_Universität_Berlin,51985]]'
 employer:
-  - "[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]"
-  - "[[_Standards/WikiData/WD~Fritz_Haber_Institute_of_the_MPG,514590]]"
-  - "[[_Standards/WikiData/WD~TH_Karlsruhe,114339958]]"
-  - "[[_Standards/WikiData/WD~ETH_Zurich,11942]]"
-ethnic_group: "[[_Standards/WikiData/WD~Hasidism,171201]]"
+  - '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
+  - '[[_Standards/WikiData/WD~Fritz_Haber_Institute_of_the_MPG,514590]]'
+  - '[[_Standards/WikiData/WD~TH_Karlsruhe,114339958]]'
+  - '[[_Standards/WikiData/WD~ETH_Zurich,11942]]'
+ethnic_group: '[[_Standards/WikiData/WD~Hasidism,171201]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Haber_Bosch_process,213669]]"
-  - "[[_Standards/WikiData/WD~chemical_weapon,3639228]]"
+  - '[[_Standards/WikiData/WD~Haber_Bosch_process,213669]]'
+  - '[[_Standards/WikiData/WD~chemical_weapon,3639228]]'
 member_of:
-  - "[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]"
-  - "[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]"
-  - "[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]"
-  - "[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]"
+  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+  - '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+  - '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
+  - '[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]'
+  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Rumford_Medal,285167]]"
-  - "[[_Standards/WikiData/WD~Liebig_Medal,567492]]"
-  - "[[_Standards/WikiData/WD~Wilhelm_Exner_Medal,700368]]"
-  - "[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]"
-  - "[[_Standards/WikiData/WD~Harnack_medal,1585689]]"
-  - "[[_Standards/WikiData/WD~Bunsen_Medal,29869512]]"
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]"
-academic_degree: "[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]"
-given_name: "[[_Standards/WikiData/WD~Fritz,1158596]]"
+  - '[[_Standards/WikiData/WD~Rumford_Medal,285167]]'
+  - '[[_Standards/WikiData/WD~Liebig_Medal,567492]]'
+  - '[[_Standards/WikiData/WD~Wilhelm_Exner_Medal,700368]]'
+  - '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
+  - '[[_Standards/WikiData/WD~Harnack_medal,1585689]]'
+  - '[[_Standards/WikiData/WD~Bunsen_Medal,29869512]]'
+  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]'
+academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
+given_name: '[[_Standards/WikiData/WD~Fritz,1158596]]'
 position_held:
-  - "[[_Standards/WikiData/WD~director,1162163]]"
-  - "[[_Standards/WikiData/WD~Geheimrat,11165895]]"
-place_of_burial: "[[_Standards/WikiData/WD~Friedhof_am_Hörnli,1457464]]"
+  - '[[_Standards/WikiData/WD~director,1162163]]'
+  - '[[_Standards/WikiData/WD~Geheimrat,11165895]]'
+place_of_burial: '[[_Standards/WikiData/WD~Friedhof_am_Hörnli,1457464]]'
 child:
-  - "[[_Standards/WikiData/WD~Ludwig_F._Haber,1558990]]"
-  - "[[_Standards/WikiData/WD~Hermann_Haber,21089437]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-doctoral_student: "[[_Standards/WikiData/WD~Hilde_Levi,5761527]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~Ludwig_F._Haber,1558990]]'
+  - '[[_Standards/WikiData/WD~Hermann_Haber,21089437]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+doctoral_student: '[[_Standards/WikiData/WD~Hilde_Levi,5761527]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-family_name: "[[_Standards/WikiData/WD~Haber,21482720]]"
-partner_in_business_or_sport: "[[_Standards/WikiData/WD~Johannes_Jaenicke,41700927]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+family_name: '[[_Standards/WikiData/WD~Haber,21482720]]'
+partner_in_business_or_sport: '[[_Standards/WikiData/WD~Johannes_Jaenicke,41700927]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Charlotte_Haber,94775800]]"
-  - "[[_Standards/WikiData/WD~Clara_Immerwahr,7490]]"
+  - '[[_Standards/WikiData/WD~Charlotte_Haber,94775800]]'
+  - '[[_Standards/WikiData/WD~Clara_Immerwahr,7490]]'
 date_of_birth: 1868-12-09T00:00:00Z
 residence:
-  - "[[_Standards/WikiData/WD~Cambridge,350]]"
-  - "[[_Standards/WikiData/WD~Karlsruhe,1040]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Cambridge,350]]'
+  - '[[_Standards/WikiData/WD~Karlsruhe,1040]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
 work_location:
-  - "[[_Standards/WikiData/WD~Karlsruhe,1040]]"
-  - "[[_Standards/WikiData/WD~Berlin,64]]"
-place_of_birth: "[[_Standards/WikiData/WD~Wrocław,1799]]"
-field_of_work: "[[_Standards/WikiData/WD~physical_chemistry,11372]]"
-cause_of_death: "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
+  - '[[_Standards/WikiData/WD~Karlsruhe,1040]]'
+  - '[[_Standards/WikiData/WD~Berlin,64]]'
+place_of_birth: '[[_Standards/WikiData/WD~Wrocław,1799]]'
+field_of_work: '[[_Standards/WikiData/WD~physical_chemistry,11372]]'
+cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]"
-  - "[[_Standards/WikiData/WD~Weimar_Republic,41304]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~Basel,78]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~German,188]]"
-nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
+  - '[[_Standards/WikiData/WD~Weimar_Republic,41304]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~Basel,78]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]'
 Commons_category: Fritz Haber
 BHCL_UUID: 7a2f2a2f-5384-4496-b6aa-b7d76342eb5d
 name_in_native_language: Fritz Haber
@@ -101,7 +102,7 @@ described_at_URL:
   - http://www.digiporta.net/index.php?id=145789403
   - http://www.digiporta.net/index.php?id=343370536
   - http://www.digiporta.net/index.php?id=900814401
-ISNI: "0000000081157835"
+ISNI: 0000000081157835
 Libris_URI: 20dhppdl2gxvh97
 Krugosvet_article: nauka_i_tehnika/himiya/GABER_FRITS.html
 ---

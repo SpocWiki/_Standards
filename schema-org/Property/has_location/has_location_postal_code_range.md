@@ -4,21 +4,22 @@ aliases:
   - postal_code_range
   - postalCodeRange
   - has_location_postal_code_range
+  - has location postal code range
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - postal_code_range
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_postal_code_range
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

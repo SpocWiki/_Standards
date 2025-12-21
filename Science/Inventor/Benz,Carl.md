@@ -4,6 +4,7 @@ aliases:
   - Karl Friedrich Benz
   - Carl Friedrich Benz
   - Karl Friedrich Michael Vaillant
+  - Benz,Carl
 has_id_wikidata: Q40224
 ---
 

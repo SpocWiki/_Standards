@@ -5,27 +5,28 @@ aliases:
   - TLCAN
   - Accord de libre-échange nord-américain
   - ALÉNA
+  - North_American_Free_Trade_Agreement
 has_id_wikidata: Q181574
 instance_of:
-  - "[[_Standards/WikiData/WD~trade_bloc,1129645]]"
-  - "[[_Standards/WikiData/WD~free_trade_agreement,3536928]]"
-replaces: "[[_Standards/WikiData/WD~Canada_United_States_Free_Trade_Agreement,2665587]]"
-follows: "[[_Standards/WikiData/WD~Canada_United_States_Free_Trade_Agreement,2665587]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_NAFTA,11210212]]"
-has_characteristic: "[[_Standards/WikiData/WD~trilateralism,75029290]]"
+  - '[[_Standards/WikiData/WD~trade_bloc,1129645]]'
+  - '[[_Standards/WikiData/WD~free_trade_agreement,3536928]]'
+replaces: '[[_Standards/WikiData/WD~Canada_United_States_Free_Trade_Agreement,2665587]]'
+follows: '[[_Standards/WikiData/WD~Canada_United_States_Free_Trade_Agreement,2665587]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_NAFTA,11210212]]'
+has_characteristic: '[[_Standards/WikiData/WD~trilateralism,75029290]]'
 official_language:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-headquarters_location: "[[_Standards/WikiData/WD~Ottawa,1930]]"
+  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+headquarters_location: '[[_Standards/WikiData/WD~Ottawa,1930]]'
 applies_to_jurisdiction:
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - '[[_Standards/WikiData/WD~Canada,16]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Mexico,96]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - '[[_Standards/WikiData/WD~Canada,16]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Mexico,96]]'
 short_name:
   - TLC
   - ALENA

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Calendar
+has_id_wikidata: Q12132
 Colon_Classification: B9:17
 Commons_category: Calendars
 Commons_gallery: Calendar
@@ -26,7 +29,6 @@ different_from:
   - "[[_Standards/WikiData/WD~calendar,12027715]]"
   - "[[_Standards/WikiData/WD~list_of_centuries_and_millennia,27305]]"
 GitHub_topic: calendar
-has_id_wikidata: Q12132
 has_part_s_: "[[_Standards/WikiData/WD~calendar_date,205892]]"
 Iconclass_notation: 23U1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Revolution%20kalendar.jpg
@@ -53,7 +55,7 @@ Unicode_character:
 U_S_National_Archives_Identifier: 10638843
 ---
 
-# [[Calendar]] 
+# [[Calendar]] 📅  
 
 #is_/same_as :: [[../WikiData/WD~Calendar,12132|WD~Calendar,12132]] 
 

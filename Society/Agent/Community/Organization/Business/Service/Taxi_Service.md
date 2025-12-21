@@ -4,20 +4,22 @@ aliases:
   - taxi_service
   - TaxiService
   - is_a_taxi_service
+  - Taxi_Service
+  - Taxi Service
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - taxi_service
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_taxi_service Class
 publish: true
-publishDate:
+publishDate: ''
 supersedes: Taxi
 tags:
   - class/Class

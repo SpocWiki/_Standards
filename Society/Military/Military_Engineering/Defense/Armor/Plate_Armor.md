@@ -3,17 +3,19 @@ aliases:
   - Plate armour
   - Plate armor
   - Rüstung
+  - Plate_Armor
+  - Plate Armor
 has_id_wikidata: Q3391846
 has_part_s_:
-  - "[[_Standards/WikiData/WD~pauldron,340673]]"
-  - "[[_Standards/WikiData/WD~arm_armor,689965]]"
-  - "[[_Standards/WikiData/WD~leg_armor,814821]]"
-  - "[[_Standards/WikiData/WD~breastplate,858236]]"
-  - "[[_Standards/WikiData/WD~couter,1331737]]"
-  - "[[_Standards/WikiData/WD~backplate,28791652]]"
-different_from: "[[_Standards/WikiData/WD~body_armor,485027]]"
-subclass_of: "[[_Standards/WikiData/WD~body_armor,485027]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~pauldron,340673]]'
+  - '[[_Standards/WikiData/WD~arm_armor,689965]]'
+  - '[[_Standards/WikiData/WD~leg_armor,814821]]'
+  - '[[_Standards/WikiData/WD~breastplate,858236]]'
+  - '[[_Standards/WikiData/WD~couter,1331737]]'
+  - '[[_Standards/WikiData/WD~backplate,28791652]]'
+different_from: '[[_Standards/WikiData/WD~body_armor,485027]]'
+subclass_of: '[[_Standards/WikiData/WD~body_armor,485027]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 end_time: 1700-01-01T00:00:00Z
 Commons_category: Plate armour
 start_time: 1400-01-01T00:00:00Z

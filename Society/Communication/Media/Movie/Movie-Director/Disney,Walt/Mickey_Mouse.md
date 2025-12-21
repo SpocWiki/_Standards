@@ -1,139 +1,140 @@
 ---
 aliases:
   - Mickey Mouse
+  - Mickey_Mouse
 has_id_wikidata: Q11934
 significant_person:
-  - "[[_Standards/WikiData/WD~Pluto,108732]]"
-  - "[[_Standards/WikiData/WD~Goofy,111135]]"
+  - '[[_Standards/WikiData/WD~Pluto,108732]]'
+  - '[[_Standards/WikiData/WD~Goofy,111135]]'
   - "[[_Standards/WikiData/WD~Chip_'n'_Dale,403138]]"
-  - "[[_Standards/WikiData/WD~Daisy_Duck,715763]]"
-  - "[[_Standards/WikiData/WD~Clarabelle_Cow,761417]]"
-  - "[[_Standards/WikiData/WD~Horace_Horsecollar,1051189]]"
-  - "[[_Standards/WikiData/WD~Duffy_the_Disney_Bear,1064797]]"
-  - "[[_Standards/WikiData/WD~Oswald_the_Lucky_Rabbit,1419509]]"
-  - "[[_Standards/WikiData/WD~The_Sleuth,1647869]]"
-  - "[[_Standards/WikiData/WD~Ludwig_Von_Drake,1753262]]"
+  - '[[_Standards/WikiData/WD~Daisy_Duck,715763]]'
+  - '[[_Standards/WikiData/WD~Clarabelle_Cow,761417]]'
+  - '[[_Standards/WikiData/WD~Horace_Horsecollar,1051189]]'
+  - '[[_Standards/WikiData/WD~Duffy_the_Disney_Bear,1064797]]'
+  - '[[_Standards/WikiData/WD~Oswald_the_Lucky_Rabbit,1419509]]'
+  - '[[_Standards/WikiData/WD~The_Sleuth,1647869]]'
+  - '[[_Standards/WikiData/WD~Ludwig_Von_Drake,1753262]]'
   - "[[_Standards/WikiData/WD~Chief_Seamus_O'Hara,2404788]]"
-  - "[[_Standards/WikiData/WD~Clara_Cluck,2464984]]"
-  - "[[_Standards/WikiData/WD~Eega_Beeva,2518996]]"
-  - "[[_Standards/WikiData/WD~Ellsworth_Bheezer,2519628]]"
-  - "[[_Standards/WikiData/WD~Detective_Casey,2632758]]"
-  - "[[_Standards/WikiData/WD~Professor_Marlin,3220073]]"
-  - "[[_Standards/WikiData/WD~Doctor_Einmug,3406823]]"
-  - "[[_Standards/WikiData/WD~Yen_Sid,3572177]]"
-  - "[[_Standards/WikiData/WD~Atomo_Bleep_Bleep,3629005]]"
-  - "[[_Standards/WikiData/WD~Percy_and_Patricia_Pigg,3897836]]"
-  - "[[_Standards/WikiData/WD~Brick_Boulder,3939715]]"
-  - "[[_Standards/WikiData/WD~Professor_Zapotec,13561352]]"
-  - "[[_Standards/WikiData/WD~Ortensia,112222916]]"
-  - "[[_Standards/WikiData/WD~Gideon_Goat,112223829]]"
-  - "[[_Standards/WikiData/WD~Salty_the_Seal,113516948]]"
-  - "[[_Standards/WikiData/WD~Donald_Duck,6550]]"
-  - "[[_Standards/WikiData/WD~Minnie_Mouse,11936]]"
-  - "[[_Standards/WikiData/WD~Scrooge_McDuck,11937]]"
-  - "[[_Standards/WikiData/WD~Huey,_Dewey,_and_Louie,11965]]"
-has_pet: "[[_Standards/WikiData/WD~Pluto,108732]]"
+  - '[[_Standards/WikiData/WD~Clara_Cluck,2464984]]'
+  - '[[_Standards/WikiData/WD~Eega_Beeva,2518996]]'
+  - '[[_Standards/WikiData/WD~Ellsworth_Bheezer,2519628]]'
+  - '[[_Standards/WikiData/WD~Detective_Casey,2632758]]'
+  - '[[_Standards/WikiData/WD~Professor_Marlin,3220073]]'
+  - '[[_Standards/WikiData/WD~Doctor_Einmug,3406823]]'
+  - '[[_Standards/WikiData/WD~Yen_Sid,3572177]]'
+  - '[[_Standards/WikiData/WD~Atomo_Bleep_Bleep,3629005]]'
+  - '[[_Standards/WikiData/WD~Percy_and_Patricia_Pigg,3897836]]'
+  - '[[_Standards/WikiData/WD~Brick_Boulder,3939715]]'
+  - '[[_Standards/WikiData/WD~Professor_Zapotec,13561352]]'
+  - '[[_Standards/WikiData/WD~Ortensia,112222916]]'
+  - '[[_Standards/WikiData/WD~Gideon_Goat,112223829]]'
+  - '[[_Standards/WikiData/WD~Salty_the_Seal,113516948]]'
+  - '[[_Standards/WikiData/WD~Donald_Duck,6550]]'
+  - '[[_Standards/WikiData/WD~Minnie_Mouse,11936]]'
+  - '[[_Standards/WikiData/WD~Scrooge_McDuck,11937]]'
+  - '[[_Standards/WikiData/WD~Huey,_Dewey,_and_Louie,11965]]'
+has_pet: '[[_Standards/WikiData/WD~Pluto,108732]]'
 present_in_work:
-  - "[[_Standards/WikiData/WD~The_Pointer,180431]]"
+  - '[[_Standards/WikiData/WD~The_Pointer,180431]]'
   - "[[_Standards/WikiData/WD~The_Gallopin'_Gaucho,615812]]"
-  - "[[_Standards/WikiData/WD~Kingdom_Hearts,755167]]"
-  - "[[_Standards/WikiData/WD~Steamboat_Willie,816038]]"
-  - "[[_Standards/WikiData/WD~Mickey,_Donald,_Goofy_The_Three_Musketeers,1150785]]"
-  - "[[_Standards/WikiData/WD~Runaway_Brain,1440760]]"
+  - '[[_Standards/WikiData/WD~Kingdom_Hearts,755167]]'
+  - '[[_Standards/WikiData/WD~Steamboat_Willie,816038]]'
+  - '[[_Standards/WikiData/WD~Mickey,_Donald,_Goofy_The_Three_Musketeers,1150785]]'
+  - '[[_Standards/WikiData/WD~Runaway_Brain,1440760]]'
   - "[[_Standards/WikiData/WD~Mickey's_Once_Upon_a_Christmas,1655222]]"
-  - "[[_Standards/WikiData/WD~Plane_Crazy,1753096]]"
-  - "[[_Standards/WikiData/WD~Brave_Little_Tailor,2095700]]"
-  - "[[_Standards/WikiData/WD~The_Prince_and_the_Pauper,2624382]]"
+  - '[[_Standards/WikiData/WD~Plane_Crazy,1753096]]'
+  - '[[_Standards/WikiData/WD~Brave_Little_Tailor,2095700]]'
+  - '[[_Standards/WikiData/WD~The_Prince_and_the_Pauper,2624382]]'
   - "[[_Standards/WikiData/WD~The_Sorcerer's_Apprentice,3202209]]"
   - "[[_Standards/WikiData/WD~Pluto's_Judgement_Day,3223678]]"
-  - "[[_Standards/WikiData/WD~Mickey_and_the_Beanstalk,20004169]]"
-  - "[[_Standards/WikiData/WD~Adventures_of_Mickey_Mouse,29110652]]"
-  - "[[_Standards/WikiData/WD~The_Catchy_Tune_Effect,52827245]]"
-  - "[[_Standards/WikiData/WD~Disney_Dreamlight_Valley,111828779]]"
-narrative_role: "[[_Standards/WikiData/WD~protagonist,215972]]"
+  - '[[_Standards/WikiData/WD~Mickey_and_the_Beanstalk,20004169]]'
+  - '[[_Standards/WikiData/WD~Adventures_of_Mickey_Mouse,29110652]]'
+  - '[[_Standards/WikiData/WD~The_Catchy_Tune_Effect,52827245]]'
+  - '[[_Standards/WikiData/WD~Disney_Dreamlight_Valley,111828779]]'
+narrative_role: '[[_Standards/WikiData/WD~protagonist,215972]]'
 voice_actor:
-  - "[[_Standards/WikiData/WD~Chris_Diamantopoulos,311980]]"
-  - "[[_Standards/WikiData/WD~Wayne_Allwine,334885]]"
-  - "[[_Standards/WikiData/WD~Carl_W._Stalling,598185]]"
-  - "[[_Standards/WikiData/WD~Bret_Iwan,1354937]]"
-  - "[[_Standards/WikiData/WD~Walt_Disney,8704]]"
-performer: "[[_Standards/WikiData/WD~Chris_Diamantopoulos,311980]]"
+  - '[[_Standards/WikiData/WD~Chris_Diamantopoulos,311980]]'
+  - '[[_Standards/WikiData/WD~Wayne_Allwine,334885]]'
+  - '[[_Standards/WikiData/WD~Carl_W._Stalling,598185]]'
+  - '[[_Standards/WikiData/WD~Bret_Iwan,1354937]]'
+  - '[[_Standards/WikiData/WD~Walt_Disney,8704]]'
+performer: '[[_Standards/WikiData/WD~Chris_Diamantopoulos,311980]]'
 contributor_to_the_creative_work_or_subject:
-  - "[[_Standards/WikiData/WD~Ub_Iwerks,336424]]"
-  - "[[_Standards/WikiData/WD~Tetsuya_Nomura,355062]]"
-  - "[[_Standards/WikiData/WD~Floyd_Gottfredson,552422]]"
-  - "[[_Standards/WikiData/WD~Fred_Moore,649801]]"
-  - "[[_Standards/WikiData/WD~Frank_Thomas,937267]]"
-  - "[[_Standards/WikiData/WD~Les_Clark,1368756]]"
-  - "[[_Standards/WikiData/WD~Mark_Henn,2396556]]"
-  - "[[_Standards/WikiData/WD~Ben_Sharpsteen,2549739]]"
-  - "[[_Standards/WikiData/WD~Preston_Blair,2657938]]"
-  - "[[_Standards/WikiData/WD~Art_Palmer,2864554]]"
-  - "[[_Standards/WikiData/WD~Dick_Lundy,3026615]]"
-  - "[[_Standards/WikiData/WD~Ed_Love,3047185]]"
-  - "[[_Standards/WikiData/WD~Johnny_Cannon,3182868]]"
-  - "[[_Standards/WikiData/WD~Marvin_Woodward,3296084]]"
-  - "[[_Standards/WikiData/WD~Riley_Thomson,3432068]]"
-  - "[[_Standards/WikiData/WD~James_Moore,28444878]]"
-  - "[[_Standards/WikiData/WD~Robert_Wickersham,29363531]]"
-  - "[[_Standards/WikiData/WD~Walt_Disney,8704]]"
-  - "[[_Standards/WikiData/WD~Andreas_Deja,64046]]"
+  - '[[_Standards/WikiData/WD~Ub_Iwerks,336424]]'
+  - '[[_Standards/WikiData/WD~Tetsuya_Nomura,355062]]'
+  - '[[_Standards/WikiData/WD~Floyd_Gottfredson,552422]]'
+  - '[[_Standards/WikiData/WD~Fred_Moore,649801]]'
+  - '[[_Standards/WikiData/WD~Frank_Thomas,937267]]'
+  - '[[_Standards/WikiData/WD~Les_Clark,1368756]]'
+  - '[[_Standards/WikiData/WD~Mark_Henn,2396556]]'
+  - '[[_Standards/WikiData/WD~Ben_Sharpsteen,2549739]]'
+  - '[[_Standards/WikiData/WD~Preston_Blair,2657938]]'
+  - '[[_Standards/WikiData/WD~Art_Palmer,2864554]]'
+  - '[[_Standards/WikiData/WD~Dick_Lundy,3026615]]'
+  - '[[_Standards/WikiData/WD~Ed_Love,3047185]]'
+  - '[[_Standards/WikiData/WD~Johnny_Cannon,3182868]]'
+  - '[[_Standards/WikiData/WD~Marvin_Woodward,3296084]]'
+  - '[[_Standards/WikiData/WD~Riley_Thomson,3432068]]'
+  - '[[_Standards/WikiData/WD~James_Moore,28444878]]'
+  - '[[_Standards/WikiData/WD~Robert_Wickersham,29363531]]'
+  - '[[_Standards/WikiData/WD~Walt_Disney,8704]]'
+  - '[[_Standards/WikiData/WD~Andreas_Deja,64046]]'
 creator:
-  - "[[_Standards/WikiData/WD~Ub_Iwerks,336424]]"
-  - "[[_Standards/WikiData/WD~Walt_Disney,8704]]"
+  - '[[_Standards/WikiData/WD~Ub_Iwerks,336424]]'
+  - '[[_Standards/WikiData/WD~Walt_Disney,8704]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~mascot_character,386208]]"
-  - "[[_Standards/WikiData/WD~comics_character,1114461]]"
-  - "[[_Standards/WikiData/WD~video_game_character,1569167]]"
-  - "[[_Standards/WikiData/WD~animated_character,15711870]]"
-  - "[[_Standards/WikiData/WD~television_character,15773317]]"
-  - "[[_Standards/WikiData/WD~film_character,15773347]]"
-  - "[[_Standards/WikiData/WD~Disney_core_universe_character,112161269]]"
-  - "[[_Standards/WikiData/WD~anthropomorphic_mouse,119228985]]"
+  - '[[_Standards/WikiData/WD~mascot_character,386208]]'
+  - '[[_Standards/WikiData/WD~comics_character,1114461]]'
+  - '[[_Standards/WikiData/WD~video_game_character,1569167]]'
+  - '[[_Standards/WikiData/WD~animated_character,15711870]]'
+  - '[[_Standards/WikiData/WD~television_character,15773317]]'
+  - '[[_Standards/WikiData/WD~film_character,15773347]]'
+  - '[[_Standards/WikiData/WD~Disney_core_universe_character,112161269]]'
+  - '[[_Standards/WikiData/WD~anthropomorphic_mouse,119228985]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Berliner_Bär,821456]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
+  - '[[_Standards/WikiData/WD~Berliner_Bär,821456]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 enemy:
-  - "[[_Standards/WikiData/WD~Mortimer_Mouse,1202011]]"
-  - "[[_Standards/WikiData/WD~Eli_Squinch,1750400]]"
-  - "[[_Standards/WikiData/WD~Phantom_Blot,1753119]]"
-  - "[[_Standards/WikiData/WD~Beagle_Boys,1798441]]"
-  - "[[_Standards/WikiData/WD~Trudy_Van_Tubb,2247742]]"
-  - "[[_Standards/WikiData/WD~Disney_Villains,2424228]]"
-  - "[[_Standards/WikiData/WD~Sylvester_Shyster,2531991]]"
-  - "[[_Standards/WikiData/WD~Willie_the_Giant,3569112]]"
-  - "[[_Standards/WikiData/WD~Kat_Nipp,3877273]]"
-  - "[[_Standards/WikiData/WD~Professor_Nefarious,10354247]]"
-  - "[[_Standards/WikiData/WD~The_Mad_Doctor,113516922]]"
-  - "[[_Standards/WikiData/WD~Pete,11947]]"
+  - '[[_Standards/WikiData/WD~Mortimer_Mouse,1202011]]'
+  - '[[_Standards/WikiData/WD~Eli_Squinch,1750400]]'
+  - '[[_Standards/WikiData/WD~Phantom_Blot,1753119]]'
+  - '[[_Standards/WikiData/WD~Beagle_Boys,1798441]]'
+  - '[[_Standards/WikiData/WD~Trudy_Van_Tubb,2247742]]'
+  - '[[_Standards/WikiData/WD~Disney_Villains,2424228]]'
+  - '[[_Standards/WikiData/WD~Sylvester_Shyster,2531991]]'
+  - '[[_Standards/WikiData/WD~Willie_the_Giant,3569112]]'
+  - '[[_Standards/WikiData/WD~Kat_Nipp,3877273]]'
+  - '[[_Standards/WikiData/WD~Professor_Nefarious,10354247]]'
+  - '[[_Standards/WikiData/WD~The_Mad_Doctor,113516922]]'
+  - '[[_Standards/WikiData/WD~Pete,11947]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Oswald_the_Lucky_Rabbit,1419509]]"
-  - "[[_Standards/WikiData/WD~Felicity_Fieldmouse,10373968]]"
-replaces: "[[_Standards/WikiData/WD~Oswald_the_Lucky_Rabbit,1419509]]"
-inspired_by: "[[_Standards/WikiData/WD~Oswald_the_Lucky_Rabbit,1419509]]"
-family: "[[_Standards/WikiData/WD~Mickey_Mouse_family,3065905]]"
-from_narrative_universe: "[[_Standards/WikiData/WD~Mickey_Mouse_universe,3260246]]"
-different_from: "[[_Standards/WikiData/WD~Topolino,3532105]]"
-given_name: "[[_Standards/WikiData/WD~Mickey,19819798]]"
-family_name: "[[_Standards/WikiData/WD~Mouse,37232904]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
+  - '[[_Standards/WikiData/WD~Oswald_the_Lucky_Rabbit,1419509]]'
+  - '[[_Standards/WikiData/WD~Felicity_Fieldmouse,10373968]]'
+replaces: '[[_Standards/WikiData/WD~Oswald_the_Lucky_Rabbit,1419509]]'
+inspired_by: '[[_Standards/WikiData/WD~Oswald_the_Lucky_Rabbit,1419509]]'
+family: '[[_Standards/WikiData/WD~Mickey_Mouse_family,3065905]]'
+from_narrative_universe: '[[_Standards/WikiData/WD~Mickey_Mouse_universe,3260246]]'
+different_from: '[[_Standards/WikiData/WD~Topolino,3532105]]'
+given_name: '[[_Standards/WikiData/WD~Mickey,19819798]]'
+family_name: '[[_Standards/WikiData/WD~Mouse,37232904]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
 relative:
-  - "[[_Standards/WikiData/WD~Ferdie_Fieldmouse,64441522]]"
-  - "[[_Standards/WikiData/WD~Morty_Fieldmouse,64441521]]"
-filmography: "[[_Standards/WikiData/WD~Mickey_Mouse_filmography,110851313]]"
-part_of: "[[_Standards/WikiData/WD~Sensational_Six,112161257]]"
+  - '[[_Standards/WikiData/WD~Ferdie_Fieldmouse,64441522]]'
+  - '[[_Standards/WikiData/WD~Morty_Fieldmouse,64441521]]'
+filmography: '[[_Standards/WikiData/WD~Mickey_Mouse_filmography,110851313]]'
+part_of: '[[_Standards/WikiData/WD~Sensational_Six,112161257]]'
 IMDb_keyword: mickey-mouse-character
 Instagram_username: mickeymouse
 Facebook_username: MickeyMouse
 YouTube_handle: MickeyMouse
 inception: 1928-11-18T00:00:00Z
 public_domain_date: 2024-01-01T00:00:00Z
-media_franchise: "[[_Standards/WikiData/WD~Mickey_Mouse_franchise,116691328]]"
-location_of_creation: "[[_Standards/WikiData/WD~The_Walt_Disney_Company,7414]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male_organism,44148]]"
+media_franchise: '[[_Standards/WikiData/WD~Mickey_Mouse_franchise,116691328]]'
+location_of_creation: '[[_Standards/WikiData/WD~The_Walt_Disney_Company,7414]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male_organism,44148]]'
 social_media_followers: 7060000
-OmegaWiki_Defined_Meaning: "359125"
+OmegaWiki_Defined_Meaning: 359125
 native_label: Mickey Mouse
 name_in_native_language: Mickey Mouse
 Commons_category: Mickey Mouse
@@ -144,8 +145,8 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Mickey%
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Topolino%20Walk%20of%20fame.jpg
 official_website: http://mickey.disney.com/mickey
 ORCID_iD: 0000-0003-2255-2095
-ISNI: "0000000359326542"
-U_S_National_Archives_Identifier: "175695101"
+ISNI: 0000000359326542
+U_S_National_Archives_Identifier: 175695101
 Wolfram_Language_entity_code:
   - Entity["Concept", "MickeyMouse::qntb9"]
   - Entity["FictionalCharacter", "MickeyMouse"]

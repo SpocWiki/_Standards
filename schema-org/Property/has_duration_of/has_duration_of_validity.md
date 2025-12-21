@@ -4,20 +4,21 @@ aliases:
   - valid_for
   - validFor
   - has_duration_of_validity
+  - has duration of validity
 confidential: public
 cssclasses:
   - Predicate
   - Duration
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
-layout:
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Durations

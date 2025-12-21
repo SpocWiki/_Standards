@@ -2,21 +2,22 @@
 aliases:
   - is_about
   - has_as_subject
+  - is about
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - about
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_about
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

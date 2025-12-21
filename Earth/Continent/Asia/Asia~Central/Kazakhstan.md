@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Kazakhstan
+  - Kazajstán
+  - كازاخستان
+  - 哈萨克斯坦
+  - Казахстан
+  - the Republic of Kazakhstan
+  - la República de Kazajstán
+has_id_wikidata: Q232
 named_after: "[[_Standards/WikiData/WD~Kazakhs,80040]]"
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
@@ -270,7 +279,7 @@ BTI_Governance_Index:
   - 4.67
   - 4.71
   - 4.72
-inception: "1991"
+inception: 1991
 has_time_started: 1991-06
 Commons_category: Kazakhstan
 subreddit: Kazakhstan
@@ -335,7 +344,6 @@ motto_text:
 country_calling_code: 7
 coordinate_location: Point(68.0 48.0)
 population: 20139914
-has_id_wikidata: Q232
 location:
   - 51.1667
   - 71.4167
@@ -352,20 +360,12 @@ cssclasses:
   - Country
 publish: true
 title: Kazakhstan
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Kazakhstan
-  - Kazajstán
-  - كازاخستان
-  - 哈萨克斯坦
-  - Казахстан
-  - the Republic of Kazakhstan
-  - la República de Kazajstán
+publishDate: ""
+expiryDate: ""
 Languages:
   - kk
   - ru

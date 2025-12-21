@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~HinduTemple
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/HinduTemple
-- class/Thing/Place/CivicStructure/PlaceOfWorship/HinduTemple
-- is_a_/HinduTemple
-- schema-org/HinduTemple
+  - class/HinduTemple
+  - class/Thing/Place/CivicStructure/PlaceOfWorship/HinduTemple
+  - is_a_/HinduTemple
+  - schema-org/HinduTemple
 tags:
-- class/FileClass
-- class/HinduTemple
-- is_a_/HinduTemple
-- class/Thing/Place/CivicStructure/PlaceOfWorship/HinduTemple
+  - class/FileClass
+  - class/HinduTemple
+  - is_a_/HinduTemple
+  - class/Thing/Place/CivicStructure/PlaceOfWorship/HinduTemple
 version: 2.0
 ---
 

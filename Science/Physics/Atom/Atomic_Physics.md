@@ -1,15 +1,18 @@
 ---
+aliases:
+  - Atomic_Physics
+  - Atomic Physics
 has_id_wikidata: Q26383
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~electron_shell,193793]]"
-  - "[[_Standards/WikiData/WD~atom,9121]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
+  - '[[_Standards/WikiData/WD~electron_shell,193793]]'
+  - '[[_Standards/WikiData/WD~atom,9121]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/atomic-physics
-practiced_by: "[[_Standards/WikiData/WD~atomic_physicist,105627120]]"
+practiced_by: '[[_Standards/WikiData/WD~atomic_physicist,105627120]]'
 part_of:
-  - "[[_Standards/WikiData/WD~atomic_and_molecular_physics,113041763]]"
-  - "[[_Standards/WikiData/WD~physics,413]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[_Standards/WikiData/WD~atomic_and_molecular_physics,113041763]]'
+  - '[[_Standards/WikiData/WD~physics,413]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3%E0%A6%AC%E0%A6%BF%E0%A6%95%20%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8.wav
 Commons_category: Atomic physics
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bohr%20atom%20model.svg

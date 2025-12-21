@@ -4,20 +4,22 @@ aliases:
   - 3d_model
   - 3DModel
   - is_a_3d_model
+  - 3d_Model
+  - 3d Model
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - 3d_model
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_3d_model Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -3,23 +3,24 @@ aliases:
   - has nonprofit-status
   - nonprofitStatus
   - has_nonprofit_status
+  - has nonprofit status
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - nonprofit_status
   - nonprofit
   - status
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_nonprofit_status
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -4,21 +4,23 @@ aliases:
   - unincorporated_association_charity
   - UnincorporatedAssociationCharity
   - is_an_unincorporated_association_charity
+  - Unincorporated_Association_Charity
+  - Unincorporated Association Charity
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: UKNonprofitType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - unincorporated_association_charity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_unincorporated_association_charity Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

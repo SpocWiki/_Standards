@@ -1,12 +1,13 @@
 ---
 aliases:
   - has_arrival_boat_terminal
+  - has arrival boat terminal
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -14,11 +15,11 @@ keywords:
   - boat
   - terminal
   - arrivalBoatTerminal
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_arrival_boat_terminal
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

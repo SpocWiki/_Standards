@@ -1,31 +1,14 @@
 ---
+aliases:
+  - Apparent_magnitude
+  - Apparent magnitude
 has_id_wikidata: Q124313
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-  - "[[_Standards/WikiData/WD~dimensionless_quantity,126818]]"
-  - "[[_Standards/WikiData/WD~magnitude,2028919]]"
-quantity_symbol_LaTeX_: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle m}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <mi>m</mi>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle m}</annotation>
-    </semantics>
-  </math>
-ISQ_dimension: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle 1}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <mn>1</mn>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
-    </semantics>
-  </math>
+  - '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+  - '[[_Standards/WikiData/WD~dimensionless_quantity,126818]]'
+  - '[[_Standards/WikiData/WD~magnitude,2028919]]'
+quantity_symbol_LaTeX_: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle m}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>m</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle m}</annotation>\n  </semantics>\n</math>"
+ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle 1}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mn>1</mn>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle 1}</annotation>\n  </semantics>\n</math>"
 Wikidata_property: apparent magnitude
 image: http://commons.wikimedia.org/wiki/Special:FilePath/65Cyb-LB3-apmag.jpg
 IEV_number: 845-21-097

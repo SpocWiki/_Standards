@@ -29,12 +29,12 @@ cssclasses:
   - Country
 publish: true
 title: Russia
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 Languages:
   - ru
   - tt

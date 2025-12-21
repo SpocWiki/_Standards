@@ -7,20 +7,23 @@ aliases:
   - composition
   - Komposition
   - is_a_music_composition
+  - Music_Composition
+  - Music Composition
+has_id_wikidata: Q105543609
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - music_composition
-layout: 
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_music_composition Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
   - class/Class
   - excalidraw
@@ -30,24 +33,23 @@ excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 has_Template:
-  - "[[Extract~Note~Template]]"
+  - '[[Extract~Note~Template]]'
 has_time_started:
-  "{ \"date:YYYY-MM-DD\": null }": 
+  '{ "date:YYYY-MM-DD": null }': ''
 lang: en
-has_id_wikidata: Q105543609
 different_from:
-  - "[[_Standards/WikiData/WD~composed_musical_work,207628]]"
-  - "[[_Standards/WikiData/WD~musical_work,2188189]]"
-  - "[[_Standards/WikiData/WD~music_composing,11895763]]"
-  - "[[_Standards/WikiData/WD~music,115484611]]"
+  - '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
+  - '[[_Standards/WikiData/WD~musical_work,2188189]]'
+  - '[[_Standards/WikiData/WD~music_composing,11895763]]'
+  - '[[_Standards/WikiData/WD~music,115484611]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~musical_work,2188189]]"
-  - "[[_Standards/WikiData/WD~intellectual_work,15621286]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Music,5830855]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_musical_composition,11126863]]"
-fabrication_method: "[[_Standards/WikiData/WD~music_composing,11895763]]"
-instance_of: "[[_Standards/WikiData/WD~metaclass,19478619]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~musical_work,114798209]]"
+  - '[[_Standards/WikiData/WD~musical_work,2188189]]'
+  - '[[_Standards/WikiData/WD~intellectual_work,15621286]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Music,5830855]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_musical_composition,11126863]]'
+fabrication_method: '[[_Standards/WikiData/WD~music_composing,11895763]]'
+instance_of: '[[_Standards/WikiData/WD~metaclass,19478619]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~musical_work,114798209]]'
 inappropriate_property_for_this_type:
   - record label
   - subclass of

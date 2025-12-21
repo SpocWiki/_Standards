@@ -2,6 +2,7 @@
 aliases:
   - jetty
   - mole
+  - Breakwater
 has_id_wikidata: Q215635
 ---
 

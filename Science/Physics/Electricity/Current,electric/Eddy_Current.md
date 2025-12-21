@@ -3,6 +3,8 @@ aliases:
   - Wirbelstrom
   - Foucault's current
   - eddy current
+  - Eddy_Current
+  - Eddy Current
 has_id_wikidata: Q208598
 ---
 

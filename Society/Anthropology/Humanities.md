@@ -2,54 +2,55 @@
 aliases:
   - Geisteswissenschaft
   - Geisteswissenschaften
+  - Humanities
 has_id_wikidata: Q80083
 has_part_s_:
-  - "[[_Standards/WikiData/WD~political_philosophy,179805]]"
-  - "[[_Standards/WikiData/WD~literary_theory,459381]]"
-  - "[[_Standards/WikiData/WD~classics,841090]]"
-  - "[[_Standards/WikiData/WD~arts,2018526]]"
-  - "[[_Standards/WikiData/WD~history,309]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~linguistics,8162]]"
-  - "[[_Standards/WikiData/WD~anthropology,23404]]"
-  - "[[_Standards/WikiData/WD~archaeology,23498]]"
-  - "[[_Standards/WikiData/WD~religious_studies,34187]]"
+  - '[[_Standards/WikiData/WD~political_philosophy,179805]]'
+  - '[[_Standards/WikiData/WD~literary_theory,459381]]'
+  - '[[_Standards/WikiData/WD~classics,841090]]'
+  - '[[_Standards/WikiData/WD~arts,2018526]]'
+  - '[[_Standards/WikiData/WD~history,309]]'
+  - '[[_Standards/WikiData/WD~philosophy,5891]]'
+  - '[[_Standards/WikiData/WD~linguistics,8162]]'
+  - '[[_Standards/WikiData/WD~anthropology,23404]]'
+  - '[[_Standards/WikiData/WD~archaeology,23498]]'
+  - '[[_Standards/WikiData/WD~religious_studies,34187]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~Geisteswissenschaften,944537]]"
-  - "[[_Standards/WikiData/WD~social_studies,14565700]]"
-  - "[[_Standards/WikiData/WD~social_science,34749]]"
+  - '[[_Standards/WikiData/WD~Geisteswissenschaften,944537]]'
+  - '[[_Standards/WikiData/WD~social_studies,14565700]]'
+  - '[[_Standards/WikiData/WD~social_science,34749]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~class,16889133]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~human_science,1587903]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Humanities,6684096]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_humanities,7112793]]"
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~class,16889133]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~human_science,1587903]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Humanities,6684096]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_humanities,7112793]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~social_sciences_and_humanities,33122512]]"
-has_characteristic: "[[_Standards/WikiData/WD~faculty_of_humanities,12011063]]"
-practiced_by: "[[_Standards/WikiData/WD~humanities_scholar,16727193]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Humanities,19362100]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_humanities,113192456]]"
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~social_sciences_and_humanities,33122512]]'
+has_characteristic: '[[_Standards/WikiData/WD~faculty_of_humanities,12011063]]'
+practiced_by: '[[_Standards/WikiData/WD~humanities_scholar,16727193]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Humanities,19362100]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_humanities,113192456]]'
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~history,309]]"
-  - "[[_Standards/WikiData/WD~language,315]]"
-  - "[[_Standards/WikiData/WD~art,735]]"
-  - "[[_Standards/WikiData/WD~literature,8242]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
-  - "[[_Standards/WikiData/WD~history_of_philosophy,27654]]"
+  - '[[_Standards/WikiData/WD~history,309]]'
+  - '[[_Standards/WikiData/WD~language,315]]'
+  - '[[_Standards/WikiData/WD~art,735]]'
+  - '[[_Standards/WikiData/WD~literature,8242]]'
+  - '[[_Standards/WikiData/WD~religion,9174]]'
+  - '[[_Standards/WikiData/WD~history_of_philosophy,27654]]'
 All_Science_Journal_Classification_Codes:
-  - "1201"
-  - "1200"
-U_S_National_Archives_Identifier: "10640595"
+  - 1201
+  - 1200
+U_S_National_Archives_Identifier: 10640595
 MeSH_tree_code: K01
 Commons_category: Humanities
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Head%20Platon%20Glyptothek%20Munich%20548.jpg
 Mastodon_instance_URL: https://zirk.us
-Dewey_Decimal_Classification: "001.3"
+Dewey_Decimal_Classification: 001.3
 Iconclass_notation: 49C17
 UMLS_CUI: C0020157
 ---

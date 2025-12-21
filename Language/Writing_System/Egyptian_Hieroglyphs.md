@@ -3,26 +3,28 @@ aliases:
   - Egyptian hieroglyphs
   - hieroglyphs
   - hieroglyph
+  - Egyptian_Hieroglyphs
+  - Egyptian Hieroglyphs
 has_id_wikidata: Q132659
-subclass_of: "[[_Standards/WikiData/WD~hieroglyph,193762]]"
+subclass_of: '[[_Standards/WikiData/WD~hieroglyph,193762]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~logographic_writing_system,3953107]]"
-  - "[[_Standards/WikiData/WD~unicase_alphabet,4004706]]"
-  - "[[_Standards/WikiData/WD~natural_writing_system,29517555]]"
-  - "[[_Standards/WikiData/WD~writing_system,8192]]"
+  - '[[_Standards/WikiData/WD~logographic_writing_system,3953107]]'
+  - '[[_Standards/WikiData/WD~unicase_alphabet,4004706]]'
+  - '[[_Standards/WikiData/WD~natural_writing_system,29517555]]'
+  - '[[_Standards/WikiData/WD~writing_system,8192]]'
 script_directionality:
-  - "[[_Standards/WikiData/WD~right_to_left,7333457]]"
-  - "[[_Standards/WikiData/WD~left_to_right,17321844]]"
-  - "[[_Standards/WikiData/WD~top_to_bottom,17321917]]"
-  - "[[_Standards/WikiData/WD~bottom_to_top,17322076]]"
+  - '[[_Standards/WikiData/WD~right_to_left,7333457]]'
+  - '[[_Standards/WikiData/WD~left_to_right,17321844]]'
+  - '[[_Standards/WikiData/WD~top_to_bottom,17321917]]'
+  - '[[_Standards/WikiData/WD~bottom_to_top,17322076]]'
 end_time: 0400-01-01T00:00:00Z
 inception: -3199-01-01T00:00:00Z
-locations: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~Egyptian,50868]]"
-ISO_15924_numeric_code: "050"
+locations: '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Egyptian,50868]]'
+ISO_15924_numeric_code: 050
 name:
   - hiéroglyphes égyptiens
   - Egyptian Hieroglyphs

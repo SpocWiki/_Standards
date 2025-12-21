@@ -5,37 +5,38 @@ aliases:
   - Ouest
   - West
   - western
+  - Direction~West
 has_id_wikidata: Q679
 different_from:
-  - "[[_Standards/WikiData/WD~Vest,176845]]"
-  - "[[_Standards/WikiData/WD~West,225822]]"
-  - "[[_Standards/WikiData/WD~Ouest,356190]]"
-  - "[[_Standards/WikiData/WD~Barat,410022]]"
-  - "[[_Standards/WikiData/WD~Oeste,1183149]]"
-  - "[[_Standards/WikiData/WD~Oest,1304787]]"
-  - "[[_Standards/WikiData/WD~Lehndi,1334774]]"
-  - "[[_Standards/WikiData/WD~Western_Punjabi,1389492]]"
-  - "[[_Standards/WikiData/WD~Ponente,1858399]]"
-  - "[[_Standards/WikiData/WD~Westen,1922947]]"
-  - "[[_Standards/WikiData/WD~Wast,2552209]]"
-  - "[[_Standards/WikiData/WD~Zapad,10553801]]"
-  - "[[_Standards/WikiData/WD~西,51350747]]"
-  - "[[_Standards/WikiData/WD~Vakarai,61429662]]"
-  - "[[_Standards/WikiData/WD~Lahnda,112670533]]"
+  - '[[_Standards/WikiData/WD~Vest,176845]]'
+  - '[[_Standards/WikiData/WD~West,225822]]'
+  - '[[_Standards/WikiData/WD~Ouest,356190]]'
+  - '[[_Standards/WikiData/WD~Barat,410022]]'
+  - '[[_Standards/WikiData/WD~Oeste,1183149]]'
+  - '[[_Standards/WikiData/WD~Oest,1304787]]'
+  - '[[_Standards/WikiData/WD~Lehndi,1334774]]'
+  - '[[_Standards/WikiData/WD~Western_Punjabi,1389492]]'
+  - '[[_Standards/WikiData/WD~Ponente,1858399]]'
+  - '[[_Standards/WikiData/WD~Westen,1922947]]'
+  - '[[_Standards/WikiData/WD~Wast,2552209]]'
+  - '[[_Standards/WikiData/WD~Zapad,10553801]]'
+  - '[[_Standards/WikiData/WD~西,51350747]]'
+  - '[[_Standards/WikiData/WD~Vakarai,61429662]]'
+  - '[[_Standards/WikiData/WD~Lahnda,112670533]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~points_of_the_compass,11114344]]"
-  - "[[_Standards/WikiData/WD~cardinal_direction,23718]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q21200422,21200422]]"
-opposite_of: "[[_Standards/WikiData/WD~east,684]]"
+  - '[[_Standards/WikiData/WD~points_of_the_compass,11114344]]'
+  - '[[_Standards/WikiData/WD~cardinal_direction,23718]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21200422,21200422]]'
+opposite_of: '[[_Standards/WikiData/WD~east,684]]'
 position_angle: 270
-OmegaWiki_Defined_Meaning: "7537"
+OmegaWiki_Defined_Meaning: 7537
 Commons_category: West
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CompassRose%20%28mul%29%2016%20blue%20W.svg
 Iconclass_notation: 25A144

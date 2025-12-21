@@ -4,20 +4,22 @@ aliases:
   - price_specification
   - PriceSpecification
   - is_a_price_specification
+  - Price_Specification
+  - Price Specification
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - price_specification
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_price_specification Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

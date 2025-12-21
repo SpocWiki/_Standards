@@ -4,75 +4,76 @@ aliases:
   - Daniel Day-Lewis
   - Daniel Michael Blake Day-Lewis
   - Day-Lewis
+  - Day-Lewis,Daniel
 has_id_wikidata: Q166389
 date_of_birth: 1957-04-29T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Day-Lewis%2C%20Jaguar%2C%20Mille%20Miglia%202013%20cropped.jpg
-ISNI: "0000000121461760"
+ISNI: 0000000121461760
 Plex_person_key: 5d7768282ec6b5001f6ba689
 Facebook_username: DanielDayLewis
 name_in_native_language: Daniel Day-Lewis
 birth_name: Daniel Michael Blake Day
 work_period_end_: 2017-01-01T00:00:00Z
 relative:
-  - "[[_Standards/WikiData/WD~Arthur_Miller,80596]]"
-  - "[[_Standards/WikiData/WD~Michael_Balcon,1362106]]"
+  - '[[_Standards/WikiData/WD~Arthur_Miller,80596]]'
+  - '[[_Standards/WikiData/WD~Michael_Balcon,1362106]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
-  - "[[_Standards/WikiData/WD~European_Film_Award_for_Best_Actor,932281]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+  - '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Actor,932281]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]"
-  - "[[_Standards/WikiData/WD~Knight_Bachelor,833163]]"
-  - "[[_Standards/WikiData/WD~Alliance_of_Women_Film_Journalists_Award_for_Best_Actor,25338504]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Isabelle_Adjani,106383]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]'
+  - '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
+  - '[[_Standards/WikiData/WD~Alliance_of_Women_Film_Journalists_Award_for_Best_Actor,25338504]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Isabelle_Adjani,106383]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~The_Last_of_the_Mohicans,144483]]"
-  - "[[_Standards/WikiData/WD~Gangs_of_New_York,154581]]"
-  - "[[_Standards/WikiData/WD~There_Will_Be_Blood,244315]]"
-  - "[[_Standards/WikiData/WD~In_the_Name_of_the_Father,304074]]"
-  - "[[_Standards/WikiData/WD~My_Left_Foot,746574]]"
-  - "[[_Standards/WikiData/WD~Lincoln,32433]]"
+  - '[[_Standards/WikiData/WD~The_Last_of_the_Mohicans,144483]]'
+  - '[[_Standards/WikiData/WD~Gangs_of_New_York,154581]]'
+  - '[[_Standards/WikiData/WD~There_Will_Be_Blood,244315]]'
+  - '[[_Standards/WikiData/WD~In_the_Name_of_the_Father,304074]]'
+  - '[[_Standards/WikiData/WD~My_Left_Foot,746574]]'
+  - '[[_Standards/WikiData/WD~Lincoln,32433]]'
 ethnic_group:
-  - "[[_Standards/WikiData/WD~Irish_people,170826]]"
-  - "[[_Standards/WikiData/WD~Jewish_people,7325]]"
-  - "[[_Standards/WikiData/WD~English_people,42406]]"
-residence: "[[_Standards/WikiData/WD~County_Wicklow,182591]]"
+  - '[[_Standards/WikiData/WD~Irish_people,170826]]'
+  - '[[_Standards/WikiData/WD~Jewish_people,7325]]'
+  - '[[_Standards/WikiData/WD~English_people,42406]]'
+residence: '[[_Standards/WikiData/WD~County_Wicklow,182591]]'
 place_of_birth:
-  - "[[_Standards/WikiData/WD~Kensington,288781]]"
-  - "[[_Standards/WikiData/WD~London,84]]"
-member_of: "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
+  - '[[_Standards/WikiData/WD~Kensington,288781]]'
+  - '[[_Standards/WikiData/WD~London,84]]'
+member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
 occupation:
-  - "[[_Standards/WikiData/WD~artist,483501]]"
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-spouse: "[[_Standards/WikiData/WD~Rebecca_Miller,508184]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~agnostic_atheism,517609]]"
+  - '[[_Standards/WikiData/WD~artist,483501]]'
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+spouse: '[[_Standards/WikiData/WD~Rebecca_Miller,508184]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~agnostic_atheism,517609]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Bristol_Old_Vic_Theatre_School,608723]]"
-  - "[[_Standards/WikiData/WD~Sevenoaks_School,2275185]]"
-  - "[[_Standards/WikiData/WD~Bedales_School,2893526]]"
-noble_title: "[[_Standards/WikiData/WD~Knight_Bachelor,833163]]"
-father: "[[_Standards/WikiData/WD~Cecil_Day_Lewis,954383]]"
-mother: "[[_Standards/WikiData/WD~Jill_Balcon,3178689]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-sibling: "[[_Standards/WikiData/WD~Tamasin_Day_Lewis,7680944]]"
-given_name: "[[_Standards/WikiData/WD~Daniel,14516546]]"
-family_name: "[[_Standards/WikiData/WD~Day_Lewis,56538126]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - '[[_Standards/WikiData/WD~Bristol_Old_Vic_Theatre_School,608723]]'
+  - '[[_Standards/WikiData/WD~Sevenoaks_School,2275185]]'
+  - '[[_Standards/WikiData/WD~Bedales_School,2893526]]'
+noble_title: '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
+father: '[[_Standards/WikiData/WD~Cecil_Day_Lewis,954383]]'
+mother: '[[_Standards/WikiData/WD~Jill_Balcon,3178689]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+sibling: '[[_Standards/WikiData/WD~Tamasin_Day_Lewis,7680944]]'
+given_name: '[[_Standards/WikiData/WD~Daniel,14516546]]'
+family_name: '[[_Standards/WikiData/WD~Day_Lewis,56538126]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 child:
-  - "[[_Standards/WikiData/WD~Gabriel_Kane_Day_Lewis,109373705]]"
-  - "[[_Standards/WikiData/WD~Ronan_Day_Lewis,109373742]]"
-  - "[[_Standards/WikiData/WD~Cashel_Day_Lewis,109373760]]"
-field_of_work: "[[_Standards/WikiData/WD~film_acting,115160932]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-genre: "[[_Standards/WikiData/WD~drama,25372]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Gabriel_Kane_Day_Lewis,109373705]]'
+  - '[[_Standards/WikiData/WD~Ronan_Day_Lewis,109373742]]'
+  - '[[_Standards/WikiData/WD~Cashel_Day_Lewis,109373760]]'
+field_of_work: '[[_Standards/WikiData/WD~film_acting,115160932]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+genre: '[[_Standards/WikiData/WD~drama,25372]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Ireland,27]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~Ireland,27]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 Commons_gallery: Daniel Day-Lewis
 Commons_category: Daniel Day-Lewis
 work_period_start_: 1971-01-01T00:00:00Z

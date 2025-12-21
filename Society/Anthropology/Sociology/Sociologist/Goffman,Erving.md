@@ -3,6 +3,7 @@ aliases:
   - Erving_Goffman
   - Erving Goffman
   - Goffman
+  - Goffman,Erving
 has_id_wikidata: Q314471
 ---
 

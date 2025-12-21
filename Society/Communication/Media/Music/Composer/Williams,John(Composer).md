@@ -4,11 +4,12 @@ aliases:
   - John Towner Williams
   - John Williams
   - Williams
+  - Williams,John(Composer)
 has_id_wikidata: Q131285
 confidential: private
 cssclasses: private note
 draft: true
-expiryDate:
+expiryDate: ''
 has_time_started: 2023-12-03
 isDeleted: false
 isReadOnly: false
@@ -16,118 +17,118 @@ Key: Value
 keywords:
   - John_Williams
 lang: en
-layout:
+layout: ''
 license: (c)copyrighted
 linkTitle: John_Williams
-Predicate: "[[Object]]"
+Predicate: '[[Object]]'
 publish: false
-publishDate:
+publishDate: ''
 tags:
   - John_Williams
   - rather use
 title: John_Williams
 type: private note
 instrument:
-  - "[[_Standards/WikiData/WD~harpsichord,81982]]"
-  - "[[_Standards/WikiData/WD~baritone_saxophone,808218]]"
-  - "[[_Standards/WikiData/WD~bass,810447]]"
-  - "[[_Standards/WikiData/WD~piano,5994]]"
-  - "[[_Standards/WikiData/WD~bass_clarinet,8345]]"
+  - '[[_Standards/WikiData/WD~harpsichord,81982]]'
+  - '[[_Standards/WikiData/WD~baritone_saxophone,808218]]'
+  - '[[_Standards/WikiData/WD~bass,810447]]'
+  - '[[_Standards/WikiData/WD~piano,5994]]'
+  - '[[_Standards/WikiData/WD~bass_clarinet,8345]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Original_Score,1422140]]"
-  - "[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Musical_Score,1535128]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Musical_Score,4671338]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Musical_or_Comedy_Score,22235305]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_Score,22235329]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song_Score,22344608]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,_no_Musical,22752734]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Score,_Adaptation_or_Treatment,22752811]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Original_Score,1422140]]'
+  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Musical_Score,1535128]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Musical_Score,4671338]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Musical_or_Comedy_Score,22235305]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_Score,22235329]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song_Score,22344608]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,_no_Musical,22752734]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Score,_Adaptation_or_Treatment,22752811]]'
 occupation:
-  - "[[_Standards/WikiData/WD~conductor,158852]]"
-  - "[[_Standards/WikiData/WD~pianist,486748]]"
-  - "[[_Standards/WikiData/WD~film_score_composer,1415090]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Anne_Frank_House,165366]]"
+  - '[[_Standards/WikiData/WD~conductor,158852]]'
+  - '[[_Standards/WikiData/WD~pianist,486748]]'
+  - '[[_Standards/WikiData/WD~film_score_composer,1415090]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Anne_Frank_House,165366]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_California,_Los_Angeles,174710]]"
-  - "[[_Standards/WikiData/WD~Accademia_Musicale_Chigiana,338372]]"
-  - "[[_Standards/WikiData/WD~Juilliard_School,503246]]"
-  - "[[_Standards/WikiData/WD~North_Hollywood_High_School,2000700]]"
-  - "[[_Standards/WikiData/WD~Glendale_High_School,5568361]]"
-  - "[[_Standards/WikiData/WD~UCLA_Herb_Alpert_School_of_Music,30672306]]"
+  - '[[_Standards/WikiData/WD~University_of_California,_Los_Angeles,174710]]'
+  - '[[_Standards/WikiData/WD~Accademia_Musicale_Chigiana,338372]]'
+  - '[[_Standards/WikiData/WD~Juilliard_School,503246]]'
+  - '[[_Standards/WikiData/WD~North_Hollywood_High_School,2000700]]'
+  - '[[_Standards/WikiData/WD~Glendale_High_School,5568361]]'
+  - '[[_Standards/WikiData/WD~UCLA_Herb_Alpert_School_of_Music,30672306]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Columbia_Records,183387]]"
-  - "[[_Standards/WikiData/WD~Philips_Records,1536003]]"
-  - "[[_Standards/WikiData/WD~20th_Century_Fox_Records,1780995]]"
-  - "[[_Standards/WikiData/WD~MCA_Records,2338889]]"
-  - "[[_Standards/WikiData/WD~Philips_Classics_Records,7185509]]"
-  - "[[_Standards/WikiData/WD~Sony_Classical,7562453]]"
+  - '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
+  - '[[_Standards/WikiData/WD~Philips_Records,1536003]]'
+  - '[[_Standards/WikiData/WD~20th_Century_Fox_Records,1780995]]'
+  - '[[_Standards/WikiData/WD~MCA_Records,2338889]]'
+  - '[[_Standards/WikiData/WD~Philips_Classics_Records,7185509]]'
+  - '[[_Standards/WikiData/WD~Sony_Classical,7562453]]'
 award_received:
-  - "[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]"
-  - "[[_Standards/WikiData/WD~Classic_Brit_Awards,1096102]]"
-  - "[[_Standards/WikiData/WD~Saturn_Award_for_Best_Music,1757366]]"
-  - "[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_the_Arts,3319305]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Score_Soundtrack_for_Visual_Media,4376972]]"
-  - "[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Instrumental_Composition,13635451]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_Score,22235329]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song_Score,22344608]]"
-  - "[[_Standards/WikiData/WD~Honorary_Knight_Commander_of_the_Order_of_the_British_Empire,104783495]]"
-discography: "[[_Standards/WikiData/WD~John_Williams_discography,431063]]"
-member_of: "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-field_of_work: "[[_Standards/WikiData/WD~film_score,492264]]"
-spouse: "[[_Standards/WikiData/WD~Barbara_Ruick,527841]]"
-genre: "[[_Standards/WikiData/WD~contemporary_classical_music,612024]]"
-copyright_representative: "[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]"
-child: "[[_Standards/WikiData/WD~Joseph_Williams,957024]]"
-different_from: "[[_Standards/WikiData/WD~John_Williams,1101369]]"
+  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
+  - '[[_Standards/WikiData/WD~Classic_Brit_Awards,1096102]]'
+  - '[[_Standards/WikiData/WD~Saturn_Award_for_Best_Music,1757366]]'
+  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_the_Arts,3319305]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Score_Soundtrack_for_Visual_Media,4376972]]'
+  - '[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Instrumental_Composition,13635451]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_Score,22235329]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song_Score,22344608]]'
+  - '[[_Standards/WikiData/WD~Honorary_Knight_Commander_of_the_Order_of_the_British_Empire,104783495]]'
+discography: '[[_Standards/WikiData/WD~John_Williams_discography,431063]]'
+member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+field_of_work: '[[_Standards/WikiData/WD~film_score,492264]]'
+spouse: '[[_Standards/WikiData/WD~Barbara_Ruick,527841]]'
+genre: '[[_Standards/WikiData/WD~contemporary_classical_music,612024]]'
+copyright_representative: '[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]'
+child: '[[_Standards/WikiData/WD~Joseph_Williams,957024]]'
+different_from: '[[_Standards/WikiData/WD~John_Williams,1101369]]'
 notable_work:
   - "[[_Standards/WikiData/WD~Schindler's_List,1137740]]"
   - "[[_Standards/WikiData/WD~Harry_Potter_and_the_Philosopher's_Stone_Music_From_and_Inspired_by_the_Motion_Picture,1138738]]"
-  - "[[_Standards/WikiData/WD~Harry_Potter_and_the_Prisoner_of_Azkaban_Music_From_And_Inspired_By_The_Motion_Picture,1148607]]"
-  - "[[_Standards/WikiData/WD~music_of_Star_Wars,2061394]]"
-  - "[[_Standards/WikiData/WD~E.T._the_Extra_Terrestrial_Music_from_the_Original_Soundtrack,3717101]]"
-  - "[[_Standards/WikiData/WD~Empire_of_the_Sun_Original_Motion_Picture_Soundtrack,3724830]]"
-  - "[[_Standards/WikiData/WD~Jurassic_Park,3811376]]"
-  - "[[_Standards/WikiData/WD~Saving_Private_Ryan,3945916]]"
-  - "[[_Standards/WikiData/WD~Raiders_of_the_Lost_Ark,4047980]]"
-  - "[[_Standards/WikiData/WD~1988_Summer_Olympics_Album_One_Moment_in_Time,4584721]]"
-  - "[[_Standards/WikiData/WD~A.I._Artificial_Intelligence_Music_From_The_Motion_Picture,4647188]]"
+  - '[[_Standards/WikiData/WD~Harry_Potter_and_the_Prisoner_of_Azkaban_Music_From_And_Inspired_By_The_Motion_Picture,1148607]]'
+  - '[[_Standards/WikiData/WD~music_of_Star_Wars,2061394]]'
+  - '[[_Standards/WikiData/WD~E.T._the_Extra_Terrestrial_Music_from_the_Original_Soundtrack,3717101]]'
+  - '[[_Standards/WikiData/WD~Empire_of_the_Sun_Original_Motion_Picture_Soundtrack,3724830]]'
+  - '[[_Standards/WikiData/WD~Jurassic_Park,3811376]]'
+  - '[[_Standards/WikiData/WD~Saving_Private_Ryan,3945916]]'
+  - '[[_Standards/WikiData/WD~Raiders_of_the_Lost_Ark,4047980]]'
+  - '[[_Standards/WikiData/WD~1988_Summer_Olympics_Album_One_Moment_in_Time,4584721]]'
+  - '[[_Standards/WikiData/WD~A.I._Artificial_Intelligence_Music_From_The_Motion_Picture,4647188]]'
   - "[[_Standards/WikiData/WD~Angela's_Ashes_Music_from_the_Motion_Picture,4762349]]"
-  - "[[_Standards/WikiData/WD~Catch_Me_If_You_Can,5051659]]"
-  - "[[_Standards/WikiData/WD~Home_Alone_Original_Motion_Picture_Soundtrack,5888198]]"
-  - "[[_Standards/WikiData/WD~Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull_Original_Motion_Picture_Soundtrack,6023272]]"
-  - "[[_Standards/WikiData/WD~Indiana_Jones_and_the_Last_Crusade,6023281]]"
-  - "[[_Standards/WikiData/WD~Memoirs_of_a_Geisha_Original_Motion_Picture_Soundtrack,6815278]]"
-  - "[[_Standards/WikiData/WD~Munich_Original_Motion_Picture_Soundtrack,6936088]]"
-  - "[[_Standards/WikiData/WD~The_Lost_World_Jurassic_Park,7748781]]"
-  - "[[_Standards/WikiData/WD~The_Patriot_Original_Motion_Picture_Score,7756353]]"
-  - "[[_Standards/WikiData/WD~JFK,17092870]]"
-  - "[[_Standards/WikiData/WD~SpaceCamp,17142824]]"
-  - "[[_Standards/WikiData/WD~The_Adventures_of_Tintin_The_Secret_of_the_Unicorn,18655103]]"
-  - "[[_Standards/WikiData/WD~Theme_from_Close_Encounters_of_the_Third_Kind,30590368]]"
-  - "[[_Standards/WikiData/WD~Close_Encounters_of_the_Third_Kind_(soundtrack),48741603]]"
-  - "[[_Standards/WikiData/WD~Seven_Years_in_Tibet,110570670]]"
-  - "[[_Standards/WikiData/WD~Theme_from_Superman_(Main_Title),110651445]]"
-  - "[[_Standards/WikiData/WD~The_Fabelmans,115131335]]"
-  - "[[_Standards/WikiData/WD~Minority_Report,115519603]]"
+  - '[[_Standards/WikiData/WD~Catch_Me_If_You_Can,5051659]]'
+  - '[[_Standards/WikiData/WD~Home_Alone_Original_Motion_Picture_Soundtrack,5888198]]'
+  - '[[_Standards/WikiData/WD~Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull_Original_Motion_Picture_Soundtrack,6023272]]'
+  - '[[_Standards/WikiData/WD~Indiana_Jones_and_the_Last_Crusade,6023281]]'
+  - '[[_Standards/WikiData/WD~Memoirs_of_a_Geisha_Original_Motion_Picture_Soundtrack,6815278]]'
+  - '[[_Standards/WikiData/WD~Munich_Original_Motion_Picture_Soundtrack,6936088]]'
+  - '[[_Standards/WikiData/WD~The_Lost_World_Jurassic_Park,7748781]]'
+  - '[[_Standards/WikiData/WD~The_Patriot_Original_Motion_Picture_Score,7756353]]'
+  - '[[_Standards/WikiData/WD~JFK,17092870]]'
+  - '[[_Standards/WikiData/WD~SpaceCamp,17142824]]'
+  - '[[_Standards/WikiData/WD~The_Adventures_of_Tintin_The_Secret_of_the_Unicorn,18655103]]'
+  - '[[_Standards/WikiData/WD~Theme_from_Close_Encounters_of_the_Third_Kind,30590368]]'
+  - '[[_Standards/WikiData/WD~Close_Encounters_of_the_Third_Kind_(soundtrack),48741603]]'
+  - '[[_Standards/WikiData/WD~Seven_Years_in_Tibet,110570670]]'
+  - '[[_Standards/WikiData/WD~Theme_from_Superman_(Main_Title),110651445]]'
+  - '[[_Standards/WikiData/WD~The_Fabelmans,115131335]]'
+  - '[[_Standards/WikiData/WD~Minority_Report,115519603]]'
 family_name:
-  - "[[_Standards/WikiData/WD~Williams,1688722]]"
-  - "[[_Standards/WikiData/WD~Towner,37463821]]"
-given_name: "[[_Standards/WikiData/WD~John,4925477]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-list_of_works: "[[_Standards/WikiData/WD~list_of_compositions_by_John_Williams,6612890]]"
-military_unit: "[[_Standards/WikiData/WD~United_States_Air_Force_Band,7889207]]"
-position_held: "[[_Standards/WikiData/WD~principal_conductor,61908373]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-military_branch: "[[_Standards/WikiData/WD~United_States_Air_Force,11223]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_birth: "[[_Standards/WikiData/WD~New_York_City,60]]"
+  - '[[_Standards/WikiData/WD~Williams,1688722]]'
+  - '[[_Standards/WikiData/WD~Towner,37463821]]'
+given_name: '[[_Standards/WikiData/WD~John,4925477]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+list_of_works: '[[_Standards/WikiData/WD~list_of_compositions_by_John_Williams,6612890]]'
+military_unit: '[[_Standards/WikiData/WD~United_States_Air_Force_Band,7889207]]'
+position_held: '[[_Standards/WikiData/WD~principal_conductor,61908373]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+military_branch: '[[_Standards/WikiData/WD~United_States_Air_Force,11223]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_birth: '[[_Standards/WikiData/WD~New_York_City,60]]'
 Plex_person_key: 5d7768670ea56a001e2a4689
 Commons_category: John Williams (composer)
 Commons_gallery: John Williams (composer)
@@ -141,8 +142,8 @@ date_of_birth: 1932-02-08T00:00:00Z
 work_period_start_: 1952-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Williams%202024.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Williams%20Signature.png
-ISNI: "0000000123479198"
-IPI_name_number: "00032981579"
+ISNI: 0000000123479198
+IPI_name_number: 00032981579
 ---
 
 # [[Williams,John(Composer)]] 

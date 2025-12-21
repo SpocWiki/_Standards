@@ -1,25 +1,26 @@
 ---
 aliases:
-- Hadean
-- Hád
-- Hadean
-- Hadaikum
-- Hadeánico
-- Hadesi??
-- Hadea
-- Hadéen
-- hadei
-- adeano
-- 冥王代（非公式の）
-- Hadejus
-- Hadeïcum
-- Hadeikum
-- Hadean
-- Hadeano
-- hadaikum
-- hadej
-- hadeikum
-- 冥古宙（非正式）
+  - Hadean
+  - Hád
+  - Hadean
+  - Hadaikum
+  - Hadeánico
+  - Hadesi??
+  - Hadea
+  - Hadéen
+  - hadei
+  - adeano
+  - 冥王代（非公式の）
+  - Hadejus
+  - Hadeïcum
+  - Hadeikum
+  - Hadean
+  - Hadeano
+  - hadaikum
+  - hadej
+  - hadeikum
+  - 冥古宙（非正式）
+  - Eon~1~Hadean
 has_id_wikidata: Q30957
 ---
 

@@ -3,10 +3,11 @@ aliases:
   - Die casting
   - Druckguss
   - high pressure die casting
+  - Die_casting
 has_id_wikidata: Q3325511
-different_from: "[[_Standards/WikiData/WD~metal_injection_molding,1367385]]"
-subclass_of: "[[_Standards/WikiData/WD~metal_casting,9268371]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+different_from: '[[_Standards/WikiData/WD~metal_injection_molding,1367385]]'
+subclass_of: '[[_Standards/WikiData/WD~metal_casting,9268371]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Library_of_Congress_Classification: TS239
 Commons_category: Die casting
 ---

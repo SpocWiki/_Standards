@@ -3,23 +3,24 @@ aliases:
   - has price-type
   - priceType
   - has_price_type
+  - has price type
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - price_type
   - price
   - type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_price_type
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

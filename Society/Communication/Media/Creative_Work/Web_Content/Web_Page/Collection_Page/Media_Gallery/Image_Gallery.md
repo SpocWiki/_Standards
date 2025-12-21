@@ -4,20 +4,22 @@ aliases:
   - image_gallery
   - ImageGallery
   - is_an_image_gallery
+  - Image_Gallery
+  - Image Gallery
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - image_gallery
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_image_gallery Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

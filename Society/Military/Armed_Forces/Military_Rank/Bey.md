@@ -1,5 +1,4 @@
 ---
-has_id_wikidata: Q181217
 aliases:
   - Baig
   - Bayg
@@ -9,6 +8,8 @@ aliases:
   - Baeg
   - Begh
   - Beg
+  - Bey
+has_id_wikidata: Q181217
 ---
 
 # [[Bey]] 

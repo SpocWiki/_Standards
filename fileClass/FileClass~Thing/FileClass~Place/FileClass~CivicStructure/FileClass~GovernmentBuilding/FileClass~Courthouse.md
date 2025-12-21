@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Courthouse
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/Courthouse
-- class/Thing/Place/CivicStructure/GovernmentBuilding/Courthouse
-- is_a_/Courthouse
-- schema-org/Courthouse
+  - class/Courthouse
+  - class/Thing/Place/CivicStructure/GovernmentBuilding/Courthouse
+  - is_a_/Courthouse
+  - schema-org/Courthouse
 tags:
-- class/FileClass
-- class/Courthouse
-- is_a_/Courthouse
-- class/Thing/Place/CivicStructure/GovernmentBuilding/Courthouse
+  - class/FileClass
+  - class/Courthouse
+  - is_a_/Courthouse
+  - class/Thing/Place/CivicStructure/GovernmentBuilding/Courthouse
 version: 2.0
 ---
 

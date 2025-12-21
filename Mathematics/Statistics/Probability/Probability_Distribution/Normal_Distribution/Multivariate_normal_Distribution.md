@@ -3,6 +3,8 @@ aliases:
   - multivariate normal distribution
   - multivariate Gaussian distribution
   - joint normal distribution
+  - Multivariate_normal_Distribution
+  - Multivariate normal Distribution
 has_id_wikidata: Q1149000
 subclass_of:
   - "[[_Standards/WikiData/WD~multivariate_probability_distribution,1333358]]"

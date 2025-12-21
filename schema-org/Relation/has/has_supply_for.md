@@ -5,23 +5,24 @@ aliases:
   - supplyTo
   - has_supply_to
   - has_supply_for
+  - has supply for
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - supply_for
   - supply
   - to
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_supply_for
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

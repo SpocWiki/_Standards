@@ -1,10 +1,12 @@
 ---
-has_id_wikidata: Q6999
 aliases:
   - astronomical object
   - celestial object
   - stellar object
   - heavenly body
+  - Astronomical_Object
+  - Astronomical Object
+has_id_wikidata: Q6999
 ---
 
 # [[Astronomical_Object]] 

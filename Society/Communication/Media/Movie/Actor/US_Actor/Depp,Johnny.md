@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Johnny Depp"
+  - Johnny Depp
+  - Depp,Johnny
 ---
 
 #has_/time_/started :: 1963-07-09 

@@ -1,29 +1,30 @@
 ---
 aliases:
-- previous-item
-- previousItem
-- has_previous_item
-- prev-item
+  - previous-item
+  - previousItem
+  - has_previous_item
+  - prev-item
+  - has previous item
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- previous_item
-- previous
-- item
-layout: 
-license: "CC BY-SA 4.0"
+  - previous_item
+  - previous
+  - item
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_previous_item
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_previous_item
 type: Predi_Relation
 ---

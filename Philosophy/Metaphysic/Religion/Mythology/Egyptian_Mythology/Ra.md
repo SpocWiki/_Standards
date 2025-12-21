@@ -9,6 +9,7 @@ aliases:
   - rʿ
   - Re
   - ⲣⲏ
+  - Ra
 has_id_wikidata: Q1252904
 child:
   - "[[_Standards/WikiData/WD~Tefnut,116273]]"

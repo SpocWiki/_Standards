@@ -4,21 +4,23 @@ aliases:
   - side_effects_health_aspect
   - SideEffectsHealthAspect
   - is_a_side_effects_health_aspect
+  - Side_Effects_Health_Aspect
+  - Side Effects Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - side_effects_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_side_effects_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,8 +1,10 @@
 ---
 aliases:
-- The_Boy_Who_Cried_Wolf
-- "The Boy Who Cried Wolf"
-- "Boy Who Cried Wolf"
+  - The_Boy_Who_Cried_Wolf
+  - The Boy Who Cried Wolf
+  - Boy Who Cried Wolf
+  - Cry_Wolf
+  - Cry Wolf
 ---
 
 # [[Cry_Wolf]] 

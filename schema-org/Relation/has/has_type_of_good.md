@@ -3,12 +3,13 @@ aliases:
   - has type-of-good
   - typeOfGood
   - has_type_of_good
+  - has type of good
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - type
   - of
   - good
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_type_of_good
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

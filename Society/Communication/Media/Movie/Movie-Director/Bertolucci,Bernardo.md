@@ -1,7 +1,8 @@
 ---
-has_id_wikidata: Q53009
 aliases:
   - Bernardo Bertolucci
+  - Bertolucci,Bernardo
+has_id_wikidata: Q53009
 ---
 
 # [[Bertolucci,Bernardo]] 

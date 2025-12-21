@@ -1,74 +1,75 @@
 ---
 aliases:
   - Doris Day (born Doris Mary Kappelhoff
+  - Day,Doris
 has_id_wikidata: Q104372
 award_received:
-  - "[[_Standards/WikiData/WD~Grammy_Hall_of_Fame,81180]]"
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-  - "[[_Standards/WikiData/WD~Henrietta_Award,1534911]]"
+  - '[[_Standards/WikiData/WD~Grammy_Hall_of_Fame,81180]]'
+  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+  - '[[_Standards/WikiData/WD~Henrietta_Award,1534911]]'
   - "[[_Standards/WikiData/WD~Ohio_Women's_Hall_of_Fame,11795583]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
-  - "[[_Standards/WikiData/WD~Grammy_Awards,41254]]"
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+  - '[[_Standards/WikiData/WD~Grammy_Awards,41254]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_Motion_Picture_Drama,463085]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_Musical_or_Comedy,1011564]]"
-  - "[[_Standards/WikiData/WD~Henrietta_Award,1534911]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_for_an_Actress_in_a_Television_Series,3110058]]"
-employer: "[[_Standards/WikiData/WD~Warner_Bros.,126399]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_Motion_Picture_Drama,463085]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_Musical_or_Comedy,1011564]]'
+  - '[[_Standards/WikiData/WD~Henrietta_Award,1534911]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_for_an_Actress_in_a_Television_Series,3110058]]'
+employer: '[[_Standards/WikiData/WD~Warner_Bros.,126399]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~recording_artist,55960555]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Columbia_Records,183387]]"
-  - "[[_Standards/WikiData/WD~Philips_Records,1536003]]"
+  - '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
+  - '[[_Standards/WikiData/WD~Philips_Records,1536003]]'
 genre:
-  - "[[_Standards/WikiData/WD~big_band,207378]]"
-  - "[[_Standards/WikiData/WD~traditional_pop,1196752]]"
-  - "[[_Standards/WikiData/WD~pop_music,37073]]"
+  - '[[_Standards/WikiData/WD~big_band,207378]]'
+  - '[[_Standards/WikiData/WD~traditional_pop,1196752]]'
+  - '[[_Standards/WikiData/WD~pop_music,37073]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~acting,222749]]"
-  - "[[_Standards/WikiData/WD~animal_rights,426]]"
-  - "[[_Standards/WikiData/WD~singing,27939]]"
-notable_work: "[[_Standards/WikiData/WD~Qué_Será,_Será,257915]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Christian_Science,624477]]"
+  - '[[_Standards/WikiData/WD~acting,222749]]'
+  - '[[_Standards/WikiData/WD~animal_rights,426]]'
+  - '[[_Standards/WikiData/WD~singing,27939]]'
+notable_work: '[[_Standards/WikiData/WD~Qué_Será,_Será,257915]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christian_Science,624477]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Mary,734578]]"
-  - "[[_Standards/WikiData/WD~Doris,3094766]]"
-child: "[[_Standards/WikiData/WD~Terry_Melcher,1545284]]"
+  - '[[_Standards/WikiData/WD~Mary,734578]]'
+  - '[[_Standards/WikiData/WD~Doris,3094766]]'
+child: '[[_Standards/WikiData/WD~Terry_Melcher,1545284]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Martin_Melcher,1644646]]"
-  - "[[_Standards/WikiData/WD~George_William_Weidler,5546356]]"
-  - "[[_Standards/WikiData/WD~Barry_Comden,61839325]]"
-  - "[[_Standards/WikiData/WD~Al_Jorden,61839510]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+  - '[[_Standards/WikiData/WD~Martin_Melcher,1644646]]'
+  - '[[_Standards/WikiData/WD~George_William_Weidler,5546356]]'
+  - '[[_Standards/WikiData/WD~Barry_Comden,61839325]]'
+  - '[[_Standards/WikiData/WD~Al_Jorden,61839510]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 family_name:
-  - "[[_Standards/WikiData/WD~Q5242796,5242796]]"
-  - "[[_Standards/WikiData/WD~Kappelhoff,63798466]]"
-filmography: "[[_Standards/WikiData/WD~Doris_Day_filmography,5297918]]"
-discography: "[[_Standards/WikiData/WD~Doris_Day_discography,5297917]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-instrument: "[[_Standards/WikiData/WD~voice,17172850]]"
-place_of_death: "[[_Standards/WikiData/WD~Carmel_Valley,49785301]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-father: "[[_Standards/WikiData/WD~Frederick_Wilhelm_Kappelhoff,96809799]]"
-mother: "[[_Standards/WikiData/WD~Alma_Sophia_Welz,96809809]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-cause_of_death: "[[_Standards/WikiData/WD~pneumonia,12192]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Republican_Party,29468]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-work_locations: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
-residence: "[[_Standards/WikiData/WD~Cincinnati,43196]]"
-place_of_birth: "[[_Standards/WikiData/WD~Cincinnati,43196]]"
+  - '[[_Standards/WikiData/WD~Q5242796,5242796]]'
+  - '[[_Standards/WikiData/WD~Kappelhoff,63798466]]'
+filmography: '[[_Standards/WikiData/WD~Doris_Day_filmography,5297918]]'
+discography: '[[_Standards/WikiData/WD~Doris_Day_discography,5297917]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
+place_of_death: '[[_Standards/WikiData/WD~Carmel_Valley,49785301]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+father: '[[_Standards/WikiData/WD~Frederick_Wilhelm_Kappelhoff,96809799]]'
+mother: '[[_Standards/WikiData/WD~Alma_Sophia_Welz,96809809]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+cause_of_death: '[[_Standards/WikiData/WD~pneumonia,12192]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+work_locations: '[[_Standards/WikiData/WD~Los_Angeles,65]]'
+residence: '[[_Standards/WikiData/WD~Cincinnati,43196]]'
+place_of_birth: '[[_Standards/WikiData/WD~Cincinnati,43196]]'
 Libris_URI: sq47fpfb1dtnnc4
 Facebook_username: sunnydorisday
 name_in_native_language: Doris Day
@@ -79,8 +80,8 @@ date_of_birth: 1922-04-03T00:00:00Z
 date_of_death: 2019-05-13T00:00:00Z
 Commons_category: Doris Day
 ISNI:
-  - "0000000368591225"
-  - "0000000114712242"
+  - 0000000368591225
+  - 0000000114712242
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Doris%20Day%201958%20crop.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Doris%20Day%20signature.svg
 official_website: https://www.dorisday.com

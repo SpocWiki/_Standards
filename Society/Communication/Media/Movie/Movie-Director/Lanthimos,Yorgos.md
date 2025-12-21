@@ -1,8 +1,9 @@
 ---
 aliases:
-- "Yorgos Lanthimos"
-- "Yorgos_Lanthimos"
-- Lanthimos
+  - Yorgos Lanthimos
+  - Yorgos_Lanthimos
+  - Lanthimos
+  - Lanthimos,Yorgos
 ---
 
 ## #has_/text_of_/abstract 

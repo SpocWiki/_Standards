@@ -3,23 +3,24 @@ aliases:
   - has under-name
   - underName
   - has_under_name
+  - has under name
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - under_name
   - under
   - name
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_under_name
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

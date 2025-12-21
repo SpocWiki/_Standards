@@ -4,20 +4,22 @@ aliases:
   - taxi_stand
   - TaxiStand
   - is_a_taxi_stand
+  - Taxi_Stand
+  - Taxi Stand
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - taxi_stand
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_taxi_stand Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -4,21 +4,22 @@ aliases:
   - billing-increment
   - billingIncrement
   - has_value_for_billing_increment
+  - has value for billing increment
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - billing-increment
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_billing-increment
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

@@ -1,16 +1,18 @@
 ---
 aliases:
   - Spanish Civil War
+  - 1936-Spanish_Civil_War+1939
+  - 1936-Spanish Civil War+1939
 has_id_wikidata: Q10859
 participant:
-  - "[[_Standards/WikiData/WD~Nationalist_faction,2742116]]"
-  - "[[_Standards/WikiData/WD~Republican_faction,3456351]]"
-archives_at: "[[_Standards/WikiData/WD~Thomas_Fisher_Rare_Book_Library,7789602]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Spanish_Civil_War,22676616]]"
-described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-instance_of: "[[_Standards/WikiData/WD~civil_war,8465]]"
-locations: "[[_Standards/WikiData/WD~Iberian_Peninsula,12837]]"
-country: "[[_Standards/WikiData/WD~Spain,29]]"
+  - '[[_Standards/WikiData/WD~Nationalist_faction,2742116]]'
+  - '[[_Standards/WikiData/WD~Republican_faction,3456351]]'
+archives_at: '[[_Standards/WikiData/WD~Thomas_Fisher_Rare_Book_Library,7789602]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Spanish_Civil_War,22676616]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+instance_of: '[[_Standards/WikiData/WD~civil_war,8465]]'
+locations: '[[_Standards/WikiData/WD~Iberian_Peninsula,12837]]'
+country: '[[_Standards/WikiData/WD~Spain,29]]'
 described_at_URL: https://discoverarchives.library.utoronto.ca/index.php/spanish-civil-war-collection
 BHCL_UUID: ae43a7fd-d96f-468a-a862-3190ec8d7b15
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Collage%20guerra%20civile%20spagnola.png

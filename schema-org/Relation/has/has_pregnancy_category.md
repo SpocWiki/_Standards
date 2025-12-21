@@ -3,23 +3,24 @@ aliases:
   - has pregnancy-category
   - pregnancyCategory
   - has_pregnancy_category
+  - has pregnancy category
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - pregnancy_category
   - pregnancy
   - category
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_pregnancy_category
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

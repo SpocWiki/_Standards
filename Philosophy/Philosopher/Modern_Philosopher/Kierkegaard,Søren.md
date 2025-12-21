@@ -1,116 +1,116 @@
 ---
-academic_degree: "[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]"
-academic_thesis: "[[_Standards/WikiData/WD~On_the_Concept_of_Irony_with_Continual_Reference_to_Socrates,1076331]]"
 aliases:
   - Søren Kierkegaard
   - Søren Aabye Kierkegaard
   - Kierkegaard,Søren
+has_id_wikidata: Q6512
+academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
+academic_thesis: '[[_Standards/WikiData/WD~On_the_Concept_of_Irony_with_Continual_Reference_to_Socrates,1076331]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~Howard_V._and_Edna_H._Hong_Kierkegaard_Library,5921132]]"
-  - "[[_Standards/WikiData/WD~Søren_Kierkegaard_Research_Centre,7666560]]"
-  - "[[_Standards/WikiData/WD~Søren_Kierkegaard_Archives,28028349]]"
+  - '[[_Standards/WikiData/WD~Howard_V._and_Edna_H._Hong_Kierkegaard_Library,5921132]]'
+  - '[[_Standards/WikiData/WD~Søren_Kierkegaard_Research_Centre,7666560]]'
+  - '[[_Standards/WikiData/WD~Søren_Kierkegaard_Archives,28028349]]'
 BHCL_UUID: 0c5d2509-163e-4cc8-bd2b-6d85f2b1d41f
 birth_name: Søren Aabye Kierkegaard
 catchphrase: Det er ganske sandt, hvad Philosophien siger, at Livet maa forstaaes baglænds. Men derover glemmer man den anden Sætning, at det maa leves forlænds.
 cause_of_death:
-  - "[[_Standards/WikiData/WD~paralysis,107231]]"
-  - "[[_Standards/WikiData/WD~tuberculosis,12204]]"
+  - '[[_Standards/WikiData/WD~paralysis,107231]]'
+  - '[[_Standards/WikiData/WD~tuberculosis,12204]]'
 Commons_category: Søren Kierkegaard
 Commons_Creator_page: Søren Kierkegaard
 Commons_gallery: Søren Kierkegaard
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]"
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]'
 date_of_birth: 1813-05-05T00:00:00Z
 date_of_death: 1855-11-11T00:00:00Z
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Copenhagen,186285]]"
-  - "[[_Standards/WikiData/WD~Østre_Borgerdyd_school,4582201]]"
+  - '[[_Standards/WikiData/WD~University_of_Copenhagen,186285]]'
+  - '[[_Standards/WikiData/WD~Østre_Borgerdyd_school,4582201]]'
 Europeana_entity: agent/base/145360
-family_name: "[[_Standards/WikiData/WD~Kierkegaard,21149185]]"
-father: "[[_Standards/WikiData/WD~Michael_Pedersen_Kierkegaard,5908487]]"
-field_of_work: "[[_Standards/WikiData/WD~philosophy,5891]]"
+family_name: '[[_Standards/WikiData/WD~Kierkegaard,21149185]]'
+father: '[[_Standards/WikiData/WD~Michael_Pedersen_Kierkegaard,5908487]]'
+field_of_work: '[[_Standards/WikiData/WD~philosophy,5891]]'
 genre:
-  - "[[_Standards/WikiData/WD~debate,179875]]"
-  - "[[_Standards/WikiData/WD~diary,185598]]"
-  - "[[_Standards/WikiData/WD~polemical_lampoon,18536349]]"
-  - "[[_Standards/WikiData/WD~essay,35760]]"
-given_name: "[[_Standards/WikiData/WD~Søren,7174941]]"
+  - '[[_Standards/WikiData/WD~debate,179875]]'
+  - '[[_Standards/WikiData/WD~diary,185598]]'
+  - '[[_Standards/WikiData/WD~polemical_lampoon,18536349]]'
+  - '[[_Standards/WikiData/WD~essay,35760]]'
+given_name: '[[_Standards/WikiData/WD~Søren,7174941]]'
 Google_Doodle: sren-kierkegaards-200th-birthday
-has_id_wikidata: Q6512
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Royal_Danish_Library,867885]]"
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Royal_Danish_Library,867885]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8ren%20Kierkegaard%20%281813-1855%29%20-%20%28cropped%29.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8ren%20Kierkegaard%27s%20grave%20in%20Assistens%20Kirkeg%C3%A5rd.jpg
 influenced_by:
-  - "[[_Standards/WikiData/WD~Johann_Georg_Hamann,76499]]"
-  - "[[_Standards/WikiData/WD~Christian_Wolff,76510]]"
-  - "[[_Standards/WikiData/WD~Jacob_Peter_Mynster,726374]]"
-  - "[[_Standards/WikiData/WD~Aristotle,868]]"
-  - "[[_Standards/WikiData/WD~Augustine_of_Hippo,8018]]"
-  - "[[_Standards/WikiData/WD~Georg_Wilhelm_Friedrich_Hegel,9235]]"
-  - "[[_Standards/WikiData/WD~Immanuel_Kant,9312]]"
-  - "[[_Standards/WikiData/WD~Martin_Luther,9554]]"
-  - "[[_Standards/WikiData/WD~Gotthold_Ephraim_Lessing,34628]]"
-  - "[[_Standards/WikiData/WD~Friedrich_Wilhelm_Joseph_Schelling,60070]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Johann_Georg_Hamann,76499]]'
+  - '[[_Standards/WikiData/WD~Christian_Wolff,76510]]'
+  - '[[_Standards/WikiData/WD~Jacob_Peter_Mynster,726374]]'
+  - '[[_Standards/WikiData/WD~Aristotle,868]]'
+  - '[[_Standards/WikiData/WD~Augustine_of_Hippo,8018]]'
+  - '[[_Standards/WikiData/WD~Georg_Wilhelm_Friedrich_Hegel,9235]]'
+  - '[[_Standards/WikiData/WD~Immanuel_Kant,9312]]'
+  - '[[_Standards/WikiData/WD~Martin_Luther,9554]]'
+  - '[[_Standards/WikiData/WD~Gotthold_Ephraim_Lessing,34628]]'
+  - '[[_Standards/WikiData/WD~Friedrich_Wilhelm_Joseph_Schelling,60070]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 interested_in:
-  - "[[_Standards/WikiData/WD~religious_text,179461]]"
-  - "[[_Standards/WikiData/WD~Pietism,193664]]"
-  - "[[_Standards/WikiData/WD~Christianity,5043]]"
-  - "[[_Standards/WikiData/WD~Georg_Wilhelm_Friedrich_Hegel,9235]]"
-  - "[[_Standards/WikiData/WD~psychology,9418]]"
-  - "[[_Standards/WikiData/WD~ethics,9465]]"
-  - "[[_Standards/WikiData/WD~epistemology,9471]]"
-  - "[[_Standards/WikiData/WD~metaphysics,35277]]"
-  - "[[_Standards/WikiData/WD~aesthetics,35986]]"
+  - '[[_Standards/WikiData/WD~religious_text,179461]]'
+  - '[[_Standards/WikiData/WD~Pietism,193664]]'
+  - '[[_Standards/WikiData/WD~Christianity,5043]]'
+  - '[[_Standards/WikiData/WD~Georg_Wilhelm_Friedrich_Hegel,9235]]'
+  - '[[_Standards/WikiData/WD~psychology,9418]]'
+  - '[[_Standards/WikiData/WD~ethics,9465]]'
+  - '[[_Standards/WikiData/WD~epistemology,9471]]'
+  - '[[_Standards/WikiData/WD~metaphysics,35277]]'
+  - '[[_Standards/WikiData/WD~aesthetics,35986]]'
 ISNI: 458754884
 Krugosvet_article: filosofiya/kerkegor-syoren
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Danish,9035]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
+  - '[[_Standards/WikiData/WD~Latin,397]]'
+  - '[[_Standards/WikiData/WD~Danish,9035]]'
+  - '[[_Standards/WikiData/WD~German,188]]'
 Library_of_Congress_Classification: B4370-B4378
 Libris_URI: rp351rr91nx7v6k
-list_of_works: "[[_Standards/WikiData/WD~Søren_Kierkegaard_bibliography,3502822]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-movement: "[[_Standards/WikiData/WD~existentialism,38066]]"
+list_of_works: '[[_Standards/WikiData/WD~Søren_Kierkegaard_bibliography,3502822]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+movement: '[[_Standards/WikiData/WD~existentialism,38066]]'
 name_in_native_language: Søren Aabye Kierkegaard
-native_language: "[[_Standards/WikiData/WD~Danish,9035]]"
+native_language: '[[_Standards/WikiData/WD~Danish,9035]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Concluding_Unscientific_Postscript_to_Philosophical_Fragments,849447]]"
+  - '[[_Standards/WikiData/WD~Concluding_Unscientific_Postscript_to_Philosophical_Fragments,849447]]'
   - "[[_Standards/WikiData/WD~Stages_on_Life's_Way,861155]]"
-  - "[[_Standards/WikiData/WD~On_the_Concept_of_Irony_with_Continual_Reference_to_Socrates,1076331]]"
-  - "[[_Standards/WikiData/WD~Either_Or,1152009]]"
-  - "[[_Standards/WikiData/WD~The_Concept_of_Anxiety,1192442]]"
-  - "[[_Standards/WikiData/WD~Fear_and_Trembling,1193229]]"
-  - "[[_Standards/WikiData/WD~The_Sickness_Unto_Death,1214072]]"
-  - "[[_Standards/WikiData/WD~Christian_Discourses,5109537]]"
-  - "[[_Standards/WikiData/WD~The_Book_on_Adler,7719342]]"
-  - "[[_Standards/WikiData/WD~Works_of_Love,9294209]]"
+  - '[[_Standards/WikiData/WD~On_the_Concept_of_Irony_with_Continual_Reference_to_Socrates,1076331]]'
+  - '[[_Standards/WikiData/WD~Either_Or,1152009]]'
+  - '[[_Standards/WikiData/WD~The_Concept_of_Anxiety,1192442]]'
+  - '[[_Standards/WikiData/WD~Fear_and_Trembling,1193229]]'
+  - '[[_Standards/WikiData/WD~The_Sickness_Unto_Death,1214072]]'
+  - '[[_Standards/WikiData/WD~Christian_Discourses,5109537]]'
+  - '[[_Standards/WikiData/WD~The_Book_on_Adler,7719342]]'
+  - '[[_Standards/WikiData/WD~Works_of_Love,9294209]]'
 occupation:
-  - "[[_Standards/WikiData/WD~theologian,1234713]]"
-  - "[[_Standards/WikiData/WD~literary_critic,4263842]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~novelist,6625963]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+  - '[[_Standards/WikiData/WD~theologian,1234713]]'
+  - '[[_Standards/WikiData/WD~literary_critic,4263842]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~novelist,6625963]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Christianity,4587240]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Theology,11872344]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Christianity,4587240]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Theology,11872344]]'
 P8189: 987007263701805200
 PhilPapers_topic: sren-kierkegaard
-place_of_birth: "[[_Standards/WikiData/WD~Copenhagen,1748]]"
-place_of_burial: "[[_Standards/WikiData/WD~Assistens_Cemetery,742670]]"
-place_of_death: "[[_Standards/WikiData/WD~Copenhagen,1748]]"
-political_ideology: "[[_Standards/WikiData/WD~Christian_existentialism,2745479]]"
+place_of_birth: '[[_Standards/WikiData/WD~Copenhagen,1748]]'
+place_of_burial: '[[_Standards/WikiData/WD~Assistens_Cemetery,742670]]'
+place_of_death: '[[_Standards/WikiData/WD~Copenhagen,1748]]'
+political_ideology: '[[_Standards/WikiData/WD~Christian_existentialism,2745479]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Da-S%C3%B8ren%20Kierkegaard.oga
 pseudonym:
   - B
@@ -133,21 +133,21 @@ pseudonym:
 Regensburg_Classification:
   - BF 6080
   - GX 2570
-religion_or_worldview: "[[_Standards/WikiData/WD~Lutheranism,75809]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Lutheranism,75809]]'
 residence:
-  - "[[_Standards/WikiData/WD~Copenhagen,1748]]"
-  - "[[_Standards/WikiData/WD~Berlin,64]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-sibling: "[[_Standards/WikiData/WD~Peter_Kierkegaard,1076340]]"
+  - '[[_Standards/WikiData/WD~Copenhagen,1748]]'
+  - '[[_Standards/WikiData/WD~Berlin,64]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+sibling: '[[_Standards/WikiData/WD~Peter_Kierkegaard,1076340]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Kierkegaard%20sig.png
 student_of:
-  - "[[_Standards/WikiData/WD~Poul_Martin_Møller,137571]]"
-  - "[[_Standards/WikiData/WD~Hans_Lassen_Martensen,552875]]"
-  - "[[_Standards/WikiData/WD~Frederik_Christian_Sibbern,1959495]]"
-subject_has_role: "[[_Standards/WikiData/WD~object_of_study,4330518]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Søren_Kierkegaard,13255500]]"
+  - '[[_Standards/WikiData/WD~Poul_Martin_Møller,137571]]'
+  - '[[_Standards/WikiData/WD~Hans_Lassen_Martensen,552875]]'
+  - '[[_Standards/WikiData/WD~Frederik_Christian_Sibbern,1959495]]'
+subject_has_role: '[[_Standards/WikiData/WD~object_of_study,4330518]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Søren_Kierkegaard,13255500]]'
 Wolfram_Language_entity_code: Entity["Concept", "Kierkegaard::3v27t"]
-writing_language: "[[_Standards/WikiData/WD~German,188]]"
+writing_language: '[[_Standards/WikiData/WD~German,188]]'
 ---
 
 # [[Kierkegaard,Søren]] 

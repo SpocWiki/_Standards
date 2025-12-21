@@ -1,8 +1,4 @@
 ---
-age_of_majority:
-  - 18
-  - 21
-aircraft_registration_prefix: RP
 aliases:
   - Philippines
   - Filipinas
@@ -12,6 +8,11 @@ aliases:
   - the Republic of the Philippines
   - Philippines (the)
   - la República de Filipinas
+has_id_wikidata: Q928
+age_of_majority:
+  - 18
+  - 21
+aircraft_registration_prefix: RP
 anthem: "[[_Standards/WikiData/WD~Lupang_Hinirang,212725]]"
 area: 343448
 basic_form_of_government: "[[_Standards/WikiData/WD~republic,7270]]"
@@ -219,7 +220,7 @@ ethnic_group:
   - "[[_Standards/WikiData/WD~Cebuano_people,3567287]]"
   - "[[_Standards/WikiData/WD~Hiligaynon_people,17072635]]"
 executive_body: "[[_Standards/WikiData/WD~government_of_the_Philippines,7925797]]"
-expiryDate:
+expiryDate: ""
 Facebook_username: nationalgovernmentportal
 female_population: 53649400
 FIPS_10_4_countries_and_regions_: RP
@@ -233,7 +234,6 @@ GS1_country_code: 480
 Happy_Planet_Index_score: 57.1
 hashtag: Philippines
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
-has_id_wikidata: Q928
 head_of_government: "[[_Standards/WikiData/WD~Bongbong_Marcos,983324]]"
 head_of_state: "[[_Standards/WikiData/WD~Bongbong_Marcos,983324]]"
 highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_the_Philippines,514212]]"
@@ -264,7 +264,7 @@ ISO_3166_1_alpha_3_code: PHL
 ISO_3166_1_numeric_code: 608
 isReadOnly: false
 ITU_letter_code: PHL
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/FILIPPINI.html
 Languages:
   - tl
@@ -477,12 +477,12 @@ language_used:
   - "[[_Standards/WikiData/WD~Eastern_Subanen,63311321]]"
   - "[[_Standards/WikiData/WD~Tandaganon,63311769]]"
   - "[[_Standards/WikiData/WD~Southwestern_Bontok,63313677]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~Congress_of_the_Philippines,1542985]]"
 licence_plate_code: RP
 license: CC BY-SA 4.0
 life_expectancy: 71.095
-linkTitle:
+linkTitle: ""
 literacy_rate: 96.3
 located_in_or_next_to_body_of_water:
   - "[[_Standards/WikiData/WD~Philippine_Sea,159183]]"
@@ -592,7 +592,7 @@ public_holiday:
   - "[[_Standards/WikiData/WD~Bonifacio_Day,48767421]]"
   - "[[_Standards/WikiData/WD~National_Heroes'_Day,111811564]]"
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750]]"
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Relief%20Map%20Of%20The%20Philippines.png
 religion_or_worldview:

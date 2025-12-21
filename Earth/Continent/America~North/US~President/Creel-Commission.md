@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Creel Committee"
-- "Committee on Public Information"
+  - Creel Committee
+  - Committee on Public Information
+  - Creel-Commission
 ---
 
 #has_/president :: [[Creel,George]] 

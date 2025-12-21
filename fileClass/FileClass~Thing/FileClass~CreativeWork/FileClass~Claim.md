@@ -1,38 +1,40 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Claim
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: j5DapQ
-  name: Appearance
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
-  type: MultiFile
-  path: ''
-- id: UpNKx0
-  name: ClaimInterpreter
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: ABH9A5
-  name: FirstAppearance
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
-  type: MultiFile
-  path: ''
+  - id: j5DapQ
+    name: Appearance
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ''
+  - id: UpNKx0
+    name: ClaimInterpreter
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: ABH9A5
+    name: FirstAppearance
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Claim
-- class/Thing/CreativeWork/Claim
-- is_a_/Claim
-- schema-org/Claim
+  - class/Claim
+  - class/Thing/CreativeWork/Claim
+  - is_a_/Claim
+  - schema-org/Claim
 tags:
-- class/FileClass
-- class/Claim
-- is_a_/Claim
-- class/Thing/CreativeWork/Claim
+  - class/FileClass
+  - class/Claim
+  - is_a_/Claim
+  - class/Thing/CreativeWork/Claim
 version: 2.0
 ---
 

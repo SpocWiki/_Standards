@@ -4,22 +4,23 @@ aliases:
   - name_of_program
   - programName
   - has_name_of_program
+  - has name of program
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - program
   - name
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_name_of_program
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

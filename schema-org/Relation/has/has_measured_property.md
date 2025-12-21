@@ -3,23 +3,24 @@ aliases:
   - has measured-property
   - measuredProperty
   - has_measured_property
+  - has measured property
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - measured
   - property
   - measured_property
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_measured_property
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

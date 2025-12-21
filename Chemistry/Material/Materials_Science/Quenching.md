@@ -1,16 +1,17 @@
 ---
 aliases:
   - Abschrecken
+  - Quenching
 has_id_wikidata: Q871335
 has_use:
-  - "[[_Standards/WikiData/WD~hardening,1424564]]"
-  - "[[_Standards/WikiData/WD~Work_up,8034532]]"
-  - "[[_Standards/WikiData/WD~chemical_analysis,9150363]]"
+  - '[[_Standards/WikiData/WD~hardening,1424564]]'
+  - '[[_Standards/WikiData/WD~Work_up,8034532]]'
+  - '[[_Standards/WikiData/WD~chemical_analysis,9150363]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~technique,2695280]]"
-  - "[[_Standards/WikiData/WD~cooling,3929317]]"
-has_characteristic: "[[_Standards/WikiData/WD~celerity,101813351]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - '[[_Standards/WikiData/WD~technique,2695280]]'
+  - '[[_Standards/WikiData/WD~cooling,3929317]]'
+has_characteristic: '[[_Standards/WikiData/WD~celerity,101813351]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 Commons_category: Quenching
 ---
 

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~OrderAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/OrderAction
-- class/Thing/Action/TradeAction/OrderAction
-- is_an_/OrderAction
-- schema-org/OrderAction
+  - class/OrderAction
+  - class/Thing/Action/TradeAction/OrderAction
+  - is_an_/OrderAction
+  - schema-org/OrderAction
 tags:
-- class/FileClass
-- class/OrderAction
-- '#is_an_/OrderAction'
-- class/Thing/Action/TradeAction/OrderAction
+  - class/FileClass
+  - class/OrderAction
+  - '#is_an_/OrderAction'
+  - class/Thing/Action/TradeAction/OrderAction
 version: 2.0
 ---
 

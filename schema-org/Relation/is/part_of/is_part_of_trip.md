@@ -4,23 +4,24 @@ aliases:
   - part_of_trip
   - partOfTrip
   - is_part_of_trip
+  - is part of trip
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - part
   - of
   - trip
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_part_of_trip
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

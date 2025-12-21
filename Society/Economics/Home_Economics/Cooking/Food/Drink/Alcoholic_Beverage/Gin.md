@@ -2,27 +2,27 @@
 aliases:
   - Gin
 has_id_wikidata: Q959362
-subclass_of: "[[_Standards/WikiData/WD~jenever,80680]]"
-named_after: "[[_Standards/WikiData/WD~jenever,80680]]"
+subclass_of: '[[_Standards/WikiData/WD~jenever,80680]]'
+named_after: '[[_Standards/WikiData/WD~jenever,80680]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Gin_people,3059102]]"
-  - "[[_Standards/WikiData/WD~Jin,13168350]]"
+  - '[[_Standards/WikiData/WD~Gin_people,3059102]]'
+  - '[[_Standards/WikiData/WD~Jin,13168350]]'
 alcohol_by_volume: 37.5
-instance_of: "[[_Standards/WikiData/WD~liquor,56139]]"
+instance_of: '[[_Standards/WikiData/WD~liquor,56139]]'
 social_media_followers: 43709
 subreddit: Gin
 Commons_category: Gin
-2022_Harmonized_System_Code: "220850"
+2022_Harmonized_System_Code: 220850
 native_label: Gin
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Assorted%20gin%20bottles%20on%20a%20store%20shelf.jpg
-Amazon_com_browse_node: "15158352011"
+Amazon_com_browse_node: 15158352011
 FoodEx2_code: A03PG
 Wolfram_Language_entity_code: Entity["FoodType", "Gin"]
 ---

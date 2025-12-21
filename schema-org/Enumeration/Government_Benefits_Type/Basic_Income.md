@@ -4,21 +4,23 @@ aliases:
   - basic_income
   - BasicIncome
   - is_a_basic_income
+  - Basic_Income
+  - Basic Income
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: GovernmentBenefitsType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - basic_income
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_basic_income Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

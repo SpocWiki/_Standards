@@ -1,20 +1,22 @@
 ---
+aliases:
+  - Reggae
 has_id_wikidata: Q9794
-instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
-subclass_of: "[[_Standards/WikiData/WD~music_of_Jamaica,572717]]"
-has_characteristic: "[[_Standards/WikiData/WD~off_beat,1928774]]"
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
+subclass_of: '[[_Standards/WikiData/WD~music_of_Jamaica,572717]]'
+has_characteristic: '[[_Standards/WikiData/WD~off_beat,1928774]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Music,5830855]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Reggae,10296492]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Jamaica,21830223]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Reggae_music,11055312]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
-practiced_by: "[[_Standards/WikiData/WD~reggae_musician,98523719]]"
-described_by_source: "[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]"
-intangible_cultural_heritage_status: "[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]"
-country_of_origin: "[[_Standards/WikiData/WD~Jamaica,766]]"
-IAB_code: "359"
+  - '[[_Standards/WikiData/WD~WikiProject_Music,5830855]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Reggae,10296492]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Jamaica,21830223]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Reggae_music,11055312]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+practiced_by: '[[_Standards/WikiData/WD~reggae_musician,98523719]]'
+described_by_source: '[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
+country_of_origin: '[[_Standards/WikiData/WD~Jamaica,766]]'
+IAB_code: 359
 Commons_category: Reggae
 subreddit: reggae
 inception: 1961-01-01T00:00:00Z

@@ -4,93 +4,94 @@ aliases:
   - Stevland Hardaway Morris
   - Morris
   - Wonder
+  - Stevie Wonder
 has_id_wikidata: Q714
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]"
-  - "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
-  - "[[_Standards/WikiData/WD~MusiCares_Person_of_the_Year,326482]]"
-  - "[[_Standards/WikiData/WD~Wolf_Prize_in_Arts,845149]]"
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-  - "[[_Standards/WikiData/WD~Gershwin_Prize,2422622]]"
-  - "[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Johnny_Mercer_Award,61669648]]"
-  - "[[_Standards/WikiData/WD~Victory_of_honor,124833260]]"
-  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+  - '[[_Standards/WikiData/WD~MusiCares_Person_of_the_Year,326482]]'
+  - '[[_Standards/WikiData/WD~Wolf_Prize_in_Arts,845149]]'
+  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+  - '[[_Standards/WikiData/WD~Gershwin_Prize,2422622]]'
+  - '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~Johnny_Mercer_Award,61669648]]'
+  - '[[_Standards/WikiData/WD~Victory_of_honor,124833260]]'
+  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 genre:
-  - "[[_Standards/WikiData/WD~soul,131272]]"
-  - "[[_Standards/WikiData/WD~funk,164444]]"
-  - "[[_Standards/WikiData/WD~jazz,8341]]"
-  - "[[_Standards/WikiData/WD~blues,9759]]"
-  - "[[_Standards/WikiData/WD~pop_music,37073]]"
-  - "[[_Standards/WikiData/WD~rhythm_and_blues,45981]]"
+  - '[[_Standards/WikiData/WD~soul,131272]]'
+  - '[[_Standards/WikiData/WD~funk,164444]]'
+  - '[[_Standards/WikiData/WD~jazz,8341]]'
+  - '[[_Standards/WikiData/WD~blues,9759]]'
+  - '[[_Standards/WikiData/WD~pop_music,37073]]'
+  - '[[_Standards/WikiData/WD~rhythm_and_blues,45981]]'
 instrument:
-  - "[[_Standards/WikiData/WD~percussion_instrument,133163]]"
-  - "[[_Standards/WikiData/WD~musical_keyboard,901207]]"
-  - "[[_Standards/WikiData/WD~voice,17172850]]"
-  - "[[_Standards/WikiData/WD~Marcodi,94994670]]"
-  - "[[_Standards/WikiData/WD~piano,5994]]"
-  - "[[_Standards/WikiData/WD~harmonica,51290]]"
+  - '[[_Standards/WikiData/WD~percussion_instrument,133163]]'
+  - '[[_Standards/WikiData/WD~musical_keyboard,901207]]'
+  - '[[_Standards/WikiData/WD~voice,17172850]]'
+  - '[[_Standards/WikiData/WD~Marcodi,94994670]]'
+  - '[[_Standards/WikiData/WD~piano,5994]]'
+  - '[[_Standards/WikiData/WD~harmonica,51290]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~record_producer,183945]]"
-  - "[[_Standards/WikiData/WD~drummer,386854]]"
-  - "[[_Standards/WikiData/WD~pianist,486748]]"
-  - "[[_Standards/WikiData/WD~singer_songwriter,488205]]"
-  - "[[_Standards/WikiData/WD~music_arranger,1643514]]"
-  - "[[_Standards/WikiData/WD~vocalist,2643890]]"
-  - "[[_Standards/WikiData/WD~recording_artist,55960555]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-lifestyle: "[[_Standards/WikiData/WD~veganism,181138]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~record_producer,183945]]'
+  - '[[_Standards/WikiData/WD~drummer,386854]]'
+  - '[[_Standards/WikiData/WD~pianist,486748]]'
+  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+  - '[[_Standards/WikiData/WD~music_arranger,1643514]]'
+  - '[[_Standards/WikiData/WD~vocalist,2643890]]'
+  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
+lifestyle: '[[_Standards/WikiData/WD~veganism,181138]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Jackie_Wilson,181483]]"
-  - "[[_Standards/WikiData/WD~Sam_Cooke,295919]]"
-  - "[[_Standards/WikiData/WD~Toots_Thielemans,365567]]"
-  - "[[_Standards/WikiData/WD~Little_Walter,380261]]"
-  - "[[_Standards/WikiData/WD~Ray_Charles,544387]]"
-  - "[[_Standards/WikiData/WD~Frankie_Lymon,683420]]"
-  - "[[_Standards/WikiData/WD~Benny_Benjamin,818041]]"
-  - "[[_Standards/WikiData/WD~Johnny_Ace,1273345]]"
-  - "[[_Standards/WikiData/WD~King_Curtis,1345099]]"
-  - "[[_Standards/WikiData/WD~Bob_Dylan,392]]"
-  - "[[_Standards/WikiData/WD~Q4030,4030]]"
-  - "[[_Standards/WikiData/WD~James_Brown,5950]]"
-discography: "[[_Standards/WikiData/WD~Stevie_Wonder_discography,304127]]"
-copyright_representative: "[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]"
-spouse: "[[_Standards/WikiData/WD~Syreeta_Wright,456598]]"
+  - '[[_Standards/WikiData/WD~Jackie_Wilson,181483]]'
+  - '[[_Standards/WikiData/WD~Sam_Cooke,295919]]'
+  - '[[_Standards/WikiData/WD~Toots_Thielemans,365567]]'
+  - '[[_Standards/WikiData/WD~Little_Walter,380261]]'
+  - '[[_Standards/WikiData/WD~Ray_Charles,544387]]'
+  - '[[_Standards/WikiData/WD~Frankie_Lymon,683420]]'
+  - '[[_Standards/WikiData/WD~Benny_Benjamin,818041]]'
+  - '[[_Standards/WikiData/WD~Johnny_Ace,1273345]]'
+  - '[[_Standards/WikiData/WD~King_Curtis,1345099]]'
+  - '[[_Standards/WikiData/WD~Bob_Dylan,392]]'
+  - '[[_Standards/WikiData/WD~Q4030,4030]]'
+  - '[[_Standards/WikiData/WD~James_Brown,5950]]'
+discography: '[[_Standards/WikiData/WD~Stevie_Wonder_discography,304127]]'
+copyright_representative: '[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]'
+spouse: '[[_Standards/WikiData/WD~Syreeta_Wright,456598]]'
 family_name:
-  - "[[_Standards/WikiData/WD~Morris,2780710]]"
-  - "[[_Standards/WikiData/WD~Judkins,21475389]]"
-  - "[[_Standards/WikiData/WD~Hardaway,21488343]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-mother: "[[_Standards/WikiData/WD~Lula_Mae_Hardaway,6702757]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Stevie_Wonder,12433044]]"
+  - '[[_Standards/WikiData/WD~Morris,2780710]]'
+  - '[[_Standards/WikiData/WD~Judkins,21475389]]'
+  - '[[_Standards/WikiData/WD~Hardaway,21488343]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+mother: '[[_Standards/WikiData/WD~Lula_Mae_Hardaway,6702757]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Stevie_Wonder,12433044]]'
 child:
   - "[[_Standards/WikiData/WD~A'isha_Morris,28062849]]"
-  - "[[_Standards/WikiData/WD~Keita_Morris,28064794]]"
+  - '[[_Standards/WikiData/WD~Keita_Morris,28064794]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-educated_at: "[[_Standards/WikiData/WD~Michigan_School_for_the_Blind,56278648]]"
-given_name: "[[_Standards/WikiData/WD~Stevland,61678637]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-significant_person: "[[_Standards/WikiData/WD~Ted_Hull,104814134]]"
-place_of_birth: "[[_Standards/WikiData/WD~Saginaw,719]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-relative: "[[_Standards/WikiData/WD~Q2831,2831]]"
-medical_condition: "[[_Standards/WikiData/WD~blindness,10874]]"
-voice_type: "[[_Standards/WikiData/WD~tenor,27914]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+educated_at: '[[_Standards/WikiData/WD~Michigan_School_for_the_Blind,56278648]]'
+given_name: '[[_Standards/WikiData/WD~Stevland,61678637]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+significant_person: '[[_Standards/WikiData/WD~Ted_Hull,104814134]]'
+place_of_birth: '[[_Standards/WikiData/WD~Saginaw,719]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+relative: '[[_Standards/WikiData/WD~Q2831,2831]]'
+medical_condition: '[[_Standards/WikiData/WD~blindness,10874]]'
+voice_type: '[[_Standards/WikiData/WD~tenor,27914]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Ghana,117]]"
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Ghana,117]]'
 number_of_children: 9
 social_media_followers:
   - 1340000
   - 161088
-record_label: "[[_Standards/WikiData/WD~Motown,43327]]"
-ethnic_group: "[[_Standards/WikiData/WD~African_Americans,49085]]"
+record_label: '[[_Standards/WikiData/WD~Motown,43327]]'
+ethnic_group: '[[_Standards/WikiData/WD~African_Americans,49085]]'
 Europeana_entity: agent/base/61176
 pseudonym:
   - El Toro Negro
@@ -110,10 +111,10 @@ date_of_birth: 1950-05-13T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stevie%20Wonder%201994.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Stevie%20Wonder%20Signature.svg
 official_website: http://www.steviewonder.net
-ISNI: "0000000108675094"
+ISNI: 0000000108675094
 IPI_name_number:
-  - "00033189687"
-  - "00581621451"
+  - 00033189687
+  - 00581621451
 Plex_person_key: 5d77682a6f4521001ea99e20
 ---
 

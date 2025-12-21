@@ -3,12 +3,13 @@ aliases:
   - has price-component-type
   - priceComponentType
   - has_price_component_type
+  - has price component type
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - price
   - component
   - type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_price_component_type
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Geena Davis"
+  - Geena Davis
+  - Davis,Geena
 ---
 
 #has_/time_/started :: 1956-01-21 

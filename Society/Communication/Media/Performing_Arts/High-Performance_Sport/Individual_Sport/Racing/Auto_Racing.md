@@ -6,6 +6,7 @@ aliases:
   - car_racing
   - motor racing
   - automobile racing
+  - Auto Racing
 has_id_wikidata: Q5386
 ---
 

@@ -4,20 +4,22 @@ aliases:
   - web_api
   - WebAPI
   - is_a_web_api
+  - Web_Api
+  - Web Api
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - web_api
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_web_api Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

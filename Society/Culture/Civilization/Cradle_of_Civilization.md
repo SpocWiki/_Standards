@@ -1,11 +1,13 @@
 ---
 aliases:
   - Cradle of civilization
+  - Cradle_of_Civilization
+  - Cradle of Civilization
 has_id_wikidata: Q1207629
 subclass_of:
-  - "[[_Standards/WikiData/WD~cultural_region,3502482]]"
-  - "[[_Standards/WikiData/WD~civilization,8432]]"
-different_from: "[[_Standards/WikiData/WD~Four_Great_Ancient_Civilizations,111193196]]"
+  - '[[_Standards/WikiData/WD~cultural_region,3502482]]'
+  - '[[_Standards/WikiData/WD~civilization,8432]]'
+different_from: '[[_Standards/WikiData/WD~Four_Great_Ancient_Civilizations,111193196]]'
 ---
 
 # [[Cradle_of_Civilization]] 

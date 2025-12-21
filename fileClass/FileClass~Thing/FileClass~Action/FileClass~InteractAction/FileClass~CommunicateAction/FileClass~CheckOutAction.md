@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CheckOutAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CheckOutAction
-- class/Thing/Action/InteractAction/CommunicateAction/CheckOutAction
-- is_a_/CheckOutAction
-- schema-org/CheckOutAction
+  - class/CheckOutAction
+  - class/Thing/Action/InteractAction/CommunicateAction/CheckOutAction
+  - is_a_/CheckOutAction
+  - schema-org/CheckOutAction
 tags:
-- class/FileClass
-- class/CheckOutAction
-- is_a_/CheckOutAction
-- class/Thing/Action/InteractAction/CommunicateAction/CheckOutAction
+  - class/FileClass
+  - class/CheckOutAction
+  - is_a_/CheckOutAction
+  - class/Thing/Action/InteractAction/CommunicateAction/CheckOutAction
 version: 2.0
 ---
 

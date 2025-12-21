@@ -4,20 +4,22 @@ aliases:
   - agree_action
   - AgreeAction
   - is_an_agree_action
+  - Agree_Action
+  - Agree Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - agree_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_agree_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

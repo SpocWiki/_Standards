@@ -1,8 +1,9 @@
 ---
 aliases:
-- "Ken Thompson"
-- Ken_Thompson
-- Thompson~Ken
+  - Ken Thompson
+  - Ken_Thompson
+  - Thompson~Ken
+  - Thompson,Ken
 ---
 
 > Kenneth Lane Thompson (born 1943-02-04) 

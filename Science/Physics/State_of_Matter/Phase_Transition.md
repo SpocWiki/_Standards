@@ -2,14 +2,16 @@
 aliases:
   - phase transition
   - phase Change
+  - Phase_Transition
+  - Phase Transition
 has_id_wikidata: Q185357
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~change_of_state,2956046]]"
-  - "[[_Standards/WikiData/WD~thermodynamic_process_path,7783163]]"
-  - "[[_Standards/WikiData/WD~threshold_effect,7798100]]"
-  - "[[_Standards/WikiData/WD~transformation,65757353]]"
-studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
+  - '[[_Standards/WikiData/WD~change_of_state,2956046]]'
+  - '[[_Standards/WikiData/WD~thermodynamic_process_path,7783163]]'
+  - '[[_Standards/WikiData/WD~threshold_effect,7798100]]'
+  - '[[_Standards/WikiData/WD~transformation,65757353]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Phase%20change%20-%20en.svg
 IEV_number: 113-02-06
 MeSH_tree_code:

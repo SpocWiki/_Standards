@@ -2,62 +2,63 @@
 aliases:
   - Rechner
   - Computers
+  - Computer
 has_id_wikidata: Q68
 different_from:
-  - "[[_Standards/WikiData/WD~computing,179310]]"
-  - "[[_Standards/WikiData/WD~computer_monitor,5290]]"
-  - "[[_Standards/WikiData/WD~central_processing_unit,5300]]"
+  - '[[_Standards/WikiData/WD~computing,179310]]'
+  - '[[_Standards/WikiData/WD~computer_monitor,5290]]'
+  - '[[_Standards/WikiData/WD~central_processing_unit,5300]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~graphics_processing_unit,183484]]"
-  - "[[_Standards/WikiData/WD~input_output_device,2384798]]"
-  - "[[_Standards/WikiData/WD~computer_hardware,3966]]"
-  - "[[_Standards/WikiData/WD~central_processing_unit,5300]]"
-  - "[[_Standards/WikiData/WD~software,7397]]"
-  - "[[_Standards/WikiData/WD~computer_keyboard,250]]"
+  - '[[_Standards/WikiData/WD~graphics_processing_unit,183484]]'
+  - '[[_Standards/WikiData/WD~input_output_device,2384798]]'
+  - '[[_Standards/WikiData/WD~computer_hardware,3966]]'
+  - '[[_Standards/WikiData/WD~central_processing_unit,5300]]'
+  - '[[_Standards/WikiData/WD~software,7397]]'
+  - '[[_Standards/WikiData/WD~computer_keyboard,250]]'
 uses:
-  - "[[_Standards/WikiData/WD~mechanical_energy,184550]]"
-  - "[[_Standards/WikiData/WD~electronics,11650]]"
-  - "[[_Standards/WikiData/WD~electricity,12725]]"
+  - '[[_Standards/WikiData/WD~mechanical_energy,184550]]'
+  - '[[_Standards/WikiData/WD~electronics,11650]]'
+  - '[[_Standards/WikiData/WD~electricity,12725]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~computing_platform,241317]]"
-  - "[[_Standards/WikiData/WD~data_terminal_equipment,1172400]]"
-  - "[[_Standards/WikiData/WD~IT_system,1662611]]"
-  - "[[_Standards/WikiData/WD~information_processor,3181395]]"
-  - "[[_Standards/WikiData/WD~computer_file_location,115517465]]"
-  - "[[_Standards/WikiData/WD~machine,11019]]"
+  - '[[_Standards/WikiData/WD~computing_platform,241317]]'
+  - '[[_Standards/WikiData/WD~data_terminal_equipment,1172400]]'
+  - '[[_Standards/WikiData/WD~IT_system,1662611]]'
+  - '[[_Standards/WikiData/WD~information_processor,3181395]]'
+  - '[[_Standards/WikiData/WD~computer_file_location,115517465]]'
+  - '[[_Standards/WikiData/WD~machine,11019]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~class_of_computers,716676]]"
-  - "[[_Standards/WikiData/WD~computer_performance,1197550]]"
-  - "[[_Standards/WikiData/WD~computer_configuration,1781447]]"
-  - "[[_Standards/WikiData/WD~computer_interface,23808]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_computing_device,5616658]]"
+  - '[[_Standards/WikiData/WD~class_of_computers,716676]]'
+  - '[[_Standards/WikiData/WD~computer_performance,1197550]]'
+  - '[[_Standards/WikiData/WD~computer_configuration,1781447]]'
+  - '[[_Standards/WikiData/WD~computer_interface,23808]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_computing_device,5616658]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~MUSASINO_1,6719084]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_computers,7112590]]"
+  - '[[_Standards/WikiData/WD~MUSASINO_1,6719084]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_computers,7112590]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~invention,14208553]]"
+  - '[[_Standards/WikiData/WD~invention,14208553]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q55744235,55744235]]"
-  - "[[_Standards/WikiData/WD~computer,134875356]]"
+  - '[[_Standards/WikiData/WD~Q55744235,55744235]]'
+  - '[[_Standards/WikiData/WD~computer,134875356]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~computer_science,21198]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Charles_Babbage,46633]]"
+  - '[[_Standards/WikiData/WD~computer_science,21198]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Charles_Babbage,46633]]'
 Commons_gallery: Computer
-OmegaWiki_Defined_Meaning: "5669"
-Nomenclature_for_Museum_Cataloging: "10453"
+OmegaWiki_Defined_Meaning: 5669
+Nomenclature_for_Museum_Cataloging: 10453
 social_media_followers: 175367
 hashtag_: computer
 IMDb_keyword: computer
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Apple%20II%20Plus%2C%20Museum%20of%20the%20Moving%20Image.jpg
 Dewey_Decimal_Classification:
-  - "004"
-  - "004.1"
-  - "621.39"
+  - 004
+  - 004.1
+  - 621.39
 Iconclass_notation: 49D54
 Commons_category: Computers
 DPLA_subject_term: Computers
 time_of_discovery_or_invention: 1945-01-01T00:00:00Z
-U_S_National_Archives_Identifier: "10636641"
+U_S_National_Archives_Identifier: 10636641
 equivalent_class:
   - http://cat.aii.caas.cn/concept/21471
   - http://data.europa.eu/bkc/019.06.02.0450
@@ -65,7 +66,7 @@ equivalent_class:
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Laptop%20Wikivoyage%20banner.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Computer-article.ogg
 IEV_number: 171-01-25
-UNSPSC_Code: "43211500"
+UNSPSC_Code: 43211500
 UMLS_CUI: C0086044
 subreddit:
   - computers

@@ -1,14 +1,15 @@
 ---
 aliases:
   - Zahnbürste
+  - Toothbrush
 has_id_wikidata: Q134205
 has_use: "[[_Standards/WikiData/WD~tooth_brushing,93935]]"
 subclass_of:
   - "[[../../../../../WikiData/WD~brush,614467]]"
   - "[[_Standards/WikiData/WD~tooth_cleaning_instrument,122052040]]"
 described_by_source: "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-Nomenclature_for_Museum_Cataloging: "3146"
-OmegaWiki_Defined_Meaning: "7559"
+Nomenclature_for_Museum_Cataloging: 3146
+OmegaWiki_Defined_Meaning: 7559
 Commons_gallery: Toothbrush
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Toothbrush%20x3%2020050716%20002.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Zahnb%C3%BCrste.ogg
@@ -22,7 +23,7 @@ Commons_category: Toothbrushes
 Unicode_character: 🪥
 ---
 
-# [[Toothbrush]] 
+# [[Toothbrush]] 🪥 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Toothbrush,134205|WD~Toothbrush,134205]] 
 

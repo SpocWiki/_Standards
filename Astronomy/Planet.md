@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Planet
 has_id_wikidata: Q634
 child_astronomical_body: "[[_Standards/WikiData/WD~artificial_satellite,26540]]"
 Colon_Classification: B94
@@ -62,6 +64,8 @@ UMLS_CUI: C0080026
 Unicode_character: 🪐
 U_S_National_Archives_Identifier: 10646853
 ---
+
+# [[Planet]] 🪐 
 
 ## #has_/text_of_/abstract 
 

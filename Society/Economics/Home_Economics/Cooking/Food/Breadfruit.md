@@ -1,6 +1,7 @@
 ---
 aliases:
   - Brotfrucht
+  - Breadfruit
 has_id_wikidata: Q14677
 ---
 

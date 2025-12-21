@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~VideoGallery
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/VideoGallery
-- class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery/VideoGallery
-- is_a_/VideoGallery
-- schema-org/VideoGallery
+  - class/VideoGallery
+  - class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery/VideoGallery
+  - is_a_/VideoGallery
+  - schema-org/VideoGallery
 tags:
-- class/FileClass
-- class/VideoGallery
-- is_a_/VideoGallery
-- class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery/VideoGallery
+  - class/FileClass
+  - class/VideoGallery
+  - is_a_/VideoGallery
+  - class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery/VideoGallery
 version: 2.0
 ---
 

@@ -1,16 +1,17 @@
 ---
 aliases:
   - Rotverschiebung
+  - Redshift
 has_id_wikidata: Q76250
-subclass_of: "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-instance_of: "[[_Standards/WikiData/WD~physical_law,214070]]"
-opposite_of: "[[_Standards/WikiData/WD~blueshift,845345]]"
-different_from: "[[_Standards/WikiData/WD~Q1079596,1079596]]"
+subclass_of: '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+instance_of: '[[_Standards/WikiData/WD~physical_law,214070]]'
+opposite_of: '[[_Standards/WikiData/WD~blueshift,845345]]'
+different_from: '[[_Standards/WikiData/WD~Q1079596,1079596]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Photometric_redshift,3967221]]"
-  - "[[_Standards/WikiData/WD~spectroscopic_redshift,117776159]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - '[[_Standards/WikiData/WD~Photometric_redshift,3967221]]'
+  - '[[_Standards/WikiData/WD~spectroscopic_redshift,117776159]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x0394;</mi><mi>&#x03BB;</mi></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>&#x03BB;</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub></mstyle></mrow></math>

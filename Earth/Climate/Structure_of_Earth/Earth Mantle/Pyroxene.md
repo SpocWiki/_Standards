@@ -1,14 +1,15 @@
 ---
 aliases:
   - Pyroxenes
+  - Pyroxene
 has_id_wikidata: Q192880
-subclass_of: "[[_Standards/WikiData/WD~inosilicate,279440]]"
+subclass_of: '[[_Standards/WikiData/WD~inosilicate,279440]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-instance_of: "[[_Standards/WikiData/WD~mineral_group,1936581]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q10716785,10716785]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+instance_of: '[[_Standards/WikiData/WD~mineral_group,1936581]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q10716785,10716785]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/PIA17768-MarsCuriosityRover-HarrisonRock-20140115.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Pyroxene%20crystals.jpg

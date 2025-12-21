@@ -4,22 +4,24 @@ aliases:
   - software_version
   - softwareVersion
   - has_text_of_software_version
+  - has_software_version
+  - has software version
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - software
   - version
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_software_version
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

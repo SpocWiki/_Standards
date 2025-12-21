@@ -4,20 +4,22 @@ aliases:
   - roofing_contractor
   - RoofingContractor
   - is_a_roofing_contractor
+  - Roofing_Contractor
+  - Roofing Contractor
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - roofing_contractor
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_roofing_contractor Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -4,21 +4,22 @@ aliases:
   - value_added_tax_included
   - valueAddedTaxIncluded
   - is_value_added_tax_included
+  - is value added tax included
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - value_added_tax_included
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_value_added_tax_included
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

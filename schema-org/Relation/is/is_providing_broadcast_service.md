@@ -4,20 +4,21 @@ aliases:
   - providing_broadcast_service
   - providesBroadcastService
   - is_providing_broadcast_service
+  - is providing broadcast service
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
-layout:
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_providing_broadcast_service
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

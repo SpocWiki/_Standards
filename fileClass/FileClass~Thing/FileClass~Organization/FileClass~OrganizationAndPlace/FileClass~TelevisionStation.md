@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~TelevisionStation
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields: []
 icon: radio-tower
 limit: 9
 mapWithTag: true
 tagNames:
-- class/TelevisionStation
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TelevisionStation
-- is_a_/TelevisionStation
-- schema-org/TelevisionStation
+  - class/TelevisionStation
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TelevisionStation
+  - is_a_/TelevisionStation
+  - schema-org/TelevisionStation
 tags:
-- class/FileClass
-- class/TelevisionStation
-- is_a_/TelevisionStation
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TelevisionStation
+  - class/FileClass
+  - class/TelevisionStation
+  - is_a_/TelevisionStation
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TelevisionStation
 version: 2.0
 ---
 

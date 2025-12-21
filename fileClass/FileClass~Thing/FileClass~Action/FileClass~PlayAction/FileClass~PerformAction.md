@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PerformAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~PlayAction
 fields:
-- id: VcaRZ6
-  name: EntertainmentBusiness
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness')"
-  type: MultiFile
-  path: ''
+  - id: VcaRZ6
+    name: EntertainmentBusiness
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PerformAction
-- class/Thing/Action/PlayAction/PerformAction
-- is_a_/PerformAction
-- schema-org/PerformAction
+  - class/PerformAction
+  - class/Thing/Action/PlayAction/PerformAction
+  - is_a_/PerformAction
+  - schema-org/PerformAction
 tags:
-- class/FileClass
-- class/PerformAction
-- is_a_/PerformAction
-- class/Thing/Action/PlayAction/PerformAction
+  - class/FileClass
+  - class/PerformAction
+  - is_a_/PerformAction
+  - class/Thing/Action/PlayAction/PerformAction
 version: 2.0
 ---
 

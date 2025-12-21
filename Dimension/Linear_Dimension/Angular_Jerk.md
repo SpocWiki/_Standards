@@ -1,7 +1,9 @@
 ---
 aliases:
-- Dim~Angular_Jerk
-- Dim~Angular_Jolt
+  - Dim~Angular_Jerk
+  - Dim~Angular_Jolt
+  - Angular_Jerk
+  - Angular Jerk
 ---
 
 # [[Angular_Jerk]] 

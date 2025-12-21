@@ -3,8 +3,9 @@ aliases:
   - General Conference on Weights and Measures
   - CGPM
   - Conférence générale des poids et mesures
+  - CIPM(General_Conference_on_Weights_and_Measures
+  - CIPM(General Conference on Weights and Measures
 has_id_wikidata: Q616838
-
 ---
 
 # [[CIPM(General_Conference_on_Weights_and_Measures]] 

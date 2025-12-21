@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~AboutPage
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/AboutPage
-- class/Thing/CreativeWork/WebPage/AboutPage
-- is_an_/AboutPage
-- schema-org/AboutPage
+  - class/AboutPage
+  - class/Thing/CreativeWork/WebPage/AboutPage
+  - is_an_/AboutPage
+  - schema-org/AboutPage
 tags:
-- class/FileClass
-- class/AboutPage
-- '#is_an_/AboutPage'
-- class/Thing/CreativeWork/WebPage/AboutPage
+  - class/FileClass
+  - class/AboutPage
+  - '#is_an_/AboutPage'
+  - class/Thing/CreativeWork/WebPage/AboutPage
 version: 2.0
 ---
 

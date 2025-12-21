@@ -4,25 +4,26 @@ aliases:
   - Philosopher
   - Philosoph
   - Philosophen
+has_id_wikidata: Q4964182
 Commons_category: Philosophers
 confidential: private
 cssclasses:
   - private
   - note
 depicted_by:
-  - "[[_Standards/WikiData/WD~Un_filosofo,_testa_coperta,131613862]]"
-  - "[[_Standards/WikiData/WD~Un_filosofo_a_spalle_nude,131613863]]"
-  - "[[_Standards/WikiData/WD~Un_filosofo,131613861]]"
-  - "[[_Standards/WikiData/WD~Un_filosofo_in_copricapo,131613864]]"
-  - "[[_Standards/WikiData/WD~Sarcophagus_of_the_centurion_Lucius_Pullius_Peregrinus,_with_philosophers,133281084]]"
-described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[_Standards/WikiData/WD~Un_filosofo,_testa_coperta,131613862]]'
+  - '[[_Standards/WikiData/WD~Un_filosofo_a_spalle_nude,131613863]]'
+  - '[[_Standards/WikiData/WD~Un_filosofo,131613861]]'
+  - '[[_Standards/WikiData/WD~Un_filosofo_in_copricapo,131613864]]'
+  - '[[_Standards/WikiData/WD~Sarcophagus_of_the_centurion_Lucius_Pullius_Peregrinus,_with_philosophers,133281084]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification: 109.2
 draft: true
 equivalent_class: http://dbpedia.org/ontology/Philosopher
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
+expiryDate: ''
 female_form_of_label:
   - filósofa
   - filosofa
@@ -50,19 +51,18 @@ female_form_of_label:
   - филозофкиња
   - jifilosopan
   - فيلسوفه
-field_of_this_occupation: "[[_Standards/WikiData/WD~philosophy,5891]]"
-has_effect: "[[_Standards/WikiData/WD~philosophical_viewpoint,30046560]]"
-has_id_wikidata: Q4964182
-has_list: "[[_Standards/WikiData/WD~list_of_philosophers,2489642]]"
+field_of_this_occupation: '[[_Standards/WikiData/WD~philosophy,5891]]'
+has_effect: '[[_Standards/WikiData/WD~philosophical_viewpoint,30046560]]'
+has_list: '[[_Standards/WikiData/WD~list_of_philosophers,2489642]]'
 has_Template:
-  - "[[Extract~Note~Template]]"
+  - '[[Extract~Note~Template]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Phi-collage.jpg
-instance_of: "[[_Standards/WikiData/WD~occupation,12737077]]"
+instance_of: '[[_Standards/WikiData/WD~occupation,12737077]]'
 isDeleted: false
 isReadOnly: false
 keywords: Philosopher
 lang: en
-layout:
+layout: ''
 license: (c)copyrighted
 linkTitle: Philosopher
 male_form_of_label:
@@ -80,21 +80,21 @@ montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Phi-collage.jp
 OmegaWiki_Defined_Meaning: 795447
 P8189: 987007541266305200
 patron_saint:
-  - "[[_Standards/WikiData/WD~Catherine_of_Alexandria,179718]]"
-  - "[[_Standards/WikiData/WD~Justin_Martyr,185117]]"
-  - "[[_Standards/WikiData/WD~Thomas_Aquinas,9438]]"
-  - "[[_Standards/WikiData/WD~Albertus_Magnus,60059]]"
+  - '[[_Standards/WikiData/WD~Catherine_of_Alexandria,179718]]'
+  - '[[_Standards/WikiData/WD~Justin_Martyr,185117]]'
+  - '[[_Standards/WikiData/WD~Thomas_Aquinas,9438]]'
+  - '[[_Standards/WikiData/WD~Albertus_Magnus,60059]]'
 Provenio_UUID:
   - d14d2c3a-0c1d-4edb-aebb-9ca7445eed52
   - d4719df5-3fb4-4018-8609-082050f9142a
 publish: false
-publishDate:
-subclass_of: "[[_Standards/WikiData/WD~humanities_scholar,16727193]]"
+publishDate: ''
+subclass_of: '[[_Standards/WikiData/WD~humanities_scholar,16727193]]'
 tags:
   - Philosopher
   - excalidraw
 title: Philosopher
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_philosopher,6182610]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_philosopher,6182610]]'
 type: private_note
 ---
 

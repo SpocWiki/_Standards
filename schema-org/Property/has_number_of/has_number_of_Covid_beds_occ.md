@@ -4,21 +4,22 @@ aliases:
   - cvd-num-beds-occ
   - cvdNumBedsOcc
   - has_number_of_Covid_beds_occ
+  - has number of Covid beds occ
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - cvd-num-beds-occ
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_cvd-num-beds-occ
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

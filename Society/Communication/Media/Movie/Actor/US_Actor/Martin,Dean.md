@@ -4,6 +4,7 @@ aliases:
   - Dean_Martin
   - Dean Martin
   - King of Cool
+  - Martin,Dean
 has_id_wikidata: Q215359
 ---
 

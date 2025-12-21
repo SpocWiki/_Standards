@@ -1,27 +1,29 @@
 ---
 aliases:
   - Union_of_Lublin
-  - "Union of Lublin (Polish: Unia lubelska; Lithuanian: Liublino unija"
+  - 'Union of Lublin (Polish: Unia lubelska; Lithuanian: Liublino unija'
+  - 1569-Union_of_Lublin
+  - 1569-Union of Lublin
 has_id_wikidata: Q963303
 instance_of:
-  - "[[_Standards/WikiData/WD~treaty,131569]]"
-  - "[[_Standards/WikiData/WD~real_union,1093720]]"
+  - '[[_Standards/WikiData/WD~treaty,131569]]'
+  - '[[_Standards/WikiData/WD~real_union,1093720]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Crown_of_the_Kingdom_of_Poland,171348]]"
-  - "[[_Standards/WikiData/WD~Grand_Duchy_of_Lithuania,49683]]"
+  - '[[_Standards/WikiData/WD~Crown_of_the_Kingdom_of_Poland,171348]]'
+  - '[[_Standards/WikiData/WD~Grand_Duchy_of_Lithuania,49683]]'
 signatory:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Poland,1649871]]"
-  - "[[_Standards/WikiData/WD~Grand_Duchy_of_Lithuania,49683]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_Poland,1649871]]'
+  - '[[_Standards/WikiData/WD~Grand_Duchy_of_Lithuania,49683]]'
 participant:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Poland,1649871]]"
-  - "[[_Standards/WikiData/WD~Grand_Duchy_of_Lithuania,49683]]"
-different_from: "[[_Standards/WikiData/WD~Union_of_Lublin,9366690]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_Poland,1649871]]'
+  - '[[_Standards/WikiData/WD~Grand_Duchy_of_Lithuania,49683]]'
+different_from: '[[_Standards/WikiData/WD~Union_of_Lublin,9366690]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 point_in_time: 1569-07-11T00:00:00Z
-location_of_formation: "[[_Standards/WikiData/WD~Lublin,37333]]"
-location: "[[_Standards/WikiData/WD~Lublin,37333]]"
+location_of_formation: '[[_Standards/WikiData/WD~Lublin,37333]]'
+location: '[[_Standards/WikiData/WD~Lublin,37333]]'
 Commons_category: Union of Lublin
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lublin%20Union%201569.PNG
 ---

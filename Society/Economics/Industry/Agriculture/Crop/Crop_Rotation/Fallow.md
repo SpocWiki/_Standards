@@ -2,7 +2,8 @@
 aliases:
   - Brache
   - Fallowing
-has_id_wikidata:
+  - Fallow
+has_id_wikidata: ''
 ---
 
 # [[Fallow]] 

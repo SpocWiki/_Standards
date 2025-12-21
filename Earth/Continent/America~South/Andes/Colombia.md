@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Colombia
+  - Colombie
+  - كولومبيا
+  - 哥伦比亚
+  - Колумбия
+  - the Republic of Colombia
+  - la República de Colombia
+has_id_wikidata: Q739
 different_from:
   - "[[_Standards/WikiData/WD~Cerete,100358]]"
   - "[[_Standards/WikiData/WD~Columbia,766625]]"
@@ -344,7 +353,7 @@ official_name:
   - Republika Kolumbii
   - República de Colombia
 short_name: 🇨🇴
-inception: "1810"
+inception: 1810
 has_time_started: 1810-06
 male_population:
   - 24779301
@@ -449,7 +458,6 @@ Commons_category: Colombia
 Commons_gallery: Colombia
 subreddit:
   - Colombia
-has_id_wikidata: Q739
 location:
   - 3.525
   - -75.225
@@ -466,20 +474,12 @@ cssclasses:
   - Country
 publish: true
 title: Colombia
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Colombia
-  - Colombie
-  - كولومبيا
-  - 哥伦比亚
-  - Колумбия
-  - the Republic of Colombia
-  - la República de Colombia
+publishDate: ""
+expiryDate: ""
 Languages:
   - es-CO
 icon: flag-co

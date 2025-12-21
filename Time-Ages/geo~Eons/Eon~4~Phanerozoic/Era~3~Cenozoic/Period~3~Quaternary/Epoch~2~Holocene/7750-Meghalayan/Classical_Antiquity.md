@@ -1,72 +1,72 @@
 ---
 aliases:
-- "classical age"
-- "classical era"
-- "classical period"
-- antiquity
-- "Classical Antiquity"
-- Classical_Antiquity
-Commons_category: "Ancient history"
+  - classical age
+  - classical era
+  - classical period
+  - antiquity
+  - Classical Antiquity
+  - Classical_Antiquity
+has_id_wikidata: Q486761
+Commons_category: Ancient history
 confidential: private
 cssclasses:
-- private
-- note
+  - private
+  - note
 described_by_source:
-- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+  - '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
 draft: true
 end_time: 0500-06
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: 
+expiryDate: ''
 facet_of:
-- '[[_Standards/WikiData/WD~Greco-Roman_world,937284]]'
+  - '[[_Standards/WikiData/WD~Greco-Roman_world,937284]]'
 follows: '[[_Standards/WikiData/WD~Early_antiquity,98270938]]'
-has_id_wikidata: Q486761
 has_part_s_:
-- '[[_Standards/WikiData/WD~Etruscans,17161]]'
-- '[[_Standards/WikiData/WD~Lydians,1778719]]'
-- '[[_Standards/WikiData/WD~Macedonia,83958]]'
-- '[[_Standards/WikiData/WD~Scythians,131802]]'
-- '[[_Standards/WikiData/WD~Bronze_age_Cyprus,245813]]'
-- '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
-- '[[_Standards/WikiData/WD~Italic_peoples,3617880]]'
+  - '[[_Standards/WikiData/WD~Etruscans,17161]]'
+  - '[[_Standards/WikiData/WD~Lydians,1778719]]'
+  - '[[_Standards/WikiData/WD~Macedonia,83958]]'
+  - '[[_Standards/WikiData/WD~Scythians,131802]]'
+  - '[[_Standards/WikiData/WD~Bronze_age_Cyprus,245813]]'
+  - '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
+  - '[[_Standards/WikiData/WD~Italic_peoples,3617880]]'
 has_Template: '[[Extract~Note~Template]]'
 Iconclass_notation:
-- 23T23
-- 98
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20pano%20%284362583154%29.jpg"
+  - 23T23
+  - 98
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20pano%20%284362583154%29.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~style,1292119]]'
-- '[[_Standards/WikiData/WD~historical_period,11514315]]'
+  - '[[_Standards/WikiData/WD~style,1292119]]'
+  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
 isDeleted: false
 isReadOnly: false
 keywords: Classical_Antiquity
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Classical_Antiquity
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Mediterranean_Basin,72499]]'
 Provenio_UUID: 6ed0abb9-8760-428d-bbf2-89754e4fd8ef
 publish: false
-publishDate: 
+publishDate: ''
 start_time:
-- -0798
-- -1198
+  - -0798
+  - -1198
 studied_in:
-- '[[_Standards/WikiData/WD~Classical_Greek_and_Roman_history,112939719]]'
-- '[[_Standards/WikiData/WD~classical_philology,495527]]'
+  - '[[_Standards/WikiData/WD~Classical_Greek_and_Roman_history,112939719]]'
+  - '[[_Standards/WikiData/WD~classical_philology,495527]]'
 TableByName:
   Classical_Antiquity.tsv:
     columns:
-    - Event
-    - Start
-    - Stop
-    headings: 
-    align: "|---|--:|--:|"
+      - Event
+      - Start
+      - Stop
+    headings: ''
+    align: '|---|--:|--:|'
 tags:
-- Classical_Antiquity
-- excalidraw
+  - Classical_Antiquity
+  - excalidraw
 title: Classical_Antiquity
 type: private_note
 ---

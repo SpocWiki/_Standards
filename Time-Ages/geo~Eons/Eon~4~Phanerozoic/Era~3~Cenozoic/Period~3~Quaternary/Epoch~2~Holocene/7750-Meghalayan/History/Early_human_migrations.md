@@ -2,8 +2,9 @@
 aliases:
   - Early human migrations
   - Frühe Wanderung des Menschen
+  - Early_human_migrations
 has_id_wikidata: Q858288
-has_part_s_: "[[_Standards/WikiData/WD~human_migration,177626]]"
+has_part_s_: '[[_Standards/WikiData/WD~human_migration,177626]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Spreading%20homo%20sapiens%20la.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Early%20migrations%20mercator.svg

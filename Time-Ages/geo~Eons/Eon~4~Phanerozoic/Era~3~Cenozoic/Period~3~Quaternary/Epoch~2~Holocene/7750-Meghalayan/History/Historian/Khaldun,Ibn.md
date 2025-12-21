@@ -1,59 +1,60 @@
 ---
 aliases:
   - Ibn Khaldun
+  - Khaldun,Ibn
+has_id_wikidata: Q9294
 ArhivX_LOD:
   - 35568
   - 74262
 BHCL_UUID: 3db1598f-587e-4126-a5b8-a411cffd7543
 Commons_category: Ibn Khaldun
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_birth: 1332-06-04
 date_of_death: 1406-03-26
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Africa__An_Encyclopedic_Reference,115653803]]"
-educated_at: "[[_Standards/WikiData/WD~Ez-Zitouna_University,428136]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Africa__An_Encyclopedic_Reference,115653803]]'
+educated_at: '[[_Standards/WikiData/WD~Ez-Zitouna_University,428136]]'
 Europeana_entity: agent/base/145491
 field_of_work:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~economics,8134]]"
-  - "[[_Standards/WikiData/WD~sociology,21201]]"
-  - "[[_Standards/WikiData/WD~anthropology,23404]]"
-given_name: "[[_Standards/WikiData/WD~Abd_al-Rahman,307378]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~philosophy,5891]]'
+  - '[[_Standards/WikiData/WD~economics,8134]]'
+  - '[[_Standards/WikiData/WD~sociology,21201]]'
+  - '[[_Standards/WikiData/WD~anthropology,23404]]'
+given_name: '[[_Standards/WikiData/WD~Abd_al-Rahman,307378]]'
 Google_Doodle: birthday-of-ibn-khaldun
-has_id_wikidata: Q9294
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bust%20of%20Ibn%20Khaldun%20%28Casbah%20of%20Bejaia%2C%20Algeria%29.jpg
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 121296275
 Krugosvet_article: gumanitarnye_nauki/filosofiya/IBN_HALDUN_VALI_AD-DIN_ABD_AR-RAHMAN_IBN_MUHAMMAD.html
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Arabic,13955]]"
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Arabic,13955]]'
 Libris_URI: wt795rmf4hhldfb
 name_in_native_language: عبد الرحمٰن بن مُحمَّد بن خلدون الحضرمي
-notable_work: "[[_Standards/WikiData/WD~Book_of_Lessons,960651]]"
+notable_work: '[[_Standards/WikiData/WD~Book_of_Lessons,960651]]'
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~economist,188094]]"
-  - "[[_Standards/WikiData/WD~historian,201788]]"
-  - "[[_Standards/WikiData/WD~sociologist,2306091]]"
-  - "[[_Standards/WikiData/WD~anthropologist,4773904]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~judge,16533]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-place_of_birth: "[[_Standards/WikiData/WD~Tunis,3572]]"
-place_of_death: "[[_Standards/WikiData/WD~Cairo,85]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~economist,188094]]'
+  - '[[_Standards/WikiData/WD~historian,201788]]'
+  - '[[_Standards/WikiData/WD~sociologist,2306091]]'
+  - '[[_Standards/WikiData/WD~anthropologist,4773904]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~judge,16533]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
+place_of_birth: '[[_Standards/WikiData/WD~Tunis,3572]]'
+place_of_death: '[[_Standards/WikiData/WD~Cairo,85]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Q113320298,113320298]]"
-  - "[[_Standards/WikiData/WD~Template_Ibn_Khaldun,113320305]]"
+  - '[[_Standards/WikiData/WD~Q113320298,113320298]]'
+  - '[[_Standards/WikiData/WD~Template_Ibn_Khaldun,113320305]]'
 ---
 
 # [[Khaldun,Ibn]] 

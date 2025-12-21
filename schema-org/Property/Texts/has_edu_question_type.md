@@ -4,23 +4,25 @@ aliases:
   - edu_question_type
   - eduQuestionType
   - has_text_of_edu_question_type
+  - has_edu_question_type
+  - has edu question type
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - edu
   - question
   - type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_edu_question_type
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

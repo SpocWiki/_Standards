@@ -1,27 +1,28 @@
 ---
 aliases:
-- has_seller
-- has_merchant
-- has_vendor
+  - has_seller
+  - has_merchant
+  - has_vendor
+  - has seller
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- seller
-layout: 
-license: "CC BY-SA 4.0"
+  - seller
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_seller
 publish: true
-publishDate: 
-supersedes: "merchant, vendor"
+publishDate: ''
+supersedes: merchant, vendor
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_seller
 type: Predi_Relation
 ---

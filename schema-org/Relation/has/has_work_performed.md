@@ -3,23 +3,24 @@ aliases:
   - has work-performed
   - workPerformed
   - has_work_performed
+  - has work performed
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - work_performed
   - work
   - performed
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_work_performed
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

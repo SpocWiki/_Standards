@@ -1,51 +1,53 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Rating
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: IDBV5h
-  name: Author
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: 9rIjaO
-  name: BestRating
-  options: {}
-  type: Number
-  path: ''
-- id: y8v6ME
-  name: RatingExplanation
-  options: {}
-  type: Input
-  path: ''
-- id: XD34Hc
-  name: RatingValue
-  options: {}
-  type: Number
-  path: ''
-- id: AR8Rni
-  name: ReviewAspect
-  options: {}
-  type: Input
-  path: ''
-- id: nbHUcU
-  name: WorstRating
-  options: {}
-  type: Number
-  path: ''
+  - id: IDBV5h
+    name: Author
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: 9rIjaO
+    name: BestRating
+    options: {}
+    type: Number
+    path: ''
+  - id: y8v6ME
+    name: RatingExplanation
+    options: {}
+    type: Input
+    path: ''
+  - id: XD34Hc
+    name: RatingValue
+    options: {}
+    type: Number
+    path: ''
+  - id: AR8Rni
+    name: ReviewAspect
+    options: {}
+    type: Input
+    path: ''
+  - id: nbHUcU
+    name: WorstRating
+    options: {}
+    type: Number
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Rating
-- class/Thing/Intangible/Rating
-- is_a_/Rating
-- schema-org/Rating
+  - class/Rating
+  - class/Thing/Intangible/Rating
+  - is_a_/Rating
+  - schema-org/Rating
 tags:
-- class/FileClass
-- class/Rating
-- is_a_/Rating
-- class/Thing/Intangible/Rating
+  - class/FileClass
+  - class/Rating
+  - is_a_/Rating
+  - class/Thing/Intangible/Rating
 version: 2.0
 ---
 

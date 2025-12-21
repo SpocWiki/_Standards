@@ -4,28 +4,28 @@ aliases:
   - جبل طارق
   - 直布罗陀
   - Гибралтар
-  - 
+  - ''
 confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
+keywords: ''
 Languages:
   - en-GI
   - es
   - it
   - pt
-layout:
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 location:
   - 36.1
   - -5.35
 publish: true
-publishDate:
+publishDate: ''
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26904
 tags:

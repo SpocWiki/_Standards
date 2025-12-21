@@ -1,4 +1,7 @@
 ---
+aliases:
+  - has_location
+  - has location
 icon: fas_location_dot
 ---
 

@@ -7,20 +7,21 @@ aliases:
   - Indo-Tibetan Buddhism
   - Tantric Buddhism
   - Esoteric Buddhism
+  - Vajrayana
 has_id_wikidata: Q172175
 different_from:
-  - "[[_Standards/WikiData/WD~Tibetan_Buddhism,483889]]"
-  - "[[_Standards/WikiData/WD~Tantra_techniques,7683864]]"
-instance_of: "[[_Standards/WikiData/WD~yana,15489667]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Vajrayana,18996336]]"
-subclass_of: "[[_Standards/WikiData/WD~Buddhism,748]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Buddhism,748]]"
+  - '[[_Standards/WikiData/WD~Tibetan_Buddhism,483889]]'
+  - '[[_Standards/WikiData/WD~Tantra_techniques,7683864]]'
+instance_of: '[[_Standards/WikiData/WD~yana,15489667]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Vajrayana,18996336]]'
+subclass_of: '[[_Standards/WikiData/WD~Buddhism,748]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Buddhism,748]]'
 Commons_category: Vajrayana
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ghanta%20et%20Vajra%20%28British%20Museum%29%20%288697431158%29.jpg
 Stack_Exchange_tag: https://buddhism.stackexchange.com/tags/vajrayana
 Dewey_Decimal_Classification:
-  - "294.385"
-  - "294.3925"
+  - 294.385
+  - 294.3925
 OpenStreetMap_tag: denomination=vajrayana
 ---
 

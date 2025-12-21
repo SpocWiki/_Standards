@@ -4,30 +4,32 @@ aliases:
   - Bedienstete
   - Servant
   - Diener
+  - Domestic_Worker
+  - Domestic Worker
 has_id_wikidata: Q54128
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~domestic_worker,464705]]"
-  - "[[_Standards/WikiData/WD~activities_of_households_as_employers_of_domestic_personnel,29584382]]"
+  - '[[_Standards/WikiData/WD~domestic_worker,464705]]'
+  - '[[_Standards/WikiData/WD~activities_of_households_as_employers_of_domestic_personnel,29584382]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~domestic_worker,464705]]"
-  - "[[_Standards/WikiData/WD~blue_collar_worker,1191714]]"
-  - "[[_Standards/WikiData/WD~companions_and_valets,108290509]]"
-patron_saint: "[[_Standards/WikiData/WD~St._Zita,744884]]"
+  - '[[_Standards/WikiData/WD~domestic_worker,464705]]'
+  - '[[_Standards/WikiData/WD~blue_collar_worker,1191714]]'
+  - '[[_Standards/WikiData/WD~companions_and_valets,108290509]]'
+patron_saint: '[[_Standards/WikiData/WD~St._Zita,744884]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Sluga,7542236]]"
-  - "[[_Standards/WikiData/WD~diarist,18939491]]"
-  - "[[_Standards/WikiData/WD~servant,119574553]]"
-field_of_this_occupation: "[[_Standards/WikiData/WD~undifferentiated_service_producing_activities_of_private_households_for_own_use,29584148]]"
-instance_of: "[[_Standards/WikiData/WD~profession,28640]]"
+  - '[[_Standards/WikiData/WD~Sluga,7542236]]'
+  - '[[_Standards/WikiData/WD~diarist,18939491]]'
+  - '[[_Standards/WikiData/WD~servant,119574553]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~undifferentiated_service_producing_activities_of_private_households_for_own_use,29584148]]'
+instance_of: '[[_Standards/WikiData/WD~profession,28640]]'
 ISCO_88_occupation_class:
-  - "5152"
-  - "9111"
+  - 5152
+  - 9111
 female_form_of_label:
   - servistino
   - domestique

@@ -4,21 +4,23 @@ aliases:
   - wearable_size_system_mx
   - WearableSizeSystemMX
   - is_a_wearable_size_system_mx
+  - Wearable_Size_System_Mx
+  - Wearable Size System Mx
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableSizeSystemEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_size_system_mx
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_size_system_mx Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

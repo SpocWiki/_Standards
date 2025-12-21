@@ -3,50 +3,51 @@ aliases:
   - Pancho_Villa
   - Francisco "Pancho" Villa
   - José Doroteo Arango Arámbula
+  - Pancho Villa
 has_id_wikidata: Q192278
 Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/4242048
 birth_name: José Doroteo Arango Arámbula
 date_of_death: 1923-07-20T00:00:00Z
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~partisan,212948]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~general,83460]]"
-manner_of_death: "[[_Standards/WikiData/WD~homicide,149086]]"
-place_of_death: "[[_Standards/WikiData/WD~Hidalgo_del_Parral,771214]]"
-different_from: "[[_Standards/WikiData/WD~Pancho_Villa,918853]]"
-cause_of_death: "[[_Standards/WikiData/WD~gunshot_wound,2140674]]"
-allegiance: "[[_Standards/WikiData/WD~Partido_Nacional_Antirreeleccionista,2181853]]"
-place_of_birth: "[[_Standards/WikiData/WD~San_Juan_del_Río_del_Centauro_del_Norte,2389297]]"
-owner_of: "[[_Standards/WikiData/WD~Siete_Leguas,2555186]]"
-has_pet: "[[_Standards/WikiData/WD~Siete_Leguas,2555186]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~partisan,212948]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~general,83460]]'
+manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
+place_of_death: '[[_Standards/WikiData/WD~Hidalgo_del_Parral,771214]]'
+different_from: '[[_Standards/WikiData/WD~Pancho_Villa,918853]]'
+cause_of_death: '[[_Standards/WikiData/WD~gunshot_wound,2140674]]'
+allegiance: '[[_Standards/WikiData/WD~Partido_Nacional_Antirreeleccionista,2181853]]'
+place_of_birth: '[[_Standards/WikiData/WD~San_Juan_del_Río_del_Centauro_del_Norte,2389297]]'
+owner_of: '[[_Standards/WikiData/WD~Siete_Leguas,2555186]]'
+has_pet: '[[_Standards/WikiData/WD~Siete_Leguas,2555186]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Doroteo,5813598]]"
-  - "[[_Standards/WikiData/WD~José,29043257]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-facial_hair: "[[_Standards/WikiData/WD~walrus_moustache,7963760]]"
-position_held: "[[_Standards/WikiData/WD~Governor_of_Chihuahua,9282520]]"
-family_name: "[[_Standards/WikiData/WD~Arango,20819891]]"
-second_family_name_in_Spanish_name: "[[_Standards/WikiData/WD~Arámbula,63346756]]"
-spouse: "[[_Standards/WikiData/WD~María_Luz_Corral,100233551]]"
+  - '[[_Standards/WikiData/WD~Doroteo,5813598]]'
+  - '[[_Standards/WikiData/WD~José,29043257]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+facial_hair: '[[_Standards/WikiData/WD~walrus_moustache,7963760]]'
+position_held: '[[_Standards/WikiData/WD~Governor_of_Chihuahua,9282520]]'
+family_name: '[[_Standards/WikiData/WD~Arango,20819891]]'
+second_family_name_in_Spanish_name: '[[_Standards/WikiData/WD~Arámbula,63346756]]'
+spouse: '[[_Standards/WikiData/WD~María_Luz_Corral,100233551]]'
 date_of_birth: 1878-06-05T00:00:00Z
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Spanish,1321]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Mexico,96]]"
-military_branch: "[[_Standards/WikiData/WD~cavalry,47315]]"
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Mexico,96]]'
+military_branch: '[[_Standards/WikiData/WD~cavalry,47315]]'
 Commons_category: Pancho Villa
 pseudonym:
   - Pancho Villa
   - Francisco Villa
 name_in_native_language: Pancho Villa
-U_S_National_Archives_Identifier: "10581814"
+U_S_National_Archives_Identifier: 10581814
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pancho%20Villa%20bandolier%20%28cropped%29.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Pancho%20Villa%20signature.svg
-ISNI: "0000000121244600"
+ISNI: 0000000121244600
 Libris_URI: 20dhm98l00m88d7
 Wolfram_Language_entity_code: Entity["Person", "PanchoVilla::m8byc"]
 ---

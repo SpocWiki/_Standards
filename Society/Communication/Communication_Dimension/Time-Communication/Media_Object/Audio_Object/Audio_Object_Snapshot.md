@@ -4,20 +4,22 @@ aliases:
   - audio_object_snapshot
   - AudioObjectSnapshot
   - is_an_audio_object_snapshot
+  - Audio_Object_Snapshot
+  - Audio Object Snapshot
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - audio_object_snapshot
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_audio_object_snapshot Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

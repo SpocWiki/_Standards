@@ -1,97 +1,27 @@
 ---
+aliases:
+  - Boltzmann_Constant
+  - Boltzmann Constant
 has_id_wikidata: Q5962
-named_after: "[[_Standards/WikiData/WD~Ludwig_Boltzmann,84296]]"
+named_after: '[[_Standards/WikiData/WD~Ludwig_Boltzmann,84296]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~physical_constant,173227]]"
-  - "[[_Standards/WikiData/WD~UCUM_constant,83155724]]"
-  - "[[_Standards/WikiData/WD~entropy,45003]]"
+  - '[[_Standards/WikiData/WD~physical_constant,173227]]'
+  - '[[_Standards/WikiData/WD~UCUM_constant,83155724]]'
+  - '[[_Standards/WikiData/WD~entropy,45003]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Boltzmann_number,3343051]]"
-  - "[[_Standards/WikiData/WD~Stefan_Boltzmann_constant,51374]]"
-measured_physical_quantity: "[[_Standards/WikiData/WD~entropy,45003]]"
+  - '[[_Standards/WikiData/WD~Boltzmann_number,3343051]]'
+  - '[[_Standards/WikiData/WD~Stefan_Boltzmann_constant,51374]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~entropy,45003]]'
 IEV_number: 113-02-17
 numeric_value: 1.380649e-23
-UCUM_code: "[k]"
-ISQ_dimension: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\mathsf {L}}^{2}{\mathsf {M}}{\mathsf {T}}^{-2}{\mathsf {\Theta }}^{-1}}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <msup>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mrow class="MJX-TeXAtom-ORD">
-                <mi mathvariant="sans-serif">L</mi>
-              </mrow>
-            </mrow>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mn>2</mn>
-            </mrow>
-          </msup>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="sans-serif">M</mi>
-            </mrow>
-          </mrow>
-          <msup>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mrow class="MJX-TeXAtom-ORD">
-                <mi mathvariant="sans-serif">T</mi>
-              </mrow>
-            </mrow>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo>&#x2212;<!-- − --></mo>
-              <mn>2</mn>
-            </mrow>
-          </msup>
-          <msup>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mrow class="MJX-TeXAtom-ORD">
-                <mi mathvariant="sans-serif">&#x0398;<!-- Θ --></mi>
-              </mrow>
-            </mrow>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo>&#x2212;<!-- − --></mo>
-              <mn>1</mn>
-            </mrow>
-          </msup>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle {\mathsf {L}}^{2}{\mathsf {M}}{\mathsf {T}}^{-2}{\mathsf {\Theta }}^{-1}}</annotation>
-    </semantics>
-  </math>
+UCUM_code: '[k]'
+ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {L}}^{2}{\\mathsf {M}}{\\mathsf {T}}^{-2}{\\mathsf {\\Theta }}^{-1}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">L</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>2</mn>\n          </mrow>\n        </msup>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi mathvariant=\"sans-serif\">M</mi>\n          </mrow>\n        </mrow>\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">T</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mo>&#x2212;<!-- − --></mo>\n            <mn>2</mn>\n          </mrow>\n        </msup>\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">&#x0398;<!-- Θ --></mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mo>&#x2212;<!-- − --></mo>\n            <mn>1</mn>\n          </mrow>\n        </msup>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {L}}^{2}{\\mathsf {M}}{\\mathsf {T}}^{-2}{\\mathsf {\\Theta }}^{-1}}</annotation>\n  </semantics>\n</math>"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Zentralfriedhof%20Vienna%20-%20Boltzmann.JPG
 Wolfram_Language_unit_code: '"BoltzmannConstant"'
 Wolfram_Language_entity_code: Entity["PhysicalConstant", "BoltzmannConstant"]
 quantity_symbol_LaTeX_:
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle k}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>k</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle k}</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle k_{\mathrm {B} }}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <msub>
-              <mi>k</mi>
-              <mrow class="MJX-TeXAtom-ORD">
-                <mrow class="MJX-TeXAtom-ORD">
-                  <mi mathvariant="normal">B</mi>
-                </mrow>
-              </mrow>
-            </msub>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle k_{\mathrm {B} }}</annotation>
-      </semantics>
-    </math>
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle k}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>k</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle k}</annotation>\n  </semantics>\n</math>"
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle k_{\\mathrm {B} }}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msub>\n          <mi>k</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"normal\">B</mi>\n            </mrow>\n          </mrow>\n        </msub>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle k_{\\mathrm {B} }}</annotation>\n  </semantics>\n</math>"
 ---
 
 # [[Boltzmann_Constant]] 

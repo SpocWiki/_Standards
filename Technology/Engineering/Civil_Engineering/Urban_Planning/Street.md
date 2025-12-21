@@ -1,42 +1,43 @@
 ---
 aliases:
   - Straße
+  - Street
 has_id_wikidata: Q79007
-Dewey_Decimal_Classification: "388.411"
+Dewey_Decimal_Classification: 388.411
 model_item:
-  - "[[_Standards/WikiData/WD~Unter_den_Linden,160899]]"
-  - "[[_Standards/WikiData/WD~Appian_Way,189417]]"
-  - "[[_Standards/WikiData/WD~Bukit_Timah_Road,1003270]]"
-  - "[[_Standards/WikiData/WD~Cannery_Row,1033387]]"
+  - '[[_Standards/WikiData/WD~Unter_den_Linden,160899]]'
+  - '[[_Standards/WikiData/WD~Appian_Way,189417]]'
+  - '[[_Standards/WikiData/WD~Bukit_Timah_Road,1003270]]'
+  - '[[_Standards/WikiData/WD~Cannery_Row,1033387]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~sidewalk,177749]]"
-  - "[[_Standards/WikiData/WD~lawn,207766]]"
-  - "[[_Standards/WikiData/WD~streetlight,503958]]"
-  - "[[_Standards/WikiData/WD~roadway,1645474]]"
-  - "[[_Standards/WikiData/WD~pedestrian_crossing,8010]]"
-  - "[[_Standards/WikiData/WD~bridge,12280]]"
-  - "[[_Standards/WikiData/WD~stairs,12511]]"
+  - '[[_Standards/WikiData/WD~sidewalk,177749]]'
+  - '[[_Standards/WikiData/WD~lawn,207766]]'
+  - '[[_Standards/WikiData/WD~streetlight,503958]]'
+  - '[[_Standards/WikiData/WD~roadway,1645474]]'
+  - '[[_Standards/WikiData/WD~pedestrian_crossing,8010]]'
+  - '[[_Standards/WikiData/WD~bridge,12280]]'
+  - '[[_Standards/WikiData/WD~stairs,12511]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Calle,242665]]"
-  - "[[_Standards/WikiData/WD~Gata,399713]]"
-  - "[[_Standards/WikiData/WD~Street,447936]]"
-  - "[[_Standards/WikiData/WD~Ulica,7878954]]"
-  - "[[_Standards/WikiData/WD~Dorfstraße,116031601]]"
-part_of: "[[_Standards/WikiData/WD~address,319608]]"
+  - '[[_Standards/WikiData/WD~Calle,242665]]'
+  - '[[_Standards/WikiData/WD~Gata,399713]]'
+  - '[[_Standards/WikiData/WD~Street,447936]]'
+  - '[[_Standards/WikiData/WD~Ulica,7878954]]'
+  - '[[_Standards/WikiData/WD~Dorfstraße,116031601]]'
+part_of: '[[_Standards/WikiData/WD~address,319608]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~transport_infrastructure,376799]]"
-  - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
-  - "[[_Standards/WikiData/WD~road_or_street,123414165]]"
-  - "[[_Standards/WikiData/WD~road,34442]]"
+  - '[[_Standards/WikiData/WD~transport_infrastructure,376799]]'
+  - '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+  - '[[_Standards/WikiData/WD~road_or_street,123414165]]'
+  - '[[_Standards/WikiData/WD~road,34442]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_street,6151021]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox_Moscow_street,15987823]]"
-location: "[[_Standards/WikiData/WD~city,515]]"
+  - '[[_Standards/WikiData/WD~Template_Infobox_street,6151021]]'
+  - '[[_Standards/WikiData/WD~Template_Infobox_Moscow_street,15987823]]'
+location: '[[_Standards/WikiData/WD~city,515]]'
 Wikidata_property:
   - located on street
   - street key
@@ -47,8 +48,8 @@ properties_for_this_type:
   - country
   - located in the administrative territorial entity
   - named after
-partially_coincident_with: "[[_Standards/WikiData/WD~road,34442]]"
-OmegaWiki_Defined_Meaning: "5895"
+partially_coincident_with: '[[_Standards/WikiData/WD~road,34442]]'
+OmegaWiki_Defined_Meaning: 5895
 Commons_gallery: Street
 short_name:
   - ST

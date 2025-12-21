@@ -4,6 +4,7 @@ aliases:
   - Ferdinand Victor Eugène Delacroix
   - Eugène Delacroix
   - Delacroix
+  - Delacroix,Eugène
 has_id_wikidata: Q33477
 ---
 

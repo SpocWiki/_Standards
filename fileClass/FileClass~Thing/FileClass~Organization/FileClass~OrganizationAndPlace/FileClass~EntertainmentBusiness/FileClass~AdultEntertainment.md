@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~AdultEntertainment
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/AdultEntertainment
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AdultEntertainment
-- is_an_/AdultEntertainment
-- schema-org/AdultEntertainment
+  - class/AdultEntertainment
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AdultEntertainment
+  - is_an_/AdultEntertainment
+  - schema-org/AdultEntertainment
 tags:
-- class/FileClass
-- class/AdultEntertainment
-- '#is_an_/AdultEntertainment'
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AdultEntertainment
+  - class/FileClass
+  - class/AdultEntertainment
+  - '#is_an_/AdultEntertainment'
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AdultEntertainment
 version: 2.0
 ---
 

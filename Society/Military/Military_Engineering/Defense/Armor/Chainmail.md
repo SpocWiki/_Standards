@@ -1,11 +1,11 @@
 ---
-has_id_wikidata: Q659631
 aliases:
   - Chainmail
   - Chain-mail
   - Chain mail
   - maille
-  - 
+  - ''
+has_id_wikidata: Q659631
 ---
 
 # [[Chainmail]] 

@@ -3,34 +3,36 @@ aliases:
   - Liberal democracy
   - Western-style democracy
   - substantive democracy
+  - Liberal_Democracy
+  - Liberal Democracy
 has_id_wikidata: Q192125
 has_characteristic:
-  - "[[_Standards/WikiData/WD~separation_of_powers,79896]]"
-  - "[[_Standards/WikiData/WD~market_economy,179522]]"
-  - "[[_Standards/WikiData/WD~civil_and_political_rights,191600]]"
-  - "[[_Standards/WikiData/WD~universal_suffrage,319891]]"
-  - "[[_Standards/WikiData/WD~pluralism,333024]]"
-  - "[[_Standards/WikiData/WD~open_society,505605]]"
-  - "[[_Standards/WikiData/WD~private_property,555911]]"
-  - "[[_Standards/WikiData/WD~political_freedom,831058]]"
-  - "[[_Standards/WikiData/WD~political_party,7278]]"
-  - "[[_Standards/WikiData/WD~human_rights,8458]]"
-  - "[[_Standards/WikiData/WD~civil_liberties,29556]]"
-  - "[[_Standards/WikiData/WD~public_election,40231]]"
-  - "[[../../../../WikiData/WD~Rule_of_law,44918]]"
+  - '[[_Standards/WikiData/WD~separation_of_powers,79896]]'
+  - '[[_Standards/WikiData/WD~market_economy,179522]]'
+  - '[[_Standards/WikiData/WD~civil_and_political_rights,191600]]'
+  - '[[_Standards/WikiData/WD~universal_suffrage,319891]]'
+  - '[[_Standards/WikiData/WD~pluralism,333024]]'
+  - '[[_Standards/WikiData/WD~open_society,505605]]'
+  - '[[_Standards/WikiData/WD~private_property,555911]]'
+  - '[[_Standards/WikiData/WD~political_freedom,831058]]'
+  - '[[_Standards/WikiData/WD~political_party,7278]]'
+  - '[[_Standards/WikiData/WD~human_rights,8458]]'
+  - '[[_Standards/WikiData/WD~civil_liberties,29556]]'
+  - '[[_Standards/WikiData/WD~public_election,40231]]'
+  - '[[../../../../WikiData/WD~Rule_of_law,44918]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~political_philosophy,179805]]"
-  - "[[_Standards/WikiData/WD~form_of_government,1307214]]"
-subclass_of: "[[_Standards/WikiData/WD~representative_democracy,188759]]"
+  - '[[_Standards/WikiData/WD~political_philosophy,179805]]'
+  - '[[_Standards/WikiData/WD~form_of_government,1307214]]'
+subclass_of: '[[_Standards/WikiData/WD~representative_democracy,188759]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~Habeas_Corpus_Act_1679,492004]]"
-  - "[[_Standards/WikiData/WD~Petition_of_Right,584063]]"
-  - "[[_Standards/WikiData/WD~Magna_Carta,12519]]"
-opposite_of: "[[_Standards/WikiData/WD~illiberal_democracy,605479]]"
-different_from: "[[_Standards/WikiData/WD~national_democracy,6972194]]"
-based_on: "[[_Standards/WikiData/WD~liberalism,6216]]"
-uses: "[[_Standards/WikiData/WD~constitution,7755]]"
-significant_person: "[[_Standards/WikiData/WD~John_Locke,9353]]"
+  - '[[_Standards/WikiData/WD~Habeas_Corpus_Act_1679,492004]]'
+  - '[[_Standards/WikiData/WD~Petition_of_Right,584063]]'
+  - '[[_Standards/WikiData/WD~Magna_Carta,12519]]'
+opposite_of: '[[_Standards/WikiData/WD~illiberal_democracy,605479]]'
+different_from: '[[_Standards/WikiData/WD~national_democracy,6972194]]'
+based_on: '[[_Standards/WikiData/WD~liberalism,6216]]'
+uses: '[[_Standards/WikiData/WD~constitution,7755]]'
+significant_person: '[[_Standards/WikiData/WD~John_Locke,9353]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Feminist%20Suffrage%20Parade%20in%20New%20York%20City%2C%201912.jpeg
 ---
 

@@ -4,6 +4,7 @@ aliases:
   - Michael Jeffrey Jordan
   - Michael Jordan
   - Jordan
+  - Jordan,Michael
 has_id_wikidata: Q41421
 ---
 

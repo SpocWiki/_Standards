@@ -2,6 +2,7 @@
 aliases:
   - Paul Bruce Dickinson
   - Bruce Dickinson
+  - Dickinson,Bruce
 ---
 
 # [[Dickinson,Bruce]] 

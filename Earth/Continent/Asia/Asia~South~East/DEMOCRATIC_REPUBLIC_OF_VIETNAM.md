@@ -1,9 +1,12 @@
 ---
+aliases:
+  - DEMOCRATIC_REPUBLIC_OF_VIETNAM
+  - DEMOCRATIC REPUBLIC OF VIETNAM
 confidential: public
 isDeleted: false
 SpocWebEntityId: 76724
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

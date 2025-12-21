@@ -1,4 +1,7 @@
 ---
+aliases:
+  - has_number_of
+  - has number of
 icon: ril_number_9
 ---
 

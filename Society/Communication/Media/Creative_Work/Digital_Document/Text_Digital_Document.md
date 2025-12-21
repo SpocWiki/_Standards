@@ -4,20 +4,22 @@ aliases:
   - text_digital_document
   - TextDigitalDocument
   - is_a_text_digital_document
+  - Text_Digital_Document
+  - Text Digital Document
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - text_digital_document
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_text_digital_document Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

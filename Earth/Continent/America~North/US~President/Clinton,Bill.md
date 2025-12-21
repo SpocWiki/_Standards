@@ -1,26 +1,26 @@
 ---
 aliases:
-- Clinton,Bill
-- "Bill Clinton"
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Clinton,Bill
+  - Bill Clinton
+  - ''
 has_id_wikidata: Q1124
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Clinton,Bill
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Clinton,Bill
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Clinton,Bill
-- 
+  - Clinton,Bill
+  - ''
 title: Clinton,Bill
 type: private_note
 ---

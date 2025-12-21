@@ -1,18 +1,19 @@
 ---
 aliases:
   - Cheek to Cheek
+  - Cheek_to_Cheek
 has_id_wikidata: Q3351931
-performer: "[[_Standards/WikiData/WD~Fred_Astaire,100937]]"
-lyricist: "[[_Standards/WikiData/WD~Irving_Berlin,128746]]"
-composer: "[[_Standards/WikiData/WD~Irving_Berlin,128746]]"
-genre: "[[_Standards/WikiData/WD~popular_music,373342]]"
-music_created_for: "[[_Standards/WikiData/WD~Top_Hat,1139031]]"
-different_from: "[[_Standards/WikiData/WD~Cheek_to_Cheek,16768827]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-has_characteristic: "[[_Standards/WikiData/WD~film_song,93540236]]"
-instance_of: "[[_Standards/WikiData/WD~musical_work_composition,105543609]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~song,7366]]"
+performer: '[[_Standards/WikiData/WD~Fred_Astaire,100937]]'
+lyricist: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
+composer: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
+genre: '[[_Standards/WikiData/WD~popular_music,373342]]'
+music_created_for: '[[_Standards/WikiData/WD~Top_Hat,1139031]]'
+different_from: '[[_Standards/WikiData/WD~Cheek_to_Cheek,16768827]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
+has_characteristic: '[[_Standards/WikiData/WD~film_song,93540236]]'
+instance_of: '[[_Standards/WikiData/WD~musical_work_composition,105543609]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~song,7366]]'
 ISWC: T-900.755.439-4
 title: Cheek to Cheek
 publication_date: 1935-01-01T00:00:00Z

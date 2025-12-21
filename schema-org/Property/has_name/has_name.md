@@ -1,27 +1,28 @@
 ---
 aliases:
-- has_name
-- "http://dbpedia.org/resource/Name"
-- "schema:name"
-- "dbo:name"
+  - has_name
+  - http://dbpedia.org/resource/Name
+  - schema:name
+  - dbo:name
+  - has name
 confidential: public
 cssclasses:
-- Predicate
-- Text
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- name
-layout: 
-license: "CC BY-SA 4.0"
+  - name
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_name
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_name
 type: Pred_Text
 ---

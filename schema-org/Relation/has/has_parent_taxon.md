@@ -3,23 +3,24 @@ aliases:
   - has parent-taxon
   - parentTaxon
   - has_parent_taxon
+  - has parent taxon
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - parent_taxon
   - parent
   - taxon
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_parent_taxon
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

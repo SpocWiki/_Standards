@@ -8,16 +8,16 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - residence
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_residence Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

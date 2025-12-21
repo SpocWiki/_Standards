@@ -3,20 +3,22 @@ aliases:
   - Lagrange points
   - Lagrangian points
   - libration points
+  - Lagrangian_Point
+  - Lagrangian Point
 has_id_wikidata: Q190463
-named_after: "[[_Standards/WikiData/WD~Joseph_Louis_Lagrange,80222]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~libration,218673]]"
+named_after: '[[_Standards/WikiData/WD~Joseph_Louis_Lagrange,80222]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~libration,218673]]'
 has_use:
-  - "[[_Standards/WikiData/WD~interplanetary_transport_network,1529884]]"
-  - "[[_Standards/WikiData/WD~Lagrange_point_colonization,5677287]]"
-has_list: "[[_Standards/WikiData/WD~list_of_objects_at_Lagrangian_points,3243130]]"
+  - '[[_Standards/WikiData/WD~interplanetary_transport_network,1529884]]'
+  - '[[_Standards/WikiData/WD~Lagrange_point_colonization,5677287]]'
+has_list: '[[_Standards/WikiData/WD~list_of_objects_at_Lagrangian_points,3243130]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~L2,15725508]]"
-  - "[[_Standards/WikiData/WD~L4,15726290]]"
-  - "[[_Standards/WikiData/WD~L5,15726296]]"
-  - "[[_Standards/WikiData/WD~L1,15881550]]"
-  - "[[_Standards/WikiData/WD~L3,15881567]]"
-subclass_of: "[[_Standards/WikiData/WD~point_in_physical_space,122683347]]"
+  - '[[_Standards/WikiData/WD~L2,15725508]]'
+  - '[[_Standards/WikiData/WD~L4,15726290]]'
+  - '[[_Standards/WikiData/WD~L5,15726296]]'
+  - '[[_Standards/WikiData/WD~L1,15881550]]'
+  - '[[_Standards/WikiData/WD~L3,15881567]]'
+subclass_of: '[[_Standards/WikiData/WD~point_in_physical_space,122683347]]'
 Wikidata_property: Lagrangian point
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lagrangepunten%201%20en%202.svg

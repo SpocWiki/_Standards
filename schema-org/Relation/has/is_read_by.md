@@ -4,23 +4,24 @@ aliases:
   - readBy
   - is_read_by
   - has_reader
+  - is read by
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - read_by
   - read
   - by
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_read_by
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

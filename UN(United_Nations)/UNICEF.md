@@ -2,10 +2,11 @@
 aliases:
   - United Nations International Children's Emergency Fund
   - United Nations Children's Fund
+  - UNICEF
 has_id_wikidata: Q740308
-PermID: "5000034571"
+PermID: 5000034571
 Legal_Entity_Identifier: 5493003PODH0BS5ZOF16
-P1015: "90145958"
+P1015: 90145958
 Libris_URI: c9prpt3w344jrj5
 search_formatter_URL: http://www.unicef.cn/cn/index.php?m=search&c=index&a=init&typeid=all&siteid=1&q=$1&x=0&y=0
 ISO_9362_SWIFT_BIC_code: UNCFUS33XXX
@@ -24,46 +25,46 @@ short_name:
   - UNICEF
   - UNICEF
 partnership_with:
-  - "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
-  - "[[_Standards/WikiData/WD~United_Cities_and_Local_Governments,2974854]]"
-  - "[[_Standards/WikiData/WD~Green_Advocacy_Ghana,107053608]]"
-  - "[[_Standards/WikiData/WD~Curious_Minds,107157227]]"
+  - '[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]'
+  - '[[_Standards/WikiData/WD~United_Cities_and_Local_Governments,2974854]]'
+  - '[[_Standards/WikiData/WD~Green_Advocacy_Ghana,107053608]]'
+  - '[[_Standards/WikiData/WD~Curious_Minds,107157227]]'
 parent_organization_or_unit:
-  - "[[_Standards/WikiData/WD~United_Nations_Economic_and_Social_Council,170075]]"
-  - "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
+  - '[[_Standards/WikiData/WD~United_Nations_Economic_and_Social_Council,170075]]'
+  - '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
-  - "[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751]]"
-  - "[[_Standards/WikiData/WD~National_Museum_Paleis_het_Loo,99349995]]"
-official_observer_status_in_organization: "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
-part_of: "[[_Standards/WikiData/WD~United_Nations_System,854218]]"
+  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+  - '[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751]]'
+  - '[[_Standards/WikiData/WD~National_Museum_Paleis_het_Loo,99349995]]'
+official_observer_status_in_organization: '[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]'
+part_of: '[[_Standards/WikiData/WD~United_Nations_System,854218]]'
 member_of:
-  - "[[_Standards/WikiData/WD~United_Nations_Sustainable_Development_Group,1187686]]"
-  - "[[_Standards/WikiData/WD~Digital_Public_Goods_Alliance,102440976]]"
+  - '[[_Standards/WikiData/WD~United_Nations_Sustainable_Development_Group,1187686]]'
+  - '[[_Standards/WikiData/WD~Digital_Public_Goods_Alliance,102440976]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Judith_with_the_head_of_Holofernes,1383307]]"
-  - "[[_Standards/WikiData/WD~Collection_Rau_for_UNICEF,20862230]]"
+  - '[[_Standards/WikiData/WD~Judith_with_the_head_of_Holofernes,1383307]]'
+  - '[[_Standards/WikiData/WD~Collection_Rau_for_UNICEF,20862230]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Wateler_Peace_Prize,2521339]]"
-  - "[[_Standards/WikiData/WD~Indira_Gandhi_Peace_Prize,3241794]]"
-  - "[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Concord,3323440]]"
-  - "[[_Standards/WikiData/WD~Children_of_the_Earth,10426454]]"
+  - '[[_Standards/WikiData/WD~Wateler_Peace_Prize,2521339]]'
+  - '[[_Standards/WikiData/WD~Indira_Gandhi_Peace_Prize,3241794]]'
+  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Concord,3323440]]'
+  - '[[_Standards/WikiData/WD~Children_of_the_Earth,10426454]]'
 founded_by:
-  - "[[_Standards/WikiData/WD~Ludwik_Rajchman,4819284]]"
-  - "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
-director_manager: "[[_Standards/WikiData/WD~Catherine_M._Russell,5052796]]"
-chairperson: "[[_Standards/WikiData/WD~Catherine_M._Russell,5052796]]"
-flag: "[[_Standards/WikiData/WD~flag_of_UNICEF,9647733]]"
+  - '[[_Standards/WikiData/WD~Ludwik_Rajchman,4819284]]'
+  - '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
+director_manager: '[[_Standards/WikiData/WD~Catherine_M._Russell,5052796]]'
+chairperson: '[[_Standards/WikiData/WD~Catherine_M._Russell,5052796]]'
+flag: '[[_Standards/WikiData/WD~flag_of_UNICEF,9647733]]'
 child_organization_or_unit:
-  - "[[_Standards/WikiData/WD~Polish_National_Committee_for_UNICEF,11822512]]"
-  - "[[_Standards/WikiData/WD~UNICEF_Canada,50363511]]"
-instance_of: "[[_Standards/WikiData/WD~organization_established_by_the_United_Nations,15285626]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Executive_Director_of_UNICEF,67199671]]"
-described_by_source: "[[_Standards/WikiData/WD~Medvik,99413897]]"
-industry: "[[_Standards/WikiData/WD~international_governmental_or_non_governmental_organizations,107607934]]"
-has_part_s_: "[[_Standards/WikiData/WD~UNICEF_Sweden,108076531]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+  - '[[_Standards/WikiData/WD~Polish_National_Committee_for_UNICEF,11822512]]'
+  - '[[_Standards/WikiData/WD~UNICEF_Canada,50363511]]'
+instance_of: '[[_Standards/WikiData/WD~organization_established_by_the_United_Nations,15285626]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Executive_Director_of_UNICEF,67199671]]'
+described_by_source: '[[_Standards/WikiData/WD~Medvik,99413897]]'
+industry: '[[_Standards/WikiData/WD~international_governmental_or_non_governmental_organizations,107607934]]'
+has_part_s_: '[[_Standards/WikiData/WD~UNICEF_Sweden,108076531]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+headquarters_location: '[[_Standards/WikiData/WD~New_York_City,60]]'
 social_media_followers:
   - 742000
   - 9339562
@@ -75,7 +76,7 @@ inception: 1946-12-11T00:00:00Z
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20of%20UNICEF.svg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20UNICEF.svg
 ISNI:
-  - "0000000121891912"
+  - 0000000121891912
   - 000000040402478X
 ---
 

@@ -4,21 +4,22 @@ aliases:
   - msrp
   - MSRP
   - is_a_msrp
+  - Msrp
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: PriceTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - msrp
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_msrp Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

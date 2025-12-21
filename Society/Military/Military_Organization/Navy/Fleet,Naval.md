@@ -1,6 +1,7 @@
 ---
 aliases:
   - fleet
+  - Fleet,Naval
 ---
 
 # [[Fleet,Naval]] 

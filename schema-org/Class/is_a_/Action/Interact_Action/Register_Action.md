@@ -4,20 +4,22 @@ aliases:
   - register_action
   - RegisterAction
   - is_a_register_action
+  - Register_Action
+  - Register Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - register_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_register_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

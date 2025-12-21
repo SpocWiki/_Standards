@@ -1,9 +1,12 @@
 ---
+aliases:
+  - FRENCH_INDO-CHINA
+  - FRENCH INDO-CHINA
 confidential: public
 isDeleted: false
 SpocWebEntityId: 76712
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

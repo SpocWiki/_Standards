@@ -2,14 +2,16 @@
 aliases:
   - Ionizing radiation
   - ionising radiation
+  - Ionizing_Radiation
+  - Ionizing Radiation
 has_id_wikidata: Q186161
-handled_mitigated_or_managed_by: "[[_Standards/WikiData/WD~radiation_protection,1574099]]"
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~radiation_protection,1574099]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~radiation_induced_neoplasms,7280327]]"
-  - "[[_Standards/WikiData/WD~radiation_injury,11498930]]"
-subclass_of: "[[_Standards/WikiData/WD~radiation,18335]]"
-OmegaWiki_Defined_Meaning: "2021"
-U_S_National_Archives_Identifier: "10646158"
+  - '[[_Standards/WikiData/WD~radiation_induced_neoplasms,7280327]]'
+  - '[[_Standards/WikiData/WD~radiation_injury,11498930]]'
+subclass_of: '[[_Standards/WikiData/WD~radiation,18335]]'
+OmegaWiki_Defined_Meaning: 2021
+U_S_National_Archives_Identifier: 10646158
 subreddit: Radiation
 Unicode_character: ☢
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Radioactive.svg

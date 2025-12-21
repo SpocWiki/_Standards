@@ -2,12 +2,13 @@
 aliases:
   - has beneficiary-bank
   - has_beneficiary_bank
+  - has beneficiary bank
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - bank
   - beneficiary_bank
   - beneficiaryBank
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_beneficiary_bank
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

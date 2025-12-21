@@ -2,66 +2,68 @@
 aliases:
   - The_Last_Supper
   - Il Cenacolo [il tʃeˈnaːkolo] or L'Ultima Cena
+  - Last_Supper(Painting)
+  - Last Supper(Painting)
 has_id_wikidata: Q128910
 depicts:
-  - "[[_Standards/WikiData/WD~Judas_Iscariot,81018]]"
-  - "[[_Standards/WikiData/WD~cup,81727]]"
-  - "[[_Standards/WikiData/WD~tunic,201714]]"
-  - "[[_Standards/WikiData/WD~tablecloth,536168]]"
-  - "[[_Standards/WikiData/WD~cup_with_stem,2100893]]"
-  - "[[_Standards/WikiData/WD~wine,282]]"
-  - "[[_Standards/WikiData/WD~Jesus_Christ,302]]"
-  - "[[_Standards/WikiData/WD~bread,7802]]"
-  - "[[_Standards/WikiData/WD~Simon_the_Zealot,12871]]"
-  - "[[_Standards/WikiData/WD~table,14748]]"
-  - "[[_Standards/WikiData/WD~knife,32489]]"
-  - "[[_Standards/WikiData/WD~human,5]]"
-  - "[[_Standards/WikiData/WD~Saint_Peter,33923]]"
-  - "[[_Standards/WikiData/WD~window,35473]]"
-  - "[[_Standards/WikiData/WD~Andrew_the_Apostle,43399]]"
-  - "[[_Standards/WikiData/WD~Matthew_the_Apostle,43600]]"
-  - "[[_Standards/WikiData/WD~Thomas_the_Apostle,43669]]"
-  - "[[_Standards/WikiData/WD~Philip_the_Apostle,43675]]"
-  - "[[_Standards/WikiData/WD~Jude_the_Apostle,43945]]"
-  - "[[_Standards/WikiData/WD~Bartholomew_the_Apostle,43982]]"
-  - "[[_Standards/WikiData/WD~St._James_the_Elder,_Apostle,43999]]"
-  - "[[_Standards/WikiData/WD~John_the_Apostle,44015]]"
-  - "[[_Standards/WikiData/WD~James,_son_of_Alphaeus,44047]]"
-  - "[[_Standards/WikiData/WD~Last_Supper,51633]]"
-  - "[[_Standards/WikiData/WD~plate,57216]]"
+  - '[[_Standards/WikiData/WD~Judas_Iscariot,81018]]'
+  - '[[_Standards/WikiData/WD~cup,81727]]'
+  - '[[_Standards/WikiData/WD~tunic,201714]]'
+  - '[[_Standards/WikiData/WD~tablecloth,536168]]'
+  - '[[_Standards/WikiData/WD~cup_with_stem,2100893]]'
+  - '[[_Standards/WikiData/WD~wine,282]]'
+  - '[[_Standards/WikiData/WD~Jesus_Christ,302]]'
+  - '[[_Standards/WikiData/WD~bread,7802]]'
+  - '[[_Standards/WikiData/WD~Simon_the_Zealot,12871]]'
+  - '[[_Standards/WikiData/WD~table,14748]]'
+  - '[[_Standards/WikiData/WD~knife,32489]]'
+  - '[[_Standards/WikiData/WD~human,5]]'
+  - '[[_Standards/WikiData/WD~Saint_Peter,33923]]'
+  - '[[_Standards/WikiData/WD~window,35473]]'
+  - '[[_Standards/WikiData/WD~Andrew_the_Apostle,43399]]'
+  - '[[_Standards/WikiData/WD~Matthew_the_Apostle,43600]]'
+  - '[[_Standards/WikiData/WD~Thomas_the_Apostle,43669]]'
+  - '[[_Standards/WikiData/WD~Philip_the_Apostle,43675]]'
+  - '[[_Standards/WikiData/WD~Jude_the_Apostle,43945]]'
+  - '[[_Standards/WikiData/WD~Bartholomew_the_Apostle,43982]]'
+  - '[[_Standards/WikiData/WD~St._James_the_Elder,_Apostle,43999]]'
+  - '[[_Standards/WikiData/WD~John_the_Apostle,44015]]'
+  - '[[_Standards/WikiData/WD~James,_son_of_Alphaeus,44047]]'
+  - '[[_Standards/WikiData/WD~Last_Supper,51633]]'
+  - '[[_Standards/WikiData/WD~plate,57216]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~fresco_painting,134194]]"
-  - "[[_Standards/WikiData/WD~work_of_art,838948]]"
-  - "[[_Standards/WikiData/WD~wall_painting,99516640]]"
-country_of_origin: "[[_Standards/WikiData/WD~Republic_of_Florence,148540]]"
+  - '[[_Standards/WikiData/WD~fresco_painting,134194]]'
+  - '[[_Standards/WikiData/WD~work_of_art,838948]]'
+  - '[[_Standards/WikiData/WD~wall_painting,99516640]]'
+country_of_origin: '[[_Standards/WikiData/WD~Republic_of_Florence,148540]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~tempera,175166]]"
-  - "[[_Standards/WikiData/WD~gesso,1514256]]"
-commissioned_by: "[[_Standards/WikiData/WD~Ludovico_Sforza,236853]]"
-location: "[[_Standards/WikiData/WD~Santa_Maria_delle_Grazie,244952]]"
-collection: "[[_Standards/WikiData/WD~Santa_Maria_delle_Grazie,244952]]"
-different_from: "[[_Standards/WikiData/WD~The_Last_Supper,398723]]"
-fabrication_method: "[[_Standards/WikiData/WD~fresco_secco,2263612]]"
-genre: "[[_Standards/WikiData/WD~religious_art,2864737]]"
+  - '[[_Standards/WikiData/WD~tempera,175166]]'
+  - '[[_Standards/WikiData/WD~gesso,1514256]]'
+commissioned_by: '[[_Standards/WikiData/WD~Ludovico_Sforza,236853]]'
+location: '[[_Standards/WikiData/WD~Santa_Maria_delle_Grazie,244952]]'
+collection: '[[_Standards/WikiData/WD~Santa_Maria_delle_Grazie,244952]]'
+different_from: '[[_Standards/WikiData/WD~The_Last_Supper,398723]]'
+fabrication_method: '[[_Standards/WikiData/WD~fresco_secco,2263612]]'
+genre: '[[_Standards/WikiData/WD~religious_art,2864737]]'
 derivative_work:
-  - "[[_Standards/WikiData/WD~The_Last_Supper,4003124]]"
-  - "[[_Standards/WikiData/WD~The_Last_Supper,29130277]]"
+  - '[[_Standards/WikiData/WD~The_Last_Supper,4003124]]'
+  - '[[_Standards/WikiData/WD~The_Last_Supper,29130277]]'
   - "[[_Standards/WikiData/WD~works_after_Leonardo_da_Vinci's_Last_Supper,33080871]]"
-based_on: "[[_Standards/WikiData/WD~John_13,9165882]]"
+based_on: '[[_Standards/WikiData/WD~John_13,9165882]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~1001_Paintings_You_Must_See_Before_You_Die,66362718]]"
-  - "[[_Standards/WikiData/WD~Q133276903,133276903]]"
+  - '[[_Standards/WikiData/WD~1001_Paintings_You_Must_See_Before_You_Die,66362718]]'
+  - '[[_Standards/WikiData/WD~Q133276903,133276903]]'
 inception: 1490-01-01T00:00:00Z
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Milan,490]]"
-creator: "[[_Standards/WikiData/WD~Leonardo_da_Vinci,762]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Christianity,5043]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-country: "[[_Standards/WikiData/WD~Italy,38]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Milan,490]]'
+creator: '[[_Standards/WikiData/WD~Leonardo_da_Vinci,762]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+country: '[[_Standards/WikiData/WD~Italy,38]]'
 height: 700
 width: 880
-main_subject: "[[_Standards/WikiData/WD~Last_Supper,51633]]"
+main_subject: '[[_Standards/WikiData/WD~Last_Supper,51633]]'
 catalog_code:
-  - "6"
+  - 6
   - XVII
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20%281452-1519%29%20-%20The%20Last%20Supper%20%281495-1498%29.jpg
 name:

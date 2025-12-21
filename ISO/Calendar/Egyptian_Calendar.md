@@ -3,10 +3,12 @@ aliases:
   - Ägyptischer Kalender
   - ancient Egyptian calendar
   - Egyptian calendar
+  - Egyptian_Calendar
+  - Egyptian Calendar
 has_id_wikidata: Q254101
-different_from: "[[_Standards/WikiData/WD~Coptic_calendar,750430]]"
-instance_of: "[[_Standards/WikiData/WD~calendar,12132]]"
-country: "[[_Standards/WikiData/WD~Egypt,79]]"
+different_from: '[[_Standards/WikiData/WD~Coptic_calendar,750430]]'
+instance_of: '[[_Standards/WikiData/WD~calendar,12132]]'
+country: '[[_Standards/WikiData/WD~Egypt,79]]'
 Commons_category: Ancient Egyptian calendar
 ---
 

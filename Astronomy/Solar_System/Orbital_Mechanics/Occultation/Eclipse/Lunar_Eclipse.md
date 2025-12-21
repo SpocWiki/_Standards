@@ -2,29 +2,31 @@
 aliases:
   - lunar eclipse
   - Mondfinsternis
+  - Lunar_Eclipse
+  - Lunar Eclipse
 has_id_wikidata: Q44235
-subclass_of: "[[_Standards/WikiData/WD~eclipse,141022]]"
+subclass_of: '[[_Standards/WikiData/WD~eclipse,141022]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~saros_series,220397]]"
-  - "[[_Standards/WikiData/WD~gamma,827951]]"
-  - "[[_Standards/WikiData/WD~magnitude_of_eclipse,1268559]]"
-has_list: "[[_Standards/WikiData/WD~list_of_lunar_eclipses,251640]]"
+  - '[[_Standards/WikiData/WD~saros_series,220397]]'
+  - '[[_Standards/WikiData/WD~gamma,827951]]'
+  - '[[_Standards/WikiData/WD~magnitude_of_eclipse,1268559]]'
+has_list: '[[_Standards/WikiData/WD~list_of_lunar_eclipses,251640]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Lunar_eclipses,13805222]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Lunar_eclipses,13805222]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~total_lunar_eclipse,19693318]]"
-  - "[[_Standards/WikiData/WD~partial_lunar_eclipse,19698115]]"
-  - "[[_Standards/WikiData/WD~penumbral_lunar_eclipse,19698119]]"
+  - '[[_Standards/WikiData/WD~total_lunar_eclipse,19693318]]'
+  - '[[_Standards/WikiData/WD~partial_lunar_eclipse,19698115]]'
+  - '[[_Standards/WikiData/WD~penumbral_lunar_eclipse,19698119]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Q60797251,60797251]]"
-  - "[[_Standards/WikiData/WD~solar_eclipse,3887]]"
-OmegaWiki_Defined_Meaning: "1275301"
+  - '[[_Standards/WikiData/WD~Q60797251,60797251]]'
+  - '[[_Standards/WikiData/WD~solar_eclipse,3887]]'
+OmegaWiki_Defined_Meaning: 1275301
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Lunar%20eclipse%20symbol.svg
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/%D8%AE%D8%B3%D9%88%D9%81%20%D8%A7%D9%84%D9%82%D9%85%D8%B1.svg
@@ -66,7 +68,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Blood%20Moon%20%281244
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Lunar%20eclipse.webm
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lunar%20eclipse%20of%202018%20January%2031%20%28Montage%20s3%29.jpg
 Provenio_UUID: 4ca3c859-2827-4d09-8501-a08e1fb75391
-RIA_Novosti_reference: "53610796"
+RIA_Novosti_reference: 53610796
 Commons_category: Lunar eclipses
 Wolfram_Language_entity_type: LunarEclipse
 ---

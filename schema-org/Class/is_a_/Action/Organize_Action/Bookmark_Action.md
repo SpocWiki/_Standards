@@ -4,20 +4,22 @@ aliases:
   - bookmark_action
   - BookmarkAction
   - is_a_bookmark_action
+  - Bookmark_Action
+  - Bookmark Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - bookmark_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_bookmark_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

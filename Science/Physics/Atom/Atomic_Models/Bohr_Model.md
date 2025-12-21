@@ -2,6 +2,8 @@
 aliases:
   - Bohr model
   - Rutherford–Bohr model
+  - Bohr_Model
+  - Bohr Model
 has_id_wikidata: Q172948
 ---
 

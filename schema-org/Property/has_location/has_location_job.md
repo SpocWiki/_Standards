@@ -4,21 +4,22 @@ aliases:
   - job_location
   - jobLocation
   - has_location_job
+  - has location job
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - job_location
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_job
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

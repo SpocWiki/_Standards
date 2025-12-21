@@ -1,16 +1,17 @@
 ---
 aliases:
   - Kult
+  - Cult
 has_id_wikidata: Q11038979
-uses: "[[_Standards/WikiData/WD~brainwashing,743263]]"
+uses: '[[_Standards/WikiData/WD~brainwashing,743263]]'
 different_from:
-  - "[[_Standards/WikiData/WD~cult,756820]]"
-  - "[[_Standards/WikiData/WD~sect,19097]]"
+  - '[[_Standards/WikiData/WD~cult,756820]]'
+  - '[[_Standards/WikiData/WD~sect,19097]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~social_group,874405]]"
-  - "[[_Standards/WikiData/WD~social_issue,1920219]]"
-  - "[[_Standards/WikiData/WD~religious_group,111252415]]"
-practiced_by: "[[_Standards/WikiData/WD~cult_leader,20956402]]"
+  - '[[_Standards/WikiData/WD~social_group,874405]]'
+  - '[[_Standards/WikiData/WD~social_issue,1920219]]'
+  - '[[_Standards/WikiData/WD~religious_group,111252415]]'
+practiced_by: '[[_Standards/WikiData/WD~cult_leader,20956402]]'
 Commons_category: Sects
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Catalogue%20of%20Sects.GIF
 subreddit: cults

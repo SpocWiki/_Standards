@@ -3,28 +3,29 @@ aliases:
   - Freibeuter
   - Korsar
   - Corsair
+  - Privateering
 has_id_wikidata: Q201559
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 field_of_this_occupation:
-  - "[[_Standards/WikiData/WD~commerce_raiding,986676]]"
-  - "[[_Standards/WikiData/WD~privateering,30906782]]"
+  - '[[_Standards/WikiData/WD~commerce_raiding,986676]]'
+  - '[[_Standards/WikiData/WD~privateering,30906782]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~warrior,1250916]]"
-  - "[[_Standards/WikiData/WD~irregular_military,1673189]]"
-  - "[[_Standards/WikiData/WD~sailor,45199]]"
-different_from: "[[_Standards/WikiData/WD~Corsario,21476956]]"
+  - '[[_Standards/WikiData/WD~warrior,1250916]]'
+  - '[[_Standards/WikiData/WD~irregular_military,1673189]]'
+  - '[[_Standards/WikiData/WD~sailor,45199]]'
+different_from: '[[_Standards/WikiData/WD~Corsario,21476956]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~maritime_occupation,99547053]]"
-  - "[[_Standards/WikiData/WD~ambiguous_Wikidata_item,122754124]]"
-  - "[[_Standards/WikiData/WD~profession,28640]]"
-depicted_by: "[[_Standards/WikiData/WD~Old_Corsair_called_Alì_Meliocco,126456542]]"
-Nomenclature_for_Museum_Cataloging: "12798"
+  - '[[_Standards/WikiData/WD~maritime_occupation,99547053]]'
+  - '[[_Standards/WikiData/WD~ambiguous_Wikidata_item,122754124]]'
+  - '[[_Standards/WikiData/WD~profession,28640]]'
+depicted_by: '[[_Standards/WikiData/WD~Old_Corsair_called_Alì_Meliocco,126456542]]'
+Nomenclature_for_Museum_Cataloging: 12798
 female_form_of_label:
   - corsaire
   - قرصانة رسمية

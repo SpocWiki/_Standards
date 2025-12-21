@@ -1,6 +1,6 @@
 ---
 aliases:
-- "Wild Wild West"
+  - Wild Wild West
 ---
 
 ## #has_/text_of_/abstract 

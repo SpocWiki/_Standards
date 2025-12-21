@@ -1,6 +1,7 @@
 ---
 aliases:
   - Duration
+  - Dim~Time
 has_id_wikidata: Q11471
 quantity_symbol_string_:
   - τ
@@ -48,8 +49,8 @@ has_characteristic:
   - "[[_Standards/WikiData/WD~time_factor,71238260]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110313664,110313664]]"
 main_Wikidata_property: time index
-Dewey_Decimal_Classification: "115"
-OmegaWiki_Defined_Meaning: "3779"
+Dewey_Decimal_Classification: 115
+OmegaWiki_Defined_Meaning: 3779
 Colon_Classification: C16
 Commons_category: Time
 IMDb_keyword: time

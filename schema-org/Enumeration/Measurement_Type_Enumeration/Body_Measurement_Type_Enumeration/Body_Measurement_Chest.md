@@ -4,21 +4,23 @@ aliases:
   - body_measurement_chest
   - BodyMeasurementChest
   - is_a_body_measurement_chest
+  - Body_Measurement_Chest
+  - Body Measurement Chest
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: BodyMeasurementTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - body_measurement_chest
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_body_measurement_chest Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

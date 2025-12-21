@@ -1,23 +1,24 @@
 ---
 aliases:
   - Knoten
+  - Knot(speed)
 has_id_wikidata: Q128822
 different_from:
-  - "[[_Standards/WikiData/WD~knot,527395]]"
-  - "[[_Standards/WikiData/WD~candle_wick,849004]]"
-  - "[[_Standards/WikiData/WD~knot,1188853]]"
-  - "[[_Standards/WikiData/WD~knot_(UK),105828468]]"
-  - "[[_Standards/WikiData/WD~wick,118978194]]"
-named_after: "[[_Standards/WikiData/WD~knot,527395]]"
+  - '[[_Standards/WikiData/WD~knot,527395]]'
+  - '[[_Standards/WikiData/WD~candle_wick,849004]]'
+  - '[[_Standards/WikiData/WD~knot,1188853]]'
+  - '[[_Standards/WikiData/WD~knot_(UK),105828468]]'
+  - '[[_Standards/WikiData/WD~wick,118978194]]'
+named_after: '[[_Standards/WikiData/WD~knot,527395]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-measured_physical_quantity: "[[_Standards/WikiData/WD~speed,3711325]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~speed,3711325]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~unit_of_speed,15222637]]"
-  - "[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]"
+  - '[[_Standards/WikiData/WD~unit_of_speed,15222637]]'
+  - '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
 conversion_to_standard_unit: 1.852
 unit_symbol:
   - уз
@@ -26,7 +27,7 @@ unit_symbol:
   - kn
 UN_CEFACT_Common_Code: KNT
 Wolfram_Language_unit_code: '"Knots"'
-UCUM_code: "[kn_i]"
+UCUM_code: '[kn_i]'
 Wikidata_SPARQL_query_equivalent: wd:Q128822 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
 conversion_to_SI_unit: 0.5144444444444445
 ---

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Curium
+has_id_wikidata: Q1876
 atomic_number: 96
 canonical_SMILES: '[Cm]'
 CAS_Registry_Number: 7440-51-9
@@ -6,41 +9,40 @@ chemical_formula: Cm
 Commons_category: Curium
 Commons_gallery: Curium
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 Dewey_Decimal_Classification: 546.442
 different_from: '[[_Standards/WikiData/WD~Kiur,11739561]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
 DSSTOX_compound_identifier: DTXCID80147881
 electronegativity: 1.28
 element_symbol: Cm
-has_id_wikidata: Q1876
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cm-Fluoreszenz.png"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Cm-Fluoreszenz.png
 InChI: InChI=1S/Cm
 InChIKey: NIWWFAAXEMMFMS-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - '[[_Standards/WikiData/WD~synthetic_element,755992]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-- 0.85
-- 0.95
-- 0.97
+  - 0.85
+  - 0.95
+  - 0.97
 mass: 247.07
 MeSH_tree_code:
-- D01.268.271.100.175
-- D01.268.556.200
-- D01.496.749.305.100.175
-- D01.552.020.272
-- D01.552.544.200
+  - D01.268.271.100.175
+  - D01.268.556.200
+  - D01.496.749.305.100.175
+  - D01.552.020.272
+  - D01.552.544.200
 named_after:
-- '[[_Standards/WikiData/WD~Marie_Curie,7186]]'
-- '[[_Standards/WikiData/WD~Pierre_Curie,37463]]'
+  - '[[_Standards/WikiData/WD~Marie_Curie,7186]]'
+  - '[[_Standards/WikiData/WD~Pierre_Curie,37463]]'
 OmegaWiki_Defined_Meaning: 157032
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~actinide,19577]]'
+  - '[[_Standards/WikiData/WD~period_7,244979]]'
+  - '[[_Standards/WikiData/WD~actinide,19577]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q65411312,65411312]]'
-plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20145.jpg"
+plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20145.jpg
 PubChem_CID: 23979
 SpocWebEntityId: 21991
 time_of_discovery_or_invention: 1944

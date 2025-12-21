@@ -2,16 +2,18 @@
 aliases:
   - Grand duke
   - grand duchess
+  - Grand_Duke
+  - Grand Duke
 has_id_wikidata: Q205706
 subclass_of:
-  - "[[_Standards/WikiData/WD~duke,166886]]"
-  - "[[_Standards/WikiData/WD~monarch,116]]"
-instance_of: "[[_Standards/WikiData/WD~noble_title,355567]]"
+  - '[[_Standards/WikiData/WD~duke,166886]]'
+  - '[[_Standards/WikiData/WD~monarch,116]]'
+instance_of: '[[_Standards/WikiData/WD~noble_title,355567]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-different_from: "[[_Standards/WikiData/WD~Grand_Prince,1549319]]"
-opposite_of: "[[_Standards/WikiData/WD~Q12652917,12652917]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+different_from: '[[_Standards/WikiData/WD~Grand_Prince,1549319]]'
+opposite_of: '[[_Standards/WikiData/WD~Q12652917,12652917]]'
 female_form_of_label:
   - nadvojvodinja
   - великая герцогиня

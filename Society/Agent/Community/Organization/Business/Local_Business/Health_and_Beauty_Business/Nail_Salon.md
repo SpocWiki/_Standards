@@ -4,20 +4,22 @@ aliases:
   - nail_salon
   - NailSalon
   - is_a_nail_salon
+  - Nail_Salon
+  - Nail Salon
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - nail_salon
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_nail_salon Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

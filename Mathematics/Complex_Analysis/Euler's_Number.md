@@ -2,6 +2,8 @@
 aliases:
   - Euler's number
   - Napier's constant
+  - Euler's_Number
+  - Euler's Number
 has_id_wikidata: Q82435
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Jacob_Bernoulli,122392]]"
 named_after:

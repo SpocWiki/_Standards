@@ -1,5 +1,4 @@
 ---
-age_of_majority: 18
 aliases:
   - Afghanistan
   - Afganistán
@@ -9,6 +8,8 @@ aliases:
   - the Islamic Republic of Afghanistan
   - República Islámica del Afganistán (la)
   - Afganistán (el)
+has_id_wikidata: Q889
+age_of_majority: 18
 anthem: "[[_Standards/WikiData/WD~This_Is_the_Home_of_the_Brave,108167408]]"
 area: 652230
 basic_form_of_government:
@@ -48,7 +49,7 @@ CIVICUS_Monitor_country_entry: afghanistan
 coat_of_arms: "[[_Standards/WikiData/WD~emblem_of_Afghanistan,484823]]"
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20the%20Islamic%20Emirate%20of%20Afghanistan.svg
 Colon_Classification: SG--491
-Commons_category: Afghanistan
+Commons_category: War in Afghanistan (2001–2021)
 Commons_gallery: افغانستان
 confidential: public
 contains_the_administrative_territorial_entity:
@@ -237,7 +238,7 @@ ethnic_group:
   - "[[_Standards/WikiData/WD~Arabs,35323]]"
   - "[[_Standards/WikiData/WD~Qizilbash,60269]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Islamic_Emirate_of_Afghanistan,20978159]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 19279930
   - 18679089
@@ -261,7 +262,6 @@ Happy_Planet_Index_score: 29.4
 hashtag:
   - Afghanistan
 has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
-has_id_wikidata: Q889
 has_list: "[[_Standards/WikiData/WD~list_of_honorary_citizens_of_Afghanistan,85779644]]"
 head_of_government: "[[_Standards/WikiData/WD~Mohammad_Hasan_Akhund,108444479]]"
 head_of_state: "[[_Standards/WikiData/WD~Hibatullah_Akhundzada,24237654]]"
@@ -300,7 +300,7 @@ ISO_3166_1_alpha_3_code: AFG
 ISO_3166_1_numeric_code: 4
 isReadOnly: false
 ITU_letter_code: FG
-keywords:
+keywords: ""
 Krugosvet_article: strany-mira/afganistan
 Languages:
   - fa-AF
@@ -345,13 +345,13 @@ language_used:
   - "[[_Standards/WikiData/WD~Southern_Pashto,16112855]]"
   - "[[_Standards/WikiData/WD~Northwest_Pashai,23713532]]"
   - "[[_Standards/WikiData/WD~Southeast_Pashai,23713536]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Afghanistan,2386705]]"
 Libris_URI: hftwv5d13fdgp13
 licence_plate_code: AFG
 license: CC BY-SA 4.0
 life_expectancy: 63.673
-linkTitle:
+linkTitle: ""
 literacy_rate: 43
 located_in_time_zone:
   - "[[_Standards/WikiData/WD~Asia_Kabul,63285929]]"
@@ -411,7 +411,7 @@ PM20_geo_code: B41
 population: 41454761
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Afghanistan.ogg
 publish: true
-publishDate:
+publishDate: ""
 rural_population:
   - 29547690
   - 28042342

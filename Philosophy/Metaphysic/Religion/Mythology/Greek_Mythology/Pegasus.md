@@ -2,38 +2,39 @@
 aliases:
   - Pegasos
   - Πήγασος
+  - Pegasus
 has_id_wikidata: Q162797
-mother: "[[_Standards/WikiData/WD~Medusa,160730]]"
-significant_person: "[[_Standards/WikiData/WD~Bellerophon,189872]]"
+mother: '[[_Standards/WikiData/WD~Medusa,160730]]'
+significant_person: '[[_Standards/WikiData/WD~Bellerophon,189872]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Ethiopian_pegasus,780857]]"
-  - "[[_Standards/WikiData/WD~winged_horse,2537829]]"
-  - "[[_Standards/WikiData/WD~Tulpar,2620807]]"
+  - '[[_Standards/WikiData/WD~Ethiopian_pegasus,780857]]'
+  - '[[_Standards/WikiData/WD~winged_horse,2537829]]'
+  - '[[_Standards/WikiData/WD~Tulpar,2620807]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~winged_horse,2537829]]"
-  - "[[_Standards/WikiData/WD~mythological_horse,24296329]]"
+  - '[[_Standards/WikiData/WD~winged_horse,2537829]]'
+  - '[[_Standards/WikiData/WD~mythological_horse,24296329]]'
 derivative_work:
-  - "[[_Standards/WikiData/WD~pegasus,3411695]]"
-  - "[[_Standards/WikiData/WD~Pegasus,26273768]]"
+  - '[[_Standards/WikiData/WD~pegasus,3411695]]'
+  - '[[_Standards/WikiData/WD~Pegasus,26273768]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Pegasos_(sculpture),_Corinth,114139008]]"
-  - "[[_Standards/WikiData/WD~Allegory_of_the_wall_decoration,131449661]]"
-  - "[[_Standards/WikiData/WD~Perseus_and_Pegasus,131617908]]"
-  - "[[_Standards/WikiData/WD~Relief_of_Gorgon_running,131753988]]"
-color: "[[_Standards/WikiData/WD~white,23444]]"
-worshipped_by: "[[_Standards/WikiData/WD~Greek_mythology,34726]]"
-part_of: "[[_Standards/WikiData/WD~Greek_mythology,34726]]"
-father: "[[_Standards/WikiData/WD~Poseidon,41127]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male_organism,44148]]"
+  - '[[_Standards/WikiData/WD~Pegasos_(sculpture),_Corinth,114139008]]'
+  - '[[_Standards/WikiData/WD~Allegory_of_the_wall_decoration,131449661]]'
+  - '[[_Standards/WikiData/WD~Perseus_and_Pegasus,131617908]]'
+  - '[[_Standards/WikiData/WD~Relief_of_Gorgon_running,131753988]]'
+color: '[[_Standards/WikiData/WD~white,23444]]'
+worshipped_by: '[[_Standards/WikiData/WD~Greek_mythology,34726]]'
+part_of: '[[_Standards/WikiData/WD~Greek_mythology,34726]]'
+father: '[[_Standards/WikiData/WD~Poseidon,41127]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male_organism,44148]]'
 Commons_gallery: Pegasus
 Commons_category: Pegasus
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%AD%D8%B5%D8%A7%D9%86%20%D9%85%D8%AC%D9%86%D8%AD.wav

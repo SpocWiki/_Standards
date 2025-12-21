@@ -2,19 +2,21 @@
 aliases:
   - German reunification
   - Wiedervereinigung Deutschlands
+  - 1990-German_reunification
+  - 1990-German reunification
 has_id_wikidata: Q56039
 location:
-  - "[[_Standards/WikiData/WD~West_Germany,713750]]"
-  - "[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]"
+  - '[[_Standards/WikiData/WD~West_Germany,713750]]'
+  - '[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~political_union,1140229]]"
-  - "[[_Standards/WikiData/WD~occurrence,1190554]]"
-  - "[[_Standards/WikiData/WD~reunion,50844387]]"
-described_by_source: "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-has_characteristic: "[[_Standards/WikiData/WD~formation_of_an_all_German_organisation,133887979]]"
+  - '[[_Standards/WikiData/WD~political_union,1140229]]'
+  - '[[_Standards/WikiData/WD~occurrence,1190554]]'
+  - '[[_Standards/WikiData/WD~reunion,50844387]]'
+described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+has_characteristic: '[[_Standards/WikiData/WD~formation_of_an_all_German_organisation,133887979]]'
 country:
-  - "[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - '[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]'
+  - '[[_Standards/WikiData/WD~Germany,183]]'
 start_time: 1989-11-09T00:00:00Z
 end_time: 1990-10-03T00:00:00Z
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20map%20of%20Germany%20%28separation%29.svg

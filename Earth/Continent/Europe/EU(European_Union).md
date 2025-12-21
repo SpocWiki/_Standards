@@ -1,44 +1,46 @@
 ---
 aliases:
-- "European Union"
-- European_Union
+  - European Union
+  - European_Union
+  - EU(European_Union)
+  - EU(European Union)
 has_id_wikidata: Q458
 has_member:
-- '[[Europe~Central/Germany|Germany]]'
-- '[[Europe~West/France|France]]'
-- '[[Europe~South/Italy|Italy]]'
-- '[[Europe~West/Belgium|Belgium]]'
-- '[[Europe~West/Netherlands|Netherlands]]'
-- '[[Europe~West/Luxembourg|Luxembourg]]'
-- '[[Europe~Central/Austria|Austria]]'
-- '[[Europe~East/Bulgaria|Bulgaria]]'
-- '[[Europe~Central/Croatia|Croatia]]'
-- '[[Europe~South/Cyprus|Cyprus]]'
-- '[[Europe~Central/Czech_Republic|Czech_Republic]]'
-- '[[Europe~North/Denmark|Denmark]]'
-- '[[Europe~North/Estonia|Estonia]]'
-- '[[Europe~North/Finland|Finland]]'
-- '[[Europe~South/Greece|Greece]]'
-- '[[Europe~East/Hungary|Hungary]]'
-- '[[Europe~North/Ireland|Ireland]]'
-- '[[Europe~North/Latvia|Latvia]]'
-- '[[Europe~North/Lithuania|Lithuania]]'
-- '[[Europe~South/Malta|Malta]]'
-- '[[Europe~East/Poland|Poland]]'
-- '[[Europe~South/Portugal|Portugal]]'
-- '[[Europe~East/Romania|Romania]]'
-- '[[Europe~Central/Slovakia|Slovakia]]'
-- '[[Europe~Central/Slovenia|Slovenia]]'
-- '[[Europe~South/Spain|Spain]]'
-- '[[Europe~North/Sweden|Sweden]]'
+  - '[[Europe~Central/Germany|Germany]]'
+  - '[[Europe~West/France|France]]'
+  - '[[Europe~South/Italy|Italy]]'
+  - '[[Europe~West/Belgium|Belgium]]'
+  - '[[Europe~West/Netherlands|Netherlands]]'
+  - '[[Europe~West/Luxembourg|Luxembourg]]'
+  - '[[Europe~Central/Austria|Austria]]'
+  - '[[Europe~East/Bulgaria|Bulgaria]]'
+  - '[[Europe~Central/Croatia|Croatia]]'
+  - '[[Europe~South/Cyprus|Cyprus]]'
+  - '[[Europe~Central/Czech_Republic|Czech_Republic]]'
+  - '[[Europe~North/Denmark|Denmark]]'
+  - '[[Europe~North/Estonia|Estonia]]'
+  - '[[Europe~North/Finland|Finland]]'
+  - '[[Europe~South/Greece|Greece]]'
+  - '[[Europe~East/Hungary|Hungary]]'
+  - '[[Europe~North/Ireland|Ireland]]'
+  - '[[Europe~North/Latvia|Latvia]]'
+  - '[[Europe~North/Lithuania|Lithuania]]'
+  - '[[Europe~South/Malta|Malta]]'
+  - '[[Europe~East/Poland|Poland]]'
+  - '[[Europe~South/Portugal|Portugal]]'
+  - '[[Europe~East/Romania|Romania]]'
+  - '[[Europe~Central/Slovakia|Slovakia]]'
+  - '[[Europe~Central/Slovenia|Slovenia]]'
+  - '[[Europe~South/Spain|Spain]]'
+  - '[[Europe~North/Sweden|Sweden]]'
 icon: flag-eu
 TableByName:
   EU(European_Union).tsv:
     columns:
-    - country
-    - submit-date
-    - result-date
-    headings: 
+      - country
+      - submit-date
+      - result-date
+    headings: ''
 ---
 
 # [[EU(European_Union)]] 

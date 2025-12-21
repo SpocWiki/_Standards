@@ -1,5 +1,4 @@
 ---
-age_of_majority: 18
 aliases:
   - Senegal
   - Sénégal
@@ -9,6 +8,8 @@ aliases:
   - the Republic of Senegal
   - la República del Senegal
   - Senegal (el)
+has_id_wikidata: Q1041
+age_of_majority: 18
 anthem: "[[_Standards/WikiData/WD~Le_Lion_rouge,336299]]"
 area: 196722
 basic_form_of_government: "[[_Standards/WikiData/WD~presidential_system,49892]]"
@@ -152,7 +153,7 @@ electrical_plug_type:
 emergency_phone_number:
   - "[[_Standards/WikiData/WD~17,25648842]]"
   - "[[_Standards/WikiData/WD~18,25648843]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 8140163
   - 8359194
@@ -169,7 +170,6 @@ GS1_country_code: 604
 Happy_Planet_Index_score: 51.2
 hashtag: Senegal
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-has_id_wikidata: Q1041
 has_time_started: 1960-06
 head_of_government: "[[_Standards/WikiData/WD~Bassirou_Diomaye_Diakhar_Faye,124382437]]"
 head_of_state: "[[_Standards/WikiData/WD~Bassirou_Diomaye_Diakhar_Faye,124382437]]"
@@ -194,7 +194,7 @@ ISO_3166_1_alpha_3_code: SEN
 ISO_3166_1_numeric_code: 686
 isReadOnly: false
 ITU_letter_code: SEN
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/SENEGAL.html
 Languages:
   - fr-SN
@@ -236,13 +236,13 @@ language_used:
   - "[[_Standards/WikiData/WD~Bainouk-Samik,36390]]"
   - "[[_Standards/WikiData/WD~Soninke,36660]]"
   - "[[_Standards/WikiData/WD~Wamey,36935]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~National_Assembly,1853640]]"
 Libris_URI: 0xbddmtj2fgkp1w
 licence_plate_code: SN
 license: CC BY-SA 4.0
 life_expectancy: 67.146
-linkTitle:
+linkTitle: ""
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~West_Africa,4412]]"
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 located_in_time_zone:
@@ -332,7 +332,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Senegal.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%97%E0%A6%BE%E0%A6%B2.wav
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side: "[[_Standards/WikiData/WD~right,14565199]]"
 replaces:
   - "[[_Standards/WikiData/WD~French_West_Africa,210682]]"

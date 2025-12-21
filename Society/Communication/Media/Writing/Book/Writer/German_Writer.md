@@ -1,6 +1,8 @@
 ---
 aliases:
   - German writer
+  - German_Writer
+  - German Writer
 ---
 
 # [[German_Writer]] 

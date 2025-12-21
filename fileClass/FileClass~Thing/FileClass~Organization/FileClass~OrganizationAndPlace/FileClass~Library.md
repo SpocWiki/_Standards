@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Library
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields: []
 icon: book-copy
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Library
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Library
-- is_a_/Library
-- schema-org/Library
+  - class/Library
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Library
+  - is_a_/Library
+  - schema-org/Library
 tags:
-- class/FileClass
-- class/Library
-- is_a_/Library
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Library
+  - class/FileClass
+  - class/Library
+  - is_a_/Library
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Library
 version: 2.0
 ---
 

@@ -2,17 +2,19 @@
 aliases:
   - chemische Formel
   - chemical formula
+  - Chemical_Formula
+  - Chemical Formula
 has_id_wikidata: Q83147
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~chemical_symbol,102500]]"
-subclass_of: "[[_Standards/WikiData/WD~notation,2001982]]"
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~chemical_symbol,102500]]'
+subclass_of: '[[_Standards/WikiData/WD~notation,2001982]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 Wikidata_property:
   - chemical formula
   - general formula
-has_list: "[[_Standards/WikiData/WD~glossary_of_chemical_formulae,32495]]"
-OmegaWiki_Defined_Meaning: "1011642"
+has_list: '[[_Standards/WikiData/WD~glossary_of_chemical_formulae,32495]]'
+OmegaWiki_Defined_Meaning: 1011642
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Benzol%20Representationen.svg
 Commons_category: Chemical formulas
 ---

@@ -4,21 +4,23 @@ aliases:
   - partially_in_force
   - PartiallyInForce
   - is_a_partially_in_force
+  - Partially_in_Force
+  - Partially in Force
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: LegalForceStatus
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - partially_in_force
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_partially_in_force Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

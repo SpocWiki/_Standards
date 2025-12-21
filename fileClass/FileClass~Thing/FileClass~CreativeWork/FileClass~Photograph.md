@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Photograph
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields: []
 icon: camera
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Photograph
-- class/Thing/CreativeWork/Photograph
-- is_a_/Photograph
-- schema-org/Photograph
+  - class/Photograph
+  - class/Thing/CreativeWork/Photograph
+  - is_a_/Photograph
+  - schema-org/Photograph
 tags:
-- class/FileClass
-- class/Photograph
-- is_a_/Photograph
-- class/Thing/CreativeWork/Photograph
+  - class/FileClass
+  - class/Photograph
+  - is_a_/Photograph
+  - class/Thing/CreativeWork/Photograph
 version: 2.0
 ---
 

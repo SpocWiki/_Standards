@@ -1,45 +1,48 @@
 ---
 aliases:
-  - ": رام الله, romanized: Rām Allāh"
+  - ': رام الله, romanized: Rām Allāh'
+  - Ramallah
 has_id_wikidata: Q158119
-location: [ 31.896944444, 35.201666666]
+location:
+  - 31.896944444
+  - 35.201666666
 coordinate_location: Point(35.201666666 31.896944444)
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Épinay_sur_Seine,206961]]"
-  - "[[_Standards/WikiData/WD~Bordeaux,1479]]"
-  - "[[_Standards/WikiData/WD~Liège,3992]]"
-  - "[[_Standards/WikiData/WD~Toulouse,7880]]"
-  - "[[_Standards/WikiData/WD~Trondheim,25804]]"
-  - "[[_Standards/WikiData/WD~Lublin,37333]]"
-country: "[[_Standards/WikiData/WD~State_of_Palestine,219060]]"
-named_after: "[[_Standards/WikiData/WD~Allah,234801]]"
+  - '[[_Standards/WikiData/WD~Épinay_sur_Seine,206961]]'
+  - '[[_Standards/WikiData/WD~Bordeaux,1479]]'
+  - '[[_Standards/WikiData/WD~Liège,3992]]'
+  - '[[_Standards/WikiData/WD~Toulouse,7880]]'
+  - '[[_Standards/WikiData/WD~Trondheim,25804]]'
+  - '[[_Standards/WikiData/WD~Lublin,37333]]'
+country: '[[_Standards/WikiData/WD~State_of_Palestine,219060]]'
+named_after: '[[_Standards/WikiData/WD~Allah,234801]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Al_Bireh,311326]]"
-  - "[[_Standards/WikiData/WD~Beitunia,528941]]"
-  - "[[_Standards/WikiData/WD~Abu_Qash,2490473]]"
-  - "[[_Standards/WikiData/WD~Ein_Qiniya,5349589]]"
-  - "[[_Standards/WikiData/WD~Rafat,7282411]]"
-  - "[[_Standards/WikiData/WD~Surda,_Ramallah,7645526]]"
+  - '[[_Standards/WikiData/WD~Al_Bireh,311326]]'
+  - '[[_Standards/WikiData/WD~Beitunia,528941]]'
+  - '[[_Standards/WikiData/WD~Abu_Qash,2490473]]'
+  - '[[_Standards/WikiData/WD~Ein_Qiniya,5349589]]'
+  - '[[_Standards/WikiData/WD~Rafat,7282411]]'
+  - '[[_Standards/WikiData/WD~Surda,_Ramallah,7645526]]'
   - "[[_Standards/WikiData/WD~Al_Mazra'a_al_Qibliya,12192894]]"
-  - "[[_Standards/WikiData/WD~Jerusalem,1218]]"
+  - '[[_Standards/WikiData/WD~Jerusalem,1218]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~Ramallah_and_al_Bireh_Governorate,1093166]]"
-  - "[[_Standards/WikiData/WD~West_Bank,36678]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Ramallah_and_al_Bireh_Governorate,1093166]]"
-member_of: "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
-different_from: "[[_Standards/WikiData/WD~Ramallah,11833740]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q20991133,20991133]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q108696029,108696029]]"
-head_of_government: "[[_Standards/WikiData/WD~Issa_Kassis,120484511]]"
+  - '[[_Standards/WikiData/WD~Ramallah_and_al_Bireh_Governorate,1093166]]'
+  - '[[_Standards/WikiData/WD~West_Bank,36678]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Ramallah_and_al_Bireh_Governorate,1093166]]'
+member_of: '[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]'
+different_from: '[[_Standards/WikiData/WD~Ramallah,11833740]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q20991133,20991133]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q108696029,108696029]]'
+head_of_government: '[[_Standards/WikiData/WD~Issa_Kassis,120484511]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~de_facto_national_capital,129319205]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
+  - '[[_Standards/WikiData/WD~de_facto_national_capital,129319205]]'
+  - '[[_Standards/WikiData/WD~city,515]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-  - "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
-has_characteristic: "[[_Standards/WikiData/WD~Mediterranean_climate,13996]]"
+  - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+  - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
+has_characteristic: '[[_Standards/WikiData/WD~Mediterranean_climate,13996]]'
 area: 16.3
-official_language: "[[_Standards/WikiData/WD~Palestinian_Arabic,56948]]"
+official_language: '[[_Standards/WikiData/WD~Palestinian_Arabic,56948]]'
 elevation_above_sea_level: 847
 population: 43880
 native_label:

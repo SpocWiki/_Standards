@@ -4,20 +4,22 @@ aliases:
   - arrive_action
   - ArriveAction
   - is_an_arrive_action
+  - Arrive_Action
+  - Arrive Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - arrive_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_arrive_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

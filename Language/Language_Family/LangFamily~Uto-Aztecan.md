@@ -1,23 +1,24 @@
 ---
 aliases:
   - Uto-Aztekan or Uto-Nahuatl
+  - LangFamily~Uto-Aztecan
 has_id_wikidata: Q34073
-linguistic_typology: "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
+linguistic_typology: '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Northern_Uto_Aztecan,3217543]]"
-  - "[[_Standards/WikiData/WD~Corachol,5169418]]"
-  - "[[_Standards/WikiData/WD~Piman,7194600]]"
-  - "[[_Standards/WikiData/WD~Huarijio,10974017]]"
-  - "[[_Standards/WikiData/WD~Nahuan,11965602]]"
-  - "[[_Standards/WikiData/WD~Cahitan,19877481]]"
-  - "[[_Standards/WikiData/WD~Tarahumaran,21010262]]"
-  - "[[_Standards/WikiData/WD~Opata_Eudeve,56809813]]"
-  - "[[_Standards/WikiData/WD~Tepehuán,33940]]"
-  - "[[_Standards/WikiData/WD~Tubar,56730]]"
-subclass_of: "[[_Standards/WikiData/WD~indigenous_language_of_North_America,4200688]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Uto_Aztecan_languages,18608593]]"
-instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
-OmegaWiki_Defined_Meaning: "1394150"
+  - '[[_Standards/WikiData/WD~Northern_Uto_Aztecan,3217543]]'
+  - '[[_Standards/WikiData/WD~Corachol,5169418]]'
+  - '[[_Standards/WikiData/WD~Piman,7194600]]'
+  - '[[_Standards/WikiData/WD~Huarijio,10974017]]'
+  - '[[_Standards/WikiData/WD~Nahuan,11965602]]'
+  - '[[_Standards/WikiData/WD~Cahitan,19877481]]'
+  - '[[_Standards/WikiData/WD~Tarahumaran,21010262]]'
+  - '[[_Standards/WikiData/WD~Opata_Eudeve,56809813]]'
+  - '[[_Standards/WikiData/WD~Tepehuán,33940]]'
+  - '[[_Standards/WikiData/WD~Tubar,56730]]'
+subclass_of: '[[_Standards/WikiData/WD~indigenous_language_of_North_America,4200688]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Uto_Aztecan_languages,18608593]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
+OmegaWiki_Defined_Meaning: 1394150
 ISO_639_5_code: azc
 IETF_language_tag: azc
 Linguist_List_code: utaz

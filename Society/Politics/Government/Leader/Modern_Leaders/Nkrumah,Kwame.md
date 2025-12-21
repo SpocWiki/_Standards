@@ -1,95 +1,96 @@
 ---
 aliases:
-- "Kwame Nkrumah"
-- "Francis Kwame Nkrumah"
-- Kwame_Nkrumah
+  - Kwame Nkrumah
+  - Francis Kwame Nkrumah
+  - Kwame_Nkrumah
+  - Nkrumah,Kwame
+has_id_wikidata: Q8620
 award_received:
-- '[[_Standards/WikiData/WD~Order_of_the_Companions_of_O._R._Tambo,727815]]'
-- '[[_Standards/WikiData/WD~Knight_Grand_Cross_with_Collar_of_the_Order_of_Merit_of_the_Italian_Republic,14539990]]'
-- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Polonia_Restituta,15715257]]'
-- '[[_Standards/WikiData/WD~Collar_of_the_Order_of_the_White_Lion,20966612]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Companions_of_O._R._Tambo,727815]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_with_Collar_of_the_Order_of_Merit_of_the_Italian_Republic,14539990]]'
+  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Polonia_Restituta,15715257]]'
+  - '[[_Standards/WikiData/WD~Collar_of_the_Order_of_the_White_Lion,20966612]]'
 BHCL_UUID: 807156f8-9896-4017-af80-9341a71ff5b5
 cause_of_death:
-- '[[_Standards/WikiData/WD~prostate_cancer,181257]]'
-- '[[_Standards/WikiData/WD~skin_cancer,192102]]'
+  - '[[_Standards/WikiData/WD~prostate_cancer,181257]]'
+  - '[[_Standards/WikiData/WD~skin_cancer,192102]]'
 child:
-- '[[_Standards/WikiData/WD~Gamal_Nkrumah,5519561]]'
-- '[[_Standards/WikiData/WD~Samia_Nkrumah,7409415]]'
-- '[[_Standards/WikiData/WD~Sekou_Nkrumah,16734082]]'
-Commons_category: "Kwame Nkrumah"
-Commons_gallery: "Kwame Nkrumah"
+  - '[[_Standards/WikiData/WD~Gamal_Nkrumah,5519561]]'
+  - '[[_Standards/WikiData/WD~Samia_Nkrumah,7409415]]'
+  - '[[_Standards/WikiData/WD~Sekou_Nkrumah,16734082]]'
+Commons_category: Kwame Nkrumah
+Commons_gallery: Kwame Nkrumah
 country_of_citizenship:
-- '[[_Standards/WikiData/WD~Gold_Coast_Colony,503623]]'
-- '[[_Standards/WikiData/WD~Ghana,117]]'
+  - '[[_Standards/WikiData/WD~Gold_Coast_Colony,503623]]'
+  - '[[_Standards/WikiData/WD~Ghana,117]]'
 date_of_birth: 1909-09-21
 date_of_death: 1972-04-27
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-- '[[_Standards/WikiData/WD~Africa__An_Encyclopedic_Reference,115653803]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Africa__An_Encyclopedic_Reference,115653803]]'
 educated_at:
-- '[[_Standards/WikiData/WD~London_School_of_Economics_and_Political_Science,174570]]'
-- '[[_Standards/WikiData/WD~Lincoln_University,4570781]]'
-- '[[_Standards/WikiData/WD~Achimota_School,4673779]]'
-- '[[_Standards/WikiData/WD~University_of_Pennsylvania_Graduate_School_of_Education,7896078]]'
+  - '[[_Standards/WikiData/WD~London_School_of_Economics_and_Political_Science,174570]]'
+  - '[[_Standards/WikiData/WD~Lincoln_University,4570781]]'
+  - '[[_Standards/WikiData/WD~Achimota_School,4673779]]'
+  - '[[_Standards/WikiData/WD~University_of_Pennsylvania_Graduate_School_of_Education,7896078]]'
 family_name: '[[_Standards/WikiData/WD~Nkrumah,25113640]]'
-Ghana_Place_Names_URL: "https://sites.google.com/site/ghanaplacenames/places-in-perspective/birthplaces#h.gb1ksetz76dk"
+Ghana_Place_Names_URL: https://sites.google.com/site/ghanaplacenames/places-in-perspective/birthplaces#h.gb1ksetz76dk
 given_name: '[[_Standards/WikiData/WD~Kwame,965276]]'
-has_id_wikidata: Q8620
 honorific_suffix: '[[_Standards/WikiData/WD~Privy_Council_of_the_United_Kingdom,683120]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20National%20Archives%20UK%20-%20CO%201069-50-1.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20National%20Archives%20UK%20-%20CO%201069-50-1.jpg
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 0000000110549118
 Krugosvet_article: istoriya/NKRUMA_KVAME.html
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Akan,28026]]'
-- '[[_Standards/WikiData/WD~Fante,35570]]'
-- '[[_Standards/WikiData/WD~Nzema,36337]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Akan,28026]]'
+  - '[[_Standards/WikiData/WD~Fante,35570]]'
+  - '[[_Standards/WikiData/WD~Nzema,36337]]'
 Libris_URI: dbqt0xmx367xhb1
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 member_of: '[[_Standards/WikiData/WD~Phi_Beta_Sigma,7181514]]'
 member_of_political_party:
-- "[[_Standards/WikiData/WD~Convention_People's_Party,1129392]]"
-- '[[_Standards/WikiData/WD~United_Gold_Coast_Convention,2495200]]'
+  - "[[_Standards/WikiData/WD~Convention_People's_Party,1129392]]"
+  - '[[_Standards/WikiData/WD~United_Gold_Coast_Convention,2495200]]'
 military_or_police_rank: '[[_Standards/WikiData/WD~field_marshal,7821620]]'
-name_in_native_language: "Kwame Nkrumah"
+name_in_native_language: Kwame Nkrumah
 native_language: '[[_Standards/WikiData/WD~Fante,35570]]'
 notable_work: '[[_Standards/WikiData/WD~Africa_Must_Unite,103844411]]'
 occupation:
-- '[[_Standards/WikiData/WD~politician,82955]]'
-- '[[_Standards/WikiData/WD~diplomat,193391]]'
-- '[[_Standards/WikiData/WD~lecturer,1569495]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~diplomat,193391]]'
+  - '[[_Standards/WikiData/WD~lecturer,1569495]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
 participant_in: '[[_Standards/WikiData/WD~Conference_on_Africa,114871694]]'
 partner_in_business_or_sport: '[[_Standards/WikiData/WD~David_Wilberforce_Kwami_Dawson,112708966]]'
 place_of_birth: '[[_Standards/WikiData/WD~Nkroful,1994408]]'
 place_of_burial:
-- '[[_Standards/WikiData/WD~Nkroful,1994408]]'
-- '[[_Standards/WikiData/WD~Kwame_Nkrumah_Mausoleum,13848097]]'
-- '[[_Standards/WikiData/WD~Accra,3761]]'
+  - '[[_Standards/WikiData/WD~Nkroful,1994408]]'
+  - '[[_Standards/WikiData/WD~Kwame_Nkrumah_Mausoleum,13848097]]'
+  - '[[_Standards/WikiData/WD~Accra,3761]]'
 place_of_death: '[[_Standards/WikiData/WD~Bucharest,19660]]'
 position_held:
-- '[[_Standards/WikiData/WD~Minister_for_Foreign_Affairs,1829500]]'
-- '[[_Standards/WikiData/WD~President_of_Ghana,2672728]]'
-- '[[_Standards/WikiData/WD~Prime_Minister_of_Ghana,3657870]]'
-- '[[_Standards/WikiData/WD~Minister_for_Defence,6865779]]'
-- '[[_Standards/WikiData/WD~Minister_for_the_Interior_of_Ghana,6866006]]'
-- '[[_Standards/WikiData/WD~chairperson_of_the_Organisation_of_African_Unity,19161632]]'
-- '[[_Standards/WikiData/WD~Member_of_the_Parliament_of_Ghana,21290881]]'
-- '[[_Standards/WikiData/WD~President_of_Guinea,28015517]]'
-- '[[_Standards/WikiData/WD~Member_of_the_Privy_Council_of_the_United_Kingdom,28841847]]'
-- '[[_Standards/WikiData/WD~Member_of_the_1st_Parliament_of_the_Gold_Coast,107280864]]'
-- '[[_Standards/WikiData/WD~Member_of_the_1st_Parliament_of_the_1st_Republic_of_Ghana,107392874]]'
-- '[[_Standards/WikiData/WD~Member_of_the_2nd_Parliament_of_the_Gold_Coast,107400457]]'
+  - '[[_Standards/WikiData/WD~Minister_for_Foreign_Affairs,1829500]]'
+  - '[[_Standards/WikiData/WD~President_of_Ghana,2672728]]'
+  - '[[_Standards/WikiData/WD~Prime_Minister_of_Ghana,3657870]]'
+  - '[[_Standards/WikiData/WD~Minister_for_Defence,6865779]]'
+  - '[[_Standards/WikiData/WD~Minister_for_the_Interior_of_Ghana,6866006]]'
+  - '[[_Standards/WikiData/WD~chairperson_of_the_Organisation_of_African_Unity,19161632]]'
+  - '[[_Standards/WikiData/WD~Member_of_the_Parliament_of_Ghana,21290881]]'
+  - '[[_Standards/WikiData/WD~President_of_Guinea,28015517]]'
+  - '[[_Standards/WikiData/WD~Member_of_the_Privy_Council_of_the_United_Kingdom,28841847]]'
+  - '[[_Standards/WikiData/WD~Member_of_the_1st_Parliament_of_the_Gold_Coast,107280864]]'
+  - '[[_Standards/WikiData/WD~Member_of_the_1st_Parliament_of_the_1st_Republic_of_Ghana,107392874]]'
+  - '[[_Standards/WikiData/WD~Member_of_the_2nd_Parliament_of_the_Gold_Coast,107400457]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 U_S_National_Archives_Identifier: 134379849
 work_location:
-- '[[_Standards/WikiData/WD~Axim,792509]]'
-- '[[_Standards/WikiData/WD~Elmina,968662]]'
+  - '[[_Standards/WikiData/WD~Axim,792509]]'
+  - '[[_Standards/WikiData/WD~Elmina,968662]]'
 ---
 
 # [[Nkrumah,Kwame]] 

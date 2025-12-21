@@ -1,64 +1,66 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Trip
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: G40UZZ
-  name: ArrivalTime
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: 1iMyeO
-  name: DepartureTime
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: 6e98wM
-  name: Itinerary
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/ItemList')"
-  type: MultiFile
-  path: ''
-- id: yh3rys
-  name: Offers
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Demand')"
-  type: MultiFile
-  path: ''
-- id: rKOmhQ
-  name: PartOfTrip
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Trip')"
-  type: MultiFile
-  path: ''
-- id: mdCZ1M
-  name: Provider
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: Mauhy7
-  name: SubTrip
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Trip')"
-  type: MultiFile
-  path: ''
+  - id: G40UZZ
+    name: ArrivalTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: 1iMyeO
+    name: DepartureTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: 6e98wM
+    name: Itinerary
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
+    type: MultiFile
+    path: ''
+  - id: yh3rys
+    name: Offers
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Demand')
+    type: MultiFile
+    path: ''
+  - id: rKOmhQ
+    name: PartOfTrip
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Trip')
+    type: MultiFile
+    path: ''
+  - id: mdCZ1M
+    name: Provider
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: Mauhy7
+    name: SubTrip
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Trip')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Trip
-- class/Thing/Intangible/Trip
-- is_a_/Trip
-- schema-org/Trip
+  - class/Trip
+  - class/Thing/Intangible/Trip
+  - is_a_/Trip
+  - schema-org/Trip
 tags:
-- class/FileClass
-- class/Trip
-- is_a_/Trip
-- class/Thing/Intangible/Trip
+  - class/FileClass
+  - class/Trip
+  - is_a_/Trip
+  - class/Thing/Intangible/Trip
 version: 2.0
 ---
 

@@ -1,19 +1,21 @@
 ---
 aliases:
   - Freestyle_wrestling
+  - Freestyle_Wrestling
+  - Freestyle Wrestling
 has_id_wikidata: Q327223
-subclass_of: "[[_Standards/WikiData/WD~amateur_wrestling,838089]]"
+subclass_of: '[[_Standards/WikiData/WD~amateur_wrestling,838089]]'
 sport:
-  - "[[_Standards/WikiData/WD~combat_sport,7128792]]"
-  - "[[_Standards/WikiData/WD~wrestling,42486]]"
+  - '[[_Standards/WikiData/WD~combat_sport,7128792]]'
+  - '[[_Standards/WikiData/WD~wrestling,42486]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~amateur_wrestler,12369333]]"
-  - "[[_Standards/WikiData/WD~freestyle_wrestler,135412793]]"
-instance_of: "[[_Standards/WikiData/WD~wrestling_style,134396192]]"
+  - '[[_Standards/WikiData/WD~amateur_wrestler,12369333]]'
+  - '[[_Standards/WikiData/WD~freestyle_wrestler,135412793]]'
+instance_of: '[[_Standards/WikiData/WD~wrestling_style,134396192]]'
 Wikidata_property:
   - JWF Wrestlers Database person ID
   - National Wrestling Hall of Fame wrestler ID
-founded_by: "[[_Standards/WikiData/WD~British_Empire,8680]]"
+founded_by: '[[_Standards/WikiData/WD~British_Empire,8680]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FreestyleWrestling2.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Wrestling%20Freestyle%20pictogram.svg
 Commons_category: Freestyle wrestling

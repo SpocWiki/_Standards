@@ -1,27 +1,28 @@
 ---
 aliases:
-- has_composer
-- "schema:composer"
-- "dbo:composer"
-- "wdt:P86"
+  - has_composer
+  - schema:composer
+  - dbo:composer
+  - wdt:P86
+  - has composer
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- composer
-layout: 
-license: "CC BY-SA 4.0"
+  - composer
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_composer
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_composer
 type: Predi_Relation
 ---

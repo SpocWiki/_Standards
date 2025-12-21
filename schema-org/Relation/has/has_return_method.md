@@ -3,23 +3,24 @@ aliases:
   - has return-method
   - returnMethod
   - has_return_method
+  - has return method
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - return_method
   - return
   - method
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_return_method
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

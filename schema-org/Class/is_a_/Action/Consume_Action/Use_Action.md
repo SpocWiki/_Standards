@@ -1,27 +1,29 @@
 ---
 aliases:
-- use-action
-- use_action
-- UseAction
-- is_a_use_action
-- is_using_up
+  - use-action
+  - use_action
+  - UseAction
+  - is_a_use_action
+  - is_using_up
+  - Use_Action
+  - Use Action
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- use_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_use_action Class"
+  - use_action
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_a_use_action Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- schema-org/Class
-title: "is_a_use_action Class"
+  - schema-org/Class
+title: is_a_use_action Class
 type: Type
 ---
 

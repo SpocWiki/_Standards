@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Aerial_warfare
+  - Aerial warfare
 has_id_wikidata: Q471145
 ---
 

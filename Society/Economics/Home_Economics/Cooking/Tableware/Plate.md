@@ -1,22 +1,23 @@
 ---
 aliases:
   - Platte
+  - Plate
 has_id_wikidata: Q57216
 different_from:
-  - "[[_Standards/WikiData/WD~dish,746549]]"
-  - "[[_Standards/WikiData/WD~dish,97659338]]"
+  - '[[_Standards/WikiData/WD~dish,746549]]'
+  - '[[_Standards/WikiData/WD~dish,97659338]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-part_of: "[[_Standards/WikiData/WD~table_service,2378396]]"
-has_part_s_: "[[_Standards/WikiData/WD~lip,3294449]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~platter,3391771]]"
-has_use: "[[_Standards/WikiData/WD~food_presentation,3480053]]"
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+part_of: '[[_Standards/WikiData/WD~table_service,2378396]]'
+has_part_s_: '[[_Standards/WikiData/WD~lip,3294449]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~platter,3391771]]'
+has_use: '[[_Standards/WikiData/WD~food_presentation,3480053]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~dish,97659338]]"
-  - "[[_Standards/WikiData/WD~flat_object,113518695]]"
-OmegaWiki_Defined_Meaning: "154781"
+  - '[[_Standards/WikiData/WD~dish,97659338]]'
+  - '[[_Standards/WikiData/WD~flat_object,113518695]]'
+OmegaWiki_Defined_Meaning: 154781
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Unglazed%20plates.jpg
 Commons_category: Plates
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Plate.stl

@@ -1,7 +1,9 @@
 ---
 aliases:
-- "Samuel L. Jackson"
-- "Samuel Leroy Jackson"
+  - Samuel L. Jackson
+  - Samuel Leroy Jackson
+  - Jackson,Samuel_L.
+  - Jackson,Samuel L.
 ---
 
 # [[Jackson,Samuel_L.]] 

@@ -4,87 +4,88 @@ aliases:
   - Eldred Gregory Peck
   - Gregory Peck
   - Peck
+  - Peck,Gregory
 has_id_wikidata: Q108366
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]"
-  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Supporting_Actor_in_a_Miniseries_or_a_Movie,945887]]"
-  - "[[_Standards/WikiData/WD~Henrietta_Award,1534911]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]'
+  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Supporting_Actor_in_a_Miniseries_or_a_Movie,945887]]'
+  - '[[_Standards/WikiData/WD~Henrietta_Award,1534911]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
-  - "[[_Standards/WikiData/WD~Jean_Hersholt_Humanitarian_Award,202051]]"
-  - "[[_Standards/WikiData/WD~Honorary_Golden_Bear,287062]]"
-  - "[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]"
-  - "[[_Standards/WikiData/WD~Honorary_César,727282]]"
-  - "[[_Standards/WikiData/WD~Donostia_Award,908858]]"
-  - "[[_Standards/WikiData/WD~Henrietta_Award,1534911]]"
-  - "[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_in_a_Leading_Role,3110061]]"
-  - "[[_Standards/WikiData/WD~Marian_Anderson_Award,6761828]]"
-  - "[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+  - '[[_Standards/WikiData/WD~Jean_Hersholt_Humanitarian_Award,202051]]'
+  - '[[_Standards/WikiData/WD~Honorary_Golden_Bear,287062]]'
+  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]'
+  - '[[_Standards/WikiData/WD~Honorary_César,727282]]'
+  - '[[_Standards/WikiData/WD~Donostia_Award,908858]]'
+  - '[[_Standards/WikiData/WD~Henrietta_Award,1534911]]'
+  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_in_a_Leading_Role,3110061]]'
+  - '[[_Standards/WikiData/WD~Marian_Anderson_Award,6761828]]'
+  - '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 genre:
-  - "[[_Standards/WikiData/WD~drama_film,130232]]"
-  - "[[_Standards/WikiData/WD~Western_film,172980]]"
-  - "[[_Standards/WikiData/WD~film_noir,185867]]"
-  - "[[_Standards/WikiData/WD~action_film,188473]]"
-  - "[[_Standards/WikiData/WD~horror_film,200092]]"
-  - "[[_Standards/WikiData/WD~adventure_film,319221]]"
-  - "[[_Standards/WikiData/WD~war_film,369747]]"
-  - "[[_Standards/WikiData/WD~crime_film,959790]]"
-  - "[[_Standards/WikiData/WD~mystery_film,1200678]]"
-  - "[[_Standards/WikiData/WD~thriller_film,2484376]]"
-  - "[[_Standards/WikiData/WD~psychological_horror_film,109629396]]"
-  - "[[_Standards/WikiData/WD~psychological_thriller_film,109733304]]"
+  - '[[_Standards/WikiData/WD~drama_film,130232]]'
+  - '[[_Standards/WikiData/WD~Western_film,172980]]'
+  - '[[_Standards/WikiData/WD~film_noir,185867]]'
+  - '[[_Standards/WikiData/WD~action_film,188473]]'
+  - '[[_Standards/WikiData/WD~horror_film,200092]]'
+  - '[[_Standards/WikiData/WD~adventure_film,319221]]'
+  - '[[_Standards/WikiData/WD~war_film,369747]]'
+  - '[[_Standards/WikiData/WD~crime_film,959790]]'
+  - '[[_Standards/WikiData/WD~mystery_film,1200678]]'
+  - '[[_Standards/WikiData/WD~thriller_film,2484376]]'
+  - '[[_Standards/WikiData/WD~psychological_horror_film,109629396]]'
+  - '[[_Standards/WikiData/WD~psychological_thriller_film,109733304]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
-  - "[[_Standards/WikiData/WD~San_Diego_State_University,913861]]"
-  - "[[_Standards/WikiData/WD~Neighborhood_Playhouse_School_of_the_Theatre,993267]]"
-  - "[[_Standards/WikiData/WD~San_Diego_High_School,2894818]]"
+  - '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
+  - '[[_Standards/WikiData/WD~San_Diego_State_University,913861]]'
+  - '[[_Standards/WikiData/WD~Neighborhood_Playhouse_School_of_the_Theatre,993267]]'
+  - '[[_Standards/WikiData/WD~San_Diego_High_School,2894818]]'
 child:
-  - "[[_Standards/WikiData/WD~Cecilia_Peck,648093]]"
-  - "[[_Standards/WikiData/WD~Stephen_Joseph_Peck,112057525]]"
-cause_of_death: "[[_Standards/WikiData/WD~bronchopneumonia,734512]]"
+  - '[[_Standards/WikiData/WD~Cecilia_Peck,648093]]'
+  - '[[_Standards/WikiData/WD~Stephen_Joseph_Peck,112057525]]'
+cause_of_death: '[[_Standards/WikiData/WD~bronchopneumonia,734512]]'
 residence:
-  - "[[_Standards/WikiData/WD~La_Jolla,840668]]"
-  - "[[_Standards/WikiData/WD~San_Diego,16552]]"
-  - "[[_Standards/WikiData/WD~Los_Angeles,65]]"
+  - '[[_Standards/WikiData/WD~La_Jolla,840668]]'
+  - '[[_Standards/WikiData/WD~San_Diego,16552]]'
+  - '[[_Standards/WikiData/WD~Los_Angeles,65]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Gregory,922983]]"
-  - "[[_Standards/WikiData/WD~Eldred,21396420]]"
+  - '[[_Standards/WikiData/WD~Gregory,922983]]'
+  - '[[_Standards/WikiData/WD~Eldred,21396420]]'
 occupation:
-  - "[[_Standards/WikiData/WD~character_actor,948329]]"
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~activist,15253558]]"
-  - "[[_Standards/WikiData/WD~producer,47541952]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-place_of_burial: "[[_Standards/WikiData/WD~Cathedral_of_Our_Lady_of_the_Angels,1631067]]"
-handedness: "[[_Standards/WikiData/WD~right_handedness,3039938]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+  - '[[_Standards/WikiData/WD~character_actor,948329]]'
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~activist,15253558]]'
+  - '[[_Standards/WikiData/WD~producer,47541952]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+place_of_burial: '[[_Standards/WikiData/WD~Cathedral_of_Our_Lady_of_the_Angels,1631067]]'
+handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Greta_Kukkonen,5607657]]"
-  - "[[_Standards/WikiData/WD~Veronique_Peck,7922530]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Peck,16881065]]"
+  - '[[_Standards/WikiData/WD~Greta_Kukkonen,5607657]]'
+  - '[[_Standards/WikiData/WD~Veronique_Peck,7922530]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Peck,16881065]]'
 filmography: "[[_Standards/WikiData/WD~list_of_Gregory_Peck's_performances,25066292]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-mother: "[[_Standards/WikiData/WD~Bernice_Mae_Ayres,112057536]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_birth: "[[_Standards/WikiData/WD~San_Diego,16552]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-work_locations: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_death: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+mother: '[[_Standards/WikiData/WD~Bernice_Mae_Ayres,112057536]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+place_of_birth: '[[_Standards/WikiData/WD~San_Diego,16552]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+work_locations: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_death: '[[_Standards/WikiData/WD~Los_Angeles,65]]'
 Commons_gallery: Gregory Peck
 Commons_category: Gregory Peck
 birth_name: Eldred Gregory Peck
@@ -96,7 +97,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Gregory%20Peck%201948.
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/LA%20Cathedral%20Mausoleum%20grave%20Peck.jpg
 official_website: https://www.gregorypeck.com/
 ISNI: 000000011084933X
-U_S_National_Archives_Identifier: "10569065"
+U_S_National_Archives_Identifier: 10569065
 Plex_person_key: 5d77682754f42c001f8c2a54
 ---
 

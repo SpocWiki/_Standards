@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Donald Sutherland"
-- "Donald McNichol Sutherland"
+  - Donald Sutherland
+  - Donald McNichol Sutherland
+  - Sutherland,Donald
 ---
 
 #has_/time_/started :: 1935-07-17

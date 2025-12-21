@@ -3,34 +3,35 @@ aliases:
   - Kerosin
   - kerosine
   - paraffin oil
+  - Kerosene
 has_id_wikidata: Q76904
 has_use:
-  - "[[_Standards/WikiData/WD~solvent,146505]]"
-  - "[[_Standards/WikiData/WD~lubricant,323840]]"
-  - "[[_Standards/WikiData/WD~liquid_fuel,1386534]]"
-  - "[[_Standards/WikiData/WD~diluent,3268188]]"
-  - "[[_Standards/WikiData/WD~jet_fuel,5361665]]"
-  - "[[_Standards/WikiData/WD~adhesive_remover,85739793]]"
+  - '[[_Standards/WikiData/WD~solvent,146505]]'
+  - '[[_Standards/WikiData/WD~lubricant,323840]]'
+  - '[[_Standards/WikiData/WD~liquid_fuel,1386534]]'
+  - '[[_Standards/WikiData/WD~diluent,3268188]]'
+  - '[[_Standards/WikiData/WD~jet_fuel,5361665]]'
+  - '[[_Standards/WikiData/WD~adhesive_remover,85739793]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~mixture,169336]]"
-  - "[[_Standards/WikiData/WD~petroleum_product,1059843]]"
-  - "[[_Standards/WikiData/WD~liquid_fuel,1386534]]"
-used_by: "[[_Standards/WikiData/WD~kerosene_lamp,215628]]"
+  - '[[_Standards/WikiData/WD~mixture,169336]]'
+  - '[[_Standards/WikiData/WD~petroleum_product,1059843]]'
+  - '[[_Standards/WikiData/WD~liquid_fuel,1386534]]'
+used_by: '[[_Standards/WikiData/WD~kerosene_lamp,215628]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-different_from: "[[_Standards/WikiData/WD~Kerosene,1205583]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+different_from: '[[_Standards/WikiData/WD~Kerosene,1205583]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Leichtöl,1814735]]"
-  - "[[_Standards/WikiData/WD~petroleum,22656]]"
-instance_of: "[[_Standards/WikiData/WD~Class_II_combustible_liquid,21009057]]"
-associated_hazard: "[[_Standards/WikiData/WD~kerosene_exposure,21174797]]"
-has_effect: "[[_Standards/WikiData/WD~kerosene_exposure,21174797]]"
+  - '[[_Standards/WikiData/WD~Leichtöl,1814735]]'
+  - '[[_Standards/WikiData/WD~petroleum,22656]]'
+instance_of: '[[_Standards/WikiData/WD~Class_II_combustible_liquid,21009057]]'
+associated_hazard: '[[_Standards/WikiData/WD~kerosene_exposure,21174797]]'
+has_effect: '[[_Standards/WikiData/WD~kerosene_exposure,21174797]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~carbon,623]]"
-  - "[[_Standards/WikiData/WD~hydrocarbon,43648]]"
+  - '[[_Standards/WikiData/WD~carbon,623]]'
+  - '[[_Standards/WikiData/WD~hydrocarbon,43648]]'
 melting_point: -50
 time_weighted_average_exposure_limit: 100
 upper_flammable_limit: 5
@@ -45,15 +46,15 @@ density: 0.81
 boiling_point:
   - 347
   - 617
-UN_number: "1223"
-CosIng_number: "75520"
-ZVG_number: "531419"
+UN_number: 1223
+CosIng_number: 75520
+ZVG_number: 531419
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Kerosene%20bottle.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/4%20litre%20Kristallfotogen%20kerosene%20can%20by%20Aktiebolaget%20Lyse%20Sweden%20early%2020th%20century.jpg
 Commons_category: Kerosene
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000551
-UNSPSC_Code: "15101502"
+UNSPSC_Code: 15101502
 UNII: 1C89KKC04E
 EC_number: 232-366-4
 CAS_Registry_Number: 8008-20-6

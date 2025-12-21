@@ -4,28 +4,28 @@ aliases:
   - Jurte
 has_id_wikidata: Q15680
 subclass_of:
-  - "[[_Standards/WikiData/WD~tent,170544]]"
-  - "[[_Standards/WikiData/WD~house,3947]]"
+  - '[[_Standards/WikiData/WD~tent,170544]]'
+  - '[[_Standards/WikiData/WD~house,3947]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+  - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~dwelling,699405]]"
-  - "[[_Standards/WikiData/WD~traditional_craft,37736399]]"
+  - '[[_Standards/WikiData/WD~dwelling,699405]]'
+  - '[[_Standards/WikiData/WD~traditional_craft,37736399]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~tyndyk,3508748]]"
-  - "[[_Standards/WikiData/WD~Kerege,12548931]]"
-  - "[[_Standards/WikiData/WD~Uyk,25525096]]"
-intangible_cultural_heritage_status: "[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]"
+  - '[[_Standards/WikiData/WD~tyndyk,3508748]]'
+  - '[[_Standards/WikiData/WD~Kerege,12548931]]'
+  - '[[_Standards/WikiData/WD~Uyk,25525096]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
 country:
-  - "[[_Standards/WikiData/WD~Uzbekistan,265]]"
-  - "[[_Standards/WikiData/WD~Mongolia,711]]"
-  - "[[_Standards/WikiData/WD~Kyrgyzstan,813]]"
-  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
+  - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
+  - '[[_Standards/WikiData/WD~Mongolia,711]]'
+  - '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
+  - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
 native_label: Yurt
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SK%20yurt%20camp%20%281%20of%201%29-8.jpg
 described_at_URL:

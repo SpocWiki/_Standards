@@ -4,20 +4,22 @@ aliases:
   - ask_action
   - AskAction
   - is_an_ask_action
+  - Ask_Action
+  - Ask Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - ask_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_ask_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

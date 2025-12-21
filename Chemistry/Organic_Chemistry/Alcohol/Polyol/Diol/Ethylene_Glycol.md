@@ -2,6 +2,8 @@
 aliases:
   - ethane-1,2-diol
   - Ethylene glycol
+  - Ethylene_Glycol
+  - Ethylene Glycol
 ---
 
 # [[Ethylene_Glycol]] 

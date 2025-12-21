@@ -4,20 +4,22 @@ aliases:
   - cafe_or_coffee_shop
   - CafeOrCoffeeShop
   - is_a_cafe_or_coffee_shop
+  - Cafe_or_Coffee_Shop
+  - Cafe or Coffee Shop
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - cafe_or_coffee_shop
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_cafe_or_coffee_shop Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

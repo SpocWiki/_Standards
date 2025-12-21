@@ -1,31 +1,32 @@
 ---
 aliases:
-- sub-property-of
-- subproperty-of
-- subproperty_of
-- sub_property_of
-- subPropertyOf
-- is_sub_property_of
-- is_a_kind_of
-- are_a_kind_of
-- rdfs~subPropertyOf
-- 
+  - sub-property-of
+  - subproperty-of
+  - subproperty_of
+  - sub_property_of
+  - subPropertyOf
+  - is_sub_property_of
+  - is_a_kind_of
+  - are_a_kind_of
+  - rdfs~subPropertyOf
+  - ''
+  - is sub property of
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords: ''
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: is_sub_property_of
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- schema-org/Relation
+  - schema-org/Relation
 title: is_sub_property_of
 type: Predi_Relation
 ---

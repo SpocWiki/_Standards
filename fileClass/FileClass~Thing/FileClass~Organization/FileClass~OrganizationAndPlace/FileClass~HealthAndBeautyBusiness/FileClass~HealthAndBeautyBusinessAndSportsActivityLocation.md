@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~HealthAndBeautyBusinessAndSportsActivityLocation
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/HealthAndBeautyBusinessAndSportsActivityLocation
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/HealthAndBeautyBusinessAndSportsActivityLocation
-- is_a_/HealthAndBeautyBusinessAndSportsActivityLocation
-- schema-org/HealthAndBeautyBusinessAndSportsActivityLocation
+  - class/HealthAndBeautyBusinessAndSportsActivityLocation
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/HealthAndBeautyBusinessAndSportsActivityLocation
+  - is_a_/HealthAndBeautyBusinessAndSportsActivityLocation
+  - schema-org/HealthAndBeautyBusinessAndSportsActivityLocation
 tags:
-- class/FileClass
-- class/HealthAndBeautyBusinessAndSportsActivityLocation
-- is_a_/HealthAndBeautyBusinessAndSportsActivityLocation
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/HealthAndBeautyBusinessAndSportsActivityLocation
+  - class/FileClass
+  - class/HealthAndBeautyBusinessAndSportsActivityLocation
+  - is_a_/HealthAndBeautyBusinessAndSportsActivityLocation
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/HealthAndBeautyBusinessAndSportsActivityLocation
 version: 2.0
 ---
 

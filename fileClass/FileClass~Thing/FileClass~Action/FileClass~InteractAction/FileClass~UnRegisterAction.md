@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~UnRegisterAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/UnRegisterAction
-- class/Thing/Action/InteractAction/UnRegisterAction
-- is_an_/UnRegisterAction
-- schema-org/UnRegisterAction
+  - class/UnRegisterAction
+  - class/Thing/Action/InteractAction/UnRegisterAction
+  - is_an_/UnRegisterAction
+  - schema-org/UnRegisterAction
 tags:
-- class/FileClass
-- class/UnRegisterAction
-- '#is_an_/UnRegisterAction'
-- class/Thing/Action/InteractAction/UnRegisterAction
+  - class/FileClass
+  - class/UnRegisterAction
+  - '#is_an_/UnRegisterAction'
+  - class/Thing/Action/InteractAction/UnRegisterAction
 version: 2.0
 ---
 

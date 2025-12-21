@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~EventVenue
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/EventVenue
-- class/Thing/Place/CivicStructure/EventVenue
-- is_an_/EventVenue
-- schema-org/EventVenue
+  - class/EventVenue
+  - class/Thing/Place/CivicStructure/EventVenue
+  - is_an_/EventVenue
+  - schema-org/EventVenue
 tags:
-- class/FileClass
-- class/EventVenue
-- '#is_an_/EventVenue'
-- class/Thing/Place/CivicStructure/EventVenue
+  - class/FileClass
+  - class/EventVenue
+  - '#is_an_/EventVenue'
+  - class/Thing/Place/CivicStructure/EventVenue
 version: 2.0
 ---
 

@@ -3,24 +3,24 @@ aliases:
   - Andrew Jackson
   - Jackson,Andrew
   - Andrew_Jackson
+has_id_wikidata: Q11817
 confidential: private
 cssclasses:
   - private
   - note
 draft: true
-expiryDate: 
-has_id_wikidata: Q11817
+expiryDate: ''
 has_Template:
-  - "[[Extract~Note~Template]]"
+  - '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Jackson,Andrew
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Jackson,Andrew
 publish: false
-publishDate: 
+publishDate: ''
 tags:
   - Jackson,Andrew
 title: Jackson,Andrew

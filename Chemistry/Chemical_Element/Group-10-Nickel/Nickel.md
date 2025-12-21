@@ -1,61 +1,61 @@
 ---
 aliases:
   - Nickel
-associated_hazard: "[[_Standards/WikiData/WD~nickel_exposure,21174946]]"
+has_id_wikidata: Q744
+associated_hazard: '[[_Standards/WikiData/WD~nickel_exposure,21174946]]'
 atomic_number: 28
 boiling_point:
   - 2913
   - 3186
   - 5139
-canonical_SMILES: "[Ni]"
+canonical_SMILES: '[Ni]'
 CAS_Registry_Number: 7440-02-0
 chemical_formula: Ni
 Commons_category: Nickel
 Commons_gallery: Nickel
 density: 8.9
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Nickel,108309417]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Axel_Fredrik_Cronstedt,468351]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Nickel,108309417]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Axel_Fredrik_Cronstedt,468351]]'
 DSSTOX_compound_identifier: DTXCID80925
 EC_number: 231-111-4
 electronegativity: 1.91
 element_symbol: Ni
-found_in_taxon: "[[_Standards/WikiData/WD~Ludwigia_repens,4406281]]"
-Gmelin_number: "16229"
-has_characteristic: "[[_Standards/WikiData/WD~ferromagnetism,184207]]"
+found_in_taxon: '[[_Standards/WikiData/WD~Ludwigia_repens,4406281]]'
+Gmelin_number: 16229
+has_characteristic: '[[_Standards/WikiData/WD~ferromagnetism,184207]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~nickel_allergic_contact_dermatitis,16606544]]"
-  - "[[_Standards/WikiData/WD~nickel_exposure,21174946]]"
-has_id_wikidata: Q744
+  - '[[_Standards/WikiData/WD~nickel_allergic_contact_dermatitis,16606544]]'
+  - '[[_Standards/WikiData/WD~nickel_exposure,21174946]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Electrolytic%20nickel.jpg
 immediately_dangerous_to_life_or_health: 10
 InChI: InChI=1S/Ni
 InChIKey: PXHVJJICTQNCMI-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~ferromagnetic_material,9259184]]"
-  - "[[_Standards/WikiData/WD~flammable_solid,21073024]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - '[[_Standards/WikiData/WD~ferromagnetic_material,9259184]]'
+  - '[[_Standards/WikiData/WD~flammable_solid,21073024]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
   - 0.49
   - 0.56
   - 0.69
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/NIKEL.html
 made_from_material:
-  - "[[_Standards/WikiData/WD~pentlandite,410101]]"
-  - "[[_Standards/WikiData/WD~millerite,411068]]"
-  - "[[_Standards/WikiData/WD~nickeline,419197]]"
-  - "[[_Standards/WikiData/WD~pyrrhotite,421944]]"
-  - "[[_Standards/WikiData/WD~garnierite_mineral_group,1494409]]"
-  - "[[_Standards/WikiData/WD~paratacamite_(Ni),19861151]]"
-  - "[[_Standards/WikiData/WD~phosphocyclite_(Ni),106623134]]"
-  - "[[_Standards/WikiData/WD~tetrahedrite_(Ni),108145984]]"
-  - "[[_Standards/WikiData/WD~tennantite_(Ni),108146107]]"
+  - '[[_Standards/WikiData/WD~pentlandite,410101]]'
+  - '[[_Standards/WikiData/WD~millerite,411068]]'
+  - '[[_Standards/WikiData/WD~nickeline,419197]]'
+  - '[[_Standards/WikiData/WD~pyrrhotite,421944]]'
+  - '[[_Standards/WikiData/WD~garnierite_mineral_group,1494409]]'
+  - '[[_Standards/WikiData/WD~paratacamite_(Ni),19861151]]'
+  - '[[_Standards/WikiData/WD~phosphocyclite_(Ni),106623134]]'
+  - '[[_Standards/WikiData/WD~tetrahedrite_(Ni),108145984]]'
+  - '[[_Standards/WikiData/WD~tennantite_(Ni),108146107]]'
 mass: 58.6934
 melting_point:
   - 1455
@@ -65,8 +65,8 @@ MeSH_tree_code:
   - D01.268.556.607
   - D01.268.956.625
   - D01.552.544.607
-named_after: "[[_Standards/WikiData/WD~nickeline,419197]]"
-OmegaWiki_Defined_Meaning: "2509"
+named_after: '[[_Standards/WikiData/WD~nickeline,419197]]'
+OmegaWiki_Defined_Meaning: 2509
 oxidation_state:
   - -1
   - 1
@@ -74,19 +74,19 @@ oxidation_state:
   - 3
   - 4
 part_of:
-  - "[[_Standards/WikiData/WD~group_10,205253]]"
-  - "[[_Standards/WikiData/WD~period_4,239825]]"
-PubChem_CID: "935"
-Reaxys_registry_number: "4122946"
+  - '[[_Standards/WikiData/WD~group_10,205253]]'
+  - '[[_Standards/WikiData/WD~period_4,239825]]'
+PubChem_CID: 935
+Reaxys_registry_number: 4122946
 RTECS_number: QR5950000
 SpocWebEntityId: 21927
 subclass_of:
-  - "[[_Standards/WikiData/WD~allergen,186752]]"
-  - "[[_Standards/WikiData/WD~material,214609]]"
+  - '[[_Standards/WikiData/WD~allergen,186752]]'
+  - '[[_Standards/WikiData/WD~material,214609]]'
 subject_has_role:
-  - "[[_Standards/WikiData/WD~carcinogen,187661]]"
-  - "[[_Standards/WikiData/WD~trace_metal,7831165]]"
-  - "[[_Standards/WikiData/WD~occupational_carcinogen,21074597]]"
+  - '[[_Standards/WikiData/WD~carcinogen,187661]]'
+  - '[[_Standards/WikiData/WD~trace_metal,7831165]]'
+  - '[[_Standards/WikiData/WD~occupational_carcinogen,21074597]]'
 time_of_discovery_or_invention: 1751-01-01T00:00:00Z
 time_weighted_average_exposure_limit:
   - 1
@@ -95,17 +95,17 @@ type: Element
 UMLS_CUI: C0028013
 Unicode_character: 鎳
 UNII: 7OV03QG267
-UNSPSC_Code: "11101706"
-U_S_National_Archives_Identifier: "10647023"
+UNSPSC_Code: 11101706
+U_S_National_Archives_Identifier: 10647023
 vapor_pressure: 0
 Wolfram_Language_entity_code: Entity["Mineral", "Nickel"]
-ZVG_number: "8230"
-RxNorm_CUI: "1311629"
+ZVG_number: 8230
+RxNorm_CUI: 1311629
 Dewey_Decimal_Classification:
-  - "546.625"
-  - "572.52625"
-  - "620.188"
-  - "669.7332"
+  - 546.625
+  - 572.52625
+  - 620.188
+  - 669.7332
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/NIKEL.html
 ---
 

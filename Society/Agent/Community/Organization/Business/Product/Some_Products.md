@@ -4,20 +4,22 @@ aliases:
   - some_products
   - SomeProducts
   - is_a_some_products
+  - Some_Products
+  - Some Products
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - some_products
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_some_products Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

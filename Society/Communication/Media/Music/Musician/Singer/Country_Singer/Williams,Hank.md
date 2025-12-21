@@ -4,64 +4,65 @@ aliases:
   - Hiram Williams
   - Hank Williams
   - Williams
+  - Williams,Hank
 has_id_wikidata: Q206181
 genre:
-  - "[[_Standards/WikiData/WD~country_music,83440]]"
-  - "[[_Standards/WikiData/WD~honky_tonk,1627155]]"
-  - "[[_Standards/WikiData/WD~honky_tonk,3140141]]"
-  - "[[_Standards/WikiData/WD~blues,9759]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Baptists,93191]]"
+  - '[[_Standards/WikiData/WD~country_music,83440]]'
+  - '[[_Standards/WikiData/WD~honky_tonk,1627155]]'
+  - '[[_Standards/WikiData/WD~honky_tonk,3140141]]'
+  - '[[_Standards/WikiData/WD~blues,9759]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Baptists,93191]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~singer_songwriter,488205]]"
-  - "[[_Standards/WikiData/WD~guitarist,855091]]"
-  - "[[_Standards/WikiData/WD~street_artist,2914170]]"
-  - "[[_Standards/WikiData/WD~yodeler,21234378]]"
-  - "[[_Standards/WikiData/WD~recording_artist,55960555]]"
-  - "[[_Standards/WikiData/WD~country_musician,66763670]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+  - '[[_Standards/WikiData/WD~guitarist,855091]]'
+  - '[[_Standards/WikiData/WD~street_artist,2914170]]'
+  - '[[_Standards/WikiData/WD~yodeler,21234378]]'
+  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+  - '[[_Standards/WikiData/WD~country_musician,66763670]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-  - "[[_Standards/WikiData/WD~Pulitzer_Prize_Special_Citations_and_Awards,7259350]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
+  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+  - '[[_Standards/WikiData/WD~Pulitzer_Prize_Special_Citations_and_Awards,7259350]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
   - "[[_Standards/WikiData/WD~Americana_Music_Association_President's_Award,96613973]]"
 cause_of_death:
-  - "[[_Standards/WikiData/WD~heart_failure,181754]]"
-  - "[[_Standards/WikiData/WD~drug_overdose,3505252]]"
-place_of_death: "[[_Standards/WikiData/WD~Oak_Hill,285202]]"
+  - '[[_Standards/WikiData/WD~heart_failure,181754]]'
+  - '[[_Standards/WikiData/WD~drug_overdose,3505252]]'
+place_of_death: '[[_Standards/WikiData/WD~Oak_Hill,285202]]'
 child:
-  - "[[_Standards/WikiData/WD~Jett_Williams,544198]]"
-  - "[[_Standards/WikiData/WD~Hank_Williams_Jr.,552819]]"
-partner_in_business_or_sport: "[[_Standards/WikiData/WD~Fred_Rose,563287]]"
-medical_condition: "[[_Standards/WikiData/WD~spina_bifida,844717]]"
-copyright_representative: "[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]"
-place_of_birth: "[[_Standards/WikiData/WD~Mount_Olive,1274884]]"
-family_name: "[[_Standards/WikiData/WD~Williams,1688722]]"
+  - '[[_Standards/WikiData/WD~Jett_Williams,544198]]'
+  - '[[_Standards/WikiData/WD~Hank_Williams_Jr.,552819]]'
+partner_in_business_or_sport: '[[_Standards/WikiData/WD~Fred_Rose,563287]]'
+medical_condition: '[[_Standards/WikiData/WD~spina_bifida,844717]]'
+copyright_representative: '[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]'
+place_of_birth: '[[_Standards/WikiData/WD~Mount_Olive,1274884]]'
+family_name: '[[_Standards/WikiData/WD~Williams,1688722]]'
 record_label:
-  - "[[_Standards/WikiData/WD~MGM_Records,1881437]]"
-  - "[[_Standards/WikiData/WD~Sterling_Records,7611464]]"
+  - '[[_Standards/WikiData/WD~MGM_Records,1881437]]'
+  - '[[_Standards/WikiData/WD~Sterling_Records,7611464]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Audrey_Williams,4820196]]"
-  - "[[_Standards/WikiData/WD~Billie_Jean_Jones,4911859]]"
-discography: "[[_Standards/WikiData/WD~Hank_Williams_discography,5648499]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-has_list: "[[_Standards/WikiData/WD~list_of_tributes_to_Hank_Williams,6643999]]"
-educated_at: "[[_Standards/WikiData/WD~Sidney_Lanier_High_School,6663814]]"
+  - '[[_Standards/WikiData/WD~Audrey_Williams,4820196]]'
+  - '[[_Standards/WikiData/WD~Billie_Jean_Jones,4911859]]'
+discography: '[[_Standards/WikiData/WD~Hank_Williams_discography,5648499]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+has_list: '[[_Standards/WikiData/WD~list_of_tributes_to_Hank_Williams,6643999]]'
+educated_at: '[[_Standards/WikiData/WD~Sidney_Lanier_High_School,6663814]]'
 instrument:
-  - "[[_Standards/WikiData/WD~voice,17172850]]"
-  - "[[_Standards/WikiData/WD~guitar,6607]]"
-given_name: "[[_Standards/WikiData/WD~Hank,19819765]]"
-member_of: "[[_Standards/WikiData/WD~Hank_Williams_With_His_Drifting_Cowboys,65554675]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-place_of_burial: "[[_Standards/WikiData/WD~Oakwood_Annex_Cemetery,117446492]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-location_of_formation: "[[_Standards/WikiData/WD~Montgomery,29364]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Republican_Party,29468]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~voice,17172850]]'
+  - '[[_Standards/WikiData/WD~guitar,6607]]'
+given_name: '[[_Standards/WikiData/WD~Hank,19819765]]'
+member_of: '[[_Standards/WikiData/WD~Hank_Williams_With_His_Drifting_Cowboys,65554675]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+place_of_burial: '[[_Standards/WikiData/WD~Oakwood_Annex_Cemetery,117446492]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+location_of_formation: '[[_Standards/WikiData/WD~Montgomery,29364]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 social_media_followers: 329000
 Commons_gallery: Hank Williams
 Commons_category: Hank Williams
@@ -71,10 +72,10 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Hank%20Williams%20Promotional%20Photo.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Hank%20Williams%20MGM%20Records%201948%20-%20Cropped.jpg
 official_website: http://www.hankwilliams.com/
-ISNI: "0000000073577397"
+ISNI: 0000000073577397
 IPI_name_number:
-  - "00058261964"
-  - "00058262177"
+  - 00058261964
+  - 00058262177
 Europeana_entity: agent/base/61429
 Wolfram_Language_entity_code: Entity["MusicAct", "HankWilliams::7d456"]
 pseudonym: Luke the Drifter

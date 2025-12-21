@@ -1,27 +1,29 @@
 ---
 aliases:
-- structured-value
-- structured_value
-- StructuredValue
-- is_a_structured_value
-- Structured_Values
+  - structured-value
+  - structured_value
+  - StructuredValue
+  - is_a_structured_value
+  - Structured_Values
+  - Structured_Value
+  - Structured Value
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- structured_value
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_structured_value Class"
+  - structured_value
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_a_structured_value Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- schema-org/Class
-title: "is_a_structured_value Class"
+  - schema-org/Class
+title: is_a_structured_value Class
 type: Type
 ---
 

@@ -1,28 +1,29 @@
 ---
 aliases:
   - Nukleon
+  - Nucleon
 has_id_wikidata: Q102165
 interaction:
-  - "[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]"
-  - "[[_Standards/WikiData/WD~strong_interaction,11415]]"
-  - "[[_Standards/WikiData/WD~gravity,11412]]"
-  - "[[_Standards/WikiData/WD~weak_interaction,11418]]"
-has_characteristic: "[[_Standards/WikiData/WD~bound_state,908049]]"
-subclass_of: "[[_Standards/WikiData/WD~N_baryon,4044799]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-antiparticle: "[[_Standards/WikiData/WD~antinucleon,28855250]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+  - '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+  - '[[_Standards/WikiData/WD~strong_interaction,11415]]'
+  - '[[_Standards/WikiData/WD~gravity,11412]]'
+  - '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+has_characteristic: '[[_Standards/WikiData/WD~bound_state,908049]]'
+subclass_of: '[[_Standards/WikiData/WD~N_baryon,4044799]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+antiparticle: '[[_Standards/WikiData/WD~antinucleon,28855250]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 half_life: 8.4e+33
-has_part_s_: "[[_Standards/WikiData/WD~quark,6718]]"
+has_part_s_: '[[_Standards/WikiData/WD~quark,6718]]'
 spin_quantum_number: 0.5
-part_of: "[[_Standards/WikiData/WD~atomic_nucleus,37147]]"
+part_of: '[[_Standards/WikiData/WD~atomic_nucleus,37147]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nucleus%20drawing.svg
 IEV_number:
   - 113-05-31
   - 881-02-48
-Dewey_Decimal_Classification: "539.7212"
-OmegaWiki_Defined_Meaning: "860595"
+Dewey_Decimal_Classification: 539.7212
+OmegaWiki_Defined_Meaning: 860595
 UMLS_CUI: C4277596
 MeSH_tree_code: G01.249.660
 Krugosvet_article: nauka_i_tehnika/fizika/NUKLON.html

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Polymer chemistry
+  - Polymer_Chemistry
+  - Polymer Chemistry
 has_id_wikidata: Q750446
 ---
 

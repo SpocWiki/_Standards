@@ -2,28 +2,29 @@
 aliases:
   - Soy sauce
   - Sojasoße
+  - Soy_sauce
 has_id_wikidata: Q229385
 subclass_of:
-  - "[[_Standards/WikiData/WD~sauce,178359]]"
-  - "[[_Standards/WikiData/WD~fermented_food,6950796]]"
-  - "[[_Standards/WikiData/WD~soy_food,28836677]]"
+  - '[[_Standards/WikiData/WD~sauce,178359]]'
+  - '[[_Standards/WikiData/WD~fermented_food,6950796]]'
+  - '[[_Standards/WikiData/WD~soy_food,28836677]]'
 cuisine:
-  - "[[_Standards/WikiData/WD~Japanese_cuisine,234138]]"
-  - "[[_Standards/WikiData/WD~Chinese_cuisine,10876842]]"
+  - '[[_Standards/WikiData/WD~Japanese_cuisine,234138]]'
+  - '[[_Standards/WikiData/WD~Chinese_cuisine,10876842]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-has_part_s_: "[[_Standards/WikiData/WD~soy_bean,61503220]]"
-country_of_origin: "[[_Standards/WikiData/WD~China,29520]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+has_part_s_: '[[_Standards/WikiData/WD~soy_bean,61503220]]'
+country_of_origin: '[[_Standards/WikiData/WD~China,29520]]'
 water_footprint: 613
-OmegaWiki_Defined_Meaning: "909894"
+OmegaWiki_Defined_Meaning: 909894
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Soja%20Sauce%20zum%20Sushi%20%2825966205154%29.jpg
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Fr-sauce%20de%20soja.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-sojasaus.ogg
 exact_match: http://purl.obolibrary.org/obo/ENVO_0010148
-Common_Procurement_Vocabulary_code: "15871210"
-Amazon_com_browse_node: "16321391"
+Common_Procurement_Vocabulary_code: 15871210
+Amazon_com_browse_node: 16321391
 UMLS_CUI: C0453374
 Commons_category: Soy sauce
 native_label: 酱油

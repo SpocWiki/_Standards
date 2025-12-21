@@ -8,16 +8,16 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - corporation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_corporation Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
@@ -36,7 +36,7 @@ dv_has_/legal_status:
   path: Owner
   embed: false
   type: file
-dv_has_/owner: "[[Shareholder]]s"
+dv_has_/owner: '[[Shareholder]]s'
 dv_has_/manager:
   path: Board_of_Directors
   embed: false
@@ -44,15 +44,15 @@ dv_has_/manager:
 dv_has_/liability: limited by absolute Amount of Share
 dv_has_/taxation: Subject to double taxation unless elects S corporation status
 dv_has_/examples: Large publicly traded companies, tech giants, multinational corporations
-dv_#has_/properties: "[ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, tickerSymbol, unnamedSourcesPolicy, url, vatID ]"
+dv_#has_/properties: '[ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, tickerSymbol, unnamedSourcesPolicy, url, vatID ]'
 dv_is_/same_as:
-  - "[Corporation](Corporation.md)"
-  - "[Corporation.public](/_public/Society/Organization/Corporation.public.md)"
-  - "[Corporation.internal](/_internal/Society/Organization/Corporation.internal.md)"
-  - "[Corporation.protect](/_protect/Society/Organization/Corporation.protect.md)"
-  - "[Corporation.private](/_private/Society/Organization/Corporation.private.md)"
-  - "[Corporation.personal](/_personal/Society/Organization/Corporation.personal.md)"
-  - "[Corporation.secret](/_secret/Society/Organization/Corporation.secret.md)"
+  - '[Corporation](Corporation.md)'
+  - '[Corporation.public](/_public/Society/Organization/Corporation.public.md)'
+  - '[Corporation.internal](/_internal/Society/Organization/Corporation.internal.md)'
+  - '[Corporation.protect](/_protect/Society/Organization/Corporation.protect.md)'
+  - '[Corporation.private](/_private/Society/Organization/Corporation.private.md)'
+  - '[Corporation.personal](/_personal/Society/Organization/Corporation.personal.md)'
+  - '[Corporation.secret](/_secret/Society/Organization/Corporation.secret.md)'
 dv_is_sub_class_of:
   - path: _Standards/Society/Agent/Organization.md
     embed: false
@@ -66,7 +66,7 @@ dv_has_legal_status:
   path: Owner
   embed: false
   type: file
-dv_has_owner: "[[Shareholder]]s"
+dv_has_owner: '[[Shareholder]]s'
 dv_has_manager:
   path: Board_of_Directors
   embed: false
@@ -74,15 +74,15 @@ dv_has_manager:
 dv_has_liability: limited by absolute Amount of Share
 dv_has_taxation: Subject to double taxation unless elects S corporation status
 dv_has_examples: Large publicly traded companies, tech giants, multinational corporations
-dv_has_properties: "[ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, tickerSymbol, unnamedSourcesPolicy, url, vatID ]"
+dv_has_properties: '[ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, tickerSymbol, unnamedSourcesPolicy, url, vatID ]'
 dv_is_same_as:
-  - "[Corporation](Corporation.md)"
-  - "[Corporation.public](/_public/Society/Organization/Corporation.public.md)"
-  - "[Corporation.internal](/_internal/Society/Organization/Corporation.internal.md)"
-  - "[Corporation.protect](/_protect/Society/Organization/Corporation.protect.md)"
-  - "[Corporation.private](/_private/Society/Organization/Corporation.private.md)"
-  - "[Corporation.personal](/_personal/Society/Organization/Corporation.personal.md)"
-  - "[Corporation.secret](/_secret/Society/Organization/Corporation.secret.md)"
+  - '[Corporation](Corporation.md)'
+  - '[Corporation.public](/_public/Society/Organization/Corporation.public.md)'
+  - '[Corporation.internal](/_internal/Society/Organization/Corporation.internal.md)'
+  - '[Corporation.protect](/_protect/Society/Organization/Corporation.protect.md)'
+  - '[Corporation.private](/_private/Society/Organization/Corporation.private.md)'
+  - '[Corporation.personal](/_personal/Society/Organization/Corporation.personal.md)'
+  - '[Corporation.secret](/_secret/Society/Organization/Corporation.secret.md)'
 ---
 
 # [[Corporation]] 

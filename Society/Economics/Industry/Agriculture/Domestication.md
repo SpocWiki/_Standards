@@ -1,14 +1,16 @@
 ---
-Commons_category: Domesticated animals
-different_from: "[[_Standards/WikiData/WD~Domestication_and_foreignization,5290237]]"
-facet_of: "[[_Standards/WikiData/WD~history_of_civilization,10300571]]"
+aliases:
+  - Domestication
 has_id_wikidata: Q11395
+Commons_category: Domesticated animals
+different_from: '[[_Standards/WikiData/WD~Domestication_and_foreignization,5290237]]'
+facet_of: '[[_Standards/WikiData/WD~history_of_civilization,10300571]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Domestication%20Timeline.jpg
 MeSH_tree_code: J01.040.330
 OmegaWiki_Defined_Meaning: 808812
-partially_coincident_with: "[[_Standards/WikiData/WD~cultivation,357279]]"
+partially_coincident_with: '[[_Standards/WikiData/WD~cultivation,357279]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B8%D5%B6%D5%BF%D5%A5%D5%AC%D5%A1%D6%81%D5%B8%D6%82%D5%B4%20%28Domestication%29.ogg
-subclass_of: "[[_Standards/WikiData/WD~evolution,1063]]"
+subclass_of: '[[_Standards/WikiData/WD~evolution,1063]]'
 UMLS_CUI: C0175819
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Domestication.svg

@@ -3,23 +3,24 @@ aliases:
   - has first-appearance
   - firstAppearance
   - has_first_appearance_in
+  - has first appearance in
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - first
   - appearance
   - first_appearance
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_first_appearance_in
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

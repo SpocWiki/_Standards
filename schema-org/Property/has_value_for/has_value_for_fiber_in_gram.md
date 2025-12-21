@@ -4,21 +4,22 @@ aliases:
   - fiber-content
   - fiberContent
   - has_value_for_fiber_in_gram
+  - has value for fiber in gram
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - fiber-content
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_fiber-content
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

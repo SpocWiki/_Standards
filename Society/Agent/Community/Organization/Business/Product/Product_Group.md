@@ -4,20 +4,22 @@ aliases:
   - product_group
   - ProductGroup
   - is_a_product_group
+  - Product_Group
+  - Product Group
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - product_group
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_product_group Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

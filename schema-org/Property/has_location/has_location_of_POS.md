@@ -4,21 +4,22 @@ aliases:
   - has_POS
   - hasPOS
   - has_location_of_POS
+  - has location of POS
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - has_POS
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_of_POS
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

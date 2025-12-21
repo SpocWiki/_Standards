@@ -4,20 +4,21 @@ aliases:
   - increasing_risk_of
   - increasesRiskOf
   - is_increasing_risk_of
+  - is increasing risk of
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
-layout:
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_increasing_risk_of
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

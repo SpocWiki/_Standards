@@ -1,27 +1,28 @@
 ---
 aliases:
-- has_nationality
-- "schema:nationality"
-- "dbo:nationality"
-- "wdt:P27"
+  - has_nationality
+  - schema:nationality
+  - dbo:nationality
+  - wdt:P27
+  - has nationality
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- nationality
-layout: 
-license: "CC BY-SA 4.0"
+  - nationality
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_nationality
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_nationality
 type: Predi_Relation
 ---

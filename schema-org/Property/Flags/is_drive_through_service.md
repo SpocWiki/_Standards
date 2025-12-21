@@ -4,21 +4,22 @@ aliases:
   - drive_through_service
   - hasDriveThroughService
   - is_drive_through_service
+  - is drive through service
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - drive_through_service
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_drive_through_service
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

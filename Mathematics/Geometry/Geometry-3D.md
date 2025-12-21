@@ -4,19 +4,20 @@ aliases:
   - 3-manifold
   - 3D space
   - 3-space
+  - Geometry-3D
 has_id_wikidata: Q34929
-studied_by: "[[_Standards/WikiData/WD~solid_geometry,207648]]"
-follows: "[[_Standards/WikiData/WD~two_dimensional_space,222032]]"
-part_of: "[[_Standards/WikiData/WD~four_dimensional_space,238125]]"
-followed_by: "[[_Standards/WikiData/WD~four_dimensional_space,238125]]"
+studied_by: '[[_Standards/WikiData/WD~solid_geometry,207648]]'
+follows: '[[_Standards/WikiData/WD~two_dimensional_space,222032]]'
+part_of: '[[_Standards/WikiData/WD~four_dimensional_space,238125]]'
+followed_by: '[[_Standards/WikiData/WD~four_dimensional_space,238125]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~space,472971]]"
-  - "[[_Standards/WikiData/WD~three_dimensional_object,35459920]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~space,472971]]'
+  - '[[_Standards/WikiData/WD~three_dimensional_object,35459920]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Euclidean_three_dimensional_space,123411317]]"
-  - "[[_Standards/WikiData/WD~3D,29027]]"
-has_use: "[[_Standards/WikiData/WD~space,107]]"
+  - '[[_Standards/WikiData/WD~Euclidean_three_dimensional_space,123411317]]'
+  - '[[_Standards/WikiData/WD~3D,29027]]'
+has_use: '[[_Standards/WikiData/WD~space,107]]'
 Commons_category: 3D
 short_name: 3D
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Coord%20planes%20color.svg

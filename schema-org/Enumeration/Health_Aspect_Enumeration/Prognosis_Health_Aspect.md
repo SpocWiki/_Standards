@@ -4,21 +4,23 @@ aliases:
   - prognosis_health_aspect
   - PrognosisHealthAspect
   - is_a_prognosis_health_aspect
+  - Prognosis_Health_Aspect
+  - Prognosis Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - prognosis_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_prognosis_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

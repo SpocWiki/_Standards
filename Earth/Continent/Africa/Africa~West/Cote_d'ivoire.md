@@ -1,17 +1,19 @@
 ---
+aliases:
+  - Ivory Coast
+  - Ivory_Coast
+  - Cote_d'ivoire
+  - Cote d'ivoire
+has_id_wikidata: Q1008
 location:
   - 6.85
   - -5.3
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q1008
 SpocWebEntityId: 26866
 isDeleted: false
 confidential: public
-aliases:
-  - Ivory Coast
-  - Ivory_Coast
 named_after:
   - "[[_Standards/WikiData/WD~coast,93352]]"
   - "[[_Standards/WikiData/WD~elephant_ivory,29838213]]"
@@ -351,7 +353,7 @@ urban_population:
   - 14829623
 U_S_National_Archives_Identifier: 10035718
 ITU_letter_code: CTI
-inception: "1960"
+inception: 1960
 has_time_started: 1960-06
 rural_population:
   - 12749807

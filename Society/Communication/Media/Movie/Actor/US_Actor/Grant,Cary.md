@@ -3,58 +3,59 @@ aliases:
   - Cary Grant
   - Cary_Grant
   - Archibald Alec Leach
+  - Grant,Cary
 has_id_wikidata: Q83410
-nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Bringing_Up_Baby,179743]]"
-  - "[[_Standards/WikiData/WD~North_by_Northwest,223139]]"
-  - "[[_Standards/WikiData/WD~To_Catch_a_Thief,331017]]"
-  - "[[_Standards/WikiData/WD~The_Philadelphia_Story,498822]]"
+  - '[[_Standards/WikiData/WD~Bringing_Up_Baby,179743]]'
+  - '[[_Standards/WikiData/WD~North_by_Northwest,223139]]'
+  - '[[_Standards/WikiData/WD~To_Catch_a_Thief,331017]]'
+  - '[[_Standards/WikiData/WD~The_Philadelphia_Story,498822]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Dyan_Cannon,236688]]"
-  - "[[_Standards/WikiData/WD~Barbara_Hutton,255620]]"
-  - "[[_Standards/WikiData/WD~Betsy_Drake,442549]]"
-  - "[[_Standards/WikiData/WD~Virginia_Cherrill,13435675]]"
-  - "[[_Standards/WikiData/WD~Barbara_Harris,75506702]]"
+  - '[[_Standards/WikiData/WD~Dyan_Cannon,236688]]'
+  - '[[_Standards/WikiData/WD~Barbara_Hutton,255620]]'
+  - '[[_Standards/WikiData/WD~Betsy_Drake,442549]]'
+  - '[[_Standards/WikiData/WD~Virginia_Cherrill,13435675]]'
+  - '[[_Standards/WikiData/WD~Barbara_Harris,75506702]]'
 occupation:
-  - "[[_Standards/WikiData/WD~comedian,245068]]"
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~circus_performer,17307272]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~businessperson,43845]]"
+  - '[[_Standards/WikiData/WD~comedian,245068]]'
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~circus_performer,17307272]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~businessperson,43845]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Academy_Awards,19020]]"
-child: "[[_Standards/WikiData/WD~Jennifer_Grant,926826]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+  - '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~Academy_Awards,19020]]'
+child: '[[_Standards/WikiData/WD~Jennifer_Grant,926826]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Bishop_Road_Primary_School,4917698]]"
-  - "[[_Standards/WikiData/WD~Fairfield_Grammar_School,5430282]]"
-  - "[[_Standards/WikiData/WD~Fairfield_High_School,5430287]]"
-member_of_political_party: "[[_Standards/WikiData/WD~California_Republican_Party,5020915]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-given_name: "[[_Standards/WikiData/WD~Cary,16275178]]"
-family_name: "[[_Standards/WikiData/WD~Grant,17864440]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-mother: "[[_Standards/WikiData/WD~Elsie_Kingdom,75447770]]"
-father: "[[_Standards/WikiData/WD~Elias_James_Leach,75447769]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-cause_of_death: "[[_Standards/WikiData/WD~stroke,12202]]"
-place_of_birth: "[[_Standards/WikiData/WD~Bristol,23154]]"
-place_of_death: "[[_Standards/WikiData/WD~Davenport,26887]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_locations: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Bishop_Road_Primary_School,4917698]]'
+  - '[[_Standards/WikiData/WD~Fairfield_Grammar_School,5430282]]'
+  - '[[_Standards/WikiData/WD~Fairfield_High_School,5430287]]'
+member_of_political_party: '[[_Standards/WikiData/WD~California_Republican_Party,5020915]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~Cary,16275178]]'
+family_name: '[[_Standards/WikiData/WD~Grant,17864440]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+mother: '[[_Standards/WikiData/WD~Elsie_Kingdom,75447770]]'
+father: '[[_Standards/WikiData/WD~Elias_James_Leach,75447769]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+cause_of_death: '[[_Standards/WikiData/WD~stroke,12202]]'
+place_of_birth: '[[_Standards/WikiData/WD~Bristol,23154]]'
+place_of_death: '[[_Standards/WikiData/WD~Davenport,26887]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_locations: '[[_Standards/WikiData/WD~United_States,30]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 height: 184
 Commons_gallery: Cary Grant
 Commons_category: Cary Grant
@@ -62,8 +63,8 @@ birth_name: Archibald Alec Leach
 date_of_birth: 1904-01-18T00:00:00Z
 name_in_native_language: Cary Grant
 ISNI:
-  - "0000000121487266"
-  - "0000000368647532"
+  - 0000000121487266
+  - 0000000368647532
 work_period_end_: 1966-01-01T00:00:00Z
 date_of_death: 1986-11-29T00:00:00Z
 work_period_start_: 1932-01-01T00:00:00Z
@@ -73,7 +74,7 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Unterschrift%20Car
 described_at_URL: http://www.digiporta.net/index.php?id=789105306
 official_website: http://www.legendarycarygrant.com/
 Plex_person_key: 5d7768254de0ee001fcc84ba
-P8189: "987007427159205171"
+P8189: 987007427159205171
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/GRANT_KERI.html
 ---
 

@@ -9,44 +9,44 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - waterfall
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_waterfall Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_waterfall Class
 type: Type
 has_part_s_:
-  - "[[_Standards/WikiData/WD~cliff,107679]]"
-  - "[[_Standards/WikiData/WD~watercourse,355304]]"
-  - "[[_Standards/WikiData/WD~Q46867411,46867411]]"
+  - '[[_Standards/WikiData/WD~cliff,107679]]'
+  - '[[_Standards/WikiData/WD~watercourse,355304]]'
+  - '[[_Standards/WikiData/WD~Q46867411,46867411]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~height,208826]]"
-  - "[[_Standards/WikiData/WD~volume_flow_rate,1134348]]"
-  - "[[_Standards/WikiData/WD~fall,11620540]]"
+  - '[[_Standards/WikiData/WD~height,208826]]'
+  - '[[_Standards/WikiData/WD~volume_flow_rate,1134348]]'
+  - '[[_Standards/WikiData/WD~fall,11620540]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~landform,271669]]"
-  - "[[_Standards/WikiData/WD~natural_geographic_object,35145263]]"
-  - "[[_Standards/WikiData/WD~body_of_water,15324]]"
-part_of: "[[_Standards/WikiData/WD~watercourse,355304]]"
+  - '[[_Standards/WikiData/WD~landform,271669]]'
+  - '[[_Standards/WikiData/WD~natural_geographic_object,35145263]]'
+  - '[[_Standards/WikiData/WD~body_of_water,15324]]'
+part_of: '[[_Standards/WikiData/WD~watercourse,355304]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-has_list: "[[_Standards/WikiData/WD~list_of_waterfalls,936787]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_waterfall,6064869]]"
-different_from: "[[_Standards/WikiData/WD~Cascata,21443562]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+has_list: '[[_Standards/WikiData/WD~list_of_waterfalls,936787]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_waterfall,6064869]]'
+different_from: '[[_Standards/WikiData/WD~Cascata,21443562]]'
 properties_for_this_type:
   - part of
   - elevation above sea level
@@ -54,8 +54,8 @@ properties_for_this_type:
   - discharge
   - World Waterfall Database ID
   - located in or next to body of water
-manifestation_of: "[[_Standards/WikiData/WD~geomorphology,52109]]"
-OmegaWiki_Defined_Meaning: "4079"
+manifestation_of: '[[_Standards/WikiData/WD~geomorphology,52109]]'
+OmegaWiki_Defined_Meaning: 4079
 Iconclass_notation: 25H216
 Wolfram_Language_entity_type: Waterfall
 Commons_gallery: Waterfall
@@ -76,7 +76,7 @@ GeoNames_feature_code:
   - H.FLLSX
 Commons_category: Waterfalls
 OpenStreetMap_tag: waterway=waterfall
-Dewey_Decimal_Classification: "551.484"
+Dewey_Decimal_Classification: 551.484
 image: http://commons.wikimedia.org/wiki/Special:FilePath/-%20panoramio%20%28461%29.jpg
 ---
 

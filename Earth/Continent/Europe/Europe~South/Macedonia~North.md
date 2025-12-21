@@ -1,13 +1,14 @@
 ---
 aliases:
   - North_Macedonia
+  - Macedonia~North
+has_id_wikidata: Q221
 location:
   - 41.98
   - 21.43
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q221
 SpocWebEntityId: 26961
 isDeleted: false
 confidential: public
@@ -402,7 +403,7 @@ ISO_3166_1_alpha_3_code: MKD
 ITU_letter_code: MKD
 Commons_category: North Macedonia
 Commons_gallery: Северна Македонија
-inception: "1991"
+inception: 1991
 has_time_started: 1991-06
 geoshape: http://commons.wikimedia.org/data/main/Data:Macedonia.map
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20North%20Macedonia.svg

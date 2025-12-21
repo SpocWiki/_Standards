@@ -1,35 +1,37 @@
 ---
-excludes: 
+aliases:
+  - FileClass~HealthPlanFormulary
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: GiPryd
-  name: HealthPlanCostSharing
-  options: {}
-  type: Boolean
-  path: ''
-- id: q8Hk4X
-  name: HealthPlanDrugTier
-  options: {}
-  type: Input
-  path: ''
-- id: lolzag
-  name: OffersPrescriptionByMail
-  options: {}
-  type: Boolean
-  path: ''
+  - id: GiPryd
+    name: HealthPlanCostSharing
+    options: {}
+    type: Boolean
+    path: ''
+  - id: q8Hk4X
+    name: HealthPlanDrugTier
+    options: {}
+    type: Input
+    path: ''
+  - id: lolzag
+    name: OffersPrescriptionByMail
+    options: {}
+    type: Boolean
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/HealthPlanFormulary
-- class/Thing/Intangible/HealthPlanFormulary
-- is_a_/HealthPlanFormulary
-- schema-org/HealthPlanFormulary
+  - class/HealthPlanFormulary
+  - class/Thing/Intangible/HealthPlanFormulary
+  - is_a_/HealthPlanFormulary
+  - schema-org/HealthPlanFormulary
 tags:
-- class/FileClass
-- class/HealthPlanFormulary
-- is_a_/HealthPlanFormulary
-- class/Thing/Intangible/HealthPlanFormulary
+  - class/FileClass
+  - class/HealthPlanFormulary
+  - is_a_/HealthPlanFormulary
+  - class/Thing/Intangible/HealthPlanFormulary
 version: 2.0
 ---
 

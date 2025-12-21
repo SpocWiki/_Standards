@@ -1,52 +1,53 @@
 ---
 aliases:
   - Michel de Nostredame
+  - Nostradamus
 has_id_wikidata: Q39978
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_France,70972]]"
+country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_France,70972]]'
 occupation:
-  - "[[_Standards/WikiData/WD~pharmacist,105186]]"
-  - "[[_Standards/WikiData/WD~astrologer,155647]]"
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~physician_writer,551835]]"
-  - "[[_Standards/WikiData/WD~astronomer,11063]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~physician,39631]]"
-place_of_birth: "[[_Standards/WikiData/WD~Saint_Rémy_de_Provence,221507]]"
-place_of_death: "[[_Standards/WikiData/WD~Salon_de_Provence,232567]]"
-cause_of_death: "[[_Standards/WikiData/WD~cardiovascular_disease,389735]]"
+  - '[[_Standards/WikiData/WD~pharmacist,105186]]'
+  - '[[_Standards/WikiData/WD~astrologer,155647]]'
+  - '[[_Standards/WikiData/WD~mathematician,170790]]'
+  - '[[_Standards/WikiData/WD~physician_writer,551835]]'
+  - '[[_Standards/WikiData/WD~astronomer,11063]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~physician,39631]]'
+place_of_birth: '[[_Standards/WikiData/WD~Saint_Rémy_de_Provence,221507]]'
+place_of_death: '[[_Standards/WikiData/WD~Salon_de_Provence,232567]]'
+cause_of_death: '[[_Standards/WikiData/WD~cardiovascular_disease,389735]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-different_from: "[[_Standards/WikiData/WD~Nostradamus,667000]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+different_from: '[[_Standards/WikiData/WD~Nostradamus,667000]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Montpellier,776223]]"
-  - "[[_Standards/WikiData/WD~Avignon_University,2033119]]"
-sibling: "[[_Standards/WikiData/WD~Jean_de_Nostredame,1218411]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Museon_Omniversum,1954331]]"
-child: "[[_Standards/WikiData/WD~César_de_Notre_Dame,3010514]]"
-place_of_burial: "[[_Standards/WikiData/WD~Collégiale_Saint_Laurent_de_Salon_de_Provence,3582315]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-father: "[[_Standards/WikiData/WD~Jaume_de_Nostredame,11310901]]"
-notable_work: "[[_Standards/WikiData/WD~Prognostication,11514952]]"
-given_name: "[[_Standards/WikiData/WD~Michel,14626626]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q18995417,18995417]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+  - '[[_Standards/WikiData/WD~University_of_Montpellier,776223]]'
+  - '[[_Standards/WikiData/WD~Avignon_University,2033119]]'
+sibling: '[[_Standards/WikiData/WD~Jean_de_Nostredame,1218411]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Museon_Omniversum,1954331]]'
+child: '[[_Standards/WikiData/WD~César_de_Notre_Dame,3010514]]'
+place_of_burial: '[[_Standards/WikiData/WD~Collégiale_Saint_Laurent_de_Salon_de_Provence,3582315]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+father: '[[_Standards/WikiData/WD~Jaume_de_Nostredame,11310901]]'
+notable_work: '[[_Standards/WikiData/WD~Prognostication,11514952]]'
+given_name: '[[_Standards/WikiData/WD~Michel,14626626]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q18995417,18995417]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Anne_Ponsarde,108675460]]"
+  - '[[_Standards/WikiData/WD~Anne_Ponsarde,108675460]]'
   - http://www.wikidata.org/.well-known/genid/83870cc11e28c96e6f7a746c084981c3
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikiproject_Oorlogsbronnen,118404701]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikiproject_Oorlogsbronnen,118404701]]'
 date_of_death: 1566-07-12T00:00:00Z
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-writing_language: "[[_Standards/WikiData/WD~French,150]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+writing_language: '[[_Standards/WikiData/WD~French,150]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 Commons_category: Michel Nostradamus
 Provenio_UUID: 33fe05ee-8f14-4814-ba78-779addc3e62b
 Libris_URI: pm134g573gmv22t
@@ -61,8 +62,8 @@ described_at_URL:
   - http://www.digiporta.net/index.php?id=108230114
   - http://www.digiporta.net/index.php?id=256445525
   - http://www.digiporta.net/index.php?id=695968317
-ISNI: "0000000083395220"
-RIA_Novosti_reference: "42486271"
+ISNI: 0000000083395220
+RIA_Novosti_reference: 42486271
 Krugosvet_article_archived_: istoriya/NOSTRADAMUS.html
 Commons_Creator_page: Michel de Nostredame
 Commons_gallery: Michel de Nostredame

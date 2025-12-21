@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CableOrSatelliteService
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CableOrSatelliteService
-- class/Thing/Intangible/Service/CableOrSatelliteService
-- is_a_/CableOrSatelliteService
-- schema-org/CableOrSatelliteService
+  - class/CableOrSatelliteService
+  - class/Thing/Intangible/Service/CableOrSatelliteService
+  - is_a_/CableOrSatelliteService
+  - schema-org/CableOrSatelliteService
 tags:
-- class/FileClass
-- class/CableOrSatelliteService
-- is_a_/CableOrSatelliteService
-- class/Thing/Intangible/Service/CableOrSatelliteService
+  - class/FileClass
+  - class/CableOrSatelliteService
+  - is_a_/CableOrSatelliteService
+  - class/Thing/Intangible/Service/CableOrSatelliteService
 version: 2.0
 ---
 

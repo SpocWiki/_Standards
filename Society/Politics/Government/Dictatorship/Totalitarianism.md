@@ -1,27 +1,28 @@
 ---
 aliases:
   - Totalitarismus
+  - Totalitarianism
 has_id_wikidata: Q128135
 different_from:
-  - "[[_Standards/WikiData/WD~totalism,9089200]]"
-  - "[[_Standards/WikiData/WD~Q125656942,125656942]]"
+  - '[[_Standards/WikiData/WD~totalism,9089200]]'
+  - '[[_Standards/WikiData/WD~Q125656942,125656942]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~political_ideology,12909644]]"
-  - "[[_Standards/WikiData/WD~political_concept,33104069]]"
-  - "[[_Standards/WikiData/WD~political_system,28108]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-opposite_of: "[[_Standards/WikiData/WD~anti_totalitarianism,99633672]]"
-has_characteristic: "[[_Standards/WikiData/WD~Forced_merger,130312329]]"
-subclass_of: "[[_Standards/WikiData/WD~dictatorship,317]]"
-OmegaWiki_Defined_Meaning: "352963"
-U_S_National_Archives_Identifier: "10644609"
+  - '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+  - '[[_Standards/WikiData/WD~political_concept,33104069]]'
+  - '[[_Standards/WikiData/WD~political_system,28108]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+opposite_of: '[[_Standards/WikiData/WD~anti_totalitarianism,99633672]]'
+has_characteristic: '[[_Standards/WikiData/WD~Forced_merger,130312329]]'
+subclass_of: '[[_Standards/WikiData/WD~dictatorship,317]]'
+OmegaWiki_Defined_Meaning: 352963
+U_S_National_Archives_Identifier: 10644609
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20102-04062A%2C%20N%C3%BCrnberg%2C%20Reichsparteitag%2C%20SA-%20und%20SS-Appell.jpg
 described_at_URL: https://wikispooks.com/wiki/Totalitarianism
 Library_of_Congress_Classification: JC480
 IMDb_keyword: totalitarianism
 Commons_category: Totalitarianism
 Gujarati_Vishwakosh_entry: સર્વસત્તાવાદ
-Dewey_Decimal_Classification: "320.53"
+Dewey_Decimal_Classification: 320.53
 ---
 
 # [[Totalitarianism]] 

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~LifestyleModification
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/LifestyleModification
-- class/Thing/MedicalEntity/LifestyleModification
-- is_a_/LifestyleModification
-- schema-org/LifestyleModification
+  - class/LifestyleModification
+  - class/Thing/MedicalEntity/LifestyleModification
+  - is_a_/LifestyleModification
+  - schema-org/LifestyleModification
 tags:
-- class/FileClass
-- class/LifestyleModification
-- is_a_/LifestyleModification
-- class/Thing/MedicalEntity/LifestyleModification
+  - class/FileClass
+  - class/LifestyleModification
+  - is_a_/LifestyleModification
+  - class/Thing/MedicalEntity/LifestyleModification
 version: 2.0
 ---
 

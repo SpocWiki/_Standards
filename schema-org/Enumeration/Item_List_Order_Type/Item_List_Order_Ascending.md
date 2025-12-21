@@ -4,21 +4,23 @@ aliases:
   - item_list_order_ascending
   - ItemListOrderAscending
   - is_an_item_list_order_ascending
+  - Item_List_Order_Ascending
+  - Item List Order Ascending
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: ItemListOrderType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - item_list_order_ascending
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_item_list_order_ascending Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

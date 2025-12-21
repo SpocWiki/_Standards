@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Saturn(Planet)
+has_id_wikidata: Q193
 absolute_magnitude: 28
 albedo:
   - 0.47
@@ -140,7 +143,6 @@ distance_from_Earth:
   - 1660000000
   - 1195000000
 flattening: 0.09796
-has_id_wikidata: Q193
 has_part_s_:
   - "[[_Standards/WikiData/WD~atmosphere_of_Saturn,303397]]"
   - "[[_Standards/WikiData/WD~magnetosphere_of_Saturn,2334004]]"
@@ -210,7 +212,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Saturn,30589070]]"
 Wolfram_Language_entity_code: Entity["Planet", "Saturn"]
 ---
 
-# [[Saturn(Planet)]]
+# [[Saturn(Planet)]] 🪐 
 
 #is_/same_as :: [[../../WikiData/WD~Saturn,193]] 
 #is_/different_from :: [[_Standards/WikiData/WD~Saturn,134388]] 

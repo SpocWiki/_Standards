@@ -1,9 +1,11 @@
 ---
 aliases:
-- cassiopeium
-- cassiopium
-- lutecium
-- lutetium
+  - cassiopeium
+  - cassiopium
+  - lutecium
+  - lutetium
+  - Lutetium
+has_id_wikidata: Q1857
 atomic_number: 71
 canonical_SMILES: '[Lu]'
 CAS_Registry_Number: 7439-94-3
@@ -11,40 +13,39 @@ chemical_formula: Lu
 Commons_category: Lutetium
 Commons_gallery: Lutetium
 Common_Procurement_Vocabulary_code:
-- 14752000-7
-- 14752000
+  - 14752000-7
+  - 14752000
 CPV_Supplementary_code: AA24
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Carl_Auer_von_Welsbach,89390]]'
-- '[[_Standards/WikiData/WD~Georges_Urbain,560404]]'
+  - '[[_Standards/WikiData/WD~Carl_Auer_von_Welsbach,89390]]'
+  - '[[_Standards/WikiData/WD~Georges_Urbain,560404]]'
 DSSTOX_compound_identifier: DTXCID9027730
 EC_number: 231-103-0
 electronegativity: 1
 element_symbol: Lu
 Gmelin_number: 16202
-has_id_wikidata: Q1857
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lutetium%20sublimed%20dendritic%20and%201cm3%20cube.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Lutetium%20sublimed%20dendritic%20and%201cm3%20cube.jpg
 InChI: InChI=1S/Lu
 InChIKey: OHSVLFRHMCKCQY-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-- 0.86
-- 0.97
+  - 0.86
+  - 0.97
 mass: 174.96669
 MeSH_tree_code:
-- D01.268.558.362.562
-- D01.268.956.311
-- D01.552.550.399.562
+  - D01.268.558.362.562
+  - D01.268.956.311
+  - D01.552.550.399.562
 named_after: '[[_Standards/WikiData/WD~Lutetia,270273]]'
 OmegaWiki_Defined_Meaning: 161929
 oxidation_state: 3
 part_of:
-- '[[_Standards/WikiData/WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+  - '[[_Standards/WikiData/WD~period_6,239813]]'
+  - '[[_Standards/WikiData/WD~lanthanide,19569]]'
 PubChem_CID: 23929
 SpocWebEntityId: 21967
 time_of_discovery_or_invention: 1906

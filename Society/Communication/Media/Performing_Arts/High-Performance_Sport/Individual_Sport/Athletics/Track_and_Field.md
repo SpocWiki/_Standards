@@ -1,6 +1,7 @@
 ---
 aliases:
   - Track and Field
+  - Track_and_Field
 has_id_wikidata: Q3312129
 ---
 

@@ -2,21 +2,23 @@
 aliases:
   - Egyptian mythology
   - Ägyptische Mythologie
+  - Egyptian_Mythology
+  - Egyptian Mythology
 has_id_wikidata: Q205740
-studied_by: "[[_Standards/WikiData/WD~Egyptology,145903]]"
+studied_by: '[[_Standards/WikiData/WD~Egyptology,145903]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Egyptology,145903]]"
-  - "[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131]]"
+  - '[[_Standards/WikiData/WD~Egyptology,145903]]'
+  - '[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Nekhbet,145915]]"
-  - "[[_Standards/WikiData/WD~Imentet,262099]]"
-  - "[[_Standards/WikiData/WD~Pakhet,918104]]"
-  - "[[_Standards/WikiData/WD~Medjed,25203206]]"
-described_by_source: "[[_Standards/WikiData/WD~The_Gods_of_the_Egyptians,110765335]]"
+  - '[[_Standards/WikiData/WD~Nekhbet,145915]]'
+  - '[[_Standards/WikiData/WD~Imentet,262099]]'
+  - '[[_Standards/WikiData/WD~Pakhet,918104]]'
+  - '[[_Standards/WikiData/WD~Medjed,25203206]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Gods_of_the_Egyptians,110765335]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~mythology,9134]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
-instance_of: "[[_Standards/WikiData/WD~mythology,9134]]"
+  - '[[_Standards/WikiData/WD~mythology,9134]]'
+  - '[[_Standards/WikiData/WD~religion,9174]]'
+instance_of: '[[_Standards/WikiData/WD~mythology,9134]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Sphinx%20of%20Giza%20May%202015.JPG
 Commons_category: Egyptian mythology
 ---

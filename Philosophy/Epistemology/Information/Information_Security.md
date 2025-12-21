@@ -2,27 +2,29 @@
 aliases:
   - Information security
   - infosec
+  - Information_Security
+  - Information Security
 has_id_wikidata: Q189900
 has_characteristic:
-  - "[[_Standards/WikiData/WD~data_integrity,461671]]"
-  - "[[_Standards/WikiData/WD~non_repudiation,1327773]]"
-  - "[[_Standards/WikiData/WD~confidentiality,2476929]]"
-  - "[[_Standards/WikiData/WD~security_pattern,7444981]]"
-  - "[[_Standards/WikiData/WD~authenticity,21074933]]"
-  - "[[_Standards/WikiData/WD~data_availability,22907653]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Basic_Computer_Security,1097062]]"
+  - '[[_Standards/WikiData/WD~data_integrity,461671]]'
+  - '[[_Standards/WikiData/WD~non_repudiation,1327773]]'
+  - '[[_Standards/WikiData/WD~confidentiality,2476929]]'
+  - '[[_Standards/WikiData/WD~security_pattern,7444981]]'
+  - '[[_Standards/WikiData/WD~authenticity,21074933]]'
+  - '[[_Standards/WikiData/WD~data_availability,22907653]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Basic_Computer_Security,1097062]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~security,2526135]]"
-  - "[[_Standards/WikiData/WD~information_technology,11661]]"
-facet_of: "[[_Standards/WikiData/WD~security_management,3954104]]"
+  - '[[_Standards/WikiData/WD~security,2526135]]'
+  - '[[_Standards/WikiData/WD~information_technology,11661]]'
+facet_of: '[[_Standards/WikiData/WD~security_management,3954104]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~type_of_security,96264607]]"
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~type_of_security,96264607]]'
 part_of:
-  - "[[_Standards/WikiData/WD~risk_management_information_systems,7336283]]"
-  - "[[_Standards/WikiData/WD~IT_system_security,9383853]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Information_security,7646356]]"
-OmegaWiki_Defined_Meaning: "1098510"
+  - '[[_Standards/WikiData/WD~risk_management_information_systems,7336283]]'
+  - '[[_Standards/WikiData/WD~IT_system_security,9383853]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Information_security,7646356]]'
+OmegaWiki_Defined_Meaning: 1098510
 Stack_Exchange_site_URL: https://security.stackexchange.com/
 described_at_URL: http://servicios.infoleg.gob.ar/infolegInternet/anexos/240000-244999/242859/norma.htm
 Mastodon_instance_URL:

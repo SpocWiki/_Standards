@@ -1,6 +1,7 @@
 ---
 aliases:
-- GUID
+  - GUID
+  - Uuid
 ---
 
 # [[UUID]] 

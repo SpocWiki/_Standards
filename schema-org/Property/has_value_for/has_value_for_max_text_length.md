@@ -4,21 +4,22 @@ aliases:
   - value-max-text-length
   - valueMaxTextLength
   - has_value_for_max_text_length
+  - has value for max text length
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - value-max-text-length
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_value-max-text-length
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

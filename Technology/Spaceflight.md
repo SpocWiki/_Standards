@@ -3,31 +3,32 @@ aliases:
   - space travel
   - Space_Exploration
   - Space exploration
+  - Spaceflight
 has_id_wikidata: Q180046
-has_part_s_: "[[_Standards/WikiData/WD~planetary_science,104499]]"
-instance_of: "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-studied_by: "[[_Standards/WikiData/WD~space_sciences,1195766]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_space_exploration,2578025]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_space_exploration,2892152]]"
+has_part_s_: '[[_Standards/WikiData/WD~planetary_science,104499]]'
+instance_of: '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+studied_by: '[[_Standards/WikiData/WD~space_sciences,1195766]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_space_exploration,2578025]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_space_exploration,2892152]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~exploration,6502154]]"
-  - "[[_Standards/WikiData/WD~space_research,15706425]]"
+  - '[[_Standards/WikiData/WD~exploration,6502154]]'
+  - '[[_Standards/WikiData/WD~space_research,15706425]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Astronomy,8493596]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Spaceflight,8502972]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Russia,10803886]]"
-  - "[[_Standards/WikiData/WD~WikiProject_United_States,10816993]]"
-  - "[[_Standards/WikiData/WD~WikiProject_History_of_Science,15884861]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_Enzyklopädie_(19_ed.),17377889]]"
-part_of: "[[_Standards/WikiData/WD~human_expansyyiion_in_space,112999614]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Astronomy,8493596]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Spaceflight,8502972]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Russia,10803886]]'
+  - '[[_Standards/WikiData/WD~WikiProject_United_States,10816993]]'
+  - '[[_Standards/WikiData/WD~WikiProject_History_of_Science,15884861]]'
+described_by_source: '[[_Standards/WikiData/WD~Brockhaus_Enzyklopädie_(19_ed.),17377889]]'
+part_of: '[[_Standards/WikiData/WD~human_expansyyiion_in_space,112999614]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~outer_space,4169]]"
-  - "[[_Standards/WikiData/WD~astronomical_object,6999]]"
+  - '[[_Standards/WikiData/WD~outer_space,4169]]'
+  - '[[_Standards/WikiData/WD~astronomical_object,6999]]'
 Dewey_Decimal_Classification:
-  - "520"
-  - "500.5"
-  - "629.435"
-OmegaWiki_Defined_Meaning: "5211"
+  - 520
+  - 500.5
+  - 629.435
+OmegaWiki_Defined_Meaning: 5211
 BISAC_Subject_Heading: SCI098020
 subreddit:
   - space

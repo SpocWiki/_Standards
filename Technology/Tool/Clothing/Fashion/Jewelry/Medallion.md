@@ -2,6 +2,7 @@
 aliases:
   - Medaille
   - Medal
+  - Medallion
 has_id_wikidata: Q131647
 described_by_source:
   - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -30,11 +31,11 @@ topic_has_template:
   - "[[_Standards/WikiData/WD~Template_Medal,12857424]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~decoration,11796413]]"
 instance_of: "[[_Standards/WikiData/WD~type_of_award,107467117]]"
-Nomenclature_for_Museum_Cataloging: "13940"
+Nomenclature_for_Museum_Cataloging: 13940
 U_S_National_Archives_Identifier:
-  - "10640364"
-  - "10632203"
-OmegaWiki_Defined_Meaning: "1121077"
+  - 10640364
+  - 10632203
+OmegaWiki_Defined_Meaning: 1121077
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Medals.jpg
 Iconclass_notation: 48C26
 Commons_category: Medals
@@ -42,7 +43,7 @@ IMDb_keyword: medallion
 Unicode_character: 🏅
 ---
 
-# [[Medallion]] 
+# [[Medallion]] 🏅 
 
 #is_/same_as :: [[WD~Medallion,131647]] 
 

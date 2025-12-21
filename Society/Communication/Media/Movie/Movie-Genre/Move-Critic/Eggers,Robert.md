@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Robert Eggers"
-- "Robert Houston Eggers"
+  - Robert Eggers
+  - Robert Houston Eggers
+  - Eggers,Robert
 ---
 
 ## #has_/text_of_/abstract 

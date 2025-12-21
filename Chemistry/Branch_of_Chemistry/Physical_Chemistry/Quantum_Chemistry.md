@@ -2,17 +2,19 @@
 aliases:
   - Quantum chemistry
   - molecular quantum mechanics
+  - Quantum_Chemistry
+  - Quantum Chemistry
 has_id_wikidata: Q188403
 instance_of:
-  - "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
-  - "[[_Standards/WikiData/WD~science,336]]"
-  - "[[_Standards/WikiData/WD~quantum,46344]]"
-practiced_by: "[[_Standards/WikiData/WD~quantum_chemist,66738131]]"
+  - '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
+  - '[[_Standards/WikiData/WD~science,336]]'
+  - '[[_Standards/WikiData/WD~quantum,46344]]'
+practiced_by: '[[_Standards/WikiData/WD~quantum_chemist,66738131]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~theoretical_and_computational_chemistry,110245486]]"
-  - "[[_Standards/WikiData/WD~physical_chemistry,11372]]"
-part_of: "[[_Standards/WikiData/WD~chemistry,2329]]"
-OmegaWiki_Defined_Meaning: "795559"
+  - '[[_Standards/WikiData/WD~theoretical_and_computational_chemistry,110245486]]'
+  - '[[_Standards/WikiData/WD~physical_chemistry,11372]]'
+part_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
+OmegaWiki_Defined_Meaning: 795559
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Butadien4.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-Kimika%20kuantiko.wav
 Stack_Exchange_tag:

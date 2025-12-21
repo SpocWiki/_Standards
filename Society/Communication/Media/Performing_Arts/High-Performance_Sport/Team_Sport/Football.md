@@ -1,7 +1,7 @@
 ---
 aliases:
-- Football
-- soccer
+  - Football
+  - soccer
 has_id_wikidata: Q2736
 ---
 

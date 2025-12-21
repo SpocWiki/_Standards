@@ -4,20 +4,22 @@ aliases:
   - comic_story
   - ComicStory
   - is_a_comic_story
+  - Comic_Story
+  - Comic Story
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - comic_story
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_comic_story Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

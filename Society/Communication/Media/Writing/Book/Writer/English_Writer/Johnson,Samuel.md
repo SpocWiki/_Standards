@@ -3,76 +3,77 @@ aliases:
   - Samuel_Johnson
   - Samuel Johnson
   - Johnson
+  - Johnson,Samuel
 has_id_wikidata: Q183266
 educated_at:
-  - "[[_Standards/WikiData/WD~Pembroke_College,82606]]"
-  - "[[_Standards/WikiData/WD~King_Edward_VI_College_Stourbridge,6411521]]"
-  - "[[_Standards/WikiData/WD~King_Edward_VI_School,6411536]]"
+  - '[[_Standards/WikiData/WD~Pembroke_College,82606]]'
+  - '[[_Standards/WikiData/WD~King_Edward_VI_College_Stourbridge,6411521]]'
+  - '[[_Standards/WikiData/WD~King_Edward_VI_School,6411536]]'
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~translator,333634]]"
-  - "[[_Standards/WikiData/WD~biographer,864380]]"
-  - "[[_Standards/WikiData/WD~bookseller,998550]]"
-  - "[[_Standards/WikiData/WD~literary_critic,4263842]]"
-  - "[[_Standards/WikiData/WD~critic,6430706]]"
-  - "[[_Standards/WikiData/WD~essayist,11774202]]"
-  - "[[_Standards/WikiData/WD~prose_writer,12144794]]"
-  - "[[_Standards/WikiData/WD~literary_historian,13570226]]"
-  - "[[_Standards/WikiData/WD~linguist,14467526]]"
-  - "[[_Standards/WikiData/WD~lexicographer,14972848]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~teacher,37226]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~translator,333634]]'
+  - '[[_Standards/WikiData/WD~biographer,864380]]'
+  - '[[_Standards/WikiData/WD~bookseller,998550]]'
+  - '[[_Standards/WikiData/WD~literary_critic,4263842]]'
+  - '[[_Standards/WikiData/WD~critic,6430706]]'
+  - '[[_Standards/WikiData/WD~essayist,11774202]]'
+  - '[[_Standards/WikiData/WD~prose_writer,12144794]]'
+  - '[[_Standards/WikiData/WD~literary_historian,13570226]]'
+  - '[[_Standards/WikiData/WD~linguist,14467526]]'
+  - '[[_Standards/WikiData/WD~lexicographer,14972848]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~teacher,37226]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
 medical_condition:
-  - "[[_Standards/WikiData/WD~myopia,168403]]"
-  - "[[_Standards/WikiData/WD~Tourette_syndrome,191779]]"
-place_of_birth: "[[_Standards/WikiData/WD~Lichfield,207371]]"
-student: "[[_Standards/WikiData/WD~David_Garrick,222390]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Tories,499956]]"
+  - '[[_Standards/WikiData/WD~myopia,168403]]'
+  - '[[_Standards/WikiData/WD~Tourette_syndrome,191779]]'
+place_of_birth: '[[_Standards/WikiData/WD~Lichfield,207371]]'
+student: '[[_Standards/WikiData/WD~David_Garrick,222390]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Tories,499956]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Q19036877,19036877]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Q19036877,19036877]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]"
-given_name: "[[_Standards/WikiData/WD~Samuel,629347]]"
-family_name: "[[_Standards/WikiData/WD~Johnson,1158485]]"
-notable_work: "[[_Standards/WikiData/WD~A_Dictionary_of_the_English_Language,1210346]]"
-owner_of: "[[_Standards/WikiData/WD~Hodge,1622688]]"
-spouse: "[[_Standards/WikiData/WD~Elizabeth_Porter,3051259]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+given_name: '[[_Standards/WikiData/WD~Samuel,629347]]'
+family_name: '[[_Standards/WikiData/WD~Johnson,1158485]]'
+notable_work: '[[_Standards/WikiData/WD~A_Dictionary_of_the_English_Language,1210346]]'
+owner_of: '[[_Standards/WikiData/WD~Hodge,1622688]]'
+spouse: '[[_Standards/WikiData/WD~Elizabeth_Porter,3051259]]'
 academic_degree:
-  - "[[_Standards/WikiData/WD~Master_of_Arts,3297864]]"
-  - "[[_Standards/WikiData/WD~Legum_Doctor,6518699]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Anglicanism,6423963]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-student_of: "[[_Standards/WikiData/WD~William_Adams,8004146]]"
-cause_of_death: "[[_Standards/WikiData/WD~surgical_complications,14467705]]"
-mother: "[[_Standards/WikiData/WD~Sarah_Ford,20897792]]"
-father: "[[_Standards/WikiData/WD~Michael_Johnson,20897811]]"
+  - '[[_Standards/WikiData/WD~Master_of_Arts,3297864]]'
+  - '[[_Standards/WikiData/WD~Legum_Doctor,6518699]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Anglicanism,6423963]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+student_of: '[[_Standards/WikiData/WD~William_Adams,8004146]]'
+cause_of_death: '[[_Standards/WikiData/WD~surgical_complications,14467705]]'
+mother: '[[_Standards/WikiData/WD~Sarah_Ford,20897792]]'
+father: '[[_Standards/WikiData/WD~Michael_Johnson,20897811]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Doctor_Samuel_Johnson,28541460]]"
-  - "[[_Standards/WikiData/WD~Dr_Samuel_Johnson_(1709_1784),52201453]]"
-  - "[[_Standards/WikiData/WD~Samuel_Johnson_(1709_1784),119801175]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+  - '[[_Standards/WikiData/WD~Doctor_Samuel_Johnson,28541460]]'
+  - '[[_Standards/WikiData/WD~Dr_Samuel_Johnson_(1709_1784),52201453]]'
+  - '[[_Standards/WikiData/WD~Samuel_Johnson_(1709_1784),119801175]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_birth: 1709-09-18T00:00:00Z
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_burial: "[[_Standards/WikiData/WD~Westminster_Abbey,5933]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~London,84]]"
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+place_of_burial: '[[_Standards/WikiData/WD~Westminster_Abbey,5933]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~London,84]]'
 Commons_gallery: Samuel Johnson
 Commons_category: Samuel Johnson
 Commons_Creator_page: Samuel Johnson
@@ -80,7 +81,7 @@ Royal_Academy_new_identifier: samuel-johnson
 name_in_native_language: Samuel Johnson
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Johnson%20by%20Joshua%20Reynolds.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Johnson%20signature.svg
-ISNI: "0000000121193137"
+ISNI: 0000000121193137
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/DZHONSON_SEMYUEL.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/63776
 Google_Doodle: samuel-johnsons-308th-birthday

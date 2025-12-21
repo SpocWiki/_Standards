@@ -1,9 +1,9 @@
 ---
 aliases:
-- Pratchett,Terry
-- "Terry Pratchett"
-- Terry_Pratchett
-- "Terence David John Pratchett"
+  - Pratchett,Terry
+  - Terry Pratchett
+  - Terry_Pratchett
+  - Terence David John Pratchett
 ---
 
 #has_/time_/started ::  1948-04-28 

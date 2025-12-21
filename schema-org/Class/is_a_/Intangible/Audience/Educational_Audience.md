@@ -4,20 +4,22 @@ aliases:
   - educational_audience
   - EducationalAudience
   - is_an_educational_audience
+  - Educational_Audience
+  - Educational Audience
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - educational_audience
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_educational_audience Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

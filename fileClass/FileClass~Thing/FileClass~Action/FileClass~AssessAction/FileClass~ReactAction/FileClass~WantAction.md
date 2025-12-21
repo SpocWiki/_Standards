@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~WantAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/WantAction
-- class/Thing/Action/AssessAction/ReactAction/WantAction
-- is_a_/WantAction
-- schema-org/WantAction
+  - class/WantAction
+  - class/Thing/Action/AssessAction/ReactAction/WantAction
+  - is_a_/WantAction
+  - schema-org/WantAction
 tags:
-- class/FileClass
-- class/WantAction
-- is_a_/WantAction
-- class/Thing/Action/AssessAction/ReactAction/WantAction
+  - class/FileClass
+  - class/WantAction
+  - is_a_/WantAction
+  - class/Thing/Action/AssessAction/ReactAction/WantAction
 version: 2.0
 ---
 

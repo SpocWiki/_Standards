@@ -1,16 +1,17 @@
 ---
 aliases:
   - Oxid
+  - Oxide
 has_id_wikidata: Q50690
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-subclass_of: "[[_Standards/WikiData/WD~oxygen_compound,5156940]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Oxides,16738651]]"
-different_from: "[[_Standards/WikiData/WD~oxide(2_),27110027]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
-OmegaWiki_Defined_Meaning: "2696"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~oxygen_compound,5156940]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Oxides,16738651]]'
+different_from: '[[_Standards/WikiData/WD~oxide(2_),27110027]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+OmegaWiki_Defined_Meaning: 2696
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Water%20drop%20001.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Rareearthoxides.jpg

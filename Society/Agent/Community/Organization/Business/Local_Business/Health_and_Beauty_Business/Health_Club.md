@@ -4,20 +4,22 @@ aliases:
   - health_club
   - HealthClub
   - is_a_health_club
+  - Health_Club
+  - Health Club
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - health_club
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_health_club Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

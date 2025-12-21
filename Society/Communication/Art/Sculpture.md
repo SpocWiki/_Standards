@@ -1,48 +1,50 @@
 ---
+aliases:
+  - Sculpture
 has_id_wikidata: Q11634
 significant_person:
-  - "[[_Standards/WikiData/WD~Alberto_Giacometti,157194]]"
-  - "[[_Standards/WikiData/WD~Giannino_Castiglioni,1122412]]"
+  - '[[_Standards/WikiData/WD~Alberto_Giacometti,157194]]'
+  - '[[_Standards/WikiData/WD~Giannino_Castiglioni,1122412]]'
 different_from:
-  - "[[_Standards/WikiData/WD~plastic_artwork,350268]]"
-  - "[[_Standards/WikiData/WD~sculpture,860861]]"
-  - "[[_Standards/WikiData/WD~sculpture,17310537]]"
+  - '[[_Standards/WikiData/WD~plastic_artwork,350268]]'
+  - '[[_Standards/WikiData/WD~sculpture,860861]]'
+  - '[[_Standards/WikiData/WD~sculpture,17310537]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~sculpture,860861]]"
-has_part_s_: "[[_Standards/WikiData/WD~sculpture,860861]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~sculpture,860861]]'
+has_part_s_: '[[_Standards/WikiData/WD~sculpture,860861]]'
 part_of:
-  - "[[_Standards/WikiData/WD~plastic_arts,1078913]]"
-  - "[[_Standards/WikiData/WD~visual_arts,36649]]"
-practiced_by: "[[_Standards/WikiData/WD~sculptor,1281618]]"
+  - '[[_Standards/WikiData/WD~plastic_arts,1078913]]'
+  - '[[_Standards/WikiData/WD~visual_arts,36649]]'
+practiced_by: '[[_Standards/WikiData/WD~sculptor,1281618]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~form_of_art,1437361]]"
-  - "[[_Standards/WikiData/WD~art_genre,1792379]]"
-  - "[[_Standards/WikiData/WD~type_of_arts,56055944]]"
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~sculpture,17310537]]"
+  - '[[_Standards/WikiData/WD~form_of_art,1437361]]'
+  - '[[_Standards/WikiData/WD~art_genre,1792379]]'
+  - '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
+  - '[[_Standards/WikiData/WD~hobby,47728]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~sculpture,17310537]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~sculpture,17310537]]"
-  - "[[_Standards/WikiData/WD~artistic_creation,47407603]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~lapidary,17319698]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Art_of_sculpture,18920469]]"
-uses: "[[_Standards/WikiData/WD~sculpture_material,21685333]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
-has_characteristic: "[[_Standards/WikiData/WD~sculpture_award,134608975]]"
+  - '[[_Standards/WikiData/WD~sculpture,17310537]]'
+  - '[[_Standards/WikiData/WD~artistic_creation,47407603]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~lapidary,17319698]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Art_of_sculpture,18920469]]'
+uses: '[[_Standards/WikiData/WD~sculpture_material,21685333]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
+has_characteristic: '[[_Standards/WikiData/WD~sculpture_award,134608975]]'
 Library_of_Congress_Classification: NB1-NB1952
-OmegaWiki_Defined_Meaning: "960139"
+OmegaWiki_Defined_Meaning: 960139
 PhilPapers_topic: sculpture
 Colon_Classification: ND
 Iconclass_notation: 48C2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Discobolus%20in%20National%20Roman%20Museum%20Palazzo%20Massimo%20alle%20Terme.JPG
 exact_match: http://cv.iptc.org/newscodes/subjectcode/01015000
-U_S_National_Archives_Identifier: "10642810"
-P8189: "987007565867205171"
+U_S_National_Archives_Identifier: 10642810
+P8189: 987007565867205171
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/SKULPTURA.html
 IPTC_NewsCode: mediatopic/20000037
 hashtag: Sculpting

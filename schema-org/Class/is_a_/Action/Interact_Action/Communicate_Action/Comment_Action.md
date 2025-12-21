@@ -4,20 +4,22 @@ aliases:
   - comment_action
   - CommentAction
   - is_a_comment_action
+  - Comment_Action
+  - Comment Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - comment_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_comment_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

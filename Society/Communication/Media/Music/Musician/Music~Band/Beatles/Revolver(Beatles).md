@@ -1,25 +1,26 @@
 ---
 aliases:
-- Beatles~Revolver
-- 
+  - Beatles~Revolver
+  - ''
+  - Revolver(Beatles)
 confidential: private
-cssclasses: "private note"
+cssclasses: private note
 draft: true
-expiryDate: 
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 has_time_started: 2024-10-20
 isDeleted: false
 isReadOnly: false
 keywords: Beatles~Revolver
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Beatles~Revolver
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Beatles~Revolver
-- 
+  - Beatles~Revolver
+  - ''
 title: Beatles~Revolver
 type: private_note
 ---

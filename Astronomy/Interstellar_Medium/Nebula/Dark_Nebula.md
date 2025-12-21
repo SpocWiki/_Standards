@@ -1,12 +1,14 @@
 ---
 aliases:
   - dark nebula or absorption nebula
+  - Dark_Nebula
+  - Dark Nebula
 has_id_wikidata: Q204194
-has_list: "[[_Standards/WikiData/WD~list_of_dark_nebulae,2996068]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_dark_nebula,14446992]]"
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-part_of: "[[_Standards/WikiData/WD~galaxy,318]]"
-subclass_of: "[[_Standards/WikiData/WD~nebula,42372]]"
+has_list: '[[_Standards/WikiData/WD~list_of_dark_nebulae,2996068]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_dark_nebula,14446992]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+part_of: '[[_Standards/WikiData/WD~galaxy,318]]'
+subclass_of: '[[_Standards/WikiData/WD~nebula,42372]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Barnard%2068.jpg
 Commons_category: Dark nebulae
 ---

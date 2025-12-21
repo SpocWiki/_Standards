@@ -4,21 +4,22 @@ aliases:
   - rest-periods
   - restPeriods
   - has_value_for_rest_periods
+  - has value for rest periods
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - rest-periods
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_rest-periods
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

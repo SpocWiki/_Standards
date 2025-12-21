@@ -1,9 +1,11 @@
 ---
-Commons_category: "Geologic eons"
-different_from:
-- '[[_Standards/WikiData/WD~aeon,398085]]'
-- '[[_Standards/WikiData/WD~eonothem,2669627]]'
+aliases:
+  - geo~Eons
 has_id_wikidata: Q108256
+Commons_category: Geologic eons
+different_from:
+  - '[[_Standards/WikiData/WD~aeon,398085]]'
+  - '[[_Standards/WikiData/WD~eonothem,2669627]]'
 has_part_s_: '[[_Standards/WikiData/WD~era,630830]]'
 next_higher_rank: '[[_Standards/WikiData/WD~supereon,15398983]]'
 part_of: '[[_Standards/WikiData/WD~supereon,15398983]]'

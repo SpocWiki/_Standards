@@ -1,183 +1,185 @@
 ---
 aliases:
   - Karol Józef Wojtyła
+  - John_Paul_II
+  - John Paul II
 has_id_wikidata: Q989
 position_held:
-  - "[[_Standards/WikiData/WD~auxiliary_bishop,75178]]"
-  - "[[_Standards/WikiData/WD~titular_bishop,948657]]"
-  - "[[_Standards/WikiData/WD~San_Cesareo_in_Palatio,953302]]"
-  - "[[_Standards/WikiData/WD~Archbishop_of_Kraków,17375334]]"
-  - "[[_Standards/WikiData/WD~pope,19546]]"
-  - "[[_Standards/WikiData/WD~cardinal,45722]]"
+  - '[[_Standards/WikiData/WD~auxiliary_bishop,75178]]'
+  - '[[_Standards/WikiData/WD~titular_bishop,948657]]'
+  - '[[_Standards/WikiData/WD~San_Cesareo_in_Palatio,953302]]'
+  - '[[_Standards/WikiData/WD~Archbishop_of_Kraków,17375334]]'
+  - '[[_Standards/WikiData/WD~pope,19546]]'
+  - '[[_Standards/WikiData/WD~cardinal,45722]]'
 significant_person:
-  - "[[_Standards/WikiData/WD~Franz_König,78546]]"
-  - "[[_Standards/WikiData/WD~Stefan_Wyszyński,165522]]"
-  - "[[_Standards/WikiData/WD~Adam_Stefan_Sapieha,350963]]"
-  - "[[_Standards/WikiData/WD~Stanisław_Dziwisz,354306]]"
-  - "[[_Standards/WikiData/WD~Jan_Tyranowski,3161767]]"
-  - "[[_Standards/WikiData/WD~Anna_Teresa_Tymieniecka,4467048]]"
-  - "[[_Standards/WikiData/WD~Jesus_Christ,302]]"
-  - "[[_Standards/WikiData/WD~Mary,345]]"
-  - "[[_Standards/WikiData/WD~Benedict_XVI,2494]]"
+  - '[[_Standards/WikiData/WD~Franz_König,78546]]'
+  - '[[_Standards/WikiData/WD~Stefan_Wyszyński,165522]]'
+  - '[[_Standards/WikiData/WD~Adam_Stefan_Sapieha,350963]]'
+  - '[[_Standards/WikiData/WD~Stanisław_Dziwisz,354306]]'
+  - '[[_Standards/WikiData/WD~Jan_Tyranowski,3161767]]'
+  - '[[_Standards/WikiData/WD~Anna_Teresa_Tymieniecka,4467048]]'
+  - '[[_Standards/WikiData/WD~Jesus_Christ,302]]'
+  - '[[_Standards/WikiData/WD~Mary,345]]'
+  - '[[_Standards/WikiData/WD~Benedict_XVI,2494]]'
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~professor,121594]]"
-  - "[[_Standards/WikiData/WD~author,482980]]"
-  - "[[_Standards/WikiData/WD~Catholic_bishop,611644]]"
-  - "[[_Standards/WikiData/WD~Latin_Catholic_priest,1469535]]"
-  - "[[_Standards/WikiData/WD~human_rights_activist,1476215]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~transitional_deacon,7834465]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~latin_catholic_deacon,105169902]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~archbishop,49476]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~professor,121594]]'
+  - '[[_Standards/WikiData/WD~author,482980]]'
+  - '[[_Standards/WikiData/WD~Catholic_bishop,611644]]'
+  - '[[_Standards/WikiData/WD~Latin_Catholic_priest,1469535]]'
+  - '[[_Standards/WikiData/WD~human_rights_activist,1476215]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~transitional_deacon,7834465]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~latin_catholic_deacon,105169902]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~archbishop,49476]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_the_White_Eagle,84020]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Golden_Spur,93716]]"
-  - "[[_Standards/WikiData/WD~Charlemagne_Prize,152337]]"
-  - "[[_Standards/WikiData/WD~Time_Person_of_the_Year,207826]]"
-  - "[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]"
-  - "[[_Standards/WikiData/WD~Order_of_St._Gregory_the_Great,946960]]"
-  - "[[_Standards/WikiData/WD~Order_of_Pius_IX,1423841]]"
-  - "[[_Standards/WikiData/WD~Order_of_Bethlehem,2004744]]"
-  - "[[_Standards/WikiData/WD~Armia_Krajowa_Cross,2566385]]"
-  - "[[_Standards/WikiData/WD~Robert_Schuman_Medal,7349636]]"
-  - "[[_Standards/WikiData/WD~Sternberg_Interfaith_Gold_Medallion,7611546]]"
-  - "[[_Standards/WikiData/WD~Śląski_Wawrzyn_Literacki,9395567]]"
-  - "[[_Standards/WikiData/WD~Order_Ecce_Homo,11798929]]"
-  - "[[_Standards/WikiData/WD~Gold_Olympic_Order,15279719]]"
-  - "[[_Standards/WikiData/WD~Knight_of_St._Sylvester,16750686]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_Jagiellonian_University_of_Krakow,20853550]]"
-  - "[[_Standards/WikiData/WD~Gold_medal_of_Galicia,41152257]]"
-  - "[[_Standards/WikiData/WD~Order_of_Tomáš_Garrigue_Masaryk,_1st_class,42603870]]"
-  - "[[_Standards/WikiData/WD~honorary_citizen_of_Warsaw,54182620]]"
-  - "[[_Standards/WikiData/WD~honorary_citizen_of_Nieszawa,59588615]]"
-  - "[[_Standards/WikiData/WD~Aquinas_Medal,65010046]]"
-  - "[[_Standards/WikiData/WD~honorary_citizen_of_Toruń,66809272]]"
-  - "[[_Standards/WikiData/WD~honorary_citizen_of_Bydgoszcz,66809344]]"
-  - "[[_Standards/WikiData/WD~honorary_citizen_of_Białystok,66809355]]"
-  - "[[_Standards/WikiData/WD~honorary_citizen_of_Łódź,111512907]]"
-  - "[[_Standards/WikiData/WD~honorary_citizens_of_Łomża,135477179]]"
-  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Smile,55697]]"
+  - '[[_Standards/WikiData/WD~Order_of_the_White_Eagle,84020]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Golden_Spur,93716]]'
+  - '[[_Standards/WikiData/WD~Charlemagne_Prize,152337]]'
+  - '[[_Standards/WikiData/WD~Time_Person_of_the_Year,207826]]'
+  - '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
+  - '[[_Standards/WikiData/WD~Order_of_St._Gregory_the_Great,946960]]'
+  - '[[_Standards/WikiData/WD~Order_of_Pius_IX,1423841]]'
+  - '[[_Standards/WikiData/WD~Order_of_Bethlehem,2004744]]'
+  - '[[_Standards/WikiData/WD~Armia_Krajowa_Cross,2566385]]'
+  - '[[_Standards/WikiData/WD~Robert_Schuman_Medal,7349636]]'
+  - '[[_Standards/WikiData/WD~Sternberg_Interfaith_Gold_Medallion,7611546]]'
+  - '[[_Standards/WikiData/WD~Śląski_Wawrzyn_Literacki,9395567]]'
+  - '[[_Standards/WikiData/WD~Order_Ecce_Homo,11798929]]'
+  - '[[_Standards/WikiData/WD~Gold_Olympic_Order,15279719]]'
+  - '[[_Standards/WikiData/WD~Knight_of_St._Sylvester,16750686]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Jagiellonian_University_of_Krakow,20853550]]'
+  - '[[_Standards/WikiData/WD~Gold_medal_of_Galicia,41152257]]'
+  - '[[_Standards/WikiData/WD~Order_of_Tomáš_Garrigue_Masaryk,_1st_class,42603870]]'
+  - '[[_Standards/WikiData/WD~honorary_citizen_of_Warsaw,54182620]]'
+  - '[[_Standards/WikiData/WD~honorary_citizen_of_Nieszawa,59588615]]'
+  - '[[_Standards/WikiData/WD~Aquinas_Medal,65010046]]'
+  - '[[_Standards/WikiData/WD~honorary_citizen_of_Toruń,66809272]]'
+  - '[[_Standards/WikiData/WD~honorary_citizen_of_Bydgoszcz,66809344]]'
+  - '[[_Standards/WikiData/WD~honorary_citizen_of_Białystok,66809355]]'
+  - '[[_Standards/WikiData/WD~honorary_citizen_of_Łódź,111512907]]'
+  - '[[_Standards/WikiData/WD~honorary_citizens_of_Łomża,135477179]]'
+  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Smile,55697]]'
 interested_in:
-  - "[[_Standards/WikiData/WD~skiing,130949]]"
-  - "[[_Standards/WikiData/WD~canoeing_and_kayaking,213934]]"
-  - "[[_Standards/WikiData/WD~acting,222749]]"
-  - "[[_Standards/WikiData/WD~bicycle_touring,564606]]"
-  - "[[_Standards/WikiData/WD~recreational_mountaineering,3505012]]"
-  - "[[_Standards/WikiData/WD~ski_jumping,7718]]"
-  - "[[_Standards/WikiData/WD~tourism,49389]]"
-military_branch: "[[_Standards/WikiData/WD~Armia_Krajowa,152529]]"
+  - '[[_Standards/WikiData/WD~skiing,130949]]'
+  - '[[_Standards/WikiData/WD~canoeing_and_kayaking,213934]]'
+  - '[[_Standards/WikiData/WD~acting,222749]]'
+  - '[[_Standards/WikiData/WD~bicycle_touring,564606]]'
+  - '[[_Standards/WikiData/WD~recreational_mountaineering,3505012]]'
+  - '[[_Standards/WikiData/WD~ski_jumping,7718]]'
+  - '[[_Standards/WikiData/WD~tourism,49389]]'
+military_branch: '[[_Standards/WikiData/WD~Armia_Krajowa,152529]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~John_Paul_II_Catholic_University_of_Lublin,175529]]"
-  - "[[_Standards/WikiData/WD~Pontifical_University_of_Saint_Thomas_Aquinas,246887]]"
-  - "[[_Standards/WikiData/WD~Theology_faculty_of_the_Jagiellonian_University,9379710]]"
+  - '[[_Standards/WikiData/WD~John_Paul_II_Catholic_University_of_Lublin,175529]]'
+  - '[[_Standards/WikiData/WD~Pontifical_University_of_Saint_Thomas_Aquinas,246887]]'
+  - '[[_Standards/WikiData/WD~Theology_faculty_of_the_Jagiellonian_University,9379710]]'
 employer:
-  - "[[_Standards/WikiData/WD~John_Paul_II_Catholic_University_of_Lublin,175529]]"
-  - "[[_Standards/WikiData/WD~Jagiellonian_University,189441]]"
+  - '[[_Standards/WikiData/WD~John_Paul_II_Catholic_University_of_Lublin,175529]]'
+  - '[[_Standards/WikiData/WD~Jagiellonian_University,189441]]'
 cause_of_death:
-  - "[[_Standards/WikiData/WD~sepsis,183134]]"
-  - "[[_Standards/WikiData/WD~senility,438971]]"
+  - '[[_Standards/WikiData/WD~sepsis,183134]]'
+  - '[[_Standards/WikiData/WD~senility,438971]]'
   - "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
-  - "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
+  - '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~funeral,201676]]"
-  - "[[_Standards/WikiData/WD~pastoral_visit,2056313]]"
-  - "[[_Standards/WikiData/WD~cardinalate_creation,20004056]]"
-  - "[[_Standards/WikiData/WD~episcopal_consecration_in_the_Roman_rite,40092973]]"
-  - "[[_Standards/WikiData/WD~priestly_ordination_in_the_Roman_rite,41463697]]"
-  - "[[_Standards/WikiData/WD~diaconal_ordination,41463713]]"
-  - "[[_Standards/WikiData/WD~beatification,51620]]"
-  - "[[_Standards/WikiData/WD~canonization,51621]]"
-place_of_birth: "[[_Standards/WikiData/WD~Wadowice,212856]]"
-consecrator: "[[_Standards/WikiData/WD~Eugeniusz_Baziak,953375]]"
+  - '[[_Standards/WikiData/WD~funeral,201676]]'
+  - '[[_Standards/WikiData/WD~pastoral_visit,2056313]]'
+  - '[[_Standards/WikiData/WD~cardinalate_creation,20004056]]'
+  - '[[_Standards/WikiData/WD~episcopal_consecration_in_the_Roman_rite,40092973]]'
+  - '[[_Standards/WikiData/WD~priestly_ordination_in_the_Roman_rite,41463697]]'
+  - '[[_Standards/WikiData/WD~diaconal_ordination,41463713]]'
+  - '[[_Standards/WikiData/WD~beatification,51620]]'
+  - '[[_Standards/WikiData/WD~canonization,51621]]'
+place_of_birth: '[[_Standards/WikiData/WD~Wadowice,212856]]'
+consecrator: '[[_Standards/WikiData/WD~Eugeniusz_Baziak,953375]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Den_Store_Danske_Encyklopædi,1186818]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Wojtyla_segreto,59920205]]"
+  - '[[_Standards/WikiData/WD~Den_Store_Danske_Encyklopædi,1186818]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Wojtyla_segreto,59920205]]'
   - "[[_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+  - '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
 participant_in:
-  - "[[_Standards/WikiData/WD~World_Youth_Day_1991,1428113]]"
-  - "[[_Standards/WikiData/WD~World_Youth_Day_1985,3765905]]"
+  - '[[_Standards/WikiData/WD~World_Youth_Day_1991,1428113]]'
+  - '[[_Standards/WikiData/WD~World_Youth_Day_1985,3765905]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Pontifical_Academy_of_Mary,1633152]]"
-  - "[[_Standards/WikiData/WD~Polskie_Towarzystwo_Turystyczno_Krajoznawcze,4994123]]"
-motto: "[[_Standards/WikiData/WD~Totus_Tuus,1812603]]"
-academic_degree: "[[_Standards/WikiData/WD~Doctor_of_Divinity,1984623]]"
+  - '[[_Standards/WikiData/WD~Pontifical_Academy_of_Mary,1633152]]'
+  - '[[_Standards/WikiData/WD~Polskie_Towarzystwo_Turystyczno_Krajoznawcze,4994123]]'
+motto: '[[_Standards/WikiData/WD~Totus_Tuus,1812603]]'
+academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Divinity,1984623]]'
 work_location:
-  - "[[_Standards/WikiData/WD~Niegowić,2001024]]"
-  - "[[_Standards/WikiData/WD~Zakrzówek,9386136]]"
-  - "[[_Standards/WikiData/WD~Borek_Fałȩcki,11688618]]"
-  - "[[_Standards/WikiData/WD~Kraków,31487]]"
-  - "[[_Standards/WikiData/WD~Rome,220]]"
-  - "[[_Standards/WikiData/WD~Vatican_City,237]]"
-  - "[[_Standards/WikiData/WD~Lublin,37333]]"
-father: "[[_Standards/WikiData/WD~Karol_Wojtyła,2085290]]"
-sibling: "[[_Standards/WikiData/WD~Edmund_Wojtyła,3505550]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-mother: "[[_Standards/WikiData/WD~Emilia_Wojtyła,5371654]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Niegowić,2001024]]'
+  - '[[_Standards/WikiData/WD~Zakrzówek,9386136]]'
+  - '[[_Standards/WikiData/WD~Borek_Fałȩcki,11688618]]'
+  - '[[_Standards/WikiData/WD~Kraków,31487]]'
+  - '[[_Standards/WikiData/WD~Rome,220]]'
+  - '[[_Standards/WikiData/WD~Vatican_City,237]]'
+  - '[[_Standards/WikiData/WD~Lublin,37333]]'
+father: '[[_Standards/WikiData/WD~Karol_Wojtyła,2085290]]'
+sibling: '[[_Standards/WikiData/WD~Edmund_Wojtyła,3505550]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+mother: '[[_Standards/WikiData/WD~Emilia_Wojtyła,5371654]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 present_in_work:
-  - "[[_Standards/WikiData/WD~Q9393313,9393313]]"
-  - "[[_Standards/WikiData/WD~Q115625658,115625658]]"
+  - '[[_Standards/WikiData/WD~Q9393313,9393313]]'
+  - '[[_Standards/WikiData/WD~Q115625658,115625658]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~scientific_writing,11818468]]"
-  - "[[_Standards/WikiData/WD~Petrine_ministry,116854526]]"
-  - "[[_Standards/WikiData/WD~poetry,482]]"
-  - "[[_Standards/WikiData/WD~drama,25372]]"
-doctoral_advisor: "[[_Standards/WikiData/WD~Władysław_Wicher,22298495]]"
-family_name: "[[_Standards/WikiData/WD~Wojtyła,56541347]]"
-given_name: "[[_Standards/WikiData/WD~Ioannes_Paulus,69242302]]"
-academic_thesis: "[[_Standards/WikiData/WD~Q116920566,116920566]]"
-canonization_status: "[[_Standards/WikiData/WD~canonized_saint,123110154]]"
+  - '[[_Standards/WikiData/WD~scientific_writing,11818468]]'
+  - '[[_Standards/WikiData/WD~Petrine_ministry,116854526]]'
+  - '[[_Standards/WikiData/WD~poetry,482]]'
+  - '[[_Standards/WikiData/WD~drama,25372]]'
+doctoral_advisor: '[[_Standards/WikiData/WD~Władysław_Wicher,22298495]]'
+family_name: '[[_Standards/WikiData/WD~Wojtyła,56541347]]'
+given_name: '[[_Standards/WikiData/WD~Ioannes_Paulus,69242302]]'
+academic_thesis: '[[_Standards/WikiData/WD~Q116920566,116920566]]'
+canonization_status: '[[_Standards/WikiData/WD~canonized_saint,123110154]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Statue_of_John_Paul_II,125809481]]"
-  - "[[_Standards/WikiData/WD~Plaque_to_Ioannes_Paulus_II,126680352]]"
-  - "[[_Standards/WikiData/WD~Tomb_of_John_Paul_II,126685441]]"
-  - "[[_Standards/WikiData/WD~Statue_of_Pope_John_Paul_II,_Curitiba,136226131]]"
+  - '[[_Standards/WikiData/WD~Statue_of_John_Paul_II,125809481]]'
+  - '[[_Standards/WikiData/WD~Plaque_to_Ioannes_Paulus_II,126680352]]'
+  - '[[_Standards/WikiData/WD~Tomb_of_John_Paul_II,126685441]]'
+  - '[[_Standards/WikiData/WD~Statue_of_Pope_John_Paul_II,_Curitiba,136226131]]'
 place_of_burial:
-  - "[[_Standards/WikiData/WD~Tomb_of_John_Paul_II,126685441]]"
+  - '[[_Standards/WikiData/WD~Tomb_of_John_Paul_II,126685441]]'
   - "[[_Standards/WikiData/WD~St._Peter's_Basilica,12512]]"
 writing_language:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~Polish,809]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~Latin,397]]'
+  - '[[_Standards/WikiData/WD~Italian,652]]'
+  - '[[_Standards/WikiData/WD~Polish,809]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~Polish,809]]"
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Portuguese,5146]]"
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~Ukrainian,8798]]"
-  - "[[_Standards/WikiData/WD~Lithuanian,9083]]"
-  - "[[_Standards/WikiData/WD~Esperanto,143]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-native_language: "[[_Standards/WikiData/WD~Polish,809]]"
-ethnic_group: "[[_Standards/WikiData/WD~Poles,1026]]"
+  - '[[_Standards/WikiData/WD~Latin,397]]'
+  - '[[_Standards/WikiData/WD~Italian,652]]'
+  - '[[_Standards/WikiData/WD~Polish,809]]'
+  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Portuguese,5146]]'
+  - '[[_Standards/WikiData/WD~Russian,7737]]'
+  - '[[_Standards/WikiData/WD~Ukrainian,8798]]'
+  - '[[_Standards/WikiData/WD~Lithuanian,9083]]'
+  - '[[_Standards/WikiData/WD~Esperanto,143]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+  - '[[_Standards/WikiData/WD~German,188]]'
+native_language: '[[_Standards/WikiData/WD~Polish,809]]'
+ethnic_group: '[[_Standards/WikiData/WD~Poles,1026]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Catholicism,1841]]"
-  - "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
-feast_day: "[[_Standards/WikiData/WD~October_22,2957]]"
+  - '[[_Standards/WikiData/WD~Catholicism,1841]]'
+  - '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+feast_day: '[[_Standards/WikiData/WD~October_22,2957]]'
 medical_condition: "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Poland,36]]"
-place_of_death: "[[_Standards/WikiData/WD~Rome,220]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Poland,36]]'
+place_of_death: '[[_Standards/WikiData/WD~Rome,220]]'
 Image_Archive_Herder_Institute: Q989
 BHCL_UUID: 97f29a4a-3ea8-4ff3-8593-5fbbba004d03
 birth_name: Karol Józef Wojtyła
-U_S_National_Archives_Identifier: "10678008"
+U_S_National_Archives_Identifier: 10678008
 work_period_start_: 1978-01-01T00:00:00Z
-RIA_Novosti_reference: "39604573"
+RIA_Novosti_reference: 39604573
 name_in_native_language: Jan Paweł II
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Vaticano%20sightseeing%20%28fc31%20%E2%80%93%20edited%29.jpg
 Libris_URI: jgvx0p4211vrrvz
@@ -205,7 +207,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Pope%20John%20Paul%20I
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20John%20Paul%20II.svg
 official_website: http://www.vatican.va/holy_father/john_paul_ii/index.htm
 Stack_Exchange_tag: https://christianity.stackexchange.com/tags/john-paul-ii
-ISNI: "0000000120981449"
+ISNI: 0000000120981449
 Plex_person_key: 5d77684d103a2d001f56ca3a
 Europeana_entity: agent/base/171236
 Wolfram_Language_entity_code: Entity["Person", "PopeJohnPaulII::2v6d3"]

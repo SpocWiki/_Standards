@@ -1,14 +1,15 @@
 ---
 aliases:
   - Structuralismus
+  - Structuralism
 has_id_wikidata: Q179168
 subclass_of:
-  - "[[_Standards/WikiData/WD~school_of_thought,1387659]]"
-  - "[[_Standards/WikiData/WD~structuralism,2236965]]"
-derivative_work: "[[_Standards/WikiData/WD~neorealism,1761068]]"
-described_by_source: "[[_Standards/WikiData/WD~Dictionary_of_Biblical_Criticism_and_Interpretation_(2007_ed.),21065550]]"
-instance_of: "[[_Standards/WikiData/WD~theory,17737]]"
-Dewey_Decimal_Classification: "149.97"
+  - '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
+  - '[[_Standards/WikiData/WD~structuralism,2236965]]'
+derivative_work: '[[_Standards/WikiData/WD~neorealism,1761068]]'
+described_by_source: '[[_Standards/WikiData/WD~Dictionary_of_Biblical_Criticism_and_Interpretation_(2007_ed.),21065550]]'
+instance_of: '[[_Standards/WikiData/WD~theory,17737]]'
+Dewey_Decimal_Classification: 149.97
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand%20de%20Saussure%20by%20Jullien.png
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/STRUKTURALIZM.html
 Commons_category: Structuralism

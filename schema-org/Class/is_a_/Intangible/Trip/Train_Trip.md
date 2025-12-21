@@ -4,20 +4,22 @@ aliases:
   - train_trip
   - TrainTrip
   - is_a_train_trip
+  - Train_Trip
+  - Train Trip
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - train_trip
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_train_trip Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

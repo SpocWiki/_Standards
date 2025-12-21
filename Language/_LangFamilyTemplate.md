@@ -1,13 +1,15 @@
 ---
 aliases:
-- 
+  - ''
+  - _LangFamilyTemplate
+  - ' LangFamilyTemplate'
 confidential: public
 isDeleted: false
 isReadOnly: false
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 publish: true
 tags:
-- Lang_Family
+  - Lang_Family
 type: LangFamily
 ---
 

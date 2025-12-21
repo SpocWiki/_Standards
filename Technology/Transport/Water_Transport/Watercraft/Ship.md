@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ship
 has_id_wikidata: Q11446
 OpenStreetMap_tag_or_key: Key:ship
 EAGLE_id: objtyp/lod/409
@@ -60,9 +62,9 @@ properties_for_this_type:
   - operator
   - manufacturer
 has_use: "[[_Standards/WikiData/WD~transport,7590]]"
-Nomenclature_for_Museum_Cataloging: "12684"
-OmegaWiki_Defined_Meaning: "3403"
-U_S_National_Archives_Identifier: "10644067"
+Nomenclature_for_Museum_Cataloging: 12684
+OmegaWiki_Defined_Meaning: 3403
+U_S_National_Archives_Identifier: 10644067
 IMDb_keyword: ship
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DANA%202004%20ubt.jpeg
 Commons_category: Ships
@@ -72,11 +74,11 @@ equivalent_class:
   - http://live.dbpedia.org/ontology/Ship
   - http://rdf.muninn-project.org/ontologies/naval#Ship
 Unicode_character: 🚢
-P8189: "987007538853605171"
+P8189: 987007538853605100
 MeSH_tree_code: J01.937.817
 ---
 
-# [[Ship]] 
+# [[Ship]] 🚢 
 
 #is_/same_as :: [[../../../../WikiData/WD~Ship,11446|WD~Ship,11446]] 
 

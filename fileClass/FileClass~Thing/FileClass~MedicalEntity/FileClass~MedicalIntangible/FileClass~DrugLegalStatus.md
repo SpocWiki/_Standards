@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DrugLegalStatus
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
 fields:
-- id: lOla7L
-  name: ApplicableLocation
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place/AdministrativeArea')"
-  type: MultiFile
-  path: ''
+  - id: lOla7L
+    name: ApplicableLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DrugLegalStatus
-- class/Thing/MedicalEntity/MedicalIntangible/DrugLegalStatus
-- is_a_/DrugLegalStatus
-- schema-org/DrugLegalStatus
+  - class/DrugLegalStatus
+  - class/Thing/MedicalEntity/MedicalIntangible/DrugLegalStatus
+  - is_a_/DrugLegalStatus
+  - schema-org/DrugLegalStatus
 tags:
-- class/FileClass
-- class/DrugLegalStatus
-- is_a_/DrugLegalStatus
-- class/Thing/MedicalEntity/MedicalIntangible/DrugLegalStatus
+  - class/FileClass
+  - class/DrugLegalStatus
+  - is_a_/DrugLegalStatus
+  - class/Thing/MedicalEntity/MedicalIntangible/DrugLegalStatus
 version: 2.0
 ---
 

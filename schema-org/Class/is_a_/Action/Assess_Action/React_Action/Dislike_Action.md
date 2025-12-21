@@ -4,20 +4,22 @@ aliases:
   - dislike_action
   - DislikeAction
   - is_a_dislike_action
+  - Dislike_Action
+  - Dislike Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - dislike_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_dislike_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~SellAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 fields:
-- id: 08xNQ8
-  name: Buyer
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
+  - id: 08xNQ8
+    name: Buyer
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/SellAction
-- class/Thing/Action/TradeAction/SellAction
-- is_a_/SellAction
-- schema-org/SellAction
+  - class/SellAction
+  - class/Thing/Action/TradeAction/SellAction
+  - is_a_/SellAction
+  - schema-org/SellAction
 tags:
-- class/FileClass
-- class/SellAction
-- is_a_/SellAction
-- class/Thing/Action/TradeAction/SellAction
+  - class/FileClass
+  - class/SellAction
+  - is_a_/SellAction
+  - class/Thing/Action/TradeAction/SellAction
 version: 2.0
 ---
 

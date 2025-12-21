@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~SocialEvent
+excludes: ''
 extends: FileClass~Thing/FileClass~Event
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/SocialEvent
-- class/Thing/Event/SocialEvent
-- is_a_/SocialEvent
-- schema-org/SocialEvent
+  - class/SocialEvent
+  - class/Thing/Event/SocialEvent
+  - is_a_/SocialEvent
+  - schema-org/SocialEvent
 tags:
-- class/FileClass
-- class/SocialEvent
-- is_a_/SocialEvent
-- class/Thing/Event/SocialEvent
+  - class/FileClass
+  - class/SocialEvent
+  - is_a_/SocialEvent
+  - class/Thing/Event/SocialEvent
 version: 2.0
 ---
 

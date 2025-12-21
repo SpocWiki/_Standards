@@ -4,23 +4,24 @@ aliases:
   - interpreted_as_claim
   - interpretedAsClaim
   - is_interpreted_as_claim
+  - is interpreted as claim
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - interpreted
   - as
   - claim
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_interpreted_as_claim
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

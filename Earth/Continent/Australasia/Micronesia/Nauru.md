@@ -1,11 +1,18 @@
 ---
+aliases:
+  - Nauru
+  - ناورو
+  - 瑙鲁
+  - Науру
+  - the Republic of Nauru
+  - la República de Nauru
+has_id_wikidata: Q697
 location:
   - -0.547778
   - 166.921
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q697
 SpocWebEntityId: 26986
 isDeleted: false
 confidential: public
@@ -16,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Nauru
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Nauru
-  - ناورو
-  - 瑙鲁
-  - Науру
-  - the Republic of Nauru
-  - la República de Nauru
+publishDate: ""
+expiryDate: ""
 Languages:
   - na
   - en-NR

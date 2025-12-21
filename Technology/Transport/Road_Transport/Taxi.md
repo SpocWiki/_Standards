@@ -1,6 +1,7 @@
 ---
 aliases:
   - taxicab or simply a cab
+  - Taxi
 has_id_wikidata: Q82650
 different_from: "[[_Standards/WikiData/WD~Taxi,171257]]"
 facet_of:
@@ -21,8 +22,8 @@ named_after: "[[_Standards/WikiData/WD~taximeter,1135572]]"
 used_by: "[[_Standards/WikiData/WD~taxi_driver,2961580]]"
 has_use: "[[_Standards/WikiData/WD~taxi_service,41222493]]"
 described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-Nomenclature_for_Museum_Cataloging: "12186"
-OmegaWiki_Defined_Meaning: "6200"
+Nomenclature_for_Museum_Cataloging: 12186
+OmegaWiki_Defined_Meaning: 6200
 OpenStreetMap_key: taxi
 IMDb_keyword: taxi
 GitHub_topic:
@@ -38,13 +39,13 @@ Unicode_character:
   - 🚕
   - 🚖
 Dewey_Decimal_Classification:
-  - "388.34232"
-  - "388.413214"
-  - "629.22232"
+  - 388.34232
+  - 388.413214
+  - 629.22232
 Commons_category: Taxi vehicles
 ---
 
-# [[Taxi]] 
+# [[Taxi]] 🚖 
 
 #is_/same_as :: [[../../../WikiData/WD~Taxi,82650|WD~Taxi,82650]]  
 

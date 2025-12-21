@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Landform
+excludes: ''
 extends: FileClass~Thing/FileClass~Place
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/Landform
-- class/Thing/Place/Landform
-- is_a_/Landform
-- schema-org/Landform
+  - class/Landform
+  - class/Thing/Place/Landform
+  - is_a_/Landform
+  - schema-org/Landform
 tags:
-- class/FileClass
-- class/Landform
-- is_a_/Landform
-- class/Thing/Place/Landform
+  - class/FileClass
+  - class/Landform
+  - is_a_/Landform
+  - class/Thing/Place/Landform
 version: 2.0
 ---
 

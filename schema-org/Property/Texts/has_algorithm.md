@@ -1,28 +1,30 @@
 ---
 aliases:
-- algorithm
-- algorithm
-- algorithm
-- has_text_of_algorithm
+  - algorithm
+  - algorithm
+  - algorithm
+  - has_text_of_algorithm
+  - has_algorithm
+  - has algorithm
+has_id_wikidata: Q8366
 confidential: public
 cssclasses:
-- Predicate
-- Text
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
-has_id_wikidata: Q8366
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- algorithm
-layout: 
-license: "CC BY-SA 4.0"
+  - algorithm
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_text_of_algorithm
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_algorithm
 type: Pred_Text
 ---

@@ -4,20 +4,22 @@ aliases:
   - spreadsheet_digital_document
   - SpreadsheetDigitalDocument
   - is_a_spreadsheet_digital_document
+  - Spreadsheet_Digital_Document
+  - Spreadsheet Digital Document
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - spreadsheet_digital_document
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_spreadsheet_digital_document Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -4,18 +4,20 @@ aliases:
   - reductant
   - reducer
   - electron donor
+  - Reducing_Agent
+  - Reducing Agent
 has_id_wikidata: Q216830
-used_by: "[[_Standards/WikiData/WD~redox,82682]]"
-opposite_of: "[[_Standards/WikiData/WD~oxidizing_agent,187689]]"
+used_by: '[[_Standards/WikiData/WD~redox,82682]]'
+opposite_of: '[[_Standards/WikiData/WD~oxidizing_agent,187689]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~electron_donor,911571]]"
-  - "[[_Standards/WikiData/WD~indicators_and_reagents,50377175]]"
-  - "[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173]]"
-has_effect: "[[_Standards/WikiData/WD~reduction,912546]]"
+  - '[[_Standards/WikiData/WD~electron_donor,911571]]'
+  - '[[_Standards/WikiData/WD~indicators_and_reagents,50377175]]'
+  - '[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173]]'
+has_effect: '[[_Standards/WikiData/WD~reduction,912546]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~role,4897819]]"
-  - "[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~fuel,42501]]"
+  - '[[_Standards/WikiData/WD~role,4897819]]'
+  - '[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~fuel,42501]]'
 UMLS_CUI: C0376446
 MeSH_tree_code: D27.720.470.410.690
 Commons_category: Reducing agents

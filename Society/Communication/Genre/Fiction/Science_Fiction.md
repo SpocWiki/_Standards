@@ -1,45 +1,46 @@
 ---
 aliases:
-- "Science Fiction"
+  - Science Fiction
+  - Science_Fiction
+has_id_wikidata: Q24925
 BHCL_UUID: 0c206b78-c4aa-4d42-8566-857b83cdc2e4
-Commons_category: "Science fiction"
-described_at_URL: "https://www.gutenberg.org/ebooks/subject/36"
+Commons_category: Science fiction
+described_at_URL: https://www.gutenberg.org/ebooks/subject/36
 described_by_source: '[[_Standards/WikiData/WD~Metzler_Literatur_Lexikon_(2_ed.),123382721]]'
 fandom: '[[_Standards/WikiData/WD~science_fiction_fandom,3085171]]'
 GitHub_topic: science-fiction
 hashtag: sci_fi
-has_id_wikidata: Q24925
 history_of_topic: '[[_Standards/WikiData/WD~history_of_science_fiction,471270]]'
 IAB_code: 246
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Illustration%20of%20a%20futuristic%20aircraft%20on%20a%20landing%20pad%20by%20David%20Revoy.png"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Illustration%20of%20a%20futuristic%20aircraft%20on%20a%20landing%20pad%20by%20David%20Revoy.png
 instance_of:
-- '[[_Standards/WikiData/WD~literary_term,19610271]]'
-- '[[_Standards/WikiData/WD~speculative_fiction_genre,20076756]]'
+  - '[[_Standards/WikiData/WD~literary_term,19610271]]'
+  - '[[_Standards/WikiData/WD~speculative_fiction_genre,20076756]]'
 Krugosvet_article: kultura_i_obrazovanie/literatura/FANTASTIKA_NAUCHNAYA.html
 main_subject:
-- '[[_Standards/WikiData/WD~science,336]]'
-- '[[_Standards/WikiData/WD~technology,11016]]'
+  - '[[_Standards/WikiData/WD~science,336]]'
+  - '[[_Standards/WikiData/WD~technology,11016]]'
 OmegaWiki_Defined_Meaning: 514199
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~Q6173448,6173448]]'
-- '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Science%20fiction%20tourism%20Devils%20Tower.jpg"
+  - '[[_Standards/WikiData/WD~Q6173448,6173448]]'
+  - '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Science%20fiction%20tourism%20Devils%20Tower.jpg
 practiced_by: '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-zientzia-fikzio.wav"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-zientzia-fikzio.wav
 short_name: SF
-Stack_Exchange_tag: "https://worldbuilding.stackexchange.com/tags/science-fiction"
+Stack_Exchange_tag: https://worldbuilding.stackexchange.com/tags/science-fiction
 subclass_of: '[[_Standards/WikiData/WD~Q9326077,9326077]]'
 subreddit:
-- asksciencefiction
-- sciencefiction
-- scifi
-- scifiwriting
+  - asksciencefiction
+  - sciencefiction
+  - scifi
+  - scifiwriting
 topic_s_main_category: '[[_Standards/WikiData/WD~Q6483905,6483905]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Science_fiction,11386938]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Speculative_fiction_Science_fiction,21884165]]'
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/NOA%20Scifi%20Science%20Fiction%20Teaser%20Trailer%202017-2018.webm"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/NOA%20Scifi%20Science%20Fiction%20Teaser%20Trailer%202017-2018.webm
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_science_fiction,24905894]]'
-WordLift_URL: "http://data.thenextweb.com/tnw/entity/science_fiction"
+WordLift_URL: http://data.thenextweb.com/tnw/entity/science_fiction
 ---
 
 # [[Science_Fiction]] 

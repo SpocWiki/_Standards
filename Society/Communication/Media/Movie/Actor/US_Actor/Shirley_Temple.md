@@ -7,57 +7,57 @@ aliases:
   - Temple
 has_id_wikidata: Q182580
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~diplomat,193391]]"
-  - "[[_Standards/WikiData/WD~child_actor,970153]]"
-  - "[[_Standards/WikiData/WD~dancer,5716684]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-cause_of_death: "[[_Standards/WikiData/WD~chronic_obstructive_pulmonary_disease,199804]]"
-dance_style: "[[_Standards/WikiData/WD~tap_dance,244475]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~diplomat,193391]]'
+  - '[[_Standards/WikiData/WD~child_actor,970153]]'
+  - '[[_Standards/WikiData/WD~dancer,5716684]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+cause_of_death: '[[_Standards/WikiData/WD~chronic_obstructive_pulmonary_disease,199804]]'
+dance_style: '[[_Standards/WikiData/WD~tap_dance,244475]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Juvenile_Award,489705]]"
-  - "[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Golden_Plate_Award,28663097]]"
-  - "[[_Standards/WikiData/WD~honorary_citizen_of_Plzeň,51954535]]"
+  - '[[_Standards/WikiData/WD~Academy_Juvenile_Award,489705]]'
+  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~Golden_Plate_Award,28663097]]'
+  - '[[_Standards/WikiData/WD~honorary_citizen_of_Plzeň,51954535]]'
 spouse:
-  - "[[_Standards/WikiData/WD~John_Agar,593286]]"
-  - "[[_Standards/WikiData/WD~Charles_Alden_Black,5075025]]"
-place_of_death: "[[_Standards/WikiData/WD~Woodside,984177]]"
+  - '[[_Standards/WikiData/WD~John_Agar,593286]]'
+  - '[[_Standards/WikiData/WD~Charles_Alden_Black,5075025]]'
+place_of_death: '[[_Standards/WikiData/WD~Woodside,984177]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Jane,1682564]]"
-  - "[[_Standards/WikiData/WD~Shirley,13872259]]"
-child: "[[_Standards/WikiData/WD~Lori_Black,2257107]]"
-place_of_burial: "[[_Standards/WikiData/WD~Alta_Mesa_Memorial_Park,2477691]]"
+  - '[[_Standards/WikiData/WD~Jane,1682564]]'
+  - '[[_Standards/WikiData/WD~Shirley,13872259]]'
+child: '[[_Standards/WikiData/WD~Lori_Black,2257107]]'
+place_of_burial: '[[_Standards/WikiData/WD~Alta_Mesa_Memorial_Park,2477691]]'
 family_name:
-  - "[[_Standards/WikiData/WD~Black,2662465]]"
-  - "[[_Standards/WikiData/WD~Agar,12784009]]"
-  - "[[_Standards/WikiData/WD~Temple,21500480]]"
-record_label: "[[_Standards/WikiData/WD~RCA_Victor,3415083]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-educated_at: "[[_Standards/WikiData/WD~Harvard_Westlake_School,5676252]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-position_held: "[[_Standards/WikiData/WD~United_States_Ambassador_to_Czechoslovakia,7889287]]"
-filmography: "[[_Standards/WikiData/WD~Shirley_Temple_filmography,13479854]]"
-father: "[[_Standards/WikiData/WD~George_Francis_Temple,15726370]]"
-mother: "[[_Standards/WikiData/WD~Gertrude_Amelia_Temple,15726371]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
+  - '[[_Standards/WikiData/WD~Black,2662465]]'
+  - '[[_Standards/WikiData/WD~Agar,12784009]]'
+  - '[[_Standards/WikiData/WD~Temple,21500480]]'
+record_label: '[[_Standards/WikiData/WD~RCA_Victor,3415083]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+educated_at: '[[_Standards/WikiData/WD~Harvard_Westlake_School,5676252]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+position_held: '[[_Standards/WikiData/WD~United_States_Ambassador_to_Czechoslovakia,7889287]]'
+filmography: '[[_Standards/WikiData/WD~Shirley_Temple_filmography,13479854]]'
+father: '[[_Standards/WikiData/WD~George_Francis_Temple,15726370]]'
+mother: '[[_Standards/WikiData/WD~Gertrude_Amelia_Temple,15726371]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Records_of_persons_of_interest,104900509]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Republican_Party,29468]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-work_location: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Records_of_persons_of_interest,104900509]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+work_location: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 3
-place_of_birth: "[[_Standards/WikiData/WD~Santa_Monica,47164]]"
-identifier_in_filmpolski_movie_database: "10565"
+place_of_birth: '[[_Standards/WikiData/WD~Santa_Monica,47164]]'
+identifier_in_filmpolski_movie_database: 10565
 Commons_category: Shirley Temple
 work_period_start_:
   - 1932-01-01T00:00:00Z
@@ -73,7 +73,7 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Shirley%20Temple%2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Shirleytemple.jpg
 official_website: https://www.shirleytemple.com/
 ISNI: 000000011771872X
-U_S_National_Archives_Identifier: "10583047"
+U_S_National_Archives_Identifier: 10583047
 Libris_URI: 97mqwwst5l0x29f
 Europeana_entity: agent/base/150395
 Google_Doodle: celebrating-shirley-temple

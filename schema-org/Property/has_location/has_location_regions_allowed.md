@@ -4,21 +4,22 @@ aliases:
   - regions_allowed
   - regionsAllowed
   - has_location_regions_allowed
+  - has location regions allowed
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - regions_allowed
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_regions_allowed
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

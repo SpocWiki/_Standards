@@ -2,22 +2,23 @@
 aliases:
   - Upanishaden
   - उपनिषद्,
+  - Upanishads
 has_id_wikidata: Q6113985
 subclass_of:
-  - "[[_Standards/WikiData/WD~religious_text,179461]]"
-  - "[[_Standards/WikiData/WD~Hindu_text,1194040]]"
-  - "[[_Standards/WikiData/WD~literary_work,7725634]]"
+  - '[[_Standards/WikiData/WD~religious_text,179461]]'
+  - '[[_Standards/WikiData/WD~Hindu_text,1194040]]'
+  - '[[_Standards/WikiData/WD~literary_work,7725634]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-has_part_s_: "[[_Standards/WikiData/WD~Mukhya_Upanishads,773498]]"
-has_list: "[[_Standards/WikiData/WD~list_of_Upanishads,3242813]]"
-genre: "[[_Standards/WikiData/WD~religious_literature,12617225]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27115641,27115641]]"
-part_of: "[[_Standards/WikiData/WD~Vedas,39950]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+has_part_s_: '[[_Standards/WikiData/WD~Mukhya_Upanishads,773498]]'
+has_list: '[[_Standards/WikiData/WD~list_of_Upanishads,3242813]]'
+genre: '[[_Standards/WikiData/WD~religious_literature,12617225]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27115641,27115641]]'
+part_of: '[[_Standards/WikiData/WD~Vedas,39950]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MS%20Indic%2037%2C%20Isa%20upanisad.%20Wellcome%20L0027330.jpg
 Libris_URI: b8nrzwpv4m6tcrv
 Colon_Classification: Q1:24

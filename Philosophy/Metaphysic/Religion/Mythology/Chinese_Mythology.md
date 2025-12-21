@@ -4,16 +4,17 @@ aliases:
   - 中國神話
   - 中国神话
   - Zhōngguó shénhuà
+  - Chinese_Mythology
 has_id_wikidata: Q210677
-culture: "[[_Standards/WikiData/WD~Chinese_culture,645917]]"
-part_of: "[[_Standards/WikiData/WD~Chinese_folklore,837463]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Chinese_mythology,6421089]]"
-geography_of_topic: "[[_Standards/WikiData/WD~Chinese_mythological_geography,10874013]]"
-instance_of: "[[_Standards/WikiData/WD~mythology_of_an_area,20794493]]"
-facet_of: "[[_Standards/WikiData/WD~Chinese_civilization,25558247]]"
-subclass_of: "[[_Standards/WikiData/WD~Asian_mythology,113773140]]"
+culture: '[[_Standards/WikiData/WD~Chinese_culture,645917]]'
+part_of: '[[_Standards/WikiData/WD~Chinese_folklore,837463]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Chinese_mythology,6421089]]'
+geography_of_topic: '[[_Standards/WikiData/WD~Chinese_mythological_geography,10874013]]'
+instance_of: '[[_Standards/WikiData/WD~mythology_of_an_area,20794493]]'
+facet_of: '[[_Standards/WikiData/WD~Chinese_civilization,25558247]]'
+subclass_of: '[[_Standards/WikiData/WD~Asian_mythology,113773140]]'
 country:
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - '[[_Standards/WikiData/WD~Taiwan,865]]'
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Anonymous-Fuxi%20and%20N%C3%BCwa.jpg
 Commons_category: Mythology of China

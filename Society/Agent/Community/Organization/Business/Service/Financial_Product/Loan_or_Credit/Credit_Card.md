@@ -5,26 +5,28 @@ aliases:
   - CreditCard
   - is_a_credit_card
   - Kreditkarte
+  - Credit_Card
+  - Credit Card
+has_id_wikidata: Q161380
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - credit_card
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_credit_card Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_credit_card Class
 type: Type
-has_id_wikidata: Q161380
 ---
 
 # [[Credit_Card]] 

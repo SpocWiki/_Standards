@@ -4,21 +4,23 @@ aliases:
   - living_with_health_aspect
   - LivingWithHealthAspect
   - is_a_living_with_health_aspect
+  - Living_With_Health_Aspect
+  - Living With Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - living_with_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_living_with_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

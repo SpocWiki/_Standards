@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PresentationDigitalDocument
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PresentationDigitalDocument
-- class/Thing/CreativeWork/DigitalDocument/PresentationDigitalDocument
-- is_a_/PresentationDigitalDocument
-- schema-org/PresentationDigitalDocument
+  - class/PresentationDigitalDocument
+  - class/Thing/CreativeWork/DigitalDocument/PresentationDigitalDocument
+  - is_a_/PresentationDigitalDocument
+  - schema-org/PresentationDigitalDocument
 tags:
-- class/FileClass
-- class/PresentationDigitalDocument
-- is_a_/PresentationDigitalDocument
-- class/Thing/CreativeWork/DigitalDocument/PresentationDigitalDocument
+  - class/FileClass
+  - class/PresentationDigitalDocument
+  - is_a_/PresentationDigitalDocument
+  - class/Thing/CreativeWork/DigitalDocument/PresentationDigitalDocument
 version: 2.0
 ---
 

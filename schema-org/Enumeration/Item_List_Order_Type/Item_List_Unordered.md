@@ -4,21 +4,23 @@ aliases:
   - item_list_unordered
   - ItemListUnordered
   - is_an_item_list_unordered
+  - Item_List_Unordered
+  - Item List Unordered
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: ItemListOrderType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - item_list_unordered
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_item_list_unordered Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

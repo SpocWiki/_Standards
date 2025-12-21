@@ -4,12 +4,14 @@ aliases:
   - has_bio_polymer_sequence
   - hasBioPolymerSequence
   - has_text_of_has_bio_polymer_sequence
+  - has_has_bio_polymer_sequence
+  - has has bio polymer sequence
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +19,11 @@ keywords:
   - bio
   - polymer
   - sequence
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_has_bio_polymer_sequence
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

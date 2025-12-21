@@ -15,7 +15,7 @@ described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657
 different_from: "[[_Standards/WikiData/WD~Rentgen,9306454]]"
 named_after: "[[_Standards/WikiData/WD~Wilhelm_Röntgen,35149]]"
 atomic_number: 111
-OmegaWiki_Defined_Meaning: "350608"
+OmegaWiki_Defined_Meaning: 350608
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-uk-roentgenium.oga
 element_symbol: Rg
 Unicode_character:

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Satellit
+  - Satellite
 has_id_wikidata: Q26540
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -12,10 +13,10 @@ subclass_of:
 partially_coincident_with: "[[_Standards/WikiData/WD~Q4203972,4203972]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_artificial_satellite,26015235]]"
 parent_astronomical_body: "[[_Standards/WikiData/WD~astronomical_object,6999]]"
-Nomenclature_for_Museum_Cataloging: "11736"
+Nomenclature_for_Museum_Cataloging: 11736
 Commons_category: Satellites
 Wolfram_Language_entity_type: Satellite
-U_S_National_Archives_Identifier: "10639092"
+U_S_National_Archives_Identifier: 10639092
 time_of_discovery_or_invention: 1957-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Luna%201%20-%202%20Spacecraft.png
 Unicode_character: 🛰

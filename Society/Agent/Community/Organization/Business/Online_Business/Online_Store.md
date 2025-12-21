@@ -4,20 +4,22 @@ aliases:
   - online_store
   - OnlineStore
   - is_an_online_store
+  - Online_Store
+  - Online Store
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - online_store
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_online_store Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

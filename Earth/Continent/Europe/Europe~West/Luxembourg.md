@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Luxembourg
+  - Luxemburgo
+  - لكسمبرغ
+  - 卢森堡
+  - Люксембург
+  - the Grand Duchy of Luxembourg
+  - el Gran Ducado de Luxemburgo
+has_id_wikidata: Q32
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
@@ -328,11 +337,10 @@ coordinates_of_northernmost_point: Point(6.024783 50.182794)
 Commons_category: Luxembourg
 hashtag: Luxembourg
 subreddit: Luxembourg
-inception: "1815"
+inception: 1815
 has_time_started: 1815-06
 coordinates_of_southernmost_point: Point(6.041683 49.44775)
 geoshape: http://commons.wikimedia.org/data/main/Data:LuxembourgCountry.map
-has_id_wikidata: Q32
 location:
   - 49.6827
   - 6.07904
@@ -349,20 +357,12 @@ cssclasses:
   - Country
 publish: true
 title: Luxembourg
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Luxembourg
-  - Luxemburgo
-  - لكسمبرغ
-  - 卢森堡
-  - Люксембург
-  - the Grand Duchy of Luxembourg
-  - el Gran Ducado de Luxemburgo
+publishDate: ""
+expiryDate: ""
 Languages:
   - lb
   - de-LU

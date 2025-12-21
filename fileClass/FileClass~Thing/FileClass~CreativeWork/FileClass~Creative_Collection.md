@@ -1,25 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Creative_Collection
+  - FileClass~Creative Collection
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: uFIRCK
-  name: CollectionSize
-  options: {}
-  type: Number
-  path: ''
+  - id: uFIRCK
+    name: CollectionSize
+    options: {}
+    type: Number
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Collection
-- class/Thing/CreativeWork/Collection
-- is_a_/Collection
-- schema-org/Collection
+  - class/Collection
+  - class/Thing/CreativeWork/Collection
+  - is_a_/Collection
+  - schema-org/Collection
 tags:
-- class/FileClass
-- class/Collection
-- is_a_/Collection
-- class/Thing/CreativeWork/Collection
+  - class/FileClass
+  - class/Collection
+  - is_a_/Collection
+  - class/Thing/CreativeWork/Collection
 version: 2.0
 ---
 

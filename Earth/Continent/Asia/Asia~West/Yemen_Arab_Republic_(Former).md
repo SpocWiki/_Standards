@@ -1,9 +1,12 @@
 ---
+aliases:
+  - Yemen_Arab_Republic_(Former)
+  - Yemen Arab Republic (Former)
 confidential: public
 isDeleted: false
 SpocWebEntityId: 76721
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

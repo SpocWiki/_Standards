@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Tarantian Age"
+  - Tarantian Age
+  - Age~4~Late_Pleistocene
+  - Age~4~Late Pleistocene
 ---
 
 # [[Age~4~Late_Pleistocene]] 

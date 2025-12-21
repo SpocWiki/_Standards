@@ -1,24 +1,26 @@
 ---
 aliases:
   - cosmic microwave background
+  - Cosmic_Microwave_Background
+  - Cosmic Microwave Background
 has_id_wikidata: Q15605
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Robert_Wilson,171034]]"
-  - "[[_Standards/WikiData/WD~Arno_Allan_Penzias,172877]]"
+  - '[[_Standards/WikiData/WD~Robert_Wilson,171034]]'
+  - '[[_Standards/WikiData/WD~Arno_Allan_Penzias,172877]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~thermal_radiation,192593]]"
-  - "[[_Standards/WikiData/WD~cosmic_background_radiation,12902765]]"
+  - '[[_Standards/WikiData/WD~thermal_radiation,192593]]'
+  - '[[_Standards/WikiData/WD~cosmic_background_radiation,12902765]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~polarization,193760]]"
-  - "[[_Standards/WikiData/WD~anisotropy,466686]]"
+  - '[[_Standards/WikiData/WD~polarization,193760]]'
+  - '[[_Standards/WikiData/WD~anisotropy,466686]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~astronomical_phenomenon,751989]]"
-  - "[[_Standards/WikiData/WD~electromagnetic_wave,11386]]"
-location_of_discovery: "[[_Standards/WikiData/WD~Crawford_Hill,5182875]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_CMB,6737532]]"
-different_from: "[[_Standards/WikiData/WD~cosmic_background_radiation,12902765]]"
-has_part_s_: "[[_Standards/WikiData/WD~photon,3198]]"
-theorized_by: "[[_Standards/WikiData/WD~George_Gamow,59478]]"
+  - '[[_Standards/WikiData/WD~astronomical_phenomenon,751989]]'
+  - '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Crawford_Hill,5182875]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_CMB,6737532]]'
+different_from: '[[_Standards/WikiData/WD~cosmic_background_radiation,12902765]]'
+has_part_s_: '[[_Standards/WikiData/WD~photon,3198]]'
+theorized_by: '[[_Standards/WikiData/WD~George_Gamow,59478]]'
 redshift: 1090.51
 temperature: 2.72548
 Commons_category: Cosmic microwave background

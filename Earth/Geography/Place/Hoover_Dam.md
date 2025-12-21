@@ -1,47 +1,48 @@
 ---
 aliases:
   - Hoover Dam
+  - Hoover_Dam
 has_id_wikidata: Q172822
 has_use:
-  - "[[_Standards/WikiData/WD~hydroelectricity,80638]]"
-  - "[[_Standards/WikiData/WD~recreational_sport,484937]]"
-  - "[[_Standards/WikiData/WD~flood_control,1187968]]"
-  - "[[_Standards/WikiData/WD~water_storage,7973769]]"
+  - '[[_Standards/WikiData/WD~hydroelectricity,80638]]'
+  - '[[_Standards/WikiData/WD~recreational_sport,484937]]'
+  - '[[_Standards/WikiData/WD~flood_control,1187968]]'
+  - '[[_Standards/WikiData/WD~water_storage,7973769]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Clark_County,108403]]"
-  - "[[_Standards/WikiData/WD~Mohave_County,58696]]"
+  - '[[_Standards/WikiData/WD~Clark_County,108403]]'
+  - '[[_Standards/WikiData/WD~Mohave_County,58696]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~arch_gravity_dam,357679]]"
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~embankment_dam,1244922]]"
-  - "[[_Standards/WikiData/WD~hydroelectric_power_station,15911738]]"
-  - "[[_Standards/WikiData/WD~dam,12323]]"
+  - '[[_Standards/WikiData/WD~arch_gravity_dam,357679]]'
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~embankment_dam,1244922]]'
+  - '[[_Standards/WikiData/WD~hydroelectric_power_station,15911738]]'
+  - '[[_Standards/WikiData/WD~dam,12323]]'
 heritage_designation:
-  - "[[_Standards/WikiData/WD~National_Historic_Landmark,624232]]"
-  - "[[_Standards/WikiData/WD~National_Register_of_Historic_Places_listed_place,19558910]]"
-  - "[[_Standards/WikiData/WD~Historic_Civil_Engineering_Landmark,56637937]]"
+  - '[[_Standards/WikiData/WD~National_Historic_Landmark,624232]]'
+  - '[[_Standards/WikiData/WD~National_Register_of_Historic_Places_listed_place,19558910]]'
+  - '[[_Standards/WikiData/WD~Historic_Civil_Engineering_Landmark,56637937]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~water_turbine,644997]]"
-  - "[[_Standards/WikiData/WD~spillway,911379]]"
-reservoir_created: "[[_Standards/WikiData/WD~Lake_Mead,654515]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Black_Canyon_of_the_Colorado,723581]]"
-operator: "[[_Standards/WikiData/WD~United_States_Bureau_of_Reclamation,1010548]]"
-architect: "[[_Standards/WikiData/WD~Gordon_Kaufmann,5585399]]"
-located_in_protected_area: "[[_Standards/WikiData/WD~Lake_Mead_National_Recreation_Area,6476864]]"
-architectural_style: "[[_Standards/WikiData/WD~Art_Deco_architecture,12720942]]"
+  - '[[_Standards/WikiData/WD~water_turbine,644997]]'
+  - '[[_Standards/WikiData/WD~spillway,911379]]'
+reservoir_created: '[[_Standards/WikiData/WD~Lake_Mead,654515]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Black_Canyon_of_the_Colorado,723581]]'
+operator: '[[_Standards/WikiData/WD~United_States_Bureau_of_Reclamation,1010548]]'
+architect: '[[_Standards/WikiData/WD~Gordon_Kaufmann,5585399]]'
+located_in_protected_area: '[[_Standards/WikiData/WD~Lake_Mead_National_Recreation_Area,6476864]]'
+architectural_style: '[[_Standards/WikiData/WD~Art_Deco_architecture,12720942]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Boulder_Canyon,20714631]]"
-  - "[[_Standards/WikiData/WD~Herbert_Hoover,35236]]"
-drainage_basin: "[[_Standards/WikiData/WD~Colorado_River_drainage_basin,46126990]]"
-different_from: "[[_Standards/WikiData/WD~Lake_Mead_Dam,48991862]]"
+  - '[[_Standards/WikiData/WD~Boulder_Canyon,20714631]]'
+  - '[[_Standards/WikiData/WD~Herbert_Hoover,35236]]'
+drainage_basin: '[[_Standards/WikiData/WD~Colorado_River_drainage_basin,46126990]]'
+different_from: '[[_Standards/WikiData/WD~Lake_Mead_Dam,48991862]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Hoover_Dam_(NV),116740240]]"
-  - "[[_Standards/WikiData/WD~Hoover_Dam_(AZ),116740261]]"
-described_by_source: "[[_Standards/WikiData/WD~Animagraffs,134546865]]"
+  - '[[_Standards/WikiData/WD~Hoover_Dam_(NV),116740240]]'
+  - '[[_Standards/WikiData/WD~Hoover_Dam_(AZ),116740261]]'
+described_by_source: '[[_Standards/WikiData/WD~Animagraffs,134546865]]'
 coordinate_location: Point(-114.737777777 36.015833333)
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Colorado_River,1265]]"
-inflows: "[[_Standards/WikiData/WD~Colorado_River,1265]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Colorado_River,1265]]'
+inflows: '[[_Standards/WikiData/WD~Colorado_River,1265]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 width:
   - 200
   - 14
@@ -54,19 +55,19 @@ height:
   - 221.4
 length: 379
 watershed_area: 435000
-owned_by: "[[_Standards/WikiData/WD~Federal_Government_of_the_United_States,48525]]"
+owned_by: '[[_Standards/WikiData/WD~Federal_Government_of_the_United_States,48525]]'
 nominal_power_output: 2078.8
 annual_energy_output: 25.658
 U_S_National_Archives_Identifier:
-  - "10046540"
-  - "10636728"
-NRHP_reference_number: "81000382"
+  - 10046540
+  - 10636728
+NRHP_reference_number: 81000382
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Hoover%20Dam%20Diagram.png
 native_label: Hoover Dam
 Commons_category: Hoover Dam
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hoover%20dam%20%2829484580111%29.jpg
 official_website: http://www.usbr.gov/lc/hooverdam/
-P8189: "987007565418005171"
+P8189: 987007565418005171
 date_of_official_opening: 1936-01-01T00:00:00Z
 service_entry: 1936-01-01T00:00:00Z
 inception: 1931-01-01T00:00:00Z

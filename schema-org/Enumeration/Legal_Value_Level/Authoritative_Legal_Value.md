@@ -4,21 +4,23 @@ aliases:
   - authoritative_legal_value
   - AuthoritativeLegalValue
   - is_an_authoritative_legal_value
+  - Authoritative_Legal_Value
+  - Authoritative Legal Value
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: LegalValueLevel
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - authoritative_legal_value
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_authoritative_legal_value Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

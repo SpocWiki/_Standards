@@ -1,25 +1,26 @@
 ---
 aliases:
   - Walzen
+  - Rolling(Metalworking)
 has_id_wikidata: Q452648
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~_Kyrgyzstan_national_encyclopedia,16679904]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~_Kyrgyzstan_national_encyclopedia,16679904]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~metalworking,953045]]"
-  - "[[_Standards/WikiData/WD~manufacturing_process,1408288]]"
+  - '[[_Standards/WikiData/WD~metalworking,953045]]'
+  - '[[_Standards/WikiData/WD~manufacturing_process,1408288]]'
 uses:
-  - "[[_Standards/WikiData/WD~rolling_mill,1049792]]"
-  - "[[_Standards/WikiData/WD~roller,95963308]]"
-  - "[[_Standards/WikiData/WD~cylinder,34132]]"
+  - '[[_Standards/WikiData/WD~rolling_mill,1049792]]'
+  - '[[_Standards/WikiData/WD~roller,95963308]]'
+  - '[[_Standards/WikiData/WD~cylinder,34132]]'
 different_from:
-  - "[[_Standards/WikiData/WD~rolling,2192732]]"
-  - "[[_Standards/WikiData/WD~drawing,2997961]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~roll_bender,2973026]]"
-subclass_of: "[[_Standards/WikiData/WD~forming,5470205]]"
+  - '[[_Standards/WikiData/WD~rolling,2192732]]'
+  - '[[_Standards/WikiData/WD~drawing,2997961]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~roll_bender,2973026]]'
+subclass_of: '[[_Standards/WikiData/WD~forming,5470205]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Laminage%20schema%20gene.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Rolling.gif
 Commons_category: Rolling (metalworking)

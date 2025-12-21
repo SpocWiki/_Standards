@@ -1,22 +1,23 @@
 ---
 aliases:
   - Renminbi
+  - yuan
 has_id_wikidata: Q39099
 copyright_holder: "[[_Standards/WikiData/WD~People's_Bank_of_China,249203]]"
 central_bank_issuer: "[[_Standards/WikiData/WD~People's_Bank_of_China,249203]]"
-currency_symbol_description: "[[_Standards/WikiData/WD~_,249321]]"
-named_after: "[[_Standards/WikiData/WD~people,2472587]]"
+currency_symbol_description: '[[_Standards/WikiData/WD~_,249321]]'
+named_after: '[[_Standards/WikiData/WD~people,2472587]]'
 subdivision_of_this_unit:
-  - "[[_Standards/WikiData/WD~jiao,2582418]]"
-  - "[[_Standards/WikiData/WD~Chinese_fen,15139341]]"
-manufacturer: "[[_Standards/WikiData/WD~China_Banknote_Printing_and_Minting_Corporation,5099585]]"
+  - '[[_Standards/WikiData/WD~jiao,2582418]]'
+  - '[[_Standards/WikiData/WD~Chinese_fen,15139341]]'
+manufacturer: '[[_Standards/WikiData/WD~China_Banknote_Printing_and_Minting_Corporation,5099585]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~yuan,25530138]]"
-  - "[[_Standards/WikiData/WD~currency,8142]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
+  - '[[_Standards/WikiData/WD~yuan,25530138]]'
+  - '[[_Standards/WikiData/WD~currency,8142]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
 applies_to_jurisdiction: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-PermID: "500145"
+PermID: 500145
 short_name:
   - Yuan
   - yuan

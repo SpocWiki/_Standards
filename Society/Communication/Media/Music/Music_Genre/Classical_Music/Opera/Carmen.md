@@ -1,64 +1,66 @@
 ---
+aliases:
+  - Carmen
 has_id_wikidata: Q185968
-different_from: "[[_Standards/WikiData/WD~Carmen,225401]]"
+different_from: '[[_Standards/WikiData/WD~Carmen,225401]]'
 derivative_work:
-  - "[[_Standards/WikiData/WD~Carmen,429043]]"
-  - "[[_Standards/WikiData/WD~Carmen_Suite,1995373]]"
-  - "[[_Standards/WikiData/WD~Carmen_Fantasy,3066537]]"
-  - "[[_Standards/WikiData/WD~The_Car_Man,3520202]]"
-  - "[[_Standards/WikiData/WD~Carmen_Fantasie,5043464]]"
-  - "[[_Standards/WikiData/WD~Carmen_(2015),47089559]]"
-  - "[[_Standards/WikiData/WD~Carmen_(1984),52195508]]"
-  - "[[_Standards/WikiData/WD~Carmen_(1924),53796221]]"
-  - "[[_Standards/WikiData/WD~Carmen_(1970_71),57449143]]"
-  - "[[_Standards/WikiData/WD~Carmen_(1971_72),57449152]]"
-  - "[[_Standards/WikiData/WD~Carmen_(1975_76),57449193]]"
-  - "[[_Standards/WikiData/WD~Carmen_(1979_80),57449261]]"
-  - "[[_Standards/WikiData/WD~Carmen_(1981_82),57449306]]"
-  - "[[_Standards/WikiData/WD~Carmen,105038174]]"
+  - '[[_Standards/WikiData/WD~Carmen,429043]]'
+  - '[[_Standards/WikiData/WD~Carmen_Suite,1995373]]'
+  - '[[_Standards/WikiData/WD~Carmen_Fantasy,3066537]]'
+  - '[[_Standards/WikiData/WD~The_Car_Man,3520202]]'
+  - '[[_Standards/WikiData/WD~Carmen_Fantasie,5043464]]'
+  - '[[_Standards/WikiData/WD~Carmen_(2015),47089559]]'
+  - '[[_Standards/WikiData/WD~Carmen_(1984),52195508]]'
+  - '[[_Standards/WikiData/WD~Carmen_(1924),53796221]]'
+  - '[[_Standards/WikiData/WD~Carmen_(1970_71),57449143]]'
+  - '[[_Standards/WikiData/WD~Carmen_(1971_72),57449152]]'
+  - '[[_Standards/WikiData/WD~Carmen_(1975_76),57449193]]'
+  - '[[_Standards/WikiData/WD~Carmen_(1979_80),57449261]]'
+  - '[[_Standards/WikiData/WD~Carmen_(1981_82),57449306]]'
+  - '[[_Standards/WikiData/WD~Carmen,105038174]]'
 genre:
-  - "[[_Standards/WikiData/WD~French_opera,662073]]"
-  - "[[_Standards/WikiData/WD~opéra_comique,785479]]"
-  - "[[_Standards/WikiData/WD~opera,1344]]"
-based_on: "[[_Standards/WikiData/WD~Carmen,674832]]"
+  - '[[_Standards/WikiData/WD~French_opera,662073]]'
+  - '[[_Standards/WikiData/WD~opéra_comique,785479]]'
+  - '[[_Standards/WikiData/WD~opera,1344]]'
+based_on: '[[_Standards/WikiData/WD~Carmen,674832]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Habanera,692648]]"
-  - "[[_Standards/WikiData/WD~Toreador_Song,6150784]]"
+  - '[[_Standards/WikiData/WD~Habanera,692648]]'
+  - '[[_Standards/WikiData/WD~Toreador_Song,6150784]]'
 librettist:
-  - "[[_Standards/WikiData/WD~Ludovic_Halévy,723585]]"
-  - "[[_Standards/WikiData/WD~Henri_Meilhac,723648]]"
-location_of_first_performance: "[[_Standards/WikiData/WD~Opéra_Comique,872222]]"
-discography: "[[_Standards/WikiData/WD~Carmen_discography,5043623]]"
+  - '[[_Standards/WikiData/WD~Ludovic_Halévy,723585]]'
+  - '[[_Standards/WikiData/WD~Henri_Meilhac,723648]]'
+location_of_first_performance: '[[_Standards/WikiData/WD~Opéra_Comique,872222]]'
+discography: '[[_Standards/WikiData/WD~Carmen_discography,5043623]]'
 characters:
-  - "[[_Standards/WikiData/WD~Carmen,18123205]]"
-  - "[[_Standards/WikiData/WD~Don_José,24932876]]"
-  - "[[_Standards/WikiData/WD~Carmen,50386809]]"
-  - "[[_Standards/WikiData/WD~Escamillo,55000455]]"
-  - "[[_Standards/WikiData/WD~Le_Dancaïre,55000462]]"
-  - "[[_Standards/WikiData/WD~Le_Remendado,55000463]]"
-  - "[[_Standards/WikiData/WD~Moralès,55000468]]"
-  - "[[_Standards/WikiData/WD~Zuniga,55000472]]"
-  - "[[_Standards/WikiData/WD~Lillas_Pastia,55000484]]"
-  - "[[_Standards/WikiData/WD~Micaëla,55000496]]"
-  - "[[_Standards/WikiData/WD~Frasquita,55000500]]"
-  - "[[_Standards/WikiData/WD~Mercédès,55000505]]"
-  - "[[_Standards/WikiData/WD~A_guide,63487180]]"
-instance_of: "[[_Standards/WikiData/WD~dramatico_musical_work,58483083]]"
+  - '[[_Standards/WikiData/WD~Carmen,18123205]]'
+  - '[[_Standards/WikiData/WD~Don_José,24932876]]'
+  - '[[_Standards/WikiData/WD~Carmen,50386809]]'
+  - '[[_Standards/WikiData/WD~Escamillo,55000455]]'
+  - '[[_Standards/WikiData/WD~Le_Dancaïre,55000462]]'
+  - '[[_Standards/WikiData/WD~Le_Remendado,55000463]]'
+  - '[[_Standards/WikiData/WD~Moralès,55000468]]'
+  - '[[_Standards/WikiData/WD~Zuniga,55000472]]'
+  - '[[_Standards/WikiData/WD~Lillas_Pastia,55000484]]'
+  - '[[_Standards/WikiData/WD~Micaëla,55000496]]'
+  - '[[_Standards/WikiData/WD~Frasquita,55000500]]'
+  - '[[_Standards/WikiData/WD~Mercédès,55000505]]'
+  - '[[_Standards/WikiData/WD~A_guide,63487180]]'
+instance_of: '[[_Standards/WikiData/WD~dramatico_musical_work,58483083]]'
 date_of_first_performance: 1875-03-03T00:00:00Z
 inception: 1875-01-01T00:00:00Z
 production_date: 1874-01-01T00:00:00Z
 publication_date: 1850-01-01T00:00:00Z
-form_of_creative_work: "[[_Standards/WikiData/WD~opera,1344]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-narrative_locations: "[[_Standards/WikiData/WD~Spain,29]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~French,150]]"
+form_of_creative_work: '[[_Standards/WikiData/WD~opera,1344]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+narrative_locations: '[[_Standards/WikiData/WD~Spain,29]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~French,150]]'
 number_of_parts_of_this_work: 4
-composer: "[[_Standards/WikiData/WD~Georges_Bizet,56158]]"
-author: "[[_Standards/WikiData/WD~Georges_Bizet,56158]]"
+composer: '[[_Standards/WikiData/WD~Georges_Bizet,56158]]'
+author: '[[_Standards/WikiData/WD~Georges_Bizet,56158]]'
 Commons_category: Carmen
 title: Jorge
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Carmen%20-%20illustration%20by%20Luc%20for%20Journal%20Amusant%201911.jpg
-P8189: "987007576872505171"
+P8189: 987007576872505171
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "BizetsCarmenPremiersParis"]
 ---
 

@@ -1,39 +1,40 @@
 ---
 aliases:
   - Le Monde
+  - Le_Monde
 has_id_wikidata: Q12461
 founded_by:
-  - "[[_Standards/WikiData/WD~Hubert_Beuve_Méry,84021]]"
-  - "[[_Standards/WikiData/WD~Christian_Funck_Brentano,40085534]]"
-  - "[[_Standards/WikiData/WD~René_Courtin,115717465]]"
+  - '[[_Standards/WikiData/WD~Hubert_Beuve_Méry,84021]]'
+  - '[[_Standards/WikiData/WD~Christian_Funck_Brentano,40085534]]'
+  - '[[_Standards/WikiData/WD~René_Courtin,115717465]]'
 source_of_income:
-  - "[[_Standards/WikiData/WD~subsidy,193219]]"
-  - "[[_Standards/WikiData/WD~subscription_business_model,322948]]"
-  - "[[_Standards/WikiData/WD~advertising,37038]]"
-political_ideology: "[[_Standards/WikiData/WD~social_liberalism,201712]]"
-replaces: "[[_Standards/WikiData/WD~Le_Temps,639137]]"
-newspaper_format: "[[_Standards/WikiData/WD~Berliner,669935]]"
-political_alignment: "[[_Standards/WikiData/WD~centre_left,737014]]"
+  - '[[_Standards/WikiData/WD~subsidy,193219]]'
+  - '[[_Standards/WikiData/WD~subscription_business_model,322948]]'
+  - '[[_Standards/WikiData/WD~advertising,37038]]'
+political_ideology: '[[_Standards/WikiData/WD~social_liberalism,201712]]'
+replaces: '[[_Standards/WikiData/WD~Le_Temps,639137]]'
+newspaper_format: '[[_Standards/WikiData/WD~Berliner,669935]]'
+political_alignment: '[[_Standards/WikiData/WD~centre_left,737014]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~daily_newspaper,1110794]]"
-  - "[[_Standards/WikiData/WD~online_newspaper,1153191]]"
-headquarters_locations: "[[_Standards/WikiData/WD~avenue_Pierre_Mendès_France,2873810]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~Groupe_Le_Monde,3117473]]"
-editor_in_chief: "[[_Standards/WikiData/WD~Marie_Pierre_Lannelongue,3292217]]"
-industry: "[[_Standards/WikiData/WD~publishing,3972943]]"
-editor: "[[_Standards/WikiData/WD~Jérôme_Fenoglio,17154220]]"
-owner_of: "[[_Standards/WikiData/WD~Les_décodeurs,28649970]]"
-participant_in: "[[_Standards/WikiData/WD~The_Daphne_Project,65118648]]"
-publisher: "[[_Standards/WikiData/WD~Societe_Editrice_Du_Monde,67146272]]"
-award_received: "[[_Standards/WikiData/WD~Golden_visa_for_digital_information_franceinfo,98905185]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - '[[_Standards/WikiData/WD~daily_newspaper,1110794]]'
+  - '[[_Standards/WikiData/WD~online_newspaper,1153191]]'
+headquarters_locations: '[[_Standards/WikiData/WD~avenue_Pierre_Mendès_France,2873810]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~Groupe_Le_Monde,3117473]]'
+editor_in_chief: '[[_Standards/WikiData/WD~Marie_Pierre_Lannelongue,3292217]]'
+industry: '[[_Standards/WikiData/WD~publishing,3972943]]'
+editor: '[[_Standards/WikiData/WD~Jérôme_Fenoglio,17154220]]'
+owner_of: '[[_Standards/WikiData/WD~Les_décodeurs,28649970]]'
+participant_in: '[[_Standards/WikiData/WD~The_Daphne_Project,65118648]]'
+publisher: '[[_Standards/WikiData/WD~Societe_Editrice_Du_Monde,67146272]]'
+award_received: '[[_Standards/WikiData/WD~Golden_visa_for_digital_information_franceinfo,98905185]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 Wikidata_property:
   - Le Monde ID
   - Le Monde journalist ID
-place_of_publication: "[[_Standards/WikiData/WD~Paris,90]]"
-country_of_origin: "[[_Standards/WikiData/WD~France,142]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~French,150]]"
+place_of_publication: '[[_Standards/WikiData/WD~Paris,90]]'
+country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~French,150]]'
 publication_interval: 1
 social_media_followers:
   - 1960000
@@ -47,7 +48,7 @@ ISSN:
   - 1284-1250
 title: Le Monde
 ISSN_L: 0395-2037
-OCLC_number: "1758539"
+OCLC_number: 1758539
 official_website: https://www.lemonde.fr
 domain_name: lemonde.fr
 Bluesky_handle: lemonde.fr
@@ -57,8 +58,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/EmbeTattoohand1968.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Monde.svg
 web_feed_URL: https://www.lemonde.fr/rss/une.xml
 SUDOC_editions:
-  - "039569357"
-  - "166197947"
+  - 039569357
+  - 166197947
 Reddit_username:
   - LeMonde_en
   - LeMonde_fr

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ControlAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ControlAction
-- class/Thing/Action/ControlAction
-- is_a_/ControlAction
-- schema-org/ControlAction
+  - class/ControlAction
+  - class/Thing/Action/ControlAction
+  - is_a_/ControlAction
+  - schema-org/ControlAction
 tags:
-- class/FileClass
-- class/ControlAction
-- is_a_/ControlAction
-- class/Thing/Action/ControlAction
+  - class/FileClass
+  - class/ControlAction
+  - is_a_/ControlAction
+  - class/Thing/Action/ControlAction
 version: 2.0
 ---
 

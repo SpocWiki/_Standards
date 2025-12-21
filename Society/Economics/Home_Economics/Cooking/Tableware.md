@@ -2,6 +2,7 @@
 aliases:
   - Geschirr
   - dishware
+  - Tableware
 has_id_wikidata: Q851782
 ---
 

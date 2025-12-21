@@ -1,13 +1,14 @@
 ---
 aliases:
   - StackOverflow-Question
-  - 
+  - ''
+  - StackOverflow~Question
 confidential: private
 cssclasses:
   - private
   - note
 draft: true
-expiryDate:
+expiryDate: ''
 has_time_started: 2023-11-13
 isDeleted: false
 isReadOnly: false
@@ -15,12 +16,12 @@ Key: Value
 keywords:
   - StackOverflow-Question
 lang: en
-layout:
+layout: ''
 license: (c)copyrighted
 linkTitle: StackOverflow-Question
-Predicate: "[[Object]]"
+Predicate: '[[Object]]'
 publish: false
-publishDate:
+publishDate: ''
 tags:
   - StackOverflow-Question
   - rather use

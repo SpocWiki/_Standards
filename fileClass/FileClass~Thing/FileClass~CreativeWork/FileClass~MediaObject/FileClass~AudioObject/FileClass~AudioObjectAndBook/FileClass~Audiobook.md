@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Audiobook
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject/FileClass~AudioObjectAndBook
 fields:
-- id: vj2KbC
-  name: ReadBy
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
+  - id: vj2KbC
+    name: ReadBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Audiobook
-- class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook/Audiobook
-- is_an_/Audiobook
-- schema-org/Audiobook
+  - class/Audiobook
+  - class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook/Audiobook
+  - is_an_/Audiobook
+  - schema-org/Audiobook
 tags:
-- class/FileClass
-- class/Audiobook
-- '#is_an_/Audiobook'
-- class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook/Audiobook
+  - class/FileClass
+  - class/Audiobook
+  - '#is_an_/Audiobook'
+  - class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook/Audiobook
 version: 2.0
 ---
 

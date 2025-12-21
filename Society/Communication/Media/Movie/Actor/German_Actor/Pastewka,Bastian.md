@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Bastian Pastewka"
+  - Bastian Pastewka
+  - Pastewka,Bastian
 ---
 
 #has_/time_/started :: 1972-04-04 

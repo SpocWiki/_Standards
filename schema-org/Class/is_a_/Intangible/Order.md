@@ -8,18 +8,18 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 fileClass:
   - FileClass-Class
 isDeleted: false
 isReadOnly: false
 keywords:
   - order
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_order Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

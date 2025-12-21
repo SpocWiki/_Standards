@@ -4,20 +4,22 @@ aliases:
   - funding_scheme
   - FundingScheme
   - is_a_funding_scheme
+  - Funding_Scheme
+  - Funding Scheme
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - funding_scheme
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_funding_scheme Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

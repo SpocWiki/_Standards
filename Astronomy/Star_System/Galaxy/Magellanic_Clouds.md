@@ -3,25 +3,26 @@ aliases:
   - Magellanic Clouds
   - Magellanic system
   - Nubeculae Magellani
+  - Magellanic_Clouds
 has_id_wikidata: Q50028
-subclass_of: "[[_Standards/WikiData/WD~dwarf_galaxy,190438]]"
+subclass_of: '[[_Standards/WikiData/WD~dwarf_galaxy,190438]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-instance_of: "[[_Standards/WikiData/WD~galaxy_group,1491746]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~galaxy_group,1491746]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Milky_Way_subgroup,18424563]]"
-  - "[[_Standards/WikiData/WD~Local_Group,3944]]"
-named_after: "[[_Standards/WikiData/WD~Ferdinand_Magellan,1496]]"
+  - '[[_Standards/WikiData/WD~Milky_Way_subgroup,18424563]]'
+  - '[[_Standards/WikiData/WD~Local_Group,3944]]'
+named_after: '[[_Standards/WikiData/WD~Ferdinand_Magellan,1496]]'
 declination: -71
 right_ascension: 45
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Large_Magellanic_Cloud,49957]]"
-  - "[[_Standards/WikiData/WD~Small_Magellanic_Cloud,49984]]"
+  - '[[_Standards/WikiData/WD~Large_Magellanic_Cloud,49957]]'
+  - '[[_Standards/WikiData/WD~Small_Magellanic_Cloud,49984]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Magellanic%20Clouds%20%E2%80%95%20Irregular%20Dwarf%20Galaxies.jpg
 Commons_category: Magellanic Clouds
 ---

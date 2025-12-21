@@ -1,30 +1,32 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ConstraintNode
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: Q3oRdg
-  name: ConstraintProperty
-  options: {}
-  type: Input
-  path: ''
-- id: fKm1Ze
-  name: NumConstraints
-  options: {}
-  type: Number
-  path: ''
+  - id: Q3oRdg
+    name: ConstraintProperty
+    options: {}
+    type: Input
+    path: ''
+  - id: fKm1Ze
+    name: NumConstraints
+    options: {}
+    type: Number
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ConstraintNode
-- class/Thing/Intangible/ConstraintNode
-- is_a_/ConstraintNode
-- schema-org/ConstraintNode
+  - class/ConstraintNode
+  - class/Thing/Intangible/ConstraintNode
+  - is_a_/ConstraintNode
+  - schema-org/ConstraintNode
 tags:
-- class/FileClass
-- class/ConstraintNode
-- is_a_/ConstraintNode
-- class/Thing/Intangible/ConstraintNode
+  - class/FileClass
+  - class/ConstraintNode
+  - is_a_/ConstraintNode
+  - class/Thing/Intangible/ConstraintNode
 version: 2.0
 ---
 

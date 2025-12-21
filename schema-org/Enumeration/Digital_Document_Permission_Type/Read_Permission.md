@@ -4,21 +4,23 @@ aliases:
   - read_permission
   - ReadPermission
   - is_a_read_permission
+  - Read_Permission
+  - Read Permission
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: DigitalDocumentPermissionType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - read_permission
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_read_permission Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

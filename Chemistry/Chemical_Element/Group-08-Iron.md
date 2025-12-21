@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Group-08-Iron
 type: ElementGroup
 ---
 

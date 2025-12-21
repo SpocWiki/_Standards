@@ -2,50 +2,51 @@
 aliases:
   - Dome of the Rock
   - Felsendom
+  - Dome_of_the_Rock
 has_id_wikidata: Q41470
 instance_of:
-  - "[[_Standards/WikiData/WD~region,82794]]"
-  - "[[_Standards/WikiData/WD~great_homeland,3115110]]"
-  - "[[_Standards/WikiData/WD~cultural_region,3502482]]"
+  - '[[_Standards/WikiData/WD~region,82794]]'
+  - '[[_Standards/WikiData/WD~great_homeland,3115110]]'
+  - '[[_Standards/WikiData/WD~cultural_region,3502482]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Kurdistan,1572706]]"
+  - '[[_Standards/WikiData/WD~Kurdistan,1572706]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Iranian_Kurdistan,2041508]]"
-  - "[[_Standards/WikiData/WD~Turkish_Kurdistan,3240533]]"
-  - "[[_Standards/WikiData/WD~Iraqi_Kurdistan,66711956]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Kurdistan,6994330]]"
+  - '[[_Standards/WikiData/WD~Iranian_Kurdistan,2041508]]'
+  - '[[_Standards/WikiData/WD~Turkish_Kurdistan,3240533]]'
+  - '[[_Standards/WikiData/WD~Iraqi_Kurdistan,66711956]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Kurdistan,6994330]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Turkish,256]]"
-  - "[[_Standards/WikiData/WD~Persian,9168]]"
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
-  - "[[_Standards/WikiData/WD~Kurdish,36368]]"
+  - '[[_Standards/WikiData/WD~Turkish,256]]'
+  - '[[_Standards/WikiData/WD~Persian,9168]]'
+  - '[[_Standards/WikiData/WD~Arabic,13955]]'
+  - '[[_Standards/WikiData/WD~Kurdish,36368]]'
 country:
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Iraq,796]]"
-  - "[[_Standards/WikiData/WD~Syria,858]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Middle_East,7204]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+  - '[[_Standards/WikiData/WD~Iran,794]]'
+  - '[[_Standards/WikiData/WD~Iraq,796]]'
+  - '[[_Standards/WikiData/WD~Syria,858]]'
+  - '[[_Standards/WikiData/WD~Turkey,43]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Middle_East,7204]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 coordinate_location: Point(43.54980469 37.558513)
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kurdistan.svg
 Commons_category: Kurdistan
 native_label:
   - کوردستان
   - Kurdistan
-U_S_National_Archives_Identifier: "10037027"
+U_S_National_Archives_Identifier: 10037027
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kurdish%20inhabited%20areas.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Kurdistan%20banner%20Lake%20Dukan.jpeg
-WOEID: "55966782"
-P8189: "987007548476705171"
+WOEID: 55966782
+P8189: 987007548476705171
 subreddit:
   - kurdistan
 demonym:

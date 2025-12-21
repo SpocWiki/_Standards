@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~EndorseAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction
 fields:
-- id: y4RMPV
-  name: Endorsee
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
+  - id: y4RMPV
+    name: Endorsee
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/EndorseAction
-- class/Thing/Action/AssessAction/ReactAction/EndorseAction
-- is_an_/EndorseAction
-- schema-org/EndorseAction
+  - class/EndorseAction
+  - class/Thing/Action/AssessAction/ReactAction/EndorseAction
+  - is_an_/EndorseAction
+  - schema-org/EndorseAction
 tags:
-- class/FileClass
-- class/EndorseAction
-- '#is_an_/EndorseAction'
-- class/Thing/Action/AssessAction/ReactAction/EndorseAction
+  - class/FileClass
+  - class/EndorseAction
+  - '#is_an_/EndorseAction'
+  - class/Thing/Action/AssessAction/ReactAction/EndorseAction
 version: 2.0
 ---
 

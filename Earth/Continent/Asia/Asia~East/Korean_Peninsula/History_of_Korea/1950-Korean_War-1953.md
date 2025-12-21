@@ -1,6 +1,8 @@
 ---
 aliases:
   - Korean War
+  - 1950-Korean_War-1953
+  - 1950-Korean War-1953
 has_id_wikidata: Q8663
 Baidu_Tieba_name: 抗美援朝
 native_label:
@@ -15,50 +17,50 @@ native_label:
   - 抗美援朝戰爭
   - 朝鮮戰爭
 located_in_on_physical_feature:
-  - "[[_Standards/WikiData/WD~Korean_Peninsula,483134]]"
-  - "[[_Standards/WikiData/WD~China_North_Korea_border,1060616]]"
-  - "[[_Standards/WikiData/WD~Sea_of_Japan,27092]]"
-  - "[[_Standards/WikiData/WD~Yellow_Sea,37960]]"
-  - "[[_Standards/WikiData/WD~Korea_Strait,52052]]"
+  - '[[_Standards/WikiData/WD~Korean_Peninsula,483134]]'
+  - '[[_Standards/WikiData/WD~China_North_Korea_border,1060616]]'
+  - '[[_Standards/WikiData/WD~Sea_of_Japan,27092]]'
+  - '[[_Standards/WikiData/WD~Yellow_Sea,37960]]'
+  - '[[_Standards/WikiData/WD~Korea_Strait,52052]]'
 location:
-  - "[[_Standards/WikiData/WD~Korean_Peninsula,483134]]"
-  - "[[_Standards/WikiData/WD~Sea_of_Japan,27092]]"
-  - "[[_Standards/WikiData/WD~Korea_Strait,52052]]"
+  - '[[_Standards/WikiData/WD~Korean_Peninsula,483134]]'
+  - '[[_Standards/WikiData/WD~Sea_of_Japan,27092]]'
+  - '[[_Standards/WikiData/WD~Korea_Strait,52052]]'
 order_of_battle:
-  - "[[_Standards/WikiData/WD~Australian_Korean_War_order_of_battle,4824360]]"
-  - "[[_Standards/WikiData/WD~Korean_War_order_of_battle,6431947]]"
-  - "[[_Standards/WikiData/WD~U.S._Eighth_Army_Korean_War_order_of_battle,7863171]]"
-  - "[[_Standards/WikiData/WD~U.S._Seventh_Fleet_Korean_War_order_of_battle,7863410]]"
+  - '[[_Standards/WikiData/WD~Australian_Korean_War_order_of_battle,4824360]]'
+  - '[[_Standards/WikiData/WD~Korean_War_order_of_battle,6431947]]'
+  - '[[_Standards/WikiData/WD~U.S._Eighth_Army_Korean_War_order_of_battle,7863171]]'
+  - '[[_Standards/WikiData/WD~U.S._Seventh_Fleet_Korean_War_order_of_battle,7863410]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Campaignbox_Korean_War,6855994]]"
-  - "[[_Standards/WikiData/WD~Template_Korean_War,19274316]]"
+  - '[[_Standards/WikiData/WD~Template_Campaignbox_Korean_War,6855994]]'
+  - '[[_Standards/WikiData/WD~Template_Korean_War,19274316]]'
 participant:
-  - "[[_Standards/WikiData/WD~South_Africa,258]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~New_Zealand,664]]"
-  - "[[_Standards/WikiData/WD~Colombia,739]]"
-  - "[[_Standards/WikiData/WD~Thailand,869]]"
-  - "[[_Standards/WikiData/WD~South_Korea,884]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Belgium,31]]"
-  - "[[_Standards/WikiData/WD~Luxembourg,32]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
-  - "[[_Standards/WikiData/WD~Netherlands,55]]"
-  - "[[_Standards/WikiData/WD~Ethiopia,115]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~South_Africa,258]]'
+  - '[[_Standards/WikiData/WD~Australia,408]]'
+  - '[[_Standards/WikiData/WD~North_Korea,423]]'
+  - '[[_Standards/WikiData/WD~New_Zealand,664]]'
+  - '[[_Standards/WikiData/WD~Colombia,739]]'
+  - '[[_Standards/WikiData/WD~Thailand,869]]'
+  - '[[_Standards/WikiData/WD~South_Korea,884]]'
+  - '[[_Standards/WikiData/WD~Philippines,928]]'
+  - '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+  - '[[_Standards/WikiData/WD~Canada,16]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Belgium,31]]'
+  - '[[_Standards/WikiData/WD~Luxembourg,32]]'
+  - '[[_Standards/WikiData/WD~Turkey,43]]'
+  - '[[_Standards/WikiData/WD~Greece,41]]'
+  - '[[_Standards/WikiData/WD~Netherlands,55]]'
+  - '[[_Standards/WikiData/WD~Ethiopia,115]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 country:
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~South_Korea,884]]"
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
-has_cause: "[[_Standards/WikiData/WD~Kim_Il_sung,41117]]"
-U_S_National_Archives_Identifier: "10637595"
+  - '[[_Standards/WikiData/WD~North_Korea,423]]'
+  - '[[_Standards/WikiData/WD~South_Korea,884]]'
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
+has_cause: '[[_Standards/WikiData/WD~Kim_Il_sung,41117]]'
+U_S_National_Archives_Identifier: 10637595
 BHCL_UUID: f3248a99-abc8-4050-9692-bad3f83a5164
 end_time: 1953-07-27T00:00:00Z
 start_time: 1950-06-25T00:00:00Z

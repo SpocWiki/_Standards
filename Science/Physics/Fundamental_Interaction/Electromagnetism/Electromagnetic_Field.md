@@ -1,8 +1,10 @@
 ---
 aliases:
-  - electromagnetic field 
-  - elektromagnetisches Feld 
+  - electromagnetic field
+  - elektromagnetisches Feld
   - EM field
+  - Electromagnetic_Field
+  - Electromagnetic Field
 has_id_wikidata: Q177625
 ---
 

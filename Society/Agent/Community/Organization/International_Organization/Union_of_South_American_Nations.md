@@ -2,53 +2,54 @@
 aliases:
   - Union of South American Nations
   - South American Union
+  - Union_of_South_American_Nations
 has_id_wikidata: Q4230
 instance_of:
-  - "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
-  - "[[_Standards/WikiData/WD~regional_organization,4120211]]"
+  - '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
+  - '[[_Standards/WikiData/WD~regional_organization,4120211]]'
 child_organization_or_unit:
-  - "[[_Standards/WikiData/WD~South_American_Parliament,3069892]]"
-  - "[[_Standards/WikiData/WD~South_American_Energy_Council,4809543]]"
-  - "[[_Standards/WikiData/WD~South_American_Council_of_Health,5577321]]"
-  - "[[_Standards/WikiData/WD~Q5783966,5783966]]"
-  - "[[_Standards/WikiData/WD~Q5783975,5783975]]"
-  - "[[_Standards/WikiData/WD~Q5783973,5783973]]"
-  - "[[_Standards/WikiData/WD~Q5784026,5784026]]"
-  - "[[_Standards/WikiData/WD~Council_of_South_American_Defense,6425609]]"
-  - "[[_Standards/WikiData/WD~South_American_Council_of_Social_Development,116195793]]"
-  - "[[_Standards/WikiData/WD~South_American_Council_of_Education,123992005]]"
-  - "[[_Standards/WikiData/WD~South_American_Science,_Technology_and_Innovation_Council,123992140]]"
-  - "[[_Standards/WikiData/WD~South_American_Council_of_Culture,123992141]]"
-flag: "[[_Standards/WikiData/WD~flag_of_the_Union_of_South_American_Nations,3305123]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Union_of_South_American_Nations_topics,7470218]]"
-facet_of: "[[_Standards/WikiData/WD~South_American_integration,10303026]]"
+  - '[[_Standards/WikiData/WD~South_American_Parliament,3069892]]'
+  - '[[_Standards/WikiData/WD~South_American_Energy_Council,4809543]]'
+  - '[[_Standards/WikiData/WD~South_American_Council_of_Health,5577321]]'
+  - '[[_Standards/WikiData/WD~Q5783966,5783966]]'
+  - '[[_Standards/WikiData/WD~Q5783975,5783975]]'
+  - '[[_Standards/WikiData/WD~Q5783973,5783973]]'
+  - '[[_Standards/WikiData/WD~Q5784026,5784026]]'
+  - '[[_Standards/WikiData/WD~Council_of_South_American_Defense,6425609]]'
+  - '[[_Standards/WikiData/WD~South_American_Council_of_Social_Development,116195793]]'
+  - '[[_Standards/WikiData/WD~South_American_Council_of_Education,123992005]]'
+  - '[[_Standards/WikiData/WD~South_American_Science,_Technology_and_Innovation_Council,123992140]]'
+  - '[[_Standards/WikiData/WD~South_American_Council_of_Culture,123992141]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_Union_of_South_American_Nations,3305123]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Union_of_South_American_Nations_topics,7470218]]'
+facet_of: '[[_Standards/WikiData/WD~South_American_integration,10303026]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~Venezuela,717]]"
-  - "[[_Standards/WikiData/WD~Suriname,730]]"
-  - "[[_Standards/WikiData/WD~Guyana,734]]"
-  - "[[_Standards/WikiData/WD~Paraguay,733]]"
-  - "[[_Standards/WikiData/WD~Colombia,739]]"
-  - "[[_Standards/WikiData/WD~Ecuador,736]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-  - "[[_Standards/WikiData/WD~Uruguay,77]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
+  - '[[_Standards/WikiData/WD~Chile,298]]'
+  - '[[_Standards/WikiData/WD~Argentina,414]]'
+  - '[[_Standards/WikiData/WD~Peru,419]]'
+  - '[[_Standards/WikiData/WD~Venezuela,717]]'
+  - '[[_Standards/WikiData/WD~Suriname,730]]'
+  - '[[_Standards/WikiData/WD~Guyana,734]]'
+  - '[[_Standards/WikiData/WD~Paraguay,733]]'
+  - '[[_Standards/WikiData/WD~Colombia,739]]'
+  - '[[_Standards/WikiData/WD~Ecuador,736]]'
+  - '[[_Standards/WikiData/WD~Bolivia,750]]'
+  - '[[_Standards/WikiData/WD~Uruguay,77]]'
+  - '[[_Standards/WikiData/WD~Brazil,155]]'
 official_language:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Portuguese,5146]]"
-  - "[[_Standards/WikiData/WD~Dutch,7411]]"
-headquarters_location: "[[_Standards/WikiData/WD~Quito,2900]]"
-continent: "[[_Standards/WikiData/WD~South_America,18]]"
-official_observer_status_in_organization: "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
+  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Portuguese,5146]]'
+  - '[[_Standards/WikiData/WD~Dutch,7411]]'
+headquarters_location: '[[_Standards/WikiData/WD~Quito,2900]]'
+continent: '[[_Standards/WikiData/WD~South_America,18]]'
+official_observer_status_in_organization: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20UNASUR.svg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20the%20Union%20of%20South%20American%20Nations.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Unasul%2012.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Union%20of%20South%20American%20Nations%20%28orthographic%20projection%29.svg
 official_website: https://www.unasursg.org/
-ISNI: "0000000121911725"
+ISNI: 0000000121911725
 Libris_URI: 64jmtzdq38ttd1f
 EU_Corporate_body_code: UNASUR
 X_Twitter_username: UNASURsg

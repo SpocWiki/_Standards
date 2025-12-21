@@ -1,15 +1,16 @@
 ---
 aliases:
   - Supraflüssigkeit
+  - Superfluidity
 has_id_wikidata: Q106667
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Pyotr_Kapitsa,172844]]"
-  - "[[_Standards/WikiData/WD~John_F._Allen,4062575]]"
-different_from: "[[_Standards/WikiData/WD~supercritical_fluid,682585]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - '[[_Standards/WikiData/WD~Pyotr_Kapitsa,172844]]'
+  - '[[_Standards/WikiData/WD~John_F._Allen,4062575]]'
+different_from: '[[_Standards/WikiData/WD~supercritical_fluid,682585]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~macroscopic_quantum_phenomena,3457198]]"
-  - "[[_Standards/WikiData/WD~non_classical_state_of_matter,15831577]]"
+  - '[[_Standards/WikiData/WD~macroscopic_quantum_phenomena,3457198]]'
+  - '[[_Standards/WikiData/WD~non_classical_state_of_matter,15831577]]'
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Helium-II-creep.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Liquid%20Helium%20II%20-%20The%20Superfluid.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Liquid%20helium%20Rollin%20film.jpg

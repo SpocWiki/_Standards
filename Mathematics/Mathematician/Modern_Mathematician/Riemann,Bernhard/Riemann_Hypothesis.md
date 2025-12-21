@@ -2,15 +2,17 @@
 aliases:
   - Riemann hypothesis
   - Riemann conjecture
+  - Riemann_Hypothesis
+  - Riemann Hypothesis
 has_id_wikidata: Q205966
 instance_of:
-  - "[[_Standards/WikiData/WD~conjecture,319141]]"
-  - "[[_Standards/WikiData/WD~mathematical_problem,1166625]]"
+  - '[[_Standards/WikiData/WD~conjecture,319141]]'
+  - '[[_Standards/WikiData/WD~mathematical_problem,1166625]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Millennium_Problems,727000]]"
-  - "[[_Standards/WikiData/WD~list_of_theorems,944443]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-named_after: "[[_Standards/WikiData/WD~Bernhard_Riemann,42299]]"
+  - '[[_Standards/WikiData/WD~Millennium_Problems,727000]]'
+  - '[[_Standards/WikiData/WD~list_of_theorems,944443]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+named_after: '[[_Standards/WikiData/WD~Bernhard_Riemann,42299]]'
 Wolfram_Language_entity_code: Entity["FamousMathProblem", "RiemannHypothesis"]
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hipoteza%20Riemanna.mp3
 image: http://commons.wikimedia.org/wiki/Special:FilePath/VignetteRiemannHypothesis.svg

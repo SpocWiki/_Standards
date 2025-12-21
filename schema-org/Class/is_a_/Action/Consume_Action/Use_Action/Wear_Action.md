@@ -4,20 +4,22 @@ aliases:
   - wear_action
   - WearAction
   - is_a_wear_action
+  - Wear_Action
+  - Wear Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wear_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wear_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

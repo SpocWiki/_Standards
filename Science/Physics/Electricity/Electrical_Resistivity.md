@@ -1,8 +1,10 @@
 ---
 aliases:
   - spezifischer Widerstand
-  - volume resistivity 
+  - volume resistivity
   - specific electrical resistance
+  - Electrical_Resistivity
+  - Electrical Resistivity
 has_id_wikidata: Q108193
 subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"

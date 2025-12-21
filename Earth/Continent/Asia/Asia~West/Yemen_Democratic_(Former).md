@@ -1,9 +1,12 @@
 ---
+aliases:
+  - Yemen_Democratic_(Former)
+  - Yemen Democratic (Former)
 confidential: public
 isDeleted: false
 SpocWebEntityId: 76722
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

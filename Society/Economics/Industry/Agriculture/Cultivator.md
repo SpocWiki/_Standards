@@ -2,21 +2,22 @@
 aliases:
   - Kultivator
   - rotavator
+  - Cultivator
 has_id_wikidata: Q1273840
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~garden_tool,1494647]]"
-  - "[[_Standards/WikiData/WD~agricultural_tool,3629395]]"
-  - "[[_Standards/WikiData/WD~tillage_machine,15306431]]"
-different_from: "[[_Standards/WikiData/WD~Cultivateur,20659687]]"
-source_of_energy: "[[_Standards/WikiData/WD~tractor,39495]]"
+  - '[[_Standards/WikiData/WD~garden_tool,1494647]]'
+  - '[[_Standards/WikiData/WD~agricultural_tool,3629395]]'
+  - '[[_Standards/WikiData/WD~tillage_machine,15306431]]'
+different_from: '[[_Standards/WikiData/WD~Cultivateur,20659687]]'
+source_of_energy: '[[_Standards/WikiData/WD~tractor,39495]]'
 Nomenclature_for_Museum_Cataloging:
-  - "3180"
-  - "3181"
+  - 3180
+  - 3181
 Commons_category: Cultivators
-Dewey_Decimal_Classification: "631.51"
+Dewey_Decimal_Classification: 631.51
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tandeg.jpg
-UNSPSC_Code: "21101503"
+UNSPSC_Code: 21101503
 Commons_gallery: Cultivator
 ---
 

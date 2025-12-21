@@ -4,22 +4,24 @@ aliases:
   - recommendation_strength
   - recommendationStrength
   - has_text_of_recommendation_strength
+  - has_recommendation_strength
+  - has recommendation strength
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - recommendation
   - strength
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_recommendation_strength
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

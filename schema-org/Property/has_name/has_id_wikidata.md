@@ -1,27 +1,28 @@
 ---
 aliases:
-- has_id_wikidata
-- "wikidata Entity-ID"
-- QID
+  - has_id_wikidata
+  - wikidata Entity-ID
+  - QID
+  - has id wikidata
 confidential: public
 cssclasses:
-- Predicate
-- Text
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- global
-- id
-layout: 
-license: "CC BY-SA 4.0"
+  - global
+  - id
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_id_wikidata
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_wikidata
 type: Pred_Text
 ---

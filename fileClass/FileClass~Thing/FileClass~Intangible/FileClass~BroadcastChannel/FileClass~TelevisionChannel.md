@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~TelevisionChannel
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/TelevisionChannel
-- class/Thing/Intangible/BroadcastChannel/TelevisionChannel
-- is_a_/TelevisionChannel
-- schema-org/TelevisionChannel
+  - class/TelevisionChannel
+  - class/Thing/Intangible/BroadcastChannel/TelevisionChannel
+  - is_a_/TelevisionChannel
+  - schema-org/TelevisionChannel
 tags:
-- class/FileClass
-- class/TelevisionChannel
-- is_a_/TelevisionChannel
-- class/Thing/Intangible/BroadcastChannel/TelevisionChannel
+  - class/FileClass
+  - class/TelevisionChannel
+  - is_a_/TelevisionChannel
+  - class/Thing/Intangible/BroadcastChannel/TelevisionChannel
 version: 2.0
 ---
 

@@ -1,30 +1,31 @@
 ---
 aliases:
   - agricultural holding
+  - Farm
 has_id_wikidata: Q131596
-owned_by: "[[_Standards/WikiData/WD~farmer,131512]]"
+owned_by: '[[_Standards/WikiData/WD~farmer,131512]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~cowshed,681337]]"
-  - "[[_Standards/WikiData/WD~livestock_housing,1207909]]"
-  - "[[_Standards/WikiData/WD~barn,1303167]]"
-  - "[[_Standards/WikiData/WD~yard,1623285]]"
-  - "[[_Standards/WikiData/WD~homestead,5890494]]"
+  - '[[_Standards/WikiData/WD~cowshed,681337]]'
+  - '[[_Standards/WikiData/WD~livestock_housing,1207909]]'
+  - '[[_Standards/WikiData/WD~barn,1303167]]'
+  - '[[_Standards/WikiData/WD~yard,1623285]]'
+  - '[[_Standards/WikiData/WD~homestead,5890494]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Kartographer_icon,134980502]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Kartographer_icon,134980502]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~building_complex,1497364]]"
-  - "[[_Standards/WikiData/WD~group_of_structures_or_buildings,18247357]]"
-  - "[[_Standards/WikiData/WD~artificial_geographic_entity,27096235]]"
+  - '[[_Standards/WikiData/WD~building_complex,1497364]]'
+  - '[[_Standards/WikiData/WD~group_of_structures_or_buildings,18247357]]'
+  - '[[_Standards/WikiData/WD~artificial_geographic_entity,27096235]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~smallholding,2827199]]"
-  - "[[_Standards/WikiData/WD~agricultural_holding,3062125]]"
-different_from: "[[_Standards/WikiData/WD~farmyard,2887356]]"
-has_use: "[[_Standards/WikiData/WD~farming,24886094]]"
-IAB_code: "449"
-U_S_National_Archives_Identifier: "10640549"
+  - '[[_Standards/WikiData/WD~smallholding,2827199]]'
+  - '[[_Standards/WikiData/WD~agricultural_holding,3062125]]'
+different_from: '[[_Standards/WikiData/WD~farmyard,2887356]]'
+has_use: '[[_Standards/WikiData/WD~farming,24886094]]'
+IAB_code: 449
+U_S_National_Archives_Identifier: 10640549
 UMLS_CUI: C0557759
 sRGB_color_hex_triplet: 9ACD32
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Betschdorf%20-Ferme%20%C3%A0%20colombages%282%29.jpg

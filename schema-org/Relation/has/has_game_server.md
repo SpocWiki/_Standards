@@ -3,23 +3,24 @@ aliases:
   - has game-server
   - gameServer
   - has_game_server
+  - has game server
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - game
   - server
   - game_server
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_game_server
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

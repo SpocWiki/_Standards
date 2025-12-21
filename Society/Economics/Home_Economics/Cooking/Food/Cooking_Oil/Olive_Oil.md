@@ -1,28 +1,30 @@
 ---
 aliases:
   - Olivenöl
+  - Olive_Oil
+  - Olive Oil
 has_id_wikidata: Q93165
 subclass_of:
-  - "[[_Standards/WikiData/WD~cooking_oil,427457]]"
-  - "[[_Standards/WikiData/WD~vegetable_oil,4739805]]"
-  - "[[_Standards/WikiData/WD~seed_oil,7445643]]"
-different_from: "[[_Standards/WikiData/WD~Olive_Oyl,2531690]]"
-instance_of: "[[_Standards/WikiData/WD~non_drying_oil,7048902]]"
+  - '[[_Standards/WikiData/WD~cooking_oil,427457]]'
+  - '[[_Standards/WikiData/WD~vegetable_oil,4739805]]'
+  - '[[_Standards/WikiData/WD~seed_oil,7445643]]'
+different_from: '[[_Standards/WikiData/WD~Olive_Oyl,2531690]]'
+instance_of: '[[_Standards/WikiData/WD~non_drying_oil,7048902]]'
 carbon_footprint: 3.9
-2022_Harmonized_System_Code: "1509"
-CosIng_number: "77800"
+2022_Harmonized_System_Code: 1509
+CosIng_number: 77800
 water_footprint:
   - 14431
   - 14726
-OmegaWiki_Defined_Meaning: "1340818"
-USDA_NDB_number: "04053"
+OmegaWiki_Defined_Meaning: 1340818
+USDA_NDB_number: 04053
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Italian%20olive%20oil%202007.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/2023%20Oliwa%20z%20oliwek%20Garda%20DOP%20%281%29.jpg
 AFCD_PFKID: F006177
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Fr-huile%20d%27olive.ogg
 Common_Procurement_Vocabulary_code: 15411110-6
-Amazon_com_browse_node: "16320381"
+Amazon_com_browse_node: 16320381
 EC_number: 232-277-0
 UNII: 6UYK2W1W1E
 CAS_Registry_Number: 8001-25-0

@@ -1,10 +1,12 @@
 ---
 aliases:
-  - Pan-European Picnic 
+  - Pan-European Picnic
   - Paneuropäisches Picknick
   - Páneurópai piknik
   - Paneurópsky piknik
   - Panevropský piknik
+  - 1989-Pan-European_Picnic
+  - 1989-Pan-European Picnic
 ---
 
 # [[1989-Pan-European_Picnic]] 

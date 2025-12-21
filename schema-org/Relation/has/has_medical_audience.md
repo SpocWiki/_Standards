@@ -3,23 +3,24 @@ aliases:
   - has medical-audience
   - medicalAudience
   - has_medical_audience
+  - has medical audience
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_audience
   - medical
   - audience
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_medical_audience
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

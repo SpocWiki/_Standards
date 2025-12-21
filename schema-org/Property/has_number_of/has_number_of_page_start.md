@@ -4,21 +4,22 @@ aliases:
   - page_start
   - pageStart
   - has_number_of_page_start
+  - has number of page start
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - page_start
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_page_start
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

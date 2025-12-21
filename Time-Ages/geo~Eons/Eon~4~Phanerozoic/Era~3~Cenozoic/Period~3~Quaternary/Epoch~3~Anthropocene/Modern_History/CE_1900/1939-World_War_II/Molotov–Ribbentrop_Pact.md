@@ -5,25 +5,26 @@ aliases:
   - Nichtangriffspakt
   - Hitler–Stalin Pact
   - Nazi–Soviet Pact
+  - Molotov–Ribbentrop_Pact
 has_id_wikidata: Q130796
 signatory:
-  - "[[_Standards/WikiData/WD~Joachim_von_Ribbentrop,101886]]"
-  - "[[_Standards/WikiData/WD~Vyacheslav_Molotov,132899]]"
+  - '[[_Standards/WikiData/WD~Joachim_von_Ribbentrop,101886]]'
+  - '[[_Standards/WikiData/WD~Vyacheslav_Molotov,132899]]'
 ratified_by:
-  - "[[_Standards/WikiData/WD~German_Reich,1206012]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+  - '[[_Standards/WikiData/WD~German_Reich,1206012]]'
+  - '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~non_aggression_pact,1412901]]"
-  - "[[_Standards/WikiData/WD~secret_treaty,1498487]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-has_edition_or_translation: "[[_Standards/WikiData/WD~Secret_Additional_Protocol_to_the_Molotov_Ribbentrop_Pact,4413308]]"
-locations: "[[_Standards/WikiData/WD~Moscow,649]]"
+  - '[[_Standards/WikiData/WD~non_aggression_pact,1412901]]'
+  - '[[_Standards/WikiData/WD~secret_treaty,1498487]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+has_edition_or_translation: '[[_Standards/WikiData/WD~Secret_Additional_Protocol_to_the_Molotov_Ribbentrop_Pact,4413308]]'
+locations: '[[_Standards/WikiData/WD~Moscow,649]]'
 participant:
-  - "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+  - '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+  - '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
 language_of_work_or_name:
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
+  - '[[_Standards/WikiData/WD~Russian,7737]]'
+  - '[[_Standards/WikiData/WD~German,188]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-H27337%2C%20Moskau%2C%20Stalin%20und%20Ribbentrop%20im%20Kreml.jpg
 Libris_URI: 1zcgpbgk4tzbn8v
 Commons_gallery: Molotov-Ribbentrop Pact
@@ -41,26 +42,26 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: ''
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 lang: en
-layout:
+layout: ''
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 publish: false
-publishDate:
+publishDate: ''
 tags:
-  - "{ newTitle: }":
+  - '{ newTitle: }': ''
   - excalidraw
 title:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 type: private_note
 ---
 

@@ -2,6 +2,7 @@
 aliases:
   - French Actor
   - French Actress
+  - French_Actor
 ---
 
 

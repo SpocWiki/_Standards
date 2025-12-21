@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~SubscribeAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/SubscribeAction
-- class/Thing/Action/InteractAction/SubscribeAction
-- is_a_/SubscribeAction
-- schema-org/SubscribeAction
+  - class/SubscribeAction
+  - class/Thing/Action/InteractAction/SubscribeAction
+  - is_a_/SubscribeAction
+  - schema-org/SubscribeAction
 tags:
-- class/FileClass
-- class/SubscribeAction
-- is_a_/SubscribeAction
-- class/Thing/Action/InteractAction/SubscribeAction
+  - class/FileClass
+  - class/SubscribeAction
+  - is_a_/SubscribeAction
+  - class/Thing/Action/InteractAction/SubscribeAction
 version: 2.0
 ---
 

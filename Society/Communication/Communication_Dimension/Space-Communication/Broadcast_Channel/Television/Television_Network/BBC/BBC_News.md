@@ -1,31 +1,34 @@
 ---
+aliases:
+  - BBC_News
+  - BBC News
 has_id_wikidata: Q208491
 instance_of:
-  - "[[_Standards/WikiData/WD~specialty_channel,561068]]"
-  - "[[_Standards/WikiData/WD~television_station,1616075]]"
-replaces: "[[_Standards/WikiData/WD~BBC_World_Service_Television,639275]]"
-original_broadcaster: "[[_Standards/WikiData/WD~BBC_News,1160945]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Broadcasting_House,2914560]]"
+  - '[[_Standards/WikiData/WD~specialty_channel,561068]]'
+  - '[[_Standards/WikiData/WD~television_station,1616075]]'
+replaces: '[[_Standards/WikiData/WD~BBC_World_Service_Television,639275]]'
+original_broadcaster: '[[_Standards/WikiData/WD~BBC_News,1160945]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Broadcasting_House,2914560]]'
 operating_area:
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~New_Zealand,664]]"
-  - "[[_Standards/WikiData/WD~Gabon,1000]]"
-  - "[[_Standards/WikiData/WD~Namibia,1030]]"
-  - "[[_Standards/WikiData/WD~Rwanda,1037]]"
-  - "[[_Standards/WikiData/WD~Belgium,31]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
-  - "[[_Standards/WikiData/WD~Moldova,217]]"
-language_used: "[[_Standards/WikiData/WD~English,1860]]"
-parent_organization: "[[_Standards/WikiData/WD~BBC,9531]]"
-owned_by: "[[_Standards/WikiData/WD~BBC,9531]]"
-industry: "[[_Standards/WikiData/WD~journalism,11030]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~Australia,408]]'
+  - '[[_Standards/WikiData/WD~New_Zealand,664]]'
+  - '[[_Standards/WikiData/WD~Gabon,1000]]'
+  - '[[_Standards/WikiData/WD~Namibia,1030]]'
+  - '[[_Standards/WikiData/WD~Rwanda,1037]]'
+  - '[[_Standards/WikiData/WD~Belgium,31]]'
+  - '[[_Standards/WikiData/WD~Russia,159]]'
+  - '[[_Standards/WikiData/WD~Ukraine,212]]'
+  - '[[_Standards/WikiData/WD~Moldova,217]]'
+language_used: '[[_Standards/WikiData/WD~English,1860]]'
+parent_organization: '[[_Standards/WikiData/WD~BBC,9531]]'
+owned_by: '[[_Standards/WikiData/WD~BBC,9531]]'
+industry: '[[_Standards/WikiData/WD~journalism,11030]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 social_media_followers: 39454060
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/BBC%20News%202022%20%28Alt%202%29.svg
 inception: 1991-03-11T00:00:00Z
 official_website: https://www.bbc.com/news/world_radio_and_tv
-P8189: "987007429879405171"
+P8189: 987007429879405171
 Commons_category: BBC News (International TV channel)
 X_Twitter_username: BBCWorld
 motto_text: Putting News First

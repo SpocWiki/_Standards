@@ -4,20 +4,22 @@ aliases:
   - people_audience
   - PeopleAudience
   - is_a_people_audience
+  - People_Audience
+  - People Audience
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - people_audience
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_people_audience Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

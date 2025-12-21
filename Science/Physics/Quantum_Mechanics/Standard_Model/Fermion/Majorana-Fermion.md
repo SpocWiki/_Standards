@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Majorana particle"
+  - Majorana particle
+  - Majorana-Fermion
 ---
 
 ## #has_/text_of_/abstract 

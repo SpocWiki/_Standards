@@ -4,21 +4,23 @@ aliases:
   - benefits_health_aspect
   - BenefitsHealthAspect
   - is_a_benefits_health_aspect
+  - Benefits_Health_Aspect
+  - Benefits Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - benefits_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_benefits_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

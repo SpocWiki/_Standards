@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Bryce Dallas Howard"
+  - Bryce Dallas Howard
+  - Howard,Bryce_Dallas
+  - Howard,Bryce Dallas
 ---
 
 #has_/parent :: [[../../Movie-Directors/Howard,Ron|Howard,Ron]] 

@@ -4,21 +4,23 @@ aliases:
   - tracking_url
   - trackingUrl
   - has_url_for_tracking_url
+  - has_url_for_tracking
+  - has url for tracking
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - tracking_url
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_tracking_url
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

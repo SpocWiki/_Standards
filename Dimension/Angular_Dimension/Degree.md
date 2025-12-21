@@ -3,20 +3,21 @@ aliases:
   - degree of arc
   - arc degree
   - arcdegree
+  - Degree
 has_id_wikidata: Q28390
-subdivision_of_this_unit: "[[_Standards/WikiData/WD~arcminute,209426]]"
-notation: "[[_Standards/WikiData/WD~degree_symbol,1053461]]"
-measured_physical_quantity: "[[_Standards/WikiData/WD~angular_measure,1357788]]"
-different_from: "[[_Standards/WikiData/WD~degree,1359207]]"
+subdivision_of_this_unit: '[[_Standards/WikiData/WD~arcminute,209426]]'
+notation: '[[_Standards/WikiData/WD~degree_symbol,1053461]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~angular_measure,1357788]]'
+different_from: '[[_Standards/WikiData/WD~degree,1359207]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]"
-  - "[[_Standards/WikiData/WD~unit_of_plane_angle,13587321]]"
-  - "[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]"
-  - "[[_Standards/WikiData/WD~SI_accepted_non_SI_unit,106839753]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]'
+  - '[[_Standards/WikiData/WD~unit_of_plane_angle,13587321]]'
+  - '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+  - '[[_Standards/WikiData/WD~SI_accepted_non_SI_unit,106839753]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 conversion_to_standard_unit:
   - 4
   - 60

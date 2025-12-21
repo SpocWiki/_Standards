@@ -1,6 +1,7 @@
 ---
 aliases:
   - Kation
+  - Cation
 has_id_wikidata: Q326277
 ---
 

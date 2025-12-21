@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _ElementDB
+  - ' ElementDB'
 database_plugin: basic
 ---
 

@@ -1,18 +1,20 @@
 ---
+aliases:
+  - Bigamy
 has_id_wikidata: Q720243
 subclass_of:
-  - "[[_Standards/WikiData/WD~crime,83267]]"
-  - "[[_Standards/WikiData/WD~polygamy,170585]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Strafgesetzbuch,876563]]"
-instance_of: "[[_Standards/WikiData/WD~violation_of_law,1456832]]"
+  - '[[_Standards/WikiData/WD~crime,83267]]'
+  - '[[_Standards/WikiData/WD~polygamy,170585]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Strafgesetzbuch,876563]]'
+instance_of: '[[_Standards/WikiData/WD~violation_of_law,1456832]]'
 different_from:
-  - "[[_Standards/WikiData/WD~ambiamory,103620313]]"
-  - "[[_Standards/WikiData/WD~duogamy,131387931]]"
-OmegaWiki_Defined_Meaning: "541715"
+  - '[[_Standards/WikiData/WD~ambiamory,103620313]]'
+  - '[[_Standards/WikiData/WD~duogamy,131387931]]'
+OmegaWiki_Defined_Meaning: 541715
 Commons_category: Polygamy
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34057%20%28tgl%29-Kunokuno-Bigamya.wav
-P8189: "987007284756605171"
+P8189: 987007284756605171
 ---
 
 # [[Bigamy]] 

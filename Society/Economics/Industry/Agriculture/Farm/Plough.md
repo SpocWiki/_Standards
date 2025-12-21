@@ -1,37 +1,39 @@
 ---
+aliases:
+  - Plough
 has_id_wikidata: Q11464
 source_of_energy:
-  - "[[_Standards/WikiData/WD~livestock,103459]]"
-  - "[[_Standards/WikiData/WD~human_energy,20984829]]"
-  - "[[_Standards/WikiData/WD~tractor,39495]]"
+  - '[[_Standards/WikiData/WD~livestock,103459]]'
+  - '[[_Standards/WikiData/WD~human_energy,20984829]]'
+  - '[[_Standards/WikiData/WD~tractor,39495]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-has_use: "[[_Standards/WikiData/WD~tillage,878333]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+has_use: '[[_Standards/WikiData/WD~tillage,878333]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~tillage_machine,15306431]]"
-  - "[[_Standards/WikiData/WD~agricultural_machinery,16000047]]"
-  - "[[_Standards/WikiData/WD~vehicle_attachment,29888707]]"
-  - "[[_Standards/WikiData/WD~physical_tool,39546]]"
-different_from: "[[_Standards/WikiData/WD~Q62274204,62274204]]"
-instance_of: "[[_Standards/WikiData/WD~ethnological_term,129133491]]"
-OmegaWiki_Defined_Meaning: "844804"
+  - '[[_Standards/WikiData/WD~tillage_machine,15306431]]'
+  - '[[_Standards/WikiData/WD~agricultural_machinery,16000047]]'
+  - '[[_Standards/WikiData/WD~vehicle_attachment,29888707]]'
+  - '[[_Standards/WikiData/WD~physical_tool,39546]]'
+different_from: '[[_Standards/WikiData/WD~Q62274204,62274204]]'
+instance_of: '[[_Standards/WikiData/WD~ethnological_term,129133491]]'
+OmegaWiki_Defined_Meaning: 844804
 image: http://commons.wikimedia.org/wiki/Special:FilePath/04-09-12-Schaupfl%C3%BCgen-Fahrenwalde-RalfR-IMG%201232.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Ramjit%20Tudu-%E1%B1%B1%E1%B1%9F%E1%B1%A6%E1%B1%AE%E1%B1%9E.wav
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Schare%2C%20Bleche%2C%20HTO%20%E2%80%93%20wie%20ein%20Pflug%20entsteht.webm
-UNSPSC_Code: "21101501"
+UNSPSC_Code: 21101501
 Iconclass_notation: 47I15(PLOUGH)
 Dewey_Decimal_Classification:
-  - "631.51"
-  - "681.7631"
+  - 631.51
+  - 681.7631
 Commons_gallery: Plough
 Commons_category: Ploughs
 ---

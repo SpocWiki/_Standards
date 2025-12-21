@@ -4,24 +4,24 @@ aliases:
   - Rübe
 has_id_wikidata: Q3916957
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Brassica_rapa_subsp._rapa,33690609]]"
-  - "[[_Standards/WikiData/WD~Brassica_rapa_subsp._rapifera,50914264]]"
-  - "[[_Standards/WikiData/WD~rutabaga,104733765]]"
+  - '[[_Standards/WikiData/WD~Brassica_rapa_subsp._rapa,33690609]]'
+  - '[[_Standards/WikiData/WD~Brassica_rapa_subsp._rapifera,50914264]]'
+  - '[[_Standards/WikiData/WD~rutabaga,104733765]]'
 natural_product_of_taxon:
-  - "[[_Standards/WikiData/WD~Brassica_rapa_subsp._rapa,33690609]]"
-  - "[[_Standards/WikiData/WD~Brassica_rapa_subsp._rapifera,50914264]]"
-subclass_of: "[[_Standards/WikiData/WD~root_vegetable,20136]]"
+  - '[[_Standards/WikiData/WD~Brassica_rapa_subsp._rapa,33690609]]'
+  - '[[_Standards/WikiData/WD~Brassica_rapa_subsp._rapifera,50914264]]'
+subclass_of: '[[_Standards/WikiData/WD~root_vegetable,20136]]'
 PLU_code:
-  - "4812"
-  - "4810"
-  - "4809"
-  - "4813"
-  - "4811"
-OmegaWiki_Defined_Meaning: "941734"
+  - 4812
+  - 4810
+  - 4809
+  - 4813
+  - 4811
+OmegaWiki_Defined_Meaning: 941734
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Turnip%202622027.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Turnip.JPG

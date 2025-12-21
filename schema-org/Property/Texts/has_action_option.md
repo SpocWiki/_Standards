@@ -4,22 +4,24 @@ aliases:
   - action_option
   - actionOption
   - has_text_of_action_option
+  - has_action_option
+  - has action option
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - action
   - option
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_action_option
 publish: true
-publishDate:
+publishDate: ''
 supersedes: option
 tags:
   - class/Property

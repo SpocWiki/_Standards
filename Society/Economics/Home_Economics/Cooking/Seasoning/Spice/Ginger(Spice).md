@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ingwer
+  - Ginger(Spice)
 has_id_wikidata: Q15046077
 subclass_of:
   - "[[_Standards/WikiData/WD~rhizome,184208]]"
@@ -13,24 +14,24 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 natural_product_of_taxon: "[[_Standards/WikiData/WD~Ginger,35625]]"
 PLU_code:
-  - "4612"
-  - "4613"
-CosIng_number: "84769"
-USDA_NDB_number: "02021"
+  - 4612
+  - 4613
+CosIng_number: 84769
+USDA_NDB_number: 2021
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Starr%20070730-7818%20Zingiber%20officinale.jpg
 Unicode_character: 🫚
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ka-janjapili.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Joy%20sagar%20Murmu-%E1%B1%9F%E1%B1%AB%E1%B1%B7%E1%B1%AE.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%85%E0%A8%A6%E0%A8%B0%E0%A8%95.oga
-Amazon_com_browse_node: "6507158011"
+Amazon_com_browse_node: 6507158011
 UMLS_CUI: C0162751
 UNII: C5529G5JPQ
 Commons_category: Ginger root
 Gujarati_Vishwakosh_entry: આદું
 ---
 
-# [[Ginger(Spice)]] 
+# [[Ginger(Spice)]] 🫚 
 
 
 #is_/same_as :: [[WD~Ginger,15046077]] 

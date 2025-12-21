@@ -4,20 +4,22 @@ aliases:
   - single_family_residence
   - SingleFamilyResidence
   - is_a_single_family_residence
+  - Single_Family_Residence
+  - Single Family Residence
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - single_family_residence
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_single_family_residence Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

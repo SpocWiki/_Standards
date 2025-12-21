@@ -3,23 +3,24 @@ aliases:
   - has shipping-destination
   - shippingDestination
   - has_shipping_destination
+  - has shipping destination
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - shipping_destination
   - shipping
   - destination
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_shipping_destination
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

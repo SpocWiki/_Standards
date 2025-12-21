@@ -4,21 +4,23 @@ aliases:
   - wearable_size_group_girls
   - WearableSizeGroupGirls
   - is_a_wearable_size_group_girls
+  - Wearable_Size_Group_Girls
+  - Wearable Size Group Girls
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableSizeGroupEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_size_group_girls
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_size_group_girls Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

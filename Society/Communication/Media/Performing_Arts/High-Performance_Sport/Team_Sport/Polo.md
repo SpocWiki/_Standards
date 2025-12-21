@@ -2,6 +2,7 @@
 aliases:
   - Chovgan
   - چوگان
+  - Polo
 has_id_wikidata: Q134211
 subclass_of:
   - "[[_Standards/WikiData/WD~team_sport,216048]]"
@@ -26,7 +27,7 @@ IPTC_NewsCode: mediatopic/20001014
 Colon_Classification: MY2146
 ---
 
-# [[Polo]] 
+# [[Polo]] 🏇 
 
 #is_/same_as :: [[WD~Polo,134211]] 
 

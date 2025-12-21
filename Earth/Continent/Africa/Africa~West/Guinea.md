@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Guinea
+  - Guinée
+  - غينيا
+  - 几内亚
+  - Гвинея
+  - the Republic of Guinea
+  - la República de Guinea
+has_id_wikidata: Q1006
 member_of:
   - "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
   - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
@@ -311,7 +320,6 @@ pronunciation_audio:
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LocationGuinea.svg
 official_website: http://www.presidence.gov.gn/
 country_calling_code: 224
-has_id_wikidata: Q1006
 location:
   - 9.51667
   - -13.7
@@ -328,20 +336,12 @@ cssclasses:
   - Country
 publish: true
 title: Guinea
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Guinea
-  - Guinée
-  - غينيا
-  - 几内亚
-  - Гвинея
-  - the Republic of Guinea
-  - la República de Guinea
+publishDate: ""
+expiryDate: ""
 Languages:
   - fr-GN
 ---

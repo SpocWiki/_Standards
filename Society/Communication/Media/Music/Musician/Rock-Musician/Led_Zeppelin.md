@@ -1,46 +1,47 @@
 ---
 aliases:
   - Led Zeppelin
+  - Led_Zeppelin
 has_id_wikidata: Q2331
 genre:
-  - "[[_Standards/WikiData/WD~hard_rock,83270]]"
-  - "[[_Standards/WikiData/WD~folk_rock,186472]]"
-  - "[[_Standards/WikiData/WD~blues_rock,193355]]"
-  - "[[_Standards/WikiData/WD~classic_rock,56351111]]"
-  - "[[_Standards/WikiData/WD~rock_music,11399]]"
+  - '[[_Standards/WikiData/WD~hard_rock,83270]]'
+  - '[[_Standards/WikiData/WD~folk_rock,186472]]'
+  - '[[_Standards/WikiData/WD~blues_rock,193355]]'
+  - '[[_Standards/WikiData/WD~classic_rock,56351111]]'
+  - '[[_Standards/WikiData/WD~rock_music,11399]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Jimmy_Page,165467]]"
-  - "[[_Standards/WikiData/WD~John_Paul_Jones,190243]]"
-  - "[[_Standards/WikiData/WD~Robert_Plant,428223]]"
-  - "[[_Standards/WikiData/WD~John_Bonham,485490]]"
+  - '[[_Standards/WikiData/WD~Jimmy_Page,165467]]'
+  - '[[_Standards/WikiData/WD~John_Paul_Jones,190243]]'
+  - '[[_Standards/WikiData/WD~Robert_Plant,428223]]'
+  - '[[_Standards/WikiData/WD~John_Bonham,485490]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-  - "[[_Standards/WikiData/WD~Echo_Pop_Honorary_Award,113060743]]"
+  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+  - '[[_Standards/WikiData/WD~Echo_Pop_Honorary_Award,113060743]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Stairway_to_Heaven,192023]]"
-  - "[[_Standards/WikiData/WD~Led_Zeppelin_IV,201940]]"
+  - '[[_Standards/WikiData/WD~Stairway_to_Heaven,192023]]'
+  - '[[_Standards/WikiData/WD~Led_Zeppelin_IV,201940]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Robert_Johnson,192133]]"
-  - "[[_Standards/WikiData/WD~Willie_Dixon,204092]]"
-  - "[[_Standards/WikiData/WD~The_Grapes_of_Wrath,215983]]"
-  - "[[_Standards/WikiData/WD~Blind_Willie_Johnson,712586]]"
-  - "[[_Standards/WikiData/WD~The_Rolling_Stones,11036]]"
-  - "[[_Standards/WikiData/WD~The_Lord_of_the_Rings,15228]]"
+  - '[[_Standards/WikiData/WD~Robert_Johnson,192133]]'
+  - '[[_Standards/WikiData/WD~Willie_Dixon,204092]]'
+  - '[[_Standards/WikiData/WD~The_Grapes_of_Wrath,215983]]'
+  - '[[_Standards/WikiData/WD~Blind_Willie_Johnson,712586]]'
+  - '[[_Standards/WikiData/WD~The_Rolling_Stones,11036]]'
+  - '[[_Standards/WikiData/WD~The_Lord_of_the_Rings,15228]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Atlantic_Records,202440]]"
-  - "[[_Standards/WikiData/WD~Decca,557632]]"
-  - "[[_Standards/WikiData/WD~Swan_Song_Records,632992]]"
+  - '[[_Standards/WikiData/WD~Atlantic_Records,202440]]'
+  - '[[_Standards/WikiData/WD~Decca,557632]]'
+  - '[[_Standards/WikiData/WD~Swan_Song_Records,632992]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~musical_group,215380]]"
-  - "[[_Standards/WikiData/WD~rock_band,5741069]]"
-discography: "[[_Standards/WikiData/WD~Led_Zeppelin_discography,1072622]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Led_Zeppelin,10603419]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Led_Zeppelin,15554536]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Underground_Music_Records_in_Rottenbiller_street_Library_Budapest,94645313]]"
-field_of_work: "[[_Standards/WikiData/WD~music,638]]"
-country_of_origin: "[[_Standards/WikiData/WD~England,21]]"
-location_of_formation: "[[_Standards/WikiData/WD~London,84]]"
+  - '[[_Standards/WikiData/WD~musical_group,215380]]'
+  - '[[_Standards/WikiData/WD~rock_band,5741069]]'
+discography: '[[_Standards/WikiData/WD~Led_Zeppelin_discography,1072622]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Led_Zeppelin,10603419]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Led_Zeppelin,15554536]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Underground_Music_Records_in_Rottenbiller_street_Library_Budapest,94645313]]'
+field_of_work: '[[_Standards/WikiData/WD~music,638]]'
+country_of_origin: '[[_Standards/WikiData/WD~England,21]]'
+location_of_formation: '[[_Standards/WikiData/WD~London,84]]'
 social_media_followers:
   - 3750000
   - 739336
@@ -61,7 +62,7 @@ subreddit: ledzeppelin
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Led%20Zeppelin%20logo.svg
 official_shop_URL: https://store.ledzeppelin.com/
 official_website: https://www.ledzeppelin.com/
-ISNI: "0000000123483226"
+ISNI: 0000000123483226
 Wolfram_Language_entity_code: Entity["MusicAct", "LedZeppelin::pgd77"]
 Krugosvet_article: muzyka/led-zeppelin
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Led%20zeppelin%20revista%20pelo%201971.jpg

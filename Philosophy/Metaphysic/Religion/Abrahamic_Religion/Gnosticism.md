@@ -1,22 +1,23 @@
 ---
 aliases:
   - Gnostizismus
+  - Gnosticism
 has_id_wikidata: Q48420
-different_from: "[[_Standards/WikiData/WD~Agnosticism,288928]]"
+different_from: '[[_Standards/WikiData/WD~Agnosticism,288928]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_Biblical_Criticism_and_Interpretation_(2007_ed.),21065550]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_Biblical_Criticism_and_Interpretation_(2007_ed.),21065550]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~school_of_thought,1387659]]"
-  - "[[_Standards/WikiData/WD~philosophical_movement,2915955]]"
-  - "[[_Standards/WikiData/WD~world_view,49447]]"
-practiced_by: "[[_Standards/WikiData/WD~gnostic,12766392]]"
+  - '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
+  - '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
+  - '[[_Standards/WikiData/WD~world_view,49447]]'
+practiced_by: '[[_Standards/WikiData/WD~gnostic,12766392]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Abraxas%20gem%20scan.svg
 Iconclass_notation: 12U(GNOSTICISM)
 Wolfram_Language_entity_code: Entity["Concept", "Gnosticism::h3wbc"]

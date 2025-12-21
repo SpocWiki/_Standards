@@ -4,21 +4,23 @@ aliases:
   - symptoms_health_aspect
   - SymptomsHealthAspect
   - is_a_symptoms_health_aspect
+  - Symptoms_Health_Aspect
+  - Symptoms Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - symptoms_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_symptoms_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

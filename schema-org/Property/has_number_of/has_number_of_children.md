@@ -4,21 +4,22 @@ aliases:
   - num_children
   - numChildren
   - has_number_of_children
+  - has number of children
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - num_children
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_num_children
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

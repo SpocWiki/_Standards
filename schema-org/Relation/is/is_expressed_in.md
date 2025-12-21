@@ -4,22 +4,23 @@ aliases:
   - expressed_in
   - expressedIn
   - is_expressed_in
+  - is expressed in
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - expressed
   - in
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_expressed_in
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,14 +1,16 @@
 ---
 aliases:
   - Gesellschaftsvertrag
+  - Social_Contract
+  - Social Contract
 has_id_wikidata: Q1326430
 instance_of:
-  - "[[_Standards/WikiData/WD~thought_experiment,147027]]"
-  - "[[_Standards/WikiData/WD~political_concept,33104069]]"
+  - '[[_Standards/WikiData/WD~thought_experiment,147027]]'
+  - '[[_Standards/WikiData/WD~political_concept,33104069]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leviathan%20frontispiece%20cropped%20British%20Library.jpg
 PhilPapers_topic: social-contract
 ---

@@ -1,18 +1,20 @@
 ---
-has_id_wikidata: Q170282
 aliases:
   - Hookesches Gesetz
   - Hookesche Gesetz
-main_subject: "[[_Standards/WikiData/WD~spring,102836]]"
+  - Hooke's_Law
+  - Hooke's Law
+has_id_wikidata: Q170282
+main_subject: '[[_Standards/WikiData/WD~spring,102836]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~physical_law,214070]]"
-  - "[[_Standards/WikiData/WD~empirical_law,3258494]]"
-part_of: "[[_Standards/WikiData/WD~elasticity_theory,1913277]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~physical_law,214070]]'
+  - '[[_Standards/WikiData/WD~empirical_law,3258494]]'
+part_of: '[[_Standards/WikiData/WD~elasticity_theory,1913277]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-named_after: "[[_Standards/WikiData/WD~Robert_Hooke,46830]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+named_after: '[[_Standards/WikiData/WD~Robert_Hooke,46830]]'
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>F</mi></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>k</mi></mstyle></mrow></math>

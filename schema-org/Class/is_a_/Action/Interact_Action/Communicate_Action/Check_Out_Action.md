@@ -4,20 +4,22 @@ aliases:
   - check_out_action
   - CheckOutAction
   - is_a_check_out_action
+  - Check_Out_Action
+  - Check Out Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - check_out_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_check_out_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

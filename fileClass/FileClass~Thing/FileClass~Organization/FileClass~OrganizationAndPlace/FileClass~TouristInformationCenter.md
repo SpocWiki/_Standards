@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~TouristInformationCenter
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/TouristInformationCenter
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TouristInformationCenter
-- is_a_/TouristInformationCenter
-- schema-org/TouristInformationCenter
+  - class/TouristInformationCenter
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TouristInformationCenter
+  - is_a_/TouristInformationCenter
+  - schema-org/TouristInformationCenter
 tags:
-- class/FileClass
-- class/TouristInformationCenter
-- is_a_/TouristInformationCenter
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TouristInformationCenter
+  - class/FileClass
+  - class/TouristInformationCenter
+  - is_a_/TouristInformationCenter
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TouristInformationCenter
 version: 2.0
 ---
 

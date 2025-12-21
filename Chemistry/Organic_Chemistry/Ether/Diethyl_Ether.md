@@ -1,6 +1,8 @@
 ---
 aliases:
   - ether
+  - Diethyl_Ether
+  - Diethyl Ether
 has_id_wikidata: Q202218
 DSSTOX_compound_identifier: DTXCID101720
 RTECS_number: KI5775000
@@ -11,35 +13,35 @@ SPLASH:
   - splash10-0560-9000000000-190d02146f42b3306a37
 mass: 74.07316494
 medical_condition_treated:
-  - "[[_Standards/WikiData/WD~pain,81938]]"
-  - "[[_Standards/WikiData/WD~status_asthmaticus,826759]]"
-  - "[[_Standards/WikiData/WD~hiccups,58952]]"
+  - '[[_Standards/WikiData/WD~pain,81938]]'
+  - '[[_Standards/WikiData/WD~status_asthmaticus,826759]]'
+  - '[[_Standards/WikiData/WD~hiccups,58952]]'
 different_from:
-  - "[[_Standards/WikiData/WD~ethers,103230]]"
-  - "[[_Standards/WikiData/WD~aether,381913]]"
-  - "[[_Standards/WikiData/WD~Eter,12788561]]"
-  - "[[_Standards/WikiData/WD~ethyl_ethers,100931385]]"
-has_use: "[[_Standards/WikiData/WD~solvent,146505]]"
+  - '[[_Standards/WikiData/WD~ethers,103230]]'
+  - '[[_Standards/WikiData/WD~aether,381913]]'
+  - '[[_Standards/WikiData/WD~Eter,12788561]]'
+  - '[[_Standards/WikiData/WD~ethyl_ethers,100931385]]'
+has_use: '[[_Standards/WikiData/WD~solvent,146505]]'
 found_in_taxon:
-  - "[[_Standards/WikiData/WD~Acca_sellowiana,499671]]"
-  - "[[_Standards/WikiData/WD~Basella_alba,1130368]]"
-  - "[[_Standards/WikiData/WD~Feijoa_sellowiana,59420273]]"
-  - "[[../../../WikiData/WD~Fragaria,745]]"
-subject_has_role: "[[_Standards/WikiData/WD~inhalational_anaesthetic,909194]]"
+  - '[[_Standards/WikiData/WD~Acca_sellowiana,499671]]'
+  - '[[_Standards/WikiData/WD~Basella_alba,1130368]]'
+  - '[[_Standards/WikiData/WD~Feijoa_sellowiana,59420273]]'
+  - '[[../../../WikiData/WD~Fragaria,745]]'
+subject_has_role: '[[_Standards/WikiData/WD~inhalational_anaesthetic,909194]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-has_characteristic: "[[_Standards/WikiData/WD~Class_IA_flammable_liquid,21009053]]"
-associated_hazard: "[[_Standards/WikiData/WD~diethyl_ether_exposure,21174301]]"
-has_effect: "[[_Standards/WikiData/WD~diethyl_ether_exposure,21174301]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+has_characteristic: '[[_Standards/WikiData/WD~Class_IA_flammable_liquid,21009053]]'
+associated_hazard: '[[_Standards/WikiData/WD~diethyl_ether_exposure,21174301]]'
+has_effect: '[[_Standards/WikiData/WD~diethyl_ether_exposure,21174301]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~symmetrical_ether,38881042]]"
-  - "[[_Standards/WikiData/WD~ethyl_ethers,100931385]]"
-  - "[[_Standards/WikiData/WD~biogenic_acyclic_ether,109923862]]"
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+  - '[[_Standards/WikiData/WD~symmetrical_ether,38881042]]'
+  - '[[_Standards/WikiData/WD~ethyl_ethers,100931385]]'
+  - '[[_Standards/WikiData/WD~biogenic_acyclic_ether,109923862]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
 melting_point:
   - -116.3
   - -177
@@ -59,19 +61,19 @@ ionization_energy:
   - 9.51
   - 9.53
 speed_of_sound: 976
-ASHRAE_refrigerant_number: "610"
-OmegaWiki_Defined_Meaning: "1348"
+ASHRAE_refrigerant_number: 610
+OmegaWiki_Defined_Meaning: 1348
 immediately_dangerous_to_life_or_health: 5757
-UN_number: "1155"
-PubChem_CID: "3283"
-ZVG_number: "13600"
-NSC_number: "100036"
-Gmelin_number: "25444"
-CosIng_number: "55999"
-Reaxys_registry_number: "1696894"
+UN_number: 1155
+PubChem_CID: 3283
+ZVG_number: 13600
+NSC_number: 100036
+Gmelin_number: 25444
+CosIng_number: 55999
+Reaxys_registry_number: 1696894
 InChIKey: RTZKZFJDLAIYFH-UHFFFAOYSA-N
 UNII: 0F5N573A2Y
-RxNorm_CUI: "1363043"
+RxNorm_CUI: 1363043
 InChI: InChI=1S/C4H10O/c1-3-5-4-2/h3-4H2,1-2H3
 chemical_formula: C₄H₁₀O
 canonical_SMILES: CCOCC

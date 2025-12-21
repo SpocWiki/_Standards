@@ -4,6 +4,7 @@ aliases:
   - Werner Karl Heisenberg
   - Werner Heisenberg
   - Heisenberg
+  - Heisenberg,Werner
 has_id_wikidata: Q40904
 ---
 

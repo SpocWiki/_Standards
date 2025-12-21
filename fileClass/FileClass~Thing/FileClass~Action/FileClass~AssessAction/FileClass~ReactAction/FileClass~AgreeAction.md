@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~AgreeAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/AgreeAction
-- class/Thing/Action/AssessAction/ReactAction/AgreeAction
-- is_an_/AgreeAction
-- schema-org/AgreeAction
+  - class/AgreeAction
+  - class/Thing/Action/AssessAction/ReactAction/AgreeAction
+  - is_an_/AgreeAction
+  - schema-org/AgreeAction
 tags:
-- class/FileClass
-- class/AgreeAction
-- '#is_an_/AgreeAction'
-- class/Thing/Action/AssessAction/ReactAction/AgreeAction
+  - class/FileClass
+  - class/AgreeAction
+  - '#is_an_/AgreeAction'
+  - class/Thing/Action/AssessAction/ReactAction/AgreeAction
 version: 2.0
 ---
 

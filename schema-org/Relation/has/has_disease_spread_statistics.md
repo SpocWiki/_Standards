@@ -2,12 +2,13 @@
 aliases:
   - has disease-spread-statistics
   - has_disease_spread_statistics
+  - has disease spread statistics
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - statistics
   - disease_spread_statistics
   - diseaseSpreadStatistics
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_disease_spread_statistics
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

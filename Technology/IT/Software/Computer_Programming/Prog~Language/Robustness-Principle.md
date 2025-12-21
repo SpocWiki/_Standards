@@ -1,8 +1,9 @@
 ---
 aliases:
-- "Postel's law"
-- "Postel's_Law"
-- "Robustness Principle"
+  - Postel's law
+  - Postel's_Law
+  - Robustness Principle
+  - Robustness-Principle
 ---
 
 > In computing, the **Robustness Principle** is a design guideline for software that states: 

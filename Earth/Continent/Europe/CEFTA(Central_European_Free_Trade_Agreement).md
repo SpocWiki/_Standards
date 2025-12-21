@@ -2,11 +2,13 @@
 aliases:
   - CEFTA
   - Mitteleuropäisches_Freihandelsabkommen
+  - CEFTA(Central_European_Free_Trade_Agreement)
+  - CEFTA(Central European Free Trade Agreement)
 has_id_wikidata: Q319014
-topic_has_template: "[[_Standards/WikiData/WD~Template_Country_data_Central_European_Free_Trade_Agreement,25736996]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Country_data_Central_European_Free_Trade_Agreement,25736996]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~organization,43229]]"
+  - '[[_Standards/WikiData/WD~organization,43229]]'
 point_in_time: 1992-12-21T00:00:00Z
 inception: 1992-12-21T00:00:00Z
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20CEFTA.svg

@@ -1,26 +1,4 @@
 ---
-location:
-  - -17.7667
-  - -66.7
-type: Country
-tags:
-  - geo/Country
-has_id_wikidata: Q750
-SpocWebEntityId: 26852
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Bolivia
-linkTitle:
-keywords:
-layout:
-draft: false
-publishDate:
-expiryDate:
 aliases:
   - Bolivia
   - Bolivia (Plurinational State of)
@@ -31,6 +9,28 @@ aliases:
   - Боливия (Многонациональное Государство)
   - the Plurinational State of Bolivia
   - Estado Plurinacional de Bolivia
+has_id_wikidata: Q750
+location:
+  - -17.7667
+  - -66.7
+type: Country
+tags:
+  - geo/Country
+SpocWebEntityId: 26852
+isDeleted: false
+confidential: public
+license: CC BY-SA 4.0
+isReadOnly: false
+source: https://datahub.io/core/country-codes
+cssclasses: Country
+publish: true
+title: Bolivia
+linkTitle: ""
+keywords: ""
+layout: ""
+draft: false
+publishDate: ""
+expiryDate: ""
 Languages:
   - es-BO
   - qu
@@ -373,7 +373,7 @@ urban_population:
   - 8369995
   - 8513008
   - 8658337
-inception: "1825"
+inception: 1825
 has_time_started: 1825-06
 population: 12244159
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia.svg

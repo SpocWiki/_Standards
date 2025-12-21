@@ -1,21 +1,22 @@
 ---
 aliases:
   - hydraulic
+  - Hydraulics
 has_id_wikidata: Q177784
 part_of:
-  - "[[_Standards/WikiData/WD~civil_engineering,77590]]"
-  - "[[_Standards/WikiData/WD~fluid_mechanics,172145]]"
+  - '[[_Standards/WikiData/WD~civil_engineering,77590]]'
+  - '[[_Standards/WikiData/WD~fluid_mechanics,172145]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-instance_of: "[[_Standards/WikiData/WD~scientific_knowledge,6045936]]"
-facet_of: "[[_Standards/WikiData/WD~hydrodynamics,12016129]]"
-different_from: "[[_Standards/WikiData/WD~Hydraulika,13419217]]"
-subclass_of: "[[_Standards/WikiData/WD~applied_science,28797]]"
-OmegaWiki_Defined_Meaning: "1817"
-U_S_National_Archives_Identifier: "10639770"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+instance_of: '[[_Standards/WikiData/WD~scientific_knowledge,6045936]]'
+facet_of: '[[_Standards/WikiData/WD~hydrodynamics,12016129]]'
+different_from: '[[_Standards/WikiData/WD~Hydraulika,13419217]]'
+subclass_of: '[[_Standards/WikiData/WD~applied_science,28797]]'
+OmegaWiki_Defined_Meaning: 1817
+U_S_National_Archives_Identifier: 10639770
 Commons_category: Hydraulics
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Table%20of%20Hydraulics%20and%20Hydrostatics%2C%20Cyclopaedia%2C%20Volume%201.jpg
 ---

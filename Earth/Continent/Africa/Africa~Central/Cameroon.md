@@ -1,4 +1,15 @@
 ---
+aliases:
+  - Cameroon
+  - Camerún
+  - Cameroun
+  - الكاميرون
+  - 喀麦隆
+  - Камерун
+  - the Republic of Cameroon
+  - la República del Camerún
+  - Camerún (el)
+has_id_wikidata: Q1009
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Cameroon,107152]]"
 located_in_or_next_to_body_of_water:
   - "[[_Standards/WikiData/WD~Lake_Chad,125309]]"
@@ -568,7 +579,6 @@ pronunciation_audio:
 country_calling_code: 237
 CIVICUS_Monitor_country_entry: cameroon
 GitHub_topic: cameroon
-has_id_wikidata: Q1009
 location:
   - 3.94
   - 10.6
@@ -585,22 +595,12 @@ cssclasses:
   - Country
 publish: true
 title: Cameroon
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Cameroon
-  - Camerún
-  - Cameroun
-  - الكاميرون
-  - 喀麦隆
-  - Камерун
-  - the Republic of Cameroon
-  - la República del Camerún
-  - Camerún (el)
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-CM
   - fr-CM

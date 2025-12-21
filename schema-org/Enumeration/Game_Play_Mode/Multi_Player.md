@@ -4,21 +4,23 @@ aliases:
   - multi_player
   - MultiPlayer
   - is_a_multi_player
+  - Multi_Player
+  - Multi Player
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: GamePlayMode
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - multi_player
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_multi_player Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

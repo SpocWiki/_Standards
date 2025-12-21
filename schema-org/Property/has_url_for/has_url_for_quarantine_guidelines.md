@@ -4,21 +4,22 @@ aliases:
   - quarantine_guidelines
   - quarantineGuidelines
   - has_url_for_quarantine_guidelines
+  - has url for quarantine guidelines
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - quarantine_guidelines
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_quarantine_guidelines
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

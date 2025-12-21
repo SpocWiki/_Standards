@@ -4,21 +4,22 @@ aliases:
   - number-of-full-bathrooms
   - numberOfFullBathrooms
   - has_number_of_full_bathrooms
+  - has number of full bathrooms
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - number-of-full-bathrooms
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_number-of-full-bathrooms
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

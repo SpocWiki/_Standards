@@ -4,21 +4,22 @@ aliases:
   - cost-per-unit
   - costPerUnit
   - has_value_for_cost_per_unit
+  - has value for cost per unit
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - cost-per-unit
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_cost-per-unit
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

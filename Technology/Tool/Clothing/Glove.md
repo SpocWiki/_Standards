@@ -1,6 +1,7 @@
 ---
 aliases:
   - Handschuh
+  - Glove
 has_id_wikidata: Q169031
 described_by_source:
   - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -15,8 +16,8 @@ subclass_of:
   - "[[_Standards/WikiData/WD~protective_clothing,14524031]]"
   - "[[_Standards/WikiData/WD~handwear,28932195]]"
 worn_on: "[[_Standards/WikiData/WD~hand,33767]]"
-Nomenclature_for_Museum_Cataloging: "2042"
-OmegaWiki_Defined_Meaning: "369021"
+Nomenclature_for_Museum_Cataloging: 2042
+OmegaWiki_Defined_Meaning: 369021
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Centre%20de%20Documentaci%C3%B3%20Museu%20T%C3%A8xtil%20de%20Terrassa-%20Reserves-%20Teixits-%20Guants002.JPG
 Commons_category: Gloves
 Commons_gallery: Glove
@@ -24,7 +25,7 @@ IMDb_keyword: gloves
 Unicode_character: 🧤
 ---
 
-# [[Glove]] 
+# [[Glove]] 🧤 
 
 #is_/similar_to :: [[Mitten]] 
 #is_/similar_to :: [[Gauntlet]]

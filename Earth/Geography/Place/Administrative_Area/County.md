@@ -3,18 +3,19 @@ aliases:
   - Grafschaft
   - comté
   - comitatus
+  - County
 has_id_wikidata: Q28575
 subclass_of:
-  - "[[_Standards/WikiData/WD~region,82794]]"
-  - "[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
-different_from: "[[_Standards/WikiData/WD~County,855080]]"
+  - '[[_Standards/WikiData/WD~region,82794]]'
+  - '[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]'
+different_from: '[[_Standards/WikiData/WD~County,855080]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-instance_of: "[[_Standards/WikiData/WD~administrative_territorial_entity_type,15617994]]"
-OmegaWiki_Defined_Meaning: "971834"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+instance_of: '[[_Standards/WikiData/WD~administrative_territorial_entity_type,15617994]]'
+OmegaWiki_Defined_Meaning: 971834
 described_at_URL: https://www.whosonfirst.org/docs/placetypes/#county
 UMLS_CUI: C0079170
 Commons_category: Counties

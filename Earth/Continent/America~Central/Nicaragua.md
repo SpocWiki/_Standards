@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Nicaragua
+  - نيكاراغوا
+  - 尼加拉瓜
+  - Никарагуа
+  - the Republic of Nicaragua
+  - la República de Nicaragua
+has_id_wikidata: Q811
 head_of_government:
   - "[[_Standards/WikiData/WD~Violeta_Barrios,114142]]"
   - "[[_Standards/WikiData/WD~Enrique_Bolaños,311355]]"
@@ -288,7 +296,6 @@ motto_text:
   - Unica. Original!
 native_label: República de Nicaragua
 short_name: 🇳🇮
-has_id_wikidata: Q811
 location:
   - 12.15
   - -86.28
@@ -305,19 +312,12 @@ cssclasses:
   - Country
 publish: true
 title: Nicaragua
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Nicaragua
-  - نيكاراغوا
-  - 尼加拉瓜
-  - Никарагуа
-  - the Republic of Nicaragua
-  - la República de Nicaragua
+publishDate: ""
+expiryDate: ""
 Languages:
   - es-NI
   - en

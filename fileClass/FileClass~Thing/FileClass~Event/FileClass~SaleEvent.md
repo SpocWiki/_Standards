@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~SaleEvent
+excludes: ''
 extends: FileClass~Thing/FileClass~Event
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/SaleEvent
-- class/Thing/Event/SaleEvent
-- is_a_/SaleEvent
-- schema-org/SaleEvent
+  - class/SaleEvent
+  - class/Thing/Event/SaleEvent
+  - is_a_/SaleEvent
+  - schema-org/SaleEvent
 tags:
-- class/FileClass
-- class/SaleEvent
-- is_a_/SaleEvent
-- class/Thing/Event/SaleEvent
+  - class/FileClass
+  - class/SaleEvent
+  - is_a_/SaleEvent
+  - class/Thing/Event/SaleEvent
 version: 2.0
 ---
 

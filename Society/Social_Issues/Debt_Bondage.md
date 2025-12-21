@@ -4,15 +4,17 @@ aliases:
   - debt slavery
   - bonded labour
   - peonage
+  - Debt_Bondage
+  - Debt Bondage
 has_id_wikidata: Q2165988
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-significant_event: "[[_Standards/WikiData/WD~colonial_history_of_the_United_States,1055643]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+significant_event: '[[_Standards/WikiData/WD~colonial_history_of_the_United_States,1055643]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~contemporary_slavery,3369955]]"
-  - "[[_Standards/WikiData/WD~slavery,8463]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
+  - '[[_Standards/WikiData/WD~contemporary_slavery,3369955]]'
+  - '[[_Standards/WikiData/WD~slavery,8463]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
 ---
 
 # [[Debt_Bondage]] 

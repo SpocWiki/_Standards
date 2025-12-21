@@ -4,22 +4,24 @@ aliases:
   - accessibility_summary
   - accessibilitySummary
   - has_text_of_accessibility_summary
+  - has_accessibility_summary
+  - has accessibility summary
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - accessibility
   - summary
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_accessibility_summary
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

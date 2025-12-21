@@ -4,21 +4,22 @@ aliases:
   - pet_allowed
   - petsAllowed
   - is_pet_allowed
+  - is pet allowed
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - pet_allowed
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_pet_allowed
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

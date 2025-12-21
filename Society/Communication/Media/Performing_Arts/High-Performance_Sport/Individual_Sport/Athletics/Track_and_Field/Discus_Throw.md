@@ -2,18 +2,20 @@
 aliases:
   - discus throw
   - disc throw
+  - Discus_Throw
+  - Discus Throw
 has_id_wikidata: Q182570
 record_or_record_progression:
   - "[[_Standards/WikiData/WD~Men's_discus_throw_world_record_progression,70466]]"
   - "[[_Standards/WikiData/WD~Women's_discus_throw_world_record_progression,3922788]]"
-subclass_of: "[[_Standards/WikiData/WD~weight_throwing,259509]]"
+subclass_of: '[[_Standards/WikiData/WD~weight_throwing,259509]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-uses: "[[_Standards/WikiData/WD~discus,1228822]]"
-instance_of: "[[_Standards/WikiData/WD~sports_discipline,2312410]]"
-practiced_by: "[[_Standards/WikiData/WD~discus_thrower,13381689]]"
-sport: "[[_Standards/WikiData/WD~athletics,542]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+uses: '[[_Standards/WikiData/WD~discus,1228822]]'
+instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
+practiced_by: '[[_Standards/WikiData/WD~discus_thrower,13381689]]'
+sport: '[[_Standards/WikiData/WD~athletics,542]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20bronze%20copy%20of%20Myron%E2%80%99s%20Discobolos%2C%202nd%20century%20CE%20%28Glyptothek%20Munich%29.jpg
 Commons_gallery: Discus
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Diskuswurf.ogg

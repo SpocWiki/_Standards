@@ -4,62 +4,63 @@ aliases:
   - James Francis Cagney Jr.
   - James Cagney
   - Cagney
+  - Cagney,James
 has_id_wikidata: Q94041
-nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
-  - "[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]"
-  - "[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
-employer: "[[_Standards/WikiData/WD~Warner_Bros.,126399]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+employer: '[[_Standards/WikiData/WD~Warner_Bros.,126399]]'
 genre:
-  - "[[_Standards/WikiData/WD~Western_film,172980]]"
-  - "[[_Standards/WikiData/WD~crime_film,959790]]"
-  - "[[_Standards/WikiData/WD~gangster_film,7444356]]"
+  - '[[_Standards/WikiData/WD~Western_film,172980]]'
+  - '[[_Standards/WikiData/WD~crime_film,959790]]'
+  - '[[_Standards/WikiData/WD~gangster_film,7444356]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~character_actor,948329]]"
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~dancer,5716684]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~trade_unionist,15627169]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-dance_style: "[[_Standards/WikiData/WD~tap_dance,244475]]"
-given_name: "[[_Standards/WikiData/WD~James,677191]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~character_actor,948329]]'
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~director,3455803]]'
+  - '[[_Standards/WikiData/WD~dancer,5716684]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~trade_unionist,15627169]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+dance_style: '[[_Standards/WikiData/WD~tap_dance,244475]]'
+given_name: '[[_Standards/WikiData/WD~James,677191]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Stuyvesant_High_School,3098911]]"
-  - "[[_Standards/WikiData/WD~Columbia_University,49088]]"
-place_of_death: "[[_Standards/WikiData/WD~Stanford,3250385]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-place_of_burial: "[[_Standards/WikiData/WD~Gate_of_Heaven_Cemetery,4127009]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Cagney,21507092]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - '[[_Standards/WikiData/WD~Stuyvesant_High_School,3098911]]'
+  - '[[_Standards/WikiData/WD~Columbia_University,49088]]'
+place_of_death: '[[_Standards/WikiData/WD~Stanford,3250385]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+place_of_burial: '[[_Standards/WikiData/WD~Gate_of_Heaven_Cemetery,4127009]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Cagney,21507092]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 date_of_birth: 1899-07-17T00:00:00Z
-spouse: "[[_Standards/WikiData/WD~Frances_Cagney,104766659]]"
-position_held: "[[_Standards/WikiData/WD~President_of_SAG,120638159]]"
+spouse: '[[_Standards/WikiData/WD~Frances_Cagney,104766659]]'
+position_held: '[[_Standards/WikiData/WD~President_of_SAG,120638159]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Yiddish,8641]]"
-place_of_birth: "[[_Standards/WikiData/WD~Manhattan,11299]]"
-cause_of_death: "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Yiddish,8641]]'
+place_of_birth: '[[_Standards/WikiData/WD~Manhattan,11299]]'
+cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
 member_of_political_party:
-  - "[[_Standards/WikiData/WD~Republican_Party,29468]]"
-  - "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+  - '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 height: 165
 Commons_gallery: James Cagney
 Commons_category: James Cagney
-ISNI: "0000000121283597"
+ISNI: 0000000121283597
 generational_suffix: L252247-F2
 work_period_end_: 1984-01-01T00:00:00Z
 date_of_death: 1986-03-30T00:00:00Z
-U_S_National_Archives_Identifier: "10582306"
+U_S_National_Archives_Identifier: 10582306
 work_period_start_: 1919-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/James%20cagney%20promo%20photo%20%28cropped%2C%20centered%29.jpg
 Libris_URI: 20dgk2vl1g9rnzp

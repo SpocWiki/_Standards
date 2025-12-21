@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Paul Stanley"
+  - Paul Stanley
+  - Stanley,Paul
 ---
 
 #has_/time_/started :: 1952-01-20 

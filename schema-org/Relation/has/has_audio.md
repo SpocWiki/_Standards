@@ -1,21 +1,22 @@
 ---
 aliases:
   - has_audio
+  - has audio
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - audio
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_audio
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

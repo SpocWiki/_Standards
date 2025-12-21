@@ -1,27 +1,28 @@
 ---
 aliases:
-- has_illustrator
-- "schema:illustrator"
-- "dbo:illustrator"
-- "wdt:P14"
+  - has_illustrator
+  - schema:illustrator
+  - dbo:illustrator
+  - wdt:P14
+  - has illustrator
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- illustrator
-layout: 
-license: "CC BY-SA 4.0"
+  - illustrator
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_illustrator
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_illustrator
 type: Predi_Relation
 ---

@@ -4,20 +4,22 @@ aliases:
   - media_object
   - MediaObject
   - is_a_media_object
+  - Media_Object
+  - Media Object
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - media_object
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_media_object Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

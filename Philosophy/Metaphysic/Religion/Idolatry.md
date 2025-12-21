@@ -1,20 +1,21 @@
 ---
 aliases:
   - Götzenanbetung
+  - Idolatry
 has_id_wikidata: Q840665
 subclass_of:
-  - "[[_Standards/WikiData/WD~dogma,620749]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
+  - '[[_Standards/WikiData/WD~dogma,620749]]'
+  - '[[_Standards/WikiData/WD~religion,9174]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Kościelna_encyclopedia,9253865]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-instance_of: "[[_Standards/WikiData/WD~religious_belief,2728698]]"
-has_characteristic: "[[_Standards/WikiData/WD~cult_image,2820111]]"
-main_subject: "[[_Standards/WikiData/WD~idol,18448698]]"
-part_of: "[[_Standards/WikiData/WD~polytheism,9163]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Kościelna_encyclopedia,9253865]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~religious_belief,2728698]]'
+has_characteristic: '[[_Standards/WikiData/WD~cult_image,2820111]]'
+main_subject: '[[_Standards/WikiData/WD~idol,18448698]]'
+part_of: '[[_Standards/WikiData/WD~polytheism,9163]]'
 Library_of_Congress_Classification: BL485
 related_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20poussin%2C%20adorazione%20del%20vitello%20d%27oro%2C%201633-34FXD.jpg

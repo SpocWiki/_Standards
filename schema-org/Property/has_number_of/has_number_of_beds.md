@@ -4,21 +4,22 @@ aliases:
   - number-of-beds
   - numberOfBeds
   - has_number_of_beds
+  - has number of beds
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - number-of-beds
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_number-of-beds
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

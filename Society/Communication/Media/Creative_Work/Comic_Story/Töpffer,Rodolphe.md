@@ -4,6 +4,7 @@ aliases:
   - Rodolphe Töpffer
   - Rodolphe_Töpffer
   - Töpffer
+  - Töpffer,Rodolphe
 ---
 
 #is_/same_as :: 

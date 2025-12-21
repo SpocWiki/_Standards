@@ -1,235 +1,237 @@
 ---
-excludes: 
+aliases:
+  - FileClass~EventAndSeries
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series
 fields:
-- id: oYW3hv
-  name: About
-  options:
-    dvQueryString: "dv.pages('#class/Thing')"
-  type: MultiFile
-  path: ''
-- id: itZJfD
-  name: Actor
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: v5ZMrT
-  name: AggregateRating
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Rating/AggregateRating')"
-  type: MultiFile
-  path: ''
-- id: T4Zdx4
-  name: Attendee
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: ebqEMf
-  name: Audience
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Audience')"
-  type: MultiFile
-  path: ''
-- id: fGb1TP
-  name: Composer
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: RjcYKp
-  name: Contributor
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: Lb7109
-  name: Director
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: kEBVdK
-  name: DoorTime
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: C9omW2
-  name: Duration
-  options:
-    min: 0
-    max: 2359
-  type: Number
-  path: ''
-- id: Fwj0SR
-  name: EndDate
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: FcpnmV
-  name: EventSchedule
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Schedule')"
-  type: MultiFile
-  path: ''
-- id: AVtBlG
-  name: Funder
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: YyvNs1
-  name: Funding
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Grant')"
-  type: MultiFile
-  path: ''
-- id: DmElNY
-  name: InLanguage
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Language')"
-  type: MultiFile
-  path: ''
-- id: LTKsAx
-  name: IsAccessibleForFree
-  options: {}
-  type: Boolean
-  path: ''
-- id: bHXPvR
-  name: Keywords
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm')"
-  type: MultiFile
-  path: ''
-- id: Nik4LT
-  name: Location
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place')"
-  type: MultiFile
-  path: ''
-- id: kiX0xq
-  name: MaximumAttendeeCapacity
-  options: {}
-  type: Number
-  path: ''
-- id: CVbTm5
-  name: MaximumPhysicalAttendeeCapacity
-  options: {}
-  type: Number
-  path: ''
-- id: d1DWM4
-  name: MaximumVirtualAttendeeCapacity
-  options: {}
-  type: Number
-  path: ''
-- id: Pcjpv8
-  name: Offers
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Demand')"
-  type: MultiFile
-  path: ''
-- id: 8rqKGw
-  name: Organizer
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: 5f5bDO
-  name: Performer
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: Wcv3xB
-  name: PreviousStartDate
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: A4uQuX
-  name: RecordedIn
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
-  type: MultiFile
-  path: ''
-- id: vF4hQx
-  name: RemainingAttendeeCapacity
-  options: {}
-  type: Number
-  path: ''
-- id: WpuzIq
-  name: Review
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Review')"
-  type: MultiFile
-  path: ''
-- id: 27JFYh
-  name: Sponsor
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: Z12kWx
-  name: StartDate
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: IMNv6O
-  name: SubEvent
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Event')"
-  type: MultiFile
-  path: ''
-- id: PxTHxY
-  name: SuperEvent
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Event')"
-  type: MultiFile
-  path: ''
-- id: vSso1l
-  name: Translator
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: I2VYlH
-  name: TypicalAgeRange
-  options: {}
-  type: Input
-  path: ''
-- id: PoPCxf
-  name: WorkFeatured
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
-  type: MultiFile
-  path: ''
-- id: cveE8l
-  name: WorkPerformed
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
-  type: MultiFile
-  path: ''
+  - id: oYW3hv
+    name: About
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ''
+  - id: itZJfD
+    name: Actor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: v5ZMrT
+    name: AggregateRating
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Rating/AggregateRating')
+    type: MultiFile
+    path: ''
+  - id: T4Zdx4
+    name: Attendee
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: ebqEMf
+    name: Audience
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
+    type: MultiFile
+    path: ''
+  - id: fGb1TP
+    name: Composer
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: RjcYKp
+    name: Contributor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: Lb7109
+    name: Director
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: kEBVdK
+    name: DoorTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: C9omW2
+    name: Duration
+    options:
+      min: 0
+      max: 2359
+    type: Number
+    path: ''
+  - id: Fwj0SR
+    name: EndDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: FcpnmV
+    name: EventSchedule
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Schedule')
+    type: MultiFile
+    path: ''
+  - id: AVtBlG
+    name: Funder
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: YyvNs1
+    name: Funding
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Grant')
+    type: MultiFile
+    path: ''
+  - id: DmElNY
+    name: InLanguage
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Language')
+    type: MultiFile
+    path: ''
+  - id: LTKsAx
+    name: IsAccessibleForFree
+    options: {}
+    type: Boolean
+    path: ''
+  - id: bHXPvR
+    name: Keywords
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ''
+  - id: Nik4LT
+    name: Location
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ''
+  - id: kiX0xq
+    name: MaximumAttendeeCapacity
+    options: {}
+    type: Number
+    path: ''
+  - id: CVbTm5
+    name: MaximumPhysicalAttendeeCapacity
+    options: {}
+    type: Number
+    path: ''
+  - id: d1DWM4
+    name: MaximumVirtualAttendeeCapacity
+    options: {}
+    type: Number
+    path: ''
+  - id: Pcjpv8
+    name: Offers
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Demand')
+    type: MultiFile
+    path: ''
+  - id: 8rqKGw
+    name: Organizer
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: 5f5bDO
+    name: Performer
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: Wcv3xB
+    name: PreviousStartDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: A4uQuX
+    name: RecordedIn
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ''
+  - id: vF4hQx
+    name: RemainingAttendeeCapacity
+    options: {}
+    type: Number
+    path: ''
+  - id: WpuzIq
+    name: Review
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+    type: MultiFile
+    path: ''
+  - id: 27JFYh
+    name: Sponsor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: Z12kWx
+    name: StartDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: IMNv6O
+    name: SubEvent
+    options:
+      dvQueryString: dv.pages('#class/Thing/Event')
+    type: MultiFile
+    path: ''
+  - id: PxTHxY
+    name: SuperEvent
+    options:
+      dvQueryString: dv.pages('#class/Thing/Event')
+    type: MultiFile
+    path: ''
+  - id: vSso1l
+    name: Translator
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: I2VYlH
+    name: TypicalAgeRange
+    options: {}
+    type: Input
+    path: ''
+  - id: PoPCxf
+    name: WorkFeatured
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ''
+  - id: cveE8l
+    name: WorkPerformed
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/EventAndSeries
-- class/Thing/Intangible/Series/EventAndSeries
-- is_an_/EventAndSeries
-- schema-org/EventAndSeries
+  - class/EventAndSeries
+  - class/Thing/Intangible/Series/EventAndSeries
+  - is_an_/EventAndSeries
+  - schema-org/EventAndSeries
 tags:
-- class/FileClass
-- class/EventAndSeries
-- '#is_an_/EventAndSeries'
-- class/Thing/Intangible/Series/EventAndSeries
+  - class/FileClass
+  - class/EventAndSeries
+  - '#is_an_/EventAndSeries'
+  - class/Thing/Intangible/Series/EventAndSeries
 version: 2.0
 ---
 

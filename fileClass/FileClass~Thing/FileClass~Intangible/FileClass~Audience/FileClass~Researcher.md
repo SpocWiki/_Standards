@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Researcher
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Researcher
-- class/Thing/Intangible/Audience/Researcher
-- is_a_/Researcher
-- schema-org/Researcher
+  - class/Researcher
+  - class/Thing/Intangible/Audience/Researcher
+  - is_a_/Researcher
+  - schema-org/Researcher
 tags:
-- class/FileClass
-- class/Researcher
-- is_a_/Researcher
-- class/Thing/Intangible/Audience/Researcher
+  - class/FileClass
+  - class/Researcher
+  - is_a_/Researcher
+  - class/Thing/Intangible/Audience/Researcher
 version: 2.0
 ---
 

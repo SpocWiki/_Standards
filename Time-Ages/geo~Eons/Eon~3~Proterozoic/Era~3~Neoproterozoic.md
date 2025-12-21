@@ -1,9 +1,11 @@
 ---
+aliases:
+  - Era~3~Neoproterozoic
 has_id_wikidata: Q191935
 instance_of:
-  - "[[_Standards/WikiData/WD~era,630830]]"
-  - "[[_Standards/WikiData/WD~erathem,2464485]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+  - '[[_Standards/WikiData/WD~era,630830]]'
+  - '[[_Standards/WikiData/WD~erathem,2464485]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -1000000000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bent%20Rock%20at%20the%20Crudha%20Ard%20-%20geograph.org.uk%20-%20447478.jpg
 sRGB_color_hex_triplet: FEB342

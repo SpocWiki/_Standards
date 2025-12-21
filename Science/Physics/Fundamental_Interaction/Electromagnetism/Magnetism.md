@@ -1,6 +1,7 @@
 ---
 aliases:
   - Magnetismus
+  - Magnetism
 has_id_wikidata: Q3294789
 ---
 

@@ -1,22 +1,24 @@
 ---
 aliases:
   - Bundesland
+  - Federated_state
+  - Federated state
 has_id_wikidata: Q107390
 different_from:
-  - "[[_Standards/WikiData/WD~autonomous_administrative_territorial_entity,788176]]"
-  - "[[_Standards/WikiData/WD~constituent_state,1763527]]"
-  - "[[_Standards/WikiData/WD~Q111818978,111818978]]"
-  - "[[_Standards/WikiData/WD~state,7275]]"
+  - '[[_Standards/WikiData/WD~autonomous_administrative_territorial_entity,788176]]'
+  - '[[_Standards/WikiData/WD~constituent_state,1763527]]'
+  - '[[_Standards/WikiData/WD~Q111818978,111818978]]'
+  - '[[_Standards/WikiData/WD~state,7275]]'
 part_of:
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~federation,43702]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+  - '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+  - '[[_Standards/WikiData/WD~federation,43702]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~former_or_current_state,96196009]]"
-  - "[[_Standards/WikiData/WD~state,7275]]"
-  - "[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
-has_characteristic: "[[_Standards/WikiData/WD~sovereignty,42008]]"
+  - '[[_Standards/WikiData/WD~former_or_current_state,96196009]]'
+  - '[[_Standards/WikiData/WD~state,7275]]'
+  - '[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]'
+has_characteristic: '[[_Standards/WikiData/WD~sovereignty,42008]]'
 equivalent_class: https://schema.org/State
 Commons_category: Federated states
 OpenStreetMap_tag_or_key: Tag:place=state

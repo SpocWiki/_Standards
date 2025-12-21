@@ -1,26 +1,27 @@
 ---
 aliases:
   - Fürstentum
+  - Principality
 has_id_wikidata: Q208500
 subclass_of:
-  - "[[_Standards/WikiData/WD~fiefdom,188063]]"
-  - "[[_Standards/WikiData/WD~manorialism,1550557]]"
-  - "[[_Standards/WikiData/WD~monarchy,7269]]"
-  - "[[_Standards/WikiData/WD~state,7275]]"
+  - '[[_Standards/WikiData/WD~fiefdom,188063]]'
+  - '[[_Standards/WikiData/WD~manorialism,1550557]]'
+  - '[[_Standards/WikiData/WD~monarchy,7269]]'
+  - '[[_Standards/WikiData/WD~state,7275]]'
 office_held_by_head_of_state:
-  - "[[_Standards/WikiData/WD~knyaz,273613]]"
-  - "[[_Standards/WikiData/WD~Fürst,18244]]"
+  - '[[_Standards/WikiData/WD~knyaz,273613]]'
+  - '[[_Standards/WikiData/WD~Fürst,18244]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~form_of_government,1307214]]"
-  - "[[_Standards/WikiData/WD~administrative_territorial_entity_type,15617994]]"
-different_from: "[[_Standards/WikiData/WD~Principality,7245098]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~monarchy,7269]]"
-named_after: "[[_Standards/WikiData/WD~Fürst,18244]]"
+  - '[[_Standards/WikiData/WD~form_of_government,1307214]]'
+  - '[[_Standards/WikiData/WD~administrative_territorial_entity_type,15617994]]'
+different_from: '[[_Standards/WikiData/WD~Principality,7245098]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
+named_after: '[[_Standards/WikiData/WD~Fürst,18244]]'
 Commons_category: Principalities
 ---
 

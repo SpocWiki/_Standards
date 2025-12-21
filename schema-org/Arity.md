@@ -1,12 +1,13 @@
 ---
 aliases:
-- nullary
-- Unary
-- Binary
-- Ternary
-- Quaternary
-- variadic
-- adicity
+  - nullary
+  - Unary
+  - Binary
+  - Ternary
+  - Quaternary
+  - variadic
+  - adicity
+  - Arity
 ---
 
 0. nullary

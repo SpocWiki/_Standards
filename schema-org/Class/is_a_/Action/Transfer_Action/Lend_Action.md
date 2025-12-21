@@ -4,20 +4,22 @@ aliases:
   - lend_action
   - LendAction
   - is_a_lend_action
+  - Lend_Action
+  - Lend Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - lend_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_lend_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

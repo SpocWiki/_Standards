@@ -4,22 +4,24 @@ aliases:
   - clinical_pharmacology
   - clinicalPharmacology
   - has_text_of_clinical_pharmacology
+  - has_clinical_pharmacology
+  - has clinical pharmacology
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - clinical
   - pharmacology
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_clinical_pharmacology
 publish: true
-publishDate:
+publishDate: ''
 supersedes: clincalPharmacology
 tags:
   - class/Property

@@ -3,23 +3,24 @@ aliases:
   - has hours-available
   - hoursAvailable
   - has_hours_available
+  - has hours available
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - hours_available
   - hours
   - available
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_hours_available
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

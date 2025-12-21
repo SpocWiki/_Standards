@@ -3,23 +3,24 @@ aliases:
   - has reservation-for
   - reservationFor
   - has_reservation_for
+  - has reservation for
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - reservation_for
   - reservation
   - for
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_reservation_for
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -2,17 +2,18 @@
 aliases:
   - Panzerung
   - Armour
+  - Armor
 has_id_wikidata: Q11886611
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~defense_material,2554615]]"
-  - "[[_Standards/WikiData/WD~protective_device,3030569]]"
+  - '[[_Standards/WikiData/WD~defense_material,2554615]]'
+  - '[[_Standards/WikiData/WD~protective_device,3030569]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mycenaean%20armour%20from%20chamber%20tomb%2012%20of%20Dendra%201.JPG
 sectional_view: http://commons.wikimedia.org/wiki/Special:FilePath/Samples%20of%20Armored%20Steel%20at%20the%20Museum%20of%20the%20Uralmash%20Plant%20-%202.jpg
 Commons_gallery: Armour

@@ -1,6 +1,8 @@
 ---
 aliases:
   - magnetic flux
+  - Magnetic_Flux
+  - Magnetic Flux
 has_id_wikidata: Q177831
 subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
@@ -28,7 +30,7 @@ defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x03A6;</mi><mo stretchy="false">=</mo><msub><mstyle displaystyle="true"><mo>&#x222E;</mo></mstyle><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>𝖢</mi></mrow></mrow></msub><mrow data-mjx-texclass="ORD"><mi>𝑨</mi></mrow><mo stretchy="false">&#x22C5;</mo><mrow data-mjx-texclass="ORD"><mi>𝖽</mi></mrow><mrow data-mjx-texclass="ORD"><mi>𝒓</mi></mrow></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x03A6;</mi><mo stretchy="false">=</mo><munder><mo stretchy="false">&#x222B;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>𝖲</mi></mrow></mrow></munder><mrow data-mjx-texclass="ORD"><mi>𝑩</mi></mrow><mo stretchy="false">&#x22C5;</mo><msub><mrow data-mjx-texclass="ORD"><mi>𝒆</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">n</mi></mrow></mrow></msub><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">d</mi></mrow><mi>A</mi></mstyle></mrow></math>
 part_of: "[[_Standards/WikiData/WD~electromagnetism,11406]]"
-OmegaWiki_Defined_Meaning: "772702"
+OmegaWiki_Defined_Meaning: 772702
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FlujoMagnetico.svg
 IEV_number: 121-11-21
 Commons_category: Magnetic flux

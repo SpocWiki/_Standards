@@ -1,54 +1,56 @@
 ---
 aliases:
-- "Vietnam War"
-Commons_category: "Vietnam War"
-end_time: 1975-04-30
+  - Vietnam War
+  - 1955-Vietnam_War
+  - 1955-Vietnam War
 has_id_wikidata: Q8740
+Commons_category: Vietnam War
+end_time: 1975-04-30
 has_time_started: 1955-11-01
 has_time_stopped: 1975-04-30
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/VietnamMural.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/VietnamMural.jpg
 instance_of: '[[_Standards/WikiData/WD~proxy_war,864113]]'
 Krugosvet_article: istoriya/VETNAMSKAYA_VONA.html
 location:
-- '[[_Standards/WikiData/WD~Cambodia,424]]'
-- '[[_Standards/WikiData/WD~Laos,819]]'
-- '[[_Standards/WikiData/WD~North_Vietnam,172640]]'
-- '[[_Standards/WikiData/WD~Republic_of_Vietnam,180573]]'
+  - '[[_Standards/WikiData/WD~Cambodia,424]]'
+  - '[[_Standards/WikiData/WD~Laos,819]]'
+  - '[[_Standards/WikiData/WD~North_Vietnam,172640]]'
+  - '[[_Standards/WikiData/WD~Republic_of_Vietnam,180573]]'
 MeSH_tree_code:
-- I01.880.735.950.250.937
-- K01.400.504.968.850
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/VietnamMural.jpg"
+  - I01.880.735.950.250.937
+  - K01.400.504.968.850
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/VietnamMural.jpg
 number_of_deaths:
-- 1291426
-- 4211459
+  - 1291426
+  - 4211459
 order_of_battle:
-- '[[_Standards/WikiData/WD~Order_of_battle_of_Australian_forces_during_the_Vietnam_War,21005872]]'
-- '[[_Standards/WikiData/WD~order_of_battle_of_the_Vietnam_War,12598128]]'
+  - '[[_Standards/WikiData/WD~Order_of_battle_of_Australian_forces_during_the_Vietnam_War,21005872]]'
+  - '[[_Standards/WikiData/WD~order_of_battle_of_the_Vietnam_War,12598128]]'
 participant:
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Colombia,739]]'
-- '[[_Standards/WikiData/WD~GRUNK,221066]]'
-- '[[_Standards/WikiData/WD~Philippines,928]]'
-- '[[_Standards/WikiData/WD~Thailand,869]]'
-- '[[_Standards/WikiData/WD~Khmer_Republic,1054184]]'
-- '[[_Standards/WikiData/WD~Khmer_Rouge,191764]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Cambodia,2638486]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Laos,870055]]'
-- '[[_Standards/WikiData/WD~National_Liberation_Front_of_South_Vietnam,174423]]'
-- '[[_Standards/WikiData/WD~New_Zealand,664]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~North_Vietnam,172640]]'
-- '[[_Standards/WikiData/WD~Pathet_Lao,858887]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Republic_of_Vietnam,180573]]'
-- '[[_Standards/WikiData/WD~South_Korea,884]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Vietnamkrieg.ogg"
+  - '[[_Standards/WikiData/WD~Australia,408]]'
+  - '[[_Standards/WikiData/WD~Colombia,739]]'
+  - '[[_Standards/WikiData/WD~GRUNK,221066]]'
+  - '[[_Standards/WikiData/WD~Philippines,928]]'
+  - '[[_Standards/WikiData/WD~Thailand,869]]'
+  - '[[_Standards/WikiData/WD~Khmer_Republic,1054184]]'
+  - '[[_Standards/WikiData/WD~Khmer_Rouge,191764]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Cambodia,2638486]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Laos,870055]]'
+  - '[[_Standards/WikiData/WD~National_Liberation_Front_of_South_Vietnam,174423]]'
+  - '[[_Standards/WikiData/WD~New_Zealand,664]]'
+  - '[[_Standards/WikiData/WD~North_Korea,423]]'
+  - '[[_Standards/WikiData/WD~North_Vietnam,172640]]'
+  - '[[_Standards/WikiData/WD~Pathet_Lao,858887]]'
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - '[[_Standards/WikiData/WD~Republic_of_Vietnam,180573]]'
+  - '[[_Standards/WikiData/WD~South_Korea,884]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Vietnamkrieg.ogg
 start_time: 1955-11-01
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Campaignbox_Vietnam_War,8085558]]'
 UMLS_CUI: C1449760
 U_S_National_Archives_Identifier: 10643608
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/1965-02-08%20Showdown%20in%20Vietnam.ogv"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/1965-02-08%20Showdown%20in%20Vietnam.ogv
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Vietnam_War,8192852]]'
 ---
 

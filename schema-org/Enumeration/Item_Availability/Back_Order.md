@@ -4,21 +4,23 @@ aliases:
   - back_order
   - BackOrder
   - is_back_ordered
+  - Back_Order
+  - Back Order
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: ItemAvailability
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - back_order
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_back_ordered Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

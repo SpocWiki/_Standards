@@ -2,9 +2,10 @@
 aliases:
   - White wine
   - Weißwein
+  - White_wine
 has_id_wikidata: Q10210
-instance_of: "[[_Standards/WikiData/WD~wine_color,8024923]]"
-subclass_of: "[[_Standards/WikiData/WD~wine,282]]"
+instance_of: '[[_Standards/WikiData/WD~wine_color,8024923]]'
+subclass_of: '[[_Standards/WikiData/WD~wine,282]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Two%20Chenin%20Blanc%20wines%20in%20glass.jpg
 Commons_category: White wine
 ---

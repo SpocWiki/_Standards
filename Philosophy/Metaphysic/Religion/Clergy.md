@@ -8,6 +8,7 @@ aliases:
   - cleric
   - ecclesiastic
   - vicegerent
+  - Clergy
 has_id_wikidata: Q177826
 ---
 

@@ -1,7 +1,9 @@
 ---
 aliases:
-- "The Golden Compass"
-- "Northern Lights"
+  - The Golden Compass
+  - Northern Lights
+  - Golden_Compass
+  - Golden Compass
 ---
 
 ## #has_/text_of_/abstract 

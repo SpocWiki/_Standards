@@ -1,31 +1,32 @@
 ---
 aliases:
-- member-of
-- member_of
-- memberOf
-- is_member_of
-- "schema:memberOf"
-- "dbo:memberOf"
-- "wdt:P463"
+  - member-of
+  - member_of
+  - memberOf
+  - is_member_of
+  - schema:memberOf
+  - dbo:memberOf
+  - wdt:P463
+  - is member of
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- member
-- of
-layout: 
-license: "CC BY-SA 4.0"
+  - member
+  - of
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: is_member_of
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_member_of
 type: Predi_Relation
 ---

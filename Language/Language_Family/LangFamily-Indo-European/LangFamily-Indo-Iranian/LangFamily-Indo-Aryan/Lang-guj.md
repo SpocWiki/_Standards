@@ -2,36 +2,37 @@
 aliases:
   - Gujarati language
   - Gujarati
+  - Lang-guj
 has_id_wikidata: Q5137
 indigenous_to:
-  - "[[_Standards/WikiData/WD~Daman_and_Diu,66710]]"
-  - "[[_Standards/WikiData/WD~Gujarat,1061]]"
-  - "[[_Standards/WikiData/WD~Maharashtra,1191]]"
-  - "[[_Standards/WikiData/WD~Rajasthan,1437]]"
+  - '[[_Standards/WikiData/WD~Daman_and_Diu,66710]]'
+  - '[[_Standards/WikiData/WD~Gujarat,1061]]'
+  - '[[_Standards/WikiData/WD~Maharashtra,1191]]'
+  - '[[_Standards/WikiData/WD~Rajasthan,1437]]'
 has_grammatical_gender:
-  - "[[_Standards/WikiData/WD~masculine,499327]]"
-  - "[[_Standards/WikiData/WD~feminine,1775415]]"
-  - "[[_Standards/WikiData/WD~neuter,1775461]]"
-linguistic_typology: "[[_Standards/WikiData/WD~subject_object_verb,539808]]"
+  - '[[_Standards/WikiData/WD~masculine,499327]]'
+  - '[[_Standards/WikiData/WD~feminine,1775415]]'
+  - '[[_Standards/WikiData/WD~neuter,1775461]]'
+linguistic_typology: '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Castes_and_Tribes_of_Southern_India,5049865]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-writing_system: "[[_Standards/WikiData/WD~Gujarati,733944]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Castes_and_Tribes_of_Southern_India,5049865]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+writing_system: '[[_Standards/WikiData/WD~Gujarati,733944]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
-subclass_of: "[[_Standards/WikiData/WD~Gujarati_languages,5617043]]"
-UNESCO_language_status: "[[_Standards/WikiData/WD~1_safe,20672086]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Gujarati_language,22738423]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~2_Provincial,29051547]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~Q131938994,131938994]]"
-part_of: "[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]"
-country: "[[_Standards/WikiData/WD~India,668]]"
+  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
+  - '[[_Standards/WikiData/WD~natural_language,33742]]'
+subclass_of: '[[_Standards/WikiData/WD~Gujarati_languages,5617043]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Gujarati_language,22738423]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~2_Provincial,29051547]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q131938994,131938994]]'
+part_of: '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]'
+country: '[[_Standards/WikiData/WD~India,668]]'
 number_of_speakers_writers_or_signers: 56400000
-ABS_ASCL_2011_code: "5202"
-IAB_code: "1084"
+ABS_ASCL_2011_code: 5202
+IAB_code: 1084
 entry_in_abbreviations_table: G.
 POSIX_locale_identifier: gu
 Wikimedia_language_code: gu

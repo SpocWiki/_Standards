@@ -1,19 +1,21 @@
 ---
 aliases:
   - Fernunterricht
+  - Distance_Education
+  - Distance Education
 has_id_wikidata: Q159595
-opposite_of: "[[_Standards/WikiData/WD~on_campus_education,2114919]]"
-different_from: "[[_Standards/WikiData/WD~computer_assisted_instruction,11303220]]"
+opposite_of: '[[_Standards/WikiData/WD~on_campus_education,2114919]]'
+different_from: '[[_Standards/WikiData/WD~computer_assisted_instruction,11303220]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Q11837277,11837277]]"
-  - "[[_Standards/WikiData/WD~distance_teaching,105450646]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]"
-subclass_of: "[[_Standards/WikiData/WD~education,8434]]"
-OmegaWiki_Defined_Meaning: "536127"
-ACM_Classification_Code_2012_: "10010494"
+  - '[[_Standards/WikiData/WD~Q11837277,11837277]]'
+  - '[[_Standards/WikiData/WD~distance_teaching,105450646]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]'
+subclass_of: '[[_Standards/WikiData/WD~education,8434]]'
+OmegaWiki_Defined_Meaning: 536127
+ACM_Classification_Code_2012_: 10010494
 Commons_category: Distance education
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Queensland%20State%20Archives%202986%20A%20School%20of%20the%20Air%20primary%20student%20in%20regional%20Queensland%20takes%20class%20via%20two%20way%20radio%20c%201960.png
-Basisklassifikation: "81.85"
+Basisklassifikation: 81.85
 UMLS_CUI: C0600563
 ComputerLanguage_com_definition: distance+learning
 MeSH_tree_code: I02.195

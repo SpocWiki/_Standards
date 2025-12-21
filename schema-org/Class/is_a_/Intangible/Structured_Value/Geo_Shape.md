@@ -4,20 +4,22 @@ aliases:
   - geo_shape
   - GeoShape
   - is_a_geo_shape
+  - Geo_Shape
+  - Geo Shape
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - geo_shape
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_geo_shape Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

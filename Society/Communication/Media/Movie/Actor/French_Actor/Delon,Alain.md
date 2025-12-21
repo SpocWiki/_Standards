@@ -1,9 +1,10 @@
 ---
-has_id_wikidata: Q106529
 aliases:
   - Alain Fabien Maurice Marcel Delon
   - Alain Delon
   - Alain_Delon
+  - Delon,Alain
+has_id_wikidata: Q106529
 ---
 
 # [[Delon,Alain]] 

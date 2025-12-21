@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~TreatmentIndication
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/TreatmentIndication
-- class/Thing/MedicalEntity/MedicalIndication/TreatmentIndication
-- is_a_/TreatmentIndication
-- schema-org/TreatmentIndication
+  - class/TreatmentIndication
+  - class/Thing/MedicalEntity/MedicalIndication/TreatmentIndication
+  - is_a_/TreatmentIndication
+  - schema-org/TreatmentIndication
 tags:
-- class/FileClass
-- class/TreatmentIndication
-- is_a_/TreatmentIndication
-- class/Thing/MedicalEntity/MedicalIndication/TreatmentIndication
+  - class/FileClass
+  - class/TreatmentIndication
+  - is_a_/TreatmentIndication
+  - class/Thing/MedicalEntity/MedicalIndication/TreatmentIndication
 version: 2.0
 ---
 

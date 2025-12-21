@@ -6,23 +6,23 @@ aliases:
   - Wendisch
 has_id_wikidata: Q158281
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Sorbs,146521]]"
-  - "[[_Standards/WikiData/WD~Elbe_Slavs,25475100]]"
+  - '[[_Standards/WikiData/WD~Sorbs,146521]]'
+  - '[[_Standards/WikiData/WD~Elbe_Slavs,25475100]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - "[[_Standards/WikiData/WD~West_Slavs,840454]]"
-  - "[[_Standards/WikiData/WD~Vends,4356664]]"
+  - '[[_Standards/WikiData/WD~West_Slavs,840454]]'
+  - '[[_Standards/WikiData/WD~Vends,4356664]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~ethnonym,1137656]]"
-  - "[[_Standards/WikiData/WD~ethnic_group,41710]]"
-indigenous_to: "[[_Standards/WikiData/WD~Mecklenburg_Vorpommern,1196]]"
+  - '[[_Standards/WikiData/WD~ethnonym,1137656]]'
+  - '[[_Standards/WikiData/WD~ethnic_group,41710]]'
+indigenous_to: '[[_Standards/WikiData/WD~Mecklenburg_Vorpommern,1196]]'
 Krugosvet_article_archived_: istoriya/VENDI.html
 Commons_category: Wends
 ---

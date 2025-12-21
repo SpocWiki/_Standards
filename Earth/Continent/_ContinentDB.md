@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _ContinentDB
+  - ' ContinentDB'
 database_plugin: basic
 ---
 

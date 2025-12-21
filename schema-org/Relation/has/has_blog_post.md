@@ -2,12 +2,13 @@
 aliases:
   - has blog-post
   - has_blog_post
+  - has blog post
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - post
   - blog_post
   - blogPost
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_blog_post
 publish: true
-publishDate:
+publishDate: ''
 supersedes: blogPosts
 tags:
   - class/Relation

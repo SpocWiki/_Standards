@@ -4,20 +4,22 @@ aliases:
   - investment_or_deposit
   - InvestmentOrDeposit
   - is_an_investment_or_deposit
+  - Investment_or_Deposit
+  - Investment or Deposit
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - investment_or_deposit
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_investment_or_deposit Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

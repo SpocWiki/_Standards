@@ -3,23 +3,24 @@ aliases:
   - has source-organization
   - sourceOrganization
   - has_source_organization
+  - has source organization
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - source_organization
   - source
   - organization
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_source_organization
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

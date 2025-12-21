@@ -6,17 +6,19 @@ aliases:
   - Organisation de coopération et de développement économiques
   - OECD
   - OCDE
+  - OECD(Organization_for_Economic_Cooperation_and_Development)
+  - OECD(Organization for Economic Cooperation and Development)
 has_id_wikidata: Q41550
 TableByName:
   OECD.tsv:
     columns:
       - country
       - year
-    headings:
+    headings: ''
 official_website: https://www.oecd.org/
 ISNI:
-  - "0000000121590079"
-  - "0000000123082158"
+  - 0000000121590079
+  - 0000000123082158
 UMLS_CUI: C3850013
 MeSH_tree_code: N03.540.514.481
 ISO_9362_SWIFT_BIC_code: OCDCFRP1
@@ -42,55 +44,55 @@ short_name:
   - OCDE
   - ОЭСР
 member_of:
-  - "[[_Standards/WikiData/WD~International_Statistical_Institute,139020]]"
-  - "[[_Standards/WikiData/WD~Couperin_Consortium,2994760]]"
-  - "[[_Standards/WikiData/WD~Association_of_Learned_and_Professional_Society_Publishers,4809891]]"
-  - "[[_Standards/WikiData/WD~ORCID,_Inc.,19861084]]"
-  - "[[_Standards/WikiData/WD~Network_for_Greening_the_Financial_System,104872529]]"
-  - "[[_Standards/WikiData/WD~UNESCO_Global_Open_Science_Partnership,112828800]]"
-different_from: "[[_Standards/WikiData/WD~Economic_Cooperation_Organization,225950]]"
+  - '[[_Standards/WikiData/WD~International_Statistical_Institute,139020]]'
+  - '[[_Standards/WikiData/WD~Couperin_Consortium,2994760]]'
+  - '[[_Standards/WikiData/WD~Association_of_Learned_and_Professional_Society_Publishers,4809891]]'
+  - '[[_Standards/WikiData/WD~ORCID,_Inc.,19861084]]'
+  - '[[_Standards/WikiData/WD~Network_for_Greening_the_Financial_System,104872529]]'
+  - '[[_Standards/WikiData/WD~UNESCO_Global_Open_Science_Partnership,112828800]]'
+different_from: '[[_Standards/WikiData/WD~Economic_Cooperation_Organization,225950]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
-  - "[[_Standards/WikiData/WD~international_organization,484652]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
+  - '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
+  - '[[_Standards/WikiData/WD~international_organization,484652]]'
+  - '[[_Standards/WikiData/WD~organization,43229]]'
 child_organization_or_unit:
-  - "[[_Standards/WikiData/WD~Nuclear_Energy_Agency,369760]]"
-  - "[[_Standards/WikiData/WD~European_Conference_of_Ministers_of_Transport,629504]]"
-  - "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
-  - "[[_Standards/WikiData/WD~International_Transport_Forum,1337904]]"
-  - "[[_Standards/WikiData/WD~OECD_Development_Centre,7072444]]"
+  - '[[_Standards/WikiData/WD~Nuclear_Energy_Agency,369760]]'
+  - '[[_Standards/WikiData/WD~European_Conference_of_Ministers_of_Transport,629504]]'
+  - '[[_Standards/WikiData/WD~International_Energy_Agency,826700]]'
+  - '[[_Standards/WikiData/WD~International_Transport_Forum,1337904]]'
+  - '[[_Standards/WikiData/WD~OECD_Development_Centre,7072444]]'
 official_observer_status_in_organization:
-  - "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
-  - "[[_Standards/WikiData/WD~International_Union_for_the_Protection_of_New_Varieties_of_Plants,690318]]"
-  - "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
+  - '[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]'
+  - '[[_Standards/WikiData/WD~International_Union_for_the_Protection_of_New_Varieties_of_Plants,690318]]'
+  - '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
 partnership_with:
-  - "[[_Standards/WikiData/WD~International_Fund_for_Agricultural_Development,689859]]"
-  - "[[_Standards/WikiData/WD~United_Cities_and_Local_Governments,2974854]]"
-funder: "[[_Standards/WikiData/WD~Open_Society_Foundations,786194]]"
-general_secretary: "[[_Standards/WikiData/WD~Mathias_Cormann,1813692]]"
-owner_of: "[[_Standards/WikiData/WD~Château_de_la_Muette,2971342]]"
-replaces: "[[_Standards/WikiData/WD~Organisation_for_European_Economic_Co_operation,3057312]]"
-foundational_text: "[[_Standards/WikiData/WD~Convention_on_the_Organisation_for_Economic_Co_operation_and_Development,5166298]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Member_states_of_the_OECD,6584309]]"
-copyright_license: "[[_Standards/WikiData/WD~Creative_Commons_Attribution_4.0_International,20007257]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Secretary_General_of_the_Organisation_for_Economic_Co_operation_and_Development,27929540]]"
-industry: "[[_Standards/WikiData/WD~activities_of_extraterritorial_organizations_and_bodies,112166212]]"
-legal_form: "[[_Standards/WikiData/WD~Q112176659,112176659]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
+  - '[[_Standards/WikiData/WD~International_Fund_for_Agricultural_Development,689859]]'
+  - '[[_Standards/WikiData/WD~United_Cities_and_Local_Governments,2974854]]'
+funder: '[[_Standards/WikiData/WD~Open_Society_Foundations,786194]]'
+general_secretary: '[[_Standards/WikiData/WD~Mathias_Cormann,1813692]]'
+owner_of: '[[_Standards/WikiData/WD~Château_de_la_Muette,2971342]]'
+replaces: '[[_Standards/WikiData/WD~Organisation_for_European_Economic_Co_operation,3057312]]'
+foundational_text: '[[_Standards/WikiData/WD~Convention_on_the_Organisation_for_Economic_Co_operation_and_Development,5166298]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Member_states_of_the_OECD,6584309]]'
+copyright_license: '[[_Standards/WikiData/WD~Creative_Commons_Attribution_4.0_International,20007257]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Secretary_General_of_the_Organisation_for_Economic_Co_operation_and_Development,27929540]]'
+industry: '[[_Standards/WikiData/WD~activities_of_extraterritorial_organizations_and_bodies,112166212]]'
+legal_form: '[[_Standards/WikiData/WD~Q112176659,112176659]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
 coordinate_location: Point(2.269235555 48.861673888)
 official_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-headquarters_location: "[[_Standards/WikiData/WD~Paris,90]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+headquarters_location: '[[_Standards/WikiData/WD~Paris,90]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
 member_count: 38
 social_media_followers:
   - 50200
   - 694072
 Legal_Entity_Identifier: 969500Y2NFIMDP5MO798
-SIREN_number: "775687957"
-PermID: "5058655899"
+SIREN_number: 775687957
+PermID: 5058655899
 X_Twitter_username: OECD
 Commons_category: OECD
 EU_Corporate_body_code: OECD
@@ -109,26 +111,26 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: ''
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 lang: en
-layout:
+layout: ''
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 publish: false
-publishDate:
+publishDate: ''
 tags:
-  - "{ newTitle: }":
+  - '{ newTitle: }': ''
   - excalidraw
 title:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 type: private_note
 ---
 

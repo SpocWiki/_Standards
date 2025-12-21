@@ -4,23 +4,25 @@ aliases:
   - vehicle_interior_color
   - vehicleInteriorColor
   - has_text_of_vehicle_interior_color
+  - has_vehicle_interior_color
+  - has vehicle interior color
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - vehicle
   - interior
   - color
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_vehicle_interior_color
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

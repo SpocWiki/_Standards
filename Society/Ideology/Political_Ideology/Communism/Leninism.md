@@ -3,19 +3,20 @@ aliases:
   - Ленинизм
   - Leninizm
   - Leninismus
+  - Leninism
 has_id_wikidata: Q155059
 instance_of:
-  - "[[_Standards/WikiData/WD~cult_of_personality,192914]]"
-  - "[[_Standards/WikiData/WD~political_ideology,12909644]]"
+  - '[[_Standards/WikiData/WD~cult_of_personality,192914]]'
+  - '[[_Standards/WikiData/WD~political_ideology,12909644]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Marxism_Leninism,211930]]"
-  - "[[_Standards/WikiData/WD~Marxism_Leninism_Maoism,18127879]]"
-opposite_of: "[[_Standards/WikiData/WD~anti_Leninism,4774228]]"
-practiced_by: "[[_Standards/WikiData/WD~leninist,96142223]]"
-has_cause: "[[_Standards/WikiData/WD~Vladimir_Lenin,1394]]"
-named_after: "[[_Standards/WikiData/WD~Vladimir_Lenin,1394]]"
-founded_by: "[[_Standards/WikiData/WD~Vladimir_Lenin,1394]]"
-subclass_of: "[[_Standards/WikiData/WD~Marxism,7264]]"
+  - '[[_Standards/WikiData/WD~Marxism_Leninism,211930]]'
+  - '[[_Standards/WikiData/WD~Marxism_Leninism_Maoism,18127879]]'
+opposite_of: '[[_Standards/WikiData/WD~anti_Leninism,4774228]]'
+practiced_by: '[[_Standards/WikiData/WD~leninist,96142223]]'
+has_cause: '[[_Standards/WikiData/WD~Vladimir_Lenin,1394]]'
+named_after: '[[_Standards/WikiData/WD~Vladimir_Lenin,1394]]'
+founded_by: '[[_Standards/WikiData/WD~Vladimir_Lenin,1394]]'
+subclass_of: '[[_Standards/WikiData/WD~Marxism,7264]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pioneers%20pin%20rs.svg
 official_website: https://leninism.su
 ---

@@ -1,14 +1,15 @@
 ---
 aliases:
   - Konstructivismus
+  - Constructivism
 has_id_wikidata: Q207103
 instance_of:
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~style,1292119]]"
-  - "[[_Standards/WikiData/WD~philosophical_movement,2915955]]"
-  - "[[_Standards/WikiData/WD~architectural_style,32880]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-influenced_by: "[[_Standards/WikiData/WD~Cubism,42934]]"
+  - '[[_Standards/WikiData/WD~art_movement,968159]]'
+  - '[[_Standards/WikiData/WD~style,1292119]]'
+  - '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
+  - '[[_Standards/WikiData/WD~architectural_style,32880]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+influenced_by: '[[_Standards/WikiData/WD~Cubism,42934]]'
 Commons_category: Constructivism
 ---
 

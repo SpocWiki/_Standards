@@ -4,21 +4,22 @@ aliases:
   - account-overdraft-limit
   - accountOverdraftLimit
   - has_value_for_account_overdraft_limit
+  - has value for account overdraft limit
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - account-overdraft-limit
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_account-overdraft-limit
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

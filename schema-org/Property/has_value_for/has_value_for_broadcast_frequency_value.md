@@ -4,21 +4,23 @@ aliases:
   - broadcast-frequency-value
   - broadcastFrequencyValue
   - has_value_for_broadcast_frequency
+  - has_value_for_broadcast_frequency_value
+  - has value for broadcast frequency value
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - broadcast-frequency-value
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_broadcast-frequency-value
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

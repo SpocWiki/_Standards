@@ -4,21 +4,22 @@ aliases:
   - geo-radius
   - geoRadius
   - has_value_for_geo_radius_in_meters
+  - has value for geo radius in meters
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - geo-radius
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_geo-radius
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

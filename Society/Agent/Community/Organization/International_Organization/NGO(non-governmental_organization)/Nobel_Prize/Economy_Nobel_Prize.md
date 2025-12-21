@@ -1,11 +1,13 @@
 ---
 aliases:
-- "Nobel Economics Prize"
-- "Nobel Memorial Prize in Economic Sciences"
-- "Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel"
-- "Sveriges Riksbank Prize in Economic Sciences"
-- "Sveriges riksbanks pris i ekonomisk vetenskap till Alfred Nobels minne"
-- "Sveriges riksbanks pris i ekonomisk vetenskap"
+  - Nobel Economics Prize
+  - Nobel Memorial Prize in Economic Sciences
+  - Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel
+  - Sveriges Riksbank Prize in Economic Sciences
+  - Sveriges riksbanks pris i ekonomisk vetenskap till Alfred Nobels minne
+  - Sveriges riksbanks pris i ekonomisk vetenskap
+  - Economy_Nobel_Prize
+  - Economy Nobel Prize
 ---
 
 ## #has_/text_of_/abstract 

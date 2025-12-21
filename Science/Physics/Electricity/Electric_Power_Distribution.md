@@ -1,18 +1,20 @@
 ---
 aliases:
   - Electric power distribution
+  - Electric_Power_Distribution
+  - Electric Power Distribution
 has_id_wikidata: Q844861
 subclass_of:
-  - "[[_Standards/WikiData/WD~electrical_energy,206799]]"
-  - "[[_Standards/WikiData/WD~electric_power_generation,_transmission_and_distribution,1326594]]"
+  - '[[_Standards/WikiData/WD~electrical_energy,206799]]'
+  - '[[_Standards/WikiData/WD~electric_power_generation,_transmission_and_distribution,1326594]]'
 different_from:
-  - "[[_Standards/WikiData/WD~trade_of_electricity,2356921]]"
-  - "[[_Standards/WikiData/WD~electricity_distribution,112165528]]"
-instance_of: "[[../../../WikiData/WD~economic_activity,8187769]]"
-uses: "[[_Standards/WikiData/WD~electric_power_distribution_network,16920551]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~low_voltage_network,48995895]]"
-part_of: "[[_Standards/WikiData/WD~class_in_NACE_rev.2_classification_of_productive_activities,112122609]]"
-catalog_code: "3513"
+  - '[[_Standards/WikiData/WD~trade_of_electricity,2356921]]'
+  - '[[_Standards/WikiData/WD~electricity_distribution,112165528]]'
+instance_of: '[[../../../WikiData/WD~economic_activity,8187769]]'
+uses: '[[_Standards/WikiData/WD~electric_power_distribution_network,16920551]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~low_voltage_network,48995895]]'
+part_of: '[[_Standards/WikiData/WD~class_in_NACE_rev.2_classification_of_productive_activities,112122609]]'
+catalog_code: 3513
 name:
   - Elektrizitätsverteilung
   - distribution d'électricité
@@ -39,8 +41,8 @@ name:
   - Rozvod elektriny
   - Distribucija električne energije
   - Elektrik enerjisinin dağıtımı
-NAF_code_v2: "35.13"
-NACE_code_rev_2: "35.13"
+NAF_code_v2: 35.13
+NACE_code_rev_2: 35.13
 OpenStreetMap_tag_or_key: Tag:utility=power
 Commons_category: Electrical distribution
 IEV_number: 601-01-10

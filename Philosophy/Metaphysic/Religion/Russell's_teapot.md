@@ -1,6 +1,7 @@
 ---
 aliases:
   - Russell's teapot
+  - Russell's_teapot
 ---
 
 # [[Russell's_teapot]] 

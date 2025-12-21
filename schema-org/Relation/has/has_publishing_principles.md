@@ -3,23 +3,24 @@ aliases:
   - has publishing-principles
   - publishingPrinciples
   - has_publishing_principles
+  - has publishing principles
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - publishing_principles
   - publishing
   - principles
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_publishing_principles
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

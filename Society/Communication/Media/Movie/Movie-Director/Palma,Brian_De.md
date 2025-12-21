@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Brian Russell De Palma"
+  - Brian Russell De Palma
+  - Palma,Brian_De
+  - Palma,Brian De
 ---
 
 #has_/time_/started :: 1940-09-11

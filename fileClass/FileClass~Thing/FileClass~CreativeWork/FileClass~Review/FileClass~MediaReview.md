@@ -1,31 +1,33 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MediaReview
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
 fields:
-- id: NVyU37
-  name: OriginalMediaContextDescription
-  options: {}
-  type: Input
-  path: ''
-- id: jZ1n7l
-  name: OriginalMediaLink
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject')"
-  type: MultiFile
-  path: ''
+  - id: NVyU37
+    name: OriginalMediaContextDescription
+    options: {}
+    type: Input
+    path: ''
+  - id: jZ1n7l
+    name: OriginalMediaLink
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MediaReview
-- class/Thing/CreativeWork/Review/MediaReview
-- is_a_/MediaReview
-- schema-org/MediaReview
+  - class/MediaReview
+  - class/Thing/CreativeWork/Review/MediaReview
+  - is_a_/MediaReview
+  - schema-org/MediaReview
 tags:
-- class/FileClass
-- class/MediaReview
-- is_a_/MediaReview
-- class/Thing/CreativeWork/Review/MediaReview
+  - class/FileClass
+  - class/MediaReview
+  - is_a_/MediaReview
+  - class/Thing/CreativeWork/Review/MediaReview
 version: 2.0
 ---
 

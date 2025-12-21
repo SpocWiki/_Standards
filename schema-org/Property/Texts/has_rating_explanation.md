@@ -4,22 +4,24 @@ aliases:
   - rating_explanation
   - ratingExplanation
   - has_text_of_rating_explanation
+  - has_rating_explanation
+  - has rating explanation
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - rating
   - explanation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_rating_explanation
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

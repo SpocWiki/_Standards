@@ -1,21 +1,23 @@
 ---
 aliases:
   - stochastic or random process
+  - Stochastic_Process
+  - Stochastic Process
 has_id_wikidata: Q176737
-has_characteristic: "[[_Standards/WikiData/WD~randomness,176640]]"
+has_characteristic: '[[_Standards/WikiData/WD~randomness,176640]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~mathematical_object,246672]]"
-  - "[[_Standards/WikiData/WD~indexed_family,856215]]"
-part_of: "[[_Standards/WikiData/WD~stochastic,1071239]]"
-facet_of: "[[_Standards/WikiData/WD~probability_theory,5862903]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Stochastic_processes,15634422]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+  - '[[_Standards/WikiData/WD~mathematical_object,246672]]'
+  - '[[_Standards/WikiData/WD~indexed_family,856215]]'
+part_of: '[[_Standards/WikiData/WD~stochastic,1071239]]'
+facet_of: '[[_Standards/WikiData/WD~probability_theory,5862903]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Stochastic_processes,15634422]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~mathematical_concept,24034552]]"
-  - "[[_Standards/WikiData/WD~type_of_process,116505632]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-ACM_Classification_Code_2012_: "10003700"
+  - '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+  - '[[_Standards/WikiData/WD~type_of_process,116505632]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+ACM_Classification_Code_2012_: 10003700
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BMonSphere.jpg
 Stack_Exchange_tag: https://mathoverflow.net/tags/stochastic-processes
 UMLS_CUI: C0038347
@@ -26,7 +28,7 @@ MeSH_tree_code:
   - N06.850.520.830.996
 Wolfram_Language_entity_code: Entity["Concept", "StochasticProcess::c4479"]
 Commons_category: Stochastic processes
-Dewey_Decimal_Classification: "519.23"
+Dewey_Decimal_Classification: 519.23
 ---
 
 # [[Stochastic_Process]] 

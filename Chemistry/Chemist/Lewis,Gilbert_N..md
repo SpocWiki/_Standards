@@ -3,63 +3,65 @@ aliases:
   - Gilbert_N._Lewis
   - Gilbert Newton Lewis
   - Lewis
+  - Lewis,Gilbert_N.
+  - Lewis,Gilbert N.
 has_id_wikidata: Q208858
 member_of:
-  - "[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]"
-  - "[[_Standards/WikiData/WD~Royal_Society,123885]]"
-  - "[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]"
-  - "[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]"
+  - '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
+  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]'
 employer:
-  - "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
-  - "[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]"
-place_of_death: "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
+  - '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
+  - '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
+place_of_death: '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~chemist,593644]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~non_fiction_writer,15980158]]"
+  - '[[_Standards/WikiData/WD~physicist,169470]]'
+  - '[[_Standards/WikiData/WD~chemist,593644]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~non_fiction_writer,15980158]]'
 doctoral_student:
-  - "[[_Standards/WikiData/WD~Harold_Urey,179777]]"
-  - "[[_Standards/WikiData/WD~Joseph_Edward_Mayer,906477]]"
-  - "[[_Standards/WikiData/WD~John_Chipman,5607918]]"
-  - "[[_Standards/WikiData/WD~Simon_Freed,102989598]]"
-  - "[[_Standards/WikiData/WD~William_N._Lacey,115915026]]"
-influenced_by: "[[_Standards/WikiData/WD~Irving_Langmuir,184286]]"
-doctoral_advisor: "[[_Standards/WikiData/WD~Theodore_William_Richards,189465]]"
+  - '[[_Standards/WikiData/WD~Harold_Urey,179777]]'
+  - '[[_Standards/WikiData/WD~Joseph_Edward_Mayer,906477]]'
+  - '[[_Standards/WikiData/WD~John_Chipman,5607918]]'
+  - '[[_Standards/WikiData/WD~Simon_Freed,102989598]]'
+  - '[[_Standards/WikiData/WD~William_N._Lacey,115915026]]'
+influenced_by: '[[_Standards/WikiData/WD~Irving_Langmuir,184286]]'
+doctoral_advisor: '[[_Standards/WikiData/WD~Theodore_William_Richards,189465]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Davy_Medal,220842]]"
-  - "[[_Standards/WikiData/WD~Willard_Gibbs_Award,902788]]"
-  - "[[_Standards/WikiData/WD~Silliman_Memorial_Lectures,7515378]]"
-  - "[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]"
-  - "[[_Standards/WikiData/WD~William_H._Nichols_Medal,25324505]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Madrid_Complutense,50621171]]"
-different_from: "[[_Standards/WikiData/WD~Lewis_Gilbert,303891]]"
-family_name: "[[_Standards/WikiData/WD~Lewis,426463]]"
+  - '[[_Standards/WikiData/WD~Davy_Medal,220842]]'
+  - '[[_Standards/WikiData/WD~Willard_Gibbs_Award,902788]]'
+  - '[[_Standards/WikiData/WD~Silliman_Memorial_Lectures,7515378]]'
+  - '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
+  - '[[_Standards/WikiData/WD~William_H._Nichols_Medal,25324505]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Madrid_Complutense,50621171]]'
+different_from: '[[_Standards/WikiData/WD~Lewis_Gilbert,303891]]'
+family_name: '[[_Standards/WikiData/WD~Lewis,426463]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Gilbert,1675463]]"
-  - "[[_Standards/WikiData/WD~Newton,19828994]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-academic_degree: "[[_Standards/WikiData/WD~physical_chemist,16744668]]"
+  - '[[_Standards/WikiData/WD~Gilbert,1675463]]'
+  - '[[_Standards/WikiData/WD~Newton,19828994]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+academic_degree: '[[_Standards/WikiData/WD~physical_chemist,16744668]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]"
-father: "[[_Standards/WikiData/WD~Francis_Frank_Wesley_Lewis,126962671]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+father: '[[_Standards/WikiData/WD~Francis_Frank_Wesley_Lewis,126962671]]'
 date_of_birth: 1875-10-23T00:00:00Z
-field_of_work: "[[_Standards/WikiData/WD~physical_chemistry,11372]]"
+field_of_work: '[[_Standards/WikiData/WD~physical_chemistry,11372]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Harvard_University,13371]]"
-  - "[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]"
-place_of_birth: "[[_Standards/WikiData/WD~Weymouth,54195]]"
+  - '[[_Standards/WikiData/WD~Harvard_University,13371]]'
+  - '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]'
+place_of_birth: '[[_Standards/WikiData/WD~Weymouth,54195]]'
 Commons_Creator_page: Gilbert Newton Lewis
 Commons_category: Gilbert Newton Lewis
 date_of_death: 1946-03-23T00:00:00Z
-ISNI: "0000000110502475"
+ISNI: 0000000110502475
 Krugosvet_article: nauka_i_tehnika/fizika/LYUIS_GILBERT_NYUTON.html
 name_in_native_language: Gilbert Newton Lewis
 birth_name: Gilbert Newton Lewis

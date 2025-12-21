@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~BookStore
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: book
 limit: 9
 mapWithTag: true
 tagNames:
-- class/BookStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BookStore
-- is_a_/BookStore
-- schema-org/BookStore
+  - class/BookStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BookStore
+  - is_a_/BookStore
+  - schema-org/BookStore
 tags:
-- class/FileClass
-- class/BookStore
-- is_a_/BookStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BookStore
+  - class/FileClass
+  - class/BookStore
+  - is_a_/BookStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BookStore
 version: 2.0
 ---
 

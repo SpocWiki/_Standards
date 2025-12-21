@@ -3,6 +3,7 @@ aliases:
   - Max Schmeling
   - Schmeling
   - Maximilian Adolph Otto Siegfried Schmeling
+  - Schmeling,Max
 ---
 
 # [[Schmeling,Max]] 

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Periodical
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Periodical
-- class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical
-- is_a_/Periodical
-- schema-org/Periodical
+  - class/Periodical
+  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical
+  - is_a_/Periodical
+  - schema-org/Periodical
 tags:
-- class/FileClass
-- class/Periodical
-- is_a_/Periodical
-- class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical
+  - class/FileClass
+  - class/Periodical
+  - is_a_/Periodical
+  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical
 version: 2.0
 ---
 

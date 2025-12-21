@@ -4,21 +4,22 @@ aliases:
   - vehicle-seating-capacity
   - vehicleSeatingCapacity
   - has_number_of_vehicle_seating_capacity
+  - has number of vehicle seating capacity
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - vehicle-seating-capacity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_vehicle-seating-capacity
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - chroma 
+  - chroma
   - saturation
   - Colorfulness
 has_id_wikidata: Q27673

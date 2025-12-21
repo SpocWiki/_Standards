@@ -5,20 +5,22 @@ aliases:
   - Gorta Mór
   - Irish Potato Famine
   - Drochshaol
+  - 1845-Great_Irish_Famine+1852
+  - 1845-Great Irish Famine+1852
 has_id_wikidata: Q188371
 has_immediate_cause:
-  - "[[_Standards/WikiData/WD~Phytophthora_infestans,149072]]"
-  - "[[_Standards/WikiData/WD~laissez_faire,171990]]"
-  - "[[_Standards/WikiData/WD~colonialism,7167]]"
+  - '[[_Standards/WikiData/WD~Phytophthora_infestans,149072]]'
+  - '[[_Standards/WikiData/WD~laissez_faire,171990]]'
+  - '[[_Standards/WikiData/WD~colonialism,7167]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~famine,168247]]"
-  - "[[_Standards/WikiData/WD~historical_event,13418847]]"
+  - '[[_Standards/WikiData/WD~famine,168247]]'
+  - '[[_Standards/WikiData/WD~historical_event,13418847]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Irish_famines,1214105]]"
-  - "[[_Standards/WikiData/WD~1861_Irish_Famine,104830083]]"
+  - '[[_Standards/WikiData/WD~Irish_famines,1214105]]'
+  - '[[_Standards/WikiData/WD~1861_Irish_Famine,104830083]]'
 end_time: 1852-01-01T00:00:00Z
 start_time: 1845-01-01T00:00:00Z
-locations: "[[_Standards/WikiData/WD~Ireland,22890]]"
+locations: '[[_Standards/WikiData/WD~Ireland,22890]]'
 coordinate_location: Point(-7.921 53.351)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Irish%20potato%20famine%20Bridget%20O%27Donnel.jpg
 plaque_image:

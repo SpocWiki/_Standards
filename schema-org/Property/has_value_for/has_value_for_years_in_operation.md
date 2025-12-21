@@ -4,21 +4,22 @@ aliases:
   - years-in-operation
   - yearsInOperation
   - has_value_for_years_in_operation
+  - has value for years in operation
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - years-in-operation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_years-in-operation
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

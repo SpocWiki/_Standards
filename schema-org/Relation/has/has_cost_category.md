@@ -2,12 +2,13 @@
 aliases:
   - has cost-category
   - has_cost_category
+  - has cost category
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - category
   - cost_category
   - costCategory
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_cost_category
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

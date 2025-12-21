@@ -1,33 +1,34 @@
 ---
 aliases:
   - Imperium
+  - Empire
 has_id_wikidata: Q48349
 different_from:
-  - "[[_Standards/WikiData/WD~empire,187587]]"
-  - "[[_Standards/WikiData/WD~Imperia,356252]]"
-  - "[[_Standards/WikiData/WD~imperium,499146]]"
-  - "[[_Standards/WikiData/WD~Empire,978370]]"
+  - '[[_Standards/WikiData/WD~empire,187587]]'
+  - '[[_Standards/WikiData/WD~Imperia,356252]]'
+  - '[[_Standards/WikiData/WD~imperium,499146]]'
+  - '[[_Standards/WikiData/WD~Empire,978370]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~empire,187587]]"
-  - "[[_Standards/WikiData/WD~realm,1250464]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+  - '[[_Standards/WikiData/WD~empire,187587]]'
+  - '[[_Standards/WikiData/WD~realm,1250464]]'
+  - '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-has_list: "[[_Standards/WikiData/WD~list_of_empires,1151047]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Empires,7477250]]"
-OmegaWiki_Defined_Meaning: "6882"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+has_list: '[[_Standards/WikiData/WD~list_of_empires,1151047]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Empires,7477250]]'
+OmegaWiki_Defined_Meaning: 6882
 Library_of_Congress_Classification: JC359
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Empire%20Trajan%20117AD.png
 described_at_URL: https://www.whosonfirst.org/docs/placetypes/#empire
-Dewey_Decimal_Classification: "321.03"
+Dewey_Decimal_Classification: 321.03
 Commons_category: Empires
 ---
 

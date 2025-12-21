@@ -7,26 +7,27 @@ aliases:
   - Сан-Марино
   - the Republic of San Marino
   - la República de San Marino
+  - San_Marino
 has_id_wikidata: Q238
 confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate:
+expiryDate: ''
 icon: flag-sm
 isDeleted: false
 isReadOnly: false
-keywords:
+keywords: ''
 Languages:
   - it-SM
-layout:
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 location:
   - 43.93
   - 12.45
 publish: true
-publishDate:
+publishDate: ''
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 27020
 tags:

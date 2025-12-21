@@ -1,8 +1,10 @@
 ---
 aliases:
-- "has Text Encoding"
-- "has Character Encoding"
-- has charset
+  - has Text Encoding
+  - has Character Encoding
+  - has charset
+  - has_text_encoding
+  - has text encoding
 ---
 
 Used to describe the Byte-Encoding of a Text. 

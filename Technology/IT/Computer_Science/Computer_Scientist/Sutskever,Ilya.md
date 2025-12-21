@@ -4,6 +4,7 @@ aliases:
   - איליה סוצקבר
   - Илья́  Суцке́вер
   - Sutskever
+  - Sutskever,Ilya
 ---
 # [[Sutskever,Ilya]] 
 

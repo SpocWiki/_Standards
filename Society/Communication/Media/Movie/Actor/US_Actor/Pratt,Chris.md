@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Chris Pratt"
+  - Chris Pratt
+  - Pratt,Chris
 ---
 
 #has_/time_/started :: 1979-06-21 

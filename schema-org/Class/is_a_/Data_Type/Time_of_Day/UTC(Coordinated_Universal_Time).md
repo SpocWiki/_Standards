@@ -2,18 +2,20 @@
 aliases:
   - Coordinated Universal Time
   - Universal_time
+  - UTC(Coordinated_Universal_Time)
+  - UTC(Coordinated Universal Time)
 has_id_wikidata: Q1536
 based_on:
-  - "[[_Standards/WikiData/WD~International_Atomic_Time,119395]]"
-  - "[[_Standards/WikiData/WD~universal_time,874572]]"
-standards_body: "[[_Standards/WikiData/WD~International_Earth_Rotation_and_Reference_Systems_Service,530278]]"
+  - '[[_Standards/WikiData/WD~International_Atomic_Time,119395]]'
+  - '[[_Standards/WikiData/WD~universal_time,874572]]'
+standards_body: '[[_Standards/WikiData/WD~International_Earth_Rotation_and_Reference_Systems_Service,530278]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Western_European_Time,843589]]"
-  - "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
-replaces: "[[_Standards/WikiData/WD~universal_time,874572]]"
+  - '[[_Standards/WikiData/WD~Western_European_Time,843589]]'
+  - '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
+replaces: '[[_Standards/WikiData/WD~universal_time,874572]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~time_standard,6313217]]"
-  - "[[_Standards/WikiData/WD~time_zone,12143]]"
+  - '[[_Standards/WikiData/WD~time_standard,6313217]]'
+  - '[[_Standards/WikiData/WD~time_zone,12143]]'
 Stack_Exchange_tag: https://stackoverflow.com/tags/utc
 Commons_category: Maps of time zones
 short_name: UTC

@@ -1,4 +1,15 @@
 ---
+aliases:
+  - Kyrgyzstan
+  - Kirguistán
+  - Kirghizistan
+  - قيرغيزستان
+  - 吉尔吉斯斯坦
+  - Кыргызстан
+  - the Kyrgyz Republic
+  - la República Kirguisa
+  - Kirgisistan
+has_id_wikidata: Q813
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
@@ -267,7 +278,7 @@ official_name:
   - la République kirghize
 Dewey_Decimal_Classification: 2--5843
 coordinate_location: Point(75.0 41.0)
-inception: "1991"
+inception: 1991
 has_time_started: 1991-06
 U_S_National_Archives_Identifier: 10045260
 geoshape: http://commons.wikimedia.org/data/main/Data:Kyrgyzstan.map
@@ -288,7 +299,6 @@ Commons_gallery: Кыргызстан - Киргизия
 short_name: 🇰🇬
 coordinates_of_westernmost_point: Point(69.25097 39.86528)
 coordinates_of_easternmost_point: Point(80.22789 42.06395)
-has_id_wikidata: Q813
 location:
   - 42.8667
   - 74.6
@@ -305,22 +315,12 @@ cssclasses:
   - Country
 publish: true
 title: Kyrgyzstan
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Kyrgyzstan
-  - Kirguistán
-  - Kirghizistan
-  - قيرغيزستان
-  - 吉尔吉斯斯坦
-  - Кыргызстан
-  - the Kyrgyz Republic
-  - la República Kirguisa
-  - Kirgisistan
+publishDate: ""
+expiryDate: ""
 Languages:
   - ky
   - uz

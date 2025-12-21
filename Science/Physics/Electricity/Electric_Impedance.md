@@ -1,7 +1,9 @@
 ---
 aliases:
   - Impedanz
-  - Impedance 
+  - Impedance
+  - Electric_Impedance
+  - Electric Impedance
 has_id_wikidata: Q179043
 subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
@@ -31,7 +33,7 @@ quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" x
 defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><munder><mi>Z</mi><mo>_</mo></munder></mrow><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><munder><mi>U</mi><mo>_</mo></munder></mrow><mo lspace="0" rspace="0">/</mo><mrow data-mjx-texclass="ORD"><munder><mi>I</mi><mo>_</mo></munder></mrow></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><munder><mi>Z</mi><mo>_</mo></munder></mrow><mo stretchy="false">=</mo><mi>R</mi><mo stretchy="false">+</mo><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">j</mi></mrow><mi>X</mi></mstyle></mrow></math>
-OmegaWiki_Defined_Meaning: "1228757"
+OmegaWiki_Defined_Meaning: 1228757
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mrow data-mjx-texclass="ORD"><mi>𝖬</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>3</mn></mrow></mrow></msup><msup><mrow data-mjx-texclass="ORD"><mi>𝖨</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Impedancia%20linea%20bifiliar.jpg
 IEV_number: 131-12-43

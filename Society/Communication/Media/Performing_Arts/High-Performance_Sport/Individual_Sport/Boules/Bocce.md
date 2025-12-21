@@ -6,14 +6,14 @@ aliases:
   - Boccia
 has_id_wikidata: Q895060
 subclass_of:
-  - "[[_Standards/WikiData/WD~ball_game,877517]]"
-  - "[[_Standards/WikiData/WD~game_of_skill,1368898]]"
-  - "[[_Standards/WikiData/WD~throwing_sport,15855160]]"
-regulated_by: "[[_Standards/WikiData/WD~Confédération_Mondiale_des_Sports_de_Boules,1125593]]"
-different_from: "[[_Standards/WikiData/WD~boccia,3285658]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q12323087,12323087]]"
-practiced_by: "[[_Standards/WikiData/WD~boules_player,33135515]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+  - '[[_Standards/WikiData/WD~ball_game,877517]]'
+  - '[[_Standards/WikiData/WD~game_of_skill,1368898]]'
+  - '[[_Standards/WikiData/WD~throwing_sport,15855160]]'
+regulated_by: '[[_Standards/WikiData/WD~Confédération_Mondiale_des_Sports_de_Boules,1125593]]'
+different_from: '[[_Standards/WikiData/WD~boccia,3285658]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12323087,12323087]]'
+practiced_by: '[[_Standards/WikiData/WD~boules_player,33135515]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
 OpenStreetMap_tag_or_key: Tag:sport=boules
 Commons_category: Boules
 image:

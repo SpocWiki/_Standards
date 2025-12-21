@@ -5,22 +5,25 @@ aliases:
   - Tangeh-ye Hormoz
   - مَضيق هُرمُز
   - Maḍīq Hurmuz
+  - Strait_of_Hormuz
 has_id_wikidata: Q79883
-location: [26.6, 56.5]
+location:
+  - 26.6
+  - 56.5
 coordinate_location: Point(56.5 26.6)
 inflows:
-  - "[[_Standards/WikiData/WD~Jegin_River,5683829]]"
-  - "[[_Standards/WikiData/WD~Minab_River,5869255]]"
+  - '[[_Standards/WikiData/WD~Jegin_River,5683829]]'
+  - '[[_Standards/WikiData/WD~Minab_River,5869255]]'
 country:
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Oman,842]]"
-  - "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
+  - '[[_Standards/WikiData/WD~Iran,794]]'
+  - '[[_Standards/WikiData/WD~Oman,842]]'
+  - '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
 vertical_depth: 220
 width: 55
-part_of: "[[_Standards/WikiData/WD~Persian_Gulf,34675]]"
-instance_of: "[[_Standards/WikiData/WD~strait,37901]]"
-U_S_National_Archives_Identifier: "10044320"
+part_of: '[[_Standards/WikiData/WD~Persian_Gulf,34675]]'
+instance_of: '[[_Standards/WikiData/WD~strait,37901]]'
+U_S_National_Archives_Identifier: 10044320
 satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Stra%C3%9Fe%20von%20Hormuz.jpg
 locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Hormuz%20map.png

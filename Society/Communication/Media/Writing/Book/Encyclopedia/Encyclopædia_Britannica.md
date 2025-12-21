@@ -1,38 +1,40 @@
 ---
 aliases:
   - British Encyclopaedia
+  - Encyclopædia_Britannica
+  - Encyclopædia Britannica
 has_id_wikidata: Q455
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Macropædia,2914888]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Second_Edition,5375742]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Third_Edition,5375743]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Online,5375741]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Fifth_Edition,19800783]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Fourth_Edition,84229706]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Sixth_Edition,84234065]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Seventh_Edition,84236396]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Eighth_Edition,84237483]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Tenth_Edition,84246840]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Thirteenth_Edition,84248963]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Fourteenth_Edition,84250069]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Macropædia,2914888]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Second_Edition,5375742]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Third_Edition,5375743]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Online,5375741]]'
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Fifth_Edition,19800783]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Fourth_Edition,84229706]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Sixth_Edition,84234065]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Seventh_Edition,84236396]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Eighth_Edition,84237483]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Tenth_Edition,84246840]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Thirteenth_Edition,84248963]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Fourteenth_Edition,84250069]]'
   - "[[_Standards/WikiData/WD~Children's_Britannica,111972773]]"
-  - "[[_Standards/WikiData/WD~The_New_Encyclopedia_Britannica_(15th_Edition),122881796]]"
-publisher: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Inc.,2743906]]"
-illustrator: "[[_Standards/WikiData/WD~Andrew_Bell,2846567]]"
-author: "[[_Standards/WikiData/WD~Andrew_Bell,2846567]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-website_account_on: "[[_Standards/WikiData/WD~Kahoot!,21683250]]"
-instance_of: "[[_Standards/WikiData/WD~written_work,47461344]]"
-genre: "[[_Standards/WikiData/WD~encyclopedia,5292]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~British_English,7979]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
+  - '[[_Standards/WikiData/WD~The_New_Encyclopedia_Britannica_(15th_Edition),122881796]]'
+publisher: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Inc.,2743906]]'
+illustrator: '[[_Standards/WikiData/WD~Andrew_Bell,2846567]]'
+author: '[[_Standards/WikiData/WD~Andrew_Bell,2846567]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+website_account_on: '[[_Standards/WikiData/WD~Kahoot!,21683250]]'
+instance_of: '[[_Standards/WikiData/WD~written_work,47461344]]'
+genre: '[[_Standards/WikiData/WD~encyclopedia,5292]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~British_English,7979]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
 country_of_origin:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 number_of_parts_of_this_work: 22
 BHCL_UUID: 718cf179-7d22-4ff5-8e32-08ed5b1c8e39
 Bluesky_handle: britannica.com
@@ -42,8 +44,8 @@ Commons_category: Encyclopædia Britannica
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Encyclopaedia%20Britannica%2015%20with%202002.jpg
 official_website: https://www.britannica.com
 OCLC_number:
-  - "156863675"
-  - "71783328"
+  - 156863675
+  - 71783328
 TikTok_username: encyclopaediabritannica
 search_formatter_URL: https://www.britannica.com/search?query=%1
 inception: 1768-01-01T00:00:00Z

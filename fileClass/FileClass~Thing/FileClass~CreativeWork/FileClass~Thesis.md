@@ -1,25 +1,27 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Thesis
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: 4uQijj
-  name: InSupportOf
-  options: {}
-  type: Input
-  path: ''
+  - id: 4uQijj
+    name: InSupportOf
+    options: {}
+    type: Input
+    path: ''
 icon: graduation-cap
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Thesis
-- class/Thing/CreativeWork/Thesis
-- is_a_/Thesis
-- schema-org/Thesis
+  - class/Thesis
+  - class/Thing/CreativeWork/Thesis
+  - is_a_/Thesis
+  - schema-org/Thesis
 tags:
-- class/FileClass
-- class/Thesis
-- is_a_/Thesis
-- class/Thing/CreativeWork/Thesis
+  - class/FileClass
+  - class/Thesis
+  - is_a_/Thesis
+  - class/Thing/CreativeWork/Thesis
 version: 2.0
 ---
 

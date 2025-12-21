@@ -4,20 +4,22 @@ aliases:
   - food_establishment_reservation
   - FoodEstablishmentReservation
   - is_a_food_establishment_reservation
+  - Food_Establishment_Reservation
+  - Food Establishment Reservation
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - food_establishment_reservation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_food_establishment_reservation Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

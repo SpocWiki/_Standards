@@ -1,34 +1,36 @@
 ---
+aliases:
+  - Trigonometry
+has_id_wikidata: Q8084
 Colon_Classification: B5
 Commons_category: Trigonometry
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 GitHub_topic: trigonometry
 Gujarati_Vishwakosh_entry: ત્રિકોણમિતિ
-has_id_wikidata: Q8084
-has_part_s_: "[[_Standards/WikiData/WD~trigonometric_table,787322]]"
-has_use: "[[_Standards/WikiData/WD~uses_of_trigonometry,2858853]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_trigonometry,2344515]]"
+has_part_s_: '[[_Standards/WikiData/WD~trigonometric_table,787322]]'
+has_use: '[[_Standards/WikiData/WD~uses_of_trigonometry,2858853]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_trigonometry,2344515]]'
 Iconclass_notation: 49D64
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fotothek%20df%20tg%200000230%20Geometrie%20%5E%20Trigonometrie.jpg
-instance_of: "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
+instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~trigonometric_function,93344]]"
-  - "[[_Standards/WikiData/WD~unit_circle,203425]]"
+  - '[[_Standards/WikiData/WD~trigonometric_function,93344]]'
+  - '[[_Standards/WikiData/WD~unit_circle,203425]]'
 Krugosvet_article: matematika/trigonometriya
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 OmegaWiki_Defined_Meaning: 351429
-partially_coincident_with: "[[_Standards/WikiData/WD~triangle_geometry,1257470]]"
+partially_coincident_with: '[[_Standards/WikiData/WD~triangle_geometry,1257470]]'
 Stack_Exchange_tag:
   - https://math.stackexchange.com/tags/trigonometry
   - https://stackoverflow.com/tags/trigonometry
   - https://matheducators.stackexchange.com/tags/trigonometry
-subclass_of: "[[_Standards/WikiData/WD~geometry,8087]]"
+subclass_of: '[[_Standards/WikiData/WD~geometry,8087]]'
 subreddit: trigonometry
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_trigonometry,7112803]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_trigonometry,7112803]]'
 ---
 
 # [[Trigonometry]] 

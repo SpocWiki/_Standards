@@ -4,20 +4,22 @@ aliases:
   - digital_platform_enumeration
   - DigitalPlatformEnumeration
   - is_a_digital_platform_enumeration
+  - Digital_Platform
+  - Digital Platform
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - digital_platform_enumeration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_digital_platform_enumeration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,34 +1,35 @@
 ---
 aliases:
   - Grundwasser
+  - Groundwater
 has_id_wikidata: Q161598
 has_part_s_:
-  - "[[_Standards/WikiData/WD~artesian_well,177734]]"
-  - "[[_Standards/WikiData/WD~Q18511923,18511923]]"
-studied_by: "[[_Standards/WikiData/WD~hydrogeology,179509]]"
+  - '[[_Standards/WikiData/WD~artesian_well,177734]]'
+  - '[[_Standards/WikiData/WD~Q18511923,18511923]]'
+studied_by: '[[_Standards/WikiData/WD~hydrogeology,179509]]'
 different_from:
-  - "[[_Standards/WikiData/WD~surface_water,752112]]"
-  - "[[_Standards/WikiData/WD~spring_water,1881858]]"
-  - "[[_Standards/WikiData/WD~groundwater_body,3335983]]"
-  - "[[_Standards/WikiData/WD~artesian_water,11959188]]"
-  - "[[_Standards/WikiData/WD~Q18511923,18511923]]"
-  - "[[_Standards/WikiData/WD~non_drinking_water,62026522]]"
-  - "[[_Standards/WikiData/WD~drinking_water,7892]]"
-opposite_of: "[[_Standards/WikiData/WD~surface_water,752112]]"
-followed_by: "[[_Standards/WikiData/WD~surface_water,752112]]"
+  - '[[_Standards/WikiData/WD~surface_water,752112]]'
+  - '[[_Standards/WikiData/WD~spring_water,1881858]]'
+  - '[[_Standards/WikiData/WD~groundwater_body,3335983]]'
+  - '[[_Standards/WikiData/WD~artesian_water,11959188]]'
+  - '[[_Standards/WikiData/WD~Q18511923,18511923]]'
+  - '[[_Standards/WikiData/WD~non_drinking_water,62026522]]'
+  - '[[_Standards/WikiData/WD~drinking_water,7892]]'
+opposite_of: '[[_Standards/WikiData/WD~surface_water,752112]]'
+followed_by: '[[_Standards/WikiData/WD~surface_water,752112]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~raw_water,832131]]"
-  - "[[_Standards/WikiData/WD~land_waters,863944]]"
-locations: "[[_Standards/WikiData/WD~subterranea,863404]]"
+  - '[[_Standards/WikiData/WD~raw_water,832131]]'
+  - '[[_Standards/WikiData/WD~land_waters,863944]]'
+locations: '[[_Standards/WikiData/WD~subterranea,863404]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q20551718,20551718]]"
-OmegaWiki_Defined_Meaning: "1697"
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q20551718,20551718]]'
+OmegaWiki_Defined_Meaning: 1697
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Felsen%20als%20Wasserspeicher%20f%C3%BCr%20Pflanzen.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Shipot.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001004
-U_S_National_Archives_Identifier: "10640309"
+U_S_National_Archives_Identifier: 10640309
 UMLS_CUI: C0596631
 MeSH_tree_code: G01.311.355
 Commons_category: Underground water

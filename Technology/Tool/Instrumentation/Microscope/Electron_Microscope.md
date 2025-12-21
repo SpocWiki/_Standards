@@ -2,18 +2,20 @@
 aliases:
   - electron microscope
   - Elektronenmikroskop
+  - Electron_Microscope
+  - Electron Microscope
 has_id_wikidata: Q132560
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Ernst_Ruska,71022]]"
-  - "[[_Standards/WikiData/WD~Max_Knoll,64241]]"
-subclass_of: "[[_Standards/WikiData/WD~microscope,196538]]"
-uses: "[[_Standards/WikiData/WD~cathode_ray,207340]]"
+  - '[[_Standards/WikiData/WD~Ernst_Ruska,71022]]'
+  - '[[_Standards/WikiData/WD~Max_Knoll,64241]]'
+subclass_of: '[[_Standards/WikiData/WD~microscope,196538]]'
+uses: '[[_Standards/WikiData/WD~cathode_ray,207340]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-Nomenclature_for_Museum_Cataloging: "9981"
-OmegaWiki_Defined_Meaning: "1084661"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+Nomenclature_for_Museum_Cataloging: 9981
+OmegaWiki_Defined_Meaning: 1084661
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Elektronenmikroskop.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Elektronenmikroskop.jpg
 Commons_gallery: Electron microscope

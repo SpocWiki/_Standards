@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Guinea-Bissau
+  - Guinée-Bissau
+  - غينيا - بيساو
+  - 几内亚比绍
+  - Гвинея-Бисау
+  - the Republic of Guinea-Bissau
+  - la República de Guinea-Bissau
+has_id_wikidata: Q1007
 flag: "[[_Standards/WikiData/WD~flag_of_Guinea-Bissau,102953]]"
 member_of:
   - "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
@@ -232,7 +241,7 @@ female_population:
   - 1065706
 OmegaWiki_Defined_Meaning: 155348
 population: 1861283
-inception: "1974"
+inception: 1974
 has_time_started: 1974-06
 Commons_category: Guinea-Bissau
 IOC_country_code: GBS
@@ -250,7 +259,6 @@ U_S_National_Archives_Identifier: 10035793
 Libris_URI: 20dgf16l23qsczg
 Commons_gallery: Guiné-Bissau
 CIVICUS_Monitor_country_entry: guinea-bissau
-has_id_wikidata: Q1007
 location:
   - 11.8667
   - -15.6
@@ -267,20 +275,12 @@ cssclasses:
   - Country
 publish: true
 title: Guinea-Bissau
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Guinea-Bissau
-  - Guinée-Bissau
-  - غينيا - بيساو
-  - 几内亚比绍
-  - Гвинея-Бисау
-  - the Republic of Guinea-Bissau
-  - la República de Guinea-Bissau
+publishDate: ""
+expiryDate: ""
 Languages:
   - pt-GW
   - pov

@@ -4,21 +4,22 @@ aliases:
   - estimated-cost
   - estimatedCost
   - has_value_for_estimated_cost
+  - has value for estimated cost
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - estimated-cost
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_estimated-cost
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

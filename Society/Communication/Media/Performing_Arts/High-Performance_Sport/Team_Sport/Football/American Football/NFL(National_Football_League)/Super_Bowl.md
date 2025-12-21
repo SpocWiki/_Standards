@@ -1,17 +1,19 @@
 ---
 aliases:
   - AFL–NFL World Championship Game
+  - Super_Bowl
+  - Super Bowl
 has_id_wikidata: Q32096
 instance_of:
-  - "[[_Standards/WikiData/WD~championship,1079023]]"
-  - "[[_Standards/WikiData/WD~recurring_sporting_event_edition,114609228]]"
-organizer: "[[_Standards/WikiData/WD~National_Football_League,1215884]]"
-league_or_competition: "[[_Standards/WikiData/WD~National_Football_League,1215884]]"
-subclass_of: "[[_Standards/WikiData/WD~American_football_game,21140826]]"
-has_facility: "[[_Standards/WikiData/WD~Superbowl_Public_Conveniences,107357861]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~championship,1079023]]'
+  - '[[_Standards/WikiData/WD~recurring_sporting_event_edition,114609228]]'
+organizer: '[[_Standards/WikiData/WD~National_Football_League,1215884]]'
+league_or_competition: '[[_Standards/WikiData/WD~National_Football_League,1215884]]'
+subclass_of: '[[_Standards/WikiData/WD~American_football_game,21140826]]'
+has_facility: '[[_Standards/WikiData/WD~Superbowl_Public_Conveniences,107357861]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 event_interval: 1
-sport: "[[_Standards/WikiData/WD~American_football,41323]]"
+sport: '[[_Standards/WikiData/WD~American_football,41323]]'
 social_media_followers: 385051
 Commons_category: Super Bowl
 inception: 1967-01-01T00:00:00Z

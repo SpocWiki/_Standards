@@ -3,6 +3,7 @@ aliases:
   - location vector
   - radius vector
   - position vector
+  - Position-Vector
 ---
 
 # [[Position-Vector]] 

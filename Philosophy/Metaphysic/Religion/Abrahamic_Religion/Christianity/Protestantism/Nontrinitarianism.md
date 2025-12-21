@@ -1,6 +1,7 @@
 ---
 aliases:
   - antitrinitarian
+  - Nontrinitarianism
 has_id_wikidata: Q584205
 ---
 

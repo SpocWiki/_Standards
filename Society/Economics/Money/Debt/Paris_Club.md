@@ -1,16 +1,17 @@
 ---
 aliases:
-  - Paris Club 
+  - Paris Club
   - Club de Paris
+  - Paris_Club
 has_id_wikidata: Q461736
 instance_of:
-  - "[[_Standards/WikiData/WD~international_organization,484652]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
-headquarters_location: "[[_Standards/WikiData/WD~Paris,90]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
+  - '[[_Standards/WikiData/WD~international_organization,484652]]'
+  - '[[_Standards/WikiData/WD~organization,43229]]'
+headquarters_location: '[[_Standards/WikiData/WD~Paris,90]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
 inception: 1956-01-01T00:00:00Z
 official_website: http://www.clubdeparis.org/
-ISNI: "0000000122960991"
+ISNI: 0000000122960991
 ---
 
 # [[Paris_Club]] 

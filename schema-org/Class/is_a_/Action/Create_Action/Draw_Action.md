@@ -4,20 +4,22 @@ aliases:
   - draw_action
   - DrawAction
   - is_a_draw_action
+  - Draw_Action
+  - Draw Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - draw_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_draw_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

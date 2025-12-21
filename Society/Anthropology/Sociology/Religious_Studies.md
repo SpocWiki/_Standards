@@ -3,19 +3,21 @@ aliases:
   - Religious studies
   - religiology
   - study of religion
+  - Religious_Studies
+  - Religious Studies
 has_id_wikidata: Q34187
 different_from:
-  - "[[_Standards/WikiData/WD~religious_education,1412471]]"
-  - "[[_Standards/WikiData/WD~divinity,17002247]]"
-  - "[[_Standards/WikiData/WD~theology,34178]]"
+  - '[[_Standards/WikiData/WD~religious_education,1412471]]'
+  - '[[_Standards/WikiData/WD~divinity,17002247]]'
+  - '[[_Standards/WikiData/WD~theology,34178]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-practiced_by: "[[_Standards/WikiData/WD~religious_studies_scholar,19829980]]"
-part_of: "[[_Standards/WikiData/WD~theology_and_religious_studies,64687996]]"
-is_the_study_of: "[[_Standards/WikiData/WD~religion,9174]]"
-subclass_of: "[[_Standards/WikiData/WD~social_science,34749]]"
-All_Science_Journal_Classification_Codes: "1212"
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~religious_studies_scholar,19829980]]'
+part_of: '[[_Standards/WikiData/WD~theology_and_religious_studies,64687996]]'
+is_the_study_of: '[[_Standards/WikiData/WD~religion,9174]]'
+subclass_of: '[[_Standards/WikiData/WD~social_science,34749]]'
+All_Science_Journal_Classification_Codes: 1212
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Religious%20syms.svg
 Commons_category: Religious studies
 PhilPapers_topic: religious-studies

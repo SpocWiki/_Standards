@@ -3,23 +3,24 @@ aliases:
   - has region-drained
   - regionDrained
   - has_region_drained
+  - has region drained
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - region_drained
   - region
   - drained
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_region_drained
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

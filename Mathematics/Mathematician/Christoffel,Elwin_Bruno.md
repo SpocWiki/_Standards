@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Elwin Bruno Christoffel"
+  - Elwin Bruno Christoffel
+  - Christoffel,Elwin_Bruno
+  - Christoffel,Elwin Bruno
 ---
 
 ## #has_/text_of_/abstract 

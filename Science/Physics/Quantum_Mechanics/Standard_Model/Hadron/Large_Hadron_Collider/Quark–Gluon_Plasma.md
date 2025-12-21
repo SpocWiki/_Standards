@@ -2,30 +2,32 @@
 aliases:
   - Quark–gluon plasma
   - quark soup
+  - Quark–Gluon_Plasma
+  - Quark–Gluon Plasma
 has_id_wikidata: Q733096
 facet_of:
-  - "[[_Standards/WikiData/WD~hadron,101667]]"
-  - "[[_Standards/WikiData/WD~high_energy_physics,350265]]"
-  - "[[_Standards/WikiData/WD~plasma,10251]]"
-  - "[[_Standards/WikiData/WD~particle_physics,18334]]"
-  - "[[_Standards/WikiData/WD~physical_cosmology,18346]]"
+  - '[[_Standards/WikiData/WD~hadron,101667]]'
+  - '[[_Standards/WikiData/WD~high_energy_physics,350265]]'
+  - '[[_Standards/WikiData/WD~plasma,10251]]'
+  - '[[_Standards/WikiData/WD~particle_physics,18334]]'
+  - '[[_Standards/WikiData/WD~physical_cosmology,18346]]'
 theorized_by:
-  - "[[_Standards/WikiData/WD~Johann_Rafelski,119499]]"
-  - "[[_Standards/WikiData/WD~Berndt_Mueller,824499]]"
-  - "[[_Standards/WikiData/WD~Edward_V._Shuryak,1290436]]"
-  - "[[_Standards/WikiData/WD~Helmut_Satz,1604106]]"
-has_characteristic: "[[_Standards/WikiData/WD~color_confinement,505724]]"
+  - '[[_Standards/WikiData/WD~Johann_Rafelski,119499]]'
+  - '[[_Standards/WikiData/WD~Berndt_Mueller,824499]]'
+  - '[[_Standards/WikiData/WD~Edward_V._Shuryak,1290436]]'
+  - '[[_Standards/WikiData/WD~Helmut_Satz,1604106]]'
+has_characteristic: '[[_Standards/WikiData/WD~color_confinement,505724]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~antiquark,2052084]]"
-  - "[[_Standards/WikiData/WD~gluon,3299]]"
-  - "[[_Standards/WikiData/WD~quark,6718]]"
-subclass_of: "[[_Standards/WikiData/WD~QCD_matter,2755153]]"
-instance_of: "[[_Standards/WikiData/WD~non_classical_state_of_matter,15831577]]"
-follows: "[[_Standards/WikiData/WD~glasma,17141153]]"
-followed_by: "[[_Standards/WikiData/WD~Hadron_gas,122528386]]"
+  - '[[_Standards/WikiData/WD~antiquark,2052084]]'
+  - '[[_Standards/WikiData/WD~gluon,3299]]'
+  - '[[_Standards/WikiData/WD~quark,6718]]'
+subclass_of: '[[_Standards/WikiData/WD~QCD_matter,2755153]]'
+instance_of: '[[_Standards/WikiData/WD~non_classical_state_of_matter,15831577]]'
+follows: '[[_Standards/WikiData/WD~glasma,17141153]]'
+followed_by: '[[_Standards/WikiData/WD~Hadron_gas,122528386]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Helperofhumanity-%E0%A6%95%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95-%E0%A6%97%E0%A7%8D%E0%A6%B2%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%A8%20%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%9C%E0%A6%AE%E0%A6%BE.wav
-research_site: "[[_Standards/WikiData/WD~CERN,42944]]"
-location_of_discovery: "[[_Standards/WikiData/WD~CERN,42944]]"
+research_site: '[[_Standards/WikiData/WD~CERN,42944]]'
+location_of_discovery: '[[_Standards/WikiData/WD~CERN,42944]]'
 time_of_discovery_or_invention: 2000-02-10T00:00:00Z
 short_name:
   - QGP

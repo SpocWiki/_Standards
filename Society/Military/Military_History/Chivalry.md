@@ -1,21 +1,22 @@
 ---
 aliases:
   - Ritterlichkeit
+  - Chivalry
 has_id_wikidata: Q1056721
-practiced_by: "[[_Standards/WikiData/WD~knight,102083]]"
+practiced_by: '[[_Standards/WikiData/WD~knight,102083]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~social_class,187588]]"
-  - "[[_Standards/WikiData/WD~code_of_conduct,2119819]]"
+  - '[[_Standards/WikiData/WD~social_class,187588]]'
+  - '[[_Standards/WikiData/WD~code_of_conduct,2119819]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Commons_category: Chivalry
-Dewey_Decimal_Classification: "394.7"
+Dewey_Decimal_Classification: 394.7
 Krugosvet_article: istoriya/RITSARSTVO.html
 ---
 

@@ -4,21 +4,22 @@ aliases:
   - weight
   - weight
   - has_value_for_weight_in_gram
+  - has value for weight in gram
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - weight
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_weight
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

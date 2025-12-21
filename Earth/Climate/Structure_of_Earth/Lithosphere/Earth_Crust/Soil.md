@@ -1,69 +1,71 @@
 ---
+aliases:
+  - Soil
 has_id_wikidata: Q36133
 Colon_Classification: J:1
-color: "[[_Standards/WikiData/WD~brown,47071]]"
+color: '[[_Standards/WikiData/WD~brown,47071]]'
 Commons_category: Soils
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Tellus,340271]]"
-  - "[[_Standards/WikiData/WD~Erde,348045]]"
-  - "[[_Standards/WikiData/WD~land,11081619]]"
+  - '[[_Standards/WikiData/WD~Tellus,340271]]'
+  - '[[_Standards/WikiData/WD~Erde,348045]]'
+  - '[[_Standards/WikiData/WD~land,11081619]]'
 exact_match: http://purl.obolibrary.org/obo/ENVO_00001998
 Gujarati_Vishwakosh_entry: મૃદા-soil
-has_cause: "[[_Standards/WikiData/WD~pedogenesis,282070]]"
+has_cause: '[[_Standards/WikiData/WD~pedogenesis,282070]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~soil_fertility,202080]]"
-  - "[[_Standards/WikiData/WD~soil_pH,565649]]"
-  - "[[_Standards/WikiData/WD~soil_temperature,889769]]"
-  - "[[_Standards/WikiData/WD~bulk_density,899249]]"
-  - "[[_Standards/WikiData/WD~soil_porosity,1439949]]"
-  - "[[_Standards/WikiData/WD~redox_potential,1640043]]"
-  - "[[_Standards/WikiData/WD~soil_texture,5026010]]"
-  - "[[_Standards/WikiData/WD~soil_type,10926413]]"
+  - '[[_Standards/WikiData/WD~soil_fertility,202080]]'
+  - '[[_Standards/WikiData/WD~soil_pH,565649]]'
+  - '[[_Standards/WikiData/WD~soil_temperature,889769]]'
+  - '[[_Standards/WikiData/WD~bulk_density,899249]]'
+  - '[[_Standards/WikiData/WD~soil_porosity,1439949]]'
+  - '[[_Standards/WikiData/WD~redox_potential,1640043]]'
+  - '[[_Standards/WikiData/WD~soil_texture,5026010]]'
+  - '[[_Standards/WikiData/WD~soil_type,10926413]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~sediment,180184]]"
-  - "[[_Standards/WikiData/WD~soil_horizon,878214]]"
-  - "[[_Standards/WikiData/WD~soil_moisture,889507]]"
-  - "[[_Standards/WikiData/WD~soil_life,1282599]]"
-  - "[[_Standards/WikiData/WD~soil_water,1316304]]"
-  - "[[_Standards/WikiData/WD~soil_gas,7554918]]"
+  - '[[_Standards/WikiData/WD~sediment,180184]]'
+  - '[[_Standards/WikiData/WD~soil_horizon,878214]]'
+  - '[[_Standards/WikiData/WD~soil_moisture,889507]]'
+  - '[[_Standards/WikiData/WD~soil_life,1282599]]'
+  - '[[_Standards/WikiData/WD~soil_water,1316304]]'
+  - '[[_Standards/WikiData/WD~soil_gas,7554918]]'
 IHO_Hydrographic_Dictionary_S_32_Number: 4838
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stagnogley.JPG
 Krugosvet_article: nauka_i_tehnika/himiya/POCHVA.html
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Soil,21830802]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Soil,21830802]]'
 MeSH_tree_code:
   - G16.500.275.815
   - N06.230.600
   - D20.721
   - G01.311.820
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-opposite_of: "[[_Standards/WikiData/WD~rock,8063]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+opposite_of: '[[_Standards/WikiData/WD~rock,8063]]'
 part_of:
-  - "[[_Standards/WikiData/WD~field,188869]]"
-  - "[[_Standards/WikiData/WD~pedosphere,941094]]"
-  - "[[_Standards/WikiData/WD~landscape_sphere,8535454]]"
-  - "[[_Standards/WikiData/WD~clay,42302]]"
+  - '[[_Standards/WikiData/WD~field,188869]]'
+  - '[[_Standards/WikiData/WD~pedosphere,941094]]'
+  - '[[_Standards/WikiData/WD~landscape_sphere,8535454]]'
+  - '[[_Standards/WikiData/WD~clay,42302]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Pinnas,12372498]]"
-  - "[[_Standards/WikiData/WD~Q12822739,12822739]]"
+  - '[[_Standards/WikiData/WD~Pinnas,12372498]]'
+  - '[[_Standards/WikiData/WD~Q12822739,12822739]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~pedology,215501]]"
-  - "[[_Standards/WikiData/WD~soil_science,9161265]]"
+  - '[[_Standards/WikiData/WD~pedology,215501]]'
+  - '[[_Standards/WikiData/WD~soil_science,9161265]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~building_material,206615]]"
-  - "[[_Standards/WikiData/WD~granular_material,1155083]]"
-  - "[[_Standards/WikiData/WD~organic_matter,1783121]]"
-  - "[[_Standards/WikiData/WD~heterogeneous_mixture,11780457]]"
-  - "[[_Standards/WikiData/WD~natural_system,106865236]]"
+  - '[[_Standards/WikiData/WD~building_material,206615]]'
+  - '[[_Standards/WikiData/WD~granular_material,1155083]]'
+  - '[[_Standards/WikiData/WD~organic_matter,1783121]]'
+  - '[[_Standards/WikiData/WD~heterogeneous_mixture,11780457]]'
+  - '[[_Standards/WikiData/WD~natural_system,106865236]]'
 UNSPSC_Code: 11111501
 ---
 

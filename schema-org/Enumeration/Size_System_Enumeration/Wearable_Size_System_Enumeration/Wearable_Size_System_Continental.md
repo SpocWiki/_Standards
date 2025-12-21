@@ -4,21 +4,23 @@ aliases:
   - wearable_size_system_continental
   - WearableSizeSystemContinental
   - is_a_wearable_size_system_continental
+  - Wearable_Size_System_Continental
+  - Wearable Size System Continental
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableSizeSystemEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_size_system_continental
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_size_system_continental Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

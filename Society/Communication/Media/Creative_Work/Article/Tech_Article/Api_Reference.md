@@ -4,20 +4,22 @@ aliases:
   - api_reference
   - APIReference
   - is_an_api_reference
+  - Api_Reference
+  - Api Reference
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - api_reference
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_api_reference Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

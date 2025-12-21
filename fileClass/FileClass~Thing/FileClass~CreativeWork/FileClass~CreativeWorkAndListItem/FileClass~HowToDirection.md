@@ -1,71 +1,73 @@
 ---
-excludes: 
+aliases:
+  - FileClass~HowToDirection
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem
 fields:
-- id: bZREU7
-  name: AfterMedia
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject')"
-  type: MultiFile
-  path: ''
-- id: 7WhCxY
-  name: BeforeMedia
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject')"
-  type: MultiFile
-  path: ''
-- id: e8yS2V
-  name: DuringMedia
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject')"
-  type: MultiFile
-  path: ''
-- id: vpuJwk
-  name: PerformTime
-  options:
-    min: 0
-    max: 2359
-  type: Number
-  path: ''
-- id: 51XkyT
-  name: PrepTime
-  options:
-    min: 0
-    max: 2359
-  type: Number
-  path: ''
-- id: gZTVTg
-  name: Supply
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToSupply')"
-  type: MultiFile
-  path: ''
-- id: 1yU7Fr
-  name: Tool
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToTool')"
-  type: MultiFile
-  path: ''
-- id: zEgRLW
-  name: TotalTime
-  options:
-    min: 0
-    max: 2359
-  type: Number
-  path: ''
+  - id: bZREU7
+    name: AfterMedia
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
+    type: MultiFile
+    path: ''
+  - id: 7WhCxY
+    name: BeforeMedia
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
+    type: MultiFile
+    path: ''
+  - id: e8yS2V
+    name: DuringMedia
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
+    type: MultiFile
+    path: ''
+  - id: vpuJwk
+    name: PerformTime
+    options:
+      min: 0
+      max: 2359
+    type: Number
+    path: ''
+  - id: 51XkyT
+    name: PrepTime
+    options:
+      min: 0
+      max: 2359
+    type: Number
+    path: ''
+  - id: gZTVTg
+    name: Supply
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToSupply')
+    type: MultiFile
+    path: ''
+  - id: 1yU7Fr
+    name: Tool
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToTool')
+    type: MultiFile
+    path: ''
+  - id: zEgRLW
+    name: TotalTime
+    options:
+      min: 0
+      max: 2359
+    type: Number
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/HowToDirection
-- class/Thing/CreativeWork/CreativeWorkAndListItem/HowToDirection
-- is_a_/HowToDirection
-- schema-org/HowToDirection
+  - class/HowToDirection
+  - class/Thing/CreativeWork/CreativeWorkAndListItem/HowToDirection
+  - is_a_/HowToDirection
+  - schema-org/HowToDirection
 tags:
-- class/FileClass
-- class/HowToDirection
-- is_a_/HowToDirection
-- class/Thing/CreativeWork/CreativeWorkAndListItem/HowToDirection
+  - class/FileClass
+  - class/HowToDirection
+  - is_a_/HowToDirection
+  - class/Thing/CreativeWork/CreativeWorkAndListItem/HowToDirection
 version: 2.0
 ---
 

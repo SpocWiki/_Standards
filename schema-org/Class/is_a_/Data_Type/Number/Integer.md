@@ -9,35 +9,35 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - integer
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_integer Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_integer Class
 type: Type
-different_from: "[[_Standards/WikiData/WD~integral,80091]]"
+different_from: '[[_Standards/WikiData/WD~integral,80091]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Gaussian_integer,724975]]"
-  - "[[_Standards/WikiData/WD~number_with_finite_decimal_representation,8424307]]"
-  - "[[_Standards/WikiData/WD~p_adic_integer,11756524]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-part_of: "[[_Standards/WikiData/WD~set_of_integers,47007735]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_number,47460393]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_integer,101757284]]"
+  - '[[_Standards/WikiData/WD~Gaussian_integer,724975]]'
+  - '[[_Standards/WikiData/WD~number_with_finite_decimal_representation,8424307]]'
+  - '[[_Standards/WikiData/WD~p_adic_integer,11756524]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+part_of: '[[_Standards/WikiData/WD~set_of_integers,47007735]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_number,47460393]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_integer,101757284]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~Q114703800,114703800]]"
-  - "[[_Standards/WikiData/WD~number_theory,12479]]"
-OmegaWiki_Defined_Meaning: "968897"
+  - '[[_Standards/WikiData/WD~Q114703800,114703800]]'
+  - '[[_Standards/WikiData/WD~number_theory,12479]]'
+OmegaWiki_Defined_Meaning: 968897
 image: http://commons.wikimedia.org/wiki/Special:FilePath/EvenOddNumberLine.svg
 Stack_Exchange_tag: https://math.stackexchange.com/tags/integers
 equivalent_class: https://schema.org/Integer

@@ -1,11 +1,13 @@
 ---
 aliases:
   - principal quantum number
+  - Principal_Quantum_Number
+  - Principal Quantum Number
 has_id_wikidata: Q867448
-subclass_of: "[[_Standards/WikiData/WD~quantum_number,232431]]"
-studied_by: "[[_Standards/WikiData/WD~quantum_physics,1144457]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_80000_10_2019_Quantities_and_units_Part_10_Atomic_and_nuclear_physics,85490171]]"
-recommended_unit_of_measurement: "[[_Standards/WikiData/WD~1,199]]"
+subclass_of: '[[_Standards/WikiData/WD~quantum_number,232431]]'
+studied_by: '[[_Standards/WikiData/WD~quantum_physics,1144457]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_80000_10_2019_Quantities_and_units_Part_10_Atomic_and_nuclear_physics,85490171]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~1,199]]'
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>n</mi></mstyle></mrow></math>
 ---

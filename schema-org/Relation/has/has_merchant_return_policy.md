@@ -1,33 +1,34 @@
 ---
 aliases:
-- has-merchant-return-policy
-- hasMerchantReturnPolicy
-- has_merchant_return_policy
-- hasProductReturnPolicy
-- has_Product_Return_Policy
-- has-Product-Return-Policy
+  - has-merchant-return-policy
+  - hasMerchantReturnPolicy
+  - has_merchant_return_policy
+  - hasProductReturnPolicy
+  - has_Product_Return_Policy
+  - has-Product-Return-Policy
+  - has merchant return policy
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- merchant_return_policy
-- merchant
-- return
-- policy
-layout: 
-license: "CC BY-SA 4.0"
+  - merchant_return_policy
+  - merchant
+  - return
+  - policy
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_merchant_return_policy
 publish: true
-publishDate: 
+publishDate: ''
 supersedes: hasProductReturnPolicy
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_merchant_return_policy
 type: Predi_Relation
 ---

@@ -4,20 +4,22 @@ aliases:
   - high_school
   - HighSchool
   - is_a_high_school
+  - High_School
+  - High School
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - high_school
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_high_school Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

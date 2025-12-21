@@ -1,17 +1,19 @@
 ---
 aliases:
   - Pilotenspiel
+  - Pyramid_Scheme
+  - Pyramid Scheme
 has_id_wikidata: Q214242
-derivative_work: "[[_Standards/WikiData/WD~Ponzi_scheme,219407]]"
+derivative_work: '[[_Standards/WikiData/WD~Ponzi_scheme,219407]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~business_model,815823]]"
-  - "[[_Standards/WikiData/WD~fraud,28813]]"
-OmegaWiki_Defined_Meaning: "1202346"
+  - '[[_Standards/WikiData/WD~business_model,815823]]'
+  - '[[_Standards/WikiData/WD~fraud,28813]]'
+OmegaWiki_Defined_Meaning: 1202346
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SistemaGDI.jpg
 Commons_category: Pyramid and Ponzi schemes
 Dewey_Decimal_Classification:
-  - "658.872"
-  - "343.072"
+  - 658.872
+  - 343.072
 ---
 
 # [[Pyramid_Scheme]] 

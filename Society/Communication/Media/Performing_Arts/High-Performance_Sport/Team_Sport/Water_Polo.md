@@ -1,6 +1,8 @@
 ---
 aliases:
   - Wasserball
+  - Water_Polo
+  - Water Polo
 has_id_wikidata: Q7707
 country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
 authority: "[[_Standards/WikiData/WD~World_Aquatics,189289]]"
@@ -19,13 +21,13 @@ inception: 1900-01-01T00:00:00Z
 instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
 maximum_number_of_players: 14
 sport: "[[_Standards/WikiData/WD~water_sport,61065]]"
-IAB_code: "543"
-OmegaWiki_Defined_Meaning: "535324"
+IAB_code: 543
+OmegaWiki_Defined_Meaning: 535324
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DFC%20Sete%20v%20FNC%20Douai%20Coupe%20de%20la%20Ligue%202014%20t144334.jpg
 subreddit: waterpolo
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Water%20polo%20pictogram.svg
 Commons_category: Water polo
-U_S_National_Archives_Identifier: "10645558"
+U_S_National_Archives_Identifier: 10645558
 Iconclass_notation: 43C4124
 IPTC_NewsCode: mediatopic/20001091
 Colon_Classification: MY256
@@ -33,10 +35,10 @@ Krugosvet_article_archived_: sport/VODNOE_POLO.html
 alternative_name: Waasserpolo
 Unicode_character: 🤽
 OpenStreetMap_tag: sport=water_polo
-Dewey_Decimal_Classification: "797.25"
+Dewey_Decimal_Classification: 797.25
 ---
 
-# [[Water_Polo]] 
+# [[Water_Polo]] 🤽 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Water_polo,7707|WD~Water_polo,7707]]  
 

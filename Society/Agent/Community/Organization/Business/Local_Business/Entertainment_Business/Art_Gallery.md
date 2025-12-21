@@ -4,20 +4,22 @@ aliases:
   - art_gallery
   - ArtGallery
   - is_an_art_gallery
+  - Art_Gallery
+  - Art Gallery
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - art_gallery
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_art_gallery Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

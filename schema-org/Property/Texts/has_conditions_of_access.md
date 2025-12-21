@@ -4,23 +4,25 @@ aliases:
   - conditions_of_access
   - conditionsOfAccess
   - has_text_of_conditions_of_access
+  - has_conditions_of_access
+  - has conditions of access
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - conditions
   - of
   - access
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_conditions_of_access
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

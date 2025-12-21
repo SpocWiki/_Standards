@@ -4,21 +4,22 @@ aliases:
   - fuel-capacity
   - fuelCapacity
   - has_value_for_fuel_capacity_liter
+  - has value for fuel capacity liter
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - fuel-capacity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_fuel-capacity
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

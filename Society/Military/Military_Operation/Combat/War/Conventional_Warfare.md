@@ -1,10 +1,12 @@
 ---
 aliases:
   - Conventional warfare
+  - Conventional_Warfare
+  - Conventional Warfare
 has_id_wikidata: Q429245
-opposite_of: "[[_Standards/WikiData/WD~unconventional_warfare,1342628]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_war,124867660]]"
-subclass_of: "[[_Standards/WikiData/WD~war,198]]"
+opposite_of: '[[_Standards/WikiData/WD~unconventional_warfare,1342628]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_war,124867660]]'
+subclass_of: '[[_Standards/WikiData/WD~war,198]]'
 ---
 
 # [[Conventional_Warfare]] 

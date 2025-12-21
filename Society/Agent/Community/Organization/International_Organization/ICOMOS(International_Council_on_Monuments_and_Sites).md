@@ -3,29 +3,31 @@ aliases:
   - ICOMOS
   - International Council on Monuments and Sites
   - Conseil international des monuments et des sites
+  - ICOMOS(International_Council_on_Monuments_and_Sites)
+  - ICOMOS(International Council on Monuments and Sites)
 has_id_wikidata: Q273138
 instance_of:
-  - "[[_Standards/WikiData/WD~non_governmental_organization,79913]]"
-  - "[[_Standards/WikiData/WD~regulatory_college,1110684]]"
-  - "[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Charenton_le_Pont,212793]]"
-follows: "[[_Standards/WikiData/WD~International_Museums_Office,96472883]]"
+  - '[[_Standards/WikiData/WD~non_governmental_organization,79913]]'
+  - '[[_Standards/WikiData/WD~regulatory_college,1110684]]'
+  - '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]'
+  - '[[_Standards/WikiData/WD~organization,43229]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Charenton_le_Pont,212793]]'
+follows: '[[_Standards/WikiData/WD~International_Museums_Office,96472883]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~ICOFORT,103613961]]"
-  - "[[_Standards/WikiData/WD~ICOMOS_Spain,115480365]]"
+  - '[[_Standards/WikiData/WD~ICOFORT,103613961]]'
+  - '[[_Standards/WikiData/WD~ICOMOS_Spain,115480365]]'
 member_of: "[[_Standards/WikiData/WD~UNESCO's_Advisory_Bodies,104907577]]"
-accredited_by: "[[_Standards/WikiData/WD~accredited_NGO_for_intangible_cultural_heritage,116980142]]"
-partnership_with: "[[_Standards/WikiData/WD~UNESCO,7809]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Paris,90]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
+accredited_by: '[[_Standards/WikiData/WD~accredited_NGO_for_intangible_cultural_heritage,116980142]]'
+partnership_with: '[[_Standards/WikiData/WD~UNESCO,7809]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Paris,90]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
 social_media_followers: 19851
 inception: 1965-01-01T00:00:00Z
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Icomos-logo-en.svg
 official_website:
   - http://www.icomos.org
   - https://www.icomos.org/fr
-ISNI: "0000000121504935"
+ISNI: 0000000121504935
 X_Twitter_username: icomos
 Commons_category: ICOMOS
 Facebook_username: ICOMOSinternational

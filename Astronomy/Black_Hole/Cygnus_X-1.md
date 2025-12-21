@@ -2,6 +2,7 @@
 aliases:
   - Cygnus X-1
   - Cyg X-1
+  - Cygnus_X-1
 has_id_wikidata: Q332674
 ---
 

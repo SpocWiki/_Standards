@@ -1,16 +1,17 @@
 ---
 aliases:
   - Walze
+  - Roller(Agriculture)
 has_id_wikidata: Q1334343
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-has_use: "[[_Standards/WikiData/WD~rolling,12274551]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+has_use: '[[_Standards/WikiData/WD~rolling,12274551]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~tillage_machine,15306431]]"
-  - "[[_Standards/WikiData/WD~roller,95963308]]"
-Nomenclature_for_Museum_Cataloging: "8664"
+  - '[[_Standards/WikiData/WD~tillage_machine,15306431]]'
+  - '[[_Standards/WikiData/WD~roller,95963308]]'
+Nomenclature_for_Museum_Cataloging: 8664
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ackerger%C3%A4t.jpg
 Commons_gallery: Agricultural roller
 Commons_category: Agricultural rollers

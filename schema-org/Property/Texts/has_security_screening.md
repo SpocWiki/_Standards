@@ -4,22 +4,24 @@ aliases:
   - security_screening
   - securityScreening
   - has_text_of_security_screening
+  - has_security_screening
+  - has security screening
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - security
   - screening
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_security_screening
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

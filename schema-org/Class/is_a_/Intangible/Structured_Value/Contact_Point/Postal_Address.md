@@ -4,20 +4,22 @@ aliases:
   - postal_address
   - PostalAddress
   - is_a_postal_address
+  - Postal_Address
+  - Postal Address
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - postal_address
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_postal_address Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -3,23 +3,24 @@ aliases:
   - has taxon-rank
   - taxonRank
   - has_taxon_rank
+  - has taxon rank
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - taxon_rank
   - taxon
   - rank
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_taxon_rank
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

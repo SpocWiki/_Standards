@@ -4,48 +4,49 @@ aliases:
   - Maximilian Raoul Steiner
   - Max Steiner
   - Steiner
+  - Steiner,Max
 has_id_wikidata: Q350704
-ISNI: "0000000121382536"
+ISNI: 0000000121382536
 Europeana_entity: agent/base/146893
 name_in_native_language: Maximilian Raoul Steiner
 work_period_start_: 1904-01-01T00:00:00Z
-different_from: "[[_Standards/WikiData/WD~Max_Stirner,76725]]"
-place_of_death: "[[_Standards/WikiData/WD~Beverly_Hills,127856]]"
+different_from: '[[_Standards/WikiData/WD~Max_Stirner,76725]]'
+place_of_death: '[[_Standards/WikiData/WD~Beverly_Hills,127856]]'
 occupation:
-  - "[[_Standards/WikiData/WD~conductor,158852]]"
-  - "[[_Standards/WikiData/WD~film_score_composer,1415090]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-cause_of_death: "[[_Standards/WikiData/WD~heart_failure,181754]]"
+  - '[[_Standards/WikiData/WD~conductor,158852]]'
+  - '[[_Standards/WikiData/WD~film_score_composer,1415090]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
+cause_of_death: '[[_Standards/WikiData/WD~heart_failure,181754]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Musical_Score,4671338]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_Score,22235329]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Score,_Adaptation_or_Treatment,22752811]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_or_Comedy_Score,22752868]]"
-educated_at: "[[_Standards/WikiData/WD~University_of_Music_and_Performing_Arts_Vienna,686522]]"
-place_of_burial: "[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1437214]]"
-father: "[[_Standards/WikiData/WD~Gabor_Steiner,1488763]]"
-family_name: "[[_Standards/WikiData/WD~Steiner,1719303]]"
-record_label: "[[_Standards/WikiData/WD~RCA_Victor,3415083]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-given_name: "[[_Standards/WikiData/WD~Max,16422172]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Musical_Score,4671338]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_Score,22235329]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Score,_Adaptation_or_Treatment,22752811]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_or_Comedy_Score,22752868]]'
+educated_at: '[[_Standards/WikiData/WD~University_of_Music_and_Performing_Arts_Vienna,686522]]'
+place_of_burial: '[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1437214]]'
+father: '[[_Standards/WikiData/WD~Gabor_Steiner,1488763]]'
+family_name: '[[_Standards/WikiData/WD~Steiner,1719303]]'
+record_label: '[[_Standards/WikiData/WD~RCA_Victor,3415083]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~Max,16422172]]'
 award_received:
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Score,_Adaptation_or_Treatment,22752811]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_or_Comedy_Score,22752868]]"
-filmography: "[[_Standards/WikiData/WD~Max_Steiner_filmography,25038619]]"
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Score,_Adaptation_or_Treatment,22752811]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_or_Comedy_Score,22752868]]'
+filmography: '[[_Standards/WikiData/WD~Max_Steiner_filmography,25038619]]'
 date_of_birth: 1888-05-10T00:00:00Z
-genre: "[[_Standards/WikiData/WD~opera,1344]]"
-place_of_birth: "[[_Standards/WikiData/WD~Vienna,1741]]"
+genre: '[[_Standards/WikiData/WD~opera,1344]]'
+place_of_birth: '[[_Standards/WikiData/WD~Vienna,1741]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~German,188]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Austria_Hungary,28513]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_category: Max Steiner
 date_of_death: 1971-12-28T00:00:00Z
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/GuentherZ%202007-04-07%200122%20Wien02%20Praterstrasse72%20Gedenktafel%20Max%20Steiner.jpg

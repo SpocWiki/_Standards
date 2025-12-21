@@ -1,7 +1,9 @@
 ---
 aliases:
-  - Rugby 
+  - Rugby
   - Rugby football
+  - Rugby_Football
+  - Rugby Football
 has_id_wikidata: Q5378
 confidential: private
 cssclasses:
@@ -11,26 +13,26 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
+expiryDate: ""
 has_Template: "[[Extract~Note~Template]]"
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': ""
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  "{ newTitle: }": ""
 lang: en
-layout:
+layout: ""
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  "{ newTitle: }": ""
 publish: false
-publishDate:
+publishDate: ""
 tags:
-  - "{ newTitle: }":
+  - "{ newTitle: }": ""
   - excalidraw
 title:
-  "{ newTitle: }":
+  "{ newTitle: }": ""
 type: private_note
 country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
 instance_of:
@@ -51,12 +53,12 @@ practiced_by: "[[_Standards/WikiData/WD~rugby_player,13415036]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Rugby,16867512]]"
 Wikidata_property: number of tries marked
 maximum_number_of_players: 30
-IAB_code: "527"
+IAB_code: 527
 UMLS_CUI: C0035945
 BHCL_UUID: 1d301a24-c90b-47f3-81ed-6e7efb55e3ca
-OmegaWiki_Defined_Meaning: "716545"
+OmegaWiki_Defined_Meaning: 716545
 image: http://commons.wikimedia.org/wiki/Special:FilePath/USO%20-%20Saracens%20-%2020151213%20-%20Maro%20Itoje%20attacking.jpg
-U_S_National_Archives_Identifier: "10647604"
+U_S_National_Archives_Identifier: 10647604
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Rugby%20union%20pictogram.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-rugby.wav
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Rugby%20banner.jpg
@@ -64,7 +66,7 @@ narrower_external_class:
   - "[[_Standards/WikiData/WD~https_www.wikidata.org_wiki_Q270102,270102]]"
   - "[[_Standards/WikiData/WD~https_www.wikidata.org_wiki_Q5849,5849]]"
 Unicode_character: 🏉
-Dewey_Decimal_Classification: "796.333"
+Dewey_Decimal_Classification: 796.333
 Library_of_Congress_Classification: GV944.8-GV946.22
 MeSH_tree_code: I03.450.642.845.608
 IPTC_NewsCode: mediatopic/20001176
@@ -73,7 +75,7 @@ Commons_category: Rugby football
 OpenStreetMap_tag: sport=rugby
 ---
 
-# [[Rugby_Football]] 
+# [[Rugby_Football]] 🏉 
 
 #is_/same_as :: [[WD~Rugby,5378]] 
 

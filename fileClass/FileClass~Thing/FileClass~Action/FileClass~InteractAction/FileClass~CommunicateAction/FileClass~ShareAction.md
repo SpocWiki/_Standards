@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ShareAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ShareAction
-- class/Thing/Action/InteractAction/CommunicateAction/ShareAction
-- is_a_/ShareAction
-- schema-org/ShareAction
+  - class/ShareAction
+  - class/Thing/Action/InteractAction/CommunicateAction/ShareAction
+  - is_a_/ShareAction
+  - schema-org/ShareAction
 tags:
-- class/FileClass
-- class/ShareAction
-- is_a_/ShareAction
-- class/Thing/Action/InteractAction/CommunicateAction/ShareAction
+  - class/FileClass
+  - class/ShareAction
+  - is_a_/ShareAction
+  - class/Thing/Action/InteractAction/CommunicateAction/ShareAction
 version: 2.0
 ---
 

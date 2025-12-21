@@ -4,20 +4,21 @@ aliases:
   - availability_ends
   - availabilityEnds
   - has_time_when_availability_ends
+  - has time when availability ends
 confidential: public
 cssclasses:
   - Predicate
   - Date_Time
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
-layout:
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Date

@@ -6,6 +6,7 @@ aliases:
   - نيوزيلندا
   - 新西兰
   - Новая Зеландия
+  - New_Zealand
 has_id_wikidata: Q664
 age_of_majority: 20
 anthem: "[[_Standards/WikiData/WD~God_Defend_New_Zealand,202137]]"
@@ -173,7 +174,7 @@ ethnic_group:
   - "[[_Standards/WikiData/WD~European_New_Zealanders,7015349]]"
   - "[[_Standards/WikiData/WD~Asian_New_Zealanders,29467330]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_New_Zealand,3526359]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 2517499
   - 2567944
@@ -222,7 +223,7 @@ ISO_3166_1_alpha_3_code: NZL
 ISO_3166_1_numeric_code: 554
 isReadOnly: false
 ITU_letter_code: NZL
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/NOVAYA_ZELANDIYA.html
 Languages:
   - en-NZ
@@ -231,13 +232,13 @@ language_used:
   - "[[_Standards/WikiData/WD~English,1860]]"
   - "[[_Standards/WikiData/WD~New_Zealand_Sign_Language,36239]]"
   - "[[_Standards/WikiData/WD~Māori,36451]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~New_Zealand_Parliament,1520966]]"
 Libris_URI: mkz10wv559pm8sb
 licence_plate_code: NZ
 license: CC BY-SA 4.0
 life_expectancy: 81.61244
-linkTitle:
+linkTitle: ""
 located_in_time_zone:
   - "[[_Standards/WikiData/WD~UTC+12_00,7105]]"
   - "[[_Standards/WikiData/WD~UTC+13_00,7118]]"
@@ -336,7 +337,7 @@ PM20_geo_code: D35
 population: 5118700
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Noua%20Zeeland%C4%83.wav
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750]]"
 replaces:
   - "[[_Standards/WikiData/WD~Dominion_of_New_Zealand,2594990]]"

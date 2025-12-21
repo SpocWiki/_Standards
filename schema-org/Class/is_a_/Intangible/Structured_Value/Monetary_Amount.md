@@ -4,20 +4,22 @@ aliases:
   - monetary_amount
   - MonetaryAmount
   - is_a_monetary_amount
+  - Monetary_Amount
+  - Monetary Amount
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - monetary_amount
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_monetary_amount Class
 publish: true
-publishDate:
+publishDate: ''
 supersedes: DatedMoneySpecification
 tags:
   - class/Class

@@ -3,10 +3,12 @@ aliases:
   - Orange Revolution
   - Помаранчева революція
   - Pomarancheva revoliutsiia
+  - 2004-Orange_Revolution
+  - 2004-Orange Revolution
 has_id_wikidata: Q836386
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]"
-instance_of: "[[_Standards/WikiData/WD~revolution,10931]]"
-country: "[[_Standards/WikiData/WD~Ukraine,212]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]'
+instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
+country: '[[_Standards/WikiData/WD~Ukraine,212]]'
 start_time: 2004-11-22T00:00:00Z
 end_time: 2005-01-23T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Morning%20first%20day%20of%20Orange%20Revolution.jpg

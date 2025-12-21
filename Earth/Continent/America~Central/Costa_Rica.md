@@ -6,6 +6,8 @@ aliases:
   - Коста-Рика
   - the Republic of Costa Rica
   - la República de Costa Rica
+  - Costa_Rica
+has_id_wikidata: Q800
 subreddit: costarica
 CIVICUS_Monitor_country_entry: costa-rica
 hashtag: CostaRica
@@ -270,7 +272,7 @@ area: 51179.92
 Commons_category: Costa Rica
 Commons_gallery: Costa Rica
 PM20_geo_code: E70
-inception: "1821"
+inception: 1821
 has_time_started: 1821-06
 ISO_3166_1_alpha_3_code: CRI
 U_S_National_Archives_Identifier: 10044685
@@ -279,7 +281,6 @@ coordinates_of_westernmost_point: Point(-87.061111111 5.528055555)
 Dewey_Decimal_Classification: 2--7281
 native_label: República de Costa Rica
 coordinates_of_southernmost_point: Point(-87.07371 5.49897)
-has_id_wikidata: Q800
 location:
   - 9.95
   - -84.08
@@ -296,12 +297,12 @@ cssclasses:
   - Country
 publish: true
 title: Costa Rica
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 Languages:
   - es-CR
   - en

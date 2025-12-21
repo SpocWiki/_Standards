@@ -1,8 +1,9 @@
 ---
-has_id_wikidata: Q39607
 aliases:
   - Antoine-Laurent de Lavoisier
   - Antoine Lavoisier
+  - Lavoisier,Antoine
+has_id_wikidata: Q39607
 ---
 
 #is_/same_as :: [[../../WikiData/WD~Antoine_Lavoisier,39607|WD~Antoine_Lavoisier,39607]] 

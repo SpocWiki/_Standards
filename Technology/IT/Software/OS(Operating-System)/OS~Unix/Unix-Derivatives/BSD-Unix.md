@@ -2,6 +2,7 @@
 aliases:
   - Berkeley_Software_Distribution
   - BSD Unix
+  - BSD-Unix
 has_id_wikidata: Q34264
 ---
 

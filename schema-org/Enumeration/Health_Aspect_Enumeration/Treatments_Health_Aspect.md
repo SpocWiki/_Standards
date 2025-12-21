@@ -4,21 +4,23 @@ aliases:
   - treatments_health_aspect
   - TreatmentsHealthAspect
   - is_a_treatments_health_aspect
+  - Treatments_Health_Aspect
+  - Treatments Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - treatments_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_treatments_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

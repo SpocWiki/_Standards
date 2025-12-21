@@ -4,20 +4,22 @@ aliases:
   - hyper_toc_entry
   - HyperTocEntry
   - is_a_hyper_toc_entry
+  - Hyper_Toc_Entry
+  - Hyper Toc Entry
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - hyper_toc_entry
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_hyper_toc_entry Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

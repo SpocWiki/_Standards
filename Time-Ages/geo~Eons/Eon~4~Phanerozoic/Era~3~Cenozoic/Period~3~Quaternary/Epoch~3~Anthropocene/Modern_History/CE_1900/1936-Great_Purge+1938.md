@@ -1,29 +1,31 @@
 ---
 aliases:
   - Great Purge
+  - 1936-Great_Purge+1938
+  - 1936-Great Purge+1938
 has_id_wikidata: Q187650
 participant:
-  - "[[_Standards/WikiData/WD~Vyacheslav_Molotov,132899]]"
-  - "[[_Standards/WikiData/WD~Lavrentiy_Beria,141829]]"
-  - "[[_Standards/WikiData/WD~Nikolai_Yezhov,141860]]"
-  - "[[_Standards/WikiData/WD~Genrikh_Yagoda,141869]]"
-  - "[[_Standards/WikiData/WD~Andrey_Vyshinsky,155860]]"
-  - "[[_Standards/WikiData/WD~Kliment_Voroshilov,186185]]"
-  - "[[_Standards/WikiData/WD~Lazar_Kaganovich,215705]]"
-  - "[[_Standards/WikiData/WD~Ivan_Serov,464719]]"
-  - "[[_Standards/WikiData/WD~Robert_Eikhe,1345022]]"
-  - "[[_Standards/WikiData/WD~Joseph_Stalin,855]]"
+  - '[[_Standards/WikiData/WD~Vyacheslav_Molotov,132899]]'
+  - '[[_Standards/WikiData/WD~Lavrentiy_Beria,141829]]'
+  - '[[_Standards/WikiData/WD~Nikolai_Yezhov,141860]]'
+  - '[[_Standards/WikiData/WD~Genrikh_Yagoda,141869]]'
+  - '[[_Standards/WikiData/WD~Andrey_Vyshinsky,155860]]'
+  - '[[_Standards/WikiData/WD~Kliment_Voroshilov,186185]]'
+  - '[[_Standards/WikiData/WD~Lazar_Kaganovich,215705]]'
+  - '[[_Standards/WikiData/WD~Ivan_Serov,464719]]'
+  - '[[_Standards/WikiData/WD~Robert_Eikhe,1345022]]'
+  - '[[_Standards/WikiData/WD~Joseph_Stalin,855]]'
 location:
   - "[[_Standards/WikiData/WD~Mongolian_People's_Republic,212056]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~Xinjiang,34800]]"
-part_of: "[[_Standards/WikiData/WD~Stalinist_repression,336113]]"
-different_from: "[[_Standards/WikiData/WD~Red_Terror,542291]]"
+  - '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+  - '[[_Standards/WikiData/WD~Xinjiang,34800]]'
+part_of: '[[_Standards/WikiData/WD~Stalinist_repression,336113]]'
+different_from: '[[_Standards/WikiData/WD~Red_Terror,542291]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~purge,1262732]]"
-  - "[[_Standards/WikiData/WD~process,3249551]]"
-has_part_s_: "[[_Standards/WikiData/WD~Case_of_Trotskyist_Anti_Soviet_Military_Organization,2631954]]"
-subclass_of: "[[_Standards/WikiData/WD~terror,13648784]]"
+  - '[[_Standards/WikiData/WD~purge,1262732]]'
+  - '[[_Standards/WikiData/WD~process,3249551]]'
+has_part_s_: '[[_Standards/WikiData/WD~Case_of_Trotskyist_Anti_Soviet_Military_Organization,2631954]]'
+subclass_of: '[[_Standards/WikiData/WD~terror,13648784]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Vinnycia16.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%20%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B0%20302.jpg

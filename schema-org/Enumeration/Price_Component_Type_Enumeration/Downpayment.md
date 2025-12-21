@@ -9,16 +9,16 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: PriceComponentTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - downpayment
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_downpayment Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

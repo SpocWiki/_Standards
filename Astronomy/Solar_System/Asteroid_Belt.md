@@ -1,22 +1,25 @@
 ---
+aliases:
+  - Asteroid_Belt
+  - Asteroid Belt
 has_id_wikidata: Q2179
-subclass_of: "[[_Standards/WikiData/WD~minor_planet_group,2332332]]"
+subclass_of: '[[_Standards/WikiData/WD~minor_planet_group,2332332]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~circumstellar_disk,3235978]]"
-  - "[[_Standards/WikiData/WD~ring_system,28951811]]"
-  - "[[_Standards/WikiData/WD~astronomical_object_in_the_Solar_System,109645909]]"
-part_of: "[[_Standards/WikiData/WD~inner_Solar_System,7879772]]"
+  - '[[_Standards/WikiData/WD~circumstellar_disk,3235978]]'
+  - '[[_Standards/WikiData/WD~ring_system,28951811]]'
+  - '[[_Standards/WikiData/WD~astronomical_object_in_the_Solar_System,109645909]]'
+part_of: '[[_Standards/WikiData/WD~inner_Solar_System,7879772]]'
 child_astronomical_body:
-  - "[[_Standards/WikiData/WD~(500507)_2012_TP287,56323922]]"
-  - "[[_Standards/WikiData/WD~Q11532,11532]]"
-parent_astronomical_body: "[[_Standards/WikiData/WD~Sun,525]]"
-OmegaWiki_Defined_Meaning: "665986"
-Dewey_Decimal_Classification: "523.44"
+  - '[[_Standards/WikiData/WD~(500507)_2012_TP287,56323922]]'
+  - '[[_Standards/WikiData/WD~Q11532,11532]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
+OmegaWiki_Defined_Meaning: 665986
+Dewey_Decimal_Classification: 523.44
 spoken_text_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Asteroid%20Belt.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Asteroid%20belt%20%28intro%29.ogg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Asteroidb%C3%A4ltet.wav
-P8189: "987007579234005171"
+P8189: 987007579234005171
 Commons_category: Main Belt asteroids
 ---
 

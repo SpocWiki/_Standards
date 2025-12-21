@@ -1,36 +1,37 @@
 ---
 aliases:
   - Panzer
+  - Tank
 has_id_wikidata: Q12876
-subclass_of: "[[_Standards/WikiData/WD~armored_fighting_vehicle,130368]]"
-has_list: "[[_Standards/WikiData/WD~list_of_tank,736392]]"
-named_after: "[[_Standards/WikiData/WD~cistern,838858]]"
+subclass_of: '[[_Standards/WikiData/WD~armored_fighting_vehicle,130368]]'
+has_list: '[[_Standards/WikiData/WD~list_of_tank,736392]]'
+named_after: '[[_Standards/WikiData/WD~cistern,838858]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~continuous_track,940913]]"
-  - "[[_Standards/WikiData/WD~tank_running_gear,117213407]]"
+  - '[[_Standards/WikiData/WD~continuous_track,940913]]'
+  - '[[_Standards/WikiData/WD~tank_running_gear,117213407]]'
 different_from:
-  - "[[_Standards/WikiData/WD~reservoir,1047832]]"
-  - "[[_Standards/WikiData/WD~tank,1964626]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_tank,2328012]]"
-used_by: "[[_Standards/WikiData/WD~tankman,4451210]]"
-described_by_source: "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+  - '[[_Standards/WikiData/WD~reservoir,1047832]]'
+  - '[[_Standards/WikiData/WD~tank,1964626]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_tank,2328012]]'
+used_by: '[[_Standards/WikiData/WD~tankman,4451210]]'
+described_by_source: '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~weapon_type,124078422]]"
-  - "[[_Standards/WikiData/WD~vehicle_functional_class,124315169]]"
-Nomenclature_for_Museum_Cataloging: "11780"
+  - '[[_Standards/WikiData/WD~weapon_type,124078422]]'
+  - '[[_Standards/WikiData/WD~vehicle_functional_class,124315169]]'
+Nomenclature_for_Museum_Cataloging: 11780
 Commons_gallery: Tank
 IMDb_keyword: tank
 Commons_category: Tanks
 UNSPSC_Code:
-  - "25102001"
-  - "25102002"
+  - 25102001
+  - 25102002
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Australian%20M1%20Abrams%20tank%20conducting%20target%20practice%20in%20May%202017.webm
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Tank.ogg
 exact_match: http://wordnet-rdf.princeton.edu/wn30/04389033-n
-MIL_STD_2525_Symbol_Identification_Code: "10011500001202000000"
+MIL_STD_2525_Symbol_Identification_Code: 10011500001202000000
 time_of_discovery_or_invention: 1915-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Char%20T%2034%20noBG.jpg
-Dewey_Decimal_Classification: "358.1883"
+Dewey_Decimal_Classification: 358.1883
 ---
 
 # [[Tank]] 

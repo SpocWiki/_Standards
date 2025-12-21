@@ -2,7 +2,8 @@
 aliases:
   - Council of the European Union
   - Council of Ministers
-  - 
+  - ''
+  - Council_of_the_European_Union
 has_id_wikidata: Q8896
 native_label:
   - Az Európai Unió Tanácsa
@@ -30,40 +31,40 @@ native_label:
   - Comhairle an Aontais Eorpaigh
   - Vijeće Europske unije
 has_part_s_:
-  - "[[_Standards/WikiData/WD~General_Affairs_Council,203276]]"
-  - "[[_Standards/WikiData/WD~Foreign_Affairs_Council,973809]]"
-  - "[[_Standards/WikiData/WD~Environment_Council,1294221]]"
-  - "[[_Standards/WikiData/WD~Transport,_Telecommunications_and_Energy_Council,1712941]]"
-  - "[[_Standards/WikiData/WD~Economic_and_Financial_Affairs_Council,1753920]]"
-  - "[[_Standards/WikiData/WD~Education,_Youth,_Culture_and_Sport_Council,1766825]]"
-  - "[[_Standards/WikiData/WD~Justice_and_Home_Affairs_Council,2132307]]"
-  - "[[_Standards/WikiData/WD~Competitiveness_Council,2132310]]"
-  - "[[_Standards/WikiData/WD~Agriculture_and_Fisheries_Council,2132312]]"
-  - "[[_Standards/WikiData/WD~Employment,_Social_Policy,_Health_and_Consumer_Affairs_Council,10658660]]"
-authority: "[[_Standards/WikiData/WD~presidency_of_the_Council_of_the_European_Union,308905]]"
+  - '[[_Standards/WikiData/WD~General_Affairs_Council,203276]]'
+  - '[[_Standards/WikiData/WD~Foreign_Affairs_Council,973809]]'
+  - '[[_Standards/WikiData/WD~Environment_Council,1294221]]'
+  - '[[_Standards/WikiData/WD~Transport,_Telecommunications_and_Energy_Council,1712941]]'
+  - '[[_Standards/WikiData/WD~Economic_and_Financial_Affairs_Council,1753920]]'
+  - '[[_Standards/WikiData/WD~Education,_Youth,_Culture_and_Sport_Council,1766825]]'
+  - '[[_Standards/WikiData/WD~Justice_and_Home_Affairs_Council,2132307]]'
+  - '[[_Standards/WikiData/WD~Competitiveness_Council,2132310]]'
+  - '[[_Standards/WikiData/WD~Agriculture_and_Fisheries_Council,2132312]]'
+  - '[[_Standards/WikiData/WD~Employment,_Social_Policy,_Health_and_Consumer_Affairs_Council,10658660]]'
+authority: '[[_Standards/WikiData/WD~presidency_of_the_Council_of_the_European_Union,308905]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~upper_house,637846]]"
-  - "[[_Standards/WikiData/WD~institution_of_the_European_Union,748720]]"
-  - "[[_Standards/WikiData/WD~legislature,11204]]"
-  - "[[_Standards/WikiData/WD~executive_branch,35798]]"
-member_of: "[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Europa_building,1375164]]"
-locations: "[[_Standards/WikiData/WD~Europa_building,1375164]]"
-owner_of: "[[_Standards/WikiData/WD~Lex_building,1822210]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Council_of_the_European_Union,7658183]]"
-replaces: "[[_Standards/WikiData/WD~Special_Council_of_Ministers,23021661]]"
-described_by_source: "[[_Standards/WikiData/WD~Medvik,99413897]]"
-chairperson: "[[_Standards/WikiData/WD~Thérèse_Blanchet,115639092]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Health_Data_Space,124300121]]"
-applies_to_jurisdiction: "[[_Standards/WikiData/WD~European_Union,458]]"
-parent_organization: "[[_Standards/WikiData/WD~European_Union,458]]"
+  - '[[_Standards/WikiData/WD~upper_house,637846]]'
+  - '[[_Standards/WikiData/WD~institution_of_the_European_Union,748720]]'
+  - '[[_Standards/WikiData/WD~legislature,11204]]'
+  - '[[_Standards/WikiData/WD~executive_branch,35798]]'
+member_of: '[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Europa_building,1375164]]'
+locations: '[[_Standards/WikiData/WD~Europa_building,1375164]]'
+owner_of: '[[_Standards/WikiData/WD~Lex_building,1822210]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Council_of_the_European_Union,7658183]]'
+replaces: '[[_Standards/WikiData/WD~Special_Council_of_Ministers,23021661]]'
+described_by_source: '[[_Standards/WikiData/WD~Medvik,99413897]]'
+chairperson: '[[_Standards/WikiData/WD~Thérèse_Blanchet,115639092]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Health_Data_Space,124300121]]'
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~European_Union,458]]'
+parent_organization: '[[_Standards/WikiData/WD~European_Union,458]]'
 language_used:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
 different_from:
-  - "[[_Standards/WikiData/WD~European_Council,8886]]"
-  - "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
-country: "[[_Standards/WikiData/WD~Belgium,31]]"
+  - '[[_Standards/WikiData/WD~European_Council,8886]]'
+  - '[[_Standards/WikiData/WD~Council_of_Europe,8908]]'
+country: '[[_Standards/WikiData/WD~Belgium,31]]'
 number_of_seats: 27
 social_media_followers:
   - 20100
@@ -82,7 +83,7 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Structure%20-%20Co
 official_website: https://www.consilium.europa.eu/
 press_information_URL: https://www.consilium.europa.eu/en/press/press-contacts/
 phone_number: +32-2-281-61-11
-ISNI: "0000000121611802"
+ISNI: 0000000121611802
 EU_Corporate_body_code: CONSIL
 domain_name: consilium.europa.eu
 Bluesky_handle:

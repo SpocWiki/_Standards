@@ -1,8 +1,9 @@
 ---
 aliases:
-- Moore~Gordon
-- "Gordon Moore"
-title: "Gordon Moore"
+  - Moore~Gordon
+  - Gordon Moore
+  - Moore,Gordon
+title: Gordon Moore
 ---
 
 #has_/time_/started :: 1929-01-03 

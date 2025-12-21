@@ -1,7 +1,8 @@
 ---
 aliases:
-- "US President"
-- POTUS
+  - US President
+  - POTUS
+  - US~President
 has_id_wikidata: Q11696
 ---
 

@@ -1,32 +1,34 @@
 ---
-excludes: 
+aliases:
+  - FileClass~BoatTrip
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Trip
 fields:
-- id: 2VelHo
-  name: ArrivalBoatTerminal
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place/CivicStructure/BoatTerminal')"
-  type: MultiFile
-  path: ''
-- id: 16MCwa
-  name: DepartureBoatTerminal
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place/CivicStructure/BoatTerminal')"
-  type: MultiFile
-  path: ''
+  - id: 2VelHo
+    name: ArrivalBoatTerminal
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/BoatTerminal')
+    type: MultiFile
+    path: ''
+  - id: 16MCwa
+    name: DepartureBoatTerminal
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/BoatTerminal')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/BoatTrip
-- class/Thing/Intangible/Trip/BoatTrip
-- is_a_/BoatTrip
-- schema-org/BoatTrip
+  - class/BoatTrip
+  - class/Thing/Intangible/Trip/BoatTrip
+  - is_a_/BoatTrip
+  - schema-org/BoatTrip
 tags:
-- class/FileClass
-- class/BoatTrip
-- is_a_/BoatTrip
-- class/Thing/Intangible/Trip/BoatTrip
+  - class/FileClass
+  - class/BoatTrip
+  - is_a_/BoatTrip
+  - class/Thing/Intangible/Trip/BoatTrip
 version: 2.0
 ---
 

@@ -4,20 +4,22 @@ aliases:
   - sports_organization
   - SportsOrganization
   - is_a_sports_organization
+  - Sports_Organization
+  - Sports Organization
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sports_organization
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_sports_organization Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

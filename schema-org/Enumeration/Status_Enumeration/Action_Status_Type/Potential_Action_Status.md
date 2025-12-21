@@ -4,21 +4,23 @@ aliases:
   - potential_action_status
   - PotentialActionStatus
   - is_a_potential_action_status
+  - Potential_Action_Status
+  - Potential Action Status
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: ActionStatusType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - potential_action_status
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_potential_action_status Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

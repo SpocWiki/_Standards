@@ -1,60 +1,62 @@
 ---
 aliases:
-- comic-issue
-- comic_issue
-- ComicIssue
-- is_a_comic_issue
+  - comic-issue
+  - comic_issue
+  - ComicIssue
+  - is_a_comic_issue
+  - Comic_Issue
+  - Comic Issue
+has_id_wikidata: Q1004
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- comic_issue
-layout: 
+  - comic_issue
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_comic_issue Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - schema-org/Class
 title: is_a_comic_issue Class
 type: Type
-has_id_wikidata: Q1004
 instance_of:
-  - "[[_Standards/WikiData/WD~literary_genre,223393]]"
-  - "[[_Standards/WikiData/WD~literary_form,4263830]]"
-  - "[[_Standards/WikiData/WD~type_of_arts,56055944]]"
+  - '[[_Standards/WikiData/WD~literary_genre,223393]]'
+  - '[[_Standards/WikiData/WD~literary_form,4263830]]'
+  - '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~comics_artist,715301]]"
-  - "[[_Standards/WikiData/WD~comics_writer,11892507]]"
-  - "[[_Standards/WikiData/WD~penciller,17098559]]"
-  - "[[_Standards/WikiData/WD~comics_creator,109517242]]"
-  - "[[_Standards/WikiData/WD~comics_editor,130481652]]"
+  - '[[_Standards/WikiData/WD~comics_artist,715301]]'
+  - '[[_Standards/WikiData/WD~comics_writer,11892507]]'
+  - '[[_Standards/WikiData/WD~penciller,17098559]]'
+  - '[[_Standards/WikiData/WD~comics_creator,109517242]]'
+  - '[[_Standards/WikiData/WD~comics_editor,130481652]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~narrative,1318295]]"
-  - "[[_Standards/WikiData/WD~visual_artwork,4502142]]"
-  - "[[_Standards/WikiData/WD~sequential_art,7452501]]"
-  - "[[_Standards/WikiData/WD~literary_work,7725634]]"
-  - "[[_Standards/WikiData/WD~illustrated_work,111885808]]"
+  - '[[_Standards/WikiData/WD~narrative,1318295]]'
+  - '[[_Standards/WikiData/WD~visual_artwork,4502142]]'
+  - '[[_Standards/WikiData/WD~sequential_art,7452501]]'
+  - '[[_Standards/WikiData/WD~literary_work,7725634]]'
+  - '[[_Standards/WikiData/WD~illustrated_work,111885808]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_comic_book_title,6623200]]"
-  - "[[_Standards/WikiData/WD~Template_Comics_sidebar,7644801]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox_animanga_Print,13406738]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Comics,11188275]]"
+  - '[[_Standards/WikiData/WD~Template_Infobox_comic_book_title,6623200]]'
+  - '[[_Standards/WikiData/WD~Template_Comics_sidebar,7644801]]'
+  - '[[_Standards/WikiData/WD~Template_Infobox_animanga_Print,13406738]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Comics,11188275]]'
 properties_for_this_type:
   - Comic Vine ID
   - NicoNicoPedia ID
   - Kitsu manga ID
-Nomenclature_for_Museum_Cataloging: "13412"
-OmegaWiki_Defined_Meaning: "438803"
+Nomenclature_for_Museum_Cataloging: 13412
+OmegaWiki_Defined_Meaning: 438803
 Commons_category: Comics
 U_S_National_Archives_Identifier:
-  - "10634623"
-  - "10636915"
+  - 10634623
+  - 10636915
 equivalent_class:
   - http://comicmeta.org/cbo/Comic
   - https://schema.org/ComicStory
@@ -62,7 +64,7 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Gunston%20Street
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Krazy%20Kat%201918-09-07.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteuse%20JEP%20%28Madehub%29-bande%20dessin%C3%A9e.wav
 exact_match: https://schema.org/ComicStory
-P8189: "987012439376505171"
+P8189: 987012439376505171
 subreddit: comics
 PhilPapers_topic: comics
 ---

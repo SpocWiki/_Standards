@@ -1,6 +1,7 @@
 ---
 aliases:
   - Gemeinschaftskunde
+  - Civics
 has_id_wikidata: Q837313
 ---
 # [[Civics]] 

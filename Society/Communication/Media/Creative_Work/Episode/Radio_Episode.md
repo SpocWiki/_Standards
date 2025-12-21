@@ -4,20 +4,22 @@ aliases:
   - radio_episode
   - RadioEpisode
   - is_a_radio_episode
+  - Radio_Episode
+  - Radio Episode
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - radio_episode
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_radio_episode Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

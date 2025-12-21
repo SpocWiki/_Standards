@@ -1,28 +1,29 @@
 ---
 aliases:
   - Kepheus
+  - Zodiac~Cepheus
+has_id_wikidata: Q10468
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-has_id_wikidata: Q10468
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]"
-  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
-named_after: "[[_Standards/WikiData/WD~Cepheus,_King_of_Aethiopia,858116]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Stars_of_Cepheus,10729010]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]'
+  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+named_after: '[[_Standards/WikiData/WD~Cepheus,_King_of_Aethiopia,858116]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Stars_of_Cepheus,10729010]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Draco,8675]]"
-  - "[[_Standards/WikiData/WD~Camelopardalis,8832]]"
-  - "[[_Standards/WikiData/WD~Cygnus,8921]]"
-  - "[[_Standards/WikiData/WD~Lacerta,10430]]"
-  - "[[_Standards/WikiData/WD~Cassiopeia,10464]]"
-  - "[[_Standards/WikiData/WD~Ursa_Minor,10478]]"
-instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+  - '[[_Standards/WikiData/WD~Draco,8675]]'
+  - '[[_Standards/WikiData/WD~Camelopardalis,8832]]'
+  - '[[_Standards/WikiData/WD~Cygnus,8921]]'
+  - '[[_Standards/WikiData/WD~Lacerta,10430]]'
+  - '[[_Standards/WikiData/WD~Cassiopeia,10464]]'
+  - '[[_Standards/WikiData/WD~Ursa_Minor,10478]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
 area: 589
 Commons_gallery: Cepheus
 official_name: Cepheus

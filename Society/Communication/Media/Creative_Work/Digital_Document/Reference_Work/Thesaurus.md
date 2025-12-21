@@ -1,17 +1,18 @@
 ---
 aliases:
   - synonym dictionary or dictionary of synonyms
+  - Thesaurus
 has_id_wikidata: Q179797
 model_item: "[[_Standards/WikiData/WD~Roget's_Thesaurus,1636316]]"
 named_after: "[[_Standards/WikiData/WD~Roget's_Thesaurus,1636316]]"
-instance_of: "[[_Standards/WikiData/WD~field_of_study,2267705]]"
+instance_of: '[[_Standards/WikiData/WD~field_of_study,2267705]]'
 different_from:
-  - "[[_Standards/WikiData/WD~synonym_dictionary,2376111]]"
-  - "[[_Standards/WikiData/WD~Thesaurus,9087300]]"
-  - "[[_Standards/WikiData/WD~thesaurus,17152639]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~synonym_dictionary,2376111]]"
-subclass_of: "[[_Standards/WikiData/WD~dictionary,23622]]"
-Nomenclature_for_Museum_Cataloging: "13619"
+  - '[[_Standards/WikiData/WD~synonym_dictionary,2376111]]'
+  - '[[_Standards/WikiData/WD~Thesaurus,9087300]]'
+  - '[[_Standards/WikiData/WD~thesaurus,17152639]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~synonym_dictionary,2376111]]'
+subclass_of: '[[_Standards/WikiData/WD~dictionary,23622]]'
+Nomenclature_for_Museum_Cataloging: 13619
 Commons_category: Thesauri
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thesaurus.jpg
 native_label: linguistic thesaurus

@@ -2,6 +2,7 @@
 aliases:
   - aquiculture
   - aquafarming
+  - Aquaculture
 ---
 
 # [[Aquaculture]] 

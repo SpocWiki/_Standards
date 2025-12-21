@@ -5,20 +5,22 @@ aliases:
   - AdministrativeArea
   - administrative division
   - is_an_administrative_area
+  - Administrative_Area
+  - Administrative Area
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - administrative_area
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_administrative_area Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

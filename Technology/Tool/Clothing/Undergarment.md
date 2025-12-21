@@ -3,12 +3,13 @@ aliases:
   - Unterwäsche
   - Underwear
   - underclothing
+  - Undergarment
 has_id_wikidata: Q198763
-opposite_of: "[[_Standards/WikiData/WD~outerwear,4388799]]"
-different_from: "[[_Standards/WikiData/WD~Bielizna,9171294]]"
-Nomenclature_for_Museum_Cataloging: "2626"
+opposite_of: '[[_Standards/WikiData/WD~outerwear,4388799]]'
+different_from: '[[_Standards/WikiData/WD~Bielizna,9171294]]'
+Nomenclature_for_Museum_Cataloging: 2626
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Undergarments.png
-OmegaWiki_Defined_Meaning: "504735"
+OmegaWiki_Defined_Meaning: 504735
 IMDb_keyword:
   - underwear
   - woman-wears-panties
@@ -17,7 +18,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Unter
 video: http://commons.wikimedia.org/wiki/Special:FilePath/PrimaDonna%20twist%20-%20Efforia%20Artikelvideo%202.webm
 Iconclass_notation: 41D251
 OpenStreetMap_tag: clothes=underwear
-Dewey_Decimal_Classification: "391.42"
+Dewey_Decimal_Classification: 391.42
 ---
 
 # [[Undergarment]] 

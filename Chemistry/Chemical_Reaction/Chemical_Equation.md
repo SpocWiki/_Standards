@@ -4,15 +4,17 @@ aliases:
   - chemical equations
   - chemische Gleichung
   - chemische Gleichungen
+  - Chemical_Equation
+  - Chemical Equation
 has_id_wikidata: Q182527
-has_part_s_: "[[_Standards/WikiData/WD~chemical_formula,83147]]"
-described_by_source: "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+has_part_s_: '[[_Standards/WikiData/WD~chemical_formula,83147]]'
+described_by_source: '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~formula,976981]]"
-  - "[[_Standards/WikiData/WD~equation,11345]]"
-different_from: "[[_Standards/WikiData/WD~equation,11345]]"
-depicts: "[[_Standards/WikiData/WD~chemical_reaction,36534]]"
-P8189: "987007284923405171"
+  - '[[_Standards/WikiData/WD~formula,976981]]'
+  - '[[_Standards/WikiData/WD~equation,11345]]'
+different_from: '[[_Standards/WikiData/WD~equation,11345]]'
+depicts: '[[_Standards/WikiData/WD~chemical_reaction,36534]]'
+P8189: 987007284923405171
 Krugosvet_article: nauka_i_tehnika/himiya/HIMICHESKOE_URAVNENIE.html
 ---
 

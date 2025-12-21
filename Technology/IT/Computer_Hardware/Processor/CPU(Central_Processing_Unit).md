@@ -4,22 +4,24 @@ aliases:
   - processor
   - main processor
   - central processor
+  - CPU(Central_Processing_Unit)
+  - CPU(Central Processing Unit)
 has_id_wikidata: Q5300
 has_part_s_:
-  - "[[_Standards/WikiData/WD~CPU_cache,352090]]"
-  - "[[_Standards/WikiData/WD~processor_design,1303814]]"
-connects_with: "[[_Standards/WikiData/WD~CPU_socket,727009]]"
+  - '[[_Standards/WikiData/WD~CPU_cache,352090]]'
+  - '[[_Standards/WikiData/WD~processor_design,1303814]]'
+connects_with: '[[_Standards/WikiData/WD~CPU_socket,727009]]'
 different_from:
-  - "[[_Standards/WikiData/WD~processor,1466064]]"
-  - "[[_Standards/WikiData/WD~data_processing_unit,5227334]]"
-  - "[[_Standards/WikiData/WD~computer,68]]"
+  - '[[_Standards/WikiData/WD~processor,1466064]]'
+  - '[[_Standards/WikiData/WD~data_processing_unit,5227334]]'
+  - '[[_Standards/WikiData/WD~computer,68]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~processor,1466064]]"
-  - "[[_Standards/WikiData/WD~computer_hardware,3966]]"
+  - '[[_Standards/WikiData/WD~processor,1466064]]'
+  - '[[_Standards/WikiData/WD~computer_hardware,3966]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_CPU,6978288]]"
-  - "[[_Standards/WikiData/WD~Template_Processor_technologies,8084425]]"
-instance_of: "[[_Standards/WikiData/WD~processor_type,124996351]]"
+  - '[[_Standards/WikiData/WD~Template_Infobox_CPU,6978288]]'
+  - '[[_Standards/WikiData/WD~Template_Processor_technologies,8084425]]'
+instance_of: '[[_Standards/WikiData/WD~processor_type,124996351]]'
 Wikidata_property: CPU
 properties_for_this_type:
   - socket supported
@@ -31,7 +33,7 @@ properties_for_this_type:
   - microarchitecture
   - CPUID
   - number of processor threads
-part_of: "[[_Standards/WikiData/WD~computer,68]]"
+part_of: '[[_Standards/WikiData/WD~computer,68]]'
 short_name:
   - ЦП
   - CPU

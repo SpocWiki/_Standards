@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Antineutron
 has_id_wikidata: Q156530
 ---
 

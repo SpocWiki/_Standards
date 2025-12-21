@@ -3,13 +3,14 @@ aliases:
   - Laozi
   - Lao Tzu
   - Laotse
+has_id_wikidata: Q9333
 Baidu_Tieba_name: 老子
 BHCL_UUID: 2ecc04f1-c652-47bf-a310-ea4d5b98827a
-child: "[[_Standards/WikiData/WD~Li_Zong,22813524]]"
+child: '[[_Standards/WikiData/WD~Li_Zong,22813524]]'
 Commons_category: Laozi
 Commons_Creator_page: Laozi
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Zhou_dynasty,35216]]"
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Zhou_dynasty,35216]]'
 courtesy_name:
   - 伯陽
   - 伯阳
@@ -17,61 +18,60 @@ CYT_CCS: AC000211980
 date_of_birth: -579
 date_of_death: -499
 described_by_source:
-  - "[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]"
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]'
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-different_from: "[[_Standards/WikiData/WD~Lao_Laizi,1799327]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+different_from: '[[_Standards/WikiData/WD~Lao_Laizi,1799327]]'
 Europeana_entity: agent/base/145401
-family_name: "[[_Standards/WikiData/WD~Li,686223]]"
-father: "[[_Standards/WikiData/WD~kim_jong-un,6781701]]"
+family_name: '[[_Standards/WikiData/WD~Li,686223]]'
+father: '[[_Standards/WikiData/WD~kim_jong-un,6781701]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~Chinese_philosophy,184663]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-given_name: "[[_Standards/WikiData/WD~Er,96181790]]"
-has_id_wikidata: Q9333
+  - '[[_Standards/WikiData/WD~Chinese_philosophy,184663]]'
+  - '[[_Standards/WikiData/WD~philosophy,5891]]'
+given_name: '[[_Standards/WikiData/WD~Er,96181790]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Zhang%20Lu-Laozi%20Riding%20an%20Ox%20%28cropped%29.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~human_whose_existence_is_disputed,21070568]]"
-  - "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~human_whose_existence_is_disputed,21070568]]'
+  - '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 447219093
 Krugosvet_article: filosofiya/lao-czy
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Chinese,7850]]"
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Chinese,7850]]'
 Library_of_Congress_Classification: BL1930
 Libris_URI: tr577r0c21jz6qp
 movement:
-  - "[[_Standards/WikiData/WD~Eastern_philosophy,307043]]"
-  - "[[_Standards/WikiData/WD~Hundred_Schools_of_Thought,864947]]"
-  - "[[_Standards/WikiData/WD~Taoism,9598]]"
+  - '[[_Standards/WikiData/WD~Eastern_philosophy,307043]]'
+  - '[[_Standards/WikiData/WD~Hundred_Schools_of_Thought,864947]]'
+  - '[[_Standards/WikiData/WD~Taoism,9598]]'
 name_in_kana: ろうし
 name_in_native_language: tilin
 NLC_authorities: 205575
-notable_work: "[[_Standards/WikiData/WD~Tao_Te_Ching,134425]]"
+notable_work: '[[_Standards/WikiData/WD~Tao_Te_Ching,134425]]'
 occupation:
-  - "[[_Standards/WikiData/WD~archivist,635734]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~Taoist,116865146]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q116819358,116819358]]"
+  - '[[_Standards/WikiData/WD~archivist,635734]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~Taoist,116865146]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116819358,116819358]]'
 PhilPapers_topic: laozi
-place_of_birth: "[[_Standards/WikiData/WD~Chu,504759]]"
+place_of_birth: '[[_Standards/WikiData/WD~Chu,504759]]'
 place_of_death: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 posthumous_name: 玄元皇帝
 pseudonym:
   - Dan Li
   - Tan Li
   - Er Li
-religion_or_worldview: "[[_Standards/WikiData/WD~Taoism,9598]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Taoism,9598]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Daode_Tianzun,1154683]]"
-  - "[[_Standards/WikiData/WD~Danzi,109345356]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Daode_Tianzun,1154683]]'
+  - '[[_Standards/WikiData/WD~Danzi,109345356]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 temple_name: 聖祖
 ---
 

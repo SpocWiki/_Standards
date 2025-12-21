@@ -4,21 +4,23 @@ aliases:
   - pregnancy_health_aspect
   - PregnancyHealthAspect
   - is_a_pregnancy_health_aspect
+  - Pregnancy_Health_Aspect
+  - Pregnancy Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - pregnancy_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_pregnancy_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

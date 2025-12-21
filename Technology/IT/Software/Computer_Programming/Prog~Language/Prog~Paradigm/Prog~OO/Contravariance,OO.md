@@ -1,6 +1,7 @@
 ---
 aliases:
-- contra-variant
+  - contra-variant
+  - Contravariance,OO
 ---
 
 #is_/part_of :: [[Variance,OO]] 

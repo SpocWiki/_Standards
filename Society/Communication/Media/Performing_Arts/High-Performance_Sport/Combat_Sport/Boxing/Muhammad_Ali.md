@@ -4,79 +4,80 @@ aliases:
   - Cassius Clay
   - Muhammad Ali
   - Clay
+  - Muhammad_Ali
 has_id_wikidata: Q36107
 medical_condition:
-  - "[[_Standards/WikiData/WD~dyslexia,132971]]"
+  - '[[_Standards/WikiData/WD~dyslexia,132971]]'
   - "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
-trained_by: "[[_Standards/WikiData/WD~Angelo_Dundee,176288]]"
-record_label: "[[_Standards/WikiData/WD~Columbia_Records,183387]]"
+trained_by: '[[_Standards/WikiData/WD~Angelo_Dundee,176288]]'
+record_label: '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Nation_of_Islam,220222]]"
-  - "[[_Standards/WikiData/WD~Sunni_Islam,483654]]"
+  - '[[_Standards/WikiData/WD~Nation_of_Islam,220222]]'
+  - '[[_Standards/WikiData/WD~Sunni_Islam,483654]]'
 child:
-  - "[[_Standards/WikiData/WD~Laila_Ali,255099]]"
-  - "[[_Standards/WikiData/WD~Hana_Ali,15727320]]"
-  - "[[_Standards/WikiData/WD~Maryum_Ali,24293017]]"
-  - "[[_Standards/WikiData/WD~Muhammad_Ali_Jr.,24293161]]"
-  - "[[_Standards/WikiData/WD~Rasheda_Ali,124377161]]"
-competition_class: "[[_Standards/WikiData/WD~heavyweight,281678]]"
+  - '[[_Standards/WikiData/WD~Laila_Ali,255099]]'
+  - '[[_Standards/WikiData/WD~Hana_Ali,15727320]]'
+  - '[[_Standards/WikiData/WD~Maryum_Ali,24293017]]'
+  - '[[_Standards/WikiData/WD~Muhammad_Ali_Jr.,24293161]]'
+  - '[[_Standards/WikiData/WD~Rasheda_Ali,124377161]]'
+competition_class: '[[_Standards/WikiData/WD~heavyweight,281678]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Otto_Hahn_Peace_Medal,314209]]"
-  - "[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]"
-  - "[[_Standards/WikiData/WD~Presidential_Citizens_Medal,1582967]]"
-  - "[[_Standards/WikiData/WD~Library_of_Congress_Living_Legend,6542686]]"
-  - "[[_Standards/WikiData/WD~Philadelphia_Liberty_Medal,7182737]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
-family_name: "[[_Standards/WikiData/WD~Ali,648010]]"
-different_from: "[[_Standards/WikiData/WD~Cassius_M._Clay,706363]]"
+  - '[[_Standards/WikiData/WD~Otto_Hahn_Peace_Medal,314209]]'
+  - '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
+  - '[[_Standards/WikiData/WD~Presidential_Citizens_Medal,1582967]]'
+  - '[[_Standards/WikiData/WD~Library_of_Congress_Living_Legend,6542686]]'
+  - '[[_Standards/WikiData/WD~Philadelphia_Liberty_Medal,7182737]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+family_name: '[[_Standards/WikiData/WD~Ali,648010]]'
+different_from: '[[_Standards/WikiData/WD~Cassius_M._Clay,706363]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Santa_Monica_College,1033692]]"
-  - "[[_Standards/WikiData/WD~Central_High_School,5061190]]"
+  - '[[_Standards/WikiData/WD~Santa_Monica_College,1033692]]'
+  - '[[_Standards/WikiData/WD~Central_High_School,5061190]]'
 student_of:
-  - "[[_Standards/WikiData/WD~Jhoon_Rhee,1046410]]"
-  - "[[_Standards/WikiData/WD~George_Dillman,5538541]]"
-nominated_for: "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Comedy_Album,1326340]]"
+  - '[[_Standards/WikiData/WD~Jhoon_Rhee,1046410]]'
+  - '[[_Standards/WikiData/WD~George_Dillman,5538541]]'
+nominated_for: '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Comedy_Album,1326340]]'
 residence:
-  - "[[_Standards/WikiData/WD~Cherry_Hill,2710598]]"
-  - "[[_Standards/WikiData/WD~Scottsdale,49221]]"
-cause_of_death: "[[_Standards/WikiData/WD~respiratory_disease,3286546]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-father: "[[_Standards/WikiData/WD~Cassius_Marcellus_Clay_Sr.,5049496]]"
+  - '[[_Standards/WikiData/WD~Cherry_Hill,2710598]]'
+  - '[[_Standards/WikiData/WD~Scottsdale,49221]]'
+cause_of_death: '[[_Standards/WikiData/WD~respiratory_disease,3286546]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+father: '[[_Standards/WikiData/WD~Cassius_Marcellus_Clay_Sr.,5049496]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~Clay_v._United_States,5130061]]"
-  - "[[_Standards/WikiData/WD~lighting_the_Olympic_cauldron,26221084]]"
-footedness: "[[_Standards/WikiData/WD~orthodox_stance,5260471]]"
-given_name: "[[_Standards/WikiData/WD~Muhammad,5837762]]"
-mother: "[[_Standards/WikiData/WD~Odessa_Grady_Clay,6282262]]"
-sibling: "[[_Standards/WikiData/WD~Rahman_Ali,6284282]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Clay_v._United_States,5130061]]'
+  - '[[_Standards/WikiData/WD~lighting_the_Olympic_cauldron,26221084]]'
+footedness: '[[_Standards/WikiData/WD~orthodox_stance,5260471]]'
+given_name: '[[_Standards/WikiData/WD~Muhammad,5837762]]'
+mother: '[[_Standards/WikiData/WD~Odessa_Grady_Clay,6282262]]'
+sibling: '[[_Standards/WikiData/WD~Rahman_Ali,6284282]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Veronica_Porché_Ali,7922443]]"
-  - "[[_Standards/WikiData/WD~Khalilah_Ali,19864411]]"
-  - "[[_Standards/WikiData/WD~Sonji_Roi,22941605]]"
-  - "[[_Standards/WikiData/WD~Yolanda_Williams,22941637]]"
-occupation: "[[_Standards/WikiData/WD~boxer,11338576]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Muhammad_Ali,14440265]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
+  - '[[_Standards/WikiData/WD~Veronica_Porché_Ali,7922443]]'
+  - '[[_Standards/WikiData/WD~Khalilah_Ali,19864411]]'
+  - '[[_Standards/WikiData/WD~Sonji_Roi,22941605]]'
+  - '[[_Standards/WikiData/WD~Yolanda_Williams,22941637]]'
+occupation: '[[_Standards/WikiData/WD~boxer,11338576]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Muhammad_Ali,14440265]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-place_of_burial: "[[_Standards/WikiData/WD~Grave_of_Muhammad_Ali,135441458]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-writing_language: "[[_Standards/WikiData/WD~American_English,7976]]"
-native_language: "[[_Standards/WikiData/WD~American_English,7976]]"
-sports_discipline_competed_in: "[[_Standards/WikiData/WD~boxing,32112]]"
-sport: "[[_Standards/WikiData/WD~boxing,32112]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_for_sport: "[[_Standards/WikiData/WD~United_States,30]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+place_of_burial: '[[_Standards/WikiData/WD~Grave_of_Muhammad_Ali,135441458]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+writing_language: '[[_Standards/WikiData/WD~American_English,7976]]'
+native_language: '[[_Standards/WikiData/WD~American_English,7976]]'
+sports_discipline_competed_in: '[[_Standards/WikiData/WD~boxing,32112]]'
+sport: '[[_Standards/WikiData/WD~boxing,32112]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_for_sport: '[[_Standards/WikiData/WD~United_States,30]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 9
 height: 191
-place_of_birth: "[[_Standards/WikiData/WD~Louisville,43668]]"
-lifestyle: "[[_Standards/WikiData/WD~mysticism,45996]]"
-ethnic_group: "[[_Standards/WikiData/WD~African_Americans,49085]]"
-place_of_death: "[[_Standards/WikiData/WD~Scottsdale,49221]]"
+place_of_birth: '[[_Standards/WikiData/WD~Louisville,43668]]'
+lifestyle: '[[_Standards/WikiData/WD~mysticism,45996]]'
+ethnic_group: '[[_Standards/WikiData/WD~African_Americans,49085]]'
+place_of_death: '[[_Standards/WikiData/WD~Scottsdale,49221]]'
 Commons_category: Muhammad Ali
 Libris_URI: jgvxxkn221gns3b
 X_Twitter_username: MuhammadAli
@@ -97,9 +98,9 @@ birth_name: Cassius Marcellus Clay, Jr.
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Close-up%20of%20Muhammad%20Ali%27s%20headstone.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Muhammad%20Ali%2C%20gtfy.00140.jpg
 official_website: http://www.ali.com/
-ISNI: "0000000120239631"
-Munzinger_Sport_number: "01000000182"
-U_S_National_Archives_Identifier: "10581509"
+ISNI: 0000000120239631
+Munzinger_Sport_number: 01000000182
+U_S_National_Archives_Identifier: 10581509
 BHCL_UUID: 17125d8c-85c2-47ce-a2a3-26b12a43228a
 Plex_person_key: 5d776833e6d55c002040cb0b
 ---

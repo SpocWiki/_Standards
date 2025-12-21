@@ -1,23 +1,25 @@
 ---
 aliases:
   - numeral
+  - Numerical_Digit
+  - Numerical Digit
 has_id_wikidata: Q82990
 different_from:
-  - "[[_Standards/WikiData/WD~digit,278767]]"
-  - "[[_Standards/WikiData/WD~Q120920328,120920328]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~digit_(step,_graduation_or_precision_for_measurement),1224671]]"
+  - '[[_Standards/WikiData/WD~digit,278767]]'
+  - '[[_Standards/WikiData/WD~Q120920328,120920328]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~digit_(step,_graduation_or_precision_for_measurement),1224671]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~symbol,2372244]]"
-  - "[[_Standards/WikiData/WD~character,3241972]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-instance_of: "[[_Standards/WikiData/WD~counting_unit,78754808]]"
-has_use: "[[_Standards/WikiData/WD~notated_number,123458424]]"
+  - '[[_Standards/WikiData/WD~symbol,2372244]]'
+  - '[[_Standards/WikiData/WD~character,3241972]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~counting_unit,78754808]]'
+has_use: '[[_Standards/WikiData/WD~notated_number,123458424]]'
 UN_CEFACT_Common_Code: B19
 Commons_category: Numerals
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Typo%20chiffres%20bas%20de%20casse%20et%20capitale.png

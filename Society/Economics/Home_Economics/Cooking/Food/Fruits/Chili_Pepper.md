@@ -2,6 +2,8 @@
 aliases:
   - chilli pepper
   - Chili pepper
+  - Chili_Pepper
+  - Chili Pepper
 has_id_wikidata: Q165199
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~peperoncino,181572]]"
 natural_product_of_taxon:
@@ -20,8 +22,8 @@ topic_has_template: "[[_Standards/WikiData/WD~Template_Chili_peppers,100890114]]
 water_footprint:
   - 379
   - 7365
-PLU_code: "4686"
-OmegaWiki_Defined_Meaning: "392603"
+PLU_code: 4686
+OmegaWiki_Defined_Meaning: 392603
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Piment%C3%B3n%20Tap%20de%20Cort%C3%AD.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Madame%20Jeanette%20and%20other%20chillies.jpg
@@ -33,13 +35,13 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sv-chilipeppar.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Wo-kaani.ogg
 Amazon_com_browse_node:
-  - "16319701"
-  - "6507133011"
+  - 16319701
+  - 6507133011
 Commons_category: Chili peppers
 Wolfram_Language_entity_code: Entity["FoodType", "ChiliPepper"]
 ---
 
-# [[Chili_Pepper]] 
+# [[Chili_Pepper]] 🌶 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Chili_pepper,165199|WD~Chili_pepper,165199]] 
 

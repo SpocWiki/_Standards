@@ -1,16 +1,17 @@
 ---
 aliases:
   - Fracht
+  - Cargo
 has_id_wikidata: Q319224
-used_by: "[[_Standards/WikiData/WD~freight_transport,651658]]"
+used_by: '[[_Standards/WikiData/WD~freight_transport,651658]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-subclass_of: "[[_Standards/WikiData/WD~transportable_goods,2449671]]"
-different_from: "[[_Standards/WikiData/WD~payload,7641034]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+subclass_of: '[[_Standards/WikiData/WD~transportable_goods,2449671]]'
+different_from: '[[_Standards/WikiData/WD~payload,7641034]]'
 Wikidata_property: carries passengers or cargo
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tankcontainer%20Verladung.jpg
-P8189: "987007550649105171"
+P8189: 987007550649105171
 Commons_category: Freight
 OpenStreetMap_tag_or_key: Key:cargo
 ---

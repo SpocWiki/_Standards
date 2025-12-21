@@ -1,38 +1,41 @@
 ---
+aliases:
+  - Atomic_nucleus
+  - Atomic nucleus
 has_id_wikidata: Q37147
 studied_by:
-  - "[[_Standards/WikiData/WD~nuclear_physics,81197]]"
-  - "[[_Standards/WikiData/WD~classical_electromagnetism,377930]]"
-  - "[[_Standards/WikiData/WD~particle_physics,18334]]"
-  - "[[_Standards/WikiData/WD~atomic_physics,26383]]"
-has_part_s_: "[[_Standards/WikiData/WD~nucleon,102165]]"
+  - '[[_Standards/WikiData/WD~nuclear_physics,81197]]'
+  - '[[_Standards/WikiData/WD~classical_electromagnetism,377930]]'
+  - '[[_Standards/WikiData/WD~particle_physics,18334]]'
+  - '[[_Standards/WikiData/WD~atomic_physics,26383]]'
+has_part_s_: '[[_Standards/WikiData/WD~nucleon,102165]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~baryon_number,110346]]"
-  - "[[_Standards/WikiData/WD~diameter,37221]]"
-opposite_of: "[[_Standards/WikiData/WD~electron_shell,193793]]"
+  - '[[_Standards/WikiData/WD~baryon_number,110346]]'
+  - '[[_Standards/WikiData/WD~diameter,37221]]'
+opposite_of: '[[_Standards/WikiData/WD~electron_shell,193793]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~charged_particle,587553]]"
-  - "[[_Standards/WikiData/WD~bound_state,908049]]"
-  - "[[_Standards/WikiData/WD~matter_composed_of_quarks,28729554]]"
+  - '[[_Standards/WikiData/WD~charged_particle,587553]]'
+  - '[[_Standards/WikiData/WD~bound_state,908049]]'
+  - '[[_Standards/WikiData/WD~matter_composed_of_quarks,28729554]]'
 interaction:
-  - "[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]"
-  - "[[_Standards/WikiData/WD~gravity,11412]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Q22840443,22840443]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-part_of: "[[_Standards/WikiData/WD~atom,9121]]"
+  - '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+  - '[[_Standards/WikiData/WD~gravity,11412]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q22840443,22840443]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+part_of: '[[_Standards/WikiData/WD~atom,9121]]'
 diameter:
   - 4
   - 15
-different_from: "[[_Standards/WikiData/WD~nucleus,40260]]"
-OmegaWiki_Defined_Meaning: "8044"
+different_from: '[[_Standards/WikiData/WD~nucleus,40260]]'
+OmegaWiki_Defined_Meaning: 8044
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Nucleus%20drawing.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Atom%20%28PSF%29.png
 IEV_number:
   - 113-05-21
   - 881-02-42
-Dewey_Decimal_Classification: "539.7232"
+Dewey_Decimal_Classification: 539.7232
 Commons_category: Atomic nucleus
 Krugosvet_article: nauka_i_tehnika/fizika/ATOMNOGO_YADRA_STROENIE.html
 ---

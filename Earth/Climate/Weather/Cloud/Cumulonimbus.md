@@ -1,15 +1,16 @@
 ---
 aliases:
   - Kumulonimbus
+  - Cumulonimbus
 has_id_wikidata: Q182311
-instance_of: "[[_Standards/WikiData/WD~cloud_type,1840368]]"
-subclass_of: "[[_Standards/WikiData/WD~vertical_multi_level_clouds,2278627]]"
-facet_of: "[[_Standards/WikiData/WD~international_cloud_classification,3281195]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~thunderhead,16667258]]"
+instance_of: '[[_Standards/WikiData/WD~cloud_type,1840368]]'
+subclass_of: '[[_Standards/WikiData/WD~vertical_multi_level_clouds,2278627]]'
+facet_of: '[[_Standards/WikiData/WD~international_cloud_classification,3281195]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~thunderhead,16667258]]'
 duration:
   - 30
   - 4
-OmegaWiki_Defined_Meaning: "919624"
+OmegaWiki_Defined_Meaning: 919624
 Commons_gallery: Cumulonimbus
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Clouds%20CL%209.svg
 image:

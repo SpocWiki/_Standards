@@ -1,19 +1,20 @@
 ---
 aliases:
   - Poesie
+  - Poetry
 has_id_wikidata: Q482
 Colon_Classification: O,1
 Commons_category: Poetry
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-different_from: "[[_Standards/WikiData/WD~poem,5185279]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+different_from: '[[_Standards/WikiData/WD~poem,5185279]]'
 exact_match: http://cv.iptc.org/newscodes/subjectcode/01010002
 hashtag:
   - poetry
@@ -21,34 +22,34 @@ hashtag:
 IAB_code: 49
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LeidenWallPoemYeats%20%28cropped%29.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~literary_form,4263830]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - '[[_Standards/WikiData/WD~literary_form,4263830]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 IPTC_NewsCode: mediatopic/20000017
 Krugosvet_article: kultura_i_obrazovanie/literatura/POEZIYA_I_PROZA.html
 MeSH_tree_code: K01.517.781
 model_item:
-  - "[[_Standards/WikiData/WD~tanka,258331]]"
-  - "[[_Standards/WikiData/WD~Lancelot,_the_Knight_of_the_Cart,520372]]"
-  - "[[_Standards/WikiData/WD~Olympic_Odes,18146776]]"
-  - "[[_Standards/WikiData/WD~Nemean_Odes,27214182]]"
-  - "[[_Standards/WikiData/WD~Picking_on_Peach_Blossom,44590028]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~poetic_art,12532433]]"
+  - '[[_Standards/WikiData/WD~tanka,258331]]'
+  - '[[_Standards/WikiData/WD~Lancelot,_the_Knight_of_the_Cart,520372]]'
+  - '[[_Standards/WikiData/WD~Olympic_Odes,18146776]]'
+  - '[[_Standards/WikiData/WD~Nemean_Odes,27214182]]'
+  - '[[_Standards/WikiData/WD~Picking_on_Peach_Blossom,44590028]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~poetic_art,12532433]]'
 PhilPapers_topic: poetry
 practiced_by:
-  - "[[_Standards/WikiData/WD~dichter,1293108]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+  - '[[_Standards/WikiData/WD~dichter,1293108]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
 Provenio_UUID: 22c3091c-a78b-4aa8-a8d0-ecd3b6915ffd
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q87902966,87902966]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q87902966,87902966]]'
 spoken_text_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LibriVox%20-%20The%20Raven%20-%20Chris%20Goringe.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Poetry.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Wa%20Surkol%20powinme.oga
-subclass_of: "[[_Standards/WikiData/WD~literary_work,7725634]]"
+subclass_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
 subreddit: Poetry
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Poetry_of_different_cultures_and_languages,14444553]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Poetry,11774659]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Poetry_of_different_cultures_and_languages,14444553]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Poetry,11774659]]'
 U_S_National_Archives_Identifier: 10629347
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_poetry,7112700]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_poetry,7112700]]'
 ---
 
 # [[Poetry]] 

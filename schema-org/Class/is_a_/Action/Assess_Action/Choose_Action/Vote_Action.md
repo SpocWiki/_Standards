@@ -4,20 +4,22 @@ aliases:
   - vote_action
   - VoteAction
   - is_a_vote_action
+  - Vote_Action
+  - Vote Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - vote_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_vote_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

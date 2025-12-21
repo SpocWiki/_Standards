@@ -1,12 +1,13 @@
 ---
 aliases:
   - Realismus
+  - Realism
 has_id_wikidata: Q10857409
 instance_of:
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~art_style,1792644]]"
-  - "[[_Standards/WikiData/WD~architectural_style,32880]]"
-described_by_source: "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[_Standards/WikiData/WD~art_movement,968159]]'
+  - '[[_Standards/WikiData/WD~art_style,1792644]]'
+  - '[[_Standards/WikiData/WD~architectural_style,32880]]'
+described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 Commons_category: Realism
 ---
 

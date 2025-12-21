@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Barcode
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Barcode
-- class/Thing/CreativeWork/MediaObject/ImageObject/Barcode
-- is_a_/Barcode
-- schema-org/Barcode
+  - class/Barcode
+  - class/Thing/CreativeWork/MediaObject/ImageObject/Barcode
+  - is_a_/Barcode
+  - schema-org/Barcode
 tags:
-- class/FileClass
-- class/Barcode
-- is_a_/Barcode
-- class/Thing/CreativeWork/MediaObject/ImageObject/Barcode
+  - class/FileClass
+  - class/Barcode
+  - is_a_/Barcode
+  - class/Thing/CreativeWork/MediaObject/ImageObject/Barcode
 version: 2.0
 ---
 

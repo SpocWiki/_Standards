@@ -1,5 +1,7 @@
 ---
-aliases: []
+aliases:
+  - Epoch~1~Early_Devonian
+  - Epoch~1~Early Devonian
 ischart: LowerDevonian
 ---
 

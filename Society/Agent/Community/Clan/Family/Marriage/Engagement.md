@@ -2,25 +2,26 @@
 aliases:
   - betrothal
   - Verlobung
+  - Engagement
 has_id_wikidata: Q157512
 follows:
-  - "[[_Standards/WikiData/WD~courtship,376596]]"
-  - "[[_Standards/WikiData/WD~marriage_proposal,1057944]]"
+  - '[[_Standards/WikiData/WD~courtship,376596]]'
+  - '[[_Standards/WikiData/WD~marriage_proposal,1057944]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~phase,1188986]]"
-  - "[[_Standards/WikiData/WD~promise,1425577]]"
-opposite_of: "[[_Standards/WikiData/WD~disengagement,12814152]]"
+  - '[[_Standards/WikiData/WD~phase,1188986]]'
+  - '[[_Standards/WikiData/WD~promise,1425577]]'
+opposite_of: '[[_Standards/WikiData/WD~disengagement,12814152]]'
 followed_by:
-  - "[[_Standards/WikiData/WD~disengagement,12814152]]"
-  - "[[_Standards/WikiData/WD~marriage,8445]]"
-  - "[[_Standards/WikiData/WD~wedding,49836]]"
-different_from: "[[_Standards/WikiData/WD~commitment,17285911]]"
-has_effect: "[[_Standards/WikiData/WD~fiancé,98688601]]"
-has_part_s_: "[[_Standards/WikiData/WD~engagement_in_Islam,127104057]]"
+  - '[[_Standards/WikiData/WD~disengagement,12814152]]'
+  - '[[_Standards/WikiData/WD~marriage,8445]]'
+  - '[[_Standards/WikiData/WD~wedding,49836]]'
+different_from: '[[_Standards/WikiData/WD~commitment,17285911]]'
+has_effect: '[[_Standards/WikiData/WD~fiancé,98688601]]'
+has_part_s_: '[[_Standards/WikiData/WD~engagement_in_Islam,127104057]]'
 Commons_category: Betrothal
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Love%20Zambia.jpg
 ---

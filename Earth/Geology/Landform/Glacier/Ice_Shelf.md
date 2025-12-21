@@ -1,17 +1,19 @@
 ---
 aliases:
   - ice shelf
+  - Ice_Shelf
+  - Ice Shelf
 has_id_wikidata: Q46966
 different_from:
-  - "[[_Standards/WikiData/WD~ice_floe,368930]]"
-  - "[[_Standards/WikiData/WD~ice_cap,878077]]"
-  - "[[_Standards/WikiData/WD~drift_ice,1378564]]"
-  - "[[_Standards/WikiData/WD~shelf_ice,7493595]]"
-  - "[[_Standards/WikiData/WD~ice_sheet,12599]]"
-  - "[[_Standards/WikiData/WD~iceberg,47568]]"
-described_by_source: "[[_Standards/WikiData/WD~Antarctica_The_Melting_Continent,127164207]]"
-subclass_of: "[[_Standards/WikiData/WD~glacier,35666]]"
-studied_by: "[[_Standards/WikiData/WD~glaciology,52120]]"
+  - '[[_Standards/WikiData/WD~ice_floe,368930]]'
+  - '[[_Standards/WikiData/WD~ice_cap,878077]]'
+  - '[[_Standards/WikiData/WD~drift_ice,1378564]]'
+  - '[[_Standards/WikiData/WD~shelf_ice,7493595]]'
+  - '[[_Standards/WikiData/WD~ice_sheet,12599]]'
+  - '[[_Standards/WikiData/WD~iceberg,47568]]'
+described_by_source: '[[_Standards/WikiData/WD~Antarctica_The_Melting_Continent,127164207]]'
+subclass_of: '[[_Standards/WikiData/WD~glacier,35666]]'
+studied_by: '[[_Standards/WikiData/WD~glaciology,52120]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/.00%201128%20Schelfeiskannte%20in%20der%20Antarktis.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Corp2401%20-%20Flickr%20-%20NOAA%20Photo%20Library.jpg

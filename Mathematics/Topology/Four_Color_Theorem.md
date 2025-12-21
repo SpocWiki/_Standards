@@ -2,6 +2,8 @@
 aliases:
   - four color theorem
   - four color map theorem
+  - Four_Color_Theorem
+  - Four Color Theorem
 has_id_wikidata: Q184410
 ---
 

@@ -1,16 +1,18 @@
 ---
 aliases:
-- "Electronic music"
+  - Electronic music
+  - Electronic_Music
+  - Electronic Music
+has_id_wikidata: Q9778
 Amazon_com_browse_node: 11974381
-Commons_category: "Electronic music"
+Commons_category: Electronic music
 described_by_source: '[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]'
 different_from: '[[_Standards/WikiData/WD~electronica,817138]]'
-equivalent_class: "http://service.ddex.net/dd/DD-AVS-001/dd/ddex_ElectronicMusic"
-exact_match: "http://service.ddex.net/dd/DD-AVS-001/dd/ddex_ElectronicMusic"
-has_id_wikidata: Q9778
+equivalent_class: http://service.ddex.net/dd/DD-AVS-001/dd/ddex_ElectronicMusic
+exact_match: http://service.ddex.net/dd/DD-AVS-001/dd/ddex_ElectronicMusic
 has_time_started: 1920-06
 IAB_code: 351
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/1st%20commercial%20Moog%20synthesizer%20%281964%2C%20commissioned%20by%20the%20Alwin%20Nikolai%20Dance%20Theater%20of%20NY%29%20%40%20Stearns%20Collection%20%28Stearns%202035%29%2C%20University%20of%20Michigan.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/1st%20commercial%20Moog%20synthesizer%20%281964%2C%20commissioned%20by%20the%20Alwin%20Nikolai%20Dance%20Theater%20of%20NY%29%20%40%20Stearns%20Collection%20%28Stearns%202035%29%2C%20University%20of%20Michigan.jpg
 inception: 1920-06
 instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
 practiced_by: '[[_Standards/WikiData/WD~electronic_musician,5358395]]'

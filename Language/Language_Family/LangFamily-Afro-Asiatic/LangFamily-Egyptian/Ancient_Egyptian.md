@@ -2,6 +2,7 @@
 aliases:
   - Egyptian language
   - Ancient Egyptian
+  - Ancient_Egyptian
 has_id_wikidata: Q50868
 linguistic_typology:
   - "[[_Standards/WikiData/WD~verb_subject_object,166097]]"
@@ -23,7 +24,7 @@ dissolved_abolished_or_demolished_date: 1700-01-01T00:00:00Z
 country:
   - "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
   - "[[_Standards/WikiData/WD~Egypt,79]]"
-OmegaWiki_Defined_Meaning: "561081"
+OmegaWiki_Defined_Meaning: 561081
 native_label:
   - 𓂋𓏤𓈖𓆎𓅓𓏏𓊖
   - r n km.t

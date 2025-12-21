@@ -5,22 +5,24 @@ aliases:
   - SatireOrParodyContent
   - is_a_satire_or_parody_content
   - Satire
+  - Satire_or_Parody_Content
+  - Satire or Parody Content
 has_id_wikidata: Q128758
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MediaManipulationRatingEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - satire_or_parody_content
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_satire_or_parody_content Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

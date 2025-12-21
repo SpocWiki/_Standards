@@ -4,22 +4,24 @@ aliases:
   - player_type
   - playerType
   - has_text_of_player_type
+  - has_player_type
+  - has player type
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - player
   - type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_player_type
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

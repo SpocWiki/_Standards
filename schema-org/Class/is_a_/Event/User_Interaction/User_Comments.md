@@ -4,20 +4,22 @@ aliases:
   - user_comments
   - UserComments
   - is_a_user_comments
+  - User_Comments
+  - User Comments
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - user_comments
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_user_comments Class
 publish: true
-publishDate:
+publishDate: ''
 superseded_by: InteractionCounter
 tags:
   - class/Class

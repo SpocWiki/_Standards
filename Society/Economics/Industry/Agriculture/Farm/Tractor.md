@@ -1,6 +1,7 @@
 ---
 aliases:
   - Traktor
+  - Tractor
 has_id_wikidata: Q39495
 used_by:
   - "[[_Standards/WikiData/WD~farmer,131512]]"
@@ -17,21 +18,21 @@ topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_tractor,14359426]
 described_by_source:
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-Nomenclature_for_Museum_Cataloging: "12200"
-U_S_National_Archives_Identifier: "10646580"
+Nomenclature_for_Museum_Cataloging: 12200
+U_S_National_Archives_Identifier: 10646580
 Commons_gallery: Tractor
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Zetor%20Crystal.jpg
 Unicode_character: 🚜
-Common_Procurement_Vocabulary_code: "16700000"
+Common_Procurement_Vocabulary_code: 16700000
 Iconclass_notation: 46C1661
 Dewey_Decimal_Classification:
-  - "629.2252"
-  - "629.28752"
-  - "631.372"
+  - 629.2252
+  - 629.28752
+  - 631.372
 Commons_category: Tractors
 ---
 
-# [[Tractor]] 
+# [[Tractor]] 🚜 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Tractor,39495|WD~Tractor,39495]]  
 

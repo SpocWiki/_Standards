@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Dysprosium
+has_id_wikidata: Q1843
 ATC_code: V10AX03
 atomic_number: 66
 canonical_SMILES: '[Dy]'
@@ -13,39 +16,38 @@ EC_number: 231-073-9
 electronegativity: 1.22
 element_symbol: Dy
 Gmelin_number: 16278
-has_id_wikidata: Q1843
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dysprosium1.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Dysprosium1.jpg
 InChI: InChI=1S/Dy
 InChIKey: KBQHZAAAGSGFKK-UHFFFAOYSA-N
 instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-- 0.91
-- 1.03
-- 1.07
-- 1.19
+  - 0.91
+  - 1.03
+  - 1.07
+  - 1.19
 location_of_discovery: '[[_Standards/WikiData/WD~Paris,90]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~fergusonite-(REE)_series,412914]]'
-- '[[_Standards/WikiData/WD~aeschynite_mineral_group,3777532]]'
-- '[[_Standards/WikiData/WD~bastnäsite_mineral_group,3777619]]'
-- '[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]'
-- '[[_Standards/WikiData/WD~xenotime_mineral_group,3777882]]'
-- '[[_Standards/WikiData/WD~polycrase-(Y),3907734]]'
-- '[[_Standards/WikiData/WD~euxenite_mineral_group,18016084]]'
-- '[[_Standards/WikiData/WD~gadolinite_group,18043462]]'
+  - '[[_Standards/WikiData/WD~fergusonite-(REE)_series,412914]]'
+  - '[[_Standards/WikiData/WD~aeschynite_mineral_group,3777532]]'
+  - '[[_Standards/WikiData/WD~bastnäsite_mineral_group,3777619]]'
+  - '[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]'
+  - '[[_Standards/WikiData/WD~xenotime_mineral_group,3777882]]'
+  - '[[_Standards/WikiData/WD~polycrase-(Y),3907734]]'
+  - '[[_Standards/WikiData/WD~euxenite_mineral_group,18016084]]'
+  - '[[_Standards/WikiData/WD~gadolinite_group,18043462]]'
 mass: 162.5
 MeSH_tree_code:
-- D01.268.558.362.374
-- D01.552.550.399.374
+  - D01.268.558.362.374
+  - D01.552.550.399.374
 named_after: '[[_Standards/WikiData/WD~getting,12913541]]'
 OmegaWiki_Defined_Meaning: 157663
 oxidation_state:
-- 2
-- 3
-- 4
+  - 2
+  - 3
+  - 4
 part_of:
-- '[[_Standards/WikiData/WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+  - '[[_Standards/WikiData/WD~period_6,239813]]'
+  - '[[_Standards/WikiData/WD~lanthanide,19569]]'
 PubChem_CID: 23912
 SpocWebEntityId: 21962
 time_of_discovery_or_invention: 1886

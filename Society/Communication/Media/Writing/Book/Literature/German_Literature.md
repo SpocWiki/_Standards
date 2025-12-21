@@ -1,29 +1,31 @@
 ---
 aliases:
   - German-language literature
+  - German_Literature
+  - German Literature
 has_id_wikidata: Q181287
-part_of: "[[_Standards/WikiData/WD~Western_literature,116476]]"
+part_of: '[[_Standards/WikiData/WD~Western_literature,116476]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Literature_of_Germany,16321587]]"
-  - "[[_Standards/WikiData/WD~German_language_studies,109647876]]"
-instance_of: "[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]"
-studied_by: "[[_Standards/WikiData/WD~German_language_studies,109647876]]"
-facet_of: "[[_Standards/WikiData/WD~German,188]]"
+  - '[[_Standards/WikiData/WD~Literature_of_Germany,16321587]]'
+  - '[[_Standards/WikiData/WD~German_language_studies,109647876]]'
+instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
+studied_by: '[[_Standards/WikiData/WD~German_language_studies,109647876]]'
+facet_of: '[[_Standards/WikiData/WD~German,188]]'
 Dewey_Decimal_Classification:
-  - "831"
-  - "830"
-Amazon_com_browse_node: "186606"
+  - 831
+  - 830
+Amazon_com_browse_node: 186606
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Muspilli-med.jpg
 Universal_Decimal_Classification: 821.112.2
 Commons_category: German-language literature

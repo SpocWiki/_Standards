@@ -4,21 +4,22 @@ aliases:
   - payload
   - payload
   - has_value_for_payload_kg
+  - has value for payload kg
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - payload
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_payload
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

@@ -1,8 +1,9 @@
 ---
-has_id_wikidata: Q51547
 aliases:
   - Samuel Wilder
   - Billy Wilder
+  - Wilder,Billy
+has_id_wikidata: Q51547
 ---
 
 # [[Wilder,Billy]] 

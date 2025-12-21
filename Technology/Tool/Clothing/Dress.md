@@ -3,6 +3,7 @@ aliases:
   - Kleid
   - frock
   - gown
+  - Dress
 has_id_wikidata: Q200539
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -21,19 +22,19 @@ properties_for_this_type:
   - made from material
   - collection
 social_media_followers: 10057
-Nomenclature_for_Museum_Cataloging: "2373"
-OmegaWiki_Defined_Meaning: "154560"
+Nomenclature_for_Museum_Cataloging: 2373
+OmegaWiki_Defined_Meaning: 154560
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kl%C3%A4nning%20tillh%C3%B6rande%20Irma%20von%20Geijer%2C%20f.%20von%20Hallwyl%2C%20fr%C3%A5n%201930-talet%20-%20Hallwylska%20museet%20-%2089093.tif
 booru_tag: dress
 Danbooru_tag: dress
 hashtag_: dress
 Unicode_character: 👗
-UNSPSC_Code: "53102001"
+UNSPSC_Code: 53102001
 subreddit: Dresses
 Commons_category: Dresses
 ---
 
-# [[Dress]] 
+# [[Dress]] 👗 
 
 #is_/same_as :: [[../../../WikiData/WD~Dress,200539|WD~Dress,200539]] 
 

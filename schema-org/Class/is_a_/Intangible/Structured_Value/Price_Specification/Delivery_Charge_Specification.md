@@ -4,20 +4,22 @@ aliases:
   - delivery_charge_specification
   - DeliveryChargeSpecification
   - is_a_delivery_charge_specification
+  - Delivery_Charge_Specification
+  - Delivery Charge Specification
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - delivery_charge_specification
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_delivery_charge_specification Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

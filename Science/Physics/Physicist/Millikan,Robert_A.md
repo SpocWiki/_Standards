@@ -4,7 +4,9 @@ aliases:
   - Robert Andrews Millikan
   - Robert Millikan
   - Millikan
-has_id_wikidata: "130975"
+  - Millikan,Robert_A
+  - Millikan,Robert A
+has_id_wikidata: 130975
 ---
 
 # [[Millikan,Robert_A]] 

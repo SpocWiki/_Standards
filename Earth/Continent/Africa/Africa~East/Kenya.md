@@ -1,6 +1,4 @@
 ---
-age_of_majority: 18
-aircraft_registration_prefix: 5Y
 aliases:
   - Kenya
   - كينيا
@@ -8,6 +6,9 @@ aliases:
   - Кения
   - the Republic of Kenya
   - la República de Kenya
+has_id_wikidata: Q114
+age_of_majority: 18
+aircraft_registration_prefix: 5Y
 anthem: "[[_Standards/WikiData/WD~Ee_Mungu_Nguvu_Yetu,202635]]"
 area: 581309
 birth_rate:
@@ -174,7 +175,7 @@ ethnic_group:
   - "[[_Standards/WikiData/WD~Luo_peoples,8886726]]"
   - "[[_Standards/WikiData/WD~Kalenjin_people,56932]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Kenya,21022441]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 25679257
   - 26205082
@@ -191,7 +192,6 @@ GS1_country_code: 616
 Happy_Planet_Index_score: 45.2
 hashtag: Kenya
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
-has_id_wikidata: Q114
 has_time_started: 1963-06
 head_of_government: "[[_Standards/WikiData/WD~William_Ruto,195725]]"
 head_of_state: "[[_Standards/WikiData/WD~William_Ruto,195725]]"
@@ -214,7 +214,7 @@ ISO_3166_1_alpha_3_code: KEN
 ISO_3166_1_numeric_code: 404
 isReadOnly: false
 ITU_letter_code: KEN
-keywords:
+keywords: ""
 Krugosvet_article: strany-mira/keniya
 Languages:
   - en-KE
@@ -284,13 +284,13 @@ language_used:
   - "[[_Standards/WikiData/WD~Somali,13275]]"
   - "[[_Standards/WikiData/WD~Meru,13313]]"
   - "[[_Standards/WikiData/WD~Teso,29474]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Kenya,14468380]]"
 Libris_URI: tr576w8c4mr916b
 licence_plate_code: EAK
 license: CC BY-SA 4.0
 life_expectancy: 67.032
-linkTitle:
+linkTitle: ""
 located_in_time_zone:
   - "[[_Standards/WikiData/WD~Africa_Nairobi,4689515]]"
   - "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
@@ -365,7 +365,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Kenya.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE.wav
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750]]"
 replaces: "[[_Standards/WikiData/WD~Kenya_(1963_1964),6392538]]"
 rural_population:

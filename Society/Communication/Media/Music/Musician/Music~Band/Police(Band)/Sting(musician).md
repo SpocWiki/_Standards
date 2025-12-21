@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Sumner,Gordon Matthew Thomas"
+  - Sumner,Gordon Matthew Thomas
+  - Sting(musician)
 ---
 
 #has_/time_/started :: 1951-10-02 

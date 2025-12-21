@@ -3,20 +3,22 @@ aliases:
   - Elementary algebra
   - high school algebra
   - college algebra
+  - Elementary_Algebra
+  - Elementary Algebra
 has_id_wikidata: Q211294
 different_from:
-  - "[[_Standards/WikiData/WD~abstract_algebra,159943]]"
-  - "[[_Standards/WikiData/WD~algebra,3968]]"
-facet_of: "[[_Standards/WikiData/WD~mathematics_education,853077]]"
+  - '[[_Standards/WikiData/WD~abstract_algebra,159943]]'
+  - '[[_Standards/WikiData/WD~algebra,3968]]'
+facet_of: '[[_Standards/WikiData/WD~mathematics_education,853077]]'
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~equation_solving,1879820]]"
-  - "[[_Standards/WikiData/WD~equation,11345]]"
-  - "[[_Standards/WikiData/WD~variable,50701]]"
+  - '[[_Standards/WikiData/WD~equation_solving,1879820]]'
+  - '[[_Standards/WikiData/WD~equation,11345]]'
+  - '[[_Standards/WikiData/WD~variable,50701]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-  - "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
-part_of: "[[_Standards/WikiData/WD~algebra,3968]]"
-subclass_of: "[[_Standards/WikiData/WD~algebra,3968]]"
+  - '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+  - '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
+part_of: '[[_Standards/WikiData/WD~algebra,3968]]'
+subclass_of: '[[_Standards/WikiData/WD~algebra,3968]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Quadratic%20function%20graph%20key%20values.svg
 Commons_category: Elementary algebra
 ---

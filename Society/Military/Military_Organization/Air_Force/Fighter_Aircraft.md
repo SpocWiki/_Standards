@@ -1,22 +1,24 @@
 ---
 aliases:
-  - Fighter aircraft 
+  - Fighter aircraft
   - pursuit aircraft
-  - Abfangjäger 
+  - Abfangjäger
+  - Fighter_Aircraft
+  - Fighter Aircraft
 has_id_wikidata: Q127771
-has_use: "[[_Standards/WikiData/WD~air_combat,18015493]]"
-instance_of: "[[_Standards/WikiData/WD~aircraft_functional_class,20027953]]"
-subclass_of: "[[_Standards/WikiData/WD~combat_airplane,64225484]]"
-Nomenclature_for_Museum_Cataloging: "11707"
+has_use: '[[_Standards/WikiData/WD~air_combat,18015493]]'
+instance_of: '[[_Standards/WikiData/WD~aircraft_functional_class,20027953]]'
+subclass_of: '[[_Standards/WikiData/WD~combat_airplane,64225484]]'
+Nomenclature_for_Museum_Cataloging: 11707
 military_designation:
   - P
   - F
   - VF
 Commons_category: Fighter aircraft
-MIL_STD_2525_Symbol_Identification_Code: "10010100001101040000"
-U_S_National_Archives_Identifier: "10639455"
-UNSPSC_Code: "25131703"
-Common_Procurement_Vocabulary_code: "35611100"
+MIL_STD_2525_Symbol_Identification_Code: 10010100001101040000
+U_S_National_Archives_Identifier: 10639455
+UNSPSC_Code: 25131703
+Common_Procurement_Vocabulary_code: 35611100
 IMDb_keyword: fighter-plane
 Baidu_Tieba_name: 战斗机
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Formation%20of%20a%20Legacy%2C%20Heritage%20flight%20merges%20aviation%20past%20and%20present%2086-16-51-22.jpg

@@ -1,25 +1,25 @@
 ---
 aliases:
-- Tyler,John
-- "John Tyler"
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Tyler,John
+  - John Tyler
+  - ''
 has_id_wikidata: Q11881
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Tyler,John
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Tyler,John
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- 
+  - ''
 title: Tyler,John
 type: private_note
 ---

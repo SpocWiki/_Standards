@@ -4,20 +4,22 @@ aliases:
   - review_action
   - ReviewAction
   - is_a_review_action
+  - Review_Action
+  - Review Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - review_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_review_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

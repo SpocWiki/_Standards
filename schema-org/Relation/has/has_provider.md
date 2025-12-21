@@ -7,16 +7,16 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - provider
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_provider
 publish: true
-publishDate:
+publishDate: ''
 supersedes: carrier
 tags:
   - class/Relation

@@ -3,90 +3,91 @@ aliases:
   - Peter_Abelard
   - Peter Abelard
   - Abelard
+  - Abelard,Peter
 has_id_wikidata: Q4295
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Kingdom_of_France,70972]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-religious_order: "[[_Standards/WikiData/WD~Benedictines,131132]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_France,70972]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+religious_order: '[[_Standards/WikiData/WD~Benedictines,131132]]'
 significant_person:
-  - "[[_Standards/WikiData/WD~Bernard_of_Clairvaux,188411]]"
-  - "[[_Standards/WikiData/WD~Peter_the_Venerable,643487]]"
+  - '[[_Standards/WikiData/WD~Bernard_of_Clairvaux,188411]]'
+  - '[[_Standards/WikiData/WD~Peter_the_Venerable,643487]]'
 movement:
-  - "[[_Standards/WikiData/WD~nominalism,202253]]"
-  - "[[_Standards/WikiData/WD~Classical_period,17723]]"
-  - "[[_Standards/WikiData/WD~scholasticism,41679]]"
-place_of_death: "[[_Standards/WikiData/WD~Chalon_sur_Saône,203645]]"
+  - '[[_Standards/WikiData/WD~nominalism,202253]]'
+  - '[[_Standards/WikiData/WD~Classical_period,17723]]'
+  - '[[_Standards/WikiData/WD~scholasticism,41679]]'
+place_of_death: '[[_Standards/WikiData/WD~Chalon_sur_Saône,203645]]'
 student:
-  - "[[_Standards/WikiData/WD~John_of_Salisbury,264028]]"
-  - "[[_Standards/WikiData/WD~Hilarius,381951]]"
-  - "[[_Standards/WikiData/WD~Berengar_of_Poitiers,819023]]"
-  - "[[_Standards/WikiData/WD~Robert_of_Melun,3436698]]"
+  - '[[_Standards/WikiData/WD~John_of_Salisbury,264028]]'
+  - '[[_Standards/WikiData/WD~Hilarius,381951]]'
+  - '[[_Standards/WikiData/WD~Berengar_of_Poitiers,819023]]'
+  - '[[_Standards/WikiData/WD~Robert_of_Melun,3436698]]'
 student_of:
-  - "[[_Standards/WikiData/WD~William_of_Champeaux,267825]]"
-  - "[[_Standards/WikiData/WD~Roscellinus,297435]]"
+  - '[[_Standards/WikiData/WD~William_of_Champeaux,267825]]'
+  - '[[_Standards/WikiData/WD~Roscellinus,297435]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Full_Orthodox_theological_dictionary,4370385]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Kościelna_encyclopedia,9253865]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Full_Orthodox_theological_dictionary,4370385]]'
+  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Kościelna_encyclopedia,9253865]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Complete_Encyclopaedia_of_Music,_1880,19051181]]"
+  - '[[_Standards/WikiData/WD~Complete_Encyclopaedia_of_Music,_1880,19051181]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_Biblical_Criticism_and_Interpretation_(2007_ed.),21065550]]"
-  - "[[_Standards/WikiData/WD~Dictionnaire_de_théologie_catholique,22682042]]"
-  - "[[_Standards/WikiData/WD~A_Dictionary_of_Hymnology,50382657]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Glory_to_God_A_Companion_CD_ROM,104214514]]"
-  - "[[_Standards/WikiData/WD~Neues_Lexikon_des_Judentums,107459465]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-  - "[[_Standards/WikiData/WD~Lutheran_service_book_companion_to_the_hymns,127512645]]"
-  - "[[_Standards/WikiData/WD~The_Oxford_Dictionary_of_the_Christian_Church_(4th_ed.),130479387]]"
-place_of_birth: "[[_Standards/WikiData/WD~Le_Pallet,606296]]"
-child: "[[_Standards/WikiData/WD~Astralabius,750453]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_Biblical_Criticism_and_Interpretation_(2007_ed.),21065550]]'
+  - '[[_Standards/WikiData/WD~Dictionnaire_de_théologie_catholique,22682042]]'
+  - '[[_Standards/WikiData/WD~A_Dictionary_of_Hymnology,50382657]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Glory_to_God_A_Companion_CD_ROM,104214514]]'
+  - '[[_Standards/WikiData/WD~Neues_Lexikon_des_Judentums,107459465]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+  - '[[_Standards/WikiData/WD~Lutheran_service_book_companion_to_the_hymns,127512645]]'
+  - '[[_Standards/WikiData/WD~The_Oxford_Dictionary_of_the_Christian_Church_(4th_ed.),130479387]]'
+place_of_birth: '[[_Standards/WikiData/WD~Le_Pallet,606296]]'
+child: '[[_Standards/WikiData/WD~Astralabius,750453]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Sic_et_Non,1227813]]"
-  - "[[_Standards/WikiData/WD~Dialectica,3706551]]"
-  - "[[_Standards/WikiData/WD~Hymnarius_Paraclithensis,136212381]]"
+  - '[[_Standards/WikiData/WD~Sic_et_Non,1227813]]'
+  - '[[_Standards/WikiData/WD~Dialectica,3706551]]'
+  - '[[_Standards/WikiData/WD~Hymnarius_Paraclithensis,136212381]]'
 occupation:
-  - "[[_Standards/WikiData/WD~theologian,1234713]]"
-  - "[[_Standards/WikiData/WD~religious_figure,4504549]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~linguist,14467526]]"
-  - "[[_Standards/WikiData/WD~logician,14565331]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-given_name: "[[_Standards/WikiData/WD~Pierre,2093070]]"
+  - '[[_Standards/WikiData/WD~theologian,1234713]]'
+  - '[[_Standards/WikiData/WD~religious_figure,4504549]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~linguist,14467526]]'
+  - '[[_Standards/WikiData/WD~logician,14565331]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
+given_name: '[[_Standards/WikiData/WD~Pierre,2093070]]'
 place_of_burial: "[[_Standards/WikiData/WD~Héloïse_and_Abélard's_tomb,3323370]]"
-educated_at: "[[_Standards/WikiData/WD~École_cathédrale_de_Paris,3577729]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-family_name: "[[_Standards/WikiData/WD~Abelard,37072015]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Christian_Hymns,100975219]]"
-position_held: "[[_Standards/WikiData/WD~Q132810959,132810959]]"
+educated_at: '[[_Standards/WikiData/WD~École_cathédrale_de_Paris,3577729]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+family_name: '[[_Standards/WikiData/WD~Abelard,37072015]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Christian_Hymns,100975219]]'
+position_held: '[[_Standards/WikiData/WD~Q132810959,132810959]]'
 date_of_birth: 1079-01-01T00:00:00Z
-writing_language: "[[_Standards/WikiData/WD~Latin,397]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Latin,397]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-spouse: "[[_Standards/WikiData/WD~Héloïse_d_Argenteuil,5656]]"
+writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Latin,397]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+spouse: '[[_Standards/WikiData/WD~Héloïse_d_Argenteuil,5656]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~scholasticism,41679]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~philosophy,5891]]'
+  - '[[_Standards/WikiData/WD~scholasticism,41679]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_category: Peter Abelard
 Commons_Creator_page: Peter Abelard
 Commons_gallery: Pierre Abélard

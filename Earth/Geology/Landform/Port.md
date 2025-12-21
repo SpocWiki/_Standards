@@ -1,39 +1,40 @@
 ---
 aliases:
   - Hafen
+  - Port
 has_id_wikidata: Q44782
 subclass_of:
-  - "[[_Standards/WikiData/WD~thoroughfare,83620]]"
-  - "[[_Standards/WikiData/WD~harbor,283202]]"
-  - "[[_Standards/WikiData/WD~fixed_construction,811430]]"
-  - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
-  - "[[_Standards/WikiData/WD~hydraulic_structure,2466889]]"
-  - "[[_Standards/WikiData/WD~transport_structure,2516121]]"
-  - "[[_Standards/WikiData/WD~station,12819564]]"
+  - '[[_Standards/WikiData/WD~thoroughfare,83620]]'
+  - '[[_Standards/WikiData/WD~harbor,283202]]'
+  - '[[_Standards/WikiData/WD~fixed_construction,811430]]'
+  - '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+  - '[[_Standards/WikiData/WD~hydraulic_structure,2466889]]'
+  - '[[_Standards/WikiData/WD~transport_structure,2516121]]'
+  - '[[_Standards/WikiData/WD~station,12819564]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~harbor,283202]]"
-  - "[[_Standards/WikiData/WD~berth,1153558]]"
-  - "[[_Standards/WikiData/WD~Q1824170,1824170]]"
-  - "[[_Standards/WikiData/WD~Q25464873,25464873]]"
+  - '[[_Standards/WikiData/WD~harbor,283202]]'
+  - '[[_Standards/WikiData/WD~berth,1153558]]'
+  - '[[_Standards/WikiData/WD~Q1824170,1824170]]'
+  - '[[_Standards/WikiData/WD~Q25464873,25464873]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Hafen,1310923]]"
-  - "[[_Standards/WikiData/WD~Port,2057758]]"
-  - "[[_Standards/WikiData/WD~port_city,2264924]]"
-interchange_station: "[[_Standards/WikiData/WD~harbour_railway_station,1567913]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_port,5963628]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_structure,111972893]]"
-OmegaWiki_Defined_Meaning: "1717"
+  - '[[_Standards/WikiData/WD~Hafen,1310923]]'
+  - '[[_Standards/WikiData/WD~Port,2057758]]'
+  - '[[_Standards/WikiData/WD~port_city,2264924]]'
+interchange_station: '[[_Standards/WikiData/WD~harbour_railway_station,1567913]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_port,5963628]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_structure,111972893]]'
+OmegaWiki_Defined_Meaning: 1717
 Dewey_Decimal_Classification:
-  - "387.1"
-  - "725.34"
-  - "627.2"
-  - "386.8"
-  - "711.76"
+  - 387.1
+  - 725.34
+  - 627.2
+  - 386.8
+  - 711.76
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Port%20of%20Piraeus.jpg
 Commons_category: Ports and harbours
 equivalent_class: http://dbpedia.org/ontology/Port

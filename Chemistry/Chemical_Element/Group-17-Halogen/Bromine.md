@@ -1,26 +1,28 @@
 ---
-associated_hazard: "[[_Standards/WikiData/WD~bromine_exposure,21173316]]"
+aliases:
+  - Bromine
+has_id_wikidata: Q879
+associated_hazard: '[[_Standards/WikiData/WD~bromine_exposure,21173316]]'
 atomic_number: 35
 Commons_category: Bromine
 Commons_gallery: Bromine
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-different_from: "[[_Standards/WikiData/WD~theobromine,206844]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~theobromine,206844]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Antoine_Jérôme_Balard,314306]]"
-  - "[[_Standards/WikiData/WD~Carl_Jacob_Löwig,65517]]"
+  - '[[_Standards/WikiData/WD~Antoine_Jérôme_Balard,314306]]'
+  - '[[_Standards/WikiData/WD~Carl_Jacob_Löwig,65517]]'
 electronegativity: 3
 element_symbol: Br
 Gmelin_number: 1182
-has_id_wikidata: Q879
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bromine%20vial%20in%20acrylic%20cube.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
   - 0.25
   - 0.31
@@ -28,24 +30,24 @@ ionic_radius:
   - 1.96
 ionization_energy: 10.55
 Krugosvet_article: nauka_i_tehnika/himiya/BROM.html
-location_of_discovery: "[[_Standards/WikiData/WD~France,142]]"
+location_of_discovery: '[[_Standards/WikiData/WD~France,142]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~seawater,184395]]"
-  - "[[_Standards/WikiData/WD~brine,214403]]"
+  - '[[_Standards/WikiData/WD~seawater,184395]]'
+  - '[[_Standards/WikiData/WD~brine,214403]]'
 mass: 79.904
 MeSH_tree_code: D01.268.380.112
-named_after: "[[_Standards/WikiData/WD~stink,1519476]]"
+named_after: '[[_Standards/WikiData/WD~stink,1519476]]'
 OmegaWiki_Defined_Meaning: 434
 part_of:
-  - "[[_Standards/WikiData/WD~period_4,239825]]"
-  - "[[_Standards/WikiData/WD~halogens,19605]]"
+  - '[[_Standards/WikiData/WD~period_4,239825]]'
+  - '[[_Standards/WikiData/WD~halogens,19605]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Bromine-ar.ogg
 SpocWebEntityId: 21933
 subclass_of:
-  - "[[_Standards/WikiData/WD~chemical_substance,79529]]"
-  - "[[_Standards/WikiData/WD~diatomic_nonmetal,19753344]]"
-  - "[[_Standards/WikiData/WD~nonmetal,19600]]"
-  - "[[_Standards/WikiData/WD~halogens,19605]]"
+  - '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+  - '[[_Standards/WikiData/WD~diatomic_nonmetal,19753344]]'
+  - '[[_Standards/WikiData/WD~nonmetal,19600]]'
+  - '[[_Standards/WikiData/WD~halogens,19605]]'
 time_of_discovery_or_invention: 1825
 type: Element
 UMLS_CUI: C0006223

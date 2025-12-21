@@ -3,32 +3,32 @@ aliases:
   - Salad
   - Salat
 has_id_wikidata: Q9266
-different_from: "[[_Standards/WikiData/WD~Lactuca_sativa,83193]]"
+different_from: '[[_Standards/WikiData/WD~Lactuca_sativa,83193]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~dairy_product,185217]]"
-  - "[[_Standards/WikiData/WD~fruit,3314483]]"
-  - "[[_Standards/WikiData/WD~meat,10990]]"
-  - "[[_Standards/WikiData/WD~vegetable,11004]]"
-fabrication_method: "[[_Standards/WikiData/WD~mixing,379697]]"
+  - '[[_Standards/WikiData/WD~dairy_product,185217]]'
+  - '[[_Standards/WikiData/WD~fruit,3314483]]'
+  - '[[_Standards/WikiData/WD~meat,10990]]'
+  - '[[_Standards/WikiData/WD~vegetable,11004]]'
+fabrication_method: '[[_Standards/WikiData/WD~mixing,379697]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-subclass_of: "[[_Standards/WikiData/WD~dish,746549]]"
-country_of_origin: "[[_Standards/WikiData/WD~internationality,1072012]]"
-country: "[[_Standards/WikiData/WD~internationality,1072012]]"
-has_list: "[[_Standards/WikiData/WD~list_of_salads,6637221]]"
-uses: "[[_Standards/WikiData/WD~human_food,8195619]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]"
-model_item: "[[_Standards/WikiData/WD~warm_black_bean_salad_with_kale_and_tomatoes,59862818]]"
-made_from_material: "[[_Standards/WikiData/WD~vegetable,11004]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+subclass_of: '[[_Standards/WikiData/WD~dish,746549]]'
+country_of_origin: '[[_Standards/WikiData/WD~internationality,1072012]]'
+country: '[[_Standards/WikiData/WD~internationality,1072012]]'
+has_list: '[[_Standards/WikiData/WD~list_of_salads,6637221]]'
+uses: '[[_Standards/WikiData/WD~human_food,8195619]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]'
+model_item: '[[_Standards/WikiData/WD~warm_black_bean_salad_with_kale_and_tomatoes,59862818]]'
+made_from_material: '[[_Standards/WikiData/WD~vegetable,11004]]'
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Salat2.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%B3%D9%84%D8%B7%D8%A9.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ka-salati.ogg
-UNSPSC_Code: "50193201"
+UNSPSC_Code: 50193201
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Salad%20platter.jpg
 Commons_gallery: Salad
-U_S_National_Archives_Identifier: "10647438"
+U_S_National_Archives_Identifier: 10647438
 Commons_category: Salads
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Salad-575436.svg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00003080

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Zero
-  - "Null"
+  - 
 has_id_wikidata: Q204
 different_from:
   - "[[_Standards/WikiData/WD~0,199453]]"
@@ -41,14 +41,14 @@ mathematical_inverse: "[[_Standards/WikiData/WD~zero,204]]"
 opposite_of:
   - "[[_Standards/WikiData/WD~zero,204]]"
   - "[[_Standards/WikiData/WD~infinity,205]]"
-OmegaWiki_Defined_Meaning: "5653"
+OmegaWiki_Defined_Meaning: 5653
 code:
-  - "0"
+  - 0
   - -----
   - ០
   - 𐆊
 Unicode_character:
-  - "0"
+  - 0
   - ⓿
   - ⁰
   - ₀

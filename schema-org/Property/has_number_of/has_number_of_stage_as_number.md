@@ -4,21 +4,22 @@ aliases:
   - stage-as-number
   - stageAsNumber
   - has_number_of_stage_as_number
+  - has number of stage as number
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - stage-as-number
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_stage-as-number
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

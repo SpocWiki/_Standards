@@ -3,23 +3,24 @@ aliases:
   - has super-event
   - superEvent
   - has_super_event
+  - has super event
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - super_event
   - super
   - event
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_super_event
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

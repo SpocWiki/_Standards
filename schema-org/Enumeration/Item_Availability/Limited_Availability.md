@@ -4,21 +4,23 @@ aliases:
   - limited_availability
   - LimitedAvailability
   - is_limited_available
+  - Limited_Availability
+  - Limited Availability
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: ItemAvailability
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - limited_availability
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_limited_availability Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

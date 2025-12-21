@@ -5,6 +5,7 @@ aliases:
   - '"Buster" Keaton'
   - Buster Keaton
   - Great Stone Face
+  - Keaton,Buster
 has_id_wikidata: Q103949
 ---
 

@@ -1,10 +1,11 @@
 ---
 aliases:
-- "Rabindranath Thakur"
-- "Rabindranath Tagore"
-- Gurudeb
-- Kobiguru
-- Biswokobi
+  - Rabindranath Thakur
+  - Rabindranath Tagore
+  - Gurudeb
+  - Kobiguru
+  - Biswokobi
+  - Tagore,Rabindranath
 has_id_wikidata: Q7241
 ---
 

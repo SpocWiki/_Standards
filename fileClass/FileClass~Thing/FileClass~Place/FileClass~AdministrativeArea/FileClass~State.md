@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~State
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/State
-- class/Thing/Place/AdministrativeArea/State
-- is_a_/State
-- schema-org/State
+  - class/State
+  - class/Thing/Place/AdministrativeArea/State
+  - is_a_/State
+  - schema-org/State
 tags:
-- class/FileClass
-- class/State
-- is_a_/State
-- class/Thing/Place/AdministrativeArea/State
+  - class/FileClass
+  - class/State
+  - is_a_/State
+  - class/Thing/Place/AdministrativeArea/State
 version: 2.0
 ---
 

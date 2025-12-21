@@ -1,18 +1,19 @@
 ---
 aliases:
   - Würzmittel
+  - Condiment
 has_id_wikidata: Q2596997
-subclass_of: "[[_Standards/WikiData/WD~food_additive,189567]]"
+subclass_of: '[[_Standards/WikiData/WD~food_additive,189567]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-has_list: "[[_Standards/WikiData/WD~list_of_condiments,17097713]]"
-Product_and_Service_Code: "8950"
-OmegaWiki_Defined_Meaning: "332437"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+has_list: '[[_Standards/WikiData/WD~list_of_condiments,17097713]]'
+Product_and_Service_Code: 8950
+OmegaWiki_Defined_Meaning: 332437
 subreddit: condiments
 Dewey_Decimal_Classification:
-  - "641.3382"
-  - "664.5"
+  - 641.3382
+  - 664.5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chutneys.jpg
 Commons_gallery: Condiments
 Commons_category: Condiments

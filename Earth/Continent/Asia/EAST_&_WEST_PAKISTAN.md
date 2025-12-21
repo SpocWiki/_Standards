@@ -1,9 +1,12 @@
 ---
+aliases:
+  - EAST_&_WEST_PAKISTAN
+  - EAST & WEST PAKISTAN
 confidential: public
 isDeleted: false
 SpocWebEntityId: 76717
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

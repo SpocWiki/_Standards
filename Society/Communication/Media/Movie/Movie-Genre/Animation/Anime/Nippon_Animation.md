@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Nippon Animation"
+  - Nippon Animation
+  - Nippon_Animation
 ---
 
 #has_/created :: [[Once_upon_a_Time(animations)]]

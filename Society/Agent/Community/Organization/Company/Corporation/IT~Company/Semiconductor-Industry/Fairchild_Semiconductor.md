@@ -1,6 +1,8 @@
 ---
 aliases:
-- "traitorous eight"
+  - traitorous eight
+  - Fairchild_Semiconductor
+  - Fairchild Semiconductor
 ---
 
 # [[Fairchild_Semiconductor]] 

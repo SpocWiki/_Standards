@@ -3,23 +3,24 @@ aliases:
   - has recommended-intake
   - recommendedIntake
   - has_recommended_intake
+  - has recommended intake
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - recommended_intake
   - recommended
   - intake
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_recommended_intake
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

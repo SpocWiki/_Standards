@@ -2,6 +2,7 @@
 aliases:
   - Hindi cinema
   - Bombay cinema
+  - Bollywood
 has_id_wikidata: Q93196
 ---
 

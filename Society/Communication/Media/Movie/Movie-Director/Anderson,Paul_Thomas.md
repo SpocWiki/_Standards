@@ -1,6 +1,8 @@
 ---
 aliases:
   - Paul Thomas Anderson
+  - Anderson,Paul_Thomas
+  - Anderson,Paul Thomas
 ---
 
 # [[Anderson,Paul_Thomas]] 

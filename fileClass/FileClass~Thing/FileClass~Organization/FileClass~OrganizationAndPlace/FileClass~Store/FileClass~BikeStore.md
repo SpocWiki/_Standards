@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~BikeStore
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: bike
 limit: 9
 mapWithTag: true
 tagNames:
-- class/BikeStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BikeStore
-- is_a_/BikeStore
-- schema-org/BikeStore
+  - class/BikeStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BikeStore
+  - is_a_/BikeStore
+  - schema-org/BikeStore
 tags:
-- class/FileClass
-- class/BikeStore
-- is_a_/BikeStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BikeStore
+  - class/FileClass
+  - class/BikeStore
+  - is_a_/BikeStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BikeStore
 version: 2.0
 ---
 

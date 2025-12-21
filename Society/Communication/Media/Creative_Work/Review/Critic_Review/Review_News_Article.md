@@ -4,20 +4,22 @@ aliases:
   - review_news_article
   - ReviewNewsArticle
   - is_a_review_news_article
+  - Review_News_Article
+  - Review News Article
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - review_news_article
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_review_news_article Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,11 +1,18 @@
 ---
+aliases:
+  - Angola
+  - أنغولا
+  - 安哥拉
+  - Ангола
+  - the Republic of Angola
+  - la República de Angola
+has_id_wikidata: Q916
 location:
   - -8.8
   - 13.23
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q916
 SpocWebEntityId: 26833
 isDeleted: false
 confidential: public
@@ -16,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Angola
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Angola
-  - أنغولا
-  - 安哥拉
-  - Ангола
-  - the Republic of Angola
-  - la República de Angola
+publishDate: ""
+expiryDate: ""
 Languages:
   - pt-AO
 flag: "[[_Standards/WikiData/WD~flag_of_Angola,124329]]"

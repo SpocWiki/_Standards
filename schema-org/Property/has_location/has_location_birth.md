@@ -1,30 +1,31 @@
 ---
 aliases:
-- birth-place
-- birth_place
-- birthPlace
-- has_location_birth
-- "schema:birthPlace"
-- "dbo:birthPlace"
-- "wdt:P19"
+  - birth-place
+  - birth_place
+  - birthPlace
+  - has_location_birth
+  - schema:birthPlace
+  - dbo:birthPlace
+  - wdt:P19
+  - has location birth
 confidential: public
 cssclasses:
-- Predicate
-- geo
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- birth_place
-layout: 
-license: "CC BY-SA 4.0"
+  - birth_place
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_location_birth
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_birth
 type: Pred_geo
 ---

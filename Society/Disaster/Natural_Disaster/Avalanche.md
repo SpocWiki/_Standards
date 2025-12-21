@@ -1,27 +1,31 @@
 ---
+aliases:
+  - Lawine
+  - '{ newTitle: }': ''
+  - Avalanche
+has_id_wikidata: Q7935
 Commons_category: Avalanches
 Commons_gallery: Avalanche
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Dewey_Decimal_Classification:
   - 551.307
   - 551.57848
-different_from: "[[_Standards/WikiData/WD~Avalanche,292177]]"
+different_from: '[[_Standards/WikiData/WD~Avalanche,292177]]'
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000691
 facet_of:
-  - "[[_Standards/WikiData/WD~snow,7561]]"
-  - "[[_Standards/WikiData/WD~gravity,11412]]"
-has_effect: "[[_Standards/WikiData/WD~avalanche_blast,30895609]]"
-has_id_wikidata: Q7935
-has_list: "[[_Standards/WikiData/WD~list_of_avalanches,13581705]]"
+  - '[[_Standards/WikiData/WD~snow,7561]]'
+  - '[[_Standards/WikiData/WD~gravity,11412]]'
+has_effect: '[[_Standards/WikiData/WD~avalanche_blast,30895609]]'
+has_list: '[[_Standards/WikiData/WD~list_of_avalanches,13581705]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Avalanche%20-%20snowslide%20icon.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Laviin%20MAL-Pamir%2085%2002.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~geographically_localized_event,123349687]]"
+  - '[[_Standards/WikiData/WD~geographically_localized_event,123349687]]'
 IPTC_NewsCode: mediatopic/20000156
 MeSH_tree_code:
   - G01.311.085
@@ -29,14 +33,11 @@ MeSH_tree_code:
 MIL_STD_2525_Symbol_Identification_Code: 10014000001701020000
 OmegaWiki_Defined_Meaning: 296
 subclass_of:
-  - "[[_Standards/WikiData/WD~slide,3574985]]"
+  - '[[_Standards/WikiData/WD~slide,3574985]]'
 UMLS_CUI: C0337014
 U_S_National_Archives_Identifier: 10640731
 video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Avalanche%20on%20Mount%20Rainier.webm
-aliases:
-  - Lawine
-  - "{ newTitle: }":
 confidential: private
 cssclasses:
   - private
@@ -45,26 +46,26 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: ''
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 lang: en
-layout:
+layout: ''
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 publish: false
-publishDate:
+publishDate: ''
 tags:
-  - "{ newTitle: }":
+  - '{ newTitle: }': ''
   - excalidraw
 title:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 type: private_note
 ---
 

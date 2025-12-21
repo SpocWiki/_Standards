@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~WPFooter
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/WPFooter
-- class/Thing/CreativeWork/WebPageElement/WPFooter
-- is_a_/WPFooter
-- schema-org/WPFooter
+  - class/WPFooter
+  - class/Thing/CreativeWork/WebPageElement/WPFooter
+  - is_a_/WPFooter
+  - schema-org/WPFooter
 tags:
-- class/FileClass
-- class/WPFooter
-- is_a_/WPFooter
-- class/Thing/CreativeWork/WebPageElement/WPFooter
+  - class/FileClass
+  - class/WPFooter
+  - is_a_/WPFooter
+  - class/Thing/CreativeWork/WebPageElement/WPFooter
 version: 2.0
 ---
 

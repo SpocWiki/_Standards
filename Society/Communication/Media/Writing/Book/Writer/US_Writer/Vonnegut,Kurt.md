@@ -1,105 +1,106 @@
 ---
 aliases:
   - Kurt Vonnegut
+  - Vonnegut,Kurt
 has_id_wikidata: Q49074
 genre:
-  - "[[_Standards/WikiData/WD~postmodern_literature,113013]]"
-  - "[[_Standards/WikiData/WD~satire,128758]]"
-  - "[[_Standards/WikiData/WD~absurdist_literature,481315]]"
-  - "[[_Standards/WikiData/WD~surreal_humour,1092460]]"
-  - "[[_Standards/WikiData/WD~science_fiction,24925]]"
+  - '[[_Standards/WikiData/WD~postmodern_literature,113013]]'
+  - '[[_Standards/WikiData/WD~satire,128758]]'
+  - '[[_Standards/WikiData/WD~absurdist_literature,481315]]'
+  - '[[_Standards/WikiData/WD~surreal_humour,1092460]]'
+  - '[[_Standards/WikiData/WD~science_fiction,24925]]'
 employer:
-  - "[[_Standards/WikiData/WD~University_of_Chicago,131252]]"
-  - "[[_Standards/WikiData/WD~University_of_Iowa,182973]]"
-  - "[[_Standards/WikiData/WD~City_News_Bureau_of_Chicago,5123329]]"
-  - "[[_Standards/WikiData/WD~Harvard_University,13371]]"
-  - "[[_Standards/WikiData/WD~General_Electric,54173]]"
+  - '[[_Standards/WikiData/WD~University_of_Chicago,131252]]'
+  - '[[_Standards/WikiData/WD~University_of_Iowa,182973]]'
+  - '[[_Standards/WikiData/WD~City_News_Bureau_of_Chicago,5123329]]'
+  - '[[_Standards/WikiData/WD~Harvard_University,13371]]'
+  - '[[_Standards/WikiData/WD~General_Electric,54173]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Chicago,131252]]"
-  - "[[_Standards/WikiData/WD~Carnegie_Mellon_University,190080]]"
-  - "[[_Standards/WikiData/WD~University_of_Tennessee,1150105]]"
-  - "[[_Standards/WikiData/WD~Shortridge_High_School,7502221]]"
-  - "[[_Standards/WikiData/WD~Cornell_University,49115]]"
+  - '[[_Standards/WikiData/WD~University_of_Chicago,131252]]'
+  - '[[_Standards/WikiData/WD~Carnegie_Mellon_University,190080]]'
+  - '[[_Standards/WikiData/WD~University_of_Tennessee,1150105]]'
+  - '[[_Standards/WikiData/WD~Shortridge_High_School,7502221]]'
+  - '[[_Standards/WikiData/WD~Cornell_University,49115]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Purple_Heart,145752]]"
-  - "[[_Standards/WikiData/WD~National_Book_Award,572316]]"
-  - "[[_Standards/WikiData/WD~Guggenheim_Fellowship,1316544]]"
-  - "[[_Standards/WikiData/WD~Hugo_Award_for_Best_Dramatic_Presentation,3414212]]"
-  - "[[_Standards/WikiData/WD~Mondello_Prize,3910591]]"
-  - "[[_Standards/WikiData/WD~Prometheus_Award_Hall_of_Fame,19360203]]"
-  - "[[_Standards/WikiData/WD~Humanist_of_the_Year,19869310]]"
-  - "[[_Standards/WikiData/WD~Carl_Sandburg_Literary_Award,28935563]]"
-  - "[[_Standards/WikiData/WD~Eugene_V._Debs_Award,43080994]]"
-  - "[[_Standards/WikiData/WD~Science_Fiction_and_Fantasy_Hall_of_Fame,48961500]]"
+  - '[[_Standards/WikiData/WD~Purple_Heart,145752]]'
+  - '[[_Standards/WikiData/WD~National_Book_Award,572316]]'
+  - '[[_Standards/WikiData/WD~Guggenheim_Fellowship,1316544]]'
+  - '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Dramatic_Presentation,3414212]]'
+  - '[[_Standards/WikiData/WD~Mondello_Prize,3910591]]'
+  - '[[_Standards/WikiData/WD~Prometheus_Award_Hall_of_Fame,19360203]]'
+  - '[[_Standards/WikiData/WD~Humanist_of_the_Year,19869310]]'
+  - '[[_Standards/WikiData/WD~Carl_Sandburg_Literary_Award,28935563]]'
+  - '[[_Standards/WikiData/WD~Eugene_V._Debs_Award,43080994]]'
+  - '[[_Standards/WikiData/WD~Science_Fiction_and_Fantasy_Hall_of_Fame,48961500]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Hugo_Award_for_Best_Novel,255032]]"
-  - "[[_Standards/WikiData/WD~Nebula_Award_for_Best_Novel,266012]]"
-  - "[[_Standards/WikiData/WD~Locus_Award_for_Best_Short_Fiction,3404943]]"
-  - "[[_Standards/WikiData/WD~Locus_Award_for_Best_Collection,54824268]]"
-  - "[[_Standards/WikiData/WD~International_Fantasy_Award_for_Best_Fiction,135208647]]"
+  - '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Novel,255032]]'
+  - '[[_Standards/WikiData/WD~Nebula_Award_for_Best_Novel,266012]]'
+  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Short_Fiction,3404943]]'
+  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Collection,54824268]]'
+  - '[[_Standards/WikiData/WD~International_Fantasy_Award_for_Best_Fiction,135208647]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Slaughterhouse_Five,265954]]"
-  - "[[_Standards/WikiData/WD~Breakfast_of_Champions,788777]]"
+  - '[[_Standards/WikiData/WD~Slaughterhouse_Five,265954]]'
+  - '[[_Standards/WikiData/WD~Breakfast_of_Champions,788777]]'
   - "[[_Standards/WikiData/WD~Cat's_Cradle,41359]]"
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Agnosticism,288928]]"
-  - "[[_Standards/WikiData/WD~social_anarchism,370919]]"
-  - "[[_Standards/WikiData/WD~Unitarian_Universalism,1622507]]"
-  - "[[_Standards/WikiData/WD~global_citizenship,2785021]]"
-  - "[[_Standards/WikiData/WD~anarchism,6199]]"
-  - "[[_Standards/WikiData/WD~socialism,7272]]"
-  - "[[_Standards/WikiData/WD~humanism,46158]]"
-  - "[[_Standards/WikiData/WD~pacifism,58848]]"
+  - '[[_Standards/WikiData/WD~Agnosticism,288928]]'
+  - '[[_Standards/WikiData/WD~social_anarchism,370919]]'
+  - '[[_Standards/WikiData/WD~Unitarian_Universalism,1622507]]'
+  - '[[_Standards/WikiData/WD~global_citizenship,2785021]]'
+  - '[[_Standards/WikiData/WD~anarchism,6199]]'
+  - '[[_Standards/WikiData/WD~socialism,7272]]'
+  - '[[_Standards/WikiData/WD~humanism,46158]]'
+  - '[[_Standards/WikiData/WD~pacifism,58848]]'
 member_of:
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~American_Civil_Liberties_Union,21637]]"
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]'
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+  - '[[_Standards/WikiData/WD~American_Civil_Liberties_Union,21637]]'
 residence:
-  - "[[_Standards/WikiData/WD~Barnstable,808535]]"
-  - "[[_Standards/WikiData/WD~Indianapolis,6346]]"
-  - "[[_Standards/WikiData/WD~New_York_City,60]]"
-given_name: "[[_Standards/WikiData/WD~Kurt,1158489]]"
+  - '[[_Standards/WikiData/WD~Barnstable,808535]]'
+  - '[[_Standards/WikiData/WD~Indianapolis,6346]]'
+  - '[[_Standards/WikiData/WD~New_York_City,60]]'
+given_name: '[[_Standards/WikiData/WD~Kurt,1158489]]'
 academic_degree:
-  - "[[_Standards/WikiData/WD~Master_of_Arts,2091008]]"
-  - "[[_Standards/WikiData/WD~Doctor_of_Humane_Letters,9301216]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~private_first_class,2352637]]"
-military_unit: "[[_Standards/WikiData/WD~106th_Infantry_Division,2662633]]"
-sibling: "[[_Standards/WikiData/WD~Bernard_Vonnegut,4124918]]"
+  - '[[_Standards/WikiData/WD~Master_of_Arts,2091008]]'
+  - '[[_Standards/WikiData/WD~Doctor_of_Humane_Letters,9301216]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~private_first_class,2352637]]'
+military_unit: '[[_Standards/WikiData/WD~106th_Infantry_Division,2662633]]'
+sibling: '[[_Standards/WikiData/WD~Bernard_Vonnegut,4124918]]'
 child:
-  - "[[_Standards/WikiData/WD~Edith_Vonnegut,5338689]]"
-  - "[[_Standards/WikiData/WD~Mark_Vonnegut,6227066]]"
+  - '[[_Standards/WikiData/WD~Edith_Vonnegut,5338689]]'
+  - '[[_Standards/WikiData/WD~Mark_Vonnegut,6227066]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Jill_Krementz,6192911]]"
-  - "[[_Standards/WikiData/WD~Q133863692,133863692]]"
-father: "[[_Standards/WikiData/WD~Kurt_Vonnegut,_Sr.,6447106]]"
-list_of_works: "[[_Standards/WikiData/WD~Kurt_Vonnegut_bibliography,6447108]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Kurt_Vonnegut,8137394]]"
-cause_of_death: "[[_Standards/WikiData/WD~falling_from_height,11637534]]"
-manner_of_death: "[[_Standards/WikiData/WD~accidental_death,21142718]]"
-family_name: "[[_Standards/WikiData/WD~Vonnegut,30525499]]"
+  - '[[_Standards/WikiData/WD~Jill_Krementz,6192911]]'
+  - '[[_Standards/WikiData/WD~Q133863692,133863692]]'
+father: '[[_Standards/WikiData/WD~Kurt_Vonnegut,_Sr.,6447106]]'
+list_of_works: '[[_Standards/WikiData/WD~Kurt_Vonnegut_bibliography,6447108]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Kurt_Vonnegut,8137394]]'
+cause_of_death: '[[_Standards/WikiData/WD~falling_from_height,11637534]]'
+manner_of_death: '[[_Standards/WikiData/WD~accidental_death,21142718]]'
+family_name: '[[_Standards/WikiData/WD~Vonnegut,30525499]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Dictionary_of_Unitarian_and_Universalist_Biography,47275356]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Indiana_Authors_and_Their_Books,_1917_1966,117272481]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-relative: "[[_Standards/WikiData/WD~Steve_Adams,113512097]]"
-mother: "[[_Standards/WikiData/WD~Edith_Vonnegut,125983723]]"
+  - '[[_Standards/WikiData/WD~Dictionary_of_Unitarian_and_Universalist_Biography,47275356]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Indiana_Authors_and_Their_Books,_1917_1966,117272481]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+relative: '[[_Standards/WikiData/WD~Steve_Adams,113512097]]'
+mother: '[[_Standards/WikiData/WD~Edith_Vonnegut,125983723]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~American_English,7976]]"
-influenced_by: "[[_Standards/WikiData/WD~George_Orwell,3335]]"
-place_of_birth: "[[_Standards/WikiData/WD~Indianapolis,6346]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~American_English,7976]]'
+influenced_by: '[[_Standards/WikiData/WD~George_Orwell,3335]]'
+place_of_birth: '[[_Standards/WikiData/WD~Indianapolis,6346]]'
 movement:
-  - "[[_Standards/WikiData/WD~atheism,7066]]"
-  - "[[_Standards/WikiData/WD~humanism,46158]]"
-writing_language: "[[_Standards/WikiData/WD~American_English,7976]]"
-native_language: "[[_Standards/WikiData/WD~American_English,7976]]"
-military_branch: "[[_Standards/WikiData/WD~United_States_Army,9212]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_death: "[[_Standards/WikiData/WD~New_York_City,60]]"
-occupation: "[[_Standards/WikiData/WD~writer,36180]]"
+  - '[[_Standards/WikiData/WD~atheism,7066]]'
+  - '[[_Standards/WikiData/WD~humanism,46158]]'
+writing_language: '[[_Standards/WikiData/WD~American_English,7976]]'
+native_language: '[[_Standards/WikiData/WD~American_English,7976]]'
+military_branch: '[[_Standards/WikiData/WD~United_States_Army,9212]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_death: '[[_Standards/WikiData/WD~New_York_City,60]]'
+occupation: '[[_Standards/WikiData/WD~writer,36180]]'
 Commons_category: Kurt Vonnegut
 Commons_Creator_page: Kurt Vonnegut
 social_media_followers: 217975
@@ -114,8 +115,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Kurt%20Vonnegut%20by%2
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Kurt%20Vonnegut%20Junior.svg
 official_website: https://www.vonnegut.com
 IPA_transcription: ˈvɒnɨɡət
-ISNI: "0000000121386537"
-NLC_authorities: "061394557"
+ISNI: 0000000121386537
+NLC_authorities: 061394557
 Europeana_entity: agent/base/60116
 Wolfram_Language_entity_code: Entity["Concept", "KurtVonnegut::434gc"]
 Libris_URI: gdsvws203zfnr46

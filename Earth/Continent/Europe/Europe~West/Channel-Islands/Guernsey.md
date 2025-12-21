@@ -5,26 +5,26 @@ aliases:
   - غيرنزي
   - 根西
   - Гернси
-  - 
+  - ''
 confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
+keywords: ''
 Languages:
   - en
   - nrf
-layout:
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 location:
   - 49.45
   - -2.55
 publish: true
-publishDate:
+publishDate: ''
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 57601
 tags:

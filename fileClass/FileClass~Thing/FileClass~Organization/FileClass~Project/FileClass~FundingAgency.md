@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~FundingAgency
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~Project
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/FundingAgency
-- class/Thing/Organization/Project/FundingAgency
-- is_a_/FundingAgency
-- schema-org/FundingAgency
+  - class/FundingAgency
+  - class/Thing/Organization/Project/FundingAgency
+  - is_a_/FundingAgency
+  - schema-org/FundingAgency
 tags:
-- class/FileClass
-- class/FundingAgency
-- is_a_/FundingAgency
-- class/Thing/Organization/Project/FundingAgency
+  - class/FileClass
+  - class/FundingAgency
+  - is_a_/FundingAgency
+  - class/Thing/Organization/Project/FundingAgency
 version: 2.0
 ---
 

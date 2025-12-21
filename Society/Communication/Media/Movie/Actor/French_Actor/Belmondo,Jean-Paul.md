@@ -5,85 +5,86 @@ aliases:
   - Jean-Paul Belmondo
   - Belmondo
   - Bebel
+  - Belmondo,Jean-Paul
 has_id_wikidata: Q106255
 child:
-  - "[[_Standards/WikiData/WD~Paul_Belmondo,171557]]"
-  - "[[_Standards/WikiData/WD~Stella_Belmondo,100308188]]"
-  - "[[_Standards/WikiData/WD~Patricia_Belmondo,108440948]]"
-  - "[[_Standards/WikiData/WD~Florence_Belmondo,108440999]]"
+  - '[[_Standards/WikiData/WD~Paul_Belmondo,171557]]'
+  - '[[_Standards/WikiData/WD~Stella_Belmondo,100308188]]'
+  - '[[_Standards/WikiData/WD~Patricia_Belmondo,108440948]]'
+  - '[[_Standards/WikiData/WD~Florence_Belmondo,108440999]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~funeral,201676]]"
-  - "[[_Standards/WikiData/WD~National_tribute,30748066]]"
+  - '[[_Standards/WikiData/WD~funeral,201676]]'
+  - '[[_Standards/WikiData/WD~National_tribute,30748066]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Golden_Lion,209459]]"
-  - "[[_Standards/WikiData/WD~César_Award_for_Best_Actor,900494]]"
+  - '[[_Standards/WikiData/WD~Golden_Lion,209459]]'
+  - '[[_Standards/WikiData/WD~César_Award_for_Best_Actor,900494]]'
   - "[[_Standards/WikiData/WD~Honorary_Palme_d'Or,1321674]]"
-  - "[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]"
-  - "[[_Standards/WikiData/WD~Prix_Citron,_Orange_et_Bourgeon,3404470]]"
-  - "[[_Standards/WikiData/WD~Q3404498,3404498]]"
-  - "[[_Standards/WikiData/WD~Prix_du_Brigadier,3405661]]"
-  - "[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]"
-  - "[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]"
-  - "[[_Standards/WikiData/WD~Grand_Officer_of_the_Legion_of_Honour,10855216]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
-  - "[[_Standards/WikiData/WD~Grand_Officer_of_the_National_Order_of_Merit,13422142]]"
-  - "[[_Standards/WikiData/WD~Commander_of_the_National_Order_of_Merit,13422141]]"
-  - "[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Order_of_Leopold,14900497]]"
+  - '[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]'
+  - '[[_Standards/WikiData/WD~Prix_Citron,_Orange_et_Bourgeon,3404470]]'
+  - '[[_Standards/WikiData/WD~Q3404498,3404498]]'
+  - '[[_Standards/WikiData/WD~Prix_du_Brigadier,3405661]]'
+  - '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
+  - '[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]'
+  - '[[_Standards/WikiData/WD~Grand_Officer_of_the_Legion_of_Honour,10855216]]'
+  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+  - '[[_Standards/WikiData/WD~Grand_Officer_of_the_National_Order_of_Merit,13422142]]'
+  - '[[_Standards/WikiData/WD~Commander_of_the_National_Order_of_Merit,13422141]]'
+  - '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+  - '[[_Standards/WikiData/WD~Knight_of_the_Order_of_Leopold,14900497]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Ursula_Andress,211111]]"
-  - "[[_Standards/WikiData/WD~Laura_Antonelli,239404]]"
+  - '[[_Standards/WikiData/WD~Ursula_Andress,211111]]'
+  - '[[_Standards/WikiData/WD~Laura_Antonelli,239404]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~acting,222749]]"
-  - "[[_Standards/WikiData/WD~filmmaking,932586]]"
-  - "[[_Standards/WikiData/WD~directing,93438884]]"
-place_of_death: "[[_Standards/WikiData/WD~7th_arrondissement_of_Paris,259463]]"
+  - '[[_Standards/WikiData/WD~acting,222749]]'
+  - '[[_Standards/WikiData/WD~filmmaking,932586]]'
+  - '[[_Standards/WikiData/WD~directing,93438884]]'
+place_of_death: '[[_Standards/WikiData/WD~7th_arrondissement_of_Paris,259463]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]"
-  - "[[_Standards/WikiData/WD~César_Award_for_Best_Actor,900494]]"
+  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]'
+  - '[[_Standards/WikiData/WD~César_Award_for_Best_Actor,900494]]'
 occupation:
-  - "[[_Standards/WikiData/WD~stunt_performer,465501]]"
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~theatrical_director,3387717]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
+  - '[[_Standards/WikiData/WD~stunt_performer,465501]]'
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~theatrical_director,3387717]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Lycée_Louis_le_Grand,1059546]]"
+  - '[[_Standards/WikiData/WD~Lycée_Louis_le_Grand,1059546]]'
   - "[[_Standards/WikiData/WD~Conservatoire_national_supérieur_d'art_dramatique,1127387]]"
-  - "[[_Standards/WikiData/WD~École_alsacienne,3577716]]"
-father: "[[_Standards/WikiData/WD~Paul_Belmondo,1145608]]"
+  - '[[_Standards/WikiData/WD~École_alsacienne,3577716]]'
+father: '[[_Standards/WikiData/WD~Paul_Belmondo,1145608]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Alain_Belmondo,2829544]]"
-  - "[[_Standards/WikiData/WD~Muriel_Belmondo,108732335]]"
+  - '[[_Standards/WikiData/WD~Alain_Belmondo,2829544]]'
+  - '[[_Standards/WikiData/WD~Muriel_Belmondo,108732335]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Charles,2958359]]"
-  - "[[_Standards/WikiData/WD~Jean_Paul,16798217]]"
+  - '[[_Standards/WikiData/WD~Charles,2958359]]'
+  - '[[_Standards/WikiData/WD~Jean_Paul,16798217]]'
 student_of:
-  - "[[_Standards/WikiData/WD~Georges_Le_Roy,3103055]]"
-  - "[[_Standards/WikiData/WD~Henri_Rollan,3131932]]"
-  - "[[_Standards/WikiData/WD~Marcel_Bazin,3288655]]"
-  - "[[_Standards/WikiData/WD~Raymond_Girard,21427338]]"
+  - '[[_Standards/WikiData/WD~Georges_Le_Roy,3103055]]'
+  - '[[_Standards/WikiData/WD~Henri_Rollan,3131932]]'
+  - '[[_Standards/WikiData/WD~Marcel_Bazin,3288655]]'
+  - '[[_Standards/WikiData/WD~Raymond_Girard,21427338]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Natty_Tardivel,3337073]]"
-  - "[[_Standards/WikiData/WD~Élodie_Constant,108434817]]"
-member_of: "[[_Standards/WikiData/WD~Q3508321,3508321]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Belmondo,21508643]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+  - '[[_Standards/WikiData/WD~Natty_Tardivel,3337073]]'
+  - '[[_Standards/WikiData/WD~Élodie_Constant,108434817]]'
+member_of: '[[_Standards/WikiData/WD~Q3508321,3508321]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Belmondo,21508643]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~The_Times,50008]]"
-relative: "[[_Standards/WikiData/WD~Victor_Belmondo,78469279]]"
-position_held: "[[_Standards/WikiData/WD~Q123701756,123701756]]"
-medical_condition: "[[_Standards/WikiData/WD~stroke,12202]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
-native_language: "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~The_Times,50008]]'
+relative: '[[_Standards/WikiData/WD~Victor_Belmondo,78469279]]'
+position_held: '[[_Standards/WikiData/WD~Q123701756,123701756]]'
+medical_condition: '[[_Standards/WikiData/WD~stroke,12202]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
+native_language: '[[_Standards/WikiData/WD~French,150]]'
 number_of_children: 4
 height: 1.78
-place_of_birth: "[[_Standards/WikiData/WD~Neuilly_sur_Seine,48958]]"
+place_of_birth: '[[_Standards/WikiData/WD~Neuilly_sur_Seine,48958]]'
 nickname: Bébel
 name_in_native_language: Jean-Paul Belmondo
 birth_name: Jean-Paul Charles Belmondo
@@ -95,10 +96,10 @@ date_of_burial_or_cremation: 2021-09-10T00:00:00Z
 Commons_category: Jean-Paul Belmondo
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Belmondo%201960.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Belmondo%20signature%202012.png
-ISNI: "0000000121486124"
+ISNI: 0000000121486124
 RIA_Novosti_reference:
-  - "1748926085"
-  - "931215983"
+  - 1748926085
+  - 931215983
 ---
 
 # [[Belmondo,Jean-Paul]] 

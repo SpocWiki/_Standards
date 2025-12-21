@@ -1,14 +1,15 @@
 ---
 aliases:
   - Heugabel
+  - Pitchfork
 has_id_wikidata: Q107293
 subclass_of:
-  - "[[_Standards/WikiData/WD~agricultural_tool,3629395]]"
-  - "[[_Standards/WikiData/WD~fork,20180908]]"
+  - '[[_Standards/WikiData/WD~agricultural_tool,3629395]]'
+  - '[[_Standards/WikiData/WD~fork,20180908]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-Nomenclature_for_Museum_Cataloging: "3371"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+Nomenclature_for_Museum_Cataloging: 3371
 IMDb_keyword: pitchfork
 Iconclass_notation: 47I15(PITCHFORK)
 Commons_gallery: Pitchfork

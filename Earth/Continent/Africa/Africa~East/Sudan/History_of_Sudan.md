@@ -1,13 +1,15 @@
 ---
 aliases:
   - history of Sudan
+  - History_of_Sudan
+  - History of Sudan
 has_id_wikidata: Q246643
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Sudan,10522567]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-country: "[[_Standards/WikiData/WD~Sudan,1049]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Sudan,10522567]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+country: '[[_Standards/WikiData/WD~Sudan,1049]]'
 Dewey_Decimal_Classification:
-  - "962"
-  - "962.4"
+  - 962
+  - 962.4
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86.wav
 Commons_category: History of Sudan
 ---

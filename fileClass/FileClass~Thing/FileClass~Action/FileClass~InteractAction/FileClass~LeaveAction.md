@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~LeaveAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 fields:
-- id: GXVlFD
-  name: Events
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Event')"
-  type: MultiFile
-  path: ''
+  - id: GXVlFD
+    name: Events
+    options:
+      dvQueryString: dv.pages('#class/Thing/Event')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/LeaveAction
-- class/Thing/Action/InteractAction/LeaveAction
-- is_a_/LeaveAction
-- schema-org/LeaveAction
+  - class/LeaveAction
+  - class/Thing/Action/InteractAction/LeaveAction
+  - is_a_/LeaveAction
+  - schema-org/LeaveAction
 tags:
-- class/FileClass
-- class/LeaveAction
-- is_a_/LeaveAction
-- class/Thing/Action/InteractAction/LeaveAction
+  - class/FileClass
+  - class/LeaveAction
+  - is_a_/LeaveAction
+  - class/Thing/Action/InteractAction/LeaveAction
 version: 2.0
 ---
 

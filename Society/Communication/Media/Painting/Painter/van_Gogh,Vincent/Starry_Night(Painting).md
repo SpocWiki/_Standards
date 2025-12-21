@@ -2,37 +2,39 @@
 aliases:
   - The Starry Night
   - Starry Night
+  - Starry_Night(Painting)
+  - Starry Night(Painting)
 has_id_wikidata: Q45585
 depicts:
-  - "[[_Standards/WikiData/WD~Cupressus,146911]]"
-  - "[[_Standards/WikiData/WD~Saint_Rémy_de_Provence,221507]]"
-  - "[[_Standards/WikiData/WD~Alpilles,2107098]]"
-  - "[[_Standards/WikiData/WD~Moon,405]]"
-  - "[[_Standards/WikiData/WD~star,523]]"
-  - "[[_Standards/WikiData/WD~sky,527]]"
-  - "[[_Standards/WikiData/WD~night,575]]"
-  - "[[_Standards/WikiData/WD~cloud,8074]]"
-location: "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
-collection: "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
+  - '[[_Standards/WikiData/WD~Cupressus,146911]]'
+  - '[[_Standards/WikiData/WD~Saint_Rémy_de_Provence,221507]]'
+  - '[[_Standards/WikiData/WD~Alpilles,2107098]]'
+  - '[[_Standards/WikiData/WD~Moon,405]]'
+  - '[[_Standards/WikiData/WD~star,523]]'
+  - '[[_Standards/WikiData/WD~sky,527]]'
+  - '[[_Standards/WikiData/WD~night,575]]'
+  - '[[_Standards/WikiData/WD~cloud,8074]]'
+location: '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+collection: '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
 owned_by:
-  - "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
-  - "[[_Standards/WikiData/WD~Émile_Schuffenecker,286456]]"
-  - "[[_Standards/WikiData/WD~Theo_Van_Gogh,317188]]"
-  - "[[_Standards/WikiData/WD~Paul_Rosenberg,560643]]"
-  - "[[_Standards/WikiData/WD~Johanna_van_Gogh_Bonger,2554450]]"
-  - "[[_Standards/WikiData/WD~Julien_Leclercq,3189563]]"
-  - "[[_Standards/WikiData/WD~Georgette_Petronella_van_Stolk,123861621]]"
-genre: "[[_Standards/WikiData/WD~landscape_painting,191163]]"
-location_of_creation: "[[_Standards/WikiData/WD~Saint_Rémy_de_Provence,221507]]"
+  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+  - '[[_Standards/WikiData/WD~Émile_Schuffenecker,286456]]'
+  - '[[_Standards/WikiData/WD~Theo_Van_Gogh,317188]]'
+  - '[[_Standards/WikiData/WD~Paul_Rosenberg,560643]]'
+  - '[[_Standards/WikiData/WD~Johanna_van_Gogh_Bonger,2554450]]'
+  - '[[_Standards/WikiData/WD~Julien_Leclercq,3189563]]'
+  - '[[_Standards/WikiData/WD~Georgette_Petronella_van_Stolk,123861621]]'
+genre: '[[_Standards/WikiData/WD~landscape_painting,191163]]'
+location_of_creation: '[[_Standards/WikiData/WD~Saint_Rémy_de_Provence,221507]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~oil_paint,296955]]"
-  - "[[_Standards/WikiData/WD~canvas,12321255]]"
-significant_event: "[[_Standards/WikiData/WD~purchasing,1369832]]"
-instance_of: "[[_Standards/WikiData/WD~painting,3305213]]"
+  - '[[_Standards/WikiData/WD~oil_paint,296955]]'
+  - '[[_Standards/WikiData/WD~canvas,12321255]]'
+significant_event: '[[_Standards/WikiData/WD~purchasing,1369832]]'
+instance_of: '[[_Standards/WikiData/WD~painting,3305213]]'
 inception: 1889-01-01T00:00:00Z
-creator: "[[_Standards/WikiData/WD~Vincent_van_Gogh,5582]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-country_of_origin: "[[_Standards/WikiData/WD~France,142]]"
+creator: '[[_Standards/WikiData/WD~Vincent_van_Gogh,5582]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
 height: 73.7
 width: 92.1
 described_at_URL: http://www.vggallery.com/painting/p_0612.htm
@@ -44,7 +46,7 @@ title:
   - Sterrennacht
   - The Starry Night
 depicts_Iconclass_notation: 24F2
-inventory_number: "472.1941"
+inventory_number: 472.1941
 Commons_gallery: De sterrennacht
 Wolfram_Language_entity_code: Entity["Artwork", "TheStarryNight::VincentVanGogh"]
 Commons_category: The Starry Night by van Gogh

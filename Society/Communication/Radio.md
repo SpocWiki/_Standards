@@ -1,40 +1,42 @@
 ---
+aliases:
+  - Radio
+has_id_wikidata: Q872
 Basisklassifikation: 05.35
 Commons_category: Radio
 Commons_gallery: Radio
 Dewey_Decimal_Classification: 791.4
 different_from:
-- '[[_Standards/WikiData/WD~radio_receiver,159391]]'
-- '[[_Standards/WikiData/WD~radio_broadcasting,273623]]'
-- '[[_Standards/WikiData/WD~broadcasting_service,109680674]]'
-has_id_wikidata: Q872
+  - '[[_Standards/WikiData/WD~radio_receiver,159391]]'
+  - '[[_Standards/WikiData/WD~radio_broadcasting,273623]]'
+  - '[[_Standards/WikiData/WD~broadcasting_service,109680674]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~antenna,131214]]'
-- '[[_Standards/WikiData/WD~radio_receiver,159391]]'
-- '[[_Standards/WikiData/WD~transmitter,190157]]'
-- '[[_Standards/WikiData/WD~modulator,1942300]]'
+  - '[[_Standards/WikiData/WD~antenna,131214]]'
+  - '[[_Standards/WikiData/WD~radio_receiver,159391]]'
+  - '[[_Standards/WikiData/WD~transmitter,190157]]'
+  - '[[_Standards/WikiData/WD~modulator,1942300]]'
 history_of_topic:
-- '[[_Standards/WikiData/WD~history_of_radio,1517374]]'
-- '[[_Standards/WikiData/WD~timeline_of_radio,4501817]]'
+  - '[[_Standards/WikiData/WD~history_of_radio,1517374]]'
+  - '[[_Standards/WikiData/WD~timeline_of_radio,4501817]]'
 Iconclass_notation: 46E63
 image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Biblis%20RFE%20RL%2001.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Pasilan%20linkkitorni.jpg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Biblis%20RFE%20RL%2001.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Pasilan%20linkkitorni.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~technology,11016]]'
+  - '[[_Standards/WikiData/WD~industry,268592]]'
+  - '[[_Standards/WikiData/WD~technology,11016]]'
 International_Standard_Industrial_Classification_code_Rev_4: 6010
 Krugosvet_article: nauka_i_tehnika/transport_i_svyaz/RADIO_I_TELEVIDENIE.html
 Library_of_Congress_Classification:
-- TK
-- PN1991-1991.9
+  - TK
+  - PN1991-1991.9
 MeSH_tree_code:
-- L01.462.500.590.700
-- L01.462.500.820.090.739
-- L01.462.500.847.514
-- J01.897.280.500.739
+  - L01.462.500.590.700
+  - L01.462.500.820.090.739
+  - L01.462.500.847.514
+  - J01.897.280.500.739
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131928,27131928]]'
-schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Amfm3-en-de.gif"
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Amfm3-en-de.gif
 subclass_of: '[[_Standards/WikiData/WD~telecommunication,418]]'
 time_of_discovery_or_invention: 1894
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Radio,50760]]'

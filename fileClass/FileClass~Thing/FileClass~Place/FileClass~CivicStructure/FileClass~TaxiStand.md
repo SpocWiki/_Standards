@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~TaxiStand
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 fields: []
 icon: car
 limit: 9
 mapWithTag: false
 tagNames:
-- class/TaxiStand
-- class/Thing/Place/CivicStructure/TaxiStand
-- is_a_/TaxiStand
-- schema-org/TaxiStand
+  - class/TaxiStand
+  - class/Thing/Place/CivicStructure/TaxiStand
+  - is_a_/TaxiStand
+  - schema-org/TaxiStand
 tags:
-- class/FileClass
-- class/TaxiStand
-- is_a_/TaxiStand
-- class/Thing/Place/CivicStructure/TaxiStand
+  - class/FileClass
+  - class/TaxiStand
+  - is_a_/TaxiStand
+  - class/Thing/Place/CivicStructure/TaxiStand
 version: 2.0
 ---
 

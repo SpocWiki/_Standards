@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Woody Harrelson"
-- "Woodrow Tracy Harrelson"
+  - Woody Harrelson
+  - Woodrow Tracy Harrelson
+  - Harrelson,Woody
 ---
 
 #has_/time_/started :: 1961-07-23 

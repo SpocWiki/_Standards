@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Group-05-Vanadium
 has_id_wikidata: Q193276
 type: ElementGroup
 ---

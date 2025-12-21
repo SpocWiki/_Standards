@@ -1,17 +1,19 @@
 ---
 aliases:
   - Boolean algebra
+  - Boolean_Algebra
+  - Boolean Algebra
 has_id_wikidata: Q173183
-named_after: "[[_Standards/WikiData/WD~George_Boole,134661]]"
+named_after: '[[_Standards/WikiData/WD~George_Boole,134661]]'
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~Boolean_function,942353]]"
-  - "[[_Standards/WikiData/WD~Boolean_algebra,4973304]]"
-instance_of: "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-different_from: "[[_Standards/WikiData/WD~Boolean_algebra,4973304]]"
-subclass_of: "[[_Standards/WikiData/WD~algebra,3968]]"
+  - '[[_Standards/WikiData/WD~Boolean_function,942353]]'
+  - '[[_Standards/WikiData/WD~Boolean_algebra,4973304]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+different_from: '[[_Standards/WikiData/WD~Boolean_algebra,4973304]]'
+subclass_of: '[[_Standards/WikiData/WD~algebra,3968]]'
 Stack_Exchange_tag: https://math.stackexchange.com/tags/boolean-algebra
-Dewey_Decimal_Classification: "511.324"
-P8189: "987007293933005171"
+Dewey_Decimal_Classification: 511.324
+P8189: 987007293933005171
 Commons_category: Boolean algebra
 Krugosvet_article: nauka_i_tehnika/matematika/ALGEBRA_VISKAZIVANI.html
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LogicGates.svg

@@ -4,21 +4,23 @@ aliases:
   - album_release
   - AlbumRelease
   - is_an_album_release
+  - Album_Release
+  - Album Release
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MusicAlbumReleaseType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - album_release
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_album_release Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

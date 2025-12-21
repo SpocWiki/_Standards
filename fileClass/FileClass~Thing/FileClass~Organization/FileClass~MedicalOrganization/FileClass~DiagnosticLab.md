@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DiagnosticLab
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization
 fields:
-- id: xijSKP
-  name: AvailableTest
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalTest')"
-  type: MultiFile
-  path: ''
+  - id: xijSKP
+    name: AvailableTest
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalTest')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DiagnosticLab
-- class/Thing/Organization/MedicalOrganization/DiagnosticLab
-- is_a_/DiagnosticLab
-- schema-org/DiagnosticLab
+  - class/DiagnosticLab
+  - class/Thing/Organization/MedicalOrganization/DiagnosticLab
+  - is_a_/DiagnosticLab
+  - schema-org/DiagnosticLab
 tags:
-- class/FileClass
-- class/DiagnosticLab
-- is_a_/DiagnosticLab
-- class/Thing/Organization/MedicalOrganization/DiagnosticLab
+  - class/FileClass
+  - class/DiagnosticLab
+  - is_a_/DiagnosticLab
+  - class/Thing/Organization/MedicalOrganization/DiagnosticLab
 version: 2.0
 ---
 

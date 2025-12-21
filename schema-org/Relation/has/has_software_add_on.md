@@ -3,12 +3,13 @@ aliases:
   - has software-add-on
   - softwareAddOn
   - has_software_add_on
+  - has software add on
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - software
   - add
   - on
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_software_add_on
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

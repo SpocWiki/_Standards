@@ -3,12 +3,13 @@ aliases:
   - has lodging-unit-type
   - lodgingUnitType
   - has_lodging_unit_type
+  - has lodging unit type
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - lodging
   - unit
   - type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_lodging_unit_type
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

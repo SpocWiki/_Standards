@@ -4,20 +4,22 @@ aliases:
   - quantitative_value
   - QuantitativeValue
   - is_a_quantitative_value
+  - Quantitative_Value
+  - Quantitative Value
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - quantitative_value
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_quantitative_value Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

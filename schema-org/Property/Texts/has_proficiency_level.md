@@ -4,22 +4,24 @@ aliases:
   - proficiency_level
   - proficiencyLevel
   - has_text_of_proficiency_level
+  - has_proficiency_level
+  - has proficiency level
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - proficiency
   - level
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_proficiency_level
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

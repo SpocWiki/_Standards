@@ -4,20 +4,22 @@ aliases:
   - bus_reservation
   - BusReservation
   - is_a_bus_reservation
+  - Bus_Reservation
+  - Bus Reservation
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - bus_reservation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_bus_reservation Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

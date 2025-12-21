@@ -1,23 +1,24 @@
 ---
 aliases:
   - has_associated_disease
+  - has associated disease
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - associated
   - disease
   - associatedDisease
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_associated_disease
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -4,20 +4,22 @@ aliases:
   - music_recording
   - MusicRecording
   - is_a_music_recording
+  - Music_Recording
+  - Music Recording
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - music_recording
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_music_recording Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

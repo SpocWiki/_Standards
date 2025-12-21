@@ -1,5 +1,4 @@
 ---
-age_of_majority: 18
 aliases:
   - China
   - Chine
@@ -16,6 +15,8 @@ aliases:
   - chinesische
   - chinesisches
   - People's_Republic_of_China
+has_id_wikidata: Q148
+age_of_majority: 18
 anthem: "[[_Standards/WikiData/WD~March_of_the_Volunteers,156136]]"
 archives_at: "[[_Standards/WikiData/WD~Hong_Kong_Baptist_University_Library_Special_Collections_&_Archives,117812074]]"
 area: 9596961
@@ -404,7 +405,7 @@ ethnic_group:
   - "[[_Standards/WikiData/WD~Han_Chinese_people,42740]]"
   - "[[_Standards/WikiData/WD~Uyghurs,46118]]"
 executive_body: "[[_Standards/WikiData/WD~State_Council_of_the_People's_Republic_of_China,59261]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 688438768
   - 690171848
@@ -425,7 +426,6 @@ GS1_country_code: 690-699
 Happy_Planet_Index_score: 41.9
 hashtag: China
 has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
-has_id_wikidata: Q148
 has_time_started: 1949-10-01
 head_of_government: "[[_Standards/WikiData/WD~Li_Qiang,4414390]]"
 head_of_state: "[[_Standards/WikiData/WD~Xi_Jinping,15031]]"
@@ -462,7 +462,7 @@ ISO_3166_1_alpha_3_code: CHN
 ISO_3166_1_numeric_code: 156
 isReadOnly: false
 ITU_letter_code: CHN
-keywords:
+keywords: ""
 Krugosvet_article: strany-mira/kitay
 Languages:
   - zh-CN
@@ -751,14 +751,14 @@ language_used:
   - "[[_Standards/WikiData/WD~Central_Hongshuihe_Zhuang,63341278]]"
   - "[[_Standards/WikiData/WD~Lianshan_Zhuang,63341346]]"
   - "[[_Standards/WikiData/WD~Liuqian_Zhuang,63341349]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~National_People's_Congress,19211]]"
 Library_of_Congress_Classification: DS777.545-DS779.32
 Libris_URI: khwzxm2321g72mt
 licence_plate_code: RC
 license: CC BY-SA 4.0
 life_expectancy: 79
-linkTitle:
+linkTitle: ""
 literacy_rate: 96.8
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~China,29520]]"
 located_in_time_zone:
@@ -871,7 +871,7 @@ public_holiday:
   - "[[_Standards/WikiData/WD~International_Women's_Day,38964]]"
   - "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750]]"
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/China%27s%203D%20map%20by%20Patrick.jpg
 replaces:

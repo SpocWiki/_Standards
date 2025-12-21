@@ -2,30 +2,31 @@
 aliases:
   - persuasion
   - discourse
+  - Rhetoric
 has_id_wikidata: Q81009
-practiced_by: "[[_Standards/WikiData/WD~rhetorician,361809]]"
+practiced_by: '[[_Standards/WikiData/WD~rhetorician,361809]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-different_from: "[[_Standards/WikiData/WD~Q1469112,1469112]]"
-uses: "[[_Standards/WikiData/WD~rhetorical_device,1762471]]"
-subclass_of: "[[_Standards/WikiData/WD~method,1799072]]"
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+different_from: '[[_Standards/WikiData/WD~Q1469112,1469112]]'
+uses: '[[_Standards/WikiData/WD~rhetorical_device,1762471]]'
+subclass_of: '[[_Standards/WikiData/WD~method,1799072]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~communication_studies,11680831]]"
-  - "[[_Standards/WikiData/WD~interaction_science,97008347]]"
-is_the_study_of: "[[_Standards/WikiData/WD~communication_studies,11680831]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Rhetoric,22735443]]"
-part_of: "[[_Standards/WikiData/WD~communication,11024]]"
-Dewey_Decimal_Classification: "800"
+  - '[[_Standards/WikiData/WD~communication_studies,11680831]]'
+  - '[[_Standards/WikiData/WD~interaction_science,97008347]]'
+is_the_study_of: '[[_Standards/WikiData/WD~communication_studies,11680831]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Rhetoric,22735443]]'
+part_of: '[[_Standards/WikiData/WD~communication,11024]]'
+Dewey_Decimal_Classification: 800
 Library_of_Congress_Classification: P301-P301.5
-OmegaWiki_Defined_Meaning: "1748188"
+OmegaWiki_Defined_Meaning: 1748188
 Commons_category: Rhetoric
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cicero%20Denounces%20Catiline%20in%20the%20Roman%20Senate%20by%20Cesare%20Maccari.png
 Provenio_UUID: 92221422-9109-4757-86f0-a894780a91b5

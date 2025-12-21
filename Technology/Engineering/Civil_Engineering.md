@@ -1,40 +1,42 @@
 ---
 aliases:
   - Civil engineering
+  - Civil_Engineering
+  - Civil Engineering
 has_id_wikidata: Q77590
 different_from:
-  - "[[_Standards/WikiData/WD~mechanical_engineering,101333]]"
-  - "[[_Standards/WikiData/WD~structural_engineering,633538]]"
-  - "[[_Standards/WikiData/WD~design_engineering,5638464]]"
-  - "[[_Standards/WikiData/WD~civil_engineering,73303844]]"
-part_of: "[[_Standards/WikiData/WD~academic_degree,189533]]"
+  - '[[_Standards/WikiData/WD~mechanical_engineering,101333]]'
+  - '[[_Standards/WikiData/WD~structural_engineering,633538]]'
+  - '[[_Standards/WikiData/WD~design_engineering,5638464]]'
+  - '[[_Standards/WikiData/WD~civil_engineering,73303844]]'
+part_of: '[[_Standards/WikiData/WD~academic_degree,189533]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_work,627436]]"
-  - "[[_Standards/WikiData/WD~branch_of_engineering,12015335]]"
+  - '[[_Standards/WikiData/WD~field_of_work,627436]]'
+  - '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~structural_engineering,633538]]"
-  - "[[_Standards/WikiData/WD~transportation_engineering,775325]]"
-  - "[[_Standards/WikiData/WD~construction_management,811115]]"
-  - "[[_Standards/WikiData/WD~geotechnical_engineering,1349130]]"
-  - "[[_Standards/WikiData/WD~construction_engineering,2674423]]"
-  - "[[_Standards/WikiData/WD~foundation_engineering,11888449]]"
+  - '[[_Standards/WikiData/WD~structural_engineering,633538]]'
+  - '[[_Standards/WikiData/WD~transportation_engineering,775325]]'
+  - '[[_Standards/WikiData/WD~construction_management,811115]]'
+  - '[[_Standards/WikiData/WD~geotechnical_engineering,1349130]]'
+  - '[[_Standards/WikiData/WD~construction_engineering,2674423]]'
+  - '[[_Standards/WikiData/WD~foundation_engineering,11888449]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~engineer_of_the_French_Corps_of_Bridges_and_Roads,650012]]"
-  - "[[_Standards/WikiData/WD~State_Public_Works_Engineering_Corps_(France),3151036]]"
-  - "[[_Standards/WikiData/WD~civil_engineer,13582652]]"
-relevant_qualification: "[[_Standards/WikiData/WD~Ordre_des_ingénieurs_du_Québec,782655]]"
-studied_by: "[[_Standards/WikiData/WD~civil_engineering_studies,106372013]]"
-subclass_of: "[[_Standards/WikiData/WD~engineering,11023]]"
+  - '[[_Standards/WikiData/WD~engineer_of_the_French_Corps_of_Bridges_and_Roads,650012]]'
+  - '[[_Standards/WikiData/WD~State_Public_Works_Engineering_Corps_(France),3151036]]'
+  - '[[_Standards/WikiData/WD~civil_engineer,13582652]]'
+relevant_qualification: '[[_Standards/WikiData/WD~Ordre_des_ingénieurs_du_Québec,782655]]'
+studied_by: '[[_Standards/WikiData/WD~civil_engineering_studies,106372013]]'
+subclass_of: '[[_Standards/WikiData/WD~engineering,11023]]'
 Colon_Classification: D1
-IAB_code: "120"
-Dewey_Decimal_Classification: "624"
-OmegaWiki_Defined_Meaning: "593"
+IAB_code: 120
+Dewey_Decimal_Classification: 624
+OmegaWiki_Defined_Meaning: 593
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Burj%20Dubai%20Evolution.ogv
 Commons_category: Civil engineering
-U_S_National_Archives_Identifier: "10638585"
+U_S_National_Archives_Identifier: 10638585
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Washington%20Cog%20Railway%20October%202021%20020.jpg
 Stack_Exchange_tag: https://engineering.stackexchange.com/tags/civil-engineering
-P8189: "987007283808505171"
+P8189: 987007283808505171
 Provenio_UUID: 9f217644-8199-4605-be2c-b4706eabf153
 GitHub_topic: civil-engineering
 subreddit: civilengineering

@@ -2,6 +2,8 @@
 aliases:
   - beta decay
   - β-decay
+  - Beta_Decay
+  - Beta Decay
 has_id_wikidata: Q306786
 ---
 

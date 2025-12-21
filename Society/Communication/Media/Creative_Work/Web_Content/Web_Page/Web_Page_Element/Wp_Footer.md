@@ -4,20 +4,22 @@ aliases:
   - wp_footer
   - WPFooter
   - is_a_wp_footer
+  - Wp_Footer
+  - Wp Footer
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wp_footer
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wp_footer Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

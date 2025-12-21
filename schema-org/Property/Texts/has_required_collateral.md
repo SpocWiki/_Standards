@@ -4,22 +4,24 @@ aliases:
   - required_collateral
   - requiredCollateral
   - has_text_of_required_collateral
+  - has_required_collateral
+  - has required collateral
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - required
   - collateral
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_required_collateral
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

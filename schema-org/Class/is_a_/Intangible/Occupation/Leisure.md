@@ -1,25 +1,26 @@
 ---
 aliases:
   - Freizeit
+  - Leisure
 has_id_wikidata: Q180910
 has_part_s_:
-  - "[[_Standards/WikiData/WD~entertainment,173799]]"
-  - "[[_Standards/WikiData/WD~recreation,184872]]"
-opposite_of: "[[../../../../../WikiData/WD~work,268378]]"
+  - '[[_Standards/WikiData/WD~entertainment,173799]]'
+  - '[[_Standards/WikiData/WD~recreation,184872]]'
+opposite_of: '[[../../../../../WikiData/WD~work,268378]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~retirement,946865]]"
-  - "[[_Standards/WikiData/WD~reduction_of_working_hours,3454697]]"
-  - "[[_Standards/WikiData/WD~annual_leave,5338673]]"
-does_not_have_cause: "[[_Standards/WikiData/WD~parenting,1217379]]"
-studied_by: "[[_Standards/WikiData/WD~sociology_of_leisure,1454999]]"
-subclass_of: "[[_Standards/WikiData/WD~human_behavior,3769299]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q12893806,12893806]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
+  - '[[_Standards/WikiData/WD~retirement,946865]]'
+  - '[[_Standards/WikiData/WD~reduction_of_working_hours,3454697]]'
+  - '[[_Standards/WikiData/WD~annual_leave,5338673]]'
+does_not_have_cause: '[[_Standards/WikiData/WD~parenting,1217379]]'
+studied_by: '[[_Standards/WikiData/WD~sociology_of_leisure,1454999]]'
+subclass_of: '[[_Standards/WikiData/WD~human_behavior,3769299]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12893806,12893806]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-Dewey_Decimal_Classification: "175"
+  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+Dewey_Decimal_Classification: 175
 Commons_category: Leisure
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Hern%C3%A1ndez%20-%20Leisure%20Moments.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Freizeit%20im%20antiken%20Rom%20%28CC%20BY%204.0%29.webm
@@ -28,7 +29,7 @@ described_at_URL:
   - http://www.treccani.it/enciclopedia/tempo-libero_%28Dizionario-di-Economia-e-Finanza%29/
   - http://www.treccani.it/enciclopedia/tempo-libero_%28Enciclopedia-del-Novecento%29/
   - http://www.treccani.it/enciclopedia/tempo-libero_%28Enciclopedia-delle-scienze-sociali%29/
-U_S_National_Archives_Identifier: "10639521"
+U_S_National_Archives_Identifier: 10639521
 IPTC_NewsCode: mediatopic/20000538
 ---
 

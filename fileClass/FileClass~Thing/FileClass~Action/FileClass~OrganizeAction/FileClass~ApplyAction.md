@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ApplyAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ApplyAction
-- class/Thing/Action/OrganizeAction/ApplyAction
-- is_an_/ApplyAction
-- schema-org/ApplyAction
+  - class/ApplyAction
+  - class/Thing/Action/OrganizeAction/ApplyAction
+  - is_an_/ApplyAction
+  - schema-org/ApplyAction
 tags:
-- class/FileClass
-- class/ApplyAction
-- '#is_an_/ApplyAction'
-- class/Thing/Action/OrganizeAction/ApplyAction
+  - class/FileClass
+  - class/ApplyAction
+  - '#is_an_/ApplyAction'
+  - class/Thing/Action/OrganizeAction/ApplyAction
 version: 2.0
 ---
 

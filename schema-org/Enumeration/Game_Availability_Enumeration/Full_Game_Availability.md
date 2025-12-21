@@ -4,21 +4,23 @@ aliases:
   - full_game_availability
   - FullGameAvailability
   - is_a_full_game_availability
+  - Full_Game_Availability
+  - Full Game Availability
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: GameAvailabilityEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - full_game_availability
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_full_game_availability Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

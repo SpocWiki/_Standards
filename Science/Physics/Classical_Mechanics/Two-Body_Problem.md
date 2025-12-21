@@ -1,13 +1,15 @@
 ---
 aliases:
   - Zweikörperproblem
+  - Two-Body_Problem
+  - Two-Body Problem
 has_id_wikidata: Q232976
-followed_by: "[[_Standards/WikiData/WD~three_body_problem,607699]]"
+followed_by: '[[_Standards/WikiData/WD~three_body_problem,607699]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~task,759676]]"
-  - "[[_Standards/WikiData/WD~N_body_problem,1199050]]"
-  - "[[_Standards/WikiData/WD~integrable_system,1957758]]"
-field_of_work: "[[_Standards/WikiData/WD~classical_mechanics,11397]]"
+  - '[[_Standards/WikiData/WD~task,759676]]'
+  - '[[_Standards/WikiData/WD~N_body_problem,1199050]]'
+  - '[[_Standards/WikiData/WD~integrable_system,1957758]]'
+field_of_work: '[[_Standards/WikiData/WD~classical_mechanics,11397]]'
 Commons_category: Two-body problem
 ---
 

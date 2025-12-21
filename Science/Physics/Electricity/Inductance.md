@@ -1,6 +1,7 @@
 ---
 aliases:
   - Induktivität
+  - Inductance
 has_id_wikidata: Q177897
 ---
 

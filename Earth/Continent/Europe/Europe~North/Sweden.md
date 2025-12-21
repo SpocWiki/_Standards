@@ -12,13 +12,13 @@ aliases:
   - schwedische
   - schwedischer
   - schwedisches
+has_id_wikidata: Q34
 location:
   - 59.7646
   - 16.5434
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q34
 SpocWebEntityId: 27013
 isDeleted: false
 confidential: public
@@ -29,12 +29,12 @@ cssclasses:
   - Country
 publish: true
 title: Sweden
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 Languages:
   - sv-SE
   - se
@@ -309,7 +309,7 @@ nominal_GDP:
   - 585939170124
 Baidu_Tieba_name: 瑞典
 UMLS_CUI: C0038995
-inception: "0900"
+inception: 900
 has_time_started: 0900-06
 coordinates_of_westernmost_point: Point(10.9575 58.928611111)
 diplomatic_relation:

@@ -3,23 +3,24 @@ aliases:
   - has value-reference
   - valueReference
   - has_value_reference
+  - has value reference
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - value_reference
   - value
   - reference
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_value_reference
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~OrganizeAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/OrganizeAction
-- class/Thing/Action/OrganizeAction
-- is_an_/OrganizeAction
-- schema-org/OrganizeAction
+  - class/OrganizeAction
+  - class/Thing/Action/OrganizeAction
+  - is_an_/OrganizeAction
+  - schema-org/OrganizeAction
 tags:
-- class/FileClass
-- class/OrganizeAction
-- '#is_an_/OrganizeAction'
-- class/Thing/Action/OrganizeAction
+  - class/FileClass
+  - class/OrganizeAction
+  - '#is_an_/OrganizeAction'
+  - class/Thing/Action/OrganizeAction
 version: 2.0
 ---
 

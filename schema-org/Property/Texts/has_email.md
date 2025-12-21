@@ -1,30 +1,32 @@
 ---
 aliases:
-- email
-- email
-- email
-- has_text_of_email
-- "schema:email"
-- "dbo:email"
-- "wdt:P968"
+  - email
+  - email
+  - email
+  - has_text_of_email
+  - schema:email
+  - dbo:email
+  - wdt:P968
+  - has_email
+  - has email
 confidential: public
 cssclasses:
-- Predicate
-- Text
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- email
-layout: 
-license: "CC BY-SA 4.0"
+  - email
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_text_of_email
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_email
 type: Pred_Text
 ---

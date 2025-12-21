@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ferromagnetismus
+  - Ferromagnetism
 has_id_wikidata: Q184207
 characteristic_of: "[[_Standards/WikiData/WD~chemical_substance,79529]]"
 different_from: "[[_Standards/WikiData/WD~ferrimagnetism,217121]]"
@@ -14,7 +15,7 @@ subclass_of:
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 facet_of: "[[_Standards/WikiData/WD~ferromagnetic_material,9259184]]"
 named_after: "[[_Standards/WikiData/WD~iron,677]]"
-OmegaWiki_Defined_Meaning: "1114551"
+OmegaWiki_Defined_Meaning: 1114551
 Commons_category: Ferromagnetism
 Unicode_character: 🧲
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MagnetEZ.jpg
@@ -22,7 +23,7 @@ Stack_Exchange_tag: https://physics.stackexchange.com/tags/ferromagnetism
 IEV_number: 121-12-41
 ---
 
-# [[Ferromagnetism]] 
+# [[Ferromagnetism]] 🧲 
 
 #is_/same_as :: [[../../../../WikiData/WD~Ferromagnetism,184207|WD~Ferromagnetism,184207]] 
 

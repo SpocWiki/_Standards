@@ -1,7 +1,8 @@
 ---
-has_id_wikidata: Q164399
 aliases:
   - Kapazität
+  - Capacitance
+has_id_wikidata: Q164399
 subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
   - "[[_Standards/WikiData/WD~scalar_quantity,181175]]"
@@ -20,7 +21,7 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,848
 different_from: "[[_Standards/WikiData/WD~charge_capacity,18021646]]"
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>C</mi><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mi>Q</mi></mrow><mrow data-mjx-texclass="ORD"><mi>U</mi></mrow></mfrac></mrow></mstyle></mrow></math>
 facet_of: "[[_Standards/WikiData/WD~electricity,12725]]"
-OmegaWiki_Defined_Meaning: "845009"
+OmegaWiki_Defined_Meaning: 845009
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>Q</mi></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>C</mi></mstyle></mrow></math>

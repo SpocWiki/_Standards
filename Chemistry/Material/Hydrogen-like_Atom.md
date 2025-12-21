@@ -2,9 +2,11 @@
 aliases:
   - hydrogen-like atom
   - hydrogenic atom
+  - Hydrogen-like_Atom
+  - Hydrogen-like Atom
 has_id_wikidata: Q2333783
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-subclass_of: "[[_Standards/WikiData/WD~atom,9121]]"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+subclass_of: '[[_Standards/WikiData/WD~atom,9121]]'
 ---
 
 # [[Hydrogen-like_Atom]] 

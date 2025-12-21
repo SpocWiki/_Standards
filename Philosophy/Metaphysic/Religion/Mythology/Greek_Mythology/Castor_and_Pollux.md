@@ -6,6 +6,7 @@ aliases:
   - Polydeuces
   - Dioscuri
   - Dioskouroi
+  - Castor_and_Pollux
 has_id_wikidata: Q190103
 ---
 

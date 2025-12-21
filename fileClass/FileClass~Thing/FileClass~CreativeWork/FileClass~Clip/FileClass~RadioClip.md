@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~RadioClip
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Clip
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/RadioClip
-- class/Thing/CreativeWork/Clip/RadioClip
-- is_a_/RadioClip
-- schema-org/RadioClip
+  - class/RadioClip
+  - class/Thing/CreativeWork/Clip/RadioClip
+  - is_a_/RadioClip
+  - schema-org/RadioClip
 tags:
-- class/FileClass
-- class/RadioClip
-- is_a_/RadioClip
-- class/Thing/CreativeWork/Clip/RadioClip
+  - class/FileClass
+  - class/RadioClip
+  - is_a_/RadioClip
+  - class/Thing/CreativeWork/Clip/RadioClip
 version: 2.0
 ---
 

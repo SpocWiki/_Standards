@@ -1,6 +1,7 @@
 ---
 aliases:
   - Upper Paleolithic Revolution
+  - Cognitive Revolution
 ---
 
 # [[Cognitive Revolution]] 

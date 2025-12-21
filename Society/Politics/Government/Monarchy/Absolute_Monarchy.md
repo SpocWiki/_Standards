@@ -1,20 +1,22 @@
 ---
 aliases:
   - Absolute monarchy
+  - Absolute_Monarchy
+  - Absolute Monarchy
 has_id_wikidata: Q184558
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-instance_of: "[[_Standards/WikiData/WD~form_of_government,1307214]]"
-has_characteristic: "[[_Standards/WikiData/WD~absolutism,7184037]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214]]'
+has_characteristic: '[[_Standards/WikiData/WD~absolutism,7184037]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~absolutism,7184037]]"
-  - "[[_Standards/WikiData/WD~monarchy,7269]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q8722222,8722222]]"
+  - '[[_Standards/WikiData/WD~absolutism,7184037]]'
+  - '[[_Standards/WikiData/WD~monarchy,7269]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q8722222,8722222]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20XIV%20of%20France.jpg
 Colon_Classification: W41
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Absolute%20Monarchie-article.ogg

@@ -4,20 +4,22 @@ aliases:
   - tourist_destination
   - TouristDestination
   - is_a_tourist_destination
+  - Tourist_Destination
+  - Tourist Destination
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - tourist_destination
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_tourist_destination Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

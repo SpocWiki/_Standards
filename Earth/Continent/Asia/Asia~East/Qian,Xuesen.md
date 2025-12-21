@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Father of Chinese Rocketry"
+  - Father of Chinese Rocketry
+  - Qian,Xuesen
 ---
 
 # [[Qian,Xuesen]] 

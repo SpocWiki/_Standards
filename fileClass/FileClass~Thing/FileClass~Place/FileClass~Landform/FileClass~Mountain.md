@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Mountain
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform
 fields: []
 icon: mountain
 limit: 9
 mapWithTag: false
 tagNames:
-- class/Mountain
-- class/Thing/Place/Landform/Mountain
-- is_a_/Mountain
-- schema-org/Mountain
+  - class/Mountain
+  - class/Thing/Place/Landform/Mountain
+  - is_a_/Mountain
+  - schema-org/Mountain
 tags:
-- class/FileClass
-- class/Mountain
-- is_a_/Mountain
-- class/Thing/Place/Landform/Mountain
+  - class/FileClass
+  - class/Mountain
+  - is_a_/Mountain
+  - class/Thing/Place/Landform/Mountain
 version: 2.0
 ---
 

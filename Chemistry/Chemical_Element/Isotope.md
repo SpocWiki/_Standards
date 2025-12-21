@@ -1,20 +1,21 @@
 ---
 aliases:
   - Isotop
+  - Isotope
 has_id_wikidata: Q25276
-different_from: "[[_Standards/WikiData/WD~nuclide,108149]]"
-subclass_of: "[[_Standards/WikiData/WD~nuclide,108149]]"
-instance_of: "[[_Standards/WikiData/WD~second_order_class,24017414]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~introduction_to_isotopes,113332700]]"
+different_from: '[[_Standards/WikiData/WD~nuclide,108149]]'
+subclass_of: '[[_Standards/WikiData/WD~nuclide,108149]]'
+instance_of: '[[_Standards/WikiData/WD~second_order_class,24017414]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~introduction_to_isotopes,113332700]]'
 properties_for_this_type: natural abundance
-is_metaclass_for: "[[_Standards/WikiData/WD~chemical_element,11344]]"
-metasubclass_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
-OmegaWiki_Defined_Meaning: "2035"
+is_metaclass_for: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+metasubclass_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+OmegaWiki_Defined_Meaning: 2035
 Dewey_Decimal_Classification:
-  - "539.723"
-  - "539.74"
-  - "541.388"
-  - "660.2988"
+  - 539.723
+  - 539.74
+  - 541.388
+  - 660.2988
 Wolfram_Language_entity_type: Isotope
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen%20Deuterium%20Tritium%20Nuclei%20Schmatic-de.svg

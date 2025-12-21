@@ -4,22 +4,23 @@ aliases:
   - call_sign
   - callSign
   - has_name_call_sign
+  - has name call sign
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - call
   - sign
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_name_call_sign
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

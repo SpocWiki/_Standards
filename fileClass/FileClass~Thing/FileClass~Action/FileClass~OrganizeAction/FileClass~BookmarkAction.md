@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~BookmarkAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/BookmarkAction
-- class/Thing/Action/OrganizeAction/BookmarkAction
-- is_a_/BookmarkAction
-- schema-org/BookmarkAction
+  - class/BookmarkAction
+  - class/Thing/Action/OrganizeAction/BookmarkAction
+  - is_a_/BookmarkAction
+  - schema-org/BookmarkAction
 tags:
-- class/FileClass
-- class/BookmarkAction
-- is_a_/BookmarkAction
-- class/Thing/Action/OrganizeAction/BookmarkAction
+  - class/FileClass
+  - class/BookmarkAction
+  - is_a_/BookmarkAction
+  - class/Thing/Action/OrganizeAction/BookmarkAction
 version: 2.0
 ---
 

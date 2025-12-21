@@ -4,21 +4,22 @@ aliases:
   - answer_count
   - answerCount
   - has_number_of_answers
+  - has number of answers
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - answer_count
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_answer_count
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

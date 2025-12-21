@@ -4,6 +4,8 @@ aliases:
   - scalar product
   - inner product
   - projection product
+  - Scalar_Product
+  - Scalar Product
 has_id_wikidata: Q181365
 subclass_of:
   - "[[_Standards/WikiData/WD~binary_operation,164307]]"

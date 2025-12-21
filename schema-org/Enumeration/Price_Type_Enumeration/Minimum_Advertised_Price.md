@@ -4,21 +4,23 @@ aliases:
   - minimum_advertised_price
   - MinimumAdvertisedPrice
   - is_a_minimum_advertised_price
+  - Minimum_Advertised_Price
+  - Minimum Advertised Price
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: PriceTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - minimum_advertised_price
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_minimum_advertised_price Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

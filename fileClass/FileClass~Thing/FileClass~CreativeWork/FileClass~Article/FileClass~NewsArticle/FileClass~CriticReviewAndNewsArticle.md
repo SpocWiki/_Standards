@@ -1,72 +1,74 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CriticReviewAndNewsArticle
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle
 fields:
-- id: abR1Dm
-  name: AssociatedClaimReview
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Review')"
-  type: MultiFile
-  path: ''
-- id: nAUIin
-  name: AssociatedMediaReview
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Review')"
-  type: MultiFile
-  path: ''
-- id: x28tiV
-  name: AssociatedReview
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Review')"
-  type: MultiFile
-  path: ''
-- id: IPdtMw
-  name: ItemReviewed
-  options:
-    dvQueryString: "dv.pages('#class/Thing')"
-  type: MultiFile
-  path: ''
-- id: Kd4xVU
-  name: NegativeNotes
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/ItemList')"
-  type: MultiFile
-  path: ''
-- id: iZdbSf
-  name: PositiveNotes
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/ItemList')"
-  type: MultiFile
-  path: ''
-- id: XXFXio
-  name: ReviewAspect
-  options: {}
-  type: Input
-  path: ''
-- id: fhCYFX
-  name: ReviewBody
-  options: {}
-  type: Input
-  path: ''
-- id: gQxNI9
-  name: ReviewRating
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Rating')"
-  type: MultiFile
-  path: ''
+  - id: abR1Dm
+    name: AssociatedClaimReview
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+    type: MultiFile
+    path: ''
+  - id: nAUIin
+    name: AssociatedMediaReview
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+    type: MultiFile
+    path: ''
+  - id: x28tiV
+    name: AssociatedReview
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+    type: MultiFile
+    path: ''
+  - id: IPdtMw
+    name: ItemReviewed
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ''
+  - id: Kd4xVU
+    name: NegativeNotes
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
+    type: MultiFile
+    path: ''
+  - id: iZdbSf
+    name: PositiveNotes
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
+    type: MultiFile
+    path: ''
+  - id: XXFXio
+    name: ReviewAspect
+    options: {}
+    type: Input
+    path: ''
+  - id: fhCYFX
+    name: ReviewBody
+    options: {}
+    type: Input
+    path: ''
+  - id: gQxNI9
+    name: ReviewRating
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Rating')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CriticReviewAndNewsArticle
-- class/Thing/CreativeWork/Article/NewsArticle/CriticReviewAndNewsArticle
-- is_a_/CriticReviewAndNewsArticle
-- schema-org/CriticReviewAndNewsArticle
+  - class/CriticReviewAndNewsArticle
+  - class/Thing/CreativeWork/Article/NewsArticle/CriticReviewAndNewsArticle
+  - is_a_/CriticReviewAndNewsArticle
+  - schema-org/CriticReviewAndNewsArticle
 tags:
-- class/FileClass
-- class/CriticReviewAndNewsArticle
-- is_a_/CriticReviewAndNewsArticle
-- class/Thing/CreativeWork/Article/NewsArticle/CriticReviewAndNewsArticle
+  - class/FileClass
+  - class/CriticReviewAndNewsArticle
+  - is_a_/CriticReviewAndNewsArticle
+  - class/Thing/CreativeWork/Article/NewsArticle/CriticReviewAndNewsArticle
 version: 2.0
 ---
 

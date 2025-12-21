@@ -2,27 +2,28 @@
 aliases:
   - Degree Fahrenheit
   - Grad Fahrenheit
+  - Degree_Fahrenheit
 has_id_wikidata: Q42289
 different_from:
-  - "[[_Standards/WikiData/WD~french_degree,3021268]]"
-  - "[[_Standards/WikiData/WD~degree_Fahrenheit_difference,69364146]]"
-  - "[[_Standards/WikiData/WD~Fahrenheit_scale,105525247]]"
+  - '[[_Standards/WikiData/WD~french_degree,3021268]]'
+  - '[[_Standards/WikiData/WD~degree_Fahrenheit_difference,69364146]]'
+  - '[[_Standards/WikiData/WD~Fahrenheit_scale,105525247]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~unit_without_standard_conversion_to_SI,21684377]]"
-  - "[[_Standards/WikiData/WD~unit_of_thermodynamic_temperature,68723978]]"
-  - "[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~degree_Rankine,37732658]]"
-measurement_scale: "[[_Standards/WikiData/WD~Fahrenheit_scale,105525247]]"
-measured_physical_quantity: "[[_Standards/WikiData/WD~Fahrenheit_temperature,106432709]]"
-named_after: "[[_Standards/WikiData/WD~Daniel_Gabriel_Fahrenheit,57073]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Daniel_Gabriel_Fahrenheit,57073]]"
-OmegaWiki_Defined_Meaning: "665372"
+  - '[[_Standards/WikiData/WD~unit_without_standard_conversion_to_SI,21684377]]'
+  - '[[_Standards/WikiData/WD~unit_of_thermodynamic_temperature,68723978]]'
+  - '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~degree_Rankine,37732658]]'
+measurement_scale: '[[_Standards/WikiData/WD~Fahrenheit_scale,105525247]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~Fahrenheit_temperature,106432709]]'
+named_after: '[[_Standards/WikiData/WD~Daniel_Gabriel_Fahrenheit,57073]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Daniel_Gabriel_Fahrenheit,57073]]'
+OmegaWiki_Defined_Meaning: 665372
 Commons_category: Fahrenheit temperature
-Iconclass_notation: "22E31"
+Iconclass_notation: 22E31
 UN_CEFACT_Common_Code: FAH
 CPV_Supplementary_code: GA33
 Wolfram_Language_unit_code: '"DegreesFahrenheit"'
-UCUM_code: "[degF]"
+UCUM_code: '[degF]'
 Unicode_character: ℉
 Wikidata_SPARQL_query_equivalent: wd:Q42289 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
 unit_symbol:

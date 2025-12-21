@@ -1,13 +1,14 @@
 ---
 aliases:
-- 
+  - ''
+  - SW~Discourse
 confidential: private
-cssclasses: 
+cssclasses: ''
 has_creator: '[[Atwood~Jeff]]'
-has_location_created: 
-has_location_destroyed: 
-has_time_created: 
-has_time_destroyed: 
+has_location_created: ''
+has_location_destroyed: ''
+has_time_created: ''
+has_time_destroyed: ''
 isDeleted: false
 isReadOnly: false
 Key: Value
@@ -15,8 +16,8 @@ lang: en
 Predicate: '[[Object]]'
 publish: false
 tags:
-- "rather use"
-type: 
+  - rather use
+type: ''
 ---
 
 # SW~Discourse

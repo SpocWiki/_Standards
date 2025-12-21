@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Suriname
+  - سورينام
+  - 苏里南
+  - Суринам
+  - the Republic of Suriname
+  - la República de Suriname
 has_id_wikidata: Q730
 location:
   - 5.86
@@ -16,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Suriname
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Suriname
-  - سورينام
-  - 苏里南
-  - Суринам
-  - the Republic of Suriname
-  - la República de Suriname
+publishDate: ""
+expiryDate: ""
 Languages:
   - nl-SR
   - en

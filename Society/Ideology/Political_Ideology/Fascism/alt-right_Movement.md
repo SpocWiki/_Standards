@@ -1,8 +1,9 @@
 ---
 aliases:
-- "white supremacism"
-- "alt-right Movement"
-- alt-right
+  - white supremacism
+  - alt-right Movement
+  - alt-right
+  - alt-right_Movement
 ---
 
 ## #has_/text_of_/abstract 

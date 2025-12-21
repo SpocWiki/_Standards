@@ -1,7 +1,8 @@
 ---
 aliases:
-- "FX network"
-- "Fox eXtended"
+  - FX network
+  - Fox eXtended
+  - FX_network
 ---
 
 ## #has_/text_of_/abstract 

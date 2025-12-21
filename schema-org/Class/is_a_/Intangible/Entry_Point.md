@@ -1,27 +1,29 @@
 ---
 aliases:
-- entry-point
-- entry_point
-- EntryPoint
-- is_an_entry_point
-- Endpoint
+  - entry-point
+  - entry_point
+  - EntryPoint
+  - is_an_entry_point
+  - Endpoint
+  - Entry_Point
+  - Entry Point
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords: entry_point
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_entry_point Class"
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_an_entry_point Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_entry_point Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_entry_point Class
 type: Type
 ---
 

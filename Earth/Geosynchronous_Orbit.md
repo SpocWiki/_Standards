@@ -1,11 +1,13 @@
 ---
 aliases:
   - Geosynchronous_orbit
+  - Geosynchronous_Orbit
+  - Geosynchronous Orbit
 has_id_wikidata: Q472251
 subclass_of:
-  - "[[_Standards/WikiData/WD~synchronous_orbit,940979]]"
-  - "[[_Standards/WikiData/WD~geocentric_orbit,1579577]]"
-parent_astronomical_body: "[[_Standards/WikiData/WD~Earth,2]]"
+  - '[[_Standards/WikiData/WD~synchronous_orbit,940979]]'
+  - '[[_Standards/WikiData/WD~geocentric_orbit,1579577]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Earth,2]]'
 short_name: GSO
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Geosynchronous%20orbit.gif
 Commons_category: Geosynchronous orbit

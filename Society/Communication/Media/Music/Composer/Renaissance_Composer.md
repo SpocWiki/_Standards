@@ -1,7 +1,8 @@
 ---
 aliases:
   - Renaissance Composer
-  - Renaissance Composers 
+  - Renaissance Composers
+  - Renaissance_Composer
 ---
 
 

@@ -4,21 +4,23 @@ aliases:
   - remix_album
   - RemixAlbum
   - is_a_remix_album
+  - Remix_Album
+  - Remix Album
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MusicAlbumProductionType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - remix_album
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_remix_album Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

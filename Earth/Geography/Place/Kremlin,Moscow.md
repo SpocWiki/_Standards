@@ -2,39 +2,40 @@
 aliases:
   - Kreml
   - Kremlin
+  - Kremlin,Moscow
 has_id_wikidata: Q133274
 instance_of:
-  - "[[_Standards/WikiData/WD~kremlin,263274]]"
-  - "[[_Standards/WikiData/WD~official_residence,481289]]"
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~architectural_landmark,2319498]]"
-  - "[[_Standards/WikiData/WD~historic_district,15243209]]"
-  - "[[_Standards/WikiData/WD~government_building,16831714]]"
+  - '[[_Standards/WikiData/WD~kremlin,263274]]'
+  - '[[_Standards/WikiData/WD~official_residence,481289]]'
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~architectural_landmark,2319498]]'
+  - '[[_Standards/WikiData/WD~historic_district,15243209]]'
+  - '[[_Standards/WikiData/WD~government_building,16831714]]'
 architect:
-  - "[[_Standards/WikiData/WD~Aristotile_Fioravanti,548256]]"
-  - "[[_Standards/WikiData/WD~Pietro_Antonio_Solari,1394287]]"
-  - "[[_Standards/WikiData/WD~Palace_of_Facets,2307647]]"
-  - "[[_Standards/WikiData/WD~Aloisio_da_Milano,2498026]]"
-has_use: "[[_Standards/WikiData/WD~seat_of_government,1901835]]"
-has_part_s_: "[[_Standards/WikiData/WD~Tsarskaya_Tower,2035463]]"
+  - '[[_Standards/WikiData/WD~Aristotile_Fioravanti,548256]]'
+  - '[[_Standards/WikiData/WD~Pietro_Antonio_Solari,1394287]]'
+  - '[[_Standards/WikiData/WD~Palace_of_Facets,2307647]]'
+  - '[[_Standards/WikiData/WD~Aloisio_da_Milano,2498026]]'
+has_use: '[[_Standards/WikiData/WD~seat_of_government,1901835]]'
+has_part_s_: '[[_Standards/WikiData/WD~Tsarskaya_Tower,2035463]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Tverskoy_District,2710104]]"
-  - "[[_Standards/WikiData/WD~Moscow,649]]"
+  - '[[_Standards/WikiData/WD~Tverskoy_District,2710104]]'
+  - '[[_Standards/WikiData/WD~Moscow,649]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Moscow_Kremlin,10999511]]"
-part_of: "[[_Standards/WikiData/WD~Kremlin_and_Red_Square,16961872]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Moscow_Kremlin,10999511]]'
+part_of: '[[_Standards/WikiData/WD~Kremlin_and_Red_Square,16961872]]'
 heritage_designation:
-  - "[[_Standards/WikiData/WD~federal_cultural_heritage_site_in_Russia,23668083]]"
-  - "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
-appears_in_the_heritage_monument_list: "[[_Standards/WikiData/WD~list_of_cultural_heritage_sites_in_Moscow_Kremlin,27602815]]"
-category_for_the_interior_of_the_item: "[[_Standards/WikiData/WD~Q124920626,124920626]]"
+  - '[[_Standards/WikiData/WD~federal_cultural_heritage_site_in_Russia,23668083]]'
+  - '[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]'
+appears_in_the_heritage_monument_list: '[[_Standards/WikiData/WD~list_of_cultural_heritage_sites_in_Moscow_Kremlin,27602815]]'
+category_for_the_interior_of_the_item: '[[_Standards/WikiData/WD~Q124920626,124920626]]'
 coordinate_location: Point(37.617777777 55.751666666)
-country: "[[_Standards/WikiData/WD~Russia,159]]"
+country: '[[_Standards/WikiData/WD~Russia,159]]'
 area: 27.5
-OmegaWiki_Defined_Meaning: "810687"
+OmegaWiki_Defined_Meaning: 810687
 directions: Кремль
 inception: 1420-01-01T00:00:00Z
 Commons_category: Moscow Kremlin

@@ -1,24 +1,26 @@
 ---
 aliases:
   - international organization
-  - intergovernmental organization 
+  - intergovernmental organization
   - international institution
+  - International_Organization
+  - International Organization
 has_id_wikidata: Q484652
-has_characteristic: "[[_Standards/WikiData/WD~internationality,1072012]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_International_organizations,10904757]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-different_from: "[[_Standards/WikiData/WD~geopolitical_group,52110228]]"
+has_characteristic: '[[_Standards/WikiData/WD~internationality,1072012]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_International_organizations,10904757]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~geopolitical_group,52110228]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~organization,43229]]"
-OmegaWiki_Defined_Meaning: "1999"
+  - '[[_Standards/WikiData/WD~organization,43229]]'
+OmegaWiki_Defined_Meaning: 1999
 U_S_National_Archives_Identifier:
-  - "10640609"
-  - "10638975"
+  - 10640609
+  - 10638975
 image: http://commons.wikimedia.org/wiki/Special:FilePath/IKRK%20Hauptquartier.jpg
-Dewey_Decimal_Classification: "327.06"
+Dewey_Decimal_Classification: 327.06
 Provenio_UUID: 3cdebc62-b5a2-48e1-8c9f-8efbd547a82d
-Basisklassifikation: "89.72"
-P8189: "987007558029505171"
+Basisklassifikation: 89.72
+P8189: 987007558029505171
 Commons_category: International organizations
 IPTC_NewsCode: mediatopic/20000644
 ---

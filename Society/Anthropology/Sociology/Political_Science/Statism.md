@@ -2,10 +2,11 @@
 aliases:
   - Statismus
   - etatism
+  - Statism
 has_id_wikidata: Q322294
-opposite_of: "[[_Standards/WikiData/WD~anti_statism,646407]]"
-part_of: "[[_Standards/WikiData/WD~corporate_statism,872760]]"
-instance_of: "[[_Standards/WikiData/WD~political_ideology,12909644]]"
+opposite_of: '[[_Standards/WikiData/WD~anti_statism,646407]]'
+part_of: '[[_Standards/WikiData/WD~corporate_statism,872760]]'
+instance_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
 ---
 
 # [[Statism]] 

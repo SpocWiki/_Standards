@@ -2,14 +2,16 @@
 aliases:
   - Great Tangshan earthquake
   - 唐山大地震
+  - 1976-Tangshan_earthquake
+  - 1976-Tangshan earthquake
 has_id_wikidata: Q462195
-modified_Mercalli_intensity_scale: "[[_Standards/WikiData/WD~Mercalli_scale_XI,23925708]]"
-instance_of: "[[_Standards/WikiData/WD~earthquake,7944]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Hebei,21208]]"
+modified_Mercalli_intensity_scale: '[[_Standards/WikiData/WD~Mercalli_scale_XI,23925708]]'
+instance_of: '[[_Standards/WikiData/WD~earthquake,7944]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Hebei,21208]]'
 country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 earthquake_magnitude_on_the_Richter_magnitude_scale: 7.4
 vertical_depth: 7.5
-location: "[[_Standards/WikiData/WD~Tangshan,58422]]"
+location: '[[_Standards/WikiData/WD~Tangshan,58422]]'
 number_of_injured: 164851
 number_of_deaths: 242769
 coordinate_location: Point(118.401 39.664)

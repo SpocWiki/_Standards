@@ -4,21 +4,22 @@ aliases:
   - content-rating
   - contentRating
   - has_value_for_content_rating_stars
+  - has value for content rating stars
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - content-rating
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_content-rating
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

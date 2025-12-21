@@ -1,49 +1,51 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MedicalTest
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-- id: SYEnGo
-  name: AffectedBy
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')"
-  type: MultiFile
-  path: ''
-- id: rW4Tyn
-  name: NormalRange
-  options: {}
-  type: Input
-  path: ''
-- id: PwdUyj
-  name: SignDetected
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign')"
-  type: MultiFile
-  path: ''
-- id: ejonCM
-  name: UsedToDiagnose
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalCondition')"
-  type: MultiFile
-  path: ''
-- id: sgWYIm
-  name: UsesDevice
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalDevice')"
-  type: MultiFile
-  path: ''
+  - id: SYEnGo
+    name: AffectedBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')
+    type: MultiFile
+    path: ''
+  - id: rW4Tyn
+    name: NormalRange
+    options: {}
+    type: Input
+    path: ''
+  - id: PwdUyj
+    name: SignDetected
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign')
+    type: MultiFile
+    path: ''
+  - id: ejonCM
+    name: UsedToDiagnose
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
+    type: MultiFile
+    path: ''
+  - id: sgWYIm
+    name: UsesDevice
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalDevice')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MedicalTest
-- class/Thing/MedicalEntity/MedicalTest
-- is_a_/MedicalTest
-- schema-org/MedicalTest
+  - class/MedicalTest
+  - class/Thing/MedicalEntity/MedicalTest
+  - is_a_/MedicalTest
+  - schema-org/MedicalTest
 tags:
-- class/FileClass
-- class/MedicalTest
-- is_a_/MedicalTest
-- class/Thing/MedicalEntity/MedicalTest
+  - class/FileClass
+  - class/MedicalTest
+  - is_a_/MedicalTest
+  - class/Thing/MedicalEntity/MedicalTest
 version: 2.0
 ---
 

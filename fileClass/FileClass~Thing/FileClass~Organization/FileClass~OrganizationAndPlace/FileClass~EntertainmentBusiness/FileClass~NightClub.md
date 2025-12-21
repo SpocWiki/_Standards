@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~NightClub
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/NightClub
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/NightClub
-- is_a_/NightClub
-- schema-org/NightClub
+  - class/NightClub
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/NightClub
+  - is_a_/NightClub
+  - schema-org/NightClub
 tags:
-- class/FileClass
-- class/NightClub
-- is_a_/NightClub
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/NightClub
+  - class/FileClass
+  - class/NightClub
+  - is_a_/NightClub
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/NightClub
 version: 2.0
 ---
 

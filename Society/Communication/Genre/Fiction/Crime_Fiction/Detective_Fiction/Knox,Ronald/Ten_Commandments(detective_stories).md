@@ -1,6 +1,8 @@
 ---
 aliases:
   - Ten Commandments" for detective stories
+  - Ten_Commandments(detective_stories)
+  - Ten Commandments(detective stories)
 ---
 
 

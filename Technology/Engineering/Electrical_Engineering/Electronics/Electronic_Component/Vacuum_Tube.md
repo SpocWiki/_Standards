@@ -4,16 +4,18 @@ aliases:
   - electron tube
   - thermionic valve
   - Elektronenröhre
+  - Vacuum_Tube
+  - Vacuum Tube
 has_id_wikidata: Q3574371
 time_of_discovery_or_invention: 1904-01-01T00:00:00Z
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~vacuum_tube,1461585]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_electronic_tubes,3138430]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~vacuum_tube,1461585]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_electronic_tubes,3138430]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~active_electronic_component,12492106]]"
-  - "[[_Standards/WikiData/WD~electronic_component,11653]]"
+  - '[[_Standards/WikiData/WD~active_electronic_component,12492106]]'
+  - '[[_Standards/WikiData/WD~electronic_component,11653]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Philips%2012AX7WA%20tube.jpg
 IEV_number: 881-08-13
 Commons_category: Vacuum tubes

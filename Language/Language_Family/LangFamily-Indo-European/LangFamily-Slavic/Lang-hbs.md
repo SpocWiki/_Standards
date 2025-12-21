@@ -2,6 +2,7 @@
 aliases:
   - Serbo-Croatian
   - Bosnian-Croatian-Montenegrin-Serbian
+  - Lang-hbs
 has_id_wikidata: Q9301
 short_name:
   - serb-xorvatca
@@ -17,50 +18,50 @@ native_label:
   - hrvatskosrpski jezik
   - srpskohrvatski jezik
 instance_of:
-  - "[[_Standards/WikiData/WD~macrolanguage,152559]]"
-  - "[[_Standards/WikiData/WD~pluricentric_language,250858]]"
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
+  - '[[_Standards/WikiData/WD~macrolanguage,152559]]'
+  - '[[_Standards/WikiData/WD~pluricentric_language,250858]]'
+  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
+  - '[[_Standards/WikiData/WD~natural_language,33742]]'
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~nominative_accusative_language,178435]]"
-  - "[[_Standards/WikiData/WD~fusional_language,318917]]"
-  - "[[_Standards/WikiData/WD~subject_verb_object,651641]]"
-  - "[[_Standards/WikiData/WD~stress_timed_language,7888721]]"
-  - "[[_Standards/WikiData/WD~free_order_language,33129605]]"
+  - '[[_Standards/WikiData/WD~nominative_accusative_language,178435]]'
+  - '[[_Standards/WikiData/WD~fusional_language,318917]]'
+  - '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
+  - '[[_Standards/WikiData/WD~stress_timed_language,7888721]]'
+  - '[[_Standards/WikiData/WD~free_order_language,33129605]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Central_South_Slavic_diasystem,718464]]"
-  - "[[_Standards/WikiData/WD~Croatian,6654]]"
-  - "[[_Standards/WikiData/WD~Montenegrin,8821]]"
-  - "[[_Standards/WikiData/WD~Serbian,9299]]"
-  - "[[_Standards/WikiData/WD~Bosnian,9303]]"
+  - '[[_Standards/WikiData/WD~Central_South_Slavic_diasystem,718464]]'
+  - '[[_Standards/WikiData/WD~Croatian,6654]]'
+  - '[[_Standards/WikiData/WD~Montenegrin,8821]]'
+  - '[[_Standards/WikiData/WD~Serbian,9299]]'
+  - '[[_Standards/WikiData/WD~Bosnian,9303]]'
 writing_system:
   - "[[_Standards/WikiData/WD~Gaj's_Latin_alphabet,754989]]"
-  - "[[_Standards/WikiData/WD~Serbian_Cyrillic_alphabet,829464]]"
-  - "[[_Standards/WikiData/WD~Cyrillic_script,8209]]"
-  - "[[_Standards/WikiData/WD~Latin_script,8229]]"
-has_characteristic: "[[_Standards/WikiData/WD~agreement,829903]]"
-subclass_of: "[[_Standards/WikiData/WD~Western_South_Slavic,10686779]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q12960906,12960906]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Serbo_Croatian_language,14457753]]"
-studied_by: "[[_Standards/WikiData/WD~Serbo_Croatian_studies,26331146]]"
+  - '[[_Standards/WikiData/WD~Serbian_Cyrillic_alphabet,829464]]'
+  - '[[_Standards/WikiData/WD~Cyrillic_script,8209]]'
+  - '[[_Standards/WikiData/WD~Latin_script,8229]]'
+has_characteristic: '[[_Standards/WikiData/WD~agreement,829903]]'
+subclass_of: '[[_Standards/WikiData/WD~Western_South_Slavic,10686779]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12960906,12960906]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Serbo_Croatian_language,14457753]]'
+studied_by: '[[_Standards/WikiData/WD~Serbo_Croatian_studies,26331146]]'
 country:
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~Croatia,224]]"
-  - "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
-  - "[[_Standards/WikiData/WD~Montenegro,236]]"
+  - '[[_Standards/WikiData/WD~Serbia,403]]'
+  - '[[_Standards/WikiData/WD~Croatia,224]]'
+  - '[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]'
+  - '[[_Standards/WikiData/WD~Montenegro,236]]'
 number_of_speakers_writers_or_signers: 19000000
 Provenio_UUID: d1d7f940-92a7-4f62-a250-d5b080088711
-ABS_ASCL_2011_code: "3507"
+ABS_ASCL_2011_code: 3507
 ISO_639_1_code: sh
 POSIX_locale_identifier: sh
 Wikimedia_language_code: sh
 IETF_language_tag: sh
-OmegaWiki_Defined_Meaning: "382303"
+OmegaWiki_Defined_Meaning: 382303
 WALS_lect_code: scr
 ISO_639_3_code: hbs
 Ethnologue_com_language_code: hbs

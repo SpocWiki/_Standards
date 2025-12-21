@@ -4,21 +4,22 @@ aliases:
   - loan-mortgage-mandate-amount
   - loanMortgageMandateAmount
   - has_value_for_loan_mortgage_mandate_amount
+  - has value for loan mortgage mandate amount
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - loan-mortgage-mandate-amount
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_loan-mortgage-mandate-amount
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

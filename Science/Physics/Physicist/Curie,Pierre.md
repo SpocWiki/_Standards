@@ -3,85 +3,86 @@ aliases:
   - Pierre_Curie
   - Pierre Curie
   - Curie
+  - Curie,Pierre
 has_id_wikidata: Q37463
 educated_at:
-  - "[[_Standards/WikiData/WD~homeschooling,83602]]"
-  - "[[_Standards/WikiData/WD~Sorbonne,214654]]"
-  - "[[_Standards/WikiData/WD~Science_Faculty_of_Paris,3064332]]"
-position_held: "[[_Standards/WikiData/WD~professor,121594]]"
-doctoral_advisor: "[[_Standards/WikiData/WD~Gabriel_Lippmann,133232]]"
+  - '[[_Standards/WikiData/WD~homeschooling,83602]]'
+  - '[[_Standards/WikiData/WD~Sorbonne,214654]]'
+  - '[[_Standards/WikiData/WD~Science_Faculty_of_Paris,3064332]]'
+position_held: '[[_Standards/WikiData/WD~professor,121594]]'
+doctoral_advisor: '[[_Standards/WikiData/WD~Gabriel_Lippmann,133232]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~crystallography,160398]]"
-  - "[[_Standards/WikiData/WD~piezoelectricity,183759]]"
-  - "[[_Standards/WikiData/WD~magnetism,3294789]]"
-  - "[[_Standards/WikiData/WD~physics,413]]"
-  - "[[_Standards/WikiData/WD~chemistry,2329]]"
-  - "[[_Standards/WikiData/WD~radioactivity,11448]]"
+  - '[[_Standards/WikiData/WD~crystallography,160398]]'
+  - '[[_Standards/WikiData/WD~piezoelectricity,183759]]'
+  - '[[_Standards/WikiData/WD~magnetism,3294789]]'
+  - '[[_Standards/WikiData/WD~physics,413]]'
+  - '[[_Standards/WikiData/WD~chemistry,2329]]'
+  - '[[_Standards/WikiData/WD~radioactivity,11448]]'
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~chemist,593644]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~nuclear_physicist,16742096]]"
+  - '[[_Standards/WikiData/WD~physicist,169470]]'
+  - '[[_Standards/WikiData/WD~chemist,593644]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~nuclear_physicist,16742096]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~piezoelectricity,183759]]"
-  - "[[_Standards/WikiData/WD~radioactivity,11448]]"
-member_of: "[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]"
-place_of_burial: "[[_Standards/WikiData/WD~Panthéon,188856]]"
-employer: "[[_Standards/WikiData/WD~University_of_Paris,209842]]"
+  - '[[_Standards/WikiData/WD~piezoelectricity,183759]]'
+  - '[[_Standards/WikiData/WD~radioactivity,11448]]'
+member_of: '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
+place_of_burial: '[[_Standards/WikiData/WD~Panthéon,188856]]'
+employer: '[[_Standards/WikiData/WD~University_of_Paris,209842]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Davy_Medal,220842]]"
-  - "[[_Standards/WikiData/WD~Benjamin_Franklin_Medal,817496]]"
-  - "[[_Standards/WikiData/WD~Matteucci_Medal,1419938]]"
-  - "[[_Standards/WikiData/WD~Jean_Reynaud_Prize,56259977]]"
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]"
+  - '[[_Standards/WikiData/WD~Davy_Medal,220842]]'
+  - '[[_Standards/WikiData/WD~Benjamin_Franklin_Medal,817496]]'
+  - '[[_Standards/WikiData/WD~Matteucci_Medal,1419938]]'
+  - '[[_Standards/WikiData/WD~Jean_Reynaud_Prize,56259977]]'
+  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
 child:
-  - "[[_Standards/WikiData/WD~Ève_Curie,230068]]"
-  - "[[_Standards/WikiData/WD~Irène_Joliot_Curie,7504]]"
+  - '[[_Standards/WikiData/WD~Ève_Curie,230068]]'
+  - '[[_Standards/WikiData/WD~Irène_Joliot_Curie,7504]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-  - "[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]"
-sibling: "[[_Standards/WikiData/WD~Jacques_Curie,950605]]"
-given_name: "[[_Standards/WikiData/WD~Pierre,2093070]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+  - '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+sibling: '[[_Standards/WikiData/WD~Jacques_Curie,950605]]'
+given_name: '[[_Standards/WikiData/WD~Pierre,2093070]]'
 residence:
-  - "[[_Standards/WikiData/WD~rue_de_la_Glacière,3451440]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
+  - '[[_Standards/WikiData/WD~rue_de_la_Glacière,3451440]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
 relative:
-  - "[[_Standards/WikiData/WD~Władysław_Skłodowski,4021169]]"
-  - "[[_Standards/WikiData/WD~Kazimierz_Dłuski,4162667]]"
-  - "[[_Standards/WikiData/WD~Bronia_Dłuska,8861061]]"
-  - "[[_Standards/WikiData/WD~Helena_Skłodowska_Szalay,8861668]]"
-  - "[[_Standards/WikiData/WD~Józef_Skłodowski,11731365]]"
-  - "[[_Standards/WikiData/WD~Maurice_Curie,17176941]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-cause_of_death: "[[_Standards/WikiData/WD~struck_by_vehicle,9637047]]"
-part_of: "[[_Standards/WikiData/WD~Pierre_and_Marie_Curie,11297474]]"
-father: "[[_Standards/WikiData/WD~Eugène_Curie,20968820]]"
-mother: "[[_Standards/WikiData/WD~Sophie_Claire_Depouilly,20968821]]"
-manner_of_death: "[[_Standards/WikiData/WD~accidental_death,21142718]]"
-family_name: "[[_Standards/WikiData/WD~Curie,21429443]]"
-present_in_work: "[[_Standards/WikiData/WD~Marie_Curie_The_Courage_of_Knowledge,26963166]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+  - '[[_Standards/WikiData/WD~Władysław_Skłodowski,4021169]]'
+  - '[[_Standards/WikiData/WD~Kazimierz_Dłuski,4162667]]'
+  - '[[_Standards/WikiData/WD~Bronia_Dłuska,8861061]]'
+  - '[[_Standards/WikiData/WD~Helena_Skłodowska_Szalay,8861668]]'
+  - '[[_Standards/WikiData/WD~Józef_Skłodowski,11731365]]'
+  - '[[_Standards/WikiData/WD~Maurice_Curie,17176941]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+cause_of_death: '[[_Standards/WikiData/WD~struck_by_vehicle,9637047]]'
+part_of: '[[_Standards/WikiData/WD~Pierre_and_Marie_Curie,11297474]]'
+father: '[[_Standards/WikiData/WD~Eugène_Curie,20968820]]'
+mother: '[[_Standards/WikiData/WD~Sophie_Claire_Depouilly,20968821]]'
+manner_of_death: '[[_Standards/WikiData/WD~accidental_death,21142718]]'
+family_name: '[[_Standards/WikiData/WD~Curie,21429443]]'
+present_in_work: '[[_Standards/WikiData/WD~Marie_Curie_The_Courage_of_Knowledge,26963166]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_birth: 1859-05-15T00:00:00Z
-spouse: "[[_Standards/WikiData/WD~Marie_Curie,7186]]"
-student: "[[_Standards/WikiData/WD~Paul_Langevin,25320]]"
-doctoral_student: "[[_Standards/WikiData/WD~Paul_Langevin,25320]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~Paris,90]]"
-place_of_birth: "[[_Standards/WikiData/WD~Paris,90]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-writing_language: "[[_Standards/WikiData/WD~French,150]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
+spouse: '[[_Standards/WikiData/WD~Marie_Curie,7186]]'
+student: '[[_Standards/WikiData/WD~Paul_Langevin,25320]]'
+doctoral_student: '[[_Standards/WikiData/WD~Paul_Langevin,25320]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~Paris,90]]'
+place_of_birth: '[[_Standards/WikiData/WD~Paris,90]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+writing_language: '[[_Standards/WikiData/WD~French,150]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 Erdős_number: 8
-nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]"
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
 Commons_gallery: Pierre Curie
 Commons_category: Pierre Curie
 Commons_Creator_page: Pierre Curie
@@ -98,7 +99,7 @@ described_at_URL:
   - http://www.digiporta.net/index.php?id=615084881
   - http://www.digiporta.net/index.php?id=631721175
   - http://www.digiporta.net/index.php?id=960507952
-ISNI: "0000000121022362"
+ISNI: 0000000121022362
 DPLA_subject_term: Curie, Pierre, 1859-1906
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/KYURI_PER.html
 Libris_URI: sq4682wb39fbk97

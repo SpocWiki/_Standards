@@ -4,20 +4,22 @@ aliases:
   - resume_action
   - ResumeAction
   - is_a_resume_action
+  - Resume_Action
+  - Resume Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - resume_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_resume_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

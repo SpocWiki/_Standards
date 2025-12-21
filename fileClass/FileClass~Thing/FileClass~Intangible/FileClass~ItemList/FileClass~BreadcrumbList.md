@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~BreadcrumbList
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ItemList
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/BreadcrumbList
-- class/Thing/Intangible/ItemList/BreadcrumbList
-- is_a_/BreadcrumbList
-- schema-org/BreadcrumbList
+  - class/BreadcrumbList
+  - class/Thing/Intangible/ItemList/BreadcrumbList
+  - is_a_/BreadcrumbList
+  - schema-org/BreadcrumbList
 tags:
-- class/FileClass
-- class/BreadcrumbList
-- is_a_/BreadcrumbList
-- class/Thing/Intangible/ItemList/BreadcrumbList
+  - class/FileClass
+  - class/BreadcrumbList
+  - is_a_/BreadcrumbList
+  - class/Thing/Intangible/ItemList/BreadcrumbList
 version: 2.0
 ---
 

@@ -2,26 +2,27 @@
 aliases:
   - Military history
   - Military_History
+  - Military History
 has_id_wikidata: Q192781
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~study_of_history,1066186]]"
-  - "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-practiced_by: "[[_Standards/WikiData/WD~military_historian,1493121]]"
-has_characteristic: "[[_Standards/WikiData/WD~cultural_history_of_the_military,1593568]]"
+  - '[[_Standards/WikiData/WD~study_of_history,1066186]]'
+  - '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+practiced_by: '[[_Standards/WikiData/WD~military_historian,1493121]]'
+has_characteristic: '[[_Standards/WikiData/WD~cultural_history_of_the_military,1593568]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~branch_of_history,81517619]]"
-is_the_study_of: "[[_Standards/WikiData/WD~war,198]]"
-U_S_National_Archives_Identifier: "10642634"
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~branch_of_history,81517619]]'
+is_the_study_of: '[[_Standards/WikiData/WD~war,198]]'
+U_S_National_Archives_Identifier: 10642634
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ramses%20II%20at%20Kadesh.jpg
 Stack_Exchange_tag: https://history.stackexchange.com/tags/military
-Classification_of_Instructional_Programs_code: "54.0108"
+Classification_of_Instructional_Programs_code: 54.0108
 Provenio_UUID: bef107f9-2aff-4cb2-b836-4975021d173f
 Commons_category: Military history
 subreddit: MilitaryHistory

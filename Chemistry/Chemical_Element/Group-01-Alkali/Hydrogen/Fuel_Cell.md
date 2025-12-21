@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Fuel Cell"
-- "Fuel Cell Reaction"
+  - Fuel Cell
+  - Fuel Cell Reaction
+  - Fuel_Cell
 ---
 
 ## #has_/text_of_/abstract 

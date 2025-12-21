@@ -1,29 +1,31 @@
 ---
 aliases:
-- description
-- description
-- description
-- has_text_of_description
-- "schema:description"
-- "dbo:abstract"
+  - description
+  - description
+  - description
+  - has_text_of_description
+  - schema:description
+  - dbo:abstract
+  - has_description
+  - has description
 confidential: public
 cssclasses:
-- Predicate
-- Text
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- description
-layout: 
-license: "CC BY-SA 4.0"
+  - description
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_text_of_description
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_description
 type: Pred_Text
 ---

@@ -4,20 +4,22 @@ aliases:
   - media_subscription
   - MediaSubscription
   - is_a_media_subscription
+  - Media_Subscription
+  - Media Subscription
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - media_subscription
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_media_subscription Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

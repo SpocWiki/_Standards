@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~RVPark
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/RVPark
-- class/Thing/Place/CivicStructure/RVPark
-- is_a_/RVPark
-- schema-org/RVPark
+  - class/RVPark
+  - class/Thing/Place/CivicStructure/RVPark
+  - is_a_/RVPark
+  - schema-org/RVPark
 tags:
-- class/FileClass
-- class/RVPark
-- is_a_/RVPark
-- class/Thing/Place/CivicStructure/RVPark
+  - class/FileClass
+  - class/RVPark
+  - is_a_/RVPark
+  - class/Thing/Place/CivicStructure/RVPark
 version: 2.0
 ---
 

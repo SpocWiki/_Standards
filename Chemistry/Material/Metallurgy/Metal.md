@@ -1,16 +1,19 @@
 ---
-associated_hazard: "[[_Standards/WikiData/WD~metal_poisoning,4215775]]"
+aliases:
+  - Metal
+has_id_wikidata: Q11426
+associated_hazard: '[[_Standards/WikiData/WD~metal_poisoning,4215775]]'
 Colon_Classification: E191
 Commons_category: Metals
 CPV_Supplementary_code: AA01
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 Dewey_Decimal_Classification:
   - 546.3
   - 547.05
@@ -19,19 +22,18 @@ Dewey_Decimal_Classification:
   - 673
   - 669
 different_from:
-  - "[[_Standards/WikiData/WD~metal,1572505]]"
-  - "[[_Standards/WikiData/WD~metal_element,11646938]]"
-  - "[[_Standards/WikiData/WD~metal_music,12326776]]"
+  - '[[_Standards/WikiData/WD~metal,1572505]]'
+  - '[[_Standards/WikiData/WD~metal_element,11646938]]'
+  - '[[_Standards/WikiData/WD~metal_music,12326776]]'
 EAGLE_id: material/lod/107
 hashtag: metal
-has_characteristic: "[[_Standards/WikiData/WD~metallic_lustre,11646940]]"
-has_id_wikidata: Q11426
-has_part_s_: "[[_Standards/WikiData/WD~transition_metal,19588]]"
+has_characteristic: '[[_Standards/WikiData/WD~metallic_lustre,11646940]]'
+has_part_s_: '[[_Standards/WikiData/WD~transition_metal,19588]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A9tal%20Hurlant%20%2884368201%29.jpeg
 MCN_code: 7109.00.00
 OmegaWiki_Defined_Meaning: 2324
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q28970841,28970841]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q28970841,28970841]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%A7%E0%A6%BE%E0%A6%A4%E0%A7%81.wav
 properties_for_this_type: magnetic ordering
 Stack_Exchange_tag:
@@ -40,10 +42,10 @@ Stack_Exchange_tag:
   - https://engineering.stackexchange.com/tags/metals
   - https://mechanics.stackexchange.com/tags/metal
 subclass_of:
-  - "[[_Standards/WikiData/WD~material,214609]]"
-  - "[[_Standards/WikiData/WD~inorganic_matter,20098970]]"
-  - "[[_Standards/WikiData/WD~malleable_material,34669510]]"
-  - "[[_Standards/WikiData/WD~alloy,37756]]"
+  - '[[_Standards/WikiData/WD~material,214609]]'
+  - '[[_Standards/WikiData/WD~inorganic_matter,20098970]]'
+  - '[[_Standards/WikiData/WD~malleable_material,34669510]]'
+  - '[[_Standards/WikiData/WD~alloy,37756]]'
 video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Metals%20and%20insulators%2C%20quantum%20difference%20from%20band%20structure.ogv
   - http://commons.wikimedia.org/wiki/Special:FilePath/Metaux%20et%20isolants%2C%20explication%20quantique%20de%20la%20difference.ogv

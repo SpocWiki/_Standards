@@ -4,20 +4,22 @@ aliases:
   - brokerage_account
   - BrokerageAccount
   - is_a_brokerage_account
+  - Brokerage_Account
+  - Brokerage Account
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - brokerage_account
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_brokerage_account Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

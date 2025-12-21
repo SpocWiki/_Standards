@@ -2,16 +2,18 @@
 aliases:
   - Myth_of_origins
   - origin myth
+  - Origin_Myth
+  - Origin Myth
 has_id_wikidata: Q390248
-instance_of: "[[_Standards/WikiData/WD~literary_genre,223393]]"
+instance_of: '[[_Standards/WikiData/WD~literary_genre,223393]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~pourquoi_story,990560]]"
-  - "[[_Standards/WikiData/WD~myth,12827256]]"
-  - "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-  - "[[_Standards/WikiData/WD~legend,44342]]"
-main_subject: "[[_Standards/WikiData/WD~origin,3885844]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Narration,60007664]]"
-facet_of: "[[_Standards/WikiData/WD~religion,9174]]"
+  - '[[_Standards/WikiData/WD~pourquoi_story,990560]]'
+  - '[[_Standards/WikiData/WD~myth,12827256]]'
+  - '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+  - '[[_Standards/WikiData/WD~legend,44342]]'
+main_subject: '[[_Standards/WikiData/WD~origin,3885844]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Narration,60007664]]'
+facet_of: '[[_Standards/WikiData/WD~religion,9174]]'
 Library_of_Congress_Classification: BL325.C7
 ---
 

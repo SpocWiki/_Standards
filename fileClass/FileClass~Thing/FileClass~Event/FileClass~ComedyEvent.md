@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ComedyEvent
+excludes: ''
 extends: FileClass~Thing/FileClass~Event
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ComedyEvent
-- class/Thing/Event/ComedyEvent
-- is_a_/ComedyEvent
-- schema-org/ComedyEvent
+  - class/ComedyEvent
+  - class/Thing/Event/ComedyEvent
+  - is_a_/ComedyEvent
+  - schema-org/ComedyEvent
 tags:
-- class/FileClass
-- class/ComedyEvent
-- is_a_/ComedyEvent
-- class/Thing/Event/ComedyEvent
+  - class/FileClass
+  - class/ComedyEvent
+  - is_a_/ComedyEvent
+  - class/Thing/Event/ComedyEvent
 version: 2.0
 ---
 

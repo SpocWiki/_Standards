@@ -1,14 +1,15 @@
 ---
 aliases:
   - Suprematismus
+  - Suprematism
 has_id_wikidata: Q191970
-genre: "[[_Standards/WikiData/WD~abstract_art,128115]]"
-founded_by: "[[_Standards/WikiData/WD~Kazimir_Malevich,130777]]"
-instance_of: "[[_Standards/WikiData/WD~art_movement,968159]]"
-different_from: "[[_Standards/WikiData/WD~supremacism,1031455]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-country: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
-influenced_by: "[[_Standards/WikiData/WD~Cubism,42934]]"
+genre: '[[_Standards/WikiData/WD~abstract_art,128115]]'
+founded_by: '[[_Standards/WikiData/WD~Kazimir_Malevich,130777]]'
+instance_of: '[[_Standards/WikiData/WD~art_movement,968159]]'
+different_from: '[[_Standards/WikiData/WD~supremacism,1031455]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+country: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+influenced_by: '[[_Standards/WikiData/WD~Cubism,42934]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Malevich.jpg
 Commons_gallery: Suprematism
 Commons_category: Suprematism

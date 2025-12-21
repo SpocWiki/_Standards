@@ -1,6 +1,8 @@
 ---
 aliases:
   - Thermohaline circulation
+  - Thermohaline_Circulation
+  - Thermohaline Circulation
 has_id_wikidata: Q463223
 ---
 

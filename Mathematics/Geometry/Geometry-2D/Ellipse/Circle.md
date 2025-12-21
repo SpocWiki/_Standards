@@ -1,6 +1,7 @@
 ---
 aliases:
   - Kreis
+  - Circle
 has_id_wikidata: Q17278
 Unicode_character:
   - 🔿
@@ -51,7 +52,7 @@ studied_by:
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q1935579,1935579]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 Euler_characteristic: 0
-OmegaWiki_Defined_Meaning: "6135"
+OmegaWiki_Defined_Meaning: 6135
 IMDb_keyword: circle
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ellipsoid%20circular%20sections.gif
 Bowers_acronym: circ
@@ -59,12 +60,12 @@ Iconclass_notation: 49D36
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%81%E0%A4%B3.wav
 Stack_Exchange_tag: https://stackoverflow.com/tags/circle
 IEV_number: 102-04-28
-P8189: "987007286430105171"
+P8189: 987007286430105200
 Commons_gallery: Circle geometry
 Commons_category: Circle geometry
 ---
 
-# [[Circle]] 
+# [[Circle]] ⭕ 
 
 #is_/same_as :: [[../../../../WikiData/WD~Circle,17278|WD~Circle,17278]] 
 

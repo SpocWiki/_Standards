@@ -1,22 +1,23 @@
 ---
 aliases:
   - Waisenhaus
+  - Orphanage
 has_id_wikidata: Q160645
 subclass_of:
-  - "[[_Standards/WikiData/WD~hospital,180370]]"
-  - "[[_Standards/WikiData/WD~residential_child_care_community,9311671]]"
-  - "[[_Standards/WikiData/WD~residential_building,11755880]]"
+  - '[[_Standards/WikiData/WD~hospital,180370]]'
+  - '[[_Standards/WikiData/WD~residential_child_care_community,9311671]]'
+  - '[[_Standards/WikiData/WD~residential_building,11755880]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-different_from: "[[_Standards/WikiData/WD~Orfanotrofio,18453247]]"
-field_of_work: "[[_Standards/WikiData/WD~pedagogy,7922]]"
-Nomenclature_for_Museum_Cataloging: "848"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+different_from: '[[_Standards/WikiData/WD~Orfanotrofio,18453247]]'
+field_of_work: '[[_Standards/WikiData/WD~pedagogy,7922]]'
+Nomenclature_for_Museum_Cataloging: 848
 IMDb_keyword: orphanage
-U_S_National_Archives_Identifier: "10642240"
-OmegaWiki_Defined_Meaning: "723395"
+U_S_National_Archives_Identifier: 10642240
+OmegaWiki_Defined_Meaning: 723395
 Iconclass_notation: 46A31
 MeSH_tree_code: J03.775.640
 Commons_category: Orphanages

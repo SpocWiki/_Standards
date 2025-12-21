@@ -3,52 +3,53 @@ aliases:
   - Suez Canal
   - قَنَاةُ ٱلسُّوَيْسِ
   - Qanāt as-Suwais
+  - Suez_Canal
 has_id_wikidata: Q899
 architect:
-  - "[[_Standards/WikiData/WD~Alois_Negrelli,78836]]"
-  - "[[_Standards/WikiData/WD~Ferdinand_de_Lesseps,209169]]"
+  - '[[_Standards/WikiData/WD~Alois_Negrelli,78836]]'
+  - '[[_Standards/WikiData/WD~Ferdinand_de_Lesseps,209169]]'
 Commons_category: Suez Canal
 Commons_gallery: Suez Canal
 connects_with:
-  - "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
-  - "[[_Standards/WikiData/WD~Red_Sea,23406]]"
+  - '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
+  - '[[_Standards/WikiData/WD~Red_Sea,23406]]'
 coordinate_location: Point(32.344166666 30.705)
-country: "[[_Standards/WikiData/WD~Egypt,79]]"
+country: '[[_Standards/WikiData/WD~Egypt,79]]'
 date_of_official_opening: 1869-11-17
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-destination_point: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+destination_point: '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Suez%20canal%20blank.jpg
 elevation_above_sea_level: 0
-follows: "[[_Standards/WikiData/WD~Canal_of_the_Pharaohs,959073]]"
-history_of_topic: "[[_Standards/WikiData/WD~Q1517501,1517501]]"
+follows: '[[_Standards/WikiData/WD~Canal_of_the_Pharaohs,959073]]'
+history_of_topic: '[[_Standards/WikiData/WD~Q1517501,1517501]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Suez%20Canal%2C%20Egypt%20%2831596166706%29.jpg
-instance_of: "[[_Standards/WikiData/WD~ship_canal,949819]]"
+instance_of: '[[_Standards/WikiData/WD~ship_canal,949819]]'
 Krugosvet_article: istoriya/SUETSKI_KANAL.html
 length: 193.3
 Libris_URI: nl0227m656nxmb4
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Isthmus_of_Suez,46291]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Suez_Governorate,31070]]"
-manufacturer: "[[_Standards/WikiData/WD~Suez_Canal_Company,959814]]"
-named_after: "[[_Standards/WikiData/WD~Suez,134514]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Isthmus_of_Suez,46291]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Suez_Governorate,31070]]'
+manufacturer: '[[_Standards/WikiData/WD~Suez_Canal_Company,959814]]'
+named_after: '[[_Standards/WikiData/WD~Suez,134514]]'
 native_label: قناة السويس
 nickname: Marlboro Canal
 official_website: https://www.suezcanal.gov.eg/
-operator: "[[_Standards/WikiData/WD~Suez_Canal_Authority,1542301]]"
+operator: '[[_Standards/WikiData/WD~Suez_Canal_Authority,1542301]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~construction,385378]]"
-  - "[[_Standards/WikiData/WD~Suez_Canal_Area_Development_Project,18211063]]"
-start_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+  - '[[_Standards/WikiData/WD~construction,385378]]'
+  - '[[_Standards/WikiData/WD~Suez_Canal_Area_Development_Project,18211063]]'
+start_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
 terminus:
-  - "[[_Standards/WikiData/WD~Port_Said,134509]]"
-  - "[[_Standards/WikiData/WD~Gulf_of_Suez,168277]]"
-  - "[[_Standards/WikiData/WD~Suez_Port,6349617]]"
-  - "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Suez_Canal,6352759]]"
+  - '[[_Standards/WikiData/WD~Port_Said,134509]]'
+  - '[[_Standards/WikiData/WD~Gulf_of_Suez,168277]]'
+  - '[[_Standards/WikiData/WD~Suez_Port,6349617]]'
+  - '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Suez_Canal,6352759]]'
 UN_LOCODE: EGSCN
 U_S_National_Archives_Identifier:
   - 10044415

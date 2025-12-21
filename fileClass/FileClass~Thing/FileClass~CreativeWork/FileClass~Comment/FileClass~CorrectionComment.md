@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CorrectionComment
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Comment
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CorrectionComment
-- class/Thing/CreativeWork/Comment/CorrectionComment
-- is_a_/CorrectionComment
-- schema-org/CorrectionComment
+  - class/CorrectionComment
+  - class/Thing/CreativeWork/Comment/CorrectionComment
+  - is_a_/CorrectionComment
+  - schema-org/CorrectionComment
 tags:
-- class/FileClass
-- class/CorrectionComment
-- is_a_/CorrectionComment
-- class/Thing/CreativeWork/Comment/CorrectionComment
+  - class/FileClass
+  - class/CorrectionComment
+  - is_a_/CorrectionComment
+  - class/Thing/CreativeWork/Comment/CorrectionComment
 version: 2.0
 ---
 

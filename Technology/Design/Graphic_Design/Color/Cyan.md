@@ -1,17 +1,18 @@
 ---
 aliases:
   - Türkis
+  - Cyan
 has_id_wikidata: Q180778
-instance_of: "[[_Standards/WikiData/WD~primary_color,166902]]"
+instance_of: '[[_Standards/WikiData/WD~primary_color,166902]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~blue_green,646964]]"
-  - "[[_Standards/WikiData/WD~turquoise,5960345]]"
-subclass_of: "[[_Standards/WikiData/WD~blue_green,646964]]"
-different_from: "[[_Standards/WikiData/WD~Cean,721603]]"
-described_by_source: "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Color,5492393]]"
-followed_by: "[[_Standards/WikiData/WD~blue,1088]]"
-follows: "[[_Standards/WikiData/WD~green,3133]]"
+  - '[[_Standards/WikiData/WD~blue_green,646964]]'
+  - '[[_Standards/WikiData/WD~turquoise,5960345]]'
+subclass_of: '[[_Standards/WikiData/WD~blue_green,646964]]'
+different_from: '[[_Standards/WikiData/WD~Cean,721603]]'
+described_by_source: '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Color,5492393]]'
+followed_by: '[[_Standards/WikiData/WD~blue,1088]]'
+follows: '[[_Standards/WikiData/WD~green,3133]]'
 wavelength: 500
 frequency: 599000000000000
 CSS_color_keyword: cyan

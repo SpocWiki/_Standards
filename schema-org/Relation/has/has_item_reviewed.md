@@ -3,23 +3,24 @@ aliases:
   - has item-reviewed
   - itemReviewed
   - has_item_reviewed
+  - has item reviewed
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - item_reviewed
   - item
   - reviewed
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_item_reviewed
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -2,35 +2,36 @@
 aliases:
   - Tonerde
   - Ton
+  - Clay
 has_id_wikidata: Q42302
 has_part_s_:
-  - "[[_Standards/WikiData/WD~pigment,161179]]"
-  - "[[_Standards/WikiData/WD~kaolinite,223197]]"
-  - "[[_Standards/WikiData/WD~water,283]]"
+  - '[[_Standards/WikiData/WD~pigment,161179]]'
+  - '[[_Standards/WikiData/WD~kaolinite,223197]]'
+  - '[[_Standards/WikiData/WD~water,283]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-made_from_material: "[[_Standards/WikiData/WD~clay_minerals,1799034]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+made_from_material: '[[_Standards/WikiData/WD~clay_minerals,1799034]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~clastic_sediment,12372934]]"
-  - "[[_Standards/WikiData/WD~sculpture_material,21685333]]"
-  - "[[_Standards/WikiData/WD~malleable_material,34669510]]"
-instance_of: "[[_Standards/WikiData/WD~material,16829513]]"
+  - '[[_Standards/WikiData/WD~clastic_sediment,12372934]]'
+  - '[[_Standards/WikiData/WD~sculpture_material,21685333]]'
+  - '[[_Standards/WikiData/WD~malleable_material,34669510]]'
+instance_of: '[[_Standards/WikiData/WD~material,16829513]]'
 different_from:
-  - "[[_Standards/WikiData/WD~glaze_pottery,60808925]]"
-  - "[[_Standards/WikiData/WD~clay_grain,112672377]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
-OmegaWiki_Defined_Meaning: "599"
-CosIng_number: "83536"
+  - '[[_Standards/WikiData/WD~glaze_pottery,60808925]]'
+  - '[[_Standards/WikiData/WD~clay_grain,112672377]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
+OmegaWiki_Defined_Meaning: 599
+CosIng_number: 83536
 Commons_gallery: Clay
 Commons_category: Clay
 exact_match: http://purl.obolibrary.org/obo/ENVO_00002982
-P8189: "987007284084205171"
+P8189: 987007284084205171
 MeSH_tree_code:
   - D20.721.250
   - G01.311.820.250

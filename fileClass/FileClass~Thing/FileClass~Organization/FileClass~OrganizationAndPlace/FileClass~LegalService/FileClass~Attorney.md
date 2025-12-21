@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Attorney
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService
 fields: []
 icon: scale
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Attorney
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService/Attorney
-- is_an_/Attorney
-- schema-org/Attorney
+  - class/Attorney
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService/Attorney
+  - is_an_/Attorney
+  - schema-org/Attorney
 tags:
-- class/FileClass
-- class/Attorney
-- '#is_an_/Attorney'
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService/Attorney
+  - class/FileClass
+  - class/Attorney
+  - '#is_an_/Attorney'
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService/Attorney
 version: 2.0
 ---
 

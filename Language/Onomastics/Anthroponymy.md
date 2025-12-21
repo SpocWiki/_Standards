@@ -8,12 +8,13 @@ aliases:
   - vich
   - ovna
   - evna
+  - Anthroponymy
 has_id_wikidata: Q1973833
-subclass_of: "[[_Standards/WikiData/WD~onomastics,175156]]"
+subclass_of: '[[_Standards/WikiData/WD~onomastics,175156]]'
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~anthroponymy,4067625]]"
-  - "[[_Standards/WikiData/WD~anthroponym,10856962]]"
-instance_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - '[[_Standards/WikiData/WD~anthroponymy,4067625]]'
+  - '[[_Standards/WikiData/WD~anthroponym,10856962]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/ANTROPONIMIKA.html
 ---
 

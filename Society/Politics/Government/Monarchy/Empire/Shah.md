@@ -2,20 +2,21 @@
 aliases:
   - Schah
   - شاه
+  - Shah
 has_id_wikidata: Q184299
 instance_of:
-  - "[[_Standards/WikiData/WD~noble_title,355567]]"
-  - "[[_Standards/WikiData/WD~historical_position,114962596]]"
+  - '[[_Standards/WikiData/WD~noble_title,355567]]'
+  - '[[_Standards/WikiData/WD~historical_position,114962596]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~ruler,1097498]]"
-  - "[[_Standards/WikiData/WD~sultan,43292]]"
-  - "[[_Standards/WikiData/WD~head_of_state,48352]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q8995072,8995072]]"
-country: "[[_Standards/WikiData/WD~Safavid_Iran,18234383]]"
+  - '[[_Standards/WikiData/WD~ruler,1097498]]'
+  - '[[_Standards/WikiData/WD~sultan,43292]]'
+  - '[[_Standards/WikiData/WD~head_of_state,48352]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q8995072,8995072]]'
+country: '[[_Standards/WikiData/WD~Safavid_Iran,18234383]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%B6%E0%A6%BE%E0%A6%B9.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mohammad%20Ali%20Shah.jpg
 Commons_category: Monarchs of Persia

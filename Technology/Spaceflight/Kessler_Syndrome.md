@@ -4,12 +4,14 @@ aliases:
   - Kessler effect
   - collisional cascading
   - ablation cascade
+  - Kessler_Syndrome
+  - Kessler Syndrome
 has_id_wikidata: Q693564
-has_cause: "[[_Standards/WikiData/WD~space_debris,275450]]"
-instance_of: "[[_Standards/WikiData/WD~hazard,1132455]]"
-named_after: "[[_Standards/WikiData/WD~Donald_J._Kessler,5294575]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Donald_J._Kessler,5294575]]"
-facet_of: "[[_Standards/WikiData/WD~artificial_satellite_of_the_Earth,12832168]]"
+has_cause: '[[_Standards/WikiData/WD~space_debris,275450]]'
+instance_of: '[[_Standards/WikiData/WD~hazard,1132455]]'
+named_after: '[[_Standards/WikiData/WD~Donald_J._Kessler,5294575]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Donald_J._Kessler,5294575]]'
+facet_of: '[[_Standards/WikiData/WD~artificial_satellite_of_the_Earth,12832168]]'
 time_of_discovery_or_invention: 1978-01-01T00:00:00Z
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "KesslerSyndrome"]
 ---

@@ -1,28 +1,30 @@
 ---
 aliases:
-  - Cretan War 
-  - Κρητικός Πόλεμος 
-  - Kritikós Pólemos 
-  - Girit'in Fethi 
-  - War of Candia  
-  - Guerra di Candia 
+  - Cretan War
+  - Κρητικός Πόλεμος
+  - Kritikós Pólemos
+  - Girit'in Fethi
+  - War of Candia
+  - Guerra di Candia
   - fifth Ottoman–Venetian war
+  - 1645-Cretan_War
+  - 1645-Cretan War
 has_id_wikidata: Q699602
 participant:
-  - "[[_Standards/WikiData/WD~Kingdom_of_France,70972]]"
-  - "[[_Standards/WikiData/WD~Papal_States,170174]]"
-  - "[[_Standards/WikiData/WD~Knights_Hospitaller,187549]]"
-  - "[[_Standards/WikiData/WD~Maniots,1996974]]"
-  - "[[_Standards/WikiData/WD~Republic_of_Venice,4948]]"
-  - "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_France,70972]]'
+  - '[[_Standards/WikiData/WD~Papal_States,170174]]'
+  - '[[_Standards/WikiData/WD~Knights_Hospitaller,187549]]'
+  - '[[_Standards/WikiData/WD~Maniots,1996974]]'
+  - '[[_Standards/WikiData/WD~Republic_of_Venice,4948]]'
+  - '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
 location:
-  - "[[_Standards/WikiData/WD~Dalmatia,528042]]"
-  - "[[_Standards/WikiData/WD~Crete,34374]]"
-  - "[[_Standards/WikiData/WD~Aegean_Sea,34575]]"
+  - '[[_Standards/WikiData/WD~Dalmatia,528042]]'
+  - '[[_Standards/WikiData/WD~Crete,34374]]'
+  - '[[_Standards/WikiData/WD~Aegean_Sea,34575]]'
 country:
-  - "[[_Standards/WikiData/WD~Republic_of_Venice,4948]]"
-  - "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+  - '[[_Standards/WikiData/WD~Republic_of_Venice,4948]]'
+  - '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
 Commons_category: Cretan War (1645–69)
 end_time: 1669-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Venetiancrete.jpg

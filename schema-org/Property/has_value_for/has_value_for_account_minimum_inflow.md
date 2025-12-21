@@ -4,21 +4,22 @@ aliases:
   - account-minimum-inflow
   - accountMinimumInflow
   - has_value_for_account_minimum_inflow
+  - has value for account minimum inflow
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - account-minimum-inflow
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_account-minimum-inflow
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

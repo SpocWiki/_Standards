@@ -1,43 +1,44 @@
 ---
 aliases:
   - Unguja
+  - Zanzibar
 has_id_wikidata: Q1774
 confidential: public
 isDeleted: false
 location:
-- -6.13333
-- 39.3167
+  - -6.13333
+  - 39.3167
 SpocWebEntityId: 76703
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 instance_of:
-  - "[[_Standards/WikiData/WD~federated_state,107390]]"
-  - "[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
-anthem: "[[_Standards/WikiData/WD~Mungu_ibariki_Afrika,154035]]"
-different_from: "[[_Standards/WikiData/WD~Zinjibar,204391]]"
+  - '[[_Standards/WikiData/WD~federated_state,107390]]'
+  - '[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]'
+anthem: '[[_Standards/WikiData/WD~Mungu_ibariki_Afrika,154035]]'
+different_from: '[[_Standards/WikiData/WD~Zinjibar,204391]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-head_of_government: "[[_Standards/WikiData/WD~Ali_Mohamed_Shein,743333]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Zanzibar,1135849]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~East_Africa_Time,1773949]]"
-capital: "[[_Standards/WikiData/WD~Zanzibar_City,2222874]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q15864657,15864657]]"
-category_of_associated_people: "[[_Standards/WikiData/WD~Q32406352,32406352]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q32673952,32673952]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Tanzania,924]]"
-country: "[[_Standards/WikiData/WD~Tanzania,924]]"
+head_of_government: '[[_Standards/WikiData/WD~Ali_Mohamed_Shein,743333]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Zanzibar,1135849]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~East_Africa_Time,1773949]]'
+capital: '[[_Standards/WikiData/WD~Zanzibar_City,2222874]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q15864657,15864657]]'
+category_of_associated_people: '[[_Standards/WikiData/WD~Q32406352,32406352]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q32673952,32673952]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Tanzania,924]]'
+country: '[[_Standards/WikiData/WD~Tanzania,924]]'
 official_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Swahili,7838]]"
-present_in_work: "[[_Standards/WikiData/WD~Civilization_V,2385]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Swahili,7838]]'
+present_in_work: '[[_Standards/WikiData/WD~Civilization_V,2385]]'
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
 area: 2461
 Commons_gallery: Zanzibar
 Commons_category: Zanzibar
-OmegaWiki_Defined_Meaning: "376655"
+OmegaWiki_Defined_Meaning: 376655
 population: 1503569
 demonym:
   - Zanzibari
@@ -53,7 +54,7 @@ native_label:
   - Jamhuri ya Watu wa Zanzibar
   - ??????
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Zanzibar%20banner.jpg
-U_S_National_Archives_Identifier: "10038256"
+U_S_National_Archives_Identifier: 10038256
 Libris_URI: wt79dqxf2t76j0d
 booru_tag: zanzibar
 coordinate_location: Point(39.3 -5.9)

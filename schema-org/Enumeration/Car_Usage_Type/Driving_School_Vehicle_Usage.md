@@ -4,21 +4,23 @@ aliases:
   - driving_school_vehicle_usage
   - DrivingSchoolVehicleUsage
   - is_a_driving_school_vehicle_usage
+  - Driving_School_Vehicle_Usage
+  - Driving School Vehicle Usage
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: CarUsageType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - driving_school_vehicle_usage
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_driving_school_vehicle_usage Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -4,20 +4,22 @@ aliases:
   - bank_account
   - BankAccount
   - is_a_bank_account
+  - Bank_Account
+  - Bank Account
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - bank_account
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_bank_account Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

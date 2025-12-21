@@ -1,32 +1,33 @@
 ---
 aliases:
   - Wirtschaft
-  - 
+  - ''
+  - Economy
 has_id_wikidata: Q159810
-geography_of_topic: "[[_Standards/WikiData/WD~economic_geography,187097]]"
-practiced_by: "[[_Standards/WikiData/WD~economist,188094]]"
+geography_of_topic: '[[_Standards/WikiData/WD~economic_geography,187097]]'
+practiced_by: '[[_Standards/WikiData/WD~economist,188094]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
-subclass_of: "[[_Standards/WikiData/WD~social_system,1639378]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~economic_sector,3958441]]"
-has_part_s_: "[[_Standards/WikiData/WD~economic_sector,3958441]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+subclass_of: '[[_Standards/WikiData/WD~social_system,1639378]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~economic_sector,3958441]]'
+has_part_s_: '[[_Standards/WikiData/WD~economic_sector,3958441]]'
 different_from:
-  - "[[_Standards/WikiData/WD~national_economy,6456916]]"
-  - "[[../../WikiData/WD~economic_activity,8187769]]"
-  - "[[_Standards/WikiData/WD~economics,8134]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Business,7348224]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~business_activity,19862406]]"
-instance_of: "[[_Standards/WikiData/WD~human_activity,61788060]]"
+  - '[[_Standards/WikiData/WD~national_economy,6456916]]'
+  - '[[../../WikiData/WD~economic_activity,8187769]]'
+  - '[[_Standards/WikiData/WD~economics,8134]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Business,7348224]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~business_activity,19862406]]'
+instance_of: '[[_Standards/WikiData/WD~human_activity,61788060]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~economics,8134]]"
-  - "[[_Standards/WikiData/WD~economic_anthropology,27841]]"
-Dewey_Decimal_Classification: "330"
-IAB_code: "80"
+  - '[[_Standards/WikiData/WD~economics,8134]]'
+  - '[[_Standards/WikiData/WD~economic_anthropology,27841]]'
+Dewey_Decimal_Classification: 330
+IAB_code: 80
 Commons_category: Economy
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Grand-Bazaar%20Shop.jpg

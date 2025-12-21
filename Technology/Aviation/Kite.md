@@ -1,6 +1,7 @@
 ---
 aliases:
   - Flugdrachen
+  - Kite
 has_id_wikidata: Q42861
 different_from:
   - "[[_Standards/WikiData/WD~kite,107061]]"
@@ -30,16 +31,18 @@ on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki_Loves_Cultura
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q136389363,136389363]]"
 source_of_energy: "[[_Standards/WikiData/WD~wind_power,43302]]"
 Nomenclature_for_Museum_Cataloging:
-  - "11724"
-  - "14782"
+  - 11724
+  - 14782
 Commons_gallery: Kite
-OmegaWiki_Defined_Meaning: "389831"
-GS1_GPC_code: "10001831"
+OmegaWiki_Defined_Meaning: 389831
+GS1_GPC_code: 10001831
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Go%20fly%20a%20kite%20%287511318416%29.jpg
 Commons_category: Kites
-UNSPSC_Code: "60141015"
+UNSPSC_Code: 60141015
 Unicode_character: 🪁
 ---
+
+# [[Kite]] 🪁 
 
 #is_/same_as :: [[WD~Kite,42861]] 
 

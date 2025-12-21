@@ -1,85 +1,88 @@
 ---
+aliases:
+  - Bank_of_America
+  - Bank of America
 has_id_wikidata: Q487907
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~credit,182076]]"
-  - "[[_Standards/WikiData/WD~financial_services,837171]]"
-  - "[[_Standards/WikiData/WD~asset_management,873442]]"
-  - "[[_Standards/WikiData/WD~insurance,43183]]"
+  - '[[_Standards/WikiData/WD~credit,182076]]'
+  - '[[_Standards/WikiData/WD~financial_services,837171]]'
+  - '[[_Standards/WikiData/WD~asset_management,873442]]'
+  - '[[_Standards/WikiData/WD~insurance,43183]]'
 owned_by:
-  - "[[_Standards/WikiData/WD~Berkshire_Hathaway,217583]]"
-  - "[[_Standards/WikiData/WD~BlackRock,219635]]"
-  - "[[_Standards/WikiData/WD~The_Vanguard_Group,849363]]"
-part_of: "[[_Standards/WikiData/WD~S&P_500,242345]]"
+  - '[[_Standards/WikiData/WD~Berkshire_Hathaway,217583]]'
+  - '[[_Standards/WikiData/WD~BlackRock,219635]]'
+  - '[[_Standards/WikiData/WD~The_Vanguard_Group,849363]]'
+part_of: '[[_Standards/WikiData/WD~S&P_500,242345]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Bank_of_America_Tower,328505]]"
-  - "[[_Standards/WikiData/WD~Merrill,334122]]"
-  - "[[_Standards/WikiData/WD~Bank_of_America_Plaza,499486]]"
-  - "[[_Standards/WikiData/WD~Bank_of_America_Financial_Center,586913]]"
-  - "[[_Standards/WikiData/WD~TC_Energy_Center,806669]]"
-  - "[[_Standards/WikiData/WD~Second_Severn_Crossing,1287969]]"
-  - "[[_Standards/WikiData/WD~108_North_State_Street,4546763]]"
-  - "[[_Standards/WikiData/WD~Bank_of_America_Center,4856031]]"
-  - "[[_Standards/WikiData/WD~Bank_of_America_Plaza,4856038]]"
-  - "[[_Standards/WikiData/WD~Fifth_Third_Center,5447564]]"
-  - "[[_Standards/WikiData/WD~Stephen_Sondheim_Theatre,7610570]]"
+  - '[[_Standards/WikiData/WD~Bank_of_America_Tower,328505]]'
+  - '[[_Standards/WikiData/WD~Merrill,334122]]'
+  - '[[_Standards/WikiData/WD~Bank_of_America_Plaza,499486]]'
+  - '[[_Standards/WikiData/WD~Bank_of_America_Financial_Center,586913]]'
+  - '[[_Standards/WikiData/WD~TC_Energy_Center,806669]]'
+  - '[[_Standards/WikiData/WD~Second_Severn_Crossing,1287969]]'
+  - '[[_Standards/WikiData/WD~108_North_State_Street,4546763]]'
+  - '[[_Standards/WikiData/WD~Bank_of_America_Center,4856031]]'
+  - '[[_Standards/WikiData/WD~Bank_of_America_Plaza,4856038]]'
+  - '[[_Standards/WikiData/WD~Fifth_Third_Center,5447564]]'
+  - '[[_Standards/WikiData/WD~Stephen_Sondheim_Theatre,7610570]]'
 child_organization_unit:
-  - "[[_Standards/WikiData/WD~Merrill,334122]]"
-  - "[[_Standards/WikiData/WD~Bank_of_America_Merrill_Lynch,3719120]]"
-  - "[[_Standards/WikiData/WD~Endeavour_Foundation,5375988]]"
-  - "[[_Standards/WikiData/WD~1st_Franklin_Financial,5453029]]"
-  - "[[_Standards/WikiData/WD~Incapital,6014129]]"
-  - "[[_Standards/WikiData/WD~Seafirst_Bank,7440350]]"
+  - '[[_Standards/WikiData/WD~Merrill,334122]]'
+  - '[[_Standards/WikiData/WD~Bank_of_America_Merrill_Lynch,3719120]]'
+  - '[[_Standards/WikiData/WD~Endeavour_Foundation,5375988]]'
+  - '[[_Standards/WikiData/WD~1st_Franklin_Financial,5453029]]'
+  - '[[_Standards/WikiData/WD~Incapital,6014129]]'
+  - '[[_Standards/WikiData/WD~Seafirst_Bank,7440350]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~credit_institution,730038]]"
-  - "[[_Standards/WikiData/WD~business,4830453]]"
-  - "[[_Standards/WikiData/WD~enterprise,6881511]]"
-  - "[[_Standards/WikiData/WD~bank,22687]]"
+  - '[[_Standards/WikiData/WD~credit_institution,730038]]'
+  - '[[_Standards/WikiData/WD~business,4830453]]'
+  - '[[_Standards/WikiData/WD~enterprise,6881511]]'
+  - '[[_Standards/WikiData/WD~bank,22687]]'
 industry:
-  - "[[_Standards/WikiData/WD~financial_services,837171]]"
-  - "[[_Standards/WikiData/WD~International_Standard_Industrial_Classification,1666934]]"
-  - "[[_Standards/WikiData/WD~financial_sector,57774188]]"
+  - '[[_Standards/WikiData/WD~financial_services,837171]]'
+  - '[[_Standards/WikiData/WD~International_Standard_Industrial_Classification,1666934]]'
+  - '[[_Standards/WikiData/WD~financial_sector,57774188]]'
 legal_form:
-  - "[[_Standards/WikiData/WD~public_company,891723]]"
-  - "[[_Standards/WikiData/WD~Delaware_corporation,88537331]]"
+  - '[[_Standards/WikiData/WD~public_company,891723]]'
+  - '[[_Standards/WikiData/WD~Delaware_corporation,88537331]]'
 board_member:
-  - "[[_Standards/WikiData/WD~Brian_Moynihan,912811]]"
-  - "[[_Standards/WikiData/WD~Monica_C._Lozano,1557228]]"
-  - "[[_Standards/WikiData/WD~Maria_T._Zuber,4194276]]"
-  - "[[_Standards/WikiData/WD~Joe_Almeida,6291340]]"
-  - "[[_Standards/WikiData/WD~Linda_Hudson,6551659]]"
-  - "[[_Standards/WikiData/WD~Susan_Bies,7647573]]"
-  - "[[_Standards/WikiData/WD~Arnold_W._Donald,16148720]]"
-  - "[[_Standards/WikiData/WD~Clayton_Rose,21066601]]"
-  - "[[_Standards/WikiData/WD~Lionel_Nowell,109656362]]"
-  - "[[_Standards/WikiData/WD~Sharon_Allen,109656448]]"
-  - "[[_Standards/WikiData/WD~Frank_Bramble,109659430]]"
-  - "[[_Standards/WikiData/WD~Pierre_de_Weck,109659537]]"
-  - "[[_Standards/WikiData/WD~Tom_May,109661064]]"
-  - "[[_Standards/WikiData/WD~Denise_Ramos,109661134]]"
-  - "[[_Standards/WikiData/WD~Michael_D._White,109663453]]"
-  - "[[_Standards/WikiData/WD~Tom_Woods,109663611]]"
-  - "[[_Standards/WikiData/WD~David_Yost,109663877]]"
-chief_executive_officer: "[[_Standards/WikiData/WD~Brian_Moynihan,912811]]"
-founded_by: "[[_Standards/WikiData/WD~Amadeo_Giannini,2637693]]"
+  - '[[_Standards/WikiData/WD~Brian_Moynihan,912811]]'
+  - '[[_Standards/WikiData/WD~Monica_C._Lozano,1557228]]'
+  - '[[_Standards/WikiData/WD~Maria_T._Zuber,4194276]]'
+  - '[[_Standards/WikiData/WD~Joe_Almeida,6291340]]'
+  - '[[_Standards/WikiData/WD~Linda_Hudson,6551659]]'
+  - '[[_Standards/WikiData/WD~Susan_Bies,7647573]]'
+  - '[[_Standards/WikiData/WD~Arnold_W._Donald,16148720]]'
+  - '[[_Standards/WikiData/WD~Clayton_Rose,21066601]]'
+  - '[[_Standards/WikiData/WD~Lionel_Nowell,109656362]]'
+  - '[[_Standards/WikiData/WD~Sharon_Allen,109656448]]'
+  - '[[_Standards/WikiData/WD~Frank_Bramble,109659430]]'
+  - '[[_Standards/WikiData/WD~Pierre_de_Weck,109659537]]'
+  - '[[_Standards/WikiData/WD~Tom_May,109661064]]'
+  - '[[_Standards/WikiData/WD~Denise_Ramos,109661134]]'
+  - '[[_Standards/WikiData/WD~Michael_D._White,109663453]]'
+  - '[[_Standards/WikiData/WD~Tom_Woods,109663611]]'
+  - '[[_Standards/WikiData/WD~David_Yost,109663877]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Brian_Moynihan,912811]]'
+founded_by: '[[_Standards/WikiData/WD~Amadeo_Giannini,2637693]]'
 follows:
-  - "[[_Standards/WikiData/WD~FleetBoston_Financial,3073513]]"
+  - '[[_Standards/WikiData/WD~FleetBoston_Financial,3073513]]'
   - "[[_Standards/WikiData/WD~Boatmen's_Bancshares,4931533]]"
-  - "[[_Standards/WikiData/WD~Continental_Illinois,5165293]]"
-  - "[[_Standards/WikiData/WD~Fourth_Financial_Corporation,5476087]]"
-  - "[[_Standards/WikiData/WD~Michigan_National_Bank,6837626]]"
+  - '[[_Standards/WikiData/WD~Continental_Illinois,5165293]]'
+  - '[[_Standards/WikiData/WD~Fourth_Financial_Corporation,5476087]]'
+  - '[[_Standards/WikiData/WD~Michigan_National_Bank,6837626]]'
 replaces:
-  - "[[_Standards/WikiData/WD~NationsBank,3337010]]"
-  - "[[_Standards/WikiData/WD~Bank_of_America_NT&SA,4856033]]"
+  - '[[_Standards/WikiData/WD~NationsBank,3337010]]'
+  - '[[_Standards/WikiData/WD~Bank_of_America_NT&SA,4856033]]'
 member_of:
-  - "[[_Standards/WikiData/WD~FIDO_Alliance,15731702]]"
-  - "[[_Standards/WikiData/WD~Net_Zero_Banking_Alliance,129633684]]"
-  - "[[_Standards/WikiData/WD~World_Wide_Web_Consortium,37033]]"
+  - '[[_Standards/WikiData/WD~FIDO_Alliance,15731702]]'
+  - '[[_Standards/WikiData/WD~Net_Zero_Banking_Alliance,129633684]]'
+  - '[[_Standards/WikiData/WD~World_Wide_Web_Consortium,37033]]'
 domain_name: bankofamerica.com
 award_received: "[[_Standards/WikiData/WD~The_Center's_Honorarium_Honorees,118919758]]"
-stock_exchange: "[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Charlotte,16565]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-location_of_formation: "[[_Standards/WikiData/WD~San_Francisco,62]]"
+stock_exchange: '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Charlotte,16565]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+location_of_formation: '[[_Standards/WikiData/WD~San_Francisco,62]]'
 social_media_followers:
   - 120000
   - 944649
@@ -92,7 +95,7 @@ market_capitalization:
   - 232000000000
   - 265840000000
   - 344490000000
-Private_Enterprise_Number: "3748"
+Private_Enterprise_Number: 3748
 total_liabilities: 1888000000000
 operating_income: 18995000000
 net_profit: 26515000000
@@ -115,17 +118,17 @@ location_information_URL:
   - https://locators.bankofamerica.com/
   - https://locations.privatebank.bankofamerica.com/
 official_website: https://www.bankofamerica.com/
-ISNI: "0000000103736759"
-Central_Index_Key: "0000070858"
+ISNI: 0000000103736759
+Central_Index_Key: 0000070858
 IPv4_routing_prefix:
   - 171.128.0.0/10
   - 171.192.0.0/13
   - 171.200.0.0/14
   - 171.204.0.0/15
   - 171.206.0.0/16
-Corporate_Number_Japan_: "5700150003850"
-PermID: "8589934339"
-P8189: "987007601302905171"
+Corporate_Number_Japan_: 5700150003850
+PermID: 8589934339
+P8189: 987007601302905171
 Legal_Entity_Identifier: 9DJT3UXIJIZJI4WXO774
 Instagram_username: bankofamerica
 Facebook_username: BankofAmerica

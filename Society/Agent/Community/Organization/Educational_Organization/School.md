@@ -3,37 +3,37 @@ aliases:
   - school
   - School
   - is_a_school
-  - "School": 
+  - School: ''
 confidential: private
 cssclasses:
   - private
   - note
 draft: true
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - school
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle:
-  "School": 
+  School: ''
 publish: false
-publishDate: 
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
-  - "School": 
+  - School: ''
   - excalidraw
 title:
-  "School": 
+  School: ''
 type: private_note
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-has_Template: "[[Extract~Note~Template]]"
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  "{ \"date:YYYY-MM-DD\": null }": 
+  '{ "date:YYYY-MM-DD": null }': ''
 lang: en
 ---
 

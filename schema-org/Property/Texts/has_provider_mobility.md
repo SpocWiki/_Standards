@@ -4,22 +4,24 @@ aliases:
   - provider_mobility
   - providerMobility
   - has_text_of_provider_mobility
+  - has_provider_mobility
+  - has provider mobility
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - provider
   - mobility
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_provider_mobility
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

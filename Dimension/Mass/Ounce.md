@@ -1,21 +1,22 @@
 ---
 aliases:
   - Unze
+  - Ounce
 has_id_wikidata: Q48013
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
-named_after: "[[_Standards/WikiData/WD~uncia,1052833]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+named_after: '[[_Standards/WikiData/WD~uncia,1052833]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~unit_of_mass,3647172]]"
-  - "[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]"
+  - '[[_Standards/WikiData/WD~unit_of_mass,3647172]]'
+  - '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
 different_from: "[[_Standards/WikiData/WD~apothecaries'_ounce,12034595]]"
-part_of: "[[_Standards/WikiData/WD~Imperial_and_US_customary_measurement_systems,14290846]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Measurement,21830338]]"
+part_of: '[[_Standards/WikiData/WD~Imperial_and_US_customary_measurement_systems,14290846]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Measurement,21830338]]'
 conversion_to_SI_unit: 0.028349523125
-measured_physical_quantity: "[[_Standards/WikiData/WD~mass,11423]]"
+measured_physical_quantity: '[[_Standards/WikiData/WD~mass,11423]]'
 conversion_to_standard_unit:
   - 20
   - 0.0625
@@ -39,7 +40,7 @@ unit_symbol:
   - ℥
 UN_CEFACT_Common_Code: ONZ
 Wolfram_Language_unit_code: '"Ounces"'
-UCUM_code: "[oz_av]"
+UCUM_code: '[oz_av]'
 Unicode_character: ℥
 Wikidata_SPARQL_query_equivalent: wd:Q48013 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
 ---

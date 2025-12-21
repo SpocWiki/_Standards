@@ -2,17 +2,18 @@
 aliases:
   - Neugeborenes
   - newborn
+  - Neonate
 has_id_wikidata: Q576104
 instance_of:
-  - "[[_Standards/WikiData/WD~concept,151885]]"
-  - "[[_Standards/WikiData/WD~phase_of_human_life,785260]]"
-studied_by: "[[_Standards/WikiData/WD~neonatology,898674]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~human_perinate,130258134]]"
-replaced_by: "[[_Standards/WikiData/WD~infant,998]]"
-subclass_of: "[[_Standards/WikiData/WD~infant,998]]"
-facet_of: "[[_Standards/WikiData/WD~medicine,11190]]"
+  - '[[_Standards/WikiData/WD~concept,151885]]'
+  - '[[_Standards/WikiData/WD~phase_of_human_life,785260]]'
+studied_by: '[[_Standards/WikiData/WD~neonatology,898674]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~human_perinate,130258134]]'
+replaced_by: '[[_Standards/WikiData/WD~infant,998]]'
+subclass_of: '[[_Standards/WikiData/WD~infant,998]]'
+facet_of: '[[_Standards/WikiData/WD~medicine,11190]]'
 normal_respiratory_rate:
   - 30
   - 40
@@ -20,7 +21,7 @@ heart_rate:
   - 120
   - 160
 duration: 28
-has_cause: "[[_Standards/WikiData/WD~parturition,34581]]"
+has_cause: '[[_Standards/WikiData/WD~parturition,34581]]'
 mass: 3250
 Colon_Classification: S11
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Baby%20care%2C%20Newborn%20baby%20girl%2C%20Moscow%2C%20Russia.jpg

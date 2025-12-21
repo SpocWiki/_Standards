@@ -4,20 +4,22 @@ aliases:
   - digital_document_permission_type
   - DigitalDocumentPermissionType
   - is_a_digital_document_permission_type
+  - Digital_Document_Permission_Type
+  - Digital Document Permission Type
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - digital_document_permission_type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_digital_document_permission_type Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

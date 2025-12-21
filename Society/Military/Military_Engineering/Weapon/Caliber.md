@@ -1,6 +1,7 @@
 ---
 aliases:
   - Kaliber
+  - Caliber
 has_id_wikidata: Q170417
 subclass_of:
   - "[[_Standards/WikiData/WD~technical_standard,317623]]"

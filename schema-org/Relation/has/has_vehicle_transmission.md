@@ -3,23 +3,24 @@ aliases:
   - has vehicle-transmission
   - vehicleTransmission
   - has_vehicle_transmission
+  - has vehicle transmission
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - vehicle_transmission
   - vehicle
   - transmission
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_vehicle_transmission
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

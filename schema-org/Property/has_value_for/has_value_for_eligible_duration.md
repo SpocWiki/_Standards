@@ -4,21 +4,22 @@ aliases:
   - eligible-duration
   - eligibleDuration
   - has_value_for_eligible_duration
+  - has value for eligible duration
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - eligible-duration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_eligible-duration
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

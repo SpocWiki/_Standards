@@ -7,25 +7,26 @@ aliases:
   - Amazonian rubber
   - caucho
   - caoutchouc
+  - Rubber
 has_id_wikidata: Q18113858
 subclass_of:
-  - "[[_Standards/WikiData/WD~polymer,81163]]"
-  - "[[_Standards/WikiData/WD~elastomer,252266]]"
-instance_of: "[[_Standards/WikiData/WD~material,214609]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~elastomer,252266]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~elastomer,252266]]"
+  - '[[_Standards/WikiData/WD~polymer,81163]]'
+  - '[[_Standards/WikiData/WD~elastomer,252266]]'
+instance_of: '[[_Standards/WikiData/WD~material,214609]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~elastomer,252266]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~elastomer,252266]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q9580490,9580490]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9580490,9580490]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 Commons_category: Rubber
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Compounding%20ingredients%20for%20rubber.jpg
 Dewey_Decimal_Classification:
-  - "547.8426"
-  - "620.194"
-  - "678.2"
+  - 547.8426
+  - 620.194
+  - 678.2
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/KAUCHUK.html
 ---
 

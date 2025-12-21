@@ -6,13 +6,15 @@ aliases:
   - anti-monopoly law
   - trade practices law
   - trust busting
+  - Competition_Law
+  - Competition Law
 has_id_wikidata: Q326498
 has_part_s_:
-  - "[[_Standards/WikiData/WD~antitrust_laws,1734555]]"
-  - "[[_Standards/WikiData/WD~Q1808662,1808662]]"
-instance_of: "[[_Standards/WikiData/WD~area_of_law,1756157]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Competition_law,7646075]]"
-subclass_of: "[[_Standards/WikiData/WD~law,7748]]"
+  - '[[_Standards/WikiData/WD~antitrust_laws,1734555]]'
+  - '[[_Standards/WikiData/WD~Q1808662,1808662]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_law,1756157]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Competition_law,7646075]]'
+subclass_of: '[[_Standards/WikiData/WD~law,7748]]'
 Commons_category: Competition law
 ---
 

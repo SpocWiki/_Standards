@@ -1,11 +1,20 @@
 ---
+aliases:
+  - Uzbekistan
+  - Uzbekistán
+  - Ouzbékistan
+  - أوزبكستان
+  - 乌兹别克斯坦
+  - Узбекистан
+  - the Republic of Uzbekistan
+  - la República de Uzbekistán
+has_id_wikidata: Q265
 location:
   - 41.33
   - 69.3
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q265
 SpocWebEntityId: 27049
 isDeleted: false
 confidential: public
@@ -16,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Uzbekistan
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Uzbekistan
-  - Uzbekistán
-  - Ouzbékistan
-  - أوزبكستان
-  - 乌兹别克斯坦
-  - Узбекистан
-  - the Republic of Uzbekistan
-  - la República de Uzbekistán
+publishDate: ""
+expiryDate: ""
 Languages:
   - uz
   - ru
@@ -308,7 +308,7 @@ female_population:
   - 17446107
   - 17809564
 U_S_National_Archives_Identifier: 10045283
-inception: "1991"
+inception: 1991
 has_time_started: 1991-06
 coordinates_of_westernmost_point: Point(56.0 41.319444444)
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Aral%20Sea%201989-2008.jpg

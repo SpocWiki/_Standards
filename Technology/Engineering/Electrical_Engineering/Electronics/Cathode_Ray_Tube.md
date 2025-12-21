@@ -2,18 +2,20 @@
 aliases:
   - Kathodenstrahlröhre
   - picture tube
+  - Cathode_Ray_Tube
+  - Cathode Ray Tube
 has_id_wikidata: Q83913
-named_after: "[[_Standards/WikiData/WD~cathode,175233]]"
+named_after: '[[_Standards/WikiData/WD~cathode,175233]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~vacuum_tube,3574371]]"
-  - "[[_Standards/WikiData/WD~display_technology,54006339]]"
+  - '[[_Standards/WikiData/WD~vacuum_tube,3574371]]'
+  - '[[_Standards/WikiData/WD~display_technology,54006339]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 part_of:
-  - "[[_Standards/WikiData/WD~computer_monitor,5290]]"
-  - "[[_Standards/WikiData/WD~television_set,8075]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Ferdinand_Braun,57077]]"
-OmegaWiki_Defined_Meaning: "639075"
+  - '[[_Standards/WikiData/WD~computer_monitor,5290]]'
+  - '[[_Standards/WikiData/WD~television_set,8075]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Ferdinand_Braun,57077]]'
+OmegaWiki_Defined_Meaning: 639075
 subreddit:
   - crt
 Commons_category: Cathode ray tubes
@@ -22,10 +24,10 @@ schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Cathode%20ray%20tube%20diagram-keys.svg
 sectional_view: http://commons.wikimedia.org/wiki/Special:FilePath/CRT%20cross%20section%20at%20the%20Early%20Television%20Museum%20June%202022.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Magnet%20on%20TV.webm
-UNSPSC_Code: "32141001"
+UNSPSC_Code: 32141001
 MCN_code: 7011.20.00
 IEV_number: 881-05-33
-P8189: "987007284706405171"
+P8189: 987007284706405171
 Commons_gallery: Cathode ray tube
 MeSH_tree_code:
   - E07.305.092

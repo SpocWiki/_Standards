@@ -2,6 +2,7 @@
 aliases:
   - Italian Actor
   - Italian Actress
+  - Italian_Actor
 ---
 
 

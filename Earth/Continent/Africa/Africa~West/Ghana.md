@@ -7,6 +7,7 @@ aliases:
   - Гана
   - the Republic of Ghana
   - la República de Ghana
+has_id_wikidata: Q117
 anthem: "[[_Standards/WikiData/WD~God_Bless_Our_Homeland_Ghana,273260]]"
 area: 238535
 basic_form_of_government: "[[_Standards/WikiData/WD~democracy,7174]]"
@@ -115,7 +116,7 @@ emergency_phone_number:
   - "[[_Standards/WikiData/WD~193,25648835]]"
   - "[[_Standards/WikiData/WD~191,25648876]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Ghana,16733607]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 15798612
   - 16129086
@@ -132,7 +133,6 @@ GS1_country_code: 603
 Happy_Planet_Index_score: 39.5
 hashtag: Ghana
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-has_id_wikidata: Q117
 has_time_started: 1957-06
 head_of_government: "[[_Standards/WikiData/WD~Nana_Akufo-Addo,718601]]"
 head_of_state: "[[_Standards/WikiData/WD~Nana_Akufo-Addo,718601]]"
@@ -155,7 +155,7 @@ ISO_3166_1_alpha_3_code: GHA
 ISO_3166_1_numeric_code: 288
 isReadOnly: false
 ITU_letter_code: GHA
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/GANA.html
 Languages:
   - en-GH
@@ -238,12 +238,12 @@ language_used:
   - "[[_Standards/WikiData/WD~Southern_Birifor,32859745]]"
   - "[[_Standards/WikiData/WD~English,1860]]"
   - "[[_Standards/WikiData/WD~Hausa,56475]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Ghana,1807513]]"
 licence_plate_code: GH
 license: CC BY-SA 4.0
 life_expectancy: 62.742
-linkTitle:
+linkTitle: ""
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~West_Africa,4412]]"
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 located_in_time_zone:
@@ -325,7 +325,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Ghana.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%98%E0%A6%BE%E0%A6%A8%E0%A6%BE.wav
 publish: true
-publishDate:
+publishDate: ""
 replaces:
   - "[[_Standards/WikiData/WD~Gold_Coast_Colony,503623]]"
   - "[[_Standards/WikiData/WD~British_Togoland,797527]]"

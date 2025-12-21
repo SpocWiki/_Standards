@@ -5,22 +5,24 @@ aliases:
   - building regulations
   - Bauvorschrift
   - Bauvorschriften
+  - Building_Code
+  - Building Code
 has_id_wikidata: Q2333573
 main_subject:
-  - "[[_Standards/WikiData/WD~construction,385378]]"
-  - "[[_Standards/WikiData/WD~hazard_mitigating_structure,123809180]]"
+  - '[[_Standards/WikiData/WD~construction,385378]]'
+  - '[[_Standards/WikiData/WD~hazard_mitigating_structure,123809180]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~code_of_law,922203]]"
+  - '[[_Standards/WikiData/WD~code_of_law,922203]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~code_of_law,922203]]"
+  - '[[_Standards/WikiData/WD~code_of_law,922203]]'
 different_from:
-  - "[[_Standards/WikiData/WD~software_build,1362142]]"
+  - '[[_Standards/WikiData/WD~software_build,1362142]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~model_building_code,6888313]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~building_code,22116544]]"
+  - '[[_Standards/WikiData/WD~model_building_code,6888313]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~building_code,22116544]]'
 Library_of_Congress_Classification: K3538-K3544
 Commons_category: Building code violations
-P8189: "987007292549705171"
+P8189: 987007292549705171
 UMLS_CUI: C0006361
 MeSH_tree_code:
   - N02.278.200.100

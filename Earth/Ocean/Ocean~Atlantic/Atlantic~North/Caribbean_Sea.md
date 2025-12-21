@@ -1,6 +1,8 @@
 ---
 aliases:
   - Karibik
+  - Caribbean_Sea
+  - Caribbean Sea
 has_id_wikidata: Q1247
 ---
 

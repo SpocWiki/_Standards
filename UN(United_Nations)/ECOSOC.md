@@ -1,6 +1,7 @@
 ---
 aliases:
-- CESNU
+  - CESNU
+  - ECOSOC
 ---
 
 # [[ECOSOC]] 

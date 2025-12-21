@@ -2,18 +2,19 @@
 aliases:
   - Hanging Gardens of Babylon
   - Hanging Gardens of Semiramis
+  - Hanging_Gardens_of_Babylon
 has_id_wikidata: Q41931
-part_of: "[[_Standards/WikiData/WD~Seven_Wonders_of_the_Ancient_World,489772]]"
+part_of: '[[_Standards/WikiData/WD~Seven_Wonders_of_the_Ancient_World,489772]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~hanging_garden,2332212]]"
-  - "[[_Standards/WikiData/WD~destroyed_building_or_structure,19860854]]"
-  - "[[_Standards/WikiData/WD~Wonder_of_the_Ancient_World,66108498]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Iraq,796]]"
-locations: "[[_Standards/WikiData/WD~Babylon,5684]]"
-country: "[[_Standards/WikiData/WD~Assyrian_Empire,41137]]"
+  - '[[_Standards/WikiData/WD~hanging_garden,2332212]]'
+  - '[[_Standards/WikiData/WD~destroyed_building_or_structure,19860854]]'
+  - '[[_Standards/WikiData/WD~Wonder_of_the_Ancient_World,66108498]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Iraq,796]]'
+locations: '[[_Standards/WikiData/WD~Babylon,5684]]'
+country: '[[_Standards/WikiData/WD~Assyrian_Empire,41137]]'
 Commons_category: Hanging Gardens of Babylon
 coordinate_location: Point(44.4275 32.5355)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Babylon%3B%20the%20city%20%28above%29%3B%20the%20hanging%20gardens%20of%20Babylon%20Wellcome%20L0047679.jpg

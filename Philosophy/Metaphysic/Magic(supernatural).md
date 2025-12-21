@@ -1,28 +1,29 @@
 ---
 aliases:
   - magick
+  - Magic(supernatural)
 has_id_wikidata: Q81741
-instance_of: "[[_Standards/WikiData/WD~supernatural,80837]]"
+instance_of: '[[_Standards/WikiData/WD~supernatural,80837]]'
 different_from:
-  - "[[_Standards/WikiData/WD~stage_magic,148442]]"
-  - "[[_Standards/WikiData/WD~Magic,224102]]"
-subclass_of: "[[_Standards/WikiData/WD~occultism,178934]]"
+  - '[[_Standards/WikiData/WD~stage_magic,148442]]'
+  - '[[_Standards/WikiData/WD~Magic,224102]]'
+subclass_of: '[[_Standards/WikiData/WD~occultism,178934]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-practiced_by: "[[_Standards/WikiData/WD~magician,2488257]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+practiced_by: '[[_Standards/WikiData/WD~magician,2488257]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~magic_power,2584339]]"
-  - "[[_Standards/WikiData/WD~Islam_and_magic,18380502]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Witchcraft,8086982]]"
-part_of: "[[_Standards/WikiData/WD~magic_and_religion,17097785]]"
-Iconclass_notation: "13"
+  - '[[_Standards/WikiData/WD~magic_power,2584339]]'
+  - '[[_Standards/WikiData/WD~Islam_and_magic,18380502]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Witchcraft,8086982]]'
+part_of: '[[_Standards/WikiData/WD~magic_and_religion,17097785]]'
+Iconclass_notation: 13
 hashtag:
   - Magic
   - Magie

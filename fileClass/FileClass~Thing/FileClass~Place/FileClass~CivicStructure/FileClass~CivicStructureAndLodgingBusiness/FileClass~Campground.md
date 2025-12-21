@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Campground
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness
 fields: []
 icon: tent
 limit: 9
 mapWithTag: false
 tagNames:
-- class/Campground
-- class/Thing/Place/CivicStructure/CivicStructureAndLodgingBusiness/Campground
-- is_a_/Campground
-- schema-org/Campground
+  - class/Campground
+  - class/Thing/Place/CivicStructure/CivicStructureAndLodgingBusiness/Campground
+  - is_a_/Campground
+  - schema-org/Campground
 tags:
-- class/FileClass
-- class/Campground
-- is_a_/Campground
-- class/Thing/Place/CivicStructure/CivicStructureAndLodgingBusiness/Campground
+  - class/FileClass
+  - class/Campground
+  - is_a_/Campground
+  - class/Thing/Place/CivicStructure/CivicStructureAndLodgingBusiness/Campground
 version: 2.0
 ---
 

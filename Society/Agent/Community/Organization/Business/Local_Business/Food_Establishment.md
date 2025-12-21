@@ -4,20 +4,22 @@ aliases:
   - food_establishment
   - FoodEstablishment
   - is_a_food_establishment
+  - Food_Establishment
+  - Food Establishment
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - food_establishment
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_food_establishment Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

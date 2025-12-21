@@ -3,23 +3,24 @@ aliases:
   - has study-location
   - studyLocation
   - has_study_location
+  - has study location
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - study_location
   - study
   - location
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_study_location
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

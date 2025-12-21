@@ -1,6 +1,8 @@
 ---
 aliases:
   - Zitronensäure
+  - Citric_Acid
+  - Citric Acid
 has_id_wikidata: Q159683
 ---
 

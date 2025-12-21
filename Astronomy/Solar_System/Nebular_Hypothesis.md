@@ -1,18 +1,20 @@
 ---
 aliases:
   - nebular hypothesis
+  - Nebular_Hypothesis
+  - Nebular Hypothesis
 has_id_wikidata: Q13599969
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~scientific_hypothesis,3144351]]"
-  - "[[_Standards/WikiData/WD~encyclopedia_article,13433827]]"
-published_in: "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-part_of: "[[_Standards/WikiData/WD~Exposition_du_système_du_monde,19170514]]"
+  - '[[_Standards/WikiData/WD~scientific_hypothesis,3144351]]'
+  - '[[_Standards/WikiData/WD~encyclopedia_article,13433827]]'
+published_in: '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+part_of: '[[_Standards/WikiData/WD~Exposition_du_système_du_monde,19170514]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Immanuel_Kant,9312]]"
-  - "[[_Standards/WikiData/WD~Pierre_Simon_Laplace,44481]]"
+  - '[[_Standards/WikiData/WD~Immanuel_Kant,9312]]'
+  - '[[_Standards/WikiData/WD~Pierre_Simon_Laplace,44481]]'
 Commons_category: Nebular hypothesis
 ---
 

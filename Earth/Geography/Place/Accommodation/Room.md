@@ -6,42 +6,42 @@ aliases:
   - is_a_room
   - Zimmer
   - Raum
+has_id_wikidata: Q180516
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - room
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_room Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_room Class
 type: Type
-has_id_wikidata: Q180516
 has_part_s_:
-  - "[[_Standards/WikiData/WD~ceiling,221706]]"
-  - "[[_Standards/WikiData/WD~wall,2547819]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~ceiling,221706]]'
+  - '[[_Standards/WikiData/WD~wall,2547819]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~interior_space,1299240]]"
-  - "[[_Standards/WikiData/WD~artificial_physical_structure,11908691]]"
-  - "[[_Standards/WikiData/WD~facility,13226383]]"
-has_contributing_factor: "[[_Standards/WikiData/WD~interior_architecture,1329946]]"
+  - '[[_Standards/WikiData/WD~interior_space,1299240]]'
+  - '[[_Standards/WikiData/WD~artificial_physical_structure,11908691]]'
+  - '[[_Standards/WikiData/WD~facility,13226383]]'
+has_contributing_factor: '[[_Standards/WikiData/WD~interior_architecture,1329946]]'
 part_of:
-  - "[[_Standards/WikiData/WD~artificial_physical_structure,11908691]]"
-  - "[[_Standards/WikiData/WD~building,41176]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Room,13309136]]"
-different_from: "[[_Standards/WikiData/WD~room_in_a_fixed_structure,124720366]]"
-connects_with: "[[_Standards/WikiData/WD~connecting_corridor,131302992]]"
-U_S_National_Archives_Identifier: "10645805"
+  - '[[_Standards/WikiData/WD~artificial_physical_structure,11908691]]'
+  - '[[_Standards/WikiData/WD~building,41176]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Room,13309136]]'
+different_from: '[[_Standards/WikiData/WD~room_in_a_fixed_structure,124720366]]'
+connects_with: '[[_Standards/WikiData/WD~connecting_corridor,131302992]]'
+U_S_National_Archives_Identifier: 10645805
 OpenStreetMap_key: room
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20youth%20hostel%20room.jpg
 Commons_category: Rooms

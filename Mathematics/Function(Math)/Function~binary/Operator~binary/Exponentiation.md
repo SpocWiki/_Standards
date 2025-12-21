@@ -1,29 +1,30 @@
 ---
 aliases:
   - Potenzierung
+  - Exponentiation
 has_id_wikidata: Q33456
-subclass_of: "[[_Standards/WikiData/WD~binary_operation,164307]]"
+subclass_of: '[[_Standards/WikiData/WD~binary_operation,164307]]'
 has_use:
-  - "[[_Standards/WikiData/WD~exponential_function,168698]]"
-  - "[[_Standards/WikiData/WD~power_function,1173515]]"
-  - "[[_Standards/WikiData/WD~natural_exponential_function,47306354]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~antilogarithm,577570]]"
-opposite_of: "[[_Standards/WikiData/WD~nth_root,601053]]"
+  - '[[_Standards/WikiData/WD~exponential_function,168698]]'
+  - '[[_Standards/WikiData/WD~power_function,1173515]]'
+  - '[[_Standards/WikiData/WD~natural_exponential_function,47306354]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~antilogarithm,577570]]'
+opposite_of: '[[_Standards/WikiData/WD~nth_root,601053]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251]]"
-  - "[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-instance_of: "[[_Standards/WikiData/WD~hyperoperation,1569997]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251]]'
+  - '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[_Standards/WikiData/WD~hyperoperation,1569997]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~exponent,2233915]]"
-  - "[[_Standards/WikiData/WD~base,2886413]]"
-  - "[[_Standards/WikiData/WD~power,55091534]]"
+  - '[[_Standards/WikiData/WD~exponent,2233915]]'
+  - '[[_Standards/WikiData/WD~base,2886413]]'
+  - '[[_Standards/WikiData/WD~power,55091534]]'
 different_from:
-  - "[[_Standards/WikiData/WD~function_iteration,5254619]]"
-  - "[[_Standards/WikiData/WD~power,55091534]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-depicted_by: "[[_Standards/WikiData/WD~caret,12646412]]"
+  - '[[_Standards/WikiData/WD~function_iteration,5254619]]'
+  - '[[_Standards/WikiData/WD~power,55091534]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+depicted_by: '[[_Standards/WikiData/WD~caret,12646412]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Expo02.svg
 Stack_Exchange_tag: https://stackoverflow.com/tags/exponent
 IEV_number: 102-02-07

@@ -3,12 +3,13 @@ aliases:
   - has live-blog-update
   - liveBlogUpdate
   - has_live_blog_update
+  - has live blog update
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - live
   - blog
   - update
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_live_blog_update
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

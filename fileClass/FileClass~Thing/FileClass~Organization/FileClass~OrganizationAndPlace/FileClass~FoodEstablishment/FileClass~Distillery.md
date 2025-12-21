@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Distillery
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment
 fields: []
 icon: martini
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Distillery
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Distillery
-- is_a_/Distillery
-- schema-org/Distillery
+  - class/Distillery
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Distillery
+  - is_a_/Distillery
+  - schema-org/Distillery
 tags:
-- class/FileClass
-- class/Distillery
-- is_a_/Distillery
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Distillery
+  - class/FileClass
+  - class/Distillery
+  - is_a_/Distillery
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Distillery
 version: 2.0
 ---
 

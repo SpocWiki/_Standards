@@ -3,23 +3,24 @@ aliases:
   - has hiring-organization
   - hiringOrganization
   - has_hiring_organization
+  - has hiring organization
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - hiring
   - organization
   - hiring_organization
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_hiring_organization
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

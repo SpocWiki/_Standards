@@ -4,23 +4,24 @@ aliases:
   - meeting_emission_standard
   - meetsEmissionStandard
   - is_meeting_emission_standard
+  - is meeting emission standard
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - meets
   - emission
   - standard
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_meeting_emission_standard
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

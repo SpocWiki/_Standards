@@ -2,6 +2,7 @@
 aliases:
   - Burg
   - Kastell
+  - Castle
 has_id_wikidata: Q23413
 has_part_s_:
   - "[[_Standards/WikiData/WD~keep,91165]]"
@@ -47,13 +48,13 @@ exact_match:
   - http://wordnet-rdf.princeton.edu/wn30/02980441-n
   - http://wordnet-rdf.princeton.edu/wn31/102974554-n
 Unicode_character: 🏰
-P8189: "987007284718005171"
+P8189: 987007284718005100
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/ZAMOK.html
 GeoNames_feature_code: S.CSTL
 OpenStreetMap_tag_or_key: Tag:historic=castle
 ---
 
-# [[Castle]] 
+# [[Castle]] 🏰 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Castle,23413|WD~Castle,23413]] 
 

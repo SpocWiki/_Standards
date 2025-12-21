@@ -1,41 +1,42 @@
 ---
 aliases:
   - Datenbank
+  - Database
 has_id_wikidata: Q8513
 Uniform_Type_Identifier: public.database
 MeSH_tree_code: V02.300
 image: http://commons.wikimedia.org/wiki/Special:FilePath/17.%20Stammtisch%20WP-Unterfranken%20004.jpg
 has_part_s_:
-  - "[[_Standards/WikiData/WD~database_management_system,176165]]"
-  - "[[_Standards/WikiData/WD~integrity_constraints,1054115]]"
-  - "[[_Standards/WikiData/WD~data_dictionary,1147639]]"
-  - "[[_Standards/WikiData/WD~record,2470517]]"
-  - "[[_Standards/WikiData/WD~data_base,59138835]]"
-  - "[[_Standards/WikiData/WD~data,42848]]"
+  - '[[_Standards/WikiData/WD~database_management_system,176165]]'
+  - '[[_Standards/WikiData/WD~integrity_constraints,1054115]]'
+  - '[[_Standards/WikiData/WD~data_dictionary,1147639]]'
+  - '[[_Standards/WikiData/WD~record,2470517]]'
+  - '[[_Standards/WikiData/WD~data_base,59138835]]'
+  - '[[_Standards/WikiData/WD~data,42848]]'
 subclass_of:
-  - "[[../../../../WikiData/WD~work,386724]]"
-  - "[[_Standards/WikiData/WD~data,494756]]"
-  - "[[_Standards/WikiData/WD~data_set,1172284]]"
-  - "[[_Standards/WikiData/WD~digital_object,59138870]]"
-part_of: "[[_Standards/WikiData/WD~host,1630548]]"
-studied_by: "[[_Standards/WikiData/WD~database_theory,4809258]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_databases,7112603]]"
+  - '[[../../../../WikiData/WD~work,386724]]'
+  - '[[_Standards/WikiData/WD~data,494756]]'
+  - '[[_Standards/WikiData/WD~data_set,1172284]]'
+  - '[[_Standards/WikiData/WD~digital_object,59138870]]'
+part_of: '[[_Standards/WikiData/WD~host,1630548]]'
+studied_by: '[[_Standards/WikiData/WD~database_theory,4809258]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_databases,7112603]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Databases,7479289]]"
-  - "[[_Standards/WikiData/WD~Template_Database,15296512]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~data_base,59138835]]"
-uses: "[[_Standards/WikiData/WD~logical_database_model,59139047]]"
-described_by_source: "[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]"
+  - '[[_Standards/WikiData/WD~Template_Databases,7479289]]'
+  - '[[_Standards/WikiData/WD~Template_Database,15296512]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~data_base,59138835]]'
+uses: '[[_Standards/WikiData/WD~logical_database_model,59139047]]'
+described_by_source: '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]'
 Wikidata_property: applicable 'stated in' value
-IAB_code: "611"
-Nomenclature_for_Museum_Cataloging: "13673"
+IAB_code: 611
+Nomenclature_for_Museum_Cataloging: 13673
 GitHub_topic: database
 PhilPapers_topic: databases
 Commons_category: Databases
-Basisklassifikation: "54.64"
+Basisklassifikation: 54.64
 subreddit: Database
-U_S_National_Archives_Identifier: "10634624"
+U_S_National_Archives_Identifier: 10634624
 exact_match: http://purl.org/spar/fabio/Database
 Stack_Exchange_tag: https://stackoverflow.com/tags/database
 IEV_number: 171-09-21

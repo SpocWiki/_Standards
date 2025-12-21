@@ -4,22 +4,24 @@ aliases:
   - arrival_terminal
   - arrivalTerminal
   - has_text_of_arrival_terminal
+  - has_arrival_terminal
+  - has arrival terminal
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - arrival
   - terminal
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_arrival_terminal
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Lüge
+  - Lie
 has_id_wikidata: Q4925193
 subclass_of:
   - "[[_Standards/WikiData/WD~proposition,108163]]"
@@ -25,13 +26,13 @@ subreddit:
   - lies
   - thatHappened
 Commons_category: Lies
-OmegaWiki_Defined_Meaning: "154568"
+OmegaWiki_Defined_Meaning: 154568
 IMDb_keyword: lie
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leugen%20en%20Bedrog%20verstoren%20een%20zakelijke%20transactie%20Hendrick%20Goltzius.jpg
 Unicode_character: 🤥
 ---
 
-# [[Lie]] 
+# [[Lie]] 🤥 
 
 #is_/same_as :: [[WD~Lie,4925193]] 
 

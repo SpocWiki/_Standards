@@ -1,7 +1,8 @@
 ---
 aliases:
-- "id Software LLC"
-- "id Software"
+  - id Software LLC
+  - id Software
+  - id_Software
 ---
 
 ## #has_/text_of_/abstract 

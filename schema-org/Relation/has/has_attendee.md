@@ -1,21 +1,22 @@
 ---
 aliases:
   - has_attendee
+  - has attendee
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - attendee
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_attendee
 publish: true
-publishDate:
+publishDate: ''
 supersedes: attendees
 tags:
   - class/Relation

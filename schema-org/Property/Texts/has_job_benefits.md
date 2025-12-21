@@ -4,22 +4,24 @@ aliases:
   - job_benefits
   - jobBenefits
   - has_text_of_job_benefits
+  - has_job_benefits
+  - has job benefits
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - job
   - benefits
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_job_benefits
 publish: true
-publishDate:
+publishDate: ''
 supersedes: benefits
 tags:
   - class/Property

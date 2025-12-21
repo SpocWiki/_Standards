@@ -2,36 +2,37 @@
 aliases:
   - Swahili
   - Kiswahili
+  - Lang-swh
 has_id_wikidata: Q7838
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
-  - "[[_Standards/WikiData/WD~subject_verb_object,651641]]"
+  - '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
+  - '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~standard_language,399495]]"
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~dialect,33384]]"
-  - "[[_Standards/WikiData/WD~language,34770]]"
+  - '[[_Standards/WikiData/WD~standard_language,399495]]'
+  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
+  - '[[_Standards/WikiData/WD~dialect,33384]]'
+  - '[[_Standards/WikiData/WD~language,34770]]'
 indigenous_to:
-  - "[[_Standards/WikiData/WD~Cabo_Delgado_Province,466538]]"
-  - "[[_Standards/WikiData/WD~Lower_Juba,877042]]"
-  - "[[_Standards/WikiData/WD~Garissa_County,1494292]]"
-  - "[[_Standards/WikiData/WD~Lamu_County,1951652]]"
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~1_National,29051546]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]"
+  - '[[_Standards/WikiData/WD~Cabo_Delgado_Province,466538]]'
+  - '[[_Standards/WikiData/WD~Lower_Juba,877042]]'
+  - '[[_Standards/WikiData/WD~Garissa_County,1494292]]'
+  - '[[_Standards/WikiData/WD~Lamu_County,1951652]]'
+  - '[[_Standards/WikiData/WD~Tanzania,924]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Lahaja_za_Kiswahili,118547222]]"
-  - "[[_Standards/WikiData/WD~Swahili,7838]]"
+  - '[[_Standards/WikiData/WD~Lahaja_za_Kiswahili,118547222]]'
+  - '[[_Standards/WikiData/WD~Swahili,7838]]'
 country:
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-  - "[[_Standards/WikiData/WD~Burundi,967]]"
-  - "[[_Standards/WikiData/WD~Mozambique,1029]]"
-  - "[[_Standards/WikiData/WD~Uganda,1036]]"
-  - "[[_Standards/WikiData/WD~Somalia,1045]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
-subclass_of: "[[_Standards/WikiData/WD~Swahili,7838]]"
-dialect_of: "[[_Standards/WikiData/WD~Swahili,7838]]"
-writing_system: "[[_Standards/WikiData/WD~Latin_script,8229]]"
+  - '[[_Standards/WikiData/WD~Tanzania,924]]'
+  - '[[_Standards/WikiData/WD~Burundi,967]]'
+  - '[[_Standards/WikiData/WD~Mozambique,1029]]'
+  - '[[_Standards/WikiData/WD~Uganda,1036]]'
+  - '[[_Standards/WikiData/WD~Somalia,1045]]'
+  - '[[_Standards/WikiData/WD~Kenya,114]]'
+subclass_of: '[[_Standards/WikiData/WD~Swahili,7838]]'
+dialect_of: '[[_Standards/WikiData/WD~Swahili,7838]]'
+writing_system: '[[_Standards/WikiData/WD~Latin_script,8229]]'
 number_of_speakers_writers_or_signers:
   - 82300000
   - 16010110

@@ -1,32 +1,32 @@
 ---
 aliases:
-- "film director"
-- filmmaker
-- "Movie Director"
-- Movie-Director
+  - film director
+  - filmmaker
+  - Movie Director
+  - Movie-Director
 confidential: private
 cssclasses:
-- private
-- note
+  - private
+  - note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: 
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 has_time_started: 2025-07-20
 isDeleted: false
 isReadOnly: false
 keywords: Movie-Director
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Movie-Director
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Movie-Director
-- excalidraw
+  - Movie-Director
+  - excalidraw
 title: Movie-Director
 type: private_note
 ---

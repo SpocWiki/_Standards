@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Guatemala
+  - غواتيمالا
+  - 危地马拉
+  - Гватемала
+  - the Republic of Guatemala
+  - la República de Guatemala
+has_id_wikidata: Q774
 member_of:
   - "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
   - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
@@ -315,7 +323,7 @@ urban_population:
   - 8738685
   - 8938987
   - 9141704
-inception: "1821"
+inception: 1821
 has_time_started: 1821-06
 population: 17263239
 licence_plate_code: GCA
@@ -343,7 +351,6 @@ subreddit: guatemala
 GitHub_topic: guatemala
 Colon_Classification: SG--751
 Krugosvet_article: strany_mira/GVATEMALA.html
-has_id_wikidata: Q774
 location:
   - 14.6333
   - -90.5
@@ -359,19 +366,12 @@ source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
 title: Guatemala
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Guatemala
-  - غواتيمالا
-  - 危地马拉
-  - Гватемала
-  - the Republic of Guatemala
-  - la República de Guatemala
+publishDate: ""
+expiryDate: ""
 Languages:
   - es-GT
 icon: flag-gt

@@ -2,26 +2,27 @@
 aliases:
   - Pre-Raphaelite Brotherhood
   - Pre-Raphaelites
+  - Pre-Raphaelite_Brotherhood
 has_id_wikidata: Q184814
 founded_by:
-  - "[[_Standards/WikiData/WD~John_Everett_Millais,159606]]"
-  - "[[_Standards/WikiData/WD~Dante_Gabriel_Rossetti,186748]]"
-  - "[[_Standards/WikiData/WD~William_Holman_Hunt,211763]]"
-influenced_by: "[[_Standards/WikiData/WD~John_Ruskin,179126]]"
+  - '[[_Standards/WikiData/WD~John_Everett_Millais,159606]]'
+  - '[[_Standards/WikiData/WD~Dante_Gabriel_Rossetti,186748]]'
+  - '[[_Standards/WikiData/WD~William_Holman_Hunt,211763]]'
+influenced_by: '[[_Standards/WikiData/WD~John_Ruskin,179126]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~style,1292119]]"
-  - "[[_Standards/WikiData/WD~art_group,4502119]]"
+  - '[[_Standards/WikiData/WD~art_movement,968159]]'
+  - '[[_Standards/WikiData/WD~style,1292119]]'
+  - '[[_Standards/WikiData/WD~art_group,4502119]]'
 inception: 1848-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Everett%20Millais%20-%20Mariana%20-%20Google%20Art%20Project.jpg
-ISNI: "0000000099935375"
+ISNI: 0000000099935375
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/PRERAFAELITI.html
 Commons_category: Pre-Raphaelite Brotherhood
 Royal_Academy_new_identifier: pre-raphaelite-brotherhood

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~TVSeason
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/TVSeason
-- class/Thing/CreativeWork/CreativeWorkSeason/TVSeason
-- is_a_/TVSeason
-- schema-org/TVSeason
+  - class/TVSeason
+  - class/Thing/CreativeWork/CreativeWorkSeason/TVSeason
+  - is_a_/TVSeason
+  - schema-org/TVSeason
 tags:
-- class/FileClass
-- class/TVSeason
-- is_a_/TVSeason
-- class/Thing/CreativeWork/CreativeWorkSeason/TVSeason
+  - class/FileClass
+  - class/TVSeason
+  - is_a_/TVSeason
+  - class/Thing/CreativeWork/CreativeWorkSeason/TVSeason
 version: 2.0
 ---
 

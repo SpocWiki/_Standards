@@ -1,18 +1,19 @@
 ---
 aliases:
   - Meißel
+  - Chisel
 has_id_wikidata: Q474188
 has_part_s_:
-  - "[[_Standards/WikiData/WD~blade,330946]]"
-  - "[[_Standards/WikiData/WD~tool_handle,17504947]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~blade,330946]]'
+  - '[[_Standards/WikiData/WD~tool_handle,17504947]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~stonemasonry_tool,1282265]]"
-  - "[[_Standards/WikiData/WD~hand_tool,2578402]]"
-  - "[[_Standards/WikiData/WD~woodworking_tool,11789812]]"
-source_of_energy: "[[_Standards/WikiData/WD~human_energy,20984829]]"
-Nomenclature_for_Museum_Cataloging: "6533"
-OmegaWiki_Defined_Meaning: "926391"
+  - '[[_Standards/WikiData/WD~stonemasonry_tool,1282265]]'
+  - '[[_Standards/WikiData/WD~hand_tool,2578402]]'
+  - '[[_Standards/WikiData/WD~woodworking_tool,11789812]]'
+source_of_energy: '[[_Standards/WikiData/WD~human_energy,20984829]]'
+Nomenclature_for_Museum_Cataloging: 6533
+OmegaWiki_Defined_Meaning: 926391
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Chisel%20wood%2024mm.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Wood%20chisel.JPG
@@ -20,7 +21,7 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Bordijzer.JPG
 Commons_gallery: Chisel
 MCN_code: 8205.30.00
-GS1_GPC_code: "10003488"
+GS1_GPC_code: 10003488
 Commons_category: Chisels
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Verlegung%20Stolperstein%20Rathaus%20K%C3%B6ln%20-%20Mei%C3%9Fel%20und%20F%C3%A4ustel.webm
 Iconclass_notation: 47D8(CHISEL)

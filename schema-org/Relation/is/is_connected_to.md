@@ -4,22 +4,23 @@ aliases:
   - connected_to
   - connectedTo
   - is_connected_to
+  - is connected to
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - connected
   - to
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_connected_to
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

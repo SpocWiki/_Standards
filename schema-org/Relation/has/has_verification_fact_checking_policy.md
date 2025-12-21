@@ -3,12 +3,13 @@ aliases:
   - has verification-fact-checking-policy
   - verificationFactCheckingPolicy
   - has_verification_fact_checking_policy
+  - has verification fact checking policy
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +18,11 @@ keywords:
   - fact
   - checking
   - policy
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_verification_fact_checking_policy
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

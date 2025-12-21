@@ -1,27 +1,28 @@
 ---
 aliases:
-- address
-- has_location_address
-- "schema:address"
-- "dbo:address"
-- "wdt:P6375"
+  - address
+  - has_location_address
+  - schema:address
+  - dbo:address
+  - wdt:P6375
+  - has location address
 confidential: public
 cssclasses:
-- Predicate
-- geo
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- address
-layout: 
-license: "CC BY-SA 4.0"
+  - address
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_location_address
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- schema-org/Property/geo
+  - schema-org/Property/geo
 title: has_location_address
 type: Pred_geo
 ---

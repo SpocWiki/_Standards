@@ -1,27 +1,28 @@
 ---
 aliases:
-- has_recipe
-- "schema:recipe"
-- "dbo:recipe"
-- "wdt:P348"
+  - has_recipe
+  - schema:recipe
+  - dbo:recipe
+  - wdt:P348
+  - has recipe
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- recipe
-layout: 
-license: "CC BY-SA 4.0"
+  - recipe
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_recipe
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_recipe
 type: Predi_Relation
 ---

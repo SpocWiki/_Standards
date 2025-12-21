@@ -1,9 +1,10 @@
 ---
 aliases:
-- "Susan_Sarandon"
-- "Susan Sarandon"
-- "Susan Abigail Sarandon"
-- "Susan Abigail Tomalin"
+  - Susan_Sarandon
+  - Susan Sarandon
+  - Susan Abigail Sarandon
+  - Susan Abigail Tomalin
+  - Sarandon,Susan
 ---
 
 # [[Sarandon,Susan]] 

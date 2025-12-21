@@ -1,18 +1,20 @@
 ---
 aliases:
   - Chemical_weapon
+  - Chemical_Weapon
+  - Chemical Weapon
 has_id_wikidata: Q3639228
-has_use: "[[_Standards/WikiData/WD~chemical_warfare,483610]]"
-different_from: "[[_Standards/WikiData/WD~chemical_defense,5090452]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-has_active_ingredient: "[[_Standards/WikiData/WD~chemical_warfare_agent,21973549]]"
-instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
-subclass_of: "[[_Standards/WikiData/WD~weapon_of_mass_destruction,49394]]"
-Product_and_Service_Code: "1040"
+has_use: '[[_Standards/WikiData/WD~chemical_warfare,483610]]'
+different_from: '[[_Standards/WikiData/WD~chemical_defense,5090452]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+has_active_ingredient: '[[_Standards/WikiData/WD~chemical_warfare_agent,21973549]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+subclass_of: '[[_Standards/WikiData/WD~weapon_of_mass_destruction,49394]]'
+Product_and_Service_Code: 1040
 short_name: CW
 Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/HIMICHESKOE_I_BIOLOGICHESKOE_ORUZHIE.html
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gas%20shell%20%28AWM%20028467%29.jpg
-P8189: "987007539225605171"
+P8189: 987007539225605171
 Commons_category: Chemical weapons
 ---
 

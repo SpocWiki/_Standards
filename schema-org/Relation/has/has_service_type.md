@@ -3,23 +3,24 @@ aliases:
   - has service-type
   - serviceType
   - has_service_type
+  - has service type
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - service_type
   - service
   - type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_service_type
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

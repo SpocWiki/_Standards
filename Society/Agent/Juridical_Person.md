@@ -7,35 +7,37 @@ aliases:
   - juridical entity
   - juridic person
   - juristic person
+  - Juridical_Person
+  - Juridical Person
 has_id_wikidata: Q155076
 different_from:
-  - "[[_Standards/WikiData/WD~natural_person,154954]]"
-  - "[[_Standards/WikiData/WD~legal_institution,1938208]]"
-  - "[[_Standards/WikiData/WD~unincorporated_entity,7885249]]"
+  - '[[_Standards/WikiData/WD~natural_person,154954]]'
+  - '[[_Standards/WikiData/WD~legal_institution,1938208]]'
+  - '[[_Standards/WikiData/WD~unincorporated_entity,7885249]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Gran_Enciclopèdia_Catalana,2664168]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[_Standards/WikiData/WD~Gran_Enciclopèdia_Catalana,2664168]]'
+  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~legal_fiction,931483]]"
-  - "[[_Standards/WikiData/WD~type_of_business_entity,1269299]]"
-  - "[[_Standards/WikiData/WD~legal_concept,2135465]]"
-  - "[[_Standards/WikiData/WD~legal_form,10541491]]"
-has_cause: "[[_Standards/WikiData/WD~incorporation,3178478]]"
+  - '[[_Standards/WikiData/WD~legal_fiction,931483]]'
+  - '[[_Standards/WikiData/WD~type_of_business_entity,1269299]]'
+  - '[[_Standards/WikiData/WD~legal_concept,2135465]]'
+  - '[[_Standards/WikiData/WD~legal_form,10541491]]'
+has_cause: '[[_Standards/WikiData/WD~incorporation,3178478]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~corporate_personhood,3376073]]"
-  - "[[_Standards/WikiData/WD~legal_form,10541491]]"
-subclass_of: "[[_Standards/WikiData/WD~legal_person,3778211]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~separate_legal_entity,7451779]]"
-opposite_of: "[[_Standards/WikiData/WD~Q31090402,31090402]]"
+  - '[[_Standards/WikiData/WD~corporate_personhood,3376073]]'
+  - '[[_Standards/WikiData/WD~legal_form,10541491]]'
+subclass_of: '[[_Standards/WikiData/WD~legal_person,3778211]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~separate_legal_entity,7451779]]'
+opposite_of: '[[_Standards/WikiData/WD~Q31090402,31090402]]'
 Wikidata_property: legal form
-part_of: "[[_Standards/WikiData/WD~organization,43229]]"
+part_of: '[[_Standards/WikiData/WD~organization,43229]]'
 ---
 
 # [[Juridical_Person]] 

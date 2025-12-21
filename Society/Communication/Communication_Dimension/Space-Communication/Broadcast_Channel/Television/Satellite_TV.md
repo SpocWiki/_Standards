@@ -1,10 +1,12 @@
 ---
 aliases:
   - Satellite_television
+  - Satellite_TV
+  - Satellite TV
 has_id_wikidata: Q209588
-uses: "[[_Standards/WikiData/WD~communications_satellite,149918]]"
-subclass_of: "[[_Standards/WikiData/WD~broadcasting,15078788]]"
-instance_of: "[[_Standards/WikiData/WD~broadcasting,15078788]]"
+uses: '[[_Standards/WikiData/WD~communications_satellite,149918]]'
+subclass_of: '[[_Standards/WikiData/WD~broadcasting,15078788]]'
+instance_of: '[[_Standards/WikiData/WD~broadcasting,15078788]]'
 Commons_category: Satellite television
 ---
 

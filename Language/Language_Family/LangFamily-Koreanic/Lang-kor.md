@@ -3,64 +3,65 @@ aliases:
   - Korean
   - Korean Language
   - Lang-ko
+  - Lang-kor
+has_id_wikidata: Q9176
 tags:
   - Lang/ko
 type: Lang
-has_id_wikidata: Q9176
 has_grammatical_case:
-  - "[[_Standards/WikiData/WD~nominative_case,131105]]"
-  - "[[_Standards/WikiData/WD~dative_case,145599]]"
-  - "[[_Standards/WikiData/WD~accusative_case,146078]]"
-  - "[[_Standards/WikiData/WD~genitive_case,146233]]"
-  - "[[_Standards/WikiData/WD~vocative_case,185077]]"
-  - "[[_Standards/WikiData/WD~instrumental_case,192997]]"
+  - '[[_Standards/WikiData/WD~nominative_case,131105]]'
+  - '[[_Standards/WikiData/WD~dative_case,145599]]'
+  - '[[_Standards/WikiData/WD~accusative_case,146078]]'
+  - '[[_Standards/WikiData/WD~genitive_case,146233]]'
+  - '[[_Standards/WikiData/WD~vocative_case,185077]]'
+  - '[[_Standards/WikiData/WD~instrumental_case,192997]]'
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~vowel_harmony,147137]]"
-  - "[[_Standards/WikiData/WD~postposition,161873]]"
-  - "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
-  - "[[_Standards/WikiData/WD~nominative_accusative_language,178435]]"
-  - "[[_Standards/WikiData/WD~subject_object_verb,539808]]"
-  - "[[_Standards/WikiData/WD~pro_drop_language,661936]]"
-  - "[[_Standards/WikiData/WD~pitch_accent,1441804]]"
-  - "[[_Standards/WikiData/WD~syllabic_language,7888569]]"
-  - "[[_Standards/WikiData/WD~adjective_noun,74834637]]"
-  - "[[_Standards/WikiData/WD~synthetic_language,48612]]"
+  - '[[_Standards/WikiData/WD~vowel_harmony,147137]]'
+  - '[[_Standards/WikiData/WD~postposition,161873]]'
+  - '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
+  - '[[_Standards/WikiData/WD~nominative_accusative_language,178435]]'
+  - '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
+  - '[[_Standards/WikiData/WD~pro_drop_language,661936]]'
+  - '[[_Standards/WikiData/WD~pitch_accent,1441804]]'
+  - '[[_Standards/WikiData/WD~syllabic_language,7888569]]'
+  - '[[_Standards/WikiData/WD~adjective_noun,74834637]]'
+  - '[[_Standards/WikiData/WD~synthetic_language,48612]]'
 has_tense:
-  - "[[_Standards/WikiData/WD~present_tense,192613]]"
-  - "[[_Standards/WikiData/WD~future_tense,501405]]"
-  - "[[_Standards/WikiData/WD~past_tense,1994301]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Korean,467883]]"
+  - '[[_Standards/WikiData/WD~present_tense,192613]]'
+  - '[[_Standards/WikiData/WD~future_tense,501405]]'
+  - '[[_Standards/WikiData/WD~past_tense,1994301]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Korean,467883]]'
 writing_system:
-  - "[[_Standards/WikiData/WD~Hanja,485619]]"
-  - "[[_Standards/WikiData/WD~Hangul,8222]]"
-language_regulatory_body: "[[_Standards/WikiData/WD~National_Institute_of_Korean_Language,495374]]"
-studied_by: "[[_Standards/WikiData/WD~Korean_studies,714838]]"
-follows: "[[_Standards/WikiData/WD~Middle_Korean,715339]]"
-replaces: "[[_Standards/WikiData/WD~Early_Modern_Korean,756014]]"
+  - '[[_Standards/WikiData/WD~Hanja,485619]]'
+  - '[[_Standards/WikiData/WD~Hangul,8222]]'
+language_regulatory_body: '[[_Standards/WikiData/WD~National_Institute_of_Korean_Language,495374]]'
+studied_by: '[[_Standards/WikiData/WD~Korean_studies,714838]]'
+follows: '[[_Standards/WikiData/WD~Middle_Korean,715339]]'
+replaces: '[[_Standards/WikiData/WD~Early_Modern_Korean,756014]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
-subclass_of: "[[_Standards/WikiData/WD~Koreanic,11263525]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Korean_dialects,14447354]]"
-UNESCO_language_status: "[[_Standards/WikiData/WD~1_safe,20672086]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~1_National,29051546]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
+  - '[[_Standards/WikiData/WD~natural_language,33742]]'
+subclass_of: '[[_Standards/WikiData/WD~Koreanic,11263525]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Korean_dialects,14447354]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 country:
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~South_Korea,884]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~Japan,17]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~North_Korea,423]]'
+  - '[[_Standards/WikiData/WD~Malaysia,833]]'
+  - '[[_Standards/WikiData/WD~South_Korea,884]]'
+  - '[[_Standards/WikiData/WD~Canada,16]]'
+  - '[[_Standards/WikiData/WD~Japan,17]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - '[[_Standards/WikiData/WD~Russia,159]]'
 indigenous_to:
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~South_Korea,884]]"
-IAB_code: "1115"
+  - '[[_Standards/WikiData/WD~North_Korea,423]]'
+  - '[[_Standards/WikiData/WD~South_Korea,884]]'
+IAB_code: 1115
 number_of_speakers_writers_or_signers: 77300000
-OmegaWiki_Defined_Meaning: "6222"
-ABS_ASCL_2011_code: "7301"
+OmegaWiki_Defined_Meaning: 6222
+ABS_ASCL_2011_code: 7301
 subreddit: Korean
 ISO_639_3_code: kor
 ISO_639_2_code: kor
@@ -88,7 +89,7 @@ Linguasphere_code:
   - 45-A
   - 45-AAA-a
 Libris_URI: 53hkj8jp08fg828
-Universal_Decimal_Classification: "811.531"
+Universal_Decimal_Classification: 811.531
 Wolfram_Language_entity_code:
   - Entity["Language", "Korean::yz98n"]
   - Entity["Language", "Korean"]

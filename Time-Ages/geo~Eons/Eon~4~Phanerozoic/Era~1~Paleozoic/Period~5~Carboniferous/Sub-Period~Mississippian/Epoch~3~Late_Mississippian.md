@@ -1,5 +1,7 @@
 ---
-aliases: []
+aliases:
+  - Epoch~3~Late_Mississippian
+  - Epoch~3~Late Mississippian
 ischart: UpperMississippian
 ---
 

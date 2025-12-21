@@ -1,6 +1,8 @@
 ---
 aliases:
   - Kristallstruktur
+  - Crystal_Structure
+  - Crystal Structure
 has_id_wikidata: Q895901
 ---
 

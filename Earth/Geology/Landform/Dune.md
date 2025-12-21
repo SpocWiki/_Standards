@@ -1,20 +1,21 @@
 ---
 aliases:
   - Düne
+  - Dune
 has_id_wikidata: Q25391
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~aeolian_landform,4687862]]"
-  - "[[_Standards/WikiData/WD~Q16963184,16963184]]"
-  - "[[_Standards/WikiData/WD~hill,54050]]"
-different_from: "[[_Standards/WikiData/WD~Dune,6095696]]"
-part_of: "[[_Standards/WikiData/WD~dunefield,105100160]]"
-OmegaWiki_Defined_Meaning: "3307"
+  - '[[_Standards/WikiData/WD~aeolian_landform,4687862]]'
+  - '[[_Standards/WikiData/WD~Q16963184,16963184]]'
+  - '[[_Standards/WikiData/WD~hill,54050]]'
+different_from: '[[_Standards/WikiData/WD~Dune,6095696]]'
+part_of: '[[_Standards/WikiData/WD~dunefield,105100160]]'
+OmegaWiki_Defined_Meaning: 3307
 Commons_gallery: Dune
 Commons_category: Dunes
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Morocco%20Africa%20Flickr%20Rosino%20December%202005%2084514010.jpg

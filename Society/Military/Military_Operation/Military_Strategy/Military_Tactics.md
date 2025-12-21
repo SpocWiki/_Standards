@@ -1,6 +1,8 @@
 ---
 aliases:
   - Military_tactics
+  - Military_Tactics
+  - Military Tactics
 has_id_wikidata: Q207645
 ---
 

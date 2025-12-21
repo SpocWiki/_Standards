@@ -1,31 +1,33 @@
 ---
 aliases:
-- music-group
-- music_group
-- MusicGroup
-- is_a_music_group
-- band
-- "music act"
-- "dbo:Band"
-- "schema:MusicGroup"
+  - music-group
+  - music_group
+  - MusicGroup
+  - is_a_music_group
+  - band
+  - music act
+  - dbo:Band
+  - schema:MusicGroup
+  - Music_Group
+  - Music Group
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- music_group
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_music_group Class"
+  - music_group
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_a_music_group Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_music_group Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_music_group Class
 type: Type
 ---
 

@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Simple Knowledge Organization System"
+  - Simple Knowledge Organization System
+  - skos
 ---
 
 # [[skos]] 

@@ -4,71 +4,72 @@ aliases:
   - Henry Mancini
   - Mancini
   - Enrico Nicola Mancini
+  - Mancini,Henry
 has_id_wikidata: Q185928
 instrument:
-  - "[[_Standards/WikiData/WD~piccolo,83509]]"
-  - "[[_Standards/WikiData/WD~piano,5994]]"
-  - "[[_Standards/WikiData/WD~flute,11405]]"
+  - '[[_Standards/WikiData/WD~piccolo,83509]]'
+  - '[[_Standards/WikiData/WD~piano,5994]]'
+  - '[[_Standards/WikiData/WD~flute,11405]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]"
-  - "[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Original_Song,1420891]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Musical_Score,4671338]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song_Score,22344608]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_or_Comedy_Score,22752868]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
+  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Original_Song,1420891]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Musical_Score,4671338]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song_Score,22344608]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_or_Comedy_Score,22752868]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]"
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Song_of_the_Year,1027904]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song_Score,22344608]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_or_Comedy_Score,22752868]]"
-place_of_death: "[[_Standards/WikiData/WD~Beverly_Hills,127856]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
+  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Song_of_the_Year,1027904]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song_Score,22344608]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_or_Comedy_Score,22752868]]'
+place_of_death: '[[_Standards/WikiData/WD~Beverly_Hills,127856]]'
 occupation:
-  - "[[_Standards/WikiData/WD~conductor,158852]]"
-  - "[[_Standards/WikiData/WD~pianist,486748]]"
-  - "[[_Standards/WikiData/WD~songwriter,753110]]"
-  - "[[_Standards/WikiData/WD~film_score_composer,1415090]]"
-  - "[[_Standards/WikiData/WD~music_arranger,1643514]]"
-  - "[[_Standards/WikiData/WD~flautist,12902372]]"
-  - "[[_Standards/WikiData/WD~jazz_musician,15981151]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
+  - '[[_Standards/WikiData/WD~conductor,158852]]'
+  - '[[_Standards/WikiData/WD~pianist,486748]]'
+  - '[[_Standards/WikiData/WD~songwriter,753110]]'
+  - '[[_Standards/WikiData/WD~film_score_composer,1415090]]'
+  - '[[_Standards/WikiData/WD~music_arranger,1643514]]'
+  - '[[_Standards/WikiData/WD~flautist,12902372]]'
+  - '[[_Standards/WikiData/WD~jazz_musician,15981151]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
 genre:
-  - "[[_Standards/WikiData/WD~melodrama,191489]]"
-  - "[[_Standards/WikiData/WD~easy_listening,848399]]"
-  - "[[_Standards/WikiData/WD~lounge_music,1141081]]"
-  - "[[_Standards/WikiData/WD~orchestral_pop,48834745]]"
-  - "[[_Standards/WikiData/WD~stage_and_screen,61340552]]"
-  - "[[_Standards/WikiData/WD~comedy,40831]]"
-cause_of_death: "[[_Standards/WikiData/WD~pancreatic_cancer,212961]]"
-copyright_representative: "[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]"
-field_of_work: "[[_Standards/WikiData/WD~film_score,492264]]"
-educated_at: "[[_Standards/WikiData/WD~Juilliard_School,503246]]"
+  - '[[_Standards/WikiData/WD~melodrama,191489]]'
+  - '[[_Standards/WikiData/WD~easy_listening,848399]]'
+  - '[[_Standards/WikiData/WD~lounge_music,1141081]]'
+  - '[[_Standards/WikiData/WD~orchestral_pop,48834745]]'
+  - '[[_Standards/WikiData/WD~stage_and_screen,61340552]]'
+  - '[[_Standards/WikiData/WD~comedy,40831]]'
+cause_of_death: '[[_Standards/WikiData/WD~pancreatic_cancer,212961]]'
+copyright_representative: '[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]'
+field_of_work: '[[_Standards/WikiData/WD~film_score,492264]]'
+educated_at: '[[_Standards/WikiData/WD~Juilliard_School,503246]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Moon_River,832948]]"
-  - "[[_Standards/WikiData/WD~The_Pink_Panther_Theme,3510916]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-child: "[[_Standards/WikiData/WD~Monica_Mancini,6900006]]"
-blood_type: "[[_Standards/WikiData/WD~Q19831451,19831451]]"
-family_name: "[[_Standards/WikiData/WD~Mancini,21450745]]"
-record_label: "[[_Standards/WikiData/WD~RCA,50074604]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-member_of: "[[_Standards/WikiData/WD~Henry_Mancini_Orchestra,58879447]]"
-given_name: "[[_Standards/WikiData/WD~Enrico_Nicola,58879925]]"
-discography: "[[_Standards/WikiData/WD~Henry_Mancini_discography,72969424]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-archives_at: "[[_Standards/WikiData/WD~Library_of_Congress_Music_Division,98608837]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-military_branch: "[[_Standards/WikiData/WD~United_States_Army,9212]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Moon_River,832948]]'
+  - '[[_Standards/WikiData/WD~The_Pink_Panther_Theme,3510916]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+child: '[[_Standards/WikiData/WD~Monica_Mancini,6900006]]'
+blood_type: '[[_Standards/WikiData/WD~Q19831451,19831451]]'
+family_name: '[[_Standards/WikiData/WD~Mancini,21450745]]'
+record_label: '[[_Standards/WikiData/WD~RCA,50074604]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+member_of: '[[_Standards/WikiData/WD~Henry_Mancini_Orchestra,58879447]]'
+given_name: '[[_Standards/WikiData/WD~Enrico_Nicola,58879925]]'
+discography: '[[_Standards/WikiData/WD~Henry_Mancini_discography,72969424]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+archives_at: '[[_Standards/WikiData/WD~Library_of_Congress_Music_Division,98608837]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+military_branch: '[[_Standards/WikiData/WD~United_States_Army,9212]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 social_media_followers:
   - 112000
   - 1739
-place_of_birth: "[[_Standards/WikiData/WD~Cleveland,37320]]"
-ISNI: "0000000121343609"
+place_of_birth: '[[_Standards/WikiData/WD~Cleveland,37320]]'
+ISNI: 0000000121343609
 Commons_category: Henry Mancini
 work_period_start_: 1946-01-01T00:00:00Z
 work_period_end_: 1994-01-01T00:00:00Z
@@ -77,9 +78,9 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Mancini.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Mancini%20signature.png
 official_website: http://www.henrymancini.com
 IPI_name_number:
-  - "00019313012"
-  - "00220707015"
-U_S_National_Archives_Identifier: "10569255"
+  - 00019313012
+  - 00220707015
+U_S_National_Archives_Identifier: 10569255
 Plex_person_key: 5d7769ad96b655001fdd644f
 Europeana_entity: agent/base/60501
 Giphy_username: henrymancini

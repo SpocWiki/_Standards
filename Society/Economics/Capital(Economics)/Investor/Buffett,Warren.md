@@ -4,58 +4,59 @@ aliases:
   - Warren Edward Buffett
   - Warren Buffett
   - Buffett
+  - Buffett,Warren
 has_id_wikidata: Q47213
 occupation:
-  - "[[_Standards/WikiData/WD~entrepreneur,131524]]"
-  - "[[_Standards/WikiData/WD~economist,188094]]"
-  - "[[_Standards/WikiData/WD~shareholder,381136]]"
-  - "[[_Standards/WikiData/WD~investor,557880]]"
-  - "[[_Standards/WikiData/WD~financier,1979607]]"
-owner_of: "[[_Standards/WikiData/WD~Berkshire_Hathaway,217583]]"
-student_of: "[[_Standards/WikiData/WD~Benjamin_Graham,290560]]"
-member_of: "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-position_held: "[[_Standards/WikiData/WD~chief_executive_officer,484876]]"
-father: "[[_Standards/WikiData/WD~Howard_Homan_Buffett,723488]]"
+  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+  - '[[_Standards/WikiData/WD~economist,188094]]'
+  - '[[_Standards/WikiData/WD~shareholder,381136]]'
+  - '[[_Standards/WikiData/WD~investor,557880]]'
+  - '[[_Standards/WikiData/WD~financier,1979607]]'
+owner_of: '[[_Standards/WikiData/WD~Berkshire_Hathaway,217583]]'
+student_of: '[[_Standards/WikiData/WD~Benjamin_Graham,290560]]'
+member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+position_held: '[[_Standards/WikiData/WD~chief_executive_officer,484876]]'
+father: '[[_Standards/WikiData/WD~Howard_Homan_Buffett,723488]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Columbia_Business_School,907481]]"
-  - "[[_Standards/WikiData/WD~The_Wharton_School,1329269]]"
-  - "[[_Standards/WikiData/WD~University_of_Nebraska_Lincoln,1353679]]"
-  - "[[_Standards/WikiData/WD~Jackson_Reed_High_School,8033204]]"
-  - "[[_Standards/WikiData/WD~New_York_Institute_of_Finance,16254414]]"
-  - "[[_Standards/WikiData/WD~University_of_Pennsylvania,49117]]"
-given_name: "[[_Standards/WikiData/WD~Warren,2256715]]"
+  - '[[_Standards/WikiData/WD~Columbia_Business_School,907481]]'
+  - '[[_Standards/WikiData/WD~The_Wharton_School,1329269]]'
+  - '[[_Standards/WikiData/WD~University_of_Nebraska_Lincoln,1353679]]'
+  - '[[_Standards/WikiData/WD~Jackson_Reed_High_School,8033204]]'
+  - '[[_Standards/WikiData/WD~New_York_Institute_of_Finance,16254414]]'
+  - '[[_Standards/WikiData/WD~University_of_Pennsylvania,49117]]'
+given_name: '[[_Standards/WikiData/WD~Warren,2256715]]'
 child:
-  - "[[_Standards/WikiData/WD~Howard_Graham_Buffett,4079744]]"
-  - "[[_Standards/WikiData/WD~Peter_Buffett,7173047]]"
-  - "[[_Standards/WikiData/WD~Susan_Alice_Buffett,7647504]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Howard_Graham_Buffett,4079744]]'
+  - '[[_Standards/WikiData/WD~Peter_Buffett,7173047]]'
+  - '[[_Standards/WikiData/WD~Susan_Alice_Buffett,7647504]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Susan_Buffett,7647630]]"
-  - "[[_Standards/WikiData/WD~Astrid_Menks,96756817]]"
+  - '[[_Standards/WikiData/WD~Susan_Buffett,7647630]]'
+  - '[[_Standards/WikiData/WD~Astrid_Menks,96756817]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Lentapedia_(full_versions),17311605]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-family_name: "[[_Standards/WikiData/WD~Buffett,21492748]]"
-mother: "[[_Standards/WikiData/WD~Leila_Stahl_Buffett,55979202]]"
+  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+  - '[[_Standards/WikiData/WD~Lentapedia_(full_versions),17311605]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+family_name: '[[_Standards/WikiData/WD~Buffett,21492748]]'
+mother: '[[_Standards/WikiData/WD~Leila_Stahl_Buffett,55979202]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Doris_Buffett,56222319]]"
-  - "[[_Standards/WikiData/WD~Roberta_Buffett_Elliott,102197117]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-award_received: "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-residence: "[[_Standards/WikiData/WD~Omaha,43199]]"
-place_of_birth: "[[_Standards/WikiData/WD~Omaha,43199]]"
+  - '[[_Standards/WikiData/WD~Doris_Buffett,56222319]]'
+  - '[[_Standards/WikiData/WD~Roberta_Buffett_Elliott,102197117]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+award_received: '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+residence: '[[_Standards/WikiData/WD~Omaha,43199]]'
+place_of_birth: '[[_Standards/WikiData/WD~Omaha,43199]]'
 net_worth: 82500000000
 Commons_category: Warren Buffett
 social_media_followers: 1685782
 work_period_start_: 1951-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20Signature.svg
-ISNI: "0000000121495004"
+ISNI: 0000000121495004
 Libris_URI: 75knw3vr0txr26w
-P1015: "90893328"
+P1015: 90893328
 X_Twitter_username: WarrenBuffett
 nickname: The Oracle of Omaha
 name_in_native_language: Warren Buffett

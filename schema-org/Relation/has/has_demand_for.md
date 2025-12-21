@@ -1,25 +1,26 @@
 ---
 aliases:
-- has_seeks
-- has_demand_for
+  - has_seeks
+  - has_demand_for
+  - has demand for
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- seeks
-layout: 
-license: "CC BY-SA 4.0"
+  - seeks
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_seeks
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_seeks
 type: Predi_Relation
 ---

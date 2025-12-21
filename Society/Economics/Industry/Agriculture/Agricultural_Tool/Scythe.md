@@ -1,37 +1,38 @@
 ---
 aliases:
   - Sense
+  - Scythe
 has_id_wikidata: Q130912
 has_part_s_:
-  - "[[_Standards/WikiData/WD~handle,200266]]"
-  - "[[_Standards/WikiData/WD~blade,330946]]"
-  - "[[_Standards/WikiData/WD~stick,10971443]]"
+  - '[[_Standards/WikiData/WD~handle,200266]]'
+  - '[[_Standards/WikiData/WD~blade,330946]]'
+  - '[[_Standards/WikiData/WD~stick,10971443]]'
 has_use:
-  - "[[_Standards/WikiData/WD~harvest,213753]]"
-  - "[[_Standards/WikiData/WD~weed_control,2739141]]"
-  - "[[_Standards/WikiData/WD~scything,113004245]]"
+  - '[[_Standards/WikiData/WD~harvest,213753]]'
+  - '[[_Standards/WikiData/WD~weed_control,2739141]]'
+  - '[[_Standards/WikiData/WD~scything,113004245]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~cold_weapon,222405]]"
-  - "[[_Standards/WikiData/WD~hand_tool,2578402]]"
-  - "[[_Standards/WikiData/WD~improvised_weapon,2862130]]"
-  - "[[_Standards/WikiData/WD~reaping_tool,126709777]]"
+  - '[[_Standards/WikiData/WD~cold_weapon,222405]]'
+  - '[[_Standards/WikiData/WD~hand_tool,2578402]]'
+  - '[[_Standards/WikiData/WD~improvised_weapon,2862130]]'
+  - '[[_Standards/WikiData/WD~reaping_tool,126709777]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Faux_en_Périgord,1139063]]"
-  - "[[_Standards/WikiData/WD~Faux,1158314]]"
-  - "[[_Standards/WikiData/WD~false,5432619]]"
-used_by: "[[_Standards/WikiData/WD~reaper,2248045]]"
+  - '[[_Standards/WikiData/WD~Faux_en_Périgord,1139063]]'
+  - '[[_Standards/WikiData/WD~Faux,1158314]]'
+  - '[[_Standards/WikiData/WD~false,5432619]]'
+used_by: '[[_Standards/WikiData/WD~reaper,2248045]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~agricultural_tool,3629395]]"
-  - "[[_Standards/WikiData/WD~weapon_family,15142889]]"
-Nomenclature_for_Museum_Cataloging: "3424"
+  - '[[_Standards/WikiData/WD~agricultural_tool,3629395]]'
+  - '[[_Standards/WikiData/WD~weapon_family,15142889]]'
+Nomenclature_for_Museum_Cataloging: 3424
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Scythe.svg
 booru_tag: scythe
 Danbooru_tag: scythe

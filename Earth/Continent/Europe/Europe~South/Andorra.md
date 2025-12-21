@@ -1,9 +1,17 @@
 ---
+aliases:
+  - Andorra
+  - Andorre
+  - أندورا
+  - 安道尔
+  - Андорра
+  - the Principality of Andorra
+  - el Principado de Andorra
+has_id_wikidata: Q228
 location:
   - 42.5167
   - 1.51333
 type: Country
-has_id_wikidata: Q228
 tags:
   - geo/Country
 license: CC BY-SA 4.0
@@ -15,20 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Andorra
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Andorra
-  - Andorre
-  - أندورا
-  - 安道尔
-  - Андорра
-  - the Principality of Andorra
-  - el Principado de Andorra
+publishDate: ""
+expiryDate: ""
 Languages:
   - ca
 icon: flag-ad
@@ -259,7 +259,7 @@ WIPO_ST_3: AD
 INSEE_countries_and_foreign_territories_code: 99130
 GS1_country_code: 840-849
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Andorra.svg
-inception: "1278"
+inception: 1278
 has_time_started: 1278-06
 Dewey_Decimal_Classification: 2--4679
 Commons_category: Andorra

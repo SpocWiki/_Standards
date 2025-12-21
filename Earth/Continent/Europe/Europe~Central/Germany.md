@@ -1,5 +1,4 @@
 ---
-age_of_majority: 18
 aliases:
   - Deutschland
   - DEU
@@ -9,6 +8,8 @@ aliases:
   - ألمانيا
   - 德国
   - Германия
+has_id_wikidata: Q183
+age_of_majority: 18
 anthem: "[[../../../../WikiData/WD~national anthem of Germany]]"
 archives_at: "[[../../../../WikiData/WD~German Federal Archives]]"
 area: 357587.77
@@ -340,7 +341,7 @@ ethnic_group:
 executive_body:
   - "[[../../../../WikiData/WD~Government of the Federal Republic of Germany]]"
   - "[[../../../../WikiData/WD~federal level of Germany]]"
-expiryDate:
+expiryDate: ""
 FIPS_10_4_countries_and_regions_: GM
 flag: "[[../../../../WikiData/WD~flag of Germany]]"
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg
@@ -354,7 +355,6 @@ hashtag:
   - Deutschland
 has_capital: "[[../../../../WikiData/WD~Berlin,64]]"
 has_characteristic: "[[../../../../WikiData/WD~free country]]"
-has_id_wikidata: Q183
 has_name:
   _: Germany
   en: Germany
@@ -388,7 +388,7 @@ ISO_3166_1_numeric_code: 276
 isReadOnly: false
 item_operated: "[[../../../../WikiData/WD~Embassy of Germany, Riga]]"
 ITU_letter_code: D
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/GERMANIYA.html
 Languages:
   - de
@@ -413,7 +413,7 @@ language_used:
   - "[[../../../../WikiData/WD~German]]"
   - "[[../../../../WikiData/WD~Western Yiddish]]"
   - "[[../../../../WikiData/WD~German Sign Language]]"
-layout:
+layout: ""
 legislative_body:
   - "[[../../../../WikiData/WD~Bundesrat]]"
   - "[[../../../../WikiData/WD~Bundestag of Germany]]"
@@ -571,7 +571,7 @@ public_holiday:
   - "[[../../../../WikiData/WD~Good Friday]]"
   - "[[../../../../WikiData/WD~International Workers' Day]]"
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side: "[[../../../../WikiData/WD~right]]"
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Deutschland%20topo.jpg
 replaces:

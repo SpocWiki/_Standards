@@ -1,9 +1,10 @@
 ---
 aliases:
   - Niob
+  - Niobium
 has_id_wikidata: Q1046
 atomic_number: 41
-canonical_SMILES: "[Nb]"
+canonical_SMILES: '[Nb]'
 CAS_Registry_Number: 7440-03-1
 chemical_formula: Nb
 Commons_category: Niobium
@@ -13,26 +14,26 @@ Common_Procurement_Vocabulary_code:
   - 14791000
 CPV_Supplementary_code: AA40
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
 Dewey_Decimal_Classification: 546.524
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Charles_Hatchett,378065]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Charles_Hatchett,378065]]'
 DSSTOX_compound_identifier: DTXCID5031052
 EC_number: 231-113-5
 electronegativity: 2
-electron_configuration: "[Kr] 4d⁴ 5s¹"
+electron_configuration: '[Kr] 4d⁴ 5s¹'
 element_symbol: Nb
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Niobium%20crystals%20and%201cm3%20cube.jpg
 InChI: InChI=1S/Nb
 InChIKey: GUCVJGMIXFAOAE-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
   - 0.48
   - 0.64
@@ -40,23 +41,23 @@ ionic_radius:
   - 0.72
   - 0.74
   - 0.79
-location_of_discovery: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+location_of_discovery: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 mass: 92.90637
 MeSH_tree_code:
   - D01.268.556.615
   - D01.268.956.687
   - D01.552.544.615
-named_after: "[[_Standards/WikiData/WD~Niobe,213621]]"
+named_after: '[[_Standards/WikiData/WD~Niobe,213621]]'
 OmegaWiki_Defined_Meaning: 339099
 oxidation_state: 5
 part_of:
-  - "[[_Standards/WikiData/WD~group_5,193276]]"
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
+  - '[[_Standards/WikiData/WD~group_5,193276]]'
+  - '[[_Standards/WikiData/WD~period_5,244982]]'
 PubChem_CID: 23936
 SpocWebEntityId: 21939
 subclass_of:
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
-  - "[[_Standards/WikiData/WD~transition_metal,19588]]"
+  - '[[_Standards/WikiData/WD~period_5,244982]]'
+  - '[[_Standards/WikiData/WD~transition_metal,19588]]'
 time_of_discovery_or_invention: 1801
 type: Element
 UMLS_CUI: C0028101

@@ -4,78 +4,79 @@ aliases:
   - John Herschel Glenn Jr
   - John Glenn
   - Glenn
+  - Glenn,John
 has_id_wikidata: Q182642
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~military_officer,189290]]"
-  - "[[_Standards/WikiData/WD~musician,639669]]"
-  - "[[_Standards/WikiData/WD~test_pilot,730242]]"
-  - "[[_Standards/WikiData/WD~aircraft_pilot,2095549]]"
-  - "[[_Standards/WikiData/WD~manager,2462658]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~astronaut,11631]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~businessperson,43845]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~colonel,104680]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Presbyterianism,178169]]"
-place_of_burial: "[[_Standards/WikiData/WD~Arlington_National_Cemetery,216344]]"
-place_of_birth: "[[_Standards/WikiData/WD~Cambridge,249454]]"
-member_of: "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~military_officer,189290]]'
+  - '[[_Standards/WikiData/WD~musician,639669]]'
+  - '[[_Standards/WikiData/WD~test_pilot,730242]]'
+  - '[[_Standards/WikiData/WD~aircraft_pilot,2095549]]'
+  - '[[_Standards/WikiData/WD~manager,2462658]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~astronaut,11631]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~colonel,104680]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Presbyterianism,178169]]'
+place_of_burial: '[[_Standards/WikiData/WD~Arlington_National_Cemetery,216344]]'
+place_of_birth: '[[_Standards/WikiData/WD~Cambridge,249454]]'
+member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
 award_received:
-  - "[[_Standards/WikiData/WD~National_Aviation_Hall_of_Fame,488005]]"
-  - "[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]"
-  - "[[_Standards/WikiData/WD~United_States_Astronaut_Hall_of_Fame,742943]]"
-  - "[[_Standards/WikiData/WD~Air_Medal,980090]]"
-  - "[[_Standards/WikiData/WD~Congressional_Space_Medal_of_Honor,1126046]]"
-  - "[[_Standards/WikiData/WD~Distinguished_Flying_Cross,1754110]]"
-  - "[[_Standards/WikiData/WD~World_War_II_Victory_Medal,2079534]]"
-  - "[[_Standards/WikiData/WD~Asiatic_Pacific_Campaign_Medal,2338071]]"
-  - "[[_Standards/WikiData/WD~American_Campaign_Medal,2338107]]"
-  - "[[_Standards/WikiData/WD~National_Defense_Service_Medal,2611552]]"
-  - "[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_International_Cooperation,3321940]]"
-  - "[[_Standards/WikiData/WD~NASA_Distinguished_Service_Medal,4286902]]"
-  - "[[_Standards/WikiData/WD~Hubbard_Medal,4287207]]"
-  - "[[_Standards/WikiData/WD~Army_of_Occupation_Medal,4794320]]"
-  - "[[_Standards/WikiData/WD~Theodore_Roosevelt_Award,7781991]]"
-  - "[[_Standards/WikiData/WD~Golden_Plate_Award,28663097]]"
-  - "[[_Standards/WikiData/WD~International_Space_Hall_of_Fame,99951011]]"
-  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
+  - '[[_Standards/WikiData/WD~National_Aviation_Hall_of_Fame,488005]]'
+  - '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
+  - '[[_Standards/WikiData/WD~United_States_Astronaut_Hall_of_Fame,742943]]'
+  - '[[_Standards/WikiData/WD~Air_Medal,980090]]'
+  - '[[_Standards/WikiData/WD~Congressional_Space_Medal_of_Honor,1126046]]'
+  - '[[_Standards/WikiData/WD~Distinguished_Flying_Cross,1754110]]'
+  - '[[_Standards/WikiData/WD~World_War_II_Victory_Medal,2079534]]'
+  - '[[_Standards/WikiData/WD~Asiatic_Pacific_Campaign_Medal,2338071]]'
+  - '[[_Standards/WikiData/WD~American_Campaign_Medal,2338107]]'
+  - '[[_Standards/WikiData/WD~National_Defense_Service_Medal,2611552]]'
+  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_International_Cooperation,3321940]]'
+  - '[[_Standards/WikiData/WD~NASA_Distinguished_Service_Medal,4286902]]'
+  - '[[_Standards/WikiData/WD~Hubbard_Medal,4287207]]'
+  - '[[_Standards/WikiData/WD~Army_of_Occupation_Medal,4794320]]'
+  - '[[_Standards/WikiData/WD~Theodore_Roosevelt_Award,7781991]]'
+  - '[[_Standards/WikiData/WD~Golden_Plate_Award,28663097]]'
+  - '[[_Standards/WikiData/WD~International_Space_Hall_of_Fame,99951011]]'
+  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 member_of_the_crew_of:
-  - "[[_Standards/WikiData/WD~Mercury_Atlas_6,498533]]"
-  - "[[_Standards/WikiData/WD~STS_95,835717]]"
+  - '[[_Standards/WikiData/WD~Mercury_Atlas_6,498533]]'
+  - '[[_Standards/WikiData/WD~STS_95,835717]]'
 astronaut_mission:
-  - "[[_Standards/WikiData/WD~Mercury_Atlas_6,498533]]"
-  - "[[_Standards/WikiData/WD~STS_95,835717]]"
-part_of: "[[_Standards/WikiData/WD~Mercury_Seven,597154]]"
+  - '[[_Standards/WikiData/WD~Mercury_Atlas_6,498533]]'
+  - '[[_Standards/WikiData/WD~STS_95,835717]]'
+part_of: '[[_Standards/WikiData/WD~Mercury_Seven,597154]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~United_States_Naval_Test_Pilot_School,1128819]]"
-  - "[[_Standards/WikiData/WD~Muskingum_University,6942807]]"
+  - '[[_Standards/WikiData/WD~United_States_Naval_Test_Pilot_School,1128819]]'
+  - '[[_Standards/WikiData/WD~Muskingum_University,6942807]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Herschel,1158239]]"
-  - "[[_Standards/WikiData/WD~John,4925477]]"
-position_held: "[[_Standards/WikiData/WD~United_States_senator,4416090]]"
-spouse: "[[_Standards/WikiData/WD~Annie_Glenn,4769295]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-place_of_death: "[[_Standards/WikiData/WD~The_James_Cancer_Hospital,14716521]]"
+  - '[[_Standards/WikiData/WD~Herschel,1158239]]'
+  - '[[_Standards/WikiData/WD~John,4925477]]'
+position_held: '[[_Standards/WikiData/WD~United_States_senator,4416090]]'
+spouse: '[[_Standards/WikiData/WD~Annie_Glenn,4769295]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+place_of_death: '[[_Standards/WikiData/WD~The_James_Cancer_Hospital,14716521]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-family_name: "[[_Standards/WikiData/WD~Glenn,19802200]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-father: "[[_Standards/WikiData/WD~John_Herschel_Glenn,96337913]]"
-mother: "[[_Standards/WikiData/WD~Clara_Sproat,96337926]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Photography_Collection,105026832]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-military_branch: "[[_Standards/WikiData/WD~United_States_Marine_Corps,11218]]"
-employer: "[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-work_locations: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+family_name: '[[_Standards/WikiData/WD~Glenn,19802200]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+father: '[[_Standards/WikiData/WD~John_Herschel_Glenn,96337913]]'
+mother: '[[_Standards/WikiData/WD~Clara_Sproat,96337926]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Photography_Collection,105026832]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+military_branch: '[[_Standards/WikiData/WD~United_States_Marine_Corps,11218]]'
+employer: '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+work_locations: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
 time_in_space: 13414
 Commons_gallery: John Glenn
 Commons_category: John Glenn
@@ -86,8 +87,8 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Glenn%20Sig
 described_at_URL:
   - http://www.digiporta.net/index.php?id=648487101
   - http://www.digiporta.net/index.php?id=741348615
-ISNI: "0000000109203240"
-U_S_National_Archives_Identifier: "10582479"
+ISNI: 0000000109203240
+U_S_National_Archives_Identifier: 10582479
 Krugosvet_article_archived_: nauka_i_tehnika/aviaciya_i_kosmonavtika/GLENN_DZHON.html
 name_in_native_language: John Herschel Glenn
 birth_name: John Herschel Glenn

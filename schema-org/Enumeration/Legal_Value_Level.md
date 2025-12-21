@@ -4,20 +4,22 @@ aliases:
   - legal_value_level
   - LegalValueLevel
   - is_a_legal_value_level
+  - Legal_Value_Level
+  - Legal Value Level
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - legal_value_level
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_legal_value_level Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

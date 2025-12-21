@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~AutoWash
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/AutoWash
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoWash
-- is_an_/AutoWash
-- schema-org/AutoWash
+  - class/AutoWash
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoWash
+  - is_an_/AutoWash
+  - schema-org/AutoWash
 tags:
-- class/FileClass
-- class/AutoWash
-- '#is_an_/AutoWash'
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoWash
+  - class/FileClass
+  - class/AutoWash
+  - '#is_an_/AutoWash'
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoWash
 version: 2.0
 ---
 

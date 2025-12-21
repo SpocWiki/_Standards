@@ -1,44 +1,45 @@
 ---
-type: ElementGroup
 aliases:
   - Alkali_metal
+  - Group-01-Alkali
 has_id_wikidata: Q19557
+type: ElementGroup
 part_of:
-  - "[[_Standards/WikiData/WD~main_group,428830]]"
-  - "[[_Standards/WikiData/WD~group_1,10801007]]"
-  - "[[_Standards/WikiData/WD~periodic_table,10693]]"
+  - '[[_Standards/WikiData/WD~main_group,428830]]'
+  - '[[_Standards/WikiData/WD~group_1,10801007]]'
+  - '[[_Standards/WikiData/WD~periodic_table,10693]]'
 different_from:
-  - "[[_Standards/WikiData/WD~alkali,485742]]"
-  - "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
+  - '[[_Standards/WikiData/WD~alkali,485742]]'
+  - '[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~simple_substance,2512777]]"
-  - "[[_Standards/WikiData/WD~water_reactive_substance,7973224]]"
-  - "[[_Standards/WikiData/WD~metal,11426]]"
-does_not_have_part: "[[_Standards/WikiData/WD~hydrogen,556]]"
+  - '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+  - '[[_Standards/WikiData/WD~water_reactive_substance,7973224]]'
+  - '[[_Standards/WikiData/WD~metal,11426]]'
+does_not_have_part: '[[_Standards/WikiData/WD~hydrogen,556]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~lithium,568]]"
-  - "[[_Standards/WikiData/WD~sodium,658]]"
-  - "[[_Standards/WikiData/WD~francium,671]]"
-  - "[[_Standards/WikiData/WD~potassium,703]]"
-  - "[[_Standards/WikiData/WD~rubidium,895]]"
-  - "[[_Standards/WikiData/WD~caesium,1108]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
-OmegaWiki_Defined_Meaning: "1130"
+  - '[[_Standards/WikiData/WD~lithium,568]]'
+  - '[[_Standards/WikiData/WD~sodium,658]]'
+  - '[[_Standards/WikiData/WD~francium,671]]'
+  - '[[_Standards/WikiData/WD~potassium,703]]'
+  - '[[_Standards/WikiData/WD~rubidium,895]]'
+  - '[[_Standards/WikiData/WD~caesium,1108]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+OmegaWiki_Defined_Meaning: 1130
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Cesium.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Potassium-2.jpg
-Common_Procurement_Vocabulary_code: "24311300"
+Common_Procurement_Vocabulary_code: 24311300
 Dewey_Decimal_Classification:
-  - "546.38"
-  - "669.725"
-P8189: "987007294080905171"
+  - 546.38
+  - 669.725
+P8189: 987007294080905171
 Commons_category: Alkali metals
 UMLS_CUI: C0025554
 MeSH_tree_code:

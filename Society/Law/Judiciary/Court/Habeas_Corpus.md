@@ -1,19 +1,21 @@
 ---
 aliases:
   - Habeas corpus
+  - Habeas_Corpus
+  - Habeas Corpus
 has_id_wikidata: Q220596
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~general_principles_of_French_law,2608811]]"
-  - "[[_Standards/WikiData/WD~Latin_phrase,3062294]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-field_of_work: "[[_Standards/WikiData/WD~law,7748]]"
+  - '[[_Standards/WikiData/WD~general_principles_of_French_law,2608811]]'
+  - '[[_Standards/WikiData/WD~Latin_phrase,3062294]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+field_of_work: '[[_Standards/WikiData/WD~law,7748]]'
 U_S_National_Archives_Identifier:
-  - "10637280"
-  - "10661996"
+  - 10637280
+  - 10661996
 Commons_category: Habeas corpus
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Habeas%20corpus.ogg
 Krugosvet_article_archived_: ekonomika-i-pravo/khabeas-korpus

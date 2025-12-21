@@ -1,29 +1,30 @@
 ---
 aliases:
   - Jurisprudenz
+  - Jurisprudence
 has_id_wikidata: Q4932206
-has_part_s_: "[[_Standards/WikiData/WD~philosophy_of_law,126842]]"
+has_part_s_: '[[_Standards/WikiData/WD~philosophy_of_law,126842]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~jurist,185351]]"
-  - "[[_Standards/WikiData/WD~legal_scholar,16012028]]"
+  - '[[_Standards/WikiData/WD~jurist,185351]]'
+  - '[[_Standards/WikiData/WD~legal_scholar,16012028]]'
 different_from:
-  - "[[_Standards/WikiData/WD~legal_science,382995]]"
-  - "[[_Standards/WikiData/WD~case_law,11022655]]"
+  - '[[_Standards/WikiData/WD~legal_science,382995]]'
+  - '[[_Standards/WikiData/WD~case_law,11022655]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~rights,780687]]"
-  - "[[_Standards/WikiData/WD~law,7748]]"
-studied_by: "[[_Standards/WikiData/WD~sociology_of_law,847034]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~judicial_studies,6768472]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Jurisprudence,11157398]]"
-instance_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-subclass_of: "[[_Standards/WikiData/WD~social_science,34749]]"
+  - '[[_Standards/WikiData/WD~rights,780687]]'
+  - '[[_Standards/WikiData/WD~law,7748]]'
+studied_by: '[[_Standards/WikiData/WD~sociology_of_law,847034]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~judicial_studies,6768472]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Jurisprudence,11157398]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+subclass_of: '[[_Standards/WikiData/WD~social_science,34749]]'
 Regensburg_Classification: P
 Colon_Classification: Z
 Commons_category: Jurisprudence

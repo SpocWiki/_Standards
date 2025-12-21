@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _South-America-CountryDb
+  - ' South-America-CountryDb'
 database_plugin: basic
 ---
 

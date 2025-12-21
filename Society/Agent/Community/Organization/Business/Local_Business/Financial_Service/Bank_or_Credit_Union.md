@@ -4,20 +4,22 @@ aliases:
   - bank_or_credit_union
   - BankOrCreditUnion
   - is_a_bank_or_credit_union
+  - Bank_or_Credit_Union
+  - Bank or Credit Union
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - bank_or_credit_union
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_bank_or_credit_union Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -4,6 +4,7 @@ aliases:
   - 孫子
   - 孙子
   - Sūnzǐ
+  - Sun_Tzu
 has_id_wikidata: Q37151
 Europeana_entity: agent/base/60499
 Krugosvet_article_archived_: istoriya/SUN-TSZI.html
@@ -11,41 +12,41 @@ Libris_URI: vs689qhd28jwrk3
 birth_name: 孫武
 date_of_birth: -0543-01-01T00:00:00Z
 military_or_police_rank:
-  - "[[_Standards/WikiData/WD~army_general,160910]]"
-  - "[[_Standards/WikiData/WD~military_leader,1402561]]"
+  - '[[_Standards/WikiData/WD~army_general,160910]]'
+  - '[[_Standards/WikiData/WD~military_leader,1402561]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~military_strategy,219087]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
+  - '[[_Standards/WikiData/WD~military_strategy,219087]]'
+  - '[[_Standards/WikiData/WD~philosophy,5891]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-relative: "[[_Standards/WikiData/WD~Sun_Jian,334101]]"
+  - '[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+relative: '[[_Standards/WikiData/WD~Sun_Jian,334101]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Qi,837855]]"
-  - "[[_Standards/WikiData/WD~Wu,912068]]"
-place_of_birth: "[[_Standards/WikiData/WD~Qi,837855]]"
-allegiance: "[[_Standards/WikiData/WD~Wu,912068]]"
-commander_of_DEPRECATED_: "[[_Standards/WikiData/WD~Wu,912068]]"
-different_from: "[[_Standards/WikiData/WD~Sun_Tzu,2634383]]"
+  - '[[_Standards/WikiData/WD~Qi,837855]]'
+  - '[[_Standards/WikiData/WD~Wu,912068]]'
+place_of_birth: '[[_Standards/WikiData/WD~Qi,837855]]'
+allegiance: '[[_Standards/WikiData/WD~Wu,912068]]'
+commander_of_DEPRECATED_: '[[_Standards/WikiData/WD~Wu,912068]]'
+different_from: '[[_Standards/WikiData/WD~Sun_Tzu,2634383]]'
 family_name:
-  - "[[_Standards/WikiData/WD~Sun,3543591]]"
-  - "[[_Standards/WikiData/WD~Gui,10943080]]"
+  - '[[_Standards/WikiData/WD~Sun,3543591]]'
+  - '[[_Standards/WikiData/WD~Gui,10943080]]'
 occupation:
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~military_personnel,47064]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-father: "[[_Standards/WikiData/WD~Sun_Ping,10944647]]"
-place_of_death: "[[_Standards/WikiData/WD~Gusu,13814628]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-given_name: "[[_Standards/WikiData/WD~Wu,97653045]]"
-child: "[[_Standards/WikiData/WD~Sun_Ming_Zi,108784537]]"
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~military_personnel,47064]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+father: '[[_Standards/WikiData/WD~Sun_Ping,10944647]]'
+place_of_death: '[[_Standards/WikiData/WD~Gusu,13814628]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+given_name: '[[_Standards/WikiData/WD~Wu,97653045]]'
+child: '[[_Standards/WikiData/WD~Sun_Ming_Zi,108784537]]'
 date_of_death:
   - -0469-01-01T00:00:00Z
   - -0495-01-01T00:00:00Z
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Chinese,7850]]"
-notable_work: "[[_Standards/WikiData/WD~The_Art_of_War,8251]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Chinese,7850]]'
+notable_work: '[[_Standards/WikiData/WD~The_Art_of_War,8251]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 BHCL_UUID: e1f47307-ce0e-4826-8944-fa3a5e51af74
 name_in_native_language: 孫子
 Commons_gallery: 孫子
@@ -53,8 +54,8 @@ Commons_category: Sun Tzu
 Commons_Creator_page: Sun Tzu
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Enchoen27n3200.jpg
 ISNI:
-  - "0000000419909388"
-  - "0000000453836557"
+  - 0000000419909388
+  - 0000000453836557
 ---
 
 # [[Sun_Tzu]] 

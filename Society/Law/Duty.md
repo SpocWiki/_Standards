@@ -1,15 +1,16 @@
 ---
 aliases:
   - Pflicht
+  - Duty
 has_id_wikidata: Q878070
 subclass_of:
-  - "[[_Standards/WikiData/WD~principle,211364]]"
-  - "[[_Standards/WikiData/WD~responsibility,1274115]]"
-opposite_of: "[[_Standards/WikiData/WD~rights,780687]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~principle,211364]]'
+  - '[[_Standards/WikiData/WD~responsibility,1274115]]'
+opposite_of: '[[_Standards/WikiData/WD~rights,780687]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~obligation,2648051]]"
-  - "[[_Standards/WikiData/WD~Q13196878,13196878]]"
+  - '[[_Standards/WikiData/WD~obligation,2648051]]'
+  - '[[_Standards/WikiData/WD~Q13196878,13196878]]'
 Library_of_Congress_Classification: BJ1450-BJ1458
 Iconclass_notation: 57A21
 ---

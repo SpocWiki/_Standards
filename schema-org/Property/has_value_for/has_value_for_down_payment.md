@@ -4,21 +4,22 @@ aliases:
   - down-payment
   - downPayment
   - has_value_for_down_payment
+  - has value for down payment
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - down-payment
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_down-payment
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

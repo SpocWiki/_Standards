@@ -1,6 +1,8 @@
 ---
 aliases:
-- "An American in Paris"
+  - An American in Paris
+  - American_in_Paris
+  - American in Paris
 ---
 
 # [[American_in_Paris]] 

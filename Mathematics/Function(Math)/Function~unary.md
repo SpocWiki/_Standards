@@ -2,6 +2,7 @@
 aliases:
   - unary Function
   - unäre Funktion
+  - Function~unary
 ---
 
 # [[Function~unary]] 

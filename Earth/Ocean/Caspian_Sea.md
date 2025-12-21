@@ -1,95 +1,96 @@
 ---
 aliases:
   - Caspian Sea
+  - Caspian_Sea
+has_id_wikidata: Q5484
 area: 386400
 basin_country:
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Turkmenistan,874]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Azerbaijan,227]]"
-  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
+  - '[[_Standards/WikiData/WD~Iran,794]]'
+  - '[[_Standards/WikiData/WD~Turkmenistan,874]]'
+  - '[[_Standards/WikiData/WD~Russia,159]]'
+  - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
+  - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
 Commons_category: Caspian Sea
 Commons_gallery: Caspium
 coordinate_location: Point(50.5 42.0)
 country:
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Turkmenistan,874]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Azerbaijan,227]]"
-  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
+  - '[[_Standards/WikiData/WD~Iran,794]]'
+  - '[[_Standards/WikiData/WD~Turkmenistan,874]]'
+  - '[[_Standards/WikiData/WD~Russia,159]]'
+  - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
+  - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-drainage_basin: "[[_Standards/WikiData/WD~Caspian_Sea_Basin,96188898]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+drainage_basin: '[[_Standards/WikiData/WD~Caspian_Sea_Basin,96188898]]'
 elevation_above_sea_level: -28
 EPSG_CRS: 5106
-has_id_wikidata: Q5484
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ISS056-E-13641%20-%20View%20of%20Azerbaijan.jpg
 inflows:
-  - "[[_Standards/WikiData/WD~Sukhodol,28667643]]"
-  - "[[_Standards/WikiData/WD~Galand_River,32753554]]"
-  - "[[_Standards/WikiData/WD~Neka_River,35492887]]"
-  - "[[_Standards/WikiData/WD~Tashkuh_River,116771143]]"
-  - "[[_Standards/WikiData/WD~Volga,626]]"
-  - "[[_Standards/WikiData/WD~Ural_River,80240]]"
-  - "[[_Standards/WikiData/WD~Terek,82776]]"
-  - "[[_Standards/WikiData/WD~Kura_River,156557]]"
-  - "[[_Standards/WikiData/WD~Kuma,182042]]"
-  - "[[_Standards/WikiData/WD~Sardab_River,283182]]"
-  - "[[_Standards/WikiData/WD~Atrek_River,283622]]"
-  - "[[_Standards/WikiData/WD~Emba_River,517670]]"
-  - "[[_Standards/WikiData/WD~Sulak,770781]]"
-  - "[[_Standards/WikiData/WD~Samur,1342847]]"
-  - "[[_Standards/WikiData/WD~Sefid_Rud,1430986]]"
-  - "[[_Standards/WikiData/WD~Volga_Delta,1431507]]"
-  - "[[_Standards/WikiData/WD~Pirsaat_River,2598623]]"
-  - "[[_Standards/WikiData/WD~Kura,2626727]]"
-  - "[[_Standards/WikiData/WD~Astarachay,3275381]]"
-  - "[[_Standards/WikiData/WD~Bolgarchay_River,3491100]]"
-  - "[[_Standards/WikiData/WD~Sumgayit_River,3512615]]"
-  - "[[_Standards/WikiData/WD~Rubas_(river),3720244]]"
-  - "[[_Standards/WikiData/WD~Shuraozen,3720471]]"
-  - "[[_Standards/WikiData/WD~Ulluchay,3732920]]"
-  - "[[_Standards/WikiData/WD~Belinsky_Bank,4081965]]"
-  - "[[_Standards/WikiData/WD~Buzan,4098333]]"
-  - "[[_Standards/WikiData/WD~Vasilyevsky_Bank,4104864]]"
-  - "[[_Standards/WikiData/WD~Vilesh,4111448]]"
-  - "[[_Standards/WikiData/WD~Gorganrud,4143776]]"
-  - "[[_Standards/WikiData/WD~Kirvoy_Bank,4240768]]"
-  - "[[_Standards/WikiData/WD~Qudyalçay,4244438]]"
-  - "[[_Standards/WikiData/WD~Qusar_River,4249198]]"
-  - "[[_Standards/WikiData/WD~Samur-Absheron_channel,4407109]]"
-  - "[[_Standards/WikiData/WD~Stary_Igolkinsky_Bank,4441054]]"
-  - "[[_Standards/WikiData/WD~Yurinsky_Bank,4534926]]"
-  - "[[_Standards/WikiData/WD~Tajan_River,5670159]]"
-  - "[[_Standards/WikiData/WD~Babol_River,5673901]]"
-  - "[[_Standards/WikiData/WD~Talar_River,5714232]]"
-  - "[[_Standards/WikiData/WD~Siah_Rud_(Mazandaran),5859973]]"
-  - "[[_Standards/WikiData/WD~Kamyzyak,6359956]]"
-  - "[[_Standards/WikiData/WD~Darvagchay,6565418]]"
-  - "[[_Standards/WikiData/WD~Haraz_River,7572056]]"
-  - "[[_Standards/WikiData/WD~Karachay,12844309]]"
-  - "[[_Standards/WikiData/WD~Bolda,19907688]]"
+  - '[[_Standards/WikiData/WD~Sukhodol,28667643]]'
+  - '[[_Standards/WikiData/WD~Galand_River,32753554]]'
+  - '[[_Standards/WikiData/WD~Neka_River,35492887]]'
+  - '[[_Standards/WikiData/WD~Tashkuh_River,116771143]]'
+  - '[[_Standards/WikiData/WD~Volga,626]]'
+  - '[[_Standards/WikiData/WD~Ural_River,80240]]'
+  - '[[_Standards/WikiData/WD~Terek,82776]]'
+  - '[[_Standards/WikiData/WD~Kura_River,156557]]'
+  - '[[_Standards/WikiData/WD~Kuma,182042]]'
+  - '[[_Standards/WikiData/WD~Sardab_River,283182]]'
+  - '[[_Standards/WikiData/WD~Atrek_River,283622]]'
+  - '[[_Standards/WikiData/WD~Emba_River,517670]]'
+  - '[[_Standards/WikiData/WD~Sulak,770781]]'
+  - '[[_Standards/WikiData/WD~Samur,1342847]]'
+  - '[[_Standards/WikiData/WD~Sefid_Rud,1430986]]'
+  - '[[_Standards/WikiData/WD~Volga_Delta,1431507]]'
+  - '[[_Standards/WikiData/WD~Pirsaat_River,2598623]]'
+  - '[[_Standards/WikiData/WD~Kura,2626727]]'
+  - '[[_Standards/WikiData/WD~Astarachay,3275381]]'
+  - '[[_Standards/WikiData/WD~Bolgarchay_River,3491100]]'
+  - '[[_Standards/WikiData/WD~Sumgayit_River,3512615]]'
+  - '[[_Standards/WikiData/WD~Rubas_(river),3720244]]'
+  - '[[_Standards/WikiData/WD~Shuraozen,3720471]]'
+  - '[[_Standards/WikiData/WD~Ulluchay,3732920]]'
+  - '[[_Standards/WikiData/WD~Belinsky_Bank,4081965]]'
+  - '[[_Standards/WikiData/WD~Buzan,4098333]]'
+  - '[[_Standards/WikiData/WD~Vasilyevsky_Bank,4104864]]'
+  - '[[_Standards/WikiData/WD~Vilesh,4111448]]'
+  - '[[_Standards/WikiData/WD~Gorganrud,4143776]]'
+  - '[[_Standards/WikiData/WD~Kirvoy_Bank,4240768]]'
+  - '[[_Standards/WikiData/WD~Qudyalçay,4244438]]'
+  - '[[_Standards/WikiData/WD~Qusar_River,4249198]]'
+  - '[[_Standards/WikiData/WD~Samur-Absheron_channel,4407109]]'
+  - '[[_Standards/WikiData/WD~Stary_Igolkinsky_Bank,4441054]]'
+  - '[[_Standards/WikiData/WD~Yurinsky_Bank,4534926]]'
+  - '[[_Standards/WikiData/WD~Tajan_River,5670159]]'
+  - '[[_Standards/WikiData/WD~Babol_River,5673901]]'
+  - '[[_Standards/WikiData/WD~Talar_River,5714232]]'
+  - '[[_Standards/WikiData/WD~Siah_Rud_(Mazandaran),5859973]]'
+  - '[[_Standards/WikiData/WD~Kamyzyak,6359956]]'
+  - '[[_Standards/WikiData/WD~Darvagchay,6565418]]'
+  - '[[_Standards/WikiData/WD~Haraz_River,7572056]]'
+  - '[[_Standards/WikiData/WD~Karachay,12844309]]'
+  - '[[_Standards/WikiData/WD~Bolda,19907688]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~body_of_water,15324]]"
-  - "[[_Standards/WikiData/WD~lake,23397]]"
-  - "[[_Standards/WikiData/WD~sea,165]]"
-  - "[[_Standards/WikiData/WD~salt_lake,188025]]"
-  - "[[_Standards/WikiData/WD~endorheic_lake,9019918]]"
+  - '[[_Standards/WikiData/WD~body_of_water,15324]]'
+  - '[[_Standards/WikiData/WD~lake,23397]]'
+  - '[[_Standards/WikiData/WD~sea,165]]'
+  - '[[_Standards/WikiData/WD~salt_lake,188025]]'
+  - '[[_Standards/WikiData/WD~endorheic_lake,9019918]]'
 length: 1200
 Libris_URI: 42gjh6cn5jv40t7
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Aral_Caspian_Depression,625587]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Aral_Caspian_Depression,625587]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/KaspischeZeeLocatie.png
 MeSH_tree_code:
   - G01.311.580.500
-named_after: "[[_Standards/WikiData/WD~Kassites,243312]]"
+named_after: '[[_Standards/WikiData/WD~Kassites,243312]]'
 native_label:
   - Каспийское море
   - Xəzər dənizi
@@ -98,7 +99,7 @@ native_label:
   - Каспий теңізі
   - مازرون دریا
 OmegaWiki_Defined_Meaning: 5094
-part_of: "[[_Standards/WikiData/WD~Mediterranean_Sea_Area,111384107]]"
+part_of: '[[_Standards/WikiData/WD~Mediterranean_Sea_Area,111384107]]'
 perimeter: 7000
 salinity: 12.5
 UMLS_CUI: C4704730

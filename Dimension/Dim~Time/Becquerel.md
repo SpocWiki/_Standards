@@ -1,14 +1,16 @@
 ---
+aliases:
+  - Becquerel
 has_id_wikidata: Q102573
-measured_physical_quantity: "[[_Standards/WikiData/WD~activity,317949]]"
+measured_physical_quantity: '[[_Standards/WikiData/WD~activity,317949]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]"
-  - "[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]"
-  - "[[_Standards/WikiData/WD~unit_of_activity_referred_to_a_radionuclide,126752821]]"
-derived_from_base_unit: "[[_Standards/WikiData/WD~second,11574]]"
+  - '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
+  - '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+  - '[[_Standards/WikiData/WD~unit_of_activity_referred_to_a_radionuclide,126752821]]'
+derived_from_base_unit: '[[_Standards/WikiData/WD~second,11574]]'
 conversion_to_SI_unit: 1
-named_after: "[[_Standards/WikiData/WD~Henri_Becquerel,41269]]"
-OmegaWiki_Defined_Meaning: "341585"
+named_after: '[[_Standards/WikiData/WD~Henri_Becquerel,41269]]'
+OmegaWiki_Defined_Meaning: 341585
 related_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Becquerel%20plate.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/CDV-700M%20Geiger%20Counter.JPG

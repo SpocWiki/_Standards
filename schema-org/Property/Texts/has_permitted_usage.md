@@ -4,22 +4,24 @@ aliases:
   - permitted_usage
   - permittedUsage
   - has_text_of_permitted_usage
+  - has_permitted_usage
+  - has permitted usage
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - permitted
   - usage
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_permitted_usage
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

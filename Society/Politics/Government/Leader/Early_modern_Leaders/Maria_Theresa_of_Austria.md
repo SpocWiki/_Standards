@@ -1,6 +1,8 @@
 ---
 aliases:
   - Maria Theresia Walburga Amalia Christina
+  - Maria_Theresa_of_Austria
+  - Maria Theresa of Austria
 has_id_wikidata: Q131706
 ---
 

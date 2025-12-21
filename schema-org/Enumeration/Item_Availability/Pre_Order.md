@@ -4,21 +4,23 @@ aliases:
   - pre_order
   - PreOrder
   - is_pre_ordered
+  - Pre_Order
+  - Pre Order
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: ItemAvailability
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - pre_order
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_pre_ordered Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -2,19 +2,21 @@
 aliases:
   - land mine
   - landmine
+  - Land_Mine
+  - Land Mine
 has_id_wikidata: Q178795
-subclass_of: "[[_Standards/WikiData/WD~mine,1481202]]"
-part_of: "[[_Standards/WikiData/WD~minefield,1936555]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
-Nomenclature_for_Museum_Cataloging: "7774"
-OmegaWiki_Defined_Meaning: "1443322"
+subclass_of: '[[_Standards/WikiData/WD~mine,1481202]]'
+part_of: '[[_Standards/WikiData/WD~minefield,1936555]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+Nomenclature_for_Museum_Cataloging: 7774
+OmegaWiki_Defined_Meaning: 1443322
 time_of_discovery_or_invention: 1277-01-01T00:00:00Z
 Commons_category: Landmines
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Type%2059%20anti-tank%20mine.jpg
-MIL_STD_2525_Symbol_Identification_Code: "10011500002101000000"
-U_S_National_Archives_Identifier: "10639516"
+MIL_STD_2525_Symbol_Identification_Code: 10011500002101000000
+U_S_National_Archives_Identifier: 10639516
 Commons_gallery: Land mine
 ---
 

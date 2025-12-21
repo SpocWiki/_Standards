@@ -1,7 +1,8 @@
 ---
 aliases:
-- cshtml
-- vbhtml
+  - cshtml
+  - vbhtml
+  - Razor-Web-Pages
 ---
 
 #is_/different_from :: [[ASP.NET~MVC]] 

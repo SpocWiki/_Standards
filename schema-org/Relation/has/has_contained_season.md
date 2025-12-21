@@ -1,30 +1,31 @@
 ---
 aliases:
-- has_contained_season
-- has_season
+  - has_contained_season
+  - has_season
+  - has contained season
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- contains
-- season
-- contains-season
-- contains_season
-- containsSeason
-layout: 
-license: "CC BY-SA 4.0"
+  - contains
+  - season
+  - contains-season
+  - contains_season
+  - containsSeason
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_contained_season
 publish: true
-publishDate: 
+publishDate: ''
 supersedes: season
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_contained_season
 type: Predi_Relation
 ---

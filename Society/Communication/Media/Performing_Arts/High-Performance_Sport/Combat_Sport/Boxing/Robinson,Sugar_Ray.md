@@ -3,33 +3,35 @@ aliases:
   - Sugar_Ray_Robinson
   - Walker Smith Jr.
   - Sugar Ray Robinson
+  - Robinson,Sugar_Ray
+  - Robinson,Sugar Ray
 has_id_wikidata: Q316706
-place_of_birth: "[[_Standards/WikiData/WD~Ailey,405097]]"
-place_of_death: "[[_Standards/WikiData/WD~Culver_City,493378]]"
+place_of_birth: '[[_Standards/WikiData/WD~Ailey,405097]]'
+place_of_death: '[[_Standards/WikiData/WD~Culver_City,493378]]'
 sports_discipline_competed_in:
-  - "[[_Standards/WikiData/WD~welterweight,766904]]"
-  - "[[_Standards/WikiData/WD~light_heavyweight,1004748]]"
-  - "[[_Standards/WikiData/WD~middleweight,1051530]]"
-  - "[[_Standards/WikiData/WD~lightweight,1051922]]"
-place_of_burial: "[[_Standards/WikiData/WD~Inglewood_Park_Cemetery,1645215]]"
-hair_color: "[[_Standards/WikiData/WD~black_hair,1922956]]"
-given_name: "[[_Standards/WikiData/WD~Ray,2133832]]"
-family_name: "[[_Standards/WikiData/WD~Robinson,2798428]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-educated_at: "[[_Standards/WikiData/WD~DeWitt_Clinton_High_School,5244175]]"
-footedness: "[[_Standards/WikiData/WD~orthodox_stance,5260471]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~welterweight,766904]]'
+  - '[[_Standards/WikiData/WD~light_heavyweight,1004748]]'
+  - '[[_Standards/WikiData/WD~middleweight,1051530]]'
+  - '[[_Standards/WikiData/WD~lightweight,1051922]]'
+place_of_burial: '[[_Standards/WikiData/WD~Inglewood_Park_Cemetery,1645215]]'
+hair_color: '[[_Standards/WikiData/WD~black_hair,1922956]]'
+given_name: '[[_Standards/WikiData/WD~Ray,2133832]]'
+family_name: '[[_Standards/WikiData/WD~Robinson,2798428]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+educated_at: '[[_Standards/WikiData/WD~DeWitt_Clinton_High_School,5244175]]'
+footedness: '[[_Standards/WikiData/WD~orthodox_stance,5260471]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 occupation:
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~boxer,11338576]]"
-eye_color: "[[_Standards/WikiData/WD~dark_brown,17244894]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~boxer,11338576]]'
+eye_color: '[[_Standards/WikiData/WD~dark_brown,17244894]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 medical_condition: "[[_Standards/WikiData/WD~Alzheimer's_disease,11081]]"
-cause_of_death: "[[_Standards/WikiData/WD~diabetes,12206]]"
-sport: "[[_Standards/WikiData/WD~boxing,32112]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_for_sport: "[[_Standards/WikiData/WD~United_States,30]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+cause_of_death: '[[_Standards/WikiData/WD~diabetes,12206]]'
+sport: '[[_Standards/WikiData/WD~boxing,32112]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_for_sport: '[[_Standards/WikiData/WD~United_States,30]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 net_worth: 500000
 number_of_draws_ties: 6
 height: 180
@@ -38,16 +40,16 @@ number_of_wins: 173
 Commons_category: Sugar Ray Robinson
 nickname: Sugar
 work_period_end_: 1965-11-10T00:00:00Z
-U_S_National_Archives_Identifier: "10572571"
+U_S_National_Archives_Identifier: 10572571
 birth_name: Walker Smith
 date_of_death: 1989-04-12T00:00:00Z
 work_period_start_: 1940-10-04T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sugar%20Ray%20Robinson%201947.jpg
 official_website: http://www.cmgww.com/sports/robinson/about/bio.html
 ISNI:
-  - "0000000083071904"
-  - "0000000368510667"
-Munzinger_Sport_number: "01000002869"
+  - 0000000083071904
+  - 0000000368510667
+Munzinger_Sport_number: 01000002869
 date_of_birth: 1921-05-03T00:00:00Z
 ---
 

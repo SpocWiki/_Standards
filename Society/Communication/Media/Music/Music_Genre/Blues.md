@@ -1,16 +1,18 @@
 ---
-audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stafford%20and%20Her%20Jazz%20Band%20-%20Royal%20Garden%20Blues.mp3"
+aliases:
+  - Blues
+has_id_wikidata: Q9759
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stafford%20and%20Her%20Jazz%20Band%20-%20Royal%20Garden%20Blues.mp3
 Commons_category: Blues
 country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 described_by_source: '[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]'
 different_from: '[[_Standards/WikiData/WD~blues,39076517]]'
-equivalent_class: "http://service.ddex.net/dd/DD-AVS-001/dd/ddex_Blues"
-has_id_wikidata: Q9759
+equivalent_class: http://service.ddex.net/dd/DD-AVS-001/dd/ddex_Blues
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~traditional_blues_verse,7832322]]'
 has_time_started: 1890-06
 has_use: '[[_Standards/WikiData/WD~music,638]]'
 IAB_code: 360
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/B.B.%20King%2C%202006-06-26.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/B.B.%20King%2C%202006-06-26.jpg
 inception: 1890
 instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
 Krugosvet_article: kultura_i_obrazovanie/muzyka/BLYUZ.html
@@ -20,11 +22,11 @@ OmegaWiki_Defined_Meaning: 851080
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
 PhilPapers_topic: blues
 practiced_by:
-- '[[_Standards/WikiData/WD~blues_shouter,2907348]]'
-- '[[_Standards/WikiData/WD~blues_musician,42303786]]'
+  - '[[_Standards/WikiData/WD~blues_shouter,2907348]]'
+  - '[[_Standards/WikiData/WD~blues_musician,42303786]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~popular_music,373342]]'
-- '[[_Standards/WikiData/WD~music_of_North_America,107718737]]'
+  - '[[_Standards/WikiData/WD~popular_music,373342]]'
+  - '[[_Standards/WikiData/WD~music_of_North_America,107718737]]'
 subreddit: blues
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Blues,10514224]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Blues,6557994]]'

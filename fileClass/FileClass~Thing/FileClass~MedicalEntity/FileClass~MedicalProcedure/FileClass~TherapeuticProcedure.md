@@ -1,38 +1,40 @@
 ---
-excludes: 
+aliases:
+  - FileClass~TherapeuticProcedure
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure
 fields:
-- id: v8RDAf
-  name: AdverseOutcome
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity')"
-  type: MultiFile
-  path: ''
-- id: j9Jgcd
-  name: DoseSchedule
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule')"
-  type: MultiFile
-  path: ''
-- id: lYyhpK
-  name: Drug
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')"
-  type: MultiFile
-  path: ''
+  - id: v8RDAf
+    name: AdverseOutcome
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity')
+    type: MultiFile
+    path: ''
+  - id: j9Jgcd
+    name: DoseSchedule
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule')
+    type: MultiFile
+    path: ''
+  - id: lYyhpK
+    name: Drug
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/TherapeuticProcedure
-- class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure
-- is_a_/TherapeuticProcedure
-- schema-org/TherapeuticProcedure
+  - class/TherapeuticProcedure
+  - class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure
+  - is_a_/TherapeuticProcedure
+  - schema-org/TherapeuticProcedure
 tags:
-- class/FileClass
-- class/TherapeuticProcedure
-- is_a_/TherapeuticProcedure
-- class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure
+  - class/FileClass
+  - class/TherapeuticProcedure
+  - is_a_/TherapeuticProcedure
+  - class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure
 version: 2.0
 ---
 

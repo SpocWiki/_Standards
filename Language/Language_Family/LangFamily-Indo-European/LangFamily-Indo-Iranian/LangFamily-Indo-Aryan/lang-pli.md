@@ -1,6 +1,7 @@
 ---
 aliases:
   - Pali
+  - lang-pli
 has_id_wikidata: Q36727
 has_grammatical_case:
   - "[[_Standards/WikiData/WD~nominative_case,131105]]"
@@ -34,8 +35,8 @@ part_of: "[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530]]"
 indigenous_to: "[[_Standards/WikiData/WD~India,668]]"
 country: "[[_Standards/WikiData/WD~India,668]]"
 number_of_speakers_writers_or_signers: 0
-IAB_code: "1158"
-OmegaWiki_Defined_Meaning: "583410"
+IAB_code: 1158
+OmegaWiki_Defined_Meaning: 583410
 POSIX_locale_identifier: pi
 Wikimedia_language_code: pi
 IETF_language_tag: pi

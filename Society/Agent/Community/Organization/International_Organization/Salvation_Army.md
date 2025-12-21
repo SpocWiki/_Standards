@@ -1,51 +1,53 @@
 ---
 aliases:
   - The_Salvation_Army
+  - Salvation_Army
+  - Salvation Army
 has_id_wikidata: Q188307
 founded_by:
-  - "[[_Standards/WikiData/WD~William_Booth,309882]]"
-  - "[[_Standards/WikiData/WD~Catherine_Booth,431614]]"
+  - '[[_Standards/WikiData/WD~William_Booth,309882]]'
+  - '[[_Standards/WikiData/WD~Catherine_Booth,431614]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~charitable_organization,708676]]"
-  - "[[_Standards/WikiData/WD~religious_denomination,13414953]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
+  - '[[_Standards/WikiData/WD~charitable_organization,708676]]'
+  - '[[_Standards/WikiData/WD~religious_denomination,13414953]]'
+  - '[[_Standards/WikiData/WD~organization,43229]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
-has_cause: "[[_Standards/WikiData/WD~Holiness_movement,1050725]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
+has_cause: '[[_Standards/WikiData/WD~Holiness_movement,1050725]]'
 industry:
-  - "[[_Standards/WikiData/WD~voluntary_sector,1063076]]"
-  - "[[_Standards/WikiData/WD~other_social_work_activities_without_accommodation_n.e.c.,29586002]]"
-  - "[[_Standards/WikiData/WD~Activities_of_religious_organisations,29586068]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Commissioner_in_The_Salvation_Army,5152808]]"
-has_part_s_: "[[_Standards/WikiData/WD~Commissioner_in_The_Salvation_Army,5152808]]"
+  - '[[_Standards/WikiData/WD~voluntary_sector,1063076]]'
+  - '[[_Standards/WikiData/WD~other_social_work_activities_without_accommodation_n.e.c.,29586002]]'
+  - '[[_Standards/WikiData/WD~Activities_of_religious_organisations,29586068]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Commissioner_in_The_Salvation_Army,5152808]]'
+has_part_s_: '[[_Standards/WikiData/WD~Commissioner_in_The_Salvation_Army,5152808]]'
 owner_of:
   - "[[_Standards/WikiData/WD~St._Andrew's_Episcopal_Church,7586864]]"
-  - "[[_Standards/WikiData/WD~William_Booth_Memorial_Training_College,8005708]]"
-  - "[[_Standards/WikiData/WD~Cité_de_refuge,10453586]]"
-  - "[[_Standards/WikiData/WD~The_Temple,10692625]]"
-  - "[[_Standards/WikiData/WD~18_Gramercy_Park,21402642]]"
-member_of: "[[_Standards/WikiData/WD~Conference_of_NGOs,7727324]]"
-main_subject: "[[_Standards/WikiData/WD~lifestance_organisation,11986619]]"
-chief_executive_officer: "[[_Standards/WikiData/WD~Brian_Peddle,22007361]]"
+  - '[[_Standards/WikiData/WD~William_Booth_Memorial_Training_College,8005708]]'
+  - '[[_Standards/WikiData/WD~Cité_de_refuge,10453586]]'
+  - '[[_Standards/WikiData/WD~The_Temple,10692625]]'
+  - '[[_Standards/WikiData/WD~18_Gramercy_Park,21402642]]'
+member_of: '[[_Standards/WikiData/WD~Conference_of_NGOs,7727324]]'
+main_subject: '[[_Standards/WikiData/WD~lifestance_organisation,11986619]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Brian_Peddle,22007361]]'
 child_organization_or_unit:
-  - "[[_Standards/WikiData/WD~Armáda_spásy,43894839]]"
-  - "[[_Standards/WikiData/WD~Salvos,120646407]]"
-occupation: "[[_Standards/WikiData/WD~producer,47541952]]"
-award_received: "[[_Standards/WikiData/WD~Silver_Anvil_Award,92429087]]"
-flag: "[[_Standards/WikiData/WD~standard_of_the_Salvation_Army,115527338]]"
-legal_form: "[[_Standards/WikiData/WD~Q130264561,130264561]]"
+  - '[[_Standards/WikiData/WD~Armáda_spásy,43894839]]'
+  - '[[_Standards/WikiData/WD~Salvos,120646407]]'
+occupation: '[[_Standards/WikiData/WD~producer,47541952]]'
+award_received: '[[_Standards/WikiData/WD~Silver_Anvil_Award,92429087]]'
+flag: '[[_Standards/WikiData/WD~standard_of_the_Salvation_Army,115527338]]'
+legal_form: '[[_Standards/WikiData/WD~Q130264561,130264561]]'
 inception: 1865-07-02T00:00:00Z
-part_of: "[[_Standards/WikiData/WD~Protestantism,23540]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Protestantism,23540]]"
+part_of: '[[_Standards/WikiData/WD~Protestantism,23540]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Protestantism,23540]]'
 country:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Belgium,31]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-location_of_formation: "[[_Standards/WikiData/WD~London,84]]"
-headquarters_location: "[[_Standards/WikiData/WD~London,84]]"
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Belgium,31]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+location_of_formation: '[[_Standards/WikiData/WD~London,84]]'
+headquarters_location: '[[_Standards/WikiData/WD~London,84]]'
 number_of_volunteers:
   - 10000
   - 11700
@@ -54,7 +56,7 @@ number_of_volunteers:
   - 13800
   - 10850
 social_media_followers: 8000
-separated_from: "[[_Standards/WikiData/WD~Methodism,33203]]"
+separated_from: '[[_Standards/WikiData/WD~Methodism,33203]]'
 member_count: 1650000
 employees:
   - 2770
@@ -78,7 +80,7 @@ bequest_income:
   - 62753000
   - 66278000
   - 84328000
-Charity_Commission_no_: "214779"
+Charity_Commission_no_: 214779
 total_revenue:
   - 209659000
   - 231372000
@@ -116,7 +118,7 @@ plaque_image:
 official_donation_page_URL: https://www.salvationarmy.org/donate
 OpenStreetMap_tag: denomination=salvation_army
 exact_match: https://findthatcharity.uk/orgid/XI-ROR-00csd1970
-Norwegian_organisation_number: "938498318"
+Norwegian_organisation_number: 938498318
 short_name: TSA
 name_in_native_language: The Salvation Army
 native_label: The Salvation Army
@@ -129,13 +131,13 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20of%20t
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Crest%20of%20The%20Salvation%20Army.png
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Salvation%20Army%20World%20Map%20Updated.PNG
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Salvation%20Army%20Logo.svg
-ISNI: "0000000123695800"
+ISNI: 0000000123695800
 Iconclass_notation: 11P362
-Corporate_Number_Japan_: "2010005000538"
+Corporate_Number_Japan_: 2010005000538
 Libris_URI: 42gjl5ln4sb393w
 PermID:
-  - "5034838493"
-  - "5051776462"
+  - 5034838493
+  - 5051776462
 Legal_Entity_Identifier:
   - 5493005FGG4Y2YFTNM14
   - 549300UQ1LCLSQQ6V491

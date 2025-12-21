@@ -287,12 +287,12 @@ cssclasses:
   - Country
 publish: true
 title: Seychelles
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-SC
   - fr-SC

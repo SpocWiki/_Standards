@@ -5,59 +5,60 @@ aliases:
   - Richard Branson
   - Branson
   - Richard_Branson
+  - Branson,Richard
 has_id_wikidata: Q194419
 occupation:
-  - "[[_Standards/WikiData/WD~entrepreneur,131524]]"
-  - "[[_Standards/WikiData/WD~businessperson,43845]]"
-medical_condition: "[[_Standards/WikiData/WD~dyslexia,132971]]"
-honorific_prefix: "[[_Standards/WikiData/WD~Sir,209690]]"
+  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+medical_condition: '[[_Standards/WikiData/WD~dyslexia,132971]]'
+honorific_prefix: '[[_Standards/WikiData/WD~Sir,209690]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Necker_Island,747129]]"
-  - "[[_Standards/WikiData/WD~The_Superstation,7767493]]"
-  - "[[_Standards/WikiData/WD~Virgin_Limited_Edition,7933952]]"
-residence: "[[_Standards/WikiData/WD~Necker_Island,747129]]"
+  - '[[_Standards/WikiData/WD~Necker_Island,747129]]'
+  - '[[_Standards/WikiData/WD~The_Superstation,7767493]]'
+  - '[[_Standards/WikiData/WD~Virgin_Limited_Edition,7933952]]'
+residence: '[[_Standards/WikiData/WD~Necker_Island,747129]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Berliner_Bär,821456]]"
-  - "[[_Standards/WikiData/WD~Knight_Bachelor,833163]]"
-  - "[[_Standards/WikiData/WD~Sergio_Vieira_de_Mello_Citizen_of_the_World,5122602]]"
-  - "[[_Standards/WikiData/WD~Segrave_Trophy,7446312]]"
-  - "[[_Standards/WikiData/WD~Tony_Jannus_Award,7822643]]"
-  - "[[_Standards/WikiData/WD~Giuseppe_Motta_Medal,15622972]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-significant_event: "[[_Standards/WikiData/WD~sub_orbital_spaceflight,832435]]"
-noble_title: "[[_Standards/WikiData/WD~Knight_Bachelor,833163]]"
-place_of_birth: "[[_Standards/WikiData/WD~Blackheath,880861]]"
-given_name: "[[_Standards/WikiData/WD~Richard,1249148]]"
-creator: "[[_Standards/WikiData/WD~The_Elders,1517662]]"
+  - '[[_Standards/WikiData/WD~Berliner_Bär,821456]]'
+  - '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
+  - '[[_Standards/WikiData/WD~Sergio_Vieira_de_Mello_Citizen_of_the_World,5122602]]'
+  - '[[_Standards/WikiData/WD~Segrave_Trophy,7446312]]'
+  - '[[_Standards/WikiData/WD~Tony_Jannus_Award,7822643]]'
+  - '[[_Standards/WikiData/WD~Giuseppe_Motta_Medal,15622972]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+significant_event: '[[_Standards/WikiData/WD~sub_orbital_spaceflight,832435]]'
+noble_title: '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
+place_of_birth: '[[_Standards/WikiData/WD~Blackheath,880861]]'
+given_name: '[[_Standards/WikiData/WD~Richard,1249148]]'
+creator: '[[_Standards/WikiData/WD~The_Elders,1517662]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~management,2920921]]"
-  - "[[_Standards/WikiData/WD~entrepreneurship,3908516]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~management,2920921]]'
+  - '[[_Standards/WikiData/WD~entrepreneurship,3908516]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Scaitcliffe,7429650]]"
-  - "[[_Standards/WikiData/WD~Stowe_School,7620697]]"
-sibling: "[[_Standards/WikiData/WD~Vanessa_Branson,7914616]]"
-mother: "[[_Standards/WikiData/WD~Eve_Branson,16200336]]"
-family_name: "[[_Standards/WikiData/WD~Branson,16860360]]"
+  - '[[_Standards/WikiData/WD~Scaitcliffe,7429650]]'
+  - '[[_Standards/WikiData/WD~Stowe_School,7620697]]'
+sibling: '[[_Standards/WikiData/WD~Vanessa_Branson,7914616]]'
+mother: '[[_Standards/WikiData/WD~Eve_Branson,16200336]]'
+family_name: '[[_Standards/WikiData/WD~Branson,16860360]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Lentapedia_(full_versions),17311605]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-spouse: "[[_Standards/WikiData/WD~Joan_Templeman,43912942]]"
-father: "[[_Standards/WikiData/WD~Edward_James_Branson,75969372]]"
+  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+  - '[[_Standards/WikiData/WD~Lentapedia_(full_versions),17311605]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+spouse: '[[_Standards/WikiData/WD~Joan_Templeman,43912942]]'
+father: '[[_Standards/WikiData/WD~Edward_James_Branson,75969372]]'
 child:
-  - "[[_Standards/WikiData/WD~Sam_Branson,76241750]]"
-  - "[[_Standards/WikiData/WD~Clare_Sarah_Branson,76241748]]"
-  - "[[_Standards/WikiData/WD~Holly_Branson,76241749]]"
-member_of_the_crew_of: "[[_Standards/WikiData/WD~Unity_22,107458809]]"
+  - '[[_Standards/WikiData/WD~Sam_Branson,76241750]]'
+  - '[[_Standards/WikiData/WD~Clare_Sarah_Branson,76241748]]'
+  - '[[_Standards/WikiData/WD~Holly_Branson,76241749]]'
+member_of_the_crew_of: '[[_Standards/WikiData/WD~Unity_22,107458809]]'
 participant_in:
-  - "[[_Standards/WikiData/WD~World_Government_Summit_2014,116790969]]"
-  - "[[_Standards/WikiData/WD~MENA_Summit_2019,116813847]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~World_Government_Summit_2014,116790969]]'
+  - '[[_Standards/WikiData/WD~MENA_Summit_2019,116813847]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_location: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 Commons_category: Richard Branson
 Facebook_username: Richard Branson
 short_name: Richard Branson
@@ -69,7 +70,7 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Branson%20signature%20SVG.svg
 official_blog_URL: https://www.virgin.com/branson-family/richard-branson-blog
 official_website: https://www.virgin.com/richard-branson
-ISNI: "0000000111616407"
+ISNI: 0000000111616407
 Plex_person_key: 5d776835961905001eb9405e
 Instagram_username: richardbranson
 X_Twitter_username: richardbranson

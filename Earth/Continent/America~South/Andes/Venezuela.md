@@ -205,7 +205,7 @@ ethnic_group:
   - "[[_Standards/WikiData/WD~mestizos_in_Venezuela,18343999]]"
   - "[[_Standards/WikiData/WD~Koreans_in_Venezuela,21005859]]"
 executive_body: "[[_Standards/WikiData/WD~Cabinet_of_Venezuela,14252930]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 14243056
   - 14304904
@@ -247,7 +247,7 @@ ISO_3166_1_alpha_3_code: VEN
 ISO_3166_1_numeric_code: 862
 isReadOnly: false
 ITU_letter_code: VEN
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/VENESUELA.html
 Languages:
   - es-VE
@@ -296,11 +296,11 @@ language_used:
   - "[[_Standards/WikiData/WD~Chaima,12628867]]"
   - "[[_Standards/WikiData/WD~Maco,12953684]]"
   - "[[_Standards/WikiData/WD~Spanish,1321]]"
-layout:
+layout: ""
 licence_plate_code: YV
 license: CC BY-SA 4.0
 life_expectancy: 71
-linkTitle:
+linkTitle: ""
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 located_in_time_zone:
   - "[[_Standards/WikiData/WD~UTC_04_00,5762]]"
@@ -376,7 +376,7 @@ PM20_geo_code: E75
 population: 28515829
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Venezuela.ogg
 publish: true
-publishDate:
+publishDate: ""
 replaces: "[[_Standards/WikiData/WD~Gran_Colombia,199821]]"
 retirement_age:
   - 60

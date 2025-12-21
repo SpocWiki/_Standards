@@ -2,39 +2,40 @@
 aliases:
   - Coke
   - Cola
+  - Coca-Cola
 has_id_wikidata: Q2813
 subclass_of:
-  - "[[_Standards/WikiData/WD~cola,134041]]"
+  - '[[_Standards/WikiData/WD~cola,134041]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Erythroxylum_coca,158018]]"
-  - "[[_Standards/WikiData/WD~kola_nut,912522]]"
+  - '[[_Standards/WikiData/WD~Erythroxylum_coca,158018]]'
+  - '[[_Standards/WikiData/WD~kola_nut,912522]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~trademark,167270]]"
-  - "[[_Standards/WikiData/WD~drink_brand,114392939]]"
+  - '[[_Standards/WikiData/WD~trademark,167270]]'
+  - '[[_Standards/WikiData/WD~drink_brand,114392939]]'
 has_listed_ingredient:
-  - "[[_Standards/WikiData/WD~phosphoric_acid,184782]]"
-  - "[[_Standards/WikiData/WD~caramel_color,227816]]"
-  - "[[_Standards/WikiData/WD~carbonated_water,264554]]"
-  - "[[_Standards/WikiData/WD~high_fructose_corn_syrup,11422173]]"
-  - "[[_Standards/WikiData/WD~caffeine,60235]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~John_Pemberton,215959]]"
+  - '[[_Standards/WikiData/WD~phosphoric_acid,184782]]'
+  - '[[_Standards/WikiData/WD~caramel_color,227816]]'
+  - '[[_Standards/WikiData/WD~carbonated_water,264554]]'
+  - '[[_Standards/WikiData/WD~high_fructose_corn_syrup,11422173]]'
+  - '[[_Standards/WikiData/WD~caffeine,60235]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~John_Pemberton,215959]]'
 container:
-  - "[[_Standards/WikiData/WD~plastic_bottle,1757946]]"
-  - "[[_Standards/WikiData/WD~glass_bottle,5567094]]"
-manufacturer: "[[_Standards/WikiData/WD~The_Coca_Cola_Company,3295867]]"
-owned_by: "[[_Standards/WikiData/WD~The_Coca_Cola_Company,3295867]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Varieties_of_Coca_Cola,10305053]]"
+  - '[[_Standards/WikiData/WD~plastic_bottle,1757946]]'
+  - '[[_Standards/WikiData/WD~glass_bottle,5567094]]'
+manufacturer: '[[_Standards/WikiData/WD~The_Coca_Cola_Company,3295867]]'
+owned_by: '[[_Standards/WikiData/WD~The_Coca_Cola_Company,3295867]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Varieties_of_Coca_Cola,10305053]]'
 different_from:
-  - "[[_Standards/WikiData/WD~coca_plant,66793593]]"
-  - "[[_Standards/WikiData/WD~Pepsi,47719]]"
+  - '[[_Standards/WikiData/WD~coca_plant,66793593]]'
+  - '[[_Standards/WikiData/WD~Pepsi,47719]]'
 inception: 1886-05-08T00:00:00Z
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 alcohol_by_volume: 0
 price: 0.05
 pH_value: 2.85
 social_media_followers: 4610000
-USDA_NDB_number: "1447"
+USDA_NDB_number: 1447
 Instagram_username: cocacola
 YouTube_handle: Coca-Cola
 Commons_gallery: Coca-Cola
@@ -45,12 +46,12 @@ short_name:
   - Coke
   - كوكا
   - cola
-U_S_trademark_serial_number: "78509545"
-Global_Trade_Item_Number: "500112548280"
+U_S_trademark_serial_number: 78509545
+Global_Trade_Item_Number: 500112548280
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coca-Cola%20logo.svg
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Coca-cola%20spreadthesign.ogv
 official_website: https://www.coca-cola.com/
-P8189: "987007563399905171"
+P8189: 987007563399905171
 DPLA_subject_term: Coca Cola (Trademark)
 Danbooru_tag: coca-cola
 IMDb_keyword: coca-cola

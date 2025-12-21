@@ -2,22 +2,23 @@
 aliases:
   - valency
   - Valenz
+  - Valence(Chemistry)
 has_id_wikidata: Q171407
-subclass_of: "[[_Standards/WikiData/WD~dimensionless_quantity,126818]]"
+subclass_of: '[[_Standards/WikiData/WD~dimensionless_quantity,126818]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Valence,224566]]"
-  - "[[_Standards/WikiData/WD~valence,3113318]]"
+  - '[[_Standards/WikiData/WD~Valence,224566]]'
+  - '[[_Standards/WikiData/WD~valence,3113318]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
-instance_of: "[[_Standards/WikiData/WD~natural_phenomenon,1322005]]"
-studied_by: "[[_Standards/WikiData/WD~chemistry,2329]]"
-OmegaWiki_Defined_Meaning: "1113378"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+instance_of: '[[_Standards/WikiData/WD~natural_phenomenon,1322005]]'
+studied_by: '[[_Standards/WikiData/WD~chemistry,2329]]'
+OmegaWiki_Defined_Meaning: 1113378
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>z</mi></mstyle></mrow></math>
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/VALENTNOST.html
 Commons_category: Valence (chemistry)
-Dewey_Decimal_Classification: "541.224"
+Dewey_Decimal_Classification: 541.224
 ---
 
 # [[Valence(Chemistry)]] 

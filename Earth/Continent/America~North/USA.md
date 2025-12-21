@@ -1,11 +1,12 @@
 ---
-age_of_majority: http://www.wikidata.org/.well-known/genid/b6faac5ab4359cbd471cfb5afdd4e55e
-has_id_wikidata: Q30
-aircraft_registration_prefix: N
 aliases:
   - United States of America
   - United States
   - United_States_of_America
+  - USA
+has_id_wikidata: Q30
+age_of_majority: http://www.wikidata.org/.well-known/genid/b6faac5ab4359cbd471cfb5afdd4e55e
+aircraft_registration_prefix: N
 anthem: "[[_Standards/WikiData/WD~The_Star-Spangled_Banner,44696]]"
 area: 9826675
 Baidu_Tieba_name: 美国
@@ -396,7 +397,7 @@ ethnic_group:
   - "[[_Standards/WikiData/WD~African_Americans,49085]]"
   - "[[_Standards/WikiData/WD~Native_Americans_in_the_United_States,49297]]"
 executive_body: "[[_Standards/WikiData/WD~Federal_Government_of_the_United_States,48525]]"
-expiryDate:
+expiryDate: ""
 external_data_available_at_URL: https://www.data.gov/
 Facebook_username: USAGov
 female_population:
@@ -462,18 +463,18 @@ ISO_3166_1_alpha_3_code: USA
 ISO_3166_1_numeric_code: 840
 isReadOnly: false
 ITU_letter_code: USA
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/SOEDINENNIE_SHTATI_AMERIKI.html
 Languages:
   - en-US
 language_used: "[[_Standards/WikiData/WD~English,1860]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~United_States_Congress,11268]]"
 Libris_URI: xv8b9vvg52nbbxp
 licence_plate_code: USA
 license: CC BY-SA 4.0
 life_expectancy: 77
-linkTitle:
+linkTitle: ""
 literacy_rate: 99.4
 located_in_or_next_to_body_of_water:
   - "[[_Standards/WikiData/WD~Arctic_Ocean,788]]"
@@ -641,7 +642,7 @@ public_holiday:
   - "[[_Standards/WikiData/WD~Labor_Day,848352]]"
   - "[[_Standards/WikiData/WD~Thanksgiving,2913791]]"
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side: "[[_Standards/WikiData/WD~right,14565199]]"
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Usa%20edcp%20%28%2BHI%20%2BAK%29%20relief%20location%20map.svg
 replaces:

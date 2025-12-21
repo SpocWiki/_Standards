@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PostOffice
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice
 fields: []
 icon: mail
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PostOffice
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/GovernmentOffice/PostOffice
-- is_a_/PostOffice
-- schema-org/PostOffice
+  - class/PostOffice
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/GovernmentOffice/PostOffice
+  - is_a_/PostOffice
+  - schema-org/PostOffice
 tags:
-- class/FileClass
-- class/PostOffice
-- is_a_/PostOffice
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/GovernmentOffice/PostOffice
+  - class/FileClass
+  - class/PostOffice
+  - is_a_/PostOffice
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/GovernmentOffice/PostOffice
 version: 2.0
 ---
 

@@ -1,19 +1,20 @@
 ---
 aliases:
   - Oligarchie
+  - Oligarchy
 has_id_wikidata: Q79751
 instance_of:
-  - "[[_Standards/WikiData/WD~form_of_state,183039]]"
-  - "[[_Standards/WikiData/WD~form_of_government,1307214]]"
+  - '[[_Standards/WikiData/WD~form_of_state,183039]]'
+  - '[[_Standards/WikiData/WD~form_of_government,1307214]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 part_of: "[[_Standards/WikiData/WD~Plato's_five_regimes,7202412]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~state_system,20076236]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
-OmegaWiki_Defined_Meaning: "504167"
+  - '[[_Standards/WikiData/WD~state_system,20076236]]'
+  - '[[_Standards/WikiData/WD~organization,43229]]'
+OmegaWiki_Defined_Meaning: 504167
 native_label: ὀλιγαρχία
 Colon_Classification: W5
 Commons_category: Oligarchies

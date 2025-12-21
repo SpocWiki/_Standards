@@ -3,23 +3,24 @@ aliases:
   - has reserved-ticket
   - reservedTicket
   - has_reserved_ticket
+  - has reserved ticket
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - reserved_ticket
   - reserved
   - ticket
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_reserved_ticket
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

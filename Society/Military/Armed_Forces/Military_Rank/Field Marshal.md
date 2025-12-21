@@ -3,16 +3,16 @@ aliases:
   - Generalfeldmarschall
   - Field Marshal
 has_id_wikidata: Q7821620
-next_lower_rank: "[[_Standards/WikiData/WD~general,83460]]"
+next_lower_rank: '[[_Standards/WikiData/WD~general,83460]]'
 different_from:
-  - "[[_Standards/WikiData/WD~marshal,111837]]"
-  - "[[_Standards/WikiData/WD~general_field_marshal,7820253]]"
-subclass_of: "[[_Standards/WikiData/WD~military_officer,189290]]"
+  - '[[_Standards/WikiData/WD~marshal,111837]]'
+  - '[[_Standards/WikiData/WD~general_field_marshal,7820253]]'
+subclass_of: '[[_Standards/WikiData/WD~military_officer,189290]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~maréchal_de_camp,2579265]]"
-  - "[[_Standards/WikiData/WD~field_marshal,2703373]]"
-  - "[[_Standards/WikiData/WD~fältmarskalk,16149000]]"
-instance_of: "[[_Standards/WikiData/WD~military_rank,56019]]"
+  - '[[_Standards/WikiData/WD~maréchal_de_camp,2579265]]'
+  - '[[_Standards/WikiData/WD~field_marshal,2703373]]'
+  - '[[_Standards/WikiData/WD~fältmarskalk,16149000]]'
+instance_of: '[[_Standards/WikiData/WD~military_rank,56019]]'
 Commons_category: Field Marshals
 ---
 

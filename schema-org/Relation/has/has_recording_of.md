@@ -3,23 +3,24 @@ aliases:
   - has recording-of
   - recordingOf
   - has_recording_of
+  - has recording of
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - recording_of
   - recording
   - of
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_recording_of
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

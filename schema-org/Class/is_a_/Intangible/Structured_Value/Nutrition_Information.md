@@ -4,20 +4,22 @@ aliases:
   - nutrition_information
   - NutritionInformation
   - is_a_nutrition_information
+  - Nutrition_Information
+  - Nutrition Information
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - nutrition_information
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_nutrition_information Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

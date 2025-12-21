@@ -4,21 +4,22 @@ aliases:
   - value-min-text-length
   - valueMinTextLength
   - has_value_for_min_text_length
+  - has value for min text length
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - value-min-text-length
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_value-min-text-length
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

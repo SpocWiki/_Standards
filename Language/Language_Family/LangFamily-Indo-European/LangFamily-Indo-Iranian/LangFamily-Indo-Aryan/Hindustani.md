@@ -1,6 +1,7 @@
 ---
 aliases:
   - Hindi–Urdu
+  - Hindustani
 ---
 
 # [[Hindustani]] 

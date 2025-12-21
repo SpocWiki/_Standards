@@ -3,21 +3,23 @@ aliases:
   - Hungarian Revolution
   - forradalom
   - Hungarian Uprising
+  - 1956-Hungarian_Revolution
+  - 1956-Hungarian Revolution
 has_id_wikidata: Q164348
-instance_of: "[[_Standards/WikiData/WD~rebellion,124734]]"
+instance_of: '[[_Standards/WikiData/WD~rebellion,124734]]'
 participant:
-  - "[[_Standards/WikiData/WD~Imre_Nagy,177917]]"
-  - "[[_Standards/WikiData/WD~State_Protection_Authority,250687]]"
+  - '[[_Standards/WikiData/WD~Imre_Nagy,177917]]'
+  - '[[_Standards/WikiData/WD~State_Protection_Authority,250687]]'
 locations: "[[_Standards/WikiData/WD~Hungarian_People's_Republic,16410]]"
-country: "[[_Standards/WikiData/WD~Hungary,28]]"
+country: '[[_Standards/WikiData/WD~Hungary,28]]'
 BHCL_UUID: baa37c5d-b648-4f78-89ec-90c8e2831a7b
-U_S_National_Archives_Identifier: "10640868"
+U_S_National_Archives_Identifier: 10640868
 end_time: 1956-11-10T00:00:00Z
 start_time: 1956-10-23T00:00:00Z
 point_in_time: 1956-01-01T00:00:00Z
 video: http://commons.wikimedia.org/wiki/Special:FilePath/1956-11-01%20War%20in%20Egypt.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hungarian%20Revolution%20of%201956.png
-RIA_Novosti_reference: "43848930"
+RIA_Novosti_reference: 43848930
 Commons_gallery: Hungarian Revolution of 1956
 Commons_category: Hungarian Revolution of 1956
 ---

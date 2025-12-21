@@ -10,43 +10,43 @@ X_Twitter_username: nadiacomaneci10
 Facebook_username: NadiaComaneciOfficial
 name_in_native_language: Nadia Comăneci
 birth_name: Nadia Comăneci
-sport: "[[_Standards/WikiData/WD~artistic_gymnastics,326827]]"
-spouse: "[[_Standards/WikiData/WD~Bart_Conner,383942]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Bart_Conner,383942]]"
-place_of_birth: "[[_Standards/WikiData/WD~Onești,543436]]"
+sport: '[[_Standards/WikiData/WD~artistic_gymnastics,326827]]'
+spouse: '[[_Standards/WikiData/WD~Bart_Conner,383942]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Bart_Conner,383942]]'
+place_of_birth: '[[_Standards/WikiData/WD~Onești,543436]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]"
-  - "[[_Standards/WikiData/WD~International_Gymnastics_Hall_of_Fame,1666611]]"
-  - "[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]"
-  - "[[_Standards/WikiData/WD~Silver_Olympic_Order,15279723]]"
-  - "[[_Standards/WikiData/WD~BBC_100_Women,16153104]]"
-  - "[[_Standards/WikiData/WD~Grand_Officer_of_the_Order_of_the_Star_of_Romania,20857555]]"
-  - "[[_Standards/WikiData/WD~Oklahoma_Sports_Hall_of_Fame,41655480]]"
-  - "[[_Standards/WikiData/WD~Hero_of_Socialist_Labour,57310697]]"
-trained_by: "[[_Standards/WikiData/WD~Béla_Károlyi,2290841]]"
+  - '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
+  - '[[_Standards/WikiData/WD~International_Gymnastics_Hall_of_Fame,1666611]]'
+  - '[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]'
+  - '[[_Standards/WikiData/WD~Silver_Olympic_Order,15279723]]'
+  - '[[_Standards/WikiData/WD~BBC_100_Women,16153104]]'
+  - '[[_Standards/WikiData/WD~Grand_Officer_of_the_Order_of_the_Star_of_Romania,20857555]]'
+  - '[[_Standards/WikiData/WD~Oklahoma_Sports_Hall_of_Fame,41655480]]'
+  - '[[_Standards/WikiData/WD~Hero_of_Socialist_Labour,57310697]]'
+trained_by: '[[_Standards/WikiData/WD~Béla_Károlyi,2290841]]'
 family_name:
-  - "[[_Standards/WikiData/WD~Comăneci,5157880]]"
-  - "[[_Standards/WikiData/WD~Conne,65100084]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-given_name: "[[_Standards/WikiData/WD~Nadia,11464766]]"
-occupation: "[[_Standards/WikiData/WD~artistic_gymnast,13381572]]"
+  - '[[_Standards/WikiData/WD~Comăneci,5157880]]'
+  - '[[_Standards/WikiData/WD~Conne,65100084]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+given_name: '[[_Standards/WikiData/WD~Nadia,11464766]]'
+occupation: '[[_Standards/WikiData/WD~artistic_gymnast,13381572]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Great_Women_Athletes_of_the_20th_Century,119982761]]"
-eye_color: "[[_Standards/WikiData/WD~light_brown,79399164]]"
-hair_color: "[[_Standards/WikiData/WD~light_brown_hair,79483632]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Great_Women_Athletes_of_the_20th_Century,119982761]]'
+eye_color: '[[_Standards/WikiData/WD~light_brown,79399164]]'
+hair_color: '[[_Standards/WikiData/WD~light_brown_hair,79483632]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Romanian,7913]]"
-native_language: "[[_Standards/WikiData/WD~Romanian,7913]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Romanian,7913]]'
+native_language: '[[_Standards/WikiData/WD~Romanian,7913]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Romania,218]]"
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Romania,218]]'
 mass: 60
 height: 163
-FIG_gymnast_licence_number: "669"
-FIG_gymnast_biography_number: "21934"
+FIG_gymnast_licence_number: 669
+FIG_gymnast_biography_number: 21934
 social_media_followers: 183319
 work_period_start_: 1971-01-01T00:00:00Z
 Commons_category: Nadia Comăneci
@@ -54,8 +54,8 @@ date_of_birth: 1961-11-12T00:00:00Z
 work_period_end_: 1981-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nadia%20Com%C4%83neci%20Montreal1976c.jpg
 official_website: https://www.bartandnadia.com
-ISNI: "0000000081174651"
-Munzinger_Sport_number: "01000000183"
+ISNI: 0000000081174651
+Munzinger_Sport_number: 01000000183
 Plex_person_key: 5d776c36ad5437001f7b707e
 Instagram_username: comaneci10
 ---

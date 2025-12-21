@@ -4,21 +4,23 @@ aliases:
   - reservation_pending
   - ReservationPending
   - is_a_reservation_pending
+  - Reservation_Pending
+  - Reservation Pending
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: ReservationStatusType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - reservation_pending
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_reservation_pending Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

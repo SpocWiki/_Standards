@@ -1,11 +1,18 @@
 ---
+aliases:
+  - Hungary
+  - Hungría
+  - Hongrie
+  - هنغاريا
+  - 匈牙利
+  - Венгрия
+has_id_wikidata: Q28
 location:
   - 47.2796
   - 19.1508
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q28
 SpocWebEntityId: 26921
 isDeleted: false
 confidential: public
@@ -16,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Hungary
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Hungary
-  - Hungría
-  - Hongrie
-  - هنغاريا
-  - 匈牙利
-  - Венгрия
+publishDate: ""
+expiryDate: ""
 Languages:
   - hu-HU
 icon: flag-hu

@@ -4,21 +4,23 @@ aliases:
   - wearable_size_system_jp
   - WearableSizeSystemJP
   - is_a_wearable_size_system_jp
+  - Wearable_Size_System_Jp
+  - Wearable Size System Jp
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableSizeSystemEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_size_system_jp
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_size_system_jp Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

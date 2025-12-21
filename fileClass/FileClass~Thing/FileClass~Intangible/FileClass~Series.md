@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Series
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Series
-- class/Thing/Intangible/Series
-- is_a_/Series
-- schema-org/Series
+  - class/Series
+  - class/Thing/Intangible/Series
+  - is_a_/Series
+  - schema-org/Series
 tags:
-- class/FileClass
-- class/Series
-- is_a_/Series
-- class/Thing/Intangible/Series
+  - class/FileClass
+  - class/Series
+  - is_a_/Series
+  - class/Thing/Intangible/Series
 version: 2.0
 ---
 

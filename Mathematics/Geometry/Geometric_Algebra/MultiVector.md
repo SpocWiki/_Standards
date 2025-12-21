@@ -1,7 +1,8 @@
 ---
 aliases:
-  - Clifford number 
+  - Clifford number
   - multor
+  - MultiVector
 has_id_wikidata: Q2377336
 ---
 

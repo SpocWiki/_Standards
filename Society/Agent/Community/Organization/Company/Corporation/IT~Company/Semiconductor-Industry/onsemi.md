@@ -1,6 +1,7 @@
 ---
 aliases:
-- "ON Semiconductor Corporation"
+  - ON Semiconductor Corporation
+  - onsemi
 ---
 
 # [[onsemi]]

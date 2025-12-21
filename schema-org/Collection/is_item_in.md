@@ -1,28 +1,29 @@
 ---
 aliases:
-- element-of
-- element_of
-- elementOf
-- is_element_of
-- is_contained_in
-- is_item_in
-- Organization-Member
+  - element-of
+  - element_of
+  - elementOf
+  - is_element_of
+  - is_contained_in
+  - is_item_in
+  - Organization-Member
+  - is item in
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords: ''
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: is_element_of
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- schema-org/Collection
+  - schema-org/Collection
 title: is_element_of
 type: Predi_Relation
 ---

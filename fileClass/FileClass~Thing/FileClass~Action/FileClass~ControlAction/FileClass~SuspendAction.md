@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~SuspendAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~ControlAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/SuspendAction
-- class/Thing/Action/ControlAction/SuspendAction
-- is_a_/SuspendAction
-- schema-org/SuspendAction
+  - class/SuspendAction
+  - class/Thing/Action/ControlAction/SuspendAction
+  - is_a_/SuspendAction
+  - schema-org/SuspendAction
 tags:
-- class/FileClass
-- class/SuspendAction
-- is_a_/SuspendAction
-- class/Thing/Action/ControlAction/SuspendAction
+  - class/FileClass
+  - class/SuspendAction
+  - is_a_/SuspendAction
+  - class/Thing/Action/ControlAction/SuspendAction
 version: 2.0
 ---
 

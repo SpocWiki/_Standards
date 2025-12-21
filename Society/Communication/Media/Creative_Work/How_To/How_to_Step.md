@@ -4,20 +4,22 @@ aliases:
   - how_to_step
   - HowToStep
   - is_a_how_to_step
+  - How_to_Step
+  - How to Step
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - how_to_step
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_how_to_step Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

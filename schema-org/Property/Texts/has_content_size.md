@@ -4,22 +4,24 @@ aliases:
   - content_size
   - contentSize
   - has_text_of_content_size
+  - has_content_size
+  - has content size
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - content
   - size
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_content_size
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

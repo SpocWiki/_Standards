@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Simplified Molecular Input Line Entry System"
+  - Simplified Molecular Input Line Entry System
+  - SMILES-Formula
 ---
 
 ## #has_/text_of_/abstract 

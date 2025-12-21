@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Dave Grohl"
+  - Dave Grohl
+  - Grohl,Dave
 ---
 
 ## #has_/text_of_/abstract 

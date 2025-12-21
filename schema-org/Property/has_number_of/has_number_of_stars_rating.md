@@ -4,21 +4,22 @@ aliases:
   - star-rating
   - starRating
   - has_number_of_stars_rating
+  - has number of stars rating
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - star-rating
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_star-rating
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

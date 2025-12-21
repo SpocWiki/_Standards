@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MedicalAudience
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MedicalAudience
-- class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience
-- is_a_/MedicalAudience
-- schema-org/MedicalAudience
+  - class/MedicalAudience
+  - class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience
+  - is_a_/MedicalAudience
+  - schema-org/MedicalAudience
 tags:
-- class/FileClass
-- class/MedicalAudience
-- is_a_/MedicalAudience
-- class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience
+  - class/FileClass
+  - class/MedicalAudience
+  - is_a_/MedicalAudience
+  - class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience
 version: 2.0
 ---
 

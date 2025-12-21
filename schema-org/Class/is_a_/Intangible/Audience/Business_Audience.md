@@ -4,20 +4,22 @@ aliases:
   - business_audience
   - BusinessAudience
   - is_a_business_audience
+  - Business_Audience
+  - Business Audience
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - business_audience
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_business_audience Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

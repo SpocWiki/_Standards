@@ -3,47 +3,49 @@ aliases:
   - soccer
   - association football
   - Football
+  - Association_Football
+  - Association Football
 has_id_wikidata: Q2736
-history_of_topic: "[[_Standards/WikiData/WD~history_of_association_football,83479]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Football,202865]]"
+history_of_topic: '[[_Standards/WikiData/WD~history_of_association_football,83479]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Football,202865]]'
 named_after:
-  - "[[_Standards/WikiData/WD~kick,206864]]"
-  - "[[_Standards/WikiData/WD~foot,15807]]"
+  - '[[_Standards/WikiData/WD~kick,206864]]'
+  - '[[_Standards/WikiData/WD~foot,15807]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~team_sport,216048]]"
-  - "[[_Standards/WikiData/WD~spectator_sport,4356073]]"
-  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
+  - '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+  - '[[_Standards/WikiData/WD~team_sport,216048]]'
+  - '[[_Standards/WikiData/WD~spectator_sport,4356073]]'
+  - '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+  - '[[_Standards/WikiData/WD~hobby,47728]]'
 regulated_by:
-  - "[[_Standards/WikiData/WD~FIFA,253414]]"
-  - "[[_Standards/WikiData/WD~International_Football_Association_Board,503218]]"
-authority: "[[_Standards/WikiData/WD~FIFA,253414]]"
-different_from: "[[_Standards/WikiData/WD~Football,296260]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Laws_of_the_Game,506630]]"
+  - '[[_Standards/WikiData/WD~FIFA,253414]]'
+  - '[[_Standards/WikiData/WD~International_Football_Association_Board,503218]]'
+authority: '[[_Standards/WikiData/WD~FIFA,253414]]'
+different_from: '[[_Standards/WikiData/WD~Football,296260]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Laws_of_the_Game,506630]]'
 uses:
-  - "[[_Standards/WikiData/WD~association_football_boots,512804]]"
-  - "[[_Standards/WikiData/WD~association_football_goal,571251]]"
-  - "[[_Standards/WikiData/WD~association_football_kit,1381731]]"
-  - "[[_Standards/WikiData/WD~association_football_ball,12252328]]"
-  - "[[_Standards/WikiData/WD~association_football_pitch,8524]]"
+  - '[[_Standards/WikiData/WD~association_football_boots,512804]]'
+  - '[[_Standards/WikiData/WD~association_football_goal,571251]]'
+  - '[[_Standards/WikiData/WD~association_football_kit,1381731]]'
+  - '[[_Standards/WikiData/WD~association_football_ball,12252328]]'
+  - '[[_Standards/WikiData/WD~association_football_pitch,8524]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-subclass_of: "[[_Standards/WikiData/WD~ball_game,877517]]"
-practiced_by: "[[_Standards/WikiData/WD~association_football_player,937857]]"
-industry: "[[_Standards/WikiData/WD~sport_industry,4438117]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Association_football,6556892]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q21287548,21287548]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+subclass_of: '[[_Standards/WikiData/WD~ball_game,877517]]'
+practiced_by: '[[_Standards/WikiData/WD~association_football_player,937857]]'
+industry: '[[_Standards/WikiData/WD~sport_industry,4438117]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Association_football,6556892]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21287548,21287548]]'
 time_of_discovery_or_invention: 1848-01-01T00:00:00Z
 minimum_number_of_players: 7
 maximum_number_of_players: 22
-OmegaWiki_Defined_Meaning: "5705"
-IAB_code: "533"
+OmegaWiki_Defined_Meaning: 5705
+IAB_code: 533
 DPLA_subject_term: Soccer
-U_S_National_Archives_Identifier: "10645517"
+U_S_National_Archives_Identifier: 10645517
 BHCL_UUID: 644105a1-e26e-4266-8214-999934feb6d7
 IMDb_keyword:
   - football
@@ -64,11 +66,11 @@ pronunciation_audio:
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Football%20in%20Bloomington%2C%20Indiana%2C%201995.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Football%20pictogram.svg
 Unicode_character: ⚽
-Dewey_Decimal_Classification: "796.334"
+Dewey_Decimal_Classification: 796.334
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20banner.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/NEDERLAND%20WINT%20DE%20VOETBALWEDSTIJD%20VAN%20BELGIE%20MET%202-1-PGM4011927.webm
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Voetbal-article.ogg
-Universal_Decimal_Classification: "796.332"
+Universal_Decimal_Classification: 796.332
 Commons_gallery: Association football
 Commons_category: Association football
 UMLS_CUI: C0037393

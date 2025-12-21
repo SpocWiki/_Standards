@@ -1,17 +1,19 @@
 ---
 aliases:
-- "Philosophical logic"
-Commons_category: "Philosophical logic"
+  - Philosophical logic
+  - Philosophical_Logic
+  - Philosophical Logic
 has_id_wikidata: Q491412
+Commons_category: Philosophical logic
 has_use:
-- '[[_Standards/WikiData/WD~philosophical_problem,28109781]]'
+  - '[[_Standards/WikiData/WD~philosophical_problem,28109781]]'
 instance_of:
-- '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
+  - '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
 part_of:
-- '[[_Standards/WikiData/WD~philosophy,5891]]'
-- '[[_Standards/WikiData/WD~logic,8078]]'
-Regensburg_Classification: "CC 2500"
-Stack_Exchange_tag: "https://philosophy.stackexchange.com/tags/logic"
+  - '[[_Standards/WikiData/WD~philosophy,5891]]'
+  - '[[_Standards/WikiData/WD~logic,8078]]'
+Regensburg_Classification: CC 2500
+Stack_Exchange_tag: https://philosophy.stackexchange.com/tags/logic
 subclass_of: '[[_Standards/WikiData/WD~logic,8078]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Philosophical_logic,18676718]]'
 ---

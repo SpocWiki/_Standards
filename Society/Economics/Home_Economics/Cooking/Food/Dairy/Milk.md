@@ -3,6 +3,8 @@ aliases:
   - Milch
   - lait
   - latte
+  - Milk
+has_id_wikidata: Q8495
 carbon_footprint: 1.3
 Colon_Classification: KX31:71
 color: "[[_Standards/WikiData/WD~white,23444]]"
@@ -25,7 +27,6 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_01000012
 GEMS_Code: ML0106
 GS1_GPC_code: 10000025
 hashtag: milk
-has_id_wikidata: Q8495
 has_part_s_:
   - "[[_Standards/WikiData/WD~fat,127980]]"
   - "[[_Standards/WikiData/WD~liquid_water,29053744]]"
@@ -80,7 +81,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Dairy%20Industry
 WordLift_URL: http://data.thenextweb.com/tnw/entity/milk
 ---
 
-# [[Milk]] 
+# [[Milk]] 🥛 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Milk,8495|WD~Milk,8495]] 
 

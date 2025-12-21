@@ -1,12 +1,13 @@
 ---
 aliases:
   - Δεῖμος
+  - Deimos(Moon)
 has_id_wikidata: Q7548
-named_after: "[[_Standards/WikiData/WD~Deimos,106240]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Asaph_Hall,106559]]"
-instance_of: "[[_Standards/WikiData/WD~moon_of_Mars,177268]]"
+named_after: '[[_Standards/WikiData/WD~Deimos,106240]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Asaph_Hall,106559]]'
+instance_of: '[[_Standards/WikiData/WD~moon_of_Mars,177268]]'
 time_of_discovery_or_invention: 1877-08-12T00:00:00Z
-parent_astronomical_body: "[[_Standards/WikiData/WD~Mars,111]]"
+parent_astronomical_body: '[[_Standards/WikiData/WD~Mars,111]]'
 orbital_eccentricity: 0.0002
 surface_gravity: 0.003
 albedo: 0.068

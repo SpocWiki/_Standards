@@ -1,14 +1,16 @@
 ---
 aliases:
   - Cepheid
+  - Cepheid_Variable
+  - Cepheid Variable
 has_id_wikidata: Q188593
 subclass_of:
-  - "[[_Standards/WikiData/WD~pulsating_variable_star,353834]]"
+  - '[[_Standards/WikiData/WD~pulsating_variable_star,353834]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Beta_Cephei_variable,764463]]"
+  - '[[_Standards/WikiData/WD~Beta_Cephei_variable,764463]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-named_after: "[[_Standards/WikiData/WD~Delta_Cephei,13024]]"
+  - '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+named_after: '[[_Standards/WikiData/WD~Delta_Cephei,13024]]'
 catalog_code: CEP
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Heic1323a%20-1243686232.jpg
 Commons_category: Cepheid variables

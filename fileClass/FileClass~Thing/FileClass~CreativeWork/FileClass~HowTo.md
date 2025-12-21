@@ -1,71 +1,73 @@
 ---
-excludes: 
+aliases:
+  - FileClass~HowTo
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: RKeSFu
-  name: EstimatedCost
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"
-  type: MultiFile
-  path: ''
-- id: zC0txA
-  name: PerformTime
-  options:
-    min: 0
-    max: 2359
-  type: Number
-  path: ''
-- id: HC5NuP
-  name: PrepTime
-  options:
-    min: 0
-    max: 2359
-  type: Number
-  path: ''
-- id: GS1hNd
-  name: Step
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
-  type: MultiFile
-  path: ''
-- id: avrIAw
-  name: Supply
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToSupply')"
-  type: MultiFile
-  path: ''
-- id: hE6W81
-  name: Tool
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToTool')"
-  type: MultiFile
-  path: ''
-- id: wOvBAz
-  name: TotalTime
-  options:
-    min: 0
-    max: 2359
-  type: Number
-  path: ''
-- id: A7bFk2
-  name: Yield
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
+  - id: RKeSFu
+    name: EstimatedCost
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
+    type: MultiFile
+    path: ''
+  - id: zC0txA
+    name: PerformTime
+    options:
+      min: 0
+      max: 2359
+    type: Number
+    path: ''
+  - id: HC5NuP
+    name: PrepTime
+    options:
+      min: 0
+      max: 2359
+    type: Number
+    path: ''
+  - id: GS1hNd
+    name: Step
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ''
+  - id: avrIAw
+    name: Supply
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToSupply')
+    type: MultiFile
+    path: ''
+  - id: hE6W81
+    name: Tool
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToTool')
+    type: MultiFile
+    path: ''
+  - id: wOvBAz
+    name: TotalTime
+    options:
+      min: 0
+      max: 2359
+    type: Number
+    path: ''
+  - id: A7bFk2
+    name: Yield
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/HowTo
-- class/Thing/CreativeWork/HowTo
-- is_a_/HowTo
-- schema-org/HowTo
+  - class/HowTo
+  - class/Thing/CreativeWork/HowTo
+  - is_a_/HowTo
+  - schema-org/HowTo
 tags:
-- class/FileClass
-- class/HowTo
-- is_a_/HowTo
-- class/Thing/CreativeWork/HowTo
+  - class/FileClass
+  - class/HowTo
+  - is_a_/HowTo
+  - class/Thing/CreativeWork/HowTo
 version: 2.0
 ---
 

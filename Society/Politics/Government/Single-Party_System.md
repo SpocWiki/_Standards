@@ -4,12 +4,14 @@ aliases:
   - single-party state
   - one-party system
   - single-party system
+  - Single-Party_System
+  - Single-Party System
 has_id_wikidata: Q50686
-instance_of: "[[_Standards/WikiData/WD~form_of_government,1307214]]"
-different_from: "[[_Standards/WikiData/WD~One_party_government_(democracy),10484375]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~single_party_system,18450296]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~single_party_system,18450296]]"
-subclass_of: "[[_Standards/WikiData/WD~political_system,28108]]"
+instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214]]'
+different_from: '[[_Standards/WikiData/WD~One_party_government_(democracy),10484375]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~single_party_system,18450296]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~single_party_system,18450296]]'
+subclass_of: '[[_Standards/WikiData/WD~political_system,28108]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/18th%20National%20Congress%20of%20the%20Communist%20Party%20of%20China.jpg
 ---
 

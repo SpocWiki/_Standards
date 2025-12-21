@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _North-America-CityDB
+  - ' North-America-CityDB'
 database_plugin: basic
 ---
 

@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Belize
+  - Belice
+  - بليز
+  - 伯利兹
+  - Белиз
+has_id_wikidata: Q242
 location:
   - 17.25
   - -88.7667
@@ -15,23 +22,16 @@ cssclasses:
   - Country
 publish: true
 title: Belize
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Belize
-  - Belice
-  - بليز
-  - 伯利兹
-  - Белиз
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-BZ
   - es
 icon: flag-bz
-has_id_wikidata: Q242
 member_of:
   - "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
   - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"

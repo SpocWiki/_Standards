@@ -4,20 +4,21 @@ aliases:
   - previous_start_date
   - previousStartDate
   - has_time_of_previous_start
+  - has time of previous start
 confidential: public
 cssclasses:
   - Predicate
   - Date_Time
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
-layout:
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Date

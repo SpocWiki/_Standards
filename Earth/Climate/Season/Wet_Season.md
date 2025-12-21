@@ -5,11 +5,13 @@ aliases:
   - wet season
   - rainy season
   - monsoon season
+  - Wet_Season
+  - Wet Season
 has_id_wikidata: Q3117517
-opposite_of: "[[_Standards/WikiData/WD~dry_season,146575]]"
-followed_by: "[[_Standards/WikiData/WD~dry_season,146575]]"
-follows: "[[_Standards/WikiData/WD~dry_season,146575]]"
-subclass_of: "[[_Standards/WikiData/WD~season,24384]]"
+opposite_of: '[[_Standards/WikiData/WD~dry_season,146575]]'
+followed_by: '[[_Standards/WikiData/WD~dry_season,146575]]'
+follows: '[[_Standards/WikiData/WD~dry_season,146575]]'
+subclass_of: '[[_Standards/WikiData/WD~season,24384]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Barron%20falls%20january2005.JPG
 Commons_category: Wet season
 ---

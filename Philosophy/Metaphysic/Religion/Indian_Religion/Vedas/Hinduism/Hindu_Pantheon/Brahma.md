@@ -32,7 +32,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Brahma%201820.jpg
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%A6%E0%A5%87%E0%A4%B5.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A7%8D%E0%A6%AE%E0%A6%BE.wav
-P8189: "987010474239605171"
+P8189: 987010474239605100
 Commons_category: Brahma
 Gujarati_Vishwakosh_entry: બ્રહ્મા
 native_label: 𑖤𑖿𑖨𑖮𑖿𑖦𑖯

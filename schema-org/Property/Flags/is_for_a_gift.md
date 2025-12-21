@@ -4,21 +4,22 @@ aliases:
   - for_a_gift
   - isGift
   - is_for_a_gift
+  - is for a gift
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - for_a_gift
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_for_a_gift
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

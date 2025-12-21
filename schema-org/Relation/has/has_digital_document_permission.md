@@ -3,12 +3,13 @@ aliases:
   - has-digital-document-permission
   - hasDigitalDocumentPermission
   - has_digital_document_permission
+  - has digital document permission
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +18,11 @@ keywords:
   - permission
   - digital_document_permission
   - digitalDocumentPermission
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_digital_document_permission
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

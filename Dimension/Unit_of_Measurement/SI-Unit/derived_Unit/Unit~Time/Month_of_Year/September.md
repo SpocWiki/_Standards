@@ -8,66 +8,66 @@ name:
   - сентября
   - Haligmonðes
 named_after:
-  - "[[_Standards/WikiData/WD~Ruhnama,125469]]"
-  - "[[_Standards/WikiData/WD~harvest,213753]]"
-  - "[[_Standards/WikiData/WD~Calluna,6983007]]"
-  - "[[_Standards/WikiData/WD~barley,61665121]]"
-  - "[[_Standards/WikiData/WD~autumn,1314]]"
-  - "[[_Standards/WikiData/WD~7,23350]]"
+  - '[[_Standards/WikiData/WD~Ruhnama,125469]]'
+  - '[[_Standards/WikiData/WD~harvest,213753]]'
+  - '[[_Standards/WikiData/WD~Calluna,6983007]]'
+  - '[[_Standards/WikiData/WD~barley,61665121]]'
+  - '[[_Standards/WikiData/WD~autumn,1314]]'
+  - '[[_Standards/WikiData/WD~7,23350]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_September_calendar,5815534]]"
-subclass_of: "[[_Standards/WikiData/WD~month_of_the_Gregorian_calendar,18602249]]"
-different_from: "[[_Standards/WikiData/WD~Wrzesień,28029793]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_September_calendar,5815534]]'
+subclass_of: '[[_Standards/WikiData/WD~month_of_the_Gregorian_calendar,18602249]]'
+different_from: '[[_Standards/WikiData/WD~Wrzesień,28029793]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q28790360,28790360]]"
-  - "[[_Standards/WikiData/WD~Q56299465,56299465]]"
-  - "[[_Standards/WikiData/WD~Q117477782,117477782]]"
-instance_of: "[[_Standards/WikiData/WD~calendar_month,47018901]]"
-depicted_by: "[[_Standards/WikiData/WD~Allegory_of_September,131449677]]"
+  - '[[_Standards/WikiData/WD~Q28790360,28790360]]'
+  - '[[_Standards/WikiData/WD~Q56299465,56299465]]'
+  - '[[_Standards/WikiData/WD~Q117477782,117477782]]'
+instance_of: '[[_Standards/WikiData/WD~calendar_month,47018901]]'
+depicted_by: '[[_Standards/WikiData/WD~Allegory_of_September,131449677]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~September_15,2846]]"
-  - "[[_Standards/WikiData/WD~September_14,2847]]"
-  - "[[_Standards/WikiData/WD~September_8,2850]]"
-  - "[[_Standards/WikiData/WD~September_11,2851]]"
-  - "[[_Standards/WikiData/WD~September_13,2848]]"
-  - "[[_Standards/WikiData/WD~September_12,2849]]"
-  - "[[_Standards/WikiData/WD~September_5,2854]]"
-  - "[[_Standards/WikiData/WD~September_4,2855]]"
-  - "[[_Standards/WikiData/WD~September_7,2852]]"
-  - "[[_Standards/WikiData/WD~September_10,2853]]"
-  - "[[_Standards/WikiData/WD~September_6,2858]]"
-  - "[[_Standards/WikiData/WD~September_1,2859]]"
-  - "[[_Standards/WikiData/WD~September_9,2856]]"
-  - "[[_Standards/WikiData/WD~September_2,2857]]"
-  - "[[_Standards/WikiData/WD~September_3,2860]]"
-  - "[[_Standards/WikiData/WD~September_29,2882]]"
-  - "[[_Standards/WikiData/WD~September_28,2883]]"
-  - "[[_Standards/WikiData/WD~September_30,2881]]"
-  - "[[_Standards/WikiData/WD~September_25,2886]]"
-  - "[[_Standards/WikiData/WD~September_27,2884]]"
-  - "[[_Standards/WikiData/WD~September_26,2885]]"
-  - "[[_Standards/WikiData/WD~September_24,2890]]"
-  - "[[_Standards/WikiData/WD~September_21,2891]]"
-  - "[[_Standards/WikiData/WD~September_23,2888]]"
-  - "[[_Standards/WikiData/WD~September_22,2889]]"
-  - "[[_Standards/WikiData/WD~September_17,2894]]"
-  - "[[_Standards/WikiData/WD~September_20,2892]]"
-  - "[[_Standards/WikiData/WD~September_18,2893]]"
-  - "[[_Standards/WikiData/WD~September_19,2896]]"
-  - "[[_Standards/WikiData/WD~September_16,2897]]"
+  - '[[_Standards/WikiData/WD~September_15,2846]]'
+  - '[[_Standards/WikiData/WD~September_14,2847]]'
+  - '[[_Standards/WikiData/WD~September_8,2850]]'
+  - '[[_Standards/WikiData/WD~September_11,2851]]'
+  - '[[_Standards/WikiData/WD~September_13,2848]]'
+  - '[[_Standards/WikiData/WD~September_12,2849]]'
+  - '[[_Standards/WikiData/WD~September_5,2854]]'
+  - '[[_Standards/WikiData/WD~September_4,2855]]'
+  - '[[_Standards/WikiData/WD~September_7,2852]]'
+  - '[[_Standards/WikiData/WD~September_10,2853]]'
+  - '[[_Standards/WikiData/WD~September_6,2858]]'
+  - '[[_Standards/WikiData/WD~September_1,2859]]'
+  - '[[_Standards/WikiData/WD~September_9,2856]]'
+  - '[[_Standards/WikiData/WD~September_2,2857]]'
+  - '[[_Standards/WikiData/WD~September_3,2860]]'
+  - '[[_Standards/WikiData/WD~September_29,2882]]'
+  - '[[_Standards/WikiData/WD~September_28,2883]]'
+  - '[[_Standards/WikiData/WD~September_30,2881]]'
+  - '[[_Standards/WikiData/WD~September_25,2886]]'
+  - '[[_Standards/WikiData/WD~September_27,2884]]'
+  - '[[_Standards/WikiData/WD~September_26,2885]]'
+  - '[[_Standards/WikiData/WD~September_24,2890]]'
+  - '[[_Standards/WikiData/WD~September_21,2891]]'
+  - '[[_Standards/WikiData/WD~September_23,2888]]'
+  - '[[_Standards/WikiData/WD~September_22,2889]]'
+  - '[[_Standards/WikiData/WD~September_17,2894]]'
+  - '[[_Standards/WikiData/WD~September_20,2892]]'
+  - '[[_Standards/WikiData/WD~September_18,2893]]'
+  - '[[_Standards/WikiData/WD~September_19,2896]]'
+  - '[[_Standards/WikiData/WD~September_16,2897]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Julian_calendar,11184]]"
-  - "[[_Standards/WikiData/WD~Gregorian_calendar,12138]]"
-follows: "[[_Standards/WikiData/WD~August,122]]"
-followed_by: "[[_Standards/WikiData/WD~October,124]]"
+  - '[[_Standards/WikiData/WD~Julian_calendar,11184]]'
+  - '[[_Standards/WikiData/WD~Gregorian_calendar,12138]]'
+follows: '[[_Standards/WikiData/WD~August,122]]'
+followed_by: '[[_Standards/WikiData/WD~October,124]]'
 time_index: 8.5
-OmegaWiki_Defined_Meaning: "6978"
+OmegaWiki_Defined_Meaning: 6978
 Commons_gallery: September
 Commons_category: September
 short_name:

@@ -4,21 +4,22 @@ aliases:
   - number_of_episodes
   - numberOfEpisodes
   - has_number_of_episodes
+  - has number of episodes
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - number_of_episodes
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_episodes
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

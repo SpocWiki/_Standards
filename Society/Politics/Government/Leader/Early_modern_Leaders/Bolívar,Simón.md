@@ -1,8 +1,9 @@
 ---
 aliases:
-- "Simon Bolivar"
-- "Simón Bolívar"
-- "Simón José Antonio de la Santísima Trinidad Bolívar"
+  - Simon Bolivar
+  - Simón Bolívar
+  - Simón José Antonio de la Santísima Trinidad Bolívar
+  - Bolívar,Simón
 ---
 
 ## #has_/text_of_/abstract 

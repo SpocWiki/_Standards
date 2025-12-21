@@ -4,20 +4,22 @@ aliases:
   - sale_event
   - SaleEvent
   - is_a_sale_event
+  - Sale_Event
+  - Sale Event
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sale_event
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_sale_event Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

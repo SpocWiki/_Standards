@@ -4,20 +4,22 @@ aliases:
   - refund_type_enumeration
   - RefundTypeEnumeration
   - is_a_refund_type_enumeration
+  - Refund_Type_Enumeration
+  - Refund Type Enumeration
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - refund_type_enumeration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_refund_type_enumeration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

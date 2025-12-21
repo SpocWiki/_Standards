@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Air_defense
+  - Air defense
 has_id_wikidata: Q843941
 ---
 

@@ -1,15 +1,18 @@
 ---
+aliases:
+  - Architectural_Style
+  - Architectural Style
 has_id_wikidata: Q32880
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-subclass_of: "[[_Standards/WikiData/WD~art_style,1792644]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_architectural_styles,2469916]]"
-has_list: "[[_Standards/WikiData/WD~list_of_architectural_styles,18192578]]"
-instance_of: "[[_Standards/WikiData/WD~metaclass,19478619]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_architectural_style,22839691]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~art_style,1792644]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_architectural_styles,2469916]]'
+has_list: '[[_Standards/WikiData/WD~list_of_architectural_styles,18192578]]'
+instance_of: '[[_Standards/WikiData/WD~metaclass,19478619]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_architectural_style,22839691]]'
 Wikidata_property: architectural style
-is_metaclass_for: "[[_Standards/WikiData/WD~building,41176]]"
+is_metaclass_for: '[[_Standards/WikiData/WD~building,41176]]'
 OpenStreetMap_tag_or_key: Key:building:architecture
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cole%20Thomas%20The%20dream%20of%20the%20architect%20210%20Sun%20Unedited.jpg
 Provenio_UUID: 2a6138df-a0e2-45bf-b87e-3cd5080cebd1

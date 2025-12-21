@@ -4,22 +4,23 @@ aliases:
   - recognized_by
   - recognizedBy
   - is_recognized_by
+  - is recognized by
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - recognized
   - by
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_recognized_by
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -4,20 +4,22 @@ aliases:
   - am_radio_channel
   - AMRadioChannel
   - is_an_am_radio_channel
+  - Am_Radio_Channel
+  - Am Radio Channel
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - am_radio_channel
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_am_radio_channel Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

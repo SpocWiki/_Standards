@@ -1,6 +1,7 @@
 ---
 aliases:
   - Schlüssel
+  - Key
 has_id_wikidata: Q132041
 physically_interacts_with: "[[_Standards/WikiData/WD~lock,228039]]"
 described_by_source:
@@ -10,7 +11,7 @@ described_by_source:
 different_from: "[[_Standards/WikiData/WD~Klucz,1776558]]"
 has_use: "[[_Standards/WikiData/WD~access,13157735]]"
 subclass_of: "[[_Standards/WikiData/WD~physical_tool,39546]]"
-OmegaWiki_Defined_Meaning: "6149"
+OmegaWiki_Defined_Meaning: 6149
 IMDb_keyword: key
 Commons_category: Keys
 Iconclass_notation: 41A3281
@@ -20,7 +21,7 @@ Unicode_character:
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Llave%20bronce.jpg
 ---
 
-# [[Key]] 
+# [[Key]] 🗝 
 
 #is_/similar_to :: [[../../../../../Technology/IT/Cryptography/Cryptographic_Key]] 
 #is_/used_by :: [[Lock]] 

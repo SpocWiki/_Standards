@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Sam Rockwell"
+  - Sam Rockwell
+  - Rockwell,Sam
 ---
 
 ## #has_/text_of_/abstract 

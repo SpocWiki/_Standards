@@ -1,6 +1,7 @@
 ---
 aliases:
   - Säge
+  - Saw
 has_id_wikidata: Q125356
 used_by: "[[_Standards/WikiData/WD~carpenter,154549]]"
 has_use: "[[_Standards/WikiData/WD~machining,192047]]"
@@ -16,8 +17,8 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~saw_blade,4683254]]"
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~saw_blade,4683254]]"
 instance_of: "[[_Standards/WikiData/WD~type_of_tool,123588392]]"
-Nomenclature_for_Museum_Cataloging: "6603"
-OmegaWiki_Defined_Meaning: "876531"
+Nomenclature_for_Museum_Cataloging: 6603
+OmegaWiki_Defined_Meaning: 876531
 image: http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A5gkamraten.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-S%C3%A4ge.ogg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Zaag-article.ogg
@@ -27,7 +28,7 @@ Commons_category: Saws
 Unicode_character: 🪚
 ---
 
-# [[Saw]] 
+# [[Saw]] 🪚 
 
 #is_/same_as :: [[WD~Saw,125356]] 
 

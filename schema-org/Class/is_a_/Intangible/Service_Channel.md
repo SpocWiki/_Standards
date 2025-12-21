@@ -4,20 +4,22 @@ aliases:
   - service_channel
   - ServiceChannel
   - is_a_service_channel
+  - Service_Channel
+  - Service Channel
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - service_channel
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_service_channel Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

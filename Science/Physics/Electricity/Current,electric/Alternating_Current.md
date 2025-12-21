@@ -1,17 +1,20 @@
 ---
+aliases:
+  - Alternating_Current
+  - Alternating Current
 has_id_wikidata: Q124164
-opposite_of: "[[_Standards/WikiData/WD~direct_current,159241]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+opposite_of: '[[_Standards/WikiData/WD~direct_current,159241]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~periodically_alternating_current,11830479]]"
-  - "[[_Standards/WikiData/WD~electric_current,11651]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110097341,110097341]]"
+  - '[[_Standards/WikiData/WD~periodically_alternating_current,11830479]]'
+  - '[[_Standards/WikiData/WD~electric_current,11651]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110097341,110097341]]'
 Colon_Classification: D664
 video: http://commons.wikimedia.org/wiki/Special:FilePath/22.%20%D0%A2%D0%B5%D1%81%D0%BB%D0%B8%D0%BD%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%BE%D1%80.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Effektivwert-Sinus.svg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Voltage%20Source%20%28AC%29.svg
 IEV_number: 131-11-24
-P8189: "987007535944405171"
+P8189: 987007535944405171
 Commons_category: Alternating current
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%80%20%E0%A6%A4%E0%A6%A1%E0%A6%BC%E0%A6%BF%E0%A7%8E%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B9.wav
 ---

@@ -1,7 +1,8 @@
 ---
-has_id_wikidata: Q5284
 aliases:
   - William Henry Gates III
+  - Gates,Bill
+has_id_wikidata: Q5284
 ---
 
 # [[Gates,Bill]] 

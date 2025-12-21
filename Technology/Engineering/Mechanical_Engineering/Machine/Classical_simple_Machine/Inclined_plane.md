@@ -3,16 +3,18 @@ aliases:
   - Schiefe Ebene
   - ramp
   - Rampe
+  - Inclined_plane
+  - Inclined plane
 has_id_wikidata: Q161462
-subclass_of: "[[_Standards/WikiData/WD~simple_machine,186713]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Technology,9497549]]"
-described_by_source: "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-Nomenclature_for_Museum_Cataloging: "9204"
+subclass_of: '[[_Standards/WikiData/WD~simple_machine,186713]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Technology,9497549]]'
+described_by_source: '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+Nomenclature_for_Museum_Cataloging: 9204
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%B0%D0%BA%D0%BB%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D1%8C.webm
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Inclined%20plane%20terminology.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/IOI%20Mall%20Kulai%20-%20Wheelchair%20Ramp.jpg
-U_S_National_Archives_Identifier: "10664117"
-UNSPSC_Code: "60104604"
+U_S_National_Archives_Identifier: 10664117
+UNSPSC_Code: 60104604
 Commons_category: Inclined planes
 ---
 

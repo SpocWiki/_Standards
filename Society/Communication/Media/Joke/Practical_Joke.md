@@ -1,11 +1,13 @@
 ---
 aliases:
-  - practical joke 
+  - practical joke
   - prank
   - gag
   - rib
   - jape
   - shenanigan
+  - Practical_Joke
+  - Practical Joke
 ---
 
 # [[Practical_Joke]] 

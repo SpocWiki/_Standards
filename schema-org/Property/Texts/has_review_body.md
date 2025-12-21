@@ -4,22 +4,24 @@ aliases:
   - review_body
   - reviewBody
   - has_text_of_review_body
+  - has_review_body
+  - has review body
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - review
   - body
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_review_body
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

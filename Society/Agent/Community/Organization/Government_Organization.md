@@ -4,20 +4,22 @@ aliases:
   - government_organization
   - GovernmentOrganization
   - is_a_government_organization
+  - Government_Organization
+  - Government Organization
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - government_organization
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_government_organization Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

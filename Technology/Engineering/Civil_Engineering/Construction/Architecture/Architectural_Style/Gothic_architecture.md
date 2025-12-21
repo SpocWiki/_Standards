@@ -1,42 +1,43 @@
 ---
 aliases:
   - Gothic architecture
+  - Gothic_architecture
 has_id_wikidata: Q176483
-followed_by: "[[_Standards/WikiData/WD~Renaissance_architecture,236122]]"
+followed_by: '[[_Standards/WikiData/WD~Renaissance_architecture,236122]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_the_Middle_Ages,42962936]]"
-  - "[[_Standards/WikiData/WD~The_Oxford_Dictionary_of_the_Middle_Ages,43325453]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_the_Middle_Ages,42962936]]'
+  - '[[_Standards/WikiData/WD~The_Oxford_Dictionary_of_the_Middle_Ages,43325453]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Brick_Gothic,695863]]"
-  - "[[_Standards/WikiData/WD~English_Gothic_architecture,750752]]"
-  - "[[_Standards/WikiData/WD~Flamboyant,1351624]]"
-  - "[[_Standards/WikiData/WD~French_Gothic_architecture,2245347]]"
-  - "[[_Standards/WikiData/WD~Italian_Gothic_architecture,2245489]]"
-  - "[[_Standards/WikiData/WD~Isabelline,2602891]]"
-  - "[[_Standards/WikiData/WD~Spanish_Gothic_architecture,2704973]]"
-  - "[[_Standards/WikiData/WD~Rayonnant,2914850]]"
-  - "[[_Standards/WikiData/WD~German_Gothic,3773653]]"
-  - "[[_Standards/WikiData/WD~Portuguese_Gothic_architecture,4373390]]"
-  - "[[_Standards/WikiData/WD~Gothic_architecture_in_Poland,7209916]]"
-  - "[[_Standards/WikiData/WD~Venetian_Gothic_architecture,7919731]]"
-  - "[[_Standards/WikiData/WD~Gothic_architecture_in_Central_Europe,9159125]]"
-  - "[[_Standards/WikiData/WD~Late_Gothic,10924220]]"
-  - "[[_Standards/WikiData/WD~Czech_Gothic_architecture,12018399]]"
-  - "[[_Standards/WikiData/WD~Gothic_architecture_in_Romania,21167467]]"
-  - "[[_Standards/WikiData/WD~Gothic_architecture_in_Lithuania,21856457]]"
-  - "[[_Standards/WikiData/WD~Early_Gothic_architecture,33247990]]"
-  - "[[_Standards/WikiData/WD~High_Gothic,98668652]]"
+  - '[[_Standards/WikiData/WD~Brick_Gothic,695863]]'
+  - '[[_Standards/WikiData/WD~English_Gothic_architecture,750752]]'
+  - '[[_Standards/WikiData/WD~Flamboyant,1351624]]'
+  - '[[_Standards/WikiData/WD~French_Gothic_architecture,2245347]]'
+  - '[[_Standards/WikiData/WD~Italian_Gothic_architecture,2245489]]'
+  - '[[_Standards/WikiData/WD~Isabelline,2602891]]'
+  - '[[_Standards/WikiData/WD~Spanish_Gothic_architecture,2704973]]'
+  - '[[_Standards/WikiData/WD~Rayonnant,2914850]]'
+  - '[[_Standards/WikiData/WD~German_Gothic,3773653]]'
+  - '[[_Standards/WikiData/WD~Portuguese_Gothic_architecture,4373390]]'
+  - '[[_Standards/WikiData/WD~Gothic_architecture_in_Poland,7209916]]'
+  - '[[_Standards/WikiData/WD~Venetian_Gothic_architecture,7919731]]'
+  - '[[_Standards/WikiData/WD~Gothic_architecture_in_Central_Europe,9159125]]'
+  - '[[_Standards/WikiData/WD~Late_Gothic,10924220]]'
+  - '[[_Standards/WikiData/WD~Czech_Gothic_architecture,12018399]]'
+  - '[[_Standards/WikiData/WD~Gothic_architecture_in_Romania,21167467]]'
+  - '[[_Standards/WikiData/WD~Gothic_architecture_in_Lithuania,21856457]]'
+  - '[[_Standards/WikiData/WD~Early_Gothic_architecture,33247990]]'
+  - '[[_Standards/WikiData/WD~High_Gothic,98668652]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Gothic_architecture,6462748]]"
-  - "[[_Standards/WikiData/WD~Template_Gothic,26252911]]"
-subclass_of: "[[_Standards/WikiData/WD~architecture,12271]]"
-instance_of: "[[_Standards/WikiData/WD~architectural_style,32880]]"
-follows: "[[_Standards/WikiData/WD~Romanesque_architecture,46261]]"
-OmegaWiki_Defined_Meaning: "867004"
+  - '[[_Standards/WikiData/WD~Template_Gothic_architecture,6462748]]'
+  - '[[_Standards/WikiData/WD~Template_Gothic,26252911]]'
+subclass_of: '[[_Standards/WikiData/WD~architecture,12271]]'
+instance_of: '[[_Standards/WikiData/WD~architectural_style,32880]]'
+follows: '[[_Standards/WikiData/WD~Romanesque_architecture,46261]]'
+OmegaWiki_Defined_Meaning: 867004
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Gothic-architecture-banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Winchester%20cathedral%20flags.jpg
 Commons_gallery: Gothic architecture

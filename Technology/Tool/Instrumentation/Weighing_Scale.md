@@ -7,6 +7,8 @@ aliases:
   - weight balances
   - Balkenwaage
   - Waage
+  - Weighing_Scale
+  - Weighing Scale
 has_id_wikidata: Q134566
 ---
 

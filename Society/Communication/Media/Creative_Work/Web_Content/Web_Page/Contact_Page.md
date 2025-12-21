@@ -4,20 +4,22 @@ aliases:
   - contact_page
   - ContactPage
   - is_a_contact_page
+  - Contact_Page
+  - Contact Page
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - contact_page
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_contact_page Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

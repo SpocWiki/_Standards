@@ -1,6 +1,8 @@
 ---
 aliases:
   - Zentrifugalkraft
+  - Centrifugal_Force
+  - Centrifugal Force
 has_id_wikidata: Q178733
 part_of:
   - "[[_Standards/WikiData/WD~inertia,122508]]"
@@ -23,7 +25,7 @@ schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Reactive%20centrifugal%20and%20centrifugal%20forces.PNG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Centrifugal%20%28PSF%29.jpg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/centrifugal-force
-P8189: "987007284966105171"
+P8189: 987007284966105200
 Commons_category: Centrifugal force
 ---
 

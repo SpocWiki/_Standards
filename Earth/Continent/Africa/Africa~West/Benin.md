@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Benin
+  - Bénin
+  - بنن
+  - 贝宁
+  - Бенин
+  - the Republic of Benin
+  - la República de Benin
+has_id_wikidata: Q962
 flag: "[[_Standards/WikiData/WD~flag_of_Benin,130442]]"
 member_of:
   - "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
@@ -340,7 +349,6 @@ MeSH_tree_code:
   - Z01.058.290.190.200
 short_name: 🇧🇯
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Benin%20%28orthographic%20projection%20with%20inset%29.svg
-has_id_wikidata: Q962
 location:
   - 6.46667
   - 2.6
@@ -357,20 +365,12 @@ cssclasses:
   - Country
 publish: true
 title: Benin
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Benin
-  - Bénin
-  - بنن
-  - 贝宁
-  - Бенин
-  - the Republic of Benin
-  - la República de Benin
+publishDate: ""
+expiryDate: ""
 Languages:
   - fr-BJ
 ---

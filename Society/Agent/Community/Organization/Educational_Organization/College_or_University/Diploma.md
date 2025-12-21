@@ -2,30 +2,31 @@
 aliases:
   - testamur
   - Abschlusszeugnis
+  - Diploma
 has_id_wikidata: Q217577
 manifestation_of:
-  - "[[_Standards/WikiData/WD~academic_degree,189533]]"
-  - "[[_Standards/WikiData/WD~award,618779]]"
-  - "[[_Standards/WikiData/WD~privilege,7246302]]"
+  - '[[_Standards/WikiData/WD~academic_degree,189533]]'
+  - '[[_Standards/WikiData/WD~award,618779]]'
+  - '[[_Standards/WikiData/WD~privilege,7246302]]'
 main_subject:
-  - "[[_Standards/WikiData/WD~academic_degree,189533]]"
-  - "[[_Standards/WikiData/WD~exam,1355298]]"
-  - "[[_Standards/WikiData/WD~academic_achievement,1815842]]"
+  - '[[_Standards/WikiData/WD~academic_degree,189533]]'
+  - '[[_Standards/WikiData/WD~exam,1355298]]'
+  - '[[_Standards/WikiData/WD~academic_achievement,1815842]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~academic_degree,189533]]"
-  - "[[_Standards/WikiData/WD~certificate,196756]]"
-  - "[[_Standards/WikiData/WD~award,618779]]"
-  - "[[_Standards/WikiData/WD~academic_certificate,7339727]]"
+  - '[[_Standards/WikiData/WD~academic_degree,189533]]'
+  - '[[_Standards/WikiData/WD~certificate,196756]]'
+  - '[[_Standards/WikiData/WD~award,618779]]'
+  - '[[_Standards/WikiData/WD~academic_certificate,7339727]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-different_from: "[[_Standards/WikiData/WD~Diplom,5978719]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~degree_certificate,30922073]]"
-instance_of: "[[_Standards/WikiData/WD~document_genre,107478770]]"
-Nomenclature_for_Museum_Cataloging: "13936"
-UNSPSC_Code: "60101606"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~Diplom,5978719]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~degree_certificate,30922073]]'
+instance_of: '[[_Standards/WikiData/WD~document_genre,107478770]]'
+Nomenclature_for_Museum_Cataloging: 13936
+UNSPSC_Code: 60101606
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SheepskinDiploma.jpg
-U_S_National_Archives_Identifier: "10660902"
+U_S_National_Archives_Identifier: 10660902
 Commons_category: Diplomas
 ---
 

@@ -4,23 +4,25 @@ aliases:
   - music_composition_form
   - musicCompositionForm
   - has_text_of_music_composition_form
+  - has_music_composition_form
+  - has music composition form
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - music
   - composition
   - form
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_music_composition_form
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

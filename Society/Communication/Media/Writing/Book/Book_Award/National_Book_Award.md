@@ -1,7 +1,8 @@
 ---
 aliases:
-- "American Book Award"
-- "National Book Award"
+  - American Book Award
+  - National Book Award
+  - National_Book_Award
 ---
 
 #has_/time_/started :: 1936-11-15 

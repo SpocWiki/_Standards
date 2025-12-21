@@ -3,6 +3,8 @@ aliases:
   - Piscis Australis
   - Piscis Austrinus
   - Piscis Notius
+  - Zodiac~Piscis_Australis
+  - Zodiac~Piscis Australis
 has_id_wikidata: Q10409
 confidential: public
 isDeleted: false
@@ -11,22 +13,22 @@ tags:
   - astro/Zodiac
 type: Zodiac
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-child_astronomical_body: "[[_Standards/WikiData/WD~Piscis_Austrinids,2096989]]"
-part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+child_astronomical_body: '[[_Standards/WikiData/WD~Piscis_Austrinids,2096989]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q10729041,10729041]]"
-  - "[[_Standards/WikiData/WD~Template_Stars_of_Piscis_Austrinus,10857891]]"
-instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+  - '[[_Standards/WikiData/WD~Q10729041,10729041]]'
+  - '[[_Standards/WikiData/WD~Template_Stars_of_Piscis_Austrinus,10857891]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Sculptor,9286]]"
-  - "[[_Standards/WikiData/WD~Microscopium,10492]]"
-  - "[[_Standards/WikiData/WD~Capricornus,10535]]"
-  - "[[_Standards/WikiData/WD~Grus,10563]]"
-  - "[[_Standards/WikiData/WD~Aquarius,10576]]"
+  - '[[_Standards/WikiData/WD~Sculptor,9286]]'
+  - '[[_Standards/WikiData/WD~Microscopium,10492]]'
+  - '[[_Standards/WikiData/WD~Capricornus,10535]]'
+  - '[[_Standards/WikiData/WD~Grus,10563]]'
+  - '[[_Standards/WikiData/WD~Aquarius,10576]]'
 area: 245
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Piscis%20Austrinus%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Piscis%20Austrinus%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg

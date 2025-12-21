@@ -1,19 +1,21 @@
 ---
 aliases:
   - artistic action
+  - Performance_Art
+  - Performance Art
 has_id_wikidata: Q213156
 different_from:
-  - "[[_Standards/WikiData/WD~performing_arts,184485]]"
-  - "[[_Standards/WikiData/WD~performance_artwork,22672348]]"
-  - "[[_Standards/WikiData/WD~performance,35140]]"
-instance_of: "[[_Standards/WikiData/WD~art_genre,1792379]]"
-practiced_by: "[[_Standards/WikiData/WD~performance_artist,10774753]]"
-described_by_source: "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~performance_artwork,22672348]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Art+Feminism,24909800]]"
+  - '[[_Standards/WikiData/WD~performing_arts,184485]]'
+  - '[[_Standards/WikiData/WD~performance_artwork,22672348]]'
+  - '[[_Standards/WikiData/WD~performance,35140]]'
+instance_of: '[[_Standards/WikiData/WD~art_genre,1792379]]'
+practiced_by: '[[_Standards/WikiData/WD~performance_artist,10774753]]'
+described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~performance_artwork,22672348]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~time_based_art,114088986]]"
-  - "[[_Standards/WikiData/WD~art,735]]"
+  - '[[_Standards/WikiData/WD~time_based_art,114088986]]'
+  - '[[_Standards/WikiData/WD~art,735]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Marina%20Abramovi%C4%87%2C%20The%20Artist%20is%20Present%2C%202010.jpg
 described_at_URL:
   - https://stedelijkstudies.com/journal/the-place-of-performance/

@@ -1,8 +1,9 @@
 ---
 aliases:
-  - United East India Company 
+  - United East India Company
   - Vereenigde Oostindische Compagnie
   - Dutch East India Company
+  - Dutch_East_India_Company
 ---
 
 # [[Dutch_East_India_Company]] 

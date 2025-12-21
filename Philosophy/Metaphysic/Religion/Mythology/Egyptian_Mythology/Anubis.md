@@ -36,7 +36,7 @@ Royal_Academy_new_identifier: anubis
 Commons_gallery: Anubis
 Commons_category: Anubis
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Anubis%20standing.svg
-P8189: "987007295575605171"
+P8189: 987007295575605100
 Hederich_encyclopedia_article: Anvbis
 name_in_hiero_markup: i-n:p-w-C6
 Krugosvet_article: kultura_i_obrazovanie/religiya/ANUBIS.html

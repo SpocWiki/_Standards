@@ -4,20 +4,22 @@ aliases:
   - prepend_action
   - PrependAction
   - is_a_prepend_action
+  - Prepend_Action
+  - Prepend Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - prepend_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_prepend_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,26 +1,27 @@
 ---
 aliases:
   - Fusion
+  - Melting
 has_id_wikidata: Q106080
-opposite_of: "[[_Standards/WikiData/WD~freezing,108000]]"
+opposite_of: '[[_Standards/WikiData/WD~freezing,108000]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~liquefaction,180208]]"
-  - "[[_Standards/WikiData/WD~phase_change,185357]]"
+  - '[[_Standards/WikiData/WD~liquefaction,180208]]'
+  - '[[_Standards/WikiData/WD~phase_change,185357]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~enthalpy_of_fusion,484790]]"
-  - "[[_Standards/WikiData/WD~melting_point,15318]]"
+  - '[[_Standards/WikiData/WD~enthalpy_of_fusion,484790]]'
+  - '[[_Standards/WikiData/WD~melting_point,15318]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 different_from:
-  - "[[_Standards/WikiData/WD~smelting,2748405]]"
-  - "[[_Standards/WikiData/WD~dissolution,3133701]]"
-  - "[[_Standards/WikiData/WD~nuclear_fusion,13082]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~melting,4390237]]"
-has_effect: "[[_Standards/WikiData/WD~liquid_state_of_matter,6761456]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-uses: "[[_Standards/WikiData/WD~solid_state_of_matter,29115074]]"
-studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
+  - '[[_Standards/WikiData/WD~smelting,2748405]]'
+  - '[[_Standards/WikiData/WD~dissolution,3133701]]'
+  - '[[_Standards/WikiData/WD~nuclear_fusion,13082]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~melting,4390237]]'
+has_effect: '[[_Standards/WikiData/WD~liquid_state_of_matter,6761456]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+uses: '[[_Standards/WikiData/WD~solid_state_of_matter,29115074]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Phase%20change%20-%20en.svg
 UMLS_CUI: C0599882
 Commons_category: Melting

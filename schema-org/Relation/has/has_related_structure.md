@@ -3,23 +3,24 @@ aliases:
   - has related-structure
   - relatedStructure
   - has_related_structure
+  - has related structure
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - related_structure
   - related
   - structure
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_related_structure
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

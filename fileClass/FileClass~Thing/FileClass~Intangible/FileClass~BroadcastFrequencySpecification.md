@@ -1,35 +1,37 @@
 ---
-excludes: 
+aliases:
+  - FileClass~BroadcastFrequencySpecification
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: FD0R4K
-  name: BroadcastFrequencyValue
-  options: {}
-  type: Number
-  path: ''
-- id: yzCpTV
-  name: BroadcastSignalModulation
-  options: {}
-  type: Input
-  path: ''
-- id: lTSKck
-  name: BroadcastSubChannel
-  options: {}
-  type: Input
-  path: ''
+  - id: FD0R4K
+    name: BroadcastFrequencyValue
+    options: {}
+    type: Number
+    path: ''
+  - id: yzCpTV
+    name: BroadcastSignalModulation
+    options: {}
+    type: Input
+    path: ''
+  - id: lTSKck
+    name: BroadcastSubChannel
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/BroadcastFrequencySpecification
-- class/Thing/Intangible/BroadcastFrequencySpecification
-- is_a_/BroadcastFrequencySpecification
-- schema-org/BroadcastFrequencySpecification
+  - class/BroadcastFrequencySpecification
+  - class/Thing/Intangible/BroadcastFrequencySpecification
+  - is_a_/BroadcastFrequencySpecification
+  - schema-org/BroadcastFrequencySpecification
 tags:
-- class/FileClass
-- class/BroadcastFrequencySpecification
-- is_a_/BroadcastFrequencySpecification
-- class/Thing/Intangible/BroadcastFrequencySpecification
+  - class/FileClass
+  - class/BroadcastFrequencySpecification
+  - is_a_/BroadcastFrequencySpecification
+  - class/Thing/Intangible/BroadcastFrequencySpecification
 version: 2.0
 ---
 

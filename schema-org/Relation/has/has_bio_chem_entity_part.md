@@ -2,12 +2,13 @@
 aliases:
   - has-bio-chem-entity-part
   - has_bio_chem_entity_part
+  - has bio chem entity part
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +18,11 @@ keywords:
   - part
   - bio_chem_entity_part
   - BioChemEntityPart
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_bio_chem_entity_part
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

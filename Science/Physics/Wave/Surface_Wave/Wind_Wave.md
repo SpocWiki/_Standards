@@ -1,6 +1,8 @@
 ---
 aliases:
   - Wasserwelle
+  - Wind_Wave
+  - Wind Wave
 has_id_wikidata: Q165848
 subclass_of: "[[../../../../WikiData/WD~surface_wave,889796]]"
 described_by_source:
@@ -8,15 +10,15 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 produced_sound: "[[_Standards/WikiData/WD~Q110068397,110068397]]"
 location: "[[_Standards/WikiData/WD~body_of_water,15324]]"
-OmegaWiki_Defined_Meaning: "4127"
+OmegaWiki_Defined_Meaning: 4133
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Porto%20Covo%20July%202011-6.jpg
-Dewey_Decimal_Classification: "551.463"
+Dewey_Decimal_Classification: 551.463
 Unicode_character: 🌊
 subreddit: HeavySeas
 Commons_category: Water waves
 ---
 
-# [[Wind_Wave]] 
+# [[Wind_Wave]] 🌊 
 
 #is_/same_as :: [[../../../../WikiData/WD~Wind_wave,165848|WD~Wind_wave,165848]]  
 

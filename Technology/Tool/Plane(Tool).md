@@ -1,6 +1,7 @@
 ---
 aliases:
   - Hobel
+  - Plane(Tool)
 has_id_wikidata: Q204260
 ---
 

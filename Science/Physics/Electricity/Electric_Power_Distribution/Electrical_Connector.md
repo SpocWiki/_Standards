@@ -2,6 +2,8 @@
 aliases:
   - Stecker
   - electrical connector
+  - Electrical_Connector
+  - Electrical Connector
 has_id_wikidata: Q2119531
 has_part_s_:
   - "[[_Standards/WikiData/WD~insulator,178150]]"
@@ -39,7 +41,7 @@ Unicode_character: 🔌
 Commons_category: Electrical connectors
 ---
 
-# [[Electrical_Connector]] 
+# [[Electrical_Connector]] 🔌 
 
 #is_/same_as :: [[../../../../WikiData/WD~Electrical_connector,2119531|WD~Electrical_connector,2119531]] 
 

@@ -2,12 +2,13 @@
 aliases:
   - has corrections-policy
   - has_corrections_policy
+  - has corrections policy
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - policy
   - corrections_policy
   - correctionsPolicy
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_corrections_policy
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Radon
+has_id_wikidata: Q1133
 atomic_number: 86
 canonical_SMILES: '[Rn]'
 CAS_Registry_Number: 10043-92-2
@@ -6,47 +9,46 @@ chemical_formula: Rn
 Commons_category: Radon
 Commons_gallery: Radon
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
 different_from: '[[_Standards/WikiData/WD~radium,1128]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Friedrich_Ernst_Dorn,65191]]'
 DSSTOX_compound_identifier: DTXCID504295
 EC_number: 233-146-0
 electronegativity: 2.2
 electron_configuration:
-- "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁶"
-- "1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d¹⁰ 5s² 5p⁶ 4f¹⁴ 5d¹⁰ 6s² 6p⁶"
+  - '[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁶'
+  - 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d¹⁰ 5s² 5p⁶ 4f¹⁴ 5d¹⁰ 6s² 6p⁶
 element_symbol: Rn
 Gmelin_number: 16242
 has_characteristic:
-- '[[_Standards/WikiData/WD~colorlessness,11567495]]'
-- '[[_Standards/WikiData/WD~odorlessness,30007162]]'
-- '[[_Standards/WikiData/WD~radioactivity,11448]]'
-has_id_wikidata: Q1133
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Radon%20water%20apparatus%20P1120815.JPG"
+  - '[[_Standards/WikiData/WD~colorlessness,11567495]]'
+  - '[[_Standards/WikiData/WD~odorlessness,30007162]]'
+  - '[[_Standards/WikiData/WD~radioactivity,11448]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Radon%20water%20apparatus%20P1120815.JPG
 InChI: InChI=1S/Rn
 InChIKey: SYUHGPGVQRZVTB-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-- '[[_Standards/WikiData/WD~gas,11432]]'
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/USradonmapforhouses.jpg"
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - '[[_Standards/WikiData/WD~gas,11432]]'
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/USradonmapforhouses.jpg
 MeSH_tree_code:
-- D01.268.271.800
-- D01.268.613.700
-- D01.362.641.745
-- D01.496.749.305.800
+  - D01.268.271.800
+  - D01.268.613.700
+  - D01.362.641.745
+  - D01.496.749.305.800
 named_after: '[[_Standards/WikiData/WD~radium,1128]]'
 OmegaWiki_Defined_Meaning: 3094
 part_of:
-- '[[_Standards/WikiData/WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~noble_gases,19609]]'
-plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20154.jpg"
+  - '[[_Standards/WikiData/WD~period_6,239813]]'
+  - '[[_Standards/WikiData/WD~noble_gases,19609]]'
+plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20154.jpg
 produced_by: '[[_Standards/WikiData/WD~granite,41177]]'
 PubChem_CID: 24857
 SpocWebEntityId: 21981
 subject_has_role:
-- '[[_Standards/WikiData/WD~radioactive_air_pollutants,50429809]]'
-- '[[_Standards/WikiData/WD~environmental_carcinogens,50429902]]'
+  - '[[_Standards/WikiData/WD~radioactive_air_pollutants,50429809]]'
+  - '[[_Standards/WikiData/WD~environmental_carcinogens,50429902]]'
 time_of_discovery_or_invention: 1899
 type: Element
 UMLS_CUI: C0205919

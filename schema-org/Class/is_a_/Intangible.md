@@ -1,28 +1,28 @@
 ---
 aliases:
-- intangible
-- intangible
-- Intangible
-- is_an_intangible
-- Abstraction
+  - intangible
+  - intangible
+  - Intangible
+  - is_an_intangible
+  - Abstraction
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- intangible
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_intangible Class"
+  - intangible
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_an_intangible Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_intangible Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_intangible Class
 type: Type
 ---
 

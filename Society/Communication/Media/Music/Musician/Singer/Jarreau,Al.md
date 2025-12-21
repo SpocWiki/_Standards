@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Alwin Lopez Jarreau"
-- "Al Jarreau"
+  - Alwin Lopez Jarreau
+  - Al Jarreau
+  - Jarreau,Al
 ---
 
 #has_/time_/started :: 1940-03-12 

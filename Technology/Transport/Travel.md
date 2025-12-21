@@ -2,25 +2,26 @@
 aliases:
   - Reise
   - Reisen
+  - Travel
 has_id_wikidata: Q61509
 subclass_of:
-  - "[[_Standards/WikiData/WD~motion,79782]]"
-  - "[[_Standards/WikiData/WD~intentional_human_activity,451967]]"
+  - '[[_Standards/WikiData/WD~motion,79782]]'
+  - '[[_Standards/WikiData/WD~intentional_human_activity,451967]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Travel_and_Tourism,10803972]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Transport,53057]]"
-practiced_by: "[[_Standards/WikiData/WD~traveler,12356615]]"
-has_effect: "[[_Standards/WikiData/WD~expense,13516686]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_expedition,14158821]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-has_part_s_: "[[_Standards/WikiData/WD~international_tourism_in_Japan,120334380]]"
-different_from: "[[_Standards/WikiData/WD~transport,7590]]"
-Dewey_Decimal_Classification: "910"
+  - '[[_Standards/WikiData/WD~WikiProject_Travel_and_Tourism,10803972]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Transport,53057]]'
+practiced_by: '[[_Standards/WikiData/WD~traveler,12356615]]'
+has_effect: '[[_Standards/WikiData/WD~expense,13516686]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_expedition,14158821]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+has_part_s_: '[[_Standards/WikiData/WD~international_tourism_in_Japan,120334380]]'
+different_from: '[[_Standards/WikiData/WD~transport,7590]]'
+Dewey_Decimal_Classification: 910
 IMDb_keyword:
   - journey
   - travel
 exact_match: http://cv.iptc.org/newscodes/productgenre/travel
-U_S_National_Archives_Identifier: "10644098"
+U_S_National_Archives_Identifier: 10644098
 IPTC_NewsCode: mediatopic/20000563
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Reise.ogg

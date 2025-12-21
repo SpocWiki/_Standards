@@ -1,27 +1,29 @@
 ---
-Commons_category: "Hedi Slimane"
+aliases:
+  - Lithium
+has_id_wikidata: Q558
+Commons_category: Hedi Slimane
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
 date_of_birth: 1968-07-05
 educated_at:
-- '[[_Standards/WikiData/WD~École_du_Louvre,273534]]'
-- '[[_Standards/WikiData/WD~Panthéon-Assas_University_Paris,662976]]'
+  - '[[_Standards/WikiData/WD~École_du_Louvre,273534]]'
+  - '[[_Standards/WikiData/WD~Panthéon-Assas_University_Paris,662976]]'
 family_name: '[[_Standards/WikiData/WD~Slimane,63486092]]'
 given_name: '[[_Standards/WikiData/WD~Hedi,1593262]]'
-has_id_wikidata: Q558
 has_works_in_the_collection:
-- '[[_Standards/WikiData/WD~National_Gallery_of_Victoria,1464509]]'
-- '[[_Standards/WikiData/WD~Kunstmuseum_Den_Haag,1499958]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hedi%20Slimane%20in%202015.jpg"
+  - '[[_Standards/WikiData/WD~National_Gallery_of_Victoria,1464509]]'
+  - '[[_Standards/WikiData/WD~Kunstmuseum_Den_Haag,1499958]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Hedi%20Slimane%20in%202015.jpg
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 0000000121016085
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
-name_in_native_language: "Hedi Slimane"
+name_in_native_language: Hedi Slimane
 occupation:
-- '[[_Standards/WikiData/WD~dressmaker,2034021]]'
-- '[[_Standards/WikiData/WD~fashion_designer,3501317]]'
-- '[[_Standards/WikiData/WD~photographer,33231]]'
-official_website: "https://www.hedislimane.com/"
+  - '[[_Standards/WikiData/WD~dressmaker,2034021]]'
+  - '[[_Standards/WikiData/WD~fashion_designer,3501317]]'
+  - '[[_Standards/WikiData/WD~photographer,33231]]'
+official_website: https://www.hedislimane.com/
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]'
 place_of_birth: '[[_Standards/WikiData/WD~19th_arrondissement_of_Paris,204622]]'
 represented_by: '[[_Standards/WikiData/WD~Almine_Rech_Gallery,55661948]]'

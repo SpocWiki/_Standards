@@ -7,9 +7,11 @@ aliases:
   - press baron
   - media baron
   - Media proprietor
+  - Media_Mogul
+  - Media Mogul
 has_id_wikidata: Q1420621
-subclass_of: "[[_Standards/WikiData/WD~entrepreneur,131524]]"
-instance_of: "[[_Standards/WikiData/WD~profession,28640]]"
+subclass_of: '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+instance_of: '[[_Standards/WikiData/WD~profession,28640]]'
 male_form_of_label:
   - медиамагнат
   - мэдыямагнат

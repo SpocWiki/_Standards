@@ -5,50 +5,51 @@ aliases:
   - Margaret Evelyn Hookham
   - Margot Fonteyn
   - Fonteyn
+  - Fonteyn,Margot
 has_id_wikidata: Q231776
 partner_in_business_or_sport:
-  - "[[_Standards/WikiData/WD~Rudolf_Nureyev,84217]]"
-  - "[[_Standards/WikiData/WD~Robert_Helpmann,931528]]"
-  - "[[_Standards/WikiData/WD~Michael_Somes,6183536]]"
-cause_of_death: "[[_Standards/WikiData/WD~ovarian_cancer,172341]]"
+  - '[[_Standards/WikiData/WD~Rudolf_Nureyev,84217]]'
+  - '[[_Standards/WikiData/WD~Robert_Helpmann,931528]]'
+  - '[[_Standards/WikiData/WD~Michael_Somes,6183536]]'
+cause_of_death: '[[_Standards/WikiData/WD~ovarian_cancer,172341]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 employer:
-  - "[[_Standards/WikiData/WD~The_Royal_Ballet,323283]]"
-  - "[[_Standards/WikiData/WD~American_Airlines,32396]]"
+  - '[[_Standards/WikiData/WD~The_Royal_Ballet,323283]]'
+  - '[[_Standards/WikiData/WD~American_Airlines,32396]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Pro_Finlandia_Medal_of_the_Order_of_the_Lion_of_Finland,335233]]"
-  - "[[_Standards/WikiData/WD~Benjamin_Franklin_Medal,817363]]"
-  - "[[_Standards/WikiData/WD~Dame_Commander_of_the_Order_of_the_British_Empire,12201434]]"
+  - '[[_Standards/WikiData/WD~Pro_Finlandia_Medal_of_the_Order_of_the_Lion_of_Finland,335233]]'
+  - '[[_Standards/WikiData/WD~Benjamin_Franklin_Medal,817363]]'
+  - '[[_Standards/WikiData/WD~Dame_Commander_of_the_Order_of_the_British_Empire,12201434]]'
 occupation:
-  - "[[_Standards/WikiData/WD~ballet_dancer,805221]]"
-  - "[[_Standards/WikiData/WD~choreographer,2490358]]"
-  - "[[_Standards/WikiData/WD~fashion_designer,3501317]]"
-  - "[[_Standards/WikiData/WD~dancer,5716684]]"
-place_of_birth: "[[_Standards/WikiData/WD~Reigate,1018418]]"
+  - '[[_Standards/WikiData/WD~ballet_dancer,805221]]'
+  - '[[_Standards/WikiData/WD~choreographer,2490358]]'
+  - '[[_Standards/WikiData/WD~fashion_designer,3501317]]'
+  - '[[_Standards/WikiData/WD~dancer,5716684]]'
+place_of_birth: '[[_Standards/WikiData/WD~Reigate,1018418]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Evelyn,1381706]]"
-  - "[[_Standards/WikiData/WD~Q1895358,1895358]]"
-  - "[[_Standards/WikiData/WD~Margaret,4963612]]"
-educated_at: "[[_Standards/WikiData/WD~Royal_Ballet_School,1455391]]"
-spouse: "[[_Standards/WikiData/WD~Roberto_Arias,2040215]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-family_name: "[[_Standards/WikiData/WD~Hookham,30669172]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+  - '[[_Standards/WikiData/WD~Evelyn,1381706]]'
+  - '[[_Standards/WikiData/WD~Q1895358,1895358]]'
+  - '[[_Standards/WikiData/WD~Margaret,4963612]]'
+educated_at: '[[_Standards/WikiData/WD~Royal_Ballet_School,1455391]]'
+spouse: '[[_Standards/WikiData/WD~Roberto_Arias,2040215]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+family_name: '[[_Standards/WikiData/WD~Hookham,30669172]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~A_historical_dictionary_of_British_women,124350773]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_death: "[[_Standards/WikiData/WD~Panama_City,3306]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-field_of_work: "[[_Standards/WikiData/WD~ballet,41425]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~A_historical_dictionary_of_British_women,124350773]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+place_of_death: '[[_Standards/WikiData/WD~Panama_City,3306]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+field_of_work: '[[_Standards/WikiData/WD~ballet,41425]]'
 Commons_category: Margot Fonteyn
 Libris_URI: wt799bcf08fh172
 date_of_death: 1991-02-21T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Margot%20Fonteyn%20-%201960s.jpg
-ISNI: "0000000109332624"
+ISNI: 0000000109332624
 Plex_person_key: 5d7769d496b655001fddab57
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/FONTEN_MARGO.html
 pseudonym:

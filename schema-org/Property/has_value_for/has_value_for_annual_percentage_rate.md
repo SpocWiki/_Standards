@@ -4,21 +4,22 @@ aliases:
   - annual-percentage-rate
   - annualPercentageRate
   - has_value_for_annual_percentage_rate
+  - has value for annual percentage rate
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - annual-percentage-rate
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_annual-percentage-rate
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

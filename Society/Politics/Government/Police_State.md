@@ -1,14 +1,16 @@
 ---
 aliases:
   - Polizeistaat
+  - Police_State
+  - Police State
 has_id_wikidata: Q217405
 uses:
-  - "[[_Standards/WikiData/WD~secret_police,214183]]"
-  - "[[_Standards/WikiData/WD~political_repression,1899269]]"
-different_from: "[[_Standards/WikiData/WD~state_police,460336]]"
-opposite_of: "[[_Standards/WikiData/WD~Mafia_state,604883]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~counterintelligence_state,17007978]]"
-subclass_of: "[[_Standards/WikiData/WD~state,7275]]"
+  - '[[_Standards/WikiData/WD~secret_police,214183]]'
+  - '[[_Standards/WikiData/WD~political_repression,1899269]]'
+different_from: '[[_Standards/WikiData/WD~state_police,460336]]'
+opposite_of: '[[_Standards/WikiData/WD~Mafia_state,604883]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~counterintelligence_state,17007978]]'
+subclass_of: '[[_Standards/WikiData/WD~state,7275]]'
 IMDb_keyword: police-state
 ---
 

@@ -1,7 +1,4 @@
 ---
-aircraft_registration_prefix:
-  - EP
-  - IR
 aliases:
   - Iran
   - Iran (Islamic Republic of)
@@ -15,6 +12,10 @@ aliases:
   - Persia
   - Persien
   - Iranian
+has_id_wikidata: Q794
+aircraft_registration_prefix:
+  - EP
+  - IR
 anthem: "[[_Standards/WikiData/WD~National_Anthem_of_the_Islamic_Republic_of_Iran,211047]]"
 area: 1648195
 Baidu_Tieba_name: 伊朗
@@ -252,7 +253,7 @@ ethnic_group:
   - "[[_Standards/WikiData/WD~Iranian_Turkmen,4466166]]"
   - "[[_Standards/WikiData/WD~Kurds,12223]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Iran,16052369]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 42772045
   - 43155308
@@ -272,7 +273,6 @@ Happy_Planet_Index_score: 43.6
 hashtag: Iran
 has_characteristic:
   - "[[_Standards/WikiData/WD~not-free_country,47185282]]"
-has_id_wikidata: Q794
 has_time_started: 1979-04-01
 head_of_government: "[[_Standards/WikiData/WD~Masoud_Pezeshkian,5933752]]"
 head_of_state: "[[_Standards/WikiData/WD~Ali_Khamenei,57336]]"
@@ -302,7 +302,7 @@ ISO_3166_1_alpha_3_code: IRN
 ISO_3166_1_numeric_code: 364
 isReadOnly: false
 ITU_letter_code: IRN
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/IRAN.html
 Languages:
   - fa-IR
@@ -376,13 +376,13 @@ language_used:
   - "[[_Standards/WikiData/WD~Laki,56483]]"
   - "[[_Standards/WikiData/WD~Tat,56489]]"
   - "[[_Standards/WikiData/WD~Salchuq,56752]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~Islamic_Consultative_Assembly,378605]]"
 Library_of_Congress_Classification: HA4570.2
 licence_plate_code: IR
 license: CC BY-SA 4.0
 life_expectancy: 75.953
-linkTitle:
+linkTitle: ""
 literacy_rate: 85.54
 located_in_or_next_to_body_of_water:
   - "[[_Standards/WikiData/WD~Gulf_of_Oman,79948]]"
@@ -469,7 +469,7 @@ public_holiday:
   - "[[_Standards/WikiData/WD~Islamic_Republic_Day,5675742]]"
   - "[[_Standards/WikiData/WD~Eid_al-Ghadir,15109140]]"
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750]]"
 replaces: "[[_Standards/WikiData/WD~Pahlavi_Iran,107258515]]"
 rural_population:

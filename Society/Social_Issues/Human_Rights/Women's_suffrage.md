@@ -1,30 +1,31 @@
 ---
 aliases:
   - Women's suffrage
+  - Women's_suffrage
 has_id_wikidata: Q205204
-subclass_of: "[[_Standards/WikiData/WD~suffrage,185387]]"
+subclass_of: '[[_Standards/WikiData/WD~suffrage,185387]]'
 facet_of: "[[_Standards/WikiData/WD~women's_rights,223569]]"
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Law,8486941]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Feminism,13360738]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Elections_and_Referendums,14772108]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Gender_Studies,15225065]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Law,8486941]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Feminism,13360738]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Elections_and_Referendums,14772108]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Gender_Studies,15225065]]'
   - "[[_Standards/WikiData/WD~WikiProject_Women's_History,18377637]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Women,21712210]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Women,21712210]]'
 history_of_topic: "[[_Standards/WikiData/WD~timeline_of_women's_suffrage,6647212]]"
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-  - "[[_Standards/WikiData/WD~Art+Feminism,24909800]]"
-  - "[[_Standards/WikiData/WD~Wilhelmina_Drucker_Foundation_Project,58468254]]"
-  - "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
-  - "[[_Standards/WikiData/WD~Exciting_women_in_history_on_Wikipedia,85319493]]"
-practiced_by: "[[_Standards/WikiData/WD~suffragist,27532437]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+  - '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+  - '[[_Standards/WikiData/WD~Wilhelmina_Drucker_Foundation_Project,58468254]]'
+  - '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+  - '[[_Standards/WikiData/WD~Exciting_women_in_history_on_Wikipedia,85319493]]'
+practiced_by: '[[_Standards/WikiData/WD~suffragist,27532437]]'
 instance_of:
   - "[[_Standards/WikiData/WD~aspect_of_women's_history,125360958]]"
-  - "[[_Standards/WikiData/WD~social_movement,49773]]"
-U_S_National_Archives_Identifier: "10643369"
+  - '[[_Standards/WikiData/WD~social_movement,49773]]'
+U_S_National_Archives_Identifier: 10643369
 DPLA_subject_term: Women's suffrage
 Commons_category: Women's suffrage
 ---

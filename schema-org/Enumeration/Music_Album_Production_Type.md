@@ -4,20 +4,22 @@ aliases:
   - music_album_production_type
   - MusicAlbumProductionType
   - is_a_music_album_production_type
+  - Music_Album_Production_Type
+  - Music Album Production Type
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - music_album_production_type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_music_album_production_type Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

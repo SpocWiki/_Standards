@@ -1,80 +1,82 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ParcelDelivery
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: WceKbe
-  name: DeliveryAddress
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')"
-  type: MultiFile
-  path: ''
-- id: Q6tlrv
-  name: DeliveryStatus
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Event/DeliveryEvent')"
-  type: MultiFile
-  path: ''
-- id: Ol2csZ
-  name: ExpectedArrivalFrom
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: O70JYB
-  name: ExpectedArrivalUntil
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: zF4kgD
-  name: ItemShipped
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Product')"
-  type: MultiFile
-  path: ''
-- id: g9SRxJ
-  name: OriginAddress
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')"
-  type: MultiFile
-  path: ''
-- id: 2q0kLN
-  name: PartOfOrder
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Order')"
-  type: MultiFile
-  path: ''
-- id: voAWLy
-  name: Provider
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: 5MQQsn
-  name: TrackingNumber
-  options: {}
-  type: Input
-  path: ''
-- id: EhvDtY
-  name: TrackingUrl
-  options: {}
-  type: Input
-  path: ''
+  - id: WceKbe
+    name: DeliveryAddress
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
+    type: MultiFile
+    path: ''
+  - id: Q6tlrv
+    name: DeliveryStatus
+    options:
+      dvQueryString: dv.pages('#class/Thing/Event/DeliveryEvent')
+    type: MultiFile
+    path: ''
+  - id: Ol2csZ
+    name: ExpectedArrivalFrom
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: O70JYB
+    name: ExpectedArrivalUntil
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: zF4kgD
+    name: ItemShipped
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product')
+    type: MultiFile
+    path: ''
+  - id: g9SRxJ
+    name: OriginAddress
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
+    type: MultiFile
+    path: ''
+  - id: 2q0kLN
+    name: PartOfOrder
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Order')
+    type: MultiFile
+    path: ''
+  - id: voAWLy
+    name: Provider
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: 5MQQsn
+    name: TrackingNumber
+    options: {}
+    type: Input
+    path: ''
+  - id: EhvDtY
+    name: TrackingUrl
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ParcelDelivery
-- class/Thing/Intangible/ParcelDelivery
-- is_a_/ParcelDelivery
-- schema-org/ParcelDelivery
+  - class/ParcelDelivery
+  - class/Thing/Intangible/ParcelDelivery
+  - is_a_/ParcelDelivery
+  - schema-org/ParcelDelivery
 tags:
-- class/FileClass
-- class/ParcelDelivery
-- is_a_/ParcelDelivery
-- class/Thing/Intangible/ParcelDelivery
+  - class/FileClass
+  - class/ParcelDelivery
+  - is_a_/ParcelDelivery
+  - class/Thing/Intangible/ParcelDelivery
 version: 2.0
 ---
 

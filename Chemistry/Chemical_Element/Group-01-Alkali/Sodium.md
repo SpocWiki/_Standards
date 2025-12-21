@@ -1,56 +1,57 @@
 ---
 aliases:
   - Natrium
+  - Sodium
+has_id_wikidata: Q658
 atomic_number: 11
-canonical_SMILES: "[Na]"
+canonical_SMILES: '[Na]'
 CAS_Registry_Number: 7440-23-5
 chemical_formula: Na
 Colon_Classification: E111
 Commons_category: Sodium
 Commons_gallery: Sodium
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Sodium,84690714]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Sodium,84690714]]'
 Dewey_Decimal_Classification: 546.382
 different_from:
-  - "[[_Standards/WikiData/WD~sodium_in_biology,3337048]]"
-  - "[[_Standards/WikiData/WD~serum_sodium_level,3963915]]"
-  - "[[_Standards/WikiData/WD~sodium,114850397]]"
-  - "[[_Standards/WikiData/WD~table_salt,11254]]"
+  - '[[_Standards/WikiData/WD~sodium_in_biology,3337048]]'
+  - '[[_Standards/WikiData/WD~serum_sodium_level,3963915]]'
+  - '[[_Standards/WikiData/WD~sodium,114850397]]'
+  - '[[_Standards/WikiData/WD~table_salt,11254]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Humphry_Davy,131761]]"
+  - '[[_Standards/WikiData/WD~Humphry_Davy,131761]]'
 DSSTOX_compound_identifier: DTXCID00876449
 EC_number: 231-132-9
 electronegativity: 1
 electron_configuration:
-  - "[Ne] 3s¹"
+  - '[Ne] 3s¹'
   - 1s² 2s² 2p⁶ 3s¹
 element_symbol: Na
-follows: "[[_Standards/WikiData/WD~neon,654]]"
+follows: '[[_Standards/WikiData/WD~neon,654]]'
 found_in_taxon:
-  - "[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]"
-  - "[[_Standards/WikiData/WD~Montanoa_tomentosa,6904440]]"
-  - "[[_Standards/WikiData/WD~Montanoa_frutescens,15564776]]"
-  - "[[_Standards/WikiData/WD~Montanoa_grandiflora,15564965]]"
-  - "[[_Standards/WikiData/WD~Montanoa_leucantha,15565960]]"
-  - "[[_Standards/WikiData/WD~Chamomilla_recutita,50837010]]"
-  - "[[_Standards/WikiData/WD~Matricaria_chamomilla,28437]]"
-  - "[[_Standards/WikiData/WD~cacao,42385]]"
+  - '[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]'
+  - '[[_Standards/WikiData/WD~Montanoa_tomentosa,6904440]]'
+  - '[[_Standards/WikiData/WD~Montanoa_frutescens,15564776]]'
+  - '[[_Standards/WikiData/WD~Montanoa_grandiflora,15564965]]'
+  - '[[_Standards/WikiData/WD~Montanoa_leucantha,15565960]]'
+  - '[[_Standards/WikiData/WD~Chamomilla_recutita,50837010]]'
+  - '[[_Standards/WikiData/WD~Matricaria_chamomilla,28437]]'
+  - '[[_Standards/WikiData/WD~cacao,42385]]'
 Gmelin_number: 16221
 Gujarati_Vishwakosh_entry: સોડિયમ
-has_id_wikidata: Q658
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sodium%20Atom.png
 InChI: InChI=1S/Na
 InChIKey: KEAYESYHFKHZAL-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
   - 0.99
   - 1.02
@@ -62,25 +63,25 @@ ionization_energy:
   - 495.8
 Krugosvet_article: nauka_i_tehnika/himiya/NATRI.html
 location_of_discovery:
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~albite,182264]]"
-  - "[[_Standards/WikiData/WD~seawater,184395]]"
-  - "[[_Standards/WikiData/WD~cryolite,193502]]"
-  - "[[_Standards/WikiData/WD~brine,214403]]"
-  - "[[_Standards/WikiData/WD~analcime,239589]]"
-  - "[[_Standards/WikiData/WD~riebeckite,256865]]"
-  - "[[_Standards/WikiData/WD~glaucophane,413272]]"
-  - "[[_Standards/WikiData/WD~natrolite,415318]]"
-  - "[[_Standards/WikiData/WD~natron,427329]]"
-  - "[[_Standards/WikiData/WD~clinoptilolite-Na,1116232]]"
-  - "[[_Standards/WikiData/WD~arfvedsonite,2008960]]"
-  - "[[_Standards/WikiData/WD~chabazite-Na,2947265]]"
-  - "[[_Standards/WikiData/WD~eckermannite,3718594]]"
-  - "[[_Standards/WikiData/WD~heulandite-Na,3785394]]"
-  - "[[_Standards/WikiData/WD~phillipsite-Na,3901554]]"
-  - "[[_Standards/WikiData/WD~stilbite-Na,3973529]]"
-  - "[[_Standards/WikiData/WD~halite,5314]]"
+  - '[[_Standards/WikiData/WD~albite,182264]]'
+  - '[[_Standards/WikiData/WD~seawater,184395]]'
+  - '[[_Standards/WikiData/WD~cryolite,193502]]'
+  - '[[_Standards/WikiData/WD~brine,214403]]'
+  - '[[_Standards/WikiData/WD~analcime,239589]]'
+  - '[[_Standards/WikiData/WD~riebeckite,256865]]'
+  - '[[_Standards/WikiData/WD~glaucophane,413272]]'
+  - '[[_Standards/WikiData/WD~natrolite,415318]]'
+  - '[[_Standards/WikiData/WD~natron,427329]]'
+  - '[[_Standards/WikiData/WD~clinoptilolite-Na,1116232]]'
+  - '[[_Standards/WikiData/WD~arfvedsonite,2008960]]'
+  - '[[_Standards/WikiData/WD~chabazite-Na,2947265]]'
+  - '[[_Standards/WikiData/WD~eckermannite,3718594]]'
+  - '[[_Standards/WikiData/WD~heulandite-Na,3785394]]'
+  - '[[_Standards/WikiData/WD~phillipsite-Na,3901554]]'
+  - '[[_Standards/WikiData/WD~stilbite-Na,3973529]]'
+  - '[[_Standards/WikiData/WD~halite,5314]]'
 mass: 22.98976928
 MeSH_tree_code:
   - D01.268.549.750
@@ -88,19 +89,19 @@ MeSH_tree_code:
   - D01.552.528.850
   - D01.552.547.725
 named_after:
-  - "[[_Standards/WikiData/WD~sodium_hydroxide,102769]]"
-  - "[[_Standards/WikiData/WD~sodium_carbonate,190227]]"
-  - "[[_Standards/WikiData/WD~natron,427329]]"
-  - "[[_Standards/WikiData/WD~headache,86]]"
+  - '[[_Standards/WikiData/WD~sodium_hydroxide,102769]]'
+  - '[[_Standards/WikiData/WD~sodium_carbonate,190227]]'
+  - '[[_Standards/WikiData/WD~natron,427329]]'
+  - '[[_Standards/WikiData/WD~headache,86]]'
 OmegaWiki_Defined_Meaning: 7248
 oxidation_state:
   - -1
   - 0
   - 1
 part_of:
-  - "[[_Standards/WikiData/WD~period_3,211331]]"
-  - "[[_Standards/WikiData/WD~group_1,10801007]]"
-  - "[[_Standards/WikiData/WD~alkali_metal,19557]]"
+  - '[[_Standards/WikiData/WD~period_3,211331]]'
+  - '[[_Standards/WikiData/WD~group_1,10801007]]'
+  - '[[_Standards/WikiData/WD~alkali_metal,19557]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Sodium-ar.ogg
 PubChem_CID: 5360545
 radius:
@@ -111,8 +112,8 @@ radius:
 SpocWebEntityId: 21913
 standard_molar_entropy: 51.2
 subclass_of:
-  - "[[_Standards/WikiData/WD~s-block,208106]]"
-  - "[[_Standards/WikiData/WD~alkali_metal,19557]]"
+  - '[[_Standards/WikiData/WD~s-block,208106]]'
+  - '[[_Standards/WikiData/WD~alkali_metal,19557]]'
 time_of_discovery_or_invention: 1807
 type: Element
 Unicode_character: 鈉

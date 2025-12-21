@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~GovernmentBuilding
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/GovernmentBuilding
-- class/Thing/Place/CivicStructure/GovernmentBuilding
-- is_a_/GovernmentBuilding
-- schema-org/GovernmentBuilding
+  - class/GovernmentBuilding
+  - class/Thing/Place/CivicStructure/GovernmentBuilding
+  - is_a_/GovernmentBuilding
+  - schema-org/GovernmentBuilding
 tags:
-- class/FileClass
-- class/GovernmentBuilding
-- is_a_/GovernmentBuilding
-- class/Thing/Place/CivicStructure/GovernmentBuilding
+  - class/FileClass
+  - class/GovernmentBuilding
+  - is_a_/GovernmentBuilding
+  - class/Thing/Place/CivicStructure/GovernmentBuilding
 version: 2.0
 ---
 

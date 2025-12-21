@@ -5,79 +5,80 @@ aliases:
   - Luis Portolés
   - Buñuel
   - Bunuel
+  - Buñuel,Luis
 has_id_wikidata: Q51545
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]"
-cause_of_death: "[[_Standards/WikiData/WD~liver_cirrhosis,147778]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
+cause_of_death: '[[_Standards/WikiData/WD~liver_cirrhosis,147778]]'
 documentation_files_at:
-  - "[[_Standards/WikiData/WD~archive,166118]]"
-  - "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+  - '[[_Standards/WikiData/WD~archive,166118]]'
+  - '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
-  - "[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]"
-  - "[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]"
-  - "[[_Standards/WikiData/WD~Israel_Museum,46815]]"
-  - "[[_Standards/WikiData/WD~Luis_Buñuel,51545]]"
+  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+  - '[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]'
+  - '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
+  - '[[_Standards/WikiData/WD~Israel_Museum,46815]]'
+  - '[[_Standards/WikiData/WD~Luis_Buñuel,51545]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Un_Chien_Andalou,190575]]"
-  - "[[_Standards/WikiData/WD~The_Discreet_Charm_of_the_Bourgeoisie,308920]]"
-  - "[[_Standards/WikiData/WD~The_Exterminating_Angel,332427]]"
-  - "[[_Standards/WikiData/WD~Nazarín,386522]]"
-  - "[[_Standards/WikiData/WD~Belle_de_Jour,470375]]"
-  - "[[_Standards/WikiData/WD~Los_Olvidados,572522]]"
-  - "[[_Standards/WikiData/WD~Viridiana,852841]]"
-  - "[[_Standards/WikiData/WD~L_Age_d_Or,946849]]"
-  - "[[_Standards/WikiData/WD~Land_Without_Bread,2606896]]"
+  - '[[_Standards/WikiData/WD~Un_Chien_Andalou,190575]]'
+  - '[[_Standards/WikiData/WD~The_Discreet_Charm_of_the_Bourgeoisie,308920]]'
+  - '[[_Standards/WikiData/WD~The_Exterminating_Angel,332427]]'
+  - '[[_Standards/WikiData/WD~Nazarín,386522]]'
+  - '[[_Standards/WikiData/WD~Belle_de_Jour,470375]]'
+  - '[[_Standards/WikiData/WD~Los_Olvidados,572522]]'
+  - '[[_Standards/WikiData/WD~Viridiana,852841]]'
+  - '[[_Standards/WikiData/WD~L_Age_d_Or,946849]]'
+  - '[[_Standards/WikiData/WD~Land_Without_Bread,2606896]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Golden_Lion,209459]]"
-  - "[[_Standards/WikiData/WD~Cannes_Best_Director_Award,510175]]"
-  - "[[_Standards/WikiData/WD~Grand_Jury_Prize_of_the_Venice_Film_Festival,944480]]"
-  - "[[_Standards/WikiData/WD~Gold_Medal_of_Merit_in_the_Fine_Arts,3753203]]"
-  - "[[_Standards/WikiData/WD~Golden_Ariel,4193281]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Isabella_the_Catholic,17365974]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Zaragoza,29062669]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Madrid_Complutense,50621171]]"
+  - '[[_Standards/WikiData/WD~Golden_Lion,209459]]'
+  - '[[_Standards/WikiData/WD~Cannes_Best_Director_Award,510175]]'
+  - '[[_Standards/WikiData/WD~Grand_Jury_Prize_of_the_Venice_Film_Festival,944480]]'
+  - '[[_Standards/WikiData/WD~Gold_Medal_of_Merit_in_the_Fine_Arts,3753203]]'
+  - '[[_Standards/WikiData/WD~Golden_Ariel,4193281]]'
+  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Isabella_the_Catholic,17365974]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Zaragoza,29062669]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Madrid_Complutense,50621171]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Complutense_University_of_Madrid,219694]]"
-  - "[[_Standards/WikiData/WD~College_of_the_Savior,_Zaragoza,8347697]]"
-member_of: "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-place_of_birth: "[[_Standards/WikiData/WD~Calanda,737161]]"
-child: "[[_Standards/WikiData/WD~Juan_Luis_Buñuel,1710546]]"
+  - '[[_Standards/WikiData/WD~Complutense_University_of_Madrid,219694]]'
+  - '[[_Standards/WikiData/WD~College_of_the_Savior,_Zaragoza,8347697]]'
+member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+place_of_birth: '[[_Standards/WikiData/WD~Calanda,737161]]'
+child: '[[_Standards/WikiData/WD~Juan_Luis_Buñuel,1710546]]'
 occupation:
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~film_editor,7042855]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~photographer,33231]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-given_name: "[[_Standards/WikiData/WD~Luis,2598693]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Concha_Méndez,2890334]]"
-student_of: "[[_Standards/WikiData/WD~Longinos_Navás,3571428]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Luis_Buñuel,8084363]]"
-place_of_burial: "[[_Standards/WikiData/WD~Tolocha,9088101]]"
-filmography: "[[_Standards/WikiData/WD~Luis_Buñuel_filmography,15634132]]"
-sibling: "[[_Standards/WikiData/WD~Alfonso_Buñuel,16528579]]"
-father: "[[_Standards/WikiData/WD~Leonardo_Buñuel_González,18285631]]"
-spouse: "[[_Standards/WikiData/WD~Jeanne_Rucar,28708093]]"
-family_name: "[[_Standards/WikiData/WD~Buñuel,47246410]]"
-second_family_name_in_Spanish_name: "[[_Standards/WikiData/WD~Portolés,47246523]]"
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~director,3455803]]'
+  - '[[_Standards/WikiData/WD~film_editor,7042855]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~photographer,33231]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
+given_name: '[[_Standards/WikiData/WD~Luis,2598693]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Concha_Méndez,2890334]]'
+student_of: '[[_Standards/WikiData/WD~Longinos_Navás,3571428]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Luis_Buñuel,8084363]]'
+place_of_burial: '[[_Standards/WikiData/WD~Tolocha,9088101]]'
+filmography: '[[_Standards/WikiData/WD~Luis_Buñuel_filmography,15634132]]'
+sibling: '[[_Standards/WikiData/WD~Alfonso_Buñuel,16528579]]'
+father: '[[_Standards/WikiData/WD~Leonardo_Buñuel_González,18285631]]'
+spouse: '[[_Standards/WikiData/WD~Jeanne_Rucar,28708093]]'
+family_name: '[[_Standards/WikiData/WD~Buñuel,47246410]]'
+second_family_name_in_Spanish_name: '[[_Standards/WikiData/WD~Portolés,47246523]]'
 date_of_birth: 1900-02-22T00:00:00Z
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Spanish,1321]]"
-place_of_death: "[[_Standards/WikiData/WD~Mexico_City,1489]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321]]'
+place_of_death: '[[_Standards/WikiData/WD~Mexico_City,1489]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - '[[_Standards/WikiData/WD~Spain,29]]'
+  - '[[_Standards/WikiData/WD~Mexico,96]]'
 number_of_children: 2
 Commons_category: Luis Buñuel
 Europeana_entity: agent/base/54029
@@ -92,7 +93,7 @@ work_period_end_: 1983-01-01T00:00:00Z
 date_of_death: 1983-07-29T00:00:00Z
 name_in_native_language: Luis Buñuel
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LuisBu%C3%B1uel1929.jpg
-ISNI: "0000000122812593"
+ISNI: 0000000122812593
 ---
 
 # [[Buñuel,Luis]] 

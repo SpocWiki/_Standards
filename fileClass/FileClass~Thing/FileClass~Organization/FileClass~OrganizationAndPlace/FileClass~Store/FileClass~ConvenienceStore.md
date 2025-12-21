@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ConvenienceStore
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ConvenienceStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ConvenienceStore
-- is_a_/ConvenienceStore
-- schema-org/ConvenienceStore
+  - class/ConvenienceStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ConvenienceStore
+  - is_a_/ConvenienceStore
+  - schema-org/ConvenienceStore
 tags:
-- class/FileClass
-- class/ConvenienceStore
-- is_a_/ConvenienceStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ConvenienceStore
+  - class/FileClass
+  - class/ConvenienceStore
+  - is_a_/ConvenienceStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ConvenienceStore
 version: 2.0
 ---
 

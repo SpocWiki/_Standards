@@ -1,12 +1,14 @@
 ---
+aliases:
+  - Tanganyika
 confidential: public
 isDeleted: false
 location:
-- -6.307
-- 34.854
+  - -6.307
+  - 34.854
 SpocWebEntityId: 76709
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

@@ -1,53 +1,55 @@
 ---
-excludes: 
+aliases:
+  - FileClass~BroadcastChannel
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: Azwt1n
-  name: BroadcastChannelId
-  options: {}
-  type: Input
-  path: ''
-- id: FaAEu1
-  name: BroadcastFrequency
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/BroadcastFrequencySpecification')"
-  type: MultiFile
-  path: ''
-- id: A1vnnc
-  name: BroadcastServiceTier
-  options: {}
-  type: Input
-  path: ''
-- id: GLTOS2
-  name: Genre
-  options: {}
-  type: Input
-  path: ''
-- id: bHShQF
-  name: InBroadcastLineup
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Service/CableOrSatelliteService')"
-  type: MultiFile
-  path: ''
-- id: G2T9zx
-  name: ProvidesBroadcastService
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Service/BroadcastService')"
-  type: MultiFile
-  path: ''
+  - id: Azwt1n
+    name: BroadcastChannelId
+    options: {}
+    type: Input
+    path: ''
+  - id: FaAEu1
+    name: BroadcastFrequency
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/BroadcastFrequencySpecification')
+    type: MultiFile
+    path: ''
+  - id: A1vnnc
+    name: BroadcastServiceTier
+    options: {}
+    type: Input
+    path: ''
+  - id: GLTOS2
+    name: Genre
+    options: {}
+    type: Input
+    path: ''
+  - id: bHShQF
+    name: InBroadcastLineup
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Service/CableOrSatelliteService')
+    type: MultiFile
+    path: ''
+  - id: G2T9zx
+    name: ProvidesBroadcastService
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Service/BroadcastService')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/BroadcastChannel
-- class/Thing/Intangible/BroadcastChannel
-- is_a_/BroadcastChannel
-- schema-org/BroadcastChannel
+  - class/BroadcastChannel
+  - class/Thing/Intangible/BroadcastChannel
+  - is_a_/BroadcastChannel
+  - schema-org/BroadcastChannel
 tags:
-- class/FileClass
-- class/BroadcastChannel
-- is_a_/BroadcastChannel
-- class/Thing/Intangible/BroadcastChannel
+  - class/FileClass
+  - class/BroadcastChannel
+  - is_a_/BroadcastChannel
+  - class/Thing/Intangible/BroadcastChannel
 version: 2.0
 ---
 

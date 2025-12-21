@@ -1,20 +1,21 @@
 ---
 aliases:
   - Graben
+  - Ditch
 has_id_wikidata: Q2048319
 subclass_of:
-  - "[[_Standards/WikiData/WD~watercourse,355304]]"
-  - "[[_Standards/WikiData/WD~trench,1852785]]"
+  - '[[_Standards/WikiData/WD~watercourse,355304]]'
+  - '[[_Standards/WikiData/WD~trench,1852785]]'
 has_use:
-  - "[[_Standards/WikiData/WD~water_supply,1061108]]"
-  - "[[_Standards/WikiData/WD~tile_drainage,3746082]]"
-  - "[[_Standards/WikiData/WD~drainage,7481320]]"
+  - '[[_Standards/WikiData/WD~water_supply,1061108]]'
+  - '[[_Standards/WikiData/WD~tile_drainage,3746082]]'
+  - '[[_Standards/WikiData/WD~drainage,7481320]]'
 different_from:
-  - "[[_Standards/WikiData/WD~acequia,1385463]]"
-  - "[[_Standards/WikiData/WD~Dike,1933589]]"
-  - "[[_Standards/WikiData/WD~Cannavà,18432057]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_watercourse,1428660]]"
-described_by_source: "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
+  - '[[_Standards/WikiData/WD~acequia,1385463]]'
+  - '[[_Standards/WikiData/WD~Dike,1933589]]'
+  - '[[_Standards/WikiData/WD~Cannavà,18432057]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_watercourse,1428660]]'
+described_by_source: '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Flehderwurth%20graben.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Culvert%20on%20Fordingbridge%20to%20Alderholt%20Road%20-%20geograph.org.uk%20-%20155781.jpg

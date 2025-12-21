@@ -2,6 +2,7 @@
 aliases:
   - Tänzer
   - Tänzerin
+  - Dancer
 has_id_wikidata: Q5716684
 female_form_of_label:
   - tanečnica
@@ -78,7 +79,7 @@ depicted_by:
   - "[[_Standards/WikiData/WD~Dancing_female_figure_from_Villa_Adriana,126727179]]"
   - "[[_Standards/WikiData/WD~The_dancer_Rita_Sacchetto,131588024]]"
 field_of_this_occupation: "[[_Standards/WikiData/WD~dance,11639]]"
-ISCO_08_occupation_class: "2653"
+ISCO_08_occupation_class: 2653
 IMDb_keyword: dancer
 Unicode_character:
   - 💃
@@ -88,7 +89,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Anna-Duncan-danse-sur-
 Provenio_UUID: c21608cf-5ae4-4e14-9ded-0d23bc3f18a9
 ---
 
-# [[Dancer]] 
+# [[Dancer]] 🕺 
 
 #is_/same_as :: [[_Standards/WikiData/WD~dancer,5716684]] 
 

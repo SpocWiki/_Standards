@@ -1,10 +1,12 @@
 ---
 aliases:
   - economic and monetary union (EMU) of the European Union
+  - Economic_and_Monetary_Union_of_the_European_Union
+  - Economic and Monetary Union of the European Union
 has_id_wikidata: Q212141
-different_from: "[[_Standards/WikiData/WD~Emu,93208]]"
-subclass_of: "[[_Standards/WikiData/WD~currency_union,1125321]]"
-instance_of: "[[_Standards/WikiData/WD~organization,43229]]"
+different_from: '[[_Standards/WikiData/WD~Emu,93208]]'
+subclass_of: '[[_Standards/WikiData/WD~currency_union,1125321]]'
+instance_of: '[[_Standards/WikiData/WD~organization,43229]]'
 short_name: EWWU
 ---
 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Operette
+  - Operetta
 has_id_wikidata: Q170384
 ---
 

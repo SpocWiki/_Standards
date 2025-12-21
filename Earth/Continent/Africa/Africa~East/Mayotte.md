@@ -4,25 +4,25 @@ aliases:
   - جزيرة مايوت
   - 马约特
   - Острове Майотта
-  - 
+  - ''
 confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
+keywords: ''
 Languages:
   - fr-YT
-layout:
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 location:
   - -12.7806
   - 45.2278
 publish: true
-publishDate:
+publishDate: ''
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 27060
 tags:

@@ -3,24 +3,26 @@ aliases:
   - Treaty of Zaragoza
   - Treaty of Saragossa
   - Capitulation of Zaragoza
+  - 1529-Treaty_of_Zaragoza
+  - 1529-Treaty of Zaragoza
 has_id_wikidata: Q1147471
 participant:
-  - "[[_Standards/WikiData/WD~Spanish_Empire,80702]]"
-  - "[[_Standards/WikiData/WD~Portuguese_Empire,200464]]"
+  - '[[_Standards/WikiData/WD~Spanish_Empire,80702]]'
+  - '[[_Standards/WikiData/WD~Portuguese_Empire,200464]]'
 signatory:
-  - "[[_Standards/WikiData/WD~John_III_of_Portugal,216789]]"
-  - "[[_Standards/WikiData/WD~Charles_V,32500]]"
-instance_of: "[[_Standards/WikiData/WD~peace_treaty,625298]]"
+  - '[[_Standards/WikiData/WD~John_III_of_Portugal,216789]]'
+  - '[[_Standards/WikiData/WD~Charles_V,32500]]'
+instance_of: '[[_Standards/WikiData/WD~peace_treaty,625298]]'
 place_of_publication:
-  - "[[_Standards/WikiData/WD~Zaragoza_City,31926034]]"
-  - "[[_Standards/WikiData/WD~Zaragoza,10305]]"
+  - '[[_Standards/WikiData/WD~Zaragoza_City,31926034]]'
+  - '[[_Standards/WikiData/WD~Zaragoza,10305]]'
 location:
-  - "[[_Standards/WikiData/WD~Zaragoza_City,31926034]]"
-  - "[[_Standards/WikiData/WD~Zaragoza,10305]]"
-named_after: "[[_Standards/WikiData/WD~Zaragoza,10305]]"
+  - '[[_Standards/WikiData/WD~Zaragoza_City,31926034]]'
+  - '[[_Standards/WikiData/WD~Zaragoza,10305]]'
+named_after: '[[_Standards/WikiData/WD~Zaragoza,10305]]'
 country:
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~Portugal,45]]"
+  - '[[_Standards/WikiData/WD~Spain,29]]'
+  - '[[_Standards/WikiData/WD~Portugal,45]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Verdrag%20van%20Zaragoza-article.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Spain%20and%20Portugal.png
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "TheTreatyOfSaragossaIsSigned"]

@@ -3,18 +3,19 @@ aliases:
   - A Brief History of Time
   - Brief History of Time
   - A_Brief_History_of_Time
+  - Brief_History_of_Time
 has_id_wikidata: Q471726
-genre: "[[_Standards/WikiData/WD~popular_science,995600]]"
-followed_by: "[[_Standards/WikiData/WD~Black_Holes_and_Baby_Universes_and_Other_Essays,1815797]]"
-derivative_work: "[[_Standards/WikiData/WD~A_Brief_History_of_Time,1962105]]"
-instance_of: "[[_Standards/WikiData/WD~literary_work,7725634]]"
-has_edition_or_translation: "[[_Standards/WikiData/WD~A_Brief_History_Of_Time,136749253]]"
-main_subject: "[[_Standards/WikiData/WD~cosmology,338]]"
-author_of_foreword: "[[_Standards/WikiData/WD~Carl_Sagan,410]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-author: "[[_Standards/WikiData/WD~Stephen_Hawking,17714]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~essay,35760]]"
+genre: '[[_Standards/WikiData/WD~popular_science,995600]]'
+followed_by: '[[_Standards/WikiData/WD~Black_Holes_and_Baby_Universes_and_Other_Essays,1815797]]'
+derivative_work: '[[_Standards/WikiData/WD~A_Brief_History_of_Time,1962105]]'
+instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
+has_edition_or_translation: '[[_Standards/WikiData/WD~A_Brief_History_Of_Time,136749253]]'
+main_subject: '[[_Standards/WikiData/WD~cosmology,338]]'
+author_of_foreword: '[[_Standards/WikiData/WD~Carl_Sagan,410]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+author: '[[_Standards/WikiData/WD~Stephen_Hawking,17714]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~essay,35760]]'
 title: A Brief History of Time
 publication_date: 1988-01-01T00:00:00Z
 Wolfram_Language_entity_code: Entity["Book", "ABriefHistoryOfTime"]

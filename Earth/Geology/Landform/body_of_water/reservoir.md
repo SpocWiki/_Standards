@@ -9,42 +9,42 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - reservoir
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_reservoir Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_reservoir Class
 type: Type
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-  - "[[_Standards/WikiData/WD~reservoir,1047832]]"
-  - "[[_Standards/WikiData/WD~water_reservoir,2551525]]"
-  - "[[_Standards/WikiData/WD~water_storage,7973769]]"
-  - "[[_Standards/WikiData/WD~Q25424259,25424259]]"
+  - '[[_Standards/WikiData/WD~reservoir,1047832]]'
+  - '[[_Standards/WikiData/WD~water_reservoir,2551525]]'
+  - '[[_Standards/WikiData/WD~water_storage,7973769]]'
+  - '[[_Standards/WikiData/WD~Q25424259,25424259]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~water_reservoir,2551525]]"
-  - "[[_Standards/WikiData/WD~artificial_lake,3215290]]"
-  - "[[_Standards/WikiData/WD~Q11727010,11727010]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_reservoir,13411749]]"
+  - '[[_Standards/WikiData/WD~water_reservoir,2551525]]'
+  - '[[_Standards/WikiData/WD~artificial_lake,3215290]]'
+  - '[[_Standards/WikiData/WD~Q11727010,11727010]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_reservoir,13411749]]'
 properties_for_this_type:
   - Code for China Reservoir Name
   - SNCZI-IPE reservoir ID
 Wikidata_property: reservoir created
 GeoNames_feature_code: H.RSV
-U_S_National_Archives_Identifier: "10648599"
+U_S_National_Archives_Identifier: 10648599
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Awyrlun%20o%20Lyn%20Efyrnwy%20%28Llyn%20Llanwddyn%29%20-%20Aerial%20Image%20of%20Llyn%20Efyrnwy%20%28lake%20Vyrnwy%29%20in%20Novemebr%202022%2029.png
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Awyrlun%20o%20Lyn%20Efyrnwy%20%28Llyn%20Llanwddyn%29%20-%20Aerial%20Image%20of%20Llyn%20Efyrnwy%20%28lake%20Vyrnwy%29%20in%20Novemebr%202022%2037.png
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000025

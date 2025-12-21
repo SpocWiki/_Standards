@@ -4,20 +4,22 @@ aliases:
   - game_server_status
   - GameServerStatus
   - is_a_game_server_status
+  - Game_Server_Status
+  - Game Server Status
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - game_server_status
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_game_server_status Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

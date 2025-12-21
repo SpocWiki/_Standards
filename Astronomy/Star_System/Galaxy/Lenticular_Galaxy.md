@@ -1,10 +1,12 @@
 ---
 aliases:
   - lenticular galaxy
+  - Lenticular_Galaxy
+  - Lenticular Galaxy
 has_id_wikidata: Q192078
-followed_by: "[[_Standards/WikiData/WD~elliptical_galaxy,184348]]"
-subclass_of: "[[_Standards/WikiData/WD~disc_galaxy,1371025]]"
-follows: "[[_Standards/WikiData/WD~spiral_galaxy,2488]]"
+followed_by: '[[_Standards/WikiData/WD~elliptical_galaxy,184348]]'
+subclass_of: '[[_Standards/WikiData/WD~disc_galaxy,1371025]]'
+follows: '[[_Standards/WikiData/WD~spiral_galaxy,2488]]'
 Commons_category: Lenticular galaxies
 ---
 

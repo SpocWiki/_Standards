@@ -2,6 +2,7 @@
 aliases:
   - Persian Gulf
   - Arabian Gulf
+  - Persian_Gulf
 has_id_wikidata: Q34675
 official_name:
   - Gulf of Iran
@@ -13,55 +14,55 @@ location:
   - 52
 coordinate_location: Point(52.0 26.0)
 inflows:
-  - "[[_Standards/WikiData/WD~Shatt_al_Arab,166966]]"
-  - "[[_Standards/WikiData/WD~Jarahi_River,283159]]"
-  - "[[_Standards/WikiData/WD~Bahmanshir,3449355]]"
-  - "[[_Standards/WikiData/WD~Mehran_River,4115965]]"
-  - "[[_Standards/WikiData/WD~Mand_River,5955477]]"
-  - "[[_Standards/WikiData/WD~Zohreh_River,12645787]]"
-  - "[[_Standards/WikiData/WD~Helleh_River,48813086]]"
+  - '[[_Standards/WikiData/WD~Shatt_al_Arab,166966]]'
+  - '[[_Standards/WikiData/WD~Jarahi_River,283159]]'
+  - '[[_Standards/WikiData/WD~Bahmanshir,3449355]]'
+  - '[[_Standards/WikiData/WD~Mehran_River,4115965]]'
+  - '[[_Standards/WikiData/WD~Mand_River,5955477]]'
+  - '[[_Standards/WikiData/WD~Zohreh_River,12645787]]'
+  - '[[_Standards/WikiData/WD~Helleh_River,48813086]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~Q35541239,35541239]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+  - '[[_Standards/WikiData/WD~Q35541239,35541239]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~gulf,1322134]]"
-  - "[[_Standards/WikiData/WD~sea,165]]"
-named_after: "[[_Standards/WikiData/WD~Persis,3746183]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Persian_Gulf,135995584]]"
+  - '[[_Standards/WikiData/WD~gulf,1322134]]'
+  - '[[_Standards/WikiData/WD~sea,165]]'
+named_after: '[[_Standards/WikiData/WD~Persis,3746183]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Persian_Gulf,135995584]]'
 country:
-  - "[[_Standards/WikiData/WD~Bahrain,398]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Iraq,796]]"
-  - "[[_Standards/WikiData/WD~Kuwait,817]]"
-  - "[[_Standards/WikiData/WD~Oman,842]]"
-  - "[[_Standards/WikiData/WD~Qatar,846]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-  - "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
+  - '[[_Standards/WikiData/WD~Bahrain,398]]'
+  - '[[_Standards/WikiData/WD~Iran,794]]'
+  - '[[_Standards/WikiData/WD~Iraq,796]]'
+  - '[[_Standards/WikiData/WD~Kuwait,817]]'
+  - '[[_Standards/WikiData/WD~Oman,842]]'
+  - '[[_Standards/WikiData/WD~Qatar,846]]'
+  - '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
+  - '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
 basin_country:
-  - "[[_Standards/WikiData/WD~Bahrain,398]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Iraq,796]]"
-  - "[[_Standards/WikiData/WD~Kuwait,817]]"
-  - "[[_Standards/WikiData/WD~Oman,842]]"
-  - "[[_Standards/WikiData/WD~Qatar,846]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-  - "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
-part_of: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
+  - '[[_Standards/WikiData/WD~Bahrain,398]]'
+  - '[[_Standards/WikiData/WD~Iran,794]]'
+  - '[[_Standards/WikiData/WD~Iraq,796]]'
+  - '[[_Standards/WikiData/WD~Kuwait,817]]'
+  - '[[_Standards/WikiData/WD~Oman,842]]'
+  - '[[_Standards/WikiData/WD~Qatar,846]]'
+  - '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
+  - '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
+part_of: '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
 vertical_depth: 90
 salinity: 41
 area: 251000
 length: 989
-OmegaWiki_Defined_Meaning: "728509"
+OmegaWiki_Defined_Meaning: 728509
 Commons_category: Persian Gulf
 lowest_point: http://www.wikidata.org/.well-known/genid/44a6e56632476c394dc8c4ed3a1bdc22
 BHCL_UUID: 77e8b665-17af-4dec-9ad0-725b31484580
-U_S_National_Archives_Identifier: "10046213"
+U_S_National_Archives_Identifier: 10046213
 name: Persian Gulf
 native_label: خلیج فارس
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Coral%20Reefs%20in%20the%20Persian%20Gulf.jpg

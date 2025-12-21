@@ -7,23 +7,23 @@ aliases:
   - Concert
 has_id_wikidata: Q9748
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~musical_form,862597]]"
-  - "[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]"
+  - '[[_Standards/WikiData/WD~music_genre,188451]]'
+  - '[[_Standards/WikiData/WD~musical_form,862597]]'
+  - '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~composed_musical_work,207628]]"
+  - '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Koncert,393504]]"
-  - "[[_Standards/WikiData/WD~sinfonia_concertante,1136846]]"
-  - "[[_Standards/WikiData/WD~concertante_music,3328619]]"
+  - '[[_Standards/WikiData/WD~Koncert,393504]]'
+  - '[[_Standards/WikiData/WD~sinfonia_concertante,1136846]]'
+  - '[[_Standards/WikiData/WD~concertante_music,3328619]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,2152210]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Prokofiev_concertos,13516911]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Prokofiev_concertos,13516911]]'
 Commons_category: Concertos
 Krugosvet_article: muzyka/koncert-muzykalnaya-forma
 ---

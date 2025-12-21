@@ -1,11 +1,20 @@
 ---
+aliases:
+  - Ethiopia
+  - Etiopía
+  - Éthiopie
+  - إثيوبيا
+  - 埃塞俄比亚
+  - Эфиопия
+  - the Federal Democratic Republic of Ethiopia
+  - la República Democrática Federal de Etiopía
+has_id_wikidata: Q115
 location:
   - 9.05
   - 38.7
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q115
 SpocWebEntityId: 26890
 isDeleted: false
 confidential: public
@@ -16,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Ethiopia
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Ethiopia
-  - Etiopía
-  - Éthiopie
-  - إثيوبيا
-  - 埃塞俄比亚
-  - Эфиопия
-  - the Federal Democratic Republic of Ethiopia
-  - la República Democrática Federal de Etiopía
+publishDate: ""
+expiryDate: ""
 Languages:
   - am
   - en-ET

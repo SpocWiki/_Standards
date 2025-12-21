@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Articulation
 has_id_wikidata: Q372923
 ---
 

@@ -1,48 +1,50 @@
 ---
 aliases:
-- "general theory of relativity"
-- "general relativity"
+  - general theory of relativity
+  - general relativity
+  - General_Relativity
+  - General Relativity
+has_id_wikidata: Q11452
 Colon_Classification: CN
-Commons_category: "General relativity"
+Commons_category: General relativity
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 Dewey_Decimal_Classification: 530.11
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Albert_Einstein,937]]'
 has_characteristic: '[[_Standards/WikiData/WD~mass_in_general_relativity,6784057]]'
-has_id_wikidata: Q11452
 has_part_s_: '[[_Standards/WikiData/WD~Einstein_field_equations,273711]]'
 has_time_started: 1916-06
 inception: 1916
 instance_of:
-- '[[_Standards/WikiData/WD~physical_law,214070]]'
-- '[[_Standards/WikiData/WD~scientific_theory,3239681]]'
+  - '[[_Standards/WikiData/WD~physical_law,214070]]'
+  - '[[_Standards/WikiData/WD~scientific_theory,3239681]]'
 Library_of_Congress_Classification: QC173.6
 location_of_creation: '[[_Standards/WikiData/WD~Berlin,64]]'
 OmegaWiki_Defined_Meaning: 688297
 part_of: '[[_Standards/WikiData/WD~theory_of_relativity,43514]]'
 PhilPapers_topic: general-relativity
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B8%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3%20%E0%A6%86%E0%A6%AA%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE.wav"
-related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cassini-science-br.jpg"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B8%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3%20%E0%A6%86%E0%A6%AA%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE.wav
+related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cassini-science-br.jpg
 short_name:
-- ОТО
-- ДСТ
-- АТА
-- ОТО
-- OTR
-- OTR
-- 一般相対論
-- VRT
-- ЗТВ
-- ОТР
-- OTR
-- ART
-- GR
-- ART
-- GTR
-- STR
-- VTR
-- OTW
-- OTR
-Stack_Exchange_tag: "https://physics.stackexchange.com/tags/general-relativity"
+  - ОТО
+  - ДСТ
+  - АТА
+  - ОТО
+  - OTR
+  - OTR
+  - 一般相対論
+  - VRT
+  - ЗТВ
+  - ОТР
+  - OTR
+  - ART
+  - GR
+  - ART
+  - GTR
+  - STR
+  - VTR
+  - OTW
+  - OTR
+Stack_Exchange_tag: https://physics.stackexchange.com/tags/general-relativity
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_General_relativity_sidebar,5932282]]'
 ---
 

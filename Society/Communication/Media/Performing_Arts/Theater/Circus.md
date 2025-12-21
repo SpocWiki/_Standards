@@ -1,6 +1,7 @@
 ---
 aliases:
   - Zirkus
+  - Circus
 has_id_wikidata: Q47928
 field_of_work: "[[_Standards/WikiData/WD~circus_arts,713197]]"
 has_part_s_:
@@ -21,20 +22,20 @@ history_of_topic: "[[_Standards/WikiData/WD~History_of_the_Circus,122415732]]"
 uses: "[[_Standards/WikiData/WD~circus,123655171]]"
 Commons_gallery: Circus
 Commons_category: Circus
-OmegaWiki_Defined_Meaning: "1195931"
+OmegaWiki_Defined_Meaning: 1195931
 described_at_URL:
   - https://levandekulturarv.se/forteckningen/element/turnerande-klassisk-cirkus
   - https://levandekulturarv.se/in-english/the-inventory/submissions/touring-classic-circus
 Unicode_character: 🎪
-U_S_National_Archives_Identifier: "10641946"
-Dewey_Decimal_Classification: "791.3"
+U_S_National_Archives_Identifier: 10641946
+Dewey_Decimal_Classification: 791.3
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Circus%20Ronaldo%20door%20Dirk%20Annemans.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Tamahashi-cirque.wav
 Iconclass_notation: 43A36
-P8189: "987007286299905171"
+P8189: 987007286299905200
 ---
 
-# [[Circus]] 
+# [[Circus]] 🎪 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Circus,47928|WD~Circus,47928]] 
 

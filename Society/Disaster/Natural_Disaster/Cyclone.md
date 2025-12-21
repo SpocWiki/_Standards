@@ -3,6 +3,7 @@ aliases:
   - Zyklon
   - hurricane
   - typhoon
+  - Cyclone
 has_id_wikidata: Q79602
 subclass_of:
   - "[[_Standards/WikiData/WD~storm,81054]]"
@@ -17,7 +18,7 @@ topic_has_template: "[[_Standards/WikiData/WD~Template_Cyclones,7746467]]"
 different_from: "[[_Standards/WikiData/WD~tropical_cyclone,16172167]]"
 instance_of: "[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Low%20pressure%20system%20over%20Iceland.jpg
-U_S_National_Archives_Identifier: "10637211"
+U_S_National_Archives_Identifier: 10637211
 Commons_category: Cyclones
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Cyclones%20banner%20Hurricane%20Felix.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001297
@@ -25,7 +26,7 @@ Unicode_character: 🌀
 Krugosvet_article_archived_: geografiya/tsiklon
 ---
 
-# [[Cyclone]] 
+# [[Cyclone]] 🌀 
 
 #is_/same_as :: [[../../../WikiData/WD~Cyclone,79602|WD~Cyclone,79602]] 
 

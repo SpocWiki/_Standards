@@ -4,20 +4,22 @@ aliases:
   - wp_ad_block
   - WPAdBlock
   - is_a_wp_ad_block
+  - Wp_Ad_Block
+  - Wp Ad Block
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wp_ad_block
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wp_ad_block Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

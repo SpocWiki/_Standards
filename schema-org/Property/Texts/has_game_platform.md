@@ -4,22 +4,24 @@ aliases:
   - game_platform
   - gamePlatform
   - has_text_of_game_platform
+  - has_game_platform
+  - has game platform
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - game
   - platform
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_game_platform
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

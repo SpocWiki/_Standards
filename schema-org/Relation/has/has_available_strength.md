@@ -1,23 +1,24 @@
 ---
 aliases:
   - has_available_strength
+  - has available strength
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - available
   - strength
   - availableStrength
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_available_strength
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

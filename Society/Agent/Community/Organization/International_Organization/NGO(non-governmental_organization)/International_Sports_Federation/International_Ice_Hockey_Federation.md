@@ -4,19 +4,20 @@ aliases:
   - IIHF
   - Fédération internationale de hockey sur glace
   - Internationale Eishockey-Föderation
+  - International_Ice_Hockey_Federation
 has_id_wikidata: Q190173
 sport:
-  - "[[_Standards/WikiData/WD~inline_hockey,946171]]"
-  - "[[_Standards/WikiData/WD~ice_hockey,41466]]"
-member_of: "[[_Standards/WikiData/WD~Winter_Olympic_Federations,1763847]]"
-instance_of: "[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Zurich,72]]"
+  - '[[_Standards/WikiData/WD~inline_hockey,946171]]'
+  - '[[_Standards/WikiData/WD~ice_hockey,41466]]'
+member_of: '[[_Standards/WikiData/WD~Winter_Olympic_Federations,1763847]]'
+instance_of: '[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Zurich,72]]'
 member_count: 83
 social_media_followers: 218333
 image: http://commons.wikimedia.org/wiki/Special:FilePath/IIHF%20Headquarter%20Zurich.JPG
 official_website: https://www.iihf.com/
-ISNI: "0000000121902714"
+ISNI: 0000000121902714
 TikTok_username: iihfhockey
 Pinterest_username: iihfhockey
 VK_username: iihfhockey

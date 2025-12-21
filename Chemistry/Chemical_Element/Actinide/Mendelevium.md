@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Mendelevium
+has_id_wikidata: Q1898
 atomic_number: 101
 canonical_SMILES: '[Md]'
 CAS_Registry_Number: 7440-11-1
@@ -10,26 +13,25 @@ discoverer_or_inventor: '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
 DSSTOX_compound_identifier: DTXCID90147877
 electronegativity: 1.3
 element_symbol: Md
-has_id_wikidata: Q1898
 InChI: InChI=1S/Md
 InChIKey: MQVSLOYRCXQRPM-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - '[[_Standards/WikiData/WD~synthetic_element,755992]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 MeSH_tree_code:
-- D01.268.271.100.525
-- D01.268.556.494
-- D01.496.749.305.100.525
-- D01.552.020.561
-- D01.552.544.494
+  - D01.268.271.100.525
+  - D01.268.556.494
+  - D01.496.749.305.100.525
+  - D01.552.020.561
+  - D01.552.544.494
 named_after: '[[_Standards/WikiData/WD~Dmitri_Mendeleev,9106]]'
 OmegaWiki_Defined_Meaning: 335094
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~actinide,19577]]'
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-mend%C3%A9l%C3%A9vium.wav"
+  - '[[_Standards/WikiData/WD~period_7,244979]]'
+  - '[[_Standards/WikiData/WD~actinide,19577]]'
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-mend%C3%A9l%C3%A9vium.wav
 PubChem_CID: 23943
-schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20101%20Mendelevium.svg"
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20101%20Mendelevium.svg
 SpocWebEntityId: 21996
 time_of_discovery_or_invention: 1955
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_mendelevium,8085394]]'

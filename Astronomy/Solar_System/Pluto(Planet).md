@@ -1,20 +1,23 @@
 ---
+aliases:
+  - Pluto(Planet)
+has_id_wikidata: Q339
 absolute_magnitude: -0.7
 albedo: 0.6
 apoapsis:
-- 7376671004.22
-- 49.31
+  - 7376671004.22
+  - 49.31
 apparent_magnitude: 15.1
 argument_of_periapsis: 224.06891629
-astronomic_symbol_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pluto%20symbol%20%28large%20orb%2C%20fixed%20width%29.svg"
+astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pluto%20symbol%20%28large%20orb%2C%20fixed%20width%29.svg
 child_astronomical_body:
-- '[[_Standards/WikiData/WD~Nix,102694]]'
-- '[[_Standards/WikiData/WD~Hydra,102701]]'
-- '[[_Standards/WikiData/WD~Kerberos,105636]]'
-- '[[_Standards/WikiData/WD~Styx,105713]]'
-- '[[_Standards/WikiData/WD~Charon,6604]]'
-Commons_category: "134340 Pluto"
-Commons_gallery: "134340 Pluto"
+  - '[[_Standards/WikiData/WD~Nix,102694]]'
+  - '[[_Standards/WikiData/WD~Hydra,102701]]'
+  - '[[_Standards/WikiData/WD~Kerberos,105636]]'
+  - '[[_Standards/WikiData/WD~Styx,105713]]'
+  - '[[_Standards/WikiData/WD~Charon,6604]]'
+Commons_category: 134340 Pluto
+Commons_gallery: 134340 Pluto
 density: 1.85
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 diameter: 2376
@@ -25,12 +28,11 @@ followed_by: '[[_Standards/WikiData/WD~(134341)_1979_MA,3454005]]'
 follows: '[[_Standards/WikiData/WD~(134339)_5628_T-3,3454012]]'
 geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Pluto,20679649]]'
 hashtag: Pluto
-has_id_wikidata: Q339
 has_part_s_: '[[_Standards/WikiData/WD~atmosphere_of_Pluto,3628984]]'
 has_use: '[[_Standards/WikiData/WD~colonization_of_Pluto,2984276]]'
 highest_point: '[[_Standards/WikiData/WD~Tenzing_Montes,20679657]]'
 Iconclass_notation: 24C16
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pluto%20in%20True%20Color%20-%20High-Res.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Pluto%20in%20True%20Color%20-%20High-Res.jpg
 instance_of: '[[_Standards/WikiData/WD~dwarf_planet,2199]]'
 IPA_transcription: ˈpluːto
 location: '[[_Standards/WikiData/WD~outer_Solar_System,3962257]]'
@@ -44,51 +46,51 @@ named_by: '[[_Standards/WikiData/WD~Venetia_Burney,242989]]'
 OmegaWiki_Defined_Meaning: 7332
 orbital_eccentricity: 0.24880766
 orbital_inclination:
-- 17.14001206
-- 11.88
+  - 17.14001206
+  - 11.88
 orbital_period: 90553.02
 parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
 part_of: '[[_Standards/WikiData/WD~Pluto_System,108855214]]'
 periapsis:
-- 4438120030.06
-- 29.667
+  - 4438120030.06
+  - 29.667
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Pluto.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%81%E0%A6%9F%E0%A7%8B.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Pluto.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Pluto.ogg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Pluto.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%81%E0%A6%9F%E0%A7%8B.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Pluto.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Pluto.ogg
 radius: 1185
 rotation_period: 6.38723
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Yuggoth,1142280]]'
 schematic:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Internal%20Structure%20of%20Pluto%20%28de%29.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Internal%20Structure%20of%20Pluto%20%28es%29.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Internal%20Structure%20of%20Pluto%20%28it%29.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Internal%20Structure%20of%20Pluto%20af.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Internal%20Structure%20of%20Pluto%20sk.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Estrutura%20te%C3%B3rica%20de%20Plut%C3%A3o.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Internal%20Structure%20of%20Pluto-ru.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Internal%20Structure%20of%20Pluto.jpg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Internal%20Structure%20of%20Pluto%20%28de%29.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Internal%20Structure%20of%20Pluto%20%28es%29.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Internal%20Structure%20of%20Pluto%20%28it%29.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Internal%20Structure%20of%20Pluto%20af.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Internal%20Structure%20of%20Pluto%20sk.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Estrutura%20te%C3%B3rica%20de%20Plut%C3%A3o.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Internal%20Structure%20of%20Pluto-ru.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Internal%20Structure%20of%20Pluto.jpg
 semi_major_axis_of_an_orbit: 39.48211675
 significant_event: '[[_Standards/WikiData/WD~naming,25488743]]'
 site_of_astronomical_discovery: '[[_Standards/WikiData/WD~Lowell_Observatory,466895]]'
-Stack_Exchange_tag: "https://astronomy.stackexchange.com/tags/pluto"
+Stack_Exchange_tag: https://astronomy.stackexchange.com/tags/pluto
 studied_in:
-- '[[_Standards/WikiData/WD~geology_of_Pluto,20678700]]'
-- '[[_Standards/WikiData/WD~hadeology,131627505]]'
+  - '[[_Standards/WikiData/WD~geology_of_Pluto,20678700]]'
+  - '[[_Standards/WikiData/WD~hadeology,131627505]]'
 surface_gravity: 0.62
 synodic_period: 366.73
 temperature:
-- 33
-- 44
-- 55
+  - 33
+  - 44
+  - 55
 time_of_discovery_or_invention: 1930-02-18
 UMLS_CUI: C0242761
 Unicode_character:
-- ♇
-- ⯓
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/15-02652-PlutoFilm-50sec-20150714.webm"
-Wolfram_Language_entity_code: "Entity[\"MinorPlanet\", \"Pluto\"]"
+  - ♇
+  - ⯓
+video: http://commons.wikimedia.org/wiki/Special:FilePath/15-02652-PlutoFilm-50sec-20150714.webm
+Wolfram_Language_entity_code: Entity["MinorPlanet", "Pluto"]
 ---
 
 # [[Pluto(Planet)]] 

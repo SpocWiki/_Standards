@@ -1,6 +1,7 @@
 ---
 aliases:
   - Lime
+  - Lime(Fruit)
 has_id_wikidata: Q13195
 natural_product_of_taxon:
   - "[[_Standards/WikiData/WD~Citrus_aurantiifolia,165354]]"
@@ -19,13 +20,13 @@ subclass_of:
 food_energy: 30
 water_footprint: 642
 PLU_code:
-  - "4306"
-  - "4048"
-OmegaWiki_Defined_Meaning: "422609"
+  - 4306
+  - 4048
+OmegaWiki_Defined_Meaning: 422609
 USDA_NDB_number:
-  - "09159"
-  - "09160"
-  - "09161"
+  - 9159
+  - 9160
+  - 9161
 Commons_category: Limes
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Backyard%20limes.jpg

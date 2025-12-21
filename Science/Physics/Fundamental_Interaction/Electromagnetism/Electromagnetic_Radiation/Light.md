@@ -1,32 +1,34 @@
 ---
+aliases:
+  - Light
+has_id_wikidata: Q9128
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%27s%20City%20Lights%20by%20DMSP%2C%201994-1995%20%28large%29.jpg
 Colon_Classification: C5
 Commons_category: Light
 Commons_gallery: Light
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 Dewey_Decimal_Classification:
   - 535
   - 541.3533
   - 770.11
 different_from:
-  - "[[_Standards/WikiData/WD~visible_spectrum,76299]]"
-  - "[[_Standards/WikiData/WD~Light,347415]]"
-  - "[[_Standards/WikiData/WD~light,106831324]]"
-has_characteristic: "[[_Standards/WikiData/WD~spectrum,654182]]"
-has_id_wikidata: Q9128
-has_part_s_: "[[_Standards/WikiData/WD~photon,3198]]"
+  - '[[_Standards/WikiData/WD~visible_spectrum,76299]]'
+  - '[[_Standards/WikiData/WD~Light,347415]]'
+  - '[[_Standards/WikiData/WD~light,106831324]]'
+has_characteristic: '[[_Standards/WikiData/WD~spectrum,654182]]'
+has_part_s_: '[[_Standards/WikiData/WD~photon,3198]]'
 has_use:
-  - "[[_Standards/WikiData/WD~visual_system,558363]]"
-  - "[[_Standards/WikiData/WD~video_art,682010]]"
-  - "[[_Standards/WikiData/WD~art,735]]"
-  - "[[_Standards/WikiData/WD~photosynthesis,11982]]"
+  - '[[_Standards/WikiData/WD~visual_system,558363]]'
+  - '[[_Standards/WikiData/WD~video_art,682010]]'
+  - '[[_Standards/WikiData/WD~art,735]]'
+  - '[[_Standards/WikiData/WD~photosynthesis,11982]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Emanation.png
-instance_of: "[[_Standards/WikiData/WD~production_environment_factor,124326543]]"
+instance_of: '[[_Standards/WikiData/WD~production_environment_factor,124326543]]'
 Krugosvet_article: nauka_i_tehnika/fizika/SVET.html
 MeSH_tree_code:
   - G01.358.500.505.650
@@ -34,15 +36,15 @@ MeSH_tree_code:
   - G01.750.250.650
   - G01.750.770.578
 OmegaWiki_Defined_Meaning: 2158
-opposite_of: "[[_Standards/WikiData/WD~darkness,204170]]"
+opposite_of: '[[_Standards/WikiData/WD~darkness,204170]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Spectrum4websiteEval.png
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25691278,25691278]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25691278,25691278]]'
 speed: 299792458
-studied_in: "[[_Standards/WikiData/WD~optics,14620]]"
+studied_in: '[[_Standards/WikiData/WD~optics,14620]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~optical_radiation,7098889]]"
-  - "[[_Standards/WikiData/WD~electromagnetic_wave,11386]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q106841467,106841467]]"
+  - '[[_Standards/WikiData/WD~optical_radiation,7098889]]'
+  - '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q106841467,106841467]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Light%20Amplification%20by%20Stimulated%20Emission%20of%20Radiation.ogv
 ---
 

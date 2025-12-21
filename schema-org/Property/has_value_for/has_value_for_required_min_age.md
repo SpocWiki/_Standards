@@ -4,21 +4,22 @@ aliases:
   - required_min_age
   - requiredMinAge
   - has_value_for_required_min_age
+  - has value for required min age
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - required_min_age
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_required_min_age
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

@@ -1,8 +1,9 @@
 ---
-has_id_wikidata: Q411
 aliases:
   - xenology
   - exobiology
+  - Astrobiology
+has_id_wikidata: Q411
 ---
 
 # [[Astrobiology]] 

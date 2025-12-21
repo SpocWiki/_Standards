@@ -4,22 +4,24 @@ aliases:
   - application_suite
   - applicationSuite
   - has_text_of_application_suite
+  - has_application_suite
+  - has application suite
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - application
   - suite
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_application_suite
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

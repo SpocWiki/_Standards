@@ -4,21 +4,23 @@ aliases:
   - size_system_imperial
   - SizeSystemImperial
   - is_a_size_system_imperial
+  - Size_System_Imperial
+  - Size System Imperial
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: SizeSystemEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - size_system_imperial
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_size_system_imperial Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

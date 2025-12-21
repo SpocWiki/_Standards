@@ -3,24 +3,25 @@ aliases:
   - Brothers Grimm
   - Brüder Grimm
   - Gebrüder Grimm
+  - Grimm,Brothers
 has_id_wikidata: Q2793
 notable_work: "[[_Standards/WikiData/WD~Grimms'_fairy_tales,163027]]"
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]"
-  - "[[_Standards/WikiData/WD~ProDetLit,124821483]]"
-family_name: "[[_Standards/WikiData/WD~Grimm,1422706]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
+  - '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
+family_name: '[[_Standards/WikiData/WD~Grimm,1422706]]'
 floruit: 1900-01-01T00:00:00Z
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-instance_of: "[[_Standards/WikiData/WD~brother_duo,125258836]]"
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+instance_of: '[[_Standards/WikiData/WD~brother_duo,125258836]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Jacob_Grimm,6701]]"
-  - "[[_Standards/WikiData/WD~Wilhelm_Grimm,6714]]"
-field_of_work: "[[_Standards/WikiData/WD~linguistics,8162]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
-writing_language: "[[_Standards/WikiData/WD~German,188]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~German,188]]"
+  - '[[_Standards/WikiData/WD~Jacob_Grimm,6701]]'
+  - '[[_Standards/WikiData/WD~Wilhelm_Grimm,6714]]'
+field_of_work: '[[_Standards/WikiData/WD~linguistics,8162]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+writing_language: '[[_Standards/WikiData/WD~German,188]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Grimm.jpg
 name_in_native_language: Brüder Grimm
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Br%C3%B8drene%20Grimm.oga

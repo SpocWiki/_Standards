@@ -7,16 +7,16 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - encoding
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_encoding
 publish: true
-publishDate:
+publishDate: ''
 supersedes: encodings
 tags:
   - class/Relation

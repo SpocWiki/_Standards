@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Monaco
+  - Mónaco
+  - موناكو
+  - 摩纳哥
+  - Монако
+  - the Principality of Monaco
+  - el Principado de Mónaco
+has_id_wikidata: Q235
 location:
   - 43.715
   - 7.41
@@ -15,26 +24,17 @@ cssclasses:
   - Country
 publish: true
 title: Monaco
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Monaco
-  - Mónaco
-  - موناكو
-  - 摩纳哥
-  - Монако
-  - the Principality of Monaco
-  - el Principado de Mónaco
+publishDate: ""
+expiryDate: ""
 Languages:
   - fr-MC
   - en
   - it
 icon: flag-mc
-has_id_wikidata: Q235
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"

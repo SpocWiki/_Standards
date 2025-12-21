@@ -4,75 +4,76 @@ aliases:
   - Bruce Springsteen
   - Springsteen
   - the Boss
+  - Springsteen,Bruce
 has_id_wikidata: Q1225
-nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]"
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]"
-  - "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
-  - "[[_Standards/WikiData/WD~MusiCares_Person_of_the_Year,326482]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+  - '[[_Standards/WikiData/WD~MusiCares_Person_of_the_Year,326482]]'
   - "[[_Standards/WikiData/WD~MTV_Video_Music_Award_Viewer's_Choice,667066]]"
-  - "[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Male_Video,1064978]]"
-  - "[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Video_from_a_Film,1161109]]"
-  - "[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Stage_Performance,1161136]]"
-  - "[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]"
-  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
+  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Male_Video,1064978]]'
+  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Video_from_a_Film,1161109]]'
+  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Stage_Performance,1161136]]'
+  - '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]'
+  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~record_producer,183945]]"
-  - "[[_Standards/WikiData/WD~pianist,486748]]"
-  - "[[_Standards/WikiData/WD~songwriter,753110]]"
-  - "[[_Standards/WikiData/WD~guitarist,855091]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~recording_artist,55960555]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-record_label: "[[_Standards/WikiData/WD~Columbia_Records,183387]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~record_producer,183945]]'
+  - '[[_Standards/WikiData/WD~pianist,486748]]'
+  - '[[_Standards/WikiData/WD~songwriter,753110]]'
+  - '[[_Standards/WikiData/WD~guitarist,855091]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
+record_label: '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Patti_Scialfa,257083]]"
-  - "[[_Standards/WikiData/WD~Julianne_Phillips,2516986]]"
-sibling: "[[_Standards/WikiData/WD~Pamela_Springsteen,447799]]"
+  - '[[_Standards/WikiData/WD~Patti_Scialfa,257083]]'
+  - '[[_Standards/WikiData/WD~Julianne_Phillips,2516986]]'
+sibling: '[[_Standards/WikiData/WD~Pamela_Springsteen,447799]]'
 member_of:
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~E_Street_Band,1276681]]"
-given_name: "[[_Standards/WikiData/WD~Bruce,579371]]"
-discography: "[[_Standards/WikiData/WD~Bruce_Springsteen_discography,991822]]"
-place_of_birth: "[[_Standards/WikiData/WD~Long_Branch,995231]]"
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+  - '[[_Standards/WikiData/WD~E_Street_Band,1276681]]'
+given_name: '[[_Standards/WikiData/WD~Bruce,579371]]'
+discography: '[[_Standards/WikiData/WD~Bruce_Springsteen_discography,991822]]'
+place_of_birth: '[[_Standards/WikiData/WD~Long_Branch,995231]]'
 child:
-  - "[[_Standards/WikiData/WD~Jessica_Springsteen,1225089]]"
+  - '[[_Standards/WikiData/WD~Jessica_Springsteen,1225089]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Freehold_High_School,5500909]]"
-  - "[[_Standards/WikiData/WD~The_Center_for_Early_Education,7721887]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Freehold_High_School,5500909]]'
+  - '[[_Standards/WikiData/WD~The_Center_for_Early_Education,7721887]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 copyright_representative:
-  - "[[_Standards/WikiData/WD~PRS_for_Music,7120528]]"
-  - "[[_Standards/WikiData/WD~Global_Music_Rights,85249310]]"
+  - '[[_Standards/WikiData/WD~PRS_for_Music,7120528]]'
+  - '[[_Standards/WikiData/WD~Global_Music_Rights,85249310]]'
 Bluesky_handle: officialbruce.bsky.social
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Bruce_Springsteen,10514550]]"
-family_name: "[[_Standards/WikiData/WD~Springsteen,21475355]]"
+  - '[[_Standards/WikiData/WD~Template_Bruce_Springsteen,10514550]]'
+family_name: '[[_Standards/WikiData/WD~Springsteen,21475355]]'
 Plex_person_key: 5d77682661141d001fb13594
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Karen_Darvin,124375270]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
+  - '[[_Standards/WikiData/WD~Karen_Darvin,124375270]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 native_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
 instrument:
-  - "[[_Standards/WikiData/WD~piano,5994]]"
-  - "[[_Standards/WikiData/WD~guitar,6607]]"
-  - "[[_Standards/WikiData/WD~harmonica,51290]]"
+  - '[[_Standards/WikiData/WD~piano,5994]]'
+  - '[[_Standards/WikiData/WD~guitar,6607]]'
+  - '[[_Standards/WikiData/WD~harmonica,51290]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~blues,9759]]"
-  - "[[_Standards/WikiData/WD~rock_music,11399]]"
-  - "[[_Standards/WikiData/WD~folk_music,43343]]"
-genre: "[[_Standards/WikiData/WD~rock_music,11399]]"
-voice_type: "[[_Standards/WikiData/WD~baritone,31687]]"
+  - '[[_Standards/WikiData/WD~blues,9759]]'
+  - '[[_Standards/WikiData/WD~rock_music,11399]]'
+  - '[[_Standards/WikiData/WD~folk_music,43343]]'
+genre: '[[_Standards/WikiData/WD~rock_music,11399]]'
+voice_type: '[[_Standards/WikiData/WD~baritone,31687]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 height: 1.77
 social_media_followers:
   - 2210000
@@ -80,7 +81,7 @@ social_media_followers:
 Commons_gallery: Bruce Springsteen
 Commons_category: Bruce Springsteen
 Libris_URI: 97mpsg2t0gfwh9t
-P8189: "987007268436405171"
+P8189: 987007268436405171
 Europeana_entity: agent/base/60596
 Facebook_username: brucespringsteen
 subreddit:
@@ -99,8 +100,8 @@ pseudonym:
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bruce%20Springsteen%20-%20Roskilde%20Festival%202012.jpg
 official_website: https://brucespringsteen.net/
 official_shop_URL: https://brucespringsteen.store/
-ISNI: "0000000121418834"
-IPI_name_number: "00076333277"
+ISNI: 0000000121418834
+IPI_name_number: 00076333277
 ---
 
 # [[Springsteen,Bruce]] 

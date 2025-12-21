@@ -3,14 +3,16 @@ aliases:
   - design of experiments
   - experiment design
   - experimental design
+  - Design_of_Experiments
+  - Design of Experiments
 has_id_wikidata: Q2334061
-subclass_of: "[[_Standards/WikiData/WD~planning,309100]]"
-has_use: "[[_Standards/WikiData/WD~economic_production,739302]]"
+subclass_of: '[[_Standards/WikiData/WD~planning,309100]]'
+has_use: '[[_Standards/WikiData/WD~economic_production,739302]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~method,1799072]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Experimental_design,15402021]]"
-part_of: "[[_Standards/WikiData/WD~statistics,12483]]"
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~method,1799072]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Experimental_design,15402021]]'
+part_of: '[[_Standards/WikiData/WD~statistics,12483]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DOE%20-%20Modell%20f%C3%BCr%203%20Faktoren.svg
 Commons_category: Design of experiments
 ---

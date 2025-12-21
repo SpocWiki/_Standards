@@ -1,21 +1,22 @@
 ---
 aliases:
   - Triton
+  - Triton(Moon)
 has_id_wikidata: Q3359
-discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Lassell,110869]]"
-named_after: "[[_Standards/WikiData/WD~Triton,148030]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Lassell,110869]]'
+named_after: '[[_Standards/WikiData/WD~Triton,148030]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Atmosphere_of_Triton,1018119]]"
-  - "[[_Standards/WikiData/WD~Climate_of_Triton,125768507]]"
+  - '[[_Standards/WikiData/WD~Atmosphere_of_Triton,1018119]]'
+  - '[[_Standards/WikiData/WD~Climate_of_Triton,125768507]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~irregular_moon,1632885]]"
-  - "[[_Standards/WikiData/WD~moon_of_Neptune,2139]]"
+  - '[[_Standards/WikiData/WD~irregular_moon,1632885]]'
+  - '[[_Standards/WikiData/WD~moon_of_Neptune,2139]]'
 time_of_discovery_or_invention: 1846-10-10T00:00:00Z
 orbital_period: -5.876854
-parent_astronomical_body: "[[_Standards/WikiData/WD~Neptune,332]]"
-different_from: "[[_Standards/WikiData/WD~Titan,2565]]"
+parent_astronomical_body: '[[_Standards/WikiData/WD~Neptune,332]]'
+different_from: '[[_Standards/WikiData/WD~Titan,2565]]'
 absolute_magnitude: -1.2
-site_of_astronomical_discovery: "[[_Standards/WikiData/WD~England,21]]"
+site_of_astronomical_discovery: '[[_Standards/WikiData/WD~England,21]]'
 orbital_eccentricity: 0.000016
 diameter: 2700
 temperature: 38

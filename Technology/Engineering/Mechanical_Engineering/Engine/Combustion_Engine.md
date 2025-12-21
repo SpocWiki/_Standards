@@ -1,26 +1,28 @@
 ---
 aliases:
-- "combustion engine"
-- "Internal combustion engine"
+  - combustion engine
+  - Internal combustion engine
+  - Combustion_Engine
+  - Combustion Engine
+has_id_wikidata: Q12757
 Colon_Classification: D646
-Commons_category: "Internal combustion engines"
+Commons_category: Internal combustion engines
 described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Dewey_Decimal_Classification:
-- 629.25
-- 621.43
-- 623.8723
+  - 629.25
+  - 621.43
+  - 623.8723
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Nicolaus_Otto,75782]]'
-- '[[_Standards/WikiData/WD~Rudolf_Diesel,12674]]'
+  - '[[_Standards/WikiData/WD~Nicolaus_Otto,75782]]'
+  - '[[_Standards/WikiData/WD~Rudolf_Diesel,12674]]'
 has_characteristic: '[[_Standards/WikiData/WD~combustion,133235]]'
 has_effect: '[[_Standards/WikiData/WD~air_pollution,131123]]'
-has_id_wikidata: Q12757
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~internal_combustion_engine_component,5156698]]'
 image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Turbofan3%20Unlabelled.gif"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Diesel%20Engine%20%284%20cycle%20running%29.gif"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Qt-Flash-Final.gif"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Wankel%20Cycle%20anim.gif"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Turbofan3%20Unlabelled.gif
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Diesel%20Engine%20%284%20cycle%20running%29.gif
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Qt-Flash-Final.gif
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wankel%20Cycle%20anim.gif
 OmegaWiki_Defined_Meaning: 1201812
 opposite_of: '[[_Standards/WikiData/WD~external_combustion_engine,843537]]'
 produced_sound: '[[_Standards/WikiData/WD~engine_noise,1949792]]'

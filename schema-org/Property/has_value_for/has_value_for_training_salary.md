@@ -4,21 +4,22 @@ aliases:
   - training-salary
   - trainingSalary
   - has_value_for_training_salary
+  - has value for training salary
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - training-salary
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_training-salary
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

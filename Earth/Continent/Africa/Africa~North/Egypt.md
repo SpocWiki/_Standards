@@ -8,6 +8,7 @@ aliases:
   - Египет
   - the Arab Republic of Egypt
   - la República Árabe de Egipto
+has_id_wikidata: Q79
 BTI_Status_Index:
   - 4.13
   - 4.2
@@ -262,7 +263,7 @@ emergency_phone_number:
   - "[[_Standards/WikiData/WD~122,25648812]]"
   - "[[_Standards/WikiData/WD~123,25648825]]"
   - "[[_Standards/WikiData/WD~180,25648853]]"
-expiryDate:
+expiryDate: ""
 flag: "[[_Standards/WikiData/WD~flag_of_Egypt,130458]]"
 female_population:
   - 52189268
@@ -282,7 +283,6 @@ hashtag: Egypt
 has_time_started: 1922-02-28
 has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 head_of_government: "[[_Standards/WikiData/WD~Mostafa_Madbouly,54901515]]"
-has_id_wikidata: Q79
 instance_of:
   - "[[_Standards/WikiData/WD~transcontinental_country,1323642]]"
   - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
@@ -292,7 +292,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/All%20Gizah%20Pyramids
 inception: 1922-02-28
 isDeleted: false
 isReadOnly: false
-keywords:
+keywords: ""
 lowest_point: "[[_Standards/WikiData/WD~Qattara_Depression,841050]]"
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Egypt,2584535]]"
 language_used:
@@ -323,8 +323,8 @@ location:
   - 30.015
   - 31.9
 license: CC BY-SA 4.0
-linkTitle:
-layout:
+linkTitle: ""
+layout: ""
 member_of:
   - "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
   - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
@@ -397,7 +397,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-%C3%84gypten2.ogg
 population: 114535772
 publish: true
-publishDate:
+publishDate: ""
 replaces:
   - "[[_Standards/WikiData/WD~Kingdom_of_Egypt,124943]]"
   - "[[_Standards/WikiData/WD~All-Palestine_Government,2051582]]"

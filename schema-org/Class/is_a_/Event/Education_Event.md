@@ -4,20 +4,22 @@ aliases:
   - education_event
   - EducationEvent
   - is_an_education_event
+  - Education_Event
+  - Education Event
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - education_event
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_education_event Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

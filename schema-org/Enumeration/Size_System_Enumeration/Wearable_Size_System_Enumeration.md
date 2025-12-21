@@ -4,20 +4,22 @@ aliases:
   - wearable_size_system_enumeration
   - WearableSizeSystemEnumeration
   - is_a_wearable_size_system_enumeration
+  - Wearable_Size_System_Enumeration
+  - Wearable Size System Enumeration
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_size_system_enumeration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_size_system_enumeration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

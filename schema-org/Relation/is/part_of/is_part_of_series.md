@@ -1,31 +1,32 @@
 ---
 aliases:
-- part-of-series
-- part_of_series
-- partOfSeries
-- is_part_of_series
-- partOfTVSeries
+  - part-of-series
+  - part_of_series
+  - partOfSeries
+  - is_part_of_series
+  - partOfTVSeries
+  - is part of series
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- part
-- of
-- series
-layout: 
-license: "CC BY-SA 4.0"
+  - part
+  - of
+  - series
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: is_part_of_series
 publish: true
-publishDate: 
+publishDate: ''
 supersedes: partOfTVSeries
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_part_of_series
 type: Predi_Relation
 ---

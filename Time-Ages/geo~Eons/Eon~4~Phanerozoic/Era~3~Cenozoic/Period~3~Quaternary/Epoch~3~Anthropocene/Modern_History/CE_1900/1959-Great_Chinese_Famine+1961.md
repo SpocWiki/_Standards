@@ -1,8 +1,10 @@
 ---
 aliases:
   - Great Chinese Famine
+  - 1959-Great_Chinese_Famine+1961
+  - 1959-Great Chinese Famine+1961
 has_id_wikidata: Q2454958
-instance_of: "[[_Standards/WikiData/WD~famine,168247]]"
+instance_of: '[[_Standards/WikiData/WD~famine,168247]]'
 has_cause: "[[_Standards/WikiData/WD~people's_commune,1153975]]"
 country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 number_of_deaths:

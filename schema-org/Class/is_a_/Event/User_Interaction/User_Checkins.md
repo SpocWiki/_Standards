@@ -4,20 +4,22 @@ aliases:
   - user_checkins
   - UserCheckins
   - is_a_user_checkins
+  - User_Checkins
+  - User Checkins
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - user_checkins
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_user_checkins Class
 publish: true
-publishDate:
+publishDate: ''
 superseded_by: InteractionCounter
 tags:
   - class/Class

@@ -2,20 +2,21 @@
 aliases:
   - division
   - military division
+  - Division(Military)
 has_id_wikidata: Q169534
 different_from:
-  - "[[_Standards/WikiData/WD~division,334460]]"
-  - "[[_Standards/WikiData/WD~division,4161250]]"
+  - '[[_Standards/WikiData/WD~division,334460]]'
+  - '[[_Standards/WikiData/WD~division,4161250]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~large_unit,9392615]]"
-  - "[[_Standards/WikiData/WD~size_specific_military_unit,66737643]]"
-instance_of: "[[_Standards/WikiData/WD~military_unit_size_class,21506450]]"
+  - '[[_Standards/WikiData/WD~large_unit,9392615]]'
+  - '[[_Standards/WikiData/WD~size_specific_military_unit,66737643]]'
+instance_of: '[[_Standards/WikiData/WD~military_unit_size_class,21506450]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Infantry%20Division%20Nato.svg
 Commons_category: Divisions
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
   - Fabel
+  - Fable
 has_id_wikidata: Q693
 different_from:
-  - "[[_Standards/WikiData/WD~fabel,82935]]"
-  - "[[_Standards/WikiData/WD~story,217086]]"
-  - "[[_Standards/WikiData/WD~beast_fable,2516435]]"
-instance_of: "[[_Standards/WikiData/WD~literary_genre,223393]]"
+  - '[[_Standards/WikiData/WD~fabel,82935]]'
+  - '[[_Standards/WikiData/WD~story,217086]]'
+  - '[[_Standards/WikiData/WD~beast_fable,2516435]]'
+instance_of: '[[_Standards/WikiData/WD~literary_genre,223393]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~folk_tale,1221280]]"
-  - "[[_Standards/WikiData/WD~allegorical_story,109588548]]"
-practiced_by: "[[_Standards/WikiData/WD~fabulist,3064032]]"
-intended_public: "[[_Standards/WikiData/WD~child,7569]]"
-Iconclass_notation: "85"
+  - '[[_Standards/WikiData/WD~folk_tale,1221280]]'
+  - '[[_Standards/WikiData/WD~allegorical_story,109588548]]'
+practiced_by: '[[_Standards/WikiData/WD~fabulist,3064032]]'
+intended_public: '[[_Standards/WikiData/WD~child,7569]]'
+Iconclass_notation: 85
 IMDb_keyword: fable
 Commons_category: Fables
 image:

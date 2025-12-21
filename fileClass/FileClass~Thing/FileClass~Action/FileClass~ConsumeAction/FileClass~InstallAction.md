@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~InstallAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/InstallAction
-- class/Thing/Action/ConsumeAction/InstallAction
-- is_an_/InstallAction
-- schema-org/InstallAction
+  - class/InstallAction
+  - class/Thing/Action/ConsumeAction/InstallAction
+  - is_an_/InstallAction
+  - schema-org/InstallAction
 tags:
-- class/FileClass
-- class/InstallAction
-- '#is_an_/InstallAction'
-- class/Thing/Action/ConsumeAction/InstallAction
+  - class/FileClass
+  - class/InstallAction
+  - '#is_an_/InstallAction'
+  - class/Thing/Action/ConsumeAction/InstallAction
 version: 2.0
 ---
 

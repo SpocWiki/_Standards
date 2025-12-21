@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Haber Process"
-- "Haber–Bosch Process"
+  - Haber Process
+  - Haber–Bosch Process
+  - Haber–Bosch_Process
 ---
 
 This is the most important chemical Process. 2% of Energy is being invested to that. 

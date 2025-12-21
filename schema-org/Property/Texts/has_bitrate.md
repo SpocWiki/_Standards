@@ -4,21 +4,23 @@ aliases:
   - bitrate
   - bitrate
   - has_text_of_bitrate
+  - has_bitrate
+  - has bitrate
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - bitrate
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_bitrate
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

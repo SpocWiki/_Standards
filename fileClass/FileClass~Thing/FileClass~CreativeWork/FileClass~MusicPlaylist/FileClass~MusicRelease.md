@@ -1,50 +1,52 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MusicRelease
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist
 fields:
-- id: A7hNpl
-  name: CatalogNumber
-  options: {}
-  type: Input
-  path: ''
-- id: 4uUust
-  name: CreditedTo
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: XWa8O8
-  name: Duration
-  options:
-    min: 0
-    max: 2359
-  type: Number
-  path: ''
-- id: 3NXbm5
-  name: RecordLabel
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: BVqBA2
-  name: ReleaseOf
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicAlbum')"
-  type: MultiFile
-  path: ''
+  - id: A7hNpl
+    name: CatalogNumber
+    options: {}
+    type: Input
+    path: ''
+  - id: 4uUust
+    name: CreditedTo
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: XWa8O8
+    name: Duration
+    options:
+      min: 0
+      max: 2359
+    type: Number
+    path: ''
+  - id: 3NXbm5
+    name: RecordLabel
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: BVqBA2
+    name: ReleaseOf
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicAlbum')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MusicRelease
-- class/Thing/CreativeWork/MusicPlaylist/MusicRelease
-- is_a_/MusicRelease
-- schema-org/MusicRelease
+  - class/MusicRelease
+  - class/Thing/CreativeWork/MusicPlaylist/MusicRelease
+  - is_a_/MusicRelease
+  - schema-org/MusicRelease
 tags:
-- class/FileClass
-- class/MusicRelease
-- is_a_/MusicRelease
-- class/Thing/CreativeWork/MusicPlaylist/MusicRelease
+  - class/FileClass
+  - class/MusicRelease
+  - is_a_/MusicRelease
+  - class/Thing/CreativeWork/MusicPlaylist/MusicRelease
 version: 2.0
 ---
 

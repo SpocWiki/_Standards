@@ -3,12 +3,13 @@ aliases:
   - has opening-hours-specification
   - openingHoursSpecification
   - has_opening_hours_specification
+  - has opening hours specification
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - opening
   - hours
   - specification
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_opening_hours_specification
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -4,22 +4,24 @@ aliases:
   - educational_role
   - educationalRole
   - has_text_of_educational_role
+  - has_educational_role
+  - has educational role
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - educational
   - role
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_educational_role
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

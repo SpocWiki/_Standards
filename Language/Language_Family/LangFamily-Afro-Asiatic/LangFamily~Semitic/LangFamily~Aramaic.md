@@ -5,24 +5,25 @@ aliases:
   - ˀərāmiṯ
   - ܐܪܡܐܝܬ
   - arāmāˀiṯ
+  - LangFamily~Aramaic
 has_id_wikidata: Q28602
-subclass_of: "[[_Standards/WikiData/WD~Northwest_Semitic,162996]]"
-linguistic_typology: "[[_Standards/WikiData/WD~verb_subject_object,166097]]"
-studied_by: "[[_Standards/WikiData/WD~Aramaic_studies,625699]]"
+subclass_of: '[[_Standards/WikiData/WD~Northwest_Semitic,162996]]'
+linguistic_typology: '[[_Standards/WikiData/WD~verb_subject_object,166097]]'
+studied_by: '[[_Standards/WikiData/WD~Aramaic_studies,625699]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_Biblical_Criticism_and_Interpretation_(2007_ed.),21065550]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-instance_of: "[[_Standards/WikiData/WD~genetic_unit,1502101]]"
-follows: "[[_Standards/WikiData/WD~Old_Aramaic,3398392]]"
-different_from: "[[_Standards/WikiData/WD~Aranese,10196]]"
-followed_by: "[[_Standards/WikiData/WD~Chaldean_Neo_Aramaic,33236]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_Biblical_Criticism_and_Interpretation_(2007_ed.),21065550]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[_Standards/WikiData/WD~genetic_unit,1502101]]'
+follows: '[[_Standards/WikiData/WD~Old_Aramaic,3398392]]'
+different_from: '[[_Standards/WikiData/WD~Aranese,10196]]'
+followed_by: '[[_Standards/WikiData/WD~Chaldean_Neo_Aramaic,33236]]'
 number_of_speakers_writers_or_signers: 445000
-OmegaWiki_Defined_Meaning: "1068234"
+OmegaWiki_Defined_Meaning: 1068234
 POSIX_locale_identifier: arc
 Wikimedia_language_code: arc
 Linguasphere_code: 12-AAA
@@ -32,7 +33,7 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/ARAMESKI_YAZIK.html
 GOST_7_75_97_code: аре 052
 native_label: ܠܫܢܐ ܐܪܡܝܐ
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aramaic%20written%20using%20Syriac%20letters%20%28%DC%90%DC%AA%DC%A1%DC%9D%DC%90%29.svg
-Dewey_Decimal_Classification: "492.29"
+Dewey_Decimal_Classification: 492.29
 ---
 
 # [[LangFamily~Aramaic]] 

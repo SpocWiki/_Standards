@@ -1,26 +1,27 @@
 ---
 aliases:
   - Multikulturalismus
+  - Multiculturalism
 has_id_wikidata: Q190656
-studied_by: "[[_Standards/WikiData/WD~sociolinguistics,160845]]"
+studied_by: '[[_Standards/WikiData/WD~sociolinguistics,160845]]'
 part_of:
-  - "[[_Standards/WikiData/WD~social_philosophy,180592]]"
-  - "[[_Standards/WikiData/WD~social_policy,23542337]]"
+  - '[[_Standards/WikiData/WD~social_philosophy,180592]]'
+  - '[[_Standards/WikiData/WD~social_policy,23542337]]'
 opposite_of:
-  - "[[_Standards/WikiData/WD~Leitkultur,450461]]"
-  - "[[_Standards/WikiData/WD~melting_pot,862085]]"
-  - "[[_Standards/WikiData/WD~monoculturalism,6238114]]"
+  - '[[_Standards/WikiData/WD~Leitkultur,450461]]'
+  - '[[_Standards/WikiData/WD~melting_pot,862085]]'
+  - '[[_Standards/WikiData/WD~monoculturalism,6238114]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Canon_of_Dutch_History,907660]]"
-  - "[[_Standards/WikiData/WD~Q31448685,31448685]]"
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-  - "[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602]]"
+  - '[[_Standards/WikiData/WD~Canon_of_Dutch_History,907660]]'
+  - '[[_Standards/WikiData/WD~Q31448685,31448685]]'
+  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+  - '[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602]]'
 different_from:
-  - "[[_Standards/WikiData/WD~polyculturalism,3907285]]"
-  - "[[_Standards/WikiData/WD~multiracialism,6935057]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~multicultural_society,20820002]]"
-instance_of: "[[_Standards/WikiData/WD~ideology,7257]]"
+  - '[[_Standards/WikiData/WD~polyculturalism,3907285]]'
+  - '[[_Standards/WikiData/WD~multiracialism,6935057]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~multicultural_society,20820002]]'
+instance_of: '[[_Standards/WikiData/WD~ideology,7257]]'
 Krugosvet_article_archived_: istoriya/MULTIKULTURNOE_OBSHCHESTVO.html
 Commons_category: Multiculturalism
 ---

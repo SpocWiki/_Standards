@@ -3,6 +3,7 @@ aliases:
   - Médecins Sans Frontières
   - Doctors Without Borders
   - Ärzte ohne Grenzen
+  - Médecins_Sans_Frontières
 has_id_wikidata: Q49330
 Commons_category: Médecins sans frontières
 Krugosvet_article_archived_: medicina/VRACHI_BEZ_GRANITS.html
@@ -17,51 +18,51 @@ short_name:
   - MSF
   - MSF
 instance_of:
-  - "[[_Standards/WikiData/WD~non_governmental_organization,79913]]"
-  - "[[_Standards/WikiData/WD~charitable_organization,708676]]"
-  - "[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]"
-  - "[[_Standards/WikiData/WD~voluntary_health_agencies,70441508]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
-  - "[[_Standards/WikiData/WD~federation,43702]]"
+  - '[[_Standards/WikiData/WD~non_governmental_organization,79913]]'
+  - '[[_Standards/WikiData/WD~charitable_organization,708676]]'
+  - '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]'
+  - '[[_Standards/WikiData/WD~voluntary_health_agencies,70441508]]'
+  - '[[_Standards/WikiData/WD~organization,43229]]'
+  - '[[_Standards/WikiData/WD~federation,43702]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Lasker_Bloomberg_Public_Service_Award,136699]]"
-  - "[[_Standards/WikiData/WD~European_Human_Rights_Prize,936956]]"
-  - "[[_Standards/WikiData/WD~The_Glass_of_Reason,1168476]]"
-  - "[[_Standards/WikiData/WD~Erich_Kästner_award,1351845]]"
-  - "[[_Standards/WikiData/WD~Indira_Gandhi_Peace_Prize,3241794]]"
-  - "[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Concord,3323440]]"
-  - "[[_Standards/WikiData/WD~J._William_Fulbright_Prize,6565314]]"
-  - "[[_Standards/WikiData/WD~Livingstone_Medal,10568200]]"
-  - "[[_Standards/WikiData/WD~LennonOno_Grant_for_Peace,13582570]]"
-  - "[[_Standards/WikiData/WD~Four_Freedoms_Award_Freedom_from_Want,20204998]]"
-  - "[[_Standards/WikiData/WD~Chatham_House_Prize,20266950]]"
-  - "[[_Standards/WikiData/WD~Pardes_Humanitarian_Prize_in_Mental_Health,50227997]]"
-  - "[[_Standards/WikiData/WD~Josep_Trueta_Plaque,76703551]]"
-official_observer_status_in_organization: "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
+  - '[[_Standards/WikiData/WD~Lasker_Bloomberg_Public_Service_Award,136699]]'
+  - '[[_Standards/WikiData/WD~European_Human_Rights_Prize,936956]]'
+  - '[[_Standards/WikiData/WD~The_Glass_of_Reason,1168476]]'
+  - '[[_Standards/WikiData/WD~Erich_Kästner_award,1351845]]'
+  - '[[_Standards/WikiData/WD~Indira_Gandhi_Peace_Prize,3241794]]'
+  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Concord,3323440]]'
+  - '[[_Standards/WikiData/WD~J._William_Fulbright_Prize,6565314]]'
+  - '[[_Standards/WikiData/WD~Livingstone_Medal,10568200]]'
+  - '[[_Standards/WikiData/WD~LennonOno_Grant_for_Peace,13582570]]'
+  - '[[_Standards/WikiData/WD~Four_Freedoms_Award_Freedom_from_Want,20204998]]'
+  - '[[_Standards/WikiData/WD~Chatham_House_Prize,20266950]]'
+  - '[[_Standards/WikiData/WD~Pardes_Humanitarian_Prize_in_Mental_Health,50227997]]'
+  - '[[_Standards/WikiData/WD~Josep_Trueta_Plaque,76703551]]'
+official_observer_status_in_organization: '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
 founded_by:
-  - "[[_Standards/WikiData/WD~Q206327,206327]]"
-  - "[[_Standards/WikiData/WD~Philippe_Bernier,2087524]]"
-  - "[[_Standards/WikiData/WD~Marcel_Delcourt,3288868]]"
-  - "[[_Standards/WikiData/WD~Vladan_Radoman,3561740]]"
-  - "[[_Standards/WikiData/WD~Xavier_Emmanuelli,3570666]]"
-  - "[[_Standards/WikiData/WD~Raymond_Borel,7298607]]"
-  - "[[_Standards/WikiData/WD~Jacques_Bérès,20851338]]"
-  - "[[_Standards/WikiData/WD~Max_Récamier,123270507]]"
-different_from: "[[_Standards/WikiData/WD~Médecins_du_Monde,256538]]"
-legal_form: "[[_Standards/WikiData/WD~association,15177651]]"
-director_manager: "[[_Standards/WikiData/WD~Jacques_Bérès,20851338]]"
+  - '[[_Standards/WikiData/WD~Q206327,206327]]'
+  - '[[_Standards/WikiData/WD~Philippe_Bernier,2087524]]'
+  - '[[_Standards/WikiData/WD~Marcel_Delcourt,3288868]]'
+  - '[[_Standards/WikiData/WD~Vladan_Radoman,3561740]]'
+  - '[[_Standards/WikiData/WD~Xavier_Emmanuelli,3570666]]'
+  - '[[_Standards/WikiData/WD~Raymond_Borel,7298607]]'
+  - '[[_Standards/WikiData/WD~Jacques_Bérès,20851338]]'
+  - '[[_Standards/WikiData/WD~Max_Récamier,123270507]]'
+different_from: '[[_Standards/WikiData/WD~Médecins_du_Monde,256538]]'
+legal_form: '[[_Standards/WikiData/WD~association,15177651]]'
+director_manager: '[[_Standards/WikiData/WD~Jacques_Bérès,20851338]]'
 child_organization_or_unit:
-  - "[[_Standards/WikiData/WD~Médecins_Sans_Frontières,55454572]]"
-  - "[[_Standards/WikiData/WD~Leger_Uten_Grenser,99941632]]"
+  - '[[_Standards/WikiData/WD~Médecins_Sans_Frontières,55454572]]'
+  - '[[_Standards/WikiData/WD~Leger_Uten_Grenser,99941632]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Ärzte_ohne_Grenzen,68487687]]"
-  - "[[_Standards/WikiData/WD~Leger_Uten_Grenser,99941632]]"
-described_by_source: "[[_Standards/WikiData/WD~Medvik,99413897]]"
-chief_executive_officer: "[[_Standards/WikiData/WD~Christos_Christou,100185256]]"
-has_characteristic: "[[_Standards/WikiData/WD~United_Nations_General_Consultative_Status,131925847]]"
-country: "[[_Standards/WikiData/WD~Switzerland,39]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Geneva,71]]"
+  - '[[_Standards/WikiData/WD~Ärzte_ohne_Grenzen,68487687]]'
+  - '[[_Standards/WikiData/WD~Leger_Uten_Grenser,99941632]]'
+described_by_source: '[[_Standards/WikiData/WD~Medvik,99413897]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Christos_Christou,100185256]]'
+has_characteristic: '[[_Standards/WikiData/WD~United_Nations_General_Consultative_Status,131925847]]'
+country: '[[_Standards/WikiData/WD~Switzerland,39]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Geneva,71]]'
 total_revenue: 1901707000
 inception: 1971-12-21T00:00:00Z
 official_donation_page_URL: https://www.msf.org/donate
@@ -71,8 +72,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/MSF%20HQ.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/This%20is%20Doctors%20Without%20Borders-M%C3%A9decins%20Sans%20Fronti%C3%A8res%20%28MSF%29.webm
 official_website: https://www.msf.org
 ISNI:
-  - "0000000110129674"
-  - "0000000121902765"
+  - 0000000110129674
+  - 0000000121902765
 TikTok_username: doctorswithoutborders
 Instagram_username: doctorswithoutborders
 ---

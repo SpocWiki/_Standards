@@ -4,22 +4,24 @@ aliases:
   - text_value
   - textValue
   - has_text_of_text_value
+  - has_text_value
+  - has text value
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - text
   - value
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_text_value
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

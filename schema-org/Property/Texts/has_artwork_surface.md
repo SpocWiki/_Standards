@@ -4,22 +4,24 @@ aliases:
   - artwork_surface
   - artworkSurface
   - has_text_of_artwork_surface
+  - has_artwork_surface
+  - has artwork surface
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - artwork
   - surface
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_artwork_surface
 publish: true
-publishDate:
+publishDate: ''
 supersedes: surface
 tags:
   - class/Property

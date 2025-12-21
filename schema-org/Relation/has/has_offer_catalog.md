@@ -3,23 +3,24 @@ aliases:
   - has-offer-catalog
   - hasOfferCatalog
   - has_offer_catalog
+  - has offer catalog
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - offer_catalog
   - offer
   - catalog
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_offer_catalog
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

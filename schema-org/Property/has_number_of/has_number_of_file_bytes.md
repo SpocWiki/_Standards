@@ -4,22 +4,23 @@ aliases:
   - file_bytes
   - fileSize
   - has_number_of_file_bytes
+  - has number of file bytes
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - file
   - size
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_file_bytes
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

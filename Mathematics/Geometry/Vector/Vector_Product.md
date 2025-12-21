@@ -1,7 +1,9 @@
 ---
 aliases:
-  - cross product 
+  - cross product
   - vector product
+  - Vector_Product
+  - Vector Product
 has_id_wikidata: Q178192
 subclass_of:
   - "[[_Standards/WikiData/WD~binary_operation,164307]]"

@@ -2,47 +2,48 @@
 aliases:
   - The Thinker
   - Le Penseur
+  - The_Thinker
 has_id_wikidata: Q18003128
 made_from_material:
-  - "[[_Standards/WikiData/WD~gypsum,82658]]"
-  - "[[_Standards/WikiData/WD~bronze,34095]]"
+  - '[[_Standards/WikiData/WD~gypsum,82658]]'
+  - '[[_Standards/WikiData/WD~bronze,34095]]'
 depicts:
-  - "[[_Standards/WikiData/WD~meditation,108458]]"
-  - "[[_Standards/WikiData/WD~sitting,1144593]]"
-  - "[[_Standards/WikiData/WD~Q1067,1067]]"
-  - "[[_Standards/WikiData/WD~man,8441]]"
-  - "[[_Standards/WikiData/WD~thought,9420]]"
-  - "[[_Standards/WikiData/WD~nudity,10791]]"
+  - '[[_Standards/WikiData/WD~meditation,108458]]'
+  - '[[_Standards/WikiData/WD~sitting,1144593]]'
+  - '[[_Standards/WikiData/WD~Q1067,1067]]'
+  - '[[_Standards/WikiData/WD~man,8441]]'
+  - '[[_Standards/WikiData/WD~thought,9420]]'
+  - '[[_Standards/WikiData/WD~nudity,10791]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~The_Thinker,154571]]"
-  - "[[_Standards/WikiData/WD~The_Thinker,60759083]]"
-  - "[[_Standards/WikiData/WD~The_Thinker_(Le_Penseur),63809256]]"
-  - "[[_Standards/WikiData/WD~Q111696473,111696473]]"
-  - "[[_Standards/WikiData/WD~The_Thinker,124317654]]"
-  - "[[_Standards/WikiData/WD~The_Thinker,125320832]]"
-  - "[[_Standards/WikiData/WD~Le_Penseur_(Kyoto_National_Museum),130544842]]"
-  - "[[_Standards/WikiData/WD~The_Thinker,131825354]]"
+  - '[[_Standards/WikiData/WD~The_Thinker,154571]]'
+  - '[[_Standards/WikiData/WD~The_Thinker,60759083]]'
+  - '[[_Standards/WikiData/WD~The_Thinker_(Le_Penseur),63809256]]'
+  - '[[_Standards/WikiData/WD~Q111696473,111696473]]'
+  - '[[_Standards/WikiData/WD~The_Thinker,124317654]]'
+  - '[[_Standards/WikiData/WD~The_Thinker,125320832]]'
+  - '[[_Standards/WikiData/WD~Le_Penseur_(Kyoto_National_Museum),130544842]]'
+  - '[[_Standards/WikiData/WD~The_Thinker,131825354]]'
 collection:
-  - "[[_Standards/WikiData/WD~Alte_Nationalgalerie,162111]]"
-  - "[[_Standards/WikiData/WD~Musée_Rodin,650519]]"
+  - '[[_Standards/WikiData/WD~Alte_Nationalgalerie,162111]]'
+  - '[[_Standards/WikiData/WD~Musée_Rodin,650519]]'
 location:
-  - "[[_Standards/WikiData/WD~Musée_Rodin,650519]]"
-  - "[[_Standards/WikiData/WD~Strasbourg_Museum_of_Modern_and_Contemporary_Art,845468]]"
-  - "[[_Standards/WikiData/WD~Buenos_Aires,1486]]"
+  - '[[_Standards/WikiData/WD~Musée_Rodin,650519]]'
+  - '[[_Standards/WikiData/WD~Strasbourg_Museum_of_Modern_and_Contemporary_Art,845468]]'
+  - '[[_Standards/WikiData/WD~Buenos_Aires,1486]]'
 creator:
-  - "[[_Standards/WikiData/WD~Fonderie_Hébrard,3075740]]"
-  - "[[_Standards/WikiData/WD~Auguste_Rodin,30755]]"
-has_list: "[[_Standards/WikiData/WD~list_of_Thinker_sculptures,6600224]]"
-different_from: "[[_Standards/WikiData/WD~list_of_Thinker_sculptures,6600224]]"
-significant_event: "[[_Standards/WikiData/WD~start_of_construction,27136782]]"
-instance_of: "[[_Standards/WikiData/WD~group_of_casts,28890616]]"
-has_part_s_: "[[_Standards/WikiData/WD~Le_Penseur_(Kyoto_National_Museum),130544842]]"
+  - '[[_Standards/WikiData/WD~Fonderie_Hébrard,3075740]]'
+  - '[[_Standards/WikiData/WD~Auguste_Rodin,30755]]'
+has_list: '[[_Standards/WikiData/WD~list_of_Thinker_sculptures,6600224]]'
+different_from: '[[_Standards/WikiData/WD~list_of_Thinker_sculptures,6600224]]'
+significant_event: '[[_Standards/WikiData/WD~start_of_construction,27136782]]'
+instance_of: '[[_Standards/WikiData/WD~group_of_casts,28890616]]'
+has_part_s_: '[[_Standards/WikiData/WD~Le_Penseur_(Kyoto_National_Museum),130544842]]'
 inception: 1882-01-01T00:00:00Z
 thickness: 140
 width: 98
 height: 189
-based_on: "[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]"
-genre: "[[_Standards/WikiData/WD~nude,40446]]"
+based_on: '[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]'
+genre: '[[_Standards/WikiData/WD~nude,40446]]'
 title:
   - Le Poète
   - Le Penseur

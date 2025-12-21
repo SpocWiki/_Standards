@@ -4,13 +4,15 @@ aliases:
   - cult of the leader
   - Personenkult
   - Führerkult
+  - Cult_of_Personality
+  - Cult of Personality
 has_id_wikidata: Q192914
-subclass_of: "[[_Standards/WikiData/WD~cult,756820]]"
-opposite_of: "[[_Standards/WikiData/WD~unperson,2713555]]"
+subclass_of: '[[_Standards/WikiData/WD~cult,756820]]'
+opposite_of: '[[_Standards/WikiData/WD~unperson,2713555]]'
 model_item: "[[_Standards/WikiData/WD~Joseph_Stalin's_cult_of_personality,4180510]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~personalismo,9058655]]"
-has_list: "[[_Standards/WikiData/WD~list_of_cults_of_personality,19893128]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+partially_coincident_with: '[[_Standards/WikiData/WD~personalismo,9058655]]'
+has_list: '[[_Standards/WikiData/WD~list_of_cults_of_personality,19893128]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Monumento%20en%20strato%20Nguyen%20Hue%20%28Ho-%C4%88i-Min-urbo%29%2006.jpg
 Provenio_UUID: b7968586-5afe-47a9-aa48-f9fe60814303
 ---

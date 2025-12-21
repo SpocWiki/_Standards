@@ -1,26 +1,27 @@
 ---
 aliases:
   - Hegemonie
+  - Hegemony
 has_id_wikidata: Q182034
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_oF_dreaming_Theories,20743760]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia_oF_dreaming_Theories,20743760]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~relation,930933]]"
-  - "[[_Standards/WikiData/WD~hegemony,60662171]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~regional_hegemony,1039835]]"
+  - '[[_Standards/WikiData/WD~relation,930933]]'
+  - '[[_Standards/WikiData/WD~hegemony,60662171]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~regional_hegemony,1039835]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Sociology,10858392]]"
-  - "[[_Standards/WikiData/WD~WikiProject_International_relations,15304945]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Socialism,15885083]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Classical_Greece_and_Rome,26208713]]"
-different_from: "[[_Standards/WikiData/WD~hegemony,60662171]]"
-opposite_of: "[[_Standards/WikiData/WD~Q125391201,125391201]]"
-facet_of: "[[_Standards/WikiData/WD~state,7275]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Sociology,10858392]]'
+  - '[[_Standards/WikiData/WD~WikiProject_International_relations,15304945]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Socialism,15885083]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Classical_Greece_and_Rome,26208713]]'
+different_from: '[[_Standards/WikiData/WD~hegemony,60662171]]'
+opposite_of: '[[_Standards/WikiData/WD~Q125391201,125391201]]'
+facet_of: '[[_Standards/WikiData/WD~state,7275]]'
 Commons_category: Hegemony
 Libris_URI: 75kmp4br0wqq0j7
 ---

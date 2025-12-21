@@ -1,6 +1,7 @@
 ---
 aliases:
-- "The Cell"
+  - The Cell
+  - Cell,film@2000
 ---
 
 > The Cell is a 2000 science fiction psychological thriller film directed by [[../Movie-Directors/Tarsem Singh]] 

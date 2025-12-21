@@ -1,31 +1,32 @@
 ---
 aliases:
-- inverse-of
-- inverse_of
-- inverseOf
-- is_inverse_of
-- is_converse_of
-- "has inverse"
+  - inverse-of
+  - inverse_of
+  - inverseOf
+  - is_inverse_of
+  - is_converse_of
+  - has inverse
+  - is inverse of
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- inverse
-- of
-layout: 
-license: "CC BY-SA 4.0"
+  - inverse
+  - of
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: is_inverse_of
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- is_/inverse_of
-- class/Relation
-- schema-org/Relation
+  - is_/inverse_of
+  - class/Relation
+  - schema-org/Relation
 title: is_inverse_of
 type: Predi_Relation
 ---

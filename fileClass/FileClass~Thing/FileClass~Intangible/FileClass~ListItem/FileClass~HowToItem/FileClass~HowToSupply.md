@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~HowToSupply
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem
 fields:
-- id: Cumsl2
-  name: EstimatedCost
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"
-  type: MultiFile
-  path: ''
+  - id: Cumsl2
+    name: EstimatedCost
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/HowToSupply
-- class/Thing/Intangible/ListItem/HowToItem/HowToSupply
-- is_a_/HowToSupply
-- schema-org/HowToSupply
+  - class/HowToSupply
+  - class/Thing/Intangible/ListItem/HowToItem/HowToSupply
+  - is_a_/HowToSupply
+  - schema-org/HowToSupply
 tags:
-- class/FileClass
-- class/HowToSupply
-- is_a_/HowToSupply
-- class/Thing/Intangible/ListItem/HowToItem/HowToSupply
+  - class/FileClass
+  - class/HowToSupply
+  - is_a_/HowToSupply
+  - class/Thing/Intangible/ListItem/HowToItem/HowToSupply
 version: 2.0
 ---
 

@@ -2,75 +2,77 @@
 aliases:
   - William Somerset Maugham
   - Somerset Maugham
+  - Somerset_Maugham,William
+  - Somerset Maugham,William
 has_id_wikidata: Q134942
 educated_at:
-  - "[[_Standards/WikiData/WD~Heidelberg_University,151510]]"
+  - '[[_Standards/WikiData/WD~Heidelberg_University,151510]]'
   - "[[_Standards/WikiData/WD~King's_College_London,245247]]"
   - "[[_Standards/WikiData/WD~St_Thomas's_Hospital_Medical_School,7595546]]"
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-employer: "[[_Standards/WikiData/WD~Secret_Intelligence_Service,184560]]"
-medical_condition: "[[_Standards/WikiData/WD~stuttering,186676]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]"
+  - '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+employer: '[[_Standards/WikiData/WD~Secret_Intelligence_Service,184560]]'
+medical_condition: '[[_Standards/WikiData/WD~stuttering,186676]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
 occupation:
-  - "[[_Standards/WikiData/WD~playwright,214917]]"
-  - "[[_Standards/WikiData/WD~physician_writer,551835]]"
-  - "[[_Standards/WikiData/WD~army_scout,2314719]]"
-  - "[[_Standards/WikiData/WD~literary_critic,4263842]]"
-  - "[[_Standards/WikiData/WD~novelist,6625963]]"
-  - "[[_Standards/WikiData/WD~prose_writer,12144794]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~physician,39631]]"
+  - '[[_Standards/WikiData/WD~playwright,214917]]'
+  - '[[_Standards/WikiData/WD~physician_writer,551835]]'
+  - '[[_Standards/WikiData/WD~army_scout,2314719]]'
+  - '[[_Standards/WikiData/WD~literary_critic,4263842]]'
+  - '[[_Standards/WikiData/WD~novelist,6625963]]'
+  - '[[_Standards/WikiData/WD~prose_writer,12144794]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~physician,39631]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~playwright,214917]]"
-  - "[[_Standards/WikiData/WD~novelist,6625963]]"
-  - "[[_Standards/WikiData/WD~literature,8242]]"
-  - "[[_Standards/WikiData/WD~medicine,11190]]"
-  - "[[_Standards/WikiData/WD~drama,25372]]"
-place_of_birth: "[[_Standards/WikiData/WD~8th_arrondissement_of_Paris,270230]]"
+  - '[[_Standards/WikiData/WD~playwright,214917]]'
+  - '[[_Standards/WikiData/WD~novelist,6625963]]'
+  - '[[_Standards/WikiData/WD~literature,8242]]'
+  - '[[_Standards/WikiData/WD~medicine,11190]]'
+  - '[[_Standards/WikiData/WD~drama,25372]]'
+place_of_birth: '[[_Standards/WikiData/WD~8th_arrondissement_of_Paris,270230]]'
 notable_work:
   - "[[_Standards/WikiData/WD~The_Razor's_Edge,759329]]"
-  - "[[_Standards/WikiData/WD~Of_Human_Bondage,1195793]]"
+  - '[[_Standards/WikiData/WD~Of_Human_Bondage,1195793]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]"
-  - "[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]"
-  - "[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]"
+  - '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
+  - '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
+  - '[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Frederic_Maugham,_1st_Viscount_Maugham,2271495]]"
-  - "[[_Standards/WikiData/WD~Henry_Neville_Maugham,107220251]]"
-bibliography: "[[_Standards/WikiData/WD~W._Somerset_Maugham_bibliography,3884094]]"
-personal_library_at: "[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-child: "[[_Standards/WikiData/WD~Mary_Elizabeth_Maugham,6779420]]"
-spouse: "[[_Standards/WikiData/WD~Syrie_Maugham,7663337]]"
+  - '[[_Standards/WikiData/WD~Frederic_Maugham,_1st_Viscount_Maugham,2271495]]'
+  - '[[_Standards/WikiData/WD~Henry_Neville_Maugham,107220251]]'
+bibliography: '[[_Standards/WikiData/WD~W._Somerset_Maugham_bibliography,3884094]]'
+personal_library_at: '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+child: '[[_Standards/WikiData/WD~Mary_Elizabeth_Maugham,6779420]]'
+spouse: '[[_Standards/WikiData/WD~Syrie_Maugham,7663337]]'
 given_name:
-  - "[[_Standards/WikiData/WD~William,12344159]]"
-  - "[[_Standards/WikiData/WD~Somerset,21296579]]"
+  - '[[_Standards/WikiData/WD~William,12344159]]'
+  - '[[_Standards/WikiData/WD~Somerset,21296579]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Companion_of_Honour,16947520]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Toulouse,126415081]]"
+  - '[[_Standards/WikiData/WD~Companion_of_Honour,16947520]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Toulouse,126415081]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-family_name: "[[_Standards/WikiData/WD~Q56539799,56539799]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-mother: "[[_Standards/WikiData/WD~Edith_Mary_Snell,75315603]]"
-father: "[[_Standards/WikiData/WD~Robert_Ormond_Maugham,75315601]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Harry_Ransom_Center,105936481]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+family_name: '[[_Standards/WikiData/WD~Q56539799,56539799]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+mother: '[[_Standards/WikiData/WD~Edith_Mary_Snell,75315603]]'
+father: '[[_Standards/WikiData/WD~Robert_Ormond_Maugham,75315601]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Harry_Ransom_Center,105936481]]'
 work_period_start_: 1897-01-01T00:00:00Z
 date_of_birth: 1874-01-25T00:00:00Z
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-sexual_orientation: "[[_Standards/WikiData/WD~homosexuality,6636]]"
-cause_of_death: "[[_Standards/WikiData/WD~pneumonia,12192]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~Nice,33959]]"
-nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+sexual_orientation: '[[_Standards/WikiData/WD~homosexuality,6636]]'
+cause_of_death: '[[_Standards/WikiData/WD~pneumonia,12192]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~Nice,33959]]'
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
 Plex_person_key: 5d776893decfcd001f2ecccf
 CYT_CCS: AC000024892
 Europeana_entity: agent/base/60308
@@ -83,9 +85,9 @@ Libris_URI: wt79bnjf558g7ch
 date_of_death: 1965-12-16T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Maugham%20retouched.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/W.%20Somerset%20Maugham%20signature.svg
-ISNI: "0000000121371781"
-NLC_authorities: "000263003"
-U_S_National_Archives_Identifier: "10581505"
+ISNI: 0000000121371781
+NLC_authorities: 000263003
+U_S_National_Archives_Identifier: 10581505
 ---
 
 # [[Somerset_Maugham,William]] 

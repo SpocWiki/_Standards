@@ -2,6 +2,7 @@
 aliases:
   - Bechdel Test
   - Bechdel-Wallace test
+  - Bechdel_Test
 has_id_wikidata: Q4165246
 ---
 

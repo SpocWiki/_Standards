@@ -2,17 +2,18 @@
 aliases:
   - fluid statics
   - Hydrostatik
+  - Hydrostatics
 has_id_wikidata: Q177807
 part_of:
-  - "[[_Standards/WikiData/WD~statics,169019]]"
-  - "[[_Standards/WikiData/WD~hydromechanics,31191973]]"
-subclass_of: "[[_Standards/WikiData/WD~fluid_mechanics,172145]]"
+  - '[[_Standards/WikiData/WD~statics,169019]]'
+  - '[[_Standards/WikiData/WD~hydromechanics,31191973]]'
+subclass_of: '[[_Standards/WikiData/WD~fluid_mechanics,172145]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-OmegaWiki_Defined_Meaning: "795911"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+OmegaWiki_Defined_Meaning: 795911
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FluidInRotatingVessel.svg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/fluid-statics
 Colon_Classification: B75:2

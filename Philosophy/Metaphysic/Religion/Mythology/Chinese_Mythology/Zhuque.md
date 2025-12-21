@@ -1,22 +1,23 @@
 ---
 aliases:
-  - Vermilion Bird 
+  - Vermilion Bird
   - 朱雀
   - Zhūquè
+  - Zhuque
 has_id_wikidata: Q1059392
-follows: "[[_Standards/WikiData/WD~Azure_Dragon,515882]]"
+follows: '[[_Standards/WikiData/WD~Azure_Dragon,515882]]'
 different_from:
-  - "[[_Standards/WikiData/WD~fenghuang,527525]]"
-  - "[[_Standards/WikiData/WD~Q21660998,21660998]]"
-  - "[[_Standards/WikiData/WD~Red_Bird,107075807]]"
-color: "[[_Standards/WikiData/WD~vermilion,737438]]"
-followed_by: "[[_Standards/WikiData/WD~White_Tiger,1072455]]"
-part_of: "[[_Standards/WikiData/WD~Four_Symbols,1073260]]"
+  - '[[_Standards/WikiData/WD~fenghuang,527525]]'
+  - '[[_Standards/WikiData/WD~Q21660998,21660998]]'
+  - '[[_Standards/WikiData/WD~Red_Bird,107075807]]'
+color: '[[_Standards/WikiData/WD~vermilion,737438]]'
+followed_by: '[[_Standards/WikiData/WD~White_Tiger,1072455]]'
+part_of: '[[_Standards/WikiData/WD~Four_Symbols,1073260]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Chinese_constellation,1074076]]"
-  - "[[_Standards/WikiData/WD~legendary_bird,30301495]]"
-described_by_source: "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-direction: "[[_Standards/WikiData/WD~south,667]]"
+  - '[[_Standards/WikiData/WD~Chinese_constellation,1074076]]'
+  - '[[_Standards/WikiData/WD~legendary_bird,30301495]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+direction: '[[_Standards/WikiData/WD~south,667]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/%E4%B8%9C%E6%B1%89%E6%91%87%E9%92%B1%E6%A0%91%E5%B1%80%E9%83%A81.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/%EC%A3%BC%EC%9E%91%20%EC%A1%B0%EC%84%A0%EA%B3%A0%EC%A0%81%EB%8F%84%EB%B3%B4.jpg

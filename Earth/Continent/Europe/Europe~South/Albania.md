@@ -1,9 +1,17 @@
 ---
+aliases:
+  - Albania
+  - Albanie
+  - ألبانيا
+  - 阿尔巴尼亚
+  - Албания
+  - the Republic of Albania
+  - la República de Albania
+has_id_wikidata: Q222
 location:
   - 40.793
   - 19.9565
 type: Country
-has_id_wikidata: Q222
 SpocWebEntityId: 26830
 isDeleted: false
 confidential: public
@@ -16,25 +24,17 @@ cssclasses:
   - Country
 publish: true
 title: Albania
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Albania
-  - Albanie
-  - ألبانيا
-  - 阿尔巴尼亚
-  - Албания
-  - the Republic of Albania
-  - la República de Albania
+publishDate: ""
+expiryDate: ""
 Languages:
   - sq
   - el
 icon: flag-al
-Provenio_UUID:
+Provenio_UUID: ""
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Albania,162058]]"
 basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_system,166747]]"
 anthem: "[[_Standards/WikiData/WD~Himni_i_Flamurit,168731]]"

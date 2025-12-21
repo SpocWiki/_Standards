@@ -1,13 +1,15 @@
 ---
 aliases:
   - Beaufort wind force scale
+  - Beaufort_Scale
+  - Beaufort Scale
 has_id_wikidata: Q170464
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~measurement_scale,1370617]]"
-  - "[[_Standards/WikiData/WD~meteorological_index,22298551]]"
-has_part_s_: "[[_Standards/WikiData/WD~gale,2144546]]"
-named_after: "[[_Standards/WikiData/WD~Francis_Beaufort,21186]]"
+  - '[[_Standards/WikiData/WD~measurement_scale,1370617]]'
+  - '[[_Standards/WikiData/WD~meteorological_index,22298551]]'
+has_part_s_: '[[_Standards/WikiData/WD~gale,2144546]]'
+named_after: '[[_Standards/WikiData/WD~Francis_Beaufort,21186]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Beaufort%20scale%2012%20notext.jpg
 described_at_URL: http://www.metoffice.gov.uk/guide/weather/marine/beaufort-scale
 Commons_category: Beaufort Scale

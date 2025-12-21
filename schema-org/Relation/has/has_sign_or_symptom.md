@@ -3,12 +3,13 @@ aliases:
   - has sign-or-symptom
   - signOrSymptom
   - has_sign_or_symptom
+  - has sign or symptom
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - sign
   - or
   - symptom
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_sign_or_symptom
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

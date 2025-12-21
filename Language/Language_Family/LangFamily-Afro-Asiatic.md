@@ -1,34 +1,35 @@
 ---
 aliases:
   - Afroasiatic languages
+  - LangFamily-Afro-Asiatic
 has_id_wikidata: Q25268
 tags:
   - Lang_Family
 type: LangFamily
 instance_of:
-  - "[[_Standards/WikiData/WD~macrofamily,949344]]"
-  - "[[_Standards/WikiData/WD~language_family,25295]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Afroasiatic_languages,20054808]]"
-subclass_of: "[[_Standards/WikiData/WD~human_language,20162172]]"
+  - '[[_Standards/WikiData/WD~macrofamily,949344]]'
+  - '[[_Standards/WikiData/WD~language_family,25295]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Afroasiatic_languages,20054808]]'
+subclass_of: '[[_Standards/WikiData/WD~human_language,20162172]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Afroasiatism,25403764]]"
-  - "[[_Standards/WikiData/WD~Afroasiatic_peoples,63361041]]"
+  - '[[_Standards/WikiData/WD~Afroasiatism,25403764]]'
+  - '[[_Standards/WikiData/WD~Afroasiatic_peoples,63361041]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Afro_Asia,125965270]]"
-  - "[[_Standards/WikiData/WD~Africa,15]]"
-  - "[[_Standards/WikiData/WD~Asia,48]]"
+  - '[[_Standards/WikiData/WD~Afro_Asia,125965270]]'
+  - '[[_Standards/WikiData/WD~Africa,15]]'
+  - '[[_Standards/WikiData/WD~Asia,48]]'
 inception: -7000-06
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Berber,25448]]"
-  - "[[_Standards/WikiData/WD~Chadic,33184]]"
-  - "[[_Standards/WikiData/WD~Cushitic,33248]]"
-  - "[[_Standards/WikiData/WD~Omotic,33860]]"
-  - "[[_Standards/WikiData/WD~Semitic,34049]]"
-  - "[[_Standards/WikiData/WD~Egyptian,50868]]"
+  - '[[_Standards/WikiData/WD~Berber,25448]]'
+  - '[[_Standards/WikiData/WD~Chadic,33184]]'
+  - '[[_Standards/WikiData/WD~Cushitic,33248]]'
+  - '[[_Standards/WikiData/WD~Omotic,33860]]'
+  - '[[_Standards/WikiData/WD~Semitic,34049]]'
+  - '[[_Standards/WikiData/WD~Egyptian,50868]]'
 number_of_speakers_writers_or_signers: 270000000
-Dewey_Decimal_Classification: "492"
-OmegaWiki_Defined_Meaning: "6840"
+Dewey_Decimal_Classification: 492
+OmegaWiki_Defined_Meaning: 6840
 ISO_639_5_code: afa
 IETF_language_tag: afa
 ISO_639_2_code: afa
@@ -38,7 +39,7 @@ distribution_map:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Afroasiatic%20languages-en.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Afroasiatic%20languages-nl.svg
 exact_match: http://publications.europa.eu/resource/authority/language/AFA
-P8189: "987007293089105171"
+P8189: 987007293089105171
 Commons_category: Afro-Asiatic languages
 Glottolog_code: afro1255
 WALS_family_code: afroasiatic

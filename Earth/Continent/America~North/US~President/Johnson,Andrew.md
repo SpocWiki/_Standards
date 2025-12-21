@@ -1,25 +1,25 @@
 ---
 aliases:
-- Johnson,Andrew
-- "Andrew Johnson"
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Johnson,Andrew
+  - Andrew Johnson
+  - ''
 has_id_wikidata: Q8612
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Johnson,Andrew
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Johnson,Andrew
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- 
+  - ''
 title: Johnson,Andrew
 type: private_note
 ---

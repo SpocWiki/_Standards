@@ -4,63 +4,64 @@ aliases:
   - Zinedine Yazid Zidane
   - Zinedine Zidane
   - Zidane
+  - Zidane,Zinedine
 has_id_wikidata: Q1835
 award_received:
   - "[[_Standards/WikiData/WD~Ballon_d'Or,166177]]"
   - "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
-  - "[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
-  - "[[_Standards/WikiData/WD~World_Cup_Golden_Ball,17355204]]"
+  - '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
+  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+  - '[[_Standards/WikiData/WD~World_Cup_Golden_Ball,17355204]]'
 member_of_sports_team:
-  - "[[_Standards/WikiData/WD~FC_Girondins_de_Bordeaux,172476]]"
-  - "[[_Standards/WikiData/WD~AS_Cannes,298267]]"
-  - "[[_Standards/WikiData/WD~France_national_under_21_association_football_team,1277549]]"
-  - "[[_Standards/WikiData/WD~France_national_under_18_association_football_team,1450557]]"
-  - "[[_Standards/WikiData/WD~France_national_under_17_association_football_team,1450568]]"
-  - "[[_Standards/WikiData/WD~France_B_national_football_team,3590024]]"
-  - "[[_Standards/WikiData/WD~Juventus_FC,1422]]"
-  - "[[_Standards/WikiData/WD~Real_Madrid_Club_de_Fútbol,8682]]"
+  - '[[_Standards/WikiData/WD~FC_Girondins_de_Bordeaux,172476]]'
+  - '[[_Standards/WikiData/WD~AS_Cannes,298267]]'
+  - '[[_Standards/WikiData/WD~France_national_under_21_association_football_team,1277549]]'
+  - '[[_Standards/WikiData/WD~France_national_under_18_association_football_team,1450557]]'
+  - '[[_Standards/WikiData/WD~France_national_under_17_association_football_team,1450568]]'
+  - '[[_Standards/WikiData/WD~France_B_national_football_team,3590024]]'
+  - '[[_Standards/WikiData/WD~Juventus_FC,1422]]'
+  - '[[_Standards/WikiData/WD~Real_Madrid_Club_de_Fútbol,8682]]'
   - "[[_Standards/WikiData/WD~France_men's_national_association_football_team,47774]]"
 position_played_on_team_speciality:
-  - "[[_Standards/WikiData/WD~midfielder,193592]]"
-  - "[[_Standards/WikiData/WD~attacking_midfielder,90326494]]"
-place_of_birth: "[[_Standards/WikiData/WD~16th_arrondissement_of_Marseille,194401]]"
+  - '[[_Standards/WikiData/WD~midfielder,193592]]'
+  - '[[_Standards/WikiData/WD~attacking_midfielder,90326494]]'
+place_of_birth: '[[_Standards/WikiData/WD~16th_arrondissement_of_Marseille,194401]]'
 child:
-  - "[[_Standards/WikiData/WD~Enzo_Zidane,326477]]"
-  - "[[_Standards/WikiData/WD~Luca_Zidane,19952334]]"
-  - "[[_Standards/WikiData/WD~Elyaz_Zidane,112158431]]"
-  - "[[_Standards/WikiData/WD~Théo_Zidane,112329906]]"
+  - '[[_Standards/WikiData/WD~Enzo_Zidane,326477]]'
+  - '[[_Standards/WikiData/WD~Luca_Zidane,19952334]]'
+  - '[[_Standards/WikiData/WD~Elyaz_Zidane,112158431]]'
+  - '[[_Standards/WikiData/WD~Théo_Zidane,112329906]]'
 occupation:
-  - "[[_Standards/WikiData/WD~association_football_coach,628099]]"
-  - "[[_Standards/WikiData/WD~association_football_player,937857]]"
-employer: "[[_Standards/WikiData/WD~UNICEF,740308]]"
-educated_at: "[[_Standards/WikiData/WD~University_of_Limoges,2661290]]"
-given_name: "[[_Standards/WikiData/WD~Zinedine,3575569]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~association_football_coach,628099]]'
+  - '[[_Standards/WikiData/WD~association_football_player,937857]]'
+employer: '[[_Standards/WikiData/WD~UNICEF,740308]]'
+educated_at: '[[_Standards/WikiData/WD~University_of_Limoges,2661290]]'
+given_name: '[[_Standards/WikiData/WD~Zinedine,3575569]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-position_held: "[[_Standards/WikiData/WD~UNICEF_Goodwill_Ambassador,19969187]]"
-family_name: "[[_Standards/WikiData/WD~Zidane,21502205]]"
+  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+  - '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
+position_held: '[[_Standards/WikiData/WD~UNICEF_Goodwill_Ambassador,19969187]]'
+family_name: '[[_Standards/WikiData/WD~Zidane,21502205]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~African_French,33670660]]"
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~Kabyle,35853]]"
-  - "[[_Standards/WikiData/WD~Algerian_Arabic,56499]]"
-medical_condition: "[[_Standards/WikiData/WD~COVID_19,84263196]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
-sport: "[[_Standards/WikiData/WD~association_football,2736]]"
+  - '[[_Standards/WikiData/WD~African_French,33670660]]'
+  - '[[_Standards/WikiData/WD~Italian,652]]'
+  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+  - '[[_Standards/WikiData/WD~Arabic,13955]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+  - '[[_Standards/WikiData/WD~Kabyle,35853]]'
+  - '[[_Standards/WikiData/WD~Algerian_Arabic,56499]]'
+medical_condition: '[[_Standards/WikiData/WD~COVID_19,84263196]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
+sport: '[[_Standards/WikiData/WD~association_football,2736]]'
 coach_of_sports_team:
-  - "[[_Standards/WikiData/WD~Real_Madrid_Club_de_Fútbol,8682]]"
-  - "[[_Standards/WikiData/WD~Real_Madrid_Castilla,12217]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Real_Madrid_Club_de_Fútbol,8682]]'
+  - '[[_Standards/WikiData/WD~Real_Madrid_Castilla,12217]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 total_goals_in_career: 0
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-country_for_sport: "[[_Standards/WikiData/WD~France,142]]"
-native_language: "[[_Standards/WikiData/WD~French,150]]"
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+country_for_sport: '[[_Standards/WikiData/WD~France,142]]'
+native_language: '[[_Standards/WikiData/WD~French,150]]'
 number_of_matches_played_races_starts:
   - 2
   - 3
@@ -77,9 +78,9 @@ nickname: Zizou
 pseudonym: Zizou
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Zinedine%20Zidane%20by%20Tasnim%2003.jpg
 official_website: http://www.zidane.fr
-ISNI: "0000000121425110"
-Munzinger_Sport_number: "01000004966"
-P1015: "6018307"
+ISNI: 0000000121425110
+Munzinger_Sport_number: 01000004966
+P1015: 6018307
 Instagram_username: zidane
 ---
 

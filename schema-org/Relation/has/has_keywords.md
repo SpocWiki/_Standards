@@ -1,27 +1,28 @@
 ---
 aliases:
-- has_keywords
-- "schema:keywords"
-- "dbo:keywords"
-- "dwt:P921"
+  - has_keywords
+  - schema:keywords
+  - dbo:keywords
+  - dwt:P921
+  - has keywords
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- keywords
-layout: 
-license: "CC BY-SA 4.0"
+  - keywords
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_keywords
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_keywords
 type: Predi_Relation
 ---

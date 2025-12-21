@@ -7,27 +7,29 @@ aliases:
   - creative_works
   - dbo:Work
   - Werk
+  - Creative_Work
+  - Creative Work
+has_id_wikidata: Q386724
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
-fileClass:
+expiryDate: ''
+fileClass: ''
 isDeleted: false
 isReadOnly: false
-is_sub_class_of: "[Thing](../Thing.md)"
+is_sub_class_of: '[Thing](../Thing.md)'
 keywords:
   - creative_work
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_creative_work Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - schema-org/Class
 title: is_a_creative_work Class
 type: Type
-has_id_wikidata: Q386724
 ---
 
 # [[Creative_Work]] 

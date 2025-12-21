@@ -4,20 +4,22 @@ aliases:
   - gender_type
   - GenderType
   - is_a_gender_type
+  - Gender_Type
+  - Gender Type
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - gender_type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_gender_type Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

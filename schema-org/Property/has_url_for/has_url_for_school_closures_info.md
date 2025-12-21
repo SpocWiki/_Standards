@@ -4,21 +4,22 @@ aliases:
   - school_closures_info
   - schoolClosuresInfo
   - has_url_for_school_closures_info
+  - has url for school closures info
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - school_closures_info
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_school_closures_info
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

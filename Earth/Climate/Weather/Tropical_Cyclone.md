@@ -1,35 +1,37 @@
 ---
 aliases:
   - Tropical cyclone
+  - Tropical_Cyclone
+  - Tropical Cyclone
 has_id_wikidata: Q8092
 subclass_of:
-  - "[[_Standards/WikiData/WD~cyclone,79602]]"
-  - "[[_Standards/WikiData/WD~extreme_weather,1277161]]"
-location_of_formation: "[[_Standards/WikiData/WD~tropical_cyclone_basin,198782]]"
+  - '[[_Standards/WikiData/WD~cyclone,79602]]'
+  - '[[_Standards/WikiData/WD~extreme_weather,1277161]]'
+location_of_formation: '[[_Standards/WikiData/WD~tropical_cyclone_basin,198782]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q2381390,2381390]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox_tropical_cyclone,5912437]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox_tropical_cyclone_small,13033961]]"
-has_list: "[[_Standards/WikiData/WD~glossary_of_tropical_cyclone_terms,5571889]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_tropical_cyclones,7112807]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Tropical_cyclones,13359877]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_cyclone,118733512]]"
+  - '[[_Standards/WikiData/WD~Q2381390,2381390]]'
+  - '[[_Standards/WikiData/WD~Template_Infobox_tropical_cyclone,5912437]]'
+  - '[[_Standards/WikiData/WD~Template_Infobox_tropical_cyclone_small,13033961]]'
+has_list: '[[_Standards/WikiData/WD~glossary_of_tropical_cyclone_terms,5571889]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_tropical_cyclones,7112807]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Tropical_cyclones,13359877]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_cyclone,118733512]]'
 properties_for_this_type: JTWC tropical cyclone ID
-OmegaWiki_Defined_Meaning: "1813"
+OmegaWiki_Defined_Meaning: 1813
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dramatic%20Views%20of%20Hurricane%20Florence%20from%20the%20International%20Space%20Station%20From%209%2012%20%2842828603210%29%20%28cropped%29.jpg
-U_S_National_Archives_Identifier: "10638964"
+U_S_National_Archives_Identifier: 10638964
 Dewey_Decimal_Classification:
-  - "363.34922"
-  - "551.552"
+  - 363.34922
+  - 551.552
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Tropical%20storms%20on%20Earth.png
 MeSH_tree_code:
   - G16.500.175.500

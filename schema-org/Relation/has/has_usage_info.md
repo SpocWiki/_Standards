@@ -3,23 +3,24 @@ aliases:
   - has usage-info
   - usageInfo
   - has_usage_info
+  - has usage info
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - usage_info
   - usage
   - info
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_usage_info
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

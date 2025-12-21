@@ -1,32 +1,34 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DDxElement
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
 fields:
-- id: Lyrzwy
-  name: Diagnosis
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalCondition')"
-  type: MultiFile
-  path: ''
-- id: lyCV6Y
-  name: DistinguishingSign
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom')"
-  type: MultiFile
-  path: ''
+  - id: Lyrzwy
+    name: Diagnosis
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
+    type: MultiFile
+    path: ''
+  - id: lyCV6Y
+    name: DistinguishingSign
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DDxElement
-- class/Thing/MedicalEntity/MedicalIntangible/DDxElement
-- is_a_/DDxElement
-- schema-org/DDxElement
+  - class/DDxElement
+  - class/Thing/MedicalEntity/MedicalIntangible/DDxElement
+  - is_a_/DDxElement
+  - schema-org/DDxElement
 tags:
-- class/FileClass
-- class/DDxElement
-- is_a_/DDxElement
-- class/Thing/MedicalEntity/MedicalIntangible/DDxElement
+  - class/FileClass
+  - class/DDxElement
+  - is_a_/DDxElement
+  - class/Thing/MedicalEntity/MedicalIntangible/DDxElement
 version: 2.0
 ---
 

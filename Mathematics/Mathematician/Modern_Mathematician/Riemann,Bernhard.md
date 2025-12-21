@@ -2,6 +2,7 @@
 aliases:
   - Georg Friedrich Bernhard Riemann
   - Bernhard Riemann
+  - Riemann,Bernhard
 has_id_wikidata: Q42299
 ---
 

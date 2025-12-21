@@ -1,29 +1,30 @@
 ---
 aliases:
-- has-sub-classes
-- sub-classes
-- has_sub_classes
-- has_subclasses
-- is_super-class
-- Class-Generalization
+  - has-sub-classes
+  - sub-classes
+  - has_sub_classes
+  - has_subclasses
+  - is_super-class
+  - Class-Generalization
+  - has sub classes
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- part
-layout: 
-license: "CC BY-SA 4.0"
+  - part
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_sub_classes
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_sub_classes
 type: Predi_Relation
 ---

@@ -4,21 +4,22 @@ aliases:
   - margin-of-error
   - marginOfError
   - has_value_for_margin_of_error
+  - has value for margin of error
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - margin-of-error
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_margin-of-error
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

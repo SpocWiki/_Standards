@@ -4,20 +4,22 @@ aliases:
   - video_object
   - VideoObject
   - is_a_video_object
+  - Video_Object
+  - Video Object
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - video_object
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_video_object Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,11 +1,20 @@
 ---
+aliases:
+  - Singapore
+  - Singapur
+  - Singapour
+  - سنغافورة
+  - 新加坡
+  - Сингапур
+  - the Republic of Singapore
+  - la República de Singapur
+has_id_wikidata: Q334
 location:
   - 1.28
   - 103.85
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q334
 SpocWebEntityId: 27014
 isDeleted: false
 confidential: public
@@ -16,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Singapore
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Singapore
-  - Singapur
-  - Singapour
-  - سنغافورة
-  - 新加坡
-  - Сингапур
-  - the Republic of Singapore
-  - la República de Singapur
+publishDate: ""
+expiryDate: ""
 Languages:
   - cmn
   - en-SG

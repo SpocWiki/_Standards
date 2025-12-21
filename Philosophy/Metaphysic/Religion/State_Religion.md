@@ -1,20 +1,22 @@
 ---
 aliases:
-  - state religion 
+  - state religion
   - official religion
+  - State_Religion
+  - State Religion
 has_id_wikidata: Q188213
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - "[[_Standards/WikiData/WD~national_Church,1649443]]"
-  - "[[_Standards/WikiData/WD~state_church,2325038]]"
-facet_of: "[[_Standards/WikiData/WD~state_and_religion,1742827]]"
-part_of: "[[_Standards/WikiData/WD~confessional_state,10551526]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q122615841,122615841]]"
+  - '[[_Standards/WikiData/WD~national_Church,1649443]]'
+  - '[[_Standards/WikiData/WD~state_church,2325038]]'
+facet_of: '[[_Standards/WikiData/WD~state_and_religion,1742827]]'
+part_of: '[[_Standards/WikiData/WD~confessional_state,10551526]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q122615841,122615841]]'
 Wikidata_property: official religion
-characteristic_of: "[[_Standards/WikiData/WD~state,7275]]"
-subclass_of: "[[_Standards/WikiData/WD~religion,9174]]"
+characteristic_of: '[[_Standards/WikiData/WD~state,7275]]'
+subclass_of: '[[_Standards/WikiData/WD~religion,9174]]'
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/State%20Religions.svg
 ---
 

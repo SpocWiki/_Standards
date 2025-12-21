@@ -4,21 +4,23 @@ aliases:
   - return_label_in_box
   - ReturnLabelInBox
   - is_a_return_label_in_box
+  - Return_Label_in_Box
+  - Return Label in Box
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: ReturnLabelSourceEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - return_label_in_box
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_return_label_in_box Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

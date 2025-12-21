@@ -3,6 +3,8 @@ aliases:
   - Bohairic Coptic
   - ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ
   - Timetremənkʰēmi
+  - Coptic_language
+  - Coptic language
 has_id_wikidata: Q36155
 ---
 

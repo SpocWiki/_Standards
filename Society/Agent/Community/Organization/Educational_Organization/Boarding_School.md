@@ -1,6 +1,8 @@
 ---
 aliases:
   - Internat
+  - Boarding_School
+  - Boarding School
 has_id_wikidata: Q269770
 ---
 

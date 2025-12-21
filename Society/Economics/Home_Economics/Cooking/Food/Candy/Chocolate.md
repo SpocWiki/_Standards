@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Schokolade
+  - Chocolate
+has_id_wikidata: Q195
 Amazon_com_browse_node:
   - 16317461
   - 18774316011
@@ -17,7 +21,6 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_02000065
 has_active_ingredient:
   - "[[_Standards/WikiData/WD~theobromine,206844]]"
   - "[[_Standards/WikiData/WD~caffeine,60235]]"
-has_id_wikidata: Q195
 has_part_s_:
   - "[[_Standards/WikiData/WD~cocoa_bean,208008]]"
   - "[[_Standards/WikiData/WD~sugar,11002]]"
@@ -56,11 +59,9 @@ U_S_National_Archives_Identifier: 10639394
 water_footprint: 17196
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_chocolate,7112581]]"
 Wolfram_Language_entity_code: Entity["FoodType", "Chocolate"]
-aliases:
-  - Schokolade
 ---
 
-# [[Chocolate]] 
+# [[Chocolate]] 🍫 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Chocolate,195|WD~Chocolate,195]] 
 

@@ -4,20 +4,22 @@ aliases:
   - creative_work_season
   - CreativeWorkSeason
   - is_a_creative_work_season
+  - Creative_Work_Season
+  - Creative Work Season
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - creative_work_season
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_creative_work_season Class
 publish: true
-publishDate:
+publishDate: ''
 supersedes: Season
 tags:
   - class/Class

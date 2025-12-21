@@ -2,12 +2,13 @@
 aliases:
   - has claim-interpreter
   - has_claim_interpreter
+  - has claim interpreter
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - interpreter
   - claim_interpreter
   - claimInterpreter
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_claim_interpreter
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

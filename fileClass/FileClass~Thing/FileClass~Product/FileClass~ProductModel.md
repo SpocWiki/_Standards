@@ -1,32 +1,34 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ProductModel
+excludes: ''
 extends: FileClass~Thing/FileClass~Product
 fields:
-- id: 4GmCY2
-  name: PredecessorOf
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Product/ProductModel')"
-  type: MultiFile
-  path: ''
-- id: pZLowK
-  name: SuccessorOf
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Product/ProductModel')"
-  type: MultiFile
-  path: ''
+  - id: 4GmCY2
+    name: PredecessorOf
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product/ProductModel')
+    type: MultiFile
+    path: ''
+  - id: pZLowK
+    name: SuccessorOf
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product/ProductModel')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ProductModel
-- class/Thing/Product/ProductModel
-- is_a_/ProductModel
-- schema-org/ProductModel
+  - class/ProductModel
+  - class/Thing/Product/ProductModel
+  - is_a_/ProductModel
+  - schema-org/ProductModel
 tags:
-- class/FileClass
-- class/ProductModel
-- is_a_/ProductModel
-- class/Thing/Product/ProductModel
+  - class/FileClass
+  - class/ProductModel
+  - is_a_/ProductModel
+  - class/Thing/Product/ProductModel
 version: 2.0
 ---
 

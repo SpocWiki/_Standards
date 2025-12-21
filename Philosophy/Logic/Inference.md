@@ -1,20 +1,21 @@
 ---
 aliases:
   - Inferenz
+  - Inference
 has_id_wikidata: Q408386
 model_item:
-  - "[[_Standards/WikiData/WD~abductive_reasoning,308495]]"
-  - "[[_Standards/WikiData/WD~backward_chaining,1141183]]"
+  - '[[_Standards/WikiData/WD~abductive_reasoning,308495]]'
+  - '[[_Standards/WikiData/WD~backward_chaining,1141183]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~deductive_reasoning,484284]]"
-  - "[[_Standards/WikiData/WD~inductive_reasoning,484511]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~reasoning,1156402]]"
-subclass_of: "[[_Standards/WikiData/WD~process,3249551]]"
-different_from: "[[_Standards/WikiData/WD~Inferentzia,12259609]]"
+  - '[[_Standards/WikiData/WD~deductive_reasoning,484284]]'
+  - '[[_Standards/WikiData/WD~inductive_reasoning,484511]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~reasoning,1156402]]'
+subclass_of: '[[_Standards/WikiData/WD~process,3249551]]'
+different_from: '[[_Standards/WikiData/WD~Inferentzia,12259609]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~sourcing_circumstance,104637420]]"
-  - "[[_Standards/WikiData/WD~type_of_process,116505632]]"
-has_characteristic: "[[_Standards/WikiData/WD~type_of_reasoning,126723190]]"
+  - '[[_Standards/WikiData/WD~sourcing_circumstance,104637420]]'
+  - '[[_Standards/WikiData/WD~type_of_process,116505632]]'
+has_characteristic: '[[_Standards/WikiData/WD~type_of_reasoning,126723190]]'
 Wikidata_property: based on heuristic
 Library_of_Congress_Classification: BC199.I47
 PhilPapers_topic: inference

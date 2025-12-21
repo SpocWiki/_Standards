@@ -5,21 +5,23 @@ aliases:
   - CommentPermission
   - is_a_comment_permission
   - Contributor_role
+  - Comment_Permission
+  - Comment Permission
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: DigitalDocumentPermissionType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - comment_permission
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_comment_permission Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

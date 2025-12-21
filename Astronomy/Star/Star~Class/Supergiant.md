@@ -1,9 +1,10 @@
 ---
 aliases:
   - Superriese
+  - Supergiant
 has_id_wikidata: Q193599
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-subclass_of: "[[_Standards/WikiData/WD~star,523]]"
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+subclass_of: '[[_Standards/WikiData/WD~star,523]]'
 Commons_category: Supergiant stars
 ---
 

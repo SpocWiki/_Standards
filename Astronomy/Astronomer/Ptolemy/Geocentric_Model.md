@@ -1,15 +1,17 @@
 ---
 aliases:
   - Geocentric model
+  - Geocentric_Model
+  - Geocentric Model
 has_id_wikidata: Q165800
-opposite_of: "[[_Standards/WikiData/WD~heliocentrism,103983]]"
-subclass_of: "[[_Standards/WikiData/WD~superseded_scientific_theory,4115113]]"
+opposite_of: '[[_Standards/WikiData/WD~heliocentrism,103983]]'
+subclass_of: '[[_Standards/WikiData/WD~superseded_scientific_theory,4115113]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Aristotle,868]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Aristotle,868]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ptolemaic%20system.svg
-Iconclass_notation: "49E131"
+Iconclass_notation: 49E131
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "GeocentricModel"]
 Commons_category: Geocentric model
 ---

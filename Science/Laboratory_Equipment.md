@@ -3,23 +3,25 @@ aliases:
   - Labor
   - Laboratory_equipment
   - Laboratory equipment
+  - Laboratory_Equipment
+  - Laboratory Equipment
 has_id_wikidata: Q834028
-part_of: "[[_Standards/WikiData/WD~laboratory,483242]]"
-locations: "[[_Standards/WikiData/WD~laboratory,483242]]"
-operator: "[[_Standards/WikiData/WD~laboratory_technician,1483433]]"
-has_use: "[[_Standards/WikiData/WD~laboratory_experiment,1799493]]"
+part_of: '[[_Standards/WikiData/WD~laboratory,483242]]'
+locations: '[[_Standards/WikiData/WD~laboratory,483242]]'
+operator: '[[_Standards/WikiData/WD~laboratory_technician,1483433]]'
+has_use: '[[_Standards/WikiData/WD~laboratory_experiment,1799493]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_laboratory_equipment,6200975]]"
-  - "[[_Standards/WikiData/WD~Template_Laboratory_equipment,6254279]]"
+  - '[[_Standards/WikiData/WD~Template_Infobox_laboratory_equipment,6200975]]'
+  - '[[_Standards/WikiData/WD~Template_Laboratory_equipment,6254279]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~equipment,10273457]]"
-  - "[[_Standards/WikiData/WD~science_and_laboratory_product,115634138]]"
-has_list: "[[_Standards/WikiData/WD~list_of_laboratory_equipment,11452892]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_tool,123588392]]"
+  - '[[_Standards/WikiData/WD~equipment,10273457]]'
+  - '[[_Standards/WikiData/WD~science_and_laboratory_product,115634138]]'
+has_list: '[[_Standards/WikiData/WD~list_of_laboratory_equipment,11452892]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_tool,123588392]]'
 Commons_gallery: Laboratory equipment
 Commons_category: Laboratory equipment
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Laborger%C3%A4t.ogg
-Iconclass_notation: "49E81"
+Iconclass_notation: 49E81
 ---
 
 # [[Laboratory_Equipment]] 

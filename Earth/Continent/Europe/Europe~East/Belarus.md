@@ -1,5 +1,4 @@
 ---
-age_of_majority: 18
 aliases:
   - Belarus
   - Belarús
@@ -10,6 +9,8 @@ aliases:
   - the Republic of Belarus
   - la República de Belarús
   - Byelorussia
+has_id_wikidata: Q184
+age_of_majority: 18
 anthem: "[[_Standards/WikiData/WD~My_Belarusy,166350]]"
 area: 207595
 basic_form_of_government: "[[_Standards/WikiData/WD~presidential_system,49892]]"
@@ -188,7 +189,7 @@ emergency_phone_number:
   - "[[_Standards/WikiData/WD~102,25648798]]"
   - "[[_Standards/WikiData/WD~103,25648811]]"
 executive_body: "[[_Standards/WikiData/WD~Council_of_Ministers_of_the_Republic_of_Belarus,997640]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 4979107
   - 5014609
@@ -223,7 +224,6 @@ GS1_country_code: 481
 Happy_Planet_Index_score: 42.9
 hashtag: Belarus
 has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
-has_id_wikidata: Q184
 head_of_government: "[[_Standards/WikiData/WD~Roman_Golovchenko,27043179]]"
 head_of_state: "[[_Standards/WikiData/WD~Alexander_Lukashenko,2866]]"
 highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Belarus,3001108]]"
@@ -255,19 +255,19 @@ ISO_3166_1_alpha_3_code: BLR
 ISO_3166_1_numeric_code: 112
 isReadOnly: false
 ITU_letter_code: BLR
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/BELORUSSIYA.html
 Languages:
   - be
   - ru
 language_used: "[[_Standards/WikiData/WD~Russian,7737]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_the_Republic_of_Belarus,1798607]]"
 Libris_URI: 20dggxjl156qg5x
 licence_plate_code: BLR
 license: CC BY-SA 4.0
 life_expectancy: 73.82683
-linkTitle:
+linkTitle: ""
 literacy_rate: 100
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
 located_in_time_zone:
@@ -354,7 +354,7 @@ public_holiday:
   - "[[_Standards/WikiData/WD~October_Revolution_Day,4158109]]"
   - "[[_Standards/WikiData/WD~Independence_Day,4158131]]"
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side: "[[_Standards/WikiData/WD~right,14565199]]"
 replaces:
   - "[[_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895]]"

@@ -4,12 +4,13 @@ aliases:
   - in_defined_term_set
   - inDefinedTermSet
   - is_in_defined_term_set
+  - is in defined term set
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +18,11 @@ keywords:
   - defined
   - term
   - set
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_in_defined_term_set
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

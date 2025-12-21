@@ -1,7 +1,8 @@
 ---
-has_id_wikidata: Q36704
 aliases:
   - Jugoslawien
+  - Yugoslavia
+has_id_wikidata: Q36704
 confidential: public
 isDeleted: false
 location:

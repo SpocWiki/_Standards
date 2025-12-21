@@ -1,30 +1,32 @@
 ---
 aliases:
   - Country music
+  - Country_Music
+  - Country Music
 has_id_wikidata: Q83440
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~radio_format,589183]]"
+  - '[[_Standards/WikiData/WD~music_genre,188451]]'
+  - '[[_Standards/WikiData/WD~radio_format,589183]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~popular_music,373342]]"
-  - "[[_Standards/WikiData/WD~music_of_North_America,107718737]]"
+  - '[[_Standards/WikiData/WD~popular_music,373342]]'
+  - '[[_Standards/WikiData/WD~music_of_North_America,107718737]]'
 based_on:
-  - "[[_Standards/WikiData/WD~tejano_music,431415]]"
-  - "[[_Standards/WikiData/WD~old_time_music,972424]]"
-  - "[[_Standards/WikiData/WD~Cajun_music,1026089]]"
-  - "[[_Standards/WikiData/WD~western_music,1425111]]"
-  - "[[_Standards/WikiData/WD~red_dirt,3422697]]"
-  - "[[_Standards/WikiData/WD~Appalachian_music,4780884]]"
-  - "[[_Standards/WikiData/WD~Texas_country_music,14493900]]"
-  - "[[_Standards/WikiData/WD~New_Mexico_music,18217098]]"
-  - "[[_Standards/WikiData/WD~blues,9759]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Country_music,10975628]]"
+  - '[[_Standards/WikiData/WD~tejano_music,431415]]'
+  - '[[_Standards/WikiData/WD~old_time_music,972424]]'
+  - '[[_Standards/WikiData/WD~Cajun_music,1026089]]'
+  - '[[_Standards/WikiData/WD~western_music,1425111]]'
+  - '[[_Standards/WikiData/WD~red_dirt,3422697]]'
+  - '[[_Standards/WikiData/WD~Appalachian_music,4780884]]'
+  - '[[_Standards/WikiData/WD~Texas_country_music,14493900]]'
+  - '[[_Standards/WikiData/WD~New_Mexico_music,18217098]]'
+  - '[[_Standards/WikiData/WD~blues,9759]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Country_music,10975628]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~country_musician,66763670]]"
-  - "[[_Standards/WikiData/WD~country_singer,66763708]]"
-described_by_source: "[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-IAB_code: "350"
+  - '[[_Standards/WikiData/WD~country_musician,66763670]]'
+  - '[[_Standards/WikiData/WD~country_singer,66763708]]'
+described_by_source: '[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+IAB_code: 350
 subreddit: country
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Riders%20January%202006%202.jpg
 native_label: Country music

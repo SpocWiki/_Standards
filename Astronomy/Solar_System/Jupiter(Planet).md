@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Jupiter(Planet)
+has_id_wikidata: Q319
 absolute_magnitude: -9.4
 albedo:
   - 0.343
@@ -13,93 +16,93 @@ area: 62179600000
 argument_of_periapsis: 273.867
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Jupiter%20symbol%20%28fixed%20width%29.svg
 child_astronomical_body:
-  - "[[_Standards/WikiData/WD~S_2003_J_24,107643667]]"
-  - "[[_Standards/WikiData/WD~rings_of_Jupiter,3060]]"
-  - "[[_Standards/WikiData/WD~Comet_Shoemaker_Levy_9,3076]]"
-  - "[[_Standards/WikiData/WD~Io,3123]]"
-  - "[[_Standards/WikiData/WD~Callisto,3134]]"
-  - "[[_Standards/WikiData/WD~Europa,3143]]"
-  - "[[_Standards/WikiData/WD~Ganymede,3169]]"
-  - "[[_Standards/WikiData/WD~Amalthea,3257]]"
-  - "[[_Standards/WikiData/WD~Metis,16755]]"
-  - "[[_Standards/WikiData/WD~Adrastea,16757]]"
-  - "[[_Standards/WikiData/WD~Thebe,16765]]"
-  - "[[_Standards/WikiData/WD~Themisto,16829]]"
-  - "[[_Standards/WikiData/WD~Leda,16837]]"
-  - "[[_Standards/WikiData/WD~Himalia,16841]]"
-  - "[[_Standards/WikiData/WD~Lysithea,16863]]"
-  - "[[_Standards/WikiData/WD~Elara,16865]]"
-  - "[[_Standards/WikiData/WD~Carpo,16870]]"
-  - "[[_Standards/WikiData/WD~Euanthe,16886]]"
-  - "[[_Standards/WikiData/WD~Euporie,16884]]"
-  - "[[_Standards/WikiData/WD~Thelxinoe,16885]]"
-  - "[[_Standards/WikiData/WD~Helike,16898]]"
-  - "[[_Standards/WikiData/WD~Orthosie,16904]]"
-  - "[[_Standards/WikiData/WD~Iocaste,16913]]"
-  - "[[_Standards/WikiData/WD~Praxidike,16936]]"
-  - "[[_Standards/WikiData/WD~Harpalyke,16942]]"
-  - "[[_Standards/WikiData/WD~Mneme,16946]]"
-  - "[[_Standards/WikiData/WD~Hermippe,16949]]"
-  - "[[_Standards/WikiData/WD~Thyone,16956]]"
-  - "[[_Standards/WikiData/WD~Ananke,16960]]"
-  - "[[_Standards/WikiData/WD~Herse,16968]]"
-  - "[[_Standards/WikiData/WD~Aitne,16974]]"
-  - "[[_Standards/WikiData/WD~Kale,17002]]"
-  - "[[_Standards/WikiData/WD~Taygete,17011]]"
-  - "[[_Standards/WikiData/WD~Chaldene,17035]]"
-  - "[[_Standards/WikiData/WD~Erinome,17068]]"
-  - "[[_Standards/WikiData/WD~Aoede,17077]]"
-  - "[[_Standards/WikiData/WD~Kallichore,17091]]"
-  - "[[_Standards/WikiData/WD~Carme,17111]]"
-  - "[[_Standards/WikiData/WD~Kalyke,17109]]"
-  - "[[_Standards/WikiData/WD~Callirrhoe,17396]]"
-  - "[[_Standards/WikiData/WD~Eurydome,17406]]"
-  - "[[_Standards/WikiData/WD~Pasithee,17414]]"
-  - "[[_Standards/WikiData/WD~Cyllene,17420]]"
-  - "[[_Standards/WikiData/WD~Eukelade,17421]]"
-  - "[[_Standards/WikiData/WD~Hegemone,17426]]"
-  - "[[_Standards/WikiData/WD~Pasiphae,17425]]"
-  - "[[_Standards/WikiData/WD~Arche,17429]]"
-  - "[[_Standards/WikiData/WD~Isonoe,17432]]"
-  - "[[_Standards/WikiData/WD~Sinope,17433]]"
-  - "[[_Standards/WikiData/WD~Autonoe,17439]]"
-  - "[[_Standards/WikiData/WD~Sponde,17436]]"
-  - "[[_Standards/WikiData/WD~Kore,17446]]"
-  - "[[_Standards/WikiData/WD~Megaclite,17448]]"
-  - "[[_Standards/WikiData/WD~Q157284,157284]]"
-  - "[[_Standards/WikiData/WD~Dia,190536]]"
-  - "[[_Standards/WikiData/WD~S_2003_J_12,193853]]"
-  - "[[_Standards/WikiData/WD~Eupheme,204283]]"
-  - "[[_Standards/WikiData/WD~S_2003_J_18,207884]]"
-  - "[[_Standards/WikiData/WD~S_2003_J_10,213982]]"
-  - "[[_Standards/WikiData/WD~S_2003_J_9,213994]]"
-  - "[[_Standards/WikiData/WD~Eirene,214002]]"
-  - "[[_Standards/WikiData/WD~S_2003_J_2,214005]]"
-  - "[[_Standards/WikiData/WD~S_2003_J_4,214296]]"
-  - "[[_Standards/WikiData/WD~S_2003_J_19,216069]]"
-  - "[[_Standards/WikiData/WD~S_2003_J_16,216086]]"
-  - "[[_Standards/WikiData/WD~Philophrosyne,216770]]"
-  - "[[_Standards/WikiData/WD~S_2003_J_23,216992]]"
-  - "[[_Standards/WikiData/WD~main_ring,378590]]"
-  - "[[_Standards/WikiData/WD~Jupiter_LI,765688]]"
-  - "[[_Standards/WikiData/WD~Jupiter_LII,934499]]"
-  - "[[_Standards/WikiData/WD~halo_ring,945984]]"
-  - "[[_Standards/WikiData/WD~S_2011_J_1,1458738]]"
-  - "[[_Standards/WikiData/WD~S_2011_J_2,1458744]]"
-  - "[[_Standards/WikiData/WD~46P_Wirtanen,1808299]]"
-  - "[[_Standards/WikiData/WD~gossamer_rings,3680049]]"
-  - "[[_Standards/WikiData/WD~S_2016_J_1,30110317]]"
-  - "[[_Standards/WikiData/WD~S_2017_J_1,30137638]]"
-  - "[[_Standards/WikiData/WD~Valetudo,55594346]]"
-  - "[[_Standards/WikiData/WD~Pandia,55594494]]"
-  - "[[_Standards/WikiData/WD~Ersa,55594492]]"
-  - "[[_Standards/WikiData/WD~S_2017_J_9,55594498]]"
-  - "[[_Standards/WikiData/WD~S_2017_J_2,55598485]]"
-  - "[[_Standards/WikiData/WD~S_2017_J_5,55598490]]"
-  - "[[_Standards/WikiData/WD~S_2017_J_8,55598488]]"
-  - "[[_Standards/WikiData/WD~S_2017_J_3,55598494]]"
-  - "[[_Standards/WikiData/WD~S_2017_J_6,55598492]]"
-  - "[[_Standards/WikiData/WD~S_2017_J_7,55598496]]"
+  - '[[_Standards/WikiData/WD~S_2003_J_24,107643667]]'
+  - '[[_Standards/WikiData/WD~rings_of_Jupiter,3060]]'
+  - '[[_Standards/WikiData/WD~Comet_Shoemaker_Levy_9,3076]]'
+  - '[[_Standards/WikiData/WD~Io,3123]]'
+  - '[[_Standards/WikiData/WD~Callisto,3134]]'
+  - '[[_Standards/WikiData/WD~Europa,3143]]'
+  - '[[_Standards/WikiData/WD~Ganymede,3169]]'
+  - '[[_Standards/WikiData/WD~Amalthea,3257]]'
+  - '[[_Standards/WikiData/WD~Metis,16755]]'
+  - '[[_Standards/WikiData/WD~Adrastea,16757]]'
+  - '[[_Standards/WikiData/WD~Thebe,16765]]'
+  - '[[_Standards/WikiData/WD~Themisto,16829]]'
+  - '[[_Standards/WikiData/WD~Leda,16837]]'
+  - '[[_Standards/WikiData/WD~Himalia,16841]]'
+  - '[[_Standards/WikiData/WD~Lysithea,16863]]'
+  - '[[_Standards/WikiData/WD~Elara,16865]]'
+  - '[[_Standards/WikiData/WD~Carpo,16870]]'
+  - '[[_Standards/WikiData/WD~Euanthe,16886]]'
+  - '[[_Standards/WikiData/WD~Euporie,16884]]'
+  - '[[_Standards/WikiData/WD~Thelxinoe,16885]]'
+  - '[[_Standards/WikiData/WD~Helike,16898]]'
+  - '[[_Standards/WikiData/WD~Orthosie,16904]]'
+  - '[[_Standards/WikiData/WD~Iocaste,16913]]'
+  - '[[_Standards/WikiData/WD~Praxidike,16936]]'
+  - '[[_Standards/WikiData/WD~Harpalyke,16942]]'
+  - '[[_Standards/WikiData/WD~Mneme,16946]]'
+  - '[[_Standards/WikiData/WD~Hermippe,16949]]'
+  - '[[_Standards/WikiData/WD~Thyone,16956]]'
+  - '[[_Standards/WikiData/WD~Ananke,16960]]'
+  - '[[_Standards/WikiData/WD~Herse,16968]]'
+  - '[[_Standards/WikiData/WD~Aitne,16974]]'
+  - '[[_Standards/WikiData/WD~Kale,17002]]'
+  - '[[_Standards/WikiData/WD~Taygete,17011]]'
+  - '[[_Standards/WikiData/WD~Chaldene,17035]]'
+  - '[[_Standards/WikiData/WD~Erinome,17068]]'
+  - '[[_Standards/WikiData/WD~Aoede,17077]]'
+  - '[[_Standards/WikiData/WD~Kallichore,17091]]'
+  - '[[_Standards/WikiData/WD~Carme,17111]]'
+  - '[[_Standards/WikiData/WD~Kalyke,17109]]'
+  - '[[_Standards/WikiData/WD~Callirrhoe,17396]]'
+  - '[[_Standards/WikiData/WD~Eurydome,17406]]'
+  - '[[_Standards/WikiData/WD~Pasithee,17414]]'
+  - '[[_Standards/WikiData/WD~Cyllene,17420]]'
+  - '[[_Standards/WikiData/WD~Eukelade,17421]]'
+  - '[[_Standards/WikiData/WD~Hegemone,17426]]'
+  - '[[_Standards/WikiData/WD~Pasiphae,17425]]'
+  - '[[_Standards/WikiData/WD~Arche,17429]]'
+  - '[[_Standards/WikiData/WD~Isonoe,17432]]'
+  - '[[_Standards/WikiData/WD~Sinope,17433]]'
+  - '[[_Standards/WikiData/WD~Autonoe,17439]]'
+  - '[[_Standards/WikiData/WD~Sponde,17436]]'
+  - '[[_Standards/WikiData/WD~Kore,17446]]'
+  - '[[_Standards/WikiData/WD~Megaclite,17448]]'
+  - '[[_Standards/WikiData/WD~Q157284,157284]]'
+  - '[[_Standards/WikiData/WD~Dia,190536]]'
+  - '[[_Standards/WikiData/WD~S_2003_J_12,193853]]'
+  - '[[_Standards/WikiData/WD~Eupheme,204283]]'
+  - '[[_Standards/WikiData/WD~S_2003_J_18,207884]]'
+  - '[[_Standards/WikiData/WD~S_2003_J_10,213982]]'
+  - '[[_Standards/WikiData/WD~S_2003_J_9,213994]]'
+  - '[[_Standards/WikiData/WD~Eirene,214002]]'
+  - '[[_Standards/WikiData/WD~S_2003_J_2,214005]]'
+  - '[[_Standards/WikiData/WD~S_2003_J_4,214296]]'
+  - '[[_Standards/WikiData/WD~S_2003_J_19,216069]]'
+  - '[[_Standards/WikiData/WD~S_2003_J_16,216086]]'
+  - '[[_Standards/WikiData/WD~Philophrosyne,216770]]'
+  - '[[_Standards/WikiData/WD~S_2003_J_23,216992]]'
+  - '[[_Standards/WikiData/WD~main_ring,378590]]'
+  - '[[_Standards/WikiData/WD~Jupiter_LI,765688]]'
+  - '[[_Standards/WikiData/WD~Jupiter_LII,934499]]'
+  - '[[_Standards/WikiData/WD~halo_ring,945984]]'
+  - '[[_Standards/WikiData/WD~S_2011_J_1,1458738]]'
+  - '[[_Standards/WikiData/WD~S_2011_J_2,1458744]]'
+  - '[[_Standards/WikiData/WD~46P_Wirtanen,1808299]]'
+  - '[[_Standards/WikiData/WD~gossamer_rings,3680049]]'
+  - '[[_Standards/WikiData/WD~S_2016_J_1,30110317]]'
+  - '[[_Standards/WikiData/WD~S_2017_J_1,30137638]]'
+  - '[[_Standards/WikiData/WD~Valetudo,55594346]]'
+  - '[[_Standards/WikiData/WD~Pandia,55594494]]'
+  - '[[_Standards/WikiData/WD~Ersa,55594492]]'
+  - '[[_Standards/WikiData/WD~S_2017_J_9,55594498]]'
+  - '[[_Standards/WikiData/WD~S_2017_J_2,55598485]]'
+  - '[[_Standards/WikiData/WD~S_2017_J_5,55598490]]'
+  - '[[_Standards/WikiData/WD~S_2017_J_8,55598488]]'
+  - '[[_Standards/WikiData/WD~S_2017_J_3,55598494]]'
+  - '[[_Standards/WikiData/WD~S_2017_J_6,55598492]]'
+  - '[[_Standards/WikiData/WD~S_2017_J_7,55598496]]'
 Commons_category: Jupiter (planet)
 Commons_gallery: Jupiter
 declination: 64.496
@@ -111,34 +114,33 @@ demonym:
   - Jovien
 density: 1326
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 Dewey_Decimal_Classification: 523.45
 diameter: 142984
-different_from: "[[_Standards/WikiData/WD~Jowisz,16280772]]"
+different_from: '[[_Standards/WikiData/WD~Jowisz,16280772]]'
 distance_from_Earth:
   - 588000000
   - 967000000
 flattening: 0.06487
-has_id_wikidata: Q319
 has_part_s_:
-  - "[[_Standards/WikiData/WD~magnetosphere_of_Jupiter,3041]]"
-  - "[[_Standards/WikiData/WD~atmosphere_of_Jupiter,3045]]"
+  - '[[_Standards/WikiData/WD~magnetosphere_of_Jupiter,3041]]'
+  - '[[_Standards/WikiData/WD~atmosphere_of_Jupiter,3045]]'
   - "[[_Standards/WikiData/WD~Jupiter's_internal_structure,3976182]]"
 Iconclass_notation: 24C12
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jupiter%20New%20Horizons.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~outer_planet,30014]]"
-  - "[[_Standards/WikiData/WD~gas_giant,121750]]"
-  - "[[_Standards/WikiData/WD~superior_planet,844911]]"
-location: "[[_Standards/WikiData/WD~outer_Solar_System,3962257]]"
+  - '[[_Standards/WikiData/WD~outer_planet,30014]]'
+  - '[[_Standards/WikiData/WD~gas_giant,121750]]'
+  - '[[_Standards/WikiData/WD~superior_planet,844911]]'
+location: '[[_Standards/WikiData/WD~outer_Solar_System,3962257]]'
 longitude_of_ascending_node: 100.47390909
 magnetic_moment: 1.55e+27
 mass:
@@ -146,13 +148,13 @@ mass:
   - 1
 mean_anomaly: 20.02
 MeSH_tree_code: G01.060.075.730.700.412
-named_after: "[[_Standards/WikiData/WD~Jupiter,4649]]"
+named_after: '[[_Standards/WikiData/WD~Jupiter,4649]]'
 OmegaWiki_Defined_Meaning: 382626
 orbital_eccentricity: 0.04839266
 orbital_inclination: 1.304
 orbital_period: 4332.589
-parent_astronomical_body: "[[_Standards/WikiData/WD~Sun,525]]"
-part_of: "[[_Standards/WikiData/WD~outer_Solar_System,3962257]]"
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
+part_of: '[[_Standards/WikiData/WD~outer_Solar_System,3962257]]'
 periapsis:
   - 4.950429
   - 740679835
@@ -175,14 +177,14 @@ Stack_Exchange_tag:
   - https://physics.stackexchange.com/tags/jupiter
   - https://space.stackexchange.com/tags/jupiter
   - https://astronomy.stackexchange.com/tags/jupiter
-studied_in: "[[_Standards/WikiData/WD~zenology,131581772]]"
+studied_in: '[[_Standards/WikiData/WD~zenology,131581772]]'
 surface_gravity: 23.1
 synodic_period: 398.88
 Unicode_character: ♃
 U_S_National_Archives_Identifier: 10046639
 video: http://commons.wikimedia.org/wiki/Special:FilePath/790106-0203%20Voyager%2058M%20to%2031M%20reduced.gif
 volume_as_quantity: 1431280000000000
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Jupiter,30589071]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Jupiter,30589071]]'
 Wolfram_Language_entity_code: Entity["Planet", "Jupiter"]
 ---
 

@@ -2,17 +2,19 @@
 aliases:
   - bongó
   - Bongos
+  - Bongo_Drum
+  - Bongo Drum
 has_id_wikidata: Q243998
 instance_of:
-  - "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
+  - '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~musical_instrument,34379]]"
-Nomenclature_for_Museum_Cataloging: "10742"
-OmegaWiki_Defined_Meaning: "404017"
+  - '[[_Standards/WikiData/WD~musical_instrument,34379]]'
+Nomenclature_for_Museum_Cataloging: 10742
+OmegaWiki_Defined_Meaning: 404017
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bongo.jpg
 Commons_category: Bongos
 Hornbostel_Sachs_classification: 211.251.2
-P8189: "987007283102205171"
+P8189: 987007283102205171
 ---
 
 # [[Bongo_Drum]] 

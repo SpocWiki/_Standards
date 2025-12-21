@@ -4,12 +4,13 @@ aliases:
   - id_health_plan_network
   - healthPlanNetworkId
   - has_id_health_plan_network
+  - has id health plan network
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +18,11 @@ keywords:
   - plan
   - network
   - id
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_id_health_plan_network
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

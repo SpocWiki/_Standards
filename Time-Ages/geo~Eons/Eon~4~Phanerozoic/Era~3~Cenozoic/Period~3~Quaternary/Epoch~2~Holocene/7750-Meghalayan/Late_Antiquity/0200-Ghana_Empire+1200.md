@@ -3,18 +3,20 @@ aliases:
   - Ghana Empire
   - Ghanata
   - Wagadu
+  - 0200-Ghana_Empire+1200
+  - 0200-Ghana Empire+1200
 has_id_wikidata: Q206789
-capital: "[[_Standards/WikiData/WD~Koumbi_Saleh,682728]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q3446265,3446265]]"
+capital: '[[_Standards/WikiData/WD~Koumbi_Saleh,682728]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q3446265,3446265]]'
 dissolved_abolished_or_demolished_date: 1200-01-01T00:00:00Z
 inception: 0100-01-01T00:00:00Z
 located_in_the_present_day_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Mali,912]]"
-  - "[[_Standards/WikiData/WD~Mauritania,1025]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~monarchy,7269]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
-official_language: "[[_Standards/WikiData/WD~Soninke,36660]]"
+  - '[[_Standards/WikiData/WD~Mali,912]]'
+  - '[[_Standards/WikiData/WD~Mauritania,1025]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
+official_language: '[[_Standards/WikiData/WD~Soninke,36660]]'
 locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/%CE%91%CF%85%CF%84%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%BF%CF%81%CE%AF%CE%B1%20%CE%93%CE%BA%CE%AC%CE%BD%CE%B1%20%CF%87%CE%AC%CF%81%CF%84%CE%B7%CF%82.png
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ghana%20empire%20map-fr.png

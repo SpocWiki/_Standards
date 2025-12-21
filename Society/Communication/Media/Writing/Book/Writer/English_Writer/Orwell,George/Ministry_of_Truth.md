@@ -1,9 +1,10 @@
 ---
 aliases:
-- "Ministry of Truth"
-- "Ministry of Peace"
-- "Ministry of Love"
-- "Ministry of Plenty"
+  - Ministry of Truth
+  - Ministry of Peace
+  - Ministry of Love
+  - Ministry of Plenty
+  - Ministry_of_Truth
 ---
 
 ## #has_/text_of_/abstract 

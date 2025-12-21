@@ -1,6 +1,7 @@
 ---
 aliases:
   - A.P. Møller – Mærsk
+  - Maersk
 has_id_wikidata: Q18224
 ---
 

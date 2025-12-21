@@ -4,14 +4,14 @@ aliases:
   - Enkel
   - Enkelin
 has_id_wikidata: Q3603531
-opposite_of: "[[_Standards/WikiData/WD~grandparent,167918]]"
-instance_of: "[[_Standards/WikiData/WD~kinship,171318]]"
+opposite_of: '[[_Standards/WikiData/WD~grandparent,167918]]'
+instance_of: '[[_Standards/WikiData/WD~kinship,171318]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~lineal_descendant,19671714]]"
-  - "[[_Standards/WikiData/WD~second_degree_relative,24882651]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-OmegaWiki_Defined_Meaning: "6624"
-U_S_National_Archives_Identifier: "10638112"
+  - '[[_Standards/WikiData/WD~lineal_descendant,19671714]]'
+  - '[[_Standards/WikiData/WD~second_degree_relative,24882651]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+OmegaWiki_Defined_Meaning: 6624
+U_S_National_Archives_Identifier: 10638112
 female_form_of_label:
   - nieta
   - barnedatter

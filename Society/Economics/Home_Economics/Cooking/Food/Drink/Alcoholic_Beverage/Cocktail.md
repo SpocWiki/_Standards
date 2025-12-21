@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cocktail
 has_id_wikidata: Q134768
 made_from_material:
   - "[[_Standards/WikiData/WD~drinking_vessel,2453629]]"
@@ -19,14 +21,14 @@ Commons_gallery: Cocktail
 Commons_category: Cocktails
 Unicode_character: 🍸
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cocktail1.jpg
-P8189: "987007284048705171"
+P8189: 987007284048705200
 subreddit: cocktails
 Wolfram_Language_entity_code: Entity["FoodType", "Cocktail"]
 OpenStreetMap_tag_or_key: Tag:cocktails=yes
 Baidu_Tieba_name: 鸡尾酒
 ---
 
-# [[Cocktail]] 
+# [[Cocktail]] 🍸 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Cocktail,134768|WD~Cocktail,134768]] 
 

@@ -4,23 +4,25 @@ aliases:
   - job_location_type
   - jobLocationType
   - has_text_of_job_location_type
+  - has_job_location_type
+  - has job location type
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - job
   - location
   - type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_job_location_type
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

@@ -1,32 +1,33 @@
 ---
 aliases:
   - Draht
+  - Wire
 has_id_wikidata: Q551997
 has_use:
-  - "[[_Standards/WikiData/WD~electrical_conductor,124291]]"
-  - "[[_Standards/WikiData/WD~string,326426]]"
-  - "[[_Standards/WikiData/WD~tension_element,17144541]]"
+  - '[[_Standards/WikiData/WD~electrical_conductor,124291]]'
+  - '[[_Standards/WikiData/WD~string,326426]]'
+  - '[[_Standards/WikiData/WD~tension_element,17144541]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~electrical_conductor,124291]]"
-  - "[[_Standards/WikiData/WD~material,214609]]"
-  - "[[../../../../WikiData/WD~fiber,161]]"
+  - '[[_Standards/WikiData/WD~electrical_conductor,124291]]'
+  - '[[_Standards/WikiData/WD~material,214609]]'
+  - '[[../../../../WikiData/WD~fiber,161]]'
 different_from:
-  - "[[_Standards/WikiData/WD~electrical_cable,188447]]"
-  - "[[_Standards/WikiData/WD~optical_fiber,162]]"
+  - '[[_Standards/WikiData/WD~electrical_cable,188447]]'
+  - '[[_Standards/WikiData/WD~optical_fiber,162]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-made_from_material: "[[_Standards/WikiData/WD~metallic_material,1924900]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+made_from_material: '[[_Standards/WikiData/WD~metallic_material,1924900]]'
 Commons_gallery: Wire
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Litz%20wire%20by%20Zureks.JPG
   - http://commons.wikimedia.org/wiki/Special:FilePath/Wire.agr.jpg
 Commons_category: Wires
 Dewey_Decimal_Classification:
-  - "731.2"
-  - "671.842"
+  - 731.2
+  - 671.842
 OpenStreetMap_key: wires
 ---
 

@@ -1,30 +1,31 @@
 ---
 aliases:
   - Tisch
+  - Table(Furniture)
 has_id_wikidata: Q14748
 different_from:
-  - "[[_Standards/WikiData/WD~table,496946]]"
-  - "[[_Standards/WikiData/WD~Table,14749]]"
+  - '[[_Standards/WikiData/WD~table,496946]]'
+  - '[[_Standards/WikiData/WD~Table,14749]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~1911_Encyclopædia_Britannica_Table,84694475]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-has_part_s_: "[[_Standards/WikiData/WD~furniture_leg,56056049]]"
-subclass_of: "[[_Standards/WikiData/WD~furniture,14745]]"
-Nomenclature_for_Museum_Cataloging: "1349"
-OmegaWiki_Defined_Meaning: "7196"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~1911_Encyclopædia_Britannica_Table,84694475]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+has_part_s_: '[[_Standards/WikiData/WD~furniture_leg,56056049]]'
+subclass_of: '[[_Standards/WikiData/WD~furniture,14745]]'
+Nomenclature_for_Museum_Cataloging: 1349
+OmegaWiki_Defined_Meaning: 7196
 IMDb_keyword: table
 Iconclass_notation: 41A711
 Commons_gallery: Table
-U_S_National_Archives_Identifier: "10663128"
+U_S_National_Archives_Identifier: 10663128
 3D_model:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Cube%20Diorama%20%E2%80%93%20Sidetable.stl
   - http://commons.wikimedia.org/wiki/Special:FilePath/Cube%20Diorama%20%E2%80%93%20Table.stl
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9129%20%28ell%29-Nikosguard-%CF%84%CF%81%CE%B1%CF%80%CE%AD%CE%B6%CE%B9.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Parsons%20Table.jpg
 Commons_category: Tables
-Dewey_Decimal_Classification: "645.4"
+Dewey_Decimal_Classification: 645.4
 OpenStreetMap_tag: amenity=table
 ---
 

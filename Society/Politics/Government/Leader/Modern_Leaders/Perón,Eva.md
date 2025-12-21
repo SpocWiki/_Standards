@@ -1,9 +1,10 @@
 ---
 aliases:
-- "María Eva Duarte de Perón"
-- "Eva Perón"
-- "María Eva Duarte"
-- Evita
+  - María Eva Duarte de Perón
+  - Eva Perón
+  - María Eva Duarte
+  - Evita
+  - Perón,Eva
 has_id_wikidata: Q40933
 ---
 

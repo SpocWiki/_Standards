@@ -3,16 +3,17 @@ aliases:
   - Silikon
   - Silikonkautschuk
   - polysiloxane
+  - Silicone
 has_id_wikidata: Q146439
-subclass_of: "[[_Standards/WikiData/WD~polymer,81163]]"
-polymer_of: "[[_Standards/WikiData/WD~polydimethylsiloxane,411955]]"
-has_characteristic: "[[_Standards/WikiData/WD~thermal_resistance,1047234]]"
+subclass_of: '[[_Standards/WikiData/WD~polymer,81163]]'
+polymer_of: '[[_Standards/WikiData/WD~polydimethylsiloxane,411955]]'
+has_characteristic: '[[_Standards/WikiData/WD~thermal_resistance,1047234]]'
 different_from:
-  - "[[_Standards/WikiData/WD~silicone_rubber,4115245]]"
-  - "[[_Standards/WikiData/WD~silicon,670]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+  - '[[_Standards/WikiData/WD~silicone_rubber,4115245]]'
+  - '[[_Standards/WikiData/WD~silicon,670]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Liquid-silicon-rubber.jpg
-UNSPSC_Code: "12352310"
+UNSPSC_Code: 12352310
 ATC_code: A03AX13
 UMLS_CUI: C0037114
 MeSH_tree_code:

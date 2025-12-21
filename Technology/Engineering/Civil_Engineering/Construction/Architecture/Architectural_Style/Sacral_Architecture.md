@@ -3,16 +3,18 @@ aliases:
   - Sacral architecture
   - sacred architecture
   - religious architecture
+  - Sacral_Architecture
+  - Sacral Architecture
 has_id_wikidata: Q47848
 subclass_of:
-  - "[[_Standards/WikiData/WD~religious_art,2864737]]"
-  - "[[_Standards/WikiData/WD~architecture,12271]]"
-facet_of: "[[_Standards/WikiData/WD~religion,9174]]"
-instance_of: "[[_Standards/WikiData/WD~architectural_style,32880]]"
-Dewey_Decimal_Classification: "726"
+  - '[[_Standards/WikiData/WD~religious_art,2864737]]'
+  - '[[_Standards/WikiData/WD~architecture,12271]]'
+facet_of: '[[_Standards/WikiData/WD~religion,9174]]'
+instance_of: '[[_Standards/WikiData/WD~architectural_style,32880]]'
+Dewey_Decimal_Classification: 726
 Basisklassifikation:
-  - "21.70"
-  - "56.88"
+  - 21.70
+  - 56.88
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sint-Martinuskerk%20Moorsel%20-%20392145%20-%20onroerenderfgoed.jpg
 Provenio_UUID: 707648c8-a554-448c-b0ae-9bcf0fd19835
 Commons_category: Religious architecture

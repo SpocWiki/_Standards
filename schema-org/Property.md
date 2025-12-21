@@ -1,35 +1,35 @@
 ---
 aliases:
-- property
-- Property
-- is_a_property
-- "rdf:Property"
-- "schema:Property"
-- Quantity[Properties](property.md)~Property
-- owl~ObjectProperty
-- itemprop
-- 
+  - property
+  - Property
+  - is_a_property
+  - rdf:Property
+  - schema:Property
+  - Quantity[Properties](property.md)~Property
+  - owl~ObjectProperty
+  - itemprop
+  - ''
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-equivalent_class: "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
-expiryDate: 
+equivalent_class: http://www.w3.org/1999/02/22-rdf-syntax-ns#Property
+expiryDate: ''
 has_time_started: 2023-10-03
 isDeleted: false
 isReadOnly: false
 keywords:
-- property
+  - property
 lang: en
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_property Class"
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_a_property Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- schema-org/Class
-- schema-org/Property
-title: "is_a_property Class"
+  - schema-org/Class
+  - schema-org/Property
+title: is_a_property Class
 type: Property
 ---
 

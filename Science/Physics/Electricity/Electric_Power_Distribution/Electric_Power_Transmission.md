@@ -1,25 +1,27 @@
 ---
 aliases:
   - Electric power transmission
+  - Electric_Power_Transmission
+  - Electric Power Transmission
 has_id_wikidata: Q200928
 different_from:
-  - "[[_Standards/WikiData/WD~overhead_contact_line,110701]]"
-  - "[[_Standards/WikiData/WD~Electric_transmission,96377104]]"
+  - '[[_Standards/WikiData/WD~overhead_contact_line,110701]]'
+  - '[[_Standards/WikiData/WD~Electric_transmission,96377104]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~power_transmission,3242194]]"
-  - "[[_Standards/WikiData/WD~electrical_engineering,43035]]"
+  - '[[_Standards/WikiData/WD~power_transmission,3242194]]'
+  - '[[_Standards/WikiData/WD~electrical_engineering,43035]]'
 instance_of:
-  - "[[../../../../WikiData/WD~economic_activity,8187769]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_electric_power_transmission,17030101]]"
+  - '[[../../../../WikiData/WD~economic_activity,8187769]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_electric_power_transmission,17030101]]'
 uses:
-  - "[[_Standards/WikiData/WD~high_voltage_power_line,18562917]]"
-  - "[[_Standards/WikiData/WD~energy_infrastructure,56397239]]"
+  - '[[_Standards/WikiData/WD~high_voltage_power_line,18562917]]'
+  - '[[_Standards/WikiData/WD~energy_infrastructure,56397239]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%20%E0%A6%B8%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%A8.wav
-Nomenclature_for_Museum_Cataloging: "8799"
+Nomenclature_for_Museum_Cataloging: 8799
 OpenStreetMap_tag_or_key:
   - Key:power
   - Tag:usage=transmission

@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Pierce Brendan Brosnan"
-- "Pierce Brosnan"
+  - Pierce Brendan Brosnan
+  - Pierce Brosnan
+  - Brosnan,Pierce
 ---
 
 ## #has_/text_of_/abstract 

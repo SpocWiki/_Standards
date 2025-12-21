@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Academic_Art
+  - Academic Art
 has_id_wikidata: Q189458
 ---
 

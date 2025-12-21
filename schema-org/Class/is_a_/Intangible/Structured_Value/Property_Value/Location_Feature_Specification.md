@@ -4,20 +4,22 @@ aliases:
   - location_feature_specification
   - LocationFeatureSpecification
   - is_a_location_feature_specification
+  - Location_Feature_Specification
+  - Location Feature Specification
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - location_feature_specification
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_location_feature_specification Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

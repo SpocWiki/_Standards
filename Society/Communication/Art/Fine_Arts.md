@@ -1,6 +1,7 @@
 ---
 aliases:
   - Fine Arts
+  - Fine_Arts
 ---
 
 # [[Fine_Arts]] 

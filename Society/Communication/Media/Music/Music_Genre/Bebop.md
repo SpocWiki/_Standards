@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bebop
 has_id_wikidata: Q105513
 ---
 

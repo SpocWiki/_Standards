@@ -1,30 +1,31 @@
 ---
 aliases:
   - Cembalo
+  - Harpsichord
 has_id_wikidata: Q81982
 subclass_of:
-  - "[[_Standards/WikiData/WD~plucked_string_instrument,230262]]"
-  - "[[_Standards/WikiData/WD~Q1740992,1740992]]"
-  - "[[_Standards/WikiData/WD~true_board_zithers_with_resonator_box,4951628]]"
-  - "[[_Standards/WikiData/WD~keyboard_instrument,52954]]"
+  - '[[_Standards/WikiData/WD~plucked_string_instrument,230262]]'
+  - '[[_Standards/WikiData/WD~Q1740992,1740992]]'
+  - '[[_Standards/WikiData/WD~true_board_zithers_with_resonator_box,4951628]]'
+  - '[[_Standards/WikiData/WD~keyboard_instrument,52954]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-model_item: "[[_Standards/WikiData/WD~Marguerite_Antoinette_Couperin,2870861]]"
-different_from: "[[_Standards/WikiData/WD~Cembalo,3664335]]"
-used_by: "[[_Standards/WikiData/WD~harpsichordist,5371902]]"
-manufacturer: "[[_Standards/WikiData/WD~harpsichord_maker,39069833]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
-OmegaWiki_Defined_Meaning: "453680"
-Nomenclature_for_Museum_Cataloging: "10703"
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+model_item: '[[_Standards/WikiData/WD~Marguerite_Antoinette_Couperin,2870861]]'
+different_from: '[[_Standards/WikiData/WD~Cembalo,3664335]]'
+used_by: '[[_Standards/WikiData/WD~harpsichordist,5371902]]'
+manufacturer: '[[_Standards/WikiData/WD~harpsichord_maker,39069833]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+OmegaWiki_Defined_Meaning: 453680
+Nomenclature_for_Museum_Cataloging: 10703
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Clavecin%20flamand.png
 Hornbostel_Sachs_classification: 314.122-6-8
 Dewey_Decimal_Classification:
-  - "786.4"
-  - "786.419"
+  - 786.4
+  - 786.419
 Commons_category: Harpsichords
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Bach%20C%20Major%20Prelude%20Equal.ogg
 Krugosvet_article_archived_: muzyka/klavesin

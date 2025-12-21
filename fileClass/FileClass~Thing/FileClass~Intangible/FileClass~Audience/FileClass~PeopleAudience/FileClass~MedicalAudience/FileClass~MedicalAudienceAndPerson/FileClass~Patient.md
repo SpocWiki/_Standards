@@ -1,32 +1,34 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Patient
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~MedicalAudience/FileClass~MedicalAudienceAndPerson
 fields:
-- id: N2O23Z
-  name: Diagnosis
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalCondition')"
-  type: MultiFile
-  path: ''
-- id: wldGzk
-  name: Drug
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')"
-  type: MultiFile
-  path: ''
+  - id: N2O23Z
+    name: Diagnosis
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
+    type: MultiFile
+    path: ''
+  - id: wldGzk
+    name: Drug
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Patient
-- class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience/MedicalAudienceAndPerson/Patient
-- is_a_/Patient
-- schema-org/Patient
+  - class/Patient
+  - class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience/MedicalAudienceAndPerson/Patient
+  - is_a_/Patient
+  - schema-org/Patient
 tags:
-- class/FileClass
-- class/Patient
-- is_a_/Patient
-- class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience/MedicalAudienceAndPerson/Patient
+  - class/FileClass
+  - class/Patient
+  - is_a_/Patient
+  - class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience/MedicalAudienceAndPerson/Patient
 version: 2.0
 ---
 

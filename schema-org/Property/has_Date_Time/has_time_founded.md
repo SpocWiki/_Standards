@@ -1,29 +1,31 @@
 ---
 aliases:
-- founding-date
-- founding_date
-- foundingDate
-- has_time_of_founding
-- "schema:founded"
-- "dbo:foundingDate"
-- "wdt:P571"
+  - founding-date
+  - founding_date
+  - foundingDate
+  - has_time_of_founding
+  - schema:founded
+  - dbo:foundingDate
+  - wdt:P571
+  - has_time_founded
+  - has time founded
 confidential: public
 cssclasses:
-- Predicate
-- Date_Time
+  - Predicate
+  - Date_Time
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+keywords: ''
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: ''
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Date
+  - class/Property
+  - schema-org/Property/Date
 title: has_time_of_founding
 type: Predi_Date_Time
 ---

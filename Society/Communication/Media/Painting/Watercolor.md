@@ -3,40 +3,41 @@ aliases:
   - watercolour
   - aquarelle
   - Aquarell
+  - Watercolor
 has_id_wikidata: Q50030
 made_from_material:
-  - "[[_Standards/WikiData/WD~pigment,161179]]"
-  - "[[_Standards/WikiData/WD~gum_arabic_solution,3046705]]"
-  - "[[_Standards/WikiData/WD~watercolor_paint,3374389]]"
+  - '[[_Standards/WikiData/WD~pigment,161179]]'
+  - '[[_Standards/WikiData/WD~gum_arabic_solution,3046705]]'
+  - '[[_Standards/WikiData/WD~watercolor_paint,3374389]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Technical_Encyclopedia,4456818]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Diccionario_de_materias_y_técnicas_(II),24090568]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Technical_Encyclopedia,4456818]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Diccionario_de_materias_y_técnicas_(II),24090568]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~painting_technique,1231896]]"
-  - "[[_Standards/WikiData/WD~painting_material,3300034]]"
-subclass_of: "[[_Standards/WikiData/WD~art_of_drawing,2921001]]"
+  - '[[_Standards/WikiData/WD~painting_technique,1231896]]'
+  - '[[_Standards/WikiData/WD~painting_material,3300034]]'
+subclass_of: '[[_Standards/WikiData/WD~art_of_drawing,2921001]]'
 different_from:
-  - "[[_Standards/WikiData/WD~watercolor_paint,3374389]]"
-  - "[[_Standards/WikiData/WD~watercolor_painting,18761202]]"
-practiced_by: "[[_Standards/WikiData/WD~watercolorist,17505902]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~watercolor_painting,18761202]]"
-OmegaWiki_Defined_Meaning: "1140793"
+  - '[[_Standards/WikiData/WD~watercolor_paint,3374389]]'
+  - '[[_Standards/WikiData/WD~watercolor_painting,18761202]]'
+practiced_by: '[[_Standards/WikiData/WD~watercolorist,17505902]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~watercolor_painting,18761202]]'
+OmegaWiki_Defined_Meaning: 1140793
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dolceacqua43%20-%20Artista%20locale%20mentre%20dipinge%20un%20acquarello.jpg
 Artsy_gene: watercolor
 Europeana_entity: concept/base/221
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteur%20Journ%C3%A9e%202%20-%2027%20%28Madehub%29-aquarelle.wav
 P2167:
-  - "60121221"
-  - "60121223"
+  - 60121221
+  - 60121223
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/AKVAREL.html
 Commons_category: Water color
-Dewey_Decimal_Classification: "751.422"
+Dewey_Decimal_Classification: 751.422
 ---
 
 # [[Watercolor]] 

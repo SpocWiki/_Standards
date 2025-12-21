@@ -2,15 +2,17 @@
 aliases:
   - international sport governing body
   - International sports federation,
+  - International_Sports_Federation
+  - International Sports Federation
 has_id_wikidata: Q11422536
 subclass_of:
-  - "[[_Standards/WikiData/WD~international_organization,484652]]"
-  - "[[_Standards/WikiData/WD~sport_association,1531833]]"
-  - "[[_Standards/WikiData/WD~sports_governing_body,2485448]]"
-  - "[[_Standards/WikiData/WD~international_association,29300714]]"
-has_list: "[[_Standards/WikiData/WD~list_of_international_sport_governing_bodies,1346006]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-has_part_s_: "[[_Standards/WikiData/WD~National_Sports_governing_body,130405942]]"
+  - '[[_Standards/WikiData/WD~international_organization,484652]]'
+  - '[[_Standards/WikiData/WD~sport_association,1531833]]'
+  - '[[_Standards/WikiData/WD~sports_governing_body,2485448]]'
+  - '[[_Standards/WikiData/WD~international_association,29300714]]'
+has_list: '[[_Standards/WikiData/WD~list_of_international_sport_governing_bodies,1346006]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+has_part_s_: '[[_Standards/WikiData/WD~National_Sports_governing_body,130405942]]'
 ---
 
 # [[International_Sports_Federation]] 

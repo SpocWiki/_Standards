@@ -4,20 +4,22 @@ aliases:
   - social_media_posting
   - SocialMediaPosting
   - is_a_social_media_posting
+  - Social_Media_Posting
+  - Social Media Posting
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - social_media_posting
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_social_media_posting Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

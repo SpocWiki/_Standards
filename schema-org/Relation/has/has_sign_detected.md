@@ -3,23 +3,24 @@ aliases:
   - has sign-detected
   - signDetected
   - has_sign_detected
+  - has sign detected
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sign_detected
   - sign
   - detected
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_sign_detected
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

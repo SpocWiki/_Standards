@@ -2,6 +2,8 @@
 aliases:
   - Letter of marque
   - privateering
+  - Letter_of_Marque
+  - Letter of Marque
 ---
 
 # [[Letter_of_Marque]] 

@@ -1,11 +1,13 @@
 ---
 aliases:
   - dioptric telescope
+  - Refracting_Telescope
+  - Refracting Telescope
 has_id_wikidata: Q216778
-has_part_s_: "[[_Standards/WikiData/WD~lens,768575]]"
-subclass_of: "[[_Standards/WikiData/WD~optical_telescope,35273]]"
-Nomenclature_for_Museum_Cataloging: "8405"
-OmegaWiki_Defined_Meaning: "666042"
+has_part_s_: '[[_Standards/WikiData/WD~lens,768575]]'
+subclass_of: '[[_Standards/WikiData/WD~optical_telescope,35273]]'
+Nomenclature_for_Museum_Cataloging: 8405
+OmegaWiki_Defined_Meaning: 666042
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Zeiss2.jpg
 Commons_category: Refracting telescopes
 ---

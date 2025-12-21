@@ -4,20 +4,22 @@ aliases:
   - game_play_mode
   - GamePlayMode
   - is_a_game_play_mode
+  - Game_Play_Mode
+  - Game Play Mode
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - game_play_mode
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_game_play_mode Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

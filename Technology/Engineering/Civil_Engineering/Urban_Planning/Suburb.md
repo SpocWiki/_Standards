@@ -1,20 +1,21 @@
 ---
 aliases:
   - Vorstadt
+  - Suburb
 has_id_wikidata: Q188509
 subclass_of:
-  - "[[_Standards/WikiData/WD~neighborhood,123705]]"
-  - "[[_Standards/WikiData/WD~human_settlement,486972]]"
-  - "[[_Standards/WikiData/WD~urban_area,702492]]"
+  - '[[_Standards/WikiData/WD~neighborhood,123705]]'
+  - '[[_Standards/WikiData/WD~human_settlement,486972]]'
+  - '[[_Standards/WikiData/WD~urban_area,702492]]'
 different_from:
-  - "[[_Standards/WikiData/WD~faubourg,442799]]"
-  - "[[_Standards/WikiData/WD~Przedmieście,11828304]]"
-  - "[[_Standards/WikiData/WD~bounded_rural_locality,30114493]]"
-has_cause: "[[_Standards/WikiData/WD~suburbanization,1091971]]"
-described_by_source: "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-instance_of: "[[_Standards/WikiData/WD~urban_unit_definition,15700808]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~suburban_community,98397779]]"
-OmegaWiki_Defined_Meaning: "3663"
+  - '[[_Standards/WikiData/WD~faubourg,442799]]'
+  - '[[_Standards/WikiData/WD~Przedmieście,11828304]]'
+  - '[[_Standards/WikiData/WD~bounded_rural_locality,30114493]]'
+has_cause: '[[_Standards/WikiData/WD~suburbanization,1091971]]'
+described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+instance_of: '[[_Standards/WikiData/WD~urban_unit_definition,15700808]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~suburban_community,98397779]]'
+OmegaWiki_Defined_Meaning: 3663
 social_media_followers: 55284
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bangsar.JPG
 exact_match:
@@ -29,7 +30,7 @@ subreddit: Suburbanhell
 DPLA_subject_term: Suburbs
 Commons_category: Suburbs
 OpenStreetMap_tag: place=suburb
-Dewey_Decimal_Classification: "307.74"
+Dewey_Decimal_Classification: 307.74
 ---
 
 # [[Suburb]] 

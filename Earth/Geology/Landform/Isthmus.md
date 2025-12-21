@@ -3,17 +3,18 @@ aliases:
   - isthmuses
   - isthmi
   - Landbrücke
-  - 
+  - ''
+  - Isthmus
 has_id_wikidata: Q93267
-subclass_of: "[[_Standards/WikiData/WD~landform,271669]]"
+subclass_of: '[[_Standards/WikiData/WD~landform,271669]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-instance_of: "[[_Standards/WikiData/WD~place_type,25894868]]"
-opposite_of: "[[_Standards/WikiData/WD~strait,37901]]"
-OmegaWiki_Defined_Meaning: "683956"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[_Standards/WikiData/WD~place_type,25894868]]'
+opposite_of: '[[_Standards/WikiData/WD~strait,37901]]'
+OmegaWiki_Defined_Meaning: 683956
 Commons_category: Isthmi
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Neck%20Bruny%20Island.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000174

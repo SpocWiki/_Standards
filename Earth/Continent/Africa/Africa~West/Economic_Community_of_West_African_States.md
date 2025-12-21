@@ -3,6 +3,8 @@ aliases:
   - Economic Community of West African States 
   - ECOWAS
   - CEDEAO
+  - Economic_Community_of_West_African_States
+  - Economic Community of West African States
 has_id_wikidata: Q193272
 short_name:
   - CEDEAO
@@ -20,50 +22,50 @@ official_name:
   - Comunidade Económica dos Estados da África Ocidental
   - Economic Community of West African States
 instance_of:
-  - "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
-  - "[[_Standards/WikiData/WD~Regional_Economic_Communities,1122435]]"
+  - '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
+  - '[[_Standards/WikiData/WD~Regional_Economic_Communities,1122435]]'
 official_observer_status_in_organization:
-  - "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
-  - "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
-partnership_with: "[[_Standards/WikiData/WD~International_Fund_for_Agricultural_Development,689859]]"
+  - '[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]'
+  - '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
+partnership_with: '[[_Standards/WikiData/WD~International_Fund_for_Agricultural_Development,689859]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~economic_integration,729438]]"
-  - "[[_Standards/WikiData/WD~military_policy,1667082]]"
-general_secretary: "[[_Standards/WikiData/WD~Omar_Touray,2023146]]"
-chairperson: "[[_Standards/WikiData/WD~Bola_Ahmed_Tinubu,3510872]]"
+  - '[[_Standards/WikiData/WD~economic_integration,729438]]'
+  - '[[_Standards/WikiData/WD~military_policy,1667082]]'
+general_secretary: '[[_Standards/WikiData/WD~Omar_Touray,2023146]]'
+chairperson: '[[_Standards/WikiData/WD~Bola_Ahmed_Tinubu,3510872]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~West_African_Health_Organisation,30262804]]"
-  - "[[_Standards/WikiData/WD~ECOWAS_Court,30324003]]"
-  - "[[_Standards/WikiData/WD~ECOWAS_Parliament,97374162]]"
-  - "[[_Standards/WikiData/WD~Mali,912]]"
-  - "[[_Standards/WikiData/WD~Togo,945]]"
-  - "[[_Standards/WikiData/WD~Benin,962]]"
-  - "[[_Standards/WikiData/WD~Burkina_Faso,965]]"
-  - "[[_Standards/WikiData/WD~Guinea,1006]]"
-  - "[[_Standards/WikiData/WD~Guinea_Bissau,1007]]"
-  - "[[_Standards/WikiData/WD~The_Gambia,1005]]"
-  - "[[_Standards/WikiData/WD~Cape_Verde,1011]]"
-  - "[[_Standards/WikiData/WD~Ivory_Coast,1008]]"
-  - "[[_Standards/WikiData/WD~Liberia,1014]]"
-  - "[[_Standards/WikiData/WD~Niger,1032]]"
-  - "[[_Standards/WikiData/WD~Nigeria,1033]]"
-  - "[[_Standards/WikiData/WD~Senegal,1041]]"
-  - "[[_Standards/WikiData/WD~Sierra_Leone,1044]]"
-  - "[[_Standards/WikiData/WD~Ghana,117]]"
+  - '[[_Standards/WikiData/WD~West_African_Health_Organisation,30262804]]'
+  - '[[_Standards/WikiData/WD~ECOWAS_Court,30324003]]'
+  - '[[_Standards/WikiData/WD~ECOWAS_Parliament,97374162]]'
+  - '[[_Standards/WikiData/WD~Mali,912]]'
+  - '[[_Standards/WikiData/WD~Togo,945]]'
+  - '[[_Standards/WikiData/WD~Benin,962]]'
+  - '[[_Standards/WikiData/WD~Burkina_Faso,965]]'
+  - '[[_Standards/WikiData/WD~Guinea,1006]]'
+  - '[[_Standards/WikiData/WD~Guinea_Bissau,1007]]'
+  - '[[_Standards/WikiData/WD~The_Gambia,1005]]'
+  - '[[_Standards/WikiData/WD~Cape_Verde,1011]]'
+  - '[[_Standards/WikiData/WD~Ivory_Coast,1008]]'
+  - '[[_Standards/WikiData/WD~Liberia,1014]]'
+  - '[[_Standards/WikiData/WD~Niger,1032]]'
+  - '[[_Standards/WikiData/WD~Nigeria,1033]]'
+  - '[[_Standards/WikiData/WD~Senegal,1041]]'
+  - '[[_Standards/WikiData/WD~Sierra_Leone,1044]]'
+  - '[[_Standards/WikiData/WD~Ghana,117]]'
 official_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Portuguese,5146]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Abuja,3787]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~West_Africa,4412]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Portuguese,5146]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Abuja,3787]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~West_Africa,4412]]'
 social_media_followers: 113836
 inception: 1975-05-28T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ECOWAS%20Flag.png
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/ECOWAS%20members.svg
 official_website: http://www.ecowas.int
 ISNI:
-  - "0000000121833325"
-  - "0000000406473669"
+  - 0000000121833325
+  - 0000000406473669
 Libris_URI: c9prp3xw39bsqv0
 Commons_category: Economic Community of West African States
 X_Twitter_username: ecowas_cedeao

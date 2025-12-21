@@ -4,21 +4,23 @@ aliases:
   - health_plan_marketing_url
   - healthPlanMarketingUrl
   - has_url_for_health_plan_marketing_url
+  - has_url_for_health_plan_marketing
+  - has url for health plan marketing
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - health_plan_marketing_url
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_health_plan_marketing_url
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

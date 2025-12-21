@@ -4,21 +4,23 @@ aliases:
   - active_action_status
   - ActiveActionStatus
   - is_an_active_action_status
+  - Active_Action_Status
+  - Active Action Status
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: ActionStatusType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - active_action_status
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_active_action_status Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,33 +1,34 @@
 ---
 aliases:
   - Kosmetik
+  - Cosmetics
 has_id_wikidata: Q131207
 subclass_of:
-  - "[[_Standards/WikiData/WD~chemical_substance,79529]]"
-  - "[[_Standards/WikiData/WD~health_care_or_beauty_item,115922057]]"
-  - "[[_Standards/WikiData/WD~cosmetic_product,116221438]]"
+  - '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+  - '[[_Standards/WikiData/WD~health_care_or_beauty_item,115922057]]'
+  - '[[_Standards/WikiData/WD~cosmetic_product,116221438]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 has_use:
-  - "[[_Standards/WikiData/WD~make_up,1190910]]"
-  - "[[_Standards/WikiData/WD~beautification,135410393]]"
-different_from: "[[_Standards/WikiData/WD~cosmetology,2474068]]"
-used_by: "[[_Standards/WikiData/WD~cosmetology,2474068]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Cosmetics,7657881]]"
-part_of: "[[_Standards/WikiData/WD~cosmetic_terminology,77667944]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]"
-IAB_code: "555"
-Nomenclature_for_Museum_Cataloging: "3007"
-U_S_National_Archives_Identifier: "10646868"
+  - '[[_Standards/WikiData/WD~make_up,1190910]]'
+  - '[[_Standards/WikiData/WD~beautification,135410393]]'
+different_from: '[[_Standards/WikiData/WD~cosmetology,2474068]]'
+used_by: '[[_Standards/WikiData/WD~cosmetology,2474068]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Cosmetics,7657881]]'
+part_of: '[[_Standards/WikiData/WD~cosmetic_terminology,77667944]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]'
+IAB_code: 555
+Nomenclature_for_Museum_Cataloging: 3007
+U_S_National_Archives_Identifier: 10646868
 Dewey_Decimal_Classification:
-  - "668.55"
-  - "646.72"
+  - 668.55
+  - 646.72
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cosmetics-1078712%201280.jpg
-UNSPSC_Code: "53131619"
+UNSPSC_Code: 53131619
 UMLS_CUI: C0010164
 Commons_category: Cosmetics
 MeSH_tree_code:

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Energy-Technology
 has_id_wikidata: Q6140120
 OmegaWiki_Defined_Meaning: 1195
 subclass_of: '[[_Standards/WikiData/WD~technology,11016]]'

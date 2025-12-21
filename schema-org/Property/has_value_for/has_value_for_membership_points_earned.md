@@ -4,21 +4,22 @@ aliases:
   - membership-points-earned
   - membershipPointsEarned
   - has_value_for_membership_points_earned
+  - has value for membership points earned
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - membership-points-earned
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_membership-points-earned
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

@@ -1,23 +1,25 @@
 ---
 aliases:
   - Miniatur
+  - Portrait_miniature
+  - Portrait miniature
 has_id_wikidata: Q282129
 instance_of:
-  - "[[_Standards/WikiData/WD~work_of_art,838948]]"
-  - "[[_Standards/WikiData/WD~genre_of_painting,16743958]]"
+  - '[[_Standards/WikiData/WD~work_of_art,838948]]'
+  - '[[_Standards/WikiData/WD~genre_of_painting,16743958]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~painting,3305213]]"
-  - "[[_Standards/WikiData/WD~miniature_art,6575414]]"
-  - "[[_Standards/WikiData/WD~Miniature_painting,116691808]]"
+  - '[[_Standards/WikiData/WD~painting,3305213]]'
+  - '[[_Standards/WikiData/WD~miniature_art,6575414]]'
+  - '[[_Standards/WikiData/WD~Miniature_painting,116691808]]'
 different_from:
-  - "[[_Standards/WikiData/WD~portrait_miniature,131208654]]"
-  - "[[_Standards/WikiData/WD~illuminated_manuscript,48498]]"
-Nomenclature_for_Museum_Cataloging: "12970"
-Basisklassifikation: "21.10"
+  - '[[_Standards/WikiData/WD~portrait_miniature,131208654]]'
+  - '[[_Standards/WikiData/WD~illuminated_manuscript,48498]]'
+Nomenclature_for_Museum_Cataloging: 12970
+Basisklassifikation: 21.10
 Commons_category: Miniatures (paintings)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Fouquet%20-%20Self-portrait%20-%20WGA08041.jpg
 ---

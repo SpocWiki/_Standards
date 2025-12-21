@@ -5,16 +5,18 @@ aliases:
   - atomic family
   - conjugal family
   - Kernfamilie
-  - 
+  - ''
+  - Nuclear_Family
+  - Nuclear Family
 has_id_wikidata: Q720069
-different_from: "[[_Standards/WikiData/WD~Gezin,5555094]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~immediate_family,6004774]]"
-named_after: "[[_Standards/WikiData/WD~dry_goods,20707967]]"
-instance_of: "[[_Standards/WikiData/WD~family_structure,66363776]]"
+different_from: '[[_Standards/WikiData/WD~Gezin,5555094]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~immediate_family,6004774]]'
+named_after: '[[_Standards/WikiData/WD~dry_goods,20707967]]'
+instance_of: '[[_Standards/WikiData/WD~family_structure,66363776]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~parent,7566]]"
-  - "[[_Standards/WikiData/WD~child,7569]]"
-subclass_of: "[[_Standards/WikiData/WD~family,8436]]"
+  - '[[_Standards/WikiData/WD~parent,7566]]'
+  - '[[_Standards/WikiData/WD~child,7569]]'
+subclass_of: '[[_Standards/WikiData/WD~family,8436]]'
 Commons_category: Family
 image: http://commons.wikimedia.org/wiki/Special:FilePath/W.H.%20Shumard%20family%2C%20circa%201955.jpg
 MeSH_tree_code:

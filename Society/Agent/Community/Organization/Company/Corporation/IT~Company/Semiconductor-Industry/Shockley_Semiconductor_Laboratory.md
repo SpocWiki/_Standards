@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Shockley Transistor Corporation"
+  - Shockley Transistor Corporation
+  - Shockley_Semiconductor_Laboratory
+  - Shockley Semiconductor Laboratory
 ---
 
 > Shockley Semiconductor Laboratory, later known as Shockley Transistor Corporation, 

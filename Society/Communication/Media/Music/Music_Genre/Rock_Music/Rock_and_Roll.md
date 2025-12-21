@@ -4,13 +4,15 @@ aliases:
   - rock & roll
   - rock-n-roll
   - rock 'n' roll
+  - Rock_and_Roll
+  - Rock and Roll
 has_id_wikidata: Q7749
-instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
 different_from: "[[_Standards/WikiData/WD~Rock_and_roll_Rock_'n'_roll,294088]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Rock_and_Roll,19280174]]"
-subclass_of: "[[_Standards/WikiData/WD~rock_music,11399]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Rock_and_Roll,19280174]]'
+subclass_of: '[[_Standards/WikiData/WD~rock_music,11399]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 exact_match:
   - http://cv.iptc.org/newscodes/subjectcode/01011006
   - http://id.loc.gov/authorities/subjects/sh85114675

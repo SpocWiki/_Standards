@@ -1,6 +1,7 @@
 ---
 aliases:
   - Pantheismus
+  - Pantheism
 has_id_wikidata: Q728455
 ---
 

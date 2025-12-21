@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DiagnosticProcedure
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DiagnosticProcedure
-- class/Thing/MedicalEntity/MedicalProcedure/DiagnosticProcedure
-- is_a_/DiagnosticProcedure
-- schema-org/DiagnosticProcedure
+  - class/DiagnosticProcedure
+  - class/Thing/MedicalEntity/MedicalProcedure/DiagnosticProcedure
+  - is_a_/DiagnosticProcedure
+  - schema-org/DiagnosticProcedure
 tags:
-- class/FileClass
-- class/DiagnosticProcedure
-- is_a_/DiagnosticProcedure
-- class/Thing/MedicalEntity/MedicalProcedure/DiagnosticProcedure
+  - class/FileClass
+  - class/DiagnosticProcedure
+  - is_a_/DiagnosticProcedure
+  - class/Thing/MedicalEntity/MedicalProcedure/DiagnosticProcedure
 version: 2.0
 ---
 

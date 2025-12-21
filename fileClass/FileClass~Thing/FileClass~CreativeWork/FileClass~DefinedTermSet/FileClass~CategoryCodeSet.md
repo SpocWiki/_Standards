@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CategoryCodeSet
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet
 fields:
-- id: SJODR9
-  name: HasCategoryCode
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')"
-  type: MultiFile
-  path: ''
+  - id: SJODR9
+    name: HasCategoryCode
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CategoryCodeSet
-- class/Thing/CreativeWork/DefinedTermSet/CategoryCodeSet
-- is_a_/CategoryCodeSet
-- schema-org/CategoryCodeSet
+  - class/CategoryCodeSet
+  - class/Thing/CreativeWork/DefinedTermSet/CategoryCodeSet
+  - is_a_/CategoryCodeSet
+  - schema-org/CategoryCodeSet
 tags:
-- class/FileClass
-- class/CategoryCodeSet
-- is_a_/CategoryCodeSet
-- class/Thing/CreativeWork/DefinedTermSet/CategoryCodeSet
+  - class/FileClass
+  - class/CategoryCodeSet
+  - is_a_/CategoryCodeSet
+  - class/Thing/CreativeWork/DefinedTermSet/CategoryCodeSet
 version: 2.0
 ---
 

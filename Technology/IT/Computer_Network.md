@@ -4,29 +4,31 @@ aliases:
   - network
   - computer networking
   - networking
+  - Computer_Network
+  - Computer Network
 has_id_wikidata: Q1301371
 uses:
-  - "[[_Standards/WikiData/WD~communication_protocol,132364]]"
+  - '[[_Standards/WikiData/WD~communication_protocol,132364]]'
 connects_with:
-  - "[[_Standards/WikiData/WD~network_host,829281]]"
+  - '[[_Standards/WikiData/WD~network_host,829281]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~telecommunications_network,1068715]]"
-  - "[[_Standards/WikiData/WD~network,1900326]]"
+  - '[[_Standards/WikiData/WD~telecommunications_network,1068715]]'
+  - '[[_Standards/WikiData/WD~network,1900326]]'
 named_after:
-  - "[[_Standards/WikiData/WD~network,1900326]]"
-  - "[[_Standards/WikiData/WD~computer,68]]"
+  - '[[_Standards/WikiData/WD~network,1900326]]'
+  - '[[_Standards/WikiData/WD~computer,68]]'
 different_from:
-  - "[[_Standards/WikiData/WD~distributed_system,3962217]]"
+  - '[[_Standards/WikiData/WD~distributed_system,3962217]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~heterogeneous_network,5747224]]"
+  - '[[_Standards/WikiData/WD~heterogeneous_network,5747224]]'
 has_use:
-  - "[[_Standards/WikiData/WD~upload,7126699]]"
-  - "[[_Standards/WikiData/WD~download,7126717]]"
-depicted_by: "[[_Standards/WikiData/WD~spatial_network,7574076]]"
+  - '[[_Standards/WikiData/WD~upload,7126699]]'
+  - '[[_Standards/WikiData/WD~download,7126717]]'
+depicted_by: '[[_Standards/WikiData/WD~spatial_network,7574076]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~computer_networking,10336440]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Network,12828494]]"
-IAB_code: "600"
+  - '[[_Standards/WikiData/WD~computer_networking,10336440]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Network,12828494]]'
+IAB_code: 600
 subreddit:
   - networking
 image:
@@ -34,7 +36,7 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Internet%20map%201024.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/NetworkTopologies.svg
 Stack_Exchange_tag: https://stackoverflow.com/tags/networking
-Iconclass_notation: "46E6711"
+Iconclass_notation: 46E6711
 IEV_number: 732-01-03
 Commons_gallery: Computer network
 Commons_category: Computer networks

@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Die Welt"
+  - Die Welt
+  - Die_Welt
 ---
 
 ## #has_/text_of_/abstract 

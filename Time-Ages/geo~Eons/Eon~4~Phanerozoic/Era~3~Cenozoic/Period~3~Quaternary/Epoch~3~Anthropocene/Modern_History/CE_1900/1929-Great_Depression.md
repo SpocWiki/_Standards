@@ -3,20 +3,23 @@ aliases:
   - Great Depression
   - Große Depression
   - Weltwirtschaftskrise
+  - 1929-Great_Depression
+  - 1929-Great Depression
+has_id_wikidata: Q8698
 Commons_category: Great Depression
 country:
-  - "[[_Standards/WikiData/WD~German_Reich,1206012]]"
-  - "[[_Standards/WikiData/WD~South_Africa,258]]"
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Afghanistan,889]]"
-  - "[[_Standards/WikiData/WD~British_Empire,8680]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Netherlands,55]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
+  - '[[_Standards/WikiData/WD~German_Reich,1206012]]'
+  - '[[_Standards/WikiData/WD~South_Africa,258]]'
+  - '[[_Standards/WikiData/WD~Chile,298]]'
+  - '[[_Standards/WikiData/WD~Afghanistan,889]]'
+  - '[[_Standards/WikiData/WD~British_Empire,8680]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Netherlands,55]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Canon_of_Dutch_History,907660]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Financial_Instability,59440034]]"
+  - '[[_Standards/WikiData/WD~Canon_of_Dutch_History,907660]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Financial_Instability,59440034]]'
 end_time: 1941-01-01T00:00:00Z
 exact_match:
   - https://data.bnf.fr/ark:/12148/cb11937041r
@@ -24,37 +27,36 @@ exact_match:
   - http://lemac.sgcb.mcu.es/Autoridades/LEMAC201209787/concept
   - http://lod.gesis.org/thesoz/concept_10050097
   - http://wordnet-rdf.princeton.edu/pwn30/14489361-n
-has_cause: "[[_Standards/WikiData/WD~causes_of_the_Great_Depression,2910703]]"
-has_id_wikidata: Q8698
+has_cause: '[[_Standards/WikiData/WD~causes_of_the_Great_Depression,2910703]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Great_Depression_in_France,3114934]]"
-  - "[[_Standards/WikiData/WD~Great_Depression_in_Canada,5599047]]"
-  - "[[_Standards/WikiData/WD~Great_Depression_in_India,5599050]]"
-  - "[[_Standards/WikiData/WD~Great_Depression_in_South_Africa,5599051]]"
-  - "[[_Standards/WikiData/WD~Great_Depression_in_Australia,5599048]]"
-  - "[[_Standards/WikiData/WD~Great_Depression_in_Central_Europe,5599049]]"
-  - "[[_Standards/WikiData/WD~Great_Depression_in_Latin_America,5599053]]"
-  - "[[_Standards/WikiData/WD~Great_Depression_in_the_United_Kingdom,5599058]]"
-  - "[[_Standards/WikiData/WD~Great_Depression_in_Chile,17071849]]"
+  - '[[_Standards/WikiData/WD~Great_Depression_in_France,3114934]]'
+  - '[[_Standards/WikiData/WD~Great_Depression_in_Canada,5599047]]'
+  - '[[_Standards/WikiData/WD~Great_Depression_in_India,5599050]]'
+  - '[[_Standards/WikiData/WD~Great_Depression_in_South_Africa,5599051]]'
+  - '[[_Standards/WikiData/WD~Great_Depression_in_Australia,5599048]]'
+  - '[[_Standards/WikiData/WD~Great_Depression_in_Central_Europe,5599049]]'
+  - '[[_Standards/WikiData/WD~Great_Depression_in_Latin_America,5599053]]'
+  - '[[_Standards/WikiData/WD~Great_Depression_in_the_United_Kingdom,5599058]]'
+  - '[[_Standards/WikiData/WD~Great_Depression_in_Chile,17071849]]'
 has_time_started: 1929-10-29
 has_time_stopped: 1941-06
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_the_Great_Depression,7806351]]"
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_the_Great_Depression,7806351]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lange-MigrantMother02.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lone%20Driller%E2%80%99s%20Water%20Break%20%28Kilgore%2C%20Texas%29.jpg
 instance_of:
-  - "[[../../../../../../../../WikiData/WD~recession,176494]]"
-  - "[[_Standards/WikiData/WD~economic_crisis,290178]]"
-  - "[[_Standards/WikiData/WD~era,6428674]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-notable_work: "[[_Standards/WikiData/WD~Some_of_the_most_important_features_of_the_economic_and_financial_situation_in_1932,107353518]]"
+  - '[[../../../../../../../../WikiData/WD~recession,176494]]'
+  - '[[_Standards/WikiData/WD~economic_crisis,290178]]'
+  - '[[_Standards/WikiData/WD~era,6428674]]'
+  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
+notable_work: '[[_Standards/WikiData/WD~Some_of_the_most_important_features_of_the_economic_and_financial_situation_in_1932,107353518]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Depression-ar.ogg
-RIA_Novosti_reference: "190264066"
+RIA_Novosti_reference: 190264066
 start_time: 1929-10-29T00:00:00Z
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Great_Depression,22734544]]"
-U_S_National_Archives_Identifier: "12222222"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Great_Depression,22734544]]"
-locations: "[[_Standards/WikiData/WD~New_York_Stock_Exchange_Building,24084031]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Great_Depression,22734544]]'
+U_S_National_Archives_Identifier: 12222222
+topic_has_template: '[[_Standards/WikiData/WD~Template_Great_Depression,22734544]]'
+locations: '[[_Standards/WikiData/WD~New_York_Stock_Exchange_Building,24084031]]'
 IMDb_keyword: great-depression
 ---
 

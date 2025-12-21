@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~RadioStation
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields: []
 icon: radio-tower
 limit: 9
 mapWithTag: true
 tagNames:
-- class/RadioStation
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RadioStation
-- is_a_/RadioStation
-- schema-org/RadioStation
+  - class/RadioStation
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RadioStation
+  - is_a_/RadioStation
+  - schema-org/RadioStation
 tags:
-- class/FileClass
-- class/RadioStation
-- is_a_/RadioStation
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RadioStation
+  - class/FileClass
+  - class/RadioStation
+  - is_a_/RadioStation
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RadioStation
 version: 2.0
 ---
 

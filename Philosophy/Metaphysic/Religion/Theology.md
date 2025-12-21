@@ -1,62 +1,63 @@
 ---
 aliases:
   - Theologie
+  - Theology
 has_id_wikidata: Q34178
 Wolfram_Language_entity_code: Entity["Concept", "Theology::n93x9"]
 Krugosvet_article_archived_: filosofiya/teologiya
 MeSH_tree_code: K01.844.949
 Colon_Classification: Q:3
 subclass_of:
-  - "[[_Standards/WikiData/WD~humanities,80083]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - '[[_Standards/WikiData/WD~humanities,80083]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~apologetics,191776]]"
-  - "[[_Standards/WikiData/WD~dogmatic_theology,938714]]"
-  - "[[_Standards/WikiData/WD~practical_theology,1383443]]"
-  - "[[_Standards/WikiData/WD~comparative_theology,4208496]]"
+  - '[[_Standards/WikiData/WD~apologetics,191776]]'
+  - '[[_Standards/WikiData/WD~dogmatic_theology,938714]]'
+  - '[[_Standards/WikiData/WD~practical_theology,1383443]]'
+  - '[[_Standards/WikiData/WD~comparative_theology,4208496]]'
 different_from:
-  - "[[_Standards/WikiData/WD~philosophy_of_religion,209295]]"
-  - "[[_Standards/WikiData/WD~religious_studies,34187]]"
+  - '[[_Standards/WikiData/WD~philosophy_of_religion,209295]]'
+  - '[[_Standards/WikiData/WD~religious_studies,34187]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~literary_genre,223393]]"
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - '[[_Standards/WikiData/WD~literary_genre,223393]]'
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Geisteswissenschaften,944537]]"
-  - "[[_Standards/WikiData/WD~social_sciences_and_humanities,33122512]]"
-  - "[[_Standards/WikiData/WD~theology_and_religious_studies,64687996]]"
+  - '[[_Standards/WikiData/WD~Geisteswissenschaften,944537]]'
+  - '[[_Standards/WikiData/WD~social_sciences_and_humanities,33122512]]'
+  - '[[_Standards/WikiData/WD~theology_and_religious_studies,64687996]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~theologian,1234713]]"
-  - "[[_Standards/WikiData/WD~lay_theologian,6505433]]"
-  - "[[_Standards/WikiData/WD~theology_teacher,127327158]]"
+  - '[[_Standards/WikiData/WD~theologian,1234713]]'
+  - '[[_Standards/WikiData/WD~lay_theologian,6505433]]'
+  - '[[_Standards/WikiData/WD~theology_teacher,127327158]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~theologian,1234713]]"
-  - "[[_Standards/WikiData/WD~seminary_student,5947973]]"
-  - "[[_Standards/WikiData/WD~theological_studies,107508911]]"
+  - '[[_Standards/WikiData/WD~theologian,1234713]]'
+  - '[[_Standards/WikiData/WD~seminary_student,5947973]]'
+  - '[[_Standards/WikiData/WD~theological_studies,107508911]]'
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~faith,5410500]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
-  - "[[_Standards/WikiData/WD~God,190]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_theology,7112799]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~theological_studies,107508911]]"
-DFG_Science_Classification: "107"
-Dewey_Decimal_Classification: "230"
+  - '[[_Standards/WikiData/WD~faith,5410500]]'
+  - '[[_Standards/WikiData/WD~religion,9174]]'
+  - '[[_Standards/WikiData/WD~God,190]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_theology,7112799]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~theological_studies,107508911]]'
+DFG_Science_Classification: 107
+Dewey_Decimal_Classification: 230
 Regensburg_Classification: B
 Universal_Decimal_Classification: 2-1
-OmegaWiki_Defined_Meaning: "795652"
+OmegaWiki_Defined_Meaning: 795652
 IMDb_keyword: theology
 Commons_category: Theology
-Basisklassifikation: "11.00"
+Basisklassifikation: 11.00
 Classification_of_Instructional_Programs_code:
-  - "39.06"
-  - "39.0601"
+  - 39.06
+  - 39.0601
 Provenio_UUID: 5772cc09-706f-40ee-accd-694fc8e27197
 UMLS_CUI: C0205932
 ---

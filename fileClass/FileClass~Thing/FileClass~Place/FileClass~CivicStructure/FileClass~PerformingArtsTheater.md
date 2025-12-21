@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PerformingArtsTheater
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/PerformingArtsTheater
-- class/Thing/Place/CivicStructure/PerformingArtsTheater
-- is_a_/PerformingArtsTheater
-- schema-org/PerformingArtsTheater
+  - class/PerformingArtsTheater
+  - class/Thing/Place/CivicStructure/PerformingArtsTheater
+  - is_a_/PerformingArtsTheater
+  - schema-org/PerformingArtsTheater
 tags:
-- class/FileClass
-- class/PerformingArtsTheater
-- is_a_/PerformingArtsTheater
-- class/Thing/Place/CivicStructure/PerformingArtsTheater
+  - class/FileClass
+  - class/PerformingArtsTheater
+  - is_a_/PerformingArtsTheater
+  - class/Thing/Place/CivicStructure/PerformingArtsTheater
 version: 2.0
 ---
 

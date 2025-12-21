@@ -1,30 +1,32 @@
 ---
 aliases:
-- time of day
-- Tageszeit 
-- Zeit 
-- Time
-- is_a_time
+  - time of day
+  - Tageszeit
+  - Zeit
+  - Time
+  - is_a_time
+  - Time_of_Day
+  - Time of Day
+has_id_wikidata: Q11471
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: 
-has_id_wikidata: Q11471
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- time
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_time Class"
+  - time
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_a_time Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Class
-- schema-org/Class
-- class/data_type
-title: "is_a_time Class"
+  - class/Class
+  - schema-org/Class
+  - class/data_type
+title: is_a_time Class
 type: Type
 ---
 

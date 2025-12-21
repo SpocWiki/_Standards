@@ -6,23 +6,25 @@ aliases:
   - dry iron
   - steam iron
   - iron
+  - Clothes_iron
+  - Clothes iron
 has_id_wikidata: Q483634
 subclass_of:
-  - "[[_Standards/WikiData/WD~home_appliance,212920]]"
-  - "[[_Standards/WikiData/WD~power_tool,1327701]]"
-  - "[[_Standards/WikiData/WD~small_appliance,3558289]]"
-  - "[[_Standards/WikiData/WD~iron,125492307]]"
-has_use: "[[_Standards/WikiData/WD~ironing,1650142]]"
+  - '[[_Standards/WikiData/WD~home_appliance,212920]]'
+  - '[[_Standards/WikiData/WD~power_tool,1327701]]'
+  - '[[_Standards/WikiData/WD~small_appliance,3558289]]'
+  - '[[_Standards/WikiData/WD~iron,125492307]]'
+has_use: '[[_Standards/WikiData/WD~ironing,1650142]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 uses:
-  - "[[_Standards/WikiData/WD~water,283]]"
-  - "[[_Standards/WikiData/WD~electricity,12725]]"
-  - "[[_Standards/WikiData/WD~coal,24489]]"
-Nomenclature_for_Museum_Cataloging: "9124"
-OmegaWiki_Defined_Meaning: "1237027"
+  - '[[_Standards/WikiData/WD~water,283]]'
+  - '[[_Standards/WikiData/WD~electricity,12725]]'
+  - '[[_Standards/WikiData/WD~coal,24489]]'
+Nomenclature_for_Museum_Cataloging: 9124
+OmegaWiki_Defined_Meaning: 1237027
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Electric%20steam%20iron.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Charcoal%20iron%20open.jpg
@@ -32,7 +34,7 @@ exact_match:
   - http://wordnet-rdf.princeton.edu/wn31/103557300-n
 Iconclass_notation: 41D4241
 MCN_code: 8516.40.00
-P8189: "987007563061305171"
+P8189: 987007563061305171
 Commons_category: Flat irons
 ---
 

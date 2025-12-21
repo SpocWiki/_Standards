@@ -4,20 +4,22 @@ aliases:
   - complete_data_feed
   - CompleteDataFeed
   - is_a_complete_data_feed
+  - Complete_Data_Feed
+  - Complete Data Feed
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - complete_data_feed
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_complete_data_feed Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

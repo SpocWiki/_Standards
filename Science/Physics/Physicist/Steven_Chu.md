@@ -3,93 +3,94 @@ aliases:
   - Steven Chu
   - 朱棣文
   - Zhū Dìwén
+  - Steven_Chu
 has_id_wikidata: Q172466
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~academic,3400985]]"
-  - "[[_Standards/WikiData/WD~climate_activist,61048378]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~physicist,169470]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~academic,3400985]]'
+  - '[[_Standards/WikiData/WD~climate_activist,61048378]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Royal_Society,123885]]"
-  - "[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]"
-  - "[[_Standards/WikiData/WD~Academia_Sinica,337266]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]"
-  - "[[_Standards/WikiData/WD~American_Physical_Society,466113]]"
-  - "[[_Standards/WikiData/WD~Chinese_Academy_of_Sciences,530471]]"
-  - "[[_Standards/WikiData/WD~Pontifical_Academy_of_Sciences,938622]]"
-  - "[[_Standards/WikiData/WD~American_Association_for_the_Advancement_of_Science,40358]]"
+  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+  - '[[_Standards/WikiData/WD~Academia_Sinica,337266]]'
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+  - '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+  - '[[_Standards/WikiData/WD~American_Physical_Society,466113]]'
+  - '[[_Standards/WikiData/WD~Chinese_Academy_of_Sciences,530471]]'
+  - '[[_Standards/WikiData/WD~Pontifical_Academy_of_Sciences,938622]]'
+  - '[[_Standards/WikiData/WD~American_Association_for_the_Advancement_of_Science,40358]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Rochester,149990]]"
-  - "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
-  - "[[_Standards/WikiData/WD~Garden_City_High_School,5522207]]"
+  - '[[_Standards/WikiData/WD~University_of_Rochester,149990]]'
+  - '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
+  - '[[_Standards/WikiData/WD~Garden_City_High_School,5522207]]'
 employer:
-  - "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
-  - "[[_Standards/WikiData/WD~Bell_Labs,217365]]"
-  - "[[_Standards/WikiData/WD~Stanford_University,41506]]"
-work_location: "[[_Standards/WikiData/WD~Stanford,173813]]"
+  - '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
+  - '[[_Standards/WikiData/WD~Bell_Labs,217365]]'
+  - '[[_Standards/WikiData/WD~Stanford_University,41506]]'
+work_location: '[[_Standards/WikiData/WD~Stanford,173813]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Arthur_L._Schawlow_Prize_in_Laser_Science,708269]]"
-  - "[[_Standards/WikiData/WD~Humboldt_Prize,873412]]"
-  - "[[_Standards/WikiData/WD~Guggenheim_Fellowship,1316544]]"
-  - "[[_Standards/WikiData/WD~Wolfgang_Paul_Lecture,2589038]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_American_Association_for_the_Advancement_of_Science,5442484]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_Optical_Society,7072982]]"
-  - "[[_Standards/WikiData/WD~Richtmyer_Memorial_Lecture_Award,7331107]]"
-  - "[[_Standards/WikiData/WD~William_F._Meggers_Award,8021013]]"
-  - "[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]"
-  - "[[_Standards/WikiData/WD~Herbert_P._Broida_Prize,15815186]]"
-  - "[[_Standards/WikiData/WD~Humboldt_Research_Fellowship,28854612]]"
-  - "[[_Standards/WikiData/WD~King_Faisal_International_Prize_in_Science,30120085]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_Harvard_University,39384825]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_American_Physical_Society,41955909]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_Yale_University,63072513]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_Peking_University,63089015]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_Chinese_University_of_Hong_Kong,63101620]]"
-  - "[[_Standards/WikiData/WD~Honorary_Fellow_of_the_Institute_of_Physics,69330712]]"
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]"
-position_held: "[[_Standards/WikiData/WD~United_States_Secretary_of_Energy,1029968]]"
-doctoral_advisor: "[[_Standards/WikiData/WD~Eugene_Commins,1373068]]"
+  - '[[_Standards/WikiData/WD~Arthur_L._Schawlow_Prize_in_Laser_Science,708269]]'
+  - '[[_Standards/WikiData/WD~Humboldt_Prize,873412]]'
+  - '[[_Standards/WikiData/WD~Guggenheim_Fellowship,1316544]]'
+  - '[[_Standards/WikiData/WD~Wolfgang_Paul_Lecture,2589038]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Association_for_the_Advancement_of_Science,5442484]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_Optical_Society,7072982]]'
+  - '[[_Standards/WikiData/WD~Richtmyer_Memorial_Lecture_Award,7331107]]'
+  - '[[_Standards/WikiData/WD~William_F._Meggers_Award,8021013]]'
+  - '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
+  - '[[_Standards/WikiData/WD~Herbert_P._Broida_Prize,15815186]]'
+  - '[[_Standards/WikiData/WD~Humboldt_Research_Fellowship,28854612]]'
+  - '[[_Standards/WikiData/WD~King_Faisal_International_Prize_in_Science,30120085]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_Harvard_University,39384825]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Physical_Society,41955909]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_Yale_University,63072513]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Peking_University,63089015]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Chinese_University_of_Hong_Kong,63101620]]'
+  - '[[_Standards/WikiData/WD~Honorary_Fellow_of_the_Institute_of_Physics,69330712]]'
+  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
+position_held: '[[_Standards/WikiData/WD~United_States_Secretary_of_Energy,1029968]]'
+doctoral_advisor: '[[_Standards/WikiData/WD~Eugene_Commins,1373068]]'
 relative:
-  - "[[_Standards/WikiData/WD~Li_Shu_hua,4141131]]"
-  - "[[_Standards/WikiData/WD~Shu_tian_Li,7504405]]"
+  - '[[_Standards/WikiData/WD~Li_Shu_hua,4141131]]'
+  - '[[_Standards/WikiData/WD~Shu_tian_Li,7504405]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Environment,5497659]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Physics,8487193]]"
-  - "[[_Standards/WikiData/WD~WikiProject_United_States,10816993]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Energy,15106301]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-  - "[[_Standards/WikiData/WD~WikiProject_California,15785976]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Politicians,15884641]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Barack_Obama,21829530]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Scientists_and_academics,21829616]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Missouri,21830419]]"
-  - "[[_Standards/WikiData/WD~WikiProject_St._Louis,21830829]]"
-  - "[[_Standards/WikiData/WD~WikiProject_University_of_California,21831035]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Environment,5497659]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Physics,8487193]]'
+  - '[[_Standards/WikiData/WD~WikiProject_United_States,10816993]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Energy,15106301]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+  - '[[_Standards/WikiData/WD~WikiProject_California,15785976]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Politicians,15884641]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Barack_Obama,21829530]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Scientists_and_academics,21829616]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Missouri,21830419]]'
+  - '[[_Standards/WikiData/WD~WikiProject_St._Louis,21830829]]'
+  - '[[_Standards/WikiData/WD~WikiProject_University_of_California,21831035]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Gilbert_Chu,5560855]]"
-  - "[[_Standards/WikiData/WD~Morgan_Chu,6911602]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Zhu,13391907]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-father: "[[_Standards/WikiData/WD~Ju_Chin_Chu,15484220]]"
-described_by_source: "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-given_name: "[[_Standards/WikiData/WD~Steven,17501985]]"
+  - '[[_Standards/WikiData/WD~Gilbert_Chu,5560855]]'
+  - '[[_Standards/WikiData/WD~Morgan_Chu,6911602]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Zhu,13391907]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+father: '[[_Standards/WikiData/WD~Ju_Chin_Chu,15484220]]'
+described_by_source: '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+given_name: '[[_Standards/WikiData/WD~Steven,17501985]]'
 affiliation:
-  - "[[_Standards/WikiData/WD~Stanford_University_Physics_Department,77247095]]"
-  - "[[_Standards/WikiData/WD~Stanford_University,41506]]"
-professorship: "[[_Standards/WikiData/WD~William_R._Kenan,_Jr._Professorship,83496870]]"
-mother: "[[_Standards/WikiData/WD~Q134082138,134082138]]"
-interested_in: "[[_Standards/WikiData/WD~physics,413]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-field_of_work: "[[_Standards/WikiData/WD~atomic_physics,26383]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Stanford_University_Physics_Department,77247095]]'
+  - '[[_Standards/WikiData/WD~Stanford_University,41506]]'
+professorship: '[[_Standards/WikiData/WD~William_R._Kenan,_Jr._Professorship,83496870]]'
+mother: '[[_Standards/WikiData/WD~Q134082138,134082138]]'
+interested_in: '[[_Standards/WikiData/WD~physics,413]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+field_of_work: '[[_Standards/WikiData/WD~atomic_physics,26383]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 Erdős_number: 6
-place_of_birth: "[[_Standards/WikiData/WD~St._Louis,38022]]"
-ancestral_home: "[[_Standards/WikiData/WD~Taicang,61985]]"
+place_of_birth: '[[_Standards/WikiData/WD~St._Louis,38022]]'
+ancestral_home: '[[_Standards/WikiData/WD~Taicang,61985]]'
 affiliation_string: Stanford University
 Commons_category: Steven Chu
 date_of_birth: 1948-02-28T00:00:00Z
@@ -98,7 +99,7 @@ official_website:
   - http://www.energy.gov/
   - https://profiles.stanford.edu/steve-chu
 ORCID_iD: 0000-0002-4572-0154
-ISNI: "0000000374501476"
+ISNI: 0000000374501476
 CYT_CCS: AC000004889
 ---
 

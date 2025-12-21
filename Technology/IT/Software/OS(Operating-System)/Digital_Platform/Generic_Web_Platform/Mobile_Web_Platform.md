@@ -4,26 +4,28 @@ aliases:
   - mobile_web_platform
   - MobileWebPlatform
   - is_a_mobile_web_platform
+  - Mobile_Web_Platform
+  - Mobile Web Platform
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: DigitalPlatformEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - mobile_web_platform
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_mobile_web_platform Class
 publish: true
-publishDate:
-tags: 
-  - class/Class 
-  - schema-org/Class 
-title: is_a_mobile_web_platform Class 
-type: Type 
+publishDate: ''
+tags:
+  - class/Class
+  - schema-org/Class
+title: is_a_mobile_web_platform Class
+type: Type
 ---
 
 Class of all mobile_web_platforms.

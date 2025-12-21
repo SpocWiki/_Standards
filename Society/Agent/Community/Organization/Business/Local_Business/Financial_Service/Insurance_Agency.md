@@ -4,20 +4,22 @@ aliases:
   - insurance_agency
   - InsuranceAgency
   - is_an_insurance_agency
+  - Insurance_Agency
+  - Insurance Agency
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - insurance_agency
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_insurance_agency Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

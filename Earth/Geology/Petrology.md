@@ -1,19 +1,20 @@
 ---
 aliases:
   - Petrologie
+  - Petrology
 has_id_wikidata: Q163082
-partially_coincident_with: "[[_Standards/WikiData/WD~gemology,243330]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+partially_coincident_with: '[[_Standards/WikiData/WD~gemology,243330]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~branch_of_geology,87058424]]"
-practiced_by: "[[_Standards/WikiData/WD~petrologist,19356817]]"
-subclass_of: "[[_Standards/WikiData/WD~geology,1069]]"
-is_the_study_of: "[[_Standards/WikiData/WD~rock,8063]]"
-Dewey_Decimal_Classification: "552"
-All_Science_Journal_Classification_Codes: "1906"
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~branch_of_geology,87058424]]'
+practiced_by: '[[_Standards/WikiData/WD~petrologist,19356817]]'
+subclass_of: '[[_Standards/WikiData/WD~geology,1069]]'
+is_the_study_of: '[[_Standards/WikiData/WD~rock,8063]]'
+Dewey_Decimal_Classification: 552
+All_Science_Journal_Classification_Codes: 1906
 Commons_category: Petrology
 GitHub_topic: petrology
 Colon_Classification: H2

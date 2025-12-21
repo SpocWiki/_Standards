@@ -2,20 +2,22 @@
 aliases:
   - Landscape architecture
   - Landschaftsarchitektur
+  - Landscape_Architecture
+  - Landscape Architecture
 has_id_wikidata: Q47844
 subclass_of:
-  - "[[_Standards/WikiData/WD~landscape,107425]]"
-  - "[[_Standards/WikiData/WD~architecture,12271]]"
-different_from: "[[_Standards/WikiData/WD~landscape_painting,191163]]"
+  - '[[_Standards/WikiData/WD~landscape,107425]]'
+  - '[[_Standards/WikiData/WD~architecture,12271]]'
+different_from: '[[_Standards/WikiData/WD~landscape_painting,191163]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-practiced_by: "[[_Standards/WikiData/WD~landscape_architect,2815948]]"
-described_by_source: "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-Dewey_Decimal_Classification: "712"
+  - '[[_Standards/WikiData/WD~industry,268592]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~landscape_architect,2815948]]'
+described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+Dewey_Decimal_Classification: 712
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chinese%20garden.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Anonym%C3%A2t%20%28Kvardek%20du%29-architecture%20du%20paysage.wav
-U_S_National_Archives_Identifier: "10640350"
+U_S_National_Archives_Identifier: 10640350
 Krugosvet_article_archived_: izobrazitelnoe-iskusstvo-skulptura-arkhitektura/landshaftnaya-arkhitektura
 Commons_category: Landscape architecture
 subreddit: LandscapeArchitecture

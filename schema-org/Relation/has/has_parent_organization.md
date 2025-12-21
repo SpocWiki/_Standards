@@ -1,30 +1,31 @@
 ---
 aliases:
-- parent-organization
-- parentOrganization
-- has_parent_organization
-- is_branch_of
+  - parent-organization
+  - parentOrganization
+  - has_parent_organization
+  - is_branch_of
+  - has parent organization
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- parent_organization
-- parent
-- organization
-layout: 
-license: "CC BY-SA 4.0"
+  - parent_organization
+  - parent
+  - organization
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_parent_organization
 publish: true
-publishDate: 
+publishDate: ''
 supersedes: branchOf
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_parent_organization
 type: Predi_Relation
 ---

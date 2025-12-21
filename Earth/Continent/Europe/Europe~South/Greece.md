@@ -1,6 +1,4 @@
 ---
-age_of_majority: 18
-aircraft_registration_prefix: SX
 aliases:
   - Greece
   - Grecia
@@ -10,6 +8,9 @@ aliases:
   - Греция
   - the Hellenic Republic
   - la República Helénica
+has_id_wikidata: Q41
+age_of_majority: 18
+aircraft_registration_prefix: SX
 anthem: "[[_Standards/WikiData/WD~Hymn_to_Liberty,176665]]"
 area: 131957
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hymn%20to%20liberty%20instrumental.oga
@@ -230,7 +231,7 @@ emergency_phone_number:
   - "[[_Standards/WikiData/WD~199,25648881]]"
 ethnic_group: "[[_Standards/WikiData/WD~Greeks,539051]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Greece,15260617]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 5323993
   - 5391653
@@ -250,7 +251,6 @@ GS1_country_code:
 Happy_Planet_Index_score: 48.8
 hashtag: greece
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-has_id_wikidata: Q41
 has_part_s_: "[[_Standards/WikiData/WD~Greek_Islands,25162136]]"
 has_time_started: 1821-04-06
 head_of_government: "[[_Standards/WikiData/WD~Kyriakos_Mitsotakis,552751]]"
@@ -277,7 +277,7 @@ ISO_3166_1_alpha_3_code: GRC
 ISO_3166_1_numeric_code: 300
 isReadOnly: false
 ITU_letter_code: GRC
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/GRETSIYA.html
 Languages:
   - el-GR
@@ -299,13 +299,13 @@ language_used:
   - "[[_Standards/WikiData/WD~Modern_Greek,36510]]"
   - "[[_Standards/WikiData/WD~Pontic_Greek,36748]]"
   - "[[_Standards/WikiData/WD~Turkish,256]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~Hellenic_Parliament,477089]]"
 Libris_URI: 75kml65r2vq53rp
 licence_plate_code: GR
 license: CC BY-SA 4.0
 life_expectancy: 81.1
-linkTitle:
+linkTitle: ""
 located_in_on_physical_feature:
   - "[[_Standards/WikiData/WD~Southeast_Europe,263686]]"
   - "[[_Standards/WikiData/WD~Balkans,23522]]"
@@ -424,7 +424,7 @@ public_holiday:
   - "[[_Standards/WikiData/WD~Good_Friday,40317]]"
   - "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side: "[[_Standards/WikiData/WD~right,14565199]]"
 replaces: "[[_Standards/WikiData/WD~Third_Hellenic_Republic,17765809]]"
 retirement_age: 67

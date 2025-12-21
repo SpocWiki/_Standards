@@ -2,6 +2,7 @@
 aliases:
   - Canadian Actor
   - Canadian Actress
+  - Canadian_Actor
 ---
 
 

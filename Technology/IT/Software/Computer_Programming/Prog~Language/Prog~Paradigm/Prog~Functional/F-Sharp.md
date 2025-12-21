@@ -1,7 +1,8 @@
 ---
 aliases:
-- F#
-- FSharp
+  - F#
+  - FSharp
+  - F-Sharp
 ---
 
 # [[F-Sharp]] 

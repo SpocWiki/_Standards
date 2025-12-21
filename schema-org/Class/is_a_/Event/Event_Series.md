@@ -4,20 +4,22 @@ aliases:
   - event_series
   - EventSeries
   - is_an_event_series
+  - Event_Series
+  - Event Series
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - event_series
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_event_series Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

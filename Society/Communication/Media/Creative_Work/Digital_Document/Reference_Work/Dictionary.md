@@ -1,37 +1,38 @@
 ---
 aliases:
   - Wörterbuch
+  - Dictionary
 has_id_wikidata: Q23622
 MeSH_tree_code: V02.310
 entry_in_abbreviations_table: слов.
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~publication,732577]]"
-  - "[[_Standards/WikiData/WD~knowledge_organization_system,6423319]]"
-  - "[[_Standards/WikiData/WD~literary_work,7725634]]"
-  - "[[_Standards/WikiData/WD~lexicographic_work,121841020]]"
-  - "[[../../../../../../WikiData/WD~reference_work,13136]]"
+  - '[[_Standards/WikiData/WD~publication,732577]]'
+  - '[[_Standards/WikiData/WD~knowledge_organization_system,6423319]]'
+  - '[[_Standards/WikiData/WD~literary_work,7725634]]'
+  - '[[_Standards/WikiData/WD~lexicographic_work,121841020]]'
+  - '[[../../../../../../WikiData/WD~reference_work,13136]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Han_dictionary,1074045]]"
-  - "[[_Standards/WikiData/WD~lexical_database,6537693]]"
-  - "[[_Standards/WikiData/WD~spell_check_dictionary,47459830]]"
-  - "[[_Standards/WikiData/WD~word_list,91828006]]"
-history_of_topic: "[[_Standards/WikiData/WD~Q3137844,3137844]]"
-instance_of: "[[_Standards/WikiData/WD~literary_form,4263830]]"
-manifestation_of: "[[_Standards/WikiData/WD~terminology,8380731]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-named_after: "[[_Standards/WikiData/WD~word,8171]]"
-Dewey_Decimal_Classification: "403"
-OmegaWiki_Defined_Meaning: "915"
-Nomenclature_for_Museum_Cataloging: "13607"
+  - '[[_Standards/WikiData/WD~Han_dictionary,1074045]]'
+  - '[[_Standards/WikiData/WD~lexical_database,6537693]]'
+  - '[[_Standards/WikiData/WD~spell_check_dictionary,47459830]]'
+  - '[[_Standards/WikiData/WD~word_list,91828006]]'
+history_of_topic: '[[_Standards/WikiData/WD~Q3137844,3137844]]'
+instance_of: '[[_Standards/WikiData/WD~literary_form,4263830]]'
+manifestation_of: '[[_Standards/WikiData/WD~terminology,8380731]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+named_after: '[[_Standards/WikiData/WD~word,8171]]'
+Dewey_Decimal_Classification: 403
+OmegaWiki_Defined_Meaning: 915
+Nomenclature_for_Museum_Cataloging: 13607
 Commons_gallery: Dictionary
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Latin%20dictionary.jpg
@@ -46,7 +47,7 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Bangla%20dictionary%20i
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-diccionari-spreadthesign.ogv
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Looking%20up%20a%20word%20in%20the%20dictionary.ogg
 exact_match: http://w3id.org/nkos/nkostype#dictionary
-UNSPSC_Code: "55101526"
+UNSPSC_Code: 55101526
 Provenio_UUID: c9e45d05-24cd-4226-8ad4-3e24bb387590
 Commons_category: Dictionaries
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/SLOVAR.html

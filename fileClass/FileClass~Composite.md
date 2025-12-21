@@ -1,22 +1,24 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Composite
+excludes: ''
 extends: FileClass~Thing
 fields:
-- id: AwLQYP
-  name: Components
-  options: {}
-  type: MultiFile
-  path: ''
+  - id: AwLQYP
+    name: Components
+    options: {}
+    type: MultiFile
+    path: ''
 icon: component
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Composite
-- is_a_/Composite
-- schema-org/Composite
+  - class/Composite
+  - is_a_/Composite
+  - schema-org/Composite
 tags:
-- class/FileClass
-- is_a_/Class
+  - class/FileClass
+  - is_a_/Class
 version: 2.0
 ---
 

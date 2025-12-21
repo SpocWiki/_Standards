@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Romance languages"
+  - Romance languages
+  - LangFamily-Italic
 ---
 
 ## #has_/text_of_/abstract 

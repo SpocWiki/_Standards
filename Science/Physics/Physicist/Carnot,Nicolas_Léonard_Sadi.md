@@ -4,6 +4,8 @@ aliases:
   - Nicolas Léonard Sadi Carnot
   - Nicolas Sadi Carnot
   - Carnot
+  - Carnot,Nicolas_Léonard_Sadi
+  - Carnot,Nicolas Léonard Sadi
 has_id_wikidata: Q181685
 Libris_URI: 86lnnh3s0m06hkt
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/KARNO_NIKOLA_LEONAR_SADI.html
@@ -13,63 +15,63 @@ name_in_native_language:
   - Nicolas Léonard Sadi Carnot
 date_of_birth: 1796-06-01T00:00:00Z
 occupation:
-  - "[[_Standards/WikiData/WD~engineer,81096]]"
-  - "[[_Standards/WikiData/WD~military_engineer,151197]]"
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
+  - '[[_Standards/WikiData/WD~engineer,81096]]'
+  - '[[_Standards/WikiData/WD~military_engineer,151197]]'
+  - '[[_Standards/WikiData/WD~physicist,169470]]'
+  - '[[_Standards/WikiData/WD~mathematician,170790]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Carnot_cycle,188910]]"
-  - "[[_Standards/WikiData/WD~Carnot_heat_engine,1335241]]"
+  - '[[_Standards/WikiData/WD~Carnot_cycle,188910]]'
+  - '[[_Standards/WikiData/WD~Carnot_heat_engine,1335241]]'
   - "[[_Standards/WikiData/WD~Carnot's_theorem,2347139]]"
-  - "[[_Standards/WikiData/WD~Carnot_number,3343016]]"
-  - "[[_Standards/WikiData/WD~Reflections_on_the_Motive_Power_of_Fire_and_on_Machines_Fitted_to_Develop_that_Power,7307309]]"
-student_of: "[[_Standards/WikiData/WD~Siméon_Denis_Poisson,190772]]"
-different_from: "[[_Standards/WikiData/WD~Sadi_Carnot,215778]]"
+  - '[[_Standards/WikiData/WD~Carnot_number,3343016]]'
+  - '[[_Standards/WikiData/WD~Reflections_on_the_Motive_Power_of_Fire_and_on_Machines_Fitted_to_Develop_that_Power,7307309]]'
+student_of: '[[_Standards/WikiData/WD~Siméon_Denis_Poisson,190772]]'
+different_from: '[[_Standards/WikiData/WD~Sadi_Carnot,215778]]'
 relative:
-  - "[[_Standards/WikiData/WD~Sadi_Carnot,215778]]"
-  - "[[_Standards/WikiData/WD~Marie_Adolphe_Carnot,905471]]"
+  - '[[_Standards/WikiData/WD~Sadi_Carnot,215778]]'
+  - '[[_Standards/WikiData/WD~Marie_Adolphe_Carnot,905471]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~École_polytechnique,273626]]"
-  - "[[_Standards/WikiData/WD~Lycée_Charlemagne,748307]]"
+  - '[[_Standards/WikiData/WD~École_polytechnique,273626]]'
+  - '[[_Standards/WikiData/WD~Lycée_Charlemagne,748307]]'
   - "[[_Standards/WikiData/WD~École_d'application_de_l'artillerie_et_du_génie_in_Metz,3577752]]"
-father: "[[_Standards/WikiData/WD~Lazare_Carnot,310767]]"
+father: '[[_Standards/WikiData/WD~Lazare_Carnot,310767]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-  - "[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]"
-sibling: "[[_Standards/WikiData/WD~Hippolyte_Carnot,950235]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+  - '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+sibling: '[[_Standards/WikiData/WD~Hippolyte_Carnot,950235]]'
 employer:
-  - "[[_Standards/WikiData/WD~French_Army,1076619]]"
-  - "[[_Standards/WikiData/WD~French_central_public_administration,2824639]]"
-family: "[[_Standards/WikiData/WD~Carnot_family,1638858]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~French_Army,1076619]]'
+  - '[[_Standards/WikiData/WD~French_central_public_administration,2824639]]'
+family: '[[_Standards/WikiData/WD~Carnot_family,1638858]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Nicolas,7029481]]"
-  - "[[_Standards/WikiData/WD~Léonard,18228390]]"
-  - "[[_Standards/WikiData/WD~Sadi,57206363]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-family_name: "[[_Standards/WikiData/WD~Carnot,21430292]]"
+  - '[[_Standards/WikiData/WD~Nicolas,7029481]]'
+  - '[[_Standards/WikiData/WD~Léonard,18228390]]'
+  - '[[_Standards/WikiData/WD~Sadi,57206363]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+family_name: '[[_Standards/WikiData/WD~Carnot,21430292]]'
 place_of_burial: "[[_Standards/WikiData/WD~Cimetière_ancien_d'Ivry_sur_Seine,37108973]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-field_of_work: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
-cause_of_death: "[[_Standards/WikiData/WD~Cholera,12090]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~Paris,90]]"
-place_of_birth: "[[_Standards/WikiData/WD~Paris,90]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-writing_language: "[[_Standards/WikiData/WD~French,150]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+field_of_work: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+cause_of_death: '[[_Standards/WikiData/WD~Cholera,12090]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~Paris,90]]'
+place_of_birth: '[[_Standards/WikiData/WD~Paris,90]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+writing_language: '[[_Standards/WikiData/WD~French,150]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 Commons_category: Nicolas Léonard Sadi Carnot
 date_of_death: 1832-08-24T00:00:00Z
 BHCL_UUID: 426df5bc-6265-4bbe-b7ec-c83fc3953485
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Blason%20fam%20fr%20Carnot.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sadi%20Carnot.jpeg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Tombe%20de%20Sadi%20Carnot%20%281796%E2%80%931832%29%203.jpg
-ISNI: "0000000081223476"
+ISNI: 0000000081223476
 ---
 
 # [[Carnot,Nicolas_Léonard_Sadi]] 

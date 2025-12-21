@@ -4,21 +4,22 @@ aliases:
   - merchant_return_link
   - merchantReturnLink
   - has_url_for_merchant_return_link
+  - has url for merchant return link
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - merchant_return_link
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_merchant_return_link
 publish: true
-publishDate:
+publishDate: ''
 supersedes: productReturnLink
 tags:
   - class/Property

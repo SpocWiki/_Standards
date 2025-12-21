@@ -2,25 +2,26 @@
 aliases:
   - stockholder
   - Anteilseigner
+  - Shareholder
 has_id_wikidata: Q381136
 instance_of:
-  - "[[_Standards/WikiData/WD~role,214339]]"
-  - "[[_Standards/WikiData/WD~position,4164871]]"
-  - "[[_Standards/WikiData/WD~occupation,12737077]]"
-different_from: "[[_Standards/WikiData/WD~investor,557880]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~investor,557880]]"
+  - '[[_Standards/WikiData/WD~role,214339]]'
+  - '[[_Standards/WikiData/WD~position,4164871]]'
+  - '[[_Standards/WikiData/WD~occupation,12737077]]'
+different_from: '[[_Standards/WikiData/WD~investor,557880]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~investor,557880]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~stakeholder,852998]]"
-  - "[[_Standards/WikiData/WD~proprietor,12794619]]"
-has_goal: "[[_Standards/WikiData/WD~profit_maximization,1377422]]"
-owner_of: "[[_Standards/WikiData/WD~share,11692]]"
+  - '[[_Standards/WikiData/WD~stakeholder,852998]]'
+  - '[[_Standards/WikiData/WD~proprietor,12794619]]'
+has_goal: '[[_Standards/WikiData/WD~profit_maximization,1377422]]'
+owner_of: '[[_Standards/WikiData/WD~share,11692]]'
 female_form_of_label:
   - акционерка
   - akcionářka
   - акционерка
   - akcjonariuszka
   - акціонерка
-U_S_National_Archives_Identifier: "10644592"
+U_S_National_Archives_Identifier: 10644592
 IPTC_NewsCode: mediatopic/20000185
 ---
 

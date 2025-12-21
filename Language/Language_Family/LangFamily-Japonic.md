@@ -1,6 +1,8 @@
 ---
+aliases:
+  - LangFamily-Japonic
 tags:
-- Lang_Family
+  - Lang_Family
 type: LangFamily
 ---
 

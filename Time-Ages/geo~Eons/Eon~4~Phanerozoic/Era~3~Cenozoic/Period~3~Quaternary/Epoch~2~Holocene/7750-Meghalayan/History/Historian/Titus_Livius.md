@@ -2,35 +2,36 @@
 aliases:
   - Titus_Livius
   - Livy
+  - Titus Livius
 has_id_wikidata: Q2039
 occupation:
-  - "[[_Standards/WikiData/WD~historian,201788]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-gens: "[[_Standards/WikiData/WD~Livia_gens,301330]]"
+  - '[[_Standards/WikiData/WD~historian,201788]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
+gens: '[[_Standards/WikiData/WD~Livia_gens,301330]]'
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
   - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-notable_work: "[[_Standards/WikiData/WD~History_of_Rome,1155892]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-praenomen: "[[_Standards/WikiData/WD~Titus,21473990]]"
-nomen_gentilicium: "[[_Standards/WikiData/WD~Livius,32979256]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Geldersch_Landschap_en_Kasteelen,98904445]]"
-attested_in: "[[_Standards/WikiData/WD~Mare_Magnum_volume_82,118465996]]"
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+notable_work: '[[_Standards/WikiData/WD~History_of_Rome,1155892]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+praenomen: '[[_Standards/WikiData/WD~Titus,21473990]]'
+nomen_gentilicium: '[[_Standards/WikiData/WD~Livius,32979256]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Geldersch_Landschap_en_Kasteelen,98904445]]'
+attested_in: '[[_Standards/WikiData/WD~Mare_Magnum_volume_82,118465996]]'
 date_of_birth: -0058-01-01T00:00:00Z
-place_of_death: "[[_Standards/WikiData/WD~Padua,617]]"
-place_of_birth: "[[_Standards/WikiData/WD~Padua,617]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-genre: "[[_Standards/WikiData/WD~historiography,50675]]"
+place_of_death: '[[_Standards/WikiData/WD~Padua,617]]'
+place_of_birth: '[[_Standards/WikiData/WD~Padua,617]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+genre: '[[_Standards/WikiData/WD~historiography,50675]]'
 BHCL_UUID: 6667b95d-1991-4641-8dc6-5a9eca7273de
 Wolfram_Language_entity_code: Entity["Concept", "Livy::5x926"]
 Krugosvet_article_archived_: istoriya/liviy-tit
@@ -41,9 +42,9 @@ date_of_death: 0017-01-01T00:00:00Z
 Commons_gallery: Titus Livius
 Commons_category: Titus Livius
 Commons_Creator_page: Titus Livius
-NLC_authorities: "000211515"
+NLC_authorities: 000211515
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Titus%20Livius.png
-ISNI: "0000000122834055"
+ISNI: 0000000122834055
 Provenio_UUID:
   - 06d0271b-a9c8-42f8-bc61-47f2d73a6bef
   - 165962fb-82d1-4eb6-8a1a-88c00ad4a7c5

@@ -2,16 +2,18 @@
 aliases:
   - oil refinery
   - petroleum refinery
+  - Oil_Refinery
+  - Oil Refinery
 has_id_wikidata: Q12353044
 part_of:
-  - "[[_Standards/WikiData/WD~chemical_industry,207652]]"
-  - "[[_Standards/WikiData/WD~petroleum_industry,862571]]"
+  - '[[_Standards/WikiData/WD~chemical_industry,207652]]'
+  - '[[_Standards/WikiData/WD~petroleum_industry,862571]]'
 different_from:
-  - "[[_Standards/WikiData/WD~oil_refining,214261]]"
-  - "[[_Standards/WikiData/WD~refinery,1867977]]"
+  - '[[_Standards/WikiData/WD~oil_refining,214261]]'
+  - '[[_Standards/WikiData/WD~refinery,1867977]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~refinery,1867977]]"
-  - "[[_Standards/WikiData/WD~separation_machine,135900101]]"
+  - '[[_Standards/WikiData/WD~refinery,1867977]]'
+  - '[[_Standards/WikiData/WD~separation_machine,135900101]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gulf%20raffinaderij%2C%20Rozenburg%2C%20Bestanddeelnr%20924-8259.jpg
 Wolfram_Language_entity_code: Entity["Concept", "OilRefinery::k6869"]
 Commons_category: Oil refineries

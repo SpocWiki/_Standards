@@ -1,6 +1,7 @@
 ---
 aliases:
   - unified atomic mass unit
+  - Unit~Dalton
 has_id_wikidata: Q483261
 ---
 

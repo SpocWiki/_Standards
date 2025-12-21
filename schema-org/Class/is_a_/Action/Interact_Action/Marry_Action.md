@@ -4,20 +4,22 @@ aliases:
   - marry_action
   - MarryAction
   - is_a_marry_action
+  - Marry_Action
+  - Marry Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - marry_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_marry_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

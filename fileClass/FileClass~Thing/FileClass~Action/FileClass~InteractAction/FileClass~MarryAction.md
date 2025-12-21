@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MarryAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MarryAction
-- class/Thing/Action/InteractAction/MarryAction
-- is_a_/MarryAction
-- schema-org/MarryAction
+  - class/MarryAction
+  - class/Thing/Action/InteractAction/MarryAction
+  - is_a_/MarryAction
+  - schema-org/MarryAction
 tags:
-- class/FileClass
-- class/MarryAction
-- is_a_/MarryAction
-- class/Thing/Action/InteractAction/MarryAction
+  - class/FileClass
+  - class/MarryAction
+  - is_a_/MarryAction
+  - class/Thing/Action/InteractAction/MarryAction
 version: 2.0
 ---
 

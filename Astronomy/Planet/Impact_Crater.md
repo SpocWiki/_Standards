@@ -1,17 +1,19 @@
 ---
 aliases:
   - impact crater
+  - Impact_Crater
+  - Impact Crater
 has_id_wikidata: Q55818
 different_from:
-  - "[[_Standards/WikiData/WD~volcanic_crater,109391]]"
-  - "[[_Standards/WikiData/WD~explosion_crater,1384605]]"
-model_item: "[[_Standards/WikiData/WD~Meteor_Crater,431381]]"
-part_of: "[[_Standards/WikiData/WD~planetary_nomenclature,1463003]]"
-subclass_of: "[[_Standards/WikiData/WD~crater,3240715]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_crater,6254809]]"
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~Q59791350,59791350]]"
-OmegaWiki_Defined_Meaning: "665442"
+  - '[[_Standards/WikiData/WD~volcanic_crater,109391]]'
+  - '[[_Standards/WikiData/WD~explosion_crater,1384605]]'
+model_item: '[[_Standards/WikiData/WD~Meteor_Crater,431381]]'
+part_of: '[[_Standards/WikiData/WD~planetary_nomenclature,1463003]]'
+subclass_of: '[[_Standards/WikiData/WD~crater,3240715]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_crater,6254809]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~Q59791350,59791350]]'
+OmegaWiki_Defined_Meaning: 665442
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Barringer%20Crater%20aerial%20photo%20by%20USGS.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Impact%20movie.ogv
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001071

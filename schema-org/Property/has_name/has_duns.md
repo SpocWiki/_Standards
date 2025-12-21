@@ -4,21 +4,23 @@ aliases:
   - duns
   - duns
   - has_text_of_duns
+  - has_duns
+  - has duns
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - duns
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_duns
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

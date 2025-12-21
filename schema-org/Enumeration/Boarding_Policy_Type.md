@@ -4,20 +4,22 @@ aliases:
   - boarding_policy_type
   - BoardingPolicyType
   - is_a_boarding_policy_type
+  - Boarding_Policy_Type
+  - Boarding Policy Type
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - boarding_policy_type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_boarding_policy_type Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

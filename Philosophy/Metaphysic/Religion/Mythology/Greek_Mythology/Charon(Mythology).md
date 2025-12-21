@@ -3,6 +3,7 @@ aliases:
   - Charon
   - Kharon
   - Χάρων
+  - Charon(Mythology)
 ---
 
 

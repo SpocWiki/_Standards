@@ -4,22 +4,24 @@ aliases:
   - boarding_group
   - boardingGroup
   - has_text_of_boarding_group
+  - has_boarding_group
+  - has boarding group
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - boarding
   - group
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_boarding_group
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

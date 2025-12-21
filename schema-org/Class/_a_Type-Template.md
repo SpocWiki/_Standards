@@ -1,31 +1,33 @@
 ---
 aliases:
-  - "{ label-dash: }":
-  - "{ label_snail: }":
-  - "{ label: }":
+  - '{ label-dash: }': ''
+  - '{ label_snail: }': ''
+  - '{ label: }': ''
   - is_a_{{label_snail}}
+  - _a_Type-Template
+  - ' a Type-Template'
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype:
-  "{ enumerationtype: }":
+  '{ enumerationtype: }': ''
 equivalent_class:
-  "{ equivalentClass: }":
-expiryDate:
+  '{ equivalentClass: }': ''
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - "{ label_snail: }":
-layout:
+  - '{ label_snail: }': ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_{{label_snail}} Class
 publish: true
-publishDate:
+publishDate: ''
 superseded_by:
-  "{ supersededBy: }":
+  '{ supersededBy: }': ''
 supersedes:
-  "{ supersedes: }":
+  '{ supersedes: }': ''
 tags:
   - class/Class
   - schema-org/Class

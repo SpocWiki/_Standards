@@ -4,20 +4,22 @@ aliases:
   - offer_item_condition
   - OfferItemCondition
   - is_an_offer_item_condition
+  - Offer_Item_Condition
+  - Offer Item Condition
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - offer_item_condition
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_offer_item_condition Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

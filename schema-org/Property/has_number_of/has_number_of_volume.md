@@ -4,21 +4,22 @@ aliases:
   - volume_number
   - volumeNumber
   - has_number_of_volume
+  - has number of volume
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - volume_number
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_volume_number
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

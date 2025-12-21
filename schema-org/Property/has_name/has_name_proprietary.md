@@ -4,22 +4,23 @@ aliases:
   - name_proprietary
   - proprietaryName
   - has_name_proprietary
+  - has name proprietary
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - proprietary
   - name
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_name_proprietary
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

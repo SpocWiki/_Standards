@@ -1,28 +1,29 @@
 ---
 aliases:
-- sub_set-of
-- sub_set_of
-- sub_setOf
-- is_sub_set_of
-- is_a_fraction_of
-- is_a_partition_of
-- 
+  - sub_set-of
+  - sub_set_of
+  - sub_setOf
+  - is_sub_set_of
+  - is_a_fraction_of
+  - is_a_partition_of
+  - ''
+  - is sub set of
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords: ''
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: is_sub_set_of
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- schema-org/Collection
+  - schema-org/Collection
 title: is_sub_set_of
 type: Predi_Relation
 ---

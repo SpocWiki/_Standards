@@ -4,21 +4,23 @@ aliases:
   - sale_price
   - SalePrice
   - is_a_sale_price
+  - Sale_Price
+  - Sale Price
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: PriceTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sale_price
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_sale_price Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

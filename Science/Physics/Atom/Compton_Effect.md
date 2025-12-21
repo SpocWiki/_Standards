@@ -1,7 +1,9 @@
 ---
 aliases:
-  - Compton scattering 
+  - Compton scattering
   - Compton effect
+  - Compton_Effect
+  - Compton Effect
 has_id_wikidata: Q171516
 ---
 

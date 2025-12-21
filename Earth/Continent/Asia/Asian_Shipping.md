@@ -1,9 +1,12 @@
 ---
+aliases:
+  - Asian_Shipping
+  - Asian Shipping
 confidential: public
 isDeleted: false
 SpocWebEntityId: 72745
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

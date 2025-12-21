@@ -4,21 +4,23 @@ aliases:
   - kosher_diet
   - KosherDiet
   - is_a_kosher_diet
+  - Kosher_Diet
+  - Kosher Diet
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: RestrictedDiet
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - kosher_diet
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_kosher_diet Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

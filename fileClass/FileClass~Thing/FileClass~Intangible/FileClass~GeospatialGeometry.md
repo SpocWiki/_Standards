@@ -1,80 +1,82 @@
 ---
-excludes: 
+aliases:
+  - FileClass~GeospatialGeometry
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: iru19l
-  name: GeoContains
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/GeospatialGeometry')"
-  type: MultiFile
-  path: ''
-- id: tkJaNy
-  name: GeoCoveredBy
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/GeospatialGeometry')"
-  type: MultiFile
-  path: ''
-- id: R5eHab
-  name: GeoCovers
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/GeospatialGeometry')"
-  type: MultiFile
-  path: ''
-- id: hnjIfo
-  name: GeoCrosses
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/GeospatialGeometry')"
-  type: MultiFile
-  path: ''
-- id: 5kEehD
-  name: GeoDisjoint
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/GeospatialGeometry')"
-  type: MultiFile
-  path: ''
-- id: hYAoRA
-  name: GeoEquals
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/GeospatialGeometry')"
-  type: MultiFile
-  path: ''
-- id: UuA53T
-  name: GeoIntersects
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/GeospatialGeometry')"
-  type: MultiFile
-  path: ''
-- id: WVkf7u
-  name: GeoOverlaps
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/GeospatialGeometry')"
-  type: MultiFile
-  path: ''
-- id: cGDyu7
-  name: GeoTouches
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/GeospatialGeometry')"
-  type: MultiFile
-  path: ''
-- id: lDLv9Q
-  name: GeoWithin
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/GeospatialGeometry')"
-  type: MultiFile
-  path: ''
+  - id: iru19l
+    name: GeoContains
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ''
+  - id: tkJaNy
+    name: GeoCoveredBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ''
+  - id: R5eHab
+    name: GeoCovers
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ''
+  - id: hnjIfo
+    name: GeoCrosses
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ''
+  - id: 5kEehD
+    name: GeoDisjoint
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ''
+  - id: hYAoRA
+    name: GeoEquals
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ''
+  - id: UuA53T
+    name: GeoIntersects
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ''
+  - id: WVkf7u
+    name: GeoOverlaps
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ''
+  - id: cGDyu7
+    name: GeoTouches
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ''
+  - id: lDLv9Q
+    name: GeoWithin
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/GeospatialGeometry
-- class/Thing/Intangible/GeospatialGeometry
-- is_a_/GeospatialGeometry
-- schema-org/GeospatialGeometry
+  - class/GeospatialGeometry
+  - class/Thing/Intangible/GeospatialGeometry
+  - is_a_/GeospatialGeometry
+  - schema-org/GeospatialGeometry
 tags:
-- class/FileClass
-- class/GeospatialGeometry
-- is_a_/GeospatialGeometry
-- class/Thing/Intangible/GeospatialGeometry
+  - class/FileClass
+  - class/GeospatialGeometry
+  - is_a_/GeospatialGeometry
+  - class/Thing/Intangible/GeospatialGeometry
 version: 2.0
 ---
 

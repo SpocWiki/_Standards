@@ -1,6 +1,7 @@
 ---
 aliases:
   - Baukalk
+  - Lime(Material)
 ---
 
 # [[Lime(Material)]] 

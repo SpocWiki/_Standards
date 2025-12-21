@@ -1,7 +1,7 @@
 ---
 aliases:
-- Umar
-- "Umar ibn al-Khattab"
+  - Umar
+  - Umar ibn al-Khattab
 ---
 
 ## #has_/text_of_/abstract 

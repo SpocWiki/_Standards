@@ -4,20 +4,22 @@ aliases:
   - workers_union
   - WorkersUnion
   - is_a_workers_union
+  - Workers_Union
+  - Workers Union
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - workers_union
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_workers_union Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

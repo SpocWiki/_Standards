@@ -4,22 +4,24 @@ aliases:
   - wire service
   - newswire
   - news service
+  - News_Agency
+  - News Agency
 has_id_wikidata: Q192283
 subclass_of:
-  - "[[_Standards/WikiData/WD~news_media,1193236]]"
-  - "[[_Standards/WikiData/WD~media_company,1331793]]"
+  - '[[_Standards/WikiData/WD~news_media,1193236]]'
+  - '[[_Standards/WikiData/WD~media_company,1331793]]'
 different_from:
-  - "[[_Standards/WikiData/WD~newswire,11790928]]"
-  - "[[_Standards/WikiData/WD~news_desk,19824398]]"
-  - "[[_Standards/WikiData/WD~print_syndicate,63968517]]"
+  - '[[_Standards/WikiData/WD~newswire,11790928]]'
+  - '[[_Standards/WikiData/WD~news_desk,19824398]]'
+  - '[[_Standards/WikiData/WD~print_syndicate,63968517]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_News_agency,13415710]]"
-  - "[[_Standards/WikiData/WD~Template_News_agencies,115468480]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_news_agencies,17231201]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-field_of_work: "[[_Standards/WikiData/WD~journalism,11030]]"
+  - '[[_Standards/WikiData/WD~Template_News_agency,13415710]]'
+  - '[[_Standards/WikiData/WD~Template_News_agencies,115468480]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_news_agencies,17231201]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+field_of_work: '[[_Standards/WikiData/WD~journalism,11030]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20B%20145%20Bild-F079071-0007%2C%20Bonn%2C%20Nachrichtenagentur%20Reuters.jpg
-U_S_National_Archives_Identifier: "10645626"
+U_S_National_Archives_Identifier: 10645626
 IPTC_NewsCode: mediatopic/20000309
 Commons_category: News agencies
 ---

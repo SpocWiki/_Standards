@@ -3,12 +3,13 @@ aliases:
   - has return-policy-country
   - returnPolicyCountry
   - has_return_policy_country
+  - has return policy country
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - return
   - policy
   - country
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_return_policy_country
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

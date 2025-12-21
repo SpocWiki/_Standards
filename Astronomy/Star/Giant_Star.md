@@ -1,8 +1,10 @@
 ---
 aliases:
   - Giant star
+  - Giant_Star
+  - Giant Star
 has_id_wikidata: Q5875
-subclass_of: "[[_Standards/WikiData/WD~star,523]]"
+subclass_of: '[[_Standards/WikiData/WD~star,523]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Structure%20of%20Stars%20%28artist%E2%80%99s%20impression%29.jpg
 Commons_category: Giant stars
 ---

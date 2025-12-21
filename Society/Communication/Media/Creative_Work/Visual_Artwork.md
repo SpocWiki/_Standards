@@ -4,20 +4,22 @@ aliases:
   - visual_artwork
   - VisualArtwork
   - is_a_visual_artwork
+  - Visual_Artwork
+  - Visual Artwork
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - visual_artwork
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_visual_artwork Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

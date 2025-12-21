@@ -3,6 +3,7 @@ aliases:
   - Buddhismus
   - Buddhadharma
   - Dharmavinaya
+  - Buddhism
 has_id_wikidata: Q748
 ---
 

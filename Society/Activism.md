@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Activism
 has_id_wikidata: Q203764
 ---
 

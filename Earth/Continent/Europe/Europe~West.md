@@ -1,7 +1,8 @@
 ---
 aliases:
-- "West Europe"
-- "Western Europe"
+  - West Europe
+  - Western Europe
+  - Europe~West
 ---
 
 # Europe~West

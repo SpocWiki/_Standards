@@ -1,157 +1,158 @@
 ---
 aliases:
   - Islamic
+  - Islam
 has_id_wikidata: Q432
 commemorates:
-  - "[[_Standards/WikiData/WD~99_names_of_Allah,83875]]"
-  - "[[_Standards/WikiData/WD~As_Salam,4115662]]"
+  - '[[_Standards/WikiData/WD~99_names_of_Allah,83875]]'
+  - '[[_Standards/WikiData/WD~As_Salam,4115662]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~zakāt,124058]]"
-  - "[[_Standards/WikiData/WD~Five_Pillars_of_Islam,176770]]"
-  - "[[_Standards/WikiData/WD~salah,234869]]"
-  - "[[_Standards/WikiData/WD~Hajj,234915]]"
-  - "[[_Standards/WikiData/WD~fasting_during_Ramadan,7428657]]"
-  - "[[_Standards/WikiData/WD~Shahada,41831]]"
+  - '[[_Standards/WikiData/WD~zakāt,124058]]'
+  - '[[_Standards/WikiData/WD~Five_Pillars_of_Islam,176770]]'
+  - '[[_Standards/WikiData/WD~salah,234869]]'
+  - '[[_Standards/WikiData/WD~Hajj,234915]]'
+  - '[[_Standards/WikiData/WD~fasting_during_Ramadan,7428657]]'
+  - '[[_Standards/WikiData/WD~Shahada,41831]]'
 physically_interacts_with:
-  - "[[_Standards/WikiData/WD~idea,131841]]"
-  - "[[_Standards/WikiData/WD~humanity,1156970]]"
-  - "[[_Standards/WikiData/WD~creature,1274979]]"
-  - "[[_Standards/WikiData/WD~natural_environment,43619]]"
-location_of_formation: "[[_Standards/WikiData/WD~Hejaz,169977]]"
-country_of_origin: "[[_Standards/WikiData/WD~Hejaz,169977]]"
+  - '[[_Standards/WikiData/WD~idea,131841]]'
+  - '[[_Standards/WikiData/WD~humanity,1156970]]'
+  - '[[_Standards/WikiData/WD~creature,1274979]]'
+  - '[[_Standards/WikiData/WD~natural_environment,43619]]'
+location_of_formation: '[[_Standards/WikiData/WD~Hejaz,169977]]'
+country_of_origin: '[[_Standards/WikiData/WD~Hejaz,169977]]'
 headquarters_location:
-  - "[[_Standards/WikiData/WD~Qibla,175047]]"
-  - "[[_Standards/WikiData/WD~Al_Masjid_Al_Haram,428858]]"
-  - "[[_Standards/WikiData/WD~Kaaba,29466]]"
-followed_by: "[[_Standards/WikiData/WD~Five_Pillars_of_Islam,176770]]"
+  - '[[_Standards/WikiData/WD~Qibla,175047]]'
+  - '[[_Standards/WikiData/WD~Al_Masjid_Al_Haram,428858]]'
+  - '[[_Standards/WikiData/WD~Kaaba,29466]]'
+followed_by: '[[_Standards/WikiData/WD~Five_Pillars_of_Islam,176770]]'
 illustrator:
-  - "[[_Standards/WikiData/WD~companions_of_the_Prophet,188711]]"
-  - "[[_Standards/WikiData/WD~ʿālim,189459]]"
-  - "[[_Standards/WikiData/WD~Salaf,2322765]]"
+  - '[[_Standards/WikiData/WD~companions_of_the_Prophet,188711]]'
+  - '[[_Standards/WikiData/WD~ʿālim,189459]]'
+  - '[[_Standards/WikiData/WD~Salaf,2322765]]'
   - "[[_Standards/WikiData/WD~Muhammad's_wives,2354223]]"
 practiced_by:
-  - "[[_Standards/WikiData/WD~ummah,205766]]"
-  - "[[_Standards/WikiData/WD~Muslim,47740]]"
+  - '[[_Standards/WikiData/WD~ummah,205766]]'
+  - '[[_Standards/WikiData/WD~Muslim,47740]]'
 depicts:
-  - "[[_Standards/WikiData/WD~akhirah,219228]]"
-  - "[[_Standards/WikiData/WD~Barzakh,809688]]"
-  - "[[_Standards/WikiData/WD~Jannah,835143]]"
-  - "[[_Standards/WikiData/WD~dunya,1266334]]"
-  - "[[_Standards/WikiData/WD~Al_Ghaib,1977474]]"
-  - "[[_Standards/WikiData/WD~Islamic_view_of_death,6024346]]"
-  - "[[_Standards/WikiData/WD~Qiyama,12200906]]"
-  - "[[_Standards/WikiData/WD~Ajal,125535233]]"
-  - "[[_Standards/WikiData/WD~Jahannam,58418]]"
+  - '[[_Standards/WikiData/WD~akhirah,219228]]'
+  - '[[_Standards/WikiData/WD~Barzakh,809688]]'
+  - '[[_Standards/WikiData/WD~Jannah,835143]]'
+  - '[[_Standards/WikiData/WD~dunya,1266334]]'
+  - '[[_Standards/WikiData/WD~Al_Ghaib,1977474]]'
+  - '[[_Standards/WikiData/WD~Islamic_view_of_death,6024346]]'
+  - '[[_Standards/WikiData/WD~Qiyama,12200906]]'
+  - '[[_Standards/WikiData/WD~Ajal,125535233]]'
+  - '[[_Standards/WikiData/WD~Jahannam,58418]]'
 based_on:
-  - "[[_Standards/WikiData/WD~hadith,234343]]"
-  - "[[_Standards/WikiData/WD~Sunnah,234764]]"
-  - "[[_Standards/WikiData/WD~prophetic_biography,1436115]]"
-  - "[[_Standards/WikiData/WD~Qur_an,428]]"
+  - '[[_Standards/WikiData/WD~hadith,234343]]'
+  - '[[_Standards/WikiData/WD~Sunnah,234764]]'
+  - '[[_Standards/WikiData/WD~prophetic_biography,1436115]]'
+  - '[[_Standards/WikiData/WD~Qur_an,428]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Encyclopaedia_of_Islam,1145236]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Encyclopaedia_of_Islam,1145236]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
   - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]"
-  - "[[_Standards/WikiData/WD~TDV_Islamic_Encyclopedia,21527102]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]'
+  - '[[_Standards/WikiData/WD~TDV_Islamic_Encyclopedia,21527102]]'
 significant_event:
   - "[[_Standards/WikiData/WD~Isra_and_Mi'raj,381240]]"
-  - "[[_Standards/WikiData/WD~The_Farewell_Pilgrimage,3352027]]"
+  - '[[_Standards/WikiData/WD~The_Farewell_Pilgrimage,3352027]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Hanif,425381]]"
-  - "[[_Standards/WikiData/WD~Arabian_mythology,434553]]"
-  - "[[_Standards/WikiData/WD~Christianity,5043]]"
-  - "[[_Standards/WikiData/WD~Judaism,9268]]"
+  - '[[_Standards/WikiData/WD~Hanif,425381]]'
+  - '[[_Standards/WikiData/WD~Arabian_mythology,434553]]'
+  - '[[_Standards/WikiData/WD~Christianity,5043]]'
+  - '[[_Standards/WikiData/WD~Judaism,9268]]'
 replaces:
-  - "[[_Standards/WikiData/WD~Arabian_mythology,434553]]"
-  - "[[_Standards/WikiData/WD~Ancient_Semitic_religion,446021]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Islam,642379]]"
+  - '[[_Standards/WikiData/WD~Arabian_mythology,434553]]'
+  - '[[_Standards/WikiData/WD~Ancient_Semitic_religion,446021]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Islam,642379]]'
 genre:
-  - "[[_Standards/WikiData/WD~cult,756820]]"
-  - "[[_Standards/WikiData/WD~spiritual_practice,2270606]]"
-  - "[[_Standards/WikiData/WD~devotion,11572062]]"
+  - '[[_Standards/WikiData/WD~cult,756820]]'
+  - '[[_Standards/WikiData/WD~spiritual_practice,2270606]]'
+  - '[[_Standards/WikiData/WD~devotion,11572062]]'
 location:
-  - "[[_Standards/WikiData/WD~Muslim_world,779924]]"
-  - "[[_Standards/WikiData/WD~worldwide,13780930]]"
-studied_by: "[[_Standards/WikiData/WD~Islamic_studies,843909]]"
+  - '[[_Standards/WikiData/WD~Muslim_world,779924]]'
+  - '[[_Standards/WikiData/WD~worldwide,13780930]]'
+studied_by: '[[_Standards/WikiData/WD~Islamic_studies,843909]]'
 connects_with:
-  - "[[_Standards/WikiData/WD~Dua,879046]]"
-  - "[[_Standards/WikiData/WD~dhikr,948437]]"
-  - "[[_Standards/WikiData/WD~good_works_in_Islam,7404508]]"
+  - '[[_Standards/WikiData/WD~Dua,879046]]'
+  - '[[_Standards/WikiData/WD~dhikr,948437]]'
+  - '[[_Standards/WikiData/WD~good_works_in_Islam,7404508]]'
 different_from:
-  - "[[_Standards/WikiData/WD~shirk,901150]]"
-  - "[[_Standards/WikiData/WD~Islam,1674068]]"
-  - "[[_Standards/WikiData/WD~nifak,6028994]]"
-  - "[[_Standards/WikiData/WD~Zulm,8075174]]"
-  - "[[_Standards/WikiData/WD~Fusuq,12230825]]"
-  - "[[_Standards/WikiData/WD~Ijram,12487395]]"
-  - "[[_Standards/WikiData/WD~Kufr,13452658]]"
-  - "[[_Standards/WikiData/WD~Fujur,15810502]]"
-  - "[[_Standards/WikiData/WD~Udwan,125496723]]"
+  - '[[_Standards/WikiData/WD~shirk,901150]]'
+  - '[[_Standards/WikiData/WD~Islam,1674068]]'
+  - '[[_Standards/WikiData/WD~nifak,6028994]]'
+  - '[[_Standards/WikiData/WD~Zulm,8075174]]'
+  - '[[_Standards/WikiData/WD~Fusuq,12230825]]'
+  - '[[_Standards/WikiData/WD~Ijram,12487395]]'
+  - '[[_Standards/WikiData/WD~Kufr,13452658]]'
+  - '[[_Standards/WikiData/WD~Fujur,15810502]]'
+  - '[[_Standards/WikiData/WD~Udwan,125496723]]'
 has_use:
-  - "[[_Standards/WikiData/WD~dawah,1075838]]"
-  - "[[_Standards/WikiData/WD~Marifa,3958186]]"
-  - "[[_Standards/WikiData/WD~love_for_God_in_Islam,101415904]]"
+  - '[[_Standards/WikiData/WD~dawah,1075838]]'
+  - '[[_Standards/WikiData/WD~Marifa,3958186]]'
+  - '[[_Standards/WikiData/WD~love_for_God_in_Islam,101415904]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~ad_dīn,1226149]]"
-  - "[[_Standards/WikiData/WD~Q31821668,31821668]]"
+  - '[[_Standards/WikiData/WD~ad_dīn,1226149]]'
+  - '[[_Standards/WikiData/WD~Q31821668,31821668]]'
 main_subject:
-  - "[[_Standards/WikiData/WD~worship_in_Islam,1231595]]"
-  - "[[_Standards/WikiData/WD~obedience,1456974]]"
-  - "[[_Standards/WikiData/WD~allegiance,2721121]]"
-  - "[[_Standards/WikiData/WD~Sabil_Allah,5446268]]"
-  - "[[_Standards/WikiData/WD~Sirat_al_Mustaqim,7529988]]"
-  - "[[_Standards/WikiData/WD~obedience_in_Islam,125791477]]"
+  - '[[_Standards/WikiData/WD~worship_in_Islam,1231595]]'
+  - '[[_Standards/WikiData/WD~obedience,1456974]]'
+  - '[[_Standards/WikiData/WD~allegiance,2721121]]'
+  - '[[_Standards/WikiData/WD~Sabil_Allah,5446268]]'
+  - '[[_Standards/WikiData/WD~Sirat_al_Mustaqim,7529988]]'
+  - '[[_Standards/WikiData/WD~obedience_in_Islam,125791477]]'
 culture:
-  - "[[_Standards/WikiData/WD~Islamic_culture,1340372]]"
-  - "[[_Standards/WikiData/WD~Arab_culture,3309134]]"
+  - '[[_Standards/WikiData/WD~Islamic_culture,1340372]]'
+  - '[[_Standards/WikiData/WD~Arab_culture,3309134]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~iḥsān,2082422]]"
-  - "[[_Standards/WikiData/WD~iman,8245340]]"
-  - "[[_Standards/WikiData/WD~Sufism,9603]]"
-creator: "[[_Standards/WikiData/WD~God_in_Islam,2095353]]"
-director: "[[_Standards/WikiData/WD~Jibril,3467762]]"
-named_after: "[[_Standards/WikiData/WD~surrender,3769366]]"
+  - '[[_Standards/WikiData/WD~iḥsān,2082422]]'
+  - '[[_Standards/WikiData/WD~iman,8245340]]'
+  - '[[_Standards/WikiData/WD~Sufism,9603]]'
+creator: '[[_Standards/WikiData/WD~God_in_Islam,2095353]]'
+director: '[[_Standards/WikiData/WD~Jibril,3467762]]'
+named_after: '[[_Standards/WikiData/WD~surrender,3769366]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Islam,5496999]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Sufism,125577596]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Islam,5496999]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Sufism,125577596]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Islam_topics,5837383]]"
-  - "[[_Standards/WikiData/WD~Template_Islam,5127]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Islam,6123605]]"
-instance_of: "[[_Standards/WikiData/WD~major_religious_group,6957341]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Islam,7112303]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22827757,22827757]]"
-item_operated: "[[_Standards/WikiData/WD~Qalab,125664801]]"
+  - '[[_Standards/WikiData/WD~Template_Islam_topics,5837383]]'
+  - '[[_Standards/WikiData/WD~Template_Islam,5127]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Islam,6123605]]'
+instance_of: '[[_Standards/WikiData/WD~major_religious_group,6957341]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Islam,7112303]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22827757,22827757]]'
+item_operated: '[[_Standards/WikiData/WD~Qalab,125664801]]'
 inception: 0631-01-01T00:00:00Z
-foundational_text: "[[_Standards/WikiData/WD~Qur_an,428]]"
+foundational_text: '[[_Standards/WikiData/WD~Qur_an,428]]'
 location_of_creation:
-  - "[[_Standards/WikiData/WD~Jerusalem,1218]]"
-  - "[[_Standards/WikiData/WD~Mecca,5806]]"
-  - "[[_Standards/WikiData/WD~Medina,35484]]"
-has_characteristic: "[[_Standards/WikiData/WD~monotheism,9159]]"
-founded_by: "[[_Standards/WikiData/WD~Muhammad,9458]]"
-official_language: "[[_Standards/WikiData/WD~Arabic,13955]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~Arabic,13955]]"
-follows: "[[_Standards/WikiData/WD~Shahada,41831]]"
-subclass_of: "[[_Standards/WikiData/WD~Abrahamic_religion,47280]]"
-part_of_the_series: "[[_Standards/WikiData/WD~Abrahamic_religion,47280]]"
-Universal_Decimal_Classification: "28"
-Dewey_Decimal_Classification: "297"
+  - '[[_Standards/WikiData/WD~Jerusalem,1218]]'
+  - '[[_Standards/WikiData/WD~Mecca,5806]]'
+  - '[[_Standards/WikiData/WD~Medina,35484]]'
+has_characteristic: '[[_Standards/WikiData/WD~monotheism,9159]]'
+founded_by: '[[_Standards/WikiData/WD~Muhammad,9458]]'
+official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Arabic,13955]]'
+follows: '[[_Standards/WikiData/WD~Shahada,41831]]'
+subclass_of: '[[_Standards/WikiData/WD~Abrahamic_religion,47280]]'
+part_of_the_series: '[[_Standards/WikiData/WD~Abrahamic_religion,47280]]'
+Universal_Decimal_Classification: 28
+Dewey_Decimal_Classification: 297
 Commons_category: Islam
 hashtag_:
   - Islam
   - islam
 Archive_of_Our_Own_tag: Islam
-IAB_code: "461"
-OmegaWiki_Defined_Meaning: "411511"
+IAB_code: 461
+OmegaWiki_Defined_Meaning: 411511
 Colon_Classification: Q7
 booru_tag: islam
 Danbooru_tag: islam
@@ -172,7 +173,7 @@ work_available_at_URL:
   - http://www.qurananalysis.com/?q=الإسلام
   - https://corpus.quran.com/qurandictionary.jsp?q=slm
 Stack_Exchange_site_URL: https://islam.stackexchange.com
-U_S_National_Archives_Identifier: "10644737"
+U_S_National_Archives_Identifier: 10644737
 MeSH_tree_code: K01.844.275
 Krugosvet_article: kultura_i_obrazovanie/religiya/ISLAM.html
 IPTC_NewsCode: mediatopic/20000677

@@ -1,20 +1,21 @@
 ---
 aliases:
   - Kissen
+  - Pillow
 has_id_wikidata: Q99895
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-connects_with: "[[_Standards/WikiData/WD~pillowcase,1094401]]"
-has_use: "[[_Standards/WikiData/WD~bedding,1762457]]"
-different_from: "[[_Standards/WikiData/WD~cushion,10971235]]"
-subclass_of: "[[_Standards/WikiData/WD~cushion,10971235]]"
-instance_of: "[[_Standards/WikiData/WD~product_category,63981612]]"
-physically_interacts_with: "[[_Standards/WikiData/WD~head,23640]]"
-Nomenclature_for_Museum_Cataloging: "1021"
-OmegaWiki_Defined_Meaning: "447708"
+connects_with: '[[_Standards/WikiData/WD~pillowcase,1094401]]'
+has_use: '[[_Standards/WikiData/WD~bedding,1762457]]'
+different_from: '[[_Standards/WikiData/WD~cushion,10971235]]'
+subclass_of: '[[_Standards/WikiData/WD~cushion,10971235]]'
+instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
+physically_interacts_with: '[[_Standards/WikiData/WD~head,23640]]'
+Nomenclature_for_Museum_Cataloging: 1021
+OmegaWiki_Defined_Meaning: 447708
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HK%20SW%20Hollywood%20Road%20Police%20HQ%20Art%20Demo%2012-2009%20bed%20and%20pillows%20in%20white.JPG
 IMDb_keyword: pillow
 Iconclass_notation: 41A7632

@@ -3,23 +3,24 @@ aliases:
   - has payment-method
   - paymentMethod
   - has_payment_method
+  - has payment method
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - payment_method
   - payment
   - method
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_payment_method
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

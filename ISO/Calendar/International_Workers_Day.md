@@ -3,44 +3,46 @@ aliases:
   - International Workers' Day
   - Labour Day
   - May Day
+  - International_Workers_Day
+  - International Workers Day
 has_id_wikidata: Q47499
 commemorates:
-  - "[[../../WikiData/WD~work,268378]]"
-  - "[[_Standards/WikiData/WD~employee,703534]]"
-  - "[[_Standards/WikiData/WD~laborer,12713481]]"
-dedicated_to: "[[_Standards/WikiData/WD~eight_hour_workday,341050]]"
+  - '[[../../WikiData/WD~work,268378]]'
+  - '[[_Standards/WikiData/WD~employee,703534]]'
+  - '[[_Standards/WikiData/WD~laborer,12713481]]'
+dedicated_to: '[[_Standards/WikiData/WD~eight_hour_workday,341050]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~public_holiday,1197685]]"
-  - "[[_Standards/WikiData/WD~holiday,1445650]]"
-  - "[[_Standards/WikiData/WD~activity,1914636]]"
-  - "[[_Standards/WikiData/WD~world_day,2558684]]"
-  - "[[_Standards/WikiData/WD~annual_event,11483816]]"
-subclass_of: "[[_Standards/WikiData/WD~holiday,1445650]]"
+  - '[[_Standards/WikiData/WD~public_holiday,1197685]]'
+  - '[[_Standards/WikiData/WD~holiday,1445650]]'
+  - '[[_Standards/WikiData/WD~activity,1914636]]'
+  - '[[_Standards/WikiData/WD~world_day,2558684]]'
+  - '[[_Standards/WikiData/WD~annual_event,11483816]]'
+subclass_of: '[[_Standards/WikiData/WD~holiday,1445650]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~Vappu,2736808]]"
-  - "[[_Standards/WikiData/WD~Labour_Day,10901070]]"
-facet_of: "[[_Standards/WikiData/WD~Mayovka,4286457]]"
+  - '[[_Standards/WikiData/WD~Vappu,2736808]]'
+  - '[[_Standards/WikiData/WD~Labour_Day,10901070]]'
+facet_of: '[[_Standards/WikiData/WD~Mayovka,4286457]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Pervoye_Maya,5454219]]"
-  - "[[_Standards/WikiData/WD~Labor_Day,20872337]]"
+  - '[[_Standards/WikiData/WD~Pervoye_Maya,5454219]]'
+  - '[[_Standards/WikiData/WD~Labor_Day,20872337]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~Wiki_goes_Caribbean,85931561]]"
-  - "[[_Standards/WikiData/WD~Wiki_goes_Caribbean_requested_article,123313805]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]"
-intangible_cultural_heritage_status: "[[_Standards/WikiData/WD~National_Inventory_of_Living_Heritage_in_Finland,113039042]]"
+  - '[[_Standards/WikiData/WD~Wiki_goes_Caribbean,85931561]]'
+  - '[[_Standards/WikiData/WD~Wiki_goes_Caribbean_requested_article,123313805]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~National_Inventory_of_Living_Heritage_in_Finland,113039042]]'
 inception: 1889-01-01T00:00:00Z
-day_in_year_for_periodic_occurrence: "[[_Standards/WikiData/WD~May_1,2544]]"
+day_in_year_for_periodic_occurrence: '[[_Standards/WikiData/WD~May_1,2544]]'
 described_at_URL:
   - https://wiki.aineetonkulttuuriperinto.fi/wiki/Ty%C3%B6v%C3%A4en_vappu
   - https://wiki.aineetonkulttuuriperinto.fi/wiki/Workers%E2%80%99_Labour_Day_on_May_1
   - https://wiki.aineetonkulttuuriperinto.fi/wiki/Arbetarnas_valborg
-OmegaWiki_Defined_Meaning: "538884"
+OmegaWiki_Defined_Meaning: 538884
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Tag%20der%20Arbeit.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wien%20-%20SP%C3%96-Maiaufmarsch%20%28a%29.JPG
-Dewey_Decimal_Classification: "394.2627212"
+Dewey_Decimal_Classification: 394.2627212
 subject_named_as: Erster Mai
 Commons_category: International Workers' Day
 Google_Doodle:

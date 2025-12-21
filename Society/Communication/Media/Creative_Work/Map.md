@@ -9,16 +9,16 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - map
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_map Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
@@ -35,36 +35,36 @@ MeSH_tree_code:
   - V01.185.687
   - V02.700.450
 instance_of:
-  - "[[_Standards/WikiData/WD~genre,483394]]"
-  - "[[_Standards/WikiData/WD~type_of_map,41362222]]"
+  - '[[_Standards/WikiData/WD~genre,483394]]'
+  - '[[_Standards/WikiData/WD~type_of_map,41362222]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-  - "[[_Standards/WikiData/WD~political_world_map,1048515]]"
-  - "[[_Standards/WikiData/WD~political_map,1688818]]"
-  - "[[_Standards/WikiData/WD~playing_card,47883]]"
+  - '[[_Standards/WikiData/WD~political_world_map,1048515]]'
+  - '[[_Standards/WikiData/WD~political_map,1688818]]'
+  - '[[_Standards/WikiData/WD~playing_card,47883]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~cartographic_generalization,1501867]]"
-  - "[[_Standards/WikiData/WD~mapping,1734603]]"
-part_of: "[[_Standards/WikiData/WD~map_series,1734578]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Maps,5497094]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~map_icon,6753763]]"
+  - '[[_Standards/WikiData/WD~cartographic_generalization,1501867]]'
+  - '[[_Standards/WikiData/WD~mapping,1734603]]'
+part_of: '[[_Standards/WikiData/WD~map_series,1734578]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Maps,5497094]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~map_icon,6753763]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_map,11047422]]"
-  - "[[_Standards/WikiData/WD~Q26135763,26135763]]"
-  - "[[_Standards/WikiData/WD~Q102177457,102177457]]"
+  - '[[_Standards/WikiData/WD~Template_Infobox_map,11047422]]'
+  - '[[_Standards/WikiData/WD~Q26135763,26135763]]'
+  - '[[_Standards/WikiData/WD~Q102177457,102177457]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~cartographic_work,25106976]]"
-  - "[[_Standards/WikiData/WD~cartographic_material,60533375]]"
-  - "[[_Standards/WikiData/WD~cartographic_product,124608594]]"
-has_characteristic: "[[_Standards/WikiData/WD~type_of_map,41362222]]"
+  - '[[_Standards/WikiData/WD~cartographic_work,25106976]]'
+  - '[[_Standards/WikiData/WD~cartographic_material,60533375]]'
+  - '[[_Standards/WikiData/WD~cartographic_product,124608594]]'
+has_characteristic: '[[_Standards/WikiData/WD~type_of_map,41362222]]'
 properties_for_this_type:
   - main subject
   - scale
@@ -75,13 +75,13 @@ Wikidata_property:
   - official map URL
   - taxon range map image
   - locator map image
-studied_by: "[[_Standards/WikiData/WD~cartography,42515]]"
-OmegaWiki_Defined_Meaning: "2249"
-Dewey_Decimal_Classification: "912"
-Nomenclature_for_Museum_Cataloging: "13399"
+studied_by: '[[_Standards/WikiData/WD~cartography,42515]]'
+OmegaWiki_Defined_Meaning: 2249
+Dewey_Decimal_Classification: 912
+Nomenclature_for_Museum_Cataloging: 13399
 U_S_National_Archives_Identifier:
-  - "10640633"
-  - "10633667"
+  - 10640633
+  - 10633667
 Commons_category: Maps
 Commons_gallery: Map
 image:
@@ -97,7 +97,7 @@ exact_match:
   - https://citationstyles.org/ontology/type/map
 equivalent_class: https://schema.org/Map
 Stack_Exchange_tag: https://stackoverflow.com/tags/maps
-GS1_GPC_code: "60010400"
+GS1_GPC_code: 60010400
 ---
 
 # [[Map]] 

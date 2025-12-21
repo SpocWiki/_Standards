@@ -3,18 +3,19 @@ aliases:
   - Gewächshaus
   - glasshouse
   - hothouse
+  - Greenhouse
 has_id_wikidata: Q165044
 subclass_of:
-  - "[[_Standards/WikiData/WD~vivarium,315630]]"
-  - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
-  - "[[_Standards/WikiData/WD~agricultural_structure,10480682]]"
-  - "[[_Standards/WikiData/WD~garden_feature,112049379]]"
+  - '[[_Standards/WikiData/WD~vivarium,315630]]'
+  - '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+  - '[[_Standards/WikiData/WD~agricultural_structure,10480682]]'
+  - '[[_Standards/WikiData/WD~garden_feature,112049379]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-used_by: "[[_Standards/WikiData/WD~greenhouse_agriculture,3479981]]"
-part_of: "[[_Standards/WikiData/WD~building_integrated_agriculture,4986435]]"
-Nomenclature_for_Museum_Cataloging: "556"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+used_by: '[[_Standards/WikiData/WD~greenhouse_agriculture,3479981]]'
+part_of: '[[_Standards/WikiData/WD~building_integrated_agriculture,4986435]]'
+Nomenclature_for_Museum_Cataloging: 556
 DPLA_subject_term: Greenhouses
 subreddit: Greenhouses
 Commons_category: Greenhouses
@@ -25,9 +26,9 @@ equivalent_class:
   - http://id.cabi.org/cabt/53395
   - http://wordnet-rdf.princeton.edu/wn30/03457902-n
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Greenhouse%20for%20strawberry.jpg
-U_S_National_Archives_Identifier: "10675845"
-Dewey_Decimal_Classification: "631.583"
-UNSPSC_Code: "95141502"
+U_S_National_Archives_Identifier: 10675845
+Dewey_Decimal_Classification: 631.583
+UNSPSC_Code: 95141502
 Commons_gallery: Greenhouse
 OpenStreetMap_tag_or_key: Tag:building=greenhouse
 ---

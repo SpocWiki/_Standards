@@ -1,25 +1,27 @@
 ---
-excludes: 
+aliases:
+  - FileClass~SeekToAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action
 fields:
-- id: BkUHAV
-  name: StartOffset
-  options: {}
-  type: Number
-  path: ''
+  - id: BkUHAV
+    name: StartOffset
+    options: {}
+    type: Number
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/SeekToAction
-- class/Thing/Action/SeekToAction
-- is_a_/SeekToAction
-- schema-org/SeekToAction
+  - class/SeekToAction
+  - class/Thing/Action/SeekToAction
+  - is_a_/SeekToAction
+  - schema-org/SeekToAction
 tags:
-- class/FileClass
-- class/SeekToAction
-- is_a_/SeekToAction
-- class/Thing/Action/SeekToAction
+  - class/FileClass
+  - class/SeekToAction
+  - is_a_/SeekToAction
+  - class/Thing/Action/SeekToAction
 version: 2.0
 ---
 

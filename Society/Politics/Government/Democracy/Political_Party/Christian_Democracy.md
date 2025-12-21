@@ -1,20 +1,22 @@
 ---
 aliases:
   - Christdemokratie
+  - Christian_Democracy
+  - Christian Democracy
 has_id_wikidata: Q209158
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~Christian,106039]]"
-  - "[[_Standards/WikiData/WD~democrat,29042990]]"
+  - '[[_Standards/WikiData/WD~Christian,106039]]'
+  - '[[_Standards/WikiData/WD~democrat,29042990]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Christianity_and_politics,4116798]]"
-  - "[[_Standards/WikiData/WD~pro_democracy,108659011]]"
-different_from: "[[_Standards/WikiData/WD~Christian_democracy,5110323]]"
-instance_of: "[[_Standards/WikiData/WD~political_ideology,12909644]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Christian_Democracy,17518531]]"
+  - '[[_Standards/WikiData/WD~Christianity_and_politics,4116798]]'
+  - '[[_Standards/WikiData/WD~pro_democracy,108659011]]'
+different_from: '[[_Standards/WikiData/WD~Christian_democracy,5110323]]'
+instance_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Christian_Democracy,17518531]]'
 Commons_category: Christian democratic parties
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Orange%20flag%20waving.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Orange%20flag%20waving.svg
-P8189: "987007285591405171"
+P8189: 987007285591405171
 ---
 
 # [[Christian_Democracy]] 

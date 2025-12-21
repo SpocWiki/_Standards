@@ -4,21 +4,23 @@ aliases:
   - occupational_activity
   - OccupationalActivity
   - is_an_occupational_activity
+  - Occupational_Activity
+  - Occupational Activity
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: PhysicalActivityCategory
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - occupational_activity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_occupational_activity Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

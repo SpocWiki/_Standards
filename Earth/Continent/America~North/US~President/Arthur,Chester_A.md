@@ -1,25 +1,26 @@
 ---
 aliases:
-- Arthur,Chester_A
-- 
+  - Arthur,Chester_A
+  - ''
+  - Arthur,Chester A
 confidential: private
-cssclasses: "private note"
+cssclasses: private note
 draft: true
-expiryDate: 
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 has_time_started: 2024-05-12
 isDeleted: false
 isReadOnly: false
 keywords: Arthur,Chester_A
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Arthur,Chester_A
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Arthur,Chester_A
-- 
+  - Arthur,Chester_A
+  - ''
 title: Arthur,Chester_A
 type: private_note
 ---

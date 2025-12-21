@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~AudioObjectSnapshot
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/AudioObjectSnapshot
-- class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectSnapshot
-- is_an_/AudioObjectSnapshot
-- schema-org/AudioObjectSnapshot
+  - class/AudioObjectSnapshot
+  - class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectSnapshot
+  - is_an_/AudioObjectSnapshot
+  - schema-org/AudioObjectSnapshot
 tags:
-- class/FileClass
-- class/AudioObjectSnapshot
-- '#is_an_/AudioObjectSnapshot'
-- class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectSnapshot
+  - class/FileClass
+  - class/AudioObjectSnapshot
+  - '#is_an_/AudioObjectSnapshot'
+  - class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectSnapshot
 version: 2.0
 ---
 

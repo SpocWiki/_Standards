@@ -1,23 +1,24 @@
 ---
 aliases:
   - has_arrival_station
+  - has arrival station
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - arrival
   - station
   - arrivalStation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_arrival_station
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

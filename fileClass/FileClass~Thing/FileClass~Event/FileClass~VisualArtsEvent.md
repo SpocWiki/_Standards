@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~VisualArtsEvent
+excludes: ''
 extends: FileClass~Thing/FileClass~Event
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/VisualArtsEvent
-- class/Thing/Event/VisualArtsEvent
-- is_a_/VisualArtsEvent
-- schema-org/VisualArtsEvent
+  - class/VisualArtsEvent
+  - class/Thing/Event/VisualArtsEvent
+  - is_a_/VisualArtsEvent
+  - schema-org/VisualArtsEvent
 tags:
-- class/FileClass
-- class/VisualArtsEvent
-- is_a_/VisualArtsEvent
-- class/Thing/Event/VisualArtsEvent
+  - class/FileClass
+  - class/VisualArtsEvent
+  - is_a_/VisualArtsEvent
+  - class/Thing/Event/VisualArtsEvent
 version: 2.0
 ---
 

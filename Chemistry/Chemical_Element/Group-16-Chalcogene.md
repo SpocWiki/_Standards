@@ -1,28 +1,30 @@
 ---
-Commons_category: "Periodic table group 16"
+aliases:
+  - Group-16-Chalcogene
+has_id_wikidata: Q104567
+Commons_category: Periodic table group 16
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 different_from: '[[_Standards/WikiData/WD~aerobic_organism,193124]]'
 followed_by: '[[_Standards/WikiData/WD~halogens,19605]]'
 follows: '[[_Standards/WikiData/WD~group_15,106675]]'
-has_id_wikidata: Q104567
 has_part_s_:
-- '[[_Standards/WikiData/WD~oxygen,629]]'
-- '[[_Standards/WikiData/WD~sulfur,682]]'
-- '[[_Standards/WikiData/WD~selenium,876]]'
-- '[[_Standards/WikiData/WD~polonium,979]]'
-- '[[_Standards/WikiData/WD~tellurium,1100]]'
-- '[[_Standards/WikiData/WD~livermorium,1304]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Chalkogene.jpg"
+  - '[[_Standards/WikiData/WD~oxygen,629]]'
+  - '[[_Standards/WikiData/WD~sulfur,682]]'
+  - '[[_Standards/WikiData/WD~selenium,876]]'
+  - '[[_Standards/WikiData/WD~polonium,979]]'
+  - '[[_Standards/WikiData/WD~tellurium,1100]]'
+  - '[[_Standards/WikiData/WD~livermorium,1304]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Chalkogene.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~group,83306]]'
-- '[[_Standards/WikiData/WD~main_group,428830]]'
+  - '[[_Standards/WikiData/WD~group,83306]]'
+  - '[[_Standards/WikiData/WD~main_group,428830]]'
 MeSH_tree_code: D01.268.185
 OmegaWiki_Defined_Meaning: 1135
 P8189: 987007558907505171
 part_of:
-- '[[_Standards/WikiData/WD~p_block,214483]]'
-- '[[_Standards/WikiData/WD~periodic_table,10693]]'
+  - '[[_Standards/WikiData/WD~p_block,214483]]'
+  - '[[_Standards/WikiData/WD~periodic_table,10693]]'
 subclass_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 type: ElementGroup
 UMLS_CUI: C0206763

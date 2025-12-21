@@ -3,12 +3,13 @@ aliases:
   - has game-availability-type
   - gameAvailabilityType
   - has_game_availability_type
+  - has game availability type
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - availability
   - type
   - game_availability_type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_game_availability_type
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

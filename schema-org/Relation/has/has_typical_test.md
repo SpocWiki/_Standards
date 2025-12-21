@@ -3,23 +3,24 @@ aliases:
   - has typical-test
   - typicalTest
   - has_typical_test
+  - has typical test
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - typical_test
   - typical
   - test
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_typical_test
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -4,21 +4,22 @@ aliases:
   - course
   - course
   - has_location_course
+  - has location course
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - course
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_course
 publish: true
-publishDate:
+publishDate: ''
 superseded_by: exerciseCourse
 tags:
   - class/Property

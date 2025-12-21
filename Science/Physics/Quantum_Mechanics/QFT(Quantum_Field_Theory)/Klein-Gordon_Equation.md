@@ -1,9 +1,11 @@
 ---
 aliases:
-  - Klein–Gordon equation 
-  - Klein–Fock–Gordon equation 
+  - Klein–Gordon equation
+  - Klein–Fock–Gordon equation
   - Klein–Gordon–Fock equation
   - Schrödinger–Gordon equation
+  - Klein-Gordon_Equation
+  - Klein-Gordon Equation
 ---
 
 # [[Klein-Gordon_Equation]] 

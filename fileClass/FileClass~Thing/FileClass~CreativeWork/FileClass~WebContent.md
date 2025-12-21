@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~WebContent
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/WebContent
-- class/Thing/CreativeWork/WebContent
-- is_a_/WebContent
-- schema-org/WebContent
+  - class/WebContent
+  - class/Thing/CreativeWork/WebContent
+  - is_a_/WebContent
+  - schema-org/WebContent
 tags:
-- class/FileClass
-- class/WebContent
-- is_a_/WebContent
-- class/Thing/CreativeWork/WebContent
+  - class/FileClass
+  - class/WebContent
+  - is_a_/WebContent
+  - class/Thing/CreativeWork/WebContent
 version: 2.0
 ---
 

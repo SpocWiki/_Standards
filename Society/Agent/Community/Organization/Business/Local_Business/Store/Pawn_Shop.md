@@ -4,20 +4,22 @@ aliases:
   - pawn_shop
   - PawnShop
   - is_a_pawn_shop
+  - Pawn_Shop
+  - Pawn Shop
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - pawn_shop
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_pawn_shop Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

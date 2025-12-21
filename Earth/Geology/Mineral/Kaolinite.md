@@ -1,17 +1,18 @@
 ---
 aliases:
   - Kaolinit
+  - Kaolinite
 has_id_wikidata: Q223197
-crystal_system: "[[_Standards/WikiData/WD~triclinic_crystal_system,376927]]"
+crystal_system: '[[_Standards/WikiData/WD~triclinic_crystal_system,376927]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-instance_of: "[[_Standards/WikiData/WD~mineral_species,12089225]]"
-different_from: "[[_Standards/WikiData/WD~kaolin,12824373]]"
-subclass_of: "[[_Standards/WikiData/WD~kaolinite_mineral_subgroup,13218173]]"
-IMA_status_and_or_rank: "[[_Standards/WikiData/WD~approved_mineral_and_or_valid_name_(A),13406835]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~Q110514312,110514312]]"
-streak_color: "[[_Standards/WikiData/WD~white,23444]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+instance_of: '[[_Standards/WikiData/WD~mineral_species,12089225]]'
+different_from: '[[_Standards/WikiData/WD~kaolin,12824373]]'
+subclass_of: '[[_Standards/WikiData/WD~kaolinite_mineral_subgroup,13218173]]'
+IMA_status_and_or_rank: '[[_Standards/WikiData/WD~approved_mineral_and_or_valid_name_(A),13406835]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~Q110514312,110514312]]'
+streak_color: '[[_Standards/WikiData/WD~white,23444]]'
 Mohs_hardness: 1
 IMA_Number_broad_sense: IMA1980 s.p.
 chemical_formula: Al₂Si₂O₅(OH)₄

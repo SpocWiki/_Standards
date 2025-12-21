@@ -4,20 +4,22 @@ aliases:
   - compound_price_specification
   - CompoundPriceSpecification
   - is_a_compound_price_specification
+  - Compound_Price_Specification
+  - Compound Price Specification
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - compound_price_specification
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_compound_price_specification Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

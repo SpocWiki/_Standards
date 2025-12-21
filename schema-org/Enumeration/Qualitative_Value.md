@@ -4,20 +4,22 @@ aliases:
   - qualitative_value
   - QualitativeValue
   - is_a_qualitative_value
+  - Qualitative_Value
+  - Qualitative Value
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - qualitative_value
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_qualitative_value Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

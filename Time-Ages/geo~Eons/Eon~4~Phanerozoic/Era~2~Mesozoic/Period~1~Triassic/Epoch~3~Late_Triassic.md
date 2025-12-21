@@ -1,5 +1,7 @@
 ---
-aliases: []
+aliases:
+  - Epoch~3~Late_Triassic
+  - Epoch~3~Late Triassic
 ischart: UpperTriassic
 ---
 

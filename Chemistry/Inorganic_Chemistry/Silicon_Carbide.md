@@ -1,6 +1,8 @@
 ---
 aliases:
-- Carborundum
+  - Carborundum
+  - Silicon_Carbide
+  - Silicon Carbide
 ---
 
 # [[Silicon_Carbide]] 

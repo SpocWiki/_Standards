@@ -4,20 +4,22 @@ aliases:
   - apply_action
   - ApplyAction
   - is_an_apply_action
+  - Apply_Action
+  - Apply Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - apply_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_apply_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

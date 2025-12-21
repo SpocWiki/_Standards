@@ -1,25 +1,26 @@
 ---
 aliases:
-- has-sub-sets
-- sub-sets
-- hassub-sets
-- has_sub_sets
+  - has-sub-sets
+  - sub-sets
+  - hassub-sets
+  - has_sub_sets
+  - has sub sets
 confidential: public
-csssets: "Predicate Relation"
+csssets: Predicate Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- part
-layout: 
-license: "CC BY-SA 4.0"
+  - part
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_sub_sets
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_sub_sets
 type: Predi_Relation
 ---

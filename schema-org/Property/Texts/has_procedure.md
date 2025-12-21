@@ -4,21 +4,23 @@ aliases:
   - procedure
   - procedure
   - has_text_of_procedure
+  - has_procedure
+  - has procedure
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - procedure
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_procedure
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

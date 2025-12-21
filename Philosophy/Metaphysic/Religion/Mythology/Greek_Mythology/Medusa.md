@@ -5,39 +5,40 @@ aliases:
   - Gorgo
   - Γοργώ
   - Gorgon
+  - Medusa
 has_id_wikidata: Q160730
-part_of: "[[_Standards/WikiData/WD~Gorgons,102059]]"
-killed_by: "[[_Standards/WikiData/WD~Perseus,130832]]"
+part_of: '[[_Standards/WikiData/WD~Gorgons,102059]]'
+killed_by: '[[_Standards/WikiData/WD~Perseus,130832]]'
 child:
-  - "[[_Standards/WikiData/WD~Pegasus,162797]]"
-  - "[[_Standards/WikiData/WD~Chrysaor,320660]]"
+  - '[[_Standards/WikiData/WD~Pegasus,162797]]'
+  - '[[_Standards/WikiData/WD~Chrysaor,320660]]'
 father:
-  - "[[_Standards/WikiData/WD~Phorcys,200382]]"
-  - "[[_Standards/WikiData/WD~Gorgon,61856582]]"
+  - '[[_Standards/WikiData/WD~Phorcys,200382]]'
+  - '[[_Standards/WikiData/WD~Gorgon,61856582]]'
 cause_of_death:
-  - "[[_Standards/WikiData/WD~decapitation,204933]]"
-  - "[[_Standards/WikiData/WD~Q19211181,19211181]]"
-mother: "[[_Standards/WikiData/WD~Ceto,209489]]"
+  - '[[_Standards/WikiData/WD~decapitation,204933]]'
+  - '[[_Standards/WikiData/WD~Q19211181,19211181]]'
+mother: '[[_Standards/WikiData/WD~Ceto,209489]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Euryale,836140]]"
-  - "[[_Standards/WikiData/WD~Stheno,1052877]]"
-not_found_in: "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - '[[_Standards/WikiData/WD~Euryale,836140]]'
+  - '[[_Standards/WikiData/WD~Stheno,1052877]]'
+not_found_in: '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Q1175371,1175371]]"
-  - "[[_Standards/WikiData/WD~Medousa,3558668]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-instance_of: "[[_Standards/WikiData/WD~mythological_Greek_character,22988604]]"
+  - '[[_Standards/WikiData/WD~Q1175371,1175371]]'
+  - '[[_Standards/WikiData/WD~Medousa,3558668]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+instance_of: '[[_Standards/WikiData/WD~mythological_Greek_character,22988604]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Perseus_and_Medusa,120598525]]"
-  - "[[_Standards/WikiData/WD~Medusa_Head,131501712]]"
-  - "[[_Standards/WikiData/WD~Head_of_Medusa,131613693]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Poseidon,41127]]"
+  - '[[_Standards/WikiData/WD~Perseus_and_Medusa,120598525]]'
+  - '[[_Standards/WikiData/WD~Medusa_Head,131501712]]'
+  - '[[_Standards/WikiData/WD~Head_of_Medusa,131613693]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Poseidon,41127]]'
 Commons_gallery: Medusa
 Commons_category: Medusa
 BHCL_UUID: 68dde995-6664-4417-a59c-eb174ccd3466

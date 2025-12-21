@@ -1,14 +1,15 @@
 ---
 aliases:
-- Réunion
+  - Réunion
+  - Reunion
 confidential: public
 isDeleted: false
 location:
-- -20.8833
-- 55.45
+  - -20.8833
+  - 55.45
 SpocWebEntityId: 27005
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

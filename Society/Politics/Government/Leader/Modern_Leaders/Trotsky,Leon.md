@@ -4,112 +4,113 @@ aliases:
   - Lev Davidovich Bronstein
   - Leon Trotsky
   - Trotsky
+  - Trotsky,Leon
 has_id_wikidata: Q33391
 member_of_political_party:
-  - "[[_Standards/WikiData/WD~Communist_Party_of_the_Soviet_Union,79854]]"
-  - "[[_Standards/WikiData/WD~Russian_Social_Democratic_Labour_Party,204911]]"
-  - "[[_Standards/WikiData/WD~Social_Democratic_Party_of_Switzerland,303745]]"
-  - "[[_Standards/WikiData/WD~Russian_Social_Democratic_Labour_Party_(bolshevik),1774814]]"
+  - '[[_Standards/WikiData/WD~Communist_Party_of_the_Soviet_Union,79854]]'
+  - '[[_Standards/WikiData/WD~Russian_Social_Democratic_Labour_Party,204911]]'
+  - '[[_Standards/WikiData/WD~Social_Democratic_Party_of_Switzerland,303745]]'
+  - '[[_Standards/WikiData/WD~Russian_Social_Democratic_Labour_Party_(bolshevik),1774814]]'
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~diplomat,193391]]"
-  - "[[_Standards/WikiData/WD~historian,201788]]"
-  - "[[_Standards/WikiData/WD~journalist,1930187]]"
-  - "[[_Standards/WikiData/WD~revolutionary,3242115]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~communist,28528560]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~military_personnel,47064]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~general,83460]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~diplomat,193391]]'
+  - '[[_Standards/WikiData/WD~historian,201788]]'
+  - '[[_Standards/WikiData/WD~journalist,1930187]]'
+  - '[[_Standards/WikiData/WD~revolutionary,3242115]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~communist,28528560]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~military_personnel,47064]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~general,83460]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]"
-  - "[[_Standards/WikiData/WD~Russian_Socialist_Federative_Soviet_Republic,2305208]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
-manner_of_death: "[[_Standards/WikiData/WD~homicide,149086]]"
-political_ideology: "[[_Standards/WikiData/WD~Trotskyism,181133]]"
+  - '[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]'
+  - '[[_Standards/WikiData/WD~Russian_Socialist_Federative_Soviet_Republic,2305208]]'
+  - '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+  - '[[_Standards/WikiData/WD~Mexico,96]]'
+  - '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
+political_ideology: '[[_Standards/WikiData/WD~Trotskyism,181133]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Trotskyism,181133]]"
-  - "[[_Standards/WikiData/WD~The_Revolution_Betrayed,1785017]]"
-  - "[[_Standards/WikiData/WD~My_Life,3273600]]"
-  - "[[_Standards/WikiData/WD~The_Permanent_Revolution,7756737]]"
-movement: "[[_Standards/WikiData/WD~Trotskyism,181133]]"
-military_branch: "[[_Standards/WikiData/WD~Red_Army,251395]]"
+  - '[[_Standards/WikiData/WD~Trotskyism,181133]]'
+  - '[[_Standards/WikiData/WD~The_Revolution_Betrayed,1785017]]'
+  - '[[_Standards/WikiData/WD~My_Life,3273600]]'
+  - '[[_Standards/WikiData/WD~The_Permanent_Revolution,7756737]]'
+movement: '[[_Standards/WikiData/WD~Trotskyism,181133]]'
+military_branch: '[[_Standards/WikiData/WD~Red_Army,251395]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Natalia_Sedova,262376]]"
-  - "[[_Standards/WikiData/WD~Aleksandra_Sokolovskaya,270084]]"
+  - '[[_Standards/WikiData/WD~Natalia_Sedova,262376]]'
+  - '[[_Standards/WikiData/WD~Aleksandra_Sokolovskaya,270084]]'
 killed_by:
-  - "[[_Standards/WikiData/WD~Ramón_Mercader,298380]]"
-  - "[[_Standards/WikiData/WD~Joseph_Stalin,855]]"
-award_received: "[[_Standards/WikiData/WD~Order_of_the_Red_Banner,337463]]"
-sibling: "[[_Standards/WikiData/WD~Olga_Kameneva,452517]]"
+  - '[[_Standards/WikiData/WD~Ramón_Mercader,298380]]'
+  - '[[_Standards/WikiData/WD~Joseph_Stalin,855]]'
+award_received: '[[_Standards/WikiData/WD~Order_of_the_Red_Banner,337463]]'
+sibling: '[[_Standards/WikiData/WD~Olga_Kameneva,452517]]'
 child:
-  - "[[_Standards/WikiData/WD~Zinaida_Volkova,529934]]"
-  - "[[_Standards/WikiData/WD~Lev_Sedov,543149]]"
-  - "[[_Standards/WikiData/WD~Sergei_Sedov,1456019]]"
-  - "[[_Standards/WikiData/WD~Nina_Nevelson,120277197]]"
-place_of_death: "[[_Standards/WikiData/WD~Coyoacán,661315]]"
-place_of_birth: "[[_Standards/WikiData/WD~Bereslavka,753652]]"
+  - '[[_Standards/WikiData/WD~Zinaida_Volkova,529934]]'
+  - '[[_Standards/WikiData/WD~Lev_Sedov,543149]]'
+  - '[[_Standards/WikiData/WD~Sergei_Sedov,1456019]]'
+  - '[[_Standards/WikiData/WD~Nina_Nevelson,120277197]]'
+place_of_death: '[[_Standards/WikiData/WD~Coyoacán,661315]]'
+place_of_birth: '[[_Standards/WikiData/WD~Bereslavka,753652]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~UbuWeb,1145552]]"
-  - "[[_Standards/WikiData/WD~Trotsky,3540802]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
-  - "[[_Standards/WikiData/WD~Bio_bibliographic_Dictionary_of_20th_Century_Russian_Writers,42068474]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-cause_of_death: "[[_Standards/WikiData/WD~cerebral_hemorrhage,1368943]]"
+  - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
+  - '[[_Standards/WikiData/WD~Trotsky,3540802]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
+  - '[[_Standards/WikiData/WD~Bio_bibliographic_Dictionary_of_20th_Century_Russian_Writers,42068474]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+cause_of_death: '[[_Standards/WikiData/WD~cerebral_hemorrhage,1368943]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Left_Opposition,1569985]]"
-  - "[[_Standards/WikiData/WD~All_Union_Society_of_Old_Bolsheviks,124649913]]"
-archives_at: "[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]"
-facial_hair: "[[_Standards/WikiData/WD~Van_Dyke_beard,1776959]]"
+  - '[[_Standards/WikiData/WD~Left_Opposition,1569985]]'
+  - '[[_Standards/WikiData/WD~All_Union_Society_of_Old_Bolsheviks,124649913]]'
+archives_at: '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]'
+facial_hair: '[[_Standards/WikiData/WD~Van_Dyke_beard,1776959]]'
 position_held:
-  - "[[_Standards/WikiData/WD~Minister_of_Defence,2367317]]"
+  - '[[_Standards/WikiData/WD~Minister_of_Defence,2367317]]'
   - "[[_Standards/WikiData/WD~People's_Commissar,11741603]]"
-  - "[[_Standards/WikiData/WD~Member_of_the_Russian_Constituent_Assembly,27491113]]"
-  - "[[_Standards/WikiData/WD~Member_of_the_Politburo_of_the_CPSU_Central_Committee,108495011]]"
-significant_person: "[[_Standards/WikiData/WD~Robert_Service,2749421]]"
-relative: "[[_Standards/WikiData/WD~Semen_Semkovski,4415594]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]"
+  - '[[_Standards/WikiData/WD~Member_of_the_Russian_Constituent_Assembly,27491113]]'
+  - '[[_Standards/WikiData/WD~Member_of_the_Politburo_of_the_CPSU_Central_Committee,108495011]]'
+significant_person: '[[_Standards/WikiData/WD~Robert_Service,2749421]]'
+relative: '[[_Standards/WikiData/WD~Semen_Semkovski,4415594]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]'
 place_of_detention:
-  - "[[_Standards/WikiData/WD~Amherst_Internment_Camp,16002877]]"
-  - "[[_Standards/WikiData/WD~Peter_and_Paul_Fortress,38646]]"
+  - '[[_Standards/WikiData/WD~Amherst_Internment_Camp,16002877]]'
+  - '[[_Standards/WikiData/WD~Peter_and_Paul_Fortress,38646]]'
 family_name:
-  - "[[_Standards/WikiData/WD~Trotsky,16909373]]"
-  - "[[_Standards/WikiData/WD~Bronshteyn,110017914]]"
-list_of_works: "[[_Standards/WikiData/WD~Leon_Trotsky_bibliography,18166481]]"
+  - '[[_Standards/WikiData/WD~Trotsky,16909373]]'
+  - '[[_Standards/WikiData/WD~Bronshteyn,110017914]]'
+list_of_works: '[[_Standards/WikiData/WD~Leon_Trotsky_bibliography,18166481]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Leiba,22805394]]"
-  - "[[_Standards/WikiData/WD~Lev,42373577]]"
-mother: "[[_Standards/WikiData/WD~Anna_Bronstein,25677832]]"
-bibliography: "[[_Standards/WikiData/WD~Bibliography_of_works_about_Leon_Trotsky,30879077]]"
+  - '[[_Standards/WikiData/WD~Leiba,22805394]]'
+  - '[[_Standards/WikiData/WD~Lev,42373577]]'
+mother: '[[_Standards/WikiData/WD~Anna_Bronstein,25677832]]'
+bibliography: '[[_Standards/WikiData/WD~Bibliography_of_works_about_Leon_Trotsky,30879077]]'
 ethnic_group:
-  - "[[_Standards/WikiData/WD~Russian_Jews,32360797]]"
-  - "[[_Standards/WikiData/WD~Ukrainian_Jews,63075063]]"
-father: "[[_Standards/WikiData/WD~David_Bronstein,58419633]]"
-place_of_burial: "[[_Standards/WikiData/WD~Grave_of_Leon_Trotsky_and_Natalia_Sedova,102164178]]"
-educated_at: "[[_Standards/WikiData/WD~Q124758082,124758082]]"
+  - '[[_Standards/WikiData/WD~Russian_Jews,32360797]]'
+  - '[[_Standards/WikiData/WD~Ukrainian_Jews,63075063]]'
+father: '[[_Standards/WikiData/WD~David_Bronstein,58419633]]'
+place_of_burial: '[[_Standards/WikiData/WD~Grave_of_Leon_Trotsky_and_Natalia_Sedova,102164178]]'
+educated_at: '[[_Standards/WikiData/WD~Q124758082,124758082]]'
 date_of_birth: 1879-11-07T00:00:00Z
 work_location:
-  - "[[_Standards/WikiData/WD~Moscow,649]]"
-  - "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
+  - '[[_Standards/WikiData/WD~Moscow,649]]'
+  - '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
 writing_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~German,188]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~Ukrainian,8798]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-allegiance: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Russian,7737]]'
+  - '[[_Standards/WikiData/WD~Ukrainian,8798]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+  - '[[_Standards/WikiData/WD~German,188]]'
+allegiance: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 height: 176
 described_at_URL:
   - https://www.newinternationalism.net/?p=2952
@@ -121,7 +122,7 @@ described_at_URL:
   - https://www.marxists.org/chinese/lenin/review/since-lenin-died/01.htm
   - https://www.marxists.org/chinese/louguohua/luxun-study/13.htm
   - https://www.marxists.org/chinese/trotsky/1935diary/marxist.org-chinese-trotsky-1935diary-1.htm
-ISNI: "0000000122771584"
+ISNI: 0000000122771584
 Libris_URI: 42gjf85n4nn175f
 Wolfram_Language_entity_code: Entity["Person", "LeonTrotsky::642mk"]
 Krugosvet_article_archived_: istoriya/TROTSKI_LEV_DAVIDOVICH.html
@@ -137,7 +138,7 @@ birth_name: Лейба Давидович Бронштейн
 BHCL_UUID: 80029d40-aa5c-46dd-89ec-147ac8249715
 Commons_category: Leon Trotsky
 Commons_Creator_page: Leon Trotsky
-U_S_National_Archives_Identifier: "10580977"
+U_S_National_Archives_Identifier: 10580977
 date_of_death: 1940-08-21T00:00:00Z
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Trotsky%20Memorial%20in%20Garden%20-%20Leon%20Trotsky%20Museum%20-%20Coyoacan%20-%20Mexico%20City%20-%20Mexico%20%2815333660737%29.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D0%B5%D0%B2%20%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87%20%D0%A2%D1%80%D0%BE%D1%86%D0%BA%D0%B8%D0%B9.jpg

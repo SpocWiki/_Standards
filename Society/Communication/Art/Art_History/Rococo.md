@@ -2,30 +2,31 @@
 aliases:
   - Late Baroque
   - Roccoco
+  - Rococo
 has_id_wikidata: Q122960
 manner_of:
-  - "[[_Standards/WikiData/WD~motion,79782]]"
-  - "[[_Standards/WikiData/WD~color,1075]]"
+  - '[[_Standards/WikiData/WD~motion,79782]]'
+  - '[[_Standards/WikiData/WD~color,1075]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~interior_design,179232]]"
-  - "[[_Standards/WikiData/WD~decoration,2520975]]"
-  - "[[_Standards/WikiData/WD~costume,9053464]]"
-  - "[[_Standards/WikiData/WD~music,638]]"
-  - "[[_Standards/WikiData/WD~literature,8242]]"
-  - "[[_Standards/WikiData/WD~art_of_painting,11629]]"
-  - "[[_Standards/WikiData/WD~art_of_sculpture,11634]]"
-  - "[[_Standards/WikiData/WD~theatre_art,11635]]"
-  - "[[_Standards/WikiData/WD~architecture,12271]]"
+  - '[[_Standards/WikiData/WD~interior_design,179232]]'
+  - '[[_Standards/WikiData/WD~decoration,2520975]]'
+  - '[[_Standards/WikiData/WD~costume,9053464]]'
+  - '[[_Standards/WikiData/WD~music,638]]'
+  - '[[_Standards/WikiData/WD~literature,8242]]'
+  - '[[_Standards/WikiData/WD~art_of_painting,11629]]'
+  - '[[_Standards/WikiData/WD~art_of_sculpture,11634]]'
+  - '[[_Standards/WikiData/WD~theatre_art,11635]]'
+  - '[[_Standards/WikiData/WD~architecture,12271]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_style,1792644]]"
-  - "[[_Standards/WikiData/WD~architectural_style,32880]]"
-subclass_of: "[[_Standards/WikiData/WD~Baroque_art,3624106]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
+  - '[[_Standards/WikiData/WD~art_style,1792644]]'
+  - '[[_Standards/WikiData/WD~architectural_style,32880]]'
+subclass_of: '[[_Standards/WikiData/WD~Baroque_art,3624106]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
 start_time: 1730-01-01T00:00:00Z
 subject_named_as: Rokoko
 image: http://commons.wikimedia.org/wiki/Special:FilePath/JAMeissonnierTable.jpg

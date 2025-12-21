@@ -4,21 +4,22 @@ aliases:
   - numbered-position
   - numberedPosition
   - has_number_of_numbered_position
+  - has number of numbered position
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - numbered-position
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_numbered-position
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

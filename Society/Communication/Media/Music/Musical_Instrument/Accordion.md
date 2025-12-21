@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Accordion
+has_id_wikidata: Q79838
 Amazon_com_browse_node: 11969991
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/AccordionBellowsSounds.ogg
 Commons_category: Accordions
@@ -17,7 +20,6 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 exact_match: http://wordnet-rdf.princeton.edu/wn30/02672831-n
 Google_Doodle: celebrating-the-accordion
-has_id_wikidata: Q79838
 Hornbostel_Sachs_classification:
   - 412.132
   - 412.132-62-8
@@ -43,7 +45,7 @@ used_by: "[[_Standards/WikiData/WD~accordionist,1863064]]"
 U_S_National_Archives_Identifier: 10646133
 ---
 
-# [[Accordion]] 
+# [[Accordion]] 🪗 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Accordion,79838]] 
 

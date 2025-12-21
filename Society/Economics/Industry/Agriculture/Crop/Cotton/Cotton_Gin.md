@@ -2,6 +2,8 @@
 aliases:
   - cotton gin
   - cotton engine
+  - Cotton_Gin
+  - Cotton Gin
 has_id_wikidata: Q1136790
 ---
 

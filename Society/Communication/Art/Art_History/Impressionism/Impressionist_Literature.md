@@ -1,6 +1,8 @@
 ---
 aliases:
   - Literary Impressionism
+  - Impressionist_Literature
+  - Impressionist Literature
 ---
 
 # [[Impressionist_Literature]] 

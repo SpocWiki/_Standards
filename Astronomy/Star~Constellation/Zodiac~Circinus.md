@@ -1,31 +1,32 @@
 ---
+aliases:
+  - Zirkel
+  - Zodiac~Circinus
+has_id_wikidata: Q10508
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-aliases:
-  - Zirkel
-has_id_wikidata: Q10508
-named_after: "[[_Standards/WikiData/WD~compass,103896]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703]]"
+named_after: '[[_Standards/WikiData/WD~compass,103896]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q10729056,10729056]]"
-  - "[[_Standards/WikiData/WD~Template_Stars_of_Circinus,14336013]]"
+  - '[[_Standards/WikiData/WD~Q10729056,10729056]]'
+  - '[[_Standards/WikiData/WD~Template_Stars_of_Circinus,14336013]]'
 time_of_discovery_or_invention: 1756-01-01T00:00:00Z
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Centaurus,8844]]"
-  - "[[_Standards/WikiData/WD~Triangulum_Australe,10422]]"
-  - "[[_Standards/WikiData/WD~Musca,10435]]"
-  - "[[_Standards/WikiData/WD~Apus,10506]]"
-  - "[[_Standards/WikiData/WD~Lupus,10571]]"
-  - "[[_Standards/WikiData/WD~Norma,10582]]"
-instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+  - '[[_Standards/WikiData/WD~Centaurus,8844]]'
+  - '[[_Standards/WikiData/WD~Triangulum_Australe,10422]]'
+  - '[[_Standards/WikiData/WD~Musca,10435]]'
+  - '[[_Standards/WikiData/WD~Apus,10506]]'
+  - '[[_Standards/WikiData/WD~Lupus,10571]]'
+  - '[[_Standards/WikiData/WD~Norma,10582]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
 area: 93
 official_name: Circinus
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Circinus%20constellation%20map.svg

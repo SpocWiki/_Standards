@@ -1,34 +1,35 @@
 ---
 aliases:
-- date-deleted
-- date_deleted
-- dateDeleted
-- has_time_destroyed
-- has_time_deleted
-- has_time_ended
-- "has time cancelled"
-- endDate
-- endTime
-- cancelled
-- stopTime
-- has_time_stopped
+  - date-deleted
+  - date_deleted
+  - dateDeleted
+  - has_time_destroyed
+  - has_time_deleted
+  - has_time_ended
+  - has time cancelled
+  - endDate
+  - endTime
+  - cancelled
+  - stopTime
+  - has_time_stopped
+  - has time stopped
 confidential: public
 cssclasses:
-- Predicate
-- Date_Time
+  - Predicate
+  - Date_Time
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+keywords: ''
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: ''
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Date
+  - class/Property
+  - schema-org/Property/Date
 title: has_time_deleted
 type: Predi_Date_Time
 ---

@@ -4,23 +4,25 @@ aliases:
   - application_sub_category
   - applicationSubCategory
   - has_text_of_application_sub_category
+  - has_application_sub_category
+  - has application sub category
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - application
   - sub
   - category
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_application_sub_category
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

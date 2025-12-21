@@ -4,23 +4,25 @@ aliases:
   - typical_age_range
   - typicalAgeRange
   - has_text_of_typical_age_range
+  - has_typical_age_range
+  - has typical age range
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - typical
   - age
   - range
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_typical_age_range
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

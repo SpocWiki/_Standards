@@ -1,20 +1,23 @@
 ---
+aliases:
+  - Rindfleisch
+  - Beef
 has_id_wikidata: Q192628
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Beef,6713907]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+  - '[[_Standards/WikiData/WD~Template_Beef,6713907]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Manzo,18493000]]"
+  - '[[_Standards/WikiData/WD~Manzo,18493000]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~bovid_meat,124815153]]"
-natural_product_of_taxon: "[[_Standards/WikiData/WD~cattle,830]]"
+  - '[[_Standards/WikiData/WD~bovid_meat,124815153]]'
+natural_product_of_taxon: '[[_Standards/WikiData/WD~cattle,830]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~meat,10990]]"
+  - '[[_Standards/WikiData/WD~meat,10990]]'
 price:
   - 600
   - 125000
@@ -23,20 +26,20 @@ water_footprint:
   - 15415
   - 16726
 USDA_NDB_number:
-  - "13350"
-  - "23455"
+  - 13350
+  - 23455
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Standing-rib-roast.jpg
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Fr-viande%20bovine.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Uk-%D1%8F%D0%BB%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%D0%BD%D0%B0.ogg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00003067
 MCN_code: 0206.10.00
-U_S_National_Archives_Identifier: "10637155"
+U_S_National_Archives_Identifier: 10637155
 Amazon_com_browse_node:
-  - "11194500011"
-  - "371470011"
+  - 11194500011
+  - 371470011
 UNII: 4PIB2155QP
-P8189: "987007282428905171"
+P8189: 987007282428905171
 Commons_gallery: Beef
 Commons_category: Beef
 Wolfram_Language_entity_code: Entity["FoodType", "Beef"]
@@ -45,8 +48,6 @@ hashtag:
   - xatu
 booru_tag: xatu
 Danbooru_tag: xatu
-aliases:
-  - Rindfleisch
 ---
 
 # [[Beef]] 

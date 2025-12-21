@@ -4,22 +4,24 @@ aliases:
   - print_column
   - printColumn
   - has_text_of_print_column
+  - has_print_column
+  - has print column
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - print
   - column
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_print_column
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

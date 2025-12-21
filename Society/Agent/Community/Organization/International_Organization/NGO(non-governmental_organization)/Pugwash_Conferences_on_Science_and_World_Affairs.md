@@ -1,19 +1,20 @@
 ---
 aliases:
   - Pugwash Conferences on Science and World Affairs
+  - Pugwash_Conferences_on_Science_and_World_Affairs
 has_id_wikidata: Q381282
-different_from: "[[_Standards/WikiData/WD~Pugwash,7258978]]"
-member_of: "[[_Standards/WikiData/WD~Campaign_to_Stop_Killer_Robots,20991391]]"
-archives_at: "[[_Standards/WikiData/WD~Niels_Bohr_Library_&_Archives,43290734]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Pugwash_Movement_Collection,93272429]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
+different_from: '[[_Standards/WikiData/WD~Pugwash,7258978]]'
+member_of: '[[_Standards/WikiData/WD~Campaign_to_Stop_Killer_Robots,20991391]]'
+archives_at: '[[_Standards/WikiData/WD~Niels_Bohr_Library_&_Archives,43290734]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Pugwash_Movement_Collection,93272429]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 coordinate_location: Point(12.4668318 41.8932669)
-location: "[[_Standards/WikiData/WD~Rome,220]]"
-instance_of: "[[_Standards/WikiData/WD~organization,43229]]"
+location: '[[_Standards/WikiData/WD~Rome,220]]'
+instance_of: '[[_Standards/WikiData/WD~organization,43229]]'
 inception: 1957-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pugwash%20NAL%20tour%201970-com.jpg
 official_website: https://pugwash.org/
-ISNI: "0000000091998187"
+ISNI: 0000000091998187
 Krugosvet_article_archived_: gumanitarnye_nauki/sociologiya/PAGUOSHSKOE_DVIZHENIE.html
 Commons_category: Pugwash Conferences on Science and World Affairs
 ---

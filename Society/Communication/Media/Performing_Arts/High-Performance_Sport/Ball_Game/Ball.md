@@ -1,35 +1,37 @@
 ---
+aliases:
+  - Ball
 has_id_wikidata: Q18545
 has_use:
-  - "[[_Standards/WikiData/WD~juggling,194326]]"
-  - "[[_Standards/WikiData/WD~ball_game,877517]]"
+  - '[[_Standards/WikiData/WD~juggling,194326]]'
+  - '[[_Standards/WikiData/WD~ball_game,877517]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~sports_equipment,768186]]"
-  - "[[_Standards/WikiData/WD~artificial_physical_object,8205328]]"
-  - "[[_Standards/WikiData/WD~spherical_body,112511193]]"
-  - "[[_Standards/WikiData/WD~toy,11422]]"
+  - '[[_Standards/WikiData/WD~sports_equipment,768186]]'
+  - '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
+  - '[[_Standards/WikiData/WD~spherical_body,112511193]]'
+  - '[[_Standards/WikiData/WD~toy,11422]]'
 shape:
-  - "[[_Standards/WikiData/WD~ball,838611]]"
-  - "[[_Standards/WikiData/WD~sphere,12507]]"
+  - '[[_Standards/WikiData/WD~ball,838611]]'
+  - '[[_Standards/WikiData/WD~sphere,12507]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 used_by:
-  - "[[_Standards/WikiData/WD~ball_game,877517]]"
-  - "[[_Standards/WikiData/WD~athlete,2066131]]"
-  - "[[_Standards/WikiData/WD~child,7569]]"
-different_from: "[[_Standards/WikiData/WD~Piłka,7200126]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Q10636743,10636743]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_physical_object_by_shape,122853628]]"
-has_characteristic: "[[_Standards/WikiData/WD~elasticity,62932]]"
-OmegaWiki_Defined_Meaning: "7785"
+  - '[[_Standards/WikiData/WD~ball_game,877517]]'
+  - '[[_Standards/WikiData/WD~athlete,2066131]]'
+  - '[[_Standards/WikiData/WD~child,7569]]'
+different_from: '[[_Standards/WikiData/WD~Piłka,7200126]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q10636743,10636743]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_physical_object_by_shape,122853628]]'
+has_characteristic: '[[_Standards/WikiData/WD~elasticity,62932]]'
+OmegaWiki_Defined_Meaning: 7785
 Commons_category: Balls
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ball%2C%20%E0%B4%AA%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B5%8D.JPG
 Commons_gallery: Ball
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-balle.wav
-P8189: "987007282431705171"
+P8189: 987007282431705171
 exact_match:
   - https://turkic.elegantlexicon.com/turkforms.php?form=ballball
   - https://ids.clld.org/parameters/12-830

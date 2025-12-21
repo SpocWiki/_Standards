@@ -4,21 +4,22 @@ aliases:
   - num_constraints
   - numConstraints
   - has_number_of_constraints
+  - has number of constraints
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - num_constraints
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_num_constraints
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

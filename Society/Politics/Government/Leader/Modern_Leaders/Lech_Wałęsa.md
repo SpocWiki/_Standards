@@ -1,97 +1,98 @@
 ---
 aliases:
   - Lech_Wałęsa
+  - Lech Wałęsa
 has_id_wikidata: Q444
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~electrician,165029]]"
-  - "[[_Standards/WikiData/WD~dissident,181043]]"
-  - "[[_Standards/WikiData/WD~political_activist,11499147]]"
-  - "[[_Standards/WikiData/WD~activist,15253558]]"
-  - "[[_Standards/WikiData/WD~trade_unionist,15627169]]"
-  - "[[_Standards/WikiData/WD~anti_communist,120115224]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~electrician,165029]]'
+  - '[[_Standards/WikiData/WD~dissident,181043]]'
+  - '[[_Standards/WikiData/WD~political_activist,11499147]]'
+  - '[[_Standards/WikiData/WD~activist,15253558]]'
+  - '[[_Standards/WikiData/WD~trade_unionist,15627169]]'
+  - '[[_Standards/WikiData/WD~anti_communist,120115224]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_the_White_Eagle,84020]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Merit_of_Hungary,458894]]"
-  - "[[_Standards/WikiData/WD~Grand_Order_of_Mugunghwa,624463]]"
-  - "[[_Standards/WikiData/WD~Monismanien_Prize,686661]]"
-  - "[[_Standards/WikiData/WD~European_Human_Rights_Prize,936956]]"
-  - "[[_Standards/WikiData/WD~Pacem_in_Terris_Award,973645]]"
-  - "[[_Standards/WikiData/WD~Royal_Order_of_the_Seraphim,1331130]]"
-  - "[[_Standards/WikiData/WD~Ernst_Reuter_Medal,1357178]]"
-  - "[[_Standards/WikiData/WD~Order_of_Pius_IX,1423841]]"
-  - "[[_Standards/WikiData/WD~Freedom_Award,1453512]]"
-  - "[[_Standards/WikiData/WD~Fritt_Ord_Award,1465304]]"
-  - "[[_Standards/WikiData/WD~Ronald_Reagan_Freedom_Award,1801104]]"
-  - "[[_Standards/WikiData/WD~Point_Alpha_Prize,2100712]]"
-  - "[[_Standards/WikiData/WD~Order_of_Francisco_de_Miranda,2465245]]"
-  - "[[_Standards/WikiData/WD~Financial_Times_Person_of_the_Year,5449677]]"
-  - "[[_Standards/WikiData/WD~Order_of_State_of_Republic_of_Turkey,6077245]]"
-  - "[[_Standards/WikiData/WD~Kisiel_Prize,6416690]]"
-  - "[[_Standards/WikiData/WD~Philadelphia_Liberty_Medal,7182737]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Legion_of_Honour,10855226]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_Special_Class_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10904959]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_1st_class_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905105]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Vytautas_the_Great,10993583]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_the_Bath,12177451]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Polonia_Restituta,15715257]]"
-  - "[[_Standards/WikiData/WD~Democracy_Service_Medal,16933520]]"
-  - "[[_Standards/WikiData/WD~Integrity_Award,20745350]]"
-  - "[[_Standards/WikiData/WD~Jan_Karski_Freedom_Award,20745666]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Merit_of_the_Republic_of_Poland,20853482]]"
-  - "[[_Standards/WikiData/WD~Grand_Collar_of_the_Order_of_Prince_Henry,20859482]]"
-  - "[[_Standards/WikiData/WD~Grand_cross_of_the_Order_of_the_White_Lion,20966518]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Cross_of_Terra_Mariana,_1st_Class,23058979]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_with_Collar_of_the_Order_of_the_White_Rose_of_Finland,23769799]]"
-  - "[[_Standards/WikiData/WD~Golden_Plate_Award,28663097]]"
-  - "[[_Standards/WikiData/WD~Order_of_Prince_Yaroslav_the_Wise,_2nd_class,41796613]]"
-  - "[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Gdańsk,41864812]]"
-  - "[[_Standards/WikiData/WD~honorary_citizen_of_Budapest,56479277]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Elephant,56861795]]"
-  - "[[_Standards/WikiData/WD~honorary_citizen_of_Gdańsk,58402380]]"
-  - "[[_Standards/WikiData/WD~Grand_Collar_of_the_Order_of_Liberty,67155304]]"
-  - "[[_Standards/WikiData/WD~Medal_of_the_Oriental_Republic_of_Uruguay,96279182]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_Paris_8_University,105672762]]"
-  - "[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Nancy,126416243]]"
-  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
+  - '[[_Standards/WikiData/WD~Order_of_the_White_Eagle,84020]]'
+  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Merit_of_Hungary,458894]]'
+  - '[[_Standards/WikiData/WD~Grand_Order_of_Mugunghwa,624463]]'
+  - '[[_Standards/WikiData/WD~Monismanien_Prize,686661]]'
+  - '[[_Standards/WikiData/WD~European_Human_Rights_Prize,936956]]'
+  - '[[_Standards/WikiData/WD~Pacem_in_Terris_Award,973645]]'
+  - '[[_Standards/WikiData/WD~Royal_Order_of_the_Seraphim,1331130]]'
+  - '[[_Standards/WikiData/WD~Ernst_Reuter_Medal,1357178]]'
+  - '[[_Standards/WikiData/WD~Order_of_Pius_IX,1423841]]'
+  - '[[_Standards/WikiData/WD~Freedom_Award,1453512]]'
+  - '[[_Standards/WikiData/WD~Fritt_Ord_Award,1465304]]'
+  - '[[_Standards/WikiData/WD~Ronald_Reagan_Freedom_Award,1801104]]'
+  - '[[_Standards/WikiData/WD~Point_Alpha_Prize,2100712]]'
+  - '[[_Standards/WikiData/WD~Order_of_Francisco_de_Miranda,2465245]]'
+  - '[[_Standards/WikiData/WD~Financial_Times_Person_of_the_Year,5449677]]'
+  - '[[_Standards/WikiData/WD~Order_of_State_of_Republic_of_Turkey,6077245]]'
+  - '[[_Standards/WikiData/WD~Kisiel_Prize,6416690]]'
+  - '[[_Standards/WikiData/WD~Philadelphia_Liberty_Medal,7182737]]'
+  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Legion_of_Honour,10855226]]'
+  - '[[_Standards/WikiData/WD~Grand_Cross_Special_Class_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10904959]]'
+  - '[[_Standards/WikiData/WD~Grand_Cross_1st_class_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905105]]'
+  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Vytautas_the_Great,10993583]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_the_Bath,12177451]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
+  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Polonia_Restituta,15715257]]'
+  - '[[_Standards/WikiData/WD~Democracy_Service_Medal,16933520]]'
+  - '[[_Standards/WikiData/WD~Integrity_Award,20745350]]'
+  - '[[_Standards/WikiData/WD~Jan_Karski_Freedom_Award,20745666]]'
+  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Merit_of_the_Republic_of_Poland,20853482]]'
+  - '[[_Standards/WikiData/WD~Grand_Collar_of_the_Order_of_Prince_Henry,20859482]]'
+  - '[[_Standards/WikiData/WD~Grand_cross_of_the_Order_of_the_White_Lion,20966518]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Cross_of_Terra_Mariana,_1st_Class,23058979]]'
+  - '[[_Standards/WikiData/WD~Grand_Cross_with_Collar_of_the_Order_of_the_White_Rose_of_Finland,23769799]]'
+  - '[[_Standards/WikiData/WD~Golden_Plate_Award,28663097]]'
+  - '[[_Standards/WikiData/WD~Order_of_Prince_Yaroslav_the_Wise,_2nd_class,41796613]]'
+  - '[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Gdańsk,41864812]]'
+  - '[[_Standards/WikiData/WD~honorary_citizen_of_Budapest,56479277]]'
+  - '[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Elephant,56861795]]'
+  - '[[_Standards/WikiData/WD~honorary_citizen_of_Gdańsk,58402380]]'
+  - '[[_Standards/WikiData/WD~Grand_Collar_of_the_Order_of_Liberty,67155304]]'
+  - '[[_Standards/WikiData/WD~Medal_of_the_Oriental_Republic_of_Uruguay,96279182]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_Paris_8_University,105672762]]'
+  - '[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Nancy,126416243]]'
+  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 political_ideology:
-  - "[[_Standards/WikiData/WD~anti_communism,182121]]"
-  - "[[_Standards/WikiData/WD~democracy,7174]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Solidarity_Electoral_Action,416916]]"
-spouse: "[[_Standards/WikiData/WD~Danuta_Wałęsa,468844]]"
-position_held: "[[_Standards/WikiData/WD~President_of_the_Republic_of_Poland,1054799]]"
+  - '[[_Standards/WikiData/WD~anti_communism,182121]]'
+  - '[[_Standards/WikiData/WD~democracy,7174]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Solidarity_Electoral_Action,416916]]'
+spouse: '[[_Standards/WikiData/WD~Danuta_Wałęsa,468844]]'
+position_held: '[[_Standards/WikiData/WD~President_of_the_Republic_of_Poland,1054799]]'
 child:
-  - "[[_Standards/WikiData/WD~Jarosław_Wałęsa,1392390]]"
-  - "[[_Standards/WikiData/WD~Sławomir_Wałęsa,134291869]]"
-given_name: "[[_Standards/WikiData/WD~Lech,2755455]]"
-place_of_birth: "[[_Standards/WikiData/WD~Popowo,4700601]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-has_list: "[[_Standards/WikiData/WD~list_of_awards_and_honors_received_by_Lech_Wałęsa,6606474]]"
-facial_hair: "[[_Standards/WikiData/WD~walrus_moustache,7963760]]"
+  - '[[_Standards/WikiData/WD~Jarosław_Wałęsa,1392390]]'
+  - '[[_Standards/WikiData/WD~Sławomir_Wałęsa,134291869]]'
+given_name: '[[_Standards/WikiData/WD~Lech,2755455]]'
+place_of_birth: '[[_Standards/WikiData/WD~Popowo,4700601]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+has_list: '[[_Standards/WikiData/WD~list_of_awards_and_honors_received_by_Lech_Wałęsa,6606474]]'
+facial_hair: '[[_Standards/WikiData/WD~walrus_moustache,7963760]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Związek_Młodzieży_Socjalistycznej,9392360]]"
-  - "[[_Standards/WikiData/WD~Q11756664,11756664]]"
-  - "[[_Standards/WikiData/WD~Solidarity,1003]]"
-family_name: "[[_Standards/WikiData/WD~Wałęsa,18374998]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Polish,809]]"
-native_language: "[[_Standards/WikiData/WD~Polish,809]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Poland,36]]"
+  - '[[_Standards/WikiData/WD~Związek_Młodzieży_Socjalistycznej,9392360]]'
+  - '[[_Standards/WikiData/WD~Q11756664,11756664]]'
+  - '[[_Standards/WikiData/WD~Solidarity,1003]]'
+family_name: '[[_Standards/WikiData/WD~Wałęsa,18374998]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Polish,809]]'
+native_language: '[[_Standards/WikiData/WD~Polish,809]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Poland,36]]'
 name_in_native_language: Lech Wałęsa
 Commons_gallery: Lech Wałęsa
 Commons_category: Lech Wałęsa
 BHCL_UUID: f9b3058a-10e6-4557-a8a1-63efa7564989
 Libris_URI: vs6854qd073dmk5
-U_S_National_Archives_Identifier: "10568037"
+U_S_National_Archives_Identifier: 10568037
 date_of_birth: 1943-09-29T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lech%20Walesa%20-%202009.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Lech%20Walesa%20Signature.svg
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/POL%20COA%20Wa%C5%82%C4%99sa.png
-ISNI: "0000000121475062"
-RIA_Novosti_reference: "41210692"
+ISNI: 0000000121475062
+RIA_Novosti_reference: 41210692
 Wolfram_Language_entity_code: Entity["Concept", "LechWalesa::rfhn3"]
 Krugosvet_article_archived_: istoriya/VALENSA_LEH.html
 Facebook_username: lechwalesa

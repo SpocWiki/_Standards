@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Sean Bean"
-- "Shaun Mark Bean"
+  - Sean Bean
+  - Shaun Mark Bean
+  - Bean,Sean
 ---
 
 # [[Bean,Sean]] 

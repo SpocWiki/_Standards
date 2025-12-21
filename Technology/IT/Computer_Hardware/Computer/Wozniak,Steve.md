@@ -8,67 +8,67 @@ aliases:
   - Woz
 has_id_wikidata: Q483382
 employer:
-  - "[[_Standards/WikiData/WD~Q80978,80978]]"
-  - "[[_Standards/WikiData/WD~University_of_Technology_Sydney,1145731]]"
-  - "[[_Standards/WikiData/WD~Atari,_Inc.,13409231]]"
-  - "[[_Standards/WikiData/WD~Apple_Inc.,312]]"
+  - '[[_Standards/WikiData/WD~Q80978,80978]]'
+  - '[[_Standards/WikiData/WD~University_of_Technology_Sydney,1145731]]'
+  - '[[_Standards/WikiData/WD~Atari,_Inc.,13409231]]'
+  - '[[_Standards/WikiData/WD~Apple_Inc.,312]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~software_engineering,80993]]"
-  - "[[_Standards/WikiData/WD~computing,179310]]"
-  - "[[_Standards/WikiData/WD~teaching,352842]]"
-  - "[[_Standards/WikiData/WD~electrical_engineering,43035]]"
+  - '[[_Standards/WikiData/WD~software_engineering,80993]]'
+  - '[[_Standards/WikiData/WD~computing,179310]]'
+  - '[[_Standards/WikiData/WD~teaching,352842]]'
+  - '[[_Standards/WikiData/WD~electrical_engineering,43035]]'
 occupation:
-  - "[[_Standards/WikiData/WD~computer_scientist,82594]]"
-  - "[[_Standards/WikiData/WD~inventor,205375]]"
-  - "[[_Standards/WikiData/WD~programmer,5482740]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~teacher,37226]]"
-  - "[[_Standards/WikiData/WD~businessperson,43845]]"
+  - '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+  - '[[_Standards/WikiData/WD~inventor,205375]]'
+  - '[[_Standards/WikiData/WD~programmer,5482740]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+  - '[[_Standards/WikiData/WD~teacher,37226]]'
+  - '[[_Standards/WikiData/WD~businessperson,43845]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
-  - "[[_Standards/WikiData/WD~University_of_Colorado_Boulder,736674]]"
-  - "[[_Standards/WikiData/WD~De_Anza_College,928272]]"
-  - "[[_Standards/WikiData/WD~University_of_Colorado,1206658]]"
-  - "[[_Standards/WikiData/WD~Homestead_High_School,5890521]]"
+  - '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
+  - '[[_Standards/WikiData/WD~University_of_Colorado_Boulder,736674]]'
+  - '[[_Standards/WikiData/WD~De_Anza_College,928272]]'
+  - '[[_Standards/WikiData/WD~University_of_Colorado,1206658]]'
+  - '[[_Standards/WikiData/WD~Homestead_High_School,5890521]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Breakout,177491]]"
-  - "[[_Standards/WikiData/WD~Macintosh_128K,1137478]]"
-  - "[[_Standards/WikiData/WD~Apple_II,3017175]]"
-  - "[[_Standards/WikiData/WD~US_Festival,3553520]]"
-  - "[[_Standards/WikiData/WD~Apple_Inc.,312]]"
-  - "[[_Standards/WikiData/WD~Apple_I,18981]]"
+  - '[[_Standards/WikiData/WD~Breakout,177491]]'
+  - '[[_Standards/WikiData/WD~Macintosh_128K,1137478]]'
+  - '[[_Standards/WikiData/WD~Apple_II,3017175]]'
+  - '[[_Standards/WikiData/WD~US_Festival,3553520]]'
+  - '[[_Standards/WikiData/WD~Apple_Inc.,312]]'
+  - '[[_Standards/WikiData/WD~Apple_I,18981]]'
 award_received:
-  - "[[_Standards/WikiData/WD~IEEE_Masaru_Ibuka_Consumer_Electronics_Award,933972]]"
-  - "[[_Standards/WikiData/WD~National_Medal_of_Technology_and_Innovation,937629]]"
-  - "[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]"
-  - "[[_Standards/WikiData/WD~Heinz_Award,5700571]]"
-  - "[[_Standards/WikiData/WD~Hoover_Medal,17132005]]"
-  - "[[_Standards/WikiData/WD~Computer_History_Museum_fellow,29545180]]"
+  - '[[_Standards/WikiData/WD~IEEE_Masaru_Ibuka_Consumer_Electronics_Award,933972]]'
+  - '[[_Standards/WikiData/WD~National_Medal_of_Technology_and_Innovation,937629]]'
+  - '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
+  - '[[_Standards/WikiData/WD~Heinz_Award,5700571]]'
+  - '[[_Standards/WikiData/WD~Hoover_Medal,17132005]]'
+  - '[[_Standards/WikiData/WD~Computer_History_Museum_fellow,29545180]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Hackers_Heroes_of_the_Computer_Revolution,1432544]]"
-  - "[[_Standards/WikiData/WD~iWoz,5975708]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-member_of: "[[_Standards/WikiData/WD~National_Academy_of_Engineering,1493021]]"
+  - '[[_Standards/WikiData/WD~Hackers_Heroes_of_the_Computer_Revolution,1432544]]'
+  - '[[_Standards/WikiData/WD~iWoz,5975708]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+member_of: '[[_Standards/WikiData/WD~National_Academy_of_Engineering,1493021]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Gary,1820274]]"
-  - "[[_Standards/WikiData/WD~Stephen,4927100]]"
-different_from: "[[_Standards/WikiData/WD~Steven_Woznick,2347411]]"
+  - '[[_Standards/WikiData/WD~Gary,1820274]]'
+  - '[[_Standards/WikiData/WD~Stephen,4927100]]'
+different_from: '[[_Standards/WikiData/WD~Steven_Woznick,2347411]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~CL_9,5012809]]"
-  - "[[_Standards/WikiData/WD~Woz_U,42417740]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-present_in_work: "[[_Standards/WikiData/WD~iSteve,12125162]]"
-spouse: "[[_Standards/WikiData/WD~Janet_Hill,22442739]]"
-family_name: "[[_Standards/WikiData/WD~Wozniak,28934506]]"
-academic_degree: "[[_Standards/WikiData/WD~Bachelor_of_Science_in_Engineering,63107776]]"
-participant_in: "[[_Standards/WikiData/WD~World_Government_Summit_2015,116790970]]"
+  - '[[_Standards/WikiData/WD~CL_9,5012809]]'
+  - '[[_Standards/WikiData/WD~Woz_U,42417740]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+present_in_work: '[[_Standards/WikiData/WD~iSteve,12125162]]'
+spouse: '[[_Standards/WikiData/WD~Janet_Hill,22442739]]'
+family_name: '[[_Standards/WikiData/WD~Wozniak,28934506]]'
+academic_degree: '[[_Standards/WikiData/WD~Bachelor_of_Science_in_Engineering,63107776]]'
+participant_in: '[[_Standards/WikiData/WD~World_Government_Summit_2015,116790970]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_birth: "[[_Standards/WikiData/WD~San_Jose,16553]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Serbia,403]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Poland,36]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+place_of_birth: '[[_Standards/WikiData/WD~San_Jose,16553]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_category: Steve Wozniak
 Commons_gallery: Steve Wozniak
 name_in_native_language: Steve Wozniak

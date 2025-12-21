@@ -4,21 +4,23 @@ aliases:
   - strength-value
   - strengthValue
   - has_value_for_strength
+  - has_value_for_strength_value
+  - has value for strength value
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - strength-value
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_strength-value
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

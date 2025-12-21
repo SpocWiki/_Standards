@@ -1,33 +1,34 @@
 ---
 aliases:
   - Selbstbestimmung
+  - Self-Determination
 has_id_wikidata: Q156595
-subclass_of: "[[_Standards/WikiData/WD~rights,780687]]"
-instance_of: "[[_Standards/WikiData/WD~general_principles_of_French_law,2608811]]"
+subclass_of: '[[_Standards/WikiData/WD~rights,780687]]'
+instance_of: '[[_Standards/WikiData/WD~general_principles_of_French_law,2608811]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~United_Nations_General_Assembly_Resolution_1514,2629473]]"
-  - "[[_Standards/WikiData/WD~Karabakh_War_1988_1994,16392167]]"
-  - "[[_Standards/WikiData/WD~Parry_and_Grant_Encyclopaedic_Dictionary_of_International_Law_(2009),105755921]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-facet_of: "[[_Standards/WikiData/WD~bourgeois_nationalism,3487646]]"
-part_of: "[[_Standards/WikiData/WD~international_law,4394526]]"
+  - '[[_Standards/WikiData/WD~United_Nations_General_Assembly_Resolution_1514,2629473]]'
+  - '[[_Standards/WikiData/WD~Karabakh_War_1988_1994,16392167]]'
+  - '[[_Standards/WikiData/WD~Parry_and_Grant_Encyclopaedic_Dictionary_of_International_Law_(2009),105755921]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+facet_of: '[[_Standards/WikiData/WD~bourgeois_nationalism,3487646]]'
+part_of: '[[_Standards/WikiData/WD~international_law,4394526]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]"
-  - "[[_Standards/WikiData/WD~WikiProject_History,8486462]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Countries,8503406]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-  - "[[_Standards/WikiData/WD~WikiProject_International_relations,15304945]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Ethnic_groups,15305025]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Socialism,15885083]]"
-  - "[[_Standards/WikiData/WD~WikiProject_United_Nations,15885138]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Libertarianism,17590525]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Ethics,18811666]]"
-  - "[[_Standards/WikiData/WD~WikiProject_International_law,21830200]]"
-  - "[[_Standards/WikiData/WD~Social_and_political_philosophy_task_force,21830621]]"
-depicted_by: "[[_Standards/WikiData/WD~self_determination,7448057]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~self_determination,19607723]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]'
+  - '[[_Standards/WikiData/WD~WikiProject_History,8486462]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Countries,8503406]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+  - '[[_Standards/WikiData/WD~WikiProject_International_relations,15304945]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Ethnic_groups,15305025]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Socialism,15885083]]'
+  - '[[_Standards/WikiData/WD~WikiProject_United_Nations,15885138]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Libertarianism,17590525]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Ethics,18811666]]'
+  - '[[_Standards/WikiData/WD~WikiProject_International_law,21830200]]'
+  - '[[_Standards/WikiData/WD~Social_and_political_philosophy_task_force,21830621]]'
+depicted_by: '[[_Standards/WikiData/WD~self_determination,7448057]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~self_determination,19607723]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Indigenous%20march%20right%20to%20self-determination.jpg
 Library_of_Congress_Classification: KZ1269
 Commons_category: Self-determination

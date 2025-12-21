@@ -4,21 +4,23 @@ aliases:
   - online_only
   - OnlineOnly
   - is_online_only
+  - Online_Only
+  - Online Only
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: ItemAvailability
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - online_only
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_online_only Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

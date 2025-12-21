@@ -2,6 +2,8 @@
 aliases:
   - Commutative algebra
   - ideal theory
+  - Commutative_Algebra
+  - Commutative Algebra
 has_id_wikidata: Q727659
 ---
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Tornado
 has_id_wikidata: Q8081
 Commons_category: Tornadoes
 Commons_gallery: Tornado
@@ -42,7 +44,7 @@ Unicode_character: 🌪
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Tornado%20time%20lapse.webm
 ---
 
-# [[Tornado]] 
+# [[Tornado]] 🌪 
 
 #is_/same_as :: [[../../../WikiData/WD~Tornado,8081|WD~Tornado,8081]] 
 

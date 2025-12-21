@@ -3,39 +3,40 @@ aliases:
   - Hydrologie
   - Hydrologist
   - hydrogeology
+  - Hydrology
 has_id_wikidata: Q42250
-different_from: "[[_Standards/WikiData/WD~hydrography,182468]]"
+different_from: '[[_Standards/WikiData/WD~hydrography,182468]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~hydrography,182468]]"
-  - "[[_Standards/WikiData/WD~hydrometry,1366172]]"
-  - "[[_Standards/WikiData/WD~surface_water_hydrology,2627395]]"
-  - "[[_Standards/WikiData/WD~hydrological_prognosis,17455059]]"
-  - "[[_Standards/WikiData/WD~hydrologic_engineering,72358999]]"
+  - '[[_Standards/WikiData/WD~hydrography,182468]]'
+  - '[[_Standards/WikiData/WD~hydrometry,1366172]]'
+  - '[[_Standards/WikiData/WD~surface_water_hydrology,2627395]]'
+  - '[[_Standards/WikiData/WD~hydrological_prognosis,17455059]]'
+  - '[[_Standards/WikiData/WD~hydrologic_engineering,72358999]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-is_the_study_of: "[[_Standards/WikiData/WD~water_balance,1148989]]"
-practiced_by: "[[_Standards/WikiData/WD~hydrologist,3644587]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_hydrology,7112662]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Hydrology,18857154]]"
-subclass_of: "[[_Standards/WikiData/WD~science,336]]"
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+is_the_study_of: '[[_Standards/WikiData/WD~water_balance,1148989]]'
+practiced_by: '[[_Standards/WikiData/WD~hydrologist,3644587]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_hydrology,7112662]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Hydrology,18857154]]'
+subclass_of: '[[_Standards/WikiData/WD~science,336]]'
 part_of:
-  - "[[_Standards/WikiData/WD~geology,1069]]"
-  - "[[_Standards/WikiData/WD~ecology,7150]]"
-  - "[[_Standards/WikiData/WD~meteorology,25261]]"
-Dewey_Decimal_Classification: "551"
-OmegaWiki_Defined_Meaning: "4112"
+  - '[[_Standards/WikiData/WD~geology,1069]]'
+  - '[[_Standards/WikiData/WD~ecology,7150]]'
+  - '[[_Standards/WikiData/WD~meteorology,25261]]'
+Dewey_Decimal_Classification: 551
+OmegaWiki_Defined_Meaning: 4112
 GitHub_topic: hydrology
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Land%20ocean%20ice%20cloud%201024.jpg
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Water%20cycle.png
   - http://commons.wikimedia.org/wiki/Special:FilePath/Watercyclearabichigh.jpg
-U_S_National_Archives_Identifier: "10640327"
+U_S_National_Archives_Identifier: 10640327
 Provenio_UUID: 68be7474-ef23-472e-b1c1-07d5539c0cd2
 UMLS_CUI: C3494261
 Krugosvet_article_archived_: Earth_sciences/geografiya/GIDROLOGIYA.html

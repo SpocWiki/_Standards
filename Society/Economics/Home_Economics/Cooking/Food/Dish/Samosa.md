@@ -2,23 +2,24 @@
 aliases:
   - sambosag
   - سنبوسگ
+  - Samosa
 has_id_wikidata: Q491517
 instance_of:
-  - "[[_Standards/WikiData/WD~pastry,477248]]"
-  - "[[_Standards/WikiData/WD~dish,746549]]"
-  - "[[_Standards/WikiData/WD~stuffed_pasta,3897491]]"
-course: "[[_Standards/WikiData/WD~entrée,6545590]]"
+  - '[[_Standards/WikiData/WD~pastry,477248]]'
+  - '[[_Standards/WikiData/WD~dish,746549]]'
+  - '[[_Standards/WikiData/WD~stuffed_pasta,3897491]]'
+course: '[[_Standards/WikiData/WD~entrée,6545590]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~potato,16587531]]"
-  - "[[_Standards/WikiData/WD~meat,10990]]"
-  - "[[_Standards/WikiData/WD~Pisum_sativum,25237]]"
-  - "[[_Standards/WikiData/WD~carrot,81]]"
-country_of_origin: "[[_Standards/WikiData/WD~Middle_East,7204]]"
+  - '[[_Standards/WikiData/WD~potato,16587531]]'
+  - '[[_Standards/WikiData/WD~meat,10990]]'
+  - '[[_Standards/WikiData/WD~Pisum_sativum,25237]]'
+  - '[[_Standards/WikiData/WD~carrot,81]]'
+country_of_origin: '[[_Standards/WikiData/WD~Middle_East,7204]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~meat,10990]]"
-  - "[[_Standards/WikiData/WD~potato,10998]]"
-  - "[[_Standards/WikiData/WD~Pisum_sativum,25237]]"
-  - "[[_Standards/WikiData/WD~carrot,81]]"
+  - '[[_Standards/WikiData/WD~meat,10990]]'
+  - '[[_Standards/WikiData/WD~potato,10998]]'
+  - '[[_Standards/WikiData/WD~Pisum_sativum,25237]]'
+  - '[[_Standards/WikiData/WD~carrot,81]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Green%20peas%20samosa.JPG
   - http://commons.wikimedia.org/wiki/Special:FilePath/Samosachutney.jpg

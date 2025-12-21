@@ -1,6 +1,7 @@
 ---
 aliases:
   - Sprechen
+  - Speech
 has_id_wikidata: Q52946
 subclass_of:
   - "[[_Standards/WikiData/WD~human_communication,1066689]]"
@@ -27,7 +28,7 @@ partially_coincident_with:
 facet_of: "[[_Standards/WikiData/WD~linguistics,8162]]"
 has_use: "[[_Standards/WikiData/WD~communication,11024]]"
 part_of: "[[_Standards/WikiData/WD~communication,11024]]"
-OmegaWiki_Defined_Meaning: "4834"
+OmegaWiki_Defined_Meaning: 4834
 Commons_category: Speech
 Archive_of_Our_Own_tag: Talking
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Q315%20noun%2036122%20ccLucianDinu%20speak.svg
@@ -44,7 +45,7 @@ Gujarati_Vishwakosh_entry: વાક્-speech-અને-તેના-વિક�
 Unicode_character: 🗣
 ---
 
-# [[Speech]] 
+# [[Speech]] 🗣 
 
 
 #is_/same_as :: [[_Standards/WikiData/WD~speech,52946]] 

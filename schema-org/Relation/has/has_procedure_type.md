@@ -3,23 +3,24 @@ aliases:
   - has procedure-type
   - procedureType
   - has_procedure_type
+  - has procedure type
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - procedure_type
   - procedure
   - type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_procedure_type
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

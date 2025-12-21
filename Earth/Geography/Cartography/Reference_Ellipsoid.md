@@ -3,14 +3,16 @@ aliases:
   - Earth ellipsoid
   - Earth spheroid
   - Geoid
+  - Reference_Ellipsoid
+  - Reference Ellipsoid
 has_id_wikidata: Q1335878
-part_of: "[[_Standards/WikiData/WD~spatial_reference_system,161779]]"
-has_use: "[[_Standards/WikiData/WD~frame_of_reference,184876]]"
-subclass_of: "[[_Standards/WikiData/WD~Earth_ellipsoid,1203807]]"
-instance_of: "[[_Standards/WikiData/WD~model,1979154]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q9553577,9553577]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-different_from: "[[_Standards/WikiData/WD~Q117350763,117350763]]"
+part_of: '[[_Standards/WikiData/WD~spatial_reference_system,161779]]'
+has_use: '[[_Standards/WikiData/WD~frame_of_reference,184876]]'
+subclass_of: '[[_Standards/WikiData/WD~Earth_ellipsoid,1203807]]'
+instance_of: '[[_Standards/WikiData/WD~model,1979154]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9553577,9553577]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~Q117350763,117350763]]'
 ---
 
 # [[Reference_Ellipsoid]] 

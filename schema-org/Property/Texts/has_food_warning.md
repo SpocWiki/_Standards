@@ -4,22 +4,24 @@ aliases:
   - food_warning
   - foodWarning
   - has_text_of_food_warning
+  - has_food_warning
+  - has food warning
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - food
   - warning
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_food_warning
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

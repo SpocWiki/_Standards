@@ -1,76 +1,78 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PropertyValueSpecification
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: qWTMtt
-  name: DefaultValue
-  options:
-    dvQueryString: "dv.pages('#class/Thing')"
-  type: MultiFile
-  path: ''
-- id: XjXknv
-  name: MaxValue
-  options: {}
-  type: Number
-  path: ''
-- id: SCY6uQ
-  name: MinValue
-  options: {}
-  type: Number
-  path: ''
-- id: Kk2j7N
-  name: MultipleValues
-  options: {}
-  type: Boolean
-  path: ''
-- id: bCjOtD
-  name: ReadonlyValue
-  options: {}
-  type: Boolean
-  path: ''
-- id: iK1qpA
-  name: StepValue
-  options: {}
-  type: Number
-  path: ''
-- id: YptBqQ
-  name: ValueMaxLength
-  options: {}
-  type: Number
-  path: ''
-- id: xLCObn
-  name: ValueMinLength
-  options: {}
-  type: Number
-  path: ''
-- id: ZBpgSm
-  name: ValueName
-  options: {}
-  type: Input
-  path: ''
-- id: c4b8tE
-  name: ValuePattern
-  options: {}
-  type: Input
-  path: ''
-- id: JGvQ54
-  name: ValueRequired
-  options: {}
-  type: Boolean
-  path: ''
+  - id: qWTMtt
+    name: DefaultValue
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ''
+  - id: XjXknv
+    name: MaxValue
+    options: {}
+    type: Number
+    path: ''
+  - id: SCY6uQ
+    name: MinValue
+    options: {}
+    type: Number
+    path: ''
+  - id: Kk2j7N
+    name: MultipleValues
+    options: {}
+    type: Boolean
+    path: ''
+  - id: bCjOtD
+    name: ReadonlyValue
+    options: {}
+    type: Boolean
+    path: ''
+  - id: iK1qpA
+    name: StepValue
+    options: {}
+    type: Number
+    path: ''
+  - id: YptBqQ
+    name: ValueMaxLength
+    options: {}
+    type: Number
+    path: ''
+  - id: xLCObn
+    name: ValueMinLength
+    options: {}
+    type: Number
+    path: ''
+  - id: ZBpgSm
+    name: ValueName
+    options: {}
+    type: Input
+    path: ''
+  - id: c4b8tE
+    name: ValuePattern
+    options: {}
+    type: Input
+    path: ''
+  - id: JGvQ54
+    name: ValueRequired
+    options: {}
+    type: Boolean
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PropertyValueSpecification
-- class/Thing/Intangible/PropertyValueSpecification
-- is_a_/PropertyValueSpecification
-- schema-org/PropertyValueSpecification
+  - class/PropertyValueSpecification
+  - class/Thing/Intangible/PropertyValueSpecification
+  - is_a_/PropertyValueSpecification
+  - schema-org/PropertyValueSpecification
 tags:
-- class/FileClass
-- class/PropertyValueSpecification
-- is_a_/PropertyValueSpecification
-- class/Thing/Intangible/PropertyValueSpecification
+  - class/FileClass
+  - class/PropertyValueSpecification
+  - is_a_/PropertyValueSpecification
+  - class/Thing/Intangible/PropertyValueSpecification
 version: 2.0
 ---
 

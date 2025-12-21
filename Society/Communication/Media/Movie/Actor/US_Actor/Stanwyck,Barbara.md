@@ -1,72 +1,73 @@
 ---
+aliases:
+  - Barbara Stanwyck
+  - Barbara_Stanwyck
+  - Stanwyck,Barbara
 has_id_wikidata: Q94002
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Robert_Taylor,145132]]"
-  - "[[_Standards/WikiData/WD~Frank_Fay,3082612]]"
+  - '[[_Standards/WikiData/WD~Robert_Taylor,145132]]'
+  - '[[_Standards/WikiData/WD~Frank_Fay,3082612]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Barbara,153957]]"
-  - "[[_Standards/WikiData/WD~Ruby,1061262]]"
-  - "[[_Standards/WikiData/WD~Catherine,2218095]]"
+  - '[[_Standards/WikiData/WD~Barbara,153957]]'
+  - '[[_Standards/WikiData/WD~Ruby,1061262]]'
+  - '[[_Standards/WikiData/WD~Catherine,2218095]]'
 genre:
-  - "[[_Standards/WikiData/WD~film_noir,185867]]"
-  - "[[_Standards/WikiData/WD~Western,21590660]]"
-cause_of_death: "[[_Standards/WikiData/WD~pulmonary_emphysema,188605]]"
+  - '[[_Standards/WikiData/WD~film_noir,185867]]'
+  - '[[_Standards/WikiData/WD~Western,21590660]]'
+cause_of_death: '[[_Standards/WikiData/WD~pulmonary_emphysema,188605]]'
 award_received:
-  - "[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]"
-  - "[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]"
-  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie,989447]]"
-  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Drama_Series,989445]]"
-  - "[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
+  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+  - '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
+  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie,989447]]'
+  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Drama_Series,989445]]'
+  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 occupation:
-  - "[[_Standards/WikiData/WD~Ziegfeld_girl,1561918]]"
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~model,4610556]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
+  - '[[_Standards/WikiData/WD~Ziegfeld_girl,1561918]]'
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~model,4610556]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
 family_name:
-  - "[[_Standards/WikiData/WD~Stevens,1797561]]"
-  - "[[_Standards/WikiData/WD~Stanwyck,93129422]]"
-filmography: "[[_Standards/WikiData/WD~Barbara_Stanwyck_filmography,4859325]]"
+  - '[[_Standards/WikiData/WD~Stevens,1797561]]'
+  - '[[_Standards/WikiData/WD~Stanwyck,93129422]]'
+filmography: '[[_Standards/WikiData/WD~Barbara_Stanwyck_filmography,4859325]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Erasmus_Hall_High_School,5384959]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
+  - '[[_Standards/WikiData/WD~Erasmus_Hall_High_School,5384959]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 Plex_person_key: 5d7768296f4521001ea9975f
-mother: "[[_Standards/WikiData/WD~Catherine_McPhee,116468650]]"
-father: "[[_Standards/WikiData/WD~Byron_Stevens,116468649]]"
-described_by_source: "[[_Standards/WikiData/WD~Ziegfeld_Girls_Index,133846228]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_birth: "[[_Standards/WikiData/WD~Brooklyn,18419]]"
+mother: '[[_Standards/WikiData/WD~Catherine_McPhee,116468650]]'
+father: '[[_Standards/WikiData/WD~Byron_Stevens,116468649]]'
+described_by_source: '[[_Standards/WikiData/WD~Ziegfeld_Girls_Index,133846228]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+place_of_birth: '[[_Standards/WikiData/WD~Brooklyn,18419]]'
 member_of_political_party:
-  - "[[_Standards/WikiData/WD~Republican_Party,29468]]"
+  - '[[_Standards/WikiData/WD~Republican_Party,29468]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 work_location:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 1
-place_of_death: "[[_Standards/WikiData/WD~Santa_Monica,47164]]"
+place_of_death: '[[_Standards/WikiData/WD~Santa_Monica,47164]]'
 Commons_gallery: Barbara Stanwyck
 Commons_category: Barbara Stanwyck
 ISNI:
-  - "0000000122814097"
-  - "0000000368651718"
+  - 0000000122814097
+  - 0000000368651718
 name_in_native_language: Barbara Stanwyck
 work_period_end_: 1986-01-01T00:00:00Z
 date_of_death: 1990-01-20T00:00:00Z
 work_period_start_: 1927-01-01T00:00:00Z
 date_of_birth: 1907-07-16T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Barbara%20Stanwyck%20-%20still%20-2.jpg
-P8189: "987007442620405171"
+P8189: 987007442620405171
 Libris_URI: dswndtnlbdqnpstp
 birth_name: Ruby Catherine Stevens
-aliases:
-  - Barbara Stanwyck
-  - Barbara_Stanwyck
 ---
 
 # [[Stanwyck,Barbara]] 

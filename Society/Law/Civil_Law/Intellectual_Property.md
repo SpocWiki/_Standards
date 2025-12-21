@@ -1,30 +1,32 @@
 ---
 aliases:
   - Intellectual property
+  - Intellectual_Property
+  - Intellectual Property
 has_id_wikidata: Q131257
 subclass_of:
-  - "[[_Standards/WikiData/WD~intangible_asset,427581]]"
-  - "[[_Standards/WikiData/WD~property,1400881]]"
+  - '[[_Standards/WikiData/WD~intangible_asset,427581]]'
+  - '[[_Standards/WikiData/WD~property,1400881]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~legal_concept,2135465]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~asset_type,116460050]]"
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~legal_concept,2135465]]'
+  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~asset_type,116460050]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-  - "[[_Standards/WikiData/WD~intangible_property,6042535]]"
-  - "[[_Standards/WikiData/WD~Intellectual_rights,60793665]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_intellectual_property,7112673]]"
+  - '[[_Standards/WikiData/WD~intangible_property,6042535]]'
+  - '[[_Standards/WikiData/WD~Intellectual_rights,60793665]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_intellectual_property,7112673]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Intellectual_property,7663292]]"
-  - "[[_Standards/WikiData/WD~Template_Intellectual_property_activism,10863254]]"
-ACM_Classification_Code_2012_: "10003463"
+  - '[[_Standards/WikiData/WD~Template_Intellectual_property,7663292]]'
+  - '[[_Standards/WikiData/WD~Template_Intellectual_property_activism,10863254]]'
+ACM_Classification_Code_2012_: 10003463
 short_name: IP
-OmegaWiki_Defined_Meaning: "1282858"
-U_S_National_Archives_Identifier: "10637584"
+OmegaWiki_Defined_Meaning: 1282858
+U_S_National_Archives_Identifier: 10637584
 Stack_Exchange_tag:
   - https://law.stackexchange.com/tags/intellectual-property
   - https://opensource.stackexchange.com/tags/intellectual-property

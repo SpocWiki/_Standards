@@ -6,32 +6,33 @@ aliases:
   - covenant
   - convention
   - pact
+  - Treaty
 has_id_wikidata: Q131569
 subclass_of:
-  - "[[_Standards/WikiData/WD~agreement,321839]]"
-  - "[[_Standards/WikiData/WD~statute,820655]]"
-  - "[[_Standards/WikiData/WD~rule,1151067]]"
-  - "[[_Standards/WikiData/WD~sources_of_international_law,2635077]]"
-  - "[[_Standards/WikiData/WD~written_contract,68619446]]"
-  - "[[_Standards/WikiData/WD~document,49848]]"
+  - '[[_Standards/WikiData/WD~agreement,321839]]'
+  - '[[_Standards/WikiData/WD~statute,820655]]'
+  - '[[_Standards/WikiData/WD~rule,1151067]]'
+  - '[[_Standards/WikiData/WD~sources_of_international_law,2635077]]'
+  - '[[_Standards/WikiData/WD~written_contract,68619446]]'
+  - '[[_Standards/WikiData/WD~document,49848]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-part_of: "[[_Standards/WikiData/WD~international_law,4394526]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_treaty,6204205]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~treaty,118932455]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~international_law,4394526]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_treaty,6204205]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~treaty,118932455]]'
 properties_for_this_type:
   - language of work or name
   - point in time
   - signatory
   - depositary
   - ratified by
-OmegaWiki_Defined_Meaning: "3853"
-Nomenclature_for_Museum_Cataloging: "13518"
+OmegaWiki_Defined_Meaning: 3853
+Nomenclature_for_Museum_Cataloging: 13518
 Library_of_Congress_Classification: KZ1298-KZ1304
-ACM_Classification_Code_2012_: "10003471"
+ACM_Classification_Code_2012_: 10003471
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Carter%20Brezhnev%20sign%20SALT%20II.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Original%20Geneva%20Conventions.jpg
@@ -39,8 +40,8 @@ image:
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Pt-Tratado.ogg
 exact_match: https://citationstyles.org/ontology/type/treaty
 U_S_National_Archives_Identifier:
-  - "10644101"
-  - "10661986"
+  - 10644101
+  - 10661986
 IPTC_NewsCode: mediatopic/20000641
 Commons_category: Treaties
 ---

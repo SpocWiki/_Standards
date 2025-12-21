@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DaySpa
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DaySpa
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/DaySpa
-- is_a_/DaySpa
-- schema-org/DaySpa
+  - class/DaySpa
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/DaySpa
+  - is_a_/DaySpa
+  - schema-org/DaySpa
 tags:
-- class/FileClass
-- class/DaySpa
-- is_a_/DaySpa
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/DaySpa
+  - class/FileClass
+  - class/DaySpa
+  - is_a_/DaySpa
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/DaySpa
 version: 2.0
 ---
 

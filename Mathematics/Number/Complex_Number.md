@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Complex_Number
+  - Complex Number
 has_id_wikidata: Q11567
 ---
 

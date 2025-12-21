@@ -2,6 +2,8 @@
 aliases:
   - Democratic Republic of São Tomé and Príncipe
   - São Tomé and Príncipe
+  - Sao_Tome_and_Principe
+  - Sao Tome and Principe
 has_id_wikidata: Q1039
 instance_of:
   - "[[_Standards/WikiData/WD~island_country,112099]]"

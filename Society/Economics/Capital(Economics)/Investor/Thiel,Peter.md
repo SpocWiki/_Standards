@@ -1,8 +1,9 @@
 ---
 aliases:
-- "Peter Thiel"
-- Peter Andreas Thiel
-- Peter_Thiel
+  - Peter Thiel
+  - Peter Andreas Thiel
+  - Peter_Thiel
+  - Thiel,Peter
 ---
 
 # [[Thiel,Peter]] 

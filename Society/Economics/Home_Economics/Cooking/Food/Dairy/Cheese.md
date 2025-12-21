@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Cheese
+has_id_wikidata: Q10943
 Amazon_com_browse_node: 6520456011
 carbon_footprint:
   - 5.7
@@ -22,7 +25,6 @@ fabrication_method: "[[_Standards/WikiData/WD~cheesemaking,1281188]]"
 hashtag:
   - Cheese
   - Käse
-has_id_wikidata: Q10943
 has_list: "[[_Standards/WikiData/WD~list_of_cheeses,1455981]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_cheese,471230]]"
 Iconclass_notation: 41C6412
@@ -61,6 +63,8 @@ USDA_NDB_number: 1008
 U_S_National_Archives_Identifier: 10640210
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Fr%C3%A5n%20mj%C3%B6lk%20till%20ost%20p%C3%A5%20Skansen.webm
 ---
+
+# [[Cheese]] 🧀 
 
 ## #has_/text_of_/abstract 
 

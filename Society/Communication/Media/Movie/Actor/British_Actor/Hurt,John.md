@@ -1,8 +1,9 @@
 ---
 aliases:
-- "John Hurt"
-- "Sir John Vincent Hurt"
-- "John Vincent Hurt"
+  - John Hurt
+  - Sir John Vincent Hurt
+  - John Vincent Hurt
+  - Hurt,John
 ---
 
 # [[Hurt,John]] 

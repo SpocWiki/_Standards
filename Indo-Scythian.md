@@ -3,6 +3,7 @@ aliases:
   - Indo-Scythians
   - Indo-Sakas
   - Indo-Saka
+  - Indo-Scythian
 has_id_wikidata: Q240123
 ---
 

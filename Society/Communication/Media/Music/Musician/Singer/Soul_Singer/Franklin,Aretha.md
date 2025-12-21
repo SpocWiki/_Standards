@@ -3,152 +3,153 @@ aliases:
   - Aretha_Franklin
   - Aretha Franklin
   - Aretha Louise Franklin
+  - Franklin,Aretha
 has_id_wikidata: Q125121
 social_media_followers: 140847
 Commons_category: Aretha Franklin
 Archive_of_Our_Own_tag: Aretha Franklin
 official_website: https://www.arethafranklin.net/
 award_received:
-  - "[[_Standards/WikiData/WD~Grammy_Hall_of_Fame,81180]]"
-  - "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
-  - "[[_Standards/WikiData/WD~MusiCares_Person_of_the_Year,326482]]"
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-  - "[[_Standards/WikiData/WD~Grammy_Legend_Award,1542347]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_R&B_Vocal_Performance,1934625]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_R&B_Performance_by_a_Duo_or_Group_with_Vocals,3113378]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Traditional_R&B_Performance,3113381]]"
-  - "[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Soul_R&B_Female_Artist,4744490]]"
-  - "[[_Standards/WikiData/WD~Gospel_Music_Hall_of_Fame,5587398]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Gospel_Contemporary_Christian_Music_Performance,5593803]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_R&B_Performance,5593863]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Soul_Gospel_Performance,_Female,5593881]]"
+  - '[[_Standards/WikiData/WD~Grammy_Hall_of_Fame,81180]]'
+  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+  - '[[_Standards/WikiData/WD~MusiCares_Person_of_the_Year,326482]]'
+  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+  - '[[_Standards/WikiData/WD~Grammy_Legend_Award,1542347]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_R&B_Vocal_Performance,1934625]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_R&B_Performance_by_a_Duo_or_Group_with_Vocals,3113378]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Traditional_R&B_Performance,3113381]]'
+  - '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Soul_R&B_Female_Artist,4744490]]'
+  - '[[_Standards/WikiData/WD~Gospel_Music_Hall_of_Fame,5587398]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Gospel_Contemporary_Christian_Music_Performance,5593803]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_R&B_Performance,5593863]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Soul_Gospel_Performance,_Female,5593881]]'
   - "[[_Standards/WikiData/WD~Michigan_Women's_Hall_of_Fame,6837811]]"
-  - "[[_Standards/WikiData/WD~NAACP_Image_Award_Hall_of_Fame_Award,6952076]]"
-  - "[[_Standards/WikiData/WD~Pulitzer_Prize_Special_Citations_and_Awards,7259350]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Soul_Gospel_Performance,16994372]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Soul_R&B_Album,19858107]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_Harvard_University,39384825]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_Yale_University,63072513]]"
-  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
+  - '[[_Standards/WikiData/WD~NAACP_Image_Award_Hall_of_Fame_Award,6952076]]'
+  - '[[_Standards/WikiData/WD~Pulitzer_Prize_Special_Citations_and_Awards,7259350]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Soul_Gospel_Performance,16994372]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Soul_R&B_Album,19858107]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_Harvard_University,39384825]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_Yale_University,63072513]]'
+  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Billie_Holiday,104358]]"
-  - "[[_Standards/WikiData/WD~George_Michael,130311]]"
-  - "[[_Standards/WikiData/WD~Nat_King_Cole,137042]]"
-  - "[[_Standards/WikiData/WD~Nina_Simone,174957]]"
-  - "[[_Standards/WikiData/WD~Mahalia_Jackson,206466]]"
-  - "[[_Standards/WikiData/WD~Dinah_Washington,229322]]"
-  - "[[_Standards/WikiData/WD~Sarah_Vaughan,229513]]"
-  - "[[_Standards/WikiData/WD~Sam_Cooke,295919]]"
-  - "[[_Standards/WikiData/WD~Sister_Rosetta_Tharpe,438106]]"
-  - "[[_Standards/WikiData/WD~Wynona_Carr,3570224]]"
-  - "[[_Standards/WikiData/WD~Ella_Fitzgerald,1768]]"
+  - '[[_Standards/WikiData/WD~Billie_Holiday,104358]]'
+  - '[[_Standards/WikiData/WD~George_Michael,130311]]'
+  - '[[_Standards/WikiData/WD~Nat_King_Cole,137042]]'
+  - '[[_Standards/WikiData/WD~Nina_Simone,174957]]'
+  - '[[_Standards/WikiData/WD~Mahalia_Jackson,206466]]'
+  - '[[_Standards/WikiData/WD~Dinah_Washington,229322]]'
+  - '[[_Standards/WikiData/WD~Sarah_Vaughan,229513]]'
+  - '[[_Standards/WikiData/WD~Sam_Cooke,295919]]'
+  - '[[_Standards/WikiData/WD~Sister_Rosetta_Tharpe,438106]]'
+  - '[[_Standards/WikiData/WD~Wynona_Carr,3570224]]'
+  - '[[_Standards/WikiData/WD~Ella_Fitzgerald,1768]]'
 genre:
-  - "[[_Standards/WikiData/WD~soul,131272]]"
-  - "[[_Standards/WikiData/WD~funk,164444]]"
-  - "[[_Standards/WikiData/WD~gospel_music,180268]]"
-  - "[[_Standards/WikiData/WD~pop_rock,484641]]"
-  - "[[_Standards/WikiData/WD~jazz,8341]]"
-  - "[[_Standards/WikiData/WD~pop_music,37073]]"
-  - "[[_Standards/WikiData/WD~rhythm_and_blues,45981]]"
+  - '[[_Standards/WikiData/WD~soul,131272]]'
+  - '[[_Standards/WikiData/WD~funk,164444]]'
+  - '[[_Standards/WikiData/WD~gospel_music,180268]]'
+  - '[[_Standards/WikiData/WD~pop_rock,484641]]'
+  - '[[_Standards/WikiData/WD~jazz,8341]]'
+  - '[[_Standards/WikiData/WD~pop_music,37073]]'
+  - '[[_Standards/WikiData/WD~rhythm_and_blues,45981]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~soul,131272]]"
-  - "[[_Standards/WikiData/WD~gospel_music,180268]]"
-  - "[[_Standards/WikiData/WD~music_composing,11895763]]"
-  - "[[_Standards/WikiData/WD~piano_performance,104998020]]"
-  - "[[_Standards/WikiData/WD~singing,27939]]"
+  - '[[_Standards/WikiData/WD~soul,131272]]'
+  - '[[_Standards/WikiData/WD~gospel_music,180268]]'
+  - '[[_Standards/WikiData/WD~music_composing,11895763]]'
+  - '[[_Standards/WikiData/WD~piano_performance,104998020]]'
+  - '[[_Standards/WikiData/WD~singing,27939]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~record_producer,183945]]"
-  - "[[_Standards/WikiData/WD~pianist,486748]]"
-  - "[[_Standards/WikiData/WD~songwriter,753110]]"
-  - "[[_Standards/WikiData/WD~activist,15253558]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~record_producer,183945]]'
+  - '[[_Standards/WikiData/WD~pianist,486748]]'
+  - '[[_Standards/WikiData/WD~songwriter,753110]]'
+  - '[[_Standards/WikiData/WD~activist,15253558]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Columbia_Records,183387]]"
-  - "[[_Standards/WikiData/WD~Atlantic_Records,202440]]"
-  - "[[_Standards/WikiData/WD~Checker,497149]]"
-  - "[[_Standards/WikiData/WD~Arista_Records,664167]]"
-  - "[[_Standards/WikiData/WD~Battle_Records,4870097]]"
-  - "[[_Standards/WikiData/WD~RCA,50074604]]"
-  - "[[_Standards/WikiData/WD~Warner_Music_Group,21077]]"
-voice_type: "[[_Standards/WikiData/WD~mezzo_soprano,186506]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
-cause_of_death: "[[_Standards/WikiData/WD~pancreatic_cancer,212961]]"
+  - '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
+  - '[[_Standards/WikiData/WD~Atlantic_Records,202440]]'
+  - '[[_Standards/WikiData/WD~Checker,497149]]'
+  - '[[_Standards/WikiData/WD~Arista_Records,664167]]'
+  - '[[_Standards/WikiData/WD~Battle_Records,4870097]]'
+  - '[[_Standards/WikiData/WD~RCA,50074604]]'
+  - '[[_Standards/WikiData/WD~Warner_Music_Group,21077]]'
+voice_type: '[[_Standards/WikiData/WD~mezzo_soprano,186506]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+cause_of_death: '[[_Standards/WikiData/WD~pancreatic_cancer,212961]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Erma_Franklin,446179]]"
-  - "[[_Standards/WikiData/WD~Carolyn_Franklin,5045362]]"
+  - '[[_Standards/WikiData/WD~Erma_Franklin,446179]]'
+  - '[[_Standards/WikiData/WD~Carolyn_Franklin,5045362]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Broadcast_Film_Critics_Association_Award_for_Best_Song,904344]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]"
-  - "[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Female_Video,1091031]]"
-  - "[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Video_from_a_Film,1161109]]"
-  - "[[_Standards/WikiData/WD~NAACP_Image_Award_for_Outstanding_Female_Artist,1351190]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Original_Song,1472235]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_R&B_Album,1542163]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_R&B_Vocal_Performance,1934625]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_R&B_Performance_by_a_Duo_or_Group_with_Vocals,3113378]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Traditional_R&B_Performance,3113381]]"
-  - "[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Soul_R&B_Female_Artist,4744490]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Gospel_Contemporary_Christian_Music_Performance,5593803]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_R&B_Performance,5593863]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Soul_Gospel_Performance,_Female,5593881]]"
-  - "[[_Standards/WikiData/WD~Soul_Train_Music_Award_for_Best_Gospel_Album_Group_or_Band,7564352]]"
-  - "[[_Standards/WikiData/WD~Soul_Train_Music_Award_for_Best_Gospel_Album_Solo,7564353]]"
-  - "[[_Standards/WikiData/WD~Soul_Train_Music_Award_for_Best_R&B_Soul_Album,_Female,7564356]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Soul_Gospel_Performance,16994372]]"
-  - "[[_Standards/WikiData/WD~NAACP_Image_Award_for_Outstanding_Duo_or_Group,17011874]]"
-  - "[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Soul_R&B_Album,19858107]]"
-father: "[[_Standards/WikiData/WD~C._L._Franklin,1095466]]"
+  - '[[_Standards/WikiData/WD~Broadcast_Film_Critics_Association_Award_for_Best_Song,904344]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]'
+  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Female_Video,1091031]]'
+  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Video_from_a_Film,1161109]]'
+  - '[[_Standards/WikiData/WD~NAACP_Image_Award_for_Outstanding_Female_Artist,1351190]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Original_Song,1472235]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_R&B_Album,1542163]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_R&B_Vocal_Performance,1934625]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_R&B_Performance_by_a_Duo_or_Group_with_Vocals,3113378]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Traditional_R&B_Performance,3113381]]'
+  - '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Soul_R&B_Female_Artist,4744490]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Gospel_Contemporary_Christian_Music_Performance,5593803]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_R&B_Performance,5593863]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Soul_Gospel_Performance,_Female,5593881]]'
+  - '[[_Standards/WikiData/WD~Soul_Train_Music_Award_for_Best_Gospel_Album_Group_or_Band,7564352]]'
+  - '[[_Standards/WikiData/WD~Soul_Train_Music_Award_for_Best_Gospel_Album_Solo,7564353]]'
+  - '[[_Standards/WikiData/WD~Soul_Train_Music_Award_for_Best_R&B_Soul_Album,_Female,7564356]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Soul_Gospel_Performance,16994372]]'
+  - '[[_Standards/WikiData/WD~NAACP_Image_Award_for_Outstanding_Duo_or_Group,17011874]]'
+  - '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Soul_R&B_Album,19858107]]'
+father: '[[_Standards/WikiData/WD~C._L._Franklin,1095466]]'
 residence:
-  - "[[_Standards/WikiData/WD~Encino,1190590]]"
-  - "[[_Standards/WikiData/WD~Detroit,12439]]"
-  - "[[_Standards/WikiData/WD~Memphis,16563]]"
+  - '[[_Standards/WikiData/WD~Encino,1190590]]'
+  - '[[_Standards/WikiData/WD~Detroit,12439]]'
+  - '[[_Standards/WikiData/WD~Memphis,16563]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Glynn_Turman,1532531]]"
-  - "[[_Standards/WikiData/WD~Ted_White,85805427]]"
-given_name: "[[_Standards/WikiData/WD~Aretha,2085715]]"
-discography: "[[_Standards/WikiData/WD~Aretha_Franklin_discography,2340614]]"
-family_name: "[[_Standards/WikiData/WD~Franklin,2696075]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-mother: "[[_Standards/WikiData/WD~Barbara_Siggers_Franklin,4859300]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Anglicanism,6423963]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Aretha_Franklin,6683850]]"
-place_of_burial: "[[_Standards/WikiData/WD~Woodlawn_Cemetery,8033008]]"
+  - '[[_Standards/WikiData/WD~Glynn_Turman,1532531]]'
+  - '[[_Standards/WikiData/WD~Ted_White,85805427]]'
+given_name: '[[_Standards/WikiData/WD~Aretha,2085715]]'
+discography: '[[_Standards/WikiData/WD~Aretha_Franklin_discography,2340614]]'
+family_name: '[[_Standards/WikiData/WD~Franklin,2696075]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+mother: '[[_Standards/WikiData/WD~Barbara_Siggers_Franklin,4859300]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Anglicanism,6423963]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Aretha_Franklin,6683850]]'
+place_of_burial: '[[_Standards/WikiData/WD~Woodlawn_Cemetery,8033008]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
-  - "[[_Standards/WikiData/WD~Art+Feminism,24909800]]"
-educated_at: "[[_Standards/WikiData/WD~Northern_High_School,17039986]]"
+  - '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+  - '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+educated_at: '[[_Standards/WikiData/WD~Northern_High_School,17039986]]'
 instrument:
-  - "[[_Standards/WikiData/WD~voice,17172850]]"
-  - "[[_Standards/WikiData/WD~piano,5994]]"
+  - '[[_Standards/WikiData/WD~voice,17172850]]'
+  - '[[_Standards/WikiData/WD~piano,5994]]'
 Plex_person_key: 5d776826961905001eb91145
 described_by_source:
-  - "[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Notable_Black_American_Women,105958972]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
+  - '[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Notable_Black_American_Women,105958972]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 work_period_start_: 1956-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aretha%20Franklin%201968.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Aretha%20Franklin%20signature.svg
-ISNI: "0000000114476112"
-IPI_name_number: "00010764709"
-RIA_Novosti_reference: "1526694307"
-P8189: "987007605412405171"
+ISNI: 0000000114476112
+IPI_name_number: 00010764709
+RIA_Novosti_reference: 1526694307
+P8189: 987007605412405171
 Europeana_entity: agent/base/61173
 EcuRed_article: Aretha_Franklin
-owner_of: "[[_Standards/WikiData/WD~Q122200395,122200395]]"
-student_of: "[[_Standards/WikiData/WD~Brooks_Alexander,123383175]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_death: "[[_Standards/WikiData/WD~Detroit,12439]]"
-place_of_birth: "[[_Standards/WikiData/WD~Memphis,16563]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+owner_of: '[[_Standards/WikiData/WD~Q122200395,122200395]]'
+student_of: '[[_Standards/WikiData/WD~Brooks_Alexander,123383175]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+place_of_death: '[[_Standards/WikiData/WD~Detroit,12439]]'
+place_of_birth: '[[_Standards/WikiData/WD~Memphis,16563]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 4
-ethnic_group: "[[_Standards/WikiData/WD~African_Americans,49085]]"
+ethnic_group: '[[_Standards/WikiData/WD~African_Americans,49085]]'
 Facebook_username: arethafranklin
 Instagram_username: arethafranklin
 X_Twitter_username: ArethaFranklin

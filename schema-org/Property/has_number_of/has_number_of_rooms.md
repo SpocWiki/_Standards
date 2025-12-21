@@ -4,21 +4,22 @@ aliases:
   - number-of-rooms
   - numberOfRooms
   - has_number_of_rooms
+  - has number of rooms
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - number-of-rooms
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_number-of-rooms
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

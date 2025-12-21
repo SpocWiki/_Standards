@@ -1,79 +1,81 @@
 ---
+aliases:
+  - Feminism
+has_id_wikidata: Q7252
 Commons_category: Feminism
 described_by_source:
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]'
+  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 Dewey_Decimal_Classification: 305.4209
 different_from:
-- '[[_Standards/WikiData/WD~Feminization,243478]]'
-- '[[_Standards/WikiData/WD~femininity,866081]]'
-- '[[_Standards/WikiData/WD~hyperfemininity,17633620]]'
-- '[[_Standards/WikiData/WD~feminative,66502812]]'
+  - '[[_Standards/WikiData/WD~Feminization,243478]]'
+  - '[[_Standards/WikiData/WD~femininity,866081]]'
+  - '[[_Standards/WikiData/WD~hyperfemininity,17633620]]'
+  - '[[_Standards/WikiData/WD~feminative,66502812]]'
 hashtag: feminism
-has_id_wikidata: Q7252
 has_part_s_:
-- '[[_Standards/WikiData/WD~feminist_theory,4810748]]'
-- '[[_Standards/WikiData/WD~feminist_movements_and_ideologies,5442879]]'
+  - '[[_Standards/WikiData/WD~feminist_theory,4810748]]'
+  - '[[_Standards/WikiData/WD~feminist_movements_and_ideologies,5442879]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_feminism,2297554]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Feminist%20Suffrage%20Parade%20in%20New%20York%20City%2C%201912.jpeg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Feminist%20Suffrage%20Parade%20in%20New%20York%20City%2C%201912.jpeg
 instance_of:
-- '[[_Standards/WikiData/WD~critical_sociology,301751]]'
-- '[[_Standards/WikiData/WD~methodics,351682]]'
-- '[[_Standards/WikiData/WD~reformism,1323572]]'
-- '[[_Standards/WikiData/WD~artistic_theme,1406161]]'
-- '[[_Standards/WikiData/WD~political_movement,2738074]]'
-- '[[_Standards/WikiData/WD~topic,26256810]]'
-- '[[_Standards/WikiData/WD~ideology,7257]]'
-- '[[_Standards/WikiData/WD~social_movement,49773]]'
+  - '[[_Standards/WikiData/WD~critical_sociology,301751]]'
+  - '[[_Standards/WikiData/WD~methodics,351682]]'
+  - '[[_Standards/WikiData/WD~reformism,1323572]]'
+  - '[[_Standards/WikiData/WD~artistic_theme,1406161]]'
+  - '[[_Standards/WikiData/WD~political_movement,2738074]]'
+  - '[[_Standards/WikiData/WD~topic,26256810]]'
+  - '[[_Standards/WikiData/WD~ideology,7257]]'
+  - '[[_Standards/WikiData/WD~social_movement,49773]]'
 Krugosvet_article: istoriya/FEMINIZM.html
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Feminism,13360738]]'
 MeSH_tree_code:
-- I01.880.604.473.374
-- K01.752.566.479.174.700
+  - I01.880.604.473.374
+  - K01.752.566.479.174.700
 OmegaWiki_Defined_Meaning: 1247384
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]'
-- '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
-- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]'
+  - '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+  - '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 opposite_of:
-- '[[_Standards/WikiData/WD~sexism,93200]]'
-- '[[_Standards/WikiData/WD~patriarchy,181339]]'
-- '[[_Standards/WikiData/WD~antifeminism,575220]]'
-- '[[_Standards/WikiData/WD~masculism,1973996]]'
+  - '[[_Standards/WikiData/WD~sexism,93200]]'
+  - '[[_Standards/WikiData/WD~patriarchy,181339]]'
+  - '[[_Standards/WikiData/WD~antifeminism,575220]]'
+  - '[[_Standards/WikiData/WD~masculism,1973996]]'
 partially_coincident_with: "[[_Standards/WikiData/WD~Women's_rights_movement,53028786]]"
 practiced_by:
-- "[[_Standards/WikiData/WD~women's_rights_activist,28692502]]"
-- '[[_Standards/WikiData/WD~feminist,34074720]]'
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-QueerEcofeminist-%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B5%E0%A4%BE%E0%A4%A6.wav"
-seal_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Feminism%20symbol%20%28bold%29.svg"
+  - "[[_Standards/WikiData/WD~women's_rights_activist,28692502]]"
+  - '[[_Standards/WikiData/WD~feminist,34074720]]'
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-QueerEcofeminist-%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B5%E0%A4%BE%E0%A4%A6.wav
+seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Feminism%20symbol%20%28bold%29.svg
 social_media_followers:
-- 17895
-- 266814
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Feminisme-article.ogg"
+  - 17895
+  - 266814
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Feminisme-article.ogg
 studied_in:
-- "[[_Standards/WikiData/WD~women's_history,1279400]]"
-- '[[_Standards/WikiData/WD~gender_studies,1662673]]'
-- '[[_Standards/WikiData/WD~history_of_feminism,2297554]]'
-- '[[_Standards/WikiData/WD~feminist_geography,2627057]]'
-- '[[_Standards/WikiData/WD~feminist_theory,4810748]]'
-- '[[_Standards/WikiData/WD~feminist_research,132158220]]'
-- "[[_Standards/WikiData/WD~women's_studies,35069]]"
+  - "[[_Standards/WikiData/WD~women's_history,1279400]]"
+  - '[[_Standards/WikiData/WD~gender_studies,1662673]]'
+  - '[[_Standards/WikiData/WD~history_of_feminism,2297554]]'
+  - '[[_Standards/WikiData/WD~feminist_geography,2627057]]'
+  - '[[_Standards/WikiData/WD~feminist_theory,4810748]]'
+  - '[[_Standards/WikiData/WD~feminist_research,132158220]]'
+  - "[[_Standards/WikiData/WD~women's_studies,35069]]"
 subclass_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
 subreddit: Feminism
 target:
-- '[[_Standards/WikiData/WD~gender_equality,113453]]'
-- "[[_Standards/WikiData/WD~women's_rights,223569]]"
-- '[[_Standards/WikiData/WD~gender_parity,3365387]]'
-- '[[_Standards/WikiData/WD~gender_equity,98047682]]'
+  - '[[_Standards/WikiData/WD~gender_equality,113453]]'
+  - "[[_Standards/WikiData/WD~women's_rights,223569]]"
+  - '[[_Standards/WikiData/WD~gender_parity,3365387]]'
+  - '[[_Standards/WikiData/WD~gender_equity,98047682]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Feminism_sidebar,8084150]]'
-- '[[_Standards/WikiData/WD~Template_Feminism,14270557]]'
+  - '[[_Standards/WikiData/WD~Template_Feminism_sidebar,8084150]]'
+  - '[[_Standards/WikiData/WD~Template_Feminism,14270557]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Feminism,11230166]]'
 U_S_National_Archives_Identifier: 10638645
-WordLift_URL: "http://data.thenextweb.com/tnw/entity/feminism"
+WordLift_URL: http://data.thenextweb.com/tnw/entity/feminism
 ---
 
 # [[Feminism]] 

@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Alex Krizhevsky"
-- Krizhevsky
+  - Alex Krizhevsky
+  - Krizhevsky
+  - Krizhevsky,Alex
 ---
 
 ## #has_/text_of_/abstract 

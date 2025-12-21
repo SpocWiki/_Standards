@@ -1,279 +1,281 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Offer
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: 3l1fO4
-  name: AcceptedPaymentMethod
-  options: {}
-  type: Input
-  path: ''
-- id: Ox3de3
-  name: AddOn
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Offer')"
-  type: MultiFile
-  path: ''
-- id: 8ogi2j
-  name: AdvanceBookingRequirement
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: AR7iX7
-  name: AggregateRating
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Rating/AggregateRating')"
-  type: MultiFile
-  path: ''
-- id: Qv01aw
-  name: AreaServed
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place/AdministrativeArea')"
-  type: MultiFile
-  path: ''
-- id: XuTZh0
-  name: Asin
-  options: {}
-  type: Input
-  path: ''
-- id: g4w7lY
-  name: AvailabilityEnds
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: pvk5Yt
-  name: AvailabilityStarts
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: CzXiwQ
-  name: AvailableAtOrFrom
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place')"
-  type: MultiFile
-  path: ''
-- id: A4HHhG
-  name: BusinessFunction
-  options: {}
-  type: Input
-  path: ''
-- id: A6XAwt
-  name: CheckoutPageURLTemplate
-  options: {}
-  type: Input
-  path: ''
-- id: drugoS
-  name: DeliveryLeadTime
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: mD4nmA
-  name: EligibleCustomerType
-  options: {}
-  type: Input
-  path: ''
-- id: m0G9Qt
-  name: EligibleDuration
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: k3bLBB
-  name: EligibleQuantity
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: qfbE0r
-  name: EligibleRegion
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')"
-  type: MultiFile
-  path: ''
-- id: pAbERd
-  name: EligibleTransactionVolume
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')"
-  type: MultiFile
-  path: ''
-- id: FmdHCe
-  name: Gtin
-  options: {}
-  type: Input
-  path: ''
-- id: 4fG2mQ
-  name: Gtin12
-  options: {}
-  type: Input
-  path: ''
-- id: uyFUWK
-  name: Gtin13
-  options: {}
-  type: Input
-  path: ''
-- id: iB0ftP
-  name: Gtin14
-  options: {}
-  type: Input
-  path: ''
-- id: 7CrdHj
-  name: Gtin8
-  options: {}
-  type: Input
-  path: ''
-- id: kL1i38
-  name: HasMeasurement
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: DSSr9Y
-  name: HasMerchantReturnPolicy
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/MerchantReturnPolicy')"
-  type: MultiFile
-  path: ''
-- id: jgxKkx
-  name: IncludesObject
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/TypeAndQuantityNode')"
-  type: MultiFile
-  path: ''
-- id: 6IKyE1
-  name: IneligibleRegion
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')"
-  type: MultiFile
-  path: ''
-- id: lpbgOd
-  name: InventoryLevel
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: EYTpF1
-  name: IsFamilyFriendly
-  options: {}
-  type: Boolean
-  path: ''
-- id: BT1Z7h
-  name: ItemOffered
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Offer/AggregateOffer')"
-  type: MultiFile
-  path: ''
-- id: QNJB3N
-  name: LeaseLength
-  options:
-    min: 0
-    max: 2359
-  type: Number
-  path: ''
-- id: BrEHCi
-  name: MobileUrl
-  options: {}
-  type: Input
-  path: ''
-- id: IdK798
-  name: Mpn
-  options: {}
-  type: Input
-  path: ''
-- id: A7yIaX
-  name: OfferedBy
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: 9smyBp
-  name: Price
-  options: {}
-  type: Number
-  path: ''
-- id: ndCfNK
-  name: PriceCurrency
-  options: {}
-  type: Input
-  path: ''
-- id: dI84ss
-  name: PriceSpecification
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')"
-  type: MultiFile
-  path: ''
-- id: D5gwcP
-  name: PriceValidUntil
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: WEOS6L
-  name: Review
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Review')"
-  type: MultiFile
-  path: ''
-- id: JqoolR
-  name: Seller
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: 5CTEga
-  name: SerialNumber
-  options: {}
-  type: Input
-  path: ''
-- id: SizObx
-  name: ShippingDetails
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/OfferShippingDetails')"
-  type: MultiFile
-  path: ''
-- id: Y1Ry5t
-  name: Sku
-  options: {}
-  type: Input
-  path: ''
-- id: qRC9iV
-  name: ValidFrom
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: xWvuDD
-  name: ValidThrough
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: uoLHxF
-  name: Warranty
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/WarrantyPromise')"
-  type: MultiFile
-  path: ''
+  - id: 3l1fO4
+    name: AcceptedPaymentMethod
+    options: {}
+    type: Input
+    path: ''
+  - id: Ox3de3
+    name: AddOn
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Offer')
+    type: MultiFile
+    path: ''
+  - id: 8ogi2j
+    name: AdvanceBookingRequirement
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: AR7iX7
+    name: AggregateRating
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Rating/AggregateRating')
+    type: MultiFile
+    path: ''
+  - id: Qv01aw
+    name: AreaServed
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
+    type: MultiFile
+    path: ''
+  - id: XuTZh0
+    name: Asin
+    options: {}
+    type: Input
+    path: ''
+  - id: g4w7lY
+    name: AvailabilityEnds
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: pvk5Yt
+    name: AvailabilityStarts
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: CzXiwQ
+    name: AvailableAtOrFrom
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ''
+  - id: A4HHhG
+    name: BusinessFunction
+    options: {}
+    type: Input
+    path: ''
+  - id: A6XAwt
+    name: CheckoutPageURLTemplate
+    options: {}
+    type: Input
+    path: ''
+  - id: drugoS
+    name: DeliveryLeadTime
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: mD4nmA
+    name: EligibleCustomerType
+    options: {}
+    type: Input
+    path: ''
+  - id: m0G9Qt
+    name: EligibleDuration
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: k3bLBB
+    name: EligibleQuantity
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: qfbE0r
+    name: EligibleRegion
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
+    type: MultiFile
+    path: ''
+  - id: pAbERd
+    name: EligibleTransactionVolume
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')
+    type: MultiFile
+    path: ''
+  - id: FmdHCe
+    name: Gtin
+    options: {}
+    type: Input
+    path: ''
+  - id: 4fG2mQ
+    name: Gtin12
+    options: {}
+    type: Input
+    path: ''
+  - id: uyFUWK
+    name: Gtin13
+    options: {}
+    type: Input
+    path: ''
+  - id: iB0ftP
+    name: Gtin14
+    options: {}
+    type: Input
+    path: ''
+  - id: 7CrdHj
+    name: Gtin8
+    options: {}
+    type: Input
+    path: ''
+  - id: kL1i38
+    name: HasMeasurement
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: DSSr9Y
+    name: HasMerchantReturnPolicy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/MerchantReturnPolicy')
+    type: MultiFile
+    path: ''
+  - id: jgxKkx
+    name: IncludesObject
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/TypeAndQuantityNode')
+    type: MultiFile
+    path: ''
+  - id: 6IKyE1
+    name: IneligibleRegion
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
+    type: MultiFile
+    path: ''
+  - id: lpbgOd
+    name: InventoryLevel
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: EYTpF1
+    name: IsFamilyFriendly
+    options: {}
+    type: Boolean
+    path: ''
+  - id: BT1Z7h
+    name: ItemOffered
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Offer/AggregateOffer')
+    type: MultiFile
+    path: ''
+  - id: QNJB3N
+    name: LeaseLength
+    options:
+      min: 0
+      max: 2359
+    type: Number
+    path: ''
+  - id: BrEHCi
+    name: MobileUrl
+    options: {}
+    type: Input
+    path: ''
+  - id: IdK798
+    name: Mpn
+    options: {}
+    type: Input
+    path: ''
+  - id: A7yIaX
+    name: OfferedBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: 9smyBp
+    name: Price
+    options: {}
+    type: Number
+    path: ''
+  - id: ndCfNK
+    name: PriceCurrency
+    options: {}
+    type: Input
+    path: ''
+  - id: dI84ss
+    name: PriceSpecification
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')
+    type: MultiFile
+    path: ''
+  - id: D5gwcP
+    name: PriceValidUntil
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: WEOS6L
+    name: Review
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+    type: MultiFile
+    path: ''
+  - id: JqoolR
+    name: Seller
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: 5CTEga
+    name: SerialNumber
+    options: {}
+    type: Input
+    path: ''
+  - id: SizObx
+    name: ShippingDetails
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OfferShippingDetails')
+    type: MultiFile
+    path: ''
+  - id: Y1Ry5t
+    name: Sku
+    options: {}
+    type: Input
+    path: ''
+  - id: qRC9iV
+    name: ValidFrom
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: xWvuDD
+    name: ValidThrough
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: uoLHxF
+    name: Warranty
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/WarrantyPromise')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Offer
-- class/Thing/Intangible/Offer
-- is_an_/Offer
-- schema-org/Offer
+  - class/Offer
+  - class/Thing/Intangible/Offer
+  - is_an_/Offer
+  - schema-org/Offer
 tags:
-- class/FileClass
-- class/Offer
-- '#is_an_/Offer'
-- class/Thing/Intangible/Offer
+  - class/FileClass
+  - class/Offer
+  - '#is_an_/Offer'
+  - class/Thing/Intangible/Offer
 version: 2.0
 ---
 

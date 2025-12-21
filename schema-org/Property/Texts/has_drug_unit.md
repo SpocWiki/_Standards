@@ -4,22 +4,24 @@ aliases:
   - drug_unit
   - drugUnit
   - has_text_of_drug_unit
+  - has_drug_unit
+  - has drug unit
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - drug
   - unit
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_drug_unit
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

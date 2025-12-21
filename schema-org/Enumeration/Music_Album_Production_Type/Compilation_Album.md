@@ -4,21 +4,23 @@ aliases:
   - compilation_album
   - CompilationAlbum
   - is_a_compilation_album
+  - Compilation_Album
+  - Compilation Album
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MusicAlbumProductionType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - compilation_album
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_compilation_album Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

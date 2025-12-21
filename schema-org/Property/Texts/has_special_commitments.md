@@ -4,22 +4,24 @@ aliases:
   - special_commitments
   - specialCommitments
   - has_text_of_special_commitments
+  - has_special_commitments
+  - has special commitments
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - special
   - commitments
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_special_commitments
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

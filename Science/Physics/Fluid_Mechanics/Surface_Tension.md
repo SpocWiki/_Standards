@@ -1,6 +1,8 @@
 ---
 aliases:
   - Oberflächenspannung
+  - Surface_Tension
+  - Surface Tension
 has_id_wikidata: Q170749
 subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
@@ -43,7 +45,7 @@ MeSH_tree_code: G02.860.816
 Commons_gallery: Surface tension
 Commons_category: Surface tension
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03B3;</mi><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">d</mi></mrow><mi>F</mi></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">d</mi></mrow><mi>l</mi></mrow></mrow></mfrac></mrow></mstyle></mrow></math>
-Dewey_Decimal_Classification: "530.427"
+Dewey_Decimal_Classification: 530.427
 ---
 
 # [[Surface_Tension]] 

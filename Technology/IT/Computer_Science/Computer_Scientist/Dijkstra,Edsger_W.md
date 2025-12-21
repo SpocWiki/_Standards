@@ -3,81 +3,83 @@ aliases:
   - Edsger Wybe Dijkstra
   - Edsger Dijkstra
   - Edsger_Dijkstra
+  - Dijkstra,Edsger_W
+  - Dijkstra,Edsger W
 has_id_wikidata: Q8556
 field_of_work:
-  - "[[_Standards/WikiData/WD~computer_programming,80006]]"
-  - "[[_Standards/WikiData/WD~computing,179310]]"
-  - "[[_Standards/WikiData/WD~informatics,4027615]]"
-  - "[[_Standards/WikiData/WD~computer_algorithm,115135891]]"
-  - "[[_Standards/WikiData/WD~mathematics,395]]"
-  - "[[_Standards/WikiData/WD~physics,413]]"
-  - "[[_Standards/WikiData/WD~programming_language,9143]]"
-  - "[[_Standards/WikiData/WD~computer_program,40056]]"
+  - '[[_Standards/WikiData/WD~computer_programming,80006]]'
+  - '[[_Standards/WikiData/WD~computing,179310]]'
+  - '[[_Standards/WikiData/WD~informatics,4027615]]'
+  - '[[_Standards/WikiData/WD~computer_algorithm,115135891]]'
+  - '[[_Standards/WikiData/WD~mathematics,395]]'
+  - '[[_Standards/WikiData/WD~physics,413]]'
+  - '[[_Standards/WikiData/WD~programming_language,9143]]'
+  - '[[_Standards/WikiData/WD~computer_program,40056]]'
 occupation:
-  - "[[_Standards/WikiData/WD~engineer,81096]]"
-  - "[[_Standards/WikiData/WD~computer_scientist,82594]]"
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~information_scientist,1265807]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~programmer,5482740]]"
-doctoral_advisor: "[[_Standards/WikiData/WD~Adriaan_van_Wijngaarden,93015]]"
+  - '[[_Standards/WikiData/WD~engineer,81096]]'
+  - '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+  - '[[_Standards/WikiData/WD~physicist,169470]]'
+  - '[[_Standards/WikiData/WD~mathematician,170790]]'
+  - '[[_Standards/WikiData/WD~information_scientist,1265807]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~programmer,5482740]]'
+doctoral_advisor: '[[_Standards/WikiData/WD~Adriaan_van_Wijngaarden,93015]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Association_for_Computing_Machinery,127992]]"
-  - "[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-place_of_death: "[[_Standards/WikiData/WD~Nuenen,153516]]"
+  - '[[_Standards/WikiData/WD~Association_for_Computing_Machinery,127992]]'
+  - '[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]'
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+place_of_death: '[[_Standards/WikiData/WD~Nuenen,153516]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Leiden_University,156598]]"
-  - "[[_Standards/WikiData/WD~University_of_Amsterdam,214341]]"
-  - "[[_Standards/WikiData/WD~Gymnasium_Erasmianum,2936361]]"
-  - "[[_Standards/WikiData/WD~University_of_Cambridge,35794]]"
+  - '[[_Standards/WikiData/WD~Leiden_University,156598]]'
+  - '[[_Standards/WikiData/WD~University_of_Amsterdam,214341]]'
+  - '[[_Standards/WikiData/WD~Gymnasium_Erasmianum,2936361]]'
+  - '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Turing_Award,185667]]"
-  - "[[_Standards/WikiData/WD~Dijkstra_Prize,1225254]]"
-  - "[[_Standards/WikiData/WD~Computer_Pioneer_Award,4363133]]"
-  - "[[_Standards/WikiData/WD~C&C_Prize,5005769]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_British_Computer_Society,5424551]]"
-  - "[[_Standards/WikiData/WD~Harry_H._Goode_Memorial_Award,15995115]]"
-  - "[[_Standards/WikiData/WD~ACM_Fellow,18748039]]"
-cause_of_death: "[[_Standards/WikiData/WD~colorectal_cancer,188874]]"
+  - '[[_Standards/WikiData/WD~Turing_Award,185667]]'
+  - '[[_Standards/WikiData/WD~Dijkstra_Prize,1225254]]'
+  - '[[_Standards/WikiData/WD~Computer_Pioneer_Award,4363133]]'
+  - '[[_Standards/WikiData/WD~C&C_Prize,5005769]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_British_Computer_Society,5424551]]'
+  - '[[_Standards/WikiData/WD~Harry_H._Goode_Memorial_Award,15995115]]'
+  - '[[_Standards/WikiData/WD~ACM_Fellow,18748039]]'
+cause_of_death: '[[_Standards/WikiData/WD~colorectal_cancer,188874]]'
 employer:
-  - "[[_Standards/WikiData/WD~Burroughs_Corporation,256593]]"
-  - "[[_Standards/WikiData/WD~Eindhoven_University_of_Technology,280824]]"
-  - "[[_Standards/WikiData/WD~Radboud_University_Nijmegen,632004]]"
-  - "[[_Standards/WikiData/WD~Centrum_Wiskunde_&_Informatica,1054410]]"
-  - "[[_Standards/WikiData/WD~University_of_Texas_at_Austin,49213]]"
+  - '[[_Standards/WikiData/WD~Burroughs_Corporation,256593]]'
+  - '[[_Standards/WikiData/WD~Eindhoven_University_of_Technology,280824]]'
+  - '[[_Standards/WikiData/WD~Radboud_University_Nijmegen,632004]]'
+  - '[[_Standards/WikiData/WD~Centrum_Wiskunde_&_Informatica,1054410]]'
+  - '[[_Standards/WikiData/WD~University_of_Texas_at_Austin,49213]]'
 notable_work:
   - "[[_Standards/WikiData/WD~banker's_algorithm,386678]]"
-  - "[[_Standards/WikiData/WD~shunting_yard_algorithm,1199602]]"
-  - "[[_Standards/WikiData/WD~smoothsort,1714823]]"
-  - "[[_Standards/WikiData/WD~Q28315661,28315661]]"
-  - "[[_Standards/WikiData/WD~Q55878909,55878909]]"
+  - '[[_Standards/WikiData/WD~shunting_yard_algorithm,1199602]]'
+  - '[[_Standards/WikiData/WD~smoothsort,1714823]]'
+  - '[[_Standards/WikiData/WD~Q28315661,28315661]]'
+  - '[[_Standards/WikiData/WD~Q55878909,55878909]]'
   - "[[_Standards/WikiData/WD~Dijkstra's_algorithm,8548]]"
 doctoral_student:
-  - "[[_Standards/WikiData/WD~Martin_Rem,2483450]]"
-  - "[[_Standards/WikiData/WD~Jan_L._A._van_de_Snepscheut,5666148]]"
-  - "[[_Standards/WikiData/WD~Nico_Habermann,7028783]]"
-  - "[[_Standards/WikiData/WD~David_Andrew_Naumann,102202739]]"
-  - "[[_Standards/WikiData/WD~Antonetta_Johanna_Maria_van_Gasteren,102253879]]"
-  - "[[_Standards/WikiData/WD~Jan_Tijmen_Udding,102279001]]"
-  - "[[_Standards/WikiData/WD~Kees_Hemerik,102316631]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-family_name: "[[_Standards/WikiData/WD~Dijkstra,18341694]]"
-given_name: "[[_Standards/WikiData/WD~Edsger,44429167]]"
-spouse: "[[_Standards/WikiData/WD~Maria_C._Debets,109334910]]"
-academic_thesis: "[[_Standards/WikiData/WD~Q123456029,123456029]]"
+  - '[[_Standards/WikiData/WD~Martin_Rem,2483450]]'
+  - '[[_Standards/WikiData/WD~Jan_L._A._van_de_Snepscheut,5666148]]'
+  - '[[_Standards/WikiData/WD~Nico_Habermann,7028783]]'
+  - '[[_Standards/WikiData/WD~David_Andrew_Naumann,102202739]]'
+  - '[[_Standards/WikiData/WD~Antonetta_Johanna_Maria_van_Gasteren,102253879]]'
+  - '[[_Standards/WikiData/WD~Jan_Tijmen_Udding,102279001]]'
+  - '[[_Standards/WikiData/WD~Kees_Hemerik,102316631]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+family_name: '[[_Standards/WikiData/WD~Dijkstra,18341694]]'
+given_name: '[[_Standards/WikiData/WD~Edsger,44429167]]'
+spouse: '[[_Standards/WikiData/WD~Maria_C._Debets,109334910]]'
+academic_thesis: '[[_Standards/WikiData/WD~Q123456029,123456029]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Dutch,7411]]"
-native_language: "[[_Standards/WikiData/WD~Dutch,7411]]"
-work_locations: "[[_Standards/WikiData/WD~Austin,16559]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Dutch,7411]]'
+native_language: '[[_Standards/WikiData/WD~Dutch,7411]]'
+work_locations: '[[_Standards/WikiData/WD~Austin,16559]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Erdős_number: 6
-place_of_birth: "[[_Standards/WikiData/WD~Rotterdam,34370]]"
+place_of_birth: '[[_Standards/WikiData/WD~Rotterdam,34370]]'
 name_in_native_language: Edsger Wybe Dijkstra
 birth_name: Edsger Wybe Dijkstra
 Commons_category: Edsger Wybe Dijkstra

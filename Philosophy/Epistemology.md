@@ -1,38 +1,40 @@
 ---
+aliases:
+  - Epistemology
+has_id_wikidata: Q9471
 Basisklassifikation: 8.32
 Colon_Classification: R2
 Commons_category: Epistemology
 described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Tamil_Encyclopedia,7681254]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Tamil_Encyclopedia,7681254]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Dewey_Decimal_Classification: 121
 GitHub_topic: epistemology
-has_id_wikidata: Q9471
 image: http://commons.wikimedia.org/wiki/Special:FilePath/4%20Pramanas%2C%20epistemology%20according%20to%20ancient%20Nyayasutras.svg
-instance_of: "[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]"
+instance_of: '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~science,336]]"
-  - "[[_Standards/WikiData/WD~knowledge,9081]]"
+  - '[[_Standards/WikiData/WD~science,336]]'
+  - '[[_Standards/WikiData/WD~knowledge,9081]]'
 Library_of_Congress_Classification: BD143-BD237
 OmegaWiki_Defined_Meaning: 671888
 PhilPapers_topic:
   - epistemology
   - theories-of-knowledge
-practiced_by: "[[_Standards/WikiData/WD~epistemologist,15632482]]"
+practiced_by: '[[_Standards/WikiData/WD~epistemologist,15632482]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~gnoseology,2560959]]"
-  - "[[_Standards/WikiData/WD~theory_of_knowledge,116930361]]"
-  - "[[_Standards/WikiData/WD~philosophy_of_science,59115]]"
+  - '[[_Standards/WikiData/WD~gnoseology,2560959]]'
+  - '[[_Standards/WikiData/WD~theory_of_knowledge,116930361]]'
+  - '[[_Standards/WikiData/WD~philosophy_of_science,59115]]'
 Stack_Exchange_tag:
   - https://physics.stackexchange.com/tags/epistemology
   - https://philosophy.stackexchange.com/tags/epistemology
-subclass_of: "[[_Standards/WikiData/WD~theoretical_philosophy,2166096]]"
+subclass_of: '[[_Standards/WikiData/WD~theoretical_philosophy,2166096]]'
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Epistemology_sidebar,7959380]]"
-  - "[[_Standards/WikiData/WD~Template_Epistemology,10982022]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_epistemology,7112624]]"
+  - '[[_Standards/WikiData/WD~Template_Epistemology_sidebar,7959380]]'
+  - '[[_Standards/WikiData/WD~Template_Epistemology,10982022]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_epistemology,7112624]]'
 ---
 
 # [[Epistemology]] 

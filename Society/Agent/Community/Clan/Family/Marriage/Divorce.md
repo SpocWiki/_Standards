@@ -1,6 +1,7 @@
 ---
 aliases:
   - Scheidung
+  - Divorce
 has_id_wikidata: Q93190
 ---
 

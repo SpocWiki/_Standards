@@ -1,40 +1,42 @@
 ---
 aliases:
   - Orgel
+  - Pipe_Organ
+  - Pipe Organ
 has_id_wikidata: Q281460
 has_part_s_:
-  - "[[_Standards/WikiData/WD~organ_console,392573]]"
-  - "[[_Standards/WikiData/WD~swell,1415737]]"
-  - "[[_Standards/WikiData/WD~organ_stop,1446290]]"
-  - "[[_Standards/WikiData/WD~organ_pipe,1510738]]"
-  - "[[_Standards/WikiData/WD~pedal_keyboard,1758965]]"
-  - "[[_Standards/WikiData/WD~organ_case,2927648]]"
-  - "[[_Standards/WikiData/WD~organ_manual,2978691]]"
+  - '[[_Standards/WikiData/WD~organ_console,392573]]'
+  - '[[_Standards/WikiData/WD~swell,1415737]]'
+  - '[[_Standards/WikiData/WD~organ_stop,1446290]]'
+  - '[[_Standards/WikiData/WD~organ_pipe,1510738]]'
+  - '[[_Standards/WikiData/WD~pedal_keyboard,1758965]]'
+  - '[[_Standards/WikiData/WD~organ_case,2927648]]'
+  - '[[_Standards/WikiData/WD~organ_manual,2978691]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 practiced_by:
-  - "[[_Standards/WikiData/WD~organist,765778]]"
-  - "[[_Standards/WikiData/WD~bellows_pumper,1361693]]"
-  - "[[_Standards/WikiData/WD~registrant,2138592]]"
+  - '[[_Standards/WikiData/WD~organist,765778]]'
+  - '[[_Standards/WikiData/WD~bellows_pumper,1361693]]'
+  - '[[_Standards/WikiData/WD~registrant,2138592]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
-  - "[[_Standards/WikiData/WD~wind_instrument_with_keyboard,11712894]]"
-  - "[[_Standards/WikiData/WD~sets_of_open_flutes_with_internal_duct_without_fingerholes,55738684]]"
-  - "[[_Standards/WikiData/WD~sets_of_oboes_with_conical_bore,55738864]]"
-  - "[[_Standards/WikiData/WD~organ,1444]]"
+  - '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+  - '[[_Standards/WikiData/WD~wind_instrument_with_keyboard,11712894]]'
+  - '[[_Standards/WikiData/WD~sets_of_open_flutes_with_internal_duct_without_fingerholes,55738684]]'
+  - '[[_Standards/WikiData/WD~sets_of_oboes_with_conical_bore,55738864]]'
+  - '[[_Standards/WikiData/WD~organ,1444]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Orgue,3356205]]"
-  - "[[_Standards/WikiData/WD~Orghen,12554913]]"
-  - "[[_Standards/WikiData/WD~Órgano,126391433]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_organ,14337230]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
-Nomenclature_for_Museum_Cataloging: "10715"
+  - '[[_Standards/WikiData/WD~Orgue,3356205]]'
+  - '[[_Standards/WikiData/WD~Orghen,12554913]]'
+  - '[[_Standards/WikiData/WD~Órgano,126391433]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_organ,14337230]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+Nomenclature_for_Museum_Cataloging: 10715
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Main%20pipe%20organ%20-%20Frauenkirche%20-%20Munich%20-%20Germany%202017.jpg
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Organ%20Range.svg
 exact_match: http://wordnet-rdf.princeton.edu/wn30/03854065-n

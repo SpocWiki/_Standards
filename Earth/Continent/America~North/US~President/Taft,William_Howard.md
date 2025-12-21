@@ -1,25 +1,26 @@
 ---
 aliases:
-- Taft,William_Howard
-- "William Howard Taft"
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Taft,William_Howard
+  - William Howard Taft
+  - ''
+  - Taft,William Howard
 has_id_wikidata: Q35648
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Taft,William_Howard
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Taft,William_Howard
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- 
+  - ''
 title: Taft,William_Howard
 type: private_note
 ---

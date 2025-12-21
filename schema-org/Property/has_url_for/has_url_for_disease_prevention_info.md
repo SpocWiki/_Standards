@@ -4,21 +4,22 @@ aliases:
   - disease_prevention_info
   - diseasePreventionInfo
   - has_url_for_disease_prevention_info
+  - has url for disease prevention info
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - disease_prevention_info
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_disease_prevention_info
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

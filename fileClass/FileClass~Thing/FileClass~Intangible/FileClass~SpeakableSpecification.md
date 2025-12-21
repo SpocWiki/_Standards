@@ -1,30 +1,32 @@
 ---
-excludes: 
+aliases:
+  - FileClass~SpeakableSpecification
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: I9YRK5
-  name: CssSelector
-  options: {}
-  type: Input
-  path: ''
-- id: kylcQQ
-  name: Xpath
-  options: {}
-  type: Input
-  path: ''
+  - id: I9YRK5
+    name: CssSelector
+    options: {}
+    type: Input
+    path: ''
+  - id: kylcQQ
+    name: Xpath
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/SpeakableSpecification
-- class/Thing/Intangible/SpeakableSpecification
-- is_a_/SpeakableSpecification
-- schema-org/SpeakableSpecification
+  - class/SpeakableSpecification
+  - class/Thing/Intangible/SpeakableSpecification
+  - is_a_/SpeakableSpecification
+  - schema-org/SpeakableSpecification
 tags:
-- class/FileClass
-- class/SpeakableSpecification
-- is_a_/SpeakableSpecification
-- class/Thing/Intangible/SpeakableSpecification
+  - class/FileClass
+  - class/SpeakableSpecification
+  - is_a_/SpeakableSpecification
+  - class/Thing/Intangible/SpeakableSpecification
 version: 2.0
 ---
 

@@ -2,32 +2,33 @@
 aliases:
   - constellation
   - Zodiac
+  - Star~Constellation
 has_id_wikidata: Q8928
 described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~geographical_feature,618123]]"
-  - "[[_Standards/WikiData/WD~asterism,9262]]"
+  - '[[_Standards/WikiData/WD~geographical_feature,618123]]'
+  - '[[_Standards/WikiData/WD~asterism,9262]]'
 has_list:
-  - "[[_Standards/WikiData/WD~Q3248800,3248800]]"
-  - "[[_Standards/WikiData/WD~list_of_constellations,9241]]"
+  - '[[_Standards/WikiData/WD~Q3248800,3248800]]'
+  - '[[_Standards/WikiData/WD~list_of_constellations,9241]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_constellation,5879948]]"
-  - "[[_Standards/WikiData/WD~Template_Constellations,7647472]]"
+  - '[[_Standards/WikiData/WD~Template_Infobox_constellation,5879948]]'
+  - '[[_Standards/WikiData/WD~Template_Constellations,7647472]]'
 different_from:
-  - "[[_Standards/WikiData/WD~IAU_constellation,131403485]]"
-  - "[[_Standards/WikiData/WD~asterism,9262]]"
-part_of: "[[_Standards/WikiData/WD~celestial_sphere,12134]]"
-OmegaWiki_Defined_Meaning: "688481"
+  - '[[_Standards/WikiData/WD~IAU_constellation,131403485]]'
+  - '[[_Standards/WikiData/WD~asterism,9262]]'
+part_of: '[[_Standards/WikiData/WD~celestial_sphere,12134]]'
+OmegaWiki_Defined_Meaning: 688481
 Wolfram_Language_entity_type: Constellation
 Commons_category: Constellations
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pp3%20pl%20scorpius.jpg
 equivalent_class: http://dbpedia.org/ontology/Constellation
-P8189: "987007555410505171"
+P8189: 987007555410505171
 Krugosvet_article: nauka_i_tehnika/astronomiya/SOZVEZDIYA_I_YARKIE_ZVEZDI.html
 Baidu_Tieba_name: 星座
 ---

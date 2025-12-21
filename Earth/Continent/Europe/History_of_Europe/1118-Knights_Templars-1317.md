@@ -3,51 +3,53 @@ aliases:
   - Tempelritter
   - Templerorden
   - Templer
+  - 1118-Knights_Templars-1317
+  - 1118-Knights Templars-1317
 has_id_wikidata: Q41300
 motto_text: Non nobis Domine, non nobis, sed nomini tuo da gloriam
 official_name: Pauperes commilitones Christi Templique Salomonici Hierosolymitanis
-country: "[[_Standards/WikiData/WD~Papal_States,170174]]"
-patron_saint: "[[_Standards/WikiData/WD~Bernard_of_Clairvaux,188411]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Temple_Mount,193163]]"
-named_after: "[[_Standards/WikiData/WD~Temple_Mount,193163]]"
+country: '[[_Standards/WikiData/WD~Papal_States,170174]]'
+patron_saint: '[[_Standards/WikiData/WD~Bernard_of_Clairvaux,188411]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Temple_Mount,193163]]'
+named_after: '[[_Standards/WikiData/WD~Temple_Mount,193163]]'
 location:
-  - "[[_Standards/WikiData/WD~Temple_Mount,193163]]"
-  - "[[_Standards/WikiData/WD~Church_of_the_Santi_Maurizio_e_Lazzaro,17624735]]"
+  - '[[_Standards/WikiData/WD~Temple_Mount,193163]]'
+  - '[[_Standards/WikiData/WD~Church_of_the_Santi_Maurizio_e_Lazzaro,17624735]]'
 founded_by:
-  - "[[_Standards/WikiData/WD~Hugo_de_Paganis,297576]]"
-  - "[[_Standards/WikiData/WD~André_de_Montbard,371366]]"
-  - "[[_Standards/WikiData/WD~Godfrey_de_Saint_Omer,1352970]]"
-instance_of: "[[_Standards/WikiData/WD~religious_military_order,474717]]"
+  - '[[_Standards/WikiData/WD~Hugo_de_Paganis,297576]]'
+  - '[[_Standards/WikiData/WD~André_de_Montbard,371366]]'
+  - '[[_Standards/WikiData/WD~Godfrey_de_Saint_Omer,1352970]]'
+instance_of: '[[_Standards/WikiData/WD~religious_military_order,474717]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
-replaced_by: "[[_Standards/WikiData/WD~Order_of_Christ,840941]]"
-official_symbol: "[[_Standards/WikiData/WD~cross_pattée,964444]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+replaced_by: '[[_Standards/WikiData/WD~Order_of_Christ,840941]]'
+official_symbol: '[[_Standards/WikiData/WD~cross_pattée,964444]]'
 owner_of:
   - "[[_Standards/WikiData/WD~Château_de_Cazouls_d'Hérault,2740950]]"
   - "[[_Standards/WikiData/WD~Castell_d'Ascó,2968143]]"
-  - "[[_Standards/WikiData/WD~Castle_of_Olivenza,2968310]]"
-  - "[[_Standards/WikiData/WD~Castle_of_Chalamera,2968822]]"
-  - "[[_Standards/WikiData/WD~Monzón_Castle,2970084]]"
-  - "[[_Standards/WikiData/WD~Peniscola_Castle,2970221]]"
-  - "[[_Standards/WikiData/WD~Castelo_de_Tomar,2970821]]"
-  - "[[_Standards/WikiData/WD~Cressing_Temple,2985848]]"
-  - "[[_Standards/WikiData/WD~Castell_de_Gardeny,3001622]]"
-  - "[[_Standards/WikiData/WD~Castle_of_Penas_Róias,5049813]]"
-different_from: "[[_Standards/WikiData/WD~Knights_Templar_Cartel,6422424]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Grand_Master_of_the_Knights_Templar,22673588]]"
-has_part_s_: "[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Temple,22677266]]"
+  - '[[_Standards/WikiData/WD~Castle_of_Olivenza,2968310]]'
+  - '[[_Standards/WikiData/WD~Castle_of_Chalamera,2968822]]'
+  - '[[_Standards/WikiData/WD~Monzón_Castle,2970084]]'
+  - '[[_Standards/WikiData/WD~Peniscola_Castle,2970221]]'
+  - '[[_Standards/WikiData/WD~Castelo_de_Tomar,2970821]]'
+  - '[[_Standards/WikiData/WD~Cressing_Temple,2985848]]'
+  - '[[_Standards/WikiData/WD~Castell_de_Gardeny,3001622]]'
+  - '[[_Standards/WikiData/WD~Castle_of_Penas_Róias,5049813]]'
+different_from: '[[_Standards/WikiData/WD~Knights_Templar_Cartel,6422424]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Grand_Master_of_the_Knights_Templar,22673588]]'
+has_part_s_: '[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Temple,22677266]]'
 dissolved_abolished_or_demolished_date: 1312-03-30T00:00:00Z
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-allegiance: "[[_Standards/WikiData/WD~pope,19546]]"
-OmegaWiki_Defined_Meaning: "1253630"
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+allegiance: '[[_Standards/WikiData/WD~pope,19546]]'
+OmegaWiki_Defined_Meaning: 1253630
 BHCL_UUID: 603612af-50d4-4412-be82-1e0754b2ccbc
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Blason%20Ordre%20du%20Temple.svg
 inception: 1120-01-23T00:00:00Z
@@ -60,7 +62,7 @@ distribution_map:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ritterorden-Outremer-bis-1291.png
   - http://commons.wikimedia.org/wiki/Special:FilePath/Templerorden%20in%20Europa%201300.png
 seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20Templars.jpg
-ISNI: "0000000121871735"
+ISNI: 0000000121871735
 Commons_category: Knights Templar
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/TAMPLIERI.html
 ---

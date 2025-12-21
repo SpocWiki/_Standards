@@ -4,6 +4,8 @@ aliases:
   - Drinking water
   - potable water
   - tap water
+  - Drinking_Water
+  - Drinking Water
 has_id_wikidata: Q7892
 different_from:
   - "[[_Standards/WikiData/WD~groundwater,161598]]"
@@ -28,10 +30,10 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Kartographer_icon,134980502]]"
 uses: "[[_Standards/WikiData/WD~potable_water_sampling,125862576]]"
 electrical_resistivity: 20
-OmegaWiki_Defined_Meaning: "990"
+OmegaWiki_Defined_Meaning: 990
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stilles%20Mineralwasser.jpg
 sRGB_color_hex_triplet: 1E90FF
-Common_Procurement_Vocabulary_code: "41110000"
+Common_Procurement_Vocabulary_code: 41110000
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Water%20Drops%20Glass%20Banner.jpg
 Unicode_character: 🚰
 Commons_category: Drinking water
@@ -48,7 +50,7 @@ MeSH_tree_code:
 OpenStreetMap_tag_or_key: Key:drinking_water
 ---
 
-# [[Drinking_Water]] 
+# [[Drinking_Water]] 🚰 
 
 #is_/same_as :: [[../../../WikiData/WD~Drinking_water,7892|WD~Drinking_water,7892]] 
 

@@ -1,30 +1,31 @@
 ---
 aliases:
   - Sonnenwende
+  - Solstice
 has_id_wikidata: Q123524
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
   - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~astronomical_phenomenon,751989]]"
-  - "[[_Standards/WikiData/WD~maxima_and_minima,845060]]"
-  - "[[_Standards/WikiData/WD~annual_event,11483816]]"
+  - '[[_Standards/WikiData/WD~astronomical_phenomenon,751989]]'
+  - '[[_Standards/WikiData/WD~maxima_and_minima,845060]]'
+  - '[[_Standards/WikiData/WD~annual_event,11483816]]'
 day_in_year_for_periodic_occurrence:
-  - "[[_Standards/WikiData/WD~December_solstice,5249063]]"
-  - "[[_Standards/WikiData/WD~June_solstice,6312465]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q12763313,12763313]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+  - '[[_Standards/WikiData/WD~December_solstice,5249063]]'
+  - '[[_Standards/WikiData/WD~June_solstice,6312465]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12763313,12763313]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Przesilenie,28838948]]"
-  - "[[_Standards/WikiData/WD~Ayananta,124606644]]"
-opposite_of: "[[_Standards/WikiData/WD~equinox,1315]]"
+  - '[[_Standards/WikiData/WD~Przesilenie,28838948]]'
+  - '[[_Standards/WikiData/WD~Ayananta,124606644]]'
+opposite_of: '[[_Standards/WikiData/WD~equinox,1315]]'
 Commons_gallery: Solstice
-OmegaWiki_Defined_Meaning: "403632"
+OmegaWiki_Defined_Meaning: 403632
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Sonnenwende.ogg
 Commons_category: Solstices
 image:

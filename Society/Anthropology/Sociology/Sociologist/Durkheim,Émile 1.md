@@ -1,46 +1,48 @@
 ---
+aliases:
+  - Durkheim,Émile 1
+has_id_wikidata: Q15948
 BHCL_UUID: 3ef73876-984c-43c0-b248-cb1bc24504bd
-birth_name: "David Émile Durkheim"
+birth_name: David Émile Durkheim
 cause_of_death: '[[_Standards/WikiData/WD~cerebral_hemorrhage,1368943]]'
-Commons_category: "Émile Durkheim"
-Commons_Creator_page: "Émile Durkheim"
+Commons_category: Émile Durkheim
+Commons_Creator_page: Émile Durkheim
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
 date_of_birth: 1858-04-15
 date_of_death: 1917-11-15
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-- '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~Émile_Boutroux,274969]]'
 doctoral_student: '[[_Standards/WikiData/WD~Marcel_Mauss,295393]]'
 educated_at:
-- '[[_Standards/WikiData/WD~École_Normale_Supérieure,83259]]'
-- '[[_Standards/WikiData/WD~Leipzig_University,154804]]'
-- '[[_Standards/WikiData/WD~Lycée_Louis_le_Grand,1059546]]'
-- '[[_Standards/WikiData/WD~University_of_Bordeaux,13344]]'
+  - '[[_Standards/WikiData/WD~École_Normale_Supérieure,83259]]'
+  - '[[_Standards/WikiData/WD~Leipzig_University,154804]]'
+  - '[[_Standards/WikiData/WD~Lycée_Louis_le_Grand,1059546]]'
+  - '[[_Standards/WikiData/WD~University_of_Bordeaux,13344]]'
 employer:
-- '[[_Standards/WikiData/WD~University_of_Paris,209842]]'
-- '[[_Standards/WikiData/WD~École_pratique_des_hautes_études,273631]]'
-- '[[_Standards/WikiData/WD~University_of_Bordeaux,13344]]'
+  - '[[_Standards/WikiData/WD~University_of_Paris,209842]]'
+  - '[[_Standards/WikiData/WD~École_pratique_des_hautes_études,273631]]'
+  - '[[_Standards/WikiData/WD~University_of_Bordeaux,13344]]'
 family_name: '[[_Standards/WikiData/WD~Q107423678,107423678]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~sociology_of_religion,461659]]'
-- '[[_Standards/WikiData/WD~ethnology,43455]]'
+  - '[[_Standards/WikiData/WD~sociology_of_religion,461659]]'
+  - '[[_Standards/WikiData/WD~ethnology,43455]]'
 given_name: '[[_Standards/WikiData/WD~Émile,13426635]]'
-has_id_wikidata: Q15948
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89mile%20Durkheim.jpg"
-image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Grave%20of%20%C3%89mile%20Durkheim%20in%20Montparnasse%20Cemetery.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89mile%20Durkheim.jpg
+image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grave%20of%20%C3%89mile%20Durkheim%20in%20Montparnasse%20Cemetery.jpg
 influenced_by:
-- '[[_Standards/WikiData/WD~Herbert_Spencer,144535]]'
-- '[[_Standards/WikiData/WD~Louis_de_Bonald,316674]]'
-- '[[_Standards/WikiData/WD~Auguste_Comte,12718]]'
-- '[[_Standards/WikiData/WD~Montesquieu,15975]]'
+  - '[[_Standards/WikiData/WD~Herbert_Spencer,144535]]'
+  - '[[_Standards/WikiData/WD~Louis_de_Bonald,316674]]'
+  - '[[_Standards/WikiData/WD~Auguste_Comte,12718]]'
+  - '[[_Standards/WikiData/WD~Montesquieu,15975]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 0000000121339861
 Krugosvet_article: gumanitarnye_nauki/sociologiya/DYURKGEM_EMIL.html
@@ -48,33 +50,33 @@ languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 Library_of_Congress_Classification: HM479.D87
 Libris_URI: wt79973f2r8nzv3
 member_of: '[[_Standards/WikiData/WD~Human_Rights_League,1429947]]'
-name_in_native_language: "David Émile Durkheim"
+name_in_native_language: David Émile Durkheim
 NLC_authorities: 000129288
 notable_work:
-- '[[_Standards/WikiData/WD~The_Elementary_Forms_of_the_Religious_Life,1218187]]'
-- '[[_Standards/WikiData/WD~The_Division_of_Labour_in_Society,3020435]]'
-- '[[_Standards/WikiData/WD~Education_and_Sociology_(book),96142060]]'
+  - '[[_Standards/WikiData/WD~The_Elementary_Forms_of_the_Religious_Life,1218187]]'
+  - '[[_Standards/WikiData/WD~The_Division_of_Labour_in_Society,3020435]]'
+  - '[[_Standards/WikiData/WD~Education_and_Sociology_(book),96142060]]'
 occupation:
-- '[[_Standards/WikiData/WD~professor,121594]]'
-- '[[_Standards/WikiData/WD~sociologist,2306091]]'
-- '[[_Standards/WikiData/WD~anthropologist,4773904]]'
-- '[[_Standards/WikiData/WD~philosopher,4964182]]'
-- '[[_Standards/WikiData/WD~historian_of_religion,17488357]]'
+  - '[[_Standards/WikiData/WD~professor,121594]]'
+  - '[[_Standards/WikiData/WD~sociologist,2306091]]'
+  - '[[_Standards/WikiData/WD~anthropologist,4773904]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~historian_of_religion,17488357]]'
 place_of_birth: '[[_Standards/WikiData/WD~Épinal,173695]]'
 place_of_burial: '[[_Standards/WikiData/WD~Montparnasse_Cemetery,272208]]'
 place_of_death: '[[_Standards/WikiData/WD~Paris,90]]'
-Regensburg_Classification: "MQ 3150"
+Regensburg_Classification: MQ 3150
 religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 spouse: '[[_Standards/WikiData/WD~Louise_Dreyfus,108665645]]'
 student:
-- '[[_Standards/WikiData/WD~Marcel_Mauss,295393]]'
-- '[[_Standards/WikiData/WD~Maurice_Halbwachs,326000]]'
-- '[[_Standards/WikiData/WD~Robert_Hertz,1972058]]'
+  - '[[_Standards/WikiData/WD~Marcel_Mauss,295393]]'
+  - '[[_Standards/WikiData/WD~Maurice_Halbwachs,326000]]'
+  - '[[_Standards/WikiData/WD~Robert_Hertz,1972058]]'
 student_of:
-- '[[_Standards/WikiData/WD~Wilhelm_Wundt,75814]]'
-- '[[_Standards/WikiData/WD~Numa_Denis_Fustel_de_Coulanges,462597]]'
-Wolfram_Language_entity_code: "Entity[\"Concept\", \"Durkheim::q674h\"]"
+  - '[[_Standards/WikiData/WD~Wilhelm_Wundt,75814]]'
+  - '[[_Standards/WikiData/WD~Numa_Denis_Fustel_de_Coulanges,462597]]'
+Wolfram_Language_entity_code: Entity["Concept", "Durkheim::q674h"]
 writing_language: '[[_Standards/WikiData/WD~French,150]]'
 ---
 

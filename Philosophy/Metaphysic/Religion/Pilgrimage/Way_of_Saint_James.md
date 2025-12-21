@@ -1,40 +1,42 @@
 ---
 aliases:
   - Jakobsweg
-  - Camino de Santiago 
+  - Camino de Santiago
   - Peregrinatio Compostellana
   - Pilgrimage of Compostela
   - O Camiño de Santiago
+  - Way_of_Saint_James
+  - Way of Saint James
 has_id_wikidata: Q41150
-has_goal: "[[_Standards/WikiData/WD~Cathedral_of_Santiago_de_Compostela,205136]]"
-terminus: "[[_Standards/WikiData/WD~Cathedral_of_Santiago_de_Compostela,205136]]"
-different_from: "[[_Standards/WikiData/WD~Way_of_St._James,475699]]"
+has_goal: '[[_Standards/WikiData/WD~Cathedral_of_Santiago_de_Compostela,205136]]'
+terminus: '[[_Standards/WikiData/WD~Cathedral_of_Santiago_de_Compostela,205136]]'
+different_from: '[[_Standards/WikiData/WD~Way_of_St._James,475699]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Way_of_Saint_James_in_Austria,1250609]]"
-  - "[[_Standards/WikiData/WD~ViaJacobi,7924357]]"
-  - "[[_Standards/WikiData/WD~Routes_of_Santiago_de_Compostela_Camino_Francés_and_Routes_of_Northern_Spain,39081159]]"
-  - "[[_Standards/WikiData/WD~Way_of_Saint_James_in_Spain,64866310]]"
-  - "[[_Standards/WikiData/WD~Way_of_Saint_James_in_Italy,64866323]]"
-  - "[[_Standards/WikiData/WD~Way_of_Saint_James_in_Czechia,64866320]]"
-  - "[[_Standards/WikiData/WD~Way_of_Saint_James_in_the_Netherlands,64866326]]"
-  - "[[_Standards/WikiData/WD~Way_of_Saint_James_in_Poland,64866328]]"
-  - "[[_Standards/WikiData/WD~Ways_of_Saint_James_in_France,64866334]]"
-  - "[[_Standards/WikiData/WD~Way_of_Saint_James_in_Germany,64866342]]"
-  - "[[_Standards/WikiData/WD~Way_of_Saint_James_in_Portugal,64866348]]"
-  - "[[_Standards/WikiData/WD~Way_of_Saint_James_in_the_United_Kingdom,64866361]]"
-  - "[[_Standards/WikiData/WD~Way_of_Saint_James_in_Luxemburg,64866405]]"
-  - "[[_Standards/WikiData/WD~Way_of_Saint_James_in_Belgium,64866573]]"
-  - "[[_Standards/WikiData/WD~Way_of_Saint_James_in_Slovenia,64866723]]"
-  - "[[_Standards/WikiData/WD~Way_of_Saint_James_in_Hungary,64866724]]"
-has_use: "[[_Standards/WikiData/WD~pilgrimage,1644573]]"
-instance_of: "[[_Standards/WikiData/WD~trail_system,67179750]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~long_distance_hiking_trail,131415018]]"
+  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Austria,1250609]]'
+  - '[[_Standards/WikiData/WD~ViaJacobi,7924357]]'
+  - '[[_Standards/WikiData/WD~Routes_of_Santiago_de_Compostela_Camino_Francés_and_Routes_of_Northern_Spain,39081159]]'
+  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Spain,64866310]]'
+  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Italy,64866323]]'
+  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Czechia,64866320]]'
+  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_the_Netherlands,64866326]]'
+  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Poland,64866328]]'
+  - '[[_Standards/WikiData/WD~Ways_of_Saint_James_in_France,64866334]]'
+  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Germany,64866342]]'
+  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Portugal,64866348]]'
+  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_the_United_Kingdom,64866361]]'
+  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Luxemburg,64866405]]'
+  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Belgium,64866573]]'
+  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Slovenia,64866723]]'
+  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Hungary,64866724]]'
+has_use: '[[_Standards/WikiData/WD~pilgrimage,1644573]]'
+instance_of: '[[_Standards/WikiData/WD~trail_system,67179750]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~long_distance_hiking_trail,131415018]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Santiago_de_Compostela,14314]]"
-  - "[[_Standards/WikiData/WD~St._James_the_Elder,_Apostle,43999]]"
-heritage_designation: "[[_Standards/WikiData/WD~Bien_de_Interés_Cultural,23712]]"
-country: "[[_Standards/WikiData/WD~Spain,29]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+  - '[[_Standards/WikiData/WD~Santiago_de_Compostela,14314]]'
+  - '[[_Standards/WikiData/WD~St._James_the_Elder,_Apostle,43999]]'
+heritage_designation: '[[_Standards/WikiData/WD~Bien_de_Interés_Cultural,23712]]'
+country: '[[_Standards/WikiData/WD~Spain,29]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Muszla%20Jakuba.svg
 traffic_sign: http://commons.wikimedia.org/wiki/Special:FilePath/Muszla%20Jakuba.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Catedral%20de%20Santiago%20de%20Compostela%20agosto%202018%20%28cropped%29.jpg

@@ -5,6 +5,8 @@ aliases:
   - train station
   - railroad station
   - railway station
+  - Railway_Station
+  - Railway Station
 has_id_wikidata: Q55488
 GeoNames_feature_code: S.RSTN
 Commons_category: Train stations
@@ -70,9 +72,9 @@ properties_for_this_type:
   - named after
   - adjacent station
 Wikidata_property: PLC (primary location code)
-OmegaWiki_Defined_Meaning: "4507"
-Nomenclature_for_Museum_Cataloging: "916"
-U_S_National_Archives_Identifier: "10641243"
+OmegaWiki_Defined_Meaning: 4507
+Nomenclature_for_Museum_Cataloging: 916
+U_S_National_Archives_Identifier: 10641243
 Commons_gallery: Railway station
 IMDb_keyword: train-station
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20Nord%20Platform.jpg
@@ -83,7 +85,7 @@ equivalent_class:
 Unicode_character: 🚉
 ---
 
-# [[Railway_Station]] 
+# [[Railway_Station]] 🚉 
 
 #is_/same_as :: [[../../../WikiData/WD~Railway_station,55488|WD~Railway_station,55488]]  
 

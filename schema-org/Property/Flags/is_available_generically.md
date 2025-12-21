@@ -4,21 +4,22 @@ aliases:
   - available_generically
   - isAvailableGenerically
   - is_available_generically
+  - is available generically
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - available_generically
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_available_generically
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

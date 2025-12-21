@@ -3,23 +3,24 @@ aliases:
   - has exercise-plan
   - exercisePlan
   - has_exercise_plan
+  - has exercise plan
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - exercise
   - plan
   - exercise_plan
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_exercise_plan
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

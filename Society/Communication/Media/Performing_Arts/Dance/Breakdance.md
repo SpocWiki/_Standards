@@ -4,6 +4,7 @@ aliases:
   - Breakdancing
   - b-boying
   - b-girling
+  - Breakdance
 has_id_wikidata: Q169737
 ---
 

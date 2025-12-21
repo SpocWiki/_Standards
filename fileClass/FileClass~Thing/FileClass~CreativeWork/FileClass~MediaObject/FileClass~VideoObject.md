@@ -1,64 +1,66 @@
 ---
-excludes: 
+aliases:
+  - FileClass~VideoObject
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 fields:
-- id: TMwhuy
-  name: Actor
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: wxxhxi
-  name: Caption
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject')"
-  type: MultiFile
-  path: ''
-- id: 4B0CmS
-  name: Director
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: JSioai
-  name: EmbeddedTextCaption
-  options: {}
-  type: Input
-  path: ''
-- id: OpZWEG
-  name: MusicBy
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')"
-  type: MultiFile
-  path: ''
-- id: pDVgqU
-  name: Transcript
-  options: {}
-  type: Input
-  path: ''
-- id: 3jNbfn
-  name: VideoFrameSize
-  options: {}
-  type: Input
-  path: ''
-- id: a9dNuV
-  name: VideoQuality
-  options: {}
-  type: Input
-  path: ''
+  - id: TMwhuy
+    name: Actor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: wxxhxi
+    name: Caption
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
+    type: MultiFile
+    path: ''
+  - id: 4B0CmS
+    name: Director
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: JSioai
+    name: EmbeddedTextCaption
+    options: {}
+    type: Input
+    path: ''
+  - id: OpZWEG
+    name: MusicBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
+    type: MultiFile
+    path: ''
+  - id: pDVgqU
+    name: Transcript
+    options: {}
+    type: Input
+    path: ''
+  - id: 3jNbfn
+    name: VideoFrameSize
+    options: {}
+    type: Input
+    path: ''
+  - id: a9dNuV
+    name: VideoQuality
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/VideoObject
-- class/Thing/CreativeWork/MediaObject/VideoObject
-- is_a_/VideoObject
-- schema-org/VideoObject
+  - class/VideoObject
+  - class/Thing/CreativeWork/MediaObject/VideoObject
+  - is_a_/VideoObject
+  - schema-org/VideoObject
 tags:
-- class/FileClass
-- class/VideoObject
-- is_a_/VideoObject
-- class/Thing/CreativeWork/MediaObject/VideoObject
+  - class/FileClass
+  - class/VideoObject
+  - is_a_/VideoObject
+  - class/Thing/CreativeWork/MediaObject/VideoObject
 version: 2.0
 ---
 

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Nobel laureate
+  - Nobel_Laureate
+  - Nobel Laureate
 ---
 
 

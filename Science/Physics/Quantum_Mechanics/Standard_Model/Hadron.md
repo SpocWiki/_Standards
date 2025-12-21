@@ -1,23 +1,25 @@
 ---
+aliases:
+  - Hadron
 has_id_wikidata: Q101667
-antiparticle: "[[_Standards/WikiData/WD~hadron,101667]]"
+antiparticle: '[[_Standards/WikiData/WD~hadron,101667]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~disjoint_union,842620]]"
-  - "[[_Standards/WikiData/WD~antiquark,2052084]]"
-  - "[[_Standards/WikiData/WD~quark,6718]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Lev_Okun,1469536]]"
+  - '[[_Standards/WikiData/WD~disjoint_union,842620]]'
+  - '[[_Standards/WikiData/WD~antiquark,2052084]]'
+  - '[[_Standards/WikiData/WD~quark,6718]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Lev_Okun,1469536]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~antiquark,2052084]]"
-  - "[[_Standards/WikiData/WD~quark,6718]]"
-subclass_of: "[[_Standards/WikiData/WD~composite_particle,3366856]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
-studied_by: "[[_Standards/WikiData/WD~hadronic_physics,43306616]]"
-different_from: "[[_Standards/WikiData/WD~Q55078119,55078119]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-interaction: "[[_Standards/WikiData/WD~gravity,11412]]"
+  - '[[_Standards/WikiData/WD~antiquark,2052084]]'
+  - '[[_Standards/WikiData/WD~quark,6718]]'
+subclass_of: '[[_Standards/WikiData/WD~composite_particle,3366856]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
+studied_by: '[[_Standards/WikiData/WD~hadronic_physics,43306616]]'
+different_from: '[[_Standards/WikiData/WD~Q55078119,55078119]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+interaction: '[[_Standards/WikiData/WD~gravity,11412]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hadrons.jpg
-Dewey_Decimal_Classification: "539.7216"
-P8189: "987007545830605171"
+Dewey_Decimal_Classification: 539.7216
+P8189: 987007545830605171
 Commons_category: Hadrons
 time_of_discovery_or_invention: 1962-01-01T00:00:00Z
 ---

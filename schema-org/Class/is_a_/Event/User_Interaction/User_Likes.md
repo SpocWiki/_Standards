@@ -4,20 +4,22 @@ aliases:
   - user_likes
   - UserLikes
   - is_a_user_likes
+  - User_Likes
+  - User Likes
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - user_likes
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_user_likes Class
 publish: true
-publishDate:
+publishDate: ''
 superseded_by: InteractionCounter
 tags:
   - class/Class

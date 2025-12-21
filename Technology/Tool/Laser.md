@@ -1,15 +1,16 @@
 ---
 aliases:
   - light amplification by stimulated emission of radiation
+  - Laser
 has_id_wikidata: Q38867
 subclass_of:
-  - "[[_Standards/WikiData/WD~light_source,1146001]]"
-  - "[[_Standards/WikiData/WD~optical_component,65037298]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Lasers,18857045]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~laser_beam,65595739]]"
-OmegaWiki_Defined_Meaning: "2111"
-Amazon_com_browse_node: "1069410"
+  - '[[_Standards/WikiData/WD~light_source,1146001]]'
+  - '[[_Standards/WikiData/WD~optical_component,65037298]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Lasers,18857045]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~laser_beam,65595739]]'
+OmegaWiki_Defined_Meaning: 2111
+Amazon_com_browse_node: 1069410
 Wolfram_Language_entity_type: Laser
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lasers.JPG
 video:
@@ -21,8 +22,8 @@ Commons_category: Lasers
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Laser.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/RU-%D0%9B%D0%B0%D0%B7%D0%B5%D1%80%20%28intro%29.ogg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/laser
-MIL_STD_2525_Symbol_Identification_Code: "10011500002010000000"
-U_S_National_Archives_Identifier: "10665607"
+MIL_STD_2525_Symbol_Identification_Code: 10011500002010000000
+U_S_National_Archives_Identifier: 10665607
 IEV_number:
   - 731-06-08
   - 845-27-136

@@ -4,20 +4,21 @@ aliases:
   - including_health_plan_network
   - includesHealthPlanNetwork
   - is_including_health_plan_network
+  - is including health plan network
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
-layout:
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_including_health_plan_network
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,30 +1,32 @@
 ---
 aliases:
   - golden ratio
+  - Golden_Ratio
+  - Golden Ratio
 has_id_wikidata: Q41690
 instance_of:
-  - "[[_Standards/WikiData/WD~algebraic_number,168817]]"
-  - "[[_Standards/WikiData/WD~mathematical_constant,186509]]"
-  - "[[_Standards/WikiData/WD~irrational_number,607728]]"
-  - "[[_Standards/WikiData/WD~constructible_number,1321926]]"
-  - "[[_Standards/WikiData/WD~Brjuno_number,4971764]]"
-  - "[[_Standards/WikiData/WD~metallic_ratio,11634820]]"
+  - '[[_Standards/WikiData/WD~algebraic_number,168817]]'
+  - '[[_Standards/WikiData/WD~mathematical_constant,186509]]'
+  - '[[_Standards/WikiData/WD~irrational_number,607728]]'
+  - '[[_Standards/WikiData/WD~constructible_number,1321926]]'
+  - '[[_Standards/WikiData/WD~Brjuno_number,4971764]]'
+  - '[[_Standards/WikiData/WD~metallic_ratio,11634820]]'
 has_use:
-  - "[[_Standards/WikiData/WD~mathematics_and_art,2864650]]"
-  - "[[_Standards/WikiData/WD~mathematics_and_architecture,3535118]]"
+  - '[[_Standards/WikiData/WD~mathematics_and_art,2864650]]'
+  - '[[_Standards/WikiData/WD~mathematics_and_architecture,3535118]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Q9393496,9393496]]"
-  - "[[_Standards/WikiData/WD~Goldens,50810258]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q96464922,96464922]]"
-has_part_s_: "[[_Standards/WikiData/WD~Golden_ratio_in_art,121911124]]"
+  - '[[_Standards/WikiData/WD~Q9393496,9393496]]'
+  - '[[_Standards/WikiData/WD~Goldens,50810258]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q96464922,96464922]]'
+has_part_s_: '[[_Standards/WikiData/WD~Golden_ratio_in_art,121911124]]'
 numeric_value: 1.618033988749895
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03C6;</mi><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mn>1</mn><mo stretchy="false">+</mo><mrow data-mjx-texclass="ORD"><msqrt><mn>5</mn></msqrt></mrow></mrow></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></mfrac></mrow></mstyle></mrow></math>
-notation: "[[_Standards/WikiData/WD~Φ_φ,10029]]"
+notation: '[[_Standards/WikiData/WD~Φ_φ,10029]]'
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03C6;</mi></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><msqrt><mn>5</mn></msqrt></mrow></mstyle></mrow></math>

@@ -1,23 +1,24 @@
 ---
 aliases:
   - has_action_application
+  - has action application
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - action
   - application
   - actionApplication
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_action_application
 publish: true
-publishDate:
+publishDate: ''
 supersedes: application
 tags:
   - class/Relation

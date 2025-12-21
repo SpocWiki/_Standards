@@ -1,7 +1,9 @@
 ---
 aliases:
-- "Great Cyclone of 1970"
-- "1970 Bhola cyclone"
+  - Great Cyclone of 1970
+  - 1970 Bhola cyclone
+  - 1970-Bhola_cyclone
+  - 1970-Bhola cyclone
 has_id_wikidata: Q245551
 ---
 

@@ -4,6 +4,7 @@ aliases:
   - Marlon Brando Jr.
   - Marlon Brando
   - Brando
+  - Brando,Marlon
 has_id_wikidata: Q34012
 Plex_person_key: 5d77682654c0f0001f301b85
 amateur_radio_callsign: FO5GJ
@@ -15,85 +16,85 @@ birth_name: Marlon Brando Junior
 date_of_death: 2004-07-01T00:00:00Z
 date_of_birth: 1924-04-03T00:00:00Z
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]"
-  - "[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Supporting_Actor_Razzie_Award,641316]]"
-  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Supporting_Actor_in_a_Miniseries_or_a_Movie,945887]]"
-  - "[[_Standards/WikiData/WD~Theatre_World_Award,1131356]]"
-  - "[[_Standards/WikiData/WD~Donaldson_Awards,5295360]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]'
+  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Supporting_Actor_Razzie_Award,641316]]'
+  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Supporting_Actor_in_a_Miniseries_or_a_Movie,945887]]'
+  - '[[_Standards/WikiData/WD~Theatre_World_Award,1131356]]'
+  - '[[_Standards/WikiData/WD~Donaldson_Awards,5295360]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]"
-  - "[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Supporting_Actor_Razzie_Award,641316]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Supporting_Actor_Razzie_Award,641316]]'
 place_of_burial:
-  - "[[_Standards/WikiData/WD~Death_Valley,118388]]"
-  - "[[_Standards/WikiData/WD~Tahiti,42000]]"
+  - '[[_Standards/WikiData/WD~Death_Valley,118388]]'
+  - '[[_Standards/WikiData/WD~Tahiti,42000]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~One_Eyed_Jacks,174513]]"
-  - "[[_Standards/WikiData/WD~Apocalypse_Now,182692]]"
-  - "[[_Standards/WikiData/WD~On_the_Waterfront,211372]]"
-  - "[[_Standards/WikiData/WD~A_Streetcar_Named_Desire,212129]]"
-  - "[[_Standards/WikiData/WD~Last_Tango_in_Paris,570567]]"
-  - "[[_Standards/WikiData/WD~Burn!,2054677]]"
-  - "[[_Standards/WikiData/WD~The_Godfather,47703]]"
+  - '[[_Standards/WikiData/WD~One_Eyed_Jacks,174513]]'
+  - '[[_Standards/WikiData/WD~Apocalypse_Now,182692]]'
+  - '[[_Standards/WikiData/WD~On_the_Waterfront,211372]]'
+  - '[[_Standards/WikiData/WD~A_Streetcar_Named_Desire,212129]]'
+  - '[[_Standards/WikiData/WD~Last_Tango_in_Paris,570567]]'
+  - '[[_Standards/WikiData/WD~Burn!,2054677]]'
+  - '[[_Standards/WikiData/WD~The_Godfather,47703]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Actors_Studio,216458]]"
-  - "[[_Standards/WikiData/WD~The_New_School,599316]]"
-  - "[[_Standards/WikiData/WD~Libertyville_High_School,6542223]]"
+  - '[[_Standards/WikiData/WD~Actors_Studio,216458]]'
+  - '[[_Standards/WikiData/WD~The_New_School,599316]]'
+  - '[[_Standards/WikiData/WD~Libertyville_High_School,6542223]]'
   - "[[_Standards/WikiData/WD~Shattuck_Saint_Mary's_School,7490730]]"
-  - "[[_Standards/WikiData/WD~Stella_Adler_Studio_of_Acting,7607037]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Irene_Papas,230563]]"
+  - '[[_Standards/WikiData/WD~Stella_Adler_Studio_of_Acting,7607037]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Irene_Papas,230563]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Movita_Castaneda,269037]]"
-  - "[[_Standards/WikiData/WD~Tarita_Teriipaia,508628]]"
-  - "[[_Standards/WikiData/WD~Anna_Kashfi,534436]]"
+  - '[[_Standards/WikiData/WD~Movita_Castaneda,269037]]'
+  - '[[_Standards/WikiData/WD~Tarita_Teriipaia,508628]]'
+  - '[[_Standards/WikiData/WD~Anna_Kashfi,534436]]'
 student_of:
-  - "[[_Standards/WikiData/WD~Lee_Strasberg,297945]]"
-  - "[[_Standards/WikiData/WD~Stella_Adler,32788]]"
-  - "[[_Standards/WikiData/WD~Erwin_Piscator,60978]]"
-sibling: "[[_Standards/WikiData/WD~Jocelyn_Brando,449209]]"
+  - '[[_Standards/WikiData/WD~Lee_Strasberg,297945]]'
+  - '[[_Standards/WikiData/WD~Stella_Adler,32788]]'
+  - '[[_Standards/WikiData/WD~Erwin_Piscator,60978]]'
+sibling: '[[_Standards/WikiData/WD~Jocelyn_Brando,449209]]'
 residence:
-  - "[[_Standards/WikiData/WD~Evanston,462799]]"
-  - "[[_Standards/WikiData/WD~Libertyville,1787181]]"
+  - '[[_Standards/WikiData/WD~Evanston,462799]]'
+  - '[[_Standards/WikiData/WD~Libertyville,1787181]]'
 notable_role:
-  - "[[_Standards/WikiData/WD~Vito_Corleone,745077]]"
-  - "[[_Standards/WikiData/WD~Colonel_Kurtz,3459134]]"
-  - "[[_Standards/WikiData/WD~Stanley_Kowalski,3496842]]"
-  - "[[_Standards/WikiData/WD~Terry_Malloy,123235243]]"
-cause_of_death: "[[_Standards/WikiData/WD~respiratory_failure,767485]]"
-owner_of: "[[_Standards/WikiData/WD~Tetiaroa,1135240]]"
+  - '[[_Standards/WikiData/WD~Vito_Corleone,745077]]'
+  - '[[_Standards/WikiData/WD~Colonel_Kurtz,3459134]]'
+  - '[[_Standards/WikiData/WD~Stanley_Kowalski,3496842]]'
+  - '[[_Standards/WikiData/WD~Terry_Malloy,123235243]]'
+cause_of_death: '[[_Standards/WikiData/WD~respiratory_failure,767485]]'
+owner_of: '[[_Standards/WikiData/WD~Tetiaroa,1135240]]'
 child:
-  - "[[_Standards/WikiData/WD~Christian_Brando,1797883]]"
-  - "[[_Standards/WikiData/WD~Cheyenne_Brando,5094569]]"
-  - "[[_Standards/WikiData/WD~Stephen_Blackehart,7608723]]"
-  - "[[_Standards/WikiData/WD~Miko_Castaneda_Brando,26258272]]"
-  - "[[_Standards/WikiData/WD~Simon_Teihotu_Brando,26258277]]"
-  - "[[_Standards/WikiData/WD~Rebecca_Brando,26258280]]"
+  - '[[_Standards/WikiData/WD~Christian_Brando,1797883]]'
+  - '[[_Standards/WikiData/WD~Cheyenne_Brando,5094569]]'
+  - '[[_Standards/WikiData/WD~Stephen_Blackehart,7608723]]'
+  - '[[_Standards/WikiData/WD~Miko_Castaneda_Brando,26258272]]'
+  - '[[_Standards/WikiData/WD~Simon_Teihotu_Brando,26258277]]'
+  - '[[_Standards/WikiData/WD~Rebecca_Brando,26258280]]'
 occupation:
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~activist,15253558]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-mother: "[[_Standards/WikiData/WD~Dodie_Brando,3033660]]"
-filmography: "[[_Standards/WikiData/WD~Marlon_Brando_filmography,3305025]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-given_name: "[[_Standards/WikiData/WD~Marlon,3849698]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-father: "[[_Standards/WikiData/WD~Marlon_Brando,_Sr.,6771920]]"
-family_name: "[[_Standards/WikiData/WD~Brando,16860352]]"
-genre: "[[_Standards/WikiData/WD~Western,21590660]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_death: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~director,3455803]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~activist,15253558]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+mother: '[[_Standards/WikiData/WD~Dodie_Brando,3033660]]'
+filmography: '[[_Standards/WikiData/WD~Marlon_Brando_filmography,3305025]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+given_name: '[[_Standards/WikiData/WD~Marlon,3849698]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+father: '[[_Standards/WikiData/WD~Marlon_Brando,_Sr.,6771920]]'
+family_name: '[[_Standards/WikiData/WD~Brando,16860352]]'
+genre: '[[_Standards/WikiData/WD~Western,21590660]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_death: '[[_Standards/WikiData/WD~Los_Angeles,65]]'
 number_of_children: 11
 height: 175
-place_of_birth: "[[_Standards/WikiData/WD~Omaha,43199]]"
+place_of_birth: '[[_Standards/WikiData/WD~Omaha,43199]]'
 social_media_followers: 6621
 Commons_gallery: Marlon Brando
 Commons_category: Marlon Brando
@@ -103,7 +104,7 @@ work_period_end_: 2001-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Marlon%20Brando%20publicity%20for%20One-Eyed%20Jacks.png
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Marlon%20Brando%20signature.svg
 official_website: http://marlonbrando.com/
-ISNI: "0000000121297892"
+ISNI: 0000000121297892
 Libris_URI: 1zcfhbgk434b2t7
 ---
 

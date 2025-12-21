@@ -1,5 +1,4 @@
 ---
-age_of_majority: 18
 aliases:
   - Romania
   - Rumania
@@ -8,6 +7,7 @@ aliases:
   - 罗马尼亚
   - Румыния
 has_id_wikidata: Q218
+age_of_majority: 18
 anthem: "[[_Standards/WikiData/WD~Deșteaptă-te,_române!,184540]]"
 area: 238397
 Baidu_Tieba_name: 罗马尼亚
@@ -226,7 +226,7 @@ electrical_plug_type:
   - "[[_Standards/WikiData/WD~Schuko,1123613]]"
   - "[[_Standards/WikiData/WD~Europlug,1378312]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Romania,2528718]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 9833682
   - 9876919
@@ -271,7 +271,7 @@ ISO_3166_1_alpha_3_code: ROU
 ISO_3166_1_numeric_code: 642
 isReadOnly: false
 ITU_letter_code: ROU
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/RUMINIYA.html
 Languages:
   - ro
@@ -284,13 +284,13 @@ language_used:
   - "[[_Standards/WikiData/WD~Romani,13201]]"
   - "[[_Standards/WikiData/WD~Romanian_Sign_Language,7362575]]"
   - "[[_Standards/WikiData/WD~Romanian,7913]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Romania,1813360]]"
 Libris_URI: ljx0z0441nfsv5d
 licence_plate_code: RO
 license: CC BY-SA 4.0
 life_expectancy: 75
-linkTitle:
+linkTitle: ""
 list_of_monuments: "[[_Standards/WikiData/WD~list_of_historical_monuments_in_Romania,6623358]]"
 located_in_time_zone: "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
 location:
@@ -383,7 +383,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%B0%E0%AD%8B%E0%AC%AE%E0%AC%BE%E0%AC%A8%E0%AC%BF%E0%AC%86.wav
 Provenio_UUID: 3ba90882-e72b-4dc6-9181-008a2e0c9a86
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side: "[[_Standards/WikiData/WD~right,14565199]]"
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Relief%20Map%20of%20Romania.png
 replaces:

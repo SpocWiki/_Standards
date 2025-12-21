@@ -1,29 +1,30 @@
 ---
 aliases:
   - Farbe
+  - Paint
 has_id_wikidata: Q174219
-has_part_s_: "[[_Standards/WikiData/WD~pigment,161179]]"
+has_part_s_: '[[_Standards/WikiData/WD~pigment,161179]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~pigment,161179]]"
-  - "[[_Standards/WikiData/WD~binder,863583]]"
+  - '[[_Standards/WikiData/WD~pigment,161179]]'
+  - '[[_Standards/WikiData/WD~binder,863583]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~material,214609]]"
-  - "[[_Standards/WikiData/WD~coating,1570182]]"
-  - "[[_Standards/WikiData/WD~paint_or_oil_or_applicant,12041698]]"
+  - '[[_Standards/WikiData/WD~material,214609]]'
+  - '[[_Standards/WikiData/WD~coating,1570182]]'
+  - '[[_Standards/WikiData/WD~paint_or_oil_or_applicant,12041698]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 has_use:
-  - "[[_Standards/WikiData/WD~dyeing,1164991]]"
-  - "[[_Standards/WikiData/WD~painting,3374341]]"
-instance_of: "[[_Standards/WikiData/WD~chemical_composition,1263816]]"
-different_from: "[[_Standards/WikiData/WD~painting,3305213]]"
-studied_by: "[[_Standards/WikiData/WD~paint_technology,119851674]]"
-Product_and_Service_Code: "8010"
-Nomenclature_for_Museum_Cataloging: "6659"
+  - '[[_Standards/WikiData/WD~dyeing,1164991]]'
+  - '[[_Standards/WikiData/WD~painting,3374341]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_composition,1263816]]'
+different_from: '[[_Standards/WikiData/WD~painting,3305213]]'
+studied_by: '[[_Standards/WikiData/WD~paint_technology,119851674]]'
+Product_and_Service_Code: 8010
+Nomenclature_for_Museum_Cataloging: 6659
 Commons_category: Paint
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/GreenPaintBucketRome.jpg

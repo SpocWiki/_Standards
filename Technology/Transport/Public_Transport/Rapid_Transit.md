@@ -2,6 +2,8 @@
 aliases:
   - Rapid transit, mass rapid transit (MRT) or rail rapid transit
   - metro
+  - Rapid_Transit
+  - Rapid Transit
 has_id_wikidata: Q5503
 has_list: "[[_Standards/WikiData/WD~list_of_metro_systems,206974]]"
 has_part_s_:
@@ -21,7 +23,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q31144401,31144401]]"
 category_for_eponymous_categories: "[[_Standards/WikiData/WD~Q116161715,116161715]]"
-OmegaWiki_Defined_Meaning: "3890"
+OmegaWiki_Defined_Meaning: 3890
 native_label: métro
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/00%202080%20Metrostation%20in%20Moskau%20-%D0%A1%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%D0%BC%D0%B5%D1%82%D1%80%D0%BE%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0.jpg
@@ -35,7 +37,7 @@ Baidu_Tieba_name: 地铁
 OpenStreetMap_tag: railway=subway
 ---
 
-# [[Rapid_Transit]] 
+# [[Rapid_Transit]] 🚇 
 
 #is_/same_as :: [[../../../WikiData/WD~Rapid_transit,5503]] 
 

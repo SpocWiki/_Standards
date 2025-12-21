@@ -2,6 +2,8 @@
 aliases:
   - Kalziumkarbonat
   - CaCO3
+  - Calcium_Carbonate
+  - Calcium Carbonate
 has_id_wikidata: Q23767
 ---
 

@@ -1,4 +1,16 @@
 ---
+aliases:
+  - Avocado
+  - avacatal
+  - alligator pear
+  - hedelmäavokado
+  - avocatier
+  - 酪梨
+  - 鳄梨
+  - 樟梨
+  - 油梨
+  - avocado
+  - אבוקדו
 has_id_wikidata: Q37153
 GenBank_assembly_accession_number:
   - GCA_018408905.1
@@ -56,8 +68,8 @@ taxon_range:
   - "[[_Standards/WikiData/WD~Fujian,41705]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 country_of_origin: "[[_Standards/WikiData/WD~Mexico,96]]"
-ITIS_TSN: "18154"
-OmegaWiki_Defined_Meaning: "1323693"
+ITIS_TSN: 18154
+OmegaWiki_Defined_Meaning: 1323693
 taxon_author_citation: Mill.
 subreddit: avocado
 short_name: P. americana
@@ -67,11 +79,11 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-avocatier.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Persea%20americana%20fruit%202.JPG
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=27393
-P8189: "987007282448105171"
+P8189: 987007282448105200
 UNII: 9W8ZP67K1Z
 ---
 
-# [[Avocado]] 
+# [[Avocado]] 🥑 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Avocado,37153|WD~Avocado,37153]] 
 

@@ -1,11 +1,20 @@
 ---
+aliases:
+  - Belgium
+  - Bélgica
+  - Belgique
+  - بلجيكا
+  - 比利时
+  - Бельгия
+  - the Kingdom of Belgium
+  - el Reino de Bélgica
+has_id_wikidata: Q31
 location:
   - 50.8165
   - 4.29368
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q31
 SpocWebEntityId: 26844
 isDeleted: false
 confidential: public
@@ -16,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Belgium
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Belgium
-  - Bélgica
-  - Belgique
-  - بلجيكا
-  - 比利时
-  - Бельгия
-  - the Kingdom of Belgium
-  - el Reino de Bélgica
+publishDate: ""
+expiryDate: ""
 Languages:
   - nl-BE
   - fr-BE

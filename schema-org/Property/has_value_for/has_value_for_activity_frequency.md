@@ -4,21 +4,22 @@ aliases:
   - activity-frequency
   - activityFrequency
   - has_value_for_activity_frequency
+  - has value for activity frequency
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - activity-frequency
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_activity-frequency
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

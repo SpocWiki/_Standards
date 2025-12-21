@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Operation Barbarossa"
+  - Operation Barbarossa
+  - Operation_Barbarossa
 ---
 
 #has_/time_/started :: 1941-06-22 

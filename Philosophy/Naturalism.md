@@ -6,16 +6,17 @@ aliases:
   - philosophical naturalism
   - antisupernaturalism
   - Naturalismus
+  - Naturalism
 has_id_wikidata: Q56000
 different_from:
-  - "[[_Standards/WikiData/WD~naturalism,223978]]"
-  - "[[_Standards/WikiData/WD~natural_history,484591]]"
+  - '[[_Standards/WikiData/WD~naturalism,223978]]'
+  - '[[_Standards/WikiData/WD~natural_history,484591]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~philosophical_movement,2915955]]"
-  - "[[_Standards/WikiData/WD~world_view,49447]]"
-described_by_source: "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-opposite_of: "[[_Standards/WikiData/WD~supernaturalism,21071527]]"
-Dewey_Decimal_Classification: "146"
+  - '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
+  - '[[_Standards/WikiData/WD~world_view,49447]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+opposite_of: '[[_Standards/WikiData/WD~supernaturalism,21071527]]'
+Dewey_Decimal_Classification: 146
 Commons_category: Naturalism (philosophy)
 ---
 

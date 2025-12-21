@@ -1,32 +1,34 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ArchiveComponent
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: yTGaO9
-  name: HoldingArchive
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ArchiveOrganization')"
-  type: MultiFile
-  path: ''
-- id: FcaO97
-  name: ItemLocation
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place')"
-  type: MultiFile
-  path: ''
+  - id: yTGaO9
+    name: HoldingArchive
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ArchiveOrganization')
+    type: MultiFile
+    path: ''
+  - id: FcaO97
+    name: ItemLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ArchiveComponent
-- class/Thing/CreativeWork/ArchiveComponent
-- is_an_/ArchiveComponent
-- schema-org/ArchiveComponent
+  - class/ArchiveComponent
+  - class/Thing/CreativeWork/ArchiveComponent
+  - is_an_/ArchiveComponent
+  - schema-org/ArchiveComponent
 tags:
-- class/FileClass
-- class/ArchiveComponent
-- '#is_an_/ArchiveComponent'
-- class/Thing/CreativeWork/ArchiveComponent
+  - class/FileClass
+  - class/ArchiveComponent
+  - '#is_an_/ArchiveComponent'
+  - class/Thing/CreativeWork/ArchiveComponent
 version: 2.0
 ---
 

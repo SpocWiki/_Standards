@@ -1,6 +1,8 @@
 ---
 aliases:
-- Advantages
+  - Advantages
+  - has_Pros
+  - has Pros
 ---
 
 Enumerates positive, reinforcing Reasons for this Statement. 

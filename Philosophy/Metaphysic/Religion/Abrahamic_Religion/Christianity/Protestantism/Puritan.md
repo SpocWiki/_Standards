@@ -1,21 +1,22 @@
 ---
 aliases:
   - Puritaner
+  - Puritan
 has_id_wikidata: Q137073
 subclass_of:
-  - "[[_Standards/WikiData/WD~Reformed_Christianity,101849]]"
-  - "[[_Standards/WikiData/WD~Protestantism,23540]]"
-opposite_of: "[[_Standards/WikiData/WD~anglo_catholicism,541235]]"
+  - '[[_Standards/WikiData/WD~Reformed_Christianity,101849]]'
+  - '[[_Standards/WikiData/WD~Protestantism,23540]]'
+opposite_of: '[[_Standards/WikiData/WD~anglo_catholicism,541235]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-instance_of: "[[_Standards/WikiData/WD~religious_denomination,13414953]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Christianity,5043]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~religious_denomination,13414953]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
 Colon_Classification: Q65
 image: http://commons.wikimedia.org/wiki/Special:FilePath/PuritanGallery.jpg
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/PURITANTIZM.html

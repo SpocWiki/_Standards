@@ -2,6 +2,7 @@
 aliases:
   - Regen
   - pluie
+  - Rain
 has_id_wikidata: Q7925
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Dion-Bouton%2C%20regen%20op%20het%20linnen%20autodak%20-%20SoundCloud%20-%20Beeld%20en%20Geluid.ogg
 Colon_Classification: U2855
@@ -58,7 +59,7 @@ Unicode_character:
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Rain%202.gif
 ---
 
-# [[Rain]] 
+# [[Rain]] 🌧 
 
 #is_/same_as :: [[../../../WikiData/WD~Rain,7925|WD~Rain,7925]] 
 

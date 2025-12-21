@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Peter Criss"
+  - Peter Criss
+  - Criss,Peter
 ---
 
 > George Peter John Criscuola (born 1945-12-20), 

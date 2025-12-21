@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Rwanda
+  - رواندا
+  - 卢旺达
+  - Руанда
+  - the Republic of Rwanda
+  - la República de Rwanda
+has_id_wikidata: Q1037
 shares_border_with:
   - "[[_Standards/WikiData/WD~Tanzania,924]]"
   - "[[_Standards/WikiData/WD~Burundi,967]]"
@@ -252,7 +260,7 @@ female_population:
   - 6879649
   - 7035658
 U_S_National_Archives_Identifier: 10044269
-inception: "1962"
+inception: 1962
 has_time_started: 1962-06
 population: 13246394
 pronunciation_audio:
@@ -268,7 +276,6 @@ locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Rwanda%20on%20the%20globe%20%28Africa%20centered%29.svg
 country_calling_code: 250
 Dewey_Decimal_Classification: 2--67571
-has_id_wikidata: Q1037
 location:
   - -1.94388
   - 30.0595
@@ -284,19 +291,12 @@ source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
 title: Rwanda
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Rwanda
-  - رواندا
-  - 卢旺达
-  - Руанда
-  - the Republic of Rwanda
-  - la República de Rwanda
+publishDate: ""
+expiryDate: ""
 Languages:
   - rw
   - en-RW

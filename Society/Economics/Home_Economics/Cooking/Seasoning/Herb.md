@@ -2,6 +2,7 @@
 aliases:
   - Kraut
   - Kräuter
+  - Herb
 has_id_wikidata: Q207123
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -12,19 +13,19 @@ different_from:
   - "[[_Standards/WikiData/WD~condiment_plant,31835960]]"
 subclass_of: "[[_Standards/WikiData/WD~plant,756]]"
 color: "[[_Standards/WikiData/WD~green,3133]]"
-IAB_code: "234"
-OmegaWiki_Defined_Meaning: "8246"
+IAB_code: 234
+OmegaWiki_Defined_Meaning: 8246
 Unicode_character: 🌿
 image: http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%BCchenkr%C3%A4uter-1.jpg
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%B9%D8%B4%D8%A8.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Be-%D1%82%D1%80%D0%B0%D0%B2%D0%B0.ogg
-P8189: "987007558054305171"
+P8189: 987007558054305200
 Commons_gallery: Herbs
 Commons_category: Herbs
 ---
 
-# [[Herb]] 
+# [[Herb]] 🌿 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Herb,207123|WD~Herb,207123]] 
 

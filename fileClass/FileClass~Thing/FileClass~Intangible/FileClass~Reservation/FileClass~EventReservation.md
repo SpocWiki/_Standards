@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~EventReservation
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/EventReservation
-- class/Thing/Intangible/Reservation/EventReservation
-- is_an_/EventReservation
-- schema-org/EventReservation
+  - class/EventReservation
+  - class/Thing/Intangible/Reservation/EventReservation
+  - is_an_/EventReservation
+  - schema-org/EventReservation
 tags:
-- class/FileClass
-- class/EventReservation
-- '#is_an_/EventReservation'
-- class/Thing/Intangible/Reservation/EventReservation
+  - class/FileClass
+  - class/EventReservation
+  - '#is_an_/EventReservation'
+  - class/Thing/Intangible/Reservation/EventReservation
 version: 2.0
 ---
 

@@ -4,20 +4,22 @@ aliases:
   - movie_clip
   - MovieClip
   - is_a_movie_clip
+  - Movie_Clip
+  - Movie Clip
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - movie_clip
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_movie_clip Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

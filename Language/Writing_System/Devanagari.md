@@ -1,79 +1,81 @@
 ---
+aliases:
+  - Devanagari
 has_id_wikidata: Q38592
 language_of_work_or_name:
-- '[[_Standards/WikiData/WD~Prakrit,192170]]'
-- "[[_Standards/WikiData/WD~Nagpuri_language,765922]]"
-- '[[_Standards/WikiData/WD~Gondi,1775361]]'
-- '[[_Standards/WikiData/WD~Mundari,3327828]]'
-- '[[_Standards/WikiData/WD~Surjapuri,7645351]]'
-- '[[_Standards/WikiData/WD~Marathi,1571]]'
-- '[[_Standards/WikiData/WD~Hindi,1568]]'
-- '[[_Standards/WikiData/WD~Gujarati,5137]]'
-- '[[_Standards/WikiData/WD~Hindustani,11051]]'
-- '[[_Standards/WikiData/WD~Sanskrit,11059]]'
-- '[[_Standards/WikiData/WD~Rajasthani,13196]]'
-- '[[_Standards/WikiData/WD~Sourashtra,13292]]'
-- '[[_Standards/WikiData/WD~Angika,28378]]'
-- '[[_Standards/WikiData/WD~Awadhi,29579]]'
-- '[[_Standards/WikiData/WD~Dogri,32730]]'
-- '[[_Standards/WikiData/WD~Chhattisgarhi,33158]]'
-- '[[_Standards/WikiData/WD~Bodo,33223]]'
-- '[[_Standards/WikiData/WD~Bhili,33229]]'
-- '[[_Standards/WikiData/WD~Bhojpuri,33268]]'
-- '[[_Standards/WikiData/WD~Haryanvi,33410]]'
-- '[[_Standards/WikiData/WD~Kurukh,33492]]'
-- '[[_Standards/WikiData/WD~Kashmiri,33552]]'
-- '[[_Standards/WikiData/WD~Magahi,33728]]'
-- '[[_Standards/WikiData/WD~Nepali,33823]]'
-- '[[_Standards/WikiData/WD~Saraiki,33902]]'
-- '[[_Standards/WikiData/WD~Santali,33965]]'
-- '[[_Standards/WikiData/WD~Newar,33979]]'
-- '[[_Standards/WikiData/WD~Sindhi,33997]]'
-- '[[_Standards/WikiData/WD~Konkani,34239]]'
-- "[[_Standards/WikiData/WD~Braj_Bhasha,35243]]"
-- '[[_Standards/WikiData/WD~Maithili,36109]]'
-- '[[_Standards/WikiData/WD~Sherpa,36612]]'
-- '[[_Standards/WikiData/WD~Pali,36727]]'
-- "[[_Standards/WikiData/WD~Fiji_Hindi,46728]]"
-- '[[_Standards/WikiData/WD~Marwari,56312]]'
-- '[[_Standards/WikiData/WD~Punjabi,58635]]'
+  - '[[_Standards/WikiData/WD~Prakrit,192170]]'
+  - '[[_Standards/WikiData/WD~Nagpuri_language,765922]]'
+  - '[[_Standards/WikiData/WD~Gondi,1775361]]'
+  - '[[_Standards/WikiData/WD~Mundari,3327828]]'
+  - '[[_Standards/WikiData/WD~Surjapuri,7645351]]'
+  - '[[_Standards/WikiData/WD~Marathi,1571]]'
+  - '[[_Standards/WikiData/WD~Hindi,1568]]'
+  - '[[_Standards/WikiData/WD~Gujarati,5137]]'
+  - '[[_Standards/WikiData/WD~Hindustani,11051]]'
+  - '[[_Standards/WikiData/WD~Sanskrit,11059]]'
+  - '[[_Standards/WikiData/WD~Rajasthani,13196]]'
+  - '[[_Standards/WikiData/WD~Sourashtra,13292]]'
+  - '[[_Standards/WikiData/WD~Angika,28378]]'
+  - '[[_Standards/WikiData/WD~Awadhi,29579]]'
+  - '[[_Standards/WikiData/WD~Dogri,32730]]'
+  - '[[_Standards/WikiData/WD~Chhattisgarhi,33158]]'
+  - '[[_Standards/WikiData/WD~Bodo,33223]]'
+  - '[[_Standards/WikiData/WD~Bhili,33229]]'
+  - '[[_Standards/WikiData/WD~Bhojpuri,33268]]'
+  - '[[_Standards/WikiData/WD~Haryanvi,33410]]'
+  - '[[_Standards/WikiData/WD~Kurukh,33492]]'
+  - '[[_Standards/WikiData/WD~Kashmiri,33552]]'
+  - '[[_Standards/WikiData/WD~Magahi,33728]]'
+  - '[[_Standards/WikiData/WD~Nepali,33823]]'
+  - '[[_Standards/WikiData/WD~Saraiki,33902]]'
+  - '[[_Standards/WikiData/WD~Santali,33965]]'
+  - '[[_Standards/WikiData/WD~Newar,33979]]'
+  - '[[_Standards/WikiData/WD~Sindhi,33997]]'
+  - '[[_Standards/WikiData/WD~Konkani,34239]]'
+  - '[[_Standards/WikiData/WD~Braj_Bhasha,35243]]'
+  - '[[_Standards/WikiData/WD~Maithili,36109]]'
+  - '[[_Standards/WikiData/WD~Sherpa,36612]]'
+  - '[[_Standards/WikiData/WD~Pali,36727]]'
+  - '[[_Standards/WikiData/WD~Fiji_Hindi,46728]]'
+  - '[[_Standards/WikiData/WD~Marwari,56312]]'
+  - '[[_Standards/WikiData/WD~Punjabi,58635]]'
 instance_of:
-- '[[_Standards/WikiData/WD~abugida,335806]]'
-- "[[_Standards/WikiData/WD~unicase_alphabet,4004706]]"
-- "[[_Standards/WikiData/WD~natural_writing_system,29517555]]"
-subclass_of: "[[_Standards/WikiData/WD~Brahmic_scripts,467037]]"
-named_after: "[[_Standards/WikiData/WD~God_in_Hinduism,2022644]]"
+  - '[[_Standards/WikiData/WD~abugida,335806]]'
+  - '[[_Standards/WikiData/WD~unicase_alphabet,4004706]]'
+  - '[[_Standards/WikiData/WD~natural_writing_system,29517555]]'
+subclass_of: '[[_Standards/WikiData/WD~Brahmic_scripts,467037]]'
+named_after: '[[_Standards/WikiData/WD~God_in_Hinduism,2022644]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 script_directionality: '[[_Standards/WikiData/WD~left-to-right,17321844]]'
-has_part_s_: "[[_Standards/WikiData/WD~Devanagari_letter,41798601]]"
+has_part_s_: '[[_Standards/WikiData/WD~Devanagari_letter,41798601]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Lang-Deva,64167665]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Devanagari%20letters.svg"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Devanagari%20banner%20Rigveda%20MS2097.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Devanagari%20letters.svg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Devanagari%20banner%20Rigveda%20MS2097.jpg
 country_of_origin: '[[_Standards/WikiData/WD~India,668]]'
 located_in_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Fiji,712]]'
-- '[[_Standards/WikiData/WD~Nepal,837]]'
-location_of_creation: "[[_Standards/WikiData/WD~Indian_subcontinent,60140]]"
+  - '[[_Standards/WikiData/WD~India,668]]'
+  - '[[_Standards/WikiData/WD~Fiji,712]]'
+  - '[[_Standards/WikiData/WD~Nepal,837]]'
+location_of_creation: '[[_Standards/WikiData/WD~Indian_subcontinent,60140]]'
 ISO_15924_numeric_code: 315
 Unicode_range:
   - U+A8E0-A8FF
   - U+0900-097F
   - U+1CD0-1CFF
 native_label: देवनागरी
-distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Devanagari%20Verbreitung.svg"
+distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Devanagari%20Verbreitung.svg
 ISO_15924_alpha_4_code: Deva
 Commons_category: Devanagari
 name:
-- Devanagari
-- "Devanagari (Nagari)"
-- dévanâgarî
-inception: "1100"
-has_time_started: 1100-06 
+  - Devanagari
+  - Devanagari (Nagari)
+  - dévanâgarî
+inception: 1100
+has_time_started: 1100-06
 ---
 
 # [[Devanagari]] 

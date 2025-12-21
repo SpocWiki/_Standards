@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Michael Bay"
+  - Michael Bay
+  - Bay,Michael
 ---
 
 #has_/time_/started :: 1965-02-17 

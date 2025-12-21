@@ -1,122 +1,124 @@
 ---
+aliases:
+  - WikiData
 has_id_wikidata: Q2013
 instance_of:
-  - "[[_Standards/WikiData/WD~knowledge_base,593744]]"
-  - "[[_Standards/WikiData/WD~online_database,7094076]]"
-  - "[[_Standards/WikiData/WD~MediaWiki_wiki,15633582]]"
-  - "[[_Standards/WikiData/WD~knowledge_graph,33002955]]"
-  - "[[_Standards/WikiData/WD~Wikimedia_content_project,33120876]]"
+  - '[[_Standards/WikiData/WD~knowledge_base,593744]]'
+  - '[[_Standards/WikiData/WD~online_database,7094076]]'
+  - '[[_Standards/WikiData/WD~MediaWiki_wiki,15633582]]'
+  - '[[_Standards/WikiData/WD~knowledge_graph,33002955]]'
+  - '[[_Standards/WikiData/WD~Wikimedia_content_project,33120876]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~presentation,604733]]"
-  - "[[_Standards/WikiData/WD~anniversary,1062856]]"
-  - "[[_Standards/WikiData/WD~QID_milestone,38074555]]"
+  - '[[_Standards/WikiData/WD~presentation,604733]]'
+  - '[[_Standards/WikiData/WD~anniversary,1062856]]'
+  - '[[_Standards/WikiData/WD~QID_milestone,38074555]]'
 replaces:
-  - "[[_Standards/WikiData/WD~interwiki_link,677652]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Persondata,21830599]]"
+  - '[[_Standards/WikiData/WD~interwiki_link,677652]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Persondata,21830599]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~secondary_source,905511]]"
-  - "[[_Standards/WikiData/WD~tertiary_source,1063801]]"
-  - "[[_Standards/WikiData/WD~collaboration,1145523]]"
-  - "[[_Standards/WikiData/WD~curating,63386008]]"
-  - "[[_Standards/WikiData/WD~quaternary_reference,105459799]]"
+  - '[[_Standards/WikiData/WD~secondary_source,905511]]'
+  - '[[_Standards/WikiData/WD~tertiary_source,1063801]]'
+  - '[[_Standards/WikiData/WD~collaboration,1145523]]'
+  - '[[_Standards/WikiData/WD~curating,63386008]]'
+  - '[[_Standards/WikiData/WD~quaternary_reference,105459799]]'
 sponsor:
-  - "[[_Standards/WikiData/WD~Gordon_and_Betty_Moore_Foundation,3070474]]"
-  - "[[_Standards/WikiData/WD~Allen_Institute_for_Artificial_Intelligence,16002567]]"
-  - "[[_Standards/WikiData/WD~Google,95]]"
+  - '[[_Standards/WikiData/WD~Gordon_and_Betty_Moore_Foundation,3070474]]'
+  - '[[_Standards/WikiData/WD~Allen_Institute_for_Artificial_Intelligence,16002567]]'
+  - '[[_Standards/WikiData/WD~Google,95]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~semantic_triple,3539534]]"
-  - "[[_Standards/WikiData/WD~user_account,3604202]]"
-  - "[[_Standards/WikiData/WD~Wikidata_item,16222597]]"
-  - "[[_Standards/WikiData/WD~active_user,22075476]]"
-  - "[[_Standards/WikiData/WD~Wikibase_lexeme,51885771]]"
-  - "[[_Standards/WikiData/WD~MediaWiki_page_revision,83378585]]"
-  - "[[_Standards/WikiData/WD~word,8171]]"
+  - '[[_Standards/WikiData/WD~semantic_triple,3539534]]'
+  - '[[_Standards/WikiData/WD~user_account,3604202]]'
+  - '[[_Standards/WikiData/WD~Wikidata_item,16222597]]'
+  - '[[_Standards/WikiData/WD~active_user,22075476]]'
+  - '[[_Standards/WikiData/WD~Wikibase_lexeme,51885771]]'
+  - '[[_Standards/WikiData/WD~MediaWiki_page_revision,83378585]]'
+  - '[[_Standards/WikiData/WD~word,8171]]'
 used_by:
-  - "[[_Standards/WikiData/WD~OpenRefine,5583871]]"
-  - "[[_Standards/WikiData/WD~Wikidata_Game,17595556]]"
-  - "[[_Standards/WikiData/WD~iD,18275868]]"
-  - "[[_Standards/WikiData/WD~QuickStatements,20084080]]"
-  - "[[_Standards/WikiData/WD~Primary_Sources_Tool,20656106]]"
-  - "[[_Standards/WikiData/WD~Platypus,20726406]]"
-  - "[[_Standards/WikiData/WD~Wikidata_Query_Service,20950365]]"
-  - "[[_Standards/WikiData/WD~Search_Autodescription,21281236]]"
-  - "[[_Standards/WikiData/WD~WikiData_Free_Image_Search_Tool,21283216]]"
-  - "[[_Standards/WikiData/WD~PagePile,21449969]]"
-  - "[[_Standards/WikiData/WD~Harvest_Templates,21914398]]"
-  - "[[_Standards/WikiData/WD~PetScan,23665536]]"
-  - "[[_Standards/WikiData/WD~metaphactory,23831237]]"
-  - "[[_Standards/WikiData/WD~Related_Properties,25337203]]"
-  - "[[_Standards/WikiData/WD~TABernacle,26882268]]"
-  - "[[_Standards/WikiData/WD~WikiShootMe,26964791]]"
+  - '[[_Standards/WikiData/WD~OpenRefine,5583871]]'
+  - '[[_Standards/WikiData/WD~Wikidata_Game,17595556]]'
+  - '[[_Standards/WikiData/WD~iD,18275868]]'
+  - '[[_Standards/WikiData/WD~QuickStatements,20084080]]'
+  - '[[_Standards/WikiData/WD~Primary_Sources_Tool,20656106]]'
+  - '[[_Standards/WikiData/WD~Platypus,20726406]]'
+  - '[[_Standards/WikiData/WD~Wikidata_Query_Service,20950365]]'
+  - '[[_Standards/WikiData/WD~Search_Autodescription,21281236]]'
+  - '[[_Standards/WikiData/WD~WikiData_Free_Image_Search_Tool,21283216]]'
+  - '[[_Standards/WikiData/WD~PagePile,21449969]]'
+  - '[[_Standards/WikiData/WD~Harvest_Templates,21914398]]'
+  - '[[_Standards/WikiData/WD~PetScan,23665536]]'
+  - '[[_Standards/WikiData/WD~metaphactory,23831237]]'
+  - '[[_Standards/WikiData/WD~Related_Properties,25337203]]'
+  - '[[_Standards/WikiData/WD~TABernacle,26882268]]'
+  - '[[_Standards/WikiData/WD~WikiShootMe,26964791]]'
   - "[[_Standards/WikiData/WD~Mix'n'match,28054658]]"
-  - "[[_Standards/WikiData/WD~QuickStatements_2,29032512]]"
-  - "[[_Standards/WikiData/WD~Sistercities,29167550]]"
-  - "[[_Standards/WikiData/WD~Monumental,29167605]]"
-  - "[[_Standards/WikiData/WD~ConedaKOR,42309254]]"
-  - "[[_Standards/WikiData/WD~Scholia,45340488]]"
-  - "[[_Standards/WikiData/WD~Ask_Wikidata,47525820]]"
-  - "[[_Standards/WikiData/WD~Wikipedia_and_Wikidata_Tools,48719750]]"
-  - "[[_Standards/WikiData/WD~BridgeDb,55582517]]"
-  - "[[_Standards/WikiData/WD~Sophox,55840137]]"
-  - "[[_Standards/WikiData/WD~OSM_Wikidata_matcher,62057752]]"
+  - '[[_Standards/WikiData/WD~QuickStatements_2,29032512]]'
+  - '[[_Standards/WikiData/WD~Sistercities,29167550]]'
+  - '[[_Standards/WikiData/WD~Monumental,29167605]]'
+  - '[[_Standards/WikiData/WD~ConedaKOR,42309254]]'
+  - '[[_Standards/WikiData/WD~Scholia,45340488]]'
+  - '[[_Standards/WikiData/WD~Ask_Wikidata,47525820]]'
+  - '[[_Standards/WikiData/WD~Wikipedia_and_Wikidata_Tools,48719750]]'
+  - '[[_Standards/WikiData/WD~BridgeDb,55582517]]'
+  - '[[_Standards/WikiData/WD~Sophox,55840137]]'
+  - '[[_Standards/WikiData/WD~OSM_Wikidata_matcher,62057752]]'
 copyright_license:
-  - "[[_Standards/WikiData/WD~Creative_Commons_CC0_License,6938433]]"
-  - "[[_Standards/WikiData/WD~Creative_Commons_Attribution_ShareAlike_3.0_Unported,14946043]]"
-  - "[[_Standards/WikiData/WD~Creative_Commons_Attribution_ShareAlike_4.0_International,18199165]]"
+  - '[[_Standards/WikiData/WD~Creative_Commons_CC0_License,6938433]]'
+  - '[[_Standards/WikiData/WD~Creative_Commons_Attribution_ShareAlike_3.0_Unported,14946043]]'
+  - '[[_Standards/WikiData/WD~Creative_Commons_Attribution_ShareAlike_4.0_International,18199165]]'
 uses:
-  - "[[_Standards/WikiData/WD~semantic_technology,7449091]]"
-  - "[[_Standards/WikiData/WD~Q16354758,16354758]]"
-  - "[[_Standards/WikiData/WD~data_donation,99608496]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Wikidata,8478926]]"
+  - '[[_Standards/WikiData/WD~semantic_technology,7449091]]'
+  - '[[_Standards/WikiData/WD~Q16354758,16354758]]'
+  - '[[_Standards/WikiData/WD~data_donation,99608496]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Wikidata,8478926]]'
 software_engine:
-  - "[[_Standards/WikiData/WD~Q16354758,16354758]]"
-  - "[[_Standards/WikiData/WD~Q83,83]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q18325389,18325389]]"
+  - '[[_Standards/WikiData/WD~Q16354758,16354758]]'
+  - '[[_Standards/WikiData/WD~Q83,83]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q18325389,18325389]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Open_Data_Award,18503067]]"
-  - "[[_Standards/WikiData/WD~Open_Publishing_Awards,74903609]]"
+  - '[[_Standards/WikiData/WD~Open_Data_Award,18503067]]'
+  - '[[_Standards/WikiData/WD~Open_Publishing_Awards,74903609]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Q18507561,18507561]]"
-  - "[[_Standards/WikiData/WD~Q27042516,27042516]]"
-  - "[[_Standards/WikiData/WD~Q29644957,29644957]]"
-  - "[[_Standards/WikiData/WD~Q56010228,56010228]]"
+  - '[[_Standards/WikiData/WD~Q18507561,18507561]]'
+  - '[[_Standards/WikiData/WD~Q27042516,27042516]]'
+  - '[[_Standards/WikiData/WD~Q29644957,29644957]]'
+  - '[[_Standards/WikiData/WD~Q56010228,56010228]]'
 founded_by:
-  - "[[_Standards/WikiData/WD~Markus_Krötzsch,18618630]]"
-  - "[[_Standards/WikiData/WD~Denny_Vrandečić,18618629]]"
-  - "[[_Standards/WikiData/WD~Wikimedia_Foundation,180]]"
-main_subject: "[[_Standards/WikiData/WD~linked_open_data,18692990]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+  - '[[_Standards/WikiData/WD~Markus_Krötzsch,18618630]]'
+  - '[[_Standards/WikiData/WD~Denny_Vrandečić,18618629]]'
+  - '[[_Standards/WikiData/WD~Wikimedia_Foundation,180]]'
+main_subject: '[[_Standards/WikiData/WD~linked_open_data,18692990]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~multiple_languages,20923490]]'
 operator:
-  - "[[_Standards/WikiData/WD~Wikimedia_Site_Reliability_Engineering,27983259]]"
-  - "[[_Standards/WikiData/WD~Wikimedia_Foundation,180]]"
+  - '[[_Standards/WikiData/WD~Wikimedia_Site_Reliability_Engineering,27983259]]'
+  - '[[_Standards/WikiData/WD~Wikimedia_Foundation,180]]'
 creator:
-  - "[[_Standards/WikiData/WD~Wikidata_editors,28859214]]"
-  - "[[_Standards/WikiData/WD~Wikimedia_Deutschland,8288]]"
-practiced_by: "[[_Standards/WikiData/WD~Wikidata_editor,28859215]]"
+  - '[[_Standards/WikiData/WD~Wikidata_editors,28859214]]'
+  - '[[_Standards/WikiData/WD~Wikimedia_Deutschland,8288]]'
+practiced_by: '[[_Standards/WikiData/WD~Wikidata_editor,28859215]]'
 dataset_distribution:
-  - "[[_Standards/WikiData/WD~Wikidata_RDF_Dump_Format,32786132]]"
-  - "[[_Standards/WikiData/WD~Wikidata_JSON_dumps,58624545]]"
+  - '[[_Standards/WikiData/WD~Wikidata_RDF_Dump_Format,32786132]]'
+  - '[[_Standards/WikiData/WD~Wikidata_JSON_dumps,58624545]]'
 history_of_topic:
-  - "[[_Standards/WikiData/WD~QID_milestone,38074555]]"
-  - "[[_Standards/WikiData/WD~LID_milestone,55003547]]"
+  - '[[_Standards/WikiData/WD~QID_milestone,38074555]]'
+  - '[[_Standards/WikiData/WD~LID_milestone,55003547]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Linked_Open_Data_cloud_diagram,43984865]]"
-  - "[[_Standards/WikiData/WD~Network_of_Terms,133444965]]"
-  - "[[_Standards/WikiData/WD~Semantic_Web,54837]]"
+  - '[[_Standards/WikiData/WD~Linked_Open_Data_cloud_diagram,43984865]]'
+  - '[[_Standards/WikiData/WD~Network_of_Terms,133444965]]'
+  - '[[_Standards/WikiData/WD~Semantic_Web,54837]]'
 copyright_status:
-  - "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-  - "[[_Standards/WikiData/WD~copyrighted,_dedicated_to_the_public_domain_by_copyright_holder,88088423]]"
-has_part_s_: "[[_Standards/WikiData/WD~lexicographical_data_in_Wikidata,51955175]]"
-author: "[[_Standards/WikiData/WD~Wikimedia_community,56035565]]"
-complies_with: "[[_Standards/WikiData/WD~Digital_Public_Goods_Standard,102442905]]"
-funder: "[[_Standards/WikiData/WD~Wikidata_funder,116726820]]"
-different_from: "[[_Standards/WikiData/WD~Wikidata.org,124314549]]"
+  - '[[_Standards/WikiData/WD~copyrighted,50423863]]'
+  - '[[_Standards/WikiData/WD~copyrighted,_dedicated_to_the_public_domain_by_copyright_holder,88088423]]'
+has_part_s_: '[[_Standards/WikiData/WD~lexicographical_data_in_Wikidata,51955175]]'
+author: '[[_Standards/WikiData/WD~Wikimedia_community,56035565]]'
+complies_with: '[[_Standards/WikiData/WD~Digital_Public_Goods_Standard,102442905]]'
+funder: '[[_Standards/WikiData/WD~Wikidata_funder,116726820]]'
+different_from: '[[_Standards/WikiData/WD~Wikidata.org,124314549]]'
 developer:
-  - "[[_Standards/WikiData/WD~Wikimedia_Deutschland,8288]]"
-  - "[[_Standards/WikiData/WD~Wikimedia_Foundation,180]]"
-website_account_on: "[[_Standards/WikiData/WD~identi.ca,28773]]"
-owned_by: "[[_Standards/WikiData/WD~Wikimedia_Foundation,180]]"
-named_after: "[[_Standards/WikiData/WD~data,42848]]"
+  - '[[_Standards/WikiData/WD~Wikimedia_Deutschland,8288]]'
+  - '[[_Standards/WikiData/WD~Wikimedia_Foundation,180]]'
+website_account_on: '[[_Standards/WikiData/WD~identi.ca,28773]]'
+owned_by: '[[_Standards/WikiData/WD~Wikimedia_Foundation,180]]'
+named_after: '[[_Standards/WikiData/WD~data,42848]]'
 social_media_followers: 24560
 Alexa_rank: 7136
 dummy_value:
@@ -153,8 +155,8 @@ interwiki_prefix_at_Wikimedia:
   - lexemes
 login_URL: https://www.wikidata.org/wiki/Special:UserLogin
 Australian_Trade_Mark_Number:
-  - "1658100"
-  - "1637860"
+  - 1658100
+  - 1637860
 official_website: https://wikidata.org/
 described_at_URL:
   - http://viaf.org/viaf/partnerpages/WKP.html

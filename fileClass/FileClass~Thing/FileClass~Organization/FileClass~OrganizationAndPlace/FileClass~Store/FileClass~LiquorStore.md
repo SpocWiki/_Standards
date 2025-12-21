@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~LiquorStore
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/LiquorStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/LiquorStore
-- is_a_/LiquorStore
-- schema-org/LiquorStore
+  - class/LiquorStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/LiquorStore
+  - is_a_/LiquorStore
+  - schema-org/LiquorStore
 tags:
-- class/FileClass
-- class/LiquorStore
-- is_a_/LiquorStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/LiquorStore
+  - class/FileClass
+  - class/LiquorStore
+  - is_a_/LiquorStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/LiquorStore
 version: 2.0
 ---
 

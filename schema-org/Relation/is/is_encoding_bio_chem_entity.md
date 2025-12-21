@@ -4,20 +4,21 @@ aliases:
   - encoding_bio_chem_entity
   - encodesBioChemEntity
   - is_encoding_bio_chem_entity
+  - is encoding bio chem entity
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
-layout:
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_encoding_bio_chem_entity
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

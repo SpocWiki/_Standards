@@ -1,6 +1,8 @@
 ---
 aliases:
   - Cavendish experiment
+  - Cavendish_Experiment
+  - Cavendish Experiment
 ---
 
 # [[Cavendish_Experiment]] 

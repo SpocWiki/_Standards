@@ -1,6 +1,8 @@
 ---
 aliases:
-- "individual sport"
+  - individual sport
+  - Individual_Sport
+  - Individual Sport
 has_id_wikidata: Q2755547
 ---
 

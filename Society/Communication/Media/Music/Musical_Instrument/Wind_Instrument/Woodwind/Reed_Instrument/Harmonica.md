@@ -3,26 +3,27 @@ aliases:
   - Mundharmonika
   - French harp
   - mouth organ
+  - Harmonica
 has_id_wikidata: Q51290
 different_from:
   - "[[_Standards/WikiData/WD~Jew's_harp,185003]]"
-  - "[[_Standards/WikiData/WD~Mundhaarmonika,60445356]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Christian_Friedrich_Ludwig_Buschmann,1079637]]"
-subclass_of: "[[_Standards/WikiData/WD~sets_of_free_reeds,19650003]]"
+  - '[[_Standards/WikiData/WD~Mundhaarmonika,60445356]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Christian_Friedrich_Ludwig_Buschmann,1079637]]'
+subclass_of: '[[_Standards/WikiData/WD~sets_of_free_reeds,19650003]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-used_by: "[[_Standards/WikiData/WD~harmonicist,20850090]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
-Nomenclature_for_Museum_Cataloging: "10845"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+used_by: '[[_Standards/WikiData/WD~harmonicist,20850090]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+Nomenclature_for_Museum_Cataloging: 10845
 image: http://commons.wikimedia.org/wiki/Special:FilePath/16-hole%20chrom%2010-hole%20diatonic.jpg
-OmegaWiki_Defined_Meaning: "369380"
+OmegaWiki_Defined_Meaning: 369380
 inception: 1821-01-01T00:00:00Z
-Hornbostel_Sachs_classification: "412.132"
+Hornbostel_Sachs_classification: 412.132
 Commons_gallery: Harmonica
-U_S_National_Archives_Identifier: "10638116"
-Amazon_com_browse_node: "11972961"
+U_S_National_Archives_Identifier: 10638116
+Amazon_com_browse_node: 11972961
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Chromatik%20Mundharmonika.ogg
 exact_match: http://wordnet-rdf.princeton.edu/wn30/03494278-n
 Commons_category: Harmonicas

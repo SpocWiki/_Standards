@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Point Break"
+  - Point Break
+  - Point_Break
 ---
 
 # [[Point_Break]] 

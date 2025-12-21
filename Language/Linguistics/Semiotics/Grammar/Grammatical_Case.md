@@ -1,22 +1,24 @@
 ---
 aliases:
   - Fall
+  - Grammatical_Case
+  - Grammatical Case
 has_id_wikidata: Q128234
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-subclass_of: "[[_Standards/WikiData/WD~grammatical_category,980357]]"
-different_from: "[[_Standards/WikiData/WD~case_grammar,1735511]]"
+  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+subclass_of: '[[_Standards/WikiData/WD~grammatical_category,980357]]'
+different_from: '[[_Standards/WikiData/WD~case_grammar,1735511]]'
 Wikidata_property: has grammatical case
-OmegaWiki_Defined_Meaning: "423305"
+OmegaWiki_Defined_Meaning: 423305
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%95.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Number%20of%20grammatical%20cases%20hic01.png
 Stack_Exchange_tag: https://linguistics.stackexchange.com/tags/cases
-P8189: "987007535901605171"
+P8189: 987007535901605171
 Commons_category: Grammatical cases
 Krugosvet_article: gumanitarnye_nauki/lingvistika/PADEZH.html
 ---

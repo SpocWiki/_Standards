@@ -2,48 +2,49 @@
 aliases:
   - MicroSoft Disk Operating System
   - Microsoft DOS
+  - MS-DOS
 has_id_wikidata: Q47604
-programmed_in: "[[_Standards/WikiData/WD~assembly_language,165436]]"
+programmed_in: '[[_Standards/WikiData/WD~assembly_language,165436]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~DOS,170434]]"
-  - "[[_Standards/WikiData/WD~single_user_operating_system,28933701]]"
-  - "[[_Standards/WikiData/WD~operating_system,9135]]"
-GUI_toolkit_or_framework: "[[_Standards/WikiData/WD~command_line_interface,189053]]"
+  - '[[_Standards/WikiData/WD~DOS,170434]]'
+  - '[[_Standards/WikiData/WD~single_user_operating_system,28933701]]'
+  - '[[_Standards/WikiData/WD~operating_system,9135]]'
+GUI_toolkit_or_framework: '[[_Standards/WikiData/WD~command_line_interface,189053]]'
 platform:
-  - "[[_Standards/WikiData/WD~Intel_8086,207539]]"
-  - "[[_Standards/WikiData/WD~IBM_PC_compatible,751046]]"
+  - '[[_Standards/WikiData/WD~Intel_8086,207539]]'
+  - '[[_Standards/WikiData/WD~IBM_PC_compatible,751046]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~CP_M,219528]]"
-  - "[[_Standards/WikiData/WD~Q11368,11368]]"
-subclass_of: "[[_Standards/WikiData/WD~computing_platform,241317]]"
+  - '[[_Standards/WikiData/WD~CP_M,219528]]'
+  - '[[_Standards/WikiData/WD~Q11368,11368]]'
+subclass_of: '[[_Standards/WikiData/WD~computing_platform,241317]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~AUTOEXEC.BAT,300115]]"
-  - "[[_Standards/WikiData/WD~DOS_API,904228]]"
-  - "[[_Standards/WikiData/WD~COMMAND.COM,971787]]"
-  - "[[_Standards/WikiData/WD~MS_DOS_Editor,1066510]]"
-  - "[[_Standards/WikiData/WD~CONFIG.SYS,1079369]]"
-  - "[[_Standards/WikiData/WD~IO.SYS,1192556]]"
-  - "[[_Standards/WikiData/WD~MSDOS.SYS,1192693]]"
-  - "[[_Standards/WikiData/WD~FAT12,3063042]]"
-  - "[[_Standards/WikiData/WD~FAT16,3141148]]"
+  - '[[_Standards/WikiData/WD~AUTOEXEC.BAT,300115]]'
+  - '[[_Standards/WikiData/WD~DOS_API,904228]]'
+  - '[[_Standards/WikiData/WD~COMMAND.COM,971787]]'
+  - '[[_Standards/WikiData/WD~MS_DOS_Editor,1066510]]'
+  - '[[_Standards/WikiData/WD~CONFIG.SYS,1079369]]'
+  - '[[_Standards/WikiData/WD~IO.SYS,1192556]]'
+  - '[[_Standards/WikiData/WD~MSDOS.SYS,1192693]]'
+  - '[[_Standards/WikiData/WD~FAT12,3063042]]'
+  - '[[_Standards/WikiData/WD~FAT16,3141148]]'
 copyright_license:
-  - "[[_Standards/WikiData/WD~MIT_License,334661]]"
-  - "[[_Standards/WikiData/WD~proprietary_license,3238057]]"
-follows: "[[_Standards/WikiData/WD~86_DOS,1550345]]"
+  - '[[_Standards/WikiData/WD~MIT_License,334661]]'
+  - '[[_Standards/WikiData/WD~proprietary_license,3238057]]'
+follows: '[[_Standards/WikiData/WD~86_DOS,1550345]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~MS_DOS_5_Beta,28455540]]"
-  - "[[_Standards/WikiData/WD~MS_DOS_6.22,29342785]]"
-  - "[[_Standards/WikiData/WD~MS_DOS_7,30674327]]"
-  - "[[_Standards/WikiData/WD~MS_DOS_version_3.30,34273667]]"
-  - "[[_Standards/WikiData/WD~MS_DOS_4.0,97870394]]"
-  - "[[_Standards/WikiData/WD~Q133934934,133934934]]"
+  - '[[_Standards/WikiData/WD~MS_DOS_5_Beta,28455540]]'
+  - '[[_Standards/WikiData/WD~MS_DOS_6.22,29342785]]'
+  - '[[_Standards/WikiData/WD~MS_DOS_7,30674327]]'
+  - '[[_Standards/WikiData/WD~MS_DOS_version_3.30,34273667]]'
+  - '[[_Standards/WikiData/WD~MS_DOS_4.0,97870394]]'
+  - '[[_Standards/WikiData/WD~Q133934934,133934934]]'
 distribution_format:
-  - "[[_Standards/WikiData/WD~3_inch_floppy_disk,37753524]]"
-  - "[[_Standards/WikiData/WD~5_inch_floppy_disk,55194959]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-followed_by: "[[../../../../../WikiData/WD~Microsoft_Windows,1406]]"
-developer: "[[_Standards/WikiData/WD~Microsoft,2283]]"
-software_version_identifier: "8.01"
+  - '[[_Standards/WikiData/WD~3_inch_floppy_disk,37753524]]'
+  - '[[_Standards/WikiData/WD~5_inch_floppy_disk,55194959]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
+followed_by: '[[../../../../../WikiData/WD~Microsoft_Windows,1406]]'
+developer: '[[_Standards/WikiData/WD~Microsoft,2283]]'
+software_version_identifier: 8.01
 publication_date: 1981-08-12T00:00:00Z
 inception: 1981-08-12T00:00:00Z
 Commons_category: MS-DOS

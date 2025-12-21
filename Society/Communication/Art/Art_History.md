@@ -1,30 +1,32 @@
 ---
 aliases:
   - cultural movement
+  - Art_History
+  - Art History
 has_id_wikidata: Q50637
 subclass_of:
-  - "[[_Standards/WikiData/WD~humanities,80083]]"
-  - "[[_Standards/WikiData/WD~Geisteswissenschaften,944537]]"
-  - "[[_Standards/WikiData/WD~visual_art_education,1757598]]"
+  - '[[_Standards/WikiData/WD~humanities,80083]]'
+  - '[[_Standards/WikiData/WD~Geisteswissenschaften,944537]]'
+  - '[[_Standards/WikiData/WD~visual_art_education,1757598]]'
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~work_of_art,838948]]"
-  - "[[_Standards/WikiData/WD~history_of_art,50641]]"
+  - '[[_Standards/WikiData/WD~work_of_art,838948]]'
+  - '[[_Standards/WikiData/WD~history_of_art,50641]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~art_historian,1792450]]"
-  - "[[_Standards/WikiData/WD~art_history_teacher,120234397]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q9560932,9560932]]"
-instance_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Art_Studies_and_History,19402625]]"
+  - '[[_Standards/WikiData/WD~art_historian,1792450]]'
+  - '[[_Standards/WikiData/WD~art_history_teacher,120234397]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9560932,9560932]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Art_Studies_and_History,19402625]]'
 different_from:
-  - "[[_Standards/WikiData/WD~art_practice,62302889]]"
-  - "[[_Standards/WikiData/WD~curatorial_studies,98641248]]"
-  - "[[_Standards/WikiData/WD~history_of_art,50641]]"
-part_of: "[[_Standards/WikiData/WD~Q113296040,113296040]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
-Dewey_Decimal_Classification: "709"
+  - '[[_Standards/WikiData/WD~art_practice,62302889]]'
+  - '[[_Standards/WikiData/WD~curatorial_studies,98641248]]'
+  - '[[_Standards/WikiData/WD~history_of_art,50641]]'
+part_of: '[[_Standards/WikiData/WD~Q113296040,113296040]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+Dewey_Decimal_Classification: 709
 DFG_Science_Classification: 103-01
 image: http://commons.wikimedia.org/wiki/Special:FilePath/South%20Ionian%20Wild%20Goat%20Style%20SiA%20Ic%20-%20Swallow%20Painter%20-%20krater%20-%20men%20and%20mythological%20animals%20-%20Roma%20MNEVG%20-%2008.jpg
-P8189: "987007294691805171"
+P8189: 987007294691805171
 Commons_category: Art history
 subreddit: ArtHistory
 Provenio_UUID: df9c532e-cbf1-4c79-af65-a7704a2e6962

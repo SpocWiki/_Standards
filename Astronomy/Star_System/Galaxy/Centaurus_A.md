@@ -3,6 +3,7 @@ aliases:
   - NGC 5128
   - Caldwell 77
   - Centaurus A
+  - Centaurus_A
 has_id_wikidata: Q487255
 ---
 

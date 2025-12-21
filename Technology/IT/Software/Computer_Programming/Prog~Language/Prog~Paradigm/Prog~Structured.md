@@ -2,13 +2,14 @@
 aliases:
   - structured programming
   - structured_programming
+  - Prog~Structured
 has_id_wikidata: Q223335
-subclass_of: "[[_Standards/WikiData/WD~computer_programming,80006]]"
+subclass_of: '[[_Standards/WikiData/WD~computer_programming,80006]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~programming_paradigm,188267]]"
-  - "[[_Standards/WikiData/WD~computer_science_term,66747126]]"
-opposite_of: "[[_Standards/WikiData/WD~non_structured_programming,905156]]"
-uses: "[[_Standards/WikiData/WD~control_structure,27067613]]"
+  - '[[_Standards/WikiData/WD~programming_paradigm,188267]]'
+  - '[[_Standards/WikiData/WD~computer_science_term,66747126]]'
+opposite_of: '[[_Standards/WikiData/WD~non_structured_programming,905156]]'
+uses: '[[_Standards/WikiData/WD~control_structure,27067613]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Structured%20program%20patterns.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Structured%20program%20patterns%20he.png

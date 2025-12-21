@@ -1,100 +1,102 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Accommodation
+excludes: ''
 extends: FileClass~Thing/FileClass~Place
 fields:
-- id: VTYmGU
-  name: AccommodationCategory
-  options: {}
-  type: Input
-  path: ''
-- id: TmjQxF
-  name: AccommodationFloorPlan
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/FloorPlan')"
-  type: MultiFile
-  path: ''
-- id: lmmQUR
-  name: Bed
-  options: {}
-  type: Input
-  path: ''
-- id: kJmHWW
-  name: FloorLevel
-  options: {}
-  type: Input
-  path: ''
-- id: 5ZfBF2
-  name: FloorSize
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: Bd1QZ1
-  name: LeaseLength
-  options:
-    min: 0
-    max: 2359
-  type: Number
-  path: ''
-- id: Jydql0
-  name: NumberOfBathroomsTotal
-  options: {}
-  type: Number
-  path: ''
-- id: jXucwU
-  name: NumberOfBedrooms
-  options: {}
-  type: Number
-  path: ''
-- id: qcp6aY
-  name: NumberOfFullBathrooms
-  options: {}
-  type: Number
-  path: ''
-- id: 9W3Pa7
-  name: NumberOfPartialBathrooms
-  options: {}
-  type: Number
-  path: ''
-- id: wWx4eT
-  name: NumberOfRooms
-  options: {}
-  type: Number
-  path: ''
-- id: bZALxf
-  name: Occupancy
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: dt2RJm
-  name: PermittedUsage
-  options: {}
-  type: Input
-  path: ''
-- id: fD8qlc
-  name: PetsAllowed
-  options: {}
-  type: Boolean
-  path: ''
-- id: 4fu3En
-  name: YearBuilt
-  options: {}
-  type: Number
-  path: ''
+  - id: VTYmGU
+    name: AccommodationCategory
+    options: {}
+    type: Input
+    path: ''
+  - id: TmjQxF
+    name: AccommodationFloorPlan
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/FloorPlan')
+    type: MultiFile
+    path: ''
+  - id: lmmQUR
+    name: Bed
+    options: {}
+    type: Input
+    path: ''
+  - id: kJmHWW
+    name: FloorLevel
+    options: {}
+    type: Input
+    path: ''
+  - id: 5ZfBF2
+    name: FloorSize
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: Bd1QZ1
+    name: LeaseLength
+    options:
+      min: 0
+      max: 2359
+    type: Number
+    path: ''
+  - id: Jydql0
+    name: NumberOfBathroomsTotal
+    options: {}
+    type: Number
+    path: ''
+  - id: jXucwU
+    name: NumberOfBedrooms
+    options: {}
+    type: Number
+    path: ''
+  - id: qcp6aY
+    name: NumberOfFullBathrooms
+    options: {}
+    type: Number
+    path: ''
+  - id: 9W3Pa7
+    name: NumberOfPartialBathrooms
+    options: {}
+    type: Number
+    path: ''
+  - id: wWx4eT
+    name: NumberOfRooms
+    options: {}
+    type: Number
+    path: ''
+  - id: bZALxf
+    name: Occupancy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: dt2RJm
+    name: PermittedUsage
+    options: {}
+    type: Input
+    path: ''
+  - id: fD8qlc
+    name: PetsAllowed
+    options: {}
+    type: Boolean
+    path: ''
+  - id: 4fu3En
+    name: YearBuilt
+    options: {}
+    type: Number
+    path: ''
 icon: hotel
 limit: 9
 mapWithTag: false
 tagNames:
-- class/Accommodation
-- class/Thing/Place/Accommodation
-- is_an_/Accommodation
-- schema-org/Accommodation
+  - class/Accommodation
+  - class/Thing/Place/Accommodation
+  - is_an_/Accommodation
+  - schema-org/Accommodation
 tags:
-- class/FileClass
-- class/Accommodation
-- '#is_an_/Accommodation'
-- class/Thing/Place/Accommodation
+  - class/FileClass
+  - class/Accommodation
+  - '#is_an_/Accommodation'
+  - class/Thing/Place/Accommodation
 version: 2.0
 ---
 

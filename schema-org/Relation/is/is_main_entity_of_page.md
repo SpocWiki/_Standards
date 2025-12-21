@@ -4,12 +4,13 @@ aliases:
   - main_entity_of_page
   - mainEntityOfPage
   - is_main_entity_of_page
+  - is main entity of page
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +18,11 @@ keywords:
   - entity
   - of
   - page
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_main_entity_of_page
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

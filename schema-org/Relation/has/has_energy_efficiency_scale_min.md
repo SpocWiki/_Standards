@@ -2,12 +2,13 @@
 aliases:
   - has energy-efficiency-scale-min
   - has_energy_efficiency_scale_min
+  - has energy efficiency scale min
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +18,11 @@ keywords:
   - min
   - energy_efficiency_scale_min
   - energyEfficiencyScaleMin
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_energy_efficiency_scale_min
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

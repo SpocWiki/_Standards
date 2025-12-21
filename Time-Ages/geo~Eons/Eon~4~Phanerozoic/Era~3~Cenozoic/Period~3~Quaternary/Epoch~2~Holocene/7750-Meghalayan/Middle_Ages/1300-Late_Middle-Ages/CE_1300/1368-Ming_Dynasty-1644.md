@@ -1,6 +1,8 @@
 ---
 aliases:
   - Ming Dynasty
+  - 1368-Ming_Dynasty-1644
+  - 1368-Ming Dynasty-1644
 has_id_wikidata: Q9903
 Baidu_Tieba_name: 明朝
 population:
@@ -16,57 +18,57 @@ population:
   - 60105835
   - 60545812
   - 60692856
-basic_form_of_government: "[[_Standards/WikiData/WD~absolute_monarchy,184558]]"
-currency: "[[_Standards/WikiData/WD~bimetallism,745405]]"
+basic_form_of_government: '[[_Standards/WikiData/WD~absolute_monarchy,184558]]'
+currency: '[[_Standards/WikiData/WD~bimetallism,745405]]'
 replaced_by:
-  - "[[_Standards/WikiData/WD~Southern_Ming_dynasty,1198163]]"
-  - "[[_Standards/WikiData/WD~Shun_dynasty,2370784]]"
-different_from: "[[_Standards/WikiData/WD~House_of_Zhu,5185064]]"
-is_part_of: "[[_Standards/WikiData/WD~Late_Imperial_China,6495224]]"
+  - '[[_Standards/WikiData/WD~Southern_Ming_dynasty,1198163]]'
+  - '[[_Standards/WikiData/WD~Shun_dynasty,2370784]]'
+different_from: '[[_Standards/WikiData/WD~House_of_Zhu,5185064]]'
+is_part_of: '[[_Standards/WikiData/WD~Late_Imperial_China,6495224]]'
 replaces:
-  - "[[_Standards/WikiData/WD~Song,6821029]]"
-  - "[[_Standards/WikiData/WD~Yuan_dynasty,7313]]"
-  - "[[_Standards/WikiData/WD~Mongol_Empire,12557]]"
+  - '[[_Standards/WikiData/WD~Song,6821029]]'
+  - '[[_Standards/WikiData/WD~Yuan_dynasty,7313]]'
+  - '[[_Standards/WikiData/WD~Mongol_Empire,12557]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Guangxi,7238275]]"
-  - "[[_Standards/WikiData/WD~Yunnan,10880842]]"
-  - "[[_Standards/WikiData/WD~Jiaozhi_Province,10882986]]"
-  - "[[_Standards/WikiData/WD~Beizhili,10903802]]"
-  - "[[_Standards/WikiData/WD~Nanzhili,10908774]]"
-  - "[[_Standards/WikiData/WD~Sichuan,10924826]]"
-  - "[[_Standards/WikiData/WD~Q11044057,11044057]]"
-  - "[[_Standards/WikiData/WD~Guangdong,11061695]]"
-  - "[[_Standards/WikiData/WD~Jiangxi,11135247]]"
-  - "[[_Standards/WikiData/WD~Henan,11141551]]"
-  - "[[_Standards/WikiData/WD~Zhejiang,11148748]]"
-  - "[[_Standards/WikiData/WD~Shaanxi,15903824]]"
-  - "[[_Standards/WikiData/WD~Shanxi,15904338]]"
-  - "[[_Standards/WikiData/WD~Fujian,15910028]]"
-  - "[[_Standards/WikiData/WD~Guizhou,15931753]]"
-  - "[[_Standards/WikiData/WD~Huguang,17031144]]"
-  - "[[_Standards/WikiData/WD~Q47103177,47103177]]"
+  - '[[_Standards/WikiData/WD~Guangxi,7238275]]'
+  - '[[_Standards/WikiData/WD~Yunnan,10880842]]'
+  - '[[_Standards/WikiData/WD~Jiaozhi_Province,10882986]]'
+  - '[[_Standards/WikiData/WD~Beizhili,10903802]]'
+  - '[[_Standards/WikiData/WD~Nanzhili,10908774]]'
+  - '[[_Standards/WikiData/WD~Sichuan,10924826]]'
+  - '[[_Standards/WikiData/WD~Q11044057,11044057]]'
+  - '[[_Standards/WikiData/WD~Guangdong,11061695]]'
+  - '[[_Standards/WikiData/WD~Jiangxi,11135247]]'
+  - '[[_Standards/WikiData/WD~Henan,11141551]]'
+  - '[[_Standards/WikiData/WD~Zhejiang,11148748]]'
+  - '[[_Standards/WikiData/WD~Shaanxi,15903824]]'
+  - '[[_Standards/WikiData/WD~Shanxi,15904338]]'
+  - '[[_Standards/WikiData/WD~Fujian,15910028]]'
+  - '[[_Standards/WikiData/WD~Guizhou,15931753]]'
+  - '[[_Standards/WikiData/WD~Huguang,17031144]]'
+  - '[[_Standards/WikiData/WD~Q47103177,47103177]]'
 capital:
-  - "[[_Standards/WikiData/WD~Shuntian_Fu,7334692]]"
-  - "[[_Standards/WikiData/WD~Yingtian_Fu,15912502]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Ming_Dynasty_topics,10801511]]"
+  - '[[_Standards/WikiData/WD~Shuntian_Fu,7334692]]'
+  - '[[_Standards/WikiData/WD~Yingtian_Fu,15912502]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Ming_Dynasty_topics,10801511]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-  - "[[_Standards/WikiData/WD~historical_Chinese_state,50068795]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Ming_dynasty,16843870]]"
+  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
+  - '[[_Standards/WikiData/WD~historical_Chinese_state,50068795]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Ming_dynasty,16843870]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828770,22828770]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828770,22828770]]'
 official_religion:
-  - "[[_Standards/WikiData/WD~Buddhism,748]]"
-  - "[[_Standards/WikiData/WD~Confucianism,9581]]"
-  - "[[_Standards/WikiData/WD~Taoism,9598]]"
-follows: "[[_Standards/WikiData/WD~Yuan_dynasty,7313]]"
-official_language: "[[_Standards/WikiData/WD~Chinese,7850]]"
-language_used: "[[_Standards/WikiData/WD~Chinese,7850]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+  - '[[_Standards/WikiData/WD~Buddhism,748]]'
+  - '[[_Standards/WikiData/WD~Confucianism,9581]]'
+  - '[[_Standards/WikiData/WD~Taoism,9598]]'
+follows: '[[_Standards/WikiData/WD~Yuan_dynasty,7313]]'
+official_language: '[[_Standards/WikiData/WD~Chinese,7850]]'
+language_used: '[[_Standards/WikiData/WD~Chinese,7850]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 area: 6500000
-OmegaWiki_Defined_Meaning: "718091"
+OmegaWiki_Defined_Meaning: 718091
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20Ming%20dynasty.svg
 seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20Ming%20dynasty.svg
 native_label: 大明

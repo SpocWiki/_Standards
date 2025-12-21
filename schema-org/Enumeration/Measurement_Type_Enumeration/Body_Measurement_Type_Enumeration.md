@@ -4,20 +4,22 @@ aliases:
   - body_measurement_type_enumeration
   - BodyMeasurementTypeEnumeration
   - is_a_body_measurement_type_enumeration
+  - Body_Measurement_Type_Enumeration
+  - Body Measurement Type Enumeration
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - body_measurement_type_enumeration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_body_measurement_type_enumeration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

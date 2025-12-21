@@ -4,20 +4,22 @@ aliases:
   - delivery_method
   - DeliveryMethod
   - is_a_delivery_method
+  - Delivery_Method
+  - Delivery Method
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - delivery_method
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_delivery_method Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

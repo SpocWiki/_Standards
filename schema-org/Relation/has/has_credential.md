@@ -3,21 +3,22 @@ aliases:
   - has-credential
   - has Credential
   - has_credential
+  - has credential
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - credential
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_credential
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

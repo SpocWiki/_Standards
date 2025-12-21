@@ -1,15 +1,17 @@
 ---
 aliases:
-  - "Cuban Revolution "
+  - 'Cuban Revolution '
   - Revolución cubana
+  - 1959-Cuban_Revolution
+  - 1959-Cuban Revolution
 has_id_wikidata: Q11264
-participant: "[[_Standards/WikiData/WD~26th_of_July_Movement,218452]]"
-part_of: "[[_Standards/WikiData/WD~history_of_Cuba,473130]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-instance_of: "[[_Standards/WikiData/WD~revolution,10931]]"
-locations: "[[_Standards/WikiData/WD~Cuba,241]]"
-country: "[[_Standards/WikiData/WD~Cuba,241]]"
-U_S_National_Archives_Identifier: "10640237"
+participant: '[[_Standards/WikiData/WD~26th_of_July_Movement,218452]]'
+part_of: '[[_Standards/WikiData/WD~history_of_Cuba,473130]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
+locations: '[[_Standards/WikiData/WD~Cuba,241]]'
+country: '[[_Standards/WikiData/WD~Cuba,241]]'
+U_S_National_Archives_Identifier: 10640237
 point_in_time: 1959-01-01T00:00:00Z
 end_time: 1959-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fidel%20Castro%20-%20MATS%20Terminal%20Washington%201959.jpg

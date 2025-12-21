@@ -1,7 +1,9 @@
 ---
 aliases:
-- "Yuval Noah Harari"
-- "יובל נח הררי"
+  - Yuval Noah Harari
+  - יובל נח הררי
+  - Harari,Yuval_Noah
+  - Harari,Yuval Noah
 ---
 
 # [[Harari,Yuval_Noah]]

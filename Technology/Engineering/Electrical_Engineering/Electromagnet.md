@@ -1,22 +1,23 @@
 ---
 aliases:
   - Elektromagnet
+  - Electromagnet
 has_id_wikidata: Q178032
-discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Sturgeon,472515]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Sturgeon,472515]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~magnetic_core,1088161]]"
-  - "[[_Standards/WikiData/WD~coil,2981904]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_magnets,50002046]]"
-subclass_of: "[[_Standards/WikiData/WD~magnet,11421]]"
+  - '[[_Standards/WikiData/WD~magnetic_core,1088161]]'
+  - '[[_Standards/WikiData/WD~coil,2981904]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_magnets,50002046]]'
+subclass_of: '[[_Standards/WikiData/WD~magnet,11421]]'
 Commons_category: Electromagnets
 time_of_discovery_or_invention: 1825-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Simple%20electromagnet2.gif
 IEV_number: 151-14-08
-Dewey_Decimal_Classification: "621.34"
+Dewey_Decimal_Classification: 621.34
 Commons_gallery: Electromagnet
 ---
 

@@ -4,22 +4,24 @@ aliases:
   - recipe_ingredient
   - recipeIngredient
   - has_text_of_recipe_ingredient
+  - has_recipe_ingredient
+  - has recipe ingredient
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - recipe
   - ingredient
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_recipe_ingredient
 publish: true
-publishDate:
+publishDate: ''
 supersedes: ingredients
 tags:
   - class/Property

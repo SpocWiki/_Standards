@@ -1,58 +1,60 @@
 ---
 aliases:
   - Kohlendioxid
+  - Carbon_Dioxide
+  - Carbon Dioxide
 has_id_wikidata: Q1997
 part_of:
-  - "[[_Standards/WikiData/WD~air_pollution,131123]]"
-  - "[[_Standards/WikiData/WD~carbon_dioxide_transport,14902500]]"
-  - "[[_Standards/WikiData/WD~carbon_dioxide_transmembrane_transporter_activity,14905225]]"
-  - "[[_Standards/WikiData/WD~carbon_dioxide_transmembrane_transport,14905232]]"
-  - "[[_Standards/WikiData/WD~response_to_carbon_dioxide,22273540]]"
-  - "[[_Standards/WikiData/WD~cellular_response_to_carbon_dioxide,22273541]]"
-  - "[[_Standards/WikiData/WD~methanogenesis,_from_carbon_dioxide,22282965]]"
-  - "[[_Standards/WikiData/WD~carbon_dioxide_homeostasis,22298092]]"
-  - "[[_Standards/WikiData/WD~cellular_carbon_dioxide_homeostasis,22298093]]"
-  - "[[_Standards/WikiData/WD~carbon_dioxide_binding,22314371]]"
+  - '[[_Standards/WikiData/WD~air_pollution,131123]]'
+  - '[[_Standards/WikiData/WD~carbon_dioxide_transport,14902500]]'
+  - '[[_Standards/WikiData/WD~carbon_dioxide_transmembrane_transporter_activity,14905225]]'
+  - '[[_Standards/WikiData/WD~carbon_dioxide_transmembrane_transport,14905232]]'
+  - '[[_Standards/WikiData/WD~response_to_carbon_dioxide,22273540]]'
+  - '[[_Standards/WikiData/WD~cellular_response_to_carbon_dioxide,22273541]]'
+  - '[[_Standards/WikiData/WD~methanogenesis,_from_carbon_dioxide,22282965]]'
+  - '[[_Standards/WikiData/WD~carbon_dioxide_homeostasis,22298092]]'
+  - '[[_Standards/WikiData/WD~cellular_carbon_dioxide_homeostasis,22298093]]'
+  - '[[_Standards/WikiData/WD~carbon_dioxide_binding,22314371]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Joseph_Priestley,159636]]"
-  - "[[_Standards/WikiData/WD~Joseph_Black,272512]]"
-  - "[[_Standards/WikiData/WD~Jan_Baptist_van_Helmont,294169]]"
+  - '[[_Standards/WikiData/WD~Joseph_Priestley,159636]]'
+  - '[[_Standards/WikiData/WD~Joseph_Black,272512]]'
+  - '[[_Standards/WikiData/WD~Jan_Baptist_van_Helmont,294169]]'
 subject_has_role:
-  - "[[_Standards/WikiData/WD~greenhouse_gas,167336]]"
-  - "[[_Standards/WikiData/WD~refrigerant,266790]]"
-  - "[[_Standards/WikiData/WD~preservative,274579]]"
-  - "[[_Standards/WikiData/WD~raising_agent,908833]]"
-  - "[[_Standards/WikiData/WD~primary_metabolite,3333419]]"
-  - "[[_Standards/WikiData/WD~vasodilator_agent,4008956]]"
+  - '[[_Standards/WikiData/WD~greenhouse_gas,167336]]'
+  - '[[_Standards/WikiData/WD~refrigerant,266790]]'
+  - '[[_Standards/WikiData/WD~preservative,274579]]'
+  - '[[_Standards/WikiData/WD~raising_agent,908833]]'
+  - '[[_Standards/WikiData/WD~primary_metabolite,3333419]]'
+  - '[[_Standards/WikiData/WD~vasodilator_agent,4008956]]'
 has_use:
-  - "[[_Standards/WikiData/WD~food_additive,189567]]"
-  - "[[_Standards/WikiData/WD~coolant,1056832]]"
-  - "[[_Standards/WikiData/WD~medication,12140]]"
+  - '[[_Standards/WikiData/WD~food_additive,189567]]'
+  - '[[_Standards/WikiData/WD~coolant,1056832]]'
+  - '[[_Standards/WikiData/WD~medication,12140]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-contributing_factor_of: "[[_Standards/WikiData/WD~ocean_acidification,855711]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+contributing_factor_of: '[[_Standards/WikiData/WD~ocean_acidification,855711]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~acidic_oxide,1366137]]"
-  - "[[_Standards/WikiData/WD~oxocarbon,1778613]]"
+  - '[[_Standards/WikiData/WD~acidic_oxide,1366137]]'
+  - '[[_Standards/WikiData/WD~oxocarbon,1778613]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~carbon_oxygen_bond,2060358]]"
-  - "[[_Standards/WikiData/WD~carbon,623]]"
-  - "[[_Standards/WikiData/WD~oxygen,629]]"
-active_ingredient_in: "[[_Standards/WikiData/WD~carbon_dioxide_emissions,3588927]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-associated_hazard: "[[_Standards/WikiData/WD~carbon_dioxide_exposure,21173362]]"
-has_effect: "[[_Standards/WikiData/WD~carbon_dioxide_exposure,21173362]]"
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+  - '[[_Standards/WikiData/WD~carbon_oxygen_bond,2060358]]'
+  - '[[_Standards/WikiData/WD~carbon,623]]'
+  - '[[_Standards/WikiData/WD~oxygen,629]]'
+active_ingredient_in: '[[_Standards/WikiData/WD~carbon_dioxide_emissions,3588927]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+associated_hazard: '[[_Standards/WikiData/WD~carbon_dioxide_exposure,21173362]]'
+has_effect: '[[_Standards/WikiData/WD~carbon_dioxide_exposure,21173362]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
 sublimation_temperature:
   - -78.5
   - -78.4
   - -109
-found_in_taxon: "[[_Standards/WikiData/WD~Escherichia_coli,25419]]"
+found_in_taxon: '[[_Standards/WikiData/WD~Escherichia_coli,25419]]'
 electric_dipole_moment: 0
 ozone_depletion_potential: 0
 global_warming_potential: 1
@@ -70,16 +72,16 @@ standard_enthalpy_of_formation: 394
 vapor_pressure: 56.5
 molar_fusion_enthalpy: 9.02
 ionization_energy: 13.77
-ASHRAE_refrigerant_number: "744"
+ASHRAE_refrigerant_number: 744
 standard_molar_entropy: 213.7
-OmegaWiki_Defined_Meaning: "487"
+OmegaWiki_Defined_Meaning: 487
 mass: 43.99
-UN_number: "1013"
-RxNorm_CUI: "2034"
-PubChem_CID: "280"
-Gmelin_number: "989"
-ZVG_number: "1120"
-CosIng_number: "32439"
+UN_number: 1013
+RxNorm_CUI: 2034
+PubChem_CID: 280
+Gmelin_number: 989
+ZVG_number: 1120
+CosIng_number: 32439
 InChIKey: CURLTUGMZLYLDI-UHFFFAOYSA-N
 UNII: 142M471B3J
 World_Health_Organisation_international_non_proprietary_name: carbon dioxide
@@ -90,16 +92,16 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Kohle
 InChI: InChI=1S/CO2/c2-1-3
 chemical_formula: CO₂
 E_number: E290
-Reaxys_registry_number: "1900390"
+Reaxys_registry_number: 1900390
 image_of_molecular_model_or_crystal_lattice_model: http://commons.wikimedia.org/wiki/Special:FilePath/Carbon-dioxide-3D-vdW.png
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Carbon%20dioxide.svg
 video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Einfluss%20von%20Lebensmitteln%20auf%20unser%20Klima.webm
   - http://commons.wikimedia.org/wiki/Special:FilePath/Was%20sind%20CO2-Verursacher%3F.webm
-UNSPSC_Code: "12142104"
+UNSPSC_Code: 12142104
 CAS_Registry_Number: 124-38-9
 EC_number: 204-696-9
-P8189: "987007283486805171"
+P8189: 987007283486805171
 canonical_SMILES: C(=O)=O
 UMLS_CUI: C0007012
 Commons_category: Carbon dioxide

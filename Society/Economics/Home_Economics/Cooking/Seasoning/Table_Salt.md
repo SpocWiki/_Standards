@@ -4,6 +4,8 @@ aliases:
   - Salz
   - Table salt
   - Kochsalz
+  - Table_Salt
+  - Table Salt
 has_id_wikidata: Q11254
 Unicode_character: 🧂
 has_part_s_:
@@ -43,7 +45,7 @@ said_to_be_the_same_as:
   - "[[_Standards/WikiData/WD~halite,5314]]"
 Commons_gallery: Salt
 Commons_category: Salt
-USDA_NDB_number: "02047"
+USDA_NDB_number: 2047
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-sal-spreadthesign.ogv
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Dag-Yalim.ogg
@@ -51,7 +53,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Ramjit%20Tudu-%E1%B1%B5%E1%B1%A9%E1%B1%9E%E1%B1%A9%E1%B1%9D.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Salt%20shaker%20on%20white%20background.jpg
 Iconclass_notation: 41C661
-Amazon_com_browse_node: "6493928011"
+Amazon_com_browse_node: 6493928011
 UMLS_CUI: C0206136
 MeSH_tree_code:
   - D01.857.650.705
@@ -60,7 +62,7 @@ OpenStreetMap_tag: Key:salt
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/POVARENNAYA_SOL.html
 ---
 
-# [[Table_Salt]]
+# [[Table_Salt]] 🧂 
 
 #has_/parts_ ::  [[../../../../../Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride]] 
 #is_/different_from :: [[../../../../../Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride]] 

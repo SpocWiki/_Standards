@@ -1,14 +1,16 @@
 ---
 aliases:
   - Intensive agriculture, also known as intensive farming
+  - Intensive_Farming
+  - Intensive Farming
 has_id_wikidata: Q1148482
-uses: "[[_Standards/WikiData/WD~pesticide,131656]]"
+uses: '[[_Standards/WikiData/WD~pesticide,131656]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~deforestation,169940]]"
-  - "[[_Standards/WikiData/WD~habitat_destruction,552431]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-OmegaWiki_Defined_Meaning: "1976"
+  - '[[_Standards/WikiData/WD~deforestation,169940]]'
+  - '[[_Standards/WikiData/WD~habitat_destruction,552431]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+OmegaWiki_Defined_Meaning: 1976
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wheat%20fields%20at%20N%C3%B6bbel%C3%B6v%2C%20Lund%20-%20panoramio.jpg
 Commons_category: Industrial agriculture
 ---

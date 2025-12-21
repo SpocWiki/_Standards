@@ -4,20 +4,22 @@ aliases:
   - course_instance
   - CourseInstance
   - is_a_course_instance
+  - Course_Instance
+  - Course Instance
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - course_instance
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_course_instance Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

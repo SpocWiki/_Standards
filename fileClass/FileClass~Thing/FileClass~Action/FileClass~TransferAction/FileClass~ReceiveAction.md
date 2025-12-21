@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ReceiveAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 fields:
-- id: u8r1ET
-  name: Sender
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Audience')"
-  type: MultiFile
-  path: ''
+  - id: u8r1ET
+    name: Sender
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ReceiveAction
-- class/Thing/Action/TransferAction/ReceiveAction
-- is_a_/ReceiveAction
-- schema-org/ReceiveAction
+  - class/ReceiveAction
+  - class/Thing/Action/TransferAction/ReceiveAction
+  - is_a_/ReceiveAction
+  - schema-org/ReceiveAction
 tags:
-- class/FileClass
-- class/ReceiveAction
-- is_a_/ReceiveAction
-- class/Thing/Action/TransferAction/ReceiveAction
+  - class/FileClass
+  - class/ReceiveAction
+  - is_a_/ReceiveAction
+  - class/Thing/Action/TransferAction/ReceiveAction
 version: 2.0
 ---
 

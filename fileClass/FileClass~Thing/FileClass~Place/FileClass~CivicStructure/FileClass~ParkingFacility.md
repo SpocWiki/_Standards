@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ParkingFacility
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/ParkingFacility
-- class/Thing/Place/CivicStructure/ParkingFacility
-- is_a_/ParkingFacility
-- schema-org/ParkingFacility
+  - class/ParkingFacility
+  - class/Thing/Place/CivicStructure/ParkingFacility
+  - is_a_/ParkingFacility
+  - schema-org/ParkingFacility
 tags:
-- class/FileClass
-- class/ParkingFacility
-- is_a_/ParkingFacility
-- class/Thing/Place/CivicStructure/ParkingFacility
+  - class/FileClass
+  - class/ParkingFacility
+  - is_a_/ParkingFacility
+  - class/Thing/Place/CivicStructure/ParkingFacility
 version: 2.0
 ---
 

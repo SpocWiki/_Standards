@@ -1,25 +1,26 @@
 ---
 aliases:
-  - European Coal and Steel Community 
+  - European Coal and Steel Community
   - ECSC
+  - European_Coal_and_Steel_Community
 has_id_wikidata: Q161549
-chairperson: "[[_Standards/WikiData/WD~Jean_Monnet,159700]]"
+chairperson: '[[_Standards/WikiData/WD~Jean_Monnet,159700]]'
 founded_by:
-  - "[[_Standards/WikiData/WD~West_Germany,713750]]"
-  - "[[_Standards/WikiData/WD~Belgium,31]]"
-  - "[[_Standards/WikiData/WD~Luxembourg,32]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Netherlands,55]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-flag: "[[_Standards/WikiData/WD~flag_of_the_European_Coal_and_Steel_Community,3039064]]"
-instance_of: "[[_Standards/WikiData/WD~regional_organization,4120211]]"
-different_from: "[[_Standards/WikiData/WD~Montan_Union,55655372]]"
-described_by_source: "[[_Standards/WikiData/WD~Medvik,99413897]]"
-child_organization_unit: "[[_Standards/WikiData/WD~Joint_Information_Service_of_the_European_Community,128765740]]"
-replaced_by: "[[_Standards/WikiData/WD~European_Union,458]]"
-part_of: "[[_Standards/WikiData/WD~European_Union,458]]"
-followed_by: "[[_Standards/WikiData/WD~European_Union,458]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]"
+  - '[[_Standards/WikiData/WD~West_Germany,713750]]'
+  - '[[_Standards/WikiData/WD~Belgium,31]]'
+  - '[[_Standards/WikiData/WD~Luxembourg,32]]'
+  - '[[_Standards/WikiData/WD~Italy,38]]'
+  - '[[_Standards/WikiData/WD~Netherlands,55]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_European_Coal_and_Steel_Community,3039064]]'
+instance_of: '[[_Standards/WikiData/WD~regional_organization,4120211]]'
+different_from: '[[_Standards/WikiData/WD~Montan_Union,55655372]]'
+described_by_source: '[[_Standards/WikiData/WD~Medvik,99413897]]'
+child_organization_unit: '[[_Standards/WikiData/WD~Joint_Information_Service_of_the_European_Community,128765740]]'
+replaced_by: '[[_Standards/WikiData/WD~European_Union,458]]'
+part_of: '[[_Standards/WikiData/WD~European_Union,458]]'
+followed_by: '[[_Standards/WikiData/WD~European_Union,458]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]'
 BHCL_UUID: 97f281a3-b5d6-4d3d-873e-8944fefa160d
 service_entry: 1952-07-23T00:00:00Z
 inception: 1951-04-18T00:00:00Z
@@ -30,7 +31,7 @@ flag_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20European%20Coal%20and%20Steel%20Community%2010%20Star%20Version.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20European%20Coal%20and%20Steel%20Community%2012%20Star%20Version.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20European%20Coal%20and%20Steel%20Community%209%20Star%20Version.svg
-ISNI: "0000000122383805"
+ISNI: 0000000122383805
 EU_Corporate_body_code: ECSC
 Commons_category: European Coal and Steel Community
 native_label: European Coal and Steel Community

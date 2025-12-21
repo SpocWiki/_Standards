@@ -1,16 +1,18 @@
 ---
 aliases:
   - Solar power, also known as solar electricity
+  - Solar_Electricity
+  - Solar Electricity
 has_id_wikidata: Q1483757
 subclass_of:
-  - "[[_Standards/WikiData/WD~electricity_generation,383973]]"
-  - "[[_Standards/WikiData/WD~energy_industry,2151621]]"
-  - "[[_Standards/WikiData/WD~alternative_energy,4202245]]"
-different_from: "[[_Standards/WikiData/WD~solar_luminosity,843877]]"
+  - '[[_Standards/WikiData/WD~electricity_generation,383973]]'
+  - '[[_Standards/WikiData/WD~energy_industry,2151621]]'
+  - '[[_Standards/WikiData/WD~alternative_energy,4202245]]'
+different_from: '[[_Standards/WikiData/WD~solar_luminosity,843877]]'
 uses:
-  - "[[_Standards/WikiData/WD~solar_power_plant,2298412]]"
-  - "[[_Standards/WikiData/WD~solar_energy,40015]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+  - '[[_Standards/WikiData/WD~solar_power_plant,2298412]]'
+  - '[[_Standards/WikiData/WD~solar_energy,40015]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 Commons_category: Solar energy
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Electrical%20and%20Mechanical%20Services%20Department%20Headquarters%20Photovoltaics.jpg
 OpenStreetMap_tag: electricity=solar

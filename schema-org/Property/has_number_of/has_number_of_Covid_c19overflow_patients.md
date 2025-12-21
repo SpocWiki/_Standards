@@ -4,21 +4,22 @@ aliases:
   - cvd-num-c19overflow-pats
   - cvdNumC19OverflowPats
   - has_number_of_Covid_c19overflow_patients
+  - has number of Covid c19overflow patients
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - cvd-num-c19overflow-pats
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_cvd-num-c19overflow-pats
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

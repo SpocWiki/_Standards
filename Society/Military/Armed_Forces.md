@@ -1,30 +1,33 @@
 ---
+aliases:
+  - Armed_Forces
+  - Armed Forces
 has_id_wikidata: Q772547
 has_part_s_:
-  - "[[_Standards/WikiData/WD~military_logistics,163059]]"
-  - "[[_Standards/WikiData/WD~military_unit,176799]]"
-  - "[[_Standards/WikiData/WD~branch_of_service,690109]]"
-  - "[[_Standards/WikiData/WD~military_branch,781132]]"
-  - "[[_Standards/WikiData/WD~rear_of_armed_forces,55661694]]"
-part_of: "[[_Standards/WikiData/WD~military_industrial_complex,744593]]"
+  - '[[_Standards/WikiData/WD~military_logistics,163059]]'
+  - '[[_Standards/WikiData/WD~military_unit,176799]]'
+  - '[[_Standards/WikiData/WD~branch_of_service,690109]]'
+  - '[[_Standards/WikiData/WD~military_branch,781132]]'
+  - '[[_Standards/WikiData/WD~rear_of_armed_forces,55661694]]'
+part_of: '[[_Standards/WikiData/WD~military_industrial_complex,744593]]'
 different_from:
-  - "[[_Standards/WikiData/WD~irregular_military,1673189]]"
-  - "[[_Standards/WikiData/WD~former_armed_organization,126101626]]"
-  - "[[_Standards/WikiData/WD~military,8473]]"
-  - "[[_Standards/WikiData/WD~army,37726]]"
+  - '[[_Standards/WikiData/WD~irregular_military,1673189]]'
+  - '[[_Standards/WikiData/WD~former_armed_organization,126101626]]'
+  - '[[_Standards/WikiData/WD~military,8473]]'
+  - '[[_Standards/WikiData/WD~army,37726]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~government_organization,2659904]]"
-  - "[[_Standards/WikiData/WD~armed_organization,17149090]]"
-  - "[[_Standards/WikiData/WD~military,8473]]"
+  - '[[_Standards/WikiData/WD~government_organization,2659904]]'
+  - '[[_Standards/WikiData/WD~armed_organization,17149090]]'
+  - '[[_Standards/WikiData/WD~military,8473]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Q3921135,3921135]]"
-  - "[[_Standards/WikiData/WD~military,8473]]"
-described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~military,8473]]"
+  - '[[_Standards/WikiData/WD~Q3921135,3921135]]'
+  - '[[_Standards/WikiData/WD~military,8473]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~military,8473]]'
 DPLA_subject_term: Armed Forces
 Commons_category: Military
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Makedonische%20phalanx.png
-P8189: "987007294817005171"
+P8189: 987007294817005171
 ---
 
 # [[Armed_Forces]] 

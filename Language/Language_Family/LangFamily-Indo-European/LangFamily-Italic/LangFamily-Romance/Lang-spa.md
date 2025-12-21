@@ -7,111 +7,112 @@ aliases:
   - español
   - Castilian
   - castellano
+  - Lang-spa
 has_id_wikidata: Q1321
 tags:
   - Lang/es
 type: Lang
 subclass_of:
-  - "[[_Standards/WikiData/WD~Castilian,71924]]"
-  - "[[_Standards/WikiData/WD~West_Iberian,1377152]]"
-has_grammatical_case: "[[_Standards/WikiData/WD~nominative_case,131105]]"
+  - '[[_Standards/WikiData/WD~Castilian,71924]]'
+  - '[[_Standards/WikiData/WD~West_Iberian,1377152]]'
+has_grammatical_case: '[[_Standards/WikiData/WD~nominative_case,131105]]'
 uses_capitalization_for:
-  - "[[_Standards/WikiData/WD~proper_noun,147276]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+  - '[[_Standards/WikiData/WD~proper_noun,147276]]'
+  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
   - http://www.wikidata.org/.well-known/genid/78442613a233af4c54e1d95c5a6d9688
-  - "[[_Standards/WikiData/WD~government,7188]]"
-  - "[[_Standards/WikiData/WD~state,7275]]"
+  - '[[_Standards/WikiData/WD~government,7188]]'
+  - '[[_Standards/WikiData/WD~state,7275]]'
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~stress,181767]]"
-  - "[[_Standards/WikiData/WD~fusional_language,318917]]"
-  - "[[_Standards/WikiData/WD~subject_verb_object,651641]]"
-  - "[[_Standards/WikiData/WD~pro_drop_language,661936]]"
-  - "[[_Standards/WikiData/WD~place_manner_time,7200373]]"
-  - "[[_Standards/WikiData/WD~syllabic_language,7888569]]"
-  - "[[_Standards/WikiData/WD~noun_adjective,74835210]]"
-  - "[[_Standards/WikiData/WD~synthetic_language,48612]]"
+  - '[[_Standards/WikiData/WD~stress,181767]]'
+  - '[[_Standards/WikiData/WD~fusional_language,318917]]'
+  - '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
+  - '[[_Standards/WikiData/WD~pro_drop_language,661936]]'
+  - '[[_Standards/WikiData/WD~place_manner_time,7200373]]'
+  - '[[_Standards/WikiData/WD~syllabic_language,7888569]]'
+  - '[[_Standards/WikiData/WD~noun_adjective,74835210]]'
+  - '[[_Standards/WikiData/WD~synthetic_language,48612]]'
 has_tense:
-  - "[[_Standards/WikiData/WD~present_tense,192613]]"
-  - "[[_Standards/WikiData/WD~preterite,442485]]"
-  - "[[_Standards/WikiData/WD~pluperfect,623742]]"
-  - "[[_Standards/WikiData/WD~past_anterior,1101896]]"
-  - "[[_Standards/WikiData/WD~future_perfect,1234617]]"
-  - "[[_Standards/WikiData/WD~simple_future,1475560]]"
-  - "[[_Standards/WikiData/WD~past_imperfect,12547192]]"
-  - "[[_Standards/WikiData/WD~compound_past_perfect,22341188]]"
+  - '[[_Standards/WikiData/WD~present_tense,192613]]'
+  - '[[_Standards/WikiData/WD~preterite,442485]]'
+  - '[[_Standards/WikiData/WD~pluperfect,623742]]'
+  - '[[_Standards/WikiData/WD~past_anterior,1101896]]'
+  - '[[_Standards/WikiData/WD~future_perfect,1234617]]'
+  - '[[_Standards/WikiData/WD~simple_future,1475560]]'
+  - '[[_Standards/WikiData/WD~past_imperfect,12547192]]'
+  - '[[_Standards/WikiData/WD~compound_past_perfect,22341188]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Spanish,241649]]"
-  - "[[_Standards/WikiData/WD~Español,16775638]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Spanish_language,471410]]"
+  - '[[_Standards/WikiData/WD~Spanish,241649]]'
+  - '[[_Standards/WikiData/WD~Español,16775638]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Spanish_language,471410]]'
 has_grammatical_mood:
-  - "[[_Standards/WikiData/WD~subjunctive,473746]]"
-  - "[[_Standards/WikiData/WD~conditional,625581]]"
-  - "[[_Standards/WikiData/WD~indicative,682111]]"
-  - "[[_Standards/WikiData/WD~imperative,22716]]"
+  - '[[_Standards/WikiData/WD~subjunctive,473746]]'
+  - '[[_Standards/WikiData/WD~conditional,625581]]'
+  - '[[_Standards/WikiData/WD~indicative,682111]]'
+  - '[[_Standards/WikiData/WD~imperative,22716]]'
 has_grammatical_gender:
-  - "[[_Standards/WikiData/WD~masculine,499327]]"
-  - "[[_Standards/WikiData/WD~feminine,1775415]]"
-  - "[[_Standards/WikiData/WD~neuter,1775461]]"
+  - '[[_Standards/WikiData/WD~masculine,499327]]'
+  - '[[_Standards/WikiData/WD~feminine,1775415]]'
+  - '[[_Standards/WikiData/WD~neuter,1775461]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-language_regulatory_body: "[[_Standards/WikiData/WD~Association_of_Academies_of_the_Spanish_Language,607959]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+language_regulatory_body: '[[_Standards/WikiData/WD~Association_of_Academies_of_the_Spanish_Language,607959]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Equatoguinean_Spanish,820569]]"
-  - "[[_Standards/WikiData/WD~Colombian_Spanish,1115875]]"
-  - "[[_Standards/WikiData/WD~Saharan_Spanish,5840069]]"
-  - "[[_Standards/WikiData/WD~Peninsular_Spanish,7162990]]"
-  - "[[_Standards/WikiData/WD~Q8778504,8778504]]"
-  - "[[_Standards/WikiData/WD~Philippine_Spanish,22091406]]"
-  - "[[_Standards/WikiData/WD~Latin_American_Spanish,56649449]]"
-studied_by: "[[_Standards/WikiData/WD~hispanism,1109432]]"
+  - '[[_Standards/WikiData/WD~Equatoguinean_Spanish,820569]]'
+  - '[[_Standards/WikiData/WD~Colombian_Spanish,1115875]]'
+  - '[[_Standards/WikiData/WD~Saharan_Spanish,5840069]]'
+  - '[[_Standards/WikiData/WD~Peninsular_Spanish,7162990]]'
+  - '[[_Standards/WikiData/WD~Q8778504,8778504]]'
+  - '[[_Standards/WikiData/WD~Philippine_Spanish,22091406]]'
+  - '[[_Standards/WikiData/WD~Latin_American_Spanish,56649449]]'
+studied_by: '[[_Standards/WikiData/WD~hispanism,1109432]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~human_language,20162172]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
-  - "[[_Standards/WikiData/WD~language,34770]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Spanish,15146843]]"
+  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
+  - '[[_Standards/WikiData/WD~human_language,20162172]]'
+  - '[[_Standards/WikiData/WD~natural_language,33742]]'
+  - '[[_Standards/WikiData/WD~language,34770]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Spanish,15146843]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q16869053,16869053]]"
-  - "[[_Standards/WikiData/WD~Q22869741,22869741]]"
-  - "[[_Standards/WikiData/WD~Q36643658,36643658]]"
-UNESCO_language_status: "[[_Standards/WikiData/WD~1_safe,20672086]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828825,22828825]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~1_National,29051546]]"
+  - '[[_Standards/WikiData/WD~Q16869053,16869053]]'
+  - '[[_Standards/WikiData/WD~Q22869741,22869741]]'
+  - '[[_Standards/WikiData/WD~Q36643658,36643658]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828825,22828825]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546]]'
 country:
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~Venezuela,717]]"
-  - "[[_Standards/WikiData/WD~Paraguay,733]]"
-  - "[[_Standards/WikiData/WD~Colombia,739]]"
-  - "[[_Standards/WikiData/WD~Ecuador,736]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-  - "[[_Standards/WikiData/WD~Guatemala,774]]"
-  - "[[_Standards/WikiData/WD~Honduras,783]]"
-  - "[[_Standards/WikiData/WD~Dominican_Republic,786]]"
-  - "[[_Standards/WikiData/WD~El_Salvador,792]]"
-  - "[[_Standards/WikiData/WD~Costa_Rica,800]]"
-  - "[[_Standards/WikiData/WD~Panama,804]]"
-  - "[[_Standards/WikiData/WD~Nicaragua,811]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-  - "[[_Standards/WikiData/WD~Equatorial_Guinea,983]]"
-  - "[[_Standards/WikiData/WD~Gibraltar,1410]]"
-  - "[[_Standards/WikiData/WD~Aruba,21203]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~Uruguay,77]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~Andorra,228]]"
-  - "[[_Standards/WikiData/WD~Belize,242]]"
-  - "[[_Standards/WikiData/WD~Cuba,241]]"
-  - "[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362]]"
-writing_system: "[[_Standards/WikiData/WD~Latin_script,8229]]"
-indigenous_to: "[[_Standards/WikiData/WD~Spain,29]]"
+  - '[[_Standards/WikiData/WD~Chile,298]]'
+  - '[[_Standards/WikiData/WD~Argentina,414]]'
+  - '[[_Standards/WikiData/WD~Peru,419]]'
+  - '[[_Standards/WikiData/WD~Venezuela,717]]'
+  - '[[_Standards/WikiData/WD~Paraguay,733]]'
+  - '[[_Standards/WikiData/WD~Colombia,739]]'
+  - '[[_Standards/WikiData/WD~Ecuador,736]]'
+  - '[[_Standards/WikiData/WD~Bolivia,750]]'
+  - '[[_Standards/WikiData/WD~Guatemala,774]]'
+  - '[[_Standards/WikiData/WD~Honduras,783]]'
+  - '[[_Standards/WikiData/WD~Dominican_Republic,786]]'
+  - '[[_Standards/WikiData/WD~El_Salvador,792]]'
+  - '[[_Standards/WikiData/WD~Costa_Rica,800]]'
+  - '[[_Standards/WikiData/WD~Panama,804]]'
+  - '[[_Standards/WikiData/WD~Nicaragua,811]]'
+  - '[[_Standards/WikiData/WD~Philippines,928]]'
+  - '[[_Standards/WikiData/WD~Equatorial_Guinea,983]]'
+  - '[[_Standards/WikiData/WD~Gibraltar,1410]]'
+  - '[[_Standards/WikiData/WD~Aruba,21203]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Spain,29]]'
+  - '[[_Standards/WikiData/WD~Uruguay,77]]'
+  - '[[_Standards/WikiData/WD~Mexico,96]]'
+  - '[[_Standards/WikiData/WD~Andorra,228]]'
+  - '[[_Standards/WikiData/WD~Belize,242]]'
+  - '[[_Standards/WikiData/WD~Cuba,241]]'
+  - '[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362]]'
+writing_system: '[[_Standards/WikiData/WD~Latin_script,8229]]'
+indigenous_to: '[[_Standards/WikiData/WD~Spain,29]]'
 number_of_speakers_writers_or_signers: 485000000
-IAB_code: "1070"
+IAB_code: 1070
 subreddit: Spanish
-Dewey_Decimal_Classification: "460"
+Dewey_Decimal_Classification: 460
 GOST_7_75_97_code: исп 230
 entry_in_abbreviations_table: исп.
 Baidu_Tieba_name: 西班牙语
@@ -123,8 +124,8 @@ short_name:
   - іспанська
   - испанский
 OpenStreetMap_key: language:es
-ABS_ASCL_2011_code: "2303"
-OmegaWiki_Defined_Meaning: "5692"
+ABS_ASCL_2011_code: 2303
+OmegaWiki_Defined_Meaning: 5692
 hashtag_:
   - español
   - spanish
@@ -141,7 +142,7 @@ Wikimedia_language_code: es
 IETF_language_tag: es
 ISO_639_1_code: es
 GitHub_topic: spanish
-Basisklassifikation: "18.31"
+Basisklassifikation: 18.31
 Universal_Decimal_Classification: 811.134.2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/E%C3%B1e%20on%20keyboard%20-%20grey.jpg
 audio:

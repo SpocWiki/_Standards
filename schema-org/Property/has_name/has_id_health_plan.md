@@ -4,23 +4,24 @@ aliases:
   - id_health_plan
   - healthPlanId
   - has_id_health_plan
+  - has id health plan
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - health
   - plan
   - id
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_id_health_plan
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

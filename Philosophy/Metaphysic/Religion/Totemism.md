@@ -1,19 +1,20 @@
 ---
 aliases:
   - Totemismus
+  - Totemism
 has_id_wikidata: Q947965
-instance_of: "[[_Standards/WikiData/WD~supernatural,80837]]"
-uses: "[[_Standards/WikiData/WD~totem,263443]]"
+instance_of: '[[_Standards/WikiData/WD~supernatural,80837]]'
+uses: '[[_Standards/WikiData/WD~totem,263443]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q31958663,31958663]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q31958663,31958663]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Raven.BringerOfLight.P1044250.jpg
-Dewey_Decimal_Classification: "202.11"
+Dewey_Decimal_Classification: 202.11
 Commons_category: Totems
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/TOTEMIZM.html
 ---

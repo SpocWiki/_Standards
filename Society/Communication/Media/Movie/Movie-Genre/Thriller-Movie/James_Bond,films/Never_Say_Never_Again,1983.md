@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Never Say Never Again"
+  - Never Say Never Again
+  - Never_Say_Never_Again,1983
+  - Never Say Never Again,1983
 ---
 
 ## #has_/text_of_/abstract 

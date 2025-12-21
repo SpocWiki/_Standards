@@ -18,7 +18,7 @@ followed_by: "[[_Standards/WikiData/WD~woman,467]]"
 opposite_of: "[[_Standards/WikiData/WD~boy,3010]]"
 minimum_age: 2
 maximum_age: 18
-OmegaWiki_Defined_Meaning: "6752"
+OmegaWiki_Defined_Meaning: 6752
 Colon_Classification: S25
 Iconclass_notation: 31D11222
 Commons_gallery: Girls
@@ -30,7 +30,7 @@ hashtag_: girl
 ---
 
 
-# [[Girl]]
+# [[Girl]] 👧 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Girl,3031|WD~Girl,3031]]
 

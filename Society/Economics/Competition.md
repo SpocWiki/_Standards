@@ -1,20 +1,21 @@
 ---
 aliases:
   - Wettbewerb
-  - "{ newTitle: }":
+  - '{ newTitle: }': ''
+  - Competition
 has_id_wikidata: Q476300
 opposite_of:
-  - "[[_Standards/WikiData/WD~cooperation,380962]]"
-  - "[[_Standards/WikiData/WD~mutual_aid,766238]]"
+  - '[[_Standards/WikiData/WD~cooperation,380962]]'
+  - '[[_Standards/WikiData/WD~mutual_aid,766238]]'
 different_from:
-  - "[[_Standards/WikiData/WD~competition,841654]]"
-  - "[[_Standards/WikiData/WD~competition,23807345]]"
+  - '[[_Standards/WikiData/WD~competition,841654]]'
+  - '[[_Standards/WikiData/WD~competition,23807345]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~rivalry,1139327]]"
-  - "[[_Standards/WikiData/WD~interaction,52948]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_interaction,123345464]]"
+  - '[[_Standards/WikiData/WD~rivalry,1139327]]'
+  - '[[_Standards/WikiData/WD~interaction,52948]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_interaction,123345464]]'
 properties_for_this_type: participant
-OmegaWiki_Defined_Meaning: "692"
+OmegaWiki_Defined_Meaning: 692
 Commons_category: Competitions
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Formula%20one.jpg
@@ -31,26 +32,26 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: ''
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 lang: en
-layout:
+layout: ''
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 publish: false
-publishDate:
+publishDate: ''
 tags:
-  - "{ newTitle: }":
+  - '{ newTitle: }': ''
   - excalidraw
 title:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 type: private_note
 ---
 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Fechten
+  - Fencing
 has_id_wikidata: Q12100
 different_from:
   - "[[_Standards/WikiData/WD~kendo,170931]]"
@@ -34,8 +35,8 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_fencing,7112629]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Fencing,14615709]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Fencing,20344870]]"
 BHCL_UUID: 7e86ce41-1776-4154-a40b-193b1ee8200e
-U_S_National_Archives_Identifier: "10647845"
-OmegaWiki_Defined_Meaning: "1016847"
+U_S_National_Archives_Identifier: 10647845
+OmegaWiki_Defined_Meaning: 1016847
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Fencing%20pictogram.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Aspromonte%20vs.%20Baldini.ogv
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Fechten2.ogg
@@ -51,7 +52,7 @@ Krugosvet_article: sport/FEHTOVANIE.html
 Unicode_character: 🤺
 ---
 
-# [[Fencing]] 
+# [[Fencing]] 🤺 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Fencing,12100|WD~Fencing,12100]] 
 

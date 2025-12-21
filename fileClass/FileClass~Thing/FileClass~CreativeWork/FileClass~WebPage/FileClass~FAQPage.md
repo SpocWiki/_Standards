@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~FAQPage
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/FAQPage
-- class/Thing/CreativeWork/WebPage/FAQPage
-- is_a_/FAQPage
-- schema-org/FAQPage
+  - class/FAQPage
+  - class/Thing/CreativeWork/WebPage/FAQPage
+  - is_a_/FAQPage
+  - schema-org/FAQPage
 tags:
-- class/FileClass
-- class/FAQPage
-- is_a_/FAQPage
-- class/Thing/CreativeWork/WebPage/FAQPage
+  - class/FileClass
+  - class/FAQPage
+  - is_a_/FAQPage
+  - class/Thing/CreativeWork/WebPage/FAQPage
 version: 2.0
 ---
 

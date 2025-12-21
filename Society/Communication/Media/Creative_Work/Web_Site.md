@@ -4,21 +4,23 @@ aliases:
   - web_site
   - WebSite
   - is_a_web_site
+  - Web_Site
+  - Web Site
 has_id_wikidata: Q35127
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - web_site
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_web_site Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

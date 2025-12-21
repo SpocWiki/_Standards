@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CollegeOrUniversity
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization
 fields: []
 icon: school
 limit: 9
 mapWithTag: false
 tagNames:
-- class/CollegeOrUniversity
-- class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/CollegeOrUniversity
-- is_a_/CollegeOrUniversity
-- schema-org/CollegeOrUniversity
+  - class/CollegeOrUniversity
+  - class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/CollegeOrUniversity
+  - is_a_/CollegeOrUniversity
+  - schema-org/CollegeOrUniversity
 tags:
-- class/FileClass
-- class/CollegeOrUniversity
-- is_a_/CollegeOrUniversity
-- class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/CollegeOrUniversity
+  - class/FileClass
+  - class/CollegeOrUniversity
+  - is_a_/CollegeOrUniversity
+  - class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/CollegeOrUniversity
 version: 2.0
 ---
 

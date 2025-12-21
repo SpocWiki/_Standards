@@ -1,6 +1,7 @@
 ---
 aliases:
   - Donato di Niccolò di Betto Bardi
+  - Donatello
 has_id_wikidata: Q37562
 ---
 

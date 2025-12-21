@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Daily Telegraph"
+  - Daily Telegraph
+  - Daily_Telegraph
 ---
 
 ## #has_/text_of_/abstract 

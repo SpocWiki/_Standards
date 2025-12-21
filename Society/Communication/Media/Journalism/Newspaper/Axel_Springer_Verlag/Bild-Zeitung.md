@@ -1,6 +1,7 @@
 ---
 aliases:
-- BILD
+  - BILD
+  - Bild-Zeitung
 ---
 
 ## #has_/text_of_/abstract 

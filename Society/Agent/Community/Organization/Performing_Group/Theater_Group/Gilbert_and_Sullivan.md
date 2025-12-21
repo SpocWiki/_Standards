@@ -1,20 +1,21 @@
 ---
 aliases:
   - Gilbert and Sullivan
+  - Gilbert_and_Sullivan
 has_id_wikidata: Q1146602
-student: "[[_Standards/WikiData/WD~Paul_Potts,165418]]"
+student: '[[_Standards/WikiData/WD~Paul_Potts,165418]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Arthur_Sullivan,212692]]"
-  - "[[_Standards/WikiData/WD~W._S._Gilbert,348513]]"
+  - '[[_Standards/WikiData/WD~Arthur_Sullivan,212692]]'
+  - '[[_Standards/WikiData/WD~W._S._Gilbert,348513]]'
 partner_in_business_or_sport: "[[_Standards/WikiData/WD~Richard_D'Oyly_Carte,953440]]"
 genre:
-  - "[[_Standards/WikiData/WD~Savoy_opera,2260479]]"
-  - "[[_Standards/WikiData/WD~comic_opera,13220650]]"
-  - "[[_Standards/WikiData/WD~opera,1344]]"
+  - '[[_Standards/WikiData/WD~Savoy_opera,2260479]]'
+  - '[[_Standards/WikiData/WD~comic_opera,13220650]]'
+  - '[[_Standards/WikiData/WD~opera,1344]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~duo,10648343]]"
-  - "[[_Standards/WikiData/WD~collective_pseudonym,16017119]]"
-  - "[[_Standards/WikiData/WD~songwriting_team,54982412]]"
+  - '[[_Standards/WikiData/WD~duo,10648343]]'
+  - '[[_Standards/WikiData/WD~collective_pseudonym,16017119]]'
+  - '[[_Standards/WikiData/WD~songwriting_team,54982412]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gilbert%20%26%20Sullivan.jpg
 Commons_category: Gilbert and Sullivan
 ---

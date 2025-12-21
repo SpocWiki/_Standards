@@ -4,21 +4,22 @@ aliases:
   - greater
   - greater
   - is_greater_than
+  - is greater than
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - greater
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_greater_than
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,14 +1,15 @@
 ---
 aliases:
   - Early modern period
+  - Early_modern_period
 has_id_wikidata: Q5308718
-part_of: "[[_Standards/WikiData/WD~periodization,816829]]"
+part_of: '[[_Standards/WikiData/WD~periodization,816829]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~era,6428674]]"
-follows: "[[_Standards/WikiData/WD~Postclassical_Era,7234117]]"
-history_of_topic: "[[_Standards/WikiData/WD~Early_Modern_History,109120185]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~era,6428674]]'
+follows: '[[_Standards/WikiData/WD~Postclassical_Era,7234117]]'
+history_of_topic: '[[_Standards/WikiData/WD~Early_Modern_History,109120185]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 end_time: 1800-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leonhard%20Euler%20World%20Map%20AD1760.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Early%20modern%20period.mp3

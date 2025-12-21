@@ -4,21 +4,22 @@ aliases:
   - sodium-content
   - sodiumContent
   - has_value_for_sodium_in_milliGram
+  - has value for sodium in milliGram
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sodium-content
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_sodium-content
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

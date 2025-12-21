@@ -1,21 +1,23 @@
 ---
 aliases:
   - Piccolo
+  - Piccolo_Flute
+  - Piccolo Flute
 has_id_wikidata: Q83509
-subclass_of: "[[_Standards/WikiData/WD~Western_concert_flute,209554]]"
-different_from: "[[_Standards/WikiData/WD~Piccolo,348879]]"
+subclass_of: '[[_Standards/WikiData/WD~Western_concert_flute,209554]]'
+different_from: '[[_Standards/WikiData/WD~Piccolo,348879]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
-Nomenclature_for_Museum_Cataloging: "10843"
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+Nomenclature_for_Museum_Cataloging: 10843
 Commons_category: Piccolo
 Hornbostel_Sachs_classification: 421.121.12-71
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Piccolo.jpg
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Written%20range%20of%20piccolo.png
-Amazon_com_browse_node: "11972091"
+Amazon_com_browse_node: 11972091
 ---
 
 # [[Piccolo_Flute]] 

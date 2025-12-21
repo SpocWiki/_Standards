@@ -1,36 +1,37 @@
 ---
 aliases:
   - David Copperfield
+  - David_Copperfield
 has_id_wikidata: Q189811
-different_from: "[[_Standards/WikiData/WD~David_Copperfield,217950]]"
+different_from: '[[_Standards/WikiData/WD~David_Copperfield,217950]]'
 genre:
-  - "[[_Standards/WikiData/WD~bildungsroman,223945]]"
-  - "[[_Standards/WikiData/WD~autobiographical_novel,3056541]]"
-follows: "[[_Standards/WikiData/WD~Dombey_and_Son,963659]]"
+  - '[[_Standards/WikiData/WD~bildungsroman,223945]]'
+  - '[[_Standards/WikiData/WD~autobiographical_novel,3056541]]'
+follows: '[[_Standards/WikiData/WD~Dombey_and_Son,963659]]'
 followed_by: "[[_Standards/WikiData/WD~A_Child's_History_of_England,2032353]]"
-cover_art_by: "[[_Standards/WikiData/WD~Hablot_Knight_Browne,2737410]]"
-illustrator: "[[_Standards/WikiData/WD~Hablot_Knight_Browne,2737410]]"
-publisher: "[[_Standards/WikiData/WD~Bradbury_and_Evans,2923456]]"
+cover_art_by: '[[_Standards/WikiData/WD~Hablot_Knight_Browne,2737410]]'
+illustrator: '[[_Standards/WikiData/WD~Hablot_Knight_Browne,2737410]]'
+publisher: '[[_Standards/WikiData/WD~Bradbury_and_Evans,2923456]]'
 derivative_work:
-  - "[[_Standards/WikiData/WD~David_Copperfield,3703151]]"
-  - "[[_Standards/WikiData/WD~Micawber,6827950]]"
-  - "[[_Standards/WikiData/WD~The_Personal_History_of_David_Copperfield,54489141]]"
-instance_of: "[[_Standards/WikiData/WD~literary_work,7725634]]"
-described_by_source: "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - '[[_Standards/WikiData/WD~David_Copperfield,3703151]]'
+  - '[[_Standards/WikiData/WD~Micawber,6827950]]'
+  - '[[_Standards/WikiData/WD~The_Personal_History_of_David_Copperfield,54489141]]'
+instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Dawid_Copperfield,44480125]]"
-  - "[[_Standards/WikiData/WD~Dawid_Copperfield,59220303]]"
-  - "[[_Standards/WikiData/WD~David_Copperfield_o_El_sobrino_de_mi_tía,107420581]]"
-  - "[[_Standards/WikiData/WD~David_Copperfield_den_yngres_levnadshistoria_och_erfarenhet_av_livet,107596161]]"
-  - "[[_Standards/WikiData/WD~Q110585813,110585813]]"
+  - '[[_Standards/WikiData/WD~Dawid_Copperfield,44480125]]'
+  - '[[_Standards/WikiData/WD~Dawid_Copperfield,59220303]]'
+  - '[[_Standards/WikiData/WD~David_Copperfield_o_El_sobrino_de_mi_tía,107420581]]'
+  - '[[_Standards/WikiData/WD~David_Copperfield_den_yngres_levnadshistoria_och_erfarenhet_av_livet,107596161]]'
+  - '[[_Standards/WikiData/WD~Q110585813,110585813]]'
 publication_date: 1850-01-01T00:00:00Z
 inception: 1849-01-01T00:00:00Z
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-author: "[[_Standards/WikiData/WD~Charles_Dickens,5686]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~novel,8261]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-narrative_locations: "[[_Standards/WikiData/WD~England,21]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+author: '[[_Standards/WikiData/WD~Charles_Dickens,5686]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~novel,8261]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+narrative_locations: '[[_Standards/WikiData/WD~England,21]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 Commons_gallery: David Copperfield
 Commons_category: David Copperfield
 Swedish_Royal_Theater_Archive: Play/598

@@ -1,46 +1,48 @@
 ---
-excludes: 
+aliases:
+  - FileClass~EntryPoint
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: JBNv3U
-  name: ActionApplication
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/SoftwareApplication')"
-  type: MultiFile
-  path: ''
-- id: pdCrbh
-  name: ContentType
-  options: {}
-  type: Input
-  path: ''
-- id: 2bmAck
-  name: EncodingType
-  options: {}
-  type: Input
-  path: ''
-- id: d3uAl5
-  name: HttpMethod
-  options: {}
-  type: Input
-  path: ''
-- id: LR2896
-  name: UrlTemplate
-  options: {}
-  type: Input
-  path: ''
+  - id: JBNv3U
+    name: ActionApplication
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/SoftwareApplication')
+    type: MultiFile
+    path: ''
+  - id: pdCrbh
+    name: ContentType
+    options: {}
+    type: Input
+    path: ''
+  - id: 2bmAck
+    name: EncodingType
+    options: {}
+    type: Input
+    path: ''
+  - id: d3uAl5
+    name: HttpMethod
+    options: {}
+    type: Input
+    path: ''
+  - id: LR2896
+    name: UrlTemplate
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/EntryPoint
-- class/Thing/Intangible/EntryPoint
-- is_an_/EntryPoint
-- schema-org/EntryPoint
+  - class/EntryPoint
+  - class/Thing/Intangible/EntryPoint
+  - is_an_/EntryPoint
+  - schema-org/EntryPoint
 tags:
-- class/FileClass
-- class/EntryPoint
-- '#is_an_/EntryPoint'
-- class/Thing/Intangible/EntryPoint
+  - class/FileClass
+  - class/EntryPoint
+  - '#is_an_/EntryPoint'
+  - class/Thing/Intangible/EntryPoint
 version: 2.0
 ---
 

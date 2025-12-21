@@ -1,25 +1,26 @@
 ---
 aliases:
   - Muskatnuss
+  - Nutmeg
 has_id_wikidata: Q83165
 instance_of:
-  - "[[_Standards/WikiData/WD~sedative,847705]]"
-  - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
-  - "[[_Standards/WikiData/WD~spice,42527]]"
+  - '[[_Standards/WikiData/WD~sedative,847705]]'
+  - '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+  - '[[_Standards/WikiData/WD~spice,42527]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-subclass_of: "[[_Standards/WikiData/WD~Myristica,1878350]]"
-natural_product_of_taxon: "[[_Standards/WikiData/WD~Myristica_fragrans,2724976]]"
-different_from: "[[_Standards/WikiData/WD~Gałka_Muszkatołowa,9266490]]"
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+subclass_of: '[[_Standards/WikiData/WD~Myristica,1878350]]'
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Myristica_fragrans,2724976]]'
+different_from: '[[_Standards/WikiData/WD~Gałka_Muszkatołowa,9266490]]'
 water_footprint: 34319
-OmegaWiki_Defined_Meaning: "392484"
+OmegaWiki_Defined_Meaning: 392484
 USDA_NDB_number:
-  - "02022"
-  - "02025"
+  - 02022
+  - 02025
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Myristica%20fragrans%20-%20K%C3%B6hler%E2%80%93s%20Medizinal-Pflanzen-097.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Biji%20Pala%20Bubuk.jpg

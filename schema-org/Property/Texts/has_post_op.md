@@ -4,22 +4,24 @@ aliases:
   - post_op
   - postOp
   - has_text_of_post_op
+  - has_post_op
+  - has post op
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - post
   - op
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_post_op
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

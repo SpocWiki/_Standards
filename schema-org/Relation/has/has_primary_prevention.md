@@ -3,23 +3,24 @@ aliases:
   - has primary-prevention
   - primaryPrevention
   - has_primary_prevention
+  - has primary prevention
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - primary_prevention
   - primary
   - prevention
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_primary_prevention
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

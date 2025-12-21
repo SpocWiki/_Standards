@@ -1,44 +1,45 @@
 ---
-has_id_wikidata: Q271284
 aliases:
   - Sir Alan William Parker
   - Alan William Parker
   - Alan Parker
-P8189: "987007445195405171"
+  - Parker,Alan
+has_id_wikidata: Q271284
+P8189: 987007445195405171
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/PARKER_ALAN.html
 birth_name: Alan William Parker
 work_period_end_: 2016-01-01T00:00:00Z
 date_of_death: 2020-07-31T00:00:00Z
-nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
-place_of_birth: "[[_Standards/WikiData/WD~Islington,125163]]"
-honorific_prefix: "[[_Standards/WikiData/WD~Sir,209690]]"
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+place_of_birth: '[[_Standards/WikiData/WD~Islington,125163]]'
+honorific_prefix: '[[_Standards/WikiData/WD~Sir,209690]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Alan,294833]]"
-  - "[[_Standards/WikiData/WD~William,12344159]]"
+  - '[[_Standards/WikiData/WD~Alan,294833]]'
+  - '[[_Standards/WikiData/WD~William,12344159]]'
 award_received:
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]"
-  - "[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]"
-  - "[[_Standards/WikiData/WD~Knight_Bachelor,833163]]"
-  - "[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]"
-  - "[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]"
-  - "[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]"
-family_name: "[[_Standards/WikiData/WD~Parker,1628041]]"
+  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
+  - '[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]'
+  - '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
+  - '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
+  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
+  - '[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]'
+family_name: '[[_Standards/WikiData/WD~Parker,1628041]]'
 occupation:
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~film_editor,7042855]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~producer,47541952]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-different_from: "[[_Standards/WikiData/WD~Alan_Parker,4707481]]"
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~director,3455803]]'
+  - '[[_Standards/WikiData/WD~film_editor,7042855]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~producer,47541952]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+different_from: '[[_Standards/WikiData/WD~Alan_Parker,4707481]]'
 educated_at: "[[_Standards/WikiData/WD~Dame_Alice_Owen's_School,5212123]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-described_by_source: "[[_Standards/WikiData/WD~Alan_Parker,_Versatile_Film_Director,_Is_Dead_at_76,123551454]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~London,84]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+described_by_source: '[[_Standards/WikiData/WD~Alan_Parker,_Versatile_Film_Director,_Is_Dead_at_76,123551454]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~London,84]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 number_of_children: 5
 name_in_native_language: Alan Parker
 Commons_gallery: Alan Parker
@@ -47,7 +48,7 @@ work_period_start_: 1971-01-01T00:00:00Z
 date_of_birth: 1944-02-14T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Parker%20%28Director%29%2C%20London%2C%202012.jpg
 official_website: https://alanparker.com
-ISNI: "0000000118811520"
+ISNI: 0000000118811520
 ---
 
 # [[Parker,Alan]] 

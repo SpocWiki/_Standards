@@ -3,23 +3,24 @@ aliases:
   - has included-composition
   - includedComposition
   - has_included_composition
+  - has included composition
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - included
   - composition
   - included_composition
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_included_composition
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

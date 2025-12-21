@@ -4,21 +4,22 @@ aliases:
   - total_job_openings
   - totalJobOpenings
   - has_number_of_total_job_openings
+  - has number of total job openings
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - total_job_openings
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_total_job_openings
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Sandman(TV series)"
+  - Sandman(TV series)
+  - Sandman(TV_series)
 ---
 
 # [[Sandman(TV_series)]] 

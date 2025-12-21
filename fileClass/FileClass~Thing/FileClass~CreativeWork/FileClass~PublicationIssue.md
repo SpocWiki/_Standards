@@ -1,40 +1,42 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PublicationIssue
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: 1tFNaB
-  name: IssueNumber
-  options: {}
-  type: Number
-  path: ''
-- id: M3twD8
-  name: PageEnd
-  options: {}
-  type: Number
-  path: ''
-- id: p1tBDu
-  name: PageStart
-  options: {}
-  type: Number
-  path: ''
-- id: lxWkQB
-  name: Pagination
-  options: {}
-  type: Input
-  path: ''
+  - id: 1tFNaB
+    name: IssueNumber
+    options: {}
+    type: Number
+    path: ''
+  - id: M3twD8
+    name: PageEnd
+    options: {}
+    type: Number
+    path: ''
+  - id: p1tBDu
+    name: PageStart
+    options: {}
+    type: Number
+    path: ''
+  - id: lxWkQB
+    name: Pagination
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PublicationIssue
-- class/Thing/CreativeWork/PublicationIssue
-- is_a_/PublicationIssue
-- schema-org/PublicationIssue
+  - class/PublicationIssue
+  - class/Thing/CreativeWork/PublicationIssue
+  - is_a_/PublicationIssue
+  - schema-org/PublicationIssue
 tags:
-- class/FileClass
-- class/PublicationIssue
-- is_a_/PublicationIssue
-- class/Thing/CreativeWork/PublicationIssue
+  - class/FileClass
+  - class/PublicationIssue
+  - is_a_/PublicationIssue
+  - class/Thing/CreativeWork/PublicationIssue
 version: 2.0
 ---
 

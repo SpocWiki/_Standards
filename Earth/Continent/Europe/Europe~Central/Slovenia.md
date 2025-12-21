@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Slovenia
+  - Eslovenia
+  - Slovénie
+  - سلوفينيا
+  - 斯洛文尼亚
+  - Словения
+  - the Republic of Slovenia
+  - la República de Eslovenia
+has_id_wikidata: Q215
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
@@ -530,7 +540,6 @@ U_S_National_Archives_Identifier: 10045308
 BHCL_UUID: 6ce7bf2f-0a71-4070-841b-d81c20f18c0c
 Colon_Classification: SG--59223
 Unicode_character: 🇸🇮
-has_id_wikidata: Q215
 location:
   - 46.05
   - 14.52
@@ -547,21 +556,12 @@ cssclasses:
   - Country
 publish: true
 title: Slovenia
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Slovenia
-  - Eslovenia
-  - Slovénie
-  - سلوفينيا
-  - 斯洛文尼亚
-  - Словения
-  - the Republic of Slovenia
-  - la República de Eslovenia
+publishDate: ""
+expiryDate: ""
 Languages:
   - sl
   - sh

@@ -1,9 +1,12 @@
 ---
+aliases:
+  - FRENCH_EQUATORIAL_AFRICA
+  - FRENCH EQUATORIAL AFRICA
 confidential: public
 isDeleted: false
 SpocWebEntityId: 76726
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

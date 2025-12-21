@@ -1,8 +1,9 @@
 ---
 aliases:
-- Visibility
-- Vertraulichkeit
-- Sichtbarkeit
+  - Visibility
+  - Vertraulichkeit
+  - Sichtbarkeit
+  - Confidentiality
 ---
 
 ﻿

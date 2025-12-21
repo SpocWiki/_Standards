@@ -4,21 +4,22 @@ aliases:
   - net-worth
   - netWorth
   - has_value_for_net_worth
+  - has value for net worth
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - net-worth
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_net-worth
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

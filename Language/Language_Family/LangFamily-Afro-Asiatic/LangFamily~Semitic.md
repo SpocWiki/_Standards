@@ -1,20 +1,21 @@
 ---
 aliases:
   - Semitic languages
+  - LangFamily~Semitic
 has_id_wikidata: Q34049
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-studied_by: "[[_Standards/WikiData/WD~Semitic_studies,2142577]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Semitic_languages,6605576]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+studied_by: '[[_Standards/WikiData/WD~Semitic_studies,2142577]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Semitic_languages,6605576]]'
 inception: -3000-06
-subclass_of: "[[_Standards/WikiData/WD~Afroasiatic,25268]]"
-instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
-different_from: "[[_Standards/WikiData/WD~Semitic_people,62928]]"
-ABS_ASCL_2011_code: "42"
+subclass_of: '[[_Standards/WikiData/WD~Afroasiatic,25268]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
+different_from: '[[_Standards/WikiData/WD~Semitic_people,62928]]'
+ABS_ASCL_2011_code: 42
 ISO_639_5_code: sem
 IETF_language_tag: sem
 ISO_639_2_code: sem

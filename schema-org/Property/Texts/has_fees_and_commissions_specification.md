@@ -4,12 +4,14 @@ aliases:
   - fees_and_commissions_specification
   - feesAndCommissionsSpecification
   - has_text_of_fees_and_commissions_specification
+  - has_fees_and_commissions_specification
+  - has fees and commissions specification
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +19,11 @@ keywords:
   - and
   - commissions
   - specification
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_fees_and_commissions_specification
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

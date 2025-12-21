@@ -4,22 +4,23 @@ aliases:
   - available_language
   - availableLanguage
   - is_available_in_language
+  - is available in language
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - available
   - language
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_available_in_language
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

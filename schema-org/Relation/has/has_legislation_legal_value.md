@@ -3,12 +3,13 @@ aliases:
   - has legislation-legal-value
   - legislationLegalValue
   - has_legislation_legal_value
+  - has legislation legal value
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - legislation
   - legal
   - value
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_legislation_legal_value
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

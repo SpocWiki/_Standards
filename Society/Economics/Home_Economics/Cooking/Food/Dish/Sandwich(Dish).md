@@ -1,6 +1,7 @@
 ---
 aliases:
   - Butterbrot
+  - Sandwich(Dish)
 has_id_wikidata: Q28803
 named_after: "[[_Standards/WikiData/WD~John_Montagu,_4th_Earl_of_Sandwich,334953]]"
 described_by_source:
@@ -27,7 +28,7 @@ IMDb_keyword: sandwich
 hashtag: sandwich
 native_label: sandwich
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bologna%20sandwich.jpg
-Dewey_Decimal_Classification: "641.84"
+Dewey_Decimal_Classification: 641.84
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Jer-sannouiche.ogg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Sandwich%20Wikipedia.ogg
 EntitySchema_for_this_class: E204
@@ -39,7 +40,7 @@ Unicode_character: 🥪
 OpenStreetMap_tag: cuisine=sandwich
 ---
 
-# [[Sandwich(Dish)]] 
+# [[Sandwich(Dish)]] 🥪 
 
 #is_/same_as :: [[WD~Sandwich,28803]] 
 

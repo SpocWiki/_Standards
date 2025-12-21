@@ -4,20 +4,22 @@ aliases:
   - befriend_action
   - BefriendAction
   - is_a_befriend_action
+  - Befriend_Action
+  - Befriend Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - befriend_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_befriend_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,52 +1,53 @@
 ---
 aliases:
   - Gletscher
+  - Glacier
 has_id_wikidata: Q35666
 OpenStreetMap_tag_or_key: Tag:natural=glacier
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Glacier%20diagram.svg
 model_item:
-  - "[[_Standards/WikiData/WD~Perito_Moreno_Glacier,367943]]"
-  - "[[_Standards/WikiData/WD~Jostedal_Glacier,654352]]"
-  - "[[_Standards/WikiData/WD~ice_cap,878077]]"
-  - "[[_Standards/WikiData/WD~Helags_glacier,19521143]]"
-facet_of: "[[_Standards/WikiData/WD~cryosphere,493109]]"
+  - '[[_Standards/WikiData/WD~Perito_Moreno_Glacier,367943]]'
+  - '[[_Standards/WikiData/WD~Jostedal_Glacier,654352]]'
+  - '[[_Standards/WikiData/WD~ice_cap,878077]]'
+  - '[[_Standards/WikiData/WD~Helags_glacier,19521143]]'
+facet_of: '[[_Standards/WikiData/WD~cryosphere,493109]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~glacier_terminus,556920]]"
-  - "[[_Standards/WikiData/WD~glacial_lobe,98857704]]"
+  - '[[_Standards/WikiData/WD~glacier_terminus,556920]]'
+  - '[[_Standards/WikiData/WD~glacial_lobe,98857704]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
-  - "[[_Standards/WikiData/WD~Antarctica_The_Melting_Continent,127164207]]"
-has_list: "[[_Standards/WikiData/WD~list_of_glaciers,3273934]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+  - '[[_Standards/WikiData/WD~Antarctica_The_Melting_Continent,127164207]]'
+has_list: '[[_Standards/WikiData/WD~list_of_glaciers,3273934]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~perennial_ice_or_snow_covered_land,3748258]]"
-  - "[[_Standards/WikiData/WD~ice_cover,59674586]]"
+  - '[[_Standards/WikiData/WD~perennial_ice_or_snow_covered_land,3748258]]'
+  - '[[_Standards/WikiData/WD~ice_cover,59674586]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Environment,5497659]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Geology,14943910]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Glaciers,21830071]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Environment,5497659]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Geology,14943910]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Glaciers,21830071]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_glacier,6548399]]"
-  - "[[_Standards/WikiData/WD~Template_Glaciers,7959410]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+  - '[[_Standards/WikiData/WD~Template_Infobox_glacier,6548399]]'
+  - '[[_Standards/WikiData/WD~Template_Glaciers,7959410]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~Q134623384,134623384]]"
-  - "[[_Standards/WikiData/WD~glaciology,52120]]"
+  - '[[_Standards/WikiData/WD~Q134623384,134623384]]'
+  - '[[_Standards/WikiData/WD~glaciology,52120]]'
 properties_for_this_type:
   - World Glacier Inventory ID
   - Gridabase glacier ID
   - GLAMOS glacier ID
   - GLIMS ID
 Wikidata_property: glacier status
-part_of: "[[_Standards/WikiData/WD~mountain,8502]]"
-made_from_material: "[[_Standards/WikiData/WD~ice,23392]]"
-OmegaWiki_Defined_Meaning: "1654"
+part_of: '[[_Standards/WikiData/WD~mountain,8502]]'
+made_from_material: '[[_Standards/WikiData/WD~ice,23392]]'
+OmegaWiki_Defined_Meaning: 1654
 GeoNames_feature_code: H.GLCR
 GitHub_topic: glacier
 Iconclass_notation: 25H1111
@@ -55,7 +56,7 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/7-to-1-ratio%20G
 equivalent_class: http://dbpedia.org/ontology/Glacier
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000133
 EntitySchema_for_this_class: E369
-Dewey_Decimal_Classification: "551.312"
+Dewey_Decimal_Classification: 551.312
 Krugosvet_article: geografiya/ledniki
 Wolfram_Language_entity_type: Glacier
 Commons_gallery: Glacier

@@ -1,26 +1,27 @@
 ---
 aliases:
-- Miozän
-- Миоцен
-- Miocén
-- Miocæn
-- Miozän
-- Mioceno
-- Miotseen
-- Mioseeni
-- Miocène
-- miocén
-- miocene
-- 中新世
-- Miocenas
-- Mioceen
-- Miocen
-- Miocen
-- Miocénico
-- miocén
-- miocen
-- miocen
-- 中新世
+  - Miozän
+  - Миоцен
+  - Miocén
+  - Miocæn
+  - Miozän
+  - Mioceno
+  - Miotseen
+  - Mioseeni
+  - Miocène
+  - miocén
+  - miocene
+  - 中新世
+  - Miocenas
+  - Mioceen
+  - Miocen
+  - Miocen
+  - Miocénico
+  - miocén
+  - miocen
+  - miocen
+  - 中新世
+  - Epoch~1~Miocene
 ---
 
 # [[Epoch~1~Miocene]] 

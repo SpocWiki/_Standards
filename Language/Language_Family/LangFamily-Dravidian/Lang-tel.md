@@ -2,6 +2,7 @@
 aliases:
   - Telugu
   - తెలుగు
+  - Lang-tel
 tags:
   - Lang/te
 type: Lang

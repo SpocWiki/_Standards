@@ -3,6 +3,8 @@ aliases:
   - american writer
   - english writer
   - british writer
+  - English_Writer
+  - English Writer
 ---
 
 

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DepartmentStore
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DepartmentStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/DepartmentStore
-- is_a_/DepartmentStore
-- schema-org/DepartmentStore
+  - class/DepartmentStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/DepartmentStore
+  - is_a_/DepartmentStore
+  - schema-org/DepartmentStore
 tags:
-- class/FileClass
-- class/DepartmentStore
-- is_a_/DepartmentStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/DepartmentStore
+  - class/FileClass
+  - class/DepartmentStore
+  - is_a_/DepartmentStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/DepartmentStore
 version: 2.0
 ---
 

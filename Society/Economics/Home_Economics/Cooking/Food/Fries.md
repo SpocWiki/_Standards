@@ -6,6 +6,7 @@ aliases:
   - finger chips
   - Pommes Frites
   - Pommes
+  - Fries
 has_id_wikidata: Q152088
 subclass_of:
   - "[[_Standards/WikiData/WD~fast_food,81799]]"
@@ -24,8 +25,8 @@ location_of_creation: "[[_Standards/WikiData/WD~Belgium,31]]"
 country_of_origin:
   - "[[_Standards/WikiData/WD~Belgium,31]]"
   - "[[_Standards/WikiData/WD~France,142]]"
-USDA_NDB_number: "21247"
-OmegaWiki_Defined_Meaning: "353292"
+USDA_NDB_number: 21247
+OmegaWiki_Defined_Meaning: 353292
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Truffle%20oil%20french%20fries%20%2833024792848%29.jpg
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-friet.ogg
@@ -40,7 +41,7 @@ hashtag_: french_fries
 IMDb_keyword: french-fries
 ---
 
-# [[Fries]] 
+# [[Fries]] 🍟 
 
 #is_/same_as :: [[WD~Fries,152088]] 
 

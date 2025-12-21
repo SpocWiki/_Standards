@@ -1,52 +1,53 @@
 ---
 aliases:
   - Keilschrift
+  - Cuneiform
 has_id_wikidata: Q401
 name:
   - Cuneiform, Sumero-Akkadian
   - cunéiforme suméro-akkadien
   - Cuneiform
 instance_of:
-  - "[[_Standards/WikiData/WD~syllabary,182133]]"
-  - "[[_Standards/WikiData/WD~logographic_writing_system,3953107]]"
-  - "[[_Standards/WikiData/WD~unicase_alphabet,4004706]]"
-  - "[[_Standards/WikiData/WD~natural_writing_system,29517555]]"
-  - "[[_Standards/WikiData/WD~writing_system,8192]]"
+  - '[[_Standards/WikiData/WD~syllabary,182133]]'
+  - '[[_Standards/WikiData/WD~logographic_writing_system,3953107]]'
+  - '[[_Standards/WikiData/WD~unicase_alphabet,4004706]]'
+  - '[[_Standards/WikiData/WD~natural_writing_system,29517555]]'
+  - '[[_Standards/WikiData/WD~writing_system,8192]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~logographic_writing_system,3953107]]"
-  - "[[_Standards/WikiData/WD~natural_writing_system,29517555]]"
-script_directionality: "[[_Standards/WikiData/WD~left_to_right,17321844]]"
+  - '[[_Standards/WikiData/WD~logographic_writing_system,3953107]]'
+  - '[[_Standards/WikiData/WD~natural_writing_system,29517555]]'
+script_directionality: '[[_Standards/WikiData/WD~left_to_right,17321844]]'
 inception: -2999-01-01T00:00:00Z
-used_by: "[[_Standards/WikiData/WD~cuneiform_clay_tablet,66018222]]"
-time_period: "[[_Standards/WikiData/WD~Harappan,114866998]]"
+used_by: '[[_Standards/WikiData/WD~cuneiform_clay_tablet,66018222]]'
+time_period: '[[_Standards/WikiData/WD~Harappan,114866998]]'
 end_time: -0050-01-01T00:00:00Z
 language_of_work_or_name:
-  - "[[_Standards/WikiData/WD~Luwian,10713]]"
-  - "[[_Standards/WikiData/WD~Old_Persian,35225]]"
-  - "[[_Standards/WikiData/WD~Eblaite,35345]]"
-  - "[[_Standards/WikiData/WD~Elamite,35470]]"
-  - "[[_Standards/WikiData/WD~Akkadian,35518]]"
-  - "[[_Standards/WikiData/WD~Palaic,36582]]"
-  - "[[_Standards/WikiData/WD~Sumerian,36790]]"
-  - "[[_Standards/WikiData/WD~Ugaritic,36928]]"
-  - "[[_Standards/WikiData/WD~Urartian,36934]]"
-named_after: "[[_Standards/WikiData/WD~nail,37077]]"
-locations: "[[_Standards/WikiData/WD~Near_East,48214]]"
+  - '[[_Standards/WikiData/WD~Luwian,10713]]'
+  - '[[_Standards/WikiData/WD~Old_Persian,35225]]'
+  - '[[_Standards/WikiData/WD~Eblaite,35345]]'
+  - '[[_Standards/WikiData/WD~Elamite,35470]]'
+  - '[[_Standards/WikiData/WD~Akkadian,35518]]'
+  - '[[_Standards/WikiData/WD~Palaic,36582]]'
+  - '[[_Standards/WikiData/WD~Sumerian,36790]]'
+  - '[[_Standards/WikiData/WD~Ugaritic,36928]]'
+  - '[[_Standards/WikiData/WD~Urartian,36934]]'
+named_after: '[[_Standards/WikiData/WD~nail,37077]]'
+locations: '[[_Standards/WikiData/WD~Near_East,48214]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sales%20contract%20Shuruppak%20Louvre%20AO3766.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sumerian%2026th%20c%20Adab.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Cuneiform%20evolution%20from%20archaic%20script.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sumero-Akkadian%20cuneiform%20syllabary.jpg
-ISO_15924_numeric_code: "020"
-OmegaWiki_Defined_Meaning: "716678"
+ISO_15924_numeric_code: 020
+OmegaWiki_Defined_Meaning: 716678
 Unicode_range:
   - U+12400-1247F
   - U+12480-1254F

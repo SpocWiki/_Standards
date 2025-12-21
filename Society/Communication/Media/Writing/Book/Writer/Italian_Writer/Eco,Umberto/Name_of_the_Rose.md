@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Name of the Rose"
+  - Name of the Rose
+  - Name_of_the_Rose
 ---
 
 ## #has_/text_of_/abstract 

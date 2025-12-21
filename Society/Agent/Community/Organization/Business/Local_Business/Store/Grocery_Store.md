@@ -4,20 +4,22 @@ aliases:
   - grocery_store
   - GroceryStore
   - is_a_grocery_store
+  - Grocery_Store
+  - Grocery Store
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - grocery_store
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_grocery_store Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

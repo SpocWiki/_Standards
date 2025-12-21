@@ -4,77 +4,78 @@ aliases:
   - Martina Navratilova
   - Martina Navrátilová
   - Martina Šubertová
+  - Navratilova,Martina
 has_id_wikidata: Q54545
 medical_condition:
-  - "[[_Standards/WikiData/WD~breast_cancer,128581]]"
-  - "[[_Standards/WikiData/WD~toxoplasmosis,154878]]"
-  - "[[_Standards/WikiData/WD~COVID_19,84263196]]"
+  - '[[_Standards/WikiData/WD~breast_cancer,128581]]'
+  - '[[_Standards/WikiData/WD~toxoplasmosis,154878]]'
+  - '[[_Standards/WikiData/WD~COVID_19,84263196]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Rita_Mae_Brown,242956]]"
-  - "[[_Standards/WikiData/WD~Judy_Nelson,6304542]]"
+  - '[[_Standards/WikiData/WD~Rita_Mae_Brown,242956]]'
+  - '[[_Standards/WikiData/WD~Judy_Nelson,6304542]]'
 residence:
-  - "[[_Standards/WikiData/WD~Řevnice,386858]]"
-  - "[[_Standards/WikiData/WD~Sarasota,491540]]"
-  - "[[_Standards/WikiData/WD~Nokomis,2570535]]"
-head_coach: "[[_Standards/WikiData/WD~Renée_Richards,455868]]"
+  - '[[_Standards/WikiData/WD~Řevnice,386858]]'
+  - '[[_Standards/WikiData/WD~Sarasota,491540]]'
+  - '[[_Standards/WikiData/WD~Nokomis,2570535]]'
+head_coach: '[[_Standards/WikiData/WD~Renée_Richards,455868]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]"
-  - "[[_Standards/WikiData/WD~Czech_Medal_of_Merit,1141859]]"
-  - "[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Sports,3320370]]"
-  - "[[_Standards/WikiData/WD~GLAAD_Stephen_F._Kolzak_Award,5513593]]"
-  - "[[_Standards/WikiData/WD~Philippe_Chatrier_Award,10349157]]"
-  - "[[_Standards/WikiData/WD~BBC_100_Women,16153104]]"
-  - "[[_Standards/WikiData/WD~Silver_Medal_of_the_President_of_the_Senate,26936132]]"
-  - "[[_Standards/WikiData/WD~Great_Immigrants_Award,121359767]]"
-  - "[[_Standards/WikiData/WD~International_Tennis_Hall_of_Fame,52454]]"
+  - '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
+  - '[[_Standards/WikiData/WD~Czech_Medal_of_Merit,1141859]]'
+  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Sports,3320370]]'
+  - '[[_Standards/WikiData/WD~GLAAD_Stephen_F._Kolzak_Award,5513593]]'
+  - '[[_Standards/WikiData/WD~Philippe_Chatrier_Award,10349157]]'
+  - '[[_Standards/WikiData/WD~BBC_100_Women,16153104]]'
+  - '[[_Standards/WikiData/WD~Silver_Medal_of_the_President_of_the_Senate,26936132]]'
+  - '[[_Standards/WikiData/WD~Great_Immigrants_Award,121359767]]'
+  - '[[_Standards/WikiData/WD~International_Tennis_Hall_of_Fame,52454]]'
 playing_hand:
-  - "[[_Standards/WikiData/WD~left_handedness,789447]]"
-  - "[[_Standards/WikiData/WD~one_handed_backhand,14420039]]"
-handedness: "[[_Standards/WikiData/WD~left_handedness,789447]]"
+  - '[[_Standards/WikiData/WD~left_handedness,789447]]'
+  - '[[_Standards/WikiData/WD~one_handed_backhand,14420039]]'
+handedness: '[[_Standards/WikiData/WD~left_handedness,789447]]'
 position_held:
-  - "[[_Standards/WikiData/WD~president,1255921]]"
-  - "[[_Standards/WikiData/WD~president,30461]]"
+  - '[[_Standards/WikiData/WD~president,1255921]]'
+  - '[[_Standards/WikiData/WD~president,30461]]'
 member_of_sports_team:
-  - "[[_Standards/WikiData/WD~United_States_Billie_Jean_King_Cup_team,1619662]]"
-  - "[[_Standards/WikiData/WD~Czechoslovakia_Federation_Cup_team,3590424]]"
-spouse: "[[_Standards/WikiData/WD~Yulia_Lemigova,3189052]]"
-given_name: "[[_Standards/WikiData/WD~Q4963627,4963627]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Tennis,5530169]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
+  - '[[_Standards/WikiData/WD~United_States_Billie_Jean_King_Cup_team,1619662]]'
+  - '[[_Standards/WikiData/WD~Czechoslovakia_Federation_Cup_team,3590424]]'
+spouse: '[[_Standards/WikiData/WD~Yulia_Lemigova,3189052]]'
+given_name: '[[_Standards/WikiData/WD~Q4963627,4963627]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Tennis,5530169]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 occupation:
-  - "[[_Standards/WikiData/WD~novelist,6625963]]"
-  - "[[_Standards/WikiData/WD~tennis_player,10833314]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - '[[_Standards/WikiData/WD~novelist,6625963]]'
+  - '[[_Standards/WikiData/WD~tennis_player,10833314]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
 sports_discipline_competed_in:
-  - "[[_Standards/WikiData/WD~tennis_singles,18123880]]"
-  - "[[_Standards/WikiData/WD~tennis_doubles,18123885]]"
-family_name: "[[_Standards/WikiData/WD~Navrátilová,56041203]]"
+  - '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
+  - '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
+family_name: '[[_Standards/WikiData/WD~Navrátilová,56041203]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Records_of_persons_of_interest,104900509]]"
-  - "[[_Standards/WikiData/WD~Great_Women_Athletes_of_the_20th_Century,119982761]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Martina_Navratilova,112861158]]"
-sport: "[[_Standards/WikiData/WD~tennis,847]]"
-place_of_birth: "[[_Standards/WikiData/WD~Prague,1085]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+  - '[[_Standards/WikiData/WD~Records_of_persons_of_interest,104900509]]'
+  - '[[_Standards/WikiData/WD~Great_Women_Athletes_of_the_20th_Century,119982761]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Martina_Navratilova,112861158]]'
+sport: '[[_Standards/WikiData/WD~tennis,847]]'
+place_of_birth: '[[_Standards/WikiData/WD~Prague,1085]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Czech,9056]]"
-sexual_orientation: "[[_Standards/WikiData/WD~lesbianism,6649]]"
-native_language: "[[_Standards/WikiData/WD~Czech,9056]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Czech,9056]]'
+sexual_orientation: '[[_Standards/WikiData/WD~lesbianism,6649]]'
+native_language: '[[_Standards/WikiData/WD~Czech,9056]]'
 significant_person:
-  - "[[_Standards/WikiData/WD~Chris_Evert,14286]]"
-  - "[[_Standards/WikiData/WD~Pam_Shriver,54654]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Chris_Evert,14286]]'
+  - '[[_Standards/WikiData/WD~Pam_Shriver,54654]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_for_sport:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Czech_Republic,213]]"
-  - "[[_Standards/WikiData/WD~Czechoslovakia,33946]]"
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Czech_Republic,213]]'
+  - '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Czech_Republic,213]]"
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Czech_Republic,213]]'
 ranking: 1
 mass: 65
 height: 173
@@ -88,8 +89,8 @@ prize_money: 21626089
 work_period_end_: 2006-01-01T00:00:00Z
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Cs-Martina%20Navratilova.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tennis%20Nederland%20tegen%20Verenigde%20Staten%20in%20Den%20Haag%20Navratilova%20in%20aktie%2C%20Bestanddeelnr%20930-9118%20%28cropped%29.jpg
-ISNI: "0000000110322271"
-Munzinger_Sport_number: "01000000605"
+ISNI: 0000000110322271
+Munzinger_Sport_number: 01000000605
 singles_record: 1442–219
 Plex_person_key: 5d7768966f6af7001ee57cc2
 doubles_record: 747–143

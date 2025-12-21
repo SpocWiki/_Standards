@@ -1,12 +1,14 @@
 ---
 aliases:
   - Equity (law)
+  - Equity_Law
+  - Equity Law
 has_id_wikidata: Q2578557
-described_by_source: "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Equitable_doctrines,22720793]]"
-subclass_of: "[[_Standards/WikiData/WD~common_law,30216]]"
-U_S_National_Archives_Identifier: "10637520"
-OmegaWiki_Defined_Meaning: "478075"
+described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Equitable_doctrines,22720793]]'
+subclass_of: '[[_Standards/WikiData/WD~common_law,30216]]'
+U_S_National_Archives_Identifier: 10637520
+OmegaWiki_Defined_Meaning: 478075
 ---
 
 # [[Equity_Law]]

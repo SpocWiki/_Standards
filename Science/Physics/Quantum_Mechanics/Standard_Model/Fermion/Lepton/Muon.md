@@ -1,32 +1,33 @@
 ---
 aliases:
   - Myon
+  - Muon
 has_id_wikidata: Q3151
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_David_Anderson,169366]]"
-followed_by: "[[_Standards/WikiData/WD~tau,188392]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_David_Anderson,169366]]'
+followed_by: '[[_Standards/WikiData/WD~tau,188392]]'
 interaction:
-  - "[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]"
-  - "[[_Standards/WikiData/WD~gravity,11412]]"
-  - "[[_Standards/WikiData/WD~weak_interaction,11418]]"
-antiparticle: "[[_Standards/WikiData/WD~antimuon,2174695]]"
-has_superpartner: "[[_Standards/WikiData/WD~smuon,18732735]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
+  - '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+  - '[[_Standards/WikiData/WD~gravity,11412]]'
+  - '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+antiparticle: '[[_Standards/WikiData/WD~antimuon,2174695]]'
+has_superpartner: '[[_Standards/WikiData/WD~smuon,18732735]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~charged_lepton,94535579]]"
-  - "[[_Standards/WikiData/WD~elementary_particle,43116]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - '[[_Standards/WikiData/WD~charged_lepton,94535579]]'
+  - '[[_Standards/WikiData/WD~elementary_particle,43116]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 magnetic_moment: -4.4904478e-26
-follows: "[[_Standards/WikiData/WD~electron,2225]]"
+follows: '[[_Standards/WikiData/WD~electron,2225]]'
 electric_charge: -1
 spin_quantum_number: 0.5
-Monte_Carlo_Particle_Number: "13"
-OmegaWiki_Defined_Meaning: "1014606"
+Monte_Carlo_Particle_Number: 13
+OmegaWiki_Defined_Meaning: 1014606
 Commons_category: Muons
 half_life: 1.5228312
 mean_lifetime: 0.0000021969811
 mass: 0.1134289257
 time_of_discovery_or_invention: 1937-01-01T00:00:00Z
-Dewey_Decimal_Classification: "539.72114"
+Dewey_Decimal_Classification: 539.72114
 IEV_number: 881-02-67
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hard-component-muon-868x1024.png
 g_factor: -2.0023318418

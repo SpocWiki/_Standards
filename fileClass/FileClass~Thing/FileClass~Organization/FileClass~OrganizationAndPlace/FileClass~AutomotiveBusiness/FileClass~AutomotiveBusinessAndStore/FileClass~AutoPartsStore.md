@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~AutoPartsStore
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~AutomotiveBusinessAndStore
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/AutoPartsStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutomotiveBusinessAndStore/AutoPartsStore
-- is_an_/AutoPartsStore
-- schema-org/AutoPartsStore
+  - class/AutoPartsStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutomotiveBusinessAndStore/AutoPartsStore
+  - is_an_/AutoPartsStore
+  - schema-org/AutoPartsStore
 tags:
-- class/FileClass
-- class/AutoPartsStore
-- '#is_an_/AutoPartsStore'
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutomotiveBusinessAndStore/AutoPartsStore
+  - class/FileClass
+  - class/AutoPartsStore
+  - '#is_an_/AutoPartsStore'
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutomotiveBusinessAndStore/AutoPartsStore
 version: 2.0
 ---
 

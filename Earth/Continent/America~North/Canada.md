@@ -1,6 +1,4 @@
 ---
-age_of_majority: http://www.wikidata.org/.well-known/genid/00e58d958cfcbd910589e02b26b831a8
-aircraft_registration_prefix: C
 aliases:
   - Canada
   - Canadá
@@ -9,6 +7,9 @@ aliases:
   - Канада
   - el Canadá
   - Canadá (el)
+has_id_wikidata: Q16
+age_of_majority: http://www.wikidata.org/.well-known/genid/00e58d958cfcbd910589e02b26b831a8
+aircraft_registration_prefix: C
 anthem: "[[_Standards/WikiData/WD~O_Canada,93359]]"
 area: 9984670
 Baidu_Tieba_name: 加拿大
@@ -267,7 +268,7 @@ ethnic_group:
   - "[[_Standards/WikiData/WD~German_Canadians,5030929]]"
   - "[[_Standards/WikiData/WD~Scottish_Canadians,7437641]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Canada,422404]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 18929706
   - 19132565
@@ -294,7 +295,6 @@ hashtag:
   - Kanada
 has_cabinet: "[[_Standards/WikiData/WD~King's_Privy_Council_for_Canada,1631137]]"
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-has_id_wikidata: Q16
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~province_or_territory_of_Canada,2879]]"
 has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Great_Seal_of_Canada,2356606]]"
 has_time_started: 1867-07-01
@@ -323,7 +323,7 @@ ISO_3166_1_numeric_code: 124
 isReadOnly: false
 item_operated: "[[_Standards/WikiData/WD~embassy_of_Canada,_The_Hague,100699867]]"
 ITU_letter_code: CAN
-keywords:
+keywords: ""
 Krugosvet_article: strany-mira/kanada
 Languages:
   - en-CA
@@ -332,12 +332,12 @@ Languages:
 language_used:
   - "[[_Standards/WikiData/WD~English,1860]]"
   - "[[_Standards/WikiData/WD~French,150]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Canada,475689]]"
 licence_plate_code: CDN
 license: CC BY-SA 4.0
 life_expectancy: 83.62
-linkTitle:
+linkTitle: ""
 literacy_rate: 99
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~North_America,49]]"
 located_in_or_next_to_body_of_water:
@@ -462,7 +462,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-ca-Ca
 Provenio_UUID: 39a22259-8a93-4eef-9146-636f53c37c81
 public_holiday: http://www.wikidata.org/.well-known/genid/520e1b57a603f93b58b4ca151c3e4c58
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side: "[[_Standards/WikiData/WD~right,14565199]]"
 replaces: "[[_Standards/WikiData/WD~Province_of_Canada,1121436]]"
 retirement_age: 65

@@ -3,6 +3,8 @@ aliases:
   - Structural_Violence
   - Structural Violence
   - Structural abuse
+  - Structural_Abuse
+  - Structural Abuse
 ---
 
 # [[Structural_Abuse]] 

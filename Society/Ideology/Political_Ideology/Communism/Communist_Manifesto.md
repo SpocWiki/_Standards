@@ -1,78 +1,80 @@
 ---
 aliases:
   - Kommunistische Manifest
-  - Manifesto of the Communist Party 
+  - Manifesto of the Communist Party
   - Manifest der Kommunistischen Partei
+  - Communist_Manifesto
+  - Communist Manifesto
 has_id_wikidata: Q40591
 title: Das Kommunistische Manifest
 last_line: Proletarier aller Länder vereinigt Euch!
 country_of_origin:
-  - "[[_Standards/WikiData/WD~German_Confederation,151624]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~German_Confederation,151624]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 translator:
-  - "[[_Standards/WikiData/WD~Georgi_Plekhanov,182905]]"
-  - "[[_Standards/WikiData/WD~Vatslav_Vorovsky,1365246]]"
-  - "[[_Standards/WikiData/WD~Vladimir_Adoratsky,2034058]]"
-  - "[[_Standards/WikiData/WD~Vladimir_Posse,4374157]]"
-  - "[[_Standards/WikiData/WD~José_Ovejero,5944447]]"
-  - "[[_Standards/WikiData/WD~Wenceslao_Roces,11705273]]"
-  - "[[_Standards/WikiData/WD~Arthur_Brooks_Baker,12345313]]"
-  - "[[_Standards/WikiData/WD~August_Radimský,15829932]]"
-  - "[[_Standards/WikiData/WD~Valborg_Sønstevold,56736493]]"
-  - "[[_Standards/WikiData/WD~mia_califa,27645]]"
+  - '[[_Standards/WikiData/WD~Georgi_Plekhanov,182905]]'
+  - '[[_Standards/WikiData/WD~Vatslav_Vorovsky,1365246]]'
+  - '[[_Standards/WikiData/WD~Vladimir_Adoratsky,2034058]]'
+  - '[[_Standards/WikiData/WD~Vladimir_Posse,4374157]]'
+  - '[[_Standards/WikiData/WD~José_Ovejero,5944447]]'
+  - '[[_Standards/WikiData/WD~Wenceslao_Roces,11705273]]'
+  - '[[_Standards/WikiData/WD~Arthur_Brooks_Baker,12345313]]'
+  - '[[_Standards/WikiData/WD~August_Radimský,15829932]]'
+  - '[[_Standards/WikiData/WD~Valborg_Sønstevold,56736493]]'
+  - '[[_Standards/WikiData/WD~mia_califa,27645]]'
 main_subject:
-  - "[[_Standards/WikiData/WD~communist_party,233591]]"
-  - "[[_Standards/WikiData/WD~communist_revolution,2415843]]"
-  - "[[_Standards/WikiData/WD~communism,6186]]"
-  - "[[_Standards/WikiData/WD~socialism,7272]]"
+  - '[[_Standards/WikiData/WD~communist_party,233591]]'
+  - '[[_Standards/WikiData/WD~communist_revolution,2415843]]'
+  - '[[_Standards/WikiData/WD~communism,6186]]'
+  - '[[_Standards/WikiData/WD~socialism,7272]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~literary_work,7725634]]"
-  - "[[_Standards/WikiData/WD~manifesto,46337]]"
+  - '[[_Standards/WikiData/WD~literary_work,7725634]]'
+  - '[[_Standards/WikiData/WD~manifesto,46337]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Manifesto_of_the_Communist_Party_1,16749688]]"
-  - "[[_Standards/WikiData/WD~Manifesto_of_the_Communist_Party_2,16749689]]"
-  - "[[_Standards/WikiData/WD~Manifesto_of_the_Communist_Party_4,16749694]]"
-  - "[[_Standards/WikiData/WD~Manifesto_of_the_Communist_Party_3,16749692]]"
+  - '[[_Standards/WikiData/WD~Manifesto_of_the_Communist_Party_1,16749688]]'
+  - '[[_Standards/WikiData/WD~Manifesto_of_the_Communist_Party_2,16749689]]'
+  - '[[_Standards/WikiData/WD~Manifesto_of_the_Communist_Party_4,16749694]]'
+  - '[[_Standards/WikiData/WD~Manifesto_of_the_Communist_Party_3,16749692]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Manifesto_of_the_Communist_Party_4,16749694]]"
-  - "[[_Standards/WikiData/WD~Manifesto_of_the_Communist_Party_3,16749692]]"
-  - "[[_Standards/WikiData/WD~Manifest_der_Kommunistischen_Partei_(1st_edition,_1848),19218874]]"
-  - "[[_Standards/WikiData/WD~Il_Manifesto_del_Partito_Comunista_(1891_Italian_edition),19759114]]"
-  - "[[_Standards/WikiData/WD~Manifesto_of_the_German_Communist_Party_(1850_English_edition),51886025]]"
-  - "[[_Standards/WikiData/WD~Capital,_The_Communist_Manifesto,_and_Other_Writings_(1932_edition),51886037]]"
-  - "[[_Standards/WikiData/WD~Det_kommunistiske_manifest,57313148]]"
-  - "[[_Standards/WikiData/WD~Q59777426,59777426]]"
-  - "[[_Standards/WikiData/WD~The_Communist_Manifesto,60590152]]"
-  - "[[_Standards/WikiData/WD~Manifest_Komunistyczny,64007155]]"
-  - "[[_Standards/WikiData/WD~Det_kommunistiska_manifestet,65525831]]"
-  - "[[_Standards/WikiData/WD~Q83220805,83220805]]"
-  - "[[_Standards/WikiData/WD~Manifesto_of_the_Communist_Party,86484795]]"
-  - "[[_Standards/WikiData/WD~O_Manifesto_Comunista,92692334]]"
-  - "[[_Standards/WikiData/WD~Q111600441,111600441]]"
-  - "[[_Standards/WikiData/WD~Q111600446,111600446]]"
-  - "[[_Standards/WikiData/WD~Q111600444,111600444]]"
-  - "[[_Standards/WikiData/WD~Q111600445,111600445]]"
-  - "[[_Standards/WikiData/WD~Q111600451,111600451]]"
-  - "[[_Standards/WikiData/WD~Q111600454,111600454]]"
-  - "[[_Standards/WikiData/WD~Q111600453,111600453]]"
-  - "[[_Standards/WikiData/WD~Q111600456,111600456]]"
-  - "[[_Standards/WikiData/WD~Q111720137,111720137]]"
-  - "[[_Standards/WikiData/WD~Q113167413,113167413]]"
-  - "[[_Standards/WikiData/WD~Q136488516,136488516]]"
+  - '[[_Standards/WikiData/WD~Manifesto_of_the_Communist_Party_4,16749694]]'
+  - '[[_Standards/WikiData/WD~Manifesto_of_the_Communist_Party_3,16749692]]'
+  - '[[_Standards/WikiData/WD~Manifest_der_Kommunistischen_Partei_(1st_edition,_1848),19218874]]'
+  - '[[_Standards/WikiData/WD~Il_Manifesto_del_Partito_Comunista_(1891_Italian_edition),19759114]]'
+  - '[[_Standards/WikiData/WD~Manifesto_of_the_German_Communist_Party_(1850_English_edition),51886025]]'
+  - '[[_Standards/WikiData/WD~Capital,_The_Communist_Manifesto,_and_Other_Writings_(1932_edition),51886037]]'
+  - '[[_Standards/WikiData/WD~Det_kommunistiske_manifest,57313148]]'
+  - '[[_Standards/WikiData/WD~Q59777426,59777426]]'
+  - '[[_Standards/WikiData/WD~The_Communist_Manifesto,60590152]]'
+  - '[[_Standards/WikiData/WD~Manifest_Komunistyczny,64007155]]'
+  - '[[_Standards/WikiData/WD~Det_kommunistiska_manifestet,65525831]]'
+  - '[[_Standards/WikiData/WD~Q83220805,83220805]]'
+  - '[[_Standards/WikiData/WD~Manifesto_of_the_Communist_Party,86484795]]'
+  - '[[_Standards/WikiData/WD~O_Manifesto_Comunista,92692334]]'
+  - '[[_Standards/WikiData/WD~Q111600441,111600441]]'
+  - '[[_Standards/WikiData/WD~Q111600446,111600446]]'
+  - '[[_Standards/WikiData/WD~Q111600444,111600444]]'
+  - '[[_Standards/WikiData/WD~Q111600445,111600445]]'
+  - '[[_Standards/WikiData/WD~Q111600451,111600451]]'
+  - '[[_Standards/WikiData/WD~Q111600454,111600454]]'
+  - '[[_Standards/WikiData/WD~Q111600453,111600453]]'
+  - '[[_Standards/WikiData/WD~Q111600456,111600456]]'
+  - '[[_Standards/WikiData/WD~Q111720137,111720137]]'
+  - '[[_Standards/WikiData/WD~Q113167413,113167413]]'
+  - '[[_Standards/WikiData/WD~Q136488516,136488516]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-derivative_work: "[[_Standards/WikiData/WD~Communist_International_Manifesto,30887874]]"
-genre: "[[_Standards/WikiData/WD~political_manifesto,104783349]]"
-has_characteristic: "[[_Standards/WikiData/WD~Q113991216,113991216]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+derivative_work: '[[_Standards/WikiData/WD~Communist_International_Manifesto,30887874]]'
+genre: '[[_Standards/WikiData/WD~political_manifesto,104783349]]'
+has_characteristic: '[[_Standards/WikiData/WD~Q113991216,113991216]]'
 publication_date: 1848-02-21T00:00:00Z
-movement: "[[_Standards/WikiData/WD~Marxism,7264]]"
+movement: '[[_Standards/WikiData/WD~Marxism,7264]]'
 author:
-  - "[[_Standards/WikiData/WD~Karl_Marx,9061]]"
-  - "[[_Standards/WikiData/WD~Friedrich_Engels,34787]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-narrative_location: "[[_Standards/WikiData/WD~Germany,183]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~German,188]]"
+  - '[[_Standards/WikiData/WD~Karl_Marx,9061]]'
+  - '[[_Standards/WikiData/WD~Friedrich_Engels,34787]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+narrative_location: '[[_Standards/WikiData/WD~Germany,183]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~German,188]]'
 number_of_pages: 23
 first_line: Ein Gespenst geht um in Europa – das Gespenst des Kommunismus.
 PhilPapers_record: MARMOT

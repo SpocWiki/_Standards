@@ -3,23 +3,24 @@ aliases:
   - has event-schedule
   - eventSchedule
   - has_event_schedule
+  - has event schedule
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - event
   - schedule
   - event_schedule
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_event_schedule
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -4,20 +4,22 @@ aliases:
   - health_topic_content
   - HealthTopicContent
   - is_a_health_topic_content
+  - Health_Topic_Content
+  - Health Topic Content
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - health_topic_content
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_health_topic_content Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

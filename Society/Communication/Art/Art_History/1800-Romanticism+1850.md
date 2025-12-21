@@ -3,35 +3,36 @@ aliases:
   - Romantik
   - Romantic movement
   - Romantic era
+  - 1800-Romanticism+1850
 has_id_wikidata: Q37068
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~art_style,1792644]]"
-  - "[[_Standards/WikiData/WD~cultural_movement,2198855]]"
-  - "[[_Standards/WikiData/WD~literary_movement,3326717]]"
-  - "[[_Standards/WikiData/WD~architectural_style,32880]]"
-followed_by: "[[_Standards/WikiData/WD~Post_romanticism,1125039]]"
-follows: "[[_Standards/WikiData/WD~Pre_romanticism,2614483]]"
+  - '[[_Standards/WikiData/WD~art_movement,968159]]'
+  - '[[_Standards/WikiData/WD~art_style,1792644]]'
+  - '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
+  - '[[_Standards/WikiData/WD~literary_movement,3326717]]'
+  - '[[_Standards/WikiData/WD~architectural_style,32880]]'
+followed_by: '[[_Standards/WikiData/WD~Post_romanticism,1125039]]'
+follows: '[[_Standards/WikiData/WD~Pre_romanticism,2614483]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~romantic_drama,3038946]]"
-  - "[[_Standards/WikiData/WD~Romantic_painting,3088366]]"
-  - "[[_Standards/WikiData/WD~Romantic_literature,5977111]]"
-  - "[[_Standards/WikiData/WD~Romantic_philosophy,12775412]]"
-  - "[[_Standards/WikiData/WD~French_Romanticism,27301872]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Romanticism,24820005]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q28038855,28038855]]"
+  - '[[_Standards/WikiData/WD~romantic_drama,3038946]]'
+  - '[[_Standards/WikiData/WD~Romantic_painting,3088366]]'
+  - '[[_Standards/WikiData/WD~Romantic_literature,5977111]]'
+  - '[[_Standards/WikiData/WD~Romantic_philosophy,12775412]]'
+  - '[[_Standards/WikiData/WD~French_Romanticism,27301872]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Romanticism,24820005]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q28038855,28038855]]'
 end_time: 1900-01-01T00:00:00Z
-Dewey_Decimal_Classification: "141.6"
-OmegaWiki_Defined_Meaning: "1640510"
+Dewey_Decimal_Classification: 141.6
+OmegaWiki_Defined_Meaning: 1640510
 PhilPapers_topic: romanticism
 Commons_gallery: Romanticism
 Commons_category: Romanticism

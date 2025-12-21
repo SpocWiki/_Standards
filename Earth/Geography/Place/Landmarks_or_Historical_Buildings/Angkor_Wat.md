@@ -1,38 +1,39 @@
 ---
-aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Angkor%20Wat%20Aerial%20View%20Siem%20Reap%20Cambodia%202011.jpg
 aliases:
   - Angkor Wat
   - អង្គរវត្ត
+  - Angkor_Wat
+has_id_wikidata: Q43473
+aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Angkor%20Wat%20Aerial%20View%20Siem%20Reap%20Cambodia%202011.jpg
 architectural_style:
-  - "[[_Standards/WikiData/WD~Dravidian_architecture,171309]]"
-  - "[[_Standards/WikiData/WD~Thai_architecture,2480618]]"
-based_on: "[[_Standards/WikiData/WD~Mount_Meru,652550]]"
+  - '[[_Standards/WikiData/WD~Dravidian_architecture,171309]]'
+  - '[[_Standards/WikiData/WD~Thai_architecture,2480618]]'
+based_on: '[[_Standards/WikiData/WD~Mount_Meru,652550]]'
 Commons_category: Angkor Wat
 Commons_gallery: អង្គរវត្
 coordinate_location: Point(103.866666666 13.4125)
-country: "[[_Standards/WikiData/WD~Cambodia,424]]"
-creator: "[[_Standards/WikiData/WD~Suryavarman_II,313298]]"
+country: '[[_Standards/WikiData/WD~Cambodia,424]]'
+creator: '[[_Standards/WikiData/WD~Suryavarman_II,313298]]'
 elevation_above_sea_level: 65
-has_id_wikidata: Q43473
 has_time_started: 1200-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Angkor%20wat%20temple.jpg
 inception: 1200
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~archaeological_site,839954]]"
-  - "[[_Standards/WikiData/WD~Hindu_temple,842402]]"
-  - "[[_Standards/WikiData/WD~Buddhist_temple,5393308]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Siem_Reap_Province,652818]]"
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~archaeological_site,839954]]'
+  - '[[_Standards/WikiData/WD~Hindu_temple,842402]]'
+  - '[[_Standards/WikiData/WD~Buddhist_temple,5393308]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Siem_Reap_Province,652818]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Angkor%20wat%20plano%20v.png
 native_label:
   - អង្គរវត្ត
 part_of:
-  - "[[_Standards/WikiData/WD~Angkor,163607]]"
-  - "[[_Standards/WikiData/WD~Angkor,2397751]]"
-patron_saint: "[[_Standards/WikiData/WD~Vishnu,11380]]"
-present_in_work: "[[_Standards/WikiData/WD~Illusion_of_Gaia,1658920]]"
+  - '[[_Standards/WikiData/WD~Angkor,163607]]'
+  - '[[_Standards/WikiData/WD~Angkor,2397751]]'
+patron_saint: '[[_Standards/WikiData/WD~Vishnu,11380]]'
+present_in_work: '[[_Standards/WikiData/WD~Illusion_of_Gaia,1658920]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Hinduism,9089]]"
+  - '[[_Standards/WikiData/WD~Hinduism,9089]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B1%D5%B6%D5%A3%D5%AF%D5%B8%D6%80%20%D5%8E%D5%A1%D5%BF%20%28Angkor%20Wat%29.ogg
 video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Angkor%20-%20centre%20of%20the%20Khmer%20Kingdom%2C%20TerraX%20%28English%20AI%20redub%2C%20v2%29.webm

@@ -4,21 +4,22 @@ aliases:
   - shipping_settings_link
   - shippingSettingsLink
   - has_url_for_shipping_settings_link
+  - has url for shipping settings link
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - shipping_settings_link
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_shipping_settings_link
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

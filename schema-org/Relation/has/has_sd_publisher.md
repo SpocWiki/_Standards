@@ -3,23 +3,24 @@ aliases:
   - has sd-publisher
   - sdPublisher
   - has_sd_publisher
+  - has sd publisher
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sd_publisher
   - sd
   - publisher
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_sd_publisher
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

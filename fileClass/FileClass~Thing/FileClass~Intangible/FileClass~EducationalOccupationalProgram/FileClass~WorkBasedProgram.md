@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~WorkBasedProgram
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/WorkBasedProgram
-- class/Thing/Intangible/EducationalOccupationalProgram/WorkBasedProgram
-- is_a_/WorkBasedProgram
-- schema-org/WorkBasedProgram
+  - class/WorkBasedProgram
+  - class/Thing/Intangible/EducationalOccupationalProgram/WorkBasedProgram
+  - is_a_/WorkBasedProgram
+  - schema-org/WorkBasedProgram
 tags:
-- class/FileClass
-- class/WorkBasedProgram
-- is_a_/WorkBasedProgram
-- class/Thing/Intangible/EducationalOccupationalProgram/WorkBasedProgram
+  - class/FileClass
+  - class/WorkBasedProgram
+  - is_a_/WorkBasedProgram
+  - class/Thing/Intangible/EducationalOccupationalProgram/WorkBasedProgram
 version: 2.0
 ---
 

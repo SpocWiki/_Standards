@@ -4,21 +4,23 @@ aliases:
   - usage_or_schedule_health_aspect
   - UsageOrScheduleHealthAspect
   - is_a_usage_or_schedule_health_aspect
+  - Usage_or_Schedule_Health_Aspect
+  - Usage or Schedule Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - usage_or_schedule_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_usage_or_schedule_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

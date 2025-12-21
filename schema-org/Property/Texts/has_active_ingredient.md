@@ -4,22 +4,24 @@ aliases:
   - active_ingredient
   - activeIngredient
   - has_text_of_active_ingredient
+  - has_active_ingredient
+  - has active ingredient
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - active
   - ingredient
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_active_ingredient
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

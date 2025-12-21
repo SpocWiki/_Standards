@@ -4,21 +4,22 @@ aliases:
   - number-of-partial-bathrooms
   - numberOfPartialBathrooms
   - has_number_of_partial_bathrooms
+  - has number of partial bathrooms
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - number-of-partial-bathrooms
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_number-of-partial-bathrooms
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

@@ -1,17 +1,18 @@
 ---
 aliases:
   - electronic government
+  - E-Government
 has_id_wikidata: Q211017
-part_of: "[[_Standards/WikiData/WD~public_law,207892]]"
+part_of: '[[_Standards/WikiData/WD~public_law,207892]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Electronic_Legal_Transactions,1327293]]"
-  - "[[_Standards/WikiData/WD~electronic_governance,30032134]]"
+  - '[[_Standards/WikiData/WD~Electronic_Legal_Transactions,1327293]]'
+  - '[[_Standards/WikiData/WD~electronic_governance,30032134]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~technology,11016]]"
-  - "[[_Standards/WikiData/WD~public_administration,31728]]"
-instance_of: "[[_Standards/WikiData/WD~technology,11016]]"
+  - '[[_Standards/WikiData/WD~technology,11016]]'
+  - '[[_Standards/WikiData/WD~public_administration,31728]]'
+instance_of: '[[_Standards/WikiData/WD~technology,11016]]'
 Commons_category: E-Government
-OmegaWiki_Defined_Meaning: "536033"
+OmegaWiki_Defined_Meaning: 536033
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Egyptian%20E-government%20portal.png
 ---
 

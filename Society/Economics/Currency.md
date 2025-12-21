@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Currency
+has_id_wikidata: Q8142
 Basisklassifikation: 83.44
 Colon_Classification: X61
 Commons_category: Currencies
@@ -17,7 +20,6 @@ different_from:
   - "[[_Standards/WikiData/WD~money,1368]]"
   - "[[_Standards/WikiData/WD~coin,41207]]"
 has_characteristic: "[[_Standards/WikiData/WD~currency_unit,12039317]]"
-has_id_wikidata: Q8142
 has_list: "[[_Standards/WikiData/WD~list_of_currencies,858338]]"
 history_of_topic: "[[_Standards/WikiData/WD~Q3137262,3137262]]"
 IAB_code: 82
@@ -44,7 +46,7 @@ Unicode_character: 💵
 Wikidata_property: currency
 ---
 
-# [[Currency]] 
+# [[Currency]] 💵 
 
 #is_/same_as :: [[../../WikiData/WD~Currency,8142|WD~Currency,8142]] 
 

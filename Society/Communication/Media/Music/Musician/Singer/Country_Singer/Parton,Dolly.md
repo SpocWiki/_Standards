@@ -2,6 +2,7 @@
 aliases:
   - Dolly Rebecca Parton
   - Dolly Parton
+  - Parton,Dolly
 has_id_wikidata: Q180453
 ---
 

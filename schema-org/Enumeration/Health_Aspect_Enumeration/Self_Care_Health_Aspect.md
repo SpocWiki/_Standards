@@ -4,21 +4,23 @@ aliases:
   - self_care_health_aspect
   - SelfCareHealthAspect
   - is_a_self_care_health_aspect
+  - Self_Care_Health_Aspect
+  - Self Care Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - self_care_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_self_care_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

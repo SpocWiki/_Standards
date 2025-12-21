@@ -4,20 +4,22 @@ aliases:
   - quantitative_value_distribution
   - QuantitativeValueDistribution
   - is_a_quantitative_value_distribution
+  - Quantitative_Value_Distribution
+  - Quantitative Value Distribution
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - quantitative_value_distribution
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_quantitative_value_distribution Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

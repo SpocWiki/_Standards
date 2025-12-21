@@ -1,6 +1,7 @@
 ---
 aliases:
   - Kuchen
+  - Pie
 has_id_wikidata: Q13360264
 ---
 

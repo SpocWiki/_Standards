@@ -1,28 +1,29 @@
 ---
 aliases:
   - Duell
+  - Duel
 has_id_wikidata: Q191503
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~combat,650711]]"
-  - "[[_Standards/WikiData/WD~manner_of_death,2438541]]"
-has_list: "[[_Standards/WikiData/WD~list_of_duels,6397425]]"
-different_from: "[[_Standards/WikiData/WD~Pojedynek,24704944]]"
-field_of_this_occupation: "[[_Standards/WikiData/WD~bretteur,27044075]]"
+  - '[[_Standards/WikiData/WD~combat,650711]]'
+  - '[[_Standards/WikiData/WD~manner_of_death,2438541]]'
+has_list: '[[_Standards/WikiData/WD~list_of_duels,6397425]]'
+different_from: '[[_Standards/WikiData/WD~Pojedynek,24704944]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~bretteur,27044075]]'
 IMDb_keyword: duel
-OmegaWiki_Defined_Meaning: "1514705"
-U_S_National_Archives_Identifier: "10637226"
+OmegaWiki_Defined_Meaning: 1514705
+U_S_National_Archives_Identifier: 10637226
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FrzDuellImBoisDeBoulogneDurand1874.jpg
 Provenio_UUID: c031ad03-127f-4afd-9b90-5af3fc7d68af
 Commons_category: Duels

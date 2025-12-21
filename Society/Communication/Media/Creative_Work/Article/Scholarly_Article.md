@@ -4,20 +4,22 @@ aliases:
   - scholarly_article
   - ScholarlyArticle
   - is_a_scholarly_article
+  - Scholarly_Article
+  - Scholarly Article
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - scholarly_article
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_scholarly_article Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -3,6 +3,7 @@ aliases:
   - Music
   - musical
   - Musik
+has_id_wikidata: 638
 confidential: private
 cssclasses:
   - private
@@ -11,20 +12,19 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: 
-has_id_wikidata: 638
+expiryDate: ''
 has_Template:
-  - "[[Extract~Note~Template]]"
+  - '[[Extract~Note~Template]]'
 has_time_started: 2025-07-19
 isDeleted: false
 isReadOnly: false
 keywords: Music
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Music
 publish: false
-publishDate: 
+publishDate: ''
 tags:
   - Music
   - excalidraw

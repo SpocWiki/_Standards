@@ -1,24 +1,25 @@
 ---
 aliases:
   - Netz
+  - Net
 has_id_wikidata: Q986291
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~filter,736556]]"
-  - "[[_Standards/WikiData/WD~structure,6671777]]"
-  - "[[_Standards/WikiData/WD~artificial_physical_object,8205328]]"
-  - "[[_Standards/WikiData/WD~physical_tool,39546]]"
+  - '[[_Standards/WikiData/WD~filter,736556]]'
+  - '[[_Standards/WikiData/WD~structure,6671777]]'
+  - '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
+  - '[[_Standards/WikiData/WD~physical_tool,39546]]'
 has_use:
-  - "[[_Standards/WikiData/WD~tie_down_straps,1277336]]"
-  - "[[_Standards/WikiData/WD~traction,1852039]]"
-  - "[[_Standards/WikiData/WD~fishing,14373]]"
+  - '[[_Standards/WikiData/WD~tie_down_straps,1277336]]'
+  - '[[_Standards/WikiData/WD~traction,1852039]]'
+  - '[[_Standards/WikiData/WD~fishing,14373]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~grid,2020720]]"
-  - "[[_Standards/WikiData/WD~headrope,113290096]]"
-Nomenclature_for_Museum_Cataloging: "11132"
-U_S_National_Archives_Identifier: "10676301"
+  - '[[_Standards/WikiData/WD~grid,2020720]]'
+  - '[[_Standards/WikiData/WD~headrope,113290096]]'
+Nomenclature_for_Museum_Cataloging: 11132
+U_S_National_Archives_Identifier: 10676301
 IMDb_keyword: net
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Orange%20texture%20made%20of%20a%20fishing%20net%20on%20a%20wooden%20board%20at%20golden%20hour.jpg
 start_time: -8000-01-01T00:00:00Z

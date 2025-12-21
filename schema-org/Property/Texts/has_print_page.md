@@ -4,22 +4,24 @@ aliases:
   - print_page
   - printPage
   - has_text_of_print_page
+  - has_print_page
+  - has print page
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - print
   - page
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_print_page
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

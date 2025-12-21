@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Speck
+  - Bacon
 has_id_wikidata: Q11106
 has_part_s_:
   - "[[_Standards/WikiData/WD~pork,191768]]"
@@ -18,8 +21,8 @@ hashtag:
   - bacon
 booru_tag: bacon
 Danbooru_tag: bacon
-U_S_National_Archives_Identifier: "10662831"
-OmegaWiki_Defined_Meaning: "859210"
+U_S_National_Archives_Identifier: 10662831
+OmegaWiki_Defined_Meaning: 859210
 subreddit:
   - Bacon
 Commons_gallery: Bacon
@@ -28,15 +31,13 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Made20bacon.png
 exact_match: http://purl.obolibrary.org/obo/ENVO_00003881
 MCN_code:
   - 0210.12.00
-Amazon_com_browse_node: "2256164011"
-P8189: "987007284500005171"
+Amazon_com_browse_node: 2256164011
+P8189: 987007284500005100
 FoodEx2_code: A022X
 Unicode_character: 🥓
-aliases:
-  - Speck
 ---
 
-# [[Bacon]] 
+# [[Bacon]] 🥓 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Bacon,11106|WD~Bacon,11106]] 
 

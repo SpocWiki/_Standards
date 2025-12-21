@@ -4,20 +4,22 @@ aliases:
   - accept_action
   - AcceptAction
   - is_an_accept_action
+  - Accept_Action
+  - Accept Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - accept_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_accept_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

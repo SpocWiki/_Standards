@@ -4,20 +4,22 @@ aliases:
   - merchant_return_enumeration
   - MerchantReturnEnumeration
   - is_a_merchant_return_enumeration
+  - Merchant_Return_Enumeration
+  - Merchant Return Enumeration
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - merchant_return_enumeration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_merchant_return_enumeration Class
 publish: true
-publishDate:
+publishDate: ''
 supersedes: ProductReturnEnumeration
 tags:
   - class/Class

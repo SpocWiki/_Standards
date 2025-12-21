@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Country
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/Country
-- class/Thing/Place/AdministrativeArea/Country
-- is_a_/Country
-- schema-org/Country
+  - class/Country
+  - class/Thing/Place/AdministrativeArea/Country
+  - is_a_/Country
+  - schema-org/Country
 tags:
-- class/FileClass
-- class/Country
-- is_a_/Country
-- class/Thing/Place/AdministrativeArea/Country
+  - class/FileClass
+  - class/Country
+  - is_a_/Country
+  - class/Thing/Place/AdministrativeArea/Country
 version: 2.0
 ---
 

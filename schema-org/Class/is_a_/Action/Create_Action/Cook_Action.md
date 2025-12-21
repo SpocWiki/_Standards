@@ -4,20 +4,22 @@ aliases:
   - cook_action
   - CookAction
   - is_a_cook_action
+  - Cook_Action
+  - Cook Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - cook_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_cook_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

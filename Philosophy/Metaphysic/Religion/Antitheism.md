@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Antitheism
 has_id_wikidata: Q5522978
 ---
 

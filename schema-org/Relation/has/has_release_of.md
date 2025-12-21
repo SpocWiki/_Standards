@@ -3,23 +3,24 @@ aliases:
   - has release-of
   - releaseOf
   - has_release_of
+  - has release of
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - release_of
   - release
   - of
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_release_of
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

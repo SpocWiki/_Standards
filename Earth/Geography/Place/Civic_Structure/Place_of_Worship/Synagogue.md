@@ -1,7 +1,6 @@
 ---
 aliases:
   - synagogue
-  - synagogue
   - Synagogue
   - is_a_synagogue
 has_id_wikidata: Q34627
@@ -9,16 +8,16 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - synagogue
-layout:
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_synagogue Class
 publish: true
-publishDate:
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
@@ -45,18 +44,18 @@ subclass_of:
 has_part_s_: "[[_Standards/WikiData/WD~bimah,863418]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_synagogue,10805605]]"
 facet_of: "[[_Standards/WikiData/WD~Judaism,9268]]"
-Nomenclature_for_Museum_Cataloging: "594"
-OmegaWiki_Defined_Meaning: "6564"
+Nomenclature_for_Museum_Cataloging: 594
+OmegaWiki_Defined_Meaning: 6564
 IMDb_keyword: synagogue
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Eldridge%20Street%20Synagogue%20%2842773%29.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Princes%20Road%20Synagogue%20Nave.jpg
 Commons_gallery: Synagogue
 Dewey_Decimal_Classification:
-  - "726.3"
-  - "296.46"
-  - "296.09"
-  - "296.65"
+  - 726.3
+  - 296.46
+  - 296.09
+  - 296.65
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Font%20Awesome%205%20solid%20synagogue.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B8%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%97%E0%A5%89%E0%A4%97.wav
 equivalent_class:
@@ -70,7 +69,7 @@ Unicode_character: 🕍
 OpenStreetMap_tag: building=synagogue
 ---
 
-# [[Synagogue]] 
+# [[Synagogue]] 🕍 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Synagogue,34627|WD~Synagogue,34627]] 
 

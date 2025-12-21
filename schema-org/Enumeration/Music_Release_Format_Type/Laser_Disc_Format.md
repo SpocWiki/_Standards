@@ -4,21 +4,23 @@ aliases:
   - laser_disc_format
   - LaserDiscFormat
   - is_a_laser_disc_format
+  - Laser_Disc_Format
+  - Laser Disc Format
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MusicReleaseFormatType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - laser_disc_format
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_laser_disc_format Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

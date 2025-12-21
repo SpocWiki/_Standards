@@ -1,23 +1,24 @@
 ---
 aliases:
   - has_bcc_recipient
+  - has bcc recipient
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - bcc
   - recipient
   - bccRecipient
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_bcc_recipient
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

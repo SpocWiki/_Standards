@@ -9,18 +9,20 @@ aliases:
   - law of parsimony
   - lex parsimoniae
   - Sparsamkeitsprinzip
+  - Occam's_Razor
+  - Occam's Razor
 has_id_wikidata: Q131012
 instance_of:
-  - "[[_Standards/WikiData/WD~aphorism,165740]]"
-  - "[[_Standards/WikiData/WD~philosophical_razor,7299618]]"
-  - "[[_Standards/WikiData/WD~heuristic_argument,16945639]]"
-  - "[[_Standards/WikiData/WD~Epigrammatic_law,18673030]]"
+  - '[[_Standards/WikiData/WD~aphorism,165740]]'
+  - '[[_Standards/WikiData/WD~philosophical_razor,7299618]]'
+  - '[[_Standards/WikiData/WD~heuristic_argument,16945639]]'
+  - '[[_Standards/WikiData/WD~Epigrammatic_law,18673030]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-depicts: "[[_Standards/WikiData/WD~parsimony,3364869]]"
-different_from: "[[_Standards/WikiData/WD~Sagan_standard,27963927]]"
-named_after: "[[_Standards/WikiData/WD~William_of_Ockham,43936]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+depicts: '[[_Standards/WikiData/WD~parsimony,3364869]]'
+different_from: '[[_Standards/WikiData/WD~Sagan_standard,27963927]]'
+named_after: '[[_Standards/WikiData/WD~William_of_Ockham,43936]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Pluralitas.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/The%20Ockraz%20Logo.svg

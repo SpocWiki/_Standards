@@ -2,6 +2,7 @@
 aliases:
   - die
   - Würfel
+  - Dice
 has_id_wikidata: Q45089
 has_use:
   - "[[_Standards/WikiData/WD~random_number_generation,228206]]"
@@ -18,8 +19,8 @@ notation: "[[_Standards/WikiData/WD~d_notation,2843874]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 subclass_of: "[[_Standards/WikiData/WD~game_equipment,17638008]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Dice,22796736]]"
-Nomenclature_for_Museum_Cataloging: "14173"
-OmegaWiki_Defined_Meaning: "6270"
+Nomenclature_for_Museum_Cataloging: 14173
+OmegaWiki_Defined_Meaning: 6270
 hashtag_:
   - Spielwürfel
   - Würfel
@@ -40,11 +41,11 @@ Unicode_character:
   - ⚄
   - ⚅
   - 🎲
-U_S_National_Archives_Identifier: "10646683"
+U_S_National_Archives_Identifier: 10646683
 Library_of_Congress_Classification: GV1303
 ---
 
-# [[Dice]] 
+# [[Dice]] 🎲 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Dice,45089|WD~Dice,45089]] 
 

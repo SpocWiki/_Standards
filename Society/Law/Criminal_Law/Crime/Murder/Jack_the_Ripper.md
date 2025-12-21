@@ -3,44 +3,45 @@ aliases:
   - Whitechapel Murderer
   - Leather Apron
   - Jack the Ripper
+  - Jack_the_Ripper
 has_id_wikidata: Q43963
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Thomas_Neill_Cream,117026]]"
-  - "[[_Standards/WikiData/WD~Prince_Albert_Victor,_Duke_of_Clarence_and_Avondale,159670]]"
-  - "[[_Standards/WikiData/WD~James_Maybrick,325864]]"
-  - "[[_Standards/WikiData/WD~Montague_Druitt,337837]]"
-  - "[[_Standards/WikiData/WD~George_Chapman,350959]]"
-  - "[[_Standards/WikiData/WD~Francis_Thompson,367745]]"
-  - "[[_Standards/WikiData/WD~Walter_Sickert,703369]]"
-  - "[[_Standards/WikiData/WD~Sir_William_Gull,_1st_Baronet,1863354]]"
+  - '[[_Standards/WikiData/WD~Thomas_Neill_Cream,117026]]'
+  - '[[_Standards/WikiData/WD~Prince_Albert_Victor,_Duke_of_Clarence_and_Avondale,159670]]'
+  - '[[_Standards/WikiData/WD~James_Maybrick,325864]]'
+  - '[[_Standards/WikiData/WD~Montague_Druitt,337837]]'
+  - '[[_Standards/WikiData/WD~George_Chapman,350959]]'
+  - '[[_Standards/WikiData/WD~Francis_Thompson,367745]]'
+  - '[[_Standards/WikiData/WD~Walter_Sickert,703369]]'
+  - '[[_Standards/WikiData/WD~Sir_William_Gull,_1st_Baronet,1863354]]'
   - "[[_Standards/WikiData/WD~Robert_D'Onston_Stephenson,2233766]]"
-  - "[[_Standards/WikiData/WD~Aaron_Kosminski,2820067]]"
-  - "[[_Standards/WikiData/WD~James_Kenneth_Stephen,3365829]]"
-  - "[[_Standards/WikiData/WD~William_Henry_Bury,4025952]]"
-  - "[[_Standards/WikiData/WD~Frederick_Bailey_Deeming,4135213]]"
-  - "[[_Standards/WikiData/WD~Francis_Tumblety,5482636]]"
-  - "[[_Standards/WikiData/WD~Sir_John_Williams,_1st_Baronet,_of_the_City_of_London,7528143]]"
-  - "[[_Standards/WikiData/WD~Joseph_Silver,11730837]]"
-  - "[[_Standards/WikiData/WD~Lewis_Carroll,38082]]"
-work_locations: "[[_Standards/WikiData/WD~Whitechapel,124539]]"
-occupation: "[[_Standards/WikiData/WD~serial_killer,484188]]"
-described_by_source: "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-different_from: "[[_Standards/WikiData/WD~Kuba_Rozpruwacz,11715755]]"
+  - '[[_Standards/WikiData/WD~Aaron_Kosminski,2820067]]'
+  - '[[_Standards/WikiData/WD~James_Kenneth_Stephen,3365829]]'
+  - '[[_Standards/WikiData/WD~William_Henry_Bury,4025952]]'
+  - '[[_Standards/WikiData/WD~Frederick_Bailey_Deeming,4135213]]'
+  - '[[_Standards/WikiData/WD~Francis_Tumblety,5482636]]'
+  - '[[_Standards/WikiData/WD~Sir_John_Williams,_1st_Baronet,_of_the_City_of_London,7528143]]'
+  - '[[_Standards/WikiData/WD~Joseph_Silver,11730837]]'
+  - '[[_Standards/WikiData/WD~Lewis_Carroll,38082]]'
+work_locations: '[[_Standards/WikiData/WD~Whitechapel,124539]]'
+occupation: '[[_Standards/WikiData/WD~serial_killer,484188]]'
+described_by_source: '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+different_from: '[[_Standards/WikiData/WD~Kuba_Rozpruwacz,11715755]]'
 floruit: 1888-01-01T00:00:00Z
 date_of_birth: http://www.wikidata.org/.well-known/genid/c16741b40b86e259f32cd9cdf64f53a1
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_burial: "[[_Standards/WikiData/WD~London,84]]"
-place_of_death: "[[_Standards/WikiData/WD~London,84]]"
-place_of_birth: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_burial: '[[_Standards/WikiData/WD~London,84]]'
+place_of_death: '[[_Standards/WikiData/WD~London,84]]'
+place_of_birth: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 Commons_Creator_page: Jack the Ripper
 Commons_gallery: Jack the Ripper
 Commons_category: Jack the Ripper
 date_of_death: http://www.wikidata.org/.well-known/genid/54b93e327149a2631254c39976c63754
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Jack-the-ripper.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/JacktheRipper1888.jpg
-ISNI: "0000000430850890"
+ISNI: 0000000430850890
 IMDb_keyword: reference-to-jack-the-ripper
 family_name: http://www.wikidata.org/.well-known/genid/6952a685cb38db062e6551ecd11021b7
 given_name: http://www.wikidata.org/.well-known/genid/2303255764bb538563772e915f049e52

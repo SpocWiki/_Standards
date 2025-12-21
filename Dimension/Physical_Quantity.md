@@ -1,23 +1,25 @@
 ---
 aliases:
   - physical quantity
+  - Physical_Quantity
+  - Physical Quantity
 has_id_wikidata: Q107715
-has_list: "[[_Standards/WikiData/WD~list_of_physical_quantities,916091]]"
+has_list: '[[_Standards/WikiData/WD~list_of_physical_quantities,916091]]'
 different_from:
-  - "[[_Standards/WikiData/WD~physical_property,4373292]]"
-  - "[[_Standards/WikiData/WD~state_of_matter,11430]]"
+  - '[[_Standards/WikiData/WD~physical_property,4373292]]'
+  - '[[_Standards/WikiData/WD~state_of_matter,11430]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_property,4373292]]"
-  - "[[_Standards/WikiData/WD~individual_quantity,71550118]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_physical_quantity,8761512]]"
+  - '[[_Standards/WikiData/WD~physical_property,4373292]]'
+  - '[[_Standards/WikiData/WD~individual_quantity,71550118]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_physical_quantity,8761512]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~physical_sciences,14632398]]"
-  - "[[_Standards/WikiData/WD~physics,413]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-instance_of: "[[_Standards/WikiData/WD~general_quantity,71758646]]"
+  - '[[_Standards/WikiData/WD~physical_sciences,14632398]]'
+  - '[[_Standards/WikiData/WD~physics,413]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+instance_of: '[[_Standards/WikiData/WD~general_quantity,71758646]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~quantity_value,110597311]]"
-  - "[[_Standards/WikiData/WD~quantity_dimension,19110]]"
+  - '[[_Standards/WikiData/WD~quantity_value,110597311]]'
+  - '[[_Standards/WikiData/WD~quantity_dimension,19110]]'
 properties_for_this_type:
   - quantity symbol (string)
   - ISQ dimension
@@ -25,7 +27,7 @@ Wikidata_property:
   - measures
   - Wolfram Language quantity ID
   - measured physical quantity
-OmegaWiki_Defined_Meaning: "396549"
+OmegaWiki_Defined_Meaning: 396549
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Amp%C3%A8remetre.jpg
 Commons_category: Physical quantities
 described_at_URL:

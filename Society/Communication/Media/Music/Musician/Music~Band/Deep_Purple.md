@@ -1,6 +1,7 @@
 ---
 aliases:
   - Deep Purple
+  - Deep_Purple
 has_id_wikidata: Q101505
 Commons_category: Deep Purple
 VK_username: deep_purple
@@ -10,57 +11,57 @@ Facebook_username: officialdeeppurple
 native_label: Deep Purple
 official_name: Deep Purple
 genre:
-  - "[[_Standards/WikiData/WD~hard_rock,83270]]"
-  - "[[_Standards/WikiData/WD~psychedelic_rock,206159]]"
-  - "[[_Standards/WikiData/WD~traditional_heavy_metal,1133657]]"
-  - "[[_Standards/WikiData/WD~classic_rock,56351111]]"
-  - "[[_Standards/WikiData/WD~progressive_rock,49451]]"
+  - '[[_Standards/WikiData/WD~hard_rock,83270]]'
+  - '[[_Standards/WikiData/WD~psychedelic_rock,206159]]'
+  - '[[_Standards/WikiData/WD~traditional_heavy_metal,1133657]]'
+  - '[[_Standards/WikiData/WD~classic_rock,56351111]]'
+  - '[[_Standards/WikiData/WD~progressive_rock,49451]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~The_Animals,131422]]"
-  - "[[_Standards/WikiData/WD~The_Kinks,188713]]"
-  - "[[_Standards/WikiData/WD~Jeff_Beck,192474]]"
-  - "[[_Standards/WikiData/WD~The_Yardbirds,192725]]"
-  - "[[_Standards/WikiData/WD~Cream,203736]]"
-  - "[[_Standards/WikiData/WD~The_Moody_Blues,211965]]"
-  - "[[_Standards/WikiData/WD~Small_Faces,222628]]"
-  - "[[_Standards/WikiData/WD~Iron_Butterfly,743353]]"
-  - "[[_Standards/WikiData/WD~Vanilla_Fudge,765243]]"
-  - "[[_Standards/WikiData/WD~Joe_South,1333939]]"
-  - "[[_Standards/WikiData/WD~Them,1338638]]"
-  - "[[_Standards/WikiData/WD~Screaming_Lord_Sutch,1380926]]"
-  - "[[_Standards/WikiData/WD~The_Beatles,1299]]"
-  - "[[_Standards/WikiData/WD~Led_Zeppelin,2331]]"
-  - "[[_Standards/WikiData/WD~Jimi_Hendrix,5928]]"
-  - "[[_Standards/WikiData/WD~The_Rolling_Stones,11036]]"
+  - '[[_Standards/WikiData/WD~The_Animals,131422]]'
+  - '[[_Standards/WikiData/WD~The_Kinks,188713]]'
+  - '[[_Standards/WikiData/WD~Jeff_Beck,192474]]'
+  - '[[_Standards/WikiData/WD~The_Yardbirds,192725]]'
+  - '[[_Standards/WikiData/WD~Cream,203736]]'
+  - '[[_Standards/WikiData/WD~The_Moody_Blues,211965]]'
+  - '[[_Standards/WikiData/WD~Small_Faces,222628]]'
+  - '[[_Standards/WikiData/WD~Iron_Butterfly,743353]]'
+  - '[[_Standards/WikiData/WD~Vanilla_Fudge,765243]]'
+  - '[[_Standards/WikiData/WD~Joe_South,1333939]]'
+  - '[[_Standards/WikiData/WD~Them,1338638]]'
+  - '[[_Standards/WikiData/WD~Screaming_Lord_Sutch,1380926]]'
+  - '[[_Standards/WikiData/WD~The_Beatles,1299]]'
+  - '[[_Standards/WikiData/WD~Led_Zeppelin,2331]]'
+  - '[[_Standards/WikiData/WD~Jimi_Hendrix,5928]]'
+  - '[[_Standards/WikiData/WD~The_Rolling_Stones,11036]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Polydor,155152]]"
-  - "[[_Standards/WikiData/WD~EMI,183412]]"
-  - "[[_Standards/WikiData/WD~Edel_Records,523563]]"
-  - "[[_Standards/WikiData/WD~Bertelsmann_Music_Group,770103]]"
-  - "[[_Standards/WikiData/WD~BMG_Rights_Management,796316]]"
-  - "[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]"
-  - "[[_Standards/WikiData/WD~Harvest,1324712]]"
-  - "[[_Standards/WikiData/WD~Aquarius_Records,2859201]]"
-  - "[[_Standards/WikiData/WD~Tetragrammaton_Records,3519170]]"
-  - "[[_Standards/WikiData/WD~EMI_Records,3629023]]"
-  - "[[_Standards/WikiData/WD~Warner_Music_Group,21077]]"
-award_received: "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
+  - '[[_Standards/WikiData/WD~Polydor,155152]]'
+  - '[[_Standards/WikiData/WD~EMI,183412]]'
+  - '[[_Standards/WikiData/WD~Edel_Records,523563]]'
+  - '[[_Standards/WikiData/WD~Bertelsmann_Music_Group,770103]]'
+  - '[[_Standards/WikiData/WD~BMG_Rights_Management,796316]]'
+  - '[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]'
+  - '[[_Standards/WikiData/WD~Harvest,1324712]]'
+  - '[[_Standards/WikiData/WD~Aquarius_Records,2859201]]'
+  - '[[_Standards/WikiData/WD~Tetragrammaton_Records,3519170]]'
+  - '[[_Standards/WikiData/WD~EMI_Records,3629023]]'
+  - '[[_Standards/WikiData/WD~Warner_Music_Group,21077]]'
+award_received: '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Ian_Gillan,205230]]"
-  - "[[_Standards/WikiData/WD~Ian_Paice,213609]]"
-  - "[[_Standards/WikiData/WD~Roger_Glover,216700]]"
-  - "[[_Standards/WikiData/WD~Don_Airey,310708]]"
-  - "[[_Standards/WikiData/WD~Simon_McBride,7519323]]"
-discography: "[[_Standards/WikiData/WD~Deep_Purple_discography,1182389]]"
-instance_of: "[[_Standards/WikiData/WD~rock_band,5741069]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Deep_Purple,10430349]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
+  - '[[_Standards/WikiData/WD~Ian_Gillan,205230]]'
+  - '[[_Standards/WikiData/WD~Ian_Paice,213609]]'
+  - '[[_Standards/WikiData/WD~Roger_Glover,216700]]'
+  - '[[_Standards/WikiData/WD~Don_Airey,310708]]'
+  - '[[_Standards/WikiData/WD~Simon_McBride,7519323]]'
+discography: '[[_Standards/WikiData/WD~Deep_Purple_discography,1182389]]'
+instance_of: '[[_Standards/WikiData/WD~rock_band,5741069]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Deep_Purple,10430349]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 location_of_formation:
-  - "[[_Standards/WikiData/WD~Hertford,9681]]"
-  - "[[_Standards/WikiData/WD~England,21]]"
-  - "[[_Standards/WikiData/WD~London,84]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~Hertford,9681]]'
+  - '[[_Standards/WikiData/WD~England,21]]'
+  - '[[_Standards/WikiData/WD~London,84]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 social_media_followers:
   - 1410000
   - 52056
@@ -70,7 +71,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/2023%20Sweden%20Rock%2
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Deep%20Purple%20%28Logo%29.png
 official_website: https://deeppurple.com/
 X_Twitter_username: _DeepPurple
-ISNI: "0000000109435287"
+ISNI: 0000000109435287
 ---
 
 # [[Deep_Purple]] 

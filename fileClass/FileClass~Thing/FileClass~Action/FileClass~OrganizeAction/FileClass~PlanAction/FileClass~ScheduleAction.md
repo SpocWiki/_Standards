@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ScheduleAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ScheduleAction
-- class/Thing/Action/OrganizeAction/PlanAction/ScheduleAction
-- is_a_/ScheduleAction
-- schema-org/ScheduleAction
+  - class/ScheduleAction
+  - class/Thing/Action/OrganizeAction/PlanAction/ScheduleAction
+  - is_a_/ScheduleAction
+  - schema-org/ScheduleAction
 tags:
-- class/FileClass
-- class/ScheduleAction
-- is_a_/ScheduleAction
-- class/Thing/Action/OrganizeAction/PlanAction/ScheduleAction
+  - class/FileClass
+  - class/ScheduleAction
+  - is_a_/ScheduleAction
+  - class/Thing/Action/OrganizeAction/PlanAction/ScheduleAction
 version: 2.0
 ---
 

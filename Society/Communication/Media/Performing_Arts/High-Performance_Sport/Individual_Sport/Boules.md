@@ -1,6 +1,7 @@
 ---
 aliases:
   - Boule
+  - Boules
 ---
 
 # [[Boules]] 

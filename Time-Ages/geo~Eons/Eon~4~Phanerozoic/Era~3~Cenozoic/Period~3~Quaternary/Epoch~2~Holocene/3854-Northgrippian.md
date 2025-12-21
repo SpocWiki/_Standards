@@ -1,16 +1,18 @@
 ---
-Commons_category: Northgrippian
-coordinate_location: "Point(-42.32 75.1)"
-end_time: -2250-06
+aliases:
+  - 3854-Northgrippian
 has_id_wikidata: Q55602572
+Commons_category: Northgrippian
+coordinate_location: Point(-42.32 75.1)
+end_time: -2250-06
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_after: "[[_Standards/WikiData/WD~North Greenland Ice Core Project,9063437]]"
-part_of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
+  - '[[_Standards/WikiData/WD~age,568683]]'
+  - '[[_Standards/WikiData/WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~North Greenland Ice Core Project,9063437]]'
+part_of: '[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]'
 sRGB_color_hex_triplet: FDECE4
 start_time: -6236-06
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP for the base of the Northgrippian,133697724]]"
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP for the base of the Northgrippian,133697724]]'
 ---
 
 # [[3854-Northgrippian]]

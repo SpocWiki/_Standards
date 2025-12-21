@@ -3,23 +3,24 @@ aliases:
   - has related-therapy
   - relatedTherapy
   - has_related_therapy
+  - has related therapy
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - related_therapy
   - related
   - therapy
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_related_therapy
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

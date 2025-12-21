@@ -4,22 +4,24 @@ aliases:
   - seat_row
   - seatRow
   - has_text_of_seat_row
+  - has_seat_row
+  - has seat row
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - seat
   - row
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_seat_row
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

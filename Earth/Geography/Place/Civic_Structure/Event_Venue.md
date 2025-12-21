@@ -4,20 +4,22 @@ aliases:
   - event_venue
   - EventVenue
   - is_an_event_venue
+  - Event_Venue
+  - Event Venue
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - event_venue
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_event_venue Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

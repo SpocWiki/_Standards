@@ -1,26 +1,27 @@
 ---
 aliases:
-- Gelasian
-- Gelas
-- Gelasian
-- Gelasium
-- Gelasiense
-- Gelasi
-- Gelas
-- Gelasien
-- gelasi
-- gelasiano
-- ゲラシアン期
-- Gelasis
-- Pretigliën
-- Tigliën
-- Gelasium
-- Gelas
-- Gelasiano
-- gelas
-- gelasij
-- gelas
-- 格拉斯期
+  - Gelasian
+  - Gelas
+  - Gelasian
+  - Gelasium
+  - Gelasiense
+  - Gelasi
+  - Gelas
+  - Gelasien
+  - gelasi
+  - gelasiano
+  - ゲラシアン期
+  - Gelasis
+  - Pretigliën
+  - Tigliën
+  - Gelasium
+  - Gelas
+  - Gelasiano
+  - gelas
+  - gelasij
+  - gelas
+  - 格拉斯期
+  - Age~1~Gelasian
 has_id_wikidata: Q428579
 ---
 

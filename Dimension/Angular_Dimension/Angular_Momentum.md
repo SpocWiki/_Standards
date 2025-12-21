@@ -1,7 +1,8 @@
 ---
-has_id_wikidata: Q161254
 aliases:
   - Angular Momentum
+  - Angular_Momentum
+has_id_wikidata: Q161254
 ---
 
 # [[Angular_Momentum]] 

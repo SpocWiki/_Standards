@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~OfferCatalog
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ItemList
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/OfferCatalog
-- class/Thing/Intangible/ItemList/OfferCatalog
-- is_an_/OfferCatalog
-- schema-org/OfferCatalog
+  - class/OfferCatalog
+  - class/Thing/Intangible/ItemList/OfferCatalog
+  - is_an_/OfferCatalog
+  - schema-org/OfferCatalog
 tags:
-- class/FileClass
-- class/OfferCatalog
-- '#is_an_/OfferCatalog'
-- class/Thing/Intangible/ItemList/OfferCatalog
+  - class/FileClass
+  - class/OfferCatalog
+  - '#is_an_/OfferCatalog'
+  - class/Thing/Intangible/ItemList/OfferCatalog
 version: 2.0
 ---
 

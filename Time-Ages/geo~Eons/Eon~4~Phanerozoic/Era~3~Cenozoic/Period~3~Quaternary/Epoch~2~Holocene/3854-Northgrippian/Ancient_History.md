@@ -4,32 +4,32 @@ aliases:
   - Ancient History
 has_id_wikidata: Q41493
 instance_of:
-  - "[[_Standards/WikiData/WD~time_interval,186081]]"
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+  - '[[_Standards/WikiData/WD~time_interval,186081]]'
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~ancient_Near_East,269678]]"
-  - "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
+  - '[[_Standards/WikiData/WD~ancient_Near_East,269678]]'
+  - '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Helsinki_Term_Bank_for_the_Arts_and_Sciences,66890318]]"
-part_of: "[[_Standards/WikiData/WD~study_of_history,1066186]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Ancient_history,6678356]]"
-followed_by: "[[_Standards/WikiData/WD~Postclassical_Era,7234117]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_ancient_history,28453687]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Ancient_World,104390683]]"
-different_from: "[[_Standards/WikiData/WD~earliness,110227091]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Helsinki_Term_Bank_for_the_Arts_and_Sciences,66890318]]'
+part_of: '[[_Standards/WikiData/WD~study_of_history,1066186]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Ancient_history,6678356]]'
+followed_by: '[[_Standards/WikiData/WD~Postclassical_Era,7234117]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_ancient_history,28453687]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Ancient_World,104390683]]'
+different_from: '[[_Standards/WikiData/WD~earliness,110227091]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Q116697863,116697863]]"
-  - "[[_Standards/WikiData/WD~history,309]]"
+  - '[[_Standards/WikiData/WD~Q116697863,116697863]]'
+  - '[[_Standards/WikiData/WD~history,309]]'
 end_time: 0500-01-01T00:00:00Z
 start_time: -3200-01-01T00:00:00Z
-facet_of: "[[_Standards/WikiData/WD~history,309]]"
-follows: "[[_Standards/WikiData/WD~prehistory,11756]]"
+facet_of: '[[_Standards/WikiData/WD~history,309]]'
+follows: '[[_Standards/WikiData/WD~prehistory,11756]]'
 Dewey_Decimal_Classification:
-  - "930"
+  - 930
   - 2--3
 Commons_category: Ancient history
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20artworks.png
@@ -37,7 +37,7 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Oudheid
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Villa%20Romana%20del%20Casale%20Mosaic%20009%205104.jpg
 Stack_Exchange_tag: https://history.stackexchange.com/tags/ancient-history
 Iconclass_notation: 23T22
-P8189: "987007562975105171"
+P8189: 987007562975105171
 Archive_of_Our_Own_tag: Ancient History RPF
 subreddit:
   - ancienthistory

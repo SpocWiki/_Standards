@@ -7,18 +7,18 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - acquire
   - license
   - page
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_acquire_license_page
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

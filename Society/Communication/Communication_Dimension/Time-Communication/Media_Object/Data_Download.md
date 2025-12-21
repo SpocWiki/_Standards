@@ -4,21 +4,23 @@ aliases:
   - data_download
   - DataDownload
   - is_a_data_download
+  - Data_Download
+  - Data Download
 confidential: public
 cssclasses:
   - Type
 draft: false
 equivalent_class: http://www.w3.org/ns/dcat#Distribution
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - data_download
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_data_download Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

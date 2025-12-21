@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Kanji Script"
+  - Kanji Script
+  - Script~Jpan
 ---
 
 Kanji Script is used in [[../../Earth/Continent/Asia/Asia~East/Japan|Japan]]. 

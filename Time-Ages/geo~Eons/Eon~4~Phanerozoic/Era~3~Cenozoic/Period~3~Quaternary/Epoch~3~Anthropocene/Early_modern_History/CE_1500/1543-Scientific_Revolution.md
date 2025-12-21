@@ -1,12 +1,15 @@
 ---
-Commons_category: "Scientific revolution"
+aliases:
+  - 1543-Scientific_Revolution
+  - 1543-Scientific Revolution
+has_id_wikidata: Q214078
+Commons_category: Scientific revolution
 end_time: 1687-06
 facet_of: '[[_Standards/WikiData/WD~innovation,174165]]'
-has_id_wikidata: Q214078
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bertini%20fresco%20of%20Galileo%20Galilei%20and%20Doge%20of%20Venice.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Bertini%20fresco%20of%20Galileo%20Galilei%20and%20Doge%20of%20Venice.jpg
 instance_of: '[[_Standards/WikiData/WD~era,6428674]]'
 location: '[[_Standards/WikiData/WD~Europe,46]]'
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Scientific%20Revolution%20%28spoken%20by%20AI%20voice%29.mp3"
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Scientific%20Revolution%20%28spoken%20by%20AI%20voice%29.mp3
 start_time: 1543-06
 ---
 

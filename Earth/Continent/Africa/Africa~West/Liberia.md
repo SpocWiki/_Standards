@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Liberia
+  - Libéria
+  - ليبريا
+  - 利比里亚
+  - Либерия
+  - the Republic of Liberia
+  - la República de Liberia
 has_id_wikidata: Q1014
 location:
   - 6.31667
@@ -320,20 +328,12 @@ cssclasses:
   - Country
 publish: true
 title: Liberia
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Liberia
-  - Libéria
-  - ليبريا
-  - 利比里亚
-  - Либерия
-  - the Republic of Liberia
-  - la República de Liberia
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-LR
 ---

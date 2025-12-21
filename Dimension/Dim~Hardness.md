@@ -1,20 +1,21 @@
 ---
 aliases:
   - hardness
+  - Dim~Hardness
 has_id_wikidata: Q3236003
 subclass_of:
-  - "[[_Standards/WikiData/WD~contents_of_individual_glycerides,1409260]]"
-  - "[[_Standards/WikiData/WD~intensive_quantity,3387041]]"
+  - '[[_Standards/WikiData/WD~contents_of_individual_glycerides,1409260]]'
+  - '[[_Standards/WikiData/WD~intensive_quantity,3387041]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~mechanical_properties_of_fiber,4292136]]"
-  - "[[_Standards/WikiData/WD~mechanical_property,5725005]]"
-opposite_of: "[[_Standards/WikiData/WD~softness,12894628]]"
+  - '[[_Standards/WikiData/WD~mechanical_properties_of_fiber,4292136]]'
+  - '[[_Standards/WikiData/WD~mechanical_property,5725005]]'
+opposite_of: '[[_Standards/WikiData/WD~softness,12894628]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-facet_of: "[[_Standards/WikiData/WD~Q124512574,124512574]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+facet_of: '[[_Standards/WikiData/WD~Q124512574,124512574]]'
 Wikidata_property: hardness
-different_from: "[[_Standards/WikiData/WD~Mohs_scale_of_mineral_hardness,41472]]"
+different_from: '[[_Standards/WikiData/WD~Mohs_scale_of_mineral_hardness,41472]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Wien%20Friedrich%20Mohs.jpg
 Iconclass_notation: 51G4
 UMLS_CUI: C0018599

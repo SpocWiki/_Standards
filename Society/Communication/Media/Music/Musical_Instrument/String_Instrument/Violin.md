@@ -1,6 +1,7 @@
 ---
 aliases:
   - Violine
+  - Violin
 has_id_wikidata: Q8355
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Violin.stl
 Amazon_com_browse_node: 11971521
@@ -54,7 +55,7 @@ used_by: "[[_Standards/WikiData/WD~violinist,1259917]]"
 U_S_National_Archives_Identifier: 10645208
 ---
 
-# [[Violin]] 
+# [[Violin]] 🎻 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Violin,8355|WD~Violin,8355]] 
 

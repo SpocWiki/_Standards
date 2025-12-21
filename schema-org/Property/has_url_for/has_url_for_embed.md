@@ -4,21 +4,23 @@ aliases:
   - embed_url
   - embedUrl
   - has_url_for_embed_url
+  - has_url_for_embed
+  - has url for embed
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - embed_url
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_embed_url
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

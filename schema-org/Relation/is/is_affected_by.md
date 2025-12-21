@@ -9,17 +9,17 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - affected
   - by
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_affected_by
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

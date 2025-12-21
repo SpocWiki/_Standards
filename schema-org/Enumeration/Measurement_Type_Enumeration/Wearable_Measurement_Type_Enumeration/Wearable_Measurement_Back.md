@@ -4,21 +4,23 @@ aliases:
   - wearable_measurement_back
   - WearableMeasurementBack
   - is_a_wearable_measurement_back
+  - Wearable_Measurement_Back
+  - Wearable Measurement Back
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableMeasurementTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_measurement_back
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_measurement_back Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

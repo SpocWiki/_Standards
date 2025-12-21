@@ -1,26 +1,27 @@
 ---
 aliases:
   - East European Plain
+  - East_European_Plain
 has_id_wikidata: Q191862
 instance_of:
-  - "[[_Standards/WikiData/WD~plain,160091]]"
-  - "[[_Standards/WikiData/WD~Russian_Large_Landscape,2177064]]"
-part_of: "[[_Standards/WikiData/WD~European_Plain,877091]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
+  - '[[_Standards/WikiData/WD~plain,160091]]'
+  - '[[_Standards/WikiData/WD~Russian_Large_Landscape,2177064]]'
+part_of: '[[_Standards/WikiData/WD~European_Plain,877091]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Eastern_Europe,27468]]'
 country:
-  - "[[_Standards/WikiData/WD~Finland,33]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
-  - "[[_Standards/WikiData/WD~Lithuania,37]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Belarus,184]]"
-  - "[[_Standards/WikiData/WD~Estonia,191]]"
-  - "[[_Standards/WikiData/WD~Latvia,211]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
-  - "[[_Standards/WikiData/WD~Romania,218]]"
-  - "[[_Standards/WikiData/WD~Moldova,217]]"
-  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
+  - '[[_Standards/WikiData/WD~Finland,33]]'
+  - '[[_Standards/WikiData/WD~Poland,36]]'
+  - '[[_Standards/WikiData/WD~Lithuania,37]]'
+  - '[[_Standards/WikiData/WD~Russia,159]]'
+  - '[[_Standards/WikiData/WD~Belarus,184]]'
+  - '[[_Standards/WikiData/WD~Estonia,191]]'
+  - '[[_Standards/WikiData/WD~Latvia,211]]'
+  - '[[_Standards/WikiData/WD~Ukraine,212]]'
+  - '[[_Standards/WikiData/WD~Romania,218]]'
+  - '[[_Standards/WikiData/WD~Moldova,217]]'
+  - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
 coordinate_location: Point(40.0 57.5)
 Commons_category: East European Plain
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B8%D1%86%D0%BA%D0%B0%D1%8F%20%D0%B3%D1%80%D1%8F%D0%B4%D0%B001.JPG

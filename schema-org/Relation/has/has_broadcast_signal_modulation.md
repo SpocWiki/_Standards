@@ -2,12 +2,13 @@
 aliases:
   - has broadcast-signal-modulation
   - has_broadcast_signal_modulation
+  - has broadcast signal modulation
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - modulation
   - broadcast_signal_modulation
   - broadcastSignalModulation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_broadcast_signal_modulation
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

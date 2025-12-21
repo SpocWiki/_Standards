@@ -4,20 +4,22 @@ aliases:
   - subway_station
   - SubwayStation
   - is_a_subway_station
+  - Subway_Station
+  - Subway Station
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - subway_station
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_subway_station Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

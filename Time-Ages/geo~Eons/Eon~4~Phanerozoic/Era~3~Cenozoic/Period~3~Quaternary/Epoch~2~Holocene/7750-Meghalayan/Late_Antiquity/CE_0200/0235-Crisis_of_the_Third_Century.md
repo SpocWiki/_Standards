@@ -1,10 +1,12 @@
 ---
 aliases:
   - Crisis of the Third Century
+  - 0235-Crisis_of_the_Third_Century
+  - 0235-Crisis of the Third Century
 has_id_wikidata: Q329838
 instance_of:
-  - "[[_Standards/WikiData/WD~crisis,381072]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+  - '[[_Standards/WikiData/WD~crisis,381072]]'
+  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
 start_time: 0235-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Ancient%20Rome%20271%20AD-ru.svg
 Commons_category: Crisis of the Third Century

@@ -2,12 +2,13 @@
 aliases:
   - has business-days
   - has_business_days
+  - has business days
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - days
   - business_days
   - businessDays
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_business_days
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

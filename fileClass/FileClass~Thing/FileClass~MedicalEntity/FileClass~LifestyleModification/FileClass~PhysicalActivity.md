@@ -1,36 +1,38 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PhysicalActivity
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification
 fields:
-- id: BHI5Nx
-  name: AssociatedAnatomy
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"
-  type: MultiFile
-  path: ''
-- id: 5jY4nP
-  name: Epidemiology
-  options: {}
-  type: Input
-  path: ''
-- id: gAycoS
-  name: Pathophysiology
-  options: {}
-  type: Input
-  path: ''
+  - id: BHI5Nx
+    name: AssociatedAnatomy
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
+    type: MultiFile
+    path: ''
+  - id: 5jY4nP
+    name: Epidemiology
+    options: {}
+    type: Input
+    path: ''
+  - id: gAycoS
+    name: Pathophysiology
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PhysicalActivity
-- class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity
-- is_a_/PhysicalActivity
-- schema-org/PhysicalActivity
+  - class/PhysicalActivity
+  - class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity
+  - is_a_/PhysicalActivity
+  - schema-org/PhysicalActivity
 tags:
-- class/FileClass
-- class/PhysicalActivity
-- is_a_/PhysicalActivity
-- class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity
+  - class/FileClass
+  - class/PhysicalActivity
+  - is_a_/PhysicalActivity
+  - class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity
 version: 2.0
 ---
 

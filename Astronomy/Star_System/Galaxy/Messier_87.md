@@ -3,17 +3,19 @@ aliases:
   - Virgo A
   - NGC 4486
   - M87
+  - Messier_87
+  - Messier 87
 has_id_wikidata: Q14041
 catalog_code:
   - VCC 1316
   - XSS J12309+1223
   - Z 1228.3+1240
   - Z 70-139
-  - "[DC78] UGC 7654"
-  - "[DGW65] 57"
-  - "[DML87] 747"
-  - "[VDD93] 163"
-  - "[WCO2009] J123049+122256"
+  - '[DC78] UGC 7654'
+  - '[DGW65] 57'
+  - '[DML87] 747'
+  - '[VDD93] 163'
+  - '[WCO2009] J123049+122256'
   - 1ES 1228+12.6
   - 2A 1228+125
   - 2EUVE J1230+12.3
@@ -63,21 +65,21 @@ catalog_code:
 time_of_discovery_or_invention: 1781-03-18T00:00:00Z
 right_ascension: 187.705930759583
 instance_of:
-  - "[[_Standards/WikiData/WD~elliptical_galaxy,184348]]"
-  - "[[_Standards/WikiData/WD~brightest_cluster_galaxy,1151284]]"
-  - "[[_Standards/WikiData/WD~astronomical_radio_source,1931185]]"
-  - "[[_Standards/WikiData/WD~astrophysical_X_ray_source,2154519]]"
-  - "[[_Standards/WikiData/WD~infrared_source,67206691]]"
+  - '[[_Standards/WikiData/WD~elliptical_galaxy,184348]]'
+  - '[[_Standards/WikiData/WD~brightest_cluster_galaxy,1151284]]'
+  - '[[_Standards/WikiData/WD~astronomical_radio_source,1931185]]'
+  - '[[_Standards/WikiData/WD~astrophysical_X_ray_source,2154519]]'
+  - '[[_Standards/WikiData/WD~infrared_source,67206691]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Virgo_Cluster,271818]]"
-  - "[[_Standards/WikiData/WD~Q67623508,67623508]]"
-  - "[[_Standards/WikiData/WD~Q67625638,67625638]]"
-  - "[[_Standards/WikiData/WD~Q67790367,67790367]]"
-  - "[[_Standards/WikiData/WD~Q67795770,67795770]]"
-has_part_s_: "[[_Standards/WikiData/WD~Pōwehi,3841190]]"
+  - '[[_Standards/WikiData/WD~Virgo_Cluster,271818]]'
+  - '[[_Standards/WikiData/WD~Q67623508,67623508]]'
+  - '[[_Standards/WikiData/WD~Q67625638,67625638]]'
+  - '[[_Standards/WikiData/WD~Q67790367,67790367]]'
+  - '[[_Standards/WikiData/WD~Q67795770,67795770]]'
+has_part_s_: '[[_Standards/WikiData/WD~Pōwehi,3841190]]'
 right_ascension_component_of_proper_motion: -8.029
-constellation: "[[_Standards/WikiData/WD~Virgo,8842]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Charles_Messier,14524]]"
+constellation: '[[_Standards/WikiData/WD~Virgo,8842]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Charles_Messier,14524]]'
 absolute_magnitude: -22
 radius: 150
 redshift:

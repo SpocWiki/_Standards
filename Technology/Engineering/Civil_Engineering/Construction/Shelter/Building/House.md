@@ -1,23 +1,23 @@
 ---
 aliases:
   - house
-  - house
   - House
   - is_a_house
+has_id_wikidata: Q3947
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - house
-layout:
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_house Class
 publish: true
-publishDate:
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
@@ -46,7 +46,6 @@ exact_match: https://schema.org/House
 facet_of: "[[_Standards/WikiData/WD~minka,935445]]"
 GeoNames_feature_code: S.HSE
 hashtag: house
-has_id_wikidata: Q3947
 has_part_s_:
   - "[[_Standards/WikiData/WD~roof,83180]]"
   - "[[_Standards/WikiData/WD~room,180516]]"
@@ -90,7 +89,7 @@ Unicode_character: 🏡
 Wikidata_property: number of houses
 ---
 
-# [[House]] 
+# [[House]] 🏡 
 
 Class of all houses.
 

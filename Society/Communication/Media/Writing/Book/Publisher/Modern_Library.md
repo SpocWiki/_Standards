@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Modern Library"
+  - Modern Library
+  - Modern_Library
 ---
 
 #is_a_ :: [[../../../../../Agent/Community/Organization/Company/Corporation|Corporation]] 

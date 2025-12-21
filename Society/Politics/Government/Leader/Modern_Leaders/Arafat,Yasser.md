@@ -3,79 +3,80 @@ aliases:
   - Yasser Arafat
   - Abu Ammar
   - Yasser_Arafat
+  - Arafat,Yasser
 has_id_wikidata: Q34211
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~civil_engineer,13582652]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~civil_engineer,13582652]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_the_White_Lion,93728]]"
-  - "[[_Standards/WikiData/WD~Princess_of_Asturias_Awards,329157]]"
-  - "[[_Standards/WikiData/WD~Order_of_Ouissam_Alaouite,369412]]"
-  - "[[_Standards/WikiData/WD~Order_of_Merit_of_the_Italian_Republic,1059569]]"
-  - "[[_Standards/WikiData/WD~Order_13_Centuries_of_Bulgaria_,1858870]]"
-  - "[[_Standards/WikiData/WD~Order_of_Good_Hope,2037015]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Republic,2304559]]"
-  - "[[_Standards/WikiData/WD~Order_of_Civil_Merit,2703201]]"
-  - "[[_Standards/WikiData/WD~Jawaharlal_Nehru_Award_for_International_Understanding,3295156]]"
-  - "[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_International_Cooperation,3321940]]"
-  - "[[_Standards/WikiData/WD~Order_of_Playa_Girón,4315048]]"
-  - "[[_Standards/WikiData/WD~Doublespeak_Award,5300150]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_with_Collar_of_the_Order_of_Merit_of_the_Italian_Republic,14539990]]"
-  - "[[_Standards/WikiData/WD~Grand_Collar_of_the_Order_of_Good_Hope,15279677]]"
-  - "[[_Standards/WikiData/WD~Grand_cross_of_the_Order_of_the_White_Lion,20966518]]"
-  - "[[_Standards/WikiData/WD~Order_of_Prince_Yaroslav_the_Wise,_1st_class,28481165]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cordon_with_Collar_of_the_Order_of_Palestine,48335867]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Patras,64873932]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Grand_Conqueror,84771122]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Great_September_Revolution_1969,97277529]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_State_of_Palestine,123270269]]"
+  - '[[_Standards/WikiData/WD~Order_of_the_White_Lion,93728]]'
+  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Awards,329157]]'
+  - '[[_Standards/WikiData/WD~Order_of_Ouissam_Alaouite,369412]]'
+  - '[[_Standards/WikiData/WD~Order_of_Merit_of_the_Italian_Republic,1059569]]'
+  - '[[_Standards/WikiData/WD~Order_13_Centuries_of_Bulgaria_,1858870]]'
+  - '[[_Standards/WikiData/WD~Order_of_Good_Hope,2037015]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Republic,2304559]]'
+  - '[[_Standards/WikiData/WD~Order_of_Civil_Merit,2703201]]'
+  - '[[_Standards/WikiData/WD~Jawaharlal_Nehru_Award_for_International_Understanding,3295156]]'
+  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_International_Cooperation,3321940]]'
+  - '[[_Standards/WikiData/WD~Order_of_Playa_Girón,4315048]]'
+  - '[[_Standards/WikiData/WD~Doublespeak_Award,5300150]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_with_Collar_of_the_Order_of_Merit_of_the_Italian_Republic,14539990]]'
+  - '[[_Standards/WikiData/WD~Grand_Collar_of_the_Order_of_Good_Hope,15279677]]'
+  - '[[_Standards/WikiData/WD~Grand_cross_of_the_Order_of_the_White_Lion,20966518]]'
+  - '[[_Standards/WikiData/WD~Order_of_Prince_Yaroslav_the_Wise,_1st_class,28481165]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Cordon_with_Collar_of_the_Order_of_Palestine,48335867]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Patras,64873932]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Grand_Conqueror,84771122]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Great_September_Revolution_1969,97277529]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_State_of_Palestine,123270269]]'
 political_ideology:
-  - "[[_Standards/WikiData/WD~Arab_nationalism,114213]]"
-  - "[[_Standards/WikiData/WD~Arab_socialism,624284]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Fatah,178888]]"
-educated_at: "[[_Standards/WikiData/WD~Cairo_University,194445]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Palestine,219060]]"
-spouse: "[[_Standards/WikiData/WD~Suha_Arafat,253667]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~commander_in_chief,380782]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Sunni_Islam,483654]]"
+  - '[[_Standards/WikiData/WD~Arab_nationalism,114213]]'
+  - '[[_Standards/WikiData/WD~Arab_socialism,624284]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Fatah,178888]]'
+educated_at: '[[_Standards/WikiData/WD~Cairo_University,194445]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Palestine,219060]]'
+spouse: '[[_Standards/WikiData/WD~Suha_Arafat,253667]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~commander_in_chief,380782]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Sunni_Islam,483654]]'
 cause_of_death:
-  - "[[_Standards/WikiData/WD~autoimmune_thrombocytopenic_purpura,638729]]"
-  - "[[_Standards/WikiData/WD~cerebral_hemorrhage,1368943]]"
-residence: "[[_Standards/WikiData/WD~Al_Maghariba_Quarter,928641]]"
+  - '[[_Standards/WikiData/WD~autoimmune_thrombocytopenic_purpura,638729]]'
+  - '[[_Standards/WikiData/WD~cerebral_hemorrhage,1368943]]'
+residence: '[[_Standards/WikiData/WD~Al_Maghariba_Quarter,928641]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Fathi_Arafat,981221]]"
-  - "[[_Standards/WikiData/WD~Khadija_Arafat,56560600]]"
-  - "[[_Standards/WikiData/WD~Jamal_Arafat,125894995]]"
+  - '[[_Standards/WikiData/WD~Fathi_Arafat,981221]]'
+  - '[[_Standards/WikiData/WD~Khadija_Arafat,56560600]]'
+  - '[[_Standards/WikiData/WD~Jamal_Arafat,125894995]]'
 place_of_death: "[[_Standards/WikiData/WD~Hôpital_d'instruction_des_armées_Percy,1779588]]"
-place_of_burial: "[[_Standards/WikiData/WD~Mukataa_Ramallah,1953449]]"
+place_of_burial: '[[_Standards/WikiData/WD~Mukataa_Ramallah,1953449]]'
 position_held:
-  - "[[_Standards/WikiData/WD~President_of_the_Palestinian_National_Authority,2336111]]"
-  - "[[_Standards/WikiData/WD~president_of_the_State_of_Palestine,3911022]]"
-  - "[[_Standards/WikiData/WD~Minister_of_Education_of_the_Palestinian_National_Authority,117225148]]"
-  - "[[_Standards/WikiData/WD~Chairman_of_the_Executive_Committee_of_the_Palestine_Liberation_Organization,130325162]]"
+  - '[[_Standards/WikiData/WD~President_of_the_Palestinian_National_Authority,2336111]]'
+  - '[[_Standards/WikiData/WD~president_of_the_State_of_Palestine,3911022]]'
+  - '[[_Standards/WikiData/WD~Minister_of_Education_of_the_Palestinian_National_Authority,117225148]]'
+  - '[[_Standards/WikiData/WD~Chairman_of_the_Executive_Committee_of_the_Palestine_Liberation_Organization,130325162]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Interactive_Encyclopedia_of_the_Palestine_Question,123344860]]"
+  - '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Interactive_Encyclopedia_of_the_Palestine_Question,123344860]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Yasser,3571938]]"
-  - "[[_Standards/WikiData/WD~Mohamed,19729888]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Arafat,36884824]]"
-kunya: "[[_Standards/WikiData/WD~Abu_Ammar,105099717]]"
-father: "[[_Standards/WikiData/WD~Abdel_Raouf_al_Qudwa_al_Husseini,126544608]]"
-mother: "[[_Standards/WikiData/WD~Zahwa_Abul_Saud,126544742]]"
+  - '[[_Standards/WikiData/WD~Yasser,3571938]]'
+  - '[[_Standards/WikiData/WD~Mohamed,19729888]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Arafat,36884824]]'
+kunya: '[[_Standards/WikiData/WD~Abu_Ammar,105099717]]'
+father: '[[_Standards/WikiData/WD~Abdel_Raouf_al_Qudwa_al_Husseini,126544608]]'
+mother: '[[_Standards/WikiData/WD~Zahwa_Abul_Saud,126544742]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~Arabic,13955]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_birth: "[[_Standards/WikiData/WD~Cairo,85]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Arabic,13955]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_birth: '[[_Standards/WikiData/WD~Cairo,85]]'
 number_of_children: 1
-ethnic_group: "[[_Standards/WikiData/WD~Arabs,35323]]"
+ethnic_group: '[[_Standards/WikiData/WD~Arabs,35323]]'
 Libris_URI: wt799wlf43w8jb2
 nickname: الختيار, ابو عمار
 birth_name: محمد ياسر عبد الرحمن عبد الرؤوف عرفات
@@ -86,13 +87,13 @@ Commons_category: Yasser Arafat
 name_in_native_language: ياسر عرفات
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leader%20of%20the%20PLO%2C%20Yasser%20Arafat%2C%201996%20Dan%20Hadani%20Archive.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Yasser%20Arafat%20signature.svg
-ISNI: "0000000121481294"
-U_S_National_Archives_Identifier: "10570196"
+ISNI: 0000000121481294
+U_S_National_Archives_Identifier: 10570196
 RIA_Novosti_reference:
-  - "39758118"
-  - "42047381"
+  - 39758118
+  - 42047381
 Plex_person_key: 5d7768751999bc0020dc56c3
-P1015: "90219652"
+P1015: 90219652
 Krugosvet_article_archived_: istoriya/ARAFAT_YASIR.html
 Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/2271404
 ---

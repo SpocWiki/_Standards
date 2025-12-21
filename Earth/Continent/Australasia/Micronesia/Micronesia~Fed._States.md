@@ -2,9 +2,11 @@
 aliases:
   - Federated_States_of_Micronesia
   - Federated States of Micronesia
-  - 
-confidential: public
+  - ""
+  - Micronesia~Fed._States
+  - Micronesia~Fed. States
 has_id_wikidata: Q702
+confidential: public
 icon: flag-fm
 isDeleted: false
 location:
@@ -134,17 +136,17 @@ maximum_temperature_record: 36.1
 Gini_coefficient: 40.1
 Human_Development_Index: 0.628
 area: 702
-maritime_identification_digits: "510"
-FIPS_5_2_numeric_code_US_states_: "64"
+maritime_identification_digits: 510
+FIPS_5_2_numeric_code_US_states_: 64
 total_fertility_rate: 3.243
-ISO_3166_1_numeric_code: "583"
-M49_code: "583"
+ISO_3166_1_numeric_code: 583
+M49_code: 583
 death_rate:
   - 5.728
   - 6.065
   - 6.211
   - 6.275
-mobile_country_code: "550"
+mobile_country_code: 550
 birth_rate:
   - 20.684
   - 20.777
@@ -155,7 +157,7 @@ urban_population:
   - 25709
   - 26097
   - 26505
-IAB_code: "1292"
+IAB_code: 1292
 female_population:
   - 55307
   - 55694
@@ -166,7 +168,7 @@ male_population:
   - 56413
   - 56898
   - 57387
-INSEE_countries_and_foreign_territories_code: "99516"
+INSEE_countries_and_foreign_territories_code: 99516
 life_expectancy: 69.195
 FIPS_10_4_countries_and_regions_: FM
 ISO_3166_1_alpha_2_code: FM
@@ -177,7 +179,7 @@ rural_population:
   - 87034
   - 87659
 population: 105544
-OmegaWiki_Defined_Meaning: "153582"
+OmegaWiki_Defined_Meaning: 153582
 short_name: FM
 demonym:
   - מיקרונזי
@@ -219,7 +221,7 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%2
 Commons_gallery: Federated States of Micronesia
 Commons_category: Federated States of Micronesia
 Unicode_character: 🇫🇲
-U_S_National_Archives_Identifier: "10035700"
+U_S_National_Archives_Identifier: 10035700
 CIVICUS_Monitor_country_entry: micronesia
 subreddit: micronesia
 motto_text:
@@ -240,8 +242,8 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Micronezia.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/Pl-Sfederowane%20Stany%20Mikronezji.ogg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Micronesia%20on%20the%20globe%20%28Micronesia%20centered%29.svg
-telephone_country_code: "+691"
-ISNI: "0000000121095799"
+telephone_country_code: 691
+ISNI: 121095799
 Libris_URI: 1zcfjv1k00zfm8d
 Wolfram_Language_entity_code: Entity["Concept", "FederatedStatesOfMicronesia::6yt84"]
 hashtag_: FederatedStatesofMicronesia

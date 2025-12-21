@@ -1,27 +1,29 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PlanAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction
 fields:
-- id: gGtguj
-  name: ScheduledTime
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
+  - id: gGtguj
+    name: ScheduledTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PlanAction
-- class/Thing/Action/OrganizeAction/PlanAction
-- is_a_/PlanAction
-- schema-org/PlanAction
+  - class/PlanAction
+  - class/Thing/Action/OrganizeAction/PlanAction
+  - is_a_/PlanAction
+  - schema-org/PlanAction
 tags:
-- class/FileClass
-- class/PlanAction
-- is_a_/PlanAction
-- class/Thing/Action/OrganizeAction/PlanAction
+  - class/FileClass
+  - class/PlanAction
+  - is_a_/PlanAction
+  - class/Thing/Action/OrganizeAction/PlanAction
 version: 2.0
 ---
 

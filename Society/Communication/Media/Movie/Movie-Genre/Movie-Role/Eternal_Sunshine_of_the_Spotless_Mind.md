@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Eternal Sunshine of the Spotless Mind"
+  - Eternal Sunshine of the Spotless Mind
+  - Eternal_Sunshine_of_the_Spotless_Mind
 ---
 
 #has_/director :: [[Gondry,Michel]] 

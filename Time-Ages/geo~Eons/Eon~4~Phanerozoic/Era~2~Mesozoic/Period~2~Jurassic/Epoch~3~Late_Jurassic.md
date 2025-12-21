@@ -1,5 +1,7 @@
 ---
-aliases: []
+aliases:
+  - Epoch~3~Late_Jurassic
+  - Epoch~3~Late Jurassic
 ischart: UpperJurassic
 ---
 

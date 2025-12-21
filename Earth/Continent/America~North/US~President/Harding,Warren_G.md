@@ -1,25 +1,26 @@
 ---
 aliases:
-- Harding,Warren_G
-- "Warren G. Harding"
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Harding,Warren_G
+  - Warren G. Harding
+  - ''
+  - Harding,Warren G
 has_id_wikidata: Q35286
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Harding,Warren_G
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Harding,Warren_G
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- 
+  - ''
 title: Harding,Warren_G
 type: private_note
 ---

@@ -1,9 +1,10 @@
 ---
 aliases:
-- "Augusta Ada King"
-- "Countess of Lovelace"
-- "Augusta Ada Byron"
-- "Ada Lovelace"
+  - Augusta Ada King
+  - Countess of Lovelace
+  - Augusta Ada Byron
+  - Ada Lovelace
+  - Ada_Lovelace
 has_id_wikidata: Q7259
 ---
 

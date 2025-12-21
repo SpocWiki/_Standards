@@ -3,22 +3,24 @@ aliases:
   - Stromversorgung
   - Spannungsversorgung
   - power supply
+  - Power_Supply
+  - Power Supply
 has_id_wikidata: Q204157
 connects_with:
-  - "[[_Standards/WikiData/WD~electrical_load,931447]]"
-  - "[[_Standards/WikiData/WD~electrical_receptacle,64537414]]"
-has_effect: "[[_Standards/WikiData/WD~change,1150070]]"
+  - '[[_Standards/WikiData/WD~electrical_load,931447]]'
+  - '[[_Standards/WikiData/WD~electrical_receptacle,64537414]]'
+has_effect: '[[_Standards/WikiData/WD~change,1150070]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~electric_power_source,1753139]]"
-  - "[[_Standards/WikiData/WD~electrical_appliance,2425052]]"
-  - "[[_Standards/WikiData/WD~regulator,3771881]]"
-  - "[[_Standards/WikiData/WD~adapter,4576564]]"
-  - "[[_Standards/WikiData/WD~electrical_energy_source,23925486]]"
-has_use: "[[_Standards/WikiData/WD~energy_transformation,11271324]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Electricity_delivery,13386897]]"
-instance_of: "[[_Standards/WikiData/WD~source_type,112234259]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-different_from: "[[_Standards/WikiData/WD~power_supply_unit,3972]]"
+  - '[[_Standards/WikiData/WD~electric_power_source,1753139]]'
+  - '[[_Standards/WikiData/WD~electrical_appliance,2425052]]'
+  - '[[_Standards/WikiData/WD~regulator,3771881]]'
+  - '[[_Standards/WikiData/WD~adapter,4576564]]'
+  - '[[_Standards/WikiData/WD~electrical_energy_source,23925486]]'
+has_use: '[[_Standards/WikiData/WD~energy_transformation,11271324]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Electricity_delivery,13386897]]'
+instance_of: '[[_Standards/WikiData/WD~source_type,112234259]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+different_from: '[[_Standards/WikiData/WD~power_supply_unit,3972]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Linear-Power-Supply-AB.jpg
 UMLS_CUI: C0032865
 MeSH_tree_code: E07.305.124

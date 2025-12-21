@@ -1,12 +1,14 @@
 ---
 aliases:
   - Geostationary orbit
+  - Geostationary_Orbit
+  - Geostationary Orbit
 has_id_wikidata: Q192316
 subclass_of:
-  - "[[_Standards/WikiData/WD~geosynchronous_orbit,472251]]"
-  - "[[_Standards/WikiData/WD~stationary_orbit,7604345]]"
-part_of: "[[_Standards/WikiData/WD~outer_space,4169]]"
-parent_astronomical_body: "[[_Standards/WikiData/WD~Earth,2]]"
+  - '[[_Standards/WikiData/WD~geosynchronous_orbit,472251]]'
+  - '[[_Standards/WikiData/WD~stationary_orbit,7604345]]'
+part_of: '[[_Standards/WikiData/WD~outer_space,4169]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Earth,2]]'
 short_name: GEO
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Geostationaryjava3D.gif
 Commons_category: Geostationary orbit

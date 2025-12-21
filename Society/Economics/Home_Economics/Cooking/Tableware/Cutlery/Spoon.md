@@ -17,7 +17,7 @@ has_use:
 has_part_s_:
   - "[[_Standards/WikiData/WD~shaft,2230201]]"
   - "[[_Standards/WikiData/WD~vat,3007956]]"
-OmegaWiki_Defined_Meaning: "5944"
+OmegaWiki_Defined_Meaning: 5944
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ngaji.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/SpoonCollection.jpg
@@ -30,7 +30,7 @@ Commons_gallery: Spoon
 Commons_category: Spoons
 ---
 
-# [[Spoon]]
+# [[Spoon]] 🥄 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Spoon,81895|WD~Spoon,81895]] 
 

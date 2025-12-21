@@ -2,6 +2,8 @@
 aliases:
   - algebraic integers
   - algebraic integer
+  - Algebraic_Integer
+  - Algebraic Integer
 ---
 
 # [[Algebraic_Integer]] 

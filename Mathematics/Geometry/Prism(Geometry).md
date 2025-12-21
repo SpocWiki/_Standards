@@ -2,20 +2,21 @@
 aliases:
   - Prism
   - Prisma
+  - Prism(Geometry)
 has_id_wikidata: Q180544
-studied_by: "[[_Standards/WikiData/WD~solid_geometry,207648]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+studied_by: '[[_Standards/WikiData/WD~solid_geometry,207648]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~surface_area,1379273]]"
-  - "[[_Standards/WikiData/WD~Dehn_invariant,30587580]]"
-  - "[[_Standards/WikiData/WD~volume,39297]]"
+  - '[[_Standards/WikiData/WD~surface_area,1379273]]'
+  - '[[_Standards/WikiData/WD~Dehn_invariant,30587580]]'
+  - '[[_Standards/WikiData/WD~volume,39297]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~prismatoid,1757451]]"
-  - "[[_Standards/WikiData/WD~uniform_polyhedron,2471563]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~prismatoid,1757451]]'
+  - '[[_Standards/WikiData/WD~uniform_polyhedron,2471563]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 has_facet_polytope:
-  - "[[_Standards/WikiData/WD~polygon,37555]]"
-  - "[[_Standards/WikiData/WD~parallelogram,45867]]"
+  - '[[_Standards/WikiData/WD~polygon,37555]]'
+  - '[[_Standards/WikiData/WD~parallelogram,45867]]'
 Iconclass_notation: 49D43
 Commons_category: Prisms (geometry)
 image:

@@ -4,20 +4,22 @@ aliases:
   - take_action
   - TakeAction
   - is_a_take_action
+  - Take_Action
+  - Take Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - take_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_take_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

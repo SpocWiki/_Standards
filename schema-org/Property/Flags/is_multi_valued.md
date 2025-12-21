@@ -4,21 +4,22 @@ aliases:
   - multiple_value
   - multipleValues
   - is_multi_valued
+  - is multi valued
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - multiple_value
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_multi_valued
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

@@ -2,12 +2,13 @@
 aliases:
   - has entertainment-business
   - has_entertainment_business
+  - has entertainment business
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - business
   - entertainment_business
   - entertainmentBusiness
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_entertainment_business
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

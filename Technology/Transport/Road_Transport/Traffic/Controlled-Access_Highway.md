@@ -7,6 +7,8 @@ aliases:
   - throughway
   - thruway
   - parkway
+  - Controlled-Access_Highway
+  - Controlled-Access Highway
 has_id_wikidata: Q46622
 subclass_of: "[[_Standards/WikiData/WD~highway,269949]]"
 different_from: "[[_Standards/WikiData/WD~national_road,1716124]]"
@@ -21,7 +23,7 @@ properties_for_this_type:
   - traffic sign
   - country
   - transport network
-OmegaWiki_Defined_Meaning: "2420"
+OmegaWiki_Defined_Meaning: 2420
 Colon_Classification: D411
 Commons_category: Controlled-access highways
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Garching%20Bundesautobahn%209.jpg
@@ -36,7 +38,7 @@ OpenStreetMap_tag_or_key:
 Unicode_character: 🛣
 ---
 
-# [[Controlled-Access_Highway]] 
+# [[Controlled-Access_Highway]] 🛣 
 
 #is_/same_as :: [[../../../../WikiData/WD~Controlled-access_highway,46622|WD~Controlled-access_highway,46622]] 
 

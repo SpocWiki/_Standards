@@ -4,76 +4,77 @@ aliases:
   - Eric Patrick Clapton
   - Eric Clapton
   - Clapton
+  - Clapton,Eric
 has_id_wikidata: Q48187
 genre:
-  - "[[_Standards/WikiData/WD~hard_rock,83270]]"
-  - "[[_Standards/WikiData/WD~jazz_fusion,105527]]"
-  - "[[_Standards/WikiData/WD~blues_rock,193355]]"
-  - "[[_Standards/WikiData/WD~psychedelic_rock,206159]]"
-  - "[[_Standards/WikiData/WD~blues,9759]]"
-  - "[[_Standards/WikiData/WD~rock_music,11399]]"
+  - '[[_Standards/WikiData/WD~hard_rock,83270]]'
+  - '[[_Standards/WikiData/WD~jazz_fusion,105527]]'
+  - '[[_Standards/WikiData/WD~blues_rock,193355]]'
+  - '[[_Standards/WikiData/WD~psychedelic_rock,206159]]'
+  - '[[_Standards/WikiData/WD~blues,9759]]'
+  - '[[_Standards/WikiData/WD~rock_music,11399]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Lory_Del_Santo,119593]]"
-  - "[[_Standards/WikiData/WD~Yvonne_Kelly,39604104]]"
+  - '[[_Standards/WikiData/WD~Lory_Del_Santo,119593]]'
+  - '[[_Standards/WikiData/WD~Yvonne_Kelly,39604104]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Polydor,155152]]"
-  - "[[_Standards/WikiData/WD~Atco_Records,585643]]"
-  - "[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]"
+  - '[[_Standards/WikiData/WD~Polydor,155152]]'
+  - '[[_Standards/WikiData/WD~Atco_Records,585643]]'
+  - '[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~singer_songwriter,488205]]"
-  - "[[_Standards/WikiData/WD~guitarist,855091]]"
-  - "[[_Standards/WikiData/WD~jazz_musician,15981151]]"
-  - "[[_Standards/WikiData/WD~recording_artist,55960555]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+  - '[[_Standards/WikiData/WD~guitarist,855091]]'
+  - '[[_Standards/WikiData/WD~jazz_musician,15981151]]'
+  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-  - "[[_Standards/WikiData/WD~Silver_Clef_Award,3483987]]"
-  - "[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]"
+  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+  - '[[_Standards/WikiData/WD~Silver_Clef_Award,3483987]]'
+  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
 member_of:
-  - "[[_Standards/WikiData/WD~The_Yardbirds,192725]]"
-  - "[[_Standards/WikiData/WD~Cream,203736]]"
-  - "[[_Standards/WikiData/WD~Blind_Faith,548656]]"
-  - "[[_Standards/WikiData/WD~Derek_and_the_Dominos,724406]]"
-  - "[[_Standards/WikiData/WD~John_Mayall_&_the_Bluesbreakers,886072]]"
-  - "[[_Standards/WikiData/WD~The_Dirty_Mac,913897]]"
-  - "[[_Standards/WikiData/WD~All_Stars,4728323]]"
+  - '[[_Standards/WikiData/WD~The_Yardbirds,192725]]'
+  - '[[_Standards/WikiData/WD~Cream,203736]]'
+  - '[[_Standards/WikiData/WD~Blind_Faith,548656]]'
+  - '[[_Standards/WikiData/WD~Derek_and_the_Dominos,724406]]'
+  - '[[_Standards/WikiData/WD~John_Mayall_&_the_Bluesbreakers,886072]]'
+  - '[[_Standards/WikiData/WD~The_Dirty_Mac,913897]]'
+  - '[[_Standards/WikiData/WD~All_Stars,4728323]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Pattie_Boyd,234074]]"
-  - "[[_Standards/WikiData/WD~Melia_McEnery,26821182]]"
+  - '[[_Standards/WikiData/WD~Pattie_Boyd,234074]]'
+  - '[[_Standards/WikiData/WD~Melia_McEnery,26821182]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Blackie,253240]]"
-  - "[[_Standards/WikiData/WD~Brownie,720614]]"
-  - "[[_Standards/WikiData/WD~The_Fool,7734699]]"
-  - "[[_Standards/WikiData/WD~Lucy,8084979]]"
-discography: "[[_Standards/WikiData/WD~Eric_Clapton_discography,377959]]"
-medical_condition: "[[_Standards/WikiData/WD~peripheral_neuropathy,945238]]"
-place_of_birth: "[[_Standards/WikiData/WD~Ripley,2337139]]"
+  - '[[_Standards/WikiData/WD~Blackie,253240]]'
+  - '[[_Standards/WikiData/WD~Brownie,720614]]'
+  - '[[_Standards/WikiData/WD~The_Fool,7734699]]'
+  - '[[_Standards/WikiData/WD~Lucy,8084979]]'
+discography: '[[_Standards/WikiData/WD~Eric_Clapton_discography,377959]]'
+medical_condition: '[[_Standards/WikiData/WD~peripheral_neuropathy,945238]]'
+place_of_birth: '[[_Standards/WikiData/WD~Ripley,2337139]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Kingston_University,2503809]]"
-  - "[[_Standards/WikiData/WD~The_Hollyfield_School_and_Sixth_Form_Centre,12858487]]"
-handedness: "[[_Standards/WikiData/WD~right_handedness,3039938]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-copyright_representative: "[[_Standards/WikiData/WD~PRS_for_Music,7120528]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Eric_Clapton,10524429]]"
-child: "[[_Standards/WikiData/WD~Conor_Clapton,11855489]]"
+  - '[[_Standards/WikiData/WD~Kingston_University,2503809]]'
+  - '[[_Standards/WikiData/WD~The_Hollyfield_School_and_Sixth_Form_Centre,12858487]]'
+handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+copyright_representative: '[[_Standards/WikiData/WD~PRS_for_Music,7120528]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Eric_Clapton,10524429]]'
+child: '[[_Standards/WikiData/WD~Conor_Clapton,11855489]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Eric,12788459]]"
-  - "[[_Standards/WikiData/WD~Patrick,18002623]]"
-family_name: "[[_Standards/WikiData/WD~Clapton,16865613]]"
+  - '[[_Standards/WikiData/WD~Eric,12788459]]'
+  - '[[_Standards/WikiData/WD~Patrick,18002623]]'
+family_name: '[[_Standards/WikiData/WD~Clapton,16865613]]'
 instrument:
-  - "[[_Standards/WikiData/WD~voice,17172850]]"
-  - "[[_Standards/WikiData/WD~guitar,6607]]"
-  - "[[_Standards/WikiData/WD~keyboard_instrument,52954]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-honorific_suffix: "[[_Standards/WikiData/WD~CBE,134953873]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~voice,17172850]]'
+  - '[[_Standards/WikiData/WD~guitar,6607]]'
+  - '[[_Standards/WikiData/WD~keyboard_instrument,52954]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+honorific_suffix: '[[_Standards/WikiData/WD~CBE,134953873]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 social_media_followers:
   - 1600000
   - 158557
@@ -98,10 +99,10 @@ official_website:
   - http://www.ericclapton.com/
   - https://ericclapton.com
 ISNI:
-  - "0000000108964267"
-  - "0000000368552322"
-IPI_name_number: "00041122734"
-NLC_authorities: "001391579"
+  - 0000000108964267
+  - 0000000368552322
+IPI_name_number: 00041122734
+NLC_authorities: 001391579
 Plex_person_key: 5d7768377e9a3c0020c6d3a5
 ---
 

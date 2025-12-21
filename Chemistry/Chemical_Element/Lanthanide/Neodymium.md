@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Neodymium
+has_id_wikidata: Q1388
 CAS_Registry_Number: 7440-00-8
 Commons_category: Neodymium
 Commons_gallery: Neodymium
@@ -12,71 +15,68 @@ MeSH_tree_code:
   - D01.552.550.399.625
 OmegaWiki_Defined_Meaning: 338320
 PubChem_CID: 23934
-RxNorm_CUI: "1311480"
+RxNorm_CUI: 1311480
 SpocWebEntityId: 21956
 UMLS_CUI: C0027599
 Unicode_character: 釹
 UNII: 2I87U3734A
 ZVG_number: 7600
-aliases:
-  - Neodymium
 atomic_number: 60
-canonical_SMILES: "[Nd]"
+canonical_SMILES: '[Nd]'
 chemical_formula: Nd
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Auer_von_Welsbach,89390]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Auer_von_Welsbach,89390]]'
 electronegativity: 1.14
 element_symbol: Nd
-has_id_wikidata: Q1388
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Neodym%201.jpg
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
   - 0.98
   - 1.12
   - 1.16
   - 1.27
-location_of_discovery: "[[_Standards/WikiData/WD~Vienna,1741]]"
+location_of_discovery: '[[_Standards/WikiData/WD~Vienna,1741]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~aeschynite_(Nd),1067020]]"
-  - "[[_Standards/WikiData/WD~clinofergusonite_(Nd),2718921]]"
-  - "[[_Standards/WikiData/WD~calcioancylite_(Nd),3650470]]"
-  - "[[_Standards/WikiData/WD~fergusonite_(Nd),3742785]]"
-  - "[[_Standards/WikiData/WD~florencite_(Nd),3746701]]"
-  - "[[_Standards/WikiData/WD~françoisite_(Nd),3752299]]"
-  - "[[_Standards/WikiData/WD~gysinite_(Nd),3780198]]"
-  - "[[_Standards/WikiData/WD~hydroxylbastnäsite_(Nd),3787832]]"
-  - "[[_Standards/WikiData/WD~kozoite_(Nd),3816711]]"
-  - "[[_Standards/WikiData/WD~lanthanite_(Nd),3826950]]"
-  - "[[_Standards/WikiData/WD~monazite_(Nd),3860583]]"
-  - "[[_Standards/WikiData/WD~retzian_(Nd),3933862]]"
-  - "[[_Standards/WikiData/WD~rhabdophane_(Nd),3934053]]"
-  - "[[_Standards/WikiData/WD~schuilingite_(Nd),3952188]]"
-  - "[[_Standards/WikiData/WD~shabaite_(Nd),3958922]]"
-  - "[[_Standards/WikiData/WD~swamboite_(Nd),3978578]]"
-  - "[[_Standards/WikiData/WD~synchysite_(Nd),3979127]]"
-  - "[[_Standards/WikiData/WD~tundrite_(Nd),4000427]]"
-  - "[[_Standards/WikiData/WD~allanite_(Nd),19767346]]"
-  - "[[_Standards/WikiData/WD~åskagenite_(Nd),19799765]]"
-  - "[[_Standards/WikiData/WD~carlgieseckeite_(Nd),19833300]]"
-  - "[[_Standards/WikiData/WD~chukhrovite_(Nd),19833336]]"
-  - "[[_Standards/WikiData/WD~wakefieldite_(Nd),19862048]]"
-  - "[[_Standards/WikiData/WD~bastnäsite_(Nd),20042659]]"
-  - "[[_Standards/WikiData/WD~mendeleevite_(Nd),21029157]]"
-  - "[[_Standards/WikiData/WD~gadolinite_(Nd),26981145]]"
-  - "[[_Standards/WikiData/WD~hingganite_(Nd),68769615]]"
-  - "[[_Standards/WikiData/WD~lepersonnite_(Nd),110297480]]"
-  - "[[_Standards/WikiData/WD~chinleite_(Nd),114793058]]"
+  - '[[_Standards/WikiData/WD~aeschynite_(Nd),1067020]]'
+  - '[[_Standards/WikiData/WD~clinofergusonite_(Nd),2718921]]'
+  - '[[_Standards/WikiData/WD~calcioancylite_(Nd),3650470]]'
+  - '[[_Standards/WikiData/WD~fergusonite_(Nd),3742785]]'
+  - '[[_Standards/WikiData/WD~florencite_(Nd),3746701]]'
+  - '[[_Standards/WikiData/WD~françoisite_(Nd),3752299]]'
+  - '[[_Standards/WikiData/WD~gysinite_(Nd),3780198]]'
+  - '[[_Standards/WikiData/WD~hydroxylbastnäsite_(Nd),3787832]]'
+  - '[[_Standards/WikiData/WD~kozoite_(Nd),3816711]]'
+  - '[[_Standards/WikiData/WD~lanthanite_(Nd),3826950]]'
+  - '[[_Standards/WikiData/WD~monazite_(Nd),3860583]]'
+  - '[[_Standards/WikiData/WD~retzian_(Nd),3933862]]'
+  - '[[_Standards/WikiData/WD~rhabdophane_(Nd),3934053]]'
+  - '[[_Standards/WikiData/WD~schuilingite_(Nd),3952188]]'
+  - '[[_Standards/WikiData/WD~shabaite_(Nd),3958922]]'
+  - '[[_Standards/WikiData/WD~swamboite_(Nd),3978578]]'
+  - '[[_Standards/WikiData/WD~synchysite_(Nd),3979127]]'
+  - '[[_Standards/WikiData/WD~tundrite_(Nd),4000427]]'
+  - '[[_Standards/WikiData/WD~allanite_(Nd),19767346]]'
+  - '[[_Standards/WikiData/WD~åskagenite_(Nd),19799765]]'
+  - '[[_Standards/WikiData/WD~carlgieseckeite_(Nd),19833300]]'
+  - '[[_Standards/WikiData/WD~chukhrovite_(Nd),19833336]]'
+  - '[[_Standards/WikiData/WD~wakefieldite_(Nd),19862048]]'
+  - '[[_Standards/WikiData/WD~bastnäsite_(Nd),20042659]]'
+  - '[[_Standards/WikiData/WD~mendeleevite_(Nd),21029157]]'
+  - '[[_Standards/WikiData/WD~gadolinite_(Nd),26981145]]'
+  - '[[_Standards/WikiData/WD~hingganite_(Nd),68769615]]'
+  - '[[_Standards/WikiData/WD~lepersonnite_(Nd),110297480]]'
+  - '[[_Standards/WikiData/WD~chinleite_(Nd),114793058]]'
 mass: 144.242
 named_after:
-  - "[[_Standards/WikiData/WD~twin,159979]]"
-  - "[[_Standards/WikiData/WD~novelty,12544101]]"
+  - '[[_Standards/WikiData/WD~twin,159979]]'
+  - '[[_Standards/WikiData/WD~novelty,12544101]]'
 part_of:
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
-  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
+  - '[[_Standards/WikiData/WD~period_6,239813]]'
+  - '[[_Standards/WikiData/WD~lanthanide,19569]]'
 time_of_discovery_or_invention: 1885-01-01T00:00:00Z
 type: Element
 ---

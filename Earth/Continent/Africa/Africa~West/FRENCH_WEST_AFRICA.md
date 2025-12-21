@@ -1,9 +1,12 @@
 ---
+aliases:
+  - FRENCH_WEST_AFRICA
+  - FRENCH WEST AFRICA
 confidential: public
 isDeleted: false
 SpocWebEntityId: 76714
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

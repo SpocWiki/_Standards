@@ -3,12 +3,13 @@ aliases:
   - has-energy-consumption-details
   - hasEnergyConsumptionDetails
   - has_energy_consumption_details
+  - has energy consumption details
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +18,11 @@ keywords:
   - details
   - energy_consumption_details
   - energyConsumptionDetails
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_energy_consumption_details
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Marc Russell Benioff
+  - Benioff,Marc
 ---
 
 # [[Benioff,Marc]] 

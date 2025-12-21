@@ -8,35 +8,35 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - landform
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_landform Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_landform Class
 type: Type
 part_of:
-  - "[[_Standards/WikiData/WD~landscape,107425]]"
-  - "[[_Standards/WikiData/WD~terrain,186131]]"
+  - '[[_Standards/WikiData/WD~landscape,107425]]'
+  - '[[_Standards/WikiData/WD~terrain,186131]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~geographical_feature,618123]]"
-  - "[[_Standards/WikiData/WD~geographic_location,2221906]]"
-instance_of: "[[_Standards/WikiData/WD~feature_type,12046615]]"
-described_by_source: "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q130379630,130379630]]"
+  - '[[_Standards/WikiData/WD~geographical_feature,618123]]'
+  - '[[_Standards/WikiData/WD~geographic_location,2221906]]'
+instance_of: '[[_Standards/WikiData/WD~feature_type,12046615]]'
+described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q130379630,130379630]]'
 Wikidata_property: located in/on physical feature
 studied_by:
-  - "[[_Standards/WikiData/WD~Earth_science,8008]]"
-  - "[[_Standards/WikiData/WD~geomorphology,52109]]"
-U_S_National_Archives_Identifier: "10639796"
+  - '[[_Standards/WikiData/WD~Earth_science,8008]]'
+  - '[[_Standards/WikiData/WD~geomorphology,52109]]'
+U_S_National_Archives_Identifier: 10639796
 Commons_category: Landforms
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Blick%20zum%20Muretto-Pass%20P1000742.JPG
@@ -45,7 +45,7 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/WOAHdubs.jpg
 bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%20surface%20NGDC%202000.jpg
 equivalent_class:
-  - "[[_Standards/WikiData/WD~https_id.oclc.org_worldcat_entity_Q340,340]]"
+  - '[[_Standards/WikiData/WD~https_id.oclc.org_worldcat_entity_Q340,340]]'
   - https://schema.org/Landform
 Wikidata_usage_instructions: Instances of this class are actual physical landforms, e.g., Mount Everest, not types of landforms like glacier.
 ---

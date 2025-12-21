@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Iceland
+  - Islandia
+  - Islande
+  - آيسلندا
+  - 冰岛
+  - Исландия
+  - the Republic of Iceland
+  - la República de Islandia
+has_id_wikidata: Q189
 official_religion: "[[_Standards/WikiData/WD~Lutheranism,75809]]"
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
@@ -281,7 +291,6 @@ IPA_transcription:
   - ɪˈslan⁽ʲ⁾dʲɪjə
   - ɪˈslanʲdʲɪjə
 Krugosvet_article: strany_mira/ISLANDIYA.html
-has_id_wikidata: Q189
 location:
   - 64.614
   - -21.718
@@ -298,21 +307,12 @@ cssclasses:
   - Country
 publish: true
 title: Iceland
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Iceland
-  - Islandia
-  - Islande
-  - آيسلندا
-  - 冰岛
-  - Исландия
-  - the Republic of Iceland
-  - la República de Islandia
+publishDate: ""
+expiryDate: ""
 Languages:
   - is
   - en

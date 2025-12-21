@@ -4,21 +4,22 @@ aliases:
   - high-price
   - highPrice
   - has_value_for_high_price
+  - has value for high price
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - high-price
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_high-price
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

@@ -1,35 +1,37 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Chapter
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: EjXSHF
-  name: PageEnd
-  options: {}
-  type: Number
-  path: ''
-- id: ouJQYg
-  name: PageStart
-  options: {}
-  type: Number
-  path: ''
-- id: JhuqCD
-  name: Pagination
-  options: {}
-  type: Input
-  path: ''
+  - id: EjXSHF
+    name: PageEnd
+    options: {}
+    type: Number
+    path: ''
+  - id: ouJQYg
+    name: PageStart
+    options: {}
+    type: Number
+    path: ''
+  - id: JhuqCD
+    name: Pagination
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Chapter
-- class/Thing/CreativeWork/Chapter
-- is_a_/Chapter
-- schema-org/Chapter
+  - class/Chapter
+  - class/Thing/CreativeWork/Chapter
+  - is_a_/Chapter
+  - schema-org/Chapter
 tags:
-- class/FileClass
-- class/Chapter
-- is_a_/Chapter
-- class/Thing/CreativeWork/Chapter
+  - class/FileClass
+  - class/Chapter
+  - is_a_/Chapter
+  - class/Thing/CreativeWork/Chapter
 version: 2.0
 ---
 

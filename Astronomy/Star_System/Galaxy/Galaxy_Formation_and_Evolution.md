@@ -1,12 +1,14 @@
 ---
 aliases:
   - galaxy formation and evolution
+  - Galaxy_Formation_and_Evolution
+  - Galaxy Formation and Evolution
 has_id_wikidata: Q1995140
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-is_the_study_of: "[[_Standards/WikiData/WD~galaxy,318]]"
-subclass_of: "[[_Standards/WikiData/WD~astrophysics,37547]]"
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+is_the_study_of: '[[_Standards/WikiData/WD~galaxy,318]]'
+subclass_of: '[[_Standards/WikiData/WD~astrophysics,37547]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Simulation%20%E2%80%93%20A%20Disk%20Galaxy%20Forms.webm
 ---
 

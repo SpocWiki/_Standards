@@ -6,113 +6,114 @@ aliases:
   - Sinatra
   - Chairman of the Board
   - Ol' Blue Eyes
+  - Sinatra,Frank
 has_id_wikidata: Q40912
 influenced_by:
-  - "[[_Standards/WikiData/WD~Bing_Crosby,72984]]"
-  - "[[_Standards/WikiData/WD~Billie_Holiday,104358]]"
+  - '[[_Standards/WikiData/WD~Bing_Crosby,72984]]'
+  - '[[_Standards/WikiData/WD~Billie_Holiday,104358]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]"
-  - "[[_Standards/WikiData/WD~Jean_Hersholt_Humanitarian_Award,202051]]"
-  - "[[_Standards/WikiData/WD~Austrian_Decoration_for_Science_and_Art,306590]]"
-  - "[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]"
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Male_Pop_Vocal_Performance,947090]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Original_Song,1472235]]"
-  - "[[_Standards/WikiData/WD~Grammy_Legend_Award,1542347]]"
-  - "[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]"
-  - "[[_Standards/WikiData/WD~Gaming_Hall_of_Fame,5520192]]"
-  - "[[_Standards/WikiData/WD~Grammy_Trustees_Award,5593916]]"
-  - "[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Johnny_Mercer_Award,61669648]]"
-  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
-residence: "[[_Standards/WikiData/WD~Hoboken,138578]]"
-place_of_birth: "[[_Standards/WikiData/WD~Hoboken,138578]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+  - '[[_Standards/WikiData/WD~Jean_Hersholt_Humanitarian_Award,202051]]'
+  - '[[_Standards/WikiData/WD~Austrian_Decoration_for_Science_and_Art,306590]]'
+  - '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
+  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Male_Pop_Vocal_Performance,947090]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Original_Song,1472235]]'
+  - '[[_Standards/WikiData/WD~Grammy_Legend_Award,1542347]]'
+  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]'
+  - '[[_Standards/WikiData/WD~Gaming_Hall_of_Fame,5520192]]'
+  - '[[_Standards/WikiData/WD~Grammy_Trustees_Award,5593916]]'
+  - '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~Johnny_Mercer_Award,61669648]]'
+  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+residence: '[[_Standards/WikiData/WD~Hoboken,138578]]'
+place_of_birth: '[[_Standards/WikiData/WD~Hoboken,138578]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Ava_Gardner,164487]]"
-  - "[[_Standards/WikiData/WD~Mia_Farrow,202725]]"
-  - "[[_Standards/WikiData/WD~Barbara_Sinatra,2883992]]"
-  - "[[_Standards/WikiData/WD~Nancy_Barbato,55517707]]"
+  - '[[_Standards/WikiData/WD~Ava_Gardner,164487]]'
+  - '[[_Standards/WikiData/WD~Mia_Farrow,202725]]'
+  - '[[_Standards/WikiData/WD~Barbara_Sinatra,2883992]]'
+  - '[[_Standards/WikiData/WD~Nancy_Barbato,55517707]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~voice_actor,2405480]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~producer,47541952]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~voice_actor,2405480]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~director,3455803]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~producer,47541952]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Columbia_Records,183387]]"
-  - "[[_Standards/WikiData/WD~Capitol_Records,193023]]"
-  - "[[_Standards/WikiData/WD~RCA_Records,202585]]"
-  - "[[_Standards/WikiData/WD~Reprise_Records,645889]]"
-  - "[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]"
-  - "[[_Standards/WikiData/WD~Philips_Records,1536003]]"
+  - '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
+  - '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
+  - '[[_Standards/WikiData/WD~RCA_Records,202585]]'
+  - '[[_Standards/WikiData/WD~Reprise_Records,645889]]'
+  - '[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]'
+  - '[[_Standards/WikiData/WD~Philips_Records,1536003]]'
 instrument:
-  - "[[_Standards/WikiData/WD~castanets,183932]]"
-  - "[[_Standards/WikiData/WD~triangle,201735]]"
-  - "[[_Standards/WikiData/WD~friction_drum,583827]]"
-  - "[[_Standards/WikiData/WD~voice,17172850]]"
-  - "[[_Standards/WikiData/WD~ukulele,61285]]"
+  - '[[_Standards/WikiData/WD~castanets,183932]]'
+  - '[[_Standards/WikiData/WD~triangle,201735]]'
+  - '[[_Standards/WikiData/WD~friction_drum,583827]]'
+  - '[[_Standards/WikiData/WD~voice,17172850]]'
+  - '[[_Standards/WikiData/WD~ukulele,61285]]'
 genre:
-  - "[[_Standards/WikiData/WD~swing_music,203775]]"
-  - "[[_Standards/WikiData/WD~easy_listening,848399]]"
-  - "[[_Standards/WikiData/WD~traditional_pop,1196752]]"
-  - "[[_Standards/WikiData/WD~vocal_jazz,1530455]]"
-  - "[[_Standards/WikiData/WD~big_band_music,105756581]]"
-  - "[[_Standards/WikiData/WD~jazz,8341]]"
-  - "[[_Standards/WikiData/WD~blues,9759]]"
+  - '[[_Standards/WikiData/WD~swing_music,203775]]'
+  - '[[_Standards/WikiData/WD~easy_listening,848399]]'
+  - '[[_Standards/WikiData/WD~traditional_pop,1196752]]'
+  - '[[_Standards/WikiData/WD~vocal_jazz,1530455]]'
+  - '[[_Standards/WikiData/WD~big_band_music,105756581]]'
+  - '[[_Standards/WikiData/WD~jazz,8341]]'
+  - '[[_Standards/WikiData/WD~blues,9759]]'
 relative:
-  - "[[_Standards/WikiData/WD~Princess_Stéphanie_of_Monaco,215012]]"
+  - '[[_Standards/WikiData/WD~Princess_Stéphanie_of_Monaco,215012]]'
   - "[[_Standards/WikiData/WD~Maureen_O'Sullivan,230084]]"
 child:
-  - "[[_Standards/WikiData/WD~Nancy_Sinatra,233937]]"
-  - "[[_Standards/WikiData/WD~Tina_Sinatra,545438]]"
-  - "[[_Standards/WikiData/WD~Frank_Sinatra_Jr.,1349639]]"
+  - '[[_Standards/WikiData/WD~Nancy_Sinatra,233937]]'
+  - '[[_Standards/WikiData/WD~Tina_Sinatra,545438]]'
+  - '[[_Standards/WikiData/WD~Frank_Sinatra_Jr.,1349639]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Angie_Dickinson,235989]]"
-  - "[[_Standards/WikiData/WD~Judith_Exner,511736]]"
+  - '[[_Standards/WikiData/WD~Angie_Dickinson,235989]]'
+  - '[[_Standards/WikiData/WD~Judith_Exner,511736]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Q577011,577011]]"
-  - "[[_Standards/WikiData/WD~Francis,1441346]]"
-ethnic_group: "[[_Standards/WikiData/WD~Italian_Americans,974693]]"
+  - '[[_Standards/WikiData/WD~Q577011,577011]]'
+  - '[[_Standards/WikiData/WD~Francis,1441346]]'
+ethnic_group: '[[_Standards/WikiData/WD~Italian_Americans,974693]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Rat_Pack,1129029]]"
-  - "[[_Standards/WikiData/WD~Tommy_Dorsey_and_His_Orchestra,57389132]]"
-  - "[[_Standards/WikiData/WD~Harry_James_and_His_Orchestra,90535187]]"
-discography: "[[_Standards/WikiData/WD~Frank_Sinatra_discography,1435510]]"
-place_of_burial: "[[_Standards/WikiData/WD~Desert_Memorial_Park,2357024]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-father: "[[_Standards/WikiData/WD~Anthony_Martin_Sinatra,4773028]]"
-filmography: "[[_Standards/WikiData/WD~Frank_Sinatra_filmography,5489655]]"
-educated_at: "[[_Standards/WikiData/WD~Hoboken_High_School,5875150]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Frank_Sinatra,14339267]]"
-mother: "[[_Standards/WikiData/WD~Dolly_Sinatra,21078200]]"
-family_name: "[[_Standards/WikiData/WD~Sinatra,37521020]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-writing_language: "[[_Standards/WikiData/WD~American_English,7976]]"
-native_language: "[[_Standards/WikiData/WD~American_English,7976]]"
-cause_of_death: "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
+  - '[[_Standards/WikiData/WD~Rat_Pack,1129029]]'
+  - '[[_Standards/WikiData/WD~Tommy_Dorsey_and_His_Orchestra,57389132]]'
+  - '[[_Standards/WikiData/WD~Harry_James_and_His_Orchestra,90535187]]'
+discography: '[[_Standards/WikiData/WD~Frank_Sinatra_discography,1435510]]'
+place_of_burial: '[[_Standards/WikiData/WD~Desert_Memorial_Park,2357024]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+father: '[[_Standards/WikiData/WD~Anthony_Martin_Sinatra,4773028]]'
+filmography: '[[_Standards/WikiData/WD~Frank_Sinatra_filmography,5489655]]'
+educated_at: '[[_Standards/WikiData/WD~Hoboken_High_School,5875150]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Frank_Sinatra,14339267]]'
+mother: '[[_Standards/WikiData/WD~Dolly_Sinatra,21078200]]'
+family_name: '[[_Standards/WikiData/WD~Sinatra,37521020]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+writing_language: '[[_Standards/WikiData/WD~American_English,7976]]'
+native_language: '[[_Standards/WikiData/WD~American_English,7976]]'
+cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
 member_of_political_party:
-  - "[[_Standards/WikiData/WD~Republican_Party,29468]]"
-  - "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
-voice_type: "[[_Standards/WikiData/WD~baritone,31687]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_locations: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+  - '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
+voice_type: '[[_Standards/WikiData/WD~baritone,31687]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_locations: '[[_Standards/WikiData/WD~United_States,30]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-place_of_death: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Italy,38]]'
+place_of_death: '[[_Standards/WikiData/WD~Los_Angeles,65]]'
 number_of_children: 3
 height: 172
 social_media_followers: 78953
@@ -126,7 +127,7 @@ Libris_URI: wt79b3cf44zm9t6
 birth_name: Francis Albert Sinatra
 date_of_birth: 1915-12-12T00:00:00Z
 Facebook_username: sinatra
-U_S_National_Archives_Identifier: "10581438"
+U_S_National_Archives_Identifier: 10581438
 name_in_native_language: Frank Sinatra
 work_period_end_: 1995-01-01T00:00:00Z
 date_of_death: 1998-05-14T00:00:00Z
@@ -139,8 +140,8 @@ plaque_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Hobosinatrastar.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Sinatra%20signature.svg
 official_website: https://www.sinatra.com
-ISNI: "0000000108823528"
-IPI_name_number: "00028814966"
+ISNI: 0000000108823528
+IPI_name_number: 00028814966
 Plex_person_key: 5d77682754f42c001f8c29e5
 Europeana_entity: agent/base/59981
 ---

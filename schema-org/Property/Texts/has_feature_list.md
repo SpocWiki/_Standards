@@ -4,22 +4,24 @@ aliases:
   - feature_list
   - featureList
   - has_text_of_feature_list
+  - has_feature_list
+  - has feature list
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - feature
   - list
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_feature_list
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

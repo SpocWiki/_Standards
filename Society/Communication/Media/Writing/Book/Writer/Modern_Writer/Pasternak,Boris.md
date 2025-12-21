@@ -1,10 +1,11 @@
 ---
-has_id_wikidata: Q41223
 aliases:
   - Boris Leonidovich Pasternak
   - Boris Pasternak
   - Pasternak
   - Boris_Pasternak
+  - Pasternak,Boris
+has_id_wikidata: Q41223
 ---
 # [[Pasternak,Boris]] 
 

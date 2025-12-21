@@ -1,15 +1,17 @@
 ---
 aliases:
   - ICC Men's Cricket World Cup
+  - Cricket_World_Cup
+  - Cricket World Cup
 has_id_wikidata: Q192202
 instance_of:
-  - "[[_Standards/WikiData/WD~tournament,500834]]"
-  - "[[_Standards/WikiData/WD~recurring_sporting_event,18608583]]"
-organizer: "[[_Standards/WikiData/WD~International_Cricket_Council,722694]]"
-country: "[[_Standards/WikiData/WD~internationality,1072012]]"
-sport: "[[_Standards/WikiData/WD~cricket,5375]]"
-winner: "[[_Standards/WikiData/WD~England,21]]"
-founded_by: "[[_Standards/WikiData/WD~England,21]]"
+  - '[[_Standards/WikiData/WD~tournament,500834]]'
+  - '[[_Standards/WikiData/WD~recurring_sporting_event,18608583]]'
+organizer: '[[_Standards/WikiData/WD~International_Cricket_Council,722694]]'
+country: '[[_Standards/WikiData/WD~internationality,1072012]]'
+sport: '[[_Standards/WikiData/WD~cricket,5375]]'
+winner: '[[_Standards/WikiData/WD~England,21]]'
+founded_by: '[[_Standards/WikiData/WD~England,21]]'
 event_interval: 4
 number_of_participants: 16
 social_media_followers: 1418515

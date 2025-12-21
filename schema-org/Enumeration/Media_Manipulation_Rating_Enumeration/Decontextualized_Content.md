@@ -4,21 +4,23 @@ aliases:
   - decontextualized_content
   - DecontextualizedContent
   - is_a_decontextualized_content
+  - Decontextualized_Content
+  - Decontextualized Content
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MediaManipulationRatingEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - decontextualized_content
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_decontextualized_content Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

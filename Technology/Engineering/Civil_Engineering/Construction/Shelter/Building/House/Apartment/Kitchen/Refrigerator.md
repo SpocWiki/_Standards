@@ -2,33 +2,34 @@
 aliases:
   - Kühlschrank
   - fridge
+  - Refrigerator
 has_id_wikidata: Q37828
 has_use:
-  - "[[_Standards/WikiData/WD~food_preservation,173514]]"
-  - "[[_Standards/WikiData/WD~refrigeration,747713]]"
-  - "[[_Standards/WikiData/WD~food_storage,11702361]]"
+  - '[[_Standards/WikiData/WD~food_preservation,173514]]'
+  - '[[_Standards/WikiData/WD~refrigeration,747713]]'
+  - '[[_Standards/WikiData/WD~food_storage,11702361]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~heat_exchanger,189124]]"
-  - "[[_Standards/WikiData/WD~compressor_aggregate,134387064]]"
+  - '[[_Standards/WikiData/WD~heat_exchanger,189124]]'
+  - '[[_Standards/WikiData/WD~compressor_aggregate,134387064]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~home_appliance,212920]]"
-  - "[[_Standards/WikiData/WD~chiller,1501558]]"
-  - "[[_Standards/WikiData/WD~electrical_appliance,2425052]]"
-  - "[[_Standards/WikiData/WD~major_appliance,12269769]]"
-uses: "[[_Standards/WikiData/WD~refrigerant,266790]]"
+  - '[[_Standards/WikiData/WD~home_appliance,212920]]'
+  - '[[_Standards/WikiData/WD~chiller,1501558]]'
+  - '[[_Standards/WikiData/WD~electrical_appliance,2425052]]'
+  - '[[_Standards/WikiData/WD~major_appliance,12269769]]'
+uses: '[[_Standards/WikiData/WD~refrigerant,266790]]'
 different_from:
-  - "[[_Standards/WikiData/WD~radiator,1572702]]"
-  - "[[_Standards/WikiData/WD~heat_sink,1796959]]"
-  - "[[_Standards/WikiData/WD~icebox,3667020]]"
-  - "[[_Standards/WikiData/WD~Reefer,19299001]]"
-  - "[[_Standards/WikiData/WD~California_Cooler,55654875]]"
+  - '[[_Standards/WikiData/WD~radiator,1572702]]'
+  - '[[_Standards/WikiData/WD~heat_sink,1796959]]'
+  - '[[_Standards/WikiData/WD~icebox,3667020]]'
+  - '[[_Standards/WikiData/WD~Reefer,19299001]]'
+  - '[[_Standards/WikiData/WD~California_Cooler,55654875]]'
 replaces:
-  - "[[_Standards/WikiData/WD~cooler,1976332]]"
-  - "[[_Standards/WikiData/WD~icebox,3667020]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
+  - '[[_Standards/WikiData/WD~cooler,1976332]]'
+  - '[[_Standards/WikiData/WD~icebox,3667020]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
 time_of_discovery_or_invention: 1856-01-01T00:00:00Z
-Nomenclature_for_Museum_Cataloging: "4744"
-OmegaWiki_Defined_Meaning: "358385"
+Nomenclature_for_Museum_Cataloging: 4744
+OmegaWiki_Defined_Meaning: 358385
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Open%20refrigerator%20with%20food%20at%20night.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LG%20refrigerator%20interior.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Theater%20commercial%2C%20electric%20refrigerator%2C%201926.ogv

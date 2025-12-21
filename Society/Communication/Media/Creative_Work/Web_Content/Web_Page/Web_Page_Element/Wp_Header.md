@@ -4,20 +4,22 @@ aliases:
   - wp_header
   - WPHeader
   - is_a_wp_header
+  - Wp_Header
+  - Wp Header
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wp_header
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wp_header Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

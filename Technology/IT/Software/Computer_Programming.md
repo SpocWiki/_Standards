@@ -2,42 +2,44 @@
 aliases:
   - Computer programming
   - coding
+  - Computer_Programming
+  - Computer Programming
 has_id_wikidata: Q80006
 has_characteristic:
-  - "[[_Standards/WikiData/WD~programming_paradigm,188267]]"
-  - "[[_Standards/WikiData/WD~programming_language,9143]]"
-follows: "[[_Standards/WikiData/WD~pseudocode,189224]]"
+  - '[[_Standards/WikiData/WD~programming_paradigm,188267]]'
+  - '[[_Standards/WikiData/WD~programming_language,9143]]'
+follows: '[[_Standards/WikiData/WD~pseudocode,189224]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~skill,205961]]"
-  - "[[_Standards/WikiData/WD~activity,1914636]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~software_development,638608]]"
+  - '[[_Standards/WikiData/WD~skill,205961]]'
+  - '[[_Standards/WikiData/WD~activity,1914636]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~software_development,638608]]'
 part_of:
-  - "[[_Standards/WikiData/WD~software_development,638608]]"
-  - "[[_Standards/WikiData/WD~computer_science,21198]]"
+  - '[[_Standards/WikiData/WD~software_development,638608]]'
+  - '[[_Standards/WikiData/WD~computer_science,21198]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~software_engineer,1709010]]"
-  - "[[_Standards/WikiData/WD~programmer,5482740]]"
+  - '[[_Standards/WikiData/WD~software_engineer,1709010]]'
+  - '[[_Standards/WikiData/WD~programmer,5482740]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~computer_science_term,66747126]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_computer_programming,7112591]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Computer_programming,10729459]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~computer_program,40056]]"
-Merchant_Category_Code: "7372"
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~computer_science_term,66747126]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_computer_programming,7112591]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Computer_programming,10729459]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~computer_program,40056]]'
+Merchant_Category_Code: 7372
 GitHub_topic: programming
 subreddit:
   - programming
   - coding
-OmegaWiki_Defined_Meaning: "879583"
-Classification_of_Instructional_Programs_code: "11.02"
+OmegaWiki_Defined_Meaning: 879583
+Classification_of_Instructional_Programs_code: 11.02
 social_media_followers:
   - 515599
   - 5427662
-Dewey_Decimal_Classification: "005"
+Dewey_Decimal_Classification: 005
 Commons_category: Computer programming
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Programmer%20writing%20code%20with%20Unit%20Tests.jpg
-Universal_Decimal_Classification: "004.42"
+Universal_Decimal_Classification: 004.42
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Live%20Coding%20of%20a%20Simple%20Amazon%20Echo%20%28Alexa%29%20Node.js%20Skill.webm
 WordLift_URL: http://data.thenextweb.com/tnw/entity/computer_programming
 ---

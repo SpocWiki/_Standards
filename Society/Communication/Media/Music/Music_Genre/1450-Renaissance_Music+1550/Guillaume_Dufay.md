@@ -1,53 +1,54 @@
 ---
 aliases:
   - Guillaume_Dufay
-  - "Guillaume Du Fay ( dyoo-FEYE, French: [ɡijom dy fa(j)i]; also Dufay, Du Fayt"
+  - 'Guillaume Du Fay ( dyoo-FEYE, French: [ɡijom dy fa(j)i]; also Dufay, Du Fayt'
+  - Guillaume Dufay
 has_id_wikidata: Q207717
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_France,70972]]"
+country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_France,70972]]'
 genre:
-  - "[[_Standards/WikiData/WD~polyphony,179465]]"
-  - "[[_Standards/WikiData/WD~classical_music,9730]]"
-place_of_death: "[[_Standards/WikiData/WD~Cambrai,181285]]"
+  - '[[_Standards/WikiData/WD~polyphony,179465]]'
+  - '[[_Standards/WikiData/WD~classical_music,9730]]'
+place_of_death: '[[_Standards/WikiData/WD~Cambrai,181285]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~music_theory,193544]]"
-  - "[[_Standards/WikiData/WD~music,638]]"
+  - '[[_Standards/WikiData/WD~music_theory,193544]]'
+  - '[[_Standards/WikiData/WD~music,638]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Nuper_rosarum_flores,589115]]"
-  - "[[_Standards/WikiData/WD~Lamentatio_sanctae_matris_ecclesiae_Constantinopolitanae,6481758]]"
-  - "[[_Standards/WikiData/WD~Missa_Se_la_face_ay_pale,12716904]]"
+  - '[[_Standards/WikiData/WD~Nuper_rosarum_flores,589115]]'
+  - '[[_Standards/WikiData/WD~Lamentatio_sanctae_matris_ecclesiae_Constantinopolitanae,6481758]]'
+  - '[[_Standards/WikiData/WD~Missa_Se_la_face_ay_pale,12716904]]'
   - "[[_Standards/WikiData/WD~Missa_L'Homme_armé,47004528]]"
-  - "[[_Standards/WikiData/WD~Resistera,116268141]]"
-  - "[[_Standards/WikiData/WD~Mon_seul_plaisir,_ma_doulce_joie,116268149]]"
-  - "[[_Standards/WikiData/WD~Belle_vueillés,116268154]]"
-  - "[[_Standards/WikiData/WD~Vostre_bruit_et_vostre_grant_fame,116268155]]"
-  - "[[_Standards/WikiData/WD~Dieu_gard_la_dame_sans_reprise,116268158]]"
-  - "[[_Standards/WikiData/WD~Ne_je_ne_dors_ne_je_ne_veille,116268157]]"
-  - "[[_Standards/WikiData/WD~Vassilissa_Ergo_Gaude,126913404]]"
-  - "[[_Standards/WikiData/WD~Masses,136289961]]"
-  - "[[_Standards/WikiData/WD~Ballades,136289971]]"
-  - "[[_Standards/WikiData/WD~Rondeaux,136289969]]"
-  - "[[_Standards/WikiData/WD~Lyrical_poems,136290202]]"
+  - '[[_Standards/WikiData/WD~Resistera,116268141]]'
+  - '[[_Standards/WikiData/WD~Mon_seul_plaisir,_ma_doulce_joie,116268149]]'
+  - '[[_Standards/WikiData/WD~Belle_vueillés,116268154]]'
+  - '[[_Standards/WikiData/WD~Vostre_bruit_et_vostre_grant_fame,116268155]]'
+  - '[[_Standards/WikiData/WD~Dieu_gard_la_dame_sans_reprise,116268158]]'
+  - '[[_Standards/WikiData/WD~Ne_je_ne_dors_ne_je_ne_veille,116268157]]'
+  - '[[_Standards/WikiData/WD~Vassilissa_Ergo_Gaude,126913404]]'
+  - '[[_Standards/WikiData/WD~Masses,136289961]]'
+  - '[[_Standards/WikiData/WD~Ballades,136289971]]'
+  - '[[_Standards/WikiData/WD~Rondeaux,136289969]]'
+  - '[[_Standards/WikiData/WD~Lyrical_poems,136290202]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]"
+  - '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
 occupation:
-  - "[[_Standards/WikiData/WD~musician,639669]]"
-  - "[[_Standards/WikiData/WD~music_theorist,16031530]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-place_of_birth: "[[_Standards/WikiData/WD~Beersel,692168]]"
-movement: "[[_Standards/WikiData/WD~Burgundian_School,2007658]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-given_name: "[[_Standards/WikiData/WD~Guillaume,18190448]]"
-family_name: "[[_Standards/WikiData/WD~Dufay,47493364]]"
+  - '[[_Standards/WikiData/WD~musician,639669]]'
+  - '[[_Standards/WikiData/WD~music_theorist,16031530]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
+place_of_birth: '[[_Standards/WikiData/WD~Beersel,692168]]'
+movement: '[[_Standards/WikiData/WD~Burgundian_School,2007658]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~Guillaume,18190448]]'
+family_name: '[[_Standards/WikiData/WD~Dufay,47493364]]'
 date_of_death: 1474-11-27T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_category: Guillaume Dufay
 Commons_Creator_page: Guillaume Dufay
 work_period_start_: 1420-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DufayBinchois.jpg
-ISNI: "0000000116923289"
+ISNI: 0000000116923289
 Europeana_entity: agent/base/148474
 Libris_URI: hftwwtm15c8s6tf
 name_in_native_language: Guillaume Dufay

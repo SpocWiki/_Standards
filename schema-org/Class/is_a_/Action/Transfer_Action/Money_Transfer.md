@@ -4,20 +4,22 @@ aliases:
   - money_transfer
   - MoneyTransfer
   - is_a_money_transfer
+  - Money_Transfer
+  - Money Transfer
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - money_transfer
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_money_transfer Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

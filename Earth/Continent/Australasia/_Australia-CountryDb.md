@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _Australia-CountryDb
+  - ' Australia-CountryDb'
 database_plugin: basic
 ---
 

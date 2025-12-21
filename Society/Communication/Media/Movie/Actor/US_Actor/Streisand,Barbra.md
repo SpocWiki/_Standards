@@ -1,9 +1,10 @@
 ---
-has_id_wikidata: Q4636
 aliases:
   - Barbara Joan Streisand
-  - '"Barbra" Streisand' 
+  - '"Barbra" Streisand'
   - Barbra_Streisand
+  - Streisand,Barbra
+has_id_wikidata: Q4636
 ---
 
 # [[Streisand,Barbra]] 

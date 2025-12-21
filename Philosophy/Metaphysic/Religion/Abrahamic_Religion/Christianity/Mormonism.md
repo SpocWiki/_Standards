@@ -1,28 +1,29 @@
 ---
 aliases:
   - Mormonismus
+  - Mormonism
 has_id_wikidata: Q747802
-foundational_text: "[[_Standards/WikiData/WD~Book_of_Mormon,459842]]"
-named_after: "[[_Standards/WikiData/WD~Book_of_Mormon,459842]]"
+foundational_text: '[[_Standards/WikiData/WD~Book_of_Mormon,459842]]'
+named_after: '[[_Standards/WikiData/WD~Book_of_Mormon,459842]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~nontrinitarianism,584205]]"
-  - "[[_Standards/WikiData/WD~Latter_Day_Saint_movement,1097673]]"
-  - "[[_Standards/WikiData/WD~premillennialism,1493080]]"
+  - '[[_Standards/WikiData/WD~nontrinitarianism,584205]]'
+  - '[[_Standards/WikiData/WD~Latter_Day_Saint_movement,1097673]]'
+  - '[[_Standards/WikiData/WD~premillennialism,1493080]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfzehnter_Band,136385610]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfzehnter_Band,136385610]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Latter_Day_Saint_movement,1097673]]"
-  - "[[_Standards/WikiData/WD~The_Church_of_Jesus_Christ_of_Latter_day_Saints,42504]]"
-instance_of: "[[_Standards/WikiData/WD~religious_movement,1826286]]"
+  - '[[_Standards/WikiData/WD~Latter_Day_Saint_movement,1097673]]'
+  - '[[_Standards/WikiData/WD~The_Church_of_Jesus_Christ_of_Latter_day_Saints,42504]]'
+instance_of: '[[_Standards/WikiData/WD~religious_movement,1826286]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Christianity,4587240]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Latter_Day_Saint_movement,15884919]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Mormonism,100512942]]"
-founded_by: "[[_Standards/WikiData/WD~Joseph_Smith,47102]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Christianity,4587240]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Latter_Day_Saint_movement,15884919]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Mormonism,100512942]]'
+founded_by: '[[_Standards/WikiData/WD~Joseph_Smith,47102]]'
 social_media_followers: 52183
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Salt%20Lake%20Temple%2C%20Utah%20-%20Sept%202004-2.jpg
 subreddit: latterdaysaints

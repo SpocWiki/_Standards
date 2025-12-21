@@ -2,31 +2,32 @@
 aliases:
   - Kavallerie
   - cavalerie
+  - Cavalry
 has_id_wikidata: Q47315
 different_from:
-  - "[[_Standards/WikiData/WD~Calvary,170516]]"
-  - "[[_Standards/WikiData/WD~calvary,371752]]"
-  - "[[_Standards/WikiData/WD~cowboy_church,16959217]]"
+  - '[[_Standards/WikiData/WD~Calvary,170516]]'
+  - '[[_Standards/WikiData/WD~calvary,371752]]'
+  - '[[_Standards/WikiData/WD~cowboy_church,16959217]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-subclass_of: "[[_Standards/WikiData/WD~branch_of_service,690109]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+subclass_of: '[[_Standards/WikiData/WD~branch_of_service,690109]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~branch_of_service,690109]]"
-  - "[[_Standards/WikiData/WD~occupation,12737077]]"
-  - "[[_Standards/WikiData/WD~military_organization,15627509]]"
-depicted_by: "[[_Standards/WikiData/WD~Return_of_the_Cavalry,131613890]]"
-part_of: "[[_Standards/WikiData/WD~army,37726]]"
+  - '[[_Standards/WikiData/WD~branch_of_service,690109]]'
+  - '[[_Standards/WikiData/WD~occupation,12737077]]'
+  - '[[_Standards/WikiData/WD~military_organization,15627509]]'
+depicted_by: '[[_Standards/WikiData/WD~Return_of_the_Cavalry,131613890]]'
+part_of: '[[_Standards/WikiData/WD~army,37726]]'
 Library_of_Congress_Classification: UE1-UE500
-OmegaWiki_Defined_Meaning: "983134"
-U_S_National_Archives_Identifier: "10636897"
+OmegaWiki_Defined_Meaning: 983134
+U_S_National_Archives_Identifier: 10636897
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Komar%C3%B3w%201920%20reenactments%20Polish-Bolshevik%20war%20%282%29.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Pferde%20als%20Kriegswaffe.webm
-P8189: "987007284836505171"
+P8189: 987007284836505171
 IMDb_keyword: cavalry
 Commons_category: Cavalry
 Krugosvet_article: voennoe-delo/kavaleriya

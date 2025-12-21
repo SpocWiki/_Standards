@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~BeautySalon
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/BeautySalon
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/BeautySalon
-- is_a_/BeautySalon
-- schema-org/BeautySalon
+  - class/BeautySalon
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/BeautySalon
+  - is_a_/BeautySalon
+  - schema-org/BeautySalon
 tags:
-- class/FileClass
-- class/BeautySalon
-- is_a_/BeautySalon
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/BeautySalon
+  - class/FileClass
+  - class/BeautySalon
+  - is_a_/BeautySalon
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/BeautySalon
 version: 2.0
 ---
 

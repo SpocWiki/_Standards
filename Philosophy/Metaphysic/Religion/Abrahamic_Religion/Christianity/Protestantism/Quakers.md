@@ -1,39 +1,40 @@
 ---
 aliases:
   - Society of Friends
+  - Quakers
 has_id_wikidata: Q170208
 member_of:
-  - "[[_Standards/WikiData/WD~Zentralstelle_für_Recht_und_Schutz_der_Kriegsdienstverweigerer_aus_Gewissensgründen,190808]]"
-  - "[[_Standards/WikiData/WD~Federal_Council_of_Churches,17050140]]"
-founded_by: "[[_Standards/WikiData/WD~George_Fox,310439]]"
+  - '[[_Standards/WikiData/WD~Zentralstelle_für_Recht_und_Schutz_der_Kriegsdienstverweigerer_aus_Gewissensgründen,190808]]'
+  - '[[_Standards/WikiData/WD~Federal_Council_of_Churches,17050140]]'
+founded_by: '[[_Standards/WikiData/WD~George_Fox,310439]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Non_church_movement,487232]]"
-  - "[[_Standards/WikiData/WD~Shakers,1370167]]"
-  - "[[_Standards/WikiData/WD~Society_of_the_Friends_of_the_People,7552703]]"
-  - "[[_Standards/WikiData/WD~Society_of_Universal_Friends,106298640]]"
+  - '[[_Standards/WikiData/WD~Non_church_movement,487232]]'
+  - '[[_Standards/WikiData/WD~Shakers,1370167]]'
+  - '[[_Standards/WikiData/WD~Society_of_the_Friends_of_the_People,7552703]]'
+  - '[[_Standards/WikiData/WD~Society_of_Universal_Friends,106298640]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~Yearly_Meeting,1482264]]"
-archives_at: "[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]"
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~Yearly_Meeting,1482264]]'
+archives_at: '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~worldview,2030462]]"
-  - "[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
-has_part_s_: "[[_Standards/WikiData/WD~Quanglican,119521889]]"
-part_of: "[[_Standards/WikiData/WD~Protestantism,23540]]"
+  - '[[_Standards/WikiData/WD~worldview,2030462]]'
+  - '[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]'
+  - '[[_Standards/WikiData/WD~religion,9174]]'
+has_part_s_: '[[_Standards/WikiData/WD~Quanglican,119521889]]'
+part_of: '[[_Standards/WikiData/WD~Protestantism,23540]]'
 Commons_gallery: Quaker
 Colon_Classification: Q66
-U_S_National_Archives_Identifier: "10640916"
+U_S_National_Archives_Identifier: 10640916
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Quaker%20star-T.svg
-ISNI: "0000000121597932"
+ISNI: 0000000121597932
 Commons_category: Quakerism
 Krugosvet_article_archived_: religiya/kvakery
 inception: 1652-01-01T00:00:00Z

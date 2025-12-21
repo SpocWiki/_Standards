@@ -2,49 +2,50 @@
 aliases:
   - Nepali language
   - नेपाली, Nepālī, [ˈnepali]), historically known as Gorkhali
+  - Nepali
 has_id_wikidata: Q33823
 instance_of:
-  - "[[_Standards/WikiData/WD~macrolanguage,152559]]"
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~language_variety,3329375]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
+  - '[[_Standards/WikiData/WD~macrolanguage,152559]]'
+  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
+  - '[[_Standards/WikiData/WD~language_variety,3329375]]'
+  - '[[_Standards/WikiData/WD~natural_language,33742]]'
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~fusional_language,318917]]"
-  - "[[_Standards/WikiData/WD~subject_object_verb,539808]]"
-  - "[[_Standards/WikiData/WD~syllabic_language,7888569]]"
+  - '[[_Standards/WikiData/WD~fusional_language,318917]]'
+  - '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
+  - '[[_Standards/WikiData/WD~syllabic_language,7888569]]'
 has_grammatical_gender:
-  - "[[_Standards/WikiData/WD~masculine,499327]]"
-  - "[[_Standards/WikiData/WD~feminine,1775415]]"
+  - '[[_Standards/WikiData/WD~masculine,499327]]'
+  - '[[_Standards/WikiData/WD~feminine,1775415]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Northern_Indo_Aryan,946077]]"
-  - "[[_Standards/WikiData/WD~Eastern_Pahari,12593394]]"
-  - "[[_Standards/WikiData/WD~Indo_Aryan,33577]]"
-indigenous_to: "[[_Standards/WikiData/WD~Khas_people,3630408]]"
-language_regulatory_body: "[[_Standards/WikiData/WD~Nepal_Academy,6994322]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Ne_icon,8117186]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25473198,25473198]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~1_National,29051546]]"
+  - '[[_Standards/WikiData/WD~Northern_Indo_Aryan,946077]]'
+  - '[[_Standards/WikiData/WD~Eastern_Pahari,12593394]]'
+  - '[[_Standards/WikiData/WD~Indo_Aryan,33577]]'
+indigenous_to: '[[_Standards/WikiData/WD~Khas_people,3630408]]'
+language_regulatory_body: '[[_Standards/WikiData/WD~Nepal_Academy,6994322]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Ne_icon,8117186]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25473198,25473198]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Nepali,57340276]]"
-  - "[[_Standards/WikiData/WD~Newar,33979]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-part_of: "[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]"
+  - '[[_Standards/WikiData/WD~Nepali,57340276]]'
+  - '[[_Standards/WikiData/WD~Newar,33979]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+part_of: '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]'
 country:
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Myanmar,836]]"
-  - "[[_Standards/WikiData/WD~Nepal,837]]"
-  - "[[_Standards/WikiData/WD~Bhutan,917]]"
+  - '[[_Standards/WikiData/WD~India,668]]'
+  - '[[_Standards/WikiData/WD~Myanmar,836]]'
+  - '[[_Standards/WikiData/WD~Nepal,837]]'
+  - '[[_Standards/WikiData/WD~Bhutan,917]]'
 number_of_speakers_writers_or_signers: 15800000
-writing_system: "[[_Standards/WikiData/WD~Devanagari,38592]]"
-OmegaWiki_Defined_Meaning: "6235"
+writing_system: '[[_Standards/WikiData/WD~Devanagari,38592]]'
+OmegaWiki_Defined_Meaning: 6235
 Ethnologue_com_language_code:
   - nep
   - npi
 WALS_lect_code: nep
 ISO_639_3_code: nep
 ISO_639_2_code: nep
-IAB_code: "1144"
-ABS_ASCL_2011_code: "5206"
+IAB_code: 1144
+ABS_ASCL_2011_code: 5206
 GitHub_topic: nepali
 POSIX_locale_identifier: ne
 Wikimedia_language_code: ne
@@ -58,7 +59,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Nepali%20language.svg
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Nepali%20language%20map.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Nepali%20phrasebook%20banner.jpg
 exact_match: http://publications.europa.eu/resource/authority/language/NEP
-Dewey_Decimal_Classification: "491.495"
+Dewey_Decimal_Classification: 491.495
 Glottolog_code: nepa1254
 Commons_category: Nepali language
 GOST_7_75_97_code: неп 485

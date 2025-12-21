@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Slovakia
+  - Eslovaquia
+  - Slovaquie
+  - سلوفاكيا
+  - 斯洛伐克
+  - Словакия
+  - the Slovak Republic
+  - la República Eslovaca
+has_id_wikidata: Q214
 highest_point: "[[_Standards/WikiData/WD~Gerlachovský_štít,81213]]"
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
@@ -339,7 +349,7 @@ U_S_National_Archives_Identifier: 10045654
 PM20_geo_code: A40f
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Slovakia.svg
 coordinates_of_geographic_center: Point(19.5 48.666667)
-inception: "1993"
+inception: 1993
 has_time_started: 1993-06
 short_name: Slovensko
 image: http://commons.wikimedia.org/wiki/Special:FilePath/000%20Sllovakia%20harta.PNG
@@ -353,7 +363,6 @@ Dewey_Decimal_Classification: 2--4373
 Colon_Classification: SG--59252
 Unicode_character: 🇸🇰
 GitHub_topic: slovakia
-has_id_wikidata: Q214
 location:
   - 48.13
   - 17.1
@@ -370,21 +379,12 @@ cssclasses:
   - Country
 publish: true
 title: Slovakia
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Slovakia
-  - Eslovaquia
-  - Slovaquie
-  - سلوفاكيا
-  - 斯洛伐克
-  - Словакия
-  - the Slovak Republic
-  - la República Eslovaca
+publishDate: ""
+expiryDate: ""
 Languages:
   - sk
   - hu

@@ -1,9 +1,12 @@
 ---
+aliases:
+  - EFTA(European_Free_Trade_Association)
+  - EFTA(European Free Trade Association)
 has_member:
-- '[[../Europe~North/Norway|Norway]]'
-- '[[Switzerland]]'
-- '[[../Europe~North/Iceland|Iceland]]'
-- '[[Liechtenstein]]'
+  - '[[../Europe~North/Norway|Norway]]'
+  - '[[Switzerland]]'
+  - '[[../Europe~North/Iceland|Iceland]]'
+  - '[[Liechtenstein]]'
 ---
 
 #has_/time_/started :: 1960-03-03 

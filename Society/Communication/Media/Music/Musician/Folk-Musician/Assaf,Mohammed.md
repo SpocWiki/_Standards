@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Mohammad Jaber Abdul Rahman Assaf"
-- "Mohammad Assaf"
+  - Mohammad Jaber Abdul Rahman Assaf
+  - Mohammad Assaf
+  - Assaf,Mohammed
 ---
 
 #has_/time_/started :: 1990-09-01 

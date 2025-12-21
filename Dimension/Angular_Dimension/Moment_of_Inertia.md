@@ -7,6 +7,7 @@ aliases:
   - second moment of mass
   - rotational inertia
   - Moment_of_Inertia
+  - Moment of Inertia
 has_id_wikidata: Q165618
 subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"

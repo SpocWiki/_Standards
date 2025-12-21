@@ -1,8 +1,9 @@
 ---
-has_id_wikidata: Q81454
 aliases:
   - angstrom
   - Angström
+  - Ångström
+has_id_wikidata: Q81454
 ---
 
 # [[Ångström]] 

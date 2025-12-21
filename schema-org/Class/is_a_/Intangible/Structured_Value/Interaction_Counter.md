@@ -4,20 +4,22 @@ aliases:
   - interaction_counter
   - InteractionCounter
   - is_an_interaction_counter
+  - Interaction_Counter
+  - Interaction Counter
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - interaction_counter
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_interaction_counter Class
 publish: true
-publishDate:
+publishDate: ''
 supersedes: UserPlusOnes, UserCheckins, UserBlocks, UserLikes, UserDownloads, UserPageVisits, UserComments, UserTweets, UserInteraction, UserPlays
 tags:
   - class/Class

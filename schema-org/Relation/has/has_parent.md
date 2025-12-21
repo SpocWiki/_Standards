@@ -6,22 +6,23 @@ aliases:
   - schema:parent
   - dbo:parent
   - wdt:P40
+  - has parent
 has_id_wikidata: P40
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - parent
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_parent
 publish: true
-publishDate:
+publishDate: ''
 supersedes: parents
 tags:
   - class/Relation

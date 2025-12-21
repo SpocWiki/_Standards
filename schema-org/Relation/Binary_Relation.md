@@ -2,6 +2,8 @@
 aliases:
   - Binäre Relation
   - dyadic relation
+  - Binary_Relation
+  - Binary Relation
 has_id_wikidata: Q130901
 ---
 

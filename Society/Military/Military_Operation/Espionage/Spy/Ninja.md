@@ -7,6 +7,7 @@ aliases:
   - 者 (もの)
   - shinobi
   - 忍 (しの)び"
+  - Ninja
 has_id_wikidata: Q9402
 subclass_of:
   - "[[_Standards/WikiData/WD~mercenary,178197]]"
@@ -31,7 +32,7 @@ Unicode_character: 🥷
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ninja%20The%20Last%20Thing%20You%20See.jpg
 ---
 
-# [[Ninja]] 
+# [[Ninja]] 🥷 
 
 #is_/different_from :: [[../../../Armed_Forces/Soldier/Mercenary/Samurai|Samurai]]  
 #is_/same_as :: [[WD~Ninja,9402]] 

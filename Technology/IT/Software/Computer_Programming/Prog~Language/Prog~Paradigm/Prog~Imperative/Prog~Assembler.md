@@ -1,19 +1,20 @@
 ---
 aliases:
   - 2GL
+  - Prog~Assembler
 has_id_wikidata: Q165436
 subclass_of:
-  - "[[_Standards/WikiData/WD~low_level_programming_language,558937]]"
-  - "[[_Standards/WikiData/WD~non_structured_programming_language,28922854]]"
-programming_paradigm: "[[_Standards/WikiData/WD~non_structured_programming,905156]]"
-derivative_work: "[[_Standards/WikiData/WD~GNU_assembler,1486175]]"
-different_from: "[[_Standards/WikiData/WD~assembler,6470767]]"
+  - '[[_Standards/WikiData/WD~low_level_programming_language,558937]]'
+  - '[[_Standards/WikiData/WD~non_structured_programming_language,28922854]]'
+programming_paradigm: '[[_Standards/WikiData/WD~non_structured_programming,905156]]'
+derivative_work: '[[_Standards/WikiData/WD~GNU_assembler,1486175]]'
+different_from: '[[_Standards/WikiData/WD~assembler,6470767]]'
 ComputerLanguage_com_definition: assembly+language
-instance_of: "[[_Standards/WikiData/WD~programming_language,9143]]"
+instance_of: '[[_Standards/WikiData/WD~programming_language,9143]]'
 file_extension:
   - s
   - asm
-OmegaWiki_Defined_Meaning: "1098682"
+OmegaWiki_Defined_Meaning: 1098682
 GitHub_topic:
   - assembly
   - assembly-language
@@ -24,7 +25,7 @@ inception: 1949-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%206800%20Assembly%20Language.png
 Stack_Exchange_tag: https://stackoverflow.com/tags/assembly
 IEV_number: 171-05-15
-P8189: "987007408650105171"
+P8189: 987007408650105171
 Commons_category: Assembly languages
 ---
 

@@ -4,21 +4,22 @@ aliases:
   - shipping
   - doesNotShip
   - is_shipping
+  - is shipping
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - shipping
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_shipping
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

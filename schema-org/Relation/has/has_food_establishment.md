@@ -3,23 +3,24 @@ aliases:
   - has food-establishment
   - foodEstablishment
   - has_food_establishment
+  - has food establishment
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - food
   - establishment
   - food_establishment
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_food_establishment
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

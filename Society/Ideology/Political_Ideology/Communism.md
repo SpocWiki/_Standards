@@ -1,47 +1,49 @@
 ---
+aliases:
+  - Communism
+has_id_wikidata: Q6186
 Basisklassifikation: 89.15
 Commons_category: Communism
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_ABC_of_Communism,10338664]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Princeton_Encyclopedia_of_American_Political_History,20751032]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836]]"
-  - "[[_Standards/WikiData/WD~Q131703556,131703556]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~The_ABC_of_Communism,10338664]]'
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Princeton_Encyclopedia_of_American_Political_History,20751032]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836]]'
+  - '[[_Standards/WikiData/WD~Q131703556,131703556]]'
+  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 Dewey_Decimal_Classification:
   - 335.43
   - 335.4
   - 320.532
-different_from: "[[_Standards/WikiData/WD~libertarian_communalism,2705134]]"
+different_from: '[[_Standards/WikiData/WD~libertarian_communalism,2705134]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Red%20flag.svg
-has_characteristic: "[[_Standards/WikiData/WD~anti-capitalism,389647]]"
-has_id_wikidata: Q6186
-history_of_topic: "[[_Standards/WikiData/WD~history_of_communism,2583742]]"
+has_characteristic: '[[_Standards/WikiData/WD~anti-capitalism,389647]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_communism,2583742]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Comunismo.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Falce%20e%20martello.svg
 instance_of:
-  - "[[_Standards/WikiData/WD~economic_system,273005]]"
-  - "[[_Standards/WikiData/WD~political_ideology,12909644]]"
+  - '[[_Standards/WikiData/WD~economic_system,273005]]'
+  - '[[_Standards/WikiData/WD~political_ideology,12909644]]'
 MeSH_tree_code: I01.696.232
-official_color: "[[_Standards/WikiData/WD~red,3142]]"
+official_color: '[[_Standards/WikiData/WD~red,3142]]'
 OmegaWiki_Defined_Meaning: 351639
-opposite_of: "[[_Standards/WikiData/WD~anti-communism,182121]]"
+opposite_of: '[[_Standards/WikiData/WD~anti-communism,182121]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5146%20%28por%29-NMaia-comunismo.wav
-subclass_of: "[[_Standards/WikiData/WD~socialism,7272]]"
+subclass_of: '[[_Standards/WikiData/WD~socialism,7272]]'
 subreddit:
   - CommunismMemes
   - communism
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Communism,5880628]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Communism,8419000]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Communism,5880628]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Communism,8419000]]'
 U_S_National_Archives_Identifier: 10639138
 ---
 

@@ -1,8 +1,10 @@
 ---
-has_id_wikidata: Q327092
 aliases:
   - BME
   - medical engineering
+  - Biomedical_Engineering
+  - Biomedical Engineering
+has_id_wikidata: Q327092
 ---
 
 # [[Biomedical_Engineering]] 

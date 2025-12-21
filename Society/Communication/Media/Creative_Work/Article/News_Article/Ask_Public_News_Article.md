@@ -4,20 +4,22 @@ aliases:
   - ask_public_news_article
   - AskPublicNewsArticle
   - is_an_ask_public_news_article
+  - Ask_Public_News_Article
+  - Ask Public News Article
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - ask_public_news_article
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_ask_public_news_article Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

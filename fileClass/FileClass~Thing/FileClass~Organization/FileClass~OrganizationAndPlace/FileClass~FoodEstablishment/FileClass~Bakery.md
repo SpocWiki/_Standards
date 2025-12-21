@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Bakery
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment
 fields: []
 icon: croissant
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Bakery
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Bakery
-- is_a_/Bakery
-- schema-org/Bakery
+  - class/Bakery
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Bakery
+  - is_a_/Bakery
+  - schema-org/Bakery
 tags:
-- class/FileClass
-- class/Bakery
-- is_a_/Bakery
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Bakery
+  - class/FileClass
+  - class/Bakery
+  - is_a_/Bakery
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Bakery
 version: 2.0
 ---
 

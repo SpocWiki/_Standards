@@ -371,12 +371,12 @@ cssclasses:
   - Country
 publish: true
 title: Zambia
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-ZM
   - bem

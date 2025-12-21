@@ -4,21 +4,22 @@ aliases:
   - unlabelled_fallback
   - isUnlabelledFallback
   - is_unlabelled_fallback
+  - is unlabelled fallback
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - unlabelled_fallback
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_unlabelled_fallback
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

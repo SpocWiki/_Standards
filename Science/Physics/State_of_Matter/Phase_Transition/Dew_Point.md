@@ -1,20 +1,22 @@
 ---
 aliases:
   - Taupunkt
+  - Dew_Point
+  - Dew Point
 has_id_wikidata: Q178828
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-  - "[[_Standards/WikiData/WD~thermodynamic_temperature,264647]]"
+  - '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+  - '[[_Standards/WikiData/WD~thermodynamic_temperature,264647]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934]]"
-  - "[[_Standards/WikiData/WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
-approximation_algorithm: "[[_Standards/WikiData/WD~Mangus_formula,118904174]]"
+  - '[[_Standards/WikiData/WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934]]'
+  - '[[_Standards/WikiData/WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+approximation_algorithm: '[[_Standards/WikiData/WD~Mangus_formula,118904174]]'
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">&#x0398;</mi></mrow></mstyle></mrow></math>
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>T</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">d</mi></mrow></mrow></msub></mstyle></mrow></math>
-studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
-recommended_unit_of_measurement: "[[_Standards/WikiData/WD~kelvin,11579]]"
-facet_of: "[[_Standards/WikiData/WD~dew,41097]]"
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~kelvin,11579]]'
+facet_of: '[[_Standards/WikiData/WD~dew,41097]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dew%20on%20spider%20web%20Luc%20Viatour.jpg
 IEV_number: 113-04-67
 Commons_category: Dew point

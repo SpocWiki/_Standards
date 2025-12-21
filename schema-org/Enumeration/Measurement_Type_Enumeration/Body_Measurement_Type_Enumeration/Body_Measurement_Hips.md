@@ -4,21 +4,23 @@ aliases:
   - body_measurement_hips
   - BodyMeasurementHips
   - is_a_body_measurement_hips
+  - Body_Measurement_Hips
+  - Body Measurement Hips
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: BodyMeasurementTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - body_measurement_hips
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_body_measurement_hips Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

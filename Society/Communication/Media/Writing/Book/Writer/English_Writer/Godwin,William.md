@@ -1,6 +1,7 @@
 ---
 aliases:
-- "William Godwin"
+  - William Godwin
+  - Godwin,William
 has_id_wikidata: Q188569
 ---
 

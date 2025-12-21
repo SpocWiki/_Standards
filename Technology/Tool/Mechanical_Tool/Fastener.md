@@ -2,23 +2,24 @@
 aliases:
   - fastening
   - Verbindungstechnik
+  - Fastener
 has_id_wikidata: Q2002016
 subclass_of:
-  - "[[_Standards/WikiData/WD~machine_element,839546]]"
-  - "[[_Standards/WikiData/WD~connector,18819626]]"
-  - "[[_Standards/WikiData/WD~physical_tool,39546]]"
+  - '[[_Standards/WikiData/WD~machine_element,839546]]'
+  - '[[_Standards/WikiData/WD~connector,18819626]]'
+  - '[[_Standards/WikiData/WD~physical_tool,39546]]'
 different_from:
-  - "[[_Standards/WikiData/WD~coupling,944517]]"
-  - "[[_Standards/WikiData/WD~fastening,91783762]]"
+  - '[[_Standards/WikiData/WD~coupling,944517]]'
+  - '[[_Standards/WikiData/WD~fastening,91783762]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~type_of_machine_element,44409287]]"
-  - "[[_Standards/WikiData/WD~type_of_physical_object_by_use,123035442]]"
-has_use: "[[_Standards/WikiData/WD~fastening,91783762]]"
-Nomenclature_for_Museum_Cataloging: "6557"
+  - '[[_Standards/WikiData/WD~type_of_machine_element,44409287]]'
+  - '[[_Standards/WikiData/WD~type_of_physical_object_by_use,123035442]]'
+has_use: '[[_Standards/WikiData/WD~fastening,91783762]]'
+Nomenclature_for_Museum_Cataloging: 6557
 subreddit: fasteners
 Commons_gallery: Fastener
 Commons_category: Fasteners
-U_S_National_Archives_Identifier: "10636685"
+U_S_National_Archives_Identifier: 10636685
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Screws.jpg
 ---
 

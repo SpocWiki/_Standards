@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Project
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Project
-- class/Thing/Organization/Project
-- is_a_/Project
-- schema-org/Project
+  - class/Project
+  - class/Thing/Organization/Project
+  - is_a_/Project
+  - schema-org/Project
 tags:
-- class/FileClass
-- class/Project
-- is_a_/Project
-- class/Thing/Organization/Project
+  - class/FileClass
+  - class/Project
+  - is_a_/Project
+  - class/Thing/Organization/Project
 version: 2.0
 ---
 

@@ -1,23 +1,24 @@
 ---
 aliases:
   - has_application_contact
+  - has application contact
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - application
   - contact
   - applicationContact
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_application_contact
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

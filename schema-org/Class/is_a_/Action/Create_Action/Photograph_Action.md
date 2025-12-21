@@ -4,20 +4,22 @@ aliases:
   - photograph_action
   - PhotographAction
   - is_a_photograph_action
+  - Photograph_Action
+  - Photograph Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - photograph_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_photograph_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

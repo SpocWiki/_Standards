@@ -1,12 +1,15 @@
 ---
+aliases:
+  - Associated_Press
+  - Associated Press
 has_id_wikidata: Q40469
 ISNI:
-  - "0000000110915720"
-  - "0000000094660552"
+  - 0000000110915720
+  - 0000000094660552
 Minitel_code: 3615 APNEWS
-PermID: "4298499928"
+PermID: 4298499928
 Legal_Entity_Identifier: 549300JTLJBPW24WC760
-P8189: "987007257933805171"
+P8189: 987007257933805171
 Instagram_username:
   - ap.images
   - apnews
@@ -16,55 +19,55 @@ Libris_URI: khwzw4f33qzc4s6
 domain_name: apnews.com
 Bluesky_handle: apnews.com
 instance_of:
-  - "[[_Standards/WikiData/WD~nonprofit_organization,163740]]"
-  - "[[_Standards/WikiData/WD~news_agency,192283]]"
-  - "[[_Standards/WikiData/WD~photo_agency,860572]]"
+  - '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
+  - '[[_Standards/WikiData/WD~news_agency,192283]]'
+  - '[[_Standards/WikiData/WD~photo_agency,860572]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
-  - "[[_Standards/WikiData/WD~San_Francisco_Museum_of_Modern_Art,913672]]"
-  - "[[_Standards/WikiData/WD~Het_Scheepvaartmuseum,1616123]]"
-  - "[[_Standards/WikiData/WD~Freedom_Museum,1869397]]"
-  - "[[_Standards/WikiData/WD~Royal_Collections_of_the_Netherlands,50632603]]"
-  - "[[_Standards/WikiData/WD~Resistance_Museum_Friesland,56460664]]"
-  - "[[_Standards/WikiData/WD~New_York_Public_Library_Photography_Collection,105026832]]"
+  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+  - '[[_Standards/WikiData/WD~San_Francisco_Museum_of_Modern_Art,913672]]'
+  - '[[_Standards/WikiData/WD~Het_Scheepvaartmuseum,1616123]]'
+  - '[[_Standards/WikiData/WD~Freedom_Museum,1869397]]'
+  - '[[_Standards/WikiData/WD~Royal_Collections_of_the_Netherlands,50632603]]'
+  - '[[_Standards/WikiData/WD~Resistance_Museum_Friesland,56460664]]'
+  - '[[_Standards/WikiData/WD~New_York_Public_Library_Photography_Collection,105026832]]'
 industry:
-  - "[[_Standards/WikiData/WD~news_media,1193236]]"
-  - "[[_Standards/WikiData/WD~media_industry,56611639]]"
+  - '[[_Standards/WikiData/WD~news_media,1193236]]'
+  - '[[_Standards/WikiData/WD~media_industry,56611639]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Inter_American_Press_Association,1626261]]"
-  - "[[_Standards/WikiData/WD~Virginia_Press_Association,117804432]]"
+  - '[[_Standards/WikiData/WD~Inter_American_Press_Association,1626261]]'
+  - '[[_Standards/WikiData/WD~Virginia_Press_Association,117804432]]'
 child_organization_unit:
-  - "[[_Standards/WikiData/WD~Associated_Press_Television_News,4809226]]"
-  - "[[_Standards/WikiData/WD~Associated_Press_NORC_Center_for_Public_Affairs_Research,114859757]]"
-chairperson: "[[_Standards/WikiData/WD~Gracia_Martore,5591496]]"
-political_alignment: "[[_Standards/WikiData/WD~centrism,6587194]]"
-award_received: "[[_Standards/WikiData/WD~Worth_Bingham_Prize,8037157]]"
+  - '[[_Standards/WikiData/WD~Associated_Press_Television_News,4809226]]'
+  - '[[_Standards/WikiData/WD~Associated_Press_NORC_Center_for_Public_Affairs_Research,114859757]]'
+chairperson: '[[_Standards/WikiData/WD~Gracia_Martore,5591496]]'
+political_alignment: '[[_Standards/WikiData/WD~centrism,6587194]]'
+award_received: '[[_Standards/WikiData/WD~Worth_Bingham_Prize,8037157]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Invision_Agency,16997252]]"
-  - "[[_Standards/WikiData/WD~NewsRight,17144885]]"
-  - "[[_Standards/WikiData/WD~AP_Archive,113378640]]"
+  - '[[_Standards/WikiData/WD~Invision_Agency,16997252]]'
+  - '[[_Standards/WikiData/WD~NewsRight,17144885]]'
+  - '[[_Standards/WikiData/WD~AP_Archive,113378640]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Associated_Press_article,87849013]]"
-  - "[[_Standards/WikiData/WD~Associated_Press_news_dispatch,111239348]]"
-chief_executive_officer: "[[_Standards/WikiData/WD~Daisy_Veerasingham,107956622]]"
+  - '[[_Standards/WikiData/WD~Associated_Press_article,87849013]]'
+  - '[[_Standards/WikiData/WD~Associated_Press_news_dispatch,111239348]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Daisy_Veerasingham,107956622]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~Wikiproject_Oorlogsbronnen,118404701]]"
-  - "[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]"
-  - "[[_Standards/WikiData/WD~Scheepvaartmuseum_Wikidataproject,132231248]]"
-legal_form: "[[_Standards/WikiData/WD~Q130264583,130264583]]"
+  - '[[_Standards/WikiData/WD~Wikiproject_Oorlogsbronnen,118404701]]'
+  - '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
+  - '[[_Standards/WikiData/WD~Scheepvaartmuseum_Wikidataproject,132231248]]'
+legal_form: '[[_Standards/WikiData/WD~Q130264583,130264583]]'
 inception: 1846-05-22T00:00:00Z
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-location_of_formation: "[[_Standards/WikiData/WD~New_York_City,60]]"
-place_of_publication: "[[_Standards/WikiData/WD~New_York_City,60]]"
-headquarters_locations: "[[_Standards/WikiData/WD~New_York_City,60]]"
-occupation: "[[_Standards/WikiData/WD~photographer,33231]]"
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+location_of_formation: '[[_Standards/WikiData/WD~New_York_City,60]]'
+place_of_publication: '[[_Standards/WikiData/WD~New_York_City,60]]'
+headquarters_locations: '[[_Standards/WikiData/WD~New_York_City,60]]'
+occupation: '[[_Standards/WikiData/WD~photographer,33231]]'
 social_media_followers:
   - 3500000
   - 15965268
-product_or_material_produced: "[[_Standards/WikiData/WD~news,38926]]"
+product_or_material_produced: '[[_Standards/WikiData/WD~news,38926]]'
 short_name: AP
 Commons_category: Associated Press
 Commons_Creator_page: Associated Press

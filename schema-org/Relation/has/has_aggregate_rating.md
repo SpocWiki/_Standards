@@ -1,29 +1,30 @@
 ---
 aliases:
-- has_aggregate_rating
-- "schema:aggregateRating"
-- "dbo:rating"
-- "wdt:P4586"
+  - has_aggregate_rating
+  - schema:aggregateRating
+  - dbo:rating
+  - wdt:P4586
+  - has aggregate rating
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- aggregate
-- rating
-- aggregateRating
-layout: 
-license: "CC BY-SA 4.0"
+  - aggregate
+  - rating
+  - aggregateRating
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_aggregate_rating
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_aggregate_rating
 type: Predi_Relation
 ---

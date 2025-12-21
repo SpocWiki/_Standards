@@ -4,23 +4,25 @@ aliases:
   - sub_stage_suffix
   - subStageSuffix
   - has_text_of_sub_stage_suffix
+  - has_sub_stage_suffix
+  - has sub stage suffix
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sub
   - stage
   - suffix
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_sub_stage_suffix
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

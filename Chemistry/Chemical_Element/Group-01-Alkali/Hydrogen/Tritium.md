@@ -2,23 +2,24 @@
 aliases:
   - triton
   - hydrogen-3
+  - Tritium
 has_id_wikidata: Q54389
-follows: "[[_Standards/WikiData/WD~deuterium,102296]]"
-instance_of: "[[_Standards/WikiData/WD~isotope_of_hydrogen,466603]]"
-decays_to: "[[_Standards/WikiData/WD~helium_3,533498]]"
-followed_by: "[[_Standards/WikiData/WD~hydrogen_4,1064956]]"
+follows: '[[_Standards/WikiData/WD~deuterium,102296]]'
+instance_of: '[[_Standards/WikiData/WD~isotope_of_hydrogen,466603]]'
+decays_to: '[[_Standards/WikiData/WD~helium_3,533498]]'
+followed_by: '[[_Standards/WikiData/WD~hydrogen_4,1064956]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~simple_substance,2512777]]"
-  - "[[_Standards/WikiData/WD~hydrogen,556]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
+  - '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+  - '[[_Standards/WikiData/WD~hydrogen,556]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
 mass_excess: 14949.80993
 mass: 3.01604928199
 parity_quantum_number: 1
 atomic_number: 1
 neutron_number: 2
 spin_quantum_number: 0.5
-Gmelin_number: "16"
-OmegaWiki_Defined_Meaning: "3860"
+Gmelin_number: 16
+OmegaWiki_Defined_Meaning: 3860
 half_life: 12.32
 chemical_formula: H
 Commons_category: Tritium
@@ -29,10 +30,10 @@ schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Blausen%200528%20Hydrogen-3%20Tritium.png
   - http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen%203.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gaseous%20tritium%20light%20source.jpg
-canonical_SMILES: "[3H]"
+canonical_SMILES: '[3H]'
 CAS_Registry_Number: 15086-10-9
-Dewey_Decimal_Classification: "546.213"
-P8189: "987007551114805171"
+Dewey_Decimal_Classification: 546.213
+P8189: 987007551114805171
 UMLS_CUI: C0041119
 MeSH_tree_code:
   - D01.268.406.875

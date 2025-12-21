@@ -1,32 +1,33 @@
 ---
 aliases:
   - Gewürz
+  - Spice
 has_id_wikidata: Q42527
 has_use:
-  - "[[_Standards/WikiData/WD~food_preservation,173514]]"
-  - "[[_Standards/WikiData/WD~food_coloring,753009]]"
-  - "[[_Standards/WikiData/WD~seasoning,773108]]"
-  - "[[_Standards/WikiData/WD~flavoring,4173974]]"
+  - '[[_Standards/WikiData/WD~food_preservation,173514]]'
+  - '[[_Standards/WikiData/WD~food_coloring,753009]]'
+  - '[[_Standards/WikiData/WD~seasoning,773108]]'
+  - '[[_Standards/WikiData/WD~flavoring,4173974]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-different_from: "[[_Standards/WikiData/WD~spice,928070]]"
-made_from_material: "[[_Standards/WikiData/WD~aromatic_plant,2247340]]"
-subclass_of: "[[_Standards/WikiData/WD~condiment,2596997]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Herbs_&_spices,10960956]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~food_powder,56274178]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+different_from: '[[_Standards/WikiData/WD~spice,928070]]'
+made_from_material: '[[_Standards/WikiData/WD~aromatic_plant,2247340]]'
+subclass_of: '[[_Standards/WikiData/WD~condiment,2596997]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Herbs_&_spices,10960956]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~food_powder,56274178]]'
 water_footprint:
   - 2.35
   - 7048
-OmegaWiki_Defined_Meaning: "332437"
+OmegaWiki_Defined_Meaning: 332437
 social_media_followers: 239749
 subreddit: spicy
 Commons_gallery: Spice
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Spices1.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AE%E0%A6%B8%E0%A6%B2%E0%A6%BE.wav
-P8189: "987007565809505171"
+P8189: 987007565809505171
 Provenio_UUID: c02667df-1feb-4c93-a692-551ed71b447e
 MeSH_tree_code:
   - G07.203.300.250.725

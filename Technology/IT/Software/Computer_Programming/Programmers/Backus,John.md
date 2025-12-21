@@ -1,7 +1,8 @@
 ---
 aliases:
-- "John Backus"
-- "John Warner Backus"
+  - John Backus
+  - John Warner Backus
+  - Backus,John
 ---
 
 #has_/time_/started :: 1924-12-03 

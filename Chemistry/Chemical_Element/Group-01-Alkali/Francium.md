@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Francium
+has_id_wikidata: Q671
 atomic_number: 87
 canonical_SMILES: '[Fr]'
 CAS_Registry_Number: 7440-73-5
@@ -10,40 +13,39 @@ Dewey_Decimal_Classification: 546.386
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Marguerite_Perey,241822]]'
 DSSTOX_compound_identifier: DTXCID20147885
 electronegativity: 0.7
-electron_configuration: "[Rn] 7s¹"
+electron_configuration: '[Rn] 7s¹'
 element_symbol: Fr
 Gmelin_number: 40458
 has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
-has_id_wikidata: Q671
 InChI: InChI=1S/Fr
 InChIKey: KLMCZVJOEAUDNE-UHFFFAOYSA-N
 instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius: 1.8
 location_of_discovery: '[[_Standards/WikiData/WD~France,142]]'
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fr-TableImage.png"
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Fr-TableImage.png
 MeSH_tree_code:
-- D01.268.271.380
-- D01.268.549.250
-- D01.268.556.277
-- D01.496.749.305.380
-- D01.552.528.328
-- D01.552.544.277
+  - D01.268.271.380
+  - D01.268.549.250
+  - D01.268.556.277
+  - D01.496.749.305.380
+  - D01.552.528.328
+  - D01.552.544.277
 named_after: '[[_Standards/WikiData/WD~France,142]]'
 OmegaWiki_Defined_Meaning: 159016
 oxidation_state: 1
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~group_1,10801007]]'
-- '[[_Standards/WikiData/WD~alkali_metal,19557]]'
-plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20154.jpg"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-francium.wav"
+  - '[[_Standards/WikiData/WD~period_7,244979]]'
+  - '[[_Standards/WikiData/WD~group_1,10801007]]'
+  - '[[_Standards/WikiData/WD~alkali_metal,19557]]'
+plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20154.jpg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-francium.wav
 PubChem_CID: 6328145
-schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20087%20francium.png"
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20087%20francium.png
 SpocWebEntityId: 21982
 subclass_of:
-- '[[_Standards/WikiData/WD~s-block,208106]]'
-- '[[_Standards/WikiData/WD~metal,11426]]'
-- '[[_Standards/WikiData/WD~alkali_metal,19557]]'
+  - '[[_Standards/WikiData/WD~s-block,208106]]'
+  - '[[_Standards/WikiData/WD~metal,11426]]'
+  - '[[_Standards/WikiData/WD~alkali_metal,19557]]'
 time_of_discovery_or_invention: 1939
 type: Element
 UMLS_CUI: C0016678

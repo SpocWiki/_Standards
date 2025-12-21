@@ -6,6 +6,7 @@ aliases:
   - ليبيا
   - 利比亚
   - Ливия
+has_id_wikidata: Q1016
 anthem: "[[_Standards/WikiData/WD~Libya,_Libya,_Libya,45861]]"
 area: 1759541
 Baidu_Tieba_name: 利比亚
@@ -192,7 +193,7 @@ emergency_phone_number:
   - "[[_Standards/WikiData/WD~193,25648835]]"
   - "[[_Standards/WikiData/WD~190,25648833]]"
   - "[[_Standards/WikiData/WD~191,25648876]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 3240076
   - 3283983
@@ -209,7 +210,6 @@ GS1_country_code: 624
 Happy_Planet_Index_score: 42.7
 hashtag: Libya
 has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
-has_id_wikidata: Q1016
 head_of_government: "[[_Standards/WikiData/WD~Abdulhamid_Dbeibeh,105319569]]"
 head_of_state: "[[_Standards/WikiData/WD~Mohamed_al-Menfi,105319610]]"
 highest_point: "[[_Standards/WikiData/WD~Bikku_Bitti,860146]]"
@@ -235,7 +235,7 @@ ISO_3166_1_alpha_3_code: LBY
 ISO_3166_1_numeric_code: 434
 isReadOnly: false
 ITU_letter_code: LBY
-keywords:
+keywords: ""
 Krugosvet_article: strany-mira/liviya
 Languages:
   - ar-LY
@@ -252,14 +252,14 @@ language_used:
   - "[[_Standards/WikiData/WD~Libyan_Arabic,56503]]"
   - "[[_Standards/WikiData/WD~Tamahaq,56703]]"
   - "[[_Standards/WikiData/WD~Ghadamès,56747]]"
-layout:
+layout: ""
 legislative_body:
   - "[[_Standards/WikiData/WD~House_of_Representatives,17443556]]"
   - "[[_Standards/WikiData/WD~High_Council_of_State,22120968]]"
 licence_plate_code: LAR
 license: CC BY-SA 4.0
 life_expectancy: 71.934
-linkTitle:
+linkTitle: ""
 literacy_rate: 86.1
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~North_Africa,27381]]"
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
@@ -329,7 +329,7 @@ PM20_geo_code: C15
 population: 6678567
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Libyen.ogg
 publish: true
-publishDate:
+publishDate: ""
 replaces: "[[_Standards/WikiData/WD~Great_Socialist_People's_Libyan_Arab_Jamahiriya,4843701]]"
 retirement_age: 65
 rural_population:

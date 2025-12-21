@@ -4,20 +4,22 @@ aliases:
   - how_to_tip
   - HowToTip
   - is_a_how_to_tip
+  - How_to_Tip
+  - How to Tip
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - how_to_tip
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_how_to_tip Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

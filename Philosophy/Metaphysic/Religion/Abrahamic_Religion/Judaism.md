@@ -3,6 +3,7 @@ aliases:
   - יַהֲדוּת‎
   - Yahăḏūṯ
   - Jewish
+  - Judaism
 has_id_wikidata: Q9268
 UMLS_CUI: C0022388
 GitHub_topic: judaism
@@ -13,58 +14,58 @@ IPTC_NewsCode: mediatopic/20000679
 vocalized_name: יַהֲדוּת
 OpenStreetMap_tag: religion=jewish
 practiced_by:
-  - "[[_Standards/WikiData/WD~rabbi,133485]]"
-  - "[[_Standards/WikiData/WD~Dayan,3570351]]"
-  - "[[_Standards/WikiData/WD~Jewish_leadership,6190064]]"
+  - '[[_Standards/WikiData/WD~rabbi,133485]]'
+  - '[[_Standards/WikiData/WD~Dayan,3570351]]'
+  - '[[_Standards/WikiData/WD~Jewish_leadership,6190064]]'
 ethnic_group:
-  - "[[_Standards/WikiData/WD~Samaritan,182651]]"
-  - "[[_Standards/WikiData/WD~Jewish_people,7325]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~Jewish_culture,548478]]"
+  - '[[_Standards/WikiData/WD~Samaritan,182651]]'
+  - '[[_Standards/WikiData/WD~Jewish_people,7325]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Jewish_culture,548478]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia.com,48968006]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia.com,48968006]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 foundational_text:
-  - "[[_Standards/WikiData/WD~Hebrew_Bible,732870]]"
-  - "[[_Standards/WikiData/WD~Torah,34990]]"
-  - "[[_Standards/WikiData/WD~Talmud,43290]]"
-history_of_topic: "[[_Standards/WikiData/WD~Jewish_history,961603]]"
+  - '[[_Standards/WikiData/WD~Hebrew_Bible,732870]]'
+  - '[[_Standards/WikiData/WD~Torah,34990]]'
+  - '[[_Standards/WikiData/WD~Talmud,43290]]'
+history_of_topic: '[[_Standards/WikiData/WD~Jewish_history,961603]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~ethnic_religion,1189816]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
-  - "[[_Standards/WikiData/WD~lifestyle,32090]]"
-represented_by: "[[_Standards/WikiData/WD~Jewish_religious_community,1674714]]"
-has_list: "[[_Standards/WikiData/WD~list_of_Jewish_communities_by_country,6575336]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Judaism,7112316]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Giudaismo,7452625]]"
+  - '[[_Standards/WikiData/WD~ethnic_religion,1189816]]'
+  - '[[_Standards/WikiData/WD~religion,9174]]'
+  - '[[_Standards/WikiData/WD~lifestyle,32090]]'
+represented_by: '[[_Standards/WikiData/WD~Jewish_religious_community,1674714]]'
+has_list: '[[_Standards/WikiData/WD~list_of_Jewish_communities_by_country,6575336]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Judaism,7112316]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Giudaismo,7452625]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Judaism,7959316]]"
-  - "[[_Standards/WikiData/WD~Template_Jews_and_Judaism_sidebar,10585494]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Judaism,9083667]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-locations: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Jewish_religion,16867629]]"
+  - '[[_Standards/WikiData/WD~Template_Judaism,7959316]]'
+  - '[[_Standards/WikiData/WD~Template_Jews_and_Judaism_sidebar,10585494]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Judaism,9083667]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+locations: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Jewish_religion,16867629]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~sociology_of_Jewry,17020144]]"
-  - "[[_Standards/WikiData/WD~Jewish_studies,42002]]"
+  - '[[_Standards/WikiData/WD~sociology_of_Jewry,17020144]]'
+  - '[[_Standards/WikiData/WD~Jewish_studies,42002]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~monotheistic_religion,19842652]]"
-  - "[[_Standards/WikiData/WD~Abrahamic_religion,47280]]"
-has_part_s_: "[[_Standards/WikiData/WD~Jewish_movement,130293309]]"
-has_characteristic: "[[_Standards/WikiData/WD~monotheism,9159]]"
-founded_by: "[[_Standards/WikiData/WD~Abraham,9181]]"
-location_of_formation: "[[_Standards/WikiData/WD~Mesopotamia,11767]]"
-named_after: "[[_Standards/WikiData/WD~Kingdom_of_Judah,48685]]"
-Universal_Decimal_Classification: "26"
-Dewey_Decimal_Classification: "296"
-IAB_code: "462"
-OmegaWiki_Defined_Meaning: "405008"
+  - '[[_Standards/WikiData/WD~monotheistic_religion,19842652]]'
+  - '[[_Standards/WikiData/WD~Abrahamic_religion,47280]]'
+has_part_s_: '[[_Standards/WikiData/WD~Jewish_movement,130293309]]'
+has_characteristic: '[[_Standards/WikiData/WD~monotheism,9159]]'
+founded_by: '[[_Standards/WikiData/WD~Abraham,9181]]'
+location_of_formation: '[[_Standards/WikiData/WD~Mesopotamia,11767]]'
+named_after: '[[_Standards/WikiData/WD~Kingdom_of_Judah,48685]]'
+Universal_Decimal_Classification: 26
+Dewey_Decimal_Classification: 296
+IAB_code: 462
+OmegaWiki_Defined_Meaning: 405008
 social_media_followers: 84923
-U_S_National_Archives_Identifier: "10639246"
-Basisklassifikation: "11.20"
+U_S_National_Archives_Identifier: 10639246
+Basisklassifikation: 11.20
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9288%20%28heb%29-YaronSh-%D7%99%D7%94%D7%93%D7%95%D7%AA.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A5%82%20%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE.wav

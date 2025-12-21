@@ -4,21 +4,22 @@ aliases:
   - roof-load
   - roofLoad
   - has_value_for_roof_load_in_kg
+  - has value for roof load in kg
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - roof-load
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_roof-load
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

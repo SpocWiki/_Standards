@@ -3,139 +3,140 @@ aliases:
   - Max_Born
   - Max Born
   - Born
+  - Born,Max
 has_id_wikidata: Q58978
 student:
-  - "[[_Standards/WikiData/WD~Wolfgang_Pauli,65989]]"
-  - "[[_Standards/WikiData/WD~Klaus_Fuchs,57475]]"
+  - '[[_Standards/WikiData/WD~Wolfgang_Pauli,65989]]'
+  - '[[_Standards/WikiData/WD~Klaus_Fuchs,57475]]'
 doctoral_student:
-  - "[[_Standards/WikiData/WD~Otto_Friedrich_Bollnow,67306]]"
-  - "[[_Standards/WikiData/WD~Carl_Hermann,77282]]"
-  - "[[_Standards/WikiData/WD~Siegfried_Flügge,89028]]"
-  - "[[_Standards/WikiData/WD~Robert_Oppenheimer,132537]]"
-  - "[[_Standards/WikiData/WD~Victor_Weisskopf,441154]]"
-  - "[[_Standards/WikiData/WD~Herbert_S._Green,552715]]"
-  - "[[_Standards/WikiData/WD~Maurice_Pryce,1287944]]"
-  - "[[_Standards/WikiData/WD~Klaus_Zweiling,1483261]]"
-  - "[[_Standards/WikiData/WD~Edgar_Krahn,3311473]]"
-  - "[[_Standards/WikiData/WD~Bertha_Swirles,4895522]]"
-  - "[[_Standards/WikiData/WD~Alister_McLellan,17489114]]"
-  - "[[_Standards/WikiData/WD~Paul_Weiss,24204010]]"
-  - "[[_Standards/WikiData/WD~Sheila_Christina_Tinney,27805714]]"
-  - "[[_Standards/WikiData/WD~Andrew_Lees,102169582]]"
-  - "[[_Standards/WikiData/WD~Antonio_Eduardo_Rodríguez,102280057]]"
-  - "[[_Standards/WikiData/WD~Kathleen_Sarginson,103243479]]"
-  - "[[_Standards/WikiData/WD~Maria_Goeppert_Mayer,57100]]"
-  - "[[_Standards/WikiData/WD~Friedrich_Hund,61201]]"
-  - "[[_Standards/WikiData/WD~Pascual_Jordan,61761]]"
+  - '[[_Standards/WikiData/WD~Otto_Friedrich_Bollnow,67306]]'
+  - '[[_Standards/WikiData/WD~Carl_Hermann,77282]]'
+  - '[[_Standards/WikiData/WD~Siegfried_Flügge,89028]]'
+  - '[[_Standards/WikiData/WD~Robert_Oppenheimer,132537]]'
+  - '[[_Standards/WikiData/WD~Victor_Weisskopf,441154]]'
+  - '[[_Standards/WikiData/WD~Herbert_S._Green,552715]]'
+  - '[[_Standards/WikiData/WD~Maurice_Pryce,1287944]]'
+  - '[[_Standards/WikiData/WD~Klaus_Zweiling,1483261]]'
+  - '[[_Standards/WikiData/WD~Edgar_Krahn,3311473]]'
+  - '[[_Standards/WikiData/WD~Bertha_Swirles,4895522]]'
+  - '[[_Standards/WikiData/WD~Alister_McLellan,17489114]]'
+  - '[[_Standards/WikiData/WD~Paul_Weiss,24204010]]'
+  - '[[_Standards/WikiData/WD~Sheila_Christina_Tinney,27805714]]'
+  - '[[_Standards/WikiData/WD~Andrew_Lees,102169582]]'
+  - '[[_Standards/WikiData/WD~Antonio_Eduardo_Rodríguez,102280057]]'
+  - '[[_Standards/WikiData/WD~Kathleen_Sarginson,103243479]]'
+  - '[[_Standards/WikiData/WD~Maria_Goeppert_Mayer,57100]]'
+  - '[[_Standards/WikiData/WD~Friedrich_Hund,61201]]'
+  - '[[_Standards/WikiData/WD~Pascual_Jordan,61761]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Lutheranism,75809]]"
-  - "[[_Standards/WikiData/WD~Judaism,9268]]"
+  - '[[_Standards/WikiData/WD~Lutheranism,75809]]'
+  - '[[_Standards/WikiData/WD~Judaism,9268]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]"
-  - "[[_Standards/WikiData/WD~Royal_Society_of_Edinburgh,117467]]"
-  - "[[_Standards/WikiData/WD~Royal_Society,123885]]"
-  - "[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]"
-  - "[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]"
-  - "[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]"
-  - "[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]"
-  - "[[_Standards/WikiData/WD~Göttingen_Eighteen,569379]]"
-  - "[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]"
-  - "[[_Standards/WikiData/WD~German_Academy_of_Sciences_at_Berlin,49738]]"
-position_held: "[[_Standards/WikiData/WD~professor,121594]]"
+  - '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
+  - '[[_Standards/WikiData/WD~Royal_Society_of_Edinburgh,117467]]'
+  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
+  - '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+  - '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
+  - '[[_Standards/WikiData/WD~Göttingen_Eighteen,569379]]'
+  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]'
+  - '[[_Standards/WikiData/WD~German_Academy_of_Sciences_at_Berlin,49738]]'
+position_held: '[[_Standards/WikiData/WD~professor,121594]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Heidelberg_University,151510]]"
-  - "[[_Standards/WikiData/WD~University_of_Göttingen,152838]]"
-  - "[[_Standards/WikiData/WD~University_of_Zurich,206702]]"
-  - "[[_Standards/WikiData/WD~University_of_Wrocław,315658]]"
-  - "[[_Standards/WikiData/WD~Gonville_and_Caius_College,863940]]"
+  - '[[_Standards/WikiData/WD~Heidelberg_University,151510]]'
+  - '[[_Standards/WikiData/WD~University_of_Göttingen,152838]]'
+  - '[[_Standards/WikiData/WD~University_of_Zurich,206702]]'
+  - '[[_Standards/WikiData/WD~University_of_Wrocław,315658]]'
+  - '[[_Standards/WikiData/WD~Gonville_and_Caius_College,863940]]'
 employer:
-  - "[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]"
-  - "[[_Standards/WikiData/WD~University_of_Göttingen,152838]]"
-  - "[[_Standards/WikiData/WD~University_of_Edinburgh,160302]]"
-  - "[[_Standards/WikiData/WD~Artillery_Testing_Commission,712951]]"
-  - "[[_Standards/WikiData/WD~Goethe_University_Frankfurt,50662]]"
+  - '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
+  - '[[_Standards/WikiData/WD~University_of_Göttingen,152838]]'
+  - '[[_Standards/WikiData/WD~University_of_Edinburgh,160302]]'
+  - '[[_Standards/WikiData/WD~Artillery_Testing_Commission,712951]]'
+  - '[[_Standards/WikiData/WD~Goethe_University_Frankfurt,50662]]'
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~academic,3400985]]"
-  - "[[_Standards/WikiData/WD~non_fiction_writer,15980158]]"
-  - "[[_Standards/WikiData/WD~theoretical_physicist,19350898]]"
-  - "[[_Standards/WikiData/WD~scientist,901]]"
+  - '[[_Standards/WikiData/WD~physicist,169470]]'
+  - '[[_Standards/WikiData/WD~mathematician,170790]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~academic,3400985]]'
+  - '[[_Standards/WikiData/WD~non_fiction_writer,15980158]]'
+  - '[[_Standards/WikiData/WD~theoretical_physicist,19350898]]'
+  - '[[_Standards/WikiData/WD~scientist,901]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-  - "[[_Standards/WikiData/WD~German_Reich,1206012]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+  - '[[_Standards/WikiData/WD~German_Reich,1206012]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 relative:
-  - "[[_Standards/WikiData/WD~Olivia_Newton_John,185165]]"
-  - "[[_Standards/WikiData/WD~Max_Born,3302042]]"
-military_branch: "[[_Standards/WikiData/WD~Imperial_German_Army,313422]]"
+  - '[[_Standards/WikiData/WD~Olivia_Newton_John,185165]]'
+  - '[[_Standards/WikiData/WD~Max_Born,3302042]]'
+military_branch: '[[_Standards/WikiData/WD~Imperial_German_Army,313422]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Max_Planck_Medal,317038]]"
-  - "[[_Standards/WikiData/WD~Hughes_Medal,844872]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society_of_Edinburgh,5438598]]"
-  - "[[_Standards/WikiData/WD~Great_Cross_with_Star_and_Sash_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905171]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]"
-  - "[[_Standards/WikiData/WD~Guthrie_Lecture,61577006]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Bordeaux,93578093]]"
-  - "[[_Standards/WikiData/WD~Makdougall_Brisbane_Prize,94985119]]"
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]"
+  - '[[_Standards/WikiData/WD~Max_Planck_Medal,317038]]'
+  - '[[_Standards/WikiData/WD~Hughes_Medal,844872]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society_of_Edinburgh,5438598]]'
+  - '[[_Standards/WikiData/WD~Great_Cross_with_Star_and_Sash_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905171]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
+  - '[[_Standards/WikiData/WD~Guthrie_Lecture,61577006]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Bordeaux,93578093]]'
+  - '[[_Standards/WikiData/WD~Makdougall_Brisbane_Prize,94985119]]'
+  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
 residence:
-  - "[[_Standards/WikiData/WD~Bad_Pyrmont,556352]]"
-  - "[[_Standards/WikiData/WD~Cambridge,350]]"
-  - "[[_Standards/WikiData/WD~Wrocław,1799]]"
-  - "[[_Standards/WikiData/WD~Göttingen,3033]]"
-  - "[[_Standards/WikiData/WD~Edinburgh,23436]]"
+  - '[[_Standards/WikiData/WD~Bad_Pyrmont,556352]]'
+  - '[[_Standards/WikiData/WD~Cambridge,350]]'
+  - '[[_Standards/WikiData/WD~Wrocław,1799]]'
+  - '[[_Standards/WikiData/WD~Göttingen,3033]]'
+  - '[[_Standards/WikiData/WD~Edinburgh,23436]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Born_Oppenheimer_approximation,633824]]"
-  - "[[_Standards/WikiData/WD~probability_amplitude,653850]]"
-family_name: "[[_Standards/WikiData/WD~Born,893914]]"
+  - '[[_Standards/WikiData/WD~Born_Oppenheimer_approximation,633824]]'
+  - '[[_Standards/WikiData/WD~probability_amplitude,653850]]'
+family_name: '[[_Standards/WikiData/WD~Born,893914]]'
 child:
-  - "[[_Standards/WikiData/WD~Gustav_Victor_Rudolf_Born,1556492]]"
-  - "[[_Standards/WikiData/WD~Irene_Helen_Käthe_Born,107302605]]"
-place_of_burial: "[[_Standards/WikiData/WD~Göttingen_City_Cemetery,2327123]]"
-father: "[[_Standards/WikiData/WD~Gustav_Born,5621157]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~Gustav_Victor_Rudolf_Born,1556492]]'
+  - '[[_Standards/WikiData/WD~Irene_Helen_Käthe_Born,107302605]]'
+place_of_burial: '[[_Standards/WikiData/WD~Göttingen_City_Cemetery,2327123]]'
+father: '[[_Standards/WikiData/WD~Gustav_Born,5621157]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Max,16422172]]"
-  - "[[_Standards/WikiData/WD~Jacob,25999604]]"
+  - '[[_Standards/WikiData/WD~Max,16422172]]'
+  - '[[_Standards/WikiData/WD~Jacob,25999604]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]"
-sibling: "[[_Standards/WikiData/WD~Wolfgang_Born,19754145]]"
-academic_thesis: "[[_Standards/WikiData/WD~Q90398746,90398746]]"
-spouse: "[[_Standards/WikiData/WD~Hedwig_Born,94754953]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
-mother: "[[_Standards/WikiData/WD~Margarethe_Kauffmann,107302611]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Max_Born,135973081]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+sibling: '[[_Standards/WikiData/WD~Wolfgang_Born,19754145]]'
+academic_thesis: '[[_Standards/WikiData/WD~Q90398746,90398746]]'
+spouse: '[[_Standards/WikiData/WD~Hedwig_Born,94754953]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
+mother: '[[_Standards/WikiData/WD~Margarethe_Kauffmann,107302611]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Max_Born,135973081]]'
 date_of_birth: 1882-12-11T00:00:00Z
 field_of_work:
-  - "[[_Standards/WikiData/WD~physics,413]]"
-  - "[[_Standards/WikiData/WD~quantum_mechanics,944]]"
-  - "[[_Standards/WikiData/WD~theoretical_physics,18362]]"
-place_of_birth: "[[_Standards/WikiData/WD~Wrocław,1799]]"
+  - '[[_Standards/WikiData/WD~physics,413]]'
+  - '[[_Standards/WikiData/WD~quantum_mechanics,944]]'
+  - '[[_Standards/WikiData/WD~theoretical_physics,18362]]'
+place_of_birth: '[[_Standards/WikiData/WD~Wrocław,1799]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-work_locations: "[[_Standards/WikiData/WD~Göttingen,3033]]"
-place_of_death: "[[_Standards/WikiData/WD~Göttingen,3033]]"
-ethnic_group: "[[_Standards/WikiData/WD~Jewish_people,7325]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~German,188]]'
+work_locations: '[[_Standards/WikiData/WD~Göttingen,3033]]'
+place_of_death: '[[_Standards/WikiData/WD~Göttingen,3033]]'
+ethnic_group: '[[_Standards/WikiData/WD~Jewish_people,7325]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Libris_URI: 20dgg65l06xg2gg
 BHCL_UUID: 299fcd40-3282-44cd-b0de-671653fa7348
 Google_Doodle: max-borns-135th-birthday
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/BORN_MAKS.html
 Regensburg_Classification: UB 2530
 Erdős_number: 3
-nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]"
-student_of: "[[_Standards/WikiData/WD~J._J._Thomson,47285]]"
-doctoral_advisor: "[[_Standards/WikiData/WD~Carl_David_Tolmé_Runge,57564]]"
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
+student_of: '[[_Standards/WikiData/WD~J._J._Thomson,47285]]'
+doctoral_advisor: '[[_Standards/WikiData/WD~Carl_David_Tolmé_Runge,57564]]'
 date_of_death: 1970-01-05T00:00:00Z
 Commons_gallery: Max Born
 Commons_category: Max Born

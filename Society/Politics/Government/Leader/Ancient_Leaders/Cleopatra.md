@@ -1,90 +1,91 @@
 ---
 aliases:
   - Cleopatra VII Thea Philopator
+  - Cleopatra
 has_id_wikidata: Q635
-cause_of_death: "[[_Standards/WikiData/WD~poisoning,114953]]"
+cause_of_death: '[[_Standards/WikiData/WD~poisoning,114953]]'
 child:
-  - "[[_Standards/WikiData/WD~Ptolemy_Philadelphus,350246]]"
-  - "[[_Standards/WikiData/WD~Alexander_Helios,351538]]"
-  - "[[_Standards/WikiData/WD~Caesarion,39589]]"
-  - "[[_Standards/WikiData/WD~Cleopatra_Selene_II,40058]]"
+  - '[[_Standards/WikiData/WD~Ptolemy_Philadelphus,350246]]'
+  - '[[_Standards/WikiData/WD~Alexander_Helios,351538]]'
+  - '[[_Standards/WikiData/WD~Caesarion,39589]]'
+  - '[[_Standards/WikiData/WD~Cleopatra_Selene_II,40058]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Gnaeus_Pompeius_Magnus,473280]]"
-  - "[[_Standards/WikiData/WD~Q1048,1048]]"
+  - '[[_Standards/WikiData/WD~Gnaeus_Pompeius_Magnus,473280]]'
+  - '[[_Standards/WikiData/WD~Q1048,1048]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~A_Biographical_Dictionary_of_the_Celebrated_Women_of_Every_Age_and_Country,103843006]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~A_Cyclopaedia_of_Female_Biography,114693785]]"
-  - "[[_Standards/WikiData/WD~Africa_An_Encyclopedic_Reference,115653803]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-  - "[[_Standards/WikiData/WD~Natural_History,442]]"
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~A_Biographical_Dictionary_of_the_Celebrated_Women_of_Every_Age_and_Country,103843006]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~A_Cyclopaedia_of_Female_Biography,114693785]]'
+  - '[[_Standards/WikiData/WD~Africa_An_Encyclopedic_Reference,115653803]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+  - '[[_Standards/WikiData/WD~Natural_History,442]]'
 occupation:
-  - "[[_Standards/WikiData/WD~sovereign,2304859]]"
-  - "[[_Standards/WikiData/WD~monarch,116]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Ptolemaic_Kingdom,2320005]]"
-ethnic_group: "[[_Standards/WikiData/WD~Greeks_in_Egypt,2338367]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
+  - '[[_Standards/WikiData/WD~sovereign,2304859]]'
+  - '[[_Standards/WikiData/WD~monarch,116]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Ptolemaic_Kingdom,2320005]]'
+ethnic_group: '[[_Standards/WikiData/WD~Greeks_in_Egypt,2338367]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Cleopatra,12899368]]"
-  - "[[_Standards/WikiData/WD~Cleopatra_bitten_by_the_Asp,52243133]]"
-  - "[[_Standards/WikiData/WD~Cleopatra,113324631]]"
-  - "[[_Standards/WikiData/WD~The_Death_of_Cleopatra,119932958]]"
-  - "[[_Standards/WikiData/WD~Cleopatra_showing_Octavius_the_bust_of_Julius_Caesar,124102335]]"
-  - "[[_Standards/WikiData/WD~Head_portrait_of_Cleopatra_VII,126287927]]"
-  - "[[_Standards/WikiData/WD~Crouching_Aphrodite_as_Cleopatra,131674359]]"
-  - "[[_Standards/WikiData/WD~Head_of_Isis,131704781]]"
+  - '[[_Standards/WikiData/WD~Cleopatra,12899368]]'
+  - '[[_Standards/WikiData/WD~Cleopatra_bitten_by_the_Asp,52243133]]'
+  - '[[_Standards/WikiData/WD~Cleopatra,113324631]]'
+  - '[[_Standards/WikiData/WD~The_Death_of_Cleopatra,119932958]]'
+  - '[[_Standards/WikiData/WD~Cleopatra_showing_Octavius_the_bust_of_Julius_Caesar,124102335]]'
+  - '[[_Standards/WikiData/WD~Head_portrait_of_Cleopatra_VII,126287927]]'
+  - '[[_Standards/WikiData/WD~Crouching_Aphrodite_as_Cleopatra,131674359]]'
+  - '[[_Standards/WikiData/WD~Head_of_Isis,131704781]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Cleopatra_Tryphaena,18244320]]"
-  - "[[_Standards/WikiData/WD~Ptolemy_XIII_Theos_Philopator,39938]]"
-  - "[[_Standards/WikiData/WD~Arsinoe_IV_of_Egypt,40013]]"
-  - "[[_Standards/WikiData/WD~Ptolemy_XIV_of_Egypt,40017]]"
-  - "[[_Standards/WikiData/WD~Berenice_IV_of_Egypt,40022]]"
+  - '[[_Standards/WikiData/WD~Cleopatra_Tryphaena,18244320]]'
+  - '[[_Standards/WikiData/WD~Ptolemy_XIII_Theos_Philopator,39938]]'
+  - '[[_Standards/WikiData/WD~Arsinoe_IV_of_Egypt,40013]]'
+  - '[[_Standards/WikiData/WD~Ptolemy_XIV_of_Egypt,40017]]'
+  - '[[_Standards/WikiData/WD~Berenice_IV_of_Egypt,40022]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Old_Arabic,21661186]]"
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Meroitic,13366]]"
-  - "[[_Standards/WikiData/WD~Parthian,25953]]"
-  - "[[_Standards/WikiData/WD~Aramaic,28602]]"
-  - "[[_Standards/WikiData/WD~Syriac,33538]]"
-  - "[[_Standards/WikiData/WD~Median,36461]]"
-  - "[[_Standards/WikiData/WD~Egyptian,50868]]"
+  - '[[_Standards/WikiData/WD~Old_Arabic,21661186]]'
+  - '[[_Standards/WikiData/WD~Latin,397]]'
+  - '[[_Standards/WikiData/WD~Meroitic,13366]]'
+  - '[[_Standards/WikiData/WD~Parthian,25953]]'
+  - '[[_Standards/WikiData/WD~Aramaic,28602]]'
+  - '[[_Standards/WikiData/WD~Syriac,33538]]'
+  - '[[_Standards/WikiData/WD~Median,36461]]'
+  - '[[_Standards/WikiData/WD~Egyptian,50868]]'
 present_in_work:
-  - "[[_Standards/WikiData/WD~Civilization_VI,24050047]]"
-  - "[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]"
+  - '[[_Standards/WikiData/WD~Civilization_VI,24050047]]'
+  - '[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Three_Beauties_of_the_World,28684594]]"
-  - "[[_Standards/WikiData/WD~Antony_and_Cleopatra,60310502]]"
-patient_of: "[[_Standards/WikiData/WD~Olympus,79329858]]"
-participant_in: "[[_Standards/WikiData/WD~banquet_of_Antony_and_Cleopatra,107305091]]"
-given_name: "[[_Standards/WikiData/WD~Cleopatra,117828429]]"
+  - '[[_Standards/WikiData/WD~Three_Beauties_of_the_World,28684594]]'
+  - '[[_Standards/WikiData/WD~Antony_and_Cleopatra,60310502]]'
+patient_of: '[[_Standards/WikiData/WD~Olympus,79329858]]'
+participant_in: '[[_Standards/WikiData/WD~banquet_of_Antony_and_Cleopatra,107305091]]'
+given_name: '[[_Standards/WikiData/WD~Cleopatra,117828429]]'
 date_of_death: -0029-08-10T00:00:00Z
 date_of_birth: -0068-01-11T00:00:00Z
-manner_of_death: "[[_Standards/WikiData/WD~suicide,10737]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_burial: "[[_Standards/WikiData/WD~Alexandria,87]]"
-place_of_death: "[[_Standards/WikiData/WD~Alexandria,87]]"
-place_of_birth: "[[_Standards/WikiData/WD~Alexandria,87]]"
+manner_of_death: '[[_Standards/WikiData/WD~suicide,10737]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_burial: '[[_Standards/WikiData/WD~Alexandria,87]]'
+place_of_death: '[[_Standards/WikiData/WD~Alexandria,87]]'
+place_of_birth: '[[_Standards/WikiData/WD~Alexandria,87]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Ptolemy_XIII_Theos_Philopator,39938]]"
-  - "[[_Standards/WikiData/WD~Ptolemy_XIV_of_Egypt,40017]]"
-  - "[[_Standards/WikiData/WD~Mark_Antony,51673]]"
-father: "[[_Standards/WikiData/WD~Ptolemy_XII_Auletes,39991]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Cleopatra_VI_of_Egypt,40020]]"
-mother: "[[_Standards/WikiData/WD~Cleopatra_V_of_Egypt,40242]]"
+  - '[[_Standards/WikiData/WD~Ptolemy_XIII_Theos_Philopator,39938]]'
+  - '[[_Standards/WikiData/WD~Ptolemy_XIV_of_Egypt,40017]]'
+  - '[[_Standards/WikiData/WD~Mark_Antony,51673]]'
+father: '[[_Standards/WikiData/WD~Ptolemy_XII_Auletes,39991]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Cleopatra_VI_of_Egypt,40020]]'
+mother: '[[_Standards/WikiData/WD~Cleopatra_V_of_Egypt,40242]]'
 Library_of_Congress_Classification:
   - DT92.7
   - NB165.C55
@@ -92,15 +93,15 @@ Krugosvet_article: istoriya/kleopatra-vii
 IMDb_keyword: reference-to-cleopatra
 name_in_native_language: Κλεοπάτρα Φιλοπάτωρ
 BHCL_UUID: 109f7ba1-6b31-469a-aad5-5c25926f429b
-OmegaWiki_Defined_Meaning: "900202"
+OmegaWiki_Defined_Meaning: 900202
 Commons_category: Cleopatra VII of Egypt
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kleopatra-VII.-Altes-Museum-Berlin1.jpg
 described_at_URL:
   - http://www.oxfordreference.com/view/10.1093/acref/9780195382075.001.0001/acref-9780195382075-e-0466?rskey=rry5UE&result=467
   - https://www.obalkyknih.cz/view_auth?auth_id=jn20000700908
-ISNI: "0000000453049473"
+ISNI: 0000000453049473
 Libris_URI: 1zcffbpk29qdlnl
-P8189: "987007259660905171"
+P8189: 987007259660905171
 ---
 
 # [[Cleopatra]] 

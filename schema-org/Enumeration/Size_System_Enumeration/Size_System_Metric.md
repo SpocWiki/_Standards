@@ -4,21 +4,23 @@ aliases:
   - size_system_metric
   - SizeSystemMetric
   - is_a_size_system_metric
+  - Size_System_Metric
+  - Size System Metric
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: SizeSystemEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - size_system_metric
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_size_system_metric Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,6 +1,8 @@
 ---
 aliases:
   - covalent radius
+  - Covalent_Radius
+  - Covalent Radius
 has_id_wikidata: Q485360
 facet_of: "[[_Standards/WikiData/WD~covalent_bond,127920]]"
 subclass_of:

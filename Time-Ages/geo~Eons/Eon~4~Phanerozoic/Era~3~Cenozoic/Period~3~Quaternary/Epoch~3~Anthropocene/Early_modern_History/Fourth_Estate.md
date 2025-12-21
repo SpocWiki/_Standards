@@ -1,7 +1,9 @@
 ---
 aliases:
-- "fourth power"
-- "fourth estate"
+  - fourth power
+  - fourth estate
+  - Fourth_Estate
+  - Fourth Estate
 ---
 
 ## #has_/text_of_/abstract 

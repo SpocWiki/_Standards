@@ -3,23 +3,24 @@ aliases:
   - has released-event
   - releasedEvent
   - has_released_event
+  - has released event
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - released_event
   - released
   - event
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_released_event
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

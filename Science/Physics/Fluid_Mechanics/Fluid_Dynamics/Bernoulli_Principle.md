@@ -2,60 +2,31 @@
 aliases:
   - Bernoulli's principle
   - Bernoulli's_principle
+  - Bernoulli_Principle
+  - Bernoulli Principle
 has_id_wikidata: Q181328
-named_after: "[[_Standards/WikiData/WD~Daniel_Bernoulli,122366]]"
-part_of: "[[_Standards/WikiData/WD~fluid_mechanics,172145]]"
+named_after: '[[_Standards/WikiData/WD~Daniel_Bernoulli,122366]]'
+part_of: '[[_Standards/WikiData/WD~fluid_mechanics,172145]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~constant,188248]]"
-  - "[[_Standards/WikiData/WD~conservative_force,822938]]"
-  - "[[_Standards/WikiData/WD~speed,3711325]]"
-  - "[[_Standards/WikiData/WD~mass_density,29539]]"
-  - "[[_Standards/WikiData/WD~pressure,39552]]"
-instance_of: "[[_Standards/WikiData/WD~physical_law,214070]]"
+  - '[[_Standards/WikiData/WD~constant,188248]]'
+  - '[[_Standards/WikiData/WD~conservative_force,822938]]'
+  - '[[_Standards/WikiData/WD~speed,3711325]]'
+  - '[[_Standards/WikiData/WD~mass_density,29539]]'
+  - '[[_Standards/WikiData/WD~pressure,39552]]'
+instance_of: '[[_Standards/WikiData/WD~physical_law,214070]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~Magnus_effect,622975]]"
-  - "[[_Standards/WikiData/WD~Venturi_effect,725699]]"
-  - "[[_Standards/WikiData/WD~Pitot_theorem,2310718]]"
-different_from: "[[_Standards/WikiData/WD~Bernoulli_theorem,6141847]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-foundational_text: "[[_Standards/WikiData/WD~Hydrodynamica,16928507]]"
+  - '[[_Standards/WikiData/WD~Magnus_effect,622975]]'
+  - '[[_Standards/WikiData/WD~Venturi_effect,725699]]'
+  - '[[_Standards/WikiData/WD~Pitot_theorem,2310718]]'
+different_from: '[[_Standards/WikiData/WD~Bernoulli_theorem,6141847]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+foundational_text: '[[_Standards/WikiData/WD~Hydrodynamica,16928507]]'
 based_on: "[[_Standards/WikiData/WD~Bernoulli's_equation,25447164]]"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/07.%20%D0%91%D0%B5%D1%80%D0%BD%D1%83%D0%BB%D0%B8%D0%B5%D0%B2%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%20-%20%D0%BF%D1%80%D0%B8%D0%BB%D0%B5%D0%BF%D1%83%D0%B2%D0%B0%D1%9A%D0%B5%20%D1%85%D0%B0%D1%80%D1%82%D0%B8%D1%98%D0%B0%20%D1%81%D0%BE%20%D0%B4%D1%83%D0%B2%D0%B0%D1%9A%D0%B5.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/VenturiFlow.png
 Commons_category: Bernoulli's principle
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "BernoullisPrinciple"]
-defining_formula: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\frac {v^{2}}{2}}+\Psi +{\frac {p}{\rho }}=C}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <mrow class="MJX-TeXAtom-ORD">
-            <mfrac>
-              <msup>
-                <mi>v</mi>
-                <mrow class="MJX-TeXAtom-ORD">
-                  <mn>2</mn>
-                </mrow>
-              </msup>
-              <mn>2</mn>
-            </mfrac>
-          </mrow>
-          <mo>+</mo>
-          <mi mathvariant="normal">&#x03A8;<!-- Ψ --></mi>
-          <mo>+</mo>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mfrac>
-              <mi>p</mi>
-              <mi>&#x03C1;<!-- ρ --></mi>
-            </mfrac>
-          </mrow>
-          <mo>=</mo>
-          <mi>C</mi>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle {\frac {v^{2}}{2}}+\Psi +{\frac {p}{\rho }}=C}</annotation>
-    </semantics>
-  </math>
+defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\frac {v^{2}}{2}}+\\Psi +{\\frac {p}{\\rho }}=C}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <msup>\n              <mi>v</mi>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n            <mn>2</mn>\n          </mfrac>\n        </mrow>\n        <mo>+</mo>\n        <mi mathvariant=\"normal\">&#x03A8;<!-- Ψ --></mi>\n        <mo>+</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mi>p</mi>\n            <mi>&#x03C1;<!-- ρ --></mi>\n          </mfrac>\n        </mrow>\n        <mo>=</mo>\n        <mi>C</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\frac {v^{2}}{2}}+\\Psi +{\\frac {p}{\\rho }}=C}</annotation>\n  </semantics>\n</math>"
 ---
 
 # [[Bernoulli_Principle]] 

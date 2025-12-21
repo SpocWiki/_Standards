@@ -4,22 +4,24 @@ aliases:
   - target_description
   - targetDescription
   - has_text_of_target_description
+  - has_target_description
+  - has target description
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - target
   - description
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_target_description
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

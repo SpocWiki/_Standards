@@ -1,23 +1,25 @@
 ---
 aliases:
   - Functional_analysis
+  - Functional_Analysis
+  - Functional Analysis
 has_id_wikidata: Q190549
 subclass_of:
-  - "[[_Standards/WikiData/WD~pure_mathematics,837863]]"
-  - "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-has_part_s_: "[[_Standards/WikiData/WD~operator_algebra,1892554]]"
+  - '[[_Standards/WikiData/WD~pure_mathematics,837863]]'
+  - '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+has_part_s_: '[[_Standards/WikiData/WD~operator_algebra,1892554]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-  - "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Functional_analysis,20367560]]"
-part_of: "[[_Standards/WikiData/WD~mathematical_analysis,7754]]"
+  - '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+  - '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Functional_analysis,20367560]]'
+part_of: '[[_Standards/WikiData/WD~mathematical_analysis,7754]]'
 Stack_Exchange_tag:
   - https://hsm.stackexchange.com/tags/functional-analysis
   - https://math.stackexchange.com/tags/functional-analysis
   - https://mathoverflow.net/tags/fa.functional-analysis
-ACM_Classification_Code_2012_: "10003736"
-Classification_of_Instructional_Programs_code: "27.0103"
+ACM_Classification_Code_2012_: 10003736
+Classification_of_Instructional_Programs_code: 27.0103
 Commons_category: Functional analysis
 ---
 

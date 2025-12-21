@@ -1,27 +1,29 @@
 ---
 aliases:
   - Steam engine
+  - Steam_Engine
+  - Steam Engine
 has_id_wikidata: Q12760
-subclass_of: "[[_Standards/WikiData/WD~heat_engine,178185]]"
+subclass_of: '[[_Standards/WikiData/WD~heat_engine,178185]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-instance_of: "[[_Standards/WikiData/WD~engineering_term,77330357]]"
-Nomenclature_for_Museum_Cataloging: "8867"
-U_S_National_Archives_Identifier: "10643830"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~engineering_term,77330357]]'
+Nomenclature_for_Museum_Cataloging: 8867
+U_S_National_Archives_Identifier: 10643830
 Dewey_Decimal_Classification:
-  - "621.1"
-  - "621.164"
+  - 621.1
+  - 621.164
 Colon_Classification: D641
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%93%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%81%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0.JPG
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Segeltuchfabrik%20Blancke.%20Jute-%20und%20Leinenweberei%20mit%20Dampfantrieb.webm
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Steam%20Banner.jpg
-UNSPSC_Code: "26101505"
+UNSPSC_Code: 26101505
 Commons_category: Steam engines
 IMDb_keyword: steam-engine
 ---

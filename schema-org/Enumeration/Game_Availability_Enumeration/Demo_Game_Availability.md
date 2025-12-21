@@ -4,21 +4,23 @@ aliases:
   - demo_game_availability
   - DemoGameAvailability
   - is_a_demo_game_availability
+  - Demo_Game_Availability
+  - Demo Game Availability
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: GameAvailabilityEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - demo_game_availability
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_demo_game_availability Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

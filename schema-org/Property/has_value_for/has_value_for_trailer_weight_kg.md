@@ -4,21 +4,22 @@ aliases:
   - trailer-weight
   - trailerWeight
   - has_value_for_trailer_weight_kg
+  - has value for trailer weight kg
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - trailer-weight
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_trailer-weight
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

@@ -4,21 +4,22 @@ aliases:
   - Sachsen
   - Old Saxons
   - Continental Saxons
+  - Saxon
 has_id_wikidata: Q101985
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Res_gestae_saxonicae_sive_annalium_libri_tres,9068196]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~Norsk_Haandlexikon,65528751]]"
-instance_of: "[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Saxons,86662172]]"
-subclass_of: "[[_Standards/WikiData/WD~Q135299875,135299875]]"
-different_from: "[[_Standards/WikiData/WD~Saxony,27505]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Res_gestae_saxonicae_sive_annalium_libri_tres,9068196]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+  - '[[_Standards/WikiData/WD~Norsk_Haandlexikon,65528751]]'
+instance_of: '[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Saxons,86662172]]'
+subclass_of: '[[_Standards/WikiData/WD~Q135299875,135299875]]'
+different_from: '[[_Standards/WikiData/WD~Saxony,27505]]'
 locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Anglo-Saxon%20Homelands%20and%20Settlements.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Anglo-Saxon%20Homelands%20and%20Settlements%20ar.png

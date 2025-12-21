@@ -4,20 +4,22 @@ aliases:
   - property_value
   - PropertyValue
   - is_a_property_value
+  - Property_Value
+  - Property Value
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - property_value
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_property_value Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -4,20 +4,22 @@ aliases:
   - reservation_status_type
   - ReservationStatusType
   - is_a_reservation_status_type
+  - Reservation_Status_Type
+  - Reservation Status Type
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - reservation_status_type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_reservation_status_type Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

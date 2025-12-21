@@ -1,6 +1,7 @@
 ---
 aliases:
   - Drache
+  - Dragon
 has_id_wikidata: Q7559
 has_characteristic: "[[_Standards/WikiData/WD~fire_breathing,136746]]"
 different_from:
@@ -37,7 +38,7 @@ indigenous_to:
   - "[[_Standards/WikiData/WD~Europe,46]]"
   - "[[_Standards/WikiData/WD~Asia,48]]"
 Commons_gallery: Dragon
-OmegaWiki_Defined_Meaning: "463788"
+OmegaWiki_Defined_Meaning: 463788
 Commons_category: Dragons
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich-Johann-Justin-Bertuch%20Mythical-Creature-Dragon%201806.jpg
@@ -51,7 +52,7 @@ Unicode_character:
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Font%20Awesome%205%20solid%20dragon.svg
 ---
 
-# [[Dragon]] 
+# [[Dragon]] 🐉 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Dragon,7559|WD~Dragon,7559]] 
 

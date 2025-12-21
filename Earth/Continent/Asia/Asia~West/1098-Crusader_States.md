@@ -2,19 +2,21 @@
 aliases:
   - Outremer
   - Kreuzfahrerstaaten
+  - 1098-Crusader_States
+  - 1098-Crusader States
 has_id_wikidata: Q190967
 country:
-  - "[[_Standards/WikiData/WD~County_of_Edessa,232806]]"
-  - "[[_Standards/WikiData/WD~Principality_of_Antioch,235030]]"
-  - "[[_Standards/WikiData/WD~County_of_Tripoli,272033]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Jerusalem,55502]]"
+  - '[[_Standards/WikiData/WD~County_of_Edessa,232806]]'
+  - '[[_Standards/WikiData/WD~Principality_of_Antioch,235030]]'
+  - '[[_Standards/WikiData/WD~County_of_Tripoli,272033]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Jerusalem,55502]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~occupied_territory,2577883]]"
-  - "[[_Standards/WikiData/WD~historical_country,3024240]]"
-  - "[[_Standards/WikiData/WD~state,7275]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q14406397,14406397]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+  - '[[_Standards/WikiData/WD~occupied_territory,2577883]]'
+  - '[[_Standards/WikiData/WD~historical_country,3024240]]'
+  - '[[_Standards/WikiData/WD~state,7275]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q14406397,14406397]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Crusader%20States%20in%201135.svg
 Commons_category: Crusader states
 ---

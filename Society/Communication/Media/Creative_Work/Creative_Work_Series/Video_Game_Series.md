@@ -4,20 +4,22 @@ aliases:
   - video_game_series
   - VideoGameSeries
   - is_a_video_game_series
+  - Video_Game_Series
+  - Video Game Series
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - video_game_series
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_video_game_series Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Preschool
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/Preschool
-- class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/Preschool
-- is_a_/Preschool
-- schema-org/Preschool
+  - class/Preschool
+  - class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/Preschool
+  - is_a_/Preschool
+  - schema-org/Preschool
 tags:
-- class/FileClass
-- class/Preschool
-- is_a_/Preschool
-- class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/Preschool
+  - class/FileClass
+  - class/Preschool
+  - is_a_/Preschool
+  - class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/Preschool
 version: 2.0
 ---
 

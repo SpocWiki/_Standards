@@ -1,6 +1,7 @@
 ---
 aliases:
   - Kranich
+  - Zodiac~Grus
 has_id_wikidata: Q10563
 confidential: public
 isDeleted: false
@@ -8,21 +9,21 @@ isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Petrus_Plancius,333534]]"
-part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Stars_of_Grus,14336009]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-named_after: "[[_Standards/WikiData/WD~crane,115696855]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Petrus_Plancius,333534]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Stars_of_Grus,14336009]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+named_after: '[[_Standards/WikiData/WD~crane,115696855]]'
 time_of_discovery_or_invention: 1597-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Sculptor,9286]]"
-  - "[[_Standards/WikiData/WD~Piscis_Austrinus,10409]]"
-  - "[[_Standards/WikiData/WD~Phoenix,10441]]"
-  - "[[_Standards/WikiData/WD~Indus,10450]]"
-  - "[[_Standards/WikiData/WD~Microscopium,10492]]"
-  - "[[_Standards/WikiData/WD~Tucana,10567]]"
-different_from: "[[_Standards/WikiData/WD~Grus,47549]]"
+  - '[[_Standards/WikiData/WD~Sculptor,9286]]'
+  - '[[_Standards/WikiData/WD~Piscis_Austrinus,10409]]'
+  - '[[_Standards/WikiData/WD~Phoenix,10441]]'
+  - '[[_Standards/WikiData/WD~Indus,10450]]'
+  - '[[_Standards/WikiData/WD~Microscopium,10492]]'
+  - '[[_Standards/WikiData/WD~Tucana,10567]]'
+different_from: '[[_Standards/WikiData/WD~Grus,47549]]'
 area: 365.5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Grus.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Grus%20constellation%20map.svg

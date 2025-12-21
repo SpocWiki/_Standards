@@ -1,22 +1,23 @@
 ---
 aliases:
   - Trampolin
+  - Trampoline
 has_id_wikidata: Q327911
 has_use:
-  - "[[_Standards/WikiData/WD~entertainment,173799]]"
-  - "[[_Standards/WikiData/WD~physical_exercise,219067]]"
-sport: "[[_Standards/WikiData/WD~trampoline_gymnastics,465014]]"
+  - '[[_Standards/WikiData/WD~entertainment,173799]]'
+  - '[[_Standards/WikiData/WD~physical_exercise,219067]]'
+sport: '[[_Standards/WikiData/WD~trampoline_gymnastics,465014]]'
 used_by:
-  - "[[_Standards/WikiData/WD~athlete,2066131]]"
-  - "[[_Standards/WikiData/WD~circus_performer,17307272]]"
-  - "[[_Standards/WikiData/WD~astronaut,11631]]"
+  - '[[_Standards/WikiData/WD~athlete,2066131]]'
+  - '[[_Standards/WikiData/WD~circus_performer,17307272]]'
+  - '[[_Standards/WikiData/WD~astronaut,11631]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~gymnastic_apparatus,2827268]]"
-  - "[[_Standards/WikiData/WD~outdoor_playset,7111945]]"
-instance_of: "[[_Standards/WikiData/WD~product_category,63981612]]"
-Nomenclature_for_Museum_Cataloging: "14591"
+  - '[[_Standards/WikiData/WD~gymnastic_apparatus,2827268]]'
+  - '[[_Standards/WikiData/WD~outdoor_playset,7111945]]'
+instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
+Nomenclature_for_Museum_Cataloging: 14591
 IMDb_keyword: trampoline
-OmegaWiki_Defined_Meaning: "916206"
+OmegaWiki_Defined_Meaning: 916206
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Hometrampoline.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Bounce%20%28482878372%29.jpg

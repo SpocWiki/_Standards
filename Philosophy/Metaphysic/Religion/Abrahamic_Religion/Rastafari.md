@@ -1,23 +1,24 @@
 ---
 aliases:
   - Rastafarian
-  - Rasta 
+  - Rasta
   - Rastafarians
-  - Rastas 
+  - Rastas
+  - Rastafari
 has_id_wikidata: Q101462
-part_of: "[[_Standards/WikiData/WD~new_religious_movement,477544]]"
+part_of: '[[_Standards/WikiData/WD~new_religious_movement,477544]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Rastafari,11833809]]"
-  - "[[_Standards/WikiData/WD~Pastafarianism,14397660]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
+  - '[[_Standards/WikiData/WD~Rastafari,11833809]]'
+  - '[[_Standards/WikiData/WD~Pastafarianism,14397660]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Christianity,5043]]"
-  - "[[_Standards/WikiData/WD~Judaism,9268]]"
+  - '[[_Standards/WikiData/WD~Christianity,5043]]'
+  - '[[_Standards/WikiData/WD~Judaism,9268]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~ideology,7257]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
-  - "[[_Standards/WikiData/WD~social_movement,49773]]"
-named_after: "[[_Standards/WikiData/WD~Haile_Selassie_I,41178]]"
+  - '[[_Standards/WikiData/WD~ideology,7257]]'
+  - '[[_Standards/WikiData/WD~religion,9174]]'
+  - '[[_Standards/WikiData/WD~social_movement,49773]]'
+named_after: '[[_Standards/WikiData/WD~Haile_Selassie_I,41178]]'
 hashtag_: Rastafari
 Commons_category: Rastafari
 native_label: Rastafari

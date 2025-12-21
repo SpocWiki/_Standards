@@ -4,131 +4,132 @@ aliases:
   - Mark Rothko
   - Rothko
   - Markus Yakovlevich Rothkowitz
+  - Rothko,Mark
 has_id_wikidata: Q160149
-place_of_birth: "[[_Standards/WikiData/WD~Daugavpils,80021]]"
-genre: "[[_Standards/WikiData/WD~abstract_art,128115]]"
+place_of_birth: '[[_Standards/WikiData/WD~Daugavpils,80021]]'
+genre: '[[_Standards/WikiData/WD~abstract_art,128115]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]"
-  - "[[_Standards/WikiData/WD~Thyssen_Bornemisza_Museum,176251]]"
-  - "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
-  - "[[_Standards/WikiData/WD~Solomon_R._Guggenheim_Museum,201469]]"
-  - "[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]"
-  - "[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]"
-  - "[[_Standards/WikiData/WD~Tate,430682]]"
-  - "[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]"
-  - "[[_Standards/WikiData/WD~Philadelphia_Museum_of_Art,510324]]"
-  - "[[_Standards/WikiData/WD~The_Phillips_Collection,578485]]"
-  - "[[_Standards/WikiData/WD~Whitney_Museum_of_American_Art,639791]]"
-  - "[[_Standards/WikiData/WD~Cleveland_Museum_of_Art,657415]]"
-  - "[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527]]"
-  - "[[_Standards/WikiData/WD~Kunsthaus_Zürich,685038]]"
-  - "[[_Standards/WikiData/WD~Dallas_Museum_of_Art,745866]]"
-  - "[[_Standards/WikiData/WD~Corcoran_Gallery_of_Art,768446]]"
-  - "[[_Standards/WikiData/WD~National_Gallery_of_Australia,795228]]"
-  - "[[_Standards/WikiData/WD~Fogg_Museum,809600]]"
-  - "[[_Standards/WikiData/WD~San_Francisco_Museum_of_Modern_Art,913672]]"
-  - "[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]"
-  - "[[_Standards/WikiData/WD~Carnegie_Museum_of_Art,1043967]]"
-  - "[[_Standards/WikiData/WD~National_Gallery_of_Canada,1068063]]"
-  - "[[_Standards/WikiData/WD~Museum_of_Contemporary_Art,_Los_Angeles,1134646]]"
-  - "[[_Standards/WikiData/WD~Crystal_Bridges_Museum_of_American_Art,1142334]]"
-  - "[[_Standards/WikiData/WD~Smithsonian_American_Art_Museum,1192305]]"
-  - "[[_Standards/WikiData/WD~Detroit_Institute_of_Arts,1201549]]"
-  - "[[_Standards/WikiData/WD~Fine_Arts_Museums_of_San_Francisco,1416890]]"
-  - "[[_Standards/WikiData/WD~National_Gallery_of_Victoria,1464509]]"
-  - "[[_Standards/WikiData/WD~Museum_of_Fine_Arts,_Houston,1565911]]"
-  - "[[_Standards/WikiData/WD~Yale_University_Art_Gallery,1568434]]"
-  - "[[_Standards/WikiData/WD~Los_Angeles_County_Museum_of_Art,1641836]]"
-  - "[[_Standards/WikiData/WD~Toledo_Museum_of_Art,1743116]]"
-  - "[[_Standards/WikiData/WD~Tehran_Museum_of_Contemporary_Art,1756399]]"
-  - "[[_Standards/WikiData/WD~Saint_Louis_Art_Museum,1760539]]"
-  - "[[_Standards/WikiData/WD~Seattle_Art_Museum,1816301]]"
-  - "[[_Standards/WikiData/WD~National_Museum_of_Fine_Arts,1848918]]"
-  - "[[_Standards/WikiData/WD~National_Museum_of_Modern_Art,1895953]]"
-  - "[[_Standards/WikiData/WD~Pennsylvania_Academy_of_the_Fine_Arts,1952033]]"
-  - "[[_Standards/WikiData/WD~Buffalo_AKG_Art_Museum,1970945]]"
-  - "[[_Standards/WikiData/WD~The_Nelson_Atkins_Museum_of_Art,1976985]]"
-  - "[[_Standards/WikiData/WD~Rhode_Island_School_of_Design_Museum,2148186]]"
-  - "[[_Standards/WikiData/WD~Cincinnati_Art_Museum,2970522]]"
-  - "[[_Standards/WikiData/WD~Harvard_Art_Museums,3783572]]"
-  - "[[_Standards/WikiData/WD~Long_Museum,18712414]]"
-  - "[[_Standards/WikiData/WD~Neue_Nationalgalerie,32659772]]"
-  - "[[_Standards/WikiData/WD~Israel_Museum,46815]]"
-  - "[[_Standards/WikiData/WD~Museum_of_Fine_Arts_Boston,49133]]"
-movement: "[[_Standards/WikiData/WD~abstract_expressionism,177725]]"
-employer: "[[_Standards/WikiData/WD~Brooklyn_College,371625]]"
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]'
+  - '[[_Standards/WikiData/WD~Thyssen_Bornemisza_Museum,176251]]'
+  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+  - '[[_Standards/WikiData/WD~Solomon_R._Guggenheim_Museum,201469]]'
+  - '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
+  - '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
+  - '[[_Standards/WikiData/WD~Tate,430682]]'
+  - '[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]'
+  - '[[_Standards/WikiData/WD~Philadelphia_Museum_of_Art,510324]]'
+  - '[[_Standards/WikiData/WD~The_Phillips_Collection,578485]]'
+  - '[[_Standards/WikiData/WD~Whitney_Museum_of_American_Art,639791]]'
+  - '[[_Standards/WikiData/WD~Cleveland_Museum_of_Art,657415]]'
+  - '[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527]]'
+  - '[[_Standards/WikiData/WD~Kunsthaus_Zürich,685038]]'
+  - '[[_Standards/WikiData/WD~Dallas_Museum_of_Art,745866]]'
+  - '[[_Standards/WikiData/WD~Corcoran_Gallery_of_Art,768446]]'
+  - '[[_Standards/WikiData/WD~National_Gallery_of_Australia,795228]]'
+  - '[[_Standards/WikiData/WD~Fogg_Museum,809600]]'
+  - '[[_Standards/WikiData/WD~San_Francisco_Museum_of_Modern_Art,913672]]'
+  - '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
+  - '[[_Standards/WikiData/WD~Carnegie_Museum_of_Art,1043967]]'
+  - '[[_Standards/WikiData/WD~National_Gallery_of_Canada,1068063]]'
+  - '[[_Standards/WikiData/WD~Museum_of_Contemporary_Art,_Los_Angeles,1134646]]'
+  - '[[_Standards/WikiData/WD~Crystal_Bridges_Museum_of_American_Art,1142334]]'
+  - '[[_Standards/WikiData/WD~Smithsonian_American_Art_Museum,1192305]]'
+  - '[[_Standards/WikiData/WD~Detroit_Institute_of_Arts,1201549]]'
+  - '[[_Standards/WikiData/WD~Fine_Arts_Museums_of_San_Francisco,1416890]]'
+  - '[[_Standards/WikiData/WD~National_Gallery_of_Victoria,1464509]]'
+  - '[[_Standards/WikiData/WD~Museum_of_Fine_Arts,_Houston,1565911]]'
+  - '[[_Standards/WikiData/WD~Yale_University_Art_Gallery,1568434]]'
+  - '[[_Standards/WikiData/WD~Los_Angeles_County_Museum_of_Art,1641836]]'
+  - '[[_Standards/WikiData/WD~Toledo_Museum_of_Art,1743116]]'
+  - '[[_Standards/WikiData/WD~Tehran_Museum_of_Contemporary_Art,1756399]]'
+  - '[[_Standards/WikiData/WD~Saint_Louis_Art_Museum,1760539]]'
+  - '[[_Standards/WikiData/WD~Seattle_Art_Museum,1816301]]'
+  - '[[_Standards/WikiData/WD~National_Museum_of_Fine_Arts,1848918]]'
+  - '[[_Standards/WikiData/WD~National_Museum_of_Modern_Art,1895953]]'
+  - '[[_Standards/WikiData/WD~Pennsylvania_Academy_of_the_Fine_Arts,1952033]]'
+  - '[[_Standards/WikiData/WD~Buffalo_AKG_Art_Museum,1970945]]'
+  - '[[_Standards/WikiData/WD~The_Nelson_Atkins_Museum_of_Art,1976985]]'
+  - '[[_Standards/WikiData/WD~Rhode_Island_School_of_Design_Museum,2148186]]'
+  - '[[_Standards/WikiData/WD~Cincinnati_Art_Museum,2970522]]'
+  - '[[_Standards/WikiData/WD~Harvard_Art_Museums,3783572]]'
+  - '[[_Standards/WikiData/WD~Long_Museum,18712414]]'
+  - '[[_Standards/WikiData/WD~Neue_Nationalgalerie,32659772]]'
+  - '[[_Standards/WikiData/WD~Israel_Museum,46815]]'
+  - '[[_Standards/WikiData/WD~Museum_of_Fine_Arts_Boston,49133]]'
+movement: '[[_Standards/WikiData/WD~abstract_expressionism,177725]]'
+employer: '[[_Standards/WikiData/WD~Brooklyn_College,371625]]'
 member_of:
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]'
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
 occupation:
-  - "[[_Standards/WikiData/WD~artist,483501]]"
-  - "[[_Standards/WikiData/WD~painter,1028181]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~draftsperson,15296811]]"
+  - '[[_Standards/WikiData/WD~artist,483501]]'
+  - '[[_Standards/WikiData/WD~painter,1028181]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~draftsperson,15296811]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Art_Students_League_of_New_York,705737]]"
-  - "[[_Standards/WikiData/WD~Lincoln_High_School,6550727]]"
-  - "[[_Standards/WikiData/WD~Yale_University,49112]]"
+  - '[[_Standards/WikiData/WD~Art_Students_League_of_New_York,705737]]'
+  - '[[_Standards/WikiData/WD~Lincoln_High_School,6550727]]'
+  - '[[_Standards/WikiData/WD~Yale_University,49112]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Rothko_Chapel,2956755]]"
-  - "[[_Standards/WikiData/WD~Orange,_Red,_Yellow,3355036]]"
-  - "[[_Standards/WikiData/WD~Orange_and_Yellow,3355073]]"
-  - "[[_Standards/WikiData/WD~No._10,3879341]]"
-  - "[[_Standards/WikiData/WD~No._3,19919860]]"
-  - "[[_Standards/WikiData/WD~No._2,20194008]]"
-  - "[[_Standards/WikiData/WD~No._3,20194017]]"
-  - "[[_Standards/WikiData/WD~No._5,20195051]]"
-  - "[[_Standards/WikiData/WD~No._1,20195601]]"
-  - "[[_Standards/WikiData/WD~No._4,20196105]]"
-  - "[[_Standards/WikiData/WD~No._6_(_),20196136]]"
+  - '[[_Standards/WikiData/WD~Rothko_Chapel,2956755]]'
+  - '[[_Standards/WikiData/WD~Orange,_Red,_Yellow,3355036]]'
+  - '[[_Standards/WikiData/WD~Orange_and_Yellow,3355073]]'
+  - '[[_Standards/WikiData/WD~No._10,3879341]]'
+  - '[[_Standards/WikiData/WD~No._3,19919860]]'
+  - '[[_Standards/WikiData/WD~No._2,20194008]]'
+  - '[[_Standards/WikiData/WD~No._3,20194017]]'
+  - '[[_Standards/WikiData/WD~No._5,20195051]]'
+  - '[[_Standards/WikiData/WD~No._1,20195601]]'
+  - '[[_Standards/WikiData/WD~No._4,20196105]]'
+  - '[[_Standards/WikiData/WD~No._6_(_),20196136]]'
 represented_by:
-  - "[[_Standards/WikiData/WD~Artists_Rights_Society,4801318]]"
-  - "[[_Standards/WikiData/WD~Pace_Gallery,7121900]]"
+  - '[[_Standards/WikiData/WD~Artists_Rights_Society,4801318]]'
+  - '[[_Standards/WikiData/WD~Pace_Gallery,7121900]]'
 artist_files_at:
-  - "[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]"
-  - "[[_Standards/WikiData/WD~National_Gallery_of_Art_Library,64579481]]"
-  - "[[_Standards/WikiData/WD~Philadelphia_Museum_of_Art_Library_and_Archives,89574171]]"
-  - "[[_Standards/WikiData/WD~Smithsonian_American_Art_and_Portrait_Gallery_Library,98665879]]"
-  - "[[_Standards/WikiData/WD~College_for_Creative_Studies_Library,117794751]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-given_name: "[[_Standards/WikiData/WD~Mark,13610143]]"
-student: "[[_Standards/WikiData/WD~Frances_Baldwin,21843022]]"
-described_by_source: "[[_Standards/WikiData/WD~Guggenheim_Collection_Online,22443755]]"
+  - '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
+  - '[[_Standards/WikiData/WD~National_Gallery_of_Art_Library,64579481]]'
+  - '[[_Standards/WikiData/WD~Philadelphia_Museum_of_Art_Library_and_Archives,89574171]]'
+  - '[[_Standards/WikiData/WD~Smithsonian_American_Art_and_Portrait_Gallery_Library,98665879]]'
+  - '[[_Standards/WikiData/WD~College_for_Creative_Studies_Library,117794751]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~Mark,13610143]]'
+student: '[[_Standards/WikiData/WD~Frances_Baldwin,21843022]]'
+described_by_source: '[[_Standards/WikiData/WD~Guggenheim_Collection_Online,22443755]]'
 copyright_representative:
-  - "[[_Standards/WikiData/WD~reproduction_right_represented_by_CISAC_member,71528227]]"
-  - "[[_Standards/WikiData/WD~Kate_Rothko,73279932]]"
-  - "[[_Standards/WikiData/WD~Christopher_Rothko,73687429]]"
+  - '[[_Standards/WikiData/WD~reproduction_right_represented_by_CISAC_member,71528227]]'
+  - '[[_Standards/WikiData/WD~Kate_Rothko,73279932]]'
+  - '[[_Standards/WikiData/WD~Christopher_Rothko,73687429]]'
 child:
-  - "[[_Standards/WikiData/WD~Kate_Rothko,73279932]]"
-  - "[[_Standards/WikiData/WD~Christopher_Rothko,73687429]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-spouse: "[[_Standards/WikiData/WD~Mary_Ellen_Beistle,73687768]]"
-family_name: "[[_Standards/WikiData/WD~Rothko,91366632]]"
+  - '[[_Standards/WikiData/WD~Kate_Rothko,73279932]]'
+  - '[[_Standards/WikiData/WD~Christopher_Rothko,73687429]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+spouse: '[[_Standards/WikiData/WD~Mary_Ellen_Beistle,73687768]]'
+family_name: '[[_Standards/WikiData/WD~Rothko,91366632]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
-  - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Artists_Files,105757729]]"
-place_of_burial: "[[_Standards/WikiData/WD~East_Marion_Cemetery,117660984]]"
+  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Artists_Files,105757729]]'
+place_of_burial: '[[_Standards/WikiData/WD~East_Marion_Cemetery,117660984]]'
 work_location:
-  - "[[_Standards/WikiData/WD~Amsterdam,727]]"
-  - "[[_Standards/WikiData/WD~Portland,6106]]"
-  - "[[_Standards/WikiData/WD~Houston,16555]]"
-  - "[[_Standards/WikiData/WD~San_Francisco,62]]"
-  - "[[_Standards/WikiData/WD~New_York_City,60]]"
-  - "[[_Standards/WikiData/WD~The_Hague,36600]]"
+  - '[[_Standards/WikiData/WD~Amsterdam,727]]'
+  - '[[_Standards/WikiData/WD~Portland,6106]]'
+  - '[[_Standards/WikiData/WD~Houston,16555]]'
+  - '[[_Standards/WikiData/WD~San_Francisco,62]]'
+  - '[[_Standards/WikiData/WD~New_York_City,60]]'
+  - '[[_Standards/WikiData/WD~The_Hague,36600]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~Yiddish,8641]]"
-manner_of_death: "[[_Standards/WikiData/WD~suicide,10737]]"
-place_of_death: "[[_Standards/WikiData/WD~Manhattan,11299]]"
-field_of_work: "[[_Standards/WikiData/WD~art_of_painting,11629]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Russian,7737]]'
+  - '[[_Standards/WikiData/WD~Yiddish,8641]]'
+manner_of_death: '[[_Standards/WikiData/WD~suicide,10737]]'
+place_of_death: '[[_Standards/WikiData/WD~Manhattan,11299]]'
+field_of_work: '[[_Standards/WikiData/WD~art_of_painting,11629]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 date_of_death: 1970-02-25T00:00:00Z
 Commons_category: Mark Rothko
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Consuelo%20Kanaga%2C%20Mark%20Rothko%2C%20Yorktown%20Heights%2C%20ca.%201949.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Rothko%20gravestone.JPG
-ISNI: "0000000122812796"
+ISNI: 0000000122812796
 Libris_URI: 53hklb2p5czqw93
 Europeana_entity: agent/base/61082
 IPI_base_code: I-002926546-9

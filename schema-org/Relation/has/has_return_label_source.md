@@ -3,12 +3,13 @@ aliases:
   - has return-label-source
   - returnLabelSource
   - has_return_label_source
+  - has return label source
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - return
   - label
   - source
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_return_label_source
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

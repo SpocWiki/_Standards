@@ -1,9 +1,11 @@
 ---
 aliases:
   - Überschiebung
+  - Thrust_Fault
+  - Thrust Fault
 has_id_wikidata: Q496325
-subclass_of: "[[_Standards/WikiData/WD~reverse_fault,12146022]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+subclass_of: '[[_Standards/WikiData/WD~reverse_fault,12146022]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thrust%20fault%20Qilian%20Shan.jpg
 Commons_category: Thrust faults
 ---

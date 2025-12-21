@@ -1,11 +1,18 @@
 ---
+aliases:
+  - Botswana
+  - بوتسوانا
+  - 博茨瓦纳
+  - Ботсвана
+  - the Republic of Botswana
+  - la República de Botswana
+has_id_wikidata: Q963
 location:
   - -24.6333
   - 25.9167
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q963
 SpocWebEntityId: 26857
 isDeleted: false
 confidential: public
@@ -16,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Botswana
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Botswana
-  - بوتسوانا
-  - 博茨瓦纳
-  - Ботсвана
-  - the Republic of Botswana
-  - la República de Botswana
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-BW
   - tn-BW
@@ -301,7 +301,7 @@ licence_plate_code: BW
 ISO_3166_1_alpha_2_code: BW
 WIPO_ST_3: BW
 population: 2480244
-inception: "1966"
+inception: 1966
 has_time_started: 1966-06
 IOC_country_code: BOT
 ITU_letter_code: BOT

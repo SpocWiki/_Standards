@@ -1,17 +1,19 @@
 ---
 aliases:
   - Greek fire
+  - Greek_Fire
+  - Greek Fire
 has_id_wikidata: Q179537
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Callinicus_of_Heliopolis,705149]]"
-instance_of: "[[_Standards/WikiData/WD~incendiary_weapon,898389]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Callinicus_of_Heliopolis,705149]]'
+instance_of: '[[_Standards/WikiData/WD~incendiary_weapon,898389]]'
 time_of_discovery_or_invention: 0672-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Greekfire-madridskylitzes1.jpg
 Commons_category: Greek fire

@@ -4,21 +4,23 @@ aliases:
   - toll_free
   - TollFree
   - is_a_toll_free
+  - Toll_Free
+  - Toll Free
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: ContactPointOption
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - toll_free
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_toll_free Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

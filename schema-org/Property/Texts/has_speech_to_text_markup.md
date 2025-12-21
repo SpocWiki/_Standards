@@ -4,12 +4,14 @@ aliases:
   - speech_to_text_markup
   - speechToTextMarkup
   - has_text_of_speech_to_text_markup
+  - has_speech_to_text_markup
+  - has speech to text markup
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +19,11 @@ keywords:
   - to
   - text
   - markup
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_speech_to_text_markup
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

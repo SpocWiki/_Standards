@@ -1,31 +1,32 @@
 ---
 aliases:
-- has_url_for
-- "schema:url"
-- "dbo:wikiPageExternalLink"
-- "wdt:P856"
+  - has_url_for
+  - schema:url
+  - dbo:wikiPageExternalLink
+  - wdt:P856
+  - has url for
 confidential: public
 cssclasses:
-- Predicate
-- Url
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate: ''
 has_Template:
-- Extract~Note~Template
+  - Extract~Note~Template
 has_time_started: 2024-10-27
 isDeleted: false
 isReadOnly: false
 keywords: has_url_for
 lang: en
-layout: 
-license: "CC BY-SA 4.0"
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_url_for
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- has_/url_/for
-- class/Property
-- schema-org/Property/Url
+  - has_/url_/for
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for
 type: Predi_Url
 ---

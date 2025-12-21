@@ -1,24 +1,26 @@
 ---
 aliases:
-  - "Roman Senate (Latin: Senātus Rōmānus"
+  - 'Roman Senate (Latin: Senātus Rōmānus'
+  - Roman_Senate
+  - Roman Senate
 has_id_wikidata: Q130614
 instance_of:
-  - "[[_Standards/WikiData/WD~aristocracy,123432]]"
-  - "[[_Standards/WikiData/WD~senate,2570643]]"
-  - "[[_Standards/WikiData/WD~legislature,11204]]"
+  - '[[_Standards/WikiData/WD~aristocracy,123432]]'
+  - '[[_Standards/WikiData/WD~senate,2570643]]'
+  - '[[_Standards/WikiData/WD~legislature,11204]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Senat,343948]]"
-  - "[[_Standards/WikiData/WD~Senate,1466018]]"
+  - '[[_Standards/WikiData/WD~Senat,343948]]'
+  - '[[_Standards/WikiData/WD~Senate,1466018]]'
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
+  - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
 headquarters_location:
-  - "[[_Standards/WikiData/WD~Curia_Julia,1144514]]"
-  - "[[_Standards/WikiData/WD~Curia_Hostilia,1144512]]"
-  - "[[_Standards/WikiData/WD~Curia_Cornelia,5194731]]"
-has_cause: "[[_Standards/WikiData/WD~ordo_senatorius,1225322]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]"
-has_part_s_: "[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]"
+  - '[[_Standards/WikiData/WD~Curia_Julia,1144514]]'
+  - '[[_Standards/WikiData/WD~Curia_Hostilia,1144512]]'
+  - '[[_Standards/WikiData/WD~Curia_Cornelia,5194731]]'
+has_cause: '[[_Standards/WikiData/WD~ordo_senatorius,1225322]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]'
+has_part_s_: '[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Curia%20Iulia.JPG
 ---
 

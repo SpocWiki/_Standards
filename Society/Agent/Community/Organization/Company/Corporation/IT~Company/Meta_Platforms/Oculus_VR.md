@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Reality Labs"
+  - Reality Labs
+  - Oculus_VR
+  - Oculus VR
 ---
 
 #has_/time_/started :: 2012-06 

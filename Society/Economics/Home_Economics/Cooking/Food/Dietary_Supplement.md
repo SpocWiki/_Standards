@@ -2,17 +2,19 @@
 aliases:
   - dietary supplement
   - Nahrungsergänzung
+  - Dietary_Supplement
+  - Dietary Supplement
 has_id_wikidata: Q645858
 has_use:
-  - "[[_Standards/WikiData/WD~medical_nutrition_therapy,4116495]]"
-  - "[[_Standards/WikiData/WD~diet,26869695]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Dietary_supplement,14445235]]"
+  - '[[_Standards/WikiData/WD~medical_nutrition_therapy,4116495]]'
+  - '[[_Standards/WikiData/WD~diet,26869695]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Dietary_supplement,14445235]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~pharmaceutical_product,28885102]]"
-  - "[[_Standards/WikiData/WD~drug,8386]]"
+  - '[[_Standards/WikiData/WD~pharmaceutical_product,28885102]]'
+  - '[[_Standards/WikiData/WD~drug,8386]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]"
-  - "[[_Standards/WikiData/WD~regulatory_class_of_chemical_substances,133177856]]"
+  - '[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]'
+  - '[[_Standards/WikiData/WD~regulatory_class_of_chemical_substances,133177856]]'
 social_media_followers: 282985
 equivalent_class: https://schema.org/DietarySupplement
 UMLS_CUI:

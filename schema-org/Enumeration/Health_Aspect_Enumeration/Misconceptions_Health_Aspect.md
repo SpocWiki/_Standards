@@ -4,21 +4,23 @@ aliases:
   - misconceptions_health_aspect
   - MisconceptionsHealthAspect
   - is_a_misconceptions_health_aspect
+  - Misconceptions_Health_Aspect
+  - Misconceptions Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - misconceptions_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_misconceptions_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,19 +1,20 @@
 ---
 aliases:
   - Min_Chinese
+  - lang-zh-min
 has_id_wikidata: Q56504
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Coastal_Min,20667215]]"
-  - "[[_Standards/WikiData/WD~Inland_Min,20667237]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828646,22828646]]"
+  - '[[_Standards/WikiData/WD~Coastal_Min,20667215]]'
+  - '[[_Standards/WikiData/WD~Inland_Min,20667237]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828646,22828646]]'
 replaces:
-  - "[[_Standards/WikiData/WD~Minyue,47489306]]"
-  - "[[_Standards/WikiData/WD~Old_Chinese,35137]]"
+  - '[[_Standards/WikiData/WD~Minyue,47489306]]'
+  - '[[_Standards/WikiData/WD~Old_Chinese,35137]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Chinese,7850]]"
-  - "[[_Standards/WikiData/WD~Sinitic,33857]]"
-writing_system: "[[_Standards/WikiData/WD~Chinese_characters,8201]]"
-instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
+  - '[[_Standards/WikiData/WD~Chinese,7850]]'
+  - '[[_Standards/WikiData/WD~Sinitic,33857]]'
+writing_system: '[[_Standards/WikiData/WD~Chinese_characters,8201]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
 Linguist_List_code: minn
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Idioma%20min.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Minyu.png

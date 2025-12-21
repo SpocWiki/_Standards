@@ -2,6 +2,8 @@
 aliases:
   - computer keyboard
   - keyboard
+  - Computer_Keyboard
+  - Computer Keyboard
 has_id_wikidata: Q250
 has_part_s_:
   - "[[_Standards/WikiData/WD~numeric_keypad,199306]]"
@@ -20,9 +22,9 @@ part_of:
   - "[[_Standards/WikiData/WD~terminal,3518405]]"
   - "[[_Standards/WikiData/WD~computer,68]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Keyboard,6369712]]"
-Nomenclature_for_Museum_Cataloging: "10498"
+Nomenclature_for_Museum_Cataloging: 10498
 Commons_gallery: Keyboard
-OmegaWiki_Defined_Meaning: "332801"
+OmegaWiki_Defined_Meaning: 332801
 short_name:
   - клавиатура
   - klaviatūra
@@ -40,7 +42,7 @@ Unicode_character:
 Commons_category: Computer keyboards
 Debian_Wiki_article: fr/Keyboard
 ---
-# [[Computer_Keyboard]] 
+# [[Computer_Keyboard]] 🖮 
 
 #is_/same_as :: [[../../../../WikiData/WD~Computer_keyboard,250|WD~Computer_keyboard,250]] 
 

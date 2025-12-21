@@ -4,21 +4,22 @@ aliases:
   - opens
   - opens
   - is_opening_at
+  - is opening at
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - opens
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_opening_at
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Barclay James Harvest"
+  - Barclay James Harvest
+  - Barclay_James_Harvest
 ---
 
 > **Barclay James Harvest** were an English progressive rock band, 

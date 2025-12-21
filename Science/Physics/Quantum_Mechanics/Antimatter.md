@@ -1,6 +1,7 @@
 ---
 aliases:
   - Antimaterie
+  - Antimatter
 has_id_wikidata: Q83197
 ---
 

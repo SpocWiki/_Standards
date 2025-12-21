@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Restaurant
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment
 fields: []
 icon: utensils-crossed
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Restaurant
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Restaurant
-- is_a_/Restaurant
-- schema-org/Restaurant
+  - class/Restaurant
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Restaurant
+  - is_a_/Restaurant
+  - schema-org/Restaurant
 tags:
-- class/FileClass
-- class/Restaurant
-- is_a_/Restaurant
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Restaurant
+  - class/FileClass
+  - class/Restaurant
+  - is_a_/Restaurant
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Restaurant
 version: 2.0
 ---
 

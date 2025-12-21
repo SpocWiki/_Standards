@@ -1,25 +1,27 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Corporation
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization
 fields:
-- id: Fn0gW0
-  name: TickerSymbol
-  options: {}
-  type: Input
-  path: ''
+  - id: Fn0gW0
+    name: TickerSymbol
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Corporation
-- class/Thing/Organization/Corporation
-- is_a_/Corporation
-- schema-org/Corporation
+  - class/Corporation
+  - class/Thing/Organization/Corporation
+  - is_a_/Corporation
+  - schema-org/Corporation
 tags:
-- class/FileClass
-- class/Corporation
-- is_a_/Corporation
-- class/Thing/Organization/Corporation
+  - class/FileClass
+  - class/Corporation
+  - is_a_/Corporation
+  - class/Thing/Organization/Corporation
 version: 2.0
 ---
 

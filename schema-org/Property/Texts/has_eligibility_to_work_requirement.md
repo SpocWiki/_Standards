@@ -4,12 +4,14 @@ aliases:
   - eligibility_to_work_requirement
   - eligibilityToWorkRequirement
   - has_text_of_eligibility_to_work_requirement
+  - has_eligibility_to_work_requirement
+  - has eligibility to work requirement
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +19,11 @@ keywords:
   - to
   - work
   - requirement
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_eligibility_to_work_requirement
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

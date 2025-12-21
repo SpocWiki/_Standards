@@ -1,6 +1,8 @@
 ---
 aliases:
   - Wasser
+  - Water
+has_id_wikidata: Q283
 Amazon_com_browse_node: 16318651
 Archive_of_Our_Own_tag: Water
 ASHRAE_refrigerant_number: 718
@@ -99,7 +101,6 @@ has_characteristic:
   - "[[_Standards/WikiData/WD~odorlessness,30007162]]"
   - "[[_Standards/WikiData/WD~tastelessness,30100868]]"
 has_effect: "[[_Standards/WikiData/WD~Q57385793,57385793]]"
-has_id_wikidata: Q283
 has_part_s_:
   - "[[_Standards/WikiData/WD~oxygen,629]]"
   - "[[_Standards/WikiData/WD~hydrogen,556]]"
@@ -216,7 +217,7 @@ Wolfram_Language_entity_code: Entity["FoodType", "Water"]
 ZVG_number: 1140
 ---
 
-# [[Water]] 
+# [[Water]] 💧 
 
 #is_/same_as :: [[../../WikiData/WD~Water,283|WD~Water,283]] 
 

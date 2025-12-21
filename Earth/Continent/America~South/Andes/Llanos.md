@@ -1,18 +1,19 @@
 ---
 aliases:
   - Los Llanos
+  - Llanos
 has_id_wikidata: Q141501
-Köppen_climate_classification: "[[_Standards/WikiData/WD~Neotropical_realm,217151]]"
+Köppen_climate_classification: '[[_Standards/WikiData/WD~Neotropical_realm,217151]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-instance_of: "[[_Standards/WikiData/WD~WWF_ecoregion,6617741]]"
-different_from: "[[_Standards/WikiData/WD~Orinoco_Lowlands,11792461]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~WWF_ecoregion,6617741]]'
+different_from: '[[_Standards/WikiData/WD~Orinoco_Lowlands,11792461]]'
 coordinate_location: Point(-67.649277777 6.823111111)
 country:
-  - "[[_Standards/WikiData/WD~Venezuela,717]]"
-  - "[[_Standards/WikiData/WD~Colombia,739]]"
+  - '[[_Standards/WikiData/WD~Venezuela,717]]'
+  - '[[_Standards/WikiData/WD~Colombia,739]]'
 area: 375787
 Commons_category: Llanos
 native_label: Llanos

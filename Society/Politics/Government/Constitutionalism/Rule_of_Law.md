@@ -3,14 +3,16 @@ aliases:
   - no one is above the law
   - all are equal before the law
   - rule of law
+  - Rule_of_Law
+  - Rule of Law
 has_id_wikidata: Q44918
-instance_of: "[[_Standards/WikiData/WD~legal_doctrine,1192543]]"
+instance_of: '[[_Standards/WikiData/WD~legal_doctrine,1192543]]'
 different_from:
-  - "[[_Standards/WikiData/WD~rule_of_law,7378937]]"
-  - "[[_Standards/WikiData/WD~party_state_constitutionalism,11143392]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q28468052,28468052]]"
-relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiData/WD~Target_16.3_of_the_Sustainable_Development_Goals,57590922]]"
+  - '[[_Standards/WikiData/WD~rule_of_law,7378937]]'
+  - '[[_Standards/WikiData/WD~party_state_constitutionalism,11143392]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q28468052,28468052]]'
+relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_16.3_of_the_Sustainable_Development_Goals,57590922]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20mosaic%20%22LAW%22%20by%20Frederick%20Dielman%2C%201847-1935.JPG
 ---
 

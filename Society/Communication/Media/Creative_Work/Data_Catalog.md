@@ -4,21 +4,23 @@ aliases:
   - data_catalog
   - DataCatalog
   - is_a_data_catalog
+  - Data_Catalog
+  - Data Catalog
 confidential: public
 cssclasses:
   - Type
 draft: false
 equivalent_class: http://www.w3.org/ns/dcat#Catalog
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - data_catalog
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_data_catalog Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

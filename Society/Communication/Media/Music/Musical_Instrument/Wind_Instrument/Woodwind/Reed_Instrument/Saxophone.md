@@ -1,6 +1,7 @@
 ---
 aliases:
   - Saxophon
+  - Saxophone
 has_id_wikidata: Q9798
 subclass_of:
   - "[[_Standards/WikiData/WD~woodwind_instrument,181247]]"
@@ -19,12 +20,12 @@ award_received: "[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]"
 instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
 inception: 1840-01-01T00:00:00Z
 country_of_origin: "[[_Standards/WikiData/WD~Belgium,31]]"
-Nomenclature_for_Museum_Cataloging: "10855"
-OmegaWiki_Defined_Meaning: "344788"
+Nomenclature_for_Museum_Cataloging: 10855
+OmegaWiki_Defined_Meaning: 344788
 Amazon_com_browse_node:
-  - "11969771"
-  - "11969901"
-  - "11972111"
+  - 11969771
+  - 11969901
+  - 11972111
 Hornbostel_Sachs_classification: 422.212-71
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sax%20range.svg
 Commons_gallery: Saxophone
@@ -32,12 +33,12 @@ Iconclass_notation: 48C73521
 Commons_category: Saxophones
 Unicode_character: 🎷
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20Saxophone.jpg
-UNSPSC_Code: "60131104"
+UNSPSC_Code: 60131104
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/SAKSOFON.html
 Baidu_Tieba_name: 萨克斯
 ---
 
-# [[Saxophone]] 
+# [[Saxophone]] 🎷 
 
 #is_/same_as :: [[WD~Saxophone,9798]] 
 

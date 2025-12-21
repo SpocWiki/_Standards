@@ -1,25 +1,26 @@
 ---
 aliases:
   - climatic
+  - Climate
+has_id_wikidata: Q7937
 Colon_Classification: U287
 Commons_category: Climate
 described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-different_from: "[[_Standards/WikiData/WD~weather,11663]]"
+  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+different_from: '[[_Standards/WikiData/WD~weather,11663]]'
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001082
-has_id_wikidata: Q7937
-has_part_s_: "[[_Standards/WikiData/WD~climate_zone,1639168]]"
+has_part_s_: '[[_Standards/WikiData/WD~climate_zone,1639168]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%B6ppen-Geiger%20Climate%20Classification%20Map%20%281980%E2%80%932016%29%20no%20borders.png
-instance_of: "[[_Standards/WikiData/WD~natural_environment,43619]]"
+instance_of: '[[_Standards/WikiData/WD~natural_environment,43619]]'
 Krugosvet_article:
   - fizika/pogoda-i-klimat-zemli
   - Earth_sciences/geografiya/KLIMAT.html
@@ -29,18 +30,18 @@ MeSH_tree_code:
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/ClimateBackgroundfinal.png
 OmegaWiki_Defined_Meaning: 604
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-part_of: "[[_Standards/WikiData/WD~natural_environment,43619]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+part_of: '[[_Standards/WikiData/WD~natural_environment,43619]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Climate-Morrisjm-18May2023.ogg
 studied_by:
-  - "[[_Standards/WikiData/WD~meteorology,25261]]"
-  - "[[_Standards/WikiData/WD~climatology,52139]]"
+  - '[[_Standards/WikiData/WD~meteorology,25261]]'
+  - '[[_Standards/WikiData/WD~climatology,52139]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
-  - "[[_Standards/WikiData/WD~natural_system,106865236]]"
+  - '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
+  - '[[_Standards/WikiData/WD~natural_system,106865236]]'
 subject_named_as: Klima
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_climate,19803085]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_climate,19803085]]'
 UMLS_CUI: C0008946
 U_S_National_Archives_Identifier: 10640493
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Die%20wichtigsten%20Klimafaktoren%20%28ZDF%2C%20Terra%20X%29%20720p%2050FPS.webm

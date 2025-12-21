@@ -1,33 +1,34 @@
 ---
 aliases:
   - Belagerung
+  - Siege
 has_id_wikidata: Q188055
 different_from:
-  - "[[_Standards/WikiData/WD~lockout,159377]]"
-  - "[[_Standards/WikiData/WD~blockade,273976]]"
+  - '[[_Standards/WikiData/WD~lockout,159377]]'
+  - '[[_Standards/WikiData/WD~blockade,273976]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~military_tactics,207645]]"
-  - "[[_Standards/WikiData/WD~type_of_conflict,125092269]]"
+  - '[[_Standards/WikiData/WD~military_tactics,207645]]'
+  - '[[_Standards/WikiData/WD~type_of_conflict,125092269]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~blockade,273976]]"
-  - "[[_Standards/WikiData/WD~armed_conflict,350604]]"
-  - "[[_Standards/WikiData/WD~military_operation,645883]]"
+  - '[[_Standards/WikiData/WD~blockade,273976]]'
+  - '[[_Standards/WikiData/WD~armed_conflict,350604]]'
+  - '[[_Standards/WikiData/WD~military_operation,645883]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
   - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-studied_by: "[[_Standards/WikiData/WD~Poliorcetica,1682379]]"
-history_of_topic: "[[_Standards/WikiData/WD~History_of_the_siege,13030566]]"
-depicted_by: "[[_Standards/WikiData/WD~Capture_of_Castle,131613832]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+studied_by: '[[_Standards/WikiData/WD~Poliorcetica,1682379]]'
+history_of_topic: '[[_Standards/WikiData/WD~History_of_the_siege,13030566]]'
+depicted_by: '[[_Standards/WikiData/WD~Capture_of_Castle,131613832]]'
 Wikidata_property: participated in conflict
-part_of: "[[_Standards/WikiData/WD~war,198]]"
-OmegaWiki_Defined_Meaning: "8214"
-U_S_National_Archives_Identifier: "10641906"
+part_of: '[[_Standards/WikiData/WD~war,198]]'
+OmegaWiki_Defined_Meaning: 8214
+U_S_National_Archives_Identifier: 10641906
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20orleans.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Siege%28part1of2%29.ogg
 route_map: http://commons.wikimedia.org/wiki/Special:FilePath/Smerwick.1580.jpg

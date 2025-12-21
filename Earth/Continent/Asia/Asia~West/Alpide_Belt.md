@@ -1,9 +1,11 @@
 ---
-has_id_wikidata: Q847514
 aliases:
   - Alpine-Himalayan orogenic belt
   - Alpide belt
   - Tethyan orogenic belt
+  - Alpide_Belt
+  - Alpide Belt
+has_id_wikidata: Q847514
 ---
 
 # [[Alpide_Belt]] 

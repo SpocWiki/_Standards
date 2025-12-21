@@ -1,17 +1,19 @@
 ---
 aliases:
   - Stummfilm
+  - Silent_Film
+  - Silent Film
 has_id_wikidata: Q226730
 instance_of:
-  - "[[_Standards/WikiData/WD~film_genre,201658]]"
-  - "[[_Standards/WikiData/WD~cinematic_technique,1001378]]"
-  - "[[_Standards/WikiData/WD~type_of_cinematic_work,110900120]]"
-has_characteristic: "[[_Standards/WikiData/WD~silence,502261]]"
-opposite_of: "[[_Standards/WikiData/WD~sound_film,848512]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Silent_film,24251279]]"
-archives_at: "[[_Standards/WikiData/WD~Library_of_Congress_Music_Division,98608837]]"
-subclass_of: "[[_Standards/WikiData/WD~film,11424]]"
-OmegaWiki_Defined_Meaning: "1285961"
+  - '[[_Standards/WikiData/WD~film_genre,201658]]'
+  - '[[_Standards/WikiData/WD~cinematic_technique,1001378]]'
+  - '[[_Standards/WikiData/WD~type_of_cinematic_work,110900120]]'
+has_characteristic: '[[_Standards/WikiData/WD~silence,502261]]'
+opposite_of: '[[_Standards/WikiData/WD~sound_film,848512]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Silent_film,24251279]]'
+archives_at: '[[_Standards/WikiData/WD~Library_of_Congress_Music_Division,98608837]]'
+subclass_of: '[[_Standards/WikiData/WD~film,11424]]'
+OmegaWiki_Defined_Meaning: 1285961
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gish%20and%20Barthelmess%20Broken%20Blossoms.jpg
 Commons_category: Silent film
 ---

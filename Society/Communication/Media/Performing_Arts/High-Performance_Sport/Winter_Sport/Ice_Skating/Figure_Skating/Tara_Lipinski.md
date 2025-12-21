@@ -1,31 +1,32 @@
 ---
 aliases:
   - Tara_Lipinski
+  - Tara Lipinski
 has_id_wikidata: Q232999
-partner_in_business_or_sport: "[[_Standards/WikiData/WD~Sandra_Bezic,438545]]"
+partner_in_business_or_sport: '[[_Standards/WikiData/WD~Sandra_Bezic,438545]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Tara,1611595]]"
-  - "[[_Standards/WikiData/WD~Kristin,3482601]]"
+  - '[[_Standards/WikiData/WD~Tara,1611595]]'
+  - '[[_Standards/WikiData/WD~Kristin,3482601]]'
 occupation:
-  - "[[_Standards/WikiData/WD~sports_commentator,2986228]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~figure_skater,13219587]]"
+  - '[[_Standards/WikiData/WD~sports_commentator,2986228]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~figure_skater,13219587]]'
 sports_discipline_competed_in: "[[_Standards/WikiData/WD~ladies'_singles,4179462]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-trained_by: "[[_Standards/WikiData/WD~Richard_Callaghan,7324594]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Figure_Skating,15304993]]"
-eye_color: "[[_Standards/WikiData/WD~green,17122854]]"
-family_name: "[[_Standards/WikiData/WD~Lipinski,37268074]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Polish,809]]"
-place_of_birth: "[[_Standards/WikiData/WD~Philadelphia,1345]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_for_sport: "[[_Standards/WikiData/WD~United_States,30]]"
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+trained_by: '[[_Standards/WikiData/WD~Richard_Callaghan,7324594]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Figure_Skating,15304993]]'
+eye_color: '[[_Standards/WikiData/WD~green,17122854]]'
+family_name: '[[_Standards/WikiData/WD~Lipinski,37268074]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Polish,809]]'
+place_of_birth: '[[_Standards/WikiData/WD~Philadelphia,1345]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_for_sport: '[[_Standards/WikiData/WD~United_States,30]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Poland,36]]'
 height: 155
-sport: "[[_Standards/WikiData/WD~figure_skating,38108]]"
+sport: '[[_Standards/WikiData/WD~figure_skating,38108]]'
 social_media_followers: 107230
 Commons_category: Tara Lipinski
 nickname: Lips
@@ -36,8 +37,8 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Tara%20Lipinski%20Baltimore.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Tara%20Lipinski%20in%20Sochi.jpg
 official_website: http://www.taralipinski.com
-ISNI: "0000000035792061"
-Munzinger_Sport_number: "01000005220"
+ISNI: 0000000035792061
+Munzinger_Sport_number: 01000005220
 Plex_person_key: 5d776a6096b655001fded088
 Instagram_username: taralipinski
 X_Twitter_username: taralipinski

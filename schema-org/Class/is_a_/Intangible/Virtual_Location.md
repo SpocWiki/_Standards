@@ -4,20 +4,22 @@ aliases:
   - virtual_location
   - VirtualLocation
   - is_a_virtual_location
+  - Virtual_Location
+  - Virtual Location
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - virtual_location
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_virtual_location Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -4,6 +4,7 @@ aliases:
   - Antoni Gaudi
   - Antoni Gaudí i Cornet
   - God's Architect
+  - Gaudi,Antoni
 has_id_wikidata: Q25328
 ---
 

@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DataCatalog
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: TFongU
-  name: Dataset
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Dataset')"
-  type: MultiFile
-  path: ''
+  - id: TFongU
+    name: Dataset
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Dataset')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DataCatalog
-- class/Thing/CreativeWork/DataCatalog
-- is_a_/DataCatalog
-- schema-org/DataCatalog
+  - class/DataCatalog
+  - class/Thing/CreativeWork/DataCatalog
+  - is_a_/DataCatalog
+  - schema-org/DataCatalog
 tags:
-- class/FileClass
-- class/DataCatalog
-- is_a_/DataCatalog
-- class/Thing/CreativeWork/DataCatalog
+  - class/FileClass
+  - class/DataCatalog
+  - is_a_/DataCatalog
+  - class/Thing/CreativeWork/DataCatalog
 version: 2.0
 ---
 

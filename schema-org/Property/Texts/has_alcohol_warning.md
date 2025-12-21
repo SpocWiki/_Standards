@@ -4,22 +4,24 @@ aliases:
   - alcohol_warning
   - alcoholWarning
   - has_text_of_alcohol_warning
+  - has_alcohol_warning
+  - has alcohol warning
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - alcohol
   - warning
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_alcohol_warning
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

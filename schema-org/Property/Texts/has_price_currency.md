@@ -4,22 +4,24 @@ aliases:
   - price_currency
   - priceCurrency
   - has_text_of_price_currency
+  - has_price_currency
+  - has price currency
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - price
   - currency
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_price_currency
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

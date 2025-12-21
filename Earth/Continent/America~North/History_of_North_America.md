@@ -1,17 +1,18 @@
 ---
 aliases:
   - History of North America
+  - History_of_North_America
 has_id_wikidata: Q149527
 has_part_s_:
-  - "[[_Standards/WikiData/WD~history_of_the_United_States,131110]]"
-  - "[[_Standards/WikiData/WD~history_of_Mexico,212763]]"
-  - "[[_Standards/WikiData/WD~history_of_Canada,2945]]"
-subclass_of: "[[_Standards/WikiData/WD~study_of_history,1066186]]"
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_History_of_North_America,42351431]]"
+  - '[[_Standards/WikiData/WD~history_of_the_United_States,131110]]'
+  - '[[_Standards/WikiData/WD~history_of_Mexico,212763]]'
+  - '[[_Standards/WikiData/WD~history_of_Canada,2945]]'
+subclass_of: '[[_Standards/WikiData/WD~study_of_history,1066186]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_History_of_North_America,42351431]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/35%20%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%20%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0.%20%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%BE-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0.jpg
-facet_of: "[[_Standards/WikiData/WD~North_America,49]]"
-Dewey_Decimal_Classification: "970"
+facet_of: '[[_Standards/WikiData/WD~North_America,49]]'
+Dewey_Decimal_Classification: 970
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Rivera%20Aztec%20banner.jpg
 Commons_category: History of North America
 ---

@@ -2,23 +2,25 @@
 aliases:
   - has employee
   - has_employee
+  - has_employees
+  - has employees
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - employee
   - employee
   - employee
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_employee
 publish: true
-publishDate:
+publishDate: ''
 supersedes: employees
 tags:
   - class/Relation

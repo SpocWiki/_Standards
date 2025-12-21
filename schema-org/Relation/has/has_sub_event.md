@@ -3,23 +3,24 @@ aliases:
   - has sub-event
   - subEvent
   - has_sub_event
+  - has sub event
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sub_event
   - sub
   - event
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_sub_event
 publish: true
-publishDate:
+publishDate: ''
 supersedes: subEvents
 tags:
   - class/Relation

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~EmployerAggregateRating
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/EmployerAggregateRating
-- class/Thing/Intangible/Rating/AggregateRating/EmployerAggregateRating
-- is_an_/EmployerAggregateRating
-- schema-org/EmployerAggregateRating
+  - class/EmployerAggregateRating
+  - class/Thing/Intangible/Rating/AggregateRating/EmployerAggregateRating
+  - is_an_/EmployerAggregateRating
+  - schema-org/EmployerAggregateRating
 tags:
-- class/FileClass
-- class/EmployerAggregateRating
-- '#is_an_/EmployerAggregateRating'
-- class/Thing/Intangible/Rating/AggregateRating/EmployerAggregateRating
+  - class/FileClass
+  - class/EmployerAggregateRating
+  - '#is_an_/EmployerAggregateRating'
+  - class/Thing/Intangible/Rating/AggregateRating/EmployerAggregateRating
 version: 2.0
 ---
 

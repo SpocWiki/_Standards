@@ -1,8 +1,9 @@
 ---
 aliases:
-- "Yeoh Choo Kheng"
-- "Michelle Yeoh"
-- "Michelle Yeoh Choo Kheng"
+  - Yeoh Choo Kheng
+  - Michelle Yeoh
+  - Michelle Yeoh Choo Kheng
+  - Yeoh,Michelle
 ---
 
 # [[Yeoh,Michelle]] 

@@ -2,9 +2,11 @@
 aliases:
   - dwarf galaxy
   - dwarf galaxies
+  - Dwarf_Galaxy
+  - Dwarf Galaxy
 has_id_wikidata: Q190438
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-subclass_of: "[[_Standards/WikiData/WD~galaxy,318]]"
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+subclass_of: '[[_Standards/WikiData/WD~galaxy,318]]'
 Commons_category: Dwarf galaxies
 ---
 

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~OfficeEquipmentStore
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/OfficeEquipmentStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/OfficeEquipmentStore
-- is_an_/OfficeEquipmentStore
-- schema-org/OfficeEquipmentStore
+  - class/OfficeEquipmentStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/OfficeEquipmentStore
+  - is_an_/OfficeEquipmentStore
+  - schema-org/OfficeEquipmentStore
 tags:
-- class/FileClass
-- class/OfficeEquipmentStore
-- '#is_an_/OfficeEquipmentStore'
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/OfficeEquipmentStore
+  - class/FileClass
+  - class/OfficeEquipmentStore
+  - '#is_an_/OfficeEquipmentStore'
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/OfficeEquipmentStore
 version: 2.0
 ---
 

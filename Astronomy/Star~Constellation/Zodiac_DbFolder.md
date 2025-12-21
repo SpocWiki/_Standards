@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Zodiac_DbFolder
+  - Zodiac DbFolder
 database_plugin: basic
 ---
 

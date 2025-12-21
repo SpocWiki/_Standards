@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Jeffrey Dean Morgan"
+  - Jeffrey Dean Morgan
+  - Morgan,Jeffrey_Dean
+  - Morgan,Jeffrey Dean
 ---
 
 # [[Morgan,Jeffrey_Dean]] 

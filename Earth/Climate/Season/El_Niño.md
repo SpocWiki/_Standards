@@ -3,6 +3,7 @@ aliases:
   - El Niño–Southern Oscillation
   - El Niño
   - El Nino
+  - El_Niño
 has_id_wikidata: Q7939
 ---
 # [[El_Niño]] 

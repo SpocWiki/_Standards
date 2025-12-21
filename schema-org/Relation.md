@@ -1,13 +1,14 @@
 ---
-aliases: []
+aliases:
+  - Relation
 confidential: public
 isDeleted: false
 isReadOnly: false
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 publish: true
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 type: Property
 ---
 

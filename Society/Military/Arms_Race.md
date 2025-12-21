@@ -1,16 +1,19 @@
 ---
+aliases:
+  - Arms_Race
+  - Arms Race
 has_id_wikidata: Q322348
-opposite_of: "[[_Standards/WikiData/WD~disarmament,331662]]"
+opposite_of: '[[_Standards/WikiData/WD~disarmament,331662]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~competition,476300]]"
-  - "[[_Standards/WikiData/WD~racing,878123]]"
-  - "[[_Standards/WikiData/WD~race,22938576]]"
-different_from: "[[_Standards/WikiData/WD~evolutionary_arms_race,2702288]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q10176134,10176134]]"
-described_by_source: "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-U_S_National_Archives_Identifier: "10637140"
-UNSPSC_Code: "92111904"
-P8189: "987007294806605171"
+  - '[[_Standards/WikiData/WD~competition,476300]]'
+  - '[[_Standards/WikiData/WD~racing,878123]]'
+  - '[[_Standards/WikiData/WD~race,22938576]]'
+different_from: '[[_Standards/WikiData/WD~evolutionary_arms_race,2702288]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q10176134,10176134]]'
+described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+U_S_National_Archives_Identifier: 10637140
+UNSPSC_Code: 92111904
+P8189: 987007294806605171
 ---
 
 # [[Arms_Race]] 

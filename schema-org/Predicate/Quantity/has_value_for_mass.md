@@ -4,20 +4,22 @@ aliases:
   - mass
   - Mass
   - is_a_mass
+  - has_value_for_mass
+  - has value for mass
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - mass
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_mass Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

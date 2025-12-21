@@ -2,12 +2,14 @@
 aliases:
   - Reparationen
   - Reparationszahlungen
+  - War_Reparations
+  - War Reparations
 has_id_wikidata: Q194181
 instance_of:
-  - "[[_Standards/WikiData/WD~legal_concept,2135465]]"
-  - "[[_Standards/WikiData/WD~economic_concept,29028649]]"
-facet_of: "[[_Standards/WikiData/WD~war_damage,3035596]]"
-subclass_of: "[[_Standards/WikiData/WD~reparations,7313909]]"
+  - '[[_Standards/WikiData/WD~legal_concept,2135465]]'
+  - '[[_Standards/WikiData/WD~economic_concept,29028649]]'
+facet_of: '[[_Standards/WikiData/WD~war_damage,3035596]]'
+subclass_of: '[[_Standards/WikiData/WD~reparations,7313909]]'
 ---
 
 # [[War_Reparations]] 

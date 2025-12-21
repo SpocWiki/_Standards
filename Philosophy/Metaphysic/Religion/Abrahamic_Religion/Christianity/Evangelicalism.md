@@ -2,27 +2,28 @@
 aliases:
   - evangelical Christianity
   - evangelical Protestantism
+  - Evangelicalism
 has_id_wikidata: Q194253
 different_from:
-  - "[[_Standards/WikiData/WD~Protestant_church,346575]]"
-  - "[[_Standards/WikiData/WD~evangelism,373069]]"
-instance_of: "[[_Standards/WikiData/WD~Christian_movement,995347]]"
+  - '[[_Standards/WikiData/WD~Protestant_church,346575]]'
+  - '[[_Standards/WikiData/WD~evangelism,373069]]'
+instance_of: '[[_Standards/WikiData/WD~Christian_movement,995347]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Evangelical_Christianity,14614581]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Evangelical_Christianity,14614581]]'
 operating_area:
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~New_Zealand,664]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-  - "[[_Standards/WikiData/WD~Nigeria,1033]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Netherlands,55]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Christianity,5043]]"
-subclass_of: "[[_Standards/WikiData/WD~Protestantism,23540]]"
+  - '[[_Standards/WikiData/WD~Australia,408]]'
+  - '[[_Standards/WikiData/WD~New_Zealand,664]]'
+  - '[[_Standards/WikiData/WD~Philippines,928]]'
+  - '[[_Standards/WikiData/WD~Nigeria,1033]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Netherlands,55]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+  - '[[_Standards/WikiData/WD~Brazil,155]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
+subclass_of: '[[_Standards/WikiData/WD~Protestantism,23540]]'
 member_count: 619
 Library_of_Congress_Classification: BR1640-BR1643
 subreddit: Evangelical

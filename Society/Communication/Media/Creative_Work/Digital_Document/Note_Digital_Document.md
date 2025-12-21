@@ -4,20 +4,22 @@ aliases:
   - note_digital_document
   - NoteDigitalDocument
   - is_a_note_digital_document
+  - Note_Digital_Document
+  - Note Digital Document
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - note_digital_document
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_note_digital_document Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

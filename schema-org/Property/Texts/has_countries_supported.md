@@ -4,22 +4,24 @@ aliases:
   - countries_supported
   - countriesSupported
   - has_text_of_countries_supported
+  - has_countries_supported
+  - has countries supported
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - countries
   - supported
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_countries_supported
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

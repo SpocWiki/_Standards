@@ -6,34 +6,34 @@ aliases:
   - De Principatibus
 has_id_wikidata: Q131719
 country_of_origin:
-  - "[[_Standards/WikiData/WD~Republic_of_Florence,148540]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-depicts: "[[_Standards/WikiData/WD~just_war_theory,847198]]"
-followed_by: "[[_Standards/WikiData/WD~Discourses_on_Livy,924424]]"
-described_by_source: "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-has_part_s_: "[[_Standards/WikiData/WD~Description_of_the_Manner_in_which_Duke_Valentino_put_Vitellozzo_Vitelli,_Oliverotto_da_Fermo,_Lord_Pagolo_and_the_Duke_of_Gravina_to_Death,5263788]]"
-instance_of: "[[_Standards/WikiData/WD~literary_work,7725634]]"
-different_from: "[[_Standards/WikiData/WD~Książę,11750409]]"
+  - '[[_Standards/WikiData/WD~Republic_of_Florence,148540]]'
+  - '[[_Standards/WikiData/WD~Italy,38]]'
+depicts: '[[_Standards/WikiData/WD~just_war_theory,847198]]'
+followed_by: '[[_Standards/WikiData/WD~Discourses_on_Livy,924424]]'
+described_by_source: '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+has_part_s_: '[[_Standards/WikiData/WD~Description_of_the_Manner_in_which_Duke_Valentino_put_Vitellozzo_Vitelli,_Oliverotto_da_Fermo,_Lord_Pagolo_and_the_Duke_of_Gravina_to_Death,5263788]]'
+instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
+different_from: '[[_Standards/WikiData/WD~Książę,11750409]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Il_Principe,_Italia,_1814,18647256]]"
-  - "[[_Standards/WikiData/WD~El_Príncipe_de_Maquiavelo,65009365]]"
-  - "[[_Standards/WikiData/WD~The_Prince,96357525]]"
-  - "[[_Standards/WikiData/WD~The_Prince,96357533]]"
-  - "[[_Standards/WikiData/WD~Le_Prince,106613257]]"
-  - "[[_Standards/WikiData/WD~Q110086688,110086688]]"
-  - "[[_Standards/WikiData/WD~Q110086751,110086751]]"
-  - "[[_Standards/WikiData/WD~Q111382822,111382822]]"
-  - "[[_Standards/WikiData/WD~Q119789533,119789533]]"
-  - "[[_Standards/WikiData/WD~The_Prince,123486106]]"
-  - "[[_Standards/WikiData/WD~Q131427628,131427628]]"
-  - "[[_Standards/WikiData/WD~The_prince,135405125]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~Italian,652]]"
-author: "[[_Standards/WikiData/WD~Niccolò_Machiavelli,1399]]"
+  - '[[_Standards/WikiData/WD~Il_Principe,_Italia,_1814,18647256]]'
+  - '[[_Standards/WikiData/WD~El_Príncipe_de_Maquiavelo,65009365]]'
+  - '[[_Standards/WikiData/WD~The_Prince,96357525]]'
+  - '[[_Standards/WikiData/WD~The_Prince,96357533]]'
+  - '[[_Standards/WikiData/WD~Le_Prince,106613257]]'
+  - '[[_Standards/WikiData/WD~Q110086688,110086688]]'
+  - '[[_Standards/WikiData/WD~Q110086751,110086751]]'
+  - '[[_Standards/WikiData/WD~Q111382822,111382822]]'
+  - '[[_Standards/WikiData/WD~Q119789533,119789533]]'
+  - '[[_Standards/WikiData/WD~The_Prince,123486106]]'
+  - '[[_Standards/WikiData/WD~Q131427628,131427628]]'
+  - '[[_Standards/WikiData/WD~The_prince,135405125]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Italian,652]]'
+author: '[[_Standards/WikiData/WD~Niccolò_Machiavelli,1399]]'
 main_subject:
-  - "[[_Standards/WikiData/WD~politics,7163]]"
-  - "[[_Standards/WikiData/WD~political_science,36442]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-genre: "[[_Standards/WikiData/WD~essay,35760]]"
+  - '[[_Standards/WikiData/WD~politics,7163]]'
+  - '[[_Standards/WikiData/WD~political_science,36442]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+genre: '[[_Standards/WikiData/WD~essay,35760]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Machiavelli%20Principe%20Cover%20Page.jpg
 Commons_gallery: Il Principe
 Commons_category: Il Principe

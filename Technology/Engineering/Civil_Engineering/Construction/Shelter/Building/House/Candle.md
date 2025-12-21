@@ -1,6 +1,7 @@
 ---
 aliases:
   - Kerze
+  - Candle
 has_id_wikidata: Q12888135
 has_part_s_:
   - "[[_Standards/WikiData/WD~wax,124695]]"
@@ -32,23 +33,23 @@ different_from:
 manufacturer: "[[_Standards/WikiData/WD~candle_maker,1739737]]"
 fabrication_method: "[[_Standards/WikiData/WD~candlemaking,29349255]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Q68235346,68235346]]"
-OmegaWiki_Defined_Meaning: "5592"
-Nomenclature_for_Museum_Cataloging: "1767"
+OmegaWiki_Defined_Meaning: 5592
+Nomenclature_for_Museum_Cataloging: 1767
 IMDb_keyword: candle
 Commons_gallery: Candle
-GS1_GPC_code: "10000555"
+GS1_GPC_code: 10000555
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%22Candle%22.JPG
 Iconclass_notation: 41B31
 exact_match:
   - http://wordnet-rdf.princeton.edu/wn30/02948072-n
   - http://wordnet-rdf.princeton.edu/wn31/102942478-n
-P8189: "987007283367505171"
+P8189: 987007283367505200
 Commons_category: Candles
 Colon_Classification: F9491
 Unicode_character: 🕯
 ---
 
-# [[Candle]] 
+# [[Candle]] 🕯 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Candle,12888135|WD~Candle,12888135]] 
 

@@ -1,8 +1,10 @@
 ---
 aliases:
-  - linear momentum 
+  - linear momentum
   - translational momentum
-has_id_wikidata:
+  - Conservation_of_linear_Momentum
+  - Conservation of linear Momentum
+has_id_wikidata: ''
 ---
 
 

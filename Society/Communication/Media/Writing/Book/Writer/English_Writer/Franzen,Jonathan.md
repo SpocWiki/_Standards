@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Jonathan Franzen"
+  - Jonathan Franzen
+  - Franzen,Jonathan
 ---
 
 # [[Franzen,Jonathan]] 

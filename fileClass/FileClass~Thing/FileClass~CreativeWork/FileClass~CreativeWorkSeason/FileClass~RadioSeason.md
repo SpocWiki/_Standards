@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~RadioSeason
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/RadioSeason
-- class/Thing/CreativeWork/CreativeWorkSeason/RadioSeason
-- is_a_/RadioSeason
-- schema-org/RadioSeason
+  - class/RadioSeason
+  - class/Thing/CreativeWork/CreativeWorkSeason/RadioSeason
+  - is_a_/RadioSeason
+  - schema-org/RadioSeason
 tags:
-- class/FileClass
-- class/RadioSeason
-- is_a_/RadioSeason
-- class/Thing/CreativeWork/CreativeWorkSeason/RadioSeason
+  - class/FileClass
+  - class/RadioSeason
+  - is_a_/RadioSeason
+  - class/Thing/CreativeWork/CreativeWorkSeason/RadioSeason
 version: 2.0
 ---
 

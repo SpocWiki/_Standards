@@ -1,11 +1,19 @@
 ---
+aliases:
+  - Chile
+  - Chili
+  - شيلي
+  - 智利
+  - Чили
+  - the Republic of Chile
+  - la República de Chile
+has_id_wikidata: Q298
 location:
   - -33.45
   - -70.67
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q298
 SpocWebEntityId: 26868
 isDeleted: false
 confidential: public
@@ -16,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Chile
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Chile
-  - Chili
-  - شيلي
-  - 智利
-  - Чили
-  - the Republic of Chile
-  - la República de Chile
+publishDate: ""
+expiryDate: ""
 Languages:
   - es-CL
 icon: flag-cl

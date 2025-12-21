@@ -2,12 +2,13 @@
 aliases:
   - has day-of-week
   - has_day_of_week
+  - has day of week
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - week
   - day_of_week
   - dayOfWeek
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_day_of_week
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

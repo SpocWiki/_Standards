@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Capital city"
+  - Capital city
+  - Capital_City
+  - Capital City
 has_id_wikidata: Q5119
 ---
 

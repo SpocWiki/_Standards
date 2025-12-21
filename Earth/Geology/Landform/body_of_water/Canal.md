@@ -3,6 +3,7 @@ aliases:
   - Kanal
   - Canal
   - is_a_canal
+has_id_wikidata: Q12284
 confidential: public
 cssclasses:
   - Type
@@ -11,9 +12,9 @@ isDeleted: false
 isReadOnly: false
 keywords:
   - canal
-layout:
+layout: ''
 license: CC BY-SA 4.0
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
@@ -24,38 +25,37 @@ publish: true
 Commons_category: Canals
 Commons_gallery: Canal
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinn�n_opas,65109596]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinn�n_opas,65109596]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 equivalent_class: https://schema.org/Canal
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000014
 GeoNames_feature_code:
   - H.CNL
   - H.CNLN
-has_id_wikidata: Q12284
-has_part_s_: "[[_Standards/WikiData/WD~lock,105731]]"
+has_part_s_: '[[_Standards/WikiData/WD~lock,105731]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Saimaa%20canal%20at%20Lappeenranta%20Finland.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~type_of_watercourse,1428660]]"
-  - "[[_Standards/WikiData/WD~type_of_structure,111972893]]"
+  - '[[_Standards/WikiData/WD~type_of_watercourse,1428660]]'
+  - '[[_Standards/WikiData/WD~type_of_structure,111972893]]'
 Krugosvet_article: tehnologiya-i-promyshlennost/kanal
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Canal%20N%201%201%201%20-%20Elix.webm
 OmegaWiki_Defined_Meaning: 478
 OpenStreetMap_tag_or_key: Tag:waterway=canal
 subclass_of:
-  - "[[_Standards/WikiData/WD~infrastructure,121359]]"
-  - "[[_Standards/WikiData/WD~watercourse,355304]]"
-  - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
-  - "[[_Standards/WikiData/WD~hydraulic_structure,2466889]]"
-  - "[[_Standards/WikiData/WD~linear_construction,11794693]]"
-  - "[[_Standards/WikiData/WD~artificial_body_of_water,12376661]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_canal,6500619]]"
+  - '[[_Standards/WikiData/WD~infrastructure,121359]]'
+  - '[[_Standards/WikiData/WD~watercourse,355304]]'
+  - '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+  - '[[_Standards/WikiData/WD~hydraulic_structure,2466889]]'
+  - '[[_Standards/WikiData/WD~linear_construction,11794693]]'
+  - '[[_Standards/WikiData/WD~artificial_body_of_water,12376661]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_canal,6500619]]'
 Wolfram_Language_entity_type: Canal
 ---
 

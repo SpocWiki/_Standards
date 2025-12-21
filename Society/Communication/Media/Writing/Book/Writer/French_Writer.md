@@ -1,6 +1,7 @@
 ---
 aliases:
   - French Writer
+  - French_Writer
 ---
 
 

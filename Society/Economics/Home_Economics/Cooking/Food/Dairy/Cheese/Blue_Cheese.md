@@ -1,7 +1,9 @@
 ---
-has_id_wikidata: Q746471
 aliases:
   - Blauschimmelkäse
+  - Blue_Cheese
+  - Blue Cheese
+has_id_wikidata: Q746471
 ---
 
 # [[Blue_Cheese]] 

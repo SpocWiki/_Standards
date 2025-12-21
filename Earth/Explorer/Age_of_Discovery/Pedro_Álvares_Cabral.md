@@ -4,43 +4,43 @@ aliases:
   - Pedro Álvares Cabral
   - Pedro Álvares de Gouveia
 has_id_wikidata: Q174432
-place_of_death: "[[_Standards/WikiData/WD~Santarém,273877]]"
+place_of_death: '[[_Standards/WikiData/WD~Santarém,273877]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-place_of_birth: "[[_Standards/WikiData/WD~Belmonte,816115]]"
+place_of_birth: '[[_Standards/WikiData/WD~Belmonte,816115]]'
 family_name:
-  - "[[_Standards/WikiData/WD~Álvares,2605629]]"
-  - "[[_Standards/WikiData/WD~Cabral,27916589]]"
-place_of_burial: "[[_Standards/WikiData/WD~Igreja_da_Graça_(Santarém),5994070]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Álvares,2605629]]'
+  - '[[_Standards/WikiData/WD~Cabral,27916589]]'
+place_of_burial: '[[_Standards/WikiData/WD~Igreja_da_Graça_(Santarém),5994070]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 child:
-  - "[[_Standards/WikiData/WD~António_Cabral,9618793]]"
-  - "[[_Standards/WikiData/WD~Fernão_Álvares_Cabral,10281635]]"
-father: "[[_Standards/WikiData/WD~Fernão_Cabral,10281595]]"
+  - '[[_Standards/WikiData/WD~António_Cabral,9618793]]'
+  - '[[_Standards/WikiData/WD~Fernão_Álvares_Cabral,10281635]]'
+father: '[[_Standards/WikiData/WD~Fernão_Cabral,10281595]]'
 member_of: "[[_Standards/WikiData/WD~His_Most_Faithful_Majesty's_Council,10282109]]"
-spouse: "[[_Standards/WikiData/WD~Isabel_de_Castro,10303826]]"
-mother: "[[_Standards/WikiData/WD~Isabel_de_Gouveia_de_Queirós,10303828]]"
-different_from: "[[_Standards/WikiData/WD~Pedro_Álvares_Cabral,11815406]]"
+spouse: '[[_Standards/WikiData/WD~Isabel_de_Castro,10303826]]'
+mother: '[[_Standards/WikiData/WD~Isabel_de_Gouveia_de_Queirós,10303828]]'
+different_from: '[[_Standards/WikiData/WD~Pedro_Álvares_Cabral,11815406]]'
 occupation:
-  - "[[_Standards/WikiData/WD~explorer,11900058]]"
-  - "[[_Standards/WikiData/WD~seafarer,12038843]]"
-given_name: "[[_Standards/WikiData/WD~Pedro,15897419]]"
-award_received: "[[_Standards/WikiData/WD~Knight_of_the_Military_Order_of_Christ,66476970]]"
+  - '[[_Standards/WikiData/WD~explorer,11900058]]'
+  - '[[_Standards/WikiData/WD~seafarer,12038843]]'
+given_name: '[[_Standards/WikiData/WD~Pedro,15897419]]'
+award_received: '[[_Standards/WikiData/WD~Knight_of_the_Military_Order_of_Christ,66476970]]'
 date_of_birth: 1467-01-01T00:00:00Z
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Portuguese,5146]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670]]"
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Portuguese,5146]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670]]'
 Commons_gallery: Pedro Álvares Cabral
 Commons_category: Pedro Álvares Cabral
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Igr%20n%20s%20graca%209.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20%C3%81lvares%20Cabral%20-%20steel%20engraving%20by%20American%20Bank%20Note%20Company.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20%C3%81lvares%20Cabral%20signature.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Pt-Pedro%20%C3%81lvares%20Cabral%20intro.ogg
-ISNI: "0000000022442767"
+ISNI: 0000000022442767
 name_in_native_language: Pedro Álvares Cabral
 birth_name: Pedro Álvares de Gouveia
 date_of_death: 1520-01-01T00:00:00Z

@@ -2,21 +2,23 @@
 aliases:
   - The Tonight Show
   - The_Tonight_Show
+  - Tonight_Show
+  - Tonight Show
 has_id_wikidata: Q1338655
-presenter: "[[_Standards/WikiData/WD~Jimmy_Fallon,335680]]"
-genre: "[[_Standards/WikiData/WD~talk_show,622812]]"
-color: "[[_Standards/WikiData/WD~black_and_white,838368]]"
-director: "[[_Standards/WikiData/WD~Dwight_Hemion,5318178]]"
+presenter: '[[_Standards/WikiData/WD~Jimmy_Fallon,335680]]'
+genre: '[[_Standards/WikiData/WD~talk_show,622812]]'
+color: '[[_Standards/WikiData/WD~black_and_white,838368]]'
+director: '[[_Standards/WikiData/WD~Dwight_Hemion,5318178]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~television_series,5398426]]"
-  - "[[_Standards/WikiData/WD~television_program,15416]]"
-list_of_episodes: "[[_Standards/WikiData/WD~list_of_The_Tonight_Show_episodes,22908196]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-original_language_of_film_or_TV_show: "[[_Standards/WikiData/WD~American_English,7976]]"
-original_broadcaster: "[[_Standards/WikiData/WD~NBC,13974]]"
-production_company: "[[_Standards/WikiData/WD~NBC,13974]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-filming_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+  - '[[_Standards/WikiData/WD~television_series,5398426]]'
+  - '[[_Standards/WikiData/WD~television_program,15416]]'
+list_of_episodes: '[[_Standards/WikiData/WD~list_of_The_Tonight_Show_episodes,22908196]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+original_language_of_film_or_TV_show: '[[_Standards/WikiData/WD~American_English,7976]]'
+original_broadcaster: '[[_Standards/WikiData/WD~NBC,13974]]'
+production_company: '[[_Standards/WikiData/WD~NBC,13974]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+filming_location: '[[_Standards/WikiData/WD~New_York_City,60]]'
 start_time: 1954-09-27T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Laura%20Bush%20on%20The%20Tonight%20Show.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Tonight%20Show%20Starring%20Jimmy%20Fallon.svg

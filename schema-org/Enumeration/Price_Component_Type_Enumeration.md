@@ -4,20 +4,22 @@ aliases:
   - price_component_type_enumeration
   - PriceComponentTypeEnumeration
   - is_a_price_component_type_enumeration
+  - Price_Component_Type_Enumeration
+  - Price Component Type Enumeration
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - price_component_type_enumeration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_price_component_type_enumeration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

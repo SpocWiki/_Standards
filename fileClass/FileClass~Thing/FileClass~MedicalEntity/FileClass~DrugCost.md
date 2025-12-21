@@ -1,46 +1,48 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DrugCost
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-- id: sRtf31
-  name: ApplicableLocation
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place/AdministrativeArea')"
-  type: MultiFile
-  path: ''
-- id: sdaKy2
-  name: CostCurrency
-  options: {}
-  type: Input
-  path: ''
-- id: 2biuGl
-  name: CostOrigin
-  options: {}
-  type: Input
-  path: ''
-- id: ZIV6sx
-  name: CostPerUnit
-  options: {}
-  type: Number
-  path: ''
-- id: XQvQKE
-  name: DrugUnit
-  options: {}
-  type: Input
-  path: ''
+  - id: sRtf31
+    name: ApplicableLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
+    type: MultiFile
+    path: ''
+  - id: sdaKy2
+    name: CostCurrency
+    options: {}
+    type: Input
+    path: ''
+  - id: 2biuGl
+    name: CostOrigin
+    options: {}
+    type: Input
+    path: ''
+  - id: ZIV6sx
+    name: CostPerUnit
+    options: {}
+    type: Number
+    path: ''
+  - id: XQvQKE
+    name: DrugUnit
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DrugCost
-- class/Thing/MedicalEntity/DrugCost
-- is_a_/DrugCost
-- schema-org/DrugCost
+  - class/DrugCost
+  - class/Thing/MedicalEntity/DrugCost
+  - is_a_/DrugCost
+  - schema-org/DrugCost
 tags:
-- class/FileClass
-- class/DrugCost
-- is_a_/DrugCost
-- class/Thing/MedicalEntity/DrugCost
+  - class/FileClass
+  - class/DrugCost
+  - is_a_/DrugCost
+  - class/Thing/MedicalEntity/DrugCost
 version: 2.0
 ---
 

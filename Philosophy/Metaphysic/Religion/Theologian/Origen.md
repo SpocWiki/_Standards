@@ -1,6 +1,7 @@
 ---
 aliases:
   - Origen Adamantius
+  - Origen
 has_id_wikidata: Q170472
 ---
 

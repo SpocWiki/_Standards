@@ -1,20 +1,22 @@
 ---
 aliases:
   - Christliche Philosophie
+  - Christian_philosophy
+  - Christian philosophy
 has_id_wikidata: Q854807
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~philosophical_movement,2915955]]"
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~religious_philosophy,2054106]]"
-  - "[[_Standards/WikiData/WD~Christianity,5043]]"
-facet_of: "[[_Standards/WikiData/WD~Christianity,5043]]"
-part_of: "[[_Standards/WikiData/WD~philosophy,5891]]"
+  - '[[_Standards/WikiData/WD~religious_philosophy,2054106]]'
+  - '[[_Standards/WikiData/WD~Christianity,5043]]'
+facet_of: '[[_Standards/WikiData/WD~Christianity,5043]]'
+part_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
 Commons_category: Christian philosophy
 Stack_Exchange_tag:
   - https://christianity.stackexchange.com/tags/philosophy
   - https://philosophy.stackexchange.com/tags/christianity
-P8189: "987007544605305171"
+P8189: 987007544605305171
 ---
 
 # [[Christian_philosophy]] 

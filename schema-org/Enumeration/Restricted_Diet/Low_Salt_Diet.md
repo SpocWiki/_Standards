@@ -4,21 +4,23 @@ aliases:
   - low_salt_diet
   - LowSaltDiet
   - is_a_low_salt_diet
+  - Low_Salt_Diet
+  - Low Salt Diet
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: RestrictedDiet
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - low_salt_diet
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_low_salt_diet Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

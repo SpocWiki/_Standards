@@ -4,23 +4,25 @@ aliases:
   - name_executable_library
   - executableLibraryName
   - has_name_executable_library
+  - has_name_of_executable_library
+  - has name of executable library
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - executable
   - library
   - name
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_name_executable_library
 publish: true
-publishDate:
+publishDate: ''
 supersedes: assembly
 tags:
   - class/Property

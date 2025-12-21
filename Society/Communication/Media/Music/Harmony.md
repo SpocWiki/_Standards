@@ -1,19 +1,20 @@
 ---
 aliases:
   - Harmonie
+  - Harmony
 has_id_wikidata: Q184421
-different_from: "[[_Standards/WikiData/WD~melody,170412]]"
+different_from: '[[_Standards/WikiData/WD~melody,170412]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-subclass_of: "[[_Standards/WikiData/WD~elements_of_music,11696608]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~elements_of_music,11696608]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~mathematical_concept,24034552]]"
-  - "[[_Standards/WikiData/WD~musical_concept,115211517]]"
-opposite_of: "[[_Standards/WikiData/WD~disharmony,65313765]]"
-part_of: "[[_Standards/WikiData/WD~Q123378266,123378266]]"
+  - '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+  - '[[_Standards/WikiData/WD~musical_concept,115211517]]'
+opposite_of: '[[_Standards/WikiData/WD~disharmony,65313765]]'
+part_of: '[[_Standards/WikiData/WD~Q123378266,123378266]]'
 Commons_category: Harmony
 name: Wohlklang
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Antiparallele.JPG

@@ -1,31 +1,33 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MusicPlaylist
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: CwpYxo
-  name: NumTracks
-  options: {}
-  type: Number
-  path: ''
-- id: Y6wa39
-  name: Track
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/ItemList')"
-  type: MultiFile
-  path: ''
+  - id: CwpYxo
+    name: NumTracks
+    options: {}
+    type: Number
+    path: ''
+  - id: Y6wa39
+    name: Track
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
+    type: MultiFile
+    path: ''
 icon: list-music
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MusicPlaylist
-- class/Thing/CreativeWork/MusicPlaylist
-- is_a_/MusicPlaylist
-- schema-org/MusicPlaylist
+  - class/MusicPlaylist
+  - class/Thing/CreativeWork/MusicPlaylist
+  - is_a_/MusicPlaylist
+  - schema-org/MusicPlaylist
 tags:
-- class/FileClass
-- class/MusicPlaylist
-- is_a_/MusicPlaylist
-- class/Thing/CreativeWork/MusicPlaylist
+  - class/FileClass
+  - class/MusicPlaylist
+  - is_a_/MusicPlaylist
+  - class/Thing/CreativeWork/MusicPlaylist
 version: 2.0
 ---
 

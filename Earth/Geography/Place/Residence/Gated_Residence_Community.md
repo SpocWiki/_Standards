@@ -4,20 +4,22 @@ aliases:
   - gated_residence_community
   - GatedResidenceCommunity
   - is_a_gated_residence_community
+  - Gated_Residence_Community
+  - Gated Residence Community
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - gated_residence_community
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_gated_residence_community Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

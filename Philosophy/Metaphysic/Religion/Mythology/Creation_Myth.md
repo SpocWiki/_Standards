@@ -1,25 +1,27 @@
 ---
 aliases:
   - Schöpfungsmythos
+  - Creation_Myth
+  - Creation Myth
 has_id_wikidata: Q215304
 facet_of:
-  - "[[_Standards/WikiData/WD~cosmogony,170835]]"
-  - "[[_Standards/WikiData/WD~creation,3352472]]"
-  - "[[_Standards/WikiData/WD~Abiogenesis,9050360]]"
-subclass_of: "[[_Standards/WikiData/WD~myth_of_origins,390248]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~origin_of_language,501032]]"
+  - '[[_Standards/WikiData/WD~cosmogony,170835]]'
+  - '[[_Standards/WikiData/WD~creation,3352472]]'
+  - '[[_Standards/WikiData/WD~Abiogenesis,9050360]]'
+subclass_of: '[[_Standards/WikiData/WD~myth_of_origins,390248]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~origin_of_language,501032]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-has_list: "[[_Standards/WikiData/WD~list_of_creation_myths,6614537]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+has_list: '[[_Standards/WikiData/WD~list_of_creation_myths,6614537]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~cosmogonical_myth,23044081]]"
-  - "[[_Standards/WikiData/WD~Q31081156,31081156]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Narration,60007664]]"
-Dewey_Decimal_Classification: "213"
-Iconclass_notation: "91"
+  - '[[_Standards/WikiData/WD~cosmogonical_myth,23044081]]'
+  - '[[_Standards/WikiData/WD~Q31081156,31081156]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Narration,60007664]]'
+Dewey_Decimal_Classification: 213
+Iconclass_notation: 91
 Library_of_Congress_Classification: BL325.C7
 Commons_category: Creation
 Provenio_UUID: d7a6f1bb-08aa-472d-890e-c604ed8f3f81

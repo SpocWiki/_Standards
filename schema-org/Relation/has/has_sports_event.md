@@ -3,23 +3,24 @@ aliases:
   - has sports-event
   - sportsEvent
   - has_sports_event
+  - has sports event
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sports_event
   - sports
   - event
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_sports_event
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

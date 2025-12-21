@@ -2,6 +2,8 @@
 aliases:
   - Kulturgeschichte
   - Cultural history
+  - Cultural_History
+  - Cultural History
 has_id_wikidata: Q858517
 ---
 

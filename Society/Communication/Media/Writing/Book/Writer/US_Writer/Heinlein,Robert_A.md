@@ -4,69 +4,71 @@ aliases:
   - Robert Anson Heinlein
   - Robert Heinlein
   - Heinlein
+  - Heinlein,Robert_A
+  - Heinlein,Robert A
 has_id_wikidata: Q123078
 genre:
-  - "[[_Standards/WikiData/WD~fantasy,132311]]"
-  - "[[_Standards/WikiData/WD~military_science_fiction,904447]]"
-  - "[[_Standards/WikiData/WD~young_adult_literature,1233720]]"
-  - "[[_Standards/WikiData/WD~science_fiction,24925]]"
+  - '[[_Standards/WikiData/WD~fantasy,132311]]'
+  - '[[_Standards/WikiData/WD~military_science_fiction,904447]]'
+  - '[[_Standards/WikiData/WD~young_adult_literature,1233720]]'
+  - '[[_Standards/WikiData/WD~science_fiction,24925]]'
 residence:
-  - "[[_Standards/WikiData/WD~Santa_Cruz,159232]]"
-  - "[[_Standards/WikiData/WD~Colorado_Springs,49258]]"
-cause_of_death: "[[_Standards/WikiData/WD~heart_failure,181754]]"
+  - '[[_Standards/WikiData/WD~Santa_Cruz,159232]]'
+  - '[[_Standards/WikiData/WD~Colorado_Springs,49258]]'
+cause_of_death: '[[_Standards/WikiData/WD~heart_failure,181754]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Hugo_Award_for_Best_Novel,255032]]"
-  - "[[_Standards/WikiData/WD~Nebula_Award_for_Best_Novel,266012]]"
-  - "[[_Standards/WikiData/WD~Locus_Award_for_Best_Novel,595998]]"
-  - "[[_Standards/WikiData/WD~Locus_Award_for_Best_Science_Fiction_Novel,2576795]]"
-  - "[[_Standards/WikiData/WD~Locus_Award_for_Best_Collection,54824268]]"
+  - '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Novel,255032]]'
+  - '[[_Standards/WikiData/WD~Nebula_Award_for_Best_Novel,266012]]'
+  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Novel,595998]]'
+  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Science_Fiction_Novel,2576795]]'
+  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Collection,54824268]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Hugo_Award_for_Best_Novel,255032]]"
-  - "[[_Standards/WikiData/WD~Locus_Award_for_Best_Fantasy_Novel,607354]]"
-  - "[[_Standards/WikiData/WD~Damon_Knight_Memorial_Grand_Master_Award,901462]]"
-  - "[[_Standards/WikiData/WD~Inkpot_Award,2687578]]"
-  - "[[_Standards/WikiData/WD~Prometheus_Award_Hall_of_Fame,19360203]]"
-  - "[[_Standards/WikiData/WD~Science_Fiction_and_Fantasy_Hall_of_Fame,48961500]]"
-  - "[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novel,115280877]]"
-  - "[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novella,115288957]]"
-  - "[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novelette,115289074]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Centraal_Museum,260913]]"
+  - '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Novel,255032]]'
+  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Fantasy_Novel,607354]]'
+  - '[[_Standards/WikiData/WD~Damon_Knight_Memorial_Grand_Master_Award,901462]]'
+  - '[[_Standards/WikiData/WD~Inkpot_Award,2687578]]'
+  - '[[_Standards/WikiData/WD~Prometheus_Award_Hall_of_Fame,19360203]]'
+  - '[[_Standards/WikiData/WD~Science_Fiction_and_Fantasy_Hall_of_Fame,48961500]]'
+  - '[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novel,115280877]]'
+  - '[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novella,115288957]]'
+  - '[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novelette,115289074]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Centraal_Museum,260913]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Starship_Troopers,492207]]"
-  - "[[_Standards/WikiData/WD~Stranger_in_a_Strange_Land,929821]]"
-  - "[[_Standards/WikiData/WD~Double_Star,945382]]"
-  - "[[_Standards/WikiData/WD~Have_Space_Suit_Will_Travel,1213656]]"
-  - "[[_Standards/WikiData/WD~The_Puppet_Masters,4400679]]"
+  - '[[_Standards/WikiData/WD~Starship_Troopers,492207]]'
+  - '[[_Standards/WikiData/WD~Stranger_in_a_Strange_Land,929821]]'
+  - '[[_Standards/WikiData/WD~Double_Star,945382]]'
+  - '[[_Standards/WikiData/WD~Have_Space_Suit_Will_Travel,1213656]]'
+  - '[[_Standards/WikiData/WD~The_Puppet_Masters,4400679]]'
   - "[[_Standards/WikiData/WD~Farnham's_Freehold,4411127]]"
-educated_at: "[[_Standards/WikiData/WD~United_States_Naval_Academy,559549]]"
-place_of_death: "[[_Standards/WikiData/WD~Carmel_by_the_Sea,625458]]"
-place_of_birth: "[[_Standards/WikiData/WD~Butler,955151]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-list_of_works: "[[_Standards/WikiData/WD~Robert_A._Heinlein_bibliography,4086324]]"
+educated_at: '[[_Standards/WikiData/WD~United_States_Naval_Academy,559549]]'
+place_of_death: '[[_Standards/WikiData/WD~Carmel_by_the_Sea,625458]]'
+place_of_birth: '[[_Standards/WikiData/WD~Butler,955151]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+list_of_works: '[[_Standards/WikiData/WD~Robert_A._Heinlein_bibliography,4086324]]'
 occupation:
-  - "[[_Standards/WikiData/WD~literary_critic,4263842]]"
-  - "[[_Standards/WikiData/WD~naval_officer,10669499]]"
-  - "[[_Standards/WikiData/WD~essayist,11774202]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - '[[_Standards/WikiData/WD~literary_critic,4263842]]'
+  - '[[_Standards/WikiData/WD~naval_officer,10669499]]'
+  - '[[_Standards/WikiData/WD~essayist,11774202]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Robert,4927937]]"
-  - "[[_Standards/WikiData/WD~Q27179450,27179450]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-spouse: "[[_Standards/WikiData/WD~Virginia_Heinlein,7934303]]"
-has_list: "[[_Standards/WikiData/WD~list_of_awards_and_nominations_received_by_Robert_A._Heinlein,18278093]]"
-family_name: "[[_Standards/WikiData/WD~Heinlein,37518101]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
-field_of_work: "[[_Standards/WikiData/WD~literature,8242]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Robert,4927937]]'
+  - '[[_Standards/WikiData/WD~Q27179450,27179450]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+spouse: '[[_Standards/WikiData/WD~Virginia_Heinlein,7934303]]'
+has_list: '[[_Standards/WikiData/WD~list_of_awards_and_nominations_received_by_Robert_A._Heinlein,18278093]]'
+family_name: '[[_Standards/WikiData/WD~Heinlein,37518101]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
+field_of_work: '[[_Standards/WikiData/WD~literature,8242]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 pseudonym:
   - Simon York
   - Anson MacDonald

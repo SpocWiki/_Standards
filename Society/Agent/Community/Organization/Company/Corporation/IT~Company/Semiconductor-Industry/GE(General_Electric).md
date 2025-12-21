@@ -2,120 +2,122 @@
 aliases:
   - General Electric
   - Edison General Electric Company
+  - GE(General_Electric)
+  - GE(General Electric)
 has_id_wikidata: Q54173
 industry:
-  - "[[_Standards/WikiData/WD~mechanical_engineering,101333]]"
-  - "[[_Standards/WikiData/WD~automotive_industry,190117]]"
-  - "[[_Standards/WikiData/WD~finance_lease,192899]]"
-  - "[[_Standards/WikiData/WD~arms_industry,392933]]"
-  - "[[_Standards/WikiData/WD~conglomerate,778575]]"
-  - "[[_Standards/WikiData/WD~power_engineering,1803786]]"
-  - "[[_Standards/WikiData/WD~aircraft_industry,1875606]]"
+  - '[[_Standards/WikiData/WD~mechanical_engineering,101333]]'
+  - '[[_Standards/WikiData/WD~automotive_industry,190117]]'
+  - '[[_Standards/WikiData/WD~finance_lease,192899]]'
+  - '[[_Standards/WikiData/WD~arms_industry,392933]]'
+  - '[[_Standards/WikiData/WD~conglomerate,778575]]'
+  - '[[_Standards/WikiData/WD~power_engineering,1803786]]'
+  - '[[_Standards/WikiData/WD~aircraft_industry,1875606]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Dow_Jones_Industrial_Average,180816]]"
-  - "[[_Standards/WikiData/WD~S&P_500,242345]]"
-  - "[[_Standards/WikiData/WD~Dow_Jones_Global_Titans_50,773026]]"
+  - '[[_Standards/WikiData/WD~Dow_Jones_Industrial_Average,180816]]'
+  - '[[_Standards/WikiData/WD~S&P_500,242345]]'
+  - '[[_Standards/WikiData/WD~Dow_Jones_Global_Titans_50,773026]]'
 stock_exchange:
-  - "[[_Standards/WikiData/WD~Tokyo_Stock_Exchange,217475]]"
-  - "[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]"
+  - '[[_Standards/WikiData/WD~Tokyo_Stock_Exchange,217475]]'
+  - '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~GE_Transportation,218671]]"
-  - "[[_Standards/WikiData/WD~GE_Wind_Energy,634056]]"
-  - "[[_Standards/WikiData/WD~Tungsram,689510]]"
-  - "[[_Standards/WikiData/WD~Wabtec,741707]]"
-  - "[[_Standards/WikiData/WD~Baker_Hughes,804353]]"
-  - "[[_Standards/WikiData/WD~GE_Capital,969390]]"
-  - "[[_Standards/WikiData/WD~GE_HealthCare,1152374]]"
-  - "[[_Standards/WikiData/WD~GE_Capital_Aviation_Services,1434137]]"
-  - "[[_Standards/WikiData/WD~GE_Aerospace,1485061]]"
-  - "[[_Standards/WikiData/WD~GE_Water,1485322]]"
-  - "[[_Standards/WikiData/WD~TMBThanachart_Bank_PCL.,1527826]]"
-  - "[[_Standards/WikiData/WD~British_Broadcasting_Company_Limited,1756495]]"
-  - "[[_Standards/WikiData/WD~Trump_International_Hotel_and_Tower,1783427]]"
-  - "[[_Standards/WikiData/WD~Allendale_Square,4732002]]"
+  - '[[_Standards/WikiData/WD~GE_Transportation,218671]]'
+  - '[[_Standards/WikiData/WD~GE_Wind_Energy,634056]]'
+  - '[[_Standards/WikiData/WD~Tungsram,689510]]'
+  - '[[_Standards/WikiData/WD~Wabtec,741707]]'
+  - '[[_Standards/WikiData/WD~Baker_Hughes,804353]]'
+  - '[[_Standards/WikiData/WD~GE_Capital,969390]]'
+  - '[[_Standards/WikiData/WD~GE_HealthCare,1152374]]'
+  - '[[_Standards/WikiData/WD~GE_Capital_Aviation_Services,1434137]]'
+  - '[[_Standards/WikiData/WD~GE_Aerospace,1485061]]'
+  - '[[_Standards/WikiData/WD~GE_Water,1485322]]'
+  - '[[_Standards/WikiData/WD~TMBThanachart_Bank_PCL.,1527826]]'
+  - '[[_Standards/WikiData/WD~British_Broadcasting_Company_Limited,1756495]]'
+  - '[[_Standards/WikiData/WD~Trump_International_Hotel_and_Tower,1783427]]'
+  - '[[_Standards/WikiData/WD~Allendale_Square,4732002]]'
   - "[[_Standards/WikiData/WD~America's_Talking,4742597]]"
-  - "[[_Standards/WikiData/WD~Dowty_Rotol,5303672]]"
-  - "[[_Standards/WikiData/WD~GE_Oil_and_Gas,16558233]]"
-  - "[[_Standards/WikiData/WD~National_Broadcasting_Company,58036430]]"
-organizational_divisions: "[[_Standards/WikiData/WD~GE_Transportation,218671]]"
+  - '[[_Standards/WikiData/WD~Dowty_Rotol,5303672]]'
+  - '[[_Standards/WikiData/WD~GE_Oil_and_Gas,16558233]]'
+  - '[[_Standards/WikiData/WD~National_Broadcasting_Company,58036430]]'
+organizational_divisions: '[[_Standards/WikiData/WD~GE_Transportation,218671]]'
 owned_by:
-  - "[[_Standards/WikiData/WD~BlackRock,219635]]"
-  - "[[_Standards/WikiData/WD~Capital_Group_Companies,505275]]"
-  - "[[_Standards/WikiData/WD~The_Vanguard_Group,849363]]"
-  - "[[_Standards/WikiData/WD~Northern_Trust,970695]]"
-  - "[[_Standards/WikiData/WD~Fidelity_Investments,1411292]]"
-  - "[[_Standards/WikiData/WD~T._Rowe_Price,3511946]]"
-location_of_formation: "[[_Standards/WikiData/WD~Schenectady,331380]]"
+  - '[[_Standards/WikiData/WD~BlackRock,219635]]'
+  - '[[_Standards/WikiData/WD~Capital_Group_Companies,505275]]'
+  - '[[_Standards/WikiData/WD~The_Vanguard_Group,849363]]'
+  - '[[_Standards/WikiData/WD~Northern_Trust,970695]]'
+  - '[[_Standards/WikiData/WD~Fidelity_Investments,1411292]]'
+  - '[[_Standards/WikiData/WD~T._Rowe_Price,3511946]]'
+location_of_formation: '[[_Standards/WikiData/WD~Schenectady,331380]]'
 founded_by:
-  - "[[_Standards/WikiData/WD~Edwin_J._Houston,382363]]"
-  - "[[_Standards/WikiData/WD~Elihu_Thomson,559794]]"
-  - "[[_Standards/WikiData/WD~Charles_A._Coffin,2122951]]"
-  - "[[_Standards/WikiData/WD~Thomas_Edison,8743]]"
+  - '[[_Standards/WikiData/WD~Edwin_J._Houston,382363]]'
+  - '[[_Standards/WikiData/WD~Elihu_Thomson,559794]]'
+  - '[[_Standards/WikiData/WD~Charles_A._Coffin,2122951]]'
+  - '[[_Standards/WikiData/WD~Thomas_Edison,8743]]'
 child_organization_unit:
-  - "[[_Standards/WikiData/WD~GE_Wind_Energy,634056]]"
-  - "[[_Standards/WikiData/WD~GE_HealthCare,1152374]]"
-  - "[[_Standards/WikiData/WD~GE_Aerospace,1485061]]"
-  - "[[_Standards/WikiData/WD~GE_Consumer_&_Industrial,2646219]]"
-  - "[[_Standards/WikiData/WD~GE_Aerospace,5513251]]"
-  - "[[_Standards/WikiData/WD~GE_Global_Research,5513284]]"
-  - "[[_Standards/WikiData/WD~GE_Lighting,5513291]]"
-  - "[[_Standards/WikiData/WD~ScanWind,7429887]]"
-  - "[[_Standards/WikiData/WD~GE_Industrial,17037530]]"
-  - "[[_Standards/WikiData/WD~SABIC_Innovative_Plastics,18071191]]"
-  - "[[_Standards/WikiData/WD~GE_Aviation_Czech,28726647]]"
-  - "[[_Standards/WikiData/WD~GE_Italia_Holding,28970995]]"
-  - "[[_Standards/WikiData/WD~General_Electric_(Israel),28970998]]"
-  - "[[_Standards/WikiData/WD~General_Electric_(Argentina),28970999]]"
-  - "[[_Standards/WikiData/WD~General_Electric_(Austria),28970996]]"
-  - "[[_Standards/WikiData/WD~General_Electric_(Switzerland),28970997]]"
-  - "[[_Standards/WikiData/WD~GE_Power,28974077]]"
-  - "[[_Standards/WikiData/WD~General_Electric_(New_Zealand),30274046]]"
-  - "[[_Standards/WikiData/WD~GE_Global_Research_(Germany),33527896]]"
-  - "[[_Standards/WikiData/WD~Radio_Corporation_of_America,58035402]]"
-  - "[[_Standards/WikiData/WD~General_Electric_Spain,109930208]]"
-  - "[[_Standards/WikiData/WD~NBC,13974]]"
-  - "[[_Standards/WikiData/WD~GE_Energy,31830]]"
+  - '[[_Standards/WikiData/WD~GE_Wind_Energy,634056]]'
+  - '[[_Standards/WikiData/WD~GE_HealthCare,1152374]]'
+  - '[[_Standards/WikiData/WD~GE_Aerospace,1485061]]'
+  - '[[_Standards/WikiData/WD~GE_Consumer_&_Industrial,2646219]]'
+  - '[[_Standards/WikiData/WD~GE_Aerospace,5513251]]'
+  - '[[_Standards/WikiData/WD~GE_Global_Research,5513284]]'
+  - '[[_Standards/WikiData/WD~GE_Lighting,5513291]]'
+  - '[[_Standards/WikiData/WD~ScanWind,7429887]]'
+  - '[[_Standards/WikiData/WD~GE_Industrial,17037530]]'
+  - '[[_Standards/WikiData/WD~SABIC_Innovative_Plastics,18071191]]'
+  - '[[_Standards/WikiData/WD~GE_Aviation_Czech,28726647]]'
+  - '[[_Standards/WikiData/WD~GE_Italia_Holding,28970995]]'
+  - '[[_Standards/WikiData/WD~General_Electric_(Israel),28970998]]'
+  - '[[_Standards/WikiData/WD~General_Electric_(Argentina),28970999]]'
+  - '[[_Standards/WikiData/WD~General_Electric_(Austria),28970996]]'
+  - '[[_Standards/WikiData/WD~General_Electric_(Switzerland),28970997]]'
+  - '[[_Standards/WikiData/WD~GE_Power,28974077]]'
+  - '[[_Standards/WikiData/WD~General_Electric_(New_Zealand),30274046]]'
+  - '[[_Standards/WikiData/WD~GE_Global_Research_(Germany),33527896]]'
+  - '[[_Standards/WikiData/WD~Radio_Corporation_of_America,58035402]]'
+  - '[[_Standards/WikiData/WD~General_Electric_Spain,109930208]]'
+  - '[[_Standards/WikiData/WD~NBC,13974]]'
+  - '[[_Standards/WikiData/WD~GE_Energy,31830]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Netherlands_Open_Air_Museum,674449]]"
-  - "[[_Standards/WikiData/WD~Bundeswehr_Museum_of_German_Defense_Technology,2205919]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~aircraft_engine,743004]]"
+  - '[[_Standards/WikiData/WD~Netherlands_Open_Air_Museum,674449]]'
+  - '[[_Standards/WikiData/WD~Bundeswehr_Museum_of_German_Defense_Technology,2205919]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~aircraft_engine,743004]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~public_company,891723]]"
-  - "[[_Standards/WikiData/WD~business,4830453]]"
-  - "[[_Standards/WikiData/WD~enterprise,6881511]]"
-different_from: "[[_Standards/WikiData/WD~General_Electric_Company_plc,1208203]]"
-followed_by: "[[_Standards/WikiData/WD~GE_Aerospace,1485061]]"
+  - '[[_Standards/WikiData/WD~public_company,891723]]'
+  - '[[_Standards/WikiData/WD~business,4830453]]'
+  - '[[_Standards/WikiData/WD~enterprise,6881511]]'
+different_from: '[[_Standards/WikiData/WD~General_Electric_Company_plc,1208203]]'
+followed_by: '[[_Standards/WikiData/WD~GE_Aerospace,1485061]]'
 board_member:
-  - "[[_Standards/WikiData/WD~Sébastien_Bazin,3509946]]"
-  - "[[_Standards/WikiData/WD~Ash_Carter,4806029]]"
-  - "[[_Standards/WikiData/WD~Catherine_Lesjak,5052517]]"
+  - '[[_Standards/WikiData/WD~Sébastien_Bazin,3509946]]'
+  - '[[_Standards/WikiData/WD~Ash_Carter,4806029]]'
+  - '[[_Standards/WikiData/WD~Catherine_Lesjak,5052517]]'
   - "[[_Standards/WikiData/WD~Francisco_D'Souza,5483294]]"
-  - "[[_Standards/WikiData/WD~James_Tisch,6142713]]"
-  - "[[_Standards/WikiData/WD~Risa_Lavizzo_Mourey,7335804]]"
-  - "[[_Standards/WikiData/WD~Thomas_Horton,7794754]]"
-  - "[[_Standards/WikiData/WD~Stephen_Angel,21552667]]"
-  - "[[_Standards/WikiData/WD~H._Lawrence_Culp_Jr.,56868014]]"
-  - "[[_Standards/WikiData/WD~Tom_Mihaljevic,99233536]]"
-  - "[[_Standards/WikiData/WD~Ed_Garden,109725703]]"
-  - "[[_Standards/WikiData/WD~Paula_Rosput_Reynolds,109726412]]"
-  - "[[_Standards/WikiData/WD~Leslie_Seidman,109726715]]"
-  - "[[_Standards/WikiData/WD~Bella_Goren,114498159]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_General_Electric,14334114]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-chief_executive_officer: "[[_Standards/WikiData/WD~H._Lawrence_Culp_Jr.,56868014]]"
-award_received: "[[_Standards/WikiData/WD~Silver_Anvil_Award,92429087]]"
-legal_form: "[[_Standards/WikiData/WD~New_York_Business_Corporation,108103696]]"
+  - '[[_Standards/WikiData/WD~James_Tisch,6142713]]'
+  - '[[_Standards/WikiData/WD~Risa_Lavizzo_Mourey,7335804]]'
+  - '[[_Standards/WikiData/WD~Thomas_Horton,7794754]]'
+  - '[[_Standards/WikiData/WD~Stephen_Angel,21552667]]'
+  - '[[_Standards/WikiData/WD~H._Lawrence_Culp_Jr.,56868014]]'
+  - '[[_Standards/WikiData/WD~Tom_Mihaljevic,99233536]]'
+  - '[[_Standards/WikiData/WD~Ed_Garden,109725703]]'
+  - '[[_Standards/WikiData/WD~Paula_Rosput_Reynolds,109726412]]'
+  - '[[_Standards/WikiData/WD~Leslie_Seidman,109726715]]'
+  - '[[_Standards/WikiData/WD~Bella_Goren,114498159]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_General_Electric,14334114]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~H._Lawrence_Culp_Jr.,56868014]]'
+award_received: '[[_Standards/WikiData/WD~Silver_Anvil_Award,92429087]]'
+legal_form: '[[_Standards/WikiData/WD~New_York_Business_Corporation,108103696]]'
 inception: 1892-04-15T00:00:00Z
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Boston,100]]"
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Boston,100]]'
 social_media_followers: 100000
 employees: 174000
 net_profit: 225000000
 market_capitalization: 114920000000
 operating_income: 26267000000
 total_equity: 37073000000
-Private_Enterprise_Number: "2910"
+Private_Enterprise_Number: 2910
 total_revenue: 76555000000
 total_assets: 253452000000
 Commons_category: General Electric
@@ -124,13 +126,13 @@ Giphy_username: ge
 short_name: GE
 official_website: https://www.ge.com/
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/General%20Electric%20logo.svg
-ISNI: "0000000109430267"
-Central_Index_Key: "0000040545"
-GUI_number: "11464863"
+ISNI: 0000000109430267
+Central_Index_Key: 0000040545
+GUI_number: 11464863
 IRS_Employer_Identification_Number: 14-0689340
 IPv4_routing_prefix: 3.0.0.0/8
 Legal_Entity_Identifier: 3C7474T6CDKPR9K6YT90
-PermID: "4295903128"
+PermID: 4295903128
 X_Twitter_username:
   - GE_Turkiye
   - generalelectric

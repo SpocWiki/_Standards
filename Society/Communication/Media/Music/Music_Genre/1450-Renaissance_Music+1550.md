@@ -2,6 +2,8 @@
 aliases:
   - Renaissance_music
   - Renaissance music
+  - 1450-Renaissance_Music+1550
+  - 1450-Renaissance Music+1550
 has_id_wikidata: Q201405
 ---
 

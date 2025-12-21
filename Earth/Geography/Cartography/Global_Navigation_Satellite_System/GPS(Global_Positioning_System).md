@@ -1,27 +1,29 @@
 ---
 aliases:
   - Global_Positioning_System
+  - GPS(Global_Positioning_System)
+  - GPS(Global Positioning System)
 has_id_wikidata: Q18822
-manifestation_of: "[[_Standards/WikiData/WD~global_navigation_satellite_system,179435]]"
+manifestation_of: '[[_Standards/WikiData/WD~global_navigation_satellite_system,179435]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~global_navigation_satellite_system,179435]]"
-  - "[[_Standards/WikiData/WD~guidance_system,1707071]]"
-  - "[[_Standards/WikiData/WD~radionavigation_satellite_service,20181002]]"
+  - '[[_Standards/WikiData/WD~global_navigation_satellite_system,179435]]'
+  - '[[_Standards/WikiData/WD~guidance_system,1707071]]'
+  - '[[_Standards/WikiData/WD~radionavigation_satellite_service,20181002]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~avionics,221329]]"
-  - "[[_Standards/WikiData/WD~positioning_system,11886377]]"
-has_part_s_: "[[_Standards/WikiData/WD~GPS_satellite,1069313]]"
-has_use: "[[_Standards/WikiData/WD~geographic_location,2221906]]"
-operator: "[[_Standards/WikiData/WD~United_States_Space_Force,55088961]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~avionics,221329]]'
+  - '[[_Standards/WikiData/WD~positioning_system,11886377]]'
+has_part_s_: '[[_Standards/WikiData/WD~GPS_satellite,1069313]]'
+has_use: '[[_Standards/WikiData/WD~geographic_location,2221906]]'
+operator: '[[_Standards/WikiData/WD~United_States_Space_Force,55088961]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 GitHub_topic: gps
 IMDb_keyword: gps
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/ConstellationGPS.gif
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Gps-304419.svg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/NAVSTAR%20GPS%20logo.png
 official_website: https://www.gps.gov/
-ACM_Classification_Code_2012_: "10011559"
-U_S_National_Archives_Identifier: "10638667"
+ACM_Classification_Code_2012_: 10011559
+U_S_National_Archives_Identifier: 10638667
 Commons_gallery: Global Positioning System
 Commons_category: Global Positioning System
 OpenStreetMap_tag_or_key: Tag:source=GPS

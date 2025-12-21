@@ -4,21 +4,22 @@ aliases:
   - width
   - width
   - has_value_for_width_in_meters
+  - has value for width in meters
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - width
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_width
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

@@ -9,16 +9,16 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - toilet
-layout:
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_toilet Class
 publish: true
-publishDate:
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
@@ -43,19 +43,19 @@ instance_of: "[[_Standards/WikiData/WD~plumbing_fixture,2024731]]"
 part_of: "[[_Standards/WikiData/WD~toilet,7813355]]"
 subclass_of: "[[_Standards/WikiData/WD~facility,13226383]]"
 used_by: "[[_Standards/WikiData/WD~human,5]]"
-Nomenclature_for_Museum_Cataloging: "297"
-GS1_GPC_code: "10002586"
+Nomenclature_for_Museum_Cataloging: 297
+GS1_GPC_code: 10002586
 Commons_gallery: Toilet
 IMDb_keyword: toilet
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wc1.jpg
 Unicode_character: 🚽
-U_S_National_Archives_Identifier: "10662890"
+U_S_National_Archives_Identifier: 10662890
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Flushing%20the%20toilet.ogg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Toilet%20banner.JPG
 Commons_category: Toilets (sanitation fixtures)
 ---
 
-# [[Toilet]] 
+# [[Toilet]] 🚽 
 
 #is_/same_as :: [[../../../../WikiData/WD~Toilet,7857|WD~Toilet,7857]] 
 

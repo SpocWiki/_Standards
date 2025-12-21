@@ -4,6 +4,8 @@ aliases:
   - Af Soomaali
   - اف صومالِ
   - 𐒖𐒍 𐒈𐒝𐒑𐒛𐒐𐒘
+  - Somali_Language
+  - Somali Language
 has_id_wikidata: Q13275
 linguistic_typology:
   - "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
@@ -40,8 +42,8 @@ maintained_by_WikiProject:
   - "[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]"
   - "[[_Standards/WikiData/WD~Q131938994,131938994]]"
 number_of_speakers_writers_or_signers: 16200000
-ABS_ASCL_2011_code: "9208"
-IAB_code: "1178"
+ABS_ASCL_2011_code: 9208
+IAB_code: 1178
 POSIX_locale_identifier: so
 Wikimedia_language_code: so
 IETF_language_tag: so
@@ -61,7 +63,7 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Somali%20ma
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Somali%20phrasebook%20banner%20Eid%20al-Fitr.jpg
 exact_match: http://publications.europa.eu/resource/authority/language/SOM
 Linguasphere_code: 14-GAG-a
-Dewey_Decimal_Classification: "493.54"
+Dewey_Decimal_Classification: 493.54
 Glottolog_code: soma1255
 Commons_category: Somali language
 GOST_7_75_97_code: сом 615

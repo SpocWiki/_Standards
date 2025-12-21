@@ -1,33 +1,34 @@
 ---
 aliases:
   - Wolle
+  - Wool
 has_id_wikidata: Q42329
 made_from_material:
-  - "[[_Standards/WikiData/WD~fur,197204]]"
-  - "[[_Standards/WikiData/WD~wool_hair,115120860]]"
+  - '[[_Standards/WikiData/WD~fur,197204]]'
+  - '[[_Standards/WikiData/WD~wool_hair,115120860]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
   - "[[_Standards/WikiData/WD~Fairchild's_Dictionary_of_Textiles,28888841]]"
-subclass_of: "[[_Standards/WikiData/WD~animal_fiber,874142]]"
-different_from: "[[_Standards/WikiData/WD~Wełna,9372261]]"
-has_use: "[[_Standards/WikiData/WD~wool,11547758]]"
-instance_of: "[[../../../WikiData/WD~fiber,161]]"
-OmegaWiki_Defined_Meaning: "4174"
+subclass_of: '[[_Standards/WikiData/WD~animal_fiber,874142]]'
+different_from: '[[_Standards/WikiData/WD~Wełna,9372261]]'
+has_use: '[[_Standards/WikiData/WD~wool,11547758]]'
+instance_of: '[[../../../WikiData/WD~fiber,161]]'
+OmegaWiki_Defined_Meaning: 4174
 Commons_gallery: Wool
 Commons_category: Wool
-U_S_National_Archives_Identifier: "10643873"
+U_S_National_Archives_Identifier: 10643873
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Merino%20shearing.jpg
 Iconclass_notation: 47H14
 MeSH_tree_code:
   - A13.970
   - A17.360.855
 Colon_Classification: M7;2
-Dewey_Decimal_Classification: "677.31"
+Dewey_Decimal_Classification: 677.31
 ---
 
 # [[Wool]] 

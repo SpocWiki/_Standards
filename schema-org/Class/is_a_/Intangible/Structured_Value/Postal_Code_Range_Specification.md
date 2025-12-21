@@ -4,20 +4,22 @@ aliases:
   - postal_code_range_specification
   - PostalCodeRangeSpecification
   - is_a_postal_code_range_specification
+  - Postal_Code_Range_Specification
+  - Postal Code Range Specification
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - postal_code_range_specification
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_postal_code_range_specification Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

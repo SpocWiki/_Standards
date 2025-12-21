@@ -4,20 +4,22 @@ aliases:
   - menu_section
   - MenuSection
   - is_a_menu_section
+  - Menu_Section
+  - Menu Section
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - menu_section
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_menu_section Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Montenegro
+  - Monténégro
+  - الجبل الأسود
+  - 黑山
+  - Черногория
+has_id_wikidata: Q236
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
@@ -317,7 +324,6 @@ Krugosvet_article: strany_mira/CHERNOGORIYA.html
 IPA_transcription:
   - t͡ɕɪrnɐˈɡorʲɪjə
   - t͡sr̩̂ːnaː ɡɔ̌ra
-has_id_wikidata: Q236
 location:
   - 42.7833
   - 19.4667
@@ -334,18 +340,12 @@ cssclasses:
   - Country
 publish: true
 title: Montenegro
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Montenegro
-  - Monténégro
-  - الجبل الأسود
-  - 黑山
-  - Черногория
+publishDate: ""
+expiryDate: ""
 Languages:
   - sr
   - hu

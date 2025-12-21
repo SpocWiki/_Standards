@@ -1,19 +1,20 @@
 ---
 aliases:
   - Pyrotechnik
+  - Pyrotechnics
 has_id_wikidata: Q474100
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~Feuerwerker,1410101]]"
-  - "[[_Standards/WikiData/WD~pyrotechnician,3411358]]"
-  - "[[_Standards/WikiData/WD~inflammist,17125098]]"
+  - '[[_Standards/WikiData/WD~Feuerwerker,1410101]]'
+  - '[[_Standards/WikiData/WD~pyrotechnician,3411358]]'
+  - '[[_Standards/WikiData/WD~inflammist,17125098]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~scientific_technique,3918374]]"
-  - "[[_Standards/WikiData/WD~science,336]]"
-has_use: "[[_Standards/WikiData/WD~practical_effect,7237336]]"
-OmegaWiki_Defined_Meaning: "1426435"
+  - '[[_Standards/WikiData/WD~scientific_technique,3918374]]'
+  - '[[_Standards/WikiData/WD~science,336]]'
+has_use: '[[_Standards/WikiData/WD~practical_effect,7237336]]'
+OmegaWiki_Defined_Meaning: 1426435
 Commons_category: Pyrotechnics
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/200508%20Firework%20of%20Lake%20of%20Annecy%20festival%20%28267%29.jpg

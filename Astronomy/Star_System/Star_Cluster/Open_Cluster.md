@@ -1,6 +1,8 @@
 ---
 aliases:
   - open cluster
+  - Open_Cluster
+  - Open Cluster
 has_id_wikidata: Q11387
 ---
 

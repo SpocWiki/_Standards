@@ -4,20 +4,22 @@ aliases:
   - data_feed_item
   - DataFeedItem
   - is_a_data_feed_item
+  - Data_Feed_Item
+  - Data Feed Item
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - data_feed_item
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_data_feed_item Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

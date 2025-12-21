@@ -3,23 +3,24 @@ aliases:
   - has next-item
   - nextItem
   - has_next_item
+  - has next item
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - next_item
   - next
   - item
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_next_item
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

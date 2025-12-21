@@ -3,33 +3,35 @@ aliases:
   - Freedom_of_speech
   - Freedom of speech
   - Redefreiheit
+  - Freedom_of_Speech
+  - Freedom of Speech
 has_id_wikidata: Q22692
 instance_of:
-  - "[[_Standards/WikiData/WD~civil_and_political_rights,191600]]"
-  - "[[_Standards/WikiData/WD~cultural_rights,5193405]]"
-  - "[[_Standards/WikiData/WD~civil_liberties,29556]]"
+  - '[[_Standards/WikiData/WD~civil_and_political_rights,191600]]'
+  - '[[_Standards/WikiData/WD~cultural_rights,5193405]]'
+  - '[[_Standards/WikiData/WD~civil_liberties,29556]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Freedom_of_expression,1029773]]"
-  - "[[_Standards/WikiData/WD~Wolność_słowa,11837928]]"
+  - '[[_Standards/WikiData/WD~Freedom_of_expression,1029773]]'
+  - '[[_Standards/WikiData/WD~Wolność_słowa,11837928]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~freedom_of_indifference,3237851]]"
-  - "[[_Standards/WikiData/WD~freedom_of_the_press,22688]]"
+  - '[[_Standards/WikiData/WD~freedom_of_indifference,3237851]]'
+  - '[[_Standards/WikiData/WD~freedom_of_the_press,22688]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~intellectual_freedom,3308639]]"
-  - "[[_Standards/WikiData/WD~freedom_of_expression,3831748]]"
-  - "[[_Standards/WikiData/WD~civil_rights,25447176]]"
-  - "[[_Standards/WikiData/WD~freedom_of_information,26084]]"
+  - '[[_Standards/WikiData/WD~intellectual_freedom,3308639]]'
+  - '[[_Standards/WikiData/WD~freedom_of_expression,3831748]]'
+  - '[[_Standards/WikiData/WD~civil_rights,25447176]]'
+  - '[[_Standards/WikiData/WD~freedom_of_information,26084]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-  - "[[_Standards/WikiData/WD~WikiForHumanRights_2019,78499962]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Freedom_of_speech,18753099]]"
-opposite_of: "[[_Standards/WikiData/WD~censorship,543]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+  - '[[_Standards/WikiData/WD~WikiForHumanRights_2019,78499962]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Freedom_of_speech,18753099]]'
+opposite_of: '[[_Standards/WikiData/WD~censorship,543]]'
 social_media_followers: 51220
-OmegaWiki_Defined_Meaning: "159969"
-U_S_National_Archives_Identifier: "10638380"
+OmegaWiki_Defined_Meaning: 159969
+U_S_National_Archives_Identifier: 10638380
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%22Freedom%20of%20Speech%22%20-%20NARA%20-%20513536%20%28cropped%29.jpg
 equivalent_class: http://dbpedia.org/resource/Freedom_of_speech
 Commons_category: Freedom of speech

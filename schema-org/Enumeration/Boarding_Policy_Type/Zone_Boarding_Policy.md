@@ -4,21 +4,23 @@ aliases:
   - zone_boarding_policy
   - ZoneBoardingPolicy
   - is_a_zone_boarding_policy
+  - Zone_Boarding_Policy
+  - Zone Boarding Policy
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: BoardingPolicyType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - zone_boarding_policy
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_zone_boarding_policy Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

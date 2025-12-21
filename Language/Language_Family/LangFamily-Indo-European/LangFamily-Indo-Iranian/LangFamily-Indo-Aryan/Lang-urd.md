@@ -3,55 +3,56 @@ aliases:
   - Hindi–Urdu
   - Hindustani
   - اُرْدُو
+  - Lang-urd
 has_id_wikidata: Q1617
 Glottolog_code: urdu1245
 GOST_7_75_97_code: урд 730
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ur-%D8%A2%D8%A8%DB%92%20%D8%B3%D9%88%D9%86%D9%B9%DB%92%20%D8%AA%DB%8C%D8%B1%DB%8C%20%D8%A8%D8%A7%D8%B1%DB%8C%20%DA%A9%D8%A7%D9%86%20%DA%86%DA%BE%D9%88%DA%91%20%DA%A9%D9%86%D9%BE%D9%B9%DB%8C%20%D9%85%D8%A7%D8%B1%DB%8C.ogg
-instance_of: "[[_Standards/WikiData/WD~register,286576]]"
+instance_of: '[[_Standards/WikiData/WD~register,286576]]'
 indigenous_to:
-  - "[[_Standards/WikiData/WD~Dards,311977]]"
-  - "[[_Standards/WikiData/WD~Muhajir,12644212]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Bihar,1165]]"
-  - "[[_Standards/WikiData/WD~Jammu_and_Kashmir,1180]]"
-  - "[[_Standards/WikiData/WD~Jharkhand,1184]]"
-  - "[[_Standards/WikiData/WD~Maharashtra,1191]]"
-  - "[[_Standards/WikiData/WD~Delhi,1353]]"
-  - "[[_Standards/WikiData/WD~Hyderabad,1361]]"
+  - '[[_Standards/WikiData/WD~Dards,311977]]'
+  - '[[_Standards/WikiData/WD~Muhajir,12644212]]'
+  - '[[_Standards/WikiData/WD~India,668]]'
+  - '[[_Standards/WikiData/WD~Pakistan,843]]'
+  - '[[_Standards/WikiData/WD~Bihar,1165]]'
+  - '[[_Standards/WikiData/WD~Jammu_and_Kashmir,1180]]'
+  - '[[_Standards/WikiData/WD~Jharkhand,1184]]'
+  - '[[_Standards/WikiData/WD~Maharashtra,1191]]'
+  - '[[_Standards/WikiData/WD~Delhi,1353]]'
+  - '[[_Standards/WikiData/WD~Hyderabad,1361]]'
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~fusional_language,318917]]"
-  - "[[_Standards/WikiData/WD~subject_object_verb,539808]]"
-  - "[[_Standards/WikiData/WD~syllabic_language,7888569]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-subclass_of: "[[_Standards/WikiData/WD~Khariboli,3361977]]"
-pronunciation_variety: "[[_Standards/WikiData/WD~Help_IPA_for_Hindi_and_Urdu,8615167]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Urdu,14616642]]"
-language_regulatory_body: "[[_Standards/WikiData/WD~National_Language_Promotion_Department,14918637]]"
-UNESCO_language_status: "[[_Standards/WikiData/WD~1_safe,20672086]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27115643,27115643]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~1_National,29051546]]"
-different_from: "[[_Standards/WikiData/WD~Urdu_orthography,112887037]]"
-writing_system: "[[_Standards/WikiData/WD~Urdu_orthography,112887037]]"
-part_of: "[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]"
-has_characteristic: "[[_Standards/WikiData/WD~Sahitya_Akademi_Prize_for_Translation_in_Urdu,136719637]]"
+  - '[[_Standards/WikiData/WD~fusional_language,318917]]'
+  - '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
+  - '[[_Standards/WikiData/WD~syllabic_language,7888569]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+subclass_of: '[[_Standards/WikiData/WD~Khariboli,3361977]]'
+pronunciation_variety: '[[_Standards/WikiData/WD~Help_IPA_for_Hindi_and_Urdu,8615167]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Urdu,14616642]]'
+language_regulatory_body: '[[_Standards/WikiData/WD~National_Language_Promotion_Department,14918637]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27115643,27115643]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546]]'
+different_from: '[[_Standards/WikiData/WD~Urdu_orthography,112887037]]'
+writing_system: '[[_Standards/WikiData/WD~Urdu_orthography,112887037]]'
+part_of: '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]'
+has_characteristic: '[[_Standards/WikiData/WD~Sahitya_Akademi_Prize_for_Translation_in_Urdu,136719637]]'
 country:
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Fiji,712]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~Norway,20]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-dialect_of: "[[_Standards/WikiData/WD~Hindustani,11051]]"
+  - '[[_Standards/WikiData/WD~India,668]]'
+  - '[[_Standards/WikiData/WD~Fiji,712]]'
+  - '[[_Standards/WikiData/WD~Pakistan,843]]'
+  - '[[_Standards/WikiData/WD~Canada,16]]'
+  - '[[_Standards/WikiData/WD~Norway,20]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+dialect_of: '[[_Standards/WikiData/WD~Hindustani,11051]]'
 number_of_speakers_writers_or_signers: 68600000
-ABS_ASCL_2011_code: "5212"
-IAB_code: "1202"
+ABS_ASCL_2011_code: 5212
+IAB_code: 1202
 ISO_639_1_code: ur
 POSIX_locale_identifier: ur
 Wikimedia_language_code: ur
 IETF_language_tag: ur
-OmegaWiki_Defined_Meaning: "6293"
+OmegaWiki_Defined_Meaning: 6293
 GitHub_topic: urdu
 subreddit: urdu
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Urdu%20example.svg
@@ -60,7 +61,7 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Geographica
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20639%20Icon%20ur.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Lahore%20banner.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/WIKITONGUES-%20Scarlett%20speaking%20Urdu.webm
-Dewey_Decimal_Classification: "491.439"
+Dewey_Decimal_Classification: 491.439
 Linguasphere_code: 59-AAF-q
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/URDU.html
 Ethnologue_com_language_code: urd

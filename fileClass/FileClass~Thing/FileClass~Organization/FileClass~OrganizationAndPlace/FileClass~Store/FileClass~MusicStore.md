@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MusicStore
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: music
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MusicStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MusicStore
-- is_a_/MusicStore
-- schema-org/MusicStore
+  - class/MusicStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MusicStore
+  - is_a_/MusicStore
+  - schema-org/MusicStore
 tags:
-- class/FileClass
-- class/MusicStore
-- is_a_/MusicStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MusicStore
+  - class/FileClass
+  - class/MusicStore
+  - is_a_/MusicStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MusicStore
 version: 2.0
 ---
 

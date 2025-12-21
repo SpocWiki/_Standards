@@ -1,12 +1,13 @@
 ---
 aliases:
   - Bohren
+  - Drilling
 has_id_wikidata: Q890886
-subclass_of: "[[_Standards/WikiData/WD~machining,192047]]"
-instance_of: "[[_Standards/WikiData/WD~manufacturing_process,1408288]]"
+subclass_of: '[[_Standards/WikiData/WD~machining,192047]]'
+instance_of: '[[_Standards/WikiData/WD~manufacturing_process,1408288]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
 Commons_category: Drilling
 image: http://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20021106-N-7822B-001%20Drilling%20a%20pilot%20hole%20in%20a%20piece%20of%20wood.jpg
 ---

@@ -1,36 +1,37 @@
 ---
 aliases:
   - Altaic languages
+  - LangFamily-Altaic
 has_id_wikidata: Q37845
 tags:
   - Lang_Family
 type: LangFamily
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
-  - "[[_Standards/WikiData/WD~subject_object_verb,539808]]"
+  - '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
+  - '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Nostratic,276314]]"
-  - "[[_Standards/WikiData/WD~Asian_languages,98791755]]"
+  - '[[_Standards/WikiData/WD~Nostratic,276314]]'
+  - '[[_Standards/WikiData/WD~Asian_languages,98791755]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~sprachbund,839463]]"
-  - "[[_Standards/WikiData/WD~language_family,25295]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Altaic_languages,6676877]]"
-follows: "[[_Standards/WikiData/WD~Proto_Altaic,20476501]]"
-different_from: "[[_Standards/WikiData/WD~Altai,28176]]"
+  - '[[_Standards/WikiData/WD~sprachbund,839463]]'
+  - '[[_Standards/WikiData/WD~language_family,25295]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Altaic_languages,6676877]]'
+follows: '[[_Standards/WikiData/WD~Proto_Altaic,20476501]]'
+different_from: '[[_Standards/WikiData/WD~Altai,28176]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Mongolic,33750]]"
-  - "[[_Standards/WikiData/WD~Turkic,34090]]"
-  - "[[_Standards/WikiData/WD~Tungusic,34230]]"
+  - '[[_Standards/WikiData/WD~Mongolic,33750]]'
+  - '[[_Standards/WikiData/WD~Turkic,34090]]'
+  - '[[_Standards/WikiData/WD~Tungusic,34230]]'
 ISO_639_5_code: tut
 IETF_language_tag: tut
 ISO_639_2_code: tut
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Lenguas%20altaicas.png
-P8189: "987007294885505171"
+P8189: 987007294885505171
 Glottolog_code: alta1235
 WALS_family_code: altaic
 Commons_category: Altaic languages

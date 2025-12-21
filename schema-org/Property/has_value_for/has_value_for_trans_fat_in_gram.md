@@ -4,21 +4,22 @@ aliases:
   - trans-fat-content
   - transFatContent
   - has_value_for_trans_fat_in_gram
+  - has value for trans fat in gram
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - trans-fat-content
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_trans-fat-content
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Gena Rowlands"
-- "Virginia Cathryn Rowlands"
+  - Gena Rowlands
+  - Virginia Cathryn Rowlands
+  - Rowlands,Gena
 ---
 
 #has_/time_/started ::  1930-06-19  

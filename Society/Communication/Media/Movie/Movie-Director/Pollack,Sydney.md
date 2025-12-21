@@ -4,58 +4,59 @@ aliases:
   - Sydney Irwin Pollack
   - Sydney Pollack
   - Pollack
+  - Pollack,Sydney
 has_id_wikidata: Q51522
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
-  - "[[_Standards/WikiData/WD~European_Film_Award_for_Best_Film,777921]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+  - '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Film,777921]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
-  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Directing_for_a_Drama_Series,583972]]"
-  - "[[_Standards/WikiData/WD~Berlinale_Camera,793585]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Motion_Picture_Drama,1011509]]"
-  - "[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]"
-cause_of_death: "[[_Standards/WikiData/WD~stomach_cancer,189588]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Directing_for_a_Drama_Series,583972]]'
+  - '[[_Standards/WikiData/WD~Berlinale_Camera,793585]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Motion_Picture_Drama,1011509]]'
+  - '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
+cause_of_death: '[[_Standards/WikiData/WD~stomach_cancer,189588]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Out_of_Africa,208266]]"
-  - "[[_Standards/WikiData/WD~Tootsie,221249]]"
-  - "[[_Standards/WikiData/WD~Three_Days_of_the_Condor,458033]]"
-place_of_birth: "[[_Standards/WikiData/WD~Lafayette,638187]]"
+  - '[[_Standards/WikiData/WD~Out_of_Africa,208266]]'
+  - '[[_Standards/WikiData/WD~Tootsie,221249]]'
+  - '[[_Standards/WikiData/WD~Three_Days_of_the_Condor,458033]]'
+place_of_birth: '[[_Standards/WikiData/WD~Lafayette,638187]]'
 occupation:
-  - "[[_Standards/WikiData/WD~character_actor,948329]]"
-  - "[[_Standards/WikiData/WD~television_director,2059704]]"
-  - "[[_Standards/WikiData/WD~aircraft_pilot,2095549]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
+  - '[[_Standards/WikiData/WD~character_actor,948329]]'
+  - '[[_Standards/WikiData/WD~television_director,2059704]]'
+  - '[[_Standards/WikiData/WD~aircraft_pilot,2095549]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~director,3455803]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Neighborhood_Playhouse_School_of_the_Theatre,993267]]"
-  - "[[_Standards/WikiData/WD~Stella_Adler_Studio_of_Acting,7607037]]"
-student_of: "[[_Standards/WikiData/WD~Sanford_Meisner,1358028]]"
+  - '[[_Standards/WikiData/WD~Neighborhood_Playhouse_School_of_the_Theatre,993267]]'
+  - '[[_Standards/WikiData/WD~Stella_Adler_Studio_of_Acting,7607037]]'
+student_of: '[[_Standards/WikiData/WD~Sanford_Meisner,1358028]]'
 place_of_death:
-  - "[[_Standards/WikiData/WD~Pacific_Palisades,1370207]]"
-  - "[[_Standards/WikiData/WD~Los_Angeles,65]]"
-different_from: "[[_Standards/WikiData/WD~Sidney_Polak,2281975]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Sydney_Pollack,13231459]]"
+  - '[[_Standards/WikiData/WD~Pacific_Palisades,1370207]]'
+  - '[[_Standards/WikiData/WD~Los_Angeles,65]]'
+different_from: '[[_Standards/WikiData/WD~Sidney_Polak,2281975]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Sydney_Pollack,13231459]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Irwin,16277131]]"
-  - "[[_Standards/WikiData/WD~Sydney,18915128]]"
-family_name: "[[_Standards/WikiData/WD~Pollack,21491272]]"
-position_held: "[[_Standards/WikiData/WD~President_of_the_Jury_at_the_Cannes_Festival,23958341]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-child: "[[_Standards/WikiData/WD~Rachel_Pollack,117474502]]"
-sibling: "[[_Standards/WikiData/WD~Q134584671,134584671]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Irwin,16277131]]'
+  - '[[_Standards/WikiData/WD~Sydney,18915128]]'
+family_name: '[[_Standards/WikiData/WD~Pollack,21491272]]'
+position_held: '[[_Standards/WikiData/WD~President_of_the_Jury_at_the_Cannes_Festival,23958341]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+child: '[[_Standards/WikiData/WD~Rachel_Pollack,117474502]]'
+sibling: '[[_Standards/WikiData/WD~Q134584671,134584671]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 3
 height: 182
 Commons_category: Sydney Pollack
@@ -65,7 +66,7 @@ date_of_birth: 1934-07-01T00:00:00Z
 work_period_end_: 2008-01-01T00:00:00Z
 date_of_death: 2008-05-26T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sydney%20Pollack.jpg
-ISNI: "0000000121394115"
+ISNI: 0000000121394115
 Plex_person_key: 5d77682585719b001f3a083e
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/POLLAK_SIDNE.html
 birth_name: Sydney Irwin Pollack

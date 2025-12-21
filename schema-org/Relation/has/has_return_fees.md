@@ -3,23 +3,24 @@ aliases:
   - has return-fees
   - returnFees
   - has_return_fees
+  - has return fees
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - return_fees
   - return
   - fees
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_return_fees
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

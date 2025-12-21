@@ -14,68 +14,68 @@ name:
   - Winterfylleðes
   - кастрычніка
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 named_after:
-  - "[[_Standards/WikiData/WD~hemp_hurds,1362404]]"
-  - "[[_Standards/WikiData/WD~wine,282]]"
-  - "[[_Standards/WikiData/WD~yellow,943]]"
-  - "[[_Standards/WikiData/WD~winter,1311]]"
-  - "[[_Standards/WikiData/WD~8,23355]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_October_calendar,6874822]]"
+  - '[[_Standards/WikiData/WD~hemp_hurds,1362404]]'
+  - '[[_Standards/WikiData/WD~wine,282]]'
+  - '[[_Standards/WikiData/WD~yellow,943]]'
+  - '[[_Standards/WikiData/WD~winter,1311]]'
+  - '[[_Standards/WikiData/WD~8,23355]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_October_calendar,6874822]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Oktober,10608127]]"
-  - "[[_Standards/WikiData/WD~Octobre,19957246]]"
-subclass_of: "[[_Standards/WikiData/WD~month_of_the_Gregorian_calendar,18602249]]"
+  - '[[_Standards/WikiData/WD~Oktober,10608127]]'
+  - '[[_Standards/WikiData/WD~Octobre,19957246]]'
+subclass_of: '[[_Standards/WikiData/WD~month_of_the_Gregorian_calendar,18602249]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q28790363,28790363]]"
-  - "[[_Standards/WikiData/WD~Q56299441,56299441]]"
-  - "[[_Standards/WikiData/WD~Q117477776,117477776]]"
-instance_of: "[[_Standards/WikiData/WD~calendar_month,47018901]]"
+  - '[[_Standards/WikiData/WD~Q28790363,28790363]]'
+  - '[[_Standards/WikiData/WD~Q56299441,56299441]]'
+  - '[[_Standards/WikiData/WD~Q117477776,117477776]]'
+instance_of: '[[_Standards/WikiData/WD~calendar_month,47018901]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~October_1,2913]]"
-  - "[[_Standards/WikiData/WD~October_15,2919]]"
-  - "[[_Standards/WikiData/WD~October_14,2922]]"
-  - "[[_Standards/WikiData/WD~October_9,2923]]"
-  - "[[_Standards/WikiData/WD~October_12,2920]]"
-  - "[[_Standards/WikiData/WD~October_10,2921]]"
-  - "[[_Standards/WikiData/WD~October_7,2926]]"
-  - "[[_Standards/WikiData/WD~October_11,2927]]"
-  - "[[_Standards/WikiData/WD~October_8,2924]]"
-  - "[[_Standards/WikiData/WD~October_13,2925]]"
-  - "[[_Standards/WikiData/WD~October_5,2930]]"
-  - "[[_Standards/WikiData/WD~October_3,2931]]"
-  - "[[_Standards/WikiData/WD~October_6,2928]]"
-  - "[[_Standards/WikiData/WD~October_4,2929]]"
-  - "[[_Standards/WikiData/WD~October_2,2932]]"
-  - "[[_Standards/WikiData/WD~October_30,2950]]"
-  - "[[_Standards/WikiData/WD~October_29,2951]]"
-  - "[[_Standards/WikiData/WD~October_31,2949]]"
-  - "[[_Standards/WikiData/WD~October_25,2954]]"
-  - "[[_Standards/WikiData/WD~October_24,2955]]"
-  - "[[_Standards/WikiData/WD~October_28,2952]]"
-  - "[[_Standards/WikiData/WD~October_26,2953]]"
-  - "[[_Standards/WikiData/WD~October_23,2958]]"
-  - "[[_Standards/WikiData/WD~October_20,2959]]"
-  - "[[_Standards/WikiData/WD~October_27,2956]]"
-  - "[[_Standards/WikiData/WD~October_22,2957]]"
-  - "[[_Standards/WikiData/WD~October_17,2962]]"
-  - "[[_Standards/WikiData/WD~October_16,2963]]"
-  - "[[_Standards/WikiData/WD~October_21,2960]]"
-  - "[[_Standards/WikiData/WD~October_19,2961]]"
-  - "[[_Standards/WikiData/WD~October_18,2964]]"
+  - '[[_Standards/WikiData/WD~October_1,2913]]'
+  - '[[_Standards/WikiData/WD~October_15,2919]]'
+  - '[[_Standards/WikiData/WD~October_14,2922]]'
+  - '[[_Standards/WikiData/WD~October_9,2923]]'
+  - '[[_Standards/WikiData/WD~October_12,2920]]'
+  - '[[_Standards/WikiData/WD~October_10,2921]]'
+  - '[[_Standards/WikiData/WD~October_7,2926]]'
+  - '[[_Standards/WikiData/WD~October_11,2927]]'
+  - '[[_Standards/WikiData/WD~October_8,2924]]'
+  - '[[_Standards/WikiData/WD~October_13,2925]]'
+  - '[[_Standards/WikiData/WD~October_5,2930]]'
+  - '[[_Standards/WikiData/WD~October_3,2931]]'
+  - '[[_Standards/WikiData/WD~October_6,2928]]'
+  - '[[_Standards/WikiData/WD~October_4,2929]]'
+  - '[[_Standards/WikiData/WD~October_2,2932]]'
+  - '[[_Standards/WikiData/WD~October_30,2950]]'
+  - '[[_Standards/WikiData/WD~October_29,2951]]'
+  - '[[_Standards/WikiData/WD~October_31,2949]]'
+  - '[[_Standards/WikiData/WD~October_25,2954]]'
+  - '[[_Standards/WikiData/WD~October_24,2955]]'
+  - '[[_Standards/WikiData/WD~October_28,2952]]'
+  - '[[_Standards/WikiData/WD~October_26,2953]]'
+  - '[[_Standards/WikiData/WD~October_23,2958]]'
+  - '[[_Standards/WikiData/WD~October_20,2959]]'
+  - '[[_Standards/WikiData/WD~October_27,2956]]'
+  - '[[_Standards/WikiData/WD~October_22,2957]]'
+  - '[[_Standards/WikiData/WD~October_17,2962]]'
+  - '[[_Standards/WikiData/WD~October_16,2963]]'
+  - '[[_Standards/WikiData/WD~October_21,2960]]'
+  - '[[_Standards/WikiData/WD~October_19,2961]]'
+  - '[[_Standards/WikiData/WD~October_18,2964]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Julian_calendar,11184]]"
-  - "[[_Standards/WikiData/WD~Gregorian_calendar,12138]]"
-follows: "[[_Standards/WikiData/WD~September,123]]"
-followed_by: "[[_Standards/WikiData/WD~November,125]]"
+  - '[[_Standards/WikiData/WD~Julian_calendar,11184]]'
+  - '[[_Standards/WikiData/WD~Gregorian_calendar,12138]]'
+follows: '[[_Standards/WikiData/WD~September,123]]'
+followed_by: '[[_Standards/WikiData/WD~November,125]]'
 time_index: 9.5
-OmegaWiki_Defined_Meaning: "6979"
+OmegaWiki_Defined_Meaning: 6979
 Commons_gallery: October
 Commons_category: October
 Iconclass_notation: 23I41

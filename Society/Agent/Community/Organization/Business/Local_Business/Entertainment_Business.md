@@ -4,20 +4,22 @@ aliases:
   - entertainment_business
   - EntertainmentBusiness
   - is_an_entertainment_business
+  - Entertainment_Business
+  - Entertainment Business
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - entertainment_business
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_entertainment_business Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

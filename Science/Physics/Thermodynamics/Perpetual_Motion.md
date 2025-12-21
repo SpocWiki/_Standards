@@ -2,20 +2,22 @@
 aliases:
   - Perpetual motion
   - Perpetuum mobile
+  - Perpetual_Motion
+  - Perpetual Motion
 has_id_wikidata: Q12623
 subclass_of:
-  - "[[_Standards/WikiData/WD~motion,79782]]"
-  - "[[_Standards/WikiData/WD~hypothetical_technology,17028492]]"
+  - '[[_Standards/WikiData/WD~motion,79782]]'
+  - '[[_Standards/WikiData/WD~hypothetical_technology,17028492]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Perpetuum_Mobile,512946]]"
-  - "[[_Standards/WikiData/WD~Perpetuum_Mobile,110905247]]"
-  - "[[_Standards/WikiData/WD~perpetual_motion_machine,113129622]]"
+  - '[[_Standards/WikiData/WD~Perpetuum_Mobile,512946]]'
+  - '[[_Standards/WikiData/WD~Perpetuum_Mobile,110905247]]'
+  - '[[_Standards/WikiData/WD~perpetual_motion_machine,113129622]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Deutsches%20Museum%206.jpg
 ---

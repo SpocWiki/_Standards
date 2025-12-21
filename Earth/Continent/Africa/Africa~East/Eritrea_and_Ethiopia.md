@@ -1,12 +1,15 @@
 ---
+aliases:
+  - Eritrea_and_Ethiopia
+  - Eritrea and Ethiopia
 confidential: public
 isDeleted: false
 location:
-- 9.03
-- 38.74
+  - 9.03
+  - 38.74
 SpocWebEntityId: 76720
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

@@ -1,6 +1,8 @@
 ---
+aliases:
+  - LangFamily-Eskimo–Aleut
 tags:
-- Lang_Family
+  - Lang_Family
 type: LangFamily
 ---
 

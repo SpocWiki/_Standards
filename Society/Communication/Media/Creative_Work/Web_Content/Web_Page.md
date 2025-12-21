@@ -4,20 +4,22 @@ aliases:
   - web_page
   - WebPage
   - is_a_web_page
+  - Web_Page
+  - Web Page
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - web_page
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_web_page Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

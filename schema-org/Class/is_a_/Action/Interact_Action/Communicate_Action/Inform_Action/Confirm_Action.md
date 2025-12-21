@@ -4,20 +4,22 @@ aliases:
   - confirm_action
   - ConfirmAction
   - is_a_confirm_action
+  - Confirm_Action
+  - Confirm Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - confirm_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_confirm_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

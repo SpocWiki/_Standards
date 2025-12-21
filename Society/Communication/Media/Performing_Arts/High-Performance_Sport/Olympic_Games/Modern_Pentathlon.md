@@ -1,27 +1,29 @@
 ---
 aliases:
   - Moderner Fünfkampf
+  - Modern_Pentathlon
+  - Modern Pentathlon
 has_id_wikidata: Q32485
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Pierre_de_Coubertin,82984]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Pierre_de_Coubertin,82984]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~shooting_sport,206989]]"
-  - "[[_Standards/WikiData/WD~show_jumping,211773]]"
-  - "[[_Standards/WikiData/WD~cross_country_running,500050]]"
-  - "[[_Standards/WikiData/WD~cross_country_equestrianism,2483906]]"
-  - "[[_Standards/WikiData/WD~obstacle_racing,4703797]]"
-  - "[[_Standards/WikiData/WD~200_metres_freestyle,9130691]]"
-  - "[[_Standards/WikiData/WD~épée_fencing,25521891]]"
-  - "[[_Standards/WikiData/WD~Laser_Run,65238837]]"
-  - "[[_Standards/WikiData/WD~300_metre_freestyle,78155572]]"
+  - '[[_Standards/WikiData/WD~shooting_sport,206989]]'
+  - '[[_Standards/WikiData/WD~show_jumping,211773]]'
+  - '[[_Standards/WikiData/WD~cross_country_running,500050]]'
+  - '[[_Standards/WikiData/WD~cross_country_equestrianism,2483906]]'
+  - '[[_Standards/WikiData/WD~obstacle_racing,4703797]]'
+  - '[[_Standards/WikiData/WD~200_metres_freestyle,9130691]]'
+  - '[[_Standards/WikiData/WD~épée_fencing,25521891]]'
+  - '[[_Standards/WikiData/WD~Laser_Run,65238837]]'
+  - '[[_Standards/WikiData/WD~300_metre_freestyle,78155572]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~pentad,29428403]]"
-  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-subclass_of: "[[_Standards/WikiData/WD~pentathlon,1163125]]"
-authority: "[[_Standards/WikiData/WD~Union_Internationale_de_Pentathlon_Moderne,1347281]]"
-practiced_by: "[[_Standards/WikiData/WD~modern_pentathlete,15972912]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-country_of_origin: "[[_Standards/WikiData/WD~Sweden,34]]"
+  - '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+  - '[[_Standards/WikiData/WD~pentad,29428403]]'
+  - '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+subclass_of: '[[_Standards/WikiData/WD~pentathlon,1163125]]'
+authority: '[[_Standards/WikiData/WD~Union_Internationale_de_Pentathlon_Moderne,1347281]]'
+practiced_by: '[[_Standards/WikiData/WD~modern_pentathlete,15972912]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+country_of_origin: '[[_Standards/WikiData/WD~Sweden,34]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Modern%20pentathlon%20pictogram%20%28post-2025%29.svg
 IPTC_NewsCode: mediatopic/20000989
 Commons_gallery: Modern pentathlon

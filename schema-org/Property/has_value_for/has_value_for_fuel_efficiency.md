@@ -4,21 +4,22 @@ aliases:
   - fuel-efficiency
   - fuelEfficiency
   - has_value_for_fuel_efficiency
+  - has value for fuel efficiency
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - fuel-efficiency
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_fuel-efficiency
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

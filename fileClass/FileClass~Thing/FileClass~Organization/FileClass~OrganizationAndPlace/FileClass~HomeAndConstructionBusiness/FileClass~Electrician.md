@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Electrician
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness
 fields: []
 icon: cable
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Electrician
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/Electrician
-- is_an_/Electrician
-- schema-org/Electrician
+  - class/Electrician
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/Electrician
+  - is_an_/Electrician
+  - schema-org/Electrician
 tags:
-- class/FileClass
-- class/Electrician
-- '#is_an_/Electrician'
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/Electrician
+  - class/FileClass
+  - class/Electrician
+  - '#is_an_/Electrician'
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/Electrician
 version: 2.0
 ---
 

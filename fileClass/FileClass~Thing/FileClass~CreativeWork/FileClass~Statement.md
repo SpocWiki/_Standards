@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Statement
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Statement
-- class/Thing/CreativeWork/Statement
-- is_a_/Statement
-- schema-org/Statement
+  - class/Statement
+  - class/Thing/CreativeWork/Statement
+  - is_a_/Statement
+  - schema-org/Statement
 tags:
-- class/FileClass
-- class/Statement
-- is_a_/Statement
-- class/Thing/CreativeWork/Statement
+  - class/FileClass
+  - class/Statement
+  - is_a_/Statement
+  - class/Thing/CreativeWork/Statement
 version: 2.0
 ---
 

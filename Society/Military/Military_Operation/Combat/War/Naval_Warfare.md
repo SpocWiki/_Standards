@@ -1,14 +1,16 @@
 ---
 aliases:
   - Naval warfare
+  - Naval_Warfare
+  - Naval Warfare
 has_id_wikidata: Q876274
 subclass_of:
-  - "[[_Standards/WikiData/WD~conflict,180684]]"
-  - "[[_Standards/WikiData/WD~warfare,12786121]]"
+  - '[[_Standards/WikiData/WD~conflict,180684]]'
+  - '[[_Standards/WikiData/WD~warfare,12786121]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_war,124867660]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_war,124867660]]'
 Commons_category: Naval warfare
 ---
 

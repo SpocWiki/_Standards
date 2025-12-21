@@ -4,21 +4,23 @@ aliases:
   - merchant_return_finite_return_window
   - MerchantReturnFiniteReturnWindow
   - is_a_merchant_return_finite_return_window
+  - Merchant_Return_Finite_Return_Window
+  - Merchant Return Finite Return Window
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MerchantReturnEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - merchant_return_finite_return_window
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_merchant_return_finite_return_window Class
 publish: true
-publishDate:
+publishDate: ''
 supersedes: ProductReturnFiniteReturnWindow
 tags:
   - class/Class

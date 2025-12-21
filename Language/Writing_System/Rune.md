@@ -6,34 +6,34 @@ aliases:
   - futharks
 has_id_wikidata: Q82996
 script_directionality:
-  - "[[_Standards/WikiData/WD~boustrophedon,194233]]"
-  - "[[_Standards/WikiData/WD~left_to_right,17321844]]"
+  - '[[_Standards/WikiData/WD~boustrophedon,194233]]'
+  - '[[_Standards/WikiData/WD~left_to_right,17321844]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
-  - "[[_Standards/WikiData/WD~Q105336459,105336459]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
-studied_by: "[[_Standards/WikiData/WD~runology,1374447]]"
-subclass_of: "[[_Standards/WikiData/WD~alphabetic_writing_system,2182919]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+  - '[[_Standards/WikiData/WD~Q105336459,105336459]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+studied_by: '[[_Standards/WikiData/WD~runology,1374447]]'
+subclass_of: '[[_Standards/WikiData/WD~alphabetic_writing_system,2182919]]'
 different_from:
-  - "[[_Standards/WikiData/WD~runo_song,4400125]]"
-  - "[[_Standards/WikiData/WD~runic_script_alphabet,135271248]]"
-based_on: "[[_Standards/WikiData/WD~Old_Italic,4891256]]"
-derivative_work: "[[_Standards/WikiData/WD~pseudo_runes,7254444]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_rune,10560793]]"
-has_part_s_: "[[_Standards/WikiData/WD~rune_letter,19847385]]"
-instance_of: "[[_Standards/WikiData/WD~natural_writing_system,29517555]]"
+  - '[[_Standards/WikiData/WD~runo_song,4400125]]'
+  - '[[_Standards/WikiData/WD~runic_script_alphabet,135271248]]'
+based_on: '[[_Standards/WikiData/WD~Old_Italic,4891256]]'
+derivative_work: '[[_Standards/WikiData/WD~pseudo_runes,7254444]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_rune,10560793]]'
+has_part_s_: '[[_Standards/WikiData/WD~rune_letter,19847385]]'
+instance_of: '[[_Standards/WikiData/WD~natural_writing_system,29517555]]'
 language_of_work_or_name:
-  - "[[_Standards/WikiData/WD~Swedish,9027]]"
-  - "[[_Standards/WikiData/WD~Germanic_languages,21200]]"
-  - "[[_Standards/WikiData/WD~Old_Icelandic,34909]]"
-  - "[[_Standards/WikiData/WD~Old_Norse,35505]]"
-ISO_15924_numeric_code: "211"
+  - '[[_Standards/WikiData/WD~Swedish,9027]]'
+  - '[[_Standards/WikiData/WD~Germanic_languages,21200]]'
+  - '[[_Standards/WikiData/WD~Old_Icelandic,34909]]'
+  - '[[_Standards/WikiData/WD~Old_Norse,35505]]'
+ISO_15924_numeric_code: 211
 GitHub_topic: runes
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Runen%20futhark.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CodexRunicus.jpeg

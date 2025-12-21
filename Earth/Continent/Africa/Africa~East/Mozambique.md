@@ -1,5 +1,4 @@
 ---
-age_of_majority: 18
 aliases:
   - Mozambique
   - موزامبيق
@@ -7,6 +6,8 @@ aliases:
   - Мозамбик
   - the Republic of Mozambique
   - la República de Mozambique
+has_id_wikidata: Q1029
+age_of_majority: 18
 anthem: "[[_Standards/WikiData/WD~Pátria_Amada,682613]]"
 area: 801590
 birth_rate:
@@ -150,7 +151,7 @@ ethnic_group:
   - "[[_Standards/WikiData/WD~Indians_in_Mozambique,1516782]]"
   - "[[_Standards/WikiData/WD~White_Africans_of_European_ancestry,2704511]]"
 executive_body: "[[_Standards/WikiData/WD~government_of_Mozambique,11883251]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 15884940
   - 15433808
@@ -166,7 +167,6 @@ GitHub_topic: mozambique
 Happy_Planet_Index_score: 44.2
 hashtag: Mozambique
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
-has_id_wikidata: Q1029
 has_time_started: 1975-06-25
 headquarters_locations: "[[_Standards/WikiData/WD~Maputo,3889]]"
 head_of_government: "[[_Standards/WikiData/WD~Adriano_Maleiane,44275924]]"
@@ -192,7 +192,7 @@ ISO_3166_1_alpha_3_code: MOZ
 ISO_3166_1_numeric_code: 508
 isReadOnly: false
 ITU_letter_code: MOZ
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/MOZAMBIK.html
 Languages:
   - pt-MZ
@@ -240,13 +240,13 @@ language_used:
   - "[[_Standards/WikiData/WD~Makonde,35172]]"
   - "[[_Standards/WikiData/WD~Lomwe,35824]]"
   - "[[_Standards/WikiData/WD~Yao,36902]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~Assembly_of_the_Republic,1848595]]"
 Libris_URI: hftwvqh11khjtp0
 licence_plate_code: MOC
 license: CC BY-SA 4.0
 life_expectancy: 58.311
-linkTitle:
+linkTitle: ""
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
 located_in_time_zone:
   - "[[_Standards/WikiData/WD~Africa_Maputo,4689511]]"
@@ -319,7 +319,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Mo%C3%A7ambique.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AE%E0%A7%8B%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%95.wav
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750]]"
 rural_population:
   - 19222873

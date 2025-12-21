@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Enzyme
 has_id_wikidata: Q8047
 ---
 

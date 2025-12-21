@@ -1,30 +1,31 @@
 ---
 aliases:
   - Operating system
+  - OS(Operating-System)
 has_id_wikidata: Q9135
 Commons_category: Operating systems
 EntitySchema_for_this_class:
   - E102
   - E179
-follows: "[[_Standards/WikiData/WD~kernel,9662]]"
+follows: '[[_Standards/WikiData/WD~kernel,9662]]'
 GitHub_topic: operating-system
-has_list: "[[_Standards/WikiData/WD~list_of_operating_systems,756435]]"
+has_list: '[[_Standards/WikiData/WD~list_of_operating_systems,756435]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~file_system,174989]]"
-  - "[[_Standards/WikiData/WD~access_control,228502]]"
-  - "[[_Standards/WikiData/WD~scheduling,1123036]]"
-  - "[[_Standards/WikiData/WD~memory_manager,3761391]]"
-  - "[[_Standards/WikiData/WD~kernel,9662]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~operating_system_component,30059018]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_operating_systems,1143393]]"
+  - '[[_Standards/WikiData/WD~file_system,174989]]'
+  - '[[_Standards/WikiData/WD~access_control,228502]]'
+  - '[[_Standards/WikiData/WD~scheduling,1123036]]'
+  - '[[_Standards/WikiData/WD~memory_manager,3761391]]'
+  - '[[_Standards/WikiData/WD~kernel,9662]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~operating_system_component,30059018]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_operating_systems,1143393]]'
 IAB_code: 615
 IEV_number: 171-05-01
-instance_of: "[[_Standards/WikiData/WD~software_category,17155032]]"
+instance_of: '[[_Standards/WikiData/WD~software_category,17155032]]'
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/OPERATSIONNAYA_SISTEMA.html
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Software,15659621]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Software,15659621]]'
 OmegaWiki_Defined_Meaning: 487336
-part_of: "[[_Standards/WikiData/WD~computing_platform,241317]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q96464904,96464904]]"
+part_of: '[[_Standards/WikiData/WD~computing_platform,241317]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q96464904,96464904]]'
 properties_for_this_type:
   - programmed in
   - platform
@@ -97,13 +98,13 @@ short_name:
   - ОС
   - ОС
 Stack_Exchange_tag: https://stackoverflow.com/tags/operating-system
-studied_in: "[[_Standards/WikiData/WD~computer_science,21198]]"
-subclass_of: "[[_Standards/WikiData/WD~system_software,676202]]"
+studied_in: '[[_Standards/WikiData/WD~computer_science,21198]]'
+subclass_of: '[[_Standards/WikiData/WD~system_software,676202]]'
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_OS,5856866]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox_OS_version,6326708]]"
-  - "[[_Standards/WikiData/WD~Template_Operating_system,7731997]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Operating_systems,108630976]]"
+  - '[[_Standards/WikiData/WD~Template_Infobox_OS,5856866]]'
+  - '[[_Standards/WikiData/WD~Template_Infobox_OS_version,6326708]]'
+  - '[[_Standards/WikiData/WD~Template_Operating_system,7731997]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Operating_systems,108630976]]'
 Wikidata_property: operating system
 Wolfram_Language_entity_code: Entity["Concept", "OperatingSystem::8bhpb"]
 confidential: private
@@ -114,26 +115,26 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: ''
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 lang: en
-layout:
+layout: ''
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 publish: false
-publishDate:
+publishDate: ''
 tags:
-  - "{ newTitle: }":
+  - '{ newTitle: }': ''
   - excalidraw
 title:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 type: private_note
 ---
 

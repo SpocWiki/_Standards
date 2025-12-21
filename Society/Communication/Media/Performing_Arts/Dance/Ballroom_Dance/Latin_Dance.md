@@ -1,6 +1,8 @@
 ---
 aliases:
   - Latin dance
+  - Latin_Dance
+  - Latin Dance
 has_id_wikidata: Q1457972
 ---
 

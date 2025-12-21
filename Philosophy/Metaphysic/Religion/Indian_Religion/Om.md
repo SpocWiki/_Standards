@@ -4,22 +4,23 @@ aliases:
   - ओम्
   - Oṃ
   - Auṃ
-  - Onkara 
+  - Onkara
   - Omkara
   - Pranava
+  - Om
 has_id_wikidata: Q184128
-part_of: "[[_Standards/WikiData/WD~om_mani_padme_hum,241652]]"
-described_by_source: "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~A_un,4647014]]"
+part_of: '[[_Standards/WikiData/WD~om_mani_padme_hum,241652]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~A_un,4647014]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~religious_concept,23847174]]"
-  - "[[_Standards/WikiData/WD~religious_symbol,60469796]]"
-  - "[[_Standards/WikiData/WD~syllable,8188]]"
+  - '[[_Standards/WikiData/WD~religious_concept,23847174]]'
+  - '[[_Standards/WikiData/WD~religious_symbol,60469796]]'
+  - '[[_Standards/WikiData/WD~syllable,8188]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~Buddhism,748]]"
-  - "[[_Standards/WikiData/WD~Hinduism,9089]]"
-  - "[[_Standards/WikiData/WD~Jainism,9232]]"
-  - "[[_Standards/WikiData/WD~Sikhism,9316]]"
+  - '[[_Standards/WikiData/WD~Buddhism,748]]'
+  - '[[_Standards/WikiData/WD~Hinduism,9089]]'
+  - '[[_Standards/WikiData/WD~Jainism,9232]]'
+  - '[[_Standards/WikiData/WD~Sikhism,9316]]'
 native_label:
   - ॐ
   - 옴

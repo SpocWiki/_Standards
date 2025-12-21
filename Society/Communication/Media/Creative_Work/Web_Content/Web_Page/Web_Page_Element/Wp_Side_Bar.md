@@ -4,20 +4,22 @@ aliases:
   - wp_side_bar
   - WPSideBar
   - is_a_wp_side_bar
+  - Wp_Side_Bar
+  - Wp Side Bar
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wp_side_bar
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wp_side_bar Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

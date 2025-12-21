@@ -1,6 +1,7 @@
 ---
 aliases:
   - Kontrapunkt
+  - Counterpoint
 has_id_wikidata: Q186393
 ---
 

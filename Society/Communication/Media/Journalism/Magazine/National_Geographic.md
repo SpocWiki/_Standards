@@ -3,37 +3,38 @@ aliases:
   - National Geographic
   - The National Geographic Magazine
   - Nat Geo
+  - National_Geographic
 has_id_wikidata: Q5973845
 domain_name: nationalgeographic.com
 ISO_4_abbreviation: Natl. Geogr.
 CODEN: NGGMAF
 document_file_on_Wikimedia_Commons: http://commons.wikimedia.org/wiki/Special:FilePath/The%20National%20geographic%20magazine%20%28IA%20nationalgeograph11889nati%29.pdf
-publisher: "[[_Standards/WikiData/WD~National_Geographic_Society,167186]]"
-author: "[[_Standards/WikiData/WD~National_Geographic_Society,167186]]"
+publisher: '[[_Standards/WikiData/WD~National_Geographic_Society,167186]]'
+author: '[[_Standards/WikiData/WD~National_Geographic_Society,167186]]'
 different_from:
-  - "[[_Standards/WikiData/WD~National_Geographic_Society,167186]]"
-  - "[[_Standards/WikiData/WD~National_Geographic_Eesti,20529513]]"
-indexed_in_bibliographic_review: "[[_Standards/WikiData/WD~Scopus,371467]]"
+  - '[[_Standards/WikiData/WD~National_Geographic_Society,167186]]'
+  - '[[_Standards/WikiData/WD~National_Geographic_Eesti,20529513]]'
+indexed_in_bibliographic_review: '[[_Standards/WikiData/WD~Scopus,371467]]'
 main_subject:
-  - "[[_Standards/WikiData/WD~natural_history,484591]]"
-  - "[[_Standards/WikiData/WD~photojournalism,506858]]"
-  - "[[_Standards/WikiData/WD~social_geography,524273]]"
-  - "[[_Standards/WikiData/WD~geography,1071]]"
-instance_of: "[[_Standards/WikiData/WD~scientific_journal,5633421]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~Kompas_Gramedia_Group,6428600]]"
-website_account_on: "[[_Standards/WikiData/WD~Kahoot!,21683250]]"
+  - '[[_Standards/WikiData/WD~natural_history,484591]]'
+  - '[[_Standards/WikiData/WD~photojournalism,506858]]'
+  - '[[_Standards/WikiData/WD~social_geography,524273]]'
+  - '[[_Standards/WikiData/WD~geography,1071]]'
+instance_of: '[[_Standards/WikiData/WD~scientific_journal,5633421]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~Kompas_Gramedia_Group,6428600]]'
+website_account_on: '[[_Standards/WikiData/WD~Kahoot!,21683250]]'
 start_time: 1888-01-01T00:00:00Z
 inception: 1888-01-01T00:00:00Z
 language_of_work_or_name:
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Indonesian,9240]]"
-owned_by: "[[_Standards/WikiData/WD~The_Walt_Disney_Company,7414]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_publication: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+  - '[[_Standards/WikiData/WD~Italian,652]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Indonesian,9240]]'
+owned_by: '[[_Standards/WikiData/WD~The_Walt_Disney_Company,7414]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_publication: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
 publication_interval: 1
-Universal_Decimal_Classification_works_and_editions_: "91"
-Dewey_Decimal_Classification_works_and_editions_: "910"
+Universal_Decimal_Classification_works_and_editions_: 91
+Dewey_Decimal_Classification_works_and_editions_: 910
 Commons_gallery: National Geographic Magazine
 ISSN:
   - 0027-9358
@@ -42,10 +43,10 @@ ISSN:
   - 1939-9235
 ISSN_L: 0027-9358
 OCLC_number:
-  - "6451257"
-  - "1643684"
-LIBRIS_editions: "11339894"
-SUDOC_editions: "038758032"
+  - 6451257
+  - 1643684
+LIBRIS_editions: 11339894
+SUDOC_editions: 038758032
 social_media_followers: 280378998
 total_produced: 4336711
 title: National Geographic
@@ -64,8 +65,8 @@ official_website:
   - https://nationalgeographic.grid.id
   - https://www.nationalgeographic.com/magazine/
   - https://www.nationalgeographic.it/
-British_Library_system_number: "012416401"
-SWB_editions: "014414252"
+British_Library_system_number: 012416401
+SWB_editions: 014414252
 Libris_URI: 4ngg3fbg20hhnbr
 Library_of_Congress_Classification_works_and_editions_: G1 .N27
 Regensburg_Classification_works_and_editions_: HD 184

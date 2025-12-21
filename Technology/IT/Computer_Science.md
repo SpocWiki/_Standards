@@ -3,49 +3,51 @@ aliases:
   - Computer science
   - Informatik
   - comp sci
+  - Computer_Science
+  - Computer Science
 has_id_wikidata: Q21198
 Krugosvet_article: nauka_i_tehnika/matematika/INFORMATIKA.html
 Baidu_Tieba_name: 计算机科学
-practiced_by: "[[_Standards/WikiData/WD~computer_scientist,82594]]"
+practiced_by: '[[_Standards/WikiData/WD~computer_scientist,82594]]'
 different_from:
-  - "[[_Standards/WikiData/WD~computational_science,117801]]"
-  - "[[_Standards/WikiData/WD~information_theory,131222]]"
-  - "[[_Standards/WikiData/WD~informatics,4027615]]"
-  - "[[_Standards/WikiData/WD~information_science,16387]]"
-is_the_study_of: "[[_Standards/WikiData/WD~computing,179310]]"
+  - '[[_Standards/WikiData/WD~computational_science,117801]]'
+  - '[[_Standards/WikiData/WD~information_theory,131222]]'
+  - '[[_Standards/WikiData/WD~informatics,4027615]]'
+  - '[[_Standards/WikiData/WD~information_science,16387]]'
+is_the_study_of: '[[_Standards/WikiData/WD~computing,179310]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~applied_computer_science,538722]]"
-  - "[[_Standards/WikiData/WD~theory_of_computation,844718]]"
-  - "[[_Standards/WikiData/WD~theoretical_computer_science,2878974]]"
-  - "[[_Standards/WikiData/WD~artificial_intelligence,11660]]"
-subclass_of: "[[_Standards/WikiData/WD~formal_science,816264]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_computer_science,1189238]]"
-described_by_source: "[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]"
+  - '[[_Standards/WikiData/WD~applied_computer_science,538722]]'
+  - '[[_Standards/WikiData/WD~theory_of_computation,844718]]'
+  - '[[_Standards/WikiData/WD~theoretical_computer_science,2878974]]'
+  - '[[_Standards/WikiData/WD~artificial_intelligence,11660]]'
+subclass_of: '[[_Standards/WikiData/WD~formal_science,816264]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_computer_science,1189238]]'
+described_by_source: '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Computer_Science,6526225]]"
-studied_by: "[[_Standards/WikiData/WD~computer_science_and_engineering,11492827]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Computer_science,13409896]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Computer_science,14152352]]"
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Computer_Science,6526225]]'
+studied_by: '[[_Standards/WikiData/WD~computer_science_and_engineering,11492827]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Computer_science,13409896]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Computer_science,14152352]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~computer_science_journal,127867413]]"
-  - "[[_Standards/WikiData/WD~computer_science_award,133272445]]"
+  - '[[_Standards/WikiData/WD~computer_science_journal,127867413]]'
+  - '[[_Standards/WikiData/WD~computer_science_award,133272445]]'
 All_Science_Journal_Classification_Codes:
-  - "1700"
-  - "1701"
-OmegaWiki_Defined_Meaning: "1934"
-Universal_Decimal_Classification: "004"
-Dewey_Decimal_Classification: "004"
+  - 1700
+  - 1701
+OmegaWiki_Defined_Meaning: 1934
+Universal_Decimal_Classification: 004
+Dewey_Decimal_Classification: 004
 Classification_of_Instructional_Programs_code:
-  - "11.0701"
-  - "11.07"
+  - 11.0701
+  - 11.07
 Commons_category: Computer science
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-X-Javier-informatique.wav
 Stack_Exchange_site_URL: https://cs.stackexchange.com
 Stack_Exchange_tag: https://stackoverflow.com/tags/computer-science
 IEV_number: 171-01-27
-Basisklassifikation: "54.00"
+Basisklassifikation: 54.00
 subreddit:
   - AskComputerScience
   - compsci

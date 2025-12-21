@@ -4,21 +4,23 @@ aliases:
   - reduced_relevance_for_children_consideration
   - ReducedRelevanceForChildrenConsideration
   - is_a_reduced_relevance_for_children_consideration
+  - Reduced_Relevance_for_Children_Consideration
+  - Reduced Relevance for Children Consideration
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: AdultOrientedEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - reduced_relevance_for_children_consideration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_reduced_relevance_for_children_consideration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

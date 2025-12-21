@@ -1,19 +1,21 @@
 ---
+aliases:
+  - Battalion
 has_id_wikidata: Q6382533
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~subdivision,2663712]]"
-  - "[[_Standards/WikiData/WD~size_specific_military_unit,66737643]]"
-different_from: "[[_Standards/WikiData/WD~Batalion,9166872]]"
-instance_of: "[[_Standards/WikiData/WD~military_unit_size_class,21506450]]"
-part_of: "[[_Standards/WikiData/WD~military,8473]]"
+  - '[[_Standards/WikiData/WD~subdivision,2663712]]'
+  - '[[_Standards/WikiData/WD~size_specific_military_unit,66737643]]'
+different_from: '[[_Standards/WikiData/WD~Batalion,9166872]]'
+instance_of: '[[_Standards/WikiData/WD~military_unit_size_class,21506450]]'
+part_of: '[[_Standards/WikiData/WD~military,8473]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Australian%2011th%20Battalion%20group%20photo.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Military%20Symbol%20-%20Friendly%20Battalion%20or%20Squadron%20%28Solid%20Light%201.5x1%20Frame%29-%20Unspecified%20or%20Composite%20All-Arms%20%28NATO%20APP-6%29.svg
 Commons_category: Battalions

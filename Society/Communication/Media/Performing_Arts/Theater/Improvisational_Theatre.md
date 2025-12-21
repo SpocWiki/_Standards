@@ -4,10 +4,12 @@ aliases:
   - improvisation
   - improv
   - impro
+  - Improvisational_Theatre
+  - Improvisational Theatre
 has_id_wikidata: Q1140700
-instance_of: "[[_Standards/WikiData/WD~theatrical_genre,7777573]]"
-subclass_of: "[[_Standards/WikiData/WD~theatre_art,11635]]"
-OmegaWiki_Defined_Meaning: "975856"
+instance_of: '[[_Standards/WikiData/WD~theatrical_genre,7777573]]'
+subclass_of: '[[_Standards/WikiData/WD~theatre_art,11635]]'
+OmegaWiki_Defined_Meaning: 975856
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Tamahashi-improvisation%20th%C3%A9%C3%A2trale.wav
 Commons_category: Improvisational theatre
 Library_of_Congress_Classification: PN2071.I5

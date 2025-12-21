@@ -4,21 +4,22 @@ aliases:
   - srp
   - SRP
   - is_a_srp
+  - Srp
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: PriceTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - srp
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_srp Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

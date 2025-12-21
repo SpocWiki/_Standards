@@ -1,304 +1,306 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ProductAndSubstance
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance
 fields:
-- id: tKfELl
-  name: AdditionalProperty
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"
-  type: MultiFile
-  path: ''
-- id: KlzEAf
-  name: AggregateRating
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Rating/AggregateRating')"
-  type: MultiFile
-  path: ''
-- id: M7CdcH
-  name: Asin
-  options: {}
-  type: Input
-  path: ''
-- id: yaCo62
-  name: Audience
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Audience')"
-  type: MultiFile
-  path: ''
-- id: Fs2x7N
-  name: Award
-  options: {}
-  type: Input
-  path: ''
-- id: VHq2yw
-  name: Brand
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Brand')"
-  type: MultiFile
-  path: ''
-- id: bOPcNY
-  name: Color
-  options: {}
-  type: Input
-  path: ''
-- id: yAth8S
-  name: CountryOfAssembly
-  options: {}
-  type: Input
-  path: ''
-- id: ou82Kb
-  name: CountryOfLastProcessing
-  options: {}
-  type: Input
-  path: ''
-- id: WgQOSP
-  name: CountryOfOrigin
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place/AdministrativeArea/Country')"
-  type: MultiFile
-  path: ''
-- id: hnLIsA
-  name: Depth
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: Y7CV9d
-  name: Funding
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Grant')"
-  type: MultiFile
-  path: ''
-- id: 7f7psw
-  name: Gtin
-  options: {}
-  type: Input
-  path: ''
-- id: VrLomV
-  name: Gtin12
-  options: {}
-  type: Input
-  path: ''
-- id: vSiPYp
-  name: Gtin13
-  options: {}
-  type: Input
-  path: ''
-- id: EO1iuA
-  name: Gtin14
-  options: {}
-  type: Input
-  path: ''
-- id: ldsk8S
-  name: Gtin8
-  options: {}
-  type: Input
-  path: ''
-- id: L2ulcY
-  name: HasEnergyConsumptionDetails
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/EnergyConsumptionDetails')"
-  type: MultiFile
-  path: ''
-- id: CSnUmo
-  name: HasMeasurement
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: 4Ka91B
-  name: HasMerchantReturnPolicy
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/MerchantReturnPolicy')"
-  type: MultiFile
-  path: ''
-- id: 2ZiQWy
-  name: Height
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: 32xtAv
-  name: InProductGroupWithID
-  options: {}
-  type: Input
-  path: ''
-- id: XEFgia
-  name: IsAccessoryOrSparePartFor
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Product')"
-  type: MultiFile
-  path: ''
-- id: JaZSbm
-  name: IsConsumableFor
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Product')"
-  type: MultiFile
-  path: ''
-- id: uWUswe
-  name: IsFamilyFriendly
-  options: {}
-  type: Boolean
-  path: ''
-- id: PbKth8
-  name: IsRelatedTo
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Product')"
-  type: MultiFile
-  path: ''
-- id: D8lNKa
-  name: IsSimilarTo
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Product')"
-  type: MultiFile
-  path: ''
-- id: 4krpgf
-  name: IsVariantOf
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Product/ProductGroup')"
-  type: MultiFile
-  path: ''
-- id: bBdJkA
-  name: Keywords
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm')"
-  type: MultiFile
-  path: ''
-- id: VmqUcm
-  name: Logo
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"
-  type: MultiFile
-  path: ''
-- id: lneay2
-  name: Manufacturer
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: EiuMXm
-  name: Material
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Product')"
-  type: MultiFile
-  path: ''
-- id: 7wnEEC
-  name: MobileUrl
-  options: {}
-  type: Input
-  path: ''
-- id: gGhmbO
-  name: Model
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Product/ProductModel')"
-  type: MultiFile
-  path: ''
-- id: htJWoX
-  name: Mpn
-  options: {}
-  type: Input
-  path: ''
-- id: YLnwAI
-  name: NegativeNotes
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/ItemList')"
-  type: MultiFile
-  path: ''
-- id: vGu6iE
-  name: Nsn
-  options: {}
-  type: Input
-  path: ''
-- id: GDQPOg
-  name: Offers
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Demand')"
-  type: MultiFile
-  path: ''
-- id: wrX5mA
-  name: Pattern
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm')"
-  type: MultiFile
-  path: ''
-- id: 10v1Z8
-  name: PositiveNotes
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/ItemList')"
-  type: MultiFile
-  path: ''
-- id: 15kPmy
-  name: ProductID
-  options: {}
-  type: Input
-  path: ''
-- id: tJOEfp
-  name: ProductionDate
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: YbjACH
-  name: PurchaseDate
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: eTRCUT
-  name: ReleaseDate
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: pZ4bO7
-  name: Review
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Review')"
-  type: MultiFile
-  path: ''
-- id: Hhh0um
-  name: Size
-  options: {}
-  type: Input
-  path: ''
-- id: r8AxqJ
-  name: Sku
-  options: {}
-  type: Input
-  path: ''
-- id: itKvVm
-  name: Slogan
-  options: {}
-  type: Input
-  path: ''
-- id: oF57ZD
-  name: Weight
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: 8yUqrc
-  name: Width
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
+  - id: tKfELl
+    name: AdditionalProperty
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
+    type: MultiFile
+    path: ''
+  - id: KlzEAf
+    name: AggregateRating
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Rating/AggregateRating')
+    type: MultiFile
+    path: ''
+  - id: M7CdcH
+    name: Asin
+    options: {}
+    type: Input
+    path: ''
+  - id: yaCo62
+    name: Audience
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
+    type: MultiFile
+    path: ''
+  - id: Fs2x7N
+    name: Award
+    options: {}
+    type: Input
+    path: ''
+  - id: VHq2yw
+    name: Brand
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Brand')
+    type: MultiFile
+    path: ''
+  - id: bOPcNY
+    name: Color
+    options: {}
+    type: Input
+    path: ''
+  - id: yAth8S
+    name: CountryOfAssembly
+    options: {}
+    type: Input
+    path: ''
+  - id: ou82Kb
+    name: CountryOfLastProcessing
+    options: {}
+    type: Input
+    path: ''
+  - id: WgQOSP
+    name: CountryOfOrigin
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
+    type: MultiFile
+    path: ''
+  - id: hnLIsA
+    name: Depth
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: Y7CV9d
+    name: Funding
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Grant')
+    type: MultiFile
+    path: ''
+  - id: 7f7psw
+    name: Gtin
+    options: {}
+    type: Input
+    path: ''
+  - id: VrLomV
+    name: Gtin12
+    options: {}
+    type: Input
+    path: ''
+  - id: vSiPYp
+    name: Gtin13
+    options: {}
+    type: Input
+    path: ''
+  - id: EO1iuA
+    name: Gtin14
+    options: {}
+    type: Input
+    path: ''
+  - id: ldsk8S
+    name: Gtin8
+    options: {}
+    type: Input
+    path: ''
+  - id: L2ulcY
+    name: HasEnergyConsumptionDetails
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/EnergyConsumptionDetails')
+    type: MultiFile
+    path: ''
+  - id: CSnUmo
+    name: HasMeasurement
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: 4Ka91B
+    name: HasMerchantReturnPolicy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/MerchantReturnPolicy')
+    type: MultiFile
+    path: ''
+  - id: 2ZiQWy
+    name: Height
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: 32xtAv
+    name: InProductGroupWithID
+    options: {}
+    type: Input
+    path: ''
+  - id: XEFgia
+    name: IsAccessoryOrSparePartFor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product')
+    type: MultiFile
+    path: ''
+  - id: JaZSbm
+    name: IsConsumableFor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product')
+    type: MultiFile
+    path: ''
+  - id: uWUswe
+    name: IsFamilyFriendly
+    options: {}
+    type: Boolean
+    path: ''
+  - id: PbKth8
+    name: IsRelatedTo
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product')
+    type: MultiFile
+    path: ''
+  - id: D8lNKa
+    name: IsSimilarTo
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product')
+    type: MultiFile
+    path: ''
+  - id: 4krpgf
+    name: IsVariantOf
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product/ProductGroup')
+    type: MultiFile
+    path: ''
+  - id: bBdJkA
+    name: Keywords
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ''
+  - id: VmqUcm
+    name: Logo
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
+    type: MultiFile
+    path: ''
+  - id: lneay2
+    name: Manufacturer
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: EiuMXm
+    name: Material
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product')
+    type: MultiFile
+    path: ''
+  - id: 7wnEEC
+    name: MobileUrl
+    options: {}
+    type: Input
+    path: ''
+  - id: gGhmbO
+    name: Model
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product/ProductModel')
+    type: MultiFile
+    path: ''
+  - id: htJWoX
+    name: Mpn
+    options: {}
+    type: Input
+    path: ''
+  - id: YLnwAI
+    name: NegativeNotes
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
+    type: MultiFile
+    path: ''
+  - id: vGu6iE
+    name: Nsn
+    options: {}
+    type: Input
+    path: ''
+  - id: GDQPOg
+    name: Offers
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Demand')
+    type: MultiFile
+    path: ''
+  - id: wrX5mA
+    name: Pattern
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ''
+  - id: 10v1Z8
+    name: PositiveNotes
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
+    type: MultiFile
+    path: ''
+  - id: 15kPmy
+    name: ProductID
+    options: {}
+    type: Input
+    path: ''
+  - id: tJOEfp
+    name: ProductionDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: YbjACH
+    name: PurchaseDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: eTRCUT
+    name: ReleaseDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: pZ4bO7
+    name: Review
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+    type: MultiFile
+    path: ''
+  - id: Hhh0um
+    name: Size
+    options: {}
+    type: Input
+    path: ''
+  - id: r8AxqJ
+    name: Sku
+    options: {}
+    type: Input
+    path: ''
+  - id: itKvVm
+    name: Slogan
+    options: {}
+    type: Input
+    path: ''
+  - id: oF57ZD
+    name: Weight
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: 8yUqrc
+    name: Width
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ProductAndSubstance
-- class/Thing/MedicalEntity/Substance/ProductAndSubstance
-- is_a_/ProductAndSubstance
-- schema-org/ProductAndSubstance
+  - class/ProductAndSubstance
+  - class/Thing/MedicalEntity/Substance/ProductAndSubstance
+  - is_a_/ProductAndSubstance
+  - schema-org/ProductAndSubstance
 tags:
-- class/FileClass
-- class/ProductAndSubstance
-- is_a_/ProductAndSubstance
-- class/Thing/MedicalEntity/Substance/ProductAndSubstance
+  - class/FileClass
+  - class/ProductAndSubstance
+  - is_a_/ProductAndSubstance
+  - class/Thing/MedicalEntity/Substance/ProductAndSubstance
 version: 2.0
 ---
 

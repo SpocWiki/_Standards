@@ -3,12 +3,13 @@ aliases:
   - has learning-resource-type
   - learningResourceType
   - has_learning_resource_type
+  - has learning resource type
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - learning
   - resource
   - type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_learning_resource_type
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

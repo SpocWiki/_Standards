@@ -1,48 +1,50 @@
 ---
-excludes: 
+aliases:
+  - FileClass~SuperficialAnatomy
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-- id: dsAsIm
-  name: AssociatedPathophysiology
-  options: {}
-  type: Input
-  path: ''
-- id: eqsAMO
-  name: RelatedAnatomy
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"
-  type: MultiFile
-  path: ''
-- id: 0LYyWD
-  name: RelatedCondition
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalCondition')"
-  type: MultiFile
-  path: ''
-- id: CrnZWH
-  name: RelatedTherapy
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')"
-  type: MultiFile
-  path: ''
-- id: gO9zd3
-  name: Significance
-  options: {}
-  type: Input
-  path: ''
+  - id: dsAsIm
+    name: AssociatedPathophysiology
+    options: {}
+    type: Input
+    path: ''
+  - id: eqsAMO
+    name: RelatedAnatomy
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
+    type: MultiFile
+    path: ''
+  - id: 0LYyWD
+    name: RelatedCondition
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
+    type: MultiFile
+    path: ''
+  - id: CrnZWH
+    name: RelatedTherapy
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')
+    type: MultiFile
+    path: ''
+  - id: gO9zd3
+    name: Significance
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/SuperficialAnatomy
-- class/Thing/MedicalEntity/SuperficialAnatomy
-- is_a_/SuperficialAnatomy
-- schema-org/SuperficialAnatomy
+  - class/SuperficialAnatomy
+  - class/Thing/MedicalEntity/SuperficialAnatomy
+  - is_a_/SuperficialAnatomy
+  - schema-org/SuperficialAnatomy
 tags:
-- class/FileClass
-- class/SuperficialAnatomy
-- is_a_/SuperficialAnatomy
-- class/Thing/MedicalEntity/SuperficialAnatomy
+  - class/FileClass
+  - class/SuperficialAnatomy
+  - is_a_/SuperficialAnatomy
+  - class/Thing/MedicalEntity/SuperficialAnatomy
 version: 2.0
 ---
 

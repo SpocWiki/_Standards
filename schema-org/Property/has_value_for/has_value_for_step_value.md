@@ -4,21 +4,23 @@ aliases:
   - step-value
   - stepValue
   - has_value_for_step
+  - has_value_for_step_value
+  - has value for step value
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - step-value
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_step-value
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

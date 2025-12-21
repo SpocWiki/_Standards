@@ -4,21 +4,22 @@ aliases:
   - depth
   - depth
   - has_value_for_depth_in_meters
+  - has value for depth in meters
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - depth
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_depth
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

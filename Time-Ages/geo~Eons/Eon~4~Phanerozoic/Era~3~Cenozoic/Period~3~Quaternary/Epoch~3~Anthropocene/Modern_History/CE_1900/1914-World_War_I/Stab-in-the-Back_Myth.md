@@ -2,16 +2,18 @@
 aliases:
   - stab-in-the-back myth
   - Dolchstoßlegende
+  - Stab-in-the-Back_Myth
+  - Stab-in-the-Back Myth
 has_id_wikidata: Q160944
 significant_person:
-  - "[[_Standards/WikiData/WD~Max_Bauer,67930]]"
-  - "[[_Standards/WikiData/WD~Bruno_Doehring,993199]]"
-instance_of: "[[_Standards/WikiData/WD~conspiracy_theory,159535]]"
+  - '[[_Standards/WikiData/WD~Max_Bauer,67930]]'
+  - '[[_Standards/WikiData/WD~Bruno_Doehring,993199]]'
+instance_of: '[[_Standards/WikiData/WD~conspiracy_theory,159535]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~anti_communism,182121]]"
-  - "[[_Standards/WikiData/WD~antisemitism,22649]]"
-main_subject: "[[_Standards/WikiData/WD~betrayal,2166722]]"
-significant_event: "[[_Standards/WikiData/WD~aftermath_of_World_War_I,2519948]]"
+  - '[[_Standards/WikiData/WD~anti_communism,182121]]'
+  - '[[_Standards/WikiData/WD~antisemitism,22649]]'
+main_subject: '[[_Standards/WikiData/WD~betrayal,2166722]]'
+significant_event: '[[_Standards/WikiData/WD~aftermath_of_World_War_I,2519948]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stab-in-the-back%20postcard.jpg
 described_at_URL: https://www.nytimes.com/2020/11/30/opinion/trump-conspiracy-germany-1918.html
 Commons_category: Stab-in-the-back legend

@@ -3,6 +3,7 @@ aliases:
   - António_Guterres
   - António Manuel de Oliveira Guterres
   - Antonio Guterres
+  - Guterres,António
 has_id_wikidata: Q311440
 ---
 

@@ -4,20 +4,22 @@ aliases:
   - property_value_specification
   - PropertyValueSpecification
   - is_a_property_value_specification
+  - Property_Value_Specification
+  - Property Value Specification
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - property_value_specification
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_property_value_specification Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

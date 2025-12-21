@@ -4,22 +4,24 @@ aliases:
   - claim_reviewed
   - claimReviewed
   - has_text_of_claim_reviewed
+  - has_claim_reviewed
+  - has claim reviewed
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - claim
   - reviewed
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_claim_reviewed
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

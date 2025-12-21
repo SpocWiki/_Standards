@@ -4,22 +4,24 @@ aliases:
   - associated_pathophysiology
   - associatedPathophysiology
   - has_text_of_associated_pathophysiology
+  - has_associated_pathophysiology
+  - has associated pathophysiology
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - associated
   - pathophysiology
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_associated_pathophysiology
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

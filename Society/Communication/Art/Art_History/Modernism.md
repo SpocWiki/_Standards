@@ -1,22 +1,23 @@
 ---
 aliases:
   - Modernismus
+  - Modernism
 has_id_wikidata: Q878985
-opposite_of: "[[_Standards/WikiData/WD~popular_culture,131265]]"
-subclass_of: "[[_Standards/WikiData/WD~decorative_art,631931]]"
+opposite_of: '[[_Standards/WikiData/WD~popular_culture,131265]]'
+subclass_of: '[[_Standards/WikiData/WD~decorative_art,631931]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~cultural_movement,2198855]]"
+  - '[[_Standards/WikiData/WD~art_movement,968159]]'
+  - '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - "[[_Standards/WikiData/WD~design_modernism,2085639]]"
-  - "[[_Standards/WikiData/WD~Modernismo,5600643]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Modernism,6853297]]"
-has_characteristic: "[[_Standards/WikiData/WD~modernity,11084414]]"
+  - '[[_Standards/WikiData/WD~design_modernism,2085639]]'
+  - '[[_Standards/WikiData/WD~Modernismo,5600643]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Modernism,6853297]]'
+has_characteristic: '[[_Standards/WikiData/WD~modernity,11084414]]'
 start_time: 1900-01-01T00:00:00Z
-OmegaWiki_Defined_Meaning: "1064459"
+OmegaWiki_Defined_Meaning: 1064459
 Commons_category: Modernism
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HSnyers%20Louvrex%201933.jpg
 Library_of_Congress_Classification: BH301.M54

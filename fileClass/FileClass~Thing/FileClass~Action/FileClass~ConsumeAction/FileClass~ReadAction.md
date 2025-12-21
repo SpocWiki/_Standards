@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ReadAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ReadAction
-- class/Thing/Action/ConsumeAction/ReadAction
-- is_a_/ReadAction
-- schema-org/ReadAction
+  - class/ReadAction
+  - class/Thing/Action/ConsumeAction/ReadAction
+  - is_a_/ReadAction
+  - schema-org/ReadAction
 tags:
-- class/FileClass
-- class/ReadAction
-- is_a_/ReadAction
-- class/Thing/Action/ConsumeAction/ReadAction
+  - class/FileClass
+  - class/ReadAction
+  - is_a_/ReadAction
+  - class/Thing/Action/ConsumeAction/ReadAction
 version: 2.0
 ---
 

@@ -1,16 +1,19 @@
 ---
+aliases:
+  - Binary_numeral_System
+  - Binary numeral System
 has_id_wikidata: Q3913
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-follows: "[[_Standards/WikiData/WD~unary_numeral_system,724775]]"
-subclass_of: "[[_Standards/WikiData/WD~binary_code,864135]]"
-followed_by: "[[_Standards/WikiData/WD~ternary_numeral_system,1056486]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-has_use: "[[_Standards/WikiData/WD~computation,12525525]]"
-instance_of: "[[_Standards/WikiData/WD~positional_numeral_system,25457532]]"
-radix: "[[_Standards/WikiData/WD~2,200]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+follows: '[[_Standards/WikiData/WD~unary_numeral_system,724775]]'
+subclass_of: '[[_Standards/WikiData/WD~binary_code,864135]]'
+followed_by: '[[_Standards/WikiData/WD~ternary_numeral_system,1056486]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+has_use: '[[_Standards/WikiData/WD~computation,12525525]]'
+instance_of: '[[_Standards/WikiData/WD~positional_numeral_system,25457532]]'
+radix: '[[_Standards/WikiData/WD~2,200]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Binary%20number%20table.png
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Binair-article.ogg
 Commons_category: Binary numeral system

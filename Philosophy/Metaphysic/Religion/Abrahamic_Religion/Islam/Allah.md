@@ -1,30 +1,32 @@
 ---
+aliases:
+  - Allah
 has_id_wikidata: Q234801
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Yahweh,766677]]"
-  - "[[_Standards/WikiData/WD~Sabaoth,1657271]]"
-  - "[[_Standards/WikiData/WD~God_in_Judaism,2155501]]"
-  - "[[_Standards/WikiData/WD~Ilah,17398299]]"
-  - "[[_Standards/WikiData/WD~God_in_Christianity,825]]"
+  - '[[_Standards/WikiData/WD~Yahweh,766677]]'
+  - '[[_Standards/WikiData/WD~Sabaoth,1657271]]'
+  - '[[_Standards/WikiData/WD~God_in_Judaism,2155501]]'
+  - '[[_Standards/WikiData/WD~Ilah,17398299]]'
+  - '[[_Standards/WikiData/WD~God_in_Christianity,825]]'
 has_use:
-  - "[[_Standards/WikiData/WD~Dua,879046]]"
-  - "[[_Standards/WikiData/WD~dhikr,948437]]"
+  - '[[_Standards/WikiData/WD~Dua,879046]]'
+  - '[[_Standards/WikiData/WD~dhikr,948437]]'
 depicts:
-  - "[[_Standards/WikiData/WD~Rabb,1713625]]"
-  - "[[_Standards/WikiData/WD~God_in_Islam,2095353]]"
-  - "[[_Standards/WikiData/WD~God,190]]"
-instance_of: "[[_Standards/WikiData/WD~theonym,12160552]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q13202697,13202697]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~Arabic,13955]]"
-OmegaWiki_Defined_Meaning: "1571713"
+  - '[[_Standards/WikiData/WD~Rabb,1713625]]'
+  - '[[_Standards/WikiData/WD~God_in_Islam,2095353]]'
+  - '[[_Standards/WikiData/WD~God,190]]'
+instance_of: '[[_Standards/WikiData/WD~theonym,12160552]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202697,13202697]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Arabic,13955]]'
+OmegaWiki_Defined_Meaning: 1571713
 subject_lexeme: L252309
 native_label: الله
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Allah3.svg

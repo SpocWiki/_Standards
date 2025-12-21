@@ -4,21 +4,23 @@ aliases:
   - broadcast_release
   - BroadcastRelease
   - is_a_broadcast_release
+  - Broadcast_Release
+  - Broadcast Release
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MusicAlbumReleaseType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - broadcast_release
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_broadcast_release Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

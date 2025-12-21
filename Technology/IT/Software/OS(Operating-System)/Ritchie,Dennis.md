@@ -1,8 +1,9 @@
 ---
 aliases:
-- "Dennis MacAlistair Ritchie"
-- "Dennis Ritchie"
-- Ritchie~Dennis
+  - Dennis MacAlistair Ritchie
+  - Dennis Ritchie
+  - Ritchie~Dennis
+  - Ritchie,Dennis
 ---
 
 # [[Ritchie,Dennis]] 

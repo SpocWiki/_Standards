@@ -4,8 +4,9 @@ aliases:
   - Keith Rupert Murdoch
   - Rupert Murdoch
   - Murdoch
+  - Murdoch,Rupert
 has_id_wikidata: Q53944
-RIA_Novosti_reference: "1387314961"
+RIA_Novosti_reference: 1387314961
 Plex_person_key: 5d776916ad5437001f757944
 Krugosvet_article_archived_: ekonomika-i-pravo/merdok-rupert
 Wolfram_Language_entity_code: Entity["Concept", "KeithRupertMurdoch::h6j32"]
@@ -13,68 +14,68 @@ X_Twitter_username: rupertmurdoch
 birth_name: Keith Rupert Murdoch
 work_period_end_: 2023-01-01T00:00:00Z
 occupation:
-  - "[[_Standards/WikiData/WD~entrepreneur,131524]]"
-  - "[[_Standards/WikiData/WD~media_proprietor,1420621]]"
-  - "[[_Standards/WikiData/WD~financier,1979607]]"
-  - "[[_Standards/WikiData/WD~publisher,2516866]]"
-  - "[[_Standards/WikiData/WD~businessperson,43845]]"
-position_held: "[[_Standards/WikiData/WD~chairperson,140686]]"
+  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+  - '[[_Standards/WikiData/WD~media_proprietor,1420621]]'
+  - '[[_Standards/WikiData/WD~financier,1979607]]'
+  - '[[_Standards/WikiData/WD~publisher,2516866]]'
+  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+position_held: '[[_Standards/WikiData/WD~chairperson,140686]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Jerry_Hall,239476]]"
-  - "[[_Standards/WikiData/WD~Wendi_Murdoch,2213516]]"
-  - "[[_Standards/WikiData/WD~Anna_Murdoch_Mann,15522089]]"
-  - "[[_Standards/WikiData/WD~Patricia_Booker,23002984]]"
-  - "[[_Standards/WikiData/WD~Elena_Zhukova,126360949]]"
+  - '[[_Standards/WikiData/WD~Jerry_Hall,239476]]'
+  - '[[_Standards/WikiData/WD~Wendi_Murdoch,2213516]]'
+  - '[[_Standards/WikiData/WD~Anna_Murdoch_Mann,15522089]]'
+  - '[[_Standards/WikiData/WD~Patricia_Booker,23002984]]'
+  - '[[_Standards/WikiData/WD~Elena_Zhukova,126360949]]'
 child:
-  - "[[_Standards/WikiData/WD~James_Murdoch,471851]]"
-  - "[[_Standards/WikiData/WD~Elisabeth_Murdoch,3051101]]"
-  - "[[_Standards/WikiData/WD~Lachlan_Murdoch,3215817]]"
-  - "[[_Standards/WikiData/WD~Grace_Helen_Murdoch,23005272]]"
-  - "[[_Standards/WikiData/WD~Chloe_Murdoch,23005288]]"
-  - "[[_Standards/WikiData/WD~Prudence_Murdoch,26924403]]"
+  - '[[_Standards/WikiData/WD~James_Murdoch,471851]]'
+  - '[[_Standards/WikiData/WD~Elisabeth_Murdoch,3051101]]'
+  - '[[_Standards/WikiData/WD~Lachlan_Murdoch,3215817]]'
+  - '[[_Standards/WikiData/WD~Grace_Helen_Murdoch,23005272]]'
+  - '[[_Standards/WikiData/WD~Chloe_Murdoch,23005288]]'
+  - '[[_Standards/WikiData/WD~Prudence_Murdoch,26924403]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Geelong_Grammar_School,633448]]"
-  - "[[_Standards/WikiData/WD~Worcester_College,780745]]"
-  - "[[_Standards/WikiData/WD~University_of_Oxford,34433]]"
-mother: "[[_Standards/WikiData/WD~Elisabeth_Murdoch,713195]]"
+  - '[[_Standards/WikiData/WD~Geelong_Grammar_School,633448]]'
+  - '[[_Standards/WikiData/WD~Worcester_College,780745]]'
+  - '[[_Standards/WikiData/WD~University_of_Oxford,34433]]'
+mother: '[[_Standards/WikiData/WD~Elisabeth_Murdoch,713195]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Keith,1159033]]"
-  - "[[_Standards/WikiData/WD~Rupert,19688756]]"
+  - '[[_Standards/WikiData/WD~Keith,1159033]]'
+  - '[[_Standards/WikiData/WD~Rupert,19688756]]'
 residence:
-  - "[[_Standards/WikiData/WD~Yass,1380121]]"
-  - "[[_Standards/WikiData/WD~Melbourne,3141]]"
-  - "[[_Standards/WikiData/WD~Adelaide,5112]]"
-  - "[[_Standards/WikiData/WD~New_York_City,60]]"
+  - '[[_Standards/WikiData/WD~Yass,1380121]]'
+  - '[[_Standards/WikiData/WD~Melbourne,3141]]'
+  - '[[_Standards/WikiData/WD~Adelaide,5112]]'
+  - '[[_Standards/WikiData/WD~New_York_City,60]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Centenary_Medal,2393205]]"
-  - "[[_Standards/WikiData/WD~Bodley_Medal,4936657]]"
-  - "[[_Standards/WikiData/WD~Financial_Times_Person_of_the_Year,5449677]]"
-  - "[[_Standards/WikiData/WD~Companion_of_the_Order_of_Australia,9680541]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_St._Gregory_the_Great,13501112]]"
-  - "[[_Standards/WikiData/WD~Commander_First_Class_of_the_Order_of_the_White_Rose_of_Finland,23774377]]"
-  - "[[_Standards/WikiData/WD~Great_Immigrants_Award,121359767]]"
-father: "[[_Standards/WikiData/WD~Keith_Murdoch,3132687]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family: "[[_Standards/WikiData/WD~Murdoch_family,16658878]]"
+  - '[[_Standards/WikiData/WD~Centenary_Medal,2393205]]'
+  - '[[_Standards/WikiData/WD~Bodley_Medal,4936657]]'
+  - '[[_Standards/WikiData/WD~Financial_Times_Person_of_the_Year,5449677]]'
+  - '[[_Standards/WikiData/WD~Companion_of_the_Order_of_Australia,9680541]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_St._Gregory_the_Great,13501112]]'
+  - '[[_Standards/WikiData/WD~Commander_First_Class_of_the_Order_of_the_White_Rose_of_Finland,23774377]]'
+  - '[[_Standards/WikiData/WD~Great_Immigrants_Award,121359767]]'
+father: '[[_Standards/WikiData/WD~Keith_Murdoch,3132687]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family: '[[_Standards/WikiData/WD~Murdoch_family,16658878]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Lentapedia_(full_versions),17311605]]"
-  - "[[_Standards/WikiData/WD~Billy_Ireland_Cartoon_Library_&_Museum_biographical_files,58488719]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-family_name: "[[_Standards/WikiData/WD~Murdoch,21071761]]"
-depicted_by: "[[_Standards/WikiData/WD~(Keith)_Rupert_Murdoch,28052418]]"
+  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+  - '[[_Standards/WikiData/WD~Lentapedia_(full_versions),17311605]]'
+  - '[[_Standards/WikiData/WD~Billy_Ireland_Cartoon_Library_&_Museum_biographical_files,58488719]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+family_name: '[[_Standards/WikiData/WD~Murdoch,21071761]]'
+depicted_by: '[[_Standards/WikiData/WD~(Keith)_Rupert_Murdoch,28052418]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Janet_Calvert_Jones,76040516]]"
-  - "[[_Standards/WikiData/WD~Anne_Kantor,76040517]]"
-  - "[[_Standards/WikiData/WD~Helen_Handbury,76061867]]"
+  - '[[_Standards/WikiData/WD~Janet_Calvert_Jones,76040516]]'
+  - '[[_Standards/WikiData/WD~Anne_Kantor,76040517]]'
+  - '[[_Standards/WikiData/WD~Helen_Handbury,76061867]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_birth: "[[_Standards/WikiData/WD~Melbourne,3141]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Republican_Party,29468]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Australia,408]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+place_of_birth: '[[_Standards/WikiData/WD~Melbourne,3141]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 number_of_children: 6
 net_worth:
   - 19400000000
@@ -87,7 +88,7 @@ work_period_start_: 1952-01-01T00:00:00Z
 Commons_category: Rupert Murdoch
 date_of_birth: 1931-03-11T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rupert%20Murdoch%20-%20Flickr%20-%20Eva%20Rinaldi%20Celebrity%20and%20Live%20Music%20Photographer.jpg
-ISNI: "0000000114764923"
+ISNI: 0000000114764923
 ---
 
 # [[Murdoch,Rupert]] 

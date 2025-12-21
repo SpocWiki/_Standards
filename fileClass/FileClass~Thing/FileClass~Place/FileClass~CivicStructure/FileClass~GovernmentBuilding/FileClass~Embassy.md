@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Embassy
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/Embassy
-- class/Thing/Place/CivicStructure/GovernmentBuilding/Embassy
-- is_an_/Embassy
-- schema-org/Embassy
+  - class/Embassy
+  - class/Thing/Place/CivicStructure/GovernmentBuilding/Embassy
+  - is_an_/Embassy
+  - schema-org/Embassy
 tags:
-- class/FileClass
-- class/Embassy
-- '#is_an_/Embassy'
-- class/Thing/Place/CivicStructure/GovernmentBuilding/Embassy
+  - class/FileClass
+  - class/Embassy
+  - '#is_an_/Embassy'
+  - class/Thing/Place/CivicStructure/GovernmentBuilding/Embassy
 version: 2.0
 ---
 

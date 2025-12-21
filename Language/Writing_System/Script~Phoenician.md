@@ -1,6 +1,7 @@
 ---
 aliases:
   - Phoenician script
+  - Script~Phoenician
 has_id_wikidata: Q26752
 instance_of:
   - "[[_Standards/WikiData/WD~abjad,185087]]"
@@ -43,7 +44,7 @@ end_time: -0149-01-01T00:00:00Z
 time_of_earliest_written_record: -0839-01-01T00:00:00Z
 language_of_work_or_name: "[[_Standards/WikiData/WD~Phoenician,36734]]"
 country: "[[_Standards/WikiData/WD~Phoenicia,41642]]"
-ISO_15924_numeric_code: "115"
+ISO_15924_numeric_code: 115
 described_at_URL:
   - https://www.unesco.org/en/memory-world/phoenician-alphabet
   - https://www.unesco.org/fr/memory-world/phoenician-alphabet

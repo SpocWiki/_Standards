@@ -4,31 +4,31 @@ aliases:
   - Öresund
 has_id_wikidata: Q104662
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Kattegat,131716]]"
-  - "[[_Standards/WikiData/WD~Baltic_Sea,545]]"
-different_from: "[[_Standards/WikiData/WD~Sund,176201]]"
+  - '[[_Standards/WikiData/WD~Kattegat,131716]]'
+  - '[[_Standards/WikiData/WD~Baltic_Sea,545]]'
+different_from: '[[_Standards/WikiData/WD~Sund,176201]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-part_of: "[[_Standards/WikiData/WD~Danish_straits,816210]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+part_of: '[[_Standards/WikiData/WD~Danish_straits,816210]]'
 inflows:
-  - "[[_Standards/WikiData/WD~Höje_River,1501168]]"
-  - "[[_Standards/WikiData/WD~Kävlinge_River,1785545]]"
-  - "[[_Standards/WikiData/WD~Saxån,6978227]]"
-  - "[[_Standards/WikiData/WD~Mølleåen,11990461]]"
-  - "[[_Standards/WikiData/WD~Nivå,21995145]]"
-  - "[[_Standards/WikiData/WD~Råå_river,38152762]]"
+  - '[[_Standards/WikiData/WD~Höje_River,1501168]]'
+  - '[[_Standards/WikiData/WD~Kävlinge_River,1785545]]'
+  - '[[_Standards/WikiData/WD~Saxån,6978227]]'
+  - '[[_Standards/WikiData/WD~Mølleåen,11990461]]'
+  - '[[_Standards/WikiData/WD~Nivå,21995145]]'
+  - '[[_Standards/WikiData/WD~Råå_river,38152762]]'
 coordinate_location: Point(12.75 55.75)
 country:
-  - "[[_Standards/WikiData/WD~Sweden,34]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
+  - '[[_Standards/WikiData/WD~Sweden,34]]'
+  - '[[_Standards/WikiData/WD~Denmark,35]]'
 vertical_depth: 38
-instance_of: "[[_Standards/WikiData/WD~strait,37901]]"
+instance_of: '[[_Standards/WikiData/WD~strait,37901]]'
 BHCL_UUID: eb9d043a-5a04-495d-bf9e-d761eb99d701
 native_label:
   - Øresund

@@ -4,20 +4,22 @@ aliases:
   - checkout_page
   - CheckoutPage
   - is_a_checkout_page
+  - Checkout_Page
+  - Checkout Page
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - checkout_page
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_checkout_page Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

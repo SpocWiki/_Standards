@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Karel Svoboda"
+  - Karel Svoboda
+  - Svoboda,Karel
 ---
 
 > Karel Svoboda (19 December 1938 – 28 January 2007) was a Czech composer of popular music. 

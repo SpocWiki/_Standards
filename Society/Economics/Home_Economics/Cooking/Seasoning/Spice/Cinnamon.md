@@ -1,41 +1,42 @@
 ---
 aliases:
   - Zimt
+  - Cinnamon
 has_id_wikidata: Q28165
-made_from_material: "[[_Standards/WikiData/WD~bark,184453]]"
-natural_product_of_taxon: "[[_Standards/WikiData/WD~Cinnamon,370239]]"
+made_from_material: '[[_Standards/WikiData/WD~bark,184453]]'
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Cinnamon,370239]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Turkish_cuisine,654493]]"
-  - "[[_Standards/WikiData/WD~Catalan_cuisine,1735570]]"
+  - '[[_Standards/WikiData/WD~Turkish_cuisine,654493]]'
+  - '[[_Standards/WikiData/WD~Catalan_cuisine,1735570]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~crude_drug,735160]]"
-  - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
-  - "[[_Standards/WikiData/WD~herbal_medicinal_product,95997873]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~Smell_of_cinnamon,135191390]]"
-different_from: "[[_Standards/WikiData/WD~Cinnamomum,27282]]"
-subclass_of: "[[_Standards/WikiData/WD~spice,42527]]"
+  - '[[_Standards/WikiData/WD~crude_drug,735160]]'
+  - '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+  - '[[_Standards/WikiData/WD~herbal_medicinal_product,95997873]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~Smell_of_cinnamon,135191390]]'
+different_from: '[[_Standards/WikiData/WD~Cinnamomum,27282]]'
+subclass_of: '[[_Standards/WikiData/WD~spice,42527]]'
 water_footprint: 15526
-OmegaWiki_Defined_Meaning: "932929"
-USDA_NDB_number: "02010"
+OmegaWiki_Defined_Meaning: 932929
+USDA_NDB_number: 02010
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Canelle%20Cinnamomum%20burmanni%20Luc%20Viatour.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ground%20Cinnamon%20Powder%20and%20a%20Cinnamon%20Stick.jpg
 inception: -1999-01-01T00:00:00Z
 Dewey_Decimal_Classification:
-  - "641.3383"
-  - "641.6383"
-  - "664.53"
-  - "633.83"
+  - 641.3383
+  - 641.6383
+  - 664.53
+  - 633.83
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-kaneel.ogg
 Iconclass_notation: 25G22(CINNAMON)
 UNII: 5S29HWU6QB

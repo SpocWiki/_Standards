@@ -2,10 +2,12 @@
 aliases:
   - Op art
   - optical art
+  - Op_Art
+  - Op Art
 has_id_wikidata: Q182331
-instance_of: "[[_Standards/WikiData/WD~art_movement,968159]]"
-different_from: "[[_Standards/WikiData/WD~out_of_place_artifact,1069160]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Op_art,20372277]]"
+instance_of: '[[_Standards/WikiData/WD~art_movement,968159]]'
+different_from: '[[_Standards/WikiData/WD~out_of_place_artifact,1069160]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Op_art,20372277]]'
 inception: 1960-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hungary%20pecs%20-%20vasarely0.jpg
 Commons_category: Op art

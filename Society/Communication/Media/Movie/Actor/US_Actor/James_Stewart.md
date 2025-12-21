@@ -6,122 +6,122 @@ aliases:
   - Stewart
 has_id_wikidata: Q102462
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Musical_or_Comedy,181883]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Musical_or_Comedy,181883]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
-  - "[[_Standards/WikiData/WD~Honorary_Golden_Bear,287062]]"
-  - "[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]"
-  - "[[_Standards/WikiData/WD~National_Aviation_Hall_of_Fame,488005]]"
-  - "[[_Standards/WikiData/WD~Silver_Bear,708135]]"
-  - "[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]"
-  - "[[_Standards/WikiData/WD~Croix_de_Guerre,869896]]"
-  - "[[_Standards/WikiData/WD~Air_Medal,980090]]"
-  - "[[_Standards/WikiData/WD~European_African_Middle_Eastern_Campaign_Medal,1376304]]"
-  - "[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]"
-  - "[[_Standards/WikiData/WD~Distinguished_Flying_Cross,1754110]]"
-  - "[[_Standards/WikiData/WD~Distinguished_Service_Medal,1774648]]"
-  - "[[_Standards/WikiData/WD~World_War_II_Victory_Medal,2079534]]"
-  - "[[_Standards/WikiData/WD~Volpi_Cup_for_Best_Actor,2089923]]"
-  - "[[_Standards/WikiData/WD~Croix_de_guerre_1939_1945,2547676]]"
-  - "[[_Standards/WikiData/WD~Commendation_Medal,2986122]]"
-  - "[[_Standards/WikiData/WD~Golden_Boot_Awards,3110027]]"
-  - "[[_Standards/WikiData/WD~Armed_Forces_Reserve_Medal,4793010]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+  - '[[_Standards/WikiData/WD~Honorary_Golden_Bear,287062]]'
+  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+  - '[[_Standards/WikiData/WD~National_Aviation_Hall_of_Fame,488005]]'
+  - '[[_Standards/WikiData/WD~Silver_Bear,708135]]'
+  - '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
+  - '[[_Standards/WikiData/WD~Croix_de_Guerre,869896]]'
+  - '[[_Standards/WikiData/WD~Air_Medal,980090]]'
+  - '[[_Standards/WikiData/WD~European_African_Middle_Eastern_Campaign_Medal,1376304]]'
+  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]'
+  - '[[_Standards/WikiData/WD~Distinguished_Flying_Cross,1754110]]'
+  - '[[_Standards/WikiData/WD~Distinguished_Service_Medal,1774648]]'
+  - '[[_Standards/WikiData/WD~World_War_II_Victory_Medal,2079534]]'
+  - '[[_Standards/WikiData/WD~Volpi_Cup_for_Best_Actor,2089923]]'
+  - '[[_Standards/WikiData/WD~Croix_de_guerre_1939_1945,2547676]]'
+  - '[[_Standards/WikiData/WD~Commendation_Medal,2986122]]'
+  - '[[_Standards/WikiData/WD~Golden_Boot_Awards,3110027]]'
+  - '[[_Standards/WikiData/WD~Armed_Forces_Reserve_Medal,4793010]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Rope,109564]]"
-  - "[[_Standards/WikiData/WD~How_the_West_Was_Won,162518]]"
-  - "[[_Standards/WikiData/WD~Vertigo,202548]]"
+  - '[[_Standards/WikiData/WD~Rope,109564]]'
+  - '[[_Standards/WikiData/WD~How_the_West_Was_Won,162518]]'
+  - '[[_Standards/WikiData/WD~Vertigo,202548]]'
   - "[[_Standards/WikiData/WD~It's_a_Wonderful_Life,204191]]"
-  - "[[_Standards/WikiData/WD~Two_Rode_Together,232234]]"
-  - "[[_Standards/WikiData/WD~The_Far_Country,331039]]"
-  - "[[_Standards/WikiData/WD~Broken_Arrow,477296]]"
-  - "[[_Standards/WikiData/WD~The_Man_Who_Knew_Too_Much,486826]]"
-  - "[[_Standards/WikiData/WD~Anatomy_of_a_Murder,488376]]"
-  - "[[_Standards/WikiData/WD~The_Philadelphia_Story,498822]]"
-  - "[[_Standards/WikiData/WD~The_Man_Who_Shot_Liberty_Valance,555687]]"
-  - "[[_Standards/WikiData/WD~Destry_Rides_Again,607524]]"
-  - "[[_Standards/WikiData/WD~The_Rare_Breed,634325]]"
+  - '[[_Standards/WikiData/WD~Two_Rode_Together,232234]]'
+  - '[[_Standards/WikiData/WD~The_Far_Country,331039]]'
+  - '[[_Standards/WikiData/WD~Broken_Arrow,477296]]'
+  - '[[_Standards/WikiData/WD~The_Man_Who_Knew_Too_Much,486826]]'
+  - '[[_Standards/WikiData/WD~Anatomy_of_a_Murder,488376]]'
+  - '[[_Standards/WikiData/WD~The_Philadelphia_Story,498822]]'
+  - '[[_Standards/WikiData/WD~The_Man_Who_Shot_Liberty_Valance,555687]]'
+  - '[[_Standards/WikiData/WD~Destry_Rides_Again,607524]]'
+  - '[[_Standards/WikiData/WD~The_Rare_Breed,634325]]'
   - "[[_Standards/WikiData/WD~You_Can't_Take_It_With_You,637835]]"
-  - "[[_Standards/WikiData/WD~The_Glenn_Miller_Story,698962]]"
-  - "[[_Standards/WikiData/WD~The_Shop_Around_the_Corner,782751]]"
-  - "[[_Standards/WikiData/WD~Mr._Smith_Goes_to_Washington,866120]]"
-  - "[[_Standards/WikiData/WD~The_Man_from_Laramie,1195497]]"
-  - "[[_Standards/WikiData/WD~The_Shootist,1199406]]"
-  - "[[_Standards/WikiData/WD~The_Naked_Spur,1275343]]"
-  - "[[_Standards/WikiData/WD~Harvey,1412513]]"
+  - '[[_Standards/WikiData/WD~The_Glenn_Miller_Story,698962]]'
+  - '[[_Standards/WikiData/WD~The_Shop_Around_the_Corner,782751]]'
+  - '[[_Standards/WikiData/WD~Mr._Smith_Goes_to_Washington,866120]]'
+  - '[[_Standards/WikiData/WD~The_Man_from_Laramie,1195497]]'
+  - '[[_Standards/WikiData/WD~The_Shootist,1199406]]'
+  - '[[_Standards/WikiData/WD~The_Naked_Spur,1275343]]'
+  - '[[_Standards/WikiData/WD~Harvey,1412513]]'
   - "[[_Standards/WikiData/WD~Winchester_'73,1425480]]"
-  - "[[_Standards/WikiData/WD~Mr._Hobbs_Takes_a_Vacation,1785052]]"
-  - "[[_Standards/WikiData/WD~Bend_of_the_River,1926164]]"
-  - "[[_Standards/WikiData/WD~Shenandoah,4115569]]"
-  - "[[_Standards/WikiData/WD~Rear_Window,34414]]"
-place_of_death: "[[_Standards/WikiData/WD~Beverly_Hills,127856]]"
+  - '[[_Standards/WikiData/WD~Mr._Hobbs_Takes_a_Vacation,1785052]]'
+  - '[[_Standards/WikiData/WD~Bend_of_the_River,1926164]]'
+  - '[[_Standards/WikiData/WD~Shenandoah,4115569]]'
+  - '[[_Standards/WikiData/WD~Rear_Window,34414]]'
+place_of_death: '[[_Standards/WikiData/WD~Beverly_Hills,127856]]'
 genre:
-  - "[[_Standards/WikiData/WD~drama_film,130232]]"
-  - "[[_Standards/WikiData/WD~fantasy_film,157394]]"
-  - "[[_Standards/WikiData/WD~comedy_film,157443]]"
-  - "[[_Standards/WikiData/WD~Western_film,172980]]"
-  - "[[_Standards/WikiData/WD~film_noir,185867]]"
-  - "[[_Standards/WikiData/WD~action_film,188473]]"
-  - "[[_Standards/WikiData/WD~adventure_film,319221]]"
-  - "[[_Standards/WikiData/WD~war_film,369747]]"
-  - "[[_Standards/WikiData/WD~epic_film,652256]]"
-  - "[[_Standards/WikiData/WD~crime_film,959790]]"
-  - "[[_Standards/WikiData/WD~romance_film,1054574]]"
-  - "[[_Standards/WikiData/WD~mystery_film,1200678]]"
-  - "[[_Standards/WikiData/WD~thriller_film,2484376]]"
-  - "[[_Standards/WikiData/WD~crime_thriller_film,19367312]]"
-  - "[[_Standards/WikiData/WD~psychological_thriller_film,109733304]]"
-  - "[[_Standards/WikiData/WD~crime_drama_film,113485322]]"
-  - "[[_Standards/WikiData/WD~war_drama,116456802]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~brigadier_general,152956]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Presbyterianism,178169]]"
+  - '[[_Standards/WikiData/WD~drama_film,130232]]'
+  - '[[_Standards/WikiData/WD~fantasy_film,157394]]'
+  - '[[_Standards/WikiData/WD~comedy_film,157443]]'
+  - '[[_Standards/WikiData/WD~Western_film,172980]]'
+  - '[[_Standards/WikiData/WD~film_noir,185867]]'
+  - '[[_Standards/WikiData/WD~action_film,188473]]'
+  - '[[_Standards/WikiData/WD~adventure_film,319221]]'
+  - '[[_Standards/WikiData/WD~war_film,369747]]'
+  - '[[_Standards/WikiData/WD~epic_film,652256]]'
+  - '[[_Standards/WikiData/WD~crime_film,959790]]'
+  - '[[_Standards/WikiData/WD~romance_film,1054574]]'
+  - '[[_Standards/WikiData/WD~mystery_film,1200678]]'
+  - '[[_Standards/WikiData/WD~thriller_film,2484376]]'
+  - '[[_Standards/WikiData/WD~crime_thriller_film,19367312]]'
+  - '[[_Standards/WikiData/WD~psychological_thriller_film,109733304]]'
+  - '[[_Standards/WikiData/WD~crime_drama_film,113485322]]'
+  - '[[_Standards/WikiData/WD~war_drama,116456802]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~brigadier_general,152956]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Presbyterianism,178169]]'
 occupation:
-  - "[[_Standards/WikiData/WD~military_officer,189290]]"
-  - "[[_Standards/WikiData/WD~television_director,2059704]]"
-  - "[[_Standards/WikiData/WD~aircraft_pilot,2095549]]"
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~voice_actor,2405480]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~military_personnel,47064]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+  - '[[_Standards/WikiData/WD~military_officer,189290]]'
+  - '[[_Standards/WikiData/WD~television_director,2059704]]'
+  - '[[_Standards/WikiData/WD~aircraft_pilot,2095549]]'
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~voice_actor,2405480]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~director,3455803]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~military_personnel,47064]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
 cause_of_death:
-  - "[[_Standards/WikiData/WD~cardiac_arrest,202837]]"
-  - "[[_Standards/WikiData/WD~pulmonary_embolism,220570]]"
-  - "[[_Standards/WikiData/WD~thrombosis,261327]]"
-  - "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
-field_of_work: "[[_Standards/WikiData/WD~acting,222749]]"
+  - '[[_Standards/WikiData/WD~cardiac_arrest,202837]]'
+  - '[[_Standards/WikiData/WD~pulmonary_embolism,220570]]'
+  - '[[_Standards/WikiData/WD~thrombosis,261327]]'
+  - '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
+field_of_work: '[[_Standards/WikiData/WD~acting,222749]]'
 military_branch:
-  - "[[_Standards/WikiData/WD~Air_Force_Reserve_Command,407191]]"
-  - "[[_Standards/WikiData/WD~United_States_Army_Air_Forces,741723]]"
-  - "[[_Standards/WikiData/WD~United_States_Army_Air_Corps,2140008]]"
-  - "[[_Standards/WikiData/WD~United_States_Air_Force,11223]]"
-given_name: "[[_Standards/WikiData/WD~James,677191]]"
+  - '[[_Standards/WikiData/WD~Air_Force_Reserve_Command,407191]]'
+  - '[[_Standards/WikiData/WD~United_States_Army_Air_Forces,741723]]'
+  - '[[_Standards/WikiData/WD~United_States_Army_Air_Corps,2140008]]'
+  - '[[_Standards/WikiData/WD~United_States_Air_Force,11223]]'
+given_name: '[[_Standards/WikiData/WD~James,677191]]'
 advertises: "[[_Standards/WikiData/WD~Campbell's,1030544]]"
-place_of_birth: "[[_Standards/WikiData/WD~Indiana,1184769]]"
-place_of_burial: "[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1437214]]"
-family_name: "[[_Standards/WikiData/WD~Stewart,2801971]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-filmography: "[[_Standards/WikiData/WD~James_Stewart_filmography,4819947]]"
-different_from: "[[_Standards/WikiData/WD~James_Stewart,_2nd_Earl_of_Moray,6143627]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+place_of_birth: '[[_Standards/WikiData/WD~Indiana,1184769]]'
+place_of_burial: '[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1437214]]'
+family_name: '[[_Standards/WikiData/WD~Stewart,2801971]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+filmography: '[[_Standards/WikiData/WD~James_Stewart_filmography,4819947]]'
+different_from: '[[_Standards/WikiData/WD~James_Stewart,_2nd_Earl_of_Moray,6143627]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Mercersburg_Academy,6818330]]"
-  - "[[_Standards/WikiData/WD~Princeton_University_School_of_Architecture,48741567]]"
-spouse: "[[_Standards/WikiData/WD~Gloria_Hatrick_McLean,20988924]]"
-archives_at: "[[_Standards/WikiData/WD~L._Tom_Perry_Special_Collections,27811431]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-represented_by: "[[_Standards/WikiData/WD~Music_Corporation_of_America,_Inc.,61205003]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-mother: "[[_Standards/WikiData/WD~Elizabeth_Ruth_Stewart,102346910]]"
+  - '[[_Standards/WikiData/WD~Mercersburg_Academy,6818330]]'
+  - '[[_Standards/WikiData/WD~Princeton_University_School_of_Architecture,48741567]]'
+spouse: '[[_Standards/WikiData/WD~Gloria_Hatrick_McLean,20988924]]'
+archives_at: '[[_Standards/WikiData/WD~L._Tom_Perry_Special_Collections,27811431]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+represented_by: '[[_Standards/WikiData/WD~Music_Corporation_of_America,_Inc.,61205003]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+mother: '[[_Standards/WikiData/WD~Elizabeth_Ruth_Stewart,102346910]]'
 Plex_person_key: 5d77682585719b001f3a0574
 Europeana_entity: agent/base/146854
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/STYUART_DZHEMS.html
@@ -130,12 +130,12 @@ work_period_end_: 1991-01-01T00:00:00Z
 date_of_death: 1997-07-02T00:00:00Z
 work_period_start_: 1932-01-01T00:00:00Z
 date_of_birth: 1908-05-20T00:00:00Z
-father: "[[_Standards/WikiData/WD~Alexander_Maitland_Stewart,126255600]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-partner_in_business_or_sport: "[[_Standards/WikiData/WD~Alfred_Hitchcock,7374]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Republican_Party,29468]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+father: '[[_Standards/WikiData/WD~Alexander_Maitland_Stewart,126255600]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+partner_in_business_or_sport: '[[_Standards/WikiData/WD~Alfred_Hitchcock,7374]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 4
 height: 191
 Commons_gallery: James Stewart
@@ -146,8 +146,8 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/James%20stewart%20receives%20academy%20award%201941.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/James%20%22Jimmy%20Stewart%22%20autograph.svg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Jimmy%20Stewart%20grave%20at%20Forest%20Lawn%20Cemetery%20in%20Glendale%2C%20California.JPG
-ISNI: "0000000121039797"
-U_S_National_Archives_Identifier: "10568297"
+ISNI: 0000000121039797
+U_S_National_Archives_Identifier: 10568297
 ---
 
 # [[James_Stewart]] 

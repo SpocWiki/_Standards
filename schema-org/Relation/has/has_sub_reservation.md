@@ -3,23 +3,24 @@ aliases:
   - has sub-reservation
   - subReservation
   - has_sub_reservation
+  - has sub reservation
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sub_reservation
   - sub
   - reservation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_sub_reservation
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

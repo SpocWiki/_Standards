@@ -3,26 +3,27 @@ aliases:
   - Southern Cone
   - Cono Sur
   - Cone Sul
+  - Southern_Cone
 has_id_wikidata: Q236118
-instance_of: "[[_Standards/WikiData/WD~region,82794]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_Southern_Cone,5256135]]"
+instance_of: '[[_Standards/WikiData/WD~region,82794]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_the_Southern_Cone,5256135]]'
 coordinate_location: Point(-67.9 -39.1)
 population: 135707204
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~Paraguay,733]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-  - "[[_Standards/WikiData/WD~Uruguay,77]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
+  - '[[_Standards/WikiData/WD~Chile,298]]'
+  - '[[_Standards/WikiData/WD~Argentina,414]]'
+  - '[[_Standards/WikiData/WD~Paraguay,733]]'
+  - '[[_Standards/WikiData/WD~Bolivia,750]]'
+  - '[[_Standards/WikiData/WD~Uruguay,77]]'
+  - '[[_Standards/WikiData/WD~Brazil,155]]'
 country:
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~Paraguay,733]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-  - "[[_Standards/WikiData/WD~Uruguay,77]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-continent: "[[_Standards/WikiData/WD~South_America,18]]"
+  - '[[_Standards/WikiData/WD~Chile,298]]'
+  - '[[_Standards/WikiData/WD~Argentina,414]]'
+  - '[[_Standards/WikiData/WD~Paraguay,733]]'
+  - '[[_Standards/WikiData/WD~Bolivia,750]]'
+  - '[[_Standards/WikiData/WD~Uruguay,77]]'
+  - '[[_Standards/WikiData/WD~Brazil,155]]'
+continent: '[[_Standards/WikiData/WD~South_America,18]]'
 area: 5712034
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Cono%20Sur.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cono%20Sur.svg

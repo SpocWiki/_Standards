@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Fiji
+  - Fidji
+  - فيجي
+  - 斐济
+  - Фиджи
+  - the Republic of Fiji
+  - la República de Fiji
+has_id_wikidata: Q712
 instance_of:
   - "[[_Standards/WikiData/WD~island_country,112099]]"
   - "[[_Standards/WikiData/WD~unitary_state,179164]]"
@@ -151,7 +160,7 @@ official_language:
   - "[[_Standards/WikiData/WD~Fijian,33295]]"
   - "[[_Standards/WikiData/WD~Fiji_Hindi,46728]]"
 lowest_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
-inception: "1970"
+inception: 1970
 has_time_started: 1970-06
 suicide_rate: 5
 unemployment_rate: 8
@@ -252,7 +261,6 @@ CIVICUS_Monitor_country_entry: fiji
 Commons_gallery: Fiji / Viti
 subreddit: FijiIslands
 Unicode_character: 🇫🇯
-has_id_wikidata: Q712
 location:
   - -18.1667
   - 178.45
@@ -269,20 +277,12 @@ cssclasses:
   - Country
 publish: true
 title: Fiji
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Fiji
-  - Fidji
-  - فيجي
-  - 斐济
-  - Фиджи
-  - the Republic of Fiji
-  - la República de Fiji
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-FJ
   - fj

@@ -4,21 +4,22 @@ aliases:
   - required-quantity
   - requiredQuantity
   - has_value_for_required_quantity
+  - has value for required quantity
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - required-quantity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_required-quantity
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

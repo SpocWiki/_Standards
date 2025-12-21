@@ -3,55 +3,56 @@ aliases:
   - matrimony
   - wedlock
   - Ehe
+  - Marriage
 has_id_wikidata: Q8445
 follows:
-  - "[[_Standards/WikiData/WD~engagement,157512]]"
-  - "[[_Standards/WikiData/WD~wedding,49836]]"
+  - '[[_Standards/WikiData/WD~engagement,157512]]'
+  - '[[_Standards/WikiData/WD~wedding,49836]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~institution,178706]]"
-  - "[[_Standards/WikiData/WD~occurrence,1190554]]"
-  - "[[_Standards/WikiData/WD~legal_institution,1938208]]"
-  - "[[_Standards/WikiData/WD~nominal_kinship,11666901]]"
+  - '[[_Standards/WikiData/WD~institution,178706]]'
+  - '[[_Standards/WikiData/WD~occurrence,1190554]]'
+  - '[[_Standards/WikiData/WD~legal_institution,1938208]]'
+  - '[[_Standards/WikiData/WD~nominal_kinship,11666901]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
-  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
-subclass_of: "[[_Standards/WikiData/WD~intimate_relationship,736922]]"
-followed_by: "[[_Standards/WikiData/WD~legal_separation,1142948]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
+  - '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+subclass_of: '[[_Standards/WikiData/WD~intimate_relationship,736922]]'
+followed_by: '[[_Standards/WikiData/WD~legal_separation,1142948]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~procreation,1899900]]"
-  - "[[_Standards/WikiData/WD~sexual_morality,105888744]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
-has_effect: "[[_Standards/WikiData/WD~married_couple,3046146]]"
+  - '[[_Standards/WikiData/WD~procreation,1899900]]'
+  - '[[_Standards/WikiData/WD~sexual_morality,105888744]]'
+  - '[[_Standards/WikiData/WD~religion,9174]]'
+has_effect: '[[_Standards/WikiData/WD~married_couple,3046146]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~Q3851942,3851942]]"
-  - "[[_Standards/WikiData/WD~romantic_relationship,110088311]]"
-has_characteristic: "[[_Standards/WikiData/WD~type_of_marriage,7860953]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-has_part_s_: "[[_Standards/WikiData/WD~marital_debt,16034121]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~married,37713312]]"
-opposite_of: "[[_Standards/WikiData/WD~not_married,109324480]]"
+  - '[[_Standards/WikiData/WD~Q3851942,3851942]]'
+  - '[[_Standards/WikiData/WD~romantic_relationship,110088311]]'
+has_characteristic: '[[_Standards/WikiData/WD~type_of_marriage,7860953]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+has_part_s_: '[[_Standards/WikiData/WD~marital_debt,16034121]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~married,37713312]]'
+opposite_of: '[[_Standards/WikiData/WD~not_married,109324480]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Bridal_allegory_room,131449701]]"
-  - "[[_Standards/WikiData/WD~Manuscript_Leaf_with_Marriage_Scene,_from_Decretals_of_Gregory_IX,131557419]]"
-  - "[[_Standards/WikiData/WD~Fragment_of_a_sarcophagus_with_wedding_scenes,131812915]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~marriage_(duplicate_page),134881170]]"
+  - '[[_Standards/WikiData/WD~Bridal_allegory_room,131449701]]'
+  - '[[_Standards/WikiData/WD~Manuscript_Leaf_with_Marriage_Scene,_from_Decretals_of_Gregory_IX,131557419]]'
+  - '[[_Standards/WikiData/WD~Fragment_of_a_sarcophagus_with_wedding_scenes,131812915]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~marriage_(duplicate_page),134881170]]'
 Wikidata_property:
   - annual number of weddings
   - spouse
-IAB_code: "165"
-OmegaWiki_Defined_Meaning: "5531"
+IAB_code: 165
+OmegaWiki_Defined_Meaning: 5531
 IMDb_keyword: marriage
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ay%C5%9Feg%C3%BCl%20Ferhat%20Kurto%C4%9Flu.JPG
 Commons_category: Marriage
@@ -60,7 +61,7 @@ subreddit: Marriage
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-R%20Ashwani%20Banjan%20Murmu-%E1%B1%B5%E1%B1%9F%E1%B1%AF%E1%B1%9E%E1%B1%9F.wav
 equivalent_class: http://dbpedia.org/ontology/Marriage
 Unicode_character: ⚭
-P8189: "987007553383705171"
+P8189: 987007553383705171
 UMLS_CUI: C3661522
 MeSH_tree_code:
   - F01.829.263.315.500.500

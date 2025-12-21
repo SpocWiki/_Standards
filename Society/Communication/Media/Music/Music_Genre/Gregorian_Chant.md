@@ -1,27 +1,29 @@
 ---
 aliases:
   - Gregorian chant
+  - Gregorian_Chant
+  - Gregorian Chant
 has_id_wikidata: Q26473
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~musical_form,862597]]"
-  - "[[_Standards/WikiData/WD~song_type,107356781]]"
+  - '[[_Standards/WikiData/WD~music_genre,188451]]'
+  - '[[_Standards/WikiData/WD~musical_form,862597]]'
+  - '[[_Standards/WikiData/WD~song_type,107356781]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~monody,827775]]"
-  - "[[_Standards/WikiData/WD~plainsong,2707688]]"
-studied_by: "[[_Standards/WikiData/WD~semiology,1545237]]"
-uses: "[[_Standards/WikiData/WD~repercussion,1803735]]"
-practiced_by: "[[_Standards/WikiData/WD~gregorianist,56259975]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Gregorian_chant,116983718]]"
+  - '[[_Standards/WikiData/WD~monody,827775]]'
+  - '[[_Standards/WikiData/WD~plainsong,2707688]]'
+studied_by: '[[_Standards/WikiData/WD~semiology,1545237]]'
+uses: '[[_Standards/WikiData/WD~repercussion,1803735]]'
+practiced_by: '[[_Standards/WikiData/WD~gregorianist,56259975]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Gregorian_chant,116983718]]'
 inception: 0900-01-01T00:00:00Z
-language_of_work_or_name: "[[_Standards/WikiData/WD~Latin,397]]"
-country_of_origin: "[[_Standards/WikiData/WD~Europe,46]]"
-named_after: "[[_Standards/WikiData/WD~Gregory_I,42827]]"
+language_of_work_or_name: '[[_Standards/WikiData/WD~Latin,397]]'
+country_of_origin: '[[_Standards/WikiData/WD~Europe,46]]'
+named_after: '[[_Standards/WikiData/WD~Gregory_I,42827]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Graduale%20Aboense%202.jpg
 Provenio_UUID: c6731e14-31d4-420f-806b-02ea27b2f02a
 Commons_category: Gregorian chant

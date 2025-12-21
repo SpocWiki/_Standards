@@ -1,25 +1,27 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MonetaryGrant
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Grant
 fields:
-- id: hoZhlW
-  name: Amount
-  options: {}
-  type: Number
-  path: ''
+  - id: hoZhlW
+    name: Amount
+    options: {}
+    type: Number
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MonetaryGrant
-- class/Thing/Intangible/Grant/MonetaryGrant
-- is_a_/MonetaryGrant
-- schema-org/MonetaryGrant
+  - class/MonetaryGrant
+  - class/Thing/Intangible/Grant/MonetaryGrant
+  - is_a_/MonetaryGrant
+  - schema-org/MonetaryGrant
 tags:
-- class/FileClass
-- class/MonetaryGrant
-- is_a_/MonetaryGrant
-- class/Thing/Intangible/Grant/MonetaryGrant
+  - class/FileClass
+  - class/MonetaryGrant
+  - is_a_/MonetaryGrant
+  - class/Thing/Intangible/Grant/MonetaryGrant
 version: 2.0
 ---
 

@@ -6,17 +6,19 @@ aliases:
   - bride-wealth
   - bride service
   - bride token
+  - Bride_Price
+  - Bride Price
 has_id_wikidata: Q765157
 instance_of:
-  - "[[_Standards/WikiData/WD~custom,251777]]"
-  - "[[_Standards/WikiData/WD~deed,705914]]"
+  - '[[_Standards/WikiData/WD~custom,251777]]'
+  - '[[_Standards/WikiData/WD~deed,705914]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~mahr,902443]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~mahr,902443]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Wiano,16614710]]"
-  - "[[_Standards/WikiData/WD~dowry,45803]]"
+  - '[[_Standards/WikiData/WD~Wiano,16614710]]'
+  - '[[_Standards/WikiData/WD~dowry,45803]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%B2%20%D0%9C%D0%B0%D0%BB%D0%BE%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8.jpg
 Commons_category: Bridewealth
 ---

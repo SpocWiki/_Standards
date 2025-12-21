@@ -3,17 +3,19 @@ aliases:
   - Doppler effect
   - Doppler Effekt
   - Doppler shift
+  - Doppler_Effect
+  - Doppler Effect
 has_id_wikidata: Q76436
-named_after: "[[_Standards/WikiData/WD~Christian_Doppler,84284]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Christian_Doppler,84284]]"
-instance_of: "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
+named_after: '[[_Standards/WikiData/WD~Christian_Doppler,84284]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Christian_Doppler,84284]]'
+instance_of: '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi><mo stretchy="false">=</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>c</mi><mo stretchy="false">+</mo><msub><mi>v</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mtext>r</mtext></mrow></mrow></msub></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>c</mi><mo stretchy="false">+</mo><msub><mi>v</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mtext>s</mtext></mrow></mrow></msub></mrow></mrow></mfrac></mrow><mo data-mjx-texclass="CLOSE">)</mo></mrow><msub><mi>f</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub></mstyle></mrow></math>
 time_of_discovery_or_invention: 1842-01-01T00:00:00Z
-OmegaWiki_Defined_Meaning: "427379"
+OmegaWiki_Defined_Meaning: 427379
 Commons_gallery: Doppler effect
 Commons_category: Doppler effect
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Doppler%20effect%20diagrammatic.png

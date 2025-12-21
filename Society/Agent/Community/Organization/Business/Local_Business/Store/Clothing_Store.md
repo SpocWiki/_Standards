@@ -4,20 +4,22 @@ aliases:
   - clothing_store
   - ClothingStore
   - is_a_clothing_store
+  - Clothing_Store
+  - Clothing Store
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - clothing_store
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_clothing_store Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

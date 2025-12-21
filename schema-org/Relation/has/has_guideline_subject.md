@@ -3,23 +3,24 @@ aliases:
   - has guideline-subject
   - guidelineSubject
   - has_guideline_subject
+  - has guideline subject
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - guideline_subject
   - guideline
   - subject
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_guideline_subject
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

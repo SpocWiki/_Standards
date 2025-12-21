@@ -2,44 +2,45 @@
 aliases:
   - ᜆᜄᜎᜓᜄ᜔
   - Tagalog
+  - Lang-tgl
 has_id_wikidata: Q34057
 GOST_7_75_97_code: таг 636
 native_label: wikang Tagalog
 indigenous_to:
-  - "[[_Standards/WikiData/WD~Luzon,125384]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
+  - '[[_Standards/WikiData/WD~Luzon,125384]]'
+  - '[[_Standards/WikiData/WD~Philippines,928]]'
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~verb_subject_object,166097]]"
-  - "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
-  - "[[_Standards/WikiData/WD~verb_object_subject,568140]]"
-  - "[[_Standards/WikiData/WD~subject_verb_object,651641]]"
-  - "[[_Standards/WikiData/WD~object_verb_subject,989463]]"
-  - "[[_Standards/WikiData/WD~pitch_accent,1441804]]"
-  - "[[_Standards/WikiData/WD~syllable_timed,10375435]]"
-  - "[[_Standards/WikiData/WD~adjective_noun,74834637]]"
-  - "[[_Standards/WikiData/WD~synthetic_language,48612]]"
+  - '[[_Standards/WikiData/WD~verb_subject_object,166097]]'
+  - '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
+  - '[[_Standards/WikiData/WD~verb_object_subject,568140]]'
+  - '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
+  - '[[_Standards/WikiData/WD~object_verb_subject,989463]]'
+  - '[[_Standards/WikiData/WD~pitch_accent,1441804]]'
+  - '[[_Standards/WikiData/WD~syllable_timed,10375435]]'
+  - '[[_Standards/WikiData/WD~adjective_noun,74834637]]'
+  - '[[_Standards/WikiData/WD~synthetic_language,48612]]'
 has_tense:
-  - "[[_Standards/WikiData/WD~present_tense,192613]]"
-  - "[[_Standards/WikiData/WD~future_tense,501405]]"
-  - "[[_Standards/WikiData/WD~present_perfect,1240211]]"
-  - "[[_Standards/WikiData/WD~past_tense,1994301]]"
-writing_system: "[[_Standards/WikiData/WD~Filipino_alphabet,278446]]"
+  - '[[_Standards/WikiData/WD~present_tense,192613]]'
+  - '[[_Standards/WikiData/WD~future_tense,501405]]'
+  - '[[_Standards/WikiData/WD~present_perfect,1240211]]'
+  - '[[_Standards/WikiData/WD~past_tense,1994301]]'
+writing_system: '[[_Standards/WikiData/WD~Filipino_alphabet,278446]]'
 has_grammatical_case:
-  - "[[_Standards/WikiData/WD~absolutive_case,332734]]"
-  - "[[_Standards/WikiData/WD~oblique_case,1233197]]"
-  - "[[_Standards/WikiData/WD~direct_case,1751855]]"
-described_by_source: "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[_Standards/WikiData/WD~absolutive_case,332734]]'
+  - '[[_Standards/WikiData/WD~oblique_case,1233197]]'
+  - '[[_Standards/WikiData/WD~direct_case,1751855]]'
+described_by_source: '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~3_Wider_Communication,29051549]]"
-different_from: "[[_Standards/WikiData/WD~Tantalog,122326776]]"
-subclass_of: "[[_Standards/WikiData/WD~Tagalogic,124457471]]"
-country: "[[_Standards/WikiData/WD~Philippines,928]]"
+  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
+  - '[[_Standards/WikiData/WD~natural_language,33742]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~3_Wider_Communication,29051549]]'
+different_from: '[[_Standards/WikiData/WD~Tantalog,122326776]]'
+subclass_of: '[[_Standards/WikiData/WD~Tagalogic,124457471]]'
+country: '[[_Standards/WikiData/WD~Philippines,928]]'
 number_of_speakers_writers_or_signers: 23600000
-OmegaWiki_Defined_Meaning: "6682"
-IAB_code: "1192"
-ABS_ASCL_2011_code: "6511"
+OmegaWiki_Defined_Meaning: 6682
+IAB_code: 1192
+ABS_ASCL_2011_code: 6511
 WALS_lect_code: tag
 Wikimedia_language_code: tl
 IETF_language_tag: tl
@@ -65,10 +66,10 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Fi
 exact_match: http://publications.europa.eu/resource/authority/language/TGL
 Stack_Exchange_tag: https://linguistics.stackexchange.com/tags/tagalog
 IPA_transcription:
-  - "[tɐˈɡaːloɡ]"
+  - '[tɐˈɡaːloɡ]'
   - /təˈɡɑːlɒɡ/
 Linguasphere_code: 31-CKA-a
-Dewey_Decimal_Classification: "499.211"
+Dewey_Decimal_Classification: 499.211
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/TAGALSKI_YAZIK.html
 Glottolog_code: taga1269
 Commons_category: Tagalog language

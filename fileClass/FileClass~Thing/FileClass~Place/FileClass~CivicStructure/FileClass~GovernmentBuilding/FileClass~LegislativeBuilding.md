@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~LegislativeBuilding
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/LegislativeBuilding
-- class/Thing/Place/CivicStructure/GovernmentBuilding/LegislativeBuilding
-- is_a_/LegislativeBuilding
-- schema-org/LegislativeBuilding
+  - class/LegislativeBuilding
+  - class/Thing/Place/CivicStructure/GovernmentBuilding/LegislativeBuilding
+  - is_a_/LegislativeBuilding
+  - schema-org/LegislativeBuilding
 tags:
-- class/FileClass
-- class/LegislativeBuilding
-- is_a_/LegislativeBuilding
-- class/Thing/Place/CivicStructure/GovernmentBuilding/LegislativeBuilding
+  - class/FileClass
+  - class/LegislativeBuilding
+  - is_a_/LegislativeBuilding
+  - class/Thing/Place/CivicStructure/GovernmentBuilding/LegislativeBuilding
 version: 2.0
 ---
 

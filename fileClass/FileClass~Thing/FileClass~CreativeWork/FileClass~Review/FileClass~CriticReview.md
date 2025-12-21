@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CriticReview
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CriticReview
-- class/Thing/CreativeWork/Review/CriticReview
-- is_a_/CriticReview
-- schema-org/CriticReview
+  - class/CriticReview
+  - class/Thing/CreativeWork/Review/CriticReview
+  - is_a_/CriticReview
+  - schema-org/CriticReview
 tags:
-- class/FileClass
-- class/CriticReview
-- is_a_/CriticReview
-- class/Thing/CreativeWork/Review/CriticReview
+  - class/FileClass
+  - class/CriticReview
+  - is_a_/CriticReview
+  - class/Thing/CreativeWork/Review/CriticReview
 version: 2.0
 ---
 

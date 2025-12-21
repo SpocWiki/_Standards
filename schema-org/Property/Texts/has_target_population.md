@@ -4,22 +4,24 @@ aliases:
   - target_population
   - targetPopulation
   - has_text_of_target_population
+  - has_target_population
+  - has target population
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - target
   - population
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_target_population
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

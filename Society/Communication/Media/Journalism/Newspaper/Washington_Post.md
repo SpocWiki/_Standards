@@ -1,9 +1,11 @@
 ---
 aliases:
   - The_Washington_Post
-  - The Washington Post 
-  - The Post 
+  - The Washington Post
+  - The Post
   - WaPo
+  - Washington_Post
+  - Washington Post
 has_id_wikidata: Q166032
 X_Twitter_username:
   - capitalweather
@@ -18,43 +20,43 @@ Snapchat_username: washingtonpost
 Facebook_username: washingtonpost
 Instagram_username: washingtonpost
 title: The Washington Post
-political_ideology: "[[_Standards/WikiData/WD~neoliberalism,162719]]"
-owned_by: "[[_Standards/WikiData/WD~Jeff_Bezos,312556]]"
-indexed_in_bibliographic_review: "[[_Standards/WikiData/WD~Scopus,371467]]"
+political_ideology: '[[_Standards/WikiData/WD~neoliberalism,162719]]'
+owned_by: '[[_Standards/WikiData/WD~Jeff_Bezos,312556]]'
+indexed_in_bibliographic_review: '[[_Standards/WikiData/WD~Scopus,371467]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Pulitzer_Prize_for_Breaking_News_Reporting,636181]]"
-  - "[[_Standards/WikiData/WD~Pulitzer_Prize_for_Public_Service,644995]]"
-  - "[[_Standards/WikiData/WD~George_Polk_Award,845188]]"
-  - "[[_Standards/WikiData/WD~Pulitzer_Prize_for_Explanatory_Reporting,1434915]]"
-  - "[[_Standards/WikiData/WD~Pulitzer_Prize_for_National_Reporting,1671917]]"
-newspaper_format: "[[_Standards/WikiData/WD~broadsheet,665319]]"
-political_alignment: "[[_Standards/WikiData/WD~centre_left,737014]]"
+  - '[[_Standards/WikiData/WD~Pulitzer_Prize_for_Breaking_News_Reporting,636181]]'
+  - '[[_Standards/WikiData/WD~Pulitzer_Prize_for_Public_Service,644995]]'
+  - '[[_Standards/WikiData/WD~George_Polk_Award,845188]]'
+  - '[[_Standards/WikiData/WD~Pulitzer_Prize_for_Explanatory_Reporting,1434915]]'
+  - '[[_Standards/WikiData/WD~Pulitzer_Prize_for_National_Reporting,1671917]]'
+newspaper_format: '[[_Standards/WikiData/WD~broadsheet,665319]]'
+political_alignment: '[[_Standards/WikiData/WD~centre_left,737014]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~daily_newspaper,1110794]]"
-  - "[[_Standards/WikiData/WD~newspaper,11032]]"
+  - '[[_Standards/WikiData/WD~daily_newspaper,1110794]]'
+  - '[[_Standards/WikiData/WD~newspaper,11032]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Inter_American_Press_Association,1626261]]"
-  - "[[_Standards/WikiData/WD~MDDC_Press_Association,117804418]]"
-  - "[[_Standards/WikiData/WD~Virginia_Press_Association,117804432]]"
-publisher: "[[_Standards/WikiData/WD~Fred_Ryan,5496202]]"
+  - '[[_Standards/WikiData/WD~Inter_American_Press_Association,1626261]]'
+  - '[[_Standards/WikiData/WD~MDDC_Press_Association,117804418]]'
+  - '[[_Standards/WikiData/WD~Virginia_Press_Association,117804432]]'
+publisher: '[[_Standards/WikiData/WD~Fred_Ryan,5496202]]'
 child_organization_or_unit:
-  - "[[_Standards/WikiData/WD~The_Washington_Post_Writers_Group,7773643]]"
-  - "[[_Standards/WikiData/WD~International_Herald_Tribune,100294968]]"
-founded_by: "[[_Standards/WikiData/WD~Stilson_Hutchins,12060630]]"
-editor: "[[_Standards/WikiData/WD~Matt_Murray,54917992]]"
-described_by_source: "[[_Standards/WikiData/WD~The_Expanding_News_Desert,99202247]]"
-published_in: "[[_Standards/WikiData/WD~The_Washington_Weekly_Post,100286252]]"
-has_edition_or_translation: "[[_Standards/WikiData/WD~The_Washington_Weekly_Post,100286252]]"
-operator: "[[_Standards/WikiData/WD~WP_Company,135682958]]"
+  - '[[_Standards/WikiData/WD~The_Washington_Post_Writers_Group,7773643]]'
+  - '[[_Standards/WikiData/WD~International_Herald_Tribune,100294968]]'
+founded_by: '[[_Standards/WikiData/WD~Stilson_Hutchins,12060630]]'
+editor: '[[_Standards/WikiData/WD~Matt_Murray,54917992]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Expanding_News_Desert,99202247]]'
+published_in: '[[_Standards/WikiData/WD~The_Washington_Weekly_Post,100286252]]'
+has_edition_or_translation: '[[_Standards/WikiData/WD~The_Washington_Weekly_Post,100286252]]'
+operator: '[[_Standards/WikiData/WD~WP_Company,135682958]]'
 start_time: 1877-12-06T00:00:00Z
 inception: 1877-01-01T00:00:00Z
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
 main_Wikidata_property: The Washington Post contributor ID
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_publication: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
-headquarters_location: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
-named_after: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_publication: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+headquarters_location: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+named_after: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
 employees: 1000
 publication_interval: 1
 social_media_followers: 2800000
@@ -63,7 +65,7 @@ ISSN:
   - 2641-9599
 ISSN_L: 0190-8286
 Commons_category: The Washington Post
-OCLC_number: "2269358"
+OCLC_number: 2269358
 described_at_URL:
   - http://www.namebase.net:82/names/nn01.cgi?WASHINGTON_POST_
   - https://wikispooks.com/wiki/The_Washington_Post
@@ -71,7 +73,7 @@ motto_text: Democracy Dies in Darkness
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Washington%20Post%20favicon.png
 domain_name: washingtonpost.com
 Bluesky_handle: washingtonpost.com
-Dewey_Decimal_Classification_works_and_editions_: "071"
+Dewey_Decimal_Classification_works_and_editions_: 071
 short_name: Washington Post
 document_file_on_Wikimedia_Commons: http://commons.wikimedia.org/wiki/Special:FilePath/Harold%20Hilton%20wins%201911%20U.S.%20Amateur%20-%20The%20Washington%20Post.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Logo%20of%20The%20Washington%20Post%20Newspaper.svg

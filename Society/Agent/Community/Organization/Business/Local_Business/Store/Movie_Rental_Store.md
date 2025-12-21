@@ -4,20 +4,22 @@ aliases:
   - movie_rental_store
   - MovieRentalStore
   - is_a_movie_rental_store
+  - Movie_Rental_Store
+  - Movie Rental Store
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - movie_rental_store
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_movie_rental_store Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

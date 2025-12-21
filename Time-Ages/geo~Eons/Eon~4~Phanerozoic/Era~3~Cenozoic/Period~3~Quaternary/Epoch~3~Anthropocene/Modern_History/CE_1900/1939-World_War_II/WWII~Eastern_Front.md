@@ -3,59 +3,61 @@ aliases:
   - Eastern Front
   - Great Patriotic War
   - German–Soviet War
+  - WWII~Eastern_Front
+  - WWII~Eastern Front
 has_id_wikidata: Q189266
 has_effect:
-  - "[[_Standards/WikiData/WD~Iron_Curtain,124425]]"
+  - '[[_Standards/WikiData/WD~Iron_Curtain,124425]]'
   - "[[_Standards/WikiData/WD~Polish_People's_Republic,211274]]"
-  - "[[_Standards/WikiData/WD~Baltic_region,579938]]"
-  - "[[_Standards/WikiData/WD~Socialist_Republic_of_Romania,842794]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+  - '[[_Standards/WikiData/WD~Baltic_region,579938]]'
+  - '[[_Standards/WikiData/WD~Socialist_Republic_of_Romania,842794]]'
+  - '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
   - "[[_Standards/WikiData/WD~Hungarian_People's_Republic,16410]]"
-  - "[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]"
-  - "[[_Standards/WikiData/WD~Balkans,23522]]"
-  - "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
-  - "[[_Standards/WikiData/WD~Central_Europe,27509]]"
-  - "[[_Standards/WikiData/WD~Czechoslovakia,33946]]"
+  - '[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]'
+  - '[[_Standards/WikiData/WD~Balkans,23522]]'
+  - '[[_Standards/WikiData/WD~Eastern_Europe,27468]]'
+  - '[[_Standards/WikiData/WD~Central_Europe,27509]]'
+  - '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
 participant:
-  - "[[_Standards/WikiData/WD~Slovak_Republic,154401]]"
-  - "[[_Standards/WikiData/WD~Yugoslav_Partisans,155198]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Romania,203493]]"
-  - "[[_Standards/WikiData/WD~Allies_of_World_War_II,329888]]"
-  - "[[_Standards/WikiData/WD~Spanish_Republican_government_in_exile,3235719]]"
-  - "[[_Standards/WikiData/WD~Francoist_Spain,13474305]]"
-  - "[[_Standards/WikiData/WD~Fascist_Italy,48742118]]"
-  - "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Finland,33]]"
+  - '[[_Standards/WikiData/WD~Slovak_Republic,154401]]'
+  - '[[_Standards/WikiData/WD~Yugoslav_Partisans,155198]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Romania,203493]]'
+  - '[[_Standards/WikiData/WD~Allies_of_World_War_II,329888]]'
+  - '[[_Standards/WikiData/WD~Spanish_Republican_government_in_exile,3235719]]'
+  - '[[_Standards/WikiData/WD~Francoist_Spain,13474305]]'
+  - '[[_Standards/WikiData/WD~Fascist_Italy,48742118]]'
+  - '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+  - '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+  - '[[_Standards/WikiData/WD~Hungary,28]]'
+  - '[[_Standards/WikiData/WD~Finland,33]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~Lebensraum,157136]]"
-  - "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
-  - "[[_Standards/WikiData/WD~racism,8461]]"
+  - '[[_Standards/WikiData/WD~Lebensraum,157136]]'
+  - '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+  - '[[_Standards/WikiData/WD~racism,8461]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~Soviet_partisans,313830]]"
-  - "[[_Standards/WikiData/WD~Speech_by_V._M._Molotov_on_the_radio_on_June_22,_1941,4129662]]"
+  - '[[_Standards/WikiData/WD~Soviet_partisans,313830]]'
+  - '[[_Standards/WikiData/WD~Speech_by_V._M._Molotov_on_the_radio_on_June_22,_1941,4129662]]'
   - "[[_Standards/WikiData/WD~Stalin's_speech_on_the_radio_on_3_July_1941,4129660]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~war_front,842332]]"
-  - "[[_Standards/WikiData/WD~war,198]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - '[[_Standards/WikiData/WD~war_front,842332]]'
+  - '[[_Standards/WikiData/WD~war,198]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Q4106312,4106312]]"
-  - "[[_Standards/WikiData/WD~Patriotic_War,7148056]]"
-  - "[[_Standards/WikiData/WD~Great_Patriotic_War,19896779]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_World_War_II,106513510]]"
-has_characteristic: "[[_Standards/WikiData/WD~rear_area_of_the_army,130336499]]"
-part_of: "[[_Standards/WikiData/WD~Russo_German_wars,130479853]]"
-country: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+  - '[[_Standards/WikiData/WD~Q4106312,4106312]]'
+  - '[[_Standards/WikiData/WD~Patriotic_War,7148056]]'
+  - '[[_Standards/WikiData/WD~Great_Patriotic_War,19896779]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_World_War_II,106513510]]'
+has_characteristic: '[[_Standards/WikiData/WD~rear_area_of_the_army,130336499]]'
+part_of: '[[_Standards/WikiData/WD~Russo_German_wars,130479853]]'
+country: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
 location:
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~Balkans,23522]]"
-  - "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
-  - "[[_Standards/WikiData/WD~Northern_Europe,27479]]"
-  - "[[_Standards/WikiData/WD~Central_Europe,27509]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-target: "[[_Standards/WikiData/WD~Soviet_occupation_zone_of_Germany,55300]]"
+  - '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+  - '[[_Standards/WikiData/WD~Balkans,23522]]'
+  - '[[_Standards/WikiData/WD~Eastern_Europe,27468]]'
+  - '[[_Standards/WikiData/WD~Northern_Europe,27479]]'
+  - '[[_Standards/WikiData/WD~Central_Europe,27509]]'
+  - '[[_Standards/WikiData/WD~Europe,46]]'
+target: '[[_Standards/WikiData/WD~Soviet_occupation_zone_of_Germany,55300]]'
 end_time:
   - 1955-01-21T00:00:00Z
   - 1945-05-07T00:00:00Z

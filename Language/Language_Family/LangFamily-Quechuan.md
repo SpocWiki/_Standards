@@ -1,46 +1,47 @@
 ---
-tags:
-  - Lang_Family
-type: LangFamily
 aliases:
   - Kichwa
   - Quichua
+  - LangFamily-Quechuan
 has_id_wikidata: Q5218
+tags:
+  - Lang_Family
+type: LangFamily
 instance_of:
-  - "[[_Standards/WikiData/WD~macrolanguage,152559]]"
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~human_language,20162172]]"
-  - "[[_Standards/WikiData/WD~language_family,25295]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
+  - '[[_Standards/WikiData/WD~macrolanguage,152559]]'
+  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
+  - '[[_Standards/WikiData/WD~human_language,20162172]]'
+  - '[[_Standards/WikiData/WD~language_family,25295]]'
+  - '[[_Standards/WikiData/WD~natural_language,33742]]'
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
-  - "[[_Standards/WikiData/WD~subject_object_verb,539808]]"
+  - '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
+  - '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
 has_grammatical_case:
-  - "[[_Standards/WikiData/WD~abessive_case,319822]]"
-  - "[[_Standards/WikiData/WD~comitative_case,838581]]"
-  - "[[_Standards/WikiData/WD~causal_case,2943136]]"
-  - "[[_Standards/WikiData/WD~comparative_case,5155633]]"
-language_regulatory_body: "[[_Standards/WikiData/WD~Academia_Mayor_de_la_Lengua_Quechua,337244]]"
+  - '[[_Standards/WikiData/WD~abessive_case,319822]]'
+  - '[[_Standards/WikiData/WD~comitative_case,838581]]'
+  - '[[_Standards/WikiData/WD~causal_case,2943136]]'
+  - '[[_Standards/WikiData/WD~comparative_case,5155633]]'
+language_regulatory_body: '[[_Standards/WikiData/WD~Academia_Mayor_de_la_Lengua_Quechua,337244]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Northern_Quichua,1740805]]"
-  - "[[_Standards/WikiData/WD~Ancash_Quechua,35104]]"
-  - "[[_Standards/WikiData/WD~Cajamarca_Quechua,35112]]"
-  - "[[_Standards/WikiData/WD~Southern_Quechua,36806]]"
-follows: "[[_Standards/WikiData/WD~Proto_Quechua,5575757]]"
+  - '[[_Standards/WikiData/WD~Northern_Quichua,1740805]]'
+  - '[[_Standards/WikiData/WD~Ancash_Quechua,35104]]'
+  - '[[_Standards/WikiData/WD~Cajamarca_Quechua,35112]]'
+  - '[[_Standards/WikiData/WD~Southern_Quechua,36806]]'
+follows: '[[_Standards/WikiData/WD~Proto_Quechua,5575757]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Quechuan,12634451]]"
-  - "[[_Standards/WikiData/WD~Indigenous_languages_of_the_Americas,51739]]"
+  - '[[_Standards/WikiData/WD~Quechuan,12634451]]'
+  - '[[_Standards/WikiData/WD~Indigenous_languages_of_the_Americas,51739]]'
 country:
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~Colombia,739]]"
-  - "[[_Standards/WikiData/WD~Ecuador,736]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-indigenous_to: "[[_Standards/WikiData/WD~Peru,419]]"
-writing_system: "[[_Standards/WikiData/WD~Latin_script,8229]]"
+  - '[[_Standards/WikiData/WD~Argentina,414]]'
+  - '[[_Standards/WikiData/WD~Peru,419]]'
+  - '[[_Standards/WikiData/WD~Colombia,739]]'
+  - '[[_Standards/WikiData/WD~Ecuador,736]]'
+  - '[[_Standards/WikiData/WD~Bolivia,750]]'
+indigenous_to: '[[_Standards/WikiData/WD~Peru,419]]'
+writing_system: '[[_Standards/WikiData/WD~Latin_script,8229]]'
 number_of_speakers_writers_or_signers: 8900000
-IAB_code: "1162"
-OmegaWiki_Defined_Meaning: "393047"
+IAB_code: 1162
+OmegaWiki_Defined_Meaning: 393047
 short_name:
   - кечуа
   - Quechua
@@ -64,7 +65,7 @@ distribution_map:
 exact_match:
   - http://publications.europa.eu/resource/authority/language/QUE
   - https://afbo.info/languages/50
-Dewey_Decimal_Classification: "498.323"
+Dewey_Decimal_Classification: 498.323
 Krugosvet_article_archived_: narody-i-yazyki/kechua-yazyki
 Glottolog_code: quec1387
 Commons_category: Quechuan languages

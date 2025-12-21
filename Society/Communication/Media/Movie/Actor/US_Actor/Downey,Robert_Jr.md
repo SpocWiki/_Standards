@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Robert Downey Jr"
+  - Robert Downey Jr
+  - Downey,Robert_Jr
+  - Downey,Robert Jr
 ---
 
 #has_/time_/started :: 1965-04-04 

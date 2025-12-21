@@ -2,28 +2,30 @@
 aliases:
   - city hall
   - town hall
-  - civic centre 
-  - guildhall 
+  - civic centre
+  - guildhall
   - municipal hall
   - Rathaus
+  - Town_Hall
+  - Town Hall
 has_id_wikidata: Q543654
 different_from:
-  - "[[_Standards/WikiData/WD~town_hall_meeting,1459915]]"
-  - "[[_Standards/WikiData/WD~Rathaus,4390853]]"
-  - "[[_Standards/WikiData/WD~Ratusz,20034697]]"
-  - "[[_Standards/WikiData/WD~Q120793870,120793870]]"
+  - '[[_Standards/WikiData/WD~town_hall_meeting,1459915]]'
+  - '[[_Standards/WikiData/WD~Rathaus,4390853]]'
+  - '[[_Standards/WikiData/WD~Ratusz,20034697]]'
+  - '[[_Standards/WikiData/WD~Q120793870,120793870]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~mairie,9022797]]"
-  - "[[_Standards/WikiData/WD~hôtel_de_ville,15020931]]"
-  - "[[_Standards/WikiData/WD~city_hall,25550691]]"
-  - "[[_Standards/WikiData/WD~ratusz,64163168]]"
-  - "[[_Standards/WikiData/WD~casa_consistorial,112793351]]"
-  - "[[_Standards/WikiData/WD~town_hall,112818750]]"
-facet_of: "[[_Standards/WikiData/WD~civil_architecture,17995705]]"
+  - '[[_Standards/WikiData/WD~mairie,9022797]]'
+  - '[[_Standards/WikiData/WD~hôtel_de_ville,15020931]]'
+  - '[[_Standards/WikiData/WD~city_hall,25550691]]'
+  - '[[_Standards/WikiData/WD~ratusz,64163168]]'
+  - '[[_Standards/WikiData/WD~casa_consistorial,112793351]]'
+  - '[[_Standards/WikiData/WD~town_hall,112818750]]'
+facet_of: '[[_Standards/WikiData/WD~civil_architecture,17995705]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~city_hall,25550691]]"
-  - "[[_Standards/WikiData/WD~government_office_building,117863327]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+  - '[[_Standards/WikiData/WD~city_hall,25550691]]'
+  - '[[_Standards/WikiData/WD~government_office_building,117863327]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gemeentearchief2.jpg
 Commons_category: Town halls
 Commons_gallery: City hall

@@ -1,5 +1,4 @@
 ---
-has_id_wikidata: Q252
 aliases:
   - Indonesia
   - Indonésie
@@ -10,6 +9,7 @@ aliases:
   - la República de Indonesia
   - indonesian
   - indonesisch
+has_id_wikidata: Q252
 flag: "[[_Standards/WikiData/WD~flag_of_Indonesia,101472]]"
 instance_of:
   - "[[_Standards/WikiData/WD~island_country,112099]]"
@@ -1223,12 +1223,12 @@ cssclasses:
   - Country
 publish: true
 title: Indonesia
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 Languages:
   - id
   - en

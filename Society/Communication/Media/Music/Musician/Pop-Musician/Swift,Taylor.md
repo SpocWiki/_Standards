@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Taylor Swift"
+  - Taylor Swift
+  - Swift,Taylor
 ---
 
 ## #has_/text_of_/abstract 

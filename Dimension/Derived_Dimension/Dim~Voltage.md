@@ -1,6 +1,7 @@
 ---
 aliases:
   - Spannung
+  - Dim~Voltage
 has_id_wikidata: Q25428
 subclass_of:
   - "[[_Standards/WikiData/WD~scalar_quantity,181175]]"
@@ -32,7 +33,7 @@ recommended_unit_of_measurement: "[[_Standards/WikiData/WD~volt,25250]]"
 quantity_symbol_string_:
   - V
   - U
-OmegaWiki_Defined_Meaning: "475458"
+OmegaWiki_Defined_Meaning: 475458
 IEV_number: 121-11-27
 OpenStreetMap_key: voltage
 Commons_category: Voltage

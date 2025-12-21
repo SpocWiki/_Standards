@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Assault_Rifle
+  - Assault Rifle
 has_id_wikidata: Q177456
 ---
 

@@ -2,12 +2,13 @@
 aliases:
   - has drive-wheel-configuration
   - has_drive_wheel_configuration
+  - has drive wheel configuration
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - configuration
   - drive_wheel_configuration
   - driveWheelConfiguration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_drive_wheel_configuration
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Annie Lennox"
-- "Ann Lennox"
+  - Annie Lennox
+  - Ann Lennox
+  - Lennox,Annie
 ---
 
 #has_/time_/started :: 1954-12-25  

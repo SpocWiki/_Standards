@@ -4,33 +4,35 @@ aliases:
   - ISO
   - Organisation internationale de normalisation
   - Международная организация по стандартизации
+  - ISO(International_Organization_for_Standardization)
+  - ISO(International Organization for Standardization)
 has_id_wikidata: Q15028
 X_Twitter_username: isostandards
 inception: 1947-02-23T00:00:00Z
 instance_of:
-  - "[[_Standards/WikiData/WD~non_governmental_organization,79913]]"
-  - "[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]"
-  - "[[_Standards/WikiData/WD~standards_organization,1328899]]"
+  - '[[_Standards/WikiData/WD~non_governmental_organization,79913]]'
+  - '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]'
+  - '[[_Standards/WikiData/WD~standards_organization,1328899]]'
 partnership_with:
-  - "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-official_observer_status_in_organization: "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
-different_from: "[[_Standards/WikiData/WD~ISO,215563]]"
+  - '[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]'
+  - '[[_Standards/WikiData/WD~UNESCO,7809]]'
+official_observer_status_in_organization: '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
+different_from: '[[_Standards/WikiData/WD~ISO,215563]]'
 child_organization_unit:
-  - "[[_Standards/WikiData/WD~ISO_IEC_JTC_1,911765]]"
-  - "[[_Standards/WikiData/WD~Q1295787,1295787]]"
-replaces: "[[_Standards/WikiData/WD~International_Federation_of_the_National_Standardizing_Associations,1666547]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_ISO_standards,6494793]]"
-notable_work: "[[_Standards/WikiData/WD~ISO_standard,15087423]]"
-member_of: "[[_Standards/WikiData/WD~Joint_Committee_for_Guides_in_Metrology,18283219]]"
-described_by_source: "[[_Standards/WikiData/WD~Medvik,99413897]]"
-has_characteristic: "[[_Standards/WikiData/WD~United_Nations_General_Consultative_Status,131925847]]"
+  - '[[_Standards/WikiData/WD~ISO_IEC_JTC_1,911765]]'
+  - '[[_Standards/WikiData/WD~Q1295787,1295787]]'
+replaces: '[[_Standards/WikiData/WD~International_Federation_of_the_National_Standardizing_Associations,1666547]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_ISO_standards,6494793]]'
+notable_work: '[[_Standards/WikiData/WD~ISO_standard,15087423]]'
+member_of: '[[_Standards/WikiData/WD~Joint_Committee_for_Guides_in_Metrology,18283219]]'
+described_by_source: '[[_Standards/WikiData/WD~Medvik,99413897]]'
+has_characteristic: '[[_Standards/WikiData/WD~United_Nations_General_Consultative_Status,131925847]]'
 official_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-country: "[[_Standards/WikiData/WD~Switzerland,39]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Geneva,71]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Russian,7737]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+country: '[[_Standards/WikiData/WD~Switzerland,39]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Geneva,71]]'
 member_count: 165
 social_media_followers:
   - 34100
@@ -43,7 +45,7 @@ official_list_URL: https://www.iso.org/members.html
 short_name: ISO
 Commons_category: ISO
 EU_Corporate_body_code: ISO
-OmegaWiki_Defined_Meaning: "415462"
+OmegaWiki_Defined_Meaning: 415462
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20Logo%20%28Red%20square%29.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20Members.svg
 charter_URL: https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/statutes.pdf
@@ -53,7 +55,7 @@ email_address:
   - mailto:DataProtectionOfficer@iso.org
 fax_number: +41-22-7333430
 phone_number: +41-22-7490111
-ISNI: "0000000121827734"
+ISNI: 0000000121827734
 search_formatter_URL: https://www.iso.org/search.html?PROD_isoorg_en[query]=$1
 Facebook_username: isostandards
 Instagram_username: isostandards

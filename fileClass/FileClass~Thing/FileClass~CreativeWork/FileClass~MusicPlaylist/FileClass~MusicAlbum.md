@@ -1,32 +1,34 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MusicAlbum
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist
 fields:
-- id: ds4w8C
-  name: AlbumRelease
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicRelease')"
-  type: MultiFile
-  path: ''
-- id: 4CzL1E
-  name: ByArtist
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')"
-  type: MultiFile
-  path: ''
+  - id: ds4w8C
+    name: AlbumRelease
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicRelease')
+    type: MultiFile
+    path: ''
+  - id: 4CzL1E
+    name: ByArtist
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
+    type: MultiFile
+    path: ''
 icon: list-music
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MusicAlbum
-- class/Thing/CreativeWork/MusicPlaylist/MusicAlbum
-- is_a_/MusicAlbum
-- schema-org/MusicAlbum
+  - class/MusicAlbum
+  - class/Thing/CreativeWork/MusicPlaylist/MusicAlbum
+  - is_a_/MusicAlbum
+  - schema-org/MusicAlbum
 tags:
-- class/FileClass
-- class/MusicAlbum
-- is_a_/MusicAlbum
-- class/Thing/CreativeWork/MusicPlaylist/MusicAlbum
+  - class/FileClass
+  - class/MusicAlbum
+  - is_a_/MusicAlbum
+  - class/Thing/CreativeWork/MusicPlaylist/MusicAlbum
 version: 2.0
 ---
 

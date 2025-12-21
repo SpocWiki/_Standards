@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _Australia-CityDB
+  - ' Australia-CityDB'
 database_plugin: basic
 ---
 

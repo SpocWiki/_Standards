@@ -5,6 +5,7 @@ aliases:
   - Südkorea
   - South Korea
   - South_Korea
+  - Korea~South
 has_id_wikidata: Q884
 located_in_time_zone:
   - "[[_Standards/WikiData/WD~Korea_Standard_Time,76133]]"

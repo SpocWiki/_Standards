@@ -2,6 +2,7 @@
 aliases:
   - Vodafone GmbH
   - Vodafone Germany
+  - Vodafone_Germany
 ---
 
 # [[Vodafone_Germany]] 

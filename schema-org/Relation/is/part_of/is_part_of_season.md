@@ -4,23 +4,24 @@ aliases:
   - part_of_season
   - partOfSeason
   - is_part_of_season
+  - is part of season
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - part
   - of
   - season
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_part_of_season
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

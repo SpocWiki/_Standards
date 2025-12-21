@@ -1,8 +1,9 @@
 ---
 aliases:
-- "Drunken Satyr"
-- "Barberini Faun"
-- "Fauno Barberini"
+  - Drunken Satyr
+  - Barberini Faun
+  - Fauno Barberini
+  - Barberini_Faun
 ---
 
 # [[Barberini_Faun]] 

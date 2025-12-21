@@ -1,6 +1,7 @@
 ---
 aliases:
-- Changxingian
+  - Changxingian
+  - Age~2~Changhsingian
 ---
 
 # [[Age~2~Changhsingian]] 

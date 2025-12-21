@@ -1,6 +1,7 @@
 ---
 aliases:
   - Hydrofoils
+  - Hydrofoil
 ---
 
 # [[Hydrofoil]] 

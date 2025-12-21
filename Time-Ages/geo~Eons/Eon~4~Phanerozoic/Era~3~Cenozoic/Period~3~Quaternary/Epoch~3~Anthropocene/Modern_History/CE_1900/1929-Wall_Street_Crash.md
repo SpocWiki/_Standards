@@ -2,16 +2,18 @@
 aliases:
   - Wall Street crash of 1929
   - the Great Crash
+  - 1929-Wall_Street_Crash
+  - 1929-Wall Street Crash
 has_id_wikidata: Q201684
-different_from: "[[_Standards/WikiData/WD~Black_Friday,86483]]"
-instance_of: "[[_Standards/WikiData/WD~stock_market_crash,1020018]]"
-participant: "[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]"
-location: "[[_Standards/WikiData/WD~United_States,30]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+different_from: '[[_Standards/WikiData/WD~Black_Friday,86483]]'
+instance_of: '[[_Standards/WikiData/WD~stock_market_crash,1020018]]'
+participant: '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]'
+location: '[[_Standards/WikiData/WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 nickname:
   - Black Thursday
   - Black Tuesday
-U_S_National_Archives_Identifier: "10644590"
+U_S_National_Archives_Identifier: 10644590
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Crowd%20outside%20nyse.jpg
 exact_match: https://data.bnf.fr/ark:/12148/cb12517611h
 Commons_category: Wall Street Crash of 1929

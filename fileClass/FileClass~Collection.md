@@ -1,22 +1,24 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Collection
+excludes: ''
 extends: FileClass~Thing
 fields:
-- id: JBawoz
-  name: Items
-  options: {}
-  type: MultiFile
-  path: ''
+  - id: JBawoz
+    name: Items
+    options: {}
+    type: MultiFile
+    path: ''
 icon: shopping-cart
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Collection
-- is_a_/Collection
-- schema-org/Collection
+  - class/Collection
+  - is_a_/Collection
+  - schema-org/Collection
 tags:
-- class/FileClass
-- is_a_/Class
+  - class/FileClass
+  - is_a_/Class
 version: 2.0
 ---
 

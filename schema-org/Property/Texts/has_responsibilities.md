@@ -4,21 +4,23 @@ aliases:
   - responsibilities
   - responsibilities
   - has_text_of_responsibilities
+  - has_responsibilities
+  - has responsibilities
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - responsibilities
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_responsibilities
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

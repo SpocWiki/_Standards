@@ -4,21 +4,22 @@ aliases:
   - comment_count
   - commentCount
   - has_number_of_comments
+  - has number of comments
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - comment_count
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_comment_count
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

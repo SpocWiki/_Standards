@@ -2,6 +2,7 @@
 aliases:
   - Baroque Composer
   - Baroque Composers
+  - Baroque_Composers
 ---
 
 

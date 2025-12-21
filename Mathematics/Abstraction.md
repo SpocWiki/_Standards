@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Abstraction
 has_id_wikidata: Q673661
 ---
 

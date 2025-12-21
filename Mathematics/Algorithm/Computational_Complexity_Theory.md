@@ -1,21 +1,23 @@
 ---
 aliases:
   - computational complexity theory
+  - Computational_Complexity_Theory
+  - Computational Complexity Theory
 has_id_wikidata: Q205084
 subclass_of:
-  - "[[_Standards/WikiData/WD~computability_theory,818930]]"
-  - "[[_Standards/WikiData/WD~complexity_theory,2755522]]"
+  - '[[_Standards/WikiData/WD~computability_theory,818930]]'
+  - '[[_Standards/WikiData/WD~complexity_theory,2755522]]'
 part_of:
-  - "[[_Standards/WikiData/WD~theoretical_computer_science,2878974]]"
-  - "[[_Standards/WikiData/WD~mathematics,395]]"
+  - '[[_Standards/WikiData/WD~theoretical_computer_science,2878974]]'
+  - '[[_Standards/WikiData/WD~mathematics,395]]'
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~computational_complexity,5157286]]"
-  - "[[_Standards/WikiData/WD~quantum_supremacy,39086255]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-instance_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-described_by_source: "[[_Standards/WikiData/WD~Computational_Complexity,133280473]]"
-facet_of: "[[_Standards/WikiData/WD~algorithm,8366]]"
-OmegaWiki_Defined_Meaning: "974672"
+  - '[[_Standards/WikiData/WD~computational_complexity,5157286]]'
+  - '[[_Standards/WikiData/WD~quantum_supremacy,39086255]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+described_by_source: '[[_Standards/WikiData/WD~Computational_Complexity,133280473]]'
+facet_of: '[[_Standards/WikiData/WD~algorithm,8366]]'
+OmegaWiki_Defined_Meaning: 974672
 Stack_Exchange_tag: https://stackoverflow.com/tags/complexity-theory
 Commons_category: Computational complexity theory
 ---

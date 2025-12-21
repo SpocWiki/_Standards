@@ -1,28 +1,29 @@
 ---
 aliases:
-- has_performer
-- "schema:performer"
-- "dbo:performer"
-- "wdt:P175"
+  - has_performer
+  - schema:performer
+  - dbo:performer
+  - wdt:P175
+  - has performer
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- performer
-layout: 
-license: "CC BY-SA 4.0"
+  - performer
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_performer
 publish: true
-publishDate: 
+publishDate: ''
 supersedes: performers
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_performer
 type: Predi_Relation
 ---

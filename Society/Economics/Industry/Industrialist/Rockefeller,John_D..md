@@ -5,71 +5,73 @@ aliases:
   - John Davison Rockefeller Sr.
   - John Rockefeller
   - Rockefeller
+  - Rockefeller,John_D.
+  - Rockefeller,John D.
 has_id_wikidata: Q160278
-U_S_National_Archives_Identifier: "10581180"
+U_S_National_Archives_Identifier: 10581180
 Libris_URI: fcrv0whz3sd4cwc
 name_in_native_language: John D. Rockefeller
 birth_name: John Davison Rockefeller
 date_of_death: 1937-05-23T00:00:00Z
-religion_or_worldview: "[[_Standards/WikiData/WD~Baptists,93191]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Baptists,93191]]'
 occupation:
-  - "[[_Standards/WikiData/WD~entrepreneur,131524]]"
-  - "[[_Standards/WikiData/WD~accountant,326653]]"
-  - "[[_Standards/WikiData/WD~banker,806798]]"
+  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+  - '[[_Standards/WikiData/WD~accountant,326653]]'
+  - '[[_Standards/WikiData/WD~banker,806798]]'
 child:
-  - "[[_Standards/WikiData/WD~John_D._Rockefeller_Jr.,363984]]"
-  - "[[_Standards/WikiData/WD~Alta_Rockefeller_Prentice,4735997]]"
-  - "[[_Standards/WikiData/WD~Edith_Rockefeller_McCormick,5338659]]"
-  - "[[_Standards/WikiData/WD~Elizabeth_Rockefeller_Strong,5363438]]"
-spouse: "[[_Standards/WikiData/WD~Laura_Spelman_Rockefeller,439950]]"
+  - '[[_Standards/WikiData/WD~John_D._Rockefeller_Jr.,363984]]'
+  - '[[_Standards/WikiData/WD~Alta_Rockefeller_Prentice,4735997]]'
+  - '[[_Standards/WikiData/WD~Edith_Rockefeller_McCormick,5338659]]'
+  - '[[_Standards/WikiData/WD~Elizabeth_Rockefeller_Strong,5363438]]'
+spouse: '[[_Standards/WikiData/WD~Laura_Spelman_Rockefeller,439950]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-ethnic_group: "[[_Standards/WikiData/WD~Americans,846570]]"
-place_of_death: "[[_Standards/WikiData/WD~Ormond_Beach,985167]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+ethnic_group: '[[_Standards/WikiData/WD~Americans,846570]]'
+place_of_death: '[[_Standards/WikiData/WD~Ormond_Beach,985167]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Kykuit,1049544]]"
-  - "[[_Standards/WikiData/WD~Riverside_Church,1156586]]"
-family: "[[_Standards/WikiData/WD~Rockefeller_family,1130469]]"
+  - '[[_Standards/WikiData/WD~Kykuit,1049544]]'
+  - '[[_Standards/WikiData/WD~Riverside_Church,1156586]]'
+family: '[[_Standards/WikiData/WD~Rockefeller_family,1130469]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Frank_Rockefeller,1225501]]"
-  - "[[_Standards/WikiData/WD~William_Rockefeller,1347859]]"
-cause_of_death: "[[_Standards/WikiData/WD~arteriosclerotic_heart_disease,1444550]]"
-place_of_burial: "[[_Standards/WikiData/WD~Lake_View_Cemetery,3372820]]"
-place_of_birth: "[[_Standards/WikiData/WD~Richford,3710131]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+  - '[[_Standards/WikiData/WD~Frank_Rockefeller,1225501]]'
+  - '[[_Standards/WikiData/WD~William_Rockefeller,1347859]]'
+cause_of_death: '[[_Standards/WikiData/WD~arteriosclerotic_heart_disease,1444550]]'
+place_of_burial: '[[_Standards/WikiData/WD~Lake_View_Cemetery,3372820]]'
+place_of_birth: '[[_Standards/WikiData/WD~Richford,3710131]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 given_name:
-  - "[[_Standards/WikiData/WD~John,4925477]]"
-  - "[[_Standards/WikiData/WD~Davison,21396403]]"
+  - '[[_Standards/WikiData/WD~John,4925477]]'
+  - '[[_Standards/WikiData/WD~Davison,21396403]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Chancellor_University,5070784]]"
-  - "[[_Standards/WikiData/WD~Bryant_&_Stratton_College,6631334]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-father: "[[_Standards/WikiData/WD~William_Rockefeller_Sr.,11837823]]"
-family_name: "[[_Standards/WikiData/WD~Rockefeller,30274563]]"
-award_received: "[[_Standards/WikiData/WD~Dr._Nathan_Davis_Award_for_United_States_Senators,90483470]]"
-mother: "[[_Standards/WikiData/WD~Eliza_Davison,96078975]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
+  - '[[_Standards/WikiData/WD~Chancellor_University,5070784]]'
+  - '[[_Standards/WikiData/WD~Bryant_&_Stratton_College,6631334]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+father: '[[_Standards/WikiData/WD~William_Rockefeller_Sr.,11837823]]'
+family_name: '[[_Standards/WikiData/WD~Rockefeller,30274563]]'
+award_received: '[[_Standards/WikiData/WD~Dr._Nathan_Davis_Award_for_United_States_Senators,90483470]]'
+mother: '[[_Standards/WikiData/WD~Eliza_Davison,96078975]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
 date_of_birth: 1839-07-08T00:00:00Z
 work_location:
-  - "[[_Standards/WikiData/WD~New_York,1384]]"
-  - "[[_Standards/WikiData/WD~Cleveland,37320]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Republican_Party,29468]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-ancestral_home: "[[_Standards/WikiData/WD~Germany,183]]"
-residence: "[[_Standards/WikiData/WD~Cleveland,37320]]"
+  - '[[_Standards/WikiData/WD~New_York,1384]]'
+  - '[[_Standards/WikiData/WD~Cleveland,37320]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+ancestral_home: '[[_Standards/WikiData/WD~Germany,183]]'
+residence: '[[_Standards/WikiData/WD~Cleveland,37320]]'
 BHCL_UUID: 54b0f92d-7c4b-45b1-8a7c-543d8d42c285
 net_worth: 663400000
 Commons_category: John D. Rockefeller
 Commons_gallery: John D. Rockefeller
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20J.%20D.%20Rockefeller.jpg
 described_at_URL: https://baike.sogou.com/v4997475.htm
-ISNI: "0000000121197891"
+ISNI: 0000000121197891
 ---
 
 # [[Rockefeller,John_D.]] 

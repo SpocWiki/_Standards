@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~HowToSection
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/HowToSection
-- class/Thing/CreativeWork/CreativeWorkAndItemListAndListItem/HowToSection
-- is_a_/HowToSection
-- schema-org/HowToSection
+  - class/HowToSection
+  - class/Thing/CreativeWork/CreativeWorkAndItemListAndListItem/HowToSection
+  - is_a_/HowToSection
+  - schema-org/HowToSection
 tags:
-- class/FileClass
-- class/HowToSection
-- is_a_/HowToSection
-- class/Thing/CreativeWork/CreativeWorkAndItemListAndListItem/HowToSection
+  - class/FileClass
+  - class/HowToSection
+  - is_a_/HowToSection
+  - class/Thing/CreativeWork/CreativeWorkAndItemListAndListItem/HowToSection
 version: 2.0
 ---
 

@@ -1,53 +1,54 @@
 ---
 aliases:
   - Mughal Empire
+  - Mughal_Empire
 has_id_wikidata: Q33296
 followed_by:
-  - "[[_Standards/WikiData/WD~Sikh_Empire,83572]]"
-  - "[[_Standards/WikiData/WD~Maratha_Empire,83618]]"
-  - "[[_Standards/WikiData/WD~British_Raj,129286]]"
-  - "[[_Standards/WikiData/WD~Durrani_Empire,467627]]"
-  - "[[_Standards/WikiData/WD~Company_rule_in_India,2001966]]"
-  - "[[_Standards/WikiData/WD~Bengal_Subah,4083684]]"
-currency: "[[_Standards/WikiData/WD~rupee,178843]]"
+  - '[[_Standards/WikiData/WD~Sikh_Empire,83572]]'
+  - '[[_Standards/WikiData/WD~Maratha_Empire,83618]]'
+  - '[[_Standards/WikiData/WD~British_Raj,129286]]'
+  - '[[_Standards/WikiData/WD~Durrani_Empire,467627]]'
+  - '[[_Standards/WikiData/WD~Company_rule_in_India,2001966]]'
+  - '[[_Standards/WikiData/WD~Bengal_Subah,4083684]]'
+currency: '[[_Standards/WikiData/WD~rupee,178843]]'
 capital:
-  - "[[_Standards/WikiData/WD~Fatehpur_Sikri,179046]]"
-  - "[[_Standards/WikiData/WD~Old_Delhi,3242297]]"
-  - "[[_Standards/WikiData/WD~Delhi,1353]]"
-  - "[[_Standards/WikiData/WD~Lahore,11739]]"
-  - "[[_Standards/WikiData/WD~Agra,42941]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~absolute_monarchy,184558]]"
+  - '[[_Standards/WikiData/WD~Fatehpur_Sikri,179046]]'
+  - '[[_Standards/WikiData/WD~Old_Delhi,3242297]]'
+  - '[[_Standards/WikiData/WD~Delhi,1353]]'
+  - '[[_Standards/WikiData/WD~Lahore,11739]]'
+  - '[[_Standards/WikiData/WD~Agra,42941]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~absolute_monarchy,184558]]'
 follows:
-  - "[[_Standards/WikiData/WD~Delhi_Sultanate,229411]]"
-  - "[[_Standards/WikiData/WD~Deccan_sultanates,1183649]]"
-  - "[[_Standards/WikiData/WD~Sultanate_of_Bengal,4083686]]"
-  - "[[_Standards/WikiData/WD~Chero_dynasty,61995075]]"
+  - '[[_Standards/WikiData/WD~Delhi_Sultanate,229411]]'
+  - '[[_Standards/WikiData/WD~Deccan_sultanates,1183649]]'
+  - '[[_Standards/WikiData/WD~Sultanate_of_Bengal,4083686]]'
+  - '[[_Standards/WikiData/WD~Chero_dynasty,61995075]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 official_religion:
-  - "[[_Standards/WikiData/WD~Din_e_Ilahi,2347558]]"
-  - "[[_Standards/WikiData/WD~Islam,432]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
-organizational_divisions: "[[_Standards/WikiData/WD~subah,3772949]]"
-flag: "[[_Standards/WikiData/WD~Flag_of_the_Mughal_Empire,5456879]]"
-replaced_by: "[[_Standards/WikiData/WD~Gondal_State,16839606]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Mughal_Empire,56706462]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q106675166,106675166]]"
+  - '[[_Standards/WikiData/WD~Din_e_Ilahi,2347558]]'
+  - '[[_Standards/WikiData/WD~Islam,432]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
+organizational_divisions: '[[_Standards/WikiData/WD~subah,3772949]]'
+flag: '[[_Standards/WikiData/WD~Flag_of_the_Mughal_Empire,5456879]]'
+replaced_by: '[[_Standards/WikiData/WD~Gondal_State,16839606]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mughal_Empire,56706462]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q106675166,106675166]]'
 dissolved_abolished_or_demolished_date: 1857-01-01T00:00:00Z
 located_in_the_present_day_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Afghanistan,889]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
+  - '[[_Standards/WikiData/WD~India,668]]'
+  - '[[_Standards/WikiData/WD~Pakistan,843]]'
+  - '[[_Standards/WikiData/WD~Afghanistan,889]]'
+  - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Urdu,1617]]"
-  - "[[_Standards/WikiData/WD~Persian,9168]]"
-  - "[[_Standards/WikiData/WD~Chagatai,36831]]"
-official_language: "[[_Standards/WikiData/WD~Persian,9168]]"
-different_from: "[[_Standards/WikiData/WD~Mongol_Empire,12557]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+  - '[[_Standards/WikiData/WD~Urdu,1617]]'
+  - '[[_Standards/WikiData/WD~Persian,9168]]'
+  - '[[_Standards/WikiData/WD~Chagatai,36831]]'
+official_language: '[[_Standards/WikiData/WD~Persian,9168]]'
+different_from: '[[_Standards/WikiData/WD~Mongol_Empire,12557]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 area: 4000000
 population: 150000000
 seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Imperial%20Seal%20of%20the%20Mughal%20Empire.svg

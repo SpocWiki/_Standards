@@ -4,21 +4,23 @@ aliases:
   - violence_consideration
   - ViolenceConsideration
   - is_a_violence_consideration
+  - Violence_Consideration
+  - Violence Consideration
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: AdultOrientedEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - violence_consideration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_violence_consideration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

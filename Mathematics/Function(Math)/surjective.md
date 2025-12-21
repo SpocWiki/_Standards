@@ -1,6 +1,7 @@
 ---
 aliases:
-- surjection
+  - surjection
+  - surjective
 ---
 
 #is_/same_as :: [[Epimorphism]]

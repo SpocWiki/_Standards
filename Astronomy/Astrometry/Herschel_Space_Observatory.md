@@ -1,42 +1,43 @@
 ---
 aliases:
   - Herschel Space Observatory
+  - Herschel_Space_Observatory
 has_id_wikidata: Q209630
 named_after:
-  - "[[_Standards/WikiData/WD~Caroline_Herschel,76948]]"
-  - "[[_Standards/WikiData/WD~William_Herschel,14277]]"
+  - '[[_Standards/WikiData/WD~Caroline_Herschel,76948]]'
+  - '[[_Standards/WikiData/WD~William_Herschel,14277]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~space_telescope,148578]]"
-  - "[[_Standards/WikiData/WD~artificial_satellite_of_the_Sun,4203973]]"
-  - "[[_Standards/WikiData/WD~former_entity,15893266]]"
-start_point: "[[_Standards/WikiData/WD~ELA_3,455731]]"
+  - '[[_Standards/WikiData/WD~space_telescope,148578]]'
+  - '[[_Standards/WikiData/WD~artificial_satellite_of_the_Sun,4203973]]'
+  - '[[_Standards/WikiData/WD~former_entity,15893266]]'
+start_point: '[[_Standards/WikiData/WD~ELA_3,455731]]'
 manufacturer:
-  - "[[_Standards/WikiData/WD~Astrium,499207]]"
-  - "[[_Standards/WikiData/WD~Alcatel_Space,2832087]]"
-  - "[[_Standards/WikiData/WD~Alenia_Spazio,56345735]]"
+  - '[[_Standards/WikiData/WD~Astrium,499207]]'
+  - '[[_Standards/WikiData/WD~Alcatel_Space,2832087]]'
+  - '[[_Standards/WikiData/WD~Alenia_Spazio,56345735]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~rocket_launch,797476]]"
-  - "[[_Standards/WikiData/WD~depletion,5260663]]"
-  - "[[_Standards/WikiData/WD~service_entry,29933828]]"
-  - "[[_Standards/WikiData/WD~service_retirement,29933838]]"
-type_of_orbit: "[[_Standards/WikiData/WD~Lissajous_orbit,1436769]]"
-different_from: "[[_Standards/WikiData/WD~Telescopium_Herschelii,1614554]]"
+  - '[[_Standards/WikiData/WD~rocket_launch,797476]]'
+  - '[[_Standards/WikiData/WD~depletion,5260663]]'
+  - '[[_Standards/WikiData/WD~service_entry,29933828]]'
+  - '[[_Standards/WikiData/WD~service_retirement,29933838]]'
+type_of_orbit: '[[_Standards/WikiData/WD~Lissajous_orbit,1436769]]'
+different_from: '[[_Standards/WikiData/WD~Telescopium_Herschelii,1614554]]'
 powered_by:
-  - "[[_Standards/WikiData/WD~lithium_ion_battery,2822895]]"
-  - "[[_Standards/WikiData/WD~spacecraft_solar_array,7556726]]"
-Lagrangian_point: "[[_Standards/WikiData/WD~L2_Earth_Sun,15725510]]"
-space_launch_vehicle: "[[_Standards/WikiData/WD~Ariane_5_ECA,16351692]]"
+  - '[[_Standards/WikiData/WD~lithium_ion_battery,2822895]]'
+  - '[[_Standards/WikiData/WD~spacecraft_solar_array,7556726]]'
+Lagrangian_point: '[[_Standards/WikiData/WD~L2_Earth_Sun,15725510]]'
+space_launch_vehicle: '[[_Standards/WikiData/WD~Ariane_5_ECA,16351692]]'
 operator:
-  - "[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]"
-  - "[[_Standards/WikiData/WD~European_Space_Agency,42262]]"
+  - '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]'
+  - '[[_Standards/WikiData/WD~European_Space_Agency,42262]]'
 width: 4
 mass: 3400
 height: 7.5
-SCN: "34937"
+SCN: 34937
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Herschel%20Space%20Observatory.jpg
 model_image: http://commons.wikimedia.org/wiki/Special:FilePath/Model%20of%20the%20Herschel%20space%20telescope.jpg
 official_website: https://www.esa.int/herschel
-ISNI: "0000000104506779"
+ISNI: 0000000104506779
 Wolfram_Language_entity_code: Entity["Satellite", "34937"]
 Commons_category: Herschel (space telescope)
 UTC_date_of_spacecraft_launch: 2009-05-14T00:00:00Z

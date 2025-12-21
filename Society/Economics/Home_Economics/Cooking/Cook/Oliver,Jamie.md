@@ -2,52 +2,53 @@
 aliases:
   - Jamie Trevor Oliver
   - Jamie Oliver
+  - Oliver,Jamie
 has_id_wikidata: Q190051
 YouTube_handle: JamieOliver
-medical_condition: "[[_Standards/WikiData/WD~dyslexia,132971]]"
-place_of_birth: "[[_Standards/WikiData/WD~Clavering,158921]]"
+medical_condition: '[[_Standards/WikiData/WD~dyslexia,132971]]'
+place_of_birth: '[[_Standards/WikiData/WD~Clavering,158921]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Hockerill_Anglo_European_College,454891]]"
-  - "[[_Standards/WikiData/WD~Lincoln_Castle_Academy,6550513]]"
-  - "[[_Standards/WikiData/WD~Joyce_Frankland_Academy,_Newport,7018853]]"
-  - "[[_Standards/WikiData/WD~Westminster_Kingsway_College,7989175]]"
+  - '[[_Standards/WikiData/WD~Hockerill_Anglo_European_College,454891]]'
+  - '[[_Standards/WikiData/WD~Lincoln_Castle_Academy,6550513]]'
+  - '[[_Standards/WikiData/WD~Joyce_Frankland_Academy,_Newport,7018853]]'
+  - '[[_Standards/WikiData/WD~Westminster_Kingsway_College,7989175]]'
 occupation:
-  - "[[_Standards/WikiData/WD~artist,483501]]"
-  - "[[_Standards/WikiData/WD~television_producer,578109]]"
-  - "[[_Standards/WikiData/WD~television_presenter,947873]]"
-  - "[[_Standards/WikiData/WD~restaurateur,3427922]]"
-  - "[[_Standards/WikiData/WD~chef,3499072]]"
-  - "[[_Standards/WikiData/WD~blogger,8246794]]"
-  - "[[_Standards/WikiData/WD~activist,15253558]]"
-  - "[[_Standards/WikiData/WD~YouTuber,17125263]]"
-  - "[[_Standards/WikiData/WD~cookbook_writer,27431213]]"
+  - '[[_Standards/WikiData/WD~artist,483501]]'
+  - '[[_Standards/WikiData/WD~television_producer,578109]]'
+  - '[[_Standards/WikiData/WD~television_presenter,947873]]'
+  - '[[_Standards/WikiData/WD~restaurateur,3427922]]'
+  - '[[_Standards/WikiData/WD~chef,3499072]]'
+  - '[[_Standards/WikiData/WD~blogger,8246794]]'
+  - '[[_Standards/WikiData/WD~activist,15253558]]'
+  - '[[_Standards/WikiData/WD~YouTuber,17125263]]'
+  - '[[_Standards/WikiData/WD~cookbook_writer,27431213]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Q677191,677191]]"
-  - "[[_Standards/WikiData/WD~Q1674029,1674029]]"
+  - '[[_Standards/WikiData/WD~Q677191,677191]]'
+  - '[[_Standards/WikiData/WD~Q1674029,1674029]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Jamie_Oliver,1405258]]"
-  - "[[_Standards/WikiData/WD~Jamie_Oliver,92277810]]"
-  - "[[_Standards/WikiData/WD~Jamie_Oliver,115646595]]"
-  - "[[_Standards/WikiData/WD~Jamie_Oliver,123174903]]"
-handedness: "[[_Standards/WikiData/WD~right_handedness,3039938]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Jamie_Oliver,1405258]]'
+  - '[[_Standards/WikiData/WD~Jamie_Oliver,92277810]]'
+  - '[[_Standards/WikiData/WD~Jamie_Oliver,115646595]]'
+  - '[[_Standards/WikiData/WD~Jamie_Oliver,123174903]]'
+handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Member_of_the_Order_of_the_British_Empire,12201526]]"
-  - "[[_Standards/WikiData/WD~TED_Prize,23014208]]"
-family_name: "[[_Standards/WikiData/WD~Oliver,16931215]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-relative: "[[_Standards/WikiData/WD~Isabella_Windsor,76306742]]"
-spouse: "[[_Standards/WikiData/WD~Juliette_Norton,96472836]]"
+  - '[[_Standards/WikiData/WD~Member_of_the_Order_of_the_British_Empire,12201526]]'
+  - '[[_Standards/WikiData/WD~TED_Prize,23014208]]'
+family_name: '[[_Standards/WikiData/WD~Oliver,16931215]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+relative: '[[_Standards/WikiData/WD~Isabella_Windsor,76306742]]'
+spouse: '[[_Standards/WikiData/WD~Juliette_Norton,96472836]]'
 child:
-  - "[[_Standards/WikiData/WD~Daisy_Boo_Pamela,125005695]]"
-  - "[[_Standards/WikiData/WD~Poppy_Oliver,125005986]]"
+  - '[[_Standards/WikiData/WD~Daisy_Boo_Pamela,125005695]]'
+  - '[[_Standards/WikiData/WD~Poppy_Oliver,125005986]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~British_English,7979]]"
-native_language: "[[_Standards/WikiData/WD~British_English,7979]]"
-residence: "[[_Standards/WikiData/WD~Essex,23240]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~British_English,7979]]'
+native_language: '[[_Standards/WikiData/WD~British_English,7979]]'
+residence: '[[_Standards/WikiData/WD~Essex,23240]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 number_of_children: 5
 social_media_followers:
   - 6040000
@@ -61,7 +62,7 @@ date_of_birth: 1975-05-27T00:00:00Z
 name_in_native_language: Jamie Oliver
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jamie%20Oliver%20%28cropped%29.jpg
 official_website: http://www.jamieoliver.com/
-ISNI: "0000000120185514"
+ISNI: 0000000120185514
 Plex_person_key: 5d776870fb0d55001f510217
 Libris_URI: gdsvx4s033w3c3r
 ---

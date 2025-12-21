@@ -4,96 +4,97 @@ aliases:
   - Elvis Presley
   - Elvis_Presley
   - Presley
+  - Presley,Elvis
 has_id_wikidata: Q303
 genre:
-  - "[[_Standards/WikiData/WD~country_music,83440]]"
-  - "[[_Standards/WikiData/WD~gospel_music,180268]]"
-  - "[[_Standards/WikiData/WD~rockabilly,203720]]"
-  - "[[_Standards/WikiData/WD~pop_rock,484641]]"
-  - "[[_Standards/WikiData/WD~country_rock,613408]]"
-  - "[[_Standards/WikiData/WD~rock_and_roll,7749]]"
-  - "[[_Standards/WikiData/WD~blues,9759]]"
-  - "[[_Standards/WikiData/WD~rock_music,11399]]"
-  - "[[_Standards/WikiData/WD~pop_music,37073]]"
-  - "[[_Standards/WikiData/WD~rhythm_and_blues,45981]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~sergeant,157696]]"
+  - '[[_Standards/WikiData/WD~country_music,83440]]'
+  - '[[_Standards/WikiData/WD~gospel_music,180268]]'
+  - '[[_Standards/WikiData/WD~rockabilly,203720]]'
+  - '[[_Standards/WikiData/WD~pop_rock,484641]]'
+  - '[[_Standards/WikiData/WD~country_rock,613408]]'
+  - '[[_Standards/WikiData/WD~rock_and_roll,7749]]'
+  - '[[_Standards/WikiData/WD~blues,9759]]'
+  - '[[_Standards/WikiData/WD~rock_music,11399]]'
+  - '[[_Standards/WikiData/WD~pop_music,37073]]'
+  - '[[_Standards/WikiData/WD~rhythm_and_blues,45981]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~sergeant,157696]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~military_officer,189290]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~philanthropist,12362622]]"
-  - "[[_Standards/WikiData/WD~activist,15253558]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-  - "[[_Standards/WikiData/WD~military_personnel,47064]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~military_officer,189290]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~philanthropist,12362622]]'
+  - '[[_Standards/WikiData/WD~activist,15253558]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
+  - '[[_Standards/WikiData/WD~military_personnel,47064]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-  - "[[_Standards/WikiData/WD~Gospel_Music_Hall_of_Fame,5587398]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~honorary_citizen_of_Budapest,56479277]]"
-  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
-  - "[[_Standards/WikiData/WD~Grammy_Awards,41254]]"
-spouse: "[[_Standards/WikiData/WD~Priscilla_Presley,234773]]"
-child: "[[_Standards/WikiData/WD~Lisa_Marie_Presley,237324]]"
-residence: "[[_Standards/WikiData/WD~Graceland,545360]]"
-place_of_burial: "[[_Standards/WikiData/WD~Graceland,545360]]"
-significant_event: "[[_Standards/WikiData/WD~conscription,580750]]"
+  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+  - '[[_Standards/WikiData/WD~Gospel_Music_Hall_of_Fame,5587398]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~honorary_citizen_of_Budapest,56479277]]'
+  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+  - '[[_Standards/WikiData/WD~Grammy_Awards,41254]]'
+spouse: '[[_Standards/WikiData/WD~Priscilla_Presley,234773]]'
+child: '[[_Standards/WikiData/WD~Lisa_Marie_Presley,237324]]'
+residence: '[[_Standards/WikiData/WD~Graceland,545360]]'
+place_of_burial: '[[_Standards/WikiData/WD~Graceland,545360]]'
+significant_event: '[[_Standards/WikiData/WD~conscription,580750]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Ginger_Alden,592678]]"
-  - "[[_Standards/WikiData/WD~Anita_Wood,2850191]]"
-place_of_birth: "[[_Standards/WikiData/WD~Tupelo,667727]]"
-discography: "[[_Standards/WikiData/WD~Elvis_Presley_discography,786776]]"
-facial_hair: "[[_Standards/WikiData/WD~sideburns,890356]]"
-copyright_representative: "[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]"
+  - '[[_Standards/WikiData/WD~Ginger_Alden,592678]]'
+  - '[[_Standards/WikiData/WD~Anita_Wood,2850191]]'
+place_of_birth: '[[_Standards/WikiData/WD~Tupelo,667727]]'
+discography: '[[_Standards/WikiData/WD~Elvis_Presley_discography,786776]]'
+facial_hair: '[[_Standards/WikiData/WD~sideburns,890356]]'
+copyright_representative: '[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Sun_Records,898618]]"
-  - "[[_Standards/WikiData/WD~RCA_Victor,3415083]]"
+  - '[[_Standards/WikiData/WD~Sun_Records,898618]]'
+  - '[[_Standards/WikiData/WD~RCA_Victor,3415083]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Aaron,905085]]"
-  - "[[_Standards/WikiData/WD~Elvis,1174817]]"
-  - "[[_Standards/WikiData/WD~Aron,18410868]]"
-filmography: "[[_Standards/WikiData/WD~Elvis_Presley_filmography,2992759]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-father: "[[_Standards/WikiData/WD~Vernon_Presley,4377426]]"
+  - '[[_Standards/WikiData/WD~Aaron,905085]]'
+  - '[[_Standards/WikiData/WD~Elvis,1174817]]'
+  - '[[_Standards/WikiData/WD~Aron,18410868]]'
+filmography: '[[_Standards/WikiData/WD~Elvis_Presley_filmography,2992759]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+father: '[[_Standards/WikiData/WD~Vernon_Presley,4377426]]'
 military_unit:
-  - "[[_Standards/WikiData/WD~32nd_Cavalry_Regiment,4635042]]"
-  - "[[_Standards/WikiData/WD~37th_Armor_Regiment,4635874]]"
-educated_at: "[[_Standards/WikiData/WD~Humes_Preparatory_Academy_Middle_School,5940716]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Elvis_Presley,6368007]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-has_characteristic: "[[_Standards/WikiData/WD~twinless_twin,7858396]]"
+  - '[[_Standards/WikiData/WD~32nd_Cavalry_Regiment,4635042]]'
+  - '[[_Standards/WikiData/WD~37th_Armor_Regiment,4635874]]'
+educated_at: '[[_Standards/WikiData/WD~Humes_Preparatory_Academy_Middle_School,5940716]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Elvis_Presley,6368007]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+has_characteristic: '[[_Standards/WikiData/WD~twinless_twin,7858396]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~University_of_Maryland_Libraries,7895690]]"
-  - "[[_Standards/WikiData/WD~Louis_Round_Wilson_Library,14708020]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Elvis_Presley,8769113]]"
+  - '[[_Standards/WikiData/WD~University_of_Maryland_Libraries,7895690]]'
+  - '[[_Standards/WikiData/WD~Louis_Round_Wilson_Library,14708020]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Elvis_Presley,8769113]]'
 has_list:
-  - "[[_Standards/WikiData/WD~list_of_Elvis_Presley_TV_appearances,10272100]]"
-  - "[[_Standards/WikiData/WD~list_of_Elvis_Presley_radio_appearances,10272105]]"
-  - "[[_Standards/WikiData/WD~list_of_awards_received_by_Elvis_Presley,16323486]]"
-mother: "[[_Standards/WikiData/WD~Gladys_Presley,12363015]]"
-relative: "[[_Standards/WikiData/WD~Brandon_Presley,16216016]]"
-sibling: "[[_Standards/WikiData/WD~Jessie_Garon_Presley,16408125]]"
-wears: "[[_Standards/WikiData/WD~jumpsuit,16472452]]"
+  - '[[_Standards/WikiData/WD~list_of_Elvis_Presley_TV_appearances,10272100]]'
+  - '[[_Standards/WikiData/WD~list_of_Elvis_Presley_radio_appearances,10272105]]'
+  - '[[_Standards/WikiData/WD~list_of_awards_received_by_Elvis_Presley,16323486]]'
+mother: '[[_Standards/WikiData/WD~Gladys_Presley,12363015]]'
+relative: '[[_Standards/WikiData/WD~Brandon_Presley,16216016]]'
+sibling: '[[_Standards/WikiData/WD~Jessie_Garon_Presley,16408125]]'
+wears: '[[_Standards/WikiData/WD~jumpsuit,16472452]]'
 instrument:
-  - "[[_Standards/WikiData/WD~voice,17172850]]"
-  - "[[_Standards/WikiData/WD~piano,5994]]"
-  - "[[_Standards/WikiData/WD~guitar,6607]]"
-  - "[[_Standards/WikiData/WD~bass_guitar,46185]]"
-different_from: "[[_Standards/WikiData/WD~Heinrich_Thielen,25420559]]"
-family_name: "[[_Standards/WikiData/WD~Presley,31046554]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-military_branch: "[[_Standards/WikiData/WD~United_States_Army,9212]]"
-sport: "[[_Standards/WikiData/WD~karate,11419]]"
-cause_of_death: "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
-place_of_death: "[[_Standards/WikiData/WD~Memphis,16563]]"
-voice_type: "[[_Standards/WikiData/WD~baritone,31687]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~voice,17172850]]'
+  - '[[_Standards/WikiData/WD~piano,5994]]'
+  - '[[_Standards/WikiData/WD~guitar,6607]]'
+  - '[[_Standards/WikiData/WD~bass_guitar,46185]]'
+different_from: '[[_Standards/WikiData/WD~Heinrich_Thielen,25420559]]'
+family_name: '[[_Standards/WikiData/WD~Presley,31046554]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+military_branch: '[[_Standards/WikiData/WD~United_States_Army,9212]]'
+sport: '[[_Standards/WikiData/WD~karate,11419]]'
+cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
+place_of_death: '[[_Standards/WikiData/WD~Memphis,16563]]'
+voice_type: '[[_Standards/WikiData/WD~baritone,31687]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 social_media_followers:
   - 3900000
   - 348519
@@ -120,19 +121,19 @@ name_in_native_language:
 birth_name: Elvis Aaron Presley
 short_name: Elvis Presley
 work_period_start_: 1954-01-01T00:00:00Z
-U_S_National_Archives_Identifier: "10582255"
+U_S_National_Archives_Identifier: 10582255
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Elvis%20Presley%20Publicity%20Photo%20for%20The%20Trouble%20with%20Girls%201968.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Elvis%27%20tomb.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Elvispresley-logo.svg
 official_website: https://elvisthemusic.com
 ISNI:
-  - "0000000121241960"
-  - "0000000368638871"
+  - 0000000121241960
+  - 0000000368638871
 IPI_name_number:
-  - "00056021705"
-  - "00056021803"
-  - "00058226279"
-United_States_Armed_Forces_service_number: "53310761"
+  - 00056021705
+  - 00056021803
+  - 00058226279
+United_States_Armed_Forces_service_number: 53310761
 Plex_person_key: 5d77682b3c3c2a001fbcc394
 ---
 

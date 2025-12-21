@@ -5,6 +5,8 @@ aliases:
   - Activated carbon
   - activated charcoal
   - active charcoal
+  - Activated_Carbon
+  - Activated Carbon
 ---
 
 # [[Activated_Carbon]] 

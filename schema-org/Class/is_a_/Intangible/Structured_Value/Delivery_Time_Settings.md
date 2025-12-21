@@ -4,20 +4,22 @@ aliases:
   - delivery_time_settings
   - DeliveryTimeSettings
   - is_a_delivery_time_settings
+  - Delivery_Time_Settings
+  - Delivery Time Settings
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - delivery_time_settings
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_delivery_time_settings Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

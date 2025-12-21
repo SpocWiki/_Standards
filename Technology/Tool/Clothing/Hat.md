@@ -1,6 +1,7 @@
 ---
 aliases:
   - Hut
+  - Hat
 has_id_wikidata: Q80151
 different_from:
   - "[[_Standards/WikiData/WD~beanie,265157]]"
@@ -22,13 +23,13 @@ has_part_s_: "[[_Standards/WikiData/WD~hat_component,50401980]]"
 subclass_of: "[[_Standards/WikiData/WD~headgear,14952]]"
 worn_on: "[[_Standards/WikiData/WD~head,23640]]"
 subreddit: hats
-Nomenclature_for_Museum_Cataloging: "2272"
-OmegaWiki_Defined_Meaning: "344283"
+Nomenclature_for_Museum_Cataloging: 2272
+OmegaWiki_Defined_Meaning: 344283
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Amsterdam%20-%20Hats%20-%200931.jpg
 Commons_gallery: Hat
 Iconclass_notation: 41D221(HAT)
 Commons_category: Hats
-U_S_National_Archives_Identifier: "10638671"
+U_S_National_Archives_Identifier: 10638671
 label_in_sign_language:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Chapeau%20Nm%202%201%201%20-%20Elix.webm
   - http://commons.wikimedia.org/wiki/Special:FilePath/Swl-hatt-14859.ogv
@@ -36,7 +37,7 @@ Unicode_character: 👒
 OpenStreetMap_tag: clothes=hats
 ---
 
-# [[Hat]] 
+# [[Hat]] 👒 
 
 #is_/same_as :: [[WD~Hat,80151]] 
 

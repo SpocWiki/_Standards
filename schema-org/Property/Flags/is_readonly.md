@@ -4,21 +4,22 @@ aliases:
   - readonly
   - readonlyValue
   - is_readonly
+  - is readonly
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - readonly
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_readonly
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Katzenjammer Kids"
+  - Katzenjammer Kids
+  - Katzenjammer_Kids
 ---
 
 #has_/previous_item :: [[Max_and_Moritz]] 

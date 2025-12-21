@@ -1,26 +1,26 @@
 ---
 aliases:
-- Harrison,Benjamin
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Harrison,Benjamin
+  - ''
 has_id_wikidata: Q35678
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Harrison,Benjamin
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Harrison,Benjamin
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Harrison,Benjamin
-- "Benjamin Harrison"
-- 
+  - Harrison,Benjamin
+  - Benjamin Harrison
+  - ''
 title: Harrison,Benjamin
 type: private_note
 ---

@@ -1,6 +1,8 @@
 ---
 aliases:
-- "John David Washington"
+  - John David Washington
+  - Washington,John_David
+  - Washington,John David
 ---
 
 #has_/time_/started :: 1984-07-28 

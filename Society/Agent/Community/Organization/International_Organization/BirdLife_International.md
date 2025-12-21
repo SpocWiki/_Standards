@@ -1,25 +1,28 @@
 ---
+aliases:
+  - BirdLife_International
+  - BirdLife International
 has_id_wikidata: Q210108
 instance_of:
-  - "[[_Standards/WikiData/WD~nonprofit_organization,163740]]"
-  - "[[_Standards/WikiData/WD~charitable_organization,708676]]"
-  - "[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]"
-  - "[[_Standards/WikiData/WD~conservation_organization,1899015]]"
-  - "[[_Standards/WikiData/WD~biological_database,4117139]]"
-  - "[[_Standards/WikiData/WD~online_database,7094076]]"
-award_received: "[[_Standards/WikiData/WD~Dr_A._H._Heineken_Prize_for_Environmental_Sciences,278251]]"
-legal_form: "[[_Standards/WikiData/WD~charitable_organization,708676]]"
-field_of_work: "[[_Standards/WikiData/WD~bird_conservation,2005829]]"
+  - '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
+  - '[[_Standards/WikiData/WD~charitable_organization,708676]]'
+  - '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]'
+  - '[[_Standards/WikiData/WD~conservation_organization,1899015]]'
+  - '[[_Standards/WikiData/WD~biological_database,4117139]]'
+  - '[[_Standards/WikiData/WD~online_database,7094076]]'
+award_received: '[[_Standards/WikiData/WD~Dr_A._H._Heineken_Prize_for_Environmental_Sciences,278251]]'
+legal_form: '[[_Standards/WikiData/WD~charitable_organization,708676]]'
+field_of_work: '[[_Standards/WikiData/WD~bird_conservation,2005829]]'
 official_observer_status_in_organisation:
-  - "[[_Standards/WikiData/WD~Western_and_Central_Pacific_Fisheries_Commission,2565027]]"
-  - "[[_Standards/WikiData/WD~Inter_American_Tropical_Tuna_Commission,3153044]]"
-partnership_with: "[[_Standards/WikiData/WD~Romanian_Ornithological_Society,28726027]]"
+  - '[[_Standards/WikiData/WD~Western_and_Central_Pacific_Fisheries_Commission,2565027]]'
+  - '[[_Standards/WikiData/WD~Inter_American_Tropical_Tuna_Commission,3153044]]'
+partnership_with: '[[_Standards/WikiData/WD~Romanian_Ornithological_Society,28726027]]'
 Bluesky_handle: birdlifeglobal.bsky.social
-industry: "[[_Standards/WikiData/WD~environment,130370849]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Cambridge,350]]"
-language_used: "[[_Standards/WikiData/WD~English,1860]]"
+industry: '[[_Standards/WikiData/WD~environment,130370849]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Cambridge,350]]'
+language_used: '[[_Standards/WikiData/WD~English,1860]]'
 Wikidata_property: BirdLife taxon ID
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 employees:
   - 196
   - 206
@@ -29,7 +32,7 @@ employees:
 social_media_followers:
   - 6190
   - 94273
-Charity_Commission_no_: "1042125"
+Charity_Commission_no_: 1042125
 donations:
   - 4129230
   - 1807296
@@ -45,10 +48,10 @@ total_revenue:
   - 26174036
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/BirdLife%20International%20logo.svg
 official_website: https://www.birdlife.org/
-ISNI: "0000000403836292"
+ISNI: 0000000403836292
 Legal_Entity_Identifier: 213800UJ67YZUIPXLU85
-P8189: "987007258728305171"
-EU_Participant_Identification_Code: "998509950"
+P8189: 987007258728305171
+EU_Participant_Identification_Code: 998509950
 Commons_category: BirdLife International
 Instagram_username: birdlife_insta
 X_Twitter_username: BirdLife_News

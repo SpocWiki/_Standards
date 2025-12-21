@@ -6,40 +6,40 @@ aliases:
   - Segara Jawa
 has_id_wikidata: Q49364
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Q35541239,35541239]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Q35541239,35541239]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 inflows:
-  - "[[_Standards/WikiData/WD~Ciliwung_River,645047]]"
-  - "[[_Standards/WikiData/WD~Barito_River,979518]]"
-  - "[[_Standards/WikiData/WD~Bengawan_Solo_River,2902049]]"
-  - "[[_Standards/WikiData/WD~Kahayan_River,3182900]]"
-  - "[[_Standards/WikiData/WD~Bodri_River,4936738]]"
-  - "[[_Standards/WikiData/WD~Ci_Manuk,6753138]]"
-  - "[[_Standards/WikiData/WD~Ci_Sadane,7397553]]"
-  - "[[_Standards/WikiData/WD~Tulang_Bawang_River,7851953]]"
-  - "[[_Standards/WikiData/WD~Comal_River,13093815]]"
-  - "[[_Standards/WikiData/WD~Ci_Ujung,24827311]]"
-  - "[[_Standards/WikiData/WD~Kali_Tuntang,24828229]]"
-  - "[[_Standards/WikiData/WD~Ci_Sanggarung,24843716]]"
-  - "[[_Standards/WikiData/WD~Ci_Punagara,24847673]]"
-  - "[[_Standards/WikiData/WD~Kumai_River,24881791]]"
-  - "[[_Standards/WikiData/WD~Lamandau_River,24882002]]"
-  - "[[_Standards/WikiData/WD~Bekasi_River,25005601]]"
-  - "[[_Standards/WikiData/WD~Ci_Tarum,25163233]]"
-  - "[[_Standards/WikiData/WD~Kali_Jragung,25234082]]"
-  - "[[_Standards/WikiData/WD~Kali_Serang,25235794]]"
+  - '[[_Standards/WikiData/WD~Ciliwung_River,645047]]'
+  - '[[_Standards/WikiData/WD~Barito_River,979518]]'
+  - '[[_Standards/WikiData/WD~Bengawan_Solo_River,2902049]]'
+  - '[[_Standards/WikiData/WD~Kahayan_River,3182900]]'
+  - '[[_Standards/WikiData/WD~Bodri_River,4936738]]'
+  - '[[_Standards/WikiData/WD~Ci_Manuk,6753138]]'
+  - '[[_Standards/WikiData/WD~Ci_Sadane,7397553]]'
+  - '[[_Standards/WikiData/WD~Tulang_Bawang_River,7851953]]'
+  - '[[_Standards/WikiData/WD~Comal_River,13093815]]'
+  - '[[_Standards/WikiData/WD~Ci_Ujung,24827311]]'
+  - '[[_Standards/WikiData/WD~Kali_Tuntang,24828229]]'
+  - '[[_Standards/WikiData/WD~Ci_Sanggarung,24843716]]'
+  - '[[_Standards/WikiData/WD~Ci_Punagara,24847673]]'
+  - '[[_Standards/WikiData/WD~Kumai_River,24881791]]'
+  - '[[_Standards/WikiData/WD~Lamandau_River,24882002]]'
+  - '[[_Standards/WikiData/WD~Bekasi_River,25005601]]'
+  - '[[_Standards/WikiData/WD~Ci_Tarum,25163233]]'
+  - '[[_Standards/WikiData/WD~Kali_Jragung,25234082]]'
+  - '[[_Standards/WikiData/WD~Kali_Serang,25235794]]'
 coordinate_location: Point(110.0 -5.0)
-part_of: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
-instance_of: "[[_Standards/WikiData/WD~sea,165]]"
-basin_country: "[[_Standards/WikiData/WD~Indonesia,252]]"
-country: "[[_Standards/WikiData/WD~Indonesia,252]]"
+part_of: '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
+instance_of: '[[_Standards/WikiData/WD~sea,165]]'
+basin_country: '[[_Standards/WikiData/WD~Indonesia,252]]'
+country: '[[_Standards/WikiData/WD~Indonesia,252]]'
 area: 320000
 vertical_depth: 67
-connects_with: "[[_Standards/WikiData/WD~South_China_Sea,37660]]"
+connects_with: '[[_Standards/WikiData/WD~South_China_Sea,37660]]'
 Commons_gallery: Java Sea
 Commons_category: Java Sea
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gunung%20Merapi%202006-05-14%2C%20MODIS.jpg

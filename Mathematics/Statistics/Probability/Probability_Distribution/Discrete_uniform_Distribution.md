@@ -1,6 +1,8 @@
 ---
 aliases:
   - discrete uniform distribution
+  - Discrete_uniform_Distribution
+  - Discrete uniform Distribution
 has_id_wikidata: Q3574718
 ---
 

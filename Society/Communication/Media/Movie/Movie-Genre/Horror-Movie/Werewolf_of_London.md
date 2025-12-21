@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Werewolf of London"
+  - Werewolf of London
+  - Werewolf_of_London
 ---
 
 #has_/time_/started :: 1935-06 

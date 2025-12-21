@@ -2,25 +2,26 @@
 aliases:
   - Bantu
   - Bantu languages
+  - LangFamily~Bantu
 has_id_wikidata: Q33146
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
-  - "[[_Standards/WikiData/WD~synthetic_language,48612]]"
+  - '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
+  - '[[_Standards/WikiData/WD~synthetic_language,48612]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Atlantic_Congo,771124]]"
-  - "[[_Standards/WikiData/WD~Southern_Bantoid,3183152]]"
+  - '[[_Standards/WikiData/WD~Atlantic_Congo,771124]]'
+  - '[[_Standards/WikiData/WD~Southern_Bantoid,3183152]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
-OmegaWiki_Defined_Meaning: "459269"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
+OmegaWiki_Defined_Meaning: 459269
 ISO_639_5_code: bnt
 IETF_language_tag: bnt
 ISO_639_2_code: bnt
 distribution_map:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Bantu%20area.png
   - http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20African%20language%20families%20ca.svg
-Dewey_Decimal_Classification: "496.39"
+Dewey_Decimal_Classification: 496.39
 Commons_category: Bantu languages
 Glottolog_code: narr1281
 ---

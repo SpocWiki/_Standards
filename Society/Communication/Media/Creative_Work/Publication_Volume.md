@@ -4,20 +4,22 @@ aliases:
   - publication_volume
   - PublicationVolume
   - is_a_publication_volume
+  - Publication_Volume
+  - Publication Volume
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - publication_volume
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_publication_volume Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

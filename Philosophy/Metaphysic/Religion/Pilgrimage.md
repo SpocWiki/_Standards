@@ -1,25 +1,26 @@
 ---
 aliases:
   - Pilgerreise
+  - Pilgrimage
 has_id_wikidata: Q1644573
-practiced_by: "[[_Standards/WikiData/WD~pilgrim,542704]]"
+practiced_by: '[[_Standards/WikiData/WD~pilgrim,542704]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~religious_tourism,1083397]]"
-  - "[[_Standards/WikiData/WD~event,1656682]]"
+  - '[[_Standards/WikiData/WD~religious_tourism,1083397]]'
+  - '[[_Standards/WikiData/WD~event,1656682]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Pielgrzymka,1211845]]"
-  - "[[_Standards/WikiData/WD~Piligrim,85827706]]"
+  - '[[_Standards/WikiData/WD~Pielgrzymka,1211845]]'
+  - '[[_Standards/WikiData/WD~Piligrim,85827706]]'
 has_goal:
-  - "[[_Standards/WikiData/WD~pilgrimage_site,15135589]]"
-  - "[[_Standards/WikiData/WD~pilgrimage,114049700]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~pilgrimage,114049700]]"
-facet_of: "[[_Standards/WikiData/WD~pilgrimage,114049700]]"
+  - '[[_Standards/WikiData/WD~pilgrimage_site,15135589]]'
+  - '[[_Standards/WikiData/WD~pilgrimage,114049700]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~pilgrimage,114049700]]'
+facet_of: '[[_Standards/WikiData/WD~pilgrimage,114049700]]'
 Commons_gallery: Pilgrimage
 Commons_category: Pilgrimage
 image:

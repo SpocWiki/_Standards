@@ -1,32 +1,33 @@
 ---
 aliases:
-- location
-- location
-- location
-- has_location_
-- "geo:lat_long"
-- "schema:geo"
-- "dbo:location"
-- "schema:location"
-- "wdt:P276"
+  - location
+  - location
+  - location
+  - has_location_
+  - geo:lat_long
+  - schema:geo
+  - dbo:location
+  - schema:location
+  - wdt:P276
+  - 'has location '
 confidential: public
 cssclasses:
-- Predicate
-- geo
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- location
-layout: 
-license: "CC BY-SA 4.0"
+  - location
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_location_
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_
 type: Pred_geo
 ---

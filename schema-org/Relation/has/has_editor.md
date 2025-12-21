@@ -1,27 +1,28 @@
 ---
 aliases:
-- has_editor
-- "schema:editor"
-- "dbo:editor"
-- "wdt:P98"
+  - has_editor
+  - schema:editor
+  - dbo:editor
+  - wdt:P98
+  - has editor
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- editor
-layout: 
-license: "CC BY-SA 4.0"
+  - editor
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_editor
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_editor
 type: Predi_Relation
 ---

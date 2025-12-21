@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Poster
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Poster
-- class/Thing/CreativeWork/Poster
-- is_a_/Poster
-- schema-org/Poster
+  - class/Poster
+  - class/Thing/CreativeWork/Poster
+  - is_a_/Poster
+  - schema-org/Poster
 tags:
-- class/FileClass
-- class/Poster
-- is_a_/Poster
-- class/Thing/CreativeWork/Poster
+  - class/FileClass
+  - class/Poster
+  - is_a_/Poster
+  - class/Thing/CreativeWork/Poster
 version: 2.0
 ---
 

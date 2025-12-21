@@ -3,6 +3,7 @@ aliases:
   - Hochzeit
   - Heirat
   - Eheschließung
+  - Wedding
 has_id_wikidata: Q49836
 opposite_of: "[[_Standards/WikiData/WD~divorce,93190]]"
 follows:
@@ -35,7 +36,7 @@ depicted_by: "[[_Standards/WikiData/WD~Nozze_gentilizie,131546499]]"
 Wikidata_property: annual number of weddings
 has_effect: "[[_Standards/WikiData/WD~marriage,8445]]"
 facet_of: "[[_Standards/WikiData/WD~marriage,8445]]"
-OmegaWiki_Defined_Meaning: "5532"
+OmegaWiki_Defined_Meaning: 5532
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Edmund%20Blair%20Leighton%20-%20The%20Wedding%20Register.jpg
 IMDb_keyword:
   - wedding
@@ -45,12 +46,12 @@ document_file_on_Wikimedia_Commons: http://commons.wikimedia.org/wiki/Special:Fi
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wedding%20chapel.jpg
 exact_match: https://turkic.elegantlexicon.com/turkforms.php?form=weddingwedding
 Unicode_character: 💒
-U_S_National_Archives_Identifier: "10642863"
+U_S_National_Archives_Identifier: 10642863
 Commons_category: Wedding ceremonies
 Baidu_Tieba_name: 婚礼
 ---
 
-# [[Wedding]] 
+# [[Wedding]] 💒 
 
 #has_/previous_/item :: [[Engagement]]  
 #has_/next_/item :: [[../Marriage|Marriage]] 

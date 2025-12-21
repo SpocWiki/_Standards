@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Backus–Naur form"
+  - Backus–Naur form
+  - BNF(Backus–Naur_Form)
+  - BNF(Backus–Naur Form)
 ---
 
 ## #has_/text_of_/abstract 

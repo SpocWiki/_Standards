@@ -1,10 +1,12 @@
 ---
 aliases:
-- "cross-sectional study"
-- "cross-sectional studies"
-- "cross-sectional analysis"
-- "transverse study"
-- "prevalence study"
+  - cross-sectional study
+  - cross-sectional studies
+  - cross-sectional analysis
+  - transverse study
+  - prevalence study
+  - Cross-sectional_Study
+  - Cross-sectional Study
 ---
 
 # [[Cross-sectional_Study]] 

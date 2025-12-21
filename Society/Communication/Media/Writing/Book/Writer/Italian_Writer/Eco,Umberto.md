@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Umberto Eco"
+  - Umberto Eco
+  - Eco,Umberto
 has_id_wikidata: Q12807
 ---
 

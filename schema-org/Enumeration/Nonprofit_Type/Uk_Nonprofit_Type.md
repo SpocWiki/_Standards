@@ -4,20 +4,22 @@ aliases:
   - uk_nonprofit_type
   - UKNonprofitType
   - is_a_uk_nonprofit_type
+  - Uk_Nonprofit_Type
+  - Uk Nonprofit Type
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - uk_nonprofit_type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_uk_nonprofit_type Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

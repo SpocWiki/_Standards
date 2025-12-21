@@ -4,20 +4,22 @@ aliases:
   - steering_position_value
   - SteeringPositionValue
   - is_a_steering_position_value
+  - Steering_Position_Value
+  - Steering Position Value
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - steering_position_value
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_steering_position_value Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

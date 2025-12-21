@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~WorkersUnion
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/WorkersUnion
-- class/Thing/Organization/WorkersUnion
-- is_a_/WorkersUnion
-- schema-org/WorkersUnion
+  - class/WorkersUnion
+  - class/Thing/Organization/WorkersUnion
+  - is_a_/WorkersUnion
+  - schema-org/WorkersUnion
 tags:
-- class/FileClass
-- class/WorkersUnion
-- is_a_/WorkersUnion
-- class/Thing/Organization/WorkersUnion
+  - class/FileClass
+  - class/WorkersUnion
+  - is_a_/WorkersUnion
+  - class/Thing/Organization/WorkersUnion
 version: 2.0
 ---
 

@@ -3,12 +3,13 @@ aliases:
   - has main-content-of-page
   - mainContentOfPage
   - has_main_content_of_page
+  - has main content of page
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +18,11 @@ keywords:
   - content
   - of
   - page
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_main_content_of_page
 publish: true
-publishDate:
+publishDate: ''
 supersedes: aspect
 tags:
   - class/Relation

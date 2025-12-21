@@ -1,13 +1,15 @@
 ---
+aliases:
+  - USSR
 confidential: public
-created: 
-demised: 
-destroyed: 
-perished: 
+created: ''
+demised: ''
+destroyed: ''
+perished: ''
 isDeleted: false
 SpocWebEntityId: 21455
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

@@ -1,28 +1,29 @@
 ---
 aliases:
-- has_audience
-- "schema:audience"
-- "dbo:audience"
-- "wdt:P2360"
+  - has_audience
+  - schema:audience
+  - dbo:audience
+  - wdt:P2360
+  - has audience
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- audience
-layout: 
-license: "CC BY-SA 4.0"
+  - audience
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_audience
 publish: true
-publishDate: 
+publishDate: ''
 supersedes: serviceAudience
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_audience
 type: Predi_Relation
 ---

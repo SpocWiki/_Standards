@@ -13,70 +13,70 @@ short_name:
   - Jun
   - Jun
 named_after:
-  - "[[_Standards/WikiData/WD~Juno,125046]]"
-  - "[[_Standards/WikiData/WD~Scleranthus,158561]]"
-  - "[[_Standards/WikiData/WD~Oghuz_Khagan,2118293]]"
-  - "[[_Standards/WikiData/WD~summer,1313]]"
-  - "[[_Standards/WikiData/WD~red,3142]]"
+  - '[[_Standards/WikiData/WD~Juno,125046]]'
+  - '[[_Standards/WikiData/WD~Scleranthus,158561]]'
+  - '[[_Standards/WikiData/WD~Oghuz_Khagan,2118293]]'
+  - '[[_Standards/WikiData/WD~summer,1313]]'
+  - '[[_Standards/WikiData/WD~red,3142]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_June_calendar,8136018]]"
-different_from: "[[_Standards/WikiData/WD~Czerwiec,9198736]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Ǣrra_Līða,18159617]]"
-subclass_of: "[[_Standards/WikiData/WD~month_of_the_Gregorian_calendar,18602249]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_June_calendar,8136018]]'
+different_from: '[[_Standards/WikiData/WD~Czerwiec,9198736]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Ǣrra_Līða,18159617]]'
+subclass_of: '[[_Standards/WikiData/WD~month_of_the_Gregorian_calendar,18602249]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q28790356,28790356]]"
-  - "[[_Standards/WikiData/WD~Q30139823,30139823]]"
-  - "[[_Standards/WikiData/WD~Q30139841,30139841]]"
-  - "[[_Standards/WikiData/WD~Q56299572,56299572]]"
-  - "[[_Standards/WikiData/WD~June,134875611]]"
-instance_of: "[[_Standards/WikiData/WD~calendar_month,47018901]]"
-depicted_by: "[[_Standards/WikiData/WD~June,131628831]]"
+  - '[[_Standards/WikiData/WD~Q28790356,28790356]]'
+  - '[[_Standards/WikiData/WD~Q30139823,30139823]]'
+  - '[[_Standards/WikiData/WD~Q30139841,30139841]]'
+  - '[[_Standards/WikiData/WD~Q56299572,56299572]]'
+  - '[[_Standards/WikiData/WD~June,134875611]]'
+instance_of: '[[_Standards/WikiData/WD~calendar_month,47018901]]'
+depicted_by: '[[_Standards/WikiData/WD~June,131628831]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~June_13,2614]]"
-  - "[[_Standards/WikiData/WD~June_10,2615]]"
-  - "[[_Standards/WikiData/WD~June_14,2612]]"
-  - "[[_Standards/WikiData/WD~June_15,2613]]"
-  - "[[_Standards/WikiData/WD~June_9,2618]]"
-  - "[[_Standards/WikiData/WD~June_12,2619]]"
-  - "[[_Standards/WikiData/WD~June_7,2616]]"
-  - "[[_Standards/WikiData/WD~June_11,2617]]"
-  - "[[_Standards/WikiData/WD~June_5,2622]]"
-  - "[[_Standards/WikiData/WD~June_3,2623]]"
-  - "[[_Standards/WikiData/WD~June_6,2620]]"
-  - "[[_Standards/WikiData/WD~June_8,2621]]"
-  - "[[_Standards/WikiData/WD~June_4,2627]]"
-  - "[[_Standards/WikiData/WD~June_2,2624]]"
-  - "[[_Standards/WikiData/WD~June_1,2625]]"
-  - "[[_Standards/WikiData/WD~June_16,2653]]"
-  - "[[_Standards/WikiData/WD~June_29,2659]]"
-  - "[[_Standards/WikiData/WD~June_30,2657]]"
-  - "[[_Standards/WikiData/WD~June_25,2662]]"
-  - "[[_Standards/WikiData/WD~June_22,2663]]"
-  - "[[_Standards/WikiData/WD~June_28,2660]]"
-  - "[[_Standards/WikiData/WD~June_26,2661]]"
-  - "[[_Standards/WikiData/WD~June_20,2666]]"
-  - "[[_Standards/WikiData/WD~June_27,2664]]"
-  - "[[_Standards/WikiData/WD~June_24,2665]]"
-  - "[[_Standards/WikiData/WD~June_18,2670]]"
-  - "[[_Standards/WikiData/WD~June_21,2671]]"
-  - "[[_Standards/WikiData/WD~June_23,2668]]"
-  - "[[_Standards/WikiData/WD~June_19,2669]]"
-  - "[[_Standards/WikiData/WD~June_17,2672]]"
+  - '[[_Standards/WikiData/WD~June_13,2614]]'
+  - '[[_Standards/WikiData/WD~June_10,2615]]'
+  - '[[_Standards/WikiData/WD~June_14,2612]]'
+  - '[[_Standards/WikiData/WD~June_15,2613]]'
+  - '[[_Standards/WikiData/WD~June_9,2618]]'
+  - '[[_Standards/WikiData/WD~June_12,2619]]'
+  - '[[_Standards/WikiData/WD~June_7,2616]]'
+  - '[[_Standards/WikiData/WD~June_11,2617]]'
+  - '[[_Standards/WikiData/WD~June_5,2622]]'
+  - '[[_Standards/WikiData/WD~June_3,2623]]'
+  - '[[_Standards/WikiData/WD~June_6,2620]]'
+  - '[[_Standards/WikiData/WD~June_8,2621]]'
+  - '[[_Standards/WikiData/WD~June_4,2627]]'
+  - '[[_Standards/WikiData/WD~June_2,2624]]'
+  - '[[_Standards/WikiData/WD~June_1,2625]]'
+  - '[[_Standards/WikiData/WD~June_16,2653]]'
+  - '[[_Standards/WikiData/WD~June_29,2659]]'
+  - '[[_Standards/WikiData/WD~June_30,2657]]'
+  - '[[_Standards/WikiData/WD~June_25,2662]]'
+  - '[[_Standards/WikiData/WD~June_22,2663]]'
+  - '[[_Standards/WikiData/WD~June_28,2660]]'
+  - '[[_Standards/WikiData/WD~June_26,2661]]'
+  - '[[_Standards/WikiData/WD~June_20,2666]]'
+  - '[[_Standards/WikiData/WD~June_27,2664]]'
+  - '[[_Standards/WikiData/WD~June_24,2665]]'
+  - '[[_Standards/WikiData/WD~June_18,2670]]'
+  - '[[_Standards/WikiData/WD~June_21,2671]]'
+  - '[[_Standards/WikiData/WD~June_23,2668]]'
+  - '[[_Standards/WikiData/WD~June_19,2669]]'
+  - '[[_Standards/WikiData/WD~June_17,2672]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Julian_calendar,11184]]"
-  - "[[_Standards/WikiData/WD~Gregorian_calendar,12138]]"
-follows: "[[_Standards/WikiData/WD~May,119]]"
-followed_by: "[[_Standards/WikiData/WD~July,121]]"
+  - '[[_Standards/WikiData/WD~Julian_calendar,11184]]'
+  - '[[_Standards/WikiData/WD~Gregorian_calendar,12138]]'
+follows: '[[_Standards/WikiData/WD~May,119]]'
+followed_by: '[[_Standards/WikiData/WD~July,121]]'
 time_index: 5.5
-OmegaWiki_Defined_Meaning: "6975"
+OmegaWiki_Defined_Meaning: 6975
 Commons_gallery: June
 Commons_category: June
 Iconclass_notation: 23I23

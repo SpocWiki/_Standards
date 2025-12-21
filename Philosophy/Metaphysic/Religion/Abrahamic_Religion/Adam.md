@@ -1,115 +1,117 @@
 ---
-canonization_status: "[[_Standards/WikiData/WD~Patriarchs,1189541]]"
+aliases:
+  - Adam
+has_id_wikidata: Q70899
+canonization_status: '[[_Standards/WikiData/WD~Patriarchs,1189541]]'
 child:
-  - "[[_Standards/WikiData/WD~Seth,107626]]"
-  - "[[_Standards/WikiData/WD~Cain,205365]]"
-  - "[[_Standards/WikiData/WD~Abel,313421]]"
-  - "[[_Standards/WikiData/WD~Aclima,5681043]]"
-  - "[[_Standards/WikiData/WD~Awan,9639242]]"
-  - "[[_Standards/WikiData/WD~Azura,9641412]]"
+  - '[[_Standards/WikiData/WD~Seth,107626]]'
+  - '[[_Standards/WikiData/WD~Cain,205365]]'
+  - '[[_Standards/WikiData/WD~Abel,313421]]'
+  - '[[_Standards/WikiData/WD~Aclima,5681043]]'
+  - '[[_Standards/WikiData/WD~Awan,9639242]]'
+  - '[[_Standards/WikiData/WD~Azura,9641412]]'
   - "[[_Standards/WikiData/WD~Cain's_wife,134373856]]"
 Commons_category: Adam (Biblical figure)
 Commons_gallery: Adam
 creator:
-  - "[[_Standards/WikiData/WD~Yahweh,766677]]"
-  - "[[_Standards/WikiData/WD~Elohim,868915]]"
-  - "[[_Standards/WikiData/WD~God_in_Islam,2095353]]"
-  - "[[_Standards/WikiData/WD~Jehovah,3678579]]"
-  - "[[_Standards/WikiData/WD~God_in_Christianity,825]]"
+  - '[[_Standards/WikiData/WD~Yahweh,766677]]'
+  - '[[_Standards/WikiData/WD~Elohim,868915]]'
+  - '[[_Standards/WikiData/WD~God_in_Islam,2095353]]'
+  - '[[_Standards/WikiData/WD~Jehovah,3678579]]'
+  - '[[_Standards/WikiData/WD~God_in_Christianity,825]]'
 date_of_birth: http://www.wikidata.org/.well-known/genid/4bf60fb24e4d0455d0906d1f24f5c1bf
 date_of_death: http://www.wikidata.org/.well-known/genid/7cb4c2010d381631ee55544babb8b712
 depicted_by:
-  - "[[_Standards/WikiData/WD~Adam,131421608]]"
-  - "[[_Standards/WikiData/WD~Adam,131704271]]"
+  - '[[_Standards/WikiData/WD~Adam,131421608]]'
+  - '[[_Standards/WikiData/WD~Adam,131704271]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~Church_Encyclopedia,9253865]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Neues_Lexikon_des_Judentums,107459465]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+  - '[[_Standards/WikiData/WD~Church_Encyclopedia,9253865]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Neues_Lexikon_des_Judentums,107459465]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Adam,71568]]"
-  - "[[_Standards/WikiData/WD~Adán,1158626]]"
+  - '[[_Standards/WikiData/WD~Adam,71568]]'
+  - '[[_Standards/WikiData/WD~Adán,1158626]]'
 feast_day:
-  - "[[_Standards/WikiData/WD~Q21655885,21655885]]"
-  - "[[_Standards/WikiData/WD~December_24,2705]]"
+  - '[[_Standards/WikiData/WD~Q21655885,21655885]]'
+  - '[[_Standards/WikiData/WD~December_24,2705]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Adam,347181]]"
-  - "[[_Standards/WikiData/WD~Adam,97958847]]"
-has_id_wikidata: Q70899
+  - '[[_Standards/WikiData/WD~Adam,347181]]'
+  - '[[_Standards/WikiData/WD~Adam,97958847]]'
 Iconclass_notation: 11I62(ADAM)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%2C%20Creation%20of%20Adam%2003.jpg
 Image_Archive_Herder_Institute: Q70899
 instance_of:
-  - "[[_Standards/WikiData/WD~mythical_character,4271324]]"
-  - "[[_Standards/WikiData/WD~protoplast,4349921]]"
-  - "[[_Standards/WikiData/WD~human_biblical_figure,20643955]]"
+  - '[[_Standards/WikiData/WD~mythical_character,4271324]]'
+  - '[[_Standards/WikiData/WD~protoplast,4349921]]'
+  - '[[_Standards/WikiData/WD~human_biblical_figure,20643955]]'
 ISNI: 000000048332777X
 Krugosvet_article: kultura_i_obrazovanie/religiya/ADAM.html
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Adamic_language,351633]]"
-  - "[[_Standards/WikiData/WD~Hebrew,9288]]"
+  - '[[_Standards/WikiData/WD~Adamic_language,351633]]'
+  - '[[_Standards/WikiData/WD~Hebrew,9288]]'
 Libris_URI: 86lpt7ss5s5x918
 made_from_material:
-  - "[[_Standards/WikiData/WD~soil,36133]]"
-  - "[[_Standards/WikiData/WD~clay,42302]]"
+  - '[[_Standards/WikiData/WD~soil,36133]]'
+  - '[[_Standards/WikiData/WD~clay,42302]]'
 manifestation_of:
-  - "[[_Standards/WikiData/WD~Image_of_God,1538955]]"
-  - "[[_Standards/WikiData/WD~father,7565]]"
-manner_of_death: "[[_Standards/WikiData/WD~divine_retribution,226765]]"
+  - '[[_Standards/WikiData/WD~Image_of_God,1538955]]'
+  - '[[_Standards/WikiData/WD~father,7565]]'
+manner_of_death: '[[_Standards/WikiData/WD~divine_retribution,226765]]'
 name_in_native_language:
   - http://www.wikidata.org/.well-known/genid/ef92adbbe03e57879ab629ca134b36d7
   - آدم
   - אָדָם
-notable_work: "[[_Standards/WikiData/WD~Sefer_Raziel_HaMalakh,1815036]]"
+notable_work: '[[_Standards/WikiData/WD~Sefer_Raziel_HaMalakh,1815036]]'
 occupation:
-  - "[[_Standards/WikiData/WD~farmer,131512]]"
-  - "[[_Standards/WikiData/WD~prophet_of_Islam,168827]]"
-  - "[[_Standards/WikiData/WD~gardener,758780]]"
-  - "[[_Standards/WikiData/WD~hunter,1714828]]"
-  - "[[_Standards/WikiData/WD~namer,128355955]]"
+  - '[[_Standards/WikiData/WD~farmer,131512]]'
+  - '[[_Standards/WikiData/WD~prophet_of_Islam,168827]]'
+  - '[[_Standards/WikiData/WD~gardener,758780]]'
+  - '[[_Standards/WikiData/WD~hunter,1714828]]'
+  - '[[_Standards/WikiData/WD~namer,128355955]]'
 OmegaWiki_Defined_Meaning: 858957
 P8189: 987007306286705200
-participant_in: "[[_Standards/WikiData/WD~fall_of_man,1135949]]"
-partner_in_business_or_sport: "[[_Standards/WikiData/WD~Eve,830183]]"
-part_of: "[[_Standards/WikiData/WD~Adam_and_Eve,58701]]"
+participant_in: '[[_Standards/WikiData/WD~fall_of_man,1135949]]'
+partner_in_business_or_sport: '[[_Standards/WikiData/WD~Eve,830183]]'
+part_of: '[[_Standards/WikiData/WD~Adam_and_Eve,58701]]'
 place_of_burial:
-  - "[[_Standards/WikiData/WD~Calvary,170516]]"
-  - "[[_Standards/WikiData/WD~Cavern_of_the_Patriarchs,204200]]"
+  - '[[_Standards/WikiData/WD~Calvary,170516]]'
+  - '[[_Standards/WikiData/WD~Cavern_of_the_Patriarchs,204200]]'
 present_in_work:
-  - "[[_Standards/WikiData/WD~Genesis_4,12490446]]"
-  - "[[_Standards/WikiData/WD~Divine_Principle,12609286]]"
-  - "[[_Standards/WikiData/WD~Genesis_5,14566195]]"
-  - "[[_Standards/WikiData/WD~Paradise_Lost,28754]]"
-  - "[[_Standards/WikiData/WD~Torah,34990]]"
+  - '[[_Standards/WikiData/WD~Genesis_4,12490446]]'
+  - '[[_Standards/WikiData/WD~Divine_Principle,12609286]]'
+  - '[[_Standards/WikiData/WD~Genesis_5,14566195]]'
+  - '[[_Standards/WikiData/WD~Paradise_Lost,28754]]'
+  - '[[_Standards/WikiData/WD~Torah,34990]]'
 residence:
-  - "[[_Standards/WikiData/WD~Garden_of_Eden,19014]]"
-  - "[[_Standards/WikiData/WD~Earth,2]]"
+  - '[[_Standards/WikiData/WD~Garden_of_Eden,19014]]'
+  - '[[_Standards/WikiData/WD~Earth,2]]'
 Royal_Academy_new_identifier: adam-biblical-figure
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Y_chromosomal_Adam,351265]]"
-  - "[[_Standards/WikiData/WD~Adam_in_Islam,2001710]]"
-  - "[[_Standards/WikiData/WD~Adam_Rishon,4057250]]"
-  - "[[_Standards/WikiData/WD~Adam_in_rabbinic_literature,4680060]]"
-  - "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Y_chromosomal_Adam,351265]]'
+  - '[[_Standards/WikiData/WD~Adam_in_Islam,2001710]]'
+  - '[[_Standards/WikiData/WD~Adam_Rishon,4057250]]'
+  - '[[_Standards/WikiData/WD~Adam_in_rabbinic_literature,4680060]]'
+  - '[[_Standards/WikiData/WD~human,5]]'
 sex_or_gender:
-  - "[[_Standards/WikiData/WD~androgynos,4759445]]"
-  - "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~androgynos,4759445]]'
+  - '[[_Standards/WikiData/WD~male,6581097]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~fall_of_man,1135949]]"
-  - "[[_Standards/WikiData/WD~Q12404716,12404716]]"
-  - "[[_Standards/WikiData/WD~Q55648763,55648763]]"
+  - '[[_Standards/WikiData/WD~fall_of_man,1135949]]'
+  - '[[_Standards/WikiData/WD~Q12404716,12404716]]'
+  - '[[_Standards/WikiData/WD~Q55648763,55648763]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Lilith,180627]]"
-  - "[[_Standards/WikiData/WD~Eve,830183]]"
+  - '[[_Standards/WikiData/WD~Lilith,180627]]'
+  - '[[_Standards/WikiData/WD~Eve,830183]]'
 ---
 
 # [[Adam]] 

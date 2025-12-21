@@ -2,6 +2,7 @@
 aliases:
   - Fireworks
   - Feuerwerk
+  - Firework
 has_id_wikidata: Q127933
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -15,9 +16,9 @@ part_of: "[[_Standards/WikiData/WD~event,1656682]]"
 has_use: "[[_Standards/WikiData/WD~fireworks_festival,2699757]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828654,22828654]]"
 topic_has_template: "[[_Standards/WikiData/WD~Model_Fireworks_pallet,92184253]]"
-Nomenclature_for_Museum_Cataloging: "14308"
-U_S_National_Archives_Identifier: "10637257"
-GS1_GPC_code: "10001216"
+Nomenclature_for_Museum_Cataloging: 14308
+U_S_National_Archives_Identifier: 10637257
+GS1_GPC_code: 10001216
 Commons_gallery: Fireworks
 Commons_category: Fireworks
 subject_lexeme: L320657
@@ -34,7 +35,7 @@ UMLS_CUI: C0336695
 hashtag: feudartifice
 ---
 
-# [[Firework]] 
+# [[Firework]] 🎆 
 
 #is_/same_as :: [[WD~Firework,127933]] 
 

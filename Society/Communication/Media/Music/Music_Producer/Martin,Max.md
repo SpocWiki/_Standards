@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Max Martin"
+  - Max Martin
+  - Martin,Max
 ---
 
 # [[Martin,Max]]

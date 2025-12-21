@@ -4,6 +4,7 @@ aliases:
   - American actress
   - US Actor
   - US actress
+  - US_Actor
 ---
 
 

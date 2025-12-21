@@ -4,21 +4,22 @@ aliases:
   - health_plan_cost_sharing
   - healthPlanCostSharing
   - is_health_plan_cost_sharing
+  - is health plan cost sharing
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - health_plan_cost_sharing
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_health_plan_cost_sharing
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

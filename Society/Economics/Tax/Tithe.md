@@ -2,30 +2,31 @@
 aliases:
   - Zehnter
   - Zehnte
+  - Tithe
 has_id_wikidata: Q184664
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~expenditure,760120]]"
-  - "[[_Standards/WikiData/WD~levy,16102139]]"
+  - '[[_Standards/WikiData/WD~expenditure,760120]]'
+  - '[[_Standards/WikiData/WD~levy,16102139]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~taxation,1964442]]"
-  - "[[_Standards/WikiData/WD~religious_behaviour,2110808]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~aşir,12165060]]"
-different_from: "[[_Standards/WikiData/WD~Decima,18438304]]"
-OmegaWiki_Defined_Meaning: "1008499"
+  - '[[_Standards/WikiData/WD~taxation,1964442]]'
+  - '[[_Standards/WikiData/WD~religious_behaviour,2110808]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~aşir,12165060]]'
+different_from: '[[_Standards/WikiData/WD~Decima,18438304]]'
+OmegaWiki_Defined_Meaning: 1008499
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Monier22.JPG
 Commons_category: Tithe
-Dewey_Decimal_Classification: "248.6"
+Dewey_Decimal_Classification: 248.6
 ---
 
 # [[Tithe]] 

@@ -1,16 +1,18 @@
 ---
 aliases:
   - Civil union
+  - Civil_Union
+  - Civil Union
 has_id_wikidata: Q41075
 subclass_of:
-  - "[[_Standards/WikiData/WD~interpersonal_relationship,223642]]"
-  - "[[_Standards/WikiData/WD~legal_institution,1938208]]"
-instance_of: "[[_Standards/WikiData/WD~interpersonal_relationship,223642]]"
-different_from: "[[_Standards/WikiData/WD~domestic_partnership,3449014]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-part_of: "[[_Standards/WikiData/WD~LGBTQ_rights,17625913]]"
+  - '[[_Standards/WikiData/WD~interpersonal_relationship,223642]]'
+  - '[[_Standards/WikiData/WD~legal_institution,1938208]]'
+instance_of: '[[_Standards/WikiData/WD~interpersonal_relationship,223642]]'
+different_from: '[[_Standards/WikiData/WD~domestic_partnership,3449014]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+part_of: '[[_Standards/WikiData/WD~LGBTQ_rights,17625913]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20civil%20union.svg
-P8189: "987007530314905171"
+P8189: 987007530314905171
 Commons_category: Civil union
 Wolfram_Language_entity_code: Entity["Concept", "CivilUnion::m6653"]
 ---

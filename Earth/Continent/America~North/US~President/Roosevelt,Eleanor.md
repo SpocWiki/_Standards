@@ -1,116 +1,117 @@
 ---
 aliases:
-- "Eleanor Roosevelt"
-- Eleanor_Roosevelt
-- "Anna Eleanor Roosevelt"
+  - Eleanor Roosevelt
+  - Eleanor_Roosevelt
+  - Anna Eleanor Roosevelt
+  - Roosevelt,Eleanor
+has_id_wikidata: Q83396
 archives_at:
-- '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
-- '[[_Standards/WikiData/WD~Louis_Round_Wilson_Library,14708020]]'
+  - '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
+  - '[[_Standards/WikiData/WD~Louis_Round_Wilson_Library,14708020]]'
 award_received:
-- "[[_Standards/WikiData/WD~National_Women's_Hall_of_Fame,1967852]]"
-- '[[_Standards/WikiData/WD~Gandhi_Peace_Award,3404636]]'
-- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Utrecht,61775211]]'
-- '[[_Standards/WikiData/WD~Deshikottam,62055195]]'
-- '[[_Standards/WikiData/WD~honorary_doctor_of_Brandeis_University,86241109]]'
-- '[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Lyon,126415845]]'
-birth_name: "Anna Eleanor Roosevelt"
+  - "[[_Standards/WikiData/WD~National_Women's_Hall_of_Fame,1967852]]"
+  - '[[_Standards/WikiData/WD~Gandhi_Peace_Award,3404636]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Utrecht,61775211]]'
+  - '[[_Standards/WikiData/WD~Deshikottam,62055195]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_Brandeis_University,86241109]]'
+  - '[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Lyon,126415845]]'
+birth_name: Anna Eleanor Roosevelt
 cause_of_death: '[[_Standards/WikiData/WD~tuberculosis,12204]]'
 child:
-- '[[_Standards/WikiData/WD~Franklin_Delano_Roosevelt_Jr.,275876]]'
-- '[[_Standards/WikiData/WD~James_Roosevelt,359797]]'
-- '[[_Standards/WikiData/WD~Elliott_Roosevelt,3889699]]'
-- '[[_Standards/WikiData/WD~Anna_Roosevelt_Halsted,4767446]]'
-- '[[_Standards/WikiData/WD~John_Aspinwall_Roosevelt,6219636]]'
-- '[[_Standards/WikiData/WD~Franklin_Delano_Roosevelt,75766447]]'
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Franklin%20Roosevelt.svg"
-Commons_category: "Eleanor Roosevelt"
-Commons_gallery: "Anna Eleanor Roosevelt"
+  - '[[_Standards/WikiData/WD~Franklin_Delano_Roosevelt_Jr.,275876]]'
+  - '[[_Standards/WikiData/WD~James_Roosevelt,359797]]'
+  - '[[_Standards/WikiData/WD~Elliott_Roosevelt,3889699]]'
+  - '[[_Standards/WikiData/WD~Anna_Roosevelt_Halsted,4767446]]'
+  - '[[_Standards/WikiData/WD~John_Aspinwall_Roosevelt,6219636]]'
+  - '[[_Standards/WikiData/WD~Franklin_Delano_Roosevelt,75766447]]'
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Franklin%20Roosevelt.svg
+Commons_category: Eleanor Roosevelt
+Commons_gallery: Anna Eleanor Roosevelt
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
-date_of_birth: "1884-10-11T00:00:00Z"
-date_of_death: "1962-11-07T00:00:00Z"
+date_of_birth: 1884-10-11T00:00:00Z
+date_of_death: 1962-11-07T00:00:00Z
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Eleanor_Roosevelt_Story,2411033]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-- '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- '[[_Standards/WikiData/WD~American_Women_Writers,106787730]]'
+  - '[[_Standards/WikiData/WD~The_Eleanor_Roosevelt_Story,2411033]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+  - '[[_Standards/WikiData/WD~American_Women_Writers,106787730]]'
 different_from:
-- '[[_Standards/WikiData/WD~Eleanor_Butler_Roosevelt,5354235]]'
-- '[[_Standards/WikiData/WD~Anna_Roosevelt,109327853]]'
+  - '[[_Standards/WikiData/WD~Eleanor_Butler_Roosevelt,5354235]]'
+  - '[[_Standards/WikiData/WD~Anna_Roosevelt,109327853]]'
 educated_at:
-- '[[_Standards/WikiData/WD~The_New_School,599316]]'
-- '[[_Standards/WikiData/WD~Allenswood_Boarding_Academy,60617845]]'
+  - '[[_Standards/WikiData/WD~The_New_School,599316]]'
+  - '[[_Standards/WikiData/WD~Allenswood_Boarding_Academy,60617845]]'
 employer:
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~Brandeis_University,49119]]'
+  - '[[_Standards/WikiData/WD~United_Nations,1065]]'
+  - '[[_Standards/WikiData/WD~Brandeis_University,49119]]'
 family: '[[_Standards/WikiData/WD~Roosevelt_family,129462]]'
 family_name: '[[_Standards/WikiData/WD~Roosevelt,7366409]]'
 father: '[[_Standards/WikiData/WD~Elliott_Bulloch_Roosevelt,5365719]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~philanthropy,185733]]'
-- '[[_Standards/WikiData/WD~politics,7163]]'
-- '[[_Standards/WikiData/WD~human_rights,8458]]'
+  - '[[_Standards/WikiData/WD~philanthropy,185733]]'
+  - '[[_Standards/WikiData/WD~politics,7163]]'
+  - '[[_Standards/WikiData/WD~human_rights,8458]]'
 given_name:
-- '[[_Standards/WikiData/WD~Anna,666578]]'
-- '[[_Standards/WikiData/WD~Eleanor,988818]]'
-has_id_wikidata: Q83396
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Eleanor%20Roosevelt%20portrait%201933%20%28cropped%29.jpg"
+  - '[[_Standards/WikiData/WD~Anna,666578]]'
+  - '[[_Standards/WikiData/WD~Eleanor,988818]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Eleanor%20Roosevelt%20portrait%201933%20%28cropped%29.jpg
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
-IPA_transcription: "ˈɛlɪnɔːr ˈroʊzəvɛlt"
+IPA_transcription: ˈɛlɪnɔːr ˈroʊzəvɛlt
 ISNI: 0000000121400685
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~French,150]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
 Libris_URI: 31fhkcvm5dmc0jd
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 medical_condition:
-- '[[_Standards/WikiData/WD~aplastic_anemia,846316]]'
-- '[[_Standards/WikiData/WD~tuberculosis,12204]]'
+  - '[[_Standards/WikiData/WD~aplastic_anemia,846316]]'
+  - '[[_Standards/WikiData/WD~tuberculosis,12204]]'
 member_of:
-- '[[_Standards/WikiData/WD~Daughters_of_the_American_Revolution,1541947]]'
-- '[[_Standards/WikiData/WD~Alpha_Kappa_Alpha,3308284]]'
+  - '[[_Standards/WikiData/WD~Daughters_of_the_American_Revolution,1541947]]'
+  - '[[_Standards/WikiData/WD~Alpha_Kappa_Alpha,3308284]]'
 member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
 mother: '[[_Standards/WikiData/WD~Anna_Hall_Roosevelt,4767063]]'
-name_in_native_language: "Eleanor Roosevelt"
+name_in_native_language: Eleanor Roosevelt
 native_language: '[[_Standards/WikiData/WD~American_English,7976]]'
 occupation:
-- '[[_Standards/WikiData/WD~politician,82955]]'
-- '[[_Standards/WikiData/WD~diplomat,193391]]'
-- '[[_Standards/WikiData/WD~columnist,1086863]]'
-- '[[_Standards/WikiData/WD~human_rights_activist,1476215]]'
-- '[[_Standards/WikiData/WD~journalist,1930187]]'
-- '[[_Standards/WikiData/WD~peace_activist,16323111]]'
-- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-- "[[_Standards/WikiData/WD~women's_rights_activist,28692502]]"
-- '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~diplomat,193391]]'
+  - '[[_Standards/WikiData/WD~columnist,1086863]]'
+  - '[[_Standards/WikiData/WD~human_rights_activist,1476215]]'
+  - '[[_Standards/WikiData/WD~journalist,1930187]]'
+  - '[[_Standards/WikiData/WD~peace_activist,16323111]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - "[[_Standards/WikiData/WD~women's_rights_activist,28692502]]"
+  - '[[_Standards/WikiData/WD~writer,36180]]'
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-- '[[_Standards/WikiData/WD~WikiForHumanRights_2019,78499962]]'
-- '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+  - '[[_Standards/WikiData/WD~WikiForHumanRights_2019,78499962]]'
+  - '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
 P8189: 987007267119605171
 place_of_birth: '[[_Standards/WikiData/WD~Manhattan,11299]]'
 place_of_burial: '[[_Standards/WikiData/WD~Home_of_Franklin_D._Roosevelt_National_Historic_Site,954276]]'
 place_of_death: '[[_Standards/WikiData/WD~Upper_East_Side,455587]]'
 Plex_person_key: 5d776883374a5b001fec7c28
 position_held:
-- '[[_Standards/WikiData/WD~ambassador,121998]]'
-- '[[_Standards/WikiData/WD~First_Lady_of_the_United_States,7166256]]'
-- '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
+  - '[[_Standards/WikiData/WD~ambassador,121998]]'
+  - '[[_Standards/WikiData/WD~First_Lady_of_the_United_States,7166256]]'
+  - '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Episcopal_Church,682443]]'
 residence:
-- '[[_Standards/WikiData/WD~Hyde_Park,988554]]'
-- '[[_Standards/WikiData/WD~New_York_City,60]]'
-- '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+  - '[[_Standards/WikiData/WD~Hyde_Park,988554]]'
+  - '[[_Standards/WikiData/WD~New_York_City,60]]'
+  - '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 sibling: '[[_Standards/WikiData/WD~Hall_Roosevelt,5642630]]'
-signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Eleanor%20Roosevelt%20Signature-.svg"
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Eleanor%20Roosevelt%20Signature-.svg
 spouse: '[[_Standards/WikiData/WD~Franklin_Delano_Roosevelt,8007]]'
 U_S_National_Archives_Identifier: 10581543
 video:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/1940-05-22%20Mrs%20Roosevelt%20In%20Red%20Cross%20Appeal.ogv"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/1943-09-30%20Mrs%20FDR%20Tells%20One.ogv"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/1940-05-22%20Mrs%20Roosevelt%20In%20Red%20Cross%20Appeal.ogv
+  - http://commons.wikimedia.org/wiki/Special:FilePath/1943-09-30%20Mrs%20FDR%20Tells%20One.ogv
 work_location:
-- '[[_Standards/WikiData/WD~New_York_City,60]]'
-- '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+  - '[[_Standards/WikiData/WD~New_York_City,60]]'
+  - '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
 writing_language: '[[_Standards/WikiData/WD~American_English,7976]]'
 ---
 

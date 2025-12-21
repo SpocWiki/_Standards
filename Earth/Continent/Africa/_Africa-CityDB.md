@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _Africa-CityDB
+  - ' Africa-CityDB'
 database_plugin: basic
 ---
 

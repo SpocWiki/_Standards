@@ -4,20 +4,22 @@ aliases:
   - motorcycle_repair
   - MotorcycleRepair
   - is_a_motorcycle_repair
+  - Motorcycle_Repair
+  - Motorcycle Repair
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - motorcycle_repair
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_motorcycle_repair Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

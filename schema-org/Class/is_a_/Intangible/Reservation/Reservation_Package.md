@@ -4,20 +4,22 @@ aliases:
   - reservation_package
   - ReservationPackage
   - is_a_reservation_package
+  - Reservation_Package
+  - Reservation Package
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - reservation_package
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_reservation_package Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

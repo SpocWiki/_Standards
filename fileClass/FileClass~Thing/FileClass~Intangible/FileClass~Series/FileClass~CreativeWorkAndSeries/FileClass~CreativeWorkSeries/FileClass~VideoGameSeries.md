@@ -1,114 +1,116 @@
 ---
-excludes: 
+aliases:
+  - FileClass~VideoGameSeries
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries
 fields:
-- id: 6SO7dU
-  name: Actor
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: AVyuBz
-  name: CharacterAttribute
-  options:
-    dvQueryString: "dv.pages('#class/Thing')"
-  type: MultiFile
-  path: ''
-- id: GhUU27
-  name: CheatCode
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
-  type: MultiFile
-  path: ''
-- id: 20lpvJ
-  name: ContainsSeason
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/CreativeWorkSeason')"
-  type: MultiFile
-  path: ''
-- id: npPo0L
-  name: Director
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: dnIFBk
-  name: Episode
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Episode')"
-  type: MultiFile
-  path: ''
-- id: 2c3sHp
-  name: GameItem
-  options:
-    dvQueryString: "dv.pages('#class/Thing')"
-  type: MultiFile
-  path: ''
-- id: 3OhFCT
-  name: GameLocation
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place')"
-  type: MultiFile
-  path: ''
-- id: O5IRa4
-  name: GamePlatform
-  options:
-    dvQueryString: "dv.pages('#class/Thing')"
-  type: MultiFile
-  path: ''
-- id: isaHtZ
-  name: MusicBy
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')"
-  type: MultiFile
-  path: ''
-- id: Bb1YbY
-  name: NumberOfEpisodes
-  options: {}
-  type: Number
-  path: ''
-- id: pKSKiR
-  name: NumberOfPlayers
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: F3pDc5
-  name: NumberOfSeasons
-  options: {}
-  type: Number
-  path: ''
-- id: 1BQdLt
-  name: ProductionCompany
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: HoqdYR
-  name: Quest
-  options:
-    dvQueryString: "dv.pages('#class/Thing')"
-  type: MultiFile
-  path: ''
-- id: z0usXO
-  name: Trailer
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')"
-  type: MultiFile
-  path: ''
+  - id: 6SO7dU
+    name: Actor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: AVyuBz
+    name: CharacterAttribute
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ''
+  - id: GhUU27
+    name: CheatCode
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ''
+  - id: 20lpvJ
+    name: ContainsSeason
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/CreativeWorkSeason')
+    type: MultiFile
+    path: ''
+  - id: npPo0L
+    name: Director
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: dnIFBk
+    name: Episode
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Episode')
+    type: MultiFile
+    path: ''
+  - id: 2c3sHp
+    name: GameItem
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ''
+  - id: 3OhFCT
+    name: GameLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ''
+  - id: O5IRa4
+    name: GamePlatform
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ''
+  - id: isaHtZ
+    name: MusicBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
+    type: MultiFile
+    path: ''
+  - id: Bb1YbY
+    name: NumberOfEpisodes
+    options: {}
+    type: Number
+    path: ''
+  - id: pKSKiR
+    name: NumberOfPlayers
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: F3pDc5
+    name: NumberOfSeasons
+    options: {}
+    type: Number
+    path: ''
+  - id: 1BQdLt
+    name: ProductionCompany
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: HoqdYR
+    name: Quest
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ''
+  - id: z0usXO
+    name: Trailer
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/VideoGameSeries
-- class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/VideoGameSeries
-- is_a_/VideoGameSeries
-- schema-org/VideoGameSeries
+  - class/VideoGameSeries
+  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/VideoGameSeries
+  - is_a_/VideoGameSeries
+  - schema-org/VideoGameSeries
 tags:
-- class/FileClass
-- class/VideoGameSeries
-- is_a_/VideoGameSeries
-- class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/VideoGameSeries
+  - class/FileClass
+  - class/VideoGameSeries
+  - is_a_/VideoGameSeries
+  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/VideoGameSeries
 version: 2.0
 ---
 

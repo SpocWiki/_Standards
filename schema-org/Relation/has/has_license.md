@@ -1,27 +1,28 @@
 ---
 aliases:
-- has_license
-- "schema:license"
-- "dbo:license"
-- "wdt:P275"
+  - has_license
+  - schema:license
+  - dbo:license
+  - wdt:P275
+  - has license
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- license
-layout: 
-license: "CC BY-SA 4.0"
+  - license
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_license
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_license
 type: Predi_Relation
 ---

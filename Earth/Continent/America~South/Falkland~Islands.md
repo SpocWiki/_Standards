@@ -3,7 +3,9 @@ aliases:
   - Malvinas
   - Falkland_Islands
   - Falkland Islands
-  - 
+  - ""
+  - Falkland~Islands
+has_id_wikidata: Q9648
 confidential: public
 icon: flag-fk
 isDeleted: false
@@ -14,7 +16,6 @@ SpocWebEntityId: 26893
 tags:
   - geo/Country
 type: Country
-has_id_wikidata: Q9648
 flag: "[[_Standards/WikiData/WD~flag_of_the_Falkland_Islands,185273]]"
 currency: "[[_Standards/WikiData/WD~Falkland_Islands_pound,330044]]"
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_the_Falkland_Islands,437414]]"
@@ -61,13 +62,13 @@ top_level_Internet_domain: "[[_Standards/WikiData/WD~.fk,42625]]"
 head_of_state: "[[_Standards/WikiData/WD~Charles_III,43274]]"
 instance_of: "[[_Standards/WikiData/WD~British_overseas_territories,46395]]"
 population: 4550
-ISO_3166_1_numeric_code: "238"
-M49_code: "238"
-maritime_identification_digits: "740"
-IAB_code: "1435"
-INSEE_countries_and_foreign_territories_code: "99427"
+ISO_3166_1_numeric_code: 238
+M49_code: 238
+maritime_identification_digits: 740
+IAB_code: 1435
+INSEE_countries_and_foreign_territories_code: 99427
 inception: 1833-01-03T00:00:00Z
-OmegaWiki_Defined_Meaning: "505798"
+OmegaWiki_Defined_Meaning: 505798
 demonym:
   - Falkland Islander
   - malvinenc
@@ -90,13 +91,13 @@ WIPO_ST_3: FK
 official_name:
   - Islas Malvinas
   - Falkland Islands
-U_S_National_Archives_Identifier: "10044732"
+U_S_National_Archives_Identifier: 10044732
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20Falkland%20Islands.svg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Falkland%20Islands.svg
 ISO_3166_1_alpha_3_code: FLK
 IOC_country_code: FLK
 Unicode_character: 🇫🇰
-telephone_country_code: "+500"
+telephone_country_code: 500
 coordinate_location: Point(-59.22 -51.73)
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Location%20map%20of%20the%20Falklands%20%E2%80%93%20Alternative%20version%204.svg
 geoshape: http://commons.wikimedia.org/data/main/Data:Falkland+Islands.map

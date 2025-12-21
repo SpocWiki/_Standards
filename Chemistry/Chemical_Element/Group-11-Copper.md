@@ -1,21 +1,23 @@
 ---
-Commons_category: "Periodic table group 11"
-Dewey_Decimal_Classification: 546.65
+aliases:
+  - Group-11-Copper
 has_id_wikidata: Q185870
+Commons_category: Periodic table group 11
+Dewey_Decimal_Classification: 546.65
 has_part_s_:
-- '[[_Standards/WikiData/WD~copper,753]]'
-- '[[_Standards/WikiData/WD~gold,897]]'
-- '[[_Standards/WikiData/WD~silver,1090]]'
-- '[[_Standards/WikiData/WD~roentgenium,1272]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - '[[_Standards/WikiData/WD~copper,753]]'
+  - '[[_Standards/WikiData/WD~gold,897]]'
+  - '[[_Standards/WikiData/WD~silver,1090]]'
+  - '[[_Standards/WikiData/WD~roentgenium,1272]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Silver%20crystal.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Gold-crystals.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Cu-Scheibe.JPG"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Silver%20crystal.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Gold-crystals.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Cu-Scheibe.JPG
 instance_of: '[[_Standards/WikiData/WD~group,83306]]'
 part_of:
-- '[[_Standards/WikiData/WD~d_block,214503]]'
-- '[[_Standards/WikiData/WD~periodic_table,10693]]'
+  - '[[_Standards/WikiData/WD~d_block,214503]]'
+  - '[[_Standards/WikiData/WD~periodic_table,10693]]'
 type: ElementGroup
 ---
 

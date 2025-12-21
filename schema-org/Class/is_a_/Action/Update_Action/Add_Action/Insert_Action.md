@@ -4,20 +4,22 @@ aliases:
   - insert_action
   - InsertAction
   - is_an_insert_action
+  - Insert_Action
+  - Insert Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - insert_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_insert_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

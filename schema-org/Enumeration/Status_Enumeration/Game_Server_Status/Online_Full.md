@@ -4,21 +4,23 @@ aliases:
   - online_full
   - OnlineFull
   - is_an_online_full
+  - Online_Full
+  - Online Full
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: GameServerStatus
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - online_full
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_online_full Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

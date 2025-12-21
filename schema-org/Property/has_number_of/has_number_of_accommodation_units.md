@@ -4,21 +4,22 @@ aliases:
   - number-of-accommodation-units
   - numberOfAccommodationUnits
   - has_number_of_accommodation_units
+  - has number of accommodation units
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - number-of-accommodation-units
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_number-of-accommodation-units
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

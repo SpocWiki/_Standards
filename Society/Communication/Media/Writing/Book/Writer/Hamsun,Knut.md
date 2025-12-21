@@ -1,91 +1,92 @@
 ---
 aliases:
   - Knut Hamsun
+  - Hamsun,Knut
+has_id_wikidata: Q40826
 award_received:
-  - "[[_Standards/WikiData/WD~Goethe_Medal_for_Art_and_Science,1396769]]"
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
+  - '[[_Standards/WikiData/WD~Goethe_Medal_for_Art_and_Science,1396769]]'
+  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
 BHCL_UUID: 11b73f57-4047-40c7-8f2d-f4a82574282d
 birth_name: Knut Pedersen Hamsun
 child:
-  - "[[_Standards/WikiData/WD~Arild_Hamsun,11958681]]"
-  - "[[_Standards/WikiData/WD~Ellinor_Hamsun,11967218]]"
-  - "[[_Standards/WikiData/WD~Tore_Hamsun,12006978]]"
-  - "[[_Standards/WikiData/WD~Victoria_Hamsun_Charlesson,31080430]]"
+  - '[[_Standards/WikiData/WD~Arild_Hamsun,11958681]]'
+  - '[[_Standards/WikiData/WD~Ellinor_Hamsun,11967218]]'
+  - '[[_Standards/WikiData/WD~Tore_Hamsun,12006978]]'
+  - '[[_Standards/WikiData/WD~Victoria_Hamsun_Charlesson,31080430]]'
 Commons_category: Knut Hamsun
 Commons_Creator_page: Knut Hamsun
 Commons_gallery: Knut Hamsun
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Norway,20]]"
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Norway,20]]'
 date_of_birth: 1859-08-04T00:00:00Z
 date_of_death: 1952-02-19T00:00:00Z
 depicted_by:
-  - "[[_Standards/WikiData/WD~Portrait_of_the_Author_Knut_Hamsun,55413663]]"
-  - "[[_Standards/WikiData/WD~Christian_Sinding,_Gunnar_Heiberg_and_Knut_Hamsun,55417791]]"
-  - "[[_Standards/WikiData/WD~Portrait_of_the_Author_Knut_Hamsun,55417817]]"
-  - "[[_Standards/WikiData/WD~Knut_Hamsun,70318044]]"
-  - "[[_Standards/WikiData/WD~Hamsun_i_Bodö_1913._Hamsun_skriver_Markens_Gröde_i_Bodö_1913.,109884356]]"
-  - "[[_Standards/WikiData/WD~Hamsun,109908464]]"
-  - "[[_Standards/WikiData/WD~Hamsun_og_frue,109908665]]"
-  - "[[_Standards/WikiData/WD~Knut_Hamsun,112262141]]"
+  - '[[_Standards/WikiData/WD~Portrait_of_the_Author_Knut_Hamsun,55413663]]'
+  - '[[_Standards/WikiData/WD~Christian_Sinding,_Gunnar_Heiberg_and_Knut_Hamsun,55417791]]'
+  - '[[_Standards/WikiData/WD~Portrait_of_the_Author_Knut_Hamsun,55417817]]'
+  - '[[_Standards/WikiData/WD~Knut_Hamsun,70318044]]'
+  - '[[_Standards/WikiData/WD~Hamsun_i_Bodö_1913._Hamsun_skriver_Markens_Gröde_i_Bodö_1913.,109884356]]'
+  - '[[_Standards/WikiData/WD~Hamsun,109908464]]'
+  - '[[_Standards/WikiData/WD~Hamsun_og_frue,109908665]]'
+  - '[[_Standards/WikiData/WD~Knut_Hamsun,112262141]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 Europeana_entity: agent/base/60130
-family_name: "[[_Standards/WikiData/WD~Hamsun,30514095]]"
-filmography: "[[_Standards/WikiData/WD~Knut_Hamsun_filmography,25427885]]"
-given_name: "[[_Standards/WikiData/WD~Knut,943881]]"
-has_id_wikidata: Q40826
+family_name: '[[_Standards/WikiData/WD~Hamsun,30514095]]'
+filmography: '[[_Standards/WikiData/WD~Knut_Hamsun_filmography,25427885]]'
+given_name: '[[_Standards/WikiData/WD~Knut,943881]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1495.%20Knut%20Hamsun%20-%20no-nb%20digifoto%2020150126%2000002%20bldsa%20HA0239%20%28cropped%29.jpg
 influenced_by:
-  - "[[_Standards/WikiData/WD~Fyodor_Dostoyevsky,991]]"
-  - "[[_Standards/WikiData/WD~Lord_Byron,5679]]"
-  - "[[_Standards/WikiData/WD~Q7724,7724]]"
-  - "[[_Standards/WikiData/WD~Friedrich_Nietzsche,9358]]"
-  - "[[_Standards/WikiData/WD~Arthur_Schopenhauer,38193]]"
-  - "[[_Standards/WikiData/WD~Bjørnstjerne_Bjørnson,46405]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Fyodor_Dostoyevsky,991]]'
+  - '[[_Standards/WikiData/WD~Lord_Byron,5679]]'
+  - '[[_Standards/WikiData/WD~Q7724,7724]]'
+  - '[[_Standards/WikiData/WD~Friedrich_Nietzsche,9358]]'
+  - '[[_Standards/WikiData/WD~Arthur_Schopenhauer,38193]]'
+  - '[[_Standards/WikiData/WD~Bjørnstjerne_Bjørnson,46405]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI:
   - 368642491
   - 121347845
   - 368642483
 Krugosvet_article: kultura_i_obrazovanie/literatura/GAMSUN_KNUT.html
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Danish,9035]]"
-  - "[[_Standards/WikiData/WD~Norwegian,9043]]"
+  - '[[_Standards/WikiData/WD~Danish,9035]]'
+  - '[[_Standards/WikiData/WD~Norwegian,9043]]'
 Libris_URI: 75kmng2r1rvsl45
-member_of_political_party: "[[_Standards/WikiData/WD~Nasjonal_Samling,167189]]"
-movement: "[[_Standards/WikiData/WD~Neo_romanticism,397469]]"
+member_of_political_party: '[[_Standards/WikiData/WD~Nasjonal_Samling,167189]]'
+movement: '[[_Standards/WikiData/WD~Neo_romanticism,397469]]'
 name_in_native_language: Knut Hamsun
-nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Hunger,1062365]]"
-  - "[[_Standards/WikiData/WD~Growth_of_the_Soil,2266122]]"
+  - '[[_Standards/WikiData/WD~Hunger,1062365]]'
+  - '[[_Standards/WikiData/WD~Growth_of_the_Soil,2266122]]'
 occupation:
-  - "[[_Standards/WikiData/WD~playwright,214917]]"
-  - "[[_Standards/WikiData/WD~critic,6430706]]"
-  - "[[_Standards/WikiData/WD~novelist,6625963]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+  - '[[_Standards/WikiData/WD~playwright,214917]]'
+  - '[[_Standards/WikiData/WD~critic,6430706]]'
+  - '[[_Standards/WikiData/WD~novelist,6625963]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
 official_website: https://hamsunsenteret.no/en/
 P8189: 987007296201005200
 place_of_birth:
-  - "[[_Standards/WikiData/WD~Vågå,113438]]"
-  - "[[_Standards/WikiData/WD~Lom_Municipality,488395]]"
-place_of_burial: "[[_Standards/WikiData/WD~Nørholm,6515912]]"
-place_of_death: "[[_Standards/WikiData/WD~Grimstad,90590]]"
+  - '[[_Standards/WikiData/WD~Vågå,113438]]'
+  - '[[_Standards/WikiData/WD~Lom_Municipality,488395]]'
+place_of_burial: '[[_Standards/WikiData/WD~Nørholm,6515912]]'
+place_of_death: '[[_Standards/WikiData/WD~Grimstad,90590]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Plaque%20to%20Knut%20Hamsun%2C%20Tbilisi.jpg
 Plex_person_key: 5dcd38d036d0ce001f6daaa0
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Knut%20Hamsun%20signatur%201940.png
 spouse:
-  - "[[_Standards/WikiData/WD~Marie_Hamsun,470191]]"
-  - "[[_Standards/WikiData/WD~Bergljot_Bech,16172348]]"
+  - '[[_Standards/WikiData/WD~Marie_Hamsun,470191]]'
+  - '[[_Standards/WikiData/WD~Bergljot_Bech,16172348]]'
 work_period_end_: 1949-01-01T00:00:00Z
 work_period_start_: 1877-01-01T00:00:00Z
 ---

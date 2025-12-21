@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Jim Carrey"
+  - Jim Carrey
+  - Carrey,Jim
 has_id_wikidata: Q40504
 ---
 

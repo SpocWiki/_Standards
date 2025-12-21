@@ -3,42 +3,43 @@ aliases:
   - Wu
   - Shanghainese
   - Wu Chinese
+  - Lang-zh-wuu
 has_id_wikidata: Q34290
 tags:
   - Lang/wu
 type: Lang
-linguistic_typology: "[[_Standards/WikiData/WD~subject_verb_object,651641]]"
+linguistic_typology: '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Wenzhounese,710218]]"
-  - "[[_Standards/WikiData/WD~Xuanzhou_Wu,1939756]]"
-  - "[[_Standards/WikiData/WD~Wuzhou_Wu,2779891]]"
-  - "[[_Standards/WikiData/WD~Chuqu_Wu,5116499]]"
-  - "[[_Standards/WikiData/WD~Taihu_Wu,7675988]]"
-  - "[[_Standards/WikiData/WD~Taizhou_Wu,7676678]]"
-has_effect: "[[_Standards/WikiData/WD~go_on,1024077]]"
+  - '[[_Standards/WikiData/WD~Wenzhounese,710218]]'
+  - '[[_Standards/WikiData/WD~Xuanzhou_Wu,1939756]]'
+  - '[[_Standards/WikiData/WD~Wuzhou_Wu,2779891]]'
+  - '[[_Standards/WikiData/WD~Chuqu_Wu,5116499]]'
+  - '[[_Standards/WikiData/WD~Taihu_Wu,7675988]]'
+  - '[[_Standards/WikiData/WD~Taizhou_Wu,7676678]]'
+has_effect: '[[_Standards/WikiData/WD~go_on,1024077]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
-replaces: "[[_Standards/WikiData/WD~Middle_Chinese,2016252]]"
+  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
+  - '[[_Standards/WikiData/WD~natural_language,33742]]'
+replaces: '[[_Standards/WikiData/WD~Middle_Chinese,2016252]]'
 indigenous_to:
-  - "[[_Standards/WikiData/WD~Speakers_of_Wu_Chinese,2756708]]"
-  - "[[_Standards/WikiData/WD~Shanghai,8686]]"
-  - "[[_Standards/WikiData/WD~Jiangsu,16963]]"
-  - "[[_Standards/WikiData/WD~Zhejiang,16967]]"
-  - "[[_Standards/WikiData/WD~Anhui,40956]]"
-  - "[[_Standards/WikiData/WD~Fujian,41705]]"
-  - "[[_Standards/WikiData/WD~Jiangxi,57052]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~5_Developing,29051551]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q29904797,29904797]]"
-different_from: "[[_Standards/WikiData/WD~Q89317791,89317791]]"
+  - '[[_Standards/WikiData/WD~Speakers_of_Wu_Chinese,2756708]]'
+  - '[[_Standards/WikiData/WD~Shanghai,8686]]'
+  - '[[_Standards/WikiData/WD~Jiangsu,16963]]'
+  - '[[_Standards/WikiData/WD~Zhejiang,16967]]'
+  - '[[_Standards/WikiData/WD~Anhui,40956]]'
+  - '[[_Standards/WikiData/WD~Fujian,41705]]'
+  - '[[_Standards/WikiData/WD~Jiangxi,57052]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~5_Developing,29051551]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q29904797,29904797]]'
+different_from: '[[_Standards/WikiData/WD~Q89317791,89317791]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Chinese,7850]]"
-  - "[[_Standards/WikiData/WD~Sinitic,33857]]"
-writing_system: "[[_Standards/WikiData/WD~Chinese_characters,8201]]"
+  - '[[_Standards/WikiData/WD~Chinese,7850]]'
+  - '[[_Standards/WikiData/WD~Sinitic,33857]]'
+writing_system: '[[_Standards/WikiData/WD~Chinese_characters,8201]]'
 country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 number_of_speakers_writers_or_signers: 81400000
-ABS_ASCL_2011_code: "7106"
-OmegaWiki_Defined_Meaning: "550260"
+ABS_ASCL_2011_code: 7106
+OmegaWiki_Defined_Meaning: 550260
 POSIX_locale_identifier: wuu
 Ethnologue_com_language_code: wuu
 Wikimedia_language_code: wuu

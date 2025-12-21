@@ -1,10 +1,12 @@
 ---
 aliases:
   - Impressionism in music
+  - Impressionism_in_Music
+  - Impressionism in Music
 has_id_wikidata: Q837182
-instance_of: "[[_Standards/WikiData/WD~musical_movement,12020884]]"
-different_from: "[[_Standards/WikiData/WD~impressionist_music,105697765]]"
-part_of: "[[_Standards/WikiData/WD~classical_music,9730]]"
+instance_of: '[[_Standards/WikiData/WD~musical_movement,12020884]]'
+different_from: '[[_Standards/WikiData/WD~impressionist_music,105697765]]'
+part_of: '[[_Standards/WikiData/WD~classical_music,9730]]'
 ---
 
 # [[Impressionism_in_Music]] 

@@ -3,23 +3,24 @@ aliases:
   - has sensory-unit
   - sensoryUnit
   - has_sensory_unit
+  - has sensory unit
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sensory_unit
   - sensory
   - unit
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_sensory_unit
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

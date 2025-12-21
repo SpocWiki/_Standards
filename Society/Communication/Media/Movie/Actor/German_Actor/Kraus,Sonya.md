@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Sonya Martina Kraus"
-- "Sonya Kraus"
+  - Sonya Martina Kraus
+  - Sonya Kraus
+  - Kraus,Sonya
 ---
 
 #has_/time_/started :: 1973-06-22 

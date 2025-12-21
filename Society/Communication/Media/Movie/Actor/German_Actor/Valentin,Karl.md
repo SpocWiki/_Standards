@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Valentin Ludwig Fey"
-- "Karl Valentin"
+  - Valentin Ludwig Fey
+  - Karl Valentin
+  - Valentin,Karl
 ---
 
 #has_/created_/quote :: Jedes Problem hat drei Seiten: eine positive, eine negative und eine komische. 

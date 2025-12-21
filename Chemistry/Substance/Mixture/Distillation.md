@@ -1,26 +1,27 @@
 ---
 aliases:
   - Destillation
+  - Distillation
 has_id_wikidata: Q101017
 has_part_s_:
-  - "[[_Standards/WikiData/WD~condensation,166583]]"
-  - "[[_Standards/WikiData/WD~vaporization,6452502]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Zosimos_of_Panopolis,226868]]"
+  - '[[_Standards/WikiData/WD~condensation,166583]]'
+  - '[[_Standards/WikiData/WD~vaporization,6452502]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Zosimos_of_Panopolis,226868]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~separation_process,898987]]"
-  - "[[../../../WikiData/WD~chemical_process,2281940]]"
-locations: "[[_Standards/WikiData/WD~distillery,1251750]]"
-different_from: "[[_Standards/WikiData/WD~reduction,1971485]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Distillation,8087474]]"
-practiced_by: "[[_Standards/WikiData/WD~distiller,23924989]]"
-studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
+  - '[[_Standards/WikiData/WD~separation_process,898987]]'
+  - '[[../../../WikiData/WD~chemical_process,2281940]]'
+locations: '[[_Standards/WikiData/WD~distillery,1251750]]'
+different_from: '[[_Standards/WikiData/WD~reduction,1971485]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Distillation,8087474]]'
+practiced_by: '[[_Standards/WikiData/WD~distiller,23924989]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dorf%20Lore%20-%20Schnaps-Destillation.jpg
-U_S_National_Archives_Identifier: "10640526"
+U_S_National_Archives_Identifier: 10640526
 UMLS_CUI: C2718007
 Commons_category: Distillation
 MeSH_tree_code: E05.196.155.249

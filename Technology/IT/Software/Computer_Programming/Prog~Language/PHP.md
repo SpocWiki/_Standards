@@ -2,78 +2,79 @@
 aliases:
   - Personal Home Page
   - Hypertext Preprocessor
+  - PHP
 has_id_wikidata: Q59
 programming_paradigm:
-  - "[[_Standards/WikiData/WD~object_oriented_programming,79872]]"
-  - "[[_Standards/WikiData/WD~functional_programming,193076]]"
-  - "[[_Standards/WikiData/WD~imperative_programming,275596]]"
-  - "[[_Standards/WikiData/WD~reflective_programming,1056451]]"
-  - "[[_Standards/WikiData/WD~procedural_programming,1418502]]"
-designed_by: "[[_Standards/WikiData/WD~Rasmus_Lerdorf,92768]]"
+  - '[[_Standards/WikiData/WD~object_oriented_programming,79872]]'
+  - '[[_Standards/WikiData/WD~functional_programming,193076]]'
+  - '[[_Standards/WikiData/WD~imperative_programming,275596]]'
+  - '[[_Standards/WikiData/WD~reflective_programming,1056451]]'
+  - '[[_Standards/WikiData/WD~procedural_programming,1418502]]'
+designed_by: '[[_Standards/WikiData/WD~Rasmus_Lerdorf,92768]]'
 developer:
-  - "[[_Standards/WikiData/WD~Rasmus_Lerdorf,92768]]"
-  - "[[_Standards/WikiData/WD~Perforce_Zend,189477]]"
-  - "[[_Standards/WikiData/WD~Andi_Gutmans,466178]]"
-  - "[[_Standards/WikiData/WD~PHP_Group,99273543]]"
-  - "[[_Standards/WikiData/WD~Zeev_Suraski,64050]]"
-creator: "[[_Standards/WikiData/WD~Rasmus_Lerdorf,92768]]"
-different_from: "[[_Standards/WikiData/WD~PHP,232811]]"
-copyright_license: "[[_Standards/WikiData/WD~PHP_License,376841]]"
+  - '[[_Standards/WikiData/WD~Rasmus_Lerdorf,92768]]'
+  - '[[_Standards/WikiData/WD~Perforce_Zend,189477]]'
+  - '[[_Standards/WikiData/WD~Andi_Gutmans,466178]]'
+  - '[[_Standards/WikiData/WD~PHP_Group,99273543]]'
+  - '[[_Standards/WikiData/WD~Zeev_Suraski,64050]]'
+creator: '[[_Standards/WikiData/WD~Rasmus_Lerdorf,92768]]'
+different_from: '[[_Standards/WikiData/WD~PHP,232811]]'
+copyright_license: '[[_Standards/WikiData/WD~PHP_License,376841]]'
 followed_by:
-  - "[[_Standards/WikiData/WD~Falcon,580448]]"
-  - "[[_Standards/WikiData/WD~Hack,15971618]]"
+  - '[[_Standards/WikiData/WD~Falcon,580448]]'
+  - '[[_Standards/WikiData/WD~Hack,15971618]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~object_based_language,899523]]"
-  - "[[_Standards/WikiData/WD~interpreted_language,1993334]]"
-  - "[[_Standards/WikiData/WD~multi_paradigm_programming_language,12772052]]"
-software_quality_assurance: "[[_Standards/WikiData/WD~continuous_integration,965769]]"
+  - '[[_Standards/WikiData/WD~object_based_language,899523]]'
+  - '[[_Standards/WikiData/WD~interpreted_language,1993334]]'
+  - '[[_Standards/WikiData/WD~multi_paradigm_programming_language,12772052]]'
+software_quality_assurance: '[[_Standards/WikiData/WD~continuous_integration,965769]]'
 typing_discipline:
-  - "[[_Standards/WikiData/WD~dynamic_typing,1268978]]"
-  - "[[_Standards/WikiData/WD~weak_typing,7977969]]"
-  - "[[_Standards/WikiData/WD~gradual_typing,16965428]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_PHP,7005824]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_PHP,17138413]]"
-mascot: "[[_Standards/WikiData/WD~ElePHPant,19844919]]"
-writable_file_format: "[[_Standards/WikiData/WD~PHP_script,26697935]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-publisher: "[[_Standards/WikiData/WD~PHP_Group,99273543]]"
-described_by_source: "[[_Standards/WikiData/WD~PHP_Manual,117428438]]"
-has_use: "[[_Standards/WikiData/WD~PHP_programming,125120438]]"
+  - '[[_Standards/WikiData/WD~dynamic_typing,1268978]]'
+  - '[[_Standards/WikiData/WD~weak_typing,7977969]]'
+  - '[[_Standards/WikiData/WD~gradual_typing,16965428]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_PHP,7005824]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_PHP,17138413]]'
+mascot: '[[_Standards/WikiData/WD~ElePHPant,19844919]]'
+writable_file_format: '[[_Standards/WikiData/WD~PHP_script,26697935]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
+publisher: '[[_Standards/WikiData/WD~PHP_Group,99273543]]'
+described_by_source: '[[_Standards/WikiData/WD~PHP_Manual,117428438]]'
+has_use: '[[_Standards/WikiData/WD~PHP_programming,125120438]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Q135276718,135276718]]"
-  - "[[_Standards/WikiData/WD~Q135276719,135276719]]"
-  - "[[_Standards/WikiData/WD~Q135276717,135276717]]"
-  - "[[_Standards/WikiData/WD~Q135276722,135276722]]"
-  - "[[_Standards/WikiData/WD~Q135276723,135276723]]"
-  - "[[_Standards/WikiData/WD~Q135276720,135276720]]"
-  - "[[_Standards/WikiData/WD~Q135276721,135276721]]"
-  - "[[_Standards/WikiData/WD~Q135276726,135276726]]"
-  - "[[_Standards/WikiData/WD~Q135276727,135276727]]"
-  - "[[_Standards/WikiData/WD~Q135276724,135276724]]"
-  - "[[_Standards/WikiData/WD~Q135276725,135276725]]"
-  - "[[_Standards/WikiData/WD~Q135276730,135276730]]"
-  - "[[_Standards/WikiData/WD~Q135276731,135276731]]"
-  - "[[_Standards/WikiData/WD~Q135276728,135276728]]"
-  - "[[_Standards/WikiData/WD~Q135276729,135276729]]"
-  - "[[_Standards/WikiData/WD~Q135276734,135276734]]"
-  - "[[_Standards/WikiData/WD~Q135276735,135276735]]"
-  - "[[_Standards/WikiData/WD~Q135276732,135276732]]"
-  - "[[_Standards/WikiData/WD~Q135276733,135276733]]"
-  - "[[_Standards/WikiData/WD~Q135276738,135276738]]"
-  - "[[_Standards/WikiData/WD~Q135276736,135276736]]"
-  - "[[_Standards/WikiData/WD~Q135276737,135276737]]"
+  - '[[_Standards/WikiData/WD~Q135276718,135276718]]'
+  - '[[_Standards/WikiData/WD~Q135276719,135276719]]'
+  - '[[_Standards/WikiData/WD~Q135276717,135276717]]'
+  - '[[_Standards/WikiData/WD~Q135276722,135276722]]'
+  - '[[_Standards/WikiData/WD~Q135276723,135276723]]'
+  - '[[_Standards/WikiData/WD~Q135276720,135276720]]'
+  - '[[_Standards/WikiData/WD~Q135276721,135276721]]'
+  - '[[_Standards/WikiData/WD~Q135276726,135276726]]'
+  - '[[_Standards/WikiData/WD~Q135276727,135276727]]'
+  - '[[_Standards/WikiData/WD~Q135276724,135276724]]'
+  - '[[_Standards/WikiData/WD~Q135276725,135276725]]'
+  - '[[_Standards/WikiData/WD~Q135276730,135276730]]'
+  - '[[_Standards/WikiData/WD~Q135276731,135276731]]'
+  - '[[_Standards/WikiData/WD~Q135276728,135276728]]'
+  - '[[_Standards/WikiData/WD~Q135276729,135276729]]'
+  - '[[_Standards/WikiData/WD~Q135276734,135276734]]'
+  - '[[_Standards/WikiData/WD~Q135276735,135276735]]'
+  - '[[_Standards/WikiData/WD~Q135276732,135276732]]'
+  - '[[_Standards/WikiData/WD~Q135276733,135276733]]'
+  - '[[_Standards/WikiData/WD~Q135276738,135276738]]'
+  - '[[_Standards/WikiData/WD~Q135276736,135276736]]'
+  - '[[_Standards/WikiData/WD~Q135276737,135276737]]'
 operating_system:
-  - "[[../../../../../WikiData/WD~Microsoft_Windows,1406]]"
-  - "[[_Standards/WikiData/WD~Unix_like_operating_system,14656]]"
+  - '[[../../../../../WikiData/WD~Microsoft_Windows,1406]]'
+  - '[[_Standards/WikiData/WD~Unix_like_operating_system,14656]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Q2005,2005]]"
-  - "[[../../../../../WikiData/WD~Q2407,2407]]"
-  - "[[_Standards/WikiData/WD~Tcl,5288]]"
-  - "[[_Standards/WikiData/WD~Q8811,8811]]"
-  - "[[../../../../../WikiData/WD~Q15777,15777]]"
-  - "[[_Standards/WikiData/WD~Q251,251]]"
-  - "[[_Standards/WikiData/WD~Q42478,42478]]"
-programmed_in: "[[../../../../../WikiData/WD~Q15777,15777]]"
+  - '[[_Standards/WikiData/WD~Q2005,2005]]'
+  - '[[../../../../../WikiData/WD~Q2407,2407]]'
+  - '[[_Standards/WikiData/WD~Tcl,5288]]'
+  - '[[_Standards/WikiData/WD~Q8811,8811]]'
+  - '[[../../../../../WikiData/WD~Q15777,15777]]'
+  - '[[_Standards/WikiData/WD~Q251,251]]'
+  - '[[_Standards/WikiData/WD~Q42478,42478]]'
+programmed_in: '[[../../../../../WikiData/WD~Q15777,15777]]'
 social_media_followers: 104996
 file_extension:
   - phar
@@ -85,7 +86,7 @@ Commons_category: PHP
 subreddit: PHP
 Free_Software_Directory_entry: PHP
 source_code_repository_URL: https://github.com/php/php-src
-OmegaWiki_Defined_Meaning: "975968"
+OmegaWiki_Defined_Meaning: 975968
 Stack_Exchange_tag:
   - https://stackoverflow.com/tags/php
   - https://superuser.com/tags/php
@@ -94,8 +95,8 @@ Stack_Exchange_tag:
   - https://ja.stackoverflow.com/tags/php/
 official_wiki_URL: https://wiki.php.net/
 Dewey_Decimal_Classification:
-  - "005.133"
-  - "005.2762"
+  - 005.133
+  - 005.2762
 media_type:
   - application/x-httpd-php
   - text/x-php

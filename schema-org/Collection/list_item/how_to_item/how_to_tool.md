@@ -4,20 +4,21 @@ aliases:
   - how_to_tool
   - HowToTool
   - is_a_how_to_tool
+  - how to tool
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - how_to_tool
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_how_to_tool Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,36 +1,38 @@
 ---
-excludes: 
+aliases:
+  - FileClass~AggregateRating
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Rating
 fields:
-- id: RR7xQf
-  name: ItemReviewed
-  options:
-    dvQueryString: "dv.pages('#class/Thing')"
-  type: MultiFile
-  path: ''
-- id: dfjQIR
-  name: RatingCount
-  options: {}
-  type: Number
-  path: ''
-- id: z9z3MN
-  name: ReviewCount
-  options: {}
-  type: Number
-  path: ''
+  - id: RR7xQf
+    name: ItemReviewed
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ''
+  - id: dfjQIR
+    name: RatingCount
+    options: {}
+    type: Number
+    path: ''
+  - id: z9z3MN
+    name: ReviewCount
+    options: {}
+    type: Number
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/AggregateRating
-- class/Thing/Intangible/Rating/AggregateRating
-- is_an_/AggregateRating
-- schema-org/AggregateRating
+  - class/AggregateRating
+  - class/Thing/Intangible/Rating/AggregateRating
+  - is_an_/AggregateRating
+  - schema-org/AggregateRating
 tags:
-- class/FileClass
-- class/AggregateRating
-- '#is_an_/AggregateRating'
-- class/Thing/Intangible/Rating/AggregateRating
+  - class/FileClass
+  - class/AggregateRating
+  - '#is_an_/AggregateRating'
+  - class/Thing/Intangible/Rating/AggregateRating
 version: 2.0
 ---
 

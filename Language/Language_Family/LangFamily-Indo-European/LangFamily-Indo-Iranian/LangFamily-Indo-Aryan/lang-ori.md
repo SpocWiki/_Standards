@@ -4,37 +4,38 @@ aliases:
   - ଓଡ଼ିଆ
   - Oṛiā
   - Oriya
+  - lang-ori
 has_id_wikidata: Q33810
-linguistic_typology: "[[_Standards/WikiData/WD~subject_object_verb,539808]]"
-described_by_source: "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+linguistic_typology: '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
+described_by_source: '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~language,34770]]"
-writing_system: "[[_Standards/WikiData/WD~Odia,1760127]]"
+  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
+  - '[[_Standards/WikiData/WD~language,34770]]'
+writing_system: '[[_Standards/WikiData/WD~Odia,1760127]]'
 indigenous_to:
-  - "[[_Standards/WikiData/WD~Odia_people,1983634]]"
-  - "[[_Standards/WikiData/WD~Andhra_Pradesh,1159]]"
-  - "[[_Standards/WikiData/WD~Assam,1164]]"
-  - "[[_Standards/WikiData/WD~Chhattisgarh,1168]]"
-  - "[[_Standards/WikiData/WD~Jharkhand,1184]]"
-  - "[[_Standards/WikiData/WD~West_Bengal,1356]]"
-  - "[[_Standards/WikiData/WD~Odisha,22048]]"
+  - '[[_Standards/WikiData/WD~Odia_people,1983634]]'
+  - '[[_Standards/WikiData/WD~Andhra_Pradesh,1159]]'
+  - '[[_Standards/WikiData/WD~Assam,1164]]'
+  - '[[_Standards/WikiData/WD~Chhattisgarh,1168]]'
+  - '[[_Standards/WikiData/WD~Jharkhand,1184]]'
+  - '[[_Standards/WikiData/WD~West_Bengal,1356]]'
+  - '[[_Standards/WikiData/WD~Odisha,22048]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Oriya_languages,7102899]]"
-  - "[[_Standards/WikiData/WD~Indo_Aryan,33577]]"
-different_from: "[[_Standards/WikiData/WD~Orya,7105295]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~2_Provincial,29051547]]"
+  - '[[_Standards/WikiData/WD~Oriya_languages,7102899]]'
+  - '[[_Standards/WikiData/WD~Indo_Aryan,33577]]'
+different_from: '[[_Standards/WikiData/WD~Orya,7105295]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~2_Provincial,29051547]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q36491176,36491176]]"
-  - "[[_Standards/WikiData/WD~Q61684535,61684535]]"
+  - '[[_Standards/WikiData/WD~Q36491176,36491176]]'
+  - '[[_Standards/WikiData/WD~Q61684535,61684535]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530]]"
-  - "[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]"
-country: "[[_Standards/WikiData/WD~India,668]]"
+  - '[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530]]'
+  - '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]'
+country: '[[_Standards/WikiData/WD~India,668]]'
 number_of_speakers_writers_or_signers: 34500000
-ABS_ASCL_2011_code: "5216"
-OmegaWiki_Defined_Meaning: "6834"
-IAB_code: "1155"
+ABS_ASCL_2011_code: 5216
+OmegaWiki_Defined_Meaning: 6834
+IAB_code: 1155
 GitHub_topic: odia
 POSIX_locale_identifier: or
 Wikimedia_language_code: or
@@ -50,7 +51,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Odia.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Odia%20Language%20Banner.jpeg
 exact_match: http://publications.europa.eu/resource/authority/language/ORI
-Dewey_Decimal_Classification: "491.456"
+Dewey_Decimal_Classification: 491.456
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/ORIYA.html
 Commons_category: Odia language
 Glottolog_code: oriy1255

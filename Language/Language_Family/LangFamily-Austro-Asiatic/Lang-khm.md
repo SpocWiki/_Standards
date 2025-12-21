@@ -2,43 +2,44 @@
 aliases:
   - Khmer
   - Khmer language
+  - Lang-khm
 has_id_wikidata: Q9205
 indigenous_to:
-  - "[[_Standards/WikiData/WD~Cần_Thơ,216075]]"
-  - "[[_Standards/WikiData/WD~Cambodia,424]]"
-  - "[[_Standards/WikiData/WD~Ho_Chi_Minh_City,1854]]"
-  - "[[_Standards/WikiData/WD~Long_An,26573]]"
-  - "[[_Standards/WikiData/WD~Cà_Mau,33354]]"
-  - "[[_Standards/WikiData/WD~Hậu_Giang,36320]]"
-  - "[[_Standards/WikiData/WD~Kiên_Giang,36576]]"
-  - "[[_Standards/WikiData/WD~An_Giang,36592]]"
-  - "[[_Standards/WikiData/WD~Bạc_Liêu,36658]]"
-  - "[[_Standards/WikiData/WD~Đồng_Tháp,36676]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~register,286576]]"
+  - '[[_Standards/WikiData/WD~Cần_Thơ,216075]]'
+  - '[[_Standards/WikiData/WD~Cambodia,424]]'
+  - '[[_Standards/WikiData/WD~Ho_Chi_Minh_City,1854]]'
+  - '[[_Standards/WikiData/WD~Long_An,26573]]'
+  - '[[_Standards/WikiData/WD~Cà_Mau,33354]]'
+  - '[[_Standards/WikiData/WD~Hậu_Giang,36320]]'
+  - '[[_Standards/WikiData/WD~Kiên_Giang,36576]]'
+  - '[[_Standards/WikiData/WD~An_Giang,36592]]'
+  - '[[_Standards/WikiData/WD~Bạc_Liêu,36658]]'
+  - '[[_Standards/WikiData/WD~Đồng_Tháp,36676]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~register,286576]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Mon_Khmer,337657]]"
-  - "[[_Standards/WikiData/WD~Eastern_Mon_Khmer,3217495]]"
+  - '[[_Standards/WikiData/WD~Mon_Khmer,337657]]'
+  - '[[_Standards/WikiData/WD~Eastern_Mon_Khmer,3217495]]'
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~subject_verb_object,651641]]"
-  - "[[_Standards/WikiData/WD~isolating_language,7423311]]"
-writing_system: "[[_Standards/WikiData/WD~Khmer,1054190]]"
+  - '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
+  - '[[_Standards/WikiData/WD~isolating_language,7423311]]'
+writing_system: '[[_Standards/WikiData/WD~Khmer,1054190]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~language,34770]]"
-UNESCO_language_status: "[[_Standards/WikiData/WD~1_safe,20672086]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Khmer_language,22721396]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~1_National,29051546]]"
+  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
+  - '[[_Standards/WikiData/WD~language,34770]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Khmer_language,22721396]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546]]'
 country:
-  - "[[_Standards/WikiData/WD~Cambodia,424]]"
-  - "[[_Standards/WikiData/WD~Vietnam,881]]"
+  - '[[_Standards/WikiData/WD~Cambodia,424]]'
+  - '[[_Standards/WikiData/WD~Vietnam,881]]'
 number_of_speakers_writers_or_signers: 16600000
-ABS_ASCL_2011_code: "6301"
+ABS_ASCL_2011_code: 6301
 POSIX_locale_identifier: km
 Wikimedia_language_code: km
 IETF_language_tag: km
 ISO_639_1_code: km
-IAB_code: "1113"
-OmegaWiki_Defined_Meaning: "391037"
+IAB_code: 1113
+OmegaWiki_Defined_Meaning: 391037
 Ethnologue_com_language_code: khm
 WALS_lect_code: khm
 ISO_639_3_code: khm

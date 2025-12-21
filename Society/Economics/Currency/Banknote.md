@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Banknote
 has_id_wikidata: Q47433
 ---
 

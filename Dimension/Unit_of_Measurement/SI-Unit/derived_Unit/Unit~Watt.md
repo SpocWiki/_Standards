@@ -1,6 +1,7 @@
 ---
 aliases:
   - Watt
+  - Unit~Watt
 ---
 
 # [[Unit~Watt]] 

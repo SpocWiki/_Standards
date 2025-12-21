@@ -2,6 +2,8 @@
 aliases:
   - Berry principle
   - Arnold principle
+  - Arnold_Principle
+  - Arnold Principle
 ---
 
 #has_/creator :: [[Arnold,Vladimir]] 

@@ -9,29 +9,31 @@ aliases:
   - Independent State of Papua New Guinea
   - Estado Independiente de Papua Nueva Guinea
   - Papua_New_Guinea
+  - Papua-New_Guinea
+  - Papua-New Guinea
+has_id_wikidata: Q691
 confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate:
-has_id_wikidata: Q691
+expiryDate: ''
 icon: flag-pg
 isDeleted: false
 isReadOnly: false
-keywords:
+keywords: ''
 Languages:
   - en-PG
   - ho
   - meu
   - tpi
-layout:
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 location:
   - -9.5
   - 147.117
 publish: true
-publishDate:
+publishDate: ''
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26993
 tags:

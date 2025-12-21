@@ -1,28 +1,30 @@
 ---
 aliases:
   - Восток
+  - Vostok_1
+  - Vostok 1
 has_id_wikidata: Q182524
 start_point:
-  - "[[_Standards/WikiData/WD~Baikonur_Cosmodrome,177477]]"
+  - '[[_Standards/WikiData/WD~Baikonur_Cosmodrome,177477]]'
   - "[[_Standards/WikiData/WD~Gagarin's_Start,2580456]]"
-followed_by: "[[_Standards/WikiData/WD~Vostok_2,221678]]"
+followed_by: '[[_Standards/WikiData/WD~Vostok_2,221678]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Vostok,624038]]"
-  - "[[_Standards/WikiData/WD~human_spaceflight,752783]]"
-type_of_orbit: "[[_Standards/WikiData/WD~low_Earth_orbit,663611]]"
-manufacturer: "[[_Standards/WikiData/WD~S.P._Korolev_Rocket_and_Space_Corporation_Energia,763402]]"
+  - '[[_Standards/WikiData/WD~Vostok,624038]]'
+  - '[[_Standards/WikiData/WD~human_spaceflight,752783]]'
+type_of_orbit: '[[_Standards/WikiData/WD~low_Earth_orbit,663611]]'
+manufacturer: '[[_Standards/WikiData/WD~S.P._Korolev_Rocket_and_Space_Corporation_Energia,763402]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~rocket_launch,797476]]"
-  - "[[_Standards/WikiData/WD~landing,844947]]"
+  - '[[_Standards/WikiData/WD~rocket_launch,797476]]'
+  - '[[_Standards/WikiData/WD~landing,844947]]'
 space_launch_vehicle:
-  - "[[_Standards/WikiData/WD~Vostok,841262]]"
-  - "[[_Standards/WikiData/WD~Vostok_K,3303767]]"
-operator: "[[_Standards/WikiData/WD~Soviet_space_program,849730]]"
-different_from: "[[_Standards/WikiData/WD~Vostok_1,3015194]]"
-crew_member: "[[_Standards/WikiData/WD~Yuri_Gagarin,7327]]"
-country: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+  - '[[_Standards/WikiData/WD~Vostok,841262]]'
+  - '[[_Standards/WikiData/WD~Vostok_K,3303767]]'
+operator: '[[_Standards/WikiData/WD~Soviet_space_program,849730]]'
+different_from: '[[_Standards/WikiData/WD~Vostok_1,3015194]]'
+crew_member: '[[_Standards/WikiData/WD~Yuri_Gagarin,7327]]'
+country: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
 orbits_completed: 1
-location_of_landing: "[[_Standards/WikiData/WD~Kazakhstan,232]]"
+location_of_landing: '[[_Standards/WikiData/WD~Kazakhstan,232]]'
 diameter: 2.3
 periapsis: 169
 apoapsis: 327
@@ -30,7 +32,7 @@ duration: 6480
 orbital_period: 89.1
 mass: 4725
 orbital_inclination: 64.95
-SCN: "00103"
+SCN: 00103
 UTC_date_of_spacecraft_landing: 1961-04-12T00:00:00Z
 UTC_date_of_spacecraft_launch: 1961-04-12T00:00:00Z
 Commons_category: Vostok 1

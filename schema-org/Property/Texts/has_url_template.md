@@ -4,22 +4,24 @@ aliases:
   - url_template
   - urlTemplate
   - has_text_of_url_template
+  - has_url_template
+  - has url template
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - url
   - template
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_url_template
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

@@ -1,17 +1,19 @@
 ---
 aliases:
   - high jump
+  - High_Jump
+  - High Jump
 has_id_wikidata: Q165704
-instance_of: "[[_Standards/WikiData/WD~sports_discipline,2312410]]"
+instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
 record_or_record_progression:
   - "[[_Standards/WikiData/WD~Men's_high_jump_indoor_world_record_progression,6816145]]"
   - "[[_Standards/WikiData/WD~Women's_high_jump_world_record_progression,59632]]"
-uses: "[[_Standards/WikiData/WD~bar,10654706]]"
-practiced_by: "[[_Standards/WikiData/WD~high_jumper,13382122]]"
-subclass_of: "[[_Standards/WikiData/WD~vertical_jump,14596454]]"
-sport: "[[_Standards/WikiData/WD~athletics,542]]"
-authority: "[[_Standards/WikiData/WD~World_Athletics,1158]]"
-country_of_origin: "[[_Standards/WikiData/WD~Scotland,22]]"
+uses: '[[_Standards/WikiData/WD~bar,10654706]]'
+practiced_by: '[[_Standards/WikiData/WD~high_jumper,13382122]]'
+subclass_of: '[[_Standards/WikiData/WD~vertical_jump,14596454]]'
+sport: '[[_Standards/WikiData/WD~athletics,542]]'
+authority: '[[_Standards/WikiData/WD~World_Athletics,1158]]'
+country_of_origin: '[[_Standards/WikiData/WD~Scotland,22]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Hochsprung.ogg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Athletics%20%28high%20jump%29%20pictogram.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Prix%20Sudamericanos%20Estrella%20Puente%20-%20Darwin%20Pi%C3%B1eyr%C3%BAa%202019%20-%20Salto%20alto%20masculino%20-%2002.webm

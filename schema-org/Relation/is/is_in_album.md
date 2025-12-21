@@ -4,22 +4,23 @@ aliases:
   - in_album
   - inAlbum
   - is_in_album
+  - is in album
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - in
   - album
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_in_album
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Thulium
+has_id_wikidata: Q1853
 atomic_number: 69
 canonical_SMILES: '[Tm]'
 CAS_Registry_Number: 7440-30-4
@@ -6,35 +9,34 @@ chemical_formula: Tm
 Commons_category: Thulium
 Commons_gallery: Thulium
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Per_Teodor_Cleve,377822]]'
 DSSTOX_compound_identifier: DTXCID1047657
 EC_number: 231-140-2
 electronegativity: 1
 element_symbol: Tm
 Gmelin_number: 16307
-has_id_wikidata: Q1853
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Thulium%20sublimed%20dendritic%20and%201cm3%20cube.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Thulium%20sublimed%20dendritic%20and%201cm3%20cube.jpg
 InChI: InChI=1S/Tm
 InChIKey: FRNOGLGSGLTDKL-UHFFFAOYSA-N
 instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-- 0.88
-- 0.99
-- 1.01
-- 1.09
+  - 0.88
+  - 0.99
+  - 1.01
+  - 1.09
 mass: 168.934219
 MeSH_tree_code:
-- D01.268.558.362.984
-- D01.552.550.399.984
+  - D01.268.558.362.984
+  - D01.552.550.399.984
 named_after:
-- '[[_Standards/WikiData/WD~Thule,671008]]'
-- '[[_Standards/WikiData/WD~Scandinavia,21195]]'
+  - '[[_Standards/WikiData/WD~Thule,671008]]'
+  - '[[_Standards/WikiData/WD~Scandinavia,21195]]'
 OmegaWiki_Defined_Meaning: 367509
 part_of:
-- '[[_Standards/WikiData/WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+  - '[[_Standards/WikiData/WD~period_6,239813]]'
+  - '[[_Standards/WikiData/WD~lanthanide,19569]]'
 PubChem_CID: 23961
 SpocWebEntityId: 21965
 time_of_discovery_or_invention: 1879

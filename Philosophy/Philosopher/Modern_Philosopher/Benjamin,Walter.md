@@ -4,84 +4,85 @@ aliases:
   - Walter Bendix Schönflies Benjamin
   - Walter Benjamin
   - Benjamin
+  - Benjamin,Walter
 has_id_wikidata: Q61078
 relative:
-  - "[[_Standards/WikiData/WD~Gertrud_Kolmar,68204]]"
-  - "[[_Standards/WikiData/WD~Leon_Kellner,1507434]]"
-  - "[[_Standards/WikiData/WD~William_Stern,57347]]"
-  - "[[_Standards/WikiData/WD~Hannah_Arendt,60025]]"
-  - "[[_Standards/WikiData/WD~Günther_Anders,60884]]"
+  - '[[_Standards/WikiData/WD~Gertrud_Kolmar,68204]]'
+  - '[[_Standards/WikiData/WD~Leon_Kellner,1507434]]'
+  - '[[_Standards/WikiData/WD~William_Stern,57347]]'
+  - '[[_Standards/WikiData/WD~Hannah_Arendt,60025]]'
+  - '[[_Standards/WikiData/WD~Günther_Anders,60884]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Gershom_Scholem,138850]]"
-  - "[[_Standards/WikiData/WD~Georg_Lukács,151523]]"
-  - "[[_Standards/WikiData/WD~Charles_Baudelaire,501]]"
-  - "[[_Standards/WikiData/WD~Johann_Wolfgang_von_Goethe,5879]]"
-  - "[[_Standards/WikiData/WD~Karl_Marx,9061]]"
-  - "[[_Standards/WikiData/WD~Bertolt_Brecht,38757]]"
-  - "[[_Standards/WikiData/WD~Ernst_Bloch,57240]]"
+  - '[[_Standards/WikiData/WD~Gershom_Scholem,138850]]'
+  - '[[_Standards/WikiData/WD~Georg_Lukács,151523]]'
+  - '[[_Standards/WikiData/WD~Charles_Baudelaire,501]]'
+  - '[[_Standards/WikiData/WD~Johann_Wolfgang_von_Goethe,5879]]'
+  - '[[_Standards/WikiData/WD~Karl_Marx,9061]]'
+  - '[[_Standards/WikiData/WD~Bertolt_Brecht,38757]]'
+  - '[[_Standards/WikiData/WD~Ernst_Bloch,57240]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]"
-  - "[[_Standards/WikiData/WD~University_of_Freiburg,153987]]"
-  - "[[_Standards/WikiData/WD~University_of_Bern,659080]]"
-  - "[[_Standards/WikiData/WD~Ludwig_Maximilians_Universität_München,55044]]"
+  - '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
+  - '[[_Standards/WikiData/WD~University_of_Freiburg,153987]]'
+  - '[[_Standards/WikiData/WD~University_of_Bern,659080]]'
+  - '[[_Standards/WikiData/WD~Ludwig_Maximilians_Universität_München,55044]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
-  - "[[_Standards/WikiData/WD~National_Library_of_Israel,188915]]"
+  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+  - '[[_Standards/WikiData/WD~National_Library_of_Israel,188915]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Theses_on_the_Philosophy_of_History,330979]]"
-  - "[[_Standards/WikiData/WD~The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction,1169425]]"
-  - "[[_Standards/WikiData/WD~The_arcades_project,4785097]]"
-  - "[[_Standards/WikiData/WD~The_Origin_of_German_Tragic_Drama,7755349]]"
-  - "[[_Standards/WikiData/WD~One_Way_Street,112788507]]"
+  - '[[_Standards/WikiData/WD~Theses_on_the_Philosophy_of_History,330979]]'
+  - '[[_Standards/WikiData/WD~The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction,1169425]]'
+  - '[[_Standards/WikiData/WD~The_arcades_project,4785097]]'
+  - '[[_Standards/WikiData/WD~The_Origin_of_German_Tragic_Drama,7755349]]'
+  - '[[_Standards/WikiData/WD~One_Way_Street,112788507]]'
 occupation:
-  - "[[_Standards/WikiData/WD~translator,333634]]"
-  - "[[_Standards/WikiData/WD~sociologist,2306091]]"
-  - "[[_Standards/WikiData/WD~art_critic,4164507]]"
-  - "[[_Standards/WikiData/WD~literary_critic,4263842]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~essayist,11774202]]"
-  - "[[_Standards/WikiData/WD~literary_historian,13570226]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-given_name: "[[_Standards/WikiData/WD~Walter,499249]]"
-family_name: "[[_Standards/WikiData/WD~Benjamin,817365]]"
+  - '[[_Standards/WikiData/WD~translator,333634]]'
+  - '[[_Standards/WikiData/WD~sociologist,2306091]]'
+  - '[[_Standards/WikiData/WD~art_critic,4164507]]'
+  - '[[_Standards/WikiData/WD~literary_critic,4263842]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~essayist,11774202]]'
+  - '[[_Standards/WikiData/WD~literary_historian,13570226]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+given_name: '[[_Standards/WikiData/WD~Walter,499249]]'
+family_name: '[[_Standards/WikiData/WD~Benjamin,817365]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~UbuWeb,1145552]]"
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
-  - "[[_Standards/WikiData/WD~Frankfurter_Personenlexikon,39845173]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
+  - '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+  - '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
+  - '[[_Standards/WikiData/WD~Frankfurter_Personenlexikon,39845173]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~German_Reich,1206012]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]"
+  - '[[_Standards/WikiData/WD~German_Reich,1206012]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Georg_Benjamin,1503672]]"
-  - "[[_Standards/WikiData/WD~Dora_Benjamin,18620538]]"
-doctoral_advisor: "[[_Standards/WikiData/WD~Richard_Herbertz,2149770]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Georg_Benjamin,1503672]]'
+  - '[[_Standards/WikiData/WD~Dora_Benjamin,18620538]]'
+doctoral_advisor: '[[_Standards/WikiData/WD~Richard_Herbertz,2149770]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 owner_of: "[[_Standards/WikiData/WD~Walter_Benjamin's_library,35091786]]"
-place_of_burial: "[[_Standards/WikiData/WD~Cementiri_de_Portbou,47180920]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-child: "[[_Standards/WikiData/WD~Stefan_Benjamin,55681674]]"
-different_from: "[[_Standards/WikiData/WD~Q57495082,57495082]]"
-spouse: "[[_Standards/WikiData/WD~Dora_Sophie_Kellner,87647365]]"
-father: "[[_Standards/WikiData/WD~Emil_Benjamin,94822911]]"
+place_of_burial: '[[_Standards/WikiData/WD~Cementiri_de_Portbou,47180920]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+child: '[[_Standards/WikiData/WD~Stefan_Benjamin,55681674]]'
+different_from: '[[_Standards/WikiData/WD~Q57495082,57495082]]'
+spouse: '[[_Standards/WikiData/WD~Dora_Sophie_Kellner,87647365]]'
+father: '[[_Standards/WikiData/WD~Emil_Benjamin,94822911]]'
 date_of_birth: 1892-07-15T00:00:00Z
 work_location:
-  - "[[_Standards/WikiData/WD~Frankfurt,1794]]"
-  - "[[_Standards/WikiData/WD~Berlin,64]]"
-  - "[[_Standards/WikiData/WD~Bern,70]]"
-  - "[[_Standards/WikiData/WD~Paris,90]]"
-field_of_work: "[[_Standards/WikiData/WD~philosophy,5891]]"
-place_of_death: "[[_Standards/WikiData/WD~Portbou,7165]]"
-movement: "[[_Standards/WikiData/WD~Marxism,7264]]"
-manner_of_death: "[[_Standards/WikiData/WD~suicide,10737]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_birth: "[[_Standards/WikiData/WD~Berlin,64]]"
-writing_language: "[[_Standards/WikiData/WD~German,188]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~German,188]]"
-native_language: "[[_Standards/WikiData/WD~German,188]]"
+  - '[[_Standards/WikiData/WD~Frankfurt,1794]]'
+  - '[[_Standards/WikiData/WD~Berlin,64]]'
+  - '[[_Standards/WikiData/WD~Bern,70]]'
+  - '[[_Standards/WikiData/WD~Paris,90]]'
+field_of_work: '[[_Standards/WikiData/WD~philosophy,5891]]'
+place_of_death: '[[_Standards/WikiData/WD~Portbou,7165]]'
+movement: '[[_Standards/WikiData/WD~Marxism,7264]]'
+manner_of_death: '[[_Standards/WikiData/WD~suicide,10737]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_birth: '[[_Standards/WikiData/WD~Berlin,64]]'
+writing_language: '[[_Standards/WikiData/WD~German,188]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
+native_language: '[[_Standards/WikiData/WD~German,188]]'
 Commons_category: Walter Benjamin
-P1015: "90064623"
+P1015: 90064623
 Europeana_entity: agent/base/145510
 pseudonym:
   - Benedix Schönflies
@@ -101,9 +102,9 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20Walter
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Benjamin%20vers%201928.jpg
 IPA_transcription: ˌvaltɐ ˈbɛnjamiːn
 ISNI:
-  - "0000000121010732"
-  - "0000000368635320"
-NLC_authorities: "038174713"
+  - 0000000121010732
+  - 0000000368635320
+NLC_authorities: 038174713
 ---
 
 # [[Benjamin,Walter]] 

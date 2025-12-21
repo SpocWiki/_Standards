@@ -4,22 +4,24 @@ aliases:
   - honorific_prefix
   - honorificPrefix
   - has_text_of_honorific_prefix
+  - has_honorific_prefix
+  - has honorific prefix
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - honorific
   - prefix
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_honorific_prefix
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

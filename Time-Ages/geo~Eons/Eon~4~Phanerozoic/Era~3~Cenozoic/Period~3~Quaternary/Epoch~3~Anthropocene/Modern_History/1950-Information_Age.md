@@ -1,8 +1,10 @@
 ---
 aliases:
   - Information Age
+  - 1950-Information_Age
+  - 1950-Information Age
 has_id_wikidata: Q956129
-instance_of: "[[_Standards/WikiData/WD~historical_period,11514315]]"
+instance_of: '[[_Standards/WikiData/WD~historical_period,11514315]]'
 Commons_category: Information Age
 ---
 

@@ -4,20 +4,22 @@ aliases:
   - critic_review
   - CriticReview
   - is_a_critic_review
+  - Critic_Review
+  - Critic Review
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - critic_review
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_critic_review Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

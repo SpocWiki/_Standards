@@ -1,29 +1,30 @@
 ---
 aliases:
-- has_affiliation_with
-- is_affiliated_with
-- "schema:affiliation"
-- "dbo:affiliation"
-- "wdt:P1416"
+  - has_affiliation_with
+  - is_affiliated_with
+  - schema:affiliation
+  - dbo:affiliation
+  - wdt:P1416
+  - has affiliation with
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- affiliation
-- affiliationWith
-layout: 
-license: "CC BY-SA 4.0"
+  - affiliation
+  - affiliationWith
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_affiliation_with
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_affiliation_with
 type: Predi_Relation
 ---

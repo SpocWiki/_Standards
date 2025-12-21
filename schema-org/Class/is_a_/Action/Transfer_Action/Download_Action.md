@@ -4,20 +4,22 @@ aliases:
   - download_action
   - DownloadAction
   - is_a_download_action
+  - Download_Action
+  - Download Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - download_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_download_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

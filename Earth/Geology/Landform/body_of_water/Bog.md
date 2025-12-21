@@ -1,30 +1,31 @@
 ---
 aliases:
   - bogland
+  - Bog
 has_id_wikidata: Q1681353
 different_from:
-  - "[[_Standards/WikiData/WD~swamp,166735]]"
-  - "[[_Standards/WikiData/WD~fen,514050]]"
-  - "[[_Standards/WikiData/WD~raised_bog,3240227]]"
-  - "[[_Standards/WikiData/WD~peatland,36449705]]"
-  - "[[_Standards/WikiData/WD~marsh,30198]]"
+  - '[[_Standards/WikiData/WD~swamp,166735]]'
+  - '[[_Standards/WikiData/WD~fen,514050]]'
+  - '[[_Standards/WikiData/WD~raised_bog,3240227]]'
+  - '[[_Standards/WikiData/WD~peatland,36449705]]'
+  - '[[_Standards/WikiData/WD~marsh,30198]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~wetland,170321]]"
-  - "[[_Standards/WikiData/WD~syntaxon,2471463]]"
+  - '[[_Standards/WikiData/WD~wetland,170321]]'
+  - '[[_Standards/WikiData/WD~syntaxon,2471463]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Q26097353,26097353]]"
-studied_by: "[[_Standards/WikiData/WD~bog_ecology,104373905]]"
-OmegaWiki_Defined_Meaning: "2409"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q26097353,26097353]]'
+studied_by: '[[_Standards/WikiData/WD~bog_ecology,104373905]]'
+OmegaWiki_Defined_Meaning: 2409
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Swimmers%20in%20Ohepalu%20bog%20pool%2C%20July%202021.webm
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ujujad%20Ohepalu%20j%C3%A4rve%20k%C3%B5rval%20asuvas%20laukas%202021.%20aasta%20juulis.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Eestis%20on%20soode%20s%C3%A4%C3%A4stmiseks%20sageli%20ehitatud%20laudteed.%202016.%20aastal%20Endla%20soos..jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Nordland-bog-cloudberries.jpg
-P8189: "987007282539605171"
+P8189: 987007282539605171
 Commons_gallery: Bog
 Commons_category: Bogs
 GeoNames_feature_code: H.BOG

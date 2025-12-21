@@ -3,6 +3,7 @@ aliases:
   - 獼猴桃
   - 猕猴桃
   - Chinese gooseberry
+  - Kiwifruit
 has_id_wikidata: Q13194
 subclass_of:
   - "[[_Standards/WikiData/WD~fruit,3314483]]"
@@ -14,27 +15,27 @@ color:
 food_energy: 61
 water_footprint: 514
 PLU_code:
-  - "3280"
-  - "4030"
-  - "4301"
-CosIng_number: "54402"
+  - 3280
+  - 4030
+  - 4301
+CosIng_number: 54402
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Kiwi%20%28Actinidia%20chinensis%29%201%20Luc%20Viatour.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/%28kiwifruit%20or%20Chinese%20gooseberry%29%20is%20the%20edible%20berry%20of%20a%20woody%20vine%20in%20the%20genus%20Actinidia.JPG
 USDA_NDB_number:
-  - "09148"
-  - "09445"
+  - 9148
+  - 9445
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/3DKiwi001%20HQ-4K-PNG.stl
 sectional_view: http://commons.wikimedia.org/wiki/Special:FilePath/Kiwi%20fruit%20cutopen.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q652%20%28ita%29-Yiyi-kiwi.wav
-GS1_GPC_code: "10005937"
+GS1_GPC_code: 10005937
 UNII: 71ES77LGJC
 Commons_gallery: Kiwifruit
 Commons_category: Kiwifruits
 Unicode_character: 🥝
 ---
 
-# [[Kiwifruit]] 
+# [[Kiwifruit]] 🥝 
 
 #is_/same_as :: [[WD~Kiwifruit,13194]] 
 

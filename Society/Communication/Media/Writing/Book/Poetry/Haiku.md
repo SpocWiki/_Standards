@@ -1,24 +1,25 @@
 ---
 aliases:
   - 俳句
+  - Haiku
 has_id_wikidata: Q37707
 different_from:
-  - "[[_Standards/WikiData/WD~Haiku,215448]]"
-  - "[[_Standards/WikiData/WD~Hayko,460071]]"
-  - "[[_Standards/WikiData/WD~hokku,3888790]]"
-  - "[[_Standards/WikiData/WD~poem,5185279]]"
-significant_person: "[[_Standards/WikiData/WD~Masaoka_Shiki,315152]]"
+  - '[[_Standards/WikiData/WD~Haiku,215448]]'
+  - '[[_Standards/WikiData/WD~Hayko,460071]]'
+  - '[[_Standards/WikiData/WD~hokku,3888790]]'
+  - '[[_Standards/WikiData/WD~poem,5185279]]'
+significant_person: '[[_Standards/WikiData/WD~Masaoka_Shiki,315152]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Japanese_poetry,1683305]]"
-  - "[[_Standards/WikiData/WD~poem,5185279]]"
-  - "[[_Standards/WikiData/WD~modern_and_contemporary_Japanese_literature,11267745]]"
-practiced_by: "[[_Standards/WikiData/WD~haiku_poet,11386386]]"
-follows: "[[_Standards/WikiData/WD~haikai,17049321]]"
+  - '[[_Standards/WikiData/WD~Japanese_poetry,1683305]]'
+  - '[[_Standards/WikiData/WD~poem,5185279]]'
+  - '[[_Standards/WikiData/WD~modern_and_contemporary_Japanese_literature,11267745]]'
+practiced_by: '[[_Standards/WikiData/WD~haiku_poet,11386386]]'
+follows: '[[_Standards/WikiData/WD~haikai,17049321]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~poetic_form,89522629]]"
-  - "[[_Standards/WikiData/WD~poetry_genre,110220157]]"
-country_of_origin: "[[_Standards/WikiData/WD~Japan,17]]"
-OmegaWiki_Defined_Meaning: "447236"
+  - '[[_Standards/WikiData/WD~poetic_form,89522629]]'
+  - '[[_Standards/WikiData/WD~poetry_genre,110220157]]'
+country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
+OmegaWiki_Defined_Meaning: 447236
 native_label: 俳句
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Haiku%20path.jpg

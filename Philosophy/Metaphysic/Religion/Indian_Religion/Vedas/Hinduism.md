@@ -3,6 +3,7 @@ aliases:
   - Hindu
   - Hinduistic
   - Hinduistisch
+  - Hinduism
 has_id_wikidata: Q9089
 icon:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Aum%20Om%20black.svg
@@ -11,7 +12,7 @@ inception: http://www.wikidata.org/.well-known/genid/57d65a707a6c99c8c813316a84e
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20Hindu%20wedding%20ritual%20in%20progress%20b.jpg
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Hinduism%20percent%20population%20in%20each%20nation%20World%20Map%20Hindu%20data%20by%20Pew%20Research-sr.svg
 Stack_Exchange_site_URL: https://hinduism.stackexchange.com
-P8189: "987007560560205171"
+P8189: 987007560560205200
 hashtag: hinduism
 GitHub_topic: hinduism
 subreddit: hinduism
@@ -72,10 +73,10 @@ member_count:
   - 1350000000
 location_of_formation: "[[_Standards/WikiData/WD~Sindh,37211]]"
 foundational_text: "[[_Standards/WikiData/WD~Vedas,39950]]"
-Universal_Decimal_Classification: "233"
-IAB_code: "460"
-U_S_National_Archives_Identifier: "10637286"
-OmegaWiki_Defined_Meaning: "1316814"
+Universal_Decimal_Classification: 233
+IAB_code: 460
+U_S_National_Archives_Identifier: 10637286
+OmegaWiki_Defined_Meaning: 1316814
 Colon_Classification: Q1
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Hinduism.jpg
 Unicode_character: 🕉

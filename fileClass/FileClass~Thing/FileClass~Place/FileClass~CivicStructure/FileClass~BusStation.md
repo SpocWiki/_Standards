@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~BusStation
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 fields: []
 icon: bus
 limit: 9
 mapWithTag: false
 tagNames:
-- class/BusStation
-- class/Thing/Place/CivicStructure/BusStation
-- is_a_/BusStation
-- schema-org/BusStation
+  - class/BusStation
+  - class/Thing/Place/CivicStructure/BusStation
+  - is_a_/BusStation
+  - schema-org/BusStation
 tags:
-- class/FileClass
-- class/BusStation
-- is_a_/BusStation
-- class/Thing/Place/CivicStructure/BusStation
+  - class/FileClass
+  - class/BusStation
+  - is_a_/BusStation
+  - class/Thing/Place/CivicStructure/BusStation
 version: 2.0
 ---
 

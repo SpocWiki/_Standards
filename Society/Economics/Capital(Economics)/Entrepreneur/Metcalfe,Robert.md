@@ -5,65 +5,66 @@ aliases:
   - Robert Metcalfe
   - Bob Metcalfe
   - Metcalfe
+  - Metcalfe,Robert
 has_id_wikidata: Q92766
 notable_work:
-  - "[[_Standards/WikiData/WD~Ethernet,79984]]"
+  - '[[_Standards/WikiData/WD~Ethernet,79984]]'
   - "[[_Standards/WikiData/WD~Metcalfe's_law,151103]]"
 occupation:
-  - "[[_Standards/WikiData/WD~engineer,81096]]"
-  - "[[_Standards/WikiData/WD~computer_scientist,82594]]"
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~inventor,205375]]"
-  - "[[_Standards/WikiData/WD~electrical_engineer,1326886]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~businessperson,43845]]"
+  - '[[_Standards/WikiData/WD~engineer,81096]]'
+  - '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+  - '[[_Standards/WikiData/WD~mathematician,170790]]'
+  - '[[_Standards/WikiData/WD~inventor,205375]]'
+  - '[[_Standards/WikiData/WD~electrical_engineer,1326886]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~businessperson,43845]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~MIT_Sloan_School_of_Management,142740]]"
-  - "[[_Standards/WikiData/WD~Bay_Shore_High_School,4874095]]"
-  - "[[_Standards/WikiData/WD~Harvard_University,13371]]"
-  - "[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]"
+  - '[[_Standards/WikiData/WD~MIT_Sloan_School_of_Management,142740]]'
+  - '[[_Standards/WikiData/WD~Bay_Shore_High_School,4874095]]'
+  - '[[_Standards/WikiData/WD~Harvard_University,13371]]'
+  - '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Turing_Award,185667]]"
-  - "[[_Standards/WikiData/WD~Marconi_Prize,473292]]"
-  - "[[_Standards/WikiData/WD~National_Medal_of_Technology_and_Innovation,937629]]"
-  - "[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]"
-  - "[[_Standards/WikiData/WD~IEEE_Alexander_Graham_Bell_Medal,2086833]]"
-  - "[[_Standards/WikiData/WD~Computer_History_Museum_fellow,29545180]]"
-  - "[[_Standards/WikiData/WD~EFF_Award,31323]]"
+  - '[[_Standards/WikiData/WD~Turing_Award,185667]]'
+  - '[[_Standards/WikiData/WD~Marconi_Prize,473292]]'
+  - '[[_Standards/WikiData/WD~National_Medal_of_Technology_and_Innovation,937629]]'
+  - '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
+  - '[[_Standards/WikiData/WD~IEEE_Alexander_Graham_Bell_Medal,2086833]]'
+  - '[[_Standards/WikiData/WD~Computer_History_Museum_fellow,29545180]]'
+  - '[[_Standards/WikiData/WD~EFF_Award,31323]]'
 employer:
-  - "[[_Standards/WikiData/WD~3Com,229329]]"
-  - "[[_Standards/WikiData/WD~PARC,750428]]"
-  - "[[_Standards/WikiData/WD~University_of_Texas_at_Austin,49213]]"
+  - '[[_Standards/WikiData/WD~3Com,229329]]'
+  - '[[_Standards/WikiData/WD~PARC,750428]]'
+  - '[[_Standards/WikiData/WD~University_of_Texas_at_Austin,49213]]'
 member_of:
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~National_Academy_of_Engineering,1493021]]"
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+  - '[[_Standards/WikiData/WD~National_Academy_of_Engineering,1493021]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~informatics,4027615]]"
-  - "[[_Standards/WikiData/WD~information_technology,11661]]"
-  - "[[_Standards/WikiData/WD~computer_science,21198]]"
-  - "[[_Standards/WikiData/WD~applied_mathematics,33521]]"
-  - "[[_Standards/WikiData/WD~electrical_engineering,43035]]"
+  - '[[_Standards/WikiData/WD~informatics,4027615]]'
+  - '[[_Standards/WikiData/WD~information_technology,11661]]'
+  - '[[_Standards/WikiData/WD~computer_science,21198]]'
+  - '[[_Standards/WikiData/WD~applied_mathematics,33521]]'
+  - '[[_Standards/WikiData/WD~electrical_engineering,43035]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Robert,4927937]]"
-  - "[[_Standards/WikiData/WD~Melancton,116027143]]"
+  - '[[_Standards/WikiData/WD~Robert,4927937]]'
+  - '[[_Standards/WikiData/WD~Melancton,116027143]]'
 doctoral_advisor:
-  - "[[_Standards/WikiData/WD~Jeffrey_P._Buzen,6176201]]"
-  - "[[_Standards/WikiData/WD~Thomas_A._Standish,102078170]]"
-doctoral_student: "[[_Standards/WikiData/WD~John_Shoch,6257728]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-family_name: "[[_Standards/WikiData/WD~Metcalfe,16876875]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_birth: "[[_Standards/WikiData/WD~Brooklyn,18419]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Jeffrey_P._Buzen,6176201]]'
+  - '[[_Standards/WikiData/WD~Thomas_A._Standish,102078170]]'
+doctoral_student: '[[_Standards/WikiData/WD~John_Shoch,6257728]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+family_name: '[[_Standards/WikiData/WD~Metcalfe,16876875]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+place_of_birth: '[[_Standards/WikiData/WD~Brooklyn,18419]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 social_media_followers: 23618
 Commons_Creator_page: Robert Metcalfe
 Commons_gallery: Robert Metcalfe
 Commons_category: Robert Metcalfe
 date_of_birth: 1946-04-07T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/With%20Bob%20Metcalfe%20%28cropped%29.jpg
-ISNI: "0000000110509052"
+ISNI: 0000000110509052
 ORCID_iD: 0009-0007-8785-9625
 X_Twitter_username:
   - BobMetcalfe

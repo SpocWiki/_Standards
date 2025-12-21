@@ -4,23 +4,25 @@ aliases:
   - transit_time_label
   - transitTimeLabel
   - has_text_of_transit_time_label
+  - has_transit_time_label
+  - has transit time label
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - transit
   - time
   - label
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_transit_time_label
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

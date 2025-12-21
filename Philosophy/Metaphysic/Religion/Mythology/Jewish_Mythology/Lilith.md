@@ -5,30 +5,31 @@ aliases:
   - Lilit
   - Lilitu
   - Lilis
+  - Lilith
 has_id_wikidata: Q180627
 spouse:
-  - "[[_Standards/WikiData/WD~Adam,70899]]"
-  - "[[_Standards/WikiData/WD~Cain,205365]]"
-  - "[[_Standards/WikiData/WD~Samael,779725]]"
+  - '[[_Standards/WikiData/WD~Adam,70899]]'
+  - '[[_Standards/WikiData/WD~Cain,205365]]'
+  - '[[_Standards/WikiData/WD~Samael,779725]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~demon,177413]]"
-  - "[[_Standards/WikiData/WD~mythical_character,4271324]]"
+  - '[[_Standards/WikiData/WD~demon,177413]]'
+  - '[[_Standards/WikiData/WD~mythical_character,4271324]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Lilith,297276]]"
-  - "[[_Standards/WikiData/WD~Lilith,3832392]]"
-  - "[[_Standards/WikiData/WD~Lilith,5984834]]"
-  - "[[_Standards/WikiData/WD~Q13762328,13762328]]"
-  - "[[_Standards/WikiData/WD~Lilith,114673654]]"
+  - '[[_Standards/WikiData/WD~Lilith,297276]]'
+  - '[[_Standards/WikiData/WD~Lilith,3832392]]'
+  - '[[_Standards/WikiData/WD~Lilith,5984834]]'
+  - '[[_Standards/WikiData/WD~Q13762328,13762328]]'
+  - '[[_Standards/WikiData/WD~Lilith,114673654]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-given_name: "[[_Standards/WikiData/WD~Lilith,2756762]]"
-derivative_work: "[[_Standards/WikiData/WD~Lilith,3240861]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-place_of_birth: "[[_Standards/WikiData/WD~Garden_of_Eden,19014]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+given_name: '[[_Standards/WikiData/WD~Lilith,2756762]]'
+derivative_work: '[[_Standards/WikiData/WD~Lilith,3240861]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+place_of_birth: '[[_Standards/WikiData/WD~Garden_of_Eden,19014]]'
 Archive_of_Our_Own_tag: Lilith
 Commons_gallery: Lilith
 Commons_category: Lilith

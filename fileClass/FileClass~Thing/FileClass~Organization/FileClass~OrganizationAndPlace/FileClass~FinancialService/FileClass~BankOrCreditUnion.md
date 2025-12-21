@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~BankOrCreditUnion
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/BankOrCreditUnion
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/BankOrCreditUnion
-- is_a_/BankOrCreditUnion
-- schema-org/BankOrCreditUnion
+  - class/BankOrCreditUnion
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/BankOrCreditUnion
+  - is_a_/BankOrCreditUnion
+  - schema-org/BankOrCreditUnion
 tags:
-- class/FileClass
-- class/BankOrCreditUnion
-- is_a_/BankOrCreditUnion
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/BankOrCreditUnion
+  - class/FileClass
+  - class/BankOrCreditUnion
+  - is_a_/BankOrCreditUnion
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/BankOrCreditUnion
 version: 2.0
 ---
 

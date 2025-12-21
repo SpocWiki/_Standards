@@ -4,6 +4,7 @@ aliases:
   - Boris Yeltsin
   - Boris_Yeltsin
   - Yeltsin
+  - Yeltsin,Boris
 has_id_wikidata: Q34453
 ---
 # [[Yeltsin,Boris]] 

@@ -3,6 +3,7 @@ aliases:
   - Jürgen Klopp
   - Jürgen Norbert Klopp
   - Klopp
+  - Klopp,Jürgen
 ---
 
 # [[Klopp,Jürgen]] 

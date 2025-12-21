@@ -8,29 +8,30 @@ aliases:
   - سميراميس
   - Samīrāmīs
   - Shammuramat
+  - Semiramis
 has_id_wikidata: Q103960
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Shammuramat,234177]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Shammuramat,234177]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gesta_Treverorum,877738]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~A_Biographical_Dictionary_of_the_Celebrated_Women_of_Every_Age_and_Country,103843006]]"
-place_of_birth: "[[_Standards/WikiData/WD~Lydia,620765]]"
-noble_title: "[[_Standards/WikiData/WD~queen_consort,719039]]"
-spouse: "[[_Standards/WikiData/WD~Ninus,1152356]]"
-child: "[[_Standards/WikiData/WD~Ninyas,3342062]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gesta_Treverorum,877738]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~A_Biographical_Dictionary_of_the_Celebrated_Women_of_Every_Age_and_Country,103843006]]'
+place_of_birth: '[[_Standards/WikiData/WD~Lydia,620765]]'
+noble_title: '[[_Standards/WikiData/WD~queen_consort,719039]]'
+spouse: '[[_Standards/WikiData/WD~Ninus,1152356]]'
+child: '[[_Standards/WikiData/WD~Ninyas,3342062]]'
 present_in_work:
-  - "[[_Standards/WikiData/WD~Ninus_Romance,3940772]]"
-  - "[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-mother: "[[_Standards/WikiData/WD~Derceto,18604149]]"
-instance_of: "[[_Standards/WikiData/WD~human_whose_existence_is_disputed,21070568]]"
-position_held: "[[_Standards/WikiData/WD~King_of_Assyria,28124026]]"
-depicted_by: "[[_Standards/WikiData/WD~Semiramis,133281091]]"
-occupation: "[[_Standards/WikiData/WD~monarch,116]]"
+  - '[[_Standards/WikiData/WD~Ninus_Romance,3940772]]'
+  - '[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+mother: '[[_Standards/WikiData/WD~Derceto,18604149]]'
+instance_of: '[[_Standards/WikiData/WD~human_whose_existence_is_disputed,21070568]]'
+position_held: '[[_Standards/WikiData/WD~King_of_Assyria,28124026]]'
+depicted_by: '[[_Standards/WikiData/WD~Semiramis,133281091]]'
+occupation: '[[_Standards/WikiData/WD~monarch,116]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Guercino%20Semiramide%20Babilonia.jpg
 Commons_category: Semiramis
 name_in_native_language:

@@ -1,18 +1,19 @@
 ---
 aliases:
   - Transhumanismus
+  - Transhumanism
 has_id_wikidata: Q194100
 subclass_of:
-  - "[[_Standards/WikiData/WD~futures_studies,188867]]"
-  - "[[_Standards/WikiData/WD~secular_humanism,312226]]"
+  - '[[_Standards/WikiData/WD~futures_studies,188867]]'
+  - '[[_Standards/WikiData/WD~secular_humanism,312226]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~cultural_movement,2198855]]"
-  - "[[_Standards/WikiData/WD~world_view,49447]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~human_enhancement,2495354]]"
-main_subject: "[[_Standards/WikiData/WD~transhuman,3849662]]"
-different_from: "[[_Standards/WikiData/WD~transhumance,4657754]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Transhumanism,8771747]]"
-Dewey_Decimal_Classification: "144"
+  - '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
+  - '[[_Standards/WikiData/WD~world_view,49447]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~human_enhancement,2495354]]'
+main_subject: '[[_Standards/WikiData/WD~transhuman,3849662]]'
+different_from: '[[_Standards/WikiData/WD~transhumance,4657754]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Transhumanism,8771747]]'
+Dewey_Decimal_Classification: 144
 inception: 1980-01-01T00:00:00Z
 subreddit: transhumanism
 PhilPapers_topic: transhumanism

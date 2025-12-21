@@ -2,15 +2,16 @@
 aliases:
   - Black Tortoise
   - Xuanwu
+  - Black_Tortoise
 has_id_wikidata: Q125696
-followed_by: "[[_Standards/WikiData/WD~Azure_Dragon,515882]]"
-follows: "[[_Standards/WikiData/WD~White_Tiger,1072455]]"
-part_of: "[[_Standards/WikiData/WD~Four_Symbols,1073260]]"
+followed_by: '[[_Standards/WikiData/WD~Azure_Dragon,515882]]'
+follows: '[[_Standards/WikiData/WD~White_Tiger,1072455]]'
+part_of: '[[_Standards/WikiData/WD~Four_Symbols,1073260]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Chinese_constellation,1074076]]"
-  - "[[_Standards/WikiData/WD~mythical_animal,24334299]]"
-fictional_or_mythical_analog_of: "[[_Standards/WikiData/WD~turtle,32945370]]"
-color: "[[_Standards/WikiData/WD~black,23445]]"
+  - '[[_Standards/WikiData/WD~Chinese_constellation,1074076]]'
+  - '[[_Standards/WikiData/WD~mythical_animal,24334299]]'
+fictional_or_mythical_analog_of: '[[_Standards/WikiData/WD~turtle,32945370]]'
+color: '[[_Standards/WikiData/WD~black,23445]]'
 native_label:
   - 玄武
   - 현무

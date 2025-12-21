@@ -3,12 +3,14 @@ aliases:
   - Logical positivism
   - logical empiricism
   - neo-positivism
+  - Logical_Positivism
+  - Logical Positivism
 has_id_wikidata: Q193627
 instance_of:
-  - "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
-  - "[[_Standards/WikiData/WD~philosophical_movement,2915955]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
-subclass_of: "[[_Standards/WikiData/WD~philosophy_of_science,59115]]"
+  - '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
+  - '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophy_of_science,59115]]'
 BHCL_UUID: 195931a1-b8a0-4755-a874-c56db89abf94
 Commons_category: Logical positivism
 ---

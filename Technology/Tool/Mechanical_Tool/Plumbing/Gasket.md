@@ -1,17 +1,18 @@
 ---
 aliases:
   - Dichtung
+  - Gasket
 has_id_wikidata: Q1132541
-described_by_source: "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-different_from: "[[_Standards/WikiData/WD~Q9367487,9367487]]"
+described_by_source: '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+different_from: '[[_Standards/WikiData/WD~Q9367487,9367487]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~seal,17004810]]"
-  - "[[_Standards/WikiData/WD~plumbing_fittings_&_support,116970842]]"
-made_from_material: "[[_Standards/WikiData/WD~rubber,18113858]]"
+  - '[[_Standards/WikiData/WD~seal,17004810]]'
+  - '[[_Standards/WikiData/WD~plumbing_fittings_&_support,116970842]]'
+made_from_material: '[[_Standards/WikiData/WD~rubber,18113858]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~type_of_machine_element,44409287]]"
-  - "[[_Standards/WikiData/WD~product_category,63981612]]"
-Nomenclature_for_Museum_Cataloging: "6586"
+  - '[[_Standards/WikiData/WD~type_of_machine_element,44409287]]'
+  - '[[_Standards/WikiData/WD~product_category,63981612]]'
+Nomenclature_for_Museum_Cataloging: 6586
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gaskets.jpg
 Commons_category: Gaskets
 ---

@@ -3,6 +3,7 @@ aliases:
   - Schraubzwinge
   - Clamp
   - cramp
+  - Clamp(tool)
 has_id_wikidata: Q846600
 ---
 

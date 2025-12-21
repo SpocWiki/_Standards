@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Banana
 has_id_wikidata: Q503
 GEMS_Code: FI0327
 Wikidata_usage_instructions:
@@ -41,11 +43,11 @@ IMDb_keyword: banana
 subreddit: banana
 hashtag: banana
 USDA_NDB_number:
-  - "09041"
-  - "09040"
-  - "09446"
-  - "09447"
-OmegaWiki_Defined_Meaning: "369665"
+  - 9041
+  - 9040
+  - 9446
+  - 9447
+OmegaWiki_Defined_Meaning: 369665
 Commons_category: Bananas
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Bananas%20on%20black%20background%2002.jpg
@@ -60,15 +62,15 @@ Unicode_character: 🍌
 OKPD2_product_code:
   - 01.22.12
   - 01.22.12.000
-Common_Procurement_Vocabulary_code: "03222111"
+Common_Procurement_Vocabulary_code: 3222111
 UNII: 4AJZ4765R9
 Amazon_com_browse_node:
-  - "6464950011"
-  - "6507135011"
+  - 6464950011
+  - 6507135011
 hashtag_: banana
 ---
 
-# [[Banana]] 
+# [[Banana]] 🍌 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Banana,503|WD~Banana,503]] 
 

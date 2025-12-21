@@ -4,20 +4,22 @@ aliases:
   - order_item
   - OrderItem
   - is_an_order_item
+  - Order_Item
+  - Order Item
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - order_item
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_order_item Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,6 +1,7 @@
 ---
 aliases:
-- "prov:agent"
+  - prov:agent
+  - Agent
 ---
 
 # [[Agent]] 

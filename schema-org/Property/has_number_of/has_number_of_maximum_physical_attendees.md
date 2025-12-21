@@ -4,21 +4,22 @@ aliases:
   - maximum_physical_attendee_capacity
   - maximumPhysicalAttendeeCapacity
   - has_number_of_maximum_physical_attendees
+  - has number of maximum physical attendees
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - maximum_physical_attendee_capacity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_maximum_physical_attendee_capacity
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

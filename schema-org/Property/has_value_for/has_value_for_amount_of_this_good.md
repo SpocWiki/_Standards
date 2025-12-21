@@ -4,21 +4,22 @@ aliases:
   - amount-of-this-good
   - amountOfThisGood
   - has_value_for_amount_of_this_good
+  - has value for amount of this good
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - amount-of-this-good
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_amount-of-this-good
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

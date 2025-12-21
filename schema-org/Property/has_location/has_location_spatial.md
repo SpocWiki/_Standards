@@ -4,21 +4,22 @@ aliases:
   - spatial
   - spatial
   - has_location_spatial
+  - has location spatial
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - spatial
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_spatial
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

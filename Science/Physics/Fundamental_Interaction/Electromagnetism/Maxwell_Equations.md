@@ -3,6 +3,8 @@ aliases:
   - Maxwell's equations
   - Maxwell–Heaviside equations
   - Maxwell equations
+  - Maxwell_Equations
+  - Maxwell Equations
 has_id_wikidata: Q51501
 has_part_s_:
   - "[[_Standards/WikiData/WD~Gauss's_law,173356]]"

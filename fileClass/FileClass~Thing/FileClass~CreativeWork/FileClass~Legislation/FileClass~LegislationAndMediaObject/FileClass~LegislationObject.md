@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~LegislationObject
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~LegislationAndMediaObject
 fields: []
 icon: scale
 limit: 9
 mapWithTag: true
 tagNames:
-- class/LegislationObject
-- class/Thing/CreativeWork/Legislation/LegislationAndMediaObject/LegislationObject
-- is_a_/LegislationObject
-- schema-org/LegislationObject
+  - class/LegislationObject
+  - class/Thing/CreativeWork/Legislation/LegislationAndMediaObject/LegislationObject
+  - is_a_/LegislationObject
+  - schema-org/LegislationObject
 tags:
-- class/FileClass
-- class/LegislationObject
-- is_a_/LegislationObject
-- class/Thing/CreativeWork/Legislation/LegislationAndMediaObject/LegislationObject
+  - class/FileClass
+  - class/LegislationObject
+  - is_a_/LegislationObject
+  - class/Thing/CreativeWork/Legislation/LegislationAndMediaObject/LegislationObject
 version: 2.0
 ---
 

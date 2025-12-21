@@ -1,12 +1,15 @@
 ---
+aliases:
+  - Hong_Kong,_China
+  - Hong Kong, China
 confidential: public
 isDeleted: false
 location:
-- 22.2783
-- 114.159
+  - 22.2783
+  - 114.159
 SpocWebEntityId: 26916
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

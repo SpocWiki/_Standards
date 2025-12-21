@@ -4,10 +4,12 @@ aliases:
   - ion drive
   - ion engine
   - Ionenantrieb
+  - Ion_Thruster
+  - Ion Thruster
 has_id_wikidata: Q205702
 subclass_of:
-  - "[[_Standards/WikiData/WD~electrically_powered_spacecraft_propulsion,648588]]"
-  - "[[_Standards/WikiData/WD~thruster,28454968]]"
+  - '[[_Standards/WikiData/WD~electrically_powered_spacecraft_propulsion,648588]]'
+  - '[[_Standards/WikiData/WD~thruster,28454968]]'
 Commons_category: Ion propulsion
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ion%20Engine%20Test%20Firing%20-%20GPN-2000-000482.jpg
 ---

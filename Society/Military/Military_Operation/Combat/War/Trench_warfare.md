@@ -1,10 +1,12 @@
 ---
 aliases:
   - Grabenkrieg
+  - Trench_warfare
+  - Trench warfare
 has_id_wikidata: Q241059
-instance_of: "[[_Standards/WikiData/WD~military_tactics,207645]]"
-uses: "[[_Standards/WikiData/WD~trench,1852785]]"
-subclass_of: "[[_Standards/WikiData/WD~static_battle,7604156]]"
+instance_of: '[[_Standards/WikiData/WD~military_tactics,207645]]'
+uses: '[[_Standards/WikiData/WD~trench,1852785]]'
+subclass_of: '[[_Standards/WikiData/WD~static_battle,7604156]]'
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20Photography%20on%20the%20Western%20Front%2C%201916.%20HU100394.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20136-B0560%2C%20Frankreich%2C%20Kavalleristen%20im%20Sch%C3%BCtzengraben.jpg
 video:

@@ -1,16 +1,17 @@
 ---
 aliases:
   - Heat Engine
+  - Heat_Engine
 has_id_wikidata: Q178185
-product_or_material_produced: "[[_Standards/WikiData/WD~mechanical_energy,184550]]"
-made_from_material: "[[_Standards/WikiData/WD~thermal_energy,209233]]"
+product_or_material_produced: '[[_Standards/WikiData/WD~mechanical_energy,184550]]'
+made_from_material: '[[_Standards/WikiData/WD~thermal_energy,209233]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~thermodynamic_system,503327]]"
-  - "[[_Standards/WikiData/WD~power_engine,18762500]]"
-  - "[[_Standards/WikiData/WD~engine,44167]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Heat_engines,8084301]]"
-has_goal: "[[_Standards/WikiData/WD~energy_transformation,11271324]]"
-studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
+  - '[[_Standards/WikiData/WD~thermodynamic_system,503327]]'
+  - '[[_Standards/WikiData/WD~power_engine,18762500]]'
+  - '[[_Standards/WikiData/WD~engine,44167]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Heat_engines,8084301]]'
+has_goal: '[[_Standards/WikiData/WD~energy_transformation,11271324]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Energiebilanz%20Motor.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Heat%20engine.png

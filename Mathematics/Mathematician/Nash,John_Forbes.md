@@ -4,76 +4,78 @@ aliases:
   - John Forbes Nash Jr
   - John Nash
   - Nash
+  - Nash,John_Forbes
+  - Nash,John Forbes
 has_id_wikidata: Q128736
 academic_degree:
   - "[[_Standards/WikiData/WD~bachelor's_degree,163727]]"
-  - "[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]"
+  - '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
 occupation:
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~economist,188094]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
+  - '[[_Standards/WikiData/WD~mathematician,170790]]'
+  - '[[_Standards/WikiData/WD~economist,188094]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~differential_geometry,188444]]"
-  - "[[_Standards/WikiData/WD~mathematics,395]]"
-  - "[[_Standards/WikiData/WD~economics,8134]]"
-  - "[[_Standards/WikiData/WD~game_theory,44455]]"
-place_of_death: "[[_Standards/WikiData/WD~Monroe_Township,224781]]"
+  - '[[_Standards/WikiData/WD~differential_geometry,188444]]'
+  - '[[_Standards/WikiData/WD~mathematics,395]]'
+  - '[[_Standards/WikiData/WD~economics,8134]]'
+  - '[[_Standards/WikiData/WD~game_theory,44455]]'
+place_of_death: '[[_Standards/WikiData/WD~Monroe_Township,224781]]'
 member_of:
-  - "[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~American_Mathematical_Society,465654]]"
-  - "[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]"
-  - "[[_Standards/WikiData/WD~Econometric_Society,1282089]]"
-  - "[[_Standards/WikiData/WD~Norwegian_Academy_of_Science_and_Letters,1423356]]"
+  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+  - '[[_Standards/WikiData/WD~American_Mathematical_Society,465654]]'
+  - '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+  - '[[_Standards/WikiData/WD~Econometric_Society,1282089]]'
+  - '[[_Standards/WikiData/WD~Norwegian_Academy_of_Science_and_Letters,1423356]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Carnegie_Institute_of_Technology,558977]]"
-  - "[[_Standards/WikiData/WD~Bluefield_University,4930299]]"
-  - "[[_Standards/WikiData/WD~Princeton_University,21578]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Christian_atheism,620016]]"
-doctoral_advisor: "[[_Standards/WikiData/WD~Albert_W._Tucker,777234]]"
+  - '[[_Standards/WikiData/WD~Carnegie_Institute_of_Technology,558977]]'
+  - '[[_Standards/WikiData/WD~Bluefield_University,4930299]]'
+  - '[[_Standards/WikiData/WD~Princeton_University,21578]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christian_atheism,620016]]'
+doctoral_advisor: '[[_Standards/WikiData/WD~Albert_W._Tucker,777234]]'
 employer:
-  - "[[_Standards/WikiData/WD~RAND_Corporation,861141]]"
-  - "[[_Standards/WikiData/WD~Princeton_University,21578]]"
-  - "[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]"
-place_of_birth: "[[_Standards/WikiData/WD~Bluefield,885991]]"
-residence: "[[_Standards/WikiData/WD~West_Windsor_Township,1073777]]"
+  - '[[_Standards/WikiData/WD~RAND_Corporation,861141]]'
+  - '[[_Standards/WikiData/WD~Princeton_University,21578]]'
+  - '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
+place_of_birth: '[[_Standards/WikiData/WD~Bluefield,885991]]'
+residence: '[[_Standards/WikiData/WD~West_Windsor_Township,1073777]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Nash_embedding_theorem,1306092]]"
+  - '[[_Standards/WikiData/WD~Nash_embedding_theorem,1306092]]'
   - "[[_Standards/WikiData/WD~Hilbert's_nineteenth_problem,5761157]]"
-  - "[[_Standards/WikiData/WD~Nash_functions,6966819]]"
-  - "[[_Standards/WikiData/WD~Nash_Moser_theorem,6967039]]"
-  - "[[_Standards/WikiData/WD~Nash_blowing_up,17099322]]"
-  - "[[_Standards/WikiData/WD~Nash_Kuiper_theorem,18212342]]"
-  - "[[_Standards/WikiData/WD~Nash_Williams_theorem,65066994]]"
-  - "[[_Standards/WikiData/WD~Nash_equilibrium,23389]]"
+  - '[[_Standards/WikiData/WD~Nash_functions,6966819]]'
+  - '[[_Standards/WikiData/WD~Nash_Moser_theorem,6967039]]'
+  - '[[_Standards/WikiData/WD~Nash_blowing_up,17099322]]'
+  - '[[_Standards/WikiData/WD~Nash_Kuiper_theorem,18212342]]'
+  - '[[_Standards/WikiData/WD~Nash_Williams_theorem,65066994]]'
+  - '[[_Standards/WikiData/WD~Nash_equilibrium,23389]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~A_Beautiful_Mind,1767499]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-family_name: "[[_Standards/WikiData/WD~Nash,1965666]]"
-medical_condition: "[[_Standards/WikiData/WD~paranoid_schizophrenia,2606101]]"
-archives_at: "[[_Standards/WikiData/WD~Princeton_University_Library,3297681]]"
+  - '[[_Standards/WikiData/WD~A_Beautiful_Mind,1767499]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+family_name: '[[_Standards/WikiData/WD~Nash,1965666]]'
+medical_condition: '[[_Standards/WikiData/WD~paranoid_schizophrenia,2606101]]'
+archives_at: '[[_Standards/WikiData/WD~Princeton_University_Library,3297681]]'
 given_name:
-  - "[[_Standards/WikiData/WD~John,4925477]]"
-  - "[[_Standards/WikiData/WD~Forbes,21396671]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~John,4925477]]'
+  - '[[_Standards/WikiData/WD~Forbes,21396671]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 award_received:
-  - "[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Athens,56239664]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_Econometric_Society,59766840]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_American_Mathematical_Society,61744980]]"
-  - "[[_Standards/WikiData/WD~Steele_Prize_for_Seminal_Contribution_to_Research,63724652]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_Hong_Kong_Polytechnic_University,100787516]]"
-spouse: "[[_Standards/WikiData/WD~Alicia_Nash,19989065]]"
-manner_of_death: "[[_Standards/WikiData/WD~accidental_death,21142718]]"
-academic_thesis: "[[_Standards/WikiData/WD~Q56115416,56115416]]"
-cause_of_death: "[[_Standards/WikiData/WD~car_collision,61037771]]"
-doctoral_student: "[[_Standards/WikiData/WD~Seth_Patinkin,102312638]]"
-father: "[[_Standards/WikiData/WD~John_Forbes_Nash,_Sr.,112807079]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Athens,56239664]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_Econometric_Society,59766840]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Mathematical_Society,61744980]]'
+  - '[[_Standards/WikiData/WD~Steele_Prize_for_Seminal_Contribution_to_Research,63724652]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Hong_Kong_Polytechnic_University,100787516]]'
+spouse: '[[_Standards/WikiData/WD~Alicia_Nash,19989065]]'
+manner_of_death: '[[_Standards/WikiData/WD~accidental_death,21142718]]'
+academic_thesis: '[[_Standards/WikiData/WD~Q56115416,56115416]]'
+cause_of_death: '[[_Standards/WikiData/WD~car_collision,61037771]]'
+doctoral_student: '[[_Standards/WikiData/WD~Seth_Patinkin,102312638]]'
+father: '[[_Standards/WikiData/WD~John_Forbes_Nash,_Sr.,112807079]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 Erdős_number: 3
 BHCL_UUID: 31cd1252-9283-4809-9beb-080ced0e0c65
 Commons_category: John Forbes Nash

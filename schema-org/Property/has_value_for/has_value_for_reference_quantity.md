@@ -4,21 +4,22 @@ aliases:
   - reference-quantity
   - referenceQuantity
   - has_value_for_reference_quantity
+  - has value for reference quantity
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - reference-quantity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_reference-quantity
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

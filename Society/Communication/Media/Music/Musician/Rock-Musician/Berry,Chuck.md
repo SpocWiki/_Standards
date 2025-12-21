@@ -2,6 +2,7 @@
 aliases:
   - Chuck Berry
   - Charles Edward Anderson Berry
+  - Berry,Chuck
 has_id_wikidata: Q5921
 ---
 

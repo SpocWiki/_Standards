@@ -2,6 +2,7 @@
 aliases:
   - Joseph Levitch
   - King of Comedy
+  - Jerry Lewis
 ---
 
 # [[Jerry Lewis]] 

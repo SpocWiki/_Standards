@@ -1,41 +1,42 @@
 ---
 aliases:
   - Ozon
+  - Ozone
 has_id_wikidata: Q36933
-P8189: "987007555722705171"
+P8189: 987007555722705171
 UMLS_CUI: C0030106
 MeSH_tree_code: D01.362.670.600
 DSSTOX_compound_identifier: DTXCID001098
 Krugosvet_article: khimiya/ozon
 RTECS_number: RS8225000
-subclass_of: "[[_Standards/WikiData/WD~oxidizing_agent,187689]]"
+subclass_of: '[[_Standards/WikiData/WD~oxidizing_agent,187689]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~allotrope_of_oxygen,428653]]"
-  - "[[_Standards/WikiData/WD~simple_substance,2512777]]"
-  - "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+  - '[[_Standards/WikiData/WD~allotrope_of_oxygen,428653]]'
+  - '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+  - '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
 different_from:
-  - "[[_Standards/WikiData/WD~O3,437092]]"
-  - "[[_Standards/WikiData/WD~Ozun,1096772]]"
-  - "[[_Standards/WikiData/WD~cyclic_ozone,3359226]]"
+  - '[[_Standards/WikiData/WD~O3,437092]]'
+  - '[[_Standards/WikiData/WD~Ozun,1096772]]'
+  - '[[_Standards/WikiData/WD~cyclic_ozone,3359226]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 has_use:
-  - "[[_Standards/WikiData/WD~ozone_therapy,1426433]]"
-  - "[[_Standards/WikiData/WD~Q4332246,4332246]]"
-physically_interacts_with: "[[_Standards/WikiData/WD~Transient_receptor_potential_cation_channel_subfamily_A_member_1,7834290]]"
-subject_has_role: "[[_Standards/WikiData/WD~photochemical_oxidant,11388301]]"
+  - '[[_Standards/WikiData/WD~ozone_therapy,1426433]]'
+  - '[[_Standards/WikiData/WD~Q4332246,4332246]]'
+physically_interacts_with: '[[_Standards/WikiData/WD~Transient_receptor_potential_cation_channel_subfamily_A_member_1,7834290]]'
+subject_has_role: '[[_Standards/WikiData/WD~photochemical_oxidant,11388301]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ozone-montage.png
 part_of:
-  - "[[_Standards/WikiData/WD~response_to_ozone,14864432]]"
-  - "[[_Standards/WikiData/WD~cellular_response_to_ozone,22272330]]"
-associated_hazard: "[[_Standards/WikiData/WD~ozone_exposure,21175024]]"
-has_effect: "[[_Standards/WikiData/WD~ozone_exposure,21175024]]"
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
+  - '[[_Standards/WikiData/WD~response_to_ozone,14864432]]'
+  - '[[_Standards/WikiData/WD~cellular_response_to_ozone,22272330]]'
+associated_hazard: '[[_Standards/WikiData/WD~ozone_exposure,21175024]]'
+has_effect: '[[_Standards/WikiData/WD~ozone_exposure,21175024]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
 boiling_point:
   - -111.35
   - -111.9
@@ -44,7 +45,7 @@ melting_point:
   - -197.2
   - -315
   - -193
-has_part_s_: "[[_Standards/WikiData/WD~oxygen,629]]"
+has_part_s_: '[[_Standards/WikiData/WD~oxygen,629]]'
 vapor_pressure: 1
 solubility: 0.001
 ceiling_exposure_limit: 0.2
@@ -57,24 +58,24 @@ ionization_energy:
   - 12.43
   - 12.52
 standard_molar_entropy: 238.9
-ZVG_number: "4040"
-OmegaWiki_Defined_Meaning: "2702"
+ZVG_number: 4040
+OmegaWiki_Defined_Meaning: 2702
 density: 0.0021445
-Gmelin_number: "1101"
+Gmelin_number: 1101
 mass: 47.985
-CosIng_number: "93980"
-PubChem_CID: "24823"
+CosIng_number: 93980
+PubChem_CID: 24823
 InChIKey: CBENFWSGALASAD-UHFFFAOYSA-N
 UNII: 66H7ZZK23N
 InChI: InChI=1S/O3/c1-3-2
 Commons_category: Ozone
-Reaxys_registry_number: "4921393"
+Reaxys_registry_number: 4921393
 chemical_formula: O₃
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%93%E0%A6%9C%E0%A7%8B%E0%A6%A8.wav
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Ozon%20Mesomerie.svg
 image_of_molecular_model_or_crystal_lattice_model: http://commons.wikimedia.org/wiki/Special:FilePath/Ozone-CRC-MW-3D-balls.png
 Stack_Exchange_tag: https://chemistry.stackexchange.com/tags/ozone
-canonical_SMILES: "[O-][O+]=O"
+canonical_SMILES: '[O-][O+]=O'
 CAS_Registry_Number: 10028-15-6
 EC_number: 233-069-2
 ---

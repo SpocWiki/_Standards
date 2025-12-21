@@ -1,29 +1,29 @@
 ---
 aliases:
-- Rust~Ownership
-- 
+  - Rust~Ownership
+  - ''
 confidential: private
-cssclasses: "private note"
+cssclasses: private note
 draft: true
-expiryDate: 
+expiryDate: ''
 has_time_started: 2024-01-07
 isDeleted: false
 isReadOnly: false
 Key: Value
 keywords:
-- Rust~Ownership
+  - Rust~Ownership
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Rust~Ownership
 Predicate: '[[Object]]'
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Rust~Ownership
-- "rather use"
+  - Rust~Ownership
+  - rather use
 title: Rust~Ownership
-type: "private note"
+type: private note
 ---
 
 # [[Rust~Ownership]] 

@@ -4,21 +4,23 @@ aliases:
   - utterances
   - utterances
   - has_text_of_utterances
+  - has_utterances
+  - has utterances
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - utterances
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_utterances
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

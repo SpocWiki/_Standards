@@ -1,27 +1,28 @@
 ---
 aliases:
   - Phonologie
+  - Phonology
 has_id_wikidata: Q40998
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q10129525,10129525]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Language_phonologies,10995828]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q10129525,10129525]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Language_phonologies,10995828]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~language_subsystem,66745531]]"
-  - "[[_Standards/WikiData/WD~branch_of_linguistics,135892289]]"
-practiced_by: "[[_Standards/WikiData/WD~phonologist,46163584]]"
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~language_subsystem,66745531]]'
+  - '[[_Standards/WikiData/WD~branch_of_linguistics,135892289]]'
+practiced_by: '[[_Standards/WikiData/WD~phonologist,46163584]]'
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~phonological_system,49124804]]"
-  - "[[_Standards/WikiData/WD~phoneme,8183]]"
-part_of: "[[_Standards/WikiData/WD~linguistics,8162]]"
-subclass_of: "[[_Standards/WikiData/WD~linguistics,8162]]"
-different_from: "[[_Standards/WikiData/WD~phonetics,35395]]"
-Dewey_Decimal_Classification: "414"
+  - '[[_Standards/WikiData/WD~phonological_system,49124804]]'
+  - '[[_Standards/WikiData/WD~phoneme,8183]]'
+part_of: '[[_Standards/WikiData/WD~linguistics,8162]]'
+subclass_of: '[[_Standards/WikiData/WD~linguistics,8162]]'
+different_from: '[[_Standards/WikiData/WD~phonetics,35395]]'
+Dewey_Decimal_Classification: 414
 GitHub_topic: phonology
-Basisklassifikation: "17.53"
+Basisklassifikation: 17.53
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/BabelBar.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Phonological%20Diagram%20of%20modern%20Arabic%20and%20Hebrew%20vowels.png

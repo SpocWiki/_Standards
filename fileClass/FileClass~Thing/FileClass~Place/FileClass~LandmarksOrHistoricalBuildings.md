@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~LandmarksOrHistoricalBuildings
+excludes: ''
 extends: FileClass~Thing/FileClass~Place
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/LandmarksOrHistoricalBuildings
-- class/Thing/Place/LandmarksOrHistoricalBuildings
-- is_a_/LandmarksOrHistoricalBuildings
-- schema-org/LandmarksOrHistoricalBuildings
+  - class/LandmarksOrHistoricalBuildings
+  - class/Thing/Place/LandmarksOrHistoricalBuildings
+  - is_a_/LandmarksOrHistoricalBuildings
+  - schema-org/LandmarksOrHistoricalBuildings
 tags:
-- class/FileClass
-- class/LandmarksOrHistoricalBuildings
-- is_a_/LandmarksOrHistoricalBuildings
-- class/Thing/Place/LandmarksOrHistoricalBuildings
+  - class/FileClass
+  - class/LandmarksOrHistoricalBuildings
+  - is_a_/LandmarksOrHistoricalBuildings
+  - class/Thing/Place/LandmarksOrHistoricalBuildings
 version: 2.0
 ---
 

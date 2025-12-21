@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ReactAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ReactAction
-- class/Thing/Action/AssessAction/ReactAction
-- is_a_/ReactAction
-- schema-org/ReactAction
+  - class/ReactAction
+  - class/Thing/Action/AssessAction/ReactAction
+  - is_a_/ReactAction
+  - schema-org/ReactAction
 tags:
-- class/FileClass
-- class/ReactAction
-- is_a_/ReactAction
-- class/Thing/Action/AssessAction/ReactAction
+  - class/FileClass
+  - class/ReactAction
+  - is_a_/ReactAction
+  - class/Thing/Action/AssessAction/ReactAction
 version: 2.0
 ---
 

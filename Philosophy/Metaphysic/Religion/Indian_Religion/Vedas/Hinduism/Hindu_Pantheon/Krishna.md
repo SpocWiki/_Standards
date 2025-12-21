@@ -1,6 +1,7 @@
 ---
 aliases:
   - कृष्ण
+  - Krishna
 has_id_wikidata: Q42891
 spouse:
   - "[[_Standards/WikiData/WD~Radha,113904]]"

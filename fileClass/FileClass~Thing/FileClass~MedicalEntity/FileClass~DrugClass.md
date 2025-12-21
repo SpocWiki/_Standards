@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DrugClass
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-- id: CJctpQ
-  name: Drug
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')"
-  type: MultiFile
-  path: ''
+  - id: CJctpQ
+    name: Drug
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DrugClass
-- class/Thing/MedicalEntity/DrugClass
-- is_a_/DrugClass
-- schema-org/DrugClass
+  - class/DrugClass
+  - class/Thing/MedicalEntity/DrugClass
+  - is_a_/DrugClass
+  - schema-org/DrugClass
 tags:
-- class/FileClass
-- class/DrugClass
-- is_a_/DrugClass
-- class/Thing/MedicalEntity/DrugClass
+  - class/FileClass
+  - class/DrugClass
+  - is_a_/DrugClass
+  - class/Thing/MedicalEntity/DrugClass
 version: 2.0
 ---
 

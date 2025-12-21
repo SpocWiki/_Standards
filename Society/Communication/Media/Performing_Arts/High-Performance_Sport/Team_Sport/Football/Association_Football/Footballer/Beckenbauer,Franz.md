@@ -4,77 +4,78 @@ aliases:
   - Franz Anton Beckenbauer
   - Franz Beckenbauer
   - Beckenbauer
+  - Beckenbauer,Franz
 has_id_wikidata: Q4457
 league_or_competition:
-  - "[[_Standards/WikiData/WD~Q82595,82595]]"
-  - "[[_Standards/WikiData/WD~North_American_Soccer_League,1095556]]"
-  - "[[_Standards/WikiData/WD~Regionalliga_Süd_(1963_1974),3423604]]"
+  - '[[_Standards/WikiData/WD~Q82595,82595]]'
+  - '[[_Standards/WikiData/WD~North_American_Soccer_League,1095556]]'
+  - '[[_Standards/WikiData/WD~Regionalliga_Süd_(1963_1974),3423604]]'
 award_received:
   - "[[_Standards/WikiData/WD~Ballon_d'Or,166177]]"
-  - "[[_Standards/WikiData/WD~German_Footballer_of_the_Year,311830]]"
-  - "[[_Standards/WikiData/WD~Silbernes_Lorbeerblatt,315026]]"
-  - "[[_Standards/WikiData/WD~Order_of_Merit_of_North_Rhine_Westphalia,318770]]"
-  - "[[_Standards/WikiData/WD~Bravo_Otto,487719]]"
-  - "[[_Standards/WikiData/WD~Bavarian_Order_of_Merit,672787]]"
-  - "[[_Standards/WikiData/WD~Askania_Award,731044]]"
-  - "[[_Standards/WikiData/WD~Q812287,812287]]"
-  - "[[_Standards/WikiData/WD~Bayerische_Verfassungsmedaille,812306]]"
-  - "[[_Standards/WikiData/WD~Bayerischer_Sportpreis,812373]]"
-  - "[[_Standards/WikiData/WD~Steiger_Award,821717]]"
-  - "[[_Standards/WikiData/WD~Golden_Honorary_Ring_of_the_City_of_Munich,1432320]]"
-  - "[[_Standards/WikiData/WD~honorary_golden_medal_of_the_state_capital_Munich,1535113]]"
-  - "[[_Standards/WikiData/WD~Hall_of_Fame_des_deutschen_Sports,1571341]]"
+  - '[[_Standards/WikiData/WD~German_Footballer_of_the_Year,311830]]'
+  - '[[_Standards/WikiData/WD~Silbernes_Lorbeerblatt,315026]]'
+  - '[[_Standards/WikiData/WD~Order_of_Merit_of_North_Rhine_Westphalia,318770]]'
+  - '[[_Standards/WikiData/WD~Bravo_Otto,487719]]'
+  - '[[_Standards/WikiData/WD~Bavarian_Order_of_Merit,672787]]'
+  - '[[_Standards/WikiData/WD~Askania_Award,731044]]'
+  - '[[_Standards/WikiData/WD~Q812287,812287]]'
+  - '[[_Standards/WikiData/WD~Bayerische_Verfassungsmedaille,812306]]'
+  - '[[_Standards/WikiData/WD~Bayerischer_Sportpreis,812373]]'
+  - '[[_Standards/WikiData/WD~Steiger_Award,821717]]'
+  - '[[_Standards/WikiData/WD~Golden_Honorary_Ring_of_the_City_of_Munich,1432320]]'
+  - '[[_Standards/WikiData/WD~honorary_golden_medal_of_the_state_capital_Munich,1535113]]'
+  - '[[_Standards/WikiData/WD~Hall_of_Fame_des_deutschen_Sports,1571341]]'
   - "[[_Standards/WikiData/WD~Commander's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905276]]"
-  - "[[_Standards/WikiData/WD~Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905380]]"
+  - '[[_Standards/WikiData/WD~Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905380]]'
   - "[[_Standards/WikiData/WD~UEFA_President's_Award,15910413]]"
-  - "[[_Standards/WikiData/WD~Bayerische_Verfassungsmedaille_in_Gold,16735648]]"
-  - "[[_Standards/WikiData/WD~Merit_Cross_of_the_Lower_Saxony_Order_of_Merit_(1st_class),19278070]]"
-  - "[[_Standards/WikiData/WD~BigBrotherAwards,110530811]]"
+  - '[[_Standards/WikiData/WD~Bayerische_Verfassungsmedaille_in_Gold,16735648]]'
+  - '[[_Standards/WikiData/WD~Merit_Cross_of_the_Lower_Saxony_Order_of_Merit_(1st_class),19278070]]'
+  - '[[_Standards/WikiData/WD~BigBrotherAwards,110530811]]'
 position_played_on_team_speciality:
-  - "[[_Standards/WikiData/WD~defender,336286]]"
-  - "[[_Standards/WikiData/WD~sweeper,1489923]]"
-child: "[[_Standards/WikiData/WD~Stephan_Beckenbauer,458888]]"
+  - '[[_Standards/WikiData/WD~defender,336286]]'
+  - '[[_Standards/WikiData/WD~sweeper,1489923]]'
+child: '[[_Standards/WikiData/WD~Stephan_Beckenbauer,458888]]'
 occupation:
-  - "[[_Standards/WikiData/WD~association_football_manager,628099]]"
-  - "[[_Standards/WikiData/WD~association_football_player,937857]]"
-  - "[[_Standards/WikiData/WD~functionary,1328323]]"
-  - "[[_Standards/WikiData/WD~sports_executive,26481809]]"
-  - "[[_Standards/WikiData/WD~professional_athlete,27503001]]"
-  - "[[_Standards/WikiData/WD~coach,41583]]"
+  - '[[_Standards/WikiData/WD~association_football_manager,628099]]'
+  - '[[_Standards/WikiData/WD~association_football_player,937857]]'
+  - '[[_Standards/WikiData/WD~functionary,1328323]]'
+  - '[[_Standards/WikiData/WD~sports_executive,26481809]]'
+  - '[[_Standards/WikiData/WD~professional_athlete,27503001]]'
+  - '[[_Standards/WikiData/WD~coach,41583]]'
 member_of_sports_team:
-  - "[[_Standards/WikiData/WD~New_York_Cosmos,646135]]"
-  - "[[_Standards/WikiData/WD~Germany_national_football_B_team,822990]]"
-  - "[[_Standards/WikiData/WD~Germany_national_under_18_football_team,2016992]]"
-  - "[[_Standards/WikiData/WD~FC_Bayern_Munich,15789]]"
+  - '[[_Standards/WikiData/WD~New_York_Cosmos,646135]]'
+  - '[[_Standards/WikiData/WD~Germany_national_football_B_team,822990]]'
+  - '[[_Standards/WikiData/WD~Germany_national_under_18_football_team,2016992]]'
+  - '[[_Standards/WikiData/WD~FC_Bayern_Munich,15789]]'
   - "[[_Standards/WikiData/WD~Germany_men's_national_association_football_team,43310]]"
-  - "[[_Standards/WikiData/WD~Hamburger_SV,51974]]"
-country_for_sport: "[[_Standards/WikiData/WD~West_Germany,713750]]"
+  - '[[_Standards/WikiData/WD~Hamburger_SV,51974]]'
+country_for_sport: '[[_Standards/WikiData/WD~West_Germany,713750]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~West_Germany,713750]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-position_held: "[[_Standards/WikiData/WD~honorary_chairperson,1300660]]"
-place_of_burial: "[[_Standards/WikiData/WD~Friedhof_am_Perlacher_Forst,1457460]]"
-place_of_birth: "[[_Standards/WikiData/WD~Richard_Wagner_Straße_19_(München),2111134]]"
-given_name: "[[_Standards/WikiData/WD~Franz,4925932]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Beckenbauer,23892420]]"
-relative: "[[_Standards/WikiData/WD~Luca_Beckenbauer,66773695]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-different_from: "[[_Standards/WikiData/WD~Franz_Beckenbauer,94904573]]"
+  - '[[_Standards/WikiData/WD~West_Germany,713750]]'
+  - '[[_Standards/WikiData/WD~Germany,183]]'
+position_held: '[[_Standards/WikiData/WD~honorary_chairperson,1300660]]'
+place_of_burial: '[[_Standards/WikiData/WD~Friedhof_am_Perlacher_Forst,1457460]]'
+place_of_birth: '[[_Standards/WikiData/WD~Richard_Wagner_Straße_19_(München),2111134]]'
+given_name: '[[_Standards/WikiData/WD~Franz,4925932]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Beckenbauer,23892420]]'
+relative: '[[_Standards/WikiData/WD~Luca_Beckenbauer,66773695]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+different_from: '[[_Standards/WikiData/WD~Franz_Beckenbauer,94904573]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~sport,349]]"
-  - "[[_Standards/WikiData/WD~association_football,2736]]"
-sport: "[[_Standards/WikiData/WD~association_football,2736]]"
+  - '[[_Standards/WikiData/WD~sport,349]]'
+  - '[[_Standards/WikiData/WD~association_football,2736]]'
+sport: '[[_Standards/WikiData/WD~association_football,2736]]'
 medical_condition: "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 total_goals_in_career: 0
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~German,188]]"
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
 number_of_matches_played_races_starts:
   - 2
   - 4
-native_language: "[[_Standards/WikiData/WD~German,188]]"
+native_language: '[[_Standards/WikiData/WD~German,188]]'
 number_of_children: 5
-place_of_death: "[[_Standards/WikiData/WD~Salzburg,34713]]"
+place_of_death: '[[_Standards/WikiData/WD~Salzburg,34713]]'
 mass: 79
 height: 181
 birth_name: Franz Anton Beckenbauer
@@ -91,8 +92,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Beckenbauer%20
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20Franz%20Beckenbauer.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Unterschrift%20Franz%20Beckenbauer%20deutscher%20Fu%C3%9Fballspieler.png
 official_website: http://www.franzbeckenbauer.de/
-ISNI: "0000000369991124"
-Munzinger_Sport_number: "01000000739"
+ISNI: 0000000369991124
+Munzinger_Sport_number: 01000000739
 Europeana_entity: agent/base/173955
 X_Twitter_username: beckenbauer
 pseudonym: Der Kaiser

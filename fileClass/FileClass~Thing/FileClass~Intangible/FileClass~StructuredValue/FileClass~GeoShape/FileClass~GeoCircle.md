@@ -1,31 +1,33 @@
 ---
-excludes: 
+aliases:
+  - FileClass~GeoCircle
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape
 fields:
-- id: vgxWOH
-  name: GeoMidpoint
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/GeoCoordinates')"
-  type: MultiFile
-  path: ''
-- id: E77aT9
-  name: GeoRadius
-  options: {}
-  type: Number
-  path: ''
+  - id: vgxWOH
+    name: GeoMidpoint
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoCoordinates')
+    type: MultiFile
+    path: ''
+  - id: E77aT9
+    name: GeoRadius
+    options: {}
+    type: Number
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/GeoCircle
-- class/Thing/Intangible/StructuredValue/GeoShape/GeoCircle
-- is_a_/GeoCircle
-- schema-org/GeoCircle
+  - class/GeoCircle
+  - class/Thing/Intangible/StructuredValue/GeoShape/GeoCircle
+  - is_a_/GeoCircle
+  - schema-org/GeoCircle
 tags:
-- class/FileClass
-- class/GeoCircle
-- is_a_/GeoCircle
-- class/Thing/Intangible/StructuredValue/GeoShape/GeoCircle
+  - class/FileClass
+  - class/GeoCircle
+  - is_a_/GeoCircle
+  - class/Thing/Intangible/StructuredValue/GeoShape/GeoCircle
 version: 2.0
 ---
 

@@ -2,22 +2,23 @@
 aliases:
   - Geist
   - Geister
+  - Spirit
 has_id_wikidata: Q193291
 different_from:
-  - "[[_Standards/WikiData/WD~Duch,147827]]"
-  - "[[_Standards/WikiData/WD~ar_Rūḥ,12187908]]"
-  - "[[_Standards/WikiData/WD~spirit,120312205]]"
+  - '[[_Standards/WikiData/WD~Duch,147827]]'
+  - '[[_Standards/WikiData/WD~ar_Rūḥ,12187908]]'
+  - '[[_Standards/WikiData/WD~spirit,120312205]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~FILIT,11985944]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~FILIT,11985944]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~mythical_character,4271324]]"
-  - "[[_Standards/WikiData/WD~abstract_being,15619164]]"
-  - "[[_Standards/WikiData/WD~supernatural_being,28855038]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~abstract_entity,7048977]]"
-has_part_s_: "[[_Standards/WikiData/WD~Spirit_in_Islam,125470220]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~spirit,135750231]]"
+  - '[[_Standards/WikiData/WD~mythical_character,4271324]]'
+  - '[[_Standards/WikiData/WD~abstract_being,15619164]]'
+  - '[[_Standards/WikiData/WD~supernatural_being,28855038]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~abstract_entity,7048977]]'
+has_part_s_: '[[_Standards/WikiData/WD~Spirit_in_Islam,125470220]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~spirit,135750231]]'
 Commons_category: Spirits
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Blessing%20genie%20Dur%20Sharrukin.jpg
@@ -25,7 +26,7 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/The%20Plough%20and%20the%20Earth%20Spirit%20-%20George%20William%20Russell.jpg
 DOI: 10.1163/1875-3922_Q3_EQCOM_00193
 Iconclass_notation: 13A1
-Amazon_com_browse_node: "2983387011"
+Amazon_com_browse_node: 2983387011
 ---
 
 # [[Spirit]] 

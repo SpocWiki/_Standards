@@ -4,22 +4,24 @@ aliases:
   - accessibility_feature
   - accessibilityFeature
   - has_text_of_accessibility_feature
+  - has_accessibility_feature
+  - has accessibility feature
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - accessibility
   - feature
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_accessibility_feature
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

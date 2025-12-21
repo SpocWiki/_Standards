@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ApprovedIndication
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ApprovedIndication
-- class/Thing/MedicalEntity/MedicalIndication/ApprovedIndication
-- is_an_/ApprovedIndication
-- schema-org/ApprovedIndication
+  - class/ApprovedIndication
+  - class/Thing/MedicalEntity/MedicalIndication/ApprovedIndication
+  - is_an_/ApprovedIndication
+  - schema-org/ApprovedIndication
 tags:
-- class/FileClass
-- class/ApprovedIndication
-- '#is_an_/ApprovedIndication'
-- class/Thing/MedicalEntity/MedicalIndication/ApprovedIndication
+  - class/FileClass
+  - class/ApprovedIndication
+  - '#is_an_/ApprovedIndication'
+  - class/Thing/MedicalEntity/MedicalIndication/ApprovedIndication
 version: 2.0
 ---
 

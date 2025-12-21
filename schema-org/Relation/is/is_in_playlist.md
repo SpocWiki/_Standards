@@ -4,22 +4,23 @@ aliases:
   - in_playlist
   - inPlaylist
   - is_in_playlist
+  - is in playlist
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - in
   - playlist
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_in_playlist
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ballet
 has_id_wikidata: Q41425
 subclass_of:
   - "[[_Standards/WikiData/WD~performing_arts,184485]]"
@@ -27,18 +29,18 @@ permanent_duplicated_item: "[[_Standards/WikiData/WD~Ballet_(duplicate),11873850
 has_characteristic: "[[_Standards/WikiData/WD~ballet_award,133218633]]"
 Commons_gallery: Ballet
 Commons_category: Ballet
-OmegaWiki_Defined_Meaning: "848831"
-U_S_National_Archives_Identifier: "10637429"
+OmegaWiki_Defined_Meaning: 848831
+U_S_National_Archives_Identifier: 10637429
 subreddit: BALLET
 Iconclass_notation: 48C84
-P8189: "987007282438105171"
+P8189: 987007282438105200
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/BALET.html
 IPTC_NewsCode: mediatopic/20000008
 Unicode_character: 🩰
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Darcey%20Bussell%2C%20curtain%20call%20for%20Theme%20and%20Variations%202007.jpg
 ---
 
-# [[Ballet]] 
+# [[Ballet]] 🩰 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Ballet,41425|WD~Ballet,41425]] 
 

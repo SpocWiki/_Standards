@@ -1,6 +1,8 @@
 ---
+aliases:
+  - Archaeology
 has_id_wikidata: Q23498
-P8189: "987007294830305171"
+P8189: 987007294830305171
 IMDb_keyword: archaeology
 GitHub_topic: archaeology
 subreddit:
@@ -15,53 +17,53 @@ IPTC_NewsCode:
   - mediatopic/20000744
   - subjectcode/01001000
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Religion_in_Geschichte_und_Gegenwart,1514334]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Religion_in_Geschichte_und_Gegenwart,1514334]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Dictionnaire_du_patrimoine_rennais,29551022]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Dictionnaire_du_patrimoine_rennais,29551022]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~archaeological_science,637284]]"
-  - "[[_Standards/WikiData/WD~osteology,819121]]"
-  - "[[_Standards/WikiData/WD~archaeological_numismatics,59220886]]"
+  - '[[_Standards/WikiData/WD~archaeological_science,637284]]'
+  - '[[_Standards/WikiData/WD~osteology,819121]]'
+  - '[[_Standards/WikiData/WD~archaeological_numismatics,59220886]]'
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~archaeological_site,839954]]"
-  - "[[_Standards/WikiData/WD~archaeological_record,2686349]]"
+  - '[[_Standards/WikiData/WD~archaeological_site,839954]]'
+  - '[[_Standards/WikiData/WD~archaeological_record,2686349]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~study_of_history,1066186]]"
-  - "[[_Standards/WikiData/WD~historical_science,65928774]]"
-opposite_of: "[[_Standards/WikiData/WD~pseudoarchaeology,1345825]]"
-practiced_by: "[[_Standards/WikiData/WD~archaeologist,3621491]]"
+  - '[[_Standards/WikiData/WD~study_of_history,1066186]]'
+  - '[[_Standards/WikiData/WD~historical_science,65928774]]'
+opposite_of: '[[_Standards/WikiData/WD~pseudoarchaeology,1345825]]'
+practiced_by: '[[_Standards/WikiData/WD~archaeologist,3621491]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_archaeology,5867387]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Archaeology,6682838]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Archaeology,7076022]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_archaeology,7112557]]"
-has_list: "[[_Standards/WikiData/WD~outline_of_archaeology,7112557]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q20825506,20825506]]"
-different_from: "[[_Standards/WikiData/WD~archology,21071559]]"
-part_of: "[[_Standards/WikiData/WD~history,_heritage_and_archaeology,113077601]]"
-OmegaWiki_Defined_Meaning: "238"
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_archaeology,5867387]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Archaeology,6682838]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Archaeology,7076022]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_archaeology,7112557]]'
+has_list: '[[_Standards/WikiData/WD~outline_of_archaeology,7112557]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q20825506,20825506]]'
+different_from: '[[_Standards/WikiData/WD~archology,21071559]]'
+part_of: '[[_Standards/WikiData/WD~history,_heritage_and_archaeology,113077601]]'
+OmegaWiki_Defined_Meaning: 238
 All_Science_Journal_Classification_Codes:
-  - "3302"
-  - "1204"
-U_S_National_Archives_Identifier: "10639088"
+  - 3302
+  - 1204
+U_S_National_Archives_Identifier: 10639088
 exact_match: http://cv.iptc.org/newscodes/subjectcode/01001000
-Dewey_Decimal_Classification: "930.1"
+Dewey_Decimal_Classification: 930.1
 Commons_gallery: Archaeology
 Commons_category: Archaeology
 described_at_URL: http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/334568/disp4-3.pdf
-Basisklassifikation: "15.15"
+Basisklassifikation: 15.15
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Clavo%20de%20fundaci%C3%B3n.JPG
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteuse%20JEP%20%28Madehub%29-arch%C3%A9ologie.wav

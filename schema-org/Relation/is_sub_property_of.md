@@ -1,7 +1,9 @@
 ---
 aliases:
-- "rdfs:subPropertyOf"
-- "owl:subPropertyOf"
+  - rdfs:subPropertyOf
+  - owl:subPropertyOf
+  - is_sub_property_of
+  - is sub property of
 ---
 
 Use it like this: 

@@ -1,13 +1,16 @@
 ---
-Commons_category: "Abstract algebra"
+aliases:
+  - Abstract_algebra
+  - Abstract algebra
+has_id_wikidata: Q159943
+Commons_category: Abstract algebra
 Dewey_Decimal_Classification: 512.02
 different_from:
-- '[[_Standards/WikiData/WD~elementary_algebra,211294]]'
-- '[[_Standards/WikiData/WD~algebra,3968]]'
-has_id_wikidata: Q159943
+  - '[[_Standards/WikiData/WD~elementary_algebra,211294]]'
+  - '[[_Standards/WikiData/WD~algebra,3968]]'
 image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Magma%20to%20group3.svg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Algebraic%20structures%20-%20magma%20to%20group-ar.svg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Magma%20to%20group3.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Algebraic%20structures%20-%20magma%20to%20group-ar.svg
 instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
 is_the_study_of: '[[_Standards/WikiData/WD~algebraic_structure,205464]]'
 Krugosvet_article: nauka_i_tehnika/matematika/ALGEBRA_ABSTRAKTNAYA.html
@@ -16,13 +19,13 @@ OmegaWiki_Defined_Meaning: 1413246
 P8189: 987007293933105171
 part_of: '[[_Standards/WikiData/WD~mathematics,395]]'
 Stack_Exchange_tag:
-- "https://math.stackexchange.com/tags/abstract-algebra"
-- "https://mathoverflow.net/tags/abstract-algebra"
+  - https://math.stackexchange.com/tags/abstract-algebra
+  - https://mathoverflow.net/tags/abstract-algebra
 subclass_of: '[[_Standards/WikiData/WD~algebra,3968]]'
 subreddit: abstractalgebra
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Algebra,6675761]]'
-- '[[_Standards/WikiData/WD~Q25941502,25941502]]'
+  - '[[_Standards/WikiData/WD~Template_Algebra,6675761]]'
+  - '[[_Standards/WikiData/WD~Q25941502,25941502]]'
 Universal_Decimal_Classification: 512.5
 ---
 

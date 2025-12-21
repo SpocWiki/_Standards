@@ -1,6 +1,7 @@
 ---
 aliases:
   - Munition
+  - Ammunition
 has_id_wikidata: Q185785
 ---
 

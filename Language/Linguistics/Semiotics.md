@@ -1,24 +1,25 @@
 ---
 aliases:
   - Semiotik
+  - Semiotics
 has_id_wikidata: Q60195
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~symbol,80071]]"
-  - "[[_Standards/WikiData/WD~semiosis,681696]]"
-  - "[[_Standards/WikiData/WD~sign,3695082]]"
-different_from: "[[_Standards/WikiData/WD~semiology,957366]]"
+  - '[[_Standards/WikiData/WD~symbol,80071]]'
+  - '[[_Standards/WikiData/WD~semiosis,681696]]'
+  - '[[_Standards/WikiData/WD~sign,3695082]]'
+different_from: '[[_Standards/WikiData/WD~semiology,957366]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~interdisciplinary_program,84771819]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+  - '[[_Standards/WikiData/WD~interdisciplinary_program,84771819]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Semiotics,6870266]]"
-practiced_by: "[[_Standards/WikiData/WD~semiotician,16402907]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_semiotics,17004652]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~linguistics,8162]]"
-OmegaWiki_Defined_Meaning: "803684"
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Semiotics,6870266]]'
+practiced_by: '[[_Standards/WikiData/WD~semiotician,16402907]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_semiotics,17004652]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~linguistics,8162]]'
+OmegaWiki_Defined_Meaning: 803684
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Evolution2glyph.png
 Wikimedia_import_URL: https://en.wikipedia.org/wiki/Semiotics
 Provenio_UUID: 116a111b-bdb2-471e-8c7f-62ef198e5286

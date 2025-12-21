@@ -1,14 +1,15 @@
 ---
 aliases:
   - Hürdenlauf
+  - Hurdling
 has_id_wikidata: Q537769
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-instance_of: "[[_Standards/WikiData/WD~sports_discipline,2312410]]"
-practiced_by: "[[_Standards/WikiData/WD~hurdler,13724897]]"
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
+practiced_by: '[[_Standards/WikiData/WD~hurdler,13724897]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~running_discipline_of_track,21467672]]"
-  - "[[_Standards/WikiData/WD~track_sport,110373504]]"
-sport: "[[_Standards/WikiData/WD~athletics,542]]"
+  - '[[_Standards/WikiData/WD~running_discipline_of_track,21467672]]'
+  - '[[_Standards/WikiData/WD~track_sport,110373504]]'
+sport: '[[_Standards/WikiData/WD~athletics,542]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/100%20m%20hurdles%20Memorial%20Van%20Damme%202010.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Athletics%20%28hurdles%20running%29%20pictogram.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-H%C3%BCrdenlauf.ogg

@@ -1,19 +1,20 @@
 ---
 aliases:
-- Statement
-- Semantic_Triple
-- S-P-O
-- Claim~Logic
-- Proposition
-- 
+  - Statement
+  - Semantic_Triple
+  - S-P-O
+  - Claim~Logic
+  - Proposition
+  - ''
+  - Predicate
 confidential: public
 isDeleted: false
 isReadOnly: false
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 publish: true
 tags:
-- class/Property
-- schema-org/Property
+  - class/Property
+  - schema-org/Property
 type: Meta
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
   - timber
+  - Lumber
 has_id_wikidata: Q1370714
-fabrication_method: "[[_Standards/WikiData/WD~cutting,196751]]"
+fabrication_method: '[[_Standards/WikiData/WD~cutting,196751]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~building_material,206615]]"
-  - "[[_Standards/WikiData/WD~artificial_physical_object,8205328]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~lumber,354757]]"
+  - '[[_Standards/WikiData/WD~building_material,206615]]'
+  - '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~lumber,354757]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-instance_of: "[[_Standards/WikiData/WD~wood_product,9380081]]"
-made_from_material: "[[_Standards/WikiData/WD~wood,287]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[_Standards/WikiData/WD~wood_product,9380081]]'
+made_from_material: '[[_Standards/WikiData/WD~wood,287]]'
 Nomenclature_for_Museum_Cataloging:
-  - "64"
-  - "62"
-Dewey_Decimal_Classification: "674"
+  - 64
+  - 62
+Dewey_Decimal_Classification: 674
 U_S_National_Archives_Identifier:
-  - "10642841"
-  - "10640632"
+  - 10642841
+  - 10640632
 Commons_category: Timber
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Tarcica%20brzozowa%20suszona.JPG

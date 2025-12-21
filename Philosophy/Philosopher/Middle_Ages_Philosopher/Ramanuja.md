@@ -6,29 +6,29 @@ aliases:
   - Ramanujacharya
 has_id_wikidata: Q1741798
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 subject_has_role:
-  - "[[_Standards/WikiData/WD~supercentenarian,1200828]]"
-  - "[[_Standards/WikiData/WD~centenarian,2944360]]"
+  - '[[_Standards/WikiData/WD~supercentenarian,1200828]]'
+  - '[[_Standards/WikiData/WD~centenarian,2944360]]'
 occupation:
-  - "[[_Standards/WikiData/WD~theologian,1234713]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-place_of_death: "[[_Standards/WikiData/WD~Srirangam,2304639]]"
-place_of_birth: "[[_Standards/WikiData/WD~Sriperumbudur,2547993]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-different_from: "[[_Standards/WikiData/WD~Ramanuja,17116599]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Tamil,5885]]"
-writing_language: "[[_Standards/WikiData/WD~Telugu,8097]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Hinduism,9089]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~theologian,1234713]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
+place_of_death: '[[_Standards/WikiData/WD~Srirangam,2304639]]'
+place_of_birth: '[[_Standards/WikiData/WD~Sriperumbudur,2547993]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+different_from: '[[_Standards/WikiData/WD~Ramanuja,17116599]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Tamil,5885]]'
+writing_language: '[[_Standards/WikiData/WD~Telugu,8097]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Hinduism,9089]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 date_of_birth: 1017-01-01T00:00:00Z
 date_of_death: 1137-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20Of%20Equality%20Samatha%20Murthy.jpg
-ISNI: "0000000101922144"
+ISNI: 0000000101922144
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/RAMANUDZHA.html
 Commons_category: Ramanujacharya
 ---

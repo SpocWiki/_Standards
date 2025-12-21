@@ -9,6 +9,7 @@ aliases:
   - australische
   - australischer
   - australisches
+has_id_wikidata: Q408
 Baidu_Tieba_name: 澳大利亚
 BHCL_UUID:
   - c7ae36ae-6cb9-46a2-b624-635895df7396
@@ -358,7 +359,7 @@ demonym:
   - Australierin
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Australia%20map%20%28English%29.svg
 described_at_URL: https://www.dfat.gov.au/about-australia
-expiryDate:
+expiryDate: ""
 ethnic_group:
   - "[[_Standards/WikiData/WD~indigenous_Australians,170355]]"
   - "[[_Standards/WikiData/WD~Irish_people,170826]]"
@@ -384,7 +385,6 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Austr
 female_population: 12877635
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Australia,1134461]]"
 geoshape: http://commons.wikimedia.org/data/main/Data:Australia.map
-has_id_wikidata: Q408
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Australia,174825]]"
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~state_or_territory_of_Australia,178712]]"
 head_of_government: "[[_Standards/WikiData/WD~Anthony_Albanese,335697]]"
@@ -403,15 +403,15 @@ instance_of:
   - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
   - "[[_Standards/WikiData/WD~country,6256]]"
   - "[[_Standards/WikiData/WD~federation,43702]]"
-inception: "1901"
+inception: 1901
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Australia%20satellite%20plane.jpg
-keywords:
+keywords: ""
 location:
   - -35.4776
   - 149.027
 license: CC BY-SA 4.0
-linkTitle:
-layout:
+linkTitle: ""
+layout: ""
 located_in_or_next_to_body_of_water:
   - "[[_Standards/WikiData/WD~Coral_Sea,82931]]"
   - "[[_Standards/WikiData/WD~Arafura_Sea,128880]]"
@@ -888,7 +888,7 @@ official_language:
 official_website: https://www.australia.gov.au/
 official_name: Commonwealth of Australia
 publish: true
-publishDate:
+publishDate: ""
 public_holiday:
   - "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
   - "[[_Standards/WikiData/WD~Easter_Monday,209663]]"

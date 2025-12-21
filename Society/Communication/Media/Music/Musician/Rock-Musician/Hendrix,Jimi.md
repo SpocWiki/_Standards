@@ -4,85 +4,86 @@ aliases:
   - James Marshall Hendrix
   - Jimi Hendrix
   - born Johnny Allen Hendrix
+  - Hendrix,Jimi
 has_id_wikidata: Q5928
 genre:
-  - "[[_Standards/WikiData/WD~hard_rock,83270]]"
-  - "[[_Standards/WikiData/WD~blues_rock,193355]]"
-  - "[[_Standards/WikiData/WD~psychedelic_rock,206159]]"
-  - "[[_Standards/WikiData/WD~acid_rock,236932]]"
-  - "[[_Standards/WikiData/WD~electric_blues,640097]]"
+  - '[[_Standards/WikiData/WD~hard_rock,83270]]'
+  - '[[_Standards/WikiData/WD~blues_rock,193355]]'
+  - '[[_Standards/WikiData/WD~psychedelic_rock,206159]]'
+  - '[[_Standards/WikiData/WD~acid_rock,236932]]'
+  - '[[_Standards/WikiData/WD~electric_blues,640097]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~The_Who,93346]]"
-  - "[[_Standards/WikiData/WD~Cream,203736]]"
-  - "[[_Standards/WikiData/WD~Q392,392]]"
-  - "[[_Standards/WikiData/WD~Chuck_Berry,5921]]"
-cause_of_death: "[[_Standards/WikiData/WD~asphyxia,193840]]"
-place_of_death: "[[_Standards/WikiData/WD~Kensington,288781]]"
+  - '[[_Standards/WikiData/WD~The_Who,93346]]'
+  - '[[_Standards/WikiData/WD~Cream,203736]]'
+  - '[[_Standards/WikiData/WD~Q392,392]]'
+  - '[[_Standards/WikiData/WD~Chuck_Berry,5921]]'
+cause_of_death: '[[_Standards/WikiData/WD~asphyxia,193840]]'
+place_of_death: '[[_Standards/WikiData/WD~Kensington,288781]]'
 record_label:
-  - "[[_Standards/WikiData/WD~MCA_Inc.,304509]]"
-  - "[[_Standards/WikiData/WD~Reprise_Records,645889]]"
-part_of: "[[_Standards/WikiData/WD~27_Club,326461]]"
-copyright_representative: "[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]"
+  - '[[_Standards/WikiData/WD~MCA_Inc.,304509]]'
+  - '[[_Standards/WikiData/WD~Reprise_Records,645889]]'
+part_of: '[[_Standards/WikiData/WD~27_Club,326461]]'
+copyright_representative: '[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]'
 instrument:
-  - "[[_Standards/WikiData/WD~kazoo,483994]]"
-  - "[[_Standards/WikiData/WD~glockenspiel,626035]]"
-  - "[[_Standards/WikiData/WD~voice,17172850]]"
-  - "[[_Standards/WikiData/WD~guitar,6607]]"
+  - '[[_Standards/WikiData/WD~kazoo,483994]]'
+  - '[[_Standards/WikiData/WD~glockenspiel,626035]]'
+  - '[[_Standards/WikiData/WD~voice,17172850]]'
+  - '[[_Standards/WikiData/WD~guitar,6607]]'
 given_name:
-  - "[[_Standards/WikiData/WD~James,677191]]"
-  - "[[_Standards/WikiData/WD~Johnny,1762022]]"
-  - "[[_Standards/WikiData/WD~Allen,18118122]]"
-  - "[[_Standards/WikiData/WD~Q19819759,19819759]]"
-handedness: "[[_Standards/WikiData/WD~left_handedness,789447]]"
+  - '[[_Standards/WikiData/WD~James,677191]]'
+  - '[[_Standards/WikiData/WD~Johnny,1762022]]'
+  - '[[_Standards/WikiData/WD~Allen,18118122]]'
+  - '[[_Standards/WikiData/WD~Q19819759,19819759]]'
+handedness: '[[_Standards/WikiData/WD~left_handedness,789447]]'
 award_received:
-  - "[[_Standards/WikiData/WD~UK_Music_Hall_of_Fame,835142]]"
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-occupation: "[[_Standards/WikiData/WD~guitarist,855091]]"
+  - '[[_Standards/WikiData/WD~UK_Music_Hall_of_Fame,835142]]'
+  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+occupation: '[[_Standards/WikiData/WD~guitarist,855091]]'
 wears:
-  - "[[_Standards/WikiData/WD~headband,934849]]"
-  - "[[_Standards/WikiData/WD~Westerner_hat,52236744]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~lapsed_Catholic,1069127]]"
+  - '[[_Standards/WikiData/WD~headband,934849]]'
+  - '[[_Standards/WikiData/WD~Westerner_hat,52236744]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~lapsed_Catholic,1069127]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Fort_Campbell,1385040]]"
-  - "[[_Standards/WikiData/WD~Garfield_High_School,5523079]]"
+  - '[[_Standards/WikiData/WD~Fort_Campbell,1385040]]'
+  - '[[_Standards/WikiData/WD~Garfield_High_School,5523079]]'
 member_of:
-  - "[[_Standards/WikiData/WD~The_Jimi_Hendrix_Experience,1407424]]"
-  - "[[_Standards/WikiData/WD~Jimmy_James_and_the_Blue_Flames,7718759]]"
-  - "[[_Standards/WikiData/WD~Band_of_Gypsys,13581327]]"
+  - '[[_Standards/WikiData/WD~The_Jimi_Hendrix_Experience,1407424]]'
+  - '[[_Standards/WikiData/WD~Jimmy_James_and_the_Blue_Flames,7718759]]'
+  - '[[_Standards/WikiData/WD~Band_of_Gypsys,13581327]]'
 discography:
-  - "[[_Standards/WikiData/WD~Jimi_Hendrix_discography,2538518]]"
-  - "[[_Standards/WikiData/WD~Jimi_Hendrix_posthumous_discography,3030136]]"
-sibling: "[[_Standards/WikiData/WD~Leon_Hendrix,3493632]]"
-place_of_burial: "[[_Standards/WikiData/WD~Greenwood_Memorial_Park,5605043]]"
+  - '[[_Standards/WikiData/WD~Jimi_Hendrix_discography,2538518]]'
+  - '[[_Standards/WikiData/WD~Jimi_Hendrix_posthumous_discography,3030136]]'
+sibling: '[[_Standards/WikiData/WD~Leon_Hendrix,3493632]]'
+place_of_burial: '[[_Standards/WikiData/WD~Greenwood_Memorial_Park,5605043]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Kathy_Etchingham,6377218]]"
-  - "[[_Standards/WikiData/WD~Devon_Wilson,11694033]]"
-  - "[[_Standards/WikiData/WD~Linda_Keith,58639495]]"
-  - "[[_Standards/WikiData/WD~Lithofayne_Pridgon,131785210]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Jimi_Hendrix,10741344]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
-family_name: "[[_Standards/WikiData/WD~Hendrix,16870694]]"
-manner_of_death: "[[_Standards/WikiData/WD~accidental_death,21142718]]"
+  - '[[_Standards/WikiData/WD~Kathy_Etchingham,6377218]]'
+  - '[[_Standards/WikiData/WD~Devon_Wilson,11694033]]'
+  - '[[_Standards/WikiData/WD~Linda_Keith,58639495]]'
+  - '[[_Standards/WikiData/WD~Lithofayne_Pridgon,131785210]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Jimi_Hendrix,10741344]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+family_name: '[[_Standards/WikiData/WD~Hendrix,16870694]]'
+manner_of_death: '[[_Standards/WikiData/WD~accidental_death,21142718]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-father: "[[_Standards/WikiData/WD~Al_Hendrix,107344087]]"
-mother: "[[_Standards/WikiData/WD~Lucille_Hendrix,107344094]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_birth: "[[_Standards/WikiData/WD~Seattle,5083]]"
-military_branch: "[[_Standards/WikiData/WD~United_States_Army,9212]]"
-voice_type: "[[_Standards/WikiData/WD~baritone,31687]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+father: '[[_Standards/WikiData/WD~Al_Hendrix,107344087]]'
+mother: '[[_Standards/WikiData/WD~Lucille_Hendrix,107344094]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+place_of_birth: '[[_Standards/WikiData/WD~Seattle,5083]]'
+military_branch: '[[_Standards/WikiData/WD~United_States_Army,9212]]'
+voice_type: '[[_Standards/WikiData/WD~baritone,31687]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 work_period_end_: 1970-01-01T00:00:00Z
 height: 70
 social_media_followers:
   - 1180000
   - 536973
-ethnic_group: "[[_Standards/WikiData/WD~African_Americans,49085]]"
+ethnic_group: '[[_Standards/WikiData/WD~African_Americans,49085]]'
 Plex_person_key: 5d776834f54112001f5bd50b
 Europeana_entity: agent/base/60077
 Wolfram_Language_entity_code: Entity["MusicAct", "JimiHendrix::68g87"]
@@ -106,10 +107,10 @@ date_of_birth: 1942-11-27T00:00:00Z
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Hendrix.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jimi%20Hendrix%20experience%201968%20%28cropped%29.jpg
 official_website: https://jimihendrix.com
-ISNI: "0000000110259073"
+ISNI: 0000000110259073
 IPI_name_number:
-  - "00041212145"
-  - "00595077804"
+  - 00041212145
+  - 00595077804
 Libris_URI: 1zcfjk3k2hbxclg
 ---
 

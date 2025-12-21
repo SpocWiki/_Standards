@@ -4,23 +4,25 @@ aliases:
   - mechanism_of_action
   - mechanismOfAction
   - has_text_of_mechanism_of_action
+  - has_mechanism_of_action
+  - has mechanism of action
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - mechanism
   - of
   - action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_mechanism_of_action
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

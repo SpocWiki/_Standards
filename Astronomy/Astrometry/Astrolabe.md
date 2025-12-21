@@ -8,31 +8,31 @@ aliases:
   - Astrolabium
 has_id_wikidata: Q164992
 measures:
-  - "[[_Standards/WikiData/WD~distance,126017]]"
-  - "[[_Standards/WikiData/WD~height,208826]]"
-  - "[[_Standards/WikiData/WD~depth,930412]]"
-  - "[[_Standards/WikiData/WD~angle,11352]]"
+  - '[[_Standards/WikiData/WD~distance,126017]]'
+  - '[[_Standards/WikiData/WD~height,208826]]'
+  - '[[_Standards/WikiData/WD~depth,930412]]'
+  - '[[_Standards/WikiData/WD~angle,11352]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~astronomical_instrument,751997]]"
-  - "[[_Standards/WikiData/WD~inclinometer,827664]]"
-replaced_by: "[[_Standards/WikiData/WD~quadrant,841280]]"
-different_from: "[[_Standards/WikiData/WD~cosmolabe,5174329]]"
+  - '[[_Standards/WikiData/WD~astronomical_instrument,751997]]'
+  - '[[_Standards/WikiData/WD~inclinometer,827664]]'
+replaced_by: '[[_Standards/WikiData/WD~quadrant,841280]]'
+different_from: '[[_Standards/WikiData/WD~cosmolabe,5174329]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~rete,55436605]]"
-  - "[[_Standards/WikiData/WD~plate,56009710]]"
-  - "[[_Standards/WikiData/WD~mater,56009756]]"
-Nomenclature_for_Museum_Cataloging: "8357"
-OmegaWiki_Defined_Meaning: "663117"
+  - '[[_Standards/WikiData/WD~rete,55436605]]'
+  - '[[_Standards/WikiData/WD~plate,56009710]]'
+  - '[[_Standards/WikiData/WD~mater,56009756]]'
+Nomenclature_for_Museum_Cataloging: 8357
+OmegaWiki_Defined_Meaning: 663117
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Araign%C3%A9e%20moderne%20d%27astrolabe.png
   - http://commons.wikimedia.org/wiki/Special:FilePath/AstrolabBeschr.jpg
@@ -43,7 +43,7 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Drehbare%20Sternenkarte.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Planispheric%20astrolabe.png
 Iconclass_notation: 46C2823
-P8189: "987007294947805171"
+P8189: 987007294947805171
 Commons_gallery: Astrolabe
 Commons_category: Astrolabes
 Wolfram_Language_entity_code: Entity["MeasurementDevice", "Astrolabe"]

@@ -4,20 +4,22 @@ aliases:
   - update_action
   - UpdateAction
   - is_an_update_action
+  - Update_Action
+  - Update Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - update_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_update_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

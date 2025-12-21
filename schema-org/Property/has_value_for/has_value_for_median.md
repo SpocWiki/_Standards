@@ -3,21 +3,22 @@ aliases:
   - has median
   - has_median
   - has_value_for_median
+  - has value for median
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - median
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_median
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

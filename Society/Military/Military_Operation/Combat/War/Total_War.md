@@ -1,13 +1,15 @@
 ---
 aliases:
   - Totaler Krieg
+  - Total_War
+  - Total War
 has_id_wikidata: Q154605
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-different_from: "[[_Standards/WikiData/WD~absolute_war,4348173]]"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+different_from: '[[_Standards/WikiData/WD~absolute_war,4348173]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~warfare,12786121]]"
-  - "[[_Standards/WikiData/WD~war,198]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_war,124867660]]"
+  - '[[_Standards/WikiData/WD~warfare,12786121]]'
+  - '[[_Standards/WikiData/WD~war,198]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_war,124867660]]'
 ---
 
 # [[Total_War]] 

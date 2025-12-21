@@ -4,22 +4,24 @@ aliases:
   - body_location
   - bodyLocation
   - has_text_of_body_location
+  - has_body_location
+  - has body location
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - body
   - location
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_body_location
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

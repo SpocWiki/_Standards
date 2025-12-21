@@ -1,48 +1,50 @@
 ---
-excludes: 
+aliases:
+  - FileClass~EngineSpecification
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-- id: ooNWkC
-  name: EngineDisplacement
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: xqtiU2
-  name: EnginePower
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: Jb9TPB
-  name: EngineType
-  options: {}
-  type: Input
-  path: ''
-- id: I4m85V
-  name: FuelType
-  options: {}
-  type: Input
-  path: ''
-- id: VYa6ye
-  name: Torque
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
+  - id: ooNWkC
+    name: EngineDisplacement
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: xqtiU2
+    name: EnginePower
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: Jb9TPB
+    name: EngineType
+    options: {}
+    type: Input
+    path: ''
+  - id: I4m85V
+    name: FuelType
+    options: {}
+    type: Input
+    path: ''
+  - id: VYa6ye
+    name: Torque
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/EngineSpecification
-- class/Thing/Intangible/StructuredValue/EngineSpecification
-- is_an_/EngineSpecification
-- schema-org/EngineSpecification
+  - class/EngineSpecification
+  - class/Thing/Intangible/StructuredValue/EngineSpecification
+  - is_an_/EngineSpecification
+  - schema-org/EngineSpecification
 tags:
-- class/FileClass
-- class/EngineSpecification
-- '#is_an_/EngineSpecification'
-- class/Thing/Intangible/StructuredValue/EngineSpecification
+  - class/FileClass
+  - class/EngineSpecification
+  - '#is_an_/EngineSpecification'
+  - class/Thing/Intangible/StructuredValue/EngineSpecification
 version: 2.0
 ---
 

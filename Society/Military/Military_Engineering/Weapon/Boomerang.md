@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Boomerang
 has_id_wikidata: Q131536
 ---
 # [[Boomerang]] 

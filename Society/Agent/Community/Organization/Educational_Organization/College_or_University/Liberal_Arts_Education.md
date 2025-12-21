@@ -1,25 +1,27 @@
 ---
 aliases:
   - Liberal arts education
+  - Liberal_Arts_Education
+  - Liberal Arts Education
 has_id_wikidata: Q189329
 has_part_s_:
-  - "[[_Standards/WikiData/WD~trivium,205186]]"
-  - "[[_Standards/WikiData/WD~quadrivium,273822]]"
-subclass_of: "[[_Standards/WikiData/WD~curriculum,207137]]"
+  - '[[_Standards/WikiData/WD~trivium,205186]]'
+  - '[[_Standards/WikiData/WD~quadrivium,273822]]'
+subclass_of: '[[_Standards/WikiData/WD~curriculum,207137]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-depicted_by: "[[_Standards/WikiData/WD~Frieze_of_the_Liberal_and_Mechanical_Arts,3752977]]"
-different_from: "[[_Standards/WikiData/WD~Liberal_Arts,4137975]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+depicted_by: '[[_Standards/WikiData/WD~Frieze_of_the_Liberal_and_Mechanical_Arts,3752977]]'
+different_from: '[[_Standards/WikiData/WD~Liberal_Arts,4137975]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~heptad,29441572]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~liberal_arts,13539073]]"
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~heptad,29441572]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~liberal_arts,13539073]]'
 Library_of_Congress_Classification: LC1001-LC1024
 Commons_gallery: Liberal arts
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hortus%20Deliciarum%2C%20Die%20Philosophie%20mit%20den%20sieben%20freien%20K%C3%BCnsten.JPG

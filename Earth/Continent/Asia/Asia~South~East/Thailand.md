@@ -232,7 +232,7 @@ ethnic_group:
   - "[[_Standards/WikiData/WD~Thai_people,472834]]"
   - "[[_Standards/WikiData/WD~Burmese_in_Thailand,25045392]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Thailand,873675]]"
-expiryDate:
+expiryDate: ""
 female_population: 33819860
 FIPS_10_4_countries_and_regions_: TH
 flag: "[[_Standards/WikiData/WD~flag_of_Thailand,134885]]"
@@ -275,7 +275,7 @@ ISO_3166_1_alpha_3_code: THA
 ISO_3166_1_numeric_code: 764
 isReadOnly: false
 ITU_letter_code: THA
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/TAILAND.html
 Languages:
   - th
@@ -332,13 +332,13 @@ language_used:
   - "[[_Standards/WikiData/WD~Southern_Thai,56508]]"
   - "[[_Standards/WikiData/WD~Akha,56643]]"
   - "[[_Standards/WikiData/WD~Bisu,56852]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~National_Legislative_Assembly_of_Thailand_(2014),25352284]]"
 Libris_URI: fcrtsttz36c6892
 licence_plate_code: T
 license: CC BY-SA 4.0
 life_expectancy: 80
-linkTitle:
+linkTitle: ""
 literacy_rate: 93.8
 located_in_time_zone:
   - "[[_Standards/WikiData/WD~Asia_Bangkok,4806279]]"
@@ -412,7 +412,7 @@ permanent_duplicated_item:
 population: 66188503
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Thailand.ogg
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750]]"
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Thailand%20location%20relief%20map.svg
 religion_or_worldview:

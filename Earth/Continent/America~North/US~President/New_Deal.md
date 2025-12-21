@@ -1,39 +1,40 @@
 ---
 aliases:
   - New Deal
+  - New_Deal
 has_id_wikidata: Q186356
 has_characteristic:
-  - "[[_Standards/WikiData/WD~cartel,179216]]"
-  - "[[_Standards/WikiData/WD~fixed_price,1077369]]"
+  - '[[_Standards/WikiData/WD~cartel,179216]]'
+  - '[[_Standards/WikiData/WD~fixed_price,1077369]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Farm_Security_Administration,204493]]"
-  - "[[_Standards/WikiData/WD~Greenbelt,755877]]"
-  - "[[_Standards/WikiData/WD~Civilian_Conservation_Corps,1094508]]"
-  - "[[_Standards/WikiData/WD~Works_Progress_Administration,1200079]]"
-  - "[[_Standards/WikiData/WD~Greendale,2193397]]"
-  - "[[_Standards/WikiData/WD~Greenhills,2361579]]"
-  - "[[_Standards/WikiData/WD~Civil_Works_Administration,2974881]]"
-  - "[[_Standards/WikiData/WD~Federal_Emergency_Relief_Act,3067858]]"
-  - "[[_Standards/WikiData/WD~Federal_Emergency_Relief_Administration,3067870]]"
-  - "[[_Standards/WikiData/WD~United_States_Housing_Authority,3550737]]"
-  - "[[_Standards/WikiData/WD~Emergency_Relief_Appropriation_Act_of_1935,5370642]]"
-  - "[[_Standards/WikiData/WD~Federal_Works_Agency,5440506]]"
-  - "[[_Standards/WikiData/WD~Resettlement_Administration,7315356]]"
-  - "[[_Standards/WikiData/WD~Works_Progress_Administration_works_at_Arrow_Rock_State_Historic_Site,8035082]]"
-  - "[[_Standards/WikiData/WD~Greenbelt_town,56152103]]"
-  - "[[_Standards/WikiData/WD~Emergency_Conservation_Work,73524478]]"
-instance_of: "[[_Standards/WikiData/WD~public_policy,546113]]"
-subclass_of: "[[_Standards/WikiData/WD~economic_policy,582577]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_New_Deal,15107162]]"
-named_after: "[[_Standards/WikiData/WD~Franklin_Delano_Roosevelt,8007]]"
-location: "[[_Standards/WikiData/WD~United_States,30]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Farm_Security_Administration,204493]]'
+  - '[[_Standards/WikiData/WD~Greenbelt,755877]]'
+  - '[[_Standards/WikiData/WD~Civilian_Conservation_Corps,1094508]]'
+  - '[[_Standards/WikiData/WD~Works_Progress_Administration,1200079]]'
+  - '[[_Standards/WikiData/WD~Greendale,2193397]]'
+  - '[[_Standards/WikiData/WD~Greenhills,2361579]]'
+  - '[[_Standards/WikiData/WD~Civil_Works_Administration,2974881]]'
+  - '[[_Standards/WikiData/WD~Federal_Emergency_Relief_Act,3067858]]'
+  - '[[_Standards/WikiData/WD~Federal_Emergency_Relief_Administration,3067870]]'
+  - '[[_Standards/WikiData/WD~United_States_Housing_Authority,3550737]]'
+  - '[[_Standards/WikiData/WD~Emergency_Relief_Appropriation_Act_of_1935,5370642]]'
+  - '[[_Standards/WikiData/WD~Federal_Works_Agency,5440506]]'
+  - '[[_Standards/WikiData/WD~Resettlement_Administration,7315356]]'
+  - '[[_Standards/WikiData/WD~Works_Progress_Administration_works_at_Arrow_Rock_State_Historic_Site,8035082]]'
+  - '[[_Standards/WikiData/WD~Greenbelt_town,56152103]]'
+  - '[[_Standards/WikiData/WD~Emergency_Conservation_Work,73524478]]'
+instance_of: '[[_Standards/WikiData/WD~public_policy,546113]]'
+subclass_of: '[[_Standards/WikiData/WD~economic_policy,582577]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_New_Deal,15107162]]'
+named_after: '[[_Standards/WikiData/WD~Franklin_Delano_Roosevelt,8007]]'
+location: '[[_Standards/WikiData/WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 Commons_gallery: New Deal
 Commons_category: New Deal
-U_S_National_Archives_Identifier: "10642741"
+U_S_National_Archives_Identifier: 10642741
 image: http://commons.wikimedia.org/wiki/Special:FilePath/New%20Deal%20collage.jpg
 exact_match: https://data.bnf.fr/ark:/12148/cb12048266p
-RIA_Novosti_reference: "156850733"
+RIA_Novosti_reference: 156850733
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "NewDealInitiated"]
 DPLA_subject_term: New Deal, 1933-1939
 end_time: 1939-01-01T00:00:00Z

@@ -1,33 +1,34 @@
 ---
 aliases:
   - Phonetik
+  - Phonetics
 has_id_wikidata: Q35395
 part_of:
-  - "[[_Standards/WikiData/WD~acoustics,82811]]"
-  - "[[_Standards/WikiData/WD~neuroscience,207011]]"
-  - "[[_Standards/WikiData/WD~linguistics,8162]]"
+  - '[[_Standards/WikiData/WD~acoustics,82811]]'
+  - '[[_Standards/WikiData/WD~neuroscience,207011]]'
+  - '[[_Standards/WikiData/WD~linguistics,8162]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~language_subsystem,66745531]]"
-  - "[[_Standards/WikiData/WD~branch_of_linguistics,135892289]]"
-practiced_by: "[[_Standards/WikiData/WD~phonetician,47491160]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Phonetics,100740752]]"
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~language_subsystem,66745531]]'
+  - '[[_Standards/WikiData/WD~branch_of_linguistics,135892289]]'
+practiced_by: '[[_Standards/WikiData/WD~phonetician,47491160]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Phonetics,100740752]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~phonetics_and_speech_science,110761784]]"
-  - "[[_Standards/WikiData/WD~linguistics,8162]]"
-different_from: "[[_Standards/WikiData/WD~phonology,40998]]"
+  - '[[_Standards/WikiData/WD~phonetics_and_speech_science,110761784]]'
+  - '[[_Standards/WikiData/WD~linguistics,8162]]'
+different_from: '[[_Standards/WikiData/WD~phonology,40998]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Raplo%C3%BB%20Lile%20faflotaedje%20FEW.jpg
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Waveform%20spectrogram%20and%20transcription%20of%20wikipedia%20in%20praat.png
 Stack_Exchange_tag: https://linguistics.stackexchange.com/tags/phonetics
-Basisklassifikation: "17.53"
+Basisklassifikation: 17.53
 UMLS_CUI: C0037829
 MeSH_tree_code: L01.559.598.518
 Commons_category: Phonetics

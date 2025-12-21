@@ -1,34 +1,35 @@
 ---
 aliases:
   - United Nations Secretariat
+  - United_Nations_Secretariat
 has_id_wikidata: Q220563
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~United_Nations_Secretary_General,81066]]"
-official_observer_status_in_organization: "[[_Standards/WikiData/WD~Pacific_Islands_Forum,757276]]"
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~United_Nations_Secretary_General,81066]]'
+official_observer_status_in_organization: '[[_Standards/WikiData/WD~Pacific_Islands_Forum,757276]]'
 part_of:
-  - "[[_Standards/WikiData/WD~United_Nations_System,854218]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - '[[_Standards/WikiData/WD~United_Nations_System,854218]]'
+  - '[[_Standards/WikiData/WD~United_Nations,1065]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~secretariat,859482]]"
-  - "[[_Standards/WikiData/WD~principal_organ_of_the_United_Nations,15899789]]"
+  - '[[_Standards/WikiData/WD~secretariat,859482]]'
+  - '[[_Standards/WikiData/WD~principal_organ_of_the_United_Nations,15899789]]'
 child_organization_or_unit:
-  - "[[_Standards/WikiData/WD~United_Nations_Department_of_Political_and_Peacebuilding_Affairs,1103982]]"
-  - "[[_Standards/WikiData/WD~Office_of_the_Spokesperson_for_the_Secretary_General,17092126]]"
-  - "[[_Standards/WikiData/WD~United_Nations_Office_for_Digital_and_Emerging_Technologies,135418656]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - '[[_Standards/WikiData/WD~United_Nations_Department_of_Political_and_Peacebuilding_Affairs,1103982]]'
+  - '[[_Standards/WikiData/WD~Office_of_the_Spokesperson_for_the_Secretary_General,17092126]]'
+  - '[[_Standards/WikiData/WD~United_Nations_Office_for_Digital_and_Emerging_Technologies,135418656]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~United_Nations,1065]]'
 headquarters_location:
-  - "[[_Standards/WikiData/WD~Vienna,1741]]"
-  - "[[_Standards/WikiData/WD~New_York_City,60]]"
-  - "[[_Standards/WikiData/WD~Geneva,71]]"
+  - '[[_Standards/WikiData/WD~Vienna,1741]]'
+  - '[[_Standards/WikiData/WD~New_York_City,60]]'
+  - '[[_Standards/WikiData/WD~Geneva,71]]'
 official_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
 ISNI:
-  - "0000000403844639"
-  - "0000000121652954"
+  - 0000000403844639
+  - 0000000121652954
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/UN%20emblem%20blue.svg
 inception: 1945-01-01T00:00:00Z
 official_website: https://www.un.org/about-us/secretariat
-P1015: "90052249"
+P1015: 90052249
 Commons_category: United Nations Secretariat
 EU_Corporate_body_code: UNSEC
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Headquarters%20of%20the%20United%20Nations%2C%20New%20York%20City%2C%2020231001%201103%201007.jpg

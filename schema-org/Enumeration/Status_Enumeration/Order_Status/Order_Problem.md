@@ -4,21 +4,23 @@ aliases:
   - order_problem
   - OrderProblem
   - is_an_order_problem
+  - Order_Problem
+  - Order Problem
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: OrderStatus
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - order_problem
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_order_problem Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

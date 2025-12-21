@@ -1,23 +1,24 @@
 ---
 aliases:
   - Verwandschaft
+  - Kinship
 has_id_wikidata: Q171318
-subclass_of: "[[_Standards/WikiData/WD~interpersonal_relationship,223642]]"
+subclass_of: '[[_Standards/WikiData/WD~interpersonal_relationship,223642]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 including:
-  - "[[_Standards/WikiData/WD~consanguinity,774347]]"
-  - "[[_Standards/WikiData/WD~in_law_family,19822449]]"
+  - '[[_Standards/WikiData/WD~consanguinity,774347]]'
+  - '[[_Standards/WikiData/WD~in_law_family,19822449]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~kinship_relation,1199677]]"
-  - "[[_Standards/WikiData/WD~degree_of_kinship,5555733]]"
-different_from: "[[_Standards/WikiData/WD~relative,12758374]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q124650539,124650539]]"
+  - '[[_Standards/WikiData/WD~kinship_relation,1199677]]'
+  - '[[_Standards/WikiData/WD~degree_of_kinship,5555733]]'
+different_from: '[[_Standards/WikiData/WD~relative,12758374]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q124650539,124650539]]'
 Wikidata_property:
   - kinship to subject
   - relative

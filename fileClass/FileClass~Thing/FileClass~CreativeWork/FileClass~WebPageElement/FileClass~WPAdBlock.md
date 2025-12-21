@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~WPAdBlock
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/WPAdBlock
-- class/Thing/CreativeWork/WebPageElement/WPAdBlock
-- is_a_/WPAdBlock
-- schema-org/WPAdBlock
+  - class/WPAdBlock
+  - class/Thing/CreativeWork/WebPageElement/WPAdBlock
+  - is_a_/WPAdBlock
+  - schema-org/WPAdBlock
 tags:
-- class/FileClass
-- class/WPAdBlock
-- is_a_/WPAdBlock
-- class/Thing/CreativeWork/WebPageElement/WPAdBlock
+  - class/FileClass
+  - class/WPAdBlock
+  - is_a_/WPAdBlock
+  - class/Thing/CreativeWork/WebPageElement/WPAdBlock
 version: 2.0
 ---
 

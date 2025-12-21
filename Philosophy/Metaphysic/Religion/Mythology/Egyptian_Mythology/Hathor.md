@@ -6,6 +6,7 @@ aliases:
   - Hathōr
   - ϩⲁⲑⲱⲣ
   - 𐦠𐦴𐦫𐦢‎
+  - Hathor
 has_id_wikidata: Q133343
 spouse:
   - "[[_Standards/WikiData/WD~Horus,84122]]"
@@ -31,7 +32,7 @@ said_to_be_the_same_as: "[[_Standards/WikiData/WD~Ba_alat_Gebal,2223705]]"
 sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
 Commons_category: Hathor
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hathor.svg
-ISNI: "0000000467615130"
+ISNI: 467615130
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/HATHOR.html
 ---
 

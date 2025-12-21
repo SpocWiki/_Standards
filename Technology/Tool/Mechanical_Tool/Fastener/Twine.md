@@ -1,14 +1,15 @@
 ---
 aliases:
   - Zwirn
+  - Twine
 has_id_wikidata: Q762984
-different_from: "[[_Standards/WikiData/WD~Twine,2184673]]"
-greater_than: "[[_Standards/WikiData/WD~string,11064354]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
-subclass_of: "[[_Standards/WikiData/WD~cord,111726451]]"
-less_than: "[[_Standards/WikiData/WD~rope,31029]]"
-Nomenclature_for_Museum_Cataloging: "6550"
+different_from: '[[_Standards/WikiData/WD~Twine,2184673]]'
+greater_than: '[[_Standards/WikiData/WD~string,11064354]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+subclass_of: '[[_Standards/WikiData/WD~cord,111726451]]'
+less_than: '[[_Standards/WikiData/WD~rope,31029]]'
+Nomenclature_for_Museum_Cataloging: 6550
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bindfaden.jpg
 Commons_category: Twine
 ---

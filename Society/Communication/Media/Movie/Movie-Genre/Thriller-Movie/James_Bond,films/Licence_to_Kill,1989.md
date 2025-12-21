@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Licence to Kill"
+  - Licence to Kill
+  - Licence_to_Kill,1989
+  - Licence to Kill,1989
 ---
 
 ## #has_/text_of_/abstract 

@@ -4,20 +4,22 @@ aliases:
   - adult_oriented_enumeration
   - AdultOrientedEnumeration
   - is_an_adult_oriented_enumeration
+  - Adult_Oriented_Enumeration
+  - Adult Oriented Enumeration
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - adult_oriented_enumeration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_adult_oriented_enumeration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

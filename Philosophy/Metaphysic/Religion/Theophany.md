@@ -1,13 +1,14 @@
 ---
 aliases:
   - Theophanie
+  - Theophany
 has_id_wikidata: Q899918
-different_from: "[[_Standards/WikiData/WD~Teofánia,588617]]"
+different_from: '[[_Standards/WikiData/WD~Teofánia,588617]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-subclass_of: "[[_Standards/WikiData/WD~apparition,57199699]]"
-manifestation_of: "[[_Standards/WikiData/WD~God,190]]"
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+subclass_of: '[[_Standards/WikiData/WD~apparition,57199699]]'
+manifestation_of: '[[_Standards/WikiData/WD~God,190]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rubens-Death-of-Semele.jpg
 Commons_category: Theophanies
 Stack_Exchange_tag: https://hermeneutics.stackexchange.com/tags/theophany

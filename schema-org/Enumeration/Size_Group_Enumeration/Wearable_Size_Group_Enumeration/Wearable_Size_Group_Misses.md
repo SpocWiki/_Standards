@@ -4,21 +4,23 @@ aliases:
   - wearable_size_group_misses
   - WearableSizeGroupMisses
   - is_a_wearable_size_group_misses
+  - Wearable_Size_Group_Misses
+  - Wearable Size Group Misses
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableSizeGroupEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_size_group_misses
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_size_group_misses Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

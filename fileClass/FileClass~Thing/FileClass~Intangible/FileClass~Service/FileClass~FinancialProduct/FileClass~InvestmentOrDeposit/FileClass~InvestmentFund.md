@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~InvestmentFund
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/InvestmentFund
-- class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/InvestmentFund
-- is_an_/InvestmentFund
-- schema-org/InvestmentFund
+  - class/InvestmentFund
+  - class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/InvestmentFund
+  - is_an_/InvestmentFund
+  - schema-org/InvestmentFund
 tags:
-- class/FileClass
-- class/InvestmentFund
-- '#is_an_/InvestmentFund'
-- class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/InvestmentFund
+  - class/FileClass
+  - class/InvestmentFund
+  - '#is_an_/InvestmentFund'
+  - class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/InvestmentFund
 version: 2.0
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
   - Human nature
+  - Human_Nature
+  - Human Nature
 has_id_wikidata: Q742609
 instance_of:
-  - "[[_Standards/WikiData/WD~essence,190995]]"
-  - "[[_Standards/WikiData/WD~nature,115519012]]"
+  - '[[_Standards/WikiData/WD~essence,190995]]'
+  - '[[_Standards/WikiData/WD~nature,115519012]]'
 different_from:
-  - "[[_Standards/WikiData/WD~nature,1078867]]"
-  - "[[_Standards/WikiData/WD~human_condition,1124515]]"
-  - "[[_Standards/WikiData/WD~humanity,1156970]]"
+  - '[[_Standards/WikiData/WD~nature,1078867]]'
+  - '[[_Standards/WikiData/WD~human_condition,1124515]]'
+  - '[[_Standards/WikiData/WD~humanity,1156970]]'
 part_of:
-  - "[[_Standards/WikiData/WD~human_condition,1124515]]"
-  - "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~human_condition,1124515]]'
+  - '[[_Standards/WikiData/WD~human,5]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~humanitas,1260024]]"
-  - "[[_Standards/WikiData/WD~humanity,12767209]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Q6173448,6173448]]"
+  - '[[_Standards/WikiData/WD~humanitas,1260024]]'
+  - '[[_Standards/WikiData/WD~humanity,12767209]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Q6173448,6173448]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~psychology,9418]]"
-  - "[[_Standards/WikiData/WD~social_science,34749]]"
-facet_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~philosophy,5891]]'
+  - '[[_Standards/WikiData/WD~psychology,9418]]'
+  - '[[_Standards/WikiData/WD~social_science,34749]]'
+facet_of: '[[_Standards/WikiData/WD~human,5]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Da%20Vinci%20Vitruve%20Luc%20Viatour.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Arecibo%20message%20part%205.png

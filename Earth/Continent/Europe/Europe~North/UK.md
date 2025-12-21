@@ -1,10 +1,15 @@
 ---
+aliases:
+  - Great Britain
+  - United Kingdom
+  - Britain
+  - UK
+has_id_wikidata: Q145
 title: UK
 type: Country
 location:
   - 52.8829
   - -2.14482
-has_id_wikidata: Q145
 SpocWebEntityId: 26899
 tags:
   - geo/Country
@@ -16,16 +21,12 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Great Britain
-  - United Kingdom
-  - Britain
+publishDate: ""
+expiryDate: ""
 icon: flag-gb
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"

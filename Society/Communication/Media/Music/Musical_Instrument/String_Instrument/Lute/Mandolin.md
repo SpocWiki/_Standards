@@ -2,40 +2,41 @@
 aliases:
   - mandolino
   - Mandoline
+  - Mandolin
 has_id_wikidata: Q302497
 different_from:
-  - "[[_Standards/WikiData/WD~mandola,74207]]"
-  - "[[_Standards/WikiData/WD~Bandolim,2882376]]"
-  - "[[_Standards/WikiData/WD~bandolin,4854663]]"
-  - "[[_Standards/WikiData/WD~Bandolina,5719028]]"
-  - "[[_Standards/WikiData/WD~bandolin,16837625]]"
-  - "[[_Standards/WikiData/WD~Tachirean_bandolin,42912610]]"
+  - '[[_Standards/WikiData/WD~mandola,74207]]'
+  - '[[_Standards/WikiData/WD~Bandolim,2882376]]'
+  - '[[_Standards/WikiData/WD~bandolin,4854663]]'
+  - '[[_Standards/WikiData/WD~Bandolina,5719028]]'
+  - '[[_Standards/WikiData/WD~bandolin,16837625]]'
+  - '[[_Standards/WikiData/WD~Tachirean_bandolin,42912610]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Pierrot_playing_the_mandolin,17495004]]"
-  - "[[_Standards/WikiData/WD~The_Mandolin_Player,63351775]]"
-  - "[[_Standards/WikiData/WD~Lady_Playing_a_Mandolin,63364453]]"
-used_by: "[[_Standards/WikiData/WD~mandolinist,19723482]]"
-award_received: "[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]"
-subclass_of: "[[_Standards/WikiData/WD~necked_bowl_lutes_sounded_by_plectrum,57315360]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
-country: "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
-Nomenclature_for_Museum_Cataloging: "10809"
-OmegaWiki_Defined_Meaning: "405743"
+  - '[[_Standards/WikiData/WD~Pierrot_playing_the_mandolin,17495004]]'
+  - '[[_Standards/WikiData/WD~The_Mandolin_Player,63351775]]'
+  - '[[_Standards/WikiData/WD~Lady_Playing_a_Mandolin,63364453]]'
+used_by: '[[_Standards/WikiData/WD~mandolinist,19723482]]'
+award_received: '[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]'
+subclass_of: '[[_Standards/WikiData/WD~necked_bowl_lutes_sounded_by_plectrum,57315360]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+country: '[[_Standards/WikiData/WD~Sri_Lanka,854]]'
+Nomenclature_for_Museum_Cataloging: 10809
+OmegaWiki_Defined_Meaning: 405743
 Commons_gallery: Mandolin
 Hornbostel_Sachs_classification: 321.321-6
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mandolin1.jpg
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Range%20mandolin.PNG
-U_S_National_Archives_Identifier: "10645666"
-Amazon_com_browse_node: "11971481"
+U_S_National_Archives_Identifier: 10645666
+Amazon_com_browse_node: 11971481
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/MANDOLINA.html
 Commons_category: Mandolins
 ---

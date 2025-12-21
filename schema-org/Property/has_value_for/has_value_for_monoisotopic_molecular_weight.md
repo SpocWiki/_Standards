@@ -4,21 +4,22 @@ aliases:
   - monoisotopic-molecular-weight
   - monoisotopicMolecularWeight
   - has_value_for_monoisotopic_molecular_weight
+  - has value for monoisotopic molecular weight
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - monoisotopic-molecular-weight
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_monoisotopic-molecular-weight
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

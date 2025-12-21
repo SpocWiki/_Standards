@@ -3,12 +3,13 @@ aliases:
   - has serious-adverse-outcome
   - seriousAdverseOutcome
   - has_serious_adverse_outcome
+  - has serious adverse outcome
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - serious
   - adverse
   - outcome
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_serious_adverse_outcome
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

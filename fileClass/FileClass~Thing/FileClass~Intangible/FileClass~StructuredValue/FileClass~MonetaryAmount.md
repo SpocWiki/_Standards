@@ -1,54 +1,56 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MonetaryAmount
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-- id: idY0hK
-  name: Currency
-  options: {}
-  type: Input
-  path: ''
-- id: xrYIVv
-  name: MaxValue
-  options: {}
-  type: Number
-  path: ''
-- id: JHL6Lv
-  name: MinValue
-  options: {}
-  type: Number
-  path: ''
-- id: Kwyej2
-  name: ValidFrom
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: K8INhu
-  name: ValidThrough
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: 77Y376
-  name: Value
-  options: {}
-  type: Boolean
-  path: ''
+  - id: idY0hK
+    name: Currency
+    options: {}
+    type: Input
+    path: ''
+  - id: xrYIVv
+    name: MaxValue
+    options: {}
+    type: Number
+    path: ''
+  - id: JHL6Lv
+    name: MinValue
+    options: {}
+    type: Number
+    path: ''
+  - id: Kwyej2
+    name: ValidFrom
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: K8INhu
+    name: ValidThrough
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: 77Y376
+    name: Value
+    options: {}
+    type: Boolean
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MonetaryAmount
-- class/Thing/Intangible/StructuredValue/MonetaryAmount
-- is_a_/MonetaryAmount
-- schema-org/MonetaryAmount
+  - class/MonetaryAmount
+  - class/Thing/Intangible/StructuredValue/MonetaryAmount
+  - is_a_/MonetaryAmount
+  - schema-org/MonetaryAmount
 tags:
-- class/FileClass
-- class/MonetaryAmount
-- is_a_/MonetaryAmount
-- class/Thing/Intangible/StructuredValue/MonetaryAmount
+  - class/FileClass
+  - class/MonetaryAmount
+  - is_a_/MonetaryAmount
+  - class/Thing/Intangible/StructuredValue/MonetaryAmount
 version: 2.0
 ---
 

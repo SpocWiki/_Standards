@@ -2,51 +2,52 @@
 aliases:
   - Freimaurer
   - Free-Masonry
+  - Freemasonry
 has_id_wikidata: Q41726
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Freemasonry,153704]]"
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Freemasonry,153704]]'
 named_after:
-  - "[[_Standards/WikiData/WD~masonry,272999]]"
-  - "[[_Standards/WikiData/WD~liberty,2979]]"
+  - '[[_Standards/WikiData/WD~masonry,272999]]'
+  - '[[_Standards/WikiData/WD~liberty,2979]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
-  - "[[_Standards/WikiData/WD~Black_book_Freemasonry,81826980]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+  - '[[_Standards/WikiData/WD~Black_book_Freemasonry,81826980]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~social_group,874405]]"
-  - "[[_Standards/WikiData/WD~fraternal_organization,996839]]"
-has_part_s_: "[[_Standards/WikiData/WD~Grand_Lodge,1378781]]"
-opposite_of: "[[_Standards/WikiData/WD~anti_Masonry,2275310]]"
-studied_by: "[[_Standards/WikiData/WD~Masonic_studies,3303205]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Freemasonry_sidebar,9015390]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Freemasonry,11441217]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Freemasons,12347929]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Freemasonry,15304997]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~Freemason,23305046]]"
+  - '[[_Standards/WikiData/WD~social_group,874405]]'
+  - '[[_Standards/WikiData/WD~fraternal_organization,996839]]'
+has_part_s_: '[[_Standards/WikiData/WD~Grand_Lodge,1378781]]'
+opposite_of: '[[_Standards/WikiData/WD~anti_Masonry,2275310]]'
+studied_by: '[[_Standards/WikiData/WD~Masonic_studies,3303205]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Freemasonry_sidebar,9015390]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Freemasonry,11441217]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Freemasons,12347929]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Freemasonry,15304997]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~Freemason,23305046]]'
 inception: 1717-01-01T00:00:00Z
-location_of_formation: "[[_Standards/WikiData/WD~London,84]]"
-Dewey_Decimal_Classification: "366.1"
-OmegaWiki_Defined_Meaning: "397358"
+location_of_formation: '[[_Standards/WikiData/WD~London,84]]'
+Dewey_Decimal_Classification: 366.1
+OmegaWiki_Defined_Meaning: 397358
 transliteration_or_transcription:
   - Freimaurerei
   - Franc-maçonnerie
   - Ελευθεροτεκτονισμός
 official_name: Freemasonry
-Basisklassifikation: "02.60"
-U_S_National_Archives_Identifier: "10638657"
+Basisklassifikation: 02.60
+U_S_National_Archives_Identifier: 10638657
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Square%20and%20Compasses.svg
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%B5%CF%81%CE%BF%CF%84%CE%B5%CE%BA%CF%84%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CF%8C%CF%82.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Freemasonry.ogg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Emblematic%20Structure%20of%20Freemasonry.gif
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Palazzo%20Roffia%2C%20galleria%2000.JPG
-ISNI: "0000000111459966"
+ISNI: 0000000111459966
 Iconclass_notation: 12U(FREEMASONRY)
 Commons_category: Freemasonry
 Library_of_Congress_Classification: HS351-HS929

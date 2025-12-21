@@ -2,45 +2,46 @@
 aliases:
   - Entwaldung
   - Waldrodung
+  - Deforestation
 has_id_wikidata: Q169940
 has_effect:
-  - "[[_Standards/WikiData/WD~extinction,123509]]"
-  - "[[_Standards/WikiData/WD~climate_change,125928]]"
-  - "[[_Standards/WikiData/WD~wildfire,169950]]"
-  - "[[_Standards/WikiData/WD~zoonosis,182672]]"
-  - "[[_Standards/WikiData/WD~desertification,183481]]"
-  - "[[_Standards/WikiData/WD~habitat_destruction,552431]]"
-  - "[[_Standards/WikiData/WD~soil_erosion,889503]]"
-  - "[[_Standards/WikiData/WD~biodiversity_loss,18466271]]"
-  - "[[_Standards/WikiData/WD~global_warming,7942]]"
+  - '[[_Standards/WikiData/WD~extinction,123509]]'
+  - '[[_Standards/WikiData/WD~climate_change,125928]]'
+  - '[[_Standards/WikiData/WD~wildfire,169950]]'
+  - '[[_Standards/WikiData/WD~zoonosis,182672]]'
+  - '[[_Standards/WikiData/WD~desertification,183481]]'
+  - '[[_Standards/WikiData/WD~habitat_destruction,552431]]'
+  - '[[_Standards/WikiData/WD~soil_erosion,889503]]'
+  - '[[_Standards/WikiData/WD~biodiversity_loss,18466271]]'
+  - '[[_Standards/WikiData/WD~global_warming,7942]]'
 has_contributing_factor:
-  - "[[_Standards/WikiData/WD~urbanization,161078]]"
-  - "[[_Standards/WikiData/WD~grazing,3239189]]"
-studied_by: "[[_Standards/WikiData/WD~environmental_science,188847]]"
-subclass_of: "[[_Standards/WikiData/WD~human_impact_on_the_environment,574376]]"
-opposite_of: "[[_Standards/WikiData/WD~reforestation,815818]]"
+  - '[[_Standards/WikiData/WD~urbanization,161078]]'
+  - '[[_Standards/WikiData/WD~grazing,3239189]]'
+studied_by: '[[_Standards/WikiData/WD~environmental_science,188847]]'
+subclass_of: '[[_Standards/WikiData/WD~human_impact_on_the_environment,574376]]'
+opposite_of: '[[_Standards/WikiData/WD~reforestation,815818]]'
 followed_by:
-  - "[[_Standards/WikiData/WD~reforestation,815818]]"
-  - "[[_Standards/WikiData/WD~tillage,878333]]"
+  - '[[_Standards/WikiData/WD~reforestation,815818]]'
+  - '[[_Standards/WikiData/WD~tillage,878333]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~logging,845249]]"
-  - "[[_Standards/WikiData/WD~effects_of_climate_change,1430548]]"
-  - "[[_Standards/WikiData/WD~agricultural_expansion,55603353]]"
-  - "[[_Standards/WikiData/WD~mining,44497]]"
+  - '[[_Standards/WikiData/WD~logging,845249]]'
+  - '[[_Standards/WikiData/WD~effects_of_climate_change,1430548]]'
+  - '[[_Standards/WikiData/WD~agricultural_expansion,55603353]]'
+  - '[[_Standards/WikiData/WD~mining,44497]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~process,3249551]]"
-  - "[[_Standards/WikiData/WD~resource_depletion,3737914]]"
-  - "[[_Standards/WikiData/WD~removal,23009442]]"
+  - '[[_Standards/WikiData/WD~process,3249551]]'
+  - '[[_Standards/WikiData/WD~resource_depletion,3737914]]'
+  - '[[_Standards/WikiData/WD~removal,23009442]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~land_development,6484056]]"
-  - "[[_Standards/WikiData/WD~deforestation_and_climate_change,18350987]]"
-  - "[[_Standards/WikiData/WD~forest,4421]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Deforestation,20376446]]"
-relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiData/WD~Target_15.2_of_the_Sustainable_Development_Goals,57590905]]"
-described_by_source: "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
-OmegaWiki_Defined_Meaning: "861"
-U_S_National_Archives_Identifier: "10637492"
+  - '[[_Standards/WikiData/WD~land_development,6484056]]'
+  - '[[_Standards/WikiData/WD~deforestation_and_climate_change,18350987]]'
+  - '[[_Standards/WikiData/WD~forest,4421]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Deforestation,20376446]]'
+relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_15.2_of_the_Sustainable_Development_Goals,57590905]]'
+described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
+OmegaWiki_Defined_Meaning: 861
+U_S_National_Archives_Identifier: 10637492
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Amazon%20Rainforest%2C%20Brazil%20Timelapse%201984-2018.gif
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Deforestacja%20RioBranco.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Ontbossing-article.ogg

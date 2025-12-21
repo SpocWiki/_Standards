@@ -2,20 +2,21 @@
 aliases:
   - Rodeln
   - Schlitten
+  - Luge
 has_id_wikidata: Q273285
 subclass_of:
-  - "[[_Standards/WikiData/WD~winter_sport,204686]]"
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~sledding,3266340]]"
-authority: "[[_Standards/WikiData/WD~International_Luge_Federation,1150390]]"
-different_from: "[[_Standards/WikiData/WD~sledding,3266340]]"
-derivative_work: "[[_Standards/WikiData/WD~alpine_slide,3266345]]"
-practiced_by: "[[_Standards/WikiData/WD~luger,13382981]]"
+  - '[[_Standards/WikiData/WD~winter_sport,204686]]'
+  - '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+  - '[[_Standards/WikiData/WD~sledding,3266340]]'
+authority: '[[_Standards/WikiData/WD~International_Luge_Federation,1150390]]'
+different_from: '[[_Standards/WikiData/WD~sledding,3266340]]'
+derivative_work: '[[_Standards/WikiData/WD~alpine_slide,3266345]]'
+practiced_by: '[[_Standards/WikiData/WD~luger,13382981]]'
 uses:
-  - "[[_Standards/WikiData/WD~luge_sled,49069244]]"
-  - "[[_Standards/WikiData/WD~luge_track,50079928]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-Nomenclature_for_Museum_Cataloging: "14645"
+  - '[[_Standards/WikiData/WD~luge_sled,49069244]]'
+  - '[[_Standards/WikiData/WD~luge_track,50079928]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+Nomenclature_for_Museum_Cataloging: 14645
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Luge%20pictogram.svg
 Commons_category: Luge
 image: http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%A9part%20d%27un%20lugeur.jpg

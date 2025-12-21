@@ -4,21 +4,23 @@ aliases:
   - parental_support
   - ParentalSupport
   - is_a_parental_support
+  - Parental_Support
+  - Parental Support
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: GovernmentBenefitsType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - parental_support
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_parental_support Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

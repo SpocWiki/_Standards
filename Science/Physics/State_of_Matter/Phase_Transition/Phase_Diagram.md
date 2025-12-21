@@ -1,10 +1,12 @@
 ---
 aliases:
   - Phasendiagramm
+  - Phase_Diagram
+  - Phase Diagram
 has_id_wikidata: Q186693
-depicts: "[[_Standards/WikiData/WD~phase_change,185357]]"
-studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
-subclass_of: "[[_Standards/WikiData/WD~chart,28923]]"
+depicts: '[[_Standards/WikiData/WD~phase_change,185357]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+subclass_of: '[[_Standards/WikiData/WD~chart,28923]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%AE%D8%B7%D8%B7%20%D8%AD%D8%A7%D9%84%D8%A9%20%D8%A7%D9%84%D9%85%D8%A7%D8%AF%D8%A9.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%A6%E0%A6%B6%E0%A6%BE%20%E0%A6%B0%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0.svg

@@ -4,21 +4,23 @@ aliases:
   - risks_or_complications_health_aspect
   - RisksOrComplicationsHealthAspect
   - is_a_risks_or_complications_health_aspect
+  - Risks_or_Complications_Health_Aspect
+  - Risks or Complications Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - risks_or_complications_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_risks_or_complications_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

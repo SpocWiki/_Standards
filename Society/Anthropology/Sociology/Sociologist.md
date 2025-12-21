@@ -1,6 +1,7 @@
 ---
 aliases:
-- Sociologists
+  - Sociologists
+  - Sociologist
 ---
 
 # [[Sociologist]] 

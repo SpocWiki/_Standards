@@ -4,21 +4,23 @@ aliases:
   - hearing_impaired_supported
   - HearingImpairedSupported
   - is_a_hearing_impaired_supported
+  - Hearing_Impaired_Supported
+  - Hearing Impaired Supported
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: ContactPointOption
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - hearing_impaired_supported
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_hearing_impaired_supported Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

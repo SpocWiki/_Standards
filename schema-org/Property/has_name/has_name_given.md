@@ -1,29 +1,30 @@
 ---
 aliases:
-- given-name
-- name_given
-- givenName
-- has_name_given
-- "first name"
+  - given-name
+  - name_given
+  - givenName
+  - has_name_given
+  - first name
+  - has name given
 confidential: public
 cssclasses:
-- Predicate
-- Text
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- given
-- name
-layout: 
-license: "CC BY-SA 4.0"
+  - given
+  - name
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_name_given
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_name_given
 type: Pred_Text
 ---

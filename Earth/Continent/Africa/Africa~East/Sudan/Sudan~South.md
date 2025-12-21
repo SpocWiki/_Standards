@@ -9,6 +9,7 @@ aliases:
   - the Republic of South Sudan
   - la República de Sudán del Sur
   - South_Sudan
+  - Sudan~South
 has_id_wikidata: Q958
 instance_of:
   - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
@@ -339,12 +340,12 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 tags:
   - geo/Country
 Languages:

@@ -5,20 +5,21 @@ aliases:
   - personal identification number
   - PIN
   - passphrase
+  - Password
 has_id_wikidata: Q161157
 subclass_of:
-  - "[[_Standards/WikiData/WD~string,184754]]"
-  - "[[_Standards/WikiData/WD~shared_secret,462624]]"
-  - "[[_Standards/WikiData/WD~personal_data,3702971]]"
-  - "[[_Standards/WikiData/WD~Q13118563,13118563]]"
-has_use: "[[_Standards/WikiData/WD~authentication,212108]]"
+  - '[[_Standards/WikiData/WD~string,184754]]'
+  - '[[_Standards/WikiData/WD~shared_secret,462624]]'
+  - '[[_Standards/WikiData/WD~personal_data,3702971]]'
+  - '[[_Standards/WikiData/WD~Q13118563,13118563]]'
+has_use: '[[_Standards/WikiData/WD~authentication,212108]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Security_Engineering_A_Guide_to_Building_Dependable_Distributed_Systems,_2nd_edition,47482102]]"
+  - '[[_Standards/WikiData/WD~Security_Engineering_A_Guide_to_Building_Dependable_Distributed_Systems,_2nd_edition,47482102]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Senha,21436935]]"
-  - "[[_Standards/WikiData/WD~passkey,118213879]]"
-facet_of: "[[_Standards/WikiData/WD~username_password_authentication,115274073]]"
+  - '[[_Standards/WikiData/WD~Senha,21436935]]'
+  - '[[_Standards/WikiData/WD~passkey,118213879]]'
+facet_of: '[[_Standards/WikiData/WD~username_password_authentication,115274073]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Passwort-Feld.png
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Unknackbar%20aber%20einfach%20zu%20merken%21%20-%20Passw%C3%B6rter%20Einfach%20Erkl%C3%A4rt%20%281-5%29.webm
 equivalent_class: http://d3fend.mitre.org/ontologies/d3fend.owl#Password

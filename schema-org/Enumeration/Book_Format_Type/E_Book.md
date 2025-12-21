@@ -4,21 +4,23 @@ aliases:
   - e_book
   - EBook
   - is_an_e_book
+  - E_Book
+  - E Book
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: BookFormatType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - e_book
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_e_book Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

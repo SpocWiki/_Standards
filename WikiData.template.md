@@ -1,4 +1,6 @@
 ---
+aliases:
+  - WikiData.template
 has_id_wikidata: Q{{id}}
 ---
 

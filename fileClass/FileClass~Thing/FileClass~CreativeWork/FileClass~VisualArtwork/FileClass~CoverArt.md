@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CoverArt
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CoverArt
-- class/Thing/CreativeWork/VisualArtwork/CoverArt
-- is_a_/CoverArt
-- schema-org/CoverArt
+  - class/CoverArt
+  - class/Thing/CreativeWork/VisualArtwork/CoverArt
+  - is_a_/CoverArt
+  - schema-org/CoverArt
 tags:
-- class/FileClass
-- class/CoverArt
-- is_a_/CoverArt
-- class/Thing/CreativeWork/VisualArtwork/CoverArt
+  - class/FileClass
+  - class/CoverArt
+  - is_a_/CoverArt
+  - class/Thing/CreativeWork/VisualArtwork/CoverArt
 version: 2.0
 ---
 

@@ -1,25 +1,25 @@
 ---
 aliases:
-- has_creator
-- "has creator"
+  - has_creator
+  - has creator
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- creator
-layout: 
-license: "CC BY-SA 4.0"
+  - creator
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_creator
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_creator
 type: Predi_Relation
 ---

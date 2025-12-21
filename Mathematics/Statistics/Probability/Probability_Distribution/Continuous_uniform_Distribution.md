@@ -1,16 +1,18 @@
 ---
 aliases:
-  - continuous uniform distributions 
+  - continuous uniform distributions
   - rectangular distributions
+  - Continuous_uniform_Distribution
+  - Continuous uniform Distribution
 has_id_wikidata: Q274506
 subclass_of:
-  - "[[_Standards/WikiData/WD~location_scale_family,6664772]]"
-  - "[[_Standards/WikiData/WD~univariate_probability_distribution,7893853]]"
-  - "[[_Standards/WikiData/WD~symmetric_probability_distribution,16000505]]"
-  - "[[_Standards/WikiData/WD~multivariate_continuous_uniform_distribution,113469037]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-different_from: "[[_Standards/WikiData/WD~uniform_distribution,59394126]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]"
+  - '[[_Standards/WikiData/WD~location_scale_family,6664772]]'
+  - '[[_Standards/WikiData/WD~univariate_probability_distribution,7893853]]'
+  - '[[_Standards/WikiData/WD~symmetric_probability_distribution,16000505]]'
+  - '[[_Standards/WikiData/WD~multivariate_continuous_uniform_distribution,113469037]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+different_from: '[[_Standards/WikiData/WD~uniform_distribution,59394126]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
 median_of_a_probability_distribution: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>a</mi><mo stretchy="false">+</mo><mi>b</mi></mrow></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></mfrac></mrow></mstyle></mrow></math>
 mean_of_a_probability_distribution: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>a</mi><mo stretchy="false">+</mo><mi>b</mi></mrow></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></mfrac></mrow></mstyle></mrow></math>
 variance_of_a_probability_distribution: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mi>b</mi><mo stretchy="false">&#x2212;</mo><mi>a</mi><msup><mo stretchy="false">)</mo><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mn>1</mn><mn>2</mn></mrow></mrow></mfrac></mrow></mstyle></mrow></math>

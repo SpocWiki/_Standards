@@ -2,12 +2,13 @@
 aliases:
   - has competency-required
   - has_competency_required
+  - has competency required
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - required
   - competency_required
   - competencyRequired
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_competency_required
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

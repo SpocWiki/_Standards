@@ -1,28 +1,29 @@
 ---
 aliases:
-- has nutrition
-- "schema:nutrition"
-- "dbo:nutrition"
-- "wdt:P4224"
+  - has nutrition
+  - schema:nutrition
+  - dbo:nutrition
+  - wdt:P4224
+  - has_nutrition
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- has_nutrition
-- nutrition
-layout: 
-license: "CC BY-SA 4.0"
+  - has_nutrition
+  - nutrition
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_nutrition
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_nutrition
 type: Predi_Relation
 ---

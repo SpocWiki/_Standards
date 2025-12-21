@@ -1,24 +1,25 @@
 ---
 aliases:
   - Idealismus
+  - Idealism
 has_id_wikidata: Q33442
-part_of: "[[_Standards/WikiData/WD~monism,178801]]"
+part_of: '[[_Standards/WikiData/WD~monism,178801]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-subclass_of: "[[_Standards/WikiData/WD~philosophical_theory,5389993]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~idealism,98936799]]"
-opposite_of: "[[_Standards/WikiData/WD~materialism,7081]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophical_theory,5389993]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~idealism,98936799]]'
+opposite_of: '[[_Standards/WikiData/WD~materialism,7081]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~epistemology,9471]]"
-  - "[[_Standards/WikiData/WD~philosophy_of_mind,23407]]"
-  - "[[_Standards/WikiData/WD~metaphysics,35277]]"
-different_from: "[[_Standards/WikiData/WD~Idealism,32922]]"
-Dewey_Decimal_Classification: "141"
+  - '[[_Standards/WikiData/WD~epistemology,9471]]'
+  - '[[_Standards/WikiData/WD~philosophy_of_mind,23407]]'
+  - '[[_Standards/WikiData/WD~metaphysics,35277]]'
+different_from: '[[_Standards/WikiData/WD~Idealism,32922]]'
+Dewey_Decimal_Classification: 141
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Deutscher%20Idealismus.jpg
 Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/IDEALIZM.html
 PhilPapers_topic: idealism

@@ -1,7 +1,8 @@
 ---
 aliases:
   - Subtraktion
-has_id_wikidata: "40754"
+  - Subtraction
+has_id_wikidata: 40754
 ---
 
 # [[Subtraction]] 

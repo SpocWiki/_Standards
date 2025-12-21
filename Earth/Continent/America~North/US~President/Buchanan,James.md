@@ -1,26 +1,26 @@
 ---
 aliases:
-- Buchanan,James
-- "James Buchanan"
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Buchanan,James
+  - James Buchanan
+  - ''
 has_id_wikidata: Q12325
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Buchanan,James
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Buchanan,James
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Buchanan,James
-- 
+  - Buchanan,James
+  - ''
 title: Buchanan,James
 type: private_note
 ---

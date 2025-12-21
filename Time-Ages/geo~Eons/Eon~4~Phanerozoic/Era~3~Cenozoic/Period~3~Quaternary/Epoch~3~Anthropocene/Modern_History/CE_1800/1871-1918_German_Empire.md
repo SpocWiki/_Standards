@@ -2,41 +2,43 @@
 aliases:
   - German Empire
   - Deutsche Reich
+  - 1871-1918_German_Empire
+  - 1871-1918 German Empire
 has_id_wikidata: Q43287
 head_of_state:
-  - "[[_Standards/WikiData/WD~William_I,_German_Emperor,150652]]"
-  - "[[_Standards/WikiData/WD~Wilhelm_II,2677]]"
-  - "[[_Standards/WikiData/WD~Frederick_III,_German_Emperor,58600]]"
-replaces: "[[_Standards/WikiData/WD~North_German_Confederation,150981]]"
-member_of: "[[_Standards/WikiData/WD~Central_Powers,152283]]"
-legislative_body: "[[_Standards/WikiData/WD~Reichstag,160208]]"
-anthem: "[[_Standards/WikiData/WD~Heil_dir_im_Siegerkranz,163797]]"
+  - '[[_Standards/WikiData/WD~William_I,_German_Emperor,150652]]'
+  - '[[_Standards/WikiData/WD~Wilhelm_II,2677]]'
+  - '[[_Standards/WikiData/WD~Frederick_III,_German_Emperor,58600]]'
+replaces: '[[_Standards/WikiData/WD~North_German_Confederation,150981]]'
+member_of: '[[_Standards/WikiData/WD~Central_Powers,152283]]'
+legislative_body: '[[_Standards/WikiData/WD~Reichstag,160208]]'
+anthem: '[[_Standards/WikiData/WD~Heil_dir_im_Siegerkranz,163797]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~empire,187587]]"
-  - "[[_Standards/WikiData/WD~historical_region,1620908]]"
-  - "[[_Standards/WikiData/WD~historical_country,3024240]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-flag: "[[_Standards/WikiData/WD~Flag_of_the_German_Empire,316128]]"
+  - '[[_Standards/WikiData/WD~empire,187587]]'
+  - '[[_Standards/WikiData/WD~historical_region,1620908]]'
+  - '[[_Standards/WikiData/WD~historical_country,3024240]]'
+  - '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
+flag: '[[_Standards/WikiData/WD~Flag_of_the_German_Empire,316128]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-facet_of: "[[_Standards/WikiData/WD~German_Reich,1206012]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~King_of_Prussia,3240735]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_the_German_Empire,4136271]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_German_Empire,17313631]]"
-different_from: "[[_Standards/WikiData/WD~German_Empire_of_1848_1849,18285930]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_German_Empire,100965091]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_German_Empire,127257821]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+facet_of: '[[_Standards/WikiData/WD~German_Reich,1206012]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~King_of_Prussia,3240735]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_the_German_Empire,4136271]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_German_Empire,17313631]]'
+different_from: '[[_Standards/WikiData/WD~German_Empire_of_1848_1849,18285930]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_German_Empire,100965091]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_German_Empire,127257821]]'
 coordinate_location: Point(13.376111111 52.518611111)
 inception: 1871-01-01T00:00:00Z
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-capital: "[[_Standards/WikiData/WD~Berlin,64]]"
-official_language: "[[_Standards/WikiData/WD~German,188]]"
-replaced_by: "[[_Standards/WikiData/WD~Weimar_Republic,41304]]"
-followed_by: "[[_Standards/WikiData/WD~Weimar_Republic,41304]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+capital: '[[_Standards/WikiData/WD~Berlin,64]]'
+official_language: '[[_Standards/WikiData/WD~German,188]]'
+replaced_by: '[[_Standards/WikiData/WD~Weimar_Republic,41304]]'
+followed_by: '[[_Standards/WikiData/WD~Weimar_Republic,41304]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~constitutional_monarchy,41614]]'
 demonym:
   - German
   - גרמני

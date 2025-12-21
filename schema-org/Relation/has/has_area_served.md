@@ -1,24 +1,25 @@
 ---
 aliases:
   - has_area_served
+  - has area served
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - area
   - served
   - areaServed
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_area_served
 publish: true
-publishDate:
-superseded_by:
+publishDate: ''
+superseded_by: ''
 supersedes: serviceArea
 tags:
   - class/Relation

@@ -13,46 +13,46 @@ name_in_native_language: Leontyne Price
 birth_name: Mary Violet Leontyne Price
 date_of_birth: 1927-02-10T00:00:00Z
 genre:
-  - "[[_Standards/WikiData/WD~popular_music,373342]]"
-  - "[[_Standards/WikiData/WD~opera,1344]]"
-member_of: "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
+  - '[[_Standards/WikiData/WD~popular_music,373342]]'
+  - '[[_Standards/WikiData/WD~opera,1344]]'
+member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Juilliard_School,503246]]"
-  - "[[_Standards/WikiData/WD~Central_State_University,5061855]]"
-place_of_birth: "[[_Standards/WikiData/WD~Laurel,934987]]"
+  - '[[_Standards/WikiData/WD~Juilliard_School,503246]]'
+  - '[[_Standards/WikiData/WD~Central_State_University,5061855]]'
+place_of_birth: '[[_Standards/WikiData/WD~Laurel,934987]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-  - "[[_Standards/WikiData/WD~Spingarn_Medal,1994926]]"
-  - "[[_Standards/WikiData/WD~Library_of_Congress_Living_Legend,6542686]]"
-  - "[[_Standards/WikiData/WD~Gramophone_Award_for_Lifetime_Achievement,21541633]]"
-  - "[[_Standards/WikiData/WD~honorary_degree_from_Spelman_College,121364143]]"
-  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
-  - "[[_Standards/WikiData/WD~Grammy_Awards,41254]]"
-spouse: "[[_Standards/WikiData/WD~William_Warfield,2577488]]"
-occupation: "[[_Standards/WikiData/WD~opera_singer,2865819]]"
-record_label: "[[_Standards/WikiData/WD~RCA_Victor,3415083]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-family_name: "[[_Standards/WikiData/WD~Price,21242872]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+  - '[[_Standards/WikiData/WD~Spingarn_Medal,1994926]]'
+  - '[[_Standards/WikiData/WD~Library_of_Congress_Living_Legend,6542686]]'
+  - '[[_Standards/WikiData/WD~Gramophone_Award_for_Lifetime_Achievement,21541633]]'
+  - '[[_Standards/WikiData/WD~honorary_degree_from_Spelman_College,121364143]]'
+  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+  - '[[_Standards/WikiData/WD~Grammy_Awards,41254]]'
+spouse: '[[_Standards/WikiData/WD~William_Warfield,2577488]]'
+occupation: '[[_Standards/WikiData/WD~opera_singer,2865819]]'
+record_label: '[[_Standards/WikiData/WD~RCA_Victor,3415083]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+family_name: '[[_Standards/WikiData/WD~Price,21242872]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Notable_Black_American_Women,105958972]]"
-  - "[[_Standards/WikiData/WD~pi_vol_10_issue_1_1952,135889323]]"
-student_of: "[[_Standards/WikiData/WD~Florence_Kimball,106436928]]"
-given_name: "[[_Standards/WikiData/WD~Leontyne,124474892]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-voice_type: "[[_Standards/WikiData/WD~soprano,30903]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-work_locations: "[[_Standards/WikiData/WD~New_York_City,60]]"
-ethnic_group: "[[_Standards/WikiData/WD~African_Americans,49085]]"
+  - '[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Notable_Black_American_Women,105958972]]'
+  - '[[_Standards/WikiData/WD~pi_vol_10_issue_1_1952,135889323]]'
+student_of: '[[_Standards/WikiData/WD~Florence_Kimball,106436928]]'
+given_name: '[[_Standards/WikiData/WD~Leontyne,124474892]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+voice_type: '[[_Standards/WikiData/WD~soprano,30903]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+work_locations: '[[_Standards/WikiData/WD~New_York_City,60]]'
+ethnic_group: '[[_Standards/WikiData/WD~African_Americans,49085]]'
 Commons_gallery: Leontyne Price
 Commons_category: Leontyne Price
-U_S_National_Archives_Identifier: "10567722"
+U_S_National_Archives_Identifier: 10567722
 work_period_start_: 1952-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leontyne%20Price%20%28b%26w%29%20by%20Jack%20Mitchell.jpg
-ISNI: "0000000114499517"
+ISNI: 0000000114499517
 ---
 
 # [[Leontyne_Price]] 

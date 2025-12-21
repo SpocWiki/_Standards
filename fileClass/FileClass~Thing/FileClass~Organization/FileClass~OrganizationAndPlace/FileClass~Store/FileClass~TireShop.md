@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~TireShop
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/TireShop
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/TireShop
-- is_a_/TireShop
-- schema-org/TireShop
+  - class/TireShop
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/TireShop
+  - is_a_/TireShop
+  - schema-org/TireShop
 tags:
-- class/FileClass
-- class/TireShop
-- is_a_/TireShop
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/TireShop
+  - class/FileClass
+  - class/TireShop
+  - is_a_/TireShop
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/TireShop
 version: 2.0
 ---
 

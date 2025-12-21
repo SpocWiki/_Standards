@@ -3,30 +3,31 @@ aliases:
   - Gary Arlen Kildall
   - Kildall
   - Gary_Kildall
+  - Kildall,Gary
 has_id_wikidata: Q92627
 occupation:
-  - "[[_Standards/WikiData/WD~computer_scientist,82594]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~programmer,5482740]]"
-  - "[[_Standards/WikiData/WD~businessperson,43845]]"
-cause_of_death: "[[_Standards/WikiData/WD~injury_in_humans,193078]]"
-notable_work: "[[_Standards/WikiData/WD~CP_M,219528]]"
+  - '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~programmer,5482740]]'
+  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+cause_of_death: '[[_Standards/WikiData/WD~injury_in_humans,193078]]'
+notable_work: '[[_Standards/WikiData/WD~CP_M,219528]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Washington,219563]]"
-  - "[[_Standards/WikiData/WD~Queen_Anne_High_School,7270211]]"
-place_of_death: "[[_Standards/WikiData/WD~Monterey,487315]]"
-employer: "[[_Standards/WikiData/WD~Naval_Postgraduate_School,1515048]]"
-given_name: "[[_Standards/WikiData/WD~Gary,1820274]]"
-place_of_burial: "[[_Standards/WikiData/WD~Evergreen_Washelli_Memorial_Park,5417254]]"
-spouse: "[[_Standards/WikiData/WD~Dorothy_McEwen_Kildall,5813626]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-child: "[[_Standards/WikiData/WD~Scott_Kildall,7436618]]"
-manner_of_death: "[[_Standards/WikiData/WD~accidental_death,21142718]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_birth: "[[_Standards/WikiData/WD~Seattle,5083]]"
-field_of_work: "[[_Standards/WikiData/WD~computer_science,21198]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~University_of_Washington,219563]]'
+  - '[[_Standards/WikiData/WD~Queen_Anne_High_School,7270211]]'
+place_of_death: '[[_Standards/WikiData/WD~Monterey,487315]]'
+employer: '[[_Standards/WikiData/WD~Naval_Postgraduate_School,1515048]]'
+given_name: '[[_Standards/WikiData/WD~Gary,1820274]]'
+place_of_burial: '[[_Standards/WikiData/WD~Evergreen_Washelli_Memorial_Park,5417254]]'
+spouse: '[[_Standards/WikiData/WD~Dorothy_McEwen_Kildall,5813626]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+child: '[[_Standards/WikiData/WD~Scott_Kildall,7436618]]'
+manner_of_death: '[[_Standards/WikiData/WD~accidental_death,21142718]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+place_of_birth: '[[_Standards/WikiData/WD~Seattle,5083]]'
+field_of_work: '[[_Standards/WikiData/WD~computer_science,21198]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 work_period_start_: 1972-01-01T00:00:00Z
 date_of_death: 1994-07-11T00:00:00Z
 date_of_birth: 1942-05-19T00:00:00Z

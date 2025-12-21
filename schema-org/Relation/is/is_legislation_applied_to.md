@@ -4,22 +4,24 @@ aliases:
   - legislation_applies
   - legislationApplies
   - has_legislation_applies
+  - is_legislation_applied_to
+  - is legislation applied to
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - legislation
   - applies
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_legislation_applies
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PhysicalTherapy
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PhysicalTherapy
-- class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/PhysicalTherapy
-- is_a_/PhysicalTherapy
-- schema-org/PhysicalTherapy
+  - class/PhysicalTherapy
+  - class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/PhysicalTherapy
+  - is_a_/PhysicalTherapy
+  - schema-org/PhysicalTherapy
 tags:
-- class/FileClass
-- class/PhysicalTherapy
-- is_a_/PhysicalTherapy
-- class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/PhysicalTherapy
+  - class/FileClass
+  - class/PhysicalTherapy
+  - is_a_/PhysicalTherapy
+  - class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/PhysicalTherapy
 version: 2.0
 ---
 

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Coriolis force
+  - Coriolis_Force
+  - Coriolis Force
 has_id_wikidata: Q169973
 ---
 

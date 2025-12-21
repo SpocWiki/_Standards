@@ -1,31 +1,32 @@
 ---
 aliases:
-  - armoire 
+  - armoire
   - almirah
   - Wandschrank
   - Garderobe
+  - Wardrobe
 has_id_wikidata: Q106106
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-  - "[[_Standards/WikiData/WD~sideboard,1762308]]"
-  - "[[_Standards/WikiData/WD~cupboard,5662058]]"
-  - "[[_Standards/WikiData/WD~clothes_closet,10883050]]"
-has_use: "[[_Standards/WikiData/WD~storage,9158768]]"
-subclass_of: "[[_Standards/WikiData/WD~furniture,14745]]"
-Nomenclature_for_Museum_Cataloging: "1308"
+  - '[[_Standards/WikiData/WD~sideboard,1762308]]'
+  - '[[_Standards/WikiData/WD~cupboard,5662058]]'
+  - '[[_Standards/WikiData/WD~clothes_closet,10883050]]'
+has_use: '[[_Standards/WikiData/WD~storage,9158768]]'
+subclass_of: '[[_Standards/WikiData/WD~furniture,14745]]'
+Nomenclature_for_Museum_Cataloging: 1308
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wardrobe%20MET%20DP235302.jpg
-OmegaWiki_Defined_Meaning: "506882"
+OmegaWiki_Defined_Meaning: 506882
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Kast-article.ogg
 exact_match: http://wordnet-rdf.princeton.edu/wn30/04550184-n
 Iconclass_notation: 41A254
 Commons_category: Wardrobes
 Dewey_Decimal_Classification:
-  - "749.3"
-  - "645.4"
-  - "684.16"
+  - 749.3
+  - 645.4
+  - 684.16
 ---
 
 # [[Wardrobe]] 

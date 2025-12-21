@@ -2,12 +2,13 @@
 aliases:
   - has educational-level
   - has_educational_level
+  - has educational level
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - level
   - educational_level
   - educationalLevel
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_educational_level
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

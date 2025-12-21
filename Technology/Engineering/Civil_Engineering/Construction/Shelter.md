@@ -1,19 +1,20 @@
 ---
 aliases:
   - Unterstand
+  - Shelter
 has_id_wikidata: Q989946
 has_immediate_cause:
-  - "[[_Standards/WikiData/WD~conflict,180684]]"
-  - "[[_Standards/WikiData/WD~weather,11663]]"
+  - '[[_Standards/WikiData/WD~conflict,180684]]'
+  - '[[_Standards/WikiData/WD~weather,11663]]'
 has_use:
-  - "[[_Standards/WikiData/WD~comfort,1367353]]"
-  - "[[_Standards/WikiData/WD~protection,2251595]]"
-  - "[[_Standards/WikiData/WD~survival,104482419]]"
-made_from_material: "[[_Standards/WikiData/WD~reed,2734060]]"
-different_from: "[[_Standards/WikiData/WD~Q4470720,4470720]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q9868857,9868857]]"
-subclass_of: "[[_Standards/WikiData/WD~refuge,108147624]]"
-OmegaWiki_Defined_Meaning: "1116631"
+  - '[[_Standards/WikiData/WD~comfort,1367353]]'
+  - '[[_Standards/WikiData/WD~protection,2251595]]'
+  - '[[_Standards/WikiData/WD~survival,104482419]]'
+made_from_material: '[[_Standards/WikiData/WD~reed,2734060]]'
+different_from: '[[_Standards/WikiData/WD~Q4470720,4470720]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9868857,9868857]]'
+subclass_of: '[[_Standards/WikiData/WD~refuge,108147624]]'
+OmegaWiki_Defined_Meaning: 1116631
 earliest_date: -500000-01-01T00:00:00Z
 Commons_category: Shelters
 image: http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A9union%20Ma%C3%AFdo%20kiosque%20pique-nique.JPG

@@ -3,23 +3,24 @@ aliases:
   - has occupational-category
   - occupationalCategory
   - has_occupational_category
+  - has occupational category
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - occupational_category
   - occupational
   - category
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_occupational_category
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

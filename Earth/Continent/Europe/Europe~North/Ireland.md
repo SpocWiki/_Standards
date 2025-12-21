@@ -1,5 +1,4 @@
 ---
-age_of_majority: 18
 aliases:
   - Ireland
   - Irlanda
@@ -11,6 +10,8 @@ aliases:
   - Airlann
   - Republic of Ireland
   - Poblacht na hÉireann
+has_id_wikidata: Q27
+age_of_majority: 18
 anthem: "[[_Standards/WikiData/WD~Amhrán_na_bhFiann,160672]]"
 area: 69797
 Baidu_Tieba_name: 爱尔兰
@@ -172,7 +173,7 @@ driving_side: "[[_Standards/WikiData/WD~left,13196750]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_Republic_of_Ireland,8062]]"
 electrical_plug_type: "[[_Standards/WikiData/WD~BS_1363,1528507]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Ireland,1672817]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 2490220
   - 2515614
@@ -189,7 +190,6 @@ Gregorian_calendar_start_date: 1752-09-14
 GS1_country_code: 539
 hashtag: RepublicofIreland
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-has_id_wikidata: Q27
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~county_of_Ireland,179872]]"
 has_time_started: 1937-12-29
 head_of_government: "[[_Standards/WikiData/WD~Micheál_Martin,920403]]"
@@ -218,7 +218,7 @@ ISO_3166_1_alpha_2_code: IE
 ISO_3166_1_alpha_3_code: IRL
 ISO_3166_1_numeric_code: 372
 isReadOnly: false
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/IRLANDSKAYA_RESPUBLIKA.html
 Languages:
   - en-IE
@@ -228,12 +228,12 @@ language_used:
   - "[[_Standards/WikiData/WD~Irish,9142]]"
   - "[[_Standards/WikiData/WD~Irish_Sign_Language,14183]]"
   - "[[_Standards/WikiData/WD~Shelta,36705]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~Oireachtas,129821]]"
 licence_plate_code: IRL
 license: CC BY-SA 4.0
 life_expectancy: 83
-linkTitle:
+linkTitle: ""
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Ireland,22890]]"
 located_in_time_zone: "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
 location:
@@ -333,7 +333,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Irlanda.wav
 Provenio_UUID: cea218bf-ad0d-4a63-a865-8949e176fe7e
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750]]"
 replaces: "[[_Standards/WikiData/WD~Irish_Free_State,31747]]"
 retirement_age: 66

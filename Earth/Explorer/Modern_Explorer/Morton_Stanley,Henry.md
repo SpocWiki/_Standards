@@ -3,59 +3,61 @@ aliases:
   - Henry_Morton_Stanley
   - Sir Henry Morton Stanley
   - John Rowlands
+  - Morton_Stanley,Henry
+  - Morton Stanley,Henry
 has_id_wikidata: Q171421
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~journalist,1930187]]"
-  - "[[_Standards/WikiData/WD~explorer,11900058]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~journalist,1930187]]'
+  - '[[_Standards/WikiData/WD~explorer,11900058]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_second_supplement,16014697]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Cartoon_portraits_and_biographical_sketches_of_men_of_the_day,19025033]]"
+  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_second_supplement,16014697]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Cartoon_portraits_and_biographical_sketches_of_men_of_the_day,19025033]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Africa_An_Encyclopedic_Reference,115653803]]"
-  - "[[_Standards/WikiData/WD~Geographicus_Rare_Antique_Maps_biographical_dictionary_of_cartographers,133842860]]"
-archives_at: "[[_Standards/WikiData/WD~National_Library_of_Wales,666063]]"
-has_written_for: "[[_Standards/WikiData/WD~New_York_Herald,924673]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Africa_An_Encyclopedic_Reference,115653803]]'
+  - '[[_Standards/WikiData/WD~Geographicus_Rare_Antique_Maps_biographical_dictionary_of_cartographers,133842860]]'
+archives_at: '[[_Standards/WikiData/WD~National_Library_of_Wales,666063]]'
+has_written_for: '[[_Standards/WikiData/WD~New_York_Herald,924673]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Henry,1158477]]"
-  - "[[_Standards/WikiData/WD~Morton,19831811]]"
-place_of_birth: "[[_Standards/WikiData/WD~Denbigh,1186888]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Liberal_Unionist_Party,1754707]]"
-family_name: "[[_Standards/WikiData/WD~Stanley,2331622]]"
-spouse: "[[_Standards/WikiData/WD~Dorothy_Tennant,2420197]]"
+  - '[[_Standards/WikiData/WD~Henry,1158477]]'
+  - '[[_Standards/WikiData/WD~Morton,19831811]]'
+place_of_birth: '[[_Standards/WikiData/WD~Denbigh,1186888]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Liberal_Unionist_Party,1754707]]'
+family_name: '[[_Standards/WikiData/WD~Stanley,2331622]]'
+spouse: '[[_Standards/WikiData/WD~Dorothy_Tennant,2420197]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Vega_Medal,3332237]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_the_Bath,12177451]]"
-  - "[[_Standards/WikiData/WD~Grand_Cordon_of_the_Order_of_Leopold,14900501]]"
+  - '[[_Standards/WikiData/WD~Vega_Medal,3332237]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_the_Bath,12177451]]'
+  - '[[_Standards/WikiData/WD~Grand_Cordon_of_the_Order_of_Leopold,14900501]]'
   - "[[_Standards/WikiData/WD~Grande_Médaille_d'Or_des_Explorations,19904118]]"
-  - "[[_Standards/WikiData/WD~Patron_s_Medal,26837312]]"
+  - '[[_Standards/WikiData/WD~Patron_s_Medal,26837312]]'
 participant_in: "[[_Standards/WikiData/WD~Henry_Morton_Stanley's_first_trans_Africa_exploration,5726078]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-place_of_death: "[[_Standards/WikiData/WD~Richmond_Terrace,17549899]]"
-position_held: "[[_Standards/WikiData/WD~member_of_the_26th_Parliament_of_the_United_Kingdom,41582573]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-different_from: "[[_Standards/WikiData/WD~Henry_James_Stanley,76140522]]"
-child: "[[_Standards/WikiData/WD~Denzil_Stanley,76345603]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
-place_of_burial: "[[_Standards/WikiData/WD~St_Michael_and_All_Angels_Churchyard,133448880]]"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+place_of_death: '[[_Standards/WikiData/WD~Richmond_Terrace,17549899]]'
+position_held: '[[_Standards/WikiData/WD~member_of_the_26th_Parliament_of_the_United_Kingdom,41582573]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+different_from: '[[_Standards/WikiData/WD~Henry_James_Stanley,76140522]]'
+child: '[[_Standards/WikiData/WD~Denzil_Stanley,76345603]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
+place_of_burial: '[[_Standards/WikiData/WD~St_Michael_and_All_Angels_Churchyard,133448880]]'
 date_of_birth: 1841-01-28T00:00:00Z
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_locations: "[[_Standards/WikiData/WD~London,84]]"
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_locations: '[[_Standards/WikiData/WD~London,84]]'
 Commons_Creator_page: Henry Morton Stanley
 Commons_gallery: Henry Morton Stanley
 Commons_category: Henry Morton Stanley
@@ -72,8 +74,8 @@ described_at_URL:
   - http://www.digiporta.net/index.php?id=115073013
   - http://www.digiporta.net/index.php?id=803839034
 ISNI:
-  - "0000000121251501"
-  - "0000000368639137"
+  - 0000000121251501
+  - 0000000368639137
 Libris_URI: 31fhjbxm46v224b
 Krugosvet_article_archived_: Earth_sciences/geografiya/STENLI_GENRI_MORTON.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/66554

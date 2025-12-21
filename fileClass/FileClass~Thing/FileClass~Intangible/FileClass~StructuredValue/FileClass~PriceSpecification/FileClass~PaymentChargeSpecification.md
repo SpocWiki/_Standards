@@ -1,25 +1,27 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PaymentChargeSpecification
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification
 fields:
-- id: Y6fYfk
-  name: AppliesToPaymentMethod
-  options: {}
-  type: Input
-  path: ''
+  - id: Y6fYfk
+    name: AppliesToPaymentMethod
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PaymentChargeSpecification
-- class/Thing/Intangible/StructuredValue/PriceSpecification/PaymentChargeSpecification
-- is_a_/PaymentChargeSpecification
-- schema-org/PaymentChargeSpecification
+  - class/PaymentChargeSpecification
+  - class/Thing/Intangible/StructuredValue/PriceSpecification/PaymentChargeSpecification
+  - is_a_/PaymentChargeSpecification
+  - schema-org/PaymentChargeSpecification
 tags:
-- class/FileClass
-- class/PaymentChargeSpecification
-- is_a_/PaymentChargeSpecification
-- class/Thing/Intangible/StructuredValue/PriceSpecification/PaymentChargeSpecification
+  - class/FileClass
+  - class/PaymentChargeSpecification
+  - is_a_/PaymentChargeSpecification
+  - class/Thing/Intangible/StructuredValue/PriceSpecification/PaymentChargeSpecification
 version: 2.0
 ---
 

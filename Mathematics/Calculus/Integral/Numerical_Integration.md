@@ -3,17 +3,19 @@ aliases:
   - numerical quadrature
   - quadrature
   - cubature
+  - Numerical_Integration
+  - Numerical Integration
 has_id_wikidata: Q753445
-opposite_of: "[[_Standards/WikiData/WD~numerical_differentiation,1683292]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+opposite_of: '[[_Standards/WikiData/WD~numerical_differentiation,1683292]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-subclass_of: "[[_Standards/WikiData/WD~numerical_method,24262840]]"
-uses: "[[_Standards/WikiData/WD~quadrature_rule,130299145]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Numerical_integration,130639863]]"
-part_of: "[[_Standards/WikiData/WD~numerical_analysis,11216]]"
-ACM_Classification_Code_2012_: "10003740"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~numerical_method,24262840]]'
+uses: '[[_Standards/WikiData/WD~quadrature_rule,130299145]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Numerical_integration,130639863]]'
+part_of: '[[_Standards/WikiData/WD~numerical_analysis,11216]]'
+ACM_Classification_Code_2012_: 10003740
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Numerical%20quadrature%204up.svg
 Stack_Exchange_tag:
   - https://mathoverflow.net/tags/quadrature

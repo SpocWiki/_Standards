@@ -1,6 +1,7 @@
 ---
 aliases:
   - Einsteinian Relativity
+  - Einsteinian_Relativity
 ---
 
 # [[Einsteinian_Relativity]] 

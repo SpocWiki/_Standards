@@ -1,35 +1,36 @@
 ---
 aliases:
   - The_Republic
-  - "Πολιτεία, romanized: Politeia; Latin: De Republica"
+  - 'Πολιτεία, romanized: Politeia; Latin: De Republica'
+  - Republic(Plato)
 has_id_wikidata: Q123397
-main_subject: "[[_Standards/WikiData/WD~political_philosophy,179805]]"
-narrative_location: "[[_Standards/WikiData/WD~Classical_Athens,844930]]"
-item_disputed_by: "[[_Standards/WikiData/WD~The_Open_Society_and_Its_Enemies,1066598]]"
-genre: "[[_Standards/WikiData/WD~dialogue,3025978]]"
-part_of_the_series: "[[_Standards/WikiData/WD~Platonic_dialogue,3026037]]"
-instance_of: "[[_Standards/WikiData/WD~literary_work,7725634]]"
-different_from: "[[_Standards/WikiData/WD~Panstwo,16710899]]"
+main_subject: '[[_Standards/WikiData/WD~political_philosophy,179805]]'
+narrative_location: '[[_Standards/WikiData/WD~Classical_Athens,844930]]'
+item_disputed_by: '[[_Standards/WikiData/WD~The_Open_Society_and_Its_Enemies,1066598]]'
+genre: '[[_Standards/WikiData/WD~dialogue,3025978]]'
+part_of_the_series: '[[_Standards/WikiData/WD~Platonic_dialogue,3026037]]'
+instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
+different_from: '[[_Standards/WikiData/WD~Panstwo,16710899]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~The_Republic_of_Plato,20867055]]"
-  - "[[_Standards/WikiData/WD~Государство,28141709]]"
-  - "[[_Standards/WikiData/WD~Q47088678,47088678]]"
-  - "[[_Standards/WikiData/WD~Q47088679,47088679]]"
-  - "[[_Standards/WikiData/WD~Q55627004,55627004]]"
-  - "[[_Standards/WikiData/WD~Q55638473,55638473]]"
-  - "[[_Standards/WikiData/WD~Q56242346,56242346]]"
-  - "[[_Standards/WikiData/WD~Y_wladwriaeth,56848554]]"
-  - "[[_Standards/WikiData/WD~Q108860043,108860043]]"
-  - "[[_Standards/WikiData/WD~Q117279997,117279997]]"
-  - "[[_Standards/WikiData/WD~Q117281053,117281053]]"
-  - "[[_Standards/WikiData/WD~De_res_publica,135451443]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~prose,676]]"
-author: "[[_Standards/WikiData/WD~Plato,859]]"
-characters: "[[_Standards/WikiData/WD~Socrates,913]]"
+  - '[[_Standards/WikiData/WD~The_Republic_of_Plato,20867055]]'
+  - '[[_Standards/WikiData/WD~Государство,28141709]]'
+  - '[[_Standards/WikiData/WD~Q47088678,47088678]]'
+  - '[[_Standards/WikiData/WD~Q47088679,47088679]]'
+  - '[[_Standards/WikiData/WD~Q55627004,55627004]]'
+  - '[[_Standards/WikiData/WD~Q55638473,55638473]]'
+  - '[[_Standards/WikiData/WD~Q56242346,56242346]]'
+  - '[[_Standards/WikiData/WD~Y_wladwriaeth,56848554]]'
+  - '[[_Standards/WikiData/WD~Q108860043,108860043]]'
+  - '[[_Standards/WikiData/WD~Q117279997,117279997]]'
+  - '[[_Standards/WikiData/WD~Q117281053,117281053]]'
+  - '[[_Standards/WikiData/WD~De_res_publica,135451443]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~prose,676]]'
+author: '[[_Standards/WikiData/WD~Plato,859]]'
+characters: '[[_Standards/WikiData/WD~Socrates,913]]'
 language_of_work_or_name:
-  - "[[_Standards/WikiData/WD~Greek,9129]]"
-  - "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
+  - '[[_Standards/WikiData/WD~Greek,9129]]'
+  - '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/P.%20Oxy.%20LII%203679.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Politeia%20beginning.%20Codex%20Parisinus%20graecus%201807.jpg

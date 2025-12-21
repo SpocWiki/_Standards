@@ -2,6 +2,7 @@
 aliases:
   - weight lifting
   - Gewichtheben
+  - Weightlifting
 has_id_wikidata: Q83462
 instance_of:
   - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
@@ -23,7 +24,7 @@ record_or_record_progression: "[[_Standards/WikiData/WD~list_of_world_records_in
 authority: "[[_Standards/WikiData/WD~International_Weightlifting_Federation,913687]]"
 practiced_by: "[[_Standards/WikiData/WD~weightlifter,13381376]]"
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~repetition,16686611]]"
-IAB_code: "544"
+IAB_code: 544
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-W1107-0054%2C%20Peter%20Wenzel.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Weightlifting%20pictogram.svg
 Commons_category: Olympic weightlifting
@@ -31,7 +32,7 @@ video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/EVD-pesas-000.ogv
   - http://commons.wikimedia.org/wiki/Special:FilePath/Zesstedenwedstrijd%20gewichtheffen.ogv
 Iconclass_notation: 43C361
-Dewey_Decimal_Classification: "613.713"
+Dewey_Decimal_Classification: 613.713
 UMLS_CUI: C0043095
 MeSH_tree_code: I03.450.642.845.950
 IPTC_NewsCode: mediatopic/20001093
@@ -41,7 +42,7 @@ Unicode_character: 🏋
 OpenStreetMap_tag: sport=weightlifting
 ---
 
-# [[Weightlifting]] 
+# [[Weightlifting]] 🏋  
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Weightlifting,83462|WD~Weightlifting,83462]]  
 

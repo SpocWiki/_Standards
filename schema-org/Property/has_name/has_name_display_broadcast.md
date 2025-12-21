@@ -4,23 +4,24 @@ aliases:
   - name_display_broadcast
   - broadcastDisplayName
   - has_name_display_broadcast
+  - has name display broadcast
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - broadcast
   - display
   - name
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_name_display_broadcast
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

@@ -3,91 +3,92 @@ aliases:
   - Sofia Costanza Brigida Villani Scicolone
   - Sophia Loren
   - Sophia_Loren
+  - Loren,Sophia
 has_id_wikidata: Q43252
-nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]"
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]"
-  - "[[_Standards/WikiData/WD~Golden_Bear,154590]]"
-  - "[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]"
-  - "[[_Standards/WikiData/WD~Order_of_Saint_Agatha,338751]]"
-  - "[[_Standards/WikiData/WD~Silver_Shell_for_Best_Actress,610152]]"
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Leading_Role,687123]]"
-  - "[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]"
-  - "[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Actress,768505]]"
-  - "[[_Standards/WikiData/WD~Cannes_Film_Festival_Award_for_Best_Actress,840286]]"
-  - "[[_Standards/WikiData/WD~Telegatto,843823]]"
-  - "[[_Standards/WikiData/WD~Volpi_Cup_for_Best_Actress,2089918]]"
-  - "[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+  - '[[_Standards/WikiData/WD~Golden_Bear,154590]]'
+  - '[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]'
+  - '[[_Standards/WikiData/WD~Order_of_Saint_Agatha,338751]]'
+  - '[[_Standards/WikiData/WD~Silver_Shell_for_Best_Actress,610152]]'
+  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Leading_Role,687123]]'
+  - '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
+  - '[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Actress,768505]]'
+  - '[[_Standards/WikiData/WD~Cannes_Film_Festival_Award_for_Best_Actress,840286]]'
+  - '[[_Standards/WikiData/WD~Telegatto,843823]]'
+  - '[[_Standards/WikiData/WD~Volpi_Cup_for_Best_Actress,2089918]]'
+  - '[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]'
   - "[[_Standards/WikiData/WD~Globo_d'oro_for_Livetime_Achievement,3772362]]"
-  - "[[_Standards/WikiData/WD~Q3772364,3772364]]"
+  - '[[_Standards/WikiData/WD~Q3772364,3772364]]'
   - "[[_Standards/WikiData/WD~Nastro_d'Argento_for_Best_Actress,3870555]]"
-  - "[[_Standards/WikiData/WD~Q4335887,4335887]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
-  - "[[_Standards/WikiData/WD~David_di_Donatello_Award_for_Lifetime_Achievement,13634272]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]"
+  - '[[_Standards/WikiData/WD~Q4335887,4335887]]'
+  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+  - '[[_Standards/WikiData/WD~David_di_Donatello_Award_for_Lifetime_Achievement,13634272]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
   - "[[_Standards/WikiData/WD~Nastro_d'Argento_Lifetime_Achievement_Award,16581280]]"
   - "[[_Standards/WikiData/WD~Targa_d'Oro,16612253]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~European_Cultural_Award,55520843]]"
-  - "[[_Standards/WikiData/WD~Academy_Awards,19020]]"
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~European_Cultural_Award,55520843]]'
+  - '[[_Standards/WikiData/WD~Academy_Awards,19020]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~voice_actor,2405480]]"
-  - "[[_Standards/WikiData/WD~model,4610556]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~beauty_pageant_contestant,18581305]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~voice_actor,2405480]]'
+  - '[[_Standards/WikiData/WD~model,4610556]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~beauty_pageant_contestant,18581305]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
 genre:
-  - "[[_Standards/WikiData/WD~melodrama,191489]]"
-  - "[[_Standards/WikiData/WD~comedy,40831]]"
+  - '[[_Standards/WikiData/WD~melodrama,191489]]'
+  - '[[_Standards/WikiData/WD~comedy,40831]]'
 relative:
-  - "[[_Standards/WikiData/WD~Alessandra_Mussolini,285543]]"
-  - "[[_Standards/WikiData/WD~Romano_Mussolini,446421]]"
-  - "[[_Standards/WikiData/WD~Romano_Floriani_Mussolini,105268643]]"
-spouse: "[[_Standards/WikiData/WD~Carlo_Ponti,299419]]"
+  - '[[_Standards/WikiData/WD~Alessandra_Mussolini,285543]]'
+  - '[[_Standards/WikiData/WD~Romano_Mussolini,446421]]'
+  - '[[_Standards/WikiData/WD~Romano_Floriani_Mussolini,105268643]]'
+spouse: '[[_Standards/WikiData/WD~Carlo_Ponti,299419]]'
 child:
-  - "[[_Standards/WikiData/WD~Edoardo_Ponti,327436]]"
-  - "[[_Standards/WikiData/WD~Carlo_Ponti,1042396]]"
-notable_work: "[[_Standards/WikiData/WD~Yesterday,_Today_and_Tomorrow,523624]]"
-hair_color: "[[_Standards/WikiData/WD~brown_hair,2367101]]"
-record_label: "[[_Standards/WikiData/WD~RCA_Victor,3415083]]"
-educated_at: "[[_Standards/WikiData/WD~École_Jeannine_Manuel,3577715]]"
-sibling: "[[_Standards/WikiData/WD~Anna_Maria_Villani_Scicolone,3847521]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-convicted_of: "[[_Standards/WikiData/WD~Q15279749,15279749]]"
+  - '[[_Standards/WikiData/WD~Edoardo_Ponti,327436]]'
+  - '[[_Standards/WikiData/WD~Carlo_Ponti,1042396]]'
+notable_work: '[[_Standards/WikiData/WD~Yesterday,_Today_and_Tomorrow,523624]]'
+hair_color: '[[_Standards/WikiData/WD~brown_hair,2367101]]'
+record_label: '[[_Standards/WikiData/WD~RCA_Victor,3415083]]'
+educated_at: '[[_Standards/WikiData/WD~École_Jeannine_Manuel,3577715]]'
+sibling: '[[_Standards/WikiData/WD~Anna_Maria_Villani_Scicolone,3847521]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+convicted_of: '[[_Standards/WikiData/WD~Q15279749,15279749]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Brigida,16739659]]"
-  - "[[_Standards/WikiData/WD~Sofia,18201520]]"
-  - "[[_Standards/WikiData/WD~Costanza,19816831]]"
-eye_color: "[[_Standards/WikiData/WD~hazel,17122740]]"
-instrument: "[[_Standards/WikiData/WD~voice,17172850]]"
-position_held: "[[_Standards/WikiData/WD~President_of_the_Jury_at_the_Cannes_Festival,23958341]]"
+  - '[[_Standards/WikiData/WD~Brigida,16739659]]'
+  - '[[_Standards/WikiData/WD~Sofia,18201520]]'
+  - '[[_Standards/WikiData/WD~Costanza,19816831]]'
+eye_color: '[[_Standards/WikiData/WD~hazel,17122740]]'
+instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
+position_held: '[[_Standards/WikiData/WD~President_of_the_Jury_at_the_Cannes_Festival,23958341]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Boobpedia,25457707]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-filmography: "[[_Standards/WikiData/WD~Sophia_Loren_filmography,30927266]]"
+  - '[[_Standards/WikiData/WD~Boobpedia,25457707]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+filmography: '[[_Standards/WikiData/WD~Sophia_Loren_filmography,30927266]]'
 family_name:
-  - "[[_Standards/WikiData/WD~Villani,31212717]]"
-  - "[[_Standards/WikiData/WD~Scicolone,92953131]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-mother: "[[_Standards/WikiData/WD~Romilda_Villani,106315266]]"
-father: "[[_Standards/WikiData/WD~Riccardo_Scicolone,106315294]]"
-owner_of: "[[_Standards/WikiData/WD~Q107723397,107723397]]"
+  - '[[_Standards/WikiData/WD~Villani,31212717]]'
+  - '[[_Standards/WikiData/WD~Scicolone,92953131]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+mother: '[[_Standards/WikiData/WD~Romilda_Villani,106315266]]'
+father: '[[_Standards/WikiData/WD~Riccardo_Scicolone,106315294]]'
+owner_of: '[[_Standards/WikiData/WD~Q107723397,107723397]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Italy,38]]"
+  - '[[_Standards/WikiData/WD~Italian,652]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_location: '[[_Standards/WikiData/WD~Italy,38]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-residence: "[[_Standards/WikiData/WD~Geneva,71]]"
-place_of_birth: "[[_Standards/WikiData/WD~Rome,220]]"
+  - '[[_Standards/WikiData/WD~Italy,38]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+residence: '[[_Standards/WikiData/WD~Geneva,71]]'
+place_of_birth: '[[_Standards/WikiData/WD~Rome,220]]'
 height: 1.74
-significant_person: "[[_Standards/WikiData/WD~Marcello_Mastroianni,55469]]"
-identifier_in_filmpolski_movie_database: "75"
+significant_person: '[[_Standards/WikiData/WD~Marcello_Mastroianni,55469]]'
+identifier_in_filmpolski_movie_database: 75
 Commons_category: Sophia Loren
 Commons_gallery: Sophia Loren
 pseudonym: Sophia Loren
@@ -101,10 +102,10 @@ date_of_birth: 1934-09-20T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sophia%20Loren%201962.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Unterschrift%20Sophia%20Loren%20%28Autogramm%29%20italienische%20Filmschauspielerin.png
 ISNI:
-  - "0000000109380570"
-  - "0000000368561843"
-RIA_Novosti_reference: "1024661358"
-U_S_National_Archives_Identifier: "10580530"
+  - 0000000109380570
+  - 0000000368561843
+RIA_Novosti_reference: 1024661358
+U_S_National_Archives_Identifier: 10580530
 Plex_person_key: 5d7768298718ba001e3123eb
 Europeana_entity: agent/base/146995
 Wolfram_Language_entity_code: Entity["Person", "SophiaLoren::x73ry"]

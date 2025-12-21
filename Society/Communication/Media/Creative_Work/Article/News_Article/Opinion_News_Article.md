@@ -4,20 +4,22 @@ aliases:
   - opinion_news_article
   - OpinionNewsArticle
   - is_an_opinion_news_article
+  - Opinion_News_Article
+  - Opinion News Article
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - opinion_news_article
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_opinion_news_article Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

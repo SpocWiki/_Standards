@@ -1,37 +1,39 @@
 ---
 aliases:
   - Urban planning
-  - city planning 
+  - city planning
   - town planning
   - Stadtplanung
-  - 
+  - ''
+  - Urban_Planning
+  - Urban Planning
 has_id_wikidata: Q69883
 practiced_by:
-  - "[[_Standards/WikiData/WD~urban_planner,131062]]"
+  - '[[_Standards/WikiData/WD~urban_planner,131062]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~spatial_planning,149013]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~strategic_plan,3391375]]"
+  - '[[_Standards/WikiData/WD~spatial_planning,149013]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~strategic_plan,3391375]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~type_of_policy,96251375]]"
-  - "[[_Standards/WikiData/WD~public_administration,31728]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Urban_Planning,20375033]]"
-has_characteristic: "[[_Standards/WikiData/WD~land_use_planning,60738778]]"
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~type_of_policy,96251375]]'
+  - '[[_Standards/WikiData/WD~public_administration,31728]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Urban_Planning,20375033]]'
+has_characteristic: '[[_Standards/WikiData/WD~land_use_planning,60738778]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~land_use_planning,60738778]]"
-  - "[[_Standards/WikiData/WD~urbanism,59950]]"
-part_of: "[[_Standards/WikiData/WD~urban_and_regional_planning,64808211]]"
+  - '[[_Standards/WikiData/WD~land_use_planning,60738778]]'
+  - '[[_Standards/WikiData/WD~urbanism,59950]]'
+part_of: '[[_Standards/WikiData/WD~urban_and_regional_planning,64808211]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~urban_design,63100]]"
-Dewey_Decimal_Classification: "710"
+  - '[[_Standards/WikiData/WD~urban_design,63100]]'
+Dewey_Decimal_Classification: 710
 Library_of_Congress_Classification:
   - HT165.5-HT169.9
   - K3534
 Commons_category: Urban planning
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1964-1966%20MM%20Sauriol%20et%20Desjardins%20%28fondateurs%29.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20232500-29725%20ccGregor%C4%8Cre%C5%A1nar-Chris%20Kerr%20urban-planning.svg
-U_S_National_Archives_Identifier: "10638025"
-P8189: "987007283813505171"
+U_S_National_Archives_Identifier: 10638025
+P8189: 987007283813505171
 UMLS_CUI: C0008866
 MeSH_tree_code:
   - I01.880.709.202

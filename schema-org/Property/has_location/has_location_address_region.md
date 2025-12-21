@@ -4,22 +4,23 @@ aliases:
   - address_region
   - addressRegion
   - has_location_address_region
+  - has location address region
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - address
   - region
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_address_region
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

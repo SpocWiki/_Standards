@@ -1,6 +1,8 @@
 ---
 aliases:
-- dogfooding
+  - dogfooding
+  - Eating_your_own_dog_food
+  - Eating your own dog food
 ---
 
 # [[Eating_your_own_dog_food]] 

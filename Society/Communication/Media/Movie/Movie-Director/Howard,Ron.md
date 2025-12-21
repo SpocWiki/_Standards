@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Ron Howard"
-- "Ronald William Howard"
+  - Ron Howard
+  - Ronald William Howard
+  - Howard,Ron
 ---
 
 #has_/time_/started :: 1954-03-01 

@@ -3,14 +3,16 @@ aliases:
   - irrigation sprinkler
   - water sprinkler
   - sprinkler
+  - Irrigation_Sprinkler
+  - Irrigation Sprinkler
 has_id_wikidata: Q998539
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~sprinklers,784008]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-has_use: "[[_Standards/WikiData/WD~sprinkler_irrigation,6108826]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~sprinklers,784008]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+has_use: '[[_Standards/WikiData/WD~sprinkler_irrigation,6108826]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~sprinkler_irrigation,6108826]]"
-  - "[[_Standards/WikiData/WD~irrigation_system,6129871]]"
-  - "[[_Standards/WikiData/WD~outdoors,_garden_and_lawn_item,115922801]]"
+  - '[[_Standards/WikiData/WD~sprinkler_irrigation,6108826]]'
+  - '[[_Standards/WikiData/WD~irrigation_system,6129871]]'
+  - '[[_Standards/WikiData/WD~outdoors,_garden_and_lawn_item,115922801]]'
 Commons_category: Irrigation sprinklers
 image: http://commons.wikimedia.org/wiki/Special:FilePath/An%20Irrigation%20sprinkler%20watering%20a%20garden.gif
 Commons_gallery: Irrigation sprinkler

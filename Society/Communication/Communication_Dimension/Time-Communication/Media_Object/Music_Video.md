@@ -4,21 +4,23 @@ aliases:
   - music_video_object
   - MusicVideoObject
   - is_a_music_video_object
+  - Music_Video
+  - Music Video
 has_id_wikidata: Q193977
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - music_video_object
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_music_video_object Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ContactPage
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ContactPage
-- class/Thing/CreativeWork/WebPage/ContactPage
-- is_a_/ContactPage
-- schema-org/ContactPage
+  - class/ContactPage
+  - class/Thing/CreativeWork/WebPage/ContactPage
+  - is_a_/ContactPage
+  - schema-org/ContactPage
 tags:
-- class/FileClass
-- class/ContactPage
-- is_a_/ContactPage
-- class/Thing/CreativeWork/WebPage/ContactPage
+  - class/FileClass
+  - class/ContactPage
+  - is_a_/ContactPage
+  - class/Thing/CreativeWork/WebPage/ContactPage
 version: 2.0
 ---
 

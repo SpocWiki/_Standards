@@ -1,8 +1,9 @@
 ---
 aliases:
-- Javanese
+  - Javanese
+  - Lang-jav
 tags:
-- Lang/jv
+  - Lang/jv
 type: Lang
 ---
 

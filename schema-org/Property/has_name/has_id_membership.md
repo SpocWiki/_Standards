@@ -4,22 +4,23 @@ aliases:
   - id_membership
   - membershipNumber
   - has_id_membership
+  - has id membership
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - membership
   - number
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_id_membership
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

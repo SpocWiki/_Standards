@@ -1,36 +1,36 @@
 ---
 aliases:
-- Sum-Type
-- "discriminated Union"
-- "Tagged Union"
-- "choice type"
-- "disjoint union"
+  - Sum-Type
+  - discriminated Union
+  - Tagged Union
+  - choice type
+  - disjoint union
 confidential: private
 cssclasses:
-- private
-- note
+  - private
+  - note
 draft: true
-expiryDate: 
+expiryDate: ''
 has_time_started: 2024-01-08
 isDeleted: false
 isReadOnly: false
 Key: Value
 keywords:
-- Sum-Type
+  - Sum-Type
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Sum-Type
 Predicate:
-- Object
+  - Object
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Sum-Type
-- rather
-- use
+  - Sum-Type
+  - rather
+  - use
 title: Sum-Type
-type: "private note"
+type: private note
 ---
 
 # [[Sum-Type]] 

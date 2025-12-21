@@ -4,20 +4,22 @@ aliases:
   - health_plan_formulary
   - HealthPlanFormulary
   - is_a_health_plan_formulary
+  - Health_Plan_Formulary
+  - Health Plan Formulary
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - health_plan_formulary
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_health_plan_formulary Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

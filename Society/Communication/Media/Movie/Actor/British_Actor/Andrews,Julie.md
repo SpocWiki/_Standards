@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Julie Andrews"
-- "Julia Elizabeth Wells"
+  - Julie Andrews
+  - Julia Elizabeth Wells
+  - Andrews,Julie
 ---
 
 ## #has_/text_of_/abstract 

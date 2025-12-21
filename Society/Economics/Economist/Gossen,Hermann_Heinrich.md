@@ -3,28 +3,30 @@ aliases:
   - Hermann_Heinrich_Gossen
   - Hermann Heinrich Gossen
   - Gossen
+  - Gossen,Hermann_Heinrich
+  - Gossen,Hermann Heinrich
 has_id_wikidata: Q62835
-educated_at: "[[_Standards/WikiData/WD~University_of_Bonn,152171]]"
-occupation: "[[_Standards/WikiData/WD~economist,188094]]"
+educated_at: '[[_Standards/WikiData/WD~University_of_Bonn,152171]]'
+occupation: '[[_Standards/WikiData/WD~economist,188094]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Hermann,1158570]]"
-  - "[[_Standards/WikiData/WD~Heinrich,2018484]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Gossen,37563824]]"
+  - '[[_Standards/WikiData/WD~Hermann,1158570]]'
+  - '[[_Standards/WikiData/WD~Heinrich,2018484]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Gossen,37563824]]'
 date_of_death: 1858-02-13T00:00:00Z
-place_of_death: "[[_Standards/WikiData/WD~Cologne,365]]"
-place_of_birth: "[[_Standards/WikiData/WD~Düren,1884]]"
-field_of_work: "[[_Standards/WikiData/WD~economics,8134]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~German,188]]"
+place_of_death: '[[_Standards/WikiData/WD~Cologne,365]]'
+place_of_birth: '[[_Standards/WikiData/WD~Düren,1884]]'
+field_of_work: '[[_Standards/WikiData/WD~economics,8134]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
 Commons_category: Hermann Heinrich Gossen
 date_of_birth: 1810-09-07T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gossen.png
-ISNI: "0000000107969592"
+ISNI: 0000000107969592
 Libris_URI: 97mpps7t09w387c
 name_in_native_language: Hermann Heinrich Gossen
 ---

@@ -3,15 +3,17 @@ aliases:
   - Glühen
   - Ausglühen
   - Weichglühen
+  - Annealing(Materials_Science)
+  - Annealing(Materials Science)
 has_id_wikidata: Q187360
-studied_by: "[[_Standards/WikiData/WD~materials_science,228736]]"
+studied_by: '[[_Standards/WikiData/WD~materials_science,228736]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~heat_treatment,1458918]]"
-  - "[[_Standards/WikiData/WD~process,3249551]]"
+  - '[[_Standards/WikiData/WD~heat_treatment,1458918]]'
+  - '[[_Standards/WikiData/WD~process,3249551]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-instance_of: "[[_Standards/WikiData/WD~numismatic_term,87491079]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+instance_of: '[[_Standards/WikiData/WD~numismatic_term,87491079]]'
 Commons_category: Annealing
 ---
 

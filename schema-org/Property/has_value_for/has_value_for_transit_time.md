@@ -4,21 +4,22 @@ aliases:
   - transit-time
   - transitTime
   - has_value_for_transit_time
+  - has value for transit time
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - transit-time
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_transit-time
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

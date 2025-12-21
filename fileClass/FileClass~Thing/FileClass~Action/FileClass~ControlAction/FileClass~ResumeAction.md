@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ResumeAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~ControlAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ResumeAction
-- class/Thing/Action/ControlAction/ResumeAction
-- is_a_/ResumeAction
-- schema-org/ResumeAction
+  - class/ResumeAction
+  - class/Thing/Action/ControlAction/ResumeAction
+  - is_a_/ResumeAction
+  - schema-org/ResumeAction
 tags:
-- class/FileClass
-- class/ResumeAction
-- is_a_/ResumeAction
-- class/Thing/Action/ControlAction/ResumeAction
+  - class/FileClass
+  - class/ResumeAction
+  - is_a_/ResumeAction
+  - class/Thing/Action/ControlAction/ResumeAction
 version: 2.0
 ---
 

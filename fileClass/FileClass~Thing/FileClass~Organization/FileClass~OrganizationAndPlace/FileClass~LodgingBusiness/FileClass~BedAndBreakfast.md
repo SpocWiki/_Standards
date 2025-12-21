@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~BedAndBreakfast
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/BedAndBreakfast
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/BedAndBreakfast
-- is_a_/BedAndBreakfast
-- schema-org/BedAndBreakfast
+  - class/BedAndBreakfast
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/BedAndBreakfast
+  - is_a_/BedAndBreakfast
+  - schema-org/BedAndBreakfast
 tags:
-- class/FileClass
-- class/BedAndBreakfast
-- is_a_/BedAndBreakfast
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/BedAndBreakfast
+  - class/FileClass
+  - class/BedAndBreakfast
+  - is_a_/BedAndBreakfast
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/BedAndBreakfast
 version: 2.0
 ---
 

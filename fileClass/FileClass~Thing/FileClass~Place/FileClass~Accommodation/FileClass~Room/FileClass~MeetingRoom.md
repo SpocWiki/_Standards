@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MeetingRoom
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/MeetingRoom
-- class/Thing/Place/Accommodation/Room/MeetingRoom
-- is_a_/MeetingRoom
-- schema-org/MeetingRoom
+  - class/MeetingRoom
+  - class/Thing/Place/Accommodation/Room/MeetingRoom
+  - is_a_/MeetingRoom
+  - schema-org/MeetingRoom
 tags:
-- class/FileClass
-- class/MeetingRoom
-- is_a_/MeetingRoom
-- class/Thing/Place/Accommodation/Room/MeetingRoom
+  - class/FileClass
+  - class/MeetingRoom
+  - is_a_/MeetingRoom
+  - class/Thing/Place/Accommodation/Room/MeetingRoom
 version: 2.0
 ---
 

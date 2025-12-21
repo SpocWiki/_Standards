@@ -1,21 +1,23 @@
 ---
 aliases:
-  - Transportation engineering 
+  - Transportation engineering
   - transport engineering
   - Transportation_Engineering
+  - Transport_Engineering
+  - Transport Engineering
 has_id_wikidata: Q775325
 part_of:
-  - "[[_Standards/WikiData/WD~civil_engineering,77590]]"
-  - "[[_Standards/WikiData/WD~transport_sciences,2516517]]"
+  - '[[_Standards/WikiData/WD~civil_engineering,77590]]'
+  - '[[_Standards/WikiData/WD~transport_sciences,2516517]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~civil_engineering,77590]]"
-  - "[[_Standards/WikiData/WD~transport_sciences,2516517]]"
+  - '[[_Standards/WikiData/WD~civil_engineering,77590]]'
+  - '[[_Standards/WikiData/WD~transport_sciences,2516517]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_work,627436]]"
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~branch_of_engineering,12015335]]"
-practiced_by: "[[_Standards/WikiData/WD~transportation_engineer,11875786]]"
+  - '[[_Standards/WikiData/WD~field_of_work,627436]]'
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
+practiced_by: '[[_Standards/WikiData/WD~transportation_engineer,11875786]]'
 Colon_Classification: D5
 Commons_category: Transport engineering
 Iconclass_notation: 47B212

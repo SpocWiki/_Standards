@@ -2,13 +2,15 @@
 aliases:
   - Easy listening
   - mood music
+  - Easy_Listening
+  - Easy Listening
 has_id_wikidata: Q848399
-instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
-subclass_of: "[[_Standards/WikiData/WD~popular_music,373342]]"
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
+subclass_of: '[[_Standards/WikiData/WD~popular_music,373342]]'
 different_from:
-  - "[[_Standards/WikiData/WD~light_music,1537056]]"
-  - "[[_Standards/WikiData/WD~musica_leggera,97326344]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~light_music,1537056]]'
+  - '[[_Standards/WikiData/WD~musica_leggera,97326344]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 inception: 1948-01-01T00:00:00Z
 Commons_category: Easy listening music
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Easy%20listening%20CD%20section%2C%20First%20floor%2C%20HMV%2C%20the%20Core%2C%20Leeds%20%2814th%20January%202020%29.jpg

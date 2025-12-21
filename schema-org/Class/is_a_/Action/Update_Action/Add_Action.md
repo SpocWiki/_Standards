@@ -4,20 +4,22 @@ aliases:
   - add_action
   - AddAction
   - is_an_add_action
+  - Add_Action
+  - Add Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - add_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_add_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,29 +1,30 @@
 ---
 aliases:
   - Pädagogik
+  - Pedagogy
 has_id_wikidata: Q7922
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Geisteswissenschaften,944537]]"
-  - "[[_Standards/WikiData/WD~education,8434]]"
-practiced_by: "[[_Standards/WikiData/WD~pedagogue,1231865]]"
+  - '[[_Standards/WikiData/WD~Geisteswissenschaften,944537]]'
+  - '[[_Standards/WikiData/WD~education,8434]]'
+practiced_by: '[[_Standards/WikiData/WD~pedagogue,1231865]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-studied_by: "[[_Standards/WikiData/WD~educommunication,8772471]]"
-different_from: "[[_Standards/WikiData/WD~didactic_method,7921]]"
-is_the_study_of: "[[_Standards/WikiData/WD~education,8434]]"
-Dewey_Decimal_Classification: "370"
-Basisklassifikation: "80"
+  - '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+studied_by: '[[_Standards/WikiData/WD~educommunication,8772471]]'
+different_from: '[[_Standards/WikiData/WD~didactic_method,7921]]'
+is_the_study_of: '[[_Standards/WikiData/WD~education,8434]]'
+Dewey_Decimal_Classification: 370
+Basisklassifikation: 80
 Commons_category: Pedagogy
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20B%20145%20Bild-F079064-0006%2C%20Bonn%2C%20Gymnasium.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteur%20Journ%C3%A9e%202%20-%2021%20%28Madehub%29-p%C3%A9dagogie.wav

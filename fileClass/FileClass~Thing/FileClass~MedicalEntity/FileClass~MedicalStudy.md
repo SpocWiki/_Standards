@@ -1,44 +1,46 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MedicalStudy
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-- id: bGnskj
-  name: HealthCondition
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalCondition')"
-  type: MultiFile
-  path: ''
-- id: 9XIVL2
-  name: Sponsor
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: vGMNiz
-  name: StudyLocation
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place/AdministrativeArea')"
-  type: MultiFile
-  path: ''
-- id: sUkODv
-  name: StudySubject
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity')"
-  type: MultiFile
-  path: ''
+  - id: bGnskj
+    name: HealthCondition
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
+    type: MultiFile
+    path: ''
+  - id: 9XIVL2
+    name: Sponsor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: vGMNiz
+    name: StudyLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
+    type: MultiFile
+    path: ''
+  - id: sUkODv
+    name: StudySubject
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MedicalStudy
-- class/Thing/MedicalEntity/MedicalStudy
-- is_a_/MedicalStudy
-- schema-org/MedicalStudy
+  - class/MedicalStudy
+  - class/Thing/MedicalEntity/MedicalStudy
+  - is_a_/MedicalStudy
+  - schema-org/MedicalStudy
 tags:
-- class/FileClass
-- class/MedicalStudy
-- is_a_/MedicalStudy
-- class/Thing/MedicalEntity/MedicalStudy
+  - class/FileClass
+  - class/MedicalStudy
+  - is_a_/MedicalStudy
+  - class/Thing/MedicalEntity/MedicalStudy
 version: 2.0
 ---
 

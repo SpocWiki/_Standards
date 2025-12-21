@@ -4,20 +4,22 @@ aliases:
   - bus_stop
   - BusStop
   - is_a_bus_stop
+  - Bus_Stop
+  - Bus Stop
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - bus_stop
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_bus_stop Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

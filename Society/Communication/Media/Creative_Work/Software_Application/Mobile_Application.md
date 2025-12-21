@@ -4,20 +4,22 @@ aliases:
   - mobile_application
   - MobileApplication
   - is_a_mobile_application
+  - Mobile_Application
+  - Mobile Application
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - mobile_application
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_mobile_application Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

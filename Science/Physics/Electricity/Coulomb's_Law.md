@@ -1,6 +1,8 @@
 ---
 aliases:
   - Coulomb's law
+  - Coulomb's_Law
+  - Coulomb's Law
 has_id_wikidata: Q83152
 ---
 

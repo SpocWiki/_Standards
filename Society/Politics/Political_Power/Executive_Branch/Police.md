@@ -1,6 +1,7 @@
 ---
 aliases:
   - Polizei
+  - Police
 has_id_wikidata: Q35535
 MeSH_tree_code:
   - M01.526.760
@@ -10,26 +11,26 @@ subreddit:
   - policeporn
   - police
 different_from:
-  - "[[_Standards/WikiData/WD~Police,223925]]"
-  - "[[_Standards/WikiData/WD~police_officer,384593]]"
-  - "[[_Standards/WikiData/WD~Policja,11821680]]"
-  - "[[_Standards/WikiData/WD~prevention_service,15692375]]"
-  - "[[_Standards/WikiData/WD~military,8473]]"
-has_part_s_: "[[_Standards/WikiData/WD~police_officer,384593]]"
-subclass_of: "[[_Standards/WikiData/WD~law_enforcement_agency,732717]]"
+  - '[[_Standards/WikiData/WD~Police,223925]]'
+  - '[[_Standards/WikiData/WD~police_officer,384593]]'
+  - '[[_Standards/WikiData/WD~Policja,11821680]]'
+  - '[[_Standards/WikiData/WD~prevention_service,15692375]]'
+  - '[[_Standards/WikiData/WD~military,8473]]'
+has_part_s_: '[[_Standards/WikiData/WD~police_officer,384593]]'
+subclass_of: '[[_Standards/WikiData/WD~law_enforcement_agency,732717]]'
 part_of:
-  - "[[_Standards/WikiData/WD~local_government,6501447]]"
-  - "[[_Standards/WikiData/WD~state,7275]]"
+  - '[[_Standards/WikiData/WD~local_government,6501447]]'
+  - '[[_Standards/WikiData/WD~state,7275]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Q100775579,100775579]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_policing,20981084]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Police,21265305]]"
-has_use: "[[_Standards/WikiData/WD~law_enforcement,44554]]"
-OmegaWiki_Defined_Meaning: "2852"
+  - '[[_Standards/WikiData/WD~Q100775579,100775579]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_policing,20981084]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Police,21265305]]'
+has_use: '[[_Standards/WikiData/WD~law_enforcement,44554]]'
+OmegaWiki_Defined_Meaning: 2852
 Commons_category: Police
 DPLA_subject_term: Police
 Commons_gallery: Police
@@ -42,9 +43,9 @@ equivalent_class:
   - http://data.culture.fr/thesaurus/resource/ark:/67717/T1-471
   - http://dbpedia.org/resource/Police
   - http://www.eionet.europa.eu/gemet/concept/6367
-U_S_National_Archives_Identifier: "10643529"
+U_S_National_Archives_Identifier: 10643529
 Iconclass_notation: 44G22
-Common_Procurement_Vocabulary_code: "75241100"
+Common_Procurement_Vocabulary_code: 75241100
 ---
 
 # [[Police]] 

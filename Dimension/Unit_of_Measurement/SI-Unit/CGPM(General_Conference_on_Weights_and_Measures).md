@@ -3,11 +3,13 @@ aliases:
   - General Conference on Weights and Measures
   - CGPM
   - Conférence générale des poids et mesures
+  - CGPM(General_Conference_on_Weights_and_Measures)
+  - CGPM(General Conference on Weights and Measures)
 has_id_wikidata: Q215650
-part_of: "[[_Standards/WikiData/WD~International_Bureau_of_Weights_and_Measures,229478]]"
-instance_of: "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
-applies_to_jurisdiction: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Grand_Paris,16665915]]"
+part_of: '[[_Standards/WikiData/WD~International_Bureau_of_Weights_and_Measures,229478]]'
+instance_of: '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Grand_Paris,16665915]]'
 inception: 1889-09-21T00:00:00Z
 short_name:
   - CGPM

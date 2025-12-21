@@ -1,6 +1,7 @@
 ---
 aliases:
   - Indo-European languages
+  - LangFamily-Indo-European
 has_id_wikidata: Q19860
 tags:
   - Lang_Family
@@ -12,45 +13,45 @@ short_name:
   - Indoeuropäisch
   - Indogermanisch
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Italic,131848]]"
-  - "[[_Standards/WikiData/WD~Balto_Slavic,147356]]"
-  - "[[_Standards/WikiData/WD~Hellenic,2042538]]"
-  - "[[_Standards/WikiData/WD~Paeonian,2705672]]"
-  - "[[_Standards/WikiData/WD~Albanian,8748]]"
-  - "[[_Standards/WikiData/WD~Armenian,8785]]"
-  - "[[_Standards/WikiData/WD~Germanic_languages,21200]]"
-  - "[[_Standards/WikiData/WD~Celtic_languages,25293]]"
-  - "[[_Standards/WikiData/WD~Indo_Iranian,33514]]"
-  - "[[_Standards/WikiData/WD~Liburnian,35835]]"
-  - "[[_Standards/WikiData/WD~Lusitanian,35960]]"
-  - "[[_Standards/WikiData/WD~Illyrian,35976]]"
-  - "[[_Standards/WikiData/WD~Messapian,36383]]"
-  - "[[_Standards/WikiData/WD~Phrygian,36751]]"
-  - "[[_Standards/WikiData/WD~Thracian,36793]]"
-  - "[[_Standards/WikiData/WD~Tocharian,37029]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Jones,273969]]"
-linguistic_typology: "[[_Standards/WikiData/WD~fusional_language,318917]]"
+  - '[[_Standards/WikiData/WD~Italic,131848]]'
+  - '[[_Standards/WikiData/WD~Balto_Slavic,147356]]'
+  - '[[_Standards/WikiData/WD~Hellenic,2042538]]'
+  - '[[_Standards/WikiData/WD~Paeonian,2705672]]'
+  - '[[_Standards/WikiData/WD~Albanian,8748]]'
+  - '[[_Standards/WikiData/WD~Armenian,8785]]'
+  - '[[_Standards/WikiData/WD~Germanic_languages,21200]]'
+  - '[[_Standards/WikiData/WD~Celtic_languages,25293]]'
+  - '[[_Standards/WikiData/WD~Indo_Iranian,33514]]'
+  - '[[_Standards/WikiData/WD~Liburnian,35835]]'
+  - '[[_Standards/WikiData/WD~Lusitanian,35960]]'
+  - '[[_Standards/WikiData/WD~Illyrian,35976]]'
+  - '[[_Standards/WikiData/WD~Messapian,36383]]'
+  - '[[_Standards/WikiData/WD~Phrygian,36751]]'
+  - '[[_Standards/WikiData/WD~Thracian,36793]]'
+  - '[[_Standards/WikiData/WD~Tocharian,37029]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Jones,273969]]'
+linguistic_typology: '[[_Standards/WikiData/WD~fusional_language,318917]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Eurasiatic,771861]]"
-  - "[[_Standards/WikiData/WD~human_language,20162172]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Indo_European_languages,18707455]]"
+  - '[[_Standards/WikiData/WD~Eurasiatic,771861]]'
+  - '[[_Standards/WikiData/WD~human_language,20162172]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Indo_European_languages,18707455]]'
 named_after:
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
-follows: "[[_Standards/WikiData/WD~Proto_Indo_European,37178]]"
+  - '[[_Standards/WikiData/WD~India,668]]'
+  - '[[_Standards/WikiData/WD~Europe,46]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
+follows: '[[_Standards/WikiData/WD~Proto_Indo_European,37178]]'
 number_of_speakers_writers_or_signers: 3390000000
-OmegaWiki_Defined_Meaning: "343595"
+OmegaWiki_Defined_Meaning: 343595
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/IE%20countries.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/IndoEuropeanTree.svg
 exact_match: http://publications.europa.eu/resource/authority/language/INE
 described_at_URL: http://www.sorosoro.org/famille-des-langues-indo-europeennes/
 Dewey_Decimal_Classification:
-  - "417.7"
+  - 417.7
   - 6--1
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/INDOEVROPESKIE_YAZIKI.html
 Linguist_List_code: ieur

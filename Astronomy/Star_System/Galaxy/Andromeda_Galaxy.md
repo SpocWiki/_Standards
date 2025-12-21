@@ -4,6 +4,8 @@ aliases:
   - Messier 31
   - M31
   - NGC 224
+  - Andromeda_Galaxy
+  - Andromeda Galaxy
 ---
 
 # [[Andromeda_Galaxy]] 

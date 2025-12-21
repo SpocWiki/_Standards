@@ -3,23 +3,24 @@ aliases:
   - has size-system
   - sizeSystem
   - has_size_system
+  - has size system
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - size_system
   - size
   - system
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_size_system
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

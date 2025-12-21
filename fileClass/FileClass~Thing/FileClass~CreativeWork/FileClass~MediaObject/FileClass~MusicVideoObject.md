@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MusicVideoObject
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MusicVideoObject
-- class/Thing/CreativeWork/MediaObject/MusicVideoObject
-- is_a_/MusicVideoObject
-- schema-org/MusicVideoObject
+  - class/MusicVideoObject
+  - class/Thing/CreativeWork/MediaObject/MusicVideoObject
+  - is_a_/MusicVideoObject
+  - schema-org/MusicVideoObject
 tags:
-- class/FileClass
-- class/MusicVideoObject
-- is_a_/MusicVideoObject
-- class/Thing/CreativeWork/MediaObject/MusicVideoObject
+  - class/FileClass
+  - class/MusicVideoObject
+  - is_a_/MusicVideoObject
+  - class/Thing/CreativeWork/MediaObject/MusicVideoObject
 version: 2.0
 ---
 

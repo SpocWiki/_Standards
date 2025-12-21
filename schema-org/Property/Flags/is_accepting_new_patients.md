@@ -4,21 +4,22 @@ aliases:
   - accepting_new_patients
   - isAcceptingNewPatients
   - is_accepting_new_patients
+  - is accepting new patients
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - accepting_new_patients
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_accepting_new_patients
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~LoseAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~AchieveAction
 fields:
-- id: wKv3Ox
-  name: Winner
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
+  - id: wKv3Ox
+    name: Winner
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/LoseAction
-- class/Thing/Action/AchieveAction/LoseAction
-- is_a_/LoseAction
-- schema-org/LoseAction
+  - class/LoseAction
+  - class/Thing/Action/AchieveAction/LoseAction
+  - is_a_/LoseAction
+  - schema-org/LoseAction
 tags:
-- class/FileClass
-- class/LoseAction
-- is_a_/LoseAction
-- class/Thing/Action/AchieveAction/LoseAction
+  - class/FileClass
+  - class/LoseAction
+  - is_a_/LoseAction
+  - class/Thing/Action/AchieveAction/LoseAction
 version: 2.0
 ---
 

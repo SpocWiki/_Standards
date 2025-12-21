@@ -3,68 +3,69 @@ aliases:
   - Persian
   - Farsi
   - Parsi
+  - Lang-fas
 has_id_wikidata: Q9168
 instance_of:
-  - "[[_Standards/WikiData/WD~macrolanguage,152559]]"
-  - "[[_Standards/WikiData/WD~dialect_continuum,215844]]"
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~dialect_group,1208380]]"
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~language_family,25295]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
-  - "[[_Standards/WikiData/WD~language,34770]]"
+  - '[[_Standards/WikiData/WD~macrolanguage,152559]]'
+  - '[[_Standards/WikiData/WD~dialect_continuum,215844]]'
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~dialect_group,1208380]]'
+  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
+  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+  - '[[_Standards/WikiData/WD~language_family,25295]]'
+  - '[[_Standards/WikiData/WD~natural_language,33742]]'
+  - '[[_Standards/WikiData/WD~language,34770]]'
 has_tense:
-  - "[[_Standards/WikiData/WD~present_tense,192613]]"
-  - "[[_Standards/WikiData/WD~future_tense,501405]]"
-  - "[[_Standards/WikiData/WD~future_perfect,1234617]]"
-  - "[[_Standards/WikiData/WD~present_perfect,1240211]]"
-  - "[[_Standards/WikiData/WD~past_tense,1994301]]"
-  - "[[_Standards/WikiData/WD~past_perfect_simple,2056212]]"
-  - "[[_Standards/WikiData/WD~present_continuous,7240943]]"
+  - '[[_Standards/WikiData/WD~present_tense,192613]]'
+  - '[[_Standards/WikiData/WD~future_tense,501405]]'
+  - '[[_Standards/WikiData/WD~future_perfect,1234617]]'
+  - '[[_Standards/WikiData/WD~present_perfect,1240211]]'
+  - '[[_Standards/WikiData/WD~past_tense,1994301]]'
+  - '[[_Standards/WikiData/WD~past_perfect_simple,2056212]]'
+  - '[[_Standards/WikiData/WD~present_continuous,7240943]]'
 language_regulatory_body:
-  - "[[_Standards/WikiData/WD~Academy_of_Persian_Language_and_Literature,324478]]"
-  - "[[_Standards/WikiData/WD~Academy_of_Sciences_of_Afghanistan,1140984]]"
-  - "[[_Standards/WikiData/WD~Rudaki_Institute_of_Language_and_Literature,105303665]]"
+  - '[[_Standards/WikiData/WD~Academy_of_Persian_Language_and_Literature,324478]]'
+  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Afghanistan,1140984]]'
+  - '[[_Standards/WikiData/WD~Rudaki_Institute_of_Language_and_Literature,105303665]]'
 has_grammatical_mood:
-  - "[[_Standards/WikiData/WD~subjunctive,473746]]"
-  - "[[_Standards/WikiData/WD~optative,527205]]"
-  - "[[_Standards/WikiData/WD~indicative,682111]]"
-  - "[[_Standards/WikiData/WD~imperative,22716]]"
-linguistic_typology: "[[_Standards/WikiData/WD~subject_object_verb,539808]]"
+  - '[[_Standards/WikiData/WD~subjunctive,473746]]'
+  - '[[_Standards/WikiData/WD~optative,527205]]'
+  - '[[_Standards/WikiData/WD~indicative,682111]]'
+  - '[[_Standards/WikiData/WD~imperative,22716]]'
+linguistic_typology: '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 writing_system:
-  - "[[_Standards/WikiData/WD~Persian_alphabet,744068]]"
-  - "[[_Standards/WikiData/WD~Arabic_script,1828555]]"
-part_of: "[[_Standards/WikiData/WD~languages_of_Iran,3242187]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Persian_language,5953521]]"
-studied_by: "[[_Standards/WikiData/WD~Persian_studies,7170261]]"
+  - '[[_Standards/WikiData/WD~Persian_alphabet,744068]]'
+  - '[[_Standards/WikiData/WD~Arabic_script,1828555]]'
+part_of: '[[_Standards/WikiData/WD~languages_of_Iran,3242187]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Persian_language,5953521]]'
+studied_by: '[[_Standards/WikiData/WD~Persian_studies,7170261]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Persian_language,8084954]]"
-  - "[[_Standards/WikiData/WD~Q104212733,104212733]]"
-UNESCO_language_status: "[[_Standards/WikiData/WD~1_safe,20672086]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~Q131938994,131938994]]"
+  - '[[_Standards/WikiData/WD~Template_Persian_language,8084954]]'
+  - '[[_Standards/WikiData/WD~Q104212733,104212733]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q131938994,131938994]]'
 country:
-  - "[[_Standards/WikiData/WD~Uzbekistan,265]]"
-  - "[[_Standards/WikiData/WD~Bahrain,398]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Iraq,796]]"
-  - "[[_Standards/WikiData/WD~Kuwait,817]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Tajikistan,863]]"
-  - "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
-  - "[[_Standards/WikiData/WD~Afghanistan,889]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-indigenous_to: "[[_Standards/WikiData/WD~Greater_Iran,25763]]"
-follows: "[[_Standards/WikiData/WD~Middle_Persian,32063]]"
+  - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
+  - '[[_Standards/WikiData/WD~Bahrain,398]]'
+  - '[[_Standards/WikiData/WD~Iran,794]]'
+  - '[[_Standards/WikiData/WD~Iraq,796]]'
+  - '[[_Standards/WikiData/WD~Kuwait,817]]'
+  - '[[_Standards/WikiData/WD~Pakistan,843]]'
+  - '[[_Standards/WikiData/WD~Tajikistan,863]]'
+  - '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
+  - '[[_Standards/WikiData/WD~Afghanistan,889]]'
+  - '[[_Standards/WikiData/WD~Russia,159]]'
+indigenous_to: '[[_Standards/WikiData/WD~Greater_Iran,25763]]'
+follows: '[[_Standards/WikiData/WD~Middle_Persian,32063]]'
 number_of_speakers_writers_or_signers: 45000000
-IAB_code: "1073"
-OmegaWiki_Defined_Meaning: "6239"
-ABS_ASCL_2011_code: "4106"
+IAB_code: 1073
+OmegaWiki_Defined_Meaning: 6239
+ABS_ASCL_2011_code: 4106
 ISO_639_2_code:
   - per
   - fas
@@ -88,7 +89,7 @@ short_name:
   - farsi
 native_label: فارسی
 GOST_7_75_97_code: пер 535
-Dewey_Decimal_Classification: "491.55"
+Dewey_Decimal_Classification: 491.55
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Persian%20Language%20Location%20Map.svg
 Commons_category: Persian language
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Farsi.svg

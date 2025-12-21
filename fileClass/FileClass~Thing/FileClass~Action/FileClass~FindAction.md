@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~FindAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/FindAction
-- class/Thing/Action/FindAction
-- is_a_/FindAction
-- schema-org/FindAction
+  - class/FindAction
+  - class/Thing/Action/FindAction
+  - is_a_/FindAction
+  - schema-org/FindAction
 tags:
-- class/FileClass
-- class/FindAction
-- is_a_/FindAction
-- class/Thing/Action/FindAction
+  - class/FileClass
+  - class/FindAction
+  - is_a_/FindAction
+  - class/Thing/Action/FindAction
 version: 2.0
 ---
 

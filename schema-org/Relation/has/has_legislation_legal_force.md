@@ -3,12 +3,13 @@ aliases:
   - has legislation-legal-force
   - legislationLegalForce
   - has_legislation_legal_force
+  - has legislation legal force
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - legislation
   - legal
   - force
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_legislation_legal_force
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Geothermal energy
+  - Geothermal_Energy
+  - Geothermal Energy
 has_id_wikidata: Q127993
 subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
@@ -14,7 +16,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~renewable_energy,12705]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mrow data-mjx-texclass="ORD"><mi>𝖬</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>
-OmegaWiki_Defined_Meaning: "1650"
+OmegaWiki_Defined_Meaning: 1650
 subreddit: geothermal
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/00%203571%20Geothermal%20power%20plant%20in%20New%20Zealand.jpg

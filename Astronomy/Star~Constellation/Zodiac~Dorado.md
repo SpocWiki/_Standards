@@ -1,32 +1,33 @@
 ---
 aliases:
   - Schwertfisch
+  - Zodiac~Dorado
+has_id_wikidata: Q8837
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-has_id_wikidata: Q8837
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Petrus_Plancius,333534]]"
-part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Petrus_Plancius,333534]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Stars_of_Dorado,8084781]]"
-  - "[[_Standards/WikiData/WD~Q10729078,10729078]]"
+  - '[[_Standards/WikiData/WD~Template_Stars_of_Dorado,8084781]]'
+  - '[[_Standards/WikiData/WD~Q10729078,10729078]]'
 inception: 1598-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Mensa,9289]]"
-  - "[[_Standards/WikiData/WD~Hydrus,10416]]"
-  - "[[_Standards/WikiData/WD~Volans,10437]]"
-  - "[[_Standards/WikiData/WD~Pictor,10486]]"
-  - "[[_Standards/WikiData/WD~Caelum,10488]]"
-  - "[[_Standards/WikiData/WD~Reticulum,10498]]"
-  - "[[_Standards/WikiData/WD~Horologium,10574]]"
-named_after: "[[_Standards/WikiData/WD~mahi_mahi,14443]]"
+  - '[[_Standards/WikiData/WD~Mensa,9289]]'
+  - '[[_Standards/WikiData/WD~Hydrus,10416]]'
+  - '[[_Standards/WikiData/WD~Volans,10437]]'
+  - '[[_Standards/WikiData/WD~Pictor,10486]]'
+  - '[[_Standards/WikiData/WD~Caelum,10488]]'
+  - '[[_Standards/WikiData/WD~Reticulum,10498]]'
+  - '[[_Standards/WikiData/WD~Horologium,10574]]'
+named_after: '[[_Standards/WikiData/WD~mahi_mahi,14443]]'
 area: 179
 Commons_category: Dorado (constellation)
 official_name: Dorado

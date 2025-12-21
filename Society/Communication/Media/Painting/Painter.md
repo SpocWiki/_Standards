@@ -1,6 +1,7 @@
 ---
 aliases:
-- Painters
+  - Painters
+  - Painter
 ---
 
 # [[Painter]] 

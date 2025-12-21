@@ -5,33 +5,33 @@ aliases:
   - ܣܘܪܝܬ
   - Assyrian"
 has_id_wikidata: Q33538
-indigenous_to: "[[_Standards/WikiData/WD~Şanlıurfa_Province,388469]]"
+indigenous_to: '[[_Standards/WikiData/WD~Şanlıurfa_Province,388469]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Ancient_Church_of_the_East,435787]]"
-  - "[[_Standards/WikiData/WD~Malankara_Orthodox_Syrian_Church,532662]]"
-  - "[[_Standards/WikiData/WD~Assyrian_Pentecostal_Church,4810445]]"
-  - "[[_Standards/WikiData/WD~Chaldean_Catholic_Church,64868]]"
+  - '[[_Standards/WikiData/WD~Ancient_Church_of_the_East,435787]]'
+  - '[[_Standards/WikiData/WD~Malankara_Orthodox_Syrian_Church,532662]]'
+  - '[[_Standards/WikiData/WD~Assyrian_Pentecostal_Church,4810445]]'
+  - '[[_Standards/WikiData/WD~Chaldean_Catholic_Church,64868]]'
 has_grammatical_gender:
-  - "[[_Standards/WikiData/WD~masculine,499327]]"
-  - "[[_Standards/WikiData/WD~feminine,1775415]]"
+  - '[[_Standards/WikiData/WD~masculine,499327]]'
+  - '[[_Standards/WikiData/WD~feminine,1775415]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~sacred_language,839470]]"
-  - "[[_Standards/WikiData/WD~historical_language,2315359]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
+  - '[[_Standards/WikiData/WD~sacred_language,839470]]'
+  - '[[_Standards/WikiData/WD~historical_language,2315359]]'
+  - '[[_Standards/WikiData/WD~natural_language,33742]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-different_from: "[[_Standards/WikiData/WD~Syrian_Arabic,2143071]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+different_from: '[[_Standards/WikiData/WD~Syrian_Arabic,2143071]]'
 writing_system:
-  - "[[_Standards/WikiData/WD~Estrangela,3510984]]"
-  - "[[_Standards/WikiData/WD~Syriac_alphabet,26567]]"
-studied_by: "[[_Standards/WikiData/WD~Syriac_studies,7663197]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~9_Second_language_only,61954942]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q104771328,104771328]]"
-subclass_of: "[[_Standards/WikiData/WD~Aramaic,28602]]"
-country: "[[_Standards/WikiData/WD~Turkey,43]]"
+  - '[[_Standards/WikiData/WD~Estrangela,3510984]]'
+  - '[[_Standards/WikiData/WD~Syriac_alphabet,26567]]'
+studied_by: '[[_Standards/WikiData/WD~Syriac_studies,7663197]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~9_Second_language_only,61954942]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q104771328,104771328]]'
+subclass_of: '[[_Standards/WikiData/WD~Aramaic,28602]]'
+country: '[[_Standards/WikiData/WD~Turkey,43]]'
 POSIX_locale_identifier: syr
-OmegaWiki_Defined_Meaning: "499384"
+OmegaWiki_Defined_Meaning: 499384
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Syriac%20-%20Estrangelo%20Nisibin%20Calligraphy.png
 exact_match: http://publications.europa.eu/resource/authority/language/SYC
 Glottolog_code: clas1252
@@ -44,7 +44,7 @@ Commons_category: Syriac language
 GOST_7_75_97_code: сир 602
 entry_in_abbreviations_table: сир.
 native_label: ܠܫܢܐ ܣܘܪܝܝܐ
-Dewey_Decimal_Classification: "492.3"
+Dewey_Decimal_Classification: 492.3
 ---
 
 # [[Syriac]] 

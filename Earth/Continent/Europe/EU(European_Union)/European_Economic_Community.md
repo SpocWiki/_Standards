@@ -4,21 +4,22 @@ aliases:
   - European Community
   - European Economic Community
   - EEC
+  - European_Economic_Community
 has_id_wikidata: Q52847
 followed_by:
-  - "[[_Standards/WikiData/WD~European_Community,260487]]"
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-different_from: "[[_Standards/WikiData/WD~common_market_of_the_European_Economic_Community,21745481]]"
-has_part_s_: "[[_Standards/WikiData/WD~common_market_of_the_European_Economic_Community,21745481]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~common_market_of_the_European_Economic_Community,21745481]]"
-described_by_source: "[[_Standards/WikiData/WD~Medvik,99413897]]"
-child_organization_unit: "[[_Standards/WikiData/WD~Joint_Information_Service_of_the_European_Community,128765740]]"
-replaced_by: "[[_Standards/WikiData/WD~European_Union,458]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]"
-anthem: "[[_Standards/WikiData/WD~Anthem_of_Europe,11993]]"
-instance_of: "[[_Standards/WikiData/WD~organization,43229]]"
+  - '[[_Standards/WikiData/WD~European_Community,260487]]'
+  - '[[_Standards/WikiData/WD~European_Union,458]]'
+different_from: '[[_Standards/WikiData/WD~common_market_of_the_European_Economic_Community,21745481]]'
+has_part_s_: '[[_Standards/WikiData/WD~common_market_of_the_European_Economic_Community,21745481]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~common_market_of_the_European_Economic_Community,21745481]]'
+described_by_source: '[[_Standards/WikiData/WD~Medvik,99413897]]'
+child_organization_unit: '[[_Standards/WikiData/WD~Joint_Information_Service_of_the_European_Community,128765740]]'
+replaced_by: '[[_Standards/WikiData/WD~European_Union,458]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]'
+anthem: '[[_Standards/WikiData/WD~Anthem_of_Europe,11993]]'
+instance_of: '[[_Standards/WikiData/WD~organization,43229]]'
 BHCL_UUID: 59419c6c-2a2a-44b0-a75b-49a5a00f30ad
-ISNI: "0000000122904914"
+ISNI: 0000000122904914
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Europe.svg
 EU_Corporate_body_code: EEC
 inception: 1958-01-01T00:00:00Z

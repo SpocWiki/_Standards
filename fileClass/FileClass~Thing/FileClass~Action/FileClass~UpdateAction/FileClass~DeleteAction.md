@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DeleteAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~UpdateAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DeleteAction
-- class/Thing/Action/UpdateAction/DeleteAction
-- is_a_/DeleteAction
-- schema-org/DeleteAction
+  - class/DeleteAction
+  - class/Thing/Action/UpdateAction/DeleteAction
+  - is_a_/DeleteAction
+  - schema-org/DeleteAction
 tags:
-- class/FileClass
-- class/DeleteAction
-- is_a_/DeleteAction
-- class/Thing/Action/UpdateAction/DeleteAction
+  - class/FileClass
+  - class/DeleteAction
+  - is_a_/DeleteAction
+  - class/Thing/Action/UpdateAction/DeleteAction
 version: 2.0
 ---
 

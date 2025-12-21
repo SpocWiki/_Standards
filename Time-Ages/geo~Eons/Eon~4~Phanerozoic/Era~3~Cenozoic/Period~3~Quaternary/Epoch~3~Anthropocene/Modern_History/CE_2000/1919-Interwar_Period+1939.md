@@ -2,10 +2,12 @@
 aliases:
   - interwar period
   - interbellum
+  - 1919-Interwar_Period+1939
+  - 1919-Interwar Period+1939
 has_id_wikidata: Q154611
-instance_of: "[[_Standards/WikiData/WD~historical_period,11514315]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Interwar_period,13341431]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~Q59078586,59078586]]"
+instance_of: '[[_Standards/WikiData/WD~historical_period,11514315]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Interwar_period,13341431]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q59078586,59078586]]'
 subject_named_as: Zwischenkriegszeit
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20in%201923.jpg
 Commons_category: Interwar period

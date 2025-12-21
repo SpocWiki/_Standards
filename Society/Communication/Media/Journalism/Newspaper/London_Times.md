@@ -3,6 +3,8 @@ aliases:
   - The London Times
   - The Times of London
   - The_Times
+  - London_Times
+  - London Times
 has_id_wikidata: Q50008
 ---
 

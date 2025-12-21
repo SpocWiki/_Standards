@@ -1,6 +1,7 @@
 ---
 aliases:
   - Lautsprecher
+  - Loudspeaker
 has_id_wikidata: Q570
 creator: "[[_Standards/WikiData/WD~Dieter_Rams,76427]]"
 part_of:
@@ -26,8 +27,8 @@ subclass_of:
 discoverer_or_inventor:
   - "[[_Standards/WikiData/WD~Edward_Washburn_Kellogg,1293995]]"
   - "[[_Standards/WikiData/WD~Chester_Williams_Rice,5093769]]"
-Nomenclature_for_Museum_Cataloging: "11249"
-U_S_National_Archives_Identifier: "10647904"
+Nomenclature_for_Museum_Cataloging: 11249
+U_S_National_Archives_Identifier: 10647904
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/JBL%201200GTI%20DSC9561FP.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Bass%20reflex%20loudspeakers%20by%20Focal-JMLab.jpg
@@ -44,12 +45,12 @@ Unicode_character:
   - 🔈
   - 🔉
   - 🔊
-Iconclass_notation: "46E65312"
+Iconclass_notation: .inf
 IEV_number: 801-27-01
 Commons_gallery: Loudspeaker
 ---
 
-# [[Loudspeaker]] 
+# [[Loudspeaker]]🔊 
 
 #is_/same_as :: [[WD~Loudspeaker,570]] 
 

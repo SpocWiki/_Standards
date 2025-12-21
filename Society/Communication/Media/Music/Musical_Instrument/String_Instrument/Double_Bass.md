@@ -5,24 +5,26 @@ aliases:
   - acoustic bass
   - bull fiddle
   - bass
+  - Double_Bass
+  - Double Bass
 has_id_wikidata: Q80019
-different_from: "[[_Standards/WikiData/WD~acoustic_bass_guitar,424017]]"
+different_from: '[[_Standards/WikiData/WD~acoustic_bass_guitar,424017]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~bass,810447]]"
-  - "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
-used_by: "[[_Standards/WikiData/WD~double_bassist,1214796]]"
-part_of: "[[_Standards/WikiData/WD~violin_family,1365097]]"
-lowest_note: "[[_Standards/WikiData/WD~D,1651121]]"
-award_received: "[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]"
-subclass_of: "[[_Standards/WikiData/WD~necked_box_lutes_played_with_a_bow,57050725]]"
-Nomenclature_for_Museum_Cataloging: "10782"
-U_S_National_Archives_Identifier: "10647753"
+  - '[[_Standards/WikiData/WD~bass,810447]]'
+  - '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+used_by: '[[_Standards/WikiData/WD~double_bassist,1214796]]'
+part_of: '[[_Standards/WikiData/WD~violin_family,1365097]]'
+lowest_note: '[[_Standards/WikiData/WD~D,1651121]]'
+award_received: '[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]'
+subclass_of: '[[_Standards/WikiData/WD~necked_box_lutes_played_with_a_bow,57050725]]'
+Nomenclature_for_Museum_Cataloging: 10782
+U_S_National_Archives_Identifier: 10647753
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Range%20contrabass.png
 Hornbostel_Sachs_classification: 321.322-71
 inception:

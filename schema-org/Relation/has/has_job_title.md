@@ -3,23 +3,24 @@ aliases:
   - has job-title
   - jobTitle
   - has_job_title
+  - has job title
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - job_title
   - job
   - title
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_job_title
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,21 +1,22 @@
 ---
 aliases:
   - Roman Art
+  - Roman_Art
 has_id_wikidata: Q3354732
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 part_of:
-  - "[[_Standards/WikiData/WD~culture_of_ancient_Rome,1200427]]"
-  - "[[_Standards/WikiData/WD~classical_arts_and_culture,12776671]]"
+  - '[[_Standards/WikiData/WD~culture_of_ancient_Rome,1200427]]'
+  - '[[_Standards/WikiData/WD~classical_arts_and_culture,12776671]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~ancient_art,2277510]]"
-  - "[[_Standards/WikiData/WD~art_of_the_Earth,13150034]]"
-has_list: "[[_Standards/WikiData/WD~chronological_list_of_Ancient_Roman_art,4501742]]"
-instance_of: "[[_Standards/WikiData/WD~art_of_an_area,25679497]]"
+  - '[[_Standards/WikiData/WD~ancient_art,2277510]]'
+  - '[[_Standards/WikiData/WD~art_of_the_Earth,13150034]]'
+has_list: '[[_Standards/WikiData/WD~chronological_list_of_Ancient_Roman_art,4501742]]'
+instance_of: '[[_Standards/WikiData/WD~art_of_an_area,25679497]]'
 Commons_category: Ancient Roman art
 ---
 

@@ -1,6 +1,4 @@
 ---
-age_of_majority: 18
-aircraft_registration_prefix: CX
 aliases:
   - Uruguay
   - أوروغواي
@@ -9,6 +7,9 @@ aliases:
   - the Eastern Republic of Uruguay
   - la República Oriental del Uruguay
   - Uruguay (el)
+has_id_wikidata: Q77
+age_of_majority: 18
+aircraft_registration_prefix: CX
 anthem: "[[_Standards/WikiData/WD~National_Anthem_of_Uruguay,336306]]"
 area: 176215
 award_received: "[[_Standards/WikiData/WD~The_Economist_country_of_the_year,47004555]]"
@@ -214,7 +215,7 @@ electrical_plug_type:
   - "[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]"
 emergency_phone_number: "[[_Standards/WikiData/WD~911,533806]]"
 executive_body: "[[_Standards/WikiData/WD~Presidencia_de_la_República,104809052]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 1764421
   - 1766768
@@ -231,7 +232,6 @@ GS1_country_code: 773
 Happy_Planet_Index_score: 57.5
 hashtag: Uruguay
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-has_id_wikidata: Q77
 has_time_started: 1825-08-25
 head_of_government: "[[_Standards/WikiData/WD~Luis_Lacalle_Pou,6800406]]"
 head_of_state: "[[_Standards/WikiData/WD~Luis_Lacalle_Pou,6800406]]"
@@ -257,19 +257,19 @@ ISO_3166_1_alpha_3_code: URY
 ISO_3166_1_numeric_code: 858
 isReadOnly: false
 ITU_letter_code: URG
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/URUGVA.html
 Languages:
   - es-UY
 language_used:
   - "[[_Standards/WikiData/WD~Uruguayan_Sign_Language,7901470]]"
   - "[[_Standards/WikiData/WD~Spanish,1321]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~General_Assembly_of_Uruguay,1501988]]"
 licence_plate_code: UY
 license: CC BY-SA 4.0
 life_expectancy: 77.493
-linkTitle:
+linkTitle: ""
 located_in_or_next_to_body_of_water:
   - "[[_Standards/WikiData/WD~Uruguay_River,18278]]"
   - "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
@@ -359,7 +359,7 @@ public_holiday:
   - "[[_Standards/WikiData/WD~Christmas,19809]]"
   - "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side:
   - "[[_Standards/WikiData/WD~left,13196750]]"
   - "[[_Standards/WikiData/WD~right,14565199]]"

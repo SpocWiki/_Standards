@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Burkina Faso
+  - بوركينا فاسو
+  - 布基纳法索
+  - Буркина-Фасо
+  - Burkina_Faso
+has_id_wikidata: Q965
 highest_point: "[[_Standards/WikiData/WD~Mount_Tenakourou,116675]]"
 instance_of:
   - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
@@ -326,7 +333,7 @@ number_of_out_of_school_children: 2493607
 ISO_3166_1_alpha_3_code: BFA
 ITU_letter_code: BFA
 IOC_country_code: BUR
-inception: "1960"
+inception: 1960
 has_time_started: 1960-06
 male_population:
   - 10431262
@@ -346,7 +353,6 @@ nominal_GDP:
   - 18884619613
   - 19737616003
 Unicode_character: 🇧🇫
-has_id_wikidata: Q965
 location:
   - 12.3333
   - -1.66667
@@ -363,17 +369,12 @@ cssclasses:
   - Country
 publish: true
 title: Burkina Faso
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Burkina Faso
-  - بوركينا فاسو
-  - 布基纳法索
-  - Буркина-Фасо
+publishDate: ""
+expiryDate: ""
 Languages:
   - fr-BF
   - mos

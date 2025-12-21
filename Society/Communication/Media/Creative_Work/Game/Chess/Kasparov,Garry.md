@@ -4,71 +4,72 @@ aliases:
   - Garry Kimovich Kasparov
   - Kasparov
   - Garik Kimovich Weinstein
+  - Kasparov,Garry
 has_id_wikidata: Q28614
 member_of_political_party:
-  - "[[_Standards/WikiData/WD~Communist_Party_of_the_Soviet_Union,79854]]"
-  - "[[_Standards/WikiData/WD~Committee_2008,504416]]"
-  - "[[_Standards/WikiData/WD~Democratic_Party_of_Russia,1186305]]"
-  - "[[_Standards/WikiData/WD~United_Civil_Front,1226440]]"
-  - "[[_Standards/WikiData/WD~Solidarnost,1561136]]"
-  - "[[_Standards/WikiData/WD~Russian_Opposition_Coordination_Council,4232166]]"
+  - '[[_Standards/WikiData/WD~Communist_Party_of_the_Soviet_Union,79854]]'
+  - '[[_Standards/WikiData/WD~Committee_2008,504416]]'
+  - '[[_Standards/WikiData/WD~Democratic_Party_of_Russia,1186305]]'
+  - '[[_Standards/WikiData/WD~United_Civil_Front,1226440]]'
+  - '[[_Standards/WikiData/WD~Solidarnost,1561136]]'
+  - '[[_Standards/WikiData/WD~Russian_Opposition_Coordination_Council,4232166]]'
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~journalist,1930187]]"
-  - "[[_Standards/WikiData/WD~critic,6430706]]"
-  - "[[_Standards/WikiData/WD~chess_player,10873124]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~journalist,1930187]]'
+  - '[[_Standards/WikiData/WD~critic,6430706]]'
+  - '[[_Standards/WikiData/WD~chess_player,10873124]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
 title_of_chess_person:
-  - "[[_Standards/WikiData/WD~Grandmaster,105269]]"
-  - "[[_Standards/WikiData/WD~International_Master,752119]]"
-  - "[[_Standards/WikiData/WD~Master_of_Sport_of_USSR_in_Chess,16674680]]"
-  - "[[_Standards/WikiData/WD~FIDE_Senior_Trainer,64821631]]"
+  - '[[_Standards/WikiData/WD~Grandmaster,105269]]'
+  - '[[_Standards/WikiData/WD~International_Master,752119]]'
+  - '[[_Standards/WikiData/WD~Master_of_Sport_of_USSR_in_Chess,16674680]]'
+  - '[[_Standards/WikiData/WD~FIDE_Senior_Trainer,64821631]]'
 student_of:
-  - "[[_Standards/WikiData/WD~Mikhail_Botvinnik,178865]]"
-  - "[[_Standards/WikiData/WD~Mark_Dvoretsky,1900170]]"
-  - "[[_Standards/WikiData/WD~Aleksander_Nikitin,4319706]]"
+  - '[[_Standards/WikiData/WD~Mikhail_Botvinnik,178865]]'
+  - '[[_Standards/WikiData/WD~Mark_Dvoretsky,1900170]]'
+  - '[[_Standards/WikiData/WD~Aleksander_Nikitin,4319706]]'
 residence:
-  - "[[_Standards/WikiData/WD~Makarska,272009]]"
-  - "[[_Standards/WikiData/WD~Moscow,649]]"
-  - "[[_Standards/WikiData/WD~New_York_City,60]]"
+  - '[[_Standards/WikiData/WD~Makarska,272009]]'
+  - '[[_Standards/WikiData/WD~Moscow,649]]'
+  - '[[_Standards/WikiData/WD~New_York_City,60]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_the_Red_Banner_of_Labour,478850]]"
-  - "[[_Standards/WikiData/WD~Order_of_Friendship_of_Peoples,583881]]"
-  - "[[_Standards/WikiData/WD~Chess_Oscar,752000]]"
-  - "[[_Standards/WikiData/WD~Merited_Master_of_Sports_of_the_USSR,9387384]]"
-  - "[[_Standards/WikiData/WD~world_chess_champion,10290970]]"
-  - "[[_Standards/WikiData/WD~Russian_Federation_Presidential_Certificate_of_Gratitude,19399024]]"
-  - "[[_Standards/WikiData/WD~Q134304555,134304555]]"
-handedness: "[[_Standards/WikiData/WD~right_handedness,3039938]]"
-participant_in: "[[_Standards/WikiData/WD~Deep_Blue_versus_Garry_Kasparov,3235334]]"
-relative: "[[_Standards/WikiData/WD~Moisei_Vainshtein,4102520]]"
-member_of: "[[_Standards/WikiData/WD~Russian_Opposition_Coordination_Council,4232166]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Order_of_the_Red_Banner_of_Labour,478850]]'
+  - '[[_Standards/WikiData/WD~Order_of_Friendship_of_Peoples,583881]]'
+  - '[[_Standards/WikiData/WD~Chess_Oscar,752000]]'
+  - '[[_Standards/WikiData/WD~Merited_Master_of_Sports_of_the_USSR,9387384]]'
+  - '[[_Standards/WikiData/WD~world_chess_champion,10290970]]'
+  - '[[_Standards/WikiData/WD~Russian_Federation_Presidential_Certificate_of_Gratitude,19399024]]'
+  - '[[_Standards/WikiData/WD~Q134304555,134304555]]'
+handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
+participant_in: '[[_Standards/WikiData/WD~Deep_Blue_versus_Garry_Kasparov,3235334]]'
+relative: '[[_Standards/WikiData/WD~Moisei_Vainshtein,4102520]]'
+member_of: '[[_Standards/WikiData/WD~Russian_Opposition_Coordination_Council,4232166]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Lentapedia_(full_versions),17311605]]"
-  - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-given_name: "[[_Standards/WikiData/WD~Garry,19801888]]"
+  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+  - '[[_Standards/WikiData/WD~Lentapedia_(full_versions),17311605]]'
+  - '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+given_name: '[[_Standards/WikiData/WD~Garry,19801888]]'
 family_name:
-  - "[[_Standards/WikiData/WD~Vainshtein,21500700]]"
-  - "[[_Standards/WikiData/WD~Kasparov,100320952]]"
-notable_work: "[[_Standards/WikiData/WD~Winter_Is_Coming,23015684]]"
-sport: "[[_Standards/WikiData/WD~chess,718]]"
+  - '[[_Standards/WikiData/WD~Vainshtein,21500700]]'
+  - '[[_Standards/WikiData/WD~Kasparov,100320952]]'
+notable_work: '[[_Standards/WikiData/WD~Winter_Is_Coming,23015684]]'
+sport: '[[_Standards/WikiData/WD~chess,718]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Croatian,6654]]"
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~Armenian,8785]]"
-  - "[[_Standards/WikiData/WD~Azerbaijani,9292]]"
-  - "[[_Standards/WikiData/WD~Serbo_Croatian,9301]]"
-native_language: "[[_Standards/WikiData/WD~Russian,7737]]"
-place_of_birth: "[[_Standards/WikiData/WD~Baku,9248]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_for_sport: "[[_Standards/WikiData/WD~Russia,159]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Croatian,6654]]'
+  - '[[_Standards/WikiData/WD~Russian,7737]]'
+  - '[[_Standards/WikiData/WD~Armenian,8785]]'
+  - '[[_Standards/WikiData/WD~Azerbaijani,9292]]'
+  - '[[_Standards/WikiData/WD~Serbo_Croatian,9301]]'
+native_language: '[[_Standards/WikiData/WD~Russian,7737]]'
+place_of_birth: '[[_Standards/WikiData/WD~Baku,9248]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_for_sport: '[[_Standards/WikiData/WD~Russia,159]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Croatia,224]]"
+  - '[[_Standards/WikiData/WD~Russia,159]]'
+  - '[[_Standards/WikiData/WD~Croatia,224]]'
 Elo_rating: 2812
 Commons_gallery: Garry Kasparov
 Commons_category: Garry Kasparov
@@ -85,8 +86,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Garry%20Kasparov%20Eur
 described_at_URL: http://powerbase.info/index.php/Garry_Kasparov
 Stack_Exchange_tag: https://chess.stackexchange.com/tags/kasparov
 official_website: https://kasparov.com
-ISNI: "0000000109284810"
-Munzinger_Sport_number: "01000001756"
+ISNI: 0000000109284810
+Munzinger_Sport_number: 01000001756
 Plex_person_key: 5d77689a07c4a5001e67a330
 Substack_handle: garrykasparov
 Telegram_username: garrykasparov_official

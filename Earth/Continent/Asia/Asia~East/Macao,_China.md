@@ -1,12 +1,15 @@
 ---
+aliases:
+  - Macao,_China
+  - Macao, China
 confidential: public
 isDeleted: false
 location:
-- 22.1667
-- 113.55
+  - 22.1667
+  - 113.55
 SpocWebEntityId: 57605
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

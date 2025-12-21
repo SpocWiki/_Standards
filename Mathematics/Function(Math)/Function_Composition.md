@@ -1,6 +1,8 @@
 ---
 aliases:
   - Function_composition
+  - Function_Composition
+  - Function Composition
 has_id_wikidata: Q244761
 ---
 

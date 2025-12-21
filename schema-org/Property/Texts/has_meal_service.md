@@ -4,22 +4,24 @@ aliases:
   - meal_service
   - mealService
   - has_text_of_meal_service
+  - has_meal_service
+  - has meal service
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - meal
   - service
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_meal_service
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

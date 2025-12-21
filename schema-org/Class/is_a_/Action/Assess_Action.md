@@ -4,20 +4,22 @@ aliases:
   - assess_action
   - AssessAction
   - is_an_assess_action
+  - Assess_Action
+  - Assess Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - assess_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_assess_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

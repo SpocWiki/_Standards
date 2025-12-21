@@ -1,13 +1,15 @@
 ---
 aliases:
   - Continuum mechanics
+  - Continuum_Mechanics
+  - Continuum Mechanics
 has_id_wikidata: Q193463
-is_the_study_of: "[[_Standards/WikiData/WD~continuum,1704572]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Continuum_mechanics,5616464]]"
+is_the_study_of: '[[_Standards/WikiData/WD~continuum,1704572]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Continuum_mechanics,5616464]]'
 part_of:
-  - "[[_Standards/WikiData/WD~continuum_physics,21213340]]"
-  - "[[_Standards/WikiData/WD~mechanics,41217]]"
+  - '[[_Standards/WikiData/WD~continuum_physics,21213340]]'
+  - '[[_Standards/WikiData/WD~mechanics,41217]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Displacement%20of%20a%20continuum.svg
 Commons_category: Continuum mechanics
 ---

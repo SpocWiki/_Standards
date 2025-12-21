@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Cooking
+has_id_wikidata: Q38695
 Commons_category: Cooking
 described_at_URL: https://neal.fun/earth-reviews/cooking
 described_by_source:
@@ -17,7 +20,6 @@ follows:
 hashtag:
   - cooking
   - kochen
-has_id_wikidata: Q38695
 has_time_started: -500000
 IAB_code: 216
 Iconclass_notation: 41C25
@@ -58,7 +60,7 @@ uses:
 U_S_National_Archives_Identifier: 10675369
 ---
 
-# [[Cooking]] 
+# [[Cooking]] 🍳 
 
 #is_/same_as :: [[../../../WikiData/WD~Cooking,38695|WD~Cooking,38695]] 
 

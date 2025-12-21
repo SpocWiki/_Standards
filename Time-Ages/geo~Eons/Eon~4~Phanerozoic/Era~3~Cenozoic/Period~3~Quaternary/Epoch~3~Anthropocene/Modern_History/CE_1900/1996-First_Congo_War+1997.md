@@ -1,20 +1,22 @@
 ---
 aliases:
   - First Congo War, also known as Africa's First World War
+  - 1996-First_Congo_War+1997
+  - 1996-First Congo War+1997
 has_id_wikidata: Q838695
-part_of: "[[_Standards/WikiData/WD~Congo_Civil_War,364610]]"
+part_of: '[[_Standards/WikiData/WD~Congo_Civil_War,364610]]'
 participant:
-  - "[[_Standards/WikiData/WD~Interahamwe,755973]]"
-  - "[[_Standards/WikiData/WD~Alliance_of_Democratic_Forces_for_the_Liberation_of_Congo,2367261]]"
-  - "[[_Standards/WikiData/WD~Army_for_the_Liberation_of_Rwanda,2862906]]"
-  - "[[_Standards/WikiData/WD~Zaire,6500954]]"
-  - "[[_Standards/WikiData/WD~Angola,916]]"
-  - "[[_Standards/WikiData/WD~Burundi,967]]"
-  - "[[_Standards/WikiData/WD~Uganda,1036]]"
-  - "[[_Standards/WikiData/WD~Rwanda,1037]]"
-  - "[[_Standards/WikiData/WD~National_Union_for_the_Total_Independence_of_Angola,28699]]"
-location: "[[_Standards/WikiData/WD~Zaire,6500954]]"
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+  - '[[_Standards/WikiData/WD~Interahamwe,755973]]'
+  - '[[_Standards/WikiData/WD~Alliance_of_Democratic_Forces_for_the_Liberation_of_Congo,2367261]]'
+  - '[[_Standards/WikiData/WD~Army_for_the_Liberation_of_Rwanda,2862906]]'
+  - '[[_Standards/WikiData/WD~Zaire,6500954]]'
+  - '[[_Standards/WikiData/WD~Angola,916]]'
+  - '[[_Standards/WikiData/WD~Burundi,967]]'
+  - '[[_Standards/WikiData/WD~Uganda,1036]]'
+  - '[[_Standards/WikiData/WD~Rwanda,1037]]'
+  - '[[_Standards/WikiData/WD~National_Union_for_the_Total_Independence_of_Angola,28699]]'
+location: '[[_Standards/WikiData/WD~Zaire,6500954]]'
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
 Commons_category: First Congo War
 start_time: 1996-10-24T00:00:00Z
 end_time: 1997-05-16T00:00:00Z

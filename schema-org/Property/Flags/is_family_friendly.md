@@ -4,21 +4,22 @@ aliases:
   - family_friendly
   - isFamilyFriendly
   - is_family_friendly
+  - is family friendly
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - family_friendly
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_family_friendly
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

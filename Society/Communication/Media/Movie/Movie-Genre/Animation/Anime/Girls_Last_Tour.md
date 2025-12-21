@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Girls' Last Tour"
+  - Girls' Last Tour
+  - Girls_Last_Tour
+  - Girls Last Tour
 ---
 
 ## #has_/text_of_/abstract 

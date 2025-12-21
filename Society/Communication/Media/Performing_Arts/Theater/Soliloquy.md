@@ -1,15 +1,16 @@
 ---
 aliases:
   - Selbstgespräch
+  - Soliloquy
 has_id_wikidata: Q184528
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~monologue,261197]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~monologue,261197]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~monologue,261197]]"
-  - "[[_Standards/WikiData/WD~oration,861911]]"
-different_from: "[[_Standards/WikiData/WD~interior_monologue,466163]]"
-instance_of: "[[_Standards/WikiData/WD~narrative_technique,10428845]]"
-has_use: "[[_Standards/WikiData/WD~drama,25372]]"
-OmegaWiki_Defined_Meaning: "687700"
+  - '[[_Standards/WikiData/WD~monologue,261197]]'
+  - '[[_Standards/WikiData/WD~oration,861911]]'
+different_from: '[[_Standards/WikiData/WD~interior_monologue,466163]]'
+instance_of: '[[_Standards/WikiData/WD~narrative_technique,10428845]]'
+has_use: '[[_Standards/WikiData/WD~drama,25372]]'
+OmegaWiki_Defined_Meaning: 687700
 ---
 
 # [[Soliloquy]] 

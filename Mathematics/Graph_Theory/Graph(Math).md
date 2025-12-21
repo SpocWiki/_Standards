@@ -1,6 +1,7 @@
 ---
 aliases:
   - Graph
+  - Graph(Math)
 has_id_wikidata: Q141488
 ---
 

@@ -2,18 +2,19 @@
 aliases:
   - Postmodernismus
   - Postmoderne
+  - Postmodernism
 has_id_wikidata: Q47783
 founded_by:
-  - "[[_Standards/WikiData/WD~Charles_Jencks,354634]]"
-  - "[[_Standards/WikiData/WD~Christopher_Alexander,455076]]"
+  - '[[_Standards/WikiData/WD~Charles_Jencks,354634]]'
+  - '[[_Standards/WikiData/WD~Christopher_Alexander,455076]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~cultural_movement,2198855]]"
+  - '[[_Standards/WikiData/WD~art_movement,968159]]'
+  - '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Postmodernity,2249769]]"
-  - "[[_Standards/WikiData/WD~Postmodernism,7234389]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Postmodernism,6960433]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~post_avant_garde,113005557]]"
+  - '[[_Standards/WikiData/WD~Postmodernity,2249769]]'
+  - '[[_Standards/WikiData/WD~Postmodernism,7234389]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Postmodernism,6960433]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~post_avant_garde,113005557]]'
 start_time: 1940-01-01T00:00:00Z
 IMDb_keyword: post-modern
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Portland%20Building%201982.jpg

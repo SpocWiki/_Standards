@@ -1,31 +1,33 @@
 ---
+aliases:
+  - Actinium
+has_id_wikidata: Q1121
 atomic_number: 89
-canonical_SMILES: "[Ac]"
+canonical_SMILES: '[Ac]'
 CAS_Registry_Number: 7440-34-8
 chemical_formula: Ac
 Commons_category: Actinium
 Commons_gallery: Actinium
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Dewey_Decimal_Classification:
   - 546.421
   - 669.2921
-discoverer_or_inventor: "[[_Standards/WikiData/WD~André-Louis_Debierne,468371]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~André-Louis_Debierne,468371]]'
 DSSTOX_compound_identifier: DTXCID10147879
 electronegativity: 1.1
 element_symbol: Ac
-has_characteristic: "[[_Standards/WikiData/WD~radioactivity,11448]]"
-has_id_wikidata: Q1121
+has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Actinium%20sample%20%2831481701837%29.png
 InChI: InChI=1S/Ac
 InChIKey: QQINRWTZWGJFDB-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~radioactive_element,3658631]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - '[[_Standards/WikiData/WD~radioactive_element,3658631]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius: 112
 ionization_energy:
   - 1170
@@ -37,13 +39,13 @@ MeSH_tree_code:
   - D01.496.749.305.100.033
   - D01.552.020.042
   - D01.552.544.025
-named_after: "[[_Standards/WikiData/WD~light_beam,2493660]]"
+named_after: '[[_Standards/WikiData/WD~light_beam,2493660]]'
 OmegaWiki_Defined_Meaning: 33
 oxidation_state: 3
 part_of:
-  - "[[_Standards/WikiData/WD~group_3,108307]]"
-  - "[[_Standards/WikiData/WD~period_7,244979]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828445,22828445]]"
+  - '[[_Standards/WikiData/WD~group_3,108307]]'
+  - '[[_Standards/WikiData/WD~period_7,244979]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828445,22828445]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20152.jpg
 PubChem_CID: 23965
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20089%20Actinium.svg

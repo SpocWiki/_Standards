@@ -1,9 +1,11 @@
 ---
 aliases:
   - Mehrfachintegral
+  - Multiple_Integral
+  - Multiple Integral
 has_id_wikidata: Q844937
-subclass_of: "[[_Standards/WikiData/WD~integral,80091]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+subclass_of: '[[_Standards/WikiData/WD~integral,80091]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 ---
 
 # [[Multiple_Integral]] 

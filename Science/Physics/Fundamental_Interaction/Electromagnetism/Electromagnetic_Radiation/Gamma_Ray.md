@@ -2,19 +2,21 @@
 aliases:
   - Gammastrahlung
   - Gammastrahlen
+  - Gamma_Ray
+  - Gamma Ray
 has_id_wikidata: Q11523
-part_of: "[[_Standards/WikiData/WD~electromagnetic_spectrum,133139]]"
-has_cause: "[[_Standards/WikiData/WD~beta_decay,306786]]"
+part_of: '[[_Standards/WikiData/WD~electromagnetic_spectrum,133139]]'
+has_cause: '[[_Standards/WikiData/WD~beta_decay,306786]]'
 different_from:
-  - "[[_Standards/WikiData/WD~gamma_wave,2623017]]"
-  - "[[_Standards/WikiData/WD~gamma_decay,10885797]]"
-instance_of: "[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-subclass_of: "[[_Standards/WikiData/WD~radiation,18335]]"
-followed_by: "[[_Standards/WikiData/WD~X_ray,34777]]"
+  - '[[_Standards/WikiData/WD~gamma_wave,2623017]]'
+  - '[[_Standards/WikiData/WD~gamma_decay,10885797]]'
+instance_of: '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~radiation,18335]]'
+followed_by: '[[_Standards/WikiData/WD~X_ray,34777]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gamma%20Decay.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Gamma%20ray.ogg
-Dewey_Decimal_Classification: "539.7524"
+Dewey_Decimal_Classification: 539.7524
 IEV_number: 881-02-17
 UMLS_CUI: C0017011
 MeSH_tree_code:

@@ -4,22 +4,23 @@ aliases:
   - offered_by
   - offeredBy
   - is_offered_by
+  - is offered by
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - offered
   - by
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_offered_by
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

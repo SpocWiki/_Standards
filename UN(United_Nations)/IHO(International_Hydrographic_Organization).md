@@ -3,19 +3,21 @@ aliases:
   - IHO
   - International Hydrographic Organization
   - Organisation Hydrographique Internationale
+  - IHO(International_Hydrographic_Organization)
+  - IHO(International Hydrographic Organization)
 has_id_wikidata: Q233611
-partnership_with: "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
-instance_of: "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
+partnership_with: '[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]'
+instance_of: '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
 director_manager:
-  - "[[_Standards/WikiData/WD~Abri_Kampfer,116790762]]"
-  - "[[_Standards/WikiData/WD~Luigi_Sinapi,116790848]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Monaco,235]]"
-country: "[[_Standards/WikiData/WD~Monaco,235]]"
-official_observer_status_in_organization: "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
+  - '[[_Standards/WikiData/WD~Abri_Kampfer,116790762]]'
+  - '[[_Standards/WikiData/WD~Luigi_Sinapi,116790848]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Monaco,235]]'
+country: '[[_Standards/WikiData/WD~Monaco,235]]'
+official_observer_status_in_organization: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
 short_name: IHO
 Commons_category: International Hydrographic Organization
 official_website: https://www.iho.int
-ISNI: "0000000405157613"
+ISNI: 0000000405157613
 Libris_URI: 75kmp6kr33n0947
 official_name: International Hydrographic Organization
 inception: 1921-06-21T00:00:00Z

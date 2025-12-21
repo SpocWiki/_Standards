@@ -1,20 +1,22 @@
 ---
 aliases:
   - Arbeiterklasse
+  - Working_Class
+  - Working Class
 has_id_wikidata: Q191159
 subclass_of:
-  - "[[_Standards/WikiData/WD~social_class,187588]]"
-  - "[[_Standards/WikiData/WD~high_risk_group,106471130]]"
+  - '[[_Standards/WikiData/WD~social_class,187588]]'
+  - '[[_Standards/WikiData/WD~high_risk_group,106471130]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-opposite_of: "[[_Standards/WikiData/WD~upper_class,1155605]]"
-has_part_s_: "[[_Standards/WikiData/WD~blue_collar_worker,1191714]]"
-has_characteristic: "[[_Standards/WikiData/WD~low_income,59679511]]"
-facet_of: "[[_Standards/WikiData/WD~class_theory,125623342]]"
-OmegaWiki_Defined_Meaning: "534737"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+opposite_of: '[[_Standards/WikiData/WD~upper_class,1155605]]'
+has_part_s_: '[[_Standards/WikiData/WD~blue_collar_worker,1191714]]'
+has_characteristic: '[[_Standards/WikiData/WD~low_income,59679511]]'
+facet_of: '[[_Standards/WikiData/WD~class_theory,125623342]]'
+OmegaWiki_Defined_Meaning: 534737
 IMDb_keyword: working-class
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Construction%20Workers.jpg
 Regensburg_Classification: MS 1420

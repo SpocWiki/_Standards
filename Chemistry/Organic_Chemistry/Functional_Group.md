@@ -1,6 +1,8 @@
 ---
 aliases:
   - Functional_group
+  - Functional_Group
+  - Functional Group
 has_id_wikidata: Q170409
 ---
 

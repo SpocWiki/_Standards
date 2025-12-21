@@ -1,23 +1,24 @@
 ---
 aliases:
   - Koch
+  - Cook
 has_id_wikidata: Q156839
 item_operated:
-  - "[[_Standards/WikiData/WD~tableware,851782]]"
-  - "[[_Standards/WikiData/WD~kitchenware,1521410]]"
+  - '[[_Standards/WikiData/WD~tableware,851782]]'
+  - '[[_Standards/WikiData/WD~kitchenware,1521410]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Chef,1068916]]"
-  - "[[_Standards/WikiData/WD~chef,3499072]]"
-subclass_of: "[[_Standards/WikiData/WD~artisan,1294787]]"
-field_of_this_occupation: "[[_Standards/WikiData/WD~cuisine,1778821]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_chef,13033923]]"
-category_for_eponymous_categories: "[[_Standards/WikiData/WD~Q31960706,31960706]]"
-catalog: "[[_Standards/WikiData/WD~BERUFENET,63381313]]"
-instance_of: "[[_Standards/WikiData/WD~profession,28640]]"
-ISCO_88_occupation_class: "5120"
-ROME_Occupation_Code: "13861"
+  - '[[_Standards/WikiData/WD~Chef,1068916]]'
+  - '[[_Standards/WikiData/WD~chef,3499072]]'
+subclass_of: '[[_Standards/WikiData/WD~artisan,1294787]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~cuisine,1778821]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_chef,13033923]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q31960706,31960706]]'
+catalog: '[[_Standards/WikiData/WD~BERUFENET,63381313]]'
+instance_of: '[[_Standards/WikiData/WD~profession,28640]]'
+ISCO_88_occupation_class: 5120
+ROME_Occupation_Code: 13861
 Commons_gallery: Cook
-KldB_2010_occupation_code: "29302"
+KldB_2010_occupation_code: 29302
 female_form_of_label:
   - kuchařka
   - повариха
@@ -61,12 +62,12 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Cooks%20050918%2015440
 Commons_category: Cooks
 Iconclass_notation: 41C221
 IMDb_keyword: cook
-CPP_2010: "3434.0"
+CPP_2010: 3434.0
 Dictionary_of_Occupational_Titles_Code_fourth_edition_revised_: 313.361-014
 SOC_Code_2010_: 35-2010
 Dewey_Decimal_Classification:
-  - "641.5023"
-  - "641.5092"
+  - 641.5023
+  - 641.5092
 Provenio_UUID: b71d68a9-8385-4f0b-9234-1473859e2d8f
 Baidu_Tieba_name: 厨师
 ---

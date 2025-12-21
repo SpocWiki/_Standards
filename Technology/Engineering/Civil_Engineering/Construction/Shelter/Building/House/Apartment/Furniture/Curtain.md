@@ -1,22 +1,23 @@
 ---
 aliases:
   - Vorhang
+  - Curtain
 has_id_wikidata: Q49005
 subclass_of:
-  - "[[_Standards/WikiData/WD~linens,796635]]"
-  - "[[_Standards/WikiData/WD~hanging,64618487]]"
+  - '[[_Standards/WikiData/WD~linens,796635]]'
+  - '[[_Standards/WikiData/WD~hanging,64618487]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-different_from: "[[_Standards/WikiData/WD~front_curtain,2264369]]"
-has_contributing_factor: "[[_Standards/WikiData/WD~Sun,525]]"
-made_from_material: "[[_Standards/WikiData/WD~textile,28823]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+different_from: '[[_Standards/WikiData/WD~front_curtain,2264369]]'
+has_contributing_factor: '[[_Standards/WikiData/WD~Sun,525]]'
+made_from_material: '[[_Standards/WikiData/WD~textile,28823]]'
 Nomenclature_for_Museum_Cataloging:
-  - "1900"
-  - "1911"
-OmegaWiki_Defined_Meaning: "1023825"
-GS1_GPC_code: "10002214"
+  - 1900
+  - 1911
+OmegaWiki_Defined_Meaning: 1023825
+GS1_GPC_code: 10002214
 Commons_category: Curtains
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Gordijnen%20aan%20venster.JPG

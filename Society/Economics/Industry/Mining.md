@@ -1,39 +1,40 @@
 ---
 aliases:
   - Bergbau
+  - Mining
 has_id_wikidata: Q44497
 has_part_s_:
-  - "[[_Standards/WikiData/WD~mineral_extraction,306093]]"
-  - "[[_Standards/WikiData/WD~mineral_processing,1995444]]"
-subclass_of: "[[_Standards/WikiData/WD~exploitation_of_natural_resources,548599]]"
+  - '[[_Standards/WikiData/WD~mineral_extraction,306093]]'
+  - '[[_Standards/WikiData/WD~mineral_processing,1995444]]'
+subclass_of: '[[_Standards/WikiData/WD~exploitation_of_natural_resources,548599]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~miner,820037]]"
-  - "[[_Standards/WikiData/WD~mining_engineer,18524075]]"
-  - "[[_Standards/WikiData/WD~mine_entrepreneur,26805550]]"
+  - '[[_Standards/WikiData/WD~miner,820037]]'
+  - '[[_Standards/WikiData/WD~mining_engineer,18524075]]'
+  - '[[_Standards/WikiData/WD~mine_entrepreneur,26805550]]'
 uses:
-  - "[[_Standards/WikiData/WD~mining_engineering,1370637]]"
-  - "[[_Standards/WikiData/WD~mining_technology,15905645]]"
-different_from: "[[_Standards/WikiData/WD~mining_and_quarrying,1945600]]"
-is_part_of: "[[_Standards/WikiData/WD~mining_and_quarrying,1945600]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_mining,7112686]]"
+  - '[[_Standards/WikiData/WD~mining_engineering,1370637]]'
+  - '[[_Standards/WikiData/WD~mining_technology,15905645]]'
+different_from: '[[_Standards/WikiData/WD~mining_and_quarrying,1945600]]'
+is_part_of: '[[_Standards/WikiData/WD~mining_and_quarrying,1945600]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_mining,7112686]]'
 instance_of:
-  - "[[../../../WikiData/WD~economic_activity,8187769]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_mining,12075242]]"
-by_product: "[[_Standards/WikiData/WD~mining_wastes,12093044]]"
-Basisklassifikation: "57"
-Universal_Decimal_Classification: "622"
-Dewey_Decimal_Classification: "622"
-OmegaWiki_Defined_Meaning: "5092"
-ISCO_88_occupation_class: "3117"
+  - '[[../../../WikiData/WD~economic_activity,8187769]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_mining,12075242]]'
+by_product: '[[_Standards/WikiData/WD~mining_wastes,12093044]]'
+Basisklassifikation: 57
+Universal_Decimal_Classification: 622
+Dewey_Decimal_Classification: 622
+OmegaWiki_Defined_Meaning: 5092
+ISCO_88_occupation_class: 3117
 Commons_gallery: Mining
 Commons_category: Mining
 Iconclass_notation: 25D3

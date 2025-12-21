@@ -4,21 +4,22 @@ aliases:
   - dropoff_location
   - dropoffLocation
   - has_location_dropoff
+  - has location dropoff
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - dropoff_location
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_dropoff
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

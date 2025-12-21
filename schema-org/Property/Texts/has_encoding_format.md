@@ -4,22 +4,24 @@ aliases:
   - encoding_format
   - encodingFormat
   - has_text_of_encoding_format
+  - has_encoding_format
+  - has encoding format
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - encoding
   - format
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_encoding_format
 publish: true
-publishDate:
+publishDate: ''
 supersedes: fileFormat
 tags:
   - class/Property

@@ -1,28 +1,29 @@
 ---
 aliases:
-  - Fehmarn Belt fixed link 
+  - Fehmarn Belt fixed link
   - Femern Bælt-forbindelsen
   - Fehmarnbelt-Querung"
+  - Fehmarn_Belt_fixed_link
 has_id_wikidata: Q18541
-crosses: "[[_Standards/WikiData/WD~Fehmarn_Belt,506241]]"
+crosses: '[[_Standards/WikiData/WD~Fehmarn_Belt,506241]]'
 terminus_location:
-  - "[[_Standards/WikiData/WD~Lolland_Municipality,670153]]"
-  - "[[_Standards/WikiData/WD~Fehmarn,3172]]"
+  - '[[_Standards/WikiData/WD~Lolland_Municipality,670153]]'
+  - '[[_Standards/WikiData/WD~Fehmarn,3172]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~railway_tunnel,1311958]]"
-  - "[[_Standards/WikiData/WD~road_tunnel,2354973]]"
-  - "[[_Standards/WikiData/WD~building_or_structure_under_construction,12377751]]"
-  - "[[_Standards/WikiData/WD~international_tunnel,26263224]]"
-part_of: "[[_Standards/WikiData/WD~Denmark_Germany_border,2422197]]"
-state_of_use: "[[_Standards/WikiData/WD~building_or_structure_under_construction,12377751]]"
-owned_by: "[[_Standards/WikiData/WD~Femern_A_S,17281118]]"
+  - '[[_Standards/WikiData/WD~railway_tunnel,1311958]]'
+  - '[[_Standards/WikiData/WD~road_tunnel,2354973]]'
+  - '[[_Standards/WikiData/WD~building_or_structure_under_construction,12377751]]'
+  - '[[_Standards/WikiData/WD~international_tunnel,26263224]]'
+part_of: '[[_Standards/WikiData/WD~Denmark_Germany_border,2422197]]'
+state_of_use: '[[_Standards/WikiData/WD~building_or_structure_under_construction,12377751]]'
+owned_by: '[[_Standards/WikiData/WD~Femern_A_S,17281118]]'
 foundational_text:
-  - "[[_Standards/WikiData/WD~Q114311317,114311317]]"
-  - "[[_Standards/WikiData/WD~Q114315353,114315353]]"
+  - '[[_Standards/WikiData/WD~Q114311317,114311317]]'
+  - '[[_Standards/WikiData/WD~Q114315353,114315353]]'
 coordinate_location: Point(11.305555555 54.575833333)
 country:
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - '[[_Standards/WikiData/WD~Denmark,35]]'
+  - '[[_Standards/WikiData/WD~Germany,183]]'
 length: 18
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fehmarn-bridge.svg
 official_website: http://www.femern.com

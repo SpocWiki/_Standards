@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Kate Bush"
+  - Kate Bush
+  - Bush,Kate
 ---
 
 > Catherine Bush  (born 30 July 1958) is an English singer, songwriter, record producer and dancer. 

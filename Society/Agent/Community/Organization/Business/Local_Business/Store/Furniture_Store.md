@@ -4,20 +4,22 @@ aliases:
   - furniture_store
   - FurnitureStore
   - is_a_furniture_store
+  - Furniture_Store
+  - Furniture Store
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - furniture_store
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_furniture_store Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

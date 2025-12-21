@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Rick Rubin"
-- "Frederick Jay Rubin"
+  - Rick Rubin
+  - Frederick Jay Rubin
+  - Rubin,Rick
 ---
 
 # [[Rubin,Rick]] 

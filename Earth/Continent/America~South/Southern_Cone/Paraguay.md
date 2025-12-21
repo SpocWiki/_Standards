@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Paraguay
+  - باراغواي
+  - 巴拉圭
+  - Парагвай
+  - the Republic of Paraguay
+  - la República del Paraguay
+  - Paraguay (el)
+has_id_wikidata: Q733
 member_of:
   - "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
   - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
@@ -297,13 +306,12 @@ ISO_3166_1_alpha_2_code: PY
 WIPO_ST_3: PY
 ISO_3166_1_alpha_3_code: PRY
 U_S_National_Archives_Identifier: 10035731
-inception: "1811"
+inception: 1811
 has_time_started: 1811-06
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/PRY%20orthographic.svg
 Commons_category: Paraguay
 subreddit: Paraguay
 hashtag: Paraguay
-has_id_wikidata: Q733
 location:
   - -25.27
   - -57.67
@@ -320,20 +328,12 @@ cssclasses:
   - Country
 publish: true
 title: Paraguay
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Paraguay
-  - باراغواي
-  - 巴拉圭
-  - Парагвай
-  - the Republic of Paraguay
-  - la República del Paraguay
-  - Paraguay (el)
+publishDate: ""
+expiryDate: ""
 Languages:
   - es-PY
   - gn

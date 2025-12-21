@@ -4,20 +4,22 @@ aliases:
   - return_action
   - ReturnAction
   - is_a_return_action
+  - Return_Action
+  - Return Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - return_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_return_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

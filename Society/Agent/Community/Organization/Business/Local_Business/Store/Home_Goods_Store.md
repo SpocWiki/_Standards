@@ -4,20 +4,22 @@ aliases:
   - home_goods_store
   - HomeGoodsStore
   - is_a_home_goods_store
+  - Home_Goods_Store
+  - Home Goods Store
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - home_goods_store
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_home_goods_store Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

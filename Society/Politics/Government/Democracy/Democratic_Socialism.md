@@ -1,15 +1,17 @@
 ---
 aliases:
   - Democratic socialism
+  - Democratic_Socialism
+  - Democratic Socialism
 has_id_wikidata: Q189280
 different_from:
-  - "[[_Standards/WikiData/WD~social_democracy,121254]]"
-  - "[[_Standards/WikiData/WD~liberal_socialism,1822939]]"
-instance_of: "[[_Standards/WikiData/WD~political_ideology,12909644]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q23016589,23016589]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-subclass_of: "[[_Standards/WikiData/WD~socialism,7272]]"
-Dewey_Decimal_Classification: "335.5"
+  - '[[_Standards/WikiData/WD~social_democracy,121254]]'
+  - '[[_Standards/WikiData/WD~liberal_socialism,1822939]]'
+instance_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q23016589,23016589]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+subclass_of: '[[_Standards/WikiData/WD~socialism,7272]]'
+Dewey_Decimal_Classification: 335.5
 Commons_category: Democratic socialism
 ---
 

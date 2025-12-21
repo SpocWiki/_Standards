@@ -1,59 +1,60 @@
 ---
 aliases:
   - Peter_Sellers
-  - Peter Sellers 
+  - Peter Sellers
   - Richard Henry Sellers
+  - Sellers,Peter
 has_id_wikidata: Q177984
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Live_Action_Short_Film,1324407]]"
-military_branch: "[[_Standards/WikiData/WD~Royal_Air_Force,165862]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Live_Action_Short_Film,1324407]]'
+military_branch: '[[_Standards/WikiData/WD~Royal_Air_Force,165862]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~comedian,245068]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~banjoist,9648008]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~comedian,245068]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~director,3455803]]'
+  - '[[_Standards/WikiData/WD~banjoist,9648008]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Britt_Ekland,233837]]"
-  - "[[_Standards/WikiData/WD~Lynne_Frederick,442166]]"
-  - "[[_Standards/WikiData/WD~Miranda,_Countess_of_Stockton,6872829]]"
-  - "[[_Standards/WikiData/WD~Anne_Hayes,112277098]]"
-place_of_birth: "[[_Standards/WikiData/WD~Southsea,541348]]"
+  - '[[_Standards/WikiData/WD~Britt_Ekland,233837]]'
+  - '[[_Standards/WikiData/WD~Lynne_Frederick,442166]]'
+  - '[[_Standards/WikiData/WD~Miranda,_Countess_of_Stockton,6872829]]'
+  - '[[_Standards/WikiData/WD~Anne_Hayes,112277098]]'
+place_of_birth: '[[_Standards/WikiData/WD~Southsea,541348]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Henry,1158477]]"
-  - "[[_Standards/WikiData/WD~Richard,1249148]]"
-  - "[[_Standards/WikiData/WD~Peter,2793400]]"
-place_of_death: "[[_Standards/WikiData/WD~Middlesex_Hospital,1431700]]"
-different_from: "[[_Standards/WikiData/WD~Peter_Sellars,1867549]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-place_of_burial: "[[_Standards/WikiData/WD~Golders_Green_Crematorium,4141350]]"
-filmography: "[[_Standards/WikiData/WD~Peter_Sellers_filmography,6100512]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Henry,1158477]]'
+  - '[[_Standards/WikiData/WD~Richard,1249148]]'
+  - '[[_Standards/WikiData/WD~Peter,2793400]]'
+place_of_death: '[[_Standards/WikiData/WD~Middlesex_Hospital,1431700]]'
+different_from: '[[_Standards/WikiData/WD~Peter_Sellars,1867549]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+place_of_burial: '[[_Standards/WikiData/WD~Golders_Green_Crematorium,4141350]]'
+filmography: '[[_Standards/WikiData/WD~Peter_Sellers_filmography,6100512]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 child:
-  - "[[_Standards/WikiData/WD~Michael_Sellers,6834281]]"
-  - "[[_Standards/WikiData/WD~Victoria_Sellers,7927032]]"
-  - "[[_Standards/WikiData/WD~Sarah_Sellers,112583089]]"
-educated_at: "[[_Standards/WikiData/WD~St_Aloysius_RC_College,7592308]]"
-award_received: "[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]"
-family_name: "[[_Standards/WikiData/WD~Sellers,16882943]]"
+  - '[[_Standards/WikiData/WD~Michael_Sellers,6834281]]'
+  - '[[_Standards/WikiData/WD~Victoria_Sellers,7927032]]'
+  - '[[_Standards/WikiData/WD~Sarah_Sellers,112583089]]'
+educated_at: '[[_Standards/WikiData/WD~St_Aloysius_RC_College,7592308]]'
+award_received: '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
+family_name: '[[_Standards/WikiData/WD~Sellers,16882943]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]"
-father: "[[_Standards/WikiData/WD~William_Sellers,108840480]]"
-mother: "[[_Standards/WikiData/WD~Agnes_Doreen_Marks,108840481]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~British_English,7979]]"
-cause_of_death: "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+father: '[[_Standards/WikiData/WD~William_Sellers,108840480]]'
+mother: '[[_Standards/WikiData/WD~Agnes_Doreen_Marks,108840481]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~British_English,7979]]'
+cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 number_of_children: 3
 height: 174
-genre: "[[_Standards/WikiData/WD~comedy,40831]]"
+genre: '[[_Standards/WikiData/WD~comedy,40831]]'
 Commons_category: Peter Sellers
 birth_name:
   - Richard Henry Seller
@@ -66,7 +67,7 @@ work_period_start_: 1948-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Sellers%20Allan%20Warren.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Sellers%20ashes%2C%20Golders%20Green%20Crematorium%20-%20geograph.org.uk%20-%20825499.jpg
 official_website: http://www.petersellers.com/
-ISNI: "0000000081280438"
+ISNI: 0000000081280438
 Plex_person_key: 5d7768284de0ee001fcc8dd1
 ---
 

@@ -1,13 +1,14 @@
 ---
 aliases:
   - Rupie
+  - Rupee
 has_id_wikidata: Q178843
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-named_after: "[[_Standards/WikiData/WD~silver,1090]]"
-subclass_of: "[[_Standards/WikiData/WD~currency,8142]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+named_after: '[[_Standards/WikiData/WD~silver,1090]]'
+subclass_of: '[[_Standards/WikiData/WD~currency,8142]]'
 Commons_category: Rupees
 ---
 

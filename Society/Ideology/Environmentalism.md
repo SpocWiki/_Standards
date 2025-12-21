@@ -1,37 +1,38 @@
 ---
 aliases:
   - Ecologism
+  - Environmentalism
 has_id_wikidata: Q2855609
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_history_of_environmentalism,186956]]"
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_history_of_environmentalism,186956]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~activism,203764]]"
-  - "[[_Standards/WikiData/WD~ecology,7150]]"
+  - '[[_Standards/WikiData/WD~activism,203764]]'
+  - '[[_Standards/WikiData/WD~ecology,7150]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~free_market_environmentalism,795002]]"
-  - "[[_Standards/WikiData/WD~environmental_protection,832237]]"
-  - "[[_Standards/WikiData/WD~radical_environmentalism,3772574]]"
-  - "[[_Standards/WikiData/WD~bright_green_environmentalism,4967505]]"
-  - "[[_Standards/WikiData/WD~Evangelical_environmentalism,5415771]]"
-different_from: "[[_Standards/WikiData/WD~conservation_movement,1088777]]"
-filmography: "[[_Standards/WikiData/WD~list_of_environmental_films,3072144]]"
-practiced_by: "[[_Standards/WikiData/WD~environmentalist,3578589]]"
-opposite_of: "[[_Standards/WikiData/WD~anti_environmentalism,4774354]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_environmentalism,7112622]]"
+  - '[[_Standards/WikiData/WD~free_market_environmentalism,795002]]'
+  - '[[_Standards/WikiData/WD~environmental_protection,832237]]'
+  - '[[_Standards/WikiData/WD~radical_environmentalism,3772574]]'
+  - '[[_Standards/WikiData/WD~bright_green_environmentalism,4967505]]'
+  - '[[_Standards/WikiData/WD~Evangelical_environmentalism,5415771]]'
+different_from: '[[_Standards/WikiData/WD~conservation_movement,1088777]]'
+filmography: '[[_Standards/WikiData/WD~list_of_environmental_films,3072144]]'
+practiced_by: '[[_Standards/WikiData/WD~environmentalist,3578589]]'
+opposite_of: '[[_Standards/WikiData/WD~anti_environmentalism,4774354]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_environmentalism,7112622]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~political_ideology,12909644]]"
-  - "[[_Standards/WikiData/WD~philosophy_of_life,99541875]]"
-  - "[[_Standards/WikiData/WD~ideology,7257]]"
-  - "[[_Standards/WikiData/WD~social_movement,49773]]"
+  - '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+  - '[[_Standards/WikiData/WD~philosophy_of_life,99541875]]'
+  - '[[_Standards/WikiData/WD~ideology,7257]]'
+  - '[[_Standards/WikiData/WD~social_movement,49773]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 main_subject:
-  - "[[_Standards/WikiData/WD~climate,7937]]"
-  - "[[_Standards/WikiData/WD~life,3]]"
-  - "[[_Standards/WikiData/WD~natural_environment,43619]]"
-  - "[[_Standards/WikiData/WD~biodiversity,47041]]"
-  - "[[_Standards/WikiData/WD~habitat,52105]]"
-in_opposition_to: "[[_Standards/WikiData/WD~pollution,58734]]"
+  - '[[_Standards/WikiData/WD~climate,7937]]'
+  - '[[_Standards/WikiData/WD~life,3]]'
+  - '[[_Standards/WikiData/WD~natural_environment,43619]]'
+  - '[[_Standards/WikiData/WD~biodiversity,47041]]'
+  - '[[_Standards/WikiData/WD~habitat,52105]]'
+in_opposition_to: '[[_Standards/WikiData/WD~pollution,58734]]'
 social_media_followers: 12389
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Usstamp-save-our.jpg
 UMLS_CUI: C5544397

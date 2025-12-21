@@ -1,6 +1,7 @@
 ---
 aliases:
   - Big Soda
+  - Big_Soda
 has_id_wikidata: Q4906383
 ---
 

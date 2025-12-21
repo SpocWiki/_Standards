@@ -1,17 +1,18 @@
 ---
 aliases:
   - Civil Disobedience
+  - Civil_Disobedience
 has_id_wikidata: Q47217
 subclass_of:
-  - "[[_Standards/WikiData/WD~protest,273120]]"
-  - "[[_Standards/WikiData/WD~civil_resistance,3109572]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
+  - '[[_Standards/WikiData/WD~protest,273120]]'
+  - '[[_Standards/WikiData/WD~civil_resistance,3109572]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-ziviler%20Ungehorsam.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Schienenblockade.jpg
-U_S_National_Archives_Identifier: "10638584"
-Dewey_Decimal_Classification: "303.61"
+U_S_National_Archives_Identifier: 10638584
+Dewey_Decimal_Classification: 303.61
 Provenio_UUID: 7c983a96-7778-4ff5-80a3-21581aa3ae8e
-P8189: "987007544154005171"
+P8189: 987007544154005171
 Commons_category: Civil disobedience
 IMDb_keyword: civil-disobedience
 PhilPapers_topic: civil-disobedience

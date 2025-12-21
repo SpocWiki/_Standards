@@ -7,16 +7,16 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - episode
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_episode
 publish: true
-publishDate:
+publishDate: ''
 supersedes: episodes
 tags:
   - class/Relation

@@ -2,77 +2,78 @@
 aliases:
   - John Dewey
   - John_Dewey
+  - Dewey,John
 has_id_wikidata: Q131805
 occupation:
-  - "[[_Standards/WikiData/WD~professor,121594]]"
-  - "[[_Standards/WikiData/WD~psychologist,212980]]"
-  - "[[_Standards/WikiData/WD~pedagogue,1231865]]"
-  - "[[_Standards/WikiData/WD~sociologist,2306091]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~trade_unionist,15627169]]"
-  - "[[_Standards/WikiData/WD~aesthetician,21550346]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~teacher,37226]]"
+  - '[[_Standards/WikiData/WD~professor,121594]]'
+  - '[[_Standards/WikiData/WD~psychologist,212980]]'
+  - '[[_Standards/WikiData/WD~pedagogue,1231865]]'
+  - '[[_Standards/WikiData/WD~sociologist,2306091]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~trade_unionist,15627169]]'
+  - '[[_Standards/WikiData/WD~aesthetician,21550346]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~teacher,37226]]'
 employer:
-  - "[[_Standards/WikiData/WD~University_of_Chicago,131252]]"
-  - "[[_Standards/WikiData/WD~University_of_Michigan,230492]]"
-  - "[[_Standards/WikiData/WD~University_of_Minnesota,238101]]"
-  - "[[_Standards/WikiData/WD~Columbia_University,49088]]"
+  - '[[_Standards/WikiData/WD~University_of_Chicago,131252]]'
+  - '[[_Standards/WikiData/WD~University_of_Michigan,230492]]'
+  - '[[_Standards/WikiData/WD~University_of_Minnesota,238101]]'
+  - '[[_Standards/WikiData/WD~Columbia_University,49088]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Johns_Hopkins_University,193727]]"
-  - "[[_Standards/WikiData/WD~University_of_Vermont,1048898]]"
-  - "[[_Standards/WikiData/WD~Burlington_High_School,4999245]]"
+  - '[[_Standards/WikiData/WD~Johns_Hopkins_University,193727]]'
+  - '[[_Standards/WikiData/WD~University_of_Vermont,1048898]]'
+  - '[[_Standards/WikiData/WD~Burlington_High_School,4999245]]'
 member_of:
-  - "[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]"
-  - "[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]"
-  - "[[_Standards/WikiData/WD~American_Psychological_Association,466587]]"
-  - "[[_Standards/WikiData/WD~Phi_Beta_Kappa_Society,1938003]]"
+  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+  - '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+  - '[[_Standards/WikiData/WD~American_Psychological_Association,466587]]'
+  - '[[_Standards/WikiData/WD~Phi_Beta_Kappa_Society,1938003]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~philosophy_of_education,564371]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-contributed_to_creative_work: "[[_Standards/WikiData/WD~Popular_Science,773087]]"
-place_of_burial: "[[_Standards/WikiData/WD~University_of_Vermont,1048898]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~religious_humanism,1454631]]"
+  - '[[_Standards/WikiData/WD~philosophy_of_education,564371]]'
+  - '[[_Standards/WikiData/WD~philosophy,5891]]'
+contributed_to_creative_work: '[[_Standards/WikiData/WD~Popular_Science,773087]]'
+place_of_burial: '[[_Standards/WikiData/WD~University_of_Vermont,1048898]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~religious_humanism,1454631]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Art_as_Experience,2690629]]"
-  - "[[_Standards/WikiData/WD~Democracy_and_Education,5255511]]"
-  - "[[_Standards/WikiData/WD~Experience_and_Education,5421050]]"
-  - "[[_Standards/WikiData/WD~The_Public_and_its_Problems,10855412]]"
-  - "[[_Standards/WikiData/WD~The_School_and_Society,23022314]]"
-given_name: "[[_Standards/WikiData/WD~John,4925477]]"
+  - '[[_Standards/WikiData/WD~Art_as_Experience,2690629]]'
+  - '[[_Standards/WikiData/WD~Democracy_and_Education,5255511]]'
+  - '[[_Standards/WikiData/WD~Experience_and_Education,5421050]]'
+  - '[[_Standards/WikiData/WD~The_Public_and_its_Problems,10855412]]'
+  - '[[_Standards/WikiData/WD~The_School_and_Society,23022314]]'
+given_name: '[[_Standards/WikiData/WD~John,4925477]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Carus_Lectures,5047486]]"
-  - "[[_Standards/WikiData/WD~Honorary_Doctorate_from_the_National_Autonomous_University_of_Mexico,64152520]]"
-  - "[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Paris,126418747]]"
-sibling: "[[_Standards/WikiData/WD~Davis_Rich_Dewey,5241956]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Carus_Lectures,5047486]]'
+  - '[[_Standards/WikiData/WD~Honorary_Doctorate_from_the_National_Autonomous_University_of_Mexico,64152520]]'
+  - '[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Paris,126418747]]'
+sibling: '[[_Standards/WikiData/WD~Davis_Rich_Dewey,5241956]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 student:
-  - "[[_Standards/WikiData/WD~Robert_Bruce_Raup,7342457]]"
-  - "[[_Standards/WikiData/WD~Lilla_Belle_Pitts,98031842]]"
+  - '[[_Standards/WikiData/WD~Robert_Bruce_Raup,7342457]]'
+  - '[[_Standards/WikiData/WD~Lilla_Belle_Pitts,98031842]]'
   - "[[_Standards/WikiData/WD~Nuri_Ja'far,108868489]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-family_name: "[[_Standards/WikiData/WD~Dewey,16869543]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+family_name: '[[_Standards/WikiData/WD~Dewey,16869543]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_oF_dreaming_Theories,20743760]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-  - "[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-father: "[[_Standards/WikiData/WD~Capt._Archibald_Sprague_Dewey,113628001]]"
-position_held: "[[_Standards/WikiData/WD~President_of_the_American_Psychological_Association,115182711]]"
+  - '[[_Standards/WikiData/WD~Encyclopedia_oF_dreaming_Theories,20743760]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+father: '[[_Standards/WikiData/WD~Capt._Archibald_Sprague_Dewey,113628001]]'
+position_held: '[[_Standards/WikiData/WD~President_of_the_American_Psychological_Association,115182711]]'
 date_of_birth: 1859-10-20T00:00:00Z
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_birth: "[[_Standards/WikiData/WD~Burlington,31058]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-residence: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_death: "[[_Standards/WikiData/WD~New_York_City,60]]"
-nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
-doctoral_student: "[[_Standards/WikiData/WD~Hu_Shih,47667]]"
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+place_of_birth: '[[_Standards/WikiData/WD~Burlington,31058]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+residence: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_death: '[[_Standards/WikiData/WD~New_York_City,60]]'
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
+doctoral_student: '[[_Standards/WikiData/WD~Hu_Shih,47667]]'
 Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/DYUI_DZHON.html
 PhilPapers_topic: john-dewey
 Commons_category: John Dewey
@@ -82,7 +83,7 @@ name_in_native_language: John Dewey
 date_of_death: 1952-06-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Dewey%2C%20sem%20data.tif
 described_at_URL: https://education.persee.fr/doc/revin_1775-6014_1931_num_85_1_8217
-ISNI: "0000000120964294"
+ISNI: 0000000120964294
 Libris_URI: 64jlnd7q3xvxx1j
 Europeana_entity: agent/base/145331
 ---

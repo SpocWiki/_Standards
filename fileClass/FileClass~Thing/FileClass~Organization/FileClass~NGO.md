@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~NGO
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/NGO
-- class/Thing/Organization/NGO
-- is_a_/NGO
-- schema-org/NGO
+  - class/NGO
+  - class/Thing/Organization/NGO
+  - is_a_/NGO
+  - schema-org/NGO
 tags:
-- class/FileClass
-- class/NGO
-- is_a_/NGO
-- class/Thing/Organization/NGO
+  - class/FileClass
+  - class/NGO
+  - is_a_/NGO
+  - class/Thing/Organization/NGO
 version: 2.0
 ---
 

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _Asia-CountryDb
+  - ' Asia-CountryDb'
 database_plugin: basic
 ---
 

@@ -1,25 +1,26 @@
 ---
 aliases:
-  - Fédération Internationale de l'Automobile 
-  - International Automobile Federation 
+  - Fédération Internationale de l'Automobile
+  - International Automobile Federation
+  - Fédération_Internationale_de_l'Automobile
 has_id_wikidata: Q179412
 member_of:
-  - "[[_Standards/WikiData/WD~Euro_NCAP,223400]]"
-  - "[[_Standards/WikiData/WD~Association_of_IOC_Recognised_International_Sports_Federations,744105]]"
-  - "[[_Standards/WikiData/WD~Global_Association_of_International_Sports_Federations,1067053]]"
-chairperson: "[[_Standards/WikiData/WD~Mohammed_bin_Sulayem,840815]]"
+  - '[[_Standards/WikiData/WD~Euro_NCAP,223400]]'
+  - '[[_Standards/WikiData/WD~Association_of_IOC_Recognised_International_Sports_Federations,744105]]'
+  - '[[_Standards/WikiData/WD~Global_Association_of_International_Sports_Federations,1067053]]'
+chairperson: '[[_Standards/WikiData/WD~Mohammed_bin_Sulayem,840815]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-legal_form: "[[_Standards/WikiData/WD~declared_association,111166550]]"
-industry: "[[_Standards/WikiData/WD~other_voluntary_membership_organizations_(France),112166193]]"
+  - '[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]'
+  - '[[_Standards/WikiData/WD~organization,43229]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+legal_form: '[[_Standards/WikiData/WD~declared_association,111166550]]'
+industry: '[[_Standards/WikiData/WD~other_voluntary_membership_organizations_(France),112166193]]'
 official_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-sport: "[[_Standards/WikiData/WD~auto_racing,5386]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Paris,90]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+sport: '[[_Standards/WikiData/WD~auto_racing,5386]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Paris,90]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
 social_media_followers:
   - 222000
   - 1176842
@@ -27,9 +28,9 @@ short_name: FIA
 Commons_category: Fédération Internationale de l'Automobile
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/F%C3%A9d%C3%A9ration%20Internationale%20de%20l%27Automobile%20wordmark.svg
 official_website: https://fia.com
-ISNI: "0000000119454182"
-SIREN_number: "784354128"
-EU_Participant_Identification_Code: "999590724"
+ISNI: 0000000119454182
+SIREN_number: 784354128
+EU_Participant_Identification_Code: 999590724
 Facebook_username: fia
 X_Twitter_username: fia
 domain_name: fia.com

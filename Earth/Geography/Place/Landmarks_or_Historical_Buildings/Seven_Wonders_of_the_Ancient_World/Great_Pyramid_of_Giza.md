@@ -1,32 +1,33 @@
 ---
 aliases:
   - Great Pyramid of Giza
+  - Great_Pyramid_of_Giza
 has_id_wikidata: Q37200
-locations: "[[_Standards/WikiData/WD~Giza,81788]]"
-commissioned_by: "[[_Standards/WikiData/WD~Khufu,161904]]"
+locations: '[[_Standards/WikiData/WD~Giza,81788]]'
+commissioned_by: '[[_Standards/WikiData/WD~Khufu,161904]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Egyptian_pyramids,175582]]"
-  - "[[_Standards/WikiData/WD~tomb,381885]]"
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~archaeological_site,839954]]"
-  - "[[_Standards/WikiData/WD~smooth_sided_pyramid,4363262]]"
-  - "[[_Standards/WikiData/WD~Wonder_of_the_Ancient_World,66108498]]"
+  - '[[_Standards/WikiData/WD~Egyptian_pyramids,175582]]'
+  - '[[_Standards/WikiData/WD~tomb,381885]]'
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~archaeological_site,839954]]'
+  - '[[_Standards/WikiData/WD~smooth_sided_pyramid,4363262]]'
+  - '[[_Standards/WikiData/WD~Wonder_of_the_Ancient_World,66108498]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Seven_Wonders_of_the_Ancient_World,489772]]"
-  - "[[_Standards/WikiData/WD~Giza_pyramid_complex,12508]]"
-architectural_style: "[[_Standards/WikiData/WD~ancient_Egyptian_architecture,842352]]"
-shape: "[[_Standards/WikiData/WD~pyramid,3358290]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Giza_Necropolis,13217298]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Livius,68074438]]"
+  - '[[_Standards/WikiData/WD~Seven_Wonders_of_the_Ancient_World,489772]]'
+  - '[[_Standards/WikiData/WD~Giza_pyramid_complex,12508]]'
+architectural_style: '[[_Standards/WikiData/WD~ancient_Egyptian_architecture,842352]]'
+shape: '[[_Standards/WikiData/WD~pyramid,3358290]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Giza_Necropolis,13217298]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Livius,68074438]]'
 coordinate_location: Point(31.13422 29.97915)
-country_of_origin: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
+country_of_origin: '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~limestone,23757]]"
-  - "[[_Standards/WikiData/WD~granite,41177]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Giza_Governorate,30832]]"
-country: "[[_Standards/WikiData/WD~Egypt,79]]"
+  - '[[_Standards/WikiData/WD~limestone,23757]]'
+  - '[[_Standards/WikiData/WD~granite,41177]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Giza_Governorate,30832]]'
+country: '[[_Standards/WikiData/WD~Egypt,79]]'
 elevation_above_sea_level: 95
-architect: "[[_Standards/WikiData/WD~Hemiunu,59087]]"
+architect: '[[_Standards/WikiData/WD~Hemiunu,59087]]'
 height: 137.5
 volume_as_quantity: 2583283
 image_of_entrance: http://commons.wikimedia.org/wiki/Special:FilePath/Giseh%2002.jpg
@@ -38,7 +39,7 @@ image_of_interior:
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Giza%20Pyramids%2011.JPG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kheops-Pyramid.jpg
 ground_level_360_degree_view_URL: https://giza.mused.org/en/guided/266/inside-the-great-pyramid
-P8189: "987007540906805171"
+P8189: 987007540906805171
 Wolfram_Language_entity_code:
   - Entity["Building", "GreatPyramidOfGiza::jbm66"]
   - Entity["HistoricalSite", "GreatPyramidOfGiza::kbgx6"]

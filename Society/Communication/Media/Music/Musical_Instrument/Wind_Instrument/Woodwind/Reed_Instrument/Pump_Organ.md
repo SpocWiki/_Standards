@@ -5,27 +5,29 @@ aliases:
   - reed organ
   - physharmonica
   - seraphine
+  - Pump_Organ
+  - Pump Organ
 has_id_wikidata: Q12460259
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Christian_Gottlieb_Kratzenstein,68976]]"
-  - "[[_Standards/WikiData/WD~Alexandre_Debain,774040]]"
-different_from: "[[_Standards/WikiData/WD~Indian_harmonium,213461]]"
-follows: "[[_Standards/WikiData/WD~Aelodicon,380835]]"
+  - '[[_Standards/WikiData/WD~Christian_Gottlieb_Kratzenstein,68976]]'
+  - '[[_Standards/WikiData/WD~Alexandre_Debain,774040]]'
+different_from: '[[_Standards/WikiData/WD~Indian_harmonium,213461]]'
+follows: '[[_Standards/WikiData/WD~Aelodicon,380835]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~wind_instrument_with_keyboard,11712894]]"
-  - "[[_Standards/WikiData/WD~sets_of_free_reeds,19650003]]"
-  - "[[_Standards/WikiData/WD~non_piped_organ,115863085]]"
-used_by: "[[_Standards/WikiData/WD~harmonium_player,54844699]]"
-Nomenclature_for_Museum_Cataloging: "10716"
+  - '[[_Standards/WikiData/WD~wind_instrument_with_keyboard,11712894]]'
+  - '[[_Standards/WikiData/WD~sets_of_free_reeds,19650003]]'
+  - '[[_Standards/WikiData/WD~non_piped_organ,115863085]]'
+used_by: '[[_Standards/WikiData/WD~harmonium_player,54844699]]'
+Nomenclature_for_Museum_Cataloging: 10716
 image: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Church%20and%20Co.%20reed%20organ.jpg
-Hornbostel_Sachs_classification: "412.132"
+Hornbostel_Sachs_classification: 412.132
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/FISGARMONIYA.html
 Commons_category: Pump organs
 Commons_gallery: Reed organ

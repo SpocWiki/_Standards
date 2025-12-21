@@ -4,6 +4,7 @@ aliases:
   - Richard Georg Strauss
   - Richard Strauss
   - Strauss
+  - Strauss,Richard
 has_id_wikidata: Q13894
 ---
 

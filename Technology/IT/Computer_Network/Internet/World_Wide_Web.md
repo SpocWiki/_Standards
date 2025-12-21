@@ -1,46 +1,49 @@
 ---
-ACM_Classification_Code_2012_: 10003260
-Commons_category: "World Wide Web"
-Commons_gallery: "World Wide Web"
-different_from:
-- '[[_Standards/WikiData/WD~GNOME_Web,167784]]'
-- '[[_Standards/WikiData/WD~W3,267091]]'
-- '[[_Standards/WikiData/WD~Internet,75]]'
-discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Robert_Cailliau,92749]]'
-- '[[_Standards/WikiData/WD~Tim_Berners-Lee,80]]'
-has_effect: '[[_Standards/WikiData/WD~decline_of_newspapers,1089465]]'
+aliases:
+  - World_Wide_Web
+  - World Wide Web
 has_id_wikidata: Q466
+ACM_Classification_Code_2012_: 10003260
+Commons_category: World Wide Web
+Commons_gallery: World Wide Web
+different_from:
+  - '[[_Standards/WikiData/WD~GNOME_Web,167784]]'
+  - '[[_Standards/WikiData/WD~W3,267091]]'
+  - '[[_Standards/WikiData/WD~Internet,75]]'
+discoverer_or_inventor:
+  - '[[_Standards/WikiData/WD~Robert_Cailliau,92749]]'
+  - '[[_Standards/WikiData/WD~Tim_Berners-Lee,80]]'
+has_effect: '[[_Standards/WikiData/WD~decline_of_newspapers,1089465]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~deep_web,221989]]'
-- '[[_Standards/WikiData/WD~surface_web,1476753]]'
-- '[[_Standards/WikiData/WD~website,35127]]'
+  - '[[_Standards/WikiData/WD~deep_web,221989]]'
+  - '[[_Standards/WikiData/WD~surface_web,1476753]]'
+  - '[[_Standards/WikiData/WD~website,35127]]'
 has_time_started: 1989-03-12
 history_of_topic: '[[_Standards/WikiData/WD~history_of_the_World_Wide_Web,1393866]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Alcal%C3%A1%20de%20Henares%20%28RPS%2008-04-2017%29%20Calle%20WWW%2C%20indicador.png"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Alcal%C3%A1%20de%20Henares%20%28RPS%2008-04-2017%29%20Calle%20WWW%2C%20indicador.png
 inception: 1989-03-12
 influenced_by:
-- '[[_Standards/WikiData/WD~HyperCard,1053749]]'
-- '[[_Standards/WikiData/WD~ENQUIRE,2385520]]'
-- '[[_Standards/WikiData/WD~The_Interactive_Encyclopedia_System,7742259]]'
+  - '[[_Standards/WikiData/WD~HyperCard,1053749]]'
+  - '[[_Standards/WikiData/WD~ENQUIRE,2385520]]'
+  - '[[_Standards/WikiData/WD~The_Interactive_Encyclopedia_System,7742259]]'
 instance_of:
-- '[[_Standards/WikiData/WD~information_system,121182]]'
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-- '[[_Standards/WikiData/WD~hypertext_system,65966993]]'
+  - '[[_Standards/WikiData/WD~information_system,121182]]'
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+  - '[[_Standards/WikiData/WD~hypertext_system,65966993]]'
 location_of_creation: '[[_Standards/WikiData/WD~CERN,42944]]'
-logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/WWW%20logo%20by%20Robert%20Cailliau.svg"
-motto_text: "Let's Share What We Know"
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/WWW%20logo%20by%20Robert%20Cailliau.svg
+motto_text: Let's Share What We Know
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q23013914,23013914]]'
 public_domain_date: 1993-04-30
-schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/WorldWideWebAroundWikipedia.png"
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/WorldWideWebAroundWikipedia.png
 short_name:
-- WWW
-- TTT
-Stack_Exchange_tag: "https://stackoverflow.com/tags/web"
+  - WWW
+  - TTT
+Stack_Exchange_tag: https://stackoverflow.com/tags/web
 subclass_of:
-- '[[_Standards/WikiData/WD~digital_media,1076968]]'
-- '[[_Standards/WikiData/WD~service_on_Internet,1668024]]'
+  - '[[_Standards/WikiData/WD~digital_media,1076968]]'
+  - '[[_Standards/WikiData/WD~service_on_Internet,1668024]]'
 time_of_discovery_or_invention: 1990
 U_S_National_Archives_Identifier: 10644635
 ---

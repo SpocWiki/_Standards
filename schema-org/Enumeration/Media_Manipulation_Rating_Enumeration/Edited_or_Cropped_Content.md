@@ -4,21 +4,23 @@ aliases:
   - edited_or_cropped_content
   - EditedOrCroppedContent
   - is_an_edited_or_cropped_content
+  - Edited_or_Cropped_Content
+  - Edited or Cropped Content
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MediaManipulationRatingEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - edited_or_cropped_content
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_edited_or_cropped_content Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -3,21 +3,23 @@ aliases:
   - Tondichtung
   - tone poem
   - Symphonische Dichtung
+  - Symphonic_Poem
+  - Symphonic Poem
 has_id_wikidata: Q271802
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]"
+  - '[[_Standards/WikiData/WD~music_genre,188451]]'
+  - '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~programme_music,209741]]"
-  - "[[_Standards/WikiData/WD~symphonic_music,3328774]]"
-described_by_source: "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-has_list: "[[_Standards/WikiData/WD~list_of_symphonic_poems,6642028]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Classical_music,8485042]]"
-different_from: "[[_Standards/WikiData/WD~symphony,9734]]"
+  - '[[_Standards/WikiData/WD~programme_music,209741]]'
+  - '[[_Standards/WikiData/WD~symphonic_music,3328774]]'
+described_by_source: '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+has_list: '[[_Standards/WikiData/WD~list_of_symphonic_poems,6642028]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Classical_music,8485042]]'
+different_from: '[[_Standards/WikiData/WD~symphony,9734]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Debussy%20-%20Pr%C3%A9lude%20%C3%A0%20l%27apr%C3%A8s%20midi%20d%27un%20Faune.%20Natalia%20Ensemble.webm
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/SIMFONICHESKAYA_POEMA.html
 Commons_category: Symphonic poems
-Dewey_Decimal_Classification: "784.1843"
+Dewey_Decimal_Classification: 784.1843
 ---
 
 # [[Symphonic_Poem]] 

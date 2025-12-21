@@ -4,21 +4,23 @@ aliases:
   - cassette_format
   - CassetteFormat
   - is_a_cassette_format
+  - Cassette_Format
+  - Cassette Format
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MusicReleaseFormatType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - cassette_format
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_cassette_format Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

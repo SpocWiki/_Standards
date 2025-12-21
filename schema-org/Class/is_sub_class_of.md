@@ -1,32 +1,34 @@
 ---
 aliases:
-- sub-class-of
-- subclass-of
-- subclass_of
-- sub_class_of
-- subClassOf
-- is_subclass_of
-- is_a_kind_of
-- is_a
-- are_a_kind_of
-- rdfs~subClassOf
-- Class-Specialization
+  - sub-class-of
+  - subclass-of
+  - subclass_of
+  - sub_class_of
+  - subClassOf
+  - is_subclass_of
+  - is_a_kind_of
+  - is_a
+  - are_a_kind_of
+  - rdfs~subClassOf
+  - Class-Specialization
+  - is_sub_class_of
+  - is sub class of
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords: ''
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: is_subclass_of
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- schema-org/Relation
+  - schema-org/Relation
 title: is_subclass_of
 type: Predi_Relation
 ---

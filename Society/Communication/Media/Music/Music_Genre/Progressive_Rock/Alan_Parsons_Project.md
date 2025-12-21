@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Alan Parsons Project"
+  - Alan Parsons Project
+  - Alan_Parsons_Project
 ---
 
 # [[Alan_Parsons_Project]] 

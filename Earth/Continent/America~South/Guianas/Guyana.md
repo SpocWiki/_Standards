@@ -1,5 +1,4 @@
 ---
-age_of_majority: 18
 aliases:
   - Guyana
   - غيانا
@@ -7,6 +6,8 @@ aliases:
   - Гайана
   - the Republic of Guyana
   - la República de Guyana
+has_id_wikidata: Q734
+age_of_majority: 18
 anthem: "[[_Standards/WikiData/WD~National_anthem_of_Guyana,858680]]"
 area: 214970
 birth_rate: 19.897
@@ -109,7 +110,7 @@ emergency_phone_number:
   - "[[_Standards/WikiData/WD~999,3086706]]"
   - "[[_Standards/WikiData/WD~912,25648878]]"
   - "[[_Standards/WikiData/WD~913,25648879]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 405932
   - 407303
@@ -124,7 +125,6 @@ Gini_coefficient: 45.1
 GitHub_topic: guyana
 hashtag: Guyana
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-has_id_wikidata: Q734
 has_time_started: 1966-06
 head_of_government: "[[_Standards/WikiData/WD~Mark_Phillips,98053664]]"
 head_of_state: "[[_Standards/WikiData/WD~Irfaan_Ali,64840184]]"
@@ -147,7 +147,7 @@ ISO_3166_1_alpha_3_code: GUY
 ISO_3166_1_numeric_code: 328
 isReadOnly: false
 ITU_letter_code: GUY
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/GAANA.html
 Languages:
   - en-GY
@@ -168,13 +168,13 @@ language_used:
   - "[[_Standards/WikiData/WD~Carib,56611]]"
   - "[[_Standards/WikiData/WD~Waiwai,56632]]"
   - "[[_Standards/WikiData/WD~Macushi,56633]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~National_Assembly,1512579]]"
 Libris_URI: 20dgf15l0f5gwjw
 licence_plate_code: GUY
 license: CC BY-SA 4.0
 life_expectancy: 66
-linkTitle:
+linkTitle: ""
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~South_America,18]]"
 located_in_time_zone:
   - "[[_Standards/WikiData/WD~America_Guyana,63225363]]"
@@ -254,7 +254,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Guyana.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Guyana.wav
 publish: true
-publishDate:
+publishDate: ""
 replaces: "[[_Standards/WikiData/WD~Commonwealth_realm_of_Guyana,5622720]]"
 rural_population:
   - 583663

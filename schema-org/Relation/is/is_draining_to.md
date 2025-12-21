@@ -4,22 +4,23 @@ aliases:
   - drains_to
   - drainsTo
   - is_draining_to
+  - is draining to
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - drains
   - to
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_draining_to
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

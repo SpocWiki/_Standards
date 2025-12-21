@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MedicalSign
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom
 fields:
-- id: SP07UR
-  name: IdentifyingTest
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalTest')"
-  type: MultiFile
-  path: ''
+  - id: SP07UR
+    name: IdentifyingTest
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalTest')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MedicalSign
-- class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign
-- is_a_/MedicalSign
-- schema-org/MedicalSign
+  - class/MedicalSign
+  - class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign
+  - is_a_/MedicalSign
+  - schema-org/MedicalSign
 tags:
-- class/FileClass
-- class/MedicalSign
-- is_a_/MedicalSign
-- class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign
+  - class/FileClass
+  - class/MedicalSign
+  - is_a_/MedicalSign
+  - class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign
 version: 2.0
 ---
 

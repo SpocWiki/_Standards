@@ -1,7 +1,8 @@
 ---
 aliases:
   - JavaScript
-  - "{ newTitle: }":
+  - '{ newTitle: }': ''
+  - Prog~JS
 has_id_wikidata: Q2005
 software_version_identifier:
   - ECMAScript 2024
@@ -14,62 +15,62 @@ Commons_category: JavaScript
 Mozilla_Developer_Network_article: Web/JavaScript
 inception: 1996-05-01T00:00:00Z
 has_use:
-  - "[[_Standards/WikiData/WD~computer_programming,80006]]"
-  - "[[_Standards/WikiData/WD~web_development,386275]]"
-designed_by: "[[_Standards/WikiData/WD~Brendan_Eich,92648]]"
+  - '[[_Standards/WikiData/WD~computer_programming,80006]]'
+  - '[[_Standards/WikiData/WD~web_development,386275]]'
+designed_by: '[[_Standards/WikiData/WD~Brendan_Eich,92648]]'
 typing_discipline:
-  - "[[_Standards/WikiData/WD~prototype_based_programming,180868]]"
-  - "[[_Standards/WikiData/WD~duck_typing,374282]]"
-  - "[[_Standards/WikiData/WD~dynamic_typing,1268978]]"
+  - '[[_Standards/WikiData/WD~prototype_based_programming,180868]]'
+  - '[[_Standards/WikiData/WD~duck_typing,374282]]'
+  - '[[_Standards/WikiData/WD~dynamic_typing,1268978]]'
 programming_paradigm:
-  - "[[_Standards/WikiData/WD~prototype_based_programming,180868]]"
-  - "[[_Standards/WikiData/WD~functional_programming,193076]]"
-  - "[[_Standards/WikiData/WD~imperative_programming,275596]]"
-  - "[[_Standards/WikiData/WD~generic_programming,1051282]]"
-  - "[[_Standards/WikiData/WD~event_driven_programming,1135914]]"
-  - "[[_Standards/WikiData/WD~aspect_oriented_programming,30267]]"
+  - '[[_Standards/WikiData/WD~prototype_based_programming,180868]]'
+  - '[[_Standards/WikiData/WD~functional_programming,193076]]'
+  - '[[_Standards/WikiData/WD~imperative_programming,275596]]'
+  - '[[_Standards/WikiData/WD~generic_programming,1051282]]'
+  - '[[_Standards/WikiData/WD~event_driven_programming,1135914]]'
+  - '[[_Standards/WikiData/WD~aspect_oriented_programming,30267]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~scripting_language,187432]]"
-  - "[[_Standards/WikiData/WD~high_level_programming_language,211496]]"
-  - "[[_Standards/WikiData/WD~computing_platform,241317]]"
-  - "[[_Standards/WikiData/WD~interpreted_language,1993334]]"
-  - "[[_Standards/WikiData/WD~functional_programming_language,3839507]]"
-  - "[[_Standards/WikiData/WD~multi_paradigm_programming_language,12772052]]"
-  - "[[_Standards/WikiData/WD~imperative_programming_language,21562092]]"
-  - "[[_Standards/WikiData/WD~prototype_based_programming_language,28920810]]"
-  - "[[_Standards/WikiData/WD~event_driven_programming_language,28920813]]"
-  - "[[_Standards/WikiData/WD~strict_programming_language,28923017]]"
-  - "[[_Standards/WikiData/WD~programming_language,9143]]"
+  - '[[_Standards/WikiData/WD~scripting_language,187432]]'
+  - '[[_Standards/WikiData/WD~high_level_programming_language,211496]]'
+  - '[[_Standards/WikiData/WD~computing_platform,241317]]'
+  - '[[_Standards/WikiData/WD~interpreted_language,1993334]]'
+  - '[[_Standards/WikiData/WD~functional_programming_language,3839507]]'
+  - '[[_Standards/WikiData/WD~multi_paradigm_programming_language,12772052]]'
+  - '[[_Standards/WikiData/WD~imperative_programming_language,21562092]]'
+  - '[[_Standards/WikiData/WD~prototype_based_programming_language,28920810]]'
+  - '[[_Standards/WikiData/WD~event_driven_programming_language,28920813]]'
+  - '[[_Standards/WikiData/WD~strict_programming_language,28923017]]'
+  - '[[_Standards/WikiData/WD~programming_language,9143]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Scheme,187560]]"
-  - "[[_Standards/WikiData/WD~Lua,207316]]"
-  - "[[_Standards/WikiData/WD~Q213970,213970]]"
-  - "[[_Standards/WikiData/WD~Self,1864529]]"
-  - "[[_Standards/WikiData/WD~LiveScript,16963446]]"
-  - "[[../../../../../../../../WikiData/WD~Q15777,15777]]"
-  - "[[_Standards/WikiData/WD~Q28865,28865]]"
-  - "[[_Standards/WikiData/WD~Q251,251]]"
-  - "[[_Standards/WikiData/WD~Q42478,42478]]"
-  - "[[_Standards/WikiData/WD~HyperTalk,58329]]"
+  - '[[_Standards/WikiData/WD~Scheme,187560]]'
+  - '[[_Standards/WikiData/WD~Lua,207316]]'
+  - '[[_Standards/WikiData/WD~Q213970,213970]]'
+  - '[[_Standards/WikiData/WD~Self,1864529]]'
+  - '[[_Standards/WikiData/WD~LiveScript,16963446]]'
+  - '[[../../../../../../../../WikiData/WD~Q15777,15777]]'
+  - '[[_Standards/WikiData/WD~Q28865,28865]]'
+  - '[[_Standards/WikiData/WD~Q251,251]]'
+  - '[[_Standards/WikiData/WD~Q42478,42478]]'
+  - '[[_Standards/WikiData/WD~HyperTalk,58329]]'
 different_from:
-  - "[[_Standards/WikiData/WD~ECMAScript,259138]]"
-  - "[[_Standards/WikiData/WD~Javanese_script,879704]]"
-  - "[[_Standards/WikiData/WD~JavaScript_format,5924007]]"
-  - "[[_Standards/WikiData/WD~LiveScript,16963446]]"
-  - "[[_Standards/WikiData/WD~Q251,251]]"
-based_on: "[[_Standards/WikiData/WD~ECMAScript,259138]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~JScript,553514]]"
-regulated_by: "[[_Standards/WikiData/WD~Ecma_International,837335]]"
-replaces: "[[_Standards/WikiData/WD~LiveScript,6309506]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_JavaScript,13312202]]"
+  - '[[_Standards/WikiData/WD~ECMAScript,259138]]'
+  - '[[_Standards/WikiData/WD~Javanese_script,879704]]'
+  - '[[_Standards/WikiData/WD~JavaScript_format,5924007]]'
+  - '[[_Standards/WikiData/WD~LiveScript,16963446]]'
+  - '[[_Standards/WikiData/WD~Q251,251]]'
+based_on: '[[_Standards/WikiData/WD~ECMAScript,259138]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~JScript,553514]]'
+regulated_by: '[[_Standards/WikiData/WD~Ecma_International,837335]]'
+replaces: '[[_Standards/WikiData/WD~LiveScript,6309506]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_JavaScript,13312202]]'
 owned_by:
-  - "[[_Standards/WikiData/WD~Sun_Microsystems,14647]]"
-  - "[[_Standards/WikiData/WD~Oracle,19900]]"
-named_after: "[[_Standards/WikiData/WD~Q251,251]]"
+  - '[[_Standards/WikiData/WD~Sun_Microsystems,14647]]'
+  - '[[_Standards/WikiData/WD~Oracle,19900]]'
+named_after: '[[_Standards/WikiData/WD~Q251,251]]'
 described_at_URL:
   - https://marketplace.sshopencloud.eu/tool-or-service/x9cgZf
   - https://tapor.ca/tools/831
-OmegaWiki_Defined_Meaning: "975943"
+OmegaWiki_Defined_Meaning: 975943
 native_label: JavaScript
 file_extension:
   - mjs
@@ -98,26 +99,26 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: ''
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 lang: en
-layout:
+layout: ''
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 publish: false
-publishDate:
+publishDate: ''
 tags:
-  - "{ newTitle: }":
+  - '{ newTitle: }': ''
   - excalidraw
 title:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 type: private_note
 ---
 

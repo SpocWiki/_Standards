@@ -4,21 +4,22 @@ aliases:
   - weight-total
   - weightTotal
   - has_value_for_weight_total_kg
+  - has value for weight total kg
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - weight-total
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_weight-total
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

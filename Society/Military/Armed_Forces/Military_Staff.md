@@ -1,20 +1,22 @@
 ---
 aliases:
   - Military_staff
-  - military staff 
+  - military staff
   - general staff
+  - Military_Staff
+  - Military Staff
 has_id_wikidata: Q6813432
 subclass_of:
-  - "[[_Standards/WikiData/WD~military_unit,176799]]"
-  - "[[_Standards/WikiData/WD~command,2008856]]"
-  - "[[_Standards/WikiData/WD~military_profession,6857706]]"
-  - "[[_Standards/WikiData/WD~military_organization,15627509]]"
+  - '[[_Standards/WikiData/WD~military_unit,176799]]'
+  - '[[_Standards/WikiData/WD~command,2008856]]'
+  - '[[_Standards/WikiData/WD~military_profession,6857706]]'
+  - '[[_Standards/WikiData/WD~military_organization,15627509]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Combined%20Chiefs%20of%20Staff%20in%20Quebec.jpg
 Commons_category: Military staff
 ---

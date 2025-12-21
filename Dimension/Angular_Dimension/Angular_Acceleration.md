@@ -1,6 +1,7 @@
 ---
 aliases:
   - Angular Acceleration
+  - Angular_Acceleration
 ---
 
 #[[Angular_Acceleration]]] 

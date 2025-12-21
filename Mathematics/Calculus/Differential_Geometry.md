@@ -2,15 +2,17 @@
 aliases:
   - Differential geometry
   - Differentialgeometrie
+  - Differential_Geometry
+  - Differential Geometry
 has_id_wikidata: Q188444
 instance_of:
-  - "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-  - "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+  - '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 part_of:
-  - "[[_Standards/WikiData/WD~mathematical_analysis,7754]]"
-  - "[[_Standards/WikiData/WD~geometry,8087]]"
-subclass_of: "[[_Standards/WikiData/WD~geometry,8087]]"
+  - '[[_Standards/WikiData/WD~mathematical_analysis,7754]]'
+  - '[[_Standards/WikiData/WD~geometry,8087]]'
+subclass_of: '[[_Standards/WikiData/WD~geometry,8087]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Line%20elements.svg
 Stack_Exchange_tag:
   - https://hsm.stackexchange.com/tags/differential-geometry

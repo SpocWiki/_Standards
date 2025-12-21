@@ -1,24 +1,25 @@
 ---
 aliases:
   - Scarborough_Reef
+  - Scarborough Reef
 confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
+keywords: ''
 Languages:
   - de
-layout:
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 location:
   - 15.153
   - 117.754
 publish: true
-publishDate:
+publishDate: ''
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region

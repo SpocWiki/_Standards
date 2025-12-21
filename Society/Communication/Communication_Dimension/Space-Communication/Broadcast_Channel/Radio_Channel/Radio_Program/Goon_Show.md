@@ -1,18 +1,20 @@
 ---
 aliases:
   - The_Goon_Show
+  - Goon_Show
+  - Goon Show
 has_id_wikidata: Q168718
 voice_actor:
-  - "[[_Standards/WikiData/WD~Peter_Sellers,177984]]"
-  - "[[_Standards/WikiData/WD~Spike_Milligan,561401]]"
-  - "[[_Standards/WikiData/WD~Harry_Secombe,762958]]"
-  - "[[_Standards/WikiData/WD~Michael_Bentine,2510829]]"
-presenter: "[[_Standards/WikiData/WD~Spike_Milligan,561401]]"
-instance_of: "[[_Standards/WikiData/WD~radio_program,1555508]]"
-original_broadcaster: "[[_Standards/WikiData/WD~BBC_Home_Service,3631716]]"
-original_language_of_film_or_TV_show: "[[_Standards/WikiData/WD~English,1860]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~British_English,7979]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~Peter_Sellers,177984]]'
+  - '[[_Standards/WikiData/WD~Spike_Milligan,561401]]'
+  - '[[_Standards/WikiData/WD~Harry_Secombe,762958]]'
+  - '[[_Standards/WikiData/WD~Michael_Bentine,2510829]]'
+presenter: '[[_Standards/WikiData/WD~Spike_Milligan,561401]]'
+instance_of: '[[_Standards/WikiData/WD~radio_program,1555508]]'
+original_broadcaster: '[[_Standards/WikiData/WD~BBC_Home_Service,3631716]]'
+original_language_of_film_or_TV_show: '[[_Standards/WikiData/WD~English,1860]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~British_English,7979]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 end_time: 1960-01-28T00:00:00Z
 start_time: 1951-05-28T00:00:00Z
 Commons_category: The Goon Show

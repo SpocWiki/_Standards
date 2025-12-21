@@ -1,32 +1,33 @@
 ---
 aliases:
   - Verrat
+  - Treason
 has_id_wikidata: Q160128
 subclass_of:
-  - "[[_Standards/WikiData/WD~crime,83267]]"
-  - "[[_Standards/WikiData/WD~betrayal,2166722]]"
-  - "[[_Standards/WikiData/WD~political_crime,2571535]]"
+  - '[[_Standards/WikiData/WD~crime,83267]]'
+  - '[[_Standards/WikiData/WD~betrayal,2166722]]'
+  - '[[_Standards/WikiData/WD~political_crime,2571535]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~wartime_collaboration,156744]]"
-  - "[[_Standards/WikiData/WD~defection,332988]]"
+  - '[[_Standards/WikiData/WD~wartime_collaboration,156744]]'
+  - '[[_Standards/WikiData/WD~defection,332988]]'
   - "[[_Standards/WikiData/WD~intelligence_avec_l'ennemi,3153006]]"
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 main_regulatory_text:
-  - "[[_Standards/WikiData/WD~Strafgesetzbuch,674827]]"
-  - "[[_Standards/WikiData/WD~Criminal_Code_of_Ukraine,5761127]]"
-different_from: "[[_Standards/WikiData/WD~Q4146589,4146589]]"
-practiced_by: "[[_Standards/WikiData/WD~traitor,13747838]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_crime,130583773]]"
+  - '[[_Standards/WikiData/WD~Strafgesetzbuch,674827]]'
+  - '[[_Standards/WikiData/WD~Criminal_Code_of_Ukraine,5761127]]'
+different_from: '[[_Standards/WikiData/WD~Q4146589,4146589]]'
+practiced_by: '[[_Standards/WikiData/WD~traitor,13747838]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_crime,130583773]]'
 Commons_category: Treason
 Iconclass_notation: 45F9
 IMDb_keyword: treason
-U_S_National_Archives_Identifier: "10644100"
+U_S_National_Archives_Identifier: 10644100
 Universal_Decimal_Classification: 341.226.11
 ---
 

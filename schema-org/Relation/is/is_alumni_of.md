@@ -1,31 +1,31 @@
 ---
 aliases:
-- alumni-of
-- alumniOf
-- is alumni of
-- is_alumni_of
-- "schema:alumniOf"
-- "dbo:almaMater"
-- "wdt:P69"
+  - alumni-of
+  - alumniOf
+  - is alumni of
+  - is_alumni_of
+  - schema:alumniOf
+  - dbo:almaMater
+  - wdt:P69
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- alumni
-- of
-layout: 
-license: "CC BY-SA 4.0"
+  - alumni
+  - of
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: is_alumni_of
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_alumni_of
 type: Predi_Relation
 ---

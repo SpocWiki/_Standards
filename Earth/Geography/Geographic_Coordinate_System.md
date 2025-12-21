@@ -1,22 +1,24 @@
 ---
 aliases:
   - Geographic coordinate system
+  - Geographic_Coordinate_System
+  - Geographic Coordinate System
 has_id_wikidata: Q22664
 uses:
-  - "[[_Standards/WikiData/WD~circle_of_latitude,146591]]"
-  - "[[_Standards/WikiData/WD~meridian,32099]]"
-part_of: "[[_Standards/WikiData/WD~spatial_reference_system,161779]]"
+  - '[[_Standards/WikiData/WD~circle_of_latitude,146591]]'
+  - '[[_Standards/WikiData/WD~meridian,32099]]'
+part_of: '[[_Standards/WikiData/WD~spatial_reference_system,161779]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-different_from: "[[_Standards/WikiData/WD~geographic_location,2221906]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Coord,6294369]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+different_from: '[[_Standards/WikiData/WD~geographic_location,2221906]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Coord,6294369]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~geographic_entity,27096213]]"
-  - "[[_Standards/WikiData/WD~coordinate_system,11210]]"
-has_use: "[[_Standards/WikiData/WD~geographic_coordinate,104224919]]"
+  - '[[_Standards/WikiData/WD~geographic_entity,27096213]]'
+  - '[[_Standards/WikiData/WD~coordinate_system,11210]]'
+has_use: '[[_Standards/WikiData/WD~geographic_coordinate,104224919]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn><mn>1</mn><mn>1</mn><mn>1</mn><mn>3</mn><mn>2</mn><mo stretchy="false">.</mo><mn>9</mn><mn>2</mn><mo stretchy="false">&#x2212;</mo><mn>5</mn><mn>5</mn><mn>9</mn><mo stretchy="false">.</mo><mn>8</mn><mn>2</mn><mspace width="0.167em"></mspace><mi>cos</mi><mo>&#x2061;</mo><mn>2</mn><mi>&#x03C6;</mi><mo stretchy="false">+</mo><mn>1</mn><mo stretchy="false">.</mo><mn>1</mn><mn>7</mn><mn>5</mn><mspace width="0.167em"></mspace><mi>cos</mi><mo>&#x2061;</mo><mn>4</mn><mi>&#x03C6;</mi><mo stretchy="false">&#x2212;</mo><mn>0</mn><mo stretchy="false">.</mo><mn>0</mn><mn>0</mn><mn>2</mn><mn>3</mn><mspace width="0.167em"></mspace><mi>cos</mi><mo>&#x2061;</mo><mn>6</mn><mi>&#x03C6;</mi></mstyle></mrow></math>
 Wikidata_property:
   - coordinate location

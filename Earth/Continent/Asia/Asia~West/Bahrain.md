@@ -1,11 +1,20 @@
 ---
+aliases:
+  - Bahrain
+  - Bahrein
+  - Bahreïn
+  - البحرين
+  - 巴林
+  - Бахрейн
+  - the Kingdom of Bahrain
+  - el Reino de Bahrein
+has_id_wikidata: Q398
 location:
   - 26.2
   - 50.58
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q398
 SpocWebEntityId: 26847
 isDeleted: false
 confidential: public
@@ -16,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Bahrain
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Bahrain
-  - Bahrein
-  - Bahreïn
-  - البحرين
-  - 巴林
-  - Бахрейн
-  - the Kingdom of Bahrain
-  - el Reino de Bahrein
+publishDate: ""
+expiryDate: ""
 Languages:
   - ar-BH
   - en

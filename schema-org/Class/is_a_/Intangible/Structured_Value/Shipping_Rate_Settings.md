@@ -4,20 +4,22 @@ aliases:
   - shipping_rate_settings
   - ShippingRateSettings
   - is_a_shipping_rate_settings
+  - Shipping_Rate_Settings
+  - Shipping Rate Settings
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - shipping_rate_settings
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_shipping_rate_settings Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,16 +1,17 @@
 ---
 aliases:
   - Egge
+  - Harrow(Tool)
 has_id_wikidata: Q209042
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-different_from: "[[_Standards/WikiData/WD~Brona,4973806]]"
-has_use: "[[_Standards/WikiData/WD~harrowing,13542714]]"
-subclass_of: "[[_Standards/WikiData/WD~tillage_machine,15306431]]"
-Nomenclature_for_Museum_Cataloging: "3194"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~Brona,4973806]]'
+has_use: '[[_Standards/WikiData/WD~harrowing,13542714]]'
+subclass_of: '[[_Standards/WikiData/WD~tillage_machine,15306431]]'
+Nomenclature_for_Museum_Cataloging: 3194
 Commons_gallery: Harrow
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Scheibenegge.jpg
 Iconclass_notation: 47I15(HARROW)

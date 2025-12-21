@@ -4,74 +4,76 @@ aliases:
   - Johannes Diderik van der Waals
   - Waals
   - van der Waals
+  - van_der_Waals,Johannes_Diderik
+  - van der Waals,Johannes Diderik
 has_id_wikidata: Q131721
 Libris_URI: 86lnqkns0khv9km
 IPA_transcription: joːˈɦɑnəs ˈdidəˌrɪk vɑn dər ʋaːls
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/VAN-DER-VAALS_YAN_DIDERIK.html
 date_of_death: 1923-03-08T00:00:00Z
 occupation:
-  - "[[_Standards/WikiData/WD~professor,121594]]"
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~chemist,593644]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~theoretical_physicist,19350898]]"
-educated_at: "[[_Standards/WikiData/WD~Leiden_University,156598]]"
+  - '[[_Standards/WikiData/WD~professor,121594]]'
+  - '[[_Standards/WikiData/WD~physicist,169470]]'
+  - '[[_Standards/WikiData/WD~mathematician,170790]]'
+  - '[[_Standards/WikiData/WD~chemist,593644]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~theoretical_physicist,19350898]]'
+educated_at: '[[_Standards/WikiData/WD~Leiden_University,156598]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~van_der_Waals_radius,166879]]"
-  - "[[_Standards/WikiData/WD~van_der_Waals_equation,254329]]"
-employer: "[[_Standards/WikiData/WD~University_of_Amsterdam,214341]]"
+  - '[[_Standards/WikiData/WD~van_der_Waals_radius,166879]]'
+  - '[[_Standards/WikiData/WD~van_der_Waals_equation,254329]]'
+employer: '[[_Standards/WikiData/WD~University_of_Amsterdam,214341]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]"
-  - "[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]"
-  - "[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]"
-  - "[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]"
+  - '[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]'
+  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
+  - '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-  - "[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+  - '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
 child:
-  - "[[_Standards/WikiData/WD~Jacqueline_E._van_der_Waals,687854]]"
-  - "[[_Standards/WikiData/WD~Johannes_Diderik_van_der_Waals_Jr.,2557534]]"
+  - '[[_Standards/WikiData/WD~Jacqueline_E._van_der_Waals,687854]]'
+  - '[[_Standards/WikiData/WD~Johannes_Diderik_van_der_Waals_Jr.,2557534]]'
 doctoral_student:
-  - "[[_Standards/WikiData/WD~Diederik_Korteweg,1220238]]"
-  - "[[_Standards/WikiData/WD~Willem_Hendrik_Keesom,1356820]]"
-  - "[[_Standards/WikiData/WD~Johannes_Diderik_van_der_Waals_Jr.,2557534]]"
-  - "[[_Standards/WikiData/WD~Philipp_Abraham_Kohnstamm,102110594]]"
-  - "[[_Standards/WikiData/WD~Obe_Postma,102311003]]"
-  - "[[_Standards/WikiData/WD~Henri_Adrien_Naber,102311004]]"
-  - "[[_Standards/WikiData/WD~Gerrit_Hondius_Boldingh,102349061]]"
-  - "[[_Standards/WikiData/WD~Bokko_Meilink,102362706]]"
-  - "[[_Standards/WikiData/WD~Cornelius_Dorsman,102362707]]"
-  - "[[_Standards/WikiData/WD~Johannes_C._Schalkwijk,102362705]]"
-  - "[[_Standards/WikiData/WD~Q135103991,135103991]]"
+  - '[[_Standards/WikiData/WD~Diederik_Korteweg,1220238]]'
+  - '[[_Standards/WikiData/WD~Willem_Hendrik_Keesom,1356820]]'
+  - '[[_Standards/WikiData/WD~Johannes_Diderik_van_der_Waals_Jr.,2557534]]'
+  - '[[_Standards/WikiData/WD~Philipp_Abraham_Kohnstamm,102110594]]'
+  - '[[_Standards/WikiData/WD~Obe_Postma,102311003]]'
+  - '[[_Standards/WikiData/WD~Henri_Adrien_Naber,102311004]]'
+  - '[[_Standards/WikiData/WD~Gerrit_Hondius_Boldingh,102349061]]'
+  - '[[_Standards/WikiData/WD~Bokko_Meilink,102362706]]'
+  - '[[_Standards/WikiData/WD~Cornelius_Dorsman,102362707]]'
+  - '[[_Standards/WikiData/WD~Johannes_C._Schalkwijk,102362705]]'
+  - '[[_Standards/WikiData/WD~Q135103991,135103991]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Johannes,2117521]]"
-  - "[[_Standards/WikiData/WD~Diderik,5274119]]"
-place_of_burial: "[[_Standards/WikiData/WD~Amsterdam_New_Eastern_Cemetery,2415322]]"
+  - '[[_Standards/WikiData/WD~Johannes,2117521]]'
+  - '[[_Standards/WikiData/WD~Diderik,5274119]]'
+place_of_burial: '[[_Standards/WikiData/WD~Amsterdam_New_Eastern_Cemetery,2415322]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Johannes_Diderik_van_der_Waals_Jr.,2557534]]"
-  - "[[_Standards/WikiData/WD~Johannes_Diderik_van_der_Waals,21552521]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-doctoral_advisor: "[[_Standards/WikiData/WD~Pieter_Rijke,9286544]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
-spouse: "[[_Standards/WikiData/WD~Anna_Magdalena_Smit,109319023]]"
-family_name: "[[_Standards/WikiData/WD~van_der_Waals,109319088]]"
+  - '[[_Standards/WikiData/WD~Johannes_Diderik_van_der_Waals_Jr.,2557534]]'
+  - '[[_Standards/WikiData/WD~Johannes_Diderik_van_der_Waals,21552521]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+doctoral_advisor: '[[_Standards/WikiData/WD~Pieter_Rijke,9286544]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
+spouse: '[[_Standards/WikiData/WD~Anna_Magdalena_Smit,109319023]]'
+family_name: '[[_Standards/WikiData/WD~van_der_Waals,109319088]]'
 date_of_birth: 1837-11-23T00:00:00Z
-field_of_work: "[[_Standards/WikiData/WD~physics,413]]"
-place_of_death: "[[_Standards/WikiData/WD~Amsterdam,727]]"
-native_language: "[[_Standards/WikiData/WD~Dutch,7411]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Dutch,7411]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]"
-influenced_by: "[[_Standards/WikiData/WD~Rudolf_Clausius,30693]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-award_received: "[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]"
-nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]"
-place_of_birth: "[[_Standards/WikiData/WD~Leiden,43631]]"
+field_of_work: '[[_Standards/WikiData/WD~physics,413]]'
+place_of_death: '[[_Standards/WikiData/WD~Amsterdam,727]]'
+native_language: '[[_Standards/WikiData/WD~Dutch,7411]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Dutch,7411]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]'
+influenced_by: '[[_Standards/WikiData/WD~Rudolf_Clausius,30693]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+award_received: '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
+place_of_birth: '[[_Standards/WikiData/WD~Leiden,43631]]'
 Commons_category: Johannes Diderik van der Waals
 Commons_gallery: Johannes Diderik van der Waals
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20Johann%20Diederik%20van%20der%20Waals.jpg
@@ -79,7 +81,7 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Diderik%20v
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Diderik%20van%20der%20Waals%20name.flac
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Van%20der%20Waals.jpg
 described_at_URL: http://www.digiporta.net/index.php?id=511472460
-ISNI: "0000000110406491"
+ISNI: 0000000110406491
 ---
 
 # [[van_der_Waals,Johannes_Diderik]] 

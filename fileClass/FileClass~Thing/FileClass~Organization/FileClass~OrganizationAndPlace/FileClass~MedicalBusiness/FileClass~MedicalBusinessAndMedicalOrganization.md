@@ -1,30 +1,32 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MedicalBusinessAndMedicalOrganization
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness
 fields:
-- id: 4MWyb3
-  name: HealthPlanNetworkId
-  options: {}
-  type: Input
-  path: ''
-- id: hWdb3c
-  name: IsAcceptingNewPatients
-  options: {}
-  type: Boolean
-  path: ''
+  - id: 4MWyb3
+    name: HealthPlanNetworkId
+    options: {}
+    type: Input
+    path: ''
+  - id: hWdb3c
+    name: IsAcceptingNewPatients
+    options: {}
+    type: Boolean
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MedicalBusinessAndMedicalOrganization
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization
-- is_a_/MedicalBusinessAndMedicalOrganization
-- schema-org/MedicalBusinessAndMedicalOrganization
+  - class/MedicalBusinessAndMedicalOrganization
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization
+  - is_a_/MedicalBusinessAndMedicalOrganization
+  - schema-org/MedicalBusinessAndMedicalOrganization
 tags:
-- class/FileClass
-- class/MedicalBusinessAndMedicalOrganization
-- is_a_/MedicalBusinessAndMedicalOrganization
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization
+  - class/FileClass
+  - class/MedicalBusinessAndMedicalOrganization
+  - is_a_/MedicalBusinessAndMedicalOrganization
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization
 version: 2.0
 ---
 

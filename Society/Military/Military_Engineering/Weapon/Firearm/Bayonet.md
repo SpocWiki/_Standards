@@ -1,23 +1,25 @@
 ---
+aliases:
+  - Bayonet
 has_id_wikidata: Q173366
 instance_of:
-  - "[[_Standards/WikiData/WD~cold_weapon,222405]]"
-  - "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
+  - '[[_Standards/WikiData/WD~cold_weapon,222405]]'
+  - '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-subclass_of: "[[_Standards/WikiData/WD~pole_weapon,649107]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+subclass_of: '[[_Standards/WikiData/WD~pole_weapon,649107]]'
 time_of_discovery_or_invention: 1700-01-01T00:00:00Z
-Nomenclature_for_Museum_Cataloging: "8155"
-OmegaWiki_Defined_Meaning: "850624"
-U_S_National_Archives_Identifier: "10665126"
+Nomenclature_for_Museum_Cataloging: 8155
+OmegaWiki_Defined_Meaning: 850624
+U_S_National_Archives_Identifier: 10665126
 MCN_code: 9307.00.00
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Bajonet-article.ogg
-P8189: "987007282424505171"
+P8189: 987007282424505171
 IMDb_keyword: bayonet
 Commons_category: Bayonets
 image: http://commons.wikimedia.org/wiki/Special:FilePath/US-Bajonette%20verschiedener%20Epochen.jpg

@@ -2,23 +2,24 @@
 aliases:
   - has diversity-staffing-report
   - has_diversity_staffing_report
+  - has diversity staffing report
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - diversity
   - staffing
   - report
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_diversity_staffing_report
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

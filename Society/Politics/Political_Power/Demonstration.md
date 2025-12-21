@@ -4,27 +4,28 @@ aliases:
   - demonstration
   - remonstration
   - remonstrance
+  - Demonstration
 has_id_wikidata: Q175331
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~protest,273120]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~protest,273120]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-  - "[[_Standards/WikiData/WD~demonstration,1395149]]"
-  - "[[_Standards/WikiData/WD~military_demonstration,5256317]]"
+  - '[[_Standards/WikiData/WD~demonstration,1395149]]'
+  - '[[_Standards/WikiData/WD~military_demonstration,5256317]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~event,1656682]]"
-  - "[[_Standards/WikiData/WD~group_action,3533467]]"
-  - "[[_Standards/WikiData/WD~demonstration_or_protest,130260549]]"
-instance_of: "[[_Standards/WikiData/WD~form_of_event,108586636]]"
+  - '[[_Standards/WikiData/WD~event,1656682]]'
+  - '[[_Standards/WikiData/WD~group_action,3533467]]'
+  - '[[_Standards/WikiData/WD~demonstration_or_protest,130260549]]'
+instance_of: '[[_Standards/WikiData/WD~form_of_event,108586636]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/%D7%94%D7%94%D7%A4%D7%92%D7%A0%D7%94%20%D7%94%D7%92%D7%93%D7%95%D7%9C%D7%94%20%D7%91%D7%9B%D7%99%D7%9B%D7%A8%20%D7%A4%D7%A8%D7%99%D7%96%20%D7%91%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D%20%D7%91%D7%9E%D7%95%D7%A6%D7%90%D7%99%20%D7%A9%D7%91%D7%AA%20%D7%9C%D7%A4%D7%A0%D7%99%20%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%20%D7%9C%D7%9B%D7%A0%D7%A1%D7%AA%20%D7%94-24.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/1963%20march%20on%20washington.jpg
 IMDb_keyword: protest
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Don%27t%20Iraq%20Iran%21%20Washington%2C%20D.C.%20anti-war%20protest%2C%20Jan.%204%2C%202020.webm
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Simple%20en%20Demonstration.oga
-MIL_STD_2525_Symbol_Identification_Code: "10014000001201000000"
+MIL_STD_2525_Symbol_Identification_Code: 10014000001201000000
 Commons_category: Political demonstrations
 ---
 

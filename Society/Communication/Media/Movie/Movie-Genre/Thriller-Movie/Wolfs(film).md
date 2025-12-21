@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Wolfs (film)"
+  - Wolfs (film)
+  - Wolfs(film)
 ---
 
 #has_/genre :: [ [[Thriller]], [[Buddy-Story]] ]

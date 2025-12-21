@@ -4,20 +4,22 @@ aliases:
   - endorse_action
   - EndorseAction
   - is_an_endorse_action
+  - Endorse_Action
+  - Endorse Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - endorse_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_endorse_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

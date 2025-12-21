@@ -4,29 +4,31 @@ aliases:
   - public transit
   - mass transit
   - transit
+  - Public_Transport
+  - Public Transport
 has_id_wikidata: Q178512
-has_use: "[[_Standards/WikiData/WD~climate_change_mitigation,898653]]"
+has_use: '[[_Standards/WikiData/WD~climate_change_mitigation,898653]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-opposite_of: "[[_Standards/WikiData/WD~private_transport,1661652]]"
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+opposite_of: '[[_Standards/WikiData/WD~private_transport,1661652]]'
 different_from:
-  - "[[_Standards/WikiData/WD~passenger_transport,2072431]]"
-  - "[[_Standards/WikiData/WD~shared_transport,7489559]]"
-  - "[[_Standards/WikiData/WD~collective_transportation,109733489]]"
-subclass_of: "[[_Standards/WikiData/WD~transport_service,2806437]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Public_transport,4177559]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-studied_by: "[[_Standards/WikiData/WD~urban_studies,23578769]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Public_transport,57415045]]"
-relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiData/WD~Target_11.2_of_the_Sustainable_Development_Goals,57590856]]"
-described_by_source: "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~collective_transportation,109733489]]"
-has_characteristic: "[[_Standards/WikiData/WD~public,116796279]]"
-OmegaWiki_Defined_Meaning: "3048"
+  - '[[_Standards/WikiData/WD~passenger_transport,2072431]]'
+  - '[[_Standards/WikiData/WD~shared_transport,7489559]]'
+  - '[[_Standards/WikiData/WD~collective_transportation,109733489]]'
+subclass_of: '[[_Standards/WikiData/WD~transport_service,2806437]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Public_transport,4177559]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+studied_by: '[[_Standards/WikiData/WD~urban_studies,23578769]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Public_transport,57415045]]'
+relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_11.2_of_the_Sustainable_Development_Goals,57590856]]'
+described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~collective_transportation,109733489]]'
+has_characteristic: '[[_Standards/WikiData/WD~public,116796279]]'
+OmegaWiki_Defined_Meaning: 3048
 Merchant_Category_Code:
-  - "4111"
-  - "4112"
+  - 4111
+  - 4112
 social_media_followers: 14186
 image: http://commons.wikimedia.org/wiki/Special:FilePath/First%20Group%20services%20mosaic%202015.jpg
 icon:

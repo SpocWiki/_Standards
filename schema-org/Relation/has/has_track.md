@@ -7,16 +7,16 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - track
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_track
 publish: true
-publishDate:
+publishDate: ''
 supersedes: tracks
 tags:
   - class/Relation

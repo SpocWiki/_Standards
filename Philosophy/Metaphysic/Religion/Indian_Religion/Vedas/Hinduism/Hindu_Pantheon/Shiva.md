@@ -7,6 +7,7 @@ aliases:
   - महादेव
   - Mahādevaḥ
   - Hara
+  - Shiva
 has_id_wikidata: Q11378
 spouse:
   - "[[_Standards/WikiData/WD~Parvati,170485]]"

@@ -2,68 +2,69 @@
 aliases:
   - Rosalind Elsie Franklin
   - Rosalind Franklin
+  - Franklin,Rosalind
 has_id_wikidata: Q7474
 Google_Doodle: rosalind-franklins-93rd-birthday
 birth_name: Rosalind Elsie Franklin
 date_of_birth: 1920-07-25T00:00:00Z
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~chemist,593644]]"
-  - "[[_Standards/WikiData/WD~biologist,864503]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~biochemist,2919046]]"
-  - "[[_Standards/WikiData/WD~geneticist,3126128]]"
-  - "[[_Standards/WikiData/WD~biophysicist,14906342]]"
-  - "[[_Standards/WikiData/WD~crystallographer,15142825]]"
-  - "[[_Standards/WikiData/WD~molecular_biologist,15839206]]"
-cause_of_death: "[[_Standards/WikiData/WD~ovarian_cancer,172341]]"
+  - '[[_Standards/WikiData/WD~physicist,169470]]'
+  - '[[_Standards/WikiData/WD~chemist,593644]]'
+  - '[[_Standards/WikiData/WD~biologist,864503]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~biochemist,2919046]]'
+  - '[[_Standards/WikiData/WD~geneticist,3126128]]'
+  - '[[_Standards/WikiData/WD~biophysicist,14906342]]'
+  - '[[_Standards/WikiData/WD~crystallographer,15142825]]'
+  - '[[_Standards/WikiData/WD~molecular_biologist,15839206]]'
+cause_of_death: '[[_Standards/WikiData/WD~ovarian_cancer,172341]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-place_of_birth: "[[_Standards/WikiData/WD~Notting_Hill,215354]]"
+  - '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+place_of_birth: '[[_Standards/WikiData/WD~Notting_Hill,215354]]'
 employer:
   - "[[_Standards/WikiData/WD~King's_College_London,245247]]"
-  - "[[_Standards/WikiData/WD~Birkbeck,_University_of_London,375606]]"
+  - '[[_Standards/WikiData/WD~Birkbeck,_University_of_London,375606]]'
 student:
-  - "[[_Standards/WikiData/WD~Raymond_Gosling,425771]]"
-  - "[[_Standards/WikiData/WD~John_Thomas_Finch,21166230]]"
+  - '[[_Standards/WikiData/WD~Raymond_Gosling,425771]]'
+  - '[[_Standards/WikiData/WD~John_Thomas_Finch,21166230]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~Churchill_College,714740]]"
-  - "[[_Standards/WikiData/WD~Wellcome_Collection,7981191]]"
-academic_degree: "[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]"
-field_of_work: "[[_Standards/WikiData/WD~X_ray_crystallography,826582]]"
+  - '[[_Standards/WikiData/WD~Churchill_College,714740]]'
+  - '[[_Standards/WikiData/WD~Wellcome_Collection,7981191]]'
+academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
+field_of_work: '[[_Standards/WikiData/WD~X_ray_crystallography,826582]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Newnham_College,1247589]]"
+  - '[[_Standards/WikiData/WD~Newnham_College,1247589]]'
   - "[[_Standards/WikiData/WD~St_Paul's_Girls'_School,4638918]]"
-  - "[[_Standards/WikiData/WD~Norland_Place_School,7051393]]"
-  - "[[_Standards/WikiData/WD~University_of_Cambridge,35794]]"
-family_name: "[[_Standards/WikiData/WD~Franklin,2696075]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-father: "[[_Standards/WikiData/WD~Ellis_Arthur_Franklin,5365834]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-place_of_burial: "[[_Standards/WikiData/WD~Willesden_Jewish_Cemetery,8003686]]"
+  - '[[_Standards/WikiData/WD~Norland_Place_School,7051393]]'
+  - '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
+family_name: '[[_Standards/WikiData/WD~Franklin,2696075]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+father: '[[_Standards/WikiData/WD~Ellis_Arthur_Franklin,5365834]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+place_of_burial: '[[_Standards/WikiData/WD~Willesden_Jewish_Cemetery,8003686]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Elsie,16423214]]"
-  - "[[_Standards/WikiData/WD~Rosalind,20165788]]"
-doctoral_student: "[[_Standards/WikiData/WD~John_Thomas_Finch,21166230]]"
-place_of_death: "[[_Standards/WikiData/WD~Royal_Marsden_Hospital,50575536]]"
+  - '[[_Standards/WikiData/WD~Elsie,16423214]]'
+  - '[[_Standards/WikiData/WD~Rosalind,20165788]]'
+doctoral_student: '[[_Standards/WikiData/WD~John_Thomas_Finch,21166230]]'
+place_of_death: '[[_Standards/WikiData/WD~Royal_Marsden_Hospital,50575536]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
-  - "[[_Standards/WikiData/WD~The_Women_s_Library_LSESuffrageInterviewsProject,117322976]]"
+  - '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+  - '[[_Standards/WikiData/WD~The_Women_s_Library_LSESuffrageInterviewsProject,117322976]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Forgotten_Women_The_Scientists,66758970]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Pioneers_of_Science_and_Technology,112892854]]"
-  - "[[_Standards/WikiData/WD~Women_In_Science,113116304]]"
-  - "[[_Standards/WikiData/WD~A_historical_dictionary_of_British_women,124350773]]"
+  - '[[_Standards/WikiData/WD~Forgotten_Women_The_Scientists,66758970]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Pioneers_of_Science_and_Technology,112892854]]'
+  - '[[_Standards/WikiData/WD~Women_In_Science,113116304]]'
+  - '[[_Standards/WikiData/WD~A_historical_dictionary_of_British_women,124350773]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~British_English,7979]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-ethnic_group: "[[_Standards/WikiData/WD~Jewish_people,7325]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-ISNI: "0000000066799514"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~British_English,7979]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+ethnic_group: '[[_Standards/WikiData/WD~Jewish_people,7325]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+ISNI: 0000000066799514
 Commons_category: Rosalind Franklin
 name_in_native_language: Rosalind Franklin
 date_of_death: 1958-04-16T00:00:00Z

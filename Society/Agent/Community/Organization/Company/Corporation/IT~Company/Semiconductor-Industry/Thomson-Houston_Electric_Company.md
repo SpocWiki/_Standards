@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Compagnie Française Thomson-Houston"
+  - Compagnie Française Thomson-Houston
+  - Thomson-Houston_Electric_Company
+  - Thomson-Houston Electric Company
 ---
 
 > The Thomson-Houston Electric Company was a manufacturing company that was one of the precursors of General Electric.

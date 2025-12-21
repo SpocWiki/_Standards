@@ -13,40 +13,40 @@ aliases:
   - rdfs:Resource
   - things
   - sumo~Entity
+has_id_wikidata: Q35120
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 has_sub_classes:
-  - "[[./Class/is_a_/action|Action]]"
-  - "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]"
-  - "[[../../Society/Communication/Media/Creative_Work|creative_work]]"
-  - "[[Class/is_a_/event|event]]"
-  - "[[Class/is_a_/Intangible|Intangible]]"
-  - "[[../../bio/Medicine/Medical_Entity|medical-entity]]"
-  - "[[../../Earth/Geography/Place|place]]"
-  - "[[../../Society/Agent/Community/Organization|organization]]"
-  - "[[../../Society/Agent/Person|person]]"
-  - "[[../../Society/Agent/Community/Organization/Business/Product|product]]"
-  - "[[../../bio/Taxon_Rank/Taxon|taxon]]"
+  - '[[./Class/is_a_/action|Action]]'
+  - '[[Class/is_a_/bio_chem_entity|bio_chem_entity]]'
+  - '[[../../Society/Communication/Media/Creative_Work|creative_work]]'
+  - '[[Class/is_a_/event|event]]'
+  - '[[Class/is_a_/Intangible|Intangible]]'
+  - '[[../../bio/Medicine/Medical_Entity|medical-entity]]'
+  - '[[../../Earth/Geography/Place|place]]'
+  - '[[../../Society/Agent/Community/Organization|organization]]'
+  - '[[../../Society/Agent/Person|person]]'
+  - '[[../../Society/Agent/Community/Organization/Business/Product|product]]'
+  - '[[../../bio/Taxon_Rank/Taxon|taxon]]'
 has_time_started: 2023-10-02
 isDeleted: false
 isReadOnly: false
 keywords:
   - thing
 lang: en
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_thing Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - schema-org/Class
   - class/Class
 title: is_a_thing Class
 type: Type
-has_id_wikidata: Q35120
 ---
 
 # [[Thing]]s/Entities/Objects/Instances/Resources 

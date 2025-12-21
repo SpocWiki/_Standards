@@ -1,9 +1,11 @@
 ---
 aliases:
   - Commonwealth of Independent States
+  - CIS(Commonwealth_of_Independent_States)
+  - CIS(Commonwealth of Independent States)
 has_id_wikidata: Q7779
-ISNI: "0000000121592250"
-P8189: "987007511404005171"
+ISNI: 0000000121592250
+P8189: 987007511404005171
 UMLS_CUI: C0162854
 Libris_URI: dbqsqkhx0wrz5mw
 MeSH_tree_code:
@@ -95,54 +97,54 @@ native_label:
   - Содружество Независимых Государств
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Orthographic%20projection%20map%20of%20the%20Commonwealth%20of%20Independent%20States%20%282014%E2%80%932022%29.svg
 founded_by:
-  - "[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]"
-  - "[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184]]"
-  - "[[_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895]]"
-child_organization_unit: "[[_Standards/WikiData/WD~Union_State,166110]]"
+  - '[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]'
+  - '[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184]]'
+  - '[[_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895]]'
+child_organization_unit: '[[_Standards/WikiData/WD~Union_State,166110]]'
 official_observer_status_in_organisation:
-  - "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
-  - "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
-named_by: "[[_Standards/WikiData/WD~Leonid_Kravchuk,189732]]"
+  - '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
+  - '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
+named_by: '[[_Standards/WikiData/WD~Leonid_Kravchuk,189732]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
-  - "[[_Standards/WikiData/WD~international_organization,484652]]"
-  - "[[_Standards/WikiData/WD~commonwealth,2578692]]"
-  - "[[_Standards/WikiData/WD~nationality_for_sports,3337001]]"
-flag: "[[_Standards/WikiData/WD~flag_of_the_Commonwealth_of_Independent_States,437841]]"
-foundational_text: "[[_Standards/WikiData/WD~Alma_Ata_Protocol,1786449]]"
+  - '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
+  - '[[_Standards/WikiData/WD~international_organization,484652]]'
+  - '[[_Standards/WikiData/WD~commonwealth,2578692]]'
+  - '[[_Standards/WikiData/WD~nationality_for_sports,3337001]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_Commonwealth_of_Independent_States,437841]]'
+foundational_text: '[[_Standards/WikiData/WD~Alma_Ata_Protocol,1786449]]'
 follows:
-  - "[[_Standards/WikiData/WD~Soviet_empire,2090550]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+  - '[[_Standards/WikiData/WD~Soviet_empire,2090550]]'
+  - '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
 named_after:
-  - "[[_Standards/WikiData/WD~commonwealth,2578692]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~independence,37055]]"
+  - '[[_Standards/WikiData/WD~commonwealth,2578692]]'
+  - '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+  - '[[_Standards/WikiData/WD~independence,37055]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Q4403143,4403143]]"
-  - "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Commonwealth_of_Independent_States,5914587]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Q19232729,19232729]]"
+  - '[[_Standards/WikiData/WD~Q4403143,4403143]]'
+  - '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Commonwealth_of_Independent_States,5914587]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Q19232729,19232729]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Uzbekistan,265]]"
-  - "[[_Standards/WikiData/WD~Armenia,399]]"
-  - "[[_Standards/WikiData/WD~Mongolia,711]]"
-  - "[[_Standards/WikiData/WD~Kyrgyzstan,813]]"
-  - "[[_Standards/WikiData/WD~Tajikistan,863]]"
-  - "[[_Standards/WikiData/WD~Turkmenistan,874]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Belarus,184]]"
-  - "[[_Standards/WikiData/WD~Moldova,217]]"
-  - "[[_Standards/WikiData/WD~Azerbaijan,227]]"
-  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
-capital: "[[_Standards/WikiData/WD~Minsk,2280]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Minsk,2280]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Eurasia,5401]]"
-official_language: "[[_Standards/WikiData/WD~Russian,7737]]"
-based_on: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+  - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
+  - '[[_Standards/WikiData/WD~Armenia,399]]'
+  - '[[_Standards/WikiData/WD~Mongolia,711]]'
+  - '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
+  - '[[_Standards/WikiData/WD~Tajikistan,863]]'
+  - '[[_Standards/WikiData/WD~Turkmenistan,874]]'
+  - '[[_Standards/WikiData/WD~Russia,159]]'
+  - '[[_Standards/WikiData/WD~Belarus,184]]'
+  - '[[_Standards/WikiData/WD~Moldova,217]]'
+  - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
+  - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
+capital: '[[_Standards/WikiData/WD~Minsk,2280]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Minsk,2280]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Eurasia,5401]]'
+official_language: '[[_Standards/WikiData/WD~Russian,7737]]'
+based_on: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
 continent:
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-  - "[[_Standards/WikiData/WD~Asia,48]]"
-director_manager: "[[_Standards/WikiData/WD~Sergei_Lebedev,36150]]"
+  - '[[_Standards/WikiData/WD~Europe,46]]'
+  - '[[_Standards/WikiData/WD~Asia,48]]'
+director_manager: '[[_Standards/WikiData/WD~Sergei_Lebedev,36150]]'
 EU_Corporate_body_code: CIS
 coordinate_location: Point(102.8 60.5)
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/TT%20banner.jpg

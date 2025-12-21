@@ -1,8 +1,9 @@
 ---
 aliases:
-- "Neil Richard MacKinnon Gaiman"
-- "Neil Richard Gaiman"
-- "Neil Gaiman"
+  - Neil Richard MacKinnon Gaiman
+  - Neil Richard Gaiman
+  - Neil Gaiman
+  - Gaiman,Neil
 ---
 
 # [[Gaiman,Neil]] 

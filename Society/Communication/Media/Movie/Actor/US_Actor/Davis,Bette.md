@@ -1,61 +1,62 @@
 ---
-has_id_wikidata: Q71206
 aliases:
   - Ruth Elizabeth "Bette" Davis
   - '"Bette" Davis'
   - Bette Davis
   - Ruth Elizabeth Davis
-nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]"
+  - Davis,Bette
+has_id_wikidata: Q71206
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]"
-  - "[[_Standards/WikiData/WD~New_York_Film_Critics_Circle,226003]]"
-  - "[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]"
-  - "[[_Standards/WikiData/WD~Donostia_Award,908858]]"
-  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie,989447]]"
-  - "[[_Standards/WikiData/WD~Saturn_Award_for_Best_Supporting_Actress,1257399]]"
-  - "[[_Standards/WikiData/WD~Volpi_Cup_for_Best_Actress,2089918]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Crystal_Award,56085709]]"
-employer: "[[_Standards/WikiData/WD~Warner_Bros.,126399]]"
-cause_of_death: "[[_Standards/WikiData/WD~breast_cancer,128581]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+  - '[[_Standards/WikiData/WD~New_York_Film_Critics_Circle,226003]]'
+  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+  - '[[_Standards/WikiData/WD~Donostia_Award,908858]]'
+  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie,989447]]'
+  - '[[_Standards/WikiData/WD~Saturn_Award_for_Best_Supporting_Actress,1257399]]'
+  - '[[_Standards/WikiData/WD~Volpi_Cup_for_Best_Actress,2089918]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~Crystal_Award,56085709]]'
+employer: '[[_Standards/WikiData/WD~Warner_Bros.,126399]]'
+cause_of_death: '[[_Standards/WikiData/WD~breast_cancer,128581]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Gary_Merrill,562339]]"
-  - "[[_Standards/WikiData/WD~William_Grant_Sherry,8010112]]"
+  - '[[_Standards/WikiData/WD~Gary_Merrill,562339]]'
+  - '[[_Standards/WikiData/WD~William_Grant_Sherry,8010112]]'
 occupation:
-  - "[[_Standards/WikiData/WD~musician,639669]]"
-  - "[[_Standards/WikiData/WD~character_actor,948329]]"
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-place_of_burial: "[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1302545]]"
-record_label: "[[_Standards/WikiData/WD~MGM_Records,1881437]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-filmography: "[[_Standards/WikiData/WD~Bette_Davis_filmography,4859096]]"
-educated_at: "[[_Standards/WikiData/WD~Cushing_Academy,5196182]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-family_name: "[[_Standards/WikiData/WD~Davis,12652678]]"
-child: "[[_Standards/WikiData/WD~B._D._Hyman,14943088]]"
-given_name: "[[_Standards/WikiData/WD~Bette,16275033]]"
+  - '[[_Standards/WikiData/WD~musician,639669]]'
+  - '[[_Standards/WikiData/WD~character_actor,948329]]'
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+place_of_burial: '[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1302545]]'
+record_label: '[[_Standards/WikiData/WD~MGM_Records,1881437]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+filmography: '[[_Standards/WikiData/WD~Bette_Davis_filmography,4859096]]'
+educated_at: '[[_Standards/WikiData/WD~Cushing_Academy,5196182]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+family_name: '[[_Standards/WikiData/WD~Davis,12652678]]'
+child: '[[_Standards/WikiData/WD~B._D._Hyman,14943088]]'
+given_name: '[[_Standards/WikiData/WD~Bette,16275033]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 Plex_person_key: 5d776825f54112001f5bbed2
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-represented_by: "[[_Standards/WikiData/WD~Music_Corporation_of_America,_Inc.,61205003]]"
-different_from: "[[_Standards/WikiData/WD~Betty_Davis,61985034]]"
-father: "[[_Standards/WikiData/WD~Harlow_Morrell_Davis,96243231]]"
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+represented_by: '[[_Standards/WikiData/WD~Music_Corporation_of_America,_Inc.,61205003]]'
+different_from: '[[_Standards/WikiData/WD~Betty_Davis,61985034]]'
+father: '[[_Standards/WikiData/WD~Harlow_Morrell_Davis,96243231]]'
 mother: "[[_Standards/WikiData/WD~Ruth_Augusta_'Ruthie'_Favor,96243261]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_locations: "[[_Standards/WikiData/WD~United_States,30]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_locations: '[[_Standards/WikiData/WD~United_States,30]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 3
-place_of_death: "[[_Standards/WikiData/WD~Neuilly_sur_Seine,48958]]"
-place_of_birth: "[[_Standards/WikiData/WD~Lowell,49162]]"
-P8189: "987007303569605171"
+place_of_death: '[[_Standards/WikiData/WD~Neuilly_sur_Seine,48958]]'
+place_of_birth: '[[_Standards/WikiData/WD~Lowell,49162]]'
+P8189: 987007303569605171
 Europeana_entity: agent/base/147102
 Facebook_username: BetteDavis
 Libris_URI: c9ps18jw44m2xzz
@@ -77,9 +78,9 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/BetteDavis1935.jpg
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Grauman%27s%20Chinese%20Theatre%2C%20bette%20davis.JPG
 official_website: http://www.bettedavis.com
 ISNI:
-  - "0000000121394262"
+  - 0000000121394262
   - 000000036864426X
-U_S_National_Archives_Identifier: "16703221"
+U_S_National_Archives_Identifier: 16703221
 ---
 
 # [[Davis,Bette]] 

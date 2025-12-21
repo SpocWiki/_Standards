@@ -4,20 +4,22 @@ aliases:
   - self_storage
   - SelfStorage
   - is_a_self_storage
+  - Self_Storage
+  - Self Storage
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - self_storage
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_self_storage Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

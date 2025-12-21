@@ -3,23 +3,24 @@ aliases:
   - has related-to
   - relatedTo
   - has_related_to
+  - has related to
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - related_to
   - related
   - to
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_related_to
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

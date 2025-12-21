@@ -2,12 +2,13 @@
 aliases:
   - quantum optics
   - Quantenoptik
+  - Photonics
 has_id_wikidata: Q467054
-instance_of: "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
-part_of: "[[_Standards/WikiData/WD~photonic_and_electro_optical_devices,_sensors_and_systems,113112790]]"
-practiced_by: "[[_Standards/WikiData/WD~Q116189495,116189495]]"
-subclass_of: "[[_Standards/WikiData/WD~physics,413]]"
-OmegaWiki_Defined_Meaning: "1113920"
+instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
+part_of: '[[_Standards/WikiData/WD~photonic_and_electro_optical_devices,_sensors_and_systems,113112790]]'
+practiced_by: '[[_Standards/WikiData/WD~Q116189495,116189495]]'
+subclass_of: '[[_Standards/WikiData/WD~physics,413]]'
+OmegaWiki_Defined_Meaning: 1113920
 Commons_category: Photonics
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Photonic%20Spectrum%20prototype%20being%20tested%20by%20Autumn%20Siegel.jpg

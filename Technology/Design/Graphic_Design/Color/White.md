@@ -1,28 +1,29 @@
 ---
 aliases:
   - Weiß
+  - White
 has_id_wikidata: Q23444
 has_part_s_:
-  - "[[_Standards/WikiData/WD~sky_blue,373160]]"
-  - "[[_Standards/WikiData/WD~violet,428124]]"
-  - "[[_Standards/WikiData/WD~yellow,943]]"
-  - "[[_Standards/WikiData/WD~blue,1088]]"
-  - "[[_Standards/WikiData/WD~green,3133]]"
-  - "[[_Standards/WikiData/WD~red,3142]]"
-  - "[[_Standards/WikiData/WD~orange,39338]]"
+  - '[[_Standards/WikiData/WD~sky_blue,373160]]'
+  - '[[_Standards/WikiData/WD~violet,428124]]'
+  - '[[_Standards/WikiData/WD~yellow,943]]'
+  - '[[_Standards/WikiData/WD~blue,1088]]'
+  - '[[_Standards/WikiData/WD~green,3133]]'
+  - '[[_Standards/WikiData/WD~red,3142]]'
+  - '[[_Standards/WikiData/WD~orange,39338]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~achromatic_color,11567360]]"
-  - "[[_Standards/WikiData/WD~light,9128]]"
+  - '[[_Standards/WikiData/WD~achromatic_color,11567360]]'
+  - '[[_Standards/WikiData/WD~light,9128]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~HTML4_named_color,56053097]]"
-  - "[[_Standards/WikiData/WD~color,1075]]"
-opposite_of: "[[_Standards/WikiData/WD~black,23445]]"
-OmegaWiki_Defined_Meaning: "5872"
+  - '[[_Standards/WikiData/WD~HTML4_named_color,56053097]]'
+  - '[[_Standards/WikiData/WD~color,1075]]'
+opposite_of: '[[_Standards/WikiData/WD~black,23445]]'
+OmegaWiki_Defined_Meaning: 5872
 CSS_color_keyword: white
 Commons_category: White
 pronunciation_audio:
@@ -35,7 +36,7 @@ sRGB_color_hex_triplet: FFFFFF
 Iconclass_notation: 22C4(WHITE)
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-blanc-spreadthesign.ogv
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Wit-article.ogg
-P8189: "987007556017005171"
+P8189: 987007556017005171
 Wolfram_Language_entity_code:
   - Entity["Color", {"Crayola", "White"}]
   - Entity["Color", {"WolframLanguage", "White"}]

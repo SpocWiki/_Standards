@@ -1,25 +1,26 @@
 ---
 aliases:
-- Johnson,Lyndon_B
-- "Lyndon B. Johnson"
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Johnson,Lyndon_B
+  - Lyndon B. Johnson
+  - ''
+  - Johnson,Lyndon B
 has_id_wikidata: Q9640
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Johnson,Lyndon_B
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Johnson,Lyndon_B
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- 
+  - ''
 title: Johnson,Lyndon_B
 type: private_note
 ---

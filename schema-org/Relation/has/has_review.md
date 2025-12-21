@@ -1,28 +1,29 @@
 ---
 aliases:
-- has_review
-- "schema:review"
-- "dbo:review"
-- "wdt:P447"
+  - has_review
+  - schema:review
+  - dbo:review
+  - wdt:P447
+  - has review
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- review
-layout: 
-license: "CC BY-SA 4.0"
+  - review
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_review
 publish: true
-publishDate: 
+publishDate: ''
 supersedes: reviews
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_review
 type: Predi_Relation
 ---

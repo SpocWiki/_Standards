@@ -4,20 +4,22 @@ aliases:
   - warranty_scope
   - WarrantyScope
   - is_a_warranty_scope
+  - Warranty_Scope
+  - Warranty Scope
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - warranty_scope
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_warranty_scope Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

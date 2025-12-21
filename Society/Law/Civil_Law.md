@@ -1,19 +1,21 @@
 ---
 aliases:
   - Civil law
+  - Civil_Law
+  - Civil Law
 has_id_wikidata: Q5950118
-country_of_origin: "[[_Standards/WikiData/WD~continental_Europe,466039]]"
+country_of_origin: '[[_Standards/WikiData/WD~continental_Europe,466039]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~legal_system,2478386]]"
-  - "[[_Standards/WikiData/WD~type_of_law,63718619]]"
-subclass_of: "[[_Standards/WikiData/WD~law,7748]]"
-opposite_of: "[[_Standards/WikiData/WD~common_law,30216]]"
+  - '[[_Standards/WikiData/WD~legal_system,2478386]]'
+  - '[[_Standards/WikiData/WD~type_of_law,63718619]]'
+subclass_of: '[[_Standards/WikiData/WD~law,7748]]'
+opposite_of: '[[_Standards/WikiData/WD~common_law,30216]]'
 Library_of_Congress_Classification: K585-K587
-P8189: "987007283805505171"
+P8189: 987007283805505171
 ---
 
 # [[Civil_Law]] 

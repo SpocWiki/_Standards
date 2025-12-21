@@ -1,12 +1,13 @@
 ---
 aliases:
   - has_associated_media_review
+  - has associated media review
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -14,11 +15,11 @@ keywords:
   - media
   - review
   - associatedMediaReview
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_associated_media_review
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

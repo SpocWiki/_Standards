@@ -1,22 +1,23 @@
 ---
 aliases:
   - Pendel
+  - Pendulum
 has_id_wikidata: Q20702
-uses: "[[_Standards/WikiData/WD~oscillation,170475]]"
-subclass_of: "[[_Standards/WikiData/WD~harmonic_oscillator,190070]]"
+uses: '[[_Standards/WikiData/WD~oscillation,170475]]'
+subclass_of: '[[_Standards/WikiData/WD~harmonic_oscillator,190070]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~linkage,1153014]]"
-  - "[[_Standards/WikiData/WD~string,11064354]]"
-  - "[[_Standards/WikiData/WD~pendulum_bob,15295830]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-Nomenclature_for_Museum_Cataloging: "9203"
-U_S_National_Archives_Identifier: "10643773"
+  - '[[_Standards/WikiData/WD~linkage,1153014]]'
+  - '[[_Standards/WikiData/WD~string,11064354]]'
+  - '[[_Standards/WikiData/WD~pendulum_bob,15295830]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+Nomenclature_for_Museum_Cataloging: 9203
+U_S_National_Archives_Identifier: 10643773
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>g</mi></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>l</mi></mstyle></mrow></math>

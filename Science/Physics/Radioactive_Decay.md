@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Radioactive decay"
+  - Radioactive decay
+  - Radioactive_Decay
+  - Radioactive Decay
 has_id_wikidata: Q11448
 ---
 

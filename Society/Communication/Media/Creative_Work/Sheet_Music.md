@@ -4,20 +4,22 @@ aliases:
   - sheet_music
   - SheetMusic
   - is_a_sheet_music
+  - Sheet_Music
+  - Sheet Music
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sheet_music
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_sheet_music Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

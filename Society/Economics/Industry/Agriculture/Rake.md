@@ -4,29 +4,30 @@ aliases:
   - hark
   - Harke
   - Rechen
+  - Rake
 has_id_wikidata: Q200822
 used_by:
-  - "[[_Standards/WikiData/WD~farmer,131512]]"
-  - "[[_Standards/WikiData/WD~gardener,758780]]"
-  - "[[_Standards/WikiData/WD~housewife,38126150]]"
+  - '[[_Standards/WikiData/WD~farmer,131512]]'
+  - '[[_Standards/WikiData/WD~gardener,758780]]'
+  - '[[_Standards/WikiData/WD~housewife,38126150]]'
 has_use:
-  - "[[_Standards/WikiData/WD~harvest,213753]]"
-  - "[[_Standards/WikiData/WD~tillage,878333]]"
-  - "[[_Standards/WikiData/WD~cleaning,12773274]]"
+  - '[[_Standards/WikiData/WD~harvest,213753]]'
+  - '[[_Standards/WikiData/WD~tillage,878333]]'
+  - '[[_Standards/WikiData/WD~cleaning,12773274]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~agricultural_tool,3629395]]"
-  - "[[_Standards/WikiData/WD~outdoors,_garden_and_lawn_item,115922801]]"
-different_from: "[[_Standards/WikiData/WD~Grabie,5590621]]"
+  - '[[_Standards/WikiData/WD~agricultural_tool,3629395]]'
+  - '[[_Standards/WikiData/WD~outdoors,_garden_and_lawn_item,115922801]]'
+different_from: '[[_Standards/WikiData/WD~Grabie,5590621]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~wood,287]]"
-  - "[[_Standards/WikiData/WD~steel,11427]]"
-  - "[[_Standards/WikiData/WD~plastic,11474]]"
-Nomenclature_for_Museum_Cataloging: "3406"
+  - '[[_Standards/WikiData/WD~wood,287]]'
+  - '[[_Standards/WikiData/WD~steel,11427]]'
+  - '[[_Standards/WikiData/WD~plastic,11474]]'
+Nomenclature_for_Museum_Cataloging: 3406
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rake.jpg
-GS1_GPC_code: "10003399"
+GS1_GPC_code: 10003399
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Rechenmacher.webm
 Iconclass_notation: 47I15(RAKE)
 Commons_category: Hand rakes

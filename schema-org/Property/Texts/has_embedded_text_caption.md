@@ -4,23 +4,25 @@ aliases:
   - embedded_text_caption
   - embeddedTextCaption
   - has_text_of_embedded_text_caption
+  - has_embedded_text_caption
+  - has embedded text caption
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - embedded
   - text
   - caption
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_embedded_text_caption
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

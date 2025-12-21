@@ -4,21 +4,22 @@ aliases:
   - address_billing
   - billingAddress
   - has_location_address_billing
+  - has location address billing
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - address_billing
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_address_billing
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

@@ -4,21 +4,23 @@ aliases:
   - parking_map
   - ParkingMap
   - is_a_parking_map
+  - Parking_Map
+  - Parking Map
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MapCategoryType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - parking_map
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_parking_map Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

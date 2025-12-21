@@ -3,12 +3,13 @@ aliases:
   - is spoken-by-character
   - spokenByCharacter
   - is_spoken_by_character
+  - is spoken by character
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - spoken
   - by
   - character
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_spoken_by_character
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

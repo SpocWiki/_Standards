@@ -2,21 +2,22 @@
 aliases:
   - has_aircraft
   - with_aircraft
+  - has aircraft
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - aircraft
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_aircraft
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

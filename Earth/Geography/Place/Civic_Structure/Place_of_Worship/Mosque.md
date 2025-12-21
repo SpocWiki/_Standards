@@ -9,16 +9,16 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - mosque
-layout:
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_mosque Class
 publish: true
-publishDate:
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
@@ -48,8 +48,8 @@ topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_mosque,13420133]]
 topic_s_main_category: "[[_Standards/WikiData/WD~Q32413069,32413069]]"
 activity_policy_in_this_place: "[[_Standards/WikiData/WD~please_take_off_your_shoes,66361369]]"
 religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
-Nomenclature_for_Museum_Cataloging: "591"
-OmegaWiki_Defined_Meaning: "6563"
+Nomenclature_for_Museum_Cataloging: 591
+OmegaWiki_Defined_Meaning: 6563
 IMDb_keyword: mosque
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem-2013%282%29-Aerial-Temple%20Mount-%28south%20exposure%29.jpg
 Commons_category: Mosques
@@ -61,7 +61,7 @@ equivalent_class:
 exact_match:
   - http://wordnet-rdf.princeton.edu/wn30/03788195-n
   - http://wordnet-rdf.princeton.edu/wn31/103746689-n
-UNSPSC_Code: "30223003"
+UNSPSC_Code: 30223003
 Wolfram_Language_entity_code: Entity["Word", "mosque"]
 IPTC_NewsCode: mediatopic/20000699
 GeoNames_feature_code: S.MSQE
@@ -73,7 +73,7 @@ image_of_entrance: http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Pe
 OpenStreetMap_tag: building=mosque
 ---
 
-# [[Mosque]] 
+# [[Mosque]] 🕌 
 
 Class of all mosques.
 

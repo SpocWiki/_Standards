@@ -4,21 +4,22 @@ aliases:
   - closes
   - closes
   - is_closing_at
+  - is closing at
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - closes
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_closing_at
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

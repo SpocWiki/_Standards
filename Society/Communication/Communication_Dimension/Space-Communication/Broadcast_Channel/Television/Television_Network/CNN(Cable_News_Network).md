@@ -2,6 +2,8 @@
 aliases:
   - Cable News Network
   - CNN
+  - CNN(Cable_News_Network)
+  - CNN(Cable News Network)
 has_id_wikidata: Q48340
 Telegram_username: CnnBrk
 X_Twitter_username:
@@ -17,46 +19,46 @@ motto_text:
   - Go There
   - More People Get Their News from CNN From Any Other Source
 founded_by:
-  - "[[_Standards/WikiData/WD~Ted_Turner,193368]]"
-  - "[[_Standards/WikiData/WD~Reese_Schonfeld,7307004]]"
+  - '[[_Standards/WikiData/WD~Ted_Turner,193368]]'
+  - '[[_Standards/WikiData/WD~Reese_Schonfeld,7307004]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Four_Freedoms_Award,284381]]"
-  - "[[_Standards/WikiData/WD~George_Polk_Award,845188]]"
-  - "[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Communications_and_Humanities,3323451]]"
-  - "[[_Standards/WikiData/WD~News_and_Documentary_Emmy_Awards,11247971]]"
-  - "[[_Standards/WikiData/WD~Four_Freedoms_Award_Freedom_of_Speech,20204984]]"
-  - "[[_Standards/WikiData/WD~Golden_Nymph_for_Best_24_Hour_News_Program,23011201]]"
-  - "[[_Standards/WikiData/WD~Walter_Cronkite_Award_for_Excellence_in_Journalism,28405617]]"
+  - '[[_Standards/WikiData/WD~Four_Freedoms_Award,284381]]'
+  - '[[_Standards/WikiData/WD~George_Polk_Award,845188]]'
+  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Communications_and_Humanities,3323451]]'
+  - '[[_Standards/WikiData/WD~News_and_Documentary_Emmy_Awards,11247971]]'
+  - '[[_Standards/WikiData/WD~Four_Freedoms_Award_Freedom_of_Speech,20204984]]'
+  - '[[_Standards/WikiData/WD~Golden_Nymph_for_Best_24_Hour_News_Program,23011201]]'
+  - '[[_Standards/WikiData/WD~Walter_Cronkite_Award_for_Excellence_in_Journalism,28405617]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~specialty_channel,561068]]"
-  - "[[_Standards/WikiData/WD~film_production_company,1762059]]"
-  - "[[_Standards/WikiData/WD~United_States_cable_news,7892363]]"
-  - "[[_Standards/WikiData/WD~news_website,17232649]]"
+  - '[[_Standards/WikiData/WD~specialty_channel,561068]]'
+  - '[[_Standards/WikiData/WD~film_production_company,1762059]]'
+  - '[[_Standards/WikiData/WD~United_States_cable_news,7892363]]'
+  - '[[_Standards/WikiData/WD~news_website,17232649]]'
 headquarters_location:
-  - "[[_Standards/WikiData/WD~CNN_Center,2798738]]"
-  - "[[_Standards/WikiData/WD~New_York_City,60]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_CNN,5775476]]"
+  - '[[_Standards/WikiData/WD~CNN_Center,2798738]]'
+  - '[[_Standards/WikiData/WD~New_York_City,60]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_CNN,5775476]]'
 has_list:
-  - "[[_Standards/WikiData/WD~list_of_CNN_anchors,6565424]]"
-  - "[[_Standards/WikiData/WD~list_of_programs_broadcast_by_CNN,19863410]]"
-operator: "[[_Standards/WikiData/WD~Turner_Broadcasting_System,7855903]]"
-owner_of: "[[_Standards/WikiData/WD~CNN.com,12217473]]"
-child_organization_unit: "[[_Standards/WikiData/WD~CNN_Films,15994987]]"
-parent_organization: "[[_Standards/WikiData/WD~Warner_Bros._Discovery,107074885]]"
-owned_by: "[[_Standards/WikiData/WD~Warner_Bros._Discovery,107074885]]"
-language_used: "[[_Standards/WikiData/WD~English,1860]]"
+  - '[[_Standards/WikiData/WD~list_of_CNN_anchors,6565424]]'
+  - '[[_Standards/WikiData/WD~list_of_programs_broadcast_by_CNN,19863410]]'
+operator: '[[_Standards/WikiData/WD~Turner_Broadcasting_System,7855903]]'
+owner_of: '[[_Standards/WikiData/WD~CNN.com,12217473]]'
+child_organization_unit: '[[_Standards/WikiData/WD~CNN_Films,15994987]]'
+parent_organization: '[[_Standards/WikiData/WD~Warner_Bros._Discovery,107074885]]'
+owned_by: '[[_Standards/WikiData/WD~Warner_Bros._Discovery,107074885]]'
+language_used: '[[_Standards/WikiData/WD~English,1860]]'
 Wikidata_property: CNN contributor ID
-industry: "[[_Standards/WikiData/WD~journalism,11030]]"
-operating_area: "[[_Standards/WikiData/WD~Canada,16]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_publication: "[[_Standards/WikiData/WD~New_York_City,60]]"
+industry: '[[_Standards/WikiData/WD~journalism,11030]]'
+operating_area: '[[_Standards/WikiData/WD~Canada,16]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_publication: '[[_Standards/WikiData/WD~New_York_City,60]]'
 social_media_followers: 17700000
-product_or_material_produced: "[[_Standards/WikiData/WD~news,38926]]"
+product_or_material_produced: '[[_Standards/WikiData/WD~news,38926]]'
 YouTube_handle: CNN
 Commons_category: CNN
 ISNI:
-  - "0000000404112974"
-  - "0000000406321120"
+  - 0000000404112974
+  - 0000000406321120
 IMDb_keyword: cnn
 Threads_username: cnn
 TikTok_username: cnn
@@ -66,12 +68,12 @@ subreddit: cnn
 Facebook_username: cnn
 Instagram_username: cnn
 Bluesky_handle: cnn.com
-OmegaWiki_Defined_Meaning: "1655816"
+OmegaWiki_Defined_Meaning: 1655816
 inception: 1980-06-01T00:00:00Z
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/CNN%20International%20logo.svg
 official_website: https://cnn.com
 official_shop_URL: https://cnn.mybrightsites.com/
-P8189: "987007259337005171"
+P8189: 987007259337005171
 ---
 
 # [[CNN(Cable_News_Network)]] 

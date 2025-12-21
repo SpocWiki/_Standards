@@ -1,51 +1,53 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PostalAddress
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint
 fields:
-- id: hyqHrT
-  name: AddressCountry
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place/AdministrativeArea/Country')"
-  type: MultiFile
-  path: ''
-- id: gkF1FO
-  name: AddressLocality
-  options: {}
-  type: Input
-  path: ''
-- id: rExNp8
-  name: AddressRegion
-  options: {}
-  type: Input
-  path: ''
-- id: iXY7g6
-  name: PostOfficeBoxNumber
-  options: {}
-  type: Input
-  path: ''
-- id: 23Yq8h
-  name: PostalCode
-  options: {}
-  type: Input
-  path: ''
-- id: 8SHqMe
-  name: StreetAddress
-  options: {}
-  type: Input
-  path: ''
+  - id: hyqHrT
+    name: AddressCountry
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
+    type: MultiFile
+    path: ''
+  - id: gkF1FO
+    name: AddressLocality
+    options: {}
+    type: Input
+    path: ''
+  - id: rExNp8
+    name: AddressRegion
+    options: {}
+    type: Input
+    path: ''
+  - id: iXY7g6
+    name: PostOfficeBoxNumber
+    options: {}
+    type: Input
+    path: ''
+  - id: 23Yq8h
+    name: PostalCode
+    options: {}
+    type: Input
+    path: ''
+  - id: 8SHqMe
+    name: StreetAddress
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PostalAddress
-- class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress
-- is_a_/PostalAddress
-- schema-org/PostalAddress
+  - class/PostalAddress
+  - class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress
+  - is_a_/PostalAddress
+  - schema-org/PostalAddress
 tags:
-- class/FileClass
-- class/PostalAddress
-- is_a_/PostalAddress
-- class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress
+  - class/FileClass
+  - class/PostalAddress
+  - is_a_/PostalAddress
+  - class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress
 version: 2.0
 ---
 

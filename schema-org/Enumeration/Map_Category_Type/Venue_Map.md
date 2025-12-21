@@ -4,21 +4,23 @@ aliases:
   - venue_map
   - VenueMap
   - is_a_venue_map
+  - Venue_Map
+  - Venue Map
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MapCategoryType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - venue_map
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_venue_map Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

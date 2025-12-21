@@ -1,6 +1,7 @@
 ---
 aliases:
   - Harfe
+  - Harp
 has_id_wikidata: Q47369
 subclass_of:
   - "[[_Standards/WikiData/WD~plucked_string_instrument,230262]]"
@@ -26,11 +27,11 @@ part_of:
   - "[[_Standards/WikiData/WD~MIMO's_classification_of_musical_instrument,26836418]]"
   - "[[_Standards/WikiData/WD~Guizzi's_classification_of_musical_instruments,53424891]]"
 award_received: "[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]"
-Hornbostel_Sachs_classification: "322"
-Nomenclature_for_Museum_Cataloging: "10801"
-OmegaWiki_Defined_Meaning: "7259"
+Hornbostel_Sachs_classification: 322
+Nomenclature_for_Museum_Cataloging: 10801
+OmegaWiki_Defined_Meaning: 7259
 subreddit: harp
-Amazon_com_browse_node: "11971461"
+Amazon_com_browse_node: 11971461
 Commons_gallery: Harp
 official_name:
   - Arpe
@@ -47,7 +48,7 @@ Commons_category: Harps
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/ARFA.html
 ---
 
-# [[Harp]] 
+# [[Harp]] 🪉 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Harp,47369|WD~Harp,47369]] 
 

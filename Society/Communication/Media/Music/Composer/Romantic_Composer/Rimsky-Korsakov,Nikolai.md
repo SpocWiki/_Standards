@@ -4,89 +4,90 @@ aliases:
   - Nikolai Andreyevich Rimsky-Korsakov
   - Nikolai Rimsky-Korsakov
   - Rimsky-Korsakov
+  - Rimsky-Korsakov,Nikolai
 has_id_wikidata: Q93227
 occupation:
-  - "[[_Standards/WikiData/WD~conductor,158852]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~librettist,8178443]]"
-  - "[[_Standards/WikiData/WD~musicologist,14915627]]"
-  - "[[_Standards/WikiData/WD~music_theorist,16031530]]"
-  - "[[_Standards/WikiData/WD~music_educator,16145150]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-  - "[[_Standards/WikiData/WD~military_personnel,47064]]"
+  - '[[_Standards/WikiData/WD~conductor,158852]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~librettist,8178443]]'
+  - '[[_Standards/WikiData/WD~musicologist,14915627]]'
+  - '[[_Standards/WikiData/WD~music_theorist,16031530]]'
+  - '[[_Standards/WikiData/WD~music_educator,16145150]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
+  - '[[_Standards/WikiData/WD~military_personnel,47064]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Scheherazade,171405]]"
-  - "[[_Standards/WikiData/WD~The_Golden_Cockerel,579026]]"
-  - "[[_Standards/WikiData/WD~Symphony_No._1,25591]]"
-employer: "[[_Standards/WikiData/WD~Saint_Petersburg_Conservatory,178416]]"
-student_of: "[[_Standards/WikiData/WD~Mily_Balakirev,185040]]"
-is_member_of: "[[_Standards/WikiData/WD~The_Five,190390]]"
+  - '[[_Standards/WikiData/WD~Scheherazade,171405]]'
+  - '[[_Standards/WikiData/WD~The_Golden_Cockerel,579026]]'
+  - '[[_Standards/WikiData/WD~Symphony_No._1,25591]]'
+employer: '[[_Standards/WikiData/WD~Saint_Petersburg_Conservatory,178416]]'
+student_of: '[[_Standards/WikiData/WD~Mily_Balakirev,185040]]'
+is_member_of: '[[_Standards/WikiData/WD~The_Five,190390]]'
 student:
-  - "[[_Standards/WikiData/WD~Ottorino_Respighi,243837]]"
-  - "[[_Standards/WikiData/WD~Anton_Arensky,313970]]"
-  - "[[_Standards/WikiData/WD~Mart_Saar,345156]]"
-  - "[[_Standards/WikiData/WD~Alexander_Gretchaninov,508270]]"
-  - "[[_Standards/WikiData/WD~Meliton_Balanchivadze,1237722]]"
-  - "[[_Standards/WikiData/WD~Fedir_Yakymenko,2000816]]"
-  - "[[_Standards/WikiData/WD~Yuliya_Veysberg,4106036]]"
-  - "[[_Standards/WikiData/WD~Mikhail_Klimov,4223738]]"
-  - "[[_Standards/WikiData/WD~Adelaide_von_Skilondz,4681829]]"
-  - "[[_Standards/WikiData/WD~Ivane_Paliashvili,9370916]]"
-  - "[[_Standards/WikiData/WD~Nikolai_Amani,16533745]]"
-  - "[[_Standards/WikiData/WD~Petr_Petrovich_Evstafʹev,34739941]]"
-  - "[[_Standards/WikiData/WD~Igor_Stravinsky,7314]]"
-  - "[[_Standards/WikiData/WD~Alexander_Glazunov,25872]]"
+  - '[[_Standards/WikiData/WD~Ottorino_Respighi,243837]]'
+  - '[[_Standards/WikiData/WD~Anton_Arensky,313970]]'
+  - '[[_Standards/WikiData/WD~Mart_Saar,345156]]'
+  - '[[_Standards/WikiData/WD~Alexander_Gretchaninov,508270]]'
+  - '[[_Standards/WikiData/WD~Meliton_Balanchivadze,1237722]]'
+  - '[[_Standards/WikiData/WD~Fedir_Yakymenko,2000816]]'
+  - '[[_Standards/WikiData/WD~Yuliya_Veysberg,4106036]]'
+  - '[[_Standards/WikiData/WD~Mikhail_Klimov,4223738]]'
+  - '[[_Standards/WikiData/WD~Adelaide_von_Skilondz,4681829]]'
+  - '[[_Standards/WikiData/WD~Ivane_Paliashvili,9370916]]'
+  - '[[_Standards/WikiData/WD~Nikolai_Amani,16533745]]'
+  - '[[_Standards/WikiData/WD~Petr_Petrovich_Evstafʹev,34739941]]'
+  - '[[_Standards/WikiData/WD~Igor_Stravinsky,7314]]'
+  - '[[_Standards/WikiData/WD~Alexander_Glazunov,25872]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-copyright_representative: "[[_Standards/WikiData/WD~SACEM,1806936]]"
-list_of_works: "[[_Standards/WikiData/WD~list_of_compositions_by_Nikolai_Rimsky_Korsakov,2059966]]"
-place_of_burial: "[[_Standards/WikiData/WD~Tikhvin_Cemetery,2272835]]"
-educated_at: "[[_Standards/WikiData/WD~Naval_Cadet_Corps,2379681]]"
+  - '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+copyright_representative: '[[_Standards/WikiData/WD~SACEM,1806936]]'
+list_of_works: '[[_Standards/WikiData/WD~list_of_compositions_by_Nikolai_Rimsky_Korsakov,2059966]]'
+place_of_burial: '[[_Standards/WikiData/WD~Tikhvin_Cemetery,2272835]]'
+educated_at: '[[_Standards/WikiData/WD~Naval_Cadet_Corps,2379681]]'
 child:
-  - "[[_Standards/WikiData/WD~Andrey_Rimsky_Korsakov,2680950]]"
-  - "[[_Standards/WikiData/WD~Mikhail_Rimsky_Korsakov,4394686]]"
-  - "[[_Standards/WikiData/WD~Vladimir_Rimsky_Korsakov,52559473]]"
-  - "[[_Standards/WikiData/WD~Q124808633,124808633]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-place_of_death: "[[_Standards/WikiData/WD~Lyubensk,3835698]]"
-spouse: "[[_Standards/WikiData/WD~Nadezhda_Rimskaya_Korsakova,4394673]]"
-family: "[[_Standards/WikiData/WD~House_of_Rimsky_Korsakov,4394677]]"
-sibling: "[[_Standards/WikiData/WD~Voin_Rimsky_Korsakov,4394687]]"
-given_name: "[[_Standards/WikiData/WD~Nikolay,5486169]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Andrey_Rimsky_Korsakov,2680950]]'
+  - '[[_Standards/WikiData/WD~Mikhail_Rimsky_Korsakov,4394686]]'
+  - '[[_Standards/WikiData/WD~Vladimir_Rimsky_Korsakov,52559473]]'
+  - '[[_Standards/WikiData/WD~Q124808633,124808633]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+place_of_death: '[[_Standards/WikiData/WD~Lyubensk,3835698]]'
+spouse: '[[_Standards/WikiData/WD~Nadezhda_Rimskaya_Korsakova,4394673]]'
+family: '[[_Standards/WikiData/WD~House_of_Rimsky_Korsakov,4394677]]'
+sibling: '[[_Standards/WikiData/WD~Voin_Rimsky_Korsakov,4394687]]'
+given_name: '[[_Standards/WikiData/WD~Nikolay,5486169]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Nikołaj_Rimski_Korsakow,11792205]]"
-  - "[[_Standards/WikiData/WD~Konstantin_Korsakov,135552596]]"
-relative: "[[_Standards/WikiData/WD~Irina_Golovkina,15065436]]"
-father: "[[_Standards/WikiData/WD~Andrey_Petrovich_Rimskiy_Korsakov,16692125]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Nikolai_Rimsky_Korsakov,20349684]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-family_name: "[[_Standards/WikiData/WD~Rimsky_Korsakov,95742932]]"
-mother: "[[_Standards/WikiData/WD~Sofia_Vasilievna_Skaryatina,111804918]]"
+  - '[[_Standards/WikiData/WD~Nikołaj_Rimski_Korsakow,11792205]]'
+  - '[[_Standards/WikiData/WD~Konstantin_Korsakov,135552596]]'
+relative: '[[_Standards/WikiData/WD~Irina_Golovkina,15065436]]'
+father: '[[_Standards/WikiData/WD~Andrey_Petrovich_Rimskiy_Korsakov,16692125]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Nikolai_Rimsky_Korsakov,20349684]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+family_name: '[[_Standards/WikiData/WD~Rimsky_Korsakov,95742932]]'
+mother: '[[_Standards/WikiData/WD~Sofia_Vasilievna_Skaryatina,111804918]]'
 date_of_birth: 1844-03-18T00:00:00Z
 genre:
-  - "[[_Standards/WikiData/WD~opera,1344]]"
-  - "[[_Standards/WikiData/WD~classical_music,9730]]"
-  - "[[_Standards/WikiData/WD~symphony,9734]]"
-instrument: "[[_Standards/WikiData/WD~piano,5994]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Russian,7737]]"
-native_language: "[[_Standards/WikiData/WD~Russian,7737]]"
-cause_of_death: "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
-place_of_birth: "[[_Standards/WikiData/WD~Tikhvin,15336]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~opera,1344]]'
+  - '[[_Standards/WikiData/WD~classical_music,9730]]'
+  - '[[_Standards/WikiData/WD~symphony,9734]]'
+instrument: '[[_Standards/WikiData/WD~piano,5994]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Russian,7737]]'
+native_language: '[[_Standards/WikiData/WD~Russian,7737]]'
+cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
+place_of_birth: '[[_Standards/WikiData/WD~Tikhvin,15336]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 number_of_children: 7
-country_of_citizenship: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+country_of_citizenship: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 Europeana_entity: agent/base/147175
 Libris_URI: khwzv9t32lvhbp8
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/RIMSKI-KORSAKOV_NIKOLA_ANDREEVICH.html
@@ -105,8 +106,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Nikolai%20A.%20Rimsky-
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Rimsky-Korsakov%20Signature.png
 ISNI: 000000012139342X
 IPI_name_number:
-  - "00086323960"
-  - "00086324075"
+  - 00086323960
+  - 00086324075
 ---
 
 # [[Rimsky-Korsakov,Nikolai]] 

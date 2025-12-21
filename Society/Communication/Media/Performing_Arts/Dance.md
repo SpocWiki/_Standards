@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Dance
+  - Dancing
+has_id_wikidata: Q11639
 Colon_Classification: NS
 Commons_gallery: Dance
 Commons_category: Dance
@@ -12,7 +16,7 @@ MeSH_tree_code: I03.450.642.287
 OmegaWiki_Defined_Meaning: 1060654
 PhilPapers_topic: dance
 Provenio_UUID: 2db51e5b-1ab8-4885-8230-7c489e873b29
-P8189: "987007540962405171"
+P8189: 987007540962405100
 UMLS_CUI: C0010963
 Unicode_character:
   - 💃
@@ -20,9 +24,6 @@ Unicode_character:
 U_S_National_Archives_Identifier: 10638328
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_dance,7112602]]"
 Wikidata_property: dance style
-aliases:
-  - Dance
-  - Dancing
 described_by_source:
   - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
   - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -41,7 +42,6 @@ depicted_by:
   - "[[_Standards/WikiData/WD~Dance_around_the_tree,131613615]]"
   - "[[_Standards/WikiData/WD~Dance_of_the_Children_of_Alcinous,131719678]]"
 exact_match: http://cv.iptc.org/newscodes/subjectcode/01006000
-has_id_wikidata: Q11639
 has_part_s_:
   - "[[_Standards/WikiData/WD~choreography,180856]]"
   - "[[_Standards/WikiData/WD~musical_work,2188189]]"
@@ -69,7 +69,7 @@ topic_s_main_template:
 used_by: "[[_Standards/WikiData/WD~dance,25543541]]"
 ---
 
-# [[Dance]] 
+# [[Dance]] 💃 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Dance,11639|WD~Dance,11639]] 
 

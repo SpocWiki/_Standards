@@ -4,21 +4,22 @@ aliases:
   - cvd-num-icu-beds
   - cvdNumICUBeds
   - has_number_of_Covid_icu_beds
+  - has number of Covid icu beds
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - cvd-num-icu-beds
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_cvd-num-icu-beds
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

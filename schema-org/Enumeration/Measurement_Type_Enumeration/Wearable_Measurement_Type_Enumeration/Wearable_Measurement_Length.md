@@ -4,21 +4,23 @@ aliases:
   - wearable_measurement_length
   - WearableMeasurementLength
   - is_a_wearable_measurement_length
+  - Wearable_Measurement_Length
+  - Wearable Measurement Length
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableMeasurementTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_measurement_length
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_measurement_length Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,12 +1,13 @@
 ---
 aliases:
   - Great Limpopo Transfrontier Park
+  - Great_Limpopo_Transfrontier_Park
 has_id_wikidata: Q604422
-instance_of: "[[_Standards/WikiData/WD~transboundary_protected_area,955236]]"
+instance_of: '[[_Standards/WikiData/WD~transboundary_protected_area,955236]]'
 country:
-  - "[[_Standards/WikiData/WD~South_Africa,258]]"
-  - "[[_Standards/WikiData/WD~Zimbabwe,954]]"
-  - "[[_Standards/WikiData/WD~Mozambique,1029]]"
+  - '[[_Standards/WikiData/WD~South_Africa,258]]'
+  - '[[_Standards/WikiData/WD~Zimbabwe,954]]'
+  - '[[_Standards/WikiData/WD~Mozambique,1029]]'
 area: 37572
 coordinate_location: Point(31.36666667 -22.43333333)
 inception: 2002-01-01T00:00:00Z

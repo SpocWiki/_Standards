@@ -1,20 +1,21 @@
 ---
 aliases:
   - Hebel
+  - Lever
 has_id_wikidata: Q40164
-subclass_of: "[[_Standards/WikiData/WD~simple_machine,186713]]"
+subclass_of: '[[_Standards/WikiData/WD~simple_machine,186713]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~beam,3705329]]"
-  - "[[_Standards/WikiData/WD~fulcrum,3754170]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q118233556,118233556]]"
-Nomenclature_for_Museum_Cataloging: "9194"
+  - '[[_Standards/WikiData/WD~beam,3705329]]'
+  - '[[_Standards/WikiData/WD~fulcrum,3754170]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q118233556,118233556]]'
+Nomenclature_for_Museum_Cataloging: 9194
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hefboom.jpg
 Commons_category: Levers
 ---

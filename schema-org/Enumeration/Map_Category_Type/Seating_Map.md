@@ -4,21 +4,23 @@ aliases:
   - seating_map
   - SeatingMap
   - is_a_seating_map
+  - Seating_Map
+  - Seating Map
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MapCategoryType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - seating_map
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_seating_map Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

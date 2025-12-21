@@ -4,20 +4,22 @@ aliases:
   - recycling_center
   - RecyclingCenter
   - is_a_recycling_center
+  - Recycling_Center
+  - Recycling Center
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - recycling_center
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_recycling_center Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

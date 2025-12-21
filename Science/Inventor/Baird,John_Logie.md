@@ -3,6 +3,8 @@ aliases:
   - John_Logie_Baird
   - John Logie Baird
   - Baird
+  - Baird,John_Logie
+  - Baird,John Logie
 has_id_wikidata: Q133544
 ---
 

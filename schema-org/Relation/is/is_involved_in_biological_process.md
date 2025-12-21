@@ -4,20 +4,21 @@ aliases:
   - involved_in_biological_process
   - isInvolvedInBiologicalProcess
   - is_involved_in_biological_process
+  - is involved in biological process
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
-layout:
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_involved_in_biological_process
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

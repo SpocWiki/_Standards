@@ -3,12 +3,13 @@ aliases:
   - has real-estate-agent
   - realEstateAgent
   - has_real_estate_agent
+  - has real estate agent
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - real
   - estate
   - agent
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_real_estate_agent
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

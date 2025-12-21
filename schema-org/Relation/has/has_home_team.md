@@ -3,23 +3,24 @@ aliases:
   - has home-team
   - homeTeam
   - has_home_team
+  - has home team
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - home_team
   - home
   - team
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_home_team
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

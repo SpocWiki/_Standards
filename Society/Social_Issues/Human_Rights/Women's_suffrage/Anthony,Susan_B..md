@@ -1,8 +1,10 @@
 ---
 aliases:
   - Susan_B._Anthony
-  - Susan B. Anthony 
+  - Susan B. Anthony
   - Susan Anthony
+  - Anthony,Susan_B.
+  - Anthony,Susan B.
 has_id_wikidata: Q192245
 ---
 

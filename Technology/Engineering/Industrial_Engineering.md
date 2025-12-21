@@ -1,16 +1,18 @@
 ---
 aliases:
   - Industrial engineering
+  - Industrial_Engineering
+  - Industrial Engineering
 has_id_wikidata: Q4489420
 instance_of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~branch_of_engineering,12015335]]"
-practiced_by: "[[_Standards/WikiData/WD~industrial_engineer,2267418]]"
-subclass_of: "[[_Standards/WikiData/WD~industrial_engineering_and_operations_research,6027873]]"
-place_of_death: "[[_Standards/WikiData/WD~Haifa,41621]]"
+  - '[[_Standards/WikiData/WD~industry,268592]]'
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
+practiced_by: '[[_Standards/WikiData/WD~industrial_engineer,2267418]]'
+subclass_of: '[[_Standards/WikiData/WD~industrial_engineering_and_operations_research,6027873]]'
+place_of_death: '[[_Standards/WikiData/WD~Haifa,41621]]'
 Commons_category: Industrial engineering
-U_S_National_Archives_Identifier: "10637299"
+U_S_National_Archives_Identifier: 10637299
 female_form_of_label: ingeniera industrial
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Conceptual-Model-Based-Systems-Biology-Mapping-Knowledge-andDiscovering-Gaps-in-the-mRNA-pone.0051430.s004.ogv
 Stack_Exchange_tag: https://engineering.stackexchange.com/tags/industrial-engineering

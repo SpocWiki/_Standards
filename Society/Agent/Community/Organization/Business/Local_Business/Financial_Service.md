@@ -4,20 +4,22 @@ aliases:
   - financial_service
   - FinancialService
   - is_a_financial_service
+  - Financial_Service
+  - Financial Service
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - financial_service
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_financial_service Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

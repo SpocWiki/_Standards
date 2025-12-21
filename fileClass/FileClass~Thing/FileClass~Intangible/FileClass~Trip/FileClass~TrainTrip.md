@@ -1,52 +1,54 @@
 ---
-excludes: 
+aliases:
+  - FileClass~TrainTrip
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Trip
 fields:
-- id: mxF5CS
-  name: ArrivalPlatform
-  options: {}
-  type: Input
-  path: ''
-- id: iWu8eU
-  name: ArrivalStation
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place/CivicStructure/TrainStation')"
-  type: MultiFile
-  path: ''
-- id: RNutXy
-  name: DeparturePlatform
-  options: {}
-  type: Input
-  path: ''
-- id: HQSXPF
-  name: DepartureStation
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place/CivicStructure/TrainStation')"
-  type: MultiFile
-  path: ''
-- id: FB96sF
-  name: TrainName
-  options: {}
-  type: Input
-  path: ''
-- id: fPqXjQ
-  name: TrainNumber
-  options: {}
-  type: Input
-  path: ''
+  - id: mxF5CS
+    name: ArrivalPlatform
+    options: {}
+    type: Input
+    path: ''
+  - id: iWu8eU
+    name: ArrivalStation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/TrainStation')
+    type: MultiFile
+    path: ''
+  - id: RNutXy
+    name: DeparturePlatform
+    options: {}
+    type: Input
+    path: ''
+  - id: HQSXPF
+    name: DepartureStation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/TrainStation')
+    type: MultiFile
+    path: ''
+  - id: FB96sF
+    name: TrainName
+    options: {}
+    type: Input
+    path: ''
+  - id: fPqXjQ
+    name: TrainNumber
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/TrainTrip
-- class/Thing/Intangible/Trip/TrainTrip
-- is_a_/TrainTrip
-- schema-org/TrainTrip
+  - class/TrainTrip
+  - class/Thing/Intangible/Trip/TrainTrip
+  - is_a_/TrainTrip
+  - schema-org/TrainTrip
 tags:
-- class/FileClass
-- class/TrainTrip
-- is_a_/TrainTrip
-- class/Thing/Intangible/Trip/TrainTrip
+  - class/FileClass
+  - class/TrainTrip
+  - is_a_/TrainTrip
+  - class/Thing/Intangible/Trip/TrainTrip
 version: 2.0
 ---
 

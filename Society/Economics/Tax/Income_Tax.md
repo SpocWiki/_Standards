@@ -1,17 +1,19 @@
 ---
 aliases:
   - Einkommensteuer
+  - Income_Tax
+  - Income Tax
 has_id_wikidata: Q179222
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-subclass_of: "[[_Standards/WikiData/WD~direct_tax,926871]]"
-criterion_used: "[[_Standards/WikiData/WD~income,123313734]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_tax,130109687]]"
+subclass_of: '[[_Standards/WikiData/WD~direct_tax,926871]]'
+criterion_used: '[[_Standards/WikiData/WD~income,123313734]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_tax,130109687]]'
 Wikidata_property: individual tax rate
-OmegaWiki_Defined_Meaning: "4954"
-U_S_National_Archives_Identifier: "10638966"
+OmegaWiki_Defined_Meaning: 4954
+U_S_National_Archives_Identifier: 10638966
 UMLS_CUI: C0021164
 MeSH_tree_code: N03.219.900.250
 Commons_category: Personal income taxes

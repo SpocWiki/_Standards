@@ -2,9 +2,11 @@
 aliases:
   - elliptical galaxy
   - elliptische Galaxie
+  - Elliptical_Galaxy
+  - Elliptical Galaxy
 has_id_wikidata: Q184348
-follows: "[[_Standards/WikiData/WD~lenticular_galaxy,192078]]"
-subclass_of: "[[_Standards/WikiData/WD~galaxy,318]]"
+follows: '[[_Standards/WikiData/WD~lenticular_galaxy,192078]]'
+subclass_of: '[[_Standards/WikiData/WD~galaxy,318]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Abell%20S740%2C%20cropped%20to%20ESO%20325-G004.jpg
 Commons_category: Elliptical galaxies
 ---

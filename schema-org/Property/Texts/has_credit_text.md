@@ -4,22 +4,24 @@ aliases:
   - credit_text
   - creditText
   - has_text_of_credit_text
+  - has_credit_text
+  - has credit text
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - credit
   - text
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_credit_text
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

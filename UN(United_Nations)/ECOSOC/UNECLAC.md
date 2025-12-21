@@ -1,7 +1,8 @@
 ---
 aliases:
-- ECLAC
-- CEPAL
+  - ECLAC
+  - CEPAL
+  - UNECLAC
 ---
 
 # [[UNECLAC]] 

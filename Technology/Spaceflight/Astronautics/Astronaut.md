@@ -74,7 +74,7 @@ field_of_this_occupation:
   - "[[_Standards/WikiData/WD~astronautics,22719]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bruce%20McCandless%20II%20during%20EVA%20in%201984.jpg
 Commons_category: Astronauts
-OmegaWiki_Defined_Meaning: "407888"
+OmegaWiki_Defined_Meaning: 407888
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Astronaut%20Astronaut1.stl
 equivalent_class: http://dbpedia.org/ontology/Astronaut
 Unicode_character:
@@ -90,14 +90,14 @@ Unicode_character:
   - 👩🏽🚀
   - 👩🏾🚀
   - 👩🏿🚀
-U_S_National_Archives_Identifier: "10637145"
+U_S_National_Archives_Identifier: 10637145
 Iconclass_notation: 46C43
-P8189: "987007295081105171"
+P8189: 987007295081105200
 IMDb_keyword: astronaut
 UMLS_CUI: C0242688
 ---
 
-# [[Astronaut]] 
+# [[Astronaut]] 👩🏻🚀 
 
 #is_/same_as :: [[../../../WikiData/WD~Astronaut,11631|WD~Astronaut,11631]] 
 

@@ -1,22 +1,24 @@
 ---
 aliases:
   - nuclear weapon
+  - Nuclear_Weapon
+  - Nuclear Weapon
 has_id_wikidata: Q12802
-uses: "[[_Standards/WikiData/WD~nuclear_reaction,238323]]"
+uses: '[[_Standards/WikiData/WD~nuclear_reaction,238323]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~nuclear_technology,348091]]"
-  - "[[_Standards/WikiData/WD~explosive_device,3054261]]"
-  - "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_nuclear_weapons,2371844]]"
-has_effect: "[[_Standards/WikiData/WD~nuclear_explosion,2656967]]"
+  - '[[_Standards/WikiData/WD~nuclear_technology,348091]]'
+  - '[[_Standards/WikiData/WD~explosive_device,3054261]]'
+  - '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_nuclear_weapons,2371844]]'
+has_effect: '[[_Standards/WikiData/WD~nuclear_explosion,2656967]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~nuclear_explosive,3733190]]"
-  - "[[_Standards/WikiData/WD~weapon_of_mass_destruction,49394]]"
+  - '[[_Standards/WikiData/WD~nuclear_explosive,3733190]]'
+  - '[[_Standards/WikiData/WD~weapon_of_mass_destruction,49394]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nagasakibomb.jpg
-U_S_National_Archives_Identifier: "10642999"
+U_S_National_Archives_Identifier: 10642999
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Nagasaki%201945%20-%20Before%20and%20after%20%28adjusted%29.jpg
 Commons_gallery: Nuclear weapons
 Commons_category: Nuclear weapons

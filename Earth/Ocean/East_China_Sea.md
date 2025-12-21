@@ -1,51 +1,52 @@
 ---
 aliases:
   - East China Sea
+  - East_China_Sea
 has_id_wikidata: Q45341
 location:
   - 30
   - 125
 coordinate_location: Point(125.0 30.0)
-instance_of: "[[_Standards/WikiData/WD~marginal_sea,204894]]"
+instance_of: '[[_Standards/WikiData/WD~marginal_sea,204894]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Q35541239,35541239]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Q35541239,35541239]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 inflows:
-  - "[[_Standards/WikiData/WD~Ou_River,713020]]"
-  - "[[_Standards/WikiData/WD~Min_River,976458]]"
-  - "[[_Standards/WikiData/WD~Jiao_River,1770054]]"
-  - "[[_Standards/WikiData/WD~Sendai_River,3478526]]"
-  - "[[_Standards/WikiData/WD~Asato_River,4521491]]"
-  - "[[_Standards/WikiData/WD~Urauchi_River,4521517]]"
-  - "[[_Standards/WikiData/WD~Genka_River,4521581]]"
-  - "[[_Standards/WikiData/WD~Kokuba_River,4521609]]"
-  - "[[_Standards/WikiData/WD~Hija_River,4521724]]"
-  - "[[_Standards/WikiData/WD~Manose_River,11353751]]"
-  - "[[_Standards/WikiData/WD~Jisso_River,11405103]]"
-  - "[[_Standards/WikiData/WD~Oigawa_River,11432150]]"
-  - "[[_Standards/WikiData/WD~Futenma_River,11514564]]"
-  - "[[_Standards/WikiData/WD~Tabaru_River,11576251]]"
-  - "[[_Standards/WikiData/WD~Q11638072,11638072]]"
-  - "[[_Standards/WikiData/WD~Yangtze,5413]]"
+  - '[[_Standards/WikiData/WD~Ou_River,713020]]'
+  - '[[_Standards/WikiData/WD~Min_River,976458]]'
+  - '[[_Standards/WikiData/WD~Jiao_River,1770054]]'
+  - '[[_Standards/WikiData/WD~Sendai_River,3478526]]'
+  - '[[_Standards/WikiData/WD~Asato_River,4521491]]'
+  - '[[_Standards/WikiData/WD~Urauchi_River,4521517]]'
+  - '[[_Standards/WikiData/WD~Genka_River,4521581]]'
+  - '[[_Standards/WikiData/WD~Kokuba_River,4521609]]'
+  - '[[_Standards/WikiData/WD~Hija_River,4521724]]'
+  - '[[_Standards/WikiData/WD~Manose_River,11353751]]'
+  - '[[_Standards/WikiData/WD~Jisso_River,11405103]]'
+  - '[[_Standards/WikiData/WD~Oigawa_River,11432150]]'
+  - '[[_Standards/WikiData/WD~Futenma_River,11514564]]'
+  - '[[_Standards/WikiData/WD~Tabaru_River,11576251]]'
+  - '[[_Standards/WikiData/WD~Q11638072,11638072]]'
+  - '[[_Standards/WikiData/WD~Yangtze,5413]]'
 basin_country:
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~South_Korea,884]]"
-  - "[[_Standards/WikiData/WD~Japan,17]]"
+  - '[[_Standards/WikiData/WD~Taiwan,865]]'
+  - '[[_Standards/WikiData/WD~South_Korea,884]]'
+  - '[[_Standards/WikiData/WD~Japan,17]]'
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 country:
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~South_Korea,884]]"
-  - "[[_Standards/WikiData/WD~Japan,17]]"
+  - '[[_Standards/WikiData/WD~Taiwan,865]]'
+  - '[[_Standards/WikiData/WD~South_Korea,884]]'
+  - '[[_Standards/WikiData/WD~Japan,17]]'
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 connects_with:
-  - "[[_Standards/WikiData/WD~Sea_of_Japan,27092]]"
-  - "[[_Standards/WikiData/WD~South_China_Sea,37660]]"
-  - "[[_Standards/WikiData/WD~Yellow_Sea,37960]]"
-part_of: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+  - '[[_Standards/WikiData/WD~Sea_of_Japan,27092]]'
+  - '[[_Standards/WikiData/WD~South_China_Sea,37660]]'
+  - '[[_Standards/WikiData/WD~Yellow_Sea,37960]]'
+part_of: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
 area: 1249000
 vertical_depth: 2719
-OmegaWiki_Defined_Meaning: "877087"
+OmegaWiki_Defined_Meaning: 877087
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/East%20China%20Sea%20in%20its%20region.svg
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/East%20China%20Sea%20map%20with%20topography%20border.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mar%20de%20China%20Oriental%20-%20BM%20WMS%202004.jpg

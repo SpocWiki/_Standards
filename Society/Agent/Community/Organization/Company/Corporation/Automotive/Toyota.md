@@ -3,6 +3,7 @@ aliases:
   - Toyota Motor Corporation
   - トヨタ自動車株式会社
   - Toyota Jidōsha kabushikigaisha
+  - Toyota
 has_id_wikidata: Q53268
 X_Twitter_username:
   - toyota_europe
@@ -261,82 +262,82 @@ Facebook_username:
   - malawitoyota
   - MarkaziaToyotaJo
 stock_exchange:
-  - "[[_Standards/WikiData/WD~London_Stock_Exchange,171240]]"
-  - "[[_Standards/WikiData/WD~Tokyo_Stock_Exchange,217475]]"
-  - "[[_Standards/WikiData/WD~Nagoya_Stock_Exchange,1188840]]"
-  - "[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]"
+  - '[[_Standards/WikiData/WD~London_Stock_Exchange,171240]]'
+  - '[[_Standards/WikiData/WD~Tokyo_Stock_Exchange,217475]]'
+  - '[[_Standards/WikiData/WD~Nagoya_Stock_Exchange,1188840]]'
+  - '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Denso,176508]]"
-  - "[[_Standards/WikiData/WD~Aisin_Seiki,409907]]"
-  - "[[_Standards/WikiData/WD~Toyota_Tsusho,716457]]"
-  - "[[_Standards/WikiData/WD~KDDI,971946]]"
-  - "[[_Standards/WikiData/WD~Toyota_Industries,1476105]]"
-  - "[[_Standards/WikiData/WD~Tokai_Rika,4981353]]"
-  - "[[_Standards/WikiData/WD~Aisan_Industry,11493434]]"
-  - "[[_Standards/WikiData/WD~Toyoda_Gosei,11634006]]"
-  - "[[_Standards/WikiData/WD~Seiren,13417155]]"
-industry: "[[_Standards/WikiData/WD~automotive_industry,190117]]"
-different_from: "[[_Standards/WikiData/WD~Toyota,201117]]"
-headquarters_location: "[[_Standards/WikiData/WD~Toyota,201117]]"
-named_after: "[[_Standards/WikiData/WD~Kiichirō_Toyoda,358556]]"
-founded_by: "[[_Standards/WikiData/WD~Kiichirō_Toyoda,358556]]"
-chairperson: "[[_Standards/WikiData/WD~Akio_Toyoda,418622]]"
+  - '[[_Standards/WikiData/WD~Denso,176508]]'
+  - '[[_Standards/WikiData/WD~Aisin_Seiki,409907]]'
+  - '[[_Standards/WikiData/WD~Toyota_Tsusho,716457]]'
+  - '[[_Standards/WikiData/WD~KDDI,971946]]'
+  - '[[_Standards/WikiData/WD~Toyota_Industries,1476105]]'
+  - '[[_Standards/WikiData/WD~Tokai_Rika,4981353]]'
+  - '[[_Standards/WikiData/WD~Aisan_Industry,11493434]]'
+  - '[[_Standards/WikiData/WD~Toyoda_Gosei,11634006]]'
+  - '[[_Standards/WikiData/WD~Seiren,13417155]]'
+industry: '[[_Standards/WikiData/WD~automotive_industry,190117]]'
+different_from: '[[_Standards/WikiData/WD~Toyota,201117]]'
+headquarters_location: '[[_Standards/WikiData/WD~Toyota,201117]]'
+named_after: '[[_Standards/WikiData/WD~Kiichirō_Toyoda,358556]]'
+founded_by: '[[_Standards/WikiData/WD~Kiichirō_Toyoda,358556]]'
+chairperson: '[[_Standards/WikiData/WD~Akio_Toyoda,418622]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~brand,431289]]"
-  - "[[_Standards/WikiData/WD~automobile_manufacturer,786820]]"
-  - "[[_Standards/WikiData/WD~public_company,891723]]"
-  - "[[_Standards/WikiData/WD~car_brand,10429667]]"
-  - "[[_Standards/WikiData/WD~commercial_organization,21980538]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
-owned_by: "[[_Standards/WikiData/WD~Nippon_Life_Insurance_Company,519611]]"
-part_of: "[[_Standards/WikiData/WD~Dow_Jones_Global_Titans_50,773026]]"
+  - '[[_Standards/WikiData/WD~brand,431289]]'
+  - '[[_Standards/WikiData/WD~automobile_manufacturer,786820]]'
+  - '[[_Standards/WikiData/WD~public_company,891723]]'
+  - '[[_Standards/WikiData/WD~car_brand,10429667]]'
+  - '[[_Standards/WikiData/WD~commercial_organization,21980538]]'
+  - '[[_Standards/WikiData/WD~organization,43229]]'
+owned_by: '[[_Standards/WikiData/WD~Nippon_Life_Insurance_Company,519611]]'
+part_of: '[[_Standards/WikiData/WD~Dow_Jones_Global_Titans_50,773026]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Linux_Foundation,858851]]"
-  - "[[_Standards/WikiData/WD~Wi_Fi_Alliance,1361045]]"
+  - '[[_Standards/WikiData/WD~Linux_Foundation,858851]]'
+  - '[[_Standards/WikiData/WD~Wi_Fi_Alliance,1361045]]'
 child_organization_or_unit:
-  - "[[_Standards/WikiData/WD~Hino_Motors,867667]]"
-  - "[[_Standards/WikiData/WD~Toyota_Financial_Services,1129062]]"
-  - "[[_Standards/WikiData/WD~Toyota_Motor_Manufacturing_Canada,1464318]]"
-  - "[[_Standards/WikiData/WD~Toyota_Motor_Manufacturing_Kentucky,1684281]]"
-  - "[[_Standards/WikiData/WD~Toyota_Australia,2447054]]"
-  - "[[_Standards/WikiData/WD~Toyota_Motor_Manufacturing,2447176]]"
-  - "[[_Standards/WikiData/WD~Toyota_Motor_Manufacturing_France,2447191]]"
-  - "[[_Standards/WikiData/WD~Kuozui_Motors,6133919]]"
-  - "[[_Standards/WikiData/WD~Toyota_Canada_Inc.,7830764]]"
-  - "[[_Standards/WikiData/WD~Toyota_Kirloskar_Motor_Private_Limited,7830808]]"
-  - "[[_Standards/WikiData/WD~Toyota_Motor_Engineering_&_Manufacturing_North_America,7830824]]"
-  - "[[_Standards/WikiData/WD~Toyota_Motor_Europe,7830825]]"
-  - "[[_Standards/WikiData/WD~Toyota_Motor_Manufacturing_Indiana,7830834]]"
-  - "[[_Standards/WikiData/WD~Toyota_Motor_Manufacturing_Texas,7830832]]"
-  - "[[_Standards/WikiData/WD~Toyota_Motor_Manufacturing_Mississippi,7830833]]"
-  - "[[_Standards/WikiData/WD~Toyota_Motor_Sales,_U.S.A.,_Inc.,7830838]]"
-  - "[[_Standards/WikiData/WD~Toyota_Motor_Manufacturing_West_Virginia,7830836]]"
-  - "[[_Standards/WikiData/WD~Toyota_Motor_North_America,7830837]]"
-  - "[[_Standards/WikiData/WD~Toyota_Housing,11321573]]"
-  - "[[_Standards/WikiData/WD~Toyota_Motor_Kyushu,11321676]]"
-  - "[[_Standards/WikiData/WD~Toyota_Motor_East_Japan,11321683]]"
-  - "[[_Standards/WikiData/WD~Toyota_Auto_Body,11321695]]"
-  - "[[_Standards/WikiData/WD~Toyota_UK,17056197]]"
-  - "[[_Standards/WikiData/WD~Toyota_Motor_Thailand,17056215]]"
-  - "[[_Standards/WikiData/WD~Toyota_Research_Institute,24874330]]"
-  - "[[_Standards/WikiData/WD~Toyota_Alvark_Tokyo,131802011]]"
-  - "[[_Standards/WikiData/WD~Daihatsu,27511]]"
-legal_form: "[[_Standards/WikiData/WD~kabushiki_gaisha,1480166]]"
-chief_executive_officer: "[[_Standards/WikiData/WD~Kōji_Seto,2271234]]"
+  - '[[_Standards/WikiData/WD~Hino_Motors,867667]]'
+  - '[[_Standards/WikiData/WD~Toyota_Financial_Services,1129062]]'
+  - '[[_Standards/WikiData/WD~Toyota_Motor_Manufacturing_Canada,1464318]]'
+  - '[[_Standards/WikiData/WD~Toyota_Motor_Manufacturing_Kentucky,1684281]]'
+  - '[[_Standards/WikiData/WD~Toyota_Australia,2447054]]'
+  - '[[_Standards/WikiData/WD~Toyota_Motor_Manufacturing,2447176]]'
+  - '[[_Standards/WikiData/WD~Toyota_Motor_Manufacturing_France,2447191]]'
+  - '[[_Standards/WikiData/WD~Kuozui_Motors,6133919]]'
+  - '[[_Standards/WikiData/WD~Toyota_Canada_Inc.,7830764]]'
+  - '[[_Standards/WikiData/WD~Toyota_Kirloskar_Motor_Private_Limited,7830808]]'
+  - '[[_Standards/WikiData/WD~Toyota_Motor_Engineering_&_Manufacturing_North_America,7830824]]'
+  - '[[_Standards/WikiData/WD~Toyota_Motor_Europe,7830825]]'
+  - '[[_Standards/WikiData/WD~Toyota_Motor_Manufacturing_Indiana,7830834]]'
+  - '[[_Standards/WikiData/WD~Toyota_Motor_Manufacturing_Texas,7830832]]'
+  - '[[_Standards/WikiData/WD~Toyota_Motor_Manufacturing_Mississippi,7830833]]'
+  - '[[_Standards/WikiData/WD~Toyota_Motor_Sales,_U.S.A.,_Inc.,7830838]]'
+  - '[[_Standards/WikiData/WD~Toyota_Motor_Manufacturing_West_Virginia,7830836]]'
+  - '[[_Standards/WikiData/WD~Toyota_Motor_North_America,7830837]]'
+  - '[[_Standards/WikiData/WD~Toyota_Housing,11321573]]'
+  - '[[_Standards/WikiData/WD~Toyota_Motor_Kyushu,11321676]]'
+  - '[[_Standards/WikiData/WD~Toyota_Motor_East_Japan,11321683]]'
+  - '[[_Standards/WikiData/WD~Toyota_Auto_Body,11321695]]'
+  - '[[_Standards/WikiData/WD~Toyota_UK,17056197]]'
+  - '[[_Standards/WikiData/WD~Toyota_Motor_Thailand,17056215]]'
+  - '[[_Standards/WikiData/WD~Toyota_Research_Institute,24874330]]'
+  - '[[_Standards/WikiData/WD~Toyota_Alvark_Tokyo,131802011]]'
+  - '[[_Standards/WikiData/WD~Daihatsu,27511]]'
+legal_form: '[[_Standards/WikiData/WD~kabushiki_gaisha,1480166]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Kōji_Seto,2271234]]'
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~light_commercial_vehicle,2666883]]"
-  - "[[_Standards/WikiData/WD~car,1420]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Toyota_Motor_Corporation,7150585]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-partnership_with: "[[_Standards/WikiData/WD~IONNA,124528707]]"
-country: "[[_Standards/WikiData/WD~Japan,17]]"
-organizational_divisions: "[[_Standards/WikiData/WD~Lexus,35919]]"
+  - '[[_Standards/WikiData/WD~light_commercial_vehicle,2666883]]'
+  - '[[_Standards/WikiData/WD~car,1420]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Toyota_Motor_Corporation,7150585]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+partnership_with: '[[_Standards/WikiData/WD~IONNA,124528707]]'
+country: '[[_Standards/WikiData/WD~Japan,17]]'
+organizational_divisions: '[[_Standards/WikiData/WD~Lexus,35919]]'
 net_profit: 45060000000
 operating_income: 48770000000
 total_equity: 321090000000
 total_revenue: 410890000000
 total_assets: 821090000000
-Private_Enterprise_Number: "46790"
+Private_Enterprise_Number: 46790
 social_media_followers: 225544
 market_capitalization: 249042000000
 accessibility_statement_URL: https://www.toyota.com/support/accessibility/
@@ -383,10 +384,10 @@ location_information_URL:
   - https://www.toyotayemen.com/en/branch/
   - https://www.toyotazambia.co.zm/dealer-finder/
 official_website: https://global.toyota
-ISNI: "0000000091751993"
-Central_Index_Key: "0001094517"
-Corporate_Number_Japan_: "1180301018771"
-PermID: "4295876746"
+ISNI: 0000000091751993
+Central_Index_Key: 0001094517
+Corporate_Number_Japan_: 1180301018771
+PermID: 4295876746
 Legal_Entity_Identifier: 5493006W3QUS5LMH6R84
 ISIN:
   - ARDEUT112083

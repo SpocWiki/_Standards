@@ -6,25 +6,26 @@ aliases:
   - المحيط الهندي الإقليم البريطاني في
   - 英属印度洋领土
   - Британская территория в Индийском океане
-  - 
+  - ''
+  - British_Indian_Ocean_Territory
 confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
+keywords: ''
 Languages:
   - en-IO
-layout:
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 location:
   - -6.19
   - 71.35
 publish: true
-publishDate:
+publishDate: ''
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26926
 tags:

@@ -1,22 +1,24 @@
 ---
 aliases:
   - Spanish American Wars of Independence
+  - 1808-Spanish_American_Wars_of_Independence+1835
+  - 1808-Spanish American Wars of Independence+1835
 has_id_wikidata: Q1123201
 participant:
-  - "[[_Standards/WikiData/WD~Spanish_Empire,80702]]"
-  - "[[_Standards/WikiData/WD~Gran_Colombia,199821]]"
-  - "[[_Standards/WikiData/WD~First_Mexican_Empire,285658]]"
-  - "[[_Standards/WikiData/WD~United_Provinces_of_the_Río_de_la_Plata,738144]]"
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-locations: "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
-part_of: "[[_Standards/WikiData/WD~Atlantic_Revolutions,3108868]]"
-order_of_battle: "[[_Standards/WikiData/WD~Spanish_expeditionary_army_(Spanish_American_independence)_order_of_battle,7573367]]"
+  - '[[_Standards/WikiData/WD~Spanish_Empire,80702]]'
+  - '[[_Standards/WikiData/WD~Gran_Colombia,199821]]'
+  - '[[_Standards/WikiData/WD~First_Mexican_Empire,285658]]'
+  - '[[_Standards/WikiData/WD~United_Provinces_of_the_Río_de_la_Plata,738144]]'
+  - '[[_Standards/WikiData/WD~Chile,298]]'
+  - '[[_Standards/WikiData/WD~Peru,419]]'
+  - '[[_Standards/WikiData/WD~Bolivia,750]]'
+locations: '[[_Standards/WikiData/WD~Hispanic_America,653884]]'
+part_of: '[[_Standards/WikiData/WD~Atlantic_Revolutions,3108868]]'
+order_of_battle: '[[_Standards/WikiData/WD~Spanish_expeditionary_army_(Spanish_American_independence)_order_of_battle,7573367]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~series_of_wars,104212151]]"
-  - "[[_Standards/WikiData/WD~civil_war,8465]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+  - '[[_Standards/WikiData/WD~series_of_wars,104212151]]'
+  - '[[_Standards/WikiData/WD~civil_war,8465]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 end_time: 1833-09-29T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Independencia.gif
 Commons_category: Spanish American wars of independence

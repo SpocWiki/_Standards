@@ -1,35 +1,36 @@
 ---
 aliases:
   - general Logarithm
+  - Logarithm
 has_id_wikidata: Q11197
-approximation_algorithm: "[[_Standards/WikiData/WD~CORDIC,116076]]"
+approximation_algorithm: '[[_Standards/WikiData/WD~CORDIC,116076]]'
 Commons_category: Logarithm
 Commons_gallery: Logarithm
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1__Fundamental_Algorithms,_3rd_edition,47755251]]"
-  - "[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units___Part_2__Mathematics,109490582]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~John_Napier,159592]]"
+  - '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1__Fundamental_Algorithms,_3rd_edition,47755251]]'
+  - '[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units___Part_2__Mathematics,109490582]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~John_Napier,159592]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mplwp%20log2e10.svg
-instance_of: "[[_Standards/WikiData/WD~type_of_mathematical_function,47279819]]"
+instance_of: '[[_Standards/WikiData/WD~type_of_mathematical_function,47279819]]'
 Krugosvet_article: nauka_i_tehnika/matematika/LOGARIFM.html
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 OmegaWiki_Defined_Meaning: 1443315
-opposite_of: "[[_Standards/WikiData/WD~exponential_function,168698]]"
+opposite_of: '[[_Standards/WikiData/WD~exponential_function,168698]]'
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20approximation%20of%20natural%20logarithm.gif
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Logaritmo.ogg
 Stack_Exchange_tag: https://stackoverflow.com/tags/logarithm
 subclass_of:
-  - "[[_Standards/WikiData/WD~binary_operation,164307]]"
-  - "[[_Standards/WikiData/WD~multivalued_function,629085]]"
-  - "[[_Standards/WikiData/WD~transcendental_function,864333]]"
+  - '[[_Standards/WikiData/WD~binary_operation,164307]]'
+  - '[[_Standards/WikiData/WD~multivalued_function,629085]]'
+  - '[[_Standards/WikiData/WD~transcendental_function,864333]]'
 subreddit: Logarithms
 ---
 

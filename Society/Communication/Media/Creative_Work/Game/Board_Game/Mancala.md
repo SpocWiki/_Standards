@@ -2,9 +2,10 @@
 aliases:
   - منقلة
   - manqalah
+  - Mancala
 has_id_wikidata: Q267989
-subclass_of: "[[_Standards/WikiData/WD~board_game,131436]]"
-Nomenclature_for_Museum_Cataloging: "14223"
+subclass_of: '[[_Standards/WikiData/WD~board_game,131436]]'
+Nomenclature_for_Museum_Cataloging: 14223
 Commons_gallery: Mancala
 Commons_category: Mancala
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bao%20europe.jpg

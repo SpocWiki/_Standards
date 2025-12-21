@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Guam
+  - غوام
+  - 关岛
+  - Гуам
+has_id_wikidata: Q16635
 location:
   - 13.4792
   - 144.75
@@ -15,22 +21,16 @@ cssclasses:
   - Country
 publish: true
 title: Guam
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Guam
-  - غوام
-  - 关岛
-  - Гуам
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-GU
   - ch-GU
 icon: flag-gu
-has_id_wikidata: Q16635
 flag: "[[_Standards/WikiData/WD~flag_of_Guam,235829]]"
 different_from: "[[_Standards/WikiData/WD~GUAM_Organization_for_Democracy_and_Economic_Development,326816]]"
 instance_of:
@@ -143,7 +143,7 @@ electrical_plug_type:
   - "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~village_of_Guam,96857311]]"
 archives_at: "[[_Standards/WikiData/WD~Office_of_Vital_Statistics,106712467]]"
-inception: "1898"
+inception: 1898
 has_time_started: 1898-06
 Instagram_username: visitguam_jp
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/GuamMap.png

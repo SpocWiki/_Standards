@@ -4,21 +4,23 @@ aliases:
   - patient_experience_health_aspect
   - PatientExperienceHealthAspect
   - is_a_patient_experience_health_aspect
+  - Patient_Experience_Health_Aspect
+  - Patient Experience Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - patient_experience_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_patient_experience_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

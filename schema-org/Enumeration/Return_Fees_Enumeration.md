@@ -4,20 +4,22 @@ aliases:
   - return_fees_enumeration
   - ReturnFeesEnumeration
   - is_a_return_fees_enumeration
+  - Return_Fees_Enumeration
+  - Return Fees Enumeration
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - return_fees_enumeration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_return_fees_enumeration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

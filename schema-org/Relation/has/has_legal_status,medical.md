@@ -3,23 +3,25 @@ aliases:
   - has legal-status
   - legalStatus
   - has_legal_status
+  - has_legal_status,medical
+  - has legal status,medical
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - legal_status
   - legal
   - status
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_legal_status
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

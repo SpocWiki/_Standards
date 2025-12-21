@@ -1,6 +1,7 @@
 ---
 aliases:
   - fief
+  - Fiefdom
 ---
 
 # [[Fiefdom]] 

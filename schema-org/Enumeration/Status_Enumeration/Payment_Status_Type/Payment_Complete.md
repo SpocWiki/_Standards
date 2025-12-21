@@ -4,21 +4,23 @@ aliases:
   - payment_complete
   - PaymentComplete
   - is_a_payment_complete
+  - Payment_Complete
+  - Payment Complete
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: PaymentStatusType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - payment_complete
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_payment_complete Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

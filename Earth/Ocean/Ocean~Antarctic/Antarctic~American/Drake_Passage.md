@@ -1,19 +1,20 @@
 ---
 aliases:
   - Drake Passage
+  - Drake_Passage
 has_id_wikidata: Q143650
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Antártica_Chilena_Province,201086]]"
-  - "[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062]]"
-  - "[[_Standards/WikiData/WD~Tierra_del_Fuego,_Antarctica_and_South_Atlantic_Islands_Province,44832]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - '[[_Standards/WikiData/WD~Antártica_Chilena_Province,201086]]'
+  - '[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062]]'
+  - '[[_Standards/WikiData/WD~Tierra_del_Fuego,_Antarctica_and_South_Atlantic_Islands_Province,44832]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 country:
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-part_of: "[[_Standards/WikiData/WD~Southern_Ocean,7354]]"
+  - '[[_Standards/WikiData/WD~Chile,298]]'
+  - '[[_Standards/WikiData/WD~Argentina,414]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Ocean,7354]]'
 vertical_depth: 4000
-named_after: "[[_Standards/WikiData/WD~Francis_Drake,36517]]"
-instance_of: "[[_Standards/WikiData/WD~strait,37901]]"
+named_after: '[[_Standards/WikiData/WD~Francis_Drake,36517]]'
+instance_of: '[[_Standards/WikiData/WD~strait,37901]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/00%201470%20Iceberg%20-%20Drake%20Passage.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/119%201920%20Drake%20Passage%20%28Kap%20Hoorn%20-%20Antarktis%29.jpg

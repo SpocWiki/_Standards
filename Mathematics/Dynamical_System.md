@@ -1,22 +1,24 @@
 ---
 aliases:
   - dynamical system
+  - Dynamical_System
+  - Dynamical System
 has_id_wikidata: Q638328
 subclass_of:
-  - "[[_Standards/WikiData/WD~mathematical_model,486902]]"
-  - "[[_Standards/WikiData/WD~conceptual_system,3622126]]"
+  - '[[_Standards/WikiData/WD~mathematical_model,486902]]'
+  - '[[_Standards/WikiData/WD~conceptual_system,3622126]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~dependency,1191527]]"
-  - "[[_Standards/WikiData/WD~structural_stability,1648886]]"
-  - "[[_Standards/WikiData/WD~initial_condition,18351510]]"
-  - "[[_Standards/WikiData/WD~state_of_dynamical_system,37102792]]"
+  - '[[_Standards/WikiData/WD~dependency,1191527]]'
+  - '[[_Standards/WikiData/WD~structural_stability,1648886]]'
+  - '[[_Standards/WikiData/WD~initial_condition,18351510]]'
+  - '[[_Standards/WikiData/WD~state_of_dynamical_system,37102792]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~dynamical_systems_theory,3174497]]"
-  - "[[_Standards/WikiData/WD~control_theory,6501221]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_system,96116695]]"
-has_part_s_: "[[_Standards/WikiData/WD~phase_space,62542]]"
+  - '[[_Standards/WikiData/WD~dynamical_systems_theory,3174497]]'
+  - '[[_Standards/WikiData/WD~control_theory,6501221]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_system,96116695]]'
+has_part_s_: '[[_Standards/WikiData/WD~phase_space,62542]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lorenz%20attractor%20yb.svg
 Commons_category: Dynamical systems
 Commons_gallery: Dynamical system

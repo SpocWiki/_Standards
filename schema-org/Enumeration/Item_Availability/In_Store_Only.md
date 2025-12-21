@@ -4,21 +4,23 @@ aliases:
   - in_store_only
   - InStoreOnly
   - is_in_store_only
+  - In_Store_Only
+  - In Store Only
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: ItemAvailability
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - in_store_only
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_in_store_only Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

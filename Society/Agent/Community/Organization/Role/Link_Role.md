@@ -4,20 +4,22 @@ aliases:
   - link_role
   - LinkRole
   - is_a_link_role
+  - Link_Role
+  - Link Role
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - link_role
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_link_role Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

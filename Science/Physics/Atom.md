@@ -1,44 +1,46 @@
 ---
+aliases:
+  - Atom
+has_id_wikidata: Q9121
 Commons_category: Atoms
 Commons_gallery: Atom
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
   - "[[_Standards/WikiData/WD~Integrated_Encyclopedia_of_the_Qur'an,108940883]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Dewey_Decimal_Classification: 539.7
-different_from: "[[_Standards/WikiData/WD~Paramanu,124606669]]"
+different_from: '[[_Standards/WikiData/WD~Paramanu,124606669]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~mass_number,101395]]"
-  - "[[_Standards/WikiData/WD~atomic_radius,483788]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
-  - "[[_Standards/WikiData/WD~atomic_number,23809]]"
-  - "[[_Standards/WikiData/WD~electron_configuration,53859]]"
-has_id_wikidata: Q9121
+  - '[[_Standards/WikiData/WD~mass_number,101395]]'
+  - '[[_Standards/WikiData/WD~atomic_radius,483788]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - '[[_Standards/WikiData/WD~atomic_number,23809]]'
+  - '[[_Standards/WikiData/WD~electron_configuration,53859]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~subatomic_particle,177013]]"
-  - "[[_Standards/WikiData/WD~electron_shell,193793]]"
-  - "[[_Standards/WikiData/WD~atomic_nucleus,37147]]"
+  - '[[_Standards/WikiData/WD~subatomic_particle,177013]]'
+  - '[[_Standards/WikiData/WD~electron_shell,193793]]'
+  - '[[_Standards/WikiData/WD~atomic_nucleus,37147]]'
 IEV_number: 113-05-20
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Helium%20atom%20QM.svg
 Krugosvet_article: nauka_i_tehnika/himiya/ATOM.html
 OmegaWiki_Defined_Meaning: 8141
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q119437940,119437940]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q119437940,119437940]]'
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-atomo.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3%E0%A7%81.wav
 properties_for_this_type: electron configuration
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Atoom-article.ogg
 studied_in:
-  - "[[_Standards/WikiData/WD~chemistry,2329]]"
-  - "[[_Standards/WikiData/WD~atomic_physics,26383]]"
+  - '[[_Standards/WikiData/WD~chemistry,2329]]'
+  - '[[_Standards/WikiData/WD~atomic_physics,26383]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~composite_particle,3366856]]"
-  - "[[_Standards/WikiData/WD~chemical_entity,43460564]]"
+  - '[[_Standards/WikiData/WD~composite_particle,3366856]]'
+  - '[[_Standards/WikiData/WD~chemical_entity,43460564]]'
 UMLS_CUI: C0567415
 Unicode_character: ⚛
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Atomic%20orbitals%20and%20periodic%20table%20construction.ogv

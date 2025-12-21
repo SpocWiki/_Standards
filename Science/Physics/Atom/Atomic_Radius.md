@@ -1,27 +1,16 @@
 ---
+aliases:
+  - Atomic_Radius
+  - Atomic Radius
 has_id_wikidata: Q483788
 subclass_of:
-  - "[[_Standards/WikiData/WD~radius,173817]]"
-  - "[[_Standards/WikiData/WD~physical_property,4373292]]"
-  - "[[_Standards/WikiData/WD~approximation,27058]]"
-instance_of: "[[_Standards/WikiData/WD~chemical_formalism,17540792]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[_Standards/WikiData/WD~radius,173817]]'
+  - '[[_Standards/WikiData/WD~physical_property,4373292]]'
+  - '[[_Standards/WikiData/WD~approximation,27058]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_formalism,17540792]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atomic%20size%20periodic%20table.svg
-ISQ_dimension: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\mathsf {L}}}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <mrow class="MJX-TeXAtom-ORD">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="sans-serif">L</mi>
-            </mrow>
-          </mrow>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle {\mathsf {L}}}</annotation>
-    </semantics>
-  </math>
+ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {L}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi mathvariant=\"sans-serif\">L</mi>\n          </mrow>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {L}}}</annotation>\n  </semantics>\n</math>"
 ---
 
 # [[Atomic_Radius]]  

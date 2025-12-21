@@ -4,20 +4,22 @@ aliases:
   - government_building
   - GovernmentBuilding
   - is_a_government_building
+  - Government_Building
+  - Government Building
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - government_building
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_government_building Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

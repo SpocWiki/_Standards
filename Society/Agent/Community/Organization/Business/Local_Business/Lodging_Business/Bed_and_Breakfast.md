@@ -4,20 +4,22 @@ aliases:
   - bed_and_breakfast
   - BedAndBreakfast
   - is_a_bed_and_breakfast
+  - Bed_and_Breakfast
+  - Bed and Breakfast
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - bed_and_breakfast
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_bed_and_breakfast Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

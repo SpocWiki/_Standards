@@ -1,6 +1,8 @@
 ---
 aliases:
   - Cultural anthropology
+  - Cultural_Anthropology
+  - Cultural Anthropology
 has_id_wikidata: Q28598
 ---
 

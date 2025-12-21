@@ -3,20 +3,21 @@ aliases:
   - is-accessory-or-spare-part-for
   - isAccessoryOrSparePartFor
   - is_accessory_or_spare_part_for
+  - is accessory or spare part for
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
-layout:
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_accessory_or_spare_part_for
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - accessory_or_spare_part_for
   - class/Relation

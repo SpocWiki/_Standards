@@ -3,123 +3,125 @@ aliases:
   - Morse
   - Samuel Morse
   - Samuel_Finley_Breese_Morse
+  - Morse,Samuel_Finley_Breese
+  - Morse,Samuel Finley Breese
 has_id_wikidata: Q75698
 employer:
-  - "[[_Standards/WikiData/WD~New_York_University_Tandon_School_of_Engineering,75478]]"
-  - "[[_Standards/WikiData/WD~New_York_University,49210]]"
-notable_work: "[[_Standards/WikiData/WD~Morse_code,79897]]"
+  - '[[_Standards/WikiData/WD~New_York_University_Tandon_School_of_Engineering,75478]]'
+  - '[[_Standards/WikiData/WD~New_York_University,49210]]'
+notable_work: '[[_Standards/WikiData/WD~Morse_code,79897]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]"
-  - "[[_Standards/WikiData/WD~Walters_Art_Museum,210081]]"
-  - "[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]"
-  - "[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]"
-  - "[[_Standards/WikiData/WD~Brooklyn_Museum,632682]]"
-  - "[[_Standards/WikiData/WD~Corcoran_Gallery_of_Art,768446]]"
-  - "[[_Standards/WikiData/WD~Fogg_Museum,809600]]"
-  - "[[_Standards/WikiData/WD~Worcester_Art_Museum,847508]]"
-  - "[[_Standards/WikiData/WD~New_York_Historical,1059456]]"
-  - "[[_Standards/WikiData/WD~Indianapolis_Museum_of_Art,1117704]]"
-  - "[[_Standards/WikiData/WD~Crystal_Bridges_Museum_of_American_Art,1142334]]"
-  - "[[_Standards/WikiData/WD~Smithsonian_American_Art_Museum,1192305]]"
-  - "[[_Standards/WikiData/WD~Fine_Arts_Museums_of_San_Francisco,1416890]]"
-  - "[[_Standards/WikiData/WD~Museum_of_Fine_Arts,_Houston,1565911]]"
-  - "[[_Standards/WikiData/WD~Yale_University_Art_Gallery,1568434]]"
-  - "[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]"
-  - "[[_Standards/WikiData/WD~Toledo_Museum_of_Art,1743116]]"
-  - "[[_Standards/WikiData/WD~Saint_Louis_Art_Museum,1760539]]"
-  - "[[_Standards/WikiData/WD~National_Museum_of_Fine_Arts,1848918]]"
-  - "[[_Standards/WikiData/WD~Pennsylvania_Academy_of_the_Fine_Arts,1952033]]"
-  - "[[_Standards/WikiData/WD~National_Portrait_Gallery,1967614]]"
-  - "[[_Standards/WikiData/WD~The_Nelson_Atkins_Museum_of_Art,1976985]]"
-  - "[[_Standards/WikiData/WD~Princeton_University_Art_Museum,2603905]]"
-  - "[[_Standards/WikiData/WD~Cincinnati_Art_Museum,2970522]]"
-  - "[[_Standards/WikiData/WD~Harvard_Art_Museums,3783572]]"
-  - "[[_Standards/WikiData/WD~Virginia_Museum_of_Fine_Arts,4013975]]"
-  - "[[_Standards/WikiData/WD~Georgia_Museum_of_Art,5547611]]"
-  - "[[_Standards/WikiData/WD~New_Britain_Museum_of_American_Art,7005718]]"
-  - "[[_Standards/WikiData/WD~Gibbes_Museum_of_Art,15221656]]"
-  - "[[_Standards/WikiData/WD~Museum_of_Fine_Arts_Boston,49133]]"
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]'
+  - '[[_Standards/WikiData/WD~Walters_Art_Museum,210081]]'
+  - '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
+  - '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
+  - '[[_Standards/WikiData/WD~Brooklyn_Museum,632682]]'
+  - '[[_Standards/WikiData/WD~Corcoran_Gallery_of_Art,768446]]'
+  - '[[_Standards/WikiData/WD~Fogg_Museum,809600]]'
+  - '[[_Standards/WikiData/WD~Worcester_Art_Museum,847508]]'
+  - '[[_Standards/WikiData/WD~New_York_Historical,1059456]]'
+  - '[[_Standards/WikiData/WD~Indianapolis_Museum_of_Art,1117704]]'
+  - '[[_Standards/WikiData/WD~Crystal_Bridges_Museum_of_American_Art,1142334]]'
+  - '[[_Standards/WikiData/WD~Smithsonian_American_Art_Museum,1192305]]'
+  - '[[_Standards/WikiData/WD~Fine_Arts_Museums_of_San_Francisco,1416890]]'
+  - '[[_Standards/WikiData/WD~Museum_of_Fine_Arts,_Houston,1565911]]'
+  - '[[_Standards/WikiData/WD~Yale_University_Art_Gallery,1568434]]'
+  - '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
+  - '[[_Standards/WikiData/WD~Toledo_Museum_of_Art,1743116]]'
+  - '[[_Standards/WikiData/WD~Saint_Louis_Art_Museum,1760539]]'
+  - '[[_Standards/WikiData/WD~National_Museum_of_Fine_Arts,1848918]]'
+  - '[[_Standards/WikiData/WD~Pennsylvania_Academy_of_the_Fine_Arts,1952033]]'
+  - '[[_Standards/WikiData/WD~National_Portrait_Gallery,1967614]]'
+  - '[[_Standards/WikiData/WD~The_Nelson_Atkins_Museum_of_Art,1976985]]'
+  - '[[_Standards/WikiData/WD~Princeton_University_Art_Museum,2603905]]'
+  - '[[_Standards/WikiData/WD~Cincinnati_Art_Museum,2970522]]'
+  - '[[_Standards/WikiData/WD~Harvard_Art_Museums,3783572]]'
+  - '[[_Standards/WikiData/WD~Virginia_Museum_of_Fine_Arts,4013975]]'
+  - '[[_Standards/WikiData/WD~Georgia_Museum_of_Art,5547611]]'
+  - '[[_Standards/WikiData/WD~New_Britain_Museum_of_American_Art,7005718]]'
+  - '[[_Standards/WikiData/WD~Gibbes_Museum_of_Art,15221656]]'
+  - '[[_Standards/WikiData/WD~Museum_of_Fine_Arts_Boston,49133]]'
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~inventor,205375]]"
-  - "[[_Standards/WikiData/WD~painter,1028181]]"
-  - "[[_Standards/WikiData/WD~sculptor,1281618]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~photographer,33231]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - '[[_Standards/WikiData/WD~physicist,169470]]'
+  - '[[_Standards/WikiData/WD~inventor,205375]]'
+  - '[[_Standards/WikiData/WD~painter,1028181]]'
+  - '[[_Standards/WikiData/WD~sculptor,1281618]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~photographer,33231]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
 genre:
-  - "[[_Standards/WikiData/WD~landscape_painting,191163]]"
-  - "[[_Standards/WikiData/WD~history_painting,742333]]"
-  - "[[_Standards/WikiData/WD~portrait_painting,1400853]]"
+  - '[[_Standards/WikiData/WD~landscape_painting,191163]]'
+  - '[[_Standards/WikiData/WD~history_painting,742333]]'
+  - '[[_Standards/WikiData/WD~portrait_painting,1400853]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]"
-  - "[[_Standards/WikiData/WD~Phi_Beta_Kappa_Society,1938003]]"
-  - "[[_Standards/WikiData/WD~American_Antiquarian_Society,4742987]]"
-place_of_burial: "[[_Standards/WikiData/WD~Green_Wood_Cemetery,239043]]"
+  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+  - '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+  - '[[_Standards/WikiData/WD~Phi_Beta_Kappa_Society,1938003]]'
+  - '[[_Standards/WikiData/WD~American_Antiquarian_Society,4742987]]'
+place_of_burial: '[[_Standards/WikiData/WD~Green_Wood_Cemetery,239043]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Royal_Academy_of_Arts,270920]]"
-  - "[[_Standards/WikiData/WD~Yale_College,2599077]]"
+  - '[[_Standards/WikiData/WD~Royal_Academy_of_Arts,270920]]'
+  - '[[_Standards/WikiData/WD~Yale_College,2599077]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-given_name: "[[_Standards/WikiData/WD~Samuel,629347]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+given_name: '[[_Standards/WikiData/WD~Samuel,629347]]'
 award_received:
-  - "[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
-  - "[[_Standards/WikiData/WD~Commander_of_the_Order_of_Isabella_the_Catholic,17366245]]"
-  - "[[_Standards/WikiData/WD~knight_of_the_Order_of_Saints_Maurice_and_Lazarus,20080471]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Officer_of_the_Order_of_the_Dannebrog,28100916]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Tower_and_Sword,66660952]]"
-father: "[[_Standards/WikiData/WD~Jedidiah_Morse,1686158]]"
-place_of_birth: "[[_Standards/WikiData/WD~Charlestown,1756813]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+  - '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
+  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Isabella_the_Catholic,17366245]]'
+  - '[[_Standards/WikiData/WD~knight_of_the_Order_of_Saints_Maurice_and_Lazarus,20080471]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Officer_of_the_Order_of_the_Dannebrog,28100916]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+  - '[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Tower_and_Sword,66660952]]'
+father: '[[_Standards/WikiData/WD~Jedidiah_Morse,1686158]]'
+place_of_birth: '[[_Standards/WikiData/WD~Charlestown,1756813]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 artist_files_at:
-  - "[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]"
-  - "[[_Standards/WikiData/WD~National_Gallery_of_Art_Library,64579481]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-political_ideology: "[[_Standards/WikiData/WD~proslavery,7250661]]"
+  - '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
+  - '[[_Standards/WikiData/WD~National_Gallery_of_Art_Library,64579481]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+political_ideology: '[[_Standards/WikiData/WD~proslavery,7250661]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Sidney_Edwards_Morse,7509038]]"
-  - "[[_Standards/WikiData/WD~Richard_Cary_Morse,66364522]]"
-family_name: "[[_Standards/WikiData/WD~Morse,13571164]]"
+  - '[[_Standards/WikiData/WD~Sidney_Edwards_Morse,7509038]]'
+  - '[[_Standards/WikiData/WD~Richard_Cary_Morse,66364522]]'
+family_name: '[[_Standards/WikiData/WD~Morse,13571164]]'
 child:
-  - "[[_Standards/WikiData/WD~Leila_Morse,45183437]]"
-  - "[[_Standards/WikiData/WD~Samuel_Arthur_Breese_Morse,_Jr.,120835973]]"
-  - "[[_Standards/WikiData/WD~Charles_Walker_Morse,120835978]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+  - '[[_Standards/WikiData/WD~Leila_Morse,45183437]]'
+  - '[[_Standards/WikiData/WD~Samuel_Arthur_Breese_Morse,_Jr.,120835973]]'
+  - '[[_Standards/WikiData/WD~Charles_Walker_Morse,120835978]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~Stuart_A._Rose_Manuscript,_Archives,_and_Rare_Book_Library,72941560]]"
-  - "[[_Standards/WikiData/WD~Library_of_Congress_Manuscript_Division,106477161]]"
-mother: "[[_Standards/WikiData/WD~Elizabeth_Breese_Morse,87476946]]"
-spouse: "[[_Standards/WikiData/WD~Sarah_Elizabeth_Griswold,97070531]]"
+  - '[[_Standards/WikiData/WD~Stuart_A._Rose_Manuscript,_Archives,_and_Rare_Book_Library,72941560]]'
+  - '[[_Standards/WikiData/WD~Library_of_Congress_Manuscript_Division,106477161]]'
+mother: '[[_Standards/WikiData/WD~Elizabeth_Breese_Morse,87476946]]'
+spouse: '[[_Standards/WikiData/WD~Sarah_Elizabeth_Griswold,97070531]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
-  - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
+  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
+  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
 date_of_death: 1872-04-02T00:00:00Z
 work_period_end_: 1871-01-01T00:00:00Z
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_death: "[[_Standards/WikiData/WD~Manhattan,11299]]"
-cause_of_death: "[[_Standards/WikiData/WD~pneumonia,12192]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+place_of_death: '[[_Standards/WikiData/WD~Manhattan,11299]]'
+cause_of_death: '[[_Standards/WikiData/WD~pneumonia,12192]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 work_location:
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~New_York_City,60]]"
-  - "[[_Standards/WikiData/WD~London,84]]"
-  - "[[_Standards/WikiData/WD~Boston,100]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~Charleston,47716]]"
+  - '[[_Standards/WikiData/WD~Italy,38]]'
+  - '[[_Standards/WikiData/WD~New_York_City,60]]'
+  - '[[_Standards/WikiData/WD~London,84]]'
+  - '[[_Standards/WikiData/WD~Boston,100]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+  - '[[_Standards/WikiData/WD~Charleston,47716]]'
 Libris_URI: 1zcgpm9k5hgrgr0
 Europeana_entity: agent/base/146922
 DPLA_subject_term:
@@ -133,7 +135,7 @@ pseudonym:
 Commons_gallery: Samuel Finley Breese Morse
 Commons_category: Samuel Finley Breese Morse
 Commons_Creator_page: Samuel Finley Breese Morse
-U_S_National_Archives_Identifier: "10582241"
+U_S_National_Archives_Identifier: 10582241
 work_period_start_: 1820-01-01T00:00:00Z
 name_in_native_language: Samuel Finley Breese Morse
 date_of_birth: 1791-04-27T00:00:00Z
@@ -147,7 +149,7 @@ described_at_URL:
   - http://www.digiporta.net/index.php?id=756360631
   - http://www.digiporta.net/index.php?id=860927905
   - http://www.digiporta.net/index.php?id=888686417
-ISNI: "0000000080818611"
+ISNI: 0000000080818611
 ---
 
 # [[Morse,Samuel_Finley_Breese]] 

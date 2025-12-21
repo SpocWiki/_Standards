@@ -4,21 +4,23 @@ aliases:
   - narcotic_consideration
   - NarcoticConsideration
   - is_a_narcotic_consideration
+  - Narcotic_Consideration
+  - Narcotic Consideration
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: AdultOrientedEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - narcotic_consideration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_narcotic_consideration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

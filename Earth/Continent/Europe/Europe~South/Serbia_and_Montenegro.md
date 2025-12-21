@@ -1,12 +1,15 @@
 ---
+aliases:
+  - Serbia_and_Montenegro
+  - Serbia and Montenegro
 confidential: public
 isDeleted: false
 location:
-- 44.8167
-- 20.4667
+  - 44.8167
+  - 20.4667
 SpocWebEntityId: 72747
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

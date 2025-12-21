@@ -4,20 +4,22 @@ aliases:
   - status_enumeration
   - StatusEnumeration
   - is_a_status_enumeration
+  - Status_Enumeration
+  - Status Enumeration
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - status_enumeration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_status_enumeration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

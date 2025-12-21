@@ -3,12 +3,13 @@ aliases:
   - has media-authenticity-category
   - mediaAuthenticityCategory
   - has_media_authenticity_category
+  - has media authenticity category
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - media
   - authenticity
   - category
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_media_authenticity_category
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

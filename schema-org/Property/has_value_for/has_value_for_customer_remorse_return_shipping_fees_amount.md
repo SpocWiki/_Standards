@@ -4,21 +4,22 @@ aliases:
   - customer-remorse-return-shipping-fees-amount
   - customerRemorseReturnShippingFeesAmount
   - has_value_for_customer_remorse_return_shipping_fees_amount
+  - has value for customer remorse return shipping fees amount
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - customer-remorse-return-shipping-fees-amount
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_customer-remorse-return-shipping-fees-amount
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

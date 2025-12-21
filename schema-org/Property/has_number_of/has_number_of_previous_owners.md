@@ -4,21 +4,22 @@ aliases:
   - number-of-previous-owners
   - numberOfPreviousOwners
   - has_number_of_previous_owners
+  - has number of previous owners
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - number-of-previous-owners
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_number-of-previous-owners
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

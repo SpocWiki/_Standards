@@ -4,20 +4,22 @@ aliases:
   - performing_arts_theater
   - PerformingArtsTheater
   - is_a_performing_arts_theater
+  - Performing_Arts_Theater
+  - Performing Arts Theater
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - performing_arts_theater
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_performing_arts_theater Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

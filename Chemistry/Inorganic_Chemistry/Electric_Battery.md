@@ -2,6 +2,8 @@
 aliases:
   - Electric battery
   - Battery
+  - Electric_Battery
+  - Electric Battery
 has_id_wikidata: Q267298
 source_of_energy: "[[_Standards/WikiData/WD~redox,82682]]"
 different_from:
@@ -33,25 +35,25 @@ history_of_topic: "[[_Standards/WikiData/WD~history_of_the_battery,3630500]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_battery,10806496]]"
 subreddit: batteries
 instance_of: "[[_Standards/WikiData/WD~type_of_electronic_component,125517960]]"
-ACM_Classification_Code_2012_: "10010664"
-GS1_GPC_code: "10000546"
-U_S_National_Archives_Identifier: "10638068"
+ACM_Classification_Code_2012_: 10010664
+GS1_GPC_code: 10000546
+U_S_National_Archives_Identifier: 10638068
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Batteries.jpg
 Amazon_com_browse_node:
-  - "11041781"
-  - "13535381"
+  - 11041781
+  - 13535381
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Ogniwo%20paliwowe%20zasada%20dzialania.gif
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/IEEE%20315%20Fundamental%20Items%20Symbols%20%2890%29.svg
 WordLift_URL: http://data.thenextweb.com/tnw/entity/battery
 Unicode_character: 🔋
 IEV_number: 482-01-04
-P8189: "987007536065205171"
+P8189: 987007536065205100
 Commons_category: Electric batteries
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/BATAREYA_ELEKTROPITANIYA.html
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Batterie2.ogg
 ---
 
-# [[Electric_Battery]] 
+# [[Electric_Battery]] 🔋 
 
 #is_/same_as :: [[../../WikiData/WD~Battery,267298|WD~Battery,267298]] 
 

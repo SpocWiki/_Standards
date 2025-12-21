@@ -1,19 +1,21 @@
 ---
 aliases:
   - Summer Olympic Games, also known as the Summer Olympics or the Games of the Olympiad
+  - Summer_Olympics
+  - Summer Olympics
 has_id_wikidata: Q159821
-opposite_of: "[[_Standards/WikiData/WD~Winter_Olympic_Games,82414]]"
+opposite_of: '[[_Standards/WikiData/WD~Winter_Olympic_Games,82414]]'
 sport:
-  - "[[_Standards/WikiData/WD~archery,108429]]"
-  - "[[_Standards/WikiData/WD~3x3_basketball,210550]]"
-  - "[[_Standards/WikiData/WD~figure_skating,38108]]"
-instance_of: "[[_Standards/WikiData/WD~recurring_sporting_event,18608583]]"
-described_by_source: "[[_Standards/WikiData/WD~Medvik,99413897]]"
+  - '[[_Standards/WikiData/WD~archery,108429]]'
+  - '[[_Standards/WikiData/WD~3x3_basketball,210550]]'
+  - '[[_Standards/WikiData/WD~figure_skating,38108]]'
+instance_of: '[[_Standards/WikiData/WD~recurring_sporting_event,18608583]]'
+described_by_source: '[[_Standards/WikiData/WD~Medvik,99413897]]'
 start_time: 1896-01-01T00:00:00Z
-subclass_of: "[[_Standards/WikiData/WD~Olympic_Games,5389]]"
+subclass_of: '[[_Standards/WikiData/WD~Olympic_Games,5389]]'
 event_interval: 4
-organizer: "[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]"
-IAB_code: "522"
+organizer: '[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]'
+IAB_code: 522
 logo_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20rings%20without%20rims.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20Rings%20Icon.svg

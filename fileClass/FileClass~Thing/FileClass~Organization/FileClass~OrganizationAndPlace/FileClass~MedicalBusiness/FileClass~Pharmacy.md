@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Pharmacy
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization
 fields: []
 icon: tablets
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Pharmacy
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/Pharmacy
-- is_a_/Pharmacy
-- schema-org/Pharmacy
+  - class/Pharmacy
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/Pharmacy
+  - is_a_/Pharmacy
+  - schema-org/Pharmacy
 tags:
-- class/FileClass
-- class/Pharmacy
-- is_a_/Pharmacy
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/Pharmacy
+  - class/FileClass
+  - class/Pharmacy
+  - is_a_/Pharmacy
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/Pharmacy
 version: 2.0
 ---
 

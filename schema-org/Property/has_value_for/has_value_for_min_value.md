@@ -4,21 +4,23 @@ aliases:
   - min-value
   - minValue
   - has_value_for_min
+  - has_value_for_min_value
+  - has value for min value
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - min-value
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_min-value
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

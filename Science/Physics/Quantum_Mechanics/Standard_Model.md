@@ -1,13 +1,14 @@
 ---
-has_id_wikidata: Q18338
 aliases:
   - Standard Model
+  - Standard_Model
+has_id_wikidata: Q18338
 instance_of:
-  - "[[_Standards/WikiData/WD~scientific_model,193946]]"
-  - "[[_Standards/WikiData/WD~theory,17737]]"
+  - '[[_Standards/WikiData/WD~scientific_model,193946]]'
+  - '[[_Standards/WikiData/WD~theory,17737]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Standard_model_of_particle_physics,6509732]]"
-  - "[[_Standards/WikiData/WD~Template_Standard_model_of_physics,22727045]]"
+  - '[[_Standards/WikiData/WD~Template_Standard_model_of_particle_physics,6509732]]'
+  - '[[_Standards/WikiData/WD~Template_Standard_model_of_physics,22727045]]'
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%AF%D9%84%20%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF%20%D8%B0%D8%B1%D8%A7%D8%AA%20%D8%A8%D9%86%DB%8C%D8%A7%D8%AF%DB%8C%20%D9%86%D8%B3%D8%AE%D9%87%20%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1%DB%8C%D8%A7%D9%81%D8%AA%D9%87.png
   - http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles.svg
@@ -53,7 +54,7 @@ schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20Particles%20%28And%20Beyond%29.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Modellen.png
   - http://commons.wikimedia.org/wiki/Special:FilePath/Standardmodellens-elementarpartiklar.svg
-studied_by: "[[_Standards/WikiData/WD~particle_physics,18334]]"
+studied_by: '[[_Standards/WikiData/WD~particle_physics,18334]]'
 short_name:
   - SM
   - SM

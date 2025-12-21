@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~RadiationTherapy
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/RadiationTherapy
-- class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/RadiationTherapy
-- is_a_/RadiationTherapy
-- schema-org/RadiationTherapy
+  - class/RadiationTherapy
+  - class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/RadiationTherapy
+  - is_a_/RadiationTherapy
+  - schema-org/RadiationTherapy
 tags:
-- class/FileClass
-- class/RadiationTherapy
-- is_a_/RadiationTherapy
-- class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/RadiationTherapy
+  - class/FileClass
+  - class/RadiationTherapy
+  - is_a_/RadiationTherapy
+  - class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/RadiationTherapy
 version: 2.0
 ---
 

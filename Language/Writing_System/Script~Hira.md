@@ -1,6 +1,7 @@
 ---
 aliases:
-- Hiragana
+  - Hiragana
+  - Script~Hira
 ---
 
 Hiragana Script is used in [[../../Earth/Continent/Asia/Asia~East/Japan|Japan]]. 

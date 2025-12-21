@@ -6,9 +6,10 @@ aliases:
   - الصحراء الغربية
   - 西撒哈拉
   - Западная Сахара
-  - 
-area: 266000
+  - ""
+  - Western_Sahara
 has_id_wikidata: Q6250
+area: 266000
 bibliography: "[[_Standards/WikiData/WD~bibliography_of_Western_Sahara,4903404]]"
 coordinates_of_westernmost_point: Point(-17.091666666 20.833333333)
 coordinate_location: Point(-13.0 25.0)
@@ -47,7 +48,7 @@ draft: false
 driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Western_Sahara,5333811]]"
 elevation_above_sea_level: 237
-expiryDate:
+expiryDate: ""
 FIPS_10_4_countries_and_regions_: WI
 flag: "[[_Standards/WikiData/WD~flag_of_Western_Sahara,39074811]]"
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Sahrawi%20Arab%20Democratic%20Republic.svg
@@ -64,7 +65,7 @@ ISO_3166_1_alpha_2_code: EH
 ISO_3166_1_alpha_3_code: ESH
 ISO_3166_1_numeric_code: 732
 isReadOnly: false
-keywords:
+keywords: ""
 Krugosvet_article: Earth_sciences/geografiya/ZAPADNAYA_SAHARA.html
 Languages:
   - ar
@@ -74,10 +75,10 @@ language_used:
   - "[[_Standards/WikiData/WD~Hassaniya_Arabic,56231]]"
   - "[[_Standards/WikiData/WD~Moroccan_Arabic,56426]]"
   - "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
-layout:
+layout: ""
 Libris_URI: fcrtt0zz0tr5lv6
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ""
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 located_in_time_zone:
   - "[[_Standards/WikiData/WD~Africa_El_Aaiun,4689492]]"
@@ -102,7 +103,7 @@ PM20_geo_code: C50
 population: 612000
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1%20%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9.wav
 publish: true
-publishDate:
+publishDate: ""
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~Southern_Provinces,1418613]]"
 shares_border_with:
   - "[[_Standards/WikiData/WD~Algeria,262]]"

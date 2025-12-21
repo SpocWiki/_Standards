@@ -1,6 +1,7 @@
 ---
 aliases:
   - Zug
+  - Train
 has_id_wikidata: Q870
 Commons_category: Trains
 described_by_source:
@@ -35,7 +36,7 @@ U_S_National_Archives_Identifier: 10675596
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20drone%20chase%20of%20a%20train.webm
 ---
 
-# [[Train]] 
+# [[Train]] 🚆 
 
 #is_/same_as :: [[../../../WikiData/WD~Train,870|WD~Train,870]] 
 

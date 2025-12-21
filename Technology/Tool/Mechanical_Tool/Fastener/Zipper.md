@@ -2,25 +2,26 @@
 aliases:
   - zip fastener
   - Reißverschluss
+  - Zipper
 has_id_wikidata: Q101761
 subclass_of:
-  - "[[_Standards/WikiData/WD~joining_technology,266328]]"
-  - "[[_Standards/WikiData/WD~mercery,350039]]"
-  - "[[_Standards/WikiData/WD~fastener,2002016]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Whitcomb_L._Judson,731876]]"
+  - '[[_Standards/WikiData/WD~joining_technology,266328]]'
+  - '[[_Standards/WikiData/WD~mercery,350039]]'
+  - '[[_Standards/WikiData/WD~fastener,2002016]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Whitcomb_L._Judson,731876]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Q12106034,12106034]]"
-  - "[[_Standards/WikiData/WD~Q107555073,107555073]]"
+  - '[[_Standards/WikiData/WD~Q12106034,12106034]]'
+  - '[[_Standards/WikiData/WD~Q107555073,107555073]]'
 time_of_discovery_or_invention: 1893-01-01T00:00:00Z
-Nomenclature_for_Museum_Cataloging: "6847"
+Nomenclature_for_Museum_Cataloging: 6847
 Commons_gallery: Zipper
 Commons_category: Zippers
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Coil%20plastic%20and%20metal%20zippers.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Zipper%20animated.gif
-OmegaWiki_Defined_Meaning: "1638101"
-Common_Procurement_Vocabulary_code: "18453000"
+OmegaWiki_Defined_Meaning: 1638101
+Common_Procurement_Vocabulary_code: 18453000
 Iconclass_notation: 41D26441
-Dewey_Decimal_Classification: "687.8"
+Dewey_Decimal_Classification: 687.8
 ---
 
 # [[Zipper]] 

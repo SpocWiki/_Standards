@@ -1,42 +1,43 @@
 ---
 aliases:
   - Granit
+  - Granite
 has_id_wikidata: Q41177
 made_from_material:
-  - "[[_Standards/WikiData/WD~mica,114675]]"
-  - "[[_Standards/WikiData/WD~moonstone,430034]]"
-  - "[[_Standards/WikiData/WD~plagioclase,714830]]"
-  - "[[_Standards/WikiData/WD~uranium,1098]]"
-  - "[[_Standards/WikiData/WD~thorium,1115]]"
-  - "[[_Standards/WikiData/WD~quartz,43010]]"
+  - '[[_Standards/WikiData/WD~mica,114675]]'
+  - '[[_Standards/WikiData/WD~moonstone,430034]]'
+  - '[[_Standards/WikiData/WD~plagioclase,714830]]'
+  - '[[_Standards/WikiData/WD~uranium,1098]]'
+  - '[[_Standards/WikiData/WD~thorium,1115]]'
+  - '[[_Standards/WikiData/WD~quartz,43010]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Granite,296699]]"
-  - "[[_Standards/WikiData/WD~Granit,2780282]]"
-  - "[[_Standards/WikiData/WD~granite,3115353]]"
+  - '[[_Standards/WikiData/WD~Granite,296699]]'
+  - '[[_Standards/WikiData/WD~Granit,2780282]]'
+  - '[[_Standards/WikiData/WD~granite,3115353]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 named_after:
-  - "[[_Standards/WikiData/WD~El_Berrueco,645201]]"
-  - "[[_Standards/WikiData/WD~Aswan,29888]]"
-award_received: "[[_Standards/WikiData/WD~Rock_of_the_Year,1519491]]"
+  - '[[_Standards/WikiData/WD~El_Berrueco,645201]]'
+  - '[[_Standards/WikiData/WD~Aswan,29888]]'
+award_received: '[[_Standards/WikiData/WD~Rock_of_the_Year,1519491]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~granitoid,1995951]]"
-  - "[[_Standards/WikiData/WD~plutonic_rock,4054760]]"
-has_characteristic: "[[_Standards/WikiData/WD~radioactivity,11448]]"
+  - '[[_Standards/WikiData/WD~granitoid,1995951]]'
+  - '[[_Standards/WikiData/WD~plutonic_rock,4054760]]'
+has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
 Mohs_hardness: 6
-U_S_National_Archives_Identifier: "10638393"
+U_S_National_Archives_Identifier: 10638393
 Dewey_Decimal_Classification:
-  - "552.3"
-  - "691.2"
-  - "553.52"
+  - 552.3
+  - 691.2
+  - 553.52
 Commons_gallery: Granite
 Commons_category: Granite
-UNSPSC_Code: "11111604"
+UNSPSC_Code: 11111604
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Calangianus%2C%20cava%20di%20granito%20dismessa%20%2802%29.jpg
 Krugosvet_article: Earth_sciences/geologiya/GRANIT.html
 ---

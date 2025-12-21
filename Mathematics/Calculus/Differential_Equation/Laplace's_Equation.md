@@ -2,15 +2,17 @@
 aliases:
   - Laplace's equation
   - Laplace equation
+  - Laplace's_Equation
+  - Laplace's Equation
 has_id_wikidata: Q339444
 subclass_of: "[[_Standards/WikiData/WD~Poisson's_equation,827688]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~elliptic_differential_equation,3607962]]"
-  - "[[_Standards/WikiData/WD~mathematical_concept,24034552]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+  - '[[_Standards/WikiData/WD~elliptic_differential_equation,3607962]]'
+  - '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 in_defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x0394;</mi></mstyle></mrow></math>
-named_after: "[[_Standards/WikiData/WD~Pierre_Simon_Laplace,44481]]"
+named_after: '[[_Standards/WikiData/WD~Pierre_Simon_Laplace,44481]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x0394;</mi><mi>u</mi><mo stretchy="false">=</mo><mn>0</mn></mstyle></mrow></math>
 Commons_category: Laplace's equation
 ---

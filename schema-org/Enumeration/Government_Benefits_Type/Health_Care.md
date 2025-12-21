@@ -6,64 +6,66 @@ aliases:
   - is_a_health_care
   - Health care
   - healthcare
+  - Health_Care
+  - Health Care
+has_id_wikidata: Q31207
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: GovernmentBenefitsType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - health_care
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_health_care Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_health_care Class
 type: Type
-has_id_wikidata: Q31207
 instance_of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~service_type,130303173]]"
-studied_by: "[[_Standards/WikiData/WD~health_sciences,843601]]"
-different_from: "[[_Standards/WikiData/WD~preventive_medicine,1773974]]"
+  - '[[_Standards/WikiData/WD~industry,268592]]'
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+  - '[[_Standards/WikiData/WD~service_type,130303173]]'
+studied_by: '[[_Standards/WikiData/WD~health_sciences,843601]]'
+different_from: '[[_Standards/WikiData/WD~preventive_medicine,1773974]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~care,2421951]]"
-  - "[[_Standards/WikiData/WD~service,7406919]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Health_care,6566994]]"
+  - '[[_Standards/WikiData/WD~care,2421951]]'
+  - '[[_Standards/WikiData/WD~service,7406919]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Health_care,6566994]]'
 part_of:
-  - "[[_Standards/WikiData/WD~health_system,11000047]]"
-  - "[[_Standards/WikiData/WD~tertiary_sector_of_the_economy,55638]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Health_and_fitness,11015739]]"
-practiced_by: "[[_Standards/WikiData/WD~health_care_manual_worker,12377603]]"
-has_characteristic: "[[_Standards/WikiData/WD~health_care_quality,17003063]]"
-field_of_work: "[[_Standards/WikiData/WD~Activities_of_daily_living_assistance,22906178]]"
+  - '[[_Standards/WikiData/WD~health_system,11000047]]'
+  - '[[_Standards/WikiData/WD~tertiary_sector_of_the_economy,55638]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Health_and_fitness,11015739]]'
+practiced_by: '[[_Standards/WikiData/WD~health_care_manual_worker,12377603]]'
+has_characteristic: '[[_Standards/WikiData/WD~health_care_quality,17003063]]'
+field_of_work: '[[_Standards/WikiData/WD~Activities_of_daily_living_assistance,22906178]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Health_Data_Space,124300121]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Health_and_Medical_Services_Act_(2017_30),110217213]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-facet_of: "[[_Standards/WikiData/WD~medicine,11190]]"
+  - '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Health_Data_Space,124300121]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Health_and_Medical_Services_Act_(2017_30),110217213]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+facet_of: '[[_Standards/WikiData/WD~medicine,11190]]'
 IAB_code:
-  - "97"
-  - "286"
-OmegaWiki_Defined_Meaning: "1733"
+  - 97
+  - 286
+OmegaWiki_Defined_Meaning: 1733
 Commons_category: Healthcare
-U_S_National_Archives_Identifier: "10636505"
+U_S_National_Archives_Identifier: 10636505
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FEMA%20-%2018213%20-%20Photograph%20by%20Robert%20Kaufmann%20taken%20on%2010-25-2005%20in%20Louisiana.jpg
 OpenStreetMap_key: healthcare
 GitHub_topic: healthcare
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Med%20logo%20simpleicon.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Gezondheidszorg-article.ogg
 WordLift_URL: http://data.wordlift.io/wl01714/entity/health-services
-UNSPSC_Code: "85101706"
+UNSPSC_Code: 85101706
 Colon_Classification: L:4:5
 MeSH_tree_code:
   - N04.590.374

@@ -4,22 +4,23 @@ aliases:
   - applicableLocation
   - has applicable location
   - is_applicable_in_location
+  - is applicable in location
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - applicable
   - location
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_applicable_in_location
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -4,22 +4,24 @@ aliases:
   - tissue_sample
   - tissueSample
   - has_text_of_tissue_sample
+  - has_tissue_sample
+  - has tissue sample
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - tissue
   - sample
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_tissue_sample
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

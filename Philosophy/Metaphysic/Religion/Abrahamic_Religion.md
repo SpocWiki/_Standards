@@ -3,14 +3,16 @@ aliases:
   - Abrahamitische Religion
   - Abrahamic religions
   - Abrahamic religion
+  - Abrahamic_Religion
+  - Abrahamic Religion
 has_id_wikidata: Q47280
-topic_has_template: "[[_Standards/WikiData/WD~Template_Religions,15934234]]"
-subclass_of: "[[_Standards/WikiData/WD~monotheistic_religion,19842652]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-instance_of: "[[_Standards/WikiData/WD~religion_type,110401222]]"
-has_characteristic: "[[_Standards/WikiData/WD~monotheism,9159]]"
-named_after: "[[_Standards/WikiData/WD~Abraham,9181]]"
-founded_by: "[[_Standards/WikiData/WD~Abraham,9181]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Religions,15934234]]'
+subclass_of: '[[_Standards/WikiData/WD~monotheistic_religion,19842652]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+instance_of: '[[_Standards/WikiData/WD~religion_type,110401222]]'
+has_characteristic: '[[_Standards/WikiData/WD~monotheism,9159]]'
+named_after: '[[_Standards/WikiData/WD~Abraham,9181]]'
+founded_by: '[[_Standards/WikiData/WD~Abraham,9181]]'
 Universal_Decimal_Classification: 26/28
 inception: -2000-06
 schematic:

@@ -4,21 +4,23 @@ aliases:
   - rsvp_response_no
   - RsvpResponseNo
   - is_a_rsvp_response_no
+  - Rsvp_Response_No
+  - Rsvp Response No
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: RsvpResponseType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - rsvp_response_no
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_rsvp_response_no Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

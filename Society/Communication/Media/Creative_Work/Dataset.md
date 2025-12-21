@@ -9,16 +9,16 @@ cssclasses:
   - Type
 draft: false
 equivalent_class: http://purl.org/dc/dcmitype/Dataset, http://www.w3.org/ns/dcat#Dataset, http://rdfs.org/ns/void#Dataset
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - dataset
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_dataset Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

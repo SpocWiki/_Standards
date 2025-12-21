@@ -1,89 +1,90 @@
 ---
 aliases:
   - Walt_Whitman
+  - Walt Whitman
 has_id_wikidata: Q81438
-medical_condition: "[[_Standards/WikiData/WD~paralysis,107231]]"
+medical_condition: '[[_Standards/WikiData/WD~paralysis,107231]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Henry_David_Thoreau,131149]]"
-  - "[[_Standards/WikiData/WD~James_Fenimore_Cooper,167856]]"
-  - "[[_Standards/WikiData/WD~Pierre_Jean_de_Béranger,324998]]"
-  - "[[_Standards/WikiData/WD~William_Shakespeare,692]]"
-  - "[[_Standards/WikiData/WD~Q1067,1067]]"
-  - "[[_Standards/WikiData/WD~George_Sand,3816]]"
-  - "[[_Standards/WikiData/WD~Charles_Dickens,5686]]"
-  - "[[_Standards/WikiData/WD~Homer,6691]]"
-  - "[[_Standards/WikiData/WD~Ralph_Waldo_Emerson,48226]]"
+  - '[[_Standards/WikiData/WD~Henry_David_Thoreau,131149]]'
+  - '[[_Standards/WikiData/WD~James_Fenimore_Cooper,167856]]'
+  - '[[_Standards/WikiData/WD~Pierre_Jean_de_Béranger,324998]]'
+  - '[[_Standards/WikiData/WD~William_Shakespeare,692]]'
+  - '[[_Standards/WikiData/WD~Q1067,1067]]'
+  - '[[_Standards/WikiData/WD~George_Sand,3816]]'
+  - '[[_Standards/WikiData/WD~Charles_Dickens,5686]]'
+  - '[[_Standards/WikiData/WD~Homer,6691]]'
+  - '[[_Standards/WikiData/WD~Ralph_Waldo_Emerson,48226]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Leaves_of_Grass,132042]]"
-  - "[[_Standards/WikiData/WD~O_Captain!_My_Captain!,2008338]]"
-place_of_death: "[[_Standards/WikiData/WD~Camden,138367]]"
-given_name: "[[_Standards/WikiData/WD~Walter,499249]]"
+  - '[[_Standards/WikiData/WD~Leaves_of_Grass,132042]]'
+  - '[[_Standards/WikiData/WD~O_Captain!_My_Captain!,2008338]]'
+place_of_death: '[[_Standards/WikiData/WD~Camden,138367]]'
+given_name: '[[_Standards/WikiData/WD~Walter,499249]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~American_nursing_a_biographical_dictionary,84879777]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~deism,620629]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~American_nursing_a_biographical_dictionary,84879777]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~deism,620629]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]"
-  - "[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]"
-  - "[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]"
-  - "[[_Standards/WikiData/WD~Louis_Round_Wilson_Library,14708020]]"
-  - "[[_Standards/WikiData/WD~New_York_Public_Library_Astor_Lenox_and_Tilden_Foundations,115736387]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]"
+  - '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
+  - '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
+  - '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
+  - '[[_Standards/WikiData/WD~Louis_Round_Wilson_Library,14708020]]'
+  - '[[_Standards/WikiData/WD~New_York_Public_Library_Astor_Lenox_and_Tilden_Foundations,115736387]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
 occupation:
-  - "[[_Standards/WikiData/WD~typographer,1229025]]"
-  - "[[_Standards/WikiData/WD~journalist,1930187]]"
-  - "[[_Standards/WikiData/WD~publisher,2516866]]"
-  - "[[_Standards/WikiData/WD~novelist,6625963]]"
-  - "[[_Standards/WikiData/WD~essayist,11774202]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~teacher,37226]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+  - '[[_Standards/WikiData/WD~typographer,1229025]]'
+  - '[[_Standards/WikiData/WD~journalist,1930187]]'
+  - '[[_Standards/WikiData/WD~publisher,2516866]]'
+  - '[[_Standards/WikiData/WD~novelist,6625963]]'
+  - '[[_Standards/WikiData/WD~essayist,11774202]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~teacher,37226]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
 place_of_birth:
-  - "[[_Standards/WikiData/WD~West_Hills,3461211]]"
-  - "[[_Standards/WikiData/WD~Long_Island,18438]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+  - '[[_Standards/WikiData/WD~West_Hills,3461211]]'
+  - '[[_Standards/WikiData/WD~Long_Island,18438]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 employer:
-  - "[[_Standards/WikiData/WD~Brooklyn_Eagle,4974820]]"
-  - "[[_Standards/WikiData/WD~Brooklyn_Times_Union,4974903]]"
-place_of_burial: "[[_Standards/WikiData/WD~Harleigh_Cemetery,5658479]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Brooklyn_Eagle,4974820]]'
+  - '[[_Standards/WikiData/WD~Brooklyn_Times_Union,4974903]]'
+place_of_burial: '[[_Standards/WikiData/WD~Harleigh_Cemetery,5658479]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 residence:
-  - "[[_Standards/WikiData/WD~Walt_Whitman_Birthplace_State_Historic_Site,7964077]]"
-  - "[[_Standards/WikiData/WD~Walt_Whitman_House,7964081]]"
-  - "[[_Standards/WikiData/WD~99_Ryerson_Street,60581092]]"
-award_received: "[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]"
-family_name: "[[_Standards/WikiData/WD~Whitman,17119825]]"
-sibling: "[[_Standards/WikiData/WD~George_Washington_Whitman,56007509]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+  - '[[_Standards/WikiData/WD~Walt_Whitman_Birthplace_State_Historic_Site,7964077]]'
+  - '[[_Standards/WikiData/WD~Walt_Whitman_House,7964081]]'
+  - '[[_Standards/WikiData/WD~99_Ryerson_Street,60581092]]'
+award_received: '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]'
+family_name: '[[_Standards/WikiData/WD~Whitman,17119825]]'
+sibling: '[[_Standards/WikiData/WD~George_Washington_Whitman,56007509]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]"
-  - "[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]"
-father: "[[_Standards/WikiData/WD~Walter_Whitman,_Sr.,107485734]]"
+  - '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
+  - '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
+father: '[[_Standards/WikiData/WD~Walter_Whitman,_Sr.,107485734]]'
 date_of_death: 1892-03-26T00:00:00Z
 work_period_start_: 1842-01-01T00:00:00Z
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-cause_of_death: "[[_Standards/WikiData/WD~pneumonia,12192]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-lifestyle: "[[_Standards/WikiData/WD~mysticism,45996]]"
-NLC_authorities: "062941695"
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+cause_of_death: '[[_Standards/WikiData/WD~pneumonia,12192]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+lifestyle: '[[_Standards/WikiData/WD~mysticism,45996]]'
+NLC_authorities: 062941695
 Provenio_UUID: 2d9134c9-122e-4c6c-8c27-10326b0e7dec
-P1015: "90052356"
+P1015: 90052356
 Europeana_entity: agent/base/60318
 Wolfram_Language_entity_code: Entity["Person", "WaltWhitman::572yw"]
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/UITMEN_UOLT.html
@@ -96,10 +97,10 @@ Libris_URI: c9prsmnw1dtcbkh
 name_in_native_language: Walt Whitman
 date_of_birth: 1819-05-31T00:00:00Z
 birth_name: Walter Whitman
-U_S_National_Archives_Identifier: "10581715"
+U_S_National_Archives_Identifier: 10581715
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Whitman%20-%20George%20Collins%20Cox.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Whitman%20signature.svg
-ISNI: "0000000121178631"
+ISNI: 0000000121178631
 ---
 
 # [[Walt_Whitman]] 

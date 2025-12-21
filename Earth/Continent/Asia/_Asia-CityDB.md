@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _Asia-CityDB
+  - ' Asia-CityDB'
 database_plugin: basic
 ---
 

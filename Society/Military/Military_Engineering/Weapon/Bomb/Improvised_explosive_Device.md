@@ -1,17 +1,19 @@
 ---
 aliases:
   - improvised explosive device
+  - Improvised_explosive_Device
+  - Improvised explosive Device
 has_id_wikidata: Q1249453
 subclass_of:
-  - "[[_Standards/WikiData/WD~bomb,127197]]"
-  - "[[_Standards/WikiData/WD~explosive_device,3054261]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~self_made_explosive_device,18089167]]"
-instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
+  - '[[_Standards/WikiData/WD~bomb,127197]]'
+  - '[[_Standards/WikiData/WD~explosive_device,3054261]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~self_made_explosive_device,18089167]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
 short_name: IED
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/IED%20Baghdad%20from%20munitions.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/IED%20Jerusalem%202009%2009%2008%2002.JPG
-MIL_STD_2525_Symbol_Identification_Code: "10011500002104000000"
+MIL_STD_2525_Symbol_Identification_Code: 10011500002104000000
 Commons_category: Improvised explosive devices
 ---
 

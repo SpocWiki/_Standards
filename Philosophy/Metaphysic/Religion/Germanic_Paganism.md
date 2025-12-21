@@ -1,6 +1,8 @@
 ---
 aliases:
   - Germanic paganism
+  - Germanic_Paganism
+  - Germanic Paganism
 has_id_wikidata: Q1122452
 ---
 

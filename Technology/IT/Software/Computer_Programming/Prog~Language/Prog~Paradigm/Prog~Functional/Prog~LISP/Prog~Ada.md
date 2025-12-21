@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Prog~Ada
 has_id_wikidata: Q154755
 ---
 # [[Prog~Ada]] 

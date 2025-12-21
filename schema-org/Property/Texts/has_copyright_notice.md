@@ -4,22 +4,24 @@ aliases:
   - copyright_notice
   - copyrightNotice
   - has_text_of_copyright_notice
+  - has_copyright_notice
+  - has copyright notice
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - copyright
   - notice
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_copyright_notice
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

@@ -2,28 +2,29 @@
 aliases:
   - One Hundred Years of Solitude
   - Cien años de soledad
+  - One_Hundred_Years_of_Solitude
 has_id_wikidata: Q178869
-genre: "[[_Standards/WikiData/WD~magic_realism,147516]]"
-movement: "[[_Standards/WikiData/WD~magic_realism,147516]]"
-narrative_location: "[[_Standards/WikiData/WD~Macondo,934381]]"
+genre: '[[_Standards/WikiData/WD~magic_realism,147516]]'
+movement: '[[_Standards/WikiData/WD~magic_realism,147516]]'
+narrative_location: '[[_Standards/WikiData/WD~Macondo,934381]]'
 translator:
-  - "[[_Standards/WikiData/WD~Gregory_Rabassa,2342303]]"
-  - "[[_Standards/WikiData/WD~Aita_Kurfeldt,12358470]]"
-  - "[[_Standards/WikiData/WD~Vladimír_Medek,18971350]]"
-derivative_work: "[[_Standards/WikiData/WD~Farewell_to_the_Ark,5435060]]"
-publisher: "[[_Standards/WikiData/WD~Editorial_Sudamericana,5818714]]"
-instance_of: "[[_Standards/WikiData/WD~literary_work,7725634]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
+  - '[[_Standards/WikiData/WD~Gregory_Rabassa,2342303]]'
+  - '[[_Standards/WikiData/WD~Aita_Kurfeldt,12358470]]'
+  - '[[_Standards/WikiData/WD~Vladimír_Medek,18971350]]'
+derivative_work: '[[_Standards/WikiData/WD~Farewell_to_the_Ark,5435060]]'
+publisher: '[[_Standards/WikiData/WD~Editorial_Sudamericana,5818714]]'
+instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Q77012907,77012907]]"
-  - "[[_Standards/WikiData/WD~Q117280147,117280147]]"
-  - "[[_Standards/WikiData/WD~Q117281190,117281190]]"
-  - "[[_Standards/WikiData/WD~Q122103756,122103756]]"
-country_of_origin: "[[_Standards/WikiData/WD~Argentina,414]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~Spanish,1321]]"
-place_of_publication: "[[_Standards/WikiData/WD~Buenos_Aires,1486]]"
-author: "[[_Standards/WikiData/WD~Gabriel_García_Márquez,5878]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~novel,8261]]"
+  - '[[_Standards/WikiData/WD~Q77012907,77012907]]'
+  - '[[_Standards/WikiData/WD~Q117280147,117280147]]'
+  - '[[_Standards/WikiData/WD~Q117281190,117281190]]'
+  - '[[_Standards/WikiData/WD~Q122103756,122103756]]'
+country_of_origin: '[[_Standards/WikiData/WD~Argentina,414]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Spanish,1321]]'
+place_of_publication: '[[_Standards/WikiData/WD~Buenos_Aires,1486]]'
+author: '[[_Standards/WikiData/WD~Gabriel_García_Márquez,5878]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~novel,8261]]'
 award_received: "[[_Standards/WikiData/WD~Le_Monde's_100_Books_of_the_Century,40734]]"
 publication_date: 1967-01-01T00:00:00Z
 inception: 1960-01-01T00:00:00Z

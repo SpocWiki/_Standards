@@ -1,12 +1,14 @@
 ---
 aliases:
   - history of Scandinavia
+  - History_of_Scandinavia
+  - History of Scandinavia
 has_id_wikidata: Q568251
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-part_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
-facet_of: "[[_Standards/WikiData/WD~Scandinavia,21195]]"
-Dewey_Decimal_Classification: "948"
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+part_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
+facet_of: '[[_Standards/WikiData/WD~Scandinavia,21195]]'
+Dewey_Decimal_Classification: 948
 Commons_category: Nordic Middle Ages
 ---
 

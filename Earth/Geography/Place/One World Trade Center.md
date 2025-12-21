@@ -5,51 +5,51 @@ aliases:
   - One World Trade Center
 has_id_wikidata: Q11245
 architect:
-  - "[[_Standards/WikiData/WD~Daniel_Libeskind,154538]]"
-  - "[[_Standards/WikiData/WD~Skidmore,_Owings_&_Merrill,459464]]"
-  - "[[_Standards/WikiData/WD~David_Childs,1173984]]"
-has_use: "[[_Standards/WikiData/WD~office,182060]]"
+  - '[[_Standards/WikiData/WD~Daniel_Libeskind,154538]]'
+  - '[[_Standards/WikiData/WD~Skidmore,_Owings_&_Merrill,459464]]'
+  - '[[_Standards/WikiData/WD~David_Childs,1173984]]'
+has_use: '[[_Standards/WikiData/WD~office,182060]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~reinforced_concrete,184190]]"
-  - "[[_Standards/WikiData/WD~bulletproof_glass,1133376]]"
-  - "[[_Standards/WikiData/WD~aluminium,663]]"
-  - "[[_Standards/WikiData/WD~steel,11427]]"
+  - '[[_Standards/WikiData/WD~reinforced_concrete,184190]]'
+  - '[[_Standards/WikiData/WD~bulletproof_glass,1133376]]'
+  - '[[_Standards/WikiData/WD~aluminium,663]]'
+  - '[[_Standards/WikiData/WD~steel,11427]]'
 structural_engineer:
-  - "[[_Standards/WikiData/WD~Schlaich_Bergermann_Partner,325302]]"
-  - "[[_Standards/WikiData/WD~WSP_Global,1333162]]"
-significant_event: "[[_Standards/WikiData/WD~construction,385378]]"
+  - '[[_Standards/WikiData/WD~Schlaich_Bergermann_Partner,325302]]'
+  - '[[_Standards/WikiData/WD~WSP_Global,1333162]]'
+significant_event: '[[_Standards/WikiData/WD~construction,385378]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~office_building,1021645]]"
-  - "[[_Standards/WikiData/WD~skyscraper,11303]]"
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~office_building,1021645]]'
+  - '[[_Standards/WikiData/WD~skyscraper,11303]]'
 occupant:
-  - "[[_Standards/WikiData/WD~Condé_Nast,605401]]"
-  - "[[_Standards/WikiData/WD~The_Durst_Organization,5316774]]"
-located_on_street: "[[_Standards/WikiData/WD~Fulton_Street,685083]]"
-developer: "[[_Standards/WikiData/WD~Port_Authority_of_New_York_and_New_Jersey,908666]]"
+  - '[[_Standards/WikiData/WD~Condé_Nast,605401]]'
+  - '[[_Standards/WikiData/WD~The_Durst_Organization,5316774]]'
+located_on_street: '[[_Standards/WikiData/WD~Fulton_Street,685083]]'
+developer: '[[_Standards/WikiData/WD~Port_Authority_of_New_York_and_New_Jersey,908666]]'
 owned_by:
-  - "[[_Standards/WikiData/WD~Port_Authority_of_New_York_and_New_Jersey,908666]]"
-  - "[[_Standards/WikiData/WD~The_Durst_Organization,5316774]]"
-shape: "[[_Standards/WikiData/WD~antiprism,1048057]]"
-main_building_contractor: "[[_Standards/WikiData/WD~Tishman_Realty_&_Construction,1542905]]"
-different_from: "[[_Standards/WikiData/WD~1_World_Trade_Center,20445370]]"
-part_of: "[[_Standards/WikiData/WD~World_Trade_Center,20861677]]"
-state_of_use: "[[_Standards/WikiData/WD~in_use,55654238]]"
-has_part_s_: "[[_Standards/WikiData/WD~One_World_Observatory,114617033]]"
+  - '[[_Standards/WikiData/WD~Port_Authority_of_New_York_and_New_Jersey,908666]]'
+  - '[[_Standards/WikiData/WD~The_Durst_Organization,5316774]]'
+shape: '[[_Standards/WikiData/WD~antiprism,1048057]]'
+main_building_contractor: '[[_Standards/WikiData/WD~Tishman_Realty_&_Construction,1542905]]'
+different_from: '[[_Standards/WikiData/WD~1_World_Trade_Center,20445370]]'
+part_of: '[[_Standards/WikiData/WD~World_Trade_Center,20861677]]'
+state_of_use: '[[_Standards/WikiData/WD~in_use,55654238]]'
+has_part_s_: '[[_Standards/WikiData/WD~One_World_Observatory,114617033]]'
 coordinate_location: Point(-74.0135 40.713)
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Manhattan,11299]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Manhattan,11299]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 capital_cost: 3800000000
 number_of_elevators: 73
 height: 541.3
-postal_code: "10007"
+postal_code: 10007
 area: 325279
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Moonlit%20skyline.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20%2833224081040%29.jpg
 image_of_construction: http://commons.wikimedia.org/wiki/Special:FilePath/One%20World%20Trade%20Center%20under%20construction%2C%202012%2006.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/One%20WTC%20logo.svg
 official_website: https://www.onewtc.com
-P8189: "987007287908305171"
+P8189: 987007287908305171
 Commons_gallery: One World Trade Center
 Commons_category: One World Trade Center
 short_name:

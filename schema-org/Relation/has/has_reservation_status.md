@@ -3,23 +3,24 @@ aliases:
   - has reservation-status
   - reservationStatus
   - has_reservation_status
+  - has reservation status
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - reservation_status
   - reservation
   - status
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_reservation_status
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

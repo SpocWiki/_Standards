@@ -2,7 +2,8 @@
 aliases:
   - Kriegsschiff
   - combatant ship
-has_id_wikidata: Q3114762 
+  - Warship
+has_id_wikidata: Q3114762
 ---
 
 # [[Warship]] 

@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Thank You for the Music"
+  - Thank You for the Music
+  - ABBA-TYFTM
 ---
 
 The ABBA compilation album *"Thank You for the Music"* was released in 1994. 

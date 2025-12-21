@@ -1,30 +1,30 @@
 ---
 aliases:
-- has accepted offer
-- has_accepted_offer
+  - has accepted offer
+  - has_accepted_offer
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 fileClass:
-- Relation-File
+  - Relation-File
 has_domain: '[[Order]]'
 isDeleted: false
 isReadOnly: false
 keywords:
-- accepted
-- offer
-- acceptedOffer
-layout: 
-license: "CC BY-SA 4.0"
+  - accepted
+  - offer
+  - acceptedOffer
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_accepted_offer
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_accepted_offer
 type: Predi_Relation
 ---

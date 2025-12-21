@@ -4,21 +4,23 @@ aliases:
   - wearable_measurement_hips
   - WearableMeasurementHips
   - is_a_wearable_measurement_hips
+  - Wearable_Measurement_Hips
+  - Wearable Measurement Hips
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableMeasurementTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_measurement_hips
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_measurement_hips Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

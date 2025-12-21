@@ -1,16 +1,17 @@
 ---
 aliases:
   - Säbel
+  - Saber
 has_id_wikidata: Q231204
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~piercing_cutting_weapon,9180322]]"
-  - "[[_Standards/WikiData/WD~sword,12791]]"
-different_from: "[[_Standards/WikiData/WD~saber,49068756]]"
-instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
+  - '[[_Standards/WikiData/WD~piercing_cutting_weapon,9180322]]'
+  - '[[_Standards/WikiData/WD~sword,12791]]'
+different_from: '[[_Standards/WikiData/WD~saber,49068756]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
 Commons_category: Sabres
 MCN_code: 9307.00.00
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dm.%20Iv.%20Godunov%27s%20sabre%20%281598-1606%2C%20Hermitage%29%2001%20by%20shakko.jpg

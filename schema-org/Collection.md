@@ -1,27 +1,27 @@
 ---
 aliases:
-- collection
-- Collection
-- is_a_collection
-- container
+  - collection
+  - Collection
+  - is_a_collection
+  - container
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- collection
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_collection Class"
+  - collection
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_a_collection Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- schema-org/Class
-- class/Class
-title: "is_a_collection Class"
+  - schema-org/Class
+  - class/Class
+title: is_a_collection Class
 type: Type
 ---
 

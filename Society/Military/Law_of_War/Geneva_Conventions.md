@@ -1,19 +1,20 @@
 ---
 aliases:
   - Geneva_Conventions
+  - Geneva Conventions
 has_id_wikidata: Q133536
 instance_of:
-  - "[[_Standards/WikiData/WD~treaty,131569]]"
-  - "[[_Standards/WikiData/WD~international_humanitarian_law,381148]]"
+  - '[[_Standards/WikiData/WD~treaty,131569]]'
+  - '[[_Standards/WikiData/WD~international_humanitarian_law,381148]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Protocol_III,2115269]]"
-  - "[[_Standards/WikiData/WD~Geneva_Convention_on_the_Wounded_and_Sick,5532988]]"
-main_subject: "[[_Standards/WikiData/WD~law_of_war,6833880]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Geneva_Conventions,20371171]]"
+  - '[[_Standards/WikiData/WD~Protocol_III,2115269]]'
+  - '[[_Standards/WikiData/WD~Geneva_Convention_on_the_Wounded_and_Sick,5532988]]'
+main_subject: '[[_Standards/WikiData/WD~law_of_war,6833880]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Geneva_Conventions,20371171]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Original%20Geneva%20Conventions.jpg
 document_file_on_Wikimedia_Commons:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Geneva%20Conventions%201949-08-12%20%28final%20act%29%20-%20CH-BAR%20-%2029355732.pdf

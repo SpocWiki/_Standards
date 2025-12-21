@@ -1,19 +1,20 @@
 ---
 aliases:
   - Tragödie
+  - Tragedy
 has_id_wikidata: Q80930
-different_from: "[[_Standards/WikiData/WD~tragicomedy,192881]]"
+different_from: '[[_Standards/WikiData/WD~tragicomedy,192881]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
   - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-instance_of: "[[_Standards/WikiData/WD~theatrical_genre,7777573]]"
+instance_of: '[[_Standards/WikiData/WD~theatrical_genre,7777573]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~theatre,17172848]]"
-  - "[[_Standards/WikiData/WD~drama,25372]]"
-depicted_by: "[[_Standards/WikiData/WD~La_Tragedia,126727129]]"
-OmegaWiki_Defined_Meaning: "505580"
+  - '[[_Standards/WikiData/WD~theatre,17172848]]'
+  - '[[_Standards/WikiData/WD~drama,25372]]'
+depicted_by: '[[_Standards/WikiData/WD~La_Tragedia,126727129]]'
+OmegaWiki_Defined_Meaning: 505580
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Romeo%20and%20juliet%20brown.jpg
 Iconclass_notation: 48C8545
 IMDb_keyword:
@@ -24,7 +25,7 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Tragedi
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/TRAGEDIYA.html
 PhilPapers_topic: the-tragic
 Commons_category: Tragedies
-Dewey_Decimal_Classification: "808.82512"
+Dewey_Decimal_Classification: 808.82512
 ---
 
 # [[Tragedy]] 

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~AmpStory
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/AmpStory
-- class/Thing/CreativeWork/MediaObject/AmpStory
-- is_an_/AmpStory
-- schema-org/AmpStory
+  - class/AmpStory
+  - class/Thing/CreativeWork/MediaObject/AmpStory
+  - is_an_/AmpStory
+  - schema-org/AmpStory
 tags:
-- class/FileClass
-- class/AmpStory
-- '#is_an_/AmpStory'
-- class/Thing/CreativeWork/MediaObject/AmpStory
+  - class/FileClass
+  - class/AmpStory
+  - '#is_an_/AmpStory'
+  - class/Thing/CreativeWork/MediaObject/AmpStory
 version: 2.0
 ---
 

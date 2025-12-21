@@ -1,12 +1,15 @@
 ---
+aliases:
+  - Palestinian_Territory,_Occupied
+  - Palestinian Territory, Occupied
 confidential: public
 isDeleted: false
 location:
-- 31.8833
-- 35.2
+  - 31.8833
+  - 35.2
 SpocWebEntityId: 27000
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

@@ -1,29 +1,30 @@
 ---
 aliases:
   - East African Community
+  - East_African_Community
 has_id_wikidata: Q337456
 instance_of:
-  - "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
-  - "[[_Standards/WikiData/WD~international_organization,484652]]"
+  - '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
+  - '[[_Standards/WikiData/WD~international_organization,484652]]'
 official_observer_status_in_organization:
-  - "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
-  - "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
-member_of: "[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]"
-flag: "[[_Standards/WikiData/WD~flag_of_the_East_African_Community,25230725]]"
+  - '[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]'
+  - '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
+member_of: '[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_East_African_Community,25230725]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-  - "[[_Standards/WikiData/WD~South_Sudan,958]]"
-  - "[[_Standards/WikiData/WD~Burundi,967]]"
-  - "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
-  - "[[_Standards/WikiData/WD~Uganda,1036]]"
-  - "[[_Standards/WikiData/WD~Rwanda,1037]]"
-  - "[[_Standards/WikiData/WD~Somalia,1045]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
+  - '[[_Standards/WikiData/WD~Tanzania,924]]'
+  - '[[_Standards/WikiData/WD~South_Sudan,958]]'
+  - '[[_Standards/WikiData/WD~Burundi,967]]'
+  - '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]'
+  - '[[_Standards/WikiData/WD~Uganda,1036]]'
+  - '[[_Standards/WikiData/WD~Rwanda,1037]]'
+  - '[[_Standards/WikiData/WD~Somalia,1045]]'
+  - '[[_Standards/WikiData/WD~Kenya,114]]'
 official_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Swahili,7838]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Arusha,4301]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Swahili,7838]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Arusha,4301]]'
 social_media_followers:
   - 8270
   - 155967
@@ -49,7 +50,7 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%2
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9%20%D8%B4%D8%B1%D9%82%20%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7.wav
 official_website: https://www.eac.int/
 email_address: mailto:eac@eachq.org
-ISNI: "0000000121504046"
+ISNI: 0000000121504046
 Instagram_username: eac_secretariat1
 EU_Corporate_body_code: EACOM
 Commons_category: East African Community

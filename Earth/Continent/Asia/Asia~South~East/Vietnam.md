@@ -1,6 +1,4 @@
 ---
-age_of_majority: 18
-aircraft_registration_prefix: VN
 aliases:
   - Vietnam
   - Viet Nam
@@ -10,6 +8,8 @@ aliases:
   - the Socialist Republic of Viet Nam
   - la República Socialista de Viet Nam
 has_id_wikidata: Q881
+age_of_majority: 18
+aircraft_registration_prefix: VN
 anthem: "[[_Standards/WikiData/WD~Tiến_quân_ca,208016]]"
 area: 331690
 basic_form_of_government:
@@ -241,7 +241,7 @@ ethnic_group:
   - "[[_Standards/WikiData/WD~Thai_people,472834]]"
   - "[[_Standards/WikiData/WD~Hoa_people,1193617]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Vietnam,5589338]]"
-expiryDate:
+expiryDate: ""
 female_population: 49409110
 FIPS_10_4_countries_and_regions_: VM
 flag: "[[_Standards/WikiData/WD~flag_of_Vietnam,131204]]"
@@ -288,7 +288,7 @@ ISO_3166_1_alpha_3_code: VNM
 ISO_3166_1_numeric_code: 704
 isReadOnly: false
 ITU_letter_code: VTN
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/VETNAM.html
 Languages:
   - vi
@@ -390,13 +390,13 @@ language_used:
   - "[[_Standards/WikiData/WD~Romam,22694600]]"
   - "[[_Standards/WikiData/WD~Tho,22694631]]"
   - "[[_Standards/WikiData/WD~Haiphong_Sign_Language,39868240]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Vietnam,1765001]]"
 Libris_URI: gdsvv0g01x6bwwh
 licence_plate_code: VN
 license: CC BY-SA 4.0
 life_expectancy: 76.253
-linkTitle:
+linkTitle: ""
 literacy_rate: 94.5
 located_in_time_zone:
   - "[[_Standards/WikiData/WD~UTC+07_00,6940]]"
@@ -474,7 +474,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ka-vietnami.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5146%20%28por%29-NMaia-Vietn%C3%A3.wav
 publish: true
-publishDate:
+publishDate: ""
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Vietnam%20relief%20location%20map.jpg
 religion_or_worldview:
   - "[[_Standards/WikiData/WD~Caodaism,470364]]"

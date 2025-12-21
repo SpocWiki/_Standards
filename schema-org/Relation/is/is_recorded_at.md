@@ -4,22 +4,23 @@ aliases:
   - recorded_at
   - recordedAt
   - is_recorded_at
+  - is recorded at
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - recorded
   - at
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_recorded_at
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

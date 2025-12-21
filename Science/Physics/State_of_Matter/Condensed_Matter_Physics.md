@@ -1,21 +1,23 @@
 ---
 aliases:
   - Condensed matter physics
+  - Condensed_Matter_Physics
+  - Condensed Matter Physics
 has_id_wikidata: Q214781
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+  - '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Condensed_matter_physics,7646507]]"
-  - "[[_Standards/WikiData/WD~Template_Condensed_matter_physics_topics,21994769]]"
+  - '[[_Standards/WikiData/WD~Template_Condensed_matter_physics,7646507]]'
+  - '[[_Standards/WikiData/WD~Template_Condensed_matter_physics_topics,21994769]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~continuum_physics,21213340]]"
-  - "[[_Standards/WikiData/WD~physics,413]]"
-is_the_study_of: "[[_Standards/WikiData/WD~condensed_matter,56315826]]"
-practiced_by: "[[_Standards/WikiData/WD~condensed_matter_physicist,122820181]]"
-All_Science_Journal_Classification_Codes: "3104"
+  - '[[_Standards/WikiData/WD~continuum_physics,21213340]]'
+  - '[[_Standards/WikiData/WD~physics,413]]'
+is_the_study_of: '[[_Standards/WikiData/WD~condensed_matter,56315826]]'
+practiced_by: '[[_Standards/WikiData/WD~condensed_matter_physicist,122820181]]'
+All_Science_Journal_Classification_Codes: 3104
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%98%E0%A6%A8%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8.wav
 Commons_category: Condensed matter physics
 PhilPapers_topic: condensed-matter-physics

@@ -1,11 +1,20 @@
 ---
+aliases:
+  - Cambodia
+  - Camboya
+  - Cambodge
+  - كمبوديا
+  - 柬埔寨
+  - Камбоджа
+  - the Kingdom of Cambodia
+  - el Reino de Camboya
+has_id_wikidata: Q424
 location:
   - 11.55
   - 104.917
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q424
 SpocWebEntityId: 26936
 isDeleted: false
 confidential: public
@@ -16,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Cambodia
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Cambodia
-  - Camboya
-  - Cambodge
-  - كمبوديا
-  - 柬埔寨
-  - Камбоджа
-  - the Kingdom of Cambodia
-  - el Reino de Camboya
+publishDate: ""
+expiryDate: ""
 Languages:
   - km
   - fr

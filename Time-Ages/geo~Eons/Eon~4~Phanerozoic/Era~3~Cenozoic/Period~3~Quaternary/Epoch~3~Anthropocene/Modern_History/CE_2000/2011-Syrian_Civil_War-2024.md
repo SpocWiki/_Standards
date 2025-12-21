@@ -1,35 +1,37 @@
 ---
 aliases:
   - Syrischer Bürgerkrieg
+  - 2011-Syrian_Civil_War-2024
+  - 2011-Syrian Civil War-2024
 has_id_wikidata: Q178810
 participant:
-  - "[[_Standards/WikiData/WD~Haitham_al_Maleh,82398]]"
-  - "[[_Standards/WikiData/WD~Burhan_Ghalioun,82403]]"
-  - "[[_Standards/WikiData/WD~Ali_Sadreddine_Al_Bayanouni,82400]]"
-  - "[[_Standards/WikiData/WD~Ali_Habib_Mahmud,369251]]"
-  - "[[_Standards/WikiData/WD~Mashaal_Tammo,403421]]"
-  - "[[_Standards/WikiData/WD~Maher_al_Assad,447173]]"
-  - "[[_Standards/WikiData/WD~Dawoud_Rajiha,456977]]"
-  - "[[_Standards/WikiData/WD~Assef_Shawkat,548228]]"
-  - "[[_Standards/WikiData/WD~Riad_al_Asaad,714040]]"
-  - "[[_Standards/WikiData/WD~Walid_Muallem,1334803]]"
-  - "[[_Standards/WikiData/WD~Samir_Nashar,7409537]]"
-  - "[[_Standards/WikiData/WD~Ahmed_al_Sharaa,7934206]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Bashar_al_Assad,44329]]"
+  - '[[_Standards/WikiData/WD~Haitham_al_Maleh,82398]]'
+  - '[[_Standards/WikiData/WD~Burhan_Ghalioun,82403]]'
+  - '[[_Standards/WikiData/WD~Ali_Sadreddine_Al_Bayanouni,82400]]'
+  - '[[_Standards/WikiData/WD~Ali_Habib_Mahmud,369251]]'
+  - '[[_Standards/WikiData/WD~Mashaal_Tammo,403421]]'
+  - '[[_Standards/WikiData/WD~Maher_al_Assad,447173]]'
+  - '[[_Standards/WikiData/WD~Dawoud_Rajiha,456977]]'
+  - '[[_Standards/WikiData/WD~Assef_Shawkat,548228]]'
+  - '[[_Standards/WikiData/WD~Riad_al_Asaad,714040]]'
+  - '[[_Standards/WikiData/WD~Walid_Muallem,1334803]]'
+  - '[[_Standards/WikiData/WD~Samir_Nashar,7409537]]'
+  - '[[_Standards/WikiData/WD~Ahmed_al_Sharaa,7934206]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Bashar_al_Assad,44329]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~proxy_war,864113]]"
-  - "[[_Standards/WikiData/WD~communal_violence,5153967]]"
-  - "[[_Standards/WikiData/WD~civil_war,8465]]"
+  - '[[_Standards/WikiData/WD~proxy_war,864113]]'
+  - '[[_Standards/WikiData/WD~communal_violence,5153967]]'
+  - '[[_Standards/WikiData/WD~civil_war,8465]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~human_rights_in_Syria,2754047]]"
-  - "[[_Standards/WikiData/WD~sectarianism_and_minorities_in_the_Syrian_civil_war,7444558]]"
-has_part_s_: "[[_Standards/WikiData/WD~foreign_involvement_in_the_Syrian_civil_war,5468411]]"
+  - '[[_Standards/WikiData/WD~human_rights_in_Syria,2754047]]'
+  - '[[_Standards/WikiData/WD~sectarianism_and_minorities_in_the_Syrian_civil_war,7444558]]'
+has_part_s_: '[[_Standards/WikiData/WD~foreign_involvement_in_the_Syrian_civil_war,5468411]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Syrian_civil_war,9094644]]"
-  - "[[_Standards/WikiData/WD~Template_Syrian_civil_war_infobox,13882202]]"
+  - '[[_Standards/WikiData/WD~Template_Syrian_civil_war,9094644]]'
+  - '[[_Standards/WikiData/WD~Template_Syrian_civil_war_infobox,13882202]]'
 coordinate_location: Point(38.0 35.0)
-country: "[[_Standards/WikiData/WD~Syria,858]]"
+country: '[[_Standards/WikiData/WD~Syria,858]]'
 number_of_deaths: 570000
 social_media_followers: 103218
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Syrian%20Civil%20War%20map.svg

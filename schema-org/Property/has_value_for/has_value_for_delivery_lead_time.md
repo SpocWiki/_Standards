@@ -4,21 +4,22 @@ aliases:
   - delivery-lead-time
   - deliveryLeadTime
   - has_value_for_delivery_lead_time
+  - has value for delivery lead time
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - delivery-lead-time
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_delivery-lead-time
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

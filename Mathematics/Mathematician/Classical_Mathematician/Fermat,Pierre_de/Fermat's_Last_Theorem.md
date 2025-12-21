@@ -2,15 +2,16 @@
 aliases:
   - Fermat's Last Theorem
   - Fermat's conjecture
+  - Fermat's_Last_Theorem
 has_id_wikidata: Q132469
-instance_of: "[[_Standards/WikiData/WD~theorem,65943]]"
-named_after: "[[_Standards/WikiData/WD~Pierre_de_Fermat,75655]]"
+instance_of: '[[_Standards/WikiData/WD~theorem,65943]]'
+named_after: '[[_Standards/WikiData/WD~Pierre_de_Fermat,75655]]'
 proved_by:
-  - "[[_Standards/WikiData/WD~Andrew_Wiles,184433]]"
-  - "[[_Standards/WikiData/WD~Richard_Taylor,712170]]"
-part_of: "[[_Standards/WikiData/WD~list_of_theorems,944443]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-studied_by: "[[_Standards/WikiData/WD~number_theory,12479]]"
+  - '[[_Standards/WikiData/WD~Andrew_Wiles,184433]]'
+  - '[[_Standards/WikiData/WD~Richard_Taylor,712170]]'
+part_of: '[[_Standards/WikiData/WD~list_of_theorems,944443]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+studied_by: '[[_Standards/WikiData/WD~number_theory,12479]]'
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>a</mi></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>b</mi></mstyle></mrow></math>

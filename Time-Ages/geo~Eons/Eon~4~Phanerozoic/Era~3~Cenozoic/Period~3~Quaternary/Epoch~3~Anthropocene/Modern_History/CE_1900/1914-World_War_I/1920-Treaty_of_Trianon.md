@@ -5,20 +5,22 @@ aliases:
   - Trianoni békediktátum
   - Trattato del Trianon
   - Tratatul de la Trianon
+  - 1920-Treaty_of_Trianon
+  - 1920-Treaty of Trianon
 has_id_wikidata: Q181902
 participant:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Hungary,171150]]"
-  - "[[_Standards/WikiData/WD~Allies_of_the_First_World_War,215669]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_Hungary,171150]]'
+  - '[[_Standards/WikiData/WD~Allies_of_the_First_World_War,215669]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Versailles_system,595819]]"
-  - "[[_Standards/WikiData/WD~peace_treaty,625298]]"
+  - '[[_Standards/WikiData/WD~Versailles_system,595819]]'
+  - '[[_Standards/WikiData/WD~peace_treaty,625298]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Treaty_of_Trianon_Preamble,21192298]]"
-  - "[[_Standards/WikiData/WD~Treaty_of_Trianon_Part_I,21192299]]"
-  - "[[_Standards/WikiData/WD~Treaty_of_Trianon_Part_II,21192301]]"
-location: "[[_Standards/WikiData/WD~Grand_Trianon,8049]]"
-named_after: "[[_Standards/WikiData/WD~Grand_Trianon,8049]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~Treaty_of_Trianon_Preamble,21192298]]'
+  - '[[_Standards/WikiData/WD~Treaty_of_Trianon_Part_I,21192299]]'
+  - '[[_Standards/WikiData/WD~Treaty_of_Trianon_Part_II,21192301]]'
+location: '[[_Standards/WikiData/WD~Grand_Trianon,8049]]'
+named_after: '[[_Standards/WikiData/WD~Grand_Trianon,8049]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~French,150]]'
 BHCL_UUID: 7d1b20e9-0b24-4ad1-a782-a589bf6032cb
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Treaty%20of%20trianon%20negotiations.jpg
 Commons_category: Treaty of Trianon

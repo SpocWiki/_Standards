@@ -3,22 +3,24 @@ aliases:
   - Elektrisches Netz
   - electrical grid
   - electricity network
+  - Electrical_Grid
+  - Electrical Grid
 has_id_wikidata: Q1096907
 has_part_s_:
-  - "[[_Standards/WikiData/WD~electrical_substation,174814]]"
-  - "[[_Standards/WikiData/WD~distribution_substation,478986]]"
-  - "[[_Standards/WikiData/WD~grid_control_centre,2230662]]"
+  - '[[_Standards/WikiData/WD~electrical_substation,174814]]'
+  - '[[_Standards/WikiData/WD~distribution_substation,478986]]'
+  - '[[_Standards/WikiData/WD~grid_control_centre,2230662]]'
 has_use:
-  - "[[_Standards/WikiData/WD~electric_power_transmission,200928]]"
-  - "[[_Standards/WikiData/WD~electric_power_distribution,844861]]"
+  - '[[_Standards/WikiData/WD~electric_power_transmission,200928]]'
+  - '[[_Standards/WikiData/WD~electric_power_distribution,844861]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~network,1900326]]"
-  - "[[_Standards/WikiData/WD~facility,13226383]]"
-  - "[[_Standards/WikiData/WD~energy_infrastructure,56397239]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-facet_of: "[[_Standards/WikiData/WD~electrical_engineering,43035]]"
-OmegaWiki_Defined_Meaning: "716304"
+  - '[[_Standards/WikiData/WD~network,1900326]]'
+  - '[[_Standards/WikiData/WD~facility,13226383]]'
+  - '[[_Standards/WikiData/WD~energy_infrastructure,56397239]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+facet_of: '[[_Standards/WikiData/WD~electrical_engineering,43035]]'
+OmegaWiki_Defined_Meaning: 716304
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Itzalaldiak.webm
 IEV_number: 601-01-02
 Commons_category: Power grids

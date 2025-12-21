@@ -3,6 +3,8 @@ aliases:
   - Theoderic_the_Great
   - Theodoric
   - Theoderic
+  - 0454-Theoderic_the_Great+0526
+  - 0454-Theoderic the Great+0526
 has_id_wikidata: Q105105
 name_in_native_language:
   - 𐌸𐌹𐌿𐌳𐌰𐍂𐌴𐌹𐌺𐍃 𐍃𐌰 𐌼𐌹𐌺𐌹𐌻𐌰

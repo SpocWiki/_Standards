@@ -3,23 +3,24 @@ aliases:
   - has normal-range
   - normalRange
   - has_normal_range
+  - has normal range
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - normal_range
   - normal
   - range
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_normal_range
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

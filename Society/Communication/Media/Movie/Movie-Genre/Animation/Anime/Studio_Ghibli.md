@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Studio Ghibli"
+  - Studio Ghibli
+  - Studio_Ghibli
 ---
 
 > Studio Ghibli, Inc. 

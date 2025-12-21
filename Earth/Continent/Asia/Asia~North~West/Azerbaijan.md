@@ -8,28 +8,28 @@ aliases:
   - Азербайджан
   - the Republic of Azerbaijan
   - la República de Azerbaiyán
+has_id_wikidata: Q227
 confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate:
-has_id_wikidata: Q227
+expiryDate: ''
 icon: flag-az
 isDeleted: false
 isReadOnly: false
-keywords:
+keywords: ''
 Languages:
   - az
   - ru
   - hy
-layout:
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 location:
   - 40.42
   - 49.83
 publish: true
-publishDate:
+publishDate: ''
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26840
 tags:

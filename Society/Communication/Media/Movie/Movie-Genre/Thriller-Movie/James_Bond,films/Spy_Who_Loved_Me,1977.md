@@ -1,6 +1,8 @@
 ---
 aliases:
-- "The Spy Who Loved Me"
+  - The Spy Who Loved Me
+  - Spy_Who_Loved_Me,1977
+  - Spy Who Loved Me,1977
 ---
 
 ## #has_/text_of_/abstract 

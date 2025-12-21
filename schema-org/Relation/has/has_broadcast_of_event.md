@@ -2,12 +2,13 @@
 aliases:
   - has broadcast-of-event
   - has_broadcast_of_event
+  - has broadcast of event
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - event
   - broadcast_of_event
   - broadcastOfEvent
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_broadcast_of_event
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

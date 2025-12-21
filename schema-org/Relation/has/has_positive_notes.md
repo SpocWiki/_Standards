@@ -1,30 +1,31 @@
 ---
 aliases:
-- positive-notes
-- positiveNotes
-- has_positive_notes
-- "has pros"
-- has_pros
+  - positive-notes
+  - positiveNotes
+  - has_positive_notes
+  - has pros
+  - has_pros
+  - has positive notes
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- positive_notes
-- positive
-- notes
-layout: 
-license: "CC BY-SA 4.0"
+  - positive_notes
+  - positive
+  - notes
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_positive_notes
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_positive_notes
 type: Predi_Relation
 ---

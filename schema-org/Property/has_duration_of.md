@@ -1,4 +1,7 @@
 ---
+aliases:
+  - has_duration_of
+  - has duration of
 icon: luc_timer_reset
 ---
 

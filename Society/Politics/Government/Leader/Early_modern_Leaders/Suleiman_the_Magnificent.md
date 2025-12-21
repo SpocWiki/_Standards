@@ -6,82 +6,83 @@ aliases:
   - سليمان اول
   - Süleyman-ı Evvel
   - I. Süleyman
+  - Suleiman_the_Magnificent
 has_id_wikidata: Q8474
 sibling:
-  - "[[_Standards/WikiData/WD~Şah_Huban_Sultan,80454]]"
-  - "[[_Standards/WikiData/WD~Hatice_Sultan,2423137]]"
-  - "[[_Standards/WikiData/WD~Beyhan_Sultan,5201950]]"
-  - "[[_Standards/WikiData/WD~Hafize_Sultan,6034923]]"
-  - "[[_Standards/WikiData/WD~Fatma_Sultan,12809521]]"
+  - '[[_Standards/WikiData/WD~Şah_Huban_Sultan,80454]]'
+  - '[[_Standards/WikiData/WD~Hatice_Sultan,2423137]]'
+  - '[[_Standards/WikiData/WD~Beyhan_Sultan,5201950]]'
+  - '[[_Standards/WikiData/WD~Hafize_Sultan,6034923]]'
+  - '[[_Standards/WikiData/WD~Fatma_Sultan,12809521]]'
 child:
-  - "[[_Standards/WikiData/WD~Mihrimah_Sultan,80764]]"
-  - "[[_Standards/WikiData/WD~Selim_II,161872]]"
-  - "[[_Standards/WikiData/WD~Şehzade_Mustafa,1251392]]"
-  - "[[_Standards/WikiData/WD~Şehzade_Bayezid,2606870]]"
-  - "[[_Standards/WikiData/WD~Şehzade_Mehmed,2991195]]"
-  - "[[_Standards/WikiData/WD~Raziye_Sultan,3180990]]"
-  - "[[_Standards/WikiData/WD~Șehzade_Cihangir,4809153]]"
-  - "[[_Standards/WikiData/WD~Şehzade_Abdullah,6003966]]"
-  - "[[_Standards/WikiData/WD~Şehzade_Mahmud,12813057]]"
-  - "[[_Standards/WikiData/WD~Шехзаде_Ахмед,18234101]]"
-  - "[[_Standards/WikiData/WD~Şehzade_Murad,19628688]]"
-  - "[[_Standards/WikiData/WD~Фатьма_Нур,24956078]]"
+  - '[[_Standards/WikiData/WD~Mihrimah_Sultan,80764]]'
+  - '[[_Standards/WikiData/WD~Selim_II,161872]]'
+  - '[[_Standards/WikiData/WD~Şehzade_Mustafa,1251392]]'
+  - '[[_Standards/WikiData/WD~Şehzade_Bayezid,2606870]]'
+  - '[[_Standards/WikiData/WD~Şehzade_Mehmed,2991195]]'
+  - '[[_Standards/WikiData/WD~Raziye_Sultan,3180990]]'
+  - '[[_Standards/WikiData/WD~Șehzade_Cihangir,4809153]]'
+  - '[[_Standards/WikiData/WD~Şehzade_Abdullah,6003966]]'
+  - '[[_Standards/WikiData/WD~Şehzade_Mahmud,12813057]]'
+  - '[[_Standards/WikiData/WD~Шехзаде_Ахмед,18234101]]'
+  - '[[_Standards/WikiData/WD~Şehzade_Murad,19628688]]'
+  - '[[_Standards/WikiData/WD~Фатьма_Нур,24956078]]'
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~ruler,1097498]]"
-  - "[[_Standards/WikiData/WD~military_leader,1402561]]"
-  - "[[_Standards/WikiData/WD~legislator,4175034]]"
-  - "[[_Standards/WikiData/WD~sultan,43292]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-cause_of_death: "[[_Standards/WikiData/WD~dysentery,129279]]"
-part_of: "[[_Standards/WikiData/WD~Ottoman_dynasty,193383]]"
-family: "[[_Standards/WikiData/WD~Ottoman_dynasty,193383]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~ruler,1097498]]'
+  - '[[_Standards/WikiData/WD~military_leader,1402561]]'
+  - '[[_Standards/WikiData/WD~legislator,4175034]]'
+  - '[[_Standards/WikiData/WD~sultan,43292]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
+cause_of_death: '[[_Standards/WikiData/WD~dysentery,129279]]'
+part_of: '[[_Standards/WikiData/WD~Ottoman_dynasty,193383]]'
+family: '[[_Standards/WikiData/WD~Ottoman_dynasty,193383]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Hürrem_Sultan,255809]]"
-  - "[[_Standards/WikiData/WD~Gülfem_Hatun,3180968]]"
-  - "[[_Standards/WikiData/WD~Fülane_Hatun,3180976]]"
-  - "[[_Standards/WikiData/WD~Mahidevran,59080]]"
-place_of_death: "[[_Standards/WikiData/WD~Szigetvár,373542]]"
-father: "[[_Standards/WikiData/WD~Selim_I,494660]]"
+  - '[[_Standards/WikiData/WD~Hürrem_Sultan,255809]]'
+  - '[[_Standards/WikiData/WD~Gülfem_Hatun,3180968]]'
+  - '[[_Standards/WikiData/WD~Fülane_Hatun,3180976]]'
+  - '[[_Standards/WikiData/WD~Mahidevran,59080]]'
+place_of_death: '[[_Standards/WikiData/WD~Szigetvár,373542]]'
+father: '[[_Standards/WikiData/WD~Selim_I,494660]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Internetowa_encyklopedia_PWN,4041526]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-relative: "[[_Standards/WikiData/WD~Rüstem_Paşa,642614]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Internetowa_encyklopedia_PWN,4041526]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+relative: '[[_Standards/WikiData/WD~Rüstem_Paşa,642614]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~military_affairs,1791716]]"
-  - "[[_Standards/WikiData/WD~politics,7163]]"
-given_name: "[[_Standards/WikiData/WD~Suleiman,1806880]]"
-mother: "[[_Standards/WikiData/WD~Hafsa_Sultan,2425979]]"
+  - '[[_Standards/WikiData/WD~military_affairs,1791716]]'
+  - '[[_Standards/WikiData/WD~politics,7163]]'
+given_name: '[[_Standards/WikiData/WD~Suleiman,1806880]]'
+mother: '[[_Standards/WikiData/WD~Hafsa_Sultan,2425979]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Gülfem_Hatun,3180968]]"
-  - "[[_Standards/WikiData/WD~Fülane_Hatun,3180976]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-position_held: "[[_Standards/WikiData/WD~sultan_of_the_Ottoman_Empire,15315411]]"
-depicted_by: "[[_Standards/WikiData/WD~Sultan_Suleiman_in_profile,27981380]]"
-place_of_burial: "[[_Standards/WikiData/WD~Tomb_of_Suleiman_the_Magnificent,55698717]]"
+  - '[[_Standards/WikiData/WD~Gülfem_Hatun,3180968]]'
+  - '[[_Standards/WikiData/WD~Fülane_Hatun,3180976]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+position_held: '[[_Standards/WikiData/WD~sultan_of_the_Ottoman_Empire,15315411]]'
+depicted_by: '[[_Standards/WikiData/WD~Sultan_Suleiman_in_profile,27981380]]'
+place_of_burial: '[[_Standards/WikiData/WD~Tomb_of_Suleiman_the_Magnificent,55698717]]'
 date_of_death: 1566-09-06T00:00:00Z
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Turkish,256]]"
-  - "[[_Standards/WikiData/WD~Persian,9168]]"
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
-present_in_work: "[[_Standards/WikiData/WD~Civilization_V,2385]]"
-allegiance: "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-noble_title: "[[_Standards/WikiData/WD~sultan,43292]]"
-place_of_birth: "[[_Standards/WikiData/WD~Trabzon,45301]]"
+  - '[[_Standards/WikiData/WD~Turkish,256]]'
+  - '[[_Standards/WikiData/WD~Persian,9168]]'
+  - '[[_Standards/WikiData/WD~Arabic,13955]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
+present_in_work: '[[_Standards/WikiData/WD~Civilization_V,2385]]'
+allegiance: '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+noble_title: '[[_Standards/WikiData/WD~sultan,43292]]'
+place_of_birth: '[[_Standards/WikiData/WD~Trabzon,45301]]'
 BHCL_UUID: 91dd8116-e2a2-4a2c-96e1-5810bc52b2a0
 Commons_category: Suleiman I
 Commons_Creator_page: Suleiman I
 image: http://commons.wikimedia.org/wiki/Special:FilePath/EmperorSuleiman.jpg
 monogram: http://commons.wikimedia.org/wiki/Special:FilePath/Tughra%20of%20Suleiman%20I%20the%20Magnificent.svg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Tughra%20of%20Suleiman%20I%20the%20Magnificent.svg
-ISNI: "0000000121029740"
+ISNI: 0000000121029740
 Provenio_UUID:
   - 6db09f63-a914-4477-920d-80dbefccd4b5
   - b389d750-7b49-43d6-8eee-ba75f6f548c9

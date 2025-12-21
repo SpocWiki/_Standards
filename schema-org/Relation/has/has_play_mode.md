@@ -3,23 +3,24 @@ aliases:
   - has play-mode
   - playMode
   - has_play_mode
+  - has play mode
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - play_mode
   - play
   - mode
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_play_mode
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

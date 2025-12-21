@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Star-Class~N
 confidential: public
 isDeleted: false
 isReadOnly: false

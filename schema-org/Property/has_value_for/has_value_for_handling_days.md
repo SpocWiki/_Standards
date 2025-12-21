@@ -4,21 +4,22 @@ aliases:
   - handling-time
   - handlingTime
   - has_value_for_handling_days
+  - has value for handling days
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - handling-time
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_handling-time
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

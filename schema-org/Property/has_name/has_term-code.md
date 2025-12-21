@@ -4,22 +4,24 @@ aliases:
   - term_code
   - termCode
   - has_text_of_term_code
+  - has_term-code
+  - has term-code
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - term
   - code
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_term_code
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

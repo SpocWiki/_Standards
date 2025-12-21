@@ -4,20 +4,22 @@ aliases:
   - category_code_set
   - CategoryCodeSet
   - is_a_category_code_set
+  - Category_Code_Set
+  - Category Code Set
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - category_code_set
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_category_code_set Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

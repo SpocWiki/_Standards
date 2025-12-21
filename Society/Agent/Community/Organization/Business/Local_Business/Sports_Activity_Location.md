@@ -4,20 +4,22 @@ aliases:
   - sports_activity_location
   - SportsActivityLocation
   - is_a_sports_activity_location
+  - Sports_Activity_Location
+  - Sports Activity Location
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sports_activity_location
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_sports_activity_location Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

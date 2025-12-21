@@ -1,29 +1,30 @@
 ---
 aliases:
-- has-occupation
-- hasOccupation
-- has_occupation
-- "schema:occupation"
-- "dbo:occupation"
-- "wdt:P106"
+  - has-occupation
+  - hasOccupation
+  - has_occupation
+  - schema:occupation
+  - dbo:occupation
+  - wdt:P106
+  - has occupation
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- occupation
-layout: 
-license: "CC BY-SA 4.0"
+  - occupation
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_occupation
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_occupation
 type: Predi_Relation
 ---

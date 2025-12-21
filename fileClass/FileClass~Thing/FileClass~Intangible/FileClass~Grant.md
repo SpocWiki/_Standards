@@ -1,38 +1,40 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Grant
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: 4TwFrd
-  name: FundedItem
-  options:
-    dvQueryString: "dv.pages('#class/Thing/BioChemEntity')"
-  type: MultiFile
-  path: ''
-- id: KIQquH
-  name: Funder
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: X8iBiG
-  name: Sponsor
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
+  - id: 4TwFrd
+    name: FundedItem
+    options:
+      dvQueryString: dv.pages('#class/Thing/BioChemEntity')
+    type: MultiFile
+    path: ''
+  - id: KIQquH
+    name: Funder
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: X8iBiG
+    name: Sponsor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Grant
-- class/Thing/Intangible/Grant
-- is_a_/Grant
-- schema-org/Grant
+  - class/Grant
+  - class/Thing/Intangible/Grant
+  - is_a_/Grant
+  - schema-org/Grant
 tags:
-- class/FileClass
-- class/Grant
-- is_a_/Grant
-- class/Thing/Intangible/Grant
+  - class/FileClass
+  - class/Grant
+  - is_a_/Grant
+  - class/Thing/Intangible/Grant
 version: 2.0
 ---
 

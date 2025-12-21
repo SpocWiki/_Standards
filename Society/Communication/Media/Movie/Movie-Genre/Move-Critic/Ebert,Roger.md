@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Roger Ebert"
+  - Roger Ebert
+  - Ebert,Roger
 ---
 
 #has_/time_/started :: 1942-06-18 

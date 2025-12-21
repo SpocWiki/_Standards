@@ -1,25 +1,27 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MedicalGuidelineRecommendation
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline
 fields:
-- id: 4wovF1
-  name: RecommendationStrength
-  options: {}
-  type: Input
-  path: ''
+  - id: 4wovF1
+    name: RecommendationStrength
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MedicalGuidelineRecommendation
-- class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineRecommendation
-- is_a_/MedicalGuidelineRecommendation
-- schema-org/MedicalGuidelineRecommendation
+  - class/MedicalGuidelineRecommendation
+  - class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineRecommendation
+  - is_a_/MedicalGuidelineRecommendation
+  - schema-org/MedicalGuidelineRecommendation
 tags:
-- class/FileClass
-- class/MedicalGuidelineRecommendation
-- is_a_/MedicalGuidelineRecommendation
-- class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineRecommendation
+  - class/FileClass
+  - class/MedicalGuidelineRecommendation
+  - is_a_/MedicalGuidelineRecommendation
+  - class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineRecommendation
 version: 2.0
 ---
 

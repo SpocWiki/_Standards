@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Black Hole (1979)"
+  - Black Hole (1979)
+  - Black_Hole(1979)
+  - Black Hole(1979)
 ---
 
 # [[Black_Hole(1979)]] 

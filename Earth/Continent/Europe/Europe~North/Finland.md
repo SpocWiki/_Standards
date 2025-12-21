@@ -1,11 +1,20 @@
 ---
+aliases:
+  - Finland
+  - Finlandia
+  - Finlande
+  - فنلندا
+  - 芬兰
+  - Финляндия
+  - the Republic of Finland
+  - la República de Finlandia
+has_id_wikidata: Q33
 location:
   - 62.3173
   - 25.4668
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q33
 SpocWebEntityId: 26891
 isDeleted: false
 confidential: public
@@ -16,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Finland
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Finland
-  - Finlandia
-  - Finlande
-  - فنلندا
-  - 芬兰
-  - Финляндия
-  - the Republic of Finland
-  - la República de Finlandia
+publishDate: ""
+expiryDate: ""
 Languages:
   - fi-FI
   - sv-FI

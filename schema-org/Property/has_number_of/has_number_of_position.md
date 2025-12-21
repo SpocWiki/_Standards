@@ -4,21 +4,22 @@ aliases:
   - position
   - position
   - has_number_of_position
+  - has number of position
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - position
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_position
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

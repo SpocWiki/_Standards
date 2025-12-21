@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Group-07-Manganese
 type: ElementGroup
 ---
 

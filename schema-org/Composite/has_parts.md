@@ -1,30 +1,31 @@
 ---
 aliases:
-- has-parts
-- parts
-- hasParts
-- has_parts
-- "schema:hasPart"
-- "dbo:hasPart"
-- "wdt:P527"
+  - has-parts
+  - parts
+  - hasParts
+  - has_parts
+  - schema:hasPart
+  - dbo:hasPart
+  - wdt:P527
+  - has parts
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- part
-layout: 
-license: "CC BY-SA 4.0"
+  - part
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_parts
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_parts
 type: Predi_Relation
 ---

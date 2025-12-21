@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Californium
+has_id_wikidata: Q1888
 atomic_number: 98
 canonical_SMILES: '[Cf]'
 CAS_Registry_Number: 7440-71-3
@@ -8,39 +11,38 @@ density: 15.1
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 Dewey_Decimal_Classification: 546.448
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]'
-- '[[_Standards/WikiData/WD~Kenneth_Street_Jr.,1989591]]'
-- '[[_Standards/WikiData/WD~Stanley_Gerald_Thompson,3068373]]'
-- '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
+  - '[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]'
+  - '[[_Standards/WikiData/WD~Kenneth_Street_Jr.,1989591]]'
+  - '[[_Standards/WikiData/WD~Stanley_Gerald_Thompson,3068373]]'
+  - '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
 DSSTOX_compound_identifier: DTXCID00147883
 electronegativity: 1.3
-electron_configuration: "[Rn] 5f¹⁰ 7s²"
+electron_configuration: '[Rn] 5f¹⁰ 7s²'
 element_symbol: Cf
-has_id_wikidata: Q1888
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Californium.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Californium.jpg
 InChI: InChI=1S/Cf
 InChIKey: HGLDOAKPQXAFKI-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - '[[_Standards/WikiData/WD~synthetic_element,755992]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-- 0.82
-- 0.92
-- 0.95
+  - 0.82
+  - 0.92
+  - 0.95
 location_of_discovery: '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
 melting_point: 1173
 MeSH_tree_code:
-- D01.268.271.100.150
-- D01.268.556.156
-- D01.496.749.305.100.150
-- D01.552.020.200
-- D01.552.544.156
+  - D01.268.271.100.150
+  - D01.268.556.156
+  - D01.496.749.305.100.150
+  - D01.552.020.200
+  - D01.552.544.156
 named_after: '[[_Standards/WikiData/WD~California,99]]'
 OmegaWiki_Defined_Meaning: 156905
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~actinide,19577]]'
-plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20143.jpg"
+  - '[[_Standards/WikiData/WD~period_7,244979]]'
+  - '[[_Standards/WikiData/WD~actinide,19577]]'
+plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20143.jpg
 PubChem_CID: 23997
 SpocWebEntityId: 21993
 time_of_discovery_or_invention: 1950

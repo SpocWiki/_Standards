@@ -2,12 +2,13 @@
 aliases:
   - has current-exchange-rate
   - has_current_exchange_rate
+  - has current exchange rate
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - rate
   - current_exchange_rate
   - currentExchangeRate
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_current_exchange_rate
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

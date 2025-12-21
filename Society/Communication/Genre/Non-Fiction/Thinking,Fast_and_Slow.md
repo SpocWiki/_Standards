@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Thinking, Fast and Slow"
+  - Thinking, Fast and Slow
+  - Thinking,Fast_and_Slow
+  - Thinking,Fast and Slow
 ---
 
 > **Thinking, Fast and Slow** is a 2011 popular science book by psychologist [[../../../../../../../_protect/bio/Psychology/Psychologist/Kahnemann,Daniel]].

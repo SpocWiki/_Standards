@@ -1,26 +1,28 @@
 ---
+aliases:
+  - Gas
+has_id_wikidata: Q11432
 Commons_category: Gases
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Dewey_Decimal_Classification: 530.43
 different_from:
-  - "[[_Standards/WikiData/WD~Gaz,30067]]"
-  - "[[_Standards/WikiData/WD~gasoline,39558]]"
-  - "[[_Standards/WikiData/WD~natural_gas,40858]]"
-has_characteristic: "[[_Standards/WikiData/WD~viscosity,128709]]"
-has_id_wikidata: Q11432
+  - '[[_Standards/WikiData/WD~Gaz,30067]]'
+  - '[[_Standards/WikiData/WD~gasoline,39558]]'
+  - '[[_Standards/WikiData/WD~natural_gas,40858]]'
+has_characteristic: '[[_Standards/WikiData/WD~viscosity,128709]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kinetic%20theory%20of%20gases.svg
-instance_of: "[[_Standards/WikiData/WD~fundamental_state_of_matter,15831576]]"
+instance_of: '[[_Standards/WikiData/WD~fundamental_state_of_matter,15831576]]'
 Krugosvet_article: nauka_i_tehnika/himiya/GAZ.html
-less_than: "[[_Standards/WikiData/WD~liquid,11435]]"
-manifestation_of: "[[_Standards/WikiData/WD~gaseous_state_of_matter,29147941]]"
+less_than: '[[_Standards/WikiData/WD~liquid,11435]]'
+manifestation_of: '[[_Standards/WikiData/WD~gaseous_state_of_matter,29147941]]'
 MeSH_tree_code: D01.362
 OmegaWiki_Defined_Meaning: 1609
-subclass_of: "[[_Standards/WikiData/WD~fluid,102205]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q6509956,6509956]]"
+subclass_of: '[[_Standards/WikiData/WD~fluid,102205]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q6509956,6509956]]'
 U_S_National_Archives_Identifier: 10637828
 ---
 

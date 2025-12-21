@@ -4,23 +4,24 @@ aliases:
   - id_of_vehicle
   - vehicleIdentificationNumber
   - has_id_of_vehicle
+  - has id of vehicle
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - vehicle
   - identification
   - number
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_id_of_vehicle
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

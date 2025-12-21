@@ -4,22 +4,24 @@ aliases:
   - role_
   - roleName
   - has_role_
+  - has_role
+  - has role
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - role
   - name
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_role_
 publish: true
-publishDate:
+publishDate: ''
 supersedes: namedPosition
 tags:
   - class/Property

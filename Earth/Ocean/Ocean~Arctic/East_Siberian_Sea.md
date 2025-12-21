@@ -1,37 +1,38 @@
 ---
 aliases:
   - East Siberian Sea
+  - East_Siberian_Sea
 has_id_wikidata: Q163434
 inflows:
-  - "[[_Standards/WikiData/WD~Kolyma,78879]]"
-  - "[[_Standards/WikiData/WD~Indigirka,82207]]"
-  - "[[_Standards/WikiData/WD~Alazeya,82228]]"
-  - "[[_Standards/WikiData/WD~Khroma,1087566]]"
+  - '[[_Standards/WikiData/WD~Kolyma,78879]]'
+  - '[[_Standards/WikiData/WD~Indigirka,82207]]'
+  - '[[_Standards/WikiData/WD~Alazeya,82228]]'
+  - '[[_Standards/WikiData/WD~Khroma,1087566]]'
   - "[[_Standards/WikiData/WD~Bol'shaya_Khomus_Yuryakh,1108208]]"
   - "[[_Standards/WikiData/WD~Kon'kovaya,1108225]]"
-  - "[[_Standards/WikiData/WD~Pegtymel_River,1111274]]"
-  - "[[_Standards/WikiData/WD~Bolshaya_Chukochya_River,1548523]]"
-  - "[[_Standards/WikiData/WD~Sundrun,1888672]]"
-  - "[[_Standards/WikiData/WD~Balyktakh,2573871]]"
-  - "[[_Standards/WikiData/WD~Rauchua,2574082]]"
+  - '[[_Standards/WikiData/WD~Pegtymel_River,1111274]]'
+  - '[[_Standards/WikiData/WD~Bolshaya_Chukochya_River,1548523]]'
+  - '[[_Standards/WikiData/WD~Sundrun,1888672]]'
+  - '[[_Standards/WikiData/WD~Balyktakh,2573871]]'
+  - '[[_Standards/WikiData/WD~Rauchua,2574082]]'
   - "[[_Standards/WikiData/WD~Bol'shaya_Kuropatoch'ya,3641681]]"
-  - "[[_Standards/WikiData/WD~Gusinaya_River,3779880]]"
+  - '[[_Standards/WikiData/WD~Gusinaya_River,3779880]]'
   - "[[_Standards/WikiData/WD~Malaya_Kuropatoch'ya,3843763]]"
   - "[[_Standards/WikiData/WD~Bol'shoy_Eterikan,12088329]]"
-  - "[[_Standards/WikiData/WD~Kitepveyem,14943293]]"
-  - "[[_Standards/WikiData/WD~Nanuk,16679547]]"
-  - "[[_Standards/WikiData/WD~Yttykkulveem,23846554]]"
+  - '[[_Standards/WikiData/WD~Kitepveyem,14943293]]'
+  - '[[_Standards/WikiData/WD~Nanuk,16679547]]'
+  - '[[_Standards/WikiData/WD~Yttykkulveem,23846554]]'
   - "[[_Standards/WikiData/WD~Teyukuul',23846660]]"
-  - "[[_Standards/WikiData/WD~Kuyviveem,24001523]]"
-  - "[[_Standards/WikiData/WD~Neozhidannaya,36157464]]"
-  - "[[_Standards/WikiData/WD~Gusinaya,36160783]]"
+  - '[[_Standards/WikiData/WD~Kuyviveem,24001523]]'
+  - '[[_Standards/WikiData/WD~Neozhidannaya,36157464]]'
+  - '[[_Standards/WikiData/WD~Gusinaya,36160783]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Q35541239,35541239]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
-part_of: "[[_Standards/WikiData/WD~Arctic_Ocean,788]]"
-basin_country: "[[_Standards/WikiData/WD~Russia,159]]"
-country: "[[_Standards/WikiData/WD~Russia,159]]"
-instance_of: "[[_Standards/WikiData/WD~sea,165]]"
+  - '[[_Standards/WikiData/WD~Q35541239,35541239]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+part_of: '[[_Standards/WikiData/WD~Arctic_Ocean,788]]'
+basin_country: '[[_Standards/WikiData/WD~Russia,159]]'
+country: '[[_Standards/WikiData/WD~Russia,159]]'
+instance_of: '[[_Standards/WikiData/WD~sea,165]]'
 vertical_depth: 155
 area: 987000
 image: http://commons.wikimedia.org/wiki/Special:FilePath/East%20Siberia%20Sea.jpg

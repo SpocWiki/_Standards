@@ -3,6 +3,7 @@ aliases:
   - silverware
   - flatware
   - Besteck
+  - Cutlery
 has_id_wikidata: Q81944
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -21,27 +22,27 @@ different_from:
   - "[[_Standards/WikiData/WD~cutlery,2247610]]"
   - "[[_Standards/WikiData/WD~Flatware,8563682]]"
 used_by: "[[_Standards/WikiData/WD~eater,20984678]]"
-Nomenclature_for_Museum_Cataloging: "5033"
-OmegaWiki_Defined_Meaning: "1383297"
+Nomenclature_for_Museum_Cataloging: 5033
+OmegaWiki_Defined_Meaning: 1383297
 Dewey_Decimal_Classification:
-  - "643.3"
-  - "683.82"
-  - "642.7"
-  - "739.2383"
+  - 643.3
+  - 683.82
+  - 642.7
+  - 739.2383
 Commons_gallery: Cutlery
 Commons_category: Cutlery
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Cutlery%20on%20table.ogg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Besteck.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nuovo%20Milano%20Sottsass.JPG
 Unicode_character: 🍴
-U_S_National_Archives_Identifier: "10643698"
-Common_Procurement_Vocabulary_code: "39240000"
+U_S_National_Archives_Identifier: 10643698
+Common_Procurement_Vocabulary_code: 39240000
 Wolfram_Language_entity_code:
   - Entity["Concept", "EatingUtensil::326hc"]
   - Entity["Concept", "Flatware::m8393"]
 ---
 
-# [[Cutlery]] 
+# [[Cutlery]] 🍴 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Cutlery,81944|WD~Cutlery,81944]] 
 

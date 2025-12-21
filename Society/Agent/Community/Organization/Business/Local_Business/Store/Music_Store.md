@@ -4,20 +4,22 @@ aliases:
   - music_store
   - MusicStore
   - is_a_music_store
+  - Music_Store
+  - Music Store
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - music_store
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_music_store Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

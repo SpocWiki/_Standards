@@ -3,23 +3,24 @@ aliases:
   - has observed-node
   - observedNode
   - has_observed_node
+  - has observed node
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - observed_node
   - observed
   - node
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_observed_node
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

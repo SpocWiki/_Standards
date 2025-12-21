@@ -1,16 +1,17 @@
 ---
 aliases:
   - Council for Mutual Economic Assistance
+  - COMECON
 has_id_wikidata: Q191582
 instance_of:
-  - "[[_Standards/WikiData/WD~international_organization,484652]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Comecon,5869261]]"
+  - '[[_Standards/WikiData/WD~international_organization,484652]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Comecon,5869261]]'
 different_from:
-  - "[[_Standards/WikiData/WD~list_of_comic_book_conventions,6611889]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Country_data_Comecon,8550649]]"
+  - '[[_Standards/WikiData/WD~list_of_comic_book_conventions,6611889]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Country_data_Comecon,8550649]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Moscow,649]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Moscow,649]]'
 BHCL_UUID:
   - 54e076fb-06f8-4ba2-8ebe-543534736c16
   - ebb84fa3-2389-4d89-967d-c134550510c4
@@ -20,8 +21,8 @@ dissolved_abolished_or_demolished_date: 1991-06-28T00:00:00Z
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Comecon.svg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20of%20Comecon.svg
 ISNI:
-  - "0000000121227536"
-P8189: "987007524779805171"
+  - 0000000121227536
+P8189: 987007524779805171
 Commons_gallery: Comecon
 Commons_category: Comecon
 EU_Corporate_body_code: COMECON

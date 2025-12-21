@@ -4,21 +4,22 @@ aliases:
   - engine-displacement
   - engineDisplacement
   - has_value_for_engine_displacement
+  - has value for engine displacement
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - engine-displacement
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_engine-displacement
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

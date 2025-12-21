@@ -2,24 +2,25 @@
 aliases:
   - Germanic language
   - Germanic languages
+  - LangFamily-Germanic
 has_id_wikidata: Q21200
 model_item:
-  - "[[_Standards/WikiData/WD~North_Germanic,106085]]"
-  - "[[_Standards/WikiData/WD~East_Germanic,108662]]"
-  - "[[_Standards/WikiData/WD~West_Germanic,26721]]"
+  - '[[_Standards/WikiData/WD~North_Germanic,106085]]'
+  - '[[_Standards/WikiData/WD~East_Germanic,108662]]'
+  - '[[_Standards/WikiData/WD~West_Germanic,26721]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-studied_by: "[[_Standards/WikiData/WD~Germanic_philology,2620112]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Germanic_languages,6118733]]"
-subclass_of: "[[_Standards/WikiData/WD~Indo_European,19860]]"
-instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
-ABS_ASCL_2011_code: "13"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+studied_by: '[[_Standards/WikiData/WD~Germanic_philology,2620112]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Germanic_languages,6118733]]'
+subclass_of: '[[_Standards/WikiData/WD~Indo_European,19860]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
+ABS_ASCL_2011_code: 13
 Dewey_Decimal_Classification:
-  - "430"
+  - 430
   - 6--3
 ISO_639_5_code: gem
 IETF_language_tag: gem

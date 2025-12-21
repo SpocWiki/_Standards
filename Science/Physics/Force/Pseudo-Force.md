@@ -1,10 +1,11 @@
 ---
 aliases:
   - fictitious force
-  - inertial force 
+  - inertial force
   - pseudo-force
   - pseudo force
-has_id_wikidata:
+  - Pseudo-Force
+has_id_wikidata: ''
 ---
 
 # [[Pseudo-Force]] 

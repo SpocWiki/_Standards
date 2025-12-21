@@ -4,21 +4,22 @@ aliases:
   - percentile75
   - percentile75
   - has_value_for_percentile75
+  - has value for percentile75
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - percentile75
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_percentile75
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

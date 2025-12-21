@@ -2,23 +2,24 @@
 aliases:
   - Tonne
   - metric ton
+  - Unit~Tonne
 has_id_wikidata: Q191118
 different_from:
-  - "[[_Standards/WikiData/WD~Tonne,1171870]]"
-  - "[[_Standards/WikiData/WD~ton,11247037]]"
-  - "[[_Standards/WikiData/WD~Q22583225,22583225]]"
+  - '[[_Standards/WikiData/WD~Tonne,1171870]]'
+  - '[[_Standards/WikiData/WD~ton,11247037]]'
+  - '[[_Standards/WikiData/WD~Q22583225,22583225]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]"
-  - "[[_Standards/WikiData/WD~unit_of_mass,3647172]]"
-  - "[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]"
-  - "[[_Standards/WikiData/WD~SI_accepted_non_SI_unit,106839753]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~megagram,11776930]]"
-subclass_of: "[[_Standards/WikiData/WD~Chiliad,42531917]]"
-measured_physical_quantity: "[[_Standards/WikiData/WD~mass,11423]]"
-has_part_s_: "[[_Standards/WikiData/WD~kilogram,11570]]"
+  - '[[_Standards/WikiData/WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]'
+  - '[[_Standards/WikiData/WD~unit_of_mass,3647172]]'
+  - '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+  - '[[_Standards/WikiData/WD~SI_accepted_non_SI_unit,106839753]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~megagram,11776930]]'
+subclass_of: '[[_Standards/WikiData/WD~Chiliad,42531917]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~mass,11423]]'
+has_part_s_: '[[_Standards/WikiData/WD~kilogram,11570]]'
 conversion_to_standard_unit:
   - 1000000000000
   - 1000000000
@@ -37,7 +38,7 @@ conversion_to_standard_unit:
   - 643014.9
   - 0.9842065
 conversion_to_SI_unit: 1000
-OmegaWiki_Defined_Meaning: "951690"
+OmegaWiki_Defined_Meaning: 951690
 unit_symbol:
   - t
   - t

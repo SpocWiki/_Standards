@@ -4,20 +4,22 @@ aliases:
   - choose_action
   - ChooseAction
   - is_a_choose_action
+  - Choose_Action
+  - Choose Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - choose_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_choose_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

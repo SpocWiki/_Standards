@@ -4,20 +4,22 @@ aliases:
   - middle_school
   - MiddleSchool
   - is_a_middle_school
+  - Middle_School
+  - Middle School
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - middle_school
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_middle_school Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

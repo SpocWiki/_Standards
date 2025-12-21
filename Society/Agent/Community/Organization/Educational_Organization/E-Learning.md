@@ -4,28 +4,29 @@ aliases:
   - edutech
   - edtech
   - Educational technology
+  - E-Learning
 has_id_wikidata: Q182250
 subclass_of:
-  - "[[_Standards/WikiData/WD~learning,133500]]"
-  - "[[_Standards/WikiData/WD~distance_education,159595]]"
-  - "[[_Standards/WikiData/WD~computer_assisted_instruction,11303220]]"
-  - "[[_Standards/WikiData/WD~computer_aided_learning,123298994]]"
+  - '[[_Standards/WikiData/WD~learning,133500]]'
+  - '[[_Standards/WikiData/WD~distance_education,159595]]'
+  - '[[_Standards/WikiData/WD~computer_assisted_instruction,11303220]]'
+  - '[[_Standards/WikiData/WD~computer_aided_learning,123298994]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~self_education,2267590]]"
-  - "[[_Standards/WikiData/WD~Q123298903,123298903]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~virtual_education,3199031]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]"
-instance_of: "[[_Standards/WikiData/WD~learning_approach,130609847]]"
-part_of: "[[_Standards/WikiData/WD~education,8434]]"
-IAB_code: "148"
-ACM_Classification_Code_2012_: "10010495"
-OmegaWiki_Defined_Meaning: "986296"
+  - '[[_Standards/WikiData/WD~self_education,2267590]]'
+  - '[[_Standards/WikiData/WD~Q123298903,123298903]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~virtual_education,3199031]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]'
+instance_of: '[[_Standards/WikiData/WD~learning_approach,130609847]]'
+part_of: '[[_Standards/WikiData/WD~education,8434]]'
+IAB_code: 148
+ACM_Classification_Code_2012_: 10010495
+OmegaWiki_Defined_Meaning: 986296
 ComputerLanguage_com_definition: e-learning
 Dewey_Decimal_Classification:
-  - "374.26"
-  - "371.3344678"
-  - "371.358"
-  - "378.17344678"
+  - 374.26
+  - 371.3344678
+  - 371.358
+  - 378.17344678
 Commons_category: E-learning
 IEV_number: 171-09-15
 GitHub_topic: elearning

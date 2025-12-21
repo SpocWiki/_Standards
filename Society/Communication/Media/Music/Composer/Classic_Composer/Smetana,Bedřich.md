@@ -1,9 +1,10 @@
 ---
-has_id_wikidata: 
 aliases:
   - Bedřich Smetana
   - Bedrich Smetana
-  - Smetana,Bedrich 
+  - Smetana,Bedrich
+  - Smetana,Bedřich
+has_id_wikidata: ''
 ---
 
 # [[Smetana,Bedřich]] 

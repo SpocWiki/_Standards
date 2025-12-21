@@ -1,23 +1,24 @@
 ---
 aliases:
   - Unkraut
+  - Weed
 has_id_wikidata: Q101879
 subclass_of:
-  - "[[_Standards/WikiData/WD~pest,219174]]"
-  - "[[_Standards/WikiData/WD~plant,756]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Beikraut,814728]]"
-different_from: "[[_Standards/WikiData/WD~Q10857265,10857265]]"
+  - '[[_Standards/WikiData/WD~pest,219174]]'
+  - '[[_Standards/WikiData/WD~plant,756]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Beikraut,814728]]'
+different_from: '[[_Standards/WikiData/WD~Q10857265,10857265]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-OmegaWiki_Defined_Meaning: "4134"
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+OmegaWiki_Defined_Meaning: 4134
 Commons_gallery: Weed
-U_S_National_Archives_Identifier: "10662855"
+U_S_National_Archives_Identifier: 10662855
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stairs%20with%20weed.jpg
 Iconclass_notation: 47I119
 MeSH_tree_code: B01.650.449
 Commons_category: Weeds (plants)
-Dewey_Decimal_Classification: "632.5"
+Dewey_Decimal_Classification: 632.5
 ---
 
 # [[Weed]] 

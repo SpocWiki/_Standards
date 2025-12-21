@@ -1,21 +1,22 @@
 ---
 aliases:
   - Supermarkt
+  - Supermarket
 has_id_wikidata: Q180846
 subclass_of:
-  - "[[_Standards/WikiData/WD~shop,213441]]"
-  - "[[_Standards/WikiData/WD~commercial_building,655686]]"
-  - "[[_Standards/WikiData/WD~brick_and_mortar,726870]]"
-  - "[[_Standards/WikiData/WD~grocery_store,1295201]]"
-  - "[[_Standards/WikiData/WD~facility,13226383]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q883504,883504]]"
+  - '[[_Standards/WikiData/WD~shop,213441]]'
+  - '[[_Standards/WikiData/WD~commercial_building,655686]]'
+  - '[[_Standards/WikiData/WD~brick_and_mortar,726870]]'
+  - '[[_Standards/WikiData/WD~grocery_store,1295201]]'
+  - '[[_Standards/WikiData/WD~facility,13226383]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q883504,883504]]'
 uses:
-  - "[[_Standards/WikiData/WD~self_service,1369310]]"
-  - "[[_Standards/WikiData/WD~supermarket_building,76211894]]"
-industry: "[[_Standards/WikiData/WD~food_retail_sector,15825471]]"
+  - '[[_Standards/WikiData/WD~self_service,1369310]]'
+  - '[[_Standards/WikiData/WD~supermarket_building,76211894]]'
+industry: '[[_Standards/WikiData/WD~food_retail_sector,15825471]]'
 Commons_gallery: Supermarket
 IMDb_keyword: supermarket
-OmegaWiki_Defined_Meaning: "502263"
+OmegaWiki_Defined_Meaning: 502263
 Commons_category: Supermarkets
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Scheck%20In%20-%20%281%29.jpg
 exact_match: http://wordnet-rdf.princeton.edu/wn31/104365794-n
@@ -23,7 +24,7 @@ UMLS_CUI: C0557778
 MeSH_tree_code: J01.576.423.750.937
 Baidu_Tieba_name: 超市
 OpenStreetMap_tag: shop=supermarket
-Dewey_Decimal_Classification: "381.149"
+Dewey_Decimal_Classification: 381.149
 ---
 
 # [[Supermarket]] 

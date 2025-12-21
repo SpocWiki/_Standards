@@ -4,21 +4,22 @@ aliases:
   - additional-number-of-guests
   - additionalNumberOfGuests
   - has_number_of_additional_number_of_guests
+  - has number of additional number of guests
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - additional-number-of-guests
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_additional-number-of-guests
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

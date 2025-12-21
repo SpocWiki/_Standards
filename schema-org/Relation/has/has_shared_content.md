@@ -3,23 +3,24 @@ aliases:
   - has shared-content
   - sharedContent
   - has_shared_content
+  - has shared content
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - shared_content
   - shared
   - content
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_shared_content
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

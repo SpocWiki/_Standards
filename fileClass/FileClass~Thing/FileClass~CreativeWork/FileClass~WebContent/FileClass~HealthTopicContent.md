@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~HealthTopicContent
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/HealthTopicContent
-- class/Thing/CreativeWork/WebContent/HealthTopicContent
-- is_a_/HealthTopicContent
-- schema-org/HealthTopicContent
+  - class/HealthTopicContent
+  - class/Thing/CreativeWork/WebContent/HealthTopicContent
+  - is_a_/HealthTopicContent
+  - schema-org/HealthTopicContent
 tags:
-- class/FileClass
-- class/HealthTopicContent
-- is_a_/HealthTopicContent
-- class/Thing/CreativeWork/WebContent/HealthTopicContent
+  - class/FileClass
+  - class/HealthTopicContent
+  - is_a_/HealthTopicContent
+  - class/Thing/CreativeWork/WebContent/HealthTopicContent
 version: 2.0
 ---
 

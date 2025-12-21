@@ -1,21 +1,22 @@
 ---
 aliases:
   - Infrastruktur
+  - Infrastructure
 has_id_wikidata: Q121359
 part_of:
-  - "[[_Standards/WikiData/WD~economy,159810]]"
-  - "[[_Standards/WikiData/WD~logistics,177777]]"
-  - "[[_Standards/WikiData/WD~society,8425]]"
+  - '[[_Standards/WikiData/WD~economy,159810]]'
+  - '[[_Standards/WikiData/WD~logistics,177777]]'
+  - '[[_Standards/WikiData/WD~society,8425]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~Infrastructure_bias,6031565]]"
-  - "[[_Standards/WikiData/WD~type_of_infrastructure,131339603]]"
-subclass_of: "[[_Standards/WikiData/WD~structure,6671777]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infrastructure,8084842]]"
-facet_of: "[[_Standards/WikiData/WD~infrastructure_and_economics,19720704]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_infrastructure,22908914]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_structure,111972893]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+  - '[[_Standards/WikiData/WD~Infrastructure_bias,6031565]]'
+  - '[[_Standards/WikiData/WD~type_of_infrastructure,131339603]]'
+subclass_of: '[[_Standards/WikiData/WD~structure,6671777]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infrastructure,8084842]]'
+facet_of: '[[_Standards/WikiData/WD~infrastructure_and_economics,19720704]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_infrastructure,22908914]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_structure,111972893]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 subreddit:
   - infrastructure
   - InfrastructurePorn

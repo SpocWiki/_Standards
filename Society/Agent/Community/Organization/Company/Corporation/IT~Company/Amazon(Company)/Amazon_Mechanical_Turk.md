@@ -1,6 +1,8 @@
 ---
 aliases:
   - MTurk
+  - Amazon_Mechanical_Turk
+  - Amazon Mechanical Turk
 ---
 # [[Amazon_Mechanical_Turk]] 
 

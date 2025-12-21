@@ -1,20 +1,22 @@
 ---
+aliases:
+  - Clock
+has_id_wikidata: Q376
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Uhr%2020230505%20001.stl
 Commons_category: Clocks
 Commons_gallery: Clock
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 exact_match: http://wordnet-rdf.princeton.edu/wn31/103050242-n
 GS1_GPC_code: 10002252
-has_id_wikidata: Q376
 has_use:
-  - "[[_Standards/WikiData/WD~chronometry,186398]]"
-  - "[[_Standards/WikiData/WD~displaying,115203785]]"
+  - '[[_Standards/WikiData/WD~chronometry,186398]]'
+  - '[[_Standards/WikiData/WD~displaying,115203785]]'
 Iconclass_notation: 23U24
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pendulum%20clock%20by%20Jacob%20Kock%2C%20antique%20furniture%20photography%2C%20IMG%200931%20edit.jpg
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/CHASI.html
@@ -25,11 +27,11 @@ spoken_text_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Clock.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Klok%20%28tijd%29-article.ogg
 subclass_of:
-  - "[[_Standards/WikiData/WD~metrological_mechanism,4198689]]"
-  - "[[_Standards/WikiData/WD~timepiece,42622779]]"
-  - "[[_Standards/WikiData/WD~decorative_object,115923123]]"
-  - "[[_Standards/WikiData/WD~machine,11019]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+  - '[[_Standards/WikiData/WD~metrological_mechanism,4198689]]'
+  - '[[_Standards/WikiData/WD~timepiece,42622779]]'
+  - '[[_Standards/WikiData/WD~decorative_object,115923123]]'
+  - '[[_Standards/WikiData/WD~machine,11019]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 ---
 
 # [[Clock]] 

@@ -1,29 +1,30 @@
 ---
 aliases:
-- in-language
-- in_language
-- inLanguage
-- is_in_language
-- "schema:language"
-- "dbo:language"
+  - in-language
+  - in_language
+  - inLanguage
+  - is_in_language
+  - schema:language
+  - dbo:language
+  - is in language
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords: ''
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: is_in_language
 publish: true
-publishDate: 
+publishDate: ''
 supersedes: language
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_in_language
 type: Predi_Relation
 ---

@@ -1,15 +1,16 @@
 ---
-has_id_wikidata: Q752129
 aliases:
   - Astrophysiker
+  - Astrophysicist
+has_id_wikidata: Q752129
 subclass_of:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~astronomer,11063]]"
-instance_of: "[[_Standards/WikiData/WD~profession,28640]]"
-field_of_this_occupation: "[[_Standards/WikiData/WD~astrophysics,37547]]"
-field_of_work: "[[_Standards/WikiData/WD~astrophysics,37547]]"
-ISCO_08_occupation_class: "2111"
-ISCO_88_occupation_class: "2111"
+  - '[[_Standards/WikiData/WD~physicist,169470]]'
+  - '[[_Standards/WikiData/WD~astronomer,11063]]'
+instance_of: '[[_Standards/WikiData/WD~profession,28640]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~astrophysics,37547]]'
+field_of_work: '[[_Standards/WikiData/WD~astrophysics,37547]]'
+ISCO_08_occupation_class: 2111
+ISCO_88_occupation_class: 2111
 female_form_of_label:
   - astrofisica
   - אסטרופיזיקאית
@@ -40,7 +41,7 @@ male_form_of_label:
   - astrofizikas
 Commons_category: Astrophysicists
 image: http://commons.wikimedia.org/wiki/Special:FilePath/L%27astrophysicienne%20C%C3%A9cile%20Renault.jpg
-P8189: "987007295071805171"
+P8189: 987007295071805171
 ---
 
 # [[Astrophysicist]] 

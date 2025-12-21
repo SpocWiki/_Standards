@@ -3,12 +3,14 @@ aliases:
   - Newcomen_atmospheric_engine
   - Newcomen atmospheric engine
   - atmospheric engine
+  - Newcomen_Steam_Engine
+  - Newcomen Steam Engine
 has_id_wikidata: Q2224989
-named_after: "[[_Standards/WikiData/WD~Thomas_Newcomen,193042]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Thomas_Newcomen,193042]]"
+named_after: '[[_Standards/WikiData/WD~Thomas_Newcomen,193042]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Thomas_Newcomen,193042]]'
 start_time: 1712-01-01T00:00:00Z
 time_of_discovery_or_invention: 1712-01-01T00:00:00Z
-subclass_of: "[[_Standards/WikiData/WD~steam_engine,12760]]"
+subclass_of: '[[_Standards/WikiData/WD~steam_engine,12760]]'
 Commons_category: Newcomen engines
 ---
 

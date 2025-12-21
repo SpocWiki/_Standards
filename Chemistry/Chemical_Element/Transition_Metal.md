@@ -1,18 +1,20 @@
 ---
 aliases:
   - d-block
+  - Transition_Metal
+  - Transition Metal
 has_id_wikidata: Q19588
 has_part_s_:
-  - "[[_Standards/WikiData/WD~d_block,214503]]"
-  - "[[_Standards/WikiData/WD~f_block,214680]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
-opposite_of: "[[_Standards/WikiData/WD~main_group,428830]]"
+  - '[[_Standards/WikiData/WD~d_block,214503]]'
+  - '[[_Standards/WikiData/WD~f_block,214680]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+opposite_of: '[[_Standards/WikiData/WD~main_group,428830]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~simple_substance,2512777]]"
-  - "[[_Standards/WikiData/WD~metal,11426]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-OmegaWiki_Defined_Meaning: "3841"
-Dewey_Decimal_Classification: "546.6"
+  - '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+  - '[[_Standards/WikiData/WD~metal,11426]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+OmegaWiki_Defined_Meaning: 3841
+Dewey_Decimal_Classification: 546.6
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Coloured-transition-metal-solutions.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Transition%20Metals%20Periodic%20table.jpg

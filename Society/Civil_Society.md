@@ -1,18 +1,20 @@
 ---
 aliases:
   - Civil society
+  - Civil_Society
+  - Civil Society
 has_id_wikidata: Q181865
 described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Civil_society,1021177]]"
-instance_of: "[[_Standards/WikiData/WD~social_formation,1641112]]"
-different_from: "[[_Standards/WikiData/WD~civic_society,5124370]]"
-OmegaWiki_Defined_Meaning: "672393"
+  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Civil_society,1021177]]'
+instance_of: '[[_Standards/WikiData/WD~social_formation,1641112]]'
+different_from: '[[_Standards/WikiData/WD~civic_society,5124370]]'
+OmegaWiki_Defined_Meaning: 672393
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bi%E1%BB%83u%20t%C3%ACnh%20ph%E1%BA%A3n%20%C4%91%E1%BB%91i%20Trung%20Qu%E1%BB%91c%20t%E1%BA%A1i%20H%C3%A0%20N%E1%BB%99i%20s%C3%A1ng%208.7.2012.JPG
-P8189: "987007534540905171"
+P8189: 987007534540905171
 Commons_category: Civil society
 Krugosvet_article: gumanitarnye_nauki/sociologiya/GRAZHDANSKOE_OBSHCHESTVO.html
 Library_of_Congress_Classification: JC337

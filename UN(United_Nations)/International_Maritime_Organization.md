@@ -4,6 +4,7 @@ aliases:
   - IMO
   - Organisation maritime internationale
   - Organización Marítima Internacional
+  - International_Maritime_Organization
 has_id_wikidata: Q201054
 short_name:
   - IMO
@@ -22,34 +23,34 @@ short_name:
   - ԾՄԿ
   - TJO
 partnership_with:
-  - "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
-  - "[[_Standards/WikiData/WD~Asian_African_Legal_Consultative_Organization,333536]]"
-industry: "[[_Standards/WikiData/WD~water_transport,155930]]"
+  - '[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]'
+  - '[[_Standards/WikiData/WD~Asian_African_Legal_Consultative_Organization,333536]]'
+industry: '[[_Standards/WikiData/WD~water_transport,155930]]'
 official_observer_status_in_organization:
-  - "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
-  - "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
-  - "[[_Standards/WikiData/WD~Arctic_Council,674182]]"
-main_subject: "[[_Standards/WikiData/WD~marine_navigation,3337280]]"
+  - '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
+  - '[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]'
+  - '[[_Standards/WikiData/WD~Arctic_Council,674182]]'
+main_subject: '[[_Standards/WikiData/WD~marine_navigation,3337280]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~specialized_agency_of_the_United_Nations,15925165]]"
-  - "[[_Standards/WikiData/WD~online_service,19967801]]"
-foundational_text: "[[_Standards/WikiData/WD~Convention_on_the_International_Maritime_Organization,26220908]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Secretary_General_of_the_International_Maritime_Organization,42591216]]"
-general_secretary: "[[_Standards/WikiData/WD~Arsenio_Antonio_Dominguez_Velasco,120884908]]"
+  - '[[_Standards/WikiData/WD~specialized_agency_of_the_United_Nations,15925165]]'
+  - '[[_Standards/WikiData/WD~online_service,19967801]]'
+foundational_text: '[[_Standards/WikiData/WD~Convention_on_the_International_Maritime_Organization,26220908]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Secretary_General_of_the_International_Maritime_Organization,42591216]]'
+general_secretary: '[[_Standards/WikiData/WD~Arsenio_Antonio_Dominguez_Velasco,120884908]]'
 Wikidata_property: IMO ship number
 official_language:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~Mandarin,9192]]"
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Russian,7737]]'
+  - '[[_Standards/WikiData/WD~Mandarin,9192]]'
+  - '[[_Standards/WikiData/WD~Arabic,13955]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-headquarters_locations: "[[_Standards/WikiData/WD~London,84]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+headquarters_locations: '[[_Standards/WikiData/WD~London,84]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 social_media_followers:
   - 18400
   - 106408
@@ -59,8 +60,8 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%2
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20International%20Maritime%20Organization.png
 official_website: https://www.imo.org
 ISNI:
-  - "0000000121060940"
-  - "0000000417557729"
+  - 0000000121060940
+  - 0000000417557729
 Instagram_username: imo_hq
 domain_name: imo.org
 X_Twitter_username: imohq

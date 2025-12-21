@@ -4,20 +4,22 @@ aliases:
   - lose_action
   - LoseAction
   - is_a_lose_action
+  - Lose_Action
+  - Lose Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - lose_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_lose_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

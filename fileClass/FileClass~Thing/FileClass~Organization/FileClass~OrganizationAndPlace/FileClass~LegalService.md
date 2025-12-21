@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~LegalService
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields: []
 icon: scale
 limit: 9
 mapWithTag: true
 tagNames:
-- class/LegalService
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService
-- is_a_/LegalService
-- schema-org/LegalService
+  - class/LegalService
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService
+  - is_a_/LegalService
+  - schema-org/LegalService
 tags:
-- class/FileClass
-- class/LegalService
-- is_a_/LegalService
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService
+  - class/FileClass
+  - class/LegalService
+  - is_a_/LegalService
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService
 version: 2.0
 ---
 

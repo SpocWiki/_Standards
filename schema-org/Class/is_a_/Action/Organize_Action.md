@@ -4,20 +4,22 @@ aliases:
   - organize_action
   - OrganizeAction
   - is_an_organize_action
+  - Organize_Action
+  - Organize Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - organize_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_organize_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

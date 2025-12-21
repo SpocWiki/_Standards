@@ -1,33 +1,34 @@
 ---
 aliases:
   - Hagel
+  - Hail
 has_id_wikidata: Q37602
 has_cause:
-  - "[[_Standards/WikiData/WD~cumulonimbus,182311]]"
-  - "[[_Standards/WikiData/WD~atmospheric_convection,931652]]"
+  - '[[_Standards/WikiData/WD~cumulonimbus,182311]]'
+  - '[[_Standards/WikiData/WD~atmospheric_convection,931652]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Grad,403915]]"
-  - "[[_Standards/WikiData/WD~Hail,1569223]]"
-  - "[[_Standards/WikiData/WD~Hail,37548102]]"
+  - '[[_Standards/WikiData/WD~Grad,403915]]'
+  - '[[_Standards/WikiData/WD~Hail,1569223]]'
+  - '[[_Standards/WikiData/WD~Hail,37548102]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-has_immediate_cause: "[[_Standards/WikiData/WD~hailing,110096003]]"
-has_part_s_: "[[_Standards/WikiData/WD~hailstone,110443830]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]"
-does_not_have_part: "[[_Standards/WikiData/WD~stone,22731]]"
-made_from_material: "[[_Standards/WikiData/WD~ice,23392]]"
-color: "[[_Standards/WikiData/WD~white,23444]]"
-subclass_of: "[[_Standards/WikiData/WD~precipitation,25257]]"
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+has_immediate_cause: '[[_Standards/WikiData/WD~hailing,110096003]]'
+has_part_s_: '[[_Standards/WikiData/WD~hailstone,110443830]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]'
+does_not_have_part: '[[_Standards/WikiData/WD~stone,22731]]'
+made_from_material: '[[_Standards/WikiData/WD~ice,23392]]'
+color: '[[_Standards/WikiData/WD~white,23444]]'
+subclass_of: '[[_Standards/WikiData/WD~precipitation,25257]]'
 decomposition_point: 0
-OmegaWiki_Defined_Meaning: "1707"
+OmegaWiki_Defined_Meaning: 1707
 name:
   - hailstone
   - grêlon
@@ -35,7 +36,7 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Gr%C3%AAle.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/A%20field%20of%20hailstones.jpg
 METAR_code: GR
-U_S_National_Archives_Identifier: "10637281"
+U_S_National_Archives_Identifier: 10637281
 Commons_gallery: Hail
 Commons_category: Hail
 Wolfram_Language_entity_code: Entity["Surname", "Hagel"]

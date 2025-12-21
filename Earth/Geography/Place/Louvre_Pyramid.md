@@ -1,24 +1,25 @@
 ---
 aliases:
   - Louvre Pyramid
+  - Louvre_Pyramid
 has_id_wikidata: Q13397
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~1st_arrondissement_of_Paris,161741]]"
-architectural_style: "[[_Standards/WikiData/WD~Egyptian_Revival_architecture,384177]]"
-part_of: "[[_Standards/WikiData/WD~Louvre_Palace,1075988]]"
-structural_engineer: "[[_Standards/WikiData/WD~Roger_Nicolet,3439312]]"
-significant_event: "[[_Standards/WikiData/WD~construction,3875186]]"
-locations: "[[_Standards/WikiData/WD~Cour_Napoléon,17305087]]"
-shape: "[[_Standards/WikiData/WD~square_pyramid_with_equilateral_triangle_sides,17370383]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~1st_arrondissement_of_Paris,161741]]'
+architectural_style: '[[_Standards/WikiData/WD~Egyptian_Revival_architecture,384177]]'
+part_of: '[[_Standards/WikiData/WD~Louvre_Palace,1075988]]'
+structural_engineer: '[[_Standards/WikiData/WD~Roger_Nicolet,3439312]]'
+significant_event: '[[_Standards/WikiData/WD~construction,3875186]]'
+locations: '[[_Standards/WikiData/WD~Cour_Napoléon,17305087]]'
+shape: '[[_Standards/WikiData/WD~square_pyramid_with_equilateral_triangle_sides,17370383]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~aluminium,663]]"
-  - "[[_Standards/WikiData/WD~steel,11427]]"
-  - "[[_Standards/WikiData/WD~glass,11469]]"
-commissioned_by: "[[_Standards/WikiData/WD~François_Mitterrand,2038]]"
-instance_of: "[[_Standards/WikiData/WD~pyramid,12516]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
+  - '[[_Standards/WikiData/WD~aluminium,663]]'
+  - '[[_Standards/WikiData/WD~steel,11427]]'
+  - '[[_Standards/WikiData/WD~glass,11469]]'
+commissioned_by: '[[_Standards/WikiData/WD~François_Mitterrand,2038]]'
+instance_of: '[[_Standards/WikiData/WD~pyramid,12516]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
 width: 37
-creator: "[[_Standards/WikiData/WD~I._M._Pei,46868]]"
-architect: "[[_Standards/WikiData/WD~I._M._Pei,46868]]"
+creator: '[[_Standards/WikiData/WD~I._M._Pei,46868]]'
+architect: '[[_Standards/WikiData/WD~I._M._Pei,46868]]'
 length: 35.42
 inception: 1981-01-01T00:00:00Z
 date_of_official_opening: 1989-01-01T00:00:00Z

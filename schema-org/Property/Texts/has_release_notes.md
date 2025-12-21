@@ -4,22 +4,24 @@ aliases:
   - release_notes
   - releaseNotes
   - has_text_of_release_notes
+  - has_release_notes
+  - has release notes
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - release
   - notes
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_release_notes
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

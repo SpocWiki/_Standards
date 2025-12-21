@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~HVACBusiness
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/HVACBusiness
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/HVACBusiness
-- is_a_/HVACBusiness
-- schema-org/HVACBusiness
+  - class/HVACBusiness
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/HVACBusiness
+  - is_a_/HVACBusiness
+  - schema-org/HVACBusiness
 tags:
-- class/FileClass
-- class/HVACBusiness
-- is_a_/HVACBusiness
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/HVACBusiness
+  - class/FileClass
+  - class/HVACBusiness
+  - is_a_/HVACBusiness
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/HVACBusiness
 version: 2.0
 ---
 

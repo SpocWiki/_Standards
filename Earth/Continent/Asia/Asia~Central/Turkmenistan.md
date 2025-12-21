@@ -295,12 +295,12 @@ cssclasses:
   - Country
 publish: true
 title: Turkmenistan
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 Languages:
   - tk
   - ru

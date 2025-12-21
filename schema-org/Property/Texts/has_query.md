@@ -4,21 +4,23 @@ aliases:
   - query
   - query
   - has_text_of_query
+  - has_query
+  - has query
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - query
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_query
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

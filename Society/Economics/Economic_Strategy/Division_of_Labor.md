@@ -1,7 +1,8 @@
 ---
 aliases:
-- Arbeitsteilung
-- "Division of Labor"
+  - Arbeitsteilung
+  - Division of Labor
+  - Division_of_Labor
 ---
 
 Initially proposed by [[Economist/Smith,Adam|Adam Smith]], who argued that 

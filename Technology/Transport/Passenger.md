@@ -1,20 +1,21 @@
 ---
 aliases:
   - Passagier
+  - Passenger
 has_id_wikidata: Q319604
 subclass_of:
-  - "[[_Standards/WikiData/WD~person,215627]]"
-  - "[[_Standards/WikiData/WD~rider,11998775]]"
+  - '[[_Standards/WikiData/WD~person,215627]]'
+  - '[[_Standards/WikiData/WD~rider,11998775]]'
 described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
 different_from:
-  - "[[_Standards/WikiData/WD~rider,11998775]]"
-  - "[[_Standards/WikiData/WD~vehicle_operator,23640580]]"
-instance_of: "[[_Standards/WikiData/WD~counting_unit,78754808]]"
-part_of: "[[_Standards/WikiData/WD~passenger_transportation,87410777]]"
-item_operated: "[[_Standards/WikiData/WD~passenger_vehicle,87410987]]"
-measured_physical_quantity: "[[_Standards/WikiData/WD~passenger_count,115536579]]"
+  - '[[_Standards/WikiData/WD~rider,11998775]]'
+  - '[[_Standards/WikiData/WD~vehicle_operator,23640580]]'
+instance_of: '[[_Standards/WikiData/WD~counting_unit,78754808]]'
+part_of: '[[_Standards/WikiData/WD~passenger_transportation,87410777]]'
+item_operated: '[[_Standards/WikiData/WD~passenger_vehicle,87410987]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~passenger_count,115536579]]'
 Commons_category: Passengers
-U_S_National_Archives_Identifier: "10647236"
+U_S_National_Archives_Identifier: 10647236
 female_form_of_label:
   - пассажирка
   - passagère

@@ -1,20 +1,22 @@
 ---
+aliases:
+  - Baud
 has_id_wikidata: Q192027
-measured_physical_quantity: "[[_Standards/WikiData/WD~symbol_rate,428083]]"
+measured_physical_quantity: '[[_Standards/WikiData/WD~symbol_rate,428083]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~bit_per_second,549389]]"
-  - "[[_Standards/WikiData/WD~Q12535781,12535781]]"
-named_after: "[[_Standards/WikiData/WD~Émile_Baudot,550192]]"
-different_from: "[[_Standards/WikiData/WD~Bud,1000456]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~bit_per_second,549389]]'
+  - '[[_Standards/WikiData/WD~Q12535781,12535781]]'
+named_after: '[[_Standards/WikiData/WD~Émile_Baudot,550192]]'
+different_from: '[[_Standards/WikiData/WD~Bud,1000456]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~unit_of_frequency,21162604]]"
-  - "[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]"
+  - '[[_Standards/WikiData/WD~unit_of_frequency,21162604]]'
+  - '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
 conversion_to_SI_unit: 1
 IEV_number:
   - 721-03-27
   - 702-05-24
-OmegaWiki_Defined_Meaning: "748930"
+OmegaWiki_Defined_Meaning: 748930
 UN_CEFACT_Common_Code: J38
 UCUM_code: Bd
 unit_symbol: Bd

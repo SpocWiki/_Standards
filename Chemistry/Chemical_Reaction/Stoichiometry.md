@@ -1,17 +1,18 @@
 ---
 aliases:
   - Stöchiometrie
+  - Stoichiometry
 has_id_wikidata: Q213185
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-subclass_of: "[[_Standards/WikiData/WD~calculation,622821]]"
-facet_of: "[[_Standards/WikiData/WD~chemistry,2329]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+subclass_of: '[[_Standards/WikiData/WD~calculation,622821]]'
+facet_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/STEHIOMETRIYA.html
-Dewey_Decimal_Classification: "541.26"
+Dewey_Decimal_Classification: 541.26
 ---
 
 # [[Stoichiometry]] 

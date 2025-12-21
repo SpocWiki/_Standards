@@ -1,14 +1,15 @@
 ---
 aliases:
   - Gaussian Elimination
+  - Gaussian_Elimination
 has_id_wikidata: Q2658
 different_from:
-  - "[[_Standards/WikiData/WD~Gaussian_quadrature,767680]]"
-  - "[[_Standards/WikiData/WD~Gauss_Jordan_elimination,1195020]]"
-  - "[[_Standards/WikiData/WD~Q4291824,4291824]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-instance_of: "[[_Standards/WikiData/WD~method_for_solving_linear_systems,27868110]]"
-named_after: "[[_Standards/WikiData/WD~Carl_Friedrich_Gauss,6722]]"
+  - '[[_Standards/WikiData/WD~Gaussian_quadrature,767680]]'
+  - '[[_Standards/WikiData/WD~Gauss_Jordan_elimination,1195020]]'
+  - '[[_Standards/WikiData/WD~Q4291824,4291824]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~method_for_solving_linear_systems,27868110]]'
+named_after: '[[_Standards/WikiData/WD~Carl_Friedrich_Gauss,6722]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A8tode%20de%20Gauss.jpg
 ---
 

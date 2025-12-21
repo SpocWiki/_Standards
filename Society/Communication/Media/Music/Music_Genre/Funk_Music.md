@@ -1,17 +1,19 @@
 ---
 aliases:
   - Funk
+  - Funk_Music
+  - Funk Music
 has_id_wikidata: Q164444
-instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
-subclass_of: "[[_Standards/WikiData/WD~popular_music,373342]]"
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
+subclass_of: '[[_Standards/WikiData/WD~popular_music,373342]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Funk,1355692]]"
-  - "[[_Standards/WikiData/WD~Funk,6693896]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Funk,13441065]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
-practiced_by: "[[_Standards/WikiData/WD~funk_musician,74093582]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-based_on: "[[_Standards/WikiData/WD~rhythm_and_blues,45981]]"
+  - '[[_Standards/WikiData/WD~Funk,1355692]]'
+  - '[[_Standards/WikiData/WD~Funk,6693896]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Funk,13441065]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+practiced_by: '[[_Standards/WikiData/WD~funk_musician,74093582]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+based_on: '[[_Standards/WikiData/WD~rhythm_and_blues,45981]]'
 Commons_category: Funk
 subreddit: funk
 inception: 1965-01-01T00:00:00Z

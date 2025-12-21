@@ -1,11 +1,4 @@
 ---
-age_of_majority: 18
-aircraft_registration_prefix:
-  - PT
-  - PR
-  - PU
-  - PS
-  - PP
 aliases:
   - Brazil
   - Brasil
@@ -16,6 +9,14 @@ aliases:
   - the Federative Republic of Brazil
   - la República Federativa del Brasil
   - Brasil (el)
+has_id_wikidata: Q155
+age_of_majority: 18
+aircraft_registration_prefix:
+  - PT
+  - PR
+  - PU
+  - PS
+  - PP
 anthem: "[[_Standards/WikiData/WD~Brazilian_National_Anthem,134654]]"
 area: 8515767
 Baidu_Tieba_name: 巴西
@@ -260,7 +261,7 @@ ethnic_group:
   - "[[_Standards/WikiData/WD~White_Brazilians,2995285]]"
   - "[[_Standards/WikiData/WD~Asian_Brazilians,3624751]]"
 executive_body: "[[_Standards/WikiData/WD~Federal_Government_of_Brazil,5440531]]"
-expiryDate:
+expiryDate: ""
 external_data_available_at_URL: http://dados.gov.br
 female_population:
   - 108417015
@@ -279,7 +280,6 @@ Happy_Planet_Index_score: 54.6
 hashtag: Brazil
 has_cabinet: "[[_Standards/WikiData/WD~cabinet_of_Brazil,5015503]]"
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-has_id_wikidata: Q155
 has_time_started: 1822-09-07
 head_of_government: "[[_Standards/WikiData/WD~Luiz_Inácio_Lula_da_Silva,37181]]"
 head_of_state: "[[_Standards/WikiData/WD~Luiz_Inácio_Lula_da_Silva,37181]]"
@@ -308,7 +308,7 @@ ISO_3166_1_alpha_3_code: BRA
 ISO_3166_1_numeric_code: 76
 isReadOnly: false
 ITU_letter_code: B
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/BRAZILIYA.html
 Languages:
   - pt-BR
@@ -539,13 +539,13 @@ language_used:
   - "[[_Standards/WikiData/WD~Bakairi,56846]]"
   - "[[_Standards/WikiData/WD~Waimiri-Atroarí,56865]]"
   - "[[_Standards/WikiData/WD~Tiriyó,56885]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~National_Congress_of_Brazil,949699]]"
 Libris_URI: 31fhgvzm2hg6014
 licence_plate_code: BR
 license: CC BY-SA 4.0
 life_expectancy: 75.723
-linkTitle:
+linkTitle: ""
 literacy_rate: 93.22
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~South_American_Plate,119490]]"
 located_in_or_next_to_body_of_water:
@@ -674,7 +674,7 @@ public_holiday:
   - http://www.wikidata.org/.well-known/genid/aa322070be920bef867957a77d8cd62e
   - "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
 publish: true
-publishDate:
+publishDate: ""
 replaces:
   - "[[_Standards/WikiData/WD~Empire_of_Brazil,217230]]"
   - "[[_Standards/WikiData/WD~Colonial_Brazil,2088324]]"

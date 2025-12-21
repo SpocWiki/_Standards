@@ -1,14 +1,15 @@
 ---
 aliases:
   - hydrophobicity
+  - Hydrophobe
 has_id_wikidata: Q219567
-subclass_of: "[[_Standards/WikiData/WD~chemical_substance,79529]]"
-opposite_of: "[[_Standards/WikiData/WD~hydrophile,192197]]"
+subclass_of: '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+opposite_of: '[[_Standards/WikiData/WD~hydrophile,192197]]'
 different_from:
-  - "[[_Standards/WikiData/WD~aquaphobia,623076]]"
-  - "[[_Standards/WikiData/WD~hydrophobicity,41854968]]"
-has_characteristic: "[[_Standards/WikiData/WD~hydrophobicity,41854968]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+  - '[[_Standards/WikiData/WD~aquaphobia,623076]]'
+  - '[[_Standards/WikiData/WD~hydrophobicity,41854968]]'
+has_characteristic: '[[_Standards/WikiData/WD~hydrophobicity,41854968]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Super-hydrophobic%20paint%20%2816763065915%29.jpg
 ---
 

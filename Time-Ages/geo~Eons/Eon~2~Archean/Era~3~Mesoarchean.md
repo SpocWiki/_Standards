@@ -1,9 +1,11 @@
 ---
+aliases:
+  - Era~3~Mesoarchean
 has_id_wikidata: Q607992
 instance_of:
-  - "[[_Standards/WikiData/WD~era,630830]]"
-  - "[[_Standards/WikiData/WD~erathem,2464485]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+  - '[[_Standards/WikiData/WD~era,630830]]'
+  - '[[_Standards/WikiData/WD~erathem,2464485]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -2800000000-01-01T00:00:00Z
 start_time: -3200000000-01-01T00:00:00Z
 Commons_category: Mesoarchean

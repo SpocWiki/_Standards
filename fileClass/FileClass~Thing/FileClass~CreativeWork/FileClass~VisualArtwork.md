@@ -1,88 +1,90 @@
 ---
-excludes: 
+aliases:
+  - FileClass~VisualArtwork
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: ze5Jq8
-  name: ArtEdition
-  options: {}
-  type: Number
-  path: ''
-- id: 7zAipw
-  name: ArtMedium
-  options: {}
-  type: Input
-  path: ''
-- id: N8IS9T
-  name: Artform
-  options: {}
-  type: Input
-  path: ''
-- id: 0VDGCO
-  name: Artist
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: 3SFSmd
-  name: ArtworkSurface
-  options: {}
-  type: Input
-  path: ''
-- id: oIqb2z
-  name: Colorist
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: yOI1jI
-  name: Depth
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: 1DypoP
-  name: Height
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: L7eJxv
-  name: Inker
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: cto4Eg
-  name: Letterer
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: a7UO3H
-  name: Penciler
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: fU3vVl
-  name: Width
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
+  - id: ze5Jq8
+    name: ArtEdition
+    options: {}
+    type: Number
+    path: ''
+  - id: 7zAipw
+    name: ArtMedium
+    options: {}
+    type: Input
+    path: ''
+  - id: N8IS9T
+    name: Artform
+    options: {}
+    type: Input
+    path: ''
+  - id: 0VDGCO
+    name: Artist
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: 3SFSmd
+    name: ArtworkSurface
+    options: {}
+    type: Input
+    path: ''
+  - id: oIqb2z
+    name: Colorist
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: yOI1jI
+    name: Depth
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: 1DypoP
+    name: Height
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: L7eJxv
+    name: Inker
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: cto4Eg
+    name: Letterer
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: a7UO3H
+    name: Penciler
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: fU3vVl
+    name: Width
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/VisualArtwork
-- class/Thing/CreativeWork/VisualArtwork
-- is_a_/VisualArtwork
-- schema-org/VisualArtwork
+  - class/VisualArtwork
+  - class/Thing/CreativeWork/VisualArtwork
+  - is_a_/VisualArtwork
+  - schema-org/VisualArtwork
 tags:
-- class/FileClass
-- class/VisualArtwork
-- is_a_/VisualArtwork
-- class/Thing/CreativeWork/VisualArtwork
+  - class/FileClass
+  - class/VisualArtwork
+  - is_a_/VisualArtwork
+  - class/Thing/CreativeWork/VisualArtwork
 version: 2.0
 ---
 

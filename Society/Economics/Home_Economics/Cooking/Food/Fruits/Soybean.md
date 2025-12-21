@@ -3,6 +3,51 @@ aliases:
   - Soybean
   - Sojabohnen
   - soy bean, or soya bean (Glycine max
+  - Sojaboon
+  - Соя
+  - sója
+  - ffeuen soia
+  - Sojabønne
+  - Sojfabo
+  - Soja
+  - peltosoijapapu
+  - Soijapapu
+  - Soojabuan
+  - ダイズ
+  - Kacang soya hijau
+  - Soyabønne
+  - feijão-chinês
+  - feijão-soja
+  - Соевые бобы
+  - soja
+  - Sojaböna
+  - Soya Fasülyesi
+  - 大豆根
+  - 大豆黄卷
+  - 枝豆
+  - 淡豆豉
+  - 穞豆
+  - 菜用大豆
+  - 豆油
+  - 豆腐
+  - 豆腐浆
+  - 豆黄
+  - 黄大豆
+  - 黄豆
+  - 黄豆芽
+  - 黑大豆
+  - 黑大豆叶
+  - 黑大豆皮
+  - 黑大豆花
+  - 黑豆衣
+  - 大豆
+  - soybean
+  - Sojabohne
+  - Soia
+  - 豆腐皮
+  - 野大豆
+  - 毛豆
+  - 菽
 has_id_wikidata: Q11006
 taxon_author_citation:
   - (L.) Merr.
@@ -76,42 +121,42 @@ taxon_common_name:
 short_name: G. max
 native_label: Kadelé
 instance_of:
-  - "[[_Standards/WikiData/WD~allergen,186752]]"
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[_Standards/WikiData/WD~allergen,186752]]'
+  - '[[_Standards/WikiData/WD~taxon,16521]]'
 has_use:
-  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
-  - "[[_Standards/WikiData/WD~fodder,211439]]"
-  - "[[_Standards/WikiData/WD~vegetable,11004]]"
+  - '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+  - '[[_Standards/WikiData/WD~fodder,211439]]'
+  - '[[_Standards/WikiData/WD~vegetable,11004]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~annual_plant,192691]]"
-  - "[[_Standards/WikiData/WD~useful_plant,11992872]]"
-parent_taxon: "[[_Standards/WikiData/WD~Glycine,311395]]"
-different_from: "[[_Standards/WikiData/WD~Vigna_radiata,484447]]"
+  - '[[_Standards/WikiData/WD~annual_plant,192691]]'
+  - '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+parent_taxon: '[[_Standards/WikiData/WD~Glycine,311395]]'
+different_from: '[[_Standards/WikiData/WD~Vigna_radiata,484447]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~soybean_oil,926892]]"
-  - "[[_Standards/WikiData/WD~soya_lecithin,57657253]]"
-  - "[[_Standards/WikiData/WD~soy_bean,61503220]]"
-  - "[[_Standards/WikiData/WD~soy_extract,96094786]]"
-  - "[[_Standards/WikiData/WD~soy_isoflavones,104636178]]"
+  - '[[_Standards/WikiData/WD~soybean_oil,926892]]'
+  - '[[_Standards/WikiData/WD~soya_lecithin,57657253]]'
+  - '[[_Standards/WikiData/WD~soy_bean,61503220]]'
+  - '[[_Standards/WikiData/WD~soy_extract,96094786]]'
+  - '[[_Standards/WikiData/WD~soy_isoflavones,104636178]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_41,112869423]]"
-has_basionym: "[[_Standards/WikiData/WD~Phaseolus_max,21876206]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-hardiness_of_plant: "[[_Standards/WikiData/WD~2,99546131]]"
-endemic_to: "[[_Standards/WikiData/WD~Zambia,953]]"
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_41,112869423]]'
+has_basionym: '[[_Standards/WikiData/WD~Phaseolus_max,21876206]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131]]'
+endemic_to: '[[_Standards/WikiData/WD~Zambia,953]]'
 taxon_range:
-  - "[[_Standards/WikiData/WD~Beijing,956]]"
-  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
-  - "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
+  - '[[_Standards/WikiData/WD~Beijing,956]]'
+  - '[[_Standards/WikiData/WD~Guangdong,15175]]'
+  - '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Fujian,41705]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-writing_system: "[[_Standards/WikiData/WD~Latin_script,8229]]"
-ITIS_TSN: "26716"
-OmegaWiki_Defined_Meaning: "1194285"
+  - '[[_Standards/WikiData/WD~Fujian,41705]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+writing_system: '[[_Standards/WikiData/WD~Latin_script,8229]]'
+ITIS_TSN: 26716
+OmegaWiki_Defined_Meaning: 1194285
 Colon_Classification: J588
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Soybean.USDA.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5137%20%28guj%29-Sushant%20savla-%E0%AA%B8%E0%AB%8B%E0%AA%AF%E0%AA%BE%E0%AA%AC%E0%AB%80%E0%AA%A8.wav

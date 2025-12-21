@@ -1,24 +1,26 @@
 ---
 aliases:
   - percussion instrument
+  - Percussion_Instrument
+  - Percussion Instrument
 has_id_wikidata: Q133163
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-instance_of: "[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]"
+instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~percussion,1661583]]"
-  - "[[_Standards/WikiData/WD~musical_instrument,34379]]"
-used_by: "[[_Standards/WikiData/WD~percussionist,4351403]]"
-has_part_s_: "[[_Standards/WikiData/WD~trigger,7841696]]"
-Nomenclature_for_Museum_Cataloging: "10729"
+  - '[[_Standards/WikiData/WD~percussion,1661583]]'
+  - '[[_Standards/WikiData/WD~musical_instrument,34379]]'
+used_by: '[[_Standards/WikiData/WD~percussionist,4351403]]'
+has_part_s_: '[[_Standards/WikiData/WD~trigger,7841696]]'
+Nomenclature_for_Museum_Cataloging: 10729
 Iconclass_notation:
   - 48CC734
   - 48C734
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Groupe%20Tribal%20Percussions%20-%20247.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Desfiles%20de%20Las%20Llamadas%20-%20The%20Calls%20Parade%202019%20190207-1040521-jikatu%20%2840066744713%29.jpg
-Common_Procurement_Vocabulary_code: "37316000"
+Common_Procurement_Vocabulary_code: 37316000
 Commons_category: Percussion instruments
 short_name: ударные
 ---

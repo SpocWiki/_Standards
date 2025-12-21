@@ -4,20 +4,22 @@ aliases:
   - user_downloads
   - UserDownloads
   - is_a_user_downloads
+  - User_Downloads
+  - User Downloads
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - user_downloads
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_user_downloads Class
 publish: true
-publishDate:
+publishDate: ''
 superseded_by: InteractionCounter
 tags:
   - class/Class

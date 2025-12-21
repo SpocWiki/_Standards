@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Harvey Keitel"
+  - Harvey Keitel
+  - Keitel,Harvey
 ---
 
 #has_/time_/started :: 1939-05-13 

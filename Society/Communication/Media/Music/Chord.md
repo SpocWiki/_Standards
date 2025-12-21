@@ -2,31 +2,32 @@
 aliases:
   - Accord
   - Akkord
+  - Chord
 has_id_wikidata: Q170439
 different_from:
-  - "[[_Standards/WikiData/WD~chord,188191]]"
-  - "[[_Standards/WikiData/WD~interval,189962]]"
-  - "[[_Standards/WikiData/WD~Accord_tour,12077328]]"
+  - '[[_Standards/WikiData/WD~chord,188191]]'
+  - '[[_Standards/WikiData/WD~interval,189962]]'
+  - '[[_Standards/WikiData/WD~Accord_tour,12077328]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~note,263478]]"
-  - "[[_Standards/WikiData/WD~factor,3344463]]"
+  - '[[_Standards/WikiData/WD~note,263478]]'
+  - '[[_Standards/WikiData/WD~factor,3344463]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Myggans_nöjeslexikon_1_A_Barc,101089426]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-part_of: "[[_Standards/WikiData/WD~chord_progression,1326471]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_chord,6450153]]"
-subclass_of: "[[_Standards/WikiData/WD~group,16887380]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Myggans_nöjeslexikon_1_A_Barc,101089426]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+part_of: '[[_Standards/WikiData/WD~chord_progression,1326471]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_chord,6450153]]'
+subclass_of: '[[_Standards/WikiData/WD~group,16887380]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Akkord.ogg
-instance_of: "[[_Standards/WikiData/WD~musical_concept,115211517]]"
-OmegaWiki_Defined_Meaning: "843551"
+instance_of: '[[_Standards/WikiData/WD~musical_concept,115211517]]'
+OmegaWiki_Defined_Meaning: 843551
 GitHub_topic: chords
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%27Cowboy%27%20chord%20on%20C.png
-P8189: "987007532347605171"
+P8189: 987007532347605171
 Commons_category: Chords
 Krugosvet_article: kultura_i_obrazovanie/muzyka/AKKORD.html
 ---

@@ -4,20 +4,22 @@ aliases:
   - user_tweets
   - UserTweets
   - is_a_user_tweets
+  - User_Tweets
+  - User Tweets
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - user_tweets
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_user_tweets Class
 publish: true
-publishDate:
+publishDate: ''
 superseded_by: InteractionCounter
 tags:
   - class/Class

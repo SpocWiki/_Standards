@@ -1,22 +1,24 @@
 ---
 aliases:
   - Set theory
+  - Set_Theory
+  - Set Theory
 has_id_wikidata: Q12482
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Georg_Cantor,76420]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Georg_Cantor,76420]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-  - "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
-has_characteristic: "[[_Standards/WikiData/WD~paradoxes_of_set_theory,4344872]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Set_theory,15120004]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Set_theory,62018765]]"
+  - '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+  - '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
+has_characteristic: '[[_Standards/WikiData/WD~paradoxes_of_set_theory,4344872]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Set_theory,15120004]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Set_theory,62018765]]'
 part_of:
-  - "[[_Standards/WikiData/WD~mathematical_logic,_set_theory,_lattices_and_universal_algebra,112955904]]"
-  - "[[_Standards/WikiData/WD~theory_of_sets,_relations_and_functions,114705834]]"
-is_the_study_of: "[[_Standards/WikiData/WD~set,36161]]"
-OmegaWiki_Defined_Meaning: "662684"
-Basisklassifikation: "31.10"
+  - '[[_Standards/WikiData/WD~mathematical_logic,_set_theory,_lattices_and_universal_algebra,112955904]]'
+  - '[[_Standards/WikiData/WD~theory_of_sets,_relations_and_functions,114705834]]'
+is_the_study_of: '[[_Standards/WikiData/WD~set,36161]]'
+OmegaWiki_Defined_Meaning: 662684
+Basisklassifikation: 31.10
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Menge%20-%20Quatematik.webm
 Stack_Exchange_tag:
   - https://cstheory.stackexchange.com/tags/set-theory
@@ -26,8 +28,8 @@ Stack_Exchange_tag:
   - https://proofassistants.stackexchange.com/tags/set-theory
 Iconclass_notation: 49D61
 Universal_Decimal_Classification:
-  - "510.22"
-  - "510.3"
+  - 510.22
+  - 510.3
 Wolfram_Language_entity_code: Entity["Concept", "SetTheory::x8492"]
 Krugosvet_article_archived_: nauka_i_tehnika/matematika/MNOZHESTV_TEORIYA.html
 Commons_gallery: Set theory

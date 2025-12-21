@@ -1,28 +1,29 @@
 ---
 aliases:
-- has_founder
-- "schema:founder"
-- "dbo:founder"
-- "wdt:P112"
+  - has_founder
+  - schema:founder
+  - dbo:founder
+  - wdt:P112
+  - has founder
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- founder
-layout: 
-license: "CC BY-SA 4.0"
+  - founder
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_founder
 publish: true
-publishDate: 
+publishDate: ''
 supersedes: founders
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_founder
 type: Predi_Relation
 ---

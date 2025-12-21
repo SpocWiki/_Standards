@@ -6,100 +6,100 @@ aliases:
   - Marc Aurel
 has_id_wikidata: Q1430
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~monarch,116]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-cause_of_death: "[[_Standards/WikiData/WD~plague,133780]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~monarch,116]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+cause_of_death: '[[_Standards/WikiData/WD~plague,133780]]'
 position_held:
-  - "[[_Standards/WikiData/WD~quaestor,189430]]"
-  - "[[_Standards/WikiData/WD~Roman_emperor,842606]]"
-  - "[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]"
-  - "[[_Standards/WikiData/WD~Roman_consul,40779]]"
-part_of: "[[_Standards/WikiData/WD~Five_Good_Emperors,193254]]"
-time_period: "[[_Standards/WikiData/WD~Five_Good_Emperors,193254]]"
-noble_title: "[[_Standards/WikiData/WD~Augustus,211804]]"
-spouse: "[[_Standards/WikiData/WD~Faustina_the_Younger,236936]]"
+  - '[[_Standards/WikiData/WD~quaestor,189430]]'
+  - '[[_Standards/WikiData/WD~Roman_emperor,842606]]'
+  - '[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]'
+  - '[[_Standards/WikiData/WD~Roman_consul,40779]]'
+part_of: '[[_Standards/WikiData/WD~Five_Good_Emperors,193254]]'
+time_period: '[[_Standards/WikiData/WD~Five_Good_Emperors,193254]]'
+noble_title: '[[_Standards/WikiData/WD~Augustus,211804]]'
+spouse: '[[_Standards/WikiData/WD~Faustina_the_Younger,236936]]'
 child:
-  - "[[_Standards/WikiData/WD~Lucilla,242466]]"
-  - "[[_Standards/WikiData/WD~Annia_Cornificia_Faustina_Minor,441706]]"
-  - "[[_Standards/WikiData/WD~Marcus_Annius_Verus_Caesar,567222]]"
-  - "[[_Standards/WikiData/WD~Fadilla,2055853]]"
-  - "[[_Standards/WikiData/WD~Annia_Aurelia_Galeria_Faustina,3655950]]"
-  - "[[_Standards/WikiData/WD~Vibia_Aurelia_Sabina,3656003]]"
-  - "[[_Standards/WikiData/WD~Domitia_Faustina,12278990]]"
-  - "[[_Standards/WikiData/WD~Titus_Aurelius_Fulvus_Antoninus,16167328]]"
-  - "[[_Standards/WikiData/WD~Commodus,1434]]"
+  - '[[_Standards/WikiData/WD~Lucilla,242466]]'
+  - '[[_Standards/WikiData/WD~Annia_Cornificia_Faustina_Minor,441706]]'
+  - '[[_Standards/WikiData/WD~Marcus_Annius_Verus_Caesar,567222]]'
+  - '[[_Standards/WikiData/WD~Fadilla,2055853]]'
+  - '[[_Standards/WikiData/WD~Annia_Aurelia_Galeria_Faustina,3655950]]'
+  - '[[_Standards/WikiData/WD~Vibia_Aurelia_Sabina,3656003]]'
+  - '[[_Standards/WikiData/WD~Domitia_Faustina,12278990]]'
+  - '[[_Standards/WikiData/WD~Titus_Aurelius_Fulvus_Antoninus,16167328]]'
+  - '[[_Standards/WikiData/WD~Commodus,1434]]'
 student_of:
-  - "[[_Standards/WikiData/WD~Herodes_Atticus,311879]]"
-  - "[[_Standards/WikiData/WD~Marcus_Cornelius_Fronto,317055]]"
-  - "[[_Standards/WikiData/WD~Gnaeus_Claudius_Severus_Arabianus,717647]]"
-  - "[[_Standards/WikiData/WD~Alexander_of_Cotiaeum,2834170]]"
-  - "[[_Standards/WikiData/WD~Junius_Rusticus,18999]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]"
+  - '[[_Standards/WikiData/WD~Herodes_Atticus,311879]]'
+  - '[[_Standards/WikiData/WD~Marcus_Cornelius_Fronto,317055]]'
+  - '[[_Standards/WikiData/WD~Gnaeus_Claudius_Severus_Arabianus,717647]]'
+  - '[[_Standards/WikiData/WD~Alexander_of_Cotiaeum,2834170]]'
+  - '[[_Standards/WikiData/WD~Junius_Rusticus,18999]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]'
 place_of_burial: "[[_Standards/WikiData/WD~Castel_Sant'Angelo,486382]]"
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-place_of_death: "[[_Standards/WikiData/WD~Vindobona,871525]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+place_of_death: '[[_Standards/WikiData/WD~Vindobona,871525]]'
 gens:
-  - "[[_Standards/WikiData/WD~Aurelia_gens,906810]]"
+  - '[[_Standards/WikiData/WD~Aurelia_gens,906810]]'
   - http://www.wikidata.org/.well-known/genid/edc0c692a07bb9f7d37a31725d31f5e9
-notable_work: "[[_Standards/WikiData/WD~Meditations,1152283]]"
-sibling: "[[_Standards/WikiData/WD~Annia_Cornificia_Faustina,1284248]]"
+notable_work: '[[_Standards/WikiData/WD~Meditations,1152283]]'
+sibling: '[[_Standards/WikiData/WD~Annia_Cornificia_Faustina,1284248]]'
 father:
-  - "[[_Standards/WikiData/WD~Marcus_Annius_Verus,1292169]]"
-  - "[[_Standards/WikiData/WD~Antoninus_Pius,1429]]"
-mother: "[[_Standards/WikiData/WD~Calvisia_Domitia_Lucilla,1815905]]"
+  - '[[_Standards/WikiData/WD~Marcus_Annius_Verus,1292169]]'
+  - '[[_Standards/WikiData/WD~Antoninus_Pius,1429]]'
+mother: '[[_Standards/WikiData/WD~Calvisia_Domitia_Lucilla,1815905]]'
 family:
-  - "[[_Standards/WikiData/WD~Nerva_Antonine_dynasty,3202662]]"
-  - "[[_Standards/WikiData/WD~Antonines,3291176]]"
-  - "[[_Standards/WikiData/WD~Aurelies,11907287]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Ceionia_Fabia,5057381]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-praenomen: "[[_Standards/WikiData/WD~Marcus,6757977]]"
+  - '[[_Standards/WikiData/WD~Nerva_Antonine_dynasty,3202662]]'
+  - '[[_Standards/WikiData/WD~Antonines,3291176]]'
+  - '[[_Standards/WikiData/WD~Aurelies,11907287]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Ceionia_Fabia,5057381]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+praenomen: '[[_Standards/WikiData/WD~Marcus,6757977]]'
 cognomen:
-  - "[[_Standards/WikiData/WD~Verus,21573412]]"
-  - "[[_Standards/WikiData/WD~Severus,64667626]]"
-  - "[[_Standards/WikiData/WD~Antoninus,104162439]]"
+  - '[[_Standards/WikiData/WD~Verus,21573412]]'
+  - '[[_Standards/WikiData/WD~Severus,64667626]]'
+  - '[[_Standards/WikiData/WD~Antoninus,104162439]]'
 nomen_gentilicium:
-  - "[[_Standards/WikiData/WD~Annius,32978828]]"
-  - "[[_Standards/WikiData/WD~Aurelius,32978882]]"
-  - "[[_Standards/WikiData/WD~Catilius,32978972]]"
-  - "[[_Standards/WikiData/WD~Aelius,32979103]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-relative: "[[_Standards/WikiData/WD~Malemnius,111205705]]"
+  - '[[_Standards/WikiData/WD~Annius,32978828]]'
+  - '[[_Standards/WikiData/WD~Aurelius,32978882]]'
+  - '[[_Standards/WikiData/WD~Catilius,32978972]]'
+  - '[[_Standards/WikiData/WD~Aelius,32979103]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+relative: '[[_Standards/WikiData/WD~Malemnius,111205705]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Marcus_Aurelius,_inv_6092,125824918]]"
-  - "[[_Standards/WikiData/WD~Young_Marcus_Aurelius,_MC_279,126196030]]"
-  - "[[_Standards/WikiData/WD~Young_Marcus_Aurelius,_MC_450,126196031]]"
-  - "[[_Standards/WikiData/WD~Young_Marcus_Aurelius_(from_San_Teodoro),131613783]]"
+  - '[[_Standards/WikiData/WD~Marcus_Aurelius,_inv_6092,125824918]]'
+  - '[[_Standards/WikiData/WD~Young_Marcus_Aurelius,_MC_279,126196030]]'
+  - '[[_Standards/WikiData/WD~Young_Marcus_Aurelius,_MC_450,126196031]]'
+  - '[[_Standards/WikiData/WD~Young_Marcus_Aurelius_(from_San_Teodoro),131613783]]'
 date_of_birth: 0121-04-25T00:00:00Z
 writing_language:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
+  - '[[_Standards/WikiData/WD~Latin,397]]'
+  - '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
-field_of_work: "[[_Standards/WikiData/WD~philosophy,5891]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-residence: "[[_Standards/WikiData/WD~Rome,220]]"
-place_of_birth: "[[_Standards/WikiData/WD~Rome,220]]"
-different_from: "[[_Standards/WikiData/WD~Aurelian,46780]]"
-movement: "[[_Standards/WikiData/WD~stoicism,48235]]"
+  - '[[_Standards/WikiData/WD~Latin,397]]'
+  - '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+field_of_work: '[[_Standards/WikiData/WD~philosophy,5891]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+residence: '[[_Standards/WikiData/WD~Rome,220]]'
+place_of_birth: '[[_Standards/WikiData/WD~Rome,220]]'
+different_from: '[[_Standards/WikiData/WD~Aurelian,46780]]'
+movement: '[[_Standards/WikiData/WD~stoicism,48235]]'
 BHCL_UUID: 994f20b9-5757-49f7-b3ff-82f4db5b7cf6
 Royal_Academy_new_identifier: marcus-aurelius
 PhilPapers_topic: marcus-aurelius

@@ -1,6 +1,8 @@
 ---
 aliases:
   - La traviata
+  - La_Traviata
+  - La Traviata
 has_id_wikidata: Q186162
 ---
 

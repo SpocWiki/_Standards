@@ -2,6 +2,7 @@
 aliases:
   - C++
   - cpp
+  - Prog~C++
 has_id_wikidata: Q2407
 GitHub_topic:
   - cplusplus
@@ -28,42 +29,42 @@ media_type:
 JIS_standard: X3014
 name_in_kana: シープラスプラス
 programming_paradigm:
-  - "[[_Standards/WikiData/WD~object_oriented_programming,79872]]"
-  - "[[_Standards/WikiData/WD~functional_programming,193076]]"
-  - "[[_Standards/WikiData/WD~generic_programming,1051282]]"
-  - "[[_Standards/WikiData/WD~procedural_programming,1418502]]"
-  - "[[_Standards/WikiData/WD~multi_paradigm_programming,4306983]]"
-designed_by: "[[_Standards/WikiData/WD~Bjarne_Stroustrup,92620]]"
-developer: "[[_Standards/WikiData/WD~Bjarne_Stroustrup,92620]]"
+  - '[[_Standards/WikiData/WD~object_oriented_programming,79872]]'
+  - '[[_Standards/WikiData/WD~functional_programming,193076]]'
+  - '[[_Standards/WikiData/WD~generic_programming,1051282]]'
+  - '[[_Standards/WikiData/WD~procedural_programming,1418502]]'
+  - '[[_Standards/WikiData/WD~multi_paradigm_programming,4306983]]'
+designed_by: '[[_Standards/WikiData/WD~Bjarne_Stroustrup,92620]]'
+developer: '[[_Standards/WikiData/WD~Bjarne_Stroustrup,92620]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Q154755,154755]]"
-  - "[[_Standards/WikiData/WD~Simula,212569]]"
-  - "[[_Standards/WikiData/WD~CLU,775159]]"
-  - "[[_Standards/WikiData/WD~ML,860654]]"
-  - "[[_Standards/WikiData/WD~ALGOL_68,2166735]]"
-  - "[[../../../../../../../../WikiData/WD~Q15777,15777]]"
+  - '[[_Standards/WikiData/WD~Q154755,154755]]'
+  - '[[_Standards/WikiData/WD~Simula,212569]]'
+  - '[[_Standards/WikiData/WD~CLU,775159]]'
+  - '[[_Standards/WikiData/WD~ML,860654]]'
+  - '[[_Standards/WikiData/WD~ALGOL_68,2166735]]'
+  - '[[../../../../../../../../WikiData/WD~Q15777,15777]]'
 standards_body:
-  - "[[_Standards/WikiData/WD~International_Electrotechnical_Commission,193858]]"
-  - "[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]"
-has_characteristic: "[[_Standards/WikiData/WD~Turing_completeness,197970]]"
+  - '[[_Standards/WikiData/WD~International_Electrotechnical_Commission,193858]]'
+  - '[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]'
+has_characteristic: '[[_Standards/WikiData/WD~Turing_completeness,197970]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~compiled_language,651794]]"
-  - "[[_Standards/WikiData/WD~object_based_language,899523]]"
-  - "[[_Standards/WikiData/WD~functional_programming_language,3839507]]"
-  - "[[_Standards/WikiData/WD~free_form_language,5499621]]"
-  - "[[_Standards/WikiData/WD~multi_paradigm_programming_language,12772052]]"
-  - "[[_Standards/WikiData/WD~procedural_programming_language,28922885]]"
-  - "[[_Standards/WikiData/WD~generic_programming_language,28923026]]"
-  - "[[_Standards/WikiData/WD~programming_language,9143]]"
-has_part_s_: "[[_Standards/WikiData/WD~C++_Standard_Library,1022270]]"
-has_use: "[[_Standards/WikiData/WD~systems_programming,1936256]]"
+  - '[[_Standards/WikiData/WD~compiled_language,651794]]'
+  - '[[_Standards/WikiData/WD~object_based_language,899523]]'
+  - '[[_Standards/WikiData/WD~functional_programming_language,3839507]]'
+  - '[[_Standards/WikiData/WD~free_form_language,5499621]]'
+  - '[[_Standards/WikiData/WD~multi_paradigm_programming_language,12772052]]'
+  - '[[_Standards/WikiData/WD~procedural_programming_language,28922885]]'
+  - '[[_Standards/WikiData/WD~generic_programming_language,28923026]]'
+  - '[[_Standards/WikiData/WD~programming_language,9143]]'
+has_part_s_: '[[_Standards/WikiData/WD~C++_Standard_Library,1022270]]'
+has_use: '[[_Standards/WikiData/WD~systems_programming,1936256]]'
 typing_discipline:
-  - "[[_Standards/WikiData/WD~static_typing,1940914]]"
-  - "[[_Standards/WikiData/WD~nominative_typing,3509459]]"
-  - "[[_Standards/WikiData/WD~partial_inference_typing,65184347]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_C++,7112218]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_C++_programming_language,22732660]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_IEC_14882,66084444]]"
+  - '[[_Standards/WikiData/WD~static_typing,1940914]]'
+  - '[[_Standards/WikiData/WD~nominative_typing,3509459]]'
+  - '[[_Standards/WikiData/WD~partial_inference_typing,65184347]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_C++,7112218]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_C++_programming_language,22732660]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_IEC_14882,66084444]]'
 subreddit: cpp
 inception: 1983-01-01T00:00:00Z
 icon:

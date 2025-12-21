@@ -4,22 +4,23 @@ aliases:
   - code_of_course
   - courseCode
   - has_code_of_course
+  - has code of course
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - course
   - code
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_code_of_course
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

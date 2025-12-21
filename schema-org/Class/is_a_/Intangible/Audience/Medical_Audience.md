@@ -4,20 +4,22 @@ aliases:
   - medical_audience
   - MedicalAudience
   - is_a_medical_audience
+  - Medical_Audience
+  - Medical Audience
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_audience
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_audience Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

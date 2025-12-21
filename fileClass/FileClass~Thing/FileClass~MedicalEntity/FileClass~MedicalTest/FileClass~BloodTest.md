@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~BloodTest
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/BloodTest
-- class/Thing/MedicalEntity/MedicalTest/BloodTest
-- is_a_/BloodTest
-- schema-org/BloodTest
+  - class/BloodTest
+  - class/Thing/MedicalEntity/MedicalTest/BloodTest
+  - is_a_/BloodTest
+  - schema-org/BloodTest
 tags:
-- class/FileClass
-- class/BloodTest
-- is_a_/BloodTest
-- class/Thing/MedicalEntity/MedicalTest/BloodTest
+  - class/FileClass
+  - class/BloodTest
+  - is_a_/BloodTest
+  - class/Thing/MedicalEntity/MedicalTest/BloodTest
 version: 2.0
 ---
 

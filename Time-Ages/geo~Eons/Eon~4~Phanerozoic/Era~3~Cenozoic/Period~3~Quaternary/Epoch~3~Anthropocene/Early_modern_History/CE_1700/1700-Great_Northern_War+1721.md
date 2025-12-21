@@ -1,35 +1,37 @@
 ---
 aliases:
   - Great Northern War
+  - 1700-Great_Northern_War+1721
+  - 1700-Great Northern War+1721
 has_id_wikidata: Q151616
 participant:
-  - "[[_Standards/WikiData/WD~Electorate_of_Saxony,156199]]"
-  - "[[_Standards/WikiData/WD~Crimean_Khanate,160440]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]"
-  - "[[_Standards/WikiData/WD~Dutch_Republic,170072]]"
-  - "[[_Standards/WikiData/WD~Wallachia,171393]]"
-  - "[[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107]]"
-  - "[[_Standards/WikiData/WD~Tsardom_of_Russia,186096]]"
-  - "[[_Standards/WikiData/WD~Cossack_Hetmanate,212439]]"
-  - "[[_Standards/WikiData/WD~Duke_of_Holstein_Gottorp,695919]]"
-  - "[[_Standards/WikiData/WD~Province_of_Hanover,819125]]"
-  - "[[_Standards/WikiData/WD~Kalmyk_Khanate,4210248]]"
-  - "[[_Standards/WikiData/WD~Principality_of_Moldavia,10957559]]"
-  - "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]"
-  - "[[_Standards/WikiData/WD~Denmark_Norway,62651]]"
-part_of: "[[_Standards/WikiData/WD~Russo_Swedish_Wars,278709]]"
+  - '[[_Standards/WikiData/WD~Electorate_of_Saxony,156199]]'
+  - '[[_Standards/WikiData/WD~Crimean_Khanate,160440]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
+  - '[[_Standards/WikiData/WD~Dutch_Republic,170072]]'
+  - '[[_Standards/WikiData/WD~Wallachia,171393]]'
+  - '[[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107]]'
+  - '[[_Standards/WikiData/WD~Tsardom_of_Russia,186096]]'
+  - '[[_Standards/WikiData/WD~Cossack_Hetmanate,212439]]'
+  - '[[_Standards/WikiData/WD~Duke_of_Holstein_Gottorp,695919]]'
+  - '[[_Standards/WikiData/WD~Province_of_Hanover,819125]]'
+  - '[[_Standards/WikiData/WD~Kalmyk_Khanate,4210248]]'
+  - '[[_Standards/WikiData/WD~Principality_of_Moldavia,10957559]]'
+  - '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
+  - '[[_Standards/WikiData/WD~Denmark_Norway,62651]]'
+part_of: '[[_Standards/WikiData/WD~Russo_Swedish_Wars,278709]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Eesti_1000,57005414]]"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Eesti_1000,57005414]]'
 end_time: 1721-09-10T00:00:00Z
 start_time: 1700-02-22T00:00:00Z
-locations: "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+locations: '[[_Standards/WikiData/WD~Eastern_Europe,27468]]'
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
 BHCL_UUID: f2e67da7-1ca6-4c26-88ef-ff2577200fc1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Narva%20%28Gustaf%20Cederstr%C3%B6m%29%20-%20Nationalmuseum%20-%2018638.tif
 Commons_gallery: Great Northern War

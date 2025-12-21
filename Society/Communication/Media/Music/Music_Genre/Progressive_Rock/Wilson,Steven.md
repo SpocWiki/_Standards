@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Steven Wilson"
+  - Steven Wilson
+  - Wilson,Steven
 ---
 
 # [[Wilson,Steven]] 

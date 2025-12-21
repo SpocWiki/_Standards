@@ -3,23 +3,24 @@ aliases:
   - has price-component
   - priceComponent
   - has_price_component
+  - has price component
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - price_component
   - price
   - component
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_price_component
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -2,41 +2,42 @@
 aliases:
   - Christ the Redeemer
   - Cristo Redentor
+  - Christ_the_Redeemer
 has_id_wikidata: Q79961
-movement: "[[_Standards/WikiData/WD~Art_Deco,173782]]"
+movement: '[[_Standards/WikiData/WD~Art_Deco,173782]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~statue,179700]]"
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~colossal_statue,1779653]]"
-  - "[[_Standards/WikiData/WD~monument,4989906]]"
-  - "[[_Standards/WikiData/WD~pilgrimage_site,15135589]]"
-  - "[[_Standards/WikiData/WD~colossal_statue_of_Jesus,29168169]]"
+  - '[[_Standards/WikiData/WD~statue,179700]]'
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~colossal_statue,1779653]]'
+  - '[[_Standards/WikiData/WD~monument,4989906]]'
+  - '[[_Standards/WikiData/WD~pilgrimage_site,15135589]]'
+  - '[[_Standards/WikiData/WD~colossal_statue_of_Jesus,29168169]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~reinforced_concrete,184190]]"
-  - "[[_Standards/WikiData/WD~soapstone,707896]]"
+  - '[[_Standards/WikiData/WD~reinforced_concrete,184190]]'
+  - '[[_Standards/WikiData/WD~soapstone,707896]]'
 architect:
-  - "[[_Standards/WikiData/WD~Albert_Caquot,364292]]"
-  - "[[_Standards/WikiData/WD~Paul_Landowski,710530]]"
-  - "[[_Standards/WikiData/WD~Gheorghe_Leonida,17479338]]"
-locations: "[[_Standards/WikiData/WD~Corcovado,506938]]"
-genre: "[[_Standards/WikiData/WD~public_art,557141]]"
+  - '[[_Standards/WikiData/WD~Albert_Caquot,364292]]'
+  - '[[_Standards/WikiData/WD~Paul_Landowski,710530]]'
+  - '[[_Standards/WikiData/WD~Gheorghe_Leonida,17479338]]'
+locations: '[[_Standards/WikiData/WD~Corcovado,506938]]'
+genre: '[[_Standards/WikiData/WD~public_art,557141]]'
 creator:
-  - "[[_Standards/WikiData/WD~Paul_Landowski,710530]]"
-  - "[[_Standards/WikiData/WD~Carlos_Oswald,9697270]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Tijuca_National_Park,1974494]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Alto_da_Boa_Vista,3613313]]"
+  - '[[_Standards/WikiData/WD~Paul_Landowski,710530]]'
+  - '[[_Standards/WikiData/WD~Carlos_Oswald,9697270]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Tijuca_National_Park,1974494]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Alto_da_Boa_Vista,3613313]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~lightning_strike,15120872]]"
-  - "[[_Standards/WikiData/WD~start_of_construction,27136782]]"
-  - "[[_Standards/WikiData/WD~end_of_manufacturing,59913255]]"
+  - '[[_Standards/WikiData/WD~lightning_strike,15120872]]'
+  - '[[_Standards/WikiData/WD~start_of_construction,27136782]]'
+  - '[[_Standards/WikiData/WD~end_of_manufacturing,59913255]]'
 heritage_designation:
-  - "[[_Standards/WikiData/WD~heritage_asset_listed_by_IPHAN,45823285]]"
-  - "[[_Standards/WikiData/WD~heritage_registered_by_RJ_Monuments_Inventory,67153310]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki_Loves_Monuments_in_Brazil,105730568]]"
+  - '[[_Standards/WikiData/WD~heritage_asset_listed_by_IPHAN,45823285]]'
+  - '[[_Standards/WikiData/WD~heritage_registered_by_RJ_Monuments_Inventory,67153310]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki_Loves_Monuments_in_Brazil,105730568]]'
 coordinate_location: Point(-43.210464122 -22.951915648)
-main_subject: "[[_Standards/WikiData/WD~Jesus_Christ,302]]"
-depicts: "[[_Standards/WikiData/WD~human_penis,8124]]"
-country: "[[_Standards/WikiData/WD~Brazil,155]]"
+main_subject: '[[_Standards/WikiData/WD~Jesus_Christ,302]]'
+depicts: '[[_Standards/WikiData/WD~human_penis,8124]]'
+country: '[[_Standards/WikiData/WD~Brazil,155]]'
 height:
   - 8
   - 30.1
@@ -53,8 +54,8 @@ nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Cristo%20e%20
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Redentor%20Over%20Clouds%201.jpg
 official_website: http://www.corcovado.com.br/
 ground_level_360_degree_view_URL: https://360stories.com/rio/story/christ-the-redeemer
-RIA_Novosti_reference: "54785361"
-P8189: "987007561087005171"
+RIA_Novosti_reference: 54785361
+P8189: 987007561087005171
 booru_tag: christ_the_redeemer
 Danbooru_tag: christ_the_redeemer
 hashtag_: christ_the_redeemer

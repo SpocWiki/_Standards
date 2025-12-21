@@ -2,31 +2,32 @@
 aliases:
   - Paläographie
   - paleography
+  - Palaeography
 has_id_wikidata: Q179957
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~manuscript,87167]]"
-  - "[[_Standards/WikiData/WD~historical_document,3771738]]"
-  - "[[_Standards/WikiData/WD~handwriting_style,33260112]]"
+  - '[[_Standards/WikiData/WD~manuscript,87167]]'
+  - '[[_Standards/WikiData/WD~historical_document,3771738]]'
+  - '[[_Standards/WikiData/WD~handwriting_style,33260112]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~auxiliary_science_of_history,770723]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-subclass_of: "[[_Standards/WikiData/WD~study_of_history,1066186]]"
-practiced_by: "[[_Standards/WikiData/WD~palaeographer,17132038]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q31455058,31455058]]"
+  - '[[_Standards/WikiData/WD~auxiliary_science_of_history,770723]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+subclass_of: '[[_Standards/WikiData/WD~study_of_history,1066186]]'
+practiced_by: '[[_Standards/WikiData/WD~palaeographer,17132038]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q31455058,31455058]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Shakespeare-Testament.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/P.Berol.%20inv.%209875%20col.%20v%20coronis.jpg
-Basisklassifikation: "06.13"
+Basisklassifikation: 06.13
 UMLS_CUI: C0030223
 Wolfram_Language_entity_code: Entity["Concept", "Paleography::4z26s"]
 MeSH_tree_code: L01.559.423.906.539.500

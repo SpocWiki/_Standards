@@ -5,75 +5,76 @@ aliases:
   - Niccolò Machiavelli
   - Niccolò di Bernardo dei Machiavelli
   - Niccolò_Machiavelli
+  - Machiavelli,Niccolò
 has_id_wikidata: Q1399
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~diplomat,193391]]"
-  - "[[_Standards/WikiData/WD~historian,201788]]"
-  - "[[_Standards/WikiData/WD~playwright,214917]]"
-  - "[[_Standards/WikiData/WD~translator,333634]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~military_theorist,12806039]]"
-  - "[[_Standards/WikiData/WD~political_theorist,15994177]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~diplomat,193391]]'
+  - '[[_Standards/WikiData/WD~historian,201788]]'
+  - '[[_Standards/WikiData/WD~playwright,214917]]'
+  - '[[_Standards/WikiData/WD~translator,333634]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~military_theorist,12806039]]'
+  - '[[_Standards/WikiData/WD~political_theorist,15994177]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~The_Prince,131719]]"
-  - "[[_Standards/WikiData/WD~Discourses_on_Livy,924424]]"
-  - "[[_Standards/WikiData/WD~Capitoli,113519346]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Republic_of_Florence,148540]]"
-cause_of_death: "[[_Standards/WikiData/WD~peritonitis,223102]]"
+  - '[[_Standards/WikiData/WD~The_Prince,131719]]'
+  - '[[_Standards/WikiData/WD~Discourses_on_Livy,924424]]'
+  - '[[_Standards/WikiData/WD~Capitoli,113519346]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Republic_of_Florence,148540]]'
+cause_of_death: '[[_Standards/WikiData/WD~peritonitis,223102]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Machiavelli._Enciclopedia_Machiavelliana,63144376]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-educated_at: "[[_Standards/WikiData/WD~University_of_Florence,820887]]"
-father: "[[_Standards/WikiData/WD~Bernardo_di_Niccolò_Machiavelli,823072]]"
-given_name: "[[_Standards/WikiData/WD~Niccolò,1984713]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Machiavelli._Enciclopedia_Machiavelliana,63144376]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+educated_at: '[[_Standards/WikiData/WD~University_of_Florence,820887]]'
+father: '[[_Standards/WikiData/WD~Bernardo_di_Niccolò_Machiavelli,823072]]'
+given_name: '[[_Standards/WikiData/WD~Niccolò,1984713]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Tuscan,1990745]]"
-  - "[[_Standards/WikiData/WD~Italian,652]]"
+  - '[[_Standards/WikiData/WD~Tuscan,1990745]]'
+  - '[[_Standards/WikiData/WD~Italian,652]]'
 place_of_death: "[[_Standards/WikiData/WD~Sant'Andrea_in_Percussina,2509922]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-different_from: "[[_Standards/WikiData/WD~Niccolò_Machiavelli,15311816]]"
-relative: "[[_Standards/WikiData/WD~Niccolò_Machiavelli,15311816]]"
-sibling: "[[_Standards/WikiData/WD~Totto_di_Bernardo_Machiavelli,15851280]]"
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+different_from: '[[_Standards/WikiData/WD~Niccolò_Machiavelli,15311816]]'
+relative: '[[_Standards/WikiData/WD~Niccolò_Machiavelli,15311816]]'
+sibling: '[[_Standards/WikiData/WD~Totto_di_Bernardo_Machiavelli,15851280]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Portrait_of_Niccolò_Machiavelli,18425063]]"
-  - "[[_Standards/WikiData/WD~Tomb_of_Niccolò_Machiavelli,126003985]]"
-family_name: "[[_Standards/WikiData/WD~Machiavelli,21555242]]"
+  - '[[_Standards/WikiData/WD~Portrait_of_Niccolò_Machiavelli,18425063]]'
+  - '[[_Standards/WikiData/WD~Tomb_of_Niccolò_Machiavelli,126003985]]'
+family_name: '[[_Standards/WikiData/WD~Machiavelli,21555242]]'
 child:
-  - "[[_Standards/WikiData/WD~Piero_Macchiavelli,27093668]]"
-  - "[[_Standards/WikiData/WD~Bartolomea_Machiavelli,45350476]]"
-  - "[[_Standards/WikiData/WD~Bernardo_Macciavelli,45350543]]"
-  - "[[_Standards/WikiData/WD~Ludovico_Macciavelli,45350595]]"
-  - "[[_Standards/WikiData/WD~Guido_Machiavelli,45350838]]"
-spouse: "[[_Standards/WikiData/WD~Marietta_Corsini,45350389]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-mother: "[[_Standards/WikiData/WD~Bartolomea_di_Stefano_Nelli,111456925]]"
-attested_in: "[[_Standards/WikiData/WD~Mare_Magnum._Etruria_(vol._95),118466009]]"
+  - '[[_Standards/WikiData/WD~Piero_Macchiavelli,27093668]]'
+  - '[[_Standards/WikiData/WD~Bartolomea_Machiavelli,45350476]]'
+  - '[[_Standards/WikiData/WD~Bernardo_Macciavelli,45350543]]'
+  - '[[_Standards/WikiData/WD~Ludovico_Macciavelli,45350595]]'
+  - '[[_Standards/WikiData/WD~Guido_Machiavelli,45350838]]'
+spouse: '[[_Standards/WikiData/WD~Marietta_Corsini,45350389]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+mother: '[[_Standards/WikiData/WD~Bartolomea_di_Stefano_Nelli,111456925]]'
+attested_in: '[[_Standards/WikiData/WD~Mare_Magnum._Etruria_(vol._95),118466009]]'
 place_of_burial:
-  - "[[_Standards/WikiData/WD~Tomb_of_Niccolò_Machiavelli,126003985]]"
-  - "[[_Standards/WikiData/WD~Basilica_of_Santa_Croce,51177]]"
+  - '[[_Standards/WikiData/WD~Tomb_of_Niccolò_Machiavelli,126003985]]'
+  - '[[_Standards/WikiData/WD~Basilica_of_Santa_Croce,51177]]'
 date_of_birth: 1469-05-12T00:00:00Z
-writing_language: "[[_Standards/WikiData/WD~Italian,652]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-place_of_birth: "[[_Standards/WikiData/WD~Florence,2044]]"
-field_of_work: "[[_Standards/WikiData/WD~philosophy,5891]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Italy,38]]"
+writing_language: '[[_Standards/WikiData/WD~Italian,652]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+place_of_birth: '[[_Standards/WikiData/WD~Florence,2044]]'
+field_of_work: '[[_Standards/WikiData/WD~philosophy,5891]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_location: '[[_Standards/WikiData/WD~Italy,38]]'
 number_of_children: 6
 name_in_native_language: Niccolò di Bernardo dei Machiavelli
 short_name: Niccolò Machiavelli
@@ -85,12 +86,12 @@ Commons_category: Niccolò Machiavelli
 Commons_Creator_page: Niccolò Machiavelli
 Commons_gallery: Niccolò Machiavelli
 Library_of_Congress_Classification: B785.M2-B785.M24
-NLC_authorities: "000201986"
+NLC_authorities: 000201986
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Innocenzo%20Spinazzi%2C%20monumento%20funebre%20a%20niccol%C3%B2%20machiavelli%2C%201787%2C%2001.jpg
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20the%20house%20of%20Macchiavelli.svg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Machiavelli%20Signature.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Niccol%C3%B2%20Machiavelli%20by%20Santi%20di%20Tito.jpg
-ISNI: "0000000121441233"
+ISNI: 0000000121441233
 Libris_URI: 0xbdffpj1xwn81k
 Provenio_UUID: 2a224b3d-9756-432a-97dc-c0c6e83239d2
 Europeana_entity: agent/base/145346

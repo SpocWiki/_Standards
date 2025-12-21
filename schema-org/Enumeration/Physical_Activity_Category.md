@@ -4,20 +4,22 @@ aliases:
   - physical_activity_category
   - PhysicalActivityCategory
   - is_a_physical_activity_category
+  - Physical_Activity_Category
+  - Physical Activity Category
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - physical_activity_category
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_physical_activity_category Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

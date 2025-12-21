@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Black_Tea
+  - Black Tea
 has_id_wikidata: Q203415
 ---
 

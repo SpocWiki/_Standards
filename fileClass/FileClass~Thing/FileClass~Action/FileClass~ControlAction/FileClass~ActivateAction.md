@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ActivateAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~ControlAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ActivateAction
-- class/Thing/Action/ControlAction/ActivateAction
-- is_an_/ActivateAction
-- schema-org/ActivateAction
+  - class/ActivateAction
+  - class/Thing/Action/ControlAction/ActivateAction
+  - is_an_/ActivateAction
+  - schema-org/ActivateAction
 tags:
-- class/FileClass
-- class/ActivateAction
-- '#is_an_/ActivateAction'
-- class/Thing/Action/ControlAction/ActivateAction
+  - class/FileClass
+  - class/ActivateAction
+  - '#is_an_/ActivateAction'
+  - class/Thing/Action/ControlAction/ActivateAction
 version: 2.0
 ---
 

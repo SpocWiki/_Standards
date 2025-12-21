@@ -1,8 +1,9 @@
 ---
 aliases:
-- "capital vice"
-- "cardinal sin"
-- "Seven deadly Sins"
+  - capital vice
+  - cardinal sin
+  - Seven deadly Sins
+  - Seven_deadly_Sins
 ---
 
 ## #has_/text_of_/abstract 

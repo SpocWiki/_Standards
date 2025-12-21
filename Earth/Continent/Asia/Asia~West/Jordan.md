@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Jordan
+  - Jordania
+  - Jordanie
+  - الأردن
+  - 约旦
+  - Иордания
+  - the Hashemite Kingdom of Jordan
+  - el Reino Hachemita de Jordania
+has_id_wikidata: Q810
 part_of:
   - "[[_Standards/WikiData/WD~Arab_world,143487]]"
   - "[[_Standards/WikiData/WD~Middle_East,7204]]"
@@ -264,7 +274,7 @@ PM20_geo_code: B24b
 short_name: 🇯🇴
 Commons_gallery: الأردن
 U_S_National_Archives_Identifier: 10035706
-inception: "1946"
+inception: 1946
 has_time_started: 1946-06
 licence_plate_code: HKJ
 geoshape: http://commons.wikimedia.org/data/main/Data:Jordan.map
@@ -286,7 +296,6 @@ motto_text:
   - Yes, it's Jordan
   - אללה, המולדת, המלך
 official_name: المملكة الأردنية الهاشمية
-has_id_wikidata: Q810
 location:
   - 31.95
   - 35.93
@@ -303,21 +312,12 @@ cssclasses:
   - Country
 publish: true
 title: Jordan
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Jordan
-  - Jordania
-  - Jordanie
-  - الأردن
-  - 约旦
-  - Иордания
-  - the Hashemite Kingdom of Jordan
-  - el Reino Hachemita de Jordania
+publishDate: ""
+expiryDate: ""
 Languages:
   - ar-JO
   - en

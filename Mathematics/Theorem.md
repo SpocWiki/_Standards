@@ -3,21 +3,21 @@ aliases:
   - Theorem
 has_id_wikidata: Q65943
 subclass_of:
-  - "[[_Standards/WikiData/WD~proposition,108163]]"
-  - "[[_Standards/WikiData/WD~conclusion,20665666]]"
-has_characteristic: "[[_Standards/WikiData/WD~existence,468777]]"
+  - '[[_Standards/WikiData/WD~proposition,108163]]'
+  - '[[_Standards/WikiData/WD~conclusion,20665666]]'
+has_characteristic: '[[_Standards/WikiData/WD~existence,468777]]'
 uses:
-  - "[[_Standards/WikiData/WD~deductive_reasoning,484284]]"
-  - "[[_Standards/WikiData/WD~axiomatic_system,792542]]"
-based_on: "[[_Standards/WikiData/WD~axiomatic_system,792542]]"
-part_of: "[[_Standards/WikiData/WD~formal_proof,2762418]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~deductive_reasoning,484284]]'
+  - '[[_Standards/WikiData/WD~axiomatic_system,792542]]'
+based_on: '[[_Standards/WikiData/WD~axiomatic_system,792542]]'
+part_of: '[[_Standards/WikiData/WD~formal_proof,2762418]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~conclusion,43338988]]"
-  - "[[_Standards/WikiData/WD~mathematical_proof,11538]]"
-  - "[[_Standards/WikiData/WD~hypothesis,41719]]"
+  - '[[_Standards/WikiData/WD~conclusion,43338988]]'
+  - '[[_Standards/WikiData/WD~mathematical_proof,11538]]'
+  - '[[_Standards/WikiData/WD~hypothesis,41719]]'
 properties_for_this_type: studied by
-OmegaWiki_Defined_Meaning: "721810"
+OmegaWiki_Defined_Meaning: 721810
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%87%E0%A4%AF.wav
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Tabler-icons%20math-integral-x.svg
 EntitySchema_for_this_class: E448

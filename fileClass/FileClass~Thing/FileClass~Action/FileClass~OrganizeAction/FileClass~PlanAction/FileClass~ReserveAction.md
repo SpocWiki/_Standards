@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ReserveAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ReserveAction
-- class/Thing/Action/OrganizeAction/PlanAction/ReserveAction
-- is_a_/ReserveAction
-- schema-org/ReserveAction
+  - class/ReserveAction
+  - class/Thing/Action/OrganizeAction/PlanAction/ReserveAction
+  - is_a_/ReserveAction
+  - schema-org/ReserveAction
 tags:
-- class/FileClass
-- class/ReserveAction
-- is_a_/ReserveAction
-- class/Thing/Action/OrganizeAction/PlanAction/ReserveAction
+  - class/FileClass
+  - class/ReserveAction
+  - is_a_/ReserveAction
+  - class/Thing/Action/OrganizeAction/PlanAction/ReserveAction
 version: 2.0
 ---
 

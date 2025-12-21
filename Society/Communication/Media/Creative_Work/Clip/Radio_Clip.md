@@ -4,20 +4,22 @@ aliases:
   - radio_clip
   - RadioClip
   - is_a_radio_clip
+  - Radio_Clip
+  - Radio Clip
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - radio_clip
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_radio_clip Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

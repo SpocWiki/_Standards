@@ -2,11 +2,13 @@
 aliases:
   - control of fire by early humans
   - control of fire by humans
+  - Control_of_fire_by_early_humans
+  - Control of fire by early humans
 has_id_wikidata: Q912205
 instance_of:
-  - "[[_Standards/WikiData/WD~skill,205961]]"
-  - "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-facet_of: "[[_Standards/WikiData/WD~behavioral_modernity,2706556]]"
+  - '[[_Standards/WikiData/WD~skill,205961]]'
+  - '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+facet_of: '[[_Standards/WikiData/WD~behavioral_modernity,2706556]]'
 earliest_date: -1.900000e6
 latest_date: -0.790000e6
 video: http://commons.wikimedia.org/wiki/Special:FilePath/How%20%28and%20when%29%20did%20humans%20first%20make%20fire.webm

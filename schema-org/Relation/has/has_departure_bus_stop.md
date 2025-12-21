@@ -2,12 +2,13 @@
 aliases:
   - has departure-bus-stop
   - has_departure_bus_stop
+  - has departure bus stop
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - stop
   - departure_bus_stop
   - departureBusStop
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_departure_bus_stop
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

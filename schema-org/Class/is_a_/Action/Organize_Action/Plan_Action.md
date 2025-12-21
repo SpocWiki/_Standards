@@ -4,20 +4,22 @@ aliases:
   - plan_action
   - PlanAction
   - is_a_plan_action
+  - Plan_Action
+  - Plan Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - plan_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_plan_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

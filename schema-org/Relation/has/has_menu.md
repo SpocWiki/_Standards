@@ -1,24 +1,25 @@
 ---
 aliases:
-- has_menu
+  - has_menu
+  - has menu
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- menu
-layout: 
-license: "CC BY-SA 4.0"
+  - menu
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_menu
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_menu
 type: Predi_Relation
 ---

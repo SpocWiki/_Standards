@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Bhagavad_Gita
+  - Bhagavad Gita
 has_id_wikidata: Q46802
 Wolfram_Language_entity_code: Entity["Book", "BhagavadGita"]
 Krugosvet_article: kultura_i_obrazovanie/religiya/BHAGAVADGITA.html
@@ -8,83 +11,83 @@ title:
   - भगवद्गीता
 earliest_date: http://www.wikidata.org/.well-known/genid/2c5cebf20c617edebbbe5775c6509297
 characters:
-  - "[[_Standards/WikiData/WD~Arjuna,185790]]"
-  - "[[_Standards/WikiData/WD~Dhritarashtra,926150]]"
-  - "[[_Standards/WikiData/WD~Sanjaya,2389469]]"
-  - "[[_Standards/WikiData/WD~Krishna,42891]]"
-author: "[[_Standards/WikiData/WD~Vyasa,330521]]"
+  - '[[_Standards/WikiData/WD~Arjuna,185790]]'
+  - '[[_Standards/WikiData/WD~Dhritarashtra,926150]]'
+  - '[[_Standards/WikiData/WD~Sanjaya,2389469]]'
+  - '[[_Standards/WikiData/WD~Krishna,42891]]'
+author: '[[_Standards/WikiData/WD~Vyasa,330521]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Bhagavad_gītā_As_It_Is,854700]]"
-  - "[[_Standards/WikiData/WD~Bhagavad_Gita,4900614]]"
-  - "[[_Standards/WikiData/WD~Q19181613,19181613]]"
-  - "[[_Standards/WikiData/WD~God_Talks_with_Arjuna_The_Bhagavad_Gita,60755062]]"
-  - "[[_Standards/WikiData/WD~The_Bhagavad_Gita,63196913]]"
-  - "[[_Standards/WikiData/WD~The_Bhagavad_Gita,63196925]]"
-  - "[[_Standards/WikiData/WD~Bhagavad_Gita,86016746]]"
-  - "[[_Standards/WikiData/WD~Bhagavad_Gita_The_Song_of_God,108659922]]"
-  - "[[_Standards/WikiData/WD~Śrīmad_Bhagavad_Gītā,108660034]]"
-  - "[[_Standards/WikiData/WD~The_Holy_Geeta,108731212]]"
-  - "[[_Standards/WikiData/WD~Q111600386,111600386]]"
-  - "[[_Standards/WikiData/WD~Q111600385,111600385]]"
-  - "[[_Standards/WikiData/WD~Q111600391,111600391]]"
-  - "[[_Standards/WikiData/WD~ଶ_ର_ମଦ_ଭଗବଦ_ଗ_ତ_,111600388]]"
-  - "[[_Standards/WikiData/WD~Q111600394,111600394]]"
-  - "[[_Standards/WikiData/WD~Shrimadbhagbadgeeta,117190985]]"
-  - "[[_Standards/WikiData/WD~Shrimadbhagbadgeeta,117191037]]"
-  - "[[_Standards/WikiData/WD~Shrimadbhagbadgeeta,117191056]]"
-  - "[[_Standards/WikiData/WD~Shrimadbhagbadgeeta,117191071]]"
-  - "[[_Standards/WikiData/WD~Bhagabadgeeta,118640742]]"
-  - "[[_Standards/WikiData/WD~Shrimadbhagbatgeeta,120052749]]"
-  - "[[_Standards/WikiData/WD~Shrimadbhagbatgeeta_(Part_1),120052944]]"
-  - "[[_Standards/WikiData/WD~Shrimadbhagbatgeeta_(Part_5),120053026]]"
-  - "[[_Standards/WikiData/WD~Shrimadbhagbatgeeta,120053121]]"
-  - "[[_Standards/WikiData/WD~Shrimadbhagbadgeeta,120053249]]"
-  - "[[_Standards/WikiData/WD~Shrimadbhagbat_(Volume_13),120053494]]"
-  - "[[_Standards/WikiData/WD~Shrishrimadbhagbhadgeeta,120081080]]"
-  - "[[_Standards/WikiData/WD~Shrimadbhagbatam_(Saptam_Skandha),120670041]]"
-  - "[[_Standards/WikiData/WD~Shrimadbhagbadgeeta,124333329]]"
-  - "[[_Standards/WikiData/WD~Shrimadbhagvadgeeta,125964420]]"
-  - "[[_Standards/WikiData/WD~Shrimadbhagvadgeeta,125964450]]"
-  - "[[_Standards/WikiData/WD~Shrimadbhagbadgeeta,126950501]]"
-  - "[[_Standards/WikiData/WD~Shrimadbhagbadgeeta,127700080]]"
-  - "[[_Standards/WikiData/WD~Shrimadbhagbadgeeta,127700101]]"
-  - "[[_Standards/WikiData/WD~Shrimadbhagbatgeeta_(Part_6),133456595]]"
-  - "[[_Standards/WikiData/WD~Shrimadbhagbatgeeta_(Part_4),133456612]]"
-part_of: "[[_Standards/WikiData/WD~Bhisma_Parva,2472912]]"
+  - '[[_Standards/WikiData/WD~Bhagavad_gītā_As_It_Is,854700]]'
+  - '[[_Standards/WikiData/WD~Bhagavad_Gita,4900614]]'
+  - '[[_Standards/WikiData/WD~Q19181613,19181613]]'
+  - '[[_Standards/WikiData/WD~God_Talks_with_Arjuna_The_Bhagavad_Gita,60755062]]'
+  - '[[_Standards/WikiData/WD~The_Bhagavad_Gita,63196913]]'
+  - '[[_Standards/WikiData/WD~The_Bhagavad_Gita,63196925]]'
+  - '[[_Standards/WikiData/WD~Bhagavad_Gita,86016746]]'
+  - '[[_Standards/WikiData/WD~Bhagavad_Gita_The_Song_of_God,108659922]]'
+  - '[[_Standards/WikiData/WD~Śrīmad_Bhagavad_Gītā,108660034]]'
+  - '[[_Standards/WikiData/WD~The_Holy_Geeta,108731212]]'
+  - '[[_Standards/WikiData/WD~Q111600386,111600386]]'
+  - '[[_Standards/WikiData/WD~Q111600385,111600385]]'
+  - '[[_Standards/WikiData/WD~Q111600391,111600391]]'
+  - '[[_Standards/WikiData/WD~ଶ_ର_ମଦ_ଭଗବଦ_ଗ_ତ_,111600388]]'
+  - '[[_Standards/WikiData/WD~Q111600394,111600394]]'
+  - '[[_Standards/WikiData/WD~Shrimadbhagbadgeeta,117190985]]'
+  - '[[_Standards/WikiData/WD~Shrimadbhagbadgeeta,117191037]]'
+  - '[[_Standards/WikiData/WD~Shrimadbhagbadgeeta,117191056]]'
+  - '[[_Standards/WikiData/WD~Shrimadbhagbadgeeta,117191071]]'
+  - '[[_Standards/WikiData/WD~Bhagabadgeeta,118640742]]'
+  - '[[_Standards/WikiData/WD~Shrimadbhagbatgeeta,120052749]]'
+  - '[[_Standards/WikiData/WD~Shrimadbhagbatgeeta_(Part_1),120052944]]'
+  - '[[_Standards/WikiData/WD~Shrimadbhagbatgeeta_(Part_5),120053026]]'
+  - '[[_Standards/WikiData/WD~Shrimadbhagbatgeeta,120053121]]'
+  - '[[_Standards/WikiData/WD~Shrimadbhagbadgeeta,120053249]]'
+  - '[[_Standards/WikiData/WD~Shrimadbhagbat_(Volume_13),120053494]]'
+  - '[[_Standards/WikiData/WD~Shrishrimadbhagbhadgeeta,120081080]]'
+  - '[[_Standards/WikiData/WD~Shrimadbhagbatam_(Saptam_Skandha),120670041]]'
+  - '[[_Standards/WikiData/WD~Shrimadbhagbadgeeta,124333329]]'
+  - '[[_Standards/WikiData/WD~Shrimadbhagvadgeeta,125964420]]'
+  - '[[_Standards/WikiData/WD~Shrimadbhagvadgeeta,125964450]]'
+  - '[[_Standards/WikiData/WD~Shrimadbhagbadgeeta,126950501]]'
+  - '[[_Standards/WikiData/WD~Shrimadbhagbadgeeta,127700080]]'
+  - '[[_Standards/WikiData/WD~Shrimadbhagbadgeeta,127700101]]'
+  - '[[_Standards/WikiData/WD~Shrimadbhagbatgeeta_(Part_6),133456595]]'
+  - '[[_Standards/WikiData/WD~Shrimadbhagbatgeeta_(Part_4),133456612]]'
+part_of: '[[_Standards/WikiData/WD~Bhisma_Parva,2472912]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Aksara_Brahma_Yoga,2721874]]"
-  - "[[_Standards/WikiData/WD~Arjuna_Visada_Yoga,2722720]]"
-  - "[[_Standards/WikiData/WD~Atmasanyam_Yoga,2724042]]"
-  - "[[_Standards/WikiData/WD~Karma_Yoga,2727266]]"
-  - "[[_Standards/WikiData/WD~Karma_Sanyasa_Yoga,2727267]]"
-  - "[[_Standards/WikiData/WD~Gyaana_Karma_Sanyasa_Yoga,2758671]]"
-  - "[[_Standards/WikiData/WD~jñānavijñānayogaḥ,2758672]]"
-  - "[[_Standards/WikiData/WD~Purusottama_Yoga,2764722]]"
-  - "[[_Standards/WikiData/WD~Sankhya_Yoga,2774929]]"
-  - "[[_Standards/WikiData/WD~Visvarupa_Darsana_Yoga,12443238]]"
-  - "[[_Standards/WikiData/WD~Bhakti_Yoga,12443239]]"
-  - "[[_Standards/WikiData/WD~Vibhuti_Vistara_Yoga,12443237]]"
-  - "[[_Standards/WikiData/WD~Daivasura_Sampad_Vibhaga_Yoga,12443243]]"
-  - "[[_Standards/WikiData/WD~Gunatraya_Vibhaga_Yoga,12443240]]"
-  - "[[_Standards/WikiData/WD~Ksetra_Ksetrajna_Vibhaga_Yoga,12443241]]"
-  - "[[_Standards/WikiData/WD~Moksha_Sanyasa_Yoga,12443244]]"
-  - "[[_Standards/WikiData/WD~Raja_Vidya_Raja_Guhya_Yoga,12443250]]"
-  - "[[_Standards/WikiData/WD~Sraddhatraya_Vibhaga_Yoga,13004716]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~poem,5185279]]"
-instance_of: "[[_Standards/WikiData/WD~literary_work,7725634]]"
-genre: "[[_Standards/WikiData/WD~religious_poem,14946913]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25689818,25689818]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~Sanskrit,11059]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
+  - '[[_Standards/WikiData/WD~Aksara_Brahma_Yoga,2721874]]'
+  - '[[_Standards/WikiData/WD~Arjuna_Visada_Yoga,2722720]]'
+  - '[[_Standards/WikiData/WD~Atmasanyam_Yoga,2724042]]'
+  - '[[_Standards/WikiData/WD~Karma_Yoga,2727266]]'
+  - '[[_Standards/WikiData/WD~Karma_Sanyasa_Yoga,2727267]]'
+  - '[[_Standards/WikiData/WD~Gyaana_Karma_Sanyasa_Yoga,2758671]]'
+  - '[[_Standards/WikiData/WD~jñānavijñānayogaḥ,2758672]]'
+  - '[[_Standards/WikiData/WD~Purusottama_Yoga,2764722]]'
+  - '[[_Standards/WikiData/WD~Sankhya_Yoga,2774929]]'
+  - '[[_Standards/WikiData/WD~Visvarupa_Darsana_Yoga,12443238]]'
+  - '[[_Standards/WikiData/WD~Bhakti_Yoga,12443239]]'
+  - '[[_Standards/WikiData/WD~Vibhuti_Vistara_Yoga,12443237]]'
+  - '[[_Standards/WikiData/WD~Daivasura_Sampad_Vibhaga_Yoga,12443243]]'
+  - '[[_Standards/WikiData/WD~Gunatraya_Vibhaga_Yoga,12443240]]'
+  - '[[_Standards/WikiData/WD~Ksetra_Ksetrajna_Vibhaga_Yoga,12443241]]'
+  - '[[_Standards/WikiData/WD~Moksha_Sanyasa_Yoga,12443244]]'
+  - '[[_Standards/WikiData/WD~Raja_Vidya_Raja_Guhya_Yoga,12443250]]'
+  - '[[_Standards/WikiData/WD~Sraddhatraya_Vibhaga_Yoga,13004716]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~poem,5185279]]'
+instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
+genre: '[[_Standards/WikiData/WD~religious_poem,14946913]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25689818,25689818]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Sanskrit,11059]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BhagavadGita-19th-century-Illustrated-Sanskrit-Chapter%201.20.21.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34239%20%28kok%29-Fredericknoronha-Bhagavad%20Gita.wav
-P8189: "987007280772205171"
+P8189: 987007280772205171
 Commons_category: Bhagavad Gita
 Commons_gallery: Bhagavad Gita
 ---

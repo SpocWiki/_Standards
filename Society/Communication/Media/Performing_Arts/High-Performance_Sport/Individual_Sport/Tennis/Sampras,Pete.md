@@ -3,39 +3,40 @@ aliases:
   - Pete_Sampras
   - Pete Sampras
   - Sampras
+  - Sampras,Pete
 has_id_wikidata: Q9446
-residence: "[[_Standards/WikiData/WD~Bel_Air,86768]]"
-spouse: "[[_Standards/WikiData/WD~Bridgette_Wilson,238432]]"
-sibling: "[[_Standards/WikiData/WD~Stella_Sampras,2342173]]"
-handedness: "[[_Standards/WikiData/WD~right_handedness,3039938]]"
+residence: '[[_Standards/WikiData/WD~Bel_Air,86768]]'
+spouse: '[[_Standards/WikiData/WD~Bridgette_Wilson,238432]]'
+sibling: '[[_Standards/WikiData/WD~Stella_Sampras,2342173]]'
+handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
 playing_hand:
-  - "[[_Standards/WikiData/WD~right_handedness,3039938]]"
-  - "[[_Standards/WikiData/WD~one_handed_forehand,14419931]]"
-  - "[[_Standards/WikiData/WD~one_handed_backhand,14420039]]"
-member_of_political_party: "[[_Standards/WikiData/WD~California_Republican_Party,5020915]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-occupation: "[[_Standards/WikiData/WD~tennis_player,10833314]]"
-educated_at: "[[_Standards/WikiData/WD~Palos_Verdes_High_School,14683607]]"
-given_name: "[[_Standards/WikiData/WD~Q16269170,16269170]]"
+  - '[[_Standards/WikiData/WD~right_handedness,3039938]]'
+  - '[[_Standards/WikiData/WD~one_handed_forehand,14419931]]'
+  - '[[_Standards/WikiData/WD~one_handed_backhand,14420039]]'
+member_of_political_party: '[[_Standards/WikiData/WD~California_Republican_Party,5020915]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+occupation: '[[_Standards/WikiData/WD~tennis_player,10833314]]'
+educated_at: '[[_Standards/WikiData/WD~Palos_Verdes_High_School,14683607]]'
+given_name: '[[_Standards/WikiData/WD~Q16269170,16269170]]'
 sports_discipline_competed_in:
-  - "[[_Standards/WikiData/WD~tennis_singles,18123880]]"
-  - "[[_Standards/WikiData/WD~tennis_doubles,18123885]]"
+  - '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
+  - '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
 child:
-  - "[[_Standards/WikiData/WD~Ryan_Sampras,22566823]]"
-  - "[[_Standards/WikiData/WD~Christian_Sampras,22566821]]"
-family_name: "[[_Standards/WikiData/WD~Sampras,94041862]]"
-sport: "[[_Standards/WikiData/WD~tennis,847]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-significant_person: "[[_Standards/WikiData/WD~Andre_Agassi,7407]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_birth: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+  - '[[_Standards/WikiData/WD~Ryan_Sampras,22566823]]'
+  - '[[_Standards/WikiData/WD~Christian_Sampras,22566821]]'
+family_name: '[[_Standards/WikiData/WD~Sampras,94041862]]'
+sport: '[[_Standards/WikiData/WD~tennis,847]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+significant_person: '[[_Standards/WikiData/WD~Andre_Agassi,7407]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_birth: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
 ranking:
   - 1
   - 27
 mass: 80
 height: 185
-award_received: "[[_Standards/WikiData/WD~International_Tennis_Hall_of_Fame,52454]]"
+award_received: '[[_Standards/WikiData/WD~International_Tennis_Hall_of_Fame,52454]]'
 Commons_category: Pete Sampras
 date_of_birth: 1971-08-12T00:00:00Z
 work_period_start_: 1988-01-01T00:00:00Z
@@ -43,8 +44,8 @@ work_period_end_: 2003-09-08T00:00:00Z
 prize_money: 43280489
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pete%20Sampras%20%282008%29%201%2C%20cropped.jpg
 official_website: http://www.petesampras.com
-ISNI: "0000000092829772"
-Munzinger_Sport_number: "01000003323"
+ISNI: 0000000092829772
+Munzinger_Sport_number: 01000003323
 Plex_person_key: 5d776a6396b655001fded883
 doubles_record: 64–70
 singles_record: 762–222

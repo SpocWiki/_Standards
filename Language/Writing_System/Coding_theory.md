@@ -1,6 +1,7 @@
 ---
 aliases:
   - Coding theory
+  - Coding_theory
 has_id_wikidata: Q602136
 ---
 

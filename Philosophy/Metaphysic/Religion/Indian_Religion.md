@@ -1,6 +1,7 @@
 ---
 aliases:
   - Indian Religion
+  - Indian_Religion
 ---
 
 # [[Indian_Religion]] 

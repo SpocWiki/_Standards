@@ -1,21 +1,22 @@
 ---
 aliases:
   - Futuristic
+  - Futurism
 has_id_wikidata: Q131221
 different_from:
-  - "[[_Standards/WikiData/WD~futures_studies,188867]]"
-  - "[[_Standards/WikiData/WD~Futurians,848452]]"
-founded_by: "[[_Standards/WikiData/WD~Filippo_Tommaso_Marinetti,216582]]"
+  - '[[_Standards/WikiData/WD~futures_studies,188867]]'
+  - '[[_Standards/WikiData/WD~Futurians,848452]]'
+founded_by: '[[_Standards/WikiData/WD~Filippo_Tommaso_Marinetti,216582]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~futurist_architecture,333353]]"
-  - "[[_Standards/WikiData/WD~Russian_Futurism,617166]]"
-instance_of: "[[_Standards/WikiData/WD~art_movement,968159]]"
-described_by_source: "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[_Standards/WikiData/WD~futurist_architecture,333353]]'
+  - '[[_Standards/WikiData/WD~Russian_Futurism,617166]]'
+instance_of: '[[_Standards/WikiData/WD~art_movement,968159]]'
+described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 country:
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-influenced_by: "[[_Standards/WikiData/WD~Cubism,42934]]"
+  - '[[_Standards/WikiData/WD~Italy,38]]'
+  - '[[_Standards/WikiData/WD~Poland,36]]'
+  - '[[_Standards/WikiData/WD~Russia,159]]'
+influenced_by: '[[_Standards/WikiData/WD~Cubism,42934]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Aldo%20Palazzeschi%2C%20Carlo%20Carr%C3%A0%2C%20Giovanni%20Papini%2C%20Umberto%20Boccioni%2C%20Filippo%20Tommaso%20Marinetti%2C%201914.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Dynamism%20of%20a%20Biker%20%281913%29%20by%20Umberto%20Boccioni.jpg

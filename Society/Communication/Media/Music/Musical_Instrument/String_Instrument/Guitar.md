@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Guitar
+has_id_wikidata: Q6607
 Amazon_com_browse_node: 11971241
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Romanza%20espa%C3%B1ola.ogg
 award_received: "[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]"
@@ -19,7 +22,6 @@ Dewey_Decimal_Classification: 787.87
 different_from: "[[_Standards/WikiData/WD~Sista,4420886]]"
 equivalent_class: http://dbpedia.org/ontology/Guitar
 GitHub_topic: guitar
-has_id_wikidata: Q6607
 has_part_s_:
   - "[[_Standards/WikiData/WD~sound_hole,221712]]"
   - "[[_Standards/WikiData/WD~truss_rod,590623]]"
@@ -59,7 +61,7 @@ used_by: "[[_Standards/WikiData/WD~guitarist,855091]]"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Mongrain-AirTap.ogv
 ---
 
-# [[Guitar]] 
+# [[Guitar]] 🎸 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Guitar,6607|WD~Guitar,6607]] 
 

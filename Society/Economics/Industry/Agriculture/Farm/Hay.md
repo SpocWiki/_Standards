@@ -1,6 +1,7 @@
 ---
 aliases:
   - Heu
+  - Hay
 has_id_wikidata: Q336989
 ---
 

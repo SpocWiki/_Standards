@@ -1,6 +1,7 @@
 ---
 aliases:
   - Opera Singer
+  - Opera_Singer
 ---
 
 # [[Opera_Singer]] 

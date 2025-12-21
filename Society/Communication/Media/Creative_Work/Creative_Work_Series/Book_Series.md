@@ -4,20 +4,22 @@ aliases:
   - book_series
   - BookSeries
   - is_a_book_series
+  - Book_Series
+  - Book Series
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - book_series
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_book_series Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Piraterie
+  - Piracy
 has_id_wikidata: Q45393
 ---
 

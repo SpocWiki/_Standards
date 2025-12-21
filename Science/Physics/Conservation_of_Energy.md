@@ -2,54 +2,26 @@
 aliases:
   - Conservation of energy
   - Energieerhaltung
+  - Conservation_of_Energy
+  - Conservation of Energy
 has_id_wikidata: Q11382
 instance_of:
-  - "[[_Standards/WikiData/WD~conservation_law,205805]]"
-  - "[[_Standards/WikiData/WD~physical_law,214070]]"
-different_from: "[[_Standards/WikiData/WD~energy_conservation,380170]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~conservation_of_mass,483948]]"
+  - '[[_Standards/WikiData/WD~conservation_law,205805]]'
+  - '[[_Standards/WikiData/WD~physical_law,214070]]'
+different_from: '[[_Standards/WikiData/WD~energy_conservation,380170]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~conservation_of_mass,483948]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/energy-conservation
-has_part_s_: "[[_Standards/WikiData/WD~energy,11379]]"
+has_part_s_: '[[_Standards/WikiData/WD~energy,11379]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%20%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8.webm
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B7%D5%B6%D5%A5%D6%80%D5%A3%D5%AB%D5%A1%D5%B5%D5%AB%20%D5%BA%D5%A1%D5%B0%D5%BA%D5%A1%D5%B6%D5%B4%D5%A1%D5%B6%20%D6%85%D6%80%D5%A5%D5%B6%D6%84%20%28Conservation%20of%20energy%29.ogg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Michael%20Schoenitzer%20%28MichaelSchoenitzer%29-Energieerhaltungssatz.wav
-P8189: "987007543207805171"
+P8189: 987007543207805171
 Commons_category: Conservation of energy
-defining_formula: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle E_{tot,1}=E_{tot,2}}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <msub>
-            <mi>E</mi>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi>t</mi>
-              <mi>o</mi>
-              <mi>t</mi>
-              <mo>,</mo>
-              <mn>1</mn>
-            </mrow>
-          </msub>
-          <mo>=</mo>
-          <msub>
-            <mi>E</mi>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi>t</mi>
-              <mi>o</mi>
-              <mi>t</mi>
-              <mo>,</mo>
-              <mn>2</mn>
-            </mrow>
-          </msub>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle E_{tot,1}=E_{tot,2}}</annotation>
-    </semantics>
-  </math>
+defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle E_{tot,1}=E_{tot,2}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msub>\n          <mi>E</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi>t</mi>\n            <mi>o</mi>\n            <mi>t</mi>\n            <mo>,</mo>\n            <mn>1</mn>\n          </mrow>\n        </msub>\n        <mo>=</mo>\n        <msub>\n          <mi>E</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi>t</mi>\n            <mi>o</mi>\n            <mi>t</mi>\n            <mo>,</mo>\n            <mn>2</mn>\n          </mrow>\n        </msub>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle E_{tot,1}=E_{tot,2}}</annotation>\n  </semantics>\n</math>"
 ---
 
 # [[Conservation_of_Energy]] 

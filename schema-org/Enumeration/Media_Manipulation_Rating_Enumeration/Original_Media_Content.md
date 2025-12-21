@@ -4,21 +4,23 @@ aliases:
   - original_media_content
   - OriginalMediaContent
   - is_an_original_media_content
+  - Original_Media_Content
+  - Original Media Content
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MediaManipulationRatingEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - original_media_content
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_original_media_content Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

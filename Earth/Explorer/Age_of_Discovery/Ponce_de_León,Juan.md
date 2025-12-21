@@ -3,42 +3,44 @@ aliases:
   - Juan_Ponce_de_León
   - Juan Ponce de León
   - Ponce de León
+  - Ponce_de_León,Juan
+  - Ponce de León,Juan
 has_id_wikidata: Q185974
-military_or_police_rank: "[[_Standards/WikiData/WD~general,83460]]"
+military_or_police_rank: '[[_Standards/WikiData/WD~general,83460]]'
 occupation:
-  - "[[_Standards/WikiData/WD~conquistador,126236]]"
-  - "[[_Standards/WikiData/WD~explorer,11900058]]"
-  - "[[_Standards/WikiData/WD~military_personnel,47064]]"
-given_name: "[[_Standards/WikiData/WD~Juan,475210]]"
-place_of_birth: "[[_Standards/WikiData/WD~Santervás_de_Campos,930641]]"
+  - '[[_Standards/WikiData/WD~conquistador,126236]]'
+  - '[[_Standards/WikiData/WD~explorer,11900058]]'
+  - '[[_Standards/WikiData/WD~military_personnel,47064]]'
+given_name: '[[_Standards/WikiData/WD~Juan,475210]]'
+place_of_birth: '[[_Standards/WikiData/WD~Santervás_de_Campos,930641]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-place_of_burial: "[[_Standards/WikiData/WD~Cathedral_of_San_Juan_Bautista,5052384]]"
-family: "[[_Standards/WikiData/WD~House_Ponce_de_León,5754987]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-second_family_name_in_Spanish_name: "[[_Standards/WikiData/WD~Figueroa,21487824]]"
-family_name: "[[_Standards/WikiData/WD~Ponce_de_León,41140799]]"
-position_held: "[[_Standards/WikiData/WD~Spanish_governor_of_Puerto_Rico,45899956]]"
-member_of: "[[_Standards/WikiData/WD~Columbus_Conquistador_of_America,66823411]]"
-father: "[[_Standards/WikiData/WD~Pedro_Ponce_de_León,116471132]]"
-mother: "[[_Standards/WikiData/WD~Leonor_de_Figueroa,116471133]]"
+place_of_burial: '[[_Standards/WikiData/WD~Cathedral_of_San_Juan_Bautista,5052384]]'
+family: '[[_Standards/WikiData/WD~House_Ponce_de_León,5754987]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+second_family_name_in_Spanish_name: '[[_Standards/WikiData/WD~Figueroa,21487824]]'
+family_name: '[[_Standards/WikiData/WD~Ponce_de_León,41140799]]'
+position_held: '[[_Standards/WikiData/WD~Spanish_governor_of_Puerto_Rico,45899956]]'
+member_of: '[[_Standards/WikiData/WD~Columbus_Conquistador_of_America,66823411]]'
+father: '[[_Standards/WikiData/WD~Pedro_Ponce_de_León,116471132]]'
+mother: '[[_Standards/WikiData/WD~Leonor_de_Figueroa,116471133]]'
 date_of_birth:
   - 1474-01-01T00:00:00Z
   - 1460-01-01T00:00:00Z
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Spanish,1321]]"
-place_of_death: "[[_Standards/WikiData/WD~Havana,1563]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Spain,29]]"
-cause_of_death: "[[_Standards/WikiData/WD~poison,40867]]"
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321]]'
+place_of_death: '[[_Standards/WikiData/WD~Havana,1563]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Spain,29]]'
+cause_of_death: '[[_Standards/WikiData/WD~poison,40867]]'
 Commons_gallery: Juan Ponce de León
 Commons_category: Juan Ponce de León
 name_in_native_language: Juan Ponce de León
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Appletons%27%20Ponce%20de%20Leon%20Juan.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Ponce%20de%20Le%C3%B3n%20Signature.svg
-ISNI: "0000000059296898"
+ISNI: 0000000059296898
 date_of_death: 1521-01-01T00:00:00Z
 ---
 

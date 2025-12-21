@@ -4,20 +4,22 @@ aliases:
   - theater_event
   - TheaterEvent
   - is_a_theater_event
+  - Theater_Event
+  - Theater Event
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - theater_event
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_theater_event Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

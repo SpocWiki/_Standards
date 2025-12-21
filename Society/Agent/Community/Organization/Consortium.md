@@ -4,36 +4,36 @@ aliases:
   - consortium
   - Consortium
   - is_a_consortium
+has_id_wikidata: Q194166
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - consortium
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_consortium Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_consortium Class
 type: Type
-has_id_wikidata: Q194166
 subclass_of:
-  - "[[_Standards/WikiData/WD~juridical_person,155076]]"
-  - "[[_Standards/WikiData/WD~legal_form,10541491]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
+  - '[[_Standards/WikiData/WD~juridical_person,155076]]'
+  - '[[_Standards/WikiData/WD~legal_form,10541491]]'
+  - '[[_Standards/WikiData/WD~organization,43229]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_organization,17197366]]"
+  - '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_organization,17197366]]'
 Commons_category: Consortia
 OpenStreetMap_tag_or_key: Tag:operator:type=consortium
 equivalent_class: https://schema.org/Consortium

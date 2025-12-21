@@ -1,30 +1,32 @@
 ---
-Commons_category: "Plasma physics"
+aliases:
+  - Plasma
+has_id_wikidata: Q10251
+Commons_category: Plasma physics
 Dewey_Decimal_Classification: 530.44
 different_from: '[[_Standards/WikiData/WD~blood_plasma,79749]]'
 Europeana_entity: agent/base/33720
-exact_match: "http://purl.obolibrary.org/obo/ENVO_01000798"
-has_id_wikidata: Q10251
+exact_match: http://purl.obolibrary.org/obo/ENVO_01000798
 has_part_s_: '[[_Standards/WikiData/WD~ion,36496]]'
 IEV_number:
-- 113-06-48
-- 395-02-24
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Plasma-lamp.jpg"
+  - 113-06-48
+  - 395-02-24
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Plasma-lamp.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~fundamental_state_of_matter,15831576]]'
-- '[[_Standards/WikiData/WD~classical_state_of_matter,52063183]]'
+  - '[[_Standards/WikiData/WD~fundamental_state_of_matter,15831576]]'
+  - '[[_Standards/WikiData/WD~classical_state_of_matter,52063183]]'
 Krugosvet_article: nauka_i_tehnika/fizika/PLAZMA.html
 manifestation_of: '[[_Standards/WikiData/WD~plasma_state_of_matter,29148313]]'
 MeSH_tree_code: D01.362.740
 OmegaWiki_Defined_Meaning: 681784
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%9C%E0%A6%AE%E0%A6%BE.wav"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%9C%E0%A6%AE%E0%A6%BE.wav
 studied_in:
-- '[[_Standards/WikiData/WD~plasma_physics,5615097]]'
-- '[[_Standards/WikiData/WD~plasma_chemistry,12140686]]'
+  - '[[_Standards/WikiData/WD~plasma_physics,5615097]]'
+  - '[[_Standards/WikiData/WD~plasma_chemistry,12140686]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~gas,11432]]'
-- '[[_Standards/WikiData/WD~matter,35758]]'
-Wolfram_Language_entity_code: "Entity[\"PhysicalEffect\", \"Plasma\"]"
+  - '[[_Standards/WikiData/WD~gas,11432]]'
+  - '[[_Standards/WikiData/WD~matter,35758]]'
+Wolfram_Language_entity_code: Entity["PhysicalEffect", "Plasma"]
 ---
 
 # [[Plasma]] 

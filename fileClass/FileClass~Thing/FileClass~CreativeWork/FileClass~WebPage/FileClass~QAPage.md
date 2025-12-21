@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~QAPage
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/QAPage
-- class/Thing/CreativeWork/WebPage/QAPage
-- is_a_/QAPage
-- schema-org/QAPage
+  - class/QAPage
+  - class/Thing/CreativeWork/WebPage/QAPage
+  - is_a_/QAPage
+  - schema-org/QAPage
 tags:
-- class/FileClass
-- class/QAPage
-- is_a_/QAPage
-- class/Thing/CreativeWork/WebPage/QAPage
+  - class/FileClass
+  - class/QAPage
+  - is_a_/QAPage
+  - class/Thing/CreativeWork/WebPage/QAPage
 version: 2.0
 ---
 

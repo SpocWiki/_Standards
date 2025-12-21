@@ -7,16 +7,16 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - inker
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_inker
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

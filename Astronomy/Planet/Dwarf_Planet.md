@@ -2,17 +2,19 @@
 aliases:
   - Zwergplanet
   - dwarf planet
+  - Dwarf_Planet
+  - Dwarf Planet
 has_id_wikidata: Q2199
-studied_by: "[[_Standards/WikiData/WD~planetary_science,104499]]"
+studied_by: '[[_Standards/WikiData/WD~planetary_science,104499]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~planetary_mass_object,400144]]"
-  - "[[_Standards/WikiData/WD~minor_planet,1022867]]"
+  - '[[_Standards/WikiData/WD~planetary_mass_object,400144]]'
+  - '[[_Standards/WikiData/WD~minor_planet,1022867]]'
 different_from:
-  - "[[_Standards/WikiData/WD~minor_planet,1022867]]"
-  - "[[_Standards/WikiData/WD~possible_dwarf_planet,29370670]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Dwarf_planets,6379122]]"
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-OmegaWiki_Defined_Meaning: "7937"
+  - '[[_Standards/WikiData/WD~minor_planet,1022867]]'
+  - '[[_Standards/WikiData/WD~possible_dwarf_planet,29370670]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Dwarf_planets,6379122]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+OmegaWiki_Defined_Meaning: 7937
 image: http://commons.wikimedia.org/wiki/Special:FilePath/10%20Largest%20Trans-Neptunian%20objects%20%28TNOS%29.png
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000808
 Commons_category: Dwarf planets of the Solar System

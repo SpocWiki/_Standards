@@ -3,23 +3,24 @@ aliases:
   - has trial-design
   - trialDesign
   - has_trial_design
+  - has trial design
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - trial_design
   - trial
   - design
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_trial_design
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

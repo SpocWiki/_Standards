@@ -4,20 +4,22 @@ aliases:
   - hobby_shop
   - HobbyShop
   - is_a_hobby_shop
+  - Hobby_Shop
+  - Hobby Shop
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - hobby_shop
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_hobby_shop Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -4,21 +4,22 @@ aliases:
   - founding_location
   - foundingLocation
   - has_location_founding
+  - has location founding
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - founding_location
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_founding
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

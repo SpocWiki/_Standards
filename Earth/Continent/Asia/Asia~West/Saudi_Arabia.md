@@ -1,4 +1,16 @@
 ---
+aliases:
+  - Saudi Arabia
+  - Arabia Saudita
+  - Arabie saoudite
+  - المملكة العربية السعودية
+  - 沙特阿拉伯
+  - Саудовская Аравия
+  - the Kingdom of Saudi Arabia
+  - el Reino de la Arabia Saudita
+  - Arabia Saudita (la)
+  - Saudi_Arabia
+has_id_wikidata: Q851
 contains_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~list_of_provinces_of_Saudi_Arabia,74063]]"
 located_in_or_next_to_body_of_water:
   - "[[_Standards/WikiData/WD~Gulf_of_Aqaba,81611]]"
@@ -311,7 +323,7 @@ motto_text:
   - There is no god but God; Muhammad is the messenger of God
   - لَا إِلٰهَ إِلَّا ٱلله مُحَمَّدٌ رَسُولُ ٱلله
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Saudi%20Arabia%20Base%20Map.png
-inception: "1727"
+inception: 1727
 has_time_started: 1727-06
 official_religion: "[[_Standards/WikiData/WD~Islam,432]]"
 religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
@@ -390,7 +402,6 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Mecca%20banner%2
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Saudi%20Arabia%20%28orthographic%20projection%29.svg
 WordLift_URL: http://data.thenextweb.com/tnw/entity/saudi_arabia
 official_website: http://www.saudi.gov.sa
-has_id_wikidata: Q851
 location:
   - 23.05
   - 43.27
@@ -407,22 +418,12 @@ cssclasses:
   - Country
 publish: true
 title: Saudi Arabia
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Saudi Arabia
-  - Arabia Saudita
-  - Arabie saoudite
-  - المملكة العربية السعودية
-  - 沙特阿拉伯
-  - Саудовская Аравия
-  - the Kingdom of Saudi Arabia
-  - el Reino de la Arabia Saudita
-  - Arabia Saudita (la)
+publishDate: ""
+expiryDate: ""
 Languages:
   - ar-SA
 icon: flag-sa

@@ -1,7 +1,8 @@
 ---
 aliases:
-- C#
-- C-Sharp
+  - C#
+  - C-Sharp
+  - Prog~CSharp
 ---
 
 # [[Prog~CSharp]] 

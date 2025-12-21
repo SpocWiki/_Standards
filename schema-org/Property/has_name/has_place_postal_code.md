@@ -7,22 +7,23 @@ aliases:
   - has_text_of_postal_code
   - zip_code
   - zipCode
+  - has place postal code
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - postal
   - code
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_place_postal_code
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

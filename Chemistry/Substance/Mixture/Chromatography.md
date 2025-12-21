@@ -1,6 +1,7 @@
 ---
 aliases:
   - Chromatographie
+  - Chromatography
 has_id_wikidata: Q170050
 ---
 

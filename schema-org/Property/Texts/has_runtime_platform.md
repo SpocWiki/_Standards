@@ -4,22 +4,24 @@ aliases:
   - runtime_platform
   - runtimePlatform
   - has_text_of_runtime_platform
+  - has_runtime_platform
+  - has runtime platform
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - runtime
   - platform
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_runtime_platform
 publish: true
-publishDate:
+publishDate: ''
 supersedes: runtime
 tags:
   - class/Property

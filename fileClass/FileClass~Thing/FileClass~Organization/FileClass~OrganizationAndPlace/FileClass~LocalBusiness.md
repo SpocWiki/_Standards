@@ -1,40 +1,42 @@
 ---
-excludes: 
+aliases:
+  - FileClass~LocalBusiness
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~OrganizationAndPlace
 fields:
-- id: lkuVZz
-  name: CurrenciesAccepted
-  options: {}
-  type: Input
-  path: ''
-- id: 8iNTAB
-  name: OpeningHours
-  options: {}
-  type: Input
-  path: ''
-- id: 6PwDho
-  name: PaymentAccepted
-  options: {}
-  type: Input
-  path: ''
-- id: EjIcRd
-  name: PriceRange
-  options: {}
-  type: Input
-  path: ''
+  - id: lkuVZz
+    name: CurrenciesAccepted
+    options: {}
+    type: Input
+    path: ''
+  - id: 8iNTAB
+    name: OpeningHours
+    options: {}
+    type: Input
+    path: ''
+  - id: 6PwDho
+    name: PaymentAccepted
+    options: {}
+    type: Input
+    path: ''
+  - id: EjIcRd
+    name: PriceRange
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/LocalBusiness
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness
-- is_a_/LocalBusiness
-- schema-org/LocalBusiness
+  - class/LocalBusiness
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness
+  - is_a_/LocalBusiness
+  - schema-org/LocalBusiness
 tags:
-- class/FileClass
-- class/LocalBusiness
-- is_a_/LocalBusiness
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness
+  - class/FileClass
+  - class/LocalBusiness
+  - is_a_/LocalBusiness
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness
 version: 2.0
 ---
 

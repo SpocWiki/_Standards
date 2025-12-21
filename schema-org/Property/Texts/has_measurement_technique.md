@@ -4,22 +4,24 @@ aliases:
   - measurement_technique
   - measurementTechnique
   - has_text_of_measurement_technique
+  - has_measurement_technique
+  - has measurement technique
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - measurement
   - technique
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_measurement_technique
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

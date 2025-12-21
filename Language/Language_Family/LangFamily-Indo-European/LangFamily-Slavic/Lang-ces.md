@@ -3,8 +3,9 @@ aliases:
   - Tschechisch
   - Czech
   - čeština
+  - Lang-ces
 has_id_wikidata: Q9056
-Dewey_Decimal_Classification: "491.86"
+Dewey_Decimal_Classification: 491.86
 Glottolog_code: czec1258
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/CHESHSKI_YAZIK.html
 Libris_URI: ljx0z1643qbx7xs
@@ -20,79 +21,79 @@ short_name:
   - чехӣ
   - чеська
   - Tschechisch
-writing_system: "[[_Standards/WikiData/WD~Czech_alphabet,76228]]"
+writing_system: '[[_Standards/WikiData/WD~Czech_alphabet,76228]]'
 has_grammatical_case:
-  - "[[_Standards/WikiData/WD~nominative_case,131105]]"
-  - "[[_Standards/WikiData/WD~dative_case,145599]]"
-  - "[[_Standards/WikiData/WD~accusative_case,146078]]"
-  - "[[_Standards/WikiData/WD~genitive_case,146233]]"
-  - "[[_Standards/WikiData/WD~vocative_case,185077]]"
-  - "[[_Standards/WikiData/WD~instrumental_case,192997]]"
-  - "[[_Standards/WikiData/WD~locative_case,202142]]"
+  - '[[_Standards/WikiData/WD~nominative_case,131105]]'
+  - '[[_Standards/WikiData/WD~dative_case,145599]]'
+  - '[[_Standards/WikiData/WD~accusative_case,146078]]'
+  - '[[_Standards/WikiData/WD~genitive_case,146233]]'
+  - '[[_Standards/WikiData/WD~vocative_case,185077]]'
+  - '[[_Standards/WikiData/WD~instrumental_case,192997]]'
+  - '[[_Standards/WikiData/WD~locative_case,202142]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~West_Slavic,145852]]"
-  - "[[_Standards/WikiData/WD~Czech_Slovak_languages,2334789]]"
+  - '[[_Standards/WikiData/WD~West_Slavic,145852]]'
+  - '[[_Standards/WikiData/WD~Czech_Slovak_languages,2334789]]'
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~nominative_accusative_language,178435]]"
-  - "[[_Standards/WikiData/WD~stress,181767]]"
-  - "[[_Standards/WikiData/WD~fusional_language,318917]]"
-  - "[[_Standards/WikiData/WD~subject_verb_object,651641]]"
-  - "[[_Standards/WikiData/WD~pro_drop_language,661936]]"
-  - "[[_Standards/WikiData/WD~stress_timed_language,7888721]]"
-  - "[[_Standards/WikiData/WD~adjective_noun,74834637]]"
-  - "[[_Standards/WikiData/WD~synthetic_language,48612]]"
+  - '[[_Standards/WikiData/WD~nominative_accusative_language,178435]]'
+  - '[[_Standards/WikiData/WD~stress,181767]]'
+  - '[[_Standards/WikiData/WD~fusional_language,318917]]'
+  - '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
+  - '[[_Standards/WikiData/WD~pro_drop_language,661936]]'
+  - '[[_Standards/WikiData/WD~stress_timed_language,7888721]]'
+  - '[[_Standards/WikiData/WD~adjective_noun,74834637]]'
+  - '[[_Standards/WikiData/WD~synthetic_language,48612]]'
 has_tense:
-  - "[[_Standards/WikiData/WD~present_tense,192613]]"
-  - "[[_Standards/WikiData/WD~preterite,442485]]"
-  - "[[_Standards/WikiData/WD~future_tense,501405]]"
-  - "[[_Standards/WikiData/WD~pluperfect,623742]]"
+  - '[[_Standards/WikiData/WD~present_tense,192613]]'
+  - '[[_Standards/WikiData/WD~preterite,442485]]'
+  - '[[_Standards/WikiData/WD~future_tense,501405]]'
+  - '[[_Standards/WikiData/WD~pluperfect,623742]]'
 has_grammatical_gender:
-  - "[[_Standards/WikiData/WD~masculine,499327]]"
-  - "[[_Standards/WikiData/WD~feminine,1775415]]"
-  - "[[_Standards/WikiData/WD~neuter,1775461]]"
-  - "[[_Standards/WikiData/WD~masculine_inanimate,52943434]]"
-  - "[[_Standards/WikiData/WD~masculine_animate,54020116]]"
+  - '[[_Standards/WikiData/WD~masculine,499327]]'
+  - '[[_Standards/WikiData/WD~feminine,1775415]]'
+  - '[[_Standards/WikiData/WD~neuter,1775461]]'
+  - '[[_Standards/WikiData/WD~masculine_inanimate,52943434]]'
+  - '[[_Standards/WikiData/WD~masculine_animate,54020116]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
 has_grammatical_mood:
-  - "[[_Standards/WikiData/WD~conditional,625581]]"
-  - "[[_Standards/WikiData/WD~indicative,682111]]"
-  - "[[_Standards/WikiData/WD~imperative,22716]]"
+  - '[[_Standards/WikiData/WD~conditional,625581]]'
+  - '[[_Standards/WikiData/WD~indicative,682111]]'
+  - '[[_Standards/WikiData/WD~imperative,22716]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
-language_regulatory_body: "[[_Standards/WikiData/WD~Institute_of_the_Czech_Language,1661875]]"
+  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
+  - '[[_Standards/WikiData/WD~natural_language,33742]]'
+language_regulatory_body: '[[_Standards/WikiData/WD~Institute_of_the_Czech_Language,1661875]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q10800525,10800525]]"
-  - "[[_Standards/WikiData/WD~Template_Lang_cz,26042338]]"
-  - "[[_Standards/WikiData/WD~Template_cs_,33125478]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Czech_language,10814996]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~1_National,29051546]]"
+  - '[[_Standards/WikiData/WD~Q10800525,10800525]]'
+  - '[[_Standards/WikiData/WD~Template_Lang_cz,26042338]]'
+  - '[[_Standards/WikiData/WD~Template_cs_,33125478]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Czech_language,10814996]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546]]'
 has_grammatical_person:
-  - "[[_Standards/WikiData/WD~first_person_singular,51929218]]"
-  - "[[_Standards/WikiData/WD~first_person_plural,51929290]]"
-  - "[[_Standards/WikiData/WD~second_person_singular,51929369]]"
-  - "[[_Standards/WikiData/WD~second_person_plural,51929403]]"
-  - "[[_Standards/WikiData/WD~third_person_masculine_singular,52431955]]"
-  - "[[_Standards/WikiData/WD~third_person_feminine_singular,52431970]]"
-  - "[[_Standards/WikiData/WD~third_person_masculine_plural,52432983]]"
-  - "[[_Standards/WikiData/WD~third_person_feminine_plural,52433019]]"
-  - "[[_Standards/WikiData/WD~third_person_neuter_singular,52433289]]"
+  - '[[_Standards/WikiData/WD~first_person_singular,51929218]]'
+  - '[[_Standards/WikiData/WD~first_person_plural,51929290]]'
+  - '[[_Standards/WikiData/WD~second_person_singular,51929369]]'
+  - '[[_Standards/WikiData/WD~second_person_plural,51929403]]'
+  - '[[_Standards/WikiData/WD~third_person_masculine_singular,52431955]]'
+  - '[[_Standards/WikiData/WD~third_person_feminine_singular,52431970]]'
+  - '[[_Standards/WikiData/WD~third_person_masculine_plural,52432983]]'
+  - '[[_Standards/WikiData/WD~third_person_feminine_plural,52433019]]'
+  - '[[_Standards/WikiData/WD~third_person_neuter_singular,52433289]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Q123684102,123684102]]"
-  - "[[_Standards/WikiData/WD~Q134520516,134520516]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~Q131938994,131938994]]"
-country: "[[_Standards/WikiData/WD~Czech_Republic,213]]"
-indigenous_to: "[[_Standards/WikiData/WD~Czech_Republic,213]]"
+  - '[[_Standards/WikiData/WD~Q123684102,123684102]]'
+  - '[[_Standards/WikiData/WD~Q134520516,134520516]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q131938994,131938994]]'
+country: '[[_Standards/WikiData/WD~Czech_Republic,213]]'
+indigenous_to: '[[_Standards/WikiData/WD~Czech_Republic,213]]'
 number_of_speakers_writers_or_signers: 10700000
-studied_by: "[[_Standards/WikiData/WD~Czech_studies,59068]]"
-ABS_ASCL_2011_code: "3601"
-IAB_code: "1058"
-OmegaWiki_Defined_Meaning: "6109"
+studied_by: '[[_Standards/WikiData/WD~Czech_studies,59068]]'
+ABS_ASCL_2011_code: 3601
+IAB_code: 1058
+OmegaWiki_Defined_Meaning: 6109
 Ethnologue_com_language_code: ces
 ISO_639_3_code: ces
 ISO_639_2_code:

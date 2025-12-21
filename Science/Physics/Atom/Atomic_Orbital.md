@@ -1,14 +1,17 @@
 ---
+aliases:
+  - Atomic_Orbital
+  - Atomic Orbital
 has_id_wikidata: Q53860
-different_from: "[[_Standards/WikiData/WD~Orbital,515942]]"
-facet_of: "[[_Standards/WikiData/WD~atom_model,780649]]"
+different_from: '[[_Standards/WikiData/WD~Orbital,515942]]'
+facet_of: '[[_Standards/WikiData/WD~atom_model,780649]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~orbital,3355206]]"
-  - "[[_Standards/WikiData/WD~function,11348]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_mathematical_function,47279819]]"
-OmegaWiki_Defined_Meaning: "1151297"
+  - '[[_Standards/WikiData/WD~orbital,3355206]]'
+  - '[[_Standards/WikiData/WD~function,11348]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_mathematical_function,47279819]]'
+OmegaWiki_Defined_Meaning: 1151297
 image: http://commons.wikimedia.org/wiki/Special:FilePath/D%20orbitals.svg
-P8189: "987007295886505171"
+P8189: 987007295886505171
 Commons_category: Atomic orbitals
 ---
 

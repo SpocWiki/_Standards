@@ -4,20 +4,22 @@ aliases:
   - computer_store
   - ComputerStore
   - is_a_computer_store
+  - Computer_Store
+  - Computer Store
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - computer_store
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_computer_store Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

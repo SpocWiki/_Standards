@@ -1,23 +1,25 @@
 ---
 aliases:
   - Romanesque
+  - Romanesque_Art
+  - Romanesque Art
 has_id_wikidata: Q46805
-influenced_by: "[[_Standards/WikiData/WD~Byzantine_art,211884]]"
+influenced_by: '[[_Standards/WikiData/WD~Byzantine_art,211884]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~art_style,1792644]]"
+  - '[[_Standards/WikiData/WD~art_movement,968159]]'
+  - '[[_Standards/WikiData/WD~art_style,1792644]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Romanesque_painting,1294149]]"
-  - "[[_Standards/WikiData/WD~Romanesque_sculpture,3953215]]"
-  - "[[_Standards/WikiData/WD~Romanesque_architecture,46261]]"
-subclass_of: "[[_Standards/WikiData/WD~medieval_art,3624153]]"
+  - '[[_Standards/WikiData/WD~Romanesque_painting,1294149]]'
+  - '[[_Standards/WikiData/WD~Romanesque_sculpture,3953215]]'
+  - '[[_Standards/WikiData/WD~Romanesque_architecture,46261]]'
+subclass_of: '[[_Standards/WikiData/WD~medieval_art,3624153]]'
 end_time: 1200-01-01T00:00:00Z
-locations: "[[_Standards/WikiData/WD~Europe,46]]"
+locations: '[[_Standards/WikiData/WD~Europe,46]]'
 subject_named_as: Romanik
 start_time: 1000-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pante%C3%B3nSanIsidoroLe%C3%B3n.jpg

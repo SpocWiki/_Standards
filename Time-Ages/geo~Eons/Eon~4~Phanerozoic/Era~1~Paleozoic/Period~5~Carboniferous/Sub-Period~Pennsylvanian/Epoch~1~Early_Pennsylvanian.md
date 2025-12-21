@@ -1,5 +1,7 @@
 ---
-aliases: []
+aliases:
+  - Epoch~1~Early_Pennsylvanian
+  - Epoch~1~Early Pennsylvanian
 ischart: LowerPennsylvanian
 ---
 

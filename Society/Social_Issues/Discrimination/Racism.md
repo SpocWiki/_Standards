@@ -1,91 +1,92 @@
 ---
 aliases:
   - Rassismus
+  - Racism
 has_id_wikidata: Q8461
 significant_person:
-  - "[[_Standards/WikiData/WD~Christoph_Meiners,71587]]"
-  - "[[_Standards/WikiData/WD~Arthur_de_Gobineau,264918]]"
-  - "[[_Standards/WikiData/WD~Georges_Vacher_de_Lapouge,2589859]]"
-  - "[[_Standards/WikiData/WD~Aristotle,868]]"
-  - "[[_Standards/WikiData/WD~Johann_Friedrich_Blumenbach,58588]]"
+  - '[[_Standards/WikiData/WD~Christoph_Meiners,71587]]'
+  - '[[_Standards/WikiData/WD~Arthur_de_Gobineau,264918]]'
+  - '[[_Standards/WikiData/WD~Georges_Vacher_de_Lapouge,2589859]]'
+  - '[[_Standards/WikiData/WD~Aristotle,868]]'
+  - '[[_Standards/WikiData/WD~Johann_Friedrich_Blumenbach,58588]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~crime,83267]]"
-  - "[[_Standards/WikiData/WD~discrimination,169207]]"
-  - "[[_Standards/WikiData/WD~prejudice,179742]]"
-  - "[[_Standards/WikiData/WD~bigotry,859781]]"
-  - "[[_Standards/WikiData/WD~social_inequality,5431887]]"
+  - '[[_Standards/WikiData/WD~crime,83267]]'
+  - '[[_Standards/WikiData/WD~discrimination,169207]]'
+  - '[[_Standards/WikiData/WD~prejudice,179742]]'
+  - '[[_Standards/WikiData/WD~bigotry,859781]]'
+  - '[[_Standards/WikiData/WD~social_inequality,5431887]]'
 contributing_factor_of:
-  - "[[_Standards/WikiData/WD~population_transfer_in_the_Soviet_Union,85125]]"
-  - "[[_Standards/WikiData/WD~European_colonization_of_the_Americas,184716]]"
-  - "[[_Standards/WikiData/WD~colonisation_of_Africa,2353647]]"
-  - "[[_Standards/WikiData/WD~Western_imperialism_in_Asia,3234208]]"
-  - "[[_Standards/WikiData/WD~history_of_colonialism,3245246]]"
+  - '[[_Standards/WikiData/WD~population_transfer_in_the_Soviet_Union,85125]]'
+  - '[[_Standards/WikiData/WD~European_colonization_of_the_Americas,184716]]'
+  - '[[_Standards/WikiData/WD~colonisation_of_Africa,2353647]]'
+  - '[[_Standards/WikiData/WD~Western_imperialism_in_Asia,3234208]]'
+  - '[[_Standards/WikiData/WD~history_of_colonialism,3245246]]'
 different_from:
-  - "[[_Standards/WikiData/WD~xenophobia,166005]]"
-  - "[[_Standards/WikiData/WD~racialism,1141593]]"
-  - "[[_Standards/WikiData/WD~colorism,5282081]]"
+  - '[[_Standards/WikiData/WD~xenophobia,166005]]'
+  - '[[_Standards/WikiData/WD~racialism,1141593]]'
+  - '[[_Standards/WikiData/WD~colorism,5282081]]'
 present_in_work:
-  - "[[_Standards/WikiData/WD~To_Kill_a_Mockingbird,212340]]"
-  - "[[_Standards/WikiData/WD~Imitation_of_Life,6004170]]"
+  - '[[_Standards/WikiData/WD~To_Kill_a_Mockingbird,212340]]'
+  - '[[_Standards/WikiData/WD~Imitation_of_Life,6004170]]'
   - "[[_Standards/WikiData/WD~Uncle_Tom's_Cabin,2222]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~aversive_racism,429194]]"
-  - "[[_Standards/WikiData/WD~institutional_racism,848745]]"
-  - "[[_Standards/WikiData/WD~other,1433373]]"
-  - "[[_Standards/WikiData/WD~scientific_racism,1772910]]"
-  - "[[_Standards/WikiData/WD~color_blindness,5148591]]"
-  - "[[_Standards/WikiData/WD~implicit_stereotypes,6007314]]"
-  - "[[_Standards/WikiData/WD~symbolic_racism,7661187]]"
-  - "[[_Standards/WikiData/WD~cultural_racism,10549968]]"
+  - '[[_Standards/WikiData/WD~aversive_racism,429194]]'
+  - '[[_Standards/WikiData/WD~institutional_racism,848745]]'
+  - '[[_Standards/WikiData/WD~other,1433373]]'
+  - '[[_Standards/WikiData/WD~scientific_racism,1772910]]'
+  - '[[_Standards/WikiData/WD~color_blindness,5148591]]'
+  - '[[_Standards/WikiData/WD~implicit_stereotypes,6007314]]'
+  - '[[_Standards/WikiData/WD~symbolic_racism,7661187]]'
+  - '[[_Standards/WikiData/WD~cultural_racism,10549968]]'
 opposite_of:
-  - "[[_Standards/WikiData/WD~anti_racism,582965]]"
-  - "[[_Standards/WikiData/WD~Reverse_racism,951894]]"
-  - "[[_Standards/WikiData/WD~racial_equality,7279580]]"
+  - '[[_Standards/WikiData/WD~anti_racism,582965]]'
+  - '[[_Standards/WikiData/WD~Reverse_racism,951894]]'
+  - '[[_Standards/WikiData/WD~racial_equality,7279580]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~supremacism,1031455]]"
-  - "[[_Standards/WikiData/WD~racial_segregation_in_the_United_States,2652357]]"
-  - "[[_Standards/WikiData/WD~racial_discrimination,12332701]]"
-  - "[[_Standards/WikiData/WD~apartheid,11409]]"
-  - "[[_Standards/WikiData/WD~racial_segregation,59816]]"
+  - '[[_Standards/WikiData/WD~supremacism,1031455]]'
+  - '[[_Standards/WikiData/WD~racial_segregation_in_the_United_States,2652357]]'
+  - '[[_Standards/WikiData/WD~racial_discrimination,12332701]]'
+  - '[[_Standards/WikiData/WD~apartheid,11409]]'
+  - '[[_Standards/WikiData/WD~racial_segregation,59816]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Souls_of_Black_Folk,1253660]]"
-  - "[[_Standards/WikiData/WD~The_Race_Question,2279096]]"
-  - "[[_Standards/WikiData/WD~Black_Like_Me,2740773]]"
-  - "[[_Standards/WikiData/WD~An_Essay_on_the_Inequality_of_the_Human_Races,3058688]]"
-  - "[[_Standards/WikiData/WD~An_American_Dilemma,4749762]]"
-has_contributing_factor: "[[_Standards/WikiData/WD~human_zoo,1569977]]"
+  - '[[_Standards/WikiData/WD~The_Souls_of_Black_Folk,1253660]]'
+  - '[[_Standards/WikiData/WD~The_Race_Question,2279096]]'
+  - '[[_Standards/WikiData/WD~Black_Like_Me,2740773]]'
+  - '[[_Standards/WikiData/WD~An_Essay_on_the_Inequality_of_the_Human_Races,3058688]]'
+  - '[[_Standards/WikiData/WD~An_American_Dilemma,4749762]]'
+has_contributing_factor: '[[_Standards/WikiData/WD~human_zoo,1569977]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~activity,1914636]]"
-  - "[[_Standards/WikiData/WD~political_ideology,12909644]]"
-  - "[[_Standards/WikiData/WD~type_of_crime,130583773]]"
+  - '[[_Standards/WikiData/WD~activity,1914636]]'
+  - '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+  - '[[_Standards/WikiData/WD~type_of_crime,130583773]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~race,3254959]]"
-  - "[[_Standards/WikiData/WD~ethnicity,5404323]]"
-  - "[[_Standards/WikiData/WD~black_solitude,96649416]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Racism_topics,8081571]]"
+  - '[[_Standards/WikiData/WD~race,3254959]]'
+  - '[[_Standards/WikiData/WD~ethnicity,5404323]]'
+  - '[[_Standards/WikiData/WD~black_solitude,96649416]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Racism_topics,8081571]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_History,8486462]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Law,8486941]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Sociology,10858392]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Evolutionary_biology,11103440]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Anthropology,14942896]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Crime_and_Criminal_Biography,15298836]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Discrimination,15304988]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Ethnic_groups,15305025]]"
-  - "[[_Standards/WikiData/WD~WikiProject_History_of_Science,15884861]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Ethics,18811666]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Science_Policy,134286021]]"
+  - '[[_Standards/WikiData/WD~WikiProject_History,8486462]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Law,8486941]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Sociology,10858392]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Evolutionary_biology,11103440]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Anthropology,14942896]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Crime_and_Criminal_Biography,15298836]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Discrimination,15304988]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Ethnic_groups,15305025]]'
+  - '[[_Standards/WikiData/WD~WikiProject_History_of_Science,15884861]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Ethics,18811666]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Science_Policy,134286021]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Atlantic_slave_trade,10701282]]"
-  - "[[_Standards/WikiData/WD~capitalism,6206]]"
-  - "[[_Standards/WikiData/WD~imperialism,7260]]"
+  - '[[_Standards/WikiData/WD~Atlantic_slave_trade,10701282]]'
+  - '[[_Standards/WikiData/WD~capitalism,6206]]'
+  - '[[_Standards/WikiData/WD~imperialism,7260]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-  - "[[_Standards/WikiData/WD~Art+Feminism,24909800]]"
-practiced_by: "[[_Standards/WikiData/WD~racist,28528178]]"
-U_S_National_Archives_Identifier: "10643796"
-OmegaWiki_Defined_Meaning: "1196022"
+  - '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+  - '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+practiced_by: '[[_Standards/WikiData/WD~racist,28528178]]'
+U_S_National_Archives_Identifier: 10643796
+OmegaWiki_Defined_Meaning: 1196022
 Commons_category: Racism
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1943%20Colored%20Waiting%20Room%20Sign.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Rassismus.ogg

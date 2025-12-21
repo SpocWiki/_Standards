@@ -4,22 +4,24 @@ aliases:
   - incentive_compensation
   - incentiveCompensation
   - has_text_of_incentive_compensation
+  - has_incentive_compensation
+  - has incentive compensation
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - incentive
   - compensation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_incentive_compensation
 publish: true
-publishDate:
+publishDate: ''
 supersedes: incentives
 tags:
   - class/Property

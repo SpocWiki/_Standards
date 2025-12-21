@@ -1,17 +1,19 @@
 ---
+aliases:
+  - 1400-Renaissance
+has_id_wikidata: Q4692
 Commons_category: Renaissance
 Commons_gallery: Renaissance
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-different_from: "[[_Standards/WikiData/WD~Renaissance,13400700]]"
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~Renaissance,13400700]]'
 end_time: 1650-01-01
-has_id_wikidata: Q4692
-has_part_s_: "[[_Standards/WikiData/WD~Renaissance_art,1133779]]"
+has_part_s_: '[[_Standards/WikiData/WD~Renaissance_art,1133779]]'
 Iconclass_notation: 23T26
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20046.jpg
@@ -19,20 +21,20 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Last%20Judgement%20by%20Michelangelo.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/%27David%27%20by%20Michelangelo%20JBU04.JPG
 instance_of:
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~cultural_movement,2198855]]"
+  - '[[_Standards/WikiData/WD~art_movement,968159]]'
+  - '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
 Krugosvet_article: istoriya/EPOHA_VOZROZHDENIYA.html
-location: "[[_Standards/WikiData/WD~Europe,46]]"
+location: '[[_Standards/WikiData/WD~Europe,46]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Renaissance.ogg
 Provenio_UUID: 631fd529-d8cd-4644-84ca-6d658d19663b
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Renaissance.ogg
 start_time: 1400-01-01
-studied_by: "[[_Standards/WikiData/WD~Renaissance_studies,25111456]]"
+studied_by: '[[_Standards/WikiData/WD~Renaissance_studies,25111456]]'
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Q10721172,10721172]]"
-  - "[[_Standards/WikiData/WD~Template_Renaissance,10999203]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Renaissance,13830551]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Renaissance,7112776]]"
+  - '[[_Standards/WikiData/WD~Q10721172,10721172]]'
+  - '[[_Standards/WikiData/WD~Template_Renaissance,10999203]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Renaissance,13830551]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Renaissance,7112776]]'
 ---
 
 # [[1400-Renaissance]] 

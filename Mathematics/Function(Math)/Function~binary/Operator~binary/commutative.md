@@ -5,16 +5,16 @@ aliases:
   - Commutativity
   - Kommutativität
 has_id_wikidata: Q165474
-instance_of: "[[_Standards/WikiData/WD~mathematical_property,3924032]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+instance_of: '[[_Standards/WikiData/WD~mathematical_property,3924032]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-calculated_from: "[[_Standards/WikiData/WD~binary_operator,30242895]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+calculated_from: '[[_Standards/WikiData/WD~binary_operator,30242895]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x2200;</mi><mi>x</mi><mo>,</mo><mi>y</mi><mo stretchy="false">&#x003A;</mo><mi>x</mi><mo stretchy="false">&#x22C6;</mo><mi>y</mi><mo stretchy="false">=</mo><mi>y</mi><mo stretchy="false">&#x22C6;</mo><mi>x</mi></mstyle></mrow></math>
 used_by:
-  - "[[_Standards/WikiData/WD~addition,32043]]"
-  - "[[_Standards/WikiData/WD~multiplication,40276]]"
+  - '[[_Standards/WikiData/WD~addition,32043]]'
+  - '[[_Standards/WikiData/WD~multiplication,40276]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Commutativity%20of%20binary%20operations%20%28without%20question%20mark%29.svg
 Commons_category: Commutativity
 ---

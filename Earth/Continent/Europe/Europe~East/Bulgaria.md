@@ -1,5 +1,4 @@
 ---
-age_of_majority: 18
 aliases:
   - Bulgaria
   - Bulgarie
@@ -8,6 +7,8 @@ aliases:
   - Болгария
   - the Republic of Bulgaria
   - la República de Bulgaria
+has_id_wikidata: Q219
+age_of_majority: 18
 anthem: "[[_Standards/WikiData/WD~Mila_Rodino,182115]]"
 area: 110993.6
 basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
@@ -198,7 +199,7 @@ electrical_plug_type:
   - "[[_Standards/WikiData/WD~Schuko,1123613]]"
   - "[[_Standards/WikiData/WD~Europlug,1378312]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Bulgaria,105408016]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 3329964
   - 3542329
@@ -217,7 +218,6 @@ Happy_Planet_Index_score: 40.1
 hashtag: Bulgaria
 has_cabinet: "[[_Standards/WikiData/WD~Council_of_Ministers_of_Bulgaria,2396053]]"
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-has_id_wikidata: Q219
 has_time_started: 1878-07-13
 head_of_government: "[[_Standards/WikiData/WD~Rosen_Zhelyazkov,59978016]]"
 head_of_state: "[[_Standards/WikiData/WD~Rumen_Radev,26257557]]"
@@ -245,7 +245,7 @@ ISO_3166_1_alpha_3_code: BGR
 ISO_3166_1_numeric_code: 100
 isReadOnly: false
 ITU_letter_code: BUL
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/BOLGARIYA.html
 Languages:
   - bg
@@ -256,13 +256,13 @@ language_used:
   - "[[_Standards/WikiData/WD~Turkish,256]]"
   - "[[_Standards/WikiData/WD~Bulgarian,7918]]"
   - "[[_Standards/WikiData/WD~Romani,13201]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Bulgaria,639704]]"
 Libris_URI: xv8b9p1g14q9h82
 licence_plate_code: BG
 license: CC BY-SA 4.0
 life_expectancy: 74
-linkTitle:
+linkTitle: ""
 literacy_rate: 98
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Balkans,23522]]"
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Black_Sea,166]]"
@@ -360,7 +360,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Bulgarien.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Bulgaria.wav
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side: "[[_Standards/WikiData/WD~right,14565199]]"
 replaces: "[[_Standards/WikiData/WD~People's_Republic_of_Bulgaria,121932]]"
 rural_population:

@@ -7,63 +7,63 @@ Colon_Classification: NT
 Commons_category: Theatre
 Commons_gallery: Theatre
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
   - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-  - "[[_Standards/WikiData/WD~theatre_company,11812394]]"
-  - "[[_Standards/WikiData/WD~Theater,114961017]]"
-  - "[[_Standards/WikiData/WD~theatre_building,24354]]"
+  - '[[_Standards/WikiData/WD~theatre_company,11812394]]'
+  - '[[_Standards/WikiData/WD~Theater,114961017]]'
+  - '[[_Standards/WikiData/WD~theatre_building,24354]]'
 EAGLE_id: decor/lod/312
 exact_match:
   - http://cv.iptc.org/newscodes/subjectcode/01017000
   - http://lemac.sgcb.mcu.es/Autoridades/LEMAC201234180/concept.html
 Gujarati_Vishwakosh_entry: નાટક
-has_characteristic: "[[_Standards/WikiData/WD~Theatre_season,2310376]]"
+has_characteristic: '[[_Standards/WikiData/WD~Theatre_season,2310376]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~artistic_director,1797162]]"
-  - "[[_Standards/WikiData/WD~theatre_troupe,2416217]]"
-  - "[[_Standards/WikiData/WD~theatre_building,24354]]"
+  - '[[_Standards/WikiData/WD~artistic_director,1797162]]'
+  - '[[_Standards/WikiData/WD~theatre_troupe,2416217]]'
+  - '[[_Standards/WikiData/WD~theatre_building,24354]]'
 IAB_code: 209
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Maria%20Ventura%20como%20Altisidora%20en%20%22La%20enamorada%20del%20rey%22%20%281988%29.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~performing_arts_genre,45971958]]"
-  - "[[_Standards/WikiData/WD~performing_arts_industry,97430452]]"
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~performing_arts_genre,45971958]]'
+  - '[[_Standards/WikiData/WD~performing_arts_industry,97430452]]'
 IPTC_NewsCode:
   - subjectcode/01017000
   - mediatopic/20000029
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/TEATR.html
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Theatre,14942918]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Performing_arts,59956276]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27131923,27131923]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Theatre,14942918]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Performing_arts,59956276]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131923,27131923]]'
 PhilPapers_topic:
   - theatre
   - theater
 practiced_by:
-  - "[[_Standards/WikiData/WD~theatre_manager,1776724]]"
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~theatre_troupe,2416217]]"
-  - "[[_Standards/WikiData/WD~theatrical_occupation,15839299]]"
-  - "[[_Standards/WikiData/WD~theatre_maker,47492700]]"
+  - '[[_Standards/WikiData/WD~theatre_manager,1776724]]'
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~theatre_troupe,2416217]]'
+  - '[[_Standards/WikiData/WD~theatrical_occupation,15839299]]'
+  - '[[_Standards/WikiData/WD~theatre_maker,47492700]]'
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Tamahashi-th%C3%A9%C3%A2tre.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteuse%20JEP%20%28Madehub%29-th%C3%A9%C3%A2tre.wav
 Provenio_UUID: d52978a0-f3da-4cb9-8399-7eb57458aba5
 studied_in:
-  - "[[_Standards/WikiData/WD~theatre_studies,960543]]"
-  - "[[_Standards/WikiData/WD~sociology_of_theatre,60971539]]"
-subclass_of: "[[_Standards/WikiData/WD~performing_arts,184485]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_theatre,12930680]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Theatre,10821605]]"
+  - '[[_Standards/WikiData/WD~theatre_studies,960543]]'
+  - '[[_Standards/WikiData/WD~sociology_of_theatre,60971539]]'
+subclass_of: '[[_Standards/WikiData/WD~performing_arts,184485]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_theatre,12930680]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Theatre,10821605]]'
 U_S_National_Archives_Identifier: 10642068
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_theatre,7112798]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_theatre,7112798]]'
 ---
 
 # [[Theater]] 

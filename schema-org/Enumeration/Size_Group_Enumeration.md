@@ -4,20 +4,22 @@ aliases:
   - size_group_enumeration
   - SizeGroupEnumeration
   - is_a_size_group_enumeration
+  - Size_Group_Enumeration
+  - Size Group Enumeration
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - size_group_enumeration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_size_group_enumeration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

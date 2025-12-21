@@ -2,28 +2,29 @@
 aliases:
   - amir
   - emira
+  - Emir
 has_id_wikidata: Q166382
 instance_of:
-  - "[[_Standards/WikiData/WD~noble_title,355567]]"
-  - "[[_Standards/WikiData/WD~title_of_honor,3320743]]"
-  - "[[_Standards/WikiData/WD~position,4164871]]"
-  - "[[_Standards/WikiData/WD~military_rank,56019]]"
+  - '[[_Standards/WikiData/WD~noble_title,355567]]'
+  - '[[_Standards/WikiData/WD~title_of_honor,3320743]]'
+  - '[[_Standards/WikiData/WD~position,4164871]]'
+  - '[[_Standards/WikiData/WD~military_rank,56019]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~ruler,1097498]]"
-  - "[[_Standards/WikiData/WD~prince,2747456]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Mir,1937846]]"
-different_from: "[[_Standards/WikiData/WD~Emyr,5374904]]"
+  - '[[_Standards/WikiData/WD~ruler,1097498]]'
+  - '[[_Standards/WikiData/WD~prince,2747456]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Mir,1937846]]'
+different_from: '[[_Standards/WikiData/WD~Emyr,5374904]]'
 applies_to_jurisdiction: http://www.wikidata.org/.well-known/genid/a1c05cdf14c1d0891e9ff798704cb330
-religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
 native_label: أَمِير
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Prokudin-Gorskii-19-v2.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q166382-ar.oga

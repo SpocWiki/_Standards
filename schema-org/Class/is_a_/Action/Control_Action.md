@@ -4,20 +4,22 @@ aliases:
   - control_action
   - ControlAction
   - is_a_control_action
+  - Control_Action
+  - Control Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - control_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_control_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

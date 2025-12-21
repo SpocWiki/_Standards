@@ -2,12 +2,13 @@
 aliases:
   - has broadcast-affiliate-of
   - has_broadcast_affiliate_of
+  - has broadcast affiliate of
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - of
   - broadcast_affiliate_of
   - broadcastAffiliateOf
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_broadcast_affiliate_of
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

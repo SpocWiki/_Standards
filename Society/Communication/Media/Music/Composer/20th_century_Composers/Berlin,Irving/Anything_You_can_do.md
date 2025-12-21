@@ -2,11 +2,13 @@
 aliases:
   - Anything You Can Do I Can Do Better
   - Anything You Can Do
+  - Anything_You_can_do
+  - Anything You can do
 has_id_wikidata: Q4778342
-composer: "[[_Standards/WikiData/WD~Irving_Berlin,128746]]"
-instance_of: "[[_Standards/WikiData/WD~musical_work_composition,105543609]]"
-performer: "[[_Standards/WikiData/WD~Barbra_Streisand,4636]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~song,7366]]"
+composer: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
+instance_of: '[[_Standards/WikiData/WD~musical_work_composition,105543609]]'
+performer: '[[_Standards/WikiData/WD~Barbra_Streisand,4636]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~song,7366]]'
 publication_date: 1946-01-01T00:00:00Z
 ---
 

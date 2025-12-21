@@ -1,28 +1,30 @@
 ---
 aliases:
   - secondary sector is the economic sector
+  - Industrial_Sector
+  - Industrial Sector
 has_id_wikidata: Q8148
-different_from: "[[_Standards/WikiData/WD~industry,268592]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~nijverheid,3096286]]"
-instance_of: "[[_Standards/WikiData/WD~economic_sector,3958441]]"
+different_from: '[[_Standards/WikiData/WD~industry,268592]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~nijverheid,3096286]]'
+instance_of: '[[_Standards/WikiData/WD~economic_sector,3958441]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 subclass_of:
-  - "[[../../../WikiData/WD~economic_activity,8187769]]"
-  - "[[_Standards/WikiData/WD~secondary_sector_of_the_economy,55639]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Industry,14615793]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_industry,16000278]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~Q52677530,52677530]]"
+  - '[[../../../WikiData/WD~economic_activity,8187769]]'
+  - '[[_Standards/WikiData/WD~secondary_sector_of_the_economy,55639]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Industry,14615793]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_industry,16000278]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q52677530,52677530]]'
 Dewey_Decimal_Classification:
-  - "338"
-  - "338.4"
-IAB_code: "90"
-OmegaWiki_Defined_Meaning: "1922"
+  - 338
+  - 338.4
+IAB_code: 90
+OmegaWiki_Defined_Meaning: 1922
 Iconclass_notation: 47B2
 hashtag_: industries
 Colon_Classification: X8A

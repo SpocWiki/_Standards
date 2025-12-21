@@ -1,35 +1,36 @@
 ---
 aliases:
   - Sikhismus
+  - Sikhism
 has_id_wikidata: Q9316
-founded_by: "[[_Standards/WikiData/WD~Guru_Nanak,83322]]"
-foundational_text: "[[_Standards/WikiData/WD~Guru_Granth_Sahib,203249]]"
+founded_by: '[[_Standards/WikiData/WD~Guru_Nanak,83322]]'
+foundational_text: '[[_Standards/WikiData/WD~Guru_Granth_Sahib,203249]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~bhakti,507417]]"
-  - "[[_Standards/WikiData/WD~pantheism,728455]]"
-  - "[[_Standards/WikiData/WD~monotheism,9159]]"
-practiced_by: "[[_Standards/WikiData/WD~Sikh,582779]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~bhakti,507417]]'
+  - '[[_Standards/WikiData/WD~pantheism,728455]]'
+  - '[[_Standards/WikiData/WD~monotheism,9159]]'
+practiced_by: '[[_Standards/WikiData/WD~Sikh,582779]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Indian_religions,1651597]]"
-  - "[[_Standards/WikiData/WD~monotheistic_religion,19842652]]"
-part_of: "[[_Standards/WikiData/WD~Bhakti_movement,2914617]]"
-named_after: "[[_Standards/WikiData/WD~guru_shishya_tradition,5620325]]"
+  - '[[_Standards/WikiData/WD~Indian_religions,1651597]]'
+  - '[[_Standards/WikiData/WD~monotheistic_religion,19842652]]'
+part_of: '[[_Standards/WikiData/WD~Bhakti_movement,2914617]]'
+named_after: '[[_Standards/WikiData/WD~guru_shishya_tradition,5620325]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~major_religious_group,6957341]]"
-  - "[[_Standards/WikiData/WD~lifestyle,32090]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Sikhism,7112450]]"
-ethnic_group: "[[_Standards/WikiData/WD~polyethnicity,7226311]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Sikhism,11510351]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Sikhism,13451489]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Sikhi,111961545]]"
+  - '[[_Standards/WikiData/WD~major_religious_group,6957341]]'
+  - '[[_Standards/WikiData/WD~lifestyle,32090]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Sikhism,7112450]]'
+ethnic_group: '[[_Standards/WikiData/WD~polyethnicity,7226311]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Sikhism,11510351]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Sikhism,13451489]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Sikhi,111961545]]'
 inception: 1469-01-01T00:00:00Z
-different_from: "[[_Standards/WikiData/WD~Sikkim,1505]]"
-location_of_formation: "[[_Standards/WikiData/WD~Punjab,4478]]"
-follows: "[[_Standards/WikiData/WD~Hinduism,9089]]"
+different_from: '[[_Standards/WikiData/WD~Sikkim,1505]]'
+location_of_formation: '[[_Standards/WikiData/WD~Punjab,4478]]'
+follows: '[[_Standards/WikiData/WD~Hinduism,9089]]'
 member_count: 23000000
-Universal_Decimal_Classification: "235"
-IAB_code: "463"
+Universal_Decimal_Classification: 235
+IAB_code: 463
 native_label: ਸਿੱਖੀ
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Nishan%20Sahib.svg
 Colon_Classification: Q8441

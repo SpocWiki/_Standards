@@ -6,6 +6,7 @@ aliases:
   - dit
   - decimal Digit
   - decimal
+  - Dit
 ---
 
 # [[Dit]]  

@@ -3,23 +3,24 @@ aliases:
   - has target-product
   - targetProduct
   - has_target_product
+  - has target product
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - target_product
   - target
   - product
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_target_product
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

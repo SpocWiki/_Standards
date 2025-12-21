@@ -4,12 +4,13 @@ aliases:
   - id_of_health_plan_standard
   - usesHealthPlanIdStandard
   - has_id_of_health_plan_standard
+  - has id of health plan standard
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -18,11 +19,11 @@ keywords:
   - plan
   - id
   - standard
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_id_of_health_plan_standard
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

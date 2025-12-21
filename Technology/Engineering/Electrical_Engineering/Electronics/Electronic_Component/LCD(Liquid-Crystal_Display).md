@@ -2,15 +2,17 @@
 aliases:
   - LCD
   - liquid-crystal display
+  - LCD(Liquid-Crystal_Display)
+  - LCD(Liquid-Crystal Display)
 has_id_wikidata: Q83341
 different_from:
-  - "[[_Standards/WikiData/WD~flat_panel_display,125171]]"
-  - "[[_Standards/WikiData/WD~LCD_technology,54003144]]"
-subclass_of: "[[_Standards/WikiData/WD~flat_panel_display,125171]]"
-uses: "[[_Standards/WikiData/WD~liquid_crystal,203989]]"
-manifestation_of: "[[_Standards/WikiData/WD~LCD_technology,54003144]]"
-instance_of: "[[_Standards/WikiData/WD~display_technology,54006339]]"
-OmegaWiki_Defined_Meaning: "1220160"
+  - '[[_Standards/WikiData/WD~flat_panel_display,125171]]'
+  - '[[_Standards/WikiData/WD~LCD_technology,54003144]]'
+subclass_of: '[[_Standards/WikiData/WD~flat_panel_display,125171]]'
+uses: '[[_Standards/WikiData/WD~liquid_crystal,203989]]'
+manifestation_of: '[[_Standards/WikiData/WD~LCD_technology,54003144]]'
+instance_of: '[[_Standards/WikiData/WD~display_technology,54006339]]'
+OmegaWiki_Defined_Meaning: 1220160
 Commons_category: Liquid crystal displays
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LCD%20layers.png
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Lcd-engineerguy.ogv

@@ -1,20 +1,21 @@
 ---
 aliases:
   - Floß
+  - Raft
 has_id_wikidata: Q200433
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-different_from: "[[_Standards/WikiData/WD~Sailing_Song_Festival_Tratwa_,9259294]]"
-instance_of: "[[_Standards/WikiData/WD~boat_type,16103215]]"
-subclass_of: "[[_Standards/WikiData/WD~boat,35872]]"
-OmegaWiki_Defined_Meaning: "6853"
-Nomenclature_for_Museum_Cataloging: "12682"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~Sailing_Song_Festival_Tratwa_,9259294]]'
+instance_of: '[[_Standards/WikiData/WD~boat_type,16103215]]'
+subclass_of: '[[_Standards/WikiData/WD~boat,35872]]'
+OmegaWiki_Defined_Meaning: 6853
+Nomenclature_for_Museum_Cataloging: 12682
 Commons_gallery: Raft
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FAHopkins%20Lumber%20Raft.jpg
-U_S_National_Archives_Identifier: "10664115"
-UNSPSC_Code: "25111806"
+U_S_National_Archives_Identifier: 10664115
+UNSPSC_Code: 25111806
 Iconclass_notation: 46C2922
 Commons_category: Rafts
 ---

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Trompete
+  - Trumpet
 has_id_wikidata: Q8338
 Amazon_com_browse_node: 11971791
 award_received: "[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]"
@@ -31,7 +32,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/C%20Major%20Scale%20Tr
 Wolfram_Language_entity_code: Entity["Concept", "Trumpet::4g5j6"]
 ---
 
-# [[Trumpet]] 
+# [[Trumpet]] 🎺 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Trumpet,8338|WD~Trumpet,8338]] 
 

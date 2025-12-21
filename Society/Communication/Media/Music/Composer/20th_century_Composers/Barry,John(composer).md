@@ -2,80 +2,81 @@
 aliases:
   - John_Barry
   - John Barry Prendergast
+  - Barry,John(composer)
 has_id_wikidata: Q111074
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]"
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Original_Music,787098]]"
-  - "[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]"
-  - "[[_Standards/WikiData/WD~Classic_Brit_Awards,1096102]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Original_Score,1422140]]"
-  - "[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Musical_Score,1535128]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Score_Soundtrack_for_Visual_Media,4376972]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Large_Jazz_Ensemble_Album,5593825]]"
-  - "[[_Standards/WikiData/WD~Officer_of_the_Order_of_the_British_Empire,10762848]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Instrumental_Composition,13635451]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,_no_Musical,22752734]]"
-place_of_death: "[[_Standards/WikiData/WD~Oyster_Bay,129361]]"
-record_label: "[[_Standards/WikiData/WD~EMI,183412]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
+  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Original_Music,787098]]'
+  - '[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]'
+  - '[[_Standards/WikiData/WD~Classic_Brit_Awards,1096102]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Original_Score,1422140]]'
+  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Musical_Score,1535128]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Score_Soundtrack_for_Visual_Media,4376972]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Large_Jazz_Ensemble_Album,5593825]]'
+  - '[[_Standards/WikiData/WD~Officer_of_the_Order_of_the_British_Empire,10762848]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Instrumental_Composition,13635451]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,_no_Musical,22752734]]'
+place_of_death: '[[_Standards/WikiData/WD~Oyster_Bay,129361]]'
+record_label: '[[_Standards/WikiData/WD~EMI,183412]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Jane_Birkin,212873]]"
-  - "[[_Standards/WikiData/WD~Laurie_Barry,23601478]]"
-  - "[[_Standards/WikiData/WD~Barbara_Pickard,75471833]]"
-  - "[[_Standards/WikiData/WD~Jane_Sidey,76260626]]"
+  - '[[_Standards/WikiData/WD~Jane_Birkin,212873]]'
+  - '[[_Standards/WikiData/WD~Laurie_Barry,23601478]]'
+  - '[[_Standards/WikiData/WD~Barbara_Pickard,75471833]]'
+  - '[[_Standards/WikiData/WD~Jane_Sidey,76260626]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]"
-  - "[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Original_Song,1420891]]"
-  - "[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Musical_Score,1535128]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_Score,22235329]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,_no_Musical,22752734]]"
-genre: "[[_Standards/WikiData/WD~film_score,492264]]"
-field_of_work: "[[_Standards/WikiData/WD~film_score,492264]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
+  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Original_Song,1420891]]'
+  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Musical_Score,1535128]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_Score,22235329]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,_no_Musical,22752734]]'
+genre: '[[_Standards/WikiData/WD~film_score,492264]]'
+field_of_work: '[[_Standards/WikiData/WD~film_score,492264]]'
 occupation:
-  - "[[_Standards/WikiData/WD~musician,639669]]"
-  - "[[_Standards/WikiData/WD~songwriter,753110]]"
-  - "[[_Standards/WikiData/WD~film_score_composer,1415090]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-family_name: "[[_Standards/WikiData/WD~Barry,808994]]"
+  - '[[_Standards/WikiData/WD~musician,639669]]'
+  - '[[_Standards/WikiData/WD~songwriter,753110]]'
+  - '[[_Standards/WikiData/WD~film_score_composer,1415090]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
+family_name: '[[_Standards/WikiData/WD~Barry,808994]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Barry,808995]]"
-  - "[[_Standards/WikiData/WD~John,4925477]]"
-copyright_representative: "[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]"
+  - '[[_Standards/WikiData/WD~Barry,808995]]'
+  - '[[_Standards/WikiData/WD~John,4925477]]'
+copyright_representative: '[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]'
 educated_at: "[[_Standards/WikiData/WD~St_Peter's_School,2504619]]"
 notable_work:
-  - "[[_Standards/WikiData/WD~Diamonds_Are_Forever,3405220]]"
-  - "[[_Standards/WikiData/WD~Dances_with_Wolves,5215418]]"
-  - "[[_Standards/WikiData/WD~Goldfinger,14716]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+  - '[[_Standards/WikiData/WD~Diamonds_Are_Forever,3405220]]'
+  - '[[_Standards/WikiData/WD~Dances_with_Wolves,5215418]]'
+  - '[[_Standards/WikiData/WD~Goldfinger,14716]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 child:
-  - "[[_Standards/WikiData/WD~Kate_Barry,6375357]]"
-  - "[[_Standards/WikiData/WD~Suzy_Prendergast,75461893]]"
-  - "[[_Standards/WikiData/WD~Jonpatrick_Barry,75461896]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-different_from: "[[_Standards/WikiData/WD~John_Finan_Barry,11727884]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-father: "[[_Standards/WikiData/WD~Jack_Xavier_Prendergast,76068546]]"
-mother: "[[_Standards/WikiData/WD~Doris_Prendergast,130234026]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-cause_of_death: "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Kate_Barry,6375357]]'
+  - '[[_Standards/WikiData/WD~Suzy_Prendergast,75461893]]'
+  - '[[_Standards/WikiData/WD~Jonpatrick_Barry,75461896]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+different_from: '[[_Standards/WikiData/WD~John_Finan_Barry,11727884]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+father: '[[_Standards/WikiData/WD~Jack_Xavier_Prendergast,76068546]]'
+mother: '[[_Standards/WikiData/WD~Doris_Prendergast,130234026]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 number_of_children: 5
-place_of_birth: "[[_Standards/WikiData/WD~York,42462]]"
+place_of_birth: '[[_Standards/WikiData/WD~York,42462]]'
 pseudonym: John Barry
 Commons_category: John Barry (composer)
 name_in_native_language: John Barry
 work_period_start_: 1960-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/John-barry-2006.jpg
 ISNI:
-  - "0000000122820905"
+  - 0000000122820905
   - 000000036865189X
-  - "0000000368651902"
-IPI_name_number: "00002198612"
+  - 0000000368651902
+IPI_name_number: 00002198612
 Plex_person_key: 5d7768ae3ab0e7001f507a21
 Libris_URI: 64jlmmzq124cwvn
 Europeana_entity: agent/base/62050

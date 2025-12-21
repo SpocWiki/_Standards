@@ -1,6 +1,7 @@
 ---
 aliases:
-- 1GL
+  - 1GL
+  - Machine-Language
 ---
 
 [[Prog~Assembler]] is considered to be a 2nd Generation Programming Language, 

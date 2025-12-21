@@ -3,23 +3,24 @@ aliases:
   - has sub-test
   - subTest
   - has_sub_test
+  - has sub test
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sub_test
   - sub
   - test
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_sub_test
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

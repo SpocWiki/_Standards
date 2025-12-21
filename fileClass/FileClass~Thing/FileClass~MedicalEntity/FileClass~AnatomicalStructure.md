@@ -1,79 +1,81 @@
 ---
-bookmarksGroups: 
-excludes: 
+aliases:
+  - FileClass~AnatomicalStructure
+bookmarksGroups: ''
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity
-favoriteView: 
+favoriteView: ''
 fields:
-- id: FcvT3B
-  name: AssociatedPathophysiology
-  options: {}
-  type: Input
-  path: ''
-- id: o21vKO
-  name: BodyLocation
-  options: {}
-  type: Input
-  path: ''
-- id: NGpV1O
-  name: ConnectedTo
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"
-  type: MultiFile
-  path: ''
-- id: YvF5sx
-  name: Diagram
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"
-  type: MultiFile
-  path: ''
-- id: 2VQnUx
-  name: PartOfSystem
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalSystem')"
-  type: MultiFile
-  path: ''
-- id: hPoXzG
-  name: RelatedCondition
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalCondition')"
-  type: MultiFile
-  path: ''
-- id: q851XS
-  name: RelatedTherapy
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')"
-  type: MultiFile
-  path: ''
-- id: 8HP0xc
-  name: SubStructure
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"
-  type: MultiFile
-  path: ''
+  - id: FcvT3B
+    name: AssociatedPathophysiology
+    options: {}
+    type: Input
+    path: ''
+  - id: o21vKO
+    name: BodyLocation
+    options: {}
+    type: Input
+    path: ''
+  - id: NGpV1O
+    name: ConnectedTo
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
+    type: MultiFile
+    path: ''
+  - id: YvF5sx
+    name: Diagram
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
+    type: MultiFile
+    path: ''
+  - id: 2VQnUx
+    name: PartOfSystem
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalSystem')
+    type: MultiFile
+    path: ''
+  - id: hPoXzG
+    name: RelatedCondition
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
+    type: MultiFile
+    path: ''
+  - id: q851XS
+    name: RelatedTherapy
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')
+    type: MultiFile
+    path: ''
+  - id: 8HP0xc
+    name: SubStructure
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
+    type: MultiFile
+    path: ''
 fieldsOrder:
-- 8HP0xc
-- q851XS
-- hPoXzG
-- 2VQnUx
-- YvF5sx
-- NGpV1O
-- o21vKO
-- FcvT3B
-filesPaths: 
+  - 8HP0xc
+  - q851XS
+  - hPoXzG
+  - 2VQnUx
+  - YvF5sx
+  - NGpV1O
+  - o21vKO
+  - FcvT3B
+filesPaths: ''
 icon: bone
 limit: 9
 mapWithTag: true
 savedViews: []
 tagNames:
-- class/AnatomicalStructure
-- class/Thing/MedicalEntity/AnatomicalStructure
-- is_an_/AnatomicalStructure
-- schema-org/AnatomicalStructure
+  - class/AnatomicalStructure
+  - class/Thing/MedicalEntity/AnatomicalStructure
+  - is_an_/AnatomicalStructure
+  - schema-org/AnatomicalStructure
 tags:
-- class/FileClass
-- class/AnatomicalStructure
-- '#is_an_/AnatomicalStructure'
-- class/Thing/MedicalEntity/AnatomicalStructure
+  - class/FileClass
+  - class/AnatomicalStructure
+  - '#is_an_/AnatomicalStructure'
+  - class/Thing/MedicalEntity/AnatomicalStructure
 version: 2.2
 ---
 

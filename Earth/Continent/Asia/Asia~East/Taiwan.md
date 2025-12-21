@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Taiwan
+  - ""
+has_id_wikidata: Q865
 CIVICUS_Monitor_country_entry: taiwan
 subreddit: taiwan
 GitHub_topic: taiwan
@@ -426,10 +430,9 @@ population: 23409323
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/National%20Emblem%20of%20the%20Republic%20of%20China.svg
 U_S_National_Archives_Identifier: 10035791
 Commons_gallery: 中華民國
-inception: "1912"
+inception: 1912
 has_time_started: 1912-06
 coordinates_of_easternmost_point: Point(122.10638889 25.485)
-has_id_wikidata: Q865
 location:
   - 25.08
   - 121.55
@@ -446,15 +449,12 @@ cssclasses:
   - Country
 publish: true
 title: Taiwan
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Taiwan
-  - 
+publishDate: ""
+expiryDate: ""
 Languages:
   - zh-TW
   - zh

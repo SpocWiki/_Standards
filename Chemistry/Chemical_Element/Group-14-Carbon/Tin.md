@@ -1,47 +1,48 @@
 ---
 aliases:
   - Zinn
+  - Tin
 has_id_wikidata: Q1096
-associated_hazard: "[[_Standards/WikiData/WD~tin_poisoning,7807844]]"
+associated_hazard: '[[_Standards/WikiData/WD~tin_poisoning,7807844]]'
 atomic_number: 50
 boiling_point:
   - 2507
   - 4545
-canonical_SMILES: "[Sn]"
+canonical_SMILES: '[Sn]'
 CAS_Registry_Number: 7440-31-5
 chemical_formula: Sn
-color: "[[_Standards/WikiData/WD~silver,317802]]"
+color: '[[_Standards/WikiData/WD~silver,317802]]'
 Commons_category: Tin
 Commons_gallery: Tin
 CosIng_number: 86716
 density: 7.28
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Tin,84668552]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-different_from: "[[_Standards/WikiData/WD~Timah,19752956]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Tin,84668552]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+different_from: '[[_Standards/WikiData/WD~Timah,19752956]]'
 DSSTOX_compound_identifier: DTXCID701323006
 EC_number: 231-141-8
 electronegativity: 1.96
 electron_configuration:
   - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p²
-  - "[Kr] 5s² 5d¹⁰ 5p²"
+  - '[Kr] 5s² 5d¹⁰ 5p²'
 element_symbol: Sn
-has_effect: "[[_Standards/WikiData/WD~tin_poisoning,7807844]]"
+has_effect: '[[_Standards/WikiData/WD~tin_poisoning,7807844]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%ADn.PNG
 immediately_dangerous_to_life_or_health: 100
 InChI: InChI=1S/Sn
 InChIKey: ATJFFYVFTNAWJD-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~chemical_substance,79529]]"
-  - "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+  - '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
   - 0.55
   - 0.69
@@ -58,19 +59,19 @@ MeSH_tree_code:
   - D01.552.544.875
 OmegaWiki_Defined_Meaning: 3780
 part_of:
-  - "[[_Standards/WikiData/WD~group_14,106693]]"
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
-  - "[[_Standards/WikiData/WD~antimony-doped_tin_oxide,3886818]]"
+  - '[[_Standards/WikiData/WD~group_14,106693]]'
+  - '[[_Standards/WikiData/WD~period_5,244982]]'
+  - '[[_Standards/WikiData/WD~antimony-doped_tin_oxide,3886818]]'
 PubChem_CID: 5352426
 RTECS_number: XP7320000
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]"
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]'
 SpocWebEntityId: 3285
 standard_molar_entropy: 44.1
 subclass_of:
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
-  - "[[_Standards/WikiData/WD~metal,11426]]"
-  - "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
-subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
+  - '[[_Standards/WikiData/WD~period_5,244982]]'
+  - '[[_Standards/WikiData/WD~metal,11426]]'
+  - '[[_Standards/WikiData/WD~post-transition_metal,19591]]'
+subject_has_role: '[[_Standards/WikiData/WD~trace_metal,7831165]]'
 time_weighted_average_exposure_limit: 2
 type: Element
 UMLS_CUI: C0040238

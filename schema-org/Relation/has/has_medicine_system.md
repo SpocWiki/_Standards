@@ -3,23 +3,24 @@ aliases:
   - has medicine-system
   - medicineSystem
   - has_medicine_system
+  - has medicine system
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medicine_system
   - medicine
   - system
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_medicine_system
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

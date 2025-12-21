@@ -1,6 +1,7 @@
 ---
 aliases:
   - Rakete
+  - Rocket
 has_id_wikidata: Q41291
 ---
 

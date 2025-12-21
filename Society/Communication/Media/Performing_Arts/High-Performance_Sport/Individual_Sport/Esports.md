@@ -2,23 +2,24 @@
 aliases:
   - electronic sports
   - E-Sports
+  - Esports
 has_id_wikidata: Q300920
 instance_of:
-  - "[[_Standards/WikiData/WD~entertainment,173799]]"
-  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+  - '[[_Standards/WikiData/WD~entertainment,173799]]'
+  - '[[_Standards/WikiData/WD~type_of_sport,31629]]'
 uses:
-  - "[[_Standards/WikiData/WD~gaming_computer,185270]]"
-  - "[[_Standards/WikiData/WD~video_game,7889]]"
-  - "[[_Standards/WikiData/WD~video_game_console,8076]]"
+  - '[[_Standards/WikiData/WD~gaming_computer,185270]]'
+  - '[[_Standards/WikiData/WD~video_game,7889]]'
+  - '[[_Standards/WikiData/WD~video_game_console,8076]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~clan,989470]]"
-  - "[[_Standards/WikiData/WD~professional_gamer,4379701]]"
-  - "[[_Standards/WikiData/WD~esports_commentator,63349295]]"
-  - "[[_Standards/WikiData/WD~esports_coach,116973139]]"
-  - "[[_Standards/WikiData/WD~esports_manager,117471360]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q18535198,18535198]]"
-subclass_of: "[[_Standards/WikiData/WD~sport,349]]"
-IAB_code: "682"
+  - '[[_Standards/WikiData/WD~clan,989470]]'
+  - '[[_Standards/WikiData/WD~professional_gamer,4379701]]'
+  - '[[_Standards/WikiData/WD~esports_commentator,63349295]]'
+  - '[[_Standards/WikiData/WD~esports_coach,116973139]]'
+  - '[[_Standards/WikiData/WD~esports_manager,117471360]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q18535198,18535198]]'
+subclass_of: '[[_Standards/WikiData/WD~sport,349]]'
+IAB_code: 682
 hashtag_: esport
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Electronic%20sports%20pictogram.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LGD%20Gaming%20at%20the%202015%20LPL%20Summer%20Finals.jpg

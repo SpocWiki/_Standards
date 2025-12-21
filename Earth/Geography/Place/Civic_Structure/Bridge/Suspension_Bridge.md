@@ -1,16 +1,18 @@
 ---
 aliases:
   - Hängebrücke
+  - Suspension_Bridge
+  - Suspension Bridge
 has_id_wikidata: Q12570
 different_from:
-  - "[[_Standards/WikiData/WD~cable_stayed_bridge,158555]]"
-  - "[[_Standards/WikiData/WD~simple_suspension_bridge,3916505]]"
-  - "[[_Standards/WikiData/WD~drawbridge,23383]]"
-has_list: "[[_Standards/WikiData/WD~list_of_longest_suspension_bridge_spans,468464]]"
-instance_of: "[[_Standards/WikiData/WD~bridge_by_structural_type,17644823]]"
+  - '[[_Standards/WikiData/WD~cable_stayed_bridge,158555]]'
+  - '[[_Standards/WikiData/WD~simple_suspension_bridge,3916505]]'
+  - '[[_Standards/WikiData/WD~drawbridge,23383]]'
+has_list: '[[_Standards/WikiData/WD~list_of_longest_suspension_bridge_spans,468464]]'
+instance_of: '[[_Standards/WikiData/WD~bridge_by_structural_type,17644823]]'
 properties_for_this_type: has part(s)
-subclass_of: "[[_Standards/WikiData/WD~bridge,12280]]"
-Nomenclature_for_Museum_Cataloging: "890"
+subclass_of: '[[_Standards/WikiData/WD~bridge,12280]]'
+Nomenclature_for_Museum_Cataloging: 890
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Bridge-suspension.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pont%20y%20Borth%20%28Menai%20Suspension%20Bridge%29%20a%20godwyd%20gan%20Telford%2C%20rhwng%20Ynys%20Mon%20a%20Gwynedd%3B%20Mehefin%202023%2012.jpg
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Rainbow%20colored%20Rainbow%20Bridge%20at%20night.jpg
@@ -20,7 +22,7 @@ exact_match:
 Iconclass_notation: 46C11211
 Commons_category: Suspension bridges
 OpenStreetMap_tag: bridge:structure=suspension
-Dewey_Decimal_Classification: "624.23"
+Dewey_Decimal_Classification: 624.23
 ---
 
 # [[Suspension_Bridge]] 

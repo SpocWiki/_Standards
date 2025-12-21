@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~SomeProducts
+excludes: ''
 extends: FileClass~Thing/FileClass~Product
 fields:
-- id: h2S0RZ
-  name: InventoryLevel
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
+  - id: h2S0RZ
+    name: InventoryLevel
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/SomeProducts
-- class/Thing/Product/SomeProducts
-- is_a_/SomeProducts
-- schema-org/SomeProducts
+  - class/SomeProducts
+  - class/Thing/Product/SomeProducts
+  - is_a_/SomeProducts
+  - schema-org/SomeProducts
 tags:
-- class/FileClass
-- class/SomeProducts
-- is_a_/SomeProducts
-- class/Thing/Product/SomeProducts
+  - class/FileClass
+  - class/SomeProducts
+  - is_a_/SomeProducts
+  - class/Thing/Product/SomeProducts
 version: 2.0
 ---
 

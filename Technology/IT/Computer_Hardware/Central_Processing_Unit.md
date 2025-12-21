@@ -1,7 +1,9 @@
 ---
-has_id_wikidata: Q5300
 aliases:
   - Processor
+  - Central_Processing_Unit
+  - Central Processing Unit
+has_id_wikidata: Q5300
 ---
 
 # [[Central_Processing_Unit]] 

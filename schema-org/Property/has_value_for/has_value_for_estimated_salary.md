@@ -4,21 +4,22 @@ aliases:
   - estimated-salary
   - estimatedSalary
   - has_value_for_estimated_salary
+  - has value for estimated salary
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - estimated-salary
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_estimated-salary
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

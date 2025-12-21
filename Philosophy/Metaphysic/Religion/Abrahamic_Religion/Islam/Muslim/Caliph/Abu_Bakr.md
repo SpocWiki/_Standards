@@ -2,7 +2,8 @@
 aliases:
   - Abd Allah ibn Abi Quhafa
   - Abu Bakr
-  - 
+  - ''
+  - Abu_Bakr
 has_id_wikidata: Q334923
 ---
 

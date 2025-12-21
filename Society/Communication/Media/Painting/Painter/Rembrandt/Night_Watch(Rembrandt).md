@@ -1,50 +1,52 @@
 ---
 aliases:
   - The_Night_Watch
+  - Night_Watch(Rembrandt)
+  - Night Watch(Rembrandt)
 has_id_wikidata: Q219831
 collection:
-  - "[[_Standards/WikiData/WD~Rijksmuseum,190804]]"
-  - "[[_Standards/WikiData/WD~Amsterdam_Museum,1820897]]"
+  - '[[_Standards/WikiData/WD~Rijksmuseum,190804]]'
+  - '[[_Standards/WikiData/WD~Amsterdam_Museum,1820897]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~oil_paint,296955]]"
-  - "[[_Standards/WikiData/WD~canvas,12321255]]"
+  - '[[_Standards/WikiData/WD~oil_paint,296955]]'
+  - '[[_Standards/WikiData/WD~canvas,12321255]]'
 depicts:
-  - "[[_Standards/WikiData/WD~Frans_Banning_Cocq,935192]]"
-  - "[[_Standards/WikiData/WD~Schutterij,1975176]]"
-  - "[[_Standards/WikiData/WD~Willem_van_Ruytenburch,3048552]]"
+  - '[[_Standards/WikiData/WD~Frans_Banning_Cocq,935192]]'
+  - '[[_Standards/WikiData/WD~Schutterij,1975176]]'
+  - '[[_Standards/WikiData/WD~Willem_van_Ruytenburch,3048552]]'
 derivative_work:
-  - "[[_Standards/WikiData/WD~Q1934620,1934620]]"
-  - "[[_Standards/WikiData/WD~The_Company_of_Captain_Banning_Cocq,18608264]]"
-  - "[[_Standards/WikiData/WD~The_Night_Watch_3D,50661160]]"
-genre: "[[_Standards/WikiData/WD~schutterstuk,2415378]]"
-main_subject: "[[_Standards/WikiData/WD~The_civic_militia_lead_by_Frans_Banninck_Cocq,2613462]]"
-instance_of: "[[_Standards/WikiData/WD~painting,3305213]]"
+  - '[[_Standards/WikiData/WD~Q1934620,1934620]]'
+  - '[[_Standards/WikiData/WD~The_Company_of_Captain_Banning_Cocq,18608264]]'
+  - '[[_Standards/WikiData/WD~The_Night_Watch_3D,50661160]]'
+genre: '[[_Standards/WikiData/WD~schutterstuk,2415378]]'
+main_subject: '[[_Standards/WikiData/WD~The_civic_militia_lead_by_Frans_Banninck_Cocq,2613462]]'
+instance_of: '[[_Standards/WikiData/WD~painting,3305213]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catalog_of_the_paintings_on_show_at_the_Rijksmuseum_in_1956,16986324]]"
-  - "[[_Standards/WikiData/WD~1001_Paintings_You_Must_See_Before_You_Die,66362718]]"
-different_from: "[[_Standards/WikiData/WD~Watchman,134284040]]"
-location_of_creation: "[[_Standards/WikiData/WD~Amsterdam,727]]"
-creator: "[[_Standards/WikiData/WD~Rembrandt,5598]]"
-owned_by: "[[_Standards/WikiData/WD~Amsterdam,9899]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-country_of_origin: "[[_Standards/WikiData/WD~Netherlands,55]]"
-country: "[[_Standards/WikiData/WD~Netherlands,55]]"
+  - '[[_Standards/WikiData/WD~Catalog_of_the_paintings_on_show_at_the_Rijksmuseum_in_1956,16986324]]'
+  - '[[_Standards/WikiData/WD~1001_Paintings_You_Must_See_Before_You_Die,66362718]]'
+different_from: '[[_Standards/WikiData/WD~Watchman,134284040]]'
+location_of_creation: '[[_Standards/WikiData/WD~Amsterdam,727]]'
+creator: '[[_Standards/WikiData/WD~Rembrandt,5598]]'
+owned_by: '[[_Standards/WikiData/WD~Amsterdam,9899]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+country_of_origin: '[[_Standards/WikiData/WD~Netherlands,55]]'
+country: '[[_Standards/WikiData/WD~Netherlands,55]]'
 height: 363
 width: 437
 catalog_code:
-  - "239"
-  - "410"
-  - "52"
-  - "926"
-  - "139"
-  - "254"
-  - "32"
-  - "50"
-  - "71"
-  - "246"
-  - "2016"
-  - "190"
-  - "265"
+  - 239
+  - 410
+  - 52
+  - 926
+  - 139
+  - 254
+  - 32
+  - 50
+  - 71
+  - 246
+  - 2016
+  - 190
+  - 265
 inventory_number:
   - SA 7392
   - SK-C-5
@@ -70,7 +72,7 @@ exact_match:
   - http://data.collectienederland.nl/resource/document/amsterdam-museum/SA-7392
   - http://data.collectienederland.nl/resource/document/rijksmuseum/oai-rijksmuseum.nl-SK-C-5
 described_at_URL: https://www.rijksmuseum.nl/nl/collectie/object/De-Nachtwacht--3137deb45cd7765f9a76084a16c99544
-Bildindex_der_Kunst_und_Architektur_PID: "0001294043"
+Bildindex_der_Kunst_und_Architektur_PID: 0001294043
 Commons_category: The Night Watch by Rembrandt
 official_name: Schutters van wijk II onder leiding van kapitein Frans Banninck Cocq, bekend als de ‘Nachtwacht’
 inception: 1642-01-01T00:00:00Z

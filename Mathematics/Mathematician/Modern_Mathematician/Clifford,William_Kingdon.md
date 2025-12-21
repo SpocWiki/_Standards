@@ -1,6 +1,8 @@
 ---
 aliases:
-- "William Kingdon Clifford"
+  - William Kingdon Clifford
+  - Clifford,William_Kingdon
+  - Clifford,William Kingdon
 ---
 
 #has_/time_/started :: 1845-05-04 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Diamant
+  - Diamond
 has_id_wikidata: Q5283
 ---
 

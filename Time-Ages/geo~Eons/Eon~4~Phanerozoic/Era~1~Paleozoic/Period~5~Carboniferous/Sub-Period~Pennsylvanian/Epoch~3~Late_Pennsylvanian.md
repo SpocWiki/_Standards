@@ -1,5 +1,7 @@
 ---
-aliases: []
+aliases:
+  - Epoch~3~Late_Pennsylvanian
+  - Epoch~3~Late Pennsylvanian
 ischart: UpperPennsylvanian
 ---
 

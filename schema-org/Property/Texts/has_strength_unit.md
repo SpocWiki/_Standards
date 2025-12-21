@@ -4,22 +4,24 @@ aliases:
   - strength_unit
   - strengthUnit
   - has_text_of_strength_unit
+  - has_strength_unit
+  - has strength unit
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - strength
   - unit
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_strength_unit
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

@@ -12,6 +12,7 @@ aliases:
   - bathers
   - cossie
   - swimming trunks
+  - Swimsuit
 has_id_wikidata: Q212989
 made_from_material:
   - "[[_Standards/WikiData/WD~nylon,177941]]"
@@ -23,13 +24,13 @@ has_use:
   - "[[_Standards/WikiData/WD~sun_bathing,47125651]]"
   - "[[_Standards/WikiData/WD~swimming,6388]]"
 Dewey_Decimal_Classification:
-  - "391"
-  - "646.47"
-  - "687.16"
-Nomenclature_for_Museum_Cataloging: "2510"
-OmegaWiki_Defined_Meaning: "7939"
+  - 391
+  - 646.47
+  - 687.16
+Nomenclature_for_Museum_Cataloging: 2510
+OmegaWiki_Defined_Meaning: 7939
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chloe%20Sutton.jpg
-UNSPSC_Code: "53102801"
+UNSPSC_Code: 53102801
 Wolfram_Language_entity_code: Entity["Concept", "BathingCostume::94f34"]
 booru_tag: swimsuit
 Danbooru_tag: swimsuit
@@ -41,7 +42,7 @@ Unicode_character: 🩱
 OpenStreetMap_tag: clothing=swimwear
 ---
 
-# [[Swimsuit]] 
+# [[Swimsuit]] 🩱 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Swimsuit,212989|WD~Swimsuit,212989]]  
 

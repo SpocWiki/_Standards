@@ -3,23 +3,24 @@ aliases:
   - has medical-specialty
   - medicalSpecialty
   - has_medical_specialty
+  - has medical specialty
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_specialty
   - medical
   - specialty
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_medical_specialty
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

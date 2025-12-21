@@ -3,18 +3,19 @@ aliases:
   - synthesis gas
   - Synthesegas
   - Holzgas
+  - Syngas
 has_id_wikidata: Q3273339
 fabrication_method:
-  - "[[_Standards/WikiData/WD~Partial_oxidation,451467]]"
-  - "[[_Standards/WikiData/WD~steam_reforming,556466]]"
-subclass_of: "[[_Standards/WikiData/WD~fuel_gas,909363]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q13324163,13324163]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+  - '[[_Standards/WikiData/WD~Partial_oxidation,451467]]'
+  - '[[_Standards/WikiData/WD~steam_reforming,556466]]'
+subclass_of: '[[_Standards/WikiData/WD~fuel_gas,909363]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q13324163,13324163]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~hydrogen,556]]"
-  - "[[_Standards/WikiData/WD~carbon_monoxide,2025]]"
-has_use: "[[_Standards/WikiData/WD~fuel,42501]]"
-Dewey_Decimal_Classification: "665.77"
+  - '[[_Standards/WikiData/WD~hydrogen,556]]'
+  - '[[_Standards/WikiData/WD~carbon_monoxide,2025]]'
+has_use: '[[_Standards/WikiData/WD~fuel,42501]]'
+Dewey_Decimal_Classification: 665.77
 ---
 
 # [[Syngas]] 

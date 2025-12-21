@@ -3,12 +3,13 @@ aliases:
   - has occupational-credential-awarded
   - occupationalCredentialAwarded
   - has_occupational_credential_awarded
+  - has occupational credential awarded
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - occupational
   - credential
   - awarded
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_occupational_credential_awarded
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -2,16 +2,17 @@
 aliases:
   - Partikel
   - corpuscle
+  - Particle
 has_id_wikidata: Q1621273
-subclass_of: "[[_Standards/WikiData/WD~physical_object,223557]]"
-studied_by: "[[_Standards/WikiData/WD~point_mechanics,3332138]]"
-described_by_source: "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
+subclass_of: '[[_Standards/WikiData/WD~physical_object,223557]]'
+studied_by: '[[_Standards/WikiData/WD~point_mechanics,3332138]]'
+described_by_source: '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_particle,6484397]]"
-  - "[[_Standards/WikiData/WD~Template_Particles,6768470]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+  - '[[_Standards/WikiData/WD~Template_Infobox_particle,6484397]]'
+  - '[[_Standards/WikiData/WD~Template_Particles,6768470]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 properties_for_this_type: interaction
-OmegaWiki_Defined_Meaning: "6926"
+OmegaWiki_Defined_Meaning: 6926
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/GMAW.welding.af.ncs.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/ColloidalStability.png

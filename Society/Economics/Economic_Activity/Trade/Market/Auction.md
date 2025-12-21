@@ -1,9 +1,10 @@
 ---
 aliases:
   - Auktion
+  - Auction
 has_id_wikidata: Q133538823
-instance_of: "[[_Standards/WikiData/WD~game_mechanic,1751513]]"
-subclass_of: "[[_Standards/WikiData/WD~bet,2565881]]"
+instance_of: '[[_Standards/WikiData/WD~game_mechanic,1751513]]'
+subclass_of: '[[_Standards/WikiData/WD~bet,2565881]]'
 ---
 
 # [[Auction]] 

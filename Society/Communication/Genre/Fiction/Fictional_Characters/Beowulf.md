@@ -1,75 +1,77 @@
 ---
+aliases:
+  - Beowulf
 has_id_wikidata: Q48328
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 derivative_work:
-  - "[[_Standards/WikiData/WD~Beowulf,644933]]"
-  - "[[_Standards/WikiData/WD~Beowulf,818607]]"
-  - "[[_Standards/WikiData/WD~Beowulf_&_Grendel,818604]]"
-  - "[[_Standards/WikiData/WD~Grendel,4148642]]"
-  - "[[_Standards/WikiData/WD~Beowulf_Prince_of_the_Geats,9168942]]"
-  - "[[_Standards/WikiData/WD~Grendel_Grendel_Grendel,12124668]]"
-  - "[[_Standards/WikiData/WD~The_Mere_Wife,85807897]]"
-  - "[[_Standards/WikiData/WD~Bea_Wolf,125291737]]"
+  - '[[_Standards/WikiData/WD~Beowulf,644933]]'
+  - '[[_Standards/WikiData/WD~Beowulf,818607]]'
+  - '[[_Standards/WikiData/WD~Beowulf_&_Grendel,818604]]'
+  - '[[_Standards/WikiData/WD~Grendel,4148642]]'
+  - '[[_Standards/WikiData/WD~Beowulf_Prince_of_the_Geats,9168942]]'
+  - '[[_Standards/WikiData/WD~Grendel_Grendel_Grendel,12124668]]'
+  - '[[_Standards/WikiData/WD~The_Mere_Wife,85807897]]'
+  - '[[_Standards/WikiData/WD~Bea_Wolf,125291737]]'
 characters:
-  - "[[_Standards/WikiData/WD~Hrólfr_Kraki,662533]]"
-  - "[[_Standards/WikiData/WD~Hygelac,889694]]"
-  - "[[_Standards/WikiData/WD~Wiglaf,1049736]]"
-  - "[[_Standards/WikiData/WD~Sigmund,1158552]]"
-  - "[[_Standards/WikiData/WD~Beowulf,1281177]]"
-  - "[[_Standards/WikiData/WD~Hrothgar,1353836]]"
-  - "[[_Standards/WikiData/WD~Wealhþeow,2116944]]"
+  - '[[_Standards/WikiData/WD~Hrólfr_Kraki,662533]]'
+  - '[[_Standards/WikiData/WD~Hygelac,889694]]'
+  - '[[_Standards/WikiData/WD~Wiglaf,1049736]]'
+  - '[[_Standards/WikiData/WD~Sigmund,1158552]]'
+  - '[[_Standards/WikiData/WD~Beowulf,1281177]]'
+  - '[[_Standards/WikiData/WD~Hrothgar,1353836]]'
+  - '[[_Standards/WikiData/WD~Wealhþeow,2116944]]'
   - "[[_Standards/WikiData/WD~Grendel's_mother,2361245]]"
-  - "[[_Standards/WikiData/WD~Unferð,3549904]]"
-  - "[[_Standards/WikiData/WD~Herebeald,3785199]]"
-  - "[[_Standards/WikiData/WD~Hildeburh,3785616]]"
-  - "[[_Standards/WikiData/WD~Hæþcyn,3788090]]"
-  - "[[_Standards/WikiData/WD~Æschere,4025243]]"
-  - "[[_Standards/WikiData/WD~Heremod,5738168]]"
-  - "[[_Standards/WikiData/WD~Grendel,29372]]"
-different_from: "[[_Standards/WikiData/WD~Beowulf,818620]]"
-part_of: "[[_Standards/WikiData/WD~Nowell_Codex,1227468]]"
-named_after: "[[_Standards/WikiData/WD~Beowulf,1281177]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~alliterative_verse,1397862]]"
+  - '[[_Standards/WikiData/WD~Unferð,3549904]]'
+  - '[[_Standards/WikiData/WD~Herebeald,3785199]]'
+  - '[[_Standards/WikiData/WD~Hildeburh,3785616]]'
+  - '[[_Standards/WikiData/WD~Hæþcyn,3788090]]'
+  - '[[_Standards/WikiData/WD~Æschere,4025243]]'
+  - '[[_Standards/WikiData/WD~Heremod,5738168]]'
+  - '[[_Standards/WikiData/WD~Grendel,29372]]'
+different_from: '[[_Standards/WikiData/WD~Beowulf,818620]]'
+part_of: '[[_Standards/WikiData/WD~Nowell_Codex,1227468]]'
+named_after: '[[_Standards/WikiData/WD~Beowulf,1281177]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~alliterative_verse,1397862]]'
 genre:
-  - "[[_Standards/WikiData/WD~heroic_poetry,1601739]]"
-  - "[[_Standards/WikiData/WD~epic_poem,37484]]"
+  - '[[_Standards/WikiData/WD~heroic_poetry,1601739]]'
+  - '[[_Standards/WikiData/WD~epic_poem,37484]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Beowulf_A_Translation_and_Commentary,15964730]]"
-  - "[[_Standards/WikiData/WD~Beowulf,19074835]]"
-  - "[[_Standards/WikiData/WD~The_Oldest_English_Epic,19112725]]"
-  - "[[_Standards/WikiData/WD~Beowulf,72647708]]"
-  - "[[_Standards/WikiData/WD~Beowulf,_Épopée_Anglo_Saxonne,72650764]]"
-  - "[[_Standards/WikiData/WD~Beowulf_A_New_Verse_Translation,85746648]]"
-  - "[[_Standards/WikiData/WD~Beowulf,95494010]]"
-  - "[[_Standards/WikiData/WD~Beowulf,98152247]]"
-  - "[[_Standards/WikiData/WD~Beowulf_A_Verse_Translation,101203573]]"
-  - "[[_Standards/WikiData/WD~Beowulf,102323817]]"
-  - "[[_Standards/WikiData/WD~Beowulf_Transliteration_and_Notes,102346784]]"
-  - "[[_Standards/WikiData/WD~Beowulf_A_New_Translation,107059472]]"
-  - "[[_Standards/WikiData/WD~The_Tale_of_Beowulf,125754780]]"
-  - "[[_Standards/WikiData/WD~Beowulf,130428913]]"
+  - '[[_Standards/WikiData/WD~Beowulf_A_Translation_and_Commentary,15964730]]'
+  - '[[_Standards/WikiData/WD~Beowulf,19074835]]'
+  - '[[_Standards/WikiData/WD~The_Oldest_English_Epic,19112725]]'
+  - '[[_Standards/WikiData/WD~Beowulf,72647708]]'
+  - '[[_Standards/WikiData/WD~Beowulf,_Épopée_Anglo_Saxonne,72650764]]'
+  - '[[_Standards/WikiData/WD~Beowulf_A_New_Verse_Translation,85746648]]'
+  - '[[_Standards/WikiData/WD~Beowulf,95494010]]'
+  - '[[_Standards/WikiData/WD~Beowulf,98152247]]'
+  - '[[_Standards/WikiData/WD~Beowulf_A_Verse_Translation,101203573]]'
+  - '[[_Standards/WikiData/WD~Beowulf,102323817]]'
+  - '[[_Standards/WikiData/WD~Beowulf_Transliteration_and_Notes,102346784]]'
+  - '[[_Standards/WikiData/WD~Beowulf_A_New_Translation,107059472]]'
+  - '[[_Standards/WikiData/WD~The_Tale_of_Beowulf,125754780]]'
+  - '[[_Standards/WikiData/WD~Beowulf,130428913]]'
 narrative_motif:
-  - "[[_Standards/WikiData/WD~culture_hero_arrives_(and_departs)_in_boat,111807551]]"
-  - "[[_Standards/WikiData/WD~hero_feeds_own_flesh_to_helpful_animal,115093683]]"
+  - '[[_Standards/WikiData/WD~culture_hero_arrives_(and_departs)_in_boat,111807551]]'
+  - '[[_Standards/WikiData/WD~hero_feeds_own_flesh_to_helpful_animal,115093683]]'
   - "[[_Standards/WikiData/WD~The_Bear's_Son,115094101]]"
-  - "[[_Standards/WikiData/WD~strong_person,117198072]]"
-  - "[[_Standards/WikiData/WD~strong_man_son_of_bear_who_has_stolen_his_mother,117203373]]"
+  - '[[_Standards/WikiData/WD~strong_person,117198072]]'
+  - '[[_Standards/WikiData/WD~strong_man_son_of_bear_who_has_stolen_his_mother,117203373]]'
   - "[[_Standards/WikiData/WD~strong_hero's_long_nursing,117203390]]"
   - "[[_Standards/WikiData/WD~giant's_home_beneath_waterfall_in_lake,117211549]]"
-  - "[[_Standards/WikiData/WD~stupid_youngest_son_becomes_clever,122792677]]"
-  - "[[_Standards/WikiData/WD~future_hero_found_in_boat_(basket,_bushes),122793646]]"
-  - "[[_Standards/WikiData/WD~periodic_sacrifices_to_a_monster,125403542]]"
-  - "[[_Standards/WikiData/WD~one_person_disappears_each_night,125403974]]"
-  - "[[_Standards/WikiData/WD~dead_placed_on_boat,126877617]]"
+  - '[[_Standards/WikiData/WD~stupid_youngest_son_becomes_clever,122792677]]'
+  - '[[_Standards/WikiData/WD~future_hero_found_in_boat_(basket,_bushes),122793646]]'
+  - '[[_Standards/WikiData/WD~periodic_sacrifices_to_a_monster,125403542]]'
+  - '[[_Standards/WikiData/WD~one_person_disappears_each_night,125403974]]'
+  - '[[_Standards/WikiData/WD~dead_placed_on_boat,126877617]]'
 set_in_period: http://www.wikidata.org/.well-known/genid/83c43f507309d51cabd3a317ee4f960f
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-narrative_locations: "[[_Standards/WikiData/WD~Scandinavia,21195]]"
-instance_of: "[[_Standards/WikiData/WD~epic_poem,37484]]"
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+narrative_locations: '[[_Standards/WikiData/WD~Scandinavia,21195]]'
+instance_of: '[[_Standards/WikiData/WD~epic_poem,37484]]'
 number_of_parts_of_this_work: 3182
 title:
   - Beowulf
@@ -77,7 +79,7 @@ title:
 Commons_category: Beowulf
 Commons_gallery: Beowulf
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Beowulf%20Cotton%20MS%20Vitellius%20A%20XV%20f.%20137r.png
-P8189: "987007289940605171"
+P8189: 987007289940605171
 IPA_transcription: beɪoʊ-wʊlf
 Wolfram_Language_entity_code: Entity["Book", "Beowulf"]
 Krugosvet_article: kultura_i_obrazovanie/literatura/BEOVULF.html

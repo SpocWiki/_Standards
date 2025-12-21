@@ -1,6 +1,7 @@
 ---
 aliases:
   - Madonna Louise Ciccone
+  - Madonna
 has_id_wikidata: Q1744
 ---
 

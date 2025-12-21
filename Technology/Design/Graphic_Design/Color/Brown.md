@@ -1,6 +1,7 @@
 ---
 aliases:
   - Braun
+  - Brown
 has_id_wikidata: Q47071
 ---
 

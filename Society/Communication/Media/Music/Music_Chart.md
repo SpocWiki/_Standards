@@ -3,15 +3,17 @@ aliases:
   - Record_chart
   - record chart
   - music chart
+  - Music_Chart
+  - Music Chart
 has_id_wikidata: Q373899
 different_from:
-  - "[[_Standards/WikiData/WD~playlist,1569406]]"
-  - "[[_Standards/WikiData/WD~Hit_list,5871510]]"
-has_list: "[[_Standards/WikiData/WD~list_of_record_charts,2548754]]"
-has_part_s_: "[[_Standards/WikiData/WD~number_one_hit,20878491]]"
-subclass_of: "[[_Standards/WikiData/WD~ranked_list,80793969]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~record_chart_edition,108828659]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q131363454,131363454]]"
+  - '[[_Standards/WikiData/WD~playlist,1569406]]'
+  - '[[_Standards/WikiData/WD~Hit_list,5871510]]'
+has_list: '[[_Standards/WikiData/WD~list_of_record_charts,2548754]]'
+has_part_s_: '[[_Standards/WikiData/WD~number_one_hit,20878491]]'
+subclass_of: '[[_Standards/WikiData/WD~ranked_list,80793969]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~record_chart_edition,108828659]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q131363454,131363454]]'
 Wikidata_property: charted in
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Music-GClef.svg
 ---

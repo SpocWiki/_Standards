@@ -2,6 +2,7 @@
 aliases:
   - Bering Strait
   - Beringov proliv
+  - Bering_Strait
 has_id_wikidata: Q11769
 ---
 

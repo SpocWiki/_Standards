@@ -4,21 +4,22 @@ aliases:
   - discount
   - discount
   - has_value_for_discount
+  - has value for discount
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - discount
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_discount
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

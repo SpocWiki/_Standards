@@ -1,52 +1,54 @@
 ---
-excludes: 
+aliases:
+  - FileClass~QuantitativeValueDistribution
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-- id: Ue9xiJ
-  name: Duration
-  options:
-    min: 0
-    max: 2359
-  type: Number
-  path: ''
-- id: FF6ogp
-  name: Median
-  options: {}
-  type: Number
-  path: ''
-- id: qZQjDP
-  name: Percentile10
-  options: {}
-  type: Number
-  path: ''
-- id: E8uPkB
-  name: Percentile25
-  options: {}
-  type: Number
-  path: ''
-- id: RMtCpq
-  name: Percentile75
-  options: {}
-  type: Number
-  path: ''
-- id: 02kpFE
-  name: Percentile90
-  options: {}
-  type: Number
-  path: ''
+  - id: Ue9xiJ
+    name: Duration
+    options:
+      min: 0
+      max: 2359
+    type: Number
+    path: ''
+  - id: FF6ogp
+    name: Median
+    options: {}
+    type: Number
+    path: ''
+  - id: qZQjDP
+    name: Percentile10
+    options: {}
+    type: Number
+    path: ''
+  - id: E8uPkB
+    name: Percentile25
+    options: {}
+    type: Number
+    path: ''
+  - id: RMtCpq
+    name: Percentile75
+    options: {}
+    type: Number
+    path: ''
+  - id: 02kpFE
+    name: Percentile90
+    options: {}
+    type: Number
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/QuantitativeValueDistribution
-- class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution
-- is_a_/QuantitativeValueDistribution
-- schema-org/QuantitativeValueDistribution
+  - class/QuantitativeValueDistribution
+  - class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution
+  - is_a_/QuantitativeValueDistribution
+  - schema-org/QuantitativeValueDistribution
 tags:
-- class/FileClass
-- class/QuantitativeValueDistribution
-- is_a_/QuantitativeValueDistribution
-- class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution
+  - class/FileClass
+  - class/QuantitativeValueDistribution
+  - is_a_/QuantitativeValueDistribution
+  - class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution
 version: 2.0
 ---
 

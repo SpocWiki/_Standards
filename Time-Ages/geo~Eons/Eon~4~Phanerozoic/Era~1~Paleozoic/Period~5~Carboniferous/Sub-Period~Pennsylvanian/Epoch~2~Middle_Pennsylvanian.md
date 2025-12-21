@@ -1,5 +1,7 @@
 ---
-aliases: []
+aliases:
+  - Epoch~2~Middle_Pennsylvanian
+  - Epoch~2~Middle Pennsylvanian
 ischart: MiddlePennsylvanian
 ---
 

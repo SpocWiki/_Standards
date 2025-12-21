@@ -1,18 +1,19 @@
 ---
 aliases:
   - Dutch Golden Age painting
+  - Dutch_Golden_Age_painting
 has_id_wikidata: Q2352880
 influenced_by:
-  - "[[_Standards/WikiData/WD~Reformed_Christianity,101849]]"
-  - "[[_Standards/WikiData/WD~Caravaggio,42207]]"
-country: "[[_Standards/WikiData/WD~Dutch_Republic,170072]]"
-described_by_source: "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-instance_of: "[[_Standards/WikiData/WD~painting_movement,3326867]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q6299096,6299096]]"
-part_of: "[[_Standards/WikiData/WD~Dutch_painting,107420080]]"
+  - '[[_Standards/WikiData/WD~Reformed_Christianity,101849]]'
+  - '[[_Standards/WikiData/WD~Caravaggio,42207]]'
+country: '[[_Standards/WikiData/WD~Dutch_Republic,170072]]'
+described_by_source: '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+instance_of: '[[_Standards/WikiData/WD~painting_movement,3326867]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q6299096,6299096]]'
+part_of: '[[_Standards/WikiData/WD~Dutch_painting,107420080]]'
 start_time: 1600-01-01T00:00:00Z
 end_time: 1699-01-01T00:00:00Z
-field_of_work: "[[_Standards/WikiData/WD~art_of_painting,11629]]"
+field_of_work: '[[_Standards/WikiData/WD~art_of_painting,11629]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Girl%20with%20a%20Pearl%20Earring.jpg
 Europeana_entity: agent/base/161429
 Commons_category: Dutch Golden Age paintings

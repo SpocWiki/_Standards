@@ -1,7 +1,8 @@
 ---
 aliases:
   - Banach Space
-has_id_wikidata:
+  - Banach_Space
+has_id_wikidata: ''
 ---
 
 # [[Banach_Space]]

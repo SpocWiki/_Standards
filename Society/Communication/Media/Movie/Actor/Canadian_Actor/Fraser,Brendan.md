@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Brendan Fraser"
+  - Brendan Fraser
+  - Fraser,Brendan
 ---
 
 #has_/time_/started :: 1968-12-03 

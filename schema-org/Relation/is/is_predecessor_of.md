@@ -4,22 +4,24 @@ aliases:
   - predecessor_of
   - predecessorOf
   - has_successor
+  - is_predecessor_of
+  - is predecessor of
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - predecessor
   - of
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_predecessor_of
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

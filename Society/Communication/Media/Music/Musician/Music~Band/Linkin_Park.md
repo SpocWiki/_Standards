@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Linkin Park"
+  - Linkin Park
+  - Linkin_Park
 ---
 
 Most famous Tracks: 

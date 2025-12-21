@@ -3,23 +3,24 @@ aliases:
   - has interaction-service
   - interactionService
   - has_interaction_service
+  - has interaction service
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - interaction_service
   - interaction
   - service
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_interaction_service
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

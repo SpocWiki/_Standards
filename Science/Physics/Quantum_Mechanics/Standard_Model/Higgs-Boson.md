@@ -6,39 +6,39 @@ aliases:
   - Higgs_Boson
 has_id_wikidata: Q402
 theorized_by:
-  - "[[_Standards/WikiData/WD~François_Englert,151746]]"
-  - "[[_Standards/WikiData/WD~Robert_Brout,151833]]"
-  - "[[_Standards/WikiData/WD~Peter_Higgs,192112]]"
-  - "[[_Standards/WikiData/WD~Tom_Kibble,926167]]"
-  - "[[_Standards/WikiData/WD~C._R._Hagen,1040160]]"
-  - "[[_Standards/WikiData/WD~Gerald_Guralnik,1509906]]"
+  - '[[_Standards/WikiData/WD~François_Englert,151746]]'
+  - '[[_Standards/WikiData/WD~Robert_Brout,151833]]'
+  - '[[_Standards/WikiData/WD~Peter_Higgs,192112]]'
+  - '[[_Standards/WikiData/WD~Tom_Kibble,926167]]'
+  - '[[_Standards/WikiData/WD~C._R._Hagen,1040160]]'
+  - '[[_Standards/WikiData/WD~Gerald_Guralnik,1509906]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Peter_Higgs,192112]]"
-  - "[[_Standards/WikiData/WD~particle,1621273]]"
-  - "[[_Standards/WikiData/WD~God,190]]"
+  - '[[_Standards/WikiData/WD~Peter_Higgs,192112]]'
+  - '[[_Standards/WikiData/WD~particle,1621273]]'
+  - '[[_Standards/WikiData/WD~God,190]]'
 decays_to:
-  - "[[_Standards/WikiData/WD~W_or_Z_boson,211922]]"
-  - "[[_Standards/WikiData/WD~electron,2225]]"
-  - "[[_Standards/WikiData/WD~photon,3198]]"
+  - '[[_Standards/WikiData/WD~W_or_Z_boson,211922]]'
+  - '[[_Standards/WikiData/WD~electron,2225]]'
+  - '[[_Standards/WikiData/WD~photon,3198]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~ATLAS_experiment,299002]]"
-  - "[[_Standards/WikiData/WD~CMS_experiment,659478]]"
-  - "[[_Standards/WikiData/WD~CERN,42944]]"
+  - '[[_Standards/WikiData/WD~ATLAS_experiment,299002]]'
+  - '[[_Standards/WikiData/WD~CMS_experiment,659478]]'
+  - '[[_Standards/WikiData/WD~CERN,42944]]'
 research_site:
-  - "[[_Standards/WikiData/WD~Fermilab,337641]]"
-  - "[[_Standards/WikiData/WD~Large_Hadron_Collider,40605]]"
-  - "[[_Standards/WikiData/WD~CERN,42944]]"
+  - '[[_Standards/WikiData/WD~Fermilab,337641]]'
+  - '[[_Standards/WikiData/WD~Large_Hadron_Collider,40605]]'
+  - '[[_Standards/WikiData/WD~CERN,42944]]'
 interaction:
-  - "[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]"
-  - "[[_Standards/WikiData/WD~Higgs_field,2094142]]"
-  - "[[_Standards/WikiData/WD~gravity,11412]]"
-  - "[[_Standards/WikiData/WD~weak_interaction,11418]]"
-has_superpartner: "[[_Standards/WikiData/WD~higgsino,1617700]]"
-subclass_of: "[[_Standards/WikiData/WD~scalar_boson,2750336]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
-significant_event: "[[_Standards/WikiData/WD~Discovery_of_the_Higgs_Boson,54004690]]"
-antiparticle: "[[_Standards/WikiData/WD~Higgs_boson,402]]"
-location_of_discovery: "[[_Standards/WikiData/WD~Switzerland,39]]"
+  - '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+  - '[[_Standards/WikiData/WD~Higgs_field,2094142]]'
+  - '[[_Standards/WikiData/WD~gravity,11412]]'
+  - '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+has_superpartner: '[[_Standards/WikiData/WD~higgsino,1617700]]'
+subclass_of: '[[_Standards/WikiData/WD~scalar_boson,2750336]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
+significant_event: '[[_Standards/WikiData/WD~Discovery_of_the_Higgs_Boson,54004690]]'
+antiparticle: '[[_Standards/WikiData/WD~Higgs_boson,402]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Switzerland,39]]'
 electric_charge: 0
 spin_quantum_number: 0
 parity_quantum_number: 1
@@ -46,12 +46,12 @@ mean_lifetime:
   - 0.00001
   - 0.000156
 decay_width: 13000000
-Monte_Carlo_Particle_Number: "35"
+Monte_Carlo_Particle_Number: 35
 mass:
   - 124.97
   - 125.11
   - 125.26
-OmegaWiki_Defined_Meaning: "1395736"
+OmegaWiki_Defined_Meaning: 1395736
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CMS%20Higgs-event.jpg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Higgs.mp3
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Michael%20Schoenitzer%20%28MichaelSchoenitzer%29-Higgs-Boson.wav

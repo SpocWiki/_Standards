@@ -8,6 +8,7 @@ aliases:
   - the Republic of Ecuador
   - la República del Ecuador
   - Ecuador (el)
+has_id_wikidata: Q736
 BTI_Governance_Index:
   - 3.66
   - 3.73
@@ -199,7 +200,7 @@ electrical_plug_type:
   - "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Ecuador,55645704]]"
 external_data_available_at_URL: http://www.datosabiertos.gob.ec/
-expiryDate:
+expiryDate: ""
 flag: "[[_Standards/WikiData/WD~flag_of_Ecuador,165542]]"
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ecuador.svg
 female_population:
@@ -217,7 +218,6 @@ head_of_state: "[[_Standards/WikiData/WD~Daniel_Noboa,112075625]]"
 head_of_government: "[[_Standards/WikiData/WD~Daniel_Noboa,112075625]]"
 has_time_started: 1840-02-16
 highest_point: "[[_Standards/WikiData/WD~Chimborazo,14081]]"
-has_id_wikidata: Q736
 instance_of:
   - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
   - "[[_Standards/WikiData/WD~country,6256]]"
@@ -226,7 +226,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ecuador%20Blue%20Marbl
 isDeleted: false
 isReadOnly: false
 icon: flag-ec
-keywords:
+keywords: ""
 language_used:
   - "[[_Standards/WikiData/WD~Shuar,617291]]"
   - "[[_Standards/WikiData/WD~Waorani,758570]]"
@@ -267,8 +267,8 @@ location:
   - -0.23
   - -78.5
 license: CC BY-SA 4.0
-linkTitle:
-layout:
+linkTitle: ""
+layout: ""
 member_of:
   - "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
   - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
@@ -365,7 +365,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Ecuador.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Ecuador.wav
 publish: true
-publishDate:
+publishDate: ""
 replaces: "[[_Standards/WikiData/WD~Gran_Colombia,199821]]"
 rural_population:
   - 6246175

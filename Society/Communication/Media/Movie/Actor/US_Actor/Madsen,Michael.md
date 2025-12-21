@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Michael Madsen"
+  - Michael Madsen
+  - Madsen,Michael
 ---
 
 #is_/different_from :: [[Marsden,James]] 

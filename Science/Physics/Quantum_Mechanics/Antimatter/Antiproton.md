@@ -1,34 +1,36 @@
 ---
+aliases:
+  - Antiproton
 has_id_wikidata: Q107575
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Emilio_G._Segrè,173028]]"
-  - "[[_Standards/WikiData/WD~Owen_Chamberlain,183655]]"
+  - '[[_Standards/WikiData/WD~Emilio_G._Segrè,173028]]'
+  - '[[_Standards/WikiData/WD~Owen_Chamberlain,183655]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~charged_particle,587553]]"
-  - "[[_Standards/WikiData/WD~antinucleon,28855250]]"
+  - '[[_Standards/WikiData/WD~charged_particle,587553]]'
+  - '[[_Standards/WikiData/WD~antinucleon,28855250]]'
 interaction:
-  - "[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]"
-  - "[[_Standards/WikiData/WD~strong_interaction,11415]]"
-  - "[[_Standards/WikiData/WD~gravity,11412]]"
-  - "[[_Standards/WikiData/WD~weak_interaction,11418]]"
+  - '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+  - '[[_Standards/WikiData/WD~strong_interaction,11415]]'
+  - '[[_Standards/WikiData/WD~gravity,11412]]'
+  - '[[_Standards/WikiData/WD~weak_interaction,11418]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~down_antiquark,18481576]]"
-  - "[[_Standards/WikiData/WD~up_antiquark,18481607]]"
+  - '[[_Standards/WikiData/WD~down_antiquark,18481576]]'
+  - '[[_Standards/WikiData/WD~up_antiquark,18481607]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
-  - "[[_Standards/WikiData/WD~isotope_of_antihydrogen,31804375]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-antiparticle: "[[_Standards/WikiData/WD~proton,2294]]"
+  - '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
+  - '[[_Standards/WikiData/WD~isotope_of_antihydrogen,31804375]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+antiparticle: '[[_Standards/WikiData/WD~proton,2294]]'
 isospin_z_component: -0.5
 isospin_quantum_number: 0.5
 spin_quantum_number: 0.5
-OmegaWiki_Defined_Meaning: "856504"
+OmegaWiki_Defined_Meaning: 856504
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Quark%20structure%20antiproton.svg
-Monte_Carlo_Particle_Number: "-2212"
-P8189: "987007295541405171"
+Monte_Carlo_Particle_Number: -2212
+P8189: 987007295541405171
 Commons_category: Antiprotons
 time_of_discovery_or_invention: 1955-01-01T00:00:00Z
-Dewey_Decimal_Classification: "539.72123"
+Dewey_Decimal_Classification: 539.72123
 ---
 
 # [[Antiproton]] 

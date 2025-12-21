@@ -3,18 +3,19 @@ aliases:
   - chemical industry
   - Chemical_Industry
   - chemische Industrie
+  - Chemical Industry
 has_id_wikidata: Q207652
-instance_of: "[[_Standards/WikiData/WD~industry,268592]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~chemical_product,1069267]]"
-subclass_of: "[[_Standards/WikiData/WD~economic_sector,3958441]]"
-field_of_work: "[[_Standards/WikiData/WD~industrial_chemistry,6745636]]"
-has_part_s_: "[[_Standards/WikiData/WD~petrochemical_industry,16070574]]"
-International_Standard_Industrial_Classification_code_Rev_4: "20"
-U_S_National_Archives_Identifier: "10640482"
-OmegaWiki_Defined_Meaning: "1592514"
+instance_of: '[[_Standards/WikiData/WD~industry,268592]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~chemical_product,1069267]]'
+subclass_of: '[[_Standards/WikiData/WD~economic_sector,3958441]]'
+field_of_work: '[[_Standards/WikiData/WD~industrial_chemistry,6745636]]'
+has_part_s_: '[[_Standards/WikiData/WD~petrochemical_industry,16070574]]'
+International_Standard_Industrial_Classification_code_Rev_4: 20
+U_S_National_Archives_Identifier: 10640482
+OmegaWiki_Defined_Meaning: 1592514
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FEMA%20-%2037677%20-%20Aerial%20of%20a%20Louisiana%20oil%20refinary%20repaired%20since%20Katrina.jpg
 Iconclass_notation: 47B27
-P8189: "987007284923005171"
+P8189: 987007284923005171
 UMLS_CUI: C0007983
 Commons_category: Chemical industry
 MeSH_tree_code: J01.576.655.437

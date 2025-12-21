@@ -1,23 +1,24 @@
 ---
 aliases:
   - Telegraphie
+  - Telegraphy
 has_id_wikidata: Q721587
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]'
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Enciclopedia_universal_ilustrada_europeo_americana_(1908_1930),115627942]]"
-practiced_by: "[[_Standards/WikiData/WD~telegraphist,2024200]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_telegraphy_in_Australia,5868998]]"
-uses: "[[_Standards/WikiData/WD~telegraph,6987428]]"
-subclass_of: "[[_Standards/WikiData/WD~communication,11024]]"
-instance_of: "[[_Standards/WikiData/WD~mail,49845]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Enciclopedia_universal_ilustrada_europeo_americana_(1908_1930),115627942]]'
+practiced_by: '[[_Standards/WikiData/WD~telegraphist,2024200]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_telegraphy_in_Australia,5868998]]'
+uses: '[[_Standards/WikiData/WD~telegraph,6987428]]'
+subclass_of: '[[_Standards/WikiData/WD~communication,11024]]'
+instance_of: '[[_Standards/WikiData/WD~mail,49845]]'
 Library_of_Congress_Classification: TK
 Dewey_Decimal_Classification:
-  - "384.1"
-  - "621.383"
+  - 384.1
+  - 621.383
 Commons_category: Telegraphy
 Commons_gallery: Teleprinter
 image: http://commons.wikimedia.org/wiki/Special:FilePath/PSM%20V09%20D091%20Morse%20key%20and%20register.jpg

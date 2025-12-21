@@ -1,14 +1,16 @@
 ---
 aliases:
   - Scheltsekunde
+  - Leap_Second
+  - Leap Second
 has_id_wikidata: Q194230
-instance_of: "[[_Standards/WikiData/WD~intercalation,1225911]]"
+instance_of: '[[_Standards/WikiData/WD~intercalation,1225911]]'
 part_of:
-  - "[[_Standards/WikiData/WD~23_59,55812369]]"
-  - "[[_Standards/WikiData/WD~Coordinated_Universal_Time,1536]]"
-followed_by: "[[_Standards/WikiData/WD~00_00_00,95002169]]"
-follows: "[[_Standards/WikiData/WD~23_59_59,95144206]]"
-subclass_of: "[[_Standards/WikiData/WD~second,11574]]"
+  - '[[_Standards/WikiData/WD~23_59,55812369]]'
+  - '[[_Standards/WikiData/WD~Coordinated_Universal_Time,1536]]'
+followed_by: '[[_Standards/WikiData/WD~00_00_00,95002169]]'
+follows: '[[_Standards/WikiData/WD~23_59_59,95144206]]'
+subclass_of: '[[_Standards/WikiData/WD~second,11574]]'
 start_time: 1972-06-30T00:00:00Z
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Apanhei%20o%202012.jpg

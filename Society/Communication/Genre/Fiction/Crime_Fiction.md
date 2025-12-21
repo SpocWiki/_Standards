@@ -5,6 +5,8 @@ aliases:
   - crime novel
   - mystery novel
   - police novel
+  - Crime_Fiction
+  - Crime Fiction
 ---
 
 # [[Crime_Fiction]] 

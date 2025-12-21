@@ -1,6 +1,7 @@
 ---
 aliases:
-- "United Nations Observer"
+  - United Nations Observer
+  - United_Nations_Observer
 ---
 
 ## #has_/text_of_/abstract  

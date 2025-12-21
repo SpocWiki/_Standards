@@ -2,16 +2,18 @@
 aliases:
   - Old Babylonian Empire
   - First Babylonian Empire
+  - -1829-Old_Babylon-1749
+  - -1829-Old Babylon-1749
 has_id_wikidata: Q733897
 inception: -1829-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: -1749-01-01T00:00:00Z
-followed_by: "[[_Standards/WikiData/WD~Kassites,243312]]"
-follows: "[[_Standards/WikiData/WD~Third_Dynasty_of_Ur,723587]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
-named_after: "[[_Standards/WikiData/WD~First_Dynasty_of_Babylon,17385266]]"
-capital: "[[_Standards/WikiData/WD~Babylon,5684]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~monarchy,7269]]"
-part_of: "[[_Standards/WikiData/WD~Babylonia,47690]]"
+followed_by: '[[_Standards/WikiData/WD~Kassites,243312]]'
+follows: '[[_Standards/WikiData/WD~Third_Dynasty_of_Ur,723587]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
+named_after: '[[_Standards/WikiData/WD~First_Dynasty_of_Babylon,17385266]]'
+capital: '[[_Standards/WikiData/WD~Babylon,5684]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
+part_of: '[[_Standards/WikiData/WD~Babylonia,47690]]'
 Commons_category: First Babylonian Empire
 Library_of_Congress_Classification:
   - DS73.2-DS73.87

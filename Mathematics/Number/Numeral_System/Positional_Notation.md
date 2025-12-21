@@ -5,10 +5,12 @@ aliases:
   - positional numeral system
   - place value
   - Stellenwertsystem
+  - Positional_Notation
+  - Positional Notation
 has_id_wikidata: Q1747853
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Babylonians,797930]]"
-subclass_of: "[[_Standards/WikiData/WD~notation,2001982]]"
-facet_of: "[[_Standards/WikiData/WD~positional_numeral_system,25457532]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Babylonians,797930]]'
+subclass_of: '[[_Standards/WikiData/WD~notation,2001982]]'
+facet_of: '[[_Standards/WikiData/WD~positional_numeral_system,25457532]]'
 Commons_category: Positional numeral systems
 ---
 

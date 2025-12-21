@@ -1,46 +1,48 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Book
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: h1IogT
-  name: Abridged
-  options: {}
-  type: Boolean
-  path: ''
-- id: pFuHud
-  name: BookEdition
-  options: {}
-  type: Input
-  path: ''
-- id: FD8XVf
-  name: Illustrator
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: UssBaH
-  name: Isbn
-  options: {}
-  type: Input
-  path: ''
-- id: LfNiK2
-  name: NumberOfPages
-  options: {}
-  type: Number
-  path: ''
+  - id: h1IogT
+    name: Abridged
+    options: {}
+    type: Boolean
+    path: ''
+  - id: pFuHud
+    name: BookEdition
+    options: {}
+    type: Input
+    path: ''
+  - id: FD8XVf
+    name: Illustrator
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: UssBaH
+    name: Isbn
+    options: {}
+    type: Input
+    path: ''
+  - id: LfNiK2
+    name: NumberOfPages
+    options: {}
+    type: Number
+    path: ''
 icon: book
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Book
-- class/Thing/CreativeWork/Book
-- is_a_/Book
-- schema-org/Book
+  - class/Book
+  - class/Thing/CreativeWork/Book
+  - is_a_/Book
+  - schema-org/Book
 tags:
-- class/FileClass
-- class/Book
-- is_a_/Book
-- class/Thing/CreativeWork/Book
+  - class/FileClass
+  - class/Book
+  - is_a_/Book
+  - class/Thing/CreativeWork/Book
 version: 2.0
 ---
 

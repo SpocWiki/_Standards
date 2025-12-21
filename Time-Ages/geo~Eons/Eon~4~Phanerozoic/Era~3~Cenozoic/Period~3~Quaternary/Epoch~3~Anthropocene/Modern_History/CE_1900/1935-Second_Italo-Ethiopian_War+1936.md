@@ -6,19 +6,21 @@ aliases:
   - Weerara Xaaliyaanii
   - Ethiopian War
   - Guerra d'Etiopia
+  - 1935-Second_Italo-Ethiopian_War+1936
+  - 1935-Second Italo-Ethiopian War+1936
 has_id_wikidata: Q94916
 participant:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]"
-  - "[[_Standards/WikiData/WD~Ethiopian_Empire,207521]]"
-location: "[[_Standards/WikiData/WD~Ethiopian_Empire,207521]]"
-different_from: "[[_Standards/WikiData/WD~Italo_Abyssinian_War,443393]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+  - '[[_Standards/WikiData/WD~Ethiopian_Empire,207521]]'
+location: '[[_Standards/WikiData/WD~Ethiopian_Empire,207521]]'
+different_from: '[[_Standards/WikiData/WD~Italo_Abyssinian_War,443393]]'
 order_of_battle:
-  - "[[_Standards/WikiData/WD~Ethiopian_order_of_battle_in_the_Second_Italo_Ethiopian_War,5403639]]"
-  - "[[_Standards/WikiData/WD~Italian_Order_of_Battle_Second_Italo_Ethiopian_War,6092894]]"
+  - '[[_Standards/WikiData/WD~Ethiopian_order_of_battle_in_the_Second_Italo_Ethiopian_War,5403639]]'
+  - '[[_Standards/WikiData/WD~Italian_Order_of_Battle_Second_Italo_Ethiopian_War,6092894]]'
 number_of_deaths:
   - 20000
   - 275000
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
 number_of_injured:
   - 500000
   - 188000
@@ -26,7 +28,7 @@ number_of_participants:
   - 500000
   - 800000
 BHCL_UUID: 2cc5c16b-349a-4e72-aada-e52ee6f8f153
-U_S_National_Archives_Identifier: "10640612"
+U_S_National_Archives_Identifier: 10640612
 end_time: 1937-02-19T00:00:00Z
 start_time: 1935-10-03T00:00:00Z
 Commons_category:

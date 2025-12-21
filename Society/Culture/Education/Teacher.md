@@ -2,6 +2,7 @@
 aliases:
   - schoolteacher
   - educator
+  - Teacher
 has_id_wikidata: Q37226
 opposite_of:
   - "[[_Standards/WikiData/WD~apprentice,253567]]"
@@ -41,9 +42,9 @@ relevant_qualification:
 main_Wikidata_property:
   - student of
   - number of teachers
-ISCO_08_occupation_class: "23"
-OmegaWiki_Defined_Meaning: "445262"
-Dewey_Decimal_Classification: "371.1"
+ISCO_08_occupation_class: 23
+OmegaWiki_Defined_Meaning: 445262
+Dewey_Decimal_Classification: 371.1
 hashtag:
   - teachers
   - teacher
@@ -127,7 +128,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Classroom%20at%20a%20s
 IMDb_keyword: teacher
 subreddit: Teachers
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Noun%2062983%20cc%20school%20icon.svg
-U_S_National_Archives_Identifier: "10642321"
+U_S_National_Archives_Identifier: 10642321
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Joy%20sagar%20Murmu-%E1%B1%A2%E1%B1%9F%E1%B1%AA%E1%B1%AE%E1%B1%AB.wav
 Unicode_character:
   - 👨🏫
@@ -142,7 +143,7 @@ IPTC_NewsCode: mediatopic/20000416
 Wolfram_Language_entity_code: Entity["Concept", "Teacher::5wm23"]
 ---
 
-# [[Teacher]] 
+# [[Teacher]]👨🏫 
 
 #is_/same_as :: [[../../../WikiData/WD~Teacher,37226|WD~Teacher,37226]]  
 

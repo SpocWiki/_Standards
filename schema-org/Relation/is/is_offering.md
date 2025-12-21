@@ -1,27 +1,28 @@
 ---
 aliases:
-- offers
-- is_offering
-- "schema:offers"
-- "dbo:offers"
+  - offers
+  - is_offering
+  - schema:offers
+  - dbo:offers
+  - is offering
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- offers
-layout: 
-license: "CC BY-SA 4.0"
+  - offers
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: is_offering
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_offering
 type: Predi_Relation
 ---

@@ -1,25 +1,26 @@
 ---
 aliases:
-- has-sub-properties
-- sub-properties
-- hassub-properties
-- has_sub_properties
+  - has-sub-properties
+  - sub-properties
+  - hassub-properties
+  - has_sub_properties
+  - has sub properties
 confidential: public
-cssproperties: "Predicate Relation"
+cssproperties: Predicate Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- part
-layout: 
-license: "CC BY-SA 4.0"
+  - part
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_sub_properties
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_sub_properties
 type: Predi_Relation
 ---

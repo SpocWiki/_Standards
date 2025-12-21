@@ -3,23 +3,24 @@ aliases:
   - has parent-service
   - parentService
   - has_parent_service
+  - has parent service
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - parent_service
   - parent
   - service
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_parent_service
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

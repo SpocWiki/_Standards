@@ -4,22 +4,24 @@ aliases:
   - carrier_requirements
   - carrierRequirements
   - has_text_of_carrier_requirements
+  - has_carrier_requirements
+  - has carrier requirements
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - carrier
   - requirements
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_carrier_requirements
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

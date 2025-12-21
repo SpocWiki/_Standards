@@ -1,6 +1,8 @@
 ---
 aliases:
-- Challenge
+  - Challenge
+  - has_Cons
+  - has Cons
 ---
 
 Enumerates negative, inhibiting Reasons for this Statement. 

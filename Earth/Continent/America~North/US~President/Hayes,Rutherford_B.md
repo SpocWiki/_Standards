@@ -1,26 +1,27 @@
 ---
 aliases:
-- Hayes,Rutherford_B
-- "Rutherford B. Hayes"
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Hayes,Rutherford_B
+  - Rutherford B. Hayes
+  - ''
+  - Hayes,Rutherford B
 has_id_wikidata: Q35686
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Hayes,Rutherford_B
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Hayes,Rutherford_B
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Hayes,Rutherford_B
-- 
+  - Hayes,Rutherford_B
+  - ''
 title: Hayes,Rutherford_B
 type: private_note
 ---

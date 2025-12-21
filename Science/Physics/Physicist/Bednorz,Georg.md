@@ -3,6 +3,7 @@ aliases:
   - Georg_Bednorz
   - Georg Bednorz
   - Bednorz
+  - Bednorz,Georg
 has_id_wikidata: Q76687
 ---
 

@@ -4,21 +4,22 @@ aliases:
   - molecular-weight
   - molecularWeight
   - has_value_for_molecular_weight
+  - has value for molecular weight
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - molecular-weight
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_molecular-weight
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

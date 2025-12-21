@@ -6,18 +6,18 @@ aliases:
   - Konformismus
 has_id_wikidata: Q221284
 different_from:
-  - "[[_Standards/WikiData/WD~conformal_map,850275]]"
-  - "[[_Standards/WikiData/WD~obedience,1456974]]"
-  - "[[_Standards/WikiData/WD~conformance,98109670]]"
+  - '[[_Standards/WikiData/WD~conformal_map,850275]]'
+  - '[[_Standards/WikiData/WD~obedience,1456974]]'
+  - '[[_Standards/WikiData/WD~conformance,98109670]]'
 opposite_of:
-  - "[[_Standards/WikiData/WD~dissent,1991663]]"
-  - "[[_Standards/WikiData/WD~anticonformism,2621062]]"
-  - "[[_Standards/WikiData/WD~nonconformism,122363677]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Conformity,7646700]]"
+  - '[[_Standards/WikiData/WD~dissent,1991663]]'
+  - '[[_Standards/WikiData/WD~anticonformism,2621062]]'
+  - '[[_Standards/WikiData/WD~nonconformism,122363677]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Conformity,7646700]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~adaptation,12761867]]"
-  - "[[_Standards/WikiData/WD~organizational_behavior,19483216]]"
-OmegaWiki_Defined_Meaning: "855343"
+  - '[[_Standards/WikiData/WD~adaptation,12761867]]'
+  - '[[_Standards/WikiData/WD~organizational_behavior,19483216]]'
+OmegaWiki_Defined_Meaning: 855343
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/DWR%20Colours%2C%20Erquinghem%20Lys%2C%20France%20%28RLH%29%202005-11-12-2.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Khmer%20Public%20Schools%20uniform.jpeg

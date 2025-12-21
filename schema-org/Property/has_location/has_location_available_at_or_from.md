@@ -4,21 +4,22 @@ aliases:
   - available_at_or_from
   - availableAtOrFrom
   - has_location_available_at_or_from
+  - has location available at or from
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - available_at_or_from
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_available_at_or_from
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

@@ -4,31 +4,32 @@ aliases:
   - Michael Fred Phelps II
   - Michael Phelps
   - Phelps
+  - Phelps,Michael
 has_id_wikidata: Q39562
 birth_name: Michael Fred Phelps II
 work_period_end_: 2016-01-01T00:00:00Z
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Michigan,230492]]"
-  - "[[_Standards/WikiData/WD~Dumbarton_Middle_School,5313694]]"
-  - "[[_Standards/WikiData/WD~Towson_High_School,7830318]]"
-  - "[[_Standards/WikiData/WD~Sheldon_High_School,14709229]]"
-award_received: "[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]"
-head_coach: "[[_Standards/WikiData/WD~Bob_Bowman,2907594]]"
-given_name: "[[_Standards/WikiData/WD~Michael,4927524]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-member_of_sports_team: "[[_Standards/WikiData/WD~North_Baltimore_Aquatic_Club,7054057]]"
-occupation: "[[_Standards/WikiData/WD~swimmer,10843402]]"
-spouse: "[[_Standards/WikiData/WD~Nicole_Johnson,16223691]]"
-family_name: "[[_Standards/WikiData/WD~Phelps,16881170]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-father: "[[_Standards/WikiData/WD~Michael_Fred_Phelps,98700387]]"
-mother: "[[_Standards/WikiData/WD~Deborah_Sue_Davisson,98700392]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_birth: "[[_Standards/WikiData/WD~Baltimore,5092]]"
-sport: "[[_Standards/WikiData/WD~competitive_swimming,31920]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_for_sport: "[[_Standards/WikiData/WD~United_States,30]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~University_of_Michigan,230492]]'
+  - '[[_Standards/WikiData/WD~Dumbarton_Middle_School,5313694]]'
+  - '[[_Standards/WikiData/WD~Towson_High_School,7830318]]'
+  - '[[_Standards/WikiData/WD~Sheldon_High_School,14709229]]'
+award_received: '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
+head_coach: '[[_Standards/WikiData/WD~Bob_Bowman,2907594]]'
+given_name: '[[_Standards/WikiData/WD~Michael,4927524]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+member_of_sports_team: '[[_Standards/WikiData/WD~North_Baltimore_Aquatic_Club,7054057]]'
+occupation: '[[_Standards/WikiData/WD~swimmer,10843402]]'
+spouse: '[[_Standards/WikiData/WD~Nicole_Johnson,16223691]]'
+family_name: '[[_Standards/WikiData/WD~Phelps,16881170]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+father: '[[_Standards/WikiData/WD~Michael_Fred_Phelps,98700387]]'
+mother: '[[_Standards/WikiData/WD~Deborah_Sue_Davisson,98700392]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+place_of_birth: '[[_Standards/WikiData/WD~Baltimore,5092]]'
+sport: '[[_Standards/WikiData/WD~competitive_swimming,31920]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_for_sport: '[[_Standards/WikiData/WD~United_States,30]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 4
 mass: 88
 height: 193
@@ -39,8 +40,8 @@ date_of_birth: 1985-06-30T00:00:00Z
 work_period_start_: 1992-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Phelps%20August%202016.jpg
 official_website: http://www.michaelphelps.com
-ISNI: "0000000114416662"
-Munzinger_Sport_number: "01000006307"
+ISNI: 0000000114416662
+Munzinger_Sport_number: 01000006307
 Plex_person_key: 5d776b377a53e9001e71e323
 Instagram_username: m_phelps00
 subreddit: michaelphelps

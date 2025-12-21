@@ -1,24 +1,25 @@
 ---
 aliases:
   - Wagen
+  - Carriage
 has_id_wikidata: Q235356
 has_part_s_:
-  - "[[_Standards/WikiData/WD~coupe,213853]]"
-  - "[[_Standards/WikiData/WD~berlin,897404]]"
-  - "[[_Standards/WikiData/WD~landau,2144333]]"
-  - "[[_Standards/WikiData/WD~coach,4655519]]"
+  - '[[_Standards/WikiData/WD~coupe,213853]]'
+  - '[[_Standards/WikiData/WD~berlin,897404]]'
+  - '[[_Standards/WikiData/WD~landau,2144333]]'
+  - '[[_Standards/WikiData/WD~coach,4655519]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~horse_drawn_vehicle,1112950]]"
-history_of_topic: "[[_Standards/WikiData/WD~Q10297439,10297439]]"
-used_by: "[[_Standards/WikiData/WD~Q110067855,110067855]]"
-powered_by: "[[_Standards/WikiData/WD~horse,726]]"
-Nomenclature_for_Museum_Cataloging: "12021"
+  - '[[_Standards/WikiData/WD~horse_drawn_vehicle,1112950]]'
+history_of_topic: '[[_Standards/WikiData/WD~Q10297439,10297439]]'
+used_by: '[[_Standards/WikiData/WD~Q110067855,110067855]]'
+powered_by: '[[_Standards/WikiData/WD~horse,726]]'
+Nomenclature_for_Museum_Cataloging: 12021
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/.00%204705%20Coup%C3%A9-Pferdekutsche.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/00%204049%20Coup%C3%A9-Pferdekutsche%20-%20Sankt%20Petersburg.jpg

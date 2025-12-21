@@ -4,20 +4,22 @@ aliases:
   - install_action
   - InstallAction
   - is_an_install_action
+  - Install_Action
+  - Install Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - install_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_install_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

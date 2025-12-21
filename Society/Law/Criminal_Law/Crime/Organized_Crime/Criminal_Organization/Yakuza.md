@@ -7,18 +7,19 @@ aliases:
   - 暴力団
   - ninkyō dantai
   - 任侠団体
+  - Yakuza
 has_id_wikidata: Q183287
-different_from: "[[_Standards/WikiData/WD~Yakuza,356477]]"
+different_from: '[[_Standards/WikiData/WD~Yakuza,356477]]'
 instance_of:
-  - "[[../../../../../../WikiData/WD~criminal_organization,1788992]]"
-  - "[[_Standards/WikiData/WD~occupation,12737077]]"
+  - '[[../../../../../../WikiData/WD~criminal_organization,1788992]]'
+  - '[[_Standards/WikiData/WD~occupation,12737077]]'
 inception: 1700-01-01T00:00:00Z
 operating_area:
-  - "[[_Standards/WikiData/WD~Japan,17]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-field_of_this_occupation: "[[_Standards/WikiData/WD~organized_crime,46952]]"
+  - '[[_Standards/WikiData/WD~Japan,17]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+  - '[[_Standards/WikiData/WD~Germany,183]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~organized_crime,46952]]'
 Commons_category: Yakuza
 IMDb_keyword: yakuza
 image: http://commons.wikimedia.org/wiki/Special:FilePath/KanjiYakuza.gif

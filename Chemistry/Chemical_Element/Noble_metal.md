@@ -1,14 +1,15 @@
 ---
 aliases:
   - Noble metal
+  - Noble_metal
 has_id_wikidata: Q585302
-has_characteristic: "[[_Standards/WikiData/WD~inertness,262175]]"
-different_from: "[[_Standards/WikiData/WD~precious_metal,271449]]"
-subclass_of: "[[_Standards/WikiData/WD~metal_element,11646938]]"
+has_characteristic: '[[_Standards/WikiData/WD~inertness,262175]]'
+different_from: '[[_Standards/WikiData/WD~precious_metal,271449]]'
+subclass_of: '[[_Standards/WikiData/WD~metal_element,11646938]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-instance_of: "[[_Standards/WikiData/WD~chemical_series,19549]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_series,19549]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Edelmetalle.jpg
 EAGLE_id: material/lod/308
 Biology_Online_Biology_Dictionary_entry: noble-element

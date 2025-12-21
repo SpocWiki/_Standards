@@ -1,6 +1,8 @@
 ---
 aliases:
   - große Halbachse
+  - Semi-major_Axis
+  - Semi-major Axis
 has_id_wikidata: Q171594
 subclass_of:
   - "[[_Standards/WikiData/WD~line_segment,166154]]"

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Computer mouse
+  - Mouse(Computer)
 has_id_wikidata: Q7987
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Douglas_Engelbart,92614]]"
 subclass_of:
@@ -22,8 +23,8 @@ different_from:
 contributor_to_the_creative_work_or_subject: "[[_Standards/WikiData/WD~William_English,2894943]]"
 part_of: "[[_Standards/WikiData/WD~terminal,3518405]]"
 model_item: "[[_Standards/WikiData/WD~Douglas_Engelbart's_prototype_mouse,131411226]]"
-OmegaWiki_Defined_Meaning: "6236"
-Nomenclature_for_Museum_Cataloging: "10499"
+OmegaWiki_Defined_Meaning: 6236
+Nomenclature_for_Museum_Cataloging: 10499
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ComputerMouseCloseup3.jpg
 short_name:
   - мышь
@@ -34,7 +35,7 @@ Unicode_character:
   - 🖰
 patent_number: US3987685
 inception: 1963-01-01T00:00:00Z
-UNSPSC_Code: "43211708"
+UNSPSC_Code: 43211708
 Commons_category: Computer mice
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Ic%20mouse%2048px.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Muis%20%28computer%29-article.ogg
@@ -43,8 +44,8 @@ exact_match:
   - http://wordnet-rdf.princeton.edu/wn31/103751983-n
 Stack_Exchange_tag: https://stackoverflow.com/tags/mouse
 Dewey_Decimal_Classification:
-  - "004.76"
-  - "621.3986"
+  - 4.76
+  - 621.3986
 IEV_number: 171-04-41
 Commons_gallery: Computer mouse
 Baidu_Tieba_name:
@@ -52,7 +53,7 @@ Baidu_Tieba_name:
   - 鼠标
 ---
 
-# [[Mouse(Computer)]] 
+# [[Mouse(Computer)]] 🖯 
 
 #is_/same_as :: [[WD~Mouse,7987]] 
 

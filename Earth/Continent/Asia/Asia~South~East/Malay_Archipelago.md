@@ -5,39 +5,40 @@ aliases:
   - Kapuluang Malayo
   - Insulindia
   - Indo-Australian Archipelago
+  - Malay_Archipelago
 has_id_wikidata: Q208643
 instance_of:
-  - "[[_Standards/WikiData/WD~region,82794]]"
-  - "[[_Standards/WikiData/WD~group,16887380]]"
-  - "[[_Standards/WikiData/WD~archipelago,33837]]"
+  - '[[_Standards/WikiData/WD~region,82794]]'
+  - '[[_Standards/WikiData/WD~group,16887380]]'
+  - '[[_Standards/WikiData/WD~archipelago,33837]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Malesia,1469840]]"
-  - "[[_Standards/WikiData/WD~Nusantara,49332]]"
+  - '[[_Standards/WikiData/WD~Malesia,1469840]]'
+  - '[[_Standards/WikiData/WD~Nusantara,49332]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Maritime_Southeast_Asia,2919361]]"
-  - "[[_Standards/WikiData/WD~Insulindia,13408877]]"
+  - '[[_Standards/WikiData/WD~Maritime_Southeast_Asia,2919361]]'
+  - '[[_Standards/WikiData/WD~Insulindia,13408877]]'
 country:
-  - "[[_Standards/WikiData/WD~Singapore,334]]"
-  - "[[_Standards/WikiData/WD~Timor_Leste,574]]"
-  - "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Brunei,921]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-  - "[[_Standards/WikiData/WD~Indonesia,252]]"
+  - '[[_Standards/WikiData/WD~Singapore,334]]'
+  - '[[_Standards/WikiData/WD~Timor_Leste,574]]'
+  - '[[_Standards/WikiData/WD~Papua_New_Guinea,691]]'
+  - '[[_Standards/WikiData/WD~Malaysia,833]]'
+  - '[[_Standards/WikiData/WD~Brunei,921]]'
+  - '[[_Standards/WikiData/WD~Philippines,928]]'
+  - '[[_Standards/WikiData/WD~Indonesia,252]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-  - "[[_Standards/WikiData/WD~Indonesia,252]]"
+  - '[[_Standards/WikiData/WD~Philippines,928]]'
+  - '[[_Standards/WikiData/WD~Indonesia,252]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
-  - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+  - '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
+  - '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
 area: 2000000
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~archipelago,33837]]"
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~archipelago,33837]]'
 PM20_geo_code: B4
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Malay%20Archipelago%20Banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MalayArchipelago.jpg

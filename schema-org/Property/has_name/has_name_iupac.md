@@ -4,22 +4,23 @@ aliases:
   - name_iupac
   - iupacName
   - has_name_iupac
+  - has name iupac
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - iupac
   - name
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_name_iupac
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

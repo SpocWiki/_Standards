@@ -4,21 +4,22 @@ aliases:
   - dose-schedule
   - doseSchedule
   - has_value_for_dose_schedule
+  - has value for dose schedule
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - dose-schedule
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_dose-schedule
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

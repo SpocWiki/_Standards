@@ -4,21 +4,22 @@ aliases:
   - acceleration-time
   - accelerationTime
   - has_value_for_acceleration_time
+  - has value for acceleration time
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - acceleration-time
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_acceleration-time
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

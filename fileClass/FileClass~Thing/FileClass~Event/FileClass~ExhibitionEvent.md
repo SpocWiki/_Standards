@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ExhibitionEvent
+excludes: ''
 extends: FileClass~Thing/FileClass~Event
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ExhibitionEvent
-- class/Thing/Event/ExhibitionEvent
-- is_an_/ExhibitionEvent
-- schema-org/ExhibitionEvent
+  - class/ExhibitionEvent
+  - class/Thing/Event/ExhibitionEvent
+  - is_an_/ExhibitionEvent
+  - schema-org/ExhibitionEvent
 tags:
-- class/FileClass
-- class/ExhibitionEvent
-- '#is_an_/ExhibitionEvent'
-- class/Thing/Event/ExhibitionEvent
+  - class/FileClass
+  - class/ExhibitionEvent
+  - '#is_an_/ExhibitionEvent'
+  - class/Thing/Event/ExhibitionEvent
 version: 2.0
 ---
 

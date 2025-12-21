@@ -4,60 +4,60 @@ aliases:
   - Palace_of_Versailles
 has_id_wikidata: Q2946
 has_use:
-  - "[[_Standards/WikiData/WD~art_museum,207694]]"
-  - "[[_Standards/WikiData/WD~filming_location,1045481]]"
-  - "[[_Standards/WikiData/WD~palace,16560]]"
+  - '[[_Standards/WikiData/WD~art_museum,207694]]'
+  - '[[_Standards/WikiData/WD~filming_location,1045481]]'
+  - '[[_Standards/WikiData/WD~palace,16560]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_museum,207694]]"
-  - "[[_Standards/WikiData/WD~Château,751876]]"
-  - "[[_Standards/WikiData/WD~royal_palace,53536964]]"
-  - "[[_Standards/WikiData/WD~palace,16560]]"
-  - "[[_Standards/WikiData/WD~museum,33506]]"
+  - '[[_Standards/WikiData/WD~art_museum,207694]]'
+  - '[[_Standards/WikiData/WD~Château,751876]]'
+  - '[[_Standards/WikiData/WD~royal_palace,53536964]]'
+  - '[[_Standards/WikiData/WD~palace,16560]]'
+  - '[[_Standards/WikiData/WD~museum,33506]]'
 architect:
-  - "[[_Standards/WikiData/WD~Charles_Le_Brun,271676]]"
-  - "[[_Standards/WikiData/WD~André_Le_Nôtre,273849]]"
-  - "[[_Standards/WikiData/WD~Louis_Le_Vau,310530]]"
-  - "[[_Standards/WikiData/WD~Ange_Jacques_Gabriel,352451]]"
-  - "[[_Standards/WikiData/WD~Robert_de_Cotte,568839]]"
+  - '[[_Standards/WikiData/WD~Charles_Le_Brun,271676]]'
+  - '[[_Standards/WikiData/WD~André_Le_Nôtre,273849]]'
+  - '[[_Standards/WikiData/WD~Louis_Le_Vau,310530]]'
+  - '[[_Standards/WikiData/WD~Ange_Jacques_Gabriel,352451]]'
+  - '[[_Standards/WikiData/WD~Robert_de_Cotte,568839]]'
   - "[[_Standards/WikiData/WD~François_d'Orbay,1270258]]"
-  - "[[_Standards/WikiData/WD~Jules_Hardouin_Mansart,8053]]"
-founded_by: "[[_Standards/WikiData/WD~Louis_XIII_of_France,737533]]"
-different_from: "[[_Standards/WikiData/WD~Versailles,1322580]]"
+  - '[[_Standards/WikiData/WD~Jules_Hardouin_Mansart,8053]]'
+founded_by: '[[_Standards/WikiData/WD~Louis_XIII_of_France,737533]]'
+different_from: '[[_Standards/WikiData/WD~Versailles,1322580]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Hall_of_Mirrors,1583447]]"
-  - "[[_Standards/WikiData/WD~Opéra_royal_de_Versailles,1796145]]"
-  - "[[_Standards/WikiData/WD~escalier_des_Ambassadeurs,3057826]]"
-  - "[[_Standards/WikiData/WD~Salle_des_Croisades,3469964]]"
-has_facility: "[[_Standards/WikiData/WD~changing_table,1780834]]"
-award_received: "[[_Standards/WikiData/WD~musée_de_France,2275045]]"
-owner_of: "[[_Standards/WikiData/WD~Allegory_on_the_18th_Brumaire,_or_France_saved,2839021]]"
-owned_by: "[[_Standards/WikiData/WD~Crown_of_France,3001280]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Palace_and_Park_of_Versailles,3034552]]"
-part_of: "[[_Standards/WikiData/WD~Palace_and_Park_of_Versailles,3034552]]"
-occupant: "[[_Standards/WikiData/WD~Museum_of_the_History_of_France,3329787]]"
+  - '[[_Standards/WikiData/WD~Hall_of_Mirrors,1583447]]'
+  - '[[_Standards/WikiData/WD~Opéra_royal_de_Versailles,1796145]]'
+  - '[[_Standards/WikiData/WD~escalier_des_Ambassadeurs,3057826]]'
+  - '[[_Standards/WikiData/WD~Salle_des_Croisades,3469964]]'
+has_facility: '[[_Standards/WikiData/WD~changing_table,1780834]]'
+award_received: '[[_Standards/WikiData/WD~musée_de_France,2275045]]'
+owner_of: '[[_Standards/WikiData/WD~Allegory_on_the_18th_Brumaire,_or_France_saved,2839021]]'
+owned_by: '[[_Standards/WikiData/WD~Crown_of_France,3001280]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Palace_and_Park_of_Versailles,3034552]]'
+part_of: '[[_Standards/WikiData/WD~Palace_and_Park_of_Versailles,3034552]]'
+occupant: '[[_Standards/WikiData/WD~Museum_of_the_History_of_France,3329787]]'
 heritage_designation:
-  - "[[_Standards/WikiData/WD~classified_historical_monument,10387684]]"
-  - "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Versailles_(château),15649884]]"
+  - '[[_Standards/WikiData/WD~classified_historical_monument,10387684]]'
+  - '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Versailles_(château),15649884]]'
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(i),23038972]]"
-  - "[[_Standards/WikiData/WD~(ii),23038976]]"
-  - "[[_Standards/WikiData/WD~(vi),23038980]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q32663760,32663760]]"
-category_of_associated_people: "[[_Standards/WikiData/WD~Q32663766,32663766]]"
-activity_policy_in_this_place: "[[_Standards/WikiData/WD~no_selfie_sticks,53540617]]"
-depicted_by: "[[_Standards/WikiData/WD~Nouvelle_description_des_chasteaux_et_parcs_de_Versailles_et_de_Marly,60510978]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Versailles,621]]"
-commissioned_by: "[[_Standards/WikiData/WD~Louis_XIV_of_France,7742]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
+  - '[[_Standards/WikiData/WD~(i),23038972]]'
+  - '[[_Standards/WikiData/WD~(ii),23038976]]'
+  - '[[_Standards/WikiData/WD~(vi),23038980]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q32663760,32663760]]'
+category_of_associated_people: '[[_Standards/WikiData/WD~Q32663766,32663766]]'
+activity_policy_in_this_place: '[[_Standards/WikiData/WD~no_selfie_sticks,53540617]]'
+depicted_by: '[[_Standards/WikiData/WD~Nouvelle_description_des_chasteaux_et_parcs_de_Versailles_et_de_Marly,60510978]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Versailles,621]]'
+commissioned_by: '[[_Standards/WikiData/WD~Louis_XIV_of_France,7742]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
 social_media_followers:
   - 100000
   - 497943
 width: 600
 number_of_rooms: 2300
 area: 67000
-ARK_Name_Assigning_Authority_Number: "35570"
+ARK_Name_Assigning_Authority_Number: 35570
 official_website:
   - https://en.chateauversailles.fr/
   - https://www.chateauversailles.fr
@@ -77,12 +77,12 @@ visitors_per_year:
   - 8132518
 online_catalog_URL: http://collections.chateauversailles.fr/
 ISNI:
-  - "0000000417949458"
-  - "0000000121550720"
+  - 0000000417949458
+  - 0000000121550720
 coordinate_location: Point(2.120277777 48.804722222)
 image_of_interior: http://commons.wikimedia.org/wiki/Special:FilePath/Chateau%20Versailles%20Galerie%20des%20Glaces.jpg
 Commons_gallery: Palace and park of Versailles
-U_S_National_Archives_Identifier: "10038353"
+U_S_National_Archives_Identifier: 10038353
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Cour%20royale%20de%20Versailles.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Ch%C3%A2teau%20de%20Versailles%202017%20%28partenariat%20Wikim%C3%A9dia%29.png
 image_of_entrance: http://commons.wikimedia.org/wiki/Special:FilePath/Very-versailles-tour-sight-seekers-delight.jpg

@@ -4,21 +4,22 @@ aliases:
   - health-plan-coinsurance-rate
   - healthPlanCoinsuranceRate
   - has_value_for_health_plan_coinsurance_rate
+  - has value for health plan coinsurance rate
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - health-plan-coinsurance-rate
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_health-plan-coinsurance-rate
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

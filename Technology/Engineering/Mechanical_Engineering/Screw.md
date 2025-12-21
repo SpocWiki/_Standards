@@ -1,25 +1,30 @@
 ---
+aliases:
+  - screws
+  - Schraube
+  - Schrauben
+  - Screw
 has_id_wikidata: Q11022
 subclass_of:
-  - "[[_Standards/WikiData/WD~simple_machine,186713]]"
-  - "[[_Standards/WikiData/WD~threaded_fastener,7797167]]"
+  - '[[_Standards/WikiData/WD~simple_machine,186713]]'
+  - '[[_Standards/WikiData/WD~threaded_fastener,7797167]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~screw_thread,749400]]"
-  - "[[_Standards/WikiData/WD~clevis_pin,1147806]]"
+  - '[[_Standards/WikiData/WD~screw_thread,749400]]'
+  - '[[_Standards/WikiData/WD~clevis_pin,1147806]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~encyclopedia_article,13433827]]"
-  - "[[_Standards/WikiData/WD~type_of_machine_element,44409287]]"
-published_in: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-Nomenclature_for_Museum_Cataloging: "6572"
-Product_and_Service_Code: "5305"
-OmegaWiki_Defined_Meaning: "741510"
+  - '[[_Standards/WikiData/WD~encyclopedia_article,13433827]]'
+  - '[[_Standards/WikiData/WD~type_of_machine_element,44409287]]'
+published_in: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+Nomenclature_for_Museum_Cataloging: 6572
+Product_and_Service_Code: 5305
+OmegaWiki_Defined_Meaning: 741510
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Schraube.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20wood%20screw%20with%20flat%20Phillips%20head.jpg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Screw%20DIN%207985%20M2.5%20Z%208%20mm.stl
@@ -28,10 +33,6 @@ exact_match:
   - http://wordnet-rdf.princeton.edu/wn31/104097355-n
 Commons_gallery: Screw
 Commons_category: Screws
-aliases:
-  - screws
-  - Schraube
-  - Schrauben
 ---
 
 # [[Screw]] 

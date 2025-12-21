@@ -3,15 +3,16 @@ aliases:
   - Toyota Corolla
   - トヨタ・カローラ
   - Toyota Karōra
+  - Toyota_Corolla
 has_id_wikidata: Q243543
 subclass_of:
-  - "[[_Standards/WikiData/WD~compact_car,946808]]"
-  - "[[_Standards/WikiData/WD~subcompact_car,2704381]]"
+  - '[[_Standards/WikiData/WD~compact_car,946808]]'
+  - '[[_Standards/WikiData/WD~subcompact_car,2704381]]'
 manufacturer:
-  - "[[_Standards/WikiData/WD~FAW_Toyota,10874595]]"
-  - "[[_Standards/WikiData/WD~Toyota,53268]]"
-instance_of: "[[_Standards/WikiData/WD~automobile_model_series,59773381]]"
-brand: "[[_Standards/WikiData/WD~Toyota,53268]]"
+  - '[[_Standards/WikiData/WD~FAW_Toyota,10874595]]'
+  - '[[_Standards/WikiData/WD~Toyota,53268]]'
+instance_of: '[[_Standards/WikiData/WD~automobile_model_series,59773381]]'
+brand: '[[_Standards/WikiData/WD~Toyota,53268]]'
 native_label: Toyota Corolla
 Commons_gallery: Toyota Corolla
 Commons_category: Toyota Corolla

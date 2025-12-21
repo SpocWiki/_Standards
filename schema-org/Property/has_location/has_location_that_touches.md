@@ -4,21 +4,23 @@ aliases:
   - geo_touches
   - geoTouches
   - has_location_touches
+  - has_location_that_touches
+  - has location that touches
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - geo_touches
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_touches
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

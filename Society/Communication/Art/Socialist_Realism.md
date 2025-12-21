@@ -4,14 +4,16 @@ aliases:
   - socrealism
   - соцреализм
   - sotsrealizm
+  - Socialist_Realism
+  - Socialist Realism
 has_id_wikidata: Q180902
-different_from: "[[_Standards/WikiData/WD~social_realism,837024]]"
-instance_of: "[[_Standards/WikiData/WD~art_movement,968159]]"
+different_from: '[[_Standards/WikiData/WD~social_realism,837024]]'
+instance_of: '[[_Standards/WikiData/WD~art_movement,968159]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~AKhRR,2470594]]"
-  - "[[_Standards/WikiData/WD~communism,6186]]"
-described_by_source: "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-country: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+  - '[[_Standards/WikiData/WD~AKhRR,2470594]]'
+  - '[[_Standards/WikiData/WD~communism,6186]]'
+described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+country: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
 short_name: соцреализм
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Death%20of%20a%20Commissar%20%28Petrov-Vodkin%29.jpg

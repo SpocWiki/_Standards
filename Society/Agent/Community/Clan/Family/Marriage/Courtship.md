@@ -1,19 +1,20 @@
 ---
 aliases:
   - Brautwerbung
+  - Courtship
 has_id_wikidata: Q376596
-followed_by: "[[_Standards/WikiData/WD~engagement,157512]]"
+followed_by: '[[_Standards/WikiData/WD~engagement,157512]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~ritual,189819]]"
-  - "[[_Standards/WikiData/WD~social_behavior,921513]]"
-  - "[[_Standards/WikiData/WD~ceremony,2627975]]"
+  - '[[_Standards/WikiData/WD~ritual,189819]]'
+  - '[[_Standards/WikiData/WD~social_behavior,921513]]'
+  - '[[_Standards/WikiData/WD~ceremony,2627975]]'
 follows:
-  - "[[_Standards/WikiData/WD~flirting,208704]]"
-  - "[[_Standards/WikiData/WD~dating,654810]]"
-facet_of: "[[_Standards/WikiData/WD~role,214339]]"
+  - '[[_Standards/WikiData/WD~flirting,208704]]'
+  - '[[_Standards/WikiData/WD~dating,654810]]'
+facet_of: '[[_Standards/WikiData/WD~role,214339]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~interpersonal_relationship,223642]]"
-  - "[[_Standards/WikiData/WD~deadband,2445904]]"
+  - '[[_Standards/WikiData/WD~interpersonal_relationship,223642]]'
+  - '[[_Standards/WikiData/WD~deadband,2445904]]'
 Commons_category: Courtship
 Iconclass_notation: 33C21
 IMDb_keyword: courtship

@@ -1,28 +1,29 @@
 ---
 aliases:
-- id_isbn
-- has_id_isbn
-- "schema:isbn"
-- "dbo:isbn"
-- "wdt:P212"
+  - id_isbn
+  - has_id_isbn
+  - schema:isbn
+  - dbo:isbn
+  - wdt:P212
+  - has id isbn
 confidential: public
 cssclasses:
-- Predicate
-- Text
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- id_isbn
-layout: 
-license: "CC BY-SA 4.0"
+  - id_isbn
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_id_isbn
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_isbn
 type: Pred_Text
 ---

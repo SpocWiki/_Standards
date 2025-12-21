@@ -2,21 +2,22 @@
 aliases:
   - Golden Rule
   - ethics of reciprocity
+  - Golden_Rule
 has_id_wikidata: Q189573
-facet_of: "[[_Standards/WikiData/WD~applied_ethics,538733]]"
+facet_of: '[[_Standards/WikiData/WD~applied_ethics,538733]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~rule,1151067]]"
-  - "[[_Standards/WikiData/WD~norm_of_reciprocity,2107249]]"
+  - '[[_Standards/WikiData/WD~rule,1151067]]'
+  - '[[_Standards/WikiData/WD~norm_of_reciprocity,2107249]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~maxim,1374354]]"
-  - "[[_Standards/WikiData/WD~ethical_principle,107085948]]"
-  - "[[_Standards/WikiData/WD~motto,42470]]"
-different_from: "[[_Standards/WikiData/WD~Lei_Áurea,1519167]]"
-main_subject: "[[_Standards/WikiData/WD~reciprocity,2147331]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
+  - '[[_Standards/WikiData/WD~maxim,1374354]]'
+  - '[[_Standards/WikiData/WD~ethical_principle,107085948]]'
+  - '[[_Standards/WikiData/WD~motto,42470]]'
+different_from: '[[_Standards/WikiData/WD~Lei_Áurea,1519167]]'
+main_subject: '[[_Standards/WikiData/WD~reciprocity,2147331]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/QVOD%20TIBI%20HOC%20ALTERI.jpg
 Commons_category: Golden rule
 ---

@@ -4,21 +4,23 @@ aliases:
   - wearable_measurement_collar
   - WearableMeasurementCollar
   - is_a_wearable_measurement_collar
+  - Wearable_Measurement_Collar
+  - Wearable Measurement Collar
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableMeasurementTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_measurement_collar
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_measurement_collar Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

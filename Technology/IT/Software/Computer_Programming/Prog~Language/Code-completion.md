@@ -1,6 +1,7 @@
 ---
 aliases:
-- IntelliSense
+  - IntelliSense
+  - Code-completion
 ---
 
 #has_/Pros :: Code-Completion considerably speeds up Programming, 

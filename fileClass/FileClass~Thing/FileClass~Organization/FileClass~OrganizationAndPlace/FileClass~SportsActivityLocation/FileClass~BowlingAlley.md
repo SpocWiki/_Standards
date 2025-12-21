@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~BowlingAlley
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/BowlingAlley
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/BowlingAlley
-- is_a_/BowlingAlley
-- schema-org/BowlingAlley
+  - class/BowlingAlley
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/BowlingAlley
+  - is_a_/BowlingAlley
+  - schema-org/BowlingAlley
 tags:
-- class/FileClass
-- class/BowlingAlley
-- is_a_/BowlingAlley
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/BowlingAlley
+  - class/FileClass
+  - class/BowlingAlley
+  - is_a_/BowlingAlley
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/BowlingAlley
 version: 2.0
 ---
 

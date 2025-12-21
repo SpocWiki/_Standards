@@ -1,22 +1,23 @@
 ---
 aliases:
   - touch screen
+  - Touchscreen
 has_id_wikidata: Q165970
 subclass_of:
-  - "[[_Standards/WikiData/WD~output_device,778637]]"
-  - "[[_Standards/WikiData/WD~input_device,864114]]"
-  - "[[_Standards/WikiData/WD~human_interface_device,1348085]]"
-has_immediate_cause: "[[_Standards/WikiData/WD~digit,34583]]"
-Nomenclature_for_Museum_Cataloging: "10513"
+  - '[[_Standards/WikiData/WD~output_device,778637]]'
+  - '[[_Standards/WikiData/WD~input_device,864114]]'
+  - '[[_Standards/WikiData/WD~human_interface_device,1348085]]'
+has_immediate_cause: '[[_Standards/WikiData/WD~digit,34583]]'
+Nomenclature_for_Museum_Cataloging: 10513
 ArchWiki_article: Touchscreen
-OmegaWiki_Defined_Meaning: "1064517"
+OmegaWiki_Defined_Meaning: 1064517
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hear%20Music%20touchscreen.jpg
 Stack_Exchange_tag: https://stackoverflow.com/tags/touchscreen
 GitHub_topic: touchscreen
 Commons_category: Touchscreens
 Dewey_Decimal_Classification:
-  - "004.76"
-  - "621.3986"
+  - 004.76
+  - 621.3986
 ---
 
 # [[Touchscreen]] 

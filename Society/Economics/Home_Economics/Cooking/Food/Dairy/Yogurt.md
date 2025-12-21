@@ -3,49 +3,49 @@ aliases:
   - Yogurt
 has_id_wikidata: Q13317
 subclass_of:
-  - "[[_Standards/WikiData/WD~dairy_product,185217]]"
-  - "[[_Standards/WikiData/WD~fermented_milk_products,_other_than_sour_cream_and_cottage_cheese,26868224]]"
-  - "[[_Standards/WikiData/WD~yoghurt_and_other_types_of_milk_or_cream,_fermented_or_soured,26868628]]"
-produced_by: "[[_Standards/WikiData/WD~Lactobacillus_delbrueckii_subsp._bulgaricus,262677]]"
-part_of: "[[_Standards/WikiData/WD~Turkish_cuisine,654493]]"
-instance_of: "[[_Standards/WikiData/WD~food_product,951964]]"
-described_by_source: "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-has_part_s_: "[[_Standards/WikiData/WD~milk,8495]]"
-made_from_material: "[[_Standards/WikiData/WD~milk,8495]]"
+  - '[[_Standards/WikiData/WD~dairy_product,185217]]'
+  - '[[_Standards/WikiData/WD~fermented_milk_products,_other_than_sour_cream_and_cottage_cheese,26868224]]'
+  - '[[_Standards/WikiData/WD~yoghurt_and_other_types_of_milk_or_cream,_fermented_or_soured,26868628]]'
+produced_by: '[[_Standards/WikiData/WD~Lactobacillus_delbrueckii_subsp._bulgaricus,262677]]'
+part_of: '[[_Standards/WikiData/WD~Turkish_cuisine,654493]]'
+instance_of: '[[_Standards/WikiData/WD~food_product,951964]]'
+described_by_source: '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+has_part_s_: '[[_Standards/WikiData/WD~milk,8495]]'
+made_from_material: '[[_Standards/WikiData/WD~milk,8495]]'
 food_energy:
   - 230
   - 59
 USDA_NDB_number:
-  - "01121"
-  - "01187"
-  - "01220"
-  - "01218"
-  - "01120"
-  - "01221"
-  - "01118"
-  - "01217"
-  - "01117"
-  - "01122"
-  - "01116"
-  - "01203"
-  - "01184"
-  - "01219"
-  - "01231"
-  - "01216"
-  - "01222"
-  - "01119"
-CosIng_number: "38925"
+  - 01121
+  - 01187
+  - 01220
+  - 01218
+  - 01120
+  - 01221
+  - 01118
+  - 01217
+  - 01117
+  - 01122
+  - 01116
+  - 01203
+  - 01184
+  - 01219
+  - 01231
+  - 01216
+  - 01222
+  - 01119
+CosIng_number: 38925
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%A6%E0%A6%87.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5137%20%28guj%29-Sushant%20savla-%E0%AA%A6%E0%AA%B9%E0%AB%80%E0%AA%82.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Joghurt.jpg
 OKPD2_product_code: 10.51.52.111
 OKPD_code_of_the_good_or_service: 15.51.52.110
-OmegaWiki_Defined_Meaning: "933231"
+OmegaWiki_Defined_Meaning: 933231
 exact_match: http://purl.obolibrary.org/obo/ENVO_00002190
-Common_Procurement_Vocabulary_code: "15551300"
+Common_Procurement_Vocabulary_code: 15551300
 Iconclass_notation: 41C64132
-Amazon_com_browse_node: "6520506011"
+Amazon_com_browse_node: 6520506011
 UMLS_CUI: C0043419
 Wolfram_Language_entity_code: Entity["Food", "Yogurt::3n6rw"]
 MeSH_tree_code:

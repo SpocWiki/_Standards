@@ -1,36 +1,38 @@
 ---
-excludes: 
+aliases:
+  - FileClass~TradeAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action
 fields:
-- id: asKafP
-  name: Price
-  options: {}
-  type: Number
-  path: ''
-- id: i610fE
-  name: PriceCurrency
-  options: {}
-  type: Input
-  path: ''
-- id: hYLNCR
-  name: PriceSpecification
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')"
-  type: MultiFile
-  path: ''
+  - id: asKafP
+    name: Price
+    options: {}
+    type: Number
+    path: ''
+  - id: i610fE
+    name: PriceCurrency
+    options: {}
+    type: Input
+    path: ''
+  - id: hYLNCR
+    name: PriceSpecification
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/TradeAction
-- class/Thing/Action/TradeAction
-- is_a_/TradeAction
-- schema-org/TradeAction
+  - class/TradeAction
+  - class/Thing/Action/TradeAction
+  - is_a_/TradeAction
+  - schema-org/TradeAction
 tags:
-- class/FileClass
-- class/TradeAction
-- is_a_/TradeAction
-- class/Thing/Action/TradeAction
+  - class/FileClass
+  - class/TradeAction
+  - is_a_/TradeAction
+  - class/Thing/Action/TradeAction
 version: 2.0
 ---
 

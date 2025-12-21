@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Cyprus
+  - Chipre
+  - Chypre
+  - قبرص
+  - 塞浦路斯
+  - Кипр
+  - the Republic of Cyprus
+  - la República de Chipre
+has_id_wikidata: Q229
 diplomatic_relation:
   - "[[_Standards/WikiData/WD~Serbia,403]]"
   - "[[_Standards/WikiData/WD~Australia,408]]"
@@ -317,7 +327,6 @@ pronunciation_audio:
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Vouni%20%28Cyprus%29%20banner.jpg
 official_website: http://www.cyprus.gov.cy/
 country_calling_code: 357
-has_id_wikidata: Q229
 location:
   - 35.1333
   - 33.4667
@@ -333,21 +342,12 @@ cssclasses:
   - Country
 publish: true
 title: Cyprus
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Cyprus
-  - Chipre
-  - Chypre
-  - قبرص
-  - 塞浦路斯
-  - Кипр
-  - the Republic of Cyprus
-  - la República de Chipre
+publishDate: ""
+expiryDate: ""
 Languages:
   - el-CY
   - tr-CY

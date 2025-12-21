@@ -2,12 +2,13 @@
 aliases:
   - has delivery-status
   - has_delivery_status
+  - has delivery status
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - status
   - delivery_status
   - deliveryStatus
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_delivery_status
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,47 +1,15 @@
 ---
+aliases:
+  - Binding_Energy
+  - Binding Energy
 has_id_wikidata: Q420754
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-  - "[[_Standards/WikiData/WD~potential_energy,155640]]"
-instance_of: "[[_Standards/WikiData/WD~form_of_energy,3935690]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+  - '[[_Standards/WikiData/WD~potential_energy,155640]]'
+instance_of: '[[_Standards/WikiData/WD~form_of_energy,3935690]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 Wikidata_property: binding energy
-ISQ_dimension: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\mathsf {L}}^{2}{\mathsf {M}}{\mathsf {T}}^{-2}}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <msup>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mrow class="MJX-TeXAtom-ORD">
-                <mi mathvariant="sans-serif">L</mi>
-              </mrow>
-            </mrow>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mn>2</mn>
-            </mrow>
-          </msup>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="sans-serif">M</mi>
-            </mrow>
-          </mrow>
-          <msup>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mrow class="MJX-TeXAtom-ORD">
-                <mi mathvariant="sans-serif">T</mi>
-              </mrow>
-            </mrow>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo>&#x2212;<!-- − --></mo>
-              <mn>2</mn>
-            </mrow>
-          </msup>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle {\mathsf {L}}^{2}{\mathsf {M}}{\mathsf {T}}^{-2}}</annotation>
-    </semantics>
-  </math>
+ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {L}}^{2}{\\mathsf {M}}{\\mathsf {T}}^{-2}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">L</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>2</mn>\n          </mrow>\n        </msup>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi mathvariant=\"sans-serif\">M</mi>\n          </mrow>\n        </mrow>\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">T</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mo>&#x2212;<!-- − --></mo>\n            <mn>2</mn>\n          </mrow>\n        </msup>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {L}}^{2}{\\mathsf {M}}{\\mathsf {T}}^{-2}}</annotation>\n  </semantics>\n</math>"
 IEV_number: 881-03-41
 ---
 

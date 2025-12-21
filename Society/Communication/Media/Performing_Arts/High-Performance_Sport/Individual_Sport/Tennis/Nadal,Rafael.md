@@ -6,79 +6,80 @@ aliases:
   - Rafa Nadal
   - Nadal
   - Rafael Nadal
+  - Nadal,Rafael
 has_id_wikidata: Q10132
 head_coach:
-  - "[[_Standards/WikiData/WD~Carlos_Moyá,193361]]"
-  - "[[_Standards/WikiData/WD~Marc_López,369866]]"
-  - "[[_Standards/WikiData/WD~Francisco_Roig,773531]]"
-  - "[[_Standards/WikiData/WD~Toni_Nadal,2118577]]"
+  - '[[_Standards/WikiData/WD~Carlos_Moyá,193361]]'
+  - '[[_Standards/WikiData/WD~Marc_López,369866]]'
+  - '[[_Standards/WikiData/WD~Francisco_Roig,773531]]'
+  - '[[_Standards/WikiData/WD~Toni_Nadal,2118577]]'
 relative:
-  - "[[_Standards/WikiData/WD~Miguel_Ángel_Nadal,311200]]"
-  - "[[_Standards/WikiData/WD~Toni_Nadal,2118577]]"
-  - "[[_Standards/WikiData/WD~Rafael_Nadal_Nadal,11944441]]"
+  - '[[_Standards/WikiData/WD~Miguel_Ángel_Nadal,311200]]'
+  - '[[_Standards/WikiData/WD~Toni_Nadal,2118577]]'
+  - '[[_Standards/WikiData/WD~Rafael_Nadal_Nadal,11944441]]'
 medical_condition:
-  - "[[_Standards/WikiData/WD~anxiety_disorder,544006]]"
-  - "[[_Standards/WikiData/WD~COVID_19,84263196]]"
-member_of_sports_team: "[[_Standards/WikiData/WD~Spain_Davis_Cup_team,586825]]"
+  - '[[_Standards/WikiData/WD~anxiety_disorder,544006]]'
+  - '[[_Standards/WikiData/WD~COVID_19,84263196]]'
+member_of_sports_team: '[[_Standards/WikiData/WD~Spain_Davis_Cup_team,586825]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Breakthrough_of_the_Year,680221]]"
-  - "[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Comeback_of_the_Year,918534]]"
-  - "[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]"
-  - "[[_Standards/WikiData/WD~Best_Game_ESPY_Award,4896676]]"
-  - "[[_Standards/WikiData/WD~Best_International_Athlete_ESPY_Award,4896696]]"
-  - "[[_Standards/WikiData/WD~Best_Male_Athlete_ESPY_Award,4896724]]"
-  - "[[_Standards/WikiData/WD~Best_Male_Tennis_Player_ESPY_Award,4896731]]"
+  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Breakthrough_of_the_Year,680221]]'
+  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Comeback_of_the_Year,918534]]'
+  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]'
+  - '[[_Standards/WikiData/WD~Best_Game_ESPY_Award,4896676]]'
+  - '[[_Standards/WikiData/WD~Best_International_Athlete_ESPY_Award,4896696]]'
+  - '[[_Standards/WikiData/WD~Best_Male_Athlete_ESPY_Award,4896724]]'
+  - '[[_Standards/WikiData/WD~Best_Male_Tennis_Player_ESPY_Award,4896731]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Breakthrough_of_the_Year,680221]]"
-  - "[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Comeback_of_the_Year,918534]]"
+  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Breakthrough_of_the_Year,680221]]'
+  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Comeback_of_the_Year,918534]]'
   - "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
-  - "[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]"
-  - "[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Sports,3320370]]"
-  - "[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]"
-  - "[[_Standards/WikiData/WD~Best_International_Athlete_ESPY_Award,4896696]]"
-  - "[[_Standards/WikiData/WD~Best_Male_Tennis_Player_ESPY_Award,4896731]]"
-  - "[[_Standards/WikiData/WD~Spanish_Order_of_the_Police_Merit,6052174]]"
-  - "[[_Standards/WikiData/WD~Gold_Medal_of_the_Royal_Order_of_Sports_Merit,30860334]]"
-  - "[[_Standards/WikiData/WD~Adopted_Son_of_Madrid,34477422]]"
-  - "[[_Standards/WikiData/WD~Gold_Medal_of_Work_Merit,39946570]]"
-  - "[[_Standards/WikiData/WD~Galardón_Camino_Real,120648343]]"
+  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]'
+  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Sports,3320370]]'
+  - '[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]'
+  - '[[_Standards/WikiData/WD~Best_International_Athlete_ESPY_Award,4896696]]'
+  - '[[_Standards/WikiData/WD~Best_Male_Tennis_Player_ESPY_Award,4896731]]'
+  - '[[_Standards/WikiData/WD~Spanish_Order_of_the_Police_Merit,6052174]]'
+  - '[[_Standards/WikiData/WD~Gold_Medal_of_the_Royal_Order_of_Sports_Merit,30860334]]'
+  - '[[_Standards/WikiData/WD~Adopted_Son_of_Madrid,34477422]]'
+  - '[[_Standards/WikiData/WD~Gold_Medal_of_Work_Merit,39946570]]'
+  - '[[_Standards/WikiData/WD~Galardón_Camino_Real,120648343]]'
 playing_hand:
-  - "[[_Standards/WikiData/WD~left_handedness,789447]]"
-  - "[[_Standards/WikiData/WD~two_handed_backhand,14420068]]"
-handedness: "[[_Standards/WikiData/WD~left_handedness,789447]]"
-different_from: "[[_Standards/WikiData/WD~Rafael_Natal,3787304]]"
+  - '[[_Standards/WikiData/WD~left_handedness,789447]]'
+  - '[[_Standards/WikiData/WD~two_handed_backhand,14420068]]'
+handedness: '[[_Standards/WikiData/WD~left_handedness,789447]]'
+different_from: '[[_Standards/WikiData/WD~Rafael_Natal,3787304]]'
 occupation:
-  - "[[_Standards/WikiData/WD~model,4610556]]"
-  - "[[_Standards/WikiData/WD~tennis_player,10833314]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Rafael_Nadal,14449066]]"
-given_name: "[[_Standards/WikiData/WD~Rafael,16424000]]"
+  - '[[_Standards/WikiData/WD~model,4610556]]'
+  - '[[_Standards/WikiData/WD~tennis_player,10833314]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Rafael_Nadal,14449066]]'
+given_name: '[[_Standards/WikiData/WD~Rafael,16424000]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 sports_discipline_competed_in:
-  - "[[_Standards/WikiData/WD~tennis_singles,18123880]]"
-  - "[[_Standards/WikiData/WD~tennis_doubles,18123885]]"
-family_name: "[[_Standards/WikiData/WD~Nadal,21449215]]"
-father: "[[_Standards/WikiData/WD~Sebastià_Nadal,21850043]]"
-sibling: "[[_Standards/WikiData/WD~María_Isabel_Nadal,21850046]]"
-mother: "[[_Standards/WikiData/WD~Aina_María_Parera,21850044]]"
-spouse: "[[_Standards/WikiData/WD~Maria_Francisca_Perello,105315527]]"
-noble_title: "[[_Standards/WikiData/WD~Marquessate_of_Llevant_de_Mallorca,134986811]]"
-child: "[[_Standards/WikiData/WD~Q135190952,135190952]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Rafael_Nadal_(duplicate_page),135993101]]"
-sport: "[[_Standards/WikiData/WD~tennis,847]]"
+  - '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
+  - '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
+family_name: '[[_Standards/WikiData/WD~Nadal,21449215]]'
+father: '[[_Standards/WikiData/WD~Sebastià_Nadal,21850043]]'
+sibling: '[[_Standards/WikiData/WD~María_Isabel_Nadal,21850046]]'
+mother: '[[_Standards/WikiData/WD~Aina_María_Parera,21850044]]'
+spouse: '[[_Standards/WikiData/WD~Maria_Francisca_Perello,105315527]]'
+noble_title: '[[_Standards/WikiData/WD~Marquessate_of_Llevant_de_Mallorca,134986811]]'
+child: '[[_Standards/WikiData/WD~Q135190952,135190952]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Rafael_Nadal_(duplicate_page),135993101]]'
+sport: '[[_Standards/WikiData/WD~tennis,847]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Catalan,7026]]"
+  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Catalan,7026]]'
 significant_person:
-  - "[[_Standards/WikiData/WD~Roger_Federer,1426]]"
-  - "[[_Standards/WikiData/WD~Novak_Djokovic,5812]]"
-native_language: "[[_Standards/WikiData/WD~Catalan,7026]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Spain,29]]"
-country_for_sport: "[[_Standards/WikiData/WD~Spain,29]]"
+  - '[[_Standards/WikiData/WD~Roger_Federer,1426]]'
+  - '[[_Standards/WikiData/WD~Novak_Djokovic,5812]]'
+native_language: '[[_Standards/WikiData/WD~Catalan,7026]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Spain,29]]'
+country_for_sport: '[[_Standards/WikiData/WD~Spain,29]]'
 ranking:
   - 1
   - 26
@@ -88,9 +89,9 @@ height: 185
 social_media_followers:
   - 22200
   - 15803849
-competition_won: "[[_Standards/WikiData/WD~French_Open,43605]]"
-place_of_birth: "[[_Standards/WikiData/WD~Manacor,49567]]"
-residence: "[[_Standards/WikiData/WD~Manacor,49567]]"
+competition_won: '[[_Standards/WikiData/WD~French_Open,43605]]'
+place_of_birth: '[[_Standards/WikiData/WD~Manacor,49567]]'
+residence: '[[_Standards/WikiData/WD~Manacor,49567]]'
 Commons_category: Rafael Nadal
 prize_money: 134946100
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Commemorative%20plaque%20to%20Rafael%20Nadal%20at%20Roland%20Garros%20%282%29.jpg
@@ -98,8 +99,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20Nadal%20en%20
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20Nadal%20signature.svg
 official_website: https://rafaelnadal.com/
 web_feed_URL: https://rafaelnadal.com/feed/
-ISNI: "0000000081631971"
-Munzinger_Sport_number: "01000006729"
+ISNI: 0000000081631971
+Munzinger_Sport_number: 01000006729
 singles_record: 1080–228
 doubles_record: 142–77
 Plex_person_key: 5d776c5547dd6e001f6e9bea

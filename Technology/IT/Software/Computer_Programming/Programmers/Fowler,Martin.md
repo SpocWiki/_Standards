@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Martin Fowler"
+  - Martin Fowler
+  - Fowler,Martin
 ---
 
 #has_/time_/started :: 1963-12-18  

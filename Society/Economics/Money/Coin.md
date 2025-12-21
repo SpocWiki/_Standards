@@ -1,6 +1,7 @@
 ---
 aliases:
   - Münze
+  - Coin
 has_id_wikidata: Q41207
 Unicode_character: 🪙
 has_part_s_:
@@ -49,25 +50,25 @@ instance_of: "[[_Standards/WikiData/WD~coin_type,113813711]]"
 manifestation_of: "[[_Standards/WikiData/WD~money,1368]]"
 model_item: "[[_Standards/WikiData/WD~kreuzer,18776]]"
 opposite_of: "[[_Standards/WikiData/WD~banknote,47433]]"
-OmegaWiki_Defined_Meaning: "8052"
-Nomenclature_for_Museum_Cataloging: "13826"
+OmegaWiki_Defined_Meaning: 8052
+Nomenclature_for_Museum_Cataloging: 13826
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Kiloware.JPG
   - http://commons.wikimedia.org/wiki/Special:FilePath/One%20Rupee%20East%20India%20Company.JPG
 Iconclass_notation: 46B311
 subreddit: coins
 Commons_category: Coins
-GS1_GPC_code: "10007971"
+GS1_GPC_code: 10007971
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/English%20coins.ogg
 WordLift_URL: http://data.thenextweb.com/tnw/entity/coin
 described_at_URL: https://neal.fun/earth-reviews/coins
 Provenio_UUID: 07398f09-d834-4c4c-b718-2f931091450a
 Dewey_Decimal_Classification:
-  - "332.404"
-  - "737.4"
-P8189: "987007283907105171"
+  - 332.404
+  - 737.4
+P8189: 987007283907105200
 ---
-# [[Coin]] 
+# [[Coin]] 🪙 
 
 #is_/same_as :: [[../../../WikiData/WD~Coin,41207|WD~Coin,41207]] 
 

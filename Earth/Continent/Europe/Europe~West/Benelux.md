@@ -1,5 +1,4 @@
 ---
-has_id_wikidata: Q13116
 aliases:
   - Benelux Unie
   - Benelux Union
@@ -7,6 +6,7 @@ aliases:
   - Benelux-Union
   - Benelux-Unioun
   - Benelux
+has_id_wikidata: Q13116
 ---
 
 # [[Benelux]] 

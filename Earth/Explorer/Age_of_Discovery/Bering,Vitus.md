@@ -1,60 +1,61 @@
 ---
 aliases:
-  - "Ivan Ivanovich Bering (Russian: Иван Иванович Беринг"
+  - 'Ivan Ivanovich Bering (Russian: Иван Иванович Беринг'
   - Vitus Jonassen Bering
+  - Bering,Vitus
 has_id_wikidata: Q127641
 Krugosvet_article_archived_: istoriya/BERING_VITUS_ONASSEN.html
 Libris_URI: sq466w3b15nr9lr
 name_in_native_language: Vitus Jonassen Bering
 birth_name: Vitus Jonassen Bering
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20Vitus%20Bering.png
-cause_of_death: "[[_Standards/WikiData/WD~scurvy,163865]]"
-place_of_birth: "[[_Standards/WikiData/WD~Horsens,190235]]"
-place_of_death: "[[_Standards/WikiData/WD~Bering_Island,193962]]"
-military_branch: "[[_Standards/WikiData/WD~Imperial_Russian_Navy,583941]]"
+cause_of_death: '[[_Standards/WikiData/WD~scurvy,163865]]'
+place_of_birth: '[[_Standards/WikiData/WD~Horsens,190235]]'
+place_of_death: '[[_Standards/WikiData/WD~Bering_Island,193962]]'
+military_branch: '[[_Standards/WikiData/WD~Imperial_Russian_Navy,583941]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Great_Norwegian_Encyclopedia,746368]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Great_Norwegian_Encyclopedia,746368]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]"
-  - "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~commander_captain,1959211]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-relative: "[[_Standards/WikiData/WD~Vitus_Bering,4084893]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]'
+  - '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~commander_captain,1959211]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+relative: '[[_Standards/WikiData/WD~Vitus_Bering,4084893]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 occupation:
-  - "[[_Standards/WikiData/WD~hydrographer,10295465]]"
-  - "[[_Standards/WikiData/WD~naval_officer,10669499]]"
-  - "[[_Standards/WikiData/WD~explorer,11900058]]"
-  - "[[_Standards/WikiData/WD~seafarer,12038843]]"
-given_name: "[[_Standards/WikiData/WD~Vitus,17142334]]"
-family_name: "[[_Standards/WikiData/WD~Bering,37079601]]"
-spouse: "[[_Standards/WikiData/WD~Anna_Bering,109318650]]"
+  - '[[_Standards/WikiData/WD~hydrographer,10295465]]'
+  - '[[_Standards/WikiData/WD~naval_officer,10669499]]'
+  - '[[_Standards/WikiData/WD~explorer,11900058]]'
+  - '[[_Standards/WikiData/WD~seafarer,12038843]]'
+given_name: '[[_Standards/WikiData/WD~Vitus,17142334]]'
+family_name: '[[_Standards/WikiData/WD~Bering,37079601]]'
+spouse: '[[_Standards/WikiData/WD~Anna_Bering,109318650]]'
 child:
-  - "[[_Standards/WikiData/WD~Anton_Bering,126966384]]"
-  - "[[_Standards/WikiData/WD~Thomas_Bering,128043805]]"
-  - "[[_Standards/WikiData/WD~Q136229078,136229078]]"
+  - '[[_Standards/WikiData/WD~Anton_Bering,126966384]]'
+  - '[[_Standards/WikiData/WD~Thomas_Bering,128043805]]'
+  - '[[_Standards/WikiData/WD~Q136229078,136229078]]'
 date_of_death: 1741-12-19T00:00:00Z
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~Danish,9035]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-allegiance: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+  - '[[_Standards/WikiData/WD~Russian,7737]]'
+  - '[[_Standards/WikiData/WD~Danish,9035]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+allegiance: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 Commons_category: Vitus Bering
 Commons_Creator_page: Vitus Bering
-P1015: "2002846"
+P1015: 2002846
 date_of_baptism: 1681-08-12T00:00:00Z
 date_of_birth: 1681-08-05T00:00:00Z
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/The%20grave%20of%20Vitus%20Bering.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vitus%20Bering%20Reconstruction%20%28cropped%29.jpg
-ISNI: "0000000073586496"
+ISNI: 0000000073586496
 ---
 
 # [[Bering,Vitus]] 

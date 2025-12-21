@@ -4,23 +4,25 @@ aliases:
   - security_clearance_requirement
   - securityClearanceRequirement
   - has_text_of_security_clearance_requirement
+  - has_security_clearance_requirement
+  - has security clearance requirement
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - security
   - clearance
   - requirement
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_security_clearance_requirement
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

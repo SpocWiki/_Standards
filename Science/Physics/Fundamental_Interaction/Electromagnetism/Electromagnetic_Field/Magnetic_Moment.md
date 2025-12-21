@@ -1,7 +1,9 @@
 ---
 aliases:
-  - magnetic moment 
+  - magnetic moment
   - magnetic dipole moment
+  - Magnetic_Moment
+  - Magnetic Moment
 has_id_wikidata: Q242657
 subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"

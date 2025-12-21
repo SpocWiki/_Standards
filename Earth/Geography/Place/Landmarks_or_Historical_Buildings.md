@@ -4,36 +4,38 @@ aliases:
   - landmarks_or_historical_buildings
   - LandmarksOrHistoricalBuildings
   - is_a_landmarks_or_historical_buildings
+  - Landmarks_or_Historical_Buildings
+  - Landmarks or Historical Buildings
 has_id_wikidata: Q2319498
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - landmarks_or_historical_buildings
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_landmarks_or_historical_buildings Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_landmarks_or_historical_buildings Class
 type: Type
 subclass_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
-  - "[[_Standards/WikiData/WD~landmark,4895393]]"
-different_from: "[[_Standards/WikiData/WD~landmark,4895393]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q7607402,7607402]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q13439180,13439180]]"
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+  - '[[_Standards/WikiData/WD~landmark,4895393]]'
+different_from: '[[_Standards/WikiData/WD~landmark,4895393]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q7607402,7607402]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q13439180,13439180]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
 properties_for_this_type:
   - plaque image
   - nighttime view

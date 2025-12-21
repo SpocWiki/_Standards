@@ -3,19 +3,21 @@ aliases:
   - Chemical_equilibrium
   - chemical equilibrium
   - chemisches Gleichgewicht
+  - Chemical_Equilibrium
+  - Chemical Equilibrium
 has_id_wikidata: Q189520
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~steady_state,903414]]"
-  - "[[_Standards/WikiData/WD~equilibrium,11061286]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Chemical_equilibria,6852697]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_equilibrium,111796904]]"
-OmegaWiki_Defined_Meaning: "808921"
+  - '[[_Standards/WikiData/WD~steady_state,903414]]'
+  - '[[_Standards/WikiData/WD~equilibrium,11061286]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Chemical_equilibria,6852697]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_equilibrium,111796904]]'
+OmegaWiki_Defined_Meaning: 808921
 Commons_category: Chemical equilibria
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Diag%20eq.svg
-P8189: "987007284923305171"
+P8189: 987007284923305171
 Krugosvet_article: nauka_i_tehnika/himiya/HIMICHESKOE_RAVNOVESIE.html
 ---
 

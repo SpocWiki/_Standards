@@ -4,20 +4,21 @@ aliases:
   - how_to_supply
   - HowToSupply
   - is_a_how_to_supply
+  - how to supply
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - how_to_supply
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_how_to_supply Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

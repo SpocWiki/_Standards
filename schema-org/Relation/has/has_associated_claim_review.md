@@ -1,12 +1,13 @@
 ---
 aliases:
   - has_associated_claim_review
+  - has associated claim review
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -14,11 +15,11 @@ keywords:
   - claim
   - review
   - associatedClaimReview
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_associated_claim_review
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

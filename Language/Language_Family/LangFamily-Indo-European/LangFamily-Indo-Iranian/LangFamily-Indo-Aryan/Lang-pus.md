@@ -1,48 +1,49 @@
 ---
 aliases:
   - Pashto
+  - Lang-pus
+has_id_wikidata: Q58680
 tags:
   - Lang/ps
 type: Lang
-has_id_wikidata: Q58680
 instance_of:
-  - "[[_Standards/WikiData/WD~macrolanguage,152559]]"
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
+  - '[[_Standards/WikiData/WD~macrolanguage,152559]]'
+  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
+  - '[[_Standards/WikiData/WD~natural_language,33742]]'
 country:
-  - "[[_Standards/WikiData/WD~Balochistan,163239]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Tajikistan,863]]"
-  - "[[_Standards/WikiData/WD~Turkmenistan,874]]"
-  - "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
-  - "[[_Standards/WikiData/WD~Afghanistan,889]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Balochistan,163239]]'
+  - '[[_Standards/WikiData/WD~India,668]]'
+  - '[[_Standards/WikiData/WD~Iran,794]]'
+  - '[[_Standards/WikiData/WD~Pakistan,843]]'
+  - '[[_Standards/WikiData/WD~Tajikistan,863]]'
+  - '[[_Standards/WikiData/WD~Turkmenistan,874]]'
+  - '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
+  - '[[_Standards/WikiData/WD~Afghanistan,889]]'
+  - '[[_Standards/WikiData/WD~Canada,16]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~fusional_language,318917]]"
-  - "[[_Standards/WikiData/WD~subject_object_verb,539808]]"
+  - '[[_Standards/WikiData/WD~fusional_language,318917]]'
+  - '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
 ethnic_group:
-  - "[[_Standards/WikiData/WD~Burusho_people,367765]]"
-  - "[[_Standards/WikiData/WD~Nuristani_people,737671]]"
-  - "[[_Standards/WikiData/WD~Kalash_people,845748]]"
-  - "[[_Standards/WikiData/WD~Pashtuns,2556103]]"
-subclass_of: "[[_Standards/WikiData/WD~Eastern_Iranian,391015]]"
+  - '[[_Standards/WikiData/WD~Burusho_people,367765]]'
+  - '[[_Standards/WikiData/WD~Nuristani_people,737671]]'
+  - '[[_Standards/WikiData/WD~Kalash_people,845748]]'
+  - '[[_Standards/WikiData/WD~Pashtuns,2556103]]'
+subclass_of: '[[_Standards/WikiData/WD~Eastern_Iranian,391015]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 writing_system:
-  - "[[_Standards/WikiData/WD~Arabic_script,1828555]]"
-  - "[[_Standards/WikiData/WD~Arabic_alphabet,8196]]"
-UNESCO_language_status: "[[_Standards/WikiData/WD~1_safe,20672086]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q101517221,101517221]]"
+  - '[[_Standards/WikiData/WD~Arabic_script,1828555]]'
+  - '[[_Standards/WikiData/WD~Arabic_alphabet,8196]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q101517221,101517221]]'
 number_of_speakers_writers_or_signers: 39000000
-IAB_code: "1160"
-ABS_ASCL_2011_code: "4102"
+IAB_code: 1160
+ABS_ASCL_2011_code: 4102
 Ethnologue_com_language_code: pus
 ISO_639_3_code: pus
 ISO_639_2_code: pus
@@ -56,7 +57,7 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pashto.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Pashto%20phrasebook%20banner.jpg
 exact_match: http://publications.europa.eu/resource/authority/language/PUS
-Dewey_Decimal_Classification: "491.593"
+Dewey_Decimal_Classification: 491.593
 Linguasphere_code: 58-ABD-a
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/PUSHTU.html
 Glottolog_code: pash1269

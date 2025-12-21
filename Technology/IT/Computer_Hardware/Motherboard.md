@@ -4,24 +4,25 @@ aliases:
   - system board
   - logic board
   - mobo
+  - Motherboard
 has_id_wikidata: Q4321
 has_part_s_:
-  - "[[_Standards/WikiData/WD~chipset,182656]]"
-  - "[[_Standards/WikiData/WD~CPU_socket,727009]]"
-  - "[[_Standards/WikiData/WD~voltage_regulator_module,949101]]"
-  - "[[_Standards/WikiData/WD~expansion_slot,2032544]]"
-  - "[[_Standards/WikiData/WD~central_processing_unit,5300]]"
+  - '[[_Standards/WikiData/WD~chipset,182656]]'
+  - '[[_Standards/WikiData/WD~CPU_socket,727009]]'
+  - '[[_Standards/WikiData/WD~voltage_regulator_module,949101]]'
+  - '[[_Standards/WikiData/WD~expansion_slot,2032544]]'
+  - '[[_Standards/WikiData/WD~central_processing_unit,5300]]'
 connects_with:
-  - "[[_Standards/WikiData/WD~button_cell,1361661]]"
-  - "[[_Standards/WikiData/WD~memory_module,2308614]]"
-different_from: "[[_Standards/WikiData/WD~system_board,65034977]]"
+  - '[[_Standards/WikiData/WD~button_cell,1361661]]'
+  - '[[_Standards/WikiData/WD~memory_module,2308614]]'
+different_from: '[[_Standards/WikiData/WD~system_board,65034977]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~system_board,65034977]]"
-  - "[[_Standards/WikiData/WD~computer_hardware,3966]]"
-has_characteristic: "[[_Standards/WikiData/WD~motherboard_form_factor,95987576]]"
+  - '[[_Standards/WikiData/WD~system_board,65034977]]'
+  - '[[_Standards/WikiData/WD~computer_hardware,3966]]'
+has_characteristic: '[[_Standards/WikiData/WD~motherboard_form_factor,95987576]]'
 related_property: CPU
-part_of: "[[_Standards/WikiData/WD~computer,68]]"
-OmegaWiki_Defined_Meaning: "487812"
+part_of: '[[_Standards/WikiData/WD~computer,68]]'
+OmegaWiki_Defined_Meaning: 487812
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ASRock%20K7VT4A%20Pro%20Mainboard.jpg
 short_name: MB
 Stack_Exchange_tag: https://stackoverflow.com/tags/motherboard

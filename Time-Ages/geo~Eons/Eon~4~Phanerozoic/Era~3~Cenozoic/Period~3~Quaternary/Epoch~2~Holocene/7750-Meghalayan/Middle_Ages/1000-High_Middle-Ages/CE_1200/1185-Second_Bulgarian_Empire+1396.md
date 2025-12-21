@@ -4,19 +4,21 @@ aliases:
   - Ц(а)рьство бл(ъ)гарское
   - Второ българско царство
   - Vtoro Balgarsko Tsarstvo
+  - 1185-Second_Bulgarian_Empire+1396
+  - 1185-Second Bulgarian Empire+1396
 has_id_wikidata: Q420759
-basic_form_of_government: "[[_Standards/WikiData/WD~autocracy,173424]]"
-capital: "[[_Standards/WikiData/WD~Veliko_Tarnovo,173474]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Bulgarian_Orthodox_Church,242758]]"
-different_from: "[[_Standards/WikiData/WD~Bulgarian_Empire,2067184]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
+basic_form_of_government: '[[_Standards/WikiData/WD~autocracy,173424]]'
+capital: '[[_Standards/WikiData/WD~Veliko_Tarnovo,173474]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Bulgarian_Orthodox_Church,242758]]'
+different_from: '[[_Standards/WikiData/WD~Bulgarian_Empire,2067184]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
 inception: 1185-01-01T00:00:00Z
 language_used:
-  - "[[_Standards/WikiData/WD~Romanian,7913]]"
-  - "[[_Standards/WikiData/WD~Bulgarian,7918]]"
-  - "[[_Standards/WikiData/WD~Greek,9129]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-official_language: "[[_Standards/WikiData/WD~Old_Church_Slavonic,35499]]"
+  - '[[_Standards/WikiData/WD~Romanian,7913]]'
+  - '[[_Standards/WikiData/WD~Bulgarian,7918]]'
+  - '[[_Standards/WikiData/WD~Greek,9129]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+official_language: '[[_Standards/WikiData/WD~Old_Church_Slavonic,35499]]'
 area: 477000
 short_name: България
 coordinate_location: Point(25.65 43.06666667)

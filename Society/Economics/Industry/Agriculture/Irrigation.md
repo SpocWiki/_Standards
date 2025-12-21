@@ -1,30 +1,32 @@
 ---
+aliases:
+  - Irrigation
+has_id_wikidata: Q11453
 class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~water,283]]'
 Commons_category: Irrigation
 Commons_gallery: Irrigation
 described_by_source:
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 different_from:
-- '[[_Standards/WikiData/WD~plant_watering,20918473]]'
-- '[[_Standards/WikiData/WD~dental_irrigation,125728927]]'
+  - '[[_Standards/WikiData/WD~plant_watering,20918473]]'
+  - '[[_Standards/WikiData/WD~dental_irrigation,125728927]]'
 facet_of: '[[_Standards/WikiData/WD~transport_of_water,17138804]]'
 has_effect: '[[_Standards/WikiData/WD~runoff,66486514]]'
-has_id_wikidata: Q11453
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/PivotIrrigationOnCotton.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/PivotIrrigationOnCotton.jpg
 instance_of: '[[_Standards/WikiData/WD~activity,1914636]]'
 MeSH_tree_code: J01.040.044
 OmegaWiki_Defined_Meaning: 2028
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 studied_in: '[[_Standards/WikiData/WD~irrigation_engineering,114778863]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~process,10843872]]'
-- '[[_Standards/WikiData/WD~transport,7590]]'
+  - '[[_Standards/WikiData/WD~process,10843872]]'
+  - '[[_Standards/WikiData/WD~transport,7590]]'
 subreddit: Irrigation
 UMLS_CUI: C2936278
 U_S_National_Archives_Identifier: 10639786

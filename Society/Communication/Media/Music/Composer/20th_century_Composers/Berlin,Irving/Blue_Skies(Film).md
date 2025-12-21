@@ -1,21 +1,23 @@
 ---
 aliases:
   - Blue Skies
+  - Blue_Skies(Film)
+  - Blue Skies(Film)
 has_id_wikidata: Q885875
-lyricist: "[[_Standards/WikiData/WD~Irving_Berlin,128746]]"
-composer: "[[_Standards/WikiData/WD~Irving_Berlin,128746]]"
-different_from: "[[_Standards/WikiData/WD~Blue_Skies,364010]]"
+lyricist: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
+composer: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
+different_from: '[[_Standards/WikiData/WD~Blue_Skies,364010]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~jazz_standard,591990]]"
-  - "[[_Standards/WikiData/WD~show_tune,661651]]"
-performer: "[[_Standards/WikiData/WD~Belle_Baker,947336]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-instance_of: "[[_Standards/WikiData/WD~musical_work_composition,105543609]]"
+  - '[[_Standards/WikiData/WD~jazz_standard,591990]]'
+  - '[[_Standards/WikiData/WD~show_tune,661651]]'
+performer: '[[_Standards/WikiData/WD~Belle_Baker,947336]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
+instance_of: '[[_Standards/WikiData/WD~musical_work_composition,105543609]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Blue_Skies,124259374]]"
-  - "[[_Standards/WikiData/WD~Blue_Skies,124296060]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~song,7366]]"
+  - '[[_Standards/WikiData/WD~Blue_Skies,124259374]]'
+  - '[[_Standards/WikiData/WD~Blue_Skies,124296060]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~song,7366]]'
 title: Blue Skies
 ISWC: T-070.011.813-3
 publication_date: 1926-01-01T00:00:00Z

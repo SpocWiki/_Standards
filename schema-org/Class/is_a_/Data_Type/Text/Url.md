@@ -1,27 +1,28 @@
 ---
 aliases:
-- url
-- URL
-- is_a_url
+  - url
+  - URL
+  - is_a_url
+  - Url
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- url
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_url Class"
+  - url
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_a_url Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Class
-- schema-org/Class
-- class/data_type
-title: "is_a_url Class"
+  - class/Class
+  - schema-org/Class
+  - class/data_type
+title: is_a_url Class
 type: Type
 ---
 

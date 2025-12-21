@@ -5,19 +5,21 @@ aliases:
   - imperial units
   - British Imperial
   - Exchequer Standards
+  - Imperial_Unit
+  - Imperial Unit
 has_id_wikidata: Q641227
 has_part_s_:
-  - "[[_Standards/WikiData/WD~pound,100995]]"
-  - "[[_Standards/WikiData/WD~gallon,178413]]"
-  - "[[_Standards/WikiData/WD~inch,218593]]"
-  - "[[_Standards/WikiData/WD~mile,253276]]"
-  - "[[_Standards/WikiData/WD~yard,482798]]"
-  - "[[_Standards/WikiData/WD~fluid_ounce,69878540]]"
-  - "[[_Standards/WikiData/WD~foot,3710]]"
-instance_of: "[[_Standards/WikiData/WD~system_of_units,932268]]"
-part_of: "[[_Standards/WikiData/WD~Imperial_and_US_customary_measurement_systems,14290846]]"
-replaces: "[[_Standards/WikiData/WD~English_unit_of_measurement,16782623]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~pound,100995]]'
+  - '[[_Standards/WikiData/WD~gallon,178413]]'
+  - '[[_Standards/WikiData/WD~inch,218593]]'
+  - '[[_Standards/WikiData/WD~mile,253276]]'
+  - '[[_Standards/WikiData/WD~yard,482798]]'
+  - '[[_Standards/WikiData/WD~fluid_ounce,69878540]]'
+  - '[[_Standards/WikiData/WD~foot,3710]]'
+instance_of: '[[_Standards/WikiData/WD~system_of_units,932268]]'
+part_of: '[[_Standards/WikiData/WD~Imperial_and_US_customary_measurement_systems,14290846]]'
+replaces: '[[_Standards/WikiData/WD~English_unit_of_measurement,16782623]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Imperial%20units.jpg
 Commons_category: British Imperial units
 ---

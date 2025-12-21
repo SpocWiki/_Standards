@@ -2,18 +2,20 @@
 aliases:
   - exponential distribution
   - Exponentialverteilung
+  - Exponential_Distribution
+  - Exponential Distribution
 has_id_wikidata: Q237193
 has_characteristic:
-  - "[[_Standards/WikiData/WD~memorylessness,176750]]"
-  - "[[_Standards/WikiData/WD~infinite_divisibility,1754066]]"
+  - '[[_Standards/WikiData/WD~memorylessness,176750]]'
+  - '[[_Standards/WikiData/WD~infinite_divisibility,1754066]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Weibull_distribution,732332]]"
-  - "[[_Standards/WikiData/WD~Erlang_distribution,762448]]"
-  - "[[_Standards/WikiData/WD~continuous_probability_distribution,917918]]"
-  - "[[_Standards/WikiData/WD~Shifted_Exponential_Distribution,109931606]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-definition_domain: "[[_Standards/WikiData/WD~set_of_non_negative_real_numbers,91311892]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]"
+  - '[[_Standards/WikiData/WD~Weibull_distribution,732332]]'
+  - '[[_Standards/WikiData/WD~Erlang_distribution,762448]]'
+  - '[[_Standards/WikiData/WD~continuous_probability_distribution,917918]]'
+  - '[[_Standards/WikiData/WD~Shifted_Exponential_Distribution,109931606]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+definition_domain: '[[_Standards/WikiData/WD~set_of_non_negative_real_numbers,91311892]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><msup><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">e</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mi>x</mi><mo lspace="0" rspace="0">/</mo><mi>&#x03B2;</mi></mrow></mrow></msup></mrow><mrow data-mjx-texclass="ORD"><mi>&#x03B2;</mi></mrow></mfrac></mrow></mstyle></mrow></math>
 cumulative_distribution_function: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn><mo stretchy="false">&#x2212;</mo><msup><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">e</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mi>x</mi><mo lspace="0" rspace="0">/</mo><mi>&#x03B2;</mi></mrow></mrow></msup></mstyle></mrow></math>
 variance_of_a_probability_distribution: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mi>&#x03B2;</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mstyle></mrow></math>

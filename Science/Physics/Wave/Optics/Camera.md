@@ -1,38 +1,39 @@
 ---
 aliases:
   - Kamera
+  - Camera
 has_id_wikidata: Q15328
 has_part_s_:
-  - "[[_Standards/WikiData/WD~camera_lens,192234]]"
-  - "[[_Standards/WikiData/WD~system_camera,209871]]"
-  - "[[_Standards/WikiData/WD~photosensitive_materials,4410572]]"
+  - '[[_Standards/WikiData/WD~camera_lens,192234]]'
+  - '[[_Standards/WikiData/WD~system_camera,209871]]'
+  - '[[_Standards/WikiData/WD~photosensitive_materials,4410572]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~still_camera,313600]]"
-  - "[[_Standards/WikiData/WD~video_camera,313614]]"
-  - "[[_Standards/WikiData/WD~movie_camera,335095]]"
+  - '[[_Standards/WikiData/WD~still_camera,313600]]'
+  - '[[_Standards/WikiData/WD~video_camera,313614]]'
+  - '[[_Standards/WikiData/WD~movie_camera,335095]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~photo_equipment,1439598]]"
-  - "[[_Standards/WikiData/WD~optical_instrument,1751850]]"
-  - "[[_Standards/WikiData/WD~product,2424752]]"
-different_from: "[[_Standards/WikiData/WD~Kamera,18180969]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+  - '[[_Standards/WikiData/WD~photo_equipment,1439598]]'
+  - '[[_Standards/WikiData/WD~optical_instrument,1751850]]'
+  - '[[_Standards/WikiData/WD~product,2424752]]'
+different_from: '[[_Standards/WikiData/WD~Kamera,18180969]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 properties_for_this_type: category for pictures taken with this camera
-Nomenclature_for_Museum_Cataloging: "10866"
+Nomenclature_for_Museum_Cataloging: 10866
 social_media_followers: 132788
 IMDb_keyword: camera
-Amazon_com_browse_node: "11041891"
+Amazon_com_browse_node: 11041891
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Kamera.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Benjamin%20B.%20%28BiblioCanet66%29-cam%C3%A9ra.wav
 Commons_gallery: Camera
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chinon%20CP%209%20AF%20BW%201.JPG
-P8189: "987007293650905171"
+P8189: 987007293650905171
 subreddit: Cameras
 Commons_category: Cameras
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_camera,5913742]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_camera,5913742]]'
 ---
 
 # [[Camera]] 

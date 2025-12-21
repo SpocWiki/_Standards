@@ -5,74 +5,75 @@ aliases:
   - Robert Edward Turner III
   - Robert Turner
   - Turner
+  - Turner,Ted
 has_id_wikidata: Q193368
 Facebook_username: Ted-Turner-505718032870783
 Krugosvet_article_archived_: tehnologiya-i-promyshlennost/terner-ted
 birth_name: Robert Edward Turner III
 date_of_birth: 1938-11-19T00:00:00Z
 occupation:
-  - "[[_Standards/WikiData/WD~entrepreneur,131524]]"
-  - "[[_Standards/WikiData/WD~sailor,476246]]"
-  - "[[_Standards/WikiData/WD~media_proprietor,1420621]]"
-  - "[[_Standards/WikiData/WD~environmentalist,3578589]]"
-  - "[[_Standards/WikiData/WD~philanthropist,12362622]]"
-employer: "[[_Standards/WikiData/WD~Metro_Goldwyn_Mayer,179200]]"
+  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+  - '[[_Standards/WikiData/WD~sailor,476246]]'
+  - '[[_Standards/WikiData/WD~media_proprietor,1420621]]'
+  - '[[_Standards/WikiData/WD~environmentalist,3578589]]'
+  - '[[_Standards/WikiData/WD~philanthropist,12362622]]'
+employer: '[[_Standards/WikiData/WD~Metro_Goldwyn_Mayer,179200]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Time_Person_of_the_Year,207826]]"
-  - "[[_Standards/WikiData/WD~Bower_Award_and_Prize_for_Achievement_in_Science,895417]]"
-  - "[[_Standards/WikiData/WD~Delta_Prize_for_Global_Understanding,5254719]]"
-  - "[[_Standards/WikiData/WD~Edward_R._Murrow_Lifetime_Achievement_Award,5344951]]"
-  - "[[_Standards/WikiData/WD~Sports_Lifetime_Achievement_Award,7579749]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~International_Emmy_Directorate_Award,18466322]]"
-  - "[[_Standards/WikiData/WD~Humanist_of_the_Year,19869310]]"
-  - "[[_Standards/WikiData/WD~Walter_Cronkite_Award_for_Excellence_in_Journalism,28405617]]"
-  - "[[_Standards/WikiData/WD~honorary_doctorate_of_Haifa_University,42591771]]"
-  - "[[_Standards/WikiData/WD~Audubon_Medal,47009634]]"
-  - "[[_Standards/WikiData/WD~Emperor_Has_No_Clothes_Award,74267946]]"
-  - "[[_Standards/WikiData/WD~Weintal_Prize_for_Diplomatic_Reporting,117254987]]"
-  - "[[_Standards/WikiData/WD~Trustees_Award,122158106]]"
-  - "[[_Standards/WikiData/WD~Jane_Fonda_Humanitarian_Award,133176391]]"
+  - '[[_Standards/WikiData/WD~Time_Person_of_the_Year,207826]]'
+  - '[[_Standards/WikiData/WD~Bower_Award_and_Prize_for_Achievement_in_Science,895417]]'
+  - '[[_Standards/WikiData/WD~Delta_Prize_for_Global_Understanding,5254719]]'
+  - '[[_Standards/WikiData/WD~Edward_R._Murrow_Lifetime_Achievement_Award,5344951]]'
+  - '[[_Standards/WikiData/WD~Sports_Lifetime_Achievement_Award,7579749]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~International_Emmy_Directorate_Award,18466322]]'
+  - '[[_Standards/WikiData/WD~Humanist_of_the_Year,19869310]]'
+  - '[[_Standards/WikiData/WD~Walter_Cronkite_Award_for_Excellence_in_Journalism,28405617]]'
+  - '[[_Standards/WikiData/WD~honorary_doctorate_of_Haifa_University,42591771]]'
+  - '[[_Standards/WikiData/WD~Audubon_Medal,47009634]]'
+  - '[[_Standards/WikiData/WD~Emperor_Has_No_Clothes_Award,74267946]]'
+  - '[[_Standards/WikiData/WD~Weintal_Prize_for_Diplomatic_Reporting,117254987]]'
+  - '[[_Standards/WikiData/WD~Trustees_Award,122158106]]'
+  - '[[_Standards/WikiData/WD~Jane_Fonda_Humanitarian_Award,133176391]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Edward,278835]]"
-  - "[[_Standards/WikiData/WD~Ted,1737211]]"
-  - "[[_Standards/WikiData/WD~Robert,4927937]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Edward,278835]]'
+  - '[[_Standards/WikiData/WD~Ted,1737211]]'
+  - '[[_Standards/WikiData/WD~Robert,4927937]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~The_McCallie_School,7750751]]"
-  - "[[_Standards/WikiData/WD~Brown_University,49114]]"
-family_name: "[[_Standards/WikiData/WD~Turner,12804512]]"
+  - '[[_Standards/WikiData/WD~The_McCallie_School,7750751]]'
+  - '[[_Standards/WikiData/WD~Brown_University,49114]]'
+family_name: '[[_Standards/WikiData/WD~Turner,12804512]]'
 sport:
-  - "[[_Standards/WikiData/WD~sailing,14085739]]"
-  - "[[_Standards/WikiData/WD~baseball,5369]]"
-facial_hair: "[[_Standards/WikiData/WD~pencil_moustache,17141430]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - '[[_Standards/WikiData/WD~sailing,14085739]]'
+  - '[[_Standards/WikiData/WD~baseball,5369]]'
+facial_hair: '[[_Standards/WikiData/WD~pencil_moustache,17141430]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Jane_Shirley_Smith,75619314]]"
-  - "[[_Standards/WikiData/WD~Judith_Nye,75619313]]"
-  - "[[_Standards/WikiData/WD~Jane_Fonda,41142]]"
+  - '[[_Standards/WikiData/WD~Jane_Shirley_Smith,75619314]]'
+  - '[[_Standards/WikiData/WD~Judith_Nye,75619313]]'
+  - '[[_Standards/WikiData/WD~Jane_Fonda,41142]]'
 child:
-  - "[[_Standards/WikiData/WD~Rhett_Turner,75619319]]"
-  - "[[_Standards/WikiData/WD~Laura_Lee_Turner,75619316]]"
-  - "[[_Standards/WikiData/WD~Robert_Edward_Turner_IV,75619317]]"
-  - "[[_Standards/WikiData/WD~Jennie_Turner,75619322]]"
-  - "[[_Standards/WikiData/WD~Beauregard_Turner,75619320]]"
-father: "[[_Standards/WikiData/WD~Robert_Edward_Turner_II,131716742]]"
-mother: "[[_Standards/WikiData/WD~Florence_Rooney,131716743]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_for_sport: "[[_Standards/WikiData/WD~United_States,30]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Rhett_Turner,75619319]]'
+  - '[[_Standards/WikiData/WD~Laura_Lee_Turner,75619316]]'
+  - '[[_Standards/WikiData/WD~Robert_Edward_Turner_IV,75619317]]'
+  - '[[_Standards/WikiData/WD~Jennie_Turner,75619322]]'
+  - '[[_Standards/WikiData/WD~Beauregard_Turner,75619320]]'
+father: '[[_Standards/WikiData/WD~Robert_Edward_Turner_II,131716742]]'
+mother: '[[_Standards/WikiData/WD~Florence_Rooney,131716743]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_for_sport: '[[_Standards/WikiData/WD~United_States,30]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 5
-place_of_birth: "[[_Standards/WikiData/WD~Cincinnati,43196]]"
+place_of_birth: '[[_Standards/WikiData/WD~Cincinnati,43196]]'
 Commons_gallery: Ted Turner
 Commons_category: Ted Turner
 generational_suffix: L615860-F1
 name_in_native_language: Ted Turner
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ted%20Turner%20at%20the%20LBJ%20Foundation.jpg
 official_website: https://tedturner.com
-ISNI: "0000000121463408"
+ISNI: 0000000121463408
 Plex_person_key:
   - 5d7768516f4521001eaa149b
   - 632a195a5983a41cdaa5ce63

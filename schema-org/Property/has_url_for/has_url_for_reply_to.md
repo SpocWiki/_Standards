@@ -4,21 +4,23 @@ aliases:
   - reply_to_url
   - replyToUrl
   - has_url_for_reply_to_url
+  - has_url_for_reply_to
+  - has url for reply to
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - reply_to_url
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_reply_to_url
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

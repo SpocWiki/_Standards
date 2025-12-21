@@ -1,67 +1,68 @@
 ---
 aliases:
   - Яндекс
+  - Yandex
 has_id_wikidata: Q5281
 owner_of:
-  - "[[_Standards/WikiData/WD~Ya.ru,798490]]"
-  - "[[_Standards/WikiData/WD~Yandex_Browser,1662015]]"
-  - "[[_Standards/WikiData/WD~Kinopoisk,2389071]]"
-  - "[[_Standards/WikiData/WD~Yandex.Auto,4537971]]"
-  - "[[_Standards/WikiData/WD~Yandex_Video,4537974]]"
-  - "[[_Standards/WikiData/WD~Q4537975,4537975]]"
-  - "[[_Standards/WikiData/WD~Q4537972,4537972]]"
-  - "[[_Standards/WikiData/WD~YooMoney,4537973]]"
-  - "[[_Standards/WikiData/WD~Yandex_Market,4537982]]"
-  - "[[_Standards/WikiData/WD~Yandex_Maps,4537980]]"
-  - "[[_Standards/WikiData/WD~Yandex.Map_Editor,4537986]]"
-  - "[[_Standards/WikiData/WD~Zen_News,4537987]]"
-  - "[[_Standards/WikiData/WD~Yandex_Translate,4537991]]"
-  - "[[_Standards/WikiData/WD~Yandex.Realty,4537988]]"
-  - "[[_Standards/WikiData/WD~Yandex.Raspisaniya,4537994]]"
-  - "[[_Standards/WikiData/WD~Yandex.Rabota,4537995]]"
-  - "[[_Standards/WikiData/WD~Yandex_Mail,4537996]]"
-  - "[[_Standards/WikiData/WD~Q4538001,4538001]]"
-  - "[[_Standards/WikiData/WD~Yandex_Search,6349938]]"
-  - "[[_Standards/WikiData/WD~Q13882286,13882286]]"
-  - "[[_Standards/WikiData/WD~Q14276991,14276991]]"
-  - "[[_Standards/WikiData/WD~Yandex_HQ,16720941]]"
-  - "[[_Standards/WikiData/WD~Yandex_Taxi,16723302]]"
-  - "[[_Standards/WikiData/WD~Q21663470,21663470]]"
-  - "[[_Standards/WikiData/WD~Q24935951,24935951]]"
-  - "[[_Standards/WikiData/WD~Q24937936,24937936]]"
-  - "[[_Standards/WikiData/WD~Alisa,42337230]]"
-  - "[[_Standards/WikiData/WD~Yandex.Drive,45028687]]"
-  - "[[_Standards/WikiData/WD~Yandex.Question,109012783]]"
-  - "[[_Standards/WikiData/WD~YandexGPT,118869775]]"
+  - '[[_Standards/WikiData/WD~Ya.ru,798490]]'
+  - '[[_Standards/WikiData/WD~Yandex_Browser,1662015]]'
+  - '[[_Standards/WikiData/WD~Kinopoisk,2389071]]'
+  - '[[_Standards/WikiData/WD~Yandex.Auto,4537971]]'
+  - '[[_Standards/WikiData/WD~Yandex_Video,4537974]]'
+  - '[[_Standards/WikiData/WD~Q4537975,4537975]]'
+  - '[[_Standards/WikiData/WD~Q4537972,4537972]]'
+  - '[[_Standards/WikiData/WD~YooMoney,4537973]]'
+  - '[[_Standards/WikiData/WD~Yandex_Market,4537982]]'
+  - '[[_Standards/WikiData/WD~Yandex_Maps,4537980]]'
+  - '[[_Standards/WikiData/WD~Yandex.Map_Editor,4537986]]'
+  - '[[_Standards/WikiData/WD~Zen_News,4537987]]'
+  - '[[_Standards/WikiData/WD~Yandex_Translate,4537991]]'
+  - '[[_Standards/WikiData/WD~Yandex.Realty,4537988]]'
+  - '[[_Standards/WikiData/WD~Yandex.Raspisaniya,4537994]]'
+  - '[[_Standards/WikiData/WD~Yandex.Rabota,4537995]]'
+  - '[[_Standards/WikiData/WD~Yandex_Mail,4537996]]'
+  - '[[_Standards/WikiData/WD~Q4538001,4538001]]'
+  - '[[_Standards/WikiData/WD~Yandex_Search,6349938]]'
+  - '[[_Standards/WikiData/WD~Q13882286,13882286]]'
+  - '[[_Standards/WikiData/WD~Q14276991,14276991]]'
+  - '[[_Standards/WikiData/WD~Yandex_HQ,16720941]]'
+  - '[[_Standards/WikiData/WD~Yandex_Taxi,16723302]]'
+  - '[[_Standards/WikiData/WD~Q21663470,21663470]]'
+  - '[[_Standards/WikiData/WD~Q24935951,24935951]]'
+  - '[[_Standards/WikiData/WD~Q24937936,24937936]]'
+  - '[[_Standards/WikiData/WD~Alisa,42337230]]'
+  - '[[_Standards/WikiData/WD~Yandex.Drive,45028687]]'
+  - '[[_Standards/WikiData/WD~Yandex.Question,109012783]]'
+  - '[[_Standards/WikiData/WD~YandexGPT,118869775]]'
 industry:
-  - "[[_Standards/WikiData/WD~software_industry,880371]]"
-  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
-  - "[[_Standards/WikiData/WD~Internet,75]]"
+  - '[[_Standards/WikiData/WD~software_industry,880371]]'
+  - '[[_Standards/WikiData/WD~Internet_industry,56611700]]'
+  - '[[_Standards/WikiData/WD~Internet,75]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~public_company,891723]]"
-  - "[[_Standards/WikiData/WD~business,4830453]]"
+  - '[[_Standards/WikiData/WD~public_company,891723]]'
+  - '[[_Standards/WikiData/WD~business,4830453]]'
 child_organization_or_unit:
-  - "[[_Standards/WikiData/WD~Kinopoisk,2389071]]"
-  - "[[_Standards/WikiData/WD~Yandex_Taxi,16723302]]"
-  - "[[_Standards/WikiData/WD~Yandex.Drive,45028687]]"
-stock_exchange: "[[_Standards/WikiData/WD~Moscow_Exchange,2632892]]"
-chief_executive_officer: "[[_Standards/WikiData/WD~Arkady_Volozh,4123823]]"
+  - '[[_Standards/WikiData/WD~Kinopoisk,2389071]]'
+  - '[[_Standards/WikiData/WD~Yandex_Taxi,16723302]]'
+  - '[[_Standards/WikiData/WD~Yandex.Drive,45028687]]'
+stock_exchange: '[[_Standards/WikiData/WD~Moscow_Exchange,2632892]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Arkady_Volozh,4123823]]'
 founded_by:
-  - "[[_Standards/WikiData/WD~Arkady_Volozh,4123823]]"
-  - "[[_Standards/WikiData/WD~Ilya_Segalovich,4412749]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~search_engine,4182287]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q13202843,13202843]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Yandex,13527407]]"
+  - '[[_Standards/WikiData/WD~Arkady_Volozh,4123823]]'
+  - '[[_Standards/WikiData/WD~Ilya_Segalovich,4412749]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~search_engine,4182287]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202843,13202843]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Yandex,13527407]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Lentapedia_(full_versions),17311605]]"
-legal_form: "[[_Standards/WikiData/WD~ООО,21191682]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~Yandex_IJSC,47120065]]"
-owned_by: "[[_Standards/WikiData/WD~Yandex_IJSC,47120065]]"
-member_of: "[[_Standards/WikiData/WD~CVE_Numbering_Authority,67904121]]"
-headquarters_location: "[[_Standards/WikiData/WD~Moscow,649]]"
-influenced_by: "[[_Standards/WikiData/WD~Google,95]]"
-country: "[[_Standards/WikiData/WD~Russia,159]]"
+  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+  - '[[_Standards/WikiData/WD~Lentapedia_(full_versions),17311605]]'
+legal_form: '[[_Standards/WikiData/WD~ООО,21191682]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~Yandex_IJSC,47120065]]'
+owned_by: '[[_Standards/WikiData/WD~Yandex_IJSC,47120065]]'
+member_of: '[[_Standards/WikiData/WD~CVE_Numbering_Authority,67904121]]'
+headquarters_location: '[[_Standards/WikiData/WD~Moscow,649]]'
+influenced_by: '[[_Standards/WikiData/WD~Google,95]]'
+country: '[[_Standards/WikiData/WD~Russia,159]]'
 Similarweb_ranking: 10
 Alexa_rank: 48
 employees: 26700
@@ -106,7 +107,7 @@ official_website:
   - https://ya.ru/
   - https://yandex.com/
 official_blog_URL: https://yandex.ru/blog/company
-ISNI: "0000000458964742"
+ISNI: 0000000458964742
 Wolfram_Language_entity_code: Entity["Company", "YandexNV::3drgn"]
 TikTok_username: yandex.eda
 street_address: 119021, Москва, ул. Льва Толстого, 16

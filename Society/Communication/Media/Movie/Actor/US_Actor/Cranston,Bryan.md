@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Brian Cranston"
-- "Bryan Lee Cranston"
+  - Brian Cranston
+  - Bryan Lee Cranston
+  - Cranston,Bryan
 ---
 
 ## #has_/text_of_/abstract 

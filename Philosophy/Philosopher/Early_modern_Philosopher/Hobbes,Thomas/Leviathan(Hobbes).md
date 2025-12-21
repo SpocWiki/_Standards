@@ -1,18 +1,19 @@
 ---
 aliases:
   - Leviathan or The Matter, Forme and Power of a Commonwealth Ecclesiasticall and Civil
+  - Leviathan(Hobbes)
 has_id_wikidata: Q193034
-illustrator: "[[_Standards/WikiData/WD~Abraham_Bosse,326215]]"
-publisher: "[[_Standards/WikiData/WD~Andrew_Crooke,19271247]]"
-instance_of: "[[_Standards/WikiData/WD~written_work,47461344]]"
-derivative_work: "[[_Standards/WikiData/WD~Leviathan,58349612]]"
-has_edition_or_translation: "[[_Standards/WikiData/WD~Leviathan,113015919]]"
-has_part_s_: "[[_Standards/WikiData/WD~nasty,_brutish,_and_short,124368527]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-depicts: "[[_Standards/WikiData/WD~emotions,9415]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-country_of_origin: "[[_Standards/WikiData/WD~England,21]]"
-author: "[[_Standards/WikiData/WD~Thomas_Hobbes,37621]]"
+illustrator: '[[_Standards/WikiData/WD~Abraham_Bosse,326215]]'
+publisher: '[[_Standards/WikiData/WD~Andrew_Crooke,19271247]]'
+instance_of: '[[_Standards/WikiData/WD~written_work,47461344]]'
+derivative_work: '[[_Standards/WikiData/WD~Leviathan,58349612]]'
+has_edition_or_translation: '[[_Standards/WikiData/WD~Leviathan,113015919]]'
+has_part_s_: '[[_Standards/WikiData/WD~nasty,_brutish,_and_short,124368527]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+depicts: '[[_Standards/WikiData/WD~emotions,9415]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+country_of_origin: '[[_Standards/WikiData/WD~England,21]]'
+author: '[[_Standards/WikiData/WD~Thomas_Hobbes,37621]]'
 title: Leviathan
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leviathan%20frontispiece%20cropped%20British%20Library.jpg
 Commons_category: Leviathan (Thomas Hobbes)

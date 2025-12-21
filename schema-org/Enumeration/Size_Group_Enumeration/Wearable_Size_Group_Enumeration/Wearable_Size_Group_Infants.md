@@ -4,21 +4,23 @@ aliases:
   - wearable_size_group_infants
   - WearableSizeGroupInfants
   - is_a_wearable_size_group_infants
+  - Wearable_Size_Group_Infants
+  - Wearable Size Group Infants
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableSizeGroupEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_size_group_infants
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_size_group_infants Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

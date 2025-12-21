@@ -1,23 +1,26 @@
 ---
+aliases:
+  - Battering_Ram
+  - Battering Ram
 has_id_wikidata: Q208129
-different_from: "[[_Standards/WikiData/WD~Taran,394857]]"
+different_from: '[[_Standards/WikiData/WD~Taran,394857]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~siege_engine,655697]]"
-  - "[[_Standards/WikiData/WD~pile_driver,1339821]]"
-named_after: "[[_Standards/WikiData/WD~ram,2929800]]"
+  - '[[_Standards/WikiData/WD~siege_engine,655697]]'
+  - '[[_Standards/WikiData/WD~pile_driver,1339821]]'
+named_after: '[[_Standards/WikiData/WD~ram,2929800]]'
 IMDb_keyword: battering-ram
-instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
-Nomenclature_for_Museum_Cataloging: "8347"
-OmegaWiki_Defined_Meaning: "874262"
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+Nomenclature_for_Museum_Cataloging: 8347
+OmegaWiki_Defined_Meaning: 874262
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Battering%20ram.jpg
 Commons_category: Battering rams
 ---

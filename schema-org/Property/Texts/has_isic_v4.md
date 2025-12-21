@@ -4,22 +4,24 @@ aliases:
   - isic_v4
   - isicV4
   - has_text_of_isic_v4
+  - has_isic_v4
+  - has isic v4
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - isic
   - v4
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_isic_v4
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

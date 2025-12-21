@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ConfirmAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ConfirmAction
-- class/Thing/Action/InteractAction/CommunicateAction/InformAction/ConfirmAction
-- is_a_/ConfirmAction
-- schema-org/ConfirmAction
+  - class/ConfirmAction
+  - class/Thing/Action/InteractAction/CommunicateAction/InformAction/ConfirmAction
+  - is_a_/ConfirmAction
+  - schema-org/ConfirmAction
 tags:
-- class/FileClass
-- class/ConfirmAction
-- is_a_/ConfirmAction
-- class/Thing/Action/InteractAction/CommunicateAction/InformAction/ConfirmAction
+  - class/FileClass
+  - class/ConfirmAction
+  - is_a_/ConfirmAction
+  - class/Thing/Action/InteractAction/CommunicateAction/InformAction/ConfirmAction
 version: 2.0
 ---
 

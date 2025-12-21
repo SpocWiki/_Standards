@@ -4,22 +4,24 @@ aliases:
   - dosage_form
   - dosageForm
   - has_text_of_dosage_form
+  - has_dosage_form
+  - has dosage form
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - dosage
   - form
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_dosage_form
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

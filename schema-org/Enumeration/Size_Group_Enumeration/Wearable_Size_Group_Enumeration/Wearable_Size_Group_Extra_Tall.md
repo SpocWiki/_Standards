@@ -4,21 +4,23 @@ aliases:
   - wearable_size_group_extra_tall
   - WearableSizeGroupExtraTall
   - is_a_wearable_size_group_extra_tall
+  - Wearable_Size_Group_Extra_Tall
+  - Wearable Size Group Extra Tall
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableSizeGroupEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_size_group_extra_tall
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_size_group_extra_tall Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

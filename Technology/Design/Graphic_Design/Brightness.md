@@ -1,6 +1,7 @@
 ---
 aliases:
   - Helligkeit
+  - Brightness
 has_id_wikidata: Q221656
 ---
 

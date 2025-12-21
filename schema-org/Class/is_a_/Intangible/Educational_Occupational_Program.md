@@ -4,20 +4,22 @@ aliases:
   - educational_occupational_program
   - EducationalOccupationalProgram
   - is_an_educational_occupational_program
+  - Educational_Occupational_Program
+  - Educational Occupational Program
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - educational_occupational_program
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_educational_occupational_program Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

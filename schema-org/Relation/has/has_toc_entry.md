@@ -3,23 +3,24 @@ aliases:
   - has toc-entry
   - tocEntry
   - has_toc_entry
+  - has toc entry
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - toc_entry
   - toc
   - entry
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_toc_entry
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

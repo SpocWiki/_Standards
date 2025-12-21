@@ -4,20 +4,22 @@ aliases:
   - automotive_business
   - AutomotiveBusiness
   - is_an_automotive_business
+  - Automotive_Business
+  - Automotive Business
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - automotive_business
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_automotive_business Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

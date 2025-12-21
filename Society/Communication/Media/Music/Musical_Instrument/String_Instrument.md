@@ -3,20 +3,21 @@ aliases:
   - String Instrument
   - chordophone
   - chordophones
+  - String_Instrument
 has_id_wikidata: Q1798603
-has_part_s_: "[[_Standards/WikiData/WD~string,326426]]"
+has_part_s_: '[[_Standards/WikiData/WD~string,326426]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-subclass_of: "[[_Standards/WikiData/WD~chordophone,1051772]]"
-instance_of: "[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_String_musical_instruments,22868485]]"
-Dewey_Decimal_Classification: "787"
-Nomenclature_for_Museum_Cataloging: "10771"
-OmegaWiki_Defined_Meaning: "400958"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+subclass_of: '[[_Standards/WikiData/WD~chordophone,1051772]]'
+instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_String_musical_instruments,22868485]]'
+Dewey_Decimal_Classification: 787
+Nomenclature_for_Museum_Cataloging: 10771
+OmegaWiki_Defined_Meaning: 400958
 image: http://commons.wikimedia.org/wiki/Special:FilePath/StringInstruMAPDF.JPG
-Common_Procurement_Vocabulary_code: "37313000"
-Amazon_com_browse_node: "8882493011"
+Common_Procurement_Vocabulary_code: 37313000
+Amazon_com_browse_node: 8882493011
 Commons_category: String instruments
 ---
 

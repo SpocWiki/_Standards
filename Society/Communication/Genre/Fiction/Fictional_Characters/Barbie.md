@@ -1,15 +1,17 @@
 ---
+aliases:
+  - Barbie
 has_id_wikidata: Q167447
 instance_of:
-  - "[[_Standards/WikiData/WD~doll,168658]]"
-  - "[[_Standards/WikiData/WD~media_franchise,196600]]"
-  - "[[_Standards/WikiData/WD~brand,431289]]"
-author: "[[_Standards/WikiData/WD~Ruth_Handler,242034]]"
-owned_by: "[[_Standards/WikiData/WD~Mattel,596139]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Art+Feminism,24909800]]"
-official_color: "[[_Standards/WikiData/WD~Barbie_pink,63089713]]"
-characters: "[[_Standards/WikiData/WD~Barbara_Millicent_Roberts,109225717]]"
-named_after: "[[_Standards/WikiData/WD~Barbara_Handler,111255249]]"
+  - '[[_Standards/WikiData/WD~doll,168658]]'
+  - '[[_Standards/WikiData/WD~media_franchise,196600]]'
+  - '[[_Standards/WikiData/WD~brand,431289]]'
+author: '[[_Standards/WikiData/WD~Ruth_Handler,242034]]'
+owned_by: '[[_Standards/WikiData/WD~Mattel,596139]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+official_color: '[[_Standards/WikiData/WD~Barbie_pink,63089713]]'
+characters: '[[_Standards/WikiData/WD~Barbara_Millicent_Roberts,109225717]]'
+named_after: '[[_Standards/WikiData/WD~Barbara_Handler,111255249]]'
 social_media_followers:
   - 12800000
   - 324012

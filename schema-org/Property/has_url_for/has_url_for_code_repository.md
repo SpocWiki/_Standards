@@ -4,21 +4,22 @@ aliases:
   - code_repository
   - codeRepository
   - has_url_for_code_repository
+  - has url for code repository
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - code_repository
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_code_repository
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

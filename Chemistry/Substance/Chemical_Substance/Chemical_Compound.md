@@ -2,28 +2,30 @@
 aliases:
   - Chemical compound
   - chemische Verbindung
+  - Chemical_Compound
+  - Chemical Compound
+has_id_wikidata: Q11173
 Commons_category: Chemical compounds
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-different_from: "[[_Standards/WikiData/WD~simple_substance,2512777]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+different_from: '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 equivalent_class: http://dbpedia.org/ontology/ChemicalCompound
 has_characteristic:
-  - "[[_Standards/WikiData/WD~chemical_property,764285]]"
-  - "[[_Standards/WikiData/WD~chemical_nomenclature,6503924]]"
-  - "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
-has_id_wikidata: Q11173
+  - '[[_Standards/WikiData/WD~chemical_property,764285]]'
+  - '[[_Standards/WikiData/WD~chemical_nomenclature,6503924]]'
+  - '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~atom,9121]]"
-  - "[[_Standards/WikiData/WD~chemical_bond,44424]]"
+  - '[[_Standards/WikiData/WD~atom,9121]]'
+  - '[[_Standards/WikiData/WD~chemical_bond,44424]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~moiety,23005640]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - '[[_Standards/WikiData/WD~moiety,23005640]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]"
-  - "[[_Standards/WikiData/WD~second-order_class,24017414]]"
-is_metaclass_for: "[[_Standards/WikiData/WD~chemical_substance,79529]]"
+  - '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]'
+  - '[[_Standards/WikiData/WD~second-order_class,24017414]]'
+is_metaclass_for: '[[_Standards/WikiData/WD~chemical_substance,79529]]'
 OmegaWiki_Defined_Meaning: 496071
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-konposatu%20kimiko.wav
 properties_for_this_type:
@@ -59,14 +61,14 @@ properties_for_this_type:
   - EC number
   - InChIKey
   - InChI
-studied_in: "[[_Standards/WikiData/WD~chemistry,2329]]"
+studied_in: '[[_Standards/WikiData/WD~chemistry,2329]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~pure_substance,578779]]"
-  - "[[_Standards/WikiData/WD~chemical_component,20026787]]"
+  - '[[_Standards/WikiData/WD~pure_substance,578779]]'
+  - '[[_Standards/WikiData/WD~chemical_component,20026787]]'
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Q18987561,18987561]]"
-  - "[[_Standards/WikiData/WD~Template_Chemical_compounds_by_element,114323532]]"
-  - "[[_Standards/WikiData/WD~Template_Chembox,52426]]"
+  - '[[_Standards/WikiData/WD~Q18987561,18987561]]'
+  - '[[_Standards/WikiData/WD~Template_Chemical_compounds_by_element,114323532]]'
+  - '[[_Standards/WikiData/WD~Template_Chembox,52426]]'
 Wolfram_Language_entity_type: Chemical
 ---
 

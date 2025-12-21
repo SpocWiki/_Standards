@@ -3,13 +3,15 @@ aliases:
   - Spanish conquest Inca Empire
   - Spanish conquest of the Inca Empire
   - Spanish_conquest_of_the_Inca_Empire
+  - 1532-Spanish_Conquest-Inca_Empire+1572
+  - 1532-Spanish Conquest-Inca Empire+1572
 has_id_wikidata: Q636771
-instance_of: "[[_Standards/WikiData/WD~conquest,1361229]]"
+instance_of: '[[_Standards/WikiData/WD~conquest,1361229]]'
 participant:
-  - "[[_Standards/WikiData/WD~Inca_civilization,3404008]]"
-  - "[[_Standards/WikiData/WD~Francisco_Pizarro,44741]]"
+  - '[[_Standards/WikiData/WD~Inca_civilization,3404008]]'
+  - '[[_Standards/WikiData/WD~Francisco_Pizarro,44741]]'
 end_time: 1572-01-01T00:00:00Z
-locations: "[[_Standards/WikiData/WD~Inca_Empire,28573]]"
+locations: '[[_Standards/WikiData/WD~Inca_Empire,28573]]'
 point_in_time: 1532-01-01T00:00:00Z
 start_time: 1532-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Inca-Spanish%20confrontation.JPG

@@ -4,45 +4,46 @@ aliases:
   - 蘇頌
   - So͘ Siōng
   - Zirong
+  - Su_Song
 has_id_wikidata: Q1265657
-place_of_birth: "[[_Standards/WikiData/WD~Quanzhou,68695]]"
+place_of_birth: '[[_Standards/WikiData/WD~Quanzhou,68695]]'
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~pharmacist,105186]]"
-  - "[[_Standards/WikiData/WD~astrologer,155647]]"
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~diplomat,193391]]"
-  - "[[_Standards/WikiData/WD~inventor,205375]]"
-  - "[[_Standards/WikiData/WD~zoologist,350979]]"
-  - "[[_Standards/WikiData/WD~cartographer,1734662]]"
-  - "[[_Standards/WikiData/WD~botanist,2374149]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~civil_engineer,13582652]]"
-  - "[[_Standards/WikiData/WD~metallurgist,18576582]]"
-  - "[[_Standards/WikiData/WD~astronomer,11063]]"
-  - "[[_Standards/WikiData/WD~naturalist,18805]]"
-  - "[[_Standards/WikiData/WD~physician,39631]]"
-  - "[[_Standards/WikiData/WD~architect,42973]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Northern_Song_dynasty,319460]]"
-family_name: "[[_Standards/WikiData/WD~Su,450129]]"
-described_by_source: "[[_Standards/WikiData/WD~History_of_Song,1147260]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-notable_work: "[[_Standards/WikiData/WD~Q11093455,11093455]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~pharmacist,105186]]'
+  - '[[_Standards/WikiData/WD~astrologer,155647]]'
+  - '[[_Standards/WikiData/WD~mathematician,170790]]'
+  - '[[_Standards/WikiData/WD~diplomat,193391]]'
+  - '[[_Standards/WikiData/WD~inventor,205375]]'
+  - '[[_Standards/WikiData/WD~zoologist,350979]]'
+  - '[[_Standards/WikiData/WD~cartographer,1734662]]'
+  - '[[_Standards/WikiData/WD~botanist,2374149]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~civil_engineer,13582652]]'
+  - '[[_Standards/WikiData/WD~metallurgist,18576582]]'
+  - '[[_Standards/WikiData/WD~astronomer,11063]]'
+  - '[[_Standards/WikiData/WD~naturalist,18805]]'
+  - '[[_Standards/WikiData/WD~physician,39631]]'
+  - '[[_Standards/WikiData/WD~architect,42973]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Northern_Song_dynasty,319460]]'
+family_name: '[[_Standards/WikiData/WD~Su,450129]]'
+described_by_source: '[[_Standards/WikiData/WD~History_of_Song,1147260]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+notable_work: '[[_Standards/WikiData/WD~Q11093455,11093455]]'
 position_held: "[[_Standards/WikiData/WD~ambassador_of_the_People's_Republic_of_China,29898672]]"
 child:
-  - "[[_Standards/WikiData/WD~Su_Jing,45362399]]"
-  - "[[_Standards/WikiData/WD~Su_Xi,45362407]]"
-  - "[[_Standards/WikiData/WD~Su_Xi,45362412]]"
-  - "[[_Standards/WikiData/WD~Su_Jiong,45372038]]"
-  - "[[_Standards/WikiData/WD~Su_Jia,45372102]]"
-father: "[[_Standards/WikiData/WD~Su_Shen,45365965]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+  - '[[_Standards/WikiData/WD~Su_Jing,45362399]]'
+  - '[[_Standards/WikiData/WD~Su_Xi,45362407]]'
+  - '[[_Standards/WikiData/WD~Su_Xi,45362412]]'
+  - '[[_Standards/WikiData/WD~Su_Jiong,45372038]]'
+  - '[[_Standards/WikiData/WD~Su_Jia,45372102]]'
+father: '[[_Standards/WikiData/WD~Su_Shen,45365965]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_birth: 1020-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%E8%98%87%E9%A0%8C%E5%85%A8%E8%BA%AB.jpg
-ISNI: "0000000063180134"
-NLC_authorities: "000064116"
+ISNI: 0000000063180134
+NLC_authorities: 000064116
 CYT_CCS: AC000249129
 Commons_category: Su Song
 courtesy_name: 子容

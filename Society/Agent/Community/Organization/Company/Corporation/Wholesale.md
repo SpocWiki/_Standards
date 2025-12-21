@@ -1,11 +1,13 @@
 ---
+aliases:
+  - Wholesale
 has_id_wikidata: Q220695
-opposite_of: "[[_Standards/WikiData/WD~retail,126793]]"
-instance_of: "[[_Standards/WikiData/WD~industry,268592]]"
-subclass_of: "[[_Standards/WikiData/WD~trade,601401]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~wholesale_trade,_except_of_motor_vehicles_and_motorcycles,29584308]]"
-part_of: "[[_Standards/WikiData/WD~tertiary_sector_of_the_economy,55638]]"
-OmegaWiki_Defined_Meaning: "533617"
+opposite_of: '[[_Standards/WikiData/WD~retail,126793]]'
+instance_of: '[[_Standards/WikiData/WD~industry,268592]]'
+subclass_of: '[[_Standards/WikiData/WD~trade,601401]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~wholesale_trade,_except_of_motor_vehicles_and_motorcycles,29584308]]'
+part_of: '[[_Standards/WikiData/WD~tertiary_sector_of_the_economy,55638]]'
+OmegaWiki_Defined_Meaning: 533617
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Birmingham%20Wholesale%20Markets.jpg
 IPTC_NewsCode: mediatopic/20000255
 Commons_category: Wholesale trade
@@ -13,13 +15,13 @@ dv_is_/same_as:
   - path: _Standards/WikiData/WD~wholesale,220695
     embed: false
     type: file
-  - "[Wholesale](Wholesale.md)"
-  - "[Wholesale.public](/_public/Society/Economics/Business/Business-Entity/Wholesale.public.md)"
-  - "[Wholesale.internal](/_internal/Society/Economics/Business/Business-Entity/Wholesale.internal.md)"
-  - "[Wholesale.protect](/_protect/Society/Economics/Business/Business-Entity/Wholesale.protect.md)"
-  - "[Wholesale.private](/_private/Society/Economics/Business/Business-Entity/Wholesale.private.md)"
-  - "[Wholesale.personal](/_personal/Society/Economics/Business/Business-Entity/Wholesale.personal.md)"
-  - "[Wholesale.secret](/_secret/Society/Economics/Business/Business-Entity/Wholesale.secret.md)"
+  - '[Wholesale](Wholesale.md)'
+  - '[Wholesale.public](/_public/Society/Economics/Business/Business-Entity/Wholesale.public.md)'
+  - '[Wholesale.internal](/_internal/Society/Economics/Business/Business-Entity/Wholesale.internal.md)'
+  - '[Wholesale.protect](/_protect/Society/Economics/Business/Business-Entity/Wholesale.protect.md)'
+  - '[Wholesale.private](/_private/Society/Economics/Business/Business-Entity/Wholesale.private.md)'
+  - '[Wholesale.personal](/_personal/Society/Economics/Business/Business-Entity/Wholesale.personal.md)'
+  - '[Wholesale.secret](/_secret/Society/Economics/Business/Business-Entity/Wholesale.secret.md)'
 dv_is_/opposite_of:
   path: _Standards/Society/Agent/Organization/Corporation/Retail.md
   embed: false
@@ -28,13 +30,13 @@ dv_is_same_as:
   - path: _Standards/WikiData/WD~wholesale,220695
     embed: false
     type: file
-  - "[Wholesale](Wholesale.md)"
-  - "[Wholesale.public](/_public/Society/Economics/Business/Business-Entity/Wholesale.public.md)"
-  - "[Wholesale.internal](/_internal/Society/Economics/Business/Business-Entity/Wholesale.internal.md)"
-  - "[Wholesale.protect](/_protect/Society/Economics/Business/Business-Entity/Wholesale.protect.md)"
-  - "[Wholesale.private](/_private/Society/Economics/Business/Business-Entity/Wholesale.private.md)"
-  - "[Wholesale.personal](/_personal/Society/Economics/Business/Business-Entity/Wholesale.personal.md)"
-  - "[Wholesale.secret](/_secret/Society/Economics/Business/Business-Entity/Wholesale.secret.md)"
+  - '[Wholesale](Wholesale.md)'
+  - '[Wholesale.public](/_public/Society/Economics/Business/Business-Entity/Wholesale.public.md)'
+  - '[Wholesale.internal](/_internal/Society/Economics/Business/Business-Entity/Wholesale.internal.md)'
+  - '[Wholesale.protect](/_protect/Society/Economics/Business/Business-Entity/Wholesale.protect.md)'
+  - '[Wholesale.private](/_private/Society/Economics/Business/Business-Entity/Wholesale.private.md)'
+  - '[Wholesale.personal](/_personal/Society/Economics/Business/Business-Entity/Wholesale.personal.md)'
+  - '[Wholesale.secret](/_secret/Society/Economics/Business/Business-Entity/Wholesale.secret.md)'
 dv_is_opposite_of:
   path: _Standards/Society/Agent/Organization/Corporation/Retail.md
   embed: false

@@ -4,20 +4,22 @@ aliases:
   - currency_conversion_service
   - CurrencyConversionService
   - is_a_currency_conversion_service
+  - Currency_Conversion_Service
+  - Currency Conversion Service
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - currency_conversion_service
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_currency_conversion_service Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Ronald Knox"
+  - Ronald Knox
+  - Knox,Ronald
 ---
 
 # [[Knox,Ronald]] 

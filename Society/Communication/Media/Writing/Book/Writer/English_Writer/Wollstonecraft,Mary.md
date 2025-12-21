@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Mary Wollstonecraft"
+  - Mary Wollstonecraft
+  - Wollstonecraft,Mary
 ---
 
 # [[Wollstonecraft,Mary]] 

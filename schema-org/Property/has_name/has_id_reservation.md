@@ -4,22 +4,23 @@ aliases:
   - id_reservation
   - reservationId
   - has_id_reservation
+  - has id reservation
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - reservation
   - id
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_id_reservation
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

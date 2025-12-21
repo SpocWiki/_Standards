@@ -1,27 +1,28 @@
 ---
 aliases:
   - 漫画;
+  - Manga
 has_id_wikidata: Q8274
 practiced_by:
-  - "[[_Standards/WikiData/WD~mangaka,191633]]"
-  - "[[_Standards/WikiData/WD~manga_editor,11565578]]"
+  - '[[_Standards/WikiData/WD~mangaka,191633]]'
+  - '[[_Standards/WikiData/WD~manga_editor,11565578]]'
 different_from:
-  - "[[_Standards/WikiData/WD~manhwa,562214]]"
-  - "[[_Standards/WikiData/WD~manhua,754669]]"
-  - "[[_Standards/WikiData/WD~anime,1107]]"
+  - '[[_Standards/WikiData/WD~manhwa,562214]]'
+  - '[[_Standards/WikiData/WD~manhua,754669]]'
+  - '[[_Standards/WikiData/WD~anime,1107]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_work,627436]]"
-  - "[[_Standards/WikiData/WD~comic_genre,20087698]]"
-  - "[[_Standards/WikiData/WD~comic_format,26971562]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_manga,2248316]]"
+  - '[[_Standards/WikiData/WD~field_of_work,627436]]'
+  - '[[_Standards/WikiData/WD~comic_genre,20087698]]'
+  - '[[_Standards/WikiData/WD~comic_format,26971562]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_manga,2248316]]'
 part_of:
-  - "[[_Standards/WikiData/WD~anime_and_manga_genre,4178140]]"
-  - "[[_Standards/WikiData/WD~anime_and_manga,10901350]]"
-subclass_of: "[[_Standards/WikiData/WD~comics,1004]]"
-country_of_origin: "[[_Standards/WikiData/WD~Japan,17]]"
-country: "[[_Standards/WikiData/WD~Japan,17]]"
+  - '[[_Standards/WikiData/WD~anime_and_manga_genre,4178140]]'
+  - '[[_Standards/WikiData/WD~anime_and_manga,10901350]]'
+subclass_of: '[[_Standards/WikiData/WD~comics,1004]]'
+country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
+country: '[[_Standards/WikiData/WD~Japan,17]]'
 Commons_category: Manga
-OmegaWiki_Defined_Meaning: "877884"
+OmegaWiki_Defined_Meaning: 877884
 GitHub_topic: manga
 subreddit: manga
 hashtag: manga

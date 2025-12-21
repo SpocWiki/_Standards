@@ -1,7 +1,7 @@
 ---
 aliases:
-- Jerk
-- Jolt
+  - Jerk
+  - Jolt
 ---
 
 # [[Jerk]] 

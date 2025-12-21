@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Afonso Henriques"
+  - Afonso Henriques
+  - Afonso_I_of_Portugal
+  - Afonso I of Portugal
 has_id_wikidata: Q587697
 ---
 

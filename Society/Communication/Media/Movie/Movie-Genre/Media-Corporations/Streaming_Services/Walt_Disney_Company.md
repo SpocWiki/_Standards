@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Walt Disney Company"
+  - Walt Disney Company
+  - Walt_Disney_Company
 ---
 
 ## #has_/text_of_/abstract 

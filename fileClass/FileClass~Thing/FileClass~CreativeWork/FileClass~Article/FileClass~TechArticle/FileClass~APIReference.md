@@ -1,40 +1,42 @@
 ---
-excludes: 
+aliases:
+  - FileClass~APIReference
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle
 fields:
-- id: gc2stb
-  name: AssemblyVersion
-  options: {}
-  type: Input
-  path: ''
-- id: DouyNC
-  name: ExecutableLibraryName
-  options: {}
-  type: Input
-  path: ''
-- id: xve11U
-  name: ProgrammingModel
-  options: {}
-  type: Input
-  path: ''
-- id: AhxkQ0
-  name: TargetPlatform
-  options: {}
-  type: Input
-  path: ''
+  - id: gc2stb
+    name: AssemblyVersion
+    options: {}
+    type: Input
+    path: ''
+  - id: DouyNC
+    name: ExecutableLibraryName
+    options: {}
+    type: Input
+    path: ''
+  - id: xve11U
+    name: ProgrammingModel
+    options: {}
+    type: Input
+    path: ''
+  - id: AhxkQ0
+    name: TargetPlatform
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/APIReference
-- class/Thing/CreativeWork/Article/TechArticle/APIReference
-- is_an_/APIReference
-- schema-org/APIReference
+  - class/APIReference
+  - class/Thing/CreativeWork/Article/TechArticle/APIReference
+  - is_an_/APIReference
+  - schema-org/APIReference
 tags:
-- class/FileClass
-- class/APIReference
-- '#is_an_/APIReference'
-- class/Thing/CreativeWork/Article/TechArticle/APIReference
+  - class/FileClass
+  - class/APIReference
+  - '#is_an_/APIReference'
+  - class/Thing/CreativeWork/Article/TechArticle/APIReference
 version: 2.0
 ---
 

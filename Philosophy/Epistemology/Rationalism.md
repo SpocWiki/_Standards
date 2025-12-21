@@ -1,13 +1,14 @@
 ---
 aliases:
   - Rationalismus
+  - Rationalism
 has_id_wikidata: Q483024
-different_from: "[[_Standards/WikiData/WD~rationality,938185]]"
-subclass_of: "[[_Standards/WikiData/WD~philosophical_concept,33104279]]"
-part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-described_by_source: "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Rationalism,109790424]]"
-practiced_by: "[[_Standards/WikiData/WD~rationalist,135908423]]"
+different_from: '[[_Standards/WikiData/WD~rationality,938185]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophical_concept,33104279]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Rationalism,109790424]]'
+practiced_by: '[[_Standards/WikiData/WD~rationalist,135908423]]'
 Library_of_Congress_Classification:
   - B833.A1-B833.Z
   - BL2700-BL2790

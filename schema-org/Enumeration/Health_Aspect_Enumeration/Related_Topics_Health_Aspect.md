@@ -4,21 +4,23 @@ aliases:
   - related_topics_health_aspect
   - RelatedTopicsHealthAspect
   - is_a_related_topics_health_aspect
+  - Related_Topics_Health_Aspect
+  - Related Topics Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - related_topics_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_related_topics_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

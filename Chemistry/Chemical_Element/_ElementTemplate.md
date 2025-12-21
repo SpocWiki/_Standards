@@ -1,6 +1,9 @@
 ---
+aliases:
+  - _ElementTemplate
+  - ' ElementTemplate'
 tags:
-- chemic/Element
+  - chemic/Element
 type: Element
 ---
 

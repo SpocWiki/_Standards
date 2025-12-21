@@ -4,21 +4,23 @@ aliases:
   - dangerous_good_consideration
   - DangerousGoodConsideration
   - is_a_dangerous_good_consideration
+  - Dangerous_Good_Consideration
+  - Dangerous Good Consideration
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: AdultOrientedEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - dangerous_good_consideration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_dangerous_good_consideration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

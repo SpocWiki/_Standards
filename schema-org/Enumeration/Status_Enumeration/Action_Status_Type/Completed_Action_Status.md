@@ -4,21 +4,23 @@ aliases:
   - completed_action_status
   - CompletedActionStatus
   - is_a_completed_action_status
+  - Completed_Action_Status
+  - Completed Action Status
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: ActionStatusType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - completed_action_status
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_completed_action_status Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

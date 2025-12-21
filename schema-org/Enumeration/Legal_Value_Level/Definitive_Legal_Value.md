@@ -4,21 +4,23 @@ aliases:
   - definitive_legal_value
   - DefinitiveLegalValue
   - is_a_definitive_legal_value
+  - Definitive_Legal_Value
+  - Definitive Legal Value
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: LegalValueLevel
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - definitive_legal_value
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_definitive_legal_value Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

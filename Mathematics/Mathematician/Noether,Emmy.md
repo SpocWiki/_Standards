@@ -3,6 +3,7 @@ aliases:
   - Amalie Emmy Noether
   - Emmy Noether
   - Noether
+  - Noether,Emmy
 ---
 
 # [[Noether,Emmy]] 

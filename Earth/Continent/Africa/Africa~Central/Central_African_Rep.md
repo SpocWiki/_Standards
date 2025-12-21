@@ -2,8 +2,10 @@
 aliases:
   - Central African Republic
   - Central_African_Republic
-confidential: public
+  - Central_African_Rep
+  - Central African Rep
 has_id_wikidata: Q929
+confidential: public
 isDeleted: false
 location:
   - 4.36667
@@ -233,7 +235,7 @@ top_level_Internet_domain: "[[_Standards/WikiData/WD~.cf,41191]]"
 Human_Development_Index: 0.404
 official_observer_status_in_organisation: "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
 Gini_coefficient: 56.2
-IAB_code: "1427"
+IAB_code: 1427
 head_of_state: "[[_Standards/WikiData/WD~Faustin_Archange_Touadéra,57758]]"
 birth_rate:
   - 41.92
@@ -241,20 +243,20 @@ birth_rate:
   - 42.175
   - 42.344
 total_fertility_rate: 4.286
-mobile_country_code: "623"
-ISO_3166_1_numeric_code: "140"
-M49_code: "140"
+mobile_country_code: 623
+ISO_3166_1_numeric_code: 140
+M49_code: 140
 death_rate:
   - 10.873
   - 11.003
   - 11.041
   - 11.393
-maritime_identification_digits: "612"
+maritime_identification_digits: 612
 life_expectancy: 52.171
-OmegaWiki_Defined_Meaning: "154162"
+OmegaWiki_Defined_Meaning: 154162
 licence_plate_code: RCA
-ISNI: "0000000121686038"
-INSEE_countries_and_foreign_territories_code: "99323"
+ISNI: 121686038
+INSEE_countries_and_foreign_territories_code: 99323
 female_population:
   - 2670940
   - 2603472
@@ -374,8 +376,8 @@ Unicode_character: 🇨🇫
 nominal_GDP:
   - 2516498412
   - 2382618615
-telephone_country_code: "+236"
-U_S_National_Archives_Identifier: "10035838"
+telephone_country_code: 236
+U_S_National_Archives_Identifier: 10035838
 Dewey_Decimal_Classification: 2--6741
 Commons_category: Central African Republic
 geoshape: http://commons.wikimedia.org/data/main/Data:Central+African+Republic.map
@@ -386,8 +388,8 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Zentralafrikanesch%20Republik.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9%20%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7%20%D8%A7%D9%84%D9%88%D8%B3%D8%B7%D9%89.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Republica%20Centrafrican%C4%83.wav
-GS1_GPC_code: "77030100"
-P8189: "987007547862205171"
+GS1_GPC_code: 77030100
+P8189: 987007547862205200
 UMLS_CUI: C0007673
 subreddit: CAR_
 CIVICUS_Monitor_country_entry: central-african-republic

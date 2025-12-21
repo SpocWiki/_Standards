@@ -3,23 +3,25 @@ aliases:
   - Häusliche Gewalt
   - Domestic violence
   - domestic abuse
+  - Domestic_Violence
+  - Domestic Violence
 has_id_wikidata: Q156537
 subclass_of:
-  - "[[_Standards/WikiData/WD~crime,83267]]"
-  - "[[_Standards/WikiData/WD~violence,124490]]"
-  - "[[_Standards/WikiData/WD~cause_of_death,1931388]]"
-  - "[[_Standards/WikiData/WD~topic,26256810]]"
-  - "[[_Standards/WikiData/WD~risk_source,86923152]]"
+  - '[[_Standards/WikiData/WD~crime,83267]]'
+  - '[[_Standards/WikiData/WD~violence,124490]]'
+  - '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
+  - '[[_Standards/WikiData/WD~topic,26256810]]'
+  - '[[_Standards/WikiData/WD~risk_source,86923152]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~oppression,252000]]"
+  - '[[_Standards/WikiData/WD~oppression,252000]]'
   - "[[_Standards/WikiData/WD~women's_health,8031191]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_domestic_violence,7112609]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q11455425,11455425]]"
-has_part_s_: "[[_Standards/WikiData/WD~parental_abuse_by_children_in_Islam,12227478]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Domestic_violence,22767157]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
-different_from: "[[_Standards/WikiData/WD~Q124347700,124347700]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_crime,130583773]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_domestic_violence,7112609]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q11455425,11455425]]'
+has_part_s_: '[[_Standards/WikiData/WD~parental_abuse_by_children_in_Islam,12227478]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Domestic_violence,22767157]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+different_from: '[[_Standards/WikiData/WD~Q124347700,124347700]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_crime,130583773]]'
 Archive_of_Our_Own_tag:
   - Abuse
   - Domestic Violence

@@ -4,23 +4,25 @@ aliases:
   - universal gravitational constant
   - Newtonian constant of gravitation
   - Cavendish gravitational constant
+  - Gravitational_Constant
+  - Gravitational Constant
 has_id_wikidata: Q18373
 instance_of:
-  - "[[_Standards/WikiData/WD~physical_constant,173227]]"
-  - "[[_Standards/WikiData/WD~UCUM_constant,83155724]]"
+  - '[[_Standards/WikiData/WD~physical_constant,173227]]'
+  - '[[_Standards/WikiData/WD~UCUM_constant,83155724]]'
 different_from:
-  - "[[_Standards/WikiData/WD~standard_acceleration_of_free_fall,13400897]]"
-  - "[[_Standards/WikiData/WD~gravitational_constant,78337869]]"
-  - "[[_Standards/WikiData/WD~gravitational_coupling_constant,32021]]"
-recommended_unit_of_measurement: "[[_Standards/WikiData/WD~cubic_metre_per_kilogram_square_second,78336909]]"
-notation: "[[_Standards/WikiData/WD~G,9739]]"
+  - '[[_Standards/WikiData/WD~standard_acceleration_of_free_fall,13400897]]'
+  - '[[_Standards/WikiData/WD~gravitational_constant,78337869]]'
+  - '[[_Standards/WikiData/WD~gravitational_coupling_constant,32021]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~cubic_metre_per_kilogram_square_second,78336909]]'
+notation: '[[_Standards/WikiData/WD~G,9739]]'
 numeric_value: 6.6743e-11
 IEV_number: 113-03-17
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>G</mi></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gravitational%20constant.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%B7%20%E0%A6%A7%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AC%E0%A6%95.wav
 Wolfram_Language_unit_code: '"GravitationalConstant"'
-UCUM_code: "[G]"
+UCUM_code: '[G]'
 Wolfram_Language_entity_code: Entity["PhysicalConstant", "GravitationalConstant"]
 Commons_category: Gravitational constant
 ---

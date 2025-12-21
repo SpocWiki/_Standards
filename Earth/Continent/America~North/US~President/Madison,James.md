@@ -1,25 +1,25 @@
 ---
 aliases:
-- "James Madison"
-- Madison,James
-- James_Madison
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - James Madison
+  - Madison,James
+  - James_Madison
 has_id_wikidata: Q11813
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Madison,James
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Madison,James
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- 
+  - ''
 title: Madison,James
 type: private_note
 ---

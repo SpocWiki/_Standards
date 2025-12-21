@@ -9,45 +9,47 @@ aliases:
   - Gypsy
   - Zigeuner
   - Gypsies
+  - Romani_People
+  - Romani People
 has_id_wikidata: Q8060
 demonym:
   - rom
   - romă
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~gypsy,76475]]"
-named_after: "[[_Standards/WikiData/WD~Arameans,185461]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~gypsy,76475]]'
+named_after: '[[_Standards/WikiData/WD~Arameans,185461]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Romanians,485150]]"
-  - "[[_Standards/WikiData/WD~Romans,1651392]]"
-flag: "[[_Standards/WikiData/WD~flag_of_the_Romani_people,524521]]"
+  - '[[_Standards/WikiData/WD~Romanians,485150]]'
+  - '[[_Standards/WikiData/WD~Romans,1651392]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_Romani_people,524521]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Geographical_statistical_dictionary_of_the_Russian_Empire,4135594]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
-anthem: "[[_Standards/WikiData/WD~Gelem,_Gelem,950385]]"
-opposite_of: "[[_Standards/WikiData/WD~gadjo,1143834]]"
-subclass_of: "[[_Standards/WikiData/WD~Indo_Aryan_peoples,1267849]]"
-studied_by: "[[_Standards/WikiData/WD~Romani_studies,2037434]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Geographical_statistical_dictionary_of_the_Russian_Empire,4135594]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+anthem: '[[_Standards/WikiData/WD~Gelem,_Gelem,950385]]'
+opposite_of: '[[_Standards/WikiData/WD~gadjo,1143834]]'
+subclass_of: '[[_Standards/WikiData/WD~Indo_Aryan_peoples,1267849]]'
+studied_by: '[[_Standards/WikiData/WD~Romani_studies,2037434]]'
 native_language:
-  - "[[_Standards/WikiData/WD~Lomavren,2495696]]"
-  - "[[_Standards/WikiData/WD~Romani,13201]]"
-  - "[[_Standards/WikiData/WD~Domari,35394]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Romani_people,2606353]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Romani_people,14615008]]"
+  - '[[_Standards/WikiData/WD~Lomavren,2495696]]'
+  - '[[_Standards/WikiData/WD~Romani,13201]]'
+  - '[[_Standards/WikiData/WD~Domari,35394]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Romani_people,2606353]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Romani_people,14615008]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~itinerant_groups_of_Europe,17150753]]"
-  - "[[_Standards/WikiData/WD~ethnic_group,41710]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~International_Roma_Day_Edit_a_thon,117352722]]"
+  - '[[_Standards/WikiData/WD~itinerant_groups_of_Europe,17150753]]'
+  - '[[_Standards/WikiData/WD~ethnic_group,41710]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~International_Roma_Day_Edit_a_thon,117352722]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Islam,432]]"
-  - "[[_Standards/WikiData/WD~Buddhism,748]]"
-  - "[[_Standards/WikiData/WD~Christianity,5043]]"
-  - "[[_Standards/WikiData/WD~Judaism,9268]]"
-indigenous_to: "[[_Standards/WikiData/WD~India,668]]"
+  - '[[_Standards/WikiData/WD~Islam,432]]'
+  - '[[_Standards/WikiData/WD~Buddhism,748]]'
+  - '[[_Standards/WikiData/WD~Christianity,5043]]'
+  - '[[_Standards/WikiData/WD~Judaism,9268]]'
+indigenous_to: '[[_Standards/WikiData/WD~India,668]]'
 population: 4373000
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Romani%20people.svg
 Commons_category: Romani people

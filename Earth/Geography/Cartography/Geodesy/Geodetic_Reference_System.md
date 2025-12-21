@@ -1,10 +1,12 @@
 ---
 aliases:
   - Geodetic reference system
+  - Geodetic_Reference_System
+  - Geodetic Reference System
 has_id_wikidata: Q1502887
-part_of: "[[_Standards/WikiData/WD~spatial_reference_system,161779]]"
-subclass_of: "[[_Standards/WikiData/WD~frame_of_reference,184876]]"
-has_use: "[[_Standards/WikiData/WD~reference_ellipsoid,1335878]]"
+part_of: '[[_Standards/WikiData/WD~spatial_reference_system,161779]]'
+subclass_of: '[[_Standards/WikiData/WD~frame_of_reference,184876]]'
+has_use: '[[_Standards/WikiData/WD~reference_ellipsoid,1335878]]'
 properties_for_this_type: EPSG CRS
 Wikidata_property: EPSG CRS
 Commons_category: Geodetic datum

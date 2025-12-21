@@ -3,13 +3,14 @@ aliases:
   - Court of Arbitration for Sport
   - Tribunal arbitral du sport
   - International Council of Arbitration for Sport
+  - Court_of_Arbitration_for_Sport
 has_id_wikidata: Q659499
-instance_of: "[[_Standards/WikiData/WD~sports_tribunal,2312501]]"
-legal_form: "[[_Standards/WikiData/WD~association,15177651]]"
-operator: "[[_Standards/WikiData/WD~International_Council_of_Arbitration_for_Sport,15820277]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Lausanne,807]]"
-country: "[[_Standards/WikiData/WD~Switzerland,39]]"
-founded_by: "[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]"
+instance_of: '[[_Standards/WikiData/WD~sports_tribunal,2312501]]'
+legal_form: '[[_Standards/WikiData/WD~association,15177651]]'
+operator: '[[_Standards/WikiData/WD~International_Council_of_Arbitration_for_Sport,15820277]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Lausanne,807]]'
+country: '[[_Standards/WikiData/WD~Switzerland,39]]'
+founded_by: '[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]'
 short_name:
   - CAS
   - TAS
@@ -17,7 +18,7 @@ inception: 1984-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Court%20of%20Arbitration%20for%20Sport%20-%20Lausanne%202.jpg
 Commons_category: Court of Arbitration for Sport
 official_website: https://www.tas-cas.org/
-ISNI: "0000000122326253"
+ISNI: 0000000122326253
 native_label:
   - Court of Arbitration for Sport
   - Tribunal Arbitral du Sport

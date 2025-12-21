@@ -4,14 +4,16 @@ aliases:
   - watering pot
   - watering jug
   - Gießkanne
+  - Watering_Can
+  - Watering Can
 has_id_wikidata: Q50643
-has_use: "[[_Standards/WikiData/WD~moisture,217651]]"
+has_use: '[[_Standards/WikiData/WD~moisture,217651]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_container,987767]]"
-  - "[[_Standards/WikiData/WD~garden_tool,1494647]]"
-different_from: "[[_Standards/WikiData/WD~water_jug,47493881]]"
-Nomenclature_for_Museum_Cataloging: "8972"
-GS1_GPC_code: "10003267"
+  - '[[_Standards/WikiData/WD~physical_container,987767]]'
+  - '[[_Standards/WikiData/WD~garden_tool,1494647]]'
+different_from: '[[_Standards/WikiData/WD~water_jug,47493881]]'
+Nomenclature_for_Museum_Cataloging: 8972
+GS1_GPC_code: 10003267
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Watering%20can%20for%20bonsai.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/MetalwateringcansDec08.jpg

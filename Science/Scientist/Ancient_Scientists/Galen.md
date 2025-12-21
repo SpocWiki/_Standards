@@ -1,8 +1,9 @@
 ---
 aliases:
-- "Aelius Galenus"
-- "Claudius Galenus"
-- "Galen of Pergamon"
+  - Aelius Galenus
+  - Claudius Galenus
+  - Galen of Pergamon
+  - Galen
 ---
 
 ## #has_/text_of_/abstract 

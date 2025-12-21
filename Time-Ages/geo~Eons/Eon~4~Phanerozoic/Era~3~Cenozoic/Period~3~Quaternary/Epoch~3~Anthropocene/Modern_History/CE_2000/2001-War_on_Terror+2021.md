@@ -1,29 +1,31 @@
 ---
 aliases:
   - war on terror
-  - Global War on Terrorism 
+  - Global War on Terrorism
   - GWOT
+  - 2001-War_on_Terror+2021
+  - 2001-War on Terror+2021
 has_id_wikidata: Q185729
 short_name: GWOT
 start_time: 2001-09-11T00:00:00Z
 end_time: 2021-08-30T00:00:00Z
 participant:
-  - "[[_Standards/WikiData/WD~Turkistan_Islamic_Party,1674170]]"
-  - "[[_Standards/WikiData/WD~Islamic_State,2429253]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~Turkistan_Islamic_Party,1674170]]'
+  - '[[_Standards/WikiData/WD~Islamic_State,2429253]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Al_Qaeda,34490]]"
-  - "[[_Standards/WikiData/WD~Taliban,42418]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-described_by_source: "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
-facet_of: "[[_Standards/WikiData/WD~terrorism,7283]]"
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+  - '[[_Standards/WikiData/WD~Russia,159]]'
+  - '[[_Standards/WikiData/WD~Al_Qaeda,34490]]'
+  - '[[_Standards/WikiData/WD~Taliban,42418]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+described_by_source: '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+facet_of: '[[_Standards/WikiData/WD~terrorism,7283]]'
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/War%20on%20Terror%20montage1.png
 described_at_URL: https://wikispooks.com/wiki/War_on_Terror
-U_S_National_Archives_Identifier: "10675015"
+U_S_National_Archives_Identifier: 10675015
 Commons_category: War on terror
 ---
 

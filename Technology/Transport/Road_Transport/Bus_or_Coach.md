@@ -4,20 +4,22 @@ aliases:
   - bus_or_coach
   - BusOrCoach
   - is_a_bus_or_coach
+  - Bus_or_Coach
+  - Bus or Coach
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - bus_or_coach
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_bus_or_coach Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

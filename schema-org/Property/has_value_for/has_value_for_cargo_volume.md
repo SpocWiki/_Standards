@@ -4,21 +4,22 @@ aliases:
   - cargo-volume
   - cargoVolume
   - has_value_for_cargo_volume
+  - has value for cargo volume
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - cargo-volume
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_cargo-volume
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

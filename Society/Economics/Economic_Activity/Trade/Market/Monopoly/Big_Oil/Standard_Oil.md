@@ -1,6 +1,7 @@
 ---
 aliases:
   - Standard Oil
+  - Standard_Oil
 has_id_wikidata: Q375791
 ---
 

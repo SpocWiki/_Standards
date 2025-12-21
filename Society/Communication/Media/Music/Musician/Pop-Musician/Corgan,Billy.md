@@ -1,8 +1,9 @@
 ---
 aliases:
-- "Billy Corgan"
-- "William Patrick Corgan Jr."
-- "William Patrick Corgan"
+  - Billy Corgan
+  - William Patrick Corgan Jr.
+  - William Patrick Corgan
+  - Corgan,Billy
 ---
 
 #has_/time_/started :: 1967-03-17 

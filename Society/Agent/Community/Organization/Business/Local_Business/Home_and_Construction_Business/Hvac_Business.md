@@ -4,20 +4,22 @@ aliases:
   - hvac_business
   - HVACBusiness
   - is_a_hvac_business
+  - Hvac_Business
+  - Hvac Business
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - hvac_business
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_hvac_business Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

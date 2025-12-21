@@ -2,6 +2,7 @@
 aliases:
   - Robert Louis Fosse
   - Bob Fosse
+  - Fosse,Bob
 has_id_wikidata: Q313256
 ---
 

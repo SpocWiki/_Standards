@@ -1,37 +1,38 @@
 ---
 aliases:
-- instance-of
-- instance_of
-- instanceOf
-- is_instance_of
-- rdf~type
-- "rdf: type"
-- typeof
-- '@type'
-- is_a
-- is_an
-- itemtype
-- additionalType
-- is_an_instance_of
+  - instance-of
+  - instance_of
+  - instanceOf
+  - is_instance_of
+  - rdf~type
+  - 'rdf: type'
+  - typeof
+  - '@type'
+  - is_a
+  - is_an
+  - itemtype
+  - additionalType
+  - is_an_instance_of
+  - is instance of
+has_id_wikidata: P31
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 fileClass:
-- FileClass-Relation
-has_id_wikidata: P31
+  - FileClass-Relation
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords: ''
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: is_instance_of
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- schema-org/Relation
+  - schema-org/Relation
 title: is_instance_of
 type: Predi_Relation
 ---

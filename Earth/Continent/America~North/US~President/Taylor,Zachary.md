@@ -1,25 +1,25 @@
 ---
 aliases:
-- Taylor,Zachary
-- "Zachary Taylor"
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Taylor,Zachary
+  - Zachary Taylor
+  - ''
 has_id_wikidata: Q11896
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Taylor,Zachary
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Taylor,Zachary
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- 
+  - ''
 title: Taylor,Zachary
 type: private_note
 ---

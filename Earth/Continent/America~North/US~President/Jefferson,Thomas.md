@@ -7,157 +7,157 @@ has_id_wikidata: Q11812
 confidential: private
 cssclasses: private note
 draft: true
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: ''
+has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Jefferson,Thomas
 lang: en
-layout:
+layout: ''
 license: (c)copyrighted
 linkTitle: Jefferson,Thomas
 publish: false
-publishDate:
+publishDate: ''
 tags:
-  - 
+  - ''
 title: Jefferson,Thomas
 type: private_note
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~jurist,185351]]"
-  - "[[_Standards/WikiData/WD~diplomat,193391]]"
-  - "[[_Standards/WikiData/WD~inventor,205375]]"
-  - "[[_Standards/WikiData/WD~statesperson,372436]]"
-  - "[[_Standards/WikiData/WD~paleontologist,1662561]]"
-  - "[[_Standards/WikiData/WD~archaeologist,3621491]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~cryptographer,15442776]]"
-  - "[[_Standards/WikiData/WD~planter_class,55630100]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~teacher,37226]]"
-  - "[[_Standards/WikiData/WD~lawyer,40348]]"
-  - "[[_Standards/WikiData/WD~architect,42973]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~jurist,185351]]'
+  - '[[_Standards/WikiData/WD~diplomat,193391]]'
+  - '[[_Standards/WikiData/WD~inventor,205375]]'
+  - '[[_Standards/WikiData/WD~statesperson,372436]]'
+  - '[[_Standards/WikiData/WD~paleontologist,1662561]]'
+  - '[[_Standards/WikiData/WD~archaeologist,3621491]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~cryptographer,15442776]]'
+  - '[[_Standards/WikiData/WD~planter_class,55630100]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~teacher,37226]]'
+  - '[[_Standards/WikiData/WD~lawyer,40348]]'
+  - '[[_Standards/WikiData/WD~architect,42973]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~plantation,188913]]"
-  - "[[_Standards/WikiData/WD~diplomacy,1889]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~law,7748]]"
-  - "[[_Standards/WikiData/WD~architecture,12271]]"
+  - '[[_Standards/WikiData/WD~plantation,188913]]'
+  - '[[_Standards/WikiData/WD~diplomacy,1889]]'
+  - '[[_Standards/WikiData/WD~philosophy,5891]]'
+  - '[[_Standards/WikiData/WD~law,7748]]'
+  - '[[_Standards/WikiData/WD~architecture,12271]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Monticello,199618]]"
-  - "[[_Standards/WikiData/WD~Sally_Hemings,257464]]"
-  - "[[_Standards/WikiData/WD~Eston_Hemings,5401423]]"
-  - "[[_Standards/WikiData/WD~James_Hemings,6135835]]"
-  - "[[_Standards/WikiData/WD~Burwell_Colbert,16209664]]"
-  - "[[_Standards/WikiData/WD~South_Pavilion,38463776]]"
+  - '[[_Standards/WikiData/WD~Monticello,199618]]'
+  - '[[_Standards/WikiData/WD~Sally_Hemings,257464]]'
+  - '[[_Standards/WikiData/WD~Eston_Hemings,5401423]]'
+  - '[[_Standards/WikiData/WD~James_Hemings,6135835]]'
+  - '[[_Standards/WikiData/WD~Burwell_Colbert,16209664]]'
+  - '[[_Standards/WikiData/WD~South_Pavilion,38463776]]'
 residence:
-  - "[[_Standards/WikiData/WD~Monticello,199618]]"
-  - "[[_Standards/WikiData/WD~Hôtel_de_Langeac,3145874]]"
+  - '[[_Standards/WikiData/WD~Monticello,199618]]'
+  - '[[_Standards/WikiData/WD~Hôtel_de_Langeac,3145874]]'
 place_of_burial:
-  - "[[_Standards/WikiData/WD~Monticello,199618]]"
-  - "[[_Standards/WikiData/WD~grave_of_Thomas_Jefferson,101252166]]"
-place_of_death: "[[_Standards/WikiData/WD~Monticello,199618]]"
-spouse: "[[_Standards/WikiData/WD~Martha_Jefferson,238001]]"
+  - '[[_Standards/WikiData/WD~Monticello,199618]]'
+  - '[[_Standards/WikiData/WD~grave_of_Thomas_Jefferson,101252166]]'
+place_of_death: '[[_Standards/WikiData/WD~Monticello,199618]]'
+spouse: '[[_Standards/WikiData/WD~Martha_Jefferson,238001]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]"
-  - "[[_Standards/WikiData/WD~Académie_des_Inscriptions_et_Belles_Lettres,337526]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]"
-  - "[[_Standards/WikiData/WD~Warsaw_Society_of_Friends_of_Learning,607496]]"
-  - "[[_Standards/WikiData/WD~American_Antiquarian_Society,4742987]]"
+  - '[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]'
+  - '[[_Standards/WikiData/WD~Académie_des_Inscriptions_et_Belles_Lettres,337526]]'
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+  - '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+  - '[[_Standards/WikiData/WD~Warsaw_Society_of_Friends_of_Learning,607496]]'
+  - '[[_Standards/WikiData/WD~American_Antiquarian_Society,4742987]]'
 child:
-  - "[[_Standards/WikiData/WD~Martha_Jefferson_Randolph,255159]]"
-  - "[[_Standards/WikiData/WD~Eston_Hemings,5401423]]"
-  - "[[_Standards/WikiData/WD~Harriet_Hemings,5664155]]"
-  - "[[_Standards/WikiData/WD~Mary_Jefferson_Eppes,6779916]]"
-  - "[[_Standards/WikiData/WD~Madison_Hemings,11239932]]"
-  - "[[_Standards/WikiData/WD~unnamed_son_Jefferson,75766879]]"
-  - "[[_Standards/WikiData/WD~Jane_Randolph_Jefferson,75766877]]"
-  - "[[_Standards/WikiData/WD~Lucy_Elizabeth_Jefferson_I,75766883]]"
-  - "[[_Standards/WikiData/WD~Lucy_Elizabeth_Jefferson_II,75766886]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Sally_Hemings,257464]]"
-influenced_by: "[[_Standards/WikiData/WD~Anthony_Ashley_Cooper,_3rd_Earl_of_Shaftesbury,335112]]"
+  - '[[_Standards/WikiData/WD~Martha_Jefferson_Randolph,255159]]'
+  - '[[_Standards/WikiData/WD~Eston_Hemings,5401423]]'
+  - '[[_Standards/WikiData/WD~Harriet_Hemings,5664155]]'
+  - '[[_Standards/WikiData/WD~Mary_Jefferson_Eppes,6779916]]'
+  - '[[_Standards/WikiData/WD~Madison_Hemings,11239932]]'
+  - '[[_Standards/WikiData/WD~unnamed_son_Jefferson,75766879]]'
+  - '[[_Standards/WikiData/WD~Jane_Randolph_Jefferson,75766877]]'
+  - '[[_Standards/WikiData/WD~Lucy_Elizabeth_Jefferson_I,75766883]]'
+  - '[[_Standards/WikiData/WD~Lucy_Elizabeth_Jefferson_II,75766886]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Sally_Hemings,257464]]'
+influenced_by: '[[_Standards/WikiData/WD~Anthony_Ashley_Cooper,_3rd_Earl_of_Shaftesbury,335112]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_American_Library_Biography,31790728]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~A_New_Nation_Votes_American_Electoral_Returns,_1788_1825,104218168]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~The_American_Portrait_Gallery,116505765]]"
-  - "[[_Standards/WikiData/WD~A_Dictionary_of_Eminent_Librarians,118289003]]"
-  - "[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_American_Library_Biography,31790728]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+  - '[[_Standards/WikiData/WD~A_New_Nation_Votes_American_Electoral_Returns,_1788_1825,104218168]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~The_American_Portrait_Gallery,116505765]]'
+  - '[[_Standards/WikiData/WD~A_Dictionary_of_Eminent_Librarians,118289003]]'
+  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~deism,620629]]"
-  - "[[_Standards/WikiData/WD~Anglicanism,6423963]]"
-educated_at: "[[_Standards/WikiData/WD~College_of_William_&_Mary,875637]]"
+  - '[[_Standards/WikiData/WD~deism,620629]]'
+  - '[[_Standards/WikiData/WD~Anglicanism,6423963]]'
+educated_at: '[[_Standards/WikiData/WD~College_of_William_&_Mary,875637]]'
 position_held:
-  - "[[_Standards/WikiData/WD~Governor_of_Virginia,878942]]"
-  - "[[_Standards/WikiData/WD~President_elect_of_the_United_States,1467287]]"
-  - "[[_Standards/WikiData/WD~member_of_the_Virginia_House_of_Delegates,20065408]]"
-  - "[[_Standards/WikiData/WD~United_States_Ambassador_to_France,106090755]]"
-  - "[[_Standards/WikiData/WD~Vice_President_of_the_United_States,11699]]"
-  - "[[_Standards/WikiData/WD~President_of_the_United_States,11696]]"
-  - "[[_Standards/WikiData/WD~United_States_Secretary_of_State,14213]]"
-student_of: "[[_Standards/WikiData/WD~William_Small,983736]]"
-mother: "[[_Standards/WikiData/WD~Jane_Randolph_Jefferson,3161892]]"
-father: "[[_Standards/WikiData/WD~Peter_Jefferson,3376670]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-place_of_birth: "[[_Standards/WikiData/WD~Shadwell,4179352]]"
+  - '[[_Standards/WikiData/WD~Governor_of_Virginia,878942]]'
+  - '[[_Standards/WikiData/WD~President_elect_of_the_United_States,1467287]]'
+  - '[[_Standards/WikiData/WD~member_of_the_Virginia_House_of_Delegates,20065408]]'
+  - '[[_Standards/WikiData/WD~United_States_Ambassador_to_France,106090755]]'
+  - '[[_Standards/WikiData/WD~Vice_President_of_the_United_States,11699]]'
+  - '[[_Standards/WikiData/WD~President_of_the_United_States,11696]]'
+  - '[[_Standards/WikiData/WD~United_States_Secretary_of_State,14213]]'
+student_of: '[[_Standards/WikiData/WD~William_Small,983736]]'
+mother: '[[_Standards/WikiData/WD~Jane_Randolph_Jefferson,3161892]]'
+father: '[[_Standards/WikiData/WD~Peter_Jefferson,3376670]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+place_of_birth: '[[_Standards/WikiData/WD~Shadwell,4179352]]'
 relative:
-  - "[[_Standards/WikiData/WD~Dabney_Carr,5207506]]"
-  - "[[_Standards/WikiData/WD~Thomas_Garland_Jefferson,64876126]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Dabney_Carr,5207506]]'
+  - '[[_Standards/WikiData/WD~Thomas_Garland_Jefferson,64876126]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Lucy_Jefferson_Lewis,6698378]]"
-  - "[[_Standards/WikiData/WD~Randolph_Jefferson,7291842]]"
-  - "[[_Standards/WikiData/WD~Martha_Jefferson_Carr,60525643]]"
-  - "[[_Standards/WikiData/WD~Anna_Scott_Jefferson,75766898]]"
+  - '[[_Standards/WikiData/WD~Lucy_Jefferson_Lewis,6698378]]'
+  - '[[_Standards/WikiData/WD~Randolph_Jefferson,7291842]]'
+  - '[[_Standards/WikiData/WD~Martha_Jefferson_Carr,60525643]]'
+  - '[[_Standards/WikiData/WD~Anna_Scott_Jefferson,75766898]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]"
-  - "[[_Standards/WikiData/WD~Louis_Round_Wilson_Library,14708020]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-social_classification: "[[_Standards/WikiData/WD~slave_owner,10076267]]"
-cause_of_death: "[[_Standards/WikiData/WD~uremia,13365776]]"
+  - '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
+  - '[[_Standards/WikiData/WD~Louis_Round_Wilson_Library,14708020]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+social_classification: '[[_Standards/WikiData/WD~slave_owner,10076267]]'
+cause_of_death: '[[_Standards/WikiData/WD~uremia,13365776]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-  - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
-  - "[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]"
-family_name: "[[_Standards/WikiData/WD~Jefferson,13553637]]"
-given_name: "[[_Standards/WikiData/WD~Thomas,16428906]]"
-award_received: "[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+  - '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
+family_name: '[[_Standards/WikiData/WD~Jefferson,13553637]]'
+given_name: '[[_Standards/WikiData/WD~Thomas,16428906]]'
+award_received: '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_birth: 1743-04-13T00:00:00Z
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Greek,9129]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~Italian,652]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Greek,9129]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
 writing_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-instrument: "[[_Standards/WikiData/WD~violin,8355]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+instrument: '[[_Standards/WikiData/WD~violin,8355]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 6
 height:
   - 189
   - 1.89
-member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Republican_Party,42186]]"
+member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Republican_Party,42186]]'
 Commons_category: Thomas Jefferson
 Commons_gallery: Thomas Jefferson
 Commons_Creator_page: Thomas Jefferson
@@ -176,8 +176,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Official%20Presidentia
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Jefferson%20Signature.svg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Jefferson%27s%20Grave%20Site.jpg
 National_Governors_Association_biography_URL: https://www.nga.org/governor/thomas-jefferson/
-ISNI: "0000000121297235"
-U_S_National_Archives_Identifier: "10581911"
+ISNI: 0000000121297235
+U_S_National_Archives_Identifier: 10581911
 Libris_URI: b8nqrxpv1v5qwk3
 ---
 

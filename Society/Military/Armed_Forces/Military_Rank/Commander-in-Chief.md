@@ -1,18 +1,19 @@
 ---
 aliases:
   - Oberbefehlshaber
+  - Commander-in-Chief
 has_id_wikidata: Q380782
 subclass_of:
-  - "[[_Standards/WikiData/WD~military_officer,189290]]"
-  - "[[_Standards/WikiData/WD~commandant,2054507]]"
+  - '[[_Standards/WikiData/WD~military_officer,189290]]'
+  - '[[_Standards/WikiData/WD~commandant,2054507]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~supreme_commander,12191080]]"
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~supreme_commander,12191080]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~military_position,16631188]]"
-  - "[[_Standards/WikiData/WD~military_rank,56019]]"
+  - '[[_Standards/WikiData/WD~military_position,16631188]]'
+  - '[[_Standards/WikiData/WD~military_rank,56019]]'
 female_form_of_label:
   - Oberbefehlshaberin
   - vrhovna poveljnica

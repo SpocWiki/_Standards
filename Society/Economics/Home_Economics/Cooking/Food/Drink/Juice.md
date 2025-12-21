@@ -1,36 +1,38 @@
 ---
-Amazon_com_browse_node: "16318171"
+aliases:
+  - Juice
+has_id_wikidata: Q8492
+Amazon_com_browse_node: 16318171
 Commons_category: Juices (drink)
 described_by_source:
-  - "[[_Standards/WikiData/WD~Centre_national_de_ressources_textuelles_et_lexicales,2945944]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+  - '[[_Standards/WikiData/WD~Centre_national_de_ressources_textuelles_et_lexicales,2945944]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 different_from:
-  - "[[_Standards/WikiData/WD~yus,285784]]"
-  - "[[_Standards/WikiData/WD~Sok,1989786]]"
-  - "[[_Standards/WikiData/WD~Zumo,8075257]]"
-  - "[[_Standards/WikiData/WD~juice,11550473]]"
-fabrication_method: "[[_Standards/WikiData/WD~juicing,6305202]]"
-has_id_wikidata: Q8492
+  - '[[_Standards/WikiData/WD~yus,285784]]'
+  - '[[_Standards/WikiData/WD~Sok,1989786]]'
+  - '[[_Standards/WikiData/WD~Zumo,8075257]]'
+  - '[[_Standards/WikiData/WD~juice,11550473]]'
+fabrication_method: '[[_Standards/WikiData/WD~juicing,6305202]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~fruit,3314483]]"
-  - "[[_Standards/WikiData/WD~vegetable,11004]]"
+  - '[[_Standards/WikiData/WD~fruit,3314483]]'
+  - '[[_Standards/WikiData/WD~vegetable,11004]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Juices%20for%20Breakfast.jpg
 MCN_code: 2002.90.10
 MeSH_tree_code:
   - G07.203.100.606
   - J02.200.606
-OmegaWiki_Defined_Meaning: "6645"
+OmegaWiki_Defined_Meaning: 6645
 subclass_of:
-  - "[[_Standards/WikiData/WD~non_alcoholic_beverage,2647467]]"
-  - "[[_Standards/WikiData/WD~juice,11550473]]"
-  - "[[_Standards/WikiData/WD~sugary_drink,122973887]]"
-  - "[[_Standards/WikiData/WD~drink,40050]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Juice,25733376]]"
+  - '[[_Standards/WikiData/WD~non_alcoholic_beverage,2647467]]'
+  - '[[_Standards/WikiData/WD~juice,11550473]]'
+  - '[[_Standards/WikiData/WD~sugary_drink,122973887]]'
+  - '[[_Standards/WikiData/WD~drink,40050]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Juice,25733376]]'
 UMLS_CUI: C0452453
-USDA_NDB_number: "14327"
+USDA_NDB_number: 14327
 Wolfram_Language_entity_code: Entity["FoodType", "Juice"]
-topic_has_template: "[[_Standards/WikiData/WD~Template_Juice,25733376]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Juice,25733376]]'
 ---
 
 #  [[Juice]]

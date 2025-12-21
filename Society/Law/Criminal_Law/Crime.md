@@ -1,43 +1,45 @@
 ---
+aliases:
+  - Crime
+has_id_wikidata: Q83267
 class_of_agent_s_of_action:
-- '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
-- '[[_Standards/WikiData/WD~human,5]]'
+  - '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
+  - '[[_Standards/WikiData/WD~human,5]]'
 Commons_category: Crime
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 different_from:
-- '[[_Standards/WikiData/WD~delict,1184244]]'
-- '[[_Standards/WikiData/WD~violation_of_law,1456832]]'
-- '[[_Standards/WikiData/WD~contravention,2995853]]'
-- '[[_Standards/WikiData/WD~criminality,12754227]]'
-- '[[_Standards/WikiData/WD~criminal_case,16738832]]'
+  - '[[_Standards/WikiData/WD~delict,1184244]]'
+  - '[[_Standards/WikiData/WD~violation_of_law,1456832]]'
+  - '[[_Standards/WikiData/WD~contravention,2995853]]'
+  - '[[_Standards/WikiData/WD~criminality,12754227]]'
+  - '[[_Standards/WikiData/WD~criminal_case,16738832]]'
 GitHub_topic: crime
 handled_mitigated_or_managed_by:
-- '[[_Standards/WikiData/WD~crime_prevention,855848]]'
-- '[[_Standards/WikiData/WD~crime_control,5185258]]'
+  - '[[_Standards/WikiData/WD~crime_prevention,855848]]'
+  - '[[_Standards/WikiData/WD~crime_control,5185258]]'
 has_cause: '[[_Standards/WikiData/WD~anti_social_behaviour,734611]]'
 has_characteristic: '[[_Standards/WikiData/WD~developmental_stage_of_a_criminal_offence,11999303]]'
-has_id_wikidata: Q83267
 has_part_s_: '[[_Standards/WikiData/WD~Ijram,12487395]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_crime,113861624]]'
 IAB_code: 380
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Morrison%20killing%20Warren.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Morrison%20killing%20Warren.jpg
 instance_of: '[[_Standards/WikiData/WD~social_issue,1920219]]'
 IPTC_NewsCode: mediatopic/20000082
 manifestation_of: '[[_Standards/WikiData/WD~criminality,12754227]]'
 MeSH_tree_code:
-- I01.198.240
-- I01.880.735.191
+  - I01.198.240
+  - I01.880.735.191
 P8189: 987007533422005171
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Handcuffs%20banner.jpg"
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Handcuffs%20banner.jpg
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~violation_of_law,1456832]]'
-- '[[_Standards/WikiData/WD~Q117849106,117849106]]'
+  - '[[_Standards/WikiData/WD~violation_of_law,1456832]]'
+  - '[[_Standards/WikiData/WD~Q117849106,117849106]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~criminal,2159907]]'
-- '[[_Standards/WikiData/WD~habitual_offender,2384039]]'
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%AC%D8%B1%D9%8A%D9%85%D8%A9.wav"
+  - '[[_Standards/WikiData/WD~criminal,2159907]]'
+  - '[[_Standards/WikiData/WD~habitual_offender,2384039]]'
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%AC%D8%B1%D9%8A%D9%85%D8%A9.wav
 role_of_agent_s_of_action: '[[_Standards/WikiData/WD~criminal,2159907]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~violation_of_law,1456832]]'
 studied_by: '[[_Standards/WikiData/WD~criminology,161733]]'
@@ -46,7 +48,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Types_of_crime,1597790
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 U_S_National_Archives_Identifier: 10638047
 Wikitribune_category: crime
-WordLift_URL: "https://data.wordlift.io/wl76541/entity/criminal"
+WordLift_URL: https://data.wordlift.io/wl76541/entity/criminal
 ---
 
 # [[Crime]]

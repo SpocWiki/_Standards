@@ -1,46 +1,47 @@
 ---
 aliases:
   - Oper
+  - Opera
 has_id_wikidata: Q1344
 Iconclass_notation: 48C862
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/OPERA.html
 IPTC_NewsCode: mediatopic/20000028
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~theatrical_genre,7777573]]"
-  - "[[_Standards/WikiData/WD~type_of_dramatico-musical_work,112248470]]"
+  - '[[_Standards/WikiData/WD~music_genre,188451]]'
+  - '[[_Standards/WikiData/WD~theatrical_genre,7777573]]'
+  - '[[_Standards/WikiData/WD~type_of_dramatico-musical_work,112248470]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~composed_musical_work,207628]]"
-  - "[[_Standards/WikiData/WD~theatre_music,7777494]]"
-  - "[[_Standards/WikiData/WD~musical_drama,123777276]]"
-  - "[[_Standards/WikiData/WD~classical_music,9730]]"
+  - '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
+  - '[[_Standards/WikiData/WD~theatre_music,7777494]]'
+  - '[[_Standards/WikiData/WD~musical_drama,123777276]]'
+  - '[[_Standards/WikiData/WD~classical_music,9730]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-has_list: "[[_Standards/WikiData/WD~list_of_prominent_operas,1144706]]"
-different_from: "[[_Standards/WikiData/WD~Opera,1224928]]"
-facet_of: "[[_Standards/WikiData/WD~musical_theater,1370345]]"
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+has_list: '[[_Standards/WikiData/WD~list_of_prominent_operas,1144706]]'
+different_from: '[[_Standards/WikiData/WD~Opera,1224928]]'
+facet_of: '[[_Standards/WikiData/WD~musical_theater,1370345]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~répétiteur,1784753]]"
-  - "[[_Standards/WikiData/WD~vocal_coach,2350126]]"
-  - "[[_Standards/WikiData/WD~opera_singer,2865819]]"
+  - '[[_Standards/WikiData/WD~répétiteur,1784753]]'
+  - '[[_Standards/WikiData/WD~vocal_coach,2350126]]'
+  - '[[_Standards/WikiData/WD~opera_singer,2865819]]'
 history_of_topic:
-  - "[[_Standards/WikiData/WD~opera_in_English,2904882]]"
-  - "[[_Standards/WikiData/WD~opera_in_Arabic,7096646]]"
-  - "[[_Standards/WikiData/WD~opera_in_Africa,28124356]]"
-has_part_s_: "[[_Standards/WikiData/WD~pit_orchestra,7198575]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Opera,10297022]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_opera,14522449]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Performing_arts,59956276]]"
+  - '[[_Standards/WikiData/WD~opera_in_English,2904882]]'
+  - '[[_Standards/WikiData/WD~opera_in_Arabic,7096646]]'
+  - '[[_Standards/WikiData/WD~opera_in_Africa,28124356]]'
+has_part_s_: '[[_Standards/WikiData/WD~pit_orchestra,7198575]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Opera,10297022]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_opera,14522449]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Performing_arts,59956276]]'
 Provenio_UUID: 11dbfb07-9641-475c-9599-1fc1c1b893ba
-inception: "1600"
+inception: 1600
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': ''
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%22La%20donna%20%C3%A8%20mobile%22%20-%20Rigoletto%20%282016-17%29.webm
 properties_for_this_type:
   - language of work or name
@@ -49,7 +50,7 @@ properties_for_this_type:
   - librettist
   - composer
   - genre
-country_of_origin: "[[_Standards/WikiData/WD~Europe,46]]"
+country_of_origin: '[[_Standards/WikiData/WD~Europe,46]]'
 IAB_code: 208
 social_media_followers: 23082
 OmegaWiki_Defined_Meaning: 352727
@@ -66,24 +67,24 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: ''
+has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 lang: en
-layout:
+layout: ''
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 publish: false
-publishDate:
+publishDate: ''
 tags:
-  - "{ newTitle: }":
+  - '{ newTitle: }': ''
   - excalidraw
 title:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 type: private_note
 ---
 

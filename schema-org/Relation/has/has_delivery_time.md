@@ -2,12 +2,13 @@
 aliases:
   - has delivery-time
   - has_delivery_time
+  - has delivery time
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - time
   - delivery_time
   - deliveryTime
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_delivery_time
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

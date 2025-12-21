@@ -7,16 +7,16 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sibling
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_sibling
 publish: true
-publishDate:
+publishDate: ''
 supersedes: siblings
 tags:
   - class/Relation

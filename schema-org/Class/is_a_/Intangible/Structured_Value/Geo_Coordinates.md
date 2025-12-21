@@ -4,20 +4,22 @@ aliases:
   - geo_coordinates
   - GeoCoordinates
   - is_a_geo_coordinates
+  - Geo_Coordinates
+  - Geo Coordinates
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - geo_coordinates
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_geo_coordinates Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

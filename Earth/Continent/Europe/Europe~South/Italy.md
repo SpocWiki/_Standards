@@ -9,13 +9,13 @@ aliases:
   - the Republic of Italy
   - la República Italiana
   - italian
+has_id_wikidata: Q38
 title: Italy
-linkTitle:
+linkTitle: ""
 type: Country
 location:
   - 43.4809
   - 11.8169
-has_id_wikidata: Q38
 SpocWebEntityId: 26930
 tags:
   - geo/Country
@@ -27,11 +27,11 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-keywords:
-layout:
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 Languages:
   - it-IT
   - de-IT

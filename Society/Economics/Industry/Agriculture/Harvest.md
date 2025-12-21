@@ -1,22 +1,23 @@
 ---
 aliases:
   - Ernte
+  - Harvest
 has_id_wikidata: Q213753
 subclass_of:
-  - "[[_Standards/WikiData/WD~cultivation,488798]]"
-  - "[[_Standards/WikiData/WD~agricultural_activity,25450409]]"
-  - "[[_Standards/WikiData/WD~gathering,108634029]]"
+  - '[[_Standards/WikiData/WD~cultivation,488798]]'
+  - '[[_Standards/WikiData/WD~agricultural_activity,25450409]]'
+  - '[[_Standards/WikiData/WD~gathering,108634029]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-practiced_by: "[[_Standards/WikiData/WD~farmworker,5060555]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+practiced_by: '[[_Standards/WikiData/WD~farmworker,5060555]]'
 instance_of:
-  - "[[../../../../WikiData/WD~economic_activity,8187769]]"
-  - "[[_Standards/WikiData/WD~agronomic_practice,104255513]]"
-part_of: "[[_Standards/WikiData/WD~agricultural_production,56299222]]"
-OmegaWiki_Defined_Meaning: "1722"
+  - '[[../../../../WikiData/WD~economic_activity,8187769]]'
+  - '[[_Standards/WikiData/WD~agronomic_practice,104255513]]'
+part_of: '[[_Standards/WikiData/WD~agricultural_production,56299222]]'
+OmegaWiki_Defined_Meaning: 1722
 Commons_gallery: Harvest
 Commons_category: Harvest
 IMDb_keyword: harvest

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Windows_Service
+  - Windows Service
 dv_is_/similar_to:
   path: Unix_daemon
   embed: false

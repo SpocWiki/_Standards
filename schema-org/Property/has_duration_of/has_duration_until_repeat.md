@@ -4,20 +4,21 @@ aliases:
   - repeat_frequency
   - repeatFrequency
   - has_duration_until_repeat
+  - has duration until repeat
 confidential: public
 cssclasses:
   - Predicate
   - Duration
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
-layout:
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Durations

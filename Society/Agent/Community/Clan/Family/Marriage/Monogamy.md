@@ -1,6 +1,7 @@
 ---
 aliases:
   - Monogamie
+  - Monogamy
 has_id_wikidata: Q184211
 ---
 

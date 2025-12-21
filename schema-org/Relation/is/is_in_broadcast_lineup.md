@@ -4,23 +4,24 @@ aliases:
   - in_broadcast_lineup
   - inBroadcastLineup
   - is_in_broadcast_lineup
+  - is in broadcast lineup
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - in
   - broadcast
   - lineup
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_in_broadcast_lineup
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,31 +1,32 @@
 ---
 aliases:
   - Sandstein
+  - Sandstone
 has_id_wikidata: Q13085
 subclass_of:
-  - "[[_Standards/WikiData/WD~sedimentary_rock,82480]]"
-  - "[[_Standards/WikiData/WD~psammite,1388725]]"
-  - "[[_Standards/WikiData/WD~natural_building_material,3300024]]"
+  - '[[_Standards/WikiData/WD~sedimentary_rock,82480]]'
+  - '[[_Standards/WikiData/WD~psammite,1388725]]'
+  - '[[_Standards/WikiData/WD~natural_building_material,3300024]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~mica,114675]]"
-  - "[[_Standards/WikiData/WD~feldspar,170258]]"
-  - "[[_Standards/WikiData/WD~lithoclast,3256559]]"
-  - "[[_Standards/WikiData/WD~bioclast,3640134]]"
-  - "[[_Standards/WikiData/WD~heavy_mineral,5695273]]"
-  - "[[_Standards/WikiData/WD~quartz,43010]]"
+  - '[[_Standards/WikiData/WD~mica,114675]]'
+  - '[[_Standards/WikiData/WD~feldspar,170258]]'
+  - '[[_Standards/WikiData/WD~lithoclast,3256559]]'
+  - '[[_Standards/WikiData/WD~bioclast,3640134]]'
+  - '[[_Standards/WikiData/WD~heavy_mineral,5695273]]'
+  - '[[_Standards/WikiData/WD~quartz,43010]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-award_received: "[[_Standards/WikiData/WD~Rock_of_the_Year,1519491]]"
-different_from: "[[_Standards/WikiData/WD~Piaskowiec,7190336]]"
-has_part_s_: "[[_Standards/WikiData/WD~gogotte,109427622]]"
-OmegaWiki_Defined_Meaning: "845182"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+award_received: '[[_Standards/WikiData/WD~Rock_of_the_Year,1519491]]'
+different_from: '[[_Standards/WikiData/WD~Piaskowiec,7190336]]'
+has_part_s_: '[[_Standards/WikiData/WD~gogotte,109427622]]'
+OmegaWiki_Defined_Meaning: 845182
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Nationalpark%20S%C3%A4chsische%20Schweiz%20Gro%C3%9Fer%20Winterberg%20lub%202023-01-28%20img43.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SmallCrater06%20ST%2008.JPG
 exact_match: http://purl.obolibrary.org/obo/ENVO_00002055
-UNSPSC_Code: "11111607"
+UNSPSC_Code: 11111607
 Krugosvet_article_archived_: Earth_sciences/geologiya/PESCHANIK.html
 EAGLE_id: material/lod/75
 Commons_gallery: Sandstone

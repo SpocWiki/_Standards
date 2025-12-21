@@ -1,64 +1,65 @@
 ---
 aliases:
   - Umayyad Caliphate
-  - Umayyad Empire 
+  - Umayyad Empire
   - ٱلْخِلَافَة ٱلْأُمَوِيَّة
   - al-Khilāfa al-Umawiyya
   - Umayyad_Caliphate
+  - 0661-Umayyad Caliphate+0750
 has_id_wikidata: Q8575586
 inception: 0661-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: 0750-07-01T00:00:00Z
-different_from: "[[_Standards/WikiData/WD~Caliphate_of_Córdoba,171740]]"
+different_from: '[[_Standards/WikiData/WD~Caliphate_of_Córdoba,171740]]'
 founded_by: "[[_Standards/WikiData/WD~Mu'awiya_I,181154]]"
 language_used:
-  - "[[_Standards/WikiData/WD~Prakrit,192170]]"
-  - "[[_Standards/WikiData/WD~Andalusi_Romance,317044]]"
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Georgian,8108]]"
-  - "[[_Standards/WikiData/WD~Armenian,8785]]"
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
-  - "[[_Standards/WikiData/WD~Amazigh,25448]]"
-  - "[[_Standards/WikiData/WD~Aramaic,28602]]"
-  - "[[_Standards/WikiData/WD~Middle_Persian,32063]]"
-  - "[[_Standards/WikiData/WD~Sindhi,33997]]"
-  - "[[_Standards/WikiData/WD~Medieval_Greek,36387]]"
+  - '[[_Standards/WikiData/WD~Prakrit,192170]]'
+  - '[[_Standards/WikiData/WD~Andalusi_Romance,317044]]'
+  - '[[_Standards/WikiData/WD~Latin,397]]'
+  - '[[_Standards/WikiData/WD~Georgian,8108]]'
+  - '[[_Standards/WikiData/WD~Armenian,8785]]'
+  - '[[_Standards/WikiData/WD~Arabic,13955]]'
+  - '[[_Standards/WikiData/WD~Amazigh,25448]]'
+  - '[[_Standards/WikiData/WD~Aramaic,28602]]'
+  - '[[_Standards/WikiData/WD~Middle_Persian,32063]]'
+  - '[[_Standards/WikiData/WD~Sindhi,33997]]'
+  - '[[_Standards/WikiData/WD~Medieval_Greek,36387]]'
 capital:
-  - "[[_Standards/WikiData/WD~Harran,199547]]"
-  - "[[_Standards/WikiData/WD~Damascus,3766]]"
+  - '[[_Standards/WikiData/WD~Harran,199547]]'
+  - '[[_Standards/WikiData/WD~Damascus,3766]]'
 main_regulatory_text:
-  - "[[_Standards/WikiData/WD~Sunnah,234764]]"
-  - "[[_Standards/WikiData/WD~Qur_an,428]]"
+  - '[[_Standards/WikiData/WD~Sunnah,234764]]'
+  - '[[_Standards/WikiData/WD~Qur_an,428]]'
 replaces:
-  - "[[_Standards/WikiData/WD~Exarchate_of_Africa,246737]]"
-  - "[[_Standards/WikiData/WD~Rashidun_Caliphate,12490507]]"
+  - '[[_Standards/WikiData/WD~Exarchate_of_Africa,246737]]'
+  - '[[_Standards/WikiData/WD~Rashidun_Caliphate,12490507]]'
 follows:
-  - "[[_Standards/WikiData/WD~Exarchate_of_Africa,246737]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Toledo,2940142]]"
-  - "[[_Standards/WikiData/WD~Rashidun_Caliphate,12490507]]"
-  - "[[_Standards/WikiData/WD~Byzantine_Empire,12544]]"
+  - '[[_Standards/WikiData/WD~Exarchate_of_Africa,246737]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Toledo,2940142]]'
+  - '[[_Standards/WikiData/WD~Rashidun_Caliphate,12490507]]'
+  - '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 followed_by:
-  - "[[_Standards/WikiData/WD~emirate_of_Córdoba,1337854]]"
-  - "[[_Standards/WikiData/WD~Abbasid_Caliphate,12536]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
+  - '[[_Standards/WikiData/WD~emirate_of_Córdoba,1337854]]'
+  - '[[_Standards/WikiData/WD~Abbasid_Caliphate,12536]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Wilayah_of_Al_Andalus,6159007]]"
-  - "[[_Standards/WikiData/WD~Wilayah_of_Iraq,21076443]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Umayyad_Caliph,67497236]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Umayyad_Caliph,67497236]]"
-official_religion: "[[_Standards/WikiData/WD~Islam,432]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~monarchy,7269]]"
-official_language: "[[_Standards/WikiData/WD~Arabic,13955]]"
+  - '[[_Standards/WikiData/WD~Wilayah_of_Al_Andalus,6159007]]'
+  - '[[_Standards/WikiData/WD~Wilayah_of_Iraq,21076443]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Umayyad_Caliph,67497236]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~Umayyad_Caliph,67497236]]'
+official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
+official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
 continent:
-  - "[[_Standards/WikiData/WD~Africa,15]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-  - "[[_Standards/WikiData/WD~Asia,48]]"
+  - '[[_Standards/WikiData/WD~Africa,15]]'
+  - '[[_Standards/WikiData/WD~Europe,46]]'
+  - '[[_Standards/WikiData/WD~Asia,48]]'
 population: 70000000
 area: 11100000
-named_after: "[[_Standards/WikiData/WD~Umayyad_dynasty,45646]]"
+named_after: '[[_Standards/WikiData/WD~Umayyad_dynasty,45646]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Umayyad750ADloc.svg
 locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Umayyad750ADloc-ar.png

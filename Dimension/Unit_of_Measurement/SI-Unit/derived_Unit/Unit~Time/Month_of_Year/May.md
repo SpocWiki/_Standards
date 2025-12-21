@@ -9,72 +9,72 @@ name:
   - května
   - maja
   - мая
-different_from: "[[_Standards/WikiData/WD~Maj,560805]]"
+different_from: '[[_Standards/WikiData/WD~Maj,560805]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Maius,839590]]"
-  - "[[_Standards/WikiData/WD~Magtymguly_Pyragy,2355095]]"
-  - "[[_Standards/WikiData/WD~flower,506]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_May_calendar,6498664]]"
-subclass_of: "[[_Standards/WikiData/WD~month_of_the_Gregorian_calendar,18602249]]"
+  - '[[_Standards/WikiData/WD~Maius,839590]]'
+  - '[[_Standards/WikiData/WD~Magtymguly_Pyragy,2355095]]'
+  - '[[_Standards/WikiData/WD~flower,506]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_May_calendar,6498664]]'
+subclass_of: '[[_Standards/WikiData/WD~month_of_the_Gregorian_calendar,18602249]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q21201610,21201610]]"
-  - "[[_Standards/WikiData/WD~Q28790333,28790333]]"
-  - "[[_Standards/WikiData/WD~Q30139848,30139848]]"
-  - "[[_Standards/WikiData/WD~Q56299632,56299632]]"
-  - "[[_Standards/WikiData/WD~Q63100448,63100448]]"
-  - "[[_Standards/WikiData/WD~Q117477804,117477804]]"
-instance_of: "[[_Standards/WikiData/WD~calendar_month,47018901]]"
+  - '[[_Standards/WikiData/WD~Q21201610,21201610]]'
+  - '[[_Standards/WikiData/WD~Q28790333,28790333]]'
+  - '[[_Standards/WikiData/WD~Q30139848,30139848]]'
+  - '[[_Standards/WikiData/WD~Q56299632,56299632]]'
+  - '[[_Standards/WikiData/WD~Q63100448,63100448]]'
+  - '[[_Standards/WikiData/WD~Q117477804,117477804]]'
+instance_of: '[[_Standards/WikiData/WD~calendar_month,47018901]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Allegory_of_May,131449673]]"
-  - "[[_Standards/WikiData/WD~May,131628834]]"
+  - '[[_Standards/WikiData/WD~Allegory_of_May,131449673]]'
+  - '[[_Standards/WikiData/WD~May,131628834]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~May_3,2547]]"
-  - "[[_Standards/WikiData/WD~May_1,2544]]"
-  - "[[_Standards/WikiData/WD~May_2,2545]]"
-  - "[[_Standards/WikiData/WD~May_5,2550]]"
-  - "[[_Standards/WikiData/WD~May_4,2549]]"
-  - "[[_Standards/WikiData/WD~May_8,2555]]"
-  - "[[_Standards/WikiData/WD~May_6,2552]]"
-  - "[[_Standards/WikiData/WD~May_7,2553]]"
-  - "[[_Standards/WikiData/WD~May_11,2558]]"
-  - "[[_Standards/WikiData/WD~May_12,2559]]"
-  - "[[_Standards/WikiData/WD~May_9,2556]]"
-  - "[[_Standards/WikiData/WD~May_10,2557]]"
-  - "[[_Standards/WikiData/WD~May_15,2562]]"
-  - "[[_Standards/WikiData/WD~May_13,2560]]"
-  - "[[_Standards/WikiData/WD~May_14,2561]]"
-  - "[[_Standards/WikiData/WD~May_16,2574]]"
-  - "[[_Standards/WikiData/WD~May_17,2575]]"
-  - "[[_Standards/WikiData/WD~May_19,2578]]"
-  - "[[_Standards/WikiData/WD~May_20,2579]]"
-  - "[[_Standards/WikiData/WD~May_18,2576]]"
-  - "[[_Standards/WikiData/WD~May_23,2583]]"
-  - "[[_Standards/WikiData/WD~May_21,2580]]"
-  - "[[_Standards/WikiData/WD~May_22,2581]]"
-  - "[[_Standards/WikiData/WD~May_26,2586]]"
-  - "[[_Standards/WikiData/WD~May_27,2587]]"
-  - "[[_Standards/WikiData/WD~May_24,2584]]"
-  - "[[_Standards/WikiData/WD~May_25,2585]]"
-  - "[[_Standards/WikiData/WD~May_30,2590]]"
-  - "[[_Standards/WikiData/WD~May_31,2591]]"
-  - "[[_Standards/WikiData/WD~May_28,2588]]"
-  - "[[_Standards/WikiData/WD~May_29,2589]]"
+  - '[[_Standards/WikiData/WD~May_3,2547]]'
+  - '[[_Standards/WikiData/WD~May_1,2544]]'
+  - '[[_Standards/WikiData/WD~May_2,2545]]'
+  - '[[_Standards/WikiData/WD~May_5,2550]]'
+  - '[[_Standards/WikiData/WD~May_4,2549]]'
+  - '[[_Standards/WikiData/WD~May_8,2555]]'
+  - '[[_Standards/WikiData/WD~May_6,2552]]'
+  - '[[_Standards/WikiData/WD~May_7,2553]]'
+  - '[[_Standards/WikiData/WD~May_11,2558]]'
+  - '[[_Standards/WikiData/WD~May_12,2559]]'
+  - '[[_Standards/WikiData/WD~May_9,2556]]'
+  - '[[_Standards/WikiData/WD~May_10,2557]]'
+  - '[[_Standards/WikiData/WD~May_15,2562]]'
+  - '[[_Standards/WikiData/WD~May_13,2560]]'
+  - '[[_Standards/WikiData/WD~May_14,2561]]'
+  - '[[_Standards/WikiData/WD~May_16,2574]]'
+  - '[[_Standards/WikiData/WD~May_17,2575]]'
+  - '[[_Standards/WikiData/WD~May_19,2578]]'
+  - '[[_Standards/WikiData/WD~May_20,2579]]'
+  - '[[_Standards/WikiData/WD~May_18,2576]]'
+  - '[[_Standards/WikiData/WD~May_23,2583]]'
+  - '[[_Standards/WikiData/WD~May_21,2580]]'
+  - '[[_Standards/WikiData/WD~May_22,2581]]'
+  - '[[_Standards/WikiData/WD~May_26,2586]]'
+  - '[[_Standards/WikiData/WD~May_27,2587]]'
+  - '[[_Standards/WikiData/WD~May_24,2584]]'
+  - '[[_Standards/WikiData/WD~May_25,2585]]'
+  - '[[_Standards/WikiData/WD~May_30,2590]]'
+  - '[[_Standards/WikiData/WD~May_31,2591]]'
+  - '[[_Standards/WikiData/WD~May_28,2588]]'
+  - '[[_Standards/WikiData/WD~May_29,2589]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Julian_calendar,11184]]"
-  - "[[_Standards/WikiData/WD~Gregorian_calendar,12138]]"
-follows: "[[_Standards/WikiData/WD~April,118]]"
-followed_by: "[[_Standards/WikiData/WD~June,120]]"
+  - '[[_Standards/WikiData/WD~Julian_calendar,11184]]'
+  - '[[_Standards/WikiData/WD~Gregorian_calendar,12138]]'
+follows: '[[_Standards/WikiData/WD~April,118]]'
+followed_by: '[[_Standards/WikiData/WD~June,120]]'
 time_index: 4.5
-OmegaWiki_Defined_Meaning: "6974"
+OmegaWiki_Defined_Meaning: 6974
 Commons_gallery: May
 Commons_category: May
 short_name:

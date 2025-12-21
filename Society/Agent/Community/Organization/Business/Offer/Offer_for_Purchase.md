@@ -4,20 +4,22 @@ aliases:
   - offer_for_purchase
   - OfferForPurchase
   - is_an_offer_for_purchase
+  - Offer_for_Purchase
+  - Offer for Purchase
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - offer_for_purchase
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_offer_for_purchase Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

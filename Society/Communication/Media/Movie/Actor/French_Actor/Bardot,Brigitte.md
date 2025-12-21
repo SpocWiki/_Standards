@@ -1,66 +1,67 @@
 ---
-has_id_wikidata: Q36268
 aliases:
   - Brigitte Anne-Marie Bardot
   - Brigitte Bardot
-lifestyle: "[[_Standards/WikiData/WD~vegetarianism,83364]]"
+  - Bardot,Brigitte
+has_id_wikidata: Q36268
+lifestyle: '[[_Standards/WikiData/WD~vegetarianism,83364]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Gilbert_Bécaud,160433]]"
-  - "[[_Standards/WikiData/WD~Serge_Gainsbourg,1698]]"
+  - '[[_Standards/WikiData/WD~Gilbert_Bécaud,160433]]'
+  - '[[_Standards/WikiData/WD~Serge_Gainsbourg,1698]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~public_figure,662729]]"
-  - "[[_Standards/WikiData/WD~fashion_model,3357567]]"
-  - "[[_Standards/WikiData/WD~dancer,5716684]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~animal_rights_advocate,11966252]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~recording_artist,55960555]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-place_of_birth: "[[_Standards/WikiData/WD~15th_arrondissement_of_Paris,191066]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~public_figure,662729]]'
+  - '[[_Standards/WikiData/WD~fashion_model,3357567]]'
+  - '[[_Standards/WikiData/WD~dancer,5716684]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~animal_rights_advocate,11966252]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+place_of_birth: '[[_Standards/WikiData/WD~15th_arrondissement_of_Paris,191066]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Roger_Vadim,383420]]"
-  - "[[_Standards/WikiData/WD~Jacques_Charrier,1677936]]"
+  - '[[_Standards/WikiData/WD~Roger_Vadim,383420]]'
+  - '[[_Standards/WikiData/WD~Jacques_Charrier,1677936]]'
   - "[[_Standards/WikiData/WD~Bernard_d'Ormale,75619267]]"
-  - "[[_Standards/WikiData/WD~Gunter_Sachs,62515]]"
+  - '[[_Standards/WikiData/WD~Gunter_Sachs,62515]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Conservatoire_de_Paris,463055]]"
-  - "[[_Standards/WikiData/WD~Cours_Hattemer,3128334]]"
+  - '[[_Standards/WikiData/WD~Conservatoire_de_Paris,463055]]'
+  - '[[_Standards/WikiData/WD~Cours_Hattemer,3128334]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Fontana_Records,729590]]"
-  - "[[_Standards/WikiData/WD~Philips_Records,1536003]]"
-  - "[[_Standards/WikiData/WD~MGM_Records,1881437]]"
+  - '[[_Standards/WikiData/WD~Fontana_Records,729590]]'
+  - '[[_Standards/WikiData/WD~Philips_Records,1536003]]'
+  - '[[_Standards/WikiData/WD~MGM_Records,1881437]]'
   - "[[_Standards/WikiData/WD~Disc'AZ,2412761]]"
-  - "[[_Standards/WikiData/WD~Barclay,2535085]]"
-wears: "[[_Standards/WikiData/WD~capri_pants,1034971]]"
+  - '[[_Standards/WikiData/WD~Barclay,2535085]]'
+wears: '[[_Standards/WikiData/WD~capri_pants,1034971]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_the_Golden_Ark,1417045]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
-sibling: "[[_Standards/WikiData/WD~Mijanou_Bardot,1932905]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-filmography: "[[_Standards/WikiData/WD~Brigitte_Bardot_filmography,12166576]]"
-instrument: "[[_Standards/WikiData/WD~voice,17172850]]"
+  - '[[_Standards/WikiData/WD~Order_of_the_Golden_Ark,1417045]]'
+  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+sibling: '[[_Standards/WikiData/WD~Mijanou_Bardot,1932905]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+filmography: '[[_Standards/WikiData/WD~Brigitte_Bardot_filmography,12166576]]'
+instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Anne_Marie,18091413]]"
-  - "[[_Standards/WikiData/WD~Brigitte,18175370]]"
-family_name: "[[_Standards/WikiData/WD~Bardot,37489404]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-father: "[[_Standards/WikiData/WD~Louis_Bardot,63462799]]"
-discography: "[[_Standards/WikiData/WD~Brigitte_Bardot_discography,64769082]]"
+  - '[[_Standards/WikiData/WD~Anne_Marie,18091413]]'
+  - '[[_Standards/WikiData/WD~Brigitte,18175370]]'
+family_name: '[[_Standards/WikiData/WD~Bardot,37489404]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+father: '[[_Standards/WikiData/WD~Louis_Bardot,63462799]]'
+discography: '[[_Standards/WikiData/WD~Brigitte_Bardot_discography,64769082]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Babepedia,106111559]]"
-  - "[[_Standards/WikiData/WD~Q112918916,112918916]]"
-mother: "[[_Standards/WikiData/WD~Anne_Marie_Mucel,75470766]]"
-child: "[[_Standards/WikiData/WD~Nicolas_Jacques_Charrier,75619265]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Brigitte_Bardot,123843246]]"
-residence: "[[_Standards/WikiData/WD~Saint_Tropez,1813]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
-native_language: "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Babepedia,106111559]]'
+  - '[[_Standards/WikiData/WD~Q112918916,112918916]]'
+mother: '[[_Standards/WikiData/WD~Anne_Marie_Mucel,75470766]]'
+child: '[[_Standards/WikiData/WD~Nicolas_Jacques_Charrier,75619265]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Brigitte_Bardot,123843246]]'
+residence: '[[_Standards/WikiData/WD~Saint_Tropez,1813]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
+native_language: '[[_Standards/WikiData/WD~French,150]]'
 number_of_children: 1
 height: 170
 social_media_followers:
@@ -81,10 +82,10 @@ work_period_start_: 1952-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Brigitte%20Bardot%20-%201962.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Brigitte%20Bardot%20Signature.svg
 official_website: https://www.brigitte-bardot.fr
-ISNI: "0000000114435118"
-RIA_Novosti_reference: "1025699046"
+ISNI: 0000000114435118
+RIA_Novosti_reference: 1025699046
 Libris_URI: 1zcglvtk5472rtx
-P8189: "987007431203805171"
+P8189: 987007431203805171
 Europeana_entity: agent/base/146776
 X_Twitter_username: brigitte_bardot
 ---

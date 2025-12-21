@@ -2,121 +2,28 @@
 aliases:
   - Boyle's_law
   - Boyles law
+  - Boyle's law
 has_id_wikidata: Q175974
 named_after:
-  - "[[_Standards/WikiData/WD~Edme_Mariotte,319749]]"
-  - "[[_Standards/WikiData/WD~Robert_Boyle,43393]]"
+  - '[[_Standards/WikiData/WD~Edme_Mariotte,319749]]'
+  - '[[_Standards/WikiData/WD~Robert_Boyle,43393]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~gas_law,379231]]"
+  - '[[_Standards/WikiData/WD~gas_law,379231]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 defining_formula:
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle P_{1}V_{1}=P_{2}V_{2}}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <msub>
-              <mi>P</mi>
-              <mrow class="MJX-TeXAtom-ORD">
-                <mn>1</mn>
-              </mrow>
-            </msub>
-            <msub>
-              <mi>V</mi>
-              <mrow class="MJX-TeXAtom-ORD">
-                <mn>1</mn>
-              </mrow>
-            </msub>
-            <mo>=</mo>
-            <msub>
-              <mi>P</mi>
-              <mrow class="MJX-TeXAtom-ORD">
-                <mn>2</mn>
-              </mrow>
-            </msub>
-            <msub>
-              <mi>V</mi>
-              <mrow class="MJX-TeXAtom-ORD">
-                <mn>2</mn>
-              </mrow>
-            </msub>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle P_{1}V_{1}=P_{2}V_{2}}</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle PV=k}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>P</mi>
-            <mi>V</mi>
-            <mo>=</mo>
-            <mi>k</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle PV=k}</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle P\propto {\frac {1}{V}}}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>P</mi>
-            <mo>&#x221D;<!-- ∝ --></mo>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mfrac>
-                <mn>1</mn>
-                <mi>V</mi>
-              </mfrac>
-            </mrow>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle P\propto {\frac {1}{V}}}</annotation>
-      </semantics>
-    </math>
-part_of: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
-OmegaWiki_Defined_Meaning: "789427"
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle P_{1}V_{1}=P_{2}V_{2}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msub>\n          <mi>P</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>1</mn>\n          </mrow>\n        </msub>\n        <msub>\n          <mi>V</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>1</mn>\n          </mrow>\n        </msub>\n        <mo>=</mo>\n        <msub>\n          <mi>P</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>2</mn>\n          </mrow>\n        </msub>\n        <msub>\n          <mi>V</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>2</mn>\n          </mrow>\n        </msub>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle P_{1}V_{1}=P_{2}V_{2}}</annotation>\n  </semantics>\n</math>"
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle PV=k}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>P</mi>\n        <mi>V</mi>\n        <mo>=</mo>\n        <mi>k</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle PV=k}</annotation>\n  </semantics>\n</math>"
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle P\\propto {\\frac {1}{V}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>P</mi>\n        <mo>&#x221D;<!-- ∝ --></mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mn>1</mn>\n            <mi>V</mi>\n          </mfrac>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle P\\propto {\\frac {1}{V}}}</annotation>\n  </semantics>\n</math>"
+part_of: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+OmegaWiki_Defined_Meaning: 789427
 in_defining_formula:
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle P}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>P</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle P}</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle V}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>V</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle V}</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle k}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>k</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle k}</annotation>
-      </semantics>
-    </math>
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle P}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>P</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle P}</annotation>\n  </semantics>\n</math>"
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle V}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>V</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle V}</annotation>\n  </semantics>\n</math>"
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle k}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>k</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle k}</annotation>\n  </semantics>\n</math>"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Boyles%20Law%20animated.gif
 Commons_category: Boyle's Law
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "BoylesLaw"]

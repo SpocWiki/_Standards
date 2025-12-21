@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~VeterinaryCare
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/VeterinaryCare
-- class/Thing/Organization/MedicalOrganization/VeterinaryCare
-- is_a_/VeterinaryCare
-- schema-org/VeterinaryCare
+  - class/VeterinaryCare
+  - class/Thing/Organization/MedicalOrganization/VeterinaryCare
+  - is_a_/VeterinaryCare
+  - schema-org/VeterinaryCare
 tags:
-- class/FileClass
-- class/VeterinaryCare
-- is_a_/VeterinaryCare
-- class/Thing/Organization/MedicalOrganization/VeterinaryCare
+  - class/FileClass
+  - class/VeterinaryCare
+  - is_a_/VeterinaryCare
+  - class/Thing/Organization/MedicalOrganization/VeterinaryCare
 version: 2.0
 ---
 

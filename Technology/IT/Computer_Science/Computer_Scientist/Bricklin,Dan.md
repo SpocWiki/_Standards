@@ -3,6 +3,7 @@ aliases:
   - Daniel Singer Bricklin
   - Dan Bricklin
   - Bricklin
+  - Bricklin,Dan
 has_id_wikidata: Q92624
 ---
 

@@ -4,21 +4,22 @@ aliases:
   - smoking_allowed
   - smokingAllowed
   - is_smoking_allowed
+  - is smoking allowed
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - smoking_allowed
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_smoking_allowed
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

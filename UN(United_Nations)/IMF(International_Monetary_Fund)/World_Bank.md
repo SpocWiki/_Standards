@@ -2,61 +2,62 @@
 aliases:
   - World Bank
   - World Bank Group
+  - World_Bank
+has_id_wikidata: Q7164
 board_member:
-  - "[[_Standards/WikiData/WD~Eugene_R._Black,_Sr.,1373171]]"
-  - "[[_Standards/WikiData/WD~Robert_L._Garner,64013328]]"
-chairperson: "[[_Standards/WikiData/WD~Ajaypal_Singh_Banga,4699676]]"
+  - '[[_Standards/WikiData/WD~Eugene_R._Black,_Sr.,1373171]]'
+  - '[[_Standards/WikiData/WD~Robert_L._Garner,64013328]]'
+chairperson: '[[_Standards/WikiData/WD~Ajaypal_Singh_Banga,4699676]]'
 Commons_category: World Bank
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-described_by_source: "[[_Standards/WikiData/WD~Medvik,99413897]]"
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+described_by_source: '[[_Standards/WikiData/WD~Medvik,99413897]]'
 different_from:
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~World_Bank_Group,320863]]"
-director_manager: "[[_Standards/WikiData/WD~Kristalina_Georgieva,265277]]"
+  - '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+  - '[[_Standards/WikiData/WD~World_Bank_Group,320863]]'
+director_manager: '[[_Standards/WikiData/WD~Kristalina_Georgieva,265277]]'
 EU_Corporate_body_code: WB
 Facebook_username: BancoMundialBrasil
 GitHub_topic: worldbank
-has_id_wikidata: Q7164
 has_part_s_:
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+  - '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+  - '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
 has_time_started: 1945-12-27
-headquarters_locations: "[[_Standards/WikiData/WD~World_Bank_Headquarters,105153707]]"
+headquarters_locations: '[[_Standards/WikiData/WD~World_Bank_Headquarters,105153707]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20Bank%20building%20at%20Washington.jpg
 inception: 1945-12-27
-industry: "[[_Standards/WikiData/WD~development_aid,865909]]"
+industry: '[[_Standards/WikiData/WD~development_aid,865909]]'
 Instagram_username: worldbank
-instance_of: "[[_Standards/WikiData/WD~international_financial_institution,1345691]]"
+instance_of: '[[_Standards/WikiData/WD~international_financial_institution,1345691]]'
 ISNI: 404829086
-language_used: "[[_Standards/WikiData/WD~English,1860]]"
+language_used: '[[_Standards/WikiData/WD~English,1860]]'
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20World%20Bank%20logo.svg
 member_of:
-  - "[[_Standards/WikiData/WD~DataCite,821542]]"
-  - "[[_Standards/WikiData/WD~Confederation_of_Open_Access_Repositories,48789578]]"
+  - '[[_Standards/WikiData/WD~DataCite,821542]]'
+  - '[[_Standards/WikiData/WD~Confederation_of_Open_Access_Repositories,48789578]]'
 motto_text: Working for a World Free of Poverty
 official_blog_URL: https://blogs.worldbank.org/
 official_language:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Arabic,13955]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
 official_observer_status_in_organisation:
-  - "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
-  - "[[_Standards/WikiData/WD~International_Union_for_the_Protection_of_New_Varieties_of_Plants,690318]]"
-  - "[[_Standards/WikiData/WD~Pacific_Islands_Forum,757276]]"
-  - "[[_Standards/WikiData/WD~Western_and_Central_Pacific_Fisheries_Commission,2565027]]"
-  - "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
+  - '[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]'
+  - '[[_Standards/WikiData/WD~International_Union_for_the_Protection_of_New_Varieties_of_Plants,690318]]'
+  - '[[_Standards/WikiData/WD~Pacific_Islands_Forum,757276]]'
+  - '[[_Standards/WikiData/WD~Western_and_Central_Pacific_Fisheries_Commission,2565027]]'
+  - '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
 official_website: https://www.worldbank.org/
-open_data_portal: "[[_Standards/WikiData/WD~World_Bank_Open_Data,21540096]]"
+open_data_portal: '[[_Standards/WikiData/WD~World_Bank_Open_Data,21540096]]'
 partnership_with:
-  - "[[_Standards/WikiData/WD~International_Fund_for_Agricultural_Development,689859]]"
-  - "[[_Standards/WikiData/WD~United_Cities_and_Local_Governments,2974854]]"
+  - '[[_Standards/WikiData/WD~International_Fund_for_Agricultural_Development,689859]]'
+  - '[[_Standards/WikiData/WD~United_Cities_and_Local_Governments,2974854]]'
 part_of:
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+  - '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+  - '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+  - '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+  - '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
 short_name:
   - BM
   - BM

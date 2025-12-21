@@ -1,26 +1,28 @@
 ---
 aliases:
   - Rhythmic_gymnastics
+  - Rhythmic_Gymnastics
+  - Rhythmic Gymnastics
 has_id_wikidata: Q61465
 instance_of:
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~sports_discipline,2312410]]"
+  - '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+  - '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
 different_from:
-  - "[[_Standards/WikiData/WD~artistic_gymnastics,326827]]"
-  - "[[_Standards/WikiData/WD~Dalcroze_Eurhythmics,705651]]"
+  - '[[_Standards/WikiData/WD~artistic_gymnastics,326827]]'
+  - '[[_Standards/WikiData/WD~Dalcroze_Eurhythmics,705651]]'
 uses:
-  - "[[_Standards/WikiData/WD~rope,635343]]"
-  - "[[_Standards/WikiData/WD~ribbon,748773]]"
-  - "[[_Standards/WikiData/WD~ball,2356340]]"
-  - "[[_Standards/WikiData/WD~hoop,2553153]]"
-  - "[[_Standards/WikiData/WD~club,15103818]]"
+  - '[[_Standards/WikiData/WD~rope,635343]]'
+  - '[[_Standards/WikiData/WD~ribbon,748773]]'
+  - '[[_Standards/WikiData/WD~ball,2356340]]'
+  - '[[_Standards/WikiData/WD~hoop,2553153]]'
+  - '[[_Standards/WikiData/WD~club,15103818]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~rhythmic_gymnast,24037210]]"
-  - "[[_Standards/WikiData/WD~gymnastics_coach,42331265]]"
+  - '[[_Standards/WikiData/WD~rhythmic_gymnast,24037210]]'
+  - '[[_Standards/WikiData/WD~gymnastics_coach,42331265]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~rhythmic_gymnastics,29343801]]"
-  - "[[_Standards/WikiData/WD~gymnastics,43450]]"
-sport: "[[_Standards/WikiData/WD~gymnastics,43450]]"
+  - '[[_Standards/WikiData/WD~rhythmic_gymnastics,29343801]]'
+  - '[[_Standards/WikiData/WD~gymnastics,43450]]'
+sport: '[[_Standards/WikiData/WD~gymnastics,43450]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Evgenia%20Kanaeva%20RUS%20Olympiasiegerin.JPG
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20pictogram%20Gymnastics%20%28rhythmic%29.png
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Rhytmic%20Gymnastics%20Group%2010%20Clubs%20final%20-%2027th%20Summer%20Universiade%202013%20-%20Kazan.webm

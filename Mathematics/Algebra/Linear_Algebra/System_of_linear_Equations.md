@@ -1,6 +1,8 @@
 ---
 aliases:
   - Lineares Gleichungssystem
+  - System_of_linear_Equations
+  - System of linear Equations
 has_id_wikidata: Q11203
 ---
 

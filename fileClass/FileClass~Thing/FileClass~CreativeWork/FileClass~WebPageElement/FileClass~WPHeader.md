@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~WPHeader
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/WPHeader
-- class/Thing/CreativeWork/WebPageElement/WPHeader
-- is_a_/WPHeader
-- schema-org/WPHeader
+  - class/WPHeader
+  - class/Thing/CreativeWork/WebPageElement/WPHeader
+  - is_a_/WPHeader
+  - schema-org/WPHeader
 tags:
-- class/FileClass
-- class/WPHeader
-- is_a_/WPHeader
-- class/Thing/CreativeWork/WebPageElement/WPHeader
+  - class/FileClass
+  - class/WPHeader
+  - is_a_/WPHeader
+  - class/Thing/CreativeWork/WebPageElement/WPHeader
 version: 2.0
 ---
 

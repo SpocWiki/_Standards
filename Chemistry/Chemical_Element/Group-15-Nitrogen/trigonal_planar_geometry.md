@@ -1,6 +1,7 @@
 ---
 aliases:
-- "trigonal planar geometry"
+  - trigonal planar geometry
+  - trigonal_planar_geometry
 ---
 
 [[../../Organic_Chemistry/Aldehyde/Formaldehyde]]: 

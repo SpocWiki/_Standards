@@ -3,9 +3,10 @@ aliases:
   - Roger_Federer
   - Roger Federer
   - Federer
+  - Federer,Roger
 has_id_wikidata: Q1426
-ISNI: "0000000078449693"
-Munzinger_Sport_number: "01000005836"
+ISNI: 0000000078449693
+Munzinger_Sport_number: 01000005836
 singles_record: 1251–275
 Commons_category: Roger Federer
 Instagram_username: rogerfederer
@@ -15,70 +16,70 @@ nickname: The Swiss Maestro / Fed Express
 name_in_native_language: Roger Federer
 work_period_start_: 1998-01-01T00:00:00Z
 work_period_end_: 2022-01-01T00:00:00Z
-municipal_affiliation_of_a_Swiss_national: "[[_Standards/WikiData/WD~Berneck,67225]]"
-residence: "[[_Standards/WikiData/WD~Bottmingen,70036]]"
-supported_sports_team: "[[_Standards/WikiData/WD~FC_Basel,189671]]"
-spouse: "[[_Standards/WikiData/WD~Mirka_Federer,233306]]"
+municipal_affiliation_of_a_Swiss_national: '[[_Standards/WikiData/WD~Berneck,67225]]'
+residence: '[[_Standards/WikiData/WD~Bottmingen,70036]]'
+supported_sports_team: '[[_Standards/WikiData/WD~FC_Basel,189671]]'
+spouse: '[[_Standards/WikiData/WD~Mirka_Federer,233306]]'
 head_coach:
-  - "[[_Standards/WikiData/WD~Ivan_Ljubičić,261095]]"
-  - "[[_Standards/WikiData/WD~José_Higueras,1348847]]"
-  - "[[_Standards/WikiData/WD~Peter_Carter,1968483]]"
-  - "[[_Standards/WikiData/WD~Severin_Lüthi,15649219]]"
+  - '[[_Standards/WikiData/WD~Ivan_Ljubičić,261095]]'
+  - '[[_Standards/WikiData/WD~José_Higueras,1348847]]'
+  - '[[_Standards/WikiData/WD~Peter_Carter,1968483]]'
+  - '[[_Standards/WikiData/WD~Severin_Lüthi,15649219]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Swiss_Sports_Personality_of_the_Year,338737]]"
-  - "[[_Standards/WikiData/WD~ITF_World_Champions,693708]]"
+  - '[[_Standards/WikiData/WD~Swiss_Sports_Personality_of_the_Year,338737]]'
+  - '[[_Standards/WikiData/WD~ITF_World_Champions,693708]]'
   - "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
-  - "[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]"
-  - "[[_Standards/WikiData/WD~Best_International_Athlete_ESPY_Award,4896696]]"
-  - "[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Basel,56509472]]"
+  - '[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]'
+  - '[[_Standards/WikiData/WD~Best_International_Athlete_ESPY_Award,4896696]]'
+  - '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Basel,56509472]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Swiss_German,387066]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
+  - '[[_Standards/WikiData/WD~Swiss_German,387066]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+  - '[[_Standards/WikiData/WD~German,188]]'
 significant_person:
-  - "[[_Standards/WikiData/WD~Marco_Chiudinelli,523802]]"
-  - "[[_Standards/WikiData/WD~Yves_Allegro,664843]]"
-  - "[[_Standards/WikiData/WD~Novak_Djokovic,5812]]"
-  - "[[_Standards/WikiData/WD~Rafael_Nadal,10132]]"
-  - "[[_Standards/WikiData/WD~Andy_Roddick,54584]]"
-employer: "[[_Standards/WikiData/WD~UNICEF,740308]]"
-member_of: "[[_Standards/WikiData/WD~Swiss_Tennis,1675504]]"
-handedness: "[[_Standards/WikiData/WD~right_handedness,3039938]]"
-given_name: "[[_Standards/WikiData/WD~Roger,4925304]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-occupation: "[[_Standards/WikiData/WD~tennis_player,10833314]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Roger_Federer,14402193]]"
+  - '[[_Standards/WikiData/WD~Marco_Chiudinelli,523802]]'
+  - '[[_Standards/WikiData/WD~Yves_Allegro,664843]]'
+  - '[[_Standards/WikiData/WD~Novak_Djokovic,5812]]'
+  - '[[_Standards/WikiData/WD~Rafael_Nadal,10132]]'
+  - '[[_Standards/WikiData/WD~Andy_Roddick,54584]]'
+employer: '[[_Standards/WikiData/WD~UNICEF,740308]]'
+member_of: '[[_Standards/WikiData/WD~Swiss_Tennis,1675504]]'
+handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
+given_name: '[[_Standards/WikiData/WD~Roger,4925304]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+occupation: '[[_Standards/WikiData/WD~tennis_player,10833314]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Roger_Federer,14402193]]'
 playing_hand:
-  - "[[_Standards/WikiData/WD~one_handed_forehand,14419931]]"
-  - "[[_Standards/WikiData/WD~one_handed_backhand,14420039]]"
-family_name: "[[_Standards/WikiData/WD~Federer,16869916]]"
+  - '[[_Standards/WikiData/WD~one_handed_forehand,14419931]]'
+  - '[[_Standards/WikiData/WD~one_handed_backhand,14420039]]'
+family_name: '[[_Standards/WikiData/WD~Federer,16869916]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-father: "[[_Standards/WikiData/WD~Robert_Federer,17291275]]"
-mother: "[[_Standards/WikiData/WD~Lynette_Federer,17291278]]"
-sibling: "[[_Standards/WikiData/WD~Dziana_Federer,17291284]]"
+  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+father: '[[_Standards/WikiData/WD~Robert_Federer,17291275]]'
+mother: '[[_Standards/WikiData/WD~Lynette_Federer,17291278]]'
+sibling: '[[_Standards/WikiData/WD~Dziana_Federer,17291284]]'
 child:
-  - "[[_Standards/WikiData/WD~Myla_Federer,17291294]]"
-  - "[[_Standards/WikiData/WD~Charlene_Federer,17291300]]"
-  - "[[_Standards/WikiData/WD~Leo_Federer,17291308]]"
-  - "[[_Standards/WikiData/WD~Lennart_Federer,17291316]]"
+  - '[[_Standards/WikiData/WD~Myla_Federer,17291294]]'
+  - '[[_Standards/WikiData/WD~Charlene_Federer,17291300]]'
+  - '[[_Standards/WikiData/WD~Leo_Federer,17291308]]'
+  - '[[_Standards/WikiData/WD~Lennart_Federer,17291316]]'
 sports_discipline_competed_in:
-  - "[[_Standards/WikiData/WD~tennis_singles,18123880]]"
-  - "[[_Standards/WikiData/WD~tennis_doubles,18123885]]"
-position_held: "[[_Standards/WikiData/WD~UNICEF_Goodwill_Ambassador,19969187]]"
+  - '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
+  - '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
+position_held: '[[_Standards/WikiData/WD~UNICEF_Goodwill_Ambassador,19969187]]'
 prize_money: 130594339
-sport: "[[_Standards/WikiData/WD~tennis,847]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Switzerland,39]]"
-country_for_sport: "[[_Standards/WikiData/WD~Switzerland,39]]"
-place_of_birth: "[[_Standards/WikiData/WD~Basel,78]]"
+sport: '[[_Standards/WikiData/WD~tennis,847]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Switzerland,39]]'
+country_for_sport: '[[_Standards/WikiData/WD~Switzerland,39]]'
+place_of_birth: '[[_Standards/WikiData/WD~Basel,78]]'
 ranking:
   - 1
   - 24
-native_language: "[[_Standards/WikiData/WD~German,188]]"
+native_language: '[[_Standards/WikiData/WD~German,188]]'
 number_of_children: 4
 mass: 85
 height: 185

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ProfessionalService
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ProfessionalService
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ProfessionalService
-- is_a_/ProfessionalService
-- schema-org/ProfessionalService
+  - class/ProfessionalService
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ProfessionalService
+  - is_a_/ProfessionalService
+  - schema-org/ProfessionalService
 tags:
-- class/FileClass
-- class/ProfessionalService
-- is_a_/ProfessionalService
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ProfessionalService
+  - class/FileClass
+  - class/ProfessionalService
+  - is_a_/ProfessionalService
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ProfessionalService
 version: 2.0
 ---
 

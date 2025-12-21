@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Biomolecule
 has_id_wikidata: Q206229
 ---
 

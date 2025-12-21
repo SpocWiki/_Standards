@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~WPSideBar
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/WPSideBar
-- class/Thing/CreativeWork/WebPageElement/WPSideBar
-- is_a_/WPSideBar
-- schema-org/WPSideBar
+  - class/WPSideBar
+  - class/Thing/CreativeWork/WebPageElement/WPSideBar
+  - is_a_/WPSideBar
+  - schema-org/WPSideBar
 tags:
-- class/FileClass
-- class/WPSideBar
-- is_a_/WPSideBar
-- class/Thing/CreativeWork/WebPageElement/WPSideBar
+  - class/FileClass
+  - class/WPSideBar
+  - is_a_/WPSideBar
+  - class/Thing/CreativeWork/WebPageElement/WPSideBar
 version: 2.0
 ---
 

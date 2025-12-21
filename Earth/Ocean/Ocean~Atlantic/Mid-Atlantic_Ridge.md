@@ -1,24 +1,26 @@
 ---
 aliases:
   - Mittelatlantischer Rücken
+  - Mid-Atlantic_Ridge
+  - Mid-Atlantic Ridge
 has_id_wikidata: Q207313
 instance_of:
-  - "[[_Standards/WikiData/WD~mid_ocean_ridge,104698]]"
-  - "[[_Standards/WikiData/WD~non_geologically_related_mountain_range,1437459]]"
+  - '[[_Standards/WikiData/WD~mid_ocean_ridge,104698]]'
+  - '[[_Standards/WikiData/WD~non_geologically_related_mountain_range,1437459]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Kolbeinsey_Ridge,1440284]]"
-  - "[[_Standards/WikiData/WD~Reykjanes_Ridge,3037253]]"
-heritage_designation: "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900]]"
+  - '[[_Standards/WikiData/WD~Kolbeinsey_Ridge,1440284]]'
+  - '[[_Standards/WikiData/WD~Reykjanes_Ridge,3037253]]'
+heritage_designation: '[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Ukrainian_Soviet_Encyclopedia,2478929]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]"
+  - '[[_Standards/WikiData/WD~Ukrainian_Soviet_Encyclopedia,2478929]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]'
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(viii),23038983]]"
-  - "[[_Standards/WikiData/WD~(vii),23038981]]"
-  - "[[_Standards/WikiData/WD~(ix),23038985]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~international_waters,25855]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+  - '[[_Standards/WikiData/WD~(viii),23038983]]'
+  - '[[_Standards/WikiData/WD~(vii),23038981]]'
+  - '[[_Standards/WikiData/WD~(ix),23038985]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~international_waters,25855]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
 bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlantic%20bathymetry.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlantic%20Oceanic-Crust.jpg
 Commons_category: Mid-Atlantic Ridge

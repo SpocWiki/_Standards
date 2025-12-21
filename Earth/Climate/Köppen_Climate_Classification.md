@@ -2,13 +2,15 @@
 aliases:
   - Köppen climate classification
   - Köppen–Geiger climate classification
+  - Köppen_Climate_Classification
+  - Köppen Climate Classification
 has_id_wikidata: Q124095
-named_after: "[[_Standards/WikiData/WD~Wladimir_Köppen,76991]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Wladimir_Köppen,76991]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Köppen,10975377]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~category_in_the_Köppen_climate_classification_systems,23702033]]"
-instance_of: "[[_Standards/WikiData/WD~effective_climate_2024classification,120064804]]"
+named_after: '[[_Standards/WikiData/WD~Wladimir_Köppen,76991]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Wladimir_Köppen,76991]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Köppen,10975377]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~category_in_the_Köppen_climate_classification_systems,23702033]]'
+instance_of: '[[_Standards/WikiData/WD~effective_climate_2024classification,120064804]]'
 inception: 1884-01-01T00:00:00Z
 Wikidata_property: Köppen climate classification
 Commons_category: Köppen-Geiger

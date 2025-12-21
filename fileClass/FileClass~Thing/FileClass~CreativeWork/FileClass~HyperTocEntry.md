@@ -1,31 +1,33 @@
 ---
-excludes: 
+aliases:
+  - FileClass~HyperTocEntry
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: yXs6r2
-  name: TocContinuation
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/HyperTocEntry')"
-  type: MultiFile
-  path: ''
-- id: bFnxIk
-  name: Utterances
-  options: {}
-  type: Input
-  path: ''
+  - id: yXs6r2
+    name: TocContinuation
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/HyperTocEntry')
+    type: MultiFile
+    path: ''
+  - id: bFnxIk
+    name: Utterances
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/HyperTocEntry
-- class/Thing/CreativeWork/HyperTocEntry
-- is_a_/HyperTocEntry
-- schema-org/HyperTocEntry
+  - class/HyperTocEntry
+  - class/Thing/CreativeWork/HyperTocEntry
+  - is_a_/HyperTocEntry
+  - schema-org/HyperTocEntry
 tags:
-- class/FileClass
-- class/HyperTocEntry
-- is_a_/HyperTocEntry
-- class/Thing/CreativeWork/HyperTocEntry
+  - class/FileClass
+  - class/HyperTocEntry
+  - is_a_/HyperTocEntry
+  - class/Thing/CreativeWork/HyperTocEntry
 version: 2.0
 ---
 

@@ -4,21 +4,23 @@ aliases:
   - anaerobic_activity
   - AnaerobicActivity
   - is_an_anaerobic_activity
+  - Anaerobic_Activity
+  - Anaerobic Activity
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: PhysicalActivityCategory
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - anaerobic_activity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_anaerobic_activity Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -2,26 +2,27 @@
 aliases:
   - kettledrums
   - timp
+  - Timpani
 has_id_wikidata: Q189737
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-has_characteristic: "[[_Standards/WikiData/WD~missing_fundamental,1431822]]"
-used_by: "[[_Standards/WikiData/WD~timpanist,3528729]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+has_characteristic: '[[_Standards/WikiData/WD~missing_fundamental,1431822]]'
+used_by: '[[_Standards/WikiData/WD~timpanist,3528729]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~directly_struck_membranophone,5280487]]"
-  - "[[_Standards/WikiData/WD~melodic_percussion_instrument,7198871]]"
-  - "[[_Standards/WikiData/WD~separate_bowl_drums,55723166]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
-Nomenclature_for_Museum_Cataloging: "10749"
-OmegaWiki_Defined_Meaning: "403283"
-Amazon_com_browse_node: "11970311"
+  - '[[_Standards/WikiData/WD~directly_struck_membranophone,5280487]]'
+  - '[[_Standards/WikiData/WD~melodic_percussion_instrument,7198871]]'
+  - '[[_Standards/WikiData/WD~separate_bowl_drums,55723166]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+Nomenclature_for_Museum_Cataloging: 10749
+OmegaWiki_Defined_Meaning: 403283
+Amazon_com_browse_node: 11970311
 Commons_category: Timpani
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Munich%20-%20A%20standard%20set%20of%20timpani%20Percussion%20-%205647.jpg
 playing_range_image:

@@ -1,20 +1,21 @@
 ---
 aliases:
   - Clericó
+  - Sangria
 has_id_wikidata: Q273296
 has_part_s_:
-  - "[[_Standards/WikiData/WD~soft_drink,147538]]"
-  - "[[_Standards/WikiData/WD~fruit,3314483]]"
-  - "[[_Standards/WikiData/WD~red_wine,1827]]"
-  - "[[_Standards/WikiData/WD~sugar,11002]]"
-instance_of: "[[_Standards/WikiData/WD~wine_cocktail,2894814]]"
+  - '[[_Standards/WikiData/WD~soft_drink,147538]]'
+  - '[[_Standards/WikiData/WD~fruit,3314483]]'
+  - '[[_Standards/WikiData/WD~red_wine,1827]]'
+  - '[[_Standards/WikiData/WD~sugar,11002]]'
+instance_of: '[[_Standards/WikiData/WD~wine_cocktail,2894814]]'
 country_of_origin:
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~Portugal,45]]"
-OmegaWiki_Defined_Meaning: "1016353"
+  - '[[_Standards/WikiData/WD~Spain,29]]'
+  - '[[_Standards/WikiData/WD~Portugal,45]]'
+OmegaWiki_Defined_Meaning: 1016353
 Commons_category: Sangria
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sangria%20in%20a%20tall%20skinny%20glass%20in%20Malaga.jpg
-Amazon_com_browse_node: "18327545011"
+Amazon_com_browse_node: 18327545011
 FoodEx2_code: A03PT
 Wolfram_Language_entity_code: Entity["FoodType", "Sangria"]
 native_label: Sangría

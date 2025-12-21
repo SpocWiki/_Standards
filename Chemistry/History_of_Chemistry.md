@@ -1,16 +1,18 @@
 ---
 aliases:
   - history of chemistry
+  - History_of_Chemistry
+  - History of Chemistry
 has_id_wikidata: Q501353
-subclass_of: "[[_Standards/WikiData/WD~history_of_science,201486]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+subclass_of: '[[_Standards/WikiData/WD~history_of_science,201486]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~history_of_the_periodic_table,14916030]]"
-  - "[[_Standards/WikiData/WD~history_of_organic_chemistry,17480697]]"
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-practiced_by: "[[_Standards/WikiData/WD~historian_of_chemistry,53554997]]"
-facet_of: "[[_Standards/WikiData/WD~chemistry,2329]]"
-Basisklassifikation: "35.01"
+  - '[[_Standards/WikiData/WD~history_of_the_periodic_table,14916030]]'
+  - '[[_Standards/WikiData/WD~history_of_organic_chemistry,17480697]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_chemistry,53554997]]'
+facet_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
+Basisklassifikation: 35.01
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/David%20-%20Portrait%20of%20Monsieur%20Lavoisier%20and%20His%20Wife.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/De%20Re%20Metallica%201556%20p%20357AQ20%20%283%29.TIF

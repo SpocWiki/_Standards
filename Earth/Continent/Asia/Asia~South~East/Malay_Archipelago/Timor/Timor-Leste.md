@@ -9,6 +9,7 @@ aliases:
   - Osttimor
   - East Timor
   - East_Timor
+has_id_wikidata: Q574
 location:
   - -8.56667
   - 125.567
@@ -139,7 +140,7 @@ demonym:
   - est-timoreze
   - est-timorezi
   - est-timorezo
-expiryDate:
+expiryDate: ""
 electrical_plug_type:
   - "[[_Standards/WikiData/WD~Schuko,1123613]]"
   - "[[_Standards/WikiData/WD~Europlug,1378312]]"
@@ -156,7 +157,6 @@ female_population:
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20East%20Timor.svg
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_East_Timor,2334420]]"
 geoshape: http://commons.wikimedia.org/data/main/Data:East+Timor.map
-has_id_wikidata: Q574
 head_of_government: "[[_Standards/WikiData/WD~Xanana_Gusmão,11509]]"
 head_of_state: "[[_Standards/WikiData/WD~José_Ramos-Horta,11665]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_East_Timor,840261]]"
@@ -172,10 +172,10 @@ instance_of:
   - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 inception: 1975-11-28
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lospalos%20klein.jpg
-keywords:
+keywords: ""
 license: CC BY-SA 4.0
-linkTitle:
-layout:
+linkTitle: ""
+layout: ""
 language_used:
   - "[[_Standards/WikiData/WD~Portuguese,5146]]"
   - "[[_Standards/WikiData/WD~Tetum,34125]]"
@@ -259,7 +259,7 @@ official_name:
   - Timor-Leste
 official_website: http://timor-leste.gov.tl/?lang=en
 publish: true
-publishDate:
+publishDate: ""
 part_of: "[[_Standards/WikiData/WD~Southeast_Asia,11708]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25691118,25691118]]"
 population: 1243235

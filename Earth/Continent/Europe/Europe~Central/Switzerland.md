@@ -1,7 +1,4 @@
 ---
-age_of_majority:
-  - 20
-  - 18
 aliases:
   - Switzerland
   - Suiza
@@ -15,6 +12,9 @@ aliases:
   - Svizra
   - Helvetica
 has_id_wikidata: Q39
+age_of_majority:
+  - 20
+  - 18
 anthem: "[[_Standards/WikiData/WD~Swiss_Psalm,182536]]"
 area: 41285
 Baidu_Tieba_name: 瑞士
@@ -201,7 +201,7 @@ emergency_phone_number:
   - "[[_Standards/WikiData/WD~145,25648913]]"
   - "[[_Standards/WikiData/WD~1414,26258266]]"
 executive_body: "[[_Standards/WikiData/WD~Swiss_Federal_Council,30917]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 4322218
   - 4352384
@@ -254,7 +254,7 @@ ISO_3166_1_alpha_3_code: CHE
 ISO_3166_1_numeric_code: 756
 isReadOnly: false
 ITU_letter_code: SUI
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/SHVETSARIYA.html
 Languages:
   - de-CH
@@ -274,13 +274,13 @@ language_used:
   - "[[_Standards/WikiData/WD~Swiss-French_Sign_Language,12953483]]"
   - "[[_Standards/WikiData/WD~Lombard,33754]]"
   - "[[_Standards/WikiData/WD~Swiss-German_Sign_Language,35150]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~Federal_Assembly_of_Switzerland,684719]]"
 Libris_URI: nl0229c6538hjvc
 licence_plate_code: CH
 license: CC BY-SA 4.0
 life_expectancy: 82.89756
-linkTitle:
+linkTitle: ""
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Central_Europe,27509]]"
 located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
 location:
@@ -399,7 +399,7 @@ public_holiday:
   - "[[_Standards/WikiData/WD~Swiss_National_Day,38087]]"
   - "[[_Standards/WikiData/WD~Good_Friday,40317]]"
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side:
   - "[[_Standards/WikiData/WD~left,13196750]]"
   - "[[_Standards/WikiData/WD~right,14565199]]"

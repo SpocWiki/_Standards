@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CafeOrCoffeeShop
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment
 fields: []
 icon: coffee
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CafeOrCoffeeShop
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/CafeOrCoffeeShop
-- is_a_/CafeOrCoffeeShop
-- schema-org/CafeOrCoffeeShop
+  - class/CafeOrCoffeeShop
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/CafeOrCoffeeShop
+  - is_a_/CafeOrCoffeeShop
+  - schema-org/CafeOrCoffeeShop
 tags:
-- class/FileClass
-- class/CafeOrCoffeeShop
-- is_a_/CafeOrCoffeeShop
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/CafeOrCoffeeShop
+  - class/FileClass
+  - class/CafeOrCoffeeShop
+  - is_a_/CafeOrCoffeeShop
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/CafeOrCoffeeShop
 version: 2.0
 ---
 

@@ -2,6 +2,7 @@
 aliases:
   - English Channel
   - Channel
+  - English_Channel
 has_id_wikidata: Q34640
 ---
 

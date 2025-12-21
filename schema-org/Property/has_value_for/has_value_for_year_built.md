@@ -4,21 +4,22 @@ aliases:
   - year-built
   - yearBuilt
   - has_value_for_year_built
+  - has value for year built
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - year-built
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_year-built
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

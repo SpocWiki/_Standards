@@ -4,21 +4,22 @@ aliases:
   - yield
   - yield
   - has_value_for_yield
+  - has value for yield
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - yield
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_yield
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

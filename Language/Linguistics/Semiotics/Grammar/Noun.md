@@ -2,14 +2,15 @@
 aliases:
   - Nomen
   - Substantiv
+  - Noun
 has_id_wikidata: Q1084
-instance_of: "[[_Standards/WikiData/WD~part_of_speech,82042]]"
+instance_of: '[[_Standards/WikiData/WD~part_of_speech,82042]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~name,82799]]"
-  - "[[_Standards/WikiData/WD~nominal_locution,29888377]]"
-represents: "[[_Standards/WikiData/WD~substance,378078]]"
-part_of: "[[_Standards/WikiData/WD~noun_phrase,1401131]]"
-has_characteristic: "[[_Standards/WikiData/WD~countability,107063735]]"
+  - '[[_Standards/WikiData/WD~name,82799]]'
+  - '[[_Standards/WikiData/WD~nominal_locution,29888377]]'
+represents: '[[_Standards/WikiData/WD~substance,378078]]'
+part_of: '[[_Standards/WikiData/WD~noun_phrase,1401131]]'
+has_characteristic: '[[_Standards/WikiData/WD~countability,107063735]]'
 entry_in_abbreviations_table:
   - s
   - n
@@ -28,7 +29,7 @@ entry_in_abbreviations_table:
   - сущ.
   - اِ
   - বি.
-OmegaWiki_Defined_Meaning: "5612"
+OmegaWiki_Defined_Meaning: 5612
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Substantiv.ogg
 exact_match:
   - http://www.lexinfo.net/ontology/2.0/lexinfo#noun
@@ -36,7 +37,7 @@ exact_match:
 equivalent_class:
   - http://www.lexinfo.net/ontology/2.0/lexinfo#Noun
   - http://www.lexinfo.net/ontology/3.0/lexinfo#Noun
-Dewey_Decimal_Classification: "417.45"
+Dewey_Decimal_Classification: 417.45
 Commons_category: Nouns
 ---
 

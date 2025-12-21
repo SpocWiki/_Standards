@@ -1,35 +1,36 @@
 ---
 aliases:
   - Shia Islam
+  - Shia_Islam
 has_id_wikidata: Q9585
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Zaidism,144333]]"
+  - '[[_Standards/WikiData/WD~Zaidism,144333]]'
   - "[[_Standards/WikiData/WD~Isma'ilism,230386]]"
-  - "[[_Standards/WikiData/WD~Twelver_Shiism,269785]]"
-  - "[[_Standards/WikiData/WD~Ghulat,2592417]]"
+  - '[[_Standards/WikiData/WD~Twelver_Shiism,269785]]'
+  - '[[_Standards/WikiData/WD~Ghulat,2592417]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Shi'a_Islam,606114]]"
-instance_of: "[[_Standards/WikiData/WD~Islamic_denomination,1192063]]"
-part_of: "[[_Standards/WikiData/WD~Islam,432]]"
-subclass_of: "[[_Standards/WikiData/WD~Islam,432]]"
-significant_person: "[[_Standards/WikiData/WD~Alī_ibn_Abī_Ṭālib,39619]]"
-named_after: "[[_Standards/WikiData/WD~Alī_ibn_Abī_Ṭālib,39619]]"
-different_from: "[[_Standards/WikiData/WD~schism,41521]]"
+instance_of: '[[_Standards/WikiData/WD~Islamic_denomination,1192063]]'
+part_of: '[[_Standards/WikiData/WD~Islam,432]]'
+subclass_of: '[[_Standards/WikiData/WD~Islam,432]]'
+significant_person: '[[_Standards/WikiData/WD~Alī_ibn_Abī_Ṭālib,39619]]'
+named_after: '[[_Standards/WikiData/WD~Alī_ibn_Abī_Ṭālib,39619]]'
+different_from: '[[_Standards/WikiData/WD~schism,41521]]'
 Colon_Classification: Q72
 Commons_category: Shiism
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%A7%D9%84%D8%B4%D9%8A%D8%B9%D8%A9.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D8%A7%D9%84%D8%B4%D9%8A%D8%B9%D8%A9.wav
 Stack_Exchange_tag: https://islam.stackexchange.com/tags/shiism
-Dewey_Decimal_Classification: "297.82"
+Dewey_Decimal_Classification: 297.82
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/SHIITI.html
 native_label: الشِّيعَة
 OpenStreetMap_tag: denomination=shia

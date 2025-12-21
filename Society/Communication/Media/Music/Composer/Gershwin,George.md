@@ -4,90 +4,91 @@ aliases:
   - Jacob Gershwine
   - George Gershwin
   - Gershwin
+  - Gershwin,George
 has_id_wikidata: Q123829
-nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]"
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
 student_of:
-  - "[[_Standards/WikiData/WD~Nadia_Boulanger,140619]]"
-  - "[[_Standards/WikiData/WD~Henry_Cowell,434610]]"
-  - "[[_Standards/WikiData/WD~Rubin_Goldmark,713765]]"
-  - "[[_Standards/WikiData/WD~Edward_Kilenyi,23675253]]"
-  - "[[_Standards/WikiData/WD~Charles_Hambitzer,23675262]]"
+  - '[[_Standards/WikiData/WD~Nadia_Boulanger,140619]]'
+  - '[[_Standards/WikiData/WD~Henry_Cowell,434610]]'
+  - '[[_Standards/WikiData/WD~Rubin_Goldmark,713765]]'
+  - '[[_Standards/WikiData/WD~Edward_Kilenyi,23675253]]'
+  - '[[_Standards/WikiData/WD~Charles_Hambitzer,23675262]]'
 occupation:
-  - "[[_Standards/WikiData/WD~conductor,158852]]"
-  - "[[_Standards/WikiData/WD~pianist,486748]]"
-  - "[[_Standards/WikiData/WD~songwriter,753110]]"
-  - "[[_Standards/WikiData/WD~painter,1028181]]"
-  - "[[_Standards/WikiData/WD~film_score_composer,1415090]]"
-  - "[[_Standards/WikiData/WD~jazz_pianist,61947380]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-affiliation: "[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]"
+  - '[[_Standards/WikiData/WD~conductor,158852]]'
+  - '[[_Standards/WikiData/WD~pianist,486748]]'
+  - '[[_Standards/WikiData/WD~songwriter,753110]]'
+  - '[[_Standards/WikiData/WD~painter,1028181]]'
+  - '[[_Standards/WikiData/WD~film_score_composer,1415090]]'
+  - '[[_Standards/WikiData/WD~jazz_pianist,61947380]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
+affiliation: '[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~popular_music,373342]]"
-  - "[[_Standards/WikiData/WD~music,638]]"
-  - "[[_Standards/WikiData/WD~musical,2743]]"
-  - "[[_Standards/WikiData/WD~jazz,8341]]"
-  - "[[_Standards/WikiData/WD~pop_music,37073]]"
-different_from: "[[_Standards/WikiData/WD~Gershwin,414919]]"
+  - '[[_Standards/WikiData/WD~popular_music,373342]]'
+  - '[[_Standards/WikiData/WD~music,638]]'
+  - '[[_Standards/WikiData/WD~musical,2743]]'
+  - '[[_Standards/WikiData/WD~jazz,8341]]'
+  - '[[_Standards/WikiData/WD~pop_music,37073]]'
+different_from: '[[_Standards/WikiData/WD~Gershwin,414919]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]"
-  - "[[_Standards/WikiData/WD~Grammy_Trustees_Award,5593916]]"
-  - "[[_Standards/WikiData/WD~Pulitzer_Prize_Special_Citations_and_Awards,7259350]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
+  - '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
+  - '[[_Standards/WikiData/WD~Grammy_Trustees_Award,5593916]]'
+  - '[[_Standards/WikiData/WD~Pulitzer_Prize_Special_Citations_and_Awards,7259350]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Rhapsody_in_Blue,722599]]"
-  - "[[_Standards/WikiData/WD~Porgy_and_Bess,740920]]"
-  - "[[_Standards/WikiData/WD~An_American_in_Paris,853997]]"
-  - "[[_Standards/WikiData/WD~The_Man_I_Love,1828805]]"
-record_label: "[[_Standards/WikiData/WD~Victor_Talking_Machine_Company,1470329]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~National_Portrait_Gallery,1967614]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-list_of_works: "[[_Standards/WikiData/WD~list_of_compositions_by_George_Gershwin,4436316]]"
+  - '[[_Standards/WikiData/WD~Rhapsody_in_Blue,722599]]'
+  - '[[_Standards/WikiData/WD~Porgy_and_Bess,740920]]'
+  - '[[_Standards/WikiData/WD~An_American_in_Paris,853997]]'
+  - '[[_Standards/WikiData/WD~The_Man_I_Love,1828805]]'
+record_label: '[[_Standards/WikiData/WD~Victor_Talking_Machine_Company,1470329]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~National_Portrait_Gallery,1967614]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+list_of_works: '[[_Standards/WikiData/WD~list_of_compositions_by_George_Gershwin,4436316]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Arthur_Gershwin,4798811]]"
-  - "[[_Standards/WikiData/WD~Frances_Gershwin,5478666]]"
-  - "[[_Standards/WikiData/WD~Ira_Gershwin,61059]]"
-artist_files_at: "[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-place_of_burial: "[[_Standards/WikiData/WD~Westchester_Hills_Cemetery,7987250]]"
-cause_of_death: "[[_Standards/WikiData/WD~brain_cancer,9303627]]"
+  - '[[_Standards/WikiData/WD~Arthur_Gershwin,4798811]]'
+  - '[[_Standards/WikiData/WD~Frances_Gershwin,5478666]]'
+  - '[[_Standards/WikiData/WD~Ira_Gershwin,61059]]'
+artist_files_at: '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+place_of_burial: '[[_Standards/WikiData/WD~Westchester_Hills_Cemetery,7987250]]'
+cause_of_death: '[[_Standards/WikiData/WD~brain_cancer,9303627]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]"
-given_name: "[[_Standards/WikiData/WD~Jacob,25999604]]"
-ethnic_group: "[[_Standards/WikiData/WD~Russian_Jews,32360797]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+  - '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
+given_name: '[[_Standards/WikiData/WD~Jacob,25999604]]'
+ethnic_group: '[[_Standards/WikiData/WD~Russian_Jews,32360797]]'
 family_name:
-  - "[[_Standards/WikiData/WD~Gershowitz,37474515]]"
-  - "[[_Standards/WikiData/WD~Bruskin,37540498]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-member_of: "[[_Standards/WikiData/WD~George_&_Ira_Gershwin,96885674]]"
-part_of: "[[_Standards/WikiData/WD~George_&_Ira_Gershwin,96885674]]"
-archives_at: "[[_Standards/WikiData/WD~Library_of_Congress_Music_Division,98608837]]"
+  - '[[_Standards/WikiData/WD~Gershowitz,37474515]]'
+  - '[[_Standards/WikiData/WD~Bruskin,37540498]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+member_of: '[[_Standards/WikiData/WD~George_&_Ira_Gershwin,96885674]]'
+part_of: '[[_Standards/WikiData/WD~George_&_Ira_Gershwin,96885674]]'
+archives_at: '[[_Standards/WikiData/WD~Library_of_Congress_Music_Division,98608837]]'
 date_of_birth: 1898-09-26T00:00:00Z
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
-father: "[[_Standards/WikiData/WD~Morris_Gershwine,108840766]]"
-mother: "[[_Standards/WikiData/WD~Rose_Bruskina,108840768]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Sardanes,115218380]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+father: '[[_Standards/WikiData/WD~Morris_Gershwine,108840766]]'
+mother: '[[_Standards/WikiData/WD~Rose_Bruskina,108840768]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Sardanes,115218380]]'
 genre:
-  - "[[_Standards/WikiData/WD~opera,1344]]"
-  - "[[_Standards/WikiData/WD~jazz,8341]]"
-  - "[[_Standards/WikiData/WD~classical_music,9730]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-instrument: "[[_Standards/WikiData/WD~piano,5994]]"
-place_of_birth: "[[_Standards/WikiData/WD~Brooklyn,18419]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_death: "[[_Standards/WikiData/WD~Hollywood,34006]]"
-medical_condition: "[[_Standards/WikiData/WD~epilepsy,41571]]"
-partner_in_business_or_sport: "[[_Standards/WikiData/WD~Ira_Gershwin,61059]]"
+  - '[[_Standards/WikiData/WD~opera,1344]]'
+  - '[[_Standards/WikiData/WD~jazz,8341]]'
+  - '[[_Standards/WikiData/WD~classical_music,9730]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+instrument: '[[_Standards/WikiData/WD~piano,5994]]'
+place_of_birth: '[[_Standards/WikiData/WD~Brooklyn,18419]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_death: '[[_Standards/WikiData/WD~Hollywood,34006]]'
+medical_condition: '[[_Standards/WikiData/WD~epilepsy,41571]]'
+partner_in_business_or_sport: '[[_Standards/WikiData/WD~Ira_Gershwin,61059]]'
 Commons_Creator_page: George Gershwin
 Commons_gallery: George Gershwin
 Commons_category: George Gershwin
-IPI_name_number: "00011730139"
+IPI_name_number: 00011730139
 Europeana_entity: agent/base/146829
 Facebook_username: George-Gershwin-131871540201921
 pseudonym: Gershwin
@@ -99,12 +100,12 @@ date_of_death: 1937-07-11T00:00:00Z
 work_period_end_: 1937-01-01T00:00:00Z
 work_period_start_: 1914-01-01T00:00:00Z
 BHCL_UUID: fae67697-7d91-4ec9-87d7-8b58aea6a835
-U_S_National_Archives_Identifier: "10580397"
+U_S_National_Archives_Identifier: 10580397
 image: http://commons.wikimedia.org/wiki/Special:FilePath/George%20Gershwin%201937.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/George%20Gershwin%20signature.svg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Gershwin%20best%20800.jpg
 official_website: http://gershwin.com
-ISNI: "0000000121355968"
+ISNI: 0000000121355968
 ---
 
 # [[Gershwin,George]] 

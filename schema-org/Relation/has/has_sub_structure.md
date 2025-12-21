@@ -3,23 +3,24 @@ aliases:
   - has sub-structure
   - subStructure
   - has_sub_structure
+  - has sub structure
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sub_structure
   - sub
   - structure
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_sub_structure
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

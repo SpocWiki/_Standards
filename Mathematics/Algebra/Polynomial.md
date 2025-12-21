@@ -1,25 +1,26 @@
 ---
 aliases:
   - Polynom
+  - Polynomial
 has_id_wikidata: Q43260
 subclass_of:
-  - "[[_Standards/WikiData/WD~sum,218005]]"
-  - "[[_Standards/WikiData/WD~algebraic_sum,3964627]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~monomial,243723]]"
-has_part_s_: "[[_Standards/WikiData/WD~monomial,243723]]"
+  - '[[_Standards/WikiData/WD~sum,218005]]'
+  - '[[_Standards/WikiData/WD~algebraic_sum,3964627]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~monomial,243723]]'
+has_part_s_: '[[_Standards/WikiData/WD~monomial,243723]]'
 different_from:
-  - "[[_Standards/WikiData/WD~polynomial_function,1244652]]"
-  - "[[_Standards/WikiData/WD~trigonometric_polynomial,1969650]]"
-  - "[[_Standards/WikiData/WD~univariate_polynomial,91031942]]"
-part_of: "[[_Standards/WikiData/WD~polynomial_ring,1455652]]"
+  - '[[_Standards/WikiData/WD~polynomial_function,1244652]]'
+  - '[[_Standards/WikiData/WD~trigonometric_polynomial,1969650]]'
+  - '[[_Standards/WikiData/WD~univariate_polynomial,91031942]]'
+part_of: '[[_Standards/WikiData/WD~polynomial_ring,1455652]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~degree_of_a_polynomial,1473607]]"
-  - "[[_Standards/WikiData/WD~leading_coefficient,130416821]]"
+  - '[[_Standards/WikiData/WD~degree_of_a_polynomial,1473607]]'
+  - '[[_Standards/WikiData/WD~leading_coefficient,130416821]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Polinom,12830217]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Polinom,12830217]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>P</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">=</mo><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>k</mi><mo stretchy="false">=</mo><mn>0</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></munderover></mstyle><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>k</mi></mrow></msub><msup><mi>x</mi><mrow data-mjx-texclass="ORD"><mi>k</mi></mrow></msup></mstyle></mrow></math>
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>k</mi></mrow></msub></mstyle></mrow></math>

@@ -1,26 +1,27 @@
 ---
 aliases:
   - Schmied
+  - Blacksmith
 has_id_wikidata: Q1639825
 uses:
-  - "[[_Standards/WikiData/WD~anvil,104363]]"
-  - "[[_Standards/WikiData/WD~bellows,208103]]"
-  - "[[_Standards/WikiData/WD~pincers,840979]]"
-  - "[[_Standards/WikiData/WD~forge,1368573]]"
+  - '[[_Standards/WikiData/WD~anvil,104363]]'
+  - '[[_Standards/WikiData/WD~bellows,208103]]'
+  - '[[_Standards/WikiData/WD~pincers,840979]]'
+  - '[[_Standards/WikiData/WD~forge,1368573]]'
   - "[[_Standards/WikiData/WD~blacksmith's_hammer,2246394]]"
   - "[[_Standards/WikiData/WD~blacksmith's_tongs,98558226]]"
-  - "[[_Standards/WikiData/WD~fire,3196]]"
+  - '[[_Standards/WikiData/WD~fire,3196]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~metalsmith,838566]]"
-  - "[[_Standards/WikiData/WD~metalworker,15980591]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~ironwork,1562096]]"
+  - '[[_Standards/WikiData/WD~metalsmith,838566]]'
+  - '[[_Standards/WikiData/WD~metalworker,15980591]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~ironwork,1562096]]'
 different_from:
-  - "[[_Standards/WikiData/WD~ironworker,3069732]]"
-  - "[[_Standards/WikiData/WD~Kowal,11168472]]"
-field_of_this_occupation: "[[_Standards/WikiData/WD~blacksmithing,11204681]]"
+  - '[[_Standards/WikiData/WD~ironworker,3069732]]'
+  - '[[_Standards/WikiData/WD~Kowal,11168472]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~blacksmithing,11204681]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~occupation,12737077]]"
-  - "[[_Standards/WikiData/WD~historical_profession,16335296]]"
+  - '[[_Standards/WikiData/WD~occupation,12737077]]'
+  - '[[_Standards/WikiData/WD~historical_profession,16335296]]'
 female_form_of_label:
   - ferreira
   - נפחית
@@ -36,16 +37,16 @@ female_form_of_label:
   - kovačica
   - Schmattesch
 described_by_source:
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
-  - "[[_Standards/WikiData/WD~NADD_occupations,133270020]]"
-locations: "[[_Standards/WikiData/WD~smithy,40558]]"
-Dewey_Decimal_Classification: "682"
-SBFI_occupation_code: "44032"
-NOC_Occupation_Code: "7384"
-OmegaWiki_Defined_Meaning: "430574"
+  - '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
+  - '[[_Standards/WikiData/WD~NADD_occupations,133270020]]'
+locations: '[[_Standards/WikiData/WD~smithy,40558]]'
+Dewey_Decimal_Classification: 682
+SBFI_occupation_code: 44032
+NOC_Occupation_Code: 7384
+OmegaWiki_Defined_Meaning: 430574
 male_form_of_label:
   - Schmied
   - kovač
@@ -54,12 +55,12 @@ male_form_of_label:
   - ferreiro
   - Schmadd
 Colon_Classification: M3
-U_S_National_Archives_Identifier: "10637160"
+U_S_National_Archives_Identifier: 10637160
 Iconclass_notation: 47B111
 subreddit: Blacksmith
 Commons_gallery: Blacksmith
 Provenio_UUID: 64741b67-b708-43c5-8cd6-49099652170a
-P8189: "987007283119405171"
+P8189: 987007283119405171
 Commons_category: Blacksmiths
 OpenStreetMap_tag_or_key: Tag:craft=blacksmith
 image: http://commons.wikimedia.org/wiki/Special:FilePath/3%20tourist%20helping%20artist%20blacksmith%20in%20finland.JPG

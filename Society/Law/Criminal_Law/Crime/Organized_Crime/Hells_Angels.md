@@ -3,19 +3,20 @@ aliases:
   - Hells Angels Motorcycle Club
   - Hells Angels
   - Hells Angels Motorcycle Corporation
+  - Hells_Angels
 has_id_wikidata: Q622188
-instance_of: "[[_Standards/WikiData/WD~outlaw_motorcycle_club,1849110]]"
-child_organization_unit: "[[_Standards/WikiData/WD~Hells_Angels,3784697]]"
+instance_of: '[[_Standards/WikiData/WD~outlaw_motorcycle_club,1849110]]'
+child_organization_unit: '[[_Standards/WikiData/WD~Hells_Angels,3784697]]'
 official_color:
-  - "[[_Standards/WikiData/WD~red,3142]]"
-  - "[[_Standards/WikiData/WD~white,23444]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~red,3142]]'
+  - '[[_Standards/WikiData/WD~white,23444]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 Commons_category: Hells Angels
 inception: 1948-03-17T00:00:00Z
 short_name: HAMC
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hells%20Angels-03.jpg
 official_website: http://www.hells-angels.com/
-ISNI: "0000000089279933"
+ISNI: 0000000089279933
 Instagram_username: hellsangelsmcworld_official
 ---
 

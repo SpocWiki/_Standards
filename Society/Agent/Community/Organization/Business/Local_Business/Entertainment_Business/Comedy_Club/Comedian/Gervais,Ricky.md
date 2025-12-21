@@ -1,55 +1,56 @@
 ---
 aliases:
   - Ricky Dene Gervais
+  - Gervais,Ricky
 has_id_wikidata: Q23517
-place_of_birth: "[[_Standards/WikiData/WD~Reading,161491]]"
+place_of_birth: '[[_Standards/WikiData/WD~Reading,161491]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_London,170027]]"
-  - "[[_Standards/WikiData/WD~University_College_London,193196]]"
-  - "[[_Standards/WikiData/WD~UCL_Department_of_Philosophy,60764480]]"
-lifestyle: "[[_Standards/WikiData/WD~veganism,181138]]"
-genre: "[[_Standards/WikiData/WD~new_wave,187760]]"
+  - '[[_Standards/WikiData/WD~University_of_London,170027]]'
+  - '[[_Standards/WikiData/WD~University_College_London,193196]]'
+  - '[[_Standards/WikiData/WD~UCL_Department_of_Philosophy,60764480]]'
+lifestyle: '[[_Standards/WikiData/WD~veganism,181138]]'
+genre: '[[_Standards/WikiData/WD~new_wave,187760]]'
 occupation:
-  - "[[_Standards/WikiData/WD~comedian,245068]]"
-  - "[[_Standards/WikiData/WD~television_producer,578109]]"
-  - "[[_Standards/WikiData/WD~musician,639669]]"
-  - "[[_Standards/WikiData/WD~television_presenter,947873]]"
-  - "[[_Standards/WikiData/WD~television_director,2059704]]"
-  - "[[_Standards/WikiData/WD~voice_actor,2405480]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~radio_personality,2722764]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~stand_up_comedian,18545066]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - '[[_Standards/WikiData/WD~comedian,245068]]'
+  - '[[_Standards/WikiData/WD~television_producer,578109]]'
+  - '[[_Standards/WikiData/WD~musician,639669]]'
+  - '[[_Standards/WikiData/WD~television_presenter,947873]]'
+  - '[[_Standards/WikiData/WD~television_director,2059704]]'
+  - '[[_Standards/WikiData/WD~voice_actor,2405480]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~radio_personality,2722764]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~stand_up_comedian,18545066]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
 residence:
-  - "[[_Standards/WikiData/WD~Marlow,508998]]"
-  - "[[_Standards/WikiData/WD~Hampstead,25610]]"
-  - "[[_Standards/WikiData/WD~New_York_City,60]]"
+  - '[[_Standards/WikiData/WD~Marlow,508998]]'
+  - '[[_Standards/WikiData/WD~Hampstead,25610]]'
+  - '[[_Standards/WikiData/WD~New_York_City,60]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Comedy_Series,989442]]"
-  - "[[_Standards/WikiData/WD~Writers_Guild_of_America_Award,1415017]]"
-  - "[[_Standards/WikiData/WD~Richard_Dawkins_Award,12981673]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Jane_Fallon,6152203]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Comedy_Series,989442]]'
+  - '[[_Standards/WikiData/WD~Writers_Guild_of_America_Award,1415017]]'
+  - '[[_Standards/WikiData/WD~Richard_Dawkins_Award,12981673]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Jane_Fallon,6152203]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Ricky,15720948]]"
-  - "[[_Standards/WikiData/WD~Dene,23905237]]"
-family_name: "[[_Standards/WikiData/WD~Gervais,25349728]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_representative: "[[_Standards/WikiData/WD~reproduction_right_not_represented_by_CISAC_member,71521142]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
-movement: "[[_Standards/WikiData/WD~atheism,7066]]"
-writing_language: "[[_Standards/WikiData/WD~British_English,7979]]"
-native_language: "[[_Standards/WikiData/WD~British_English,7979]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~Ricky,15720948]]'
+  - '[[_Standards/WikiData/WD~Dene,23905237]]'
+family_name: '[[_Standards/WikiData/WD~Gervais,25349728]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_representative: '[[_Standards/WikiData/WD~reproduction_right_not_represented_by_CISAC_member,71521142]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
+movement: '[[_Standards/WikiData/WD~atheism,7066]]'
+writing_language: '[[_Standards/WikiData/WD~British_English,7979]]'
+native_language: '[[_Standards/WikiData/WD~British_English,7979]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 social_media_followers:
   - 653000
   - 15154186
@@ -61,7 +62,7 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ricky%20Gervais%202010.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/GervaisBlooms021218-21%20%2844341159690%29%20%28cropped%29.jpg
 official_website: https://www.rickygervais.com
-ISNI: "0000000079785832"
+ISNI: 0000000079785832
 Plex_person_key: 5d77682a151a60001f24b486
 Europeana_entity: agent/base/61425
 Bluesky_handle: mrrickygervais.bsky.social

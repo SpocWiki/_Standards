@@ -3,12 +3,13 @@ aliases:
   - has no-bylines-policy
   - noBylinesPolicy
   - has_no_bylines_policy
+  - has no bylines policy
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - no
   - bylines
   - policy
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_no_bylines_policy
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

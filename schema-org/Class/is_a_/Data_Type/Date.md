@@ -1,28 +1,28 @@
 ---
 aliases:
-- date
-- date
-- Date
-- is_a_date
+  - date
+  - date
+  - Date
+  - is_a_date
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- date
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_date Class"
+  - date
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_a_date Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Class
-- schema-org/Class
-- class/data_type
-title: "is_a_date Class"
+  - class/Class
+  - schema-org/Class
+  - class/data_type
+title: is_a_date Class
 type: Type
 ---
 

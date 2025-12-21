@@ -4,21 +4,23 @@ aliases:
   - in_force
   - InForce
   - is_an_in_force
+  - In_Force
+  - In Force
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: LegalForceStatus
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - in_force
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_in_force Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

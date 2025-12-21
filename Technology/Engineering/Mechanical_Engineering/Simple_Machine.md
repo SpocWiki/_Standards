@@ -1,16 +1,18 @@
 ---
 aliases:
   - simple machine
+  - Simple_Machine
+  - Simple Machine
 has_id_wikidata: Q186713
 subclass_of:
-  - "[[_Standards/WikiData/WD~mechanism,517596]]"
-  - "[[_Standards/WikiData/WD~appliance,1183543]]"
+  - '[[_Standards/WikiData/WD~mechanism,517596]]'
+  - '[[_Standards/WikiData/WD~appliance,1183543]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-uses: "[[_Standards/WikiData/WD~mechanical_advantage,5378501]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Simple_machines,13422858]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+uses: '[[_Standards/WikiData/WD~mechanical_advantage,5378501]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Simple_machines,13422858]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B8%E0%A6%B0%E0%A6%B2%20%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Table%20of%20Mechanicks%2C%20Cyclopaedia%2C%20Volume%202.png
 Commons_category: Simple machines

@@ -4,23 +4,24 @@ aliases:
   - expects_acceptance_of
   - expectsAcceptanceOf
   - is_expecting_acceptance_of
+  - is expecting acceptance of
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - expects
   - acceptance
   - of
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_expecting_acceptance_of
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

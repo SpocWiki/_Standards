@@ -4,20 +4,22 @@ aliases:
   - comic_series
   - ComicSeries
   - is_a_comic_series
+  - Comic_Series
+  - Comic Series
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - comic_series
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_comic_series Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

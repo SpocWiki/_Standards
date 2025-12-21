@@ -2,90 +2,91 @@
 aliases:
   - Evangelos Odysseas Papathanassiou
   - Papathanassiou
+  - Vangelis
 has_id_wikidata: Q153172
 instrument:
-  - "[[_Standards/WikiData/WD~percussion_instrument,133163]]"
-  - "[[_Standards/WikiData/WD~synthesizer,163829]]"
-  - "[[_Standards/WikiData/WD~Yamaha_CS_80,366063]]"
-  - "[[_Standards/WikiData/WD~piano,5994]]"
+  - '[[_Standards/WikiData/WD~percussion_instrument,133163]]'
+  - '[[_Standards/WikiData/WD~synthesizer,163829]]'
+  - '[[_Standards/WikiData/WD~Yamaha_CS_80,366063]]'
+  - '[[_Standards/WikiData/WD~piano,5994]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Deutsche_Grammophon,168407]]"
-  - "[[_Standards/WikiData/WD~Atlantic_Records,202440]]"
-  - "[[_Standards/WikiData/WD~RCA,50074604]]"
-  - "[[_Standards/WikiData/WD~Universal_Music_Group,38903]]"
+  - '[[_Standards/WikiData/WD~Deutsche_Grammophon,168407]]'
+  - '[[_Standards/WikiData/WD~Atlantic_Records,202440]]'
+  - '[[_Standards/WikiData/WD~RCA,50074604]]'
+  - '[[_Standards/WikiData/WD~Universal_Music_Group,38903]]'
 occupation:
-  - "[[_Standards/WikiData/WD~record_producer,183945]]"
-  - "[[_Standards/WikiData/WD~musician,639669]]"
-  - "[[_Standards/WikiData/WD~painter,1028181]]"
-  - "[[_Standards/WikiData/WD~keyboardist,1075651]]"
-  - "[[_Standards/WikiData/WD~film_score_composer,1415090]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
+  - '[[_Standards/WikiData/WD~record_producer,183945]]'
+  - '[[_Standards/WikiData/WD~musician,639669]]'
+  - '[[_Standards/WikiData/WD~painter,1028181]]'
+  - '[[_Standards/WikiData/WD~keyboardist,1075651]]'
+  - '[[_Standards/WikiData/WD~film_score_composer,1415090]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Blade_Runner,184843]]"
-  - "[[_Standards/WikiData/WD~1492_Conquest_of_Paradise,190765]]"
-  - "[[_Standards/WikiData/WD~Chariots_of_Fire,922474]]"
-  - "[[_Standards/WikiData/WD~Mythodea,1187375]]"
-  - "[[_Standards/WikiData/WD~666,2031398]]"
-place_of_death: "[[_Standards/WikiData/WD~15th_arrondissement_of_Paris,191066]]"
+  - '[[_Standards/WikiData/WD~Blade_Runner,184843]]'
+  - '[[_Standards/WikiData/WD~1492_Conquest_of_Paradise,190765]]'
+  - '[[_Standards/WikiData/WD~Chariots_of_Fire,922474]]'
+  - '[[_Standards/WikiData/WD~Mythodea,1187375]]'
+  - '[[_Standards/WikiData/WD~666,2031398]]'
+place_of_death: '[[_Standards/WikiData/WD~15th_arrondissement_of_Paris,191066]]'
 genre:
-  - "[[_Standards/WikiData/WD~ambient_music,193207]]"
-  - "[[_Standards/WikiData/WD~new_age_music,213121]]"
-  - "[[_Standards/WikiData/WD~film_score,492264]]"
-  - "[[_Standards/WikiData/WD~electronic_music,9778]]"
-  - "[[_Standards/WikiData/WD~progressive_rock,49451]]"
+  - '[[_Standards/WikiData/WD~ambient_music,193207]]'
+  - '[[_Standards/WikiData/WD~new_age_music,213121]]'
+  - '[[_Standards/WikiData/WD~film_score,492264]]'
+  - '[[_Standards/WikiData/WD~electronic_music,9778]]'
+  - '[[_Standards/WikiData/WD~progressive_rock,49451]]'
 partner_in_business_or_sport:
-  - "[[_Standards/WikiData/WD~Jon_Anderson,313749]]"
-  - "[[_Standards/WikiData/WD~Demis_Roussos,487882]]"
-  - "[[_Standards/WikiData/WD~Loukas_Sideras,3265073]]"
+  - '[[_Standards/WikiData/WD~Jon_Anderson,313749]]'
+  - '[[_Standards/WikiData/WD~Demis_Roussos,487882]]'
+  - '[[_Standards/WikiData/WD~Loukas_Sideras,3265073]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~arrangement,379755]]"
-  - "[[_Standards/WikiData/WD~film_score,492264]]"
-  - "[[_Standards/WikiData/WD~instrumental_music,639197]]"
-  - "[[_Standards/WikiData/WD~arranging,117286088]]"
-place_of_birth: "[[_Standards/WikiData/WD~Agria,396559]]"
+  - '[[_Standards/WikiData/WD~arrangement,379755]]'
+  - '[[_Standards/WikiData/WD~film_score,492264]]'
+  - '[[_Standards/WikiData/WD~instrumental_music,639197]]'
+  - '[[_Standards/WikiData/WD~arranging,117286088]]'
+place_of_birth: '[[_Standards/WikiData/WD~Agria,396559]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Athens_School_of_Fine_Arts,414014]]"
-  - "[[_Standards/WikiData/WD~Lycée_Léonin,6707480]]"
+  - '[[_Standards/WikiData/WD~Athens_School_of_Fine_Arts,414014]]'
+  - '[[_Standards/WikiData/WD~Lycée_Léonin,6707480]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
-  - "[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]"
-  - "[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_Phoenix,21587153]]"
-nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
+  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+  - '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_Phoenix,21587153]]'
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
 member_of:
   - "[[_Standards/WikiData/WD~Aphrodite's_Child,618537]]"
-  - "[[_Standards/WikiData/WD~Jon_and_Vangelis,1538236]]"
-  - "[[_Standards/WikiData/WD~The_Forminx,6091271]]"
-discography: "[[_Standards/WikiData/WD~Vangelis_discography,755087]]"
+  - '[[_Standards/WikiData/WD~Jon_and_Vangelis,1538236]]'
+  - '[[_Standards/WikiData/WD~The_Forminx,6091271]]'
+discography: '[[_Standards/WikiData/WD~Vangelis_discography,755087]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Evangelos,1381451]]"
-  - "[[_Standards/WikiData/WD~Odysseas,27827496]]"
-academic_degree: "[[_Standards/WikiData/WD~Doctor_of_Sciences,2628227]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-student_of: "[[_Standards/WikiData/WD~Aristotelis_Koundouroff,4791085]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Evangelos,1381451]]'
+  - '[[_Standards/WikiData/WD~Odysseas,27827496]]'
+academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Sciences,2628227]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+student_of: '[[_Standards/WikiData/WD~Aristotelis_Koundouroff,4791085]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Polskie_encyklopedie,11822840]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-family_name: "[[_Standards/WikiData/WD~Papathanasiou,21484720]]"
+  - '[[_Standards/WikiData/WD~Polskie_encyklopedie,11822840]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+family_name: '[[_Standards/WikiData/WD~Papathanasiou,21484720]]'
 copyright_representative:
-  - "[[_Standards/WikiData/WD~BUMA,27897586]]"
-  - "[[_Standards/WikiData/WD~STEMRA,27897599]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-place_of_burial: "[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311]]"
+  - '[[_Standards/WikiData/WD~BUMA,27897586]]'
+  - '[[_Standards/WikiData/WD~STEMRA,27897599]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+place_of_burial: '[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311]]'
 work_location:
-  - "[[_Standards/WikiData/WD~Athens,1524]]"
-  - "[[_Standards/WikiData/WD~London,84]]"
-  - "[[_Standards/WikiData/WD~Paris,90]]"
+  - '[[_Standards/WikiData/WD~Athens,1524]]'
+  - '[[_Standards/WikiData/WD~London,84]]'
+  - '[[_Standards/WikiData/WD~Paris,90]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~Modern_Greek,36510]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Greece,41]]"
-native_language: "[[_Standards/WikiData/WD~Modern_Greek,36510]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+  - '[[_Standards/WikiData/WD~Modern_Greek,36510]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Greece,41]]'
+native_language: '[[_Standards/WikiData/WD~Modern_Greek,36510]]'
 social_media_followers: 55700
-P1015: "62952"
+P1015: 62952
 Wolfram_Language_entity_code: Entity["MusicAct", "Vangelis::px32k"]
 Libris_URI: m27m2fx7k4wsm3cq
 Facebook_username: VangelisOfficial
@@ -94,17 +95,17 @@ birth_name: Ευάγγελος Οδυσσέας Παπαθανασίου
 date_of_birth: 1943-03-29T00:00:00Z
 work_period_end_: 2022-01-01T00:00:00Z
 date_of_death: 2022-05-17T00:00:00Z
-identifier_in_filmpolski_movie_database: "97646"
+identifier_in_filmpolski_movie_database: 97646
 pseudonym:
   - Vangelis
   - Βαγγέλης
 Commons_category: Vangelis
 work_period_start_: 1963-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vangelis%2C%2026%20July%202012.jpg
-ISNI: "0000000109094902"
+ISNI: 0000000109094902
 IPI_name_number:
-  - "00054407690"
-  - "00087759218"
+  - 00054407690
+  - 00087759218
 Europeana_entity: agent/base/60300
 ---
 

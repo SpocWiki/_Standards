@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~TheaterGroup
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/TheaterGroup
-- class/Thing/Organization/PerformingGroup/TheaterGroup
-- is_a_/TheaterGroup
-- schema-org/TheaterGroup
+  - class/TheaterGroup
+  - class/Thing/Organization/PerformingGroup/TheaterGroup
+  - is_a_/TheaterGroup
+  - schema-org/TheaterGroup
 tags:
-- class/FileClass
-- class/TheaterGroup
-- is_a_/TheaterGroup
-- class/Thing/Organization/PerformingGroup/TheaterGroup
+  - class/FileClass
+  - class/TheaterGroup
+  - is_a_/TheaterGroup
+  - class/Thing/Organization/PerformingGroup/TheaterGroup
 version: 2.0
 ---
 

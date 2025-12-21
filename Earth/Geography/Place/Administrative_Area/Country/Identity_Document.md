@@ -4,6 +4,8 @@ aliases:
   - identity card
   - ID card
   - photo ID
+  - Identity_Document
+  - Identity Document
 has_id_wikidata: Q47988
 ---
 

@@ -4,21 +4,22 @@ aliases:
   - NGC 1952
   - Taurus A
   - M1
+  - Crab_Nebula
 has_id_wikidata: Q10934
-instance_of: "[[_Standards/WikiData/WD~supernova_remnant,207436]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~John_Bevis,437582]]"
-different_from: "[[_Standards/WikiData/WD~Q19843709,19843709]]"
+instance_of: '[[_Standards/WikiData/WD~supernova_remnant,207436]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~John_Bevis,437582]]'
+different_from: '[[_Standards/WikiData/WD~Q19843709,19843709]]'
 right_ascension: 83.633083
 time_of_discovery_or_invention: 1731-01-01T00:00:00Z
-constellation: "[[_Standards/WikiData/WD~Taurus,10570]]"
+constellation: '[[_Standards/WikiData/WD~Taurus,10570]]'
 absolute_magnitude: -3.2
-has_cause: "[[_Standards/WikiData/WD~SN_1054,32037]]"
+has_cause: '[[_Standards/WikiData/WD~SN_1054,32037]]'
 apparent_magnitude: 8.4
 distance_from_Earth: 1.93
 declination: 22.0145
 catalog_code:
   - M1
-  - "[DGW65] 25"
+  - '[DGW65] 25'
   - 1ES 0532+21.5
   - 2C 481
   - 2U 0531+22

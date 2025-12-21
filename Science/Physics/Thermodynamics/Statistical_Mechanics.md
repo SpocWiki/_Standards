@@ -3,23 +3,25 @@ aliases:
   - statistical physics
   - statistical thermodynamics
   - statistical mechanics
+  - Statistical_Mechanics
+  - Statistical Mechanics
 has_id_wikidata: Q188715
 facet_of:
-  - "[[_Standards/WikiData/WD~statistical_physics,677916]]"
-  - "[[_Standards/WikiData/WD~mechanics,41217]]"
-subclass_of: "[[_Standards/WikiData/WD~statistical_physics,677916]]"
-different_from: "[[_Standards/WikiData/WD~quantum_statistical_mechanics,845260]]"
+  - '[[_Standards/WikiData/WD~statistical_physics,677916]]'
+  - '[[_Standards/WikiData/WD~mechanics,41217]]'
+subclass_of: '[[_Standards/WikiData/WD~statistical_physics,677916]]'
+different_from: '[[_Standards/WikiData/WD~quantum_statistical_mechanics,845260]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
-  - "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
+  - '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
+  - '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Statistical_mechanics,11085678]]"
-  - "[[_Standards/WikiData/WD~Template_Statistical_mechanics_topics,15546306]]"
-practiced_by: "[[_Standards/WikiData/WD~statistical_mechanician,114964302]]"
-OmegaWiki_Defined_Meaning: "796393"
+  - '[[_Standards/WikiData/WD~Template_Statistical_mechanics,11085678]]'
+  - '[[_Standards/WikiData/WD~Template_Statistical_mechanics_topics,15546306]]'
+practiced_by: '[[_Standards/WikiData/WD~statistical_mechanician,114964302]]'
+OmegaWiki_Defined_Meaning: 796393
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gibbs-Elementary%20principles%20in%20statistical%20mechanics.png
 Commons_category: Statistical mechanics
-Dewey_Decimal_Classification: "530.13"
+Dewey_Decimal_Classification: 530.13
 ---
 
 # [[Statistical_Mechanics]] 

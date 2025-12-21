@@ -4,20 +4,22 @@ aliases:
   - financial_product
   - FinancialProduct
   - is_a_financial_product
+  - Financial_Product
+  - Financial Product
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - financial_product
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_financial_product Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

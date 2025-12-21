@@ -1,6 +1,7 @@
 ---
 aliases:
   - Boot
+  - Boat
 has_id_wikidata: Q35872
 ---
 

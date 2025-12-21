@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Atlas
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields: []
 icon: map
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Atlas
-- class/Thing/CreativeWork/Atlas
-- is_an_/Atlas
-- schema-org/Atlas
+  - class/Atlas
+  - class/Thing/CreativeWork/Atlas
+  - is_an_/Atlas
+  - schema-org/Atlas
 tags:
-- class/FileClass
-- class/Atlas
-- '#is_an_/Atlas'
-- class/Thing/CreativeWork/Atlas
+  - class/FileClass
+  - class/Atlas
+  - '#is_an_/Atlas'
+  - class/Thing/CreativeWork/Atlas
 version: 2.0
 ---
 

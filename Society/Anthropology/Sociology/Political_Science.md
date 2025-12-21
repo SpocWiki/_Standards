@@ -1,6 +1,8 @@
 ---
 aliases:
   - Political science
+  - Political_Science
+  - Political Science
 ---
 
 # [[Political_Science]] 

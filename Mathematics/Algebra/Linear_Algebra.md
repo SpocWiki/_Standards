@@ -1,39 +1,41 @@
 ---
 aliases:
-- "Linear algebra"
+  - Linear algebra
+  - Linear_Algebra
+  - Linear Algebra
+has_id_wikidata: Q82571
 Baidu_Tieba_name: 线性代数
-Commons_category: "Linear algebra"
+Commons_category: Linear algebra
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 Dewey_Decimal_Classification: 512.5
 different_from: '[[_Standards/WikiData/WD~algebra_over_a_field,1000660]]'
 GitHub_topic: linear-algebra
-has_id_wikidata: Q82571
 IEV_number: 102-01-28
 instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
 is_the_study_of:
-- '[[_Standards/WikiData/WD~vector_space,125977]]'
-- '[[_Standards/WikiData/WD~linear_map,207643]]'
-- '[[_Standards/WikiData/WD~matrix,44337]]'
+  - '[[_Standards/WikiData/WD~vector_space,125977]]'
+  - '[[_Standards/WikiData/WD~linear_map,207643]]'
+  - '[[_Standards/WikiData/WD~matrix,44337]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 part_of:
-- '[[_Standards/WikiData/WD~linear_algebra,114728146]]'
-- '[[_Standards/WikiData/WD~algebra,3968]]'
-related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Linear%20subspaces%20with%20shading.svg"
+  - '[[_Standards/WikiData/WD~linear_algebra,114728146]]'
+  - '[[_Standards/WikiData/WD~algebra,3968]]'
+related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Linear%20subspaces%20with%20shading.svg
 Stack_Exchange_tag:
-- "https://mathoverflow.net/tags/linear-algebra"
-- "https://physics.stackexchange.com/tags/linear-algebra"
-- "https://matheducators.stackexchange.com/tags/linear-algebra"
-- "https://stats.stackexchange.com/tags/linear-algebra"
-- "https://dsp.stackexchange.com/tags/linear-algebra"
-- "https://cs.stackexchange.com/tags/linear-algebra"
-- "https://gamedev.stackexchange.com/tags/linear-algebra"
-- "https://datascience.stackexchange.com/tags/linear-algebra"
-- "https://quantumcomputing.stackexchange.com/tags/linear-algebra"
-- "https://mathematica.stackexchange.com/tags/linear-algebra"
-- "https://math.stackexchange.com/tags/linear-algebra"
+  - https://mathoverflow.net/tags/linear-algebra
+  - https://physics.stackexchange.com/tags/linear-algebra
+  - https://matheducators.stackexchange.com/tags/linear-algebra
+  - https://stats.stackexchange.com/tags/linear-algebra
+  - https://dsp.stackexchange.com/tags/linear-algebra
+  - https://cs.stackexchange.com/tags/linear-algebra
+  - https://gamedev.stackexchange.com/tags/linear-algebra
+  - https://datascience.stackexchange.com/tags/linear-algebra
+  - https://quantumcomputing.stackexchange.com/tags/linear-algebra
+  - https://mathematica.stackexchange.com/tags/linear-algebra
+  - https://math.stackexchange.com/tags/linear-algebra
 subreddit: LinearAlgebra
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Linear_algebra,11212611]]'
-Wolfram_Language_entity_code: "Entity[\"Concept\", \"LinearAlgebra::f2mkf\"]"
+Wolfram_Language_entity_code: Entity["Concept", "LinearAlgebra::f2mkf"]
 ---
 
 # [[Linear_Algebra]] 

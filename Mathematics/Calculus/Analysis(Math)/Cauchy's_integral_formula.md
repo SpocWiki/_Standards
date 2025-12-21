@@ -2,6 +2,7 @@
 aliases:
   - Cauchy's integral formula
   - Cauchys integral formula
+  - Cauchy's_integral_formula
 has_id_wikidata: Q913764
 instance_of: "[[_Standards/WikiData/WD~theorem,65943]]"
 different_from: "[[_Standards/WikiData/WD~Cauchy's_integral_theorem,834025]]"

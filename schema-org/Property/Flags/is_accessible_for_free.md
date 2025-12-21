@@ -4,21 +4,22 @@ aliases:
   - accessible_for_free
   - isAccessibleForFree
   - is_accessible_for_free
+  - is accessible for free
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - accessible_for_free
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_accessible_for_free
 publish: true
-publishDate:
+publishDate: ''
 supersedes: free
 tags:
   - class/Property

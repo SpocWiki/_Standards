@@ -9,16 +9,16 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: GenderType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - female
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_female Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

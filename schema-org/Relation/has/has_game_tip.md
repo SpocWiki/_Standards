@@ -3,23 +3,24 @@ aliases:
   - has game-tip
   - gameTip
   - has_game_tip
+  - has game tip
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - game
   - tip
   - game_tip
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_game_tip
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

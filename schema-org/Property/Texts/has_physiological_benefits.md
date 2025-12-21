@@ -4,22 +4,24 @@ aliases:
   - physiological_benefits
   - physiologicalBenefits
   - has_text_of_physiological_benefits
+  - has_physiological_benefits
+  - has physiological benefits
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - physiological
   - benefits
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_physiological_benefits
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

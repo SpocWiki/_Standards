@@ -2,13 +2,15 @@
 aliases:
   - Chaldean Empire
   - Neo-Babylonian Empire
+  - -0625-Neo-Babylonian_Empire-0538
+  - -0625-Neo-Babylonian Empire-0538
 has_id_wikidata: Q624887
-followed_by: "[[_Standards/WikiData/WD~Achaemenid_Empire,389688]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
-follows: "[[_Standards/WikiData/WD~Neo_Assyrian_Empire,10914393]]"
-capital: "[[_Standards/WikiData/WD~Babylon,5684]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
-official_language: "[[_Standards/WikiData/WD~Akkadian,35518]]"
+followed_by: '[[_Standards/WikiData/WD~Achaemenid_Empire,389688]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
+follows: '[[_Standards/WikiData/WD~Neo_Assyrian_Empire,10914393]]'
+capital: '[[_Standards/WikiData/WD~Babylon,5684]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
+official_language: '[[_Standards/WikiData/WD~Akkadian,35518]]'
 Commons_category: Neo-Babylonian Empire
 inception: -0625-01-01T00:00:00Z
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Neo-Babylonian%20Empire.png

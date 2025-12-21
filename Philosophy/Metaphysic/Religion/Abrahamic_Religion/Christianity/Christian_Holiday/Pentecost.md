@@ -2,9 +2,10 @@
 aliases:
   - Pfingsten
   - Whit Sunday
-  - Whitsunday 
+  - Whitsunday
   - Whitsun
   - Pfingstsonntag
+  - Pentecost
 has_id_wikidata: Q39864
 ---
 

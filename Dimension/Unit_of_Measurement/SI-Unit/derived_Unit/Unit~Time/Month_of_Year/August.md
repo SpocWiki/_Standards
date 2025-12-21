@@ -12,73 +12,73 @@ name:
   - sierpnia
   - Weodmonðes
 named_after:
-  - "[[_Standards/WikiData/WD~Sultan_of_the_Seljuks_Alp_Arslan,200193]]"
-  - "[[_Standards/WikiData/WD~harvest,213753]]"
-  - "[[_Standards/WikiData/WD~Augustus,1405]]"
+  - '[[_Standards/WikiData/WD~Sultan_of_the_Seljuks_Alp_Arslan,200193]]'
+  - '[[_Standards/WikiData/WD~harvest,213753]]'
+  - '[[_Standards/WikiData/WD~Augustus,1405]]'
 different_from:
-  - "[[_Standards/WikiData/WD~August,338998]]"
-  - "[[_Standards/WikiData/WD~Sierpień,94438983]]"
+  - '[[_Standards/WikiData/WD~August,338998]]'
+  - '[[_Standards/WikiData/WD~Sierpień,94438983]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_August_calendar,6702045]]"
-subclass_of: "[[_Standards/WikiData/WD~month_of_the_Gregorian_calendar,18602249]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_August_calendar,6702045]]'
+subclass_of: '[[_Standards/WikiData/WD~month_of_the_Gregorian_calendar,18602249]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q28790358,28790358]]"
-  - "[[_Standards/WikiData/WD~Q56299490,56299490]]"
-  - "[[_Standards/WikiData/WD~Q117477786,117477786]]"
-instance_of: "[[_Standards/WikiData/WD~calendar_month,47018901]]"
+  - '[[_Standards/WikiData/WD~Q28790358,28790358]]'
+  - '[[_Standards/WikiData/WD~Q56299490,56299490]]'
+  - '[[_Standards/WikiData/WD~Q117477786,117477786]]'
+instance_of: '[[_Standards/WikiData/WD~calendar_month,47018901]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Allegory_of_August,131449666]]"
-  - "[[_Standards/WikiData/WD~August,131628826]]"
+  - '[[_Standards/WikiData/WD~Allegory_of_August,131449666]]'
+  - '[[_Standards/WikiData/WD~August,131628826]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~August_15,2774]]"
-  - "[[_Standards/WikiData/WD~August_14,2775]]"
-  - "[[_Standards/WikiData/WD~August_11,2778]]"
-  - "[[_Standards/WikiData/WD~August_10,2779]]"
-  - "[[_Standards/WikiData/WD~August_13,2776]]"
-  - "[[_Standards/WikiData/WD~August_12,2777]]"
-  - "[[_Standards/WikiData/WD~August_9,2782]]"
-  - "[[_Standards/WikiData/WD~August_5,2783]]"
-  - "[[_Standards/WikiData/WD~August_8,2780]]"
-  - "[[_Standards/WikiData/WD~August_7,2781]]"
-  - "[[_Standards/WikiData/WD~August_3,2786]]"
-  - "[[_Standards/WikiData/WD~August_6,2787]]"
-  - "[[_Standards/WikiData/WD~August_4,2784]]"
-  - "[[_Standards/WikiData/WD~August_2,2785]]"
-  - "[[_Standards/WikiData/WD~August_1,2788]]"
-  - "[[_Standards/WikiData/WD~August_16,2812]]"
-  - "[[_Standards/WikiData/WD~August_30,2818]]"
-  - "[[_Standards/WikiData/WD~August_25,2819]]"
-  - "[[_Standards/WikiData/WD~August_29,2816]]"
-  - "[[_Standards/WikiData/WD~August_28,2817]]"
-  - "[[_Standards/WikiData/WD~August_27,2822]]"
-  - "[[_Standards/WikiData/WD~August_21,2823]]"
-  - "[[_Standards/WikiData/WD~August_26,2820]]"
-  - "[[_Standards/WikiData/WD~August_23,2821]]"
-  - "[[_Standards/WikiData/WD~August_18,2826]]"
-  - "[[_Standards/WikiData/WD~August_17,2827]]"
-  - "[[_Standards/WikiData/WD~August_20,2824]]"
-  - "[[_Standards/WikiData/WD~August_24,2825]]"
-  - "[[_Standards/WikiData/WD~August_31,2830]]"
-  - "[[_Standards/WikiData/WD~August_22,2828]]"
-  - "[[_Standards/WikiData/WD~August_19,2829]]"
+  - '[[_Standards/WikiData/WD~August_15,2774]]'
+  - '[[_Standards/WikiData/WD~August_14,2775]]'
+  - '[[_Standards/WikiData/WD~August_11,2778]]'
+  - '[[_Standards/WikiData/WD~August_10,2779]]'
+  - '[[_Standards/WikiData/WD~August_13,2776]]'
+  - '[[_Standards/WikiData/WD~August_12,2777]]'
+  - '[[_Standards/WikiData/WD~August_9,2782]]'
+  - '[[_Standards/WikiData/WD~August_5,2783]]'
+  - '[[_Standards/WikiData/WD~August_8,2780]]'
+  - '[[_Standards/WikiData/WD~August_7,2781]]'
+  - '[[_Standards/WikiData/WD~August_3,2786]]'
+  - '[[_Standards/WikiData/WD~August_6,2787]]'
+  - '[[_Standards/WikiData/WD~August_4,2784]]'
+  - '[[_Standards/WikiData/WD~August_2,2785]]'
+  - '[[_Standards/WikiData/WD~August_1,2788]]'
+  - '[[_Standards/WikiData/WD~August_16,2812]]'
+  - '[[_Standards/WikiData/WD~August_30,2818]]'
+  - '[[_Standards/WikiData/WD~August_25,2819]]'
+  - '[[_Standards/WikiData/WD~August_29,2816]]'
+  - '[[_Standards/WikiData/WD~August_28,2817]]'
+  - '[[_Standards/WikiData/WD~August_27,2822]]'
+  - '[[_Standards/WikiData/WD~August_21,2823]]'
+  - '[[_Standards/WikiData/WD~August_26,2820]]'
+  - '[[_Standards/WikiData/WD~August_23,2821]]'
+  - '[[_Standards/WikiData/WD~August_18,2826]]'
+  - '[[_Standards/WikiData/WD~August_17,2827]]'
+  - '[[_Standards/WikiData/WD~August_20,2824]]'
+  - '[[_Standards/WikiData/WD~August_24,2825]]'
+  - '[[_Standards/WikiData/WD~August_31,2830]]'
+  - '[[_Standards/WikiData/WD~August_22,2828]]'
+  - '[[_Standards/WikiData/WD~August_19,2829]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Julian_calendar,11184]]"
-  - "[[_Standards/WikiData/WD~Gregorian_calendar,12138]]"
-followed_by: "[[_Standards/WikiData/WD~September,123]]"
-follows: "[[_Standards/WikiData/WD~July,121]]"
+  - '[[_Standards/WikiData/WD~Julian_calendar,11184]]'
+  - '[[_Standards/WikiData/WD~Gregorian_calendar,12138]]'
+followed_by: '[[_Standards/WikiData/WD~September,123]]'
+follows: '[[_Standards/WikiData/WD~July,121]]'
 time_index: 7.5
-OmegaWiki_Defined_Meaning: "6977"
+OmegaWiki_Defined_Meaning: 6977
 Commons_gallery: August
 Commons_category: August
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/August-banner-01.jpg

@@ -3,23 +3,24 @@ aliases:
   - has sensory-requirement
   - sensoryRequirement
   - has_sensory_requirement
+  - has sensory requirement
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sensory_requirement
   - sensory
   - requirement
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_sensory_requirement
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,8 +1,9 @@
 ---
-has_id_wikidata: Q30755
 aliases:
   - François Auguste René Rodin
   - Auguste Rodin
+  - Rodin,Auguste
+has_id_wikidata: Q30755
 ---
 
 # [[Rodin,Auguste]] 

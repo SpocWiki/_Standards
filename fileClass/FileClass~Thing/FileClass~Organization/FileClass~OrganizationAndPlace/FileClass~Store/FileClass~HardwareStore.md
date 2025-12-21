@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~HardwareStore
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/HardwareStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HardwareStore
-- is_a_/HardwareStore
-- schema-org/HardwareStore
+  - class/HardwareStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HardwareStore
+  - is_a_/HardwareStore
+  - schema-org/HardwareStore
 tags:
-- class/FileClass
-- class/HardwareStore
-- is_a_/HardwareStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HardwareStore
+  - class/FileClass
+  - class/HardwareStore
+  - is_a_/HardwareStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HardwareStore
 version: 2.0
 ---
 

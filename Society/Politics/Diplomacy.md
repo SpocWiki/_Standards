@@ -1,27 +1,29 @@
 ---
+aliases:
+  - Diplomacy
+has_id_wikidata: Q1889
 Commons_category: Diplomacy
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 Dewey_Decimal_Classification:
   - 399
   - 327.2
   - 341.33
-different_from: "[[_Standards/WikiData/WD~Dyplomacja,9213719]]"
+different_from: '[[_Standards/WikiData/WD~Dyplomacja,9213719]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~international_relations,166542]]"
-  - "[[_Standards/WikiData/WD~foreign_policy,181648]]"
-has_id_wikidata: Q1889
+  - '[[_Standards/WikiData/WD~international_relations,166542]]'
+  - '[[_Standards/WikiData/WD~foreign_policy,181648]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~diplomatic_mission,213283]]"
-  - "[[_Standards/WikiData/WD~embassy,3917681]]"
-history_of_topic: "[[_Standards/WikiData/WD~diplomatic_history,2177756]]"
+  - '[[_Standards/WikiData/WD~diplomatic_mission,213283]]'
+  - '[[_Standards/WikiData/WD~embassy,3917681]]'
+history_of_topic: '[[_Standards/WikiData/WD~diplomatic_history,2177756]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/UN%20building%2C%20Geneva.jpg
-instance_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 IPTC_NewsCode: mediatopic/20000639
 Library_of_Congress_Classification: JZ1305-JZ2060
 Libris_URI: vs687n5d5qw80p2
@@ -32,16 +34,16 @@ MeSH_tree_code:
 OmegaWiki_Defined_Meaning: 1057732
 OpenStreetMap_tag_or_key: Key:diplomatic
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Zhigongtu%20full.jpg
-practiced_by: "[[_Standards/WikiData/WD~diplomat,193391]]"
+practiced_by: '[[_Standards/WikiData/WD~diplomat,193391]]'
 Provenio_UUID: fab4a10d-365d-4598-80b2-56f74dd1a804
 subclass_of:
-  - "[[_Standards/WikiData/WD~foreign_policy,181648]]"
-  - "[[_Standards/WikiData/WD~negotiation,202875]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Diplomacy,13502958]]"
+  - '[[_Standards/WikiData/WD~foreign_policy,181648]]'
+  - '[[_Standards/WikiData/WD~negotiation,202875]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Diplomacy,13502958]]'
 UMLS_CUI: C4042935
 U_S_National_Archives_Identifier: 10638058
 Wikitribune_category: diplomacy
-topic_has_template: "[[_Standards/WikiData/WD~Template_Diplomacy,13502958]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Diplomacy,13502958]]'
 ---
 
 # [[Diplomacy]] 

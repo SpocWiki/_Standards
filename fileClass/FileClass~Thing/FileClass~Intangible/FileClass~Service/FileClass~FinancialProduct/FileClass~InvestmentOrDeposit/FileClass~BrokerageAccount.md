@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~BrokerageAccount
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/BrokerageAccount
-- class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/BrokerageAccount
-- is_a_/BrokerageAccount
-- schema-org/BrokerageAccount
+  - class/BrokerageAccount
+  - class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/BrokerageAccount
+  - is_a_/BrokerageAccount
+  - schema-org/BrokerageAccount
 tags:
-- class/FileClass
-- class/BrokerageAccount
-- is_a_/BrokerageAccount
-- class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/BrokerageAccount
+  - class/FileClass
+  - class/BrokerageAccount
+  - is_a_/BrokerageAccount
+  - class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/BrokerageAccount
 version: 2.0
 ---
 

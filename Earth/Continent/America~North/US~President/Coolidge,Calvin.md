@@ -1,25 +1,25 @@
 ---
 aliases:
-- Coolidge,Calvin
-- "Calvin Coolidge"
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Coolidge,Calvin
+  - Calvin Coolidge
+  - ''
 has_id_wikidata: Q36023
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Coolidge,Calvin
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Coolidge,Calvin
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- 
+  - ''
 title: Coolidge,Calvin
 type: private_note
 ---

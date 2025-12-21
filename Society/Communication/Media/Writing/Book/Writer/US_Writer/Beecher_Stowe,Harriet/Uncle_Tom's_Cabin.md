@@ -1,10 +1,11 @@
 ---
 aliases:
   - Uncle Tom's Cabin
+  - Uncle_Tom's_Cabin
 has_id_wikidata: Q2222
-author: "[[_Standards/WikiData/WD~Harriet_Beecher_Stowe,102513]]"
-main_subject: "[[_Standards/WikiData/WD~slavery_in_the_United_States,118382]]"
-genre: "[[_Standards/WikiData/WD~serialized_fiction,1347298]]"
+author: '[[_Standards/WikiData/WD~Harriet_Beecher_Stowe,102513]]'
+main_subject: '[[_Standards/WikiData/WD~slavery_in_the_United_States,118382]]'
+genre: '[[_Standards/WikiData/WD~serialized_fiction,1347298]]'
 derivative_work:
   - "[[_Standards/WikiData/WD~Uncle_Tom's_Cabin,3549210]]"
   - "[[_Standards/WikiData/WD~Uncle_Tom's_Cabin,3549217]]"
@@ -12,35 +13,35 @@ derivative_work:
   - "[[_Standards/WikiData/WD~Uncle_Tom's_Cabin,4004531]]"
   - "[[_Standards/WikiData/WD~Uncle_Tom's_Cabin,60840578]]"
 different_from: "[[_Standards/WikiData/WD~Uncle_Tom's_Cabin,4004534]]"
-illustrator: "[[_Standards/WikiData/WD~Hammatt_Billings,5645581]]"
-instance_of: "[[_Standards/WikiData/WD~literary_work,7725634]]"
-inspired_by: "[[_Standards/WikiData/WD~Josiah_Henson,9013442]]"
+illustrator: '[[_Standards/WikiData/WD~Hammatt_Billings,5645581]]'
+instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
+inspired_by: '[[_Standards/WikiData/WD~Josiah_Henson,9013442]]'
 followed_by: "[[_Standards/WikiData/WD~A_Key_to_Uncle_Tom's_Cabin,12857642]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~La_Case_de_l_oncle_Tom,41526857]]"
+  - '[[_Standards/WikiData/WD~La_Case_de_l_oncle_Tom,41526857]]'
   - "[[_Standards/WikiData/WD~F'ewythr_Tomos_cân_ddyri,77180434]]"
-  - "[[_Standards/WikiData/WD~Chata_wuja_Tomasza,96277032]]"
-  - "[[_Standards/WikiData/WD~De_Hut_van_Oom_Tom_Een_verhaal_uit_het_slavenleven_in_Noord_Amerika,97463093]]"
-  - "[[_Standards/WikiData/WD~De_negerhut,99211469]]"
-  - "[[_Standards/WikiData/WD~Q99212166,99212166]]"
-  - "[[_Standards/WikiData/WD~Q99212259,99212259]]"
-  - "[[_Standards/WikiData/WD~Q104905071,104905071]]"
-  - "[[_Standards/WikiData/WD~Tom_Khuro,108219949]]"
-  - "[[_Standards/WikiData/WD~Dadair_Poja,135403313]]"
+  - '[[_Standards/WikiData/WD~Chata_wuja_Tomasza,96277032]]'
+  - '[[_Standards/WikiData/WD~De_Hut_van_Oom_Tom_Een_verhaal_uit_het_slavenleven_in_Noord_Amerika,97463093]]'
+  - '[[_Standards/WikiData/WD~De_negerhut,99211469]]'
+  - '[[_Standards/WikiData/WD~Q99212166,99212166]]'
+  - '[[_Standards/WikiData/WD~Q99212259,99212259]]'
+  - '[[_Standards/WikiData/WD~Q104905071,104905071]]'
+  - '[[_Standards/WikiData/WD~Tom_Khuro,108219949]]'
+  - '[[_Standards/WikiData/WD~Dadair_Poja,135403313]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Q98837538,98837538]]"
-  - "[[_Standards/WikiData/WD~Q98837536,98837536]]"
+  - '[[_Standards/WikiData/WD~Q98837538,98837538]]'
+  - '[[_Standards/WikiData/WD~Q98837536,98837536]]'
 publication_date: 1852-03-20T00:00:00Z
 inception: 1852-01-01T00:00:00Z
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~novel,8261]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_publication: "[[_Standards/WikiData/WD~Boston,100]]"
-OmegaWiki_Defined_Meaning: "1539838"
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~novel,8261]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_publication: '[[_Standards/WikiData/WD~Boston,100]]'
+OmegaWiki_Defined_Meaning: 1539838
 Commons_category: Uncle Tom's Cabin
-Dewey_Decimal_Classification_works_and_editions_: "813.3"
+Dewey_Decimal_Classification_works_and_editions_: 813.3
 image: http://commons.wikimedia.org/wiki/Special:FilePath/UncleTomsCabinCover.jpg
 work_available_at_URL: https://standardebooks.org/ebooks/harriet-beecher-stowe/uncle-toms-cabin
 Wolfram_Language_entity_code: Entity["Book", "UncleTomsCabin"]

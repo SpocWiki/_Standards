@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Keynesian economics"
+  - Keynesian economics
+  - Keynesianism
 ---
 
 #has_/previous_/item :: [[Capitalism]] 

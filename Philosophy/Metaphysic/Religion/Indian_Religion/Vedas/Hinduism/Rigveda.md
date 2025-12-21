@@ -1,29 +1,29 @@
 ---
 aliases:
   - Rigveda
-  - Rig Veda 
+  - Rig Veda
   - ऋग्वेद
 has_id_wikidata: Q727413
-has_characteristic: "[[_Standards/WikiData/WD~revelation,192906]]"
+has_characteristic: '[[_Standards/WikiData/WD~revelation,192906]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Hindu_text,1194040]]"
-  - "[[_Standards/WikiData/WD~miscellany,1295240]]"
-  - "[[_Standards/WikiData/WD~collection,2668072]]"
-  - "[[_Standards/WikiData/WD~literary_work,7725634]]"
-  - "[[_Standards/WikiData/WD~religious_hymn,63203971]]"
-  - "[[_Standards/WikiData/WD~Śruti,47148]]"
+  - '[[_Standards/WikiData/WD~Hindu_text,1194040]]'
+  - '[[_Standards/WikiData/WD~miscellany,1295240]]'
+  - '[[_Standards/WikiData/WD~collection,2668072]]'
+  - '[[_Standards/WikiData/WD~literary_work,7725634]]'
+  - '[[_Standards/WikiData/WD~religious_hymn,63203971]]'
+  - '[[_Standards/WikiData/WD~Śruti,47148]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-author: "[[_Standards/WikiData/WD~various_authors,2818964]]"
-location_of_creation: "[[_Standards/WikiData/WD~Rigvedic_rivers,3478959]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Rigveda,6454878]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~poem_collection,12106333]]"
-genre: "[[_Standards/WikiData/WD~religious_literature,12617225]]"
-has_edition_or_translation: "[[_Standards/WikiData/WD~Rig_Véda_ou_Livre_des_hymnes,16511818]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~Vedic_Sanskrit,36858]]"
-part_of: "[[_Standards/WikiData/WD~Vedas,39950]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+author: '[[_Standards/WikiData/WD~various_authors,2818964]]'
+location_of_creation: '[[_Standards/WikiData/WD~Rigvedic_rivers,3478959]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Rigveda,6454878]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~poem_collection,12106333]]'
+genre: '[[_Standards/WikiData/WD~religious_literature,12617225]]'
+has_edition_or_translation: '[[_Standards/WikiData/WD~Rig_Véda_ou_Livre_des_hymnes,16511818]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Vedic_Sanskrit,36858]]'
+part_of: '[[_Standards/WikiData/WD~Vedas,39950]]'
 Colon_Classification: Q11
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rigveda%20MS2097.jpg
 Libris_URI: dbqt1m8x31km8f7

@@ -1,70 +1,72 @@
 ---
 aliases:
   - Malcolm X (born Malcolm Little, later el-Hajj Malik el-Shabazz
+  - Malcolm_X
+  - Malcolm X
 has_id_wikidata: Q43303
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~imam,125482]]"
-  - "[[_Standards/WikiData/WD~human_rights_activist,1476215]]"
-  - "[[_Standards/WikiData/WD~political_activist,11499147]]"
-  - "[[_Standards/WikiData/WD~religious_leader,15995642]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~Muslim_minister,107637527]]"
-manner_of_death: "[[_Standards/WikiData/WD~homicide,149086]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~imam,125482]]'
+  - '[[_Standards/WikiData/WD~human_rights_activist,1476215]]'
+  - '[[_Standards/WikiData/WD~political_activist,11499147]]'
+  - '[[_Standards/WikiData/WD~religious_leader,15995642]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~Muslim_minister,107637527]]'
+manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Nation_of_Islam,220222]]"
-  - "[[_Standards/WikiData/WD~Sunni_Islam,483654]]"
-  - "[[_Standards/WikiData/WD~Islam,432]]"
+  - '[[_Standards/WikiData/WD~Nation_of_Islam,220222]]'
+  - '[[_Standards/WikiData/WD~Sunni_Islam,483654]]'
+  - '[[_Standards/WikiData/WD~Islam,432]]'
 political_ideology:
-  - "[[_Standards/WikiData/WD~Pan_Africanism,282739]]"
-  - "[[_Standards/WikiData/WD~Black_Nationalism,2720299]]"
+  - '[[_Standards/WikiData/WD~Pan_Africanism,282739]]'
+  - '[[_Standards/WikiData/WD~Black_Nationalism,2720299]]'
 significant_person:
-  - "[[_Standards/WikiData/WD~Elijah_Muhammad,345182]]"
-  - "[[_Standards/WikiData/WD~Grace_Lee_Boggs,1541053]]"
-spouse: "[[_Standards/WikiData/WD~Betty_Shabazz,469198]]"
-archives_at: "[[_Standards/WikiData/WD~Schomburg_Center_for_Research_in_Black_Culture,1060566]]"
-place_of_burial: "[[_Standards/WikiData/WD~Ferncliff_Cemetery,1771319]]"
-cause_of_death: "[[_Standards/WikiData/WD~gunshot_wound,2140674]]"
-award_received: "[[_Standards/WikiData/WD~Anisfield_Wolf_Book_Awards,4765305]]"
+  - '[[_Standards/WikiData/WD~Elijah_Muhammad,345182]]'
+  - '[[_Standards/WikiData/WD~Grace_Lee_Boggs,1541053]]'
+spouse: '[[_Standards/WikiData/WD~Betty_Shabazz,469198]]'
+archives_at: '[[_Standards/WikiData/WD~Schomburg_Center_for_Research_in_Black_Culture,1060566]]'
+place_of_burial: '[[_Standards/WikiData/WD~Ferncliff_Cemetery,1771319]]'
+cause_of_death: '[[_Standards/WikiData/WD~gunshot_wound,2140674]]'
+award_received: '[[_Standards/WikiData/WD~Anisfield_Wolf_Book_Awards,4765305]]'
 child:
-  - "[[_Standards/WikiData/WD~Ilyasah_Shabazz,6001629]]"
-  - "[[_Standards/WikiData/WD~Qubilah_Shabazz,7269653]]"
-  - "[[_Standards/WikiData/WD~Malikah_Shabazz,16196254]]"
-  - "[[_Standards/WikiData/WD~Attallah_Shabazz,26465709]]"
-  - "[[_Standards/WikiData/WD~Gamilah_Lumumba_Shabazz,94139218]]"
-  - "[[_Standards/WikiData/WD~Malaak_Shabazz,94140461]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-given_name: "[[_Standards/WikiData/WD~Malcolm,6584302]]"
+  - '[[_Standards/WikiData/WD~Ilyasah_Shabazz,6001629]]'
+  - '[[_Standards/WikiData/WD~Qubilah_Shabazz,7269653]]'
+  - '[[_Standards/WikiData/WD~Malikah_Shabazz,16196254]]'
+  - '[[_Standards/WikiData/WD~Attallah_Shabazz,26465709]]'
+  - '[[_Standards/WikiData/WD~Gamilah_Lumumba_Shabazz,94139218]]'
+  - '[[_Standards/WikiData/WD~Malaak_Shabazz,94140461]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~Malcolm,6584302]]'
 family_name:
-  - "[[_Standards/WikiData/WD~Shabazz,7460045]]"
-  - "[[_Standards/WikiData/WD~Little,20671646]]"
-  - "[[_Standards/WikiData/WD~X,104211601]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Malcolm_X,14449177]]"
+  - '[[_Standards/WikiData/WD~Shabazz,7460045]]'
+  - '[[_Standards/WikiData/WD~Little,20671646]]'
+  - '[[_Standards/WikiData/WD~X,104211601]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Malcolm_X,14449177]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
-  - "[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]"
+  - '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+  - '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Ella_Little_Collins,16013686]]"
-  - "[[_Standards/WikiData/WD~Reginald_Little,104080128]]"
-mother: "[[_Standards/WikiData/WD~Louise_Little,55621330]]"
+  - '[[_Standards/WikiData/WD~Ella_Little_Collins,16013686]]'
+  - '[[_Standards/WikiData/WD~Reginald_Little,104080128]]'
+mother: '[[_Standards/WikiData/WD~Louise_Little,55621330]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~African_American_Religious_Leaders,135030720]]"
-father: "[[_Standards/WikiData/WD~Earl_Little,105391441]]"
-residence: "[[_Standards/WikiData/WD~Malcolm_X_Ella_Little_Collins_House,105753072]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_death: "[[_Standards/WikiData/WD~Manhattan,11299]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_birth: "[[_Standards/WikiData/WD~Omaha,43199]]"
-ethnic_group: "[[_Standards/WikiData/WD~African_Americans,49085]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~African_American_Religious_Leaders,135030720]]'
+father: '[[_Standards/WikiData/WD~Earl_Little,105391441]]'
+residence: '[[_Standards/WikiData/WD~Malcolm_X_Ella_Little_Collins_House,105753072]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+place_of_death: '[[_Standards/WikiData/WD~Manhattan,11299]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_birth: '[[_Standards/WikiData/WD~Omaha,43199]]'
+ethnic_group: '[[_Standards/WikiData/WD~African_Americans,49085]]'
 Commons_category: Malcolm X
 ISNI:
-  - "0000000368642619"
-  - "0000000121348258"
-U_S_National_Archives_Identifier: "10583042"
+  - 0000000368642619
+  - 0000000121348258
+U_S_National_Archives_Identifier: 10583042
 date_of_birth: 1925-05-19T00:00:00Z
 name_in_native_language: Malcolm X
 date_of_death: 1965-02-21T00:00:00Z

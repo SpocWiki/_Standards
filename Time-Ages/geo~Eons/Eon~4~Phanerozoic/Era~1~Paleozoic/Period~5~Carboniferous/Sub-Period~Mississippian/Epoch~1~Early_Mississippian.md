@@ -1,5 +1,7 @@
 ---
-aliases: []
+aliases:
+  - Epoch~1~Early_Mississippian
+  - Epoch~1~Early Mississippian
 ischart: LowerMississippian
 ---
 

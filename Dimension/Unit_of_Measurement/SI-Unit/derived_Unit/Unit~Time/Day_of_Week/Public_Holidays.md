@@ -4,21 +4,23 @@ aliases:
   - public_holidays
   - PublicHolidays
   - is_a_public_holidays
+  - Public_Holidays
+  - Public Holidays
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: DayOfWeek
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - public_holidays
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_public_holidays Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

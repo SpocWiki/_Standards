@@ -1,31 +1,33 @@
 ---
-excludes: 
+aliases:
+  - FileClass~RsvpAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction
 fields:
-- id: XslMuX
-  name: AdditionalNumberOfGuests
-  options: {}
-  type: Number
-  path: ''
-- id: 8cIMMB
-  name: Comment
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Comment')"
-  type: MultiFile
-  path: ''
+  - id: XslMuX
+    name: AdditionalNumberOfGuests
+    options: {}
+    type: Number
+    path: ''
+  - id: 8cIMMB
+    name: Comment
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/RsvpAction
-- class/Thing/Action/InteractAction/CommunicateAction/InformAction/RsvpAction
-- is_a_/RsvpAction
-- schema-org/RsvpAction
+  - class/RsvpAction
+  - class/Thing/Action/InteractAction/CommunicateAction/InformAction/RsvpAction
+  - is_a_/RsvpAction
+  - schema-org/RsvpAction
 tags:
-- class/FileClass
-- class/RsvpAction
-- is_a_/RsvpAction
-- class/Thing/Action/InteractAction/CommunicateAction/InformAction/RsvpAction
+  - class/FileClass
+  - class/RsvpAction
+  - is_a_/RsvpAction
+  - class/Thing/Action/InteractAction/CommunicateAction/InformAction/RsvpAction
 version: 2.0
 ---
 

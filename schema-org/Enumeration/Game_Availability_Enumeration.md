@@ -4,20 +4,22 @@ aliases:
   - game_availability_enumeration
   - GameAvailabilityEnumeration
   - is_a_game_availability_enumeration
+  - Game_Availability_Enumeration
+  - Game Availability Enumeration
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - game_availability_enumeration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_game_availability_enumeration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,22 +1,25 @@
 ---
+aliases:
+  - Baroque_Music
+  - Baroque Music
 has_id_wikidata: Q8361
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~musical_movement,12020884]]"
-follows: "[[_Standards/WikiData/WD~Renaissance_music,201405]]"
+  - '[[_Standards/WikiData/WD~music_genre,188451]]'
+  - '[[_Standards/WikiData/WD~musical_movement,12020884]]'
+follows: '[[_Standards/WikiData/WD~Renaissance_music,201405]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~music_of_Europe,3328676]]"
-  - "[[_Standards/WikiData/WD~classical_music,9730]]"
+  - '[[_Standards/WikiData/WD~music_of_Europe,3328676]]'
+  - '[[_Standards/WikiData/WD~classical_music,9730]]'
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Q10514009,10514009]]"
-  - "[[_Standards/WikiData/WD~Template_Baroque_music,22773371]]"
+  - '[[_Standards/WikiData/WD~Q10514009,10514009]]'
+  - '[[_Standards/WikiData/WD~Template_Baroque_music,22773371]]'
 inception: 1600-01-01T00:00:00Z
-followed_by: "[[_Standards/WikiData/WD~Classical_period,17723]]"
+followed_by: '[[_Standards/WikiData/WD~Classical_period,17723]]'
 subreddit: Baroque
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Sebastian%20Bach.jpg
 Commons_category: Baroque music
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pietro%20paolini%2C%20concerto%2C%201625%20ca..JPG
-P8189: "987007553190705171"
+P8189: 987007553190705171
 ---
 
 # [[Baroque_Music]] 

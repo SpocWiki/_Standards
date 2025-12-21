@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Axe
 has_id_wikidata: Q39397
 used_by:
   - "[[_Standards/WikiData/WD~carpenter,154549]]"
@@ -29,8 +31,8 @@ subclass_of:
   - "[[_Standards/WikiData/WD~artificial_physical_object,8205328]]"
   - "[[_Standards/WikiData/WD~separation_device,115170682]]"
 different_from: "[[_Standards/WikiData/WD~Topór,26270181]]"
-GS1_GPC_code: "10003383"
-OmegaWiki_Defined_Meaning: "333200"
+GS1_GPC_code: 10003383
+OmegaWiki_Defined_Meaning: 333200
 IMDb_keyword: axe
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Siekiera.png
 Iconclass_notation: 47D8(AXE)
@@ -43,7 +45,7 @@ Unicode_character: 🪓
 name: digka
 ---
 
-# [[Axe]] 
+# [[Axe]] 🪓 
 
 #is_/same_as :: [[../../../../WikiData/WD~Axe,39397|WD~Axe,39397]] 
 

@@ -1,26 +1,27 @@
 ---
 aliases:
   - Trias
+  - Period~1~Triassic
 has_id_wikidata: Q47158
 instance_of:
-  - "[[_Standards/WikiData/WD~period,392928]]"
-  - "[[_Standards/WikiData/WD~system,403523]]"
-different_from: "[[_Standards/WikiData/WD~Trias,445213]]"
+  - '[[_Standards/WikiData/WD~period,392928]]'
+  - '[[_Standards/WikiData/WD~system,403523]]'
+different_from: '[[_Standards/WikiData/WD~Trias,445213]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -251902000-01-01T00:00:00Z
 end_time: -201400000-01-01T00:00:00Z
-named_by: "[[_Standards/WikiData/WD~Friedrich_August_von_Alberti,62690]]"
+named_by: '[[_Standards/WikiData/WD~Friedrich_August_von_Alberti,62690]]'
 Commons_category: Triassic
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20225%20Ma%20%28Norian%20Age%29.png
 IPA_transcription: /traɪˈæsɪk/
 sRGB_color_hex_triplet: 812B92
-Dewey_Decimal_Classification: "551.762"
+Dewey_Decimal_Classification: 551.762
 ---
 
 # [[Period~1~Triassic]] 

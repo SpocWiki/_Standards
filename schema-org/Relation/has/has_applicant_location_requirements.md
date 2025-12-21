@@ -1,12 +1,13 @@
 ---
 aliases:
   - has_applicant_location_requirements
+  - has applicant location requirements
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -14,11 +15,11 @@ keywords:
   - location
   - requirements
   - applicantLocationRequirements
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_applicant_location_requirements
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

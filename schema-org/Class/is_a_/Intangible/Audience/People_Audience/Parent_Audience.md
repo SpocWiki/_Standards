@@ -4,20 +4,22 @@ aliases:
   - parent_audience
   - ParentAudience
   - is_a_parent_audience
+  - Parent_Audience
+  - Parent Audience
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - parent_audience
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_parent_audience Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

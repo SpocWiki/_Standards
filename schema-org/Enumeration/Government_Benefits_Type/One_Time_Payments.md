@@ -4,21 +4,23 @@ aliases:
   - one_time_payments
   - OneTimePayments
   - is_an_one_time_payments
+  - One_Time_Payments
+  - One Time Payments
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: GovernmentBenefitsType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - one_time_payments
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_one_time_payments Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

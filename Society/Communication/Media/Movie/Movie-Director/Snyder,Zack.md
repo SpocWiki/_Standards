@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Zack Snyder"
-- "Zachary Edward Snyder"
+  - Zack Snyder
+  - Zachary Edward Snyder
+  - Snyder,Zack
 ---
 
 	#has_/time_/started :: 1966-03-01

@@ -3,23 +3,24 @@ aliases:
   - has toc-continuation
   - tocContinuation
   - has_toc_continuation
+  - has toc continuation
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - toc_continuation
   - toc
   - continuation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_toc_continuation
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,35 +1,36 @@
 ---
 aliases:
   - Tinte
+  - Ink
 has_id_wikidata: Q127418
 has_use:
-  - "[[_Standards/WikiData/WD~drawing,93184]]"
-  - "[[_Standards/WikiData/WD~printing,11034]]"
-  - "[[_Standards/WikiData/WD~art_of_painting,11629]]"
-  - "[[_Standards/WikiData/WD~calligraphy,12681]]"
-  - "[[_Standards/WikiData/WD~writing,37260]]"
+  - '[[_Standards/WikiData/WD~drawing,93184]]'
+  - '[[_Standards/WikiData/WD~printing,11034]]'
+  - '[[_Standards/WikiData/WD~art_of_painting,11629]]'
+  - '[[_Standards/WikiData/WD~calligraphy,12681]]'
+  - '[[_Standards/WikiData/WD~writing,37260]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~pigment,161179]]"
-  - "[[_Standards/WikiData/WD~binder,863583]]"
-  - "[[_Standards/WikiData/WD~filler,905592]]"
+  - '[[_Standards/WikiData/WD~pigment,161179]]'
+  - '[[_Standards/WikiData/WD~binder,863583]]'
+  - '[[_Standards/WikiData/WD~filler,905592]]'
 used_by:
-  - "[[_Standards/WikiData/WD~pen,165447]]"
-  - "[[_Standards/WikiData/WD~fountain_pen,192401]]"
+  - '[[_Standards/WikiData/WD~pen,165447]]'
+  - '[[_Standards/WikiData/WD~fountain_pen,192401]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-subclass_of: "[[_Standards/WikiData/WD~coating,1570182]]"
-different_from: "[[_Standards/WikiData/WD~Ink,18340655]]"
-Nomenclature_for_Museum_Cataloging: "11524"
-GS1_GPC_code: "10001225"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~coating,1570182]]'
+different_from: '[[_Standards/WikiData/WD~Ink,18340655]]'
+Nomenclature_for_Museum_Cataloging: 11524
+GS1_GPC_code: 10001225
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ink-stain-texture-9.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Inkt-article.OGG
 Iconclass_notation: 49L61
-Dewey_Decimal_Classification: "667.4"
+Dewey_Decimal_Classification: 667.4
 UMLS_CUI: C0021510
 Commons_gallery: Ink
 Commons_category: Ink

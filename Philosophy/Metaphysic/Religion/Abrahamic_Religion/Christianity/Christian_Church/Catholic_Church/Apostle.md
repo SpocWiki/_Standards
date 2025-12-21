@@ -1,6 +1,7 @@
 ---
 aliases:
   - Apostel
+  - Apostle
 has_id_wikidata: Q43412
 ---
 

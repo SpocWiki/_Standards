@@ -1,21 +1,22 @@
 ---
 aliases:
   - heavy hydrogen
+  - Deuterium
 has_id_wikidata: Q102296
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Harold_Urey,179777]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Harold_Urey,179777]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~isotope_of_hydrogen,466603]]"
-  - "[[_Standards/WikiData/WD~stable_isotope,878130]]"
+  - '[[_Standards/WikiData/WD~isotope_of_hydrogen,466603]]'
+  - '[[_Standards/WikiData/WD~stable_isotope,878130]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Deuter,1201704]]"
-  - "[[_Standards/WikiData/WD~Deuterium,18397675]]"
+  - '[[_Standards/WikiData/WD~Deuter,1201704]]'
+  - '[[_Standards/WikiData/WD~Deuterium,18397675]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~simple_substance,2512777]]"
-  - "[[_Standards/WikiData/WD~hydrogen,556]]"
-  - "[[_Standards/WikiData/WD~boson,43101]]"
-antiparticle: "[[_Standards/WikiData/WD~antideuterium,11905736]]"
-follows: "[[_Standards/WikiData/WD~protium,12830437]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+  - '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+  - '[[_Standards/WikiData/WD~hydrogen,556]]'
+  - '[[_Standards/WikiData/WD~boson,43101]]'
+antiparticle: '[[_Standards/WikiData/WD~antideuterium,11905736]]'
+follows: '[[_Standards/WikiData/WD~protium,12830437]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 mass: 2.01410177811
 melting_point: -254.43
 boiling_point: -249.58
@@ -24,13 +25,13 @@ parity_quantum_number: 1
 spin_quantum_number: 1
 atomic_number: 1
 natural_abundance: 0.000115
-followed_by: "[[_Standards/WikiData/WD~tritium,54389]]"
+followed_by: '[[_Standards/WikiData/WD~tritium,54389]]'
 element_symbol: D
-OmegaWiki_Defined_Meaning: "158214"
+OmegaWiki_Defined_Meaning: 158214
 binding_energy:
   - 2224520
   - 2224.566
-ZVG_number: "490958"
+ZVG_number: 490958
 Commons_category: Deuterium
 subject_lexeme: L60719
 schematic:
@@ -39,9 +40,9 @@ schematic:
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Deuterium-glow.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Hidr%C3%B3geno%202.gif
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%A1%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A7%87%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE.wav
-isomeric_SMILES: "[2H]"
-Dewey_Decimal_Classification: "546.212"
-P8189: "987007550420505171"
+isomeric_SMILES: '[2H]'
+Dewey_Decimal_Classification: 546.212
+P8189: 987007550420505171
 MeSH_tree_code:
   - D01.268.406.500
   - D01.362.340.500

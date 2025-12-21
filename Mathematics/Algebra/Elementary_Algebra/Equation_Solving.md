@@ -1,11 +1,13 @@
 ---
 aliases:
   - Equation solving
+  - Equation_Solving
+  - Equation Solving
 has_id_wikidata: Q1879820
-studied_by: "[[_Standards/WikiData/WD~elementary_algebra,211294]]"
+studied_by: '[[_Standards/WikiData/WD~elementary_algebra,211294]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~problem_solving,730920]]"
-  - "[[_Standards/WikiData/WD~mathematical_problem,1166625]]"
+  - '[[_Standards/WikiData/WD~problem_solving,730920]]'
+  - '[[_Standards/WikiData/WD~mathematical_problem,1166625]]'
 ---
 
 # [[Equation_Solving]] 

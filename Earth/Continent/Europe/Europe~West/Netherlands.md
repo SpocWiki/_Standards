@@ -1,27 +1,4 @@
 ---
-location:
-  - 52.1525
-  - 5.386944
-type: Country
-tags:
-  - geo/Country
-has_id_wikidata: Q55
-SpocWebEntityId: 26983
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses:
-  - Country
-publish: true
-title: Netherlands
-linkTitle:
-keywords:
-layout:
-draft: false
-publishDate:
-expiryDate:
 aliases:
   - Netherlands
   - Países Bajos
@@ -33,6 +10,29 @@ aliases:
   - Netherlands (the)
   - el Reino de los Países Bajos
   - Países Bajos (los)
+has_id_wikidata: Q55
+location:
+  - 52.1525
+  - 5.386944
+type: Country
+tags:
+  - geo/Country
+SpocWebEntityId: 26983
+isDeleted: false
+confidential: public
+license: CC BY-SA 4.0
+isReadOnly: false
+source: https://datahub.io/core/country-codes
+cssclasses:
+  - Country
+publish: true
+title: Netherlands
+linkTitle: ""
+keywords: ""
+layout: ""
+draft: false
+publishDate: ""
+expiryDate: ""
 Languages:
   - nl-NL
   - fy-NL

@@ -2,6 +2,8 @@
 aliases:
   - Irish Potato Famine
   - Great Hunger
+  - 1845-Great_Famine,Ireland+1852
+  - 1845-Great Famine,Ireland+1852
 ---
 
 # [[1845-Great_Famine,Ireland+1852]] 

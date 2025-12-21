@@ -2,34 +2,35 @@
 aliases:
   - Boden
   - Fußboden
+  - Floor
 has_id_wikidata: Q217164
-opposite_of: "[[_Standards/WikiData/WD~ceiling,221706]]"
+opposite_of: '[[_Standards/WikiData/WD~ceiling,221706]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 different_from:
-  - "[[_Standards/WikiData/WD~storey,831691]]"
-  - "[[_Standards/WikiData/WD~paver,3328263]]"
-  - "[[_Standards/WikiData/WD~sex,290]]"
+  - '[[_Standards/WikiData/WD~storey,831691]]'
+  - '[[_Standards/WikiData/WD~paver,3328263]]'
+  - '[[_Standards/WikiData/WD~sex,290]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~flooring,1433006]]"
-  - "[[_Standards/WikiData/WD~floor_framing,131199988]]"
+  - '[[_Standards/WikiData/WD~flooring,1433006]]'
+  - '[[_Standards/WikiData/WD~floor_framing,131199988]]'
 connects_with:
-  - "[[_Standards/WikiData/WD~baseboard,1630557]]"
-  - "[[_Standards/WikiData/WD~built_in_furniture,115732280]]"
-instance_of: "[[_Standards/WikiData/WD~use,1724915]]"
-locations: "[[_Standards/WikiData/WD~bottom,11812678]]"
-subclass_of: "[[_Standards/WikiData/WD~floor_or_paver,125225990]]"
+  - '[[_Standards/WikiData/WD~baseboard,1630557]]'
+  - '[[_Standards/WikiData/WD~built_in_furniture,115732280]]'
+instance_of: '[[_Standards/WikiData/WD~use,1724915]]'
+locations: '[[_Standards/WikiData/WD~bottom,11812678]]'
+subclass_of: '[[_Standards/WikiData/WD~floor_or_paver,125225990]]'
 part_of:
-  - "[[_Standards/WikiData/WD~house,3947]]"
-  - "[[_Standards/WikiData/WD~building,41176]]"
-OmegaWiki_Defined_Meaning: "6679"
+  - '[[_Standards/WikiData/WD~house,3947]]'
+  - '[[_Standards/WikiData/WD~building,41176]]'
+OmegaWiki_Defined_Meaning: 6679
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Fu%C3%9Fboden.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Timber%20flooring%20sydney%20%285738569720%29.jpg
-P8189: "987007535915805171"
+P8189: 987007535915805171
 Commons_category: Floors
 ---
 

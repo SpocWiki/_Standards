@@ -1,7 +1,9 @@
 ---
 aliases:
-- "Arcane (TV series)"
-- "Arcane: League of Legends"
+  - Arcane (TV series)
+  - 'Arcane: League of Legends'
+  - Arcane(TV_series)
+  - Arcane(TV series)
 ---
 
 # [[Arcane(TV_series)]] 

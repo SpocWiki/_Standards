@@ -1,6 +1,8 @@
 ---
 aliases:
   - Conservation law
+  - Conservation_Law
+  - Conservation Law
 ---
 
 

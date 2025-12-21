@@ -197,7 +197,7 @@ ethnic_group:
   - "[[_Standards/WikiData/WD~Ukrainians,44806]]"
   - "[[_Standards/WikiData/WD~Jewish_people,7325]]"
 executive_body: "[[_Standards/WikiData/WD~Cabinet_of_Ministers_of_Ukraine,613729]]"
-expiryDate:
+expiryDate: ""
 Facebook_username: UkraineUA.MFA
 female_population:
   - 23737604
@@ -259,7 +259,7 @@ ISO_3166_1_alpha_3_code: UKR
 ISO_3166_1_numeric_code: 804
 isReadOnly: false
 ITU_letter_code: UKR
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/UKRAINA.html
 Languages:
   - uk
@@ -280,12 +280,12 @@ language_used:
   - "[[_Standards/WikiData/WD~Hungarian,9067]]"
   - "[[_Standards/WikiData/WD~Romani,13201]]"
   - "[[_Standards/WikiData/WD~Rusyn,26245]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~Verkhovna_Rada,176296]]"
 licence_plate_code: UA
 license: CC BY-SA 4.0
 life_expectancy: 69
-linkTitle:
+linkTitle: ""
 located_in_time_zone:
   - "[[_Standards/WikiData/WD~Eastern_European_Time,190252]]"
   - "[[_Standards/WikiData/WD~Europe_Kyiv,63286014]]"
@@ -352,7 +352,7 @@ pronunciation_audio:
 Provenio_UUID: 438da0f1-d032-4faf-adf1-e50254340f48
 public_holiday: "[[_Standards/WikiData/WD~Independence_Day_of_Ukraine,1968642]]"
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side: "[[_Standards/WikiData/WD~right,14565199]]"
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Ukraine%20relief%20location%20map.jpg
 replaces:

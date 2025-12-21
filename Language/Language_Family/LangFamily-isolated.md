@@ -1,6 +1,8 @@
 ---
+aliases:
+  - LangFamily-isolated
 tags:
-- Lang_Family
+  - Lang_Family
 type: LangFamily
 ---
 

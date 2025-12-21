@@ -1,4 +1,14 @@
 ---
+aliases:
+  - India
+  - Inde
+  - الهند
+  - 印度
+  - Индия
+  - the Republic of India
+  - la República de la India
+  - India (la)
+has_id_wikidata: Q668
 replaces:
   - "[[_Standards/WikiData/WD~Nabha_State,929357]]"
   - "[[_Standards/WikiData/WD~Kalsia_State,932359]]"
@@ -1230,7 +1240,6 @@ BHCL_UUID:
 WOEID: 23424848
 Wolfram_Language_entity_code: Entity["Country", "India"]
 Unicode_character: 🇮🇳
-has_id_wikidata: Q668
 location:
   - 20.3923
   - 78.9354
@@ -1247,21 +1256,12 @@ cssclasses:
   - Country
 publish: true
 title: India
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - India
-  - Inde
-  - الهند
-  - 印度
-  - Индия
-  - the Republic of India
-  - la República de la India
-  - India (la)
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-IN
   - hi

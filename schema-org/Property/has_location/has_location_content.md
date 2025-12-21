@@ -4,21 +4,22 @@ aliases:
   - content_location
   - contentLocation
   - has_location_content
+  - has location content
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - content_location
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_content
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

@@ -1,29 +1,30 @@
 ---
 aliases:
-- has_member
-- has_music_group_member
-- "schema:member"
-- "dbo:member"
-- P527
+  - has_member
+  - has_music_group_member
+  - schema:member
+  - dbo:member
+  - P527
+  - has member
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- member
-layout: 
-license: "CC BY-SA 4.0"
+  - member
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_member
 publish: true
-publishDate: 
-supersedes: "members, musicGroupMember"
+publishDate: ''
+supersedes: members, musicGroupMember
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_member
 type: Predi_Relation
 ---

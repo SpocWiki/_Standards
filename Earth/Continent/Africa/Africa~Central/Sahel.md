@@ -3,40 +3,41 @@ aliases:
   - Sahelian acacia savanna
   - Sahel region
   - Sahelzone
+  - Sahel
 has_id_wikidata: Q66065
-instance_of: "[[_Standards/WikiData/WD~region,82794]]"
+instance_of: '[[_Standards/WikiData/WD~region,82794]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~sub_Saharan_Africa,132959]]"
-  - "[[_Standards/WikiData/WD~Gulf_of_Suez,168277]]"
-  - "[[_Standards/WikiData/WD~Red_Sea,23406]]"
-  - "[[_Standards/WikiData/WD~North_Africa,27381]]"
-  - "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Sudan,209703]]"
+  - '[[_Standards/WikiData/WD~sub_Saharan_Africa,132959]]'
+  - '[[_Standards/WikiData/WD~Gulf_of_Suez,168277]]'
+  - '[[_Standards/WikiData/WD~Red_Sea,23406]]'
+  - '[[_Standards/WikiData/WD~North_Africa,27381]]'
+  - '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Sudan,209703]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Sahel,365778]]"
-  - "[[_Standards/WikiData/WD~Sahil,7399637]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Sahel,18026199]]"
-part_of: "[[_Standards/WikiData/WD~Sudano_Sahelian_Region,106474492]]"
-studied_by: "[[_Standards/WikiData/WD~Sahel_studies,115669616]]"
+  - '[[_Standards/WikiData/WD~Sahel,365778]]'
+  - '[[_Standards/WikiData/WD~Sahil,7399637]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Sahel,18026199]]'
+part_of: '[[_Standards/WikiData/WD~Sudano_Sahelian_Region,106474492]]'
+studied_by: '[[_Standards/WikiData/WD~Sahel_studies,115669616]]'
 country:
-  - "[[_Standards/WikiData/WD~Algeria,262]]"
-  - "[[_Standards/WikiData/WD~Chad,657]]"
-  - "[[_Standards/WikiData/WD~Mali,912]]"
-  - "[[_Standards/WikiData/WD~Central_African_Republic,929]]"
-  - "[[_Standards/WikiData/WD~South_Sudan,958]]"
-  - "[[_Standards/WikiData/WD~Burkina_Faso,965]]"
-  - "[[_Standards/WikiData/WD~Eritrea,986]]"
-  - "[[_Standards/WikiData/WD~Cameroon,1009]]"
-  - "[[_Standards/WikiData/WD~Mauritania,1025]]"
-  - "[[_Standards/WikiData/WD~Niger,1032]]"
-  - "[[_Standards/WikiData/WD~Nigeria,1033]]"
-  - "[[_Standards/WikiData/WD~Senegal,1041]]"
-  - "[[_Standards/WikiData/WD~Sudan,1049]]"
-  - "[[_Standards/WikiData/WD~Egypt,79]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Africa,15]]"
-OmegaWiki_Defined_Meaning: "878860"
+  - '[[_Standards/WikiData/WD~Algeria,262]]'
+  - '[[_Standards/WikiData/WD~Chad,657]]'
+  - '[[_Standards/WikiData/WD~Mali,912]]'
+  - '[[_Standards/WikiData/WD~Central_African_Republic,929]]'
+  - '[[_Standards/WikiData/WD~South_Sudan,958]]'
+  - '[[_Standards/WikiData/WD~Burkina_Faso,965]]'
+  - '[[_Standards/WikiData/WD~Eritrea,986]]'
+  - '[[_Standards/WikiData/WD~Cameroon,1009]]'
+  - '[[_Standards/WikiData/WD~Mauritania,1025]]'
+  - '[[_Standards/WikiData/WD~Niger,1032]]'
+  - '[[_Standards/WikiData/WD~Nigeria,1033]]'
+  - '[[_Standards/WikiData/WD~Senegal,1041]]'
+  - '[[_Standards/WikiData/WD~Sudan,1049]]'
+  - '[[_Standards/WikiData/WD~Egypt,79]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Africa,15]]'
+OmegaWiki_Defined_Meaning: 878860
 native_label:
   - الساحل
   - the Sahel

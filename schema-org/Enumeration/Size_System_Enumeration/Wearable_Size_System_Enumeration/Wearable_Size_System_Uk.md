@@ -4,21 +4,23 @@ aliases:
   - wearable_size_system_uk
   - WearableSizeSystemUK
   - is_a_wearable_size_system_uk
+  - Wearable_Size_System_Uk
+  - Wearable Size System Uk
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableSizeSystemEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_size_system_uk
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_size_system_uk Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

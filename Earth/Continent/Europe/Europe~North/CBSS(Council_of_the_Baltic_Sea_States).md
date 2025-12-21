@@ -1,12 +1,14 @@
 ---
 aliases:
   - Council of the Baltic Sea States (CBSS
+  - CBSS(Council_of_the_Baltic_Sea_States)
+  - CBSS(Council of the Baltic Sea States)
 has_id_wikidata: Q789769
-instance_of: "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
-facet_of: "[[_Standards/WikiData/WD~Baltic_Sea,545]]"
-location_of_formation: "[[_Standards/WikiData/WD~Copenhagen,1748]]"
-work_locations: "[[_Standards/WikiData/WD~Stockholm,1754]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Stockholm,1754]]"
+instance_of: '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
+facet_of: '[[_Standards/WikiData/WD~Baltic_Sea,545]]'
+location_of_formation: '[[_Standards/WikiData/WD~Copenhagen,1748]]'
+work_locations: '[[_Standards/WikiData/WD~Stockholm,1754]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Stockholm,1754]]'
 member_count: 10
 social_media_followers: 2959
 EU_Corporate_body_code: CBSS
@@ -15,7 +17,7 @@ inception: 1992-03-06T00:00:00Z
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/CBSS-members.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cbsslogo.jpg
 official_website: https://cbss.org/
-ISNI: "0000000122268807"
+ISNI: 0000000122268807
 Instagram_username: cbss_secretariat
 Facebook_username: CBSSpage
 X_Twitter_username: CBSSsecretariat

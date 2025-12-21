@@ -4,20 +4,22 @@ aliases:
   - boat_trip
   - BoatTrip
   - is_a_boat_trip
+  - Boat_Trip
+  - Boat Trip
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - boat_trip
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_boat_trip Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

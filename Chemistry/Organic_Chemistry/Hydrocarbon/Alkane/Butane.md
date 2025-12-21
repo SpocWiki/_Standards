@@ -1,6 +1,7 @@
 ---
 aliases:
   - Butan
+  - Butane
 has_id_wikidata: Q134192
 ---
 

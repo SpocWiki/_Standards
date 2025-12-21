@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Group-03-Scandium
 has_id_wikidata: Q108307
 type: ElementGroup
 ---

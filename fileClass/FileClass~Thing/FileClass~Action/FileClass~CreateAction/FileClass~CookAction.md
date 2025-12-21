@@ -1,38 +1,40 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CookAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~CreateAction
 fields:
-- id: JuxgET
-  name: FoodEstablishment
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment')"
-  type: MultiFile
-  path: ''
-- id: vnATOm
-  name: FoodEvent
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Event/FoodEvent')"
-  type: MultiFile
-  path: ''
-- id: cjXwoq
-  name: Recipe
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/HowTo/Recipe')"
-  type: MultiFile
-  path: ''
+  - id: JuxgET
+    name: FoodEstablishment
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment')
+    type: MultiFile
+    path: ''
+  - id: vnATOm
+    name: FoodEvent
+    options:
+      dvQueryString: dv.pages('#class/Thing/Event/FoodEvent')
+    type: MultiFile
+    path: ''
+  - id: cjXwoq
+    name: Recipe
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/HowTo/Recipe')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CookAction
-- class/Thing/Action/CreateAction/CookAction
-- is_a_/CookAction
-- schema-org/CookAction
+  - class/CookAction
+  - class/Thing/Action/CreateAction/CookAction
+  - is_a_/CookAction
+  - schema-org/CookAction
 tags:
-- class/FileClass
-- class/CookAction
-- is_a_/CookAction
-- class/Thing/Action/CreateAction/CookAction
+  - class/FileClass
+  - class/CookAction
+  - is_a_/CookAction
+  - class/Thing/Action/CreateAction/CookAction
 version: 2.0
 ---
 

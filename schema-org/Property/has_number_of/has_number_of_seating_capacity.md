@@ -4,21 +4,22 @@ aliases:
   - seating-capacity
   - seatingCapacity
   - has_number_of_seating_capacity
+  - has number of seating capacity
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - seating-capacity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_seating-capacity
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

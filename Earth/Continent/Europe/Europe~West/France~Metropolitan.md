@@ -1,9 +1,11 @@
 ---
+aliases:
+  - France~Metropolitan
 confidential: public
 isDeleted: false
 SpocWebEntityId: 26897
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

@@ -4,48 +4,50 @@ aliases:
   - short_story
   - ShortStory
   - is_a_short_story
+  - Short_Story
+  - Short Story
 has_id_wikidata: Q49084
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - short_story
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_short_story Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_short_story Class
 type: Type
 different_from:
-  - "[[_Standards/WikiData/WD~novella,149537]]"
-  - "[[_Standards/WikiData/WD~narration,3328821]]"
-  - "[[_Standards/WikiData/WD~short_short_story,6678252]]"
-  - "[[_Standards/WikiData/WD~Erzählung,27036528]]"
-  - "[[_Standards/WikiData/WD~novella,43334491]]"
-studied_by: "[[_Standards/WikiData/WD~literary_studies,208217]]"
+  - '[[_Standards/WikiData/WD~novella,149537]]'
+  - '[[_Standards/WikiData/WD~narration,3328821]]'
+  - '[[_Standards/WikiData/WD~short_short_story,6678252]]'
+  - '[[_Standards/WikiData/WD~Erzählung,27036528]]'
+  - '[[_Standards/WikiData/WD~novella,43334491]]'
+studied_by: '[[_Standards/WikiData/WD~literary_studies,208217]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~narration,3328821]]"
-  - "[[_Standards/WikiData/WD~work_of_fiction,87482979]]"
-  - "[[_Standards/WikiData/WD~prose,676]]"
-instance_of: "[[_Standards/WikiData/WD~literary_form,4263830]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_short_story,6209339]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q9479889,9479889]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Narration,60007664]]"
-has_characteristic: "[[_Standards/WikiData/WD~short_story_award,136724856]]"
-OmegaWiki_Defined_Meaning: "759121"
-U_S_National_Archives_Identifier: "10629824"
+  - '[[_Standards/WikiData/WD~narration,3328821]]'
+  - '[[_Standards/WikiData/WD~work_of_fiction,87482979]]'
+  - '[[_Standards/WikiData/WD~prose,676]]'
+instance_of: '[[_Standards/WikiData/WD~literary_form,4263830]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_short_story,6209339]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9479889,9479889]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Narration,60007664]]'
+has_characteristic: '[[_Standards/WikiData/WD~short_story_award,136724856]]'
+OmegaWiki_Defined_Meaning: 759121
+U_S_National_Archives_Identifier: 10629824
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Cuento-article.ogg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-Cerp%C3%A9n.wav
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/RASSKAZ.html

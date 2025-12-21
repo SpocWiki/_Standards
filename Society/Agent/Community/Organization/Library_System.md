@@ -4,20 +4,22 @@ aliases:
   - library_system
   - LibrarySystem
   - is_a_library_system
+  - Library_System
+  - Library System
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - library_system
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_library_system Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,11 +1,19 @@
 ---
+aliases:
+  - Armenia
+  - Arménie
+  - أرمينيا
+  - 亚美尼亚
+  - Армения
+  - the Republic of Armenia
+  - la República de Armenia
+has_id_wikidata: Q399
 location:
   - 40.18
   - 44.5167
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q399
 SpocWebEntityId: 26831
 isDeleted: false
 confidential: public
@@ -16,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Armenia
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Armenia
-  - Arménie
-  - أرمينيا
-  - 亚美尼亚
-  - Армения
-  - the Republic of Armenia
-  - la República de Armenia
+publishDate: ""
+expiryDate: ""
 Languages:
   - hy
 icon: flag-am

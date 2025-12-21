@@ -1,14 +1,16 @@
 ---
 aliases:
-- "Arab–Israeli conflict"
-Commons_category: "Arab-Israeli conflict"
+  - Arab–Israeli conflict
+  - 1948-Arab–Israeli_Conflict
+  - 1948-Arab–Israeli Conflict
 has_id_wikidata: Q8669
+Commons_category: Arab-Israeli conflict
 has_time_started: 1948-05-15
 history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Arab_Israeli_conflict,2967235]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Arab-Israeli%20Map.svg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Arab-Israeli%20Map.svg
 instance_of:
-- '[[_Standards/WikiData/WD~ethnic_conflict,766875]]'
-- '[[_Standards/WikiData/WD~international_conflict,11422542]]'
+  - '[[_Standards/WikiData/WD~ethnic_conflict,766875]]'
+  - '[[_Standards/WikiData/WD~international_conflict,11422542]]'
 location: '[[_Standards/WikiData/WD~Middle_East,7204]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~Arab_Israeli_Wars,3491398]]'

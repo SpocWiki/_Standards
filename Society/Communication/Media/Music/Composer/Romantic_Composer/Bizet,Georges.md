@@ -4,67 +4,68 @@ aliases:
   - Georges Bizet
   - Bizet
   - Alexandre César Léopold Bizet
+  - Bizet,Georges
 has_id_wikidata: Q56158
 occupation:
-  - "[[_Standards/WikiData/WD~conductor,158852]]"
-  - "[[_Standards/WikiData/WD~pianist,486748]]"
-  - "[[_Standards/WikiData/WD~classical_composer,21680663]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
+  - '[[_Standards/WikiData/WD~conductor,158852]]'
+  - '[[_Standards/WikiData/WD~pianist,486748]]'
+  - '[[_Standards/WikiData/WD~classical_composer,21680663]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Carmen,185968]]"
-  - "[[_Standards/WikiData/WD~The_Pearl_Fishers,56159]]"
+  - '[[_Standards/WikiData/WD~Carmen,185968]]'
+  - '[[_Standards/WikiData/WD~The_Pearl_Fishers,56159]]'
 student_of:
-  - "[[_Standards/WikiData/WD~Fromental_Halévy,313917]]"
-  - "[[_Standards/WikiData/WD~Antoine_François_Marmontel,586181]]"
-  - "[[_Standards/WikiData/WD~Antonin_Marmontel,598974]]"
-  - "[[_Standards/WikiData/WD~Pierre_Joseph_Guillaume_Zimmermann,1348126]]"
-  - "[[_Standards/WikiData/WD~François_Benoist,1450915]]"
-place_of_death: "[[_Standards/WikiData/WD~Bougival,399342]]"
-educated_at: "[[_Standards/WikiData/WD~Conservatoire_de_Paris,463055]]"
+  - '[[_Standards/WikiData/WD~Fromental_Halévy,313917]]'
+  - '[[_Standards/WikiData/WD~Antoine_François_Marmontel,586181]]'
+  - '[[_Standards/WikiData/WD~Antonin_Marmontel,598974]]'
+  - '[[_Standards/WikiData/WD~Pierre_Joseph_Guillaume_Zimmermann,1348126]]'
+  - '[[_Standards/WikiData/WD~François_Benoist,1450915]]'
+place_of_death: '[[_Standards/WikiData/WD~Bougival,399342]]'
+educated_at: '[[_Standards/WikiData/WD~Conservatoire_de_Paris,463055]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Prix_de_Rome,576434]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
+  - '[[_Standards/WikiData/WD~Prix_de_Rome,576434]]'
+  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]"
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
 genre:
-  - "[[_Standards/WikiData/WD~French_opera,662073]]"
-  - "[[_Standards/WikiData/WD~opera,1344]]"
-  - "[[_Standards/WikiData/WD~symphony,9734]]"
-child: "[[_Standards/WikiData/WD~Jacques_Bizet,1677908]]"
+  - '[[_Standards/WikiData/WD~French_opera,662073]]'
+  - '[[_Standards/WikiData/WD~opera,1344]]'
+  - '[[_Standards/WikiData/WD~symphony,9734]]'
+child: '[[_Standards/WikiData/WD~Jacques_Bizet,1677908]]'
 place_of_birth: "[[_Standards/WikiData/WD~Rue_Louise_Émilie_de_La_Tour_d'Auvergne,2378296]]"
-spouse: "[[_Standards/WikiData/WD~Geneviève_Halévy,3100658]]"
-student: "[[_Standards/WikiData/WD~Paul_Lacombe,3371608]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-list_of_works: "[[_Standards/WikiData/WD~list_of_compositions_by_Georges_Bizet,6612801]]"
-given_name: "[[_Standards/WikiData/WD~Georges,15921764]]"
-father: "[[_Standards/WikiData/WD~Adolphe_Armand_Bizet,20331356]]"
-mother: "[[_Standards/WikiData/WD~Aimée_Léopoldine_Joséphine_Delsarte_Anaya,20331395]]"
-residence: "[[_Standards/WikiData/WD~Hôtel_Halévy,22924772]]"
-family_name: "[[_Standards/WikiData/WD~Bizet,41811606]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+spouse: '[[_Standards/WikiData/WD~Geneviève_Halévy,3100658]]'
+student: '[[_Standards/WikiData/WD~Paul_Lacombe,3371608]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+list_of_works: '[[_Standards/WikiData/WD~list_of_compositions_by_Georges_Bizet,6612801]]'
+given_name: '[[_Standards/WikiData/WD~Georges,15921764]]'
+father: '[[_Standards/WikiData/WD~Adolphe_Armand_Bizet,20331356]]'
+mother: '[[_Standards/WikiData/WD~Aimée_Léopoldine_Joséphine_Delsarte_Anaya,20331395]]'
+residence: '[[_Standards/WikiData/WD~Hôtel_Halévy,22924772]]'
+family_name: '[[_Standards/WikiData/WD~Bizet,41811606]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_death: 1875-06-03T00:00:00Z
 date_of_baptism: 1840-03-16T00:00:00Z
 date_of_birth: 1838-10-25T00:00:00Z
-place_of_burial: "[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
-cause_of_death: "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_locations: "[[_Standards/WikiData/WD~Paris,90]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-writing_language: "[[_Standards/WikiData/WD~French,150]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
+place_of_burial: '[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
+cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_locations: '[[_Standards/WikiData/WD~Paris,90]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+writing_language: '[[_Standards/WikiData/WD~French,150]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 Europeana_entity: agent/base/147135
 Krugosvet_article: kultura_i_obrazovanie/muzyka/BIZE_ZHORZH.html
 Libris_URI: zw9cc3ph39n36zv
@@ -79,8 +80,8 @@ name_in_native_language: Georges Bizet
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20bizet.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Bizet%20signature.png
 ISNI:
-  - "0000000121204254"
-  - "0000000420451714"
+  - 0000000121204254
+  - 0000000420451714
 ---
 
 # [[Bizet,Georges]] 

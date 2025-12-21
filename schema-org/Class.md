@@ -13,16 +13,16 @@ cssclasses:
   - Type
 draft: false
 equivalent_class: rdfs:class
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - class
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_class Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

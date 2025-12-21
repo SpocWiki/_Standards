@@ -1,63 +1,65 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PeopleAudience
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience
 fields:
-- id: 115Ql4
-  name: HealthCondition
-  options:
-    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalCondition')"
-  type: MultiFile
-  path: ''
-- id: e5lLb3
-  name: RequiredGender
-  options: {}
-  type: Input
-  path: ''
-- id: 7PS6aY
-  name: RequiredMaxAge
-  options: {}
-  type: Number
-  path: ''
-- id: FuEvkE
-  name: RequiredMinAge
-  options: {}
-  type: Number
-  path: ''
-- id: RbHHy1
-  name: SuggestedAge
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: l2uRb1
-  name: SuggestedMaxAge
-  options: {}
-  type: Number
-  path: ''
-- id: gZR9Cw
-  name: SuggestedMeasurement
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: XsDZ6U
-  name: SuggestedMinAge
-  options: {}
-  type: Number
-  path: ''
+  - id: 115Ql4
+    name: HealthCondition
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
+    type: MultiFile
+    path: ''
+  - id: e5lLb3
+    name: RequiredGender
+    options: {}
+    type: Input
+    path: ''
+  - id: 7PS6aY
+    name: RequiredMaxAge
+    options: {}
+    type: Number
+    path: ''
+  - id: FuEvkE
+    name: RequiredMinAge
+    options: {}
+    type: Number
+    path: ''
+  - id: RbHHy1
+    name: SuggestedAge
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: l2uRb1
+    name: SuggestedMaxAge
+    options: {}
+    type: Number
+    path: ''
+  - id: gZR9Cw
+    name: SuggestedMeasurement
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: XsDZ6U
+    name: SuggestedMinAge
+    options: {}
+    type: Number
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PeopleAudience
-- class/Thing/Intangible/Audience/PeopleAudience
-- is_a_/PeopleAudience
-- schema-org/PeopleAudience
+  - class/PeopleAudience
+  - class/Thing/Intangible/Audience/PeopleAudience
+  - is_a_/PeopleAudience
+  - schema-org/PeopleAudience
 tags:
-- class/FileClass
-- class/PeopleAudience
-- is_a_/PeopleAudience
-- class/Thing/Intangible/Audience/PeopleAudience
+  - class/FileClass
+  - class/PeopleAudience
+  - is_a_/PeopleAudience
+  - class/Thing/Intangible/Audience/PeopleAudience
 version: 2.0
 ---
 

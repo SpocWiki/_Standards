@@ -1,6 +1,8 @@
 ---
 aliases:
   - mixed economy
+  - Mixed_Economy
+  - Mixed Economy
 has_id_wikidata: Q191675
 ---
 

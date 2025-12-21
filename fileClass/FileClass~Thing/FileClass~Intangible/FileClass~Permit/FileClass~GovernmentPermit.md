@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~GovernmentPermit
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Permit
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/GovernmentPermit
-- class/Thing/Intangible/Permit/GovernmentPermit
-- is_a_/GovernmentPermit
-- schema-org/GovernmentPermit
+  - class/GovernmentPermit
+  - class/Thing/Intangible/Permit/GovernmentPermit
+  - is_a_/GovernmentPermit
+  - schema-org/GovernmentPermit
 tags:
-- class/FileClass
-- class/GovernmentPermit
-- is_a_/GovernmentPermit
-- class/Thing/Intangible/Permit/GovernmentPermit
+  - class/FileClass
+  - class/GovernmentPermit
+  - is_a_/GovernmentPermit
+  - class/Thing/Intangible/Permit/GovernmentPermit
 version: 2.0
 ---
 

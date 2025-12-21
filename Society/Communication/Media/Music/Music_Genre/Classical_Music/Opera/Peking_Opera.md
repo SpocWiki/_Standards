@@ -4,17 +4,19 @@ aliases:
   - Beijing opera
   - 京劇
   - Jīngjù
+  - Peking_Opera
+  - Peking Opera
 has_id_wikidata: Q335101
-subclass_of: "[[_Standards/WikiData/WD~Chinese_opera,737994]]"
+subclass_of: '[[_Standards/WikiData/WD~Chinese_opera,737994]]'
 intangible_cultural_heritage_status:
-  - "[[_Standards/WikiData/WD~Beijing_Municipal_Intangible_Cultural_Heritage,10902288]]"
-  - "[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]"
-instance_of: "[[_Standards/WikiData/WD~opera_genre,20643324]]"
-practiced_by: "[[_Standards/WikiData/WD~Peking_opera_actor,111975768]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]"
-different_from: "[[_Standards/WikiData/WD~Opéra_de_Pékin,124344850]]"
+  - '[[_Standards/WikiData/WD~Beijing_Municipal_Intangible_Cultural_Heritage,10902288]]'
+  - '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
+instance_of: '[[_Standards/WikiData/WD~opera_genre,20643324]]'
+practiced_by: '[[_Standards/WikiData/WD~Peking_opera_actor,111975768]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
+different_from: '[[_Standards/WikiData/WD~Opéra_de_Pékin,124344850]]'
 panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A2%D1%80%D0%B8%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D1%85%20%D0%B0%D0%BA%D1%82%D1%91%D1%80%D0%BE%D0%B2%20%D0%BF%D0%BE%D0%B7%D0%B4%D0%BD%D0%B5%D0%B9%20%D0%A6%D0%B8%D0%BD.jpg
-location_of_creation: "[[_Standards/WikiData/WD~Beijing,956]]"
+location_of_creation: '[[_Standards/WikiData/WD~Beijing,956]]'
 country_of_origin: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Beijing%20opera%20%28307062273%29.jpg

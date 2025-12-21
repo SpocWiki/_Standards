@@ -4,22 +4,24 @@ aliases:
   - phonetic_text
   - phoneticText
   - has_text_of_phonetic_text
+  - has_phonetic_text
+  - has phonetic text
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - phonetic
   - text
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_phonetic_text
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

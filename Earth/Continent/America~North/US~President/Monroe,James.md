@@ -1,26 +1,26 @@
 ---
 aliases:
-- "James Monroe"
-- Monroe,James
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - James Monroe
+  - Monroe,James
+  - ''
 has_id_wikidata: Q11815
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Monroe,James
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Monroe,James
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Monroe,James
-- 
+  - Monroe,James
+  - ''
 title: Monroe,James
 type: private_note
 ---

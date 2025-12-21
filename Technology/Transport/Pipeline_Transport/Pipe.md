@@ -2,38 +2,39 @@
 aliases:
   - Rohr
   - Röhre
+  - Pipe
 has_id_wikidata: Q41551
 different_from:
-  - "[[_Standards/WikiData/WD~hose,176440]]"
-  - "[[_Standards/WikiData/WD~plumbing,182612]]"
-  - "[[_Standards/WikiData/WD~Curculionidae,7415384]]"
-opposite_of: "[[_Standards/WikiData/WD~hose,176440]]"
+  - '[[_Standards/WikiData/WD~hose,176440]]'
+  - '[[_Standards/WikiData/WD~plumbing,182612]]'
+  - '[[_Standards/WikiData/WD~Curculionidae,7415384]]'
+opposite_of: '[[_Standards/WikiData/WD~hose,176440]]'
 has_use:
-  - "[[_Standards/WikiData/WD~tap_water,506004]]"
-  - "[[_Standards/WikiData/WD~pipeline_transport,725864]]"
-  - "[[_Standards/WikiData/WD~air_compressor,978234]]"
-  - "[[_Standards/WikiData/WD~plumbing,3241671]]"
-  - "[[_Standards/WikiData/WD~agricultural_irrigation,11453]]"
-has_characteristic: "[[_Standards/WikiData/WD~stiffness,569057]]"
+  - '[[_Standards/WikiData/WD~tap_water,506004]]'
+  - '[[_Standards/WikiData/WD~pipeline_transport,725864]]'
+  - '[[_Standards/WikiData/WD~air_compressor,978234]]'
+  - '[[_Standards/WikiData/WD~plumbing,3241671]]'
+  - '[[_Standards/WikiData/WD~agricultural_irrigation,11453]]'
+has_characteristic: '[[_Standards/WikiData/WD~stiffness,569057]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~tube,1419626]]"
-instance_of: "[[_Standards/WikiData/WD~widget,2467478]]"
-part_of: "[[_Standards/WikiData/WD~piping,3679502]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q16660893,16660893]]"
-has_part_s_: "[[_Standards/WikiData/WD~cavity,28367692]]"
-shape: "[[_Standards/WikiData/WD~open_cylinder,30090682]]"
-subclass_of: "[[_Standards/WikiData/WD~tube,121444807]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~tube,1419626]]'
+instance_of: '[[_Standards/WikiData/WD~widget,2467478]]'
+part_of: '[[_Standards/WikiData/WD~piping,3679502]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q16660893,16660893]]'
+has_part_s_: '[[_Standards/WikiData/WD~cavity,28367692]]'
+shape: '[[_Standards/WikiData/WD~open_cylinder,30090682]]'
+subclass_of: '[[_Standards/WikiData/WD~tube,121444807]]'
 physically_interacts_with:
-  - "[[_Standards/WikiData/WD~liquid,11435]]"
-  - "[[_Standards/WikiData/WD~gas,11432]]"
-OmegaWiki_Defined_Meaning: "2812"
-Nomenclature_for_Museum_Cataloging: "68"
+  - '[[_Standards/WikiData/WD~liquid,11435]]'
+  - '[[_Standards/WikiData/WD~gas,11432]]'
+OmegaWiki_Defined_Meaning: 2812
+Nomenclature_for_Museum_Cataloging: 68
 Commons_category: Pipes
 image: http://commons.wikimedia.org/wiki/Special:FilePath/120%20inch%20HDPE%20plastic%20pipe%20job.jpg
-Dewey_Decimal_Classification: "671.832"
+Dewey_Decimal_Classification: 671.832
 Commons_gallery: Pipe (material)
 ---
 

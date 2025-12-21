@@ -3,23 +3,24 @@ aliases:
   - has refund-type
   - refundType
   - has_refund_type
+  - has refund type
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - refund_type
   - refund
   - type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_refund_type
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

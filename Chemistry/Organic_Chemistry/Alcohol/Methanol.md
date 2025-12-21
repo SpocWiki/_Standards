@@ -2,82 +2,83 @@
 aliases:
   - methyl alcohol
   - wood spirit
+  - Methanol
 has_id_wikidata: Q14982
 found_in_taxon:
-  - "[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]"
-  - "[[_Standards/WikiData/WD~Passiflora_edulis,156790]]"
-  - "[[_Standards/WikiData/WD~Malus_pumila,158657]]"
-  - "[[_Standards/WikiData/WD~Parkia_speciosa,311088]]"
-  - "[[_Standards/WikiData/WD~Vaccinium_corymbosum,468695]]"
-  - "[[_Standards/WikiData/WD~Parthenium_argentatum,536839]]"
-  - "[[_Standards/WikiData/WD~Thymus_zygioides,2430366]]"
-  - "[[_Standards/WikiData/WD~Parthenium_hysterophorus,3595850]]"
-  - "[[_Standards/WikiData/WD~Vaccinium_virgatum,4142371]]"
-  - "[[_Standards/WikiData/WD~Biflustra_perfragilis,6401762]]"
-  - "[[_Standards/WikiData/WD~Mycoacia_uda,10606622]]"
-  - "[[_Standards/WikiData/WD~Origanum_minutiflorum,12242089]]"
-  - "[[_Standards/WikiData/WD~Parthenium_incanum,13939086]]"
-  - "[[_Standards/WikiData/WD~Origanum_sipyleum,15348630]]"
-  - "[[_Standards/WikiData/WD~Thymus_longicaulis,15373037]]"
-  - "[[_Standards/WikiData/WD~Parthenium_tomentosum,15581277]]"
-  - "[[_Standards/WikiData/WD~Parthenium_confertum,15583174]]"
-  - "[[_Standards/WikiData/WD~Parthenium_fruticosum,15583465]]"
-  - "[[_Standards/WikiData/WD~Parthenium_schottii,15586596]]"
-  - "[[_Standards/WikiData/WD~Malus_domestica,18674606]]"
-  - "[[_Standards/WikiData/WD~Vaccinium_ashei,41778446]]"
-  - "[[_Standards/WikiData/WD~Allium_cepa,23485]]"
-  - "[[_Standards/WikiData/WD~parsley,25284]]"
-  - "[[_Standards/WikiData/WD~Escherichia_coli,25419]]"
-  - "[[_Standards/WikiData/WD~Cannabis_sativa,26726]]"
-  - "[[_Standards/WikiData/WD~Coffea_arabica,47685]]"
-has_use: "[[_Standards/WikiData/WD~solvent,146505]]"
+  - '[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]'
+  - '[[_Standards/WikiData/WD~Passiflora_edulis,156790]]'
+  - '[[_Standards/WikiData/WD~Malus_pumila,158657]]'
+  - '[[_Standards/WikiData/WD~Parkia_speciosa,311088]]'
+  - '[[_Standards/WikiData/WD~Vaccinium_corymbosum,468695]]'
+  - '[[_Standards/WikiData/WD~Parthenium_argentatum,536839]]'
+  - '[[_Standards/WikiData/WD~Thymus_zygioides,2430366]]'
+  - '[[_Standards/WikiData/WD~Parthenium_hysterophorus,3595850]]'
+  - '[[_Standards/WikiData/WD~Vaccinium_virgatum,4142371]]'
+  - '[[_Standards/WikiData/WD~Biflustra_perfragilis,6401762]]'
+  - '[[_Standards/WikiData/WD~Mycoacia_uda,10606622]]'
+  - '[[_Standards/WikiData/WD~Origanum_minutiflorum,12242089]]'
+  - '[[_Standards/WikiData/WD~Parthenium_incanum,13939086]]'
+  - '[[_Standards/WikiData/WD~Origanum_sipyleum,15348630]]'
+  - '[[_Standards/WikiData/WD~Thymus_longicaulis,15373037]]'
+  - '[[_Standards/WikiData/WD~Parthenium_tomentosum,15581277]]'
+  - '[[_Standards/WikiData/WD~Parthenium_confertum,15583174]]'
+  - '[[_Standards/WikiData/WD~Parthenium_fruticosum,15583465]]'
+  - '[[_Standards/WikiData/WD~Parthenium_schottii,15586596]]'
+  - '[[_Standards/WikiData/WD~Malus_domestica,18674606]]'
+  - '[[_Standards/WikiData/WD~Vaccinium_ashei,41778446]]'
+  - '[[_Standards/WikiData/WD~Allium_cepa,23485]]'
+  - '[[_Standards/WikiData/WD~parsley,25284]]'
+  - '[[_Standards/WikiData/WD~Escherichia_coli,25419]]'
+  - '[[_Standards/WikiData/WD~Cannabis_sativa,26726]]'
+  - '[[_Standards/WikiData/WD~Coffea_arabica,47685]]'
+has_use: '[[_Standards/WikiData/WD~solvent,146505]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~hygroscopy,216678]]"
-  - "[[_Standards/WikiData/WD~Class_IB_flammable_liquid,21009055]]"
-different_from: "[[_Standards/WikiData/WD~L_menthol,407418]]"
+  - '[[_Standards/WikiData/WD~hygroscopy,216678]]'
+  - '[[_Standards/WikiData/WD~Class_IB_flammable_liquid,21009055]]'
+different_from: '[[_Standards/WikiData/WD~L_menthol,407418]]'
 subject_has_role:
-  - "[[_Standards/WikiData/WD~neurotoxin,407752]]"
-  - "[[_Standards/WikiData/WD~primary_metabolite,3333419]]"
-  - "[[_Standards/WikiData/WD~developmental_toxicant,72941151]]"
+  - '[[_Standards/WikiData/WD~neurotoxin,407752]]'
+  - '[[_Standards/WikiData/WD~primary_metabolite,3333419]]'
+  - '[[_Standards/WikiData/WD~developmental_toxicant,72941151]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-color: "[[_Standards/WikiData/WD~colorless,1396399]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+color: '[[_Standards/WikiData/WD~colorless,1396399]]'
 safety_classification_and_labelling:
-  - "[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]"
-  - "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
-associated_hazard: "[[_Standards/WikiData/WD~methanol_poisoning,3631225]]"
-has_effect: "[[_Standards/WikiData/WD~methanol_poisoning,3631225]]"
-subclass_of: "[[_Standards/WikiData/WD~alkanol,11685431]]"
+  - '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]'
+  - '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+associated_hazard: '[[_Standards/WikiData/WD~methanol_poisoning,3631225]]'
+has_effect: '[[_Standards/WikiData/WD~methanol_poisoning,3631225]]'
+subclass_of: '[[_Standards/WikiData/WD~alkanol,11685431]]'
 part_of:
-  - "[[_Standards/WikiData/WD~response_to_methanol,14860533]]"
-  - "[[_Standards/WikiData/WD~diphthine_methylesterase_activity,21114303]]"
-  - "[[_Standards/WikiData/WD~protein_glutamate_methylesterase_activity,21759647]]"
-  - "[[_Standards/WikiData/WD~cellular_response_to_methanol,22273460]]"
-  - "[[_Standards/WikiData/WD~methanogenesis,_from_methanol,22274768]]"
-  - "[[_Standards/WikiData/WD~methane_biosynthetic_process_from_methanol_and_hydrogen,22274769]]"
-  - "[[_Standards/WikiData/WD~methanol_catabolic_process,22282334]]"
-  - "[[_Standards/WikiData/WD~methanol_metabolic_process,22282333]]"
-  - "[[_Standards/WikiData/WD~methanol_biosynthetic_process,22283262]]"
-  - "[[_Standards/WikiData/WD~formaldehyde_dismutase_activity,22316051]]"
-  - "[[_Standards/WikiData/WD~methanol_dehydrogenase_activity,22318375]]"
-  - "[[_Standards/WikiData/WD~pectinesterase_activity,22320371]]"
-  - "[[_Standards/WikiData/WD~polyneuridine_aldehyde_esterase_activity,22320393]]"
-  - "[[_Standards/WikiData/WD~4_methyloxaloacetate_esterase_activity,22320409]]"
-  - "[[_Standards/WikiData/WD~prenylcysteine_methylesterase_activity,22320420]]"
-  - "[[_Standards/WikiData/WD~juvenile_hormone_esterase_activity,22320430]]"
-  - "[[_Standards/WikiData/WD~pheophorbidase_activity,22320459]]"
-  - "[[_Standards/WikiData/WD~monomethyl_sulfatase_activity,22320462]]"
-  - "[[_Standards/WikiData/WD~methanol_5_hydroxybenzimidazolylcobamide_Co_methyltransferase_activity,22322586]]"
-  - "[[_Standards/WikiData/WD~aclacinomycin_T_methylesterase_activity,27862960]]"
-  - "[[_Standards/WikiData/WD~aflatoxin_B_synthase_activity,112997502]]"
-  - "[[_Standards/WikiData/WD~primary_fluorescent_dioxobilin_type_chlorophyll_catabolite_methylesterase_activity,112997791]]"
-  - "[[_Standards/WikiData/WD~methane_monooxygenase_NADH_activity,112998122]]"
-  - "[[_Standards/WikiData/WD~methane_monooxygenase_NADPH_activity,112998140]]"
-conjugate_base: "[[_Standards/WikiData/WD~methoxide,27123163]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+  - '[[_Standards/WikiData/WD~response_to_methanol,14860533]]'
+  - '[[_Standards/WikiData/WD~diphthine_methylesterase_activity,21114303]]'
+  - '[[_Standards/WikiData/WD~protein_glutamate_methylesterase_activity,21759647]]'
+  - '[[_Standards/WikiData/WD~cellular_response_to_methanol,22273460]]'
+  - '[[_Standards/WikiData/WD~methanogenesis,_from_methanol,22274768]]'
+  - '[[_Standards/WikiData/WD~methane_biosynthetic_process_from_methanol_and_hydrogen,22274769]]'
+  - '[[_Standards/WikiData/WD~methanol_catabolic_process,22282334]]'
+  - '[[_Standards/WikiData/WD~methanol_metabolic_process,22282333]]'
+  - '[[_Standards/WikiData/WD~methanol_biosynthetic_process,22283262]]'
+  - '[[_Standards/WikiData/WD~formaldehyde_dismutase_activity,22316051]]'
+  - '[[_Standards/WikiData/WD~methanol_dehydrogenase_activity,22318375]]'
+  - '[[_Standards/WikiData/WD~pectinesterase_activity,22320371]]'
+  - '[[_Standards/WikiData/WD~polyneuridine_aldehyde_esterase_activity,22320393]]'
+  - '[[_Standards/WikiData/WD~4_methyloxaloacetate_esterase_activity,22320409]]'
+  - '[[_Standards/WikiData/WD~prenylcysteine_methylesterase_activity,22320420]]'
+  - '[[_Standards/WikiData/WD~juvenile_hormone_esterase_activity,22320430]]'
+  - '[[_Standards/WikiData/WD~pheophorbidase_activity,22320459]]'
+  - '[[_Standards/WikiData/WD~monomethyl_sulfatase_activity,22320462]]'
+  - '[[_Standards/WikiData/WD~methanol_5_hydroxybenzimidazolylcobamide_Co_methyltransferase_activity,22322586]]'
+  - '[[_Standards/WikiData/WD~aclacinomycin_T_methylesterase_activity,27862960]]'
+  - '[[_Standards/WikiData/WD~aflatoxin_B_synthase_activity,112997502]]'
+  - '[[_Standards/WikiData/WD~primary_fluorescent_dioxobilin_type_chlorophyll_catabolite_methylesterase_activity,112997791]]'
+  - '[[_Standards/WikiData/WD~methane_monooxygenase_NADH_activity,112998122]]'
+  - '[[_Standards/WikiData/WD~methane_monooxygenase_NADPH_activity,112998140]]'
+conjugate_base: '[[_Standards/WikiData/WD~methoxide,27123163]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
 standard_enthalpy_of_formation:
   - -238660
   - -200660
@@ -87,9 +88,9 @@ melting_point:
   - -98
 combustion_enthalpy: -726.4
 has_part_s_:
-  - "[[_Standards/WikiData/WD~hydrogen,556]]"
-  - "[[_Standards/WikiData/WD~carbon,623]]"
-  - "[[_Standards/WikiData/WD~oxygen,629]]"
+  - '[[_Standards/WikiData/WD~hydrogen,556]]'
+  - '[[_Standards/WikiData/WD~carbon,623]]'
+  - '[[_Standards/WikiData/WD~oxygen,629]]'
 lower_flammable_limit: 6
 electric_dipole_moment:
   - 1.7
@@ -118,20 +119,20 @@ speed_of_sound: 1121
 standard_molar_entropy:
   - 126.8
   - 239.9
-Gmelin_number: "449"
+Gmelin_number: 449
 specific_heat_capacity: 9.798
-ZVG_number: "11240"
+ZVG_number: 11240
 mass: 32.026
-PubChem_CID: "887"
-Reaxys_registry_number: "1098229"
-NSC_number: "85232"
-UN_number: "1230"
-CosIng_number: "35275"
+PubChem_CID: 887
+Reaxys_registry_number: 1098229
+NSC_number: 85232
+UN_number: 1230
+CosIng_number: 35275
 molar_fusion_enthalpy: 3167.29
-RxNorm_CUI: "1310568"
+RxNorm_CUI: 1310568
 UNII: Y4S76JWI15
-OmegaWiki_Defined_Meaning: "526128"
-CCDC_Number: "1211457"
+OmegaWiki_Defined_Meaning: 526128
+CCDC_Number: 1211457
 InChIKey: OKKJLVBELUTLKV-UHFFFAOYSA-N
 InChI: InChI=1S/CH4O/c1-2/h2H,1H3
 Commons_category: Methanol
@@ -142,7 +143,7 @@ chemical_structure:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Methanol%20Lewis.svg
 EC_number: 200-659-6
 MCN_code: 2905.11.00
-Dewey_Decimal_Classification: "662.6692"
+Dewey_Decimal_Classification: 662.6692
 CAS_Registry_Number: 67-56-1
 UMLS_CUI: C0001963
 chemical_formula: CH₄O

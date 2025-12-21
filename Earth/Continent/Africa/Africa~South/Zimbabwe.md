@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Zimbabwe
+  - زمبابوي
+  - 津巴布韦
+  - Зимбабве
+  - the Republic of Zimbabwe
+  - la República de Zimbabwe
+has_id_wikidata: Q954
 currency: "[[_Standards/WikiData/WD~Indian_rupee,80524]]"
 instance_of:
   - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
@@ -308,7 +316,6 @@ motto_text:
   - Unitat, llibertat, treball
   - Undeb, Rhyddid, Gwaith
   - Unity, Freedom, Work
-has_id_wikidata: Q954
 location:
   - -17.8333
   - 31.05
@@ -325,19 +332,12 @@ cssclasses:
   - Country
 publish: true
 title: Zimbabwe
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Zimbabwe
-  - زمبابوي
-  - 津巴布韦
-  - Зимбабве
-  - the Republic of Zimbabwe
-  - la República de Zimbabwe
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-ZW
   - sn

@@ -1,15 +1,16 @@
 ---
 aliases:
   - Ansehen
+  - Reputation
 has_id_wikidata: Q877546
-subclass_of: "[[_Standards/WikiData/WD~social_status,189970]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~credibility,1821569]]"
+subclass_of: '[[_Standards/WikiData/WD~social_status,189970]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~credibility,1821569]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q89913710,89913710]]"
-OmegaWiki_Defined_Meaning: "964810"
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q89913710,89913710]]'
+OmegaWiki_Defined_Meaning: 964810
 IMDb_keyword: reputation
 ---
 

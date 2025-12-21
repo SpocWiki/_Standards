@@ -5,6 +5,8 @@ aliases:
   - Christian year
   - ecclesiastical calendar
   - kalendar
+  - Christian_Holiday
+  - Christian Holiday
 ---
 
 # [[Christian_Holiday]] 

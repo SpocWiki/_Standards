@@ -3,95 +3,96 @@ aliases:
   - Robert_Schumann
   - Robert Schumann
   - Schumann
+  - Schumann,Robert
 has_id_wikidata: Q7351
-influenced_by: "[[_Standards/WikiData/WD~Niccolò_Paganini,66075]]"
+influenced_by: '[[_Standards/WikiData/WD~Niccolò_Paganini,66075]]'
 child:
-  - "[[_Standards/WikiData/WD~Felix_Schumann,77992]]"
-  - "[[_Standards/WikiData/WD~Eugenie_Schumann,1373249]]"
-  - "[[_Standards/WikiData/WD~Julie_Schumann,49772132]]"
-  - "[[_Standards/WikiData/WD~Marie_Schumann,90312364]]"
-  - "[[_Standards/WikiData/WD~Ferdinand_Schumann,94900851]]"
-  - "[[_Standards/WikiData/WD~Emil_Schumann,122625983]]"
-  - "[[_Standards/WikiData/WD~Ludwig_Schumann,125458952]]"
-father: "[[_Standards/WikiData/WD~August_Schumann,92090]]"
-medical_condition: "[[_Standards/WikiData/WD~bipolar_disorder,131755]]"
-spouse: "[[_Standards/WikiData/WD~Clara_Schumann,132232]]"
+  - '[[_Standards/WikiData/WD~Felix_Schumann,77992]]'
+  - '[[_Standards/WikiData/WD~Eugenie_Schumann,1373249]]'
+  - '[[_Standards/WikiData/WD~Julie_Schumann,49772132]]'
+  - '[[_Standards/WikiData/WD~Marie_Schumann,90312364]]'
+  - '[[_Standards/WikiData/WD~Ferdinand_Schumann,94900851]]'
+  - '[[_Standards/WikiData/WD~Emil_Schumann,122625983]]'
+  - '[[_Standards/WikiData/WD~Ludwig_Schumann,125458952]]'
+father: '[[_Standards/WikiData/WD~August_Schumann,92090]]'
+medical_condition: '[[_Standards/WikiData/WD~bipolar_disorder,131755]]'
+spouse: '[[_Standards/WikiData/WD~Clara_Schumann,132232]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Heidelberg_University,151510]]"
-  - "[[_Standards/WikiData/WD~Leipzig_University,154804]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_Saxony,153015]]"
-place_of_death: "[[_Standards/WikiData/WD~Endenich,153759]]"
+  - '[[_Standards/WikiData/WD~Heidelberg_University,151510]]'
+  - '[[_Standards/WikiData/WD~Leipzig_University,154804]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Saxony,153015]]'
+place_of_death: '[[_Standards/WikiData/WD~Endenich,153759]]'
 occupation:
-  - "[[_Standards/WikiData/WD~conductor,158852]]"
-  - "[[_Standards/WikiData/WD~pianist,486748]]"
-  - "[[_Standards/WikiData/WD~music_critic,1350157]]"
-  - "[[_Standards/WikiData/WD~musicologist,14915627]]"
-  - "[[_Standards/WikiData/WD~music_educator,16145150]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
+  - '[[_Standards/WikiData/WD~conductor,158852]]'
+  - '[[_Standards/WikiData/WD~pianist,486748]]'
+  - '[[_Standards/WikiData/WD~music_critic,1350157]]'
+  - '[[_Standards/WikiData/WD~musicologist,14915627]]'
+  - '[[_Standards/WikiData/WD~music_educator,16145150]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
 student:
-  - "[[_Standards/WikiData/WD~Carl_Reinecke,159569]]"
-  - "[[_Standards/WikiData/WD~Albert_Dietrich,565548]]"
+  - '[[_Standards/WikiData/WD~Carl_Reinecke,159569]]'
+  - '[[_Standards/WikiData/WD~Albert_Dietrich,565548]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Symphony_No._1,163594]]"
-  - "[[_Standards/WikiData/WD~Symphony_No._2,210568]]"
-  - "[[_Standards/WikiData/WD~Symphony_No._3,223540]]"
-  - "[[_Standards/WikiData/WD~Kinderszenen,1569982]]"
+  - '[[_Standards/WikiData/WD~Symphony_No._1,163594]]'
+  - '[[_Standards/WikiData/WD~Symphony_No._2,210568]]'
+  - '[[_Standards/WikiData/WD~Symphony_No._3,223540]]'
+  - '[[_Standards/WikiData/WD~Kinderszenen,1569982]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~chamber_music,189201]]"
-  - "[[_Standards/WikiData/WD~opera,1344]]"
-  - "[[_Standards/WikiData/WD~classical_music,9730]]"
-  - "[[_Standards/WikiData/WD~symphony,9734]]"
-employer: "[[_Standards/WikiData/WD~University_of_Music_and_Theatre_Leipzig,312578]]"
-place_of_burial: "[[_Standards/WikiData/WD~Alter_Friedhof_Bonn,318822]]"
+  - '[[_Standards/WikiData/WD~chamber_music,189201]]'
+  - '[[_Standards/WikiData/WD~opera,1344]]'
+  - '[[_Standards/WikiData/WD~classical_music,9730]]'
+  - '[[_Standards/WikiData/WD~symphony,9734]]'
+employer: '[[_Standards/WikiData/WD~University_of_Music_and_Theatre_Leipzig,312578]]'
+place_of_burial: '[[_Standards/WikiData/WD~Alter_Friedhof_Bonn,318822]]'
 student_of:
-  - "[[_Standards/WikiData/WD~Friedrich_Wieck,440809]]"
-  - "[[_Standards/WikiData/WD~Heinrich_Dorn,564953]]"
-  - "[[_Standards/WikiData/WD~Johann_Gottfried_Kuntsch,20003633]]"
+  - '[[_Standards/WikiData/WD~Friedrich_Wieck,440809]]'
+  - '[[_Standards/WikiData/WD~Heinrich_Dorn,564953]]'
+  - '[[_Standards/WikiData/WD~Johann_Gottfried_Kuntsch,20003633]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]"
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
+  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-  - "[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]"
-  - "[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Ernestine_von_Fricken,1356634]]"
-member_of: "[[_Standards/WikiData/WD~Leipzig_Fraternity_Germania,1815509]]"
+  - '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+  - '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
+  - '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Ernestine_von_Fricken,1356634]]'
+member_of: '[[_Standards/WikiData/WD~Leipzig_Fraternity_Germania,1815509]]'
 residence:
-  - "[[_Standards/WikiData/WD~Schumann_Haus,2251842]]"
-  - "[[_Standards/WikiData/WD~Leipzig,2079]]"
-list_of_works: "[[_Standards/WikiData/WD~list_of_compositions_by_Robert_Schumann,2372629]]"
-significant_event: "[[_Standards/WikiData/WD~attempted_suicide,3518184]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-given_name: "[[_Standards/WikiData/WD~Robert,4927937]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Schumann,21450751]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-copyright_representative: "[[_Standards/WikiData/WD~reproduction_right_not_represented_by_CISAC_member,71521142]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-mother: "[[_Standards/WikiData/WD~Christiane_Schumann,94777751]]"
+  - '[[_Standards/WikiData/WD~Schumann_Haus,2251842]]'
+  - '[[_Standards/WikiData/WD~Leipzig,2079]]'
+list_of_works: '[[_Standards/WikiData/WD~list_of_compositions_by_Robert_Schumann,2372629]]'
+significant_event: '[[_Standards/WikiData/WD~attempted_suicide,3518184]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+given_name: '[[_Standards/WikiData/WD~Robert,4927937]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Schumann,21450751]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+copyright_representative: '[[_Standards/WikiData/WD~reproduction_right_not_represented_by_CISAC_member,71521142]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+mother: '[[_Standards/WikiData/WD~Christiane_Schumann,94777751]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Julius_Schumann,94898971]]"
-  - "[[_Standards/WikiData/WD~Karl_Schumann,94898989]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Christian_Hymns,100975219]]"
+  - '[[_Standards/WikiData/WD~Julius_Schumann,94898971]]'
+  - '[[_Standards/WikiData/WD~Karl_Schumann,94898989]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Christian_Hymns,100975219]]'
 date_of_death: 1856-07-29T00:00:00Z
-place_of_birth: "[[_Standards/WikiData/WD~Zwickau,3778]]"
-instrument: "[[_Standards/WikiData/WD~piano,5994]]"
-different_from: "[[_Standards/WikiData/WD~Robert_Schuman,15981]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-writing_language: "[[_Standards/WikiData/WD~German,188]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~German,188]]"
+place_of_birth: '[[_Standards/WikiData/WD~Zwickau,3778]]'
+instrument: '[[_Standards/WikiData/WD~piano,5994]]'
+different_from: '[[_Standards/WikiData/WD~Robert_Schuman,15981]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+writing_language: '[[_Standards/WikiData/WD~German,188]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
 Commons_category: Robert Schumann
 Commons_Creator_page: Robert Schumann
 Commons_gallery: Robert Schumann
@@ -108,7 +109,7 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/2009-05-31%20Bo
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20Robert%20Schumann.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Robert-schumann.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20Robert%20Schumann-2.jpg
-ISNI: "0000000120955419"
+ISNI: 0000000120955419
 Europeana_entity: agent/base/147000
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/SHUMAN_ROBERT_ALEKSANDR.html
 ---

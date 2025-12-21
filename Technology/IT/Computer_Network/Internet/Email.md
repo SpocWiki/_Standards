@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Electronic mail
+  - Email
+  - E-mail
+has_id_wikidata: Q9158
 Commons_category: E-mail
 creator: "[[_Standards/WikiData/WD~Raymond_Tomlinson,92631]]"
 different_from:
@@ -7,7 +12,6 @@ different_from:
 digital_equivalent_of: "[[_Standards/WikiData/WD~mail,49845]]"
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Raymond_Tomlinson,92631]]"
 GitHub_topic: email
-has_id_wikidata: Q9158
 has_part_s_:
   - "[[_Standards/WikiData/WD~Simple_Mail_Transfer_Protocol,160453]]"
   - "[[_Standards/WikiData/WD~Post_Office_Protocol_3,163393]]"
@@ -42,13 +46,9 @@ uses:
   - "[[_Standards/WikiData/WD~carbon_copy,59164214]]"
 U_S_National_Archives_Identifier: 10636085
 Wikidata_property: email address
-aliases:
-  - Electronic mail
-  - Email
-  - E-mail
 ---
 
-# [[Email]] 
+# [[Email]] 📧 
 
 #is_/same_as :: [[../../../../WikiData/WD~Email,9158|WD~Email,9158]] 
 

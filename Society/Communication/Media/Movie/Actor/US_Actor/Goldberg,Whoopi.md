@@ -4,106 +4,107 @@ aliases:
   - Caryn Elaine Johnson
   - Whoopi Goldberg
   - Goldberg
+  - Goldberg,Whoopi
 has_id_wikidata: Q49001
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]"
-  - "[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Actress,602866]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Actress,602866]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]"
-  - "[[_Standards/WikiData/WD~Drama_Desk_Awards,682154]]"
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Leading_Role,687123]]"
-  - "[[_Standards/WikiData/WD~Theatre_World_Award,1131356]]"
-  - "[[_Standards/WikiData/WD~Disney_Legends,1150306]]"
-  - "[[_Standards/WikiData/WD~Saturn_Award_for_Best_Supporting_Actress,1257399]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Comedy_Album,1326340]]"
-  - "[[_Standards/WikiData/WD~Mark_Twain_Prize_for_American_Humor,1899850]]"
-  - "[[_Standards/WikiData/WD~Drama_League_Award,4167639]]"
-  - "[[_Standards/WikiData/WD~GLAAD_Vanguard_Award,5513594]]"
-  - "[[_Standards/WikiData/WD~Hasty_Pudding_Woman_of_the_Year,10294045]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Daytime_Emmy_Award_for_Outstanding_Entertainment_Talk_Show_Host,19867547]]"
-  - "[[_Standards/WikiData/WD~Crystal_Award,56085709]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_Brandeis_University,86241109]]"
-  - "[[_Standards/WikiData/WD~Jane_Fonda_Humanitarian_Award,133176391]]"
-  - "[[_Standards/WikiData/WD~Grammy_Awards,41254]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+  - '[[_Standards/WikiData/WD~Drama_Desk_Awards,682154]]'
+  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Leading_Role,687123]]'
+  - '[[_Standards/WikiData/WD~Theatre_World_Award,1131356]]'
+  - '[[_Standards/WikiData/WD~Disney_Legends,1150306]]'
+  - '[[_Standards/WikiData/WD~Saturn_Award_for_Best_Supporting_Actress,1257399]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Comedy_Album,1326340]]'
+  - '[[_Standards/WikiData/WD~Mark_Twain_Prize_for_American_Humor,1899850]]'
+  - '[[_Standards/WikiData/WD~Drama_League_Award,4167639]]'
+  - '[[_Standards/WikiData/WD~GLAAD_Vanguard_Award,5513594]]'
+  - '[[_Standards/WikiData/WD~Hasty_Pudding_Woman_of_the_Year,10294045]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~Daytime_Emmy_Award_for_Outstanding_Entertainment_Talk_Show_Host,19867547]]'
+  - '[[_Standards/WikiData/WD~Crystal_Award,56085709]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_Brandeis_University,86241109]]'
+  - '[[_Standards/WikiData/WD~Jane_Fonda_Humanitarian_Award,133176391]]'
+  - '[[_Standards/WikiData/WD~Grammy_Awards,41254]]'
 genre:
-  - "[[_Standards/WikiData/WD~satire,128758]]"
-  - "[[_Standards/WikiData/WD~surreal_humour,1092460]]"
-  - "[[_Standards/WikiData/WD~musical_comedy,1548170]]"
-  - "[[_Standards/WikiData/WD~deadpan,1616750]]"
-  - "[[_Standards/WikiData/WD~news_satire,2943864]]"
-  - "[[_Standards/WikiData/WD~observational_comedy,4209421]]"
-  - "[[_Standards/WikiData/WD~character_comedy,5073733]]"
-  - "[[_Standards/WikiData/WD~political_satire,7225114]]"
-  - "[[_Standards/WikiData/WD~insult_comedy,17112404]]"
-  - "[[_Standards/WikiData/WD~black_comedy,53094]]"
-medical_condition: "[[_Standards/WikiData/WD~dyslexia,132971]]"
+  - '[[_Standards/WikiData/WD~satire,128758]]'
+  - '[[_Standards/WikiData/WD~surreal_humour,1092460]]'
+  - '[[_Standards/WikiData/WD~musical_comedy,1548170]]'
+  - '[[_Standards/WikiData/WD~deadpan,1616750]]'
+  - '[[_Standards/WikiData/WD~news_satire,2943864]]'
+  - '[[_Standards/WikiData/WD~observational_comedy,4209421]]'
+  - '[[_Standards/WikiData/WD~character_comedy,5073733]]'
+  - '[[_Standards/WikiData/WD~political_satire,7225114]]'
+  - '[[_Standards/WikiData/WD~insult_comedy,17112404]]'
+  - '[[_Standards/WikiData/WD~black_comedy,53094]]'
+medical_condition: '[[_Standards/WikiData/WD~dyslexia,132971]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~comedian,245068]]"
-  - "[[_Standards/WikiData/WD~singer_songwriter,488205]]"
-  - "[[_Standards/WikiData/WD~television_producer,578109]]"
-  - "[[_Standards/WikiData/WD~television_presenter,947873]]"
-  - "[[_Standards/WikiData/WD~character_actor,948329]]"
-  - "[[_Standards/WikiData/WD~theatrical_producer,1759246]]"
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~voice_actor,2405480]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~radio_personality,2722764]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~comedian,245068]]'
+  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+  - '[[_Standards/WikiData/WD~television_producer,578109]]'
+  - '[[_Standards/WikiData/WD~television_presenter,947873]]'
+  - '[[_Standards/WikiData/WD~character_actor,948329]]'
+  - '[[_Standards/WikiData/WD~theatrical_producer,1759246]]'
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~voice_actor,2405480]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~radio_personality,2722764]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
   - "[[_Standards/WikiData/WD~children's_writer,4853732]]"
-  - "[[_Standards/WikiData/WD~novelist,6625963]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~manufacturer,13235160]]"
-  - "[[_Standards/WikiData/WD~talk_show_host,18668527]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
+  - '[[_Standards/WikiData/WD~novelist,6625963]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~manufacturer,13235160]]'
+  - '[[_Standards/WikiData/WD~talk_show_host,18668527]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~The_Color_Purple,223299]]"
-  - "[[_Standards/WikiData/WD~Sister_Act,776302]]"
-  - "[[_Standards/WikiData/WD~Sister_Act_2_Back_in_the_Habit,1140762]]"
-  - "[[_Standards/WikiData/WD~Call_Me_Claus,2238556]]"
-  - "[[_Standards/WikiData/WD~Ghost,49003]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Frank_Langella,310944]]"
-employer: "[[_Standards/WikiData/WD~UNICEF,740308]]"
-handedness: "[[_Standards/WikiData/WD~left_handedness,789447]]"
-family_name: "[[_Standards/WikiData/WD~Goldberg,1158318]]"
-wears: "[[_Standards/WikiData/WD~horn_rimmed_glasses,1628391]]"
-hair_color: "[[_Standards/WikiData/WD~black_hair,1922956]]"
-record_label: "[[_Standards/WikiData/WD~MCA_Records,2338889]]"
-child: "[[_Standards/WikiData/WD~Alex_Martin,4717435]]"
+  - '[[_Standards/WikiData/WD~The_Color_Purple,223299]]'
+  - '[[_Standards/WikiData/WD~Sister_Act,776302]]'
+  - '[[_Standards/WikiData/WD~Sister_Act_2_Back_in_the_Habit,1140762]]'
+  - '[[_Standards/WikiData/WD~Call_Me_Claus,2238556]]'
+  - '[[_Standards/WikiData/WD~Ghost,49003]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Frank_Langella,310944]]'
+employer: '[[_Standards/WikiData/WD~UNICEF,740308]]'
+handedness: '[[_Standards/WikiData/WD~left_handedness,789447]]'
+family_name: '[[_Standards/WikiData/WD~Goldberg,1158318]]'
+wears: '[[_Standards/WikiData/WD~horn_rimmed_glasses,1628391]]'
+hair_color: '[[_Standards/WikiData/WD~black_hair,1922956]]'
+record_label: '[[_Standards/WikiData/WD~MCA_Records,2338889]]'
+child: '[[_Standards/WikiData/WD~Alex_Martin,4717435]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~HB_Studio,5629067]]"
-  - "[[_Standards/WikiData/WD~Washington_Irving_High_School,7971994]]"
-  - "[[_Standards/WikiData/WD~New_York_University,49210]]"
-filmography: "[[_Standards/WikiData/WD~Whoopi_Goldberg_on_screen_and_stage,6351513]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
-instrument: "[[_Standards/WikiData/WD~voice,17172850]]"
-eye_color: "[[_Standards/WikiData/WD~dark_brown,17244894]]"
-position_held: "[[_Standards/WikiData/WD~UNICEF_Goodwill_Ambassador,19969187]]"
+  - '[[_Standards/WikiData/WD~HB_Studio,5629067]]'
+  - '[[_Standards/WikiData/WD~Washington_Irving_High_School,7971994]]'
+  - '[[_Standards/WikiData/WD~New_York_University,49210]]'
+filmography: '[[_Standards/WikiData/WD~Whoopi_Goldberg_on_screen_and_stage,6351513]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
+eye_color: '[[_Standards/WikiData/WD~dark_brown,17244894]]'
+position_held: '[[_Standards/WikiData/WD~UNICEF_Goodwill_Ambassador,19969187]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Lyle_Trachtenberg,20966040]]"
-  - "[[_Standards/WikiData/WD~David_Claessen,20966045]]"
-  - "[[_Standards/WikiData/WD~Alvin_Martin,20966048]]"
-notable_role: "[[_Standards/WikiData/WD~Shenzi,21772097]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-described_by_source: "[[_Standards/WikiData/WD~Notable_Black_American_Women,105958972]]"
-given_name: "[[_Standards/WikiData/WD~Whoopi,113996954]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-named_after: "[[_Standards/WikiData/WD~whoopee_cushion,17215]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_birth: "[[_Standards/WikiData/WD~New_York_City,60]]"
+  - '[[_Standards/WikiData/WD~Lyle_Trachtenberg,20966040]]'
+  - '[[_Standards/WikiData/WD~David_Claessen,20966045]]'
+  - '[[_Standards/WikiData/WD~Alvin_Martin,20966048]]'
+notable_role: '[[_Standards/WikiData/WD~Shenzi,21772097]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+described_by_source: '[[_Standards/WikiData/WD~Notable_Black_American_Women,105958972]]'
+given_name: '[[_Standards/WikiData/WD~Whoopi,113996954]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+named_after: '[[_Standards/WikiData/WD~whoopee_cushion,17215]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_birth: '[[_Standards/WikiData/WD~New_York_City,60]]'
 net_worth: 45000000
 height: 165
-ethnic_group: "[[_Standards/WikiData/WD~African_Americans,49085]]"
+ethnic_group: '[[_Standards/WikiData/WD~African_Americans,49085]]'
 pseudonym: Whoopi Goldberg
 Commons_category: Whoopi Goldberg
 Commons_gallery: Whoopi Goldberg
@@ -111,17 +112,17 @@ name_in_native_language: Whoopi Goldberg
 social_media_followers: 1659015
 work_period_start_: 1981-01-01T00:00:00Z
 date_of_birth: 1955-11-13T00:00:00Z
-U_S_National_Archives_Identifier: "10569546"
+U_S_National_Archives_Identifier: 10569546
 image_with_frame: http://commons.wikimedia.org/wiki/Special:FilePath/Ms.%20magazine%20Cover%20-%20Spring%202003%20%28cropped%29.jpg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Whoopi%20Goldberg%20BBC%20Radio4%20Desert%20Island%20Discs%2010%20May%202009%20b00k7qyn.flac
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Whoopi%20Goldberg%20graumans.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Whoopi%20Goldberg%27s%20signature.svg
 ISNI:
-  - "0000000076893467"
-  - "0000000109492003"
-  - "0000000368562870"
+  - 0000000076893467
+  - 0000000109492003
+  - 0000000368562870
 Plex_person_key: 5d776824151a60001f24a391
-P1015: "99026085"
+P1015: 99026085
 Facebook_username: whoopigoldberg
 Instagram_username: whoopigoldberg
 X_Twitter_username: WhoopiGoldberg

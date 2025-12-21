@@ -1,22 +1,25 @@
 ---
+aliases:
+  - Aircraft_carrier
+  - Aircraft carrier
+has_id_wikidata: Q17205
 Baidu_Tieba_name: 航空母舰
-Commons_category: "Aircraft carriers"
+Commons_category: Aircraft carriers
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 designed_to_carry: '[[_Standards/WikiData/WD~military_aircraft,216916]]'
-exact_match: "http://wordnet-rdf.princeton.edu/wn30/02687172-n"
-has_id_wikidata: Q17205
+exact_match: http://wordnet-rdf.princeton.edu/wn30/02687172-n
 has_list: '[[_Standards/WikiData/WD~list_of_aircraft_carriers,1646209]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_the_aircraft_carrier,632301]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/USS%20John%20C.%20Stennis%20%28CVN-74%29%20and%20HMS%20Illustrious%20%28R%2006%29%20in%20the%20Persian%20Gulf%20on%20April%209%2C%201998.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/USS%20John%20C.%20Stennis%20%28CVN-74%29%20and%20HMS%20Illustrious%20%28R%2006%29%20in%20the%20Persian%20Gulf%20on%20April%209%2C%201998.jpg
 instance_of: '[[_Standards/WikiData/WD~ship_type,2235308]]'
 MIL_STD_2525_Symbol_Identification_Code: 10013000001201000000
 Nomenclature_for_Museum_Cataloging: 12785
 P8189: 987007294599005171
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~aviamatka,4055792]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~warship,2031121]]'
-- '[[_Standards/WikiData/WD~aviation_vessel,106070281]]'
-- '[[_Standards/WikiData/WD~ship,11446]]'
+  - '[[_Standards/WikiData/WD~warship,2031121]]'
+  - '[[_Standards/WikiData/WD~aviation_vessel,106070281]]'
+  - '[[_Standards/WikiData/WD~ship,11446]]'
 UNSPSC_Code: 25111702
 U_S_National_Archives_Identifier: 10638244
 ---

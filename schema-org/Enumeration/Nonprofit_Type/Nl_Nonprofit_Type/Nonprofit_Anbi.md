@@ -4,21 +4,23 @@ aliases:
   - nonprofit_anbi
   - NonprofitANBI
   - is_a_nonprofit_anbi
+  - Nonprofit_Anbi
+  - Nonprofit Anbi
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: NLNonprofitType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - nonprofit_anbi
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_nonprofit_anbi Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

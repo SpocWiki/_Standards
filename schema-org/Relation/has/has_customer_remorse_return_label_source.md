@@ -2,12 +2,13 @@
 aliases:
   - has customer-remorse-return-label-source
   - has_customer_remorse_return_label_source
+  - has customer remorse return label source
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -18,11 +19,11 @@ keywords:
   - source
   - customer_remorse_return_label_source
   - customerRemorseReturnLabelSource
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_customer_remorse_return_label_source
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

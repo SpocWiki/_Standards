@@ -1,34 +1,34 @@
 ---
 aliases:
-- Product-Type
-- record(IT)
-- struct
+  - Product-Type
+  - record(IT)
+  - struct
 confidential: private
 cssclasses:
-- private
-- note
+  - private
+  - note
 draft: true
-expiryDate: 
+expiryDate: ''
 has_time_started: 2024-01-08
 isDeleted: false
 isReadOnly: false
 Key: Value
 keywords:
-- Product-Type
+  - Product-Type
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Product-Type
 Predicate:
-- Object
+  - Object
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Product-Type
-- rather
-- use
+  - Product-Type
+  - rather
+  - use
 title: Product-Type
-type: "private note"
+type: private note
 ---
 
 # [[Product-Type]] 

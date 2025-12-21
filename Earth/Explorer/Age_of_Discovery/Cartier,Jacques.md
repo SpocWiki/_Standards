@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Jacques Cartier"
+  - Jacques Cartier
+  - Cartier,Jacques
 has_id_wikidata: Q7321
 ---
 

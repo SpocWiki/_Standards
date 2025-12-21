@@ -10,62 +10,62 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: DayOfWeek
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sunday
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_sunday Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_sunday Class
 type: Type
 named_after:
-  - "[[_Standards/WikiData/WD~Mister,177053]]"
-  - "[[_Standards/WikiData/WD~leisure,180910]]"
-  - "[[_Standards/WikiData/WD~worship,2514663]]"
-  - "[[_Standards/WikiData/WD~holiness,16600343]]"
-  - "[[_Standards/WikiData/WD~Sun,525]]"
-  - "[[_Standards/WikiData/WD~Q199,199]]"
-  - "[[_Standards/WikiData/WD~market,37654]]"
-  - "[[_Standards/WikiData/WD~Russians,49542]]"
-part_of: "[[_Standards/WikiData/WD~weekend,211391]]"
+  - '[[_Standards/WikiData/WD~Mister,177053]]'
+  - '[[_Standards/WikiData/WD~leisure,180910]]'
+  - '[[_Standards/WikiData/WD~worship,2514663]]'
+  - '[[_Standards/WikiData/WD~holiness,16600343]]'
+  - '[[_Standards/WikiData/WD~Sun,525]]'
+  - '[[_Standards/WikiData/WD~Q199,199]]'
+  - '[[_Standards/WikiData/WD~market,37654]]'
+  - '[[_Standards/WikiData/WD~Russians,49542]]'
+part_of: '[[_Standards/WikiData/WD~weekend,211391]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Sunday,352907]]"
-  - "[[_Standards/WikiData/WD~Sonntag,453101]]"
-  - "[[_Standards/WikiData/WD~Nedeľa,9080528]]"
-  - "[[_Standards/WikiData/WD~Voskresenye,21178458]]"
-  - "[[_Standards/WikiData/WD~Neděle,106012967]]"
+  - '[[_Standards/WikiData/WD~Sunday,352907]]'
+  - '[[_Standards/WikiData/WD~Sonntag,453101]]'
+  - '[[_Standards/WikiData/WD~Nedeľa,9080528]]'
+  - '[[_Standards/WikiData/WD~Voskresenye,21178458]]'
+  - '[[_Standards/WikiData/WD~Neděle,106012967]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~holiday,1445650]]"
-  - "[[_Standards/WikiData/WD~day,573]]"
+  - '[[_Standards/WikiData/WD~holiday,1445650]]'
+  - '[[_Standards/WikiData/WD~day,573]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q25634212,25634212]]"
-  - "[[_Standards/WikiData/WD~Q110361353,110361353]]"
-followed_by: "[[_Standards/WikiData/WD~Monday,105]]"
-follows: "[[_Standards/WikiData/WD~Saturday,131]]"
-instance_of: "[[_Standards/WikiData/WD~day_of_the_week,41825]]"
+  - '[[_Standards/WikiData/WD~Q25634212,25634212]]'
+  - '[[_Standards/WikiData/WD~Q110361353,110361353]]'
+followed_by: '[[_Standards/WikiData/WD~Monday,105]]'
+follows: '[[_Standards/WikiData/WD~Saturday,131]]'
+instance_of: '[[_Standards/WikiData/WD~day_of_the_week,41825]]'
 series_ordinal:
-  - "1"
-  - "7"
+  - 1
+  - 7
 code: A
-OmegaWiki_Defined_Meaning: "6993"
+OmegaWiki_Defined_Meaning: 6993
 Dewey_Decimal_Classification:
-  - "529.1"
-  - "263.3"
+  - 529.1
+  - 263.3
 Commons_category: Sunday
 short_name:
   - Sun

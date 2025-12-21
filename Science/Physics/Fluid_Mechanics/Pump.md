@@ -1,29 +1,30 @@
 ---
 aliases:
   - Pumpe
+  - Pump
 has_id_wikidata: Q134574
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Kartographer_icon,134980502]]"
-different_from: "[[_Standards/WikiData/WD~Pompa,3907833]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~fluid_accelerator,65115262]]"
-has_use: "[[_Standards/WikiData/WD~transport,7590]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Kartographer_icon,134980502]]'
+different_from: '[[_Standards/WikiData/WD~Pompa,3907833]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~fluid_accelerator,65115262]]'
+has_use: '[[_Standards/WikiData/WD~transport,7590]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_tool,39546]]"
-  - "[[_Standards/WikiData/WD~turbomachinery,63973]]"
-OmegaWiki_Defined_Meaning: "3055"
-Nomenclature_for_Museum_Cataloging: "9208"
+  - '[[_Standards/WikiData/WD~physical_tool,39546]]'
+  - '[[_Standards/WikiData/WD~turbomachinery,63973]]'
+OmegaWiki_Defined_Meaning: 3055
+Nomenclature_for_Museum_Cataloging: 9208
 Commons_category: Pumps
 Commons_gallery: Pump
 OpenStreetMap_key: pump
 sRGB_color_hex_triplet: 1E90FF
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pakistan%20Pump%20water%20system%20in%20rural%20Pakistan.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Pump%2C%20liquid%20type%20%28general%29%20%28ISO%2010628-2%29.svg
-GS1_GPC_code: "10004055"
+GS1_GPC_code: 10004055
 Iconclass_notation: 41A3912
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/NASOSI.html
 ---

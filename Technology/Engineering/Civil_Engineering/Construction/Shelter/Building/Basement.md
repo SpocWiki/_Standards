@@ -1,24 +1,26 @@
 ---
+aliases:
+  - Basement
 has_id_wikidata: Q234852
 subclass_of:
-  - "[[_Standards/WikiData/WD~storey,831691]]"
-  - "[[_Standards/WikiData/WD~subterranea,863404]]"
-  - "[[_Standards/WikiData/WD~building_component,19603939]]"
+  - '[[_Standards/WikiData/WD~storey,831691]]'
+  - '[[_Standards/WikiData/WD~subterranea,863404]]'
+  - '[[_Standards/WikiData/WD~building_component,19603939]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-different_from: "[[_Standards/WikiData/WD~cellar,43275450]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+different_from: '[[_Standards/WikiData/WD~cellar,43275450]]'
 part_of:
-  - "[[_Standards/WikiData/WD~house,3947]]"
-  - "[[_Standards/WikiData/WD~building,41176]]"
-OmegaWiki_Defined_Meaning: "914882"
+  - '[[_Standards/WikiData/WD~house,3947]]'
+  - '[[_Standards/WikiData/WD~building,41176]]'
+OmegaWiki_Defined_Meaning: 914882
 spoken_text_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Es-S%C3%B3tano-article.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Kelder-article.ogg
 image_of_interior: http://commons.wikimedia.org/wiki/Special:FilePath/Fetid%20basement%20of%20Wikipediocracy%20headquarters.JPG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fotothek%20df%20tg%200001289%20Architektur%20%5E%20Geb%C3%A4ude%20%5E%20Perspektive%20%5E%20Keller%20%5E%20Schalung%20%5E%20Gew%C3%B6lbe.jpg
 Iconclass_notation: 41A37
-P8189: "987007283285605171"
+P8189: 987007283285605171
 Commons_category: Basements
 EAGLE_id: objtyp/lod/380
 ---

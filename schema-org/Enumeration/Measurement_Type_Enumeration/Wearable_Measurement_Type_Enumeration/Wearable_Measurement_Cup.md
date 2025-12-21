@@ -4,21 +4,23 @@ aliases:
   - wearable_measurement_cup
   - WearableMeasurementCup
   - is_a_wearable_measurement_cup
+  - Wearable_Measurement_Cup
+  - Wearable Measurement Cup
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableMeasurementTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_measurement_cup
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_measurement_cup Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

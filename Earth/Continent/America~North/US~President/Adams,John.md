@@ -1,26 +1,26 @@
 ---
 aliases:
-- Adams,John
-- "John Adams"
-- John_Adams
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Adams,John
+  - John Adams
+  - John_Adams
+  - ''
 has_id_wikidata: Q11806
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Adams,John
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Adams,John
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- 
+  - ''
 title: Adams,John
 type: private_note
 ---

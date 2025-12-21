@@ -1,21 +1,22 @@
 ---
 aliases:
   - Ausgangssperre
+  - Curfew
 has_id_wikidata: Q223625
 has_cause:
-  - "[[_Standards/WikiData/WD~civil_disorder,686984]]"
-  - "[[_Standards/WikiData/WD~natural_disaster,8065]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~civil_disorder,686984]]'
+  - '[[_Standards/WikiData/WD~natural_disaster,8065]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Couvre_feu,3001799]]"
-  - "[[_Standards/WikiData/WD~Комендантский_час,4229529]]"
-  - "[[_Standards/WikiData/WD~lockdown,6665312]]"
-  - "[[_Standards/WikiData/WD~Curfew,16770118]]"
-  - "[[_Standards/WikiData/WD~Yo_me_quedo_en_casa,88218880]]"
-  - "[[_Standards/WikiData/WD~Kijárási_tilalom,97200287]]"
-subclass_of: "[[_Standards/WikiData/WD~social_distancing,30314010]]"
+  - '[[_Standards/WikiData/WD~Couvre_feu,3001799]]'
+  - '[[_Standards/WikiData/WD~Комендантский_час,4229529]]'
+  - '[[_Standards/WikiData/WD~lockdown,6665312]]'
+  - '[[_Standards/WikiData/WD~Curfew,16770118]]'
+  - '[[_Standards/WikiData/WD~Yo_me_quedo_en_casa,88218880]]'
+  - '[[_Standards/WikiData/WD~Kijárási_tilalom,97200287]]'
+subclass_of: '[[_Standards/WikiData/WD~social_distancing,30314010]]'
 IMDb_keyword: curfew
-OmegaWiki_Defined_Meaning: "335158"
+OmegaWiki_Defined_Meaning: 335158
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Downtown%20San%20Francisco%20Under%20Curfew.jpg
 Iconclass_notation: 44F31
 Europeana_entity: agent/base/47907

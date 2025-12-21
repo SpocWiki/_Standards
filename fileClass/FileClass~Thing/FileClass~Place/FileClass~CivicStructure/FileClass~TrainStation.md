@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~TrainStation
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 fields: []
 icon: train
 limit: 9
 mapWithTag: false
 tagNames:
-- class/TrainStation
-- class/Thing/Place/CivicStructure/TrainStation
-- is_a_/TrainStation
-- schema-org/TrainStation
+  - class/TrainStation
+  - class/Thing/Place/CivicStructure/TrainStation
+  - is_a_/TrainStation
+  - schema-org/TrainStation
 tags:
-- class/FileClass
-- class/TrainStation
-- is_a_/TrainStation
-- class/Thing/Place/CivicStructure/TrainStation
+  - class/FileClass
+  - class/TrainStation
+  - is_a_/TrainStation
+  - class/Thing/Place/CivicStructure/TrainStation
 version: 2.0
 ---
 

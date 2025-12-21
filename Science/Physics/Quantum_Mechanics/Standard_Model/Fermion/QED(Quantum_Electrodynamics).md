@@ -3,11 +3,13 @@ aliases:
   - QED
   - Quantenelektrodynamik
   - quantum electrodynamics
+  - QED(Quantum_Electrodynamics)
+  - QED(Quantum Electrodynamics)
 has_id_wikidata: Q234881
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_QED,8093756]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_QED,8093756]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>S</mi><mo stretchy="false">=</mo><mo stretchy="false">&#x222B;</mo><msup><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">d</mi></mrow><mrow data-mjx-texclass="ORD"><mn>4</mn></mrow></msup><mi>x</mi><mspace width="0.167em"></mspace><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mo stretchy="false">&#x2212;</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow><mrow data-mjx-texclass="ORD"><mn>4</mn></mrow></mfrac></mrow><msub><mi>F</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x03BC;</mi><mi>&#x03BD;</mi></mrow></mrow></msub><msup><mi>F</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x03BC;</mi><mi>&#x03BD;</mi></mrow></mrow></msup><mo stretchy="false">+</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi mathvariant="normal">&#x03A8;</mi><mo>¯</mo></mover></mrow></mrow><mo stretchy="false">(</mo><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow><msup><mi>&#x03B3;</mi><mrow data-mjx-texclass="ORD"><mi>&#x03BC;</mi></mrow></msup><mo stretchy="false">(</mo><msub><mi>&#x2202;</mi><mrow data-mjx-texclass="ORD"><mi>&#x03BC;</mi></mrow></msub><mo stretchy="false">+</mo><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow><mi>e</mi><msub><mi>A</mi><mrow data-mjx-texclass="ORD"><mi>&#x03BC;</mi></mrow></msub><mo stretchy="false">)</mo><mo stretchy="false">&#x2212;</mo><mi>m</mi><mo stretchy="false">)</mo><mi mathvariant="normal">&#x03A8;</mi><mo data-mjx-texclass="CLOSE">)</mo></mrow></mstyle></mrow></math>
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">&#x222B;</mo></mstyle></mrow></math>
@@ -20,7 +22,7 @@ in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>A</mi><mrow data-mjx-texclass="ORD"><mi>&#x03BC;</mi></mrow></msub></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x03A8;</mi></mstyle></mrow></math>
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Paul_Dirac,47480]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Paul_Dirac,47480]]'
 short_name:
   - QED
   - EDC

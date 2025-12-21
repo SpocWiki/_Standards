@@ -1,20 +1,22 @@
 ---
 aliases:
-  - Organization of the Black Sea Economic Cooperation 
+  - Organization of the Black Sea Economic Cooperation
   - BSEC
+  - BSEC(Organization_of_the_Black_Sea_Economic_Cooperation)
+  - BSEC(Organization of the Black Sea Economic Cooperation)
 has_id_wikidata: Q380340
-instance_of: "[[_Standards/WikiData/WD~international_organization,484652]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Organization_of_the_Black_Sea_Economic_Cooperation,8845082]]"
-headquarters_location: "[[_Standards/WikiData/WD~Istanbul,406]]"
-continent: "[[_Standards/WikiData/WD~Eurasia,5401]]"
-official_observer_status_in_organization: "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
+instance_of: '[[_Standards/WikiData/WD~international_organization,484652]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Organization_of_the_Black_Sea_Economic_Cooperation,8845082]]'
+headquarters_location: '[[_Standards/WikiData/WD~Istanbul,406]]'
+continent: '[[_Standards/WikiData/WD~Eurasia,5401]]'
+official_observer_status_in_organization: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
 inception: 1992-06-04T00:00:00Z
 Commons_category: Organization of the Black Sea Economic Cooperation
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/BSEC%20logo.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/BSEC%20Map.png
 official_website: https://www.bsec-organization.org/
-ISNI: "0000000122916333"
-EU_Participant_Identification_Code: "899127436"
+ISNI: 0000000122916333
+EU_Participant_Identification_Code: 899127436
 Instagram_username: bsec_organization
 X_Twitter_username: bsecorg
 Facebook_username: BSECPERMIS

@@ -4,21 +4,23 @@ aliases:
   - publication_issue
   - PublicationIssue
   - is_a_publication_issue
+  - Publication_Issue
+  - Publication Issue
 confidential: public
 cssclasses:
   - Type
 draft: false
 equivalent_class: http://purl.org/ontology/bibo/Issue
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - publication_issue
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_publication_issue Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

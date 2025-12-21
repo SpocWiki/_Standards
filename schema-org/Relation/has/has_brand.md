@@ -1,27 +1,28 @@
 ---
 aliases:
-- has_brand
-- "schema:brand"
-- "dbo:brand"
-- "wdt:P176"
+  - has_brand
+  - schema:brand
+  - dbo:brand
+  - wdt:P176
+  - has brand
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- brand
-layout: 
-license: "CC BY-SA 4.0"
+  - brand
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_brand
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_brand
 type: Predi_Relation
 ---

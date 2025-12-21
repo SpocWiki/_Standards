@@ -3,11 +3,13 @@ aliases:
   - Italian front
   - Fronte italiano
   - Südwestfront
+  - 1915-Italian_Front+1918
+  - 1915-Italian Front+1918
 has_id_wikidata: Q659745
-instance_of: "[[_Standards/WikiData/WD~war_front,842332]]"
+instance_of: '[[_Standards/WikiData/WD~war_front,842332]]'
 location:
-  - "[[_Standards/WikiData/WD~Venetian_Plain,2309448]]"
-  - "[[_Standards/WikiData/WD~Eastern_Alps,63817]]"
+  - '[[_Standards/WikiData/WD~Venetian_Plain,2309448]]'
+  - '[[_Standards/WikiData/WD~Eastern_Alps,63817]]'
 Commons_category: Italian Front theatre of World War I
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Vittorio%20Veneto.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Italian%20front%20%28World%20War%20I%29.jpg

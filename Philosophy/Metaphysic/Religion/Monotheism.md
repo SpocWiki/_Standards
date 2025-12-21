@@ -1,29 +1,30 @@
 ---
 aliases:
   - Monotheismus
+  - Monotheism
 has_id_wikidata: Q9159
 has_part_s_:
-  - "[[_Standards/WikiData/WD~monotheism_in_Islam,174495]]"
-  - "[[_Standards/WikiData/WD~Hindu_views_on_monotheism,4301866]]"
+  - '[[_Standards/WikiData/WD~monotheism_in_Islam,174495]]'
+  - '[[_Standards/WikiData/WD~Hindu_views_on_monotheism,4301866]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-subclass_of: "[[_Standards/WikiData/WD~theism,620805]]"
-instance_of: "[[_Standards/WikiData/WD~religious_belief,2728698]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~theism,620805]]'
+instance_of: '[[_Standards/WikiData/WD~religious_belief,2728698]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Christianity,4587240]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Judaism,5496909]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Islam,5496999]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Christianity,4587240]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Judaism,5496909]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Islam,5496999]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]'
   - "[[_Standards/WikiData/WD~WikiProject_Bahá'í_Faith,11028242]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Zoroastrianism,15885171]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Sikhism,21830790]]"
-history_of_topic: "[[_Standards/WikiData/WD~Q101500698,101500698]]"
-opposite_of: "[[_Standards/WikiData/WD~polytheism,9163]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Zoroastrianism,15885171]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Sikhism,21830790]]'
+history_of_topic: '[[_Standards/WikiData/WD~Q101500698,101500698]]'
+opposite_of: '[[_Standards/WikiData/WD~polytheism,9163]]'
 Commons_category: Monotheism
 Universal_Decimal_Classification: 2-154
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/MONOTEIZM.html

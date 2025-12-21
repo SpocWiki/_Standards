@@ -110,7 +110,7 @@ water_footprint:
 Wolfram_Language_entity_code: Entity["FoodType", "Apple"]
 ---
 
-# [[Apple]] 
+# [[Apple]] 🍎 
 
 ## #has_/text_of_/abstract 
 

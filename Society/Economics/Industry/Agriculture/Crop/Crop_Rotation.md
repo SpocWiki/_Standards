@@ -1,6 +1,8 @@
 ---
 aliases:
   - Fruchtfolge
+  - Crop_Rotation
+  - Crop Rotation
 ---
 
 # [[Crop_Rotation]] 

@@ -4,21 +4,22 @@ aliases:
   - speed
   - speed
   - has_value_for_speed_km_h
+  - has value for speed km h
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - speed
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_speed
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

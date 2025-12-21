@@ -5,22 +5,23 @@ aliases:
   - nonEqual
   - is_non_equal
   - is_not_equal
+  - is non equal
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - non
   - equal
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_non_equal
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

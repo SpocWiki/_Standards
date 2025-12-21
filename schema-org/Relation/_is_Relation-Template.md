@@ -1,28 +1,30 @@
 ---
 aliases:
-  - "{ label-dash: }":
-  - "{ label_snail: }":
-  - "{ label: }":
+  - '{ label-dash: }': ''
+  - '{ label_snail: }': ''
+  - '{ label: }': ''
   - is_{{label_snail}}
+  - _is_Relation-Template
+  - ' is Relation-Template'
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - "{ label_snail: }":
-layout:
+  - '{ label_snail: }': ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_{{label_snail}}
 publish: true
-publishDate:
+publishDate: ''
 superseded_by:
-  "{ supersededBy: }":
+  '{ supersededBy: }': ''
 supersedes:
-  "{ supersedes: }":
+  '{ supersedes: }': ''
 tags:
   - class/Relation
   - schema-org/Relation

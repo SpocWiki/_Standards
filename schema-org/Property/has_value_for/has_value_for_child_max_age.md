@@ -4,21 +4,22 @@ aliases:
   - child-max-age
   - childMaxAge
   - has_value_for_child_max_age
+  - has value for child max age
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - child-max-age
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_child-max-age
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

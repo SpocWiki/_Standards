@@ -1,14 +1,16 @@
 ---
 aliases:
   - Zentraler Grenzwertsatz
+  - Central_Limit_Theorem
+  - Central Limit Theorem
 has_id_wikidata: Q190391
-instance_of: "[[_Standards/WikiData/WD~theorem,65943]]"
-part_of: "[[_Standards/WikiData/WD~list_of_theorems,944443]]"
-studied_by: "[[_Standards/WikiData/WD~probability_theory,5862903]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+instance_of: '[[_Standards/WikiData/WD~theorem,65943]]'
+part_of: '[[_Standards/WikiData/WD~list_of_theorems,944443]]'
+studied_by: '[[_Standards/WikiData/WD~probability_theory,5862903]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 short_name: CLT
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CLTBinomConvergence.svg
-P8189: "987007284968305171"
+P8189: 987007284968305171
 Commons_category: Central limit theorem
 ---
 

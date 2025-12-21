@@ -2,17 +2,18 @@
 aliases:
   - Widerstand
   - Resisteur
+  - Resistor
 has_id_wikidata: Q5321
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/0.25%20watts%20through-hole%20resistor.stl
 Commons_category: Resistors
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 different_from:
-  - "[[_Standards/WikiData/WD~resistance_movement,138796]]"
-  - "[[_Standards/WikiData/WD~Q1042672,1042672]]"
-has_characteristic: "[[_Standards/WikiData/WD~electrical_resistance,25358]]"
+  - '[[_Standards/WikiData/WD~resistance_movement,138796]]'
+  - '[[_Standards/WikiData/WD~Q1042672,1042672]]'
+has_characteristic: '[[_Standards/WikiData/WD~electrical_resistance,25358]]'
 has_use:
-  - "[[_Standards/WikiData/WD~bleeder_resistor,322343]]"
-  - "[[_Standards/WikiData/WD~electrical_resistance,25358]]"
+  - '[[_Standards/WikiData/WD~bleeder_resistor,322343]]'
+  - '[[_Standards/WikiData/WD~electrical_resistance,25358]]'
 icon:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Resistor%20symbol%20Europe.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/IEEE%20315-1975%20%281993%29%202.1.1.a.svg
@@ -20,11 +21,11 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/100%20ohm%20SMD%201206%20resistor.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/3%20Resistors.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Electronic-Axial-Lead-Resistors-Array.jpg
-instance_of: "[[_Standards/WikiData/WD~type_of_electronic_component,125517960]]"
+instance_of: '[[_Standards/WikiData/WD~type_of_electronic_component,125517960]]'
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/REZISTOR.html
-made_from_material: "[[_Standards/WikiData/WD~electrical_conductor,124291]]"
+made_from_material: '[[_Standards/WikiData/WD~electrical_conductor,124291]]'
 Nomenclature_for_Museum_Cataloging: 8812
-subclass_of: "[[_Standards/WikiData/WD~electronic_component,11653]]"
+subclass_of: '[[_Standards/WikiData/WD~electronic_component,11653]]'
 ---
 
 # [[Resistor]] 

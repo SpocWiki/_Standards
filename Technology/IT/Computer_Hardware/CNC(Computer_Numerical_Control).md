@@ -1,8 +1,10 @@
 ---
 aliases:
   - CNC
-  - Computer numerical control 
+  - Computer numerical control
   - CNC machining
+  - CNC(Computer_Numerical_Control)
+  - CNC(Computer Numerical Control)
 has_id_wikidata: Q190247
 ---
 

@@ -2,6 +2,8 @@
 aliases:
   - Widerstand
   - elektrischer Widerstand
+  - Electrical_Resistance
+  - Electrical Resistance
 has_id_wikidata: Q25358
 subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
@@ -20,7 +22,7 @@ recommended_unit_of_measurement:
   - "[[_Standards/WikiData/WD~ohm,47083]]"
 facet_of: "[[_Standards/WikiData/WD~Ohm's_law,41591]]"
 quantity_symbol_string_: R
-OmegaWiki_Defined_Meaning: "497271"
+OmegaWiki_Defined_Meaning: 497271
 IEV_number: 131-12-04
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>R</mi></mstyle></mrow></math>
 in_defining_formula:

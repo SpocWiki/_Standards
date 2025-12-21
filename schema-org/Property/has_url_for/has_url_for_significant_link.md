@@ -4,21 +4,22 @@ aliases:
   - significant_link
   - significantLink
   - has_url_for_significant_link
+  - has url for significant link
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - significant_link
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_significant_link
 publish: true
-publishDate:
+publishDate: ''
 supersedes: significantLinks
 tags:
   - class/Property

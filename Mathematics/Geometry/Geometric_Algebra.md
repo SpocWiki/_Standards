@@ -2,6 +2,8 @@
 aliases:
   - Clifford-Algebra
   - Grassmann algebra
+  - Geometric_Algebra
+  - Geometric Algebra
 ---
 
 # [[Geometric_Algebra]] 

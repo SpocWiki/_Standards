@@ -1,6 +1,7 @@
 ---
 aliases:
   - European Parliament
+  - European_Parliament
 has_id_wikidata: Q8889
 Pinterest_username: epinfographics
 Snapchat_username: europarl
@@ -67,47 +68,47 @@ official_name:
   - Parlement européen
   - Assemblée parlementaire européenne
 street_address: 60 Rue Wiertz Brussels, B-1047 Belgium
-uses: "[[_Standards/WikiData/WD~Thalys,466985]]"
-website_account_on: "[[_Standards/WikiData/WD~Spotify,689141]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~President_of_the_European_Parliament,740126]]"
+uses: '[[_Standards/WikiData/WD~Thalys,466985]]'
+website_account_on: '[[_Standards/WikiData/WD~Spotify,689141]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~President_of_the_European_Parliament,740126]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Institutions_of_the_European_Union,748720]]"
-  - "[[_Standards/WikiData/WD~international_parliament,97374157]]"
+  - '[[_Standards/WikiData/WD~Institutions_of_the_European_Union,748720]]'
+  - '[[_Standards/WikiData/WD~international_parliament,97374157]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~political_group_of_the_European_Parliament,779079]]"
-  - "[[_Standards/WikiData/WD~delegation_of_the_European_Parlament,1853929]]"
-  - "[[_Standards/WikiData/WD~Committee_of_the_European_Parliament,2986807]]"
-different_from: "[[_Standards/WikiData/WD~Parliamentary_Assembly_of_the_Council_of_Europe,939743]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Seat_of_the_European_Parliament_in_Strasbourg,2423937]]"
+  - '[[_Standards/WikiData/WD~political_group_of_the_European_Parliament,779079]]'
+  - '[[_Standards/WikiData/WD~delegation_of_the_European_Parlament,1853929]]'
+  - '[[_Standards/WikiData/WD~Committee_of_the_European_Parliament,2986807]]'
+different_from: '[[_Standards/WikiData/WD~Parliamentary_Assembly_of_the_Council_of_Europe,939743]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Seat_of_the_European_Parliament_in_Strasbourg,2423937]]'
 child_organization_unit:
-  - "[[_Standards/WikiData/WD~Conference_of_Committee_Chairs_of_the_European_Parliament,2992907]]"
-  - "[[_Standards/WikiData/WD~Conference_of_Presidents_of_the_European_Parliament,3816811]]"
-  - "[[_Standards/WikiData/WD~Secretariat_of_the_European_Parliament,4398720]]"
-  - "[[_Standards/WikiData/WD~Bureau_of_the_European_Parliament,10749015]]"
-  - "[[_Standards/WikiData/WD~Intergroup_in_the_European_Parliament,17081298]]"
-  - "[[_Standards/WikiData/WD~The_Conference_of_Delegation_Chairs_of_the_European_Parliament,112861877]]"
-  - "[[_Standards/WikiData/WD~College_of_Quaestors_of_the_European_Parliament,113131615]]"
-chairperson: "[[_Standards/WikiData/WD~Roberta_Metsola,7351526]]"
-main_subject: "[[_Standards/WikiData/WD~lifestance_organisation,11986619]]"
-owner_of: "[[_Standards/WikiData/WD~art_collection_of_the_European_Parliament,18088790]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_European_Parliament,22723751]]"
-described_by_source: "[[_Standards/WikiData/WD~Medvik,99413897]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Health_Data_Space,124300121]]"
-replaces: "[[_Standards/WikiData/WD~European_Parliamentary_Assembly,126486734]]"
-applies_to_jurisdiction: "[[_Standards/WikiData/WD~European_Union,458]]"
-country: "[[_Standards/WikiData/WD~European_Union,458]]"
+  - '[[_Standards/WikiData/WD~Conference_of_Committee_Chairs_of_the_European_Parliament,2992907]]'
+  - '[[_Standards/WikiData/WD~Conference_of_Presidents_of_the_European_Parliament,3816811]]'
+  - '[[_Standards/WikiData/WD~Secretariat_of_the_European_Parliament,4398720]]'
+  - '[[_Standards/WikiData/WD~Bureau_of_the_European_Parliament,10749015]]'
+  - '[[_Standards/WikiData/WD~Intergroup_in_the_European_Parliament,17081298]]'
+  - '[[_Standards/WikiData/WD~The_Conference_of_Delegation_Chairs_of_the_European_Parliament,112861877]]'
+  - '[[_Standards/WikiData/WD~College_of_Quaestors_of_the_European_Parliament,113131615]]'
+chairperson: '[[_Standards/WikiData/WD~Roberta_Metsola,7351526]]'
+main_subject: '[[_Standards/WikiData/WD~lifestance_organisation,11986619]]'
+owner_of: '[[_Standards/WikiData/WD~art_collection_of_the_European_Parliament,18088790]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_European_Parliament,22723751]]'
+described_by_source: '[[_Standards/WikiData/WD~Medvik,99413897]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Health_Data_Space,124300121]]'
+replaces: '[[_Standards/WikiData/WD~European_Parliamentary_Assembly,126486734]]'
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~European_Union,458]]'
+country: '[[_Standards/WikiData/WD~European_Union,458]]'
 location:
-  - "[[_Standards/WikiData/WD~Strasbourg,6602]]"
-  - "[[_Standards/WikiData/WD~Luxembourg,32]]"
-  - "[[_Standards/WikiData/WD~City_of_Brussels,239]]"
+  - '[[_Standards/WikiData/WD~Strasbourg,6602]]'
+  - '[[_Standards/WikiData/WD~Luxembourg,32]]'
+  - '[[_Standards/WikiData/WD~City_of_Brussels,239]]'
 number_of_seats: 720
 social_media_followers:
   - 133000
   - 14977
 employees: 7820
-OmegaWiki_Defined_Meaning: "1360"
+OmegaWiki_Defined_Meaning: 1360
 described_at_URL: https://cain.ulster.ac.uk/othelem/organ/eorgan.htm
-enterprise_number_Belgium_: "0953449919"
+enterprise_number_Belgium_: 0953449919
 EU_Corporate_body_code: EP
 Bluesky_handle: europarl.europa.eu
 citizens_initiative_URL: https://www.europarl.europa.eu/petitions/en/home
@@ -124,8 +125,8 @@ sitemap_URL: https://common.europarl.europa.eu/en/sitemap
 official_website: https://www.europarl.europa.eu/
 phone_number: +32-22-842-111
 ISNI:
-  - "0000000123298899"
-  - "0000000406240427"
+  - 0000000123298899
+  - 0000000406240427
 ---
 
 # [[European_Parliament]] 

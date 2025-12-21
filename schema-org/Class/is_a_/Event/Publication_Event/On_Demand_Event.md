@@ -4,20 +4,22 @@ aliases:
   - on_demand_event
   - OnDemandEvent
   - is_an_on_demand_event
+  - On_Demand_Event
+  - On Demand Event
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - on_demand_event
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_on_demand_event Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

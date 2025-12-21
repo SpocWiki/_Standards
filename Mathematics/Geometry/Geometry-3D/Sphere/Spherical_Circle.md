@@ -3,10 +3,12 @@ aliases:
   - spherical circle
   - small circle
   - lesser circle
+  - Spherical_Circle
+  - Spherical Circle
 has_id_wikidata: Q149295
-opposite_of: "[[_Standards/WikiData/WD~great_circle,146657]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-subclass_of: "[[_Standards/WikiData/WD~circle_of_a_sphere,91345714]]"
+opposite_of: '[[_Standards/WikiData/WD~great_circle,146657]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+subclass_of: '[[_Standards/WikiData/WD~circle_of_a_sphere,91345714]]'
 ---
 
 # [[Spherical_Circle]] 

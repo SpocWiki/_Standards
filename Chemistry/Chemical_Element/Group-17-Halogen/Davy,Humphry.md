@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Humphry Davy"
+  - Humphry Davy
+  - Davy,Humphry
 ---
 
 #has_/time_/started :: 1778-12-17 

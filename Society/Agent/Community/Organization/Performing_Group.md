@@ -4,20 +4,22 @@ aliases:
   - performing_group
   - PerformingGroup
   - is_a_performing_group
+  - Performing_Group
+  - Performing Group
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - performing_group
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_performing_group Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

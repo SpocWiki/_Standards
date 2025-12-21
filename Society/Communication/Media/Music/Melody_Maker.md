@@ -1,6 +1,7 @@
 ---
 aliases:
   - Melody Maker
+  - Melody_Maker
 ---
 
 # [[Melody_Maker]] 

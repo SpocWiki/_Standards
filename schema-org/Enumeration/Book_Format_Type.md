@@ -4,20 +4,22 @@ aliases:
   - book_format_type
   - BookFormatType
   - is_a_book_format_type
+  - Book_Format_Type
+  - Book Format Type
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - book_format_type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_book_format_type Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

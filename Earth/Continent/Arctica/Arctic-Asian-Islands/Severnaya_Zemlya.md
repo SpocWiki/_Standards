@@ -1,22 +1,26 @@
 ---
 aliases:
-  - "Severnaya Zemlya** (Russian: Северная Земля"
+  - 'Severnaya Zemlya** (Russian: Северная Земля'
+  - Severnaya_Zemlya
+  - Severnaya Zemlya
 has_id_wikidata: Q192281
-location: [ 79.75, 98.25]
+location:
+  - 79.75
+  - 98.25
 coordinate_location: Point(98.25 79.75)
 time_of_discovery_or_invention: 1913-01-01T00:00:00Z
-has_part_s_: "[[_Standards/WikiData/WD~Komsomolets_Island,248654]]"
+has_part_s_: '[[_Standards/WikiData/WD~Komsomolets_Island,248654]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Arctic_Ocean,788]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Krasnoyarsk_Krai,6563]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+04_00,6779]]"
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Arctic_Ocean,788]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Krasnoyarsk_Krai,6563]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+04_00,6779]]'
 population: 0
-country: "[[_Standards/WikiData/WD~Russia,159]]"
-instance_of: "[[_Standards/WikiData/WD~archipelago,33837]]"
+country: '[[_Standards/WikiData/WD~Russia,159]]'
+instance_of: '[[_Standards/WikiData/WD~archipelago,33837]]'
 area: 37000
-named_after: "[[_Standards/WikiData/WD~Nicholas_II_of_Russia,40787]]"
+named_after: '[[_Standards/WikiData/WD~Nicholas_II_of_Russia,40787]]'
 elevation_above_sea_level: 965
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Kara%20sea2SZ.PNG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Schmidt-Insel%202%202014-09-01.jpg

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Minoan civilization
+  - -2600-Minoan_Civilization-1100
+  - -2600-Minoan Civilization-1100
 has_id_wikidata: Q134178
 ---
 

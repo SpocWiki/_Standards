@@ -3,23 +3,24 @@ aliases:
   - has identifying-test
   - identifyingTest
   - has_identifying_test
+  - has identifying test
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - identifying_test
   - identifying
   - test
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_identifying_test
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

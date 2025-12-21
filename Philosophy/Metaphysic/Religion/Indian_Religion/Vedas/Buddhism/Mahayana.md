@@ -4,16 +4,16 @@ aliases:
   - Mahāyāna
 has_id_wikidata: Q48362
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~A_Dictionary_of_Chinese_Buddhist_Terms,10886720]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Mahāyāna_Buddhism,10514589]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~A_Dictionary_of_Chinese_Buddhist_Terms,10886720]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Mahāyāna_Buddhism,10514589]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~religious_denomination,13414953]]"
-  - "[[_Standards/WikiData/WD~yana,15489667]]"
-part_of: "[[_Standards/WikiData/WD~Buddhism,748]]"
-subclass_of: "[[_Standards/WikiData/WD~Buddhism,748]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Buddhism,748]]"
+  - '[[_Standards/WikiData/WD~religious_denomination,13414953]]'
+  - '[[_Standards/WikiData/WD~yana,15489667]]'
+part_of: '[[_Standards/WikiData/WD~Buddhism,748]]'
+subclass_of: '[[_Standards/WikiData/WD~Buddhism,748]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Buddhism,748]]'
 member_count: 263
 Colon_Classification: Q42
 Commons_category: Mahayana

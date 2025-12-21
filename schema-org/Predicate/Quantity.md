@@ -8,36 +8,36 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - quantity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_quantity Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_quantity Class
 type: Type
 subclass_of:
-  - "[[_Standards/WikiData/WD~property,937228]]"
-  - "[[_Standards/WikiData/WD~value,2912517]]"
+  - '[[_Standards/WikiData/WD~property,937228]]'
+  - '[[_Standards/WikiData/WD~value,2912517]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~level_of_measurement,951437]]"
-  - "[[_Standards/WikiData/WD~quantity_value,110597311]]"
-  - "[[_Standards/WikiData/WD~quantity_dimension,19110]]"
-  - "[[_Standards/WikiData/WD~unit_of_measurement,47574]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~cardinality,4049983]]"
-opposite_of: "[[_Standards/WikiData/WD~qualitative_property,7268708]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_property,96253971]]"
-different_from: "[[_Standards/WikiData/WD~ordinal_quantity,110645437]]"
+  - '[[_Standards/WikiData/WD~level_of_measurement,951437]]'
+  - '[[_Standards/WikiData/WD~quantity_value,110597311]]'
+  - '[[_Standards/WikiData/WD~quantity_dimension,19110]]'
+  - '[[_Standards/WikiData/WD~unit_of_measurement,47574]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~cardinality,4049983]]'
+opposite_of: '[[_Standards/WikiData/WD~qualitative_property,7268708]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_property,96253971]]'
+different_from: '[[_Standards/WikiData/WD~ordinal_quantity,110645437]]'
 main_Wikidata_property: quantity
 properties_for_this_type: quantity symbol (LaTeX)
-facet_of: "[[_Standards/WikiData/WD~measurement,12453]]"
+facet_of: '[[_Standards/WikiData/WD~measurement,12453]]'
 Commons_category: Quantity
 ---
 

@@ -1,29 +1,30 @@
 ---
 aliases:
-- "schema:longitude"
-- longitude
-- longitude
-- has_value_for_longitude
-- has_place_longitude
-- "geo:long"
+  - schema:longitude
+  - longitude
+  - longitude
+  - has_value_for_longitude
+  - has_place_longitude
+  - geo:long
+  - has place longitude
 confidential: public
 cssclasses:
-- Predicate
-- Quantity
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- longitude
-layout: 
-license: "CC BY-SA 4.0"
+  - longitude
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_longitude
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_longitude
 type: Predi_Quantity
 ---

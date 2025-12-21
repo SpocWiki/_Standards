@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Eleanora Fagan"
-- "Lady Day"
+  - Eleanora Fagan
+  - Lady Day
+  - Holiday,Billie
 ---
 
 #has_/time_/started :: 1915-04-07 

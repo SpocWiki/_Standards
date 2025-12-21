@@ -4,17 +4,19 @@ aliases:
   - series production
   - series manufacture
   - continuous production
+  - Mass_Production
+  - Mass Production
 has_id_wikidata: Q215768
-facet_of: "[[_Standards/WikiData/WD~manufacturing,187939]]"
-different_from: "[[_Standards/WikiData/WD~small_series,1773857]]"
-subclass_of: "[[_Standards/WikiData/WD~activity,1914636]]"
+facet_of: '[[_Standards/WikiData/WD~manufacturing,187939]]'
+different_from: '[[_Standards/WikiData/WD~small_series,1773857]]'
+subclass_of: '[[_Standards/WikiData/WD~activity,1914636]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-U_S_National_Archives_Identifier: "10663830"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+U_S_National_Archives_Identifier: 10663830
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hyundai%20car%20assembly%20line.jpg
-Iconclass_notation: "47E131"
+Iconclass_notation: 47E131
 Commons_category: Mass production
 ---
 

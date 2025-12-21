@@ -1,6 +1,7 @@
 ---
 aliases:
   - Formula One
+  - Formula_One
 has_id_wikidata: Q1968
 ---
 

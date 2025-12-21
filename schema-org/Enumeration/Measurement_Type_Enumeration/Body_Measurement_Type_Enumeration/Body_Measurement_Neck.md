@@ -4,21 +4,23 @@ aliases:
   - body_measurement_neck
   - BodyMeasurementNeck
   - is_a_body_measurement_neck
+  - Body_Measurement_Neck
+  - Body Measurement Neck
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: BodyMeasurementTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - body_measurement_neck
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_body_measurement_neck Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

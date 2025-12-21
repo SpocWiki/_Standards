@@ -1,11 +1,18 @@
 ---
+aliases:
+  - Bangladesh
+  - بنغلاديش
+  - 孟加拉国
+  - Бангладеш
+  - the People's Republic of Bangladesh
+  - la República Popular de Bangladesh
+has_id_wikidata: Q902
 location:
   - 23.7
   - 90.36
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q902
 SpocWebEntityId: 26843
 isDeleted: false
 confidential: public
@@ -16,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Bangladesh
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Bangladesh
-  - بنغلاديش
-  - 孟加拉国
-  - Бангладеш
-  - the People's Republic of Bangladesh
-  - la República Popular de Bangladesh
+publishDate: ""
+expiryDate: ""
 Languages:
   - bn-BD
   - en

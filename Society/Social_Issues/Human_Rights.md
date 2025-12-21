@@ -1,80 +1,81 @@
 ---
 aliases:
-- Human_Rights
+  - Human_Rights
+  - Human Rights
+has_id_wikidata: Q8458
 Basisklassifikation: 86.85
-Commons_category: "Human rights"
+Commons_category: Human rights
 confidential: private
 cssclasses:
-- private
-- note
+  - private
+  - note
 described_by_source:
-- '[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Der_Volks-Brockhaus,107433072]]'
+  - '[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Der_Volks-Brockhaus,107433072]]'
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: 
+expiryDate: ''
 foundational_text: '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights,7813]]'
 hashtag: StandUp4HumanRights
-has_id_wikidata: Q8458
 has_part_s_: '[[_Standards/WikiData/WD~human_rights_in_Islam,5962805]]'
 has_Template: '[[Extract~Note~Template]]'
 has_time_started: 2025-05-11
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Declaration%20of%20the%20Rights%20of%20Man%20and%20of%20the%20Citizen%20in%201789.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Declaration%20of%20the%20Rights%20of%20Man%20and%20of%20the%20Citizen%20in%201789.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~convention,367293]]'
-- '[[_Standards/WikiData/WD~type_of_value,129510955]]'
-- '[[_Standards/WikiData/WD~social_movement,49773]]'
+  - '[[_Standards/WikiData/WD~convention,367293]]'
+  - '[[_Standards/WikiData/WD~type_of_value,129510955]]'
+  - '[[_Standards/WikiData/WD~social_movement,49773]]'
 IPTC_NewsCode: mediatopic/20000592
 isDeleted: false
 isReadOnly: false
 keywords: Human_Rights
 Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/PRAVA_CHELOVEKA.html
 lang: en
-layout: 
+layout: ''
 Library_of_Congress_Classification: K3236-K3268.5
 license: (c)copyrighted
 linkTitle: Human_Rights
 MeSH_tree_code:
-- N03.706.437
-- I01.880.604.473
+  - N03.706.437
+  - I01.880.604.473
 OmegaWiki_Defined_Meaning: 1807
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]'
-- '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]'
+  - '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~civil_and_political_rights,191600]]'
-- '[[_Standards/WikiData/WD~civil_rights,25447176]]'
-- '[[_Standards/WikiData/WD~civil_liberties,29556]]'
+  - '[[_Standards/WikiData/WD~civil_and_political_rights,191600]]'
+  - '[[_Standards/WikiData/WD~civil_rights,25447176]]'
+  - '[[_Standards/WikiData/WD~civil_liberties,29556]]'
 part_of: '[[_Standards/WikiData/WD~international_law,4394526]]'
 personal_library_at: '[[_Standards/WikiData/WD~University_of_Minnesota_Libraries,7895799]]'
 PhilPapers_topic: human-rights
 practiced_by: '[[_Standards/WikiData/WD~human_rights_activist,1476215]]'
 publish: false
-publishDate: 
+publishDate: ''
 social_media_followers: 13756
 subclass_of:
-- '[[_Standards/WikiData/WD~convention,367293]]'
-- '[[_Standards/WikiData/WD~rights,780687]]'
+  - '[[_Standards/WikiData/WD~convention,367293]]'
+  - '[[_Standards/WikiData/WD~rights,780687]]'
 subreddit: humanrights
 tags:
-- Human_Rights
-- excalidraw
+  - Human_Rights
+  - excalidraw
 title: Human_Rights
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Human_rights,13441595]]'
-- '[[_Standards/WikiData/WD~Template_Substantive_human_rights,14444679]]'
+  - '[[_Standards/WikiData/WD~Template_Human_rights,13441595]]'
+  - '[[_Standards/WikiData/WD~Template_Substantive_human_rights,14444679]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Human_rights,10863002]]'
 type: private_note
 UMLS_CUI:
-- C4046017
-- C0020138
+  - C4046017
+  - C0020138
 U_S_National_Archives_Identifier: 10640045
 Wikitribune_category: humanrights
-WordLift_URL: "http://data.thenextweb.com/tnw/entity/human_rights"
+WordLift_URL: http://data.thenextweb.com/tnw/entity/human_rights
 ---
 
 # [[Human_Rights]] 

@@ -5,18 +5,19 @@ aliases:
   - Kopierer
   - copy machine
   - Xerox machine
+  - Photocopier
 has_id_wikidata: Q185369
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~photocopy,8011558]]"
-has_use: "[[_Standards/WikiData/WD~photocopying,56821429]]"
-subclass_of: "[[_Standards/WikiData/WD~machine,11019]]"
-Nomenclature_for_Museum_Cataloging: "11115"
-2022_Harmonized_System_Code: "9009"
-OmegaWiki_Defined_Meaning: "1010707"
-GS1_GPC_code: "10001252"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~photocopy,8011558]]'
+has_use: '[[_Standards/WikiData/WD~photocopying,56821429]]'
+subclass_of: '[[_Standards/WikiData/WD~machine,11019]]'
+Nomenclature_for_Museum_Cataloging: 11115
+2022_Harmonized_System_Code: 9009
+OmegaWiki_Defined_Meaning: 1010707
+GS1_GPC_code: 10001252
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Copy%20machine.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Xerox%20photocopier%20in%20GlenOak%20High%20School%20library%202004.jpg
 exact_match: http://wordnet-rdf.princeton.edu/wn30/03924679-n

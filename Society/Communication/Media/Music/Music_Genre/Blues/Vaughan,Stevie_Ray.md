@@ -3,44 +3,46 @@ aliases:
   - Stevie_Ray_Vaughan
   - Stephen Ray Vaughan
   - Vaughan
+  - Vaughan,Stevie_Ray
+  - Vaughan,Stevie Ray
 has_id_wikidata: Q202937
 Facebook_username: stevierayvaughan
 genre:
-  - "[[_Standards/WikiData/WD~funk,164444]]"
-  - "[[_Standards/WikiData/WD~blues_rock,193355]]"
-  - "[[_Standards/WikiData/WD~blues,9759]]"
-  - "[[_Standards/WikiData/WD~rock_music,11399]]"
-record_label: "[[_Standards/WikiData/WD~Epic_Records,216364]]"
+  - '[[_Standards/WikiData/WD~funk,164444]]'
+  - '[[_Standards/WikiData/WD~blues_rock,193355]]'
+  - '[[_Standards/WikiData/WD~blues,9759]]'
+  - '[[_Standards/WikiData/WD~rock_music,11399]]'
+record_label: '[[_Standards/WikiData/WD~Epic_Records,216364]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer_songwriter,488205]]"
-  - "[[_Standards/WikiData/WD~guitarist,855091]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-sibling: "[[_Standards/WikiData/WD~Jimmie_Vaughan,538543]]"
-cause_of_death: "[[_Standards/WikiData/WD~aviation_accident,744913]]"
-place_of_death: "[[_Standards/WikiData/WD~East_Troy,1278054]]"
+  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+  - '[[_Standards/WikiData/WD~guitarist,855091]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
+sibling: '[[_Standards/WikiData/WD~Jimmie_Vaughan,538543]]'
+cause_of_death: '[[_Standards/WikiData/WD~aviation_accident,744913]]'
+place_of_death: '[[_Standards/WikiData/WD~East_Troy,1278054]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Double_Trouble,2083578]]"
-  - "[[_Standards/WikiData/WD~Stevie_Ray_Vaughan_&_Double_Trouble,68561493]]"
+  - '[[_Standards/WikiData/WD~Double_Trouble,2083578]]'
+  - '[[_Standards/WikiData/WD~Stevie_Ray_Vaughan_&_Double_Trouble,68561493]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Ray,2133832]]"
-  - "[[_Standards/WikiData/WD~Stevie,20680397]]"
-educated_at: "[[_Standards/WikiData/WD~Justin_F._Kimball_High_School,6317580]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Ray,2133832]]'
+  - '[[_Standards/WikiData/WD~Stevie,20680397]]'
+educated_at: '[[_Standards/WikiData/WD~Justin_F._Kimball_High_School,6317580]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 discography:
-  - "[[_Standards/WikiData/WD~Stevie_Ray_Vaughan_discography,7615608]]"
-  - "[[_Standards/WikiData/WD~Stevie_Ray_Vaughan_posthumous_discography,16991831]]"
-family_name: "[[_Standards/WikiData/WD~Vaughan,12805306]]"
+  - '[[_Standards/WikiData/WD~Stevie_Ray_Vaughan_discography,7615608]]'
+  - '[[_Standards/WikiData/WD~Stevie_Ray_Vaughan_posthumous_discography,16991831]]'
+family_name: '[[_Standards/WikiData/WD~Vaughan,12805306]]'
 instrument:
-  - "[[_Standards/WikiData/WD~voice,17172850]]"
-  - "[[_Standards/WikiData/WD~guitar,6607]]"
-place_of_burial: "[[_Standards/WikiData/WD~Laurel_Land_Memorial_Park,20744191]]"
-manner_of_death: "[[_Standards/WikiData/WD~accidental_death,21142718]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_birth: "[[_Standards/WikiData/WD~Dallas,16557]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-award_received: "[[_Standards/WikiData/WD~Grammy_Awards,41254]]"
+  - '[[_Standards/WikiData/WD~voice,17172850]]'
+  - '[[_Standards/WikiData/WD~guitar,6607]]'
+place_of_burial: '[[_Standards/WikiData/WD~Laurel_Land_Memorial_Park,20744191]]'
+manner_of_death: '[[_Standards/WikiData/WD~accidental_death,21142718]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+place_of_birth: '[[_Standards/WikiData/WD~Dallas,16557]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+award_received: '[[_Standards/WikiData/WD~Grammy_Awards,41254]]'
 Commons_category: Stevie Ray Vaughan
 work_period_start_: 1965-01-01T00:00:00Z
 date_of_birth: 1954-10-03T00:00:00Z
@@ -49,7 +51,7 @@ date_of_death: 1990-08-27T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stevie%20Ray%20Vaughan%20Live%201983.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Stevie%20Ray%20Vaughan%20soundcheck%20in%20the%20studio%20in%201989.webm
 official_website: https://srvofficial.com
-ISNI: "0000000385476923"
+ISNI: 0000000385476923
 Plex_person_key: 5d776852eb5d26001f1e601c
 Europeana_entity: agent/base/61533
 ---

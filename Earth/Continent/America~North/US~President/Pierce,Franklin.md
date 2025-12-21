@@ -1,25 +1,25 @@
 ---
 aliases:
-- Pierce,Franklin
-- "Franklin Pierce"
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Pierce,Franklin
+  - Franklin Pierce
+  - ''
 has_id_wikidata: Q12312
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Pierce,Franklin
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Pierce,Franklin
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- 
+  - ''
 title: Pierce,Franklin
 type: private_note
 ---

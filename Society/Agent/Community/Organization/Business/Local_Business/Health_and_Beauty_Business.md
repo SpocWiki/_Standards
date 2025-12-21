@@ -4,20 +4,22 @@ aliases:
   - health_and_beauty_business
   - HealthAndBeautyBusiness
   - is_a_health_and_beauty_business
+  - Health_and_Beauty_Business
+  - Health and Beauty Business
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - health_and_beauty_business
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_health_and_beauty_business Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

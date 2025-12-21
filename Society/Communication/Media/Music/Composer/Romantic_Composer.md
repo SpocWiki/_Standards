@@ -2,7 +2,8 @@
 aliases:
   - Romantic Composer
   - Romantic Composers
-has_id_wikidata:
+  - Romantic_Composer
+has_id_wikidata: ''
 ---
 
 ## #has_/text_of_/abstract 

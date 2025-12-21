@@ -1,152 +1,153 @@
 ---
 aliases:
   - Benito Mussolini
+  - Mussolini,Benito
 has_id_wikidata: Q23559
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~journalist,1930187]]"
-  - "[[_Standards/WikiData/WD~teacher,37226]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~journalist,1930187]]'
+  - '[[_Standards/WikiData/WD~teacher,37226]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_the_Southern_Cross,93713]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Golden_Spur,93716]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_German_Eagle,94117]]"
-  - "[[_Standards/WikiData/WD~Sovereign_Military_Order_of_Malta,190353]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_White_Eagle,392204]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Bath,506369]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Chrysanthemum,696246]]"
-  - "[[_Standards/WikiData/WD~Equestrian_Order_of_the_Holy_Sepulchre,836057]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Elephant,976544]]"
-  - "[[_Standards/WikiData/WD~Order_of_Lāčplēsis,1019203]]"
-  - "[[_Standards/WikiData/WD~Royal_Order_of_the_Seraphim,1331130]]"
-  - "[[_Standards/WikiData/WD~Goethe_Medal_for_Art_and_Science,1396769]]"
-  - "[[_Standards/WikiData/WD~Cross_of_Liberty,1454361]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Roman_Eagle,1480484]]"
-  - "[[_Standards/WikiData/WD~Order_of_Saints_Cyril_and_Methodius_Equal_to_apostles,1551843]]"
-  - "[[_Standards/WikiData/WD~Order_of_Skanderbeg,1645150]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Quetzal,1857021]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Liberator,2452975]]"
-  - "[[_Standards/WikiData/WD~Victory_Medal,2454427]]"
-  - "[[_Standards/WikiData/WD~Order_of_Solomon,2794660]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Star_of_Nepal,3885349]]"
-  - "[[_Standards/WikiData/WD~Cross_of_Vytis,4240317]]"
-  - "[[_Standards/WikiData/WD~National_Order_of_Merit_Carlos_Manuel_de_Céspedes,4335886]]"
-  - "[[_Standards/WikiData/WD~Grand_Cordon_of_the_Supreme_Order_of_the_Chrysanthemum,5361043]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Legion_of_Honour,10855226]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Military_Order_of_Savoy,14763449]]"
-  - "[[_Standards/WikiData/WD~Knight_grand_cross_of_the_order_of_the_crown_of_Italy,14865244]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Military_Order_of_the_Tower_and_Sword,15042103]]"
-  - "[[_Standards/WikiData/WD~Grand_Collar_of_the_Military_Order_of_the_Tower_and_Sword,15042107]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Saints_Maurice_and_Lazarus,20888823]]"
-  - "[[_Standards/WikiData/WD~Grand_cross_of_the_Order_of_the_White_Lion,20966518]]"
-  - "[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Lausanne,28911007]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_Naval_Merit_with_white_badge,34473235]]"
-  - "[[_Standards/WikiData/WD~Collar_of_the_Imperial_Order_of_the_Red_Arrows,36354740]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Colonial_Order_of_the_Star_of_Italy,39746702]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Most_Holy_Annunciation,56855000]]"
-place_of_birth: "[[_Standards/WikiData/WD~Predappio,99950]]"
+  - '[[_Standards/WikiData/WD~Order_of_the_Southern_Cross,93713]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Golden_Spur,93716]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_German_Eagle,94117]]'
+  - '[[_Standards/WikiData/WD~Sovereign_Military_Order_of_Malta,190353]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_White_Eagle,392204]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Bath,506369]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Chrysanthemum,696246]]'
+  - '[[_Standards/WikiData/WD~Equestrian_Order_of_the_Holy_Sepulchre,836057]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Elephant,976544]]'
+  - '[[_Standards/WikiData/WD~Order_of_Lāčplēsis,1019203]]'
+  - '[[_Standards/WikiData/WD~Royal_Order_of_the_Seraphim,1331130]]'
+  - '[[_Standards/WikiData/WD~Goethe_Medal_for_Art_and_Science,1396769]]'
+  - '[[_Standards/WikiData/WD~Cross_of_Liberty,1454361]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Roman_Eagle,1480484]]'
+  - '[[_Standards/WikiData/WD~Order_of_Saints_Cyril_and_Methodius_Equal_to_apostles,1551843]]'
+  - '[[_Standards/WikiData/WD~Order_of_Skanderbeg,1645150]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Quetzal,1857021]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Liberator,2452975]]'
+  - '[[_Standards/WikiData/WD~Victory_Medal,2454427]]'
+  - '[[_Standards/WikiData/WD~Order_of_Solomon,2794660]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Star_of_Nepal,3885349]]'
+  - '[[_Standards/WikiData/WD~Cross_of_Vytis,4240317]]'
+  - '[[_Standards/WikiData/WD~National_Order_of_Merit_Carlos_Manuel_de_Céspedes,4335886]]'
+  - '[[_Standards/WikiData/WD~Grand_Cordon_of_the_Supreme_Order_of_the_Chrysanthemum,5361043]]'
+  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Legion_of_Honour,10855226]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Military_Order_of_Savoy,14763449]]'
+  - '[[_Standards/WikiData/WD~Knight_grand_cross_of_the_order_of_the_crown_of_Italy,14865244]]'
+  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Military_Order_of_the_Tower_and_Sword,15042103]]'
+  - '[[_Standards/WikiData/WD~Grand_Collar_of_the_Military_Order_of_the_Tower_and_Sword,15042107]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Saints_Maurice_and_Lazarus,20888823]]'
+  - '[[_Standards/WikiData/WD~Grand_cross_of_the_Order_of_the_White_Lion,20966518]]'
+  - '[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Lausanne,28911007]]'
+  - '[[_Standards/WikiData/WD~Grand_Cross_of_Naval_Merit_with_white_badge,34473235]]'
+  - '[[_Standards/WikiData/WD~Collar_of_the_Imperial_Order_of_the_Red_Arrows,36354740]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Colonial_Order_of_the_Star_of_Italy,39746702]]'
+  - '[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Most_Holy_Annunciation,56855000]]'
+place_of_birth: '[[_Standards/WikiData/WD~Predappio,99950]]'
 member_of_political_party:
-  - "[[_Standards/WikiData/WD~National_Fascist_Party,139596]]"
-  - "[[_Standards/WikiData/WD~Italian_Socialist_Party,590750]]"
-  - "[[_Standards/WikiData/WD~Fasci_Italiani_di_Combattimento,601211]]"
-  - "[[_Standards/WikiData/WD~Republican_Fascist_Party,2376126]]"
-  - "[[_Standards/WikiData/WD~Revolutionary_Fascist_Party,106547186]]"
-manner_of_death: "[[_Standards/WikiData/WD~homicide,149086]]"
+  - '[[_Standards/WikiData/WD~National_Fascist_Party,139596]]'
+  - '[[_Standards/WikiData/WD~Italian_Socialist_Party,590750]]'
+  - '[[_Standards/WikiData/WD~Fasci_Italiani_di_Combattimento,601211]]'
+  - '[[_Standards/WikiData/WD~Republican_Fascist_Party,2376126]]'
+  - '[[_Standards/WikiData/WD~Revolutionary_Fascist_Party,106547186]]'
+manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Italian_Social_Republic,153660]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]"
-named_after: "[[_Standards/WikiData/WD~Benito_Juárez,182276]]"
+  - '[[_Standards/WikiData/WD~Italian_Social_Republic,153660]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+named_after: '[[_Standards/WikiData/WD~Benito_Juárez,182276]]'
 relative:
-  - "[[_Standards/WikiData/WD~Galeazzo_Ciano,220105]]"
-  - "[[_Standards/WikiData/WD~Alessandra_Mussolini,285543]]"
-  - "[[_Standards/WikiData/WD~Romano_Floriani_Mussolini,105268643]]"
+  - '[[_Standards/WikiData/WD~Galeazzo_Ciano,220105]]'
+  - '[[_Standards/WikiData/WD~Alessandra_Mussolini,285543]]'
+  - '[[_Standards/WikiData/WD~Romano_Floriani_Mussolini,105268643]]'
 child:
-  - "[[_Standards/WikiData/WD~Edda_Mussolini,259934]]"
-  - "[[_Standards/WikiData/WD~Romano_Mussolini,446421]]"
-  - "[[_Standards/WikiData/WD~Vittorio_Mussolini,640292]]"
-  - "[[_Standards/WikiData/WD~Bruno_Mussolini,2665964]]"
-  - "[[_Standards/WikiData/WD~Benito_Albino_Dalser,2895943]]"
-  - "[[_Standards/WikiData/WD~Anna_Maria_Mussolini,3617765]]"
+  - '[[_Standards/WikiData/WD~Edda_Mussolini,259934]]'
+  - '[[_Standards/WikiData/WD~Romano_Mussolini,446421]]'
+  - '[[_Standards/WikiData/WD~Vittorio_Mussolini,640292]]'
+  - '[[_Standards/WikiData/WD~Bruno_Mussolini,2665964]]'
+  - '[[_Standards/WikiData/WD~Benito_Albino_Dalser,2895943]]'
+  - '[[_Standards/WikiData/WD~Anna_Maria_Mussolini,3617765]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Margherita_Sarfatti,261041]]"
-  - "[[_Standards/WikiData/WD~Clara_Petacci,275987]]"
-  - "[[_Standards/WikiData/WD~Ida_Dalser,570794]]"
-  - "[[_Standards/WikiData/WD~Bianca_Ceccato,125574551]]"
+  - '[[_Standards/WikiData/WD~Margherita_Sarfatti,261041]]'
+  - '[[_Standards/WikiData/WD~Clara_Petacci,275987]]'
+  - '[[_Standards/WikiData/WD~Ida_Dalser,570794]]'
+  - '[[_Standards/WikiData/WD~Bianca_Ceccato,125574551]]'
 military_branch:
-  - "[[_Standards/WikiData/WD~Italian_Air_Force,381576]]"
-  - "[[_Standards/WikiData/WD~Voluntary_Militia_for_National_Security,846081]]"
-  - "[[_Standards/WikiData/WD~Royal_Italian_Air_Force,1517242]]"
+  - '[[_Standards/WikiData/WD~Italian_Air_Force,381576]]'
+  - '[[_Standards/WikiData/WD~Voluntary_Militia_for_National_Security,846081]]'
+  - '[[_Standards/WikiData/WD~Royal_Italian_Air_Force,1517242]]'
 residence:
-  - "[[_Standards/WikiData/WD~Villa_Torlonia,474857]]"
-  - "[[_Standards/WikiData/WD~Palazzo_Venezia,1123879]]"
+  - '[[_Standards/WikiData/WD~Villa_Torlonia,474857]]'
+  - '[[_Standards/WikiData/WD~Palazzo_Venezia,1123879]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Arnaldo_Mussolini,549097]]"
-  - "[[_Standards/WikiData/WD~Edvige_Mussolini,3048420]]"
+  - '[[_Standards/WikiData/WD~Arnaldo_Mussolini,549097]]'
+  - '[[_Standards/WikiData/WD~Edvige_Mussolini,3048420]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Ida_Dalser,570794]]"
-  - "[[_Standards/WikiData/WD~Rachele_Mussolini,714884]]"
-educated_at: "[[_Standards/WikiData/WD~University_of_Lausanne,658975]]"
-honorific_suffix: "[[_Standards/WikiData/WD~duce,714189]]"
-employer: "[[_Standards/WikiData/WD~Avanti!,790205]]"
-killed_by: "[[_Standards/WikiData/WD~Walter_Audisio,1060464]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~First_marshal_of_the_empire,1201444]]"
+  - '[[_Standards/WikiData/WD~Ida_Dalser,570794]]'
+  - '[[_Standards/WikiData/WD~Rachele_Mussolini,714884]]'
+educated_at: '[[_Standards/WikiData/WD~University_of_Lausanne,658975]]'
+honorific_suffix: '[[_Standards/WikiData/WD~duce,714189]]'
+employer: '[[_Standards/WikiData/WD~Avanti!,790205]]'
+killed_by: '[[_Standards/WikiData/WD~Walter_Audisio,1060464]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~First_marshal_of_the_empire,1201444]]'
 position_held:
-  - "[[_Standards/WikiData/WD~First_marshal_of_the_empire,1201444]]"
-  - "[[_Standards/WikiData/WD~foreign_minister,7330070]]"
-  - "[[_Standards/WikiData/WD~member_of_the_Chamber_of_Deputies_of_the_Kingdom_of_Italy,20058666]]"
-  - "[[_Standards/WikiData/WD~Prime_Minister_of_the_Kingdom_of_Italy,25160174]]"
-  - "[[_Standards/WikiData/WD~minister_of_Interior_of_the_Kingdom_of_Italy,26243819]]"
-  - "[[_Standards/WikiData/WD~minister_of_Foreign_Affairs_of_the_Kingdom_of_Italy,26248695]]"
-  - "[[_Standards/WikiData/WD~minister_of_Public_Works_of_the_Kingdom_of_Italy,26277644]]"
-  - "[[_Standards/WikiData/WD~minister_of_War_of_the_Kingdom_of_Italy,26844985]]"
-  - "[[_Standards/WikiData/WD~minister_of_the_Navy_of_the_Kingdom_of_Italy,26877864]]"
-  - "[[_Standards/WikiData/WD~minister_of_Air_Force_of_the_Kingdom_of_Italy,26911615]]"
-  - "[[_Standards/WikiData/WD~minister_of_Italian_Africa_of_the_Kingdom_of_Italy,28798091]]"
-  - "[[_Standards/WikiData/WD~minister_of_Corporations_of_the_Kingdom_of_Italy,33205128]]"
-  - "[[_Standards/WikiData/WD~national_councillor_to_the_Chamber_of_Fasci_and_Corporations,59193318]]"
-  - "[[_Standards/WikiData/WD~prime_minister,14212]]"
+  - '[[_Standards/WikiData/WD~First_marshal_of_the_empire,1201444]]'
+  - '[[_Standards/WikiData/WD~foreign_minister,7330070]]'
+  - '[[_Standards/WikiData/WD~member_of_the_Chamber_of_Deputies_of_the_Kingdom_of_Italy,20058666]]'
+  - '[[_Standards/WikiData/WD~Prime_Minister_of_the_Kingdom_of_Italy,25160174]]'
+  - '[[_Standards/WikiData/WD~minister_of_Interior_of_the_Kingdom_of_Italy,26243819]]'
+  - '[[_Standards/WikiData/WD~minister_of_Foreign_Affairs_of_the_Kingdom_of_Italy,26248695]]'
+  - '[[_Standards/WikiData/WD~minister_of_Public_Works_of_the_Kingdom_of_Italy,26277644]]'
+  - '[[_Standards/WikiData/WD~minister_of_War_of_the_Kingdom_of_Italy,26844985]]'
+  - '[[_Standards/WikiData/WD~minister_of_the_Navy_of_the_Kingdom_of_Italy,26877864]]'
+  - '[[_Standards/WikiData/WD~minister_of_Air_Force_of_the_Kingdom_of_Italy,26911615]]'
+  - '[[_Standards/WikiData/WD~minister_of_Italian_Africa_of_the_Kingdom_of_Italy,28798091]]'
+  - '[[_Standards/WikiData/WD~minister_of_Corporations_of_the_Kingdom_of_Italy,33205128]]'
+  - '[[_Standards/WikiData/WD~national_councillor_to_the_Chamber_of_Fasci_and_Corporations,59193318]]'
+  - '[[_Standards/WikiData/WD~prime_minister,14212]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Grand_Council_of_Fascism,1330482]]"
-  - "[[_Standards/WikiData/WD~Accademia_delle_Arti_del_Disegno,1760178]]"
-cause_of_death: "[[_Standards/WikiData/WD~gunshot_wound,2140674]]"
-place_of_death: "[[_Standards/WikiData/WD~Giulino,2485134]]"
+  - '[[_Standards/WikiData/WD~Grand_Council_of_Fascism,1330482]]'
+  - '[[_Standards/WikiData/WD~Accademia_delle_Arti_del_Disegno,1760178]]'
+cause_of_death: '[[_Standards/WikiData/WD~gunshot_wound,2140674]]'
+place_of_death: '[[_Standards/WikiData/WD~Giulino,2485134]]'
 place_of_burial:
-  - "[[_Standards/WikiData/WD~major_cemetery_of_Milan,3676872]]"
-  - "[[_Standards/WikiData/WD~Mussolini_Family_Crypt,60840620]]"
-father: "[[_Standards/WikiData/WD~Alessandro_Mussolini,4255860]]"
-mother: "[[_Standards/WikiData/WD~Rosa_Maltoni,5018676]]"
+  - '[[_Standards/WikiData/WD~major_cemetery_of_Milan,3676872]]'
+  - '[[_Standards/WikiData/WD~Mussolini_Family_Crypt,60840620]]'
+father: '[[_Standards/WikiData/WD~Alessandro_Mussolini,4255860]]'
+mother: '[[_Standards/WikiData/WD~Rosa_Maltoni,5018676]]'
 movement:
-  - "[[_Standards/WikiData/WD~Italian_nationalism,6093359]]"
-  - "[[_Standards/WikiData/WD~fascism,6223]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-eye_color: "[[_Standards/WikiData/WD~dark_brown,17244894]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Benito_Mussolini,18612482]]"
-given_name: "[[_Standards/WikiData/WD~Benito,19826489]]"
+  - '[[_Standards/WikiData/WD~Italian_nationalism,6093359]]'
+  - '[[_Standards/WikiData/WD~fascism,6223]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+eye_color: '[[_Standards/WikiData/WD~dark_brown,17244894]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Benito_Mussolini,18612482]]'
+given_name: '[[_Standards/WikiData/WD~Benito,19826489]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~SourceWatch_List_of_Dictators,121698959]]"
-has_list: "[[_Standards/WikiData/WD~Q27443341,27443341]]"
-hair_color: "[[_Standards/WikiData/WD~dark_brown_hair,28961883]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~SourceWatch_List_of_Dictators,121698959]]'
+has_list: '[[_Standards/WikiData/WD~Q27443341,27443341]]'
+hair_color: '[[_Standards/WikiData/WD~dark_brown_hair,28961883]]'
 IMDb_keyword: reference-to-benito-mussolini
-family_name: "[[_Standards/WikiData/WD~Mussolini,54754502]]"
-depicted_by: "[[_Standards/WikiData/WD~Benito_Mussolini_the_Horseman,125775012]]"
-family: "[[_Standards/WikiData/WD~Mussolini_family,134622024]]"
+family_name: '[[_Standards/WikiData/WD~Mussolini,54754502]]'
+depicted_by: '[[_Standards/WikiData/WD~Benito_Mussolini_the_Horseman,125775012]]'
+family: '[[_Standards/WikiData/WD~Mussolini_family,134622024]]'
 date_of_birth: 1883-07-29T00:00:00Z
 work_location:
-  - "[[_Standards/WikiData/WD~Milan,490]]"
-  - "[[_Standards/WikiData/WD~Rome,220]]"
+  - '[[_Standards/WikiData/WD~Milan,490]]'
+  - '[[_Standards/WikiData/WD~Rome,220]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-native_language: "[[_Standards/WikiData/WD~Italian,652]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-writing_language: "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~Italian,652]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+  - '[[_Standards/WikiData/WD~German,188]]'
+native_language: '[[_Standards/WikiData/WD~Italian,652]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+writing_language: '[[_Standards/WikiData/WD~French,150]]'
 Commons_category: Benito Mussolini
 Commons_Creator_page: Benito Mussolini
 Commons_gallery: Benito Mussolini
-P8189: "987007312160605171"
+P8189: 987007312160605171
 Royal_Academy_new_identifier: benito-amilcare-andrea-mussolini
 Libris_URI: c9prsjvw3tr44fk
 Wolfram_Language_entity_code: Entity["Concept", "BenitoMussolini::925m8"]
@@ -166,8 +167,8 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Execution%20of%20Musso
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mussolini%20as%20Capo%20del%20governo%20of%20Fascist%20Italy.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mussolini%20mezzobusto.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Predappio%20tomba.jpg
-ISNI: "0000000121431748"
-U_S_National_Archives_Identifier: "10582992"
+ISNI: 0000000121431748
+U_S_National_Archives_Identifier: 10582992
 ---
 
 # [[Mussolini,Benito]] 

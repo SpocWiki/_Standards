@@ -1,31 +1,35 @@
 ---
+aliases:
+  - Flut
+  - '{ newTitle: }': ''
+  - Flood
+has_id_wikidata: Q8068
 Colon_Classification: Y:4355
 Commons_category: Floods
 Commons_gallery: Flood
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-different_from: "[[_Standards/WikiData/WD~flood,3223176]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+different_from: '[[_Standards/WikiData/WD~flood,3223176]]'
 distribution_map:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Global%20Flood%20Hazard%20Frequency%20and%20Distribution%20%285457923272%29.jpg
-handled_mitigated_or_managed_by: "[[_Standards/WikiData/WD~flood_control,1187968]]"
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~flood_control,1187968]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~cloud_burst,180382]]"
-  - "[[_Standards/WikiData/WD~siphoning,1550470]]"
-  - "[[_Standards/WikiData/WD~river_overflow,2369493]]"
-  - "[[_Standards/WikiData/WD~rain,7925]]"
-  - "[[_Standards/WikiData/WD~tsunami,8070]]"
+  - '[[_Standards/WikiData/WD~cloud_burst,180382]]'
+  - '[[_Standards/WikiData/WD~siphoning,1550470]]'
+  - '[[_Standards/WikiData/WD~river_overflow,2369493]]'
+  - '[[_Standards/WikiData/WD~rain,7925]]'
+  - '[[_Standards/WikiData/WD~tsunami,8070]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~property_damage,554774]]"
-  - "[[_Standards/WikiData/WD~dam_failure,1033074]]"
-  - "[[_Standards/WikiData/WD~flood_damage,56873286]]"
-  - "[[_Standards/WikiData/WD~death,4]]"
-has_id_wikidata: Q8068
+  - '[[_Standards/WikiData/WD~property_damage,554774]]'
+  - '[[_Standards/WikiData/WD~dam_failure,1033074]]'
+  - '[[_Standards/WikiData/WD~flood_damage,56873286]]'
+  - '[[_Standards/WikiData/WD~death,4]]'
 Iconclass_notation: 25H199
 image: http://commons.wikimedia.org/wiki/Special:FilePath/KatrinaNewOrleansFlooded%20edit2.jpg
 IPTC_NewsCode: mediatopic/20000154
@@ -35,27 +39,24 @@ MeSH_tree_code:
 MIL_STD_2525_Symbol_Identification_Code: 10014000001702020000
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Night%20Flood.jpg
 OmegaWiki_Defined_Meaning: 1482
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 OpenStreetMap_tag_or_key: Tag:hazard=flooding
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828670,22828670]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828670,22828670]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-inondation.wav
 Provenio_UUID: 2ee69de1-7d70-457b-970d-46bc3dd96076
 satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Floods%20in%20Guatemala.jpg
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sch%C3%A9ma%20conceptuel%20illustrant%20les%20cons%C3%A9quences%20des%20inondations%20dans%20les%20Pays%20du%20Sud.jpg
 subclass_of:
-  - "[[_Standards/WikiData/WD~natural_disaster,8065]]"
-  - "[[_Standards/WikiData/WD~high_tide,30017]]"
+  - '[[_Standards/WikiData/WD~natural_disaster,8065]]'
+  - '[[_Standards/WikiData/WD~high_tide,30017]]'
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_flood,11008383]]"
+  - '[[_Standards/WikiData/WD~Template_Infobox_flood,11008383]]'
 UMLS_CUI: C2717751
 U_S_National_Archives_Identifier: 10639457
 video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/2018-01%20Ill%20flood%20drone.webm
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/FEMA%20-%2040488%20-%20Aerial%20of%20flood%20effects%20in%20Minnesota.jpg
-aliases:
-  - Flut
-  - "{ newTitle: }":
 confidential: private
 cssclasses:
   - private
@@ -64,26 +65,26 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: ''
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 lang: en
-layout:
+layout: ''
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 publish: false
-publishDate:
+publishDate: ''
 tags:
-  - "{ newTitle: }":
+  - '{ newTitle: }': ''
   - excalidraw
 title:
-  "{ newTitle: }":
+  '{ newTitle: }': ''
 type: private_note
 ---
 

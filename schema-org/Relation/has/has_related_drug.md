@@ -3,23 +3,24 @@ aliases:
   - has related-drug
   - relatedDrug
   - has_related_drug
+  - has related drug
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - related_drug
   - related
   - drug
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_related_drug
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

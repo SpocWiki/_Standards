@@ -4,20 +4,22 @@ aliases:
   - opening_hours_specification
   - OpeningHoursSpecification
   - is_an_opening_hours_specification
+  - Opening_Hours_Specification
+  - Opening Hours Specification
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - opening_hours_specification
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_opening_hours_specification Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

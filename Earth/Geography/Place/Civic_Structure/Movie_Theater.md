@@ -4,21 +4,23 @@ aliases:
   - movie_theater
   - MovieTheater
   - is_a_movie_theater
+  - Movie_Theater
+  - Movie Theater
 has_id_wikidata: Q41253
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - movie_theater
-layout:
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_movie_theater Class
 publish: true
-publishDate:
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
@@ -43,8 +45,8 @@ properties_for_this_type:
   - Bioguiden movie theater ID
   - country
   - located in the administrative territorial entity
-Merchant_Category_Code: "7832"
-Nomenclature_for_Museum_Cataloging: "682"
+Merchant_Category_Code: 7832
+Nomenclature_for_Museum_Cataloging: 682
 IMDb_keyword: movie-theater
 Unicode_character: 🎦
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Berlin%20Filmtheater%20am%20Friedrichshain%20asv2024-06%20img6.jpg
@@ -58,7 +60,7 @@ Commons_category: Cinemas
 OpenStreetMap_tag: amenity=cinema
 ---
 
-# [[Movie_Theater]] 
+# [[Movie_Theater]] 🎦 
 
 Class of all movie_theaters.
 

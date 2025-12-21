@@ -1,6 +1,7 @@
 ---
 aliases:
   - Resublimation
+  - Deposition
 ---
 
 # [[Deposition]] 

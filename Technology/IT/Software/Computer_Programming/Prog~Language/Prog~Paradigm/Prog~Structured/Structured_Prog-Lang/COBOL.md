@@ -1,35 +1,36 @@
 ---
 aliases:
   - common business-oriented language
+  - COBOL
 has_id_wikidata: Q131140
 programming_paradigm:
-  - "[[_Standards/WikiData/WD~object_oriented_programming,79872]]"
-  - "[[_Standards/WikiData/WD~imperative_programming,275596]]"
-  - "[[_Standards/WikiData/WD~procedural_programming,1418502]]"
+  - '[[_Standards/WikiData/WD~object_oriented_programming,79872]]'
+  - '[[_Standards/WikiData/WD~imperative_programming,275596]]'
+  - '[[_Standards/WikiData/WD~procedural_programming,1418502]]'
 has_use:
-  - "[[_Standards/WikiData/WD~computer_programming,80006]]"
-  - "[[_Standards/WikiData/WD~creating,123819227]]"
+  - '[[_Standards/WikiData/WD~computer_programming,80006]]'
+  - '[[_Standards/WikiData/WD~creating,123819227]]'
 developer:
-  - "[[_Standards/WikiData/WD~American_National_Standards_Institute,180003]]"
-  - "[[_Standards/WikiData/WD~CODASYL,1023961]]"
-  - "[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]"
+  - '[[_Standards/WikiData/WD~American_National_Standards_Institute,180003]]'
+  - '[[_Standards/WikiData/WD~CODASYL,1023961]]'
+  - '[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~object_based_language,899523]]"
-  - "[[_Standards/WikiData/WD~imperative_programming_language,21562092]]"
-  - "[[_Standards/WikiData/WD~procedural_programming_language,28922885]]"
-  - "[[_Standards/WikiData/WD~programming_language,9143]]"
-creator: "[[_Standards/WikiData/WD~CODASYL,1023961]]"
+  - '[[_Standards/WikiData/WD~object_based_language,899523]]'
+  - '[[_Standards/WikiData/WD~imperative_programming_language,21562092]]'
+  - '[[_Standards/WikiData/WD~procedural_programming_language,28922885]]'
+  - '[[_Standards/WikiData/WD~programming_language,9143]]'
+creator: '[[_Standards/WikiData/WD~CODASYL,1023961]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~FLOW_MATIC,1389173]]"
-  - "[[_Standards/WikiData/WD~COMTRAN,5013384]]"
-  - "[[_Standards/WikiData/WD~FACT,7474729]]"
+  - '[[_Standards/WikiData/WD~FLOW_MATIC,1389173]]'
+  - '[[_Standards/WikiData/WD~COMTRAN,5013384]]'
+  - '[[_Standards/WikiData/WD~FACT,7474729]]'
 typing_discipline:
-  - "[[_Standards/WikiData/WD~static_typing,1940914]]"
-  - "[[_Standards/WikiData/WD~weak_typing,7977969]]"
-derivative_work: "[[_Standards/WikiData/WD~GnuCOBOL,7095747]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-commissioned_by: "[[_Standards/WikiData/WD~United_States_Department_of_Defense,11209]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~static_typing,1940914]]'
+  - '[[_Standards/WikiData/WD~weak_typing,7977969]]'
+derivative_work: '[[_Standards/WikiData/WD~GnuCOBOL,7095747]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+commissioned_by: '[[_Standards/WikiData/WD~United_States_Department_of_Defense,11209]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 described_at_URL:
   - https://marketplace.sshopencloud.eu/tool-or-service/Gtm3BN
   - https://tapor.ca/tools/486
@@ -43,7 +44,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%
 Stack_Exchange_tag: https://stackoverflow.com/tags/cobol
 IPA_transcription: ˈkoʊbɒl
 ISO_standard: 1989:2014
-P8189: "987007284048005171"
+P8189: 987007284048005171
 subreddit: cobol
 Commons_category: COBOL
 software_version_identifier: ISO/IEC 1989:2023

@@ -1,19 +1,20 @@
 ---
 aliases:
   - Disney Channel
+  - Disney_Channel
 has_id_wikidata: Q178837
 instance_of:
-  - "[[_Standards/WikiData/WD~specialty_channel,561068]]"
-  - "[[_Standards/WikiData/WD~television_station,1616075]]"
-  - "[[_Standards/WikiData/WD~cable_channel,5009242]]"
-  - "[[_Standards/WikiData/WD~production_company,11396960]]"
-owned_by: "[[_Standards/WikiData/WD~Disney_Branded_Television,1111443]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Disney_Channel_USA,3030393]]"
-different_from: "[[_Standards/WikiData/WD~Disney_Channel,5282418]]"
-has_list: "[[_Standards/WikiData/WD~list_of_Disney_Channel_original_soundtracks,6363873]]"
-parent_organization: "[[_Standards/WikiData/WD~The_Walt_Disney_Company,7414]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Burbank,39561]]"
+  - '[[_Standards/WikiData/WD~specialty_channel,561068]]'
+  - '[[_Standards/WikiData/WD~television_station,1616075]]'
+  - '[[_Standards/WikiData/WD~cable_channel,5009242]]'
+  - '[[_Standards/WikiData/WD~production_company,11396960]]'
+owned_by: '[[_Standards/WikiData/WD~Disney_Branded_Television,1111443]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Disney_Channel_USA,3030393]]'
+different_from: '[[_Standards/WikiData/WD~Disney_Channel,5282418]]'
+has_list: '[[_Standards/WikiData/WD~list_of_Disney_Channel_original_soundtracks,6363873]]'
+parent_organization: '[[_Standards/WikiData/WD~The_Walt_Disney_Company,7414]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Burbank,39561]]'
 social_media_followers:
   - 524000
   - 910284

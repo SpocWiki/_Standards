@@ -4,6 +4,8 @@ aliases:
   - Korea~Dem-Rep
   - Nordkorea
   - North Korea
+  - Korea~North
+has_id_wikidata: Q423
 BTI_Status_Index:
   - 2
   - 1.98
@@ -31,17 +33,17 @@ Democracy_Index: 1.08
 Dewey_Decimal_Classification: 2--5193
 Gini_coefficient: 31
 GitHub_topic: north-korea
-ISO_3166_1_numeric_code: "408"
+ISO_3166_1_numeric_code: 408
 ISO_3166_1_alpha_2_code: KP
-GS1_country_code: "867"
-INSEE_countries_and_foreign_territories_code: "99239"
+GS1_country_code: 867
+INSEE_countries_and_foreign_territories_code: 99239
 ISO_3166_1_alpha_3_code: PRK
 IOC_country_code: PRK
 Krugosvet_article: strany-mira/koreiskaya-narodno-demokraticheskaya-respublika-kndr-severnaya-koreya
 Libris_URI: 97mpnkct4lwgtln
-M49_code: "408"
-OmegaWiki_Defined_Meaning: "154503"
-UIC_numerical_country_code: "30"
+M49_code: 408
+OmegaWiki_Defined_Meaning: 154503
+UIC_numerical_country_code: 30
 UIC_alphabetical_country_code: PRK
 Wolfram_Language_entity_code:
   - Entity["Concept", "DemocraticPeoplesRepublicOfKorea::7897g"]
@@ -50,12 +52,12 @@ WIPO_ST_3: KP
 FIPS_10_4_countries_and_regions_: KN
 ITU_letter_code: KRE
 ISNI:
-  - "0000000123217569"
-  - "0000000405104298"
+  - 123217569
+  - 405104298
 MeSH_tree_code: Z01.252.474.557.500
 SpocWebEntityId: 26940
 Unicode_character: 🇰🇵
-U_S_National_Archives_Identifier: "10035715"
+U_S_National_Archives_Identifier: 10035715
 UMLS_CUI: C0022772
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_North_Korea,7112390]]"
 YouTube_handle: uriminzokkiri
@@ -361,7 +363,6 @@ highest_point: "[[_Standards/WikiData/WD~Baekdu_Mountain,107635]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_North_Korea,693277]]"
 has_characteristic: "[[_Standards/WikiData/WD~not_free_country,47185282]]"
 head_of_government: "[[_Standards/WikiData/WD~Pak_Thae_song,16905281]]"
-has_id_wikidata: Q423
 instance_of:
   - "[[_Standards/WikiData/WD~people's_republic,465613]]"
   - "[[_Standards/WikiData/WD~hermit_kingdom,1309121]]"
@@ -422,8 +423,8 @@ mains_voltage:
 marriageable_age:
   - 17
   - 18
-mobile_country_code: "467"
-maritime_identification_digits: "445"
+mobile_country_code: 467
+maritime_identification_digits: 445
 male_population:
   - 12707874
   - 12778255
@@ -494,7 +495,7 @@ short_name:
   - 朝鲜
 satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Korean%20Peninsula%20ESA21108299.jpeg
 top_level_Internet_domain: "[[_Standards/WikiData/WD~.kp,42172]]"
-trunk_prefix: "0"
+trunk_prefix: 0
 total_fertility_rate: 1.979
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_North_Korea,13219078]]"
 type: Country
@@ -517,7 +518,7 @@ booru_tag: north_korea
 IMDb_keyword: north-korea
 Krugosvet_article_archived_: strany-mira/koreiskaya-narodno-demokraticheskaya-respublika-kndr-severnaya-koreya
 UNDP_country_code: DRK
-telephone_country_code: "+850"
+telephone_country_code: 850
 ---
 
 # [[Korea~North]] 

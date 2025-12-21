@@ -3,12 +3,13 @@ aliases:
   - has service-sms-number
   - serviceSmsNumber
   - has_service_sms_number
+  - has service sms number
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - service
   - sms
   - number
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_service_sms_number
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -3,16 +3,17 @@ aliases:
   - free thought
   - free_thought
   - Freidenker
+  - Freethought
 has_id_wikidata: Q210115
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-opposite_of: "[[_Standards/WikiData/WD~dogmatism,1104973]]"
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+opposite_of: '[[_Standards/WikiData/WD~dogmatism,1104973]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~school_of_thought,1387659]]"
-  - "[[_Standards/WikiData/WD~point_of_view,12558574]]"
-  - "[[_Standards/WikiData/WD~world_view,49447]]"
+  - '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
+  - '[[_Standards/WikiData/WD~point_of_view,12558574]]'
+  - '[[_Standards/WikiData/WD~world_view,49447]]'
 social_media_followers: 51280
 BHCL_UUID: 62acd43f-05f0-4cc0-8000-34c13baf64ba
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pansy%20-%20Tombstone%20detail%20of%20a%20freethinker%2C%20late%2019th%20century.%20%28Cemetery%20of%20Cullera%2C%20Spain%29..jpg

@@ -3,23 +3,24 @@ aliases:
   - has work-example
   - workExample
   - has_work_example
+  - has work example
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - work_example
   - work
   - example
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_work_example
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

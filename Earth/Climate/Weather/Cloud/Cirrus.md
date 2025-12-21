@@ -1,25 +1,26 @@
 ---
 aliases:
   - Zirrus
+  - Cirrus
 has_id_wikidata: Q185638
-different_from: "[[_Standards/WikiData/WD~Cirrus,343317]]"
+different_from: '[[_Standards/WikiData/WD~Cirrus,343317]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~cirrus_uncinus,1124042]]"
-  - "[[_Standards/WikiData/WD~cirrus_fibratus,1410752]]"
-  - "[[_Standards/WikiData/WD~cirrus_spissatus,2742837]]"
-  - "[[_Standards/WikiData/WD~cirrus_radiatus,3744280]]"
-instance_of: "[[_Standards/WikiData/WD~cloud_type,1840368]]"
-subclass_of: "[[_Standards/WikiData/WD~high_level_cloud,2641011]]"
-facet_of: "[[_Standards/WikiData/WD~international_cloud_classification,3281195]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~cirrus_uncinus,1124042]]'
+  - '[[_Standards/WikiData/WD~cirrus_fibratus,1410752]]'
+  - '[[_Standards/WikiData/WD~cirrus_spissatus,2742837]]'
+  - '[[_Standards/WikiData/WD~cirrus_radiatus,3744280]]'
+instance_of: '[[_Standards/WikiData/WD~cloud_type,1840368]]'
+subclass_of: '[[_Standards/WikiData/WD~high_level_cloud,2641011]]'
+facet_of: '[[_Standards/WikiData/WD~international_cloud_classification,3281195]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 elevation_above_sea_level: 8000
-OmegaWiki_Defined_Meaning: "920983"
+OmegaWiki_Defined_Meaning: 920983
 Commons_gallery: Cirrus
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Clouds%20H1.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wolken%20cirrus%20%283%29.jpg
 official_website: https://cloudatlas.wmo.int/cirrus-ci.html
-P8189: "987007534627205171"
+P8189: 987007534627205171
 Commons_category: Cirrus clouds
 short_name: Ciquepasa
 ---

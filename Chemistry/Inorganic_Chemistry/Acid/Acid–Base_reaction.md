@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Acid–Base_reaction
+  - Acid–Base reaction
 has_id_wikidata: Q378751
 ---
 

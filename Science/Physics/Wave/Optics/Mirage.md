@@ -2,17 +2,18 @@
 aliases:
   - Fata Morgana
   - Luftspiegelung
+  - Mirage
 has_id_wikidata: Q308762
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q12894473,12894473]]"
-subclass_of: "[[_Standards/WikiData/WD~atmospheric_optical_phenomenon,29564129]]"
-different_from: "[[_Standards/WikiData/WD~Q100416816,100416816]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12894473,12894473]]'
+subclass_of: '[[_Standards/WikiData/WD~atmospheric_optical_phenomenon,29564129]]'
+different_from: '[[_Standards/WikiData/WD~Q100416816,100416816]]'
 Commons_gallery: Mirage
-OmegaWiki_Defined_Meaning: "509313"
+OmegaWiki_Defined_Meaning: 509313
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Farallons%20islands%20miragep.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Changing%20island%20gif%20fullsize%20q10.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Desertmirage.jpg

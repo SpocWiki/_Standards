@@ -1,6 +1,7 @@
 ---
 aliases:
   - Japanese rice wine
+  - Sake
 has_id_wikidata: Q170219
 ---
 

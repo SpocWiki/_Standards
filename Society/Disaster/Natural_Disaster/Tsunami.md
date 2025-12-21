@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Tsunami
+has_id_wikidata: Q8070
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20110315-N-5503T-307%20An%20aerial%20view%20of%20damage%20to%20Otsuchi%2C%20Japan%2C%20after%20a%209.0%20magnitude%20earthquake%20and%20subsequent%20tsunami%20devastated%20the%20area%20in%20northern%20Japan.jpg
 Commons_category: Tsunamis
 Commons_gallery: Tsunami
@@ -22,7 +25,6 @@ has_cause:
 has_effect:
   - "[[_Standards/WikiData/WD~rogue_wave,110360]]"
   - "[[_Standards/WikiData/WD~flood,8068]]"
-has_id_wikidata: Q8070
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Tsunami%20wave%20hitting%20city.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tsunami%20by%20hokusai%2019th%20century.jpg
 Krugosvet_article: geografiya/tsunami
@@ -53,8 +55,6 @@ U_S_National_Archives_Identifier: 10648584
 video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/NOAA%20Tsunami%20Animation-2016.webm
   - http://commons.wikimedia.org/wiki/Special:FilePath/Tsunami%2020110311%20Kita-Ibaraki%20Japan.ogv
-aliases:
-  - "{ newTitle: }":
 confidential: private
 cssclasses:
   - private
@@ -63,30 +63,30 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
+expiryDate: ""
 has_Template: "[[Extract~Note~Template]]"
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': ""
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  "{ newTitle: }": ""
 lang: en
-layout:
+layout: ""
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  "{ newTitle: }": ""
 publish: false
-publishDate:
+publishDate: ""
 tags:
-  - "{ newTitle: }":
+  - "{ newTitle: }": ""
   - excalidraw
 title:
-  "{ newTitle: }":
+  "{ newTitle: }": ""
 type: private_note
 ---
 
-# [[Tsunami]] 
+# [[Tsunami]] 🌊 
 
 #is_/same_as :: [[../../../WikiData/WD~Tsunami,8070|WD~Tsunami,8070]] 
 

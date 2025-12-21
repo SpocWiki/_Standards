@@ -1,31 +1,33 @@
 ---
-excludes: 
+aliases:
+  - FileClass~LinkRole
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Role
 fields:
-- id: 6KoEcn
-  name: InLanguage
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Language')"
-  type: MultiFile
-  path: ''
-- id: N3WExo
-  name: LinkRelationship
-  options: {}
-  type: Input
-  path: ''
+  - id: 6KoEcn
+    name: InLanguage
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Language')
+    type: MultiFile
+    path: ''
+  - id: N3WExo
+    name: LinkRelationship
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/LinkRole
-- class/Thing/Intangible/Role/LinkRole
-- is_a_/LinkRole
-- schema-org/LinkRole
+  - class/LinkRole
+  - class/Thing/Intangible/Role/LinkRole
+  - is_a_/LinkRole
+  - schema-org/LinkRole
 tags:
-- class/FileClass
-- class/LinkRole
-- is_a_/LinkRole
-- class/Thing/Intangible/Role/LinkRole
+  - class/FileClass
+  - class/LinkRole
+  - is_a_/LinkRole
+  - class/Thing/Intangible/Role/LinkRole
 version: 2.0
 ---
 

@@ -1,4 +1,17 @@
 ---
+aliases:
+  - Marshall Islands
+  - Islas Marshall
+  - Îles Marshall
+  - جزر مارشال
+  - 马绍尔群岛
+  - Маршалловы Острова
+  - the Republic of the Marshall Islands
+  - Marshall Islands (the)
+  - la República de las Islas Marshall
+  - Islas Marshall (las)
+  - Marshall_Islands
+has_id_wikidata: Q709
 instance_of:
   - "[[_Standards/WikiData/WD~island_country,112099]]"
   - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
@@ -238,7 +251,6 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%2
 Commons_category: Marshall Islands
 inception: 1986-10-21
 has_time_started: 1986-10-21
-has_id_wikidata: Q709
 location:
   - 9.34833
   - 168.348
@@ -254,23 +266,12 @@ source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
 title: Marshall Islands
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Marshall Islands
-  - Islas Marshall
-  - Îles Marshall
-  - جزر مارشال
-  - 马绍尔群岛
-  - Маршалловы Острова
-  - the Republic of the Marshall Islands
-  - Marshall Islands (the)
-  - la República de las Islas Marshall
-  - Islas Marshall (las)
+publishDate: ""
+expiryDate: ""
 Languages:
   - mh
   - en-MH

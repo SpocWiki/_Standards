@@ -4,20 +4,22 @@ aliases:
   - site_navigation_element
   - SiteNavigationElement
   - is_a_site_navigation_element
+  - Site_Navigation_Element
+  - Site Navigation Element
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - site_navigation_element
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_site_navigation_element Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~AuthorizeAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction
 fields:
-- id: L4usjN
-  name: Recipient
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Audience')"
-  type: MultiFile
-  path: ''
+  - id: L4usjN
+    name: Recipient
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/AuthorizeAction
-- class/Thing/Action/OrganizeAction/AllocateAction/AuthorizeAction
-- is_an_/AuthorizeAction
-- schema-org/AuthorizeAction
+  - class/AuthorizeAction
+  - class/Thing/Action/OrganizeAction/AllocateAction/AuthorizeAction
+  - is_an_/AuthorizeAction
+  - schema-org/AuthorizeAction
 tags:
-- class/FileClass
-- class/AuthorizeAction
-- '#is_an_/AuthorizeAction'
-- class/Thing/Action/OrganizeAction/AllocateAction/AuthorizeAction
+  - class/FileClass
+  - class/AuthorizeAction
+  - '#is_an_/AuthorizeAction'
+  - class/Thing/Action/OrganizeAction/AllocateAction/AuthorizeAction
 version: 2.0
 ---
 

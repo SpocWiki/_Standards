@@ -1,8 +1,9 @@
 ---
 aliases:
-- "Juli Zeh"
-- "Julia Barbara Finck"
-- "Julia Barbara Zeh"
+  - Juli Zeh
+  - Julia Barbara Finck
+  - Julia Barbara Zeh
+  - Zeh,Juli
 ---
 
 # [[Zeh,Juli]] 

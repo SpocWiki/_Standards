@@ -6,59 +6,59 @@ aliases:
   - Luchino Visconti
   - Visconti
 has_id_wikidata: Q13888
-unmarried_partner: "[[_Standards/WikiData/WD~Helmut_Berger,78561]]"
-genre: "[[_Standards/WikiData/WD~Italian_neorealism,167776]]"
+unmarried_partner: '[[_Standards/WikiData/WD~Helmut_Berger,78561]]'
+genre: '[[_Standards/WikiData/WD~Italian_neorealism,167776]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-different_from: "[[_Standards/WikiData/WD~Luchino_Visconti,195825]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+  - '[[_Standards/WikiData/WD~Italy,38]]'
+different_from: '[[_Standards/WikiData/WD~Luchino_Visconti,195825]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Rocco_and_His_Brothers,427186]]"
-  - "[[_Standards/WikiData/WD~Ossessione,547226]]"
-  - "[[_Standards/WikiData/WD~The_Leopard,596623]]"
-  - "[[_Standards/WikiData/WD~The_Damned,637849]]"
-  - "[[_Standards/WikiData/WD~Senso,649600]]"
-  - "[[_Standards/WikiData/WD~Ludwig,700765]]"
-  - "[[_Standards/WikiData/WD~Death_in_Venice,742308]]"
-  - "[[_Standards/WikiData/WD~The_Innocent,1217069]]"
+  - '[[_Standards/WikiData/WD~Rocco_and_His_Brothers,427186]]'
+  - '[[_Standards/WikiData/WD~Ossessione,547226]]'
+  - '[[_Standards/WikiData/WD~The_Leopard,596623]]'
+  - '[[_Standards/WikiData/WD~The_Damned,637849]]'
+  - '[[_Standards/WikiData/WD~Senso,649600]]'
+  - '[[_Standards/WikiData/WD~Ludwig,700765]]'
+  - '[[_Standards/WikiData/WD~Death_in_Venice,742308]]'
+  - '[[_Standards/WikiData/WD~The_Innocent,1217069]]'
 occupation:
-  - "[[_Standards/WikiData/WD~author,482980]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~theatrical_director,3387717]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~theatre_designer,11613590]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - '[[_Standards/WikiData/WD~author,482980]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~theatrical_director,3387717]]'
+  - '[[_Standards/WikiData/WD~director,3455803]]'
+  - '[[_Standards/WikiData/WD~theatre_designer,11613590]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
 award_received:
   - "[[_Standards/WikiData/WD~Nastro_d'Argento_for_the_director_of_the_best_film,1061238]]"
-  - "[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Director,3703463]]"
-father: "[[_Standards/WikiData/WD~Giuseppe_Visconti_di_Modrone,_1st_Duke_of_Grazzano_Visconti,1989649]]"
+  - '[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Director,3703463]]'
+father: '[[_Standards/WikiData/WD~Giuseppe_Visconti_di_Modrone,_1st_Duke_of_Grazzano_Visconti,1989649]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-noble_title: "[[_Standards/WikiData/WD~count,3519259]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-social_classification: "[[_Standards/WikiData/WD~noble,16744001]]"
-family: "[[_Standards/WikiData/WD~House_of_Visconti_di_Modrone,18089044]]"
-student_of: "[[_Standards/WikiData/WD~Lorenzo_de_Paolis,21207773]]"
-family_name: "[[_Standards/WikiData/WD~Visconti,21487897]]"
-position_held: "[[_Standards/WikiData/WD~President_of_the_Jury_at_the_Cannes_Festival,23958341]]"
-given_name: "[[_Standards/WikiData/WD~Luchino,43382329]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-relative: "[[_Standards/WikiData/WD~Giovanni_Gastel,67930607]]"
-mother: "[[_Standards/WikiData/WD~Carla_Erba,76374126]]"
-sibling: "[[_Standards/WikiData/WD~Donna_Uberta_Visconti_di_Modrone,76374141]]"
-residence: "[[_Standards/WikiData/WD~villa_La_Colombaia,124310978]]"
-place_of_burial: "[[_Standards/WikiData/WD~villa_La_Colombaia,124310978]]"
-place_of_birth: "[[_Standards/WikiData/WD~Milan,490]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Italian,652]]"
-sexual_orientation: "[[_Standards/WikiData/WD~homosexuality,6636]]"
-cause_of_death: "[[_Standards/WikiData/WD~stroke,12202]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~Rome,220]]"
-nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+noble_title: '[[_Standards/WikiData/WD~count,3519259]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+social_classification: '[[_Standards/WikiData/WD~noble,16744001]]'
+family: '[[_Standards/WikiData/WD~House_of_Visconti_di_Modrone,18089044]]'
+student_of: '[[_Standards/WikiData/WD~Lorenzo_de_Paolis,21207773]]'
+family_name: '[[_Standards/WikiData/WD~Visconti,21487897]]'
+position_held: '[[_Standards/WikiData/WD~President_of_the_Jury_at_the_Cannes_Festival,23958341]]'
+given_name: '[[_Standards/WikiData/WD~Luchino,43382329]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+relative: '[[_Standards/WikiData/WD~Giovanni_Gastel,67930607]]'
+mother: '[[_Standards/WikiData/WD~Carla_Erba,76374126]]'
+sibling: '[[_Standards/WikiData/WD~Donna_Uberta_Visconti_di_Modrone,76374141]]'
+residence: '[[_Standards/WikiData/WD~villa_La_Colombaia,124310978]]'
+place_of_burial: '[[_Standards/WikiData/WD~villa_La_Colombaia,124310978]]'
+place_of_birth: '[[_Standards/WikiData/WD~Milan,490]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Italian,652]]'
+sexual_orientation: '[[_Standards/WikiData/WD~homosexuality,6636]]'
+cause_of_death: '[[_Standards/WikiData/WD~stroke,12202]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~Rome,220]]'
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
 Commons_category: Luchino Visconti
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/VISKONTI_LUKINO.html
 work_period_start_: 1943-01-01T00:00:00Z
@@ -70,7 +70,7 @@ date_of_death: 1976-03-17T00:00:00Z
 name_in_native_language: Luchino Visconti
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Scudo%20della%20famiglia%20Visconti%20di%20Modrone.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Luchino%20Visconti%201972b.jpg
-ISNI: "0000000121318788"
+ISNI: 0000000121318788
 ---
 
 # [[Luchino_Visconti]] 

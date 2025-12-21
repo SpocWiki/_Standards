@@ -2,17 +2,19 @@
 aliases:
   - Estates_of_the_realm
   - estates of the realm, or three estates
+  - Estates_of_the_Realm
+  - Estates of the Realm
 has_id_wikidata: Q657326
 has_part_s_:
-  - "[[_Standards/WikiData/WD~nobility,134737]]"
-  - "[[_Standards/WikiData/WD~clergy,177826]]"
-  - "[[_Standards/WikiData/WD~Third_Estate,909656]]"
-subclass_of: "[[_Standards/WikiData/WD~social_class,187588]]"
-different_from: "[[_Standards/WikiData/WD~Stan,292230]]"
-part_of: "[[_Standards/WikiData/WD~tripartite_society,587666]]"
-described_by_source: "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~estate_of_the_realm,127871326]]"
-U_S_National_Archives_Identifier: "10638357"
+  - '[[_Standards/WikiData/WD~nobility,134737]]'
+  - '[[_Standards/WikiData/WD~clergy,177826]]'
+  - '[[_Standards/WikiData/WD~Third_Estate,909656]]'
+subclass_of: '[[_Standards/WikiData/WD~social_class,187588]]'
+different_from: '[[_Standards/WikiData/WD~Stan,292230]]'
+part_of: '[[_Standards/WikiData/WD~tripartite_society,587666]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~estate_of_the_realm,127871326]]'
+U_S_National_Archives_Identifier: 10638357
 Provenio_UUID:
   - 5855b64c-db1b-4550-9a3a-d481aef17b78
   - 7c62e9be-6be5-4f38-b9de-cecdcba8054a

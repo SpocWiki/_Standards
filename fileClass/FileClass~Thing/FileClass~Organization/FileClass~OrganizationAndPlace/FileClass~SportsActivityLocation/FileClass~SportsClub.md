@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~SportsClub
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/SportsClub
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/SportsClub
-- is_a_/SportsClub
-- schema-org/SportsClub
+  - class/SportsClub
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/SportsClub
+  - is_a_/SportsClub
+  - schema-org/SportsClub
 tags:
-- class/FileClass
-- class/SportsClub
-- is_a_/SportsClub
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/SportsClub
+  - class/FileClass
+  - class/SportsClub
+  - is_a_/SportsClub
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/SportsClub
 version: 2.0
 ---
 

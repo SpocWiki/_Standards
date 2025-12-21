@@ -1,193 +1,195 @@
 ---
-bookmarksGroups: 
-excludes: 
-extends: 
-favoriteView: 
+aliases:
+  - FileClass~Thing
+bookmarksGroups: ''
+excludes: ''
+extends: ''
+favoriteView: ''
 fields:
-- id: eVmlNP
-  name: Name
-  options: {}
-  type: Input
-  path: ''
-- id: VA7ToR
-  name: Description
-  options: {}
-  type: Input
-  path: ''
-- id: 0liZzI
-  name: AdditionalType
-  options: {}
-  type: Input
-  path: ''
-- id: Dkb6pX
-  name: AlternateName
-  options: {}
-  type: Input
-  path: ''
-- id: lw8src
-  name: DisambiguatingDescription
-  options: {}
-  type: Input
-  path: ''
-- id: jPPe2V
-  name: Identifier
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"
-  type: MultiFile
-  path: ''
-- id: k4Cbhq
-  name: Image
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"
-  type: MultiFile
-  path: ''
-- id: CoRJPY
-  name: MainEntityOfPage
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
-  type: MultiFile
-  path: ''
-- id: lragLx
-  name: PotentialAction
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Action')"
-  type: MultiFile
-  path: ''
-- id: Bu0LaZ
-  name: SubjectOf
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
-  type: MultiFile
-  path: ''
-- id: V6BgOl
-  name: Url
-  options: {}
-  type: Input
-  path: ''
-- id: F26YLd
-  name: is_a
-  options:
-    dvQueryString: "dv.pages('#class/Class')"
-  type: File
-  path: ''
-- id: GSMPIa
-  name: fileClass
-  options:
-    dvQueryString: "dv.pages('#class/FileClass')"
-  type: File
-  path: ''
-- id: Jza665
-  name: has_time_started
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: slq0qJ
-  name: has_time_destroyed
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: pWnIi6
-  name: has_creator
-  options: {}
-  type: Input
-  path: ''
-- id: XTOfSf
-  name: has_destroyer
-  options: {}
-  type: Input
-  path: ''
-- id: 7hDUzU
-  name: has_place_created
-  options: {}
-  type: Input
-  path: ''
-- id: ju8s3c
-  name: has_place_destroyed
-  options: {}
-  type: Input
-  path: ''
-- name: is_similar_to
-  type: File
-  options: {}
-  path: ''
-  id: ij9X2L
-- name: is_different_from
-  type: File
-  options: {}
-  path: ''
-  id: nKuqCm
-- name: is_same_as
-  type: File
-  options: {}
-  path: ''
-  id: mEQ8uX
-- name: is_related_to
-  type: MultiFile
-  options: {}
-  path: ''
-  id: SwAI2c
-- name: keywords
-  type: Input
-  options: {}
-  path: ''
-  id: HbCFr3
-- name: aliases
-  type: Input
-  options:
-    template: '[]'
-  path: ''
-  id: t0PUZk
-- name: has_id_wikidata
-  type: Input
-  options:
-    template: Q###
-  path: ''
-  id: eGgepX
+  - id: eVmlNP
+    name: Name
+    options: {}
+    type: Input
+    path: ''
+  - id: VA7ToR
+    name: Description
+    options: {}
+    type: Input
+    path: ''
+  - id: 0liZzI
+    name: AdditionalType
+    options: {}
+    type: Input
+    path: ''
+  - id: Dkb6pX
+    name: AlternateName
+    options: {}
+    type: Input
+    path: ''
+  - id: lw8src
+    name: DisambiguatingDescription
+    options: {}
+    type: Input
+    path: ''
+  - id: jPPe2V
+    name: Identifier
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
+    type: MultiFile
+    path: ''
+  - id: k4Cbhq
+    name: Image
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
+    type: MultiFile
+    path: ''
+  - id: CoRJPY
+    name: MainEntityOfPage
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ''
+  - id: lragLx
+    name: PotentialAction
+    options:
+      dvQueryString: dv.pages('#class/Thing/Action')
+    type: MultiFile
+    path: ''
+  - id: Bu0LaZ
+    name: SubjectOf
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ''
+  - id: V6BgOl
+    name: Url
+    options: {}
+    type: Input
+    path: ''
+  - id: F26YLd
+    name: is_a
+    options:
+      dvQueryString: dv.pages('#class/Class')
+    type: File
+    path: ''
+  - id: GSMPIa
+    name: fileClass
+    options:
+      dvQueryString: dv.pages('#class/FileClass')
+    type: File
+    path: ''
+  - id: Jza665
+    name: has_time_started
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: slq0qJ
+    name: has_time_destroyed
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: pWnIi6
+    name: has_creator
+    options: {}
+    type: Input
+    path: ''
+  - id: XTOfSf
+    name: has_destroyer
+    options: {}
+    type: Input
+    path: ''
+  - id: 7hDUzU
+    name: has_place_created
+    options: {}
+    type: Input
+    path: ''
+  - id: ju8s3c
+    name: has_place_destroyed
+    options: {}
+    type: Input
+    path: ''
+  - name: is_similar_to
+    type: File
+    options: {}
+    path: ''
+    id: ij9X2L
+  - name: is_different_from
+    type: File
+    options: {}
+    path: ''
+    id: nKuqCm
+  - name: is_same_as
+    type: File
+    options: {}
+    path: ''
+    id: mEQ8uX
+  - name: is_related_to
+    type: MultiFile
+    options: {}
+    path: ''
+    id: SwAI2c
+  - name: keywords
+    type: Input
+    options: {}
+    path: ''
+    id: HbCFr3
+  - name: aliases
+    type: Input
+    options:
+      template: '[]'
+    path: ''
+    id: t0PUZk
+  - name: has_id_wikidata
+    type: Input
+    options:
+      template: Q###
+    path: ''
+    id: eGgepX
 fieldsOrder:
-- eGgepX
-- t0PUZk
-- HbCFr3
-- SwAI2c
-- mEQ8uX
-- nKuqCm
-- ij9X2L
-- ju8s3c
-- 7hDUzU
-- XTOfSf
-- pWnIi6
-- slq0qJ
-- Jza665
-- GSMPIa
-- F26YLd
-- V6BgOl
-- Bu0LaZ
-- lragLx
-- CoRJPY
-- k4Cbhq
-- jPPe2V
-- lw8src
-- Dkb6pX
-- 0liZzI
-- VA7ToR
-- eVmlNP
-filesPaths: 
+  - eGgepX
+  - t0PUZk
+  - HbCFr3
+  - SwAI2c
+  - mEQ8uX
+  - nKuqCm
+  - ij9X2L
+  - ju8s3c
+  - 7hDUzU
+  - XTOfSf
+  - pWnIi6
+  - slq0qJ
+  - Jza665
+  - GSMPIa
+  - F26YLd
+  - V6BgOl
+  - Bu0LaZ
+  - lragLx
+  - CoRJPY
+  - k4Cbhq
+  - jPPe2V
+  - lw8src
+  - Dkb6pX
+  - 0liZzI
+  - VA7ToR
+  - eVmlNP
+filesPaths: ''
 icon: cloud
 limit: 9
 mapWithTag: true
 savedViews: []
 tagNames:
-- class/Thing
-- class/Thing
-- schema-org/Thing
+  - class/Thing
+  - class/Thing
+  - schema-org/Thing
 tags:
-- class/FileClass
-- class/Thing
-- '#is_a_/Thing'
-- class/Thing
+  - class/FileClass
+  - class/Thing
+  - '#is_a_/Thing'
+  - class/Thing
 version: 2.13
 ---
 

@@ -4,51 +4,52 @@ aliases:
   - gear
   - gearwheel
   - gear train
+  - Cogwheel
 has_id_wikidata: Q143873
-instance_of: "[[_Standards/WikiData/WD~simple_machine,186713]]"
+instance_of: '[[_Standards/WikiData/WD~simple_machine,186713]]'
 different_from:
-  - "[[_Standards/WikiData/WD~undercarriage,263421]]"
-  - "[[_Standards/WikiData/WD~sheave,1057381]]"
-  - "[[_Standards/WikiData/WD~gear_train,2644088]]"
-  - "[[_Standards/WikiData/WD~Gear,21958357]]"
+  - '[[_Standards/WikiData/WD~undercarriage,263421]]'
+  - '[[_Standards/WikiData/WD~sheave,1057381]]'
+  - '[[_Standards/WikiData/WD~gear_train,2644088]]'
+  - '[[_Standards/WikiData/WD~Gear,21958357]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~cast_iron,483269]]"
-  - "[[_Standards/WikiData/WD~alloy_steel,1070521]]"
-  - "[[_Standards/WikiData/WD~plastic,11474]]"
+  - '[[_Standards/WikiData/WD~cast_iron,483269]]'
+  - '[[_Standards/WikiData/WD~alloy_steel,1070521]]'
+  - '[[_Standards/WikiData/WD~plastic,11474]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~_Kyrgyzstan_national_encyclopedia,16679904]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~_Kyrgyzstan_national_encyclopedia,16679904]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 part_of:
-  - "[[_Standards/WikiData/WD~rear_derailleur,2230729]]"
-  - "[[_Standards/WikiData/WD~gear_train,2644088]]"
-  - "[[_Standards/WikiData/WD~gearbox,6497460]]"
-  - "[[_Standards/WikiData/WD~rack_and_pinion_steering,106121071]]"
+  - '[[_Standards/WikiData/WD~rear_derailleur,2230729]]'
+  - '[[_Standards/WikiData/WD~gear_train,2644088]]'
+  - '[[_Standards/WikiData/WD~gearbox,6497460]]'
+  - '[[_Standards/WikiData/WD~rack_and_pinion_steering,106121071]]'
 has_use:
-  - "[[_Standards/WikiData/WD~gearbox,6497460]]"
-  - "[[_Standards/WikiData/WD~physical_interface,64830866]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Gears,8072112]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~tooth,47450777]]"
+  - '[[_Standards/WikiData/WD~gearbox,6497460]]'
+  - '[[_Standards/WikiData/WD~physical_interface,64830866]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Gears,8072112]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~tooth,47450777]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~gear,64355242]]"
-  - "[[_Standards/WikiData/WD~gear,71532044]]"
-has_part_s_: "[[_Standards/WikiData/WD~gear_tooth,109530223]]"
-subclass_of: "[[_Standards/WikiData/WD~wheel,446]]"
-Nomenclature_for_Museum_Cataloging: "8918"
-OmegaWiki_Defined_Meaning: "501082"
+  - '[[_Standards/WikiData/WD~gear,64355242]]'
+  - '[[_Standards/WikiData/WD~gear,71532044]]'
+has_part_s_: '[[_Standards/WikiData/WD~gear_tooth,109530223]]'
+subclass_of: '[[_Standards/WikiData/WD~wheel,446]]'
+Nomenclature_for_Museum_Cataloging: 8918
+OmegaWiki_Defined_Meaning: 501082
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Engranajesreductores.JPG
   - http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20Gears%2035041.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Spur%20Gear%2012mm%2C%2018t.svg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Zahnrad%2020230523%20001.stl
 Unicode_character: ⚙
-P8189: "987007560570205171"
+P8189: 987007560570205171
 Commons_category: Gears
 ---
 

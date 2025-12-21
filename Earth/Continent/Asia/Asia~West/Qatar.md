@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Qatar
+  - قطر
+  - 卡塔尔
+  - Катар
+  - the State of Qatar
+  - el Estado de Qatar
+has_id_wikidata: Q846
 member_of:
   - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
   - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
@@ -251,7 +259,7 @@ UMLS_CUI: C0034366
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Qatar%20location%20map.svg
 ISNI: 120973908
 satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Clear%20Skies%20over%20Qatar%20%28MODIS%29.jpg
-inception: "1870"
+inception: 1870
 has_time_started: 1870-06
 Facebook_username: AmiriDiwan
 X_Twitter_username: AmiriDiwan
@@ -263,7 +271,6 @@ nominal_GDP:
 seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Qatar-2022.svg
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Qatar-2022.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Doha%20West%20Bay.jpg
-has_id_wikidata: Q846
 location:
   - 25.28
   - 51.53
@@ -280,19 +287,12 @@ cssclasses:
   - Country
 publish: true
 title: Qatar
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Qatar
-  - قطر
-  - 卡塔尔
-  - Катар
-  - the State of Qatar
-  - el Estado de Qatar
+publishDate: ""
+expiryDate: ""
 Languages:
   - ar-QA
   - es

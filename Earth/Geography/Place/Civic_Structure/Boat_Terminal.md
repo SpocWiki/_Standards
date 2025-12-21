@@ -4,20 +4,22 @@ aliases:
   - boat_terminal
   - BoatTerminal
   - is_a_boat_terminal
+  - Boat_Terminal
+  - Boat Terminal
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - boat_terminal
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_boat_terminal Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

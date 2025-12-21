@@ -2,22 +2,23 @@
 aliases:
   - Zusammenleben
   - Eheähnliche Gemeinschaft
+  - Cohabitation
 has_id_wikidata: Q49800
 different_from:
-  - "[[_Standards/WikiData/WD~cohabitation,1009796]]"
-  - "[[_Standards/WikiData/WD~shared_apartment,24238856]]"
-  - "[[_Standards/WikiData/WD~cohabitation,50478939]]"
+  - '[[_Standards/WikiData/WD~cohabitation,1009796]]'
+  - '[[_Standards/WikiData/WD~shared_apartment,24238856]]'
+  - '[[_Standards/WikiData/WD~cohabitation,50478939]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~indefinite_legal_concept,1512368]]"
+  - '[[_Standards/WikiData/WD~indefinite_legal_concept,1512368]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~domestic_partnership,3449014]]"
-  - "[[_Standards/WikiData/WD~free_union,3550316]]"
-  - "[[_Standards/WikiData/WD~Q28382149,28382149]]"
+  - '[[_Standards/WikiData/WD~domestic_partnership,3449014]]'
+  - '[[_Standards/WikiData/WD~free_union,3550316]]'
+  - '[[_Standards/WikiData/WD~Q28382149,28382149]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~domestic_partnership,3449014]]"
-described_by_source: "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - '[[_Standards/WikiData/WD~domestic_partnership,3449014]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
 Wikidata_property: unmarried partner
-OmegaWiki_Defined_Meaning: "1232073"
+OmegaWiki_Defined_Meaning: 1232073
 Commons_category: Cohabitation
 ---
 

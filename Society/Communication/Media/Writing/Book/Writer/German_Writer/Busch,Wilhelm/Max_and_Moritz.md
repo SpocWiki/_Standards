@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Max und Moritz"
+  - Max und Moritz
+  - Max_and_Moritz
+  - Max and Moritz
 ---
 
 #has_/creator :: [[../Busch,Wilhelm]] 

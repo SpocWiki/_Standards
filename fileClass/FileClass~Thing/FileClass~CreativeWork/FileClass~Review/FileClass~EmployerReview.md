@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~EmployerReview
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/EmployerReview
-- class/Thing/CreativeWork/Review/EmployerReview
-- is_an_/EmployerReview
-- schema-org/EmployerReview
+  - class/EmployerReview
+  - class/Thing/CreativeWork/Review/EmployerReview
+  - is_an_/EmployerReview
+  - schema-org/EmployerReview
 tags:
-- class/FileClass
-- class/EmployerReview
-- '#is_an_/EmployerReview'
-- class/Thing/CreativeWork/Review/EmployerReview
+  - class/FileClass
+  - class/EmployerReview
+  - '#is_an_/EmployerReview'
+  - class/Thing/CreativeWork/Review/EmployerReview
 version: 2.0
 ---
 

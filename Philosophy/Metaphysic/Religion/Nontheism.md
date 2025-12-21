@@ -1,8 +1,9 @@
 ---
 aliases:
   - non-theism
+  - Nontheism
 has_id_wikidata: Q871396
-subclass_of: "[[_Standards/WikiData/WD~belief,34394]]"
+subclass_of: '[[_Standards/WikiData/WD~belief,34394]]'
 ---
 
 # [[Nontheism]] 

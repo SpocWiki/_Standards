@@ -2,6 +2,7 @@
 aliases:
   - Küchenutensil
   - Küchenutensilien
+  - Kitchenware
 has_id_wikidata: Q1521410
 ---
 # [[Kitchenware]] 

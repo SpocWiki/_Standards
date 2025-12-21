@@ -2,6 +2,7 @@
 aliases:
   - Pilz
   - toadstool
+  - Mushroom
 has_id_wikidata: Q83093
 different_from: "[[_Standards/WikiData/WD~Aethalops,581985]]"
 has_part_s_:
@@ -26,7 +27,7 @@ properties_for_this_type:
   - stipe character
   - edibility
   - mushroom ecological type
-OmegaWiki_Defined_Meaning: "2444"
+OmegaWiki_Defined_Meaning: 2444
 Commons_category: Mushrooms
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Amanita%20muscaria%20%28fly%20agaric%29.JPG
 Unicode_character:
@@ -38,11 +39,11 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Ramjit%20Tudu-%E1%B1%A9%E1%B1%AB.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-ziza.wav
 exact_match: http://purl.obolibrary.org/obo/ENVO_02000072
-Common_Procurement_Vocabulary_code: "03221260"
+Common_Procurement_Vocabulary_code: 3221260
 vocalized_name: פִּטְרִיָּה
 ---
 
-# [[Mushroom]] 
+# [[Mushroom]] 🍄 
 
 #is_/same_as :: [[WD~Mushroom,83093]] 
 

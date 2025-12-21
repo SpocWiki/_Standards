@@ -1,26 +1,26 @@
 ---
 aliases:
-- Cleveland,Grover
-- "Grover Cleveland"
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Cleveland,Grover
+  - Grover Cleveland
+  - ''
 has_id_wikidata: Q35171
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Cleveland,Grover
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Cleveland,Grover
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Cleveland,Grover
-- 
+  - Cleveland,Grover
+  - ''
 title: Cleveland,Grover
 type: private_note
 ---

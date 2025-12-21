@@ -1,6 +1,7 @@
 ---
 aliases:
   - Scientists
+  - Scientist
 has_id_wikidata: Q901
 male_form_of_label:
   - عالم
@@ -59,39 +60,39 @@ female_form_of_label:
   - científica
   - cientista
 uses:
-  - "[[_Standards/WikiData/WD~scientific_term,999234]]"
-  - "[[_Standards/WikiData/WD~academic_conference,2020153]]"
-  - "[[_Standards/WikiData/WD~scientific_literature,12042160]]"
-  - "[[_Standards/WikiData/WD~scientific_terminology,12132640]]"
-  - "[[_Standards/WikiData/WD~scientific_method,46857]]"
-  - "[[_Standards/WikiData/WD~philosophy_of_science,59115]]"
+  - '[[_Standards/WikiData/WD~scientific_term,999234]]'
+  - '[[_Standards/WikiData/WD~academic_conference,2020153]]'
+  - '[[_Standards/WikiData/WD~scientific_literature,12042160]]'
+  - '[[_Standards/WikiData/WD~scientific_terminology,12132640]]'
+  - '[[_Standards/WikiData/WD~scientific_method,46857]]'
+  - '[[_Standards/WikiData/WD~philosophy_of_science,59115]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~researcher,1650915]]"
-  - "[[_Standards/WikiData/WD~scholar,20826540]]"
+  - '[[_Standards/WikiData/WD~researcher,1650915]]'
+  - '[[_Standards/WikiData/WD~scholar,20826540]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~researcher,1650915]]"
-  - "[[_Standards/WikiData/WD~scholar,20826540]]"
-has_list: "[[_Standards/WikiData/WD~lists_of_scientists,3849895]]"
+  - '[[_Standards/WikiData/WD~researcher,1650915]]'
+  - '[[_Standards/WikiData/WD~scholar,20826540]]'
+has_list: '[[_Standards/WikiData/WD~lists_of_scientists,3849895]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~position,4164871]]"
-  - "[[_Standards/WikiData/WD~profession,28640]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_scientist,5624818]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-has_effect: "[[_Standards/WikiData/WD~scientific_viewpoint,30046708]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_University_of_Washington,98970039]]"
-described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-field_of_this_occupation: "[[_Standards/WikiData/WD~science,336]]"
+  - '[[_Standards/WikiData/WD~position,4164871]]'
+  - '[[_Standards/WikiData/WD~profession,28640]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_scientist,5624818]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+has_effect: '[[_Standards/WikiData/WD~scientific_viewpoint,30046708]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_University_of_Washington,98970039]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~science,336]]'
 properties_for_this_type:
   - ORCID iD
   - ResearcherID
   - interested in
   - educated at
   - field of work
-U_S_National_Archives_Identifier: "10642294"
+U_S_National_Archives_Identifier: 10642294
 IMDb_keyword: scientist
-OmegaWiki_Defined_Meaning: "342445"
+OmegaWiki_Defined_Meaning: 342445
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Researchers%20in%20laboratory.jpg
-Dewey_Decimal_Classification: "001.4092"
+Dewey_Decimal_Classification: 001.4092
 Commons_category: Scientists
 Archive_of_Our_Own_tag: Scientists
 equivalent_class: http://dbpedia.org/ontology/Scientist

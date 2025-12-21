@@ -1,27 +1,28 @@
 ---
 aliases:
-- has_spouse
-- "schema:spouse"
-- "dbo:spouse"
-- "wdt:P26"
+  - has_spouse
+  - schema:spouse
+  - dbo:spouse
+  - wdt:P26
+  - has spouse
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- spouse
-layout: 
-license: "CC BY-SA 4.0"
+  - spouse
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_spouse
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_spouse
 type: Predi_Relation
 ---

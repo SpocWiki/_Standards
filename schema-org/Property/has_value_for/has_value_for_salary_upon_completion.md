@@ -4,21 +4,22 @@ aliases:
   - salary-upon-completion
   - salaryUponCompletion
   - has_value_for_salary_upon_completion
+  - has value for salary upon completion
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - salary-upon-completion
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_salary-upon-completion
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

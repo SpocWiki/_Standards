@@ -4,21 +4,23 @@ aliases:
   - tobacco_nicotine_consideration
   - TobaccoNicotineConsideration
   - is_a_tobacco_nicotine_consideration
+  - Tobacco_Nicotine_Consideration
+  - Tobacco Nicotine Consideration
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: AdultOrientedEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - tobacco_nicotine_consideration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_tobacco_nicotine_consideration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

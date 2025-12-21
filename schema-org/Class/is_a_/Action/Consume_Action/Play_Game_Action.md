@@ -4,20 +4,22 @@ aliases:
   - play_game_action
   - PlayGameAction
   - is_a_play_game_action
+  - Play_Game_Action
+  - Play Game Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - play_game_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_play_game_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

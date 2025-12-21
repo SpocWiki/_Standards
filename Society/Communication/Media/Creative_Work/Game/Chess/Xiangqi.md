@@ -2,21 +2,22 @@
 aliases:
   - 象棋
   - xiàngqí
-  - Chinese chess 
+  - Chinese chess
   - elephant chess
+  - Xiangqi
 has_id_wikidata: Q191448
 instance_of:
-  - "[[_Standards/WikiData/WD~board_game,131436]]"
-  - "[[_Standards/WikiData/WD~chess_variant,299191]]"
-  - "[[_Standards/WikiData/WD~two_player_game,7858742]]"
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
+  - '[[_Standards/WikiData/WD~board_game,131436]]'
+  - '[[_Standards/WikiData/WD~chess_variant,299191]]'
+  - '[[_Standards/WikiData/WD~two_player_game,7858742]]'
+  - '[[_Standards/WikiData/WD~hobby,47728]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~mind_sport,1188693]]"
-  - "[[_Standards/WikiData/WD~chess,718]]"
-derivative_work: "[[_Standards/WikiData/WD~simplified_mahjong,3277759]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828553,22828553]]"
-practiced_by: "[[_Standards/WikiData/WD~xiangqi_player,117134067]]"
+  - '[[_Standards/WikiData/WD~mind_sport,1188693]]'
+  - '[[_Standards/WikiData/WD~chess,718]]'
+derivative_work: '[[_Standards/WikiData/WD~simplified_mahjong,3277759]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828553,22828553]]'
+practiced_by: '[[_Standards/WikiData/WD~xiangqi_player,117134067]]'
 country_of_origin: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 maximum_number_of_players: 2
 minimum_number_of_players: 2

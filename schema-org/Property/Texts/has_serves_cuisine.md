@@ -4,22 +4,24 @@ aliases:
   - serves_cuisine
   - servesCuisine
   - has_text_of_serves_cuisine
+  - has_serves_cuisine
+  - has serves cuisine
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - serves
   - cuisine
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_serves_cuisine
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

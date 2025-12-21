@@ -4,21 +4,23 @@ aliases:
   - wearable_size_group_maternity
   - WearableSizeGroupMaternity
   - is_a_wearable_size_group_maternity
+  - Wearable_Size_Group_Maternity
+  - Wearable Size Group Maternity
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableSizeGroupEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_size_group_maternity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_size_group_maternity Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

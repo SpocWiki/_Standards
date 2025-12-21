@@ -6,30 +6,30 @@ aliases:
   - Pacific Theater
 has_id_wikidata: Q184425
 has_effect:
-  - "[[_Standards/WikiData/WD~Empire_of_Japan,188712]]"
-  - "[[_Standards/WikiData/WD~Allies_of_World_War_II,329888]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
+  - '[[_Standards/WikiData/WD~Empire_of_Japan,188712]]'
+  - '[[_Standards/WikiData/WD~Allies_of_World_War_II,329888]]'
+  - '[[_Standards/WikiData/WD~Europe,46]]'
 participant:
-  - "[[_Standards/WikiData/WD~Empire_of_Japan,188712]]"
-  - "[[_Standards/WikiData/WD~Dominion_of_New_Zealand,2594990]]"
-  - "[[_Standards/WikiData/WD~China,13426199]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~Thailand,869]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Netherlands,55]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-instance_of: "[[_Standards/WikiData/WD~theater_of_war,718893]]"
+  - '[[_Standards/WikiData/WD~Empire_of_Japan,188712]]'
+  - '[[_Standards/WikiData/WD~Dominion_of_New_Zealand,2594990]]'
+  - '[[_Standards/WikiData/WD~China,13426199]]'
+  - '[[_Standards/WikiData/WD~Australia,408]]'
+  - '[[_Standards/WikiData/WD~Thailand,869]]'
+  - '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+  - '[[_Standards/WikiData/WD~Canada,16]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Netherlands,55]]'
+  - '[[_Standards/WikiData/WD~Mexico,96]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+instance_of: '[[_Standards/WikiData/WD~theater_of_war,718893]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~South_West_Pacific_theater_of_World_War_II,2423295]]"
-  - "[[_Standards/WikiData/WD~Pacific_Ocean_Theater_of_World_War_II,2920892]]"
+  - '[[_Standards/WikiData/WD~South_West_Pacific_theater_of_World_War_II,2423295]]'
+  - '[[_Standards/WikiData/WD~Pacific_Ocean_Theater_of_World_War_II,2920892]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Greater_East_Asia_War,3846875]]"
-  - "[[_Standards/WikiData/WD~Asia_Pacific_War,11283334]]"
-  - "[[_Standards/WikiData/WD~Far_East_War,11541462]]"
-location: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+  - '[[_Standards/WikiData/WD~Greater_East_Asia_War,3846875]]'
+  - '[[_Standards/WikiData/WD~Asia_Pacific_War,11283334]]'
+  - '[[_Standards/WikiData/WD~Far_East_War,11541462]]'
+location: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
 end_time: 1945-09-02T00:00:00Z
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Pearl%20harbor%20banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/US%20landings.jpg

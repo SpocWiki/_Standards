@@ -1,6 +1,7 @@
 ---
 aliases:
   - Folge
+  - Sequence
 has_id_wikidata: Q133250
 said_to_be_the_same_as:
   - "[[_Standards/WikiData/WD~arithmetic_function,140744]]"
@@ -22,7 +23,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~function,11348]]"
 definition_domain: "[[_Standards/WikiData/WD~set_of_non_negative_integers,28777634]]"
 Wikidata_property: part of the series
-OmegaWiki_Defined_Meaning: "475754"
+OmegaWiki_Defined_Meaning: 475754
 Commons_gallery: Sequence
 Commons_category: Sequence
 equivalent_class: https://schema.org/Series

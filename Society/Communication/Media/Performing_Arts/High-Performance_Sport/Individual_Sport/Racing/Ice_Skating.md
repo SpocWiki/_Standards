@@ -1,26 +1,28 @@
 ---
 aliases:
   - Ice skating
+  - Ice_Skating
+  - Ice Skating
 has_id_wikidata: Q779272
-uses: "[[_Standards/WikiData/WD~ice_skate,108640]]"
+uses: '[[_Standards/WikiData/WD~ice_skate,108640]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~skating,14300548]]"
-  - "[[_Standards/WikiData/WD~ice_sport,31883501]]"
+  - '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+  - '[[_Standards/WikiData/WD~skating,14300548]]'
+  - '[[_Standards/WikiData/WD~ice_sport,31883501]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-practiced_by: "[[_Standards/WikiData/WD~ice_skater,9394993]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Ice_skating,17585105]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-OmegaWiki_Defined_Meaning: "381702"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+practiced_by: '[[_Standards/WikiData/WD~ice_skater,9394993]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ice_skating,17585105]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+OmegaWiki_Defined_Meaning: 381702
 Stadtwiki_Dresden_article: Schlittschuhlaufen
 Commons_gallery: Ice skating
 Commons_category: Ice skating
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Ice%20Skating%20-%20The%20Noun%20Project.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Korpi%2009euro%20by%20Carmichael.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Norrviken%20skridsko%20banner%20002.JPG
-Dewey_Decimal_Classification: "796.91"
+Dewey_Decimal_Classification: 796.91
 subreddit: iceskating
 OpenStreetMap_key: ice_skates
 OpenStreetMap_tag: sport=ice_skating

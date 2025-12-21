@@ -2,8 +2,10 @@
 aliases:
   - studio system
   - studio_system
+  - Film-Studio_System
+  - Film-Studio System
 has_id_wikidata: Q11307668
-subclass_of: "[[_Standards/WikiData/WD~filmmaking,932586]]"
+subclass_of: '[[_Standards/WikiData/WD~filmmaking,932586]]'
 ---
 
 # [[Film-Studio_System]] 

@@ -1,30 +1,31 @@
 ---
 aliases:
   - ecosphere
+  - Biosphere
 has_id_wikidata: Q42762
 studied_by:
-  - "[[_Standards/WikiData/WD~environmental_science,188847]]"
-  - "[[_Standards/WikiData/WD~biospherology,12535564]]"
-  - "[[_Standards/WikiData/WD~global_change_biology,104180455]]"
-has_characteristic: "[[_Standards/WikiData/WD~sustainability,219416]]"
+  - '[[_Standards/WikiData/WD~environmental_science,188847]]'
+  - '[[_Standards/WikiData/WD~biospherology,12535564]]'
+  - '[[_Standards/WikiData/WD~global_change_biology,104180455]]'
+has_characteristic: '[[_Standards/WikiData/WD~sustainability,219416]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Earthling,1349305]]"
-  - "[[_Standards/WikiData/WD~biogeocenosis,2626809]]"
-  - "[[_Standards/WikiData/WD~ecosphere,3175157]]"
-  - "[[_Standards/WikiData/WD~forest,4421]]"
-  - "[[_Standards/WikiData/WD~human,5]]"
-instance_of: "[[_Standards/WikiData/WD~geographic_envelope,2627400]]"
-described_by_source: "[[_Standards/WikiData/WD~Bicho,9656924]]"
-different_from: "[[_Standards/WikiData/WD~artificial_biosphere,19601179]]"
-subclass_of: "[[_Standards/WikiData/WD~spatial_region,26713767]]"
-part_of: "[[_Standards/WikiData/WD~Earth,2]]"
-OmegaWiki_Defined_Meaning: "392"
+  - '[[_Standards/WikiData/WD~Earthling,1349305]]'
+  - '[[_Standards/WikiData/WD~biogeocenosis,2626809]]'
+  - '[[_Standards/WikiData/WD~ecosphere,3175157]]'
+  - '[[_Standards/WikiData/WD~forest,4421]]'
+  - '[[_Standards/WikiData/WD~human,5]]'
+instance_of: '[[_Standards/WikiData/WD~geographic_envelope,2627400]]'
+described_by_source: '[[_Standards/WikiData/WD~Bicho,9656924]]'
+different_from: '[[_Standards/WikiData/WD~artificial_biosphere,19601179]]'
+subclass_of: '[[_Standards/WikiData/WD~spatial_region,26713767]]'
+part_of: '[[_Standards/WikiData/WD~Earth,2]]'
+OmegaWiki_Defined_Meaning: 392
 Biology_Online_Biology_Dictionary_entry: biosphere
-UNSPSC_Code: "60103918"
+UNSPSC_Code: 60103918
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Biosferas%20uzbuve.jpg
 Commons_category: Biosphere
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Biosphere-icon.png
-Dewey_Decimal_Classification: "333.95"
+Dewey_Decimal_Classification: 333.95
 Krugosvet_article: nauka_i_tehnika/biologiya/BIOSFERA.html
 ---
 

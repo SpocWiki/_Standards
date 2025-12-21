@@ -3,23 +3,24 @@ aliases:
   - has sd-license
   - sdLicense
   - has_sd_license
+  - has sd license
 confidential: public
 cssclasses:
   - sd_license
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sd
   - license
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_sd_license
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

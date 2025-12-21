@@ -2,8 +2,10 @@
 aliases:
   - physical optics, or wave optics
   - Physical_Optics
+  - Wave_Optics
+  - Wave Optics
 has_id_wikidata: Q942347
-subclass_of: "[[_Standards/WikiData/WD~optics,14620]]"
+subclass_of: '[[_Standards/WikiData/WD~optics,14620]]'
 Commons_category: Wave mechanics
 ---
 

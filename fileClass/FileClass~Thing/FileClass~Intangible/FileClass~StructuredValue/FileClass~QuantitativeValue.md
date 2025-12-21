@@ -1,56 +1,58 @@
 ---
-excludes: 
+aliases:
+  - FileClass~QuantitativeValue
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-- id: D8aXjM
-  name: AdditionalProperty
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"
-  type: MultiFile
-  path: ''
-- id: xipCfp
-  name: MaxValue
-  options: {}
-  type: Number
-  path: ''
-- id: KRDPSA
-  name: MinValue
-  options: {}
-  type: Number
-  path: ''
-- id: T0aFZn
-  name: UnitCode
-  options: {}
-  type: Input
-  path: ''
-- id: lzxo5t
-  name: UnitText
-  options: {}
-  type: Input
-  path: ''
-- id: Dc4Vpy
-  name: Value
-  options: {}
-  type: Boolean
-  path: ''
-- id: NeSaK0
-  name: ValueReference
-  options: {}
-  type: Input
-  path: ''
+  - id: D8aXjM
+    name: AdditionalProperty
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
+    type: MultiFile
+    path: ''
+  - id: xipCfp
+    name: MaxValue
+    options: {}
+    type: Number
+    path: ''
+  - id: KRDPSA
+    name: MinValue
+    options: {}
+    type: Number
+    path: ''
+  - id: T0aFZn
+    name: UnitCode
+    options: {}
+    type: Input
+    path: ''
+  - id: lzxo5t
+    name: UnitText
+    options: {}
+    type: Input
+    path: ''
+  - id: Dc4Vpy
+    name: Value
+    options: {}
+    type: Boolean
+    path: ''
+  - id: NeSaK0
+    name: ValueReference
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/QuantitativeValue
-- class/Thing/Intangible/StructuredValue/QuantitativeValue
-- is_a_/QuantitativeValue
-- schema-org/QuantitativeValue
+  - class/QuantitativeValue
+  - class/Thing/Intangible/StructuredValue/QuantitativeValue
+  - is_a_/QuantitativeValue
+  - schema-org/QuantitativeValue
 tags:
-- class/FileClass
-- class/QuantitativeValue
-- is_a_/QuantitativeValue
-- class/Thing/Intangible/StructuredValue/QuantitativeValue
+  - class/FileClass
+  - class/QuantitativeValue
+  - is_a_/QuantitativeValue
+  - class/Thing/Intangible/StructuredValue/QuantitativeValue
 version: 2.0
 ---
 

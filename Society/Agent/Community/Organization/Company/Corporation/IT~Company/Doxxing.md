@@ -1,6 +1,7 @@
 ---
 aliases:
-- Doxing
+  - Doxing
+  - Doxxing
 ---
 
 ## #has_/text_of_/abstract 

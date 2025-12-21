@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Beer
+has_id_wikidata: Q44
 2022_Harmonized_System_Code: 2203
 Amazon_com_browse_node: 2983385011
 carbon_footprint:
@@ -32,7 +35,6 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_01000015
 GitHub_topic: beer
 GS1_GPC_code: 10000159
 has_characteristic: "[[_Standards/WikiData/WD~bitterness,1517187]]"
-has_id_wikidata: Q44
 has_part_s_:
   - "[[_Standards/WikiData/WD~hops,3214940]]"
   - "[[_Standards/WikiData/WD~barley,61665121]]"
@@ -75,7 +77,7 @@ U_S_National_Archives_Identifier: 10646278
 Wolfram_Language_entity_code: Entity["FoodType", "Beer"]
 ---
 
-# [[Beer]] 
+# [[Beer]] 🍺 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Beer,44|WD~Beer,44]] 
 

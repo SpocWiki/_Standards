@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Anthony Quinn"
-- "Manuel Antonio Rodolfo Quinn Oaxaca"
+  - Anthony Quinn
+  - Manuel Antonio Rodolfo Quinn Oaxaca
+  - Quinn,Anthony
 ---
 
 #has_/time_/started :: 1915-04-21 

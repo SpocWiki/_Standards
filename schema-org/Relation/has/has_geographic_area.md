@@ -3,23 +3,24 @@ aliases:
   - has geographic-area
   - geographicArea
   - has_geographic_area
+  - has geographic area
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - geographic
   - area
   - geographic_area
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_geographic_area
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

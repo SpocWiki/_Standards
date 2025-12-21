@@ -4,21 +4,23 @@ aliases:
   - geo_equals
   - geoEquals
   - has_location_equals
+  - has_location_equal_to
+  - has location equal to
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - geo_equals
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_equals
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

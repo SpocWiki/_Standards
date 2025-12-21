@@ -4,20 +4,22 @@ aliases:
   - unit_price_specification
   - UnitPriceSpecification
   - is_a_unit_price_specification
+  - Unit_Price_Specification
+  - Unit Price Specification
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - unit_price_specification
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_unit_price_specification Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

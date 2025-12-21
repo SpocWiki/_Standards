@@ -4,20 +4,22 @@ aliases:
   - user_plays
   - UserPlays
   - is_a_user_plays
+  - User_Plays
+  - User Plays
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - user_plays
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_user_plays Class
 publish: true
-publishDate:
+publishDate: ''
 superseded_by: InteractionCounter
 tags:
   - class/Class

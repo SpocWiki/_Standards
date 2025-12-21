@@ -1,72 +1,74 @@
 ---
 aliases:
-  - "Ravi Shankar (Bengali pronunciation: [ˈrobi ˈʃɔŋkor]; born Robindro Shaunkor Chowdhury, sometimes spelled as Rabindra Shankar Chowdhury"
+  - 'Ravi Shankar (Bengali pronunciation: [ˈrobi ˈʃɔŋkor]; born Robindro Shaunkor Chowdhury, sometimes spelled as Rabindra Shankar Chowdhury'
+  - Ravi_Shankar
+  - Ravi Shankar
 has_id_wikidata: Q103774
-place_of_birth: "[[_Standards/WikiData/WD~Varanasi,79980]]"
+place_of_birth: '[[_Standards/WikiData/WD~Varanasi,79980]]'
 residence:
-  - "[[_Standards/WikiData/WD~Varanasi,79980]]"
-  - "[[_Standards/WikiData/WD~Encinitas,532711]]"
+  - '[[_Standards/WikiData/WD~Varanasi,79980]]'
+  - '[[_Standards/WikiData/WD~Encinitas,532711]]'
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~sitarist,51679083]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~sitarist,51679083]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~British_Raj,129286]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
+  - '[[_Standards/WikiData/WD~British_Raj,129286]]'
+  - '[[_Standards/WikiData/WD~India,668]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Deutsche_Grammophon,168407]]"
-  - "[[_Standards/WikiData/WD~Apple_Records,213710]]"
-  - "[[_Standards/WikiData/WD~Pacific_Jazz_Records,1516254]]"
-  - "[[_Standards/WikiData/WD~Dark_Horse_Records,2663658]]"
-  - "[[_Standards/WikiData/WD~Manticore_Records,3844913]]"
-  - "[[_Standards/WikiData/WD~Private_Music,6318209]]"
+  - '[[_Standards/WikiData/WD~Deutsche_Grammophon,168407]]'
+  - '[[_Standards/WikiData/WD~Apple_Records,213710]]'
+  - '[[_Standards/WikiData/WD~Pacific_Jazz_Records,1516254]]'
+  - '[[_Standards/WikiData/WD~Dark_Horse_Records,2663658]]'
+  - '[[_Standards/WikiData/WD~Manticore_Records,3844913]]'
+  - '[[_Standards/WikiData/WD~Private_Music,6318209]]'
   - "[[_Standards/WikiData/WD~His_Master's_Voice,56762278]]"
 cause_of_death:
-  - "[[_Standards/WikiData/WD~heart_failure,181754]]"
-  - "[[_Standards/WikiData/WD~respiratory_failure,767485]]"
-instrument: "[[_Standards/WikiData/WD~sitar,229205]]"
+  - '[[_Standards/WikiData/WD~heart_failure,181754]]'
+  - '[[_Standards/WikiData/WD~respiratory_failure,767485]]'
+instrument: '[[_Standards/WikiData/WD~sitar,229205]]'
 child:
-  - "[[_Standards/WikiData/WD~Anoushka_Shankar,259379]]"
-  - "[[_Standards/WikiData/WD~Norah_Jones,549981]]"
-  - "[[_Standards/WikiData/WD~Shubbo_Shankar,3482622]]"
+  - '[[_Standards/WikiData/WD~Anoushka_Shankar,259379]]'
+  - '[[_Standards/WikiData/WD~Norah_Jones,549981]]'
+  - '[[_Standards/WikiData/WD~Shubbo_Shankar,3482622]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]"
-  - "[[_Standards/WikiData/WD~Bharat_Ratna,322132]]"
-  - "[[_Standards/WikiData/WD~Padma_Vibhushan,672392]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]"
-  - "[[_Standards/WikiData/WD~Padma_Bhushan,932650]]"
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-  - "[[_Standards/WikiData/WD~Fukuoka_Asian_Culture_Prize,1323284]]"
-  - "[[_Standards/WikiData/WD~Banga_Bibhushan,4854994]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Chamber_Music_Performance,5593757]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Global_Music_Album,5593905]]"
-  - "[[_Standards/WikiData/WD~Tagore_Award,7675309]]"
-  - "[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]"
-  - "[[_Standards/WikiData/WD~Knight_Commander_of_the_Order_of_the_British_Empire,12201445]]"
-  - "[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]"
-  - "[[_Standards/WikiData/WD~James_Parks_Morton_Interfaith_Award,20892672]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_Sangeet_Natak_Akademi,64557822]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Calcutta,96233293]]"
-member_of: "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]"
-different_from: "[[_Standards/WikiData/WD~Gurudev_Sri_Sri_Ravi_Shankar,468374]]"
-nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]"
+  - '[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]'
+  - '[[_Standards/WikiData/WD~Bharat_Ratna,322132]]'
+  - '[[_Standards/WikiData/WD~Padma_Vibhushan,672392]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
+  - '[[_Standards/WikiData/WD~Padma_Bhushan,932650]]'
+  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+  - '[[_Standards/WikiData/WD~Fukuoka_Asian_Culture_Prize,1323284]]'
+  - '[[_Standards/WikiData/WD~Banga_Bibhushan,4854994]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Chamber_Music_Performance,5593757]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Global_Music_Album,5593905]]'
+  - '[[_Standards/WikiData/WD~Tagore_Award,7675309]]'
+  - '[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]'
+  - '[[_Standards/WikiData/WD~Knight_Commander_of_the_Order_of_the_British_Empire,12201445]]'
+  - '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+  - '[[_Standards/WikiData/WD~James_Parks_Morton_Interfaith_Award,20892672]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_Sangeet_Natak_Akademi,64557822]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Calcutta,96233293]]'
+member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]'
+different_from: '[[_Standards/WikiData/WD~Gurudev_Sri_Sri_Ravi_Shankar,468374]]'
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
 genre:
-  - "[[_Standards/WikiData/WD~Indian_classical_music,1323698]]"
-  - "[[_Standards/WikiData/WD~Hindustani_classical_music,1770695]]"
-given_name: "[[_Standards/WikiData/WD~Ravi,2133692]]"
-discography: "[[_Standards/WikiData/WD~Ravi_Shankar_discography,2133702]]"
-spouse: "[[_Standards/WikiData/WD~Annapurna_Devi,2440940]]"
-sibling: "[[_Standards/WikiData/WD~Uday_Shankar,3351708]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-position_held: "[[_Standards/WikiData/WD~member_of_Rajya_Sabha,17324844]]"
-family_name: "[[_Standards/WikiData/WD~Shankar,37488528]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Hinduism,9089]]"
-place_of_death: "[[_Standards/WikiData/WD~San_Diego,16552]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Indian_classical_music,1323698]]'
+  - '[[_Standards/WikiData/WD~Hindustani_classical_music,1770695]]'
+given_name: '[[_Standards/WikiData/WD~Ravi,2133692]]'
+discography: '[[_Standards/WikiData/WD~Ravi_Shankar_discography,2133702]]'
+spouse: '[[_Standards/WikiData/WD~Annapurna_Devi,2440940]]'
+sibling: '[[_Standards/WikiData/WD~Uday_Shankar,3351708]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+position_held: '[[_Standards/WikiData/WD~member_of_Rajya_Sabha,17324844]]'
+family_name: '[[_Standards/WikiData/WD~Shankar,37488528]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Hinduism,9089]]'
+place_of_death: '[[_Standards/WikiData/WD~San_Diego,16552]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_gallery: Ravi Shankar
 Commons_category: Ravi Shankar
 Libris_URI: mkz28ft52sqpx8c
@@ -78,8 +80,8 @@ date_of_birth: 1920-04-07T00:00:00Z
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%B0%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%B0.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ravi%20Shankar.jpg
 official_website: http://www.ravishankar.org
-ISNI: "0000000121418949"
-IPI_name_number: "00028482866"
+ISNI: 0000000121418949
+IPI_name_number: 00028482866
 Plex_person_key: 5d776856eb5d26001f1e6e16
 Europeana_entity: agent/base/60978
 Google_Doodle: pandit-ravi-shankars-96th-birthday

@@ -1,18 +1,20 @@
 ---
 aliases:
-- "Great Lisbon earthquake"
-- "1755 Lisbon earthquake"
-Commons_category: "Lisbon earthquake of 1755"
-coordinate_location: "Point(-11.0 36.0)"
-country: '[[_Standards/WikiData/WD~Portugal,45]]'
+  - Great Lisbon earthquake
+  - 1755 Lisbon earthquake
+  - 1755-Lisbon_earthquake
+  - 1755-Lisbon earthquake
 has_id_wikidata: Q191055
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/1755%20Lisbon%20Earthquake%20Location.png"
+Commons_category: Lisbon earthquake of 1755
+coordinate_location: Point(-11.0 36.0)
+country: '[[_Standards/WikiData/WD~Portugal,45]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/1755%20Lisbon%20Earthquake%20Location.png
 instance_of: '[[_Standards/WikiData/WD~earthquake,7944]]'
 location: '[[_Standards/WikiData/WD~Lisbon,597]]'
 modified_Mercalli_intensity_scale: '[[_Standards/WikiData/WD~Mercalli_scale_IX,23925706]]'
 P8189: 987007559184905171
-point_in_time: "1755-11-01T00:00:00Z"
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/En-1755%20Lisbon%20earthquake-article.oga"
+point_in_time: 1755-11-01T00:00:00Z
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-1755%20Lisbon%20earthquake-article.oga
 ---
 
 #[[1755-Lisbon_earthquake]]]

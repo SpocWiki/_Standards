@@ -3,12 +3,13 @@ aliases:
   - has mission-coverage-priorities-policy
   - missionCoveragePrioritiesPolicy
   - has_mission_coverage_priorities_policy
+  - has mission coverage priorities policy
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +18,11 @@ keywords:
   - coverage
   - priorities
   - policy
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_mission_coverage_priorities_policy
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

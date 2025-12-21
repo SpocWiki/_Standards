@@ -2,36 +2,37 @@
 aliases:
   - Lighthouse of Alexandria
   - Pharos of Alexandria
+  - Lighthouse_of_Alexandria
 has_id_wikidata: Q43244
 shape:
-  - "[[_Standards/WikiData/WD~octagon,166080]]"
-  - "[[_Standards/WikiData/WD~circle,17278]]"
-  - "[[_Standards/WikiData/WD~square,164]]"
-commissioned_by: "[[_Standards/WikiData/WD~Ptolemy_I_Soter,168261]]"
+  - '[[_Standards/WikiData/WD~octagon,166080]]'
+  - '[[_Standards/WikiData/WD~circle,17278]]'
+  - '[[_Standards/WikiData/WD~square,164]]'
+commissioned_by: '[[_Standards/WikiData/WD~Ptolemy_I_Soter,168261]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~demolition,331483]]"
-  - "[[_Standards/WikiData/WD~construction,385378]]"
-  - "[[_Standards/WikiData/WD~earthquake,7944]]"
-architect: "[[_Standards/WikiData/WD~Sostratus_of_Cnidus,445793]]"
-part_of: "[[_Standards/WikiData/WD~Seven_Wonders_of_the_Ancient_World,489772]]"
+  - '[[_Standards/WikiData/WD~demolition,331483]]'
+  - '[[_Standards/WikiData/WD~construction,385378]]'
+  - '[[_Standards/WikiData/WD~earthquake,7944]]'
+architect: '[[_Standards/WikiData/WD~Sostratus_of_Cnidus,445793]]'
+part_of: '[[_Standards/WikiData/WD~Seven_Wonders_of_the_Ancient_World,489772]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-architectural_style: "[[_Standards/WikiData/WD~Hellenistic_architecture,2011484]]"
-locations: "[[_Standards/WikiData/WD~Pharos,2696558]]"
-named_after: "[[_Standards/WikiData/WD~Pharos,2696558]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+architectural_style: '[[_Standards/WikiData/WD~Hellenistic_architecture,2011484]]'
+locations: '[[_Standards/WikiData/WD~Pharos,2696558]]'
+named_after: '[[_Standards/WikiData/WD~Pharos,2696558]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~destroyed_building_or_structure,19860854]]"
-  - "[[_Standards/WikiData/WD~Wonder_of_the_Ancient_World,66108498]]"
-  - "[[_Standards/WikiData/WD~lighthouse,39715]]"
-state_of_conservation: "[[_Standards/WikiData/WD~demolished_or_destroyed,56556915]]"
+  - '[[_Standards/WikiData/WD~destroyed_building_or_structure,19860854]]'
+  - '[[_Standards/WikiData/WD~Wonder_of_the_Ancient_World,66108498]]'
+  - '[[_Standards/WikiData/WD~lighthouse,39715]]'
+state_of_conservation: '[[_Standards/WikiData/WD~demolished_or_destroyed,56556915]]'
 inception: -0278-01-01T00:00:00Z
-state_of_use: "[[_Standards/WikiData/WD~permanently_closed,104664889]]"
+state_of_use: '[[_Standards/WikiData/WD~permanently_closed,104664889]]'
 dissolved_abolished_or_demolished_date: 1480-01-01T00:00:00Z
 service_retirement: 1303-01-01T00:00:00Z
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
-country: "[[_Standards/WikiData/WD~Egypt,79]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Alexandria,87]]"
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
+country: '[[_Standards/WikiData/WD~Egypt,79]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Alexandria,87]]'
 height: 137
 Iconclass_notation: 25M7
 Commons_gallery: Pharos of Alexandria

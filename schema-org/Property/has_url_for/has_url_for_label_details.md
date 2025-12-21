@@ -4,21 +4,22 @@ aliases:
   - label_details
   - labelDetails
   - has_url_for_label_details
+  - has url for label details
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - label_details
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_label_details
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

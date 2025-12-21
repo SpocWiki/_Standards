@@ -4,21 +4,22 @@ aliases:
   - word_count
   - wordCount
   - has_number_of_words
+  - has number of words
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - word_count
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_word_count
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

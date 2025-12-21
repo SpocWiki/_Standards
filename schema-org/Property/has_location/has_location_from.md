@@ -4,21 +4,22 @@ aliases:
   - from_location
   - fromLocation
   - has_location_from
+  - has location from
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - from_location
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_from
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

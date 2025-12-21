@@ -4,20 +4,22 @@ aliases:
   - online_business
   - OnlineBusiness
   - is_an_online_business
+  - Online_Business
+  - Online Business
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - online_business
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_online_business Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

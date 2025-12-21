@@ -3,23 +3,24 @@ aliases:
   - has price-specification
   - priceSpecification
   - has_price_specification
+  - has price specification
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - price_specification
   - price
   - specification
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_price_specification
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

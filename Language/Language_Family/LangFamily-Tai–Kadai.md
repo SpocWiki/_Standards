@@ -1,6 +1,8 @@
 ---
+aliases:
+  - LangFamily-Tai–Kadai
 tags:
-- Lang_Family
+  - Lang_Family
 type: LangFamily
 ---
 

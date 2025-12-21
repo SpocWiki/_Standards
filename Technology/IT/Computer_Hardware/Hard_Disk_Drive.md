@@ -1,43 +1,46 @@
 ---
-Commons_category: "Hard disks"
-Commons_gallery: "Hard disk"
-Common_Procurement_Vocabulary_code: 30233132
-exact_match: "http://wordnet-rdf.princeton.edu/wn30/03492542-n"
-followed_by: '[[_Standards/WikiData/WD~solid-state_drive,487343]]'
-has_characteristic:
-- '[[_Standards/WikiData/WD~flying_height,5463579]]'
-- '[[_Standards/WikiData/WD~Hard_disk_drive_performance_characteristics,5655518]]'
+aliases:
+  - Hard_Disk_Drive
+  - Hard Disk Drive
 has_id_wikidata: Q4439
+Commons_category: Hard disks
+Commons_gallery: Hard disk
+Common_Procurement_Vocabulary_code: 30233132
+exact_match: http://wordnet-rdf.princeton.edu/wn30/03492542-n
+followed_by: "[[_Standards/WikiData/WD~solid-state_drive,487343]]"
+has_characteristic:
+  - "[[_Standards/WikiData/WD~flying_height,5463579]]"
+  - "[[_Standards/WikiData/WD~Hard_disk_drive_performance_characteristics,5655518]]"
 has_part_s_:
-- '[[_Standards/WikiData/WD~hard_disk_drive_platter,1195211]]'
-- '[[_Standards/WikiData/WD~disk_drive_head,2165056]]'
-- '[[_Standards/WikiData/WD~spindle,2416476]]'
-- '[[_Standards/WikiData/WD~housing,11326220]]'
-- '[[_Standards/WikiData/WD~signal_and_power_connector,65036927]]'
-- '[[_Standards/WikiData/WD~computer_interface,23808]]'
-has_use: '[[_Standards/WikiData/WD~computer_data_storage_device,66221]]'
-icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Harddisk.svg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Western%20Digital%20WD2500BB%20Hard%20Disk%20A.jpg"
-instance_of: '[[_Standards/WikiData/WD~type_of_computer_memory_or_storage,125005976]]'
+  - "[[_Standards/WikiData/WD~hard_disk_drive_platter,1195211]]"
+  - "[[_Standards/WikiData/WD~disk_drive_head,2165056]]"
+  - "[[_Standards/WikiData/WD~spindle,2416476]]"
+  - "[[_Standards/WikiData/WD~housing,11326220]]"
+  - "[[_Standards/WikiData/WD~signal_and_power_connector,65036927]]"
+  - "[[_Standards/WikiData/WD~computer_interface,23808]]"
+has_use: "[[_Standards/WikiData/WD~computer_data_storage_device,66221]]"
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Harddisk.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Western%20Digital%20WD2500BB%20Hard%20Disk%20A.jpg
+instance_of: "[[_Standards/WikiData/WD~type_of_computer_memory_or_storage,125005976]]"
 Nomenclature_for_Museum_Cataloging: 10535
-part_of: '[[_Standards/WikiData/WD~disk_array,1228738]]'
-schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Hard%20drive-en.svg"
-Stack_Exchange_tag: "https://stackoverflow.com/tags/hard-drive"
+part_of: "[[_Standards/WikiData/WD~disk_array,1228738]]"
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Hard%20drive-en.svg
+Stack_Exchange_tag: https://stackoverflow.com/tags/hard-drive
 subclass_of:
-- '[[_Standards/WikiData/WD~computer_data_storage_device,66221]]'
-- '[[_Standards/WikiData/WD~disk_drive,64819622]]'
-- '[[_Standards/WikiData/WD~computer_hardware,3966]]'
+  - "[[_Standards/WikiData/WD~computer_data_storage_device,66221]]"
+  - "[[_Standards/WikiData/WD~disk_drive,64819622]]"
+  - "[[_Standards/WikiData/WD~computer_hardware,3966]]"
 time_of_discovery_or_invention: 1956
-Unicode_character: "\U0001F5B4"
+Unicode_character: 🖴
 UNSPSC_Code: 43201803
-uses: '[[_Standards/WikiData/WD~magnetic_storage,1364527]]'
+uses: "[[_Standards/WikiData/WD~magnetic_storage,1364527]]"
 video:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Harddrive-engineerguy.ogv"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Ein-%20und%20Ausgabe%20mit%20Festplatte%20und%20Interrupts.webm"
-WordLift_URL: "http://data.thenextweb.com/tnw/entity/hard_disk_drive"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Harddrive-engineerguy.ogv
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ein-%20und%20Ausgabe%20mit%20Festplatte%20und%20Interrupts.webm
+WordLift_URL: http://data.thenextweb.com/tnw/entity/hard_disk_drive
 ---
 
-# [[Hard_Disk_Drive]] 
+# [[Hard_Disk_Drive]] 🖴 
 
 #is_/same_as :: [[../../../WikiData/WD~Hard_disk,4439|WD~Hard_disk,4439]] 
 

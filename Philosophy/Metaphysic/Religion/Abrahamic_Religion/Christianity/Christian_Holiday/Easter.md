@@ -7,48 +7,49 @@ aliases:
   - páskha
   - πάσχα,
   - פַּסְחָא
+  - Easter
 has_id_wikidata: Q21196
 Gujarati_Vishwakosh_entry: ઈસ્ટર
-part_of: "[[_Standards/WikiData/WD~Holy_Week,131080]]"
-foods_traditionally_associated: "[[_Standards/WikiData/WD~easter_egg,163886]]"
+part_of: '[[_Standards/WikiData/WD~Holy_Week,131080]]'
+foods_traditionally_associated: '[[_Standards/WikiData/WD~easter_egg,163886]]'
 follows:
-  - "[[_Standards/WikiData/WD~Holy_Saturday,186206]]"
-  - "[[_Standards/WikiData/WD~Easter_1_day,14914937]]"
+  - '[[_Standards/WikiData/WD~Holy_Saturday,186206]]'
+  - '[[_Standards/WikiData/WD~Easter_1_day,14914937]]'
 followed_by:
-  - "[[_Standards/WikiData/WD~Easter_Monday,209663]]"
-  - "[[_Standards/WikiData/WD~Second_Sunday_of_Easter,617085]]"
-  - "[[_Standards/WikiData/WD~Easter_+_1_day,14795170]]"
+  - '[[_Standards/WikiData/WD~Easter_Monday,209663]]'
+  - '[[_Standards/WikiData/WD~Second_Sunday_of_Easter,617085]]'
+  - '[[_Standards/WikiData/WD~Easter_+_1_day,14795170]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Easter_Sunday,1512337]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Easter_Sunday,1512337]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~moveable_feast,1825417]]"
-  - "[[_Standards/WikiData/WD~Christian_holy_day,60075825]]"
-has_part_s_: "[[_Standards/WikiData/WD~virvonta,8182704]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki_Loves_Popular_Culture_Brazil_Traditions,_rituals_and_oral_expressions,116878906]]"
-depicted_by: "[[_Standards/WikiData/WD~Manuscript_Illumination_with_Scenes_of_Easter_in_an_Initial_A,_from_an_Antiphonary,131557388]]"
+  - '[[_Standards/WikiData/WD~moveable_feast,1825417]]'
+  - '[[_Standards/WikiData/WD~Christian_holy_day,60075825]]'
+has_part_s_: '[[_Standards/WikiData/WD~virvonta,8182704]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki_Loves_Popular_Culture_Brazil_Traditions,_rituals_and_oral_expressions,116878906]]'
+depicted_by: '[[_Standards/WikiData/WD~Manuscript_Illumination_with_Scenes_of_Easter_in_an_Initial_A,_from_an_Antiphonary,131557388]]'
 day_in_year_for_periodic_occurrence:
-  - "[[_Standards/WikiData/WD~March_22,2435]]"
-  - "[[_Standards/WikiData/WD~April_25,2531]]"
-day_of_week: "[[_Standards/WikiData/WD~Sunday,132]]"
+  - '[[_Standards/WikiData/WD~March_22,2435]]'
+  - '[[_Standards/WikiData/WD~April_25,2531]]'
+day_of_week: '[[_Standards/WikiData/WD~Sunday,132]]'
 Commons_gallery: Easter
 Commons_category: Easter
-U_S_National_Archives_Identifier: "10647876"
-OmegaWiki_Defined_Meaning: "472531"
+U_S_National_Archives_Identifier: 10647876
+OmegaWiki_Defined_Meaning: 472531
 Dewey_Decimal_Classification:
-  - "263.93"
-  - "394.2667"
+  - 263.93
+  - 394.2667
 IMDb_keyword: easter
 spoken_text_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Paasfeest-article.ogg

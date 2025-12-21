@@ -4,20 +4,22 @@ aliases:
   - auto_parts_store
   - AutoPartsStore
   - is_an_auto_parts_store
+  - Auto_Parts_Store
+  - Auto Parts Store
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - auto_parts_store
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_auto_parts_store Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

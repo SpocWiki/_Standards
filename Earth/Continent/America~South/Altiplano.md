@@ -1,24 +1,26 @@
 ---
+aliases:
+  - Altiplano
 has_id_wikidata: Q118574
 instance_of:
-  - "[[_Standards/WikiData/WD~plateau,75520]]"
-  - "[[_Standards/WikiData/WD~region,82794]]"
-shares_border_with: "[[_Standards/WikiData/WD~Puna,2118278]]"
+  - '[[_Standards/WikiData/WD~plateau,75520]]'
+  - '[[_Standards/WikiData/WD~region,82794]]'
+shares_border_with: '[[_Standards/WikiData/WD~Puna,2118278]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Puna_de_Atacama,2310805]]"
-  - "[[_Standards/WikiData/WD~Altiplano,14467478]]"
-  - "[[_Standards/WikiData/WD~Altiplano,_Peru,18176459]]"
-drainage_basin: "[[_Standards/WikiData/WD~Titicaca_basin,2887559]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_dictionary_of_geographical_names,113510146]]"
+  - '[[_Standards/WikiData/WD~Puna_de_Atacama,2310805]]'
+  - '[[_Standards/WikiData/WD~Altiplano,14467478]]'
+  - '[[_Standards/WikiData/WD~Altiplano,_Peru,18176459]]'
+drainage_basin: '[[_Standards/WikiData/WD~Titicaca_basin,2887559]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_dictionary_of_geographical_names,113510146]]'
 coordinate_location: Point(-69.65332 -16.00358)
 country:
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-part_of: "[[_Standards/WikiData/WD~Andes,5456]]"
-continent: "[[_Standards/WikiData/WD~South_America,18]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Titicaca,35342]]"
+  - '[[_Standards/WikiData/WD~Chile,298]]'
+  - '[[_Standards/WikiData/WD~Argentina,414]]'
+  - '[[_Standards/WikiData/WD~Peru,419]]'
+  - '[[_Standards/WikiData/WD~Bolivia,750]]'
+part_of: '[[_Standards/WikiData/WD~Andes,5456]]'
+continent: '[[_Standards/WikiData/WD~South_America,18]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Titicaca,35342]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Altiplano.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Altiplano%20map.png
 Commons_category: Altiplano

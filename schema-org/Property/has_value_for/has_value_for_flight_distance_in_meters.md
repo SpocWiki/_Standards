@@ -4,21 +4,22 @@ aliases:
   - flight-distance
   - flightDistance
   - has_value_for_flight_distance_in_meters
+  - has value for flight distance in meters
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - flight-distance
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_flight-distance
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

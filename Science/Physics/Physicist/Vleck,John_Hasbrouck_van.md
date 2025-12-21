@@ -2,6 +2,8 @@
 aliases:
   - John_Hasbrouck_van_Vleck
   - John Hasbrouck van Vleck
+  - Vleck,John_Hasbrouck_van
+  - Vleck,John Hasbrouck van
 has_id_wikidata: Q193655
 ---
 

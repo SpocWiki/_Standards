@@ -2,14 +2,16 @@
 aliases:
   - Computability theory
   - recursion theory
+  - Computability_Theory
+  - Computability Theory
 has_id_wikidata: Q818930
 subclass_of:
-  - "[[_Standards/WikiData/WD~theory_of_computation,844718]]"
-  - "[[_Standards/WikiData/WD~mathematical_logic,1166618]]"
-  - "[[_Standards/WikiData/WD~theoretical_computer_science,2878974]]"
+  - '[[_Standards/WikiData/WD~theory_of_computation,844718]]'
+  - '[[_Standards/WikiData/WD~mathematical_logic,1166618]]'
+  - '[[_Standards/WikiData/WD~theoretical_computer_science,2878974]]'
 part_of:
-  - "[[_Standards/WikiData/WD~mathematical_logic,1166618]]"
-  - "[[_Standards/WikiData/WD~theory_of_mathematical_algorithms,114682730]]"
+  - '[[_Standards/WikiData/WD~mathematical_logic,1166618]]'
+  - '[[_Standards/WikiData/WD~theory_of_mathematical_algorithms,114682730]]'
 Commons_category: Computer science
 ---
 

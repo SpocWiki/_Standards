@@ -1,11 +1,13 @@
 ---
 aliases:
   - General topology
+  - General_Topology
+  - General Topology
 has_id_wikidata: Q621550
-instance_of: "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-facet_of: "[[_Standards/WikiData/WD~algebraic_general_topology,105682211]]"
-part_of: "[[_Standards/WikiData/WD~topology,42989]]"
+instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+facet_of: '[[_Standards/WikiData/WD~algebraic_general_topology,105682211]]'
+part_of: '[[_Standards/WikiData/WD~topology,42989]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Neighborhood%20illust3.svg
 Stack_Exchange_tag:
   - https://math.stackexchange.com/tags/general-topology

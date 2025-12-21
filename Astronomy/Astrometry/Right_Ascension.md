@@ -3,15 +3,17 @@ aliases:
   - Rectascension
   - right ascension
   - ascensio recta
+  - Right_Ascension
+  - Right Ascension
 has_id_wikidata: Q13442
-opposite_of: "[[_Standards/WikiData/WD~declination,76287]]"
+opposite_of: '[[_Standards/WikiData/WD~declination,76287]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-subclass_of: "[[_Standards/WikiData/WD~angular_measure,1357788]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_RA,6486952]]"
-part_of: "[[_Standards/WikiData/WD~second_equatorial_coordinate_system,9364777]]"
+subclass_of: '[[_Standards/WikiData/WD~angular_measure,1357788]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_RA,6486952]]'
+part_of: '[[_Standards/WikiData/WD~second_equatorial_coordinate_system,9364777]]'
 Wikidata_property: right ascension
 lower_limit: 0
 upper_limit:

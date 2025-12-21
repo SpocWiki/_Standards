@@ -4,21 +4,23 @@ aliases:
   - frequency
   - frequency
   - has_text_of_frequency
+  - has_frequency
+  - has frequency
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - frequency
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_frequency
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

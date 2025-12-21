@@ -3,23 +3,24 @@ aliases:
   - has work-presented
   - workPresented
   - has_work_presented
+  - has work presented
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - work_presented
   - work
   - presented
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_work_presented
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

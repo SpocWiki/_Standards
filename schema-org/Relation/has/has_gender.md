@@ -4,21 +4,22 @@ aliases:
   - schema:gender
   - dbo:gender
   - wdt:P21
+  - has gender
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - gender
-layout: 
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_gender
 publish: true
-publishDate: 
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

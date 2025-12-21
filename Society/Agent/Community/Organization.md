@@ -1,29 +1,29 @@
 ---
 aliases:
-- organisation
-- organization
-- Organization
-- is_an_organization
-- "dbo:Organization"
-- "schema:Organization"
+  - organisation
+  - organization
+  - Organization
+  - is_an_organization
+  - dbo:Organization
+  - schema:Organization
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- organization
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_organization Class"
+  - organization
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_an_organization Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_organization Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_organization Class
 type: Type
 ---
 

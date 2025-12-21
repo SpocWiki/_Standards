@@ -4,21 +4,22 @@ aliases:
   - reservation_accepted
   - acceptsReservations
   - is_reservation_accepted
+  - is reservation accepted
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - reservation_accepted
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_reservation_accepted
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

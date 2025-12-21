@@ -1,6 +1,7 @@
 ---
 aliases:
   - Verantwortungseigentum
+  - Steward-Ownership
 ---
 
 #is_/alternative_to :: [[Property(Law)]] 

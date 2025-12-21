@@ -4,20 +4,22 @@ aliases:
   - legislation_object
   - LegislationObject
   - is_a_legislation_object
+  - Legislation_Object
+  - Legislation Object
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - legislation_object
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_legislation_object Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

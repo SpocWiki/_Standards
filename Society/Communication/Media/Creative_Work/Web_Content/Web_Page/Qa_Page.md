@@ -4,20 +4,22 @@ aliases:
   - qa_page
   - QAPage
   - is_a_qa_page
+  - Qa_Page
+  - Qa Page
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - qa_page
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_qa_page Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

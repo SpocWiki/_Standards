@@ -1,23 +1,24 @@
 ---
 aliases:
   - has_announcement_location
+  - has announcement location
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - announcement
   - location
   - announcementLocation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_announcement_location
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

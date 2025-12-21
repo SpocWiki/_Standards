@@ -1,12 +1,13 @@
 ---
 aliases:
   - has_arterial_branch
+  - has arterial branch
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 fileClass:
   - FileClass-Relation
 isDeleted: false
@@ -15,11 +16,11 @@ keywords:
   - arterial
   - branch
   - arterialBranch
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_arterial_branch
 publish: true
-publishDate:
+publishDate: ''
 supersedes: branch
 tags:
   - class/Relation

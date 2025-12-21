@@ -1,28 +1,30 @@
 ---
 aliases:
-- css-selector-type
-- css_selector_type
-- CssSelectorType
-- is_a_css_selector_type
+  - css-selector-type
+  - css_selector_type
+  - CssSelectorType
+  - is_a_css_selector_type
+  - Css_Selector_Type
+  - Css Selector Type
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- css_selector_type
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_css_selector_type Class"
+  - css_selector_type
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_a_css_selector_type Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Class
-- schema-org/Class
-- class/data_type
-title: "is_a_css_selector_type Class"
+  - class/Class
+  - schema-org/Class
+  - class/data_type
+title: is_a_css_selector_type Class
 type: Type
 ---
 

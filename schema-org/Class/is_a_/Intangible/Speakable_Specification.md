@@ -4,20 +4,22 @@ aliases:
   - speakable_specification
   - SpeakableSpecification
   - is_a_speakable_specification
+  - Speakable_Specification
+  - Speakable Specification
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - speakable_specification
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_speakable_specification Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

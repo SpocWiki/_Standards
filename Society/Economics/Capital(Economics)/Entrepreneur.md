@@ -1,6 +1,7 @@
 ---
 aliases:
   - Unternehmer
+  - Entrepreneur
 has_id_wikidata: Q131524
 female_form_of_label:
   - komersante
@@ -58,22 +59,22 @@ male_form_of_label:
   - entraprezistulo
   - antrepreneris
 different_from:
-  - "[[_Standards/WikiData/WD~business_manager,832136]]"
-  - "[[_Standards/WikiData/WD~businessperson,43845]]"
+  - '[[_Standards/WikiData/WD~business_manager,832136]]'
+  - '[[_Standards/WikiData/WD~businessperson,43845]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~legal_status,2628882]]"
-  - "[[_Standards/WikiData/WD~profession,28640]]"
+  - '[[_Standards/WikiData/WD~legal_status,2628882]]'
+  - '[[_Standards/WikiData/WD~profession,28640]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~legal_person,3778211]]"
-  - "[[_Standards/WikiData/WD~economic_entity,12569864]]"
-owner_of: "[[_Standards/WikiData/WD~business,4830453]]"
-item_operated: "[[_Standards/WikiData/WD~enterprise,6881511]]"
+  - '[[_Standards/WikiData/WD~legal_person,3778211]]'
+  - '[[_Standards/WikiData/WD~economic_entity,12569864]]'
+owner_of: '[[_Standards/WikiData/WD~business,4830453]]'
+item_operated: '[[_Standards/WikiData/WD~enterprise,6881511]]'
 field_of_work:
-  - "[[../../../WikiData/WD~economic_activity,8187769]]"
-  - "[[_Standards/WikiData/WD~commerce,26643]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_entrepreneur,14358979]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~businessperson,43845]]"
-OmegaWiki_Defined_Meaning: "7458"
+  - '[[../../../WikiData/WD~economic_activity,8187769]]'
+  - '[[_Standards/WikiData/WD~commerce,26643]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_entrepreneur,14358979]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~businessperson,43845]]'
+OmegaWiki_Defined_Meaning: 7458
 subreddit: Entrepreneur
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20and%20Bill%20Gates%20%28522695099%29.jpg
 WordLift_URL: http://data.thenextweb.com/tnw/entity/entrepreneur

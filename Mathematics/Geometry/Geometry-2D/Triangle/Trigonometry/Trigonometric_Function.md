@@ -4,18 +4,20 @@ aliases:
   - angle function
   - goniometric function
   - trigonometric function
+  - Trigonometric_Function
+  - Trigonometric Function
 has_id_wikidata: Q93344
-approximation_algorithm: "[[_Standards/WikiData/WD~CORDIC,116076]]"
+approximation_algorithm: '[[_Standards/WikiData/WD~CORDIC,116076]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~periodic_function,184743]]"
-  - "[[_Standards/WikiData/WD~elementary_function,824282]]"
-  - "[[_Standards/WikiData/WD~transcendental_function,864333]]"
-mathematical_inverse: "[[_Standards/WikiData/WD~inverse_trigonometric_function,674533]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Trigonometry_2,22857577]]"
-has_part_s_: "[[_Standards/WikiData/WD~trigonometric_identity,58437145]]"
-studied_by: "[[_Standards/WikiData/WD~trigonometry,8084]]"
-instance_of: "[[_Standards/WikiData/WD~function,11348]]"
+  - '[[_Standards/WikiData/WD~periodic_function,184743]]'
+  - '[[_Standards/WikiData/WD~elementary_function,824282]]'
+  - '[[_Standards/WikiData/WD~transcendental_function,864333]]'
+mathematical_inverse: '[[_Standards/WikiData/WD~inverse_trigonometric_function,674533]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Trigonometry_2,22857577]]'
+has_part_s_: '[[_Standards/WikiData/WD~trigonometric_identity,58437145]]'
+studied_by: '[[_Standards/WikiData/WD~trigonometry,8084]]'
+instance_of: '[[_Standards/WikiData/WD~function,11348]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sine%20cosine%20one%20period.svg
 Commons_gallery: Trigonometric functions
 Commons_category: Trigonometric functions
@@ -25,7 +27,7 @@ described_at_URL:
   - https://math.libretexts.org/Bookshelves/Precalculus/Precalculus_(Stitz-Zeager)/10%3A_Foundations_of_Trigonometry/10.03%3A_The_Six_Circular_Functions_and_Fundamental_Identities
   - http://ostts.org/Stitz_Zeager_Precalculus_Book_By_Section_files/10-3.pdf
   - https://www.monash.edu/student-academic-success/mathematics/circular-functions/circular-functions-graphs
-Dewey_Decimal_Classification: "516.246"
+Dewey_Decimal_Classification: 516.246
 ---
 
 # [[Trigonometric_Function]]  

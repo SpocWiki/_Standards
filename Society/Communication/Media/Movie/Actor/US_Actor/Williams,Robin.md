@@ -3,138 +3,139 @@ aliases:
   - Robin_Williams
   - Robin Williams
   - Robin McLaurin Williams
+  - Williams,Robin
 has_id_wikidata: Q83338
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Musical_or_Comedy,181883]]"
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]"
-  - "[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Cast_in_a_Motion_Picture,518675]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]"
-  - "[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Actor,602299]]"
-  - "[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Supporting_Actor_Razzie_Award,641316]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Motion_Picture_Musical_or_Comedy,670282]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Supporting_Actor_Motion_Picture,723830]]"
-  - "[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Comedic_Performance,905247]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Musical_or_Comedy,181883]]'
+  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]'
+  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Cast_in_a_Motion_Picture,518675]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]'
+  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Actor,602299]]'
+  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Supporting_Actor_Razzie_Award,641316]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Motion_Picture_Musical_or_Comedy,670282]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Supporting_Actor_Motion_Picture,723830]]'
+  - '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Comedic_Performance,905247]]'
   - "[[_Standards/WikiData/WD~Critics'_Choice_Movie_Award_for_Best_Actor,922322]]"
-  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Comedy_Series,989442]]"
-  - "[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Male_Actor_in_a_Supporting_Role,1260789]]"
-  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Variety_Series,1265782]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Comedy_Album,1326340]]"
-  - "[[_Standards/WikiData/WD~Satellite_Award_for_Best_Actor_Motion_Picture,1627408]]"
-  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Guest_Actor_in_a_Drama_Series,2604800]]"
-  - "[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_On_Screen_Duo,4220900]]"
-  - "[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Male_Performance,4220901]]"
-  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Individual_Performance_in_a_Variety_or_Music_Program,4377021]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Album_for_Children,5593741]]"
-  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Variety,_Music,_or_Comedy_Special,7243516]]"
-  - "[[_Standards/WikiData/WD~Satellite_Award_for_Best_Actor_in_a_Musical_or_Comedy,11789125]]"
+  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Comedy_Series,989442]]'
+  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Male_Actor_in_a_Supporting_Role,1260789]]'
+  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Variety_Series,1265782]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Comedy_Album,1326340]]'
+  - '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Actor_Motion_Picture,1627408]]'
+  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Guest_Actor_in_a_Drama_Series,2604800]]'
+  - '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_On_Screen_Duo,4220900]]'
+  - '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Male_Performance,4220901]]'
+  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Individual_Performance_in_a_Variety_or_Music_Program,4377021]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Album_for_Children,5593741]]'
+  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Variety,_Music,_or_Comedy_Special,7243516]]'
+  - '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Actor_in_a_Musical_or_Comedy,11789125]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Mel_Brooks,104266]]"
-  - "[[_Standards/WikiData/WD~George_Carlin,150651]]"
-  - "[[_Standards/WikiData/WD~Peter_Sellers,177984]]"
-  - "[[_Standards/WikiData/WD~Richard_Pryor,294912]]"
-  - "[[_Standards/WikiData/WD~Chuck_Jones,312657]]"
-  - "[[_Standards/WikiData/WD~Spike_Milligan,561401]]"
-  - "[[_Standards/WikiData/WD~Jack_Paar,1587581]]"
-  - "[[_Standards/WikiData/WD~Stanley_Kubrick,2001]]"
-  - "[[_Standards/WikiData/WD~Jonathan_Winters,4538]]"
+  - '[[_Standards/WikiData/WD~Mel_Brooks,104266]]'
+  - '[[_Standards/WikiData/WD~George_Carlin,150651]]'
+  - '[[_Standards/WikiData/WD~Peter_Sellers,177984]]'
+  - '[[_Standards/WikiData/WD~Richard_Pryor,294912]]'
+  - '[[_Standards/WikiData/WD~Chuck_Jones,312657]]'
+  - '[[_Standards/WikiData/WD~Spike_Milligan,561401]]'
+  - '[[_Standards/WikiData/WD~Jack_Paar,1587581]]'
+  - '[[_Standards/WikiData/WD~Stanley_Kubrick,2001]]'
+  - '[[_Standards/WikiData/WD~Jonathan_Winters,4538]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Musical_or_Comedy,181883]]"
-  - "[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Cast_in_a_Motion_Picture,518675]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Motion_Picture_Musical_or_Comedy,670282]]"
-  - "[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Comedic_Performance,905247]]"
-  - "[[_Standards/WikiData/WD~Disney_Legends,1150306]]"
-  - "[[_Standards/WikiData/WD~Saturn_Award_for_Best_Supporting_Actor,1258647]]"
-  - "[[_Standards/WikiData/WD~Saturn_Award_for_Best_Actor,1259362]]"
-  - "[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Male_Actor_in_a_Supporting_Role,1260789]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Comedy_Album,1326340]]"
-  - "[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Actor,1790292]]"
-  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Individual_Performance_in_a_Variety_or_Music_Program,4377021]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Album_for_Children,5593741]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Jane_Fonda_Humanitarian_Award,133176391]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Musical_or_Comedy,181883]]'
+  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Cast_in_a_Motion_Picture,518675]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Motion_Picture_Musical_or_Comedy,670282]]'
+  - '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Comedic_Performance,905247]]'
+  - '[[_Standards/WikiData/WD~Disney_Legends,1150306]]'
+  - '[[_Standards/WikiData/WD~Saturn_Award_for_Best_Supporting_Actor,1258647]]'
+  - '[[_Standards/WikiData/WD~Saturn_Award_for_Best_Actor,1259362]]'
+  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Male_Actor_in_a_Supporting_Role,1260789]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Comedy_Album,1326340]]'
+  - '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Actor,1790292]]'
+  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Individual_Performance_in_a_Variety_or_Music_Program,4377021]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Album_for_Children,5593741]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~Jane_Fonda_Humanitarian_Award,133176391]]'
 medical_condition:
-  - "[[_Standards/WikiData/WD~dyslexia,132971]]"
-  - "[[_Standards/WikiData/WD~Lewy_body_dementia,1331905]]"
-  - "[[_Standards/WikiData/WD~depression,4340209]]"
-  - "[[_Standards/WikiData/WD~alcoholism,15326]]"
-cause_of_death: "[[_Standards/WikiData/WD~hanging_to_death,175111]]"
-record_label: "[[_Standards/WikiData/WD~Columbia_Records,183387]]"
+  - '[[_Standards/WikiData/WD~dyslexia,132971]]'
+  - '[[_Standards/WikiData/WD~Lewy_body_dementia,1331905]]'
+  - '[[_Standards/WikiData/WD~depression,4340209]]'
+  - '[[_Standards/WikiData/WD~alcoholism,15326]]'
+cause_of_death: '[[_Standards/WikiData/WD~hanging_to_death,175111]]'
+record_label: '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
 child:
-  - "[[_Standards/WikiData/WD~Zelda_Williams,187337]]"
-  - "[[_Standards/WikiData/WD~Cody_Williams,41705859]]"
-  - "[[_Standards/WikiData/WD~Zachary_Williams,61473291]]"
+  - '[[_Standards/WikiData/WD~Zelda_Williams,187337]]'
+  - '[[_Standards/WikiData/WD~Cody_Williams,41705859]]'
+  - '[[_Standards/WikiData/WD~Zachary_Williams,61473291]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~dubbing,187657]]"
-  - "[[_Standards/WikiData/WD~acting,222749]]"
-place_of_burial: "[[_Standards/WikiData/WD~San_Francisco_Bay,232264]]"
+  - '[[_Standards/WikiData/WD~dubbing,187657]]'
+  - '[[_Standards/WikiData/WD~acting,222749]]'
+place_of_burial: '[[_Standards/WikiData/WD~San_Francisco_Bay,232264]]'
 occupation:
-  - "[[_Standards/WikiData/WD~comedian,245068]]"
-  - "[[_Standards/WikiData/WD~mime_artist,674067]]"
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~voice_actor,2405480]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~stand_up_comedian,18545066]]"
-  - "[[_Standards/WikiData/WD~audiobook_narrator,20856740]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
+  - '[[_Standards/WikiData/WD~comedian,245068]]'
+  - '[[_Standards/WikiData/WD~mime_artist,674067]]'
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~voice_actor,2405480]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~stand_up_comedian,18545066]]'
+  - '[[_Standards/WikiData/WD~audiobook_narrator,20856740]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
 residence:
-  - "[[_Standards/WikiData/WD~Sea_Cliff,427116]]"
-  - "[[_Standards/WikiData/WD~Bloomfield_Hills,885355]]"
-  - "[[_Standards/WikiData/WD~Paradise_Cay,7134252]]"
-  - "[[_Standards/WikiData/WD~Chicago,1297]]"
-  - "[[_Standards/WikiData/WD~San_Francisco,62]]"
+  - '[[_Standards/WikiData/WD~Sea_Cliff,427116]]'
+  - '[[_Standards/WikiData/WD~Bloomfield_Hills,885355]]'
+  - '[[_Standards/WikiData/WD~Paradise_Cay,7134252]]'
+  - '[[_Standards/WikiData/WD~Chicago,1297]]'
+  - '[[_Standards/WikiData/WD~San_Francisco,62]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Juilliard_School,503246]]"
-  - "[[_Standards/WikiData/WD~Claremont_McKenna_College,5126318]]"
-  - "[[_Standards/WikiData/WD~College_of_Marin,5146760]]"
-  - "[[_Standards/WikiData/WD~Detroit_Country_Day_School,5265893]]"
-  - "[[_Standards/WikiData/WD~Durham_College,5316482]]"
-  - "[[_Standards/WikiData/WD~Redwood_High_School,7306508]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Episcopal_Church,682443]]"
-notable_work: "[[_Standards/WikiData/WD~What_Dreams_May_Come,839434]]"
+  - '[[_Standards/WikiData/WD~Juilliard_School,503246]]'
+  - '[[_Standards/WikiData/WD~Claremont_McKenna_College,5126318]]'
+  - '[[_Standards/WikiData/WD~College_of_Marin,5146760]]'
+  - '[[_Standards/WikiData/WD~Detroit_Country_Day_School,5265893]]'
+  - '[[_Standards/WikiData/WD~Durham_College,5316482]]'
+  - '[[_Standards/WikiData/WD~Redwood_High_School,7306508]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Episcopal_Church,682443]]'
+notable_work: '[[_Standards/WikiData/WD~What_Dreams_May_Come,839434]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~intervention,959298]]"
-  - "[[_Standards/WikiData/WD~heart_surgery,113585438]]"
+  - '[[_Standards/WikiData/WD~intervention,959298]]'
+  - '[[_Standards/WikiData/WD~heart_surgery,113585438]]'
 place_of_death:
-  - "[[_Standards/WikiData/WD~Tiburon,984603]]"
-  - "[[_Standards/WikiData/WD~Paradise_Cay,7134252]]"
+  - '[[_Standards/WikiData/WD~Tiburon,984603]]'
+  - '[[_Standards/WikiData/WD~Paradise_Cay,7134252]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Screen_Actors_Guild,1141037]]"
-  - "[[_Standards/WikiData/WD~SAG_AFTRA,16781948]]"
+  - '[[_Standards/WikiData/WD~Screen_Actors_Guild,1141037]]'
+  - '[[_Standards/WikiData/WD~SAG_AFTRA,16781948]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Robin,1158139]]"
-  - "[[_Standards/WikiData/WD~McLaurin,113009891]]"
-family_name: "[[_Standards/WikiData/WD~Williams,1688722]]"
+  - '[[_Standards/WikiData/WD~Robin,1158139]]'
+  - '[[_Standards/WikiData/WD~McLaurin,113009891]]'
+family_name: '[[_Standards/WikiData/WD~Williams,1688722]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Marsha_Garces,1902714]]"
-  - "[[_Standards/WikiData/WD~Susan_Schneider,17505003]]"
-  - "[[_Standards/WikiData/WD~Valerie_Velardi,47739341]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-sibling: "[[_Standards/WikiData/WD~Robert_Williams,9311159]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]"
-filmography: "[[_Standards/WikiData/WD~Robin_Williams_filmography,17157149]]"
-mother: "[[_Standards/WikiData/WD~Laura_McLaurin,17504610]]"
-father: "[[_Standards/WikiData/WD~Robert_Williams,17504615]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]"
-place_of_birth: "[[_Standards/WikiData/WD~Chicago,1297]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-manner_of_death: "[[_Standards/WikiData/WD~suicide,10737]]"
+  - '[[_Standards/WikiData/WD~Marsha_Garces,1902714]]'
+  - '[[_Standards/WikiData/WD~Susan_Schneider,17505003]]'
+  - '[[_Standards/WikiData/WD~Valerie_Velardi,47739341]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+sibling: '[[_Standards/WikiData/WD~Robert_Williams,9311159]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
+filmography: '[[_Standards/WikiData/WD~Robin_Williams_filmography,17157149]]'
+mother: '[[_Standards/WikiData/WD~Laura_McLaurin,17504610]]'
+father: '[[_Standards/WikiData/WD~Robert_Williams,17504615]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]'
+place_of_birth: '[[_Standards/WikiData/WD~Chicago,1297]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+manner_of_death: '[[_Standards/WikiData/WD~suicide,10737]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Robin_Williams,27252]]"
-  - "[[_Standards/WikiData/WD~Robbie_Williams,47875]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-work_location: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Robin_Williams,27252]]'
+  - '[[_Standards/WikiData/WD~Robbie_Williams,47875]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+work_location: '[[_Standards/WikiData/WD~United_States,30]]'
 net_worth: 100000000
 Commons_gallery: Robin Williams
 Commons_category: Robin Williams
@@ -150,7 +151,7 @@ date_of_death: 2014-08-11T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Robin%20Williams%202011a%20%282%29.jpg
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Robin%20Williams%20Walk%20of%20Fame.jpg
 official_website: http://www.robinwilliams.com
-ISNI: "0000000118795962"
+ISNI: 0000000118795962
 Libris_URI: 42gkrmvn0t3c69z
 Plex_person_key: 5d7768253c3c2a001fbcad1e
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/UILYAMS_ROBIN.html

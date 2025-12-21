@@ -5,84 +5,86 @@ aliases:
   - C. V. Raman
   - சந்திரசேகர வெங்கட ராமன்
   - Cantiracēkara Veṅkaṭa Rāmaṉ
+  - Raman,Chandrasekhara_Venkata
+  - Raman,Chandrasekhara Venkata
 has_id_wikidata: Q60429
 member_of:
-  - "[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]"
-  - "[[_Standards/WikiData/WD~Royal_Society,123885]]"
-  - "[[_Standards/WikiData/WD~Hungarian_Academy_of_Sciences,265058]]"
-  - "[[_Standards/WikiData/WD~Pontifical_Academy_of_Sciences,938622]]"
-  - "[[_Standards/WikiData/WD~Indian_National_Science_Academy,2095524]]"
-  - "[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]"
+  - '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
+  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+  - '[[_Standards/WikiData/WD~Hungarian_Academy_of_Sciences,265058]]'
+  - '[[_Standards/WikiData/WD~Pontifical_Academy_of_Sciences,938622]]'
+  - '[[_Standards/WikiData/WD~Indian_National_Science_Academy,2095524]]'
+  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]'
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~crystallographer,15142825]]"
-place_of_birth: "[[_Standards/WikiData/WD~Tiruchirappalli,207754]]"
+  - '[[_Standards/WikiData/WD~physicist,169470]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~crystallographer,15142825]]'
+place_of_birth: '[[_Standards/WikiData/WD~Tiruchirappalli,207754]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Bharat_Ratna,322132]]"
-  - "[[_Standards/WikiData/WD~Knight_Bachelor,833163]]"
-  - "[[_Standards/WikiData/WD~Hughes_Medal,844872]]"
-  - "[[_Standards/WikiData/WD~Matteucci_Medal,1419938]]"
-  - "[[_Standards/WikiData/WD~Franklin_Medal,3141777]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Bordeaux,93578093]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Calcutta,96233293]]"
-  - "[[_Standards/WikiData/WD~Honorary_Fellow_of_the_Royal_Society_Te_Apārangi,125121451]]"
-  - "[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Paris,126418747]]"
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]"
+  - '[[_Standards/WikiData/WD~Bharat_Ratna,322132]]'
+  - '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
+  - '[[_Standards/WikiData/WD~Hughes_Medal,844872]]'
+  - '[[_Standards/WikiData/WD~Matteucci_Medal,1419938]]'
+  - '[[_Standards/WikiData/WD~Franklin_Medal,3141777]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Bordeaux,93578093]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Calcutta,96233293]]'
+  - '[[_Standards/WikiData/WD~Honorary_Fellow_of_the_Royal_Society_Te_Apārangi,125121451]]'
+  - '[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Paris,126418747]]'
+  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
 doctoral_student:
-  - "[[_Standards/WikiData/WD~Vikram_Sarabhai,325470]]"
-  - "[[_Standards/WikiData/WD~G._N._Ramachandran,910690]]"
-  - "[[_Standards/WikiData/WD~S._Pancharatnam,1760743]]"
-  - "[[_Standards/WikiData/WD~K._R._Ramanathan,6323839]]"
+  - '[[_Standards/WikiData/WD~Vikram_Sarabhai,325470]]'
+  - '[[_Standards/WikiData/WD~G._N._Ramachandran,910690]]'
+  - '[[_Standards/WikiData/WD~S._Pancharatnam,1760743]]'
+  - '[[_Standards/WikiData/WD~K._R._Ramanathan,6323839]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Raman_scattering,466824]]"
-  - "[[_Standards/WikiData/WD~Q55442229,55442229]]"
+  - '[[_Standards/WikiData/WD~Raman_scattering,466824]]'
+  - '[[_Standards/WikiData/WD~Q55442229,55442229]]'
 employer:
-  - "[[_Standards/WikiData/WD~Banaras_Hindu_University,806116]]"
-  - "[[_Standards/WikiData/WD~Indian_Institute_of_Science,_Bengaluru,948720]]"
-  - "[[_Standards/WikiData/WD~University_of_Calcutta,1145306]]"
-noble_title: "[[_Standards/WikiData/WD~Knight_Bachelor,833163]]"
+  - '[[_Standards/WikiData/WD~Banaras_Hindu_University,806116]]'
+  - '[[_Standards/WikiData/WD~Indian_Institute_of_Science,_Bengaluru,948720]]'
+  - '[[_Standards/WikiData/WD~University_of_Calcutta,1145306]]'
+noble_title: '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Calcutta,1145306]]"
-  - "[[_Standards/WikiData/WD~University_of_Madras,1364464]]"
-  - "[[_Standards/WikiData/WD~Presidency_College,3276757]]"
+  - '[[_Standards/WikiData/WD~University_of_Calcutta,1145306]]'
+  - '[[_Standards/WikiData/WD~University_of_Madras,1364464]]'
+  - '[[_Standards/WikiData/WD~Presidency_College,3276757]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
 child:
-  - "[[_Standards/WikiData/WD~Venkatraman_Radhakrishnan,3521431]]"
-  - "[[_Standards/WikiData/WD~Chandrasekhar_(Raja)_Raman,124337417]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-student_of: "[[_Standards/WikiData/WD~Rhishard_Llewellyn_Jones,108195538]]"
-spouse: "[[_Standards/WikiData/WD~Lokasundari_Ammal,108750488]]"
-father: "[[_Standards/WikiData/WD~R._Chandrasekhara_Iyer,124331821]]"
-mother: "[[_Standards/WikiData/WD~Parvathi_Ammal,124331827]]"
+  - '[[_Standards/WikiData/WD~Venkatraman_Radhakrishnan,3521431]]'
+  - '[[_Standards/WikiData/WD~Chandrasekhar_(Raja)_Raman,124337417]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+student_of: '[[_Standards/WikiData/WD~Rhishard_Llewellyn_Jones,108195538]]'
+spouse: '[[_Standards/WikiData/WD~Lokasundari_Ammal,108750488]]'
+father: '[[_Standards/WikiData/WD~R._Chandrasekhara_Iyer,124331821]]'
+mother: '[[_Standards/WikiData/WD~Parvathi_Ammal,124331827]]'
 sibling:
-  - "[[_Standards/WikiData/WD~CS_Ayyar,124333132]]"
-  - "[[_Standards/WikiData/WD~Mangalam,124396851]]"
-  - "[[_Standards/WikiData/WD~Kumaraswamy_(Skandan),124409100]]"
-  - "[[_Standards/WikiData/WD~Sundaram,124414576]]"
-  - "[[_Standards/WikiData/WD~Sitalaxmi,124416098]]"
-  - "[[_Standards/WikiData/WD~Meena,124418318]]"
-  - "[[_Standards/WikiData/WD~Ramaswamy,124423006]]"
+  - '[[_Standards/WikiData/WD~CS_Ayyar,124333132]]'
+  - '[[_Standards/WikiData/WD~Mangalam,124396851]]'
+  - '[[_Standards/WikiData/WD~Kumaraswamy_(Skandan),124409100]]'
+  - '[[_Standards/WikiData/WD~Sundaram,124414576]]'
+  - '[[_Standards/WikiData/WD~Sitalaxmi,124416098]]'
+  - '[[_Standards/WikiData/WD~Meena,124418318]]'
+  - '[[_Standards/WikiData/WD~Ramaswamy,124423006]]'
 date_of_birth: 1888-11-07T00:00:00Z
-field_of_work: "[[_Standards/WikiData/WD~physics,413]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~India,668]]"
-residence: "[[_Standards/WikiData/WD~New_Delhi,987]]"
-place_of_death: "[[_Standards/WikiData/WD~Bengaluru,1355]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Hinduism,9089]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]"
+field_of_work: '[[_Standards/WikiData/WD~physics,413]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~India,668]]'
+residence: '[[_Standards/WikiData/WD~New_Delhi,987]]'
+place_of_death: '[[_Standards/WikiData/WD~Bengaluru,1355]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Hinduism,9089]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
 Commons_category: C. V. Raman
 date_of_death: 1970-11-21T00:00:00Z
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Chandrashekhara%20Venkata%20Raman%2C%20signature.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20CV%20Raman.JPG
-ISNI: "0000000108724554"
-P8189: "987007277666705171"
+ISNI: 0000000108724554
+P8189: 987007277666705171
 Google_Doodle: cv-ramans-125th-birthday
 Krugosvet_article: nauka_i_tehnika/fizika/RAMAN_CHANDRASEKARA_VENKATA.html
 Regensburg_Classification: UB 2733

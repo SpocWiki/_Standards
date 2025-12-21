@@ -1,33 +1,33 @@
 ---
 aliases:
-- Ethanal
-- Acetaldehyd
+  - Ethanal
+  - Acetaldehyd
 confidential: private
 cssclasses:
-- private
-- note
+  - private
+  - note
 draft: true
-expiryDate: 
+expiryDate: ''
 has_time_started: 2023-12-02
 isDeleted: false
 isReadOnly: false
 Key: Value
 keywords:
-- Ethanal
+  - Ethanal
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Ethanal
 Predicate:
-- Object
+  - Object
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Ethanal
-- rather
-- use
+  - Ethanal
+  - rather
+  - use
 title: Ethanal
-type: "private note"
+type: private note
 ---
 
 # [[Ethanal]] 

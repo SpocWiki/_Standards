@@ -4,20 +4,22 @@ aliases:
   - discussion_forum_posting
   - DiscussionForumPosting
   - is_a_discussion_forum_posting
+  - Discussion_Forum_Posting
+  - Discussion Forum Posting
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - discussion_forum_posting
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_discussion_forum_posting Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

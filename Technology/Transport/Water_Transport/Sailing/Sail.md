@@ -1,6 +1,7 @@
 ---
 aliases:
   - Segel
+  - Sail
 has_id_wikidata: Q25999
 ---
 

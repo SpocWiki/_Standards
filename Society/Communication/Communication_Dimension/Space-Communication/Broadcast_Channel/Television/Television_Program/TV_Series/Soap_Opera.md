@@ -3,21 +3,22 @@ aliases:
   - Soap Opera
   - daytime drama
   - soap
+  - Soap_Opera
 has_id_wikidata: Q23739
 subclass_of:
-  - "[[_Standards/WikiData/WD~melodrama,191489]]"
-  - "[[_Standards/WikiData/WD~drama_television_series,1366112]]"
-  - "[[_Standards/WikiData/WD~serial_drama,7724161]]"
+  - '[[_Standards/WikiData/WD~melodrama,191489]]'
+  - '[[_Standards/WikiData/WD~drama_television_series,1366112]]'
+  - '[[_Standards/WikiData/WD~serial_drama,7724161]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~téléroman,2388283]]"
-  - "[[_Standards/WikiData/WD~telenovela,23745]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~serial_drama,7724161]]"
+  - '[[_Standards/WikiData/WD~téléroman,2388283]]'
+  - '[[_Standards/WikiData/WD~telenovela,23745]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~serial_drama,7724161]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~television_series_genre,12343431]]"
-  - "[[_Standards/WikiData/WD~radio_genre,15961983]]"
-different_from: "[[_Standards/WikiData/WD~television_opera,106393147]]"
-IAB_code: "642"
-OmegaWiki_Defined_Meaning: "624635"
+  - '[[_Standards/WikiData/WD~television_series_genre,12343431]]'
+  - '[[_Standards/WikiData/WD~radio_genre,15961983]]'
+different_from: '[[_Standards/WikiData/WD~television_opera,106393147]]'
+IAB_code: 642
+OmegaWiki_Defined_Meaning: 624635
 IMDb_keyword: soap-opera
 exact_match: http://cv.iptc.org/newscodes/subjectcode/01016001
 Commons_category: Soap operas

@@ -4,20 +4,22 @@ aliases:
   - internet_cafe
   - InternetCafe
   - is_an_internet_cafe
+  - Internet_Cafe
+  - Internet Cafe
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - internet_cafe
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_internet_cafe Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

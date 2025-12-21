@@ -2,25 +2,26 @@
 aliases:
   - γραφικός
   - التصميم
+  - Graphics
 has_id_wikidata: Q1027879
 different_from:
-  - "[[_Standards/WikiData/WD~graph_of_a_function,182598]]"
-  - "[[_Standards/WikiData/WD~Grafík,16425439]]"
-  - "[[_Standards/WikiData/WD~chart,28923]]"
-field_of_work: "[[_Standards/WikiData/WD~graphic_design,185925]]"
+  - '[[_Standards/WikiData/WD~graph_of_a_function,182598]]'
+  - '[[_Standards/WikiData/WD~Grafík,16425439]]'
+  - '[[_Standards/WikiData/WD~chart,28923]]'
+field_of_work: '[[_Standards/WikiData/WD~graphic_design,185925]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~painter,1028181]]"
-  - "[[_Standards/WikiData/WD~printmaker,11569986]]"
-  - "[[_Standards/WikiData/WD~graphicer,108890218]]"
+  - '[[_Standards/WikiData/WD~painter,1028181]]'
+  - '[[_Standards/WikiData/WD~printmaker,11569986]]'
+  - '[[_Standards/WikiData/WD~graphicer,108890218]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~method,1799072]]"
-  - "[[_Standards/WikiData/WD~type_of_arts,56055944]]"
+  - '[[_Standards/WikiData/WD~method,1799072]]'
+  - '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~activity,1914636]]"
-  - "[[_Standards/WikiData/WD~visual_arts,36649]]"
+  - '[[_Standards/WikiData/WD~activity,1914636]]'
+  - '[[_Standards/WikiData/WD~visual_arts,36649]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 Commons_category: Graphics
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Carillon%20School%20Jef%20Denyn%20logo.png
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/GRAFIKA.html

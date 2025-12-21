@@ -4,6 +4,8 @@ aliases:
   - reference frame
   - Bezugssystem
   - Inertialsystem
+  - Frame_of_Reference
+  - Frame of Reference
 has_id_wikidata: Q184876
 ---
 

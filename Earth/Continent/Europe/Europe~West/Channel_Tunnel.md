@@ -3,45 +3,47 @@ aliases:
   - Kanal-Tunnel
   - Tunnel sous la Manche
   - Chunnel
+  - Channel_Tunnel
+  - Channel Tunnel
 has_id_wikidata: Q10257
 carries:
-  - "[[_Standards/WikiData/WD~LGV_Nord,241723]]"
-  - "[[_Standards/WikiData/WD~High_Speed_1,277604]]"
+  - '[[_Standards/WikiData/WD~LGV_Nord,241723]]'
+  - '[[_Standards/WikiData/WD~High_Speed_1,277604]]'
 terminus_location:
-  - "[[_Standards/WikiData/WD~Coquelles,380987]]"
-  - "[[_Standards/WikiData/WD~Cheriton,5091980]]"
-significant_event: "[[_Standards/WikiData/WD~construction_time,811972]]"
+  - '[[_Standards/WikiData/WD~Coquelles,380987]]'
+  - '[[_Standards/WikiData/WD~Cheriton,5091980]]'
+significant_event: '[[_Standards/WikiData/WD~construction_time,811972]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~railway_tunnel,1311958]]"
-  - "[[_Standards/WikiData/WD~road_tunnel,2354973]]"
+  - '[[_Standards/WikiData/WD~railway_tunnel,1311958]]'
+  - '[[_Standards/WikiData/WD~road_tunnel,2354973]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~railway_tunnel,1311958]]"
-  - "[[_Standards/WikiData/WD~undersea_tunnel,1317590]]"
-  - "[[_Standards/WikiData/WD~international_tunnel,26263224]]"
-track_gauge: "[[_Standards/WikiData/WD~standard_gauge_railway,1999572]]"
-operator: "[[_Standards/WikiData/WD~Getlink,2274634]]"
-owned_by: "[[_Standards/WikiData/WD~Getlink,2274634]]"
+  - '[[_Standards/WikiData/WD~railway_tunnel,1311958]]'
+  - '[[_Standards/WikiData/WD~undersea_tunnel,1317590]]'
+  - '[[_Standards/WikiData/WD~international_tunnel,26263224]]'
+track_gauge: '[[_Standards/WikiData/WD~standard_gauge_railway,1999572]]'
+operator: '[[_Standards/WikiData/WD~Getlink,2274634]]'
+owned_by: '[[_Standards/WikiData/WD~Getlink,2274634]]'
 industry:
-  - "[[_Standards/WikiData/WD~rail_transport,3565868]]"
-  - "[[_Standards/WikiData/WD~financial_service_activities,_except_insurance_and_pension_funding,29584334]]"
-  - "[[_Standards/WikiData/WD~architectural_and_engineering_activities;_technical_testing_and_analysis,29584343]]"
-part_of: "[[_Standards/WikiData/WD~Seven_Wonders_of_the_Modern_World,12800832]]"
-railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750]]"
-route_diagram_template: "[[_Standards/WikiData/WD~Template_Channel_Tunnel_RDT,20337610]]"
+  - '[[_Standards/WikiData/WD~rail_transport,3565868]]'
+  - '[[_Standards/WikiData/WD~financial_service_activities,_except_insurance_and_pension_funding,29584334]]'
+  - '[[_Standards/WikiData/WD~architectural_and_engineering_activities;_technical_testing_and_analysis,29584343]]'
+part_of: '[[_Standards/WikiData/WD~Seven_Wonders_of_the_Modern_World,12800832]]'
+railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
+route_diagram_template: '[[_Standards/WikiData/WD~Template_Channel_Tunnel_RDT,20337610]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Kent,21694674]]"
-  - "[[_Standards/WikiData/WD~Pas_de_Calais,12689]]"
-historic_county: "[[_Standards/WikiData/WD~Kent,67479626]]"
-type_of_electrification: "[[_Standards/WikiData/WD~25_kV,_50_Hz_AC_railway_electrification,106530439]]"
+  - '[[_Standards/WikiData/WD~Kent,21694674]]'
+  - '[[_Standards/WikiData/WD~Pas_de_Calais,12689]]'
+historic_county: '[[_Standards/WikiData/WD~Kent,67479626]]'
+type_of_electrification: '[[_Standards/WikiData/WD~25_kV,_50_Hz_AC_railway_electrification,106530439]]'
 coordinate_location: Point(1.45 51.01667)
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-headquarters_locations: "[[_Standards/WikiData/WD~London,84]]"
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+headquarters_locations: '[[_Standards/WikiData/WD~London,84]]'
 country:
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~France,142]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 capital_cost: 15000000000
 speed_limit: 160
-crosses: "[[_Standards/WikiData/WD~English_Channel,34640]]"
+crosses: '[[_Standards/WikiData/WD~English_Channel,34640]]'
 length: 50450
 Commons_gallery: Eurotunnel
 route_map:
@@ -53,7 +55,7 @@ official_website:
   - https://www.eurotunnel.com/fr/
   - https://www.eurotunnel.com/nl/
   - https://www.eurotunnel.com/uk/
-P8189: "987007542037305171"
+P8189: 987007542037305171
 Commons_category: Channel Tunnel
 native_label:
   - Channel Tunnel

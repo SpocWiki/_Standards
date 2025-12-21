@@ -1,18 +1,19 @@
 ---
 aliases:
   - Oil painting
+  - Oil_painting
 has_id_wikidata: Q174705
-uses: "[[_Standards/WikiData/WD~oil_paint,296955]]"
+uses: '[[_Standards/WikiData/WD~oil_paint,296955]]'
 different_from:
-  - "[[_Standards/WikiData/WD~oil_paint,296955]]"
-  - "[[_Standards/WikiData/WD~oil_painting,56676227]]"
-instance_of: "[[_Standards/WikiData/WD~painting_technique,1231896]]"
-described_by_source: "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-has_effect: "[[_Standards/WikiData/WD~oil_painting,56676227]]"
-practiced_by: "[[_Standards/WikiData/WD~oil_painter,59924426]]"
+  - '[[_Standards/WikiData/WD~oil_paint,296955]]'
+  - '[[_Standards/WikiData/WD~oil_painting,56676227]]'
+instance_of: '[[_Standards/WikiData/WD~painting_technique,1231896]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+has_effect: '[[_Standards/WikiData/WD~oil_painting,56676227]]'
+practiced_by: '[[_Standards/WikiData/WD~oil_painter,59924426]]'
 inception: 1433-01-01T00:00:00Z
-subclass_of: "[[_Standards/WikiData/WD~art_of_painting,11629]]"
-locations: "[[_Standards/WikiData/WD~London,84]]"
+subclass_of: '[[_Standards/WikiData/WD~art_of_painting,11629]]'
+locations: '[[_Standards/WikiData/WD~London,84]]'
 described_at_URL:
   - https://huyanhdecor.vn/rem-cuon-tranh-3d-dep-889/
   - http://nhadepdanang.com.vn/nha-pho-3-tang-anh-hai

@@ -1,4 +1,16 @@
 ---
+aliases:
+  - Comoros
+  - Comoras
+  - Comores
+  - جزر القمر
+  - 科摩罗
+  - Коморские Острова
+  - the Union of the Comoros
+  - Comoros (the)
+  - la Unión de las Comoras
+  - Comoras (las)
+has_id_wikidata: Q970
 instance_of:
   - "[[_Standards/WikiData/WD~island_country,112099]]"
   - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
@@ -247,7 +259,6 @@ CIVICUS_Monitor_country_entry: comoros
 Unicode_character: 🇰🇲
 IPA_transcription: ku'muːɾn̩ə
 Krugosvet_article: strany_mira/KOMORSKIE_OSTROVA.html
-has_id_wikidata: Q970
 location:
   - -11.7
   - 43.25
@@ -264,23 +275,12 @@ cssclasses:
   - Country
 publish: true
 title: Comoros
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Comoros
-  - Comoras
-  - Comores
-  - جزر القمر
-  - 科摩罗
-  - Коморские Острова
-  - the Union of the Comoros
-  - Comoros (the)
-  - la Unión de las Comoras
-  - Comoras (las)
+publishDate: ""
+expiryDate: ""
 Languages:
   - ar
   - fr-KM

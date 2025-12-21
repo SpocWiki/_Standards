@@ -2,6 +2,8 @@
 aliases:
   - Galilean invariance
   - Galilean relativity
+  - Galilean_Relativity
+  - Galilean Relativity
 ---
 
 # [[Galilean_Relativity]] 

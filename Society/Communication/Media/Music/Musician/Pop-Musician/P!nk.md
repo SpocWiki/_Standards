@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Alecia Beth Moore"
-- "Pink Singer"
+  - Alecia Beth Moore
+  - Pink Singer
+  - P!nk
 ---
 
 #has_/time_/started :: 1979-09-08  

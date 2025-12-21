@@ -4,20 +4,22 @@ aliases:
   - contact_point_option
   - ContactPointOption
   - is_a_contact_point_option
+  - Contact_Point_Option
+  - Contact Point Option
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - contact_point_option
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_contact_point_option Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

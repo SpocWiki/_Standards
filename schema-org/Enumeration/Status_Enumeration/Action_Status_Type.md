@@ -4,20 +4,22 @@ aliases:
   - action_status_type
   - ActionStatusType
   - is_an_action_status_type
+  - Action_Status_Type
+  - Action Status Type
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - action_status_type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_action_status_type Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -4,76 +4,78 @@ aliases:
   - Niels Henrik Abel
   - Niels Abel
   - Abel
+  - Abel,Niels_Henrik
+  - Abel,Niels Henrik
 has_id_wikidata: Q124115
 field_of_work:
-  - "[[_Standards/WikiData/WD~calculus,149972]]"
-  - "[[_Standards/WikiData/WD~abelian_group,181296]]"
-  - "[[_Standards/WikiData/WD~functional_analysis,190549]]"
-  - "[[_Standards/WikiData/WD~group_theory,874429]]"
-  - "[[_Standards/WikiData/WD~elliptic_function,938102]]"
-  - "[[_Standards/WikiData/WD~mathematics,395]]"
-  - "[[_Standards/WikiData/WD~algebraic_equation,50698]]"
+  - '[[_Standards/WikiData/WD~calculus,149972]]'
+  - '[[_Standards/WikiData/WD~abelian_group,181296]]'
+  - '[[_Standards/WikiData/WD~functional_analysis,190549]]'
+  - '[[_Standards/WikiData/WD~group_theory,874429]]'
+  - '[[_Standards/WikiData/WD~elliptic_function,938102]]'
+  - '[[_Standards/WikiData/WD~mathematics,395]]'
+  - '[[_Standards/WikiData/WD~algebraic_equation,50698]]'
 occupation:
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
+  - '[[_Standards/WikiData/WD~mathematician,170790]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~abelian_group,181296]]"
+  - '[[_Standards/WikiData/WD~abelian_group,181296]]'
   - "[[_Standards/WikiData/WD~Abel's_binomial_theorem,268031]]"
-  - "[[_Standards/WikiData/WD~abelian_extension,318705]]"
-  - "[[_Standards/WikiData/WD~abelian_category,318737]]"
-  - "[[_Standards/WikiData/WD~abelian_variety,318751]]"
+  - '[[_Standards/WikiData/WD~abelian_extension,318705]]'
+  - '[[_Standards/WikiData/WD~abelian_category,318737]]'
+  - '[[_Standards/WikiData/WD~abelian_variety,318751]]'
   - "[[_Standards/WikiData/WD~Abel's_theorem,318767]]"
-  - "[[_Standards/WikiData/WD~Abel_Ruffini_theorem,657482]]"
-  - "[[_Standards/WikiData/WD~Abel_polynomials,3395686]]"
+  - '[[_Standards/WikiData/WD~Abel_Ruffini_theorem,657482]]'
+  - '[[_Standards/WikiData/WD~Abel_polynomials,3395686]]'
   - "[[_Standards/WikiData/WD~Abel's_inequality,4666526]]"
-  - "[[_Standards/WikiData/WD~Abel_transform,4666656]]"
-  - "[[_Standards/WikiData/WD~Abel_Plana_formula,4666730]]"
-  - "[[_Standards/WikiData/WD~Abel_Jacobi_map,4666729]]"
-  - "[[_Standards/WikiData/WD~Abel_elliptic_functions,27105750]]"
-different_from: "[[_Standards/WikiData/WD~Abel,224167]]"
-family_name: "[[_Standards/WikiData/WD~Abel,318363]]"
+  - '[[_Standards/WikiData/WD~Abel_transform,4666656]]'
+  - '[[_Standards/WikiData/WD~Abel_Plana_formula,4666730]]'
+  - '[[_Standards/WikiData/WD~Abel_Jacobi_map,4666729]]'
+  - '[[_Standards/WikiData/WD~Abel_elliptic_functions,27105750]]'
+different_from: '[[_Standards/WikiData/WD~Abel,224167]]'
+family_name: '[[_Standards/WikiData/WD~Abel,318363]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Oslo,486156]]"
-  - "[[_Standards/WikiData/WD~Oslo_Cathedral_School,672095]]"
-  - "[[_Standards/WikiData/WD~University_of_France,3551587]]"
-doctoral_advisor: "[[_Standards/WikiData/WD~Bernt_Michael_Holmboe,523127]]"
+  - '[[_Standards/WikiData/WD~University_of_Oslo,486156]]'
+  - '[[_Standards/WikiData/WD~Oslo_Cathedral_School,672095]]'
+  - '[[_Standards/WikiData/WD~University_of_France,3551587]]'
+doctoral_advisor: '[[_Standards/WikiData/WD~Bernt_Michael_Holmboe,523127]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Henrik,594279]]"
-  - "[[_Standards/WikiData/WD~Niels,2001572]]"
+  - '[[_Standards/WikiData/WD~Henrik,594279]]'
+  - '[[_Standards/WikiData/WD~Niels,2001572]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
   - "[[_Standards/WikiData/WD~Orgelbrand's_Universal_Encyclopedia,19798659]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-is_member_of: "[[_Standards/WikiData/WD~Royal_Norwegian_Society_of_Sciences_and_Letters,1201052]]"
-father: "[[_Standards/WikiData/WD~Søren_Georg_Abel,3307968]]"
-residence: "[[_Standards/WikiData/WD~University_of_France,3551587]]"
-employer: "[[_Standards/WikiData/WD~University_of_France,3551587]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-place_of_burial: "[[_Standards/WikiData/WD~Q11970385,11970385]]"
-award_received: "[[_Standards/WikiData/WD~Grand_prix_des_sciences_mathématiques,20723338]]"
-place_of_birth: "[[_Standards/WikiData/WD~Finnøy,23042350]]"
-place_of_death: "[[_Standards/WikiData/WD~Froland,48970592]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Christine_Kemp,108664976]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+is_member_of: '[[_Standards/WikiData/WD~Royal_Norwegian_Society_of_Sciences_and_Letters,1201052]]'
+father: '[[_Standards/WikiData/WD~Søren_Georg_Abel,3307968]]'
+residence: '[[_Standards/WikiData/WD~University_of_France,3551587]]'
+employer: '[[_Standards/WikiData/WD~University_of_France,3551587]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+place_of_burial: '[[_Standards/WikiData/WD~Q11970385,11970385]]'
+award_received: '[[_Standards/WikiData/WD~Grand_prix_des_sciences_mathématiques,20723338]]'
+place_of_birth: '[[_Standards/WikiData/WD~Finnøy,23042350]]'
+place_of_death: '[[_Standards/WikiData/WD~Froland,48970592]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Christine_Kemp,108664976]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Norwegian,9043]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-medical_condition: "[[_Standards/WikiData/WD~tuberculosis,12204]]"
-cause_of_death: "[[_Standards/WikiData/WD~tuberculosis,12204]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Norway,20]]"
+  - '[[_Standards/WikiData/WD~Norwegian,9043]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+  - '[[_Standards/WikiData/WD~German,188]]'
+medical_condition: '[[_Standards/WikiData/WD~tuberculosis,12204]]'
+cause_of_death: '[[_Standards/WikiData/WD~tuberculosis,12204]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Norway,20]]'
 Commons_gallery: Niels Henrik Abel
 Commons_category: Niels Henrik Abel
 BHCL_UUID: 4147a145-a5ca-4534-befa-84cea5acb789
@@ -82,7 +84,7 @@ date_of_death: 1829-04-06T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Niels%20Henrik%20Abel.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Niels%20Henrik%20Abel%20signature.png
 described_at_URL: http://www.digiporta.net/index.php?id=129535446
-ISNI: "0000000123209411"
+ISNI: 0000000123209411
 Krugosvet_article_archived_: nauka_i_tehnika/transport_i_svyaz/ABEL_NILS_HENRIK.html
 Regensburg_Classification: SF 1000
 Libris_URI: sq4680gb0qhnj4p

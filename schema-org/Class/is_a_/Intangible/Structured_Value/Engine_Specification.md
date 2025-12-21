@@ -4,20 +4,22 @@ aliases:
   - engine_specification
   - EngineSpecification
   - is_an_engine_specification
+  - Engine_Specification
+  - Engine Specification
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - engine_specification
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_engine_specification Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

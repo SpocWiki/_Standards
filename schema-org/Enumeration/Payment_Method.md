@@ -4,20 +4,22 @@ aliases:
   - payment_method
   - PaymentMethod
   - is_a_payment_method
+  - Payment_Method
+  - Payment Method
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - payment_method
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_payment_method Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

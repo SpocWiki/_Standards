@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ImageGallery
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ImageGallery
-- class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery/ImageGallery
-- is_an_/ImageGallery
-- schema-org/ImageGallery
+  - class/ImageGallery
+  - class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery/ImageGallery
+  - is_an_/ImageGallery
+  - schema-org/ImageGallery
 tags:
-- class/FileClass
-- class/ImageGallery
-- '#is_an_/ImageGallery'
-- class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery/ImageGallery
+  - class/FileClass
+  - class/ImageGallery
+  - '#is_an_/ImageGallery'
+  - class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery/ImageGallery
 version: 2.0
 ---
 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Jain Dharma
+  - Jainism
 ---
 
 # [[Jainism]] 

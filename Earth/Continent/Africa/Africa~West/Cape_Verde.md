@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Cape Verde
+  - Cabo Verde
+  - كابو فيردي
+  - 佛得角
+  - Кабо-Верде
+  - the Republic of Cabo Verde
+  - la República de Cabo Verde
+  - Cape_Verde
+has_id_wikidata: Q1011
 member_of:
   - "[[_Standards/WikiData/WD~Food_and_Agriculture_Organization,82151]]"
   - "[[_Standards/WikiData/WD~Non-Aligned_Movement,83201]]"
@@ -285,7 +295,6 @@ U_S_National_Archives_Identifier: 10044245
 Commons_category: Cape Verde
 GitHub_topic: cape-verde
 CIVICUS_Monitor_country_entry: cape-verde
-has_id_wikidata: Q1011
 location:
   - 14.9167
   - -23.5167
@@ -302,20 +311,12 @@ cssclasses:
   - Country
 publish: true
 title: Cape Verde
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Cape Verde
-  - Cabo Verde
-  - كابو فيردي
-  - 佛得角
-  - Кабо-Верде
-  - the Republic of Cabo Verde
-  - la República de Cabo Verde
+publishDate: ""
+expiryDate: ""
 Languages:
   - pt-CV
 ---

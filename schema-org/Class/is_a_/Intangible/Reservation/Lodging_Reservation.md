@@ -4,20 +4,22 @@ aliases:
   - lodging_reservation
   - LodgingReservation
   - is_a_lodging_reservation
+  - Lodging_Reservation
+  - Lodging Reservation
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - lodging_reservation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_lodging_reservation Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

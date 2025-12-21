@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _North-America-CountryDb
+  - ' North-America-CountryDb'
 database_plugin: basic
 ---
 

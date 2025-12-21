@@ -1,25 +1,27 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CivicStructureAndEmergencyService
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService
 fields:
-- id: tFDC7A
-  name: OpeningHours
-  options: {}
-  type: Input
-  path: ''
+  - id: tFDC7A
+    name: OpeningHours
+    options: {}
+    type: Input
+    path: ''
 icon: siren
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CivicStructureAndEmergencyService
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService
-- is_a_/CivicStructureAndEmergencyService
-- schema-org/CivicStructureAndEmergencyService
+  - class/CivicStructureAndEmergencyService
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService
+  - is_a_/CivicStructureAndEmergencyService
+  - schema-org/CivicStructureAndEmergencyService
 tags:
-- class/FileClass
-- class/CivicStructureAndEmergencyService
-- is_a_/CivicStructureAndEmergencyService
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService
+  - class/FileClass
+  - class/CivicStructureAndEmergencyService
+  - is_a_/CivicStructureAndEmergencyService
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService
 version: 2.0
 ---
 

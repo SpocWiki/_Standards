@@ -1,31 +1,33 @@
 ---
 aliases:
-- same-as
-- same_as
-- sameAs
-- owl~sameAs
-- has_url_for_same_as
-- "schema:sameAs"
-- "owl:sameAs"
-- "wdt:P2888"
+  - same-as
+  - same_as
+  - sameAs
+  - owl~sameAs
+  - has_url_for_same_as
+  - schema:sameAs
+  - owl:sameAs
+  - wdt:P2888
+  - is_same_as
+  - is same as
 confidential: public
 cssclasses:
-- Predicate
-- Url
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- same_as
-layout: 
-license: "CC BY-SA 4.0"
+  - same_as
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_url_for_same_as
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Url
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for_same_as
 type: Predi_Url
 ---

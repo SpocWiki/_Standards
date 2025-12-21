@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CompleteDataFeed
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CompleteDataFeed
-- class/Thing/CreativeWork/Dataset/DataFeed/CompleteDataFeed
-- is_a_/CompleteDataFeed
-- schema-org/CompleteDataFeed
+  - class/CompleteDataFeed
+  - class/Thing/CreativeWork/Dataset/DataFeed/CompleteDataFeed
+  - is_a_/CompleteDataFeed
+  - schema-org/CompleteDataFeed
 tags:
-- class/FileClass
-- class/CompleteDataFeed
-- is_a_/CompleteDataFeed
-- class/Thing/CreativeWork/Dataset/DataFeed/CompleteDataFeed
+  - class/FileClass
+  - class/CompleteDataFeed
+  - is_a_/CompleteDataFeed
+  - class/Thing/CreativeWork/Dataset/DataFeed/CompleteDataFeed
 version: 2.0
 ---
 

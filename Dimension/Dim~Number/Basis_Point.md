@@ -1,14 +1,16 @@
 ---
 aliases:
   - Basispunkt
+  - Basis_Point
+  - Basis Point
 has_id_wikidata: Q750178
-measured_physical_quantity: "[[_Standards/WikiData/WD~dimensionless_quantity,126818]]"
-follows: "[[_Standards/WikiData/WD~per_mille,181011]]"
+measured_physical_quantity: '[[_Standards/WikiData/WD~dimensionless_quantity,126818]]'
+follows: '[[_Standards/WikiData/WD~per_mille,181011]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~dimensionless_unit,1618549]]"
-  - "[[_Standards/WikiData/WD~parts_per_notation,27084]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~percentage_in_point,1628727]]"
-subdivision_of_this_unit: "[[_Standards/WikiData/WD~per_cent_mille,7166837]]"
+  - '[[_Standards/WikiData/WD~dimensionless_unit,1618549]]'
+  - '[[_Standards/WikiData/WD~parts_per_notation,27084]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~percentage_in_point,1628727]]'
+subdivision_of_this_unit: '[[_Standards/WikiData/WD~per_cent_mille,7166837]]'
 conversion_to_standard_unit:
   - 100000000000
   - 100000000

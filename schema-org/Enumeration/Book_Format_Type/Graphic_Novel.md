@@ -4,21 +4,23 @@ aliases:
   - graphic_novel
   - GraphicNovel
   - is_a_graphic_novel
+  - Graphic_Novel
+  - Graphic Novel
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: BookFormatType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - graphic_novel
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_graphic_novel Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

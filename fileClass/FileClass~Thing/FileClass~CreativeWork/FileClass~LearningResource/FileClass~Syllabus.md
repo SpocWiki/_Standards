@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Syllabus
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Syllabus
-- class/Thing/CreativeWork/LearningResource/Syllabus
-- is_a_/Syllabus
-- schema-org/Syllabus
+  - class/Syllabus
+  - class/Thing/CreativeWork/LearningResource/Syllabus
+  - is_a_/Syllabus
+  - schema-org/Syllabus
 tags:
-- class/FileClass
-- class/Syllabus
-- is_a_/Syllabus
-- class/Thing/CreativeWork/LearningResource/Syllabus
+  - class/FileClass
+  - class/Syllabus
+  - is_a_/Syllabus
+  - class/Thing/CreativeWork/LearningResource/Syllabus
 version: 2.0
 ---
 

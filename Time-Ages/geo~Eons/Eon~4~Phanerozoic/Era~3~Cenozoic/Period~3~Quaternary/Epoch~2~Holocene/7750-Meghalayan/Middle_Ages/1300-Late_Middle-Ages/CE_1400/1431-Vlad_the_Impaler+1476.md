@@ -5,60 +5,62 @@ aliases:
   - Vlad Țepeș
   - Vlad Dracula
   - Vlad Drăculea
+  - 1431-Vlad_the_Impaler+1476
+  - 1431-Vlad the Impaler+1476
 has_id_wikidata: Q43715
 Commons_gallery: Vlad Ţepeş
 name_in_native_language: Vlad al III-lea Țepeș
-manner_of_death: "[[_Standards/WikiData/WD~homicide,149086]]"
-place_of_birth: "[[_Standards/WikiData/WD~Sighișoara,193001]]"
-cause_of_death: "[[_Standards/WikiData/WD~decapitation,204933]]"
-different_from: "[[_Standards/WikiData/WD~Dracula,224630]]"
+manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
+place_of_birth: '[[_Standards/WikiData/WD~Sighișoara,193001]]'
+cause_of_death: '[[_Standards/WikiData/WD~decapitation,204933]]'
+different_from: '[[_Standards/WikiData/WD~Dracula,224630]]'
 noble_title:
-  - "[[_Standards/WikiData/WD~voivode,275102]]"
-  - "[[_Standards/WikiData/WD~prince,2747456]]"
+  - '[[_Standards/WikiData/WD~voivode,275102]]'
+  - '[[_Standards/WikiData/WD~prince,2747456]]'
 position_held:
-  - "[[_Standards/WikiData/WD~voivode,275102]]"
-  - "[[_Standards/WikiData/WD~lord_of_Wallachia,673697]]"
-  - "[[_Standards/WikiData/WD~monarch,116]]"
-father: "[[_Standards/WikiData/WD~Vlad_II_Dracul,380330]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Principality_of_Wallachia,389004]]"
+  - '[[_Standards/WikiData/WD~voivode,275102]]'
+  - '[[_Standards/WikiData/WD~lord_of_Wallachia,673697]]'
+  - '[[_Standards/WikiData/WD~monarch,116]]'
+father: '[[_Standards/WikiData/WD~Vlad_II_Dracul,380330]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Principality_of_Wallachia,389004]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Radu_cel_Frumos,535103]]"
-  - "[[_Standards/WikiData/WD~Vlad_Călugărul,672742]]"
-  - "[[_Standards/WikiData/WD~Mircea_II_of_Wallachia,957293]]"
-family: "[[_Standards/WikiData/WD~House_of_Drăculești,645853]]"
+  - '[[_Standards/WikiData/WD~Radu_cel_Frumos,535103]]'
+  - '[[_Standards/WikiData/WD~Vlad_Călugărul,672742]]'
+  - '[[_Standards/WikiData/WD~Mircea_II_of_Wallachia,957293]]'
+family: '[[_Standards/WikiData/WD~House_of_Drăculești,645853]]'
 child:
-  - "[[_Standards/WikiData/WD~Mihnea_cel_Rău,715428]]"
-  - "[[_Standards/WikiData/WD~Vlad,131730878]]"
-residence: "[[_Standards/WikiData/WD~Poenari_Castle,1013551]]"
-occupation: "[[_Standards/WikiData/WD~ruler,1097498]]"
-place_of_burial: "[[_Standards/WikiData/WD~Snagov_Monastery,3320343]]"
-present_in_work: "[[_Standards/WikiData/WD~Skazanie_o_Drakule_Voivode,4421344]]"
-spouse: "[[_Standards/WikiData/WD~Ilona_Szilágyi,6001059]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-given_name: "[[_Standards/WikiData/WD~Vlad,11903501]]"
-mother: "[[_Standards/WikiData/WD~Vasilissa,116150731]]"
+  - '[[_Standards/WikiData/WD~Mihnea_cel_Rău,715428]]'
+  - '[[_Standards/WikiData/WD~Vlad,131730878]]'
+residence: '[[_Standards/WikiData/WD~Poenari_Castle,1013551]]'
+occupation: '[[_Standards/WikiData/WD~ruler,1097498]]'
+place_of_burial: '[[_Standards/WikiData/WD~Snagov_Monastery,3320343]]'
+present_in_work: '[[_Standards/WikiData/WD~Skazanie_o_Drakule_Voivode,4421344]]'
+spouse: '[[_Standards/WikiData/WD~Ilona_Szilágyi,6001059]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~Vlad,11903501]]'
+mother: '[[_Standards/WikiData/WD~Vasilissa,116150731]]'
 date_of_death:
   - 1477-01-01T00:00:00Z
   - 1476-12-01T00:00:00Z
 date_of_birth:
   - 1431-11-11T00:00:00Z
   - 1431-01-01T00:00:00Z
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Romanian,7913]]"
-  - "[[_Standards/WikiData/WD~Hungarian,9067]]"
-  - "[[_Standards/WikiData/WD~Church_Slavonic,33251]]"
-place_of_death: "[[_Standards/WikiData/WD~Bucharest,19660]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Romanian,7913]]'
+  - '[[_Standards/WikiData/WD~Hungarian,9067]]'
+  - '[[_Standards/WikiData/WD~Church_Slavonic,33251]]'
+place_of_death: '[[_Standards/WikiData/WD~Bucharest,19660]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 BHCL_UUID: baa4d6bd-85b4-4e11-b6e2-5bd4593f19dc
 Commons_category: Vlad III the Impaler
 signature:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Vlad%20%C5%A2epe%C5%9F%20signature.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Vlad%20the%20Impaler%20signature.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vlad%20%C5%A2epe%C5%9F%2C%20the%20Impaler%2C%20Prince%20of%20Wallachia%20%281456-1462%29%20%28died%201477%29.jpg
-ISNI: "0000000079992137"
+ISNI: 0000000079992137
 Libris_URI: 64jmvh3q5cxbxn1
-P1015: "90364448"
+P1015: 90364448
 ---
 
 # [[1431-Vlad_the_Impaler+1476]] 

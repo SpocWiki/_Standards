@@ -2,6 +2,7 @@
 aliases:
   - German Actor
   - German Actress
+  - German_Actor
 ---
 
 This may include all german speaking Actors Austrian and Swiss. 

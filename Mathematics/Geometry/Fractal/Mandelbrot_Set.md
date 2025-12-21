@@ -1,16 +1,18 @@
 ---
 aliases:
   - Mandelbrot set
+  - Mandelbrot_Set
+  - Mandelbrot Set
 has_id_wikidata: Q257
 instance_of:
-  - "[[_Standards/WikiData/WD~fractal,81392]]"
-  - "[[_Standards/WikiData/WD~subset,177646]]"
-  - "[[_Standards/WikiData/WD~mathematical_concept,24034552]]"
-named_after: "[[_Standards/WikiData/WD~Benoit_Mandelbrot,101740]]"
-has_characteristic: "[[_Standards/WikiData/WD~Hausdorff_dimension,565186]]"
-based_on: "[[_Standards/WikiData/WD~Julia_set,848427]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-part_of: "[[_Standards/WikiData/WD~set_of_complex_numbers,26851286]]"
+  - '[[_Standards/WikiData/WD~fractal,81392]]'
+  - '[[_Standards/WikiData/WD~subset,177646]]'
+  - '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+named_after: '[[_Standards/WikiData/WD~Benoit_Mandelbrot,101740]]'
+has_characteristic: '[[_Standards/WikiData/WD~Hausdorff_dimension,565186]]'
+based_on: '[[_Standards/WikiData/WD~Julia_set,848427]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+part_of: '[[_Standards/WikiData/WD~set_of_complex_numbers,26851286]]'
 in_defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>c</mi></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mandelbrot20210909%20ABC02%2065535x65535.png
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Mandelbrotzoom%20Wiki%20h265%20CRF04%2020210412%20006GANZ.webm

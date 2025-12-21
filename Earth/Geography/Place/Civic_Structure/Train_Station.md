@@ -4,20 +4,22 @@ aliases:
   - train_station
   - TrainStation
   - is_a_train_station
+  - Train_Station
+  - Train Station
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - train_station
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_train_station Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

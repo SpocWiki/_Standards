@@ -4,21 +4,23 @@ aliases:
   - allergies_health_aspect
   - AllergiesHealthAspect
   - is_an_allergies_health_aspect
+  - Allergies_Health_Aspect
+  - Allergies Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - allergies_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_allergies_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

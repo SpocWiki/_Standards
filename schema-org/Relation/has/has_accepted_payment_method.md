@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 fileClass:
   - FileClass-Relation
 isDeleted: false
@@ -18,11 +18,11 @@ keywords:
   - payment
   - method
   - acceptedPaymentMethod
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_accepted_payment_method
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

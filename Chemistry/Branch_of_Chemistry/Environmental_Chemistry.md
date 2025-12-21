@@ -2,12 +2,14 @@
 aliases:
   - Environmental chemistry
   - Umweltchemie
+  - Environmental_Chemistry
+  - Environmental Chemistry
 has_id_wikidata: Q321355
-instance_of: "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
-practiced_by: "[[_Standards/WikiData/WD~environmental_chemist,66816554]]"
-subclass_of: "[[_Standards/WikiData/WD~chemistry,2329]]"
-All_Science_Journal_Classification_Codes: "2304"
-Basisklassifikation: "43.12"
+instance_of: '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
+practiced_by: '[[_Standards/WikiData/WD~environmental_chemist,66816554]]'
+subclass_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
+All_Science_Journal_Classification_Codes: 2304
+Basisklassifikation: 43.12
 Commons_category: Environmental chemistry
 ---
 

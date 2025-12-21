@@ -7,13 +7,15 @@ aliases:
   - democratic proletarian state
   - revolutionary dictatorship of the proletariat
   - democratic dictatorship of the proletariat
+  - Dictatorship_of_the_Proletariat
+  - Dictatorship of the Proletariat
 has_id_wikidata: Q118365
-instance_of: "[[_Standards/WikiData/WD~political_concept,33104069]]"
+instance_of: '[[_Standards/WikiData/WD~political_concept,33104069]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~communist_dictatorship,117405807]]"
-  - "[[_Standards/WikiData/WD~dictatorship,317]]"
-named_after: "[[_Standards/WikiData/WD~dictatorship,317]]"
-part_of: "[[_Standards/WikiData/WD~Marxism,7264]]"
+  - '[[_Standards/WikiData/WD~communist_dictatorship,117405807]]'
+  - '[[_Standards/WikiData/WD~dictatorship,317]]'
+named_after: '[[_Standards/WikiData/WD~dictatorship,317]]'
+part_of: '[[_Standards/WikiData/WD~Marxism,7264]]'
 Krugosvet_article: istoriya/DIKTATURA_PROLETARIATA.html
 ---
 

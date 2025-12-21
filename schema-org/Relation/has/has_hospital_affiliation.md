@@ -3,23 +3,24 @@ aliases:
   - has hospital-affiliation
   - hospitalAffiliation
   - has_hospital_affiliation
+  - has hospital affiliation
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - hospital
   - affiliation
   - hospital_affiliation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_hospital_affiliation
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

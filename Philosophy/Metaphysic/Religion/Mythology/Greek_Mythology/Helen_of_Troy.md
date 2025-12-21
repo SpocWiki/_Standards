@@ -2,6 +2,8 @@
 aliases:
   - Helena von Troia
   - Helen of Sparta
+  - Helen_of_Troy
+  - Helen of Troy
 ---
 
 # [[Helen_of_Troy]] 

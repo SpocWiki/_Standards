@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~UseAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/UseAction
-- class/Thing/Action/ConsumeAction/UseAction
-- is_an_/UseAction
-- schema-org/UseAction
+  - class/UseAction
+  - class/Thing/Action/ConsumeAction/UseAction
+  - is_an_/UseAction
+  - schema-org/UseAction
 tags:
-- class/FileClass
-- class/UseAction
-- '#is_an_/UseAction'
-- class/Thing/Action/ConsumeAction/UseAction
+  - class/FileClass
+  - class/UseAction
+  - '#is_an_/UseAction'
+  - class/Thing/Action/ConsumeAction/UseAction
 version: 2.0
 ---
 

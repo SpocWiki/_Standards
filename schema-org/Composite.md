@@ -1,27 +1,27 @@
 ---
 aliases:
-- Composite
-- Assembly
-- Composite
-- Aggregate
+  - Composite
+  - Assembly
+  - Composite
+  - Aggregate
 confidential: public
 cssclasses:
-- Container
+  - Container
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords: ''
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: Composite
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- schema-org/Composite
-- class/Class
+  - schema-org/Composite
+  - class/Class
 title: Composite
-type: 
+type: ''
 ---
 
 # [[Composite]]

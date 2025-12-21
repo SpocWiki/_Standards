@@ -3,23 +3,24 @@ aliases:
   - has order-status
   - orderStatus
   - has_order_status
+  - has order status
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - order_status
   - order
   - status
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_order_status
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

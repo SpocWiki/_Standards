@@ -1,28 +1,30 @@
 ---
+aliases:
+  - Arrow
 has_id_wikidata: Q45922
-has_use: "[[_Standards/WikiData/WD~archery,108429]]"
+has_use: '[[_Standards/WikiData/WD~archery,108429]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-different_from: "[[_Standards/WikiData/WD~quarrel,891691]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+different_from: '[[_Standards/WikiData/WD~quarrel,891691]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~fletching,973227]]"
-  - "[[_Standards/WikiData/WD~arrowhead,1643900]]"
-  - "[[_Standards/WikiData/WD~shaft,60173131]]"
-part_of: "[[_Standards/WikiData/WD~bow_and_arrow,19827042]]"
-instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
+  - '[[_Standards/WikiData/WD~fletching,973227]]'
+  - '[[_Standards/WikiData/WD~arrowhead,1643900]]'
+  - '[[_Standards/WikiData/WD~shaft,60173131]]'
+part_of: '[[_Standards/WikiData/WD~bow_and_arrow,19827042]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~weapon,728]]"
-  - "[[_Standards/WikiData/WD~projectile,49393]]"
-Nomenclature_for_Museum_Cataloging: "8151"
-OmegaWiki_Defined_Meaning: "420887"
+  - '[[_Standards/WikiData/WD~weapon,728]]'
+  - '[[_Standards/WikiData/WD~projectile,49393]]'
+Nomenclature_for_Museum_Cataloging: 8151
+OmegaWiki_Defined_Meaning: 420887
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Annual%20report%20of%20the%20Board%20of%20Regents%20of%20the%20Smithsonian%20Institution%20%281900%29%20%2818409502316%29.jpg
 Iconclass_notation: 45C15(ARROW)
-GS1_GPC_code: "10001863"
+GS1_GPC_code: 10001863
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Arrow.svg
 Commons_category: Arrows
 EAGLE_id:

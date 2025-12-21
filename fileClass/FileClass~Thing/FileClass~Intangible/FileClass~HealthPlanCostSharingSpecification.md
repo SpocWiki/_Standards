@@ -1,46 +1,48 @@
 ---
-excludes: 
+aliases:
+  - FileClass~HealthPlanCostSharingSpecification
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: fCDdqz
-  name: HealthPlanCoinsuranceOption
-  options: {}
-  type: Input
-  path: ''
-- id: GSd1Oh
-  name: HealthPlanCoinsuranceRate
-  options: {}
-  type: Number
-  path: ''
-- id: 2u8IUI
-  name: HealthPlanCopay
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')"
-  type: MultiFile
-  path: ''
-- id: erQEEq
-  name: HealthPlanCopayOption
-  options: {}
-  type: Input
-  path: ''
-- id: oAitRT
-  name: HealthPlanPharmacyCategory
-  options: {}
-  type: Input
-  path: ''
+  - id: fCDdqz
+    name: HealthPlanCoinsuranceOption
+    options: {}
+    type: Input
+    path: ''
+  - id: GSd1Oh
+    name: HealthPlanCoinsuranceRate
+    options: {}
+    type: Number
+    path: ''
+  - id: 2u8IUI
+    name: HealthPlanCopay
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')
+    type: MultiFile
+    path: ''
+  - id: erQEEq
+    name: HealthPlanCopayOption
+    options: {}
+    type: Input
+    path: ''
+  - id: oAitRT
+    name: HealthPlanPharmacyCategory
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/HealthPlanCostSharingSpecification
-- class/Thing/Intangible/HealthPlanCostSharingSpecification
-- is_a_/HealthPlanCostSharingSpecification
-- schema-org/HealthPlanCostSharingSpecification
+  - class/HealthPlanCostSharingSpecification
+  - class/Thing/Intangible/HealthPlanCostSharingSpecification
+  - is_a_/HealthPlanCostSharingSpecification
+  - schema-org/HealthPlanCostSharingSpecification
 tags:
-- class/FileClass
-- class/HealthPlanCostSharingSpecification
-- is_a_/HealthPlanCostSharingSpecification
-- class/Thing/Intangible/HealthPlanCostSharingSpecification
+  - class/FileClass
+  - class/HealthPlanCostSharingSpecification
+  - is_a_/HealthPlanCostSharingSpecification
+  - class/Thing/Intangible/HealthPlanCostSharingSpecification
 version: 2.0
 ---
 

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Language
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Language
-- class/Thing/Intangible/Language
-- is_a_/Language
-- schema-org/Language
+  - class/Language
+  - class/Thing/Intangible/Language
+  - is_a_/Language
+  - schema-org/Language
 tags:
-- class/FileClass
-- class/Language
-- is_a_/Language
-- class/Thing/Intangible/Language
+  - class/FileClass
+  - class/Language
+  - is_a_/Language
+  - class/Thing/Intangible/Language
 version: 2.0
 ---
 

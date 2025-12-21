@@ -1,11 +1,18 @@
 ---
+aliases:
+  - Burundi
+  - بوروندي
+  - 布隆迪
+  - Бурунди
+  - the Republic of Burundi
+  - la República de Burundi
+has_id_wikidata: Q967
 location:
   - -3.5
   - 30
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q967
 SpocWebEntityId: 26848
 isDeleted: false
 confidential: public
@@ -16,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Burundi
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Burundi
-  - بوروندي
-  - 布隆迪
-  - Бурунди
-  - the Republic of Burundi
-  - la República de Burundi
+publishDate: ""
+expiryDate: ""
 Languages:
   - fr-BI
   - rn

@@ -4,21 +4,22 @@ aliases:
   - rating_count
   - ratingCount
   - has_number_of_ratings
+  - has number of ratings
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - rating_count
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_rating_count
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

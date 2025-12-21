@@ -3,23 +3,24 @@ aliases:
   - has first-performance
   - firstPerformance
   - has_first_performance
+  - has first performance
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - first
   - performance
   - first_performance
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_first_performance
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

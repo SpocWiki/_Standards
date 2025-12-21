@@ -6,18 +6,19 @@ aliases:
   - uomo universale
   - universal genius
   - versatile genius
+  - Polymath
 has_id_wikidata: Q270141
 described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~philomath,3603995]]"
-  - "[[_Standards/WikiData/WD~multipotentiality,6935037]]"
-instance_of: "[[_Standards/WikiData/WD~occupation,12737077]]"
+  - '[[_Standards/WikiData/WD~philomath,3603995]]'
+  - '[[_Standards/WikiData/WD~multipotentiality,6935037]]'
+instance_of: '[[_Standards/WikiData/WD~occupation,12737077]]'
 model_item:
-  - "[[_Standards/WikiData/WD~Q762,762]]"
-  - "[[_Standards/WikiData/WD~José_Rizal,1500]]"
-  - "[[_Standards/WikiData/WD~Avicenna,8011]]"
-  - "[[_Standards/WikiData/WD~René_Descartes,9191]]"
-subclass_of: "[[_Standards/WikiData/WD~intellectual,58968]]"
+  - '[[_Standards/WikiData/WD~Q762,762]]'
+  - '[[_Standards/WikiData/WD~José_Rizal,1500]]'
+  - '[[_Standards/WikiData/WD~Avicenna,8011]]'
+  - '[[_Standards/WikiData/WD~René_Descartes,9191]]'
+subclass_of: '[[_Standards/WikiData/WD~intellectual,58968]]'
 BHCL_UUID: 5e85395d-af1e-4663-8d07-e66a3bb143b0
 female_form_of_label:
   - Universalgelehrte

@@ -4,20 +4,22 @@ aliases:
   - like_action
   - LikeAction
   - is_a_like_action
+  - Like_Action
+  - Like Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - like_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_like_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

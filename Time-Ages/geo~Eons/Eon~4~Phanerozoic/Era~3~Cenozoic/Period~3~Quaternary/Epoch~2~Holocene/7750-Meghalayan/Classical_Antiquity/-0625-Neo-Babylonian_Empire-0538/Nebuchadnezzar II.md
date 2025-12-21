@@ -5,53 +5,53 @@ aliases:
   - Nebuchadrezzar II
 has_id_wikidata: Q12591
 date_of_birth: -0641-01-01T00:00:00Z
-different_from: "[[_Standards/WikiData/WD~Nebuchadenzar,111111]]"
+different_from: '[[_Standards/WikiData/WD~Nebuchadenzar,111111]]'
 present_in_work:
-  - "[[_Standards/WikiData/WD~Jeremiah,131590]]"
-  - "[[_Standards/WikiData/WD~Second_Book_of_Kings,209746]]"
-  - "[[_Standards/WikiData/WD~Daniel_4,16159105]]"
-  - "[[_Standards/WikiData/WD~Civilization_V,2385]]"
-place_of_birth: "[[_Standards/WikiData/WD~Uruk,168518]]"
-father: "[[_Standards/WikiData/WD~Nabopolassar,273514]]"
+  - '[[_Standards/WikiData/WD~Jeremiah,131590]]'
+  - '[[_Standards/WikiData/WD~Second_Book_of_Kings,209746]]'
+  - '[[_Standards/WikiData/WD~Daniel_4,16159105]]'
+  - '[[_Standards/WikiData/WD~Civilization_V,2385]]'
+place_of_birth: '[[_Standards/WikiData/WD~Uruk,168518]]'
+father: '[[_Standards/WikiData/WD~Nabopolassar,273514]]'
 child:
-  - "[[_Standards/WikiData/WD~Amel_Marduk,313234]]"
-  - "[[_Standards/WikiData/WD~Nitocris_of_Babylon,372441]]"
-  - "[[_Standards/WikiData/WD~Eanna_sharra_usur,9250030]]"
-  - "[[_Standards/WikiData/WD~Kaššaya,11736824]]"
-  - "[[_Standards/WikiData/WD~Marduk_nadin_ahi,11767982]]"
+  - '[[_Standards/WikiData/WD~Amel_Marduk,313234]]'
+  - '[[_Standards/WikiData/WD~Nitocris_of_Babylon,372441]]'
+  - '[[_Standards/WikiData/WD~Eanna_sharra_usur,9250030]]'
+  - '[[_Standards/WikiData/WD~Kaššaya,11736824]]'
+  - '[[_Standards/WikiData/WD~Marduk_nadin_ahi,11767982]]'
   - "[[_Standards/WikiData/WD~Ba'u_asitu,97331420]]"
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
 occupation:
-  - "[[_Standards/WikiData/WD~leader,1251441]]"
-  - "[[_Standards/WikiData/WD~king,12097]]"
-  - "[[_Standards/WikiData/WD~monarch,116]]"
-spouse: "[[_Standards/WikiData/WD~Amytis_of_Media,1574056]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-sibling: "[[_Standards/WikiData/WD~Nabu_shuma_lisir,11788594]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Ancient_Mesopotamian_religion,21028568]]"
-position_held: "[[_Standards/WikiData/WD~King_of_Babylon,28132899]]"
+  - '[[_Standards/WikiData/WD~leader,1251441]]'
+  - '[[_Standards/WikiData/WD~king,12097]]'
+  - '[[_Standards/WikiData/WD~monarch,116]]'
+spouse: '[[_Standards/WikiData/WD~Amytis_of_Media,1574056]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+sibling: '[[_Standards/WikiData/WD~Nabu_shuma_lisir,11788594]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Ancient_Mesopotamian_religion,21028568]]'
+position_held: '[[_Standards/WikiData/WD~King_of_Babylon,28132899]]'
 date_of_death: -0560-01-01T00:00:00Z
-place_of_death: "[[_Standards/WikiData/WD~Babylon,5684]]"
+place_of_death: '[[_Standards/WikiData/WD~Babylon,5684]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Ishtar_Gate,26082]]"
-  - "[[_Standards/WikiData/WD~Hanging_Gardens_of_Babylon,41931]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Akkadian,35518]]"
-OmegaWiki_Defined_Meaning: "1379985"
+  - '[[_Standards/WikiData/WD~Ishtar_Gate,26082]]'
+  - '[[_Standards/WikiData/WD~Hanging_Gardens_of_Babylon,41931]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Akkadian,35518]]'
+OmegaWiki_Defined_Meaning: 1379985
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nebukadnessar%20II.jpg
-ISNI: "0000000118774061"
+ISNI: 0000000118774061
 Libris_URI: 75knt1qr3z3wwbm
 Wolfram_Language_entity_code: Entity["Concept", "Nebuchadnezzar::78g34"]
 Krugosvet_article_archived_: istoriya/NAVUHODONOSOR.html

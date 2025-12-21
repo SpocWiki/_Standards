@@ -4,22 +4,24 @@ aliases:
   - course_mode
   - courseMode
   - has_text_of_course_mode
+  - has_course_mode
+  - has course mode
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - course
   - mode
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_course_mode
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

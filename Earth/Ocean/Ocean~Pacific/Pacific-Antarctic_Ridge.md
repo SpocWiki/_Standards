@@ -6,9 +6,9 @@ aliases:
   - South Pacific Rise
   - South Pacific Ridge
 has_id_wikidata: Q558800
-instance_of: "[[_Standards/WikiData/WD~mid_ocean_ridge,104698]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062]]"
-continent: "[[_Standards/WikiData/WD~Antarctica,51]]"
+instance_of: '[[_Standards/WikiData/WD~mid_ocean_ridge,104698]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062]]'
+continent: '[[_Standards/WikiData/WD~Antarctica,51]]'
 bathymetry_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Louisville%20seamount%20chain%20-%20bathymetry.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/East%20Pacific%20Rise.jpg

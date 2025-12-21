@@ -1,13 +1,14 @@
 ---
 aliases:
   - atto
+  - Unit~atto
 has_id_wikidata: Q110817
-followed_by: "[[_Standards/WikiData/WD~femto,110791]]"
-follows: "[[_Standards/WikiData/WD~zepto,110807]]"
+followed_by: '[[_Standards/WikiData/WD~femto,110791]]'
+follows: '[[_Standards/WikiData/WD~zepto,110807]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~SI_prefix,131299]]"
-  - "[[_Standards/WikiData/WD~UCUM_prefix,83155725]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~SI_prefix,131299]]'
+  - '[[_Standards/WikiData/WD~UCUM_prefix,83155725]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 numeric_value: 1e-18
 UCUM_code: a
 time_of_discovery_or_invention: 1964-01-01T00:00:00Z

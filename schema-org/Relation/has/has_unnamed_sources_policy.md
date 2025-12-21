@@ -3,12 +3,13 @@ aliases:
   - has unnamed-sources-policy
   - unnamedSourcesPolicy
   - has_unnamed_sources_policy
+  - has unnamed sources policy
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - unnamed
   - sources
   - policy
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_unnamed_sources_policy
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

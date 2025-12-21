@@ -3,23 +3,24 @@ aliases:
   - has identifying-exam
   - identifyingExam
   - has_identifying_exam
+  - has identifying exam
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - identifying_exam
   - identifying
   - exam
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_identifying_exam
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -5,6 +5,8 @@ aliases:
   - bottom-quark
   - beauty quark
   - b quark
+  - Bottom_Quark
+  - Bottom Quark
 has_id_wikidata: Q6786
 ---
 

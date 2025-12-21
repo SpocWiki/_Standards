@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MedicalBusiness
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MedicalBusiness
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness
-- is_a_/MedicalBusiness
-- schema-org/MedicalBusiness
+  - class/MedicalBusiness
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness
+  - is_a_/MedicalBusiness
+  - schema-org/MedicalBusiness
 tags:
-- class/FileClass
-- class/MedicalBusiness
-- is_a_/MedicalBusiness
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness
+  - class/FileClass
+  - class/MedicalBusiness
+  - is_a_/MedicalBusiness
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness
 version: 2.0
 ---
 

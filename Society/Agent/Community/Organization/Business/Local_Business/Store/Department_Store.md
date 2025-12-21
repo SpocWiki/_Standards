@@ -4,20 +4,22 @@ aliases:
   - department_store
   - DepartmentStore
   - is_a_department_store
+  - Department_Store
+  - Department Store
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - department_store
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_department_store Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

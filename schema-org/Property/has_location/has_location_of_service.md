@@ -4,21 +4,22 @@ aliases:
   - service_location
   - serviceLocation
   - has_location_of_service
+  - has location of service
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - service_location
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_of_service
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

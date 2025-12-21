@@ -4,20 +4,22 @@ aliases:
   - post_office
   - PostOffice
   - is_a_post_office
+  - Post_Office
+  - Post Office
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - post_office
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_post_office Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

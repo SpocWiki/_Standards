@@ -1,6 +1,7 @@
 ---
 aliases:
   - Luminosity
+  - Dim~Luminosity
 has_id_wikidata: Q105902
 different_from:
   - "[[_Standards/WikiData/WD~luminous_intensity,104831]]"
@@ -14,7 +15,7 @@ ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="htt
 Wikidata_property: luminosity
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~lightness,19426]]"
 recommended_unit_of_measurement: "[[_Standards/WikiData/WD~watt,25236]]"
-OmegaWiki_Defined_Meaning: "2218"
+OmegaWiki_Defined_Meaning: 2218
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>L</mi></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Inverse%20square%20law.svg
 ---

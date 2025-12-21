@@ -2,9 +2,11 @@
 aliases:
   - Unpaid labor
   - Unpaid work
+  - Unpaid_Work
+  - Unpaid Work
 has_id_wikidata: Q7897274
-subclass_of: "[[../../../../WikiData/WD~work,268378]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+subclass_of: '[[../../../../WikiData/WD~work,268378]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 ---
 
 # [[Unpaid_Work]] 

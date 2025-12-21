@@ -3,6 +3,7 @@ aliases:
   - singers
   - vocalist
   - Sänger
+  - Singer
 has_id_wikidata: Q177220
 Commons_category: Vocalists
 female_form_of_label:
@@ -77,31 +78,31 @@ male_form_of_label:
   - певач
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Elvis%20Presley%20-%20TV%20Radio%20Mirror%2C%20September%201956%2001%20%28cropped%29.jpg
 subclass_of:
-  - "[[_Standards/WikiData/WD~musician,639669]]"
-  - "[[_Standards/WikiData/WD~creative_and_performing_artist,108289408]]"
-has_list: "[[_Standards/WikiData/WD~list_of_singers,12368323]]"
+  - '[[_Standards/WikiData/WD~musician,639669]]'
+  - '[[_Standards/WikiData/WD~creative_and_performing_artist,108289408]]'
+has_list: '[[_Standards/WikiData/WD~list_of_singers,12368323]]'
 uses:
-  - "[[_Standards/WikiData/WD~voice,17172850]]"
+  - '[[_Standards/WikiData/WD~voice,17172850]]'
 field_of_this_occupation:
-  - "[[_Standards/WikiData/WD~vocal_performance,105245071]]"
-  - "[[_Standards/WikiData/WD~singing,27939]]"
+  - '[[_Standards/WikiData/WD~vocal_performance,105245071]]'
+  - '[[_Standards/WikiData/WD~singing,27939]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140]]"
-  - "[[_Standards/WikiData/WD~musical_occupation,135106813]]"
+  - '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140]]'
+  - '[[_Standards/WikiData/WD~musical_occupation,135106813]]'
 properties_for_this_type: voice type
-product_or_material_produced: "[[_Standards/WikiData/WD~song,7366]]"
+product_or_material_produced: '[[_Standards/WikiData/WD~song,7366]]'
 Wikidata_property: performer
-ISCO_08_occupation_class: "2652"
-ROME_Occupation_Code: "11733"
+ISCO_08_occupation_class: 2652
+ROME_Occupation_Code: 11733
 DataTrek_identifier: Q12256
 IMDb_keyword: singer
 equivalent_class: http://dbpedia.org/ontology/Singer
 Provenio_UUID:
   - 3c421750-a314-4dde-bb7d-b0d8ae18d62e
   - 6090b3f4-b175-430c-b7b1-0d064bb82e56
-P8189: "987007546150905171"
+P8189: 987007546150905171
 ---
 # [[Singer]] 
 

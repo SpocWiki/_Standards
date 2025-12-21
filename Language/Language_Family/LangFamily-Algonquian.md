@@ -1,6 +1,8 @@
 ---
+aliases:
+  - LangFamily-Algonquian
 tags:
-- Lang_Family
+  - Lang_Family
 type: LangFamily
 ---
 

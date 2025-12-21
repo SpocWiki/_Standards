@@ -1,30 +1,31 @@
 ---
 aliases:
-- target-collection
-- targetCollection
-- has_target_collection
-- is_in_collection
+  - target-collection
+  - targetCollection
+  - has_target_collection
+  - is_in_collection
+  - has target collection
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- target_collection
-- target
-- collection
-layout: 
-license: "CC BY-SA 4.0"
+  - target_collection
+  - target
+  - collection
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_target_collection
 publish: true
-publishDate: 
+publishDate: ''
 supersedes: collection
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_target_collection
 type: Predi_Relation
 ---

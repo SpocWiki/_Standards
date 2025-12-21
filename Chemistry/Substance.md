@@ -10,16 +10,16 @@ cssclasses:
   - Type
 draft: false
 equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/105590001
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - substance
-layout: 
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_substance Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

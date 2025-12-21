@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PawnShop
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PawnShop
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/PawnShop
-- is_a_/PawnShop
-- schema-org/PawnShop
+  - class/PawnShop
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/PawnShop
+  - is_a_/PawnShop
+  - schema-org/PawnShop
 tags:
-- class/FileClass
-- class/PawnShop
-- is_a_/PawnShop
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/PawnShop
+  - class/FileClass
+  - class/PawnShop
+  - is_a_/PawnShop
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/PawnShop
 version: 2.0
 ---
 

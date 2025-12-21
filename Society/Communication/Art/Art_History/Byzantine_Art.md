@@ -1,22 +1,23 @@
 ---
 aliases:
   - Byzantine Art
+  - Byzantine_Art
 has_id_wikidata: Q211884
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-part_of: "[[_Standards/WikiData/WD~Byzantine_culture,928904]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+part_of: '[[_Standards/WikiData/WD~Byzantine_culture,928904]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_style,1792644]]"
-  - "[[_Standards/WikiData/WD~art_of_an_area,25679497]]"
+  - '[[_Standards/WikiData/WD~art_style,1792644]]'
+  - '[[_Standards/WikiData/WD~art_of_an_area,25679497]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Byzantine_art_during_the_Latin_rule,2864593]]"
-  - "[[_Standards/WikiData/WD~Macedonian_art,2864623]]"
-subclass_of: "[[_Standards/WikiData/WD~art_of_the_Earth,13150034]]"
-facet_of: "[[_Standards/WikiData/WD~Byzantine_Empire,12544]]"
-country: "[[_Standards/WikiData/WD~Byzantine_Empire,12544]]"
+  - '[[_Standards/WikiData/WD~Byzantine_art_during_the_Latin_rule,2864593]]'
+  - '[[_Standards/WikiData/WD~Macedonian_art,2864623]]'
+subclass_of: '[[_Standards/WikiData/WD~art_of_the_Earth,13150034]]'
+facet_of: '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
+country: '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
 Commons_category: Byzantine art
 hashtag_: Byzantineart
 ---

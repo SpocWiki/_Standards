@@ -4,21 +4,22 @@ aliases:
   - lake_body_of_water
   - LakeBodyOfWater
   - is_a_lake_body_of_water
+  - Lake
 has_id_wikidata: Q23397
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - lake_body_of_water
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_lake_body_of_water Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
@@ -31,31 +32,31 @@ MeSH_tree_code:
 entry_in_abbreviations_table: оз.
 OpenStreetMap_tag: water=lake
 studied_by:
-  - "[[_Standards/WikiData/WD~limnology,165838]]"
-  - "[[_Standards/WikiData/WD~limnology,840436]]"
+  - '[[_Standards/WikiData/WD~limnology,165838]]'
+  - '[[_Standards/WikiData/WD~limnology,840436]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~landform,271669]]"
-  - "[[_Standards/WikiData/WD~still_waters,337567]]"
-  - "[[_Standards/WikiData/WD~open_water,2479431]]"
-  - "[[_Standards/WikiData/WD~overground_still_body_of_fresh_water,3391202]]"
+  - '[[_Standards/WikiData/WD~landform,271669]]'
+  - '[[_Standards/WikiData/WD~still_waters,337567]]'
+  - '[[_Standards/WikiData/WD~open_water,2479431]]'
+  - '[[_Standards/WikiData/WD~overground_still_body_of_fresh_water,3391202]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Lakes,5497887]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Lakes,5497887]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_lake,5825790]]"
-  - "[[_Standards/WikiData/WD~Template_Lake_stub,13401990]]"
-  - "[[_Standards/WikiData/WD~Q26019895,26019895]]"
-  - "[[_Standards/WikiData/WD~Q26189069,26189069]]"
-instance_of: "[[_Standards/WikiData/WD~feature_type,12046615]]"
-different_from: "[[_Standards/WikiData/WD~lake_water_body,30092776]]"
+  - '[[_Standards/WikiData/WD~Template_Infobox_lake,5825790]]'
+  - '[[_Standards/WikiData/WD~Template_Lake_stub,13401990]]'
+  - '[[_Standards/WikiData/WD~Q26019895,26019895]]'
+  - '[[_Standards/WikiData/WD~Q26189069,26189069]]'
+instance_of: '[[_Standards/WikiData/WD~feature_type,12046615]]'
+different_from: '[[_Standards/WikiData/WD~lake_water_body,30092776]]'
 depicted_by: "[[_Standards/WikiData/WD~Le_acque_sognanti._L'enigma_del_lago,131937094]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q134291924,134291924]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q134291924,134291924]]'
 Wikidata_property: lake on watercourse
 properties_for_this_type:
   - inception
@@ -76,10 +77,10 @@ properties_for_this_type:
   - inflows
   - basin country
 GeoNames_feature_code: H.LK
-OmegaWiki_Defined_Meaning: "2061"
+OmegaWiki_Defined_Meaning: 2061
 Commons_gallery: Lake
 Wolfram_Language_entity_type: Lake
-U_S_National_Archives_Identifier: "10639250"
+U_S_National_Archives_Identifier: 10639250
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gentau%20Pic%20du%20Midi%20Ossau.jpg
 Commons_category: Lakes
 equivalent_class:

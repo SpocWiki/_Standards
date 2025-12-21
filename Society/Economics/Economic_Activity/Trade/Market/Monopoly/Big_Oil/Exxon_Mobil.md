@@ -2,8 +2,10 @@
 aliases:
   - Standard Oil Company (New Jersey)
   - Standard Oil (New Jersey)
-  - Exxon  
+  - Exxon
   - ExxonMobil
+  - Exxon_Mobil
+  - Exxon Mobil
 ---
 
 # [[Exxon_Mobil]] 

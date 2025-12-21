@@ -2,16 +2,18 @@
 aliases:
   - Dutch-language literature
   - Nederlandstalige literatuur
+  - Dutch_Literature
+  - Dutch Literature
 has_id_wikidata: Q1853321
-subclass_of: "[[_Standards/WikiData/WD~Western_literature,116476]]"
+subclass_of: '[[_Standards/WikiData/WD~Western_literature,116476]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-instance_of: "[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~Dutch,7411]]"
-Basisklassifikation: "18.13"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Dutch,7411]]'
+Basisklassifikation: 18.13
 Krugosvet_article: kultura_i_obrazovanie/literatura/NIDERLANDSKAYA_LITERATURA.html
 Commons_category: Literature of the Netherlands
 ---

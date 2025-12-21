@@ -4,22 +4,23 @@ aliases:
   - published_by
   - publishedBy
   - is_published_by
+  - is published by
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - published
   - by
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_published_by
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

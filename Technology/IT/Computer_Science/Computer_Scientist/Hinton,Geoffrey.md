@@ -1,8 +1,9 @@
 ---
 aliases:
-- "Geoffrey Hinton"
-- Geoffrey Everest Hinton
-- Hinton
+  - Geoffrey Hinton
+  - Geoffrey Everest Hinton
+  - Hinton
+  - Hinton,Geoffrey
 ---
 
 ## #has_/text_of_/abstract 

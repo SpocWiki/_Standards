@@ -1,25 +1,25 @@
 ---
 aliases:
-- Trump,Donald
-- "Donald Trump"
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Trump,Donald
+  - Donald Trump
+  - ''
 has_id_wikidata: Q22686
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Trump,Donald
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Trump,Donald
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- 
+  - ''
 title: Trump,Donald
 type: private_note
 ---

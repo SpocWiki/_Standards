@@ -1,19 +1,20 @@
 ---
 aliases:
   - Puttin' on the Ritz
+  - Puttin'_on_the_Ritz
 has_id_wikidata: Q943316
 performer:
-  - "[[_Standards/WikiData/WD~Fred_Astaire,100937]]"
-  - "[[_Standards/WikiData/WD~Harry_Richman,5671934]]"
-  - "[[_Standards/WikiData/WD~Terry_Snyder_and_The_All_Stars,108530099]]"
-lyricist: "[[_Standards/WikiData/WD~Irving_Berlin,128746]]"
-composer: "[[_Standards/WikiData/WD~Irving_Berlin,128746]]"
-genre: "[[_Standards/WikiData/WD~popular_music,373342]]"
+  - '[[_Standards/WikiData/WD~Fred_Astaire,100937]]'
+  - '[[_Standards/WikiData/WD~Harry_Richman,5671934]]'
+  - '[[_Standards/WikiData/WD~Terry_Snyder_and_The_All_Stars,108530099]]'
+lyricist: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
+composer: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
+genre: '[[_Standards/WikiData/WD~popular_music,373342]]'
 music_created_for: "[[_Standards/WikiData/WD~Puttin'_on_the_Ritz,3926029]]"
-has_characteristic: "[[_Standards/WikiData/WD~film_song,93540236]]"
-instance_of: "[[_Standards/WikiData/WD~musical_work_composition,105543609]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~song,7366]]"
+has_characteristic: '[[_Standards/WikiData/WD~film_song,93540236]]'
+instance_of: '[[_Standards/WikiData/WD~musical_work_composition,105543609]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~song,7366]]'
 ISWC: T-070.167.001-0
 title: Puttin' On the Ritz
 publication_date: 1929-12-02T00:00:00Z

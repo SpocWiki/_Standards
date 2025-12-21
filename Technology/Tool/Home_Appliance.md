@@ -5,27 +5,29 @@ aliases:
   - Haushaltsgerät
   - Haushaltsgeräte
   - home appliance
+  - Home_Appliance
+  - Home Appliance
 has_id_wikidata: Q212920
 subclass_of:
-  - "[[_Standards/WikiData/WD~appliance,1183543]]"
-  - "[[_Standards/WikiData/WD~manufactured_good,1836700]]"
-  - "[[_Standards/WikiData/WD~durable_good,2184715]]"
+  - '[[_Standards/WikiData/WD~appliance,1183543]]'
+  - '[[_Standards/WikiData/WD~manufactured_good,1836700]]'
+  - '[[_Standards/WikiData/WD~durable_good,2184715]]'
 different_from:
-  - "[[_Standards/WikiData/WD~electrical_appliance,2425052]]"
-  - "[[_Standards/WikiData/WD~gas_appliance,3819757]]"
-part_of: "[[_Standards/WikiData/WD~everyday_culture,2649476]]"
-facet_of: "[[_Standards/WikiData/WD~household,10854954]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_home_appliance,67416037]]"
-OmegaWiki_Defined_Meaning: "967"
-IAB_code: "278"
+  - '[[_Standards/WikiData/WD~electrical_appliance,2425052]]'
+  - '[[_Standards/WikiData/WD~gas_appliance,3819757]]'
+part_of: '[[_Standards/WikiData/WD~everyday_culture,2649476]]'
+facet_of: '[[_Standards/WikiData/WD~household,10854954]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_home_appliance,67416037]]'
+OmegaWiki_Defined_Meaning: 967
+IAB_code: 278
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Technology%20adoption%20by%20households%20in%20the%20U.S.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Breville.jpg
 Dewey_Decimal_Classification:
-  - "381.456838"
-  - "643.6"
-  - "683.8"
-Amazon_com_browse_node: "2619526011"
+  - 381.456838
+  - 643.6
+  - 683.8
+Amazon_com_browse_node: 2619526011
 Commons_category: Home appliances
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/BITOVAYA_TEHNIKA.html
 ---

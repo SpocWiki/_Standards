@@ -1,16 +1,17 @@
 ---
 aliases:
   - Steigbügel
+  - Stirrup
 has_id_wikidata: Q191657
-part_of: "[[_Standards/WikiData/WD~saddle,192249]]"
+part_of: '[[_Standards/WikiData/WD~saddle,192249]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-subclass_of: "[[_Standards/WikiData/WD~equestrian_equipment,3590880]]"
-has_use: "[[_Standards/WikiData/WD~mounting,15784401]]"
-OmegaWiki_Defined_Meaning: "6783"
-Nomenclature_for_Museum_Cataloging: "11980"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+subclass_of: '[[_Standards/WikiData/WD~equestrian_equipment,3590880]]'
+has_use: '[[_Standards/WikiData/WD~mounting,15784401]]'
+OmegaWiki_Defined_Meaning: 6783
+Nomenclature_for_Museum_Cataloging: 11980
 Commons_category: Stirrups
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Estribos%20argentinos%20de%20plata.%20Museo%20de%20Am%C3%A9rica.jpg
 ---

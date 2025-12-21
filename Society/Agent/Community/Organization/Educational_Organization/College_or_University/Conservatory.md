@@ -10,20 +10,21 @@ aliases:
   - conservatory
   - conservatorium
   - conservatoire
+  - Conservatory
 has_id_wikidata: Q184644
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~music_school,1021290]]"
-  - "[[_Standards/WikiData/WD~higher_education_institution,38723]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~music_school,1021290]]"
-different_from: "[[_Standards/WikiData/WD~Conservatory,5163138]]"
-part_of: "[[_Standards/WikiData/WD~tertiary_education,9166713]]"
-field_of_work: "[[_Standards/WikiData/WD~music_education,27908]]"
-OmegaWiki_Defined_Meaning: "402354"
+  - '[[_Standards/WikiData/WD~music_school,1021290]]'
+  - '[[_Standards/WikiData/WD~higher_education_institution,38723]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~music_school,1021290]]'
+different_from: '[[_Standards/WikiData/WD~Conservatory,5163138]]'
+part_of: '[[_Standards/WikiData/WD~tertiary_education,9166713]]'
+field_of_work: '[[_Standards/WikiData/WD~music_education,27908]]'
+OmegaWiki_Defined_Meaning: 402354
 equivalent_class: http://data.culture.fr/thesaurus/resource/ark:/67717/T1-704
 Commons_category: Music conservatories
 ---

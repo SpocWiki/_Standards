@@ -1,37 +1,39 @@
 ---
+aliases:
+  - Astrophysics
 has_id_wikidata: Q37547
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~dark_matter,79925]]"
-  - "[[_Standards/WikiData/WD~planetary_magnetic_field,4274059]]"
-  - "[[_Standards/WikiData/WD~black_hole,589]]"
-  - "[[_Standards/WikiData/WD~neutron_star,4202]]"
-  - "[[_Standards/WikiData/WD~stellar_magnetic_field,6449]]"
-  - "[[_Standards/WikiData/WD~stellar_evolution,6472]]"
-  - "[[_Standards/WikiData/WD~dark_energy,18343]]"
-model_item: "[[_Standards/WikiData/WD~planetary_science,104499]]"
+  - '[[_Standards/WikiData/WD~dark_matter,79925]]'
+  - '[[_Standards/WikiData/WD~planetary_magnetic_field,4274059]]'
+  - '[[_Standards/WikiData/WD~black_hole,589]]'
+  - '[[_Standards/WikiData/WD~neutron_star,4202]]'
+  - '[[_Standards/WikiData/WD~stellar_magnetic_field,6449]]'
+  - '[[_Standards/WikiData/WD~stellar_evolution,6472]]'
+  - '[[_Standards/WikiData/WD~dark_energy,18343]]'
+model_item: '[[_Standards/WikiData/WD~planetary_science,104499]]'
 described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_Enzyklopädie_(19_ed.),17377889]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-practiced_by: "[[_Standards/WikiData/WD~astrophysicist,752129]]"
+  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Brockhaus_Enzyklopädie_(19_ed.),17377889]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+practiced_by: '[[_Standards/WikiData/WD~astrophysicist,752129]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~branch_of_astronomy,131565179]]"
+  - '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~branch_of_astronomy,131565179]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~cosmic_physics,25508843]]"
-  - "[[_Standards/WikiData/WD~physics,413]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Astrophysics,53009797]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_astrophysics,61257298]]"
-OmegaWiki_Defined_Meaning: "789696"
+  - '[[_Standards/WikiData/WD~cosmic_physics,25508843]]'
+  - '[[_Standards/WikiData/WD~physics,413]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Astrophysics,53009797]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_astrophysics,61257298]]'
+OmegaWiki_Defined_Meaning: 789696
 All_Science_Journal_Classification_Codes:
-  - "3103"
-  - "3101"
-Basisklassifikation: "39.22"
+  - 3103
+  - 3101
+Basisklassifikation: 39.22
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ring%20Nebula.jpg
 Commons_category: Astrophysics
 Krugosvet_article: nauka_i_tehnika/astronomiya/ASTRONOMIYA_I_ASTROFIZIKA.html
@@ -39,8 +41,8 @@ Stack_Exchange_tag:
   - https://astronomy.stackexchange.com/tags/astrophysics
   - https://physics.stackexchange.com/tags/astrophysics
   - https://worldbuilding.stackexchange.com/tags/astrophysics
-Dewey_Decimal_Classification: "523.01"
-P8189: "987007295071705171"
+Dewey_Decimal_Classification: 523.01
+P8189: 987007295071705171
 subreddit: astrophysics
 GitHub_topic: astrophysics
 Baidu_Tieba_name: 天体物理

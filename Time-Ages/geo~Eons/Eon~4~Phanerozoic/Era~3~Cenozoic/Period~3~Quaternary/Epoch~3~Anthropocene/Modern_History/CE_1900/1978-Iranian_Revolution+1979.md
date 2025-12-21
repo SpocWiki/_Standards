@@ -1,7 +1,9 @@
 ---
 aliases:
-  - Iranian Revolution 
+  - Iranian Revolution
   - Islamic Revolution
+  - 1978-Iranian_Revolution+1979
+  - 1978-Iranian Revolution+1979
 has_id_wikidata: Q126065
 ---
 

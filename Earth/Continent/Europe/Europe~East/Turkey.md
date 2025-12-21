@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Turkey
+  - Turquía
+  - Turquie
+  - تركيا
+  - 土耳其
+  - Турция
+  - the Republic of Turkey
+  - la República de Turquía
+has_id_wikidata: Q43
 highest_point: "[[_Standards/WikiData/WD~Mount_Ararat,72303]]"
 part_of:
   - "[[_Standards/WikiData/WD~Mediterranean_Basin,72499]]"
@@ -525,7 +535,6 @@ male_population:
   - 42581376
 inception: 1923-10-29
 has_time_started: 1923-10-29
-has_id_wikidata: Q43
 location:
   - 39.3233
   - 32.37
@@ -541,21 +550,12 @@ source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
 title: Turkey
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Turkey
-  - Turquía
-  - Turquie
-  - تركيا
-  - 土耳其
-  - Турция
-  - the Republic of Turkey
-  - la República de Turquía
+publishDate: ""
+expiryDate: ""
 Languages:
   - tr-TR
   - ku

@@ -4,40 +4,41 @@ aliases:
   - Monopoly (game)
   - Monopoly the game
   - Monopoly,game
+  - Monopoly(game)
 has_id_wikidata: Q17243
-subclass_of: "[[_Standards/WikiData/WD~board_game,131436]]"
+subclass_of: '[[_Standards/WikiData/WD~board_game,131436]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~board_game,131436]]"
-  - "[[_Standards/WikiData/WD~economic_simulation_board_game,21608615]]"
+  - '[[_Standards/WikiData/WD~board_game,131436]]'
+  - '[[_Standards/WikiData/WD~economic_simulation_board_game,21608615]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Matador,226287]]"
-  - "[[_Standards/WikiData/WD~Q72345293,72345293]]"
-  - "[[_Standards/WikiData/WD~Monopoli,51835]]"
+  - '[[_Standards/WikiData/WD~Matador,226287]]'
+  - '[[_Standards/WikiData/WD~Q72345293,72345293]]'
+  - '[[_Standards/WikiData/WD~Monopoli,51835]]'
 developer:
-  - "[[_Standards/WikiData/WD~Elizabeth_Magie,273459]]"
-  - "[[_Standards/WikiData/WD~Charles_Darrow,1064061]]"
+  - '[[_Standards/WikiData/WD~Elizabeth_Magie,273459]]'
+  - '[[_Standards/WikiData/WD~Charles_Darrow,1064061]]'
 manufacturer:
-  - "[[_Standards/WikiData/WD~Hasbro,501476]]"
-  - "[[_Standards/WikiData/WD~Parker_Brothers,1501379]]"
-publisher: "[[_Standards/WikiData/WD~Hasbro,501476]]"
+  - '[[_Standards/WikiData/WD~Hasbro,501476]]'
+  - '[[_Standards/WikiData/WD~Parker_Brothers,1501379]]'
+publisher: '[[_Standards/WikiData/WD~Hasbro,501476]]'
 based_on: "[[_Standards/WikiData/WD~The_Landlord's_Game,1550933]]"
 derivative_work:
-  - "[[_Standards/WikiData/WD~Monopoly,1750894]]"
-  - "[[_Standards/WikiData/WD~Actioner,4060295]]"
-  - "[[_Standards/WikiData/WD~Q72345293,72345293]]"
-  - "[[_Standards/WikiData/WD~ABBA_Monopoly,133696346]]"
-has_part_s_: "[[_Standards/WikiData/WD~Chance_and_Community_Chest_cards,1957068]]"
+  - '[[_Standards/WikiData/WD~Monopoly,1750894]]'
+  - '[[_Standards/WikiData/WD~Actioner,4060295]]'
+  - '[[_Standards/WikiData/WD~Q72345293,72345293]]'
+  - '[[_Standards/WikiData/WD~ABBA_Monopoly,133696346]]'
+has_part_s_: '[[_Standards/WikiData/WD~Chance_and_Community_Chest_cards,1957068]]'
 game_mechanics:
-  - "[[_Standards/WikiData/WD~bidding,3276328]]"
-  - "[[_Standards/WikiData/WD~resource_management,14431238]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~game_piece,3449901]]"
-mascot: "[[_Standards/WikiData/WD~Rich_Uncle_Pennybags,7323465]]"
+  - '[[_Standards/WikiData/WD~bidding,3276328]]'
+  - '[[_Standards/WikiData/WD~resource_management,14431238]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~game_piece,3449901]]'
+mascot: '[[_Standards/WikiData/WD~Rich_Uncle_Pennybags,7323465]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Hong_Kong_Monopoly,16994258]]"
-  - "[[_Standards/WikiData/WD~Star_Trek_Klingon_Edition_Monopoly,63869597]]"
-  - "[[_Standards/WikiData/WD~Monopoly,115328463]]"
-genre: "[[_Standards/WikiData/WD~roll_and_move_game,60735876]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Hong_Kong_Monopoly,16994258]]'
+  - '[[_Standards/WikiData/WD~Star_Trek_Klingon_Edition_Monopoly,63869597]]'
+  - '[[_Standards/WikiData/WD~Monopoly,115328463]]'
+genre: '[[_Standards/WikiData/WD~roll_and_move_game,60735876]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 minimum_number_of_players: 2
 maximum_number_of_players: 8
 total_produced: 275000000

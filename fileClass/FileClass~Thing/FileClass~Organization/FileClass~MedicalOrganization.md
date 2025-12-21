@@ -1,30 +1,32 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MedicalOrganization
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization
 fields:
-- id: CWW2Yq
-  name: HealthPlanNetworkId
-  options: {}
-  type: Input
-  path: ''
-- id: QpxaCA
-  name: IsAcceptingNewPatients
-  options: {}
-  type: Boolean
-  path: ''
+  - id: CWW2Yq
+    name: HealthPlanNetworkId
+    options: {}
+    type: Input
+    path: ''
+  - id: QpxaCA
+    name: IsAcceptingNewPatients
+    options: {}
+    type: Boolean
+    path: ''
 icon: cross
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MedicalOrganization
-- class/Thing/Organization/MedicalOrganization
-- is_a_/MedicalOrganization
-- schema-org/MedicalOrganization
+  - class/MedicalOrganization
+  - class/Thing/Organization/MedicalOrganization
+  - is_a_/MedicalOrganization
+  - schema-org/MedicalOrganization
 tags:
-- class/FileClass
-- class/MedicalOrganization
-- is_a_/MedicalOrganization
-- class/Thing/Organization/MedicalOrganization
+  - class/FileClass
+  - class/MedicalOrganization
+  - is_a_/MedicalOrganization
+  - class/Thing/Organization/MedicalOrganization
 version: 2.0
 ---
 

@@ -1,42 +1,44 @@
 ---
+aliases:
+  - Animation
+has_id_wikidata: Q11425
 Commons_category: Animations
 Commons_gallery: Animation
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Q131308011,131308011]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Q131308011,131308011]]'
 Dewey_Decimal_Classification: 778.5347
 different_from: '[[_Standards/WikiData/WD~animation,130285417]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Charles-Émile_Reynaud,286445]]'
 hashtag: animation
-has_id_wikidata: Q11425
 history_of_topic: '[[_Standards/WikiData/WD~history_of_animation,15272421]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Animated%20GIF%20from%20the%201919%20Feline%20folies%20by%20Pat%20Sullivan.gif"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Animated%20GIF%20from%20the%201919%20Feline%20folies%20by%20Pat%20Sullivan.gif
 instance_of: '[[_Standards/WikiData/WD~cinematic_technique,1001378]]'
 IPTC_NewsCode: mediatopic/20000003
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/ANIMATSIYA.html
 MeSH_tree_code:
-- V01.110
-- V02.120
+  - V01.110
+  - V02.120
 OmegaWiki_Defined_Meaning: 433137
 practiced_by:
-- '[[_Standards/WikiData/WD~animator,266569]]'
-- '[[_Standards/WikiData/WD~animation_director,779815]]'
-- '[[_Standards/WikiData/WD~animated_film_director,132176156]]'
+  - '[[_Standards/WikiData/WD~animator,266569]]'
+  - '[[_Standards/WikiData/WD~animation_director,779815]]'
+  - '[[_Standards/WikiData/WD~animated_film_director,132176156]]'
 product_material_or_service_produced_or_provided:
-- '[[_Standards/WikiData/WD~animated_film,202866]]'
-- '[[_Standards/WikiData/WD~animated_series,581714]]'
-- '[[_Standards/WikiData/WD~animated_art,16678561]]'
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Animation2.ogg"
-Stack_Exchange_tag: "https://stackoverflow.com/tags/animation"
+  - '[[_Standards/WikiData/WD~animated_film,202866]]'
+  - '[[_Standards/WikiData/WD~animated_series,581714]]'
+  - '[[_Standards/WikiData/WD~animated_art,16678561]]'
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Animation2.ogg
+Stack_Exchange_tag: https://stackoverflow.com/tags/animation
 subclass_of: '[[_Standards/WikiData/WD~filmmaking,932586]]'
 subreddit: animation
 time_of_discovery_or_invention:
-- 1892-10-28
-- 1888-12-01
+  - 1892-10-28
+  - 1888-12-01
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Animation,6679926]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Animation,11249923]]'
 UMLS_CUI: C0376650
-WordLift_URL: "http://data.thenextweb.com/tnw/entity/animation"
+WordLift_URL: http://data.thenextweb.com/tnw/entity/animation
 ---
 
 # [[Animation]] 

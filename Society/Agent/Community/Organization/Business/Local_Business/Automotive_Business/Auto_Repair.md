@@ -4,20 +4,22 @@ aliases:
   - auto_repair
   - AutoRepair
   - is_an_auto_repair
+  - Auto_Repair
+  - Auto Repair
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - auto_repair
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_auto_repair Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

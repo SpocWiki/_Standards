@@ -4,20 +4,22 @@ aliases:
   - hardware_store
   - HardwareStore
   - is_a_hardware_store
+  - Hardware_Store
+  - Hardware Store
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - hardware_store
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_hardware_store Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -4,20 +4,22 @@ aliases:
   - lodging_business
   - LodgingBusiness
   - is_a_lodging_business
+  - Lodging_Business
+  - Lodging Business
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - lodging_business
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_lodging_business Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

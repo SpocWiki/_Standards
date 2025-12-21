@@ -2,15 +2,17 @@
 aliases:
   - Tradewind
   - easterlies
+  - Trade_Wind
+  - Trade Wind
 has_id_wikidata: Q160603
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-part_of: "[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]"
-subclass_of: "[[_Standards/WikiData/WD~wind,8094]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+part_of: '[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]'
+subclass_of: '[[_Standards/WikiData/WD~wind,8094]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%20Global%20Circulation.jpg
 Krugosvet_article_archived_: geografiya/passaty
 Commons_category: Trade winds

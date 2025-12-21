@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Portugal
+  - البرتغال
+  - 葡萄牙
+  - Португалия
+  - the Portuguese Republic
+  - la República Portuguesa
+has_id_wikidata: Q45
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]"
@@ -360,7 +368,6 @@ female_population:
 life_expectancy: 81.12683
 population: 10347892
 coordinates_of_southernmost_point: Point(-7.88698196 36.96024856)
-has_id_wikidata: Q45
 location:
   - 42.1067
   - -5.10879
@@ -377,19 +384,12 @@ cssclasses:
   - Country
 publish: true
 title: Portugal
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Portugal
-  - البرتغال
-  - 葡萄牙
-  - Португалия
-  - the Portuguese Republic
-  - la República Portuguesa
+publishDate: ""
+expiryDate: ""
 Languages:
   - pt-PT
   - mwl

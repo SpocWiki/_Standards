@@ -4,30 +4,32 @@ aliases:
   - theater
   - theatre
   - playhouse
+  - Theater_Building
+  - Theater Building
 has_id_wikidata: Q24354
 has_part_s_:
-  - "[[_Standards/WikiData/WD~stage,194428]]"
-  - "[[_Standards/WikiData/WD~front_of_house,1470095]]"
-  - "[[_Standards/WikiData/WD~Q2215858,2215858]]"
-  - "[[_Standards/WikiData/WD~fly_tower,2423854]]"
-  - "[[_Standards/WikiData/WD~backstage,18696798]]"
-  - "[[_Standards/WikiData/WD~theatre_hall,42679632]]"
+  - '[[_Standards/WikiData/WD~stage,194428]]'
+  - '[[_Standards/WikiData/WD~front_of_house,1470095]]'
+  - '[[_Standards/WikiData/WD~Q2215858,2215858]]'
+  - '[[_Standards/WikiData/WD~fly_tower,2423854]]'
+  - '[[_Standards/WikiData/WD~backstage,18696798]]'
+  - '[[_Standards/WikiData/WD~theatre_hall,42679632]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
   - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~theatre_venue,2310313]]"
-  - "[[_Standards/WikiData/WD~performing_arts_building,57660343]]"
-  - "[[_Standards/WikiData/WD~cultural_building,114961210]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q9139631,9139631]]"
-occupant: "[[_Standards/WikiData/WD~theatre_company,11812394]]"
+  - '[[_Standards/WikiData/WD~theatre_venue,2310313]]'
+  - '[[_Standards/WikiData/WD~performing_arts_building,57660343]]'
+  - '[[_Standards/WikiData/WD~cultural_building,114961210]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9139631,9139631]]'
+occupant: '[[_Standards/WikiData/WD~theatre_company,11812394]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Teatteri,18760044]]"
-  - "[[_Standards/WikiData/WD~Színház,20434322]]"
-  - "[[_Standards/WikiData/WD~Theater,114961017]]"
+  - '[[_Standards/WikiData/WD~Teatteri,18760044]]'
+  - '[[_Standards/WikiData/WD~Színház,20434322]]'
+  - '[[_Standards/WikiData/WD~Theater,114961017]]'
 properties_for_this_type:
   - has part(s)
   - located on street
@@ -47,12 +49,12 @@ properties_for_this_type:
   - located in the administrative territorial entity
   - operator
   - named after
-has_use: "[[_Standards/WikiData/WD~theatre_art,11635]]"
-Nomenclature_for_Museum_Cataloging: "681"
+has_use: '[[_Standards/WikiData/WD~theatre_art,11635]]'
+Nomenclature_for_Museum_Cataloging: 681
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Palais%20Garnier.%20December%205%2C%202010.jpg
 Dewey_Decimal_Classification:
-  - "711.558"
-  - "725.822"
+  - 711.558
+  - 725.822
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Ic%20theaters%2048px.svg
 equivalent_class:
   - http://dati.beniculturali.it/cis/Theatre

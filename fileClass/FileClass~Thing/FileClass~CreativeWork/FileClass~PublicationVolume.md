@@ -1,40 +1,42 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PublicationVolume
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: M2bwXW
-  name: PageEnd
-  options: {}
-  type: Number
-  path: ''
-- id: 4obwgD
-  name: PageStart
-  options: {}
-  type: Number
-  path: ''
-- id: 1rxweF
-  name: Pagination
-  options: {}
-  type: Input
-  path: ''
-- id: DYiIMR
-  name: VolumeNumber
-  options: {}
-  type: Number
-  path: ''
+  - id: M2bwXW
+    name: PageEnd
+    options: {}
+    type: Number
+    path: ''
+  - id: 4obwgD
+    name: PageStart
+    options: {}
+    type: Number
+    path: ''
+  - id: 1rxweF
+    name: Pagination
+    options: {}
+    type: Input
+    path: ''
+  - id: DYiIMR
+    name: VolumeNumber
+    options: {}
+    type: Number
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PublicationVolume
-- class/Thing/CreativeWork/PublicationVolume
-- is_a_/PublicationVolume
-- schema-org/PublicationVolume
+  - class/PublicationVolume
+  - class/Thing/CreativeWork/PublicationVolume
+  - is_a_/PublicationVolume
+  - schema-org/PublicationVolume
 tags:
-- class/FileClass
-- class/PublicationVolume
-- is_a_/PublicationVolume
-- class/Thing/CreativeWork/PublicationVolume
+  - class/FileClass
+  - class/PublicationVolume
+  - is_a_/PublicationVolume
+  - class/Thing/CreativeWork/PublicationVolume
 version: 2.0
 ---
 

@@ -3,20 +3,21 @@ aliases:
   - La Amistad International Park
   - Spanish Parque Internacional La Amistad
   - La Amistad National Park
+  - La_Amistad_International_Park
 has_id_wikidata: Q379217
-different_from: "[[_Standards/WikiData/WD~Amistad,754490]]"
-instance_of: "[[_Standards/WikiData/WD~transboundary_protected_area,955236]]"
-part_of: "[[_Standards/WikiData/WD~Talamanca_Range_La_Amistad_Reserves,6106226]]"
-member_of: "[[_Standards/WikiData/WD~Man_and_the_Biosphere_Programme,14018439]]"
-IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628]]"
-significant_event: "[[_Standards/WikiData/WD~UNESCO_World_Heritage_Site_record_modification,29778318]]"
+different_from: '[[_Standards/WikiData/WD~Amistad,754490]]'
+instance_of: '[[_Standards/WikiData/WD~transboundary_protected_area,955236]]'
+part_of: '[[_Standards/WikiData/WD~Talamanca_Range_La_Amistad_Reserves,6106226]]'
+member_of: '[[_Standards/WikiData/WD~Man_and_the_Biosphere_Programme,14018439]]'
+IUCN_protected_areas_category: '[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628]]'
+significant_event: '[[_Standards/WikiData/WD~UNESCO_World_Heritage_Site_record_modification,29778318]]'
 country:
-  - "[[_Standards/WikiData/WD~Costa_Rica,800]]"
-  - "[[_Standards/WikiData/WD~Panama,804]]"
-locations: "[[_Standards/WikiData/WD~Panama,804]]"
+  - '[[_Standards/WikiData/WD~Costa_Rica,800]]'
+  - '[[_Standards/WikiData/WD~Panama,804]]'
+locations: '[[_Standards/WikiData/WD~Panama,804]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC_06_00,5385]]"
-  - "[[_Standards/WikiData/WD~UTC_05_00,5390]]"
+  - '[[_Standards/WikiData/WD~UTC_06_00,5385]]'
+  - '[[_Standards/WikiData/WD~UTC_05_00,5390]]'
 area: 4188
 UNESCO_Biosphere_Reserve_URL: http://www.unesco.org/mabdb/br/brdir/directory/biores.asp?code=PAN+02&mode=all
 inception: 1988-01-01T00:00:00Z

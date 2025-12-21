@@ -2,29 +2,31 @@
 aliases:
   - Recording Medium
   - Data storage
+  - Data_Storage
+  - Data Storage
 has_id_wikidata: Q193395
-has_use: "[[_Standards/WikiData/WD~computer_storage_media,66221]]"
+has_use: '[[_Standards/WikiData/WD~computer_storage_media,66221]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~communications_media,340169]]"
-  - "[[_Standards/WikiData/WD~data_storage_medium,15141646]]"
+  - '[[_Standards/WikiData/WD~communications_media,340169]]'
+  - '[[_Standards/WikiData/WD~data_storage_medium,15141646]]'
 used_by:
-  - "[[_Standards/WikiData/WD~magnetic_recording,5883838]]"
-  - "[[_Standards/WikiData/WD~magneto_optical_recording,56822811]]"
-  - "[[_Standards/WikiData/WD~data_storage,57515336]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_storage_medium,7217704]]"
-different_from: "[[_Standards/WikiData/WD~data_storage_medium,15141646]]"
-instance_of: "[[_Standards/WikiData/WD~product_category,63981612]]"
+  - '[[_Standards/WikiData/WD~magnetic_recording,5883838]]'
+  - '[[_Standards/WikiData/WD~magneto_optical_recording,56822811]]'
+  - '[[_Standards/WikiData/WD~data_storage,57515336]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_storage_medium,7217704]]'
+different_from: '[[_Standards/WikiData/WD~data_storage_medium,15141646]]'
+instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
 part_of:
-  - "[[_Standards/WikiData/WD~drive,64817736]]"
-  - "[[_Standards/WikiData/WD~removable_media,37768]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+  - '[[_Standards/WikiData/WD~drive,64817736]]'
+  - '[[_Standards/WikiData/WD~removable_media,37768]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 Wikidata_property: storage device
-IAB_code: "616"
+IAB_code: 616
 Commons_category: Data storage
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hard%20disk%20Samsung%20SP1203N%202%20%28dark1%29.jpg
 narrower_external_class: https://schema.org/MusicReleaseFormatType
-Dewey_Decimal_Classification: "004.5"
-Common_Procurement_Vocabulary_code: "30234000"
+Dewey_Decimal_Classification: 004.5
+Common_Procurement_Vocabulary_code: 30234000
 Unicode_range: U+1F4BD-1F4C0,U+1F4FC
 ---
 

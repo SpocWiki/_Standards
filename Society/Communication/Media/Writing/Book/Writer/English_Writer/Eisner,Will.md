@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Will Eisner"
-- "William Erwin Eisner"
+  - Will Eisner
+  - William Erwin Eisner
+  - Eisner,Will
 ---
 
 # [[Eisner,Will]] 

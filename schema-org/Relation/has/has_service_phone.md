@@ -3,23 +3,24 @@ aliases:
   - has service-phone
   - servicePhone
   - has_service_phone
+  - has service phone
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - service_phone
   - service
   - phone
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_service_phone
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

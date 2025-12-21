@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Marvel Entertainment"
-- "Marvel Enterprises"
+  - Marvel Entertainment
+  - Marvel Enterprises
+  - Marvel_Entertainment
 ---
 
 ## #has_/text_of_/abstract 

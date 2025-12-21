@@ -1,14 +1,16 @@
 ---
 aliases:
   - plum pudding model
+  - Plum_Pudding_Model
+  - Plum Pudding Model
 has_id_wikidata: Q274116
-instance_of: "[[_Standards/WikiData/WD~atom_model,780649]]"
+instance_of: '[[_Standards/WikiData/WD~atom_model,780649]]'
 inception:
   - 1897-01-01T00:00:00Z
   - 1904-01-01T00:00:00Z
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~electron,2225]]"
-creator: "[[_Standards/WikiData/WD~J._J._Thomson,47285]]"
-named_after: "[[_Standards/WikiData/WD~J._J._Thomson,47285]]"
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~electron,2225]]'
+creator: '[[_Standards/WikiData/WD~J._J._Thomson,47285]]'
+named_after: '[[_Standards/WikiData/WD~J._J._Thomson,47285]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Plum%20pudding%20atom.svg
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "PlumPuddingModel"]
 ---

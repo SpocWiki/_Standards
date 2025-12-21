@@ -4,20 +4,22 @@ aliases:
   - research_organization
   - ResearchOrganization
   - is_a_research_organization
+  - Research_Organization
+  - Research Organization
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - research_organization
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_research_organization Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

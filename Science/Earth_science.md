@@ -1,28 +1,29 @@
 ---
 aliases:
   - Earth science
+  - Earth_science
 has_id_wikidata: Q8008
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_earth_science,715140]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_earth_science,715140]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+  - '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 main_subject:
-  - "[[_Standards/WikiData/WD~Earth_analog,2670101]]"
-  - "[[_Standards/WikiData/WD~Earth,2]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Earth_science,6580824]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Earth_sciences,8207058]]"
-practiced_by: "[[_Standards/WikiData/WD~earth_scientist,11424604]]"
-studied_by: "[[_Standards/WikiData/WD~earth_science_studies,106387954]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Earth_science,113192690]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-subclass_of: "[[_Standards/WikiData/WD~natural_science,7991]]"
-is_the_study_of: "[[_Standards/WikiData/WD~Earth,2]]"
-DFG_Science_Classification: "34"
-Basisklassifikation: "38"
-Dewey_Decimal_Classification: "550"
-U_S_National_Archives_Identifier: "10638064"
+  - '[[_Standards/WikiData/WD~Earth_analog,2670101]]'
+  - '[[_Standards/WikiData/WD~Earth,2]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Earth_science,6580824]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Earth_sciences,8207058]]'
+practiced_by: '[[_Standards/WikiData/WD~earth_scientist,11424604]]'
+studied_by: '[[_Standards/WikiData/WD~earth_science_studies,106387954]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Earth_science,113192690]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+subclass_of: '[[_Standards/WikiData/WD~natural_science,7991]]'
+is_the_study_of: '[[_Standards/WikiData/WD~Earth,2]]'
+DFG_Science_Classification: 34
+Basisklassifikation: 38
+Dewey_Decimal_Classification: 550
+U_S_National_Archives_Identifier: 10638064
 Commons_category: Earth sciences
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Aardwetenschappen.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DirkvdM%20rocks.jpg

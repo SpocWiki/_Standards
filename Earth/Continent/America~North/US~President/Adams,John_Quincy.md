@@ -1,26 +1,27 @@
 ---
 aliases:
-- Adams,John_Quincy
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Adams,John_Quincy
+  - ''
+  - Adams,John Quincy
 has_id_wikidata: Q11816
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Adams,John_Quincy
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Adams,John_Quincy
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- "John Quincy Adams"
-- Adams,John_Quincy
-- 
+  - John Quincy Adams
+  - Adams,John_Quincy
+  - ''
 title: Adams,John_Quincy
 type: private_note
 ---

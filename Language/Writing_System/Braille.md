@@ -1,32 +1,34 @@
 ---
+aliases:
+  - Braille
 has_id_wikidata: Q79894
-named_after: "[[_Standards/WikiData/WD~Louis_Braille,93182]]"
+named_after: '[[_Standards/WikiData/WD~Louis_Braille,93182]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~character_encoding,184759]]"
-  - "[[_Standards/WikiData/WD~code,188889]]"
-  - "[[_Standards/WikiData/WD~unicase_alphabet,4004706]]"
-  - "[[_Standards/WikiData/WD~writing_system,8192]]"
-  - "[[_Standards/WikiData/WD~alphabet,9779]]"
-location_of_creation: "[[_Standards/WikiData/WD~Coupvray,828631]]"
-subclass_of: "[[_Standards/WikiData/WD~alphabetic_writing_system,2182919]]"
-different_from: "[[_Standards/WikiData/WD~braille_(original),4554291]]"
+  - '[[_Standards/WikiData/WD~character_encoding,184759]]'
+  - '[[_Standards/WikiData/WD~code,188889]]'
+  - '[[_Standards/WikiData/WD~unicase_alphabet,4004706]]'
+  - '[[_Standards/WikiData/WD~writing_system,8192]]'
+  - '[[_Standards/WikiData/WD~alphabet,9779]]'
+location_of_creation: '[[_Standards/WikiData/WD~Coupvray,828631]]'
+subclass_of: '[[_Standards/WikiData/WD~alphabetic_writing_system,2182919]]'
+different_from: '[[_Standards/WikiData/WD~braille_(original),4554291]]'
 script_directionality:
-  - "[[_Standards/WikiData/WD~right_to_left,7333457]]"
-  - "[[_Standards/WikiData/WD~left_to_right,17321844]]"
-uses: "[[_Standards/WikiData/WD~Braille_pattern,135261272]]"
-country_of_origin: "[[_Standards/WikiData/WD~France,142]]"
-ISO_15924_numeric_code: "570"
-OmegaWiki_Defined_Meaning: "428293"
+  - '[[_Standards/WikiData/WD~right_to_left,7333457]]'
+  - '[[_Standards/WikiData/WD~left_to_right,17321844]]'
+uses: '[[_Standards/WikiData/WD~Braille_pattern,135261272]]'
+country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
+ISO_15924_numeric_code: 570
+OmegaWiki_Defined_Meaning: 428293
 GitHub_topic: braille
 Unicode_range: U+2800-28FF
 inception: 1824-01-01T00:00:00Z
-U_S_National_Archives_Identifier: "10663116"
+U_S_National_Archives_Identifier: 10663116
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Braille%20closeup.jpg
 spoken_text_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Es-BRAILE-article.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Braille-article.ogg
 Stack_Exchange_tag: https://stackoverflow.com/tags/braille
-P8189: "987007563517405171"
+P8189: 987007563517405171
 ISO_15924_alpha_4_code: Brai
 Commons_category: Braille
 Open_Food_Facts_label: en:in-braille

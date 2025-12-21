@@ -6,13 +6,13 @@ aliases:
   - blend word
 has_id_wikidata: Q208674
 subclass_of:
-  - "[[_Standards/WikiData/WD~contamination,287903]]"
-  - "[[_Standards/WikiData/WD~derivation,728001]]"
-  - "[[_Standards/WikiData/WD~word_play,998840]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-different_from: "[[_Standards/WikiData/WD~hybridism,1118483]]"
-has_cause: "[[_Standards/WikiData/WD~blending,115942947]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_word_or_phrase,135929641]]"
+  - '[[_Standards/WikiData/WD~contamination,287903]]'
+  - '[[_Standards/WikiData/WD~derivation,728001]]'
+  - '[[_Standards/WikiData/WD~word_play,998840]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+different_from: '[[_Standards/WikiData/WD~hybridism,1118483]]'
+has_cause: '[[_Standards/WikiData/WD~blending,115942947]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_word_or_phrase,135929641]]'
 Commons_category: Portmanteau
 ---
 

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Florist
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: flower
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Florist
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/Florist
-- is_a_/Florist
-- schema-org/Florist
+  - class/Florist
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/Florist
+  - is_a_/Florist
+  - schema-org/Florist
 tags:
-- class/FileClass
-- class/Florist
-- is_a_/Florist
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/Florist
+  - class/FileClass
+  - class/Florist
+  - is_a_/Florist
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/Florist
 version: 2.0
 ---
 

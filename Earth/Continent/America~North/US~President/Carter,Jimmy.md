@@ -1,26 +1,26 @@
 ---
 aliases:
-- Carter,Jimmy
-- "Jimmy Carter"
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Carter,Jimmy
+  - Jimmy Carter
+  - ''
 has_id_wikidata: Q23685
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Carter,Jimmy
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Carter,Jimmy
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Carter,Jimmy
-- 
+  - Carter,Jimmy
+  - ''
 title: Carter,Jimmy
 type: private_note
 ---

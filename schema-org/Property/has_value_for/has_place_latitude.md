@@ -1,30 +1,31 @@
 ---
 aliases:
-- "schema:latitude"
-- latitude
-- has_geo_latitude
-- has_place_latitude
-- has_value_for_place_latitude
-- has_value_for_geo_latitude
-- "geo:lat"
+  - schema:latitude
+  - latitude
+  - has_geo_latitude
+  - has_place_latitude
+  - has_value_for_place_latitude
+  - has_value_for_geo_latitude
+  - geo:lat
+  - has place latitude
 confidential: public
 cssclasses:
-- Predicate
-- Quantity
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- latitude
-layout: 
-license: "CC BY-SA 4.0"
+  - latitude
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_latitude
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_latitude
 type: Predi_Quantity
 ---

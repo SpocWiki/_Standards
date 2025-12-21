@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Tajikistan
+  - Tayikistán
+  - Tadjikistan
+  - طاجيكستان
+  - 塔吉克斯坦
+  - Таджикистан
+  - the Republic of Tajikistan
+  - la República de Tayikistán
+has_id_wikidata: Q863
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
@@ -285,7 +295,6 @@ inception: 1991-09-09
 has_time_started: 1991-09-09
 coordinates_of_easternmost_point: Point(75.1600533 37.4116094)
 coordinate_location: Point(71.366667 38.583333)
-has_id_wikidata: Q863
 location:
   - 38.55
   - 68.8
@@ -302,21 +311,12 @@ cssclasses:
   - Country
 publish: true
 title: Tajikistan
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Tajikistan
-  - Tayikistán
-  - Tadjikistan
-  - طاجيكستان
-  - 塔吉克斯坦
-  - Таджикистан
-  - the Republic of Tajikistan
-  - la República de Tayikistán
+publishDate: ""
+expiryDate: ""
 Languages:
   - tg
   - ru

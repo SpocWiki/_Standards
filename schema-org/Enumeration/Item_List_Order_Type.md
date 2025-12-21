@@ -4,20 +4,22 @@ aliases:
   - item_list_order_type
   - ItemListOrderType
   - is_an_item_list_order_type
+  - Item_List_Order_Type
+  - Item List Order Type
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - item_list_order_type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_item_list_order_type Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

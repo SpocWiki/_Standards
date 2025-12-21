@@ -4,25 +4,27 @@ aliases:
   - Public speaking
   - Öffentliche Rede
   - Oration
+  - Public_Speaking
+  - Public Speaking
 has_id_wikidata: Q861911
-uses: "[[_Standards/WikiData/WD~rhetoric,81009]]"
+uses: '[[_Standards/WikiData/WD~rhetoric,81009]]'
 different_from:
-  - "[[_Standards/WikiData/WD~discourse,190539]]"
-  - "[[_Standards/WikiData/WD~Q117008193,117008193]]"
+  - '[[_Standards/WikiData/WD~discourse,190539]]'
+  - '[[_Standards/WikiData/WD~Q117008193,117008193]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~event,1656682]]"
-  - "[[_Standards/WikiData/WD~creative_work,17537576]]"
-  - "[[_Standards/WikiData/WD~oral_media,17584038]]"
+  - '[[_Standards/WikiData/WD~event,1656682]]'
+  - '[[_Standards/WikiData/WD~creative_work,17537576]]'
+  - '[[_Standards/WikiData/WD~oral_media,17584038]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~literary_form,4263830]]"
-  - "[[_Standards/WikiData/WD~form_of_event,108586636]]"
-part_of: "[[_Standards/WikiData/WD~public_speaking,18342738]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_oration,117822031]]"
+  - '[[_Standards/WikiData/WD~literary_form,4263830]]'
+  - '[[_Standards/WikiData/WD~form_of_event,108586636]]'
+part_of: '[[_Standards/WikiData/WD~public_speaking,18342738]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_oration,117822031]]'
 properties_for_this_type:
   - speaker
   - first line
   - last line
-Nomenclature_for_Museum_Cataloging: "13558"
+Nomenclature_for_Museum_Cataloging: 13558
 UMLS_CUI: C0376649
 hashtag: Speech
 Commons_category: Speeches

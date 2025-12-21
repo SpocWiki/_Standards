@@ -1,43 +1,44 @@
 ---
 aliases:
   - Försterei
+  - Forestry
 has_id_wikidata: Q38112
 MeSH_tree_code: J01.576.430
 Library_of_Congress_Classification: SD1-SD669.5
 instance_of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-has_part_s_: "[[_Standards/WikiData/WD~silviculture,720362]]"
+  - '[[_Standards/WikiData/WD~industry,268592]]'
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+has_part_s_: '[[_Standards/WikiData/WD~silviculture,720362]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 part_of:
-  - "[[_Standards/WikiData/WD~agriculture_and_forestry,1801887]]"
-  - "[[_Standards/WikiData/WD~primary_sector_of_the_economy,55640]]"
+  - '[[_Standards/WikiData/WD~agriculture_and_forestry,1801887]]'
+  - '[[_Standards/WikiData/WD~primary_sector_of_the_economy,55640]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~agriculture_and_forestry,1801887]]"
-  - "[[_Standards/WikiData/WD~engineering,11023]]"
+  - '[[_Standards/WikiData/WD~agriculture_and_forestry,1801887]]'
+  - '[[_Standards/WikiData/WD~engineering,11023]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~forester,1895303]]"
-  - "[[_Standards/WikiData/WD~forestry_worker,12335817]]"
-  - "[[_Standards/WikiData/WD~forestry_worker,26271631]]"
-  - "[[_Standards/WikiData/WD~soigneur,131722823]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_forestry,7112643]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Forestry,14524907]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Forestry,19342512]]"
+  - '[[_Standards/WikiData/WD~forester,1895303]]'
+  - '[[_Standards/WikiData/WD~forestry_worker,12335817]]'
+  - '[[_Standards/WikiData/WD~forestry_worker,26271631]]'
+  - '[[_Standards/WikiData/WD~soigneur,131722823]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_forestry,7112643]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Forestry,14524907]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Forestry,19342512]]'
 different_from:
-  - "[[_Standards/WikiData/WD~forestry_science,19924411]]"
-  - "[[_Standards/WikiData/WD~silviculture_and_other_forestry_activities,112129848]]"
-  - "[[_Standards/WikiData/WD~silviculture_and_other_forestry_activities,112132287]]"
-industry: "[[_Standards/WikiData/WD~Forestry,123187921]]"
-OmegaWiki_Defined_Meaning: "1548"
-Universal_Decimal_Classification: "630"
-All_Science_Journal_Classification_Codes: "1107"
+  - '[[_Standards/WikiData/WD~forestry_science,19924411]]'
+  - '[[_Standards/WikiData/WD~silviculture_and_other_forestry_activities,112129848]]'
+  - '[[_Standards/WikiData/WD~silviculture_and_other_forestry_activities,112132287]]'
+industry: '[[_Standards/WikiData/WD~Forestry,123187921]]'
+OmegaWiki_Defined_Meaning: 1548
+Universal_Decimal_Classification: 630
+All_Science_Journal_Classification_Codes: 1107
 exact_match:
   - http://aims.fao.org/aos/agrovoc/c_3055
   - http://cat.aii.caas.cn/concept/27601
@@ -56,7 +57,7 @@ Iconclass_notation: 47I8
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/A%20deciduous%20beech%20forest%20in%20Slovenia.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Forstarbeiten%20in%20%C3%96sterreich.JPG
-UNSPSC_Code: "70150000"
+UNSPSC_Code: 70150000
 Provenio_UUID: bb46dde4-29f3-478f-859d-696d4ced5243
 UMLS_CUI: C0085081
 ---

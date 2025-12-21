@@ -4,22 +4,24 @@ aliases:
   - processor_requirements
   - processorRequirements
   - has_text_of_processor_requirements
+  - has_processor_requirements
+  - has processor requirements
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - processor
   - requirements
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_processor_requirements
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

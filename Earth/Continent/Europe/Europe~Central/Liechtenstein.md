@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Liechtenstein
+has_id_wikidata: Q347
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~European_Free_Trade_Association,166546]]"
@@ -276,7 +279,6 @@ coordinates_of_easternmost_point: Point(9.63565 47.09597)
 coordinates_of_northernmost_point: Point(9.530797 47.270554)
 coordinates_of_southernmost_point: Point(9.557826 47.048291)
 coordinates_of_westernmost_point: Point(9.471621 47.062683)
-has_id_wikidata: Q347
 ---
 
 ---

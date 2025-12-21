@@ -4,21 +4,23 @@ aliases:
   - gtin14
   - gtin14
   - has_text_of_gtin14
+  - has_gtin14
+  - has gtin14
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - gtin14
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_gtin14
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

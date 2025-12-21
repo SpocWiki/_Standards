@@ -2,6 +2,8 @@
 aliases:
   - electron configuration
   - Electronen-Konfiguration
+  - Electron_Configuration
+  - Electron Configuration
 has_id_wikidata: Q53859
 ---
 

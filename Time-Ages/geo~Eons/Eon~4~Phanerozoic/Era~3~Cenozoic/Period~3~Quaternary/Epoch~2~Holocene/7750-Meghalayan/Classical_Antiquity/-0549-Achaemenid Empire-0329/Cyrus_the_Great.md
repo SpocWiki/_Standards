@@ -2,6 +2,8 @@
 aliases:
   - Cyrus the Great
   - Cyrus II of Persia
+  - Cyrus_the_Great
+has_id_wikidata: Q8423
 BHCL_UUID: 069ff67f-d90b-4a19-abf0-861c6d55748a
 cause_of_death: "[[_Standards/WikiData/WD~killed_in_action,210392]]"
 child:
@@ -28,7 +30,6 @@ different_from: "[[_Standards/WikiData/WD~Darius_the_Mede,603176]]"
 family: "[[_Standards/WikiData/WD~Achaemenid_dynasty,13527812]]"
 father: "[[_Standards/WikiData/WD~Cambyses_I,299428]]"
 given_name: "[[_Standards/WikiData/WD~Cyrus,10861063]]"
-has_id_wikidata: Q8423
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Men%20and%20Famous%20Women%20Volume%201%20-%20Cyrus%20the%20Great.png
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 ISNI: 437560028

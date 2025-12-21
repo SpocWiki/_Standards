@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Monopoly
 has_id_wikidata: Q43637
 ---
 

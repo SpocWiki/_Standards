@@ -4,21 +4,22 @@ aliases:
   - spatial_coverage
   - spatialCoverage
   - has_location_spatial_coverage
+  - has location spatial coverage
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - spatial_coverage
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_spatial_coverage
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

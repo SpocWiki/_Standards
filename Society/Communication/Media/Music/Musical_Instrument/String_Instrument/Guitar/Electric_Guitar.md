@@ -3,31 +3,33 @@ aliases:
   - electric guitar
   - E-Guitar
   - E-Gitarre
+  - Electric_Guitar
+  - Electric Guitar
 has_id_wikidata: Q78987
 has_part_s_:
-  - "[[_Standards/WikiData/WD~potentiometer,187868]]"
-  - "[[_Standards/WikiData/WD~tuning_peg,303790]]"
-  - "[[_Standards/WikiData/WD~string,326426]]"
-  - "[[_Standards/WikiData/WD~pickup,572648]]"
-  - "[[_Standards/WikiData/WD~bridge,830869]]"
-  - "[[_Standards/WikiData/WD~neck,944038]]"
-  - "[[_Standards/WikiData/WD~nut,1186738]]"
-  - "[[_Standards/WikiData/WD~body,55185381]]"
-  - "[[_Standards/WikiData/WD~electrical_receptacle,64537414]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~George_Beauchamp,596713]]"
+  - '[[_Standards/WikiData/WD~potentiometer,187868]]'
+  - '[[_Standards/WikiData/WD~tuning_peg,303790]]'
+  - '[[_Standards/WikiData/WD~string,326426]]'
+  - '[[_Standards/WikiData/WD~pickup,572648]]'
+  - '[[_Standards/WikiData/WD~bridge,830869]]'
+  - '[[_Standards/WikiData/WD~neck,944038]]'
+  - '[[_Standards/WikiData/WD~nut,1186738]]'
+  - '[[_Standards/WikiData/WD~body,55185381]]'
+  - '[[_Standards/WikiData/WD~electrical_receptacle,64537414]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~George_Beauchamp,596713]]'
 different_from:
-  - "[[_Standards/WikiData/WD~keytar,1112687]]"
-  - "[[_Standards/WikiData/WD~acoustic_guitar,31561]]"
-  - "[[_Standards/WikiData/WD~bass_guitar,46185]]"
+  - '[[_Standards/WikiData/WD~keytar,1112687]]'
+  - '[[_Standards/WikiData/WD~acoustic_guitar,31561]]'
+  - '[[_Standards/WikiData/WD~bass_guitar,46185]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~electro_acoustic_chordophones,55738960]]"
-  - "[[_Standards/WikiData/WD~guitar,6607]]"
-connects_with: "[[_Standards/WikiData/WD~guitar_amplifier_loudspeaker,106316570]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
-used_by: "[[_Standards/WikiData/WD~electric_guitarist,121754124]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-Hornbostel_Sachs_classification: "513"
-Nomenclature_for_Museum_Cataloging: "10794"
+  - '[[_Standards/WikiData/WD~electro_acoustic_chordophones,55738960]]'
+  - '[[_Standards/WikiData/WD~guitar,6607]]'
+connects_with: '[[_Standards/WikiData/WD~guitar_amplifier_loudspeaker,106316570]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+used_by: '[[_Standards/WikiData/WD~electric_guitarist,121754124]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+Hornbostel_Sachs_classification: 513
+Nomenclature_for_Museum_Cataloging: 10794
 Commons_category: Electric guitars
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Range%20guitar.svg
 inception: 1932-01-01T00:00:00Z
@@ -36,7 +38,7 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Clean-gain%20demo%20me
 exact_match:
   - http://wordnet-rdf.princeton.edu/wn30/03272010-n
   - http://wordnet-rdf.princeton.edu/wn31/103255686-n
-Amazon_com_browse_node: "11971381"
+Amazon_com_browse_node: 11971381
 Commons_gallery: Electric guitar
 IMDb_keyword: electric-guitar
 Baidu_Tieba_name: 电吉他

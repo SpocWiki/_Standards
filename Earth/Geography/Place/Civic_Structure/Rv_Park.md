@@ -4,20 +4,22 @@ aliases:
   - rv_park
   - RVPark
   - is_a_rv_park
+  - Rv_Park
+  - Rv Park
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - rv_park
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_rv_park Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

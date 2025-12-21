@@ -1,6 +1,8 @@
 ---
 aliases:
-- "The Devil Wears Prada (film)"
+  - The Devil Wears Prada (film)
+  - Devil_wears_Prada(film)
+  - Devil wears Prada(film)
 ---
 
 ## #has_/text_of_/abstract 

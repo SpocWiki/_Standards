@@ -1,36 +1,36 @@
 ---
 aliases:
-- Myanmar
-- ميانمار
-- 缅甸
-- Мьянма
-- "the Republic of the Union of Myanmar"
-- "la República de la Unión de Myanmar"
-- Burma
+  - Myanmar
+  - ميانمار
+  - 缅甸
+  - Мьянма
+  - the Republic of the Union of Myanmar
+  - la República de la Unión de Myanmar
+  - Burma
+has_id_wikidata: Q836
 confidential: public
 cssclasses:
-- Country
+  - Country
 draft: false
-expiryDate: 
-has_id_wikidata: Q836
+expiryDate: ''
 icon: flag-mm
 isDeleted: false
 isReadOnly: false
-keywords: 
+keywords: ''
 Languages:
-- my
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+  - my
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: ''
 location:
-- 18.265
-- 96.135
+  - 18.265
+  - 96.135
 publish: true
-publishDate: 
-source: "https://datahub.io/core/country-codes"
+publishDate: ''
+source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26963
 tags:
-- geo/Country
+  - geo/Country
 title: Myanmar
 type: Country
 ---

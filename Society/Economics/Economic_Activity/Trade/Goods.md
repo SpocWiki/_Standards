@@ -2,19 +2,20 @@
 aliases:
   - Waren
   - Güter
+  - Goods
 has_id_wikidata: Q28877
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~product,2424752]]"
-subclass_of: "[[_Standards/WikiData/WD~goods_and_services,2897903]]"
-opposite_of: "[[_Standards/WikiData/WD~economic_bad,3566043]]"
-different_from: "[[_Standards/WikiData/WD~service,7406919]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Types_of_goods,14400020]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~product,2424752]]'
+subclass_of: '[[_Standards/WikiData/WD~goods_and_services,2897903]]'
+opposite_of: '[[_Standards/WikiData/WD~economic_bad,3566043]]'
+different_from: '[[_Standards/WikiData/WD~service,7406919]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Types_of_goods,14400020]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~economic_concept,29028649]]"
-  - "[[_Standards/WikiData/WD~economics_term,64513524]]"
-described_by_source: "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-studied_by: "[[_Standards/WikiData/WD~economics,8134]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~good,15290]]"
+  - '[[_Standards/WikiData/WD~economic_concept,29028649]]'
+  - '[[_Standards/WikiData/WD~economics_term,64513524]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+studied_by: '[[_Standards/WikiData/WD~economics,8134]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~good,15290]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Ridge%20Parkway%20-%20A%20Mound%20of%20Soap%20-%20NARA%20-%207717444.jpg
 Commons_category: Goods (economics)
 Colon_Classification: X:446

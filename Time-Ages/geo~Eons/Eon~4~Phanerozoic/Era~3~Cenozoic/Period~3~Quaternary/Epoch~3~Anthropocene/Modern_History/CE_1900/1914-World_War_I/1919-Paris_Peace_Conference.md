@@ -1,14 +1,16 @@
 ---
 aliases:
   - Versailles Conference
+  - 1919-Paris_Peace_Conference
+  - 1919-Paris Peace Conference
 has_id_wikidata: Q199820
-archives_at: "[[_Standards/WikiData/WD~La_contemporaine,856640]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-instance_of: "[[_Standards/WikiData/WD~peace_conference,7157512]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Paris_Peace_Conference_navbox,20645539]]"
-location: "[[_Standards/WikiData/WD~Paris,90]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
-creator: "[[_Standards/WikiData/WD~League_of_Nations,38130]]"
+archives_at: '[[_Standards/WikiData/WD~La_contemporaine,856640]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+instance_of: '[[_Standards/WikiData/WD~peace_conference,7157512]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Paris_Peace_Conference_navbox,20645539]]'
+location: '[[_Standards/WikiData/WD~Paris,90]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
+creator: '[[_Standards/WikiData/WD~League_of_Nations,38130]]'
 BHCL_UUID:
   - da85d4a2-85ee-4726-967d-d1335af82c29
   - bd53d562-9a83-40f8-9bbf-79d8c2d1bea5

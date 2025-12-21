@@ -4,20 +4,22 @@ aliases:
   - order_action
   - OrderAction
   - is_an_order_action
+  - Order_Action
+  - Order Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - order_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_order_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

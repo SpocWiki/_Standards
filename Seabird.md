@@ -3,15 +3,16 @@ aliases:
   - marine birds
   - Meeresvogel
   - Meeresvögel
+  - Seabird
 has_id_wikidata: Q55808
-subclass_of: "[[_Standards/WikiData/WD~water_bird,3303681]]"
+subclass_of: '[[_Standards/WikiData/WD~water_bird,3303681]]'
 taxon_known_by_this_common_name:
-  - "[[_Standards/WikiData/WD~Sphenisciformes,12198609]]"
-  - "[[_Standards/WikiData/WD~Phaethontiformes,12765692]]"
-  - "[[WikiData/WD~Procellariiformes,21685]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q25720943,25720943]]"
-instance_of: "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
-U_S_National_Archives_Identifier: "10645761"
+  - '[[_Standards/WikiData/WD~Sphenisciformes,12198609]]'
+  - '[[_Standards/WikiData/WD~Phaethontiformes,12765692]]'
+  - '[[WikiData/WD~Procellariiformes,21685]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q25720943,25720943]]'
+instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+U_S_National_Archives_Identifier: 10645761
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Black-browed%20albatross.jpg
 Commons_category: Seabirds
 ---

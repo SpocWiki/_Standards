@@ -4,21 +4,23 @@ aliases:
   - unofficial_legal_value
   - UnofficialLegalValue
   - is_an_unofficial_legal_value
+  - Unofficial_Legal_Value
+  - Unofficial Legal Value
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: LegalValueLevel
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - unofficial_legal_value
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_unofficial_legal_value Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

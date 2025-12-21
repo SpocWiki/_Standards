@@ -2,30 +2,32 @@
 aliases:
   - ethnicity
   - ethnic group
+  - Ethnic_Group
+  - Ethnic Group
 has_id_wikidata: Q41710
 different_from:
-  - "[[_Standards/WikiData/WD~nationality,231002]]"
-  - "[[_Standards/WikiData/WD~people,2472587]]"
-  - "[[_Standards/WikiData/WD~nation,6266]]"
+  - '[[_Standards/WikiData/WD~nationality,231002]]'
+  - '[[_Standards/WikiData/WD~people,2472587]]'
+  - '[[_Standards/WikiData/WD~nation,6266]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~caste,484416]]"
-  - "[[_Standards/WikiData/WD~ethnic_minority_group,2531956]]"
-  - "[[_Standards/WikiData/WD~ethnos,12839330]]"
+  - '[[_Standards/WikiData/WD~caste,484416]]'
+  - '[[_Standards/WikiData/WD~ethnic_minority_group,2531956]]'
+  - '[[_Standards/WikiData/WD~ethnos,12839330]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~identity,844569]]"
-  - "[[_Standards/WikiData/WD~ethnicity,5404323]]"
-  - "[[_Standards/WikiData/WD~ethnic_identity,110952373]]"
-  - "[[_Standards/WikiData/WD~culture,11042]]"
-  - "[[_Standards/WikiData/WD~first_language,36870]]"
-subclass_of: "[[_Standards/WikiData/WD~population_group,851990]]"
+  - '[[_Standards/WikiData/WD~identity,844569]]'
+  - '[[_Standards/WikiData/WD~ethnicity,5404323]]'
+  - '[[_Standards/WikiData/WD~ethnic_identity,110952373]]'
+  - '[[_Standards/WikiData/WD~culture,11042]]'
+  - '[[_Standards/WikiData/WD~first_language,36870]]'
+subclass_of: '[[_Standards/WikiData/WD~population_group,851990]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~personal_data,3702971]]"
-  - "[[_Standards/WikiData/WD~classification_scheme,5962346]]"
+  - '[[_Standards/WikiData/WD~personal_data,3702971]]'
+  - '[[_Standards/WikiData/WD~classification_scheme,5962346]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_ethnic_group,5827917]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox_ethnic_group_2,14407193]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Ethnic_groups,15305025]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+  - '[[_Standards/WikiData/WD~Template_Infobox_ethnic_group,5827917]]'
+  - '[[_Standards/WikiData/WD~Template_Infobox_ethnic_group_2,14407193]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Ethnic_groups,15305025]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 properties_for_this_type:
   - location
   - population
@@ -34,11 +36,11 @@ properties_for_this_type:
   - movement
   - religion or worldview
   - ethnic group
-items_classified: "[[_Standards/WikiData/WD~human,5]]"
+items_classified: '[[_Standards/WikiData/WD~human,5]]'
 Wikidata_property: ethnic group
-U_S_National_Archives_Identifier: "10638635"
-OmegaWiki_Defined_Meaning: "636110"
-Dewey_Decimal_Classification: "305.8"
+U_S_National_Archives_Identifier: 10638635
+OmegaWiki_Defined_Meaning: 636110
+Dewey_Decimal_Classification: 305.8
 Commons_category: Ethnic groups
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Collage%20of%20ethnic%20groups.jpg
 equivalent_class: http://dbpedia.org/ontology/EthnicGroup

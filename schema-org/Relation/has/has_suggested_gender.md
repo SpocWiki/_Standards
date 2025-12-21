@@ -3,23 +3,24 @@ aliases:
   - has suggested-gender
   - suggestedGender
   - has_suggested_gender
+  - has suggested gender
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - suggested_gender
   - suggested
   - gender
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_suggested_gender
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

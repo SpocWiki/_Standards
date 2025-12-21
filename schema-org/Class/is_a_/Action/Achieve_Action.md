@@ -4,20 +4,22 @@ aliases:
   - achieve_action
   - AchieveAction
   - is_an_achieve_action
+  - Achieve_Action
+  - Achieve Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - achieve_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_achieve_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

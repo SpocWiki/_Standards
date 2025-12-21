@@ -4,23 +4,24 @@ aliases:
   - id_broadcast_channel
   - broadcastChannelId
   - has_id_broadcast_channel
+  - has id broadcast channel
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - broadcast
   - channel
   - id
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_id_broadcast_channel
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

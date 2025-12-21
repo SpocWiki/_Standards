@@ -5,20 +5,21 @@ aliases:
   - Vaiṣṇavasampradāyaḥ
   - Vishnuism
   - Vishnuismus
+  - Vaishnavism
 has_id_wikidata: Q45584
-instance_of: "[[_Standards/WikiData/WD~Hindu_denomination,1318257]]"
+instance_of: '[[_Standards/WikiData/WD~Hindu_denomination,1318257]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
 location:
-  - "[[_Standards/WikiData/WD~worldwide,13780930]]"
-  - "[[_Standards/WikiData/WD~Indian_subcontinent,60140]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Vaishnavism,108485020]]"
-subclass_of: "[[_Standards/WikiData/WD~Hinduism,9089]]"
-named_after: "[[_Standards/WikiData/WD~Vishnu,11380]]"
+  - '[[_Standards/WikiData/WD~worldwide,13780930]]'
+  - '[[_Standards/WikiData/WD~Indian_subcontinent,60140]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Vaishnavism,108485020]]'
+subclass_of: '[[_Standards/WikiData/WD~Hinduism,9089]]'
+named_after: '[[_Standards/WikiData/WD~Vishnu,11380]]'
 Colon_Classification: Q22
 Commons_category: Vaishnavism
-Universal_Decimal_Classification: "233.2"
+Universal_Decimal_Classification: 233.2
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sarangapani%20Vishnu%20temple%20Kumbakonam.JPG
   - http://commons.wikimedia.org/wiki/Special:FilePath/Vishnu.jpg

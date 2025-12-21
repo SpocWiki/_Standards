@@ -1,6 +1,7 @@
 ---
 aliases:
   - Pheidias
+  - Phidias
 has_id_wikidata: Q177302
 ---
 

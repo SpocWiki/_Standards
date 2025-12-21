@@ -9,31 +9,31 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - observation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_observation Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_observation Class
 type: Type
-has_part_s_: "[[_Standards/WikiData/WD~perception,160402]]"
-different_from: "[[_Standards/WikiData/WD~observational_study,818574]]"
+has_part_s_: '[[_Standards/WikiData/WD~perception,160402]]'
+different_from: '[[_Standards/WikiData/WD~observational_study,818574]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~activity,1914636]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-has_use: "[[_Standards/WikiData/WD~data_acquisition,1172399]]"
-practiced_by: "[[_Standards/WikiData/WD~observer,28973077]]"
-part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-subclass_of: "[[_Standards/WikiData/WD~noticing,107339018]]"
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~activity,1914636]]'
+  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+has_use: '[[_Standards/WikiData/WD~data_acquisition,1172399]]'
+practiced_by: '[[_Standards/WikiData/WD~observer,28973077]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+subclass_of: '[[_Standards/WikiData/WD~noticing,107339018]]'
 Commons_category: Observation
 UMLS_CUI: C0302523
 MeSH_tree_code: E05.581.249

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ceres
+  - Ceres(Mythology)
 ---
 
 # [[Ceres(Mythology)]] 

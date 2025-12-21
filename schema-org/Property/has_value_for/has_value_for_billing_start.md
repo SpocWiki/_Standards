@@ -4,21 +4,22 @@ aliases:
   - billing-start
   - billingStart
   - has_value_for_billing_start
+  - has value for billing start
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - billing-start
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_billing-start
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

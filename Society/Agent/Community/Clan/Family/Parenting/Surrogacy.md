@@ -1,6 +1,7 @@
 ---
 aliases:
   - Leihmutterschaft
+  - Surrogacy
 has_id_wikidata: Q334645
 ---
 

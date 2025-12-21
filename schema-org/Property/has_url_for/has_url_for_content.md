@@ -1,28 +1,30 @@
 ---
 aliases:
-- content-url
-- content_url
-- contentUrl
-- has_url_for_content_url
-- documentation-url
+  - content-url
+  - content_url
+  - contentUrl
+  - has_url_for_content_url
+  - documentation-url
+  - has_url_for_content
+  - has url for content
 confidential: public
 cssclasses:
-- Predicate
-- Url
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- content_url
-layout: 
-license: "CC BY-SA 4.0"
+  - content_url
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_url_for_content_url
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Url
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for_content_url
 type: Predi_Url
 ---

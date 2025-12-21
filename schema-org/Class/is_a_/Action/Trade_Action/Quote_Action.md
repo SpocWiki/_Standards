@@ -4,20 +4,22 @@ aliases:
   - quote_action
   - QuoteAction
   - is_a_quote_action
+  - Quote_Action
+  - Quote Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - quote_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_quote_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

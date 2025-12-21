@@ -4,20 +4,22 @@ aliases:
   - radio_series
   - RadioSeries
   - is_a_radio_series
+  - Radio_Series
+  - Radio Series
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - radio_series
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_radio_series Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -3,12 +3,13 @@ aliases:
   - has financial-aid-eligible
   - financialAidEligible
   - has_financial_aid_eligible
+  - has financial aid eligible
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - aid
   - eligible
   - financial_aid_eligible
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_financial_aid_eligible
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -4,21 +4,23 @@ aliases:
   - merchant_return_unlimited_window
   - MerchantReturnUnlimitedWindow
   - is_a_merchant_return_unlimited_window
+  - Merchant_Return_Unlimited_Window
+  - Merchant Return Unlimited Window
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MerchantReturnEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - merchant_return_unlimited_window
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_merchant_return_unlimited_window Class
 publish: true
-publishDate:
+publishDate: ''
 supersedes: ProductReturnUnlimitedWindow
 tags:
   - class/Class

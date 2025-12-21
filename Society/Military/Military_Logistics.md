@@ -1,17 +1,19 @@
 ---
 aliases:
   - Military logistics
+  - Military_Logistics
+  - Military Logistics
 has_id_wikidata: Q163059
 subclass_of:
-  - "[[_Standards/WikiData/WD~logistics,177777]]"
-  - "[[_Standards/WikiData/WD~Q97662530,97662530]]"
-has_part_s_: "[[_Standards/WikiData/WD~military_supply_chain_management,658035]]"
-is_part_of: "[[_Standards/WikiData/WD~armed_forces,772547]]"
+  - '[[_Standards/WikiData/WD~logistics,177777]]'
+  - '[[_Standards/WikiData/WD~Q97662530,97662530]]'
+has_part_s_: '[[_Standards/WikiData/WD~military_supply_chain_management,658035]]'
+is_part_of: '[[_Standards/WikiData/WD~armed_forces,772547]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-class_of_object_s_of_occurrence: "[[_Standards/WikiData/WD~materiel,2359118]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~rear_of_armed_forces,55661694]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~materiel,2359118]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~rear_of_armed_forces,55661694]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Soviet%20military%20Military%20logistics%20%281989%29.JPEG
 Commons_category: Military logistics
 ---

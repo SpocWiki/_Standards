@@ -4,22 +4,24 @@ aliases:
   - art_medium
   - artMedium
   - has_text_of_art_medium
+  - has_art_medium
+  - has art medium
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - art
   - medium
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_art_medium
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

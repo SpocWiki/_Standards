@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Honiara
+has_id_wikidata: Q40921
 confidential: public
 isDeleted: false
 location:
@@ -9,7 +12,6 @@ SpocWebEntityId: 36744
 tags:
   - geo/City
 type: City
-has_id_wikidata: Q40921
 ---
 
 # [[Honiara]] 

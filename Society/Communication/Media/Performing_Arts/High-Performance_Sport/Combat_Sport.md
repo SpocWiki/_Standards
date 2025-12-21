@@ -2,18 +2,20 @@
 aliases:
   - combat sport
   - fighting sport
+  - Combat_Sport
+  - Combat Sport
 has_id_wikidata: Q7128792
 subclass_of:
-  - "[[_Standards/WikiData/WD~strength_sport,337979]]"
-  - "[[_Standards/WikiData/WD~contact_sport,2284014]]"
+  - '[[_Standards/WikiData/WD~strength_sport,337979]]'
+  - '[[_Standards/WikiData/WD~contact_sport,2284014]]'
 based_on:
-  - "[[_Standards/WikiData/WD~brawling,1709241]]"
-  - "[[_Standards/WikiData/WD~martial_art,11417]]"
+  - '[[_Standards/WikiData/WD~brawling,1709241]]'
+  - '[[_Standards/WikiData/WD~martial_art,11417]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~martial_artist,11124885]]"
-  - "[[_Standards/WikiData/WD~amateur_wrestler,12369333]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~martial_art,11417]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+  - '[[_Standards/WikiData/WD~martial_artist,11124885]]'
+  - '[[_Standards/WikiData/WD~amateur_wrestler,12369333]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~martial_art,11417]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
 Colon_Classification: MY24
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Boxing080905%20photoshop.jpg
 Commons_category: Combat sports

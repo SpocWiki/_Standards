@@ -1,18 +1,19 @@
 ---
 aliases:
   - pesto genovese
+  - Pesto
 has_id_wikidata: Q9896
 has_part_s_:
-  - "[[_Standards/WikiData/WD~olive_oil,93165]]"
-  - "[[_Standards/WikiData/WD~Parmesan,155922]]"
-  - "[[_Standards/WikiData/WD~pine_nut,212933]]"
-  - "[[_Standards/WikiData/WD~Pecorino_Sardo,592173]]"
-  - "[[_Standards/WikiData/WD~garlic,21546392]]"
-  - "[[_Standards/WikiData/WD~basil,65522654]]"
-different_from: "[[_Standards/WikiData/WD~Pistou,768564]]"
-subclass_of: "[[_Standards/WikiData/WD~pesto_variants,134999560]]"
-country_of_origin: "[[_Standards/WikiData/WD~Italy,38]]"
-country: "[[_Standards/WikiData/WD~Italy,38]]"
+  - '[[_Standards/WikiData/WD~olive_oil,93165]]'
+  - '[[_Standards/WikiData/WD~Parmesan,155922]]'
+  - '[[_Standards/WikiData/WD~pine_nut,212933]]'
+  - '[[_Standards/WikiData/WD~Pecorino_Sardo,592173]]'
+  - '[[_Standards/WikiData/WD~garlic,21546392]]'
+  - '[[_Standards/WikiData/WD~basil,65522654]]'
+different_from: '[[_Standards/WikiData/WD~Pistou,768564]]'
+subclass_of: '[[_Standards/WikiData/WD~pesto_variants,134999560]]'
+country_of_origin: '[[_Standards/WikiData/WD~Italy,38]]'
+country: '[[_Standards/WikiData/WD~Italy,38]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BasilPesto.JPG
 Commons_category: Pesto
 native_label: Pesto

@@ -2,22 +2,24 @@
 aliases:
   - Migration Period
   - Barbarian Invasions
+  - 0300-Migration_Period+0600
+  - 0300-Migration Period+0600
 has_id_wikidata: Q131192
 instance_of:
-  - "[[_Standards/WikiData/WD~human_migration,177626]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-locations: "[[_Standards/WikiData/WD~continental_Europe,466039]]"
+  - '[[_Standards/WikiData/WD~human_migration,177626]]'
+  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
+locations: '[[_Standards/WikiData/WD~continental_Europe,466039]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Barbarian_Invasion,1221354]]"
-  - "[[_Standards/WikiData/WD~Invasioni_barbariche,3800892]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q106997565,106997565]]"
+  - '[[_Standards/WikiData/WD~Barbarian_Invasion,1221354]]'
+  - '[[_Standards/WikiData/WD~Invasioni_barbariche,3800892]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q106997565,106997565]]'
 start_time: 0375-01-01T00:00:00Z
-time_period: "[[_Standards/WikiData/WD~Byzantine_Empire,12544]]"
+time_period: '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
 BHCL_UUID: 322c3775-e7e5-4fc4-b006-ddae6c2ef5c4
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Invasions%20of%20the%20Roman%20Empire%201.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Oton%20Ivekovic%2C%20Dolazak%20Hrvata%20na%20Jadran.jpg

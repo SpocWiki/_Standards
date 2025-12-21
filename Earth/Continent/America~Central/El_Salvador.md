@@ -1,4 +1,13 @@
 ---
+aliases:
+  - El Salvador
+  - السلفادور
+  - 萨尔瓦多
+  - Сальвадор
+  - the Republic of El Salvador
+  - la República de El Salvador
+  - El_Salvador
+has_id_wikidata: Q792
 highest_point: "[[_Standards/WikiData/WD~Cerro_El_Pital,74214]]"
 member_of:
   - "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
@@ -289,14 +298,6 @@ ISO_3166_1_numeric_code: 222
 M49_code: 222
 mobile_country_code: 706
 IAB_code: 1287
-has_id_wikidata: Q792
-aliases:
-  - El Salvador
-  - السلفادور
-  - 萨尔瓦多
-  - Сальвадор
-  - the Republic of El Salvador
-  - la República de El Salvador
 location:
   - 13.6667
   - -89.1667
@@ -313,12 +314,12 @@ cssclasses:
   - Country
 publish: true
 title: El Salvador
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 Languages:
   - es-SV
 icon: flag-sv

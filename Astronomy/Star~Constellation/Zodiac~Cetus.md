@@ -1,35 +1,36 @@
 ---
+aliases:
+  - Cetus
+  - Walfisch
+  - Zodiac~Cetus
+has_id_wikidata: Q8839
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-aliases:
-  - Cetus
-  - Walfisch
-has_id_wikidata: Q8839
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Q22341360,22341360]]"
-  - "[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]"
-  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
-named_after: "[[_Standards/WikiData/WD~Cetus,3269950]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Q22341360,22341360]]'
+  - '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]'
+  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+named_after: '[[_Standards/WikiData/WD~Cetus,3269950]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q10729140,10729140]]"
-  - "[[_Standards/WikiData/WD~Template_Stars_of_Cetus,11103042]]"
+  - '[[_Standards/WikiData/WD~Q10729140,10729140]]'
+  - '[[_Standards/WikiData/WD~Template_Stars_of_Cetus,11103042]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Pisces,8679]]"
-  - "[[_Standards/WikiData/WD~Fornax,8913]]"
-  - "[[_Standards/WikiData/WD~Sculptor,9286]]"
-  - "[[_Standards/WikiData/WD~Eridanus,10433]]"
-  - "[[_Standards/WikiData/WD~Taurus,10570]]"
-  - "[[_Standards/WikiData/WD~Aquarius,10576]]"
-  - "[[_Standards/WikiData/WD~Aries,10584]]"
-instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+  - '[[_Standards/WikiData/WD~Pisces,8679]]'
+  - '[[_Standards/WikiData/WD~Fornax,8913]]'
+  - '[[_Standards/WikiData/WD~Sculptor,9286]]'
+  - '[[_Standards/WikiData/WD~Eridanus,10433]]'
+  - '[[_Standards/WikiData/WD~Taurus,10570]]'
+  - '[[_Standards/WikiData/WD~Aquarius,10576]]'
+  - '[[_Standards/WikiData/WD~Aries,10584]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
 area: 1231
 name:
   - Walfisch

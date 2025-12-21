@@ -4,49 +4,50 @@ aliases:
   - Shard of Glass
   - Shard London Bridge
   - London Bridge Tower
+  - Shard,London
 has_id_wikidata: Q18536
 officially_opened_by:
-  - "[[_Standards/WikiData/WD~Prince_Andrew,_Duke_of_York,153330]]"
-  - "[[_Standards/WikiData/WD~Hamad_bin_Jassim_bin_Jaber_Al_Thani,57734]]"
+  - '[[_Standards/WikiData/WD~Prince_Andrew,_Duke_of_York,153330]]'
+  - '[[_Standards/WikiData/WD~Hamad_bin_Jassim_bin_Jaber_Al_Thani,57734]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~composite_material,181790]]"
-  - "[[_Standards/WikiData/WD~steel,11427]]"
-  - "[[_Standards/WikiData/WD~glass,11469]]"
-  - "[[_Standards/WikiData/WD~concrete,22657]]"
+  - '[[_Standards/WikiData/WD~composite_material,181790]]'
+  - '[[_Standards/WikiData/WD~steel,11427]]'
+  - '[[_Standards/WikiData/WD~glass,11469]]'
+  - '[[_Standards/WikiData/WD~concrete,22657]]'
 has_use:
-  - "[[_Standards/WikiData/WD~office,182060]]"
-  - "[[_Standards/WikiData/WD~hotel,27686]]"
-architect: "[[_Standards/WikiData/WD~Renzo_Piano,190148]]"
+  - '[[_Standards/WikiData/WD~office,182060]]'
+  - '[[_Standards/WikiData/WD~hotel,27686]]'
+architect: '[[_Standards/WikiData/WD~Renzo_Piano,190148]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~construction,385378]]"
-  - "[[_Standards/WikiData/WD~start_of_construction,27136782]]"
-adjacent_building: "[[_Standards/WikiData/WD~London_Bridge_station,801125]]"
+  - '[[_Standards/WikiData/WD~construction,385378]]'
+  - '[[_Standards/WikiData/WD~start_of_construction,27136782]]'
+adjacent_building: '[[_Standards/WikiData/WD~London_Bridge_station,801125]]'
 occupant:
-  - "[[_Standards/WikiData/WD~Shangri_La_Hotels_and_Resorts,837244]]"
-  - "[[_Standards/WikiData/WD~Al_Jazeera_English,4296040]]"
-  - "[[_Standards/WikiData/WD~Duff_&_Phelps,5312314]]"
-  - "[[_Standards/WikiData/WD~Warwick_Business_School,6122154]]"
-  - "[[_Standards/WikiData/WD~The_Office_Group,21178777]]"
-  - "[[_Standards/WikiData/WD~Gallup,65358]]"
+  - '[[_Standards/WikiData/WD~Shangri_La_Hotels_and_Resorts,837244]]'
+  - '[[_Standards/WikiData/WD~Al_Jazeera_English,4296040]]'
+  - '[[_Standards/WikiData/WD~Duff_&_Phelps,5312314]]'
+  - '[[_Standards/WikiData/WD~Warwick_Business_School,6122154]]'
+  - '[[_Standards/WikiData/WD~The_Office_Group,21178777]]'
+  - '[[_Standards/WikiData/WD~Gallup,65358]]'
 architectural_style:
-  - "[[_Standards/WikiData/WD~high_tech_architecture,845318]]"
-  - "[[_Standards/WikiData/WD~neo_futurism,17012219]]"
+  - '[[_Standards/WikiData/WD~high_tech_architecture,845318]]'
+  - '[[_Standards/WikiData/WD~neo_futurism,17012219]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~office_building,1021645]]"
-  - "[[_Standards/WikiData/WD~skyscraper,11303]]"
-structural_engineer: "[[_Standards/WikiData/WD~WSP_Global,1333162]]"
-named_after: "[[_Standards/WikiData/WD~shard,1463658]]"
-shape: "[[_Standards/WikiData/WD~pyramid,3358290]]"
+  - '[[_Standards/WikiData/WD~office_building,1021645]]'
+  - '[[_Standards/WikiData/WD~skyscraper,11303]]'
+structural_engineer: '[[_Standards/WikiData/WD~WSP_Global,1333162]]'
+named_after: '[[_Standards/WikiData/WD~shard,1463658]]'
+shape: '[[_Standards/WikiData/WD~pyramid,3358290]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Southwark,5273898]]"
-  - "[[_Standards/WikiData/WD~London,84]]"
-main_building_contractor: "[[_Standards/WikiData/WD~Mace,5284447]]"
-commissioned_by: "[[_Standards/WikiData/WD~Mace,5284447]]"
-owned_by: "[[_Standards/WikiData/WD~Sellar_Property_Group,7448605]]"
-state_of_use: "[[_Standards/WikiData/WD~in_use,55654238]]"
-located_on_street: "[[_Standards/WikiData/WD~London_Bridge_Street,64620779]]"
-historic_county: "[[_Standards/WikiData/WD~Surrey,67443130]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~Southwark,5273898]]'
+  - '[[_Standards/WikiData/WD~London,84]]'
+main_building_contractor: '[[_Standards/WikiData/WD~Mace,5284447]]'
+commissioned_by: '[[_Standards/WikiData/WD~Mace,5284447]]'
+owned_by: '[[_Standards/WikiData/WD~Sellar_Property_Group,7448605]]'
+state_of_use: '[[_Standards/WikiData/WD~in_use,55654238]]'
+located_on_street: '[[_Standards/WikiData/WD~London_Bridge_Street,64620779]]'
+historic_county: '[[_Standards/WikiData/WD~Surrey,67443130]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 capital_cost: 1200000000
 number_of_elevators: 36
 area: 127000
@@ -59,7 +60,7 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Shard%20-%20
 image_of_construction: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Shard%20From%20Southwark%20Street.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Shard%20from%20the%20Sky%20Garden%202015.jpg
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Shard%20on%20Opening%20Night.jpg
-P8189: "987007394673605171"
+P8189: 987007394673605171
 Commons_category: The Shard
 Instagram_username: theshardlondon
 Facebook_username: TheShardLondon

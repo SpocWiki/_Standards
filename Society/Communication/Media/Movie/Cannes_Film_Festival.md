@@ -1,35 +1,36 @@
 ---
 aliases:
   - Cannes Film Festival
+  - Cannes_Film_Festival
 has_id_wikidata: Q42369
-archives_at: "[[_Standards/WikiData/WD~Cinémathèque_Française,174274]]"
+archives_at: '[[_Standards/WikiData/WD~Cinémathèque_Française,174274]]'
 has_part_s_:
   - "[[_Standards/WikiData/WD~Critics'_Week,374895]]"
-  - "[[_Standards/WikiData/WD~Cinéfondation,657195]]"
+  - '[[_Standards/WikiData/WD~Cinéfondation,657195]]'
   - "[[_Standards/WikiData/WD~Directors'_Fortnight,838403]]"
-  - "[[_Standards/WikiData/WD~Un_Certain_Regard,1071326]]"
-  - "[[_Standards/WikiData/WD~Cannes_Classics,2936410]]"
-  - "[[_Standards/WikiData/WD~Cinéma_de_la_Plage,111979696]]"
-founded_by: "[[_Standards/WikiData/WD~Jean_Zay,713487]]"
+  - '[[_Standards/WikiData/WD~Un_Certain_Regard,1071326]]'
+  - '[[_Standards/WikiData/WD~Cannes_Classics,2936410]]'
+  - '[[_Standards/WikiData/WD~Cinéma_de_la_Plage,111979696]]'
+founded_by: '[[_Standards/WikiData/WD~Jean_Zay,713487]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~event,1656682]]"
-  - "[[_Standards/WikiData/WD~annual_film_festival,123980018]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
+  - '[[_Standards/WikiData/WD~event,1656682]]'
+  - '[[_Standards/WikiData/WD~annual_film_festival,123980018]]'
+  - '[[_Standards/WikiData/WD~organization,43229]]'
 uses:
-  - "[[_Standards/WikiData/WD~Palais_des_Festivals_et_des_Congrès,1885327]]"
-  - "[[_Standards/WikiData/WD~Municipal_Casino_of_Cannes,28952558]]"
-  - "[[_Standards/WikiData/WD~Palais_des_Festivals,69885169]]"
-chairperson: "[[_Standards/WikiData/WD~Iris_Knobloch,111351141]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Q119981197,119981197]]"
+  - '[[_Standards/WikiData/WD~Palais_des_Festivals_et_des_Congrès,1885327]]'
+  - '[[_Standards/WikiData/WD~Municipal_Casino_of_Cannes,28952558]]'
+  - '[[_Standards/WikiData/WD~Palais_des_Festivals,69885169]]'
+chairperson: '[[_Standards/WikiData/WD~Iris_Knobloch,111351141]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q119981197,119981197]]'
 coordinate_location: Point(7.018055555 43.550833333)
-month_of_the_year: "[[_Standards/WikiData/WD~May,119]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
+month_of_the_year: '[[_Standards/WikiData/WD~May,119]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
 event_interval: 1
 social_media_followers:
   - 192000
   - 523027
-locations: "[[_Standards/WikiData/WD~Cannes,39984]]"
-Private_Enterprise_Number: "61495"
+locations: '[[_Standards/WikiData/WD~Cannes,39984]]'
+Private_Enterprise_Number: 61495
 official_website: https://www.festival-cannes.com
 Commons_gallery: Cannes Film Festival
 Commons_category: Cannes Film Festival
@@ -38,8 +39,8 @@ inception: 1946-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/70%20eme%20Festival%20du%20film%20Cannes.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Palme%20d%27Or%20gold%20silhouette.svg
 short_name: Cannes
-RIA_Novosti_reference: "48245566"
-P8189: "987007519053705171"
+RIA_Novosti_reference: 48245566
+P8189: 987007519053705171
 X_Twitter_username: Festival_Cannes
 TikTok_username: festivaldecannes
 Facebook_username: festivaldecannes

@@ -1,17 +1,19 @@
 ---
 aliases:
   - Environmental art
+  - Environmental_Art
+  - Environmental Art
 has_id_wikidata: Q473743
 different_from:
-  - "[[_Standards/WikiData/WD~installation_art,212431]]"
-  - "[[_Standards/WikiData/WD~environmental_artwork,21042249]]"
+  - '[[_Standards/WikiData/WD~installation_art,212431]]'
+  - '[[_Standards/WikiData/WD~environmental_artwork,21042249]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~art_genre,1792379]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~environmental_artwork,21042249]]"
-practiced_by: "[[_Standards/WikiData/WD~environmental_artist,69320328]]"
-subclass_of: "[[_Standards/WikiData/WD~visual_arts,36649]]"
-Nomenclature_for_Museum_Cataloging: "15118"
+  - '[[_Standards/WikiData/WD~art_movement,968159]]'
+  - '[[_Standards/WikiData/WD~art_genre,1792379]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~environmental_artwork,21042249]]'
+practiced_by: '[[_Standards/WikiData/WD~environmental_artist,69320328]]'
+subclass_of: '[[_Standards/WikiData/WD~visual_arts,36649]]'
+Nomenclature_for_Museum_Cataloging: 15118
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1584%20Engraving%20of%20arborsarchitecture%20arborsculpture%20dwellings%2C%20by%20Hans%20Bol-Chateau%20et%20jardin%20par%20ohan%20Sadeler.jpg
 Commons_category: Environmental art
 ---

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ToyStore
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ToyStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ToyStore
-- is_a_/ToyStore
-- schema-org/ToyStore
+  - class/ToyStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ToyStore
+  - is_a_/ToyStore
+  - schema-org/ToyStore
 tags:
-- class/FileClass
-- class/ToyStore
-- is_a_/ToyStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ToyStore
+  - class/FileClass
+  - class/ToyStore
+  - is_a_/ToyStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ToyStore
 version: 2.0
 ---
 

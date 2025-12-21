@@ -3,37 +3,38 @@ aliases:
   - George_Westinghouse
   - George Westinghouse Jr.
   - Westinghouse
+  - Westinghouse,George
 has_id_wikidata: Q262367
 occupation:
-  - "[[_Standards/WikiData/WD~entrepreneur,131524]]"
-  - "[[_Standards/WikiData/WD~inventor,205375]]"
-place_of_burial: "[[_Standards/WikiData/WD~Arlington_National_Cemetery,216344]]"
+  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+  - '[[_Standards/WikiData/WD~inventor,205375]]'
+place_of_burial: '[[_Standards/WikiData/WD~Arlington_National_Cemetery,216344]]'
 award_received:
-  - "[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]"
-  - "[[_Standards/WikiData/WD~John_Fritz_Medal,6234290]]"
-  - "[[_Standards/WikiData/WD~Grashof_Commemorative_Medal,106110409]]"
-educated_at: "[[_Standards/WikiData/WD~Union_College,1567748]]"
-residence: "[[_Standards/WikiData/WD~George_Westinghouse,_Jr.,_Birthplace_and_Boyhood_Home,5546178]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-place_of_birth: "[[_Standards/WikiData/WD~Central_Bridge,12156499]]"
-given_name: "[[_Standards/WikiData/WD~George,15921732]]"
+  - '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
+  - '[[_Standards/WikiData/WD~John_Fritz_Medal,6234290]]'
+  - '[[_Standards/WikiData/WD~Grashof_Commemorative_Medal,106110409]]'
+educated_at: '[[_Standards/WikiData/WD~Union_College,1567748]]'
+residence: '[[_Standards/WikiData/WD~George_Westinghouse,_Jr.,_Birthplace_and_Boyhood_Home,5546178]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+place_of_birth: '[[_Standards/WikiData/WD~Central_Bridge,12156499]]'
+given_name: '[[_Standards/WikiData/WD~George,15921732]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-child: "[[_Standards/WikiData/WD~George_Westinghouse_III,75499256]]"
-family_name: "[[_Standards/WikiData/WD~Westinghouse,110089588]]"
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+child: '[[_Standards/WikiData/WD~George_Westinghouse_III,75499256]]'
+family_name: '[[_Standards/WikiData/WD~Westinghouse,110089588]]'
 date_of_birth: 1846-10-06T00:00:00Z
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_death: "[[_Standards/WikiData/WD~New_York_City,60]]"
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_death: '[[_Standards/WikiData/WD~New_York_City,60]]'
 Commons_Creator_page: George Westinghouse
 Commons_category: George Westinghouse
 image: http://commons.wikimedia.org/wiki/Special:FilePath/George%20Westinghouse.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/George%20Westinghouse%20signature.svg
-ISNI: "0000000066788479"
+ISNI: 0000000066788479
 Krugosvet_article: nauka_i_tehnika/transport_i_svyaz/VESTINGAUZ_DZHORDZH.html
 name_in_native_language: George Westinghouse
 date_of_death: 1914-03-12T00:00:00Z

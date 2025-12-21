@@ -1,16 +1,17 @@
 ---
 aliases:
   - Quarzit
+  - Quartzite
 has_id_wikidata: Q237883
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Mala_hirnycha_encyclopædia,1270052]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-award_received: "[[_Standards/WikiData/WD~Rock_of_the_Year,1519491]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Mala_hirnycha_encyclopædia,1270052]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+award_received: '[[_Standards/WikiData/WD~Rock_of_the_Year,1519491]]'
 Mohs_hardness: 7
-made_from_material: "[[_Standards/WikiData/WD~quartz,43010]]"
-subclass_of: "[[_Standards/WikiData/WD~metamorphic_rock,47069]]"
+made_from_material: '[[_Standards/WikiData/WD~quartz,43010]]'
+subclass_of: '[[_Standards/WikiData/WD~metamorphic_rock,47069]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Quartzite%202%20jpg.jpg
 EAGLE_id: material/lod/51
 Commons_category: Quartzite

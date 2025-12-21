@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ChildrensEvent
+excludes: ''
 extends: FileClass~Thing/FileClass~Event
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ChildrensEvent
-- class/Thing/Event/ChildrensEvent
-- is_a_/ChildrensEvent
-- schema-org/ChildrensEvent
+  - class/ChildrensEvent
+  - class/Thing/Event/ChildrensEvent
+  - is_a_/ChildrensEvent
+  - schema-org/ChildrensEvent
 tags:
-- class/FileClass
-- class/ChildrensEvent
-- is_a_/ChildrensEvent
-- class/Thing/Event/ChildrensEvent
+  - class/FileClass
+  - class/ChildrensEvent
+  - is_a_/ChildrensEvent
+  - class/Thing/Event/ChildrensEvent
 version: 2.0
 ---
 

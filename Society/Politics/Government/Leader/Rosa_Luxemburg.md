@@ -1,82 +1,83 @@
 ---
 aliases:
   - Rosa_Luxemburg
+  - Rosa Luxemburg
 has_id_wikidata: Q7231
 professional_partner:
-  - "[[_Standards/WikiData/WD~Karl_Liebknecht,75886]]"
-  - "[[_Standards/WikiData/WD~Leo_Jogiches,123802]]"
-  - "[[_Standards/WikiData/WD~Julian_Marchlewski,695722]]"
+  - '[[_Standards/WikiData/WD~Karl_Liebknecht,75886]]'
+  - '[[_Standards/WikiData/WD~Leo_Jogiches,123802]]'
+  - '[[_Standards/WikiData/WD~Julian_Marchlewski,695722]]'
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~economist,188094]]"
-  - "[[_Standards/WikiData/WD~docent,462390]]"
-  - "[[_Standards/WikiData/WD~editing_staff,876864]]"
-  - "[[_Standards/WikiData/WD~political_economist,1227195]]"
-  - "[[_Standards/WikiData/WD~editor,1607826]]"
-  - "[[_Standards/WikiData/WD~journalist,1930187]]"
-  - "[[_Standards/WikiData/WD~botanical_collector,2083925]]"
-  - "[[_Standards/WikiData/WD~revolutionary,3242115]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~opinion_journalist,6051619]]"
-  - "[[_Standards/WikiData/WD~political_theorist,15994177]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Leo_Jogiches,123802]]"
-place_of_birth: "[[_Standards/WikiData/WD~Zamość,145972]]"
-manner_of_death: "[[_Standards/WikiData/WD~homicide,149086]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~economist,188094]]'
+  - '[[_Standards/WikiData/WD~docent,462390]]'
+  - '[[_Standards/WikiData/WD~editing_staff,876864]]'
+  - '[[_Standards/WikiData/WD~political_economist,1227195]]'
+  - '[[_Standards/WikiData/WD~editor,1607826]]'
+  - '[[_Standards/WikiData/WD~journalist,1930187]]'
+  - '[[_Standards/WikiData/WD~botanical_collector,2083925]]'
+  - '[[_Standards/WikiData/WD~revolutionary,3242115]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
+  - '[[_Standards/WikiData/WD~political_theorist,15994177]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Leo_Jogiches,123802]]'
+place_of_birth: '[[_Standards/WikiData/WD~Zamość,145972]]'
+manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
 member_of_political_party:
-  - "[[_Standards/WikiData/WD~Communist_Party_of_Germany,153401]]"
-  - "[[_Standards/WikiData/WD~Spartacus_League,156607]]"
-  - "[[_Standards/WikiData/WD~Independent_Social_Democratic_Party_of_Germany,310296]]"
-  - "[[_Standards/WikiData/WD~Social_Democracy_of_the_Kingdom_of_Poland_and_Lithuania,967759]]"
-  - "[[_Standards/WikiData/WD~Social_Democratic_Party_of_Germany,49768]]"
+  - '[[_Standards/WikiData/WD~Communist_Party_of_Germany,153401]]'
+  - '[[_Standards/WikiData/WD~Spartacus_League,156607]]'
+  - '[[_Standards/WikiData/WD~Independent_Social_Democratic_Party_of_Germany,310296]]'
+  - '[[_Standards/WikiData/WD~Social_Democracy_of_the_Kingdom_of_Poland_and_Lithuania,967759]]'
+  - '[[_Standards/WikiData/WD~Social_Democratic_Party_of_Germany,49768]]'
 affiliation:
-  - "[[_Standards/WikiData/WD~Spartacus_League,156607]]"
-  - "[[_Standards/WikiData/WD~Social_Democratic_Party_of_the_Kingdom_of_Poland_and_Lithuania,88658926]]"
-  - "[[_Standards/WikiData/WD~Sozialdemokratie,88658929]]"
-educated_at: "[[_Standards/WikiData/WD~University_of_Zurich,206702]]"
-political_ideology: "[[_Standards/WikiData/WD~Luxemburgism,334689]]"
-depicted_by: "[[_Standards/WikiData/WD~Rosa_Luxemburg,539262]]"
+  - '[[_Standards/WikiData/WD~Spartacus_League,156607]]'
+  - '[[_Standards/WikiData/WD~Social_Democratic_Party_of_the_Kingdom_of_Poland_and_Lithuania,88658926]]'
+  - '[[_Standards/WikiData/WD~Sozialdemokratie,88658929]]'
+educated_at: '[[_Standards/WikiData/WD~University_of_Zurich,206702]]'
+political_ideology: '[[_Standards/WikiData/WD~Luxemburgism,334689]]'
+depicted_by: '[[_Standards/WikiData/WD~Rosa_Luxemburg,539262]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Julian_Marchlewski,695722]]"
-  - "[[_Standards/WikiData/WD~Gustav_Lübeck,28836791]]"
+  - '[[_Standards/WikiData/WD~Julian_Marchlewski,695722]]'
+  - '[[_Standards/WikiData/WD~Gustav_Lübeck,28836791]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Polish_Biographical_Dictionary,1485141]]"
-  - "[[_Standards/WikiData/WD~Hamburg_Biographies,1573212]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Frankfurter_Personenlexikon,39845173]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Internationales_Handwörterbuch_des_Gewerkschaftswesens,106881271]]"
-  - "[[_Standards/WikiData/WD~A_Biographical_Dictionary_of_Women_Economists,108639285]]"
-  - "[[_Standards/WikiData/WD~Women_Writers_of_Germany,_Austria,_and_Switzerland,110993806]]"
-  - "[[_Standards/WikiData/WD~Wegbereiterinnen,124097894]]"
-given_name: "[[_Standards/WikiData/WD~Rosa,1640276]]"
-cause_of_death: "[[_Standards/WikiData/WD~gunshot_wound,2140674]]"
+  - '[[_Standards/WikiData/WD~Polish_Biographical_Dictionary,1485141]]'
+  - '[[_Standards/WikiData/WD~Hamburg_Biographies,1573212]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Frankfurter_Personenlexikon,39845173]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Internationales_Handwörterbuch_des_Gewerkschaftswesens,106881271]]'
+  - '[[_Standards/WikiData/WD~A_Biographical_Dictionary_of_Women_Economists,108639285]]'
+  - '[[_Standards/WikiData/WD~Women_Writers_of_Germany,_Austria,_and_Switzerland,110993806]]'
+  - '[[_Standards/WikiData/WD~Wegbereiterinnen,124097894]]'
+given_name: '[[_Standards/WikiData/WD~Rosa,1640276]]'
+cause_of_death: '[[_Standards/WikiData/WD~gunshot_wound,2140674]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~The_Accumulation_of_Capital,3201427]]"
-  - "[[_Standards/WikiData/WD~Social_Reform_or_Revolution,26877677]]"
-student_of: "[[_Standards/WikiData/WD~Julius_Wolf,4124777]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-archives_at: "[[_Standards/WikiData/WD~Archiwum_Akt_Nowych_w_Warszawie,9159187]]"
-academic_degree: "[[_Standards/WikiData/WD~Doktor_Nauk_in_Political_Science,12101787]]"
-family_name: "[[_Standards/WikiData/WD~Luxemburg,65562067]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+  - '[[_Standards/WikiData/WD~The_Accumulation_of_Capital,3201427]]'
+  - '[[_Standards/WikiData/WD~Social_Reform_or_Revolution,26877677]]'
+student_of: '[[_Standards/WikiData/WD~Julius_Wolf,4124777]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+archives_at: '[[_Standards/WikiData/WD~Archiwum_Akt_Nowych_w_Warszawie,9159187]]'
+academic_degree: '[[_Standards/WikiData/WD~Doktor_Nauk_in_Political_Science,12101787]]'
+family_name: '[[_Standards/WikiData/WD~Luxemburg,65562067]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_birth: 1871-03-05T00:00:00Z
 work_location:
-  - "[[_Standards/WikiData/WD~Warsaw,270]]"
-  - "[[_Standards/WikiData/WD~Berlin,64]]"
-  - "[[_Standards/WikiData/WD~Zurich,72]]"
+  - '[[_Standards/WikiData/WD~Warsaw,270]]'
+  - '[[_Standards/WikiData/WD~Berlin,64]]'
+  - '[[_Standards/WikiData/WD~Zurich,72]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Polish,809]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~Berlin,64]]"
+  - '[[_Standards/WikiData/WD~Polish,809]]'
+  - '[[_Standards/WikiData/WD~German,188]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~Berlin,64]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
-writing_language: "[[_Standards/WikiData/WD~German,188]]"
+  - '[[_Standards/WikiData/WD~Germany,183]]'
+  - '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+writing_language: '[[_Standards/WikiData/WD~German,188]]'
 Libris_URI: 53hkfdpp1hw3zxq
 Wolfram_Language_entity_code: Entity["Person", "RosaLuxemburg::zpmv7"]
 pseudonym: R. Kruszynska
@@ -96,8 +97,8 @@ pronunciation_audio:
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grabst%C3%A4tte-R.Luxemburg.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Luxemburg%20signature.svg
 ISNI:
-  - "0000000083820354"
-  - "0000000368516866"
+  - 0000000083820354
+  - 0000000368516866
 ---
 
 # [[Rosa_Luxemburg]] 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Newspaper
+has_id_wikidata: Q11032
 Commons_category: Newspapers
 Commons_gallery: Newspapers
 confidential: private
@@ -31,10 +32,9 @@ exact_match: http://purl.org/coar/resource_type/c_2fe3
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
+expiryDate: ""
 Gujarati_Vishwakosh_entry: અખબાર
 has_characteristic: "[[_Standards/WikiData/WD~newspaper_genre,106632462]]"
-has_id_wikidata: Q11032
 has_part_s_:
   - "[[_Standards/WikiData/WD~column,267628]]"
   - "[[_Standards/WikiData/WD~editorial,871232]]"
@@ -52,7 +52,7 @@ isReadOnly: false
 keywords: Newspaper
 Krugosvet_article: kultura_i_obrazovanie/literatura/GAZETA.html
 lang: en
-layout:
+layout: ""
 license: (c)copyrighted
 linkTitle: Newspaper
 made_from_material: "[[_Standards/WikiData/WD~paper,11472]]"
@@ -85,7 +85,7 @@ properties_for_this_type:
   - publisher
   - headquarters location
 publish: false
-publishDate:
+publishDate: ""
 small_logo_or_icon:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20Newspaper%20154015.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/OOjs%20UI%20icon%20newspaper-ltr.svg

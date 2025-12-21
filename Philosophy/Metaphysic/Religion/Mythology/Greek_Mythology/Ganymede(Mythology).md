@@ -2,33 +2,34 @@
 aliases:
   - Ganymede
   - Ganymedes
+  - Ganymede(Mythology)
 has_id_wikidata: Q131588
-father: "[[_Standards/WikiData/WD~Tros,599482]]"
+father: '[[_Standards/WikiData/WD~Tros,599482]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Assaracus,739359]]"
-  - "[[_Standards/WikiData/WD~Ilus,1495743]]"
-occupation: "[[_Standards/WikiData/WD~cup_bearer,1075791]]"
-mother: "[[_Standards/WikiData/WD~Callirhoe,1361804]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-instance_of: "[[_Standards/WikiData/WD~mythological_Greek_character,22988604]]"
+  - '[[_Standards/WikiData/WD~Assaracus,739359]]'
+  - '[[_Standards/WikiData/WD~Ilus,1495743]]'
+occupation: '[[_Standards/WikiData/WD~cup_bearer,1075791]]'
+mother: '[[_Standards/WikiData/WD~Callirhoe,1361804]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+instance_of: '[[_Standards/WikiData/WD~mythological_Greek_character,22988604]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Ganymede_with_eagle,126727220]]"
-  - "[[_Standards/WikiData/WD~Ganymede_with_Eagle_and_Eaglet,131557346]]"
-  - "[[_Standards/WikiData/WD~Zeus_and_Ganymede_group,131579686]]"
-  - "[[_Standards/WikiData/WD~Zeus_kisses_Ganymede,131579687]]"
-  - "[[_Standards/WikiData/WD~statue_of_Ganymede_on_the_Eagle,131823332]]"
-  - "[[_Standards/WikiData/WD~Ganymede,131823333]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Troy,22647]]"
-worshipped_by: "[[_Standards/WikiData/WD~Greek_mythology,34726]]"
+  - '[[_Standards/WikiData/WD~Ganymede_with_eagle,126727220]]'
+  - '[[_Standards/WikiData/WD~Ganymede_with_Eagle_and_Eaglet,131557346]]'
+  - '[[_Standards/WikiData/WD~Zeus_and_Ganymede_group,131579686]]'
+  - '[[_Standards/WikiData/WD~Zeus_kisses_Ganymede,131579687]]'
+  - '[[_Standards/WikiData/WD~statue_of_Ganymede_on_the_Eagle,131823332]]'
+  - '[[_Standards/WikiData/WD~Ganymede,131823333]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Troy,22647]]'
+worshipped_by: '[[_Standards/WikiData/WD~Greek_mythology,34726]]'
 Commons_gallery: Ganymede
 Commons_category: Ganymede
 image:

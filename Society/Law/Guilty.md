@@ -1,20 +1,21 @@
 ---
 aliases:
   - schuldig
+  - Guilty
 has_id_wikidata: Q705178
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 different_from:
-  - "[[_Standards/WikiData/WD~guilt,628939]]"
-  - "[[_Standards/WikiData/WD~culpability,1365664]]"
-subclass_of: "[[_Standards/WikiData/WD~responsibility,1274115]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q1315188,1315188]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~culpability,1365664]]"
-instance_of: "[[_Standards/WikiData/WD~plea,15916459]]"
-opposite_of: "[[_Standards/WikiData/WD~innocence,16643592]]"
+  - '[[_Standards/WikiData/WD~guilt,628939]]'
+  - '[[_Standards/WikiData/WD~culpability,1365664]]'
+subclass_of: '[[_Standards/WikiData/WD~responsibility,1274115]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q1315188,1315188]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~culpability,1365664]]'
+instance_of: '[[_Standards/WikiData/WD~plea,15916459]]'
+opposite_of: '[[_Standards/WikiData/WD~innocence,16643592]]'
 Commons_category: Vina
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Singer%20Sargent%2C%20John%20-%20Orestes%20Pursued%20by%20the%20Furies%20-%201921.jpg
 ---

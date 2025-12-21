@@ -2,27 +2,29 @@
 aliases:
   - Conceptual art
   - conceptualism
+  - Conceptual_Art
+  - Conceptual Art
 has_id_wikidata: Q203209
 influenced_by:
-  - "[[_Standards/WikiData/WD~formalism,539750]]"
-  - "[[_Standards/WikiData/WD~found_object,572916]]"
-  - "[[_Standards/WikiData/WD~Marcel_Duchamp,5912]]"
+  - '[[_Standards/WikiData/WD~formalism,539750]]'
+  - '[[_Standards/WikiData/WD~found_object,572916]]'
+  - '[[_Standards/WikiData/WD~Marcel_Duchamp,5912]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~art_genre,1792379]]"
+  - '[[_Standards/WikiData/WD~art_movement,968159]]'
+  - '[[_Standards/WikiData/WD~art_genre,1792379]]'
 different_from:
-  - "[[_Standards/WikiData/WD~concept_art,1123841]]"
-  - "[[_Standards/WikiData/WD~conceptual_artwork,123079143]]"
-practiced_by: "[[_Standards/WikiData/WD~conceptual_artist,21550489]]"
-has_characteristic: "[[_Standards/WikiData/WD~Q23058420,23058420]]"
+  - '[[_Standards/WikiData/WD~concept_art,1123841]]'
+  - '[[_Standards/WikiData/WD~conceptual_artwork,123079143]]'
+practiced_by: '[[_Standards/WikiData/WD~conceptual_artist,21550489]]'
+has_characteristic: '[[_Standards/WikiData/WD~Q23058420,23058420]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Château_de_Montsoreau_Museum_of_Contemporary_Art,36698440]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~conceptual_artwork,123079143]]"
-subclass_of: "[[_Standards/WikiData/WD~art,735]]"
+  - '[[_Standards/WikiData/WD~Château_de_Montsoreau_Museum_of_Contemporary_Art,36698440]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~conceptual_artwork,123079143]]'
+subclass_of: '[[_Standards/WikiData/WD~art,735]]'
 inception: 1960-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Art%20%26%20Language%2C%20Untitled%20Painting%20%281965%29%2C%20Tate%20Modern%2C%20London%20-%2020130627.jpg
-U_S_National_Archives_Identifier: "10637198"
+U_S_National_Archives_Identifier: 10637198
 Commons_category: Conceptual art
 hashtag_: conceptualart
 Krugosvet_article: zhivopis-i-grafika/konceptualizm

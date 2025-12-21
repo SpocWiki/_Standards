@@ -4,21 +4,22 @@ aliases:
   - max-price
   - maxPrice
   - has_value_for_max_price
+  - has value for max price
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - max-price
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_max-price
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

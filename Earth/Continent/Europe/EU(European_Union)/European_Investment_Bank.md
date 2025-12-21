@@ -2,22 +2,23 @@
 aliases:
   - European Investment Bank
   - EIB
+  - European_Investment_Bank
 has_id_wikidata: Q192247
 director_manager:
-  - "[[_Standards/WikiData/WD~Werner_Hoyer,85825]]"
-  - "[[_Standards/WikiData/WD~Nadia_Calviño,20535388]]"
-locations: "[[_Standards/WikiData/WD~Kirchberg,583718]]"
-industry: "[[_Standards/WikiData/WD~economics_of_banking,806718]]"
+  - '[[_Standards/WikiData/WD~Werner_Hoyer,85825]]'
+  - '[[_Standards/WikiData/WD~Nadia_Calviño,20535388]]'
+locations: '[[_Standards/WikiData/WD~Kirchberg,583718]]'
+industry: '[[_Standards/WikiData/WD~economics_of_banking,806718]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~international_financial_institution,1345691]]"
-  - "[[_Standards/WikiData/WD~body_of_the_European_Union,4936585]]"
-architect: "[[_Standards/WikiData/WD~Christoph_Ingenhoven,15457661]]"
-located_on_street: "[[_Standards/WikiData/WD~boulevard_Konrad_Adenauer,30319834]]"
-member_of: "[[_Standards/WikiData/WD~Network_for_Greening_the_Financial_System,104872529]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~President_of_the_European_Investment_Bank,129186963]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Luxembourg,1842]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Luxembourg,1842]]"
-country: "[[_Standards/WikiData/WD~Luxembourg,32]]"
+  - '[[_Standards/WikiData/WD~international_financial_institution,1345691]]'
+  - '[[_Standards/WikiData/WD~body_of_the_European_Union,4936585]]'
+architect: '[[_Standards/WikiData/WD~Christoph_Ingenhoven,15457661]]'
+located_on_street: '[[_Standards/WikiData/WD~boulevard_Konrad_Adenauer,30319834]]'
+member_of: '[[_Standards/WikiData/WD~Network_for_Greening_the_Financial_System,104872529]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~President_of_the_European_Investment_Bank,129186963]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Luxembourg,1842]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Luxembourg,1842]]'
+country: '[[_Standards/WikiData/WD~Luxembourg,32]]'
 social_media_followers:
   - 11000
   - 70014

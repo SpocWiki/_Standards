@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Diamond
+has_id_wikidata: Q5283
 Baidu_Tieba_name: 钻石
 CAS_Registry_Number: 7782-40-3
 chemical_formula: C
@@ -23,7 +26,6 @@ described_by_source:
 different_from: "[[_Standards/WikiData/WD~Diamond,224096]]"
 EC_number: 231-953-2
 Gmelin_number: 15667
-has_id_wikidata: Q5283
 has_part_s_: "[[_Standards/WikiData/WD~carbon,623]]"
 has_use:
   - "[[_Standards/WikiData/WD~gemstone,83437]]"
@@ -62,6 +64,8 @@ UNII: 6GRV67N0U2
 U_S_National_Archives_Identifier: 10647959
 video: http://commons.wikimedia.org/wiki/Special:FilePath/So%20entstehen%20Diamanten%20%28CC%20BY%204.0%29.webm
 ---
+
+# [[Diamond]] 💎 
 
 ## #has_/text_of_/abstract 
 

@@ -4,22 +4,24 @@ aliases:
   - diet_features
   - dietFeatures
   - has_text_of_diet_features
+  - has_diet_features
+  - has diet features
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - diet
   - features
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_diet_features
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

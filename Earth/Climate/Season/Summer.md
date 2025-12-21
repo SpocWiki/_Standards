@@ -4,47 +4,47 @@ aliases:
   - Sommer
 has_id_wikidata: Q1313
 different_from:
-  - "[[_Standards/WikiData/WD~Summer,453350]]"
-  - "[[_Standards/WikiData/WD~Sommer,2380169]]"
+  - '[[_Standards/WikiData/WD~Summer,453350]]'
+  - '[[_Standards/WikiData/WD~Sommer,2380169]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-instance_of: "[[_Standards/WikiData/WD~recurring_event,15275719]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[_Standards/WikiData/WD~recurring_event,15275719]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q45972122,45972122]]"
-  - "[[_Standards/WikiData/WD~Q46000958,46000958]]"
-  - "[[_Standards/WikiData/WD~Q46087106,46087106]]"
-  - "[[_Standards/WikiData/WD~Q110303181,110303181]]"
-  - "[[_Standards/WikiData/WD~Q117430557,117430557]]"
-  - "[[_Standards/WikiData/WD~Q118287362,118287362]]"
-  - "[[_Standards/WikiData/WD~Summer,118287421]]"
+  - '[[_Standards/WikiData/WD~Q45972122,45972122]]'
+  - '[[_Standards/WikiData/WD~Q46000958,46000958]]'
+  - '[[_Standards/WikiData/WD~Q46087106,46087106]]'
+  - '[[_Standards/WikiData/WD~Q110303181,110303181]]'
+  - '[[_Standards/WikiData/WD~Q117430557,117430557]]'
+  - '[[_Standards/WikiData/WD~Q118287362,118287362]]'
+  - '[[_Standards/WikiData/WD~Summer,118287421]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Q118870978,118870978]]"
-  - "[[_Standards/WikiData/WD~Seasons_Room_Summer,131813185]]"
+  - '[[_Standards/WikiData/WD~Q118870978,118870978]]'
+  - '[[_Standards/WikiData/WD~Seasons_Room_Summer,131813185]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~northern_hemisphere_summer_southern_hemisphere_winter,133042853]]"
-  - "[[_Standards/WikiData/WD~southern_hemisphere_summer_northern_hemisphere_winter,133042858]]"
-opposite_of: "[[_Standards/WikiData/WD~winter,1311]]"
-followed_by: "[[_Standards/WikiData/WD~autumn,1314]]"
-follows: "[[_Standards/WikiData/WD~spring,1312]]"
-subclass_of: "[[_Standards/WikiData/WD~season,24384]]"
+  - '[[_Standards/WikiData/WD~northern_hemisphere_summer_southern_hemisphere_winter,133042853]]'
+  - '[[_Standards/WikiData/WD~southern_hemisphere_summer_northern_hemisphere_winter,133042858]]'
+opposite_of: '[[_Standards/WikiData/WD~winter,1311]]'
+followed_by: '[[_Standards/WikiData/WD~autumn,1314]]'
+follows: '[[_Standards/WikiData/WD~spring,1312]]'
+subclass_of: '[[_Standards/WikiData/WD~season,24384]]'
 month_of_the_year:
-  - "[[_Standards/WikiData/WD~January,108]]"
-  - "[[_Standards/WikiData/WD~February,109]]"
-  - "[[_Standards/WikiData/WD~August,122]]"
-  - "[[_Standards/WikiData/WD~June,120]]"
-  - "[[_Standards/WikiData/WD~July,121]]"
-  - "[[_Standards/WikiData/WD~December,126]]"
+  - '[[_Standards/WikiData/WD~January,108]]'
+  - '[[_Standards/WikiData/WD~February,109]]'
+  - '[[_Standards/WikiData/WD~August,122]]'
+  - '[[_Standards/WikiData/WD~June,120]]'
+  - '[[_Standards/WikiData/WD~July,121]]'
+  - '[[_Standards/WikiData/WD~December,126]]'
 event_interval: 1
-OmegaWiki_Defined_Meaning: "5848"
+OmegaWiki_Defined_Meaning: 5848
 hashtag_: summer
 IMDb_keyword: summer
 Commons_gallery: Summer
 Commons_category: Summer
-Dewey_Decimal_Classification: "508.2"
+Dewey_Decimal_Classification: 508.2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Field%20Hamois%20Belgium%20Luc%20Viatour.jpg
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Sommer2.ogg

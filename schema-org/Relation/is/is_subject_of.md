@@ -1,31 +1,32 @@
 ---
 aliases:
-- subject-of
-- subject_of
-- subjectOf
-- is_subject_of
-- "wdt:P921"
-- "schema:subjectOf"
-- "dbo:subject"
+  - subject-of
+  - subject_of
+  - subjectOf
+  - is_subject_of
+  - wdt:P921
+  - schema:subjectOf
+  - dbo:subject
+  - is subject of
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- subject
-- of
-layout: 
-license: "CC BY-SA 4.0"
+  - subject
+  - of
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: is_subject_of
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_subject_of
 type: Predi_Relation
 ---

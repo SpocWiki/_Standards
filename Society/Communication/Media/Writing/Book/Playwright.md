@@ -2,23 +2,24 @@
 aliases:
   - Bühnenschriftsteller
   - Dramatiker
-  - Theaterautor 
+  - Theaterautor
   - Bühnenautor
+  - Playwright
 has_id_wikidata: Q214917
 different_from:
-  - "[[_Standards/WikiData/WD~dramaturge,487596]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~stage_author,1020593]]"
-category_for_eponymous_categories: "[[_Standards/WikiData/WD~Q9579050,9579050]]"
-instance_of: "[[_Standards/WikiData/WD~theatrical_occupation,15839299]]"
-field_of_this_occupation: "[[_Standards/WikiData/WD~playwriting,109567933]]"
+  - '[[_Standards/WikiData/WD~dramaturge,487596]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~stage_author,1020593]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q9579050,9579050]]'
+instance_of: '[[_Standards/WikiData/WD~theatrical_occupation,15839299]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~playwriting,109567933]]'
 model_item:
-  - "[[_Standards/WikiData/WD~William_Shakespeare,692]]"
-  - "[[_Standards/WikiData/WD~Aristophanes,43353]]"
-subclass_of: "[[_Standards/WikiData/WD~writer,36180]]"
-ISCO_88_occupation_class: "2451"
-ROME_Occupation_Code: "11427"
-ISCO_08_occupation_class: "2641"
+  - '[[_Standards/WikiData/WD~William_Shakespeare,692]]'
+  - '[[_Standards/WikiData/WD~Aristophanes,43353]]'
+subclass_of: '[[_Standards/WikiData/WD~writer,36180]]'
+ISCO_88_occupation_class: 2451
+ROME_Occupation_Code: 11427
+ISCO_08_occupation_class: 2641
 male_form_of_label:
   - drammaturgo
   - dramaturge
@@ -60,7 +61,7 @@ female_form_of_label:
   - dramaturgă
   - драматургиња
   - jidramatavan
-OmegaWiki_Defined_Meaning: "719644"
+OmegaWiki_Defined_Meaning: 719644
 Commons_category: Playwrights
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aristophanes%20-%20Project%20Gutenberg%20eText%2012788.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%A8%E0%A4%BE%E0%A4%9F%E0%A4%95%E0%A4%95%E0%A4%BE%E0%A4%B0.wav

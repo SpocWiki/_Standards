@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Thomson SA"
+  - Thomson SA
+  - Thomson_Semiconducteurs
+  - Thomson Semiconducteurs
 ---
 
 Thomson was named after the electrical engineer [Elihu Thomson](https://en.wikipedia.org/wiki/Elihu_Thomson "Elihu Thomson"), 

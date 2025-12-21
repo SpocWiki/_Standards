@@ -2,10 +2,11 @@
 aliases:
   - sheep meat
   - sheepmeat
+  - Mutton
 has_id_wikidata: Q14566073
 subclass_of:
-  - "[[_Standards/WikiData/WD~sheep_meat,123122627]]"
-  - "[[_Standards/WikiData/WD~meat,10990]]"
+  - '[[_Standards/WikiData/WD~sheep_meat,123122627]]'
+  - '[[_Standards/WikiData/WD~meat,10990]]'
 food_energy: 232
 Commons_category: Mutton
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Schafh%C3%A4lfte.jpg

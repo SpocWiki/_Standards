@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~UpdateAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action
 fields:
-- id: yah6BN
-  name: TargetCollection
-  options:
-    dvQueryString: "dv.pages('#class/Thing')"
-  type: MultiFile
-  path: ''
+  - id: yah6BN
+    name: TargetCollection
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/UpdateAction
-- class/Thing/Action/UpdateAction
-- is_an_/UpdateAction
-- schema-org/UpdateAction
+  - class/UpdateAction
+  - class/Thing/Action/UpdateAction
+  - is_an_/UpdateAction
+  - schema-org/UpdateAction
 tags:
-- class/FileClass
-- class/UpdateAction
-- '#is_an_/UpdateAction'
-- class/Thing/Action/UpdateAction
+  - class/FileClass
+  - class/UpdateAction
+  - '#is_an_/UpdateAction'
+  - class/Thing/Action/UpdateAction
 version: 2.0
 ---
 

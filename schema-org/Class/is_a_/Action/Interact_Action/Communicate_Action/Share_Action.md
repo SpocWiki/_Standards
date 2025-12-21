@@ -4,20 +4,22 @@ aliases:
   - share_action
   - ShareAction
   - is_a_share_action
+  - Share_Action
+  - Share Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - share_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_share_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

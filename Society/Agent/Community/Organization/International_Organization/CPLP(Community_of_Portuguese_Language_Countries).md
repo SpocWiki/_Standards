@@ -6,36 +6,38 @@ aliases:
   - Lusophone Commonwealth
   - Lusophone Community
   - Comunidade Lusófona
+  - CPLP(Community_of_Portuguese_Language_Countries)
+  - CPLP(Community of Portuguese Language Countries)
 has_id_wikidata: Q182500
 official_observer_status_in_organisation:
-  - "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
-  - "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
-  - "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
-facet_of: "[[_Standards/WikiData/WD~Portuguese_Empire,200464]]"
-instance_of: "[[_Standards/WikiData/WD~international_organization,484652]]"
+  - '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
+  - '[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]'
+  - '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
+facet_of: '[[_Standards/WikiData/WD~Portuguese_Empire,200464]]'
+instance_of: '[[_Standards/WikiData/WD~international_organization,484652]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Portuguese_speaking_African_countries,1360686]]"
-  - "[[_Standards/WikiData/WD~Timor_Leste,574]]"
-  - "[[_Standards/WikiData/WD~Angola,916]]"
-  - "[[_Standards/WikiData/WD~Equatorial_Guinea,983]]"
-  - "[[_Standards/WikiData/WD~Guinea_Bissau,1007]]"
-  - "[[_Standards/WikiData/WD~Cape_Verde,1011]]"
-  - "[[_Standards/WikiData/WD~Mozambique,1029]]"
-  - "[[_Standards/WikiData/WD~São_Tomé_and_Príncipe,1039]]"
-  - "[[_Standards/WikiData/WD~Portugal,45]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Community_of_Portuguese_Language_Countries,7645892]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Penafiel_Palace,25445164]]"
-interested_in: "[[_Standards/WikiData/WD~Portuguese,5146]]"
-official_language: "[[_Standards/WikiData/WD~Portuguese,5146]]"
+  - '[[_Standards/WikiData/WD~Portuguese_speaking_African_countries,1360686]]'
+  - '[[_Standards/WikiData/WD~Timor_Leste,574]]'
+  - '[[_Standards/WikiData/WD~Angola,916]]'
+  - '[[_Standards/WikiData/WD~Equatorial_Guinea,983]]'
+  - '[[_Standards/WikiData/WD~Guinea_Bissau,1007]]'
+  - '[[_Standards/WikiData/WD~Cape_Verde,1011]]'
+  - '[[_Standards/WikiData/WD~Mozambique,1029]]'
+  - '[[_Standards/WikiData/WD~São_Tomé_and_Príncipe,1039]]'
+  - '[[_Standards/WikiData/WD~Portugal,45]]'
+  - '[[_Standards/WikiData/WD~Brazil,155]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Community_of_Portuguese_Language_Countries,7645892]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Penafiel_Palace,25445164]]'
+interested_in: '[[_Standards/WikiData/WD~Portuguese,5146]]'
+official_language: '[[_Standards/WikiData/WD~Portuguese,5146]]'
 member_count: 9
 social_media_followers: 12400
-chairperson: "[[_Standards/WikiData/WD~Zacarias_da_Costa,58185]]"
+chairperson: '[[_Standards/WikiData/WD~Zacarias_da_Costa,58185]]'
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20CPLP.svg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20CPLP.svg
 official_website: http://www.cplp.org/
 X_Twitter_username: _CPLP
-ISNI: "0000000122283847"
+ISNI: 0000000122283847
 Commons_category: Comunidade dos Países de Língua Portuguesa
 Facebook_username: comunidade.paises.lingua.portuguesa
 Instagram_username: cplp_secretariado.executivo

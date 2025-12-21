@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PetStore
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: dog
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PetStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/PetStore
-- is_a_/PetStore
-- schema-org/PetStore
+  - class/PetStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/PetStore
+  - is_a_/PetStore
+  - schema-org/PetStore
 tags:
-- class/FileClass
-- class/PetStore
-- is_a_/PetStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/PetStore
+  - class/FileClass
+  - class/PetStore
+  - is_a_/PetStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/PetStore
 version: 2.0
 ---
 

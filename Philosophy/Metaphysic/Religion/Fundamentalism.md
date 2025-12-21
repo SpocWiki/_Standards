@@ -1,15 +1,16 @@
 ---
 aliases:
   - Fundamentalismus
+  - Fundamentalism
 has_id_wikidata: Q9149
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~philosophical_concept,33104279]]"
-  - "[[_Standards/WikiData/WD~ideology,7257]]"
-practiced_by: "[[_Standards/WikiData/WD~fundamentalist,131596708]]"
-subclass_of: "[[_Standards/WikiData/WD~world_view,49447]]"
+  - '[[_Standards/WikiData/WD~philosophical_concept,33104279]]'
+  - '[[_Standards/WikiData/WD~ideology,7257]]'
+practiced_by: '[[_Standards/WikiData/WD~fundamentalist,131596708]]'
+subclass_of: '[[_Standards/WikiData/WD~world_view,49447]]'
 ---
 
 # [[Fundamentalism]] 

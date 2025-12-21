@@ -4,22 +4,24 @@ aliases:
   - link_relationship
   - linkRelationship
   - has_text_of_link_relationship
+  - has_link_relationship
+  - has link relationship
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - link
   - relationship
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_link_relationship
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

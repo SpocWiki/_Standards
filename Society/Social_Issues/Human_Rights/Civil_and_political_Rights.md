@@ -2,6 +2,7 @@
 aliases:
   - Civil_and_political_Rights
   - Civil and political rights
+  - Civil and political Rights
 has_id_wikidata: Q191600
 ---
 

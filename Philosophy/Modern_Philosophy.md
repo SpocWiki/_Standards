@@ -1,10 +1,12 @@
 ---
 aliases:
   - Modern philosophy
+  - Modern_Philosophy
+  - Modern Philosophy
 has_id_wikidata: Q860746
-follows: "[[_Standards/WikiData/WD~Renaissance_philosophy,917440]]"
-different_from: "[[_Standards/WikiData/WD~contemporary_philosophy,943303]]"
-subclass_of: "[[_Standards/WikiData/WD~philosophy,5891]]"
+follows: '[[_Standards/WikiData/WD~Renaissance_philosophy,917440]]'
+different_from: '[[_Standards/WikiData/WD~contemporary_philosophy,943303]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
 Library_of_Congress_Classification: B790-B5802
 Commons_category: Philosophy
 Provenio_UUID: af3bd97e-9be8-4c91-ad5e-f5b1826d2335

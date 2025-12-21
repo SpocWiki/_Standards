@@ -1,23 +1,24 @@
 ---
 aliases:
   - Kanone
+  - Cannon
 has_id_wikidata: Q81103
-different_from: "[[_Standards/WikiData/WD~Cannon,236268]]"
+different_from: '[[_Standards/WikiData/WD~Cannon,236268]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-subclass_of: "[[_Standards/WikiData/WD~artillery_gun,1246258]]"
-instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+subclass_of: '[[_Standards/WikiData/WD~artillery_gun,1246258]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
 time_of_discovery_or_invention: 1326-01-01T00:00:00Z
-part_of: "[[_Standards/WikiData/WD~artillery,64418]]"
-Nomenclature_for_Museum_Cataloging: "8070"
-OmegaWiki_Defined_Meaning: "871296"
+part_of: '[[_Standards/WikiData/WD~artillery,64418]]'
+Nomenclature_for_Museum_Cataloging: 8070
+OmegaWiki_Defined_Meaning: 871296
 Commons_gallery: Cannon
 Commons_category: Cannons
 image: http://commons.wikimedia.org/wiki/Special:FilePath/French%20Trench%20Overlook%20Yorktown%20%2816969445747%29.jpg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Troupes%20des%20quatre%20grandes%20puissances%20de%20l%27Europe-Catchpenny%20print-Borms%200225.jpeg
-U_S_National_Archives_Identifier: "10675044"
+U_S_National_Archives_Identifier: 10675044
 Universal_Decimal_Classification: 623.421.2
 OpenStreetMap_tag_or_key: Tag:historic=cannon
 ---

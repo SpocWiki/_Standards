@@ -4,6 +4,7 @@ aliases:
   - Joan Miró i Ferrà
   - Joan Miró
   - Miró
+  - Miró,Joan
 has_id_wikidata: Q152384
 ---
 

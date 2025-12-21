@@ -1,13 +1,15 @@
 ---
 aliases:
-- 
+  - ''
+  - _ContinentTemplate
+  - ' ContinentTemplate'
 confidential: public
 isDeleted: false
 isReadOnly: false
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 publish: true
 tags:
-- geo/Continent
+  - geo/Continent
 type: Continent
 ---
 

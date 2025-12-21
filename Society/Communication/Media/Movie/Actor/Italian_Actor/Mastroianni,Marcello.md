@@ -4,62 +4,63 @@ aliases:
   - Marcello Vincenzo Domenico Mastroianni
   - Marcello Mastroianni
   - Mastroianni
+  - Mastroianni,Marcello
 has_id_wikidata: Q55469
-nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Catherine_Deneuve,106418]]"
-  - "[[_Standards/WikiData/WD~Claudia_Cardinale,107006]]"
-  - "[[_Standards/WikiData/WD~Faye_Dunaway,168721]]"
-  - "[[_Standards/WikiData/WD~Ursula_Andress,211111]]"
-  - "[[_Standards/WikiData/WD~Anouk_Aimée,228607]]"
-  - "[[_Standards/WikiData/WD~Lauren_Hutton,287639]]"
-  - "[[_Standards/WikiData/WD~Anna_Maria_Tatò,2850562]]"
-place_of_birth: "[[_Standards/WikiData/WD~Fontana_Liri,116844]]"
+  - '[[_Standards/WikiData/WD~Catherine_Deneuve,106418]]'
+  - '[[_Standards/WikiData/WD~Claudia_Cardinale,107006]]'
+  - '[[_Standards/WikiData/WD~Faye_Dunaway,168721]]'
+  - '[[_Standards/WikiData/WD~Ursula_Andress,211111]]'
+  - '[[_Standards/WikiData/WD~Anouk_Aimée,228607]]'
+  - '[[_Standards/WikiData/WD~Lauren_Hutton,287639]]'
+  - '[[_Standards/WikiData/WD~Anna_Maria_Tatò,2850562]]'
+place_of_birth: '[[_Standards/WikiData/WD~Fontana_Liri,116844]]'
 award_received:
-  - "[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Actor,128649]]"
-  - "[[_Standards/WikiData/WD~European_Film_Academy_Lifetime_Achievement_Award,514445]]"
-  - "[[_Standards/WikiData/WD~Cannes_Film_Festival_Award_for_Best_Actor,586140]]"
-  - "[[_Standards/WikiData/WD~Silver_Shell_for_Best_Actor,610136]]"
-  - "[[_Standards/WikiData/WD~Volpi_Cup_for_Best_Actor,2089923]]"
-  - "[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]"
-  - "[[_Standards/WikiData/WD~Q3691946,3691946]]"
-  - "[[_Standards/WikiData/WD~Q3772359,3772359]]"
+  - '[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Actor,128649]]'
+  - '[[_Standards/WikiData/WD~European_Film_Academy_Lifetime_Achievement_Award,514445]]'
+  - '[[_Standards/WikiData/WD~Cannes_Film_Festival_Award_for_Best_Actor,586140]]'
+  - '[[_Standards/WikiData/WD~Silver_Shell_for_Best_Actor,610136]]'
+  - '[[_Standards/WikiData/WD~Volpi_Cup_for_Best_Actor,2089923]]'
+  - '[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]'
+  - '[[_Standards/WikiData/WD~Q3691946,3691946]]'
+  - '[[_Standards/WikiData/WD~Q3772359,3772359]]'
   - "[[_Standards/WikiData/WD~Nastro_d'Argento_for_Best_Actor,3870549]]"
   - "[[_Standards/WikiData/WD~Nastro_d'Argento_Special,3870558]]"
-  - "[[_Standards/WikiData/WD~Ubu_Prize,3910696]]"
-  - "[[_Standards/WikiData/WD~David_di_Donatello_Award_for_Lifetime_Achievement,13634272]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]"
+  - '[[_Standards/WikiData/WD~Ubu_Prize,3910696]]'
+  - '[[_Standards/WikiData/WD~David_di_Donatello_Award_for_Lifetime_Achievement,13634272]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
   - "[[_Standards/WikiData/WD~Grolla_d'oro_for_Best_Leading_Actor,21236942]]"
   - "[[_Standards/WikiData/WD~Ciak_d'oro_Best_Lead_Actor,97183951]]"
-sibling: "[[_Standards/WikiData/WD~Ruggero_Mastroianni,166318]]"
+sibling: '[[_Standards/WikiData/WD~Ruggero_Mastroianni,166318]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-educated_at: "[[_Standards/WikiData/WD~Sapienza_University_of_Rome,209344]]"
-cause_of_death: "[[_Standards/WikiData/WD~pancreatic_cancer,212961]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+  - '[[_Standards/WikiData/WD~Italy,38]]'
+educated_at: '[[_Standards/WikiData/WD~Sapienza_University_of_Rome,209344]]'
+cause_of_death: '[[_Standards/WikiData/WD~pancreatic_cancer,212961]]'
 child:
-  - "[[_Standards/WikiData/WD~Chiara_Mastroianni,283317]]"
-  - "[[_Standards/WikiData/WD~Barbara_Mastroianni,75619301]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-spouse: "[[_Standards/WikiData/WD~Flora_Carabella,3746654]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-relative: "[[_Standards/WikiData/WD~Federica_Mastroianni,10624992]]"
+  - '[[_Standards/WikiData/WD~Chiara_Mastroianni,283317]]'
+  - '[[_Standards/WikiData/WD~Barbara_Mastroianni,75619301]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+spouse: '[[_Standards/WikiData/WD~Flora_Carabella,3746654]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+relative: '[[_Standards/WikiData/WD~Federica_Mastroianni,10624992]]'
 occupation:
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-given_name: "[[_Standards/WikiData/WD~Marcello,17426555]]"
-blood_type: "[[_Standards/WikiData/WD~Q19831453,19831453]]"
-family_name: "[[_Standards/WikiData/WD~Mastroianni,21502002]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-father: "[[_Standards/WikiData/WD~Otteno_Mastroianni,75619302]]"
-filmography: "[[_Standards/WikiData/WD~Q111209044,111209044]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Italian,652]]"
-place_of_burial: "[[_Standards/WikiData/WD~Campo_Verano,27426]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~Paris,90]]"
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+given_name: '[[_Standards/WikiData/WD~Marcello,17426555]]'
+blood_type: '[[_Standards/WikiData/WD~Q19831453,19831453]]'
+family_name: '[[_Standards/WikiData/WD~Mastroianni,21502002]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+father: '[[_Standards/WikiData/WD~Otteno_Mastroianni,75619302]]'
+filmography: '[[_Standards/WikiData/WD~Q111209044,111209044]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Italian,652]]'
+place_of_burial: '[[_Standards/WikiData/WD~Campo_Verano,27426]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~Paris,90]]'
 number_of_children: 2
-significant_person: "[[_Standards/WikiData/WD~Sophia_Loren,43252]]"
+significant_person: '[[_Standards/WikiData/WD~Sophia_Loren,43252]]'
 Commons_category: Marcello Mastroianni
 birth_name: Marcello Vincenzo Domenico Mastrojanni
 date_of_birth: 1924-09-28T00:00:00Z

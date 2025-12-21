@@ -3,89 +3,90 @@ aliases:
   - Jean-Luc_Godard
   - Jean-Luc Godard
   - Godard
+  - Godard,Jean-Luc
 has_id_wikidata: Q53001
-place_of_death: "[[_Standards/WikiData/WD~Rolle,69570]]"
+place_of_death: '[[_Standards/WikiData/WD~Rolle,69570]]'
 manner_of_death:
-  - "[[_Standards/WikiData/WD~euthanasia,100159]]"
-  - "[[_Standards/WikiData/WD~assisted_suicide,689846]]"
+  - '[[_Standards/WikiData/WD~euthanasia,100159]]'
+  - '[[_Standards/WikiData/WD~assisted_suicide,689846]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Anne_Marie_Miéville,124992]]"
-  - "[[_Standards/WikiData/WD~Anna_Karina,232113]]"
-  - "[[_Standards/WikiData/WD~Anne_Wiazemsky,447507]]"
+  - '[[_Standards/WikiData/WD~Anne_Marie_Miéville,124992]]'
+  - '[[_Standards/WikiData/WD~Anna_Karina,232113]]'
+  - '[[_Standards/WikiData/WD~Anne_Wiazemsky,447507]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Golden_Bear,154590]]"
-  - "[[_Standards/WikiData/WD~Jury_Prize,164200]]"
-  - "[[_Standards/WikiData/WD~Golden_Lion,209459]]"
-  - "[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]"
-  - "[[_Standards/WikiData/WD~Theodor_W._Adorno_Award,339163]]"
-  - "[[_Standards/WikiData/WD~European_Film_Academy_Lifetime_Achievement_Award,514445]]"
-  - "[[_Standards/WikiData/WD~Leopard_of_Honour,674146]]"
-  - "[[_Standards/WikiData/WD~Silver_Bear_for_Best_Director,706031]]"
-  - "[[_Standards/WikiData/WD~Silver_Bear,708135]]"
-  - "[[_Standards/WikiData/WD~Honorary_César,727282]]"
-  - "[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]"
-  - "[[_Standards/WikiData/WD~Silver_Bear_for_Outstanding_Artistic_Contribution,1266608]]"
-  - "[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]"
-  - "[[_Standards/WikiData/WD~Sutherland_Trophy,7650000]]"
+  - '[[_Standards/WikiData/WD~Golden_Bear,154590]]'
+  - '[[_Standards/WikiData/WD~Jury_Prize,164200]]'
+  - '[[_Standards/WikiData/WD~Golden_Lion,209459]]'
+  - '[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]'
+  - '[[_Standards/WikiData/WD~Theodor_W._Adorno_Award,339163]]'
+  - '[[_Standards/WikiData/WD~European_Film_Academy_Lifetime_Achievement_Award,514445]]'
+  - '[[_Standards/WikiData/WD~Leopard_of_Honour,674146]]'
+  - '[[_Standards/WikiData/WD~Silver_Bear_for_Best_Director,706031]]'
+  - '[[_Standards/WikiData/WD~Silver_Bear,708135]]'
+  - '[[_Standards/WikiData/WD~Honorary_César,727282]]'
+  - '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
+  - '[[_Standards/WikiData/WD~Silver_Bear_for_Outstanding_Artistic_Contribution,1266608]]'
+  - '[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]'
+  - '[[_Standards/WikiData/WD~Sutherland_Trophy,7650000]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Jury_Prize,164200]]"
-  - "[[_Standards/WikiData/WD~César_Award_for_Best_Film,645595]]"
-  - "[[_Standards/WikiData/WD~National_Society_of_Film_Critics_Award_for_Best_Director,1315008]]"
-  - "[[_Standards/WikiData/WD~European_Film_Award_for_Best_Composer,1377736]]"
-  - "[[_Standards/WikiData/WD~European_Film_Award_for_Best_Screenwriter,1377777]]"
-  - "[[_Standards/WikiData/WD~César_Award_for_Best_Director,24137]]"
+  - '[[_Standards/WikiData/WD~Jury_Prize,164200]]'
+  - '[[_Standards/WikiData/WD~César_Award_for_Best_Film,645595]]'
+  - '[[_Standards/WikiData/WD~National_Society_of_Film_Critics_Award_for_Best_Director,1315008]]'
+  - '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Composer,1377736]]'
+  - '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Screenwriter,1377777]]'
+  - '[[_Standards/WikiData/WD~César_Award_for_Best_Director,24137]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
-  - "[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]"
-  - "[[_Standards/WikiData/WD~National_Museum_of_Modern_Art,1895953]]"
-  - "[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]"
-educated_at: "[[_Standards/WikiData/WD~University_of_Paris,209842]]"
-place_of_birth: "[[_Standards/WikiData/WD~7th_arrondissement_of_Paris,259463]]"
-relative: "[[_Standards/WikiData/WD~Maximilien_Vox,322131]]"
+  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+  - '[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]'
+  - '[[_Standards/WikiData/WD~National_Museum_of_Modern_Art,1895953]]'
+  - '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
+educated_at: '[[_Standards/WikiData/WD~University_of_Paris,209842]]'
+place_of_birth: '[[_Standards/WikiData/WD~7th_arrondissement_of_Paris,259463]]'
+relative: '[[_Standards/WikiData/WD~Maximilien_Vox,322131]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~cinematography,590870]]"
-  - "[[_Standards/WikiData/WD~filmmaking,932586]]"
-  - "[[_Standards/WikiData/WD~film_direction,12765827]]"
-  - "[[_Standards/WikiData/WD~literary_activity,115160290]]"
-  - "[[_Standards/WikiData/WD~film_and_literature,115161033]]"
-  - "[[_Standards/WikiData/WD~film_criticism,4482]]"
-  - "[[_Standards/WikiData/WD~film,11424]]"
-  - "[[_Standards/WikiData/WD~film_theory,28793]]"
+  - '[[_Standards/WikiData/WD~cinematography,590870]]'
+  - '[[_Standards/WikiData/WD~filmmaking,932586]]'
+  - '[[_Standards/WikiData/WD~film_direction,12765827]]'
+  - '[[_Standards/WikiData/WD~literary_activity,115160290]]'
+  - '[[_Standards/WikiData/WD~film_and_literature,115161033]]'
+  - '[[_Standards/WikiData/WD~film_criticism,4482]]'
+  - '[[_Standards/WikiData/WD~film,11424]]'
+  - '[[_Standards/WikiData/WD~film_theory,28793]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Contempt,598109]]"
-  - "[[_Standards/WikiData/WD~Pierrot_le_Fou,938851]]"
-  - "[[_Standards/WikiData/WD~Every_Man_for_Himself,972787]]"
-employer: "[[_Standards/WikiData/WD~Cahiers_du_cinéma,909176]]"
-member_of: "[[_Standards/WikiData/WD~Dziga_Vertov_Group,1054740]]"
+  - '[[_Standards/WikiData/WD~Contempt,598109]]'
+  - '[[_Standards/WikiData/WD~Pierrot_le_Fou,938851]]'
+  - '[[_Standards/WikiData/WD~Every_Man_for_Himself,972787]]'
+employer: '[[_Standards/WikiData/WD~Cahiers_du_cinéma,909176]]'
+member_of: '[[_Standards/WikiData/WD~Dziga_Vertov_Group,1054740]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~UbuWeb,1145552]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-given_name: "[[_Standards/WikiData/WD~Jean_Luc,1685008]]"
-occupation: "[[_Standards/WikiData/WD~film_director,2526255]]"
-filmography: "[[_Standards/WikiData/WD~Jean_Luc_Godard_filmography,4384703]]"
-represented_by: "[[_Standards/WikiData/WD~Electronic_Arts_Intermix,5358214]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Godard,13412809]]"
-family_name: "[[_Standards/WikiData/WD~Godard,24536354]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+  - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+given_name: '[[_Standards/WikiData/WD~Jean_Luc,1685008]]'
+occupation: '[[_Standards/WikiData/WD~film_director,2526255]]'
+filmography: '[[_Standards/WikiData/WD~Jean_Luc_Godard_filmography,4384703]]'
+represented_by: '[[_Standards/WikiData/WD~Electronic_Arts_Intermix,5358214]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Godard,13412809]]'
+family_name: '[[_Standards/WikiData/WD~Godard,24536354]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 copyright_representative:
-  - "[[_Standards/WikiData/WD~reproduction_right_not_represented_by_CISAC_member,71521142]]"
-  - "[[_Standards/WikiData/WD~Jean_Luc_Godard,53001]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-father: "[[_Standards/WikiData/WD~Paul_Godard,97009424]]"
-mother: "[[_Standards/WikiData/WD~Odile_Monod,97009425]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]"
+  - '[[_Standards/WikiData/WD~reproduction_right_not_represented_by_CISAC_member,71521142]]'
+  - '[[_Standards/WikiData/WD~Jean_Luc_Godard,53001]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+father: '[[_Standards/WikiData/WD~Paul_Godard,97009424]]'
+mother: '[[_Standards/WikiData/WD~Odile_Monod,97009425]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Switzerland,39]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-native_language: "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~Switzerland,39]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+native_language: '[[_Standards/WikiData/WD~French,150]]'
 height: 1.7
-NLC_authorities: "044628410"
+NLC_authorities: 044628410
 Europeana_entity: agent/base/147083
 pseudonym: Hans Lucas
 Libris_URI: nl0225g61f80z5x
@@ -100,8 +101,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Luc%20Godard%20at
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Luc%20Godard%20Signature.svg
 described_at_URL: https://www.swissfilms.ch/de/film_search/filmdetails/-/id_person/1821288786D44E7BBF4E304ABB5BB651
 ISNI:
-  - "0000000121471125"
-  - "0000000368646695"
+  - 0000000121471125
+  - 0000000368646695
 ---
 
 # [[Godard,Jean-Luc]] 

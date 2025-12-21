@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Angelina Jolie"
+  - Angelina Jolie
+  - Jolie,Angelina
 ---
 
 #has_/time_/started :: 1975-06-04 

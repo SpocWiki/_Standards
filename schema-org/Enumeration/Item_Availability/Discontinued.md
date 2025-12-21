@@ -9,16 +9,16 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: ItemAvailability
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - discontinued
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_discontinued Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

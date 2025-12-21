@@ -1,25 +1,27 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PerformanceRole
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Role
 fields:
-- id: 5KLo3u
-  name: CharacterName
-  options: {}
-  type: Input
-  path: ''
+  - id: 5KLo3u
+    name: CharacterName
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PerformanceRole
-- class/Thing/Intangible/Role/PerformanceRole
-- is_a_/PerformanceRole
-- schema-org/PerformanceRole
+  - class/PerformanceRole
+  - class/Thing/Intangible/Role/PerformanceRole
+  - is_a_/PerformanceRole
+  - schema-org/PerformanceRole
 tags:
-- class/FileClass
-- class/PerformanceRole
-- is_a_/PerformanceRole
-- class/Thing/Intangible/Role/PerformanceRole
+  - class/FileClass
+  - class/PerformanceRole
+  - is_a_/PerformanceRole
+  - class/Thing/Intangible/Role/PerformanceRole
 version: 2.0
 ---
 

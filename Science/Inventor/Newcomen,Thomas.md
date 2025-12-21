@@ -3,29 +3,30 @@ aliases:
   - Thomas_Newcomen
   - Thomas Newcomen
   - Newcomen
+  - Newcomen,Thomas
 has_id_wikidata: Q193042
-religion_or_worldview: "[[_Standards/WikiData/WD~Baptists,93191]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Baptists,93191]]'
 occupation:
-  - "[[_Standards/WikiData/WD~inventor,205375]]"
-  - "[[_Standards/WikiData/WD~mechanic,327029]]"
-  - "[[_Standards/WikiData/WD~ironmonger,21531924]]"
-place_of_burial: "[[_Standards/WikiData/WD~Bunhill_Fields_Burial_Ground,782140]]"
+  - '[[_Standards/WikiData/WD~inventor,205375]]'
+  - '[[_Standards/WikiData/WD~mechanic,327029]]'
+  - '[[_Standards/WikiData/WD~ironmonger,21531924]]'
+place_of_burial: '[[_Standards/WikiData/WD~Bunhill_Fields_Burial_Ground,782140]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
-place_of_birth: "[[_Standards/WikiData/WD~Dartmouth,1007083]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~The_Henry_Ford,3521242]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-given_name: "[[_Standards/WikiData/WD~Thomas,16428906]]"
-family_name: "[[_Standards/WikiData/WD~Newcomen,21501525]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+place_of_birth: '[[_Standards/WikiData/WD~Dartmouth,1007083]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~The_Henry_Ford,3521242]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~Thomas,16428906]]'
+family_name: '[[_Standards/WikiData/WD~Newcomen,21501525]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_death: 1729-08-05T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~London,84]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~London,84]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 Commons_category: Thomas Newcomen
-ISNI: "0000000043208769"
+ISNI: 0000000043208769
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Maquina%20vapor%20Watt%20ETSIIM.jpg
 date_of_birth: 1664-02-28T00:00:00Z
 ---

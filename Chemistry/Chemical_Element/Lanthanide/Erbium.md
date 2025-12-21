@@ -1,52 +1,54 @@
 ---
+aliases:
+  - Erbium
+has_id_wikidata: Q1849
 atomic_number: 68
-canonical_SMILES: "[Er]"
+canonical_SMILES: '[Er]'
 CAS_Registry_Number: 7440-52-0
 chemical_formula: Er
 Commons_category: Erbium
 Commons_gallery: Erbium
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]'
 DSSTOX_compound_identifier: DTXCID1047659
 EC_number: 231-160-1
 electronegativity: 1
 element_symbol: Er
 Gmelin_number: 16280
-has_id_wikidata: Q1849
 has_use:
-  - "[[_Standards/WikiData/WD~nuclear_poison,221033]]"
-  - "[[_Standards/WikiData/WD~Er_YAG_laser,2585799]]"
-  - "[[_Standards/WikiData/WD~Cryocooler,4241150]]"
-  - "[[_Standards/WikiData/WD~Glass_coloring_and_color_marking,8348044]]"
-  - "[[_Standards/WikiData/WD~alloy,37756]]"
+  - '[[_Standards/WikiData/WD~nuclear_poison,221033]]'
+  - '[[_Standards/WikiData/WD~Er_YAG_laser,2585799]]'
+  - '[[_Standards/WikiData/WD~Cryocooler,4241150]]'
+  - '[[_Standards/WikiData/WD~Glass_coloring_and_color_marking,8348044]]'
+  - '[[_Standards/WikiData/WD~alloy,37756]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Erbium.jpg
 InChI: InChI=1S/Er
 InChIKey: UYAHIZSMUZPPFV-UHFFFAOYSA-N
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
   - 1
   - 0.89
 made_from_material:
-  - "[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]"
-  - "[[_Standards/WikiData/WD~xenotime_mineral_group,3777882]]"
-  - "[[_Standards/WikiData/WD~euxenite_mineral_group,18016084]]"
-  - "[[_Standards/WikiData/WD~monazite_sands,115626544]]"
+  - '[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]'
+  - '[[_Standards/WikiData/WD~xenotime_mineral_group,3777882]]'
+  - '[[_Standards/WikiData/WD~euxenite_mineral_group,18016084]]'
+  - '[[_Standards/WikiData/WD~monazite_sands,115626544]]'
 mass: 167.259
 MeSH_tree_code:
   - D01.268.558.362.437
   - D01.552.550.399.437
-named_after: "[[_Standards/WikiData/WD~Ytterby_mine,631733]]"
+named_after: '[[_Standards/WikiData/WD~Ytterby_mine,631733]]'
 OmegaWiki_Defined_Meaning: 158202
 part_of:
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
-  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
+  - '[[_Standards/WikiData/WD~period_6,239813]]'
+  - '[[_Standards/WikiData/WD~lanthanide,19569]]'
 PubChem_CID: 23980
 SpocWebEntityId: 21964
 time_of_discovery_or_invention: 1843

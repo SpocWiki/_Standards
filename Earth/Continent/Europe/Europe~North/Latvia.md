@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Latvia
+  - Letonia
+  - Lettonie
+  - لاتفيا
+  - 拉脱维亚
+  - Латвия
+  - the Republic of Latvia
+  - la República de Letonia
+has_id_wikidata: Q211
 contains_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Daugavpils,80021]]"
   - "[[_Standards/WikiData/WD~Ventspils,104036]]"
@@ -452,7 +462,6 @@ BHCL_UUID: c08becbc-31e5-48c5-8c76-80899bc99154
 Provenio_UUID: ead4868c-5ad0-4c8c-b2cf-3d8d3e1e055e
 GitHub_topic: latvia
 CIVICUS_Monitor_country_entry: latvia
-has_id_wikidata: Q211
 location:
   - 56.95
   - 24.11
@@ -469,21 +478,12 @@ cssclasses:
   - Country
 publish: true
 title: Latvia
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Latvia
-  - Letonia
-  - Lettonie
-  - لاتفيا
-  - 拉脱维亚
-  - Латвия
-  - the Republic of Latvia
-  - la República de Letonia
+publishDate: ""
+expiryDate: ""
 Languages:
   - lv
   - ru

@@ -1,8 +1,9 @@
 ---
 aliases:
-- McIlroy~Doug
-- "Doug McIlroy"
-- Doug_McIlroy
+  - McIlroy~Doug
+  - Doug McIlroy
+  - Doug_McIlroy
+  - McIlroy,Doug
 ---
 
 > Malcolm Douglas McIlroy (born 1932) 

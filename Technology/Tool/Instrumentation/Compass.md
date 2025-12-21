@@ -1,6 +1,7 @@
 ---
 aliases:
   - Kompass
+  - Compass
 has_id_wikidata: Q34735
 has_use:
   - "[[_Standards/WikiData/WD~navigation,102066]]"
@@ -21,8 +22,8 @@ subclass_of: "[[_Standards/WikiData/WD~navigational_instrument,1780422]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_the_compass,25230946]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q134124772,134124772]]"
 has_part_s_: "[[_Standards/WikiData/WD~arrow,45922]]"
-OmegaWiki_Defined_Meaning: "6287"
-Nomenclature_for_Museum_Cataloging: "10113"
+OmegaWiki_Defined_Meaning: 6287
+Nomenclature_for_Museum_Cataloging: 10113
 Commons_gallery: Compass
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Plastic-compass.jpg
 IMDb_keyword: compass
@@ -30,12 +31,12 @@ Commons_category: Compasses
 Iconclass_notation: 25C21
 Unicode_character: 🧭
 video: http://commons.wikimedia.org/wiki/Special:FilePath/17.%20%D0%95%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%BE%D0%B2%20%D0%B5%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82.ogv
-Dewey_Decimal_Classification: "912.0284"
-P8189: "987007545790205171"
+Dewey_Decimal_Classification: 912.0284
+P8189: 987007545790205200
 Krugosvet_article: geografiya/kompas
 ---
 
-# [[Compass]] 
+# [[Compass]] 🧭 
 
 #is_/same_as :: [[../../../WikiData/WD~Compass,34735|WD~Compass,34735]] 
 

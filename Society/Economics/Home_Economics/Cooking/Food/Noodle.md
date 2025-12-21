@@ -1,6 +1,7 @@
 ---
 aliases:
   - Nudel
+  - Noodle
 has_id_wikidata: Q192874
 has_effect: "[[_Standards/WikiData/WD~gluten_related_disorder,1367782]]"
 instance_of:
@@ -24,10 +25,10 @@ Danbooru_tag: noodles
 hashtag: noodles
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-noedels.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Noodles%202.png
-Amazon_com_browse_node: "6502934011"
+Amazon_com_browse_node: 6502934011
 ---
 
-# [[Noodle]] 
+# [[Noodle]] 🍜 
 
 #is_/same_as :: [[WD~Noodle,192874]] 
 

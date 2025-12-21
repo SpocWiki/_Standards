@@ -3,6 +3,7 @@ aliases:
   - Diogenes the Cynic
   - Diogenes of Sinope
   - Diogenes
+  - Diogenes_of_Sinope
 has_id_wikidata: Q59180
 ---
 

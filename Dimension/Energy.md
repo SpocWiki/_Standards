@@ -1,6 +1,7 @@
 ---
 aliases:
   - Energie
+  - Energy
 has_id_wikidata: Q11379
 IMDb_keyword: energy
 subreddit: energy
@@ -45,9 +46,9 @@ permanent_duplicated_item: "[[_Standards/WikiData/WD~Q117561470,117561470]]"
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mrow data-mjx-texclass="ORD"><mi>𝖬</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>
 part_of: "[[_Standards/WikiData/WD~mass_energy_equivalence,35875]]"
 All_Science_Journal_Classification_Codes:
-  - "2100"
-  - "2101"
-OmegaWiki_Defined_Meaning: "1172"
+  - 2100
+  - 2101
+OmegaWiki_Defined_Meaning: 1172
 Commons_category: Energy
 social_media_followers: 227967
 Colon_Classification: C14
@@ -62,8 +63,8 @@ Stack_Exchange_tag:
 equivalent_class: https://schema.org/Energy
 IEV_number: 113-03-45
 Dewey_Decimal_Classification:
-  - "333.79"
-  - "531.6"
+  - 333.79
+  - 531.6
 ---
 
 # [[Energy]] 

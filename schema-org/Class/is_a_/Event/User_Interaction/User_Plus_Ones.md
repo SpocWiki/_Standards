@@ -4,20 +4,22 @@ aliases:
   - user_plus_ones
   - UserPlusOnes
   - is_a_user_plus_ones
+  - User_Plus_Ones
+  - User Plus Ones
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - user_plus_ones
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_user_plus_ones Class
 publish: true
-publishDate:
+publishDate: ''
 superseded_by: InteractionCounter
 tags:
   - class/Class

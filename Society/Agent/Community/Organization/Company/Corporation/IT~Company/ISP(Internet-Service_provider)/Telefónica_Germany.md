@@ -5,6 +5,7 @@ aliases:
   - Telefónica Deutschland
   - Telefónica O2 Germany
   - Telefónica Germany
+  - Telefónica_Germany
 ---
 
 # [[Telefónica_Germany]] 

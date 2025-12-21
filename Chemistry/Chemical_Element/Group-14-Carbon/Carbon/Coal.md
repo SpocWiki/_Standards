@@ -1,44 +1,45 @@
 ---
 aliases:
   - Kohle
+  - Coal
 has_id_wikidata: Q24489
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/UGOL_ISKOPAEMI.html
 OpenStreetMap_tag_or_key: Tag:resource=coal
 subclass_of:
-  - "[[_Standards/WikiData/WD~sedimentary_rock,82480]]"
-  - "[[_Standards/WikiData/WD~solid_fuel,1408429]]"
+  - '[[_Standards/WikiData/WD~sedimentary_rock,82480]]'
+  - '[[_Standards/WikiData/WD~solid_fuel,1408429]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]"
-studied_by: "[[_Standards/WikiData/WD~economic_geology,853915]]"
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
+studied_by: '[[_Standards/WikiData/WD~economic_geology,853915]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~maceral,1237331]]"
-  - "[[_Standards/WikiData/WD~Q16721862,16721862]]"
-  - "[[_Standards/WikiData/WD~carbon,623]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Coal,14400673]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-different_from: "[[_Standards/WikiData/WD~Carbón,20229633]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~coal,134924737]]"
-color: "[[_Standards/WikiData/WD~black,23445]]"
-has_use: "[[_Standards/WikiData/WD~fuel,42501]]"
-OmegaWiki_Defined_Meaning: "625"
+  - '[[_Standards/WikiData/WD~maceral,1237331]]'
+  - '[[_Standards/WikiData/WD~Q16721862,16721862]]'
+  - '[[_Standards/WikiData/WD~carbon,623]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Coal,14400673]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+different_from: '[[_Standards/WikiData/WD~Carbón,20229633]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~coal,134924737]]'
+color: '[[_Standards/WikiData/WD~black,23445]]'
+has_use: '[[_Standards/WikiData/WD~fuel,42501]]'
+OmegaWiki_Defined_Meaning: 625
 Commons_gallery: Coal
 Commons_category: Coal
 Colon_Classification: F551
-U_S_National_Archives_Identifier: "10637189"
+U_S_National_Archives_Identifier: 10637189
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Coal%20%28Anthracite%29.JPG
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Struktura%20chemiczna%20w%C4%99gla%20kamiennego.svg
 exact_match: http://purl.obolibrary.org/obo/ENVO_02000091
-P8189: "987007284070105171"
+P8189: 987007284070105171
 UMLS_CUI: C0009131
 MeSH_tree_code:
   - D20.345.108

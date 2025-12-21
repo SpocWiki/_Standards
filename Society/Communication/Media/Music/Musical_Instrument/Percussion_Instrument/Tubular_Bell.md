@@ -1,12 +1,14 @@
 ---
 aliases:
   - Glockenspiel
+  - Tubular_Bell
+  - Tubular Bell
 has_id_wikidata: Q178812
-described_by_source: "[[_Standards/WikiData/WD~Grove_Dictionary_of_Music_and_Musicians,1422837]]"
-different_from: "[[_Standards/WikiData/WD~church_bell,3500690]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
-subclass_of: "[[_Standards/WikiData/WD~musical_instrument,34379]]"
-Hornbostel_Sachs_classification: "111.232"
+described_by_source: '[[_Standards/WikiData/WD~Grove_Dictionary_of_Music_and_Musicians,1422837]]'
+different_from: '[[_Standards/WikiData/WD~church_bell,3500690]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+subclass_of: '[[_Standards/WikiData/WD~musical_instrument,34379]]'
+Hornbostel_Sachs_classification: 111.232
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Range%20Tubular%20bells.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tubular-bells.JPG
 Commons_category: Tubular bells

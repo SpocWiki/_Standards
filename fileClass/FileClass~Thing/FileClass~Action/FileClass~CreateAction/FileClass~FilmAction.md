@@ -1,21 +1,23 @@
 ---
-excludes: 
+aliases:
+  - FileClass~FilmAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~CreateAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/FilmAction
-- class/Thing/Action/CreateAction/FilmAction
-- is_a_/FilmAction
-- is_a_/FilmAction
-- schema-org/FilmAction
+  - class/FilmAction
+  - class/Thing/Action/CreateAction/FilmAction
+  - is_a_/FilmAction
+  - is_a_/FilmAction
+  - schema-org/FilmAction
 tags:
-- class/FileClass
-- class/FilmAction
-- is_a_/FilmAction
-- class/Thing/Action/CreateAction/FilmAction
+  - class/FileClass
+  - class/FilmAction
+  - is_a_/FilmAction
+  - class/Thing/Action/CreateAction/FilmAction
 version: 2.0
 ---
 

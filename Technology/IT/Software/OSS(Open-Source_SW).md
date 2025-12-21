@@ -2,25 +2,27 @@
 aliases:
   - Open-source software
   - OSS
+  - OSS(Open-Source_SW)
+  - OSS(Open-Source SW)
 has_id_wikidata: Q1130645
-has_characteristic: "[[_Standards/WikiData/WD~free_license,196294]]"
-opposite_of: "[[_Standards/WikiData/WD~proprietary_software,218616]]"
+has_characteristic: '[[_Standards/WikiData/WD~free_license,196294]]'
+opposite_of: '[[_Standards/WikiData/WD~proprietary_software,218616]]'
 different_from:
-  - "[[_Standards/WikiData/WD~free_and_open_source_software,506883]]"
-  - "[[_Standards/WikiData/WD~OSI_approved_license,1156659]]"
-  - "[[_Standards/WikiData/WD~source_available_software,56273712]]"
-  - "[[_Standards/WikiData/WD~free_software,341]]"
-  - "[[_Standards/WikiData/WD~open_source,39162]]"
+  - '[[_Standards/WikiData/WD~free_and_open_source_software,506883]]'
+  - '[[_Standards/WikiData/WD~OSI_approved_license,1156659]]'
+  - '[[_Standards/WikiData/WD~source_available_software,56273712]]'
+  - '[[_Standards/WikiData/WD~free_software,341]]'
+  - '[[_Standards/WikiData/WD~open_source,39162]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~free_and_open_source_software,506883]]"
-  - "[[_Standards/WikiData/WD~free_software,341]]"
+  - '[[_Standards/WikiData/WD~free_and_open_source_software,506883]]'
+  - '[[_Standards/WikiData/WD~free_software,341]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~open_content,1293664]]"
-  - "[[_Standards/WikiData/WD~freely_redistributable_software,5500964]]"
-  - "[[_Standards/WikiData/WD~source_available_software,56273712]]"
-part_of: "[[_Standards/WikiData/WD~open_knowledge,2251455]]"
-described_by_source: "[[_Standards/WikiData/WD~Open_Science_Thesaurus,108928644]]"
-ACM_Classification_Code_2012_: "10003597"
+  - '[[_Standards/WikiData/WD~open_content,1293664]]'
+  - '[[_Standards/WikiData/WD~freely_redistributable_software,5500964]]'
+  - '[[_Standards/WikiData/WD~source_available_software,56273712]]'
+part_of: '[[_Standards/WikiData/WD~open_knowledge,2251455]]'
+described_by_source: '[[_Standards/WikiData/WD~Open_Science_Thesaurus,108928644]]'
+ACM_Classification_Code_2012_: 10003597
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ImageJScreenshot.png
 Stack_Exchange_site_URL: https://opensource.stackexchange.com
 ComputerLanguage_com_definition: open+source+software

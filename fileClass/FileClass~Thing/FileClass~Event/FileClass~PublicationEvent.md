@@ -1,32 +1,34 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PublicationEvent
+excludes: ''
 extends: FileClass~Thing/FileClass~Event
 fields:
-- id: UdrRtq
-  name: PublishedBy
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: 23NgbX
-  name: PublishedOn
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Service/BroadcastService')"
-  type: MultiFile
-  path: ''
+  - id: UdrRtq
+    name: PublishedBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: 23NgbX
+    name: PublishedOn
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Service/BroadcastService')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PublicationEvent
-- class/Thing/Event/PublicationEvent
-- is_a_/PublicationEvent
-- schema-org/PublicationEvent
+  - class/PublicationEvent
+  - class/Thing/Event/PublicationEvent
+  - is_a_/PublicationEvent
+  - schema-org/PublicationEvent
 tags:
-- class/FileClass
-- class/PublicationEvent
-- is_a_/PublicationEvent
-- class/Thing/Event/PublicationEvent
+  - class/FileClass
+  - class/PublicationEvent
+  - is_a_/PublicationEvent
+  - class/Thing/Event/PublicationEvent
 version: 2.0
 ---
 

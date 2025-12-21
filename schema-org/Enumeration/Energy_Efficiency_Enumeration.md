@@ -4,20 +4,22 @@ aliases:
   - energy_efficiency_enumeration
   - EnergyEfficiencyEnumeration
   - is_an_energy_efficiency_enumeration
+  - Energy_Efficiency_Enumeration
+  - Energy Efficiency Enumeration
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - energy_efficiency_enumeration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_energy_efficiency_enumeration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

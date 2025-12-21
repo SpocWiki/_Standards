@@ -4,21 +4,22 @@ aliases:
   - tour_booking_page
   - tourBookingPage
   - has_url_for_tour_booking_page
+  - has url for tour booking page
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - tour_booking_page
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_tour_booking_page
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

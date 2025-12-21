@@ -5,16 +5,17 @@ aliases:
   - geometric vector
   - spatial vector
   - vectors
+  - Vector
 has_id_wikidata: Q44528
-different_from: "[[_Standards/WikiData/WD~Vektor,1420778]]"
+different_from: '[[_Standards/WikiData/WD~Vektor,1420778]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~direction,3055344]]"
-  - "[[_Standards/WikiData/WD~vector_length,12124094]]"
-  - "[[_Standards/WikiData/WD~unidirectionality,67203587]]"
-subclass_of: "[[_Standards/WikiData/WD~vector,13471665]]"
-instance_of: "[[_Standards/WikiData/WD~geometric_concept,21550639]]"
-part_of: "[[_Standards/WikiData/WD~Euclidean_space,17295]]"
-OmegaWiki_Defined_Meaning: "5165"
+  - '[[_Standards/WikiData/WD~direction,3055344]]'
+  - '[[_Standards/WikiData/WD~vector_length,12124094]]'
+  - '[[_Standards/WikiData/WD~unidirectionality,67203587]]'
+subclass_of: '[[_Standards/WikiData/WD~vector,13471665]]'
+instance_of: '[[_Standards/WikiData/WD~geometric_concept,21550639]]'
+part_of: '[[_Standards/WikiData/WD~Euclidean_space,17295]]'
+OmegaWiki_Defined_Meaning: 5165
 Commons_category: Vectors
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vector%20from%20A%20to%20B.svg
 ---

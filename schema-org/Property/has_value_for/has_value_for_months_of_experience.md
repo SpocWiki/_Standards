@@ -4,21 +4,22 @@ aliases:
   - months-of-experience
   - monthsOfExperience
   - has_value_for_months_of_experience
+  - has value for months of experience
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - months-of-experience
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_months-of-experience
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

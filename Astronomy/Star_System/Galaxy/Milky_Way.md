@@ -1,6 +1,7 @@
 ---
 aliases:
   - Milky Way
+  - Milky_Way
 has_id_wikidata: Q321
 constellation:
   - "[[_Standards/WikiData/WD~Crux,10542]]"
@@ -99,11 +100,11 @@ named_after:
   - "[[_Standards/WikiData/WD~milk,8495]]"
 rotation_period: 87000000000
 studied_by: "[[_Standards/WikiData/WD~galactic_astronomy,58908]]"
-OmegaWiki_Defined_Meaning: "454596"
+OmegaWiki_Defined_Meaning: 454596
 galaxy_morphological_type: SBbc
-Dewey_Decimal_Classification: "523.113"
+Dewey_Decimal_Classification: 523.113
 Iconclass_notation: 24D21
-Basisklassifikation: "39.42"
+Basisklassifikation: 39.42
 video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Artist%27s%20impression%20of%20the%20Milky%20Way.ogv
   - http://commons.wikimedia.org/wiki/Special:FilePath/Gaia%20tracing%20starry%20strings%20in%20the%20Milky%20Way%20ESA426890.webm
@@ -133,7 +134,7 @@ schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Milky%20Way%20Spiral%20Arm-TR.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Milky%20Way%20Spiral%20Arms%20AR.svg
 Unicode_character: 🌌
-P8189: "987007533858005171"
+P8189: 987007533858005100
 Wolfram_Language_entity_code: Entity["Galaxy", "MilkyWay"]
 Commons_gallery: Milky Way
 Commons_category: Milky Way Galaxy
@@ -169,7 +170,7 @@ different_from:
   - "[[_Standards/WikiData/WD~galaxy,318]]"
 ---
 
-# [[Milky_Way]] 
+# [[Milky_Way]] 🌌 
 
 #is_/same_as :: [[../../../WikiData/WD~Milky_Way,321|WD~Milky_Way,321]]  
 

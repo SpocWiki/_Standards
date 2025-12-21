@@ -4,104 +4,106 @@ aliases:
   - Siméon Denis Poisson
   - Poisson
   - Siméon Poisson
+  - Poisson,Siméon_Denis
+  - Poisson,Siméon Denis
 has_id_wikidata: Q190772
 doctoral_advisor:
-  - "[[_Standards/WikiData/WD~Joseph_Louis_Lagrange,80222]]"
-  - "[[_Standards/WikiData/WD~Pierre_Simon_Laplace,44481]]"
+  - '[[_Standards/WikiData/WD~Joseph_Louis_Lagrange,80222]]'
+  - '[[_Standards/WikiData/WD~Pierre_Simon_Laplace,44481]]'
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~statistician,2732142]]"
-  - "[[_Standards/WikiData/WD~astronomer,11063]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~physicist,169470]]'
+  - '[[_Standards/WikiData/WD~mathematician,170790]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~statistician,2732142]]'
+  - '[[_Standards/WikiData/WD~astronomer,11063]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Royal_Society,123885]]"
-  - "[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]"
-  - "[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]"
-  - "[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]"
-  - "[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~Bureau_des_Longitudes,1010517]]"
-  - "[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]"
-  - "[[_Standards/WikiData/WD~Société_Philomathique_de_Paris,3291340]]"
-  - "[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]"
-  - "[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]"
+  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+  - '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
+  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
+  - '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+  - '[[_Standards/WikiData/WD~Bureau_des_Longitudes,1010517]]'
+  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]'
+  - '[[_Standards/WikiData/WD~Société_Philomathique_de_Paris,3291340]]'
+  - '[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]'
+  - '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
 award_received:
-  - "[[_Standards/WikiData/WD~72_names_on_the_Eiffel_Tower,162873]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]"
-student: "[[_Standards/WikiData/WD~Nicolas_Carnot,181685]]"
+  - '[[_Standards/WikiData/WD~72_names_on_the_Eiffel_Tower,162873]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+student: '[[_Standards/WikiData/WD~Nicolas_Carnot,181685]]'
 notable_work:
   - "[[_Standards/WikiData/WD~Poisson's_ratio,190453]]"
-  - "[[_Standards/WikiData/WD~Poisson_distribution,205692]]"
-  - "[[_Standards/WikiData/WD~Poisson_summation_formula,387743]]"
+  - '[[_Standards/WikiData/WD~Poisson_distribution,205692]]'
+  - '[[_Standards/WikiData/WD~Poisson_summation_formula,387743]]'
   - "[[_Standards/WikiData/WD~Poisson's_equation,827688]]"
-  - "[[_Standards/WikiData/WD~Poisson_regression_model,954529]]"
-  - "[[_Standards/WikiData/WD~Poisson_bracket,1052775]]"
-  - "[[_Standards/WikiData/WD~Poisson_process,1145117]]"
-  - "[[_Standards/WikiData/WD~Poisson_kernel,2596534]]"
-  - "[[_Standards/WikiData/WD~Conway_Maxwell_Poisson_distribution,3258310]]"
-  - "[[_Standards/WikiData/WD~Euler_Poisson_Darboux_equation,3730830]]"
-  - "[[_Standards/WikiData/WD~Poisson_limit_theorem,7208500]]"
-  - "[[_Standards/WikiData/WD~Poisson_scatter_theorem,7208506]]"
-  - "[[_Standards/WikiData/WD~Poisson_algebra,11143305]]"
-  - "[[_Standards/WikiData/WD~zero_truncated_Poisson_distribution,17093544]]"
+  - '[[_Standards/WikiData/WD~Poisson_regression_model,954529]]'
+  - '[[_Standards/WikiData/WD~Poisson_bracket,1052775]]'
+  - '[[_Standards/WikiData/WD~Poisson_process,1145117]]'
+  - '[[_Standards/WikiData/WD~Poisson_kernel,2596534]]'
+  - '[[_Standards/WikiData/WD~Conway_Maxwell_Poisson_distribution,3258310]]'
+  - '[[_Standards/WikiData/WD~Euler_Poisson_Darboux_equation,3730830]]'
+  - '[[_Standards/WikiData/WD~Poisson_limit_theorem,7208500]]'
+  - '[[_Standards/WikiData/WD~Poisson_scatter_theorem,7208506]]'
+  - '[[_Standards/WikiData/WD~Poisson_algebra,11143305]]'
+  - '[[_Standards/WikiData/WD~zero_truncated_Poisson_distribution,17093544]]'
 doctoral_student:
-  - "[[_Standards/WikiData/WD~Joseph_Liouville,214549]]"
-  - "[[_Standards/WikiData/WD~Michel_Chasles,318067]]"
-  - "[[_Standards/WikiData/WD~Mikhail_Ostrogradsky,355892]]"
-  - "[[_Standards/WikiData/WD~Johann_Peter_Gustav_Lejeune_Dirichlet,29193]]"
-place_of_birth: "[[_Standards/WikiData/WD~Pithiviers,217159]]"
+  - '[[_Standards/WikiData/WD~Joseph_Liouville,214549]]'
+  - '[[_Standards/WikiData/WD~Michel_Chasles,318067]]'
+  - '[[_Standards/WikiData/WD~Mikhail_Ostrogradsky,355892]]'
+  - '[[_Standards/WikiData/WD~Johann_Peter_Gustav_Lejeune_Dirichlet,29193]]'
+place_of_birth: '[[_Standards/WikiData/WD~Pithiviers,217159]]'
 employer:
-  - "[[_Standards/WikiData/WD~École_polytechnique,273626]]"
-  - "[[_Standards/WikiData/WD~Bureau_des_Longitudes,1010517]]"
-  - "[[_Standards/WikiData/WD~École_Spéciale_Militaire_de_Saint_Cyr,1132066]]"
-  - "[[_Standards/WikiData/WD~Science_Faculty_of_Paris,3064332]]"
-educated_at: "[[_Standards/WikiData/WD~École_polytechnique,273626]]"
-place_of_death: "[[_Standards/WikiData/WD~Sceaux,370498]]"
+  - '[[_Standards/WikiData/WD~École_polytechnique,273626]]'
+  - '[[_Standards/WikiData/WD~Bureau_des_Longitudes,1010517]]'
+  - '[[_Standards/WikiData/WD~École_Spéciale_Militaire_de_Saint_Cyr,1132066]]'
+  - '[[_Standards/WikiData/WD~Science_Faculty_of_Paris,3064332]]'
+educated_at: '[[_Standards/WikiData/WD~École_polytechnique,273626]]'
+place_of_death: '[[_Standards/WikiData/WD~Sceaux,370498]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~theoretical_mechanics,833065]]"
-  - "[[_Standards/WikiData/WD~probability_theory,5862903]]"
-  - "[[_Standards/WikiData/WD~mathematics,395]]"
-  - "[[_Standards/WikiData/WD~mathematical_analysis,7754]]"
-  - "[[_Standards/WikiData/WD~geometry,8087]]"
-  - "[[_Standards/WikiData/WD~theoretical_physics,18362]]"
-  - "[[_Standards/WikiData/WD~mechanics,41217]]"
+  - '[[_Standards/WikiData/WD~theoretical_mechanics,833065]]'
+  - '[[_Standards/WikiData/WD~probability_theory,5862903]]'
+  - '[[_Standards/WikiData/WD~mathematics,395]]'
+  - '[[_Standards/WikiData/WD~mathematical_analysis,7754]]'
+  - '[[_Standards/WikiData/WD~geometry,8087]]'
+  - '[[_Standards/WikiData/WD~theoretical_physics,18362]]'
+  - '[[_Standards/WikiData/WD~mechanics,41217]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Denis,1187221]]"
-  - "[[_Standards/WikiData/WD~Siméon,19915036]]"
-different_from: "[[_Standards/WikiData/WD~Eric_Poisson,5387287]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~Denis,1187221]]'
+  - '[[_Standards/WikiData/WD~Siméon,19915036]]'
+different_from: '[[_Standards/WikiData/WD~Eric_Poisson,5387287]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 child:
-  - "[[_Standards/WikiData/WD~Anne_Denise_Joséphine_Marie_Poisson,20111370]]"
-  - "[[_Standards/WikiData/WD~Marie_Alexandrine_Poisson,20205227]]"
-  - "[[_Standards/WikiData/WD~Simeon_Jean_Charles_Poisson,30303554]]"
-position_held: "[[_Standards/WikiData/WD~president_of_the_French_Academy_of_Sciences,23034946]]"
-family_name: "[[_Standards/WikiData/WD~Poisson,23727105]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
+  - '[[_Standards/WikiData/WD~Anne_Denise_Joséphine_Marie_Poisson,20111370]]'
+  - '[[_Standards/WikiData/WD~Marie_Alexandrine_Poisson,20205227]]'
+  - '[[_Standards/WikiData/WD~Simeon_Jean_Charles_Poisson,30303554]]'
+position_held: '[[_Standards/WikiData/WD~president_of_the_French_Academy_of_Sciences,23034946]]'
+family_name: '[[_Standards/WikiData/WD~Poisson,23727105]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
 place_of_burial:
-  - "[[_Standards/WikiData/WD~Grave_of_Siméon_Denis_Poisson,112336608]]"
-  - "[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311]]"
+  - '[[_Standards/WikiData/WD~Grave_of_Siméon_Denis_Poisson,112336608]]'
+  - '[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311]]'
 date_of_death: 1840-04-25T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Paris,90]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-writing_language: "[[_Standards/WikiData/WD~French,150]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_location: '[[_Standards/WikiData/WD~Paris,90]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+writing_language: '[[_Standards/WikiData/WD~French,150]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 Commons_category: Siméon Denis Poisson
 Commons_Creator_page: Siméon Denis Poisson
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Marty%20-%20Les%20principaux%20monuments%20fun%C3%A9raires%20-%20Poisson.jpg

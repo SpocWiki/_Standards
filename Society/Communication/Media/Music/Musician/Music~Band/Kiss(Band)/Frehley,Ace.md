@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Ace Frehley"
+  - Ace Frehley
+  - Frehley,Ace
 ---
 
 #has_/time_/started :: 1951-04-27 

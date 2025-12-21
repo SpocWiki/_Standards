@@ -1,34 +1,36 @@
 ---
 aliases:
   - Verkehrszeichen
+  - Traffic_Sign
+  - Traffic Sign
 has_id_wikidata: Q170285
-instance_of: "[[_Standards/WikiData/WD~notation,2001982]]"
+instance_of: '[[_Standards/WikiData/WD~notation,2001982]]'
 different_from:
-  - "[[_Standards/WikiData/WD~emergency_sign,2146470]]"
-  - "[[_Standards/WikiData/WD~road_traffic_control_device,7339568]]"
+  - '[[_Standards/WikiData/WD~emergency_sign,2146470]]'
+  - '[[_Standards/WikiData/WD~road_traffic_control_device,7339568]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~road_equipment,2354362]]"
-  - "[[_Standards/WikiData/WD~road_traffic_control_device,7339568]]"
-  - "[[_Standards/WikiData/WD~physical_sign,105449313]]"
+  - '[[_Standards/WikiData/WD~road_equipment,2354362]]'
+  - '[[_Standards/WikiData/WD~road_traffic_control_device,7339568]]'
+  - '[[_Standards/WikiData/WD~physical_sign,105449313]]'
 part_of:
-  - "[[_Standards/WikiData/WD~traffic_sign_theft,3178948]]"
-  - "[[_Standards/WikiData/WD~traffic_signing,22812380]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Traffic_signs,13361292]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-Nomenclature_for_Museum_Cataloging: "11442"
+  - '[[_Standards/WikiData/WD~traffic_sign_theft,3178948]]'
+  - '[[_Standards/WikiData/WD~traffic_signing,22812380]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Traffic_signs,13361292]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+Nomenclature_for_Museum_Cataloging: 11442
 Iconclass_notation: 46C1151
 Commons_category: Road signs
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vyhrazen%C3%BD%20j%C3%ADzdn%C3%AD%20pruh%20pro%20cyklisty.jpg
-UNSPSC_Code: "55121710"
+UNSPSC_Code: 55121710
 IEV_number: 845-31-061
 Commons_gallery: Traffic sign
 Dewey_Decimal_Classification:
-  - "625.794"
-  - "346.045"
-  - "343.0946"
-  - "343.0982"
-  - "388.413122"
-  - "388.3122"
+  - 625.794
+  - 346.045
+  - 343.0946
+  - 343.0982
+  - 388.413122
+  - 388.3122
 described_at_URL:
   - https://treaties.un.org/doc/Publication/UNTS/Volume%201091/volume-1091-I-16743-English.pdf
   - https://assets.publishing.service.gov.uk/media/560aa95b40f0b6036a00002a/the-highway-code-traffic-signs.pdf

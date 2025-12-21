@@ -4,22 +4,24 @@ aliases:
   - expert_considerations
   - expertConsiderations
   - has_text_of_expert_considerations
+  - has_expert_considerations
+  - has expert considerations
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - expert
   - considerations
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_expert_considerations
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

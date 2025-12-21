@@ -4,20 +4,22 @@ aliases:
   - view_action
   - ViewAction
   - is_a_view_action
+  - View_Action
+  - View Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - view_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_view_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

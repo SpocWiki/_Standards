@@ -3,29 +3,31 @@ aliases:
   - Jugendstil
   - Sezessionstil
   - Art Nouveau
+  - 1880-Art_Nouveau+1910
+  - 1880-Art Nouveau+1910
 has_id_wikidata: Q34636
 inception: 1890-01-01T00:00:00Z
 start_time: 1880-01-01T00:00:00Z
 end_time: 1910-01-01T00:00:00Z
-followed_by: "[[_Standards/WikiData/WD~Art_Deco,173782]]"
-subclass_of: "[[_Standards/WikiData/WD~decorative_art,631931]]"
+followed_by: '[[_Standards/WikiData/WD~Art_Deco,173782]]'
+subclass_of: '[[_Standards/WikiData/WD~decorative_art,631931]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~architectural_style,32880]]"
+  - '[[_Standards/WikiData/WD~art_movement,968159]]'
+  - '[[_Standards/WikiData/WD~architectural_style,32880]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Jugendstil,1294605]]"
-  - "[[_Standards/WikiData/WD~Nieuwe_Kunst,3341324]]"
-  - "[[_Standards/WikiData/WD~Stile_Liberty,20645040]]"
-  - "[[_Standards/WikiData/WD~Sezessionstil,119351555]]"
-performer: "[[_Standards/WikiData/WD~Giuseppe_Amisani,1877235]]"
+  - '[[_Standards/WikiData/WD~Jugendstil,1294605]]'
+  - '[[_Standards/WikiData/WD~Nieuwe_Kunst,3341324]]'
+  - '[[_Standards/WikiData/WD~Stile_Liberty,20645040]]'
+  - '[[_Standards/WikiData/WD~Sezessionstil,119351555]]'
+performer: '[[_Standards/WikiData/WD~Giuseppe_Amisani,1877235]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Dictionnaire_du_patrimoine_rennais,29551022]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q21387416,21387416]]"
-related_category: "[[_Standards/WikiData/WD~Q27070130,27070130]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Modernisme,59960983]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Dictionnaire_du_patrimoine_rennais,29551022]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q21387416,21387416]]'
+related_category: '[[_Standards/WikiData/WD~Q27070130,27070130]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Modernisme,59960983]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
 Stadtwiki_Dresden_article: Jugendstil
 subject_named_as:
   - Jugendstil

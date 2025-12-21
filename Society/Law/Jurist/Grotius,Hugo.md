@@ -4,88 +4,89 @@ aliases:
   - Hugo_Grotius
   - Hugo de Groot
   - Huig de Groot
+  - Grotius,Hugo
 has_id_wikidata: Q154959
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~jurist,185351]]"
-  - "[[_Standards/WikiData/WD~diplomat,193391]]"
-  - "[[_Standards/WikiData/WD~historian,201788]]"
-  - "[[_Standards/WikiData/WD~playwright,214917]]"
-  - "[[_Standards/WikiData/WD~theologian,1234713]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~international_law_scholar,14866863]]"
-  - "[[_Standards/WikiData/WD~legal_scholar,16012028]]"
-  - "[[_Standards/WikiData/WD~philosopher_of_law,23760244]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~lawyer,40348]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~jurist,185351]]'
+  - '[[_Standards/WikiData/WD~diplomat,193391]]'
+  - '[[_Standards/WikiData/WD~historian,201788]]'
+  - '[[_Standards/WikiData/WD~playwright,214917]]'
+  - '[[_Standards/WikiData/WD~theologian,1234713]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~international_law_scholar,14866863]]'
+  - '[[_Standards/WikiData/WD~legal_scholar,16012028]]'
+  - '[[_Standards/WikiData/WD~philosopher_of_law,23760244]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~lawyer,40348]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
 position_held:
-  - "[[_Standards/WikiData/WD~ambassador,121998]]"
-  - "[[_Standards/WikiData/WD~Pensionary,3899215]]"
-educated_at: "[[_Standards/WikiData/WD~Leiden_University,156598]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Dutch_Republic,170072]]"
+  - '[[_Standards/WikiData/WD~ambassador,121998]]'
+  - '[[_Standards/WikiData/WD~Pensionary,3899215]]'
+educated_at: '[[_Standards/WikiData/WD~Leiden_University,156598]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Dutch_Republic,170072]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~political_philosophy,179805]]"
-  - "[[_Standards/WikiData/WD~Christian_theology,216545]]"
-  - "[[_Standards/WikiData/WD~international_law,4394526]]"
+  - '[[_Standards/WikiData/WD~political_philosophy,179805]]'
+  - '[[_Standards/WikiData/WD~Christian_theology,216545]]'
+  - '[[_Standards/WikiData/WD~international_law,4394526]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Remonstrants,284561]]"
-  - "[[_Standards/WikiData/WD~Arminianism,13446873]]"
+  - '[[_Standards/WikiData/WD~Remonstrants,284561]]'
+  - '[[_Standards/WikiData/WD~Arminianism,13446873]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]"
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Canon_of_Dutch_History,907660]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Q1953856,1953856]]"
-  - "[[_Standards/WikiData/WD~Nieuw_Nederlandsch_Biografisch_Woordenboek,1989413]]"
+  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Canon_of_Dutch_History,907660]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Q1953856,1953856]]'
+  - '[[_Standards/WikiData/WD~Nieuw_Nederlandsch_Biografisch_Woordenboek,1989413]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_Dutch_and_Flemish_authors,18611289]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~The_Dutch_and_Flemish_authors,18611289]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_oF_dreaming_Theories,20743760]]"
-  - "[[_Standards/WikiData/WD~Biographisch_woordenboek_der_Nederlanden,21073999]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Biografisch_lexicon_voor_de_geschiedenis_van_het_Nederlands_protestantisme,65498654]]"
-  - "[[_Standards/WikiData/WD~Biographisch_Woordenboek_der_Noord_en_Zuidnederlandsche_Letterkunde,65621670]]"
-  - "[[_Standards/WikiData/WD~Letterkundig_woordenboek_voor_Noord_en_Zuid,65621677]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Biographisch_anthologisch_en_critisch_woordenboek_der_Nederduitsche_dichters,104721994]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-place_of_burial: "[[_Standards/WikiData/WD~Nieuwe_Kerk_Delft,678611]]"
-given_name: "[[_Standards/WikiData/WD~Hugo,1242555]]"
-family_name: "[[_Standards/WikiData/WD~De_Groot,1547388]]"
-place_of_detention: "[[_Standards/WikiData/WD~Loevestein_Castle,2177577]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia_oF_dreaming_Theories,20743760]]'
+  - '[[_Standards/WikiData/WD~Biographisch_woordenboek_der_Nederlanden,21073999]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Biografisch_lexicon_voor_de_geschiedenis_van_het_Nederlands_protestantisme,65498654]]'
+  - '[[_Standards/WikiData/WD~Biographisch_Woordenboek_der_Noord_en_Zuidnederlandsche_Letterkunde,65621670]]'
+  - '[[_Standards/WikiData/WD~Letterkundig_woordenboek_voor_Noord_en_Zuid,65621677]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Biographisch_anthologisch_en_critisch_woordenboek_der_Nederduitsche_dichters,104721994]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+place_of_burial: '[[_Standards/WikiData/WD~Nieuwe_Kerk_Delft,678611]]'
+given_name: '[[_Standards/WikiData/WD~Hugo,1242555]]'
+family_name: '[[_Standards/WikiData/WD~De_Groot,1547388]]'
+place_of_detention: '[[_Standards/WikiData/WD~Loevestein_Castle,2177577]]'
 child:
-  - "[[_Standards/WikiData/WD~Pieter_de_Groot,2195847]]"
-  - "[[_Standards/WikiData/WD~Cornelis_de_Groot,106806196]]"
-spouse: "[[_Standards/WikiData/WD~Maria_van_Reigersberch,2268364]]"
+  - '[[_Standards/WikiData/WD~Pieter_de_Groot,2195847]]'
+  - '[[_Standards/WikiData/WD~Cornelis_de_Groot,106806196]]'
+spouse: '[[_Standards/WikiData/WD~Maria_van_Reigersberch,2268364]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~City_Castle_Zaltbommel,2539475]]"
-  - "[[_Standards/WikiData/WD~Museum_Slot_Loevestein,98908556]]"
-father: "[[_Standards/WikiData/WD~Jan_Cornets_de_Groot,2596609]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-depicted_by: "[[_Standards/WikiData/WD~Portrait_of_Hugo_de_Groot_(1583_1645),17321232]]"
-student_of: "[[_Standards/WikiData/WD~Jacob_Lasson,47526365]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-mother: "[[_Standards/WikiData/WD~Aeltje_van_Overschie,110557871]]"
+  - '[[_Standards/WikiData/WD~City_Castle_Zaltbommel,2539475]]'
+  - '[[_Standards/WikiData/WD~Museum_Slot_Loevestein,98908556]]'
+father: '[[_Standards/WikiData/WD~Jan_Cornets_de_Groot,2596609]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+depicted_by: '[[_Standards/WikiData/WD~Portrait_of_Hugo_de_Groot_(1583_1645),17321232]]'
+student_of: '[[_Standards/WikiData/WD~Jacob_Lasson,47526365]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+mother: '[[_Standards/WikiData/WD~Aeltje_van_Overschie,110557871]]'
 work_period_start_: 1598-01-01T00:00:00Z
 date_of_birth: 1583-04-10T00:00:00Z
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Dutch,7411]]"
-place_of_birth: "[[_Standards/WikiData/WD~Delft,690]]"
-place_of_death: "[[_Standards/WikiData/WD~Rostock,2861]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Latin,397]]'
+  - '[[_Standards/WikiData/WD~Dutch,7411]]'
+place_of_birth: '[[_Standards/WikiData/WD~Delft,690]]'
+place_of_death: '[[_Standards/WikiData/WD~Rostock,2861]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 work_location:
-  - "[[_Standards/WikiData/WD~Paris,90]]"
-  - "[[_Standards/WikiData/WD~The_Hague,36600]]"
+  - '[[_Standards/WikiData/WD~Paris,90]]'
+  - '[[_Standards/WikiData/WD~The_Hague,36600]]'
 Commons_category: Hugo Grotius
 Commons_Creator_page: Hugo Grotius
 Europeana_entity: agent/base/145402
@@ -109,8 +110,8 @@ name_in_native_language: Hugo Grotius
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20Hugo%20Grotius.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Hugo%20Grotius%20signature%201634.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Hugo%20de%20Groot%20%281583-1645%29%20Rijksmuseum%20SK-A-581.jpeg
-ISNI: "0000000121266471"
-NLC_authorities: "000141424"
+ISNI: 0000000121266471
+NLC_authorities: 000141424
 Libris_URI: 1zcffj8k1s8zqhv
 ---
 

@@ -4,20 +4,22 @@ aliases:
   - electronics_store
   - ElectronicsStore
   - is_an_electronics_store
+  - Electronics_Store
+  - Electronics Store
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - electronics_store
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_electronics_store Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

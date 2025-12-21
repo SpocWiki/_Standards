@@ -1,45 +1,47 @@
 ---
-bookmarksGroups: 
-excludes: 
+aliases:
+  - FileClass~MusicGroup
+bookmarksGroups: ''
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup
-favoriteView: 
+favoriteView: ''
 fields:
-- id: 7KritP
-  name: Album
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicAlbum')"
-  type: MultiFile
-  path: ''
-- id: N8Scii
-  name: Genre
-  options: {}
-  type: Input
-  path: ''
-- id: KTnAtL
-  name: Track
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/ItemList')"
-  type: MultiFile
-  path: ''
+  - id: 7KritP
+    name: Album
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicAlbum')
+    type: MultiFile
+    path: ''
+  - id: N8Scii
+    name: Genre
+    options: {}
+    type: Input
+    path: ''
+  - id: KTnAtL
+    name: Track
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
+    type: MultiFile
+    path: ''
 fieldsOrder:
-- KTnAtL
-- N8Scii
-- 7KritP
-filesPaths: 
+  - KTnAtL
+  - N8Scii
+  - 7KritP
+filesPaths: ''
 icon: music
 limit: 9
 mapWithTag: true
 savedViews: []
 tagNames:
-- class/MusicGroup
-- class/Thing/Organization/PerformingGroup/MusicGroup
-- is_a_/MusicGroup
-- schema-org/MusicGroup
+  - class/MusicGroup
+  - class/Thing/Organization/PerformingGroup/MusicGroup
+  - is_a_/MusicGroup
+  - schema-org/MusicGroup
 tags:
-- class/FileClass
-- class/MusicGroup
-- is_a_/MusicGroup
-- class/Thing/Organization/PerformingGroup/MusicGroup
+  - class/FileClass
+  - class/MusicGroup
+  - is_a_/MusicGroup
+  - class/Thing/Organization/PerformingGroup/MusicGroup
 version: 2.1
 ---
 

@@ -4,21 +4,22 @@ aliases:
   - tongue-weight
   - tongueWeight
   - has_value_for_tongue_weight_kg
+  - has value for tongue weight kg
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - tongue-weight
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_tongue-weight
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

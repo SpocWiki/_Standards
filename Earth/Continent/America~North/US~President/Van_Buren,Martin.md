@@ -1,26 +1,28 @@
 ---
 aliases:
-- Buren,Martin_van
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Buren,Martin_van
+  - ''
+  - Van_Buren,Martin
+  - Van Buren,Martin
 has_id_wikidata: Q11820
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Buren,Martin_van
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Buren,Martin_van
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Buren,Martin_van
-- "Martin Van Buren"
-- 
+  - Buren,Martin_van
+  - Martin Van Buren
+  - ''
 title: Buren,Martin_van
 type: private_note
 ---

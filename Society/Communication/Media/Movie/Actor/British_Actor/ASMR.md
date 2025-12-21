@@ -1,6 +1,7 @@
 ---
 aliases:
-- "autonomous sensory meridian response"
+  - autonomous sensory meridian response
+  - ASMR
 ---
 
 ## #has_/text_of_/abstract 

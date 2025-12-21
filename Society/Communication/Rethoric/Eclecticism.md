@@ -1,14 +1,16 @@
 ---
+aliases:
+  - Eclecticism
 has_id_wikidata: Q192068
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-instance_of: "[[_Standards/WikiData/WD~art_movement,968159]]"
-Dewey_Decimal_Classification: "148"
-P8189: "987007539359505171"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+instance_of: '[[_Standards/WikiData/WD~art_movement,968159]]'
+Dewey_Decimal_Classification: 148
+P8189: 987007539359505171
 Commons_category: Eclectic art
 ---
 

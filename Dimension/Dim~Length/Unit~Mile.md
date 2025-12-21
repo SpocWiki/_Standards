@@ -3,20 +3,21 @@ aliases:
   - Meile
   - international mile
   - statute mile
+  - Unit~Mile
 has_id_wikidata: Q253276
-is_part_of: "[[_Standards/WikiData/WD~Russian_system_of_units,435964]]"
+is_part_of: '[[_Standards/WikiData/WD~Russian_system_of_units,435964]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Mell,1197183]]"
-  - "[[_Standards/WikiData/WD~1593_English_statute_mile,2296171]]"
-  - "[[_Standards/WikiData/WD~mile_(US_survey),61749562]]"
-  - "[[_Standards/WikiData/WD~international_mile,61750260]]"
+  - '[[_Standards/WikiData/WD~Mell,1197183]]'
+  - '[[_Standards/WikiData/WD~1593_English_statute_mile,2296171]]'
+  - '[[_Standards/WikiData/WD~mile_(US_survey),61749562]]'
+  - '[[_Standards/WikiData/WD~international_mile,61750260]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~unit_of_length,1978718]]"
-  - "[[_Standards/WikiData/WD~English_unit_of_measurement,16782623]]"
+  - '[[_Standards/WikiData/WD~unit_of_length,1978718]]'
+  - '[[_Standards/WikiData/WD~English_unit_of_measurement,16782623]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
 conversion_to_standard_unit:
   - 80
   - 8
@@ -38,7 +39,7 @@ conversion_to_standard_unit:
   - 1.701078e-13
   - 0.2894737
   - 5.215529e-14
-measured_physical_quantity: "[[_Standards/WikiData/WD~length,36253]]"
+measured_physical_quantity: '[[_Standards/WikiData/WD~length,36253]]'
 UN_CEFACT_Common_Code: SMI
 conversion_to_SI_unit: 1609.344
 unit_symbol:

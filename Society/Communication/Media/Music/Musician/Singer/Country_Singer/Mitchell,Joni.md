@@ -4,111 +4,112 @@ aliases:
   - Roberta Joan Mitchell
   - Roberta Joan Anderson
   - Joni Mitchell
+  - Mitchell,Joni
 has_id_wikidata: Q205721
 award_received:
-  - "[[_Standards/WikiData/WD~Grammy_Hall_of_Fame,81180]]"
-  - "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Traditional_Pop_Vocal_Album,280481]]"
+  - '[[_Standards/WikiData/WD~Grammy_Hall_of_Fame,81180]]'
+  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Traditional_Pop_Vocal_Album,280481]]'
   - "[[_Standards/WikiData/WD~Canada's_Walk_of_Fame,857933]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]"
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Pop_Vocal_Album,1027891]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Recording_Package,1836411]]"
-  - "[[_Standards/WikiData/WD~Gershwin_Prize,2422622]]"
-  - "[[_Standards/WikiData/WD~Canadian_Songwriters_Hall_of_Fame,3362498]]"
-  - "[[_Standards/WikiData/WD~Canadian_Music_Hall_of_Fame,3362499]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Ethnic_or_Traditional_Folk_Recording,5593797]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Arrangement,_Instrumental_and_Vocals,5593817]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Pop_Instrumental_Performance,5593861]]"
-  - "[[_Standards/WikiData/WD~Jack_Richardson_Producer_of_the_Year_Award,6114830]]"
-  - "[[_Standards/WikiData/WD~Companion_of_the_Order_of_Canada,15278107]]"
-  - "[[_Standards/WikiData/WD~Juno_Award_for_Vocal_Jazz_Album_of_the_Year,16974537]]"
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
+  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Pop_Vocal_Album,1027891]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Recording_Package,1836411]]'
+  - '[[_Standards/WikiData/WD~Gershwin_Prize,2422622]]'
+  - '[[_Standards/WikiData/WD~Canadian_Songwriters_Hall_of_Fame,3362498]]'
+  - '[[_Standards/WikiData/WD~Canadian_Music_Hall_of_Fame,3362499]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Ethnic_or_Traditional_Folk_Recording,5593797]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Arrangement,_Instrumental_and_Vocals,5593817]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Pop_Instrumental_Performance,5593861]]'
+  - '[[_Standards/WikiData/WD~Jack_Richardson_Producer_of_the_Year_Award,6114830]]'
+  - '[[_Standards/WikiData/WD~Companion_of_the_Order_of_Canada,15278107]]'
+  - '[[_Standards/WikiData/WD~Juno_Award_for_Vocal_Jazz_Album_of_the_Year,16974537]]'
 residence:
-  - "[[_Standards/WikiData/WD~Bel_Air,86768]]"
-  - "[[_Standards/WikiData/WD~Saskatoon,10566]]"
-  - "[[_Standards/WikiData/WD~Toronto,172]]"
+  - '[[_Standards/WikiData/WD~Bel_Air,86768]]'
+  - '[[_Standards/WikiData/WD~Saskatoon,10566]]'
+  - '[[_Standards/WikiData/WD~Toronto,172]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~record_producer,183945]]"
-  - "[[_Standards/WikiData/WD~musician,639669]]"
-  - "[[_Standards/WikiData/WD~songwriter,753110]]"
-  - "[[_Standards/WikiData/WD~guitarist,855091]]"
-  - "[[_Standards/WikiData/WD~painter,1028181]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_editor,7042855]]"
-  - "[[_Standards/WikiData/WD~recording_artist,55960555]]"
-  - "[[_Standards/WikiData/WD~photographer,33231]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-family_name: "[[_Standards/WikiData/WD~Q179205,179205]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~record_producer,183945]]'
+  - '[[_Standards/WikiData/WD~musician,639669]]'
+  - '[[_Standards/WikiData/WD~songwriter,753110]]'
+  - '[[_Standards/WikiData/WD~guitarist,855091]]'
+  - '[[_Standards/WikiData/WD~painter,1028181]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~film_editor,7042855]]'
+  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+  - '[[_Standards/WikiData/WD~photographer,33231]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
+family_name: '[[_Standards/WikiData/WD~Q179205,179205]]'
 genre:
-  - "[[_Standards/WikiData/WD~folk_rock,186472]]"
-  - "[[_Standards/WikiData/WD~world_music,205049]]"
-  - "[[_Standards/WikiData/WD~art_rock,217467]]"
-  - "[[_Standards/WikiData/WD~folk_jazz,5464464]]"
-  - "[[_Standards/WikiData/WD~jazz,8341]]"
-  - "[[_Standards/WikiData/WD~pop_music,37073]]"
-  - "[[_Standards/WikiData/WD~folk_music,43343]]"
+  - '[[_Standards/WikiData/WD~folk_rock,186472]]'
+  - '[[_Standards/WikiData/WD~world_music,205049]]'
+  - '[[_Standards/WikiData/WD~art_rock,217467]]'
+  - '[[_Standards/WikiData/WD~folk_jazz,5464464]]'
+  - '[[_Standards/WikiData/WD~jazz,8341]]'
+  - '[[_Standards/WikiData/WD~pop_music,37073]]'
+  - '[[_Standards/WikiData/WD~folk_music,43343]]'
 voice_type:
-  - "[[_Standards/WikiData/WD~mezzo_soprano,186506]]"
-  - "[[_Standards/WikiData/WD~contralto,37137]]"
+  - '[[_Standards/WikiData/WD~mezzo_soprano,186506]]'
+  - '[[_Standards/WikiData/WD~contralto,37137]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Geffen_Records,212699]]"
-  - "[[_Standards/WikiData/WD~Reprise_Records,645889]]"
-  - "[[_Standards/WikiData/WD~Hear_Music,766909]]"
-  - "[[_Standards/WikiData/WD~Nonesuch_Records,1849138]]"
-  - "[[_Standards/WikiData/WD~Asylum_Records,1998195]]"
-  - "[[_Standards/WikiData/WD~Warner_Music_Group,21077]]"
+  - '[[_Standards/WikiData/WD~Geffen_Records,212699]]'
+  - '[[_Standards/WikiData/WD~Reprise_Records,645889]]'
+  - '[[_Standards/WikiData/WD~Hear_Music,766909]]'
+  - '[[_Standards/WikiData/WD~Nonesuch_Records,1849138]]'
+  - '[[_Standards/WikiData/WD~Asylum_Records,1998195]]'
+  - '[[_Standards/WikiData/WD~Warner_Music_Group,21077]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Traditional_Pop_Vocal_Album,280481]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Record_of_the_Year,843219]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Pop_Vocal_Album,1027891]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Recording_Package,1836411]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Ethnic_or_Traditional_Folk_Recording,5593797]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Arrangement,_Instrumental_and_Vocals,5593817]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Pop_Instrumental_Performance,5593861]]"
-  - "[[_Standards/WikiData/WD~Jack_Richardson_Producer_of_the_Year_Award,6114830]]"
-  - "[[_Standards/WikiData/WD~Juno_Award_for_Folk_Artist_of_the_Year,6314075]]"
-  - "[[_Standards/WikiData/WD~Juno_Award_for_Pop_Album_of_the_Year,6314089]]"
-  - "[[_Standards/WikiData/WD~Juno_Award_for_Songwriter_of_the_Year,6314105]]"
-  - "[[_Standards/WikiData/WD~Juno_Award_for_Vocal_Jazz_Album_of_the_Year,16974537]]"
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Traditional_Pop_Vocal_Album,280481]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Record_of_the_Year,843219]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Pop_Vocal_Album,1027891]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Recording_Package,1836411]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Ethnic_or_Traditional_Folk_Recording,5593797]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Arrangement,_Instrumental_and_Vocals,5593817]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Pop_Instrumental_Performance,5593861]]'
+  - '[[_Standards/WikiData/WD~Jack_Richardson_Producer_of_the_Year_Award,6114830]]'
+  - '[[_Standards/WikiData/WD~Juno_Award_for_Folk_Artist_of_the_Year,6314075]]'
+  - '[[_Standards/WikiData/WD~Juno_Award_for_Pop_Album_of_the_Year,6314089]]'
+  - '[[_Standards/WikiData/WD~Juno_Award_for_Songwriter_of_the_Year,6314105]]'
+  - '[[_Standards/WikiData/WD~Juno_Award_for_Vocal_Jazz_Album_of_the_Year,16974537]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Blue,804554]]"
+  - '[[_Standards/WikiData/WD~Blue,804554]]'
   - "[[_Standards/WikiData/WD~Got_'til_It's_Gone,835635]]"
-  - "[[_Standards/WikiData/WD~Court_and_Spark,869433]]"
-  - "[[_Standards/WikiData/WD~Both_Sides_Now,2707288]]"
-  - "[[_Standards/WikiData/WD~Big_Yellow_Taxi,2732732]]"
-  - "[[_Standards/WikiData/WD~Carey,3437317]]"
-  - "[[_Standards/WikiData/WD~Help_Me,15741198]]"
-spouse: "[[_Standards/WikiData/WD~Larry_Klein,1806079]]"
-place_of_birth: "[[_Standards/WikiData/WD~Fort_Macleod,2128700]]"
+  - '[[_Standards/WikiData/WD~Court_and_Spark,869433]]'
+  - '[[_Standards/WikiData/WD~Both_Sides_Now,2707288]]'
+  - '[[_Standards/WikiData/WD~Big_Yellow_Taxi,2732732]]'
+  - '[[_Standards/WikiData/WD~Carey,3437317]]'
+  - '[[_Standards/WikiData/WD~Help_Me,15741198]]'
+spouse: '[[_Standards/WikiData/WD~Larry_Klein,1806079]]'
+place_of_birth: '[[_Standards/WikiData/WD~Fort_Macleod,2128700]]'
 instrument:
-  - "[[_Standards/WikiData/WD~Appalachian_dulcimer,2145031]]"
-  - "[[_Standards/WikiData/WD~voice,17172850]]"
-  - "[[_Standards/WikiData/WD~piano,5994]]"
-  - "[[_Standards/WikiData/WD~guitar,6607]]"
-copyright_representative: "[[_Standards/WikiData/WD~Society_of_Composers,_Authors_and_Music_Publishers_of_Canada,2207432]]"
+  - '[[_Standards/WikiData/WD~Appalachian_dulcimer,2145031]]'
+  - '[[_Standards/WikiData/WD~voice,17172850]]'
+  - '[[_Standards/WikiData/WD~piano,5994]]'
+  - '[[_Standards/WikiData/WD~guitar,6607]]'
+copyright_representative: '[[_Standards/WikiData/WD~Society_of_Composers,_Authors_and_Music_Publishers_of_Canada,2207432]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Alberta_University_of_the_Arts,4063387]]"
-  - "[[_Standards/WikiData/WD~Aden_Bowman_Collegiate,4682156]]"
-discography: "[[_Standards/WikiData/WD~Joni_Mitchell_discography,6275555]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-field_of_work: "[[_Standards/WikiData/WD~music_composing,11895763]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Joni_Mitchell,13476388]]"
+  - '[[_Standards/WikiData/WD~Alberta_University_of_the_Arts,4063387]]'
+  - '[[_Standards/WikiData/WD~Aden_Bowman_Collegiate,4682156]]'
+discography: '[[_Standards/WikiData/WD~Joni_Mitchell_discography,6275555]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+field_of_work: '[[_Standards/WikiData/WD~music_composing,11895763]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Joni_Mitchell,13476388]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Roberta,18194774]]"
-  - "[[_Standards/WikiData/WD~Joan,18219684]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-different_from: "[[_Standards/WikiData/WD~Joni_Mitchell,75472576]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-medical_condition: "[[_Standards/WikiData/WD~poliomyelitis,12195]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Roberta,18194774]]'
+  - '[[_Standards/WikiData/WD~Joan,18219684]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+different_from: '[[_Standards/WikiData/WD~Joni_Mitchell,75472576]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+medical_condition: '[[_Standards/WikiData/WD~poliomyelitis,12195]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Canada,16]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
 height: 1.68
 Wolfram_Language_entity_code: Entity["MusicAct", "JoniMitchell::62mzs"]
 Facebook_username:
@@ -132,8 +133,8 @@ date_of_birth: 1943-11-07T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Joni%20Mitchell%202021%20Kennedy%20Center%20Honors%20%28cropped%29.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Joni%20Mitchell%20Signature.svg
 official_website: http://www.jonimitchell.com
-ISNI: "0000000114765598"
-IPI_name_number: "00021007060"
+ISNI: 0000000114765598
+IPI_name_number: 00021007060
 Libris_URI: 64jmrb8q4pv0j20
 Europeana_entity: agent/base/60101
 ---

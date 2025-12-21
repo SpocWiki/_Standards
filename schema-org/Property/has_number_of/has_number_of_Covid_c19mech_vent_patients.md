@@ -4,21 +4,22 @@ aliases:
   - cvd-num-c19mech-vent-pats
   - cvdNumC19MechVentPats
   - has_number_of_Covid_c19mech_vent_patients
+  - has number of Covid c19mech vent patients
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - cvd-num-c19mech-vent-pats
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_cvd-num-c19mech-vent-pats
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

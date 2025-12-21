@@ -3,6 +3,8 @@ aliases:
   - purchasing power parity
   - Purchasing_Power_Parity
   - PPP
+  - PPP(Purchasing_Power_Parity)
+  - PPP(Purchasing Power Parity)
 ---
 
 # [[PPP(Purchasing_Power_Parity)]] 

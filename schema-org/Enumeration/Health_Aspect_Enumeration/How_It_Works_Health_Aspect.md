@@ -4,21 +4,23 @@ aliases:
   - how_it_works_health_aspect
   - HowItWorksHealthAspect
   - is_a_how_it_works_health_aspect
+  - How_It_Works_Health_Aspect
+  - How It Works Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - how_it_works_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_how_it_works_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

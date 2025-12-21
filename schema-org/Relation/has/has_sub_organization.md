@@ -3,23 +3,24 @@ aliases:
   - has sub-organization
   - subOrganization
   - has_sub_organization
+  - has sub organization
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sub_organization
   - sub
   - organization
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_sub_organization
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

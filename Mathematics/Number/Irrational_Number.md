@@ -1,17 +1,19 @@
 ---
 aliases:
   - irrational number
+  - Irrational_Number
+  - Irrational Number
 has_id_wikidata: Q607728
-opposite_of: "[[_Standards/WikiData/WD~rational_number,1244890]]"
+opposite_of: '[[_Standards/WikiData/WD~rational_number,1244890]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~number_with_infinite_decimal_representation,7230046]]"
-  - "[[_Standards/WikiData/WD~real_number,12916]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Irrational_number,19589678]]"
-different_from: "[[_Standards/WikiData/WD~set_of_irrational_numbers,47310992]]"
-part_of: "[[_Standards/WikiData/WD~set_of_irrational_numbers,47310992]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_number,47460393]]"
-OmegaWiki_Defined_Meaning: "995364"
+  - '[[_Standards/WikiData/WD~number_with_infinite_decimal_representation,7230046]]'
+  - '[[_Standards/WikiData/WD~real_number,12916]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Irrational_number,19589678]]'
+different_from: '[[_Standards/WikiData/WD~set_of_irrational_numbers,47310992]]'
+part_of: '[[_Standards/WikiData/WD~set_of_irrational_numbers,47310992]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_number,47460393]]'
+OmegaWiki_Defined_Meaning: 995364
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Kettenbruch%20zu%20einer%20irrationalen%20Zahl%20-%20YouTube.webm
 Commons_category: Irrational numbers
 ---

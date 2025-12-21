@@ -4,21 +4,23 @@ aliases:
   - wearable_size_group_big
   - WearableSizeGroupBig
   - is_a_wearable_size_group_big
+  - Wearable_Size_Group_Big
+  - Wearable Size Group Big
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableSizeGroupEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_size_group_big
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_size_group_big Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

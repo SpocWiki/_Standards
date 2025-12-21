@@ -1,7 +1,8 @@
 ---
 aliases:
-- "James Paul Marsden"
-- "James Marsden"
+  - James Paul Marsden
+  - James Marsden
+  - Marsden,James
 ---
 
 #has_/time_/started :: 1973-09-18 

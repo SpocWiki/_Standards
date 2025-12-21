@@ -1,6 +1,7 @@
 ---
 aliases:
-- CEA
+  - CEA
+  - UNECA
 ---
 
 # [[UNECA]] 

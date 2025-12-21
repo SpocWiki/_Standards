@@ -3,23 +3,24 @@ aliases:
   - has work-location
   - workLocation
   - has_work_location
+  - has work location
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - work_location
   - work
   - location
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_work_location
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

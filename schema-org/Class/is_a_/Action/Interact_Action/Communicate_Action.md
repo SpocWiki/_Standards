@@ -4,20 +4,22 @@ aliases:
   - communicate_action
   - CommunicateAction
   - is_a_communicate_action
+  - Communicate_Action
+  - Communicate Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - communicate_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_communicate_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Manuscript
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Manuscript
-- class/Thing/CreativeWork/Manuscript
-- is_a_/Manuscript
-- schema-org/Manuscript
+  - class/Manuscript
+  - class/Thing/CreativeWork/Manuscript
+  - is_a_/Manuscript
+  - schema-org/Manuscript
 tags:
-- class/FileClass
-- class/Manuscript
-- is_a_/Manuscript
-- class/Thing/CreativeWork/Manuscript
+  - class/FileClass
+  - class/Manuscript
+  - is_a_/Manuscript
+  - class/Thing/CreativeWork/Manuscript
 version: 2.0
 ---
 

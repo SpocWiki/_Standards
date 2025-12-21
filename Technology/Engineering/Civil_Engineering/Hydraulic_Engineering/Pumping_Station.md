@@ -3,16 +3,18 @@ aliases:
   - Pumpwerk
   - Pumping stations
   - pumphouses
+  - Pumping_Station
+  - Pumping Station
 has_id_wikidata: Q446013
-has_part_s_: "[[_Standards/WikiData/WD~pump,134574]]"
-part_of: "[[_Standards/WikiData/WD~sewerage_pumping_station,336164]]"
+has_part_s_: '[[_Standards/WikiData/WD~pump,134574]]'
+part_of: '[[_Standards/WikiData/WD~sewerage_pumping_station,336164]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
-  - "[[_Standards/WikiData/WD~hydraulic_structure,2466889]]"
+  - '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+  - '[[_Standards/WikiData/WD~hydraulic_structure,2466889]]'
 properties_for_this_type: NGS pumping station ID
-Nomenclature_for_Museum_Cataloging: "836"
+Nomenclature_for_Museum_Cataloging: 836
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MelpomeneBasinPipes.jpg
-U_S_National_Archives_Identifier: "10642272"
+U_S_National_Archives_Identifier: 10642272
 Commons_category: Pumping stations
 ---
 

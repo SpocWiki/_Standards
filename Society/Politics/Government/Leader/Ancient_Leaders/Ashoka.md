@@ -1,7 +1,8 @@
 ---
 aliases:
-- Asoka
-- Aśoka
+  - Asoka
+  - Aśoka
+  - Ashoka
 ---
 
 ## #has_/text_of_/abstract 

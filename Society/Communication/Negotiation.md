@@ -1,25 +1,27 @@
 ---
+aliases:
+  - Negotiation
+has_id_wikidata: Q202875
 Commons_category: Negotiation
 described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from: '[[_Standards/WikiData/WD~Q11790475,11790475]]'
 has_goal: '[[_Standards/WikiData/WD~agreement,321839]]'
-has_id_wikidata: Q202875
 MeSH_tree_code:
-- F01.145.209.520
-- F01.829.401.520
-- F02.463.785.373.520
-- L01.143.620
-- N04.452.677.430
+  - F01.145.209.520
+  - F01.829.401.520
+  - F02.463.785.373.520
+  - L01.143.620
+  - N04.452.677.430
 OmegaWiki_Defined_Meaning: 419546
 practiced_by: '[[_Standards/WikiData/WD~negotiator,10335982]]'
-related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Negotiations%20about%20Iranian%20Nuclear%20Program%20-%20Foreign%20Ministers%20and%20other%20Officials%20of%20P5%2B1%20Iran%20and%20EU%20in%20Lausanne.jpg"
+related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Negotiations%20about%20Iranian%20Nuclear%20Program%20-%20Foreign%20Ministers%20and%20other%20Officials%20of%20P5%2B1%20Iran%20and%20EU%20in%20Lausanne.jpg
 studied_by:
-- '[[_Standards/WikiData/WD~interaction_science,97008347]]'
-- '[[_Standards/WikiData/WD~economics,8134]]'
+  - '[[_Standards/WikiData/WD~interaction_science,97008347]]'
+  - '[[_Standards/WikiData/WD~economics,8134]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~dialogue,131395]]'
-- '[[_Standards/WikiData/WD~activity,1914636]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~dialogue,131395]]'
+  - '[[_Standards/WikiData/WD~activity,1914636]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 uses: '[[_Standards/WikiData/WD~compromise,726686]]'
 U_S_National_Archives_Identifier: 10642225
 ---

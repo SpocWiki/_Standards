@@ -4,20 +4,22 @@ aliases:
   - payment_service
   - PaymentService
   - is_a_payment_service
+  - Payment_Service
+  - Payment Service
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - payment_service
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_payment_service Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -4,21 +4,23 @@ aliases:
   - on_site_pickup
   - OnSitePickup
   - is_an_on_site_pickup
+  - On_Site_Pickup
+  - On Site Pickup
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: DeliveryMethod
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - on_site_pickup
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_on_site_pickup Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,30 +1,32 @@
 ---
 aliases:
-  - "The Four Seasons (Italian: Le quattro stagioni"
+  - 'The Four Seasons (Italian: Le quattro stagioni'
+  - Four_Seasons(Concert)
+  - Four Seasons(Concert)
 has_id_wikidata: Q12016
 instrumentation:
-  - "[[_Standards/WikiData/WD~viola,80284]]"
-  - "[[_Standards/WikiData/WD~continuo_group,114237252]]"
-  - "[[_Standards/WikiData/WD~violin,8355]]"
-  - "[[_Standards/WikiData/WD~cello,8371]]"
+  - '[[_Standards/WikiData/WD~viola,80284]]'
+  - '[[_Standards/WikiData/WD~continuo_group,114237252]]'
+  - '[[_Standards/WikiData/WD~violin,8355]]'
+  - '[[_Standards/WikiData/WD~cello,8371]]'
 part_of: "[[_Standards/WikiData/WD~Il_cimento_dell'armonia_e_dell'inventione,_Op._8,2620450]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Concerto_No._1_in_E_major,_Op._8,_RV_269,47008342]]"
-  - "[[_Standards/WikiData/WD~Concerto_No._2_in_G_minor,_Op._8,_RV_315,47008540]]"
-  - "[[_Standards/WikiData/WD~Concerto_No._3_in_F_major,_Op._8,_RV_293,47008556]]"
-  - "[[_Standards/WikiData/WD~Concerto_No._4_in_F_minor,_Op._8,_RV_297,47008571]]"
-instance_of: "[[_Standards/WikiData/WD~musical_work_composition,105543609]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~cycle_of_violin_concerti,120206560]]"
+  - '[[_Standards/WikiData/WD~Concerto_No._1_in_E_major,_Op._8,_RV_269,47008342]]'
+  - '[[_Standards/WikiData/WD~Concerto_No._2_in_G_minor,_Op._8,_RV_315,47008540]]'
+  - '[[_Standards/WikiData/WD~Concerto_No._3_in_F_major,_Op._8,_RV_293,47008556]]'
+  - '[[_Standards/WikiData/WD~Concerto_No._4_in_F_minor,_Op._8,_RV_297,47008571]]'
+instance_of: '[[_Standards/WikiData/WD~musical_work_composition,105543609]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~cycle_of_violin_concerti,120206560]]'
 publication_date: 1725-01-01T00:00:00Z
-composer: "[[_Standards/WikiData/WD~Antonio_Vivaldi,1340]]"
-movement: "[[_Standards/WikiData/WD~Baroque_music,8361]]"
-genre: "[[_Standards/WikiData/WD~concerto,9748]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-inspired_by: "[[_Standards/WikiData/WD~season,24384]]"
-named_after: "[[_Standards/WikiData/WD~season,24384]]"
-country_of_origin: "[[_Standards/WikiData/WD~Italy,38]]"
+composer: '[[_Standards/WikiData/WD~Antonio_Vivaldi,1340]]'
+movement: '[[_Standards/WikiData/WD~Baroque_music,8361]]'
+genre: '[[_Standards/WikiData/WD~concerto,9748]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+inspired_by: '[[_Standards/WikiData/WD~season,24384]]'
+named_after: '[[_Standards/WikiData/WD~season,24384]]'
+country_of_origin: '[[_Standards/WikiData/WD~Italy,38]]'
 duration: 40
-opus_number: "8"
+opus_number: 8
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Vivaldi%2C%20Cimento%20dell%27%20Armonia%20e%20dell%27%20Inventione%2C%20Op.%208%2C%20ribro%20primo.png
 Commons_category: The Four Seasons (Vivaldi)
 title: Cimento dell'armonia e dell'inventione. N. 1.-4.

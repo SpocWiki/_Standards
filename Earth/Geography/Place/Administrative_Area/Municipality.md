@@ -1,33 +1,34 @@
 ---
 aliases:
   - Gemeinde
+  - Municipality
 has_id_wikidata: Q15284
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~parish,102496]]"
-  - "[[_Standards/WikiData/WD~opština,572975]]"
-  - "[[_Standards/WikiData/WD~concelho,1633408]]"
-  - "[[_Standards/WikiData/WD~obec,2183520]]"
-  - "[[_Standards/WikiData/WD~commune,3266850]]"
-  - "[[_Standards/WikiData/WD~local_government_area,3299260]]"
-  - "[[_Standards/WikiData/WD~local_government,6501447]]"
-has_part_s_: "[[_Standards/WikiData/WD~neighborhood,123705]]"
+  - '[[_Standards/WikiData/WD~parish,102496]]'
+  - '[[_Standards/WikiData/WD~opština,572975]]'
+  - '[[_Standards/WikiData/WD~concelho,1633408]]'
+  - '[[_Standards/WikiData/WD~obec,2183520]]'
+  - '[[_Standards/WikiData/WD~commune,3266850]]'
+  - '[[_Standards/WikiData/WD~local_government_area,3299260]]'
+  - '[[_Standards/WikiData/WD~local_government,6501447]]'
+has_part_s_: '[[_Standards/WikiData/WD~neighborhood,123705]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~human_settlement,486972]]"
-  - "[[_Standards/WikiData/WD~political_territorial_entity,1048835]]"
-  - "[[_Standards/WikiData/WD~government_organization,2659904]]"
-  - "[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
+  - '[[_Standards/WikiData/WD~human_settlement,486972]]'
+  - '[[_Standards/WikiData/WD~political_territorial_entity,1048835]]'
+  - '[[_Standards/WikiData/WD~government_organization,2659904]]'
+  - '[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]'
 different_from:
-  - "[[_Standards/WikiData/WD~special_purpose_district_of_the_United_States,610237]]"
-  - "[[_Standards/WikiData/WD~municipal_government,9305769]]"
-  - "[[_Standards/WikiData/WD~Gemeinde_(theology),56681885]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
+  - '[[_Standards/WikiData/WD~special_purpose_district_of_the_United_States,610237]]'
+  - '[[_Standards/WikiData/WD~municipal_government,9305769]]'
+  - '[[_Standards/WikiData/WD~Gemeinde_(theology),56681885]]'
+  - '[[_Standards/WikiData/WD~city,515]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Cities,5497514]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q8118767,8118767]]"
-instance_of: "[[_Standards/WikiData/WD~administrative_territorial_entity_type,15617994]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Cities,5497514]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q8118767,8118767]]'
+instance_of: '[[_Standards/WikiData/WD~administrative_territorial_entity_type,15617994]]'
 properties_for_this_type: Walk Score ID
 equivalent_class: http://kbpedia.org/kko/rc/Municipality
 GeoNames_feature_code: A.ADMD

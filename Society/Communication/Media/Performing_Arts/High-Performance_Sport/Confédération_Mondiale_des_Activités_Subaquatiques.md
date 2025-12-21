@@ -3,26 +3,27 @@ aliases:
   - Confédération Mondiale des Activités Subaquatiques
   - World Underwater Federation
   - CMAS
+  - Confédération_Mondiale_des_Activités_Subaquatiques
 has_id_wikidata: Q845773
 field_of_work:
-  - "[[_Standards/WikiData/WD~underwater_diving,179643]]"
-  - "[[_Standards/WikiData/WD~marine_ecology,4530312]]"
-  - "[[_Standards/WikiData/WD~water_sport,61065]]"
+  - '[[_Standards/WikiData/WD~underwater_diving,179643]]'
+  - '[[_Standards/WikiData/WD~marine_ecology,4530312]]'
+  - '[[_Standards/WikiData/WD~water_sport,61065]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Association_of_IOC_Recognised_International_Sports_Federations,744105]]"
-  - "[[_Standards/WikiData/WD~Global_Association_of_International_Sports_Federations,1067053]]"
-sport: "[[_Standards/WikiData/WD~underwater_sports,2369170]]"
-instance_of: "[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]"
+  - '[[_Standards/WikiData/WD~Association_of_IOC_Recognised_International_Sports_Federations,744105]]'
+  - '[[_Standards/WikiData/WD~Global_Association_of_International_Sports_Federations,1067053]]'
+sport: '[[_Standards/WikiData/WD~underwater_sports,2369170]]'
+instance_of: '[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]'
 operating_area:
-  - "[[_Standards/WikiData/WD~worldwide,13780930]]"
-  - "[[_Standards/WikiData/WD~Earth,2]]"
+  - '[[_Standards/WikiData/WD~worldwide,13780930]]'
+  - '[[_Standards/WikiData/WD~Earth,2]]'
 official_language:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-partnership_with: "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+partnership_with: '[[_Standards/WikiData/WD~UNESCO,7809]]'
 social_media_followers: 10000
-headquarters_locations: "[[_Standards/WikiData/WD~Rome,220]]"
+headquarters_locations: '[[_Standards/WikiData/WD~Rome,220]]'
 inception: 1959-01-01T00:00:00Z
 short_name: CMAS
 official_website: http://www.cmas.org/

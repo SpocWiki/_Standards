@@ -2,18 +2,19 @@
 aliases:
   - Inventors
   - Erfinder
+  - Inventor
 has_id_wikidata: Q205375
 subclass_of:
-  - "[[_Standards/WikiData/WD~engineer,81096]]"
-  - "[[_Standards/WikiData/WD~creator,2500638]]"
+  - '[[_Standards/WikiData/WD~engineer,81096]]'
+  - '[[_Standards/WikiData/WD~creator,2500638]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~occupation,12737077]]"
-  - "[[_Standards/WikiData/WD~profession,28640]]"
+  - '[[_Standards/WikiData/WD~occupation,12737077]]'
+  - '[[_Standards/WikiData/WD~profession,28640]]'
 field_of_this_occupation:
-  - "[[_Standards/WikiData/WD~invention,14208553]]"
-  - "[[_Standards/WikiData/WD~invention,108696953]]"
-category_for_eponymous_categories: "[[_Standards/WikiData/WD~Q59522191,59522191]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+  - '[[_Standards/WikiData/WD~invention,14208553]]'
+  - '[[_Standards/WikiData/WD~invention,108696953]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59522191,59522191]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 Wikidata_property: discoverer or inventor
 IMDb_keyword: inventor
 female_form_of_label:
@@ -62,7 +63,7 @@ male_form_of_label:
 Commons_category: Inventors
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dave%20Warren%20with%20BlackBox%20Prototype.jpg
 Provenio_UUID: 1b6c98ab-06d5-4570-a491-3ca3738c4f32
-P8189: "987007558178805171"
+P8189: 987007558178805171
 UMLS_CUI: C3494258
 MeSH_tree_code: M01.526.493
 ---

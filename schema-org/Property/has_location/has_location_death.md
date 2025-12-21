@@ -4,21 +4,22 @@ aliases:
   - death_place
   - deathPlace
   - has_location_death
+  - has location death
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - death_place
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_death
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

@@ -4,22 +4,23 @@ aliases:
   - acriss_code
   - acrissCode
   - has_code_acriss
+  - has code acriss
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - acriss
   - code
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_code_acriss
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

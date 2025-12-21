@@ -4,12 +4,14 @@ aliases:
   - health_plan_pharmacy_category
   - healthPlanPharmacyCategory
   - has_text_of_health_plan_pharmacy_category
+  - has_health_plan_pharmacy_category
+  - has health plan pharmacy category
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +19,11 @@ keywords:
   - plan
   - pharmacy
   - category
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_health_plan_pharmacy_category
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

@@ -1,9 +1,11 @@
 ---
 aliases:
-  - galaxy group 
-  - galaxy groups 
+  - galaxy group
+  - galaxy groups
   - group of galaxies
   - groups of galaxies
+  - Galaxy_Group
+  - Galaxy Group
 has_id_wikidata: Q1491746
 ---
 

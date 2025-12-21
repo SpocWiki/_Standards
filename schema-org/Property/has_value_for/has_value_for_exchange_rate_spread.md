@@ -4,21 +4,22 @@ aliases:
   - exchange-rate-spread
   - exchangeRateSpread
   - has_value_for_exchange_rate_spread
+  - has value for exchange rate spread
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - exchange-rate-spread
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_exchange-rate-spread
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

@@ -3,21 +3,22 @@ aliases:
   - transit
   - occultation
   - occlusion
+  - Occultation
 has_id_wikidata: Q202746
 different_from:
-  - "[[_Standards/WikiData/WD~occultism,178934]]"
-  - "[[_Standards/WikiData/WD~auscultation,779054]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-subclass_of: "[[_Standards/WikiData/WD~syzygy,13567909]]"
+  - '[[_Standards/WikiData/WD~occultism,178934]]'
+  - '[[_Standards/WikiData/WD~auscultation,779054]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+subclass_of: '[[_Standards/WikiData/WD~syzygy,13567909]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~asteroidal_occultation,21652154]]"
-  - "[[_Standards/WikiData/WD~Occultation_by_the_Moon,125399308]]"
-  - "[[_Standards/WikiData/WD~Q125399406,125399406]]"
-  - "[[_Standards/WikiData/WD~Q125399428,125399428]]"
-has_cause: "[[_Standards/WikiData/WD~visual_obstruction,111081764]]"
-studied_by: "[[_Standards/WikiData/WD~Q125399444,125399444]]"
+  - '[[_Standards/WikiData/WD~asteroidal_occultation,21652154]]'
+  - '[[_Standards/WikiData/WD~Occultation_by_the_Moon,125399308]]'
+  - '[[_Standards/WikiData/WD~Q125399406,125399406]]'
+  - '[[_Standards/WikiData/WD~Q125399428,125399428]]'
+has_cause: '[[_Standards/WikiData/WD~visual_obstruction,111081764]]'
+studied_by: '[[_Standards/WikiData/WD~Q125399444,125399444]]'
 Commons_category: Occultation
-U_S_National_Archives_Identifier: "10645094"
+U_S_National_Archives_Identifier: 10645094
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dione%20Rhea%20Occultation.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/HD%2071567.webm
 ---

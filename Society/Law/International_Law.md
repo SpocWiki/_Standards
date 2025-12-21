@@ -3,47 +3,49 @@ aliases:
   - public international law
   - international law
   - law of nations
+  - International_Law
+  - International Law
 has_id_wikidata: Q4394526
 has_part_s_:
-  - "[[_Standards/WikiData/WD~self_determination,156595]]"
-  - "[[_Standards/WikiData/WD~succession_of_states,1054283]]"
-  - "[[_Standards/WikiData/WD~private_international_law,1733207]]"
-  - "[[_Standards/WikiData/WD~public_international_law,6406743]]"
-  - "[[_Standards/WikiData/WD~international_military_law,130240754]]"
-facet_of: "[[_Standards/WikiData/WD~international_relations,166542]]"
+  - '[[_Standards/WikiData/WD~self_determination,156595]]'
+  - '[[_Standards/WikiData/WD~succession_of_states,1054283]]'
+  - '[[_Standards/WikiData/WD~private_international_law,1733207]]'
+  - '[[_Standards/WikiData/WD~public_international_law,6406743]]'
+  - '[[_Standards/WikiData/WD~international_military_law,130240754]]'
+facet_of: '[[_Standards/WikiData/WD~international_relations,166542]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~legal_system,858700]]"
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~area_of_law,1756157]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~type_of_law,63718619]]"
+  - '[[_Standards/WikiData/WD~legal_system,858700]]'
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~area_of_law,1756157]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~type_of_law,63718619]]'
 different_from:
-  - "[[_Standards/WikiData/WD~private_international_law,1733207]]"
-  - "[[_Standards/WikiData/WD~liberal_international_order,6540844]]"
-  - "[[_Standards/WikiData/WD~world_law,134369650]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_international_law,5868434]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~United_Nations_General_Assembly_Resolution_2625,7888403]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q14336733,14336733]]"
+  - '[[_Standards/WikiData/WD~private_international_law,1733207]]'
+  - '[[_Standards/WikiData/WD~liberal_international_order,6540844]]'
+  - '[[_Standards/WikiData/WD~world_law,134369650]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_international_law,5868434]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~United_Nations_General_Assembly_Resolution_2625,7888403]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q14336733,14336733]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~international_law_scholar,14866863]]"
-  - "[[_Standards/WikiData/WD~international_lawyer,128304064]]"
-part_of: "[[_Standards/WikiData/WD~international_and_comparative_law,113212643]]"
-subclass_of: "[[_Standards/WikiData/WD~law,7748]]"
-OmegaWiki_Defined_Meaning: "1997"
-Universal_Decimal_Classification: "341"
-Dewey_Decimal_Classification: "341"
+  - '[[_Standards/WikiData/WD~international_law_scholar,14866863]]'
+  - '[[_Standards/WikiData/WD~international_lawyer,128304064]]'
+part_of: '[[_Standards/WikiData/WD~international_and_comparative_law,113212643]]'
+subclass_of: '[[_Standards/WikiData/WD~law,7748]]'
+OmegaWiki_Defined_Meaning: 1997
+Universal_Decimal_Classification: 341
+Dewey_Decimal_Classification: 341
 Library_of_Congress_Classification: KZ
 Commons_category: International law
-U_S_National_Archives_Identifier: "10640336"
+U_S_National_Archives_Identifier: 10640336
 UMLS_CUI: C4042791
 MeSH_tree_code:
   - I01.880.604.583.466

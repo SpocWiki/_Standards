@@ -1,95 +1,96 @@
 ---
 aliases:
   - Edson Arantes do Nascimento
+  - Pelé
 has_id_wikidata: Q12897
 member_of_sports_team:
-  - "[[_Standards/WikiData/WD~Santos_F.C.,80955]]"
+  - '[[_Standards/WikiData/WD~Santos_F.C.,80955]]'
   - "[[_Standards/WikiData/WD~Brazil_men's_national_football_team,83459]]"
-  - "[[_Standards/WikiData/WD~New_York_Cosmos,646135]]"
-  - "[[_Standards/WikiData/WD~Bauru_Atlético_Clube,2340403]]"
+  - '[[_Standards/WikiData/WD~New_York_Cosmos,646135]]'
+  - '[[_Standards/WikiData/WD~Bauru_Atlético_Clube,2340403]]'
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~association_football_player,937857]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~association_football_player,937857]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
 cause_of_death:
-  - "[[_Standards/WikiData/WD~colorectal_cancer,188874]]"
-  - "[[_Standards/WikiData/WD~multiple_organ_dysfunction_syndrome,1193870]]"
+  - '[[_Standards/WikiData/WD~colorectal_cancer,188874]]'
+  - '[[_Standards/WikiData/WD~multiple_organ_dysfunction_syndrome,1193870]]'
 position_played_on_team_speciality:
-  - "[[_Standards/WikiData/WD~midfielder,193592]]"
-  - "[[_Standards/WikiData/WD~forward,280658]]"
-different_from: "[[_Standards/WikiData/WD~Pele,225042]]"
+  - '[[_Standards/WikiData/WD~midfielder,193592]]'
+  - '[[_Standards/WikiData/WD~forward,280658]]'
+different_from: '[[_Standards/WikiData/WD~Pele,225042]]'
 award_received:
-  - "[[_Standards/WikiData/WD~South_American_Footballer_of_the_Year,259724]]"
-  - "[[_Standards/WikiData/WD~FIFA_Order_of_Merit,260377]]"
-  - "[[_Standards/WikiData/WD~FIFA_Presidential_Award,1388552]]"
-  - "[[_Standards/WikiData/WD~National_Order_of_Merit,2125378]]"
-  - "[[_Standards/WikiData/WD~Order_of_Rio_Branco,2628946]]"
-  - "[[_Standards/WikiData/WD~BBC_Sports_Personality_of_the_Year_Lifetime_Achievement_Award,2911692]]"
-  - "[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]"
-  - "[[_Standards/WikiData/WD~Marca_Leyenda,3820035]]"
-  - "[[_Standards/WikiData/WD~FWA_Tribute_Award,4311712]]"
-  - "[[_Standards/WikiData/WD~Llaves_de_la_Ciudad_de_Mexico,5664539]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
-  - "[[_Standards/WikiData/WD~honorary_citizen_of_Baltimore,15124393]]"
-  - "[[_Standards/WikiData/WD~Silver_Olympic_Order,15279723]]"
-  - "[[_Standards/WikiData/WD~World_Cup_Golden_Ball,17355204]]"
-  - "[[_Standards/WikiData/WD~Officer_of_the_Order_of_Ouissam_Alaouite,18669773]]"
-  - "[[_Standards/WikiData/WD~Laureus_Lifetime_Achievement_Award,42775357]]"
-  - "[[_Standards/WikiData/WD~Distinguished_Guest_of_Mexico_City,75731862]]"
+  - '[[_Standards/WikiData/WD~South_American_Footballer_of_the_Year,259724]]'
+  - '[[_Standards/WikiData/WD~FIFA_Order_of_Merit,260377]]'
+  - '[[_Standards/WikiData/WD~FIFA_Presidential_Award,1388552]]'
+  - '[[_Standards/WikiData/WD~National_Order_of_Merit,2125378]]'
+  - '[[_Standards/WikiData/WD~Order_of_Rio_Branco,2628946]]'
+  - '[[_Standards/WikiData/WD~BBC_Sports_Personality_of_the_Year_Lifetime_Achievement_Award,2911692]]'
+  - '[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]'
+  - '[[_Standards/WikiData/WD~Marca_Leyenda,3820035]]'
+  - '[[_Standards/WikiData/WD~FWA_Tribute_Award,4311712]]'
+  - '[[_Standards/WikiData/WD~Llaves_de_la_Ciudad_de_Mexico,5664539]]'
+  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+  - '[[_Standards/WikiData/WD~honorary_citizen_of_Baltimore,15124393]]'
+  - '[[_Standards/WikiData/WD~Silver_Olympic_Order,15279723]]'
+  - '[[_Standards/WikiData/WD~World_Cup_Golden_Ball,17355204]]'
+  - '[[_Standards/WikiData/WD~Officer_of_the_Order_of_Ouissam_Alaouite,18669773]]'
+  - '[[_Standards/WikiData/WD~Laureus_Lifetime_Achievement_Award,42775357]]'
+  - '[[_Standards/WikiData/WD~Distinguished_Guest_of_Mexico_City,75731862]]'
   - "[[_Standards/WikiData/WD~Ballon_d'Or_Dream_Team,101116082]]"
-  - "[[_Standards/WikiData/WD~Honorary_Knight_Commander_of_the_Order_of_the_British_Empire,104783495]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Xuxa,275939]]"
-ethnic_group: "[[_Standards/WikiData/WD~African_Brazilians,388315]]"
+  - '[[_Standards/WikiData/WD~Honorary_Knight_Commander_of_the_Order_of_the_British_Empire,104783495]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Xuxa,275939]]'
+ethnic_group: '[[_Standards/WikiData/WD~African_Brazilians,388315]]'
 child:
-  - "[[_Standards/WikiData/WD~Edson_Cholbi_Nascimento,612205]]"
-  - "[[_Standards/WikiData/WD~Sandra_Regina_Machado,10367575]]"
-league_or_competition: "[[_Standards/WikiData/WD~North_American_Soccer_League,1095556]]"
+  - '[[_Standards/WikiData/WD~Edson_Cholbi_Nascimento,612205]]'
+  - '[[_Standards/WikiData/WD~Sandra_Regina_Machado,10367575]]'
+league_or_competition: '[[_Standards/WikiData/WD~North_American_Soccer_League,1095556]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~professional_sport,1369650]]"
-  - "[[_Standards/WikiData/WD~association_football,2736]]"
-place_of_birth: "[[_Standards/WikiData/WD~Três_Corações,1439211]]"
-place_of_burial: "[[_Standards/WikiData/WD~Memorial_Necropole_Ecumenica,1615173]]"
-place_of_death: "[[_Standards/WikiData/WD~Albert_Einstein_Israelite_Hospital,1630439]]"
-father: "[[_Standards/WikiData/WD~Dondinho,2502098]]"
-handedness: "[[_Standards/WikiData/WD~right_handedness,3039938]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+  - '[[_Standards/WikiData/WD~professional_sport,1369650]]'
+  - '[[_Standards/WikiData/WD~association_football,2736]]'
+place_of_birth: '[[_Standards/WikiData/WD~Três_Corações,1439211]]'
+place_of_burial: '[[_Standards/WikiData/WD~Memorial_Necropole_Ecumenica,1615173]]'
+place_of_death: '[[_Standards/WikiData/WD~Albert_Einstein_Israelite_Hospital,1630439]]'
+father: '[[_Standards/WikiData/WD~Dondinho,2502098]]'
+handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Assíria_Nascimento,9635348]]"
-  - "[[_Standards/WikiData/WD~Marcia_Aoki,26155745]]"
-  - "[[_Standards/WikiData/WD~Rosemeri_dos_Reis_Cholbi,126869101]]"
-given_name: "[[_Standards/WikiData/WD~Edson,18697757]]"
-position_held: "[[_Standards/WikiData/WD~Minister_of_Sports_of_Brazil,24574297]]"
-family_name: "[[_Standards/WikiData/WD~do_Nascimento,28800668]]"
-first_family_name_in_Portuguese_name: "[[_Standards/WikiData/WD~Arantes,56246445]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Pelé,109416459]]"
+  - '[[_Standards/WikiData/WD~Assíria_Nascimento,9635348]]'
+  - '[[_Standards/WikiData/WD~Marcia_Aoki,26155745]]'
+  - '[[_Standards/WikiData/WD~Rosemeri_dos_Reis_Cholbi,126869101]]'
+given_name: '[[_Standards/WikiData/WD~Edson,18697757]]'
+position_held: '[[_Standards/WikiData/WD~Minister_of_Sports_of_Brazil,24574297]]'
+family_name: '[[_Standards/WikiData/WD~do_Nascimento,28800668]]'
+first_family_name_in_Portuguese_name: '[[_Standards/WikiData/WD~Arantes,56246445]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Pelé,109416459]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Zoca,116846389]]"
-  - "[[_Standards/WikiData/WD~Maria_Lusia_Nascimento,126869010]]"
-mother: "[[_Standards/WikiData/WD~Celeste_Arantes,126868954]]"
-honorific_suffix: "[[_Standards/WikiData/WD~KBE,135287497]]"
-employer: "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - '[[_Standards/WikiData/WD~Zoca,116846389]]'
+  - '[[_Standards/WikiData/WD~Maria_Lusia_Nascimento,126869010]]'
+mother: '[[_Standards/WikiData/WD~Celeste_Arantes,126868954]]'
+honorific_suffix: '[[_Standards/WikiData/WD~KBE,135287497]]'
+employer: '[[_Standards/WikiData/WD~United_Nations,1065]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Portuguese,5146]]"
-sport: "[[_Standards/WikiData/WD~association_football,2736]]"
-work_location: "[[_Standards/WikiData/WD~Brasília,2844]]"
-native_language: "[[_Standards/WikiData/WD~Portuguese,5146]]"
-named_after: "[[_Standards/WikiData/WD~Thomas_Edison,8743]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_for_sport: "[[_Standards/WikiData/WD~Brazil,155]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Brazil,155]]"
+  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Portuguese,5146]]'
+sport: '[[_Standards/WikiData/WD~association_football,2736]]'
+work_location: '[[_Standards/WikiData/WD~Brasília,2844]]'
+native_language: '[[_Standards/WikiData/WD~Portuguese,5146]]'
+named_after: '[[_Standards/WikiData/WD~Thomas_Edison,8743]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_for_sport: '[[_Standards/WikiData/WD~Brazil,155]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Brazil,155]]'
 number_of_matches_played_races_starts: 3
 total_goals_in_career: 7
 number_of_children: 7
 mass: 74
 height: 173
-sport_number: "10"
+sport_number: 10
 Instagram_username: pele
 Libris_URI: rp356jv90c69q90
 Krugosvet_article_archived_: sport/PELE.html
@@ -109,9 +110,9 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Firma%20de%20Pel%C
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pele%20con%20brasil%20%28cropped%29.jpg
 official_website: https://www.pele10.org
 ISNI:
-  - "0000000120266189"
-  - "0000000368628681"
-Munzinger_Sport_number: "01000003272"
+  - 0000000120266189
+  - 0000000368628681
+Munzinger_Sport_number: 01000003272
 ---
 
 # [[Pelé]] 

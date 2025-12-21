@@ -2,22 +2,23 @@
 aliases:
   - taws
   - Murmel
+  - Marble(Toy)
 has_id_wikidata: Q200199
-has_characteristic: "[[_Standards/WikiData/WD~stiffness,569057]]"
+has_characteristic: '[[_Standards/WikiData/WD~stiffness,569057]]'
 has_use:
-  - "[[_Standards/WikiData/WD~marble_run,655039]]"
-  - "[[_Standards/WikiData/WD~marbles_game,63607682]]"
+  - '[[_Standards/WikiData/WD~marble_run,655039]]'
+  - '[[_Standards/WikiData/WD~marbles_game,63607682]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-different_from: "[[_Standards/WikiData/WD~Marble_game,134571639]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~Marble_game,134571639]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~toy,11422]]"
-  - "[[_Standards/WikiData/WD~ball,18545]]"
-made_from_material: "[[_Standards/WikiData/WD~glass,11469]]"
-shape: "[[_Standards/WikiData/WD~sphere,12507]]"
+  - '[[_Standards/WikiData/WD~toy,11422]]'
+  - '[[_Standards/WikiData/WD~ball,18545]]'
+made_from_material: '[[_Standards/WikiData/WD~glass,11469]]'
+shape: '[[_Standards/WikiData/WD~sphere,12507]]'
 height: 2
-Nomenclature_for_Museum_Cataloging: "14236"
+Nomenclature_for_Museum_Cataloging: 14236
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/JM%20marbles%2001.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Biglie.jpg

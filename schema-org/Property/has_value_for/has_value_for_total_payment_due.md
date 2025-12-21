@@ -4,21 +4,22 @@ aliases:
   - total-payment-due
   - totalPaymentDue
   - has_value_for_total_payment_due
+  - has value for total payment due
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - total-payment-due
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_total-payment-due
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

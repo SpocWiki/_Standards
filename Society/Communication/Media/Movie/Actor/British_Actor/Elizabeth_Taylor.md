@@ -3,133 +3,134 @@ aliases:
   - Dame Elizabeth Rosemond Taylor
   - Elizabeth Rosemond Taylor
   - Elizabeth Taylor
+  - Elizabeth_Taylor
 has_id_wikidata: Q34851
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]"
-  - "[[_Standards/WikiData/WD~Tony_Award_for_Best_Actress_in_a_Play,185299]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actress_in_a_Play,185299]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]"
-  - "[[_Standards/WikiData/WD~Jean_Hersholt_Humanitarian_Award,202051]]"
-  - "[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]"
-  - "[[_Standards/WikiData/WD~Silver_Bear_for_Best_Actress,376834]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_Motion_Picture_Drama,463085]]"
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Leading_Role,687123]]"
-  - "[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]"
-  - "[[_Standards/WikiData/WD~Britannia_Awards,849771]]"
-  - "[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Actress,1419495]]"
-  - "[[_Standards/WikiData/WD~Presidential_Citizens_Medal,1582967]]"
-  - "[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]"
-  - "[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]"
-  - "[[_Standards/WikiData/WD~GLAAD_Vanguard_Award,5513594]]"
-  - "[[_Standards/WikiData/WD~Marian_Anderson_Award,6761828]]"
-  - "[[_Standards/WikiData/WD~Hasty_Pudding_Woman_of_the_Year,10294045]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
-  - "[[_Standards/WikiData/WD~Dame_Commander_of_the_Order_of_the_British_Empire,12201434]]"
-  - "[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Theatre_World_Special_Award,28007416]]"
-  - "[[_Standards/WikiData/WD~Crystal_Award,56085709]]"
-  - "[[_Standards/WikiData/WD~Jane_Fonda_Humanitarian_Award,133176391]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+  - '[[_Standards/WikiData/WD~Jean_Hersholt_Humanitarian_Award,202051]]'
+  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+  - '[[_Standards/WikiData/WD~Silver_Bear_for_Best_Actress,376834]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_Motion_Picture_Drama,463085]]'
+  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Leading_Role,687123]]'
+  - '[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]'
+  - '[[_Standards/WikiData/WD~Britannia_Awards,849771]]'
+  - '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Actress,1419495]]'
+  - '[[_Standards/WikiData/WD~Presidential_Citizens_Medal,1582967]]'
+  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]'
+  - '[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]'
+  - '[[_Standards/WikiData/WD~GLAAD_Vanguard_Award,5513594]]'
+  - '[[_Standards/WikiData/WD~Marian_Anderson_Award,6761828]]'
+  - '[[_Standards/WikiData/WD~Hasty_Pudding_Woman_of_the_Year,10294045]]'
+  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+  - '[[_Standards/WikiData/WD~Dame_Commander_of_the_Order_of_the_British_Empire,12201434]]'
+  - '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~Theatre_World_Special_Award,28007416]]'
+  - '[[_Standards/WikiData/WD~Crystal_Award,56085709]]'
+  - '[[_Standards/WikiData/WD~Jane_Fonda_Humanitarian_Award,133176391]]'
 relative:
-  - "[[_Standards/WikiData/WD~Carrie_Fisher,108941]]"
-  - "[[_Standards/WikiData/WD~Kate_Burton,460457]]"
-  - "[[_Standards/WikiData/WD~Mike_Todd,_Jr.,6849057]]"
-  - "[[_Standards/WikiData/WD~Todd_Fisher,7812365]]"
-  - "[[_Standards/WikiData/WD~Jessica_Burton,14955467]]"
-  - "[[_Standards/WikiData/WD~Virginia_Warner,75788763]]"
-  - "[[_Standards/WikiData/WD~John_William_Warner_IV,75788765]]"
-  - "[[_Standards/WikiData/WD~Mary_Warner,75788768]]"
-place_of_birth: "[[_Standards/WikiData/WD~Hampstead_Garden_Suburb,150195]]"
+  - '[[_Standards/WikiData/WD~Carrie_Fisher,108941]]'
+  - '[[_Standards/WikiData/WD~Kate_Burton,460457]]'
+  - '[[_Standards/WikiData/WD~Mike_Todd,_Jr.,6849057]]'
+  - '[[_Standards/WikiData/WD~Todd_Fisher,7812365]]'
+  - '[[_Standards/WikiData/WD~Jessica_Burton,14955467]]'
+  - '[[_Standards/WikiData/WD~Virginia_Warner,75788763]]'
+  - '[[_Standards/WikiData/WD~John_William_Warner_IV,75788765]]'
+  - '[[_Standards/WikiData/WD~Mary_Warner,75788768]]'
+place_of_birth: '[[_Standards/WikiData/WD~Hampstead_Garden_Suburb,150195]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Richard_Burton,151973]]"
-  - "[[_Standards/WikiData/WD~Mike_Todd,240566]]"
-  - "[[_Standards/WikiData/WD~Eddie_Fisher,363708]]"
-  - "[[_Standards/WikiData/WD~John_Warner,464810]]"
-  - "[[_Standards/WikiData/WD~Conrad_Hilton,_Jr.,1126952]]"
-  - "[[_Standards/WikiData/WD~Michael_Wilding,1385992]]"
-  - "[[_Standards/WikiData/WD~Larry_Fortensky,1806057]]"
+  - '[[_Standards/WikiData/WD~Richard_Burton,151973]]'
+  - '[[_Standards/WikiData/WD~Mike_Todd,240566]]'
+  - '[[_Standards/WikiData/WD~Eddie_Fisher,363708]]'
+  - '[[_Standards/WikiData/WD~John_Warner,464810]]'
+  - '[[_Standards/WikiData/WD~Conrad_Hilton,_Jr.,1126952]]'
+  - '[[_Standards/WikiData/WD~Michael_Wilding,1385992]]'
+  - '[[_Standards/WikiData/WD~Larry_Fortensky,1806057]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Elizabeth,385468]]"
-  - "[[_Standards/WikiData/WD~Rosemond,107332496]]"
-different_from: "[[_Standards/WikiData/WD~Betty_Taylor,462995]]"
-honorific_prefix: "[[_Standards/WikiData/WD~Dame,901407]]"
+  - '[[_Standards/WikiData/WD~Elizabeth,385468]]'
+  - '[[_Standards/WikiData/WD~Rosemond,107332496]]'
+different_from: '[[_Standards/WikiData/WD~Betty_Taylor,462995]]'
+honorific_prefix: '[[_Standards/WikiData/WD~Dame,901407]]'
 medical_condition:
-  - "[[_Standards/WikiData/WD~benign_neoplasm,1417240]]"
-  - "[[_Standards/WikiData/WD~pneumonia,12192]]"
-place_of_burial: "[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1437214]]"
+  - '[[_Standards/WikiData/WD~benign_neoplasm,1417240]]'
+  - '[[_Standards/WikiData/WD~pneumonia,12192]]'
+place_of_burial: '[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1437214]]'
 child:
-  - "[[_Standards/WikiData/WD~Michael_Wilding_Jr.,1929817]]"
-  - "[[_Standards/WikiData/WD~Liza_Todd,14955489]]"
-  - "[[_Standards/WikiData/WD~Maria_Burton,14955495]]"
-  - "[[_Standards/WikiData/WD~Christopher_Wilding,75788353]]"
+  - '[[_Standards/WikiData/WD~Michael_Wilding_Jr.,1929817]]'
+  - '[[_Standards/WikiData/WD~Liza_Todd,14955489]]'
+  - '[[_Standards/WikiData/WD~Maria_Burton,14955495]]'
+  - '[[_Standards/WikiData/WD~Christopher_Wilding,75788353]]'
 occupation:
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~art_collector,10732476]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~philanthropist,12362622]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~HIV_AIDS_activist,96034777]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-hair_color: "[[_Standards/WikiData/WD~brown_hair,2367101]]"
-influenced_by: "[[_Standards/WikiData/WD~Marianne_Williamson,3131983]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-filmography: "[[_Standards/WikiData/WD~Elizabeth_Taylor_filmography,5363608]]"
-father: "[[_Standards/WikiData/WD~Francis_Lenn_Taylor,5481721]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-mother: "[[_Standards/WikiData/WD~Sara_Sothern,7421777]]"
-position_held: "[[_Standards/WikiData/WD~Dame_Commander_of_the_Order_of_the_British_Empire,12201434]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]"
-family_name: "[[_Standards/WikiData/WD~Taylor,15080511]]"
-significant_person: "[[_Standards/WikiData/WD~Howard_Young,18704505]]"
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~art_collector,10732476]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~philanthropist,12362622]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~HIV_AIDS_activist,96034777]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+hair_color: '[[_Standards/WikiData/WD~brown_hair,2367101]]'
+influenced_by: '[[_Standards/WikiData/WD~Marianne_Williamson,3131983]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+filmography: '[[_Standards/WikiData/WD~Elizabeth_Taylor_filmography,5363608]]'
+father: '[[_Standards/WikiData/WD~Francis_Lenn_Taylor,5481721]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+mother: '[[_Standards/WikiData/WD~Sara_Sothern,7421777]]'
+position_held: '[[_Standards/WikiData/WD~Dame_Commander_of_the_Order_of_the_British_Empire,12201434]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
+family_name: '[[_Standards/WikiData/WD~Taylor,15080511]]'
+significant_person: '[[_Standards/WikiData/WD~Howard_Young,18704505]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Portrait_of_a_man_leaning_over_the_back_of_a_chair,18857161]]"
-  - "[[_Standards/WikiData/WD~Elizabeth_Taylor_collection,106361600]]"
-cause_of_death: "[[_Standards/WikiData/WD~congestive_heart_failure,19000661]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-eye_color: "[[_Standards/WikiData/WD~dark_blue,60172366]]"
+  - '[[_Standards/WikiData/WD~Portrait_of_a_man_leaning_over_the_back_of_a_chair,18857161]]'
+  - '[[_Standards/WikiData/WD~Elizabeth_Taylor_collection,106361600]]'
+cause_of_death: '[[_Standards/WikiData/WD~congestive_heart_failure,19000661]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+eye_color: '[[_Standards/WikiData/WD~dark_blue,60172366]]'
 notable_role:
-  - "[[_Standards/WikiData/WD~Martha,60607467]]"
-  - "[[_Standards/WikiData/WD~Desiree_Armfeldt,63882371]]"
-  - "[[_Standards/WikiData/WD~Velvet_Brown,109533894]]"
+  - '[[_Standards/WikiData/WD~Martha,60607467]]'
+  - '[[_Standards/WikiData/WD~Desiree_Armfeldt,63882371]]'
+  - '[[_Standards/WikiData/WD~Velvet_Brown,109533894]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-educated_at: "[[_Standards/WikiData/WD~Byron_House_School,97013303]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+educated_at: '[[_Standards/WikiData/WD~Byron_House_School,97013303]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
-  - "[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]"
-honorific_suffix: "[[_Standards/WikiData/WD~DBE,135287761]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
+  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+  - '[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]'
+honorific_suffix: '[[_Standards/WikiData/WD~DBE,135287761]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Christianity,5043]]"
-  - "[[_Standards/WikiData/WD~Judaism,9268]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Republican_Party,29468]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Christianity,5043]]'
+  - '[[_Standards/WikiData/WD~Judaism,9268]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-place_of_death: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
-work_locations: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+place_of_death: '[[_Standards/WikiData/WD~Los_Angeles,65]]'
+work_locations: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 number_of_children: 4
 height: 160
 Commons_gallery: Elizabeth Taylor
 Commons_category: Elizabeth Taylor
 social_media_followers: 266549
 Libris_URI: 64jlp4fq0cwbmjj
-ISNI: "0000000121244985"
+ISNI: 0000000121244985
 short_name: Elizabeth Taylor
-U_S_National_Archives_Identifier: "10582734"
+U_S_National_Archives_Identifier: 10582734
 work_period_start_: 1942-01-01T00:00:00Z
 work_period_end_: 2003-01-01T00:00:00Z
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth%20Taylor%20Grave.JPG
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth%20Taylor%20signature.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth%20Taylor%20with%20Kennedy%20award.jpg
 official_website: https://elizabethtaylor.com/
-RIA_Novosti_reference: "357041466"
+RIA_Novosti_reference: 357041466
 Plex_person_key: 5d77682554f42c001f8c25d6
 Instagram_username: elizabethtaylor
 X_Twitter_username: ElizabethTaylor

@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DefinedTermSet
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: 5mk1ep
-  name: HasDefinedTerm
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm')"
-  type: MultiFile
-  path: ''
+  - id: 5mk1ep
+    name: HasDefinedTerm
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DefinedTermSet
-- class/Thing/CreativeWork/DefinedTermSet
-- is_a_/DefinedTermSet
-- schema-org/DefinedTermSet
+  - class/DefinedTermSet
+  - class/Thing/CreativeWork/DefinedTermSet
+  - is_a_/DefinedTermSet
+  - schema-org/DefinedTermSet
 tags:
-- class/FileClass
-- class/DefinedTermSet
-- is_a_/DefinedTermSet
-- class/Thing/CreativeWork/DefinedTermSet
+  - class/FileClass
+  - class/DefinedTermSet
+  - is_a_/DefinedTermSet
+  - class/Thing/CreativeWork/DefinedTermSet
 version: 2.0
 ---
 

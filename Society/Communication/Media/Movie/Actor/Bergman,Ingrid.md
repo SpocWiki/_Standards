@@ -2,70 +2,71 @@
 aliases:
   - Ingrid Bergman
   - Ingrid_Bergman
+  - Bergman,Ingrid
 has_id_wikidata: Q43247
-religion_or_worldview: "[[_Standards/WikiData/WD~Lutheranism,75809]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Lutheranism,75809]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]"
-  - "[[_Standards/WikiData/WD~Tony_Award_for_Best_Actress_in_a_Play,185299]]"
-  - "[[_Standards/WikiData/WD~Honorary_César,727282]]"
-  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie,989447]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actress_in_a_Play,185299]]'
+  - '[[_Standards/WikiData/WD~Honorary_César,727282]]'
+  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie,989447]]'
   - "[[_Standards/WikiData/WD~Nastro_d'Argento_for_Best_Actress,3870555]]"
-  - "[[_Standards/WikiData/WD~Donaldson_Awards,5295360]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
+  - '[[_Standards/WikiData/WD~Donaldson_Awards,5295360]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]"
-residence: "[[_Standards/WikiData/WD~Beverly_Hills,127856]]"
-cause_of_death: "[[_Standards/WikiData/WD~breast_cancer,128581]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+residence: '[[_Standards/WikiData/WD~Beverly_Hills,127856]]'
+cause_of_death: '[[_Standards/WikiData/WD~breast_cancer,128581]]'
 child:
-  - "[[_Standards/WikiData/WD~Isabella_Rossellini,203840]]"
-  - "[[_Standards/WikiData/WD~Pia_Lindström,508325]]"
-  - "[[_Standards/WikiData/WD~Isotta_Ingrid_Rossellini,511483]]"
-field_of_work: "[[_Standards/WikiData/WD~acting,222749]]"
-place_of_burial: "[[_Standards/WikiData/WD~Norra_begravningsplatsen,252312]]"
+  - '[[_Standards/WikiData/WD~Isabella_Rossellini,203840]]'
+  - '[[_Standards/WikiData/WD~Pia_Lindström,508325]]'
+  - '[[_Standards/WikiData/WD~Isotta_Ingrid_Rossellini,511483]]'
+field_of_work: '[[_Standards/WikiData/WD~acting,222749]]'
+place_of_burial: '[[_Standards/WikiData/WD~Norra_begravningsplatsen,252312]]'
 notable_role:
-  - "[[_Standards/WikiData/WD~Anna_Anderson,285563]]"
-  - "[[_Standards/WikiData/WD~Golda_Meir,42992]]"
-given_name: "[[_Standards/WikiData/WD~Ingrid,903741]]"
+  - '[[_Standards/WikiData/WD~Anna_Anderson,285563]]'
+  - '[[_Standards/WikiData/WD~Golda_Meir,42992]]'
+given_name: '[[_Standards/WikiData/WD~Ingrid,903741]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Dramatens_elevskola,1255661]]"
-  - "[[_Standards/WikiData/WD~Palmgrenska_samskolan,10615472]]"
+  - '[[_Standards/WikiData/WD~Dramatens_elevskola,1255661]]'
+  - '[[_Standards/WikiData/WD~Palmgrenska_samskolan,10615472]]'
 significant_person:
-  - "[[_Standards/WikiData/WD~Gustaf_Molander,1365463]]"
-  - "[[_Standards/WikiData/WD~Karin_Swanström,4981607]]"
+  - '[[_Standards/WikiData/WD~Gustaf_Molander,1365463]]'
+  - '[[_Standards/WikiData/WD~Karin_Swanström,4981607]]'
 occupation:
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Ingrid_von_Rosen,4975453]]"
-  - "[[_Standards/WikiData/WD~Ingmar_Bergman,7546]]"
-unmarried_partner: "[[_Standards/WikiData/WD~John_Van_Eyssen,6261758]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-place_of_birth: "[[_Standards/WikiData/WD~Hedvig_Eleonora_parish,10519255]]"
-father: "[[_Standards/WikiData/WD~Justus_Bergman,21031757]]"
-family_name: "[[_Standards/WikiData/WD~Bergman,21489110]]"
-position_held: "[[_Standards/WikiData/WD~President_of_the_Jury_at_the_Cannes_Festival,23958341]]"
+  - '[[_Standards/WikiData/WD~Ingrid_von_Rosen,4975453]]'
+  - '[[_Standards/WikiData/WD~Ingmar_Bergman,7546]]'
+unmarried_partner: '[[_Standards/WikiData/WD~John_Van_Eyssen,6261758]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+place_of_birth: '[[_Standards/WikiData/WD~Hedvig_Eleonora_parish,10519255]]'
+father: '[[_Standards/WikiData/WD~Justus_Bergman,21031757]]'
+family_name: '[[_Standards/WikiData/WD~Bergman,21489110]]'
+position_held: '[[_Standards/WikiData/WD~President_of_the_Jury_at_the_Cannes_Festival,23958341]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Lars_Schmidt,48889254]]"
-  - "[[_Standards/WikiData/WD~Roberto_Rossellini,53003]]"
+  - '[[_Standards/WikiData/WD~Lars_Schmidt,48889254]]'
+  - '[[_Standards/WikiData/WD~Roberto_Rossellini,53003]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Svenskt_kvinnobiografiskt_lexikon,50395049]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~kulturgravar.se,75311703]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~Project_Svenskt_kvinnobiografiskt_lexikon,100741461]]"
-mother: "[[_Standards/WikiData/WD~Friedel_Adler,136337872]]"
+  - '[[_Standards/WikiData/WD~Svenskt_kvinnobiografiskt_lexikon,50395049]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~kulturgravar.se,75311703]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Project_Svenskt_kvinnobiografiskt_lexikon,100741461]]'
+mother: '[[_Standards/WikiData/WD~Friedel_Adler,136337872]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Swedish,9027]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_locations: "[[_Standards/WikiData/WD~Sweden,34]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Sweden,34]]"
-place_of_death: "[[_Standards/WikiData/WD~London,84]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Swedish,9027]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_locations: '[[_Standards/WikiData/WD~Sweden,34]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Sweden,34]]'
+place_of_death: '[[_Standards/WikiData/WD~London,84]]'
 height: 175
 name_in_native_language: Ingrid Bergman
 Commons_gallery: Ingrid Bergman
@@ -88,8 +89,8 @@ image:
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Ingrid%20Bergman%20signature.svg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Norra%2C%20Ingrid.JPG
 official_website: http://www.ingridbergman.com
-ISNI: "0000000110287904"
-U_S_National_Archives_Identifier: "10583107"
+ISNI: 0000000110287904
+U_S_National_Archives_Identifier: 10583107
 ---
 
 # [[Bergman,Ingrid]] 

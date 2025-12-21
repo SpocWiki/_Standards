@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~TrainReservation
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/TrainReservation
-- class/Thing/Intangible/Reservation/TrainReservation
-- is_a_/TrainReservation
-- schema-org/TrainReservation
+  - class/TrainReservation
+  - class/Thing/Intangible/Reservation/TrainReservation
+  - is_a_/TrainReservation
+  - schema-org/TrainReservation
 tags:
-- class/FileClass
-- class/TrainReservation
-- is_a_/TrainReservation
-- class/Thing/Intangible/Reservation/TrainReservation
+  - class/FileClass
+  - class/TrainReservation
+  - is_a_/TrainReservation
+  - class/Thing/Intangible/Reservation/TrainReservation
 version: 2.0
 ---
 

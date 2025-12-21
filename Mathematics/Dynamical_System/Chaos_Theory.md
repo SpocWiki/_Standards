@@ -1,14 +1,16 @@
 ---
 aliases:
   - Chaos-Theorie
+  - Chaos_Theory
+  - Chaos Theory
 has_id_wikidata: Q166314
 instance_of:
-  - "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-  - "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Chaos_theory,6869505]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-is_the_study_of: "[[_Standards/WikiData/WD~chaotic_system,29413888]]"
-practiced_by: "[[_Standards/WikiData/WD~chaotician,76574329]]"
+  - '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+  - '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Chaos_theory,6869505]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+is_the_study_of: '[[_Standards/WikiData/WD~chaotic_system,29413888]]'
+practiced_by: '[[_Standards/WikiData/WD~chaotician,76574329]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Duffing%20oscillator.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lorenz%20system%20r28%20s10%20b2-6666.png
 Stack_Exchange_tag:
@@ -16,7 +18,7 @@ Stack_Exchange_tag:
   - https://mathoverflow.net/tags/chaos
   - https://physics.stackexchange.com/tags/chaos-theory
   - https://stackoverflow.com/tags/chaos
-P8189: "987007284937105171"
+P8189: 987007284937105171
 Commons_category: Chaos theory
 Krugosvet_article: nauka_i_tehnika/matematika/HAOSA_TEORIYA.html
 ---

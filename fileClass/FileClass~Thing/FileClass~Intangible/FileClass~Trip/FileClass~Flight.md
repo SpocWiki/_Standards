@@ -1,93 +1,95 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Flight
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Trip
 fields:
-- id: qJkaES
-  name: Aircraft
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Product/Vehicle')"
-  type: MultiFile
-  path: ''
-- id: P4sjpB
-  name: ArrivalAirport
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place/CivicStructure/Airport')"
-  type: MultiFile
-  path: ''
-- id: fp6B1o
-  name: ArrivalGate
-  options: {}
-  type: Input
-  path: ''
-- id: 2CYrTV
-  name: ArrivalTerminal
-  options: {}
-  type: Input
-  path: ''
-- id: 2y2PFb
-  name: DepartureAirport
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place/CivicStructure/Airport')"
-  type: MultiFile
-  path: ''
-- id: JBOezd
-  name: DepartureGate
-  options: {}
-  type: Input
-  path: ''
-- id: gSL3r4
-  name: DepartureTerminal
-  options: {}
-  type: Input
-  path: ''
-- id: Nibyqt
-  name: EstimatedFlightDuration
-  options:
-    min: 0
-    max: 2359
-  type: Number
-  path: ''
-- id: wNIJ2i
-  name: FlightDistance
-  options: {}
-  type: Input
-  path: ''
-- id: 3BGaGQ
-  name: FlightNumber
-  options: {}
-  type: Input
-  path: ''
-- id: 8k6Ub4
-  name: MealService
-  options: {}
-  type: Input
-  path: ''
-- id: PJ8Dko
-  name: Seller
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: ZSoCIe
-  name: WebCheckinTime
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
+  - id: qJkaES
+    name: Aircraft
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product/Vehicle')
+    type: MultiFile
+    path: ''
+  - id: P4sjpB
+    name: ArrivalAirport
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/Airport')
+    type: MultiFile
+    path: ''
+  - id: fp6B1o
+    name: ArrivalGate
+    options: {}
+    type: Input
+    path: ''
+  - id: 2CYrTV
+    name: ArrivalTerminal
+    options: {}
+    type: Input
+    path: ''
+  - id: 2y2PFb
+    name: DepartureAirport
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/Airport')
+    type: MultiFile
+    path: ''
+  - id: JBOezd
+    name: DepartureGate
+    options: {}
+    type: Input
+    path: ''
+  - id: gSL3r4
+    name: DepartureTerminal
+    options: {}
+    type: Input
+    path: ''
+  - id: Nibyqt
+    name: EstimatedFlightDuration
+    options:
+      min: 0
+      max: 2359
+    type: Number
+    path: ''
+  - id: wNIJ2i
+    name: FlightDistance
+    options: {}
+    type: Input
+    path: ''
+  - id: 3BGaGQ
+    name: FlightNumber
+    options: {}
+    type: Input
+    path: ''
+  - id: 8k6Ub4
+    name: MealService
+    options: {}
+    type: Input
+    path: ''
+  - id: PJ8Dko
+    name: Seller
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: ZSoCIe
+    name: WebCheckinTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Flight
-- class/Thing/Intangible/Trip/Flight
-- is_a_/Flight
-- schema-org/Flight
+  - class/Flight
+  - class/Thing/Intangible/Trip/Flight
+  - is_a_/Flight
+  - schema-org/Flight
 tags:
-- class/FileClass
-- class/Flight
-- is_a_/Flight
-- class/Thing/Intangible/Trip/Flight
+  - class/FileClass
+  - class/Flight
+  - is_a_/Flight
+  - class/Thing/Intangible/Trip/Flight
 version: 2.0
 ---
 

@@ -4,21 +4,23 @@ aliases:
   - all_wheel_drive_configuration
   - AllWheelDriveConfiguration
   - is_an_all_wheel_drive_configuration
+  - All_Wheel_Drive_Configuration
+  - All Wheel Drive Configuration
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: DriveWheelConfigurationValue
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - all_wheel_drive_configuration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_all_wheel_drive_configuration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

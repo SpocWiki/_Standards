@@ -4,20 +4,21 @@ aliases:
   - located_in_subcellular_location
   - isLocatedInSubcellularLocation
   - is_located_in_subcellular_location
+  - is located in subcellular location
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
-layout:
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_located_in_subcellular_location
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

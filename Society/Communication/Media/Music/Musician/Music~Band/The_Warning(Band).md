@@ -1,6 +1,8 @@
 ---
 aliases:
-- "The Warning"
+  - The Warning
+  - The_Warning(Band)
+  - The Warning(Band)
 ---
 
 #has_/parts::  [[Villarreal Vélez,Daniela]] 

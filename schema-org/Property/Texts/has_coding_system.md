@@ -4,22 +4,24 @@ aliases:
   - coding_system
   - codingSystem
   - has_text_of_coding_system
+  - has_coding_system
+  - has coding system
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - coding
   - system
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_coding_system
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

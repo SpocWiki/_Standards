@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Gadolinium
+has_id_wikidata: Q1832
 atomic_number: 64
 canonical_SMILES: '[Gd]'
 CAS_Registry_Number: 7440-54-2
@@ -6,36 +9,35 @@ chemical_formula: Gd
 Commons_category: Gadolinium
 Commons_gallery: Gadolinium
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Jean_Charles_Galissard_de_Marignac,124045]]'
 DSSTOX_compound_identifier: DTXCID3017234
 EC_number: 231-162-2
 electronegativity: 1.2
 element_symbol: Gd
 Gmelin_number: 16286
-has_id_wikidata: Q1832
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gadolinium.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Gadolinium.jpg
 InChI: InChI=1S/Gd
 InChIKey: UIWYJDYFSGRHKR-UHFFFAOYSA-N
 instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-- 0.94
-- 1.05
+  - 0.94
+  - 1.05
 made_from_material:
-- '[[_Standards/WikiData/WD~lepersonnite-(Gd),1820045]]'
-- '[[_Standards/WikiData/WD~monazite-(Gd),116007092]]'
-- '[[_Standards/WikiData/WD~xenotime-(Gd),124538270]]'
+  - '[[_Standards/WikiData/WD~lepersonnite-(Gd),1820045]]'
+  - '[[_Standards/WikiData/WD~monazite-(Gd),116007092]]'
+  - '[[_Standards/WikiData/WD~xenotime-(Gd),124538270]]'
 mass: 157.249
 MeSH_tree_code:
-- D01.268.558.362.484
-- D01.552.550.399.484
+  - D01.268.558.362.484
+  - D01.552.550.399.484
 named_after: '[[_Standards/WikiData/WD~Johan_Gadolin,312571]]'
 OmegaWiki_Defined_Meaning: 156576
 part_of:
-- '[[_Standards/WikiData/WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+  - '[[_Standards/WikiData/WD~period_6,239813]]'
+  - '[[_Standards/WikiData/WD~lanthanide,19569]]'
 PubChem_CID: 23982
 SpocWebEntityId: 21960
 time_of_discovery_or_invention: 1880

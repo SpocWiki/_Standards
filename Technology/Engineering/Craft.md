@@ -1,27 +1,28 @@
 ---
 aliases:
   - Handwerk
+  - Craft
 has_id_wikidata: Q2207288
 instance_of:
-  - "[[../../WikiData/WD~work,268378]]"
-  - "[[_Standards/WikiData/WD~economic_concept,29028649]]"
+  - '[[../../WikiData/WD~work,268378]]'
+  - '[[_Standards/WikiData/WD~economic_concept,29028649]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-subclass_of: "[[_Standards/WikiData/WD~field_of_work,627436]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+subclass_of: '[[_Standards/WikiData/WD~field_of_work,627436]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~master_craftsman,1284709]]"
-  - "[[_Standards/WikiData/WD~artisan,1294787]]"
-  - "[[_Standards/WikiData/WD~skilled_trade,57260825]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q1925615,1925615]]"
-uses: "[[_Standards/WikiData/WD~crafting,53178539]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~skilled_trade,57260825]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
+  - '[[_Standards/WikiData/WD~master_craftsman,1284709]]'
+  - '[[_Standards/WikiData/WD~artisan,1294787]]'
+  - '[[_Standards/WikiData/WD~skilled_trade,57260825]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q1925615,1925615]]'
+uses: '[[_Standards/WikiData/WD~crafting,53178539]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~skilled_trade,57260825]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
 OpenStreetMap_key: craft
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Sausage%20production%20italy%2001.ogv
 Commons_gallery: Crafts

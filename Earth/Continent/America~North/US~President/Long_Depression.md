@@ -1,14 +1,15 @@
 ---
 aliases:
   - Long Depression
+  - Long_Depression
 has_id_wikidata: Q1417847
 instance_of:
-  - "[[../../../../WikiData/WD~recession,176494]]"
-  - "[[_Standards/WikiData/WD~depression,1814941]]"
+  - '[[../../../../WikiData/WD~recession,176494]]'
+  - '[[_Standards/WikiData/WD~depression,1814941]]'
 start_time: 1873-01-01T00:00:00Z
 location:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Europe,46]]'
 Commons_category: Long Depression
 ---
 

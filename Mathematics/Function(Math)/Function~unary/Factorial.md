@@ -1,27 +1,28 @@
 ---
 aliases:
   - Fakultät
+  - Factorial
 has_id_wikidata: Q120976
 studied_by:
-  - "[[_Standards/WikiData/WD~combinatorics,76592]]"
-  - "[[_Standards/WikiData/WD~number_theory,12479]]"
-different_from: "[[_Standards/WikiData/WD~gamma_function,190573]]"
+  - '[[_Standards/WikiData/WD~combinatorics,76592]]'
+  - '[[_Standards/WikiData/WD~number_theory,12479]]'
+different_from: '[[_Standards/WikiData/WD~gamma_function,190573]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~integer_sequence,2297602]]"
-  - "[[_Standards/WikiData/WD~integer_valued_function,19856468]]"
+  - '[[_Standards/WikiData/WD~integer_sequence,2297602]]'
+  - '[[_Standards/WikiData/WD~integer_valued_function,19856468]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251]]"
-  - "[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-codomain: "[[_Standards/WikiData/WD~set_of_non_negative_integers,28777634]]"
-definition_domain: "[[_Standards/WikiData/WD~set_of_non_negative_integers,28777634]]"
-input_set: "[[_Standards/WikiData/WD~set_of_integers,47007735]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251]]'
+  - '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+codomain: '[[_Standards/WikiData/WD~set_of_non_negative_integers,28777634]]'
+definition_domain: '[[_Standards/WikiData/WD~set_of_non_negative_integers,28777634]]'
+input_set: '[[_Standards/WikiData/WD~set_of_integers,47007735]]'
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>n</mi><mo stretchy="false">!</mo></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">&#x220F;</mo></mstyle></mrow></math>
 worst_case_space_complexity: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>O</mi><mo stretchy="false">(</mo><mn>1</mn><mo stretchy="false">)</mo></mstyle></mrow></math>
-OmegaWiki_Defined_Meaning: "405815"
+OmegaWiki_Defined_Meaning: 405815
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>n</mi><mo stretchy="false">!</mo><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mo data-mjx-texclass="OPEN">{</mo><mtable columnspacing="1em" rowspacing="4pt" columnalign="left left"><mtr><mtd><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x220F;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>k</mi><mo stretchy="false">=</mo><mn>1</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></munderover></mstyle><mi>k</mi></mtd><mtd><mi>n</mi><mo>&gt;</mo><mn>0</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mi>n</mi><mo stretchy="false">=</mo><mn>0</mn></mtd></mtr></mtable><mo fence="true" stretchy="true" symmetric="true" data-mjx-texclass="CLOSE"></mo></mrow></mstyle></mrow></math>
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Euler%20factorial%20paper.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Factorial%201-5.png

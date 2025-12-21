@@ -2,23 +2,24 @@
 aliases:
   - wódka
   - водка
+  - Vodka
 has_id_wikidata: Q374
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-different_from: "[[_Standards/WikiData/WD~Vodka,1184952]]"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~Vodka,1184952]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~drinking_water,7892]]"
-  - "[[_Standards/WikiData/WD~ethanol,153]]"
+  - '[[_Standards/WikiData/WD~drinking_water,7892]]'
+  - '[[_Standards/WikiData/WD~ethanol,153]]'
 country_of_origin:
-  - "[[_Standards/WikiData/WD~Sweden,34]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
+  - '[[_Standards/WikiData/WD~Sweden,34]]'
+  - '[[_Standards/WikiData/WD~Poland,36]]'
+  - '[[_Standards/WikiData/WD~Russia,159]]'
+  - '[[_Standards/WikiData/WD~Ukraine,212]]'
 alcohol_by_volume: 40
-subclass_of: "[[_Standards/WikiData/WD~liquor,56139]]"
+subclass_of: '[[_Standards/WikiData/WD~liquor,56139]]'
 Commons_gallery: Vodka
 Commons_category: Vodka
 subreddit: vodka
@@ -27,8 +28,8 @@ native_label:
   - во́дка
   - wódka
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Monopolowa%20Baczewski.JPG
-Amazon_com_browse_node: "15158378011"
-Dewey_Decimal_Classification: "641.25"
+Amazon_com_browse_node: 15158378011
+Dewey_Decimal_Classification: 641.25
 ---
 
 # [[Vodka]] 

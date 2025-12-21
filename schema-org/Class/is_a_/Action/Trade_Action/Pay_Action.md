@@ -4,20 +4,22 @@ aliases:
   - pay_action
   - PayAction
   - is_a_pay_action
+  - Pay_Action
+  - Pay Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - pay_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_pay_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

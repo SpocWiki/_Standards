@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Nassi–Shneiderman diagram"
+  - Nassi–Shneiderman diagram
+  - Structogram
 ---
 
 # [[Structogram]] 

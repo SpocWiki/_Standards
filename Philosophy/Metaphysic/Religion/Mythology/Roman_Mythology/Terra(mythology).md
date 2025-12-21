@@ -2,6 +2,7 @@
 aliases:
   - Tellus
   - Terra
+  - Terra(mythology)
 ---
 
 # [[Terra(mythology)]] 

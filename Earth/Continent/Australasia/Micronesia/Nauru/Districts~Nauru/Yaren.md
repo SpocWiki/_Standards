@@ -5,15 +5,15 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
+keywords: ''
 Languages:
   - de
-layout:
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 location:
   - -0.5477778
   - 166.9208
@@ -22,7 +22,7 @@ mapzoom:
   - 7
   - 12
 publish: true
-publishDate:
+publishDate: ''
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 36745
 tags:

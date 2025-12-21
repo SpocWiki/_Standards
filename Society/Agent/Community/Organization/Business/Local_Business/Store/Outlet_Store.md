@@ -4,20 +4,22 @@ aliases:
   - outlet_store
   - OutletStore
   - is_an_outlet_store
+  - Outlet_Store
+  - Outlet Store
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - outlet_store
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_outlet_store Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

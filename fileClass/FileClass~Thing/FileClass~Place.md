@@ -1,277 +1,279 @@
 ---
-bookmarksGroups: 
-excludes: 
+aliases:
+  - FileClass~Place
+bookmarksGroups: ''
+excludes: ''
 extends: FileClass~Thing
-favoriteView: 
+favoriteView: ''
 fields:
-- id: xDT69L
-  name: AdditionalProperty
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"
-  type: MultiFile
-  path: ''
-- id: khiDhm
-  name: has_place_address
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')"
-  type: MultiFile
-  path: ''
-- id: Kcv5pc
-  name: AggregateRating
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Rating/AggregateRating')"
-  type: MultiFile
-  path: ''
-- id: kbfIe4
-  name: AmenityFeature
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification')"
-  type: MultiFile
-  path: ''
-- id: CZ1Yjn
-  name: BranchCode
-  options: {}
-  type: Input
-  path: ''
-- id: PlvZrm
-  name: FaxNumber
-  options: {}
-  type: Input
-  path: ''
-- id: e87cuQ
-  name: Geo
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/GeoCoordinates')"
-  type: MultiFile
-  path: ''
-- id: 72bhFw
-  name: has_place_disjoint
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/GeospatialGeometry')"
-  type: MultiFile
-  path: ''
-- id: b6iLkX
-  name: has_places_equal
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/GeospatialGeometry')"
-  type: MultiFile
-  path: ''
-- id: akaKB4
-  name: has_place_overlapping
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/GeospatialGeometry')"
-  type: MultiFile
-  path: ''
-- id: g4KgNy
-  name: has_place_touching
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/GeospatialGeometry')"
-  type: MultiFile
-  path: ''
-- id: uwnmnP
-  name: has_place_within
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/GeospatialGeometry')"
-  type: MultiFile
-  path: ''
-- id: ojuihd
-  name: GlobalLocationNumber
-  options: {}
-  type: Input
-  path: ''
-- id: dihHaJ
-  name: has_place_drive_through_service
-  options: {}
-  type: Boolean
-  path: ''
-- id: JuttB1
-  name: has_place_map
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Map')"
-  type: MultiFile
-  path: ''
-- id: ZY9dJx
-  name: has_place_access_for_free
-  options: {}
-  type: Boolean
-  path: ''
-- id: EkdxFr
-  name: IsicV4
-  options: {}
-  type: Input
-  path: ''
-- id: aYs3i6
-  name: Keywords
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm')"
-  type: MultiFile
-  path: ''
-- id: PAXN7M
-  name: has_place_latitude
-  options: {}
-  type: Number
-  path: ''
-- id: ML2S8v
-  name: Logo
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"
-  type: MultiFile
-  path: ''
-- id: bQdwq5
-  name: has_place_longitude
-  options: {}
-  type: Number
-  path: ''
-- id: FXWp5z
-  name: MaximumAttendeeCapacity
-  options: {}
-  type: Number
-  path: ''
-- id: Q3LHXa
-  name: OpeningHoursSpecification
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')"
-  type: MultiFile
-  path: ''
-- id: zJ4x4m
-  name: Photo
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"
-  type: MultiFile
-  path: ''
-- id: 8QRKWA
-  name: has_place_access_public
-  options: {}
-  type: Boolean
-  path: ''
-- id: bPnNjc
-  name: Review
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Review')"
-  type: MultiFile
-  path: ''
-- id: J5eCFD
-  name: Slogan
-  options: {}
-  type: Input
-  path: ''
-- id: pLPhMF
-  name: has_place_smoking_allowed
-  options: {}
-  type: Boolean
-  path: ''
-- id: mPcr1A
-  name: SpecialOpeningHoursSpecification
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')"
-  type: MultiFile
-  path: ''
-- id: x9sihw
-  name: Telephone
-  options: {}
-  type: Input
-  path: ''
-- id: k0T9oW
-  name: TourBookingPage
-  options: {}
-  type: Input
-  path: ''
-- id: ceZqW2
-  name: has_event
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Event')"
-  type: MultiFile
-  path: ''
-- name: has_place_country
-  type: File
-  options: {}
-  path: ''
-  id: POdmJM
-- name: has_place_county
-  type: File
-  options: {}
-  path: ''
-  id: ay2Tgr
-- name: has_place_province
-  type: File
-  options: {}
-  path: ''
-  id: nV8JQQ
-- name: has_place_city
-  type: File
-  options: {}
-  path: ''
-  id: nMCnhZ
-- name: has_place_borough
-  type: File
-  options: {}
-  path: ''
-  id: BVSJ0j
-- name: has_place_elevation_meters
-  type: Number
-  options: {}
-  path: ''
-  id: pUfIqG
-- name: has_place_postal_code
-  type: Input
-  options: {}
-  path: ''
-  id: zq2d61
+  - id: xDT69L
+    name: AdditionalProperty
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
+    type: MultiFile
+    path: ''
+  - id: khiDhm
+    name: has_place_address
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
+    type: MultiFile
+    path: ''
+  - id: Kcv5pc
+    name: AggregateRating
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Rating/AggregateRating')
+    type: MultiFile
+    path: ''
+  - id: kbfIe4
+    name: AmenityFeature
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification')
+    type: MultiFile
+    path: ''
+  - id: CZ1Yjn
+    name: BranchCode
+    options: {}
+    type: Input
+    path: ''
+  - id: PlvZrm
+    name: FaxNumber
+    options: {}
+    type: Input
+    path: ''
+  - id: e87cuQ
+    name: Geo
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoCoordinates')
+    type: MultiFile
+    path: ''
+  - id: 72bhFw
+    name: has_place_disjoint
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ''
+  - id: b6iLkX
+    name: has_places_equal
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ''
+  - id: akaKB4
+    name: has_place_overlapping
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ''
+  - id: g4KgNy
+    name: has_place_touching
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ''
+  - id: uwnmnP
+    name: has_place_within
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ''
+  - id: ojuihd
+    name: GlobalLocationNumber
+    options: {}
+    type: Input
+    path: ''
+  - id: dihHaJ
+    name: has_place_drive_through_service
+    options: {}
+    type: Boolean
+    path: ''
+  - id: JuttB1
+    name: has_place_map
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Map')
+    type: MultiFile
+    path: ''
+  - id: ZY9dJx
+    name: has_place_access_for_free
+    options: {}
+    type: Boolean
+    path: ''
+  - id: EkdxFr
+    name: IsicV4
+    options: {}
+    type: Input
+    path: ''
+  - id: aYs3i6
+    name: Keywords
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ''
+  - id: PAXN7M
+    name: has_place_latitude
+    options: {}
+    type: Number
+    path: ''
+  - id: ML2S8v
+    name: Logo
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
+    type: MultiFile
+    path: ''
+  - id: bQdwq5
+    name: has_place_longitude
+    options: {}
+    type: Number
+    path: ''
+  - id: FXWp5z
+    name: MaximumAttendeeCapacity
+    options: {}
+    type: Number
+    path: ''
+  - id: Q3LHXa
+    name: OpeningHoursSpecification
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')
+    type: MultiFile
+    path: ''
+  - id: zJ4x4m
+    name: Photo
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
+    type: MultiFile
+    path: ''
+  - id: 8QRKWA
+    name: has_place_access_public
+    options: {}
+    type: Boolean
+    path: ''
+  - id: bPnNjc
+    name: Review
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+    type: MultiFile
+    path: ''
+  - id: J5eCFD
+    name: Slogan
+    options: {}
+    type: Input
+    path: ''
+  - id: pLPhMF
+    name: has_place_smoking_allowed
+    options: {}
+    type: Boolean
+    path: ''
+  - id: mPcr1A
+    name: SpecialOpeningHoursSpecification
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')
+    type: MultiFile
+    path: ''
+  - id: x9sihw
+    name: Telephone
+    options: {}
+    type: Input
+    path: ''
+  - id: k0T9oW
+    name: TourBookingPage
+    options: {}
+    type: Input
+    path: ''
+  - id: ceZqW2
+    name: has_event
+    options:
+      dvQueryString: dv.pages('#class/Thing/Event')
+    type: MultiFile
+    path: ''
+  - name: has_place_country
+    type: File
+    options: {}
+    path: ''
+    id: POdmJM
+  - name: has_place_county
+    type: File
+    options: {}
+    path: ''
+    id: ay2Tgr
+  - name: has_place_province
+    type: File
+    options: {}
+    path: ''
+    id: nV8JQQ
+  - name: has_place_city
+    type: File
+    options: {}
+    path: ''
+    id: nMCnhZ
+  - name: has_place_borough
+    type: File
+    options: {}
+    path: ''
+    id: BVSJ0j
+  - name: has_place_elevation_meters
+    type: Number
+    options: {}
+    path: ''
+    id: pUfIqG
+  - name: has_place_postal_code
+    type: Input
+    options: {}
+    path: ''
+    id: zq2d61
 fieldsOrder:
-- zq2d61
-- BVSJ0j
-- nMCnhZ
-- nV8JQQ
-- ay2Tgr
-- POdmJM
-- ceZqW2
-- k0T9oW
-- x9sihw
-- pLPhMF
-- 8QRKWA
-- ZY9dJx
-- J5eCFD
-- bPnNjc
-- zJ4x4m
-- mPcr1A
-- Q3LHXa
-- FXWp5z
-- pUfIqG
-- bQdwq5
-- PAXN7M
-- ML2S8v
-- aYs3i6
-- EkdxFr
-- JuttB1
-- dihHaJ
-- ojuihd
-- uwnmnP
-- g4KgNy
-- akaKB4
-- b6iLkX
-- 72bhFw
-- e87cuQ
-- PlvZrm
-- CZ1Yjn
-- kbfIe4
-- Kcv5pc
-- khiDhm
-- xDT69L
-filesPaths: 
+  - zq2d61
+  - BVSJ0j
+  - nMCnhZ
+  - nV8JQQ
+  - ay2Tgr
+  - POdmJM
+  - ceZqW2
+  - k0T9oW
+  - x9sihw
+  - pLPhMF
+  - 8QRKWA
+  - ZY9dJx
+  - J5eCFD
+  - bPnNjc
+  - zJ4x4m
+  - mPcr1A
+  - Q3LHXa
+  - FXWp5z
+  - pUfIqG
+  - bQdwq5
+  - PAXN7M
+  - ML2S8v
+  - aYs3i6
+  - EkdxFr
+  - JuttB1
+  - dihHaJ
+  - ojuihd
+  - uwnmnP
+  - g4KgNy
+  - akaKB4
+  - b6iLkX
+  - 72bhFw
+  - e87cuQ
+  - PlvZrm
+  - CZ1Yjn
+  - kbfIe4
+  - Kcv5pc
+  - khiDhm
+  - xDT69L
+filesPaths: ''
 icon: globe
 limit: 9
 mapWithTag: true
 savedViews: []
 tagNames:
-- class/Place
-- class/Thing/Place
-- is_a_/Place
-- schema-org/Place
+  - class/Place
+  - class/Thing/Place
+  - is_a_/Place
+  - schema-org/Place
 tags:
-- class/FileClass
-- class/Place
-- is_a_/Place
-- class/Thing/Place
+  - class/FileClass
+  - class/Place
+  - is_a_/Place
+  - class/Thing/Place
 version: 2.71
 ---
 

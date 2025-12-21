@@ -1,28 +1,29 @@
 ---
 aliases:
   - corundum
+  - Sapphire
 has_id_wikidata: Q127583
 subclass_of:
-  - "[[_Standards/WikiData/WD~gemstone,83437]]"
-  - "[[_Standards/WikiData/WD~corundum,131777]]"
-  - "[[_Standards/WikiData/WD~material,214609]]"
-  - "[[_Standards/WikiData/WD~precious_stone,4990682]]"
-has_part_s_: "[[_Standards/WikiData/WD~aluminium_oxide,177342]]"
-instance_of: "[[_Standards/WikiData/WD~mineral_variety,429795]]"
-crystal_system: "[[_Standards/WikiData/WD~trigonal_crystal_system,588274]]"
+  - '[[_Standards/WikiData/WD~gemstone,83437]]'
+  - '[[_Standards/WikiData/WD~corundum,131777]]'
+  - '[[_Standards/WikiData/WD~material,214609]]'
+  - '[[_Standards/WikiData/WD~precious_stone,4990682]]'
+has_part_s_: '[[_Standards/WikiData/WD~aluminium_oxide,177342]]'
+instance_of: '[[_Standards/WikiData/WD~mineral_variety,429795]]'
+crystal_system: '[[_Standards/WikiData/WD~trigonal_crystal_system,588274]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-different_from: "[[_Standards/WikiData/WD~Shafir,2777322]]"
-color: "[[_Standards/WikiData/WD~blue,1088]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~Shafir,2777322]]'
+color: '[[_Standards/WikiData/WD~blue,1088]]'
 Mohs_hardness: 9
 Commons_category: Sapphire
-OmegaWiki_Defined_Meaning: "526322"
+OmegaWiki_Defined_Meaning: 526322
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sapphire01.jpg
 CAS_Registry_Number: 1317-82-4
 MCN_code: 7103.91.00

@@ -1,28 +1,29 @@
 ---
 aliases:
-- id_issn
-- has_id_issn
-- "schema:issn"
-- "dbo:issn"
-- "wdt:P236"
+  - id_issn
+  - has_id_issn
+  - schema:issn
+  - dbo:issn
+  - wdt:P236
+  - has id issn
 confidential: public
 cssclasses:
-- Predicate
-- Text
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- id_issn
-layout: 
-license: "CC BY-SA 4.0"
+  - id_issn
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_id_issn
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_issn
 type: Pred_Text
 ---

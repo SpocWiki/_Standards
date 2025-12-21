@@ -2,6 +2,8 @@
 aliases:
   - G7
   - Group of Seven
+  - G7(Group_of_Seven)
+  - G7(Group of Seven)
 has_id_wikidata: Q1764511
 ---
 

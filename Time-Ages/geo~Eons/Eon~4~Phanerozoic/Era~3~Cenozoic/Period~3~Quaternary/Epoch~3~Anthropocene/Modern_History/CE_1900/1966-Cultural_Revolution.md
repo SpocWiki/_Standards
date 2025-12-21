@@ -1,17 +1,19 @@
 ---
 aliases:
   - Cultural Revolution, formally known as the Great Proletarian Cultural Revolution
+  - 1966-Cultural_Revolution
+  - 1966-Cultural Revolution
 has_id_wikidata: Q8690
 instance_of:
-  - "[[_Standards/WikiData/WD~culture_change,5193493]]"
-  - "[[_Standards/WikiData/WD~historical_event,13418847]]"
-  - "[[_Standards/WikiData/WD~cultural_revolution,119328980]]"
-  - "[[_Standards/WikiData/WD~revolution,10931]]"
+  - '[[_Standards/WikiData/WD~culture_change,5193493]]'
+  - '[[_Standards/WikiData/WD~historical_event,13418847]]'
+  - '[[_Standards/WikiData/WD~cultural_revolution,119328980]]'
+  - '[[_Standards/WikiData/WD~revolution,10931]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Cultural_Revolution,7743813]]"
-  - "[[_Standards/WikiData/WD~Q20690285,20690285]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-creator: "[[_Standards/WikiData/WD~Mao_Zedong,5816]]"
+  - '[[_Standards/WikiData/WD~Template_Cultural_Revolution,7743813]]'
+  - '[[_Standards/WikiData/WD~Q20690285,20690285]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+creator: '[[_Standards/WikiData/WD~Mao_Zedong,5816]]'
 country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 start_time: 1966-05-16T00:00:00Z
 end_time: 1976-10-06T00:00:00Z

@@ -1,22 +1,24 @@
 ---
 aliases:
   - The_Times_of_India
+  - Times_of_India
+  - Times of India
 has_id_wikidata: Q46807
-newspaper_format: "[[_Standards/WikiData/WD~broadsheet,665319]]"
-political_alignment: "[[_Standards/WikiData/WD~centre,844072]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~The_Times_Group,972645]]"
-owned_by: "[[_Standards/WikiData/WD~The_Times_Group,972645]]"
-owner_of: "[[_Standards/WikiData/WD~Indiatimes_shopping,17056167]]"
-different_from: "[[_Standards/WikiData/WD~Times_of_India,124536816]]"
+newspaper_format: '[[_Standards/WikiData/WD~broadsheet,665319]]'
+political_alignment: '[[_Standards/WikiData/WD~centre,844072]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~The_Times_Group,972645]]'
+owned_by: '[[_Standards/WikiData/WD~The_Times_Group,972645]]'
+owner_of: '[[_Standards/WikiData/WD~Indiatimes_shopping,17056167]]'
+different_from: '[[_Standards/WikiData/WD~Times_of_India,124536816]]'
 inception:
   - 1898-01-01T00:00:00Z
   - 1838-01-01T00:00:00Z
-country_of_origin: "[[_Standards/WikiData/WD~India,668]]"
-country: "[[_Standards/WikiData/WD~India,668]]"
-headquarters_location: "[[_Standards/WikiData/WD~Mumbai,1156]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
+country_of_origin: '[[_Standards/WikiData/WD~India,668]]'
+country: '[[_Standards/WikiData/WD~India,668]]'
+headquarters_location: '[[_Standards/WikiData/WD~Mumbai,1156]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
 main_Wikidata_property: The Times of India topic ID
-instance_of: "[[_Standards/WikiData/WD~newspaper,11032]]"
+instance_of: '[[_Standards/WikiData/WD~newspaper,11032]]'
 publication_interval: 1
 ISSN_L: 0971-8257
 ISSN: 0971-8257
@@ -30,7 +32,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20times%20of%20india.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Times%20of%20India%20%28pub%29.jpg
 official_website: http://timesofindia.indiatimes.com
-OCLC_number: "23379369"
+OCLC_number: 23379369
 domain_name: indiatimes.com
 Instagram_username: thetimesofindia
 Facebook_username: TimesofIndia

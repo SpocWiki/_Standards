@@ -1,32 +1,33 @@
 ---
 aliases:
   - Graphit
+  - Graphite
 has_id_wikidata: Q5309
 RTECS_number:
   - MD9659600
   - FF5250100
 subclass_of:
-  - "[[_Standards/WikiData/WD~material,214609]]"
-  - "[[_Standards/WikiData/WD~allotrope_of_carbon,622460]]"
-  - "[[_Standards/WikiData/WD~native_element_mineral,723127]]"
-  - "[[_Standards/WikiData/WD~carbon_silicon_family,13292702]]"
-  - "[[_Standards/WikiData/WD~flammable_solid,21073024]]"
+  - '[[_Standards/WikiData/WD~material,214609]]'
+  - '[[_Standards/WikiData/WD~allotrope_of_carbon,622460]]'
+  - '[[_Standards/WikiData/WD~native_element_mineral,723127]]'
+  - '[[_Standards/WikiData/WD~carbon_silicon_family,13292702]]'
+  - '[[_Standards/WikiData/WD~flammable_solid,21073024]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Q30226881,30226881]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-crystal_system: "[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]"
-instance_of: "[[_Standards/WikiData/WD~mineral_species,12089225]]"
-IMA_status_and_or_rank: "[[_Standards/WikiData/WD~grandfathered_mineral_(G),13406846]]"
-space_group: "[[_Standards/WikiData/WD~space_group_P6_mmc,15041650]]"
-associated_hazard: "[[_Standards/WikiData/WD~graphite_exposure,21174353]]"
-has_effect: "[[_Standards/WikiData/WD~graphite_exposure,21174353]]"
-named_after: "[[_Standards/WikiData/WD~writing,86647781]]"
-has_part_s_: "[[_Standards/WikiData/WD~carbon,623]]"
-streak_color: "[[_Standards/WikiData/WD~black,23445]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Q30226881,30226881]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+crystal_system: '[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]'
+instance_of: '[[_Standards/WikiData/WD~mineral_species,12089225]]'
+IMA_status_and_or_rank: '[[_Standards/WikiData/WD~grandfathered_mineral_(G),13406846]]'
+space_group: '[[_Standards/WikiData/WD~space_group_P6_mmc,15041650]]'
+associated_hazard: '[[_Standards/WikiData/WD~graphite_exposure,21174353]]'
+has_effect: '[[_Standards/WikiData/WD~graphite_exposure,21174353]]'
+named_after: '[[_Standards/WikiData/WD~writing,86647781]]'
+has_part_s_: '[[_Standards/WikiData/WD~carbon,623]]'
+streak_color: '[[_Standards/WikiData/WD~black,23445]]'
 vapor_pressure: 0
 mass: 12
 Mohs_hardness: 1.5
@@ -36,11 +37,11 @@ density: 2.16
 combustion_enthalpy: 393.5
 standard_molar_entropy: 55.74
 sublimation_temperature: 6602
-OmegaWiki_Defined_Meaning: "826359"
+OmegaWiki_Defined_Meaning: 826359
 chemical_formula: C
-Gmelin_number: "38718"
-RxNorm_CUI: "90249"
-ZVG_number: "92330"
+Gmelin_number: 38718
+RxNorm_CUI: 90249
+ZVG_number: 92330
 Dana_8th_edition: 1.3.6.2
 Nickel_Strunz_10th_ed_review_of_9th_ed_2009_update_: 1.CB.05a
 Nickel_Strunz_9th_edition_updated_2009_: 1.CB.05a
@@ -48,8 +49,8 @@ IMA_Mineral_Symbol: Gr
 Commons_category: Graphite
 Commons_gallery: Graphite
 UNSPSC_Code:
-  - "11101507"
-  - "11101702"
+  - 11101507
+  - 11101702
 image: http://commons.wikimedia.org/wiki/Special:FilePath/GraphiteUSGOV.jpg
 EC_number: 231-955-3
 UNII: 4QQN74LH4O

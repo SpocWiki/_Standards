@@ -1,5 +1,7 @@
 ---
-aliases: []
+aliases:
+  - Epoch~3~Late_Ordovician
+  - Epoch~3~Late Ordovician
 ischart: UpperOrdovician
 ---
 

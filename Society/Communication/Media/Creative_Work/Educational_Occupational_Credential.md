@@ -4,20 +4,22 @@ aliases:
   - educational_occupational_credential
   - EducationalOccupationalCredential
   - is_an_educational_occupational_credential
+  - Educational_Occupational_Credential
+  - Educational Occupational Credential
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - educational_occupational_credential
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_educational_occupational_credential Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

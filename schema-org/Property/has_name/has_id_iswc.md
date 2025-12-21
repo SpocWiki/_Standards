@@ -4,22 +4,23 @@ aliases:
   - id_iswc
   - iswcCode
   - has_id_iswc
+  - has id iswc
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - iswc
   - code
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_id_iswc
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

@@ -5,38 +5,39 @@ aliases:
   - Sharī'ah
   - Shari'a
   - Shariah
+  - Sharia
 has_id_wikidata: Q482752
 practiced_by:
-  - "[[_Standards/WikiData/WD~qadi,217029]]"
-  - "[[_Standards/WikiData/WD~Islamic_jurist,1999841]]"
+  - '[[_Standards/WikiData/WD~qadi,217029]]'
+  - '[[_Standards/WikiData/WD~Islamic_jurist,1999841]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Saria,418588]]"
-  - "[[_Standards/WikiData/WD~Haqiqa,1984378]]"
-connects_with: "[[_Standards/WikiData/WD~fiqh,484181]]"
+  - '[[_Standards/WikiData/WD~Saria,418588]]'
+  - '[[_Standards/WikiData/WD~Haqiqa,1984378]]'
+connects_with: '[[_Standards/WikiData/WD~fiqh,484181]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~religious_law,670732]]"
-  - "[[_Standards/WikiData/WD~law,7748]]"
+  - '[[_Standards/WikiData/WD~religious_law,670732]]'
+  - '[[_Standards/WikiData/WD~law,7748]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~legal_system,858700]]"
-  - "[[_Standards/WikiData/WD~form_of_government,1307214]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~Islamic_term,23384401]]"
+  - '[[_Standards/WikiData/WD~legal_system,858700]]'
+  - '[[_Standards/WikiData/WD~form_of_government,1307214]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~Islamic_term,23384401]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Islam,5496999]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Law,8486941]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_sharia,125830916]]"
-used_by: "[[_Standards/WikiData/WD~Islamic_court,132643634]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q133728706,133728706]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Islam,5496999]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Law,8486941]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_sharia,125830916]]'
+used_by: '[[_Standards/WikiData/WD~Islamic_court,132643634]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q133728706,133728706]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
 DOI: 10.1163/1875-3922_DQU_SIM_000904
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/SHARIAT.html
 Cambridge_Dictionary_entry_American_English_: sharia

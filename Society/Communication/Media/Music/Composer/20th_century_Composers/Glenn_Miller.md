@@ -5,46 +5,46 @@ aliases:
   - Glenn Miller
 has_id_wikidata: Q103651
 occupation:
-  - "[[_Standards/WikiData/WD~conductor,158852]]"
-  - "[[_Standards/WikiData/WD~bandleader,806349]]"
-  - "[[_Standards/WikiData/WD~music_arranger,1643514]]"
-  - "[[_Standards/WikiData/WD~aircraft_pilot,2095549]]"
-  - "[[_Standards/WikiData/WD~jazz_musician,15981151]]"
-  - "[[_Standards/WikiData/WD~recording_artist,55960555]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
+  - '[[_Standards/WikiData/WD~conductor,158852]]'
+  - '[[_Standards/WikiData/WD~bandleader,806349]]'
+  - '[[_Standards/WikiData/WD~music_arranger,1643514]]'
+  - '[[_Standards/WikiData/WD~aircraft_pilot,2095549]]'
+  - '[[_Standards/WikiData/WD~jazz_musician,15981151]]'
+  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
 record_label:
-  - "[[_Standards/WikiData/WD~RCA_Records,202585]]"
-  - "[[_Standards/WikiData/WD~Bluebird_Records,885977]]"
+  - '[[_Standards/WikiData/WD~RCA_Records,202585]]'
+  - '[[_Standards/WikiData/WD~Bluebird_Records,885977]]'
 genre:
-  - "[[_Standards/WikiData/WD~swing_music,203775]]"
-  - "[[_Standards/WikiData/WD~big_band,207378]]"
-  - "[[_Standards/WikiData/WD~jazz,8341]]"
-  - "[[_Standards/WikiData/WD~blues,9759]]"
-educated_at: "[[_Standards/WikiData/WD~University_of_Colorado_Boulder,736674]]"
-cause_of_death: "[[_Standards/WikiData/WD~aviation_accident,744913]]"
+  - '[[_Standards/WikiData/WD~swing_music,203775]]'
+  - '[[_Standards/WikiData/WD~big_band,207378]]'
+  - '[[_Standards/WikiData/WD~jazz,8341]]'
+  - '[[_Standards/WikiData/WD~blues,9759]]'
+educated_at: '[[_Standards/WikiData/WD~University_of_Colorado_Boulder,736674]]'
+cause_of_death: '[[_Standards/WikiData/WD~aviation_accident,744913]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Bronze_Star_Medal,928314]]"
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-place_of_birth: "[[_Standards/WikiData/WD~Clarinda,931656]]"
-family_name: "[[_Standards/WikiData/WD~Miller,1605060]]"
-member_of: "[[_Standards/WikiData/WD~Glenn_Miller_&_His_Orchestra,2446255]]"
+  - '[[_Standards/WikiData/WD~Bronze_Star_Medal,928314]]'
+  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+place_of_birth: '[[_Standards/WikiData/WD~Clarinda,931656]]'
+family_name: '[[_Standards/WikiData/WD~Miller,1605060]]'
+member_of: '[[_Standards/WikiData/WD~Glenn_Miller_&_His_Orchestra,2446255]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Alton,2840487]]"
-  - "[[_Standards/WikiData/WD~Glenn,19802199]]"
-discography: "[[_Standards/WikiData/WD~Glenn_Miller_discography,5569003]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-manner_of_death: "[[_Standards/WikiData/WD~accidental_death,21142718]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-spouse: "[[_Standards/WikiData/WD~Helen_Dorothy_Burger_Miller,84584841]]"
-archives_at: "[[_Standards/WikiData/WD~Library_of_Congress_Music_Division,98608837]]"
-father: "[[_Standards/WikiData/WD~Lewis_Elmer_Miller,108927825]]"
-mother: "[[_Standards/WikiData/WD~Mattie_Lou_Cavender,108927894]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-instrument: "[[_Standards/WikiData/WD~trombone,8350]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_death: "[[_Standards/WikiData/WD~English_Channel,34640]]"
+  - '[[_Standards/WikiData/WD~Alton,2840487]]'
+  - '[[_Standards/WikiData/WD~Glenn,19802199]]'
+discography: '[[_Standards/WikiData/WD~Glenn_Miller_discography,5569003]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+manner_of_death: '[[_Standards/WikiData/WD~accidental_death,21142718]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+spouse: '[[_Standards/WikiData/WD~Helen_Dorothy_Burger_Miller,84584841]]'
+archives_at: '[[_Standards/WikiData/WD~Library_of_Congress_Music_Division,98608837]]'
+father: '[[_Standards/WikiData/WD~Lewis_Elmer_Miller,108927825]]'
+mother: '[[_Standards/WikiData/WD~Mattie_Lou_Cavender,108927894]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+instrument: '[[_Standards/WikiData/WD~trombone,8350]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_death: '[[_Standards/WikiData/WD~English_Channel,34640]]'
 Commons_gallery: Glenn Miller
 Commons_category: Glenn Miller
 name_in_native_language: Glenn Miller
@@ -52,8 +52,8 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Glen%20miller.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Glenn%20Miller%20Billboard.jpg
 official_website: http://www.glennmiller.org
-ISNI: "0000000110624974"
-U_S_National_Archives_Identifier: "10582406"
+ISNI: 0000000110624974
+U_S_National_Archives_Identifier: 10582406
 Europeana_entity: agent/base/60676
 Facebook_username: GlennMiller
 birth_name: Alton Glenn Miller

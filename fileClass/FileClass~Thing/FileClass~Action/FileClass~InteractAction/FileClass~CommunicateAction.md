@@ -1,38 +1,40 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CommunicateAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 fields:
-- id: kl4bNG
-  name: About
-  options:
-    dvQueryString: "dv.pages('#class/Thing')"
-  type: MultiFile
-  path: ''
-- id: cVZFsA
-  name: InLanguage
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Language')"
-  type: MultiFile
-  path: ''
-- id: v0kus6
-  name: Recipient
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Audience')"
-  type: MultiFile
-  path: ''
+  - id: kl4bNG
+    name: About
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ''
+  - id: cVZFsA
+    name: InLanguage
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Language')
+    type: MultiFile
+    path: ''
+  - id: v0kus6
+    name: Recipient
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CommunicateAction
-- class/Thing/Action/InteractAction/CommunicateAction
-- is_a_/CommunicateAction
-- schema-org/CommunicateAction
+  - class/CommunicateAction
+  - class/Thing/Action/InteractAction/CommunicateAction
+  - is_a_/CommunicateAction
+  - schema-org/CommunicateAction
 tags:
-- class/FileClass
-- class/CommunicateAction
-- is_a_/CommunicateAction
-- class/Thing/Action/InteractAction/CommunicateAction
+  - class/FileClass
+  - class/CommunicateAction
+  - is_a_/CommunicateAction
+  - class/Thing/Action/InteractAction/CommunicateAction
 version: 2.0
 ---
 

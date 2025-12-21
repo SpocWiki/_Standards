@@ -1,62 +1,64 @@
 ---
-excludes: 
+aliases:
+  - FileClass~GeoShape
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-- id: 7Slfr7
-  name: Address
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')"
-  type: MultiFile
-  path: ''
-- id: CouUQg
-  name: AddressCountry
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place/AdministrativeArea/Country')"
-  type: MultiFile
-  path: ''
-- id: VcljiC
-  name: Box
-  options: {}
-  type: Input
-  path: ''
-- id: b6EBkP
-  name: Circle
-  options: {}
-  type: Input
-  path: ''
-- id: ult11b
-  name: Elevation
-  options: {}
-  type: Number
-  path: ''
-- id: fx1Lad
-  name: Line
-  options: {}
-  type: Input
-  path: ''
-- id: 1gOLNA
-  name: Polygon
-  options: {}
-  type: Input
-  path: ''
-- id: aW11Rh
-  name: PostalCode
-  options: {}
-  type: Input
-  path: ''
+  - id: 7Slfr7
+    name: Address
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
+    type: MultiFile
+    path: ''
+  - id: CouUQg
+    name: AddressCountry
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
+    type: MultiFile
+    path: ''
+  - id: VcljiC
+    name: Box
+    options: {}
+    type: Input
+    path: ''
+  - id: b6EBkP
+    name: Circle
+    options: {}
+    type: Input
+    path: ''
+  - id: ult11b
+    name: Elevation
+    options: {}
+    type: Number
+    path: ''
+  - id: fx1Lad
+    name: Line
+    options: {}
+    type: Input
+    path: ''
+  - id: 1gOLNA
+    name: Polygon
+    options: {}
+    type: Input
+    path: ''
+  - id: aW11Rh
+    name: PostalCode
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/GeoShape
-- class/Thing/Intangible/StructuredValue/GeoShape
-- is_a_/GeoShape
-- schema-org/GeoShape
+  - class/GeoShape
+  - class/Thing/Intangible/StructuredValue/GeoShape
+  - is_a_/GeoShape
+  - schema-org/GeoShape
 tags:
-- class/FileClass
-- class/GeoShape
-- is_a_/GeoShape
-- class/Thing/Intangible/StructuredValue/GeoShape
+  - class/FileClass
+  - class/GeoShape
+  - is_a_/GeoShape
+  - class/Thing/Intangible/StructuredValue/GeoShape
 version: 2.0
 ---
 

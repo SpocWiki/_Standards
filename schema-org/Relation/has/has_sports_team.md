@@ -1,30 +1,31 @@
 ---
 aliases:
-- sports-team
-- sportsTeam
-- has_sports_team
-- "schema:SportsTeam"
-- "dbo:SportsTeam"
+  - sports-team
+  - sportsTeam
+  - has_sports_team
+  - schema:SportsTeam
+  - dbo:SportsTeam
+  - has sports team
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- sports_team
-- sports
-- team
-layout: 
-license: "CC BY-SA 4.0"
+  - sports_team
+  - sports
+  - team
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_sports_team
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_sports_team
 type: Predi_Relation
 ---

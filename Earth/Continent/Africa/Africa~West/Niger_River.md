@@ -1,6 +1,8 @@
 ---
 aliases:
   - Niger River
+  - Niger_River
+has_id_wikidata: Q3542
 basin_country: "[[_Standards/WikiData/WD~Guinea,1006]]"
 Commons_category: Niger River
 continent: "[[_Standards/WikiData/WD~Africa,15]]"
@@ -23,7 +25,6 @@ described_by_source:
 discharge: 8630
 drainage_basin: "[[_Standards/WikiData/WD~Niger_basin,2887545]]"
 elevation_above_sea_level: 200
-has_id_wikidata: Q3542
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Niger%20River%20View%2C%20Djenne%20%286861797%29.jpg
 instance_of: "[[_Standards/WikiData/WD~river,4022]]"
 lake_on_watercourse: "[[_Standards/WikiData/WD~Kainji_Lake,770141]]"

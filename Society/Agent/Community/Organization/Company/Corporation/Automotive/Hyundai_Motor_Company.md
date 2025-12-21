@@ -1,76 +1,78 @@
 ---
 aliases:
   - Hyundai
+  - Hyundai_Motor_Company
+  - Hyundai Motor Company
 has_id_wikidata: Q55931
 stock_exchange:
-  - "[[_Standards/WikiData/WD~Nasdaq,82059]]"
-  - "[[_Standards/WikiData/WD~London_Stock_Exchange,171240]]"
-  - "[[_Standards/WikiData/WD~Korean_Stock_Exchange,495372]]"
+  - '[[_Standards/WikiData/WD~Nasdaq,82059]]'
+  - '[[_Standards/WikiData/WD~London_Stock_Exchange,171240]]'
+  - '[[_Standards/WikiData/WD~Korean_Stock_Exchange,495372]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Hyundai_Rotem,152517]]"
-  - "[[_Standards/WikiData/WD~Hyundai_Engineering_and_Construction,489809]]"
-  - "[[_Standards/WikiData/WD~Hyundai_WIA,493997]]"
-  - "[[_Standards/WikiData/WD~Beijing_Hyundai,4881139]]"
-  - "[[_Standards/WikiData/WD~Hyundai_Glovis,5962598]]"
-  - "[[_Standards/WikiData/WD~Hyundai_Steel,6502960]]"
-  - "[[_Standards/WikiData/WD~Hyundai_AutoEver,11286392]]"
-  - "[[_Standards/WikiData/WD~Rimac_Group,113550391]]"
-  - "[[_Standards/WikiData/WD~Hyundai,125054811]]"
-  - "[[_Standards/WikiData/WD~Kia,35349]]"
+  - '[[_Standards/WikiData/WD~Hyundai_Rotem,152517]]'
+  - '[[_Standards/WikiData/WD~Hyundai_Engineering_and_Construction,489809]]'
+  - '[[_Standards/WikiData/WD~Hyundai_WIA,493997]]'
+  - '[[_Standards/WikiData/WD~Beijing_Hyundai,4881139]]'
+  - '[[_Standards/WikiData/WD~Hyundai_Glovis,5962598]]'
+  - '[[_Standards/WikiData/WD~Hyundai_Steel,6502960]]'
+  - '[[_Standards/WikiData/WD~Hyundai_AutoEver,11286392]]'
+  - '[[_Standards/WikiData/WD~Rimac_Group,113550391]]'
+  - '[[_Standards/WikiData/WD~Hyundai,125054811]]'
+  - '[[_Standards/WikiData/WD~Kia,35349]]'
 child_organization_unit:
-  - "[[_Standards/WikiData/WD~Hyundai_Rotem,152517]]"
-  - "[[_Standards/WikiData/WD~Hyundai_Motor_India_Limited,1525445]]"
-  - "[[_Standards/WikiData/WD~Hyundai_Motor_Manufacturing_Czech,1564355]]"
-  - "[[_Standards/WikiData/WD~Hyundai_Assan_Otomotiv,1641633]]"
-  - "[[_Standards/WikiData/WD~Hyundai_Motor_Manufacturing_Alabama,1641692]]"
-  - "[[_Standards/WikiData/WD~Boston_Dynamics,2298325]]"
-  - "[[_Standards/WikiData/WD~Hyundai_Capital,5962562]]"
-  - "[[_Standards/WikiData/WD~Hyundai_Card,5962566]]"
-  - "[[_Standards/WikiData/WD~Hyundai_Motor_Europe_GmbH,16966160]]"
-  - "[[_Standards/WikiData/WD~Hyundai_Motor_America,17062565]]"
-  - "[[_Standards/WikiData/WD~Hyundai_Transys,19795115]]"
-  - "[[_Standards/WikiData/WD~Hyundai_N,96381543]]"
-  - "[[_Standards/WikiData/WD~Ioniq,98441159]]"
-industry: "[[_Standards/WikiData/WD~automotive_industry,190117]]"
-founded_by: "[[_Standards/WikiData/WD~Jeong_Ju_yung,468467]]"
+  - '[[_Standards/WikiData/WD~Hyundai_Rotem,152517]]'
+  - '[[_Standards/WikiData/WD~Hyundai_Motor_India_Limited,1525445]]'
+  - '[[_Standards/WikiData/WD~Hyundai_Motor_Manufacturing_Czech,1564355]]'
+  - '[[_Standards/WikiData/WD~Hyundai_Assan_Otomotiv,1641633]]'
+  - '[[_Standards/WikiData/WD~Hyundai_Motor_Manufacturing_Alabama,1641692]]'
+  - '[[_Standards/WikiData/WD~Boston_Dynamics,2298325]]'
+  - '[[_Standards/WikiData/WD~Hyundai_Capital,5962562]]'
+  - '[[_Standards/WikiData/WD~Hyundai_Card,5962566]]'
+  - '[[_Standards/WikiData/WD~Hyundai_Motor_Europe_GmbH,16966160]]'
+  - '[[_Standards/WikiData/WD~Hyundai_Motor_America,17062565]]'
+  - '[[_Standards/WikiData/WD~Hyundai_Transys,19795115]]'
+  - '[[_Standards/WikiData/WD~Hyundai_N,96381543]]'
+  - '[[_Standards/WikiData/WD~Ioniq,98441159]]'
+industry: '[[_Standards/WikiData/WD~automotive_industry,190117]]'
+founded_by: '[[_Standards/WikiData/WD~Jeong_Ju_yung,468467]]'
 owned_by:
-  - "[[_Standards/WikiData/WD~Chung_Mong_koo,488446]]"
-  - "[[_Standards/WikiData/WD~Hyundai_Mobis,497534]]"
-  - "[[_Standards/WikiData/WD~Chung_Eui_sun,5116286]]"
-  - "[[_Standards/WikiData/WD~National_Pension_Service,6974864]]"
+  - '[[_Standards/WikiData/WD~Chung_Mong_koo,488446]]'
+  - '[[_Standards/WikiData/WD~Hyundai_Mobis,497534]]'
+  - '[[_Standards/WikiData/WD~Chung_Eui_sun,5116286]]'
+  - '[[_Standards/WikiData/WD~National_Pension_Service,6974864]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~company,783794]]"
-  - "[[_Standards/WikiData/WD~automobile_manufacturer,786820]]"
-  - "[[_Standards/WikiData/WD~public_company,891723]]"
-  - "[[_Standards/WikiData/WD~car_brand,10429667]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
+  - '[[_Standards/WikiData/WD~company,783794]]'
+  - '[[_Standards/WikiData/WD~automobile_manufacturer,786820]]'
+  - '[[_Standards/WikiData/WD~public_company,891723]]'
+  - '[[_Standards/WikiData/WD~car_brand,10429667]]'
+  - '[[_Standards/WikiData/WD~organization,43229]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Linux_Foundation,858851]]"
-  - "[[_Standards/WikiData/WD~Open_Automotive_Alliance,15614763]]"
-chairperson: "[[_Standards/WikiData/WD~Chung_Eui_sun,5116286]]"
-chief_executive_officer: "[[_Standards/WikiData/WD~Chung_Eui_sun,5116286]]"
-partnership_with: "[[_Standards/WikiData/WD~IONNA,124528707]]"
-legal_form: "[[_Standards/WikiData/WD~jusik_hoesa,130278799]]"
+  - '[[_Standards/WikiData/WD~Linux_Foundation,858851]]'
+  - '[[_Standards/WikiData/WD~Open_Automotive_Alliance,15614763]]'
+chairperson: '[[_Standards/WikiData/WD~Chung_Eui_sun,5116286]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Chung_Eui_sun,5116286]]'
+partnership_with: '[[_Standards/WikiData/WD~IONNA,124528707]]'
+legal_form: '[[_Standards/WikiData/WD~jusik_hoesa,130278799]]'
 country:
-  - "[[_Standards/WikiData/WD~South_Korea,884]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - '[[_Standards/WikiData/WD~South_Korea,884]]'
+  - '[[_Standards/WikiData/WD~Germany,183]]'
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~car,1420]]"
-  - "[[_Standards/WikiData/WD~truck,43193]]"
-location_of_formation: "[[_Standards/WikiData/WD~Seoul,8684]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Seoul,8684]]"
-different_from: "[[_Standards/WikiData/WD~Hyundai,29311]]"
+  - '[[_Standards/WikiData/WD~car,1420]]'
+  - '[[_Standards/WikiData/WD~truck,43193]]'
+location_of_formation: '[[_Standards/WikiData/WD~Seoul,8684]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Seoul,8684]]'
+different_from: '[[_Standards/WikiData/WD~Hyundai,29311]]'
 parent_organization:
-  - "[[_Standards/WikiData/WD~Hyundai,29311]]"
-  - "[[_Standards/WikiData/WD~Hyundai_Motor_Group,59243]]"
+  - '[[_Standards/WikiData/WD~Hyundai,29311]]'
+  - '[[_Standards/WikiData/WD~Hyundai_Motor_Group,59243]]'
 operating_income: 6.68
 social_media_followers:
   - 752000
   - 425511
 total_revenue: 117.61
 ISNI:
-  - "0000000404343940"
-  - "0000000119549421"
+  - 0000000404343940
+  - 0000000119549421
 inception: 1967-12-29T00:00:00Z
 Instagram_username:
   - hyundaibr
@@ -265,7 +267,7 @@ Facebook_username:
   - HyundaiWorldGh
   - Hyundaiworldwide
   - www.hmm.mn
-  - "648101790684884"
+  - 648101790684884
 TikTok_username:
   - hyundaibr
   - hyundaiusa
@@ -352,9 +354,9 @@ location_information_URL:
   - https://www.hyundaicanada.com/en/shopping-tools/find-a-dealer
   - https://www.hyundaiusa.com/us/en/dealer-locator
 official_website: https://www.hyundai.com/
-PermID: "4295881548"
+PermID: 4295881548
 REDnote_profile: 5c06a79100000000050036d9
-Corporate_Number_Japan_: "9700150082809"
+Corporate_Number_Japan_: 9700150082809
 Legal_Entity_Identifier: 9884004RQX8PRBXQ8S60
 Revised_Romanization: Hyeondae Jadongcha Jushikhoesa
 McCune_Reischauer_romanization: Hyŏndae Chatongch'a Chusikhoesa

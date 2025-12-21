@@ -1,6 +1,7 @@
 ---
 aliases:
   - Schild
+  - Shield
 has_id_wikidata: Q131559
 different_from:
   - "[[_Standards/WikiData/WD~escutcheon,331357]]"
@@ -21,14 +22,14 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
   - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-Nomenclature_for_Museum_Cataloging: "8139"
-OmegaWiki_Defined_Meaning: "456348"
+Nomenclature_for_Museum_Cataloging: 8139
+OmegaWiki_Defined_Meaning: 456348
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thorsberg%20Shields.jpg
 Commons_category: Shields
 Unicode_character: 🛡
 ---
 
-# [[Shield]] 
+# [[Shield]] 🛡 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Shield,131559|WD~Shield,131559]] 
 

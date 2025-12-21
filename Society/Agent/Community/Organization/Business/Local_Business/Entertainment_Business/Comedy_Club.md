@@ -4,20 +4,22 @@ aliases:
   - comedy_club
   - ComedyClub
   - is_a_comedy_club
+  - Comedy_Club
+  - Comedy Club
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - comedy_club
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_comedy_club Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

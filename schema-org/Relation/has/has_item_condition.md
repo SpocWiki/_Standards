@@ -3,23 +3,24 @@ aliases:
   - has item-condition
   - itemCondition
   - has_item_condition
+  - has item condition
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - item_condition
   - item
   - condition
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_item_condition
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

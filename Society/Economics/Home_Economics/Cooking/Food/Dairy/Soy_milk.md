@@ -2,16 +2,17 @@
 aliases:
   - Soy milk
   - Sojamilch
+  - Soy_milk
 has_id_wikidata: Q192199
 subclass_of:
-  - "[[_Standards/WikiData/WD~commodity,317088]]"
-  - "[[_Standards/WikiData/WD~plant_milk,2640574]]"
-  - "[[_Standards/WikiData/WD~non_alcoholic_beverage,2647467]]"
-  - "[[_Standards/WikiData/WD~soy_food,28836677]]"
+  - '[[_Standards/WikiData/WD~commodity,317088]]'
+  - '[[_Standards/WikiData/WD~plant_milk,2640574]]'
+  - '[[_Standards/WikiData/WD~non_alcoholic_beverage,2647467]]'
+  - '[[_Standards/WikiData/WD~soy_food,28836677]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~soy_bean,61503220]]"
-  - "[[_Standards/WikiData/WD~water,283]]"
-country_of_origin: "[[_Standards/WikiData/WD~China,29520]]"
+  - '[[_Standards/WikiData/WD~soy_bean,61503220]]'
+  - '[[_Standards/WikiData/WD~water,283]]'
+country_of_origin: '[[_Standards/WikiData/WD~China,29520]]'
 carbon_footprint:
   - 0.4
   - 0.98
@@ -19,13 +20,13 @@ water_footprint:
   - 27.8
   - 3763
 CosIng_number:
-  - "85091"
-  - "58442"
-OmegaWiki_Defined_Meaning: "1194377"
+  - 85091
+  - 58442
+OmegaWiki_Defined_Meaning: 1194377
 UMLS_CUI: C0452741
 Commons_category: Soy milk
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Soymilk%20can%20and%20glass%202.jpg
-Amazon_com_browse_node: "119344011"
+Amazon_com_browse_node: 119344011
 MeSH_tree_code:
   - G07.203.100.712.500
   - G07.203.300.850.450.500.500

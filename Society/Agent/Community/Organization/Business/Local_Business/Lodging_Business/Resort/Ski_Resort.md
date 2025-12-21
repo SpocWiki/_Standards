@@ -4,20 +4,22 @@ aliases:
   - ski_resort
   - SkiResort
   - is_a_ski_resort
+  - Ski_Resort
+  - Ski Resort
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - ski_resort
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_ski_resort Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

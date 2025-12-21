@@ -1,15 +1,16 @@
 ---
 aliases:
   - Schlamm
+  - Mud
 has_id_wikidata: Q170449
 subclass_of:
-  - "[[_Standards/WikiData/WD~mixture,169336]]"
-  - "[[_Standards/WikiData/WD~building_material,206615]]"
-  - "[[_Standards/WikiData/WD~clastic_sediment,12372934]]"
+  - '[[_Standards/WikiData/WD~mixture,169336]]'
+  - '[[_Standards/WikiData/WD~building_material,206615]]'
+  - '[[_Standards/WikiData/WD~clastic_sediment,12372934]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/A%20team%20of%20stretcher%20bearers%20struggle%20through%20deep%20mud%20to%20carry%20a%20wounded%20man%20to%20safety%20near%20Boesinghe%20on%201%20August%201917%20during%20the%20Third%20Battle%20of%20Ypres.%20Q5935.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Dirt%20road%2C%20Ond%C5%99ejovsko%20%282%29.jpg
@@ -18,7 +19,7 @@ image:
 Commons_gallery: Mud
 Commons_category: Mud
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000001
-U_S_National_Archives_Identifier: "10676429"
+U_S_National_Archives_Identifier: 10676429
 OpenStreetMap_tag: surface=mud
 ---
 

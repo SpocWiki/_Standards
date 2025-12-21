@@ -2,12 +2,14 @@
 aliases:
   - Vernunftehe
   - marriage of convenience
+  - Marriage_of_Convenience
+  - Marriage of Convenience
 has_id_wikidata: Q279394
-opposite_of: "[[_Standards/WikiData/WD~love_marriage,1468362]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_marriage,7860953]]"
-different_from: "[[_Standards/WikiData/WD~Q41950742,41950742]]"
-described_by_source: "[[_Standards/WikiData/WD~Konvenienzheirat,97503490]]"
-subclass_of: "[[_Standards/WikiData/WD~marriage,8445]]"
+opposite_of: '[[_Standards/WikiData/WD~love_marriage,1468362]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_marriage,7860953]]'
+different_from: '[[_Standards/WikiData/WD~Q41950742,41950742]]'
+described_by_source: '[[_Standards/WikiData/WD~Konvenienzheirat,97503490]]'
+subclass_of: '[[_Standards/WikiData/WD~marriage,8445]]'
 Commons_category: Marriage of convenience
 IMDb_keyword: marriage-of-convenience
 ---

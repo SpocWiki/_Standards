@@ -4,65 +4,66 @@ aliases:
   - Howard Hughes
   - Howard_Hughes
   - Hughes
+  - Hughes,Howard
 has_id_wikidata: Q189081
 occupation:
-  - "[[_Standards/WikiData/WD~entrepreneur,131524]]"
-  - "[[_Standards/WikiData/WD~inventor,205375]]"
-  - "[[_Standards/WikiData/WD~aircraft_pilot,2095549]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~military_flight_engineer,10497074]]"
-field_of_work: "[[_Standards/WikiData/WD~entrepreneur,131524]]"
+  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+  - '[[_Standards/WikiData/WD~inventor,205375]]'
+  - '[[_Standards/WikiData/WD~aircraft_pilot,2095549]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~military_flight_engineer,10497074]]'
+field_of_work: '[[_Standards/WikiData/WD~entrepreneur,131524]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~California_Institute_of_Technology,161562]]"
-  - "[[_Standards/WikiData/WD~Rice_University,842909]]"
-  - "[[_Standards/WikiData/WD~Fessenden_School,5445638]]"
-  - "[[_Standards/WikiData/WD~The_Thacher_School,7768608]]"
-father: "[[_Standards/WikiData/WD~Howard_R._Hughes_Sr.,164075]]"
+  - '[[_Standards/WikiData/WD~California_Institute_of_Technology,161562]]'
+  - '[[_Standards/WikiData/WD~Rice_University,842909]]'
+  - '[[_Standards/WikiData/WD~Fessenden_School,5445638]]'
+  - '[[_Standards/WikiData/WD~The_Thacher_School,7768608]]'
+father: '[[_Standards/WikiData/WD~Howard_R._Hughes_Sr.,164075]]'
 medical_condition:
-  - "[[_Standards/WikiData/WD~obsessive_compulsive_disorder,178190]]"
-  - "[[_Standards/WikiData/WD~chronic_pain,1088113]]"
-  - "[[_Standards/WikiData/WD~Diogenes_syndrome,1226826]]"
-  - "[[_Standards/WikiData/WD~malnutrition,12167]]"
+  - '[[_Standards/WikiData/WD~obsessive_compulsive_disorder,178190]]'
+  - '[[_Standards/WikiData/WD~chronic_pain,1088113]]'
+  - '[[_Standards/WikiData/WD~Diogenes_syndrome,1226826]]'
+  - '[[_Standards/WikiData/WD~malnutrition,12167]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Jean_Peters,243005]]"
-  - "[[_Standards/WikiData/WD~Ella_Botts_Rice,75760223]]"
+  - '[[_Standards/WikiData/WD~Jean_Peters,243005]]'
+  - '[[_Standards/WikiData/WD~Ella_Botts_Rice,75760223]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Terry_Moore,271865]]"
-  - "[[_Standards/WikiData/WD~Katharine_Hepburn,56016]]"
+  - '[[_Standards/WikiData/WD~Terry_Moore,271865]]'
+  - '[[_Standards/WikiData/WD~Katharine_Hepburn,56016]]'
 cause_of_death:
-  - "[[_Standards/WikiData/WD~kidney_failure,476921]]"
-  - "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
+  - '[[_Standards/WikiData/WD~kidney_failure,476921]]'
+  - '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
 award_received:
-  - "[[_Standards/WikiData/WD~National_Aviation_Hall_of_Fame,488005]]"
-  - "[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]"
+  - '[[_Standards/WikiData/WD~National_Aviation_Hall_of_Fame,488005]]'
+  - '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]"
-  - "[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]"
+  - '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
+  - '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~aviation_accident,744913]]"
-  - "[[_Standards/WikiData/WD~circumnavigation,1135885]]"
-  - "[[_Standards/WikiData/WD~Q4392937,4392937]]"
-family_name: "[[_Standards/WikiData/WD~Hughes,2720749]]"
+  - '[[_Standards/WikiData/WD~aviation_accident,744913]]'
+  - '[[_Standards/WikiData/WD~circumnavigation,1135885]]'
+  - '[[_Standards/WikiData/WD~Q4392937,4392937]]'
+family_name: '[[_Standards/WikiData/WD~Hughes,2720749]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Howard,3595959]]"
-  - "[[_Standards/WikiData/WD~Robard,116200159]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-mother: "[[_Standards/WikiData/WD~Allene_Stone_Gano,75760222]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-sports_discipline_competed_in: "[[_Standards/WikiData/WD~golf,5377]]"
-place_of_death: "[[_Standards/WikiData/WD~Houston,16555]]"
-place_of_birth: "[[_Standards/WikiData/WD~Houston,16555]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_locations: "[[_Standards/WikiData/WD~United_States,30]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Methodism,33203]]"
-U_S_National_Archives_Identifier: "10580586"
+  - '[[_Standards/WikiData/WD~Howard,3595959]]'
+  - '[[_Standards/WikiData/WD~Robard,116200159]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+mother: '[[_Standards/WikiData/WD~Allene_Stone_Gano,75760222]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+sports_discipline_competed_in: '[[_Standards/WikiData/WD~golf,5377]]'
+place_of_death: '[[_Standards/WikiData/WD~Houston,16555]]'
+place_of_birth: '[[_Standards/WikiData/WD~Houston,16555]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_locations: '[[_Standards/WikiData/WD~United_States,30]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Methodism,33203]]'
+U_S_National_Archives_Identifier: 10580586
 Commons_Creator_page: Howard Hughes
 Commons_category: Howard Hughes
 name_in_native_language: Howard Hughes
@@ -75,7 +76,7 @@ spoken_text_audio:
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Hughes%201938%20%28cropped%29.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Hughes%20signature.svg
 official_website: http://www.hhmi.org/
-ISNI: "0000000121229806"
+ISNI: 0000000121229806
 Plex_person_key: 5d7768284de0ee001fcc90a7
 name_in_kana: ハワード・ヒューズ
 birth_name: Howard Robard Hughes Jr.

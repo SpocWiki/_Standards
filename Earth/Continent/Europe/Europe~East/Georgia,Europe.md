@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Georgia,Europe
+has_id_wikidata: Q230
 location:
   - 41.7167
   - 44.7833
@@ -9,7 +12,6 @@ SpocWebEntityId: 26901
 isDeleted: false
 confidential: public
 icon: flag-ge
-has_id_wikidata: Q230
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"

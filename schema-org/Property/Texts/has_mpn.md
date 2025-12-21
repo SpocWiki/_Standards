@@ -4,21 +4,23 @@ aliases:
   - mpn
   - mpn
   - has_text_of_mpn
+  - has_mpn
+  - has mpn
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - mpn
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_mpn
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

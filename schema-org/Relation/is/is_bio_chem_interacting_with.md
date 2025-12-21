@@ -5,23 +5,24 @@ aliases:
   - bioChemInteraction
   - has_bio_chem_interaction
   - is_bio_chem_interacting_with
+  - is bio chem interacting with
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - bio
   - chem
   - interaction
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_bio_chem_interaction
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

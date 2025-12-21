@@ -1,4 +1,15 @@
 ---
+aliases:
+  - Peru
+  - Perú
+  - Pérou
+  - بيرو
+  - 秘鲁
+  - Перу
+  - the Republic of Peru
+  - la República del Perú
+  - Perú (el)
+has_id_wikidata: Q419
 language_used:
   - "[[_Standards/WikiData/WD~Amazonic_Spanish,72256]]"
   - "[[_Standards/WikiData/WD~Candoshi-Shapra,642843]]"
@@ -441,7 +452,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Peru%20banner.jpg
 official_website: https://www.gob.pe/
 country_calling_code: 51
-has_id_wikidata: Q419
 location:
   - -12.05
   - -77.05
@@ -458,22 +468,12 @@ cssclasses:
   - Country
 publish: true
 title: Peru
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Peru
-  - Perú
-  - Pérou
-  - بيرو
-  - 秘鲁
-  - Перу
-  - the Republic of Peru
-  - la República del Perú
-  - Perú (el)
+publishDate: ""
+expiryDate: ""
 Languages:
   - es-PE
   - qu

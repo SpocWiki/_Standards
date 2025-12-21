@@ -4,20 +4,21 @@ aliases:
   - false
   - false
   - is_a_FALSE
+  - False
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - false
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_FALSE Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

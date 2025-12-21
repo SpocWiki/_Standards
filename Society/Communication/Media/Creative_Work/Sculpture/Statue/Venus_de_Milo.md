@@ -1,42 +1,43 @@
 ---
 aliases:
-  - Venus de Milo 
+  - Venus de Milo
   - Aphrodite of Melos
+  - Venus_de_Milo
 has_id_wikidata: Q151952
 instance_of:
-  - "[[_Standards/WikiData/WD~statue,179700]]"
-  - "[[_Standards/WikiData/WD~archaeological_artefact,220659]]"
-location_of_creation: "[[_Standards/WikiData/WD~Milos,203979]]"
-location_of_discovery: "[[_Standards/WikiData/WD~Milos,203979]]"
+  - '[[_Standards/WikiData/WD~statue,179700]]'
+  - '[[_Standards/WikiData/WD~archaeological_artefact,220659]]'
+location_of_creation: '[[_Standards/WikiData/WD~Milos,203979]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Milos,203979]]'
 depicts:
-  - "[[_Standards/WikiData/WD~contrapposto,514847]]"
-  - "[[_Standards/WikiData/WD~himation,781731]]"
-  - "[[_Standards/WikiData/WD~headband,934849]]"
-  - "[[_Standards/WikiData/WD~chignon,1279269]]"
-  - "[[_Standards/WikiData/WD~baseboard,1630557]]"
-  - "[[_Standards/WikiData/WD~drapery,3039121]]"
-  - "[[_Standards/WikiData/WD~female_toplessness,17977112]]"
-  - "[[_Standards/WikiData/WD~female_breast,9103]]"
-  - "[[_Standards/WikiData/WD~Aphrodite,35500]]"
-  - "[[_Standards/WikiData/WD~navel,43801]]"
-made_from_material: "[[_Standards/WikiData/WD~Parian_marble,2052367]]"
-collection: "[[_Standards/WikiData/WD~Department_of_Greek,_Etruscan,_and_Roman_Antiquities_of_the_Louvre,3044747]]"
-owned_by: "[[_Standards/WikiData/WD~French_State,3591845]]"
+  - '[[_Standards/WikiData/WD~contrapposto,514847]]'
+  - '[[_Standards/WikiData/WD~himation,781731]]'
+  - '[[_Standards/WikiData/WD~headband,934849]]'
+  - '[[_Standards/WikiData/WD~chignon,1279269]]'
+  - '[[_Standards/WikiData/WD~baseboard,1630557]]'
+  - '[[_Standards/WikiData/WD~drapery,3039121]]'
+  - '[[_Standards/WikiData/WD~female_toplessness,17977112]]'
+  - '[[_Standards/WikiData/WD~female_breast,9103]]'
+  - '[[_Standards/WikiData/WD~Aphrodite,35500]]'
+  - '[[_Standards/WikiData/WD~navel,43801]]'
+made_from_material: '[[_Standards/WikiData/WD~Parian_marble,2052367]]'
+collection: '[[_Standards/WikiData/WD~Department_of_Greek,_Etruscan,_and_Roman_Antiquities_of_the_Louvre,3044747]]'
+owned_by: '[[_Standards/WikiData/WD~French_State,3591845]]'
 derivative_work:
-  - "[[_Standards/WikiData/WD~Vénus_de_Milo_aux_tiroirs,4107130]]"
-  - "[[_Standards/WikiData/WD~Q29912668,29912668]]"
+  - '[[_Standards/WikiData/WD~Vénus_de_Milo_aux_tiroirs,4107130]]'
+  - '[[_Standards/WikiData/WD~Q29912668,29912668]]'
 inception: -0140-01-01T00:00:00Z
 genre:
-  - "[[_Standards/WikiData/WD~mythological_sculpture,18783399]]"
-  - "[[_Standards/WikiData/WD~nude,40446]]"
-location: "[[_Standards/WikiData/WD~Room_345,19060517]]"
+  - '[[_Standards/WikiData/WD~mythological_sculpture,18783399]]'
+  - '[[_Standards/WikiData/WD~nude,40446]]'
+location: '[[_Standards/WikiData/WD~Room_345,19060517]]'
 does_not_have_part:
-  - "[[_Standards/WikiData/WD~left_arm,24206678]]"
-  - "[[_Standards/WikiData/WD~right_arm,24206679]]"
-described_by_source: "[[_Standards/WikiData/WD~Venus_de_Milo,103972065]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-country_of_origin: "[[_Standards/WikiData/WD~Greece,41]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
+  - '[[_Standards/WikiData/WD~left_arm,24206678]]'
+  - '[[_Standards/WikiData/WD~right_arm,24206679]]'
+described_by_source: '[[_Standards/WikiData/WD~Venus_de_Milo,103972065]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+country_of_origin: '[[_Standards/WikiData/WD~Greece,41]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
 height: 202
 image: http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A9nus%20de%20Milo%20-%20Mus%C3%A9e%20du%20Louvre%20AGER%20LL%20299%20%3B%20N%20527%20%3B%20Ma%20399.jpg
 title: Vénus de Milo

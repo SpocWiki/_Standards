@@ -1,21 +1,22 @@
 ---
 aliases:
   - has_album
+  - has album
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - album
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_album
 publish: true
-publishDate:
+publishDate: ''
 supersedes: albums
 tags:
   - class/Relation

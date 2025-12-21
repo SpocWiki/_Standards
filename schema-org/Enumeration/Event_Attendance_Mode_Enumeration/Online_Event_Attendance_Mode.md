@@ -4,21 +4,23 @@ aliases:
   - online_event_attendance_mode
   - OnlineEventAttendanceMode
   - is_an_online_event_attendance_mode
+  - Online_Event_Attendance_Mode
+  - Online Event Attendance Mode
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: EventAttendanceModeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - online_event_attendance_mode
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_online_event_attendance_mode Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

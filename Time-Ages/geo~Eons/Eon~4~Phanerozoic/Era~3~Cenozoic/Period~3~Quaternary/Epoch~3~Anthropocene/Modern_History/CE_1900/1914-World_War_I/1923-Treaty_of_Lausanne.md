@@ -3,28 +3,30 @@ aliases:
   - Treaty of Lausanne
   - Traité de Lausanne
   - Lozan Antlaşması
+  - 1923-Treaty_of_Lausanne
+  - 1923-Treaty of Lausanne
 has_id_wikidata: Q193258
 signatory:
-  - "[[_Standards/WikiData/WD~French_Third_Republic,70802]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]"
-  - "[[_Standards/WikiData/WD~Empire_of_Japan,188712]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Romania,203493]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Serbs,_Croats_and_Slovenes,15102440]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~French_Third_Republic,70802]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+  - '[[_Standards/WikiData/WD~Empire_of_Japan,188712]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Romania,203493]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Serbs,_Croats_and_Slovenes,15102440]]'
+  - '[[_Standards/WikiData/WD~Turkey,43]]'
+  - '[[_Standards/WikiData/WD~Greece,41]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 participant:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]"
-  - "[[_Standards/WikiData/WD~Empire_of_Japan,188712]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Yugoslavia,191077]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Romania,203493]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Greece,209065]]"
-  - "[[_Standards/WikiData/WD~British_Empire,8680]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-instance_of: "[[_Standards/WikiData/WD~peace_treaty,625298]]"
-location: "[[_Standards/WikiData/WD~Lausanne,807]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+  - '[[_Standards/WikiData/WD~Empire_of_Japan,188712]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Yugoslavia,191077]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Romania,203493]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Greece,209065]]'
+  - '[[_Standards/WikiData/WD~British_Empire,8680]]'
+  - '[[_Standards/WikiData/WD~Turkey,43]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+instance_of: '[[_Standards/WikiData/WD~peace_treaty,625298]]'
+location: '[[_Standards/WikiData/WD~Lausanne,807]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~French,150]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Turkey-Greece-Bulgaria%20on%20Treaty%20of%20Lausanne.png
 Commons_category: Treaty of Lausanne
 law_identifier: 大正13年条約第9号

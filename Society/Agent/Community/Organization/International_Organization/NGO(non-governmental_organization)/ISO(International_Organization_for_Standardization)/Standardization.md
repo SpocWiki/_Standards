@@ -2,19 +2,20 @@
 aliases:
   - standardisation
   - Standardisierung
-  - 
+  - ''
+  - Standardization
 has_id_wikidata: Q369577
-has_effect: "[[_Standards/WikiData/WD~technical_standard,317623]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~technical_standard,317623]]"
+has_effect: '[[_Standards/WikiData/WD~technical_standard,317623]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~technical_standard,317623]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~quality_assurance,836575]]"
-  - "[[_Standards/WikiData/WD~industry_classification,2976602]]"
+  - '[[_Standards/WikiData/WD~quality_assurance,836575]]'
+  - '[[_Standards/WikiData/WD~industry_classification,2976602]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~norm,1087786]]"
-  - "[[_Standards/WikiData/WD~quality_process,3406372]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_process,116505632]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-Dewey_Decimal_Classification: "389"
+  - '[[_Standards/WikiData/WD~norm,1087786]]'
+  - '[[_Standards/WikiData/WD~quality_process,3406372]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_process,116505632]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+Dewey_Decimal_Classification: 389
 Commons_category: Standardization
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Standardization%20%28spoken%20by%20AI%20voice%29.mp3
 ---

@@ -8,17 +8,17 @@ aliases:
   - preludio
 has_id_wikidata: Q212148
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]"
+  - '[[_Standards/WikiData/WD~music_genre,188451]]'
+  - '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~composed_musical_work,207628]]"
-  - "[[_Standards/WikiData/WD~classical_music,9730]]"
+  - '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
+  - '[[_Standards/WikiData/WD~classical_music,9730]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-opposite_of: "[[_Standards/WikiData/WD~postlude,2094385]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+opposite_of: '[[_Standards/WikiData/WD~postlude,2094385]]'
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/PRELYUDIYA.html
 Commons_category: Preludes (music)
 ---

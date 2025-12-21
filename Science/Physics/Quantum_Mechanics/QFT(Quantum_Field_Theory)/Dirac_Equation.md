@@ -1,6 +1,8 @@
 ---
 aliases:
   - Dirac equation
+  - Dirac_Equation
+  - Dirac Equation
 has_id_wikidata: Q272621
 different_from: "[[_Standards/WikiData/WD~Dirac_delta_function,209675]]"
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"

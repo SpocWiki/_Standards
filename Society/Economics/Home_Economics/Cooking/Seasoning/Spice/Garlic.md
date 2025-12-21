@@ -1,6 +1,7 @@
 ---
 aliases:
   - Knoblauch
+  - Garlic
 has_id_wikidata: Q21546392
 instance_of:
   - "[[_Standards/WikiData/WD~bulb,188748]]"
@@ -24,11 +25,11 @@ total_produced:
   - 1250000
 food_energy: 149
 PLU_code:
-  - "4610"
-  - "4608"
-  - "3400"
-  - "3399"
-  - "4611"
+  - 4610
+  - 4608
+  - 3400
+  - 3399
+  - 4611
 Commons_category: Garlic
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Garlic.jpg
 pronunciation_audio:
@@ -39,17 +40,17 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Wo-laac.ogg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Plant%20d%27ail.svg
 Amazon_com_browse_node:
-  - "16321641"
-  - "6465014011"
-  - "6523478011"
-  - "724703011"
+  - 16321641
+  - 6465014011
+  - 6523478011
+  - 724703011
 Wolfram_Language_entity_code: Entity["FoodType", "Garlic"]
 UNII: V1V998DC17
 Unicode_character: 🧄
 Wikidata_usage_instructions: Untuk bawang putih sebagai spesies, gunakan Q23400
 ---
 
-# [[Garlic]] 
+# [[Garlic]] 🧄 
 
 #is_/same_as :: [[WD~Garlic,21546392]] 
 

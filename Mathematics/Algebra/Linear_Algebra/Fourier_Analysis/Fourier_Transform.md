@@ -1,24 +1,26 @@
 ---
 aliases:
   - Fourier transform
+  - Fourier_Transform
+  - Fourier Transform
 has_id_wikidata: Q6520159
-subclass_of: "[[_Standards/WikiData/WD~integral_transform,877802]]"
-facet_of: "[[_Standards/WikiData/WD~Fourier_analysis,1365258]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Fourier_transforms,8089858]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-instance_of: "[[_Standards/WikiData/WD~mathematical_concept,24034552]]"
-mathematical_inverse: "[[_Standards/WikiData/WD~inverse_Fourier_transform,98968150]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]"
-different_from: "[[_Standards/WikiData/WD~Fourier_transformation,111178250]]"
+subclass_of: '[[_Standards/WikiData/WD~integral_transform,877802]]'
+facet_of: '[[_Standards/WikiData/WD~Fourier_analysis,1365258]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Fourier_transforms,8089858]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+mathematical_inverse: '[[_Standards/WikiData/WD~inverse_Fourier_transform,98968150]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+different_from: '[[_Standards/WikiData/WD~Fourier_transformation,111178250]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Fourier_cosine_transform,124684067]]"
-  - "[[_Standards/WikiData/WD~Fourier_sine_transform,124684079]]"
+  - '[[_Standards/WikiData/WD~Fourier_cosine_transform,124684067]]'
+  - '[[_Standards/WikiData/WD~Fourier_sine_transform,124684079]]'
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi data-mjx-variant="-tex-calligraphic">ℱ</mi></mrow></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>t</mi></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03C9;</mi></mstyle></mrow></math>
-named_after: "[[_Standards/WikiData/WD~Joseph_Fourier,8772]]"
+named_after: '[[_Standards/WikiData/WD~Joseph_Fourier,8772]]'
 short_name: FT
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi data-mjx-variant="-tex-calligraphic">ℱ</mi></mrow><mo stretchy="false">(</mo><mi>&#x03C9;</mi><mo stretchy="false">)</mo><mo stretchy="false">=</mo><munderover><mo form="prefix" stretchy="false">&#x222B;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mi mathvariant="normal">&#x221E;</mi></mrow></mrow><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">&#x221E;</mi></mrow></munderover><mi>f</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><msup><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">e</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow><mi>&#x03C9;</mi><mi>t</mi></mrow></mrow></msup><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">d</mi></mrow><mi>t</mi></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fourier%20transform%20time%20and%20frequency%20domains.gif

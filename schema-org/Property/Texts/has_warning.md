@@ -4,21 +4,23 @@ aliases:
   - warning
   - warning
   - has_text_of_warning
+  - has_warning
+  - has warning
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - warning
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_warning
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

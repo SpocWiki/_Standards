@@ -1,7 +1,4 @@
 ---
-age_of_candidacy: 18
-age_of_consent: 16
-age_of_majority: 18
 aliases:
   - Spain
   - España
@@ -11,6 +8,10 @@ aliases:
   - Испания
   - the Kingdom of Spain
   - el Reino de España
+has_id_wikidata: Q29
+age_of_candidacy: 18
+age_of_consent: 16
+age_of_majority: 18
 anthem: "[[_Standards/WikiData/WD~Marcha_Real,130940]]"
 area: 505990
 Baidu_Tieba_name: 西班牙
@@ -222,7 +223,7 @@ ethnic_group:
   - "[[_Standards/WikiData/WD~Galicians,752526]]"
   - "[[_Standards/WikiData/WD~Romani_people,8060]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Spain,1194749]]"
-expiryDate:
+expiryDate: ""
 Facebook_username: 060pag
 female_population:
   - 24030201
@@ -242,7 +243,6 @@ Happy_Planet_Index_score: 52.3
 hashtag: Spain
 has_cabinet: "[[_Standards/WikiData/WD~Council_of_Ministers_of_Spain,3058576]]"
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-has_id_wikidata: Q29
 has_part_s_of_the_class:
   - "[[_Standards/WikiData/WD~province_of_Spain,162620]]"
   - "[[_Standards/WikiData/WD~municipality_of_Spain,2074737]]"
@@ -285,7 +285,7 @@ ISO_3166_1_alpha_3_code: ESP
 ISO_3166_1_numeric_code: 724
 isReadOnly: false
 ITU_letter_code: E
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/ISPANIYA.html
 Languages:
   - es-ES
@@ -309,7 +309,7 @@ language_used:
   - "[[_Standards/WikiData/WD~Occitan,14185]]"
   - "[[_Standards/WikiData/WD~Asturian,29507]]"
   - "[[_Standards/WikiData/WD~Extremaduran,30007]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~Cortes_Generales,219692]]"
 Libris_URI: 0xbddljj0wdngtx
 licence_plate_code: E
@@ -339,7 +339,7 @@ life_expectancy:
   - 82.83171
   - 83.07805
   - 83.22927
-linkTitle:
+linkTitle: ""
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Iberian_Peninsula,12837]]"
 located_in_or_next_to_body_of_water:
   - "[[_Standards/WikiData/WD~Alboran_Sea,199408]]"
@@ -475,7 +475,7 @@ public_holiday:
   - "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
   - "[[_Standards/WikiData/WD~Christmas,19809]]"
 publish: true
-publishDate:
+publishDate: ""
 replaces:
   - "[[_Standards/WikiData/WD~Spanish_Empire,80702]]"
   - "[[_Standards/WikiData/WD~Kingdom_of_Aragon,199442]]"

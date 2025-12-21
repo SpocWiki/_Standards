@@ -1,13 +1,14 @@
 ---
 aliases:
   - Kalium
+  - Potassium
 has_id_wikidata: Q703
 ATC_code: A12BA
 atomic_number: 19
 boiling_point:
   - 1047
   - 773.85
-canonical_SMILES: "[K]"
+canonical_SMILES: '[K]'
 CAS_Registry_Number: 7440-09-7
 chemical_formula: K
 Colon_Classification: E112
@@ -17,43 +18,43 @@ density:
   - 0.828
   - 0.862
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Potassium,108309884]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Potassium,108309884]]'
 Dewey_Decimal_Classification: 546.383
-different_from: "[[_Standards/WikiData/WD~serum_potassium_level,658883]]"
+different_from: '[[_Standards/WikiData/WD~serum_potassium_level,658883]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Humphry_Davy,131761]]"
+  - '[[_Standards/WikiData/WD~Humphry_Davy,131761]]'
 DSSTOX_compound_identifier: DTXCID70820696
 EC_number: 231-119-8
 electronegativity: 0.82
 electron_configuration:
-  - "[Ar] 4s¹"
+  - '[Ar] 4s¹'
   - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹
 element_symbol: K
 found_in_taxon:
-  - "[[_Standards/WikiData/WD~Equisetum_arvense,107592]]"
-  - "[[_Standards/WikiData/WD~Hibiscus_sabdariffa,319390]]"
-  - "[[_Standards/WikiData/WD~Equisetum_telmateia,936546]]"
-  - "[[_Standards/WikiData/WD~Artemia_salina,1135229]]"
-  - "[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]"
-  - "[[_Standards/WikiData/WD~Montanoa_tomentosa,6904440]]"
-  - "[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]"
-  - "[[_Standards/WikiData/WD~Montanoa_frutescens,15564776]]"
-  - "[[_Standards/WikiData/WD~Montanoa_grandiflora,15564965]]"
-  - "[[_Standards/WikiData/WD~Montanoa_leucantha,15565960]]"
-  - "[[_Standards/WikiData/WD~Chamomilla_recutita,50837010]]"
-  - "[[_Standards/WikiData/WD~Matricaria_chamomilla,28437]]"
-  - "[[_Standards/WikiData/WD~cacao,42385]]"
+  - '[[_Standards/WikiData/WD~Equisetum_arvense,107592]]'
+  - '[[_Standards/WikiData/WD~Hibiscus_sabdariffa,319390]]'
+  - '[[_Standards/WikiData/WD~Equisetum_telmateia,936546]]'
+  - '[[_Standards/WikiData/WD~Artemia_salina,1135229]]'
+  - '[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]'
+  - '[[_Standards/WikiData/WD~Montanoa_tomentosa,6904440]]'
+  - '[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]'
+  - '[[_Standards/WikiData/WD~Montanoa_frutescens,15564776]]'
+  - '[[_Standards/WikiData/WD~Montanoa_grandiflora,15564965]]'
+  - '[[_Standards/WikiData/WD~Montanoa_leucantha,15565960]]'
+  - '[[_Standards/WikiData/WD~Chamomilla_recutita,50837010]]'
+  - '[[_Standards/WikiData/WD~Matricaria_chamomilla,28437]]'
+  - '[[_Standards/WikiData/WD~cacao,42385]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kalium.jpg
 InChI: InChI=1S/K
 InChIKey: ZLMJMSJWJFRBEC-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
   - 1.37
   - 1.38
@@ -69,25 +70,25 @@ MeSH_tree_code:
   - D01.268.557.575
   - D01.552.528.652
   - D01.552.547.650
-named_after: "[[_Standards/WikiData/WD~potash,10564271]]"
+named_after: '[[_Standards/WikiData/WD~potash,10564271]]'
 OmegaWiki_Defined_Meaning: 7255
 oxidation_state:
   - -1
   - 1
 part_of:
-  - "[[_Standards/WikiData/WD~period_4,239825]]"
-  - "[[_Standards/WikiData/WD~group_1,10801007]]"
-  - "[[_Standards/WikiData/WD~alkali_metal,19557]]"
+  - '[[_Standards/WikiData/WD~period_4,239825]]'
+  - '[[_Standards/WikiData/WD~group_1,10801007]]'
+  - '[[_Standards/WikiData/WD~alkali_metal,19557]]'
 PubChem_CID: 5462222
 safety_classification_and_labelling:
-  - "[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]"
-  - "[[_Standards/WikiData/WD~NFPA_704__Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
+  - '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]'
+  - '[[_Standards/WikiData/WD~NFPA_704__Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
 SpocWebEntityId: 21920
 standard_molar_entropy: 64.2
 subclass_of:
-  - "[[_Standards/WikiData/WD~s-block,208106]]"
-  - "[[_Standards/WikiData/WD~metal,11426]]"
-  - "[[_Standards/WikiData/WD~alkali_metal,19557]]"
+  - '[[_Standards/WikiData/WD~s-block,208106]]'
+  - '[[_Standards/WikiData/WD~metal,11426]]'
+  - '[[_Standards/WikiData/WD~alkali_metal,19557]]'
 time_of_discovery_or_invention: 1807
 type: Element
 UMLS_CUI: C0032821

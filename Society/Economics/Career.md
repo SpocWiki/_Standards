@@ -1,11 +1,12 @@
 ---
 aliases:
   - Karriere
+  - Career
 has_id_wikidata: Q282049
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q1807381,1807381]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q1807381,1807381]]'
 subclass_of: "[[_Standards/WikiData/WD~certain_aspects_of_a_person's_life,20127274]]"
-different_from: "[[_Standards/WikiData/WD~Kariera,29012343]]"
-IAB_code: "123"
+different_from: '[[_Standards/WikiData/WD~Kariera,29012343]]'
+IAB_code: 123
 subreddit:
   - Career
   - Careers

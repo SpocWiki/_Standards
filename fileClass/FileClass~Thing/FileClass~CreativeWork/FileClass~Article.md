@@ -1,62 +1,64 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Article
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: Cz9NtF
-  name: ArticleBody
-  options: {}
-  type: Input
-  path: ''
-- id: cjIHSp
-  name: ArticleSection
-  options: {}
-  type: Input
-  path: ''
-- id: JuFBFf
-  name: Backstory
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
-  type: MultiFile
-  path: ''
-- id: VtHY6u
-  name: PageEnd
-  options: {}
-  type: Number
-  path: ''
-- id: wVxNKW
-  name: PageStart
-  options: {}
-  type: Number
-  path: ''
-- id: bn8kyf
-  name: Pagination
-  options: {}
-  type: Input
-  path: ''
-- id: 9hotyJ
-  name: Speakable
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/SpeakableSpecification')"
-  type: MultiFile
-  path: ''
-- id: UFKbDM
-  name: WordCount
-  options: {}
-  type: Number
-  path: ''
+  - id: Cz9NtF
+    name: ArticleBody
+    options: {}
+    type: Input
+    path: ''
+  - id: cjIHSp
+    name: ArticleSection
+    options: {}
+    type: Input
+    path: ''
+  - id: JuFBFf
+    name: Backstory
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ''
+  - id: VtHY6u
+    name: PageEnd
+    options: {}
+    type: Number
+    path: ''
+  - id: wVxNKW
+    name: PageStart
+    options: {}
+    type: Number
+    path: ''
+  - id: bn8kyf
+    name: Pagination
+    options: {}
+    type: Input
+    path: ''
+  - id: 9hotyJ
+    name: Speakable
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/SpeakableSpecification')
+    type: MultiFile
+    path: ''
+  - id: UFKbDM
+    name: WordCount
+    options: {}
+    type: Number
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Article
-- class/Thing/CreativeWork/Article
-- is_an_/Article
-- schema-org/Article
+  - class/Article
+  - class/Thing/CreativeWork/Article
+  - is_an_/Article
+  - schema-org/Article
 tags:
-- class/FileClass
-- class/Article
-- '#is_an_/Article'
-- class/Thing/CreativeWork/Article
+  - class/FileClass
+  - class/Article
+  - '#is_an_/Article'
+  - class/Thing/CreativeWork/Article
 version: 2.0
 ---
 

@@ -4,21 +4,22 @@ aliases:
   - news_updates_and_guidelines
   - newsUpdatesAndGuidelines
   - has_url_for_news_updates_and_guidelines
+  - has url for news updates and guidelines
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - news_updates_and_guidelines
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_news_updates_and_guidelines
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

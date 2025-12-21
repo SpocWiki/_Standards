@@ -1,25 +1,27 @@
 ---
-excludes: 
+aliases:
+  - FileClass~OrganizationRole
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Role
 fields:
-- id: SwHLeB
-  name: NumberedPosition
-  options: {}
-  type: Number
-  path: ''
+  - id: SwHLeB
+    name: NumberedPosition
+    options: {}
+    type: Number
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/OrganizationRole
-- class/Thing/Intangible/Role/OrganizationRole
-- is_an_/OrganizationRole
-- schema-org/OrganizationRole
+  - class/OrganizationRole
+  - class/Thing/Intangible/Role/OrganizationRole
+  - is_an_/OrganizationRole
+  - schema-org/OrganizationRole
 tags:
-- class/FileClass
-- class/OrganizationRole
-- '#is_an_/OrganizationRole'
-- class/Thing/Intangible/Role/OrganizationRole
+  - class/FileClass
+  - class/OrganizationRole
+  - '#is_an_/OrganizationRole'
+  - class/Thing/Intangible/Role/OrganizationRole
 version: 2.0
 ---
 

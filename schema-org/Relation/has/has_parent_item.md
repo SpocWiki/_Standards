@@ -3,23 +3,24 @@ aliases:
   - has parent-item
   - parentItem
   - has_parent_item
+  - has parent item
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - parent_item
   - parent
   - item
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_parent_item
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

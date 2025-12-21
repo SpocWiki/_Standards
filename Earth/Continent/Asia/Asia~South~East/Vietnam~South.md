@@ -1,12 +1,14 @@
 ---
+aliases:
+  - Vietnam~South
 confidential: public
 isDeleted: false
 location:
-- 10.75
-- 106.667
+  - 10.75
+  - 106.667
 SpocWebEntityId: 76701
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

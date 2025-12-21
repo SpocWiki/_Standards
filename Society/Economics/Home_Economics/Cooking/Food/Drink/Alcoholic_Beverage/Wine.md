@@ -2,7 +2,8 @@
 aliases:
   - Wine
   - Wein
-Amazon_com_browse_node: "2983386011"
+has_id_wikidata: Q282
+Amazon_com_browse_node: 2983386011
 Colon_Classification: F547
 color:
   - "[[_Standards/WikiData/WD~pink,429220]]"
@@ -11,7 +12,7 @@ color:
   - "[[_Standards/WikiData/WD~orange,39338]]"
 Commons_category: Wine
 Commons_gallery: Wine
-CosIng_number: "60188"
+CosIng_number: 60188
 described_by_source:
   - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -24,7 +25,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
   - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-Dewey_Decimal_Classification: "641.22"
+Dewey_Decimal_Classification: 641.22
 different_from: "[[_Standards/WikiData/WD~wino,6167984]]"
 disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 earliest_date: -5400-01-01T00:00:00Z
@@ -33,7 +34,6 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_01000014
 GitHub_topic:
   - wines
   - wine
-has_id_wikidata: Q282
 has_part_s_:
   - "[[_Standards/WikiData/WD~sparkling_wine,321263]]"
   - "[[_Standards/WikiData/WD~red_wine,1827]]"
@@ -55,7 +55,7 @@ MeSH_tree_code:
   - J02.200.559.968
   - J02.350.594.968
 natural_product_of_taxon: "[[_Standards/WikiData/WD~Vitis_vinifera_subsp._vinifera,20634]]"
-OmegaWiki_Defined_Meaning: "6329"
+OmegaWiki_Defined_Meaning: 6329
 produced_by:
   - "[[_Standards/WikiData/WD~yeast_in_winemaking,3237250]]"
   - "[[_Standards/WikiData/WD~fermentation,41760]]"
@@ -74,7 +74,7 @@ IMDb_keyword: wine
 ---
 
 
-# [[Wine]]
+# [[Wine]] 🍷 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Wine,282|WD~Wine,282]]
 

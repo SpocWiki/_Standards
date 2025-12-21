@@ -1,21 +1,23 @@
 ---
 aliases:
   - Computer animation
+  - Computer_Animation
+  - Computer Animation
 has_id_wikidata: Q1401416
-instance_of: "[[_Standards/WikiData/WD~animation_technique,3516833]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_computer_animation,5867556]]"
+instance_of: '[[_Standards/WikiData/WD~animation_technique,3516833]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_computer_animation,5867556]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~computer_generated_imagery,6002306]]"
-  - "[[_Standards/WikiData/WD~animation,11425]]"
+  - '[[_Standards/WikiData/WD~computer_generated_imagery,6002306]]'
+  - '[[_Standards/WikiData/WD~animation,11425]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~2D_animation_software,23442338]]"
-  - "[[_Standards/WikiData/WD~Sonic_X_Galaxy_Angel_S_X,23442766]]"
+  - '[[_Standards/WikiData/WD~2D_animation_software,23442338]]'
+  - '[[_Standards/WikiData/WD~Sonic_X_Galaxy_Angel_S_X,23442766]]'
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~computer_animated_film,28968258]]"
-  - "[[_Standards/WikiData/WD~computer_animated_television_series,54932319]]"
-has_use: "[[_Standards/WikiData/WD~computer_animated_film,28968258]]"
-described_by_source: "[[_Standards/WikiData/WD~Q131308011,131308011]]"
-IAB_code: "610"
+  - '[[_Standards/WikiData/WD~computer_animated_film,28968258]]'
+  - '[[_Standards/WikiData/WD~computer_animated_television_series,54932319]]'
+has_use: '[[_Standards/WikiData/WD~computer_animated_film,28968258]]'
+described_by_source: '[[_Standards/WikiData/WD~Q131308011,131308011]]'
+IAB_code: 610
 short_name: компьютерная
 start_time:
   - 1973-01-01T00:00:00Z

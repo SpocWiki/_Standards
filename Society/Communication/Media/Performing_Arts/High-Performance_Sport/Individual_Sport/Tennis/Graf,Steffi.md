@@ -5,6 +5,7 @@ aliases:
   - Stefanie Graf
   - Steffi Graf
   - Graf
+  - Graf,Steffi
 has_id_wikidata: Q11662
 Facebook_username: officialsteffigraf
 Commons_category: Steffi Graf
@@ -13,61 +14,61 @@ birth_name: Stephanie Maria Graf
 prize_money: 21895277
 work_period_end_: 1999-01-01T00:00:00Z
 award_received:
-  - "[[_Standards/WikiData/WD~Silbernes_Lorbeerblatt,315026]]"
-  - "[[_Standards/WikiData/WD~Order_of_Merit_of_Baden_Württemberg,445673]]"
-  - "[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]"
-  - "[[_Standards/WikiData/WD~Hall_of_Fame_des_deutschen_Sports,1571341]]"
-  - "[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Sports,3320370]]"
-  - "[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]"
-  - "[[_Standards/WikiData/WD~Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905380]]"
-  - "[[_Standards/WikiData/WD~Silver_Olympic_Order,15279723]]"
-  - "[[_Standards/WikiData/WD~Best_Female_Tennis_Player_ESPY_Award,16275104]]"
-  - "[[_Standards/WikiData/WD~Q47015564,47015564]]"
-  - "[[_Standards/WikiData/WD~International_Tennis_Hall_of_Fame,52454]]"
+  - '[[_Standards/WikiData/WD~Silbernes_Lorbeerblatt,315026]]'
+  - '[[_Standards/WikiData/WD~Order_of_Merit_of_Baden_Württemberg,445673]]'
+  - '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
+  - '[[_Standards/WikiData/WD~Hall_of_Fame_des_deutschen_Sports,1571341]]'
+  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Sports,3320370]]'
+  - '[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]'
+  - '[[_Standards/WikiData/WD~Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905380]]'
+  - '[[_Standards/WikiData/WD~Silver_Olympic_Order,15279723]]'
+  - '[[_Standards/WikiData/WD~Best_Female_Tennis_Player_ESPY_Award,16275104]]'
+  - '[[_Standards/WikiData/WD~Q47015564,47015564]]'
+  - '[[_Standards/WikiData/WD~International_Tennis_Hall_of_Fame,52454]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Maria,325872]]"
-  - "[[_Standards/WikiData/WD~Stephanie,1291472]]"
-  - "[[_Standards/WikiData/WD~Steffi,19689541]]"
-different_from: "[[_Standards/WikiData/WD~Stephanie_Graf,466618]]"
-member_of_sports_team: "[[_Standards/WikiData/WD~Germany_Billie_Jean_King_Cup_team,551743]]"
-advertises: "[[_Standards/WikiData/WD~Barilla_Group,762787]]"
-family_name: "[[_Standards/WikiData/WD~Graf,1158367]]"
+  - '[[_Standards/WikiData/WD~Maria,325872]]'
+  - '[[_Standards/WikiData/WD~Stephanie,1291472]]'
+  - '[[_Standards/WikiData/WD~Steffi,19689541]]'
+different_from: '[[_Standards/WikiData/WD~Stephanie_Graf,466618]]'
+member_of_sports_team: '[[_Standards/WikiData/WD~Germany_Billie_Jean_King_Cup_team,551743]]'
+advertises: '[[_Standards/WikiData/WD~Barilla_Group,762787]]'
+family_name: '[[_Standards/WikiData/WD~Graf,1158367]]'
 occupation:
-  - "[[_Standards/WikiData/WD~athlete,2066131]]"
-  - "[[_Standards/WikiData/WD~tennis_player,10833314]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-father: "[[_Standards/WikiData/WD~Peter_Graf,2075239]]"
+  - '[[_Standards/WikiData/WD~athlete,2066131]]'
+  - '[[_Standards/WikiData/WD~tennis_player,10833314]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+father: '[[_Standards/WikiData/WD~Peter_Graf,2075239]]'
 residence:
-  - "[[_Standards/WikiData/WD~Las_Vegas_Valley,2624848]]"
-  - "[[_Standards/WikiData/WD~Mannheim,2119]]"
-handedness: "[[_Standards/WikiData/WD~right_handedness,3039938]]"
+  - '[[_Standards/WikiData/WD~Las_Vegas_Valley,2624848]]'
+  - '[[_Standards/WikiData/WD~Mannheim,2119]]'
+handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
 playing_hand:
-  - "[[_Standards/WikiData/WD~right_handedness,3039938]]"
-  - "[[_Standards/WikiData/WD~one_handed_forehand,14419931]]"
-  - "[[_Standards/WikiData/WD~one_handed_backhand,14420039]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
+  - '[[_Standards/WikiData/WD~right_handedness,3039938]]'
+  - '[[_Standards/WikiData/WD~one_handed_forehand,14419931]]'
+  - '[[_Standards/WikiData/WD~one_handed_backhand,14420039]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 sports_discipline_competed_in:
-  - "[[_Standards/WikiData/WD~tennis_singles,18123880]]"
-  - "[[_Standards/WikiData/WD~tennis_doubles,18123885]]"
+  - '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
+  - '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
 child:
-  - "[[_Standards/WikiData/WD~Jaden_Gil_Agassi,22566830]]"
-  - "[[_Standards/WikiData/WD~Jaz_Elle_Agassi,22566831]]"
+  - '[[_Standards/WikiData/WD~Jaden_Gil_Agassi,22566830]]'
+  - '[[_Standards/WikiData/WD~Jaz_Elle_Agassi,22566831]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Great_Women_Athletes_of_the_20th_Century,119982761]]"
-sport: "[[_Standards/WikiData/WD~tennis,847]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Great_Women_Athletes_of_the_20th_Century,119982761]]'
+sport: '[[_Standards/WikiData/WD~tennis,847]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-place_of_birth: "[[_Standards/WikiData/WD~Mannheim,2119]]"
-spouse: "[[_Standards/WikiData/WD~Andre_Agassi,7407]]"
-work_location: "[[_Standards/WikiData/WD~Las_Vegas,23768]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~German,188]]'
+place_of_birth: '[[_Standards/WikiData/WD~Mannheim,2119]]'
+spouse: '[[_Standards/WikiData/WD~Andre_Agassi,7407]]'
+work_location: '[[_Standards/WikiData/WD~Las_Vegas,23768]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ranking:
   - 1
   - 5
-country_of_citizenship: "[[_Standards/WikiData/WD~Germany,183]]"
-country_for_sport: "[[_Standards/WikiData/WD~Germany,183]]"
+country_of_citizenship: '[[_Standards/WikiData/WD~Germany,183]]'
+country_for_sport: '[[_Standards/WikiData/WD~Germany,183]]'
 number_of_children: 2
 mass: 65
 height: 176
@@ -77,8 +78,8 @@ work_period_start_: 1982-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Steffi%20Graf%20in%20Hamburg%202010%20%28cropped%29.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Steffi%20Graf%20signature.png
 official_website: http://www.steffi-graf.net
-ISNI: "0000000078585804"
-Munzinger_Sport_number: "01000000363"
+ISNI: 0000000078585804
+Munzinger_Sport_number: 01000000363
 doubles_record: 173–72
 ---
 

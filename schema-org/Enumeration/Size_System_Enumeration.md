@@ -4,20 +4,22 @@ aliases:
   - size_system_enumeration
   - SizeSystemEnumeration
   - is_a_size_system_enumeration
+  - Size_System_Enumeration
+  - Size System Enumeration
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - size_system_enumeration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_size_system_enumeration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

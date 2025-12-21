@@ -4,22 +4,23 @@ aliases:
   - result_comment
   - resultComment
   - has_result_comment
+  - has result comment
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - result
   - comment
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_result_comment
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

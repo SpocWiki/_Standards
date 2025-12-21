@@ -1,25 +1,27 @@
 ---
 aliases:
   - Great Turkish War
+  - 1683-Great_Turkish_War–1699
+  - 1683-Great Turkish War–1699
 has_id_wikidata: Q74623
 participant:
-  - "[[_Standards/WikiData/WD~Serbs,127885]]"
-  - "[[_Standards/WikiData/WD~Bulgarians,133255]]"
-  - "[[_Standards/WikiData/WD~Habsburg_monarchy,153136]]"
-  - "[[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107]]"
-  - "[[_Standards/WikiData/WD~Albanians,179248]]"
-  - "[[_Standards/WikiData/WD~Tsardom_of_Russia,186096]]"
-  - "[[_Standards/WikiData/WD~Greeks,539051]]"
-  - "[[_Standards/WikiData/WD~Duchy_of_Mantua,766501]]"
-  - "[[_Standards/WikiData/WD~Prince_Bishopric_of_Montenegro,3324486]]"
-  - "[[_Standards/WikiData/WD~Republic_of_Venice,4948]]"
-  - "[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]"
-  - "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
-described_by_source: "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Campaignbox_Great_Turkish_War,6855784]]"
+  - '[[_Standards/WikiData/WD~Serbs,127885]]'
+  - '[[_Standards/WikiData/WD~Bulgarians,133255]]'
+  - '[[_Standards/WikiData/WD~Habsburg_monarchy,153136]]'
+  - '[[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107]]'
+  - '[[_Standards/WikiData/WD~Albanians,179248]]'
+  - '[[_Standards/WikiData/WD~Tsardom_of_Russia,186096]]'
+  - '[[_Standards/WikiData/WD~Greeks,539051]]'
+  - '[[_Standards/WikiData/WD~Duchy_of_Mantua,766501]]'
+  - '[[_Standards/WikiData/WD~Prince_Bishopric_of_Montenegro,3324486]]'
+  - '[[_Standards/WikiData/WD~Republic_of_Venice,4948]]'
+  - '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]'
+  - '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
+described_by_source: '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Campaignbox_Great_Turkish_War,6855784]]'
 end_time: 1699-01-01T00:00:00Z
-locations: "[[_Standards/WikiData/WD~Austria,40]]"
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+locations: '[[_Standards/WikiData/WD~Austria,40]]'
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
 start_time: 1683-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vienna%20Battle%201683.jpg
 Commons_category: Great Turkish War

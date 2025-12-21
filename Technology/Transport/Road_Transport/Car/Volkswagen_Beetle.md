@@ -1,26 +1,28 @@
 ---
 aliases:
   - VW Käfer
+  - Volkswagen_Beetle
+  - Volkswagen Beetle
 has_id_wikidata: Q152946
-manufacturer: "[[_Standards/WikiData/WD~Volkswagen_Group,156578]]"
-powered_by: "[[_Standards/WikiData/WD~gasoline_engine,502048]]"
+manufacturer: '[[_Standards/WikiData/WD~Volkswagen_Group,156578]]'
+powered_by: '[[_Standards/WikiData/WD~gasoline_engine,502048]]'
 country_of_origin:
-  - "[[_Standards/WikiData/WD~West_Germany,713750]]"
-  - "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-subclass_of: "[[_Standards/WikiData/WD~compact_car,946808]]"
+  - '[[_Standards/WikiData/WD~West_Germany,713750]]'
+  - '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+  - '[[_Standards/WikiData/WD~Germany,183]]'
+subclass_of: '[[_Standards/WikiData/WD~compact_car,946808]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~automobile_model,3231690]]"
-  - "[[_Standards/WikiData/WD~automobile_model_series,59773381]]"
-described_by_source: "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-has_part_s_: "[[_Standards/WikiData/WD~frunk,104816707]]"
-commissioned_by: "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
-sport: "[[_Standards/WikiData/WD~rallying,7856]]"
-brand: "[[_Standards/WikiData/WD~Volkswagen,246]]"
-followed_by: "[[_Standards/WikiData/WD~Volkswagen_Golf,247]]"
+  - '[[_Standards/WikiData/WD~automobile_model,3231690]]'
+  - '[[_Standards/WikiData/WD~automobile_model_series,59773381]]'
+described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+has_part_s_: '[[_Standards/WikiData/WD~frunk,104816707]]'
+commissioned_by: '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+sport: '[[_Standards/WikiData/WD~rallying,7856]]'
+brand: '[[_Standards/WikiData/WD~Volkswagen,246]]'
+followed_by: '[[_Standards/WikiData/WD~Volkswagen_Golf,247]]'
 height: 1500
-designed_by: "[[_Standards/WikiData/WD~Ferdinand_Porsche,57249]]"
-OmegaWiki_Defined_Meaning: "1261804"
+designed_by: '[[_Standards/WikiData/WD~Ferdinand_Porsche,57249]]'
+OmegaWiki_Defined_Meaning: 1261804
 total_produced: 21529464
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Utah%20VW%20Bug.stl
 image: http://commons.wikimedia.org/wiki/Special:FilePath/VW%20K%C3%A4fer%20Baujahr%201966.jpg

@@ -1,9 +1,12 @@
 ---
+aliases:
+  - West_Bank_and_Gaza
+  - West Bank and Gaza
 confidential: public
 isDeleted: false
 SpocWebEntityId: 57607
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

@@ -4,20 +4,22 @@ aliases:
   - cable_or_satellite_service
   - CableOrSatelliteService
   - is_a_cable_or_satellite_service
+  - Cable_or_Satellite_Service
+  - Cable or Satellite Service
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - cable_or_satellite_service
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_cable_or_satellite_service Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

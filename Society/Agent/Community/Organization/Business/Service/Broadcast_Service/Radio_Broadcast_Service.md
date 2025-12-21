@@ -4,20 +4,22 @@ aliases:
   - radio_broadcast_service
   - RadioBroadcastService
   - is_a_radio_broadcast_service
+  - Radio_Broadcast_Service
+  - Radio Broadcast Service
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - radio_broadcast_service
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_radio_broadcast_service Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

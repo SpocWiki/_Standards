@@ -2,14 +2,16 @@
 aliases:
   - Open society
   - société ouverte
+  - Open_Society
+  - Open Society
 has_id_wikidata: Q505605
-significant_person: "[[_Standards/WikiData/WD~Karl_Popper,81244]]"
-opposite_of: "[[_Standards/WikiData/WD~closed_society,10259854]]"
-instance_of: "[[_Standards/WikiData/WD~political_ideology,12909644]]"
-described_by_source: "[[_Standards/WikiData/WD~Siyasî_Düşünce_Sözlüğü,122958404]]"
-influenced_by: "[[_Standards/WikiData/WD~liberalism,6216]]"
-subclass_of: "[[_Standards/WikiData/WD~society,8425]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Henri_Bergson,42156]]"
+significant_person: '[[_Standards/WikiData/WD~Karl_Popper,81244]]'
+opposite_of: '[[_Standards/WikiData/WD~closed_society,10259854]]'
+instance_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+described_by_source: '[[_Standards/WikiData/WD~Siyasî_Düşünce_Sözlüğü,122958404]]'
+influenced_by: '[[_Standards/WikiData/WD~liberalism,6216]]'
+subclass_of: '[[_Standards/WikiData/WD~society,8425]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Henri_Bergson,42156]]'
 Wolfram_Language_entity_code: Entity["Concept", "OpenSociety::ysrt7"]
 Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/OTKRITOE_OBSHCHESTVO.html
 Commons_category: Open Society

@@ -1,26 +1,27 @@
 ---
 aliases:
-- Garfield,James_A
-- "James A. Garfield"
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Garfield,James_A
+  - James A. Garfield
+  - ''
+  - Garfield,James A
 has_id_wikidata: Q34597
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Garfield,James_A
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Garfield,James_A
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Garfield,James_A
-- 
+  - Garfield,James_A
+  - ''
 title: Garfield,James_A
 type: private_note
 ---

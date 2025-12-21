@@ -1,18 +1,20 @@
 ---
 aliases:
   - Galois theory
+  - Galois_Theory
+  - Galois Theory
 has_id_wikidata: Q92552
-different_from: "[[_Standards/WikiData/WD~Galois_group,730384]]"
+different_from: '[[_Standards/WikiData/WD~Galois_group,730384]]'
 part_of:
-  - "[[_Standards/WikiData/WD~field_theory,903820]]"
-  - "[[_Standards/WikiData/WD~invariant_theory,1855669]]"
-  - "[[_Standards/WikiData/WD~theory_of_algebraic_field_extensions,114682716]]"
-  - "[[_Standards/WikiData/WD~Q114705112,114705112]]"
-  - "[[_Standards/WikiData/WD~Q114728144,114728144]]"
-subclass_of: "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-instance_of: "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
-described_by_source: "[[_Standards/WikiData/WD~Galois_Theory_for_Beginners_A_Historical_Perspective,55921903]]"
+  - '[[_Standards/WikiData/WD~field_theory,903820]]'
+  - '[[_Standards/WikiData/WD~invariant_theory,1855669]]'
+  - '[[_Standards/WikiData/WD~theory_of_algebraic_field_extensions,114682716]]'
+  - '[[_Standards/WikiData/WD~Q114705112,114705112]]'
+  - '[[_Standards/WikiData/WD~Q114728144,114728144]]'
+subclass_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
+described_by_source: '[[_Standards/WikiData/WD~Galois_Theory_for_Beginners_A_Historical_Perspective,55921903]]'
 Commons_category: Galois theory
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lattice%20diagram%20of%20Q%20adjoin%20the%20positive%20square%20roots%20of%202%20and%203%2C%20its%20subfields%2C%20and%20Galois%20groups.svg
 Stack_Exchange_tag:

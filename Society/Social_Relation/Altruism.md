@@ -1,27 +1,29 @@
 ---
+aliases:
+  - Altruism
 has_id_wikidata: Q167323
-instance_of: "[[_Standards/WikiData/WD~virtue,157811]]"
-opposite_of: "[[_Standards/WikiData/WD~egoism,238350]]"
+instance_of: '[[_Standards/WikiData/WD~virtue,157811]]'
+opposite_of: '[[_Standards/WikiData/WD~egoism,238350]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice,21002838]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-subclass_of: "[[_Standards/WikiData/WD~behavior,2515874]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice,21002838]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+subclass_of: '[[_Standards/WikiData/WD~behavior,2515874]]'
 different_from:
-  - "[[_Standards/WikiData/WD~helping_behavior,5710255]]"
-  - "[[_Standards/WikiData/WD~Q95492778,95492778]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~unselfishness,9169855]]"
+  - '[[_Standards/WikiData/WD~helping_behavior,5710255]]'
+  - '[[_Standards/WikiData/WD~Q95492778,95492778]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~unselfishness,9169855]]'
 Archive_of_Our_Own_tag:
   - selflessness
   - Altruism
-OmegaWiki_Defined_Meaning: "367945"
+OmegaWiki_Defined_Meaning: 367945
 PhilPapers_topic: altruism
-P8189: "987007294751305171"
+P8189: 987007294751305171
 Commons_category: Altruism
 MeSH_tree_code: F01.145.813.090
 Krugosvet_article: gumanitarnye_nauki/filosofiya/ALTRUIZM.html

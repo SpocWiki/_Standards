@@ -2,28 +2,29 @@
 aliases:
   - Schere
   - shears
+  - Scissors
 has_id_wikidata: Q40847
 has_part_s_:
-  - "[[_Standards/WikiData/WD~handle,200266]]"
-  - "[[_Standards/WikiData/WD~blade,330946]]"
-  - "[[_Standards/WikiData/WD~fulcrum,3754170]]"
+  - '[[_Standards/WikiData/WD~handle,200266]]'
+  - '[[_Standards/WikiData/WD~blade,330946]]'
+  - '[[_Standards/WikiData/WD~fulcrum,3754170]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~cutting_tool,1760958]]"
-  - "[[_Standards/WikiData/WD~hand_tool,2578402]]"
-  - "[[_Standards/WikiData/WD~long_and_narrow_object,113383399]]"
-different_from: "[[_Standards/WikiData/WD~Schere,21859015]]"
+  - '[[_Standards/WikiData/WD~cutting_tool,1760958]]'
+  - '[[_Standards/WikiData/WD~hand_tool,2578402]]'
+  - '[[_Standards/WikiData/WD~long_and_narrow_object,113383399]]'
+different_from: '[[_Standards/WikiData/WD~Schere,21859015]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~steel,11427]]"
-  - "[[_Standards/WikiData/WD~plastic,11474]]"
-Nomenclature_for_Museum_Cataloging: "6604"
-OmegaWiki_Defined_Meaning: "5807"
+  - '[[_Standards/WikiData/WD~steel,11427]]'
+  - '[[_Standards/WikiData/WD~plastic,11474]]'
+Nomenclature_for_Museum_Cataloging: 6604
+OmegaWiki_Defined_Meaning: 5807
 Commons_gallery: Scissors
 Commons_category: Scissors
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Scissors%20collection.jpg

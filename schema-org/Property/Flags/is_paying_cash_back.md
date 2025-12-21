@@ -4,21 +4,22 @@ aliases:
   - paying_cash_back
   - cashBack
   - is_paying_cash_back
+  - is paying cash back
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - paying_cash_back
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_paying_cash_back
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

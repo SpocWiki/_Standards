@@ -1,10 +1,12 @@
 ---
 aliases:
   - Free-electron_laser
+  - Free-Electron_Laser
+  - Free-Electron Laser
 has_id_wikidata: Q586386
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>&#x03BB;</mi><mrow data-mjx-texclass="ORD"><mi>r</mi></mrow></msub><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><msub><mi>&#x03BB;</mi><mrow data-mjx-texclass="ORD"><mi>u</mi></mrow></msub></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mn>2</mn><msup><mi>&#x03B3;</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mrow></mrow></mfrac></mrow><mo stretchy="false">(</mo><mn>1</mn><mo stretchy="false">+</mo><msup><mi>K</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">)</mo></mstyle></mrow></math>
-subclass_of: "[[_Standards/WikiData/WD~laser,38867]]"
+subclass_of: '[[_Standards/WikiData/WD~laser,38867]]'
 Commons_category: Free-electron lasers
 ---
 

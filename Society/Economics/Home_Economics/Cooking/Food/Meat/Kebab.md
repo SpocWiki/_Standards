@@ -2,16 +2,17 @@
 aliases:
   - kebap
   - kabab
+  - Kebab
 has_id_wikidata: Q179010
 made_from_material:
-  - "[[_Standards/WikiData/WD~pita,211340]]"
-  - "[[_Standards/WikiData/WD~meat,10990]]"
-subclass_of: "[[_Standards/WikiData/WD~dish,746549]]"
-course: "[[_Standards/WikiData/WD~main_course,772630]]"
-part_of: "[[_Standards/WikiData/WD~Middle_Eastern_cuisine,1547037]]"
-different_from: "[[_Standards/WikiData/WD~grilled_skewer,108885127]]"
-instance_of: "[[_Standards/WikiData/WD~grilled_skewer,108885127]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~shashlik,15181]]"
+  - '[[_Standards/WikiData/WD~pita,211340]]'
+  - '[[_Standards/WikiData/WD~meat,10990]]'
+subclass_of: '[[_Standards/WikiData/WD~dish,746549]]'
+course: '[[_Standards/WikiData/WD~main_course,772630]]'
+part_of: '[[_Standards/WikiData/WD~Middle_Eastern_cuisine,1547037]]'
+different_from: '[[_Standards/WikiData/WD~grilled_skewer,108885127]]'
+instance_of: '[[_Standards/WikiData/WD~grilled_skewer,108885127]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~shashlik,15181]]'
 native_label:
   - कबाब
   - کباب
@@ -30,7 +31,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-kebab.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sv-kebab.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lula%20kebab%202.jpg
-Amazon_com_browse_node: "6518160011"
+Amazon_com_browse_node: 6518160011
 ---
 
 # [[Kebab]] 

@@ -1,26 +1,28 @@
 ---
+aliases:
+  - Admiral
+has_id_wikidata: Q132851
 category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59690478,59690478]]'
 Commons_category: Admirals
 depicted_by: '[[_Standards/WikiData/WD~Portrait_of_an_admiral,131579657]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from: '[[_Standards/WikiData/WD~Admiral,206139]]'
 facet_of: '[[_Standards/WikiData/WD~Maritime_history_of_Arabia,89648406]]'
 female_form_of_label: almiranta
-has_id_wikidata: Q132851
 honorific_prefix: '[[_Standards/WikiData/WD~Admiral,121641141]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bouricius%2C%20J.F.D..jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Bouricius%2C%20J.F.D..jpg
 IMDb_keyword: admiral
 instance_of: '[[_Standards/WikiData/WD~naval_officer_rank,4226220]]'
 KldB_2010_occupation_code: 01104
 male_form_of_label:
-- ammiraglio
-- amiral
+  - ammiraglio
+  - amiral
 next_higher_rank: '[[_Standards/WikiData/WD~admiral_of_the_fleet,842486]]'
 P8189: 987007292814805171
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~colonel_general,155327]]'

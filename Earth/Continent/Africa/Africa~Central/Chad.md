@@ -1,11 +1,20 @@
 ---
+aliases:
+  - Chad
+  - Tchad
+  - تشاد
+  - 乍得
+  - Чад
+  - the Republic of Chad
+  - la República del Chad
+  - Chad (el)
+has_id_wikidata: Q657
 location:
   - 12.1
   - 16.0333
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q657
 SpocWebEntityId: 27029
 isDeleted: false
 confidential: public
@@ -16,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Chad
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Chad
-  - Tchad
-  - تشاد
-  - 乍得
-  - Чад
-  - the Republic of Chad
-  - la República del Chad
-  - Chad (el)
+publishDate: ""
+expiryDate: ""
 Languages:
   - fr-TD
   - ar-TD

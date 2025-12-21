@@ -1,21 +1,22 @@
 ---
 aliases:
   - Gelb
+  - Yellow
 has_id_wikidata: Q943
-instance_of: "[[_Standards/WikiData/WD~primary_color,166902]]"
+instance_of: '[[_Standards/WikiData/WD~primary_color,166902]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-different_from: "[[_Standards/WikiData/WD~Vàng,9393441]]"
-part_of: "[[_Standards/WikiData/WD~seven_prismatic_colors,43213808]]"
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+different_from: '[[_Standards/WikiData/WD~Vàng,9393441]]'
+part_of: '[[_Standards/WikiData/WD~seven_prismatic_colors,43213808]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~color,1075]]"
-  - "[[_Standards/WikiData/WD~light,9128]]"
-followed_by: "[[_Standards/WikiData/WD~green,3133]]"
-follows: "[[_Standards/WikiData/WD~orange,39338]]"
+  - '[[_Standards/WikiData/WD~color,1075]]'
+  - '[[_Standards/WikiData/WD~light,9128]]'
+followed_by: '[[_Standards/WikiData/WD~green,3133]]'
+follows: '[[_Standards/WikiData/WD~orange,39338]]'
 frequency: 516000000000000
 wavelength: 575
-OmegaWiki_Defined_Meaning: "6031"
+OmegaWiki_Defined_Meaning: 6031
 CSS_color_keyword: yellow
 subreddit: yellow
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Color%20icon%20yellow.svg
@@ -26,12 +27,12 @@ sRGB_color_hex_triplet: FFFF00
 Iconclass_notation: 22C4(YELLOW)
 OpenStreetMap_tag_or_key: Tag:colour=yellow
 Dewey_Decimal_Classification:
-  - "535.6"
-  - "701.85"
+  - 535.6
+  - 701.85
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-groc-spreadthesign.ogv
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9129%20%28gre%29-MARKELLOS-%CE%BA%CE%AF%CF%84%CF%81%CE%B9%CE%BD%CE%BF.wav
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Geel%20%28kleur%29-article.ogg
-P8189: "987007531691205171"
+P8189: 987007531691205171
 Wolfram_Language_entity_code:
   - Entity["Color", {"Crayola", "Yellow"}]
   - Entity["Color", {"WolframLanguage", "Yellow"}]

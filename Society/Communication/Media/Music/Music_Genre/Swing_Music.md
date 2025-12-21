@@ -2,17 +2,19 @@
 aliases:
   - Swing music
   - Swing
+  - Swing_Music
+  - Swing Music
 has_id_wikidata: Q203775
 different_from:
-  - "[[_Standards/WikiData/WD~swing,123704]]"
-  - "[[_Standards/WikiData/WD~swing,1964690]]"
-instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
-subclass_of: "[[_Standards/WikiData/WD~jazz,8341]]"
+  - '[[_Standards/WikiData/WD~swing,123704]]'
+  - '[[_Standards/WikiData/WD~swing,1964690]]'
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
+subclass_of: '[[_Standards/WikiData/WD~jazz,8341]]'
 Commons_category: Swing
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Andri%20from%20Pagefire%20-%20Pushing%20The%20Pianist%20Down%20The%20Stairs.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Swingbop%27ers%20Kombo%2C%20Swing%20Band%20Berlin.png
 inception: 1930-01-01T00:00:00Z
-Dewey_Decimal_Classification: "781.654"
+Dewey_Decimal_Classification: 781.654
 ---
 
 # [[Swing_Music]] 

@@ -4,20 +4,22 @@ aliases:
   - defined_region
   - DefinedRegion
   - is_a_defined_region
+  - Defined_Region
+  - Defined Region
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - defined_region
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_defined_region Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

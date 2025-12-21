@@ -1,80 +1,82 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CreativeWorkSeason
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: ret2wp
-  name: Actor
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: TOVSpG
-  name: Director
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: ZeNr3a
-  name: EndDate
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: ecpTK7
-  name: Episode
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Episode')"
-  type: MultiFile
-  path: ''
-- id: 5Zc1fg
-  name: NumberOfEpisodes
-  options: {}
-  type: Number
-  path: ''
-- id: ucTUaD
-  name: PartOfSeries
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries')"
-  type: MultiFile
-  path: ''
-- id: Hl5P2F
-  name: ProductionCompany
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization')"
-  type: MultiFile
-  path: ''
-- id: osL8Vm
-  name: SeasonNumber
-  options: {}
-  type: Number
-  path: ''
-- id: yIeCxh
-  name: StartDate
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: IS38q1
-  name: Trailer
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')"
-  type: MultiFile
-  path: ''
+  - id: ret2wp
+    name: Actor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: TOVSpG
+    name: Director
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: ZeNr3a
+    name: EndDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: ecpTK7
+    name: Episode
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Episode')
+    type: MultiFile
+    path: ''
+  - id: 5Zc1fg
+    name: NumberOfEpisodes
+    options: {}
+    type: Number
+    path: ''
+  - id: ucTUaD
+    name: PartOfSeries
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries')
+    type: MultiFile
+    path: ''
+  - id: Hl5P2F
+    name: ProductionCompany
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ''
+  - id: osL8Vm
+    name: SeasonNumber
+    options: {}
+    type: Number
+    path: ''
+  - id: yIeCxh
+    name: StartDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: IS38q1
+    name: Trailer
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CreativeWorkSeason
-- class/Thing/CreativeWork/CreativeWorkSeason
-- is_a_/CreativeWorkSeason
-- schema-org/CreativeWorkSeason
+  - class/CreativeWorkSeason
+  - class/Thing/CreativeWork/CreativeWorkSeason
+  - is_a_/CreativeWorkSeason
+  - schema-org/CreativeWorkSeason
 tags:
-- class/FileClass
-- class/CreativeWorkSeason
-- is_a_/CreativeWorkSeason
-- class/Thing/CreativeWork/CreativeWorkSeason
+  - class/FileClass
+  - class/CreativeWorkSeason
+  - is_a_/CreativeWorkSeason
+  - class/Thing/CreativeWork/CreativeWorkSeason
 version: 2.0
 ---
 

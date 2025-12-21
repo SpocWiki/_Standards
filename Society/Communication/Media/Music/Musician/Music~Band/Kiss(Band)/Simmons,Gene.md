@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Gene Simmons"
+  - Gene Simmons
+  - Simmons,Gene
 ---
 
 #has_/time_/started :: 1949-08-25 

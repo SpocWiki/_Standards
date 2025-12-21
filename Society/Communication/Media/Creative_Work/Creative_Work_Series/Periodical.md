@@ -9,16 +9,16 @@ cssclasses:
   - Type
 draft: false
 equivalent_class: http://purl.org/ontology/bibo/Periodical
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - periodical
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_periodical Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -4,22 +4,24 @@ aliases:
   - shipping_label
   - shippingLabel
   - has_text_of_shipping_label
+  - has_shipping_label
+  - has shipping label
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - shipping
   - label
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_shipping_label
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

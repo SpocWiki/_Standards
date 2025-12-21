@@ -1,39 +1,41 @@
 ---
-associated_hazard: "[[_Standards/WikiData/WD~tellurium_exposure,21175335]]"
+aliases:
+  - Tellurium
+has_id_wikidata: Q1100
+associated_hazard: '[[_Standards/WikiData/WD~tellurium_exposure,21175335]]'
 atomic_number: 52
 boiling_point: 1814
-canonical_SMILES: "[Te]"
+canonical_SMILES: '[Te]'
 CAS_Registry_Number: 13494-80-9
 chemical_formula: Te
 Commons_category: Tellurium
 Commons_gallery: Tellurium
 density: 6.24
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Franz-Joseph_Müller_von_Reichenstein,112012]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Franz-Joseph_Müller_von_Reichenstein,112012]]'
 DSSTOX_compound_identifier: DTXCID7012119
 EC_number: 236-813-4
 electronegativity: 2.1
 electron_configuration:
   - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁴
-  - "[Kr] 5s² 5d¹⁰ 5p⁴"
+  - '[Kr] 5s² 5d¹⁰ 5p⁴'
 element_symbol: Te
-found_in_taxon: "[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]"
+found_in_taxon: '[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]'
 Gmelin_number: 16309
-has_effect: "[[_Standards/WikiData/WD~tellurium_exposure,21175335]]"
-has_id_wikidata: Q1100
+has_effect: '[[_Standards/WikiData/WD~tellurium_exposure,21175335]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tellurium%20element%202.jpg
 immediately_dangerous_to_life_or_health: 25
 InChI: InChI=1S/Te
 InChIKey: PORWMNRCUJJQNO-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
-  - "[[_Standards/WikiData/WD~flammable_solid,21073024]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
+  - '[[_Standards/WikiData/WD~flammable_solid,21073024]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
   - 0.43
   - 0.56
@@ -45,18 +47,18 @@ melting_point: 842
 MeSH_tree_code:
   - D01.268.185.950
   - D01.268.513.968
-named_after: "[[_Standards/WikiData/WD~Terra,270867]]"
+named_after: '[[_Standards/WikiData/WD~Terra,270867]]'
 OmegaWiki_Defined_Meaning: 160178
 part_of:
-  - "[[_Standards/WikiData/WD~group_16,104567]]"
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
+  - '[[_Standards/WikiData/WD~group_16,104567]]'
+  - '[[_Standards/WikiData/WD~period_5,244982]]'
 PubChem_CID: 6327182
 RTECS_number: WY2625000
 SpocWebEntityId: 21948
 subclass_of:
-  - "[[_Standards/WikiData/WD~group_16,104567]]"
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
-  - "[[_Standards/WikiData/WD~metalloid,19596]]"
+  - '[[_Standards/WikiData/WD~group_16,104567]]'
+  - '[[_Standards/WikiData/WD~period_5,244982]]'
+  - '[[_Standards/WikiData/WD~metalloid,19596]]'
 time_of_discovery_or_invention: 1783
 time_weighted_average_exposure_limit: 0.1
 type: Element

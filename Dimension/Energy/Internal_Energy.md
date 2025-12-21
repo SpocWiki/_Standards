@@ -2,6 +2,8 @@
 aliases:
   - internal energy
   - interne Energie
+  - Internal_Energy
+  - Internal Energy
 has_id_wikidata: Q180241
 ---
 

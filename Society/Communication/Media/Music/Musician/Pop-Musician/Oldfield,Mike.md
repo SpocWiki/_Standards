@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Michael Gordon Oldfield"
-- "Mike Oldfield"
+  - Michael Gordon Oldfield
+  - Mike Oldfield
+  - Oldfield,Mike
 ---
 
 # [[Oldfield,Mike]] 

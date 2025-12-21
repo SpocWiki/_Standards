@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Noyce,Robert
 dv_has_/time_/started: 1927-12-12T00:00:00.000+01:00
 dv_has_/time_/stopped: 1990-06-03T00:00:00.000+02:00
 dv_has_/employer:
@@ -6,12 +8,12 @@ dv_has_/employer:
   embed: false
   type: file
 dv_is_/same_as:
-  - "[Noyce,Robert](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.md)"
-  - "[Noyce,Robert.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.public.md)"
-  - "[Noyce,Robert.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Inte[Noyce,Robert](Noyce,Robert.md)onductor-Industry/Intel/Noyce,Robert.protect.md)"
-  - "[Noyce,Robert.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.private.md)"
-  - "[Noyce,Robert.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.personal.md)"
-  - "[Noyce,Robert.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.secret.md)"
+  - '[Noyce,Robert](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.md)'
+  - '[Noyce,Robert.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.public.md)'
+  - '[Noyce,Robert.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Inte[Noyce,Robert](Noyce,Robert.md)onductor-Industry/Intel/Noyce,Robert.protect.md)'
+  - '[Noyce,Robert.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.private.md)'
+  - '[Noyce,Robert.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.personal.md)'
+  - '[Noyce,Robert.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.secret.md)'
 dv_has_time_started: 1927-12-12T00:00:00.000+01:00
 dv_has_time_stopped: 1990-06-03T00:00:00.000+02:00
 dv_has_employer:
@@ -19,13 +21,13 @@ dv_has_employer:
   embed: false
   type: file
 dv_is_same_as:
-  - "[Noyce,Robert](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.md)"
-  - "[Noyce,Robert.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.public.md)"
-  - "[Noyce,Robert.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.internal.md)"
-  - "[Noyce,Robert.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.protect.md)"
-  - "[Noyce,Robert.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.private.md)"
-  - "[Noyce,Robert.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.personal.md)"
-  - "[Noyce,Robert.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.secret.md)"
+  - '[Noyce,Robert](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.md)'
+  - '[Noyce,Robert.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.public.md)'
+  - '[Noyce,Robert.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.internal.md)'
+  - '[Noyce,Robert.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.protect.md)'
+  - '[Noyce,Robert.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.private.md)'
+  - '[Noyce,Robert.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.personal.md)'
+  - '[Noyce,Robert.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.secret.md)'
 ---
 
 # [[Noyce,Robert]] 

@@ -2,12 +2,13 @@
 aliases:
   - has departure-station
   - has_departure_station
+  - has departure station
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - station
   - departure_station
   - departureStation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_departure_station
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Hayao Miyazaki"
+  - Hayao Miyazaki
+  - Miyazaki,Hayao
 ---
 
 #has_/time_/started :: 1941-01-05

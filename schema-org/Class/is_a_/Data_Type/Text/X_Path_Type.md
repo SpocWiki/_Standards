@@ -1,28 +1,30 @@
 ---
 aliases:
-- x-path-type
-- x_path_type
-- XPathType
-- is_a_x_path_type
+  - x-path-type
+  - x_path_type
+  - XPathType
+  - is_a_x_path_type
+  - X_Path_Type
+  - X Path Type
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- x_path_type
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_x_path_type Class"
+  - x_path_type
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_a_x_path_type Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Class
-- schema-org/Class
-- class/data_type
-title: "is_a_x_path_type Class"
+  - class/Class
+  - schema-org/Class
+  - class/data_type
+title: is_a_x_path_type Class
 type: Type
 ---
 

@@ -1,24 +1,25 @@
 ---
 aliases:
   - petrol
+  - Gasoline
 has_id_wikidata: Q39558
 subclass_of:
-  - "[[_Standards/WikiData/WD~mixture,169336]]"
-  - "[[_Standards/WikiData/WD~motor_fuel,337540]]"
-  - "[[_Standards/WikiData/WD~petroleum_product,1059843]]"
-associated_hazard: "[[_Standards/WikiData/WD~gasoline_exposure,818502]]"
-has_effect: "[[_Standards/WikiData/WD~gasoline_exposure,818502]]"
+  - '[[_Standards/WikiData/WD~mixture,169336]]'
+  - '[[_Standards/WikiData/WD~motor_fuel,337540]]'
+  - '[[_Standards/WikiData/WD~petroleum_product,1059843]]'
+associated_hazard: '[[_Standards/WikiData/WD~gasoline_exposure,818502]]'
+has_effect: '[[_Standards/WikiData/WD~gasoline_exposure,818502]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~oxygenate,7115966]]"
-  - "[[_Standards/WikiData/WD~aromatic_compound,19834818]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-has_characteristic: "[[_Standards/WikiData/WD~Class_IB_flammable_liquid,21009055]]"
+  - '[[_Standards/WikiData/WD~oxygenate,7115966]]'
+  - '[[_Standards/WikiData/WD~aromatic_compound,19834818]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+has_characteristic: '[[_Standards/WikiData/WD~Class_IB_flammable_liquid,21009055]]'
 subject_has_role:
-  - "[[_Standards/WikiData/WD~occupational_carcinogen,21074597]]"
-  - "[[_Standards/WikiData/WD~air_pollutant,50429805]]"
-  - "[[_Standards/WikiData/WD~environmental_carcinogens,50429902]]"
-history_of_topic: "[[_Standards/WikiData/WD~History_of_gasoline,130974585]]"
+  - '[[_Standards/WikiData/WD~occupational_carcinogen,21074597]]'
+  - '[[_Standards/WikiData/WD~air_pollutant,50429805]]'
+  - '[[_Standards/WikiData/WD~environmental_carcinogens,50429902]]'
+history_of_topic: '[[_Standards/WikiData/WD~History_of_gasoline,130974585]]'
 flash_point: -45
 ceiling_exposure_limit: 0
 price:
@@ -34,15 +35,15 @@ lower_flammable_limit: 1.4
 density: 0.72
 upper_flammable_limit: 7.6
 boiling_point: 102
-UN_class: "3"
-Kemler_code: "33"
-OmegaWiki_Defined_Meaning: "2760"
-UN_number: "1203"
+UN_class: 3
+Kemler_code: 33
+OmegaWiki_Defined_Meaning: 2760
+UN_number: 1203
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gasoline%20in%20mason%20jar.jpg
 Commons_gallery: Gasoline
 Commons_category: Gasoline
-U_S_National_Archives_Identifier: "10638101"
-UNSPSC_Code: "15101506"
+U_S_National_Archives_Identifier: 10638101
+UNSPSC_Code: 15101506
 EC_number: 289-220-8
 CAS_Registry_Number: 86290-81-5
 MeSH_tree_code:

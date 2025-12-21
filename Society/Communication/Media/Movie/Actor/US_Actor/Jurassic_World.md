@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Jurassic World"
+  - Jurassic World
+  - Jurassic_World
 ---
 
 ## #has_/text_of_/abstract 

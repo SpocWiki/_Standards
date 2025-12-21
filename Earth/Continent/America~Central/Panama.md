@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Panama
+  - Panamá
+  - بنما
+  - 巴拿马
+  - Панама
+  - the Republic of Panama
+  - la República de Panamá
 has_id_wikidata: Q804
 location:
   - 8.96667
@@ -16,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Panama
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Panama
-  - Panamá
-  - بنما
-  - 巴拿马
-  - Панама
-  - the Republic of Panama
-  - la República de Panamá
+publishDate: ""
+expiryDate: ""
 Languages:
   - es-PA
   - en
@@ -321,7 +321,7 @@ subreddit: Panama
 hashtag: Panama
 Commons_category: Panama
 short_name: 🇵🇦
-inception: "1903"
+inception: 1903
 has_time_started: 1903-06
 coordinate_location: Point(-80.366667 8.616667)
 coordinates_of_westernmost_point: Point(-83.0518 8.3335)

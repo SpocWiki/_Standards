@@ -2,9 +2,11 @@
 aliases:
   - Fundamental rights
   - Fundamental right
+  - Fundamental_Right
+  - Fundamental Right
 has_id_wikidata: Q3237872
-subclass_of: "[[_Standards/WikiData/WD~rights,780687]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
+subclass_of: '[[_Standards/WikiData/WD~rights,780687]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Declaration%20of%20the%20Rights%20of%20Man%20and%20of%20the%20Citizen%20in%201789.jpg
 IPTC_NewsCode: mediatopic/20000587
 ---

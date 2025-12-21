@@ -4,20 +4,22 @@ aliases:
   - boat_reservation
   - BoatReservation
   - is_a_boat_reservation
+  - Boat_Reservation
+  - Boat Reservation
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - boat_reservation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_boat_reservation Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

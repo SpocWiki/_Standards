@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Stanley Oliver Tucci"
+  - Stanley Oliver Tucci
+  - Tucci,Stanley
 ---
 
 #has_/time_/started :: 1960-11-11 

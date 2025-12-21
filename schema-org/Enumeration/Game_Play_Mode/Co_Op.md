@@ -4,21 +4,23 @@ aliases:
   - co_op
   - CoOp
   - is_a_co_op
+  - Co_Op
+  - Co Op
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: GamePlayMode
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - co_op
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_co_op Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

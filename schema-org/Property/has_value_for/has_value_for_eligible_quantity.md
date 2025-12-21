@@ -4,21 +4,22 @@ aliases:
   - eligible-quantity
   - eligibleQuantity
   - has_value_for_eligible_quantity
+  - has value for eligible quantity
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - eligible-quantity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_eligible-quantity
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

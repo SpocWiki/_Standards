@@ -4,22 +4,24 @@ aliases:
   - print_section
   - printSection
   - has_text_of_print_section
+  - has_print_section
+  - has print section
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - print
   - section
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_print_section
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

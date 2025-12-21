@@ -1,24 +1,26 @@
 ---
 aliases:
-- "Organic chemistry"
+  - Organic chemistry
+  - Organic_Chemistry
+  - Organic Chemistry
+has_id_wikidata: Q11351
 All_Science_Journal_Classification_Codes: 1605
 Baidu_Tieba_name: 有机化学
 Colon_Classification: E5
-Commons_category: "Organic chemistry"
+Commons_category: Organic chemistry
 described_by_source: '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
 Dewey_Decimal_Classification: 547
-has_id_wikidata: Q11351
 history_of_topic: '[[_Standards/WikiData/WD~history_of_organic_chemistry,17480697]]'
 Iconclass_notation: 49E33
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Organic%20synthesis.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Organic%20synthesis.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 is_the_study_of: '[[_Standards/WikiData/WD~organic_compound,174211]]'
 Krugosvet_article: nauka_i_tehnika/himiya/HIMIYA_ORGANICHESKAYA.html
 MeSH_tree_code: H01.181.404
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Qu%C3%ADmica%20org%C3%A2nica.png"
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Qu%C3%ADmica%20org%C3%A2nica.png
 OmegaWiki_Defined_Meaning: 2662
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
 opposite_of: '[[_Standards/WikiData/WD~inorganic_chemistry,11165]]'
@@ -26,7 +28,7 @@ part_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
 PhilPapers_topic: organic-chemistry
 practiced_by: '[[_Standards/WikiData/WD~organic_chemist,34463094]]'
 Regensburg_Classification: VK
-Stack_Exchange_tag: "https://chemistry.stackexchange.com/tags/organic-chemistry"
+Stack_Exchange_tag: https://chemistry.stackexchange.com/tags/organic-chemistry
 subclass_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Organic_chemistry,8084585]]'
 UMLS_CUI: C0008002

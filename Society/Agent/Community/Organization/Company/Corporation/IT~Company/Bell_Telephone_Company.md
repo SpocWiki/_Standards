@@ -1,6 +1,8 @@
 ---
 aliases:
-- American_Bell_Telephone_Company
+  - American_Bell_Telephone_Company
+  - Bell_Telephone_Company
+  - Bell Telephone Company
 ---
 
 # [[Bell_Telephone_Company]] 

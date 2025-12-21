@@ -2,22 +2,24 @@
 aliases:
   - error detection and correction
   - error control
+  - Error_Detection_and_Correction
+  - Error Detection and Correction
 has_id_wikidata: Q1062839
-uses: "[[_Standards/WikiData/WD~redundancy,122192]]"
+uses: '[[_Standards/WikiData/WD~redundancy,122192]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~computing,179310]]"
-  - "[[_Standards/WikiData/WD~redundancy,1204361]]"
-  - "[[_Standards/WikiData/WD~telecommunications,418]]"
-different_from: "[[_Standards/WikiData/WD~exception_handling,471748]]"
+  - '[[_Standards/WikiData/WD~computing,179310]]'
+  - '[[_Standards/WikiData/WD~redundancy,1204361]]'
+  - '[[_Standards/WikiData/WD~telecommunications,418]]'
+different_from: '[[_Standards/WikiData/WD~exception_handling,471748]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
 has_goal:
-  - "[[_Standards/WikiData/WD~prevention,1717246]]"
-  - "[[_Standards/WikiData/WD~reliability,_availability_and_serviceability,7310984]]"
+  - '[[_Standards/WikiData/WD~prevention,1717246]]'
+  - '[[_Standards/WikiData/WD~reliability,_availability_and_serviceability,7310984]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~fault_tolerance,3140932]]"
-  - "[[_Standards/WikiData/WD~quality_engineering,7268732]]"
+  - '[[_Standards/WikiData/WD~fault_tolerance,3140932]]'
+  - '[[_Standards/WikiData/WD~quality_engineering,7268732]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Reed%E2%80%93Solomon%20error%20correction%20Mona%20Lisa%20LroLrLasercomFig4.jpg
 ---
 

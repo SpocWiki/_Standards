@@ -2,80 +2,81 @@
 aliases:
   - Thomas Hobbes
   - Thomas_Hobbes
+  - Hobbes,Thomas
 has_id_wikidata: Q37621
 educated_at:
-  - "[[_Standards/WikiData/WD~Magdalen_College,81162]]"
-  - "[[_Standards/WikiData/WD~University_of_Oxford,34433]]"
+  - '[[_Standards/WikiData/WD~Magdalen_College,81162]]'
+  - '[[_Standards/WikiData/WD~University_of_Oxford,34433]]'
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~economist,188094]]"
-  - "[[_Standards/WikiData/WD~historian,201788]]"
-  - "[[_Standards/WikiData/WD~translator,333634]]"
-  - "[[_Standards/WikiData/WD~in_home_tutor,656823]]"
-  - "[[_Standards/WikiData/WD~political_scientist,1238570]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~philosopher_of_law,23760244]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~mathematician,170790]]'
+  - '[[_Standards/WikiData/WD~economist,188094]]'
+  - '[[_Standards/WikiData/WD~historian,201788]]'
+  - '[[_Standards/WikiData/WD~translator,333634]]'
+  - '[[_Standards/WikiData/WD~in_home_tutor,656823]]'
+  - '[[_Standards/WikiData/WD~political_scientist,1238570]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~philosopher_of_law,23760244]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
 movement:
-  - "[[_Standards/WikiData/WD~empiricism,83368]]"
-  - "[[_Standards/WikiData/WD~determinism,131133]]"
-  - "[[_Standards/WikiData/WD~legal_positivism,644971]]"
+  - '[[_Standards/WikiData/WD~empiricism,83368]]'
+  - '[[_Standards/WikiData/WD~determinism,131133]]'
+  - '[[_Standards/WikiData/WD~legal_positivism,644971]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Hugo_Grotius,154959]]"
-  - "[[_Standards/WikiData/WD~Plato,859]]"
-  - "[[_Standards/WikiData/WD~Aristotle,868]]"
-  - "[[_Standards/WikiData/WD~Francis_Bacon,37388]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_England,179876]]"
+  - '[[_Standards/WikiData/WD~Hugo_Grotius,154959]]'
+  - '[[_Standards/WikiData/WD~Plato,859]]'
+  - '[[_Standards/WikiData/WD~Aristotle,868]]'
+  - '[[_Standards/WikiData/WD~Francis_Bacon,37388]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Leviathan,193034]]"
-  - "[[_Standards/WikiData/WD~De_Cive,1149540]]"
-  - "[[_Standards/WikiData/WD~De_Corpore,5244329]]"
-  - "[[_Standards/WikiData/WD~De_Homine,129759346]]"
+  - '[[_Standards/WikiData/WD~Leviathan,193034]]'
+  - '[[_Standards/WikiData/WD~De_Cive,1149540]]'
+  - '[[_Standards/WikiData/WD~De_Corpore,5244329]]'
+  - '[[_Standards/WikiData/WD~De_Homine,129759346]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]"
-place_of_birth: "[[_Standards/WikiData/WD~Westport,745956]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+place_of_birth: '[[_Standards/WikiData/WD~Westport,745956]]'
 employer:
-  - "[[_Standards/WikiData/WD~William_Cavendish,_1st_Duke_of_Newcastle,1101373]]"
-  - "[[_Standards/WikiData/WD~William_Cavendish,_3rd_Earl_of_Devonshire,2084968]]"
-  - "[[_Standards/WikiData/WD~Sir_Gervase_Clifton,_1st_Baronet,7526961]]"
+  - '[[_Standards/WikiData/WD~William_Cavendish,_1st_Duke_of_Newcastle,1101373]]'
+  - '[[_Standards/WikiData/WD~William_Cavendish,_3rd_Earl_of_Devonshire,2084968]]'
+  - '[[_Standards/WikiData/WD~Sir_Gervase_Clifton,_1st_Baronet,7526961]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~legal_theory,1331392]]"
-  - "[[_Standards/WikiData/WD~history,309]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~geometry,8087]]"
-  - "[[_Standards/WikiData/WD~ethics,9465]]"
-place_of_death: "[[_Standards/WikiData/WD~Hardwick_Hall,2526406]]"
-student: "[[_Standards/WikiData/WD~William_Cavendish,_2nd_Earl_of_Devonshire,2756020]]"
-sponsor: "[[_Standards/WikiData/WD~Charles_Cavendish,2958696]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~legal_theory,1331392]]'
+  - '[[_Standards/WikiData/WD~history,309]]'
+  - '[[_Standards/WikiData/WD~philosophy,5891]]'
+  - '[[_Standards/WikiData/WD~geometry,8087]]'
+  - '[[_Standards/WikiData/WD~ethics,9465]]'
+place_of_death: '[[_Standards/WikiData/WD~Hardwick_Hall,2526406]]'
+student: '[[_Standards/WikiData/WD~William_Cavendish,_2nd_Earl_of_Devonshire,2756020]]'
+sponsor: '[[_Standards/WikiData/WD~Charles_Cavendish,2958696]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-  - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
-given_name: "[[_Standards/WikiData/WD~Thomas,16428906]]"
-place_of_burial: "[[_Standards/WikiData/WD~Church_of_St_John_the_Baptist,_Ault_Hucknall,17530701]]"
-family_name: "[[_Standards/WikiData/WD~Hobbes,37057407]]"
-depicted_by: "[[_Standards/WikiData/WD~Thomas_Hobbes_(1588_1679),_aged_89,52204670]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
+given_name: '[[_Standards/WikiData/WD~Thomas,16428906]]'
+place_of_burial: '[[_Standards/WikiData/WD~Church_of_St_John_the_Baptist,_Ault_Hucknall,17530701]]'
+family_name: '[[_Standards/WikiData/WD~Hobbes,37057407]]'
+depicted_by: '[[_Standards/WikiData/WD~Thomas_Hobbes_(1588_1679),_aged_89,52204670]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_birth: 1588-04-05T00:00:00Z
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Latin,397]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_gallery: Thomas Hobbes
 Commons_category: Thomas Hobbes
 Commons_Creator_page: Thomas Hobbes
@@ -87,8 +88,8 @@ date_of_death: 1679-12-04T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Hobbes%20%28portrait%29.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Tomb%20of%20Thomas%20Hobbes%20-%20geograph.org.uk%20-%201592556.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Unterschrift%20Thomas%20Hobbes%20englischer%20Mathematiker%2C%20Staatstheoretiker%20und%20Philosoph.png
-ISNI: "0000000121347861"
-NLC_authorities: "038002202"
+ISNI: 0000000121347861
+NLC_authorities: 038002202
 Provenio_UUID: 065a1a55-0b25-4a14-9ed3-253d14dd133c
 Europeana_entity: agent/base/145362
 Regensburg_Classification:

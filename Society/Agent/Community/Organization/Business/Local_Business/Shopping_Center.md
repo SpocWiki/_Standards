@@ -4,43 +4,45 @@ aliases:
   - shopping_center
   - ShoppingCenter
   - is_a_shopping_center
+  - Shopping_Center
+  - Shopping Center
 has_id_wikidata: Q11315
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - shopping_center
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_shopping_center Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_shopping_center Class
 type: Type
 subclass_of:
-  - "[[_Standards/WikiData/WD~retail_building,18760388]]"
-  - "[[_Standards/WikiData/WD~retail_environment,39659371]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
-different_from: "[[_Standards/WikiData/WD~shopping_mall,31374404]]"
-instance_of: "[[_Standards/WikiData/WD~ethnological_term,129133491]]"
+  - '[[_Standards/WikiData/WD~retail_building,18760388]]'
+  - '[[_Standards/WikiData/WD~retail_environment,39659371]]'
+  - '[[_Standards/WikiData/WD~organization,43229]]'
+different_from: '[[_Standards/WikiData/WD~shopping_mall,31374404]]'
+instance_of: '[[_Standards/WikiData/WD~ethnological_term,129133491]]'
 Nomenclature_for_Museum_Cataloging:
-  - "619"
-  - "620"
-IAB_code: "154"
-OmegaWiki_Defined_Meaning: "3410"
+  - 619
+  - 620
+IAB_code: 154
+OmegaWiki_Defined_Meaning: 3410
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tiran%C3%AB%2C%20Albania%20January%202023%20-%20Toptani%20Qendra%20tregtare%20shopping%20center%20Christmas%20tree.jpg
 described_at_URL: https://github.com/whosonfirst/whosonfirst-placetypes#arcade
 equivalent_class: https://schema.org/ShoppingCenter
 UNSPSC_Code:
-  - "30221001"
-  - "30221005"
+  - 30221001
+  - 30221005
 Commons_category: Shopping malls
 OpenStreetMap_tag: shop=mall
 ---

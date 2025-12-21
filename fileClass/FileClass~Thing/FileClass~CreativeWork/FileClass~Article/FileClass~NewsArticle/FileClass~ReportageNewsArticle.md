@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ReportageNewsArticle
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ReportageNewsArticle
-- class/Thing/CreativeWork/Article/NewsArticle/ReportageNewsArticle
-- is_a_/ReportageNewsArticle
-- schema-org/ReportageNewsArticle
+  - class/ReportageNewsArticle
+  - class/Thing/CreativeWork/Article/NewsArticle/ReportageNewsArticle
+  - is_a_/ReportageNewsArticle
+  - schema-org/ReportageNewsArticle
 tags:
-- class/FileClass
-- class/ReportageNewsArticle
-- is_a_/ReportageNewsArticle
-- class/Thing/CreativeWork/Article/NewsArticle/ReportageNewsArticle
+  - class/FileClass
+  - class/ReportageNewsArticle
+  - is_a_/ReportageNewsArticle
+  - class/Thing/CreativeWork/Article/NewsArticle/ReportageNewsArticle
 version: 2.0
 ---
 

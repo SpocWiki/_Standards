@@ -1,6 +1,7 @@
 ---
 aliases:
   - Frequenz
+  - Frequency
 has_id_wikidata: Q11652
 subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
@@ -22,7 +23,7 @@ described_by_source:
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow><mrow data-mjx-texclass="ORD"><mi>T</mi></mrow></mfrac></mrow></mstyle></mrow></math>
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>1</mn></mrow></mrow></msup></mstyle></mrow></math>
 Wikidata_property: frequency
-OmegaWiki_Defined_Meaning: "7836"
+OmegaWiki_Defined_Meaning: 7836
 quantity_symbol_string_:
   - f
   - ν

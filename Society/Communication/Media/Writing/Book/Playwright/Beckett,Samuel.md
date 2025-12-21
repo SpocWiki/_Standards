@@ -4,102 +4,103 @@ aliases:
   - Samuel Barclay Beckett
   - Samuel Beckett
   - Beckett
+  - Beckett,Samuel
 has_id_wikidata: Q37327
-genre: "[[_Standards/WikiData/WD~drama_film,130232]]"
-residence: "[[_Standards/WikiData/WD~County_Dublin,173500]]"
-place_of_death: "[[_Standards/WikiData/WD~14th_arrondissement_of_Paris,187153]]"
+genre: '[[_Standards/WikiData/WD~drama_film,130232]]'
+residence: '[[_Standards/WikiData/WD~County_Dublin,173500]]'
+place_of_death: '[[_Standards/WikiData/WD~14th_arrondissement_of_Paris,187153]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]"
-  - "[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]"
-  - "[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]"
-  - "[[_Standards/WikiData/WD~National_Museum_of_Modern_Art,1895953]]"
-  - "[[_Standards/WikiData/WD~Ackland_Art_Museum,4674272]]"
-  - "[[_Standards/WikiData/WD~LIMA,106058221]]"
+  - '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
+  - '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
+  - '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
+  - '[[_Standards/WikiData/WD~National_Museum_of_Modern_Art,1895953]]'
+  - '[[_Standards/WikiData/WD~Ackland_Art_Museum,4674272]]'
+  - '[[_Standards/WikiData/WD~LIMA,106058221]]'
 occupation:
-  - "[[_Standards/WikiData/WD~playwright,214917]]"
-  - "[[_Standards/WikiData/WD~translator,333634]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~novelist,6625963]]"
-  - "[[_Standards/WikiData/WD~cricketer,12299841]]"
-  - "[[_Standards/WikiData/WD~linguist,14467526]]"
-  - "[[_Standards/WikiData/WD~video_artist,18216771]]"
-  - "[[_Standards/WikiData/WD~French_resistance_fighter,23833535]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~teacher,37226]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-  - "[[_Standards/WikiData/WD~intellectual,58968]]"
-educated_at: "[[_Standards/WikiData/WD~Trinity_College_Dublin,258464]]"
+  - '[[_Standards/WikiData/WD~playwright,214917]]'
+  - '[[_Standards/WikiData/WD~translator,333634]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~novelist,6625963]]'
+  - '[[_Standards/WikiData/WD~cricketer,12299841]]'
+  - '[[_Standards/WikiData/WD~linguist,14467526]]'
+  - '[[_Standards/WikiData/WD~video_artist,18216771]]'
+  - '[[_Standards/WikiData/WD~French_resistance_fighter,23833535]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~teacher,37226]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
+  - '[[_Standards/WikiData/WD~intellectual,58968]]'
+educated_at: '[[_Standards/WikiData/WD~Trinity_College_Dublin,258464]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~The_Unnamable,264451]]"
-  - "[[_Standards/WikiData/WD~How_It_Is,498529]]"
-  - "[[_Standards/WikiData/WD~Malone_Dies,540991]]"
+  - '[[_Standards/WikiData/WD~The_Unnamable,264451]]'
+  - '[[_Standards/WikiData/WD~How_It_Is,498529]]'
+  - '[[_Standards/WikiData/WD~Malone_Dies,540991]]'
   - "[[_Standards/WikiData/WD~Krapp's_Last_Tape,1171426]]"
-  - "[[_Standards/WikiData/WD~Endgame,1235448]]"
-  - "[[_Standards/WikiData/WD~Murphy,1431476]]"
-  - "[[_Standards/WikiData/WD~Watt,1770069]]"
-  - "[[_Standards/WikiData/WD~Molloy,1971806]]"
-  - "[[_Standards/WikiData/WD~Waiting_for_Godot,19871]]"
-place_of_burial: "[[_Standards/WikiData/WD~Montparnasse_Cemetery,272208]]"
-member_of: "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-movement: "[[_Standards/WikiData/WD~Nouveau_Roman,570341]]"
+  - '[[_Standards/WikiData/WD~Endgame,1235448]]'
+  - '[[_Standards/WikiData/WD~Murphy,1431476]]'
+  - '[[_Standards/WikiData/WD~Watt,1770069]]'
+  - '[[_Standards/WikiData/WD~Molloy,1971806]]'
+  - '[[_Standards/WikiData/WD~Waiting_for_Godot,19871]]'
+place_of_burial: '[[_Standards/WikiData/WD~Montparnasse_Cemetery,272208]]'
+member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+movement: '[[_Standards/WikiData/WD~Nouveau_Roman,570341]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Samuel,629347]]"
-  - "[[_Standards/WikiData/WD~Barclay,29996730]]"
+  - '[[_Standards/WikiData/WD~Samuel,629347]]'
+  - '[[_Standards/WikiData/WD~Barclay,29996730]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~McMaster_University,632891]]"
-  - "[[_Standards/WikiData/WD~Library_of_Trinity_College_Dublin,856559]]"
-  - "[[_Standards/WikiData/WD~Institute_for_Contemporary_Publishing_Archives,1328440]]"
-  - "[[_Standards/WikiData/WD~Houghton_Library,3719374]]"
-  - "[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]"
-  - "[[_Standards/WikiData/WD~Lilly_Library,6548368]]"
-  - "[[_Standards/WikiData/WD~University_of_Maryland_Libraries,7895690]]"
-  - "[[_Standards/WikiData/WD~Stuart_A._Rose_Manuscript,_Archives,_and_Rare_Book_Library,72941560]]"
-  - "[[_Standards/WikiData/WD~Washington_University_in_St._Louis_Libraries,73495413]]"
-  - "[[_Standards/WikiData/WD~University_of_Reading,_Special_Collections,81165014]]"
-  - "[[_Standards/WikiData/WD~British_Library,23308]]"
+  - '[[_Standards/WikiData/WD~McMaster_University,632891]]'
+  - '[[_Standards/WikiData/WD~Library_of_Trinity_College_Dublin,856559]]'
+  - '[[_Standards/WikiData/WD~Institute_for_Contemporary_Publishing_Archives,1328440]]'
+  - '[[_Standards/WikiData/WD~Houghton_Library,3719374]]'
+  - '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
+  - '[[_Standards/WikiData/WD~Lilly_Library,6548368]]'
+  - '[[_Standards/WikiData/WD~University_of_Maryland_Libraries,7895690]]'
+  - '[[_Standards/WikiData/WD~Stuart_A._Rose_Manuscript,_Archives,_and_Rare_Book_Library,72941560]]'
+  - '[[_Standards/WikiData/WD~Washington_University_in_St._Louis_Libraries,73495413]]'
+  - '[[_Standards/WikiData/WD~University_of_Reading,_Special_Collections,81165014]]'
+  - '[[_Standards/WikiData/WD~British_Library,23308]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~UbuWeb,1145552]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~mediakunst.net,106105970]]"
-  - "[[_Standards/WikiData/WD~Q131401229,131401229]]"
+  - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
+  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~mediakunst.net,106105970]]'
+  - '[[_Standards/WikiData/WD~Q131401229,131401229]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Obie_Award,1813995]]"
-  - "[[_Standards/WikiData/WD~Prix_Formentor,3404594]]"
-  - "[[_Standards/WikiData/WD~Saoi,4822142]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]"
-  - "[[_Standards/WikiData/WD~honorary_doctorate_of_Trinity_College,_Dublin,59823889]]"
-  - "[[_Standards/WikiData/WD~Scholar_of_Trinity_College,_Dublin,66013262]]"
+  - '[[_Standards/WikiData/WD~Obie_Award,1813995]]'
+  - '[[_Standards/WikiData/WD~Prix_Formentor,3404594]]'
+  - '[[_Standards/WikiData/WD~Saoi,4822142]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+  - '[[_Standards/WikiData/WD~honorary_doctorate_of_Trinity_College,_Dublin,59823889]]'
+  - '[[_Standards/WikiData/WD~Scholar_of_Trinity_College,_Dublin,66013262]]'
   - "[[_Standards/WikiData/WD~star_on_Playwrights'_Sidewalk,126171642]]"
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
-place_of_birth: "[[_Standards/WikiData/WD~Foxrock,1843815]]"
-spouse: "[[_Standards/WikiData/WD~Suzanne_Dechevaux_Dumesnil,4820029]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Beckett,16256389]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-copyright_representative: "[[_Standards/WikiData/WD~reproduction_right_not_represented_by_CISAC_member,71521142]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-relative: "[[_Standards/WikiData/WD~James_Beckett,80625463]]"
+  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
+place_of_birth: '[[_Standards/WikiData/WD~Foxrock,1843815]]'
+spouse: '[[_Standards/WikiData/WD~Suzanne_Dechevaux_Dumesnil,4820029]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Beckett,16256389]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+copyright_representative: '[[_Standards/WikiData/WD~reproduction_right_not_represented_by_CISAC_member,71521142]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+relative: '[[_Standards/WikiData/WD~James_Beckett,80625463]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Harry_Ransom_Center,105936481]]"
-  - "[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]"
+  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Harry_Ransom_Center,105936481]]'
+  - '[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]'
 writing_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-sport: "[[_Standards/WikiData/WD~cricket,5375]]"
-student_of: "[[_Standards/WikiData/WD~James_Joyce,6882]]"
-field_of_work: "[[_Standards/WikiData/WD~drama,25372]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+sport: '[[_Standards/WikiData/WD~cricket,5375]]'
+student_of: '[[_Standards/WikiData/WD~James_Joyce,6882]]'
+field_of_work: '[[_Standards/WikiData/WD~drama,25372]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Ireland,27]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-work_location: "[[_Standards/WikiData/WD~Paris,90]]"
-nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
+  - '[[_Standards/WikiData/WD~Ireland,27]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+work_location: '[[_Standards/WikiData/WD~Paris,90]]'
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
 Commons_category: Samuel Beckett
 Merkur_author_page: samuel-beckett
 Wolfram_Language_entity_code: Entity["Concept", "Beckett::8tyhv"]
@@ -116,7 +117,7 @@ work_period_end_: 1988-01-01T00:00:00Z
 date_of_death: 1989-12-22T00:00:00Z
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Beckett%20signature.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Beckett%2C%20Pic%2C%201%20%28cropped%29.jpg
-ISNI: "0000000121192038"
+ISNI: 0000000121192038
 Europeana_entity: agent/base/60253
 pseudonym: Andrew Belis
 ---

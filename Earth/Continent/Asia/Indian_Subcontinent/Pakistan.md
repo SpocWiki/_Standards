@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Pakistan
+  - Pakistán
+  - باكستان
+  - 巴基斯坦
+  - Пакистан
+  - the Islamic Republic of Pakistan
+  - la República Islámica del Pakistán
+  - Pakistán (el)
+has_id_wikidata: Q843
 flag: "[[_Standards/WikiData/WD~flag_of_Pakistan,128347]]"
 replaces:
   - "[[_Standards/WikiData/WD~British_Raj,129286]]"
@@ -439,7 +449,6 @@ Wolfram_Language_entity_code:
   - Entity["Country", "Pakistan"]
 GitHub_topic: pakistan
 CIVICUS_Monitor_country_entry: pakistan
-has_id_wikidata: Q843
 location:
   - 29.2633
   - 70.1033
@@ -456,21 +465,12 @@ cssclasses:
   - Country
 publish: true
 title: Pakistan
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Pakistan
-  - Pakistán
-  - باكستان
-  - 巴基斯坦
-  - Пакистан
-  - the Islamic Republic of Pakistan
-  - la República Islámica del Pakistán
-  - Pakistán (el)
+publishDate: ""
+expiryDate: ""
 Languages:
   - ur-PK
   - en-PK

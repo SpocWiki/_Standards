@@ -4,19 +4,20 @@ aliases:
   - radioactive nuclide
   - radioisotope
   - radioactive isotope
+  - Radionuclide
 has_id_wikidata: Q192900
-subclass_of: "[[_Standards/WikiData/WD~nuclide,108149]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+subclass_of: '[[_Standards/WikiData/WD~nuclide,108149]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 different_from:
-  - "[[_Standards/WikiData/WD~radiogenic_nuclide,2750292]]"
-  - "[[_Standards/WikiData/WD~radioactive_matter,11996855]]"
-  - "[[_Standards/WikiData/WD~radioisotope,108883098]]"
+  - '[[_Standards/WikiData/WD~radiogenic_nuclide,2750292]]'
+  - '[[_Standards/WikiData/WD~radioactive_matter,11996855]]'
+  - '[[_Standards/WikiData/WD~radioisotope,108883098]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Americium-241.jpg
 Common_Procurement_Vocabulary_code:
   - 09343000-5
   - 09344000-2
-U_S_National_Archives_Identifier: "10675444"
-OmegaWiki_Defined_Meaning: "789671"
+U_S_National_Archives_Identifier: 10675444
+OmegaWiki_Defined_Meaning: 789671
 IEV_number: 881-02-36
 Commons_category: Radionuclides
 ---

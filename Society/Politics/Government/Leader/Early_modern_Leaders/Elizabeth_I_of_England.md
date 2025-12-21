@@ -1,92 +1,93 @@
 ---
 aliases:
   - Elizabeth I of England
+  - Elizabeth_I_of_England
+has_id_wikidata: Q7207
 BHCL_UUID: b49dc647-009b-4838-87b0-e63c25accff3
-cause_of_death: "[[_Standards/WikiData/WD~sepsis,183134]]"
+cause_of_death: '[[_Standards/WikiData/WD~sepsis,183134]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20England%20%281558-1603%29.svg
 Commons_category: Elizabeth I of England
 Commons_gallery: Elizabeth I of England
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_England,179876]]"
+country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
 date_of_birth: 1533-09-17
 date_of_death: 1603-04-03
 depicted_by:
-  - "[[_Standards/WikiData/WD~Elizabeth_I_(1533-1603),28027524]]"
-  - "[[_Standards/WikiData/WD~Queen_Elizabeth_I,28042820]]"
-  - "[[_Standards/WikiData/WD~Queen_Elizabeth_I_(1533_1603),52152113]]"
-  - "[[_Standards/WikiData/WD~Queen_Elizabeth_I_(1533_1603),52255074]]"
+  - '[[_Standards/WikiData/WD~Elizabeth_I_(1533-1603),28027524]]'
+  - '[[_Standards/WikiData/WD~Queen_Elizabeth_I,28042820]]'
+  - '[[_Standards/WikiData/WD~Queen_Elizabeth_I_(1533_1603),52152113]]'
+  - '[[_Standards/WikiData/WD~Queen_Elizabeth_I_(1533_1603),52255074]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Men_of_Kent_and_Kentishmen,101589898]]"
-  - "[[_Standards/WikiData/WD~A_Biographical_Dictionary_of_the_Celebrated_Women_of_Every_Age_and_Country,103843006]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~A_Cyclopaedia_of_Female_Biography,114693785]]"
-  - "[[_Standards/WikiData/WD~A_historical_dictionary_of_British_women,124350773]]"
-eye_color: "[[_Standards/WikiData/WD~brown,17122705]]"
-family: "[[_Standards/WikiData/WD~House_of_Tudor,101978]]"
-family_name: "[[_Standards/WikiData/WD~Tudor,7851265]]"
-father: "[[_Standards/WikiData/WD~Henry_VIII_of_England,38370]]"
-given_name: "[[_Standards/WikiData/WD~Elizabeth,385468]]"
-hair_color: "[[_Standards/WikiData/WD~red_hair,152357]]"
-has_id_wikidata: Q7207
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Men_of_Kent_and_Kentishmen,101589898]]'
+  - '[[_Standards/WikiData/WD~A_Biographical_Dictionary_of_the_Celebrated_Women_of_Every_Age_and_Country,103843006]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~A_Cyclopaedia_of_Female_Biography,114693785]]'
+  - '[[_Standards/WikiData/WD~A_historical_dictionary_of_British_women,124350773]]'
+eye_color: '[[_Standards/WikiData/WD~brown,17122705]]'
+family: '[[_Standards/WikiData/WD~House_of_Tudor,101978]]'
+family_name: '[[_Standards/WikiData/WD~Tudor,7851265]]'
+father: '[[_Standards/WikiData/WD~Henry_VIII_of_England,38370]]'
+given_name: '[[_Standards/WikiData/WD~Elizabeth,385468]]'
+hair_color: '[[_Standards/WikiData/WD~red_hair,152357]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth1England.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Tomb%20of%20Queen%20Elizabeth%20I.jpg
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 121446237
 Krugosvet_article: istoriya/ELIZAVETA_I.html
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~Latin,397]]'
+  - '[[_Standards/WikiData/WD~Italian,652]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
 Libris_URI: dbqssqqx3d0qkl9
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-medical_condition: "[[_Standards/WikiData/WD~smallpox,12214]]"
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+medical_condition: '[[_Standards/WikiData/WD~smallpox,12214]]'
 monogram: http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Monogram%20of%20Queen%20Elizabeth%20I%20of%20England.svg
-mother: "[[_Standards/WikiData/WD~Anne_Boleyn,80823]]"
+mother: '[[_Standards/WikiData/WD~Anne_Boleyn,80823]]'
 name_in_native_language: Elizabeth I
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
 nickname:
   - Good Queen Bess
   - Gloriana
-noble_title: "[[_Standards/WikiData/WD~queen_regnant,19643]]"
+noble_title: '[[_Standards/WikiData/WD~queen_regnant,19643]]'
 occupation:
-  - "[[_Standards/WikiData/WD~queen,16511993]]"
-  - "[[_Standards/WikiData/WD~monarch,116]]"
-place_of_birth: "[[_Standards/WikiData/WD~Palace_of_Placentia,1424839]]"
-place_of_burial: "[[_Standards/WikiData/WD~Westminster_Abbey,5933]]"
-place_of_death: "[[_Standards/WikiData/WD~Richmond_Palace,1059945]]"
-place_of_detention: "[[_Standards/WikiData/WD~Tower_of_London,62378]]"
+  - '[[_Standards/WikiData/WD~queen,16511993]]'
+  - '[[_Standards/WikiData/WD~monarch,116]]'
+place_of_birth: '[[_Standards/WikiData/WD~Palace_of_Placentia,1424839]]'
+place_of_burial: '[[_Standards/WikiData/WD~Westminster_Abbey,5933]]'
+place_of_death: '[[_Standards/WikiData/WD~Richmond_Palace,1059945]]'
+place_of_detention: '[[_Standards/WikiData/WD~Tower_of_London,62378]]'
 position_held:
-  - "[[_Standards/WikiData/WD~monarch_of_England,18810062]]"
-  - "[[_Standards/WikiData/WD~King_of_Ireland,18810066]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Anglicanism,6423963]]"
+  - '[[_Standards/WikiData/WD~monarch_of_England,18810062]]'
+  - '[[_Standards/WikiData/WD~King_of_Ireland,18810066]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Anglicanism,6423963]]'
 Royal_Academy_new_identifier: elizabeth-i
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Mary_I_of_England,82674]]"
-  - "[[_Standards/WikiData/WD~Edward_VI_of_England,83229]]"
-  - "[[_Standards/WikiData/WD~Henry_FitzRoy,_1st_Duke_of_Richmond_and_Somerset,358863]]"
-  - "[[_Standards/WikiData/WD~Henry,_Duke_of_Cornwall,928719]]"
-  - "[[_Standards/WikiData/WD~miscarried_son_Tudor,75381747]]"
-  - "[[_Standards/WikiData/WD~Henry,_Duke_of_Cornwall,75384812]]"
+  - '[[_Standards/WikiData/WD~Mary_I_of_England,82674]]'
+  - '[[_Standards/WikiData/WD~Edward_VI_of_England,83229]]'
+  - '[[_Standards/WikiData/WD~Henry_FitzRoy,_1st_Duke_of_Richmond_and_Somerset,358863]]'
+  - '[[_Standards/WikiData/WD~Henry,_Duke_of_Cornwall,928719]]'
+  - '[[_Standards/WikiData/WD~miscarried_son_Tudor,75381747]]'
+  - '[[_Standards/WikiData/WD~Henry,_Duke_of_Cornwall,75384812]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Autograph%20of%20Elizabeth%20I%20of%20England.svg
-significant_event: "[[_Standards/WikiData/WD~Speech_to_the_Troops_at_Tilbury,478956]]"
-significant_person: "[[_Standards/WikiData/WD~Philipp_Melanchthon,76325]]"
-social_classification: "[[_Standards/WikiData/WD~royalty,11573099]]"
+significant_event: '[[_Standards/WikiData/WD~Speech_to_the_Troops_at_Tilbury,478956]]'
+significant_person: '[[_Standards/WikiData/WD~Philipp_Melanchthon,76325]]'
+social_classification: '[[_Standards/WikiData/WD~royalty,11573099]]'
 stepparent:
-  - "[[_Standards/WikiData/WD~Jane_Seymour,182637]]"
-  - "[[_Standards/WikiData/WD~Catherine_Howard,188926]]"
-  - "[[_Standards/WikiData/WD~Catherine_Parr,192943]]"
-  - "[[_Standards/WikiData/WD~Anne_of_Cleves,57126]]"
+  - '[[_Standards/WikiData/WD~Jane_Seymour,182637]]'
+  - '[[_Standards/WikiData/WD~Catherine_Howard,188926]]'
+  - '[[_Standards/WikiData/WD~Catherine_Parr,192943]]'
+  - '[[_Standards/WikiData/WD~Anne_of_Cleves,57126]]'
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/61360
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "ElizabethIAccedes1558"]
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 ---
 
 #has_/time_/started ::  1533-09-07 

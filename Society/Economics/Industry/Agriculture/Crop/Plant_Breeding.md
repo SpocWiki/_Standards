@@ -1,24 +1,26 @@
 ---
 aliases:
   - Pflanzenzucht
+  - Plant_Breeding
+  - Plant Breeding
 has_id_wikidata: Q788558
 instance_of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~activity,1914636]]"
-  - "[[_Standards/WikiData/WD~agricultural_science,3606845]]"
+  - '[[_Standards/WikiData/WD~industry,268592]]'
+  - '[[_Standards/WikiData/WD~activity,1914636]]'
+  - '[[_Standards/WikiData/WD~agricultural_science,3606845]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~artificial_selection,995745]]"
-  - "[[_Standards/WikiData/WD~selective_breeding,4023882]]"
-practiced_by: "[[_Standards/WikiData/WD~plant_breeder,3348530]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_plant_breeding,5868366]]"
-facet_of: "[[_Standards/WikiData/WD~history_of_civilization,10300571]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~seed_grower,125985321]]"
+  - '[[_Standards/WikiData/WD~artificial_selection,995745]]'
+  - '[[_Standards/WikiData/WD~selective_breeding,4023882]]'
+practiced_by: '[[_Standards/WikiData/WD~plant_breeder,3348530]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_plant_breeding,5868366]]'
+facet_of: '[[_Standards/WikiData/WD~history_of_civilization,10300571]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~seed_grower,125985321]]'
 Commons_category: Plant breeding
-Basisklassifikation: "48.58"
+Basisklassifikation: 48.58
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wheat%20selection%20k10183-1.jpg
 UMLS_CUI: C4042898
 MeSH_tree_code: J01.040.227.500

@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Terry Jones"
-- "Terence Graham Parry Jones"
+  - Terry Jones
+  - Terence Graham Parry Jones
+  - Jones,Terry
 ---
 
 # [[Jones,Terry]] 

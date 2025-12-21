@@ -2,6 +2,7 @@
 aliases:
   - Tee
   - Chai
+  - Tea
 has_id_wikidata: Q6097
 Amazon_com_browse_node: 16318401
 Archive_of_Our_Own_tag: Tea
@@ -71,7 +72,7 @@ U_S_National_Archives_Identifier: 10645808
 water_footprint: 8856
 ---
 
-# [[Tea]] 
+# [[Tea]] ☕ 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tea,6097|WD~Tea,6097]] 
 

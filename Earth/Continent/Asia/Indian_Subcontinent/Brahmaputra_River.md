@@ -6,6 +6,7 @@ aliases:
   - Siang
   - Dihang
   - Jamuna
+  - Brahmaputra_River
 has_id_wikidata: Q45403
 ---
 

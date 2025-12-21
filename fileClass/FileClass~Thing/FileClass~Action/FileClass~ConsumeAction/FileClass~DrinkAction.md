@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DrinkAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DrinkAction
-- class/Thing/Action/ConsumeAction/DrinkAction
-- is_a_/DrinkAction
-- schema-org/DrinkAction
+  - class/DrinkAction
+  - class/Thing/Action/ConsumeAction/DrinkAction
+  - is_a_/DrinkAction
+  - schema-org/DrinkAction
 tags:
-- class/FileClass
-- class/DrinkAction
-- is_a_/DrinkAction
-- class/Thing/Action/ConsumeAction/DrinkAction
+  - class/FileClass
+  - class/DrinkAction
+  - is_a_/DrinkAction
+  - class/Thing/Action/ConsumeAction/DrinkAction
 version: 2.0
 ---
 

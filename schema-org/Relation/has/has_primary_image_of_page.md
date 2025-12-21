@@ -3,12 +3,13 @@ aliases:
   - has primary-image-of-page
   - primaryImageOfPage
   - has_primary_image_of_page
+  - has primary image of page
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +18,11 @@ keywords:
   - image
   - of
   - page
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_primary_image_of_page
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

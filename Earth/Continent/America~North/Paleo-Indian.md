@@ -1,8 +1,9 @@
 ---
 aliases:
   - Paleo-Indians
+  - Paleo-Indian
 has_id_wikidata: Q888099
-instance_of: "[[_Standards/WikiData/WD~ethnic_group,41710]]"
+instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710]]'
 Commons_category: Lithic period
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Poblamiento%20de%20America%20-%20Teor%C3%ADa%20P%20Tard%C3%ADo.png
 ---

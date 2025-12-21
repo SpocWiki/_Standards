@@ -4,27 +4,27 @@ aliases:
   - Ofen
 has_id_wikidata: Q36539
 different_from:
-  - "[[_Standards/WikiData/WD~kitchen_stove,182995]]"
-  - "[[_Standards/WikiData/WD~stove,203789]]"
-  - "[[_Standards/WikiData/WD~central_heating_unit,10715538]]"
+  - '[[_Standards/WikiData/WD~kitchen_stove,182995]]'
+  - '[[_Standards/WikiData/WD~stove,203789]]'
+  - '[[_Standards/WikiData/WD~central_heating_unit,10715538]]'
 has_use:
-  - "[[_Standards/WikiData/WD~grilling,264619]]"
-  - "[[_Standards/WikiData/WD~frying,300472]]"
+  - '[[_Standards/WikiData/WD~grilling,264619]]'
+  - '[[_Standards/WikiData/WD~frying,300472]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-used_by: "[[_Standards/WikiData/WD~pizzaiolo,3389507]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+used_by: '[[_Standards/WikiData/WD~pizzaiolo,3389507]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~major_appliance,12269769]]"
-  - "[[_Standards/WikiData/WD~cooking_appliance,57583712]]"
-  - "[[_Standards/WikiData/WD~heating_equipment,111509483]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Oven,22862253]]"
+  - '[[_Standards/WikiData/WD~major_appliance,12269769]]'
+  - '[[_Standards/WikiData/WD~cooking_appliance,57583712]]'
+  - '[[_Standards/WikiData/WD~heating_equipment,111509483]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Oven,22862253]]'
 start_time: -29000-06
-Nomenclature_for_Museum_Cataloging: "4110"
+Nomenclature_for_Museum_Cataloging: 4110
 IMDb_keyword: oven
 MCN_code: 8516.60.00
 Commons_category: Ovens

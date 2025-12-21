@@ -2,14 +2,16 @@
 aliases:
   - Hadley cell
   - Hadley circulation
+  - Hadley_Cell
+  - Hadley Cell
 has_id_wikidata: Q338589
 has_part_s_:
-  - "[[_Standards/WikiData/WD~trade_wind,160603]]"
-  - "[[_Standards/WikiData/WD~Q52731221,52731221]]"
-instance_of: "[[_Standards/WikiData/WD~cellular_circulation,187670]]"
-named_after: "[[_Standards/WikiData/WD~George_Hadley,968686]]"
-facet_of: "[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]"
-part_of: "[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]"
+  - '[[_Standards/WikiData/WD~trade_wind,160603]]'
+  - '[[_Standards/WikiData/WD~Q52731221,52731221]]'
+instance_of: '[[_Standards/WikiData/WD~cellular_circulation,187670]]'
+named_after: '[[_Standards/WikiData/WD~George_Hadley,968686]]'
+facet_of: '[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]'
+part_of: '[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HadleyCross-sec.jpg
 Commons_category: Hadley cells
 ---

@@ -3,72 +3,73 @@ aliases:
   - Diego Armando Maradona Franco
   - Diego Maradona
   - Maradona
+  - Maradona,Diego
 has_id_wikidata: Q17515
 coach_of_sports_team:
   - "[[_Standards/WikiData/WD~Argentina_men's_national_association_football_team,79800]]"
-  - "[[_Standards/WikiData/WD~Racing_Club,276533]]"
-  - "[[_Standards/WikiData/WD~Al_Wasl_FC,520066]]"
-  - "[[_Standards/WikiData/WD~Dorados_de_Sinaloa,1243720]]"
-  - "[[_Standards/WikiData/WD~Al_Fujairah_FC,2084032]]"
-  - "[[_Standards/WikiData/WD~Deportivo_Mandiyú,8347076]]"
-  - "[[_Standards/WikiData/WD~Club_de_Gimnasia_y_Esgrima_La_Plata,18640]]"
+  - '[[_Standards/WikiData/WD~Racing_Club,276533]]'
+  - '[[_Standards/WikiData/WD~Al_Wasl_FC,520066]]'
+  - '[[_Standards/WikiData/WD~Dorados_de_Sinaloa,1243720]]'
+  - '[[_Standards/WikiData/WD~Al_Fujairah_FC,2084032]]'
+  - '[[_Standards/WikiData/WD~Deportivo_Mandiyú,8347076]]'
+  - '[[_Standards/WikiData/WD~Club_de_Gimnasia_y_Esgrima_La_Plata,18640]]'
 member_of_sports_team:
   - "[[_Standards/WikiData/WD~Argentina_men's_national_association_football_team,79800]]"
-  - "[[_Standards/WikiData/WD~Boca_Juniors,170703]]"
-  - "[[_Standards/WikiData/WD~Argentinos_Juniors,220621]]"
+  - '[[_Standards/WikiData/WD~Boca_Juniors,170703]]'
+  - '[[_Standards/WikiData/WD~Argentinos_Juniors,220621]]'
   - "[[_Standards/WikiData/WD~Newell's_Old_Boys,221882]]"
-  - "[[_Standards/WikiData/WD~Argentina_national_under_20_football_team,1187790]]"
-  - "[[_Standards/WikiData/WD~SSC_Napoli,2641]]"
-  - "[[_Standards/WikiData/WD~FC_Barcelona,7156]]"
-  - "[[_Standards/WikiData/WD~Sevilla_FC,10329]]"
-relative: "[[_Standards/WikiData/WD~Sergio_Agüero,119562]]"
+  - '[[_Standards/WikiData/WD~Argentina_national_under_20_football_team,1187790]]'
+  - '[[_Standards/WikiData/WD~SSC_Napoli,2641]]'
+  - '[[_Standards/WikiData/WD~FC_Barcelona,7156]]'
+  - '[[_Standards/WikiData/WD~Sevilla_FC,10329]]'
+relative: '[[_Standards/WikiData/WD~Sergio_Agüero,119562]]'
 position_played_on_team_speciality:
-  - "[[_Standards/WikiData/WD~midfielder,193592]]"
-  - "[[_Standards/WikiData/WD~forward,280658]]"
-cause_of_death: "[[_Standards/WikiData/WD~cardiac_arrest,202837]]"
+  - '[[_Standards/WikiData/WD~midfielder,193592]]'
+  - '[[_Standards/WikiData/WD~forward,280658]]'
+cause_of_death: '[[_Standards/WikiData/WD~cardiac_arrest,202837]]'
 occupation:
-  - "[[_Standards/WikiData/WD~association_football_manager,628099]]"
-  - "[[_Standards/WikiData/WD~association_football_player,937857]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-handedness: "[[_Standards/WikiData/WD~left_handedness,789447]]"
+  - '[[_Standards/WikiData/WD~association_football_manager,628099]]'
+  - '[[_Standards/WikiData/WD~association_football_player,937857]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+handedness: '[[_Standards/WikiData/WD~left_handedness,789447]]'
 award_received:
   - "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
-  - "[[_Standards/WikiData/WD~World_Cup_Golden_Ball,17355204]]"
-  - "[[_Standards/WikiData/WD~diamond_Konex_award,56872155]]"
+  - '[[_Standards/WikiData/WD~World_Cup_Golden_Ball,17355204]]'
+  - '[[_Standards/WikiData/WD~diamond_Konex_award,56872155]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Raúl_Maradona,1100169]]"
-  - "[[_Standards/WikiData/WD~Hugo_Maradona,2339817]]"
+  - '[[_Standards/WikiData/WD~Raúl_Maradona,1100169]]'
+  - '[[_Standards/WikiData/WD~Hugo_Maradona,2339817]]'
 child:
-  - "[[_Standards/WikiData/WD~Diego_Sinagra,1199119]]"
-  - "[[_Standards/WikiData/WD~Dalma_Maradona,8353467]]"
-  - "[[_Standards/WikiData/WD~Gianinna_Maradona,15728880]]"
-place_of_birth: "[[_Standards/WikiData/WD~Lanús,1622565]]"
-convicted_of: "[[_Standards/WikiData/WD~shooting,2252077]]"
-place_of_death: "[[_Standards/WikiData/WD~Dique_Luján,2463131]]"
+  - '[[_Standards/WikiData/WD~Diego_Sinagra,1199119]]'
+  - '[[_Standards/WikiData/WD~Dalma_Maradona,8353467]]'
+  - '[[_Standards/WikiData/WD~Gianinna_Maradona,15728880]]'
+place_of_birth: '[[_Standards/WikiData/WD~Lanús,1622565]]'
+convicted_of: '[[_Standards/WikiData/WD~shooting,2252077]]'
+place_of_death: '[[_Standards/WikiData/WD~Dique_Luján,2463131]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~sports_training,3055155]]"
-  - "[[_Standards/WikiData/WD~association_football,2736]]"
-  - "[[_Standards/WikiData/WD~sport_management,48519]]"
-given_name: "[[_Standards/WikiData/WD~Diego,3579048]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Maradona,12369639]]"
-spouse: "[[_Standards/WikiData/WD~Claudia_Villafañe,15732807]]"
+  - '[[_Standards/WikiData/WD~sports_training,3055155]]'
+  - '[[_Standards/WikiData/WD~association_football,2736]]'
+  - '[[_Standards/WikiData/WD~sport_management,48519]]'
+given_name: '[[_Standards/WikiData/WD~Diego,3579048]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Maradona,12369639]]'
+spouse: '[[_Standards/WikiData/WD~Claudia_Villafañe,15732807]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-  - "[[_Standards/WikiData/WD~Ho_perso_Maradona_Storie_di_tifo_e_altre_dipendenze,55460612]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-place_of_burial: "[[_Standards/WikiData/WD~Jardín_Bella_Vista,102360766]]"
-parent: "[[_Standards/WikiData/WD~Diego_Maradona_Sr.,105952378]]"
-father: "[[_Standards/WikiData/WD~Diego_Maradona_Sr.,105952378]]"
-country_for_sport: "[[_Standards/WikiData/WD~Argentina,414]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Argentina,414]]"
+  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+  - '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
+  - '[[_Standards/WikiData/WD~Ho_perso_Maradona_Storie_di_tifo_e_altre_dipendenze,55460612]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+place_of_burial: '[[_Standards/WikiData/WD~Jardín_Bella_Vista,102360766]]'
+parent: '[[_Standards/WikiData/WD~Diego_Maradona_Sr.,105952378]]'
+father: '[[_Standards/WikiData/WD~Diego_Maradona_Sr.,105952378]]'
+country_for_sport: '[[_Standards/WikiData/WD~Argentina,414]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Argentina,414]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-sport: "[[_Standards/WikiData/WD~association_football,2736]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Italian,652]]'
+  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+sport: '[[_Standards/WikiData/WD~association_football,2736]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 mass: 70
 height: 165
 Commons_category: Diego Maradona
@@ -77,8 +78,8 @@ date_of_birth: 1960-10-30T00:00:00Z
 pseudonym: Dios
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Maradona%20%28Signature%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Maradona%201986%20vs%20italy.jpg
-ISNI: "0000000108861081"
-Munzinger_Sport_number: "01000001365"
+ISNI: 0000000108861081
+Munzinger_Sport_number: 01000001365
 Libris_URI: 0xbfk7zj5r3phnh
 Instagram_username: maradona_group
 Baidu_Tieba_name: 马拉多纳

@@ -4,20 +4,22 @@ aliases:
   - floor_plan
   - FloorPlan
   - is_a_floor_plan
+  - Floor_Plan
+  - Floor Plan
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - floor_plan
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_floor_plan Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -2,27 +2,29 @@
 aliases:
   - Unterbrecher
   - Leistungsschalter
+  - Circuit_Breaker
+  - Circuit Breaker
 has_id_wikidata: Q211058
 different_from:
-  - "[[_Standards/WikiData/WD~fuse,182221]]"
-  - "[[_Standards/WikiData/WD~trading_curb,1051719]]"
+  - '[[_Standards/WikiData/WD~fuse,182221]]'
+  - '[[_Standards/WikiData/WD~trading_curb,1051719]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~breaking_capacity,779913]]"
-  - "[[_Standards/WikiData/WD~Q31836033,31836033]]"
-  - "[[_Standards/WikiData/WD~tripping_characteristic,58627112]]"
-  - "[[_Standards/WikiData/WD~colloquial_expression,63315203]]"
+  - '[[_Standards/WikiData/WD~breaking_capacity,779913]]'
+  - '[[_Standards/WikiData/WD~Q31836033,31836033]]'
+  - '[[_Standards/WikiData/WD~tripping_characteristic,58627112]]'
+  - '[[_Standards/WikiData/WD~colloquial_expression,63315203]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~protect_switch,1230931]]"
-  - "[[_Standards/WikiData/WD~overcurrent_protection,15856134]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-Nomenclature_for_Museum_Cataloging: "8782"
-OmegaWiki_Defined_Meaning: "1582875"
+  - '[[_Standards/WikiData/WD~protect_switch,1230931]]'
+  - '[[_Standards/WikiData/WD~overcurrent_protection,15856134]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+Nomenclature_for_Museum_Cataloging: 8782
+OmegaWiki_Defined_Meaning: 1582875
 OpenStreetMap_tag_or_key:
   - Tag:power=switch
   - Tag:switch=circuit_breaker
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Circuit%20breaker%202%20pole%20on%20DIN%20rail.JPG
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Symbol%20Circuit-breaker.svg
-UNSPSC_Code: "39121601"
+UNSPSC_Code: 39121601
 IEV_number: 441-14-20
 MCN_code: 8536.20.00
 Commons_category: Circuit breakers

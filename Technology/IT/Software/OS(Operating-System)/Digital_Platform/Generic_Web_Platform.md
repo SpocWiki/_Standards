@@ -4,21 +4,23 @@ aliases:
   - generic_web_platform
   - GenericWebPlatform
   - is_a_generic_web_platform
+  - Generic_Web_Platform
+  - Generic Web Platform
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: DigitalPlatformEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - generic_web_platform
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_generic_web_platform Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

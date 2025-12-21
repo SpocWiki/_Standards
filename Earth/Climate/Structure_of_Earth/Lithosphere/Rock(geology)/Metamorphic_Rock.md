@@ -2,18 +2,20 @@
 aliases:
   - Metamorphic rock
   - Metamorphic rocks
+  - Metamorphic_Rock
+  - Metamorphic Rock
 has_id_wikidata: Q47069
 different_from:
-  - "[[_Standards/WikiData/WD~sedimentary_rock,82480]]"
-  - "[[_Standards/WikiData/WD~igneous_rock,42045]]"
-has_cause: "[[_Standards/WikiData/WD~metamorphism,380971]]"
-instance_of: "[[_Standards/WikiData/WD~rock_type,11871901]]"
+  - '[[_Standards/WikiData/WD~sedimentary_rock,82480]]'
+  - '[[_Standards/WikiData/WD~igneous_rock,42045]]'
+has_cause: '[[_Standards/WikiData/WD~metamorphism,380971]]'
+instance_of: '[[_Standards/WikiData/WD~rock_type,11871901]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-studied_by: "[[_Standards/WikiData/WD~metamorphic_petrology,111968621]]"
-subclass_of: "[[_Standards/WikiData/WD~rock,8063]]"
-Basisklassifikation: "38.27"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+studied_by: '[[_Standards/WikiData/WD~metamorphic_petrology,111968621]]'
+subclass_of: '[[_Standards/WikiData/WD~rock,8063]]'
+Basisklassifikation: 38.27
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%AA%E0%A8%B0%E0%A8%BF%E0%A8%B5%E0%A8%B0%E0%A8%A4%E0%A8%BF%E0%A8%A4%20%E0%A8%9A%E0%A8%9F%E0%A8%BE%E0%A8%A8%E0%A8%BE%E0%A8%82.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Metamorphic%20rock%20Georgian%20Bay.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00002017

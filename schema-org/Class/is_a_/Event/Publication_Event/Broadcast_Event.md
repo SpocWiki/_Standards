@@ -4,20 +4,22 @@ aliases:
   - broadcast_event
   - BroadcastEvent
   - is_a_broadcast_event
+  - Broadcast_Event
+  - Broadcast Event
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - broadcast_event
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_broadcast_event Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

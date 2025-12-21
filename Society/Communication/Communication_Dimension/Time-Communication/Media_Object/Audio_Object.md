@@ -4,20 +4,22 @@ aliases:
   - audio_object
   - AudioObject
   - is_an_audio_object
+  - Audio_Object
+  - Audio Object
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - audio_object
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_audio_object Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

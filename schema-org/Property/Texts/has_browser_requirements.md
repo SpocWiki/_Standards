@@ -4,22 +4,24 @@ aliases:
   - browser_requirements
   - browserRequirements
   - has_text_of_browser_requirements
+  - has_browser_requirements
+  - has browser requirements
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - browser
   - requirements
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_browser_requirements
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

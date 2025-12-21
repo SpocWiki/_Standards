@@ -4,79 +4,79 @@ aliases:
   - library
   - Library
   - is_a_library
+has_id_wikidata: Q7075
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - library
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_library Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_library Class
 type: Type
-has_id_wikidata: Q7075
 different_from:
-  - "[[_Standards/WikiData/WD~archive,166118]]"
-  - "[[_Standards/WikiData/WD~software_library,188860]]"
-  - "[[_Standards/WikiData/WD~library_building,856584]]"
-  - "[[_Standards/WikiData/WD~library_collection,856592]]"
-  - "[[_Standards/WikiData/WD~library_network,26271642]]"
-  - "[[_Standards/WikiData/WD~paper_museum,26944999]]"
-  - "[[_Standards/WikiData/WD~library_room,29843656]]"
+  - '[[_Standards/WikiData/WD~archive,166118]]'
+  - '[[_Standards/WikiData/WD~software_library,188860]]'
+  - '[[_Standards/WikiData/WD~library_building,856584]]'
+  - '[[_Standards/WikiData/WD~library_collection,856592]]'
+  - '[[_Standards/WikiData/WD~library_network,26271642]]'
+  - '[[_Standards/WikiData/WD~paper_museum,26944999]]'
+  - '[[_Standards/WikiData/WD~library_room,29843656]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~library_science,199655]]"
-  - "[[_Standards/WikiData/WD~library_assessment,6542545]]"
+  - '[[_Standards/WikiData/WD~library_science,199655]]'
+  - '[[_Standards/WikiData/WD~library_assessment,6542545]]'
 model_item:
-  - "[[_Standards/WikiData/WD~Vatican_Library,213678]]"
-  - "[[_Standards/WikiData/WD~New_York_Public_Library,219555]]"
-  - "[[_Standards/WikiData/WD~National_Diet_Library,477675]]"
-  - "[[_Standards/WikiData/WD~Biblioteca_Medicea_Laurenziana,856419]]"
-  - "[[_Standards/WikiData/WD~Library_of_Alexandria,435]]"
-  - "[[_Standards/WikiData/WD~British_Library,23308]]"
+  - '[[_Standards/WikiData/WD~Vatican_Library,213678]]'
+  - '[[_Standards/WikiData/WD~New_York_Public_Library,219555]]'
+  - '[[_Standards/WikiData/WD~National_Diet_Library,477675]]'
+  - '[[_Standards/WikiData/WD~Biblioteca_Medicea_Laurenziana,856419]]'
+  - '[[_Standards/WikiData/WD~Library_of_Alexandria,435]]'
+  - '[[_Standards/WikiData/WD~British_Library,23308]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~public_institution,294163]]"
-  - "[[_Standards/WikiData/WD~geographic_location,2221906]]"
-  - "[[_Standards/WikiData/WD~cultural_facility,101542346]]"
+  - '[[_Standards/WikiData/WD~public_institution,294163]]'
+  - '[[_Standards/WikiData/WD~geographic_location,2221906]]'
+  - '[[_Standards/WikiData/WD~cultural_facility,101542346]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-uses: "[[_Standards/WikiData/WD~library_building,856584]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+uses: '[[_Standards/WikiData/WD~library_building,856584]]'
 contains:
-  - "[[_Standards/WikiData/WD~library_collection,856592]]"
-  - "[[_Standards/WikiData/WD~library_materials,110048320]]"
-facet_of: "[[_Standards/WikiData/WD~sharing_economy,2277143]]"
-has_part_s_: "[[_Standards/WikiData/WD~special_collection,4431094]]"
-has_list: "[[_Standards/WikiData/WD~list_of_libraries,4740571]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_library,5636579]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-has_characteristic: "[[_Standards/WikiData/WD~type_of_library,25397890]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~library_director,63970319]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Heritage_institutions,69901156]]"
-opposite_of: "[[_Standards/WikiData/WD~Antilibrary,110913625]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Open_Culture_GLAM_Glossary,115123216]]"
-feast_day: "[[_Standards/WikiData/WD~October_24,2955]]"
+  - '[[_Standards/WikiData/WD~library_collection,856592]]'
+  - '[[_Standards/WikiData/WD~library_materials,110048320]]'
+facet_of: '[[_Standards/WikiData/WD~sharing_economy,2277143]]'
+has_part_s_: '[[_Standards/WikiData/WD~special_collection,4431094]]'
+has_list: '[[_Standards/WikiData/WD~list_of_libraries,4740571]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_library,5636579]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+has_characteristic: '[[_Standards/WikiData/WD~type_of_library,25397890]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~library_director,63970319]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Heritage_institutions,69901156]]'
+opposite_of: '[[_Standards/WikiData/WD~Antilibrary,110913625]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Open_Culture_GLAM_Glossary,115123216]]'
+feast_day: '[[_Standards/WikiData/WD~October_24,2955]]'
 Commons_gallery: Library
 equivalent_class:
   - http://cat.aii.caas.cn/concept/45625
@@ -84,8 +84,8 @@ equivalent_class:
   - http://dbpedia.org/ontology/Library
   - http://id.cabi.org/cabt/66528
   - https://schema.org/Library
-OmegaWiki_Defined_Meaning: "986197"
-Dewey_Decimal_Classification: "027"
+OmegaWiki_Defined_Meaning: 986197
+Dewey_Decimal_Classification: 027
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Austria%20-%20G%C3%B6ttweig%20Abbey%20-%202015.jpg
 Commons_category: Libraries
 Archive_of_Our_Own_tag: Libraries

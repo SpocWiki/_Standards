@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~GovernmentOrganization
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/GovernmentOrganization
-- class/Thing/Organization/GovernmentOrganization
-- is_a_/GovernmentOrganization
-- schema-org/GovernmentOrganization
+  - class/GovernmentOrganization
+  - class/Thing/Organization/GovernmentOrganization
+  - is_a_/GovernmentOrganization
+  - schema-org/GovernmentOrganization
 tags:
-- class/FileClass
-- class/GovernmentOrganization
-- is_a_/GovernmentOrganization
-- class/Thing/Organization/GovernmentOrganization
+  - class/FileClass
+  - class/GovernmentOrganization
+  - is_a_/GovernmentOrganization
+  - class/Thing/Organization/GovernmentOrganization
 version: 2.0
 ---
 

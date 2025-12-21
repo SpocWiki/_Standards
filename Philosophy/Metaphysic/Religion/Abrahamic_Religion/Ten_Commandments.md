@@ -1,43 +1,45 @@
 ---
 aliases:
   - Decalogue
-  - "Ten Commandments (Biblical Hebrew: עֲשֶׂרֶת הַדְּבָרִים‎, romanized: ʿĂśéreṯ had-Dəḇārîm"
+  - 'Ten Commandments (Biblical Hebrew: עֲשֶׂרֶת הַדְּבָרִים‎, romanized: ʿĂśéreṯ had-Dəḇārîm'
+  - Ten_Commandments
+  - Ten Commandments
 has_id_wikidata: Q34623
 instance_of:
-  - "[[_Standards/WikiData/WD~religious_text,179461]]"
-  - "[[_Standards/WikiData/WD~code_of_conduct,2119819]]"
-  - "[[_Standards/WikiData/WD~decad,2643280]]"
-  - "[[_Standards/WikiData/WD~narration,3328821]]"
+  - '[[_Standards/WikiData/WD~religious_text,179461]]'
+  - '[[_Standards/WikiData/WD~code_of_conduct,2119819]]'
+  - '[[_Standards/WikiData/WD~decad,2643280]]'
+  - '[[_Standards/WikiData/WD~narration,3328821]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 part_of:
-  - "[[_Standards/WikiData/WD~law_of_Moses,837443]]"
-  - "[[_Standards/WikiData/WD~Exodus_20,12490590]]"
-  - "[[_Standards/WikiData/WD~Deuteronomy_5,12523107]]"
-subclass_of: "[[_Standards/WikiData/WD~613_commandments,1637842]]"
+  - '[[_Standards/WikiData/WD~law_of_Moses,837443]]'
+  - '[[_Standards/WikiData/WD~Exodus_20,12490590]]'
+  - '[[_Standards/WikiData/WD~Deuteronomy_5,12523107]]'
+subclass_of: '[[_Standards/WikiData/WD~613_commandments,1637842]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Thou_shalt_not_kill,2907211]]"
-  - "[[_Standards/WikiData/WD~Remember_the_sabbath_day,_to_keep_it_holy,7311705]]"
-  - "[[_Standards/WikiData/WD~Thou_shalt_have_no_other_gods_before_me,7796966]]"
-  - "[[_Standards/WikiData/WD~Thou_shalt_not_bear_false_witness_against_thy_neighbour,7796967]]"
-  - "[[_Standards/WikiData/WD~Thou_shalt_not_take_the_name_of_the_Lord_thy_God_in_vain,7796969]]"
-  - "[[_Standards/WikiData/WD~Thou_shalt_not_steal,12403826]]"
-  - "[[_Standards/WikiData/WD~Thou_shalt_not_make_unto_thee_any_graven_image,12403830]]"
-  - "[[_Standards/WikiData/WD~I_am_the_Lord_thy_God,12404028]]"
-  - "[[_Standards/WikiData/WD~Honour_thy_father_and_thy_mother,12408472]]"
-  - "[[_Standards/WikiData/WD~Thou_shalt_not_covet,12408583]]"
-  - "[[_Standards/WikiData/WD~Thou_shalt_not_commit_adultery,12408584]]"
-different_from: "[[_Standards/WikiData/WD~Dekalog,11693246]]"
+  - '[[_Standards/WikiData/WD~Thou_shalt_not_kill,2907211]]'
+  - '[[_Standards/WikiData/WD~Remember_the_sabbath_day,_to_keep_it_holy,7311705]]'
+  - '[[_Standards/WikiData/WD~Thou_shalt_have_no_other_gods_before_me,7796966]]'
+  - '[[_Standards/WikiData/WD~Thou_shalt_not_bear_false_witness_against_thy_neighbour,7796967]]'
+  - '[[_Standards/WikiData/WD~Thou_shalt_not_take_the_name_of_the_Lord_thy_God_in_vain,7796969]]'
+  - '[[_Standards/WikiData/WD~Thou_shalt_not_steal,12403826]]'
+  - '[[_Standards/WikiData/WD~Thou_shalt_not_make_unto_thee_any_graven_image,12403830]]'
+  - '[[_Standards/WikiData/WD~I_am_the_Lord_thy_God,12404028]]'
+  - '[[_Standards/WikiData/WD~Honour_thy_father_and_thy_mother,12408472]]'
+  - '[[_Standards/WikiData/WD~Thou_shalt_not_covet,12408583]]'
+  - '[[_Standards/WikiData/WD~Thou_shalt_not_commit_adultery,12408584]]'
+different_from: '[[_Standards/WikiData/WD~Dekalog,11693246]]'
 published_in:
-  - "[[_Standards/WikiData/WD~Exodus_20,12490590]]"
-  - "[[_Standards/WikiData/WD~Deuteronomy_5,12523107]]"
+  - '[[_Standards/WikiData/WD~Exodus_20,12490590]]'
+  - '[[_Standards/WikiData/WD~Deuteronomy_5,12523107]]'
 Iconclass_notation: 11L2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/10commandmentsCI.jpg
 Provenio_UUID: 22ef37ec-c4a1-450b-ab11-103fd7abeff0

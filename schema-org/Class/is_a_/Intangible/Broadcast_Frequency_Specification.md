@@ -4,20 +4,22 @@ aliases:
   - broadcast_frequency_specification
   - BroadcastFrequencySpecification
   - is_a_broadcast_frequency_specification
+  - Broadcast_Frequency_Specification
+  - Broadcast Frequency Specification
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - broadcast_frequency_specification
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_broadcast_frequency_specification Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

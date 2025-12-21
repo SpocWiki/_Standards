@@ -1,20 +1,22 @@
 ---
-Commons_category: "Periodic table group 6"
+aliases:
+  - Group-06-Chromium
 has_id_wikidata: Q193280
+Commons_category: Periodic table group 6
 has_part_s_:
-- '[[_Standards/WikiData/WD~chromium,725]]'
-- '[[_Standards/WikiData/WD~tungsten,743]]'
-- '[[_Standards/WikiData/WD~molybdenum,1053]]'
-- '[[_Standards/WikiData/WD~seaborgium,1234]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - '[[_Standards/WikiData/WD~chromium,725]]'
+  - '[[_Standards/WikiData/WD~tungsten,743]]'
+  - '[[_Standards/WikiData/WD~molybdenum,1053]]'
+  - '[[_Standards/WikiData/WD~seaborgium,1234]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Chromium%20crystals%20and%201cm3%20cube.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Wolfram%20evaporated%20crystals%20and%201cm3%20cube.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Molybdenum%20crystaline%20fragment%20and%201cm3%20cube.jpg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Chromium%20crystals%20and%201cm3%20cube.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wolfram%20evaporated%20crystals%20and%201cm3%20cube.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Molybdenum%20crystaline%20fragment%20and%201cm3%20cube.jpg
 instance_of: '[[_Standards/WikiData/WD~group,83306]]'
 part_of:
-- '[[_Standards/WikiData/WD~d_block,214503]]'
-- '[[_Standards/WikiData/WD~periodic_table,10693]]'
+  - '[[_Standards/WikiData/WD~d_block,214503]]'
+  - '[[_Standards/WikiData/WD~periodic_table,10693]]'
 type: ElementGroup
 ---
 

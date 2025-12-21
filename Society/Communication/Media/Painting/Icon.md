@@ -1,24 +1,25 @@
 ---
 aliases:
   - Ikone
+  - Icon
 has_id_wikidata: Q132137
-different_from: "[[_Standards/WikiData/WD~Q223876,223876]]"
+different_from: '[[_Standards/WikiData/WD~Q223876,223876]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
 culture:
-  - "[[_Standards/WikiData/WD~Byzantine_culture,928904]]"
-  - "[[_Standards/WikiData/WD~Slavic_culture,66049360]]"
-manifestation_of: "[[_Standards/WikiData/WD~icon_painting,1962682]]"
-subclass_of: "[[_Standards/WikiData/WD~painting,3305213]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_icon,14336064]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_work_of_art,116474095]]"
-Nomenclature_for_Museum_Cataloging: "13226"
+  - '[[_Standards/WikiData/WD~Byzantine_culture,928904]]'
+  - '[[_Standards/WikiData/WD~Slavic_culture,66049360]]'
+manifestation_of: '[[_Standards/WikiData/WD~icon_painting,1962682]]'
+subclass_of: '[[_Standards/WikiData/WD~painting,3305213]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_icon,14336064]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_work_of_art,116474095]]'
+Nomenclature_for_Museum_Cataloging: 13226
 Commons_gallery: Icon
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20from%20Vysotsky%20chin%20%2814c%2C%20Tretyakov%20gallery%29.jpg
-OmegaWiki_Defined_Meaning: "1499399"
+OmegaWiki_Defined_Meaning: 1499399
 Commons_category: Icons (art)
 Krugosvet_article_archived_:
   - kultura_i_obrazovanie/religiya/IKONA_PRAVOSLAVNAYA.html

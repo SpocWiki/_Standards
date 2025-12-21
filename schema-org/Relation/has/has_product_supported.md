@@ -3,23 +3,24 @@ aliases:
   - has product-supported
   - productSupported
   - has_product_supported
+  - has product supported
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - product_supported
   - product
   - supported
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_product_supported
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

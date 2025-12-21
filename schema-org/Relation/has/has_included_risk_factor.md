@@ -3,12 +3,13 @@ aliases:
   - has included-risk-factor
   - includedRiskFactor
   - has_included_risk_factor
+  - has included risk factor
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - risk
   - factor
   - included_risk_factor
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_included_risk_factor
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

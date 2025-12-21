@@ -2,36 +2,38 @@
 aliases:
   - hot cocoa
   - drinking chocolate
+  - Hot_Chocolate
+  - Hot Chocolate
 has_id_wikidata: Q13261
 made_from_material:
-  - "[[_Standards/WikiData/WD~cocoa_powder,1062396]]"
-  - "[[_Standards/WikiData/WD~liquid_water,29053744]]"
-  - "[[_Standards/WikiData/WD~milk,8495]]"
-  - "[[_Standards/WikiData/WD~sugar,11002]]"
-  - "[[_Standards/WikiData/WD~chocolate,195]]"
+  - '[[_Standards/WikiData/WD~cocoa_powder,1062396]]'
+  - '[[_Standards/WikiData/WD~liquid_water,29053744]]'
+  - '[[_Standards/WikiData/WD~milk,8495]]'
+  - '[[_Standards/WikiData/WD~sugar,11002]]'
+  - '[[_Standards/WikiData/WD~chocolate,195]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~stimulant_foodstuff,1365365]]"
-  - "[[_Standards/WikiData/WD~hot_beverage,19359564]]"
-  - "[[_Standards/WikiData/WD~chocolate_dish,84435149]]"
-  - "[[_Standards/WikiData/WD~chocolate_beverage,135411960]]"
+  - '[[_Standards/WikiData/WD~stimulant_foodstuff,1365365]]'
+  - '[[_Standards/WikiData/WD~hot_beverage,19359564]]'
+  - '[[_Standards/WikiData/WD~chocolate_dish,84435149]]'
+  - '[[_Standards/WikiData/WD~chocolate_beverage,135411960]]'
 color:
-  - "[[_Standards/WikiData/WD~chestnut,2040833]]"
-  - "[[_Standards/WikiData/WD~brown,47071]]"
+  - '[[_Standards/WikiData/WD~chestnut,2040833]]'
+  - '[[_Standards/WikiData/WD~brown,47071]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]"
-  - "[[_Standards/WikiData/WD~Breakfast_task_force,21829654]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~chocolate_milk,13253]]"
-country: "[[_Standards/WikiData/WD~Mexico,96]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]'
+  - '[[_Standards/WikiData/WD~Breakfast_task_force,21829654]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~chocolate_milk,13253]]'
+country: '[[_Standards/WikiData/WD~Mexico,96]]'
 pH_value: 6.8
 Commons_gallery: Hot chocolate
 Commons_category: Hot chocolate
-USDA_NDB_number: "01105"
+USDA_NDB_number: 01105
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Becher%20Kakao%20mit%20Sahneh%C3%A4ubchen.JPG
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-Xabier%20Ca%C3%B1as-Kakaodun%20esnea.wav
-Common_Procurement_Vocabulary_code: "15842210"
+Common_Procurement_Vocabulary_code: 15842210
 Amazon_com_browse_node:
-  - "16317471"
-  - "16318161"
+  - 16317471
+  - 16318161
 Wolfram_Language_entity_code: Entity["Food", "HOTCOCOA::np357"]
 ---
 

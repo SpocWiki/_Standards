@@ -4,20 +4,22 @@ aliases:
   - solve_math_action
   - SolveMathAction
   - is_a_solve_math_action
+  - Solve_Math_Action
+  - Solve Math Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - solve_math_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_solve_math_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

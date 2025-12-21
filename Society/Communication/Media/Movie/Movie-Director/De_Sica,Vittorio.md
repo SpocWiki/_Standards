@@ -3,82 +3,84 @@ aliases:
   - Vittorio_De_Sica
   - Vittorio De Sica
   - De Sica
+  - De_Sica,Vittorio
+  - De Sica,Vittorio
 has_id_wikidata: Q53004
-nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]"
-place_of_birth: "[[_Standards/WikiData/WD~Sora,117382]]"
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+place_of_birth: '[[_Standards/WikiData/WD~Sora,117382]]'
 award_received:
-  - "[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Actor,128649]]"
-  - "[[_Standards/WikiData/WD~Golden_Bear,154590]]"
-  - "[[_Standards/WikiData/WD~Kansas_City_Film_Critics_Circle_Awards_1972,305457]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Non_English_Language_Film,387380]]"
-  - "[[_Standards/WikiData/WD~San_Francisco_International_Film_Festival,579634]]"
-  - "[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Director,696998]]"
-  - "[[_Standards/WikiData/WD~Kinema_Junpo,1052227]]"
+  - '[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Actor,128649]]'
+  - '[[_Standards/WikiData/WD~Golden_Bear,154590]]'
+  - '[[_Standards/WikiData/WD~Kansas_City_Film_Critics_Circle_Awards_1972,305457]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Non_English_Language_Film,387380]]'
+  - '[[_Standards/WikiData/WD~San_Francisco_International_Film_Festival,579634]]'
+  - '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Director,696998]]'
+  - '[[_Standards/WikiData/WD~Kinema_Junpo,1052227]]'
   - "[[_Standards/WikiData/WD~Nastro_d'Argento_for_the_director_of_the_best_film,1061238]]"
-  - "[[_Standards/WikiData/WD~Jussi_Awards,1258149]]"
-  - "[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]"
+  - '[[_Standards/WikiData/WD~Jussi_Awards,1258149]]'
+  - '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
   - "[[_Standards/WikiData/WD~Nastro_d'Argento_for_Best_Screenplay,1966051]]"
-  - "[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Director,3703463]]"
+  - '[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Director,3703463]]'
   - "[[_Standards/WikiData/WD~Nastro_d'Argento_for_Best_Actor,3870549]]"
-  - "[[_Standards/WikiData/WD~Leopard_for_Best_Direction,3895781]]"
-  - "[[_Standards/WikiData/WD~Blue_Ribbon_Awards_for_Best_Foreign_Film,19833553]]"
+  - '[[_Standards/WikiData/WD~Leopard_for_Best_Direction,3895781]]'
+  - '[[_Standards/WikiData/WD~Blue_Ribbon_Awards_for_Best_Foreign_Film,19833553]]'
   - "[[_Standards/WikiData/WD~Grolla_d'oro_for_Best_Leading_Actor,21236942]]"
   - "[[_Standards/WikiData/WD~Nastro_d'Argento_for_best_director,30880948]]"
   - "[[_Standards/WikiData/WD~Grolla_d'oro_for_Best_Direction,97279443]]"
-  - "[[_Standards/WikiData/WD~Academy_Awards,19020]]"
+  - '[[_Standards/WikiData/WD~Academy_Awards,19020]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Two_Women,128761]]"
-  - "[[_Standards/WikiData/WD~Bicycle_Thieves,172837]]"
-  - "[[_Standards/WikiData/WD~Marriage_Italian_Style,241925]]"
-  - "[[_Standards/WikiData/WD~Shoeshine,586310]]"
-  - "[[_Standards/WikiData/WD~Umberto_D.,651982]]"
-  - "[[_Standards/WikiData/WD~Maddalena,_zero_in_condotta,948671]]"
-  - "[[_Standards/WikiData/WD~Miracle_in_Milan,1170844]]"
-  - "[[_Standards/WikiData/WD~The_Children_Are_Watching_Us,2526645]]"
+  - '[[_Standards/WikiData/WD~Two_Women,128761]]'
+  - '[[_Standards/WikiData/WD~Bicycle_Thieves,172837]]'
+  - '[[_Standards/WikiData/WD~Marriage_Italian_Style,241925]]'
+  - '[[_Standards/WikiData/WD~Shoeshine,586310]]'
+  - '[[_Standards/WikiData/WD~Umberto_D.,651982]]'
+  - '[[_Standards/WikiData/WD~Maddalena,_zero_in_condotta,948671]]'
+  - '[[_Standards/WikiData/WD~Miracle_in_Milan,1170844]]'
+  - '[[_Standards/WikiData/WD~The_Children_Are_Watching_Us,2526645]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Giuditta_Rissone,164065]]"
-  - "[[_Standards/WikiData/WD~María_Mercader,265621]]"
-genre: "[[_Standards/WikiData/WD~Italian_neorealism,167776]]"
+  - '[[_Standards/WikiData/WD~Giuditta_Rissone,164065]]'
+  - '[[_Standards/WikiData/WD~María_Mercader,265621]]'
+genre: '[[_Standards/WikiData/WD~Italian_neorealism,167776]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-relative: "[[_Standards/WikiData/WD~Achille_Campanile,320738]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+  - '[[_Standards/WikiData/WD~Italy,38]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+relative: '[[_Standards/WikiData/WD~Achille_Campanile,320738]]'
 child:
-  - "[[_Standards/WikiData/WD~Christian_De_Sica,554787]]"
-  - "[[_Standards/WikiData/WD~Manuel_De_Sica,1891483]]"
-  - "[[_Standards/WikiData/WD~Vicky_Lagos,6161441]]"
-  - "[[_Standards/WikiData/WD~Emi_De_Sica,106180226]]"
+  - '[[_Standards/WikiData/WD~Christian_De_Sica,554787]]'
+  - '[[_Standards/WikiData/WD~Manuel_De_Sica,1891483]]'
+  - '[[_Standards/WikiData/WD~Vicky_Lagos,6161441]]'
+  - '[[_Standards/WikiData/WD~Emi_De_Sica,106180226]]'
 occupation:
-  - "[[_Standards/WikiData/WD~executive_producer,1053574]]"
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-given_name: "[[_Standards/WikiData/WD~Vittorio,3834677]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~executive_producer,1053574]]'
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~director,3455803]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+given_name: '[[_Standards/WikiData/WD~Vittorio,3834677]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 date_of_birth: 1901-07-07T00:00:00Z
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]"
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-sibling: "[[_Standards/WikiData/WD~Elmo_De_Sica,106180552]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]"
-family_name: "[[_Standards/WikiData/WD~De_Sica,113294633]]"
-filmography: "[[_Standards/WikiData/WD~Vittorio_De_Sica_filmography,120524550]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Italian,652]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
-place_of_burial: "[[_Standards/WikiData/WD~Campo_Verano,27426]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+sibling: '[[_Standards/WikiData/WD~Elmo_De_Sica,106180552]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]'
+family_name: '[[_Standards/WikiData/WD~De_Sica,113294633]]'
+filmography: '[[_Standards/WikiData/WD~Vittorio_De_Sica_filmography,120524550]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Italian,652]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+place_of_burial: '[[_Standards/WikiData/WD~Campo_Verano,27426]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 number_of_children: 3
-cause_of_death: "[[_Standards/WikiData/WD~lung_cancer,47912]]"
-place_of_death: "[[_Standards/WikiData/WD~Neuilly_sur_Seine,48958]]"
+cause_of_death: '[[_Standards/WikiData/WD~lung_cancer,47912]]'
+place_of_death: '[[_Standards/WikiData/WD~Neuilly_sur_Seine,48958]]'
 birth_name: Vittorio Dominico Stanislo Gaetano Sorano De Sica
 work_period_start_: 1917-01-01T00:00:00Z
 Commons_Creator_page: Vittorio De Sica
@@ -91,7 +93,7 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Autografo%20di%20V
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Tomba%20di%20Vittorio%20De%20Sica.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vittorio%20De%20Sica%20-%20portrait.jpg
 ISNI: 000000012143173X
-P1015: "90382225"
+P1015: 90382225
 ---
 
 # [[De_Sica,Vittorio]] 

@@ -3,18 +3,19 @@ aliases:
   - Beat Generation
   - Beatniks
   - Beatnik
+  - Beat_Generation
 has_id_wikidata: Q213457
 founded_by:
-  - "[[_Standards/WikiData/WD~Jack_Kerouac,160534]]"
-  - "[[_Standards/WikiData/WD~William_S._Burroughs,188176]]"
-  - "[[_Standards/WikiData/WD~Allen_Ginsberg,6711]]"
-has_part_s_: "[[_Standards/WikiData/WD~Joyce_Johnson,273938]]"
+  - '[[_Standards/WikiData/WD~Jack_Kerouac,160534]]'
+  - '[[_Standards/WikiData/WD~William_S._Burroughs,188176]]'
+  - '[[_Standards/WikiData/WD~Allen_Ginsberg,6711]]'
+has_part_s_: '[[_Standards/WikiData/WD~Joyce_Johnson,273938]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Howl,1545259]]"
-  - "[[_Standards/WikiData/WD~Beat_generation_literature,26906560]]"
-instance_of: "[[_Standards/WikiData/WD~literary_movement,3326717]]"
-described_by_source: "[[_Standards/WikiData/WD~St._James_Encyclopedia_of_Popular_Culture,7588466]]"
-influenced_by: "[[_Standards/WikiData/WD~Fyodor_Dostoyevsky,991]]"
+  - '[[_Standards/WikiData/WD~Howl,1545259]]'
+  - '[[_Standards/WikiData/WD~Beat_generation_literature,26906560]]'
+instance_of: '[[_Standards/WikiData/WD~literary_movement,3326717]]'
+described_by_source: '[[_Standards/WikiData/WD~St._James_Encyclopedia_of_Popular_Culture,7588466]]'
+influenced_by: '[[_Standards/WikiData/WD~Fyodor_Dostoyevsky,991]]'
 Commons_category: Beat Generation
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ginsberg-leary-lilly.jpg
 ---

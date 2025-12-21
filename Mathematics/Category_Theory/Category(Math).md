@@ -2,25 +2,26 @@
 aliases:
   - Kategorie
   - Category
+  - Category(Math)
 has_id_wikidata: Q719395
-studied_by: "[[_Standards/WikiData/WD~category_theory,217413]]"
-follows: "[[_Standards/WikiData/WD~class,217594]]"
-different_from: "[[_Standards/WikiData/WD~Category,224414]]"
+studied_by: '[[_Standards/WikiData/WD~category_theory,217413]]'
+follows: '[[_Standards/WikiData/WD~class,217594]]'
+different_from: '[[_Standards/WikiData/WD~Category,224414]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Saunders_Mac_Lane,441223]]"
-  - "[[_Standards/WikiData/WD~Samuel_Eilenberg,535833]]"
+  - '[[_Standards/WikiData/WD~Saunders_Mac_Lane,441223]]'
+  - '[[_Standards/WikiData/WD~Samuel_Eilenberg,535833]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~morphism,1948412]]"
-  - "[[_Standards/WikiData/WD~object_of_a_category,15975724]]"
+  - '[[_Standards/WikiData/WD~morphism,1948412]]'
+  - '[[_Standards/WikiData/WD~object_of_a_category,15975724]]'
 followed_by:
-  - "[[_Standards/WikiData/WD~strict_2_category,4596935]]"
-  - "[[_Standards/WikiData/WD~bicategory,4903541]]"
-subclass_of: "[[_Standards/WikiData/WD~weak_n_category,7977957]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-series_ordinal: "1"
+  - '[[_Standards/WikiData/WD~strict_2_category,4596935]]'
+  - '[[_Standards/WikiData/WD~bicategory,4903541]]'
+subclass_of: '[[_Standards/WikiData/WD~weak_n_category,7977957]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+series_ordinal: 1
 quantity_symbol_string_: C
 time_of_discovery_or_invention: 1945-01-01T00:00:00Z
-P8189: "987007284853105171"
+P8189: 987007284853105171
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Category%20SVG.svg
 ---
 

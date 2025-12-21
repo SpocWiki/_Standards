@@ -4,20 +4,22 @@ aliases:
   - legal_service
   - LegalService
   - is_a_legal_service
+  - Legal_Service
+  - Legal Service
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - legal_service
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_legal_service Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

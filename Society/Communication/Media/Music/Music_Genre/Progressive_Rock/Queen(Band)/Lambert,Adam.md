@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Adam Lambert"
+  - Adam Lambert
+  - Lambert,Adam
 ---
 
 > Adam Mitchel Lambert (born January 29, 1982) is an American singer. 

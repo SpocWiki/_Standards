@@ -4,21 +4,23 @@ aliases:
   - studio_album
   - StudioAlbum
   - is_a_studio_album
+  - Studio_Album
+  - Studio Album
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MusicAlbumProductionType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - studio_album
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_studio_album Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

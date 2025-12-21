@@ -4,23 +4,25 @@ aliases:
   - example_of_work
   - exampleOfWork
   - has_example_of_work
+  - is_example_of_work
+  - is example of work
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - example
   - of
   - work
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_example_of_work
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

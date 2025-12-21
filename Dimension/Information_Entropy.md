@@ -1,34 +1,35 @@
 ---
 aliases:
   - Information Entropy
-  - Information 
+  - Information
   - Entropy
+  - Information_Entropy
 has_id_wikidata: Q204570
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Claude_Shannon,92760]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Claude_Shannon,92760]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-  - "[[_Standards/WikiData/WD~information_content,735075]]"
+  - '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+  - '[[_Standards/WikiData/WD~information_content,735075]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~information_theory,131222]]"
-  - "[[_Standards/WikiData/WD~thermodynamics,11473]]"
+  - '[[_Standards/WikiData/WD~information_theory,131222]]'
+  - '[[_Standards/WikiData/WD~thermodynamics,11473]]'
 different_from:
-  - "[[_Standards/WikiData/WD~negentropy,252552]]"
-  - "[[_Standards/WikiData/WD~data_size,105666562]]"
-opposite_of: "[[_Standards/WikiData/WD~negentropy,252552]]"
+  - '[[_Standards/WikiData/WD~negentropy,252552]]'
+  - '[[_Standards/WikiData/WD~data_size,105666562]]'
+opposite_of: '[[_Standards/WikiData/WD~negentropy,252552]]'
 recommended_unit_of_measurement:
-  - "[[_Standards/WikiData/WD~hartley,324923]]"
-  - "[[_Standards/WikiData/WD~nat,376660]]"
-  - "[[_Standards/WikiData/WD~shannon,15551713]]"
+  - '[[_Standards/WikiData/WD~hartley,324923]]'
+  - '[[_Standards/WikiData/WD~nat,376660]]'
+  - '[[_Standards/WikiData/WD~shannon,15551713]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~mathematical_expression,6498784]]"
-  - "[[_Standards/WikiData/WD~mathematical_concept,24034552]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-described_by_source: "[[_Standards/WikiData/WD~IEC_80000_13_2008_Quantities_and_units_Part_13_Information_science_and_technology,26711945]]"
+  - '[[_Standards/WikiData/WD~mathematical_expression,6498784]]'
+  - '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~IEC_80000_13_2008_Quantities_and_units_Part_13_Information_science_and_technology,26711945]]'
 quantity_symbol_LaTeX_:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>H</mi><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>H</mi></mstyle></mrow></math>
 Wikidata_property: information entropy
-facet_of: "[[_Standards/WikiData/WD~information,11028]]"
+facet_of: '[[_Standards/WikiData/WD~information,11028]]'
 IEV_number: 171-07-15
 Library_of_Congress_Classification: Q370
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>

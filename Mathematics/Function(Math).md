@@ -1,33 +1,39 @@
 ---
+aliases:
+  - mathematical function
+  - function
+  - mathematical functions
+  - functions
+  - Function(Math)
 has_id_wikidata: Q11348
-subclass_of: "[[_Standards/WikiData/WD~binary_relation,130901]]"
+subclass_of: '[[_Standards/WikiData/WD~binary_relation,130901]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~domain_of_a_function,192439]]"
-  - "[[_Standards/WikiData/WD~codomain,199006]]"
-  - "[[_Standards/WikiData/WD~zero_of_a_function,214604]]"
-  - "[[_Standards/WikiData/WD~type_of_mathematical_function,47279819]]"
-  - "[[_Standards/WikiData/WD~left_totality,54933376]]"
-  - "[[_Standards/WikiData/WD~right_uniqueness,54933381]]"
+  - '[[_Standards/WikiData/WD~domain_of_a_function,192439]]'
+  - '[[_Standards/WikiData/WD~codomain,199006]]'
+  - '[[_Standards/WikiData/WD~zero_of_a_function,214604]]'
+  - '[[_Standards/WikiData/WD~type_of_mathematical_function,47279819]]'
+  - '[[_Standards/WikiData/WD~left_totality,54933376]]'
+  - '[[_Standards/WikiData/WD~right_uniqueness,54933381]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~mapping,370502]]"
-  - "[[_Standards/WikiData/WD~argument_of_a_function,1027788]]"
-  - "[[_Standards/WikiData/WD~arity,1315869]]"
-  - "[[_Standards/WikiData/WD~function_value,59715267]]"
+  - '[[_Standards/WikiData/WD~mapping,370502]]'
+  - '[[_Standards/WikiData/WD~argument_of_a_function,1027788]]'
+  - '[[_Standards/WikiData/WD~arity,1315869]]'
+  - '[[_Standards/WikiData/WD~function_value,59715267]]'
 described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]"
-opposite_of: "[[_Standards/WikiData/WD~multivalued_function,629085]]"
-has_list: "[[_Standards/WikiData/WD~list_of_mathematical_functions,1991505]]"
-different_from: "[[_Standards/WikiData/WD~position,4164871]]"
-notation: "[[_Standards/WikiData/WD~maplet,6754055]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Functions,13411594]]"
-instance_of: "[[_Standards/WikiData/WD~mathematical_concept,24034552]]"
-studied_by: "[[_Standards/WikiData/WD~mathematics,395]]"
+  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+opposite_of: '[[_Standards/WikiData/WD~multivalued_function,629085]]'
+has_list: '[[_Standards/WikiData/WD~list_of_mathematical_functions,1991505]]'
+different_from: '[[_Standards/WikiData/WD~position,4164871]]'
+notation: '[[_Standards/WikiData/WD~maplet,6754055]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Functions,13411594]]'
+instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+studied_by: '[[_Standards/WikiData/WD~mathematics,395]]'
 inappropriate_property_for_this_type:
   - inception
   - dissolved, abolished or demolished date
@@ -54,11 +60,6 @@ Krugosvet_article: nauka_i_tehnika/matematika/FUNKTSIYA.html
 described_at_URL:
   - https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:functions
   - https://www.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/a-more-formal-understanding-of-functions
-aliases:
-  - mathematical function
-  - function
-  - mathematical functions
-  - functions
 ---
 
 # [[Function(Math)]] 

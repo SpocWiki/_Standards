@@ -4,23 +4,25 @@ aliases:
   - code_of_sample_type
   - codeSampleType
   - has_code_of_sample_type
+  - has_code_sample_type
+  - has code sample type
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - code
   - sample
   - type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_code_of_sample_type
 publish: true
-publishDate:
+publishDate: ''
 supersedes: sampleType
 tags:
   - class/Property

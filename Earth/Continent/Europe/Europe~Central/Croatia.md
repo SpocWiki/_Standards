@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Croatia
+  - Croacia
+  - Croatie
+  - كرواتيا
+  - 克罗地亚
+  - Хорватия
+  - the Republic of Croatia
+  - la República de Croacia
+has_id_wikidata: Q224
 demonym:
   - Crótach
   - Chorvatka
@@ -362,7 +372,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913
 country_calling_code: 385
 U_S_National_Archives_Identifier: 10045284
 BHCL_UUID: bbcd115b-c5ae-49ac-8b3c-ab8e07472b22
-has_id_wikidata: Q224
 location:
   - 45.8
   - 15.97
@@ -378,21 +387,12 @@ cssclasses:
   - Country
 publish: true
 title: Croatia
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Croatia
-  - Croacia
-  - Croatie
-  - كرواتيا
-  - 克罗地亚
-  - Хорватия
-  - the Republic of Croatia
-  - la República de Croacia
+publishDate: ""
+expiryDate: ""
 Languages:
   - hr-HR
   - sr

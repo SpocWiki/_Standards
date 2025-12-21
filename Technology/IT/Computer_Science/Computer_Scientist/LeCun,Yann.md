@@ -3,6 +3,7 @@ aliases:
   - Yann LeCun
   - Yann André LeCun
   - LeCun
+  - LeCun,Yann
 ---
 
 ## #has_/text_of_/abstract 

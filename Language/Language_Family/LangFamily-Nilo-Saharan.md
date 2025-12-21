@@ -1,13 +1,14 @@
 ---
 aliases:
   - Nilo-Saharan
+  - LangFamily-Nilo-Saharan
+has_id_wikidata: Q33705
 tags:
   - Lang_Family
 type: LangFamily
-has_id_wikidata: Q33705
-subclass_of: "[[_Standards/WikiData/WD~human_language,20162172]]"
-instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
-OmegaWiki_Defined_Meaning: "596391"
+subclass_of: '[[_Standards/WikiData/WD~human_language,20162172]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
+OmegaWiki_Defined_Meaning: 596391
 ISO_639_5_code: ssa
 IETF_language_tag: ssa
 ISO_639_2_code: ssa
@@ -16,7 +17,7 @@ distribution_map:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lenguas%20nilo-saharianas.PNG
   - http://commons.wikimedia.org/wiki/Special:FilePath/Nilo-Saharan.png
 exact_match: http://publications.europa.eu/resource/authority/language/SSA
-Dewey_Decimal_Classification: "496.5"
+Dewey_Decimal_Classification: 496.5
 Commons_category: Nilo-Saharan languages
 Linguist_List_code: nsah
 GOST_7_75_97_code: них 497

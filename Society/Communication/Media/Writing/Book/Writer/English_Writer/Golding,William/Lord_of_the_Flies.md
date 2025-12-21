@@ -1,30 +1,31 @@
 ---
 aliases:
   - Lord of the Flies
+  - Lord_of_the_Flies
 has_id_wikidata: Q271764
 genre:
-  - "[[_Standards/WikiData/WD~robinsonade,279060]]"
-  - "[[_Standards/WikiData/WD~allegory,2839016]]"
-  - "[[_Standards/WikiData/WD~dystopian_fiction,15062348]]"
-  - "[[_Standards/WikiData/WD~young_adult_fiction,111984153]]"
-  - "[[_Standards/WikiData/WD~science_fiction,24925]]"
+  - '[[_Standards/WikiData/WD~robinsonade,279060]]'
+  - '[[_Standards/WikiData/WD~allegory,2839016]]'
+  - '[[_Standards/WikiData/WD~dystopian_fiction,15062348]]'
+  - '[[_Standards/WikiData/WD~young_adult_fiction,111984153]]'
+  - '[[_Standards/WikiData/WD~science_fiction,24925]]'
 derivative_work:
-  - "[[_Standards/WikiData/WD~Lord_of_the_Flies,386245]]"
-  - "[[_Standards/WikiData/WD~Lord_of_the_Flies,598096]]"
-  - "[[_Standards/WikiData/WD~Alkitrang_dugo,4727718]]"
-  - "[[_Standards/WikiData/WD~Lord_of_the_Flies,130241340]]"
-different_from: "[[_Standards/WikiData/WD~Lord_of_the_Flies,408353]]"
-publisher: "[[_Standards/WikiData/WD~Faber_&_Faber,898097]]"
-cover_art_by: "[[_Standards/WikiData/WD~Anthony_Gross,4772637]]"
-has_characteristic: "[[_Standards/WikiData/WD~debut_novel,5248657]]"
-set_in_environment: "[[_Standards/WikiData/WD~fictional_island,6619693]]"
-instance_of: "[[_Standards/WikiData/WD~literary_work,7725634]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q15587205,15587205]]"
-has_edition_or_translation: "[[_Standards/WikiData/WD~Lord_of_the_Flies,126503079]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~novel,8261]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-author: "[[_Standards/WikiData/WD~William_Golding,44183]]"
+  - '[[_Standards/WikiData/WD~Lord_of_the_Flies,386245]]'
+  - '[[_Standards/WikiData/WD~Lord_of_the_Flies,598096]]'
+  - '[[_Standards/WikiData/WD~Alkitrang_dugo,4727718]]'
+  - '[[_Standards/WikiData/WD~Lord_of_the_Flies,130241340]]'
+different_from: '[[_Standards/WikiData/WD~Lord_of_the_Flies,408353]]'
+publisher: '[[_Standards/WikiData/WD~Faber_&_Faber,898097]]'
+cover_art_by: '[[_Standards/WikiData/WD~Anthony_Gross,4772637]]'
+has_characteristic: '[[_Standards/WikiData/WD~debut_novel,5248657]]'
+set_in_environment: '[[_Standards/WikiData/WD~fictional_island,6619693]]'
+instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q15587205,15587205]]'
+has_edition_or_translation: '[[_Standards/WikiData/WD~Lord_of_the_Flies,126503079]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~novel,8261]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+author: '[[_Standards/WikiData/WD~William_Golding,44183]]'
 title: Lord of the Flies
 publication_date: 1954-09-18T00:00:00Z
 inception: 1954-01-01T00:00:00Z

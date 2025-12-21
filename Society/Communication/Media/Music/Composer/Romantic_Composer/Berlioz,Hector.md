@@ -3,96 +3,97 @@ aliases:
   - Louis-Hector Berlioz
   - Hector Berlioz
   - Berlioz
+  - Berlioz,Hector
 has_id_wikidata: Q1151
 occupation:
-  - "[[_Standards/WikiData/WD~conductor,158852]]"
-  - "[[_Standards/WikiData/WD~librarian,182436]]"
-  - "[[_Standards/WikiData/WD~virtuoso,214970]]"
-  - "[[_Standards/WikiData/WD~music_critic,1350157]]"
-  - "[[_Standards/WikiData/WD~journalist,1930187]]"
-  - "[[_Standards/WikiData/WD~librettist,8178443]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Archives_nationales,182542]]"
+  - '[[_Standards/WikiData/WD~conductor,158852]]'
+  - '[[_Standards/WikiData/WD~librarian,182436]]'
+  - '[[_Standards/WikiData/WD~virtuoso,214970]]'
+  - '[[_Standards/WikiData/WD~music_critic,1350157]]'
+  - '[[_Standards/WikiData/WD~journalist,1930187]]'
+  - '[[_Standards/WikiData/WD~librettist,8178443]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Archives_nationales,182542]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~composed_musical_work,207628]]"
-  - "[[_Standards/WikiData/WD~art_music,1583807]]"
-  - "[[_Standards/WikiData/WD~conducting,6989196]]"
-  - "[[_Standards/WikiData/WD~music_composing,11895763]]"
-  - "[[_Standards/WikiData/WD~music_composition,105107008]]"
-  - "[[_Standards/WikiData/WD~music,638]]"
+  - '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
+  - '[[_Standards/WikiData/WD~art_music,1583807]]'
+  - '[[_Standards/WikiData/WD~conducting,6989196]]'
+  - '[[_Standards/WikiData/WD~music_composing,11895763]]'
+  - '[[_Standards/WikiData/WD~music_composition,105107008]]'
+  - '[[_Standards/WikiData/WD~music,638]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-  - "[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+  - '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
+  - '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
   - "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747]]"
-  - "[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]"
+  - '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
 student_of:
-  - "[[_Standards/WikiData/WD~Anton_Reicha,311387]]"
-  - "[[_Standards/WikiData/WD~Jean_François_Le_Sueur,559659]]"
+  - '[[_Standards/WikiData/WD~Anton_Reicha,311387]]'
+  - '[[_Standards/WikiData/WD~Jean_François_Le_Sueur,559659]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Académie_des_beaux_arts,337531]]"
-  - "[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Music,1541450]]"
+  - '[[_Standards/WikiData/WD~Académie_des_beaux_arts,337531]]'
+  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Music,1541450]]'
 student:
-  - "[[_Standards/WikiData/WD~Antoine_Elwart,374582]]"
-  - "[[_Standards/WikiData/WD~Théodore_Ritter,2430552]]"
-archives_at: "[[_Standards/WikiData/WD~UK_National_Archives,392703]]"
+  - '[[_Standards/WikiData/WD~Antoine_Elwart,374582]]'
+  - '[[_Standards/WikiData/WD~Théodore_Ritter,2430552]]'
+archives_at: '[[_Standards/WikiData/WD~UK_National_Archives,392703]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Le_carnaval_romain,403368]]"
-  - "[[_Standards/WikiData/WD~Symphonie_fantastique,462313]]"
-  - "[[_Standards/WikiData/WD~Les_Troyens,472325]]"
-  - "[[_Standards/WikiData/WD~La_damnation_de_Faust,1144992]]"
-  - "[[_Standards/WikiData/WD~Requiem,1495114]]"
-  - "[[_Standards/WikiData/WD~Roméo_et_Juliette,2450718]]"
+  - '[[_Standards/WikiData/WD~Le_carnaval_romain,403368]]'
+  - '[[_Standards/WikiData/WD~Symphonie_fantastique,462313]]'
+  - '[[_Standards/WikiData/WD~Les_Troyens,472325]]'
+  - '[[_Standards/WikiData/WD~La_damnation_de_Faust,1144992]]'
+  - '[[_Standards/WikiData/WD~Requiem,1495114]]'
+  - '[[_Standards/WikiData/WD~Roméo_et_Juliette,2450718]]'
   - "[[_Standards/WikiData/WD~Les_Nuits_d'Été,3051034]]"
-educated_at: "[[_Standards/WikiData/WD~Conservatoire_de_Paris,463055]]"
+educated_at: '[[_Standards/WikiData/WD~Conservatoire_de_Paris,463055]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Prix_de_Rome,576434]]"
-  - "[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
-place_of_burial: "[[_Standards/WikiData/WD~Montmartre_Cemetery,746647]]"
-place_of_birth: "[[_Standards/WikiData/WD~La_Côte_Saint_André,864123]]"
+  - '[[_Standards/WikiData/WD~Prix_de_Rome,576434]]'
+  - '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
+  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+place_of_burial: '[[_Standards/WikiData/WD~Montmartre_Cemetery,746647]]'
+place_of_birth: '[[_Standards/WikiData/WD~La_Côte_Saint_André,864123]]'
 instrument:
-  - "[[_Standards/WikiData/WD~flageolet,1001877]]"
-  - "[[_Standards/WikiData/WD~guitar,6607]]"
-  - "[[_Standards/WikiData/WD~saxophone,9798]]"
-  - "[[_Standards/WikiData/WD~flute,11405]]"
-spouse: "[[_Standards/WikiData/WD~Harriet_Smithson,1034113]]"
-given_name: "[[_Standards/WikiData/WD~Hector,1811874]]"
-list_of_works: "[[_Standards/WikiData/WD~list_of_compositions_by_Hector_Berlioz,4383384]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Berlioz,12785754]]"
-father: "[[_Standards/WikiData/WD~Louis_Berlioz,19294986]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-depicted_by: "[[_Standards/WikiData/WD~Portrait_of_the_Composer_Hector_Berlioz,55423206]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-child: "[[_Standards/WikiData/WD~Louis_Berlioz,125458941]]"
+  - '[[_Standards/WikiData/WD~flageolet,1001877]]'
+  - '[[_Standards/WikiData/WD~guitar,6607]]'
+  - '[[_Standards/WikiData/WD~saxophone,9798]]'
+  - '[[_Standards/WikiData/WD~flute,11405]]'
+spouse: '[[_Standards/WikiData/WD~Harriet_Smithson,1034113]]'
+given_name: '[[_Standards/WikiData/WD~Hector,1811874]]'
+list_of_works: '[[_Standards/WikiData/WD~list_of_compositions_by_Hector_Berlioz,4383384]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Berlioz,12785754]]'
+father: '[[_Standards/WikiData/WD~Louis_Berlioz,19294986]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+depicted_by: '[[_Standards/WikiData/WD~Portrait_of_the_Composer_Hector_Berlioz,55423206]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+child: '[[_Standards/WikiData/WD~Louis_Berlioz,125458941]]'
 date_of_death: 1869-03-08T00:00:00Z
 genre:
-  - "[[_Standards/WikiData/WD~opera,1344]]"
-  - "[[_Standards/WikiData/WD~classical_music,9730]]"
-  - "[[_Standards/WikiData/WD~symphony,9734]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~Paris,90]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-writing_language: "[[_Standards/WikiData/WD~French,150]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~opera,1344]]'
+  - '[[_Standards/WikiData/WD~classical_music,9730]]'
+  - '[[_Standards/WikiData/WD~symphony,9734]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~Paris,90]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+writing_language: '[[_Standards/WikiData/WD~French,150]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 Commons_Creator_page: Hector Berlioz
 Commons_gallery: Hector Berlioz
 Commons_category: Hector Berlioz
@@ -107,7 +108,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Berlioz%20Petit%20BNF%
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Hector%20Berlioz%20Signature.svg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Tombe%20Berlioz.jpg
 official_website: http://www.hberlioz.com
-ISNI: "0000000123210295"
+ISNI: 0000000123210295
 Europeana_entity: agent/base/147049
 ---
 

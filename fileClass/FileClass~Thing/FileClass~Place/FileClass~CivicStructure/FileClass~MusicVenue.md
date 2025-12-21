@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MusicVenue
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 fields: []
 icon: music
 limit: 9
 mapWithTag: false
 tagNames:
-- class/MusicVenue
-- class/Thing/Place/CivicStructure/MusicVenue
-- is_a_/MusicVenue
-- schema-org/MusicVenue
+  - class/MusicVenue
+  - class/Thing/Place/CivicStructure/MusicVenue
+  - is_a_/MusicVenue
+  - schema-org/MusicVenue
 tags:
-- class/FileClass
-- class/MusicVenue
-- is_a_/MusicVenue
-- class/Thing/Place/CivicStructure/MusicVenue
+  - class/FileClass
+  - class/MusicVenue
+  - is_a_/MusicVenue
+  - class/Thing/Place/CivicStructure/MusicVenue
 version: 2.0
 ---
 

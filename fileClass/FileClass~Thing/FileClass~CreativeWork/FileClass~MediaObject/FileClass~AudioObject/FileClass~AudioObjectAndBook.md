@@ -1,46 +1,48 @@
 ---
-excludes: 
+aliases:
+  - FileClass~AudioObjectAndBook
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject
 fields:
-- id: IMuwNi
-  name: Abridged
-  options: {}
-  type: Boolean
-  path: ''
-- id: 3dZCDB
-  name: BookEdition
-  options: {}
-  type: Input
-  path: ''
-- id: Abo6NZ
-  name: Illustrator
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: gR05hI
-  name: Isbn
-  options: {}
-  type: Input
-  path: ''
-- id: IeM41O
-  name: NumberOfPages
-  options: {}
-  type: Number
-  path: ''
+  - id: IMuwNi
+    name: Abridged
+    options: {}
+    type: Boolean
+    path: ''
+  - id: 3dZCDB
+    name: BookEdition
+    options: {}
+    type: Input
+    path: ''
+  - id: Abo6NZ
+    name: Illustrator
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: gR05hI
+    name: Isbn
+    options: {}
+    type: Input
+    path: ''
+  - id: IeM41O
+    name: NumberOfPages
+    options: {}
+    type: Number
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/AudioObjectAndBook
-- class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook
-- is_an_/AudioObjectAndBook
-- schema-org/AudioObjectAndBook
+  - class/AudioObjectAndBook
+  - class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook
+  - is_an_/AudioObjectAndBook
+  - schema-org/AudioObjectAndBook
 tags:
-- class/FileClass
-- class/AudioObjectAndBook
-- '#is_an_/AudioObjectAndBook'
-- class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook
+  - class/FileClass
+  - class/AudioObjectAndBook
+  - '#is_an_/AudioObjectAndBook'
+  - class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook
 version: 2.0
 ---
 

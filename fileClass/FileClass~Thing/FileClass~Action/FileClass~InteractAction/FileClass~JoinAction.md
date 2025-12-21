@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~JoinAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 fields:
-- id: 7789uH
-  name: Events
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Event')"
-  type: MultiFile
-  path: ''
+  - id: 7789uH
+    name: Events
+    options:
+      dvQueryString: dv.pages('#class/Thing/Event')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/JoinAction
-- class/Thing/Action/InteractAction/JoinAction
-- is_a_/JoinAction
-- schema-org/JoinAction
+  - class/JoinAction
+  - class/Thing/Action/InteractAction/JoinAction
+  - is_a_/JoinAction
+  - schema-org/JoinAction
 tags:
-- class/FileClass
-- class/JoinAction
-- is_a_/JoinAction
-- class/Thing/Action/InteractAction/JoinAction
+  - class/FileClass
+  - class/JoinAction
+  - is_a_/JoinAction
+  - class/Thing/Action/InteractAction/JoinAction
 version: 2.0
 ---
 

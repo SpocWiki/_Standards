@@ -1,17 +1,19 @@
 ---
 aliases:
   - Proto-Indo-Europeans
+  - Proto-Indo-European_People
+  - Proto-Indo-European People
 has_id_wikidata: Q1145774
 indigenous_to:
-  - "[[_Standards/WikiData/WD~South_Caucasus,200173]]"
-  - "[[_Standards/WikiData/WD~East_European_forest_steppe,723601]]"
-followed_by: "[[_Standards/WikiData/WD~Indo_European_people,475027]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Proto_Indo_European_mythology,1401124]]"
-described_by_source: "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~South_Caucasus,200173]]'
+  - '[[_Standards/WikiData/WD~East_European_forest_steppe,723601]]'
+followed_by: '[[_Standards/WikiData/WD~Indo_European_people,475027]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Proto_Indo_European_mythology,1401124]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~ethnolinguistic_group,4533081]]"
-  - "[[_Standards/WikiData/WD~extinct_human_group,55208590]]"
-language_used: "[[_Standards/WikiData/WD~Proto_Indo_European,37178]]"
+  - '[[_Standards/WikiData/WD~ethnolinguistic_group,4533081]]'
+  - '[[_Standards/WikiData/WD~extinct_human_group,55208590]]'
+language_used: '[[_Standards/WikiData/WD~Proto_Indo_European,37178]]'
 ---
 
 # [[Proto-Indo-European_People]] 

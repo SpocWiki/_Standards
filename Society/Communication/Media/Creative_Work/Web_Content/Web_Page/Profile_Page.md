@@ -4,20 +4,22 @@ aliases:
   - profile_page
   - ProfilePage
   - is_a_profile_page
+  - Profile_Page
+  - Profile Page
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - profile_page
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_profile_page Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

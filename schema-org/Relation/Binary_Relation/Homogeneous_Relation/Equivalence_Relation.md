@@ -2,6 +2,8 @@
 aliases:
   - equivalence relation
   - Äquivalenzrelation
+  - Equivalence_Relation
+  - Equivalence Relation
 has_id_wikidata: Q130998
 ---
 

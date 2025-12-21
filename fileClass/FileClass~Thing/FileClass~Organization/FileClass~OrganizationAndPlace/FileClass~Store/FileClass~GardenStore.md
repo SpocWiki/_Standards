@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~GardenStore
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/GardenStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/GardenStore
-- is_a_/GardenStore
-- schema-org/GardenStore
+  - class/GardenStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/GardenStore
+  - is_a_/GardenStore
+  - schema-org/GardenStore
 tags:
-- class/FileClass
-- class/GardenStore
-- is_a_/GardenStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/GardenStore
+  - class/FileClass
+  - class/GardenStore
+  - is_a_/GardenStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/GardenStore
 version: 2.0
 ---
 

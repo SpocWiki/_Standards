@@ -5,37 +5,38 @@ aliases:
   - Rocco Marchegiano
   - Marciano
   - Rocky Marciano
+  - Marciano,Rocky
 has_id_wikidata: Q188362
 sports_discipline_competed_in:
-  - "[[_Standards/WikiData/WD~heavyweight,281678]]"
-  - "[[_Standards/WikiData/WD~boxing,32112]]"
-cause_of_death: "[[_Standards/WikiData/WD~aviation_accident,744913]]"
+  - '[[_Standards/WikiData/WD~heavyweight,281678]]'
+  - '[[_Standards/WikiData/WD~boxing,32112]]'
+cause_of_death: '[[_Standards/WikiData/WD~aviation_accident,744913]]'
 award_received:
-  - "[[_Standards/WikiData/WD~The_Ring_magazine_Fight_of_the_Year,864793]]"
-  - "[[_Standards/WikiData/WD~The_Ring_magazine_Fighter_of_the_Year,929175]]"
-place_of_death: "[[_Standards/WikiData/WD~Newton,1657507]]"
-given_name: "[[_Standards/WikiData/WD~Rocky,3939822]]"
-educated_at: "[[_Standards/WikiData/WD~Brockton_High_School,4972871]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-different_from: "[[_Standards/WikiData/WD~Roc_Marciano,7353659]]"
-occupation: "[[_Standards/WikiData/WD~boxer,11338576]]"
-manner_of_death: "[[_Standards/WikiData/WD~accidental_death,21142718]]"
-family_name: "[[_Standards/WikiData/WD~Marciano,21507538]]"
-place_of_burial: "[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Gardens_Central,89281655]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-sport: "[[_Standards/WikiData/WD~boxing,32112]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_for_sport: "[[_Standards/WikiData/WD~United_States,30]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_birth: "[[_Standards/WikiData/WD~Brockton,49193]]"
+  - '[[_Standards/WikiData/WD~The_Ring_magazine_Fight_of_the_Year,864793]]'
+  - '[[_Standards/WikiData/WD~The_Ring_magazine_Fighter_of_the_Year,929175]]'
+place_of_death: '[[_Standards/WikiData/WD~Newton,1657507]]'
+given_name: '[[_Standards/WikiData/WD~Rocky,3939822]]'
+educated_at: '[[_Standards/WikiData/WD~Brockton_High_School,4972871]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+different_from: '[[_Standards/WikiData/WD~Roc_Marciano,7353659]]'
+occupation: '[[_Standards/WikiData/WD~boxer,11338576]]'
+manner_of_death: '[[_Standards/WikiData/WD~accidental_death,21142718]]'
+family_name: '[[_Standards/WikiData/WD~Marciano,21507538]]'
+place_of_burial: '[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Gardens_Central,89281655]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+sport: '[[_Standards/WikiData/WD~boxing,32112]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_for_sport: '[[_Standards/WikiData/WD~United_States,30]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_birth: '[[_Standards/WikiData/WD~Brockton,49193]]'
 height: 177.8
 date_of_death: 1969-08-31T00:00:00Z
 Commons_category: Rocky Marciano
-U_S_National_Archives_Identifier: "10586687"
+U_S_National_Archives_Identifier: 10586687
 official_website: http://www.rockymarciano.net
-ISNI: "0000000049271769"
-Munzinger_Sport_number: "01000050119"
+ISNI: 0000000049271769
+Munzinger_Sport_number: 01000050119
 name_in_native_language: Rocco Francis Marchegiano
 date_of_birth: 1923-09-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rocky%20Marciano%201953%20%282%29.jpg

@@ -1,9 +1,10 @@
 ---
-has_id_wikidata: Q80596
 aliases:
   - Arthur Asher Miller
   - Arthur Miller
   - Arthur_Miller
+  - Miller,Arthur
+has_id_wikidata: Q80596
 ---
 
 # [[Miller,Arthur]] 

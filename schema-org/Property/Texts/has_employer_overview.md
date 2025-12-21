@@ -4,22 +4,24 @@ aliases:
   - employer_overview
   - employerOverview
   - has_text_of_employer_overview
+  - has_employer_overview
+  - has employer overview
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - employer
   - overview
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_employer_overview
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

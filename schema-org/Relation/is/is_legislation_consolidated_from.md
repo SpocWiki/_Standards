@@ -4,22 +4,23 @@ aliases:
   - legislation_consolidates
   - legislationConsolidates
   - is_legislation_consolidated_from
+  - is legislation consolidated from
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - legislation
   - consolidates
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_legislation_consolidated_from
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

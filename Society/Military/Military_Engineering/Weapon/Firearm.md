@@ -1,60 +1,64 @@
 ---
-Commons_category: Guns
-connects_with: '[[_Standards/WikiData/WD~gun_mount,97384104]]'
-described_by_source:
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-Dewey_Decimal_Classification:
-- 623.442
-- 683.4
-different_from:
-- '[[_Standards/WikiData/WD~cold_weapon,222405]]'
-- '[[_Standards/WikiData/WD~pneumatic_weapon,1260928]]'
-- '[[_Standards/WikiData/WD~explosive_device,3054261]]'
-- '[[_Standards/WikiData/WD~draft_weapon,30750835]]'
-- '[[_Standards/WikiData/WD~gun,110155210]]'
-exact_match:
-- "http://wordnet-rdf.princeton.edu/wn30/03467984-n"
-- "http://wordnet-rdf.princeton.edu/wn31/103444276-n"
-follows: '[[_Standards/WikiData/WD~early_thermal_weapons,2609860]]'
-hashtag:
-- firearms
-- GunOfTheDay
-- Guns
+aliases:
+  - Firearm
 has_id_wikidata: Q12796
+Commons_category: Guns
+connects_with: "[[_Standards/WikiData/WD~gun_mount,97384104]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+Dewey_Decimal_Classification:
+  - 623.442
+  - 683.4
+different_from:
+  - "[[_Standards/WikiData/WD~cold_weapon,222405]]"
+  - "[[_Standards/WikiData/WD~pneumatic_weapon,1260928]]"
+  - "[[_Standards/WikiData/WD~explosive_device,3054261]]"
+  - "[[_Standards/WikiData/WD~draft_weapon,30750835]]"
+  - "[[_Standards/WikiData/WD~gun,110155210]]"
+exact_match:
+  - http://wordnet-rdf.princeton.edu/wn30/03467984-n
+  - http://wordnet-rdf.princeton.edu/wn31/103444276-n
+follows: "[[_Standards/WikiData/WD~early_thermal_weapons,2609860]]"
+hashtag:
+  - firearms
+  - GunOfTheDay
+  - Guns
 has_part_s_:
-- '[[_Standards/WikiData/WD~gun_barrel,487192]]'
-- '[[_Standards/WikiData/WD~sight,1134322]]'
-- '[[_Standards/WikiData/WD~receiver,11741880]]'
-- '[[_Standards/WikiData/WD~firearm_component,107184001]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~military_equipment,18643213]]'
+  - "[[_Standards/WikiData/WD~gun_barrel,487192]]"
+  - "[[_Standards/WikiData/WD~sight,1134322]]"
+  - "[[_Standards/WikiData/WD~receiver,11741880]]"
+  - "[[_Standards/WikiData/WD~firearm_component,107184001]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~military_equipment,18643213]]"
 Iconclass_notation: 45C16
 image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Gun%20from%20upper%20west%20region.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Small%20arms%20compilation.jpg"
-instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Gun%20from%20upper%20west%20region.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Small%20arms%20compilation.jpg
+instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
 MeSH_tree_code: J01.637.870.350
 properties_for_this_type:
-- ammunition
-- caliber
+  - ammunition
+  - caliber
 subclass_of:
-- '[[_Standards/WikiData/WD~projectile_weapon,1194773]]'
-- '[[_Standards/WikiData/WD~gun,110155210]]'
+  - "[[_Standards/WikiData/WD~projectile_weapon,1194773]]"
+  - "[[_Standards/WikiData/WD~gun,110155210]]"
 subreddit:
-- Firearms
-- guns
+  - Firearms
+  - guns
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_firearm,15966569]]'
-- '[[_Standards/WikiData/WD~Template_Firearms,117351333]]'
-Unicode_character: "\U0001F52B"
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+  - "[[_Standards/WikiData/WD~Template_Infobox_firearm,15966569]]"
+  - "[[_Standards/WikiData/WD~Template_Firearms,117351333]]"
+Unicode_character: 🔫
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 uses:
-- '[[_Standards/WikiData/WD~combustion,133235]]'
-- '[[_Standards/WikiData/WD~projectile,49393]]'
+  - "[[_Standards/WikiData/WD~combustion,133235]]"
+  - "[[_Standards/WikiData/WD~projectile,49393]]"
 ---
+
+# [[Firearm]] 🔫 
 
 ## #has_/text_of_/abstract 
 

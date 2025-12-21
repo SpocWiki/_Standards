@@ -4,20 +4,22 @@ aliases:
   - monetary_grant
   - MonetaryGrant
   - is_a_monetary_grant
+  - Monetary_Grant
+  - Monetary Grant
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - monetary_grant
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_monetary_grant Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

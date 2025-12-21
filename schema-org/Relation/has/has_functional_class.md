@@ -3,23 +3,24 @@ aliases:
   - has functional-class
   - functionalClass
   - has_functional_class
+  - has functional class
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - functional
   - class
   - functional_class
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_functional_class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

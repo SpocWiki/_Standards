@@ -3,23 +3,24 @@ aliases:
   - has nerve-motor
   - nerveMotor
   - has_nerve_motor
+  - has nerve motor
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - nerve_motor
   - nerve
   - motor
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_nerve_motor
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

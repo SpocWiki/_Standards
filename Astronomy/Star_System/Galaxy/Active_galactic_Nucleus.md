@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Active_galactic_Nucleus
+  - Active galactic Nucleus
 has_id_wikidata: Q46587
 ---
 

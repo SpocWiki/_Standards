@@ -4,115 +4,116 @@ aliases:
   - Ernest Miller Hemingway
   - Ernest Hemingway
   - Hemingway
+  - Hemingway,Ernest
 has_id_wikidata: Q23434
 genre:
-  - "[[_Standards/WikiData/WD~memoir,112983]]"
-  - "[[_Standards/WikiData/WD~opinion_journalism,156035]]"
-  - "[[_Standards/WikiData/WD~prose,676]]"
+  - '[[_Standards/WikiData/WD~memoir,112983]]'
+  - '[[_Standards/WikiData/WD~opinion_journalism,156035]]'
+  - '[[_Standards/WikiData/WD~prose,676]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Martha_Gellhorn,120085]]"
-  - "[[_Standards/WikiData/WD~Mary_Welsh_Hemingway,3296265]]"
-  - "[[_Standards/WikiData/WD~Hadley_Richardson,5637985]]"
-  - "[[_Standards/WikiData/WD~Pauline_Pfeiffer,7155075]]"
+  - '[[_Standards/WikiData/WD~Martha_Gellhorn,120085]]'
+  - '[[_Standards/WikiData/WD~Mary_Welsh_Hemingway,3296265]]'
+  - '[[_Standards/WikiData/WD~Hadley_Richardson,5637985]]'
+  - '[[_Standards/WikiData/WD~Pauline_Pfeiffer,7155075]]'
 occupation:
-  - "[[_Standards/WikiData/WD~war_correspondent,164236]]"
-  - "[[_Standards/WikiData/WD~playwright,214917]]"
-  - "[[_Standards/WikiData/WD~journalist,1930187]]"
-  - "[[_Standards/WikiData/WD~novelist,6625963]]"
-  - "[[_Standards/WikiData/WD~prose_writer,12144794]]"
-  - "[[_Standards/WikiData/WD~short_story_writer,15949613]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~reporter,42909]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+  - '[[_Standards/WikiData/WD~war_correspondent,164236]]'
+  - '[[_Standards/WikiData/WD~playwright,214917]]'
+  - '[[_Standards/WikiData/WD~journalist,1930187]]'
+  - '[[_Standards/WikiData/WD~novelist,6625963]]'
+  - '[[_Standards/WikiData/WD~prose_writer,12144794]]'
+  - '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~reporter,42909]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~A_Farewell_to_Arms,235795]]"
-  - "[[_Standards/WikiData/WD~The_Sun_Also_Rises,501351]]"
-  - "[[_Standards/WikiData/WD~The_Short_Happy_Life_of_Francis_Macomber,1171416]]"
-  - "[[_Standards/WikiData/WD~Hills_Like_White_Elephants,3363263]]"
-  - "[[_Standards/WikiData/WD~The_Snows_of_Kilimanjaro,15587387]]"
-  - "[[_Standards/WikiData/WD~The_Old_Man_and_the_Sea,26505]]"
-work_locations: "[[_Standards/WikiData/WD~Alassio,270482]]"
+  - '[[_Standards/WikiData/WD~A_Farewell_to_Arms,235795]]'
+  - '[[_Standards/WikiData/WD~The_Sun_Also_Rises,501351]]'
+  - '[[_Standards/WikiData/WD~The_Short_Happy_Life_of_Francis_Macomber,1171416]]'
+  - '[[_Standards/WikiData/WD~Hills_Like_White_Elephants,3363263]]'
+  - '[[_Standards/WikiData/WD~The_Snows_of_Kilimanjaro,15587387]]'
+  - '[[_Standards/WikiData/WD~The_Old_Man_and_the_Sea,26505]]'
+work_locations: '[[_Standards/WikiData/WD~Alassio,270482]]'
 residence:
-  - "[[_Standards/WikiData/WD~Ernest_Hemingway_House,280171]]"
-  - "[[_Standards/WikiData/WD~Key_West,485186]]"
-  - "[[_Standards/WikiData/WD~Ketchum,1519069]]"
-  - "[[_Standards/WikiData/WD~Paris,90]]"
-place_of_birth: "[[_Standards/WikiData/WD~Oak_Park,331397]]"
-field_of_work: "[[_Standards/WikiData/WD~roman_à_clef,512207]]"
+  - '[[_Standards/WikiData/WD~Ernest_Hemingway_House,280171]]'
+  - '[[_Standards/WikiData/WD~Key_West,485186]]'
+  - '[[_Standards/WikiData/WD~Ketchum,1519069]]'
+  - '[[_Standards/WikiData/WD~Paris,90]]'
+place_of_birth: '[[_Standards/WikiData/WD~Oak_Park,331397]]'
+field_of_work: '[[_Standards/WikiData/WD~roman_à_clef,512207]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Ernest,595105]]"
-  - "[[_Standards/WikiData/WD~Miller,19813043]]"
+  - '[[_Standards/WikiData/WD~Ernest,595105]]'
+  - '[[_Standards/WikiData/WD~Miller,19813043]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Leicester_Hemingway,648091]]"
-  - "[[_Standards/WikiData/WD~Marcelline_Hemingway_Sanford,42529479]]"
-  - "[[_Standards/WikiData/WD~Madelaine_Hemingway_Miller,64015059]]"
-  - "[[_Standards/WikiData/WD~Carol_Hemingway,122375934]]"
-  - "[[_Standards/WikiData/WD~Ursula_Hemingway,122375969]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]"
+  - '[[_Standards/WikiData/WD~Leicester_Hemingway,648091]]'
+  - '[[_Standards/WikiData/WD~Marcelline_Hemingway_Sanford,42529479]]'
+  - '[[_Standards/WikiData/WD~Madelaine_Hemingway_Miller,64015059]]'
+  - '[[_Standards/WikiData/WD~Carol_Hemingway,122375934]]'
+  - '[[_Standards/WikiData/WD~Ursula_Hemingway,122375969]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]"
-  - "[[_Standards/WikiData/WD~Princeton_University_Library,3297681]]"
-  - "[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]"
-  - "[[_Standards/WikiData/WD~University_of_Maryland_Libraries,7895690]]"
-  - "[[_Standards/WikiData/WD~Eberly_Family_Special_Collections_Library,59536944]]"
+  - '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
+  - '[[_Standards/WikiData/WD~Princeton_University_Library,3297681]]'
+  - '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
+  - '[[_Standards/WikiData/WD~University_of_Maryland_Libraries,7895690]]'
+  - '[[_Standards/WikiData/WD~Eberly_Family_Special_Collections_Library,59536944]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Pulitzer_Prize_for_Fiction,833633]]"
-  - "[[_Standards/WikiData/WD~Medal_of_Military_Valour,850170]]"
-  - "[[_Standards/WikiData/WD~Bronze_Star_Medal,928314]]"
-  - "[[_Standards/WikiData/WD~Commemorative_Medal_for_the_Italo_Austrian_War_1915_1918,1142801]]"
-  - "[[_Standards/WikiData/WD~National_Order_of_Merit_Carlos_Manuel_de_Céspedes,4335886]]"
-  - "[[_Standards/WikiData/WD~Florida_Artists_Hall_of_Fame,5461189]]"
-  - "[[_Standards/WikiData/WD~Bancarella_Literary_Prize,135653327]]"
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
-place_of_death: "[[_Standards/WikiData/WD~Ketchum,1519069]]"
-cause_of_death: "[[_Standards/WikiData/WD~gunshot_wound,2140674]]"
+  - '[[_Standards/WikiData/WD~Pulitzer_Prize_for_Fiction,833633]]'
+  - '[[_Standards/WikiData/WD~Medal_of_Military_Valour,850170]]'
+  - '[[_Standards/WikiData/WD~Bronze_Star_Medal,928314]]'
+  - '[[_Standards/WikiData/WD~Commemorative_Medal_for_the_Italo_Austrian_War_1915_1918,1142801]]'
+  - '[[_Standards/WikiData/WD~National_Order_of_Merit_Carlos_Manuel_de_Céspedes,4335886]]'
+  - '[[_Standards/WikiData/WD~Florida_Artists_Hall_of_Fame,5461189]]'
+  - '[[_Standards/WikiData/WD~Bancarella_Literary_Prize,135653327]]'
+  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
+place_of_death: '[[_Standards/WikiData/WD~Ketchum,1519069]]'
+cause_of_death: '[[_Standards/WikiData/WD~gunshot_wound,2140674]]'
 medical_condition:
-  - "[[_Standards/WikiData/WD~hereditary_haemochromatosis,3144934]]"
-  - "[[_Standards/WikiData/WD~alcoholism,15326]]"
-list_of_works: "[[_Standards/WikiData/WD~Ernest_Hemingway_bibliography,3527970]]"
+  - '[[_Standards/WikiData/WD~hereditary_haemochromatosis,3144934]]'
+  - '[[_Standards/WikiData/WD~alcoholism,15326]]'
+list_of_works: '[[_Standards/WikiData/WD~Ernest_Hemingway_bibliography,3527970]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Mario_Berrino,3848330]]"
-  - "[[_Standards/WikiData/WD~Robert_Louis_Stevenson,1512]]"
+  - '[[_Standards/WikiData/WD~Mario_Berrino,3848330]]'
+  - '[[_Standards/WikiData/WD~Robert_Louis_Stevenson,1512]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
 child:
-  - "[[_Standards/WikiData/WD~Gloria_Hemingway,5606963]]"
-  - "[[_Standards/WikiData/WD~Patrick_Hemingway,7146692]]"
-  - "[[_Standards/WikiData/WD~Jack_Hemingway,11523469]]"
+  - '[[_Standards/WikiData/WD~Gloria_Hemingway,5606963]]'
+  - '[[_Standards/WikiData/WD~Patrick_Hemingway,7146692]]'
+  - '[[_Standards/WikiData/WD~Jack_Hemingway,11523469]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~James_F._Byrnes_High_School,6133604]]"
-  - "[[_Standards/WikiData/WD~Oak_Park_and_River_Forest_High_School,7073679]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Ernest_Hemingway,12015733]]"
-family_name: "[[_Standards/WikiData/WD~Hemingway,16870685]]"
-mother: "[[_Standards/WikiData/WD~Grace_Hall_Hemingway,19841648]]"
-father: "[[_Standards/WikiData/WD~Clarence_Hemingway,19887453]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-copyright_representative: "[[_Standards/WikiData/WD~reproduction_right_not_represented_by_CISAC_member,71521142]]"
+  - '[[_Standards/WikiData/WD~James_F._Byrnes_High_School,6133604]]'
+  - '[[_Standards/WikiData/WD~Oak_Park_and_River_Forest_High_School,7073679]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Ernest_Hemingway,12015733]]'
+family_name: '[[_Standards/WikiData/WD~Hemingway,16870685]]'
+mother: '[[_Standards/WikiData/WD~Grace_Hall_Hemingway,19841648]]'
+father: '[[_Standards/WikiData/WD~Clarence_Hemingway,19887453]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+copyright_representative: '[[_Standards/WikiData/WD~reproduction_right_not_represented_by_CISAC_member,71521142]]'
 copyright_status_as_a_creator:
-  - "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-  - "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-  - "[[_Standards/WikiData/WD~part_of_the_copyrights_on_oeuvre_has_expired,75700125]]"
+  - '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+  - '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+  - '[[_Standards/WikiData/WD~part_of_the_copyrights_on_oeuvre_has_expired,75700125]]'
 date_of_birth: 1899-07-21T00:00:00Z
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Harry_Ransom_Center,105936481]]"
-place_of_burial: "[[_Standards/WikiData/WD~Ketchum_Cemetery,117611676]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Harry_Ransom_Center,105936481]]'
+place_of_burial: '[[_Standards/WikiData/WD~Ketchum_Cemetery,117611676]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-manner_of_death: "[[_Standards/WikiData/WD~suicide,10737]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
+  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+manner_of_death: '[[_Standards/WikiData/WD~suicide,10737]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
 Commons_Creator_page: Ernest Hemingway
 Commons_category: Ernest Hemingway
 Commons_gallery: Ernest Hemingway
-ISNI: "0000000121445832"
+ISNI: 0000000121445832
 BHCL_UUID: 442e742a-d2e8-4eb7-8175-8c629ed17472
 nickname: Papa
 date_of_death: 1961-07-02T00:00:00Z
@@ -121,8 +122,8 @@ short_name: Ernest Hemingway
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20Hemingway%20Signature.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ErnestHemingway.jpg
 described_at_URL: https://librarycatalog.usj.edu.lb/cgi-bin/koha/opac-authoritiesdetail.pl?authid=174744
-NLC_authorities: "000145660"
-U_S_National_Archives_Identifier: "10679516"
+NLC_authorities: 000145660
+U_S_National_Archives_Identifier: 10679516
 Plex_person_key: 5d7768dafb0d55001f51ac96
 Libris_URI: 97mpqf2t3vr5r3g
 CYT_CCS:

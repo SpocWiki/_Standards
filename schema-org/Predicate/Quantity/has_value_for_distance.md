@@ -4,20 +4,22 @@ aliases:
   - distance
   - Distance
   - is_a_distance
+  - has_value_for_distance
+  - has value for distance
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - distance
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_distance Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

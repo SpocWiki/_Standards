@@ -2,23 +2,24 @@
 aliases:
   - Steinmetz
   - Mason
+  - Masonry
 has_id_wikidata: Q272999
 subclass_of:
-  - "[[_Standards/WikiData/WD~architectural_engineering,150737]]"
-  - "[[_Standards/WikiData/WD~craft_production,117940021]]"
-practiced_by: "[[_Standards/WikiData/WD~bricklayer,327321]]"
+  - '[[_Standards/WikiData/WD~architectural_engineering,150737]]'
+  - '[[_Standards/WikiData/WD~craft_production,117940021]]'
+practiced_by: '[[_Standards/WikiData/WD~bricklayer,327321]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~activity,1914636]]"
-  - "[[_Standards/WikiData/WD~architectural_technology,4787070]]"
+  - '[[_Standards/WikiData/WD~activity,1914636]]'
+  - '[[_Standards/WikiData/WD~architectural_technology,4787070]]'
 different_from:
-  - "[[_Standards/WikiData/WD~brickwork,18087969]]"
-  - "[[_Standards/WikiData/WD~freemasonry,41726]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~Q124883305,124883305]]"
-OmegaWiki_Defined_Meaning: "4224"
+  - '[[_Standards/WikiData/WD~brickwork,18087969]]'
+  - '[[_Standards/WikiData/WD~freemasonry,41726]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~Q124883305,124883305]]'
+OmegaWiki_Defined_Meaning: 4224
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bricklayer%20J4.jpg
 Krugosvet_article_archived_: energetika-i-stroitelstvo/kamennaya-kladka
 Commons_category: Masonry (craft)

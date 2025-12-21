@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Table
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Table
-- class/Thing/CreativeWork/WebPageElement/Table
-- is_a_/Table
-- schema-org/Table
+  - class/Table
+  - class/Thing/CreativeWork/WebPageElement/Table
+  - is_a_/Table
+  - schema-org/Table
 tags:
-- class/FileClass
-- class/Table
-- is_a_/Table
-- class/Thing/CreativeWork/WebPageElement/Table
+  - class/FileClass
+  - class/Table
+  - is_a_/Table
+  - class/Thing/CreativeWork/WebPageElement/Table
 version: 2.0
 ---
 

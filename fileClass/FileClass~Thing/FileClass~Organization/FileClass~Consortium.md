@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Consortium
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Consortium
-- class/Thing/Organization/Consortium
-- is_a_/Consortium
-- schema-org/Consortium
+  - class/Consortium
+  - class/Thing/Organization/Consortium
+  - is_a_/Consortium
+  - schema-org/Consortium
 tags:
-- class/FileClass
-- class/Consortium
-- is_a_/Consortium
-- class/Thing/Organization/Consortium
+  - class/FileClass
+  - class/Consortium
+  - is_a_/Consortium
+  - class/Thing/Organization/Consortium
 version: 2.0
 ---
 

@@ -5,23 +5,23 @@ aliases:
   - Organisation des Nations unies pour le développement industriel
   - United_Nations_Industrial_Development_Organization
 has_id_wikidata: Q386120
-director_manager: "[[_Standards/WikiData/WD~Gerd_Müller,85516]]"
+director_manager: '[[_Standards/WikiData/WD~Gerd_Müller,85516]]'
 partnership_with:
-  - "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
-  - "[[_Standards/WikiData/WD~Asian_African_Legal_Consultative_Organization,333536]]"
-  - "[[_Standards/WikiData/WD~Micro_Hydro_Power_Station,_Ghana,103926925]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~United_Nations_Economic_and_Social_Council,170075]]"
+  - '[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]'
+  - '[[_Standards/WikiData/WD~Asian_African_Legal_Consultative_Organization,333536]]'
+  - '[[_Standards/WikiData/WD~Micro_Hydro_Power_Station,_Ghana,103926925]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~United_Nations_Economic_and_Social_Council,170075]]'
 official_observer_status_in_organization:
-  - "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
-  - "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
-  - "[[_Standards/WikiData/WD~International_Union_for_the_Protection_of_New_Varieties_of_Plants,690318]]"
-  - "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
+  - '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
+  - '[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]'
+  - '[[_Standards/WikiData/WD~International_Union_for_the_Protection_of_New_Varieties_of_Plants,690318]]'
+  - '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
-  - "[[_Standards/WikiData/WD~specialized_agency_of_the_United_Nations,15925165]]"
-member_of: "[[_Standards/WikiData/WD~Indian_Statistical_Institute,3105568]]"
-part_of: "[[_Standards/WikiData/WD~United_Nations,1065]]"
-headquarters_location: "[[_Standards/WikiData/WD~Vienna,1741]]"
+  - '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
+  - '[[_Standards/WikiData/WD~specialized_agency_of_the_United_Nations,15925165]]'
+member_of: '[[_Standards/WikiData/WD~Indian_Statistical_Institute,3105568]]'
+part_of: '[[_Standards/WikiData/WD~United_Nations,1065]]'
+headquarters_location: '[[_Standards/WikiData/WD~Vienna,1741]]'
 employees: 680
 social_media_followers:
   - 26800
@@ -34,10 +34,10 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/UNIDO-ISEC%20HQ%20in%2
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/UNIDO%20Logo.svg
 official_website: https://www.unido.org/
 ISNI:
-  - "0000000106405242"
-  - "0000000121646132"
-  - "0000000121935276"
-P1015: "90057977"
+  - 0000000106405242
+  - 0000000121646132
+  - 0000000121935276
+P1015: 90057977
 Libris_URI: dbqsv3wx52z7dgz
 Instagram_username: unido_newsroom
 Facebook_username: UNIDO.HQ

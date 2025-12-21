@@ -1,28 +1,29 @@
 ---
 aliases:
-- has_actor
-- "schema:actor"
-- "dbo:starring"
-- "wdt:P161"
+  - has_actor
+  - schema:actor
+  - dbo:starring
+  - wdt:P161
+  - has actor
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- actor
-layout: 
-license: "CC BY-SA 4.0"
+  - actor
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_actor
 publish: true
-publishDate: 
+publishDate: ''
 supersedes: actors
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_actor
 type: Predi_Relation
 ---

@@ -4,12 +4,14 @@ aliases:
   - post_office_box_number
   - postOfficeBoxNumber
   - has_text_of_post_office_box_number
+  - has_post_office_box_number
+  - has post office box number
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +19,11 @@ keywords:
   - office
   - box
   - number
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_post_office_box_number
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

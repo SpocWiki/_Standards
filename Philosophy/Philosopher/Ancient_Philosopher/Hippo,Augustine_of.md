@@ -2,113 +2,115 @@
 aliases:
   - Augustine of Hippo
   - Aurelius Augustinus Hipponensis
+  - Hippo,Augustine_of
+  - Hippo,Augustine of
+has_id_wikidata: Q8018
 ArhivX_LOD: 36876
-attested_in: "[[_Standards/WikiData/WD~Mare_Magnum_volume_82,118465996]]"
+attested_in: '[[_Standards/WikiData/WD~Mare_Magnum_volume_82,118465996]]'
 BHCL_UUID:
   - 274e9049-8723-401e-a9e2-e745a6ba0fe3
   - 77178260-ecc8-4150-afeb-ed6235c48675
   - f49de535-2634-432c-933b-4e6a7c515bcf
-canonization_status: "[[_Standards/WikiData/WD~saint,43115]]"
-child: "[[_Standards/WikiData/WD~Adeodatus,332942]]"
+canonization_status: '[[_Standards/WikiData/WD~saint,43115]]'
+child: '[[_Standards/WikiData/WD~Adeodatus,332942]]'
 Colon_Classification: Q6:332wD354
 Commons_category: Augustinus
 Commons_Creator_page: Augustinus
 Commons_gallery: Augustinus
-consecrator: "[[_Standards/WikiData/WD~Megalius_of_Calama,64779112]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+consecrator: '[[_Standards/WikiData/WD~Megalius_of_Calama,64779112]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_birth: 0354-11-14
 date_of_death: 0430-08-29
-depicted_by: "[[_Standards/WikiData/WD~Saint_Augustine,_Bishop_of_Hippo_(354-430)_in_Meditation,52220413]]"
+depicted_by: '[[_Standards/WikiData/WD~Saint_Augustine,_Bishop_of_Hippo_(354-430)_in_Meditation,52220413]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Church_Encyclopedia,9253865]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Church_Encyclopedia,9253865]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]"
-  - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice_(2011_ed.),21002838]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_Biblical_Criticism_and_Interpretation_(2007_ed.),21065550]]"
-  - "[[_Standards/WikiData/WD~The_Oxford_Encyclopedia_of_African_Thought,22639418]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]'
+  - '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice_(2011_ed.),21002838]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_Biblical_Criticism_and_Interpretation_(2007_ed.),21065550]]'
+  - '[[_Standards/WikiData/WD~The_Oxford_Encyclopedia_of_African_Thought,22639418]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~The_Canterbury_Dictionary_of_Hymnology,62015781]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Catholic_Social_Thought,_Social_Science,_and_Social_Policy,125025946]]"
-  - "[[_Standards/WikiData/WD~Q131401229,131401229]]"
-different_from: "[[_Standards/WikiData/WD~Pseudo-Augustine,1241114]]"
+  - '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~The_Canterbury_Dictionary_of_Hymnology,62015781]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Catholic_Social_Thought,_Social_Science,_and_Social_Policy,125025946]]'
+  - '[[_Standards/WikiData/WD~Q131401229,131401229]]'
+different_from: '[[_Standards/WikiData/WD~Pseudo-Augustine,1241114]]'
 Europeana_entity: agent/base/171259
-father: "[[_Standards/WikiData/WD~Patricius,108838549]]"
+father: '[[_Standards/WikiData/WD~Patricius,108838549]]'
 feast_day:
-  - "[[_Standards/WikiData/WD~June_15,2613]]"
-  - "[[_Standards/WikiData/WD~August_28,2817]]"
+  - '[[_Standards/WikiData/WD~June_15,2613]]'
+  - '[[_Standards/WikiData/WD~August_28,2817]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~theology,34178]]"
+  - '[[_Standards/WikiData/WD~philosophy,5891]]'
+  - '[[_Standards/WikiData/WD~theology,34178]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Augustinus,768847]]"
-  - "[[_Standards/WikiData/WD~Agostino,18645188]]"
-  - "[[_Standards/WikiData/WD~Augustyn,20087930]]"
-has_id_wikidata: Q8018
+  - '[[_Standards/WikiData/WD~Augustinus,768847]]'
+  - '[[_Standards/WikiData/WD~Agostino,18645188]]'
+  - '[[_Standards/WikiData/WD~Augustyn,20087930]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Museo_del_Prado,160112]]"
-  - "[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]"
-honorific_prefix: "[[_Standards/WikiData/WD~Doctor_of_the_Church,192499]]"
+  - '[[_Standards/WikiData/WD~Museo_del_Prado,160112]]'
+  - '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
+honorific_prefix: '[[_Standards/WikiData/WD~Doctor_of_the_Church,192499]]'
 Iconclass_notation: 11H(AUGUSTINE)
 iconographic_symbol:
-  - "[[_Standards/WikiData/WD~scale_model_of_church,53700488]]"
-  - "[[_Standards/WikiData/WD~bishop_clothing,53700513]]"
-  - "[[_Standards/WikiData/WD~book,571]]"
+  - '[[_Standards/WikiData/WD~scale_model_of_church,53700488]]'
+  - '[[_Standards/WikiData/WD~bishop_clothing,53700513]]'
+  - '[[_Standards/WikiData/WD~book,571]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Augustine%20Lateran.jpg
 Image_Archive_Herder_Institute: Q8018
-influenced_by: "[[_Standards/WikiData/WD~Ambrose,43689]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+influenced_by: '[[_Standards/WikiData/WD~Ambrose,43689]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 121376443
 Krugosvet_article: kultura_i_obrazovanie/religiya/AVGUSTIN_SV.html
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Punic,535958]]"
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Berber,25448]]"
+  - '[[_Standards/WikiData/WD~Punic,535958]]'
+  - '[[_Standards/WikiData/WD~Latin,397]]'
+  - '[[_Standards/WikiData/WD~Berber,25448]]'
 Library_of_Congress_Classification: BR1720.A9
 Libris_URI: qn244qg848hwt8d
-lifestyle: "[[_Standards/WikiData/WD~mysticism,45996]]"
-mother: "[[_Standards/WikiData/WD~Monica_of_Hippo,234689]]"
+lifestyle: '[[_Standards/WikiData/WD~mysticism,45996]]'
+mother: '[[_Standards/WikiData/WD~Monica_of_Hippo,234689]]'
 name_in_native_language: Aurelius Augustinus
 notable_work:
-  - "[[_Standards/WikiData/WD~The_City_of_God,212318]]"
-  - "[[_Standards/WikiData/WD~Confessions,372941]]"
-  - "[[_Standards/WikiData/WD~On_the_Trinity,1180413]]"
+  - '[[_Standards/WikiData/WD~The_City_of_God,212318]]'
+  - '[[_Standards/WikiData/WD~Confessions,372941]]'
+  - '[[_Standards/WikiData/WD~On_the_Trinity,1180413]]'
 occupation:
-  - "[[_Standards/WikiData/WD~historian,201788]]"
-  - "[[_Standards/WikiData/WD~Catholic_priest,250867]]"
-  - "[[_Standards/WikiData/WD~preacher,432386]]"
-  - "[[_Standards/WikiData/WD~Catholic_bishop,611644]]"
-  - "[[_Standards/WikiData/WD~titular_bishop,948657]]"
-  - "[[_Standards/WikiData/WD~theologian,1234713]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~music_theorist,16031530]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Christian_Hymns,100975219]]"
+  - '[[_Standards/WikiData/WD~historian,201788]]'
+  - '[[_Standards/WikiData/WD~Catholic_priest,250867]]'
+  - '[[_Standards/WikiData/WD~preacher,432386]]'
+  - '[[_Standards/WikiData/WD~Catholic_bishop,611644]]'
+  - '[[_Standards/WikiData/WD~titular_bishop,948657]]'
+  - '[[_Standards/WikiData/WD~theologian,1234713]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~music_theorist,16031530]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Christian_Hymns,100975219]]'
 ORCID_iD: 0000-0003-2685-9211
 PhilPapers_topic: augustine
-place_of_birth: "[[_Standards/WikiData/WD~Thagaste,1324444]]"
+place_of_birth: '[[_Standards/WikiData/WD~Thagaste,1324444]]'
 place_of_burial: "[[_Standards/WikiData/WD~San_Pietro_in_Ciel_d'Oro,2036332]]"
-place_of_death: "[[_Standards/WikiData/WD~Hippo_Regius,858024]]"
-position_held: "[[_Standards/WikiData/WD~diocesan_bishop,1144278]]"
+place_of_death: '[[_Standards/WikiData/WD~Hippo_Regius,858024]]'
+position_held: '[[_Standards/WikiData/WD~diocesan_bishop,1144278]]'
 Provenio_UUID:
   - b6deff59-4b45-4fa7-9f54-5acf70237a38
   - e05c318e-a345-4bba-beb1-4db027bad176
@@ -117,19 +119,19 @@ Regensburg_Classification:
   - CE 1800
   - DD 5150
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Manichaeism,131165]]"
-  - "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
+  - '[[_Standards/WikiData/WD~Manichaeism,131165]]'
+  - '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
 Royal_Academy_new_identifier: augustine
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Perpetua_of_Hippo,80001103]]"
-  - "[[_Standards/WikiData/WD~Navigius_of_Hippo,113558212]]"
+  - '[[_Standards/WikiData/WD~Perpetua_of_Hippo,80001103]]'
+  - '[[_Standards/WikiData/WD~Navigius_of_Hippo,113558212]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~consecration,125375]]"
-  - "[[_Standards/WikiData/WD~priestly_ordination_in_the_Roman_rite,41463697]]"
-student: "[[_Standards/WikiData/WD~Heraclius_of_Hippo,108308379]]"
+  - '[[_Standards/WikiData/WD~consecration,125375]]'
+  - '[[_Standards/WikiData/WD~priestly_ordination_in_the_Roman_rite,41463697]]'
+student: '[[_Standards/WikiData/WD~Heraclius_of_Hippo,108308379]]'
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/49853
-writing_language: "[[_Standards/WikiData/WD~Latin,397]]"
+writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 ---
 
 ## #has_/text_of_/abstract 

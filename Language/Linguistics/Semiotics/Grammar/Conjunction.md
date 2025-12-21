@@ -1,15 +1,16 @@
 ---
 aliases:
   - Konjunktion
+  - Conjunction
 has_id_wikidata: Q36484
-instance_of: "[[_Standards/WikiData/WD~part_of_speech,82042]]"
-represents: "[[_Standards/WikiData/WD~connection,230629]]"
-different_from: "[[_Standards/WikiData/WD~conjugation,474628]]"
-subclass_of: "[[_Standards/WikiData/WD~function_word,2120608]]"
+instance_of: '[[_Standards/WikiData/WD~part_of_speech,82042]]'
+represents: '[[_Standards/WikiData/WD~connection,230629]]'
+different_from: '[[_Standards/WikiData/WD~conjugation,474628]]'
+subclass_of: '[[_Standards/WikiData/WD~function_word,2120608]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-part_of: "[[_Standards/WikiData/WD~grammar,8091]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~grammar,8091]]'
 exact_match:
   - http://www.lexinfo.net/ontology/2.0/lexinfo#conjunction
   - http://www.lexinfo.net/ontology/3.0/lexinfo#conjunction

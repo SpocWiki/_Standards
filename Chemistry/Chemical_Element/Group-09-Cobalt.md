@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Group-09-Cobalt
 type: ElementGroup
 ---
 

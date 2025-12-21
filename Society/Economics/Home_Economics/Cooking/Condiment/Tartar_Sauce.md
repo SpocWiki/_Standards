@@ -3,20 +3,22 @@ aliases:
   - Tartar sauce
   - sauce tartare
   - tartare sauce
+  - Tartar_Sauce
+  - Tartar Sauce
 has_id_wikidata: Q348947
 has_part_s_:
-  - "[[_Standards/WikiData/WD~tarragon,155814]]"
-  - "[[_Standards/WikiData/WD~mayonnaise,167893]]"
-  - "[[_Standards/WikiData/WD~garden_chervil,218462]]"
-  - "[[_Standards/WikiData/WD~pickled_cucumber,1365891]]"
-  - "[[_Standards/WikiData/WD~caper,3229775]]"
-  - "[[_Standards/WikiData/WD~chives,61046162]]"
-  - "[[_Standards/WikiData/WD~parsley,25284]]"
-subclass_of: "[[_Standards/WikiData/WD~sauce,178359]]"
-country_of_origin: "[[_Standards/WikiData/WD~France,142]]"
-named_after: "[[_Standards/WikiData/WD~Tatars,35565]]"
+  - '[[_Standards/WikiData/WD~tarragon,155814]]'
+  - '[[_Standards/WikiData/WD~mayonnaise,167893]]'
+  - '[[_Standards/WikiData/WD~garden_chervil,218462]]'
+  - '[[_Standards/WikiData/WD~pickled_cucumber,1365891]]'
+  - '[[_Standards/WikiData/WD~caper,3229775]]'
+  - '[[_Standards/WikiData/WD~chives,61046162]]'
+  - '[[_Standards/WikiData/WD~parsley,25284]]'
+subclass_of: '[[_Standards/WikiData/WD~sauce,178359]]'
+country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
+named_after: '[[_Standards/WikiData/WD~Tatars,35565]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tartar%20Sauce.jpg
-Amazon_com_browse_node: "16321441"
+Amazon_com_browse_node: 16321441
 FoodEx2_code: A045N
 Wolfram_Language_entity_code: Entity["FoodType", "TartarSauce"]
 Commons_category: Tartar sauce

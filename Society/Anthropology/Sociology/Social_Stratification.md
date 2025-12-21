@@ -1,21 +1,22 @@
 ---
 aliases:
   - Social_Stratification
+  - Social Stratification
 has_id_wikidata: Q841628
 has_effect:
-  - "[[_Standards/WikiData/WD~social_stratum,149211]]"
-  - "[[_Standards/WikiData/WD~social_class,187588]]"
-  - "[[_Standards/WikiData/WD~social_hierarchy,4430235]]"
-part_of: "[[_Standards/WikiData/WD~social_structure,211606]]"
-uses: "[[_Standards/WikiData/WD~demographics,2725376]]"
+  - '[[_Standards/WikiData/WD~social_stratum,149211]]'
+  - '[[_Standards/WikiData/WD~social_class,187588]]'
+  - '[[_Standards/WikiData/WD~social_hierarchy,4430235]]'
+part_of: '[[_Standards/WikiData/WD~social_structure,211606]]'
+uses: '[[_Standards/WikiData/WD~demographics,2725376]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~social_hierarchy,4430235]]"
-  - "[[_Standards/WikiData/WD~Q25523410,25523410]]"
-instance_of: "[[_Standards/WikiData/WD~sociological_concept,33104129]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+  - '[[_Standards/WikiData/WD~social_hierarchy,4430235]]'
+  - '[[_Standards/WikiData/WD~Q25523410,25523410]]'
+instance_of: '[[_Standards/WikiData/WD~sociological_concept,33104129]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 Library_of_Congress_Classification: HM821-HM821.17
 Dewey_Decimal_Classification:
-  - "305.5"
+  - 305.5
   - 1--0862
 ---
 

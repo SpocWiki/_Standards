@@ -4,21 +4,22 @@ aliases:
   - prescribing_by_mail
   - offersPrescriptionByMail
   - is_prescribing_by_mail
+  - is prescribing by mail
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - prescribing_by_mail
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_prescribing_by_mail
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

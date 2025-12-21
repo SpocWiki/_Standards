@@ -3,6 +3,7 @@ aliases:
   - David Wark Griffith
   - D. W. Griffith
   - Griffith
+  - D.W.Griffith
 has_id_wikidata: Q51123
 ---
 

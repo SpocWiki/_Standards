@@ -1,6 +1,7 @@
 ---
 aliases:
   - Yemen
+  - Yemen~Republic
 has_id_wikidata: Q805
 location:
   - 14.06

@@ -4,20 +4,22 @@ aliases:
   - theater_group
   - TheaterGroup
   - is_a_theater_group
+  - Theater_Group
+  - Theater Group
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - theater_group
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_theater_group Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

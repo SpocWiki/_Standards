@@ -3,13 +3,15 @@ aliases:
   - operational amplifier
   - op amp
   - opamp
+  - Operational_Amplifier
+  - Operational Amplifier
 has_id_wikidata: Q178947
 subclass_of:
-  - "[[_Standards/WikiData/WD~integrated_circuit,80831]]"
-  - "[[_Standards/WikiData/WD~electronic_amplifier,211554]]"
+  - '[[_Standards/WikiData/WD~integrated_circuit,80831]]'
+  - '[[_Standards/WikiData/WD~electronic_amplifier,211554]]'
 different_from:
-  - "[[_Standards/WikiData/WD~electronic_amplifier,211554]]"
-  - "[[_Standards/WikiData/WD~amplifier,27094]]"
+  - '[[_Standards/WikiData/WD~electronic_amplifier,211554]]'
+  - '[[_Standards/WikiData/WD~amplifier,27094]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ua741%20opamp.jpg
 Stack_Exchange_tag: https://electronics.stackexchange.com/tags/op-amp
 Commons_category: Operational amplifiers

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ListenAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ListenAction
-- class/Thing/Action/ConsumeAction/ListenAction
-- is_a_/ListenAction
-- schema-org/ListenAction
+  - class/ListenAction
+  - class/Thing/Action/ConsumeAction/ListenAction
+  - is_a_/ListenAction
+  - schema-org/ListenAction
 tags:
-- class/FileClass
-- class/ListenAction
-- is_a_/ListenAction
-- class/Thing/Action/ConsumeAction/ListenAction
+  - class/FileClass
+  - class/ListenAction
+  - is_a_/ListenAction
+  - class/Thing/Action/ConsumeAction/ListenAction
 version: 2.0
 ---
 

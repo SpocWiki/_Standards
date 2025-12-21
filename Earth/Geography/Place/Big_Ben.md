@@ -8,6 +8,7 @@ aliases:
   - The St. Stephen's Tower
   - Saint Stephen Tower
   - Tower of Big Ben
+  - Big_Ben
 has_id_wikidata: Q41225
 ---
 

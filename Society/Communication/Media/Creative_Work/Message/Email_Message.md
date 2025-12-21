@@ -4,20 +4,22 @@ aliases:
   - email_message
   - EmailMessage
   - is_an_email_message
+  - Email_Message
+  - Email Message
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - email_message
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_email_message Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

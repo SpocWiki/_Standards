@@ -4,20 +4,22 @@ aliases:
   - check_action
   - CheckAction
   - is_a_check_action
+  - Check_Action
+  - Check Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - check_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_check_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

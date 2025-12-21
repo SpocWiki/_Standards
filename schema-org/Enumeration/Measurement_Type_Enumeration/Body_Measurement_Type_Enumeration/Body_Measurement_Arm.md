@@ -4,21 +4,23 @@ aliases:
   - body_measurement_arm
   - BodyMeasurementArm
   - is_a_body_measurement_arm
+  - Body_Measurement_Arm
+  - Body Measurement Arm
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: BodyMeasurementTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - body_measurement_arm
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_body_measurement_arm Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

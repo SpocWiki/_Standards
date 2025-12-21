@@ -3,14 +3,15 @@ aliases:
   - Shaivismus
   - शैवसंप्रदायः
   - Śaivasampradāyaḥ
+  - Shaivism
 has_id_wikidata: Q234953
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-instance_of: "[[_Standards/WikiData/WD~Hindu_denomination,1318257]]"
-part_of: "[[_Standards/WikiData/WD~Hinduism,9089]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+instance_of: '[[_Standards/WikiData/WD~Hindu_denomination,1318257]]'
+part_of: '[[_Standards/WikiData/WD~Hinduism,9089]]'
 Colon_Classification: Q23
-Universal_Decimal_Classification: "233.3"
+Universal_Decimal_Classification: 233.3
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20havan%20ceremony%20on%20the%20banks%20of%20Ganges%2C%20Muni%20ki%20Reti%2C%20Rishikesh.jpg
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Development%20of%20Shaivism.svg

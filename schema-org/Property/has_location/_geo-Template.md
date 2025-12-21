@@ -1,28 +1,30 @@
 ---
 aliases:
-  - "{ label-dash: }":
-  - "{ label_snail: }":
-  - "{ label: }":
+  - '{ label-dash: }': ''
+  - '{ label_snail: }': ''
+  - '{ label: }': ''
   - has_location_{{label_snail}}
+  - _geo-Template
+  - ' geo-Template'
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - "{ label_snail: }":
-layout:
+  - '{ label_snail: }': ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_{{label_snail}}
 publish: true
-publishDate:
+publishDate: ''
 superseded_by:
-  "{ supersededBy: }":
+  '{ supersededBy: }': ''
 supersedes:
-  "{ supersedes: }":
+  '{ supersedes: }': ''
 tags:
   - class/Property
   - schema-org/Property/geo

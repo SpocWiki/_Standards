@@ -2,14 +2,15 @@
 aliases:
   - Pyramide
   - Pyramiden
+  - Pyramid
 has_id_wikidata: Q12516
 Commons_category: Pyramids
 Commons_gallery: Pyramid
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-different_from: "[[_Standards/WikiData/WD~Piramida,105574]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+different_from: '[[_Standards/WikiData/WD~Piramida,105574]]'
 equivalent_class: http://dbpedia.org/ontology/Pyramid
 GeoNames_feature_code:
   - S.PYR
@@ -17,14 +18,14 @@ GeoNames_feature_code:
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Pyramid%20at%20Jebel%20Barkal.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Pyramid%20of%20Giza%20-%20Pyramid%20of%20Khufu.jpg
-instance_of: "[[_Standards/WikiData/WD~type_of_structure,111972893]]"
+instance_of: '[[_Standards/WikiData/WD~type_of_structure,111972893]]'
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/PIRAMIDI.html
 name: ꠙꠤꠞꠣꠝꠤꠒ
 OmegaWiki_Defined_Meaning: 361006
 OpenStreetMap_tag_or_key: Tag:tomb=pyramid
-shape: "[[_Standards/WikiData/WD~pyramid,3358290]]"
-subclass_of: "[[_Standards/WikiData/WD~building,41176]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_pyramid,13361861]]"
+shape: '[[_Standards/WikiData/WD~pyramid,3358290]]'
+subclass_of: '[[_Standards/WikiData/WD~building,41176]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_pyramid,13361861]]'
 ---
 
 #is_/similar_to :: [[../../../../../../Mathematics/Geometry/Geometry-3D/Polyhedron/Pyramid(Geometry)|Pyramid(Geometry)]] 

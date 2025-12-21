@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Group-10-Nickel
 type: ElementGroup
 ---
 

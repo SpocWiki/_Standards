@@ -2,16 +2,18 @@
 aliases:
   - Chemical kinetics
   - reaction kinetics
+  - Chemical_Kinetics
+  - Chemical Kinetics
 has_id_wikidata: Q209082
-instance_of: "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
-subclass_of: "[[_Standards/WikiData/WD~physical_chemistry,11372]]"
-OmegaWiki_Defined_Meaning: "3112"
+instance_of: '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
+subclass_of: '[[_Standards/WikiData/WD~physical_chemistry,11372]]'
+OmegaWiki_Defined_Meaning: 3112
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Activation%20energy.svg
 Dewey_Decimal_Classification:
-  - "541.394"
-  - "547.214"
-  - "572.44"
-P8189: "987007285072205171"
+  - 541.394
+  - 547.214
+  - 572.44
+P8189: 987007285072205171
 Commons_category: Chemical kinetics
 GitHub_topic: chemical-kinetics
 Krugosvet_article: nauka_i_tehnika/himiya/HIMICHESKAYA_KINETIKA.html

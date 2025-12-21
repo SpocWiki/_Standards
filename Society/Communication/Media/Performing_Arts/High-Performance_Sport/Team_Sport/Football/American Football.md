@@ -21,7 +21,7 @@ duration:
   - 60
   - 48
 maximum_number_of_players: 22
-IAB_code: "484"
+IAB_code: 484
 short_name:
   - American football
   - football americano
@@ -30,7 +30,7 @@ Commons_gallery: American football
 Commons_category: American football
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/American%20football%20pictogram.svg
 Unicode_character: 🏈
-Dewey_Decimal_Classification: "796.332"
+Dewey_Decimal_Classification: 796.332
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2004%20Northeastern-Navy%20Game%20Quintin%20Mitchell.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/American%20Football%20Gameplay%20Banner.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-American%20Football-article.ogg
@@ -42,7 +42,7 @@ OpenStreetMap_tag: sport=american_football
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Oregon%20vs.%20Washington%20St%20-%20FOX%20COLLEGE%20FOOTBALL%20HIGHLIGHTS.webm
 ---
 
-# [[American Football]] 
+# [[American Football]] 🏈 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~American_football,41323|WD~American_football,41323]] 
 

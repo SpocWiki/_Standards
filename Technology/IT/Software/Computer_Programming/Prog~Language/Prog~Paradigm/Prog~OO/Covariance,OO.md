@@ -1,8 +1,9 @@
 ---
 aliases:
-- covariant
-- co-variant
-- out-Parameter
+  - covariant
+  - co-variant
+  - out-Parameter
+  - Covariance,OO
 ---
 
 #is_/part_of :: [[Variance,OO]] 

@@ -3,12 +3,13 @@ aliases:
   - has menu-add-on
   - menuAddOn
   - has_menu_add_on
+  - has menu add on
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - menu
   - add
   - on
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_menu_add_on
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

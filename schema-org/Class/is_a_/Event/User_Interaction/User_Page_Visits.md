@@ -4,20 +4,22 @@ aliases:
   - user_page_visits
   - UserPageVisits
   - is_a_user_page_visits
+  - User_Page_Visits
+  - User Page Visits
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - user_page_visits
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_user_page_visits Class
 publish: true
-publishDate:
+publishDate: ''
 superseded_by: InteractionCounter
 tags:
   - class/Class

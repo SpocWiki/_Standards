@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Amazon_Rainforest
+  - Amazon Rainforest
 has_id_wikidata: Q177567
 ---
 

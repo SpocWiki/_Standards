@@ -33,12 +33,12 @@ carbon_footprint: 0.7
 water_footprint:
   - 608
   - 2433
-OmegaWiki_Defined_Meaning: "393668"
+OmegaWiki_Defined_Meaning: 393668
 USDA_NDB_number:
-  - "09131"
-  - "09132"
+  - 9131
+  - 9132
 Commons_category: Grapes
-UNSPSC_Code: "50101906"
+UNSPSC_Code: 50101906
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wine%20grapes03.jpg
 Iconclass_notation: 47I4223
 sectional_view: http://commons.wikimedia.org/wiki/Special:FilePath/Grape%20slice.jpg
@@ -52,22 +52,24 @@ schematic:
 equivalent_class: http://dbpedia.org/ontology/Grape
 Unicode_character: 🍇
 Amazon_com_browse_node:
-  - "2255595011"
-  - "6464957011"
+  - 2255595011
+  - 6464957011
 UNII: 6X543N684K
 Colon_Classification: J374
 ---
 
-
-# [[Grape]]
+# [[Grape]] 🍇 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Grape,10978|WD~Grape,10978]]
 
 ## #has_/text_of_/abstract 
 
-> A **Grape** is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis. Grapes are a non-climacteric type of fruit, generally occurring in clusters.
+> A **Grape** is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis. 
+> Grapes are a non-climacteric type of fruit, generally occurring in clusters.
 >
-> The cultivation of grapes began approximately 8,000 years ago, and the fruit has been used as human food throughout its history. Eaten fresh or in dried form (as raisins, currants and sultanas), grapes also hold cultural significance in many parts of the world, particularly for their role in winemaking. Other grape-derived products include various types of jam, juice, vinegar and oil.
+> The cultivation of grapes began approximately 8,000 years ago, 
+> and the fruit has been used as human food throughout its history. 
+> Eaten fresh or in dried form (as raisins, currants and sultanas), grapes also hold cultural significance in many parts of the world, particularly for their role in winemaking. Other grape-derived products include various types of jam, juice, vinegar and oil.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grape)
 

@@ -3,23 +3,24 @@ aliases:
   - has-health-aspect
   - hasHealthAspect
   - has_health_aspect
+  - has health aspect
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - health_aspect
   - health
   - aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_health_aspect
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

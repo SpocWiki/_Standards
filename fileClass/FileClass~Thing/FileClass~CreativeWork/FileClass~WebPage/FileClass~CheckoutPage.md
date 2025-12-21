@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CheckoutPage
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CheckoutPage
-- class/Thing/CreativeWork/WebPage/CheckoutPage
-- is_a_/CheckoutPage
-- schema-org/CheckoutPage
+  - class/CheckoutPage
+  - class/Thing/CreativeWork/WebPage/CheckoutPage
+  - is_a_/CheckoutPage
+  - schema-org/CheckoutPage
 tags:
-- class/FileClass
-- class/CheckoutPage
-- is_a_/CheckoutPage
-- class/Thing/CreativeWork/WebPage/CheckoutPage
+  - class/FileClass
+  - class/CheckoutPage
+  - is_a_/CheckoutPage
+  - class/Thing/CreativeWork/WebPage/CheckoutPage
 version: 2.0
 ---
 

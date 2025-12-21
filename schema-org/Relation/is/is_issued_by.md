@@ -4,22 +4,23 @@ aliases:
   - issued_by
   - issuedBy
   - is_issued_by
+  - is issued by
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - issued
   - by
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_issued_by
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

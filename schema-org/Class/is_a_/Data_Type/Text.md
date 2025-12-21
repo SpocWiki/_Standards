@@ -1,28 +1,28 @@
 ---
 aliases:
-- text
-- text
-- Text
-- is_a_text
+  - text
+  - text
+  - Text
+  - is_a_text
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- text
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_text Class"
+  - text
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_a_text Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Class
-- schema-org/Class
-- class/data_type
-title: "is_a_text Class"
+  - class/Class
+  - schema-org/Class
+  - class/data_type
+title: is_a_text Class
 type: Type
 ---
 

@@ -4,20 +4,22 @@ aliases:
   - return_method_enumeration
   - ReturnMethodEnumeration
   - is_a_return_method_enumeration
+  - Return_Method_Enumeration
+  - Return Method Enumeration
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - return_method_enumeration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_return_method_enumeration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

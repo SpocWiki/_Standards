@@ -3,23 +3,24 @@ aliases:
   - has sub-trip
   - subTrip
   - has_sub_trip
+  - has sub trip
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sub_trip
   - sub
   - trip
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_sub_trip
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

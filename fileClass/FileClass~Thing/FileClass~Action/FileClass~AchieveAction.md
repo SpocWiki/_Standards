@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~AchieveAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/AchieveAction
-- class/Thing/Action/AchieveAction
-- is_an_/AchieveAction
-- schema-org/AchieveAction
+  - class/AchieveAction
+  - class/Thing/Action/AchieveAction
+  - is_an_/AchieveAction
+  - schema-org/AchieveAction
 tags:
-- class/FileClass
-- class/AchieveAction
-- '#is_an_/AchieveAction'
-- class/Thing/Action/AchieveAction
+  - class/FileClass
+  - class/AchieveAction
+  - '#is_an_/AchieveAction'
+  - class/Thing/Action/AchieveAction
 version: 2.0
 ---
 

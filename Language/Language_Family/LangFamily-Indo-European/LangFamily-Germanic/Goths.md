@@ -6,23 +6,23 @@ aliases:
   - Goths
 has_id_wikidata: Q42193
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Ostrogoths,103122]]"
-  - "[[_Standards/WikiData/WD~Crimean_Goths,1341201]]"
-  - "[[_Standards/WikiData/WD~Moesogoths,15501579]]"
-  - "[[_Standards/WikiData/WD~Visigoths,23693]]"
+  - '[[_Standards/WikiData/WD~Ostrogoths,103122]]'
+  - '[[_Standards/WikiData/WD~Crimean_Goths,1341201]]'
+  - '[[_Standards/WikiData/WD~Moesogoths,15501579]]'
+  - '[[_Standards/WikiData/WD~Visigoths,23693]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Goth,212954]]"
-  - "[[_Standards/WikiData/WD~Godo,85870419]]"
+  - '[[_Standards/WikiData/WD~Goth,212954]]'
+  - '[[_Standards/WikiData/WD~Godo,85870419]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-subclass_of: "[[_Standards/WikiData/WD~East_Germanic_tribes,613732]]"
-instance_of: "[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+subclass_of: '[[_Standards/WikiData/WD~East_Germanic_tribes,613732]]'
+instance_of: '[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]'
 end_time: 1475-01-01T00:00:00Z
 start_time: 0100-01-01T00:00:00Z
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Argenteus%20Mark%201%20Wikivoyage%20banner.jpg

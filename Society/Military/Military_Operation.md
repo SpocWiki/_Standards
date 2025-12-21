@@ -2,19 +2,21 @@
 aliases:
   - Military_operation
   - military operation
+  - Military_Operation
+  - Military Operation
 has_id_wikidata: Q645883
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~occurrence,1190554]]"
-  - "[[_Standards/WikiData/WD~military_action,15835236]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_military_operation,7046229]]"
+  - '[[_Standards/WikiData/WD~occurrence,1190554]]'
+  - '[[_Standards/WikiData/WD~military_action,15835236]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_military_operation,7046229]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Operations_(military_staff),12411096]]"
-  - "[[_Standards/WikiData/WD~military_action,15835236]]"
-is_part_of: "[[_Standards/WikiData/WD~warfare,12786121]]"
+  - '[[_Standards/WikiData/WD~Operations_(military_staff),12411096]]'
+  - '[[_Standards/WikiData/WD~military_action,15835236]]'
+is_part_of: '[[_Standards/WikiData/WD~warfare,12786121]]'
 properties_for_this_type:
   - location
   - is part of
@@ -28,7 +30,7 @@ properties_for_this_type:
   - order of battle
 Wikidata_property: participated in conflict
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20the%20Bulge%20progress.svg
-MIL_STD_2525_Symbol_Identification_Code: "10014000001300000000"
+MIL_STD_2525_Symbol_Identification_Code: 10014000001300000000
 Commons_category: Military operations
 ---
 

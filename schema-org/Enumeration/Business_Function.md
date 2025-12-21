@@ -4,20 +4,22 @@ aliases:
   - business_function
   - BusinessFunction
   - is_a_business_function
+  - Business_Function
+  - Business Function
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - business_function
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_business_function Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

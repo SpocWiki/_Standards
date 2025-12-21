@@ -2,20 +2,22 @@
 aliases:
   - Economic bubble
   - speculative bubble or a financial bubble
+  - Economic_Bubble
+  - Economic Bubble
 has_id_wikidata: Q207781
 subclass_of:
-  - "[[_Standards/WikiData/WD~instability,405372]]"
-  - "[[_Standards/WikiData/WD~market_structure,877707]]"
-  - "[[_Standards/WikiData/WD~economic_problem,3539169]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Financial_bubbles,22867881]]"
-part_of: "[[_Standards/WikiData/WD~macroeconomics,39680]]"
+  - '[[_Standards/WikiData/WD~instability,405372]]'
+  - '[[_Standards/WikiData/WD~market_structure,877707]]'
+  - '[[_Standards/WikiData/WD~economic_problem,3539169]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Financial_bubbles,22867881]]'
+part_of: '[[_Standards/WikiData/WD~macroeconomics,39680]]'
 Stack_Exchange_tag: https://money.stackexchange.com/tags/bubble
 described_at_URL:
   - https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/economics-terms-and-concepts/bubbles
   - https://www.gartner.com/en/finance/glossary/financial-bubble
   - https://www.investopedia.com/terms/b/bubble.asp
   - https://www.investopedia.com/terms/s/speculativebubble.asp
-Dewey_Decimal_Classification: "332.645"
+Dewey_Decimal_Classification: 332.645
 ---
 
 # [[Economic_Bubble]] 

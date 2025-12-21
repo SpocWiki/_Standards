@@ -1,13 +1,14 @@
 ---
 aliases:
   - Schadensersatz
+  - Damages
 has_id_wikidata: Q308922
-has_cause: "[[_Standards/WikiData/WD~damage,481609]]"
+has_cause: '[[_Standards/WikiData/WD~damage,481609]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~legal_remedy,689247]]"
-  - "[[_Standards/WikiData/WD~conviction,2916183]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-subclass_of: "[[_Standards/WikiData/WD~compensation,21127747]]"
+  - '[[_Standards/WikiData/WD~legal_remedy,689247]]'
+  - '[[_Standards/WikiData/WD~conviction,2916183]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+subclass_of: '[[_Standards/WikiData/WD~compensation,21127747]]'
 ---
 
 # [[Damages]] 

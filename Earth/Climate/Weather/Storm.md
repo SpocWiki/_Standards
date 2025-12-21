@@ -1,6 +1,7 @@
 ---
 aliases:
   - Sturm
+  - Storm
 has_id_wikidata: Q81054
 ---
 

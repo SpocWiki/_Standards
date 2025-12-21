@@ -2,6 +2,7 @@
 aliases:
   - Charge conservation
   - Conservation of Charge
+  - Conservation_of_Charge
 ---
 
 # [[Conservation_of_Charge]] 

@@ -4,22 +4,23 @@ aliases:
   - funding_item
   - fundedItem
   - is_funding_item
+  - is funding item
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - funded
   - item
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_funding_item
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

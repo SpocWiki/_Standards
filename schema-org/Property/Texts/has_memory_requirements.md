@@ -4,22 +4,24 @@ aliases:
   - memory_requirements
   - memoryRequirements
   - has_text_of_memory_requirements
+  - has_memory_requirements
+  - has memory requirements
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - memory
   - requirements
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_memory_requirements
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

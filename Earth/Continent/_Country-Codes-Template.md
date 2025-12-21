@@ -1,38 +1,40 @@
 ---
 aliases:
-  - "{ ISO3166-1-Alpha-2: }":
-  - "{ ISO3166-1-Alpha-3: }":
-  - "{ CLDR_display_name: }":
-  - "{ name-en: }":
-  - "{ name-es: }":
-  - "{ name-fr: }":
-  - "{ name-ar: }":
-  - "{ name-cn: }":
-  - "{ name-ru: }":
-  - "{ UNTERM_English_Formal: }":
-  - "{ UNTERM_English: }":
-  - "{ UNTERM_Spanish_Formal: }":
-  - "{ UNTERM_Spanish: }":
+  - '{ ISO3166-1-Alpha-2: }': ''
+  - '{ ISO3166-1-Alpha-3: }': ''
+  - '{ CLDR_display_name: }': ''
+  - '{ name-en: }': ''
+  - '{ name-es: }': ''
+  - '{ name-fr: }': ''
+  - '{ name-ar: }': ''
+  - '{ name-cn: }': ''
+  - '{ name-ru: }': ''
+  - '{ UNTERM_English_Formal: }': ''
+  - '{ UNTERM_English: }': ''
+  - '{ UNTERM_Spanish_Formal: }': ''
+  - '{ UNTERM_Spanish: }': ''
+  - _Country-Codes-Template
+  - ' Country-Codes-Template'
 confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
+keywords: ''
 Languages:
-  - "{ Languages: }":
-layout:
+  - '{ Languages: }': ''
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 publish: true
-publishDate:
+publishDate: ''
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country
 title:
-  "{ CLDR_display_name: }":
+  '{ CLDR_display_name: }': ''
 type: Country
 ---
 

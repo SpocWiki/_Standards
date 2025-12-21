@@ -3,23 +3,24 @@ aliases:
   - has record-label
   - recordLabel
   - has_record_label
+  - has record label
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - record_label
   - record
   - label
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_record_label
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

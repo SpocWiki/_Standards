@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Sri Lanka
+  - سري لانكا
+  - 斯里兰卡
+  - Шри-Ланка
+  - the Democratic Socialist Republic of Sri Lanka
+  - la República Socialista Democrática de Sri Lanka
+  - Sri_Lanka
 has_id_wikidata: Q854
 location:
   - 6.86
@@ -317,19 +325,12 @@ cssclasses:
   - Country
 publish: true
 title: Sri Lanka
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Sri Lanka
-  - سري لانكا
-  - 斯里兰卡
-  - Шри-Ланка
-  - the Democratic Socialist Republic of Sri Lanka
-  - la República Socialista Democrática de Sri Lanka
+publishDate: ""
+expiryDate: ""
 Languages:
   - si
   - ta

@@ -1,21 +1,24 @@
 ---
-Commons_category: "Air force"
+aliases:
+  - Air_Force
+  - Air Force
+has_id_wikidata: Q61883
+Commons_category: Air force
 described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification: 358
 different_from: '[[_Standards/WikiData/WD~air_force,105982231]]'
-has_id_wikidata: Q61883
 has_part_s_:
-- '[[_Standards/WikiData/WD~airborne_forces,864306]]'
-- '[[_Standards/WikiData/WD~air_force_infantry_and_special_forces_unit,18177009]]'
-- '[[_Standards/WikiData/WD~air_force_personnel,113548630]]'
+  - '[[_Standards/WikiData/WD~airborne_forces,864306]]'
+  - '[[_Standards/WikiData/WD~air_force_infantry_and_special_forces_unit,18177009]]'
+  - '[[_Standards/WikiData/WD~air_force_personnel,113548630]]'
 has_use: '[[_Standards/WikiData/WD~aerial_warfare,471145]]'
 Iconclass_notation: 45D23
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%BE%D0%B4%D0%BE%D0%BB%D0%B0%D0%B7%D0%BD%D0%B0%20%D0%BF%D1%96%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20IMG%200376%20%2851111951000%29.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%BE%D0%B4%D0%BE%D0%BB%D0%B0%D0%B7%D0%BD%D0%B0%20%D0%BF%D1%96%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20IMG%200376%20%2851111951000%29.jpg
 IMDb_keyword: air-force
 instance_of: '[[_Standards/WikiData/WD~military_branch,781132]]'
 item_operated: '[[_Standards/WikiData/WD~aircraft_in_air_force_service,134038251]]'
 Krugosvet_article: nauka_i_tehnika/aviaciya_i_kosmonavtika/AVIATSIYA_VOENNAYA.html
-OpenStreetMap_tag_or_key: "Tag:military_service=air_force"
+OpenStreetMap_tag_or_key: Tag:military_service=air_force
 P8189: 987007294765405171
 subclass_of: '[[_Standards/WikiData/WD~military_branch,781132]]'
 U_S_National_Archives_Identifier: 10636847

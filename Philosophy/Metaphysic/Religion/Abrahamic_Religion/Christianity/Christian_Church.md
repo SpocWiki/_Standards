@@ -1,29 +1,31 @@
 ---
 aliases:
   - Christliche Kirche
+  - Christian_Church
+  - Christian Church
 has_id_wikidata: Q34651
-studied_by: "[[_Standards/WikiData/WD~ecclesiology,223693]]"
+studied_by: '[[_Standards/WikiData/WD~ecclesiology,223693]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~sodality,357849]]"
-  - "[[_Standards/WikiData/WD~parachurch_organization,3356065]]"
-  - "[[_Standards/WikiData/WD~modality,6888032]]"
+  - '[[_Standards/WikiData/WD~sodality,357849]]'
+  - '[[_Standards/WikiData/WD~parachurch_organization,3356065]]'
+  - '[[_Standards/WikiData/WD~modality,6888032]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Churches_of_Christ,1272775]]"
-  - "[[_Standards/WikiData/WD~Christian_Church_(Disciples_of_Christ),1541206]]"
-  - "[[_Standards/WikiData/WD~Christian_churches_and_churches_of_Christ,5110310]]"
-  - "[[_Standards/WikiData/WD~Kirche,15823565]]"
-  - "[[_Standards/WikiData/WD~Iglesia,1594]]"
-  - "[[_Standards/WikiData/WD~church_building,16970]]"
+  - '[[_Standards/WikiData/WD~Churches_of_Christ,1272775]]'
+  - '[[_Standards/WikiData/WD~Christian_Church_(Disciples_of_Christ),1541206]]'
+  - '[[_Standards/WikiData/WD~Christian_churches_and_churches_of_Christ,5110310]]'
+  - '[[_Standards/WikiData/WD~Kirche,15823565]]'
+  - '[[_Standards/WikiData/WD~Iglesia,1594]]'
+  - '[[_Standards/WikiData/WD~church_building,16970]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~type_of_organization,17197366]]"
-  - "[[_Standards/WikiData/WD~religious_concept,23847174]]"
-  - "[[_Standards/WikiData/WD~type_of_Christian_institution,121144598]]"
-subclass_of: "[[_Standards/WikiData/WD~Christian_organization,94670589]]"
-part_of: "[[_Standards/WikiData/WD~Christianity,5043]]"
+  - '[[_Standards/WikiData/WD~type_of_organization,17197366]]'
+  - '[[_Standards/WikiData/WD~religious_concept,23847174]]'
+  - '[[_Standards/WikiData/WD~type_of_Christian_institution,121144598]]'
+subclass_of: '[[_Standards/WikiData/WD~Christian_organization,94670589]]'
+part_of: '[[_Standards/WikiData/WD~Christianity,5043]]'
 Iconclass_notation: 11P
 inception: 0033-05-22T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sint-Willibrorduskerk%20%28Berchem%29%20%2810944%29%20calvarie%2029-07-2019.jpg

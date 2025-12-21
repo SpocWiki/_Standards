@@ -1,6 +1,7 @@
 ---
 aliases:
   - Essstäbchen
+  - Chopsticks
 has_id_wikidata: Q81980
 subclass_of:
   - "[[_Standards/WikiData/WD~cutlery,81944]]"
@@ -8,10 +9,10 @@ subclass_of:
 described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 different_from: "[[_Standards/WikiData/WD~bacillus,2091405]]"
 instance_of: "[[_Standards/WikiData/WD~product_category,63981612]]"
-Nomenclature_for_Museum_Cataloging: "4888"
+Nomenclature_for_Museum_Cataloging: 4888
 Commons_gallery: Chopsticks
 Commons_category: Chopsticks
-OmegaWiki_Defined_Meaning: "941235"
+OmegaWiki_Defined_Meaning: 941235
 native_label:
   - 箸
   - tī
@@ -38,12 +39,12 @@ schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Marcosticks-Chinese-12%20common%20ways%20to%20use%20chopsticks-cool%20guide%20style.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Comment%20tenir%20des%20baguettes%20-%20Troisi%C3%A8me%20%C3%A9tape.JPG
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Eetstokjes-article.ogg
-UNSPSC_Code: "52151706"
-P8189: "987007539247205171"
+UNSPSC_Code: 52151706
+P8189: 987007539247205100
 Unicode_character: 🥢
 ---
 
-# [[Chopsticks]] 
+# [[Chopsticks]] 🥢 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Chopsticks,81980|WD~Chopsticks,81980]] 
 

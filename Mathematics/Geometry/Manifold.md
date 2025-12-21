@@ -1,21 +1,22 @@
 ---
 aliases:
   - n-dimensional manifold, or n-manifold
+  - Manifold
 has_id_wikidata: Q203920
 subclass_of:
-  - "[[_Standards/WikiData/WD~topological_space,179899]]"
-  - "[[_Standards/WikiData/WD~Hausdorff_space,326908]]"
-  - "[[_Standards/WikiData/WD~second_countable_space,1363919]]"
-  - "[[_Standards/WikiData/WD~non_Hausdorff_manifold,7048762]]"
+  - '[[_Standards/WikiData/WD~topological_space,179899]]'
+  - '[[_Standards/WikiData/WD~Hausdorff_space,326908]]'
+  - '[[_Standards/WikiData/WD~second_countable_space,1363919]]'
+  - '[[_Standards/WikiData/WD~non_Hausdorff_manifold,7048762]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~Euler_characteristic,852973]]"
-  - "[[_Standards/WikiData/WD~dimension,4440864]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-different_from: "[[_Standards/WikiData/WD~Q9323213,9323213]]"
-studied_by: "[[_Standards/WikiData/WD~manifold_theory,10380344]]"
+  - '[[_Standards/WikiData/WD~Euler_characteristic,852973]]'
+  - '[[_Standards/WikiData/WD~dimension,4440864]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+different_from: '[[_Standards/WikiData/WD~Q9323213,9323213]]'
+studied_by: '[[_Standards/WikiData/WD~manifold_theory,10380344]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Commons_category: Manifolds
 ---
 

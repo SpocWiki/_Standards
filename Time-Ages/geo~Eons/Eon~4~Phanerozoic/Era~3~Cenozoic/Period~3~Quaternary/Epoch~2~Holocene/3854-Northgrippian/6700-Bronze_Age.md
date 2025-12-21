@@ -1,28 +1,30 @@
 ---
 aliases:
-- "Bronze Age"
-Commons_category: "Bronze Age"
+  - Bronze Age
+  - 6700-Bronze_Age
+  - 6700-Bronze Age
+has_id_wikidata: Q11761
+Commons_category: Bronze Age
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 different_from: '[[_Standards/WikiData/WD~Bronze_age,67484121]]'
 EAGLE_id: dates/lod/13
 end_time:
-- -0299
-- -0599
-- -1199
-has_id_wikidata: Q11761
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Minoan%20copper%20ingot%20from%20Zakros%2C%20Crete.jpg"
+  - -0299
+  - -0599
+  - -1199
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Minoan%20copper%20ingot%20from%20Zakros%2C%20Crete.jpg
 instance_of: '[[_Standards/WikiData/WD~archaeological_age,15401699]]'
 Krugosvet_article: istoriya/BRONZOVI_VEK.html
 named_after: '[[_Standards/WikiData/WD~bronze,34095]]'
 OmegaWiki_Defined_Meaning: 846334
-OpenStreetMap_tag_or_key: "Tag:historic:period=bronze-age"
+OpenStreetMap_tag_or_key: Tag:historic:period=bronze-age
 start_time:
-- -3099
-- -3199
-- -3299
+  - -3099
+  - -3199
+  - -3299
 subclass_of: '[[_Standards/WikiData/WD~prehistory,11756]]'
 ---
 

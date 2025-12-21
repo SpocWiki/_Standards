@@ -1,11 +1,20 @@
 ---
+aliases:
+  - Denmark
+  - Dinamarca
+  - Danemark
+  - الدانمرك
+  - 丹麦
+  - Дания
+  - the Kingdom of Denmark
+  - el Reino de Dinamarca
+has_id_wikidata: Q35
 location:
   - 55.6789
   - 10.5
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q35
 SpocWebEntityId: 26880
 isDeleted: false
 confidential: public
@@ -16,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Denmark
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Denmark
-  - Dinamarca
-  - Danemark
-  - الدانمرك
-  - 丹麦
-  - Дания
-  - the Kingdom of Denmark
-  - el Reino de Dinamarca
+publishDate: ""
+expiryDate: ""
 Languages:
   - da-DK
   - en
@@ -377,7 +377,7 @@ permanent_duplicated_item:
 executive_body: "[[_Standards/WikiData/WD~Government_of_Denmark,24039188]]"
 open_data_portal: "[[_Standards/WikiData/WD~Open_Data_DK,97014270]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]"
-inception: "0800"
+inception: 800
 has_time_started: 0800-06
 NUTS_code:
   - DK0

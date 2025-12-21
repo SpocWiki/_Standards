@@ -1,8 +1,10 @@
 ---
 aliases:
-  - Islamic Development Bank 
+  - Islamic Development Bank
   - البنك الإسلامي للتنمية
   - IsDB
+  - IsDB(Islamic_Development_Bank)
+  - IsDB(Islamic Development Bank)
 has_id_wikidata: Q41230
 ---
 

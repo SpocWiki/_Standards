@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Elizabeth Debicki"
+  - Elizabeth Debicki
+  - Debicki,Elizabeth
 ---
 
 #has_/time_/started :: 1936-08-18 

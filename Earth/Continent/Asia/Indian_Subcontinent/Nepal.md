@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Nepal
+  - Népal
+  - نيبال
+  - 尼泊尔
+  - Непал
+  - the Federal Democratic Republic of Nepal
+  - la República Democrática Federal de Nepal
+has_id_wikidata: Q837
 instance_of:
   - "[[_Standards/WikiData/WD~geographic_region,82794]]"
   - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
@@ -427,7 +436,6 @@ official_website: https://nepal.gov.np
 country_calling_code: 977
 Libris_URI: fcrtsp8z0f4309t
 CIVICUS_Monitor_country_entry: nepal
-has_id_wikidata: Q837
 location:
   - 27.7
   - 85.3167
@@ -443,20 +451,12 @@ source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
 title: Nepal
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Nepal
-  - Népal
-  - نيبال
-  - 尼泊尔
-  - Непал
-  - the Federal Democratic Republic of Nepal
-  - la República Democrática Federal de Nepal
+publishDate: ""
+expiryDate: ""
 Languages:
   - ne
   - en

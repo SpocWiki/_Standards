@@ -1,27 +1,29 @@
 ---
+aliases:
+  - Barracks
 has_id_wikidata: Q131263
-part_of: "[[_Standards/WikiData/WD~military_base,245016]]"
+part_of: '[[_Standards/WikiData/WD~military_base,245016]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~military_base,245016]]"
-  - "[[_Standards/WikiData/WD~military_building,6852233]]"
-  - "[[_Standards/WikiData/WD~government_building,16831714]]"
+  - '[[_Standards/WikiData/WD~military_base,245016]]'
+  - '[[_Standards/WikiData/WD~military_building,6852233]]'
+  - '[[_Standards/WikiData/WD~government_building,16831714]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-different_from: "[[_Standards/WikiData/WD~fire_station,1195942]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Kaserne,16147797]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_barracks,26004242]]"
-Nomenclature_for_Museum_Cataloging: "734"
-OmegaWiki_Defined_Meaning: "1224316"
-U_S_National_Archives_Identifier: "10639631"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~fire_station,1195942]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Kaserne,16147797]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_barracks,26004242]]'
+Nomenclature_for_Museum_Cataloging: 734
+OmegaWiki_Defined_Meaning: 1224316
+U_S_National_Archives_Identifier: 10639631
 Commons_category: Barracks
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20helle%20barracks%20complete.stl
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Charleroi%20-%20caserne%20Tr%C3%A9signies%20-%202020-06-23%20-%2001.jpg
-UNSPSC_Code: "30222903"
+UNSPSC_Code: 30222903
 Iconclass_notation: 45C42
-P8189: "987007283289405171"
+P8189: 987007283289405171
 IMDb_keyword: barracks
 GeoNames_feature_code: S.BRKS
 OpenStreetMap_tag_or_key: Tag:military=barracks

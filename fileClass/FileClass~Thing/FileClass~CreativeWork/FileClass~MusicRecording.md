@@ -1,56 +1,58 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MusicRecording
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: pcODQg
-  name: ByArtist
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')"
-  type: MultiFile
-  path: ''
-- id: bGg1r5
-  name: Duration
-  options:
-    min: 0
-    max: 2359
-  type: Number
-  path: ''
-- id: Vb6qAJ
-  name: InAlbum
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicAlbum')"
-  type: MultiFile
-  path: ''
-- id: JSjhe7
-  name: InPlaylist
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MusicPlaylist')"
-  type: MultiFile
-  path: ''
-- id: 7wG6LM
-  name: IsrcCode
-  options: {}
-  type: Input
-  path: ''
-- id: gLnyzC
-  name: RecordingOf
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MusicComposition')"
-  type: MultiFile
-  path: ''
+  - id: pcODQg
+    name: ByArtist
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
+    type: MultiFile
+    path: ''
+  - id: bGg1r5
+    name: Duration
+    options:
+      min: 0
+      max: 2359
+    type: Number
+    path: ''
+  - id: Vb6qAJ
+    name: InAlbum
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicAlbum')
+    type: MultiFile
+    path: ''
+  - id: JSjhe7
+    name: InPlaylist
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicPlaylist')
+    type: MultiFile
+    path: ''
+  - id: 7wG6LM
+    name: IsrcCode
+    options: {}
+    type: Input
+    path: ''
+  - id: gLnyzC
+    name: RecordingOf
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicComposition')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MusicRecording
-- class/Thing/CreativeWork/MusicRecording
-- is_a_/MusicRecording
-- schema-org/MusicRecording
+  - class/MusicRecording
+  - class/Thing/CreativeWork/MusicRecording
+  - is_a_/MusicRecording
+  - schema-org/MusicRecording
 tags:
-- class/FileClass
-- class/MusicRecording
-- is_a_/MusicRecording
-- class/Thing/CreativeWork/MusicRecording
+  - class/FileClass
+  - class/MusicRecording
+  - is_a_/MusicRecording
+  - class/Thing/CreativeWork/MusicRecording
 version: 2.0
 ---
 

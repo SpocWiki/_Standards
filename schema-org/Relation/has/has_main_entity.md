@@ -3,23 +3,24 @@ aliases:
   - has main-entity
   - mainEntity
   - has_main_entity
+  - has main entity
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - main_entity
   - main
   - entity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_main_entity
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

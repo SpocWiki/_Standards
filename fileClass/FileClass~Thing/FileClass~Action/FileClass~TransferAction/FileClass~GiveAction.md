@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~GiveAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 fields:
-- id: KqilaY
-  name: Recipient
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Audience')"
-  type: MultiFile
-  path: ''
+  - id: KqilaY
+    name: Recipient
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/GiveAction
-- class/Thing/Action/TransferAction/GiveAction
-- is_a_/GiveAction
-- schema-org/GiveAction
+  - class/GiveAction
+  - class/Thing/Action/TransferAction/GiveAction
+  - is_a_/GiveAction
+  - schema-org/GiveAction
 tags:
-- class/FileClass
-- class/GiveAction
-- is_a_/GiveAction
-- class/Thing/Action/TransferAction/GiveAction
+  - class/FileClass
+  - class/GiveAction
+  - is_a_/GiveAction
+  - class/Thing/Action/TransferAction/GiveAction
 version: 2.0
 ---
 

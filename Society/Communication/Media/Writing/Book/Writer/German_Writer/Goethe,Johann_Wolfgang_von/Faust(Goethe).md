@@ -1,47 +1,48 @@
 ---
 aliases:
   - Goethe's Faust
+  - Faust(Goethe)
 has_id_wikidata: Q29478
-genre: "[[_Standards/WikiData/WD~tragedy,80930]]"
-set_during_recurring_event: "[[_Standards/WikiData/WD~Walpurgis_Night,200982]]"
+genre: '[[_Standards/WikiData/WD~tragedy,80930]]'
+set_during_recurring_event: '[[_Standards/WikiData/WD~Walpurgis_Night,200982]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Faust,_Part_Two,267510]]"
-  - "[[_Standards/WikiData/WD~Faust,_Part_One,13221881]]"
+  - '[[_Standards/WikiData/WD~Faust,_Part_Two,267510]]'
+  - '[[_Standards/WikiData/WD~Faust,_Part_One,13221881]]'
 follows:
-  - "[[_Standards/WikiData/WD~Urfaust,2500544]]"
-  - "[[_Standards/WikiData/WD~Faust._A_fragment,110898949]]"
-creator: "[[_Standards/WikiData/WD~Richard_Westall,3109174]]"
-based_on: "[[_Standards/WikiData/WD~Historia_von_D._Johann_Fausten,5773296]]"
+  - '[[_Standards/WikiData/WD~Urfaust,2500544]]'
+  - '[[_Standards/WikiData/WD~Faust._A_fragment,110898949]]'
+creator: '[[_Standards/WikiData/WD~Richard_Westall,3109174]]'
+based_on: '[[_Standards/WikiData/WD~Historia_von_D._Johann_Fausten,5773296]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~series_of_creative_works,7725310]]"
-  - "[[_Standards/WikiData/WD~literary_work,7725634]]"
+  - '[[_Standards/WikiData/WD~series_of_creative_works,7725310]]'
+  - '[[_Standards/WikiData/WD~literary_work,7725634]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Faust,19170825]]"
-  - "[[_Standards/WikiData/WD~Faust,19170829]]"
-  - "[[_Standards/WikiData/WD~Фауст,43395467]]"
-  - "[[_Standards/WikiData/WD~Фауст,43396317]]"
-  - "[[_Standards/WikiData/WD~Faust,54459971]]"
-  - "[[_Standards/WikiData/WD~Fausto,65010053]]"
-  - "[[_Standards/WikiData/WD~Faust,87144479]]"
-  - "[[_Standards/WikiData/WD~Q87144487,87144487]]"
-  - "[[_Standards/WikiData/WD~Q87144506,87144506]]"
-  - "[[_Standards/WikiData/WD~Faust_Tragediya_(I_qism),104586913]]"
-  - "[[_Standards/WikiData/WD~Faust,107326546]]"
-  - "[[_Standards/WikiData/WD~Q113038930,113038930]]"
-  - "[[_Standards/WikiData/WD~Q120054205,120054205]]"
-  - "[[_Standards/WikiData/WD~Tarjimalar,125907146]]"
+  - '[[_Standards/WikiData/WD~Faust,19170825]]'
+  - '[[_Standards/WikiData/WD~Faust,19170829]]'
+  - '[[_Standards/WikiData/WD~Фауст,43395467]]'
+  - '[[_Standards/WikiData/WD~Фауст,43396317]]'
+  - '[[_Standards/WikiData/WD~Faust,54459971]]'
+  - '[[_Standards/WikiData/WD~Fausto,65010053]]'
+  - '[[_Standards/WikiData/WD~Faust,87144479]]'
+  - '[[_Standards/WikiData/WD~Q87144487,87144487]]'
+  - '[[_Standards/WikiData/WD~Q87144506,87144506]]'
+  - '[[_Standards/WikiData/WD~Faust_Tragediya_(I_qism),104586913]]'
+  - '[[_Standards/WikiData/WD~Faust,107326546]]'
+  - '[[_Standards/WikiData/WD~Q113038930,113038930]]'
+  - '[[_Standards/WikiData/WD~Q120054205,120054205]]'
+  - '[[_Standards/WikiData/WD~Tarjimalar,125907146]]'
 characters:
-  - "[[_Standards/WikiData/WD~Heinrich_Faust,63928429]]"
-  - "[[_Standards/WikiData/WD~Mephistopheles,63928460]]"
-  - "[[_Standards/WikiData/WD~Margarete,107192541]]"
-derivative_work: "[[_Standards/WikiData/WD~Q109185928,109185928]]"
-author: "[[_Standards/WikiData/WD~Johann_Wolfgang_von_Goethe,5879]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~play,25379]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~German,188]]"
+  - '[[_Standards/WikiData/WD~Heinrich_Faust,63928429]]'
+  - '[[_Standards/WikiData/WD~Mephistopheles,63928460]]'
+  - '[[_Standards/WikiData/WD~Margarete,107192541]]'
+derivative_work: '[[_Standards/WikiData/WD~Q109185928,109185928]]'
+author: '[[_Standards/WikiData/WD~Johann_Wolfgang_von_Goethe,5879]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~play,25379]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~German,188]]'
 title: Faust
 publication_date:
   - 1832-01-01T00:00:00Z

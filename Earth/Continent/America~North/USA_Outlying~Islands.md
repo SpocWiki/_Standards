@@ -7,22 +7,24 @@ aliases:
   - نائية التابعة للولايات المتحدة
   - 美国本土外小岛屿
   - Внешние малые острова Coeдинeнныx Штaтoв
-  - 
+  - ''
+  - USA_Outlying~Islands
+  - USA Outlying~Islands
 confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
+keywords: ''
 Languages:
   - en-UM
-layout:
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 publish: true
-publishDate:
+publishDate: ''
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 27046
 tags:

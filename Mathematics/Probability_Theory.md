@@ -2,16 +2,18 @@
 aliases:
   - probability theory
   - probability calculus
+  - Probability_Theory
+  - Probability Theory
 has_id_wikidata: Q5862903
 described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-  - "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
-part_of: "[[_Standards/WikiData/WD~measure_theory,15614122]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Probability_fundamentals,15748423]]"
+  - '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+  - '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
+part_of: '[[_Standards/WikiData/WD~measure_theory,15614122]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Probability_fundamentals,15748423]]'
 Stack_Exchange_tag:
   - https://cstheory.stackexchange.com/tags/pr.probability
   - https://or.stackexchange.com/tags/probability-theory
@@ -22,11 +24,11 @@ described_at_URL:
   - https://www.cuemath.com/data/probability/
   - https://dec41.user.srcf.net/notes/IA_L/probability_thm_proof.pdf
   - https://online.stat.psu.edu/stat414/lesson/2/2.6
-practiced_by: "[[_Standards/WikiData/WD~probability_theorist,97016341]]"
-subclass_of: "[[_Standards/WikiData/WD~mathematics,395]]"
-is_the_study_of: "[[_Standards/WikiData/WD~probability,9492]]"
-OmegaWiki_Defined_Meaning: "797277"
-Basisklassifikation: "31.70"
+practiced_by: '[[_Standards/WikiData/WD~probability_theorist,97016341]]'
+subclass_of: '[[_Standards/WikiData/WD~mathematics,395]]'
+is_the_study_of: '[[_Standards/WikiData/WD~probability,9492]]'
+OmegaWiki_Defined_Meaning: 797277
+Basisklassifikation: 31.70
 Commons_category: Probability theory
 UMLS_CUI: C0033207
 MeSH_tree_code: L01.906.394.622

@@ -3,67 +3,69 @@ aliases:
   - The_Little_Prince
   - Le Petit Prince
   - Der kleine Prinz
+  - Little_Prince
+  - Little Prince
 has_id_wikidata: Q25338
 public_domain_date:
   - 2015-01-01T00:00:00Z
   - 2033-05-01T00:00:00Z
   - 2039-01-01T00:00:00Z
   - 1995-01-01T00:00:00Z
-intended_public: "[[_Standards/WikiData/WD~youth,190007]]"
+intended_public: '[[_Standards/WikiData/WD~youth,190007]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Little_Prince,393654]]"
-  - "[[_Standards/WikiData/WD~Le_Petit_Prince,21489759]]"
-follows: "[[_Standards/WikiData/WD~Flight_to_Arras,1430624]]"
-followed_by: "[[_Standards/WikiData/WD~Letter_to_a_Hostage,3237012]]"
-instance_of: "[[_Standards/WikiData/WD~literary_work,7725634]]"
+  - '[[_Standards/WikiData/WD~Little_Prince,393654]]'
+  - '[[_Standards/WikiData/WD~Le_Petit_Prince,21489759]]'
+follows: '[[_Standards/WikiData/WD~Flight_to_Arras,1430624]]'
+followed_by: '[[_Standards/WikiData/WD~Letter_to_a_Hostage,3237012]]'
+instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
 genre:
   - "[[_Standards/WikiData/WD~children's_and_youth_literature,11163999]]"
-  - "[[_Standards/WikiData/WD~science_fiction_novel,12132683]]"
-  - "[[_Standards/WikiData/WD~tale,17991521]]"
-  - "[[_Standards/WikiData/WD~philosophical_fiction,20737414]]"
+  - '[[_Standards/WikiData/WD~science_fiction_novel,12132683]]'
+  - '[[_Standards/WikiData/WD~tale,17991521]]'
+  - '[[_Standards/WikiData/WD~philosophical_fiction,20737414]]'
   - "[[_Standards/WikiData/WD~children's_fiction,56451354]]"
-  - "[[_Standards/WikiData/WD~lyrical_novel,109311786]]"
+  - '[[_Standards/WikiData/WD~lyrical_novel,109311786]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Le_petit_prince,15942359]]"
-  - "[[_Standards/WikiData/WD~The_Little_Prince,20897974]]"
-  - "[[_Standards/WikiData/WD~Mittivoy_va_Karlson._Kichkina_shahzoda,25338045]]"
-  - "[[_Standards/WikiData/WD~The_Little_Prince,28147691]]"
-  - "[[_Standards/WikiData/WD~De_kleine_prins,29608401]]"
-  - "[[_Standards/WikiData/WD~Den_lille_prinsen,50476449]]"
-  - "[[_Standards/WikiData/WD~The_Little_Prince,53839866]]"
-  - "[[_Standards/WikiData/WD~The_Little_Prince,56192539]]"
-  - "[[_Standards/WikiData/WD~Q117280028,117280028]]"
-  - "[[_Standards/WikiData/WD~Q117281081,117281081]]"
-  - "[[_Standards/WikiData/WD~Q121983248,121983248]]"
-  - "[[_Standards/WikiData/WD~Q122001596,122001596]]"
-  - "[[_Standards/WikiData/WD~Q122025544,122025544]]"
-  - "[[_Standards/WikiData/WD~Q122121914,122121914]]"
-  - "[[_Standards/WikiData/WD~Q122123340,122123340]]"
-  - "[[_Standards/WikiData/WD~Şazadeo_Qıckek,124003809]]"
-  - "[[_Standards/WikiData/WD~Mwana_Mdogo_wa_Mfalme,125392968]]"
-  - "[[_Standards/WikiData/WD~Inkosana_encane,125661342]]"
-  - "[[_Standards/WikiData/WD~Inkosana_Encinci,125661421]]"
-  - "[[_Standards/WikiData/WD~Àrẹ_mọ_Ọba_Kékeré,125676520]]"
-  - "[[_Standards/WikiData/WD~Igikomangoma_mu_butayu,125676587]]"
-  - "[[_Standards/WikiData/WD~Ndoomu_buur_si,125678597]]"
-  - "[[_Standards/WikiData/WD~Likhosana,125679348]]"
-  - "[[_Standards/WikiData/WD~Morwakgosi_yo_monnye,125774261]]"
-  - "[[_Standards/WikiData/WD~Q132481489,132481489]]"
-  - "[[_Standards/WikiData/WD~Q132482810,132482810]]"
+  - '[[_Standards/WikiData/WD~Le_petit_prince,15942359]]'
+  - '[[_Standards/WikiData/WD~The_Little_Prince,20897974]]'
+  - '[[_Standards/WikiData/WD~Mittivoy_va_Karlson._Kichkina_shahzoda,25338045]]'
+  - '[[_Standards/WikiData/WD~The_Little_Prince,28147691]]'
+  - '[[_Standards/WikiData/WD~De_kleine_prins,29608401]]'
+  - '[[_Standards/WikiData/WD~Den_lille_prinsen,50476449]]'
+  - '[[_Standards/WikiData/WD~The_Little_Prince,53839866]]'
+  - '[[_Standards/WikiData/WD~The_Little_Prince,56192539]]'
+  - '[[_Standards/WikiData/WD~Q117280028,117280028]]'
+  - '[[_Standards/WikiData/WD~Q117281081,117281081]]'
+  - '[[_Standards/WikiData/WD~Q121983248,121983248]]'
+  - '[[_Standards/WikiData/WD~Q122001596,122001596]]'
+  - '[[_Standards/WikiData/WD~Q122025544,122025544]]'
+  - '[[_Standards/WikiData/WD~Q122121914,122121914]]'
+  - '[[_Standards/WikiData/WD~Q122123340,122123340]]'
+  - '[[_Standards/WikiData/WD~Şazadeo_Qıckek,124003809]]'
+  - '[[_Standards/WikiData/WD~Mwana_Mdogo_wa_Mfalme,125392968]]'
+  - '[[_Standards/WikiData/WD~Inkosana_encane,125661342]]'
+  - '[[_Standards/WikiData/WD~Inkosana_Encinci,125661421]]'
+  - '[[_Standards/WikiData/WD~Àrẹ_mọ_Ọba_Kékeré,125676520]]'
+  - '[[_Standards/WikiData/WD~Igikomangoma_mu_butayu,125676587]]'
+  - '[[_Standards/WikiData/WD~Ndoomu_buur_si,125678597]]'
+  - '[[_Standards/WikiData/WD~Likhosana,125679348]]'
+  - '[[_Standards/WikiData/WD~Morwakgosi_yo_monnye,125774261]]'
+  - '[[_Standards/WikiData/WD~Q132481489,132481489]]'
+  - '[[_Standards/WikiData/WD~Q132482810,132482810]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q25681506,25681506]]"
-  - "[[_Standards/WikiData/WD~Q25681507,25681507]]"
+  - '[[_Standards/WikiData/WD~Q25681506,25681506]]'
+  - '[[_Standards/WikiData/WD~Q25681507,25681507]]'
 characters:
-  - "[[_Standards/WikiData/WD~the_little_prince,58185387]]"
-  - "[[_Standards/WikiData/WD~the_rose,58185595]]"
+  - '[[_Standards/WikiData/WD~the_little_prince,58185387]]'
+  - '[[_Standards/WikiData/WD~the_rose,58185595]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novella,115288957]]"
+  - '[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novella,115288957]]'
   - "[[_Standards/WikiData/WD~Le_Monde's_100_Books_of_the_Century,40734]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~novel,8261]]"
+form_of_creative_work: '[[_Standards/WikiData/WD~novel,8261]]'
 country_of_origin:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~French,150]]'
 title: Le Petit Prince
 Commons_category: Le Petit Prince
 publication_date: 1943-04-06T00:00:00Z
@@ -71,7 +73,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Exupery%20exhi
 official_website:
   - https://www.lepetitprince.com
   - https://www.lepetitprince.com/en/
-OCLC_number: "22583605"
+OCLC_number: 22583605
 ---
 
 # [[Little_Prince]] 

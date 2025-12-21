@@ -1,6 +1,7 @@
 ---
 aliases:
   - Oven mitts
+  - Mitten
 ---
 
 # [[Mitten]] 

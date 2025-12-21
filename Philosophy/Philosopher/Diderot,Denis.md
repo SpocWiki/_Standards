@@ -3,95 +3,96 @@ aliases:
   - Denis Diderot
   - Denis_Diderot
   - Diderot
+  - Diderot,Denis
 has_id_wikidata: Q448
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_France,70972]]"
+country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_France,70972]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]"
-  - "[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]"
-  - "[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]"
+  - '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
+  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
+  - '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
 partner_in_business_or_sport: "[[_Standards/WikiData/WD~Jean_le_Rond_d'Alembert,153232]]"
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]"
-  - "[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]"
-  - "[[_Standards/WikiData/WD~Kunstmuseum_Den_Haag,1499958]]"
-  - "[[_Standards/WikiData/WD~Museum_De_Lakenhal,2098586]]"
-field_of_work: "[[_Standards/WikiData/WD~performing_arts,184485]]"
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]'
+  - '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
+  - '[[_Standards/WikiData/WD~Kunstmuseum_Den_Haag,1499958]]'
+  - '[[_Standards/WikiData/WD~Museum_De_Lakenhal,2098586]]'
+field_of_work: '[[_Standards/WikiData/WD~performing_arts,184485]]'
 occupation:
-  - "[[_Standards/WikiData/WD~historian,201788]]"
-  - "[[_Standards/WikiData/WD~playwright,214917]]"
-  - "[[_Standards/WikiData/WD~translator,333634]]"
-  - "[[_Standards/WikiData/WD~encyclopédistes,744738]]"
-  - "[[_Standards/WikiData/WD~political_scientist,1238570]]"
-  - "[[_Standards/WikiData/WD~correspondent,3589290]]"
-  - "[[_Standards/WikiData/WD~art_critic,4164507]]"
-  - "[[_Standards/WikiData/WD~literary_critic,4263842]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~novelist,6625963]]"
-  - "[[_Standards/WikiData/WD~essayist,11774202]]"
-  - "[[_Standards/WikiData/WD~lexicographer,14972848]]"
-  - "[[_Standards/WikiData/WD~literary_theorist,15962340]]"
-  - "[[_Standards/WikiData/WD~art_theorist,17391638]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-place_of_birth: "[[_Standards/WikiData/WD~Langres,203293]]"
+  - '[[_Standards/WikiData/WD~historian,201788]]'
+  - '[[_Standards/WikiData/WD~playwright,214917]]'
+  - '[[_Standards/WikiData/WD~translator,333634]]'
+  - '[[_Standards/WikiData/WD~encyclopédistes,744738]]'
+  - '[[_Standards/WikiData/WD~political_scientist,1238570]]'
+  - '[[_Standards/WikiData/WD~correspondent,3589290]]'
+  - '[[_Standards/WikiData/WD~art_critic,4164507]]'
+  - '[[_Standards/WikiData/WD~literary_critic,4263842]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~novelist,6625963]]'
+  - '[[_Standards/WikiData/WD~essayist,11774202]]'
+  - '[[_Standards/WikiData/WD~lexicographer,14972848]]'
+  - '[[_Standards/WikiData/WD~literary_theorist,15962340]]'
+  - '[[_Standards/WikiData/WD~art_theorist,17391638]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+place_of_birth: '[[_Standards/WikiData/WD~Langres,203293]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Paris,209842]]"
-  - "[[_Standards/WikiData/WD~Lycée_Saint_Louis,471980]]"
-  - "[[_Standards/WikiData/WD~Lycée_Louis_le_Grand,1059546]]"
+  - '[[_Standards/WikiData/WD~University_of_Paris,209842]]'
+  - '[[_Standards/WikiData/WD~Lycée_Saint_Louis,471980]]'
+  - '[[_Standards/WikiData/WD~Lycée_Louis_le_Grand,1059546]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]"
-  - "[[_Standards/WikiData/WD~Geographicus_Rare_Antique_Maps_biographical_dictionary_of_cartographers,133842860]]"
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+  - '[[_Standards/WikiData/WD~Geographicus_Rare_Antique_Maps_biographical_dictionary_of_cartographers,133842860]]'
 movement:
-  - "[[_Standards/WikiData/WD~encyclopédistes,744738]]"
-  - "[[_Standards/WikiData/WD~Lumières,10710179]]"
-  - "[[_Standards/WikiData/WD~materialism,7081]]"
+  - '[[_Standards/WikiData/WD~encyclopédistes,744738]]'
+  - '[[_Standards/WikiData/WD~Lumières,10710179]]'
+  - '[[_Standards/WikiData/WD~materialism,7081]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Jacques_the_Fatalist,945216]]"
-  - "[[_Standards/WikiData/WD~Encyclopédie,447]]"
-given_name: "[[_Standards/WikiData/WD~Denis,1187221]]"
-father: "[[_Standards/WikiData/WD~Didier_Diderot,1210539]]"
-place_of_burial: "[[_Standards/WikiData/WD~Saint_Roch,_Paris,1436962]]"
+  - '[[_Standards/WikiData/WD~Jacques_the_Fatalist,945216]]'
+  - '[[_Standards/WikiData/WD~Encyclopédie,447]]'
+given_name: '[[_Standards/WikiData/WD~Denis,1187221]]'
+father: '[[_Standards/WikiData/WD~Didier_Diderot,1210539]]'
+place_of_burial: '[[_Standards/WikiData/WD~Saint_Roch,_Paris,1436962]]'
 student: "[[_Standards/WikiData/WD~Paul_Boësnier_de_l'Orme,3370725]]"
-depicted_by: "[[_Standards/WikiData/WD~statue_of_Denis_Diderot,3497577]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-spouse: "[[_Standards/WikiData/WD~Anne_Antoinette_Diderot,15078893]]"
-family_name: "[[_Standards/WikiData/WD~Diderot,18371533]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-child: "[[_Standards/WikiData/WD~Angélique_Diderot,64825985]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+depicted_by: '[[_Standards/WikiData/WD~statue_of_Denis_Diderot,3497577]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+spouse: '[[_Standards/WikiData/WD~Anne_Antoinette_Diderot,15078893]]'
+family_name: '[[_Standards/WikiData/WD~Diderot,18371533]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+child: '[[_Standards/WikiData/WD~Angélique_Diderot,64825985]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
-  - "[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]"
+  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
+  - '[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]'
 part_of: "[[_Standards/WikiData/WD~Diderot_and_d'Alembert,110954413]]"
 date_of_birth: 1713-10-05T00:00:00Z
 work_location:
-  - "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
-  - "[[_Standards/WikiData/WD~Paris,90]]"
+  - '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
+  - '[[_Standards/WikiData/WD~Paris,90]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Aristotle,868]]"
-  - "[[_Standards/WikiData/WD~Voltaire,9068]]"
-  - "[[_Standards/WikiData/WD~Benedictus_de_Spinoza,35802]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~Paris,90]]"
-writing_language: "[[_Standards/WikiData/WD~French,150]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
-native_language: "[[_Standards/WikiData/WD~French,150]]"
-NLC_authorities: "000129406"
+  - '[[_Standards/WikiData/WD~Aristotle,868]]'
+  - '[[_Standards/WikiData/WD~Voltaire,9068]]'
+  - '[[_Standards/WikiData/WD~Benedictus_de_Spinoza,35802]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~Paris,90]]'
+writing_language: '[[_Standards/WikiData/WD~French,150]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
+native_language: '[[_Standards/WikiData/WD~French,150]]'
+NLC_authorities: 000129406
 BHCL_UUID: 82d12518-fcea-43e7-af33-4d15bccc1a20
 name_in_native_language: Denis Diderot
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Denis%20Diderot%20-%20Alix%20-%20Vanloo.png

@@ -4,21 +4,23 @@ aliases:
   - spoken_word_album
   - SpokenWordAlbum
   - is_a_spoken_word_album
+  - Spoken_Word_Album
+  - Spoken Word Album
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MusicAlbumProductionType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - spoken_word_album
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_spoken_word_album Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

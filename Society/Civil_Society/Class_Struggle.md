@@ -4,25 +4,27 @@ aliases:
   - Klassenkampf
   - class conflict
   - class war
+  - Class_Struggle
+  - Class Struggle
 has_id_wikidata: Q1744607
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~class_conflict,185069]]"
-  - "[[_Standards/WikiData/WD~social_conflict,2672648]]"
+  - '[[_Standards/WikiData/WD~class_conflict,185069]]'
+  - '[[_Standards/WikiData/WD~social_conflict,2672648]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~social_conflict,2672648]]"
-  - "[[_Standards/WikiData/WD~class_relations,65088305]]"
+  - '[[_Standards/WikiData/WD~social_conflict,2672648]]'
+  - '[[_Standards/WikiData/WD~class_relations,65088305]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Walka_klas,9370568]]"
+  - '[[_Standards/WikiData/WD~Walka_klas,9370568]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Sechster_Band,130477825]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Sechster_Band,130477825]]'
+  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~class_theory,125623342]]"
+  - '[[_Standards/WikiData/WD~class_theory,125623342]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~social_science_concept,131362181]]"
+  - '[[_Standards/WikiData/WD~social_science_concept,131362181]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pyramid%20of%20Capitalist%20System.jpg
 Wolfram_Language_entity_code: Entity["Concept", "ClassStruggle::t55f5"]
 ---

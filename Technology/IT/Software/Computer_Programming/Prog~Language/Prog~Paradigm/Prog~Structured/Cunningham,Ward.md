@@ -2,36 +2,37 @@
 aliases:
   - Ward Cunningham
   - Ward_Cunningham
+  - Cunningham,Ward
 has_id_wikidata: Q7637
-field_of_work: "[[_Standards/WikiData/WD~software_engineering,80993]]"
+field_of_work: '[[_Standards/WikiData/WD~software_engineering,80993]]'
 occupation:
-  - "[[_Standards/WikiData/WD~computer_scientist,82594]]"
-  - "[[_Standards/WikiData/WD~technology_evangelist,139648]]"
-  - "[[_Standards/WikiData/WD~programmer,5482740]]"
+  - '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+  - '[[_Standards/WikiData/WD~technology_evangelist,139648]]'
+  - '[[_Standards/WikiData/WD~programmer,5482740]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Purdue_University,217741]]"
-  - "[[_Standards/WikiData/WD~Highland_High_School,14688421]]"
-place_of_birth: "[[_Standards/WikiData/WD~Michigan_City,989282]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Cunningham,7849873]]"
-given_name: "[[_Standards/WikiData/WD~Ward,18204850]]"
-employer: "[[_Standards/WikiData/WD~Microsoft,2283]]"
-residence: "[[_Standards/WikiData/WD~Portland,6106]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Purdue_University,217741]]'
+  - '[[_Standards/WikiData/WD~Highland_High_School,14688421]]'
+place_of_birth: '[[_Standards/WikiData/WD~Michigan_City,989282]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Cunningham,7849873]]'
+given_name: '[[_Standards/WikiData/WD~Ward,18204850]]'
+employer: '[[_Standards/WikiData/WD~Microsoft,2283]]'
+residence: '[[_Standards/WikiData/WD~Portland,6106]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 social_media_followers:
   - 1110
   - 63457
 work_period_start_: 1984-01-01T00:00:00Z
 date_of_birth: 1949-05-26T00:00:00Z
-P1015: "4079301"
+P1015: 4079301
 Commons_Creator_page: Ward Cunningham
 Commons_gallery: Ward Cunningham
 Commons_category: Ward Cunningham
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wikimedia%20Developer%20Summit%202017%20-%20Ward%20Cunningham-8602.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Ward%20Cunningham%20%28spoken%20by%20AI%20voice%29.mp3
 official_website: https://c2.com
-ISNI: "0000000022548596"
+ISNI: 0000000022548596
 domain_name: c2.com
 amateur_radio_callsign: K9OX
 Mastodon_address: k9ox@mastodon.radio

@@ -4,39 +4,41 @@ aliases:
   - radio_station
   - RadioStation
   - is_a_radio_station
+  - Radio_Station
+  - Radio Station
 has_id_wikidata: Q14350
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - radio_station
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_radio_station Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_radio_station Class
 type: Type
-owner_of: "[[_Standards/WikiData/WD~radio_channel,1474440]]"
+owner_of: '[[_Standards/WikiData/WD~radio_channel,1474440]]'
 different_from:
-  - "[[_Standards/WikiData/WD~radio_communication_station,1474493]]"
-  - "[[_Standards/WikiData/WD~broadcasting_station,125053629]]"
+  - '[[_Standards/WikiData/WD~radio_communication_station,1474493]]'
+  - '[[_Standards/WikiData/WD~broadcasting_station,125053629]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~radio_personality,2722764]]"
-  - "[[_Standards/WikiData/WD~radio_people,27978310]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_radio_station,6632234]]"
+  - '[[_Standards/WikiData/WD~radio_personality,2722764]]'
+  - '[[_Standards/WikiData/WD~radio_people,27978310]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_radio_station,6632234]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~broadcaster,15265344]]"
-  - "[[_Standards/WikiData/WD~mass_media,11033]]"
-industry: "[[_Standards/WikiData/WD~radio_broadcasting,29584757]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_mass_media,121132955]]"
+  - '[[_Standards/WikiData/WD~broadcaster,15265344]]'
+  - '[[_Standards/WikiData/WD~mass_media,11033]]'
+industry: '[[_Standards/WikiData/WD~radio_broadcasting,29584757]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_mass_media,121132955]]'
 properties_for_this_type:
   - radio format
   - inception
@@ -47,12 +49,12 @@ properties_for_this_type:
   - country
 IMDb_keyword: radio-station
 subreddit: radio
-U_S_National_Archives_Identifier: "10644557"
+U_S_National_Archives_Identifier: 10644557
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RCF%20Dialogue%20r%C3%A9gie.jpg
 equivalent_class:
   - http://purl.org/ontology/po/Radio
   - https://schema.org/RadioStation
-Common_Procurement_Vocabulary_code: "32344230"
+Common_Procurement_Vocabulary_code: 32344230
 Commons_category: Radio stations
 GeoNames_feature_code: S.STNR
 ---

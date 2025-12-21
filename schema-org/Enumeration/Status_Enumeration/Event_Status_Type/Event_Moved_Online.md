@@ -4,21 +4,23 @@ aliases:
   - event_moved_online
   - EventMovedOnline
   - is_an_event_moved_online
+  - Event_Moved_Online
+  - Event Moved Online
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: EventStatusType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - event_moved_online
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_event_moved_online Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

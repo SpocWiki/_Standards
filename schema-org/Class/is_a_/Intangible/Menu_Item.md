@@ -4,20 +4,22 @@ aliases:
   - menu_item
   - MenuItem
   - is_a_menu_item
+  - Menu_Item
+  - Menu Item
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - menu_item
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_menu_item Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Helicopter
 has_id_wikidata: Q34486
 has_use: "[[_Standards/WikiData/WD~aviation,765633]]"
 subclass_of: "[[_Standards/WikiData/WD~rotorcraft,949801]]"
@@ -12,7 +14,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
   - "[[_Standards/WikiData/WD~The_Complete_Encyclopedia_of_Flight_1848_1939,_Chartwell_Edition,15058267]]"
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-Dewey_Decimal_Classification: "629.133352"
+Dewey_Decimal_Classification: 629.133352
 topic_s_main_template:
   - "[[_Standards/WikiData/WD~Template_Infobox_helicopter,14385255]]"
   - "[[_Standards/WikiData/WD~Template_Helicopters_and_rotorcraft,22744761]]"
@@ -22,8 +24,8 @@ used_by: "[[_Standards/WikiData/WD~helicopter_in_service,24175396]]"
 military_designation:
   - H
   - VH
-OmegaWiki_Defined_Meaning: "6441"
-Nomenclature_for_Museum_Cataloging: "11728"
+OmegaWiki_Defined_Meaning: 6441
+Nomenclature_for_Museum_Cataloging: 11728
 nickname: whirlybird
 IMDb_keyword: helicopter
 name: Helikopter
@@ -35,11 +37,11 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/EC%20145.ogv
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/NH90-Caiman.stl
 Unicode_character: 🚁
 Iconclass_notation: 46C371
-P8189: "987007555648305171"
+P8189: 987007555648305200
 Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/VERTOLET.html
 ---
 
-# [[Helicopter]] 
+# [[Helicopter]] 🚁 
 
 #is_/same_as :: [[../../WikiData/WD~Helicopter,34486|WD~Helicopter,34486]] 
 

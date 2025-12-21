@@ -1,14 +1,17 @@
 ---
+aliases:
+  - Armored_Warfare
+  - Armored Warfare
 has_id_wikidata: Q568312
-uses: "[[_Standards/WikiData/WD~armored_fighting_vehicle,130368]]"
+uses: '[[_Standards/WikiData/WD~armored_fighting_vehicle,130368]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~branch_of_service,690109]]"
-  - "[[_Standards/WikiData/WD~warfare,12786121]]"
-U_S_National_Archives_Identifier: "10641288"
+  - '[[_Standards/WikiData/WD~branch_of_service,690109]]'
+  - '[[_Standards/WikiData/WD~warfare,12786121]]'
+U_S_National_Archives_Identifier: 10641288
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Type%2069%20Operation%20Desert%20Storm.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/MGM-51%20Shillelagh2.jpg
-P8189: "987007556785505171"
+P8189: 987007556785505171
 Commons_category: Armoured warfare
 Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/VOSKA_BRONETANKOVIE.html
 ---

@@ -3,10 +3,12 @@ aliases:
   - Raman scattering
   - Raman effect
   - Stokes-Raman scattering
+  - Raman_Scattering
+  - Raman Scattering
 has_id_wikidata: Q466824
-instance_of: "[[_Standards/WikiData/WD~effect,926230]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-named_after: "[[_Standards/WikiData/WD~Chandrasekhara_Venkata_Raman,60429]]"
+instance_of: '[[_Standards/WikiData/WD~effect,926230]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+named_after: '[[_Standards/WikiData/WD~Chandrasekhara_Venkata_Raman,60429]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Setup%20Raman%20Spectroscopy%20adapted%20from%20Thomas%20Schmid%20and%20Petra%20Dariz%20in%20Heritage%202%282%29%20%282019%29%201662-1683.png
 Commons_category: Raman spectroscopy
 ---

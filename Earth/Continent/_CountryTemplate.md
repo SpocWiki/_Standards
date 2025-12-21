@@ -1,13 +1,15 @@
 ---
 aliases:
-- 
+  - ''
+  - _CountryTemplate
+  - ' CountryTemplate'
 confidential: public
 isDeleted: false
 isReadOnly: false
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 publish: true
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

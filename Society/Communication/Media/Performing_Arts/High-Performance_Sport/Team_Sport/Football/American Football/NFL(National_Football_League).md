@@ -2,25 +2,27 @@
 aliases:
   - National Football League
   - NFL
+  - NFL(National_Football_League)
+  - NFL(National Football League)
 has_id_wikidata: Q1215884
-sponsor: "[[_Standards/WikiData/WD~Pizza_Hut,191615]]"
+sponsor: '[[_Standards/WikiData/WD~Pizza_Hut,191615]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~American_Football_Conference,276530]]"
-  - "[[_Standards/WikiData/WD~National_Football_Conference,319007]]"
-headquarters_locations: "[[_Standards/WikiData/WD~345_Park_Avenue,3489200]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_National_Football_League,5870004]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_NFL,6307529]]"
+  - '[[_Standards/WikiData/WD~American_Football_Conference,276530]]'
+  - '[[_Standards/WikiData/WD~National_Football_Conference,319007]]'
+headquarters_locations: '[[_Standards/WikiData/WD~345_Park_Avenue,3489200]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_National_Football_League,5870004]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_NFL,6307529]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~professional_sports_league,15991290]]"
-  - "[[_Standards/WikiData/WD~American_football_league,124059801]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-season_starts: "[[_Standards/WikiData/WD~September,123]]"
+  - '[[_Standards/WikiData/WD~professional_sports_league,15991290]]'
+  - '[[_Standards/WikiData/WD~American_football_league,124059801]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+season_starts: '[[_Standards/WikiData/WD~September,123]]'
 number_of_participants: 32
 social_media_followers:
   - 15400000
   - 32600630
   - 4130783
-sport: "[[_Standards/WikiData/WD~American_football,41323]]"
+sport: '[[_Standards/WikiData/WD~American_football,41323]]'
 TikTok_username: nfl
 Giphy_username: nfl
 subreddit: nfl
@@ -36,8 +38,8 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/national_football_league
 described_at_URL: http://www.fundinguniverse.com/company-histories/national-football-league-history/
 official_website: https://www.nfl.com/
 official_shop_URL: https://www.nflshop.com/
-ISNI: "0000000405805844"
-Bilibili_UID: "495627864"
+ISNI: 0000000405805844
+Bilibili_UID: 495627864
 DPLA_subject_term: National Football League
 Commons_gallery: National Football League
 Commons_category: National Football League

@@ -9,39 +9,39 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - park
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_park Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_park Class
 type: Type
 OpenStreetMap_tag: leisure=park
-different_from: "[[_Standards/WikiData/WD~Park,157821]]"
+different_from: '[[_Standards/WikiData/WD~Park,157821]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_park,6055178]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_park,6055178]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~facility,13226383]]"
-  - "[[_Standards/WikiData/WD~artificial_geographic_object,35145743]]"
-  - "[[_Standards/WikiData/WD~physical_public_space,111415237]]"
-  - "[[_Standards/WikiData/WD~urban_green_space,22652]]"
-category_for_eponymous_categories: "[[_Standards/WikiData/WD~Q113367929,113367929]]"
+  - '[[_Standards/WikiData/WD~facility,13226383]]'
+  - '[[_Standards/WikiData/WD~artificial_geographic_object,35145743]]'
+  - '[[_Standards/WikiData/WD~physical_public_space,111415237]]'
+  - '[[_Standards/WikiData/WD~urban_green_space,22652]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q113367929,113367929]]'
 properties_for_this_type:
   - has part(s)
   - inception
@@ -59,10 +59,10 @@ properties_for_this_type:
   - owned by
   - located in the administrative territorial entity
   - operator
-IAB_code: "160"
+IAB_code: 160
 Wolfram_Language_entity_type: Park
 Commons_category: Parks
-U_S_National_Archives_Identifier: "10641211"
+U_S_National_Archives_Identifier: 10641211
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20883674%20cc%20Symbolon%20tree%20icon.svg
 Iconclass_notation: 43B42
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Brussels%20Cinquantenaire%20R04.jpg

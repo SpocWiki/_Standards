@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CityHall
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/CityHall
-- class/Thing/Place/CivicStructure/GovernmentBuilding/CityHall
-- is_a_/CityHall
-- schema-org/CityHall
+  - class/CityHall
+  - class/Thing/Place/CivicStructure/GovernmentBuilding/CityHall
+  - is_a_/CityHall
+  - schema-org/CityHall
 tags:
-- class/FileClass
-- class/CityHall
-- is_a_/CityHall
-- class/Thing/Place/CivicStructure/GovernmentBuilding/CityHall
+  - class/FileClass
+  - class/CityHall
+  - is_a_/CityHall
+  - class/Thing/Place/CivicStructure/GovernmentBuilding/CityHall
 version: 2.0
 ---
 

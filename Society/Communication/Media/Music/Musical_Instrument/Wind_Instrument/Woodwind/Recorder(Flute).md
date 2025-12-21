@@ -1,15 +1,16 @@
 ---
 aliases:
   - Blockflöte
+  - Recorder(Flute)
 has_id_wikidata: Q187851
 subclass_of:
-  - "[[_Standards/WikiData/WD~duct_flute,478634]]"
-  - "[[_Standards/WikiData/WD~open_flutes_with_internal_duct_with_fingerholes,55738665]]"
-used_by: "[[_Standards/WikiData/WD~recorder_player,3074722]]"
+  - '[[_Standards/WikiData/WD~duct_flute,478634]]'
+  - '[[_Standards/WikiData/WD~open_flutes_with_internal_duct_with_fingerholes,55738665]]'
+used_by: '[[_Standards/WikiData/WD~recorder_player,3074722]]'
 described_by_source: "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
-Nomenclature_for_Museum_Cataloging: "10852"
-OmegaWiki_Defined_Meaning: "375730"
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+Nomenclature_for_Museum_Cataloging: 10852
+OmegaWiki_Defined_Meaning: 375730
 Hornbostel_Sachs_classification: 421.221.12
 Iconclass_notation: 48C73511
 Commons_gallery: Recorder
@@ -19,8 +20,8 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/SopranoRecorder.ogg
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Tonumfang-Sopranblockfl%C3%B6te.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/VariousRecorderFlutes.jpg
 Amazon_com_browse_node:
-  - "11972101"
-  - "11975291"
+  - 11972101
+  - 11975291
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/BLOKFLETA.html
 ---
 

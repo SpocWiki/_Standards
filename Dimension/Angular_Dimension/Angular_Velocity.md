@@ -1,9 +1,11 @@
 ---
 aliases:
-- "angular frequency"
-- "angular velocity"
-- "angular rate"
-- "angular speed"
+  - angular frequency
+  - angular velocity
+  - angular rate
+  - angular speed
+  - Angular_Velocity
+  - Angular Velocity
 ---
 
 # [[Angular_Velocity]] 

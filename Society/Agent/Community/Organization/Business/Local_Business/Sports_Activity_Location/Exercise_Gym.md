@@ -4,20 +4,22 @@ aliases:
   - exercise_gym
   - ExerciseGym
   - is_an_exercise_gym
+  - Exercise_Gym
+  - Exercise Gym
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - exercise_gym
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_exercise_gym Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

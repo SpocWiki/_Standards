@@ -1,12 +1,14 @@
 ---
 aliases:
   - Coastal management
+  - Coastal_Management
+  - Coastal Management
 has_id_wikidata: Q1316027
-has_characteristic: "[[_Standards/WikiData/WD~coast,93352]]"
-subclass_of: "[[_Standards/WikiData/WD~flood_control_structure,2630707]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Coastal_management,7641832]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-P8189: "987007284076505171"
+has_characteristic: '[[_Standards/WikiData/WD~coast,93352]]'
+subclass_of: '[[_Standards/WikiData/WD~flood_control_structure,2630707]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Coastal_management,7641832]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+P8189: 987007284076505171
 Commons_category: Coastal management
 ---
 

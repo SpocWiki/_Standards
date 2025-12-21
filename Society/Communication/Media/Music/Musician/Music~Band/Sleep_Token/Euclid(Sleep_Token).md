@@ -1,28 +1,28 @@
 ---
 aliases:
-- Euclid(Sleep_Token)
-- "Euclid(Sleep Token)"
+  - Euclid(Sleep_Token)
+  - Euclid(Sleep Token)
 confidential: private
 cssclasses:
-- private
-- note
+  - private
+  - note
 draft: true
-expiryDate: 
+expiryDate: ''
 has_Template:
-- Extract~Note~Template
+  - Extract~Note~Template
 has_time_started: 2024-08-04
 isDeleted: false
 isReadOnly: false
 keywords: Euclid(Sleep_Token)
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Euclid(Sleep_Token)
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Euclid(Sleep_Token)
-title: "Euclid(Sleep Token)"
+  - Euclid(Sleep_Token)
+title: Euclid(Sleep Token)
 type: private_note
 ---
 

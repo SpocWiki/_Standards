@@ -1,11 +1,13 @@
 ---
 aliases:
-- "Akrotiri & Dhekelia"
+  - Akrotiri & Dhekelia
+  - Akrotiri_and_Dhekelia
+  - Akrotiri and Dhekelia
 confidential: public
 isDeleted: false
 SpocWebEntityId: 76719
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

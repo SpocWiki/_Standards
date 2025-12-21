@@ -4,21 +4,23 @@ aliases:
   - sha256
   - sha256
   - has_text_of_sha256
+  - has_sha256
+  - has sha256
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sha256
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_sha256
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

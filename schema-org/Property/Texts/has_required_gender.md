@@ -4,22 +4,24 @@ aliases:
   - required_gender
   - requiredGender
   - has_text_of_required_gender
+  - has_required_gender
+  - has required gender
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - required
   - gender
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_required_gender
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

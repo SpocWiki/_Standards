@@ -1,49 +1,50 @@
 ---
 aliases:
   - Neuschwanstein Castle
+  - Neuschwanstein_Castle
 has_id_wikidata: Q4152
 architect:
-  - "[[_Standards/WikiData/WD~Georg_von_Dollmann,77138]]"
-  - "[[_Standards/WikiData/WD~Eduard_Riedel,106679]]"
-  - "[[_Standards/WikiData/WD~Christian_Jank,573740]]"
-  - "[[_Standards/WikiData/WD~Julius_Hofmann,1712698]]"
-inspired_by: "[[_Standards/WikiData/WD~Wartburg,151545]]"
+  - '[[_Standards/WikiData/WD~Georg_von_Dollmann,77138]]'
+  - '[[_Standards/WikiData/WD~Eduard_Riedel,106679]]'
+  - '[[_Standards/WikiData/WD~Christian_Jank,573740]]'
+  - '[[_Standards/WikiData/WD~Julius_Hofmann,1712698]]'
+inspired_by: '[[_Standards/WikiData/WD~Wartburg,151545]]'
 architectural_style:
-  - "[[_Standards/WikiData/WD~Gothic_Revival,186363]]"
-  - "[[_Standards/WikiData/WD~Romanesque_Revival_architecture,744373]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Schwangau,256547]]"
+  - '[[_Standards/WikiData/WD~Gothic_Revival,186363]]'
+  - '[[_Standards/WikiData/WD~Romanesque_Revival_architecture,744373]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Schwangau,256547]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~château,751876]]"
-  - "[[_Standards/WikiData/WD~palace,16560]]"
-  - "[[_Standards/WikiData/WD~castle,23413]]"
-  - "[[_Standards/WikiData/WD~museum,33506]]"
-maintained_by: "[[_Standards/WikiData/WD~Bavarian_Administration_of_State_Owned_Palaces,_Gardens_and_Lakes,812310]]"
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~château,751876]]'
+  - '[[_Standards/WikiData/WD~palace,16560]]'
+  - '[[_Standards/WikiData/WD~castle,23413]]'
+  - '[[_Standards/WikiData/WD~museum,33506]]'
+maintained_by: '[[_Standards/WikiData/WD~Bavarian_Administration_of_State_Owned_Palaces,_Gardens_and_Lakes,812310]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~topping_out,1075723]]"
-  - "[[_Standards/WikiData/WD~start_of_construction,27136782]]"
+  - '[[_Standards/WikiData/WD~topping_out,1075723]]'
+  - '[[_Standards/WikiData/WD~start_of_construction,27136782]]'
 heritage_designation:
-  - "[[_Standards/WikiData/WD~architectural_heritage_monument_in_Bavaria,17297633]]"
-  - "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
-described_by_source: "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-part_of: "[[_Standards/WikiData/WD~The_Palaces_of_King_Ludwig_II_of_Bavaria_Neuschwanstein,_Linderhof,_Schachen_and_Herrenchiemsee,64825541]]"
+  - '[[_Standards/WikiData/WD~architectural_heritage_monument_in_Bavaria,17297633]]'
+  - '[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]'
+described_by_source: '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+part_of: '[[_Standards/WikiData/WD~The_Palaces_of_King_Ludwig_II_of_Bavaria_Neuschwanstein,_Linderhof,_Schachen_and_Herrenchiemsee,64825541]]'
 coordinate_location: Point(10.749441807 47.557488542)
 inception: 1869-01-01T00:00:00Z
-owned_by: "[[_Standards/WikiData/WD~Bavaria,980]]"
-dedicated_to: "[[_Standards/WikiData/WD~Richard_Wagner,1511]]"
+owned_by: '[[_Standards/WikiData/WD~Bavaria,980]]'
+dedicated_to: '[[_Standards/WikiData/WD~Richard_Wagner,1511]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~sandstone,13085]]"
-  - "[[_Standards/WikiData/WD~limestone,23757]]"
-  - "[[_Standards/WikiData/WD~brick,40089]]"
-country: "[[_Standards/WikiData/WD~Germany,183]]"
+  - '[[_Standards/WikiData/WD~sandstone,13085]]'
+  - '[[_Standards/WikiData/WD~limestone,23757]]'
+  - '[[_Standards/WikiData/WD~brick,40089]]'
+country: '[[_Standards/WikiData/WD~Germany,183]]'
 height: 65
 area:
   - 0.85
   - 2114
 elevation_above_sea_level: 940
-occupant: "[[_Standards/WikiData/WD~Ludwig_II_of_Bavaria,44039]]"
-founded_by: "[[_Standards/WikiData/WD~Ludwig_II_of_Bavaria,44039]]"
-commissioned_by: "[[_Standards/WikiData/WD~Ludwig_II_of_Bavaria,44039]]"
+occupant: '[[_Standards/WikiData/WD~Ludwig_II_of_Bavaria,44039]]'
+founded_by: '[[_Standards/WikiData/WD~Ludwig_II_of_Bavaria,44039]]'
+commissioned_by: '[[_Standards/WikiData/WD~Ludwig_II_of_Bavaria,44039]]'
 official_website: https://www.neuschwanstein.com/
 native_label: Schloss Neuschwanstein
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20image%20of%20Neuschwanstein%20Castle%20%28view%20from%20the%20northwest%29.jpg
@@ -61,7 +62,7 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Neuschwanstein%2
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Neuschwanstein%2C%20Schwangau%2C%20Alemania%2C%202015-02-15%2C%20DD%2038.JPG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Schloss%20Neuschwanstein%20%2845%20mm%29.jpg
 described_at_URL: https://www.historisches-lexikon-bayerns.de/Lexikon/Schloss_Neuschwanstein
-P8189: "987007288069005171"
+P8189: 987007288069005171
 ISIL: DE-MUS-051612
 Wolfram_Language_entity_code: Entity["Castle", "Neuschwanstein"]
 Commons_category: Neuschwanstein Castle

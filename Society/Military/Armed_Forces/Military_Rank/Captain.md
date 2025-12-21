@@ -1,29 +1,30 @@
 ---
 aliases:
   - Hauptmann
+  - Captain
 has_id_wikidata: Q19100
 different_from:
-  - "[[_Standards/WikiData/WD~captain,163500]]"
-  - "[[_Standards/WikiData/WD~president,1255921]]"
-  - "[[_Standards/WikiData/WD~Captain_of_the_guard,5036881]]"
-  - "[[_Standards/WikiData/WD~Capitano,18429632]]"
-  - "[[_Standards/WikiData/WD~captain_lieutenant,23021506]]"
+  - '[[_Standards/WikiData/WD~captain,163500]]'
+  - '[[_Standards/WikiData/WD~president,1255921]]'
+  - '[[_Standards/WikiData/WD~Captain_of_the_guard,5036881]]'
+  - '[[_Standards/WikiData/WD~Capitano,18429632]]'
+  - '[[_Standards/WikiData/WD~captain_lieutenant,23021506]]'
 next_lower_rank:
-  - "[[_Standards/WikiData/WD~lieutenant,186024]]"
-  - "[[_Standards/WikiData/WD~senior_lieutenant,330459]]"
-next_higher_rank: "[[_Standards/WikiData/WD~major,983927]]"
+  - '[[_Standards/WikiData/WD~lieutenant,186024]]'
+  - '[[_Standards/WikiData/WD~senior_lieutenant,330459]]'
+next_higher_rank: '[[_Standards/WikiData/WD~major,983927]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~junior_officer,1156796]]"
+  - '[[_Standards/WikiData/WD~junior_officer,1156796]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~captain_lieutenant,1561545]]"
-  - "[[_Standards/WikiData/WD~captain,5036510]]"
-NATO_code_for_grade: "[[_Standards/WikiData/WD~OF_2,18536820]]"
+  - '[[_Standards/WikiData/WD~captain_lieutenant,1561545]]'
+  - '[[_Standards/WikiData/WD~captain,5036510]]'
+NATO_code_for_grade: '[[_Standards/WikiData/WD~OF_2,18536820]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 named_after:
-  - "[[_Standards/WikiData/WD~head,23640]]"
+  - '[[_Standards/WikiData/WD~head,23640]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~military_rank,56019]]"
+  - '[[_Standards/WikiData/WD~military_rank,56019]]'
 male_form_of_label:
   - capitaine
   - capitán

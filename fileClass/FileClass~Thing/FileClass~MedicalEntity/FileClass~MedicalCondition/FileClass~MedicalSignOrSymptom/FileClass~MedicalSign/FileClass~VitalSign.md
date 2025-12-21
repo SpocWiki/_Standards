@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~VitalSign
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/VitalSign
-- class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign/VitalSign
-- is_a_/VitalSign
-- schema-org/VitalSign
+  - class/VitalSign
+  - class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign/VitalSign
+  - is_a_/VitalSign
+  - schema-org/VitalSign
 tags:
-- class/FileClass
-- class/VitalSign
-- is_a_/VitalSign
-- class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign/VitalSign
+  - class/FileClass
+  - class/VitalSign
+  - is_a_/VitalSign
+  - class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign/VitalSign
 version: 2.0
 ---
 

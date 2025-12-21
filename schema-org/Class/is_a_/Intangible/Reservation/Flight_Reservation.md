@@ -4,20 +4,22 @@ aliases:
   - flight_reservation
   - FlightReservation
   - is_a_flight_reservation
+  - Flight_Reservation
+  - Flight Reservation
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - flight_reservation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_flight_reservation Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

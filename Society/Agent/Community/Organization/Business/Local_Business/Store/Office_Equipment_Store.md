@@ -4,20 +4,22 @@ aliases:
   - office_equipment_store
   - OfficeEquipmentStore
   - is_an_office_equipment_store
+  - Office_Equipment_Store
+  - Office Equipment Store
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - office_equipment_store
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_office_equipment_store Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

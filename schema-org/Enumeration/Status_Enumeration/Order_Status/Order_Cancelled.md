@@ -4,21 +4,23 @@ aliases:
   - order_cancelled
   - OrderCancelled
   - is_an_order_cancelled
+  - Order_Cancelled
+  - Order Cancelled
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: OrderStatus
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - order_cancelled
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_order_cancelled Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

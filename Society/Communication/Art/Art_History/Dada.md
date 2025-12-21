@@ -3,48 +3,49 @@ aliases:
   - Dad
   - Dadaism
   - Dadaismus
+  - Dada
 has_id_wikidata: Q6034
 inception: 1910-01-01T00:00:00Z
 significant_person:
-  - "[[_Standards/WikiData/WD~Johannes_Baader,67897]]"
-  - "[[_Standards/WikiData/WD~Hugo_Ball,70989]]"
-  - "[[_Standards/WikiData/WD~Emmy_Hennings,76815]]"
-  - "[[_Standards/WikiData/WD~Richard_Huelsenbeck,76853]]"
-  - "[[_Standards/WikiData/WD~Raoul_Hausmann,84503]]"
-  - "[[_Standards/WikiData/WD~George_Grosz,107194]]"
-  - "[[_Standards/WikiData/WD~Jean_Arp,153739]]"
-  - "[[_Standards/WikiData/WD~Max_Ernst,154842]]"
-  - "[[_Standards/WikiData/WD~Kurt_Schwitters,155158]]"
-  - "[[_Standards/WikiData/WD~Francis_Picabia,157321]]"
-  - "[[_Standards/WikiData/WD~John_Heartfield,168671]]"
-  - "[[_Standards/WikiData/WD~Hans_Richter,213597]]"
-  - "[[_Standards/WikiData/WD~Sophie_Taeuber_Arp,254395]]"
-  - "[[_Standards/WikiData/WD~Elsa_von_Freytag_Loringhoven,442841]]"
-  - "[[_Standards/WikiData/WD~Beatrice_Wood,459378]]"
-  - "[[_Standards/WikiData/WD~Hannah_Höch,463411]]"
-  - "[[_Standards/WikiData/WD~Marcel_Duchamp,5912]]"
-  - "[[_Standards/WikiData/WD~Tristan_Tzara,16409]]"
-  - "[[_Standards/WikiData/WD~Man_Ray,46139]]"
-subclass_of: "[[_Standards/WikiData/WD~avant_garde,102932]]"
+  - '[[_Standards/WikiData/WD~Johannes_Baader,67897]]'
+  - '[[_Standards/WikiData/WD~Hugo_Ball,70989]]'
+  - '[[_Standards/WikiData/WD~Emmy_Hennings,76815]]'
+  - '[[_Standards/WikiData/WD~Richard_Huelsenbeck,76853]]'
+  - '[[_Standards/WikiData/WD~Raoul_Hausmann,84503]]'
+  - '[[_Standards/WikiData/WD~George_Grosz,107194]]'
+  - '[[_Standards/WikiData/WD~Jean_Arp,153739]]'
+  - '[[_Standards/WikiData/WD~Max_Ernst,154842]]'
+  - '[[_Standards/WikiData/WD~Kurt_Schwitters,155158]]'
+  - '[[_Standards/WikiData/WD~Francis_Picabia,157321]]'
+  - '[[_Standards/WikiData/WD~John_Heartfield,168671]]'
+  - '[[_Standards/WikiData/WD~Hans_Richter,213597]]'
+  - '[[_Standards/WikiData/WD~Sophie_Taeuber_Arp,254395]]'
+  - '[[_Standards/WikiData/WD~Elsa_von_Freytag_Loringhoven,442841]]'
+  - '[[_Standards/WikiData/WD~Beatrice_Wood,459378]]'
+  - '[[_Standards/WikiData/WD~Hannah_Höch,463411]]'
+  - '[[_Standards/WikiData/WD~Marcel_Duchamp,5912]]'
+  - '[[_Standards/WikiData/WD~Tristan_Tzara,16409]]'
+  - '[[_Standards/WikiData/WD~Man_Ray,46139]]'
+subclass_of: '[[_Standards/WikiData/WD~avant_garde,102932]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~African_art,386302]]"
-  - "[[_Standards/WikiData/WD~anti_war_movement,794691]]"
-  - "[[_Standards/WikiData/WD~Ubu_roi,1215852]]"
-  - "[[_Standards/WikiData/WD~Parade,2051330]]"
-  - "[[_Standards/WikiData/WD~Cubism,42934]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~anti_art,610106]]"
-different_from: "[[_Standards/WikiData/WD~Neo_Dada,935292]]"
+  - '[[_Standards/WikiData/WD~African_art,386302]]'
+  - '[[_Standards/WikiData/WD~anti_war_movement,794691]]'
+  - '[[_Standards/WikiData/WD~Ubu_roi,1215852]]'
+  - '[[_Standards/WikiData/WD~Parade,2051330]]'
+  - '[[_Standards/WikiData/WD~Cubism,42934]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~anti_art,610106]]'
+different_from: '[[_Standards/WikiData/WD~Neo_Dada,935292]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~art_style,1792644]]"
-  - "[[_Standards/WikiData/WD~cultural_movement,2198855]]"
-  - "[[_Standards/WikiData/WD~literary_movement,3326717]]"
-described_by_source: "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Art+Feminism,24909800]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Dada_and_Surrealism,117030536]]"
+  - '[[_Standards/WikiData/WD~art_movement,968159]]'
+  - '[[_Standards/WikiData/WD~art_style,1792644]]'
+  - '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
+  - '[[_Standards/WikiData/WD~literary_movement,3326717]]'
+described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Dada_and_Surrealism,117030536]]'
 Stadtwiki_Dresden_article: Dada
 Commons_category: Dada
-OmegaWiki_Defined_Meaning: "1387060"
+OmegaWiki_Defined_Meaning: 1387060
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DadaGroup-1921.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34057%20%28tgl%29-Kunokuno-Dadaismo.wav
 described_at_URL:
@@ -55,7 +56,7 @@ described_at_URL:
   - https://www.thecollector.com/whats-the-difference-between-dadaism-and-surrealism/
 BHCL_UUID: 5737a9cb-d1a8-4ddd-8593-8b34578597de
 Provenio_UUID: 5c678b09-d9f2-43d6-9c77-cb8954079818
-Dewey_Decimal_Classification: "759.0662"
+Dewey_Decimal_Classification: 759.0662
 Wolfram_Language_entity_code: Entity["Word", "dadaism"]
 Krugosvet_article: kultura_i_obrazovanie/literatura/DADAIZM.html
 ---

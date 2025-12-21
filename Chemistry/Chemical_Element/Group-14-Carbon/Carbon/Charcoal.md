@@ -1,6 +1,7 @@
 ---
 aliases:
   - Holzkohle
+  - Charcoal
 has_id_wikidata: Q177463
 ---
 

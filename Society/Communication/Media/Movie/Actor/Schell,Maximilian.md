@@ -3,62 +3,63 @@ aliases:
   - Maximilian_Schell
   - Maximilian Schell
   - Schell
+  - Schell,Maximilian
 has_id_wikidata: Q153018
-municipal_affiliation_of_a_Swiss_national: "[[_Standards/WikiData/WD~Oberiberg,66552]]"
+municipal_affiliation_of_a_Swiss_national: '[[_Standards/WikiData/WD~Oberiberg,66552]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Maria_Schell,84365]]"
-  - "[[_Standards/WikiData/WD~Immy_Schell,86750]]"
-  - "[[_Standards/WikiData/WD~Carl_Schell,120875]]"
-mother: "[[_Standards/WikiData/WD~Margarethe_Noé_von_Nordberg,89765]]"
+  - '[[_Standards/WikiData/WD~Maria_Schell,84365]]'
+  - '[[_Standards/WikiData/WD~Immy_Schell,86750]]'
+  - '[[_Standards/WikiData/WD~Carl_Schell,120875]]'
+mother: '[[_Standards/WikiData/WD~Margarethe_Noé_von_Nordberg,89765]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
-  - "[[_Standards/WikiData/WD~Austrian_Decoration_for_Science_and_Art,306590]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]"
-  - "[[_Standards/WikiData/WD~Steiger_Award,821717]]"
-  - "[[_Standards/WikiData/WD~Bernhard_Wicki_Award,824667]]"
-  - "[[_Standards/WikiData/WD~Romy,873842]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Supporting_Actor_Series,_Miniseries_or_Television_Film,911797]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+  - '[[_Standards/WikiData/WD~Austrian_Decoration_for_Science_and_Art,306590]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]'
+  - '[[_Standards/WikiData/WD~Steiger_Award,821717]]'
+  - '[[_Standards/WikiData/WD~Bernhard_Wicki_Award,824667]]'
+  - '[[_Standards/WikiData/WD~Romy,873842]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Supporting_Actor_Series,_Miniseries_or_Television_Film,911797]]'
   - "[[_Standards/WikiData/WD~Officer's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905334]]"
-  - "[[_Standards/WikiData/WD~Mary_Pickford_Award,21595675]]"
+  - '[[_Standards/WikiData/WD~Mary_Pickford_Award,21595675]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Iva_Mihanović,106846]]"
-  - "[[_Standards/WikiData/WD~Natalya_Andrejchenko,449925]]"
+  - '[[_Standards/WikiData/WD~Iva_Mihanović,106846]]'
+  - '[[_Standards/WikiData/WD~Natalya_Andrejchenko,449925]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Zurich,206702]]"
-  - "[[_Standards/WikiData/WD~University_of_Basel,372608]]"
-  - "[[_Standards/WikiData/WD~Bern_Academy_of_Arts,1622152]]"
-  - "[[_Standards/WikiData/WD~Ludwig_Maximilians_Universität_München,55044]]"
-place_of_burial: "[[_Standards/WikiData/WD~Vienna_Central_Cemetery,240744]]"
-father: "[[_Standards/WikiData/WD~Hermann_Ferdinand_Schell,1611050]]"
+  - '[[_Standards/WikiData/WD~University_of_Zurich,206702]]'
+  - '[[_Standards/WikiData/WD~University_of_Basel,372608]]'
+  - '[[_Standards/WikiData/WD~Bern_Academy_of_Arts,1622152]]'
+  - '[[_Standards/WikiData/WD~Ludwig_Maximilians_Universität_München,55044]]'
+place_of_burial: '[[_Standards/WikiData/WD~Vienna_Central_Cemetery,240744]]'
+father: '[[_Standards/WikiData/WD~Hermann_Ferdinand_Schell,1611050]]'
 occupation:
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-given_name: "[[_Standards/WikiData/WD~Maximilian,18133228]]"
-family_name: "[[_Standards/WikiData/WD~Schell,21501731]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-place_of_death: "[[_Standards/WikiData/WD~Innsbruck,1735]]"
-place_of_birth: "[[_Standards/WikiData/WD~Vienna,1741]]"
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~director,3455803]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~Maximilian,18133228]]'
+family_name: '[[_Standards/WikiData/WD~Schell,21501731]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+place_of_death: '[[_Standards/WikiData/WD~Innsbruck,1735]]'
+place_of_birth: '[[_Standards/WikiData/WD~Vienna,1741]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-cause_of_death: "[[_Standards/WikiData/WD~pneumonia,12192]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_locations: "[[_Standards/WikiData/WD~Switzerland,39]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~German,188]]'
+cause_of_death: '[[_Standards/WikiData/WD~pneumonia,12192]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_locations: '[[_Standards/WikiData/WD~Switzerland,39]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Switzerland,39]]"
-  - "[[_Standards/WikiData/WD~Austria,40]]"
+  - '[[_Standards/WikiData/WD~Switzerland,39]]'
+  - '[[_Standards/WikiData/WD~Austria,40]]'
 number_of_children: 1
 Commons_gallery: Maximilian Schell
 Commons_category: Maximilian Schell

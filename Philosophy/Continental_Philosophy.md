@@ -1,12 +1,14 @@
 ---
 aliases:
   - Continental philosophy
+  - Continental_Philosophy
+  - Continental Philosophy
 has_id_wikidata: Q59104
 instance_of:
-  - "[[_Standards/WikiData/WD~school_of_thought,1387659]]"
-  - "[[_Standards/WikiData/WD~philosophical_movement,2915955]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Continental_philosophy,7648315]]"
-subclass_of: "[[_Standards/WikiData/WD~philosophy,5891]]"
+  - '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
+  - '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Continental_philosophy,7648315]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
 Commons_category: Continental philosophy
 PhilPapers_topic: continental-philosophy
 subreddit: continentaltheory

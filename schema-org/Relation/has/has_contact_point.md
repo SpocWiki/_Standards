@@ -2,12 +2,13 @@
 aliases:
   - has contact-point
   - has_contact_point
+  - has contact point
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - point
   - contact_point
   - contactPoint
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_contact_point
 publish: true
-publishDate:
+publishDate: ''
 supersedes: contactPoints
 tags:
   - class/Relation

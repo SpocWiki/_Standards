@@ -1,7 +1,9 @@
 ---
 aliases:
-- "Facebook, Inc"
-- TheFacebook
+  - Facebook, Inc
+  - TheFacebook
+  - Meta_Platforms
+  - Meta Platforms
 ---
 
 #has_/created :: [[Meta_Platforms/Facebook]] 

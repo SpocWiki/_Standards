@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DonateAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 fields:
-- id: HrxhZd
-  name: Recipient
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Audience')"
-  type: MultiFile
-  path: ''
+  - id: HrxhZd
+    name: Recipient
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DonateAction
-- class/Thing/Action/TradeAction/DonateAction
-- is_a_/DonateAction
-- schema-org/DonateAction
+  - class/DonateAction
+  - class/Thing/Action/TradeAction/DonateAction
+  - is_a_/DonateAction
+  - schema-org/DonateAction
 tags:
-- class/FileClass
-- class/DonateAction
-- is_a_/DonateAction
-- class/Thing/Action/TradeAction/DonateAction
+  - class/FileClass
+  - class/DonateAction
+  - is_a_/DonateAction
+  - class/Thing/Action/TradeAction/DonateAction
 version: 2.0
 ---
 

@@ -2,19 +2,20 @@
 aliases:
   - Fahrbücherei
   - mobile library
+  - Bookmobile
 has_id_wikidata: Q720920
 subclass_of:
-  - "[[_Standards/WikiData/WD~land_vehicle,1301433]]"
+  - '[[_Standards/WikiData/WD~land_vehicle,1301433]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~type_of_library,25397890]]"
-  - "[[_Standards/WikiData/WD~bus_type,56887437]]"
-described_by_source: "[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]"
+  - '[[_Standards/WikiData/WD~type_of_library,25397890]]'
+  - '[[_Standards/WikiData/WD~bus_type,56887437]]'
+described_by_source: '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
 has_use:
-  - "[[_Standards/WikiData/WD~library,7075]]"
+  - '[[_Standards/WikiData/WD~library,7075]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1321%20%28spa%29-Centenoyespelta-biblioteca%20m%C3%B3vil.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/WarringtonPerambulatingLibrary.jpg
-Dewey_Decimal_Classification: "027.4"
-P8189: "987007283230205171"
+Dewey_Decimal_Classification: 027.4
+P8189: 987007283230205171
 Commons_category: Bookmobiles
 OpenStreetMap_tag_or_key: Tag:amenity=mobile_library
 ---

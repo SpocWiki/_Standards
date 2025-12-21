@@ -4,22 +4,24 @@ aliases:
   - biomechnical_class
   - biomechnicalClass
   - has_text_of_biomechnical_class
+  - has_biomechnical_class
+  - has biomechnical class
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - biomechnical
   - class
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_biomechnical_class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

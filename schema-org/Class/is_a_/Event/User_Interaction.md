@@ -4,20 +4,22 @@ aliases:
   - user_interaction
   - UserInteraction
   - is_a_user_interaction
+  - User_Interaction
+  - User Interaction
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - user_interaction
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_user_interaction Class
 publish: true
-publishDate:
+publishDate: ''
 superseded_by: InteractionCounter
 tags:
   - class/Class

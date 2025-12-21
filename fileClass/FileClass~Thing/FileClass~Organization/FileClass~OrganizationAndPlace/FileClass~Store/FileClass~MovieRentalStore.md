@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MovieRentalStore
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MovieRentalStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MovieRentalStore
-- is_a_/MovieRentalStore
-- schema-org/MovieRentalStore
+  - class/MovieRentalStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MovieRentalStore
+  - is_a_/MovieRentalStore
+  - schema-org/MovieRentalStore
 tags:
-- class/FileClass
-- class/MovieRentalStore
-- is_a_/MovieRentalStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MovieRentalStore
+  - class/FileClass
+  - class/MovieRentalStore
+  - is_a_/MovieRentalStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MovieRentalStore
 version: 2.0
 ---
 

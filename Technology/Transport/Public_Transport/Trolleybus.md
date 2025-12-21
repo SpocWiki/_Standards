@@ -6,6 +6,7 @@ aliases:
   - trackless trolley
   - trackless tram
   - road tram
+  - Trolleybus
 has_id_wikidata: Q5639
 subclass_of:
   - "[[_Standards/WikiData/WD~electric_bus,926499]]"
@@ -20,8 +21,8 @@ instance_of: "[[_Standards/WikiData/WD~bus_type,56887437]]"
 has_part_s_: "[[_Standards/WikiData/WD~driving_school_trolleybus,130614245]]"
 service_life: 25
 Commons_gallery: Trolleybus
-Nomenclature_for_Museum_Cataloging: "12191"
-OmegaWiki_Defined_Meaning: "423982"
+Nomenclature_for_Museum_Cataloging: 12191
+OmegaWiki_Defined_Meaning: 423982
 OpenStreetMap_key: trolleybus
 native_label: trolleybus
 Commons_category: Trolleybuses
@@ -36,11 +37,11 @@ Common_Procurement_Vocabulary_code: 34622300-6
 MCN_code: 8702.40.10
 Wolfram_Language_entity_code: Entity["Concept", "TracklessTrolley::78g52"]
 Dewey_Decimal_Classification:
-  - "629.2293"
-  - "388.413223"
+  - 629.2293
+  - 388.413223
 ---
 
-# [[Trolleybus]] 
+# [[Trolleybus]] 🚎 
 
 #is_/same_as :: [[../../../WikiData/WD~Trolleybus,5639|WD~Trolleybus,5639]]  
 

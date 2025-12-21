@@ -71,7 +71,7 @@ Unicode_character:
 U_S_National_Archives_Identifier: 10643595
 ---
 
-# [[Telephone]] 
+# [[Telephone]] ☎ 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Telephone,11035|WD~Telephone,11035]] 
 

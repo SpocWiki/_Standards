@@ -1,32 +1,34 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MoveAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action
 fields:
-- id: wbJ4su
-  name: FromLocation
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place')"
-  type: MultiFile
-  path: ''
-- id: xyktki
-  name: ToLocation
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place')"
-  type: MultiFile
-  path: ''
+  - id: wbJ4su
+    name: FromLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ''
+  - id: xyktki
+    name: ToLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MoveAction
-- class/Thing/Action/MoveAction
-- is_a_/MoveAction
-- schema-org/MoveAction
+  - class/MoveAction
+  - class/Thing/Action/MoveAction
+  - is_a_/MoveAction
+  - schema-org/MoveAction
 tags:
-- class/FileClass
-- class/MoveAction
-- is_a_/MoveAction
-- class/Thing/Action/MoveAction
+  - class/FileClass
+  - class/MoveAction
+  - is_a_/MoveAction
+  - class/Thing/Action/MoveAction
 version: 2.0
 ---
 

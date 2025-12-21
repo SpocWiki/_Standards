@@ -3,47 +3,48 @@ aliases:
   - work
   - labor
   - labour
+  - Work
 has_id_wikidata: Q268378
 opposite_of:
-  - "[[_Standards/WikiData/WD~leisure,180910]]"
-  - "[[_Standards/WikiData/WD~recreation,184872]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~job_activity,192581]]"
-has_part_s_: "[[_Standards/WikiData/WD~task,759676]]"
-has_characteristic: "[[_Standards/WikiData/WD~occupational_stress,815298]]"
+  - '[[_Standards/WikiData/WD~leisure,180910]]'
+  - '[[_Standards/WikiData/WD~recreation,184872]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~job_activity,192581]]'
+has_part_s_: '[[_Standards/WikiData/WD~task,759676]]'
+has_characteristic: '[[_Standards/WikiData/WD~occupational_stress,815298]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Gran_Enciclopèdia_Catalana,63456001]]"
-  - "[[_Standards/WikiData/WD~Gender_Glossar,106508758]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Gran_Enciclopèdia_Catalana,63456001]]'
+  - '[[_Standards/WikiData/WD~Gender_Glossar,106508758]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Economics,7212331]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Law,8486941]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Sociology,10858392]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Anthropology,14942896]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Organized_Labour,15885004]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Ethics,18811666]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Occupations,20704229]]"
-  - "[[_Standards/WikiData/WD~Wikiproject_Social_and_political_philosophy,21830621]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Economics,7212331]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Law,8486941]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Sociology,10858392]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Anthropology,14942896]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Organized_Labour,15885004]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Ethics,18811666]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Occupations,20704229]]'
+  - '[[_Standards/WikiData/WD~Wikiproject_Social_and_political_philosophy,21830621]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~work_psychology,6096488]]"
-  - "[[_Standards/WikiData/WD~sociology_of_work,15783860]]"
-  - "[[_Standards/WikiData/WD~labour_economics,28161]]"
-  - "[[_Standards/WikiData/WD~political_science,36442]]"
-subclass_of: "[[../../../WikiData/WD~economic_activity,8187769]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Labor,13107434]]"
-different_from: "[[_Standards/WikiData/WD~Praca,16787591]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Work,18691609]]"
+  - '[[_Standards/WikiData/WD~work_psychology,6096488]]'
+  - '[[_Standards/WikiData/WD~sociology_of_work,15783860]]'
+  - '[[_Standards/WikiData/WD~labour_economics,28161]]'
+  - '[[_Standards/WikiData/WD~political_science,36442]]'
+subclass_of: '[[../../../WikiData/WD~economic_activity,8187769]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Labor,13107434]]'
+different_from: '[[_Standards/WikiData/WD~Praca,16787591]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Work,18691609]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~economic_concept,29028649]]"
-  - "[[_Standards/WikiData/WD~sociological_concept,33104129]]"
-Dewey_Decimal_Classification: "331"
-OmegaWiki_Defined_Meaning: "2053"
+  - '[[_Standards/WikiData/WD~economic_concept,29028649]]'
+  - '[[_Standards/WikiData/WD~sociological_concept,33104129]]'
+Dewey_Decimal_Classification: 331
+OmegaWiki_Defined_Meaning: 2053
 DPLA_subject_term: Labor
 Commons_category: Labour
 GitHub_topic:

@@ -1,9 +1,12 @@
 ---
+aliases:
+  - Atomic_clock
+  - Atomic clock
 has_id_wikidata: Q227467
-described_by_source: "[[_Standards/WikiData/WD~Ukrainian_Soviet_Encyclopedia,2478929]]"
-different_from: "[[_Standards/WikiData/WD~nuclear_clock,16040784]]"
-subclass_of: "[[_Standards/WikiData/WD~timepiece,376]]"
-OmegaWiki_Defined_Meaning: "1295741"
+described_by_source: '[[_Standards/WikiData/WD~Ukrainian_Soviet_Encyclopedia,2478929]]'
+different_from: '[[_Standards/WikiData/WD~nuclear_clock,16040784]]'
+subclass_of: '[[_Standards/WikiData/WD~timepiece,376]]'
+OmegaWiki_Defined_Meaning: 1295741
 time_of_discovery_or_invention: 1955-06-03T00:00:00Z
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/17jila003%203d%20strontium%20atomic%20clock.jpg
@@ -13,7 +16,7 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ytterbium%20Optical%20Lattice%20Clock%20purple%20and%20green%20light.png
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Clock%20accuracy.svg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/atomic-clocks
-P8189: "987007295870005171"
+P8189: 987007295870005171
 Commons_category: Atomic clocks
 Wolfram_Language_entity_code: Entity["MeasurementDevice", "ClockAtomic"]
 ---

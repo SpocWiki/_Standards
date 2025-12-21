@@ -1,21 +1,22 @@
 ---
 aliases:
   - Kies
+  - Gravel
 has_id_wikidata: Q133833
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-different_from: "[[_Standards/WikiData/WD~crushed_stone,1262699]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+different_from: '[[_Standards/WikiData/WD~crushed_stone,1262699]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~dry_bulk_cargo,2259909]]"
-  - "[[_Standards/WikiData/WD~clastic_sediment,12372934]]"
-OmegaWiki_Defined_Meaning: "1680"
+  - '[[_Standards/WikiData/WD~dry_bulk_cargo,2259909]]'
+  - '[[_Standards/WikiData/WD~clastic_sediment,12372934]]'
+OmegaWiki_Defined_Meaning: 1680
 Iconclass_notation: 25D22
-UNSPSC_Code: "11111611"
+UNSPSC_Code: 11111611
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gravel035%2016K%20Color.png
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000018
-GS1_GPC_code: "10006785"
-Common_Procurement_Vocabulary_code: "14212120"
+GS1_GPC_code: 10006785
+Common_Procurement_Vocabulary_code: 14212120
 Commons_category: Gravel
 Library_of_Congress_Classification: TA455.G73
 OpenStreetMap_tag_or_key: Tag:resource=gravel

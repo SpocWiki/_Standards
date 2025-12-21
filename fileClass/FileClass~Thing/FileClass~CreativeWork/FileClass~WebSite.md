@@ -1,25 +1,27 @@
 ---
-excludes: 
+aliases:
+  - FileClass~WebSite
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: wFkbrk
-  name: Issn
-  options: {}
-  type: Input
-  path: ''
+  - id: wFkbrk
+    name: Issn
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/WebSite
-- class/Thing/CreativeWork/WebSite
-- is_a_/WebSite
-- schema-org/WebSite
+  - class/WebSite
+  - class/Thing/CreativeWork/WebSite
+  - is_a_/WebSite
+  - schema-org/WebSite
 tags:
-- class/FileClass
-- class/WebSite
-- is_a_/WebSite
-- class/Thing/CreativeWork/WebSite
+  - class/FileClass
+  - class/WebSite
+  - is_a_/WebSite
+  - class/Thing/CreativeWork/WebSite
 version: 2.0
 ---
 

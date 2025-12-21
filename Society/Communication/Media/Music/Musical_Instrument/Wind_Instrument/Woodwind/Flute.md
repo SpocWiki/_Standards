@@ -1,6 +1,7 @@
 ---
 aliases:
   - Flöte
+  - Flute
 has_id_wikidata: Q11405
 Amazon_com_browse_node:
   - 11972061
@@ -35,7 +36,7 @@ Unicode_character: 🪈
 used_by: "[[_Standards/WikiData/WD~flautist,12902372]]"
 ---
 
-# [[Flute]] 
+# [[Flute]] 🪈 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Flute,11405|WD~Flute,11405]] 
 

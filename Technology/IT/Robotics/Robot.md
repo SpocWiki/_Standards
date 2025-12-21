@@ -1,6 +1,7 @@
 ---
 aliases:
   - Roboter
+  - Robot
 has_id_wikidata: Q11012
 Baidu_Tieba_name: 机器人
 Commons_category: Robots
@@ -34,7 +35,7 @@ Unicode_character: 🤖
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Dockvorgang%20M%C3%A4hroboter%20GARDENA%20R70Li.webm
 ---
 
-# [[Robot]] 
+# [[Robot]] 🤖 
 
 #is_/same_as :: [[../../../WikiData/WD~Robot,11012|WD~Robot,11012]] 
 

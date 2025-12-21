@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ritter
+  - Knight
 has_id_wikidata: Q102083
 ---
 

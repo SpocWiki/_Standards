@@ -3,23 +3,24 @@ aliases:
   - has fuel-type
   - fuelType
   - has_fuel_type
+  - has fuel type
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - fuel
   - type
   - fuel_type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_fuel_type
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

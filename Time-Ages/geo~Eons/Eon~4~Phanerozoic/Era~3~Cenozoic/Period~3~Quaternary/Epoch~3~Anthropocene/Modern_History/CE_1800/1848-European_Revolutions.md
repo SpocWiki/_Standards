@@ -1,8 +1,10 @@
 ---
 aliases:
   - revolutions of 1848
-  - springtime of the peoples 
+  - springtime of the peoples
   - springtime of nations
+  - 1848-European_Revolutions
+  - 1848-European Revolutions
 has_id_wikidata: Q3588
 ---
 

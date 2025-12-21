@@ -4,21 +4,23 @@ aliases:
   - gtin8
   - gtin8
   - has_text_of_gtin8
+  - has_gtin8
+  - has gtin8
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - gtin8
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_gtin8
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

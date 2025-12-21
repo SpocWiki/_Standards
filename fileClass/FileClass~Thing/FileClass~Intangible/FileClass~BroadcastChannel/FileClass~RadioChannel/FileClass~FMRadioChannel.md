@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~FMRadioChannel
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/FMRadioChannel
-- class/Thing/Intangible/BroadcastChannel/RadioChannel/FMRadioChannel
-- is_a_/FMRadioChannel
-- schema-org/FMRadioChannel
+  - class/FMRadioChannel
+  - class/Thing/Intangible/BroadcastChannel/RadioChannel/FMRadioChannel
+  - is_a_/FMRadioChannel
+  - schema-org/FMRadioChannel
 tags:
-- class/FileClass
-- class/FMRadioChannel
-- is_a_/FMRadioChannel
-- class/Thing/Intangible/BroadcastChannel/RadioChannel/FMRadioChannel
+  - class/FileClass
+  - class/FMRadioChannel
+  - is_a_/FMRadioChannel
+  - class/Thing/Intangible/BroadcastChannel/RadioChannel/FMRadioChannel
 version: 2.0
 ---
 

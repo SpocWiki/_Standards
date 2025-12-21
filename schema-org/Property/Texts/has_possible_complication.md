@@ -4,22 +4,24 @@ aliases:
   - possible_complication
   - possibleComplication
   - has_text_of_possible_complication
+  - has_possible_complication
+  - has possible complication
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - possible
   - complication
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_possible_complication
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

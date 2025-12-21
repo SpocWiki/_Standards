@@ -3,99 +3,100 @@ aliases:
   - Hungarian
   - Hungarian Language
   - Magyar
+  - Lang-hun
 has_id_wikidata: Q9067
 has_grammatical_case:
-  - "[[_Standards/WikiData/WD~nominative_case,131105]]"
-  - "[[_Standards/WikiData/WD~dative_case,145599]]"
-  - "[[_Standards/WikiData/WD~accusative_case,146078]]"
-  - "[[_Standards/WikiData/WD~ablative_case,156986]]"
-  - "[[_Standards/WikiData/WD~superessive_case,222355]]"
-  - "[[_Standards/WikiData/WD~adessive_case,281954]]"
-  - "[[_Standards/WikiData/WD~inessive_case,282031]]"
-  - "[[_Standards/WikiData/WD~elative_case,394253]]"
-  - "[[_Standards/WikiData/WD~illative_case,474668]]"
-  - "[[_Standards/WikiData/WD~distributive_case,492457]]"
-  - "[[_Standards/WikiData/WD~allative_case,655020]]"
-  - "[[_Standards/WikiData/WD~terminative_case,747019]]"
-  - "[[_Standards/WikiData/WD~translative_case,950170]]"
-  - "[[_Standards/WikiData/WD~delative_case,1183901]]"
-  - "[[_Standards/WikiData/WD~temporal_distributive_case,1811147]]"
-  - "[[_Standards/WikiData/WD~multiplicative_case,1862702]]"
-  - "[[_Standards/WikiData/WD~sublative_case,2120615]]"
-  - "[[_Standards/WikiData/WD~temporal_case,3235219]]"
-  - "[[_Standards/WikiData/WD~sociative_case,3773161]]"
-  - "[[_Standards/WikiData/WD~formative_case,3827688]]"
-  - "[[_Standards/WikiData/WD~essive_modal_case,3827703]]"
-  - "[[_Standards/WikiData/WD~instrumental_comitative_case,4897153]]"
-  - "[[_Standards/WikiData/WD~causal_final_case,11870653]]"
-  - "[[_Standards/WikiData/WD~formal_case,18069356]]"
-subclass_of: "[[_Standards/WikiData/WD~Ugric,156631]]"
+  - '[[_Standards/WikiData/WD~nominative_case,131105]]'
+  - '[[_Standards/WikiData/WD~dative_case,145599]]'
+  - '[[_Standards/WikiData/WD~accusative_case,146078]]'
+  - '[[_Standards/WikiData/WD~ablative_case,156986]]'
+  - '[[_Standards/WikiData/WD~superessive_case,222355]]'
+  - '[[_Standards/WikiData/WD~adessive_case,281954]]'
+  - '[[_Standards/WikiData/WD~inessive_case,282031]]'
+  - '[[_Standards/WikiData/WD~elative_case,394253]]'
+  - '[[_Standards/WikiData/WD~illative_case,474668]]'
+  - '[[_Standards/WikiData/WD~distributive_case,492457]]'
+  - '[[_Standards/WikiData/WD~allative_case,655020]]'
+  - '[[_Standards/WikiData/WD~terminative_case,747019]]'
+  - '[[_Standards/WikiData/WD~translative_case,950170]]'
+  - '[[_Standards/WikiData/WD~delative_case,1183901]]'
+  - '[[_Standards/WikiData/WD~temporal_distributive_case,1811147]]'
+  - '[[_Standards/WikiData/WD~multiplicative_case,1862702]]'
+  - '[[_Standards/WikiData/WD~sublative_case,2120615]]'
+  - '[[_Standards/WikiData/WD~temporal_case,3235219]]'
+  - '[[_Standards/WikiData/WD~sociative_case,3773161]]'
+  - '[[_Standards/WikiData/WD~formative_case,3827688]]'
+  - '[[_Standards/WikiData/WD~essive_modal_case,3827703]]'
+  - '[[_Standards/WikiData/WD~instrumental_comitative_case,4897153]]'
+  - '[[_Standards/WikiData/WD~causal_final_case,11870653]]'
+  - '[[_Standards/WikiData/WD~formal_case,18069356]]'
+subclass_of: '[[_Standards/WikiData/WD~Ugric,156631]]'
 indigenous_to:
-  - "[[_Standards/WikiData/WD~Zakarpattia_Oblast,170213]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Slovakia,214]]"
-  - "[[_Standards/WikiData/WD~Transylvania,39473]]"
-  - "[[_Standards/WikiData/WD~Burgenland,43210]]"
-  - "[[_Standards/WikiData/WD~Vojvodina,44749]]"
+  - '[[_Standards/WikiData/WD~Zakarpattia_Oblast,170213]]'
+  - '[[_Standards/WikiData/WD~Hungary,28]]'
+  - '[[_Standards/WikiData/WD~Slovakia,214]]'
+  - '[[_Standards/WikiData/WD~Transylvania,39473]]'
+  - '[[_Standards/WikiData/WD~Burgenland,43210]]'
+  - '[[_Standards/WikiData/WD~Vojvodina,44749]]'
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
-  - "[[_Standards/WikiData/WD~nominative_accusative_language,178435]]"
-  - "[[_Standards/WikiData/WD~stress,181767]]"
-  - "[[_Standards/WikiData/WD~subject_verb_object,651641]]"
-  - "[[_Standards/WikiData/WD~syllabic_language,7888569]]"
-  - "[[_Standards/WikiData/WD~free_order_language,33129605]]"
-  - "[[_Standards/WikiData/WD~synthetic_language,48612]]"
+  - '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
+  - '[[_Standards/WikiData/WD~nominative_accusative_language,178435]]'
+  - '[[_Standards/WikiData/WD~stress,181767]]'
+  - '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
+  - '[[_Standards/WikiData/WD~syllabic_language,7888569]]'
+  - '[[_Standards/WikiData/WD~free_order_language,33129605]]'
+  - '[[_Standards/WikiData/WD~synthetic_language,48612]]'
 has_tense:
-  - "[[_Standards/WikiData/WD~present_tense,192613]]"
-  - "[[_Standards/WikiData/WD~past_tense,1994301]]"
+  - '[[_Standards/WikiData/WD~present_tense,192613]]'
+  - '[[_Standards/WikiData/WD~past_tense,1994301]]'
 writing_system:
-  - "[[_Standards/WikiData/WD~Old_Hungarian,446224]]"
-  - "[[_Standards/WikiData/WD~Hungarian_alphabet,935857]]"
-  - "[[_Standards/WikiData/WD~Latin_script,8229]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Hungarian_language,469384]]"
+  - '[[_Standards/WikiData/WD~Old_Hungarian,446224]]'
+  - '[[_Standards/WikiData/WD~Hungarian_alphabet,935857]]'
+  - '[[_Standards/WikiData/WD~Latin_script,8229]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Hungarian_language,469384]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 has_grammatical_mood:
-  - "[[_Standards/WikiData/WD~conditional,625581]]"
-  - "[[_Standards/WikiData/WD~indicative,682111]]"
-  - "[[_Standards/WikiData/WD~imperative,22716]]"
-has_characteristic: "[[_Standards/WikiData/WD~agreement,829903]]"
+  - '[[_Standards/WikiData/WD~conditional,625581]]'
+  - '[[_Standards/WikiData/WD~indicative,682111]]'
+  - '[[_Standards/WikiData/WD~imperative,22716]]'
+has_characteristic: '[[_Standards/WikiData/WD~agreement,829903]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
-  - "[[_Standards/WikiData/WD~language,34770]]"
+  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
+  - '[[_Standards/WikiData/WD~natural_language,33742]]'
+  - '[[_Standards/WikiData/WD~language,34770]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~Hungarian_grammar,1400534]]"
-  - "[[_Standards/WikiData/WD~Hungarian_language_studies,113884146]]"
-  - "[[_Standards/WikiData/WD~Hungarian_linguistics,133260951]]"
-language_regulatory_body: "[[_Standards/WikiData/WD~Hungarian_Research_Centre_for_Linguistics,7315098]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]"
-UNESCO_language_status: "[[_Standards/WikiData/WD~1_safe,20672086]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~1_National,29051546]]"
+  - '[[_Standards/WikiData/WD~Hungarian_grammar,1400534]]'
+  - '[[_Standards/WikiData/WD~Hungarian_language_studies,113884146]]'
+  - '[[_Standards/WikiData/WD~Hungarian_linguistics,133260951]]'
+language_regulatory_body: '[[_Standards/WikiData/WD~Hungarian_Research_Centre_for_Linguistics,7315098]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546]]'
 has_grammatical_person:
-  - "[[_Standards/WikiData/WD~first_person_singular,51929218]]"
-  - "[[_Standards/WikiData/WD~first_person_plural,51929290]]"
-  - "[[_Standards/WikiData/WD~second_person_singular,51929369]]"
-  - "[[_Standards/WikiData/WD~second_person_plural,51929403]]"
-  - "[[_Standards/WikiData/WD~third_person_singular,51929447]]"
-  - "[[_Standards/WikiData/WD~third_person_plural,51929517]]"
+  - '[[_Standards/WikiData/WD~first_person_singular,51929218]]'
+  - '[[_Standards/WikiData/WD~first_person_plural,51929290]]'
+  - '[[_Standards/WikiData/WD~second_person_singular,51929369]]'
+  - '[[_Standards/WikiData/WD~second_person_plural,51929403]]'
+  - '[[_Standards/WikiData/WD~third_person_singular,51929447]]'
+  - '[[_Standards/WikiData/WD~third_person_plural,51929517]]'
 country:
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Austria,40]]"
-  - "[[_Standards/WikiData/WD~Slovakia,214]]"
-  - "[[_Standards/WikiData/WD~Slovenia,215]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
-  - "[[_Standards/WikiData/WD~Romania,218]]"
-  - "[[_Standards/WikiData/WD~Croatia,224]]"
+  - '[[_Standards/WikiData/WD~Serbia,403]]'
+  - '[[_Standards/WikiData/WD~Hungary,28]]'
+  - '[[_Standards/WikiData/WD~Austria,40]]'
+  - '[[_Standards/WikiData/WD~Slovakia,214]]'
+  - '[[_Standards/WikiData/WD~Slovenia,215]]'
+  - '[[_Standards/WikiData/WD~Ukraine,212]]'
+  - '[[_Standards/WikiData/WD~Romania,218]]'
+  - '[[_Standards/WikiData/WD~Croatia,224]]'
 number_of_speakers_writers_or_signers: 12600000
-IAB_code: "1092"
+IAB_code: 1092
 ABS_ASCL_2011_code:
-  - "33"
-  - "3301"
-OmegaWiki_Defined_Meaning: "6128"
+  - 33
+  - 3301
+OmegaWiki_Defined_Meaning: 6128
 Wikimedia_language_code: hu
 IETF_language_tag: hu
 ISO_639_1_code: hu

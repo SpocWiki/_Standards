@@ -4,21 +4,23 @@ aliases:
   - demo_album
   - DemoAlbum
   - is_a_demo_album
+  - Demo_Album
+  - Demo Album
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MusicAlbumProductionType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - demo_album
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_demo_album Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

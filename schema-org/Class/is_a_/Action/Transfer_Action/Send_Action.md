@@ -4,20 +4,22 @@ aliases:
   - send_action
   - SendAction
   - is_a_send_action
+  - Send_Action
+  - Send Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - send_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_send_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

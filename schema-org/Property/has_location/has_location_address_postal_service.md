@@ -4,21 +4,22 @@ aliases:
   - service_postal_address
   - servicePostalAddress
   - has_location_address_postal_service
+  - has location address postal service
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - service_postal_address
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_address_postal_service
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

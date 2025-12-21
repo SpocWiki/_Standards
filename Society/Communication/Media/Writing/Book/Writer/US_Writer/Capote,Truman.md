@@ -2,50 +2,51 @@
 aliases:
   - Truman Garcia Capote
   - Truman Streckfus Persons
+  - Capote,Truman
 has_id_wikidata: Q134180
-subject_has_role: "[[_Standards/WikiData/WD~eponym,204335]]"
+subject_has_role: '[[_Standards/WikiData/WD~eponym,204335]]'
 occupation:
-  - "[[_Standards/WikiData/WD~playwright,214917]]"
-  - "[[_Standards/WikiData/WD~journalist,1930187]]"
-  - "[[_Standards/WikiData/WD~novelist,6625963]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-genre: "[[_Standards/WikiData/WD~Southern_Gothic,276709]]"
+  - '[[_Standards/WikiData/WD~playwright,214917]]'
+  - '[[_Standards/WikiData/WD~journalist,1930187]]'
+  - '[[_Standards/WikiData/WD~novelist,6625963]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+genre: '[[_Standards/WikiData/WD~Southern_Gothic,276709]]'
 member_of:
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]"
-  - "[[_Standards/WikiData/WD~Bavarian_Academy_of_Fine_Arts,812155]]"
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]'
+  - '[[_Standards/WikiData/WD~Bavarian_Academy_of_Fine_Arts,812155]]'
 notable_work:
   - "[[_Standards/WikiData/WD~Breakfast_at_Tiffany's,849930]]"
-  - "[[_Standards/WikiData/WD~In_Cold_Blood,1142887]]"
-cause_of_death: "[[_Standards/WikiData/WD~liver_failure,970208]]"
-place_of_burial: "[[_Standards/WikiData/WD~Westwood_Village_Memorial_Park_Cemetery,1358639]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+  - '[[_Standards/WikiData/WD~In_Cold_Blood,1142887]]'
+cause_of_death: '[[_Standards/WikiData/WD~liver_failure,970208]]'
+place_of_burial: '[[_Standards/WikiData/WD~Westwood_Village_Memorial_Park_Cemetery,1358639]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Dwight_School,5318230]]"
-  - "[[_Standards/WikiData/WD~Greenwich_High_School,5604850]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Dwight_School,5318230]]'
+  - '[[_Standards/WikiData/WD~Greenwich_High_School,5604850]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]"
-  - "[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]"
-family_name: "[[_Standards/WikiData/WD~Capote,36876743]]"
-given_name: "[[_Standards/WikiData/WD~Truman,55560131]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
+  - '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
+  - '[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]'
+family_name: '[[_Standards/WikiData/WD~Capote,36876743]]'
+given_name: '[[_Standards/WikiData/WD~Truman,55560131]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~creative_and_professional_writing,113209507]]"
-  - "[[_Standards/WikiData/WD~film_screenwriting,115156386]]"
-  - "[[_Standards/WikiData/WD~film_acting,115160932]]"
-  - "[[_Standards/WikiData/WD~journalism,11030]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-award_received: "[[_Standards/WikiData/WD~O._Henry_Award,19339]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_death: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
-place_of_birth: "[[_Standards/WikiData/WD~New_Orleans,34404]]"
+  - '[[_Standards/WikiData/WD~creative_and_professional_writing,113209507]]'
+  - '[[_Standards/WikiData/WD~film_screenwriting,115156386]]'
+  - '[[_Standards/WikiData/WD~film_acting,115160932]]'
+  - '[[_Standards/WikiData/WD~journalism,11030]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+award_received: '[[_Standards/WikiData/WD~O._Henry_Award,19339]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_death: '[[_Standards/WikiData/WD~Los_Angeles,65]]'
+place_of_birth: '[[_Standards/WikiData/WD~New_Orleans,34404]]'
 Commons_category: Truman Capote
 Commons_gallery: Truman Capote
 Europeana_entity: agent/base/61309
@@ -63,10 +64,10 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Truman%20Capo
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Truman%20Capote%20Historical%20Marker%20in%20Monroeville%2C%20Alabama.JPG
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Truman%20Capote%20signature.svg
 ISNI:
-  - "0000000121326091"
-  - "0000000368641755"
-IPI_name_number: "00005108336"
-P1015: "90053007"
+  - 0000000121326091
+  - 0000000368641755
+IPI_name_number: 00005108336
+P1015: 90053007
 ---
 
 # [[Capote,Truman]] 

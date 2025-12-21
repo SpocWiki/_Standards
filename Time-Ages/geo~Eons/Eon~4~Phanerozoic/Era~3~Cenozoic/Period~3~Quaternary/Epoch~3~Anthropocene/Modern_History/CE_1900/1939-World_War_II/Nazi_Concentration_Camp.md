@@ -2,10 +2,12 @@
 aliases:
   - Nazi concentration camp
   - Konzentrations Lager
+  - Nazi_Concentration_Camp
+  - Nazi Concentration Camp
 has_id_wikidata: Q328468
 subclass_of:
-  - "[[_Standards/WikiData/WD~concentration_camp,152081]]"
-  - "[[_Standards/WikiData/WD~total_institution,1752649]]"
+  - '[[_Standards/WikiData/WD~concentration_camp,152081]]'
+  - '[[_Standards/WikiData/WD~total_institution,1752649]]'
 Commons_category: Nazi concentration camps
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NaziConcentrationCamp.gif
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/WW2%20Holocaust%20Europe%20map-de.png

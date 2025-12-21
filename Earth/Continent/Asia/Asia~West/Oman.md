@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Oman
+  - Omán
+  - عمان
+  - 阿曼
+  - Оман
+  - the Sultanate of Oman
+  - la Sultanía de Omán
+has_id_wikidata: Q842
 different_from: "[[_Standards/WikiData/WD~Muscat_and_Oman,157734]]"
 member_of:
   - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
@@ -280,7 +289,6 @@ location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Oman%20adm%20lo
 official_website: https://www.oman.om/
 country_calling_code: 968
 Dewey_Decimal_Classification: 2--5353
-has_id_wikidata: Q842
 location:
   - 23.48
   - 58.55
@@ -297,20 +305,12 @@ cssclasses:
   - Country
 publish: true
 title: Oman
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Oman
-  - Omán
-  - عمان
-  - 阿曼
-  - Оман
-  - the Sultanate of Oman
-  - la Sultanía de Omán
+publishDate: ""
+expiryDate: ""
 Languages:
   - ar-OM
   - en

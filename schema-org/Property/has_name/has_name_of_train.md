@@ -4,22 +4,23 @@ aliases:
   - name_of_train
   - trainName
   - has_name_of_train
+  - has name of train
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - train
   - name
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_name_of_train
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

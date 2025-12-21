@@ -1,15 +1,16 @@
 ---
 aliases:
   - Kabarett
+  - Cabaret
 has_id_wikidata: Q131183
 subclass_of:
-  - "[[_Standards/WikiData/WD~tavern,154250]]"
-  - "[[_Standards/WikiData/WD~event_venue,18674739]]"
-has_part_s_: "[[_Standards/WikiData/WD~cabaret_performer,15214752]]"
+  - '[[_Standards/WikiData/WD~tavern,154250]]'
+  - '[[_Standards/WikiData/WD~event_venue,18674739]]'
+has_part_s_: '[[_Standards/WikiData/WD~cabaret_performer,15214752]]'
 different_from:
-  - "[[_Standards/WikiData/WD~cabaret,27976507]]"
-  - "[[_Standards/WikiData/WD~Q125962796,125962796]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - '[[_Standards/WikiData/WD~cabaret,27976507]]'
+  - '[[_Standards/WikiData/WD~Q125962796,125962796]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 Commons_gallery: Cabaret
 Commons_category: Cabaret
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Caf%C3%A9%20des%20aveugles.jpg

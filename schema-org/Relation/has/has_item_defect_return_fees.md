@@ -3,12 +3,13 @@ aliases:
   - has item-defect-return-fees
   - itemDefectReturnFees
   - has_item_defect_return_fees
+  - has item defect return fees
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +18,11 @@ keywords:
   - defect
   - return
   - fees
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_item_defect_return_fees
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

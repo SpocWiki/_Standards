@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~BodyOfWater
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform
 fields: []
 icon: waves
 limit: 9
 mapWithTag: false
 tagNames:
-- class/BodyOfWater
-- class/Thing/Place/Landform/BodyOfWater
-- is_a_/BodyOfWater
-- schema-org/BodyOfWater
+  - class/BodyOfWater
+  - class/Thing/Place/Landform/BodyOfWater
+  - is_a_/BodyOfWater
+  - schema-org/BodyOfWater
 tags:
-- class/FileClass
-- class/BodyOfWater
-- is_a_/BodyOfWater
-- class/Thing/Place/Landform/BodyOfWater
+  - class/FileClass
+  - class/BodyOfWater
+  - is_a_/BodyOfWater
+  - class/Thing/Place/Landform/BodyOfWater
 version: 2.0
 ---
 

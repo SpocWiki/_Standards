@@ -4,20 +4,21 @@ aliases:
   - temporal_coverage
   - temporalCoverage
   - has_time_of_temporal_coverage
+  - has time of temporal coverage
 confidential: public
 cssclasses:
   - Predicate
   - Date_Time
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
-layout:
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 publish: true
-publishDate:
+publishDate: ''
 supersedes: datasetTimeInterval
 tags:
   - class/Property

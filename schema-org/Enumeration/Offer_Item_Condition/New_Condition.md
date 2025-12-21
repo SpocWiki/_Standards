@@ -4,21 +4,23 @@ aliases:
   - new_condition
   - NewCondition
   - is_a_new_condition
+  - New_Condition
+  - New Condition
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: OfferItemCondition
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - new_condition
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_new_condition Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

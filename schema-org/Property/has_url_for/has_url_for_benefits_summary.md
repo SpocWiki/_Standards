@@ -4,21 +4,23 @@ aliases:
   - benefits_summary_url
   - benefitsSummaryUrl
   - has_url_for_benefits_summary_url
+  - has_url_for_benefits_summary
+  - has url for benefits summary
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - benefits_summary_url
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_benefits_summary_url
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

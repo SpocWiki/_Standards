@@ -1,26 +1,26 @@
 ---
 aliases:
-- "Millard Fillmore"
-- Fillmore,Millard
-- 
-confidential: private
-cssclasses: "private note"
-draft: true
-expiryDate: 
+  - Millard Fillmore
+  - Fillmore,Millard
+  - ''
 has_id_wikidata: Q12306
+confidential: private
+cssclasses: private note
+draft: true
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Fillmore,Millard
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Fillmore,Millard
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Fillmore,Millard
-- 
+  - Fillmore,Millard
+  - ''
 title: Fillmore,Millard
 type: private_note
 ---

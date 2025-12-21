@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~FoodService
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/FoodService
-- class/Thing/Intangible/Service/FoodService
-- is_a_/FoodService
-- schema-org/FoodService
+  - class/FoodService
+  - class/Thing/Intangible/Service/FoodService
+  - is_a_/FoodService
+  - schema-org/FoodService
 tags:
-- class/FileClass
-- class/FoodService
-- is_a_/FoodService
-- class/Thing/Intangible/Service/FoodService
+  - class/FileClass
+  - class/FoodService
+  - is_a_/FoodService
+  - class/Thing/Intangible/Service/FoodService
 version: 2.0
 ---
 

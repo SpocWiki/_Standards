@@ -4,20 +4,22 @@ aliases:
   - research_project
   - ResearchProject
   - is_a_research_project
+  - Research_Project
+  - Research Project
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - research_project
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_research_project Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

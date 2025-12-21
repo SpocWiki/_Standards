@@ -1,25 +1,27 @@
 ---
-excludes: 
+aliases:
+  - FileClass~HowToItem
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem
 fields:
-- id: VXQmqR
-  name: RequiredQuantity
-  options: {}
-  type: Number
-  path: ''
+  - id: VXQmqR
+    name: RequiredQuantity
+    options: {}
+    type: Number
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/HowToItem
-- class/Thing/Intangible/ListItem/HowToItem
-- is_a_/HowToItem
-- schema-org/HowToItem
+  - class/HowToItem
+  - class/Thing/Intangible/ListItem/HowToItem
+  - is_a_/HowToItem
+  - schema-org/HowToItem
 tags:
-- class/FileClass
-- class/HowToItem
-- is_a_/HowToItem
-- class/Thing/Intangible/ListItem/HowToItem
+  - class/FileClass
+  - class/HowToItem
+  - is_a_/HowToItem
+  - class/Thing/Intangible/ListItem/HowToItem
 version: 2.0
 ---
 

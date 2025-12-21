@@ -5,6 +5,8 @@ aliases:
   - orthophosphoric acid
   - monophosphoric acid
   - phosphoric(V) acid
+  - Phosphoric_Acid
+  - Phosphoric Acid
 has_id_wikidata: Q184782
 chemical_formula: H₃PO₄
 canonical_SMILES: OP(=O)(O)O
@@ -17,33 +19,33 @@ SPLASH:
   - splash10-03di-9000000000-801101cccfd6c25271d4
 RTECS_number: TB6300000
 found_in_taxon:
-  - "[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]"
-  - "[[_Standards/WikiData/WD~Iris,156901]]"
-  - "[[_Standards/WikiData/WD~Arabidopsis_thaliana,158695]]"
-  - "[[_Standards/WikiData/WD~Triticum_aestivum,161098]]"
-  - "[[_Standards/WikiData/WD~Panax_ginseng,182881]]"
-  - "[[_Standards/WikiData/WD~Murraya_paniculata,238591]]"
-  - "[[_Standards/WikiData/WD~Angelica_gigas,1038017]]"
-  - "[[_Standards/WikiData/WD~Phycomyces_blakesleeanus,15632547]]"
-  - "[[_Standards/WikiData/WD~tomato_plant,23501]]"
-  - "[[_Standards/WikiData/WD~Ruta_graveolens,25062]]"
-  - "[[_Standards/WikiData/WD~Cannabis_sativa,26726]]"
-  - "[[_Standards/WikiData/WD~Apium_graveolens,28298]]"
+  - '[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]'
+  - '[[_Standards/WikiData/WD~Iris,156901]]'
+  - '[[_Standards/WikiData/WD~Arabidopsis_thaliana,158695]]'
+  - '[[_Standards/WikiData/WD~Triticum_aestivum,161098]]'
+  - '[[_Standards/WikiData/WD~Panax_ginseng,182881]]'
+  - '[[_Standards/WikiData/WD~Murraya_paniculata,238591]]'
+  - '[[_Standards/WikiData/WD~Angelica_gigas,1038017]]'
+  - '[[_Standards/WikiData/WD~Phycomyces_blakesleeanus,15632547]]'
+  - '[[_Standards/WikiData/WD~tomato_plant,23501]]'
+  - '[[_Standards/WikiData/WD~Ruta_graveolens,25062]]'
+  - '[[_Standards/WikiData/WD~Cannabis_sativa,26726]]'
+  - '[[_Standards/WikiData/WD~Apium_graveolens,28298]]'
 has_use:
-  - "[[_Standards/WikiData/WD~food_additive,189567]]"
-  - "[[_Standards/WikiData/WD~acidity_regulator,898753]]"
-  - "[[_Standards/WikiData/WD~synergist,98637450]]"
-different_from: "[[_Standards/WikiData/WD~phosphorous_acid,407743]]"
-subject_has_role: "[[_Standards/WikiData/WD~dental_material,3040056]]"
+  - '[[_Standards/WikiData/WD~food_additive,189567]]'
+  - '[[_Standards/WikiData/WD~acidity_regulator,898753]]'
+  - '[[_Standards/WikiData/WD~synergist,98637450]]'
+different_from: '[[_Standards/WikiData/WD~phosphorous_acid,407743]]'
+subject_has_role: '[[_Standards/WikiData/WD~dental_material,3040056]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~triprotic_acid,7840341]]"
-  - "[[_Standards/WikiData/WD~inorganic_phosphorus_oxoacid,77941351]]"
-associated_hazard: "[[_Standards/WikiData/WD~phosphoric_acid_exposure,21175053]]"
-has_effect: "[[_Standards/WikiData/WD~phosphoric_acid_exposure,21175053]]"
-conjugate_base: "[[_Standards/WikiData/WD~dihydrogenphosphate_ion,27093789]]"
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
-has_part_s_: "[[_Standards/WikiData/WD~hydrogen,556]]"
+  - '[[_Standards/WikiData/WD~triprotic_acid,7840341]]'
+  - '[[_Standards/WikiData/WD~inorganic_phosphorus_oxoacid,77941351]]'
+associated_hazard: '[[_Standards/WikiData/WD~phosphoric_acid_exposure,21175053]]'
+has_effect: '[[_Standards/WikiData/WD~phosphoric_acid_exposure,21175053]]'
+conjugate_base: '[[_Standards/WikiData/WD~dihydrogenphosphate_ion,27093789]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+has_part_s_: '[[_Standards/WikiData/WD~hydrogen,556]]'
 immediately_dangerous_to_life_or_health: 1000
 time_weighted_average_exposure_limit: 1
 melting_point:
@@ -59,21 +61,21 @@ pKa:
 boiling_point:
   - 407
   - 415
-ZVG_number: "1800"
+ZVG_number: 1800
 PubChem_CID:
-  - "1004"
-  - "22486802"
-CosIng_number: "36546"
-Gmelin_number: "2000"
-UN_number: "1805"
+  - 1004
+  - 22486802
+CosIng_number: 36546
+Gmelin_number: 2000
+UN_number: 1805
 UNII: E4GA8884NN
 mass: 97.977
-RxNorm_CUI: "8259"
-NSC_number: "80804"
+RxNorm_CUI: 8259
+NSC_number: 80804
 InChIKey: NBIIXXVUZAFLBC-UHFFFAOYSA-N
 InChI: InChI=1S/H3O4P/c1-5(2,3)4/h(H3,1,2,3,4)
 E_number: E338
-Reaxys_registry_number: "1921286"
+Reaxys_registry_number: 1921286
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Phosphors%C3%A4ure%20-%20Phosphoric%20acid.svg
 EC_number: 231-633-2
 Common_Procurement_Vocabulary_code: 24311420-7

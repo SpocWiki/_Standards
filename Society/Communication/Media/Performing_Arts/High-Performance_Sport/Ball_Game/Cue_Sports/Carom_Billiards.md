@@ -1,8 +1,10 @@
 ---
 aliases:
   - Carom billiards
-  - French billiards 
+  - French billiards
   - carambole billiards
+  - Carom_Billiards
+  - Carom Billiards
 ---
 
 

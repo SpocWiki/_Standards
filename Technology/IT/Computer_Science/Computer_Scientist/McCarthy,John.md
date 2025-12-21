@@ -3,6 +3,7 @@ aliases:
   - John_McCarthy
   - John McCarthy
   - McCarthy
+  - McCarthy,John
 has_id_wikidata: Q92739
 ---
 # [[McCarthy,John]]

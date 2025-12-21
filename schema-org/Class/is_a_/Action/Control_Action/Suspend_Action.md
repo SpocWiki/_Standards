@@ -4,20 +4,22 @@ aliases:
   - suspend_action
   - SuspendAction
   - is_a_suspend_action
+  - Suspend_Action
+  - Suspend Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - suspend_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_suspend_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

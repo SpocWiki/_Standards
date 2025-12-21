@@ -1,26 +1,27 @@
 ---
 aliases:
   - Eurasian Economic Union
+  - Eurasian_Economic_Union
 has_id_wikidata: Q4173083
-follows: "[[_Standards/WikiData/WD~Eurasian_Economic_Community,473996]]"
-different_from: "[[_Standards/WikiData/WD~Eurasian_Union,474548]]"
+follows: '[[_Standards/WikiData/WD~Eurasian_Economic_Community,473996]]'
+different_from: '[[_Standards/WikiData/WD~Eurasian_Union,474548]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~international_organization,484652]]"
-  - "[[_Standards/WikiData/WD~economic_integration,729438]]"
-  - "[[_Standards/WikiData/WD~economic_union,3623811]]"
-partnership_with: "[[_Standards/WikiData/WD~Conference_on_Interaction_and_Confidence_Building_Measures_in_Asia,605501]]"
+  - '[[_Standards/WikiData/WD~international_organization,484652]]'
+  - '[[_Standards/WikiData/WD~economic_integration,729438]]'
+  - '[[_Standards/WikiData/WD~economic_union,3623811]]'
+partnership_with: '[[_Standards/WikiData/WD~Conference_on_Interaction_and_Confidence_Building_Measures_in_Asia,605501]]'
 based_on:
-  - "[[_Standards/WikiData/WD~Eurasian_Economic_Space,2628395]]"
-  - "[[_Standards/WikiData/WD~Eurasian_Customs_Union,2663713]]"
-flag: "[[_Standards/WikiData/WD~Flag_of_the_Eurasian_Economic_Union,19794891]]"
+  - '[[_Standards/WikiData/WD~Eurasian_Economic_Space,2628395]]'
+  - '[[_Standards/WikiData/WD~Eurasian_Customs_Union,2663713]]'
+flag: '[[_Standards/WikiData/WD~Flag_of_the_Eurasian_Economic_Union,19794891]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Armenia,399]]"
-  - "[[_Standards/WikiData/WD~Kyrgyzstan,813]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Belarus,184]]"
-  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Moscow,649]]"
-official_observer_status_in_organization: "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
+  - '[[_Standards/WikiData/WD~Armenia,399]]'
+  - '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
+  - '[[_Standards/WikiData/WD~Russia,159]]'
+  - '[[_Standards/WikiData/WD~Belarus,184]]'
+  - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Moscow,649]]'
+official_observer_status_in_organization: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
 short_name:
   - EAEU
   - EBE

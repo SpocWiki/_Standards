@@ -2,28 +2,29 @@
 aliases:
   - Billboard (magazine)
   - Billboard magazine
+  - Billboard(magazine)
 has_id_wikidata: Q485240
-main_subject: "[[_Standards/WikiData/WD~entertainment,173799]]"
+main_subject: '[[_Standards/WikiData/WD~entertainment,173799]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~periodical,1002697]]"
-  - "[[_Standards/WikiData/WD~publishing_company,2085381]]"
-  - "[[_Standards/WikiData/WD~weekly_magazine,12340140]]"
+  - '[[_Standards/WikiData/WD~periodical,1002697]]'
+  - '[[_Standards/WikiData/WD~publishing_company,2085381]]'
+  - '[[_Standards/WikiData/WD~weekly_magazine,12340140]]'
 founded_by:
-  - "[[_Standards/WikiData/WD~Luminate,1067041]]"
-  - "[[_Standards/WikiData/WD~Eldridge,29097721]]"
-  - "[[_Standards/WikiData/WD~William_Henry_Donaldson,116785477]]"
-newspaper_format: "[[_Standards/WikiData/WD~tabloid,1449648]]"
-publisher: "[[_Standards/WikiData/WD~Penske_Media_Corporation,7119727]]"
-has_part_s_: "[[_Standards/WikiData/WD~Billboard_charts,19754079]]"
-organizational_divisions: "[[_Standards/WikiData/WD~billboard.biz,48889637]]"
+  - '[[_Standards/WikiData/WD~Luminate,1067041]]'
+  - '[[_Standards/WikiData/WD~Eldridge,29097721]]'
+  - '[[_Standards/WikiData/WD~William_Henry_Donaldson,116785477]]'
+newspaper_format: '[[_Standards/WikiData/WD~tabloid,1449648]]'
+publisher: '[[_Standards/WikiData/WD~Penske_Media_Corporation,7119727]]'
+has_part_s_: '[[_Standards/WikiData/WD~Billboard_charts,19754079]]'
+organizational_divisions: '[[_Standards/WikiData/WD~billboard.biz,48889637]]'
 start_time: 1894-01-01T00:00:00Z
 inception: 1894-01-01T00:00:00Z
-field_of_work: "[[_Standards/WikiData/WD~music,638]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
+field_of_work: '[[_Standards/WikiData/WD~music,638]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
 Wikidata_property: Billboard artist ID
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_locations: "[[_Standards/WikiData/WD~New_York_City,60]]"
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+headquarters_locations: '[[_Standards/WikiData/WD~New_York_City,60]]'
 publication_interval: 1
 social_media_followers:
   - 4030000

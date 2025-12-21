@@ -1,34 +1,36 @@
 ---
-bookmarksGroups: 
-excludes: 
-extends: 
-favoriteView: 
+aliases:
+  - FileClass~Scenario
+bookmarksGroups: ''
+excludes: ''
+extends: ''
+favoriteView: ''
 fields:
-- name: Arrange
-  type: Input
-  options: {}
-  path: ''
-  id: ax0HWS
-- name: Act
-  type: Input
-  options: {}
-  path: ''
-  id: K8zGI5
-- name: Assert
-  type: Input
-  options: {}
-  path: ''
-  id: hwBk2m
+  - name: Arrange
+    type: Input
+    options: {}
+    path: ''
+    id: ax0HWS
+  - name: Act
+    type: Input
+    options: {}
+    path: ''
+    id: K8zGI5
+  - name: Assert
+    type: Input
+    options: {}
+    path: ''
+    id: hwBk2m
 fieldsOrder:
-- ax0HWS
-- K8zGI5
-- hwBk2m
-filesPaths: 
+  - ax0HWS
+  - K8zGI5
+  - hwBk2m
+filesPaths: ''
 icon: package
 limit: 9
 mapWithTag: false
 savedViews: []
-tagNames: 
+tagNames: ''
 version: 2.8
 ---
 

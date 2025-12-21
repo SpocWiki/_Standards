@@ -4,21 +4,23 @@ aliases:
   - soundtrack_album
   - SoundtrackAlbum
   - is_a_soundtrack_album
+  - Soundtrack_Album
+  - Soundtrack Album
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MusicAlbumProductionType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - soundtrack_album
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_soundtrack_album Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

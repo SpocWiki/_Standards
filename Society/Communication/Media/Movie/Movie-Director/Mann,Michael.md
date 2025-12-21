@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Michael Mann"
+  - Michael Mann
+  - Mann,Michael
 ---
 
 #is_/different_from :: [[Bay,Michael]] 

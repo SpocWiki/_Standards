@@ -4,21 +4,23 @@ aliases:
   - group_boarding_policy
   - GroupBoardingPolicy
   - is_a_group_boarding_policy
+  - Group_Boarding_Policy
+  - Group Boarding Policy
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: BoardingPolicyType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - group_boarding_policy
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_group_boarding_policy Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

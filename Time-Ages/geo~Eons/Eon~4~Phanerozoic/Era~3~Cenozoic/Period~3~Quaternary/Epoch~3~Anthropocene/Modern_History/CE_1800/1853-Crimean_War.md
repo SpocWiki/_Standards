@@ -1,44 +1,46 @@
 ---
 aliases:
   - Krimkrieg
+  - 1853-Crimean_War
+  - 1853-Crimean War
 has_id_wikidata: Q254106
 participant:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Sardinia,165154]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Greece,209065]]"
-  - "[[_Standards/WikiData/WD~Circassia,1408764]]"
-  - "[[_Standards/WikiData/WD~Caucasian_Imamate,2088141]]"
-  - "[[_Standards/WikiData/WD~Principality_of_Mingrelia,2907860]]"
-  - "[[_Standards/WikiData/WD~British_Empire,8680]]"
-  - "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
-  - "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_Sardinia,165154]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Greece,209065]]'
+  - '[[_Standards/WikiData/WD~Circassia,1408764]]'
+  - '[[_Standards/WikiData/WD~Caucasian_Imamate,2088141]]'
+  - '[[_Standards/WikiData/WD~Principality_of_Mingrelia,2907860]]'
+  - '[[_Standards/WikiData/WD~British_Empire,8680]]'
+  - '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
+  - '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 end_time: 1856-02-01T00:00:00Z
 start_time: 1853-10-01T00:00:00Z
 location:
-  - "[[_Standards/WikiData/WD~Baltic_Sea,545]]"
-  - "[[_Standards/WikiData/WD~Kamchatka_Peninsula,993]]"
-  - "[[_Standards/WikiData/WD~Crimea,7835]]"
-  - "[[_Standards/WikiData/WD~Caucasus,18869]]"
-  - "[[_Standards/WikiData/WD~Balkans,23522]]"
-  - "[[_Standards/WikiData/WD~Black_Sea,166]]"
-  - "[[_Standards/WikiData/WD~White_Sea,44133]]"
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+  - '[[_Standards/WikiData/WD~Baltic_Sea,545]]'
+  - '[[_Standards/WikiData/WD~Kamchatka_Peninsula,993]]'
+  - '[[_Standards/WikiData/WD~Crimea,7835]]'
+  - '[[_Standards/WikiData/WD~Caucasus,18869]]'
+  - '[[_Standards/WikiData/WD~Balkans,23522]]'
+  - '[[_Standards/WikiData/WD~Black_Sea,166]]'
+  - '[[_Standards/WikiData/WD~White_Sea,44133]]'
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
 BHCL_UUID: dcd1b2bb-9621-47ca-bb03-e89c72dee4ce
 locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Crimean-war-1853-56.png
   - http://commons.wikimedia.org/wiki/Special:FilePath/The%20Armenian%20Front%20During%20the%20Crimean%20War%2C%201853-56.gif
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Crimean%20War%2C%201854-1856%20Q69851.jpg
-U_S_National_Archives_Identifier: "10675853"
+U_S_National_Archives_Identifier: 10675853
 UMLS_CUI: C1449766
 Commons_gallery: Crimean War
 Commons_category: Crimean War

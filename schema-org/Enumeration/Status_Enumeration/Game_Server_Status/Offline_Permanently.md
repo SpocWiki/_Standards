@@ -4,21 +4,23 @@ aliases:
   - offline_permanently
   - OfflinePermanently
   - is_an_offline_permanently
+  - Offline_Permanently
+  - Offline Permanently
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: GameServerStatus
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - offline_permanently
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_offline_permanently Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

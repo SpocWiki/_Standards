@@ -4,23 +4,25 @@ aliases:
   - country_of_assembly
   - countryOfAssembly
   - has_text_of_country_of_assembly
+  - has_country_of_assembly
+  - has country of assembly
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - country
   - of
   - assembly
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_country_of_assembly
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

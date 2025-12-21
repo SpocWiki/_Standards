@@ -1,8 +1,8 @@
 ---
 aliases:
-- Carnegie,Dale
-- "Dale Carnegie"
-- "Dale Carnagey"
+  - Carnegie,Dale
+  - Dale Carnegie
+  - Dale Carnagey
 ---
 
 # [[Carnegie,Dale]] 

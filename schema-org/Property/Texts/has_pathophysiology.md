@@ -4,21 +4,23 @@ aliases:
   - pathophysiology
   - pathophysiology
   - has_text_of_pathophysiology
+  - has_pathophysiology
+  - has pathophysiology
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - pathophysiology
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_pathophysiology
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

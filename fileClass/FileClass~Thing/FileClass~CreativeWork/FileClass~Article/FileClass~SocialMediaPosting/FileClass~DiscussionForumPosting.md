@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DiscussionForumPosting
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DiscussionForumPosting
-- class/Thing/CreativeWork/Article/SocialMediaPosting/DiscussionForumPosting
-- is_a_/DiscussionForumPosting
-- schema-org/DiscussionForumPosting
+  - class/DiscussionForumPosting
+  - class/Thing/CreativeWork/Article/SocialMediaPosting/DiscussionForumPosting
+  - is_a_/DiscussionForumPosting
+  - schema-org/DiscussionForumPosting
 tags:
-- class/FileClass
-- class/DiscussionForumPosting
-- is_a_/DiscussionForumPosting
-- class/Thing/CreativeWork/Article/SocialMediaPosting/DiscussionForumPosting
+  - class/FileClass
+  - class/DiscussionForumPosting
+  - is_a_/DiscussionForumPosting
+  - class/Thing/CreativeWork/Article/SocialMediaPosting/DiscussionForumPosting
 version: 2.0
 ---
 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Tower of London
+  - Tower_of_London
 has_id_wikidata: Q62378
 ---
 

@@ -1,16 +1,18 @@
 ---
 aliases:
   - Green politics
-  - ecopolitics 
+  - ecopolitics
+  - Green_Politics
+  - Green Politics
 has_id_wikidata: Q1661415
-different_from: "[[_Standards/WikiData/WD~environmental_policy,919526]]"
-subclass_of: "[[_Standards/WikiData/WD~school_of_thought,1387659]]"
-facet_of: "[[_Standards/WikiData/WD~environmentalism,2855609]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_green_politics,7112651]]"
+different_from: '[[_Standards/WikiData/WD~environmental_policy,919526]]'
+subclass_of: '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
+facet_of: '[[_Standards/WikiData/WD~environmentalism,2855609]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_green_politics,7112651]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Green_politics,10797464]]"
-  - "[[_Standards/WikiData/WD~Template_Green_politics_sidebar,11862832]]"
-instance_of: "[[_Standards/WikiData/WD~political_ideology,12909644]]"
+  - '[[_Standards/WikiData/WD~Template_Green_politics,10797464]]'
+  - '[[_Standards/WikiData/WD~Template_Green_politics_sidebar,11862832]]'
+instance_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
 Mastodon_instance_URL: https://mastodon.green
 Commons_category: Green politics
 ---

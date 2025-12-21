@@ -4,20 +4,22 @@ aliases:
   - event_status_type
   - EventStatusType
   - is_an_event_status_type
+  - Event_Status_Type
+  - Event Status Type
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - event_status_type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_event_status_type Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

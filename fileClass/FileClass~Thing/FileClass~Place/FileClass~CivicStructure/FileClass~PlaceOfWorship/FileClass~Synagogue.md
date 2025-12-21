@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Synagogue
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/Synagogue
-- class/Thing/Place/CivicStructure/PlaceOfWorship/Synagogue
-- is_a_/Synagogue
-- schema-org/Synagogue
+  - class/Synagogue
+  - class/Thing/Place/CivicStructure/PlaceOfWorship/Synagogue
+  - is_a_/Synagogue
+  - schema-org/Synagogue
 tags:
-- class/FileClass
-- class/Synagogue
-- is_a_/Synagogue
-- class/Thing/Place/CivicStructure/PlaceOfWorship/Synagogue
+  - class/FileClass
+  - class/Synagogue
+  - is_a_/Synagogue
+  - class/Thing/Place/CivicStructure/PlaceOfWorship/Synagogue
 version: 2.0
 ---
 

@@ -1,28 +1,29 @@
 ---
 aliases:
-- additional-type
-- additional_type
-- additionalType
-- has_url_for_additional_type
-- "rdf:type"
-- rdf~Type
+  - additional-type
+  - additional_type
+  - additionalType
+  - has_url_for_additional_type
+  - rdf:type
+  - rdf~Type
+  - has url for additional type
 confidential: public
 cssclasses:
-- Predicate
-- Url
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- additional_type
-layout: 
-license: "CC BY-SA 4.0"
+  - additional_type
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_url_for_additional_type
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- schema-org/Property/Url
+  - schema-org/Property/Url
 title: has_url_for_additional_type
 type: Predi_Url
 ---

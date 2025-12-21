@@ -1,16 +1,17 @@
 ---
 aliases:
   - Kunstlied
+  - Lied
 has_id_wikidata: Q216860
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~musical_form,862597]]"
-  - "[[_Standards/WikiData/WD~song_type,107356781]]"
+  - '[[_Standards/WikiData/WD~music_genre,188451]]'
+  - '[[_Standards/WikiData/WD~musical_form,862597]]'
+  - '[[_Standards/WikiData/WD~song_type,107356781]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~romance,599510]]"
-  - "[[_Standards/WikiData/WD~Minnelied,1366983]]"
-subclass_of: "[[_Standards/WikiData/WD~art_song,4797274]]"
-time_period: "[[_Standards/WikiData/WD~Classical_period,17723]]"
+  - '[[_Standards/WikiData/WD~romance,599510]]'
+  - '[[_Standards/WikiData/WD~Minnelied,1366983]]'
+subclass_of: '[[_Standards/WikiData/WD~art_song,4797274]]'
+time_period: '[[_Standards/WikiData/WD~Classical_period,17723]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dichterliebe.png
 inception: 1810-01-01T00:00:00Z
 Commons_category: Lieder

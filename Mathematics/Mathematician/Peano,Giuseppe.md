@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Giuseppe Peano"
+  - Giuseppe Peano
+  - Peano,Giuseppe
 ---
 
 #has_/time_/started :: 1858-08-27 

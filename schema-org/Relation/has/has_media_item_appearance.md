@@ -3,12 +3,13 @@ aliases:
   - has media-item-appearance
   - mediaItemAppearance
   - has_media_item_appearance
+  - has media item appearance
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - media
   - item
   - appearance
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_media_item_appearance
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

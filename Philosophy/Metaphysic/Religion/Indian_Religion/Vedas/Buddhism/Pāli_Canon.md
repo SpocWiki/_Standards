@@ -1,18 +1,19 @@
 ---
 aliases:
   - Pāli_Canon
+  - Pāli Canon
 has_id_wikidata: Q215685
 instance_of:
-  - "[[_Standards/WikiData/WD~religious_text,179461]]"
-  - "[[_Standards/WikiData/WD~Buddhist_canon,41795401]]"
+  - '[[_Standards/WikiData/WD~religious_text,179461]]'
+  - '[[_Standards/WikiData/WD~Buddhist_canon,41795401]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Abhidhamma_Piṭaka,878092]]"
-  - "[[_Standards/WikiData/WD~nikāya,1700962]]"
-  - "[[_Standards/WikiData/WD~aṭṭhakathā,2986204]]"
-  - "[[_Standards/WikiData/WD~Tika,7630946]]"
-  - "[[_Standards/WikiData/WD~Vinaya_Pitaka,18156487]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_PaliCanon,10741789]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~Pali,36727]]"
+  - '[[_Standards/WikiData/WD~Abhidhamma_Piṭaka,878092]]'
+  - '[[_Standards/WikiData/WD~nikāya,1700962]]'
+  - '[[_Standards/WikiData/WD~aṭṭhakathā,2986204]]'
+  - '[[_Standards/WikiData/WD~Tika,7630946]]'
+  - '[[_Standards/WikiData/WD~Vinaya_Pitaka,18156487]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_PaliCanon,10741789]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Pali,36727]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tipitaka1.jpg
 Stack_Exchange_tag: https://buddhism.stackexchange.com/tags/pali-canon
 Commons_category: Pali Canon

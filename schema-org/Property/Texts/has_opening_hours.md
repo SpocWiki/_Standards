@@ -1,31 +1,33 @@
 ---
 aliases:
-- opening-hours
-- opening_hours
-- openingHours
-- has_text_of_opening_hours
-- "schema:openingHours"
-- "dbo:openingHours"
-- "wdt:P862"
+  - opening-hours
+  - opening_hours
+  - openingHours
+  - has_text_of_opening_hours
+  - schema:openingHours
+  - dbo:openingHours
+  - wdt:P862
+  - has_opening_hours
+  - has opening hours
 confidential: public
 cssclasses:
-- Predicate
-- Text
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- opening
-- hours
-layout: 
-license: "CC BY-SA 4.0"
+  - opening
+  - hours
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_text_of_opening_hours
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_opening_hours
 type: Pred_Text
 ---

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Aphrodite
 has_id_wikidata: Q35500
 ---
 

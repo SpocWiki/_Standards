@@ -1,33 +1,34 @@
 ---
 aliases:
   - Ultraviolet_radiation
+  - Ultraviolet
 has_id_wikidata: Q11391
-followed_by: "[[_Standards/WikiData/WD~visible_spectrum,76299]]"
+followed_by: '[[_Standards/WikiData/WD~visible_spectrum,76299]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~cataract,127724]]"
-  - "[[_Standards/WikiData/WD~skin_cancer,192102]]"
-  - "[[_Standards/WikiData/WD~sunburn,649717]]"
-part_of: "[[_Standards/WikiData/WD~electromagnetic_spectrum,133139]]"
-different_from: "[[_Standards/WikiData/WD~UV,226367]]"
+  - '[[_Standards/WikiData/WD~cataract,127724]]'
+  - '[[_Standards/WikiData/WD~skin_cancer,192102]]'
+  - '[[_Standards/WikiData/WD~sunburn,649717]]'
+part_of: '[[_Standards/WikiData/WD~electromagnetic_spectrum,133139]]'
+different_from: '[[_Standards/WikiData/WD~UV,226367]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~extreme_ultraviolet,1385457]]"
-  - "[[_Standards/WikiData/WD~ultraviolet_A,22914691]]"
-  - "[[_Standards/WikiData/WD~ultraviolet_C,22914694]]"
-  - "[[_Standards/WikiData/WD~ultraviolet_B,22914692]]"
+  - '[[_Standards/WikiData/WD~extreme_ultraviolet,1385457]]'
+  - '[[_Standards/WikiData/WD~ultraviolet_A,22914691]]'
+  - '[[_Standards/WikiData/WD~ultraviolet_C,22914694]]'
+  - '[[_Standards/WikiData/WD~ultraviolet_B,22914692]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-subclass_of: "[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~light,9128]]"
-follows: "[[_Standards/WikiData/WD~X_ray,34777]]"
-OmegaWiki_Defined_Meaning: "3885"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~light,9128]]'
+follows: '[[_Standards/WikiData/WD~X_ray,34777]]'
+OmegaWiki_Defined_Meaning: 3885
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ozone%20altitude%20UV%20graph.svg
 Dewey_Decimal_Classification:
-  - "535.014"
-  - "541.3534"
-  - "571.456"
-  - "621.364"
+  - 535.014
+  - 541.3534
+  - 571.456
+  - 621.364
 IEV_number: 845-21-008
 UMLS_CUI: C0041625
 MeSH_tree_code:

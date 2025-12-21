@@ -4,22 +4,24 @@ aliases:
   - how_performed
   - howPerformed
   - has_text_of_how_performed
+  - has_how_performed
+  - has how performed
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - how
   - performed
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_how_performed
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

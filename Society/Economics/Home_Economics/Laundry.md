@@ -4,22 +4,22 @@ aliases:
   - Laundering
 has_id_wikidata: Q852100
 uses:
-  - "[[_Standards/WikiData/WD~washing_machine,124441]]"
-  - "[[_Standards/WikiData/WD~laundry_detergent,910284]]"
-  - "[[_Standards/WikiData/WD~washboard,1123029]]"
-  - "[[_Standards/WikiData/WD~water_softener,25437661]]"
-  - "[[_Standards/WikiData/WD~Q108008615,108008615]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~washing_machine,124441]]'
+  - '[[_Standards/WikiData/WD~laundry_detergent,910284]]'
+  - '[[_Standards/WikiData/WD~washboard,1123029]]'
+  - '[[_Standards/WikiData/WD~water_softener,25437661]]'
+  - '[[_Standards/WikiData/WD~Q108008615,108008615]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~activity,1914636]]"
-  - "[[_Standards/WikiData/WD~technique,2695280]]"
-  - "[[../../../WikiData/WD~economic_activity,8187769]]"
+  - '[[_Standards/WikiData/WD~activity,1914636]]'
+  - '[[_Standards/WikiData/WD~technique,2695280]]'
+  - '[[../../../WikiData/WD~economic_activity,8187769]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Wäsche,2596246]]"
-  - "[[_Standards/WikiData/WD~Laundering,6498474]]"
-  - "[[_Standards/WikiData/WD~Prádlo,12047386]]"
-practiced_by: "[[_Standards/WikiData/WD~washerwoman,16624872]]"
-subclass_of: "[[_Standards/WikiData/WD~washing,23841]]"
+  - '[[_Standards/WikiData/WD~Wäsche,2596246]]'
+  - '[[_Standards/WikiData/WD~Laundering,6498474]]'
+  - '[[_Standards/WikiData/WD~Prádlo,12047386]]'
+practiced_by: '[[_Standards/WikiData/WD~washerwoman,16624872]]'
+subclass_of: '[[_Standards/WikiData/WD~washing,23841]]'
 Iconclass_notation: 41D42
 Commons_category: Laundry
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteuse%20JEP%20%28Madehub%29-lessive.wav

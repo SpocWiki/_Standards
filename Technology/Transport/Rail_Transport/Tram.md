@@ -2,8 +2,9 @@
 aliases:
   - streetcar
   - trolley
+  - Tram
 has_id_wikidata: Q3407658
-Dewey_Decimal_Classification: "388.46"
+Dewey_Decimal_Classification: 388.46
 has_part_s_:
   - "[[_Standards/WikiData/WD~electric_motor,72313]]"
   - "[[_Standards/WikiData/WD~train_driver's_cab,1418299]]"
@@ -54,9 +55,9 @@ carbon_footprint:
   - 75
   - 78.09
 Nomenclature_for_Museum_Cataloging:
-  - "12390"
-  - "12387"
-OmegaWiki_Defined_Meaning: "6611"
+  - 12390
+  - 12387
+OmegaWiki_Defined_Meaning: 6611
 IMDb_keyword:
   - tram
   - streetcar
@@ -74,7 +75,7 @@ GeoNames_feature_code: S.TRAM
 Commons_category: Trams
 ---
 
-# [[Tram]] 
+# [[Tram]] 🚋 
 
 #is_/same_as :: [[../../../WikiData/WD~Tram,3407658|WD~Tram,3407658]]  
 

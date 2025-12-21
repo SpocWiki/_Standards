@@ -4,20 +4,22 @@ aliases:
   - media_gallery
   - MediaGallery
   - is_a_media_gallery
+  - Media_Gallery
+  - Media Gallery
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - media_gallery
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_media_gallery Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

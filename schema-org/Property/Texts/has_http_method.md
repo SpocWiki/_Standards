@@ -4,22 +4,24 @@ aliases:
   - http_method
   - httpMethod
   - has_text_of_http_method
+  - has_http_method
+  - has http method
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - http
   - method
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_http_method
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

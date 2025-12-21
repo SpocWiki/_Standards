@@ -4,22 +4,23 @@ aliases:
   - legislation_transpose_of
   - legislationTransposes
   - is_legislation_transpose_of
+  - is legislation transpose of
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - legislation
   - transposes
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_legislation_transpose_of
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

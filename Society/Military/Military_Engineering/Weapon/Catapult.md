@@ -1,26 +1,27 @@
 ---
 aliases:
   - Katapult
+  - Catapult
 has_id_wikidata: Q184393
 subclass_of:
-  - "[[_Standards/WikiData/WD~cold_weapon,222405]]"
-  - "[[_Standards/WikiData/WD~siege_engine,655697]]"
-  - "[[_Standards/WikiData/WD~neuroballistic_weapon,122452002]]"
+  - '[[_Standards/WikiData/WD~cold_weapon,222405]]'
+  - '[[_Standards/WikiData/WD~siege_engine,655697]]'
+  - '[[_Standards/WikiData/WD~neuroballistic_weapon,122452002]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Katapult,1176462]]"
-  - "[[_Standards/WikiData/WD~euthytone,16332184]]"
-instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
-Nomenclature_for_Museum_Cataloging: "8336"
+  - '[[_Standards/WikiData/WD~Katapult,1176462]]'
+  - '[[_Standards/WikiData/WD~euthytone,16332184]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+Nomenclature_for_Museum_Cataloging: 8336
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Replica%20catapult.jpg
-OmegaWiki_Defined_Meaning: "522309"
+OmegaWiki_Defined_Meaning: 522309
 Commons_gallery: Catapult
-Dewey_Decimal_Classification: "623.441"
+Dewey_Decimal_Classification: 623.441
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Catapulta-article.ogg
-U_S_National_Archives_Identifier: "10640755"
+U_S_National_Archives_Identifier: 10640755
 Commons_category: Catapults
 ---
 

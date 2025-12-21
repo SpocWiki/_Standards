@@ -4,6 +4,7 @@ aliases:
   - eyeglasses
   - spectacles
   - specs
+  - Glasses
 has_id_wikidata: Q37501
 subclass_of: "[[_Standards/WikiData/WD~costume_accessory,1065579]]"
 has_part_s_: "[[_Standards/WikiData/WD~corrective_lens,2143661]]"
@@ -12,10 +13,10 @@ described_by_source:
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 worn_on: "[[_Standards/WikiData/WD~face,37017]]"
-OmegaWiki_Defined_Meaning: "8320"
+OmegaWiki_Defined_Meaning: 8320
 Nomenclature_for_Museum_Cataloging:
-  - "2755"
-  - "2760"
+  - 2755
+  - 2760
 Commons_gallery: Glasses
 Commons_category: Glasses
 time_of_discovery_or_invention: 1270-01-01T00:00:00Z
@@ -24,8 +25,8 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/EN-glasses
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Q37501%20noun%20562323%20ccShmidtSergey%20glasses.svg
 described_at_URL: https://neal.fun/earth-reviews/glasses
 Unicode_character: 👓
-U_S_National_Archives_Identifier: "10675278"
-UNSPSC_Code: "42142901"
+U_S_National_Archives_Identifier: 10675278
+UNSPSC_Code: 42142901
 UMLS_CUI:
   - C0015421
   - C0524594
@@ -34,7 +35,7 @@ subreddit: glasses
 Baidu_Tieba_name: 眼镜
 ---
 
-# [[Glasses]] 
+# [[Glasses]] 👓 
 
 #is_/same_as :: [[WD~Glasses,37501]] 
 ## #has_/text_of_/abstract 

@@ -1,26 +1,27 @@
 ---
 aliases:
   - Waschbecken
+  - Sink
 has_id_wikidata: Q140565
-part_of: "[[_Standards/WikiData/WD~hygiene,162297]]"
-location: "[[_Standards/WikiData/WD~bathroom,190771]]"
+part_of: '[[_Standards/WikiData/WD~hygiene,162297]]'
+location: '[[_Standards/WikiData/WD~bathroom,190771]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Pia,510703]]"
-  - "[[_Standards/WikiData/WD~kitchen_sink,2425869]]"
+  - '[[_Standards/WikiData/WD~Pia,510703]]'
+  - '[[_Standards/WikiData/WD~kitchen_sink,2425869]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~tap,656656]]"
-  - "[[_Standards/WikiData/WD~drain,3951623]]"
-  - "[[_Standards/WikiData/WD~basin,62401112]]"
-  - "[[_Standards/WikiData/WD~overflow,119151544]]"
+  - '[[_Standards/WikiData/WD~tap,656656]]'
+  - '[[_Standards/WikiData/WD~drain,3951623]]'
+  - '[[_Standards/WikiData/WD~basin,62401112]]'
+  - '[[_Standards/WikiData/WD~overflow,119151544]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~plumbing_fixture,2024731]]"
-  - "[[_Standards/WikiData/WD~wash_basin,2383211]]"
-  - "[[_Standards/WikiData/WD~sink,71119090]]"
-has_use: "[[_Standards/WikiData/WD~washing,23841]]"
+  - '[[_Standards/WikiData/WD~plumbing_fixture,2024731]]'
+  - '[[_Standards/WikiData/WD~wash_basin,2383211]]'
+  - '[[_Standards/WikiData/WD~sink,71119090]]'
+has_use: '[[_Standards/WikiData/WD~washing,23841]]'
 Nomenclature_for_Museum_Cataloging:
-  - "290"
-  - "291"
-  - "289"
+  - 290
+  - 291
+  - 289
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sink%20and%20taps%20in%20the%20men%27s%20locker%20room%203%20BW.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Umywalka%20Nova%20Top%20Kolo.jpg

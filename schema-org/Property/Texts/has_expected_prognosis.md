@@ -4,22 +4,24 @@ aliases:
   - expected_prognosis
   - expectedPrognosis
   - has_text_of_expected_prognosis
+  - has_expected_prognosis
+  - has expected prognosis
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - expected
   - prognosis
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_expected_prognosis
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

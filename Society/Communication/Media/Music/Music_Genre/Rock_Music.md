@@ -1,25 +1,27 @@
 ---
 aliases:
   - rock
+  - Rock_Music
+  - Rock Music
 has_id_wikidata: Q11399
-instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
-different_from: "[[_Standards/WikiData/WD~Rock,280874]]"
-subclass_of: "[[_Standards/WikiData/WD~popular_music,373342]]"
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
+different_from: '[[_Standards/WikiData/WD~Rock,280874]]'
+subclass_of: '[[_Standards/WikiData/WD~popular_music,373342]]'
 has_list:
-  - "[[_Standards/WikiData/WD~list_of_rock_music_albums,3242854]]"
-  - "[[_Standards/WikiData/WD~glossary_of_rock_music_vocabulary,3562003]]"
+  - '[[_Standards/WikiData/WD~list_of_rock_music_albums,3242854]]'
+  - '[[_Standards/WikiData/WD~glossary_of_rock_music_vocabulary,3562003]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~rock_band,5741069]]"
-  - "[[_Standards/WikiData/WD~rock_musician,12374149]]"
-  - "[[_Standards/WikiData/WD~rock_drummer,62974259]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Rock_music,10722391]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Rock_music,12127554]]"
-history_of_topic: "[[_Standards/WikiData/WD~electronics_in_rock_music,48834365]]"
-described_by_source: "[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]"
+  - '[[_Standards/WikiData/WD~rock_band,5741069]]'
+  - '[[_Standards/WikiData/WD~rock_musician,12374149]]'
+  - '[[_Standards/WikiData/WD~rock_drummer,62974259]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Rock_music,10722391]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Rock_music,12127554]]'
+history_of_topic: '[[_Standards/WikiData/WD~electronics_in_rock_music,48834365]]'
+described_by_source: '[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]'
 country_of_origin:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-IAB_code: "363"
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+IAB_code: 363
 social_media_followers: 108332
 subreddit: rock
 short_name: рок
@@ -29,7 +31,7 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Big%20Rock%20%28ISRC%2
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Deep%20Purple%20guitars%20banner.jpg
 exact_match: http://service.ddex.net/dd/DD-AVS-001/dd/ddex_Rock
 equivalent_class: http://service.ddex.net/dd/DD-AVS-001/dd/ddex_Rock
-U_S_National_Archives_Identifier: "10644564"
+U_S_National_Archives_Identifier: 10644564
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/ROK-MUZIKA.html
 IPTC_NewsCode:
   - mediatopic/20000027

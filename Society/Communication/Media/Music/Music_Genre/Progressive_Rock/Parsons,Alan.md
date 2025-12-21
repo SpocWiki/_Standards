@@ -1,8 +1,9 @@
 ---
-has_id_wikidata: Q212089
 aliases:
   - Alan Parsons
   - Alan_Parsons
+  - Parsons,Alan
+has_id_wikidata: Q212089
 ---
 
 # [[Parsons,Alan]] 

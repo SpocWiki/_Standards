@@ -1,36 +1,37 @@
 ---
 aliases:
-- geo-within
-- geo_within
-- geoWithin
-- has_location_within
-- has_location_contained_in_place
-- has_location_covered_by
-- ContainedInPlace
-- ContainsPlace
-- GeoContains
-- GeoCoveredBy
-- GeoCovers
-- geo-contains
-- geo_contains
+  - geo-within
+  - geo_within
+  - geoWithin
+  - has_location_within
+  - has_location_contained_in_place
+  - has_location_covered_by
+  - ContainedInPlace
+  - ContainsPlace
+  - GeoContains
+  - GeoCoveredBy
+  - GeoCovers
+  - geo-contains
+  - geo_contains
+  - has location within
 confidential: public
 cssclasses:
-- Predicate
-- geo
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- geo_within
-layout: 
-license: "CC BY-SA 4.0"
+  - geo_within
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_location_within
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_within
 type: Pred_geo
 ---

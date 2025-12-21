@@ -1,12 +1,13 @@
 ---
 aliases:
   - Minimalismus
+  - Minimalism
 has_id_wikidata: Q173436
-different_from: "[[_Standards/WikiData/WD~Minimalism,416389]]"
+different_from: '[[_Standards/WikiData/WD~Minimalism,416389]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~architectural_style,32880]]"
-opposite_of: "[[_Standards/WikiData/WD~maximalism,2246318]]"
+  - '[[_Standards/WikiData/WD~art_movement,968159]]'
+  - '[[_Standards/WikiData/WD~architectural_style,32880]]'
+opposite_of: '[[_Standards/WikiData/WD~maximalism,2246318]]'
 subreddit: minimalism
 Commons_category: Minimalism
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kazimir%20Malevich%2C%201915%2C%20Black%20Suprematic%20Square%2C%20oil%20on%20linen%20canvas%2C%2079.5%20x%2079.5%20cm%2C%20Tretyakov%20Gallery%2C%20Moscow.jpg

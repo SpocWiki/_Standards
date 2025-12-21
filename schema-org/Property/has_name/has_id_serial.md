@@ -4,22 +4,23 @@ aliases:
   - id_serial
   - serialNumber
   - has_id_serial
+  - has id serial
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - serial
   - number
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_id_serial
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

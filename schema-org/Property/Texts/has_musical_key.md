@@ -4,22 +4,24 @@ aliases:
   - musical_key
   - musicalKey
   - has_text_of_musical_key
+  - has_musical_key
+  - has musical key
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - musical
   - key
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_musical_key
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

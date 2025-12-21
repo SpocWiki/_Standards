@@ -1,6 +1,7 @@
 ---
 aliases:
   - Purpur
+  - Magenta
 has_id_wikidata: Q3276756
 ---
 

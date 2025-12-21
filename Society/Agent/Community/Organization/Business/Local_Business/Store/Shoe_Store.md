@@ -4,20 +4,22 @@ aliases:
   - shoe_store
   - ShoeStore
   - is_a_shoe_store
+  - Shoe_Store
+  - Shoe Store
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - shoe_store
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_shoe_store Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

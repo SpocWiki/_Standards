@@ -1,27 +1,28 @@
 ---
 aliases:
   - Kelvin
+  - Unit~Kelvin
 has_id_wikidata: Q11579
-named_after: "[[_Standards/WikiData/WD~William_Thomson,_1st_Baron_Kelvin,122701]]"
+named_after: '[[_Standards/WikiData/WD~William_Thomson,_1st_Baron_Kelvin,122701]]'
 measured_physical_quantity:
-  - "[[_Standards/WikiData/WD~dew_point,178828]]"
-  - "[[_Standards/WikiData/WD~Curie_temperature,191073]]"
-  - "[[_Standards/WikiData/WD~thermodynamic_temperature,264647]]"
-  - "[[_Standards/WikiData/WD~color_temperature,327408]]"
-  - "[[_Standards/WikiData/WD~Néel_temperature,830311]]"
-  - "[[_Standards/WikiData/WD~Debye_temperature,3517821]]"
-  - "[[_Standards/WikiData/WD~Fermi_temperature,105942324]]"
-  - "[[_Standards/WikiData/WD~superconduction_transition_temperature,106103037]]"
+  - '[[_Standards/WikiData/WD~dew_point,178828]]'
+  - '[[_Standards/WikiData/WD~Curie_temperature,191073]]'
+  - '[[_Standards/WikiData/WD~thermodynamic_temperature,264647]]'
+  - '[[_Standards/WikiData/WD~color_temperature,327408]]'
+  - '[[_Standards/WikiData/WD~Néel_temperature,830311]]'
+  - '[[_Standards/WikiData/WD~Debye_temperature,3517821]]'
+  - '[[_Standards/WikiData/WD~Fermi_temperature,105942324]]'
+  - '[[_Standards/WikiData/WD~superconduction_transition_temperature,106103037]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~SI_base_unit,223662]]"
-  - "[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]"
-  - "[[_Standards/WikiData/WD~unit_of_thermodynamic_temperature,68723978]]"
-  - "[[_Standards/WikiData/WD~UCUM_base_unit,82047053]]"
-uses: "[[_Standards/WikiData/WD~zero_based_numbering,4355278]]"
-described_by_source: "[[_Standards/WikiData/WD~SI_Brochure_(8th_edition),19606873]]"
+  - '[[_Standards/WikiData/WD~SI_base_unit,223662]]'
+  - '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
+  - '[[_Standards/WikiData/WD~unit_of_thermodynamic_temperature,68723978]]'
+  - '[[_Standards/WikiData/WD~UCUM_base_unit,82047053]]'
+uses: '[[_Standards/WikiData/WD~zero_based_numbering,4355278]]'
+described_by_source: '[[_Standards/WikiData/WD~SI_Brochure_(8th_edition),19606873]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Q58538806,58538806]]"
-  - "[[_Standards/WikiData/WD~kelvin_difference,69363953]]"
+  - '[[_Standards/WikiData/WD~Q58538806,58538806]]'
+  - '[[_Standards/WikiData/WD~kelvin_difference,69363953]]'
 conversion_to_SI_unit: 1
 UCUM_code: K
 Unicode_character: K

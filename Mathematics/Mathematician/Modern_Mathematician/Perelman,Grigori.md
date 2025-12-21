@@ -5,62 +5,63 @@ aliases:
   - Perelman
   - Grigori Yakovlevich Perelman
   - Григорий Яковлевич Перельман
+  - Perelman,Grigori
 has_id_wikidata: Q117346
 name_in_native_language: Григорий Яковлевич Перельман
 employer:
-  - "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
-  - "[[_Standards/WikiData/WD~St._Petersburg_Department_of_Steklov_Institute_of_Mathematics_of_Russian_Academy_of_Sciences,581272]]"
-  - "[[_Standards/WikiData/WD~Courant_Institute_of_Mathematical_Sciences,_NYU,946028]]"
-  - "[[_Standards/WikiData/WD~Stony_Brook_University,969850]]"
-occupation: "[[_Standards/WikiData/WD~mathematician,170790]]"
+  - '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
+  - '[[_Standards/WikiData/WD~St._Petersburg_Department_of_Steklov_Institute_of_Mathematics_of_Russian_Academy_of_Sciences,581272]]'
+  - '[[_Standards/WikiData/WD~Courant_Institute_of_Mathematical_Sciences,_NYU,946028]]'
+  - '[[_Standards/WikiData/WD~Stony_Brook_University,969850]]'
+occupation: '[[_Standards/WikiData/WD~mathematician,170790]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~differential_geometry,188444]]"
-  - "[[_Standards/WikiData/WD~Riemannian_geometry,761383]]"
-  - "[[_Standards/WikiData/WD~geometric_topology,1939186]]"
-  - "[[_Standards/WikiData/WD~mathematics,395]]"
-  - "[[_Standards/WikiData/WD~topology,42989]]"
+  - '[[_Standards/WikiData/WD~differential_geometry,188444]]'
+  - '[[_Standards/WikiData/WD~Riemannian_geometry,761383]]'
+  - '[[_Standards/WikiData/WD~geometric_topology,1939186]]'
+  - '[[_Standards/WikiData/WD~mathematics,395]]'
+  - '[[_Standards/WikiData/WD~topology,42989]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Poincaré_conjecture,203586]]"
-  - "[[_Standards/WikiData/WD~geometrization_conjecture,1503309]]"
-  - "[[_Standards/WikiData/WD~soul_theorem,4171386]]"
+  - '[[_Standards/WikiData/WD~Poincaré_conjecture,203586]]'
+  - '[[_Standards/WikiData/WD~geometrization_conjecture,1503309]]'
+  - '[[_Standards/WikiData/WD~soul_theorem,4171386]]'
 doctoral_advisor:
-  - "[[_Standards/WikiData/WD~Yuri_Burago,710985]]"
-  - "[[_Standards/WikiData/WD~Aleksandr_Aleksandrov,934314]]"
+  - '[[_Standards/WikiData/WD~Yuri_Burago,710985]]'
+  - '[[_Standards/WikiData/WD~Aleksandr_Aleksandrov,934314]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Millennium_Problems,727000]]"
-  - "[[_Standards/WikiData/WD~EMS_Prize,1275243]]"
-student_of: "[[_Standards/WikiData/WD~Aleksandr_Aleksandrov,934314]]"
+  - '[[_Standards/WikiData/WD~Millennium_Problems,727000]]'
+  - '[[_Standards/WikiData/WD~EMS_Prize,1275243]]'
+student_of: '[[_Standards/WikiData/WD~Aleksandr_Aleksandrov,934314]]'
 participant_in:
-  - "[[_Standards/WikiData/WD~All_Russian_Mathematical_Olympiad_of_general_education_students,4127453]]"
-  - "[[_Standards/WikiData/WD~International_Mathematical_Olympiad,7983]]"
-residence: "[[_Standards/WikiData/WD~Kupchino,4247651]]"
+  - '[[_Standards/WikiData/WD~All_Russian_Mathematical_Olympiad_of_general_education_students,4127453]]'
+  - '[[_Standards/WikiData/WD~International_Mathematical_Olympiad,7983]]'
+residence: '[[_Standards/WikiData/WD~Kupchino,4247651]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Mathematics_and_Mechanics_Faculty,_St._Petersburg_State_University,4284716]]"
-  - "[[_Standards/WikiData/WD~Saint_Petersburg_Lyceum_239,4483553]]"
-given_name: "[[_Standards/WikiData/WD~Grigory,5609054]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-described_by_source: "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-family_name: "[[_Standards/WikiData/WD~Perelman,21491138]]"
-patronym_or_matronym: "[[_Standards/WikiData/WD~Yakovlevich,56605711]]"
-sibling: "[[_Standards/WikiData/WD~Elena_Perelman,71869813]]"
-father: "[[_Standards/WikiData/WD~Yakov_Perelman,112493870]]"
-mother: "[[_Standards/WikiData/WD~Lyubov_Steingolts,112493872]]"
-place_of_birth: "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
+  - '[[_Standards/WikiData/WD~Mathematics_and_Mechanics_Faculty,_St._Petersburg_State_University,4284716]]'
+  - '[[_Standards/WikiData/WD~Saint_Petersburg_Lyceum_239,4483553]]'
+given_name: '[[_Standards/WikiData/WD~Grigory,5609054]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+family_name: '[[_Standards/WikiData/WD~Perelman,21491138]]'
+patronym_or_matronym: '[[_Standards/WikiData/WD~Yakovlevich,56605711]]'
+sibling: '[[_Standards/WikiData/WD~Elena_Perelman,71869813]]'
+father: '[[_Standards/WikiData/WD~Yakov_Perelman,112493870]]'
+mother: '[[_Standards/WikiData/WD~Lyubov_Steingolts,112493872]]'
+place_of_birth: '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-interested_in: "[[_Standards/WikiData/WD~classical_music,9730]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Russian,7737]]'
+interested_in: '[[_Standards/WikiData/WD~classical_music,9730]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+  - '[[_Standards/WikiData/WD~Russia,159]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Erdős_number: 3
 Commons_category: Grigori Perelman
 date_of_birth: 1966-06-13T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Grigori%20Perelman%2C%201993%20%28re-scanned%29%20%28cropped%29.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Grigori%20Yakovlevich%20Perelman.oga
-ISNI: "0000000055592454"
+ISNI: 0000000055592454
 ---
 
 # [[Perelman,Grigori]] 

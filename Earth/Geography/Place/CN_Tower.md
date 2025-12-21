@@ -4,31 +4,32 @@ aliases:
   - CN Tower
   - Canadian National Tower
   - Canada's National Tower
+  - CN_Tower
 has_id_wikidata: Q134883
-architect: "[[_Standards/WikiData/WD~John_Andrews,436649]]"
+architect: '[[_Standards/WikiData/WD~John_Andrews,436649]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~observation_tower,1440300]]"
-  - "[[_Standards/WikiData/WD~architectural_landmark,2319498]]"
-  - "[[_Standards/WikiData/WD~television_tower,11166728]]"
-named_after: "[[_Standards/WikiData/WD~Canadian_National_Railway,624798]]"
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~observation_tower,1440300]]'
+  - '[[_Standards/WikiData/WD~architectural_landmark,2319498]]'
+  - '[[_Standards/WikiData/WD~television_tower,11166728]]'
+named_after: '[[_Standards/WikiData/WD~Canadian_National_Railway,624798]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Old_Toronto,919169]]"
-  - "[[_Standards/WikiData/WD~Toronto,172]]"
-different_from: "[[_Standards/WikiData/WD~CN_Tower,5013234]]"
-owned_by: "[[_Standards/WikiData/WD~Canada_Lands_Company,5029397]]"
-part_of: "[[_Standards/WikiData/WD~Seven_Wonders_of_the_Modern_World,12800832]]"
-open_days: "[[_Standards/WikiData/WD~all_days_of_the_week,26214163]]"
+  - '[[_Standards/WikiData/WD~Old_Toronto,919169]]'
+  - '[[_Standards/WikiData/WD~Toronto,172]]'
+different_from: '[[_Standards/WikiData/WD~CN_Tower,5013234]]'
+owned_by: '[[_Standards/WikiData/WD~Canada_Lands_Company,5029397]]'
+part_of: '[[_Standards/WikiData/WD~Seven_Wonders_of_the_Modern_World,12800832]]'
+open_days: '[[_Standards/WikiData/WD~all_days_of_the_week,26214163]]'
 coordinate_location: Point(-79.387147222 43.642752777)
 made_from_material:
-  - "[[_Standards/WikiData/WD~steel,11427]]"
-  - "[[_Standards/WikiData/WD~concrete,22657]]"
-country: "[[_Standards/WikiData/WD~Canada,16]]"
-locations: "[[_Standards/WikiData/WD~Toronto,172]]"
+  - '[[_Standards/WikiData/WD~steel,11427]]'
+  - '[[_Standards/WikiData/WD~concrete,22657]]'
+country: '[[_Standards/WikiData/WD~Canada,16]]'
+locations: '[[_Standards/WikiData/WD~Toronto,172]]'
 floors_above_ground: 8
 number_of_elevators: 9
 visitors_per_year: 1500000
-award_received: "[[_Standards/WikiData/WD~Guinness_World_Records,41675]]"
+award_received: '[[_Standards/WikiData/WD~Guinness_World_Records,41675]]'
 height:
   - 447
   - 553.3
@@ -44,7 +45,7 @@ nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Toronto%20-%2
 view: http://commons.wikimedia.org/wiki/Special:FilePath/Toronto%20panorama.jpg
 official_website: http://www.cntower.ca/
 described_at_URL: https://francesbula.com/blog/cn-tower-in-toronto/
-P8189: "987007539807105171"
+P8189: 987007539807105171
 Commons_gallery: CN Tower
 Commons_category: CN Tower
 Instagram_username: cntower

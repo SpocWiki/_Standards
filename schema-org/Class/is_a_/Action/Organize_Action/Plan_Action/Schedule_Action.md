@@ -4,20 +4,22 @@ aliases:
   - schedule_action
   - ScheduleAction
   - is_a_schedule_action
+  - Schedule_Action
+  - Schedule Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - schedule_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_schedule_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

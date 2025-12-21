@@ -7,80 +7,80 @@ aliases:
   - Brother Ray
 has_id_wikidata: Q544387
 genre:
-  - "[[_Standards/WikiData/WD~country_music,83440]]"
-  - "[[_Standards/WikiData/WD~soul,131272]]"
-  - "[[_Standards/WikiData/WD~gospel_music,180268]]"
-  - "[[_Standards/WikiData/WD~jazz,8341]]"
-  - "[[_Standards/WikiData/WD~blues,9759]]"
-  - "[[_Standards/WikiData/WD~rhythm_and_blues,45981]]"
-place_of_death: "[[_Standards/WikiData/WD~Beverly_Hills,127856]]"
+  - '[[_Standards/WikiData/WD~country_music,83440]]'
+  - '[[_Standards/WikiData/WD~soul,131272]]'
+  - '[[_Standards/WikiData/WD~gospel_music,180268]]'
+  - '[[_Standards/WikiData/WD~jazz,8341]]'
+  - '[[_Standards/WikiData/WD~blues,9759]]'
+  - '[[_Standards/WikiData/WD~rhythm_and_blues,45981]]'
+place_of_death: '[[_Standards/WikiData/WD~Beverly_Hills,127856]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~pianist,486748]]"
-  - "[[_Standards/WikiData/WD~singer_songwriter,488205]]"
-  - "[[_Standards/WikiData/WD~music_arranger,1643514]]"
-  - "[[_Standards/WikiData/WD~vocalist,2643890]]"
-  - "[[_Standards/WikiData/WD~jazz_musician,15981151]]"
-  - "[[_Standards/WikiData/WD~recording_artist,55960555]]"
-  - "[[_Standards/WikiData/WD~soul_musician,105652947]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~pianist,486748]]'
+  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+  - '[[_Standards/WikiData/WD~music_arranger,1643514]]'
+  - '[[_Standards/WikiData/WD~vocalist,2643890]]'
+  - '[[_Standards/WikiData/WD~jazz_musician,15981151]]'
+  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+  - '[[_Standards/WikiData/WD~soul_musician,105652947]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
-  - "[[_Standards/WikiData/WD~Blues_Hall_of_Fame,258100]]"
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-  - "[[_Standards/WikiData/WD~Florida_Artists_Hall_of_Fame,5461189]]"
-  - "[[_Standards/WikiData/WD~Library_of_Congress_Living_Legend,6542686]]"
-  - "[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~lifetime_achievement_award,105727509]]"
+  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+  - '[[_Standards/WikiData/WD~Blues_Hall_of_Fame,258100]]'
+  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+  - '[[_Standards/WikiData/WD~Florida_Artists_Hall_of_Fame,5461189]]'
+  - '[[_Standards/WikiData/WD~Library_of_Congress_Living_Legend,6542686]]'
+  - '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~lifetime_achievement_award,105727509]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Atlantic_Records,202440]]"
-  - "[[_Standards/WikiData/WD~ABC_Records,287177]]"
-  - "[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]"
-  - "[[_Standards/WikiData/WD~Philips_Records,1536003]]"
-  - "[[_Standards/WikiData/WD~Swing_Time,3506611]]"
-place_of_birth: "[[_Standards/WikiData/WD~Albany,285599]]"
-copyright_representative: "[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]"
-cause_of_death: "[[_Standards/WikiData/WD~liver_failure,970208]]"
-discography: "[[_Standards/WikiData/WD~Ray_Charles_discography,1411635]]"
-place_of_burial: "[[_Standards/WikiData/WD~Inglewood_Park_Cemetery,1645215]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Margie_Hendrix,1895258]]"
+  - '[[_Standards/WikiData/WD~Atlantic_Records,202440]]'
+  - '[[_Standards/WikiData/WD~ABC_Records,287177]]'
+  - '[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]'
+  - '[[_Standards/WikiData/WD~Philips_Records,1536003]]'
+  - '[[_Standards/WikiData/WD~Swing_Time,3506611]]'
+place_of_birth: '[[_Standards/WikiData/WD~Albany,285599]]'
+copyright_representative: '[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]'
+cause_of_death: '[[_Standards/WikiData/WD~liver_failure,970208]]'
+discography: '[[_Standards/WikiData/WD~Ray_Charles_discography,1411635]]'
+place_of_burial: '[[_Standards/WikiData/WD~Inglewood_Park_Cemetery,1645215]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Margie_Hendrix,1895258]]'
 residence:
-  - "[[_Standards/WikiData/WD~Greenville,2092701]]"
-  - "[[_Standards/WikiData/WD~Seattle,5083]]"
-  - "[[_Standards/WikiData/WD~Los_Angeles,65]]"
+  - '[[_Standards/WikiData/WD~Greenville,2092701]]'
+  - '[[_Standards/WikiData/WD~Seattle,5083]]'
+  - '[[_Standards/WikiData/WD~Los_Angeles,65]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Raymond,2127728]]"
-  - "[[_Standards/WikiData/WD~Charles,2958359]]"
-family_name: "[[_Standards/WikiData/WD~Robinson,2798428]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-educated_at: "[[_Standards/WikiData/WD~Florida_School_for_the_Deaf_and_Blind,5461583]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-different_from: "[[_Standards/WikiData/WD~Ray_Charles,12333007]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Ray_Charles,13412160]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
+  - '[[_Standards/WikiData/WD~Raymond,2127728]]'
+  - '[[_Standards/WikiData/WD~Charles,2958359]]'
+family_name: '[[_Standards/WikiData/WD~Robinson,2798428]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+educated_at: '[[_Standards/WikiData/WD~Florida_School_for_the_Deaf_and_Blind,5461583]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+different_from: '[[_Standards/WikiData/WD~Ray_Charles,12333007]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Ray_Charles,13412160]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
 instrument:
-  - "[[_Standards/WikiData/WD~voice,17172850]]"
-  - "[[_Standards/WikiData/WD~piano,5994]]"
+  - '[[_Standards/WikiData/WD~voice,17172850]]'
+  - '[[_Standards/WikiData/WD~piano,5994]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-notable_work: "[[_Standards/WikiData/WD~Georgia_on_My_Mind_Carry_Me_Back_to_Old_Virginny,93731097]]"
-artist_files_at: "[[_Standards/WikiData/WD~Smithsonian_American_Art_and_Portrait_Gallery_Library,98665879]]"
+  - '[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+notable_work: '[[_Standards/WikiData/WD~Georgia_on_My_Mind_Carry_Me_Back_to_Old_Virginny,93731097]]'
+artist_files_at: '[[_Standards/WikiData/WD~Smithsonian_American_Art_and_Portrait_Gallery_Library,98665879]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Eileen_Williams,108664654]]"
-  - "[[_Standards/WikiData/WD~Della_Beatrice_Howard_Robinson,108664657]]"
-member_of: "[[_Standards/WikiData/WD~Ray_Charles_and_His_Orchestra,109303185]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-medical_condition: "[[_Standards/WikiData/WD~blindness,10874]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Republican_Party,29468]]"
-voice_type: "[[_Standards/WikiData/WD~baritone,31687]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-ethnic_group: "[[_Standards/WikiData/WD~African_Americans,49085]]"
+  - '[[_Standards/WikiData/WD~Eileen_Williams,108664654]]'
+  - '[[_Standards/WikiData/WD~Della_Beatrice_Howard_Robinson,108664657]]'
+member_of: '[[_Standards/WikiData/WD~Ray_Charles_and_His_Orchestra,109303185]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+medical_condition: '[[_Standards/WikiData/WD~blindness,10874]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+voice_type: '[[_Standards/WikiData/WD~baritone,31687]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+ethnic_group: '[[_Standards/WikiData/WD~African_Americans,49085]]'
 Commons_gallery: Ray Charles
 Libris_URI: c9pswwjw1b19grf
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/CHARLZ_RE.html
@@ -93,7 +93,7 @@ pseudonym: Ray Charles
 Commons_category: Ray Charles
 nickname: The Genius
 name_in_native_language: Ray Charles
-U_S_National_Archives_Identifier: "10582967"
+U_S_National_Archives_Identifier: 10582967
 work_period_start_: 1947-01-01T00:00:00Z
 date_of_death: 2004-06-10T00:00:00Z
 date_of_birth: 1930-09-23T00:00:00Z
@@ -101,10 +101,10 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Ray%20Charles%20au
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ray%20Charles%20classic%20piano%20pose.jpg
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ray%20Charles%20star%20on%20HWF.JPG
 official_website: https://raycharles.com/
-ISNI: "0000000114318819"
+ISNI: 0000000114318819
 IPI_name_number:
-  - "00005905501"
-  - "00026286484"
+  - 00005905501
+  - 00026286484
 Plex_person_key: 5d776826961905001eb91144
 ---
 

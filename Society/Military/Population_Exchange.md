@@ -1,6 +1,7 @@
 ---
 aliases:
   - Population Exchange
+  - Population_Exchange
 ---
 
 # [[Population_Exchange]] 

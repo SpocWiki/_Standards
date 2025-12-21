@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Frederick Forsyth"
-- "Frederick McCarthy Forsyth"
+  - Frederick Forsyth
+  - Frederick McCarthy Forsyth
+  - Forsyth,Frederick
 ---
 
 #has_/time_/started :: 1936-08-18 

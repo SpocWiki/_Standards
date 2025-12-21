@@ -4,21 +4,22 @@ aliases:
   - season_number
   - seasonNumber
   - has_number_of_season
+  - has number of season
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - season_number
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_season_number
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

@@ -2,82 +2,83 @@
 aliases:
   - Marshall Bruce Mathers III
   - Marshall Mathers
+  - Eminem
 has_id_wikidata: Q5608
 ethnic_group:
-  - "[[_Standards/WikiData/WD~Cherokee,105405]]"
-  - "[[_Standards/WikiData/WD~German_Americans,141817]]"
-  - "[[_Standards/WikiData/WD~Swiss_Americans,637979]]"
-  - "[[_Standards/WikiData/WD~Polish_Americans,1189552]]"
-  - "[[_Standards/WikiData/WD~English_Americans,1344183]]"
-  - "[[_Standards/WikiData/WD~Welsh_Americans,3094841]]"
-  - "[[_Standards/WikiData/WD~Scottish_Americans,3476361]]"
-  - "[[_Standards/WikiData/WD~Luxembourgish_Americans,4272184]]"
+  - '[[_Standards/WikiData/WD~Cherokee,105405]]'
+  - '[[_Standards/WikiData/WD~German_Americans,141817]]'
+  - '[[_Standards/WikiData/WD~Swiss_Americans,637979]]'
+  - '[[_Standards/WikiData/WD~Polish_Americans,1189552]]'
+  - '[[_Standards/WikiData/WD~English_Americans,1344183]]'
+  - '[[_Standards/WikiData/WD~Welsh_Americans,3094841]]'
+  - '[[_Standards/WikiData/WD~Scottish_Americans,3476361]]'
+  - '[[_Standards/WikiData/WD~Luxembourgish_Americans,4272184]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]"
-  - "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Rap_Album,1367988]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Melodic_Rap_Performance,1542172]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Rap_Album,1367988]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Melodic_Rap_Performance,1542172]]'
 member_of:
-  - "[[_Standards/WikiData/WD~D12,154543]]"
-  - "[[_Standards/WikiData/WD~Bad_Meets_Evil,741532]]"
+  - '[[_Standards/WikiData/WD~D12,154543]]'
+  - '[[_Standards/WikiData/WD~Bad_Meets_Evil,741532]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Polydor,155152]]"
-  - "[[_Standards/WikiData/WD~Interscope_Records,231694]]"
-  - "[[_Standards/WikiData/WD~Aftermath_Entertainment,389284]]"
-  - "[[_Standards/WikiData/WD~Shady_Records,568246]]"
-  - "[[_Standards/WikiData/WD~WEB_Entertainment,2708269]]"
+  - '[[_Standards/WikiData/WD~Polydor,155152]]'
+  - '[[_Standards/WikiData/WD~Interscope_Records,231694]]'
+  - '[[_Standards/WikiData/WD~Aftermath_Entertainment,389284]]'
+  - '[[_Standards/WikiData/WD~Shady_Records,568246]]'
+  - '[[_Standards/WikiData/WD~WEB_Entertainment,2708269]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~record_producer,183945]]"
-  - "[[_Standards/WikiData/WD~songwriter,753110]]"
-  - "[[_Standards/WikiData/WD~rapper,2252262]]"
-  - "[[_Standards/WikiData/WD~music_executive,3089940]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~record_producer,183945]]'
+  - '[[_Standards/WikiData/WD~songwriter,753110]]'
+  - '[[_Standards/WikiData/WD~rapper,2252262]]'
+  - '[[_Standards/WikiData/WD~music_executive,3089940]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
 partner_in_business_or_sport: "[[_Standards/WikiData/WD~Royce_da_5'9_,314909]]"
 given_name:
-  - "[[_Standards/WikiData/WD~Bruce,579371]]"
-  - "[[_Standards/WikiData/WD~Marshall,19819759]]"
+  - '[[_Standards/WikiData/WD~Bruce,579371]]'
+  - '[[_Standards/WikiData/WD~Marshall,19819759]]'
 genre:
-  - "[[_Standards/WikiData/WD~comedy_hip_hop,602646]]"
-  - "[[_Standards/WikiData/WD~rap_rock,877693]]"
-  - "[[_Standards/WikiData/WD~hardcore_hip_hop,966564]]"
-  - "[[_Standards/WikiData/WD~horrorcore,1139136]]"
-  - "[[_Standards/WikiData/WD~Midwest_hip_hop,2517263]]"
-  - "[[_Standards/WikiData/WD~dirty_rap,3709211]]"
-  - "[[_Standards/WikiData/WD~hip_hop,11401]]"
-place_of_birth: "[[_Standards/WikiData/WD~St._Joseph,745120]]"
-copyright_representative: "[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]"
+  - '[[_Standards/WikiData/WD~comedy_hip_hop,602646]]'
+  - '[[_Standards/WikiData/WD~rap_rock,877693]]'
+  - '[[_Standards/WikiData/WD~hardcore_hip_hop,966564]]'
+  - '[[_Standards/WikiData/WD~horrorcore,1139136]]'
+  - '[[_Standards/WikiData/WD~Midwest_hip_hop,2517263]]'
+  - '[[_Standards/WikiData/WD~dirty_rap,3709211]]'
+  - '[[_Standards/WikiData/WD~hip_hop,11401]]'
+place_of_birth: '[[_Standards/WikiData/WD~St._Joseph,745120]]'
+copyright_representative: '[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]'
 discography:
-  - "[[_Standards/WikiData/WD~Eminem_production_discography,1337716]]"
-  - "[[_Standards/WikiData/WD~Eminem_discography,1337755]]"
-  - "[[_Standards/WikiData/WD~Eminem_singles_discography,55610820]]"
-residence: "[[_Standards/WikiData/WD~Clinton_Township,2550281]]"
+  - '[[_Standards/WikiData/WD~Eminem_production_discography,1337716]]'
+  - '[[_Standards/WikiData/WD~Eminem_discography,1337755]]'
+  - '[[_Standards/WikiData/WD~Eminem_singles_discography,55610820]]'
+residence: '[[_Standards/WikiData/WD~Clinton_Township,2550281]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Lincoln_High_School,4993370]]"
-  - "[[_Standards/WikiData/WD~Oak_Park_High_School,7073670]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Eminem,6449647]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-uses: "[[_Standards/WikiData/WD~Slim_Shady,10372380]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Eminem,11416710]]"
-spouse: "[[_Standards/WikiData/WD~Kim_Scott,12366988]]"
-instrument: "[[_Standards/WikiData/WD~voice,17172850]]"
-family_name: "[[_Standards/WikiData/WD~Mathers,21507446]]"
-mother: "[[_Standards/WikiData/WD~Debbie_Nelson,47108853]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-child: "[[_Standards/WikiData/WD~Hailie_Jade_Mathers,95983217]]"
+  - '[[_Standards/WikiData/WD~Lincoln_High_School,4993370]]'
+  - '[[_Standards/WikiData/WD~Oak_Park_High_School,7073670]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Eminem,6449647]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+uses: '[[_Standards/WikiData/WD~Slim_Shady,10372380]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Eminem,11416710]]'
+spouse: '[[_Standards/WikiData/WD~Kim_Scott,12366988]]'
+instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
+family_name: '[[_Standards/WikiData/WD~Mathers,21507446]]'
+mother: '[[_Standards/WikiData/WD~Debbie_Nelson,47108853]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+child: '[[_Standards/WikiData/WD~Hailie_Jade_Mathers,95983217]]'
 relative:
-  - "[[_Standards/WikiData/WD~Todd_K._Nelson,107023583]]"
-  - "[[_Standards/WikiData/WD~Ronnie_Polkingharn,114880010]]"
+  - '[[_Standards/WikiData/WD~Todd_K._Nelson,107023583]]'
+  - '[[_Standards/WikiData/WD~Ronnie_Polkingharn,114880010]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~American_English,7976]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Christianity,5043]]"
-native_language: "[[_Standards/WikiData/WD~American_English,7976]]"
-voice_type: "[[_Standards/WikiData/WD~tenor,27914]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~American_English,7976]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
+native_language: '[[_Standards/WikiData/WD~American_English,7976]]'
+voice_type: '[[_Standards/WikiData/WD~tenor,27914]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 3
 height: 173
 hashtag_:
@@ -119,13 +120,13 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Eminem%27s%20signa
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Eminem%20%28spoken%20by%20AI%20voice%29.mp3
 official_website: https://eminem.com
 ISNI:
-  - "0000000117699370"
-  - "0000000368611900"
-  - "0000000368611919"
+  - 0000000117699370
+  - 0000000368611900
+  - 0000000368611919
 ORCID_iD: 0009-0003-5793-2300
 IPI_name_number:
-  - "00354929235"
-  - "00354929431"
+  - 00354929235
+  - 00354929431
 Libris_URI: 1zcfgf8k0j5cmff
 Plex_person_key: 5d776826e6d55c002040af8f
 Europeana_entity: agent/base/83374

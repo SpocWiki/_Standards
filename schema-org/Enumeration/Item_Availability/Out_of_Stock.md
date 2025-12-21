@@ -4,21 +4,23 @@ aliases:
   - out_of_stock
   - OutOfStock
   - is_out_of_stock
+  - Out_of_Stock
+  - Out of Stock
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: ItemAvailability
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - out_of_stock
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_out_of_stock Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

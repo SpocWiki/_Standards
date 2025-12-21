@@ -4,135 +4,136 @@ aliases:
   - Henrik Johan Ibsen
   - Henrik Ibsen
   - Ibsen
+  - Ibsen,Henrik
 has_id_wikidata: Q36661
 residence:
-  - "[[_Standards/WikiData/WD~Grimstad,90590]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Bavaria,154195]]"
-  - "[[_Standards/WikiData/WD~Gossensass,992211]]"
-  - "[[_Standards/WikiData/WD~Molde,10587563]]"
-  - "[[_Standards/WikiData/WD~Venice,641]]"
-  - "[[_Standards/WikiData/WD~Munich,1726]]"
-  - "[[_Standards/WikiData/WD~Dresden,1731]]"
-  - "[[_Standards/WikiData/WD~Vienna,1741]]"
-  - "[[_Standards/WikiData/WD~Copenhagen,1748]]"
-  - "[[_Standards/WikiData/WD~Stockholm,1754]]"
-  - "[[_Standards/WikiData/WD~Budapest,1781]]"
-  - "[[_Standards/WikiData/WD~Skien,2272]]"
-  - "[[_Standards/WikiData/WD~Trondheim,25804]]"
-  - "[[_Standards/WikiData/WD~Bergen,26793]]"
-  - "[[_Standards/WikiData/WD~Berlin,64]]"
-  - "[[_Standards/WikiData/WD~Rome,220]]"
+  - '[[_Standards/WikiData/WD~Grimstad,90590]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Bavaria,154195]]'
+  - '[[_Standards/WikiData/WD~Gossensass,992211]]'
+  - '[[_Standards/WikiData/WD~Molde,10587563]]'
+  - '[[_Standards/WikiData/WD~Venice,641]]'
+  - '[[_Standards/WikiData/WD~Munich,1726]]'
+  - '[[_Standards/WikiData/WD~Dresden,1731]]'
+  - '[[_Standards/WikiData/WD~Vienna,1741]]'
+  - '[[_Standards/WikiData/WD~Copenhagen,1748]]'
+  - '[[_Standards/WikiData/WD~Stockholm,1754]]'
+  - '[[_Standards/WikiData/WD~Budapest,1781]]'
+  - '[[_Standards/WikiData/WD~Skien,2272]]'
+  - '[[_Standards/WikiData/WD~Trondheim,25804]]'
+  - '[[_Standards/WikiData/WD~Bergen,26793]]'
+  - '[[_Standards/WikiData/WD~Berlin,64]]'
+  - '[[_Standards/WikiData/WD~Rome,220]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Hedda_Gabler,176465]]"
-  - "[[_Standards/WikiData/WD~Peer_Gynt,208094]]"
-  - "[[_Standards/WikiData/WD~Emperor_and_Galilean,268276]]"
-  - "[[_Standards/WikiData/WD~John_Gabriel_Borkman,289117]]"
-  - "[[_Standards/WikiData/WD~The_Master_Builder,641378]]"
+  - '[[_Standards/WikiData/WD~Hedda_Gabler,176465]]'
+  - '[[_Standards/WikiData/WD~Peer_Gynt,208094]]'
+  - '[[_Standards/WikiData/WD~Emperor_and_Galilean,268276]]'
+  - '[[_Standards/WikiData/WD~John_Gabriel_Borkman,289117]]'
+  - '[[_Standards/WikiData/WD~The_Master_Builder,641378]]'
   - "[[_Standards/WikiData/WD~A_Doll's_House,669694]]"
-  - "[[_Standards/WikiData/WD~Little_Eyolf,983970]]"
-  - "[[_Standards/WikiData/WD~The_Lady_from_the_Sea,1212719]]"
-  - "[[_Standards/WikiData/WD~The_Wild_Duck,1217608]]"
-  - "[[_Standards/WikiData/WD~An_Enemy_of_the_People,1305319]]"
-  - "[[_Standards/WikiData/WD~Rosmersholm,1432009]]"
-  - "[[_Standards/WikiData/WD~Ghosts,1434818]]"
-  - "[[_Standards/WikiData/WD~When_We_Dead_Awaken,1728632]]"
-  - "[[_Standards/WikiData/WD~The_Burial_Mound,1774352]]"
-  - "[[_Standards/WikiData/WD~The_Feast_at_Solhaug,1774368]]"
-  - "[[_Standards/WikiData/WD~Catiline,1774375]]"
-  - "[[_Standards/WikiData/WD~The_League_of_Youth,1774382]]"
-  - "[[_Standards/WikiData/WD~The_Pretenders,1774386]]"
-  - "[[_Standards/WikiData/WD~The_Pillars_of_Society,1774700]]"
-  - "[[_Standards/WikiData/WD~Terje_Vigen,1777844]]"
-  - "[[_Standards/WikiData/WD~Lady_Inger_of_Ostrat,2008287]]"
-  - "[[_Standards/WikiData/WD~The_Mountain_Bird,2595792]]"
-  - "[[_Standards/WikiData/WD~Brand,2660511]]"
-  - "[[_Standards/WikiData/WD~Olaf_Liljekrans,3285322]]"
-  - "[[_Standards/WikiData/WD~Norma,3285327]]"
+  - '[[_Standards/WikiData/WD~Little_Eyolf,983970]]'
+  - '[[_Standards/WikiData/WD~The_Lady_from_the_Sea,1212719]]'
+  - '[[_Standards/WikiData/WD~The_Wild_Duck,1217608]]'
+  - '[[_Standards/WikiData/WD~An_Enemy_of_the_People,1305319]]'
+  - '[[_Standards/WikiData/WD~Rosmersholm,1432009]]'
+  - '[[_Standards/WikiData/WD~Ghosts,1434818]]'
+  - '[[_Standards/WikiData/WD~When_We_Dead_Awaken,1728632]]'
+  - '[[_Standards/WikiData/WD~The_Burial_Mound,1774352]]'
+  - '[[_Standards/WikiData/WD~The_Feast_at_Solhaug,1774368]]'
+  - '[[_Standards/WikiData/WD~Catiline,1774375]]'
+  - '[[_Standards/WikiData/WD~The_League_of_Youth,1774382]]'
+  - '[[_Standards/WikiData/WD~The_Pretenders,1774386]]'
+  - '[[_Standards/WikiData/WD~The_Pillars_of_Society,1774700]]'
+  - '[[_Standards/WikiData/WD~Terje_Vigen,1777844]]'
+  - '[[_Standards/WikiData/WD~Lady_Inger_of_Ostrat,2008287]]'
+  - '[[_Standards/WikiData/WD~The_Mountain_Bird,2595792]]'
+  - '[[_Standards/WikiData/WD~Brand,2660511]]'
+  - '[[_Standards/WikiData/WD~Olaf_Liljekrans,3285322]]'
+  - '[[_Standards/WikiData/WD~Norma,3285327]]'
   - "[[_Standards/WikiData/WD~St._John's_Eve,3285337]]"
-  - "[[_Standards/WikiData/WD~The_Vikings_at_Helgeland,3285405]]"
+  - '[[_Standards/WikiData/WD~The_Vikings_at_Helgeland,3285405]]'
   - "[[_Standards/WikiData/WD~Love's_Comedy,3286220]]"
-  - "[[_Standards/WikiData/WD~The_Grouse_in_Justedal,10381004]]"
-  - "[[_Standards/WikiData/WD~Svanhild,17195108]]"
-  - "[[_Standards/WikiData/WD~White_Horses,125449950]]"
-field_of_work: "[[_Standards/WikiData/WD~performing_arts,184485]]"
+  - '[[_Standards/WikiData/WD~The_Grouse_in_Justedal,10381004]]'
+  - '[[_Standards/WikiData/WD~Svanhild,17195108]]'
+  - '[[_Standards/WikiData/WD~White_Horses,125449950]]'
+field_of_work: '[[_Standards/WikiData/WD~performing_arts,184485]]'
 occupation:
-  - "[[_Standards/WikiData/WD~playwright,214917]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~librettist,8178443]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-spouse: "[[_Standards/WikiData/WD~Suzannah_Ibsen,299827]]"
+  - '[[_Standards/WikiData/WD~playwright,214917]]'
+  - '[[_Standards/WikiData/WD~director,3455803]]'
+  - '[[_Standards/WikiData/WD~librettist,8178443]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
+spouse: '[[_Standards/WikiData/WD~Suzannah_Ibsen,299827]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Georg_Brandes,316045]]"
-  - "[[_Standards/WikiData/WD~Henrik_Wergeland,351705]]"
-  - "[[_Standards/WikiData/WD~Jens_Peter_Jacobsen,370246]]"
-  - "[[_Standards/WikiData/WD~Søren_Kierkegaard,6512]]"
-  - "[[_Standards/WikiData/WD~Q7724,7724]]"
+  - '[[_Standards/WikiData/WD~Georg_Brandes,316045]]'
+  - '[[_Standards/WikiData/WD~Henrik_Wergeland,351705]]'
+  - '[[_Standards/WikiData/WD~Jens_Peter_Jacobsen,370246]]'
+  - '[[_Standards/WikiData/WD~Søren_Kierkegaard,6512]]'
+  - '[[_Standards/WikiData/WD~Q7724,7724]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Henrik,594279]]"
-  - "[[_Standards/WikiData/WD~Johan,10989273]]"
+  - '[[_Standards/WikiData/WD~Henrik,594279]]'
+  - '[[_Standards/WikiData/WD~Johan,10989273]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Svenskt_konstnärslexikon,10685690]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Svenskt_konstnärslexikon,10685690]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
   - "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747]]"
-  - "[[_Standards/WikiData/WD~IbsenStage,119854460]]"
+  - '[[_Standards/WikiData/WD~IbsenStage,119854460]]'
   - "[[_Standards/WikiData/WD~Henrik_Ibsen's_writings_Digital_Edition,119854519]]"
-  - "[[_Standards/WikiData/WD~The_Virtual_Ibsen_Centre,123819186]]"
-place_of_burial: "[[_Standards/WikiData/WD~Vår_Frelsers_gravlund,1069938]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]"
+  - '[[_Standards/WikiData/WD~The_Virtual_Ibsen_Centre,123819186]]'
+place_of_burial: '[[_Standards/WikiData/WD~Vår_Frelsers_gravlund,1069938]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
 child:
-  - "[[_Standards/WikiData/WD~Sigurd_Ibsen,2621911]]"
-  - "[[_Standards/WikiData/WD~Hans_Jacob_Henriksen,17119721]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-father: "[[_Standards/WikiData/WD~Knud_Ibsen,6423780]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-mother: "[[_Standards/WikiData/WD~Marichen_Altenburg,6762566]]"
+  - '[[_Standards/WikiData/WD~Sigurd_Ibsen,2621911]]'
+  - '[[_Standards/WikiData/WD~Hans_Jacob_Henriksen,17119721]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+father: '[[_Standards/WikiData/WD~Knud_Ibsen,6423780]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+mother: '[[_Standards/WikiData/WD~Marichen_Altenburg,6762566]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Hedvig_Ibsen,11974617]]"
-  - "[[_Standards/WikiData/WD~Ole_Paus_Ibsen,17119783]]"
-  - "[[_Standards/WikiData/WD~Johan_Andreas_Altenburg_Ibsen,125937881]]"
-  - "[[_Standards/WikiData/WD~Nicolai_Alexander_Ibsen,125947993]]"
-  - "[[_Standards/WikiData/WD~Johan_Altenburg_Ibsen,125949261]]"
-different_from: "[[_Standards/WikiData/WD~Henrich_Ibsen,11975025]]"
-place_of_birth: "[[_Standards/WikiData/WD~Stockmanngården,12003312]]"
+  - '[[_Standards/WikiData/WD~Hedvig_Ibsen,11974617]]'
+  - '[[_Standards/WikiData/WD~Ole_Paus_Ibsen,17119783]]'
+  - '[[_Standards/WikiData/WD~Johan_Andreas_Altenburg_Ibsen,125937881]]'
+  - '[[_Standards/WikiData/WD~Nicolai_Alexander_Ibsen,125947993]]'
+  - '[[_Standards/WikiData/WD~Johan_Altenburg_Ibsen,125949261]]'
+different_from: '[[_Standards/WikiData/WD~Henrich_Ibsen,11975025]]'
+place_of_birth: '[[_Standards/WikiData/WD~Stockmanngården,12003312]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_St._Olav,13377518]]"
-  - "[[_Standards/WikiData/WD~3rd_class,_Order_of_the_Medjidie,16735740]]"
+  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_St._Olav,13377518]]'
+  - '[[_Standards/WikiData/WD~3rd_class,_Order_of_the_Medjidie,16735740]]'
   - "[[_Standards/WikiData/WD~King_Oscar_II's_reward_medal,19377865]]"
   - "[[_Standards/WikiData/WD~Order_of_the_Polar_Star_Commander's_Grand_Cross,20899901]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Dannebrog,22058866]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Vasa,23050174]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Officer_of_the_Order_of_the_Saxe_Ernestine,107686140]]"
-family_name: "[[_Standards/WikiData/WD~Ibsen,21487232]]"
-filmography: "[[_Standards/WikiData/WD~Henrik_Ibsen_filmography,25427895]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Dannebrog,22058866]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Vasa,23050174]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Officer_of_the_Order_of_the_Saxe_Ernestine,107686140]]'
+family_name: '[[_Standards/WikiData/WD~Ibsen,21487232]]'
+filmography: '[[_Standards/WikiData/WD~Henrik_Ibsen_filmography,25427895]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 work_period_start_: 1850-01-01T00:00:00Z
 genre:
-  - "[[_Standards/WikiData/WD~poetry,482]]"
-  - "[[_Standards/WikiData/WD~drama,25372]]"
+  - '[[_Standards/WikiData/WD~poetry,482]]'
+  - '[[_Standards/WikiData/WD~drama,25372]]'
 writing_language:
-  - "[[_Standards/WikiData/WD~Danish,9035]]"
-  - "[[_Standards/WikiData/WD~Norwegian,9043]]"
+  - '[[_Standards/WikiData/WD~Danish,9035]]'
+  - '[[_Standards/WikiData/WD~Norwegian,9043]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Danish,9035]]"
-  - "[[_Standards/WikiData/WD~Norwegian,9043]]"
-native_language: "[[_Standards/WikiData/WD~Norwegian,9043]]"
-cause_of_death: "[[_Standards/WikiData/WD~stroke,12202]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Norway,20]]"
-nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
+  - '[[_Standards/WikiData/WD~Danish,9035]]'
+  - '[[_Standards/WikiData/WD~Norwegian,9043]]'
+native_language: '[[_Standards/WikiData/WD~Norwegian,9043]]'
+cause_of_death: '[[_Standards/WikiData/WD~stroke,12202]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Norway,20]]'
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
 official_website:
   - https://www.hf.uio.no/is/tjenester/virtuelle-ibsensenteret/
   - https://www.nb.no/forskning/ibsen/
@@ -146,8 +147,8 @@ signature:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Henrik%20Ibsen%27s%20signature.png
   - http://commons.wikimedia.org/wiki/Special:FilePath/Henrik%20Ibsen%27s%20signature%2020th%20of%20June%201871.jpg
 described_at_URL: http://www.digiporta.net/index.php?id=888629560
-ISNI: "0000000121385710"
-NLC_authorities: "000101757"
+ISNI: 0000000121385710
+NLC_authorities: 000101757
 Plex_person_key: 5dcd3911241cad001df0bb08
 work_period_end_: 1906-01-01T00:00:00Z
 CYT_CCS: AC000059069

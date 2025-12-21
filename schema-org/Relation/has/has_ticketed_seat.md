@@ -3,23 +3,24 @@ aliases:
   - has ticketed-seat
   - ticketedSeat
   - has_ticketed_seat
+  - has ticketed seat
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - ticketed_seat
   - ticketed
   - seat
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_ticketed_seat
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

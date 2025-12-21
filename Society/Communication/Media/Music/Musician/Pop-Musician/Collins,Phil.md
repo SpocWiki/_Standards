@@ -5,133 +5,134 @@ aliases:
   - Philip Collins
   - Phil Collins
   - Collins
+  - Collins,Phil
 has_id_wikidata: Q144622
 award_received:
-  - "[[_Standards/WikiData/WD~Royal_Victorian_Order,94050]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]"
-  - "[[_Standards/WikiData/WD~MusiCares_Person_of_the_Year,326482]]"
-  - "[[_Standards/WikiData/WD~Disney_Legends,1150306]]"
-  - "[[_Standards/WikiData/WD~German_Radio_Award,1205214]]"
-  - "[[_Standards/WikiData/WD~Q3334517,3334517]]"
-  - "[[_Standards/WikiData/WD~Silver_Clef_Award,3483987]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Johnny_Mercer_Award,61669648]]"
-  - "[[_Standards/WikiData/WD~Echo_Pop_Award_for_the_Best_International_Rock_Pop_Male_Artist,135992139]]"
+  - '[[_Standards/WikiData/WD~Royal_Victorian_Order,94050]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+  - '[[_Standards/WikiData/WD~MusiCares_Person_of_the_Year,326482]]'
+  - '[[_Standards/WikiData/WD~Disney_Legends,1150306]]'
+  - '[[_Standards/WikiData/WD~German_Radio_Award,1205214]]'
+  - '[[_Standards/WikiData/WD~Q3334517,3334517]]'
+  - '[[_Standards/WikiData/WD~Silver_Clef_Award,3483987]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~Johnny_Mercer_Award,61669648]]'
+  - '[[_Standards/WikiData/WD~Echo_Pop_Award_for_the_Best_International_Rock_Pop_Male_Artist,135992139]]'
 genre:
-  - "[[_Standards/WikiData/WD~jazz_fusion,105527]]"
-  - "[[_Standards/WikiData/WD~soft_rock,217191]]"
-  - "[[_Standards/WikiData/WD~pop_rock,484641]]"
-  - "[[_Standards/WikiData/WD~funk_rock,835891]]"
-  - "[[_Standards/WikiData/WD~rock_music,11399]]"
-  - "[[_Standards/WikiData/WD~pop_music,37073]]"
-  - "[[_Standards/WikiData/WD~progressive_rock,49451]]"
-nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]"
+  - '[[_Standards/WikiData/WD~jazz_fusion,105527]]'
+  - '[[_Standards/WikiData/WD~soft_rock,217191]]'
+  - '[[_Standards/WikiData/WD~pop_rock,484641]]'
+  - '[[_Standards/WikiData/WD~funk_rock,835891]]'
+  - '[[_Standards/WikiData/WD~rock_music,11399]]'
+  - '[[_Standards/WikiData/WD~pop_music,37073]]'
+  - '[[_Standards/WikiData/WD~progressive_rock,49451]]'
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
 instrument:
-  - "[[_Standards/WikiData/WD~drum_kit,128309]]"
-  - "[[_Standards/WikiData/WD~percussion_instrument,133163]]"
-  - "[[_Standards/WikiData/WD~voice,17172850]]"
-  - "[[_Standards/WikiData/WD~piano,5994]]"
-  - "[[_Standards/WikiData/WD~guitar,6607]]"
-  - "[[_Standards/WikiData/WD~trumpet,8338]]"
-  - "[[_Standards/WikiData/WD~bagpipe,8347]]"
-  - "[[_Standards/WikiData/WD~bass_guitar,46185]]"
+  - '[[_Standards/WikiData/WD~drum_kit,128309]]'
+  - '[[_Standards/WikiData/WD~percussion_instrument,133163]]'
+  - '[[_Standards/WikiData/WD~voice,17172850]]'
+  - '[[_Standards/WikiData/WD~piano,5994]]'
+  - '[[_Standards/WikiData/WD~guitar,6607]]'
+  - '[[_Standards/WikiData/WD~trumpet,8338]]'
+  - '[[_Standards/WikiData/WD~bagpipe,8347]]'
+  - '[[_Standards/WikiData/WD~bass_guitar,46185]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Genesis,151012]]"
-  - "[[_Standards/WikiData/WD~Brand_X,897767]]"
-  - "[[_Standards/WikiData/WD~The_Phil_Collins_Big_Band,2596621]]"
-  - "[[_Standards/WikiData/WD~Flaming_Youth,2600581]]"
+  - '[[_Standards/WikiData/WD~Genesis,151012]]'
+  - '[[_Standards/WikiData/WD~Brand_X,897767]]'
+  - '[[_Standards/WikiData/WD~The_Phil_Collins_Big_Band,2596621]]'
+  - '[[_Standards/WikiData/WD~Flaming_Youth,2600581]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~cinematographer,222344]]"
-  - "[[_Standards/WikiData/WD~drummer,386854]]"
-  - "[[_Standards/WikiData/WD~pianist,486748]]"
-  - "[[_Standards/WikiData/WD~singer_songwriter,488205]]"
-  - "[[_Standards/WikiData/WD~musician,639669]]"
-  - "[[_Standards/WikiData/WD~bandleader,806349]]"
-  - "[[_Standards/WikiData/WD~lyricist,822146]]"
-  - "[[_Standards/WikiData/WD~guitarist,855091]]"
-  - "[[_Standards/WikiData/WD~voice_actor,2405480]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~model,4610556]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~rock_musician,12374149]]"
-  - "[[_Standards/WikiData/WD~jazz_musician,15981151]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~recording_artist,55960555]]"
-  - "[[_Standards/WikiData/WD~pop_singer,60723829]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~cinematographer,222344]]'
+  - '[[_Standards/WikiData/WD~drummer,386854]]'
+  - '[[_Standards/WikiData/WD~pianist,486748]]'
+  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+  - '[[_Standards/WikiData/WD~musician,639669]]'
+  - '[[_Standards/WikiData/WD~bandleader,806349]]'
+  - '[[_Standards/WikiData/WD~lyricist,822146]]'
+  - '[[_Standards/WikiData/WD~guitarist,855091]]'
+  - '[[_Standards/WikiData/WD~voice_actor,2405480]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~model,4610556]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~rock_musician,12374149]]'
+  - '[[_Standards/WikiData/WD~jazz_musician,15981151]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+  - '[[_Standards/WikiData/WD~pop_singer,60723829]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Atlantic_Records,202440]]"
-  - "[[_Standards/WikiData/WD~Virgin_Records,203059]]"
-  - "[[_Standards/WikiData/WD~Rhino_Entertainment_Company,627091]]"
-  - "[[_Standards/WikiData/WD~Warner_Records_Inc.,67030918]]"
-  - "[[_Standards/WikiData/WD~Walt_Disney_Records,54860]]"
+  - '[[_Standards/WikiData/WD~Atlantic_Records,202440]]'
+  - '[[_Standards/WikiData/WD~Virgin_Records,203059]]'
+  - '[[_Standards/WikiData/WD~Rhino_Entertainment_Company,627091]]'
+  - '[[_Standards/WikiData/WD~Warner_Records_Inc.,67030918]]'
+  - '[[_Standards/WikiData/WD~Walt_Disney_Records,54860]]'
 child:
-  - "[[_Standards/WikiData/WD~Lily_Collins,229184]]"
-  - "[[_Standards/WikiData/WD~Simon_Collins,1716611]]"
-  - "[[_Standards/WikiData/WD~Joely_Collins,3180284]]"
-  - "[[_Standards/WikiData/WD~Nicholas_Collins,116263000]]"
-  - "[[_Standards/WikiData/WD~Matthew_Collins,132658884]]"
+  - '[[_Standards/WikiData/WD~Lily_Collins,229184]]'
+  - '[[_Standards/WikiData/WD~Simon_Collins,1716611]]'
+  - '[[_Standards/WikiData/WD~Joely_Collins,3180284]]'
+  - '[[_Standards/WikiData/WD~Nicholas_Collins,116263000]]'
+  - '[[_Standards/WikiData/WD~Matthew_Collins,132658884]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~A_Groovy_Kind_of_Love,300428]]"
-  - "[[_Standards/WikiData/WD~Against_All_Odds_(Take_a_Look_at_Me_Now),390134]]"
-  - "[[_Standards/WikiData/WD~In_the_Air_Tonight,546425]]"
-  - "[[_Standards/WikiData/WD~Another_Day_in_Paradise,568004]]"
+  - '[[_Standards/WikiData/WD~A_Groovy_Kind_of_Love,300428]]'
+  - '[[_Standards/WikiData/WD~Against_All_Odds_(Take_a_Look_at_Me_Now),390134]]'
+  - '[[_Standards/WikiData/WD~In_the_Air_Tonight,546425]]'
+  - '[[_Standards/WikiData/WD~Another_Day_in_Paradise,568004]]'
   - "[[_Standards/WikiData/WD~You'll_Be_in_My_Heart,1343745]]"
   - "[[_Standards/WikiData/WD~You_Can't_Hurry_Love,98400302]]"
   - "[[_Standards/WikiData/WD~You_Can't_Hurry_Love,98400325]]"
 field_of_work:
-  - "[[_Standards/WikiData/WD~lyrics,602446]]"
-  - "[[_Standards/WikiData/WD~literary_activity,115160290]]"
-  - "[[_Standards/WikiData/WD~music,638]]"
-  - "[[_Standards/WikiData/WD~autobiography,4184]]"
-  - "[[_Standards/WikiData/WD~rock_music,11399]]"
-  - "[[_Standards/WikiData/WD~singing,27939]]"
+  - '[[_Standards/WikiData/WD~lyrics,602446]]'
+  - '[[_Standards/WikiData/WD~literary_activity,115160290]]'
+  - '[[_Standards/WikiData/WD~music,638]]'
+  - '[[_Standards/WikiData/WD~autobiography,4184]]'
+  - '[[_Standards/WikiData/WD~rock_music,11399]]'
+  - '[[_Standards/WikiData/WD~singing,27939]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Philip,827311]]"
-  - "[[_Standards/WikiData/WD~Charles,2958359]]"
-  - "[[_Standards/WikiData/WD~David,18057751]]"
-family_name: "[[_Standards/WikiData/WD~Collins,1791084]]"
-discography: "[[_Standards/WikiData/WD~Phil_Collins_discography,1805434]]"
-medical_condition: "[[_Standards/WikiData/WD~type_2_diabetes,3025883]]"
-filmography: "[[_Standards/WikiData/WD~Phil_Collins_filmography,3072139]]"
+  - '[[_Standards/WikiData/WD~Philip,827311]]'
+  - '[[_Standards/WikiData/WD~Charles,2958359]]'
+  - '[[_Standards/WikiData/WD~David,18057751]]'
+family_name: '[[_Standards/WikiData/WD~Collins,1791084]]'
+discography: '[[_Standards/WikiData/WD~Phil_Collins_discography,1805434]]'
+medical_condition: '[[_Standards/WikiData/WD~type_2_diabetes,3025883]]'
+filmography: '[[_Standards/WikiData/WD~Phil_Collins_filmography,3072139]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Chiswick_School,5102166]]"
-  - "[[_Standards/WikiData/WD~Barbara_Speake_Stage_School,16983651]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Dana_Tyler,5214857]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-copyright_representative: "[[_Standards/WikiData/WD~PRS_for_Music,7120528]]"
-different_from: "[[_Standards/WikiData/WD~Phil_Collins,7181799]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Phil_Collins,10706155]]"
+  - '[[_Standards/WikiData/WD~Chiswick_School,5102166]]'
+  - '[[_Standards/WikiData/WD~Barbara_Speake_Stage_School,16983651]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Dana_Tyler,5214857]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+copyright_representative: '[[_Standards/WikiData/WD~PRS_for_Music,7120528]]'
+different_from: '[[_Standards/WikiData/WD~Phil_Collins,7181799]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Phil_Collins,10706155]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Orianne_Cevey,66104381]]"
-  - "[[_Standards/WikiData/WD~Andrea_Bertorelli,76448205]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
+  - '[[_Standards/WikiData/WD~Orianne_Cevey,66104381]]'
+  - '[[_Standards/WikiData/WD~Andrea_Bertorelli,76448205]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 place_of_birth:
-  - "[[_Standards/WikiData/WD~Putney_Hospital,106610682]]"
-  - "[[_Standards/WikiData/WD~London,84]]"
-father: "[[_Standards/WikiData/WD~Greville_Bernard_Philip_A_Collins,108844412]]"
-mother: "[[_Standards/WikiData/WD~June_Strange,108844434]]"
+  - '[[_Standards/WikiData/WD~Putney_Hospital,106610682]]'
+  - '[[_Standards/WikiData/WD~London,84]]'
+father: '[[_Standards/WikiData/WD~Greville_Bernard_Philip_A_Collins,108844412]]'
+mother: '[[_Standards/WikiData/WD~June_Strange,108844434]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-voice_type: "[[_Standards/WikiData/WD~tenor,27914]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-residence: "[[_Standards/WikiData/WD~Toronto,172]]"
+  - '[[_Standards/WikiData/WD~Italian,652]]'
+  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+  - '[[_Standards/WikiData/WD~German,188]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+voice_type: '[[_Standards/WikiData/WD~tenor,27914]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+residence: '[[_Standards/WikiData/WD~Toronto,172]]'
 number_of_children: 5
 social_media_followers:
   - 3300000
   - 199117
 height: 1.68
-identifier_in_filmpolski_movie_database: "10397"
+identifier_in_filmpolski_movie_database: 10397
 Commons_category: Phil Collins
 work_period_start_: 1968-01-01T00:00:00Z
 short_name: Phil Collins
@@ -143,11 +144,11 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Phil%20Collins%20S
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Phil%20Collins%20star.jpg
 official_website: http://www.philcollins.com
 ISNI:
-  - "0000000114693467"
-  - "0000000374378324"
+  - 0000000114693467
+  - 0000000374378324
 IPI_name_number:
-  - "00059746436"
-  - "00121924204"
+  - 00059746436
+  - 00121924204
 Plex_person_key: 5d77682854c0f0001f301f5f
 Instagram_username: officialphilcollins
 Facebook_username: philcollins

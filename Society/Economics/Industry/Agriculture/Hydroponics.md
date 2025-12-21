@@ -1,21 +1,22 @@
 ---
 aliases:
   - Hydroponik
+  - Hydroponics
 has_id_wikidata: Q191667
-uses: "[[_Standards/WikiData/WD~fertilizer,83323]]"
-followed_by: "[[_Standards/WikiData/WD~aeroponics,381640]]"
-different_from: "[[_Standards/WikiData/WD~aquaponics,557542]]"
-follows: "[[_Standards/WikiData/WD~arable_farming,3198719]]"
+uses: '[[_Standards/WikiData/WD~fertilizer,83323]]'
+followed_by: '[[_Standards/WikiData/WD~aeroponics,381640]]'
+different_from: '[[_Standards/WikiData/WD~aquaponics,557542]]'
+follows: '[[_Standards/WikiData/WD~arable_farming,3198719]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~process,10843872]]"
-  - "[[_Standards/WikiData/WD~controlled_environment_agriculture,16951286]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Chi,_Chün_tao,11054345]]"
-depicted_by: "[[_Standards/WikiData/WD~IOP_1955_Episode_236,127946864]]"
+  - '[[_Standards/WikiData/WD~process,10843872]]'
+  - '[[_Standards/WikiData/WD~controlled_environment_agriculture,16951286]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Chi,_Chün_tao,11054345]]'
+depicted_by: '[[_Standards/WikiData/WD~IOP_1955_Episode_236,127946864]]'
 item_operated:
-  - "[[_Standards/WikiData/WD~water,283]]"
-  - "[[_Standards/WikiData/WD~plant,756]]"
-used_by: "[[_Standards/WikiData/WD~horticulture,48803]]"
-has_use: "[[_Standards/WikiData/WD~horticulture,48803]]"
+  - '[[_Standards/WikiData/WD~water,283]]'
+  - '[[_Standards/WikiData/WD~plant,756]]'
+used_by: '[[_Standards/WikiData/WD~horticulture,48803]]'
+has_use: '[[_Standards/WikiData/WD~horticulture,48803]]'
 social_media_followers:
   - 68102
   - 105294
@@ -27,8 +28,8 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/CDC%20South%20Aquaponics%20Raft%20Tank%201%202010-07-17.jpg
 Commons_category: Hydroponics
 Dewey_Decimal_Classification:
-  - "631.585"
-  - "635.0485"
+  - 631.585
+  - 635.0485
 UMLS_CUI: C0242737
 MeSH_tree_code: J01.040.581
 time_of_discovery_or_invention: 0304-01-01T00:00:00Z

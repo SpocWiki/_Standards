@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Brad Delp"
+  - Brad Delp
+  - Delp,Brad
 ---
 
 #has_/time_/started :: 1951-06-12

@@ -3,6 +3,8 @@ aliases:
   - incandescent light bulb
   - incandescent lamp
   - incandescent light globe
+  - Incandescent_Light_Bulb
+  - Incandescent Light Bulb
 has_id_wikidata: Q47616
 represents:
   - "[[_Standards/WikiData/WD~idea,131841]]"
@@ -27,8 +29,8 @@ made_from_material:
   - "[[_Standards/WikiData/WD~argon,696]]"
   - "[[_Standards/WikiData/WD~glass,11469]]"
 copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-Nomenclature_for_Museum_Cataloging: "1761"
-OmegaWiki_Defined_Meaning: "406777"
+Nomenclature_for_Museum_Cataloging: 1761
+OmegaWiki_Defined_Meaning: 406777
 Unicode_character: 💡
 Commons_category: Incandescent light bulbs
 image:
@@ -40,14 +42,14 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Latarnie-morskie-w-Pol
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Gloeilamp-article.ogg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Symbol%20Visual%20indicator1.svg
 EntitySchema_for_this_class: E26
-Common_Procurement_Vocabulary_code: "31519100"
+Common_Procurement_Vocabulary_code: 31519100
 Iconclass_notation: 41B371
 MCN_code: 7011.10.10
 IEV_number: 845-27-011
 Commons_gallery: Incandescent light bulb
 ---
 
-# [[Incandescent_Light_Bulb]] 
+# [[Incandescent_Light_Bulb]] 💡 
 
 #is_/same_as :: [[WD~Incandescent_light_bulb,47616]] 
 

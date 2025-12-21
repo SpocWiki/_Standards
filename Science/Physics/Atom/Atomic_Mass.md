@@ -1,77 +1,32 @@
 ---
+aliases:
+  - Atomic_Mass
+  - Atomic Mass
 has_id_wikidata: Q3840065
-instance_of: "[[_Standards/WikiData/WD~concept,151885]]"
+instance_of: '[[_Standards/WikiData/WD~concept,151885]]'
 recommended_unit_of_measurement:
-  - "[[_Standards/WikiData/WD~dalton,483261]]"
-  - "[[_Standards/WikiData/WD~kilogram,11570]]"
+  - '[[_Standards/WikiData/WD~dalton,483261]]'
+  - '[[_Standards/WikiData/WD~kilogram,11570]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~ISO_80000_10_2019_Quantities_and_units_Part_10_Atomic_and_nuclear_physics,85490171]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~ISO_80000_10_2019_Quantities_and_units_Part_10_Atomic_and_nuclear_physics,85490171]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Commons_category: Relative atomic mass
 different_from:
-  - "[[_Standards/WikiData/WD~nuclidic_mass,97010809]]"
-  - "[[_Standards/WikiData/WD~rest_mass_of_atom,108211288]]"
-  - "[[_Standards/WikiData/WD~relative_atomic_mass,41377]]"
-ISQ_dimension: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\mathsf {M}}}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <mrow class="MJX-TeXAtom-ORD">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="sans-serif">M</mi>
-            </mrow>
-          </mrow>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle {\mathsf {M}}}</annotation>
-    </semantics>
-  </math>
-subclass_of: "[[_Standards/WikiData/WD~mass,11423]]"
-OmegaWiki_Defined_Meaning: "8297"
+  - '[[_Standards/WikiData/WD~nuclidic_mass,97010809]]'
+  - '[[_Standards/WikiData/WD~rest_mass_of_atom,108211288]]'
+  - '[[_Standards/WikiData/WD~relative_atomic_mass,41377]]'
+ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {M}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi mathvariant=\"sans-serif\">M</mi>\n          </mrow>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {M}}}</annotation>\n  </semantics>\n</math>"
+subclass_of: '[[_Standards/WikiData/WD~mass,11423]]'
+OmegaWiki_Defined_Meaning: 8297
 quantity_symbol_LaTeX_:
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle m({\mathsf {X}})}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>m</mi>
-            <mo stretchy="false">(</mo>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mrow class="MJX-TeXAtom-ORD">
-                <mi mathvariant="sans-serif">X</mi>
-              </mrow>
-            </mrow>
-            <mo stretchy="false">)</mo>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle m({\mathsf {X}})}</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle m_{\mathsf {X}}}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <msub>
-              <mi>m</mi>
-              <mrow class="MJX-TeXAtom-ORD">
-                <mrow class="MJX-TeXAtom-ORD">
-                  <mi mathvariant="sans-serif">X</mi>
-                </mrow>
-              </mrow>
-            </msub>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle m_{\mathsf {X}}}</annotation>
-      </semantics>
-    </math>
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle m({\\mathsf {X}})}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>m</mi>\n        <mo stretchy=\"false\">(</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi mathvariant=\"sans-serif\">X</mi>\n          </mrow>\n        </mrow>\n        <mo stretchy=\"false\">)</mo>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle m({\\mathsf {X}})}</annotation>\n  </semantics>\n</math>"
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle m_{\\mathsf {X}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msub>\n          <mi>m</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">X</mi>\n            </mrow>\n          </mrow>\n        </msub>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle m_{\\mathsf {X}}}</annotation>\n  </semantics>\n</math>"
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Stylised%20atom%20with%20three%20Bohr%20model%20orbits%20and%20stylised%20nucleus.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3%E0%A6%AC%E0%A6%BF%E0%A6%95%20%E0%A6%AD%E0%A6%B0.wav
 IEV_number: 113-05-22
-P8189: "987007295868705171"
+P8189: 987007295868705171
 Colon_Classification: E:14
 Krugosvet_article: nauka_i_tehnika/himiya/ATOMNAYA_MASSA.html
 ---

@@ -12,56 +12,56 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: DayOfWeek
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - saturday
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_saturday Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_saturday Class
 type: Type
 named_after:
-  - "[[_Standards/WikiData/WD~Shabbat,102477]]"
-  - "[[_Standards/WikiData/WD~Saturn,134388]]"
-  - "[[_Standards/WikiData/WD~bathing,327651]]"
-  - "[[_Standards/WikiData/WD~Earth,1400745]]"
-  - "[[_Standards/WikiData/WD~7,23350]]"
-  - "[[_Standards/WikiData/WD~6,23488]]"
-  - "[[_Standards/WikiData/WD~washing,23841]]"
-  - "[[_Standards/WikiData/WD~Friday,130]]"
-part_of: "[[_Standards/WikiData/WD~weekend,211391]]"
+  - '[[_Standards/WikiData/WD~Shabbat,102477]]'
+  - '[[_Standards/WikiData/WD~Saturn,134388]]'
+  - '[[_Standards/WikiData/WD~bathing,327651]]'
+  - '[[_Standards/WikiData/WD~Earth,1400745]]'
+  - '[[_Standards/WikiData/WD~7,23350]]'
+  - '[[_Standards/WikiData/WD~6,23488]]'
+  - '[[_Standards/WikiData/WD~washing,23841]]'
+  - '[[_Standards/WikiData/WD~Friday,130]]'
+part_of: '[[_Standards/WikiData/WD~weekend,211391]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~holiday,1445650]]"
-  - "[[_Standards/WikiData/WD~day,573]]"
+  - '[[_Standards/WikiData/WD~holiday,1445650]]'
+  - '[[_Standards/WikiData/WD~day,573]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Sobota,1642528]]"
-  - "[[_Standards/WikiData/WD~Sonnabend,1724236]]"
-  - "[[_Standards/WikiData/WD~Samedi,3470733]]"
-  - "[[_Standards/WikiData/WD~Samstag,21921772]]"
+  - '[[_Standards/WikiData/WD~Sobota,1642528]]'
+  - '[[_Standards/WikiData/WD~Sonnabend,1724236]]'
+  - '[[_Standards/WikiData/WD~Samedi,3470733]]'
+  - '[[_Standards/WikiData/WD~Samstag,21921772]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q25634196,25634196]]"
-  - "[[_Standards/WikiData/WD~Q110361529,110361529]]"
-follows: "[[_Standards/WikiData/WD~Friday,130]]"
-followed_by: "[[_Standards/WikiData/WD~Sunday,132]]"
-instance_of: "[[_Standards/WikiData/WD~day_of_the_week,41825]]"
+  - '[[_Standards/WikiData/WD~Q25634196,25634196]]'
+  - '[[_Standards/WikiData/WD~Q110361529,110361529]]'
+follows: '[[_Standards/WikiData/WD~Friday,130]]'
+followed_by: '[[_Standards/WikiData/WD~Sunday,132]]'
+instance_of: '[[_Standards/WikiData/WD~day_of_the_week,41825]]'
 series_ordinal:
-  - "1"
-  - "6"
-  - "0"
-OmegaWiki_Defined_Meaning: "6994"
+  - 1
+  - 6
+  - 0
+OmegaWiki_Defined_Meaning: 6994
 code: B
-Dewey_Decimal_Classification: "529.1"
+Dewey_Decimal_Classification: 529.1
 Commons_category: Saturday
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-dissabte-spreadthesign.ogv
 spoken_text_audio:

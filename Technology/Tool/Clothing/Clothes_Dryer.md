@@ -5,17 +5,19 @@ aliases:
   - drying machine
   - drying device
   - dryer
+  - Clothes_Dryer
+  - Clothes Dryer
 has_id_wikidata: Q496334
-has_part_s_: "[[_Standards/WikiData/WD~electric_motor,72313]]"
+has_part_s_: '[[_Standards/WikiData/WD~electric_motor,72313]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~home_appliance,212920]]"
-  - "[[_Standards/WikiData/WD~major_appliance,12269769]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-OmegaWiki_Defined_Meaning: "866746"
+  - '[[_Standards/WikiData/WD~home_appliance,212920]]'
+  - '[[_Standards/WikiData/WD~major_appliance,12269769]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+OmegaWiki_Defined_Meaning: 866746
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-W%C3%A4schetrockner.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lehorgailua-115.jpg
-Common_Procurement_Vocabulary_code: "42716200"
-P8189: "987007283924505171"
+Common_Procurement_Vocabulary_code: 42716200
+P8189: 987007283924505171
 Commons_gallery: Clothes dryer
 Commons_category: Clothes dryers
 ---

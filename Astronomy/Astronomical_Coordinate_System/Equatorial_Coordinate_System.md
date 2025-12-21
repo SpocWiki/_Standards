@@ -1,6 +1,8 @@
 ---
 aliases:
   - equatorial coordinate system
+  - Equatorial_Coordinate_System
+  - Equatorial Coordinate System
 has_id_wikidata: Q208617
 ---
 

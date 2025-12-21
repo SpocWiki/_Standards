@@ -1,38 +1,39 @@
 ---
 aliases:
   - Verschlüsselung
+  - Encryption
 has_id_wikidata: Q141090
 has_use:
-  - "[[_Standards/WikiData/WD~espionage,165950]]"
-  - "[[_Standards/WikiData/WD~digital_rights_management,192532]]"
-  - "[[_Standards/WikiData/WD~authentication,212108]]"
-  - "[[_Standards/WikiData/WD~data_integrity,461671]]"
-  - "[[_Standards/WikiData/WD~counterintelligence,501700]]"
-  - "[[_Standards/WikiData/WD~Internet_censorship_circumvention,839180]]"
-  - "[[_Standards/WikiData/WD~secrecy,1503443]]"
-  - "[[_Standards/WikiData/WD~secure_communication,7444868]]"
-  - "[[_Standards/WikiData/WD~data_protection,23647168]]"
+  - '[[_Standards/WikiData/WD~espionage,165950]]'
+  - '[[_Standards/WikiData/WD~digital_rights_management,192532]]'
+  - '[[_Standards/WikiData/WD~authentication,212108]]'
+  - '[[_Standards/WikiData/WD~data_integrity,461671]]'
+  - '[[_Standards/WikiData/WD~counterintelligence,501700]]'
+  - '[[_Standards/WikiData/WD~Internet_censorship_circumvention,839180]]'
+  - '[[_Standards/WikiData/WD~secrecy,1503443]]'
+  - '[[_Standards/WikiData/WD~secure_communication,7444868]]'
+  - '[[_Standards/WikiData/WD~data_protection,23647168]]'
 uses:
-  - "[[_Standards/WikiData/WD~key,471771]]"
-  - "[[_Standards/WikiData/WD~plaintext,1162538]]"
-  - "[[_Standards/WikiData/WD~cipher,4681865]]"
+  - '[[_Standards/WikiData/WD~key,471771]]'
+  - '[[_Standards/WikiData/WD~plaintext,1162538]]'
+  - '[[_Standards/WikiData/WD~cipher,4681865]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~calculation,622821]]"
-  - "[[_Standards/WikiData/WD~encoding,5375490]]"
-  - "[[_Standards/WikiData/WD~cryptographic_data_processing,124726263]]"
+  - '[[_Standards/WikiData/WD~calculation,622821]]'
+  - '[[_Standards/WikiData/WD~encoding,5375490]]'
+  - '[[_Standards/WikiData/WD~cryptographic_data_processing,124726263]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~ciphertext,1589480]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-opposite_of: "[[_Standards/WikiData/WD~decryption,25560977]]"
-facet_of: "[[_Standards/WikiData/WD~security_risk,78908682]]"
-part_of: "[[_Standards/WikiData/WD~cryptography,8789]]"
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~ciphertext,1589480]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+opposite_of: '[[_Standards/WikiData/WD~decryption,25560977]]'
+facet_of: '[[_Standards/WikiData/WD~security_risk,78908682]]'
+part_of: '[[_Standards/WikiData/WD~cryptography,8789]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Public%20key%20encryption%20keys.svg
 Stack_Exchange_tag:
   - https://crypto.stackexchange.com/tags/encryption
   - https://stackoverflow.com/tags/encryption
-ACM_Classification_Code_2012_: "10002976"
+ACM_Classification_Code_2012_: 10002976
 IEV_number: 171-08-09
 Commons_category: Cryptographic algorithms
 GitHub_topic: encryption

@@ -1,35 +1,36 @@
 ---
 aliases:
   - Puppenspiel
+  - Puppetry
 has_id_wikidata: Q588750
 subclass_of:
-  - "[[_Standards/WikiData/WD~kleinkunst,1746926]]"
-  - "[[_Standards/WikiData/WD~popular_theatre,10378998]]"
-  - "[[_Standards/WikiData/WD~puppet_opera,110889064]]"
-  - "[[_Standards/WikiData/WD~play,25379]]"
+  - '[[_Standards/WikiData/WD~kleinkunst,1746926]]'
+  - '[[_Standards/WikiData/WD~popular_theatre,10378998]]'
+  - '[[_Standards/WikiData/WD~puppet_opera,110889064]]'
+  - '[[_Standards/WikiData/WD~play,25379]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
-uses: "[[_Standards/WikiData/WD~puppet,1913135]]"
-practiced_by: "[[_Standards/WikiData/WD~puppeteer,2629392]]"
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+uses: '[[_Standards/WikiData/WD~puppet,1913135]]'
+practiced_by: '[[_Standards/WikiData/WD~puppeteer,2629392]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~animation_technique,3516833]]"
-  - "[[_Standards/WikiData/WD~theatrical_genre,7777573]]"
-  - "[[_Standards/WikiData/WD~type_of_theatrical_work,110013851]]"
+  - '[[_Standards/WikiData/WD~animation_technique,3516833]]'
+  - '[[_Standards/WikiData/WD~theatrical_genre,7777573]]'
+  - '[[_Standards/WikiData/WD~type_of_theatrical_work,110013851]]'
 different_from:
-  - "[[_Standards/WikiData/WD~puppetry_company,3982337]]"
-  - "[[_Standards/WikiData/WD~puppet_opera,110889064]]"
+  - '[[_Standards/WikiData/WD~puppetry_company,3982337]]'
+  - '[[_Standards/WikiData/WD~puppet_opera,110889064]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Opera_dei_pupi,112316163]]"
-has_characteristic: "[[_Standards/WikiData/WD~puppet_museum,131560554]]"
-GS1_GPC_code: "10005152"
+  - '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Opera_dei_pupi,112316163]]'
+has_characteristic: '[[_Standards/WikiData/WD~puppet_museum,131560554]]'
+GS1_GPC_code: 10005152
 Commons_category: Puppetry
 Iconclass_notation: 48C855
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20dei%20burattini.jpg
-Dewey_Decimal_Classification: "791.53"
+Dewey_Decimal_Classification: 791.53
 IMDb_keyword: puppetry
 Krugosvet_article_archived_: teatr-i-kino/kukolnyy-teatr
 ---

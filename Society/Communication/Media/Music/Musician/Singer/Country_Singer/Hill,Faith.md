@@ -1,57 +1,58 @@
 ---
 aliases:
-  - Audrey Faith McGraw 
+  - Audrey Faith McGraw
   - Audrey Faith Perry
   - Faith_Hill
+  - Hill,Faith
 has_id_wikidata: Q464241
-genre: "[[_Standards/WikiData/WD~country_music,83440]]"
+genre: '[[_Standards/WikiData/WD~country_music,83440]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Aretha_Franklin,125121]]"
-  - "[[_Standards/WikiData/WD~Dolly_Parton,180453]]"
-  - "[[_Standards/WikiData/WD~Mahalia_Jackson,206466]]"
-  - "[[_Standards/WikiData/WD~Linda_Ronstadt,229375]]"
-  - "[[_Standards/WikiData/WD~Reba_McEntire,229430]]"
-  - "[[_Standards/WikiData/WD~Emmylou_Harris,231286]]"
-  - "[[_Standards/WikiData/WD~Tammy_Wynette,234017]]"
-  - "[[_Standards/WikiData/WD~Loretta_Lynn,272931]]"
-  - "[[_Standards/WikiData/WD~Patsy_Cline,273080]]"
-  - "[[_Standards/WikiData/WD~Barbara_Mandrell,292373]]"
-  - "[[_Standards/WikiData/WD~Crystal_Gayle,434512]]"
-  - "[[_Standards/WikiData/WD~Suzy_Bogguss,442461]]"
-  - "[[_Standards/WikiData/WD~Tanya_Tucker,463983]]"
-  - "[[_Standards/WikiData/WD~Amy_Grant,464213]]"
-  - "[[_Standards/WikiData/WD~K._T._Oslin,6324079]]"
-  - "[[_Standards/WikiData/WD~Q2808,2808]]"
-  - "[[_Standards/WikiData/WD~Céline_Dion,5105]]"
+  - '[[_Standards/WikiData/WD~Aretha_Franklin,125121]]'
+  - '[[_Standards/WikiData/WD~Dolly_Parton,180453]]'
+  - '[[_Standards/WikiData/WD~Mahalia_Jackson,206466]]'
+  - '[[_Standards/WikiData/WD~Linda_Ronstadt,229375]]'
+  - '[[_Standards/WikiData/WD~Reba_McEntire,229430]]'
+  - '[[_Standards/WikiData/WD~Emmylou_Harris,231286]]'
+  - '[[_Standards/WikiData/WD~Tammy_Wynette,234017]]'
+  - '[[_Standards/WikiData/WD~Loretta_Lynn,272931]]'
+  - '[[_Standards/WikiData/WD~Patsy_Cline,273080]]'
+  - '[[_Standards/WikiData/WD~Barbara_Mandrell,292373]]'
+  - '[[_Standards/WikiData/WD~Crystal_Gayle,434512]]'
+  - '[[_Standards/WikiData/WD~Suzy_Bogguss,442461]]'
+  - '[[_Standards/WikiData/WD~Tanya_Tucker,463983]]'
+  - '[[_Standards/WikiData/WD~Amy_Grant,464213]]'
+  - '[[_Standards/WikiData/WD~K._T._Oslin,6324079]]'
+  - '[[_Standards/WikiData/WD~Q2808,2808]]'
+  - '[[_Standards/WikiData/WD~Céline_Dion,5105]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~record_producer,183945]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~record_producer,183945]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Tim_McGraw,356487]]"
-  - "[[_Standards/WikiData/WD~Daniel_Hill,5217487]]"
+  - '[[_Standards/WikiData/WD~Tim_McGraw,356487]]'
+  - '[[_Standards/WikiData/WD~Daniel_Hill,5217487]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]"
-  - "[[_Standards/WikiData/WD~Warner_Records,64485314]]"
-  - "[[_Standards/WikiData/WD~Warner_Music_Group,21077]]"
-place_of_birth: "[[_Standards/WikiData/WD~Ridgeland,892431]]"
-family_name: "[[_Standards/WikiData/WD~Hill,973239]]"
-award_received: "[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Country_Female_Artist,1441582]]"
-given_name: "[[_Standards/WikiData/WD~Faith,3740805]]"
-discography: "[[_Standards/WikiData/WD~Faith_Hill_discography,5431194]]"
-educated_at: "[[_Standards/WikiData/WD~Hinds_Community_College,5766201]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
+  - '[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]'
+  - '[[_Standards/WikiData/WD~Warner_Records,64485314]]'
+  - '[[_Standards/WikiData/WD~Warner_Music_Group,21077]]'
+place_of_birth: '[[_Standards/WikiData/WD~Ridgeland,892431]]'
+family_name: '[[_Standards/WikiData/WD~Hill,973239]]'
+award_received: '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Country_Female_Artist,1441582]]'
+given_name: '[[_Standards/WikiData/WD~Faith,3740805]]'
+discography: '[[_Standards/WikiData/WD~Faith_Hill_discography,5431194]]'
+educated_at: '[[_Standards/WikiData/WD~Hinds_Community_College,5766201]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 instrument:
-  - "[[_Standards/WikiData/WD~voice,17172850]]"
-  - "[[_Standards/WikiData/WD~guitar,6607]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - '[[_Standards/WikiData/WD~voice,17172850]]'
+  - '[[_Standards/WikiData/WD~guitar,6607]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 child:
-  - "[[_Standards/WikiData/WD~Audrey_McGraw,123986464]]"
-  - "[[_Standards/WikiData/WD~Gracie_McGraw,123986564]]"
-  - "[[_Standards/WikiData/WD~Maggie_McGraw,123986705]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Audrey_McGraw,123986464]]'
+  - '[[_Standards/WikiData/WD~Gracie_McGraw,123986564]]'
+  - '[[_Standards/WikiData/WD~Maggie_McGraw,123986705]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 3
-voice_type: "[[_Standards/WikiData/WD~contralto,37137]]"
+voice_type: '[[_Standards/WikiData/WD~contralto,37137]]'
 height: 175
 social_media_followers: 1226824
 date_of_birth: 1967-09-21T00:00:00Z
@@ -61,7 +62,7 @@ name_in_native_language: Faith Hill
 work_period_start_: 1993-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Faith%20Hill%20by%20John%20Mathew%20Smith.jpg
 official_website: https://www.faithhill.com/
-ISNI: "0000000114946241"
+ISNI: 0000000114946241
 Plex_person_key: 5d7768348718ba001e3144aa
 Europeana_entity: agent/base/61568
 Wolfram_Language_entity_code: Entity["Person", "FaithHill::5x686"]

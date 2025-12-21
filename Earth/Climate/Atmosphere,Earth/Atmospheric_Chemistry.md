@@ -1,12 +1,15 @@
 ---
+aliases:
+  - Atmospheric_Chemistry
+  - Atmospheric Chemistry
 has_id_wikidata: Q287919
 subclass_of:
-  - "[[_Standards/WikiData/WD~atmospheric_sciences,757520]]"
-  - "[[_Standards/WikiData/WD~chemistry,2329]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
-practiced_by: "[[_Standards/WikiData/WD~atmospheric_chemist,105839787]]"
-OmegaWiki_Defined_Meaning: "272"
-P8189: "987007295884905171"
+  - '[[_Standards/WikiData/WD~atmospheric_sciences,757520]]'
+  - '[[_Standards/WikiData/WD~chemistry,2329]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
+practiced_by: '[[_Standards/WikiData/WD~atmospheric_chemist,105839787]]'
+OmegaWiki_Defined_Meaning: 272
+P8189: 987007295884905171
 Commons_category: Atmospheric chemistry
 Krugosvet_article:
   - nauka_i_tehnika/himiya/FIZIKO-HIMIYA_ZEMNO_ATMOSFERI.html

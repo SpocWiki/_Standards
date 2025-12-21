@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~JewelryStore
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: gem
 limit: 9
 mapWithTag: true
 tagNames:
-- class/JewelryStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/JewelryStore
-- is_a_/JewelryStore
-- schema-org/JewelryStore
+  - class/JewelryStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/JewelryStore
+  - is_a_/JewelryStore
+  - schema-org/JewelryStore
 tags:
-- class/FileClass
-- class/JewelryStore
-- is_a_/JewelryStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/JewelryStore
+  - class/FileClass
+  - class/JewelryStore
+  - is_a_/JewelryStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/JewelryStore
 version: 2.0
 ---
 

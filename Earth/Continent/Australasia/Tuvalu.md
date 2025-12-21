@@ -220,12 +220,12 @@ cssclasses:
   - Country
 publish: true
 title: Tuvalu
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 Languages:
   - tvl
   - en

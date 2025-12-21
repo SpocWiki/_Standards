@@ -4,20 +4,21 @@ aliases:
   - prep_time
   - prepTime
   - has_duration_to_prepare
+  - has duration to prepare
 confidential: public
 cssclasses:
   - Predicate
   - Duration
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
-layout:
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Durations

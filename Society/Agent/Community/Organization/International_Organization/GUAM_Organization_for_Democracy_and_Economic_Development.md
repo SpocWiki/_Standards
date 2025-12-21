@@ -1,19 +1,20 @@
 ---
 aliases:
   - GUAM Organization for Democracy and Economic Development
+  - GUAM_Organization_for_Democracy_and_Economic_Development
 has_id_wikidata: Q326816
 instance_of:
-  - "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
-  - "[[_Standards/WikiData/WD~military_alliance,1127126]]"
+  - '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
+  - '[[_Standards/WikiData/WD~military_alliance,1127126]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Collective_Security_Treaty_Organization,318693]]"
-  - "[[_Standards/WikiData/WD~Guam,16635]]"
-general_secretary: "[[_Standards/WikiData/WD~Altay_Efendiyev,20556579]]"
+  - '[[_Standards/WikiData/WD~Collective_Security_Treaty_Organization,318693]]'
+  - '[[_Standards/WikiData/WD~Guam,16635]]'
+general_secretary: '[[_Standards/WikiData/WD~Altay_Efendiyev,20556579]]'
 coordinate_location: Point(30.5217 50.4515)
-headquarters_locations: "[[_Standards/WikiData/WD~Kyiv,1899]]"
-location_of_formation: "[[_Standards/WikiData/WD~Strasbourg,6602]]"
-official_language: "[[_Standards/WikiData/WD~Russian,7737]]"
-official_observer_status_in_organization: "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
+headquarters_locations: '[[_Standards/WikiData/WD~Kyiv,1899]]'
+location_of_formation: '[[_Standards/WikiData/WD~Strasbourg,6602]]'
+official_language: '[[_Standards/WikiData/WD~Russian,7737]]'
+official_observer_status_in_organization: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
 social_media_followers: 1153
 Commons_category: GUAM Organization for Democracy and Economic Development
 inception: 1997-10-10T00:00:00Z
@@ -23,7 +24,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Guam%2C%20Kyiv.JPG
 official_website:
   - https://guam-organization.org/
   - https://guam-organization.org/en/
-ISNI: "0000000088107881"
+ISNI: 0000000088107881
 X_Twitter_username: GUAMSecretariat
 Facebook_username: odedguam
 ---

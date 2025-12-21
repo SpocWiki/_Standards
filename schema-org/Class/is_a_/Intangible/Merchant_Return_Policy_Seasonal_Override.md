@@ -4,20 +4,22 @@ aliases:
   - merchant_return_policy_seasonal_override
   - MerchantReturnPolicySeasonalOverride
   - is_a_merchant_return_policy_seasonal_override
+  - Merchant_Return_Policy_Seasonal_Override
+  - Merchant Return Policy Seasonal Override
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - merchant_return_policy_seasonal_override
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_merchant_return_policy_seasonal_override Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

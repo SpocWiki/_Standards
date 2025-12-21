@@ -1,67 +1,68 @@
 ---
 aliases:
   - Linda_Ronstadt
+  - Ronstadt,Linda
 has_id_wikidata: Q229375
 genre:
-  - "[[_Standards/WikiData/WD~country_music,83440]]"
-  - "[[_Standards/WikiData/WD~pop_rock,484641]]"
-  - "[[_Standards/WikiData/WD~folk_music,43343]]"
+  - '[[_Standards/WikiData/WD~country_music,83440]]'
+  - '[[_Standards/WikiData/WD~pop_rock,484641]]'
+  - '[[_Standards/WikiData/WD~folk_music,43343]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~singer_songwriter,488205]]"
-  - "[[_Standards/WikiData/WD~guitarist,855091]]"
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~recording_artist,55960555]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
+  - '[[_Standards/WikiData/WD~singer,177220]]'
+  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+  - '[[_Standards/WikiData/WD~guitarist,855091]]'
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]"
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Individual_Performance_in_a_Variety_or_Music_Program,4377021]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Tropical_Latin_Album,5593901]]"
-  - "[[_Standards/WikiData/WD~Latin_Grammy_Lifetime_Achievement_Award,18345366]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_Berklee_College_of_Music,112241213]]"
+  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]'
+  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Individual_Performance_in_a_Variety_or_Music_Program,4377021]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Tropical_Latin_Album,5593901]]'
+  - '[[_Standards/WikiData/WD~Latin_Grammy_Lifetime_Achievement_Award,18345366]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Berklee_College_of_Music,112241213]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Capitol_Records,193023]]"
-  - "[[_Standards/WikiData/WD~Asylum_Records,1998195]]"
+  - '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
+  - '[[_Standards/WikiData/WD~Asylum_Records,1998195]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Maria,325872]]"
-  - "[[_Standards/WikiData/WD~Linda,1136594]]"
-partner_in_business_or_sport: "[[_Standards/WikiData/WD~Nicolette_Larson,455344]]"
+  - '[[_Standards/WikiData/WD~Maria,325872]]'
+  - '[[_Standards/WikiData/WD~Linda,1136594]]'
+partner_in_business_or_sport: '[[_Standards/WikiData/WD~Nicolette_Larson,455344]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Arizona_State_University,670897]]"
-  - "[[_Standards/WikiData/WD~Catalina_Magnet_High_School,5051269]]"
-nominated_for: "[[_Standards/WikiData/WD~Tony_Award_for_Best_Actress_in_a_Musical,1537996]]"
+  - '[[_Standards/WikiData/WD~Arizona_State_University,670897]]'
+  - '[[_Standards/WikiData/WD~Catalina_Magnet_High_School,5051269]]'
+nominated_for: '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actress_in_a_Musical,1537996]]'
 member_of:
-  - "[[_Standards/WikiData/WD~The_Stone_Poneys,3496169]]"
-  - "[[_Standards/WikiData/WD~The_Bullets,59536348]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Linda_Ronstadt,10606157]]"
-field_of_work: "[[_Standards/WikiData/WD~music_composing,11895763]]"
-discography: "[[_Standards/WikiData/WD~Linda_Ronstadt_discography,13643640]]"
-instrument: "[[_Standards/WikiData/WD~voice,17172850]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Art+Feminism,24909800]]"
-family_name: "[[_Standards/WikiData/WD~Ronstadt,37534389]]"
-father: "[[_Standards/WikiData/WD~Gilbert_Ronstadt,105443758]]"
-mother: "[[_Standards/WikiData/WD~Ruth_Mary_Ronstadt,105443838]]"
+  - '[[_Standards/WikiData/WD~The_Stone_Poneys,3496169]]'
+  - '[[_Standards/WikiData/WD~The_Bullets,59536348]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Linda_Ronstadt,10606157]]'
+field_of_work: '[[_Standards/WikiData/WD~music_composing,11895763]]'
+discography: '[[_Standards/WikiData/WD~Linda_Ronstadt_discography,13643640]]'
+instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+family_name: '[[_Standards/WikiData/WD~Ronstadt,37534389]]'
+father: '[[_Standards/WikiData/WD~Gilbert_Ronstadt,105443758]]'
+mother: '[[_Standards/WikiData/WD~Ruth_Mary_Ronstadt,105443838]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
+  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
 medical_condition: "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
-place_of_birth: "[[_Standards/WikiData/WD~Tucson,18575]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+place_of_birth: '[[_Standards/WikiData/WD~Tucson,18575]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 social_media_followers: 306000
-religion_or_worldview: "[[_Standards/WikiData/WD~irreligion,58721]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~irreligion,58721]]'
 Commons_category: Linda Ronstadt
 work_period_start_: 1967-01-01T00:00:00Z
 date_of_birth: 1946-07-15T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Pompeo%20Welcomes%20the%202019%20Kennedy%20Center%20Honors%20Awardees%20to%20the%20State%20Department%20%2849187498138%29%20%28cropped%29.jpg
-ISNI: "0000000078278652"
+ISNI: 0000000078278652
 Plex_person_key: 5d77683e5af944001f1fbc89
 Europeana_entity: agent/base/61377
 Instagram_username: lindaronstadtmusic

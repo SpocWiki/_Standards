@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Play
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Play
-- class/Thing/CreativeWork/Play
-- is_a_/Play
-- schema-org/Play
+  - class/Play
+  - class/Thing/CreativeWork/Play
+  - is_a_/Play
+  - schema-org/Play
 tags:
-- class/FileClass
-- class/Play
-- is_a_/Play
-- class/Thing/CreativeWork/Play
+  - class/FileClass
+  - class/Play
+  - is_a_/Play
+  - class/Thing/CreativeWork/Play
 version: 2.0
 ---
 

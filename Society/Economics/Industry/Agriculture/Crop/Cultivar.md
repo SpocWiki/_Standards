@@ -1,17 +1,18 @@
 ---
 aliases:
   - Kultivar
+  - Cultivar
 has_id_wikidata: Q4886
-named_by: "[[_Standards/WikiData/WD~Liberty_Hyde_Bailey,152366]]"
-instance_of: "[[_Standards/WikiData/WD~taxonomic_rank,427626]]"
-different_from: "[[_Standards/WikiData/WD~cultigen,1362373]]"
+named_by: '[[_Standards/WikiData/WD~Liberty_Hyde_Bailey,152366]]'
+instance_of: '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
+different_from: '[[_Standards/WikiData/WD~cultigen,1362373]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~cultigen,1362373]]"
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_cultivar,6184948]]"
-has_list: "[[_Standards/WikiData/WD~lists_of_cultivars,6646972]]"
+  - '[[_Standards/WikiData/WD~cultigen,1362373]]'
+  - '[[_Standards/WikiData/WD~taxon,16521]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_cultivar,6184948]]'
+has_list: '[[_Standards/WikiData/WD~lists_of_cultivars,6646972]]'
 properties_for_this_type: breed belongs to taxon
-OmegaWiki_Defined_Meaning: "513769"
+OmegaWiki_Defined_Meaning: 513769
 equivalent_class: http://dbpedia.org/ontology/CultivatedVariety
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leucospermum%20cultivar%20Edit.jpg
 Commons_category: Cultivars

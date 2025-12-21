@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Museum
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/Museum
-- class/Thing/Place/CivicStructure/Museum
-- is_a_/Museum
-- schema-org/Museum
+  - class/Museum
+  - class/Thing/Place/CivicStructure/Museum
+  - is_a_/Museum
+  - schema-org/Museum
 tags:
-- class/FileClass
-- class/Museum
-- is_a_/Museum
-- class/Thing/Place/CivicStructure/Museum
+  - class/FileClass
+  - class/Museum
+  - is_a_/Museum
+  - class/Thing/Place/CivicStructure/Museum
 version: 2.0
 ---
 

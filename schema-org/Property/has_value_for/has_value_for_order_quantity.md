@@ -4,21 +4,22 @@ aliases:
   - order-quantity
   - orderQuantity
   - has_value_for_order_quantity
+  - has value for order quantity
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - order-quantity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_order-quantity
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

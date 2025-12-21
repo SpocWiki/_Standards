@@ -1,8 +1,9 @@
 ---
 aliases:
-- "Postel's law"
-- "Postel's_Law"
-- "Robustness Principle"
+  - Postel's law
+  - Postel's_Law
+  - Robustness Principle
+  - Robustness-Principle
 ---
 
 #is_/conflicting_/with :: [[Fail-fast-Principle]]  

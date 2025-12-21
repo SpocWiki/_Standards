@@ -4,21 +4,22 @@ aliases:
   - address_origin
   - originAddress
   - has_location_address_origin
+  - has location address origin
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - address_origin
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_address_origin
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo

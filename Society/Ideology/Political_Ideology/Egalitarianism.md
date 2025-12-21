@@ -3,14 +3,14 @@ aliases:
   - Egalitarianism
   - equalitarianism
 has_id_wikidata: Q188958
-field_of_work: "[[_Standards/WikiData/WD~political_philosophy,179805]]"
-has_goal: "[[_Standards/WikiData/WD~equality,773009]]"
+field_of_work: '[[_Standards/WikiData/WD~political_philosophy,179805]]'
+has_goal: '[[_Standards/WikiData/WD~equality,773009]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~school_of_thought,1387659]]"
-  - "[[_Standards/WikiData/WD~political_ideology,12909644]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~egalitarian_society,110749146]]"
+  - '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
+  - '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~egalitarian_society,110749146]]'
 Commons_category: Egalitarianism
 Library_of_Congress_Classification: JC575
 ---

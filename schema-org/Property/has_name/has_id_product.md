@@ -4,22 +4,23 @@ aliases:
   - id_product
   - productID
   - has_id_product
+  - has id product
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - product
   - id
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_id_product
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

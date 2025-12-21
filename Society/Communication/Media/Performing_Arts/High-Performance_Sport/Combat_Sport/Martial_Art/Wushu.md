@@ -4,17 +4,18 @@ aliases:
   - 功夫
   - 國術
   - 武術
+  - Wushu
 has_id_wikidata: Q3479346
 subclass_of:
-  - "[[_Standards/WikiData/WD~Chinese_martial_arts,3705105]]"
-  - "[[_Standards/WikiData/WD~combat_sport,7128792]]"
-different_from: "[[_Standards/WikiData/WD~Wushu,9378882]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q10927305,10927305]]"
-practiced_by: "[[_Standards/WikiData/WD~wushu_practitioner,65924683]]"
+  - '[[_Standards/WikiData/WD~Chinese_martial_arts,3705105]]'
+  - '[[_Standards/WikiData/WD~combat_sport,7128792]]'
+different_from: '[[_Standards/WikiData/WD~Wushu,9378882]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q10927305,10927305]]'
+practiced_by: '[[_Standards/WikiData/WD~wushu_practitioner,65924683]]'
 country_of_origin:
-  - "[[_Standards/WikiData/WD~China,29520]]"
+  - '[[_Standards/WikiData/WD~China,29520]]'
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0%20%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B%20%D0%BA%D1%83%D0%BD%D0%B3-%D1%84%D1%83%20%D0%B2%20%D0%9E%D0%90%D0%AD%20%28%D0%A5%D0%B0%D0%BD%20%D0%B8%20%D0%A2%D0%BE%D0%BD%D0%B8%20%D0%A1%D1%8E%D1%8D%29.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Wushu%20pictogram.svg
 IPTC_NewsCode: mediatopic/20001102

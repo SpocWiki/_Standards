@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Lithuania
+  - Lituania
+  - Lituanie
+  - ليتوانيا
+  - 立陶宛
+  - Литва
+  - the Republic of Lithuania
+  - la República de Lituania
+has_id_wikidata: Q37
 flag: "[[_Standards/WikiData/WD~flag_of_Lithuania,81477]]"
 replaces:
   - "[[_Standards/WikiData/WD~Lithuanian_Soviet_Socialist_Republic,173761]]"
@@ -309,7 +319,6 @@ GitHub_topic:
   - lithuania
 CIVICUS_Monitor_country_entry: lithuania
 subreddit: lithuania
-has_id_wikidata: Q37
 location:
   - 54.6833
   - 25.3167
@@ -326,21 +335,12 @@ cssclasses:
   - Country
 publish: true
 title: Lithuania
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Lithuania
-  - Lituania
-  - Lituanie
-  - ليتوانيا
-  - 立陶宛
-  - Литва
-  - the Republic of Lithuania
-  - la República de Lituania
+publishDate: ""
+expiryDate: ""
 Languages:
   - lt
   - ru

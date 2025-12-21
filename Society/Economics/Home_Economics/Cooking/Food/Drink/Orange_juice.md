@@ -2,27 +2,28 @@
 aliases:
   - Orange juice
   - Orangensaft
+  - Orange_juice
 has_id_wikidata: Q219059
 different_from:
-  - "[[_Standards/WikiData/WD~orange_soft_drink,604712]]"
-  - "[[_Standards/WikiData/WD~orange_drink,7099769]]"
-subclass_of: "[[_Standards/WikiData/WD~citrus_juice,104126379]]"
-has_part_s_: "[[_Standards/WikiData/WD~orange,13191]]"
-made_from_material: "[[_Standards/WikiData/WD~orange,13191]]"
+  - '[[_Standards/WikiData/WD~orange_soft_drink,604712]]'
+  - '[[_Standards/WikiData/WD~orange_drink,7099769]]'
+subclass_of: '[[_Standards/WikiData/WD~citrus_juice,104126379]]'
+has_part_s_: '[[_Standards/WikiData/WD~orange,13191]]'
+made_from_material: '[[_Standards/WikiData/WD~orange,13191]]'
 pH_value: 3.6
 water_footprint: 1018
 USDA_NDB_number:
-  - "09213"
-  - "09210"
-  - "09211"
-  - "09215"
-  - "09206"
-  - "09209"
-  - "09214"
-  - "09207"
-  - "09506"
+  - 09213
+  - 09210
+  - 09211
+  - 09215
+  - 09206
+  - 09209
+  - 09214
+  - 09207
+  - 09506
 Commons_category: Orange juice
-OmegaWiki_Defined_Meaning: "521929"
+OmegaWiki_Defined_Meaning: 521929
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Freshly%20Squeezed%20Orange%20Juice.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Orange%20juice%20without%20any%20fruits.jpg

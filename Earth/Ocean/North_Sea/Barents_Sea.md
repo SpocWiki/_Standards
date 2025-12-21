@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Barents_Sea
+  - Barents Sea
 has_id_wikidata: Q45823
 ---
 

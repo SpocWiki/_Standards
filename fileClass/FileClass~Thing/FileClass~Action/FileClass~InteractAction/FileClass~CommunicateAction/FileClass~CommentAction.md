@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CommentAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 fields:
-- id: F0ZhNL
-  name: ResultComment
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Comment')"
-  type: MultiFile
-  path: ''
+  - id: F0ZhNL
+    name: ResultComment
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CommentAction
-- class/Thing/Action/InteractAction/CommunicateAction/CommentAction
-- is_a_/CommentAction
-- schema-org/CommentAction
+  - class/CommentAction
+  - class/Thing/Action/InteractAction/CommunicateAction/CommentAction
+  - is_a_/CommentAction
+  - schema-org/CommentAction
 tags:
-- class/FileClass
-- class/CommentAction
-- is_a_/CommentAction
-- class/Thing/Action/InteractAction/CommunicateAction/CommentAction
+  - class/FileClass
+  - class/CommentAction
+  - is_a_/CommentAction
+  - class/Thing/Action/InteractAction/CommunicateAction/CommentAction
 version: 2.0
 ---
 

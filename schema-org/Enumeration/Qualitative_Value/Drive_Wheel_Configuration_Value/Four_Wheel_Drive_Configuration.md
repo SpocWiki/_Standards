@@ -4,21 +4,23 @@ aliases:
   - four_wheel_drive_configuration
   - FourWheelDriveConfiguration
   - is_a_four_wheel_drive_configuration
+  - Four_Wheel_Drive_Configuration
+  - Four Wheel Drive Configuration
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: DriveWheelConfigurationValue
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - four_wheel_drive_configuration
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_four_wheel_drive_configuration Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

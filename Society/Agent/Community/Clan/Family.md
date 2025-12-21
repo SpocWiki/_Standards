@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Family
+has_id_wikidata: Q8436
 Archive_of_Our_Own_tag: Family
 Colon_Classification: Y2
 Commons_category: Families
@@ -33,7 +36,6 @@ has_characteristic:
   - "[[_Standards/WikiData/WD~family_tradition,5433392]]"
   - "[[_Standards/WikiData/WD~family_structure,66363776]]"
 has_effect: "[[_Standards/WikiData/WD~birth_rate,203516]]"
-has_id_wikidata: Q8436
 has_part_s_: "[[_Standards/WikiData/WD~family_member,9200133]]"
 IAB_code: 186
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Inupiat%20Family%20from%20Noatak%2C%20Alaska%2C%201929%2C%20Edward%20S.%20Curtis%20%28restored%29.jpg
@@ -78,7 +80,7 @@ Wikidata_property:
   - family
 ---
 
-# [[Family]] 
+# [[Family]] 👪 
 
 #is_/same_as :: [[../../../../WikiData/WD~Family,8436]] 
 

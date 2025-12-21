@@ -4,21 +4,22 @@ aliases:
   - screen-count
   - screenCount
   - has_number_of_screen_count
+  - has number of screen count
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - screen-count
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_screen-count
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

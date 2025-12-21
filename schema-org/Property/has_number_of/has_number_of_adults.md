@@ -4,21 +4,22 @@ aliases:
   - num_adults
   - numAdults
   - has_number_of_adults
+  - has number of adults
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - num_adults
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_num_adults
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

@@ -1,24 +1,26 @@
 ---
 aliases:
   - electric car or electric vehicle
+  - Electric_Car
+  - Electric Car
 has_id_wikidata: Q193692
 has_part_s_:
-  - "[[_Standards/WikiData/WD~electric_motor,72313]]"
-  - "[[_Standards/WikiData/WD~battery,267298]]"
-powered_by: "[[_Standards/WikiData/WD~electric_motor,72313]]"
+  - '[[_Standards/WikiData/WD~electric_motor,72313]]'
+  - '[[_Standards/WikiData/WD~battery,267298]]'
+powered_by: '[[_Standards/WikiData/WD~electric_motor,72313]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~climate_change_mitigation,898653]]"
-  - "[[_Standards/WikiData/WD~range_anxiety,7292696]]"
+  - '[[_Standards/WikiData/WD~climate_change_mitigation,898653]]'
+  - '[[_Standards/WikiData/WD~range_anxiety,7292696]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~battery_electric_vehicle,1076882]]"
-  - "[[_Standards/WikiData/WD~car,1420]]"
-part_of: "[[_Standards/WikiData/WD~electromobility,1327007]]"
-creator: "[[_Standards/WikiData/WD~Thomas_Davenport,1395527]]"
-opposite_of: "[[_Standards/WikiData/WD~Q124351225,124351225]]"
+  - '[[_Standards/WikiData/WD~battery_electric_vehicle,1076882]]'
+  - '[[_Standards/WikiData/WD~car,1420]]'
+part_of: '[[_Standards/WikiData/WD~electromobility,1327007]]'
+creator: '[[_Standards/WikiData/WD~Thomas_Davenport,1395527]]'
+opposite_of: '[[_Standards/WikiData/WD~Q124351225,124351225]]'
 inception: 1835-01-01T00:00:00Z
-has_use: "[[_Standards/WikiData/WD~transport,7590]]"
-source_of_energy: "[[_Standards/WikiData/WD~electricity,12725]]"
-OmegaWiki_Defined_Meaning: "1119"
+has_use: '[[_Standards/WikiData/WD~transport,7590]]'
+source_of_energy: '[[_Standards/WikiData/WD~electricity,12725]]'
+OmegaWiki_Defined_Meaning: 1119
 hashtag_: Elektroauto
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Electric%20Car%20recharging.jpg
 IMDb_keyword: electric-car

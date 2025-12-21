@@ -1,10 +1,11 @@
 ---
 aliases:
-  - Mīrzā Muhammad Tarāghāy bin Shāhrukh 
+  - Mīrzā Muhammad Tarāghāy bin Shāhrukh
   - میرزا محمد تراغای بن شاهرخ
   - میرزا محمد طارق بن شاهرخ
-  - Ulugh Beg  
+  - Ulugh Beg
   - الغ‌بیک
+  - Ulugh_Beg
 has_id_wikidata: Q486088
 ---
 

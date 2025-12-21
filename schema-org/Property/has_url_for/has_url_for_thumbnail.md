@@ -1,30 +1,32 @@
 ---
 aliases:
-- thumbnail-url
-- thumbnail_url
-- thumbnailUrl
-- has_url_for_thumbnail_url
-- "schema:thumbnailUrl"
-- "dbo:thumbnail"
-- "wdt:P18"
+  - thumbnail-url
+  - thumbnail_url
+  - thumbnailUrl
+  - has_url_for_thumbnail_url
+  - schema:thumbnailUrl
+  - dbo:thumbnail
+  - wdt:P18
+  - has_url_for_thumbnail
+  - has url for thumbnail
 confidential: public
 cssclasses:
-- Predicate
-- Url
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- thumbnail_url
-layout: 
-license: "CC BY-SA 4.0"
+  - thumbnail_url
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_url_for_thumbnail_url
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Property
-- schema-org/Property/Url
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for_thumbnail_url
 type: Predi_Url
 ---

@@ -4,21 +4,22 @@ aliases:
   - hasMap
   - has_map
   - has_place_map
+  - has place map
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - map
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_place_map
 publish: true
-publishDate:
+publishDate: ''
 supersedes: map, maps
 tags:
   - class/Relation

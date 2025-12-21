@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MusicEvent
+excludes: ''
 extends: FileClass~Thing/FileClass~Event
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MusicEvent
-- class/Thing/Event/MusicEvent
-- is_a_/MusicEvent
-- schema-org/MusicEvent
+  - class/MusicEvent
+  - class/Thing/Event/MusicEvent
+  - is_a_/MusicEvent
+  - schema-org/MusicEvent
 tags:
-- class/FileClass
-- class/MusicEvent
-- is_a_/MusicEvent
-- class/Thing/Event/MusicEvent
+  - class/FileClass
+  - class/MusicEvent
+  - is_a_/MusicEvent
+  - class/Thing/Event/MusicEvent
 version: 2.0
 ---
 

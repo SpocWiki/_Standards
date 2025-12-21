@@ -1,6 +1,7 @@
 ---
 aliases:
   - Mikrofon
+  - Microphone
 has_id_wikidata: Q46384
 subclass_of:
   - "[[_Standards/WikiData/WD~sensor,167676]]"
@@ -13,11 +14,11 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
 used_by: "[[_Standards/WikiData/WD~human,5]]"
-Nomenclature_for_Museum_Cataloging: "11224"
-GS1_GPC_code: "10001476"
-OmegaWiki_Defined_Meaning: "529461"
-Iconclass_notation: "46E6621"
-U_S_National_Archives_Identifier: "10647444"
+Nomenclature_for_Museum_Cataloging: 11224
+GS1_GPC_code: 10001476
+OmegaWiki_Defined_Meaning: 529461
+Iconclass_notation: .inf
+U_S_National_Archives_Identifier: 10647444
 Commons_category: Microphones
 icon:
   - http://commons.wikimedia.org/wiki/Special:FilePath/IEC%20MIC.svg
@@ -33,14 +34,14 @@ Unicode_character:
   - 🎤
   - 🎙
 Amazon_com_browse_node:
-  - "196575011"
-  - "8882489011"
-  - "8882491011"
+  - 196575011
+  - 8882489011
+  - 8882491011
 IEV_number: 801-26-01
 Wolfram_Language_entity_code: Entity["MeasurementDevice", "Microphone"]
 ---
 
-# [[Microphone]] 
+# [[Microphone]] 🎤 
 
 #is_/same_as :: [[WD~Microphone,46384]] 
 

@@ -4,22 +4,24 @@ aliases:
   - payment_accepted
   - paymentAccepted
   - has_text_of_payment_accepted
+  - has_payment_accepted
+  - has payment accepted
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - payment
   - accepted
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_payment_accepted
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

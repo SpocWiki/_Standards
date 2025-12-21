@@ -2,59 +2,61 @@
 aliases:
   - International Monetary Fund
   - IMF
+  - IMF(International_Monetary_Fund)
+  - IMF(International Monetary Fund)
 has_id_wikidata: Q7804
-partnership_with: "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
+partnership_with: '[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]'
 board_member:
-  - "[[_Standards/WikiData/WD~Per_Jacobsson,176113]]"
-  - "[[_Standards/WikiData/WD~Kristalina_Georgieva,265277]]"
-  - "[[_Standards/WikiData/WD~Antoinette_Sayeh,518483]]"
-  - "[[_Standards/WikiData/WD~Pierre_Paul_Schweitzer,932300]]"
-  - "[[_Standards/WikiData/WD~Ivar_Rooth,1362880]]"
-  - "[[_Standards/WikiData/WD~Vítor_Gaspar,2118027]]"
-  - "[[_Standards/WikiData/WD~Jihad_Azour,3178636]]"
-  - "[[_Standards/WikiData/WD~Gita_Gopinath,5565024]]"
-  - "[[_Standards/WikiData/WD~Pierre_Olivier_Gourinchas,21129757]]"
-  - "[[_Standards/WikiData/WD~Tobias_Adrian,41805776]]"
-  - "[[_Standards/WikiData/WD~Nancy_Onyango,44630946]]"
-  - "[[_Standards/WikiData/WD~Rhoda_Weeks_Brown,55956183]]"
-  - "[[_Standards/WikiData/WD~Mitsuhiro_Furusawa,106994397]]"
-  - "[[_Standards/WikiData/WD~Li_Bo,112168832]]"
-  - "[[_Standards/WikiData/WD~Abebe_Aemro_Selassie,114442762]]"
-  - "[[_Standards/WikiData/WD~Horst_Köhler,2542]]"
-  - "[[_Standards/WikiData/WD~Alassane_Ouattara,57413]]"
+  - '[[_Standards/WikiData/WD~Per_Jacobsson,176113]]'
+  - '[[_Standards/WikiData/WD~Kristalina_Georgieva,265277]]'
+  - '[[_Standards/WikiData/WD~Antoinette_Sayeh,518483]]'
+  - '[[_Standards/WikiData/WD~Pierre_Paul_Schweitzer,932300]]'
+  - '[[_Standards/WikiData/WD~Ivar_Rooth,1362880]]'
+  - '[[_Standards/WikiData/WD~Vítor_Gaspar,2118027]]'
+  - '[[_Standards/WikiData/WD~Jihad_Azour,3178636]]'
+  - '[[_Standards/WikiData/WD~Gita_Gopinath,5565024]]'
+  - '[[_Standards/WikiData/WD~Pierre_Olivier_Gourinchas,21129757]]'
+  - '[[_Standards/WikiData/WD~Tobias_Adrian,41805776]]'
+  - '[[_Standards/WikiData/WD~Nancy_Onyango,44630946]]'
+  - '[[_Standards/WikiData/WD~Rhoda_Weeks_Brown,55956183]]'
+  - '[[_Standards/WikiData/WD~Mitsuhiro_Furusawa,106994397]]'
+  - '[[_Standards/WikiData/WD~Li_Bo,112168832]]'
+  - '[[_Standards/WikiData/WD~Abebe_Aemro_Selassie,114442762]]'
+  - '[[_Standards/WikiData/WD~Horst_Köhler,2542]]'
+  - '[[_Standards/WikiData/WD~Alassane_Ouattara,57413]]'
 official_observer_status_in_organization:
-  - "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
-  - "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
-  - "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
-chief_executive_officer: "[[_Standards/WikiData/WD~Kristalina_Georgieva,265277]]"
+  - '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
+  - '[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]'
+  - '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Kristalina_Georgieva,265277]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~international_financial_institution,1345691]]"
-  - "[[_Standards/WikiData/WD~specialized_agency_of_the_United_Nations,15925165]]"
+  - '[[_Standards/WikiData/WD~international_financial_institution,1345691]]'
+  - '[[_Standards/WikiData/WD~specialized_agency_of_the_United_Nations,15925165]]'
 different_from:
-  - "[[_Standards/WikiData/WD~World_Monuments_Fund,2297150]]"
-  - "[[_Standards/WikiData/WD~Impossible_Missions_Force,6007499]]"
+  - '[[_Standards/WikiData/WD~World_Monuments_Fund,2297150]]'
+  - '[[_Standards/WikiData/WD~Impossible_Missions_Force,6007499]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Economics,7212331]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Finance_&_Investment,11730735]]"
-  - "[[_Standards/WikiData/WD~WikiProject_International_relations,15304945]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Globalization,19578241]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Organizations,21830563]]"
-field_of_work: "[[_Standards/WikiData/WD~loan_origination,6663465]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Economics,7212331]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Finance_&_Investment,11730735]]'
+  - '[[_Standards/WikiData/WD~WikiProject_International_relations,15304945]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Globalization,19578241]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Organizations,21830563]]'
+field_of_work: '[[_Standards/WikiData/WD~loan_origination,6663465]]'
 member_of:
-  - "[[_Standards/WikiData/WD~ORCID,_Inc.,19861084]]"
-  - "[[_Standards/WikiData/WD~Network_for_Greening_the_Financial_System,104872529]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Managing_Director_of_the_International_Monetary_Fund,20054152]]"
-foundational_text: "[[_Standards/WikiData/WD~Articles_of_Agreement_of_the_International_Monetary_Fund,110558954]]"
-parent_organization: "[[_Standards/WikiData/WD~United_Nations,1065]]"
-official_language: "[[_Standards/WikiData/WD~English,1860]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+  - '[[_Standards/WikiData/WD~ORCID,_Inc.,19861084]]'
+  - '[[_Standards/WikiData/WD~Network_for_Greening_the_Financial_System,104872529]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Managing_Director_of_the_International_Monetary_Fund,20054152]]'
+foundational_text: '[[_Standards/WikiData/WD~Articles_of_Agreement_of_the_International_Monetary_Fund,110558954]]'
+parent_organization: '[[_Standards/WikiData/WD~United_Nations,1065]]'
+official_language: '[[_Standards/WikiData/WD~English,1860]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
 social_media_followers:
   - 186000
   - 2145266
 employees: 2908
-OmegaWiki_Defined_Meaning: "4435"
+OmegaWiki_Defined_Meaning: 4435
 Commons_category: International Monetary Fund
 EU_Corporate_body_code: IMF
 short_name:
@@ -124,17 +126,17 @@ short_name:
   - ХВФ
 inception: 1944-07-22T00:00:00Z
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/International%20Monetary%20Fund%20Map.svg
-U_S_National_Archives_Identifier: "10640338"
+U_S_National_Archives_Identifier: 10640338
 seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/IMF-Seal%20ENG%20RGB.svg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/IMF-Seal%20ENG%20RGB.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/IMF%20building%20HR.jpg
 official_website: https://www.imf.org/
 ISNI:
   - 000000012295783X
-  - "0000000404811396"
-DOI_prefix: "10.5089"
-Facebook_username: "109505255742373"
-PermID: "8589934156"
+  - 0000000404811396
+DOI_prefix: 10.5089
+Facebook_username: 109505255742373
+PermID: 8589934156
 Legal_Entity_Identifier: E7EXN6FJGRUTJYNZ3Z71
 Krugosvet_article_archived_: gumanitarnye_nauki/ekonomika_i_pravo/MEZHDUNARODNI_VALYUTNI_FOND_MVF.html
 ISO_9362_SWIFT_BIC_code: IMFDUS3WXXX

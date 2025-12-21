@@ -1,4 +1,6 @@
 ---
+aliases:
+  - cc
 icon: fab_creative_commons
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
   - Kammermusik
+  - Chamber_music
+  - Chamber music
 has_id_wikidata: Q189201
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]"
+  - '[[_Standards/WikiData/WD~music_genre,188451]]'
+  - '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~composed_musical_work,207628]]"
-  - "[[_Standards/WikiData/WD~classical_music,9730]]"
+  - '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
+  - '[[_Standards/WikiData/WD~classical_music,9730]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~chamber_music_ensemble,19191604]]"
-  - "[[_Standards/WikiData/WD~chamber_musician,105755601]]"
+  - '[[_Standards/WikiData/WD~chamber_music_ensemble,19191604]]'
+  - '[[_Standards/WikiData/WD~chamber_musician,105755601]]'
 Dewey_Decimal_Classification:
-  - "785"
-  - "783.1"
-OmegaWiki_Defined_Meaning: "916006"
-P8189: "987007284949705171"
+  - 785
+  - 783.1
+OmegaWiki_Defined_Meaning: 916006
+P8189: 987007284949705171
 Commons_category: Chamber music
 Krugosvet_article: muzyka/kamernaya-muzyka
 ---

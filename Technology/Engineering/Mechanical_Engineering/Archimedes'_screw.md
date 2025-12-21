@@ -1,21 +1,4 @@
 ---
-has_id_wikidata: Q189155
-described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-subclass_of: "[[_Standards/WikiData/WD~screw_pump,1047037]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q116592000,116592000]]"
-named_after: "[[_Standards/WikiData/WD~Archimedes,8739]]"
-different_from: "[[_Standards/WikiData/WD~Archimedean_spiral,28967]]"
-Commons_category: Archimedes' screws
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Archimedes-screw%20one-screw-threads%20with-ball%203D-view%20animated.gif
-Commons_gallery: Archimedes' screw
 aliases:
   - Archimedes' screw
   - Archimedes screw
@@ -23,6 +6,24 @@ aliases:
   - hydrodynamic screw
   - water screw
   - Egyptian screw
+  - Archimedes'_screw
+has_id_wikidata: Q189155
+described_by_source:
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~screw_pump,1047037]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116592000,116592000]]'
+named_after: '[[_Standards/WikiData/WD~Archimedes,8739]]'
+different_from: '[[_Standards/WikiData/WD~Archimedean_spiral,28967]]'
+Commons_category: Archimedes' screws
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Archimedes-screw%20one-screw-threads%20with-ball%203D-view%20animated.gif
+Commons_gallery: Archimedes' screw
 ---
 
 # [[Archimedes'_screw]] 

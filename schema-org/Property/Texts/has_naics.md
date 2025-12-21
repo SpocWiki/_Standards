@@ -4,21 +4,23 @@ aliases:
   - naics
   - naics
   - has_text_of_naics
+  - has_naics
+  - has naics
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - naics
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_naics
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

@@ -4,20 +4,21 @@ aliases:
   - included_in_health_insurance_plan
   - includedInHealthInsurancePlan
   - is_included_in_health_insurance_plan
+  - is included in health insurance plan
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
-layout:
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_included_in_health_insurance_plan
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

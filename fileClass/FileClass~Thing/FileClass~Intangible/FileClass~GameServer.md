@@ -1,31 +1,33 @@
 ---
-excludes: 
+aliases:
+  - FileClass~GameServer
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: 55SAv0
-  name: Game
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Game/GameAndSoftwareApplication/VideoGame')"
-  type: MultiFile
-  path: ''
-- id: EJLyFr
-  name: PlayersOnline
-  options: {}
-  type: Number
-  path: ''
+  - id: 55SAv0
+    name: Game
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Game/GameAndSoftwareApplication/VideoGame')
+    type: MultiFile
+    path: ''
+  - id: EJLyFr
+    name: PlayersOnline
+    options: {}
+    type: Number
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/GameServer
-- class/Thing/Intangible/GameServer
-- is_a_/GameServer
-- schema-org/GameServer
+  - class/GameServer
+  - class/Thing/Intangible/GameServer
+  - is_a_/GameServer
+  - schema-org/GameServer
 tags:
-- class/FileClass
-- class/GameServer
-- is_a_/GameServer
-- class/Thing/Intangible/GameServer
+  - class/FileClass
+  - class/GameServer
+  - is_a_/GameServer
+  - class/Thing/Intangible/GameServer
 version: 2.0
 ---
 

@@ -6,26 +6,27 @@ aliases:
   - غيانا الفرنسية
   - 法属圭亚那
   - Французская Гвиана
-  - 
+  - ''
+  - French_Guiana
 confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate:
+expiryDate: ''
 icon: flag-gf
 isDeleted: false
 isReadOnly: false
-keywords:
+keywords: ''
 Languages:
   - fr-GF
-layout:
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 location:
   - 4.92
   - -52.3
 publish: true
-publishDate:
+publishDate: ''
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26902
 tags:

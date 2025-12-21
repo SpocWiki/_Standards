@@ -3,12 +3,13 @@ aliases:
   - has-defined-term
   - hasDefinedTerm
   - has_defined_term
+  - has defined term
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - term
   - defined_term
   - definedTerm
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_defined_term
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

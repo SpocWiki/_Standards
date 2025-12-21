@@ -1,47 +1,49 @@
 ---
-excludes: 
+aliases:
+  - FileClass~RepaymentSpecification
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-- id: hDw3MN
-  name: DownPayment
-  options: {}
-  type: Number
-  path: ''
-- id: YHHdWQ
-  name: EarlyPrepaymentPenalty
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"
-  type: MultiFile
-  path: ''
-- id: yZOV76
-  name: LoanPaymentAmount
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"
-  type: MultiFile
-  path: ''
-- id: MQJWiq
-  name: LoanPaymentFrequency
-  options: {}
-  type: Number
-  path: ''
-- id: WsAFEd
-  name: NumberOfLoanPayments
-  options: {}
-  type: Number
-  path: ''
+  - id: hDw3MN
+    name: DownPayment
+    options: {}
+    type: Number
+    path: ''
+  - id: YHHdWQ
+    name: EarlyPrepaymentPenalty
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
+    type: MultiFile
+    path: ''
+  - id: yZOV76
+    name: LoanPaymentAmount
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
+    type: MultiFile
+    path: ''
+  - id: MQJWiq
+    name: LoanPaymentFrequency
+    options: {}
+    type: Number
+    path: ''
+  - id: WsAFEd
+    name: NumberOfLoanPayments
+    options: {}
+    type: Number
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/RepaymentSpecification
-- class/Thing/Intangible/StructuredValue/RepaymentSpecification
-- is_a_/RepaymentSpecification
-- schema-org/RepaymentSpecification
+  - class/RepaymentSpecification
+  - class/Thing/Intangible/StructuredValue/RepaymentSpecification
+  - is_a_/RepaymentSpecification
+  - schema-org/RepaymentSpecification
 tags:
-- class/FileClass
-- class/RepaymentSpecification
-- is_a_/RepaymentSpecification
-- class/Thing/Intangible/StructuredValue/RepaymentSpecification
+  - class/FileClass
+  - class/RepaymentSpecification
+  - is_a_/RepaymentSpecification
+  - class/Thing/Intangible/StructuredValue/RepaymentSpecification
 version: 2.0
 ---
 

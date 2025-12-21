@@ -4,23 +4,24 @@ aliases:
   - in_code_set
   - inCodeSet
   - is_in_code_set
+  - is in code set
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - in
   - code
   - set
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_in_code_set
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

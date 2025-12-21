@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ziegel
+  - Brick
 has_id_wikidata: Q40089
 used_by:
   - "[[_Standards/WikiData/WD~brick_stamp,198731]]"
@@ -21,29 +22,29 @@ made_from_material:
   - "[[_Standards/WikiData/WD~clay,42302]]"
 manufacturer: "[[_Standards/WikiData/WD~brickmaker,66132353]]"
 different_from: "[[_Standards/WikiData/WD~Q94440495,94440495]]"
-Nomenclature_for_Museum_Cataloging: "49"
-OmegaWiki_Defined_Meaning: "432"
+Nomenclature_for_Museum_Cataloging: 49
+OmegaWiki_Defined_Meaning: 432
 Commons_gallery: Brick
-GS1_GPC_code: "10002525"
+GS1_GPC_code: 10002525
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Brick.jpg
 Dewey_Decimal_Classification:
-  - "624.1836"
-  - "666.737"
-  - "691.4"
-  - "693.21"
-  - "721.04421"
+  - 624.1836
+  - 666.737
+  - 691.4
+  - 693.21
+  - 721.04421
 Commons_category: Bricks
 exact_match:
   - http://purl.obolibrary.org/obo/ENVO_01000475
   - https://turkic.elegantlexicon.com/turkforms.php?form=brickbrick
   - https://ids.clld.org/parameters/7-620
 MCN_code: 6901.00.10
-P8189: "987007282512705171"
+P8189: 987007282512705200
 OpenStreetMap_tag_or_key: Tag:building:material=brick
 Unicode_character: 🧱
 ---
 
-# [[Brick]] 
+# [[Brick]] 🧱 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Brick,40089|WD~Brick,40089]] 
 

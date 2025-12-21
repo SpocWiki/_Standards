@@ -4,6 +4,7 @@ aliases:
   - Bohnen
   - Bean
   - Beans
+has_id_wikidata: Q379813
 carbon_footprint:
   - 0.8
   - 1.4
@@ -19,7 +20,6 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 different_from:
   - "[[_Standards/WikiData/WD~legume,145909]]"
-has_id_wikidata: Q379813
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Painted%20Pony%20Bean.JPG
   - http://commons.wikimedia.org/wiki/Special:FilePath/Beans%20in%20the%20market.jpg
@@ -50,7 +50,7 @@ water_footprint:
   - 5053
 ---
 
-# [[Bean]] 
+# [[Bean]] 🫘 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Bean,379813|WD~Bean,379813]] 
 ## #has_/text_of_/abstract 

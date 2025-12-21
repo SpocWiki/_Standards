@@ -1,27 +1,28 @@
 ---
 aliases:
   - Mathematical logic
+  - Logic(Math)
 has_id_wikidata: Q1166618
-has_characteristic: "[[_Standards/WikiData/WD~quantifier,592911]]"
+has_characteristic: '[[_Standards/WikiData/WD~quantifier,592911]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-  - "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
-practiced_by: "[[_Standards/WikiData/WD~logician,14565331]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Mathematical_logic,18655775]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q32128193,32128193]]"
+  - '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+  - '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
+practiced_by: '[[_Standards/WikiData/WD~logician,14565331]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Mathematical_logic,18655775]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q32128193,32128193]]'
 part_of:
-  - "[[_Standards/WikiData/WD~mathematical_logic,_set_theory,_lattices_and_universal_algebra,112955904]]"
-  - "[[_Standards/WikiData/WD~mathematics,395]]"
-  - "[[_Standards/WikiData/WD~logic,8078]]"
-subclass_of: "[[_Standards/WikiData/WD~logic,8078]]"
-used_by: "[[_Standards/WikiData/WD~mathematical_proof,11538]]"
-OmegaWiki_Defined_Meaning: "1223499"
+  - '[[_Standards/WikiData/WD~mathematical_logic,_set_theory,_lattices_and_universal_algebra,112955904]]'
+  - '[[_Standards/WikiData/WD~mathematics,395]]'
+  - '[[_Standards/WikiData/WD~logic,8078]]'
+subclass_of: '[[_Standards/WikiData/WD~logic,8078]]'
+used_by: '[[_Standards/WikiData/WD~mathematical_proof,11538]]'
+OmegaWiki_Defined_Meaning: 1223499
 Regensburg_Classification: SK 130
-Universal_Decimal_Classification: "510.6"
+Universal_Decimal_Classification: 510.6
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Venn%20A%20intersect%20B.svg
-Basisklassifikation: "31.10"
+Basisklassifikation: 31.10
 Commons_category: Mathematical logic
 X_Twitter_username: PeterOHearn12
 ---

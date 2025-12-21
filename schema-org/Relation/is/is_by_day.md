@@ -4,22 +4,23 @@ aliases:
   - by_day
   - byDay
   - is_by_day
+  - is by day
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - by
   - day
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_by_day
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

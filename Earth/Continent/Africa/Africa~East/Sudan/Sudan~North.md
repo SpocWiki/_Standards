@@ -1,8 +1,9 @@
 ---
-age_of_majority: 18
 aliases:
   - Sudan
+  - Sudan~North
 has_id_wikidata: Q1049
+age_of_majority: 18
 anthem: "[[_Standards/WikiData/WD~Nahnu_Jund_Allah_Jund_Al_watan,548242]]"
 area:
   - 1840687

@@ -2,42 +2,43 @@
 aliases:
   - Frank_Lloyd
   - Frank William George Lloyd
+  - Lloyd,Frank
 has_id_wikidata: Q28941
-nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-given_name: "[[_Standards/WikiData/WD~Q220546,220546]]"
-family_name: "[[_Standards/WikiData/WD~Lloyd,1287630]]"
-place_of_burial: "[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1437214]]"
+  - '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+given_name: '[[_Standards/WikiData/WD~Q220546,220546]]'
+family_name: '[[_Standards/WikiData/WD~Lloyd,1287630]]'
+place_of_burial: '[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1437214]]'
 occupation:
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-spouse: "[[_Standards/WikiData/WD~Virginia_Kellogg,4068889]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]"
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~director,3455803]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+spouse: '[[_Standards/WikiData/WD~Virginia_Kellogg,4068889]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]'
 date_of_birth: 1886-02-02T00:00:00Z
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_birth: "[[_Standards/WikiData/WD~Glasgow,4093]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_locations: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-place_of_death: "[[_Standards/WikiData/WD~Santa_Monica,47164]]"
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+place_of_birth: '[[_Standards/WikiData/WD~Glasgow,4093]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_locations: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+place_of_death: '[[_Standards/WikiData/WD~Santa_Monica,47164]]'
 Commons_category: Frank Lloyd
 date_of_death: 1960-08-10T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/WP%20Frank%20Lloyd%201920.jpg
-ISNI: "0000000117455958"
+ISNI: 0000000117455958
 ---
 
 # [[Lloyd,Frank]] 

@@ -3,19 +3,20 @@ aliases:
   - infrared light
   - Infrared Radiation
   - Infrared
+  - Infrared_Radiation
 has_id_wikidata: Q11388
-follows: "[[_Standards/WikiData/WD~visible_spectrum,76299]]"
-part_of: "[[_Standards/WikiData/WD~electromagnetic_spectrum,133139]]"
-instance_of: "[[_Standards/WikiData/WD~scientific_theory,3239681]]"
-facet_of: "[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]"
+follows: '[[_Standards/WikiData/WD~visible_spectrum,76299]]'
+part_of: '[[_Standards/WikiData/WD~electromagnetic_spectrum,133139]]'
+instance_of: '[[_Standards/WikiData/WD~scientific_theory,3239681]]'
+facet_of: '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]"
-  - "[[_Standards/WikiData/WD~radiation,18335]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-does_not_have_characteristic: "[[_Standards/WikiData/WD~visibility,30301666]]"
-followed_by: "[[_Standards/WikiData/WD~radio_wave,4262]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Herschel,14277]]"
-OmegaWiki_Defined_Meaning: "1942"
+  - '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]'
+  - '[[_Standards/WikiData/WD~radiation,18335]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+does_not_have_characteristic: '[[_Standards/WikiData/WD~visibility,30301666]]'
+followed_by: '[[_Standards/WikiData/WD~radio_wave,4262]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Herschel,14277]]'
+OmegaWiki_Defined_Meaning: 1942
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ir%20girl.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A6%AC%E0%A6%B2%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%A4%20%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%B0%E0%A6%A3.wav
 exact_match: http://purl.obolibrary.org/obo/ENVO_21001214

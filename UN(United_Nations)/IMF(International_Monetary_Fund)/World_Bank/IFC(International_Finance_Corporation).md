@@ -1,18 +1,20 @@
 ---
 aliases:
-  - International Finance Corporation 
+  - International Finance Corporation
   - IFC
+  - IFC(International_Finance_Corporation)
+  - IFC(International Finance Corporation)
 has_id_wikidata: Q656801
-official_observer_status_in_organization: "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
-parent_organization: "[[_Standards/WikiData/WD~World_Bank_Group,320863]]"
-instance_of: "[[_Standards/WikiData/WD~international_financial_institution,1345691]]"
-chief_executive_officer: "[[_Standards/WikiData/WD~Makhtar_Diop,3280791]]"
-industry: "[[_Standards/WikiData/WD~private_sector_development,7246245]]"
-board_member: "[[_Standards/WikiData/WD~Robert_L._Garner,64013328]]"
-foundational_text: "[[_Standards/WikiData/WD~Articles_of_Agreement_of_the_International_Finance_Corporation,110559113]]"
-legal_form: "[[_Standards/WikiData/WD~Q130264125,130264125]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+official_observer_status_in_organization: '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
+parent_organization: '[[_Standards/WikiData/WD~World_Bank_Group,320863]]'
+instance_of: '[[_Standards/WikiData/WD~international_financial_institution,1345691]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Makhtar_Diop,3280791]]'
+industry: '[[_Standards/WikiData/WD~private_sector_development,7246245]]'
+board_member: '[[_Standards/WikiData/WD~Robert_L._Garner,64013328]]'
+foundational_text: '[[_Standards/WikiData/WD~Articles_of_Agreement_of_the_International_Finance_Corporation,110559113]]'
+legal_form: '[[_Standards/WikiData/WD~Q130264125,130264125]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
 social_media_followers:
   - 38000
   - 252742
@@ -23,8 +25,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/International%20Financ
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/International%20Finance%20Corporation%20logo.svg
 official_website: https://www.ifc.org/
 ISNI:
-  - "0000000108071370"
-  - "0000000119453200"
+  - 0000000108071370
+  - 0000000119453200
 Krugosvet_article_archived_: gumanitarnye_nauki/ekonomika_i_pravo/MEZHDUNARODNAYA_FINANSOVAYA_KORPORATSIYA_MFK.html
 Instagram_username: ifc_org
 X_Twitter_username: ifc_org

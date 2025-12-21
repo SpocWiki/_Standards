@@ -1,23 +1,24 @@
 ---
 aliases:
   - pasteurisation
+  - Pasteurization
 has_id_wikidata: Q58148
 subclass_of:
-  - "[[_Standards/WikiData/WD~food_preservation,173514]]"
-  - "[[_Standards/WikiData/WD~heat_treatment,1458918]]"
+  - '[[_Standards/WikiData/WD~food_preservation,173514]]'
+  - '[[_Standards/WikiData/WD~heat_treatment,1458918]]'
 used_by:
-  - "[[_Standards/WikiData/WD~pharmaceutics,186249]]"
-  - "[[_Standards/WikiData/WD~medicine,11190]]"
-location_of_creation: "[[_Standards/WikiData/WD~Arbois,330888]]"
+  - '[[_Standards/WikiData/WD~pharmaceutics,186249]]'
+  - '[[_Standards/WikiData/WD~medicine,11190]]'
+location_of_creation: '[[_Standards/WikiData/WD~Arbois,330888]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
-fabrication_method: "[[../../../../../../WikiData/WD~heating,4311765]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~pasteurized_food,131300899]]"
+  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+fabrication_method: '[[../../../../../../WikiData/WD~heating,4311765]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~pasteurized_food,131300899]]'
 time_of_discovery_or_invention: 1864-04-20T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~Louis_Pasteur,529]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Louis_Pasteur,529]]"
+named_after: '[[_Standards/WikiData/WD~Louis_Pasteur,529]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Louis_Pasteur,529]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/60s%20Pama%20pasteurizer.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Pasteur.jpg

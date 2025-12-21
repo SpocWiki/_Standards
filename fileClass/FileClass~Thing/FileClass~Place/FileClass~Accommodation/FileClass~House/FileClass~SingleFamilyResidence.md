@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~SingleFamilyResidence
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/SingleFamilyResidence
-- class/Thing/Place/Accommodation/House/SingleFamilyResidence
-- is_a_/SingleFamilyResidence
-- schema-org/SingleFamilyResidence
+  - class/SingleFamilyResidence
+  - class/Thing/Place/Accommodation/House/SingleFamilyResidence
+  - is_a_/SingleFamilyResidence
+  - schema-org/SingleFamilyResidence
 tags:
-- class/FileClass
-- class/SingleFamilyResidence
-- is_a_/SingleFamilyResidence
-- class/Thing/Place/Accommodation/House/SingleFamilyResidence
+  - class/FileClass
+  - class/SingleFamilyResidence
+  - is_a_/SingleFamilyResidence
+  - class/Thing/Place/Accommodation/House/SingleFamilyResidence
 version: 2.0
 ---
 

@@ -4,22 +4,24 @@ aliases:
   - muscle_action
   - muscleAction
   - has_text_of_muscle_action
+  - has_muscle_action
+  - has muscle action
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - muscle
   - action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_muscle_action
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

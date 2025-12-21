@@ -3,12 +3,13 @@ aliases:
   - has original-media-link
   - originalMediaLink
   - has_original_media_link
+  - has original media link
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - original
   - media
   - link
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_original_media_link
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

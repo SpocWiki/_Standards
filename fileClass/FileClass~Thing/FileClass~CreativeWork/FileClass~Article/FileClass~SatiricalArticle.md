@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~SatiricalArticle
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/SatiricalArticle
-- class/Thing/CreativeWork/Article/SatiricalArticle
-- is_a_/SatiricalArticle
-- schema-org/SatiricalArticle
+  - class/SatiricalArticle
+  - class/Thing/CreativeWork/Article/SatiricalArticle
+  - is_a_/SatiricalArticle
+  - schema-org/SatiricalArticle
 tags:
-- class/FileClass
-- class/SatiricalArticle
-- is_a_/SatiricalArticle
-- class/Thing/CreativeWork/Article/SatiricalArticle
+  - class/FileClass
+  - class/SatiricalArticle
+  - is_a_/SatiricalArticle
+  - class/Thing/CreativeWork/Article/SatiricalArticle
 version: 2.0
 ---
 

@@ -1,22 +1,24 @@
 ---
 aliases:
   - dissertation
+  - Doctoral_Thesis
+  - Doctoral Thesis
 has_id_wikidata: Q187685
-instance_of: "[[_Standards/WikiData/WD~literary_genre,223393]]"
+instance_of: '[[_Standards/WikiData/WD~literary_genre,223393]]'
 different_from:
   - "[[_Standards/WikiData/WD~bachelor's_thesis,798134]]"
-  - "[[_Standards/WikiData/WD~thesis,1266946]]"
+  - '[[_Standards/WikiData/WD~thesis,1266946]]'
   - "[[_Standards/WikiData/WD~master's_thesis,1907875]]"
-  - "[[_Standards/WikiData/WD~dissertation,3030630]]"
-  - "[[_Standards/WikiData/WD~licentiate_thesis,106276531]]"
-has_goal: "[[_Standards/WikiData/WD~doctorate,849697]]"
-subclass_of: "[[_Standards/WikiData/WD~thesis,1266946]]"
+  - '[[_Standards/WikiData/WD~dissertation,3030630]]'
+  - '[[_Standards/WikiData/WD~licentiate_thesis,106276531]]'
+has_goal: '[[_Standards/WikiData/WD~doctorate,849697]]'
+subclass_of: '[[_Standards/WikiData/WD~thesis,1266946]]'
 follows: "[[_Standards/WikiData/WD~master's_thesis,1907875]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Doctor_of_Philosophy_thesis,51282918]]"
-part_of: "[[_Standards/WikiData/WD~doctoral_program,98380917]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Doctor_of_Philosophy_thesis,51282918]]'
+part_of: '[[_Standards/WikiData/WD~doctoral_program,98380917]]'
 properties_for_this_type:
   - publication date
   - main subject

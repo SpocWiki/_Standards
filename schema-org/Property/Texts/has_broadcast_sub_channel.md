@@ -4,23 +4,25 @@ aliases:
   - broadcast_sub_channel
   - broadcastSubChannel
   - has_text_of_broadcast_sub_channel
+  - has_broadcast_sub_channel
+  - has broadcast sub channel
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - broadcast
   - sub
   - channel
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_broadcast_sub_channel
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

@@ -1,7 +1,4 @@
 ---
-age_of_consent: 16
-age_of_majority: 18
-aircraft_registration_prefix: LN
 aliases:
   - Norway
   - Noruega
@@ -11,6 +8,10 @@ aliases:
   - Норвегия
   - the Kingdom of Norway
   - el Reino de Noruega
+has_id_wikidata: Q20
+age_of_consent: 16
+age_of_majority: 18
+aircraft_registration_prefix: LN
 annual_number_of_weddings:
   - 22111
   - 22537
@@ -204,7 +205,7 @@ emergency_phone_number:
   - "[[_Standards/WikiData/WD~113,25648804]]"
   - "[[_Standards/WikiData/WD~110,25648823]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Norway,1770849]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 2666540
   - 2652054
@@ -222,7 +223,6 @@ GS1_country_code: 700-709
 Happy_Planet_Index_score: 50.9
 hashtag: Norway
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-has_id_wikidata: Q20
 has_part_s_: "[[_Standards/WikiData/WD~Hardangervidda,1585051]]"
 head_of_government: "[[_Standards/WikiData/WD~Jonas_Gahr_Støre,467948]]"
 head_of_state: "[[_Standards/WikiData/WD~Harald_V_of_Norway,57287]]"
@@ -255,7 +255,7 @@ ISO_3166_1_alpha_3_code: NOR
 ISO_3166_1_numeric_code: 578
 isReadOnly: false
 ITU_letter_code: NOR
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/NORVEGIYA.html
 Languages:
   - no
@@ -271,13 +271,13 @@ language_used:
   - "[[_Standards/WikiData/WD~Southern_Sami,13293]]"
   - "[[_Standards/WikiData/WD~Northern_Sami,33947]]"
   - "[[_Standards/WikiData/WD~Ume_Sami,56415]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~Stortinget,109016]]"
 Library_of_Congress_Classification: JN7401-7695
 licence_plate_code: N
 license: CC BY-SA 4.0
 life_expectancy: 82.50976
-linkTitle:
+linkTitle: ""
 literacy_rate: 100
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Scandinavia,21195]]"
 located_in_or_next_to_body_of_water:
@@ -419,7 +419,7 @@ public_holiday:
   - "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
   - "[[_Standards/WikiData/WD~Feast_of_the_Ascension,51638]]"
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side: "[[_Standards/WikiData/WD~right,14565199]]"
 retirement_age: 67
 rural_population:

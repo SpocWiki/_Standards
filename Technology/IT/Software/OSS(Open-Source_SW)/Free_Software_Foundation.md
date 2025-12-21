@@ -4,52 +4,52 @@ aliases:
   - Free Software Foundation
 has_id_wikidata: Q48413
 Mastodon_address: fsf@hostux.social
-street_address: "31 Milk St # 960789, Boston, MA 02196, USA"
+street_address: '31 Milk St # 960789, Boston, MA 02196, USA'
 Debian_Wiki_article: fr/FreeSoftwareFoundation
 instance_of:
-  - "[[_Standards/WikiData/WD~non_governmental_organization,79913]]"
-  - "[[_Standards/WikiData/WD~nonprofit_organization,163740]]"
-  - "[[_Standards/WikiData/WD~charitable_organization,708676]]"
+  - '[[_Standards/WikiData/WD~non_governmental_organization,79913]]'
+  - '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
+  - '[[_Standards/WikiData/WD~charitable_organization,708676]]'
 board_member:
-  - "[[_Standards/WikiData/WD~Gerald_Jay_Sussman,92981]]"
-  - "[[_Standards/WikiData/WD~Hal_Abelson,770584]]"
-  - "[[_Standards/WikiData/WD~Bradley_M._Kuhn,2305639]]"
-  - "[[_Standards/WikiData/WD~Geoffrey_Knauth,5534733]]"
-  - "[[_Standards/WikiData/WD~Henry_Poole,5727145]]"
-  - "[[_Standards/WikiData/WD~Matthew_Garrett,15999901]]"
-  - "[[_Standards/WikiData/WD~Ian_Kelling,106280078]]"
-  - "[[_Standards/WikiData/WD~Richard_Stallman,7439]]"
-  - "[[_Standards/WikiData/WD~Kat_Walsh,7545]]"
-  - "[[_Standards/WikiData/WD~Benjamin_Mako_Hill,49656]]"
+  - '[[_Standards/WikiData/WD~Gerald_Jay_Sussman,92981]]'
+  - '[[_Standards/WikiData/WD~Hal_Abelson,770584]]'
+  - '[[_Standards/WikiData/WD~Bradley_M._Kuhn,2305639]]'
+  - '[[_Standards/WikiData/WD~Geoffrey_Knauth,5534733]]'
+  - '[[_Standards/WikiData/WD~Henry_Poole,5727145]]'
+  - '[[_Standards/WikiData/WD~Matthew_Garrett,15999901]]'
+  - '[[_Standards/WikiData/WD~Ian_Kelling,106280078]]'
+  - '[[_Standards/WikiData/WD~Richard_Stallman,7439]]'
+  - '[[_Standards/WikiData/WD~Kat_Walsh,7545]]'
+  - '[[_Standards/WikiData/WD~Benjamin_Mako_Hill,49656]]'
 interested_in:
-  - "[[_Standards/WikiData/WD~digital_rights,113462]]"
-  - "[[_Standards/WikiData/WD~free_software,341]]"
+  - '[[_Standards/WikiData/WD~digital_rights,113462]]'
+  - '[[_Standards/WikiData/WD~free_software,341]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~GNU_Savannah,1007059]]"
-  - "[[_Standards/WikiData/WD~Defective_by_Design,1182568]]"
-  - "[[_Standards/WikiData/WD~Gna!,1972275]]"
-  - "[[_Standards/WikiData/WD~GNU.org,27980040]]"
-movement: "[[_Standards/WikiData/WD~free_software_movement,1076638]]"
-source_of_income: "[[_Standards/WikiData/WD~donation,1124860]]"
+  - '[[_Standards/WikiData/WD~GNU_Savannah,1007059]]'
+  - '[[_Standards/WikiData/WD~Defective_by_Design,1182568]]'
+  - '[[_Standards/WikiData/WD~Gna!,1972275]]'
+  - '[[_Standards/WikiData/WD~GNU.org,27980040]]'
+movement: '[[_Standards/WikiData/WD~free_software_movement,1076638]]'
+source_of_income: '[[_Standards/WikiData/WD~donation,1124860]]'
 chairperson:
-  - "[[_Standards/WikiData/WD~Geoffrey_Knauth,5534733]]"
-  - "[[_Standards/WikiData/WD~Richard_Stallman,7439]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Free_Software_Foundation,6465422]]"
-legal_form: "[[_Standards/WikiData/WD~501(c)(3)_organization,18325436]]"
-website_account_on: "[[_Standards/WikiData/WD~GNU_social,20204906]]"
-chief_executive_officer: "[[_Standards/WikiData/WD~Zoë_Kooyman,111050763]]"
-member_of: "[[_Standards/WikiData/WD~Massachusetts_Nonprofit_Network,123580836]]"
-field_of_work: "[[_Standards/WikiData/WD~free_software,341]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~software,7397]]"
-founded_by: "[[_Standards/WikiData/WD~Richard_Stallman,7439]]"
-affiliation: "[[_Standards/WikiData/WD~GNU_Project,7598]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~GNU_Project,7598]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Geoffrey_Knauth,5534733]]'
+  - '[[_Standards/WikiData/WD~Richard_Stallman,7439]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Free_Software_Foundation,6465422]]'
+legal_form: '[[_Standards/WikiData/WD~501(c)(3)_organization,18325436]]'
+website_account_on: '[[_Standards/WikiData/WD~GNU_social,20204906]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Zoë_Kooyman,111050763]]'
+member_of: '[[_Standards/WikiData/WD~Massachusetts_Nonprofit_Network,123580836]]'
+field_of_work: '[[_Standards/WikiData/WD~free_software,341]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~software,7397]]'
+founded_by: '[[_Standards/WikiData/WD~Richard_Stallman,7439]]'
+affiliation: '[[_Standards/WikiData/WD~GNU_Project,7598]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~GNU_Project,7598]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 headquarters_location:
-  - "[[_Standards/WikiData/WD~Boston,100]]"
-  - "[[_Standards/WikiData/WD~Cambridge,49111]]"
+  - '[[_Standards/WikiData/WD~Boston,100]]'
+  - '[[_Standards/WikiData/WD~Cambridge,49111]]'
 member_count: 5000
-autonomous_system_number: "22989"
+autonomous_system_number: 22989
 social_media_followers: 57457
 total_revenue:
   - 2183470
@@ -72,7 +72,7 @@ total_assets:
   - 2638303
 short_name: FSF
 X_Twitter_username: fsf
-ACM_Classification_Code_2012_: "10011281"
+ACM_Classification_Code_2012_: 10011281
 inception: 1985-10-04T00:00:00Z
 motto_text: Free Software, Free Society
 EU_Corporate_body_code: FSF
@@ -86,7 +86,7 @@ official_blog_URL: https://www.fsf.org/blogs/
 email_address: mailto:info@fsf.org
 fax_number: +1-617-542-2652
 phone_number: +1-617-542-5942
-ISNI: "0000000121723580"
+ISNI: 0000000121723580
 IRS_Employer_Identification_Number: 04-2888848
 review_score: 97.15/100
 ComputerLanguage_com_definition: Free+Software+Foundation

@@ -4,57 +4,57 @@ aliases:
   - Greta Lovisa Gustafsson
   - Greta Garbo
 has_id_wikidata: Q5443
-religion_or_worldview: "[[_Standards/WikiData/WD~Lutheranism,75809]]"
-nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]"
-place_of_burial: "[[_Standards/WikiData/WD~Skogskyrkogården,213988]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Lutheranism,75809]]'
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+place_of_burial: '[[_Standards/WikiData/WD~Skogskyrkogården,213988]]'
 cause_of_death:
-  - "[[_Standards/WikiData/WD~kidney_failure,476921]]"
-  - "[[_Standards/WikiData/WD~pneumonia,12192]]"
+  - '[[_Standards/WikiData/WD~kidney_failure,476921]]'
+  - '[[_Standards/WikiData/WD~pneumonia,12192]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]"
-  - "[[_Standards/WikiData/WD~Litteris_et_Artibus,3332220]]"
-  - "[[_Standards/WikiData/WD~Illis_quorum,3432215]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_Polar_Star,20899923]]"
-handedness: "[[_Standards/WikiData/WD~left_handedness,789447]]"
-educated_at: "[[_Standards/WikiData/WD~Dramatens_elevskola,1255661]]"
-filmography: "[[_Standards/WikiData/WD~Greta_Garbo_filmography,1545940]]"
+  - '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
+  - '[[_Standards/WikiData/WD~Litteris_et_Artibus,3332220]]'
+  - '[[_Standards/WikiData/WD~Illis_quorum,3432215]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_Polar_Star,20899923]]'
+handedness: '[[_Standards/WikiData/WD~left_handedness,789447]]'
+educated_at: '[[_Standards/WikiData/WD~Dramatens_elevskola,1255661]]'
+filmography: '[[_Standards/WikiData/WD~Greta_Garbo_filmography,1545940]]'
 occupation:
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-place_of_birth: "[[_Standards/WikiData/WD~Katarina_church_parish,3427889]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+place_of_birth: '[[_Standards/WikiData/WD~Katarina_church_parish,3427889]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Alva_Garbo,4949461]]"
-  - "[[_Standards/WikiData/WD~Sven_Gustafsson,5778081]]"
-influenced_by: "[[_Standards/WikiData/WD~Henry_G._Bieler,5721690]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-given_name: "[[_Standards/WikiData/WD~Greta,16639594]]"
+  - '[[_Standards/WikiData/WD~Alva_Garbo,4949461]]'
+  - '[[_Standards/WikiData/WD~Sven_Gustafsson,5778081]]'
+influenced_by: '[[_Standards/WikiData/WD~Henry_G._Bieler,5721690]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+given_name: '[[_Standards/WikiData/WD~Greta,16639594]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Svenskt_kvinnobiografiskt_lexikon,50395049]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-family_name: "[[_Standards/WikiData/WD~Garbo,30179909]]"
-father: "[[_Standards/WikiData/WD~Karl_Alfred_Gustafsson,47509844]]"
-mother: "[[_Standards/WikiData/WD~Anna_Lovisa_Johansdotter,47510002]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~Project_Svenskt_kvinnobiografiskt_lexikon,100741461]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
-owner_of: "[[_Standards/WikiData/WD~Q109466924,109466924]]"
-relative: "[[_Standards/WikiData/WD~Gray_Reisfield,126353701]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Svenskt_kvinnobiografiskt_lexikon,50395049]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+family_name: '[[_Standards/WikiData/WD~Garbo,30179909]]'
+father: '[[_Standards/WikiData/WD~Karl_Alfred_Gustafsson,47509844]]'
+mother: '[[_Standards/WikiData/WD~Anna_Lovisa_Johansdotter,47510002]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Project_Svenskt_kvinnobiografiskt_lexikon,100741461]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+owner_of: '[[_Standards/WikiData/WD~Q109466924,109466924]]'
+relative: '[[_Standards/WikiData/WD~Gray_Reisfield,126353701]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Swedish,9027]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Swedish,9027]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Sweden,34]]"
-place_of_death: "[[_Standards/WikiData/WD~New_York_City,60]]"
-field_of_work: "[[_Standards/WikiData/WD~actor,33999]]"
-work_locations: "[[_Standards/WikiData/WD~Hollywood,34006]]"
-sexual_orientation: "[[_Standards/WikiData/WD~bisexuality,43200]]"
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Sweden,34]]'
+place_of_death: '[[_Standards/WikiData/WD~New_York_City,60]]'
+field_of_work: '[[_Standards/WikiData/WD~actor,33999]]'
+work_locations: '[[_Standards/WikiData/WD~Hollywood,34006]]'
+sexual_orientation: '[[_Standards/WikiData/WD~bisexuality,43200]]'
 Commons_category: Greta Garbo
 Commons_gallery: Greta Garbo
 described_at_URL:
@@ -67,7 +67,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Garbo%20in%20Inspirati
 date_of_birth: 1905-09-18T00:00:00Z
 name_in_native_language: Greta Garbo
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/GARBO_GRETA.html
-U_S_National_Archives_Identifier: "10582460"
+U_S_National_Archives_Identifier: 10582460
 date_of_death: 1990-04-15T00:00:00Z
 work_period_end_: 1941-01-01T00:00:00Z
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Greta%20Garbo%20signature.svg
@@ -77,8 +77,8 @@ pronunciation_audio:
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Sweden.%20Stockholm.%20Skogskyrkog%C3%A5rden%20033.JPG
 official_website: https://www.gretagarbo.com
 ISNI:
-  - "0000000081277888"
-  - "0000000368497597"
+  - 0000000081277888
+  - 0000000368497597
 Libris_URI: 53hkl4hp2j75sxp
 ---
 

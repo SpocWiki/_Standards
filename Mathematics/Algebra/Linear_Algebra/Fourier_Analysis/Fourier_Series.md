@@ -1,16 +1,18 @@
 ---
 aliases:
   - Fourier series
+  - Fourier_Series
+  - Fourier Series
 has_id_wikidata: Q179467
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~trigonometric_series,1149336]]"
-  - "[[_Standards/WikiData/WD~function_series,1474614]]"
+  - '[[_Standards/WikiData/WD~trigonometric_series,1149336]]'
+  - '[[_Standards/WikiData/WD~function_series,1474614]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Fourier_analysis,1365258]]"
-  - "[[_Standards/WikiData/WD~discrete_Fourier_transform,2878]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-instance_of: "[[_Standards/WikiData/WD~mathematical_concept,24034552]]"
+  - '[[_Standards/WikiData/WD~Fourier_analysis,1365258]]'
+  - '[[_Standards/WikiData/WD~discrete_Fourier_transform,2878]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>b</mi><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></msub></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>n</mi></mstyle></mrow></math>
@@ -19,7 +21,7 @@ in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>cos</mi></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></msub></mstyle></mrow></math>
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></mfrac></mrow><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub><mo stretchy="false">+</mo><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>n</mi><mo stretchy="false">=</mo><mn>1</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">&#x221E;</mi></mrow></munderover></mstyle><mo stretchy="false">(</mo><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></msub><mi>cos</mi><mo>&#x2061;</mo><mo stretchy="false">(</mo><mi>n</mi><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">+</mo><msub><mi>b</mi><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></msub><mi>sin</mi><mo>&#x2061;</mo><mo stretchy="false">(</mo><mi>n</mi><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">)</mo></mstyle></mrow></math>
-named_after: "[[_Standards/WikiData/WD~Joseph_Fourier,8772]]"
+named_after: '[[_Standards/WikiData/WD~Joseph_Fourier,8772]]'
 inception: 1822-01-01T00:00:00Z
 video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Animated%20plot%20of%20the%20first%20five%20successive%20partial%20Fourier%20series.gif

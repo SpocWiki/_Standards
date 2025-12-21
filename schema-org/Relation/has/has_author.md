@@ -1,27 +1,28 @@
 ---
 aliases:
-- has_author
-- "schema:author"
-- "dbo:author"
-- "wdt:P50"
+  - has_author
+  - schema:author
+  - dbo:author
+  - wdt:P50
+  - has author
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- author
-layout: 
-license: "CC BY-SA 4.0"
+  - author
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_author
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_author
 type: Predi_Relation
 ---

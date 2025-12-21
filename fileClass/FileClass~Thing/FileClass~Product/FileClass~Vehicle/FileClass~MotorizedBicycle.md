@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MotorizedBicycle
+excludes: ''
 extends: FileClass~Thing/FileClass~Product/FileClass~Vehicle
 fields: []
 icon: bike
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MotorizedBicycle
-- class/Thing/Product/Vehicle/MotorizedBicycle
-- is_a_/MotorizedBicycle
-- schema-org/MotorizedBicycle
+  - class/MotorizedBicycle
+  - class/Thing/Product/Vehicle/MotorizedBicycle
+  - is_a_/MotorizedBicycle
+  - schema-org/MotorizedBicycle
 tags:
-- class/FileClass
-- class/MotorizedBicycle
-- is_a_/MotorizedBicycle
-- class/Thing/Product/Vehicle/MotorizedBicycle
+  - class/FileClass
+  - class/MotorizedBicycle
+  - is_a_/MotorizedBicycle
+  - class/Thing/Product/Vehicle/MotorizedBicycle
 version: 2.0
 ---
 

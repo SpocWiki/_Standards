@@ -3,40 +3,42 @@ aliases:
   - Georg Sabellicus Faustus
   - Johann Georg Faust
   - John Faustus
+  - Faust,Johann_Georg
+  - Faust,Johann Georg
 has_id_wikidata: Q76918
 work_location:
-  - "[[_Standards/WikiData/WD~Maulbronn,80560]]"
-  - "[[_Standards/WikiData/WD~Heidelberg,2966]]"
-  - "[[_Standards/WikiData/WD~Tübingen,3806]]"
-place_of_birth: "[[_Standards/WikiData/WD~Knittlingen,80565]]"
-educated_at: "[[_Standards/WikiData/WD~Heidelberg_University,151510]]"
+  - '[[_Standards/WikiData/WD~Maulbronn,80560]]'
+  - '[[_Standards/WikiData/WD~Heidelberg,2966]]'
+  - '[[_Standards/WikiData/WD~Tübingen,3806]]'
+place_of_birth: '[[_Standards/WikiData/WD~Knittlingen,80565]]'
+educated_at: '[[_Standards/WikiData/WD~Heidelberg_University,151510]]'
 occupation:
-  - "[[_Standards/WikiData/WD~astrologer,155647]]"
-  - "[[_Standards/WikiData/WD~astronomer,11063]]"
-place_of_death: "[[_Standards/WikiData/WD~Staufen_im_Breisgau,528062]]"
+  - '[[_Standards/WikiData/WD~astrologer,155647]]'
+  - '[[_Standards/WikiData/WD~astronomer,11063]]'
+place_of_death: '[[_Standards/WikiData/WD~Staufen_im_Breisgau,528062]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]"
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-family_name: "[[_Standards/WikiData/WD~Faust,1398543]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-given_name: "[[_Standards/WikiData/WD~Johann,11122389]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-different_from: "[[_Standards/WikiData/WD~Johann_Michael_Faust,78131039]]"
+  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+family_name: '[[_Standards/WikiData/WD~Faust,1398543]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~Johann,11122389]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+different_from: '[[_Standards/WikiData/WD~Johann_Michael_Faust,78131039]]'
 date_of_birth: 1480-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Germany,183]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~German,188]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Germany,183]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~astrology,34362]]"
-  - "[[_Standards/WikiData/WD~alchemy,39689]]"
+  - '[[_Standards/WikiData/WD~astrology,34362]]'
+  - '[[_Standards/WikiData/WD~alchemy,39689]]'
 Commons_category: Johann Georg Faust
 BHCL_UUID: fea821b2-8bfa-4a39-9633-6295cd558c32
 date_of_death: 1540-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/B270%20Rembrandt.jpg
-ISNI: "0000000095189555"
+ISNI: 0000000095189555
 Libris_URI: xv8chqpg44v8k87
 name_in_native_language: Johann Georg Faust
 ---

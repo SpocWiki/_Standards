@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ScholarlyArticle
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ScholarlyArticle
-- class/Thing/CreativeWork/Article/ScholarlyArticle
-- is_a_/ScholarlyArticle
-- schema-org/ScholarlyArticle
+  - class/ScholarlyArticle
+  - class/Thing/CreativeWork/Article/ScholarlyArticle
+  - is_a_/ScholarlyArticle
+  - schema-org/ScholarlyArticle
 tags:
-- class/FileClass
-- class/ScholarlyArticle
-- is_a_/ScholarlyArticle
-- class/Thing/CreativeWork/Article/ScholarlyArticle
+  - class/FileClass
+  - class/ScholarlyArticle
+  - is_a_/ScholarlyArticle
+  - class/Thing/CreativeWork/Article/ScholarlyArticle
 version: 2.0
 ---
 

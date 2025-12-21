@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Czechia
+  - Czech Republic
+  - Bohemia
+  - Böhmen
+  - Czech_Republic
+has_id_wikidata: Q213
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_Czech_Republic,76380]]"
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
@@ -213,7 +220,7 @@ ISNI: 000000012290990X
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Czechia%20Montage.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Czechia%20Montage.jpg
 MeSH_tree_code: Z01.542.248.395
-time_of_earliest_written_record: "0900"
+time_of_earliest_written_record: 900
 coordinate_location: Point(15.0 50.0)
 diplomatic_relation:
   - "[[_Standards/WikiData/WD~Chile,298]]"
@@ -419,7 +426,7 @@ short_name:
 native_label: Česko
 motto_text:
   - Pravda vítězí.
-inception: "1993"
+inception: 1993
 has_time_started: 1993-06
 coordinates_of_southernmost_point: Point(14.33321804 48.55181702)
 coordinates_of_westernmost_point: Point(12.09061235 50.25239141)
@@ -452,12 +459,6 @@ CIVICUS_Monitor_country_entry: czech-republic
 hashtag: CzechRepublic
 Colon_Classification: SG--59251
 Krugosvet_article: strany_mira/CHEHIYA.html
-has_id_wikidata: Q213
-aliases:
-  - Czechia
-  - Czech Republic
-  - Bohemia
-  - Böhmen
 location:
   - 49.7633
   - 15.8734

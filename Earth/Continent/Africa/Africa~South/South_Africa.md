@@ -1,4 +1,15 @@
 ---
+aliases:
+  - South Africa
+  - Sudáfrica
+  - Afrique du Sud
+  - جنوب أفريقيا
+  - 南非
+  - Южная Африка
+  - the Republic of South Africa
+  - la República de Sudáfrica
+  - South_Africa
+has_id_wikidata: Q258
 contains_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~KwaZulu-Natal,81725]]"
   - "[[_Standards/WikiData/WD~Western_Cape,127167]]"
@@ -410,7 +421,6 @@ coordinates_of_northernmost_point: Point(29.658333333 -22.127777777)
 inception: 1910-05-31
 has_time_started: 1910-05-31
 population: 62027503
-has_id_wikidata: Q258
 location:
   - -28.8175
   - 22.87
@@ -427,21 +437,12 @@ cssclasses:
   - Country
 publish: true
 title: South Africa
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate: 
-expiryDate: 
-aliases:
-  - South Africa
-  - Sudáfrica
-  - Afrique du Sud
-  - جنوب أفريقيا
-  - 南非
-  - Южная Африка
-  - the Republic of South Africa
-  - la República de Sudáfrica
+publishDate: ""
+expiryDate: ""
 Languages:
   - zu
   - xh

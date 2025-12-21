@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Jurassic Park"
+  - Jurassic Park
+  - Jurassic_Park
 ---
 
 # [[Jurassic_Park]] 

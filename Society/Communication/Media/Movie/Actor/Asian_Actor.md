@@ -2,6 +2,7 @@
 aliases:
   - Asian Actor
   - Asian Actress
+  - Asian_Actor
 ---
 
 

@@ -1,40 +1,41 @@
 ---
 aliases:
   - Marx Brothers
+  - Marx_Brothers
 has_id_wikidata: Q64450
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Groucho_Marx,103846]]"
-  - "[[_Standards/WikiData/WD~Zeppo_Marx,149997]]"
-  - "[[_Standards/WikiData/WD~Harpo_Marx,317237]]"
-  - "[[_Standards/WikiData/WD~Chico_Marx,380054]]"
-  - "[[_Standards/WikiData/WD~Gummo_Marx,504548]]"
+  - '[[_Standards/WikiData/WD~Groucho_Marx,103846]]'
+  - '[[_Standards/WikiData/WD~Zeppo_Marx,149997]]'
+  - '[[_Standards/WikiData/WD~Harpo_Marx,317237]]'
+  - '[[_Standards/WikiData/WD~Chico_Marx,380054]]'
+  - '[[_Standards/WikiData/WD~Gummo_Marx,504548]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~The_Big_Store,371413]]"
-  - "[[_Standards/WikiData/WD~Go_West,427090]]"
-  - "[[_Standards/WikiData/WD~Animal_Crackers,547279]]"
-  - "[[_Standards/WikiData/WD~The_Cocoanuts,581117]]"
-  - "[[_Standards/WikiData/WD~Monkey_Business,776964]]"
-  - "[[_Standards/WikiData/WD~Horse_Feathers,887192]]"
-  - "[[_Standards/WikiData/WD~A_Night_at_the_Opera,943992]]"
-  - "[[_Standards/WikiData/WD~Love_Happy,957026]]"
-  - "[[_Standards/WikiData/WD~Duck_Soup,1125566]]"
-  - "[[_Standards/WikiData/WD~At_the_Circus,1214743]]"
-  - "[[_Standards/WikiData/WD~A_Day_at_the_Races,1214749]]"
-  - "[[_Standards/WikiData/WD~A_Night_in_Casablanca,1306530]]"
-  - "[[_Standards/WikiData/WD~Room_Service,1437531]]"
-  - "[[_Standards/WikiData/WD~Humor_Risk,1755878]]"
-color: "[[_Standards/WikiData/WD~black_and_white,838368]]"
+  - '[[_Standards/WikiData/WD~The_Big_Store,371413]]'
+  - '[[_Standards/WikiData/WD~Go_West,427090]]'
+  - '[[_Standards/WikiData/WD~Animal_Crackers,547279]]'
+  - '[[_Standards/WikiData/WD~The_Cocoanuts,581117]]'
+  - '[[_Standards/WikiData/WD~Monkey_Business,776964]]'
+  - '[[_Standards/WikiData/WD~Horse_Feathers,887192]]'
+  - '[[_Standards/WikiData/WD~A_Night_at_the_Opera,943992]]'
+  - '[[_Standards/WikiData/WD~Love_Happy,957026]]'
+  - '[[_Standards/WikiData/WD~Duck_Soup,1125566]]'
+  - '[[_Standards/WikiData/WD~At_the_Circus,1214743]]'
+  - '[[_Standards/WikiData/WD~A_Day_at_the_Races,1214749]]'
+  - '[[_Standards/WikiData/WD~A_Night_in_Casablanca,1306530]]'
+  - '[[_Standards/WikiData/WD~Room_Service,1437531]]'
+  - '[[_Standards/WikiData/WD~Humor_Risk,1755878]]'
+color: '[[_Standards/WikiData/WD~black_and_white,838368]]'
 member_of: "[[_Standards/WikiData/WD~College_of_'Pataphysics,1371509]]"
-different_from: "[[_Standards/WikiData/WD~Marx_siblings,1518091]]"
+different_from: '[[_Standards/WikiData/WD~Marx_siblings,1518091]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~stage_act,16702367]]"
-  - "[[_Standards/WikiData/WD~sibling_group,16979650]]"
-  - "[[_Standards/WikiData/WD~comedy_troupe,18510489]]"
+  - '[[_Standards/WikiData/WD~stage_act,16702367]]'
+  - '[[_Standards/WikiData/WD~sibling_group,16979650]]'
+  - '[[_Standards/WikiData/WD~comedy_troupe,18510489]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Marx%20Brothers%201931.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Marx%20brothers%20Tonight%20Show.jpg
 official_website: http://www.marx-brothers.org/index.htm
-ISNI: "0000000081900174"
+ISNI: 0000000081900174
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/MARKS_BRATYA.html
 Commons_gallery: Marx Brothers
 Commons_category: Marx Brothers

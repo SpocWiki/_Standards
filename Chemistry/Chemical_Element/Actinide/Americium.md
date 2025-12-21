@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Americium
+has_id_wikidata: Q1872
 atomic_number: 95
 canonical_SMILES: '[Am]'
 CAS_Registry_Number: 7440-35-9
@@ -12,30 +15,29 @@ DSSTOX_compound_identifier: DTXCID6047658
 EC_number: 231-144-4
 electronegativity: 1.13
 element_symbol: Am
-has_id_wikidata: Q1872
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Americium%20microscope.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Americium%20microscope.jpg
 InChI: InChI=1S/Am
 InChIKey: LXQXZNRPTYVCNG-UHFFFAOYSA-N
 instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-- 0.85
-- 0.95
-- 0.98
-- 1.09
+  - 0.85
+  - 0.95
+  - 0.98
+  - 1.09
 mass: 243
 MeSH_tree_code:
-- D01.268.271.100.050
-- D01.268.556.037
-- D01.496.749.305.100.050
-- D01.552.020.086
-- D01.552.544.037
+  - D01.268.271.100.050
+  - D01.268.556.037
+  - D01.496.749.305.100.050
+  - D01.552.020.086
+  - D01.552.544.037
 named_after: '[[_Standards/WikiData/WD~Americas,828]]'
 OmegaWiki_Defined_Meaning: 155847
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~actinide,19577]]'
-plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20146.jpg"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-am%C3%A9ricium.wav"
+  - '[[_Standards/WikiData/WD~period_7,244979]]'
+  - '[[_Standards/WikiData/WD~actinide,19577]]'
+plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20146.jpg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-am%C3%A9ricium.wav
 PubChem_CID: 23966
 SpocWebEntityId: 21990
 time_of_discovery_or_invention: 1944

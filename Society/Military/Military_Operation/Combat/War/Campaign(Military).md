@@ -2,17 +2,18 @@
 aliases:
   - military campaign
   - military_campaign
+  - Campaign(Military)
 has_id_wikidata: Q831663
-uses: "[[_Standards/WikiData/WD~military_operation_plan,149377]]"
+uses: '[[_Standards/WikiData/WD~military_operation_plan,149377]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~armed_conflict,350604]]"
-  - "[[_Standards/WikiData/WD~military_operation,645883]]"
-  - "[[_Standards/WikiData/WD~campaign,6056746]]"
+  - '[[_Standards/WikiData/WD~armed_conflict,350604]]'
+  - '[[_Standards/WikiData/WD~military_operation,645883]]'
+  - '[[_Standards/WikiData/WD~campaign,6056746]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-different_from: "[[_Standards/WikiData/WD~campaign,6056746]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_conflict,125092269]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~campaign,6056746]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_conflict,125092269]]'
 Wikidata_property: participated in conflict
 Provenio_UUID: 13b22969-5eec-40be-90c0-f31909964ff2
 Commons_category: Military campaigns

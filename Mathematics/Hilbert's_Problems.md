@@ -1,9 +1,11 @@
 ---
 aliases:
   - Hilbert's problems
+  - Hilbert's_Problems
+  - Hilbert's Problems
 has_id_wikidata: Q273167
 has_part_s_:
-  - "[[_Standards/WikiData/WD~continuum_hypothesis,208416]]"
+  - '[[_Standards/WikiData/WD~continuum_hypothesis,208416]]'
   - "[[_Standards/WikiData/WD~Hilbert's_thirteenth_problem,838094]]"
   - "[[_Standards/WikiData/WD~Hilbert's_tenth_problem,986147]]"
   - "[[_Standards/WikiData/WD~Hilbert's_twelfth_problem,1093498]]"
@@ -28,18 +30,18 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~Hilbert's_eighteenth_problem,11059889]]"
   - "[[_Standards/WikiData/WD~Hilbert's_second_problem,13424667]]"
 is_a_list_of:
-  - "[[_Standards/WikiData/WD~conjecture,319141]]"
-  - "[[_Standards/WikiData/WD~mathematical_problem,1166625]]"
-subclass_of: "[[_Standards/WikiData/WD~conjecture,319141]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~conjecture,319141]]'
+  - '[[_Standards/WikiData/WD~mathematical_problem,1166625]]'
+subclass_of: '[[_Standards/WikiData/WD~conjecture,319141]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~list,12139612]]"
-  - "[[_Standards/WikiData/WD~Enumeration_of_23,135236643]]"
+  - '[[_Standards/WikiData/WD~list,12139612]]'
+  - '[[_Standards/WikiData/WD~Enumeration_of_23,135236643]]'
 publication_date: 1900-08-08T00:00:00Z
-published_in: "[[_Standards/WikiData/WD~Mathematical_Problems,57837017]]"
-facet_of: "[[_Standards/WikiData/WD~mathematics,395]]"
-named_after: "[[_Standards/WikiData/WD~David_Hilbert,41585]]"
-author: "[[_Standards/WikiData/WD~David_Hilbert,41585]]"
+published_in: '[[_Standards/WikiData/WD~Mathematical_Problems,57837017]]'
+facet_of: '[[_Standards/WikiData/WD~mathematics,395]]'
+named_after: '[[_Standards/WikiData/WD~David_Hilbert,41585]]'
+author: '[[_Standards/WikiData/WD~David_Hilbert,41585]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hilbert.jpg
 described_at_URL: http://www.treccani.it/enciclopedia/la-seconda-rivoluzione-scientifica-matematica-e-logica-i-problemi-di-hilbert-e-la-matematica-del-nuovo-secolo_%28Storia-della-Scienza%29/
 Commons_category: Hilbert's problems

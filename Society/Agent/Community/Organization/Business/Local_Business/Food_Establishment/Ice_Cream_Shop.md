@@ -4,20 +4,22 @@ aliases:
   - ice_cream_shop
   - IceCreamShop
   - is_an_ice_cream_shop
+  - Ice_Cream_Shop
+  - Ice Cream Shop
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - ice_cream_shop
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_ice_cream_shop Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

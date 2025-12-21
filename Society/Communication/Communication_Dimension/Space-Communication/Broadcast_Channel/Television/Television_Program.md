@@ -3,23 +3,25 @@ aliases:
   - television show
   - TV program
   - TV show
+  - Television_Program
+  - Television Program
 has_id_wikidata: Q15416
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~teletext,203659]]"
-  - "[[_Standards/WikiData/WD~subtitle,204028]]"
-  - "[[_Standards/WikiData/WD~music_segment,60215966]]"
-different_from: "[[_Standards/WikiData/WD~entertainment_television_program,1407245]]"
+  - '[[_Standards/WikiData/WD~teletext,203659]]'
+  - '[[_Standards/WikiData/WD~subtitle,204028]]'
+  - '[[_Standards/WikiData/WD~music_segment,60215966]]'
+different_from: '[[_Standards/WikiData/WD~entertainment_television_program,1407245]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~audiovisual_work,2431196]]"
-  - "[[_Standards/WikiData/WD~moving_image,10301427]]"
-  - "[[_Standards/WikiData/WD~broadcasting_program,11578774]]"
+  - '[[_Standards/WikiData/WD~audiovisual_work,2431196]]'
+  - '[[_Standards/WikiData/WD~moving_image,10301427]]'
+  - '[[_Standards/WikiData/WD~broadcasting_program,11578774]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_television,5616006]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox_TVB,20690859]]"
-  - "[[_Standards/WikiData/WD~Template_Audiovisual_program,25740628]]"
+  - '[[_Standards/WikiData/WD~Template_Infobox_television,5616006]]'
+  - '[[_Standards/WikiData/WD~Template_Infobox_TVB,20690859]]'
+  - '[[_Standards/WikiData/WD~Template_Audiovisual_program,25740628]]'
 part_of:
-  - "[[_Standards/WikiData/WD~television_programming,12376699]]"
-  - "[[_Standards/WikiData/WD~television,289]]"
+  - '[[_Standards/WikiData/WD~television_programming,12376699]]'
+  - '[[_Standards/WikiData/WD~television,289]]'
 properties_for_this_type:
   - IMDb ID
   - presenter
@@ -29,11 +31,11 @@ properties_for_this_type:
   - number of seasons
   - RatingGraph TV show ID
 U_S_National_Archives_Identifier:
-  - "10644350"
-  - "10658414"
+  - 10644350
+  - 10658414
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1950%27s%20television.jpg
 equivalent_class: http://dbpedia.org/ontology/TelevisionShow
-Dewey_Decimal_Classification: "791.457"
+Dewey_Decimal_Classification: 791.457
 Commons_category: Television programmes
 ---
 

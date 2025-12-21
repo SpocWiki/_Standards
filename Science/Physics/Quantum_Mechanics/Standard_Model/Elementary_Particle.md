@@ -2,23 +2,25 @@
 aliases:
   - elementary particle
   - fundamental particle
+  - Elementary_Particle
+  - Elementary Particle
 has_id_wikidata: Q43116
-opposite_of: "[[_Standards/WikiData/WD~composite_particle,3366856]]"
-part_of: "[[_Standards/WikiData/WD~composite_particle,3366856]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~fundamental_particle,11426419]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+opposite_of: '[[_Standards/WikiData/WD~composite_particle,3366856]]'
+part_of: '[[_Standards/WikiData/WD~composite_particle,3366856]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~fundamental_particle,11426419]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 different_from:
-  - "[[_Standards/WikiData/WD~quantum_particle,28693603]]"
-  - "[[_Standards/WikiData/WD~indivisible_particle,28846113]]"
+  - '[[_Standards/WikiData/WD~quantum_particle,28693603]]'
+  - '[[_Standards/WikiData/WD~indivisible_particle,28846113]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~indivisible_particle,28846113]]"
-  - "[[_Standards/WikiData/WD~elementary_object,63243922]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-interaction: "[[_Standards/WikiData/WD~gravity,11412]]"
-antiparticle: "[[_Standards/WikiData/WD~elementary_particle,43116]]"
-OmegaWiki_Defined_Meaning: "8222"
-Dewey_Decimal_Classification: "539.721"
+  - '[[_Standards/WikiData/WD~indivisible_particle,28846113]]'
+  - '[[_Standards/WikiData/WD~elementary_object,63243922]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+interaction: '[[_Standards/WikiData/WD~gravity,11412]]'
+antiparticle: '[[_Standards/WikiData/WD~elementary_particle,43116]]'
+OmegaWiki_Defined_Meaning: 8222
+Dewey_Decimal_Classification: 539.721
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Michael%20Schoenitzer%20%28MichaelSchoenitzer%29-Elementarteilchen.wav
 IEV_number:

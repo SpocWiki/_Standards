@@ -29,7 +29,7 @@ depicted_by:
   - "[[_Standards/WikiData/WD~Babies_tondos,131719726]]"
   - "[[_Standards/WikiData/WD~Logos_Ecomuseo_delle_Grigne_a_misura_of_bambino,131825357]]"
 fabrication_method: "[[_Standards/WikiData/WD~sexual_intercourse,5873]]"
-OmegaWiki_Defined_Meaning: "5642"
+OmegaWiki_Defined_Meaning: 5642
 Colon_Classification: S13
 IMDb_keyword: baby
 hashtag_:
@@ -56,7 +56,7 @@ female_form_of_label:
   - bebeino
 ---
 
-# [[Baby]] 
+# [[Baby]] 👶 
 
 #is_/same_as :: [[WD~Infant,998]] 
 

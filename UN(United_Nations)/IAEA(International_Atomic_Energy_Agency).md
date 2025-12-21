@@ -2,6 +2,8 @@
 aliases:
   - IAEA
   - International Atomic Energy Agency
+  - IAEA(International_Atomic_Energy_Agency)
+  - IAEA(International Atomic Energy Agency)
 has_id_wikidata: Q41984
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "IAEAEstablished"]
 Facebook_username:
@@ -19,34 +21,34 @@ short_name:
   - AIEA
   - IAEA
 partnership_with:
-  - "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
-  - "[[_Standards/WikiData/WD~Asian_African_Legal_Consultative_Organization,333536]]"
+  - '[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]'
+  - '[[_Standards/WikiData/WD~Asian_African_Legal_Consultative_Organization,333536]]'
 official_observer_status_in_organization:
-  - "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
-  - "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
-owner_of: "[[_Standards/WikiData/WD~International_Nuclear_Information_System,3509417]]"
+  - '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
+  - '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
+owner_of: '[[_Standards/WikiData/WD~International_Nuclear_Information_System,3509417]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Digital_Preservation_Coalition,5275956]]"
-  - "[[_Standards/WikiData/WD~International_Association_of_Scientific,_Technical,_and_Medical_Publishers,6048595]]"
+  - '[[_Standards/WikiData/WD~Digital_Preservation_Coalition,5275956]]'
+  - '[[_Standards/WikiData/WD~International_Association_of_Scientific,_Technical,_and_Medical_Publishers,6048595]]'
 child_organization_unit:
-  - "[[_Standards/WikiData/WD~International_Nuclear_Library_Network,6052204]]"
-  - "[[_Standards/WikiData/WD~International_Atomic_Energy_Agency_Trieste,33526983]]"
-instance_of: "[[_Standards/WikiData/WD~organization_established_by_the_United_Nations,15285626]]"
-director_manager: "[[_Standards/WikiData/WD~Rafael_Grossi,51107051]]"
+  - '[[_Standards/WikiData/WD~International_Nuclear_Library_Network,6052204]]'
+  - '[[_Standards/WikiData/WD~International_Atomic_Energy_Agency_Trieste,33526983]]'
+instance_of: '[[_Standards/WikiData/WD~organization_established_by_the_United_Nations,15285626]]'
+director_manager: '[[_Standards/WikiData/WD~Rafael_Grossi,51107051]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-parent_organization: "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+parent_organization: '[[_Standards/WikiData/WD~United_Nations,1065]]'
 official_language:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~Chinese,7850]]"
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Vienna,1741]]"
-writing_system: "[[_Standards/WikiData/WD~Cyrillic_script,8209]]"
-country: "[[_Standards/WikiData/WD~Austria,40]]"
+  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Russian,7737]]'
+  - '[[_Standards/WikiData/WD~Chinese,7850]]'
+  - '[[_Standards/WikiData/WD~Arabic,13955]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Vienna,1741]]'
+writing_system: '[[_Standards/WikiData/WD~Cyrillic_script,8209]]'
+country: '[[_Standards/WikiData/WD~Austria,40]]'
 employees: 2500
 budget: 380000000
 social_media_followers:
@@ -63,8 +65,8 @@ official_website: https://www.iaea.org/
 web_feed_URL: https://www.iaea.org/feeds
 email_address: mailto:info@iaea.org
 ISNI:
-  - "0000000121846337"
-  - "0000000404038399"
+  - 0000000121846337
+  - 0000000404038399
 Libris_URI: c9prp99w1wf4jxg
 ---
 

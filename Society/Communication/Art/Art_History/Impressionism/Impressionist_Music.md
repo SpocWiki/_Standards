@@ -1,6 +1,8 @@
 ---
 aliases:
   - Impressionist music
+  - Impressionist_Music
+  - Impressionist Music
 has_id_wikidata: Q105697765
 ---
 

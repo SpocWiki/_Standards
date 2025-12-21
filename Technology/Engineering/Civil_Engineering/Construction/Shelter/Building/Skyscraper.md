@@ -1,15 +1,16 @@
 ---
 aliases:
   - Wolkenkratzer
+  - Skyscraper
 has_id_wikidata: Q11303
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Architecture,5496595]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Skyscrapers,18520514]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Civil_engineering,21829766]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_skyscraper,6238351]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q19657373,19657373]]"
-opposite_of: "[[_Standards/WikiData/WD~earthscraper,121639225]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Architecture,5496595]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Skyscrapers,18520514]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Civil_engineering,21829766]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_skyscraper,6238351]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q19657373,19657373]]'
+opposite_of: '[[_Standards/WikiData/WD~earthscraper,121639225]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 properties_for_this_type:
   - location
   - postal code
@@ -27,14 +28,14 @@ properties_for_this_type:
   - located in the administrative territorial entity
   - made from material
   - main building contractor
-different_from: "[[_Standards/WikiData/WD~tower_block,18142]]"
-subclass_of: "[[_Standards/WikiData/WD~tower_block,18142]]"
-OmegaWiki_Defined_Meaning: "773665"
+different_from: '[[_Standards/WikiData/WD~tower_block,18142]]'
+subclass_of: '[[_Standards/WikiData/WD~tower_block,18142]]'
+OmegaWiki_Defined_Meaning: 773665
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Taipei101.portrait.altonthompson.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Skyscraper%20Office%20pixel%20art%20icon.svg
 equivalent_class: http://dbpedia.org/ontology/Skyscraper
 Iconclass_notation: 41A15
-P8189: "987007548636505171"
+P8189: 987007548636505171
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/NEBOSKREB.html
 Commons_gallery: Skyscraper
 Commons_category: Skyscrapers

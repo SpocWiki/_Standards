@@ -1,33 +1,33 @@
 ---
 aliases:
-- Structure~Switch
-- 
+  - Structure~Switch
+  - ''
 confidential: private
-cssclasses: "private note"
+cssclasses: private note
 draft: true
-expiryDate: 
+expiryDate: ''
 has_creator: '[[]]'
 has_destroyer: '[[]]'
 has_location_created: '[[]]'
 has_location_destroyed: '[[]]'
-has_time_created: 
-has_time_destroyed: 
+has_time_created: ''
+has_time_destroyed: ''
 isDeleted: false
 isReadOnly: false
 Key: Value
 keywords: Structure~Switch
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Structure~Switch
 Predicate: '[[Object]]'
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Structure~Switch
-- "rather use"
+  - Structure~Switch
+  - rather use
 title: Structure~Switch
-type: "private note"
+type: private note
 ---
 
 # [[Structure~Switch]] 

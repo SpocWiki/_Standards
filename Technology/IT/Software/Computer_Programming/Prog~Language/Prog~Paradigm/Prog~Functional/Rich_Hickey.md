@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Rich Hickey"
-- "Richard Hickey"
+  - Rich Hickey
+  - Richard Hickey
+  - Rich_Hickey
 ---
 
 # [[Rich_Hickey]]

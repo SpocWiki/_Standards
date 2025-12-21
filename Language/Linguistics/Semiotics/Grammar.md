@@ -1,36 +1,38 @@
 ---
+aliases:
+  - Grammar
+has_id_wikidata: Q8091
 Commons_category: Grammar
 Commons_gallery: Grammar
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Linguistics,13537252]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-- '[[_Standards/WikiData/WD~Encyklopedia_językoznawstwa_ogólnego,67386140]]'
-- '[[_Standards/WikiData/WD~Q67386293,67386293]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Linguistics,13537252]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - '[[_Standards/WikiData/WD~Encyklopedia_językoznawstwa_ogólnego,67386140]]'
+  - '[[_Standards/WikiData/WD~Q67386293,67386293]]'
+  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 Dewey_Decimal_Classification: 415
 different_from: '[[_Standards/WikiData/WD~formal_grammar,373045]]'
 entry_in_abbreviations_table:
-- ব্যা◦
-- ব্যাক.
+  - ব্যা◦
+  - ব্যাক.
 has_characteristic:
-- '[[_Standards/WikiData/WD~grammatical_category,980357]]'
-- '[[_Standards/WikiData/WD~grammatical_evolution,5593687]]'
-has_id_wikidata: Q8091
+  - '[[_Standards/WikiData/WD~grammatical_category,980357]]'
+  - '[[_Standards/WikiData/WD~grammatical_evolution,5593687]]'
 instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 Nomenclature_for_Museum_Cataloging: 13491
 OmegaWiki_Defined_Meaning:
-- 1256330
-- 375172
+  - 1256330
+  - 375172
 part_of: '[[_Standards/WikiData/WD~linguistics,8162]]'
 practiced_by: '[[_Standards/WikiData/WD~grammarian,15991187]]'
 Provenio_UUID: cbdb47ff-6cbd-4c9d-9a5e-c0d74e3fe8f9
-related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Susenbrot.JPG"
-Stack_Exchange_tag: "https://linguistics.stackexchange.com/tags/grammar"
+related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Susenbrot.JPG
+Stack_Exchange_tag: https://linguistics.stackexchange.com/tags/grammar
 subclass_of:
-- '[[_Standards/WikiData/WD~convention,367293]]'
-- '[[_Standards/WikiData/WD~linguistics,8162]]'
+  - '[[_Standards/WikiData/WD~convention,367293]]'
+  - '[[_Standards/WikiData/WD~linguistics,8162]]'
 subreddit: grammar
 topic_s_main_template: '[[_Standards/WikiData/WD~Q10562397,10562397]]'
 ---

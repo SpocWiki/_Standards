@@ -4,23 +4,25 @@ aliases:
   - passenger_sequence_number
   - passengerSequenceNumber
   - has_text_of_passenger_sequence_number
+  - has_passenger_sequence_number
+  - has passenger sequence number
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - passenger
   - sequence
   - number
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_passenger_sequence_number
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

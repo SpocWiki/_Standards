@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~WholesaleStore
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/WholesaleStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/WholesaleStore
-- is_a_/WholesaleStore
-- schema-org/WholesaleStore
+  - class/WholesaleStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/WholesaleStore
+  - is_a_/WholesaleStore
+  - schema-org/WholesaleStore
 tags:
-- class/FileClass
-- class/WholesaleStore
-- is_a_/WholesaleStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/WholesaleStore
+  - class/FileClass
+  - class/WholesaleStore
+  - is_a_/WholesaleStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/WholesaleStore
 version: 2.0
 ---
 

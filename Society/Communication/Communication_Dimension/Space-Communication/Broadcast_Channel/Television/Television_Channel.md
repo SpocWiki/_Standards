@@ -4,21 +4,23 @@ aliases:
   - television_channel
   - TelevisionChannel
   - is_a_television_channel
+  - Television_Channel
+  - Television Channel
 has_id_wikidata: Q2001305
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - television_channel
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_television_channel Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

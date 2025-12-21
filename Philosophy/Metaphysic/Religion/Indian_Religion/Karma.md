@@ -2,28 +2,29 @@
 aliases:
   - कर्म
   - kamma
+  - Karma
 has_id_wikidata: Q132196
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-different_from: "[[_Standards/WikiData/WD~Karma,1734014]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+different_from: '[[_Standards/WikiData/WD~Karma,1734014]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~karma_in_Buddhism,2673416]]"
-  - "[[_Standards/WikiData/WD~karma_in_Hinduism,3236645]]"
-  - "[[_Standards/WikiData/WD~karma_in_Jainism,6372679]]"
-  - "[[_Standards/WikiData/WD~Karma_in_Tibetan_Buddhism,18387136]]"
+  - '[[_Standards/WikiData/WD~karma_in_Buddhism,2673416]]'
+  - '[[_Standards/WikiData/WD~karma_in_Hinduism,3236645]]'
+  - '[[_Standards/WikiData/WD~karma_in_Jainism,6372679]]'
+  - '[[_Standards/WikiData/WD~Karma_in_Tibetan_Buddhism,18387136]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~religious_concept,23847174]]"
-  - "[[_Standards/WikiData/WD~triad,29430681]]"
-has_characteristic: "[[_Standards/WikiData/WD~retribution,112073391]]"
+  - '[[_Standards/WikiData/WD~religious_concept,23847174]]'
+  - '[[_Standards/WikiData/WD~triad,29430681]]'
+has_characteristic: '[[_Standards/WikiData/WD~retribution,112073391]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~Buddhism,748]]"
-  - "[[_Standards/WikiData/WD~Hinduism,9089]]"
-  - "[[_Standards/WikiData/WD~Jainism,9232]]"
+  - '[[_Standards/WikiData/WD~Buddhism,748]]'
+  - '[[_Standards/WikiData/WD~Hinduism,9089]]'
+  - '[[_Standards/WikiData/WD~Jainism,9232]]'
 Commons_category: Karma
 IMDb_keyword: karma
-OmegaWiki_Defined_Meaning: "789690"
+OmegaWiki_Defined_Meaning: 789690
 image: http://commons.wikimedia.org/wiki/Special:FilePath/EndlessKnot3d.svg
 subreddit: instantkarma
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/KARMA.html

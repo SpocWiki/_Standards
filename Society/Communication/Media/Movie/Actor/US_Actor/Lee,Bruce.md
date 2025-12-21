@@ -2,89 +2,90 @@
 aliases:
   - Bruce Lee
   - Lee Jun-fan
+  - Lee,Bruce
 has_id_wikidata: Q16397
-student_of: "[[_Standards/WikiData/WD~Ip_Man,163830]]"
+student_of: '[[_Standards/WikiData/WD~Ip_Man,163830]]'
 child:
-  - "[[_Standards/WikiData/WD~Pelotudo_Lee,211462]]"
-  - "[[_Standards/WikiData/WD~Shannon_Lee,698411]]"
+  - '[[_Standards/WikiData/WD~Pelotudo_Lee,211462]]'
+  - '[[_Standards/WikiData/WD~Shannon_Lee,698411]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Washington,219563]]"
-  - "[[_Standards/WikiData/WD~Seattle_Central_College,7442064]]"
+  - '[[_Standards/WikiData/WD~University_of_Washington,219563]]'
+  - '[[_Standards/WikiData/WD~Seattle_Central_College,7442064]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Fist_of_Fury,253565]]"
-  - "[[_Standards/WikiData/WD~Enter_the_Dragon,331617]]"
-  - "[[_Standards/WikiData/WD~Way_of_the_Dragon,462409]]"
-  - "[[_Standards/WikiData/WD~The_Big_Boss,470374]]"
-  - "[[_Standards/WikiData/WD~The_Green_Hornet,991697]]"
-  - "[[_Standards/WikiData/WD~Marlowe,1759810]]"
-  - "[[_Standards/WikiData/WD~The_Game_of_Death,20202630]]"
+  - '[[_Standards/WikiData/WD~Fist_of_Fury,253565]]'
+  - '[[_Standards/WikiData/WD~Enter_the_Dragon,331617]]'
+  - '[[_Standards/WikiData/WD~Way_of_the_Dragon,462409]]'
+  - '[[_Standards/WikiData/WD~The_Big_Boss,470374]]'
+  - '[[_Standards/WikiData/WD~The_Green_Hornet,991697]]'
+  - '[[_Standards/WikiData/WD~Marlowe,1759810]]'
+  - '[[_Standards/WikiData/WD~The_Game_of_Death,20202630]]'
 occupation:
-  - "[[_Standards/WikiData/WD~stunt_performer,465501]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~stunt_coordinator,2833480]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~martial_artist,11124885]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - '[[_Standards/WikiData/WD~stunt_performer,465501]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~stunt_coordinator,2833480]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~director,3455803]]'
+  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~martial_artist,11124885]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Bruce,579371]]"
-  - "[[_Standards/WikiData/WD~Xiǎolóng,122221060]]"
-father: "[[_Standards/WikiData/WD~Lee_Hoi_chuen,712093]]"
-place_of_burial: "[[_Standards/WikiData/WD~Q872253,872253]]"
-ancestral_home: "[[_Standards/WikiData/WD~Shunde_District,945428]]"
-cause_of_death: "[[_Standards/WikiData/WD~cerebral_edema,979168]]"
+  - '[[_Standards/WikiData/WD~Bruce,579371]]'
+  - '[[_Standards/WikiData/WD~Xiǎolóng,122221060]]'
+father: '[[_Standards/WikiData/WD~Lee_Hoi_chuen,712093]]'
+place_of_burial: '[[_Standards/WikiData/WD~Q872253,872253]]'
+ancestral_home: '[[_Standards/WikiData/WD~Shunde_District,945428]]'
+cause_of_death: '[[_Standards/WikiData/WD~cerebral_edema,979168]]'
 student:
-  - "[[_Standards/WikiData/WD~Jesse_Glover,999092]]"
-  - "[[_Standards/WikiData/WD~Jerry_Poteet,6184259]]"
+  - '[[_Standards/WikiData/WD~Jesse_Glover,999092]]'
+  - '[[_Standards/WikiData/WD~Jerry_Poteet,6184259]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~British_Hong_Kong,1054923]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-spouse: "[[_Standards/WikiData/WD~Linda_Lee_Cadwell,1130195]]"
-different_from: "[[_Standards/WikiData/WD~Butch_Lee,2344573]]"
+  - '[[_Standards/WikiData/WD~British_Hong_Kong,1054923]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+spouse: '[[_Standards/WikiData/WD~Linda_Lee_Cadwell,1130195]]'
+different_from: '[[_Standards/WikiData/WD~Butch_Lee,2344573]]'
 writing_language:
-  - "[[_Standards/WikiData/WD~written_Cantonese,2472605]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
+  - '[[_Standards/WikiData/WD~written_Cantonese,2472605]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~martial_artist,11124885]]"
-  - "[[_Standards/WikiData/WD~film_screenwriter,69423232]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-filmography: "[[_Standards/WikiData/WD~Bruce_Lee_filmography,4977862]]"
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~martial_artist,11124885]]'
+  - '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+filmography: '[[_Standards/WikiData/WD~Bruce_Lee_filmography,4977862]]'
 award_received:
-  - "[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Bruce_Lee,6471040]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Bruce_Lee,6471040]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Yue_Chinese,7033959]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~Yue_Chinese,7033959]]"
+  - '[[_Standards/WikiData/WD~Yue_Chinese,7033959]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~Yue_Chinese,7033959]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Robert_Lee,7346798]]"
-  - "[[_Standards/WikiData/WD~Phoebe_Lee,23034464]]"
-  - "[[_Standards/WikiData/WD~Agnes_Lee,23034465]]"
-  - "[[_Standards/WikiData/WD~Peter_Lee_Jung_sum,48645261]]"
-place_of_birth: "[[_Standards/WikiData/WD~San_Francisco_Chinese_Hospital,7413971]]"
-family_name: "[[_Standards/WikiData/WD~Lee,12794688]]"
-founded_by: "[[_Standards/WikiData/WD~Concord_Production_Inc.,18343365]]"
-manner_of_death: "[[_Standards/WikiData/WD~accidental_death,21142718]]"
-mother: "[[_Standards/WikiData/WD~Grace_Ho,23034463]]"
-relative: "[[_Standards/WikiData/WD~Barry_Pang,98433994]]"
+  - '[[_Standards/WikiData/WD~Robert_Lee,7346798]]'
+  - '[[_Standards/WikiData/WD~Phoebe_Lee,23034464]]'
+  - '[[_Standards/WikiData/WD~Agnes_Lee,23034465]]'
+  - '[[_Standards/WikiData/WD~Peter_Lee_Jung_sum,48645261]]'
+place_of_birth: '[[_Standards/WikiData/WD~San_Francisco_Chinese_Hospital,7413971]]'
+family_name: '[[_Standards/WikiData/WD~Lee,12794688]]'
+founded_by: '[[_Standards/WikiData/WD~Concord_Production_Inc.,18343365]]'
+manner_of_death: '[[_Standards/WikiData/WD~accidental_death,21142718]]'
+mother: '[[_Standards/WikiData/WD~Grace_Ho,23034463]]'
+relative: '[[_Standards/WikiData/WD~Barry_Pang,98433994]]'
 residence:
-  - "[[_Standards/WikiData/WD~Seattle,5083]]"
-  - "[[_Standards/WikiData/WD~Hong_Kong,8646]]"
-  - "[[_Standards/WikiData/WD~San_Francisco,62]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
-sport: "[[_Standards/WikiData/WD~martial_art,11417]]"
-place_of_death: "[[_Standards/WikiData/WD~Kowloon_Tong,15278]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_for_sport: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Seattle,5083]]'
+  - '[[_Standards/WikiData/WD~Hong_Kong,8646]]'
+  - '[[_Standards/WikiData/WD~San_Francisco,62]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
+sport: '[[_Standards/WikiData/WD~martial_art,11417]]'
+place_of_death: '[[_Standards/WikiData/WD~Kowloon_Tong,15278]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_for_sport: '[[_Standards/WikiData/WD~United_States,30]]'
 height: 1.72
 Commons_category: Bruce Lee
 Commons_gallery: Bruce Lee
@@ -101,9 +102,9 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20B
 ISNI:
   - 000000010900214X
   - 000000036855300X
-NLC_authorities: "001169710"
+NLC_authorities: 001169710
 Libris_URI: 42gjm2xn4txz0xh
-P8189: "987007271071105171"
+P8189: 987007271071105171
 CYT_CCS: AC000578326
 Europeana_entity: agent/base/60346
 Google_Doodle: bruce-lees-70th-birthday

@@ -1,31 +1,32 @@
 ---
 aliases:
   - folk narrative,
+  - Folklore
 has_id_wikidata: Q36192
-subclass_of: "[[_Standards/WikiData/WD~tradition,82821]]"
-studied_by: "[[_Standards/WikiData/WD~folkloristics,132116]]"
-instance_of: "[[_Standards/WikiData/WD~genre,483394]]"
+subclass_of: '[[_Standards/WikiData/WD~tradition,82821]]'
+studied_by: '[[_Standards/WikiData/WD~folkloristics,132116]]'
+instance_of: '[[_Standards/WikiData/WD~genre,483394]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 part_of:
-  - "[[_Standards/WikiData/WD~folk_culture,3742928]]"
-  - "[[_Standards/WikiData/WD~history,309]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Folklore,14615795]]"
+  - '[[_Standards/WikiData/WD~folk_culture,3742928]]'
+  - '[[_Standards/WikiData/WD~history,309]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Folklore,14615795]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~material_folklore,109810467]]"
-  - "[[_Standards/WikiData/WD~verbal_folklore,109810464]]"
-  - "[[_Standards/WikiData/WD~customary_folklore,109810475]]"
-  - "[[_Standards/WikiData/WD~legend,44342]]"
-OmegaWiki_Defined_Meaning: "4376"
+  - '[[_Standards/WikiData/WD~material_folklore,109810467]]'
+  - '[[_Standards/WikiData/WD~verbal_folklore,109810464]]'
+  - '[[_Standards/WikiData/WD~customary_folklore,109810475]]'
+  - '[[_Standards/WikiData/WD~legend,44342]]'
+OmegaWiki_Defined_Meaning: 4376
 Dewey_Decimal_Classification:
-  - "390"
-  - "398"
+  - 390
+  - 398
 Commons_category: Folklore
 Library_of_Congress_Classification: GR1-GR950
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Krojovany%20pruvod%20Mala%20Rusava.jpg

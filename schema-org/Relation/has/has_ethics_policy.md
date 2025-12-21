@@ -3,23 +3,24 @@ aliases:
   - has ethics-policy
   - ethicsPolicy
   - has_ethics_policy
+  - has ethics policy
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - ethics_policy
   - ethics
   - policy
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_ethics_policy
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

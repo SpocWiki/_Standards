@@ -304,7 +304,7 @@ Commons_category: Niger
 subreddit: Niger
 Commons_gallery: Niger
 hashtag: Niger
-inception: "1960"
+inception: 1960
 has_time_started: 1960-06
 female_population:
   - 11553632
@@ -337,12 +337,12 @@ cssclasses:
   - Country
 publish: true
 title: Niger
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 Languages:
   - fr-NE
   - ha

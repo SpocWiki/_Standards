@@ -1,28 +1,29 @@
 ---
 aliases:
-- teaches
-- is_teaching
-- "schema:teaches"
-- "dbo:teaches"
-- "wdt:P800"
+  - teaches
+  - is_teaching
+  - schema:teaches
+  - dbo:teaches
+  - wdt:P800
+  - is teaching
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- teaches
-layout: 
-license: "CC BY-SA 4.0"
+  - teaches
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_teaches
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_teaches
 type: Predi_Relation
 ---

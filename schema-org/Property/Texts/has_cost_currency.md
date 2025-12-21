@@ -4,22 +4,24 @@ aliases:
   - cost_currency
   - costCurrency
   - has_text_of_cost_currency
+  - has_cost_currency
+  - has cost currency
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - cost
   - currency
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_cost_currency
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

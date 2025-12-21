@@ -4,19 +4,19 @@ aliases:
   - Konföderation
 has_id_wikidata: Q170156
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Confederate_States_of_America,81931]]"
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~Switzerland,39]]"
+  - '[[_Standards/WikiData/WD~Confederate_States_of_America,81931]]'
+  - '[[_Standards/WikiData/WD~European_Union,458]]'
+  - '[[_Standards/WikiData/WD~Switzerland,39]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~international_organization,484652]]"
-  - "[[_Standards/WikiData/WD~federal_system,22676603]]"
+  - '[[_Standards/WikiData/WD~international_organization,484652]]'
+  - '[[_Standards/WikiData/WD~federal_system,22676603]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-instance_of: "[[_Standards/WikiData/WD~form_of_government,1307214]]"
-part_of: "[[_Standards/WikiData/WD~international_law,4394526]]"
-different_from: "[[_Standards/WikiData/WD~federation,43702]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214]]'
+part_of: '[[_Standards/WikiData/WD~international_law,4394526]]'
+different_from: '[[_Standards/WikiData/WD~federation,43702]]'
 Commons_category: Confederations
 ---
 

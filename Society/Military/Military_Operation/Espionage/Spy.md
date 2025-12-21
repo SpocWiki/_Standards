@@ -1,7 +1,8 @@
 ---
-has_id_wikidata: Q9352089
 aliases:
   - Secret Agent
+  - Spy
+has_id_wikidata: Q9352089
 field_of_this_occupation: "[[_Standards/WikiData/WD~espionage,165950]]"
 different_from:
   - "[[_Standards/WikiData/WD~Spy,365660]]"
@@ -41,10 +42,10 @@ female_form_of_label:
   - שפּיאָנקע
   - vohunka
 Unicode_character: 🕵️
-P8189: "987007565835205171"
+P8189: 987007565835205100
 ---
 
-# [[Spy]] 
+# [[Spy]] 🕵️ 
 
 A **[secret agent](https://en.wikipedia.org/wiki/Secret_agent "Secret agent")** is a covert agent engaged in espionage. 
 

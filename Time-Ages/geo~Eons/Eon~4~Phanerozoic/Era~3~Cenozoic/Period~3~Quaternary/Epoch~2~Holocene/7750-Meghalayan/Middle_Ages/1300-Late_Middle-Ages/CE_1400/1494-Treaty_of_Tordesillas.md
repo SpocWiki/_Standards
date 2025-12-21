@@ -2,31 +2,33 @@
 aliases:
   - Treaty of Tordesillas
   - Vertrag von Tordesillas
+  - 1494-Treaty_of_Tordesillas
+  - 1494-Treaty of Tordesillas
 has_id_wikidata: Q180897
 country:
-  - "[[_Standards/WikiData/WD~Spanish_Empire,80702]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670]]"
-reviewed_by: "[[_Standards/WikiData/WD~Alexander_VI,108316]]"
-instance_of: "[[_Standards/WikiData/WD~treaty,131569]]"
+  - '[[_Standards/WikiData/WD~Spanish_Empire,80702]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670]]'
+reviewed_by: '[[_Standards/WikiData/WD~Alexander_VI,108316]]'
+instance_of: '[[_Standards/WikiData/WD~treaty,131569]]'
 signatory:
-  - "[[_Standards/WikiData/WD~John_II_of_Portugal,217637]]"
-  - "[[_Standards/WikiData/WD~Ferdinand_II_of_Aragon,12860]]"
-  - "[[_Standards/WikiData/WD~Isabella_I_of_Castile,45859]]"
+  - '[[_Standards/WikiData/WD~John_II_of_Portugal,217637]]'
+  - '[[_Standards/WikiData/WD~Ferdinand_II_of_Aragon,12860]]'
+  - '[[_Standards/WikiData/WD~Isabella_I_of_Castile,45859]]'
 location:
-  - "[[_Standards/WikiData/WD~Tordesillas,286004]]"
-  - "[[_Standards/WikiData/WD~General_Archive_of_the_Indies,477051]]"
-  - "[[_Standards/WikiData/WD~Torre_do_Tombo_National_Archive,1769248]]"
+  - '[[_Standards/WikiData/WD~Tordesillas,286004]]'
+  - '[[_Standards/WikiData/WD~General_Archive_of_the_Indies,477051]]'
+  - '[[_Standards/WikiData/WD~Torre_do_Tombo_National_Archive,1769248]]'
 depositary:
-  - "[[_Standards/WikiData/WD~General_Archive_of_the_Indies,477051]]"
-  - "[[_Standards/WikiData/WD~Torre_do_Tombo_National_Archive,1769248]]"
-follows: "[[_Standards/WikiData/WD~Inter_caetera,1134342]]"
+  - '[[_Standards/WikiData/WD~General_Archive_of_the_Indies,477051]]'
+  - '[[_Standards/WikiData/WD~Torre_do_Tombo_National_Archive,1769248]]'
+follows: '[[_Standards/WikiData/WD~Inter_caetera,1134342]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~Portuguese_discoveries,1570124]]"
-  - "[[_Standards/WikiData/WD~Q10265487,10265487]]"
-  - "[[_Standards/WikiData/WD~colonialism,7167]]"
-has_part_s_: "[[_Standards/WikiData/WD~Demarcation_line_of_Alexander_VI,3930651]]"
-heritage_designation: "[[_Standards/WikiData/WD~Memory_of_the_World_International_Register,16024238]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
+  - '[[_Standards/WikiData/WD~Portuguese_discoveries,1570124]]'
+  - '[[_Standards/WikiData/WD~Q10265487,10265487]]'
+  - '[[_Standards/WikiData/WD~colonialism,7167]]'
+has_part_s_: '[[_Standards/WikiData/WD~Demarcation_line_of_Alexander_VI,3930651]]'
+heritage_designation: '[[_Standards/WikiData/WD~Memory_of_the_World_International_Register,16024238]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
 collection_or_exhibition_size: 2
 described_at_URL:
   - https://www.unesco.org/en/memory-world/treaty-tordesillas

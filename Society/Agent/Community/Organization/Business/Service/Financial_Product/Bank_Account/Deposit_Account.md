@@ -4,20 +4,22 @@ aliases:
   - deposit_account
   - DepositAccount
   - is_a_deposit_account
+  - Deposit_Account
+  - Deposit Account
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - deposit_account
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_deposit_account Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

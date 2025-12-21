@@ -1,28 +1,30 @@
 ---
+aliases:
+  - Dairy
+has_id_wikidata: Q637776
 Commons_category: Dairies
-described_by_source: "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+described_by_source: '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
 Dewey_Decimal_Classification: 637
 different_from:
-  - "[[_Standards/WikiData/WD~creamery,61140231]]"
-  - "[[_Standards/WikiData/WD~dairying,64698773]]"
+  - '[[_Standards/WikiData/WD~creamery,61140231]]'
+  - '[[_Standards/WikiData/WD~dairying,64698773]]'
 exact_match: http://purl.obolibrary.org/obo/ENVO_00003862
 GeoNames_feature_code: S.DARY
-has_id_wikidata: Q637776
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Dairy.JPG
   - http://commons.wikimedia.org/wiki/Special:FilePath/Dairy%20Managment%2001.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Melkkarussell.jpg
-industry: "[[_Standards/WikiData/WD~dairy_industry,13554450]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+industry: '[[_Standards/WikiData/WD~dairy_industry,13554450]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 product_material_or_service_produced_or_provided:
-  - "[[_Standards/WikiData/WD~dairy_product,185217]]"
-  - "[[_Standards/WikiData/WD~cheese,10943]]"
+  - '[[_Standards/WikiData/WD~dairy_product,185217]]'
+  - '[[_Standards/WikiData/WD~cheese,10943]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-Xabier%20Ca%C3%B1as-Esnetegi.wav
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q13212148,13212148]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q13212148,13212148]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~food_manufacturer,1252971]]"
-  - "[[_Standards/WikiData/WD~business,4830453]]"
-  - "[[../../../../../WikiData/WD~economic_activity,8187769]]"
+  - '[[_Standards/WikiData/WD~food_manufacturer,1252971]]'
+  - '[[_Standards/WikiData/WD~business,4830453]]'
+  - '[[../../../../../WikiData/WD~economic_activity,8187769]]'
 ---
 
 ## #has_/text_of_/abstract 

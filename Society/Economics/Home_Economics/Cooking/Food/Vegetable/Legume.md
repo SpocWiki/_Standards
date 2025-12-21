@@ -1,21 +1,22 @@
 ---
 aliases:
   - Hülsenfrucht
+  - Legume
 has_id_wikidata: Q145909
 subclass_of:
-  - "[[_Standards/WikiData/WD~crop,235352]]"
-  - "[[_Standards/WikiData/WD~shelf_stable_food,7493597]]"
-  - "[[_Standards/WikiData/WD~food,2095]]"
+  - '[[_Standards/WikiData/WD~crop,235352]]'
+  - '[[_Standards/WikiData/WD~shelf_stable_food,7493597]]'
+  - '[[_Standards/WikiData/WD~food,2095]]'
 different_from:
-  - "[[_Standards/WikiData/WD~bean,379813]]"
-  - "[[_Standards/WikiData/WD~legume,12034432]]"
+  - '[[_Standards/WikiData/WD~bean,379813]]'
+  - '[[_Standards/WikiData/WD~legume,12034432]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~cereal_legume,2727662]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~cereal_legume,2727662]]'
 water_footprint:
   - 1.19
   - 4055

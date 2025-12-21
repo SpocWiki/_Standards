@@ -3,64 +3,66 @@ aliases:
   - National Socialist German Workers' Party
   - Nationalsozialistische Deutsche Arbeiterpartei 
   - NSDAP
+  - Nazi_Party
+  - Nazi Party
 has_id_wikidata: Q7320
-ISNI: "0000000121936797"
+ISNI: 0000000121936797
 Iconclass_notation: 61H(NSDAP)
 subject_named_as: Nationalsozialistische Deutsche Arbeiterpartei
 Commons_gallery: Nationalsozialistische Deutsche Arbeiterpartei
 short_name: NSDAP
 inception: 1920-02-24T00:00:00Z
 chairperson:
-  - "[[_Standards/WikiData/WD~Martin_Bormann,76367]]"
-  - "[[_Standards/WikiData/WD~Anton_Drexler,76989]]"
-  - "[[_Standards/WikiData/WD~Karl_Harrer,77369]]"
-  - "[[_Standards/WikiData/WD~Adolf_Hitler,352]]"
+  - '[[_Standards/WikiData/WD~Martin_Bormann,76367]]'
+  - '[[_Standards/WikiData/WD~Anton_Drexler,76989]]'
+  - '[[_Standards/WikiData/WD~Karl_Harrer,77369]]'
+  - '[[_Standards/WikiData/WD~Adolf_Hitler,352]]'
 founded_by:
-  - "[[_Standards/WikiData/WD~Anton_Drexler,76989]]"
-  - "[[_Standards/WikiData/WD~Karl_Harrer,77369]]"
+  - '[[_Standards/WikiData/WD~Anton_Drexler,76989]]'
+  - '[[_Standards/WikiData/WD~Karl_Harrer,77369]]'
 affiliation:
-  - "[[_Standards/WikiData/WD~Sturmabteilung,150793]]"
-  - "[[_Standards/WikiData/WD~National_Socialist_Motor_Corps,301856]]"
+  - '[[_Standards/WikiData/WD~Sturmabteilung,150793]]'
+  - '[[_Standards/WikiData/WD~National_Socialist_Motor_Corps,301856]]'
   - "[[_Standards/WikiData/WD~National_Socialist_German_Students'_League,650112]]"
-  - "[[_Standards/WikiData/WD~National_Socialist_Flyers_Corps,704721]]"
-  - "[[_Standards/WikiData/WD~Schutzstaffel,44687]]"
+  - '[[_Standards/WikiData/WD~National_Socialist_Flyers_Corps,704721]]'
+  - '[[_Standards/WikiData/WD~Schutzstaffel,44687]]'
 followed_by:
-  - "[[_Standards/WikiData/WD~neo_Nazism,151250]]"
-  - "[[_Standards/WikiData/WD~Socialist_Reich_Party,708012]]"
-  - "[[_Standards/WikiData/WD~Black_Front,3078734]]"
-house_publication: "[[_Standards/WikiData/WD~Völkischer_Beobachter,152564]]"
+  - '[[_Standards/WikiData/WD~neo_Nazism,151250]]'
+  - '[[_Standards/WikiData/WD~Socialist_Reich_Party,708012]]'
+  - '[[_Standards/WikiData/WD~Black_Front,3078734]]'
+house_publication: '[[_Standards/WikiData/WD~Völkischer_Beobachter,152564]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Völkischer_Beobachter,152564]]"
-  - "[[_Standards/WikiData/WD~Der_Angriff,702228]]"
-  - "[[_Standards/WikiData/WD~Braunes_Haus,819575]]"
-  - "[[_Standards/WikiData/WD~Kaufhaus_Jonaß,1504641]]"
-  - "[[_Standards/WikiData/WD~The_Quai_Malaquais_and_the_Institute,1810348]]"
-location_of_formation: "[[_Standards/WikiData/WD~Hofbräuhaus_am_Platzl,152971]]"
+  - '[[_Standards/WikiData/WD~Völkischer_Beobachter,152564]]'
+  - '[[_Standards/WikiData/WD~Der_Angriff,702228]]'
+  - '[[_Standards/WikiData/WD~Braunes_Haus,819575]]'
+  - '[[_Standards/WikiData/WD~Kaufhaus_Jonaß,1504641]]'
+  - '[[_Standards/WikiData/WD~The_Quai_Malaquais_and_the_Institute,1810348]]'
+location_of_formation: '[[_Standards/WikiData/WD~Hofbräuhaus_am_Platzl,152971]]'
 follows:
   - "[[_Standards/WikiData/WD~German_National_People's_Party,158227]]"
   - "[[_Standards/WikiData/WD~German_Workers'_Party,631205]]"
-  - "[[_Standards/WikiData/WD~Sudeten_German_Party,678584]]"
-political_alignment: "[[_Standards/WikiData/WD~right_wing_extremism,204481]]"
-replaces: "[[_Standards/WikiData/WD~German_Socialist_Party,289166]]"
+  - '[[_Standards/WikiData/WD~Sudeten_German_Party,678584]]'
+political_alignment: '[[_Standards/WikiData/WD~right_wing_extremism,204481]]'
+replaces: '[[_Standards/WikiData/WD~German_Socialist_Party,289166]]'
 headquarters_location:
-  - "[[_Standards/WikiData/WD~Braunes_Haus,819575]]"
-  - "[[_Standards/WikiData/WD~Sterneckerbräu,2345797]]"
-  - "[[_Standards/WikiData/WD~Munich,1726]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Dutch_Resistance_Museum,828307]]"
+  - '[[_Standards/WikiData/WD~Braunes_Haus,819575]]'
+  - '[[_Standards/WikiData/WD~Sterneckerbräu,2345797]]'
+  - '[[_Standards/WikiData/WD~Munich,1726]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Dutch_Resistance_Museum,828307]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~political_party_in_Germany,2023214]]"
-  - "[[_Standards/WikiData/WD~Führerpartei,15811108]]"
-  - "[[_Standards/WikiData/WD~former_political_party,40482169]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_NSDAP,47778188]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q64373944,64373944]]"
-part_of: "[[_Standards/WikiData/WD~national_socialist_movement,112136202]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikiproject_Oorlogsbronnen,118404701]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+  - '[[_Standards/WikiData/WD~political_party_in_Germany,2023214]]'
+  - '[[_Standards/WikiData/WD~Führerpartei,15811108]]'
+  - '[[_Standards/WikiData/WD~former_political_party,40482169]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_NSDAP,47778188]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q64373944,64373944]]'
+part_of: '[[_Standards/WikiData/WD~national_socialist_movement,112136202]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikiproject_Oorlogsbronnen,118404701]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 Wikidata_property: NSDAP membership number (1925–1945)
-legal_form: "[[_Standards/WikiData/WD~political_party,7278]]"
+legal_form: '[[_Standards/WikiData/WD~political_party,7278]]'
 country:
-  - "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
-  - "[[_Standards/WikiData/WD~Weimar_Republic,41304]]"
+  - '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+  - '[[_Standards/WikiData/WD~Weimar_Republic,41304]]'
 member_count:
   - 1000000
   - 3000
@@ -88,7 +90,7 @@ member_count:
   - 8466512
   - 8787968
   - 8791126
-youth_wing: "[[_Standards/WikiData/WD~Hitler_Youth,38791]]"
+youth_wing: '[[_Standards/WikiData/WD~Hitler_Youth,38791]]'
 BHCL_UUID: 3d090558-5c29-4fd2-a567-24c26c0f932c
 Commons_Institution_page: NSDAP
 sRGB_color_hex_triplet: 8B4513

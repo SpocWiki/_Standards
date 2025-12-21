@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~WinAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~AchieveAction
 fields:
-- id: CYxrSp
-  name: Loser
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
+  - id: CYxrSp
+    name: Loser
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/WinAction
-- class/Thing/Action/AchieveAction/WinAction
-- is_a_/WinAction
-- schema-org/WinAction
+  - class/WinAction
+  - class/Thing/Action/AchieveAction/WinAction
+  - is_a_/WinAction
+  - schema-org/WinAction
 tags:
-- class/FileClass
-- class/WinAction
-- is_a_/WinAction
-- class/Thing/Action/AchieveAction/WinAction
+  - class/FileClass
+  - class/WinAction
+  - is_a_/WinAction
+  - class/Thing/Action/AchieveAction/WinAction
 version: 2.0
 ---
 

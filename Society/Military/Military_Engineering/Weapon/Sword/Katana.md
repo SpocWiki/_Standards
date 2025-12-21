@@ -2,15 +2,16 @@
 aliases:
   - 刀
   - かたな
+  - Katana
 has_id_wikidata: Q172736
-described_by_source: "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-part_of: "[[_Standards/WikiData/WD~daishō,944685]]"
+described_by_source: '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+part_of: '[[_Standards/WikiData/WD~daishō,944685]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Japanese_sword,1768697]]"
-  - "[[_Standards/WikiData/WD~sword,12791]]"
-different_from: "[[_Standards/WikiData/WD~Katana,13040688]]"
-instance_of: "[[_Standards/WikiData/WD~weapon_family,15142889]]"
-country_of_origin: "[[_Standards/WikiData/WD~Japan,17]]"
+  - '[[_Standards/WikiData/WD~Japanese_sword,1768697]]'
+  - '[[_Standards/WikiData/WD~sword,12791]]'
+different_from: '[[_Standards/WikiData/WD~Katana,13040688]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_family,15142889]]'
+country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
 Commons_gallery: Katana
 Commons_category: Katana
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Katana%2C%20sword%20%28AM%201934.316-14%29%20%28II%29.jpg

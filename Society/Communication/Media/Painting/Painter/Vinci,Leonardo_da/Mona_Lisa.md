@@ -1,6 +1,7 @@
 ---
 aliases:
   - Mona Lisa
+  - Mona_Lisa
 has_id_wikidata: Q12418
 inventory_number:
   - INV 779
@@ -18,44 +19,44 @@ title:
   - Mona Lisa
 inception: 1503-01-01T00:00:00Z
 depicts:
-  - "[[_Standards/WikiData/WD~landscape,107425]]"
-  - "[[_Standards/WikiData/WD~Lisa_del_Giocondo,153032]]"
-  - "[[_Standards/WikiData/WD~armrest,2822867]]"
-  - "[[_Standards/WikiData/WD~figure,29527347]]"
-  - "[[_Standards/WikiData/WD~sky,527]]"
-  - "[[_Standards/WikiData/WD~mountain,8502]]"
-  - "[[_Standards/WikiData/WD~bridge,12280]]"
-  - "[[_Standards/WikiData/WD~body_of_water,15324]]"
-genre: "[[_Standards/WikiData/WD~portrait,134307]]"
-country_of_origin: "[[_Standards/WikiData/WD~Republic_of_Florence,148540]]"
-main_subject: "[[_Standards/WikiData/WD~Lisa_del_Giocondo,153032]]"
-named_after: "[[_Standards/WikiData/WD~Lisa_del_Giocondo,153032]]"
+  - '[[_Standards/WikiData/WD~landscape,107425]]'
+  - '[[_Standards/WikiData/WD~Lisa_del_Giocondo,153032]]'
+  - '[[_Standards/WikiData/WD~armrest,2822867]]'
+  - '[[_Standards/WikiData/WD~figure,29527347]]'
+  - '[[_Standards/WikiData/WD~sky,527]]'
+  - '[[_Standards/WikiData/WD~mountain,8502]]'
+  - '[[_Standards/WikiData/WD~bridge,12280]]'
+  - '[[_Standards/WikiData/WD~body_of_water,15324]]'
+genre: '[[_Standards/WikiData/WD~portrait,134307]]'
+country_of_origin: '[[_Standards/WikiData/WD~Republic_of_Florence,148540]]'
+main_subject: '[[_Standards/WikiData/WD~Lisa_del_Giocondo,153032]]'
+named_after: '[[_Standards/WikiData/WD~Lisa_del_Giocondo,153032]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~oil_paint,296955]]"
-  - "[[_Standards/WikiData/WD~poplar_panel,106857865]]"
-commissioned_by: "[[_Standards/WikiData/WD~Francesco_del_Giocondo,1395822]]"
+  - '[[_Standards/WikiData/WD~oil_paint,296955]]'
+  - '[[_Standards/WikiData/WD~poplar_panel,106857865]]'
+commissioned_by: '[[_Standards/WikiData/WD~Francesco_del_Giocondo,1395822]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~theft,2727213]]"
-  - "[[_Standards/WikiData/WD~acquisition,22340494]]"
-  - "[[_Standards/WikiData/WD~vandalism,6160]]"
-subject_has_role: "[[_Standards/WikiData/WD~scientific_controversy,2996078]]"
-collection: "[[_Standards/WikiData/WD~Department_of_Paintings_of_the_Louvre,3044768]]"
-instance_of: "[[_Standards/WikiData/WD~painting,3305213]]"
-owned_by: "[[_Standards/WikiData/WD~French_State,3591845]]"
-locations: "[[_Standards/WikiData/WD~Salle_des_États,_Louvre,10292830]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Mona_Lisa,22717063]]"
-described_by_source: "[[_Standards/WikiData/WD~1001_Paintings_You_Must_See_Before_You_Die,66362718]]"
-different_from: "[[_Standards/WikiData/WD~Monalisa,88154291]]"
-creator: "[[_Standards/WikiData/WD~Leonardo_da_Vinci,762]]"
-location_of_creation: "[[_Standards/WikiData/WD~Florence,2044]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Paris,90]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
+  - '[[_Standards/WikiData/WD~theft,2727213]]'
+  - '[[_Standards/WikiData/WD~acquisition,22340494]]'
+  - '[[_Standards/WikiData/WD~vandalism,6160]]'
+subject_has_role: '[[_Standards/WikiData/WD~scientific_controversy,2996078]]'
+collection: '[[_Standards/WikiData/WD~Department_of_Paintings_of_the_Louvre,3044768]]'
+instance_of: '[[_Standards/WikiData/WD~painting,3305213]]'
+owned_by: '[[_Standards/WikiData/WD~French_State,3591845]]'
+locations: '[[_Standards/WikiData/WD~Salle_des_États,_Louvre,10292830]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Mona_Lisa,22717063]]'
+described_by_source: '[[_Standards/WikiData/WD~1001_Paintings_You_Must_See_Before_You_Die,66362718]]'
+different_from: '[[_Standards/WikiData/WD~Monalisa,88154291]]'
+creator: '[[_Standards/WikiData/WD~Leonardo_da_Vinci,762]]'
+location_of_creation: '[[_Standards/WikiData/WD~Florence,2044]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Paris,90]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
 width: 53.4
 catalog_code:
-  - "22"
-  - "7"
+  - 22
+  - 7
   - XXV
 height: 79.4
 described_at_URL:
@@ -70,8 +71,8 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-La%20Gi
 image_with_frame: http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20vinci%2C%20la%20gioconda%2C%201503-06%20circa.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mona%20Lisa%2C%20by%20Leonardo%20da%20Vinci%2C%20from%20C2RMF%20natural%20color.jpg
 Bildindex_der_Kunst_und_Architektur_PID:
-  - "0000375952"
-  - "0001131259"
+  - 0000375952
+  - 0001131259
 depicts_Iconclass_notation: 61BB2(Lisa del Giocondo)11
 ---
 

@@ -2,6 +2,7 @@
 aliases:
   - Gaspard_Monge
   - Gaspard Monge, Comte de Péluse
+  - Monge,Gaspard
 has_id_wikidata: Q206832
 ---
 

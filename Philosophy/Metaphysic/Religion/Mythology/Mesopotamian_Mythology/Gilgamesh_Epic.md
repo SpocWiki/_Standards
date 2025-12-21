@@ -1,24 +1,25 @@
 ---
 aliases:
-- "Epic of Gilgamesh"
-- "Gilgamesh Epic"
+  - Epic of Gilgamesh
+  - Gilgamesh Epic
+  - Gilgamesh_Epic
+has_id_wikidata: Q8272
 characters: '[[_Standards/WikiData/WD~Gilgamesh,159709]]'
-Commons_category: "Epic of Gilgamesh"
+Commons_category: Epic of Gilgamesh
 described_at_URL:
-- "https://www.nytimes.com/2024/08/12/books/booksupdate/ai-ancient-tablets-gilgamesh.html"
-- "https://www.ebl.lmu.de/corpus/L/1/4"
+  - https://www.nytimes.com/2024/08/12/books/booksupdate/ai-ancient-tablets-gilgamesh.html
+  - https://www.ebl.lmu.de/corpus/L/1/4
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from: '[[_Standards/WikiData/WD~epic_poem,37484]]'
 genre: '[[_Standards/WikiData/WD~epic_poem,37484]]'
 has_edition_or_translation:
-- '[[_Standards/WikiData/WD~Q1097741,1097741]]'
-- '[[_Standards/WikiData/WD~Q19148030,19148030]]'
-- '[[_Standards/WikiData/WD~Gilgamesh__A_Klingon_Translation,41487682]]'
-has_id_wikidata: Q8272
+  - '[[_Standards/WikiData/WD~Q1097741,1097741]]'
+  - '[[_Standards/WikiData/WD~Q19148030,19148030]]'
+  - '[[_Standards/WikiData/WD~Gilgamesh__A_Klingon_Translation,41487682]]'
 has_time_started: -2100
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/GilgameshTablet.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/GilgameshTablet.jpg
 inception: -2100
 instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
 language_of_work_or_name: '[[_Standards/WikiData/WD~Akkadian,35518]]'
@@ -27,24 +28,24 @@ Libris_URI: 75knt7zr5s4ngd5
 main_subject: '[[_Standards/WikiData/WD~pursuit_of_immortality,128402347]]'
 named_after: '[[_Standards/WikiData/WD~Gilgamesh,159709]]'
 narrative_motif:
-- '[[_Standards/WikiData/WD~garden_of_the_deities,111806836]]'
-- '[[_Standards/WikiData/WD~deity_in_love_with_human,111807081]]'
-- '[[_Standards/WikiData/WD~sea-goddess,111807259]]'
-- '[[_Standards/WikiData/WD~ferryman_on_river_in_lower_world,111808060]]'
-- '[[_Standards/WikiData/WD~mountain_where_sun_goes_through,111808257]]'
-- '[[_Standards/WikiData/WD~flood_caused_by_deities_or_other_superior_beings,111809403]]'
-- '[[_Standards/WikiData/WD~giant_lion_overcome_by_hero,115095428]]'
-- '[[_Standards/WikiData/WD~monster_ox_(bull)_killed,115101700]]'
-- '[[_Standards/WikiData/WD~tabus_connected_with_other-world_journeys,115758778]]'
-- '[[_Standards/WikiData/WD~magic_bread,115833876]]'
-- '[[_Standards/WikiData/WD~rejuvenation_by_plant,115834671]]'
-- '[[_Standards/WikiData/WD~entrance_to_lower_world_through_mountain,117200011]]'
-- '[[_Standards/WikiData/WD~cart_of_lapis_lazuli_and_gold_with_golden_wheels,117203716]]'
-- '[[_Standards/WikiData/WD~giants_with_shaggy_hair_on_their_bodies,117211043]]'
-- '[[_Standards/WikiData/WD~quest_for_immortality,118773074]]'
-- '[[_Standards/WikiData/WD~bestiality,125459578]]'
-- '[[_Standards/WikiData/WD~woman_avenges_scorned_love,125460197]]'
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3%D5%AB%D5%AC%D5%A3%D5%A1%D5%B4%D5%A5%D5%B7%20%28%D5%A7%D5%BA%D5%B8%D5%BD%29%20-%20Epic%20of%20Gilgamesh.ogg"
+  - '[[_Standards/WikiData/WD~garden_of_the_deities,111806836]]'
+  - '[[_Standards/WikiData/WD~deity_in_love_with_human,111807081]]'
+  - '[[_Standards/WikiData/WD~sea-goddess,111807259]]'
+  - '[[_Standards/WikiData/WD~ferryman_on_river_in_lower_world,111808060]]'
+  - '[[_Standards/WikiData/WD~mountain_where_sun_goes_through,111808257]]'
+  - '[[_Standards/WikiData/WD~flood_caused_by_deities_or_other_superior_beings,111809403]]'
+  - '[[_Standards/WikiData/WD~giant_lion_overcome_by_hero,115095428]]'
+  - '[[_Standards/WikiData/WD~monster_ox_(bull)_killed,115101700]]'
+  - '[[_Standards/WikiData/WD~tabus_connected_with_other-world_journeys,115758778]]'
+  - '[[_Standards/WikiData/WD~magic_bread,115833876]]'
+  - '[[_Standards/WikiData/WD~rejuvenation_by_plant,115834671]]'
+  - '[[_Standards/WikiData/WD~entrance_to_lower_world_through_mountain,117200011]]'
+  - '[[_Standards/WikiData/WD~cart_of_lapis_lazuli_and_gold_with_golden_wheels,117203716]]'
+  - '[[_Standards/WikiData/WD~giants_with_shaggy_hair_on_their_bodies,117211043]]'
+  - '[[_Standards/WikiData/WD~quest_for_immortality,118773074]]'
+  - '[[_Standards/WikiData/WD~bestiality,125459578]]'
+  - '[[_Standards/WikiData/WD~woman_avenges_scorned_love,125460197]]'
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3%D5%AB%D5%AC%D5%A3%D5%A1%D5%B4%D5%A5%D5%B7%20%28%D5%A7%D5%BA%D5%B8%D5%BD%29%20-%20Epic%20of%20Gilgamesh.ogg
 ---
 
 # [[Gilgamesh_Epic]] 

@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Jamaica Accords"
+  - Jamaica Accords
+  - Jamaica_Accords
 ---
 
 #has_/time_/started :: 1976-01-07 

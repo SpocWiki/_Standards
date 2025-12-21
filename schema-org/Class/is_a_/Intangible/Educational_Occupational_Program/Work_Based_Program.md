@@ -4,20 +4,22 @@ aliases:
   - work_based_program
   - WorkBasedProgram
   - is_a_work_based_program
+  - Work_Based_Program
+  - Work Based Program
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - work_based_program
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_work_based_program Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

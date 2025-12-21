@@ -1,25 +1,26 @@
 ---
 aliases:
   - Mahlzeit
+  - Meal
 has_id_wikidata: Q6460735
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~eating,213449]]"
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~eating,213449]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_object,223557]]"
-  - "[[_Standards/WikiData/WD~theme,118826633]]"
+  - '[[_Standards/WikiData/WD~physical_object,223557]]'
+  - '[[_Standards/WikiData/WD~theme,118826633]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~cuisine,1778821]]"
-  - "[[_Standards/WikiData/WD~livelihood,6658164]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Meals_navbox,20373701]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_meals,28453679]]"
-different_from: "[[_Standards/WikiData/WD~Q30127095,30127095]]"
-Dewey_Decimal_Classification: "642"
-OmegaWiki_Defined_Meaning: "6332"
+  - '[[_Standards/WikiData/WD~cuisine,1778821]]'
+  - '[[_Standards/WikiData/WD~livelihood,6658164]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Meals_navbox,20373701]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_meals,28453679]]'
+different_from: '[[_Standards/WikiData/WD~Q30127095,30127095]]'
+Dewey_Decimal_Classification: 642
+OmegaWiki_Defined_Meaning: 6332
 Commons_category: Meals
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Mahlzeit.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Family%20eating%20clip%20art.svg
 exact_match: http://purl.org/acco/ns#Meal
-Amazon_com_browse_node: "14804133011"
+Amazon_com_browse_node: 14804133011
 MeSH_tree_code:
   - G07.203.300.590
   - J02.500.590

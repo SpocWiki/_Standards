@@ -4,20 +4,22 @@ aliases:
   - drink_action
   - DrinkAction
   - is_a_drink_action
+  - Drink_Action
+  - Drink Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - drink_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_drink_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -2,23 +2,24 @@
 aliases:
   - Gottheit
   - Gottheiten
+  - Deity
 has_id_wikidata: Q178885
 different_from:
-  - "[[_Standards/WikiData/WD~God,386933]]"
-  - "[[_Standards/WikiData/WD~Božstvo,13397408]]"
-  - "[[_Standards/WikiData/WD~Gud,131786385]]"
-has_list: "[[_Standards/WikiData/WD~list_of_deities,614503]]"
-has_characteristic: "[[_Standards/WikiData/WD~divinity,1379405]]"
+  - '[[_Standards/WikiData/WD~God,386933]]'
+  - '[[_Standards/WikiData/WD~Božstvo,13397408]]'
+  - '[[_Standards/WikiData/WD~Gud,131786385]]'
+has_list: '[[_Standards/WikiData/WD~list_of_deities,614503]]'
+has_characteristic: '[[_Standards/WikiData/WD~divinity,1379405]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~mythical_character,4271324]]"
-  - "[[_Standards/WikiData/WD~supernatural_being,28855038]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_deity,10809670]]"
+  - '[[_Standards/WikiData/WD~mythical_character,4271324]]'
+  - '[[_Standards/WikiData/WD~supernatural_being,28855038]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_deity,10809670]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Ilah,17398299]]"
-  - "[[_Standards/WikiData/WD~God,190]]"
-facet_of: "[[_Standards/WikiData/WD~supernatural_realm,105890973]]"
-described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~deity,135750256]]"
+  - '[[_Standards/WikiData/WD~Ilah,17398299]]'
+  - '[[_Standards/WikiData/WD~God,190]]'
+facet_of: '[[_Standards/WikiData/WD~supernatural_realm,105890973]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~deity,135750256]]'
 properties_for_this_type:
   - said to be the same as
   - residence
@@ -30,7 +31,7 @@ Wikidata_property: domain of saint or deity
 IMDb_keyword:
   - god
   - deity
-OmegaWiki_Defined_Meaning: "871639"
+OmegaWiki_Defined_Meaning: 871639
 male_form_of_label:
   - бог
   - dievas
@@ -42,11 +43,11 @@ name_in_kana: かみ
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Maler%20der%20Grabkammer%20der%20Nefertari%20001.jpg
 equivalent_class: http://dbpedia.org/ontology/Deity
 Dewey_Decimal_Classification:
-  - "202.11"
-  - "292.211"
-  - "294.34211"
-  - "294.5211"
-  - "299.161211"
+  - 202.11
+  - 292.211
+  - 294.34211
+  - 294.5211
+  - 299.161211
 Commons_category: Deities
 Wolfram_Language_entity_code: Entity["Concept", "Deity::2522b"]
 ---

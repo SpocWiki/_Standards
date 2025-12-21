@@ -1,7 +1,4 @@
 ---
-age_of_candidacy: 21
-age_of_consent: 14
-age_of_majority: 18
 aliases:
   - Israel
   - Israël
@@ -10,6 +7,10 @@ aliases:
   - Израиль
   - the State of Israel
   - el Estado de Israel
+has_id_wikidata: Q801
+age_of_candidacy: 21
+age_of_consent: 14
+age_of_majority: 18
 anthem: "[[_Standards/WikiData/WD~Hatikvah,130865]]"
 archives_at: "[[_Standards/WikiData/WD~Israel_State_Archives,2637340]]"
 area: 20770
@@ -227,7 +228,7 @@ emergency_phone_number:
   - "[[_Standards/WikiData/WD~100,25648793]]"
   - "[[_Standards/WikiData/WD~102,25648798]]"
 executive_body: "[[_Standards/WikiData/WD~cabinet_of_Israel,2578249]]"
-expiryDate:
+expiryDate: ""
 external_data_available_at_URL:
   - http://www.cbs.gov.il/
   - https://www.cia.gov/library/publications/the-world-factbook/geos/is.html
@@ -258,7 +259,6 @@ has_cabinet: "[[_Standards/WikiData/WD~cabinet_of_Israel,2578249]]"
 has_characteristic:
   - "[[_Standards/WikiData/WD~Jewish_and_democratic_state,2614401]]"
   - "[[_Standards/WikiData/WD~free_country,3174312]]"
-has_id_wikidata: Q801
 has_time_started: 1948-05-14
 head_of_government: "[[_Standards/WikiData/WD~Benjamin_Netanyahu,43723]]"
 head_of_state: "[[_Standards/WikiData/WD~Isaac_Herzog,983258]]"
@@ -294,7 +294,7 @@ ISO_3166_1_alpha_3_code: ISR
 ISO_3166_1_numeric_code: 376
 isReadOnly: false
 ITU_letter_code: ISR
-keywords:
+keywords: ""
 Krugosvet_article: strany-mira/izrail-strana
 Languages:
   - he
@@ -325,13 +325,13 @@ language_used:
   - "[[_Standards/WikiData/WD~Judeo-Moroccan,56595]]"
   - "[[_Standards/WikiData/WD~Judeo-Tripolitanian_Arabic,56598]]"
   - "[[_Standards/WikiData/WD~Judeo-Iraqi_Arabic,56599]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~Knesset,133396]]"
 Libris_URI: wt798x9f33sdv3p
 licence_plate_code: IL
 license: CC BY-SA 4.0
 life_expectancy: 82.6
-linkTitle:
+linkTitle: ""
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Fertile_Crescent,170526]]"
 located_in_or_next_to_body_of_water:
   - "[[_Standards/WikiData/WD~Gulf_of_Aqaba,81611]]"
@@ -438,7 +438,7 @@ public_holiday:
   - "[[_Standards/WikiData/WD~Tu_B'Av,1820509]]"
   - "[[_Standards/WikiData/WD~Mimouna,2914551]]"
 publish: true
-publishDate:
+publishDate: ""
 railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750]]"
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Israel%20relief%20location%20map.jpg
 replaces: "[[_Standards/WikiData/WD~Mandatory_Palestine,193714]]"

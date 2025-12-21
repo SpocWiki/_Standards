@@ -1,79 +1,80 @@
 ---
 aliases:
-- "League of Nations"
+  - League of Nations
+  - League_of_Nations
+has_id_wikidata: Q38130
 archives_at: '[[_Standards/WikiData/WD~Q856640,856640]]'
 BHCL_UUID: 44de4930-a932-42b1-9135-7c74a1e22cdd
 chairperson:
-- '[[_Standards/WikiData/WD~Eric_Drummond,_16th_Earl_of_Perth,335120]]'
-- '[[_Standards/WikiData/WD~Q557043,557043]]'
-- '[[_Standards/WikiData/WD~Seán_Lester,1395393]]'
+  - '[[_Standards/WikiData/WD~Eric_Drummond,_16th_Earl_of_Perth,335120]]'
+  - '[[_Standards/WikiData/WD~Q557043,557043]]'
+  - '[[_Standards/WikiData/WD~Seán_Lester,1395393]]'
 child_organization_unit:
-- '[[_Standards/WikiData/WD~Q838946,838946]]'
-- "[[_Standards/WikiData/WD~Women's_Advisory_Council,_League_of_Nations,107938633]]"
-- '[[_Standards/WikiData/WD~Q54129,54129]]'
+  - '[[_Standards/WikiData/WD~Q838946,838946]]'
+  - "[[_Standards/WikiData/WD~Women's_Advisory_Council,_League_of_Nations,107938633]]"
+  - '[[_Standards/WikiData/WD~Q54129,54129]]'
 Colon_Classification: V1N1
-Commons_category: "League of Nations"
-Commons_gallery: "League of Nations"
+Commons_category: League of Nations
+Commons_gallery: League of Nations
 country: '[[_Standards/WikiData/WD~Switzerland,39]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 different_from: '[[_Standards/WikiData/WD~Q7785,7785]]'
 dissolved_abolished_or_demolished_date:
-- "1946-04-20T00:00:00Z"
-- "1946-04-18T00:00:00Z"
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20League%20of%20Nations%20%281939%29.svg"
+  - 1946-04-20T00:00:00Z
+  - 1946-04-18T00:00:00Z
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20League%20of%20Nations%20%281939%29.svg
 general_secretary:
-- '[[_Standards/WikiData/WD~Eric_Drummond,_16th_Earl_of_Perth,335120]]'
-- '[[_Standards/WikiData/WD~Q557043,557043]]'
-- '[[_Standards/WikiData/WD~Seán_Lester,1395393]]'
-has_id_wikidata: Q38130
+  - '[[_Standards/WikiData/WD~Eric_Drummond,_16th_Earl_of_Perth,335120]]'
+  - '[[_Standards/WikiData/WD~Q557043,557043]]'
+  - '[[_Standards/WikiData/WD~Seán_Lester,1395393]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Council_of_the_League_of_Nations,11833355]]'
-- '[[_Standards/WikiData/WD~League_of_Nations_Permanent_Secretariat,20379602]]'
-- '[[_Standards/WikiData/WD~League_of_Nations_Treaty_Series,29528904]]'
-- '[[_Standards/WikiData/WD~League_of_Nations_assembly,123743055]]'
+  - '[[_Standards/WikiData/WD~Council_of_the_League_of_Nations,11833355]]'
+  - '[[_Standards/WikiData/WD~League_of_Nations_Permanent_Secretariat,20379602]]'
+  - '[[_Standards/WikiData/WD~League_of_Nations_Treaty_Series,29528904]]'
+  - '[[_Standards/WikiData/WD~League_of_Nations_assembly,123743055]]'
 headquarters_location:
-- '[[_Standards/WikiData/WD~Q594846,594846]]'
-- '[[_Standards/WikiData/WD~Palais_Wilson,2333715]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/LN%20member%20states%20animation.gif"
-inception: "1919-01-01T00:00:00Z"
+  - '[[_Standards/WikiData/WD~Q594846,594846]]'
+  - '[[_Standards/WikiData/WD~Palais_Wilson,2333715]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/LN%20member%20states%20animation.gif
+inception: 1919-01-01T00:00:00Z
 industry: '[[_Standards/WikiData/WD~activities_of_other_membership_organisations_n.e.c.,29586079]]'
 instance_of:
-- '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
-- '[[_Standards/WikiData/WD~international_organization,484652]]'
+  - '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
+  - '[[_Standards/WikiData/WD~international_organization,484652]]'
 ISNI: 0000000122488367
 Krugosvet_article: gosudarstvo-i-politika/liga-naciy
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/League%20of%20Nations%20Anachronous%20Map.png"
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/League%20of%20Nations%20Anachronous%20Map.png
 official_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~French,150]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
 official_name:
-- "Société des Nations"
-- "League of Nations"
+  - Société des Nations
+  - League of Nations
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~Q6173448,6173448]]'
-- '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]'
+  - '[[_Standards/WikiData/WD~Q6173448,6173448]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]'
 political_ideology: '[[_Standards/WikiData/WD~Q695838,695838]]'
 position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Q56826483,56826483]]'
 replaced_by: '[[_Standards/WikiData/WD~United_Nations,1065]]'
-schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/League%20of%20Nations%20Organization.png"
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/League%20of%20Nations%20Organization.png
 short_name:
-- ОН
-- ΚτΕ
-- SdN
-- Kok-liân
-- 國聯
-- 国联
-- LN
-- 國聯
-- SDN
-- SDN
-- VB
-- SDN
-- SDN
-- SDN
+  - ОН
+  - ΚτΕ
+  - SdN
+  - Kok-liân
+  - 國聯
+  - 国联
+  - LN
+  - 國聯
+  - SDN
+  - SDN
+  - VB
+  - SDN
+  - SDN
+  - SDN
 topic_s_main_category: '[[_Standards/WikiData/WD~Q7158108,7158108]]'
 ---
 

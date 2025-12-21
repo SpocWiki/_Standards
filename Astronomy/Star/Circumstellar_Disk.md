@@ -1,12 +1,14 @@
 ---
 aliases:
   - Circumstellar_disc
+  - Circumstellar_Disk
+  - Circumstellar Disk
 has_id_wikidata: Q3235978
-topic_has_template: "[[_Standards/WikiData/WD~Template_Circumstellar_disk,22706182]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Circumstellar_disk,22706182]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~belt,133838692]]"
-  - "[[_Standards/WikiData/WD~astronomical_object,6999]]"
-OmegaWiki_Defined_Meaning: "1619660"
+  - '[[_Standards/WikiData/WD~belt,133838692]]'
+  - '[[_Standards/WikiData/WD~astronomical_object,6999]]'
+OmegaWiki_Defined_Meaning: 1619660
 Commons_category: Circumstellar disks
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Planets%20in%20the%20Making.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/A%20Stars%20Spiral.ogv

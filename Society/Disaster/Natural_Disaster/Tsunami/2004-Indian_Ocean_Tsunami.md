@@ -1,62 +1,65 @@
 ---
-Commons_category: "2004 Indian Ocean tsunami"
-Commons_gallery: "2004 Indian Ocean earthquake"
-coordinate_location: "Point(95.982 3.295)"
-country:
-- '[[_Standards/WikiData/WD~French_Southern_and_Antarctic_Lands,129003]]'
-- '[[_Standards/WikiData/WD~Chagos_Archipelago,192188]]'
-- '[[_Standards/WikiData/WD~South_Africa,258]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Yemen,805]]'
-- '[[_Standards/WikiData/WD~Maldives,826]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Myanmar,836]]'
-- '[[_Standards/WikiData/WD~Sri_Lanka,854]]'
-- '[[_Standards/WikiData/WD~Thailand,869]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~Tanzania,924]]'
-- '[[_Standards/WikiData/WD~Comoros,970]]'
-- '[[_Standards/WikiData/WD~Madagascar,1019]]'
-- '[[_Standards/WikiData/WD~Mauritius,1027]]'
-- '[[_Standards/WikiData/WD~Seychelles,1042]]'
-- '[[_Standards/WikiData/WD~Somalia,1045]]'
-- '[[_Standards/WikiData/WD~Kenya,114]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- '[[_Standards/WikiData/WD~Indonesia,252]]'
-distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/2004IndianOceanTsunami.jpg"
-earthquake_magnitude_on_the_Richter_magnitude_scale: 9.3
+aliases:
+  - 2004-Indian_Ocean_Tsunami
+  - 2004-Indian Ocean Tsunami
 has_id_wikidata: Q130754
+Commons_category: 2004 Indian Ocean tsunami
+Commons_gallery: 2004 Indian Ocean earthquake
+coordinate_location: Point(95.982 3.295)
+country:
+  - '[[_Standards/WikiData/WD~French_Southern_and_Antarctic_Lands,129003]]'
+  - '[[_Standards/WikiData/WD~Chagos_Archipelago,192188]]'
+  - '[[_Standards/WikiData/WD~South_Africa,258]]'
+  - '[[_Standards/WikiData/WD~India,668]]'
+  - '[[_Standards/WikiData/WD~Yemen,805]]'
+  - '[[_Standards/WikiData/WD~Maldives,826]]'
+  - '[[_Standards/WikiData/WD~Malaysia,833]]'
+  - '[[_Standards/WikiData/WD~Myanmar,836]]'
+  - '[[_Standards/WikiData/WD~Sri_Lanka,854]]'
+  - '[[_Standards/WikiData/WD~Thailand,869]]'
+  - '[[_Standards/WikiData/WD~Bangladesh,902]]'
+  - '[[_Standards/WikiData/WD~Tanzania,924]]'
+  - '[[_Standards/WikiData/WD~Comoros,970]]'
+  - '[[_Standards/WikiData/WD~Madagascar,1019]]'
+  - '[[_Standards/WikiData/WD~Mauritius,1027]]'
+  - '[[_Standards/WikiData/WD~Seychelles,1042]]'
+  - '[[_Standards/WikiData/WD~Somalia,1045]]'
+  - '[[_Standards/WikiData/WD~Kenya,114]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+  - '[[_Standards/WikiData/WD~Indonesia,252]]'
+distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/2004IndianOceanTsunami.jpg
+earthquake_magnitude_on_the_Richter_magnitude_scale: 9.3
 height: 30
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/2004-tsunami.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/2004-tsunami.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~disaster,3839081]]'
-- '[[_Standards/WikiData/WD~earthquake,7944]]'
-- '[[_Standards/WikiData/WD~natural_disaster,8065]]'
-- '[[_Standards/WikiData/WD~tsunami,8070]]'
+  - '[[_Standards/WikiData/WD~disaster,3839081]]'
+  - '[[_Standards/WikiData/WD~earthquake,7944]]'
+  - '[[_Standards/WikiData/WD~natural_disaster,8065]]'
+  - '[[_Standards/WikiData/WD~tsunami,8070]]'
 locator_map_image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/2004%20Indian%20Ocean%20earthquake%20-%20affected%20countries.png"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Harta%20Ocean%20Indian%20Quake%20%28ja%29.png"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Indian%20Ocean%20earthquak-HE.png"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Indischer%20Ozean%20Beben2004.png"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Kaart%20zeebeving%20Indische%20Oceaan%202004.png"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Neic%20slav%20fig72.gif"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Paises%20afectados%20por%20el%20terremoto%20del%20Oceano%20Indico%20de%202004.png"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Seisme%20Sumatra%20CADRE.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Terremoto%20do%20Oceano%20%C3%8Dndico%202004%20-%20Pa%C3%ADses%20Afetados.png"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/2004%20Indian%20Ocean%20earthquake%20-%20affected%20countries.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Harta%20Ocean%20Indian%20Quake%20%28ja%29.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Indian%20Ocean%20earthquak-HE.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Indischer%20Ozean%20Beben2004.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Kaart%20zeebeving%20Indische%20Oceaan%202004.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Neic%20slav%20fig72.gif
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Paises%20afectados%20por%20el%20terremoto%20del%20Oceano%20Indico%20de%202004.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Seisme%20Sumatra%20CADRE.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Terremoto%20do%20Oceano%20%C3%8Dndico%202004%20-%20Pa%C3%ADses%20Afetados.png
 modified_Mercalli_intensity_scale: '[[_Standards/WikiData/WD~Mercalli_scale_IX,23925706]]'
 number_of_deaths: 227898
 number_of_injured: 125000
 P8189: 987007537403705171
-point_in_time: "2004-12-26T00:00:00Z"
+point_in_time: 2004-12-26T00:00:00Z
 RIA_Novosti_reference: 57862686
 schematic:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/2004%20Indian%20Ocean%20earthquake.svg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Sumatra%20waveform%20large.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Tsunami%20size%20scale%2026Dec2004.png"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/2004%20Indian%20Ocean%20earthquake.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Sumatra%20waveform%20large.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Tsunami%20size%20scale%2026Dec2004.png
 vertical_depth: 30
 video:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/2004%20Indonesia%20Tsunami%20edit.gif"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Tsunami%20wavefield%20for%20the%202004%20Sumatra-Andaman%20earthquake.webm"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/2004%20Indonesia%20Tsunami%20edit.gif
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Tsunami%20wavefield%20for%20the%202004%20Sumatra-Andaman%20earthquake.webm
 ---
 
 #[[2004-Indian_Ocean_Tsunami]]] 

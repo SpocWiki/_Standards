@@ -3,6 +3,7 @@ aliases:
   - Earth
   - geo
   - Erde
+has_id_wikidata: Q2
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%20dry%20elevation.stl
 albedo:
   - 0.294
@@ -178,9 +179,9 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Der_Volks_Brockhaus,107433072]]"
   - "[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]"
 Dewey_Decimal_Classification:
-  - "525"
-  - "550"
-  - "910.02"
+  - 525
+  - 550
+  - 910.02
 diameter: 12742
 different_from:
   - "[[_Standards/WikiData/WD~Tellus,340271]]"
@@ -209,7 +210,6 @@ has_characteristic:
   - "[[_Standards/WikiData/WD~mass_of_the_Earth,25935139]]"
   - "[[_Standards/WikiData/WD~narrative_location,105115142]]"
   - "[[_Standards/WikiData/WD~geologic_activity,108156638]]"
-has_id_wikidata: Q2
 has_part_s_:
   - "[[_Standards/WikiData/WD~hydrosphere,83169]]"
   - "[[_Standards/WikiData/WD~lithosphere,83296]]"
@@ -235,7 +235,7 @@ history_of_topic:
   - "[[_Standards/WikiData/WD~history_of_Earth,156312]]"
   - "[[_Standards/WikiData/WD~geological_history_of_Earth,2389585]]"
 icon: earth_americas
-Iconclass_notation: "25"
+Iconclass_notation: 25
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20%285052124705%29.jpg
 inception: -4540000000-06
 instance_of:
@@ -265,7 +265,7 @@ name_in_kana: ちきゅう
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%27s%20City%20Lights%20by%20DMSP%2C%201994-1995%20%28large%29.jpg
 notation: "[[_Standards/WikiData/WD~Earth_symbol,426529]]"
 number_of_out_of_school_children: 264000000
-OmegaWiki_Defined_Meaning: "7401"
+OmegaWiki_Defined_Meaning: 7401
 opposite_of:
   - "[[_Standards/WikiData/WD~sky,527]]"
   - "[[_Standards/WikiData/WD~outer_space,4169]]"
@@ -330,13 +330,17 @@ UMLS_CUI: C0242744
 Unicode_character:
   - ♁
   - 🜨
+  - 🌎
+  - 🌍
+  - 🌏
+  - 🗺
 U_S_National_Archives_Identifier:
-  - "10046628"
-  - "10637787"
+  - 10046628
+  - 10637787
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Lurraren%20ilargiak.webm
 volume_as_quantity: 1083210000000
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Earth,28231576]]"
-WOEID: "1"
+WOEID: 1
 Wolfram_Language_entity_code: Entity["Planet", "Earth"]
 WordLift_URL: http://data.thenextweb.com/tnw/entity/earth
 maintained_by_WikiProject:
@@ -358,10 +362,9 @@ hashtag_:
   - earth_(planet)
 ---
 
-# [[Earth]] 
+# [[Earth]] 🌎 
 
 #is_/same_as :: [[WD~Earth,2]] 
-
 
 ## #has_/text_of_/abstract 
 

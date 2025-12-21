@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Namibia
+  - Namibie
+  - ناميبيا
+  - 纳米比亚
+  - Намибия
+  - the Republic of Namibia
+  - la República de Namibia
+has_id_wikidata: Q1030
 named_after: "[[_Standards/WikiData/WD~Namib,131377]]"
 flag: "[[_Standards/WikiData/WD~flag_of_Namibia,165822]]"
 member_of:
@@ -300,7 +309,7 @@ Commons_category: Namibia
 subreddit: Namibia
 Commons_gallery: Namibia
 hashtag: Namibia
-inception: "1990"
+inception: 1990
 has_time_started: 1990-06
 Dewey_Decimal_Classification: 2--6881
 Unicode_character: 🇳🇦
@@ -315,7 +324,6 @@ native_label:
 short_name: 🇳🇦
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Duna%20en%20Sossusvlei%2C%20Namibia%2C%202018-08-06%2C%20DD%20002.jpg
 UMLS_CUI: C0027366
-has_id_wikidata: Q1030
 location:
   - -22.57
   - 17.1
@@ -332,20 +340,12 @@ cssclasses:
   - Country
 publish: true
 title: Namibia
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Namibia
-  - Namibie
-  - ناميبيا
-  - 纳米比亚
-  - Намибия
-  - the Republic of Namibia
-  - la República de Namibia
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-NA
   - af

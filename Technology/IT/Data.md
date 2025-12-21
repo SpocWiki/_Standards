@@ -1,6 +1,7 @@
 ---
 aliases:
   - Daten
+  - Data
 has_id_wikidata: Q494756
 ---
 

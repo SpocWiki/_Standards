@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~OutletStore
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/OutletStore
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/OutletStore
-- is_an_/OutletStore
-- schema-org/OutletStore
+  - class/OutletStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/OutletStore
+  - is_an_/OutletStore
+  - schema-org/OutletStore
 tags:
-- class/FileClass
-- class/OutletStore
-- '#is_an_/OutletStore'
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/OutletStore
+  - class/FileClass
+  - class/OutletStore
+  - '#is_an_/OutletStore'
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/OutletStore
 version: 2.0
 ---
 

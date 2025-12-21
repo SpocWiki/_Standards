@@ -1,27 +1,28 @@
 ---
 aliases:
-- has_manufacturer
-- "schema:manufacturer"
-- "dbo:manufacturer"
-- "wdt:P176"
+  - has_manufacturer
+  - schema:manufacturer
+  - dbo:manufacturer
+  - wdt:P176
+  - has manufacturer
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- manufacturer
-layout: 
-license: "CC BY-SA 4.0"
+  - manufacturer
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_manufacturer
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_manufacturer
 type: Predi_Relation
 ---

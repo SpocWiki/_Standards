@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~WriteAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~CreateAction
 fields:
-- id: RYAE1c
-  name: InLanguage
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Language')"
-  type: MultiFile
-  path: ''
+  - id: RYAE1c
+    name: InLanguage
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Language')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/WriteAction
-- class/Thing/Action/CreateAction/WriteAction
-- is_a_/WriteAction
-- schema-org/WriteAction
+  - class/WriteAction
+  - class/Thing/Action/CreateAction/WriteAction
+  - is_a_/WriteAction
+  - schema-org/WriteAction
 tags:
-- class/FileClass
-- class/WriteAction
-- is_a_/WriteAction
-- class/Thing/Action/CreateAction/WriteAction
+  - class/FileClass
+  - class/WriteAction
+  - is_a_/WriteAction
+  - class/Thing/Action/CreateAction/WriteAction
 version: 2.0
 ---
 

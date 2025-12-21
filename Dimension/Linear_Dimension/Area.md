@@ -2,135 +2,46 @@
 aliases:
   - Area
   - Fläche
+has_id_wikidata: Q11500
 Colon_Classification: C152
 Commons_category: Area
-defining_formula: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle A=\iint \mathrm {d} x\mathrm {d} y}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <mi>A</mi>
-          <mo>=</mo>
-          <mo>&#x222C;<!-- ∬ --></mo>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi mathvariant="normal">d</mi>
-          </mrow>
-          <mi>x</mi>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi mathvariant="normal">d</mi>
-          </mrow>
-          <mi>y</mi>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle A=\iint \mathrm {d} x\mathrm {d} y}</annotation>
-    </semantics>
-  </math>
+defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle A=\\iint \\mathrm {d} x\\mathrm {d} y}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>A</mi>\n        <mo>=</mo>\n        <mo>&#x222C;<!-- ∬ --></mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"normal\">d</mi>\n        </mrow>\n        <mi>x</mi>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"normal\">d</mi>\n        </mrow>\n        <mi>y</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle A=\\iint \\mathrm {d} x\\mathrm {d} y}</annotation>\n  </semantics>\n</math>"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]"
-  - "[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
+  - '[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277]]'
 different_from:
-  - "[[_Standards/WikiData/WD~square,174782]]"
-  - "[[_Standards/WikiData/WD~surface_area,1379273]]"
-followed_by: "[[_Standards/WikiData/WD~volume,39297]]"
-follows: "[[_Standards/WikiData/WD~length,36253]]"
-has_id_wikidata: Q11500
+  - '[[_Standards/WikiData/WD~square,174782]]'
+  - '[[_Standards/WikiData/WD~surface_area,1379273]]'
+followed_by: '[[_Standards/WikiData/WD~volume,39297]]'
+follows: '[[_Standards/WikiData/WD~length,36253]]'
 IEV_number: 102-04-33
 in_defining_formula:
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle y}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>y</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle y}</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle A}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>A</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle x}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>x</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
-      </semantics>
-    </math>
-ISQ_dimension: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\mathsf {L}}^{2}}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <msup>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mrow class="MJX-TeXAtom-ORD">
-                <mi mathvariant="sans-serif">L</mi>
-              </mrow>
-            </mrow>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mn>2</mn>
-            </mrow>
-          </msup>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle {\mathsf {L}}^{2}}</annotation>
-    </semantics>
-  </math>
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle y}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>y</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle y}</annotation>\n  </semantics>\n</math>"
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle A}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>A</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle A}</annotation>\n  </semantics>\n</math>"
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle x}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>x</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle x}</annotation>\n  </semantics>\n</math>"
+ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {L}}^{2}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">L</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>2</mn>\n          </mrow>\n        </msup>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {L}}^{2}}</annotation>\n  </semantics>\n</math>"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 OpenStreetMap_tag_or_key: Key:area
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110206152,110206152]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110206152,110206152]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AB%E0%A4%B3.wav
 quantity_symbol_LaTeX_:
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle A}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>A</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle S}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>S</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle S}</annotation>
-      </semantics>
-    </math>
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle A}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>A</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle A}</annotation>\n  </semantics>\n</math>"
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle S}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>S</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle S}</annotation>\n  </semantics>\n</math>"
 quantity_symbol_string_:
   - S
 recommended_unit_of_measurement:
-  - "[[_Standards/WikiData/WD~square_metre,25343]]"
+  - '[[_Standards/WikiData/WD~square_metre,25343]]'
 Stack_Exchange_tag: https://stackoverflow.com/tags/area
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-  - "[[_Standards/WikiData/WD~scalar_quantity,181175]]"
-  - "[[_Standards/WikiData/WD~definite_integral,1991596]]"
-  - "[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763]]"
-  - "[[_Standards/WikiData/WD~area,111811675]]"
-  - "[[_Standards/WikiData/WD~geometric_measure,123410660]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Contents_Portals,5008867]]"
+  - '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+  - '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
+  - '[[_Standards/WikiData/WD~definite_integral,1991596]]'
+  - '[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763]]'
+  - '[[_Standards/WikiData/WD~area,111811675]]'
+  - '[[_Standards/WikiData/WD~geometric_measure,123410660]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Contents_Portals,5008867]]'
 Wikidata_property: area
 ---
 

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - has_value_for
+  - has value for
 icon: ril_numbers
 ---
 

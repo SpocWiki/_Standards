@@ -4,21 +4,22 @@ aliases:
   - recipe-yield
   - recipeYield
   - has_value_for_is_yielding_servings
+  - has value for is yielding servings
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - recipe-yield
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_recipe-yield
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

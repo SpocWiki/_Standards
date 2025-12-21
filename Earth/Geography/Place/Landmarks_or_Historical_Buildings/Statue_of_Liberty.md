@@ -36,7 +36,7 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
+expiryDate: ""
 fabrication_method: "[[_Standards/WikiData/WD~repoussé,656884]]"
 genre:
   - "[[_Standards/WikiData/WD~public_art,557141]]"
@@ -74,7 +74,7 @@ isDeleted: false
 isReadOnly: false
 keywords: Statue_of_Liberty
 lang: en
-layout:
+layout: ""
 Library_of_Congress_Classification: F128.64.L6
 license: (c)copyrighted
 linkTitle: Statue_of_Liberty
@@ -105,7 +105,7 @@ owned_by: "[[_Standards/WikiData/WD~National_Park_Service,308439]]"
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/USA%20Hebrew%20Wikivoyage%20front%20page%20banner.jpg
 part_of: "[[_Standards/WikiData/WD~Statue_of_Liberty_National_Monument,359939]]"
 publish: false
-publishDate:
+publishDate: ""
 satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/%EB%AF%B8%EA%B5%AD%20%EB%89%B4%EC%9A%95%20%EC%9E%90%EC%9C%A0%EC%9D%98%20%EC%97%AC%EC%8B%A0%EC%83%81%28%EC%95%84%EB%A6%AC%EB%9E%91%203A%ED%98%B8%29%20%28800%29.jpeg
 significant_event:
   - "[[_Standards/WikiData/WD~inauguration,1417098]]"
@@ -127,7 +127,7 @@ winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Statue%20o
 Wolfram_Language_entity_code: Entity["Artwork", "StatueOfLiberty::FredericAugusteBartholdi"]
 ---
 
-# [[Statue_of_Liberty]] 
+# [[Statue_of_Liberty]] 🗽 
 
 ![[../../../../assets/Pasted image 20250817172358.png]] 
 By <a href="//commons.wikimedia.org/w/index.php?title=User:AskALotl&amp;action=edit&amp;redlink=1" class="new" title="User:AskALotl (page does not exist)">AskALotl</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=149005856">Link</a> 

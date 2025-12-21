@@ -1,30 +1,32 @@
 ---
 aliases:
   - San peoples (also Saan), or Bushmen
+  - San_People
+  - San People
 has_id_wikidata: Q172365
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~traditional_African_religion,386498]]"
-  - "[[_Standards/WikiData/WD~Christianity,5043]]"
-  - "[[_Standards/WikiData/WD~shamanism,42042]]"
-part_of: "[[_Standards/WikiData/WD~Khoisan,459387]]"
+  - '[[_Standards/WikiData/WD~traditional_African_religion,386498]]'
+  - '[[_Standards/WikiData/WD~Christianity,5043]]'
+  - '[[_Standards/WikiData/WD~shamanism,42042]]'
+part_of: '[[_Standards/WikiData/WD~Khoisan,459387]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-subclass_of: "[[_Standards/WikiData/WD~indigenous_peoples_of_Africa,1661387]]"
-different_from: "[[_Standards/WikiData/WD~San,65956597]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+subclass_of: '[[_Standards/WikiData/WD~indigenous_peoples_of_Africa,1661387]]'
+different_from: '[[_Standards/WikiData/WD~San,65956597]]'
 country:
-  - "[[_Standards/WikiData/WD~South_Africa,258]]"
-  - "[[_Standards/WikiData/WD~Angola,916]]"
-  - "[[_Standards/WikiData/WD~Zimbabwe,954]]"
-  - "[[_Standards/WikiData/WD~Zambia,953]]"
-  - "[[_Standards/WikiData/WD~Botswana,963]]"
-  - "[[_Standards/WikiData/WD~Namibia,1030]]"
+  - '[[_Standards/WikiData/WD~South_Africa,258]]'
+  - '[[_Standards/WikiData/WD~Angola,916]]'
+  - '[[_Standards/WikiData/WD~Zimbabwe,954]]'
+  - '[[_Standards/WikiData/WD~Zambia,953]]'
+  - '[[_Standards/WikiData/WD~Botswana,963]]'
+  - '[[_Standards/WikiData/WD~Namibia,1030]]'
 population: 100000
-language_used: "[[_Standards/WikiData/WD~Khoisan,33614]]"
-instance_of: "[[_Standards/WikiData/WD~ethnic_group,41710]]"
+language_used: '[[_Standards/WikiData/WD~Khoisan,33614]]'
+instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710]]'
 self_identified_name:
   - San
   - San

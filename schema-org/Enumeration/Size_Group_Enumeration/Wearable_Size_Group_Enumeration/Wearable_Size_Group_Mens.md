@@ -4,21 +4,23 @@ aliases:
   - wearable_size_group_mens
   - WearableSizeGroupMens
   - is_a_wearable_size_group_mens
+  - Wearable_Size_Group_Mens
+  - Wearable Size Group Mens
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableSizeGroupEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_size_group_mens
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_size_group_mens Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

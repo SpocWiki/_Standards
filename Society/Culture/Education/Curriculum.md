@@ -1,7 +1,8 @@
 ---
 aliases:
-  - curriculums 
+  - curriculums
   - curricula
+  - Curriculum
 has_id_wikidata: Q207137
 ---
 

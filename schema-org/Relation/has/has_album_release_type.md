@@ -1,12 +1,13 @@
 ---
 aliases:
   - has_album_release_type
+  - has album release type
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -14,11 +15,11 @@ keywords:
   - release
   - type
   - AlbumReleaseType
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_album_release_type
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

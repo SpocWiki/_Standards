@@ -5,20 +5,22 @@ aliases:
   - ItemAvailability
   - is_an_item_availability
   - is_available_for
+  - Item_Availability
+  - Item Availability
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - item_availability
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_item_availability Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

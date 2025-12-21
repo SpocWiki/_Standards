@@ -4,20 +4,22 @@ aliases:
   - learning_resource
   - LearningResource
   - is_a_learning_resource
+  - Learning_Resource
+  - Learning Resource
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - learning_resource
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_learning_resource Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

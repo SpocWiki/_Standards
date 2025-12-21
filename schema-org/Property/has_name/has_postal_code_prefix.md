@@ -4,23 +4,25 @@ aliases:
   - postal_code_prefix
   - postalCodePrefix
   - has_text_of_postal_code_prefix
+  - has_postal_code_prefix
+  - has postal code prefix
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - postal
   - code
   - prefix
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_postal_code_prefix
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

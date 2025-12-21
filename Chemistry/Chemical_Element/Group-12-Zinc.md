@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Group-12-Zinc
 has_id_wikidata: Q191875
 type: ElementGroup
 ---

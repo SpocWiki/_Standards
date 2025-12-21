@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Freak on a Leash"
+  - Freak on a Leash
+  - Korn~Freak_on_a_Leash
+  - Korn~Freak on a Leash
 ---
 
 #has_/time_/started :: 1999-02-25 

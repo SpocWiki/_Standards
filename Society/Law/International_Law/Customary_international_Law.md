@@ -1,11 +1,13 @@
 ---
 aliases:
   - Customary international law
+  - Customary_international_Law
+  - Customary international Law
 has_id_wikidata: Q1194894
 subclass_of:
-  - "[[_Standards/WikiData/WD~customary_law,1479995]]"
-  - "[[_Standards/WikiData/WD~law,7748]]"
-part_of: "[[_Standards/WikiData/WD~international_law,4394526]]"
+  - '[[_Standards/WikiData/WD~customary_law,1479995]]'
+  - '[[_Standards/WikiData/WD~law,7748]]'
+part_of: '[[_Standards/WikiData/WD~international_law,4394526]]'
 ---
 
 # [[Customary_international_Law]] 

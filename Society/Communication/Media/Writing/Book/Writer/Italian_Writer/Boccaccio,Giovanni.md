@@ -3,6 +3,7 @@ aliases:
   - Giovanni_Boccaccio
   - Giovanni Boccaccio
   - Boccaccio
+  - Boccaccio,Giovanni
 has_id_wikidata: Q1402
 ---
 

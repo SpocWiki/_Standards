@@ -1,16 +1,18 @@
 ---
 aliases:
   - Literary theory
+  - Literary_Theory
+  - Literary Theory
 has_id_wikidata: Q459381
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~literary_studies,208217]]"
-subclass_of: "[[_Standards/WikiData/WD~literary_studies,208217]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~literary_studies,208217]]'
+subclass_of: '[[_Standards/WikiData/WD~literary_studies,208217]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Litcrit,8082398]]"
-practiced_by: "[[_Standards/WikiData/WD~literary_theorist,15962340]]"
-All_Science_Journal_Classification_Codes: "1208"
-Dewey_Decimal_Classification: "801"
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Litcrit,8082398]]'
+practiced_by: '[[_Standards/WikiData/WD~literary_theorist,15962340]]'
+All_Science_Journal_Classification_Codes: 1208
+Dewey_Decimal_Classification: 801
 Commons_category: Literary theory
 ---
 

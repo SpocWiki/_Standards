@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ibn_Battuta
+  - Ibn Battuta
 has_id_wikidata: Q7331
 ---
 

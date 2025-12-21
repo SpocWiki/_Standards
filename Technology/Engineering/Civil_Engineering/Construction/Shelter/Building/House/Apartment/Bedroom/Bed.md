@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bed
 has_id_wikidata: Q42177
 location:
   - "[[_Standards/WikiData/WD~bedroom,193837]]"
@@ -26,17 +28,17 @@ subclass_of:
   - "[[_Standards/WikiData/WD~sleeping_place,45422604]]"
 instance_of: "[[_Standards/WikiData/WD~furniture,14745]]"
 has_immediate_cause: "[[_Standards/WikiData/WD~sleep,35831]]"
-Nomenclature_for_Museum_Cataloging: "1177"
-OmegaWiki_Defined_Meaning: "6851"
+Nomenclature_for_Museum_Cataloging: 1177
+OmegaWiki_Defined_Meaning: 6851
 IMDb_keyword: bed
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Imagerrrrrr.jpg
 NATO_Stock_Number: 7105-01-482-1206
-Dewey_Decimal_Classification: "749.3"
+Dewey_Decimal_Classification: 749.3
 exact_match:
   - http://wordnet-rdf.princeton.edu/wn30/02818832-n
   - http://wordnet-rdf.princeton.edu/wn31/102814024-n
-UNSPSC_Code: "56101515"
-P8189: "987007282400605171"
+UNSPSC_Code: 56101515
+P8189: 987007282400605200
 DPLA_subject_term: Beds
 Commons_category: Beds
 UMLS_CUI: C0024940
@@ -44,7 +46,7 @@ MeSH_tree_code: E07.325.220
 Unicode_character: 🛏
 ---
 
-# [[Bed]] 
+# [[Bed]] 🛏 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Bed,42177|WD~Bed,42177]] 
 

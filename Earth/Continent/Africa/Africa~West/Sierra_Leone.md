@@ -7,8 +7,9 @@ aliases:
   - Сьерра-Леоне
   - the Republic of Sierra Leone
   - la República de Sierra Leona
-flag: "[[_Standards/WikiData/WD~flag_of_Sierra_Leone,168912]]"
+  - Sierra_Leone
 has_id_wikidata: Q1044
+flag: "[[_Standards/WikiData/WD~flag_of_Sierra_Leone,168912]]"
 location:
   - 8.48445
   - -13.2345
@@ -303,12 +304,12 @@ cssclasses:
   - Country
 publish: true
 title: Sierra Leone
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-SL
   - men

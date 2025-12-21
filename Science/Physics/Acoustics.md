@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Acoustics
 has_id_wikidata: Q82811
 ---
 

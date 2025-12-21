@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Japan
+  - Japón
+  - Japon
+  - اليابان
+  - 日本
+  - Япония
+  - el Japón
+  - Japón (el)
+has_id_wikidata: Q17
 contains_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Aomori_Prefecture,71699]]"
   - "[[_Standards/WikiData/WD~Fukushima_Prefecture,71707]]"
@@ -191,7 +201,7 @@ nickname:
   - Страна Восходящего Солнца
   - Terra del sol naixent
   - Land der aufgehenden Sonne
-Gregorian_calendar_start_date: "1873"
+Gregorian_calendar_start_date: 1873
 nominal_GDP:
   - 5005536736792
   - 4231141201863
@@ -558,7 +568,6 @@ BHCL_UUID: d4a959c9-c688-4606-a2f3-ac84bec2fa04
 Wolfram_Language_entity_code: Entity["Country", "Japan"]
 Colon_Classification: SG--42
 Krugosvet_article: strany_mira/YAPONIYA.html
-has_id_wikidata: Q17
 location:
   - 36.8617
   - 137.199
@@ -575,21 +584,12 @@ cssclasses:
   - Country
 publish: true
 title: Japan
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Japan
-  - Japón
-  - Japon
-  - اليابان
-  - 日本
-  - Япония
-  - el Japón
-  - Japón (el)
+publishDate: ""
+expiryDate: ""
 Languages:
   - ja
 icon: flag-jp

@@ -4,22 +4,24 @@ aliases:
   - fax_number
   - faxNumber
   - has_text_of_fax_number
+  - has_fax_number
+  - has fax number
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - fax
   - number
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_fax_number
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

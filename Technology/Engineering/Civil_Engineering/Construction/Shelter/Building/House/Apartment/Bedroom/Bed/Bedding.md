@@ -1,36 +1,38 @@
 ---
+aliases:
+  - Bedding
 has_id_wikidata: Q1762457
 has_part_s_:
-  - "[[_Standards/WikiData/WD~pillow,99895]]"
-  - "[[_Standards/WikiData/WD~mattress,171495]]"
-  - "[[_Standards/WikiData/WD~bed_sheet,391788]]"
-  - "[[_Standards/WikiData/WD~bed_base,1807059]]"
-  - "[[_Standards/WikiData/WD~duvet,2021327]]"
-  - "[[_Standards/WikiData/WD~duvet_cover,2397457]]"
-  - "[[_Standards/WikiData/WD~bolster,3057620]]"
-  - "[[_Standards/WikiData/WD~duvet_cover,3513966]]"
-  - "[[_Standards/WikiData/WD~mattress_protector,17068547]]"
-  - "[[_Standards/WikiData/WD~bedding_set,18415005]]"
-  - "[[_Standards/WikiData/WD~comforter,5847]]"
-  - "[[_Standards/WikiData/WD~blanket,5852]]"
+  - '[[_Standards/WikiData/WD~pillow,99895]]'
+  - '[[_Standards/WikiData/WD~mattress,171495]]'
+  - '[[_Standards/WikiData/WD~bed_sheet,391788]]'
+  - '[[_Standards/WikiData/WD~bed_base,1807059]]'
+  - '[[_Standards/WikiData/WD~duvet,2021327]]'
+  - '[[_Standards/WikiData/WD~duvet_cover,2397457]]'
+  - '[[_Standards/WikiData/WD~bolster,3057620]]'
+  - '[[_Standards/WikiData/WD~duvet_cover,3513966]]'
+  - '[[_Standards/WikiData/WD~mattress_protector,17068547]]'
+  - '[[_Standards/WikiData/WD~bedding_set,18415005]]'
+  - '[[_Standards/WikiData/WD~comforter,5847]]'
+  - '[[_Standards/WikiData/WD~blanket,5852]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~linens,796635]]"
-  - "[[_Standards/WikiData/WD~furnishings,12375131]]"
-  - "[[_Standards/WikiData/WD~add_on,117670709]]"
-different_from: "[[_Standards/WikiData/WD~bed,806617]]"
-part_of: "[[_Standards/WikiData/WD~consumer_economics,3578714]]"
-instance_of: "[[_Standards/WikiData/WD~product_category,63981612]]"
+  - '[[_Standards/WikiData/WD~linens,796635]]'
+  - '[[_Standards/WikiData/WD~furnishings,12375131]]'
+  - '[[_Standards/WikiData/WD~add_on,117670709]]'
+different_from: '[[_Standards/WikiData/WD~bed,806617]]'
+part_of: '[[_Standards/WikiData/WD~consumer_economics,3578714]]'
+instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
 earliest_date: -75000-06
-has_use: "[[_Standards/WikiData/WD~bed,42177]]"
-locations: "[[_Standards/WikiData/WD~bed,42177]]"
-Nomenclature_for_Museum_Cataloging: "968"
+has_use: '[[_Standards/WikiData/WD~bed,42177]]'
+locations: '[[_Standards/WikiData/WD~bed,42177]]'
+Nomenclature_for_Museum_Cataloging: 968
 subreddit: Bedding
 Commons_gallery: Bedding
 Commons_category: Bedding
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bettwaesche.jpg
-U_S_National_Archives_Identifier: "10647518"
+U_S_National_Archives_Identifier: 10647518
 Iconclass_notation: 41A763
-P8189: "987007282402205171"
+P8189: 987007282402205171
 ---
 
 # [[Bedding]] 

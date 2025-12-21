@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DepartAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~MoveAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DepartAction
-- class/Thing/Action/MoveAction/DepartAction
-- is_a_/DepartAction
-- schema-org/DepartAction
+  - class/DepartAction
+  - class/Thing/Action/MoveAction/DepartAction
+  - is_a_/DepartAction
+  - schema-org/DepartAction
 tags:
-- class/FileClass
-- class/DepartAction
-- is_a_/DepartAction
-- class/Thing/Action/MoveAction/DepartAction
+  - class/FileClass
+  - class/DepartAction
+  - is_a_/DepartAction
+  - class/Thing/Action/MoveAction/DepartAction
 version: 2.0
 ---
 

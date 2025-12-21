@@ -5,20 +5,22 @@ aliases:
   - Dewar bottle
   - thermos
   - Thermosflasche
+  - Vacuum_Flask
+  - Vacuum Flask
 has_id_wikidata: Q23664
 subclass_of:
-  - "[[_Standards/WikiData/WD~laboratory_flask,335201]]"
-  - "[[_Standards/WikiData/WD~Dewar_flask,912050]]"
-  - "[[_Standards/WikiData/WD~drinking_vessel,2453629]]"
-  - "[[_Standards/WikiData/WD~food_storage_container,60739826]]"
-uses: "[[_Standards/WikiData/WD~thermal_insulation,918306]]"
-has_use: "[[_Standards/WikiData/WD~thermal_insulation,918306]]"
-has_characteristic: "[[_Standards/WikiData/WD~durable_good,2184715]]"
-different_from: "[[_Standards/WikiData/WD~Q9166181,9166181]]"
+  - '[[_Standards/WikiData/WD~laboratory_flask,335201]]'
+  - '[[_Standards/WikiData/WD~Dewar_flask,912050]]'
+  - '[[_Standards/WikiData/WD~drinking_vessel,2453629]]'
+  - '[[_Standards/WikiData/WD~food_storage_container,60739826]]'
+uses: '[[_Standards/WikiData/WD~thermal_insulation,918306]]'
+has_use: '[[_Standards/WikiData/WD~thermal_insulation,918306]]'
+has_characteristic: '[[_Standards/WikiData/WD~durable_good,2184715]]'
+different_from: '[[_Standards/WikiData/WD~Q9166181,9166181]]'
 physically_interacts_with:
-  - "[[_Standards/WikiData/WD~food,2095]]"
-  - "[[_Standards/WikiData/WD~tea,6097]]"
-Nomenclature_for_Museum_Cataloging: "4958"
+  - '[[_Standards/WikiData/WD~food,2095]]'
+  - '[[_Standards/WikiData/WD~tea,6097]]'
+Nomenclature_for_Museum_Cataloging: 4958
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A2%D0%B5%D1%80%D0%BC%D0%BE%D1%81%20%281%29.jpg
 Commons_category: Vacuum flasks
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Thermosfles-article.ogg

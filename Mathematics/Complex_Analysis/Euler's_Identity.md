@@ -1,14 +1,16 @@
 ---
 aliases:
-  - Euler's identity 
+  - Euler's identity
   - Euler's equation
+  - Euler's_Identity
+  - Euler's Identity
 has_id_wikidata: Q204819
-instance_of: "[[_Standards/WikiData/WD~theorem,65943]]"
-studied_by: "[[_Standards/WikiData/WD~complex_analysis,193756]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+instance_of: '[[_Standards/WikiData/WD~theorem,65943]]'
+studied_by: '[[_Standards/WikiData/WD~complex_analysis,193756]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mi>e</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x03C0;</mi><mi>i</mi></mrow></mrow></msup><mo stretchy="false">+</mo><mn>1</mn><mo stretchy="false">=</mo><mn>0</mn></mstyle></mrow></math>
-named_after: "[[_Standards/WikiData/WD~Leonhard_Euler,7604]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Leonhard_Euler,7604]]"
+named_after: '[[_Standards/WikiData/WD~Leonhard_Euler,7604]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Leonhard_Euler,7604]]'
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>e</mi></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>i</mi></mstyle></mrow></math>

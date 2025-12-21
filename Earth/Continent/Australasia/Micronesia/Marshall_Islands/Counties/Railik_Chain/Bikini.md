@@ -1,13 +1,15 @@
 ---
+aliases:
+  - Bikini
 confidential: public
 isDeleted: false
 location:
-- 11.58
-- 165.33
+  - 11.58
+  - 165.33
 mapmarker: city
 SpocWebEntityId: 29185
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

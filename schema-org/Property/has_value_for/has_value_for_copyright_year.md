@@ -4,21 +4,22 @@ aliases:
   - copyright-year
   - copyrightYear
   - has_value_for_copyright_year
+  - has value for copyright year
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - copyright-year
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_copyright-year
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

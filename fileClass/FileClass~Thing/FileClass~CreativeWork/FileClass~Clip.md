@@ -1,71 +1,73 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Clip
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-- id: 4H9ubL
-  name: Actor
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: iI2CNL
-  name: ClipNumber
-  options: {}
-  type: Number
-  path: ''
-- id: ZFLHmE
-  name: Director
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Person')"
-  type: MultiFile
-  path: ''
-- id: rPk4bu
-  name: EndOffset
-  options: {}
-  type: Number
-  path: ''
-- id: IWf6hS
-  name: MusicBy
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')"
-  type: MultiFile
-  path: ''
-- id: X41rDg
-  name: PartOfEpisode
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Episode')"
-  type: MultiFile
-  path: ''
-- id: qdXGZi
-  name: PartOfSeason
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/CreativeWorkSeason')"
-  type: MultiFile
-  path: ''
-- id: KfoHeJ
-  name: PartOfSeries
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries')"
-  type: MultiFile
-  path: ''
-- id: ZNs5Rc
-  name: StartOffset
-  options: {}
-  type: Number
-  path: ''
+  - id: 4H9ubL
+    name: Actor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: iI2CNL
+    name: ClipNumber
+    options: {}
+    type: Number
+    path: ''
+  - id: ZFLHmE
+    name: Director
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ''
+  - id: rPk4bu
+    name: EndOffset
+    options: {}
+    type: Number
+    path: ''
+  - id: IWf6hS
+    name: MusicBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
+    type: MultiFile
+    path: ''
+  - id: X41rDg
+    name: PartOfEpisode
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Episode')
+    type: MultiFile
+    path: ''
+  - id: qdXGZi
+    name: PartOfSeason
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/CreativeWorkSeason')
+    type: MultiFile
+    path: ''
+  - id: KfoHeJ
+    name: PartOfSeries
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries')
+    type: MultiFile
+    path: ''
+  - id: ZNs5Rc
+    name: StartOffset
+    options: {}
+    type: Number
+    path: ''
 icon: paperclip
 limit: 9
 mapWithTag: true
 tagNames:
-- class/Clip
-- class/Thing/CreativeWork/Clip
-- is_a_/Clip
-- schema-org/Clip
+  - class/Clip
+  - class/Thing/CreativeWork/Clip
+  - is_a_/Clip
+  - schema-org/Clip
 tags:
-- class/FileClass
-- class/Clip
-- is_a_/Clip
-- class/Thing/CreativeWork/Clip
+  - class/FileClass
+  - class/Clip
+  - is_a_/Clip
+  - class/Thing/CreativeWork/Clip
 version: 2.0
 ---
 

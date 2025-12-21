@@ -1,17 +1,18 @@
 ---
 aliases:
   - Obstgarten
+  - Orchard
 has_id_wikidata: Q236371
 subclass_of:
-  - "[[_Standards/WikiData/WD~market_garden,143970]]"
-  - "[[_Standards/WikiData/WD~plantation,188913]]"
-award_received: "[[_Standards/WikiData/WD~biotope_of_the_year,864861]]"
+  - '[[_Standards/WikiData/WD~market_garden,143970]]'
+  - '[[_Standards/WikiData/WD~plantation,188913]]'
+award_received: '[[_Standards/WikiData/WD~biotope_of_the_year,864861]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-different_from: "[[_Standards/WikiData/WD~Bo_ston,2455238]]"
-Dewey_Decimal_Classification: "634"
-OmegaWiki_Defined_Meaning: "504423"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+different_from: '[[_Standards/WikiData/WD~Bo_ston,2455238]]'
+Dewey_Decimal_Classification: 634
+OmegaWiki_Defined_Meaning: 504423
 Commons_category: Orchards
 Iconclass_notation: 47I411
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Des%20Apfels%20Kern.%20Vom%20Lieblingsobst%20der%20Rheinl%C3%A4nder.webm

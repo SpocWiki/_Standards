@@ -1,86 +1,88 @@
 ---
-excludes: 
+aliases:
+  - FileClass~FloorPlan
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: QeSMPA
-  name: AmenityFeature
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification')"
-  type: MultiFile
-  path: ''
-- id: R0uR5Z
-  name: FloorSize
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: KFQ2rj
-  name: IsPlanForApartment
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Place/Accommodation')"
-  type: MultiFile
-  path: ''
-- id: INpLk4
-  name: LayoutImage
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"
-  type: MultiFile
-  path: ''
-- id: EJSZdo
-  name: NumberOfAccommodationUnits
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: ZF21xu
-  name: NumberOfAvailableAccommodationUnits
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: Can3Cf
-  name: NumberOfBathroomsTotal
-  options: {}
-  type: Number
-  path: ''
-- id: aa87iA
-  name: NumberOfBedrooms
-  options: {}
-  type: Number
-  path: ''
-- id: VSYhE9
-  name: NumberOfFullBathrooms
-  options: {}
-  type: Number
-  path: ''
-- id: vOzXoC
-  name: NumberOfPartialBathrooms
-  options: {}
-  type: Number
-  path: ''
-- id: GNPgnB
-  name: NumberOfRooms
-  options: {}
-  type: Number
-  path: ''
-- id: 1CW623
-  name: PetsAllowed
-  options: {}
-  type: Boolean
-  path: ''
+  - id: QeSMPA
+    name: AmenityFeature
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification')
+    type: MultiFile
+    path: ''
+  - id: R0uR5Z
+    name: FloorSize
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: KFQ2rj
+    name: IsPlanForApartment
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/Accommodation')
+    type: MultiFile
+    path: ''
+  - id: INpLk4
+    name: LayoutImage
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
+    type: MultiFile
+    path: ''
+  - id: EJSZdo
+    name: NumberOfAccommodationUnits
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: ZF21xu
+    name: NumberOfAvailableAccommodationUnits
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: Can3Cf
+    name: NumberOfBathroomsTotal
+    options: {}
+    type: Number
+    path: ''
+  - id: aa87iA
+    name: NumberOfBedrooms
+    options: {}
+    type: Number
+    path: ''
+  - id: VSYhE9
+    name: NumberOfFullBathrooms
+    options: {}
+    type: Number
+    path: ''
+  - id: vOzXoC
+    name: NumberOfPartialBathrooms
+    options: {}
+    type: Number
+    path: ''
+  - id: GNPgnB
+    name: NumberOfRooms
+    options: {}
+    type: Number
+    path: ''
+  - id: 1CW623
+    name: PetsAllowed
+    options: {}
+    type: Boolean
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/FloorPlan
-- class/Thing/Intangible/FloorPlan
-- is_a_/FloorPlan
-- schema-org/FloorPlan
+  - class/FloorPlan
+  - class/Thing/Intangible/FloorPlan
+  - is_a_/FloorPlan
+  - schema-org/FloorPlan
 tags:
-- class/FileClass
-- class/FloorPlan
-- is_a_/FloorPlan
-- class/Thing/Intangible/FloorPlan
+  - class/FileClass
+  - class/FloorPlan
+  - is_a_/FloorPlan
+  - class/Thing/Intangible/FloorPlan
 version: 2.0
 ---
 

@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Erykah Badu"
+  - Erykah Badu
+  - Badu,Erykah
 ---
 
 Her Voice sounds similar to [[Holiday,Billie]]. 

@@ -4,115 +4,116 @@ aliases:
   - Henri-Louis Bergson
   - Henri Bergson
   - Bergson
+  - Bergson,Henri
 has_id_wikidata: Q42156
 influenced_by:
-  - "[[_Standards/WikiData/WD~Georg_Simmel,76849]]"
-  - "[[_Standards/WikiData/WD~George_Berkeley,82049]]"
-  - "[[_Standards/WikiData/WD~Zeno_of_Elea,132157]]"
-  - "[[_Standards/WikiData/WD~Plotinus,134189]]"
-  - "[[_Standards/WikiData/WD~Herbert_Spencer,144535]]"
-  - "[[_Standards/WikiData/WD~Claude_Bernard,208230]]"
-  - "[[_Standards/WikiData/WD~Félix_Ravaisson_Mollien,1479519]]"
-  - "[[_Standards/WikiData/WD~Jules_Lachelier,2303850]]"
-  - "[[_Standards/WikiData/WD~Plato,859]]"
-  - "[[_Standards/WikiData/WD~Aristotle,868]]"
-  - "[[_Standards/WikiData/WD~Albert_Einstein,937]]"
-  - "[[_Standards/WikiData/WD~Charles_Darwin,1035]]"
-  - "[[_Standards/WikiData/WD~Blaise_Pascal,1290]]"
-  - "[[_Standards/WikiData/WD~Søren_Kierkegaard,6512]]"
-  - "[[_Standards/WikiData/WD~Gottfried_Wilhelm_Leibniz,9047]]"
-  - "[[_Standards/WikiData/WD~René_Descartes,9191]]"
-  - "[[_Standards/WikiData/WD~Immanuel_Kant,9312]]"
-  - "[[_Standards/WikiData/WD~Benedictus_de_Spinoza,35802]]"
-  - "[[_Standards/WikiData/WD~David_Hume,37160]]"
-  - "[[_Standards/WikiData/WD~Arthur_Schopenhauer,38193]]"
-  - "[[_Standards/WikiData/WD~Gottlob_Frege,60028]]"
+  - '[[_Standards/WikiData/WD~Georg_Simmel,76849]]'
+  - '[[_Standards/WikiData/WD~George_Berkeley,82049]]'
+  - '[[_Standards/WikiData/WD~Zeno_of_Elea,132157]]'
+  - '[[_Standards/WikiData/WD~Plotinus,134189]]'
+  - '[[_Standards/WikiData/WD~Herbert_Spencer,144535]]'
+  - '[[_Standards/WikiData/WD~Claude_Bernard,208230]]'
+  - '[[_Standards/WikiData/WD~Félix_Ravaisson_Mollien,1479519]]'
+  - '[[_Standards/WikiData/WD~Jules_Lachelier,2303850]]'
+  - '[[_Standards/WikiData/WD~Plato,859]]'
+  - '[[_Standards/WikiData/WD~Aristotle,868]]'
+  - '[[_Standards/WikiData/WD~Albert_Einstein,937]]'
+  - '[[_Standards/WikiData/WD~Charles_Darwin,1035]]'
+  - '[[_Standards/WikiData/WD~Blaise_Pascal,1290]]'
+  - '[[_Standards/WikiData/WD~Søren_Kierkegaard,6512]]'
+  - '[[_Standards/WikiData/WD~Gottfried_Wilhelm_Leibniz,9047]]'
+  - '[[_Standards/WikiData/WD~René_Descartes,9191]]'
+  - '[[_Standards/WikiData/WD~Immanuel_Kant,9312]]'
+  - '[[_Standards/WikiData/WD~Benedictus_de_Spinoza,35802]]'
+  - '[[_Standards/WikiData/WD~David_Hume,37160]]'
+  - '[[_Standards/WikiData/WD~Arthur_Schopenhauer,38193]]'
+  - '[[_Standards/WikiData/WD~Gottlob_Frege,60028]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~École_Normale_Supérieure,83259]]"
-  - "[[_Standards/WikiData/WD~University_of_Paris,209842]]"
-  - "[[_Standards/WikiData/WD~Lycée_Condorcet,926749]]"
+  - '[[_Standards/WikiData/WD~École_Normale_Supérieure,83259]]'
+  - '[[_Standards/WikiData/WD~University_of_Paris,209842]]'
+  - '[[_Standards/WikiData/WD~Lycée_Condorcet,926749]]'
 occupation:
-  - "[[_Standards/WikiData/WD~professor,121594]]"
-  - "[[_Standards/WikiData/WD~sociologist,2306091]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - '[[_Standards/WikiData/WD~professor,121594]]'
+  - '[[_Standards/WikiData/WD~sociologist,2306091]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
 professorship:
-  - "[[_Standards/WikiData/WD~professor,121594]]"
-  - "[[_Standards/WikiData/WD~Académie_Française,161806]]"
-  - "[[_Standards/WikiData/WD~Académie_des_Sciences_Morales_et_Politiques,337543]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
+  - '[[_Standards/WikiData/WD~professor,121594]]'
+  - '[[_Standards/WikiData/WD~Académie_Française,161806]]'
+  - '[[_Standards/WikiData/WD~Académie_des_Sciences_Morales_et_Politiques,337543]]'
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
 student:
-  - "[[_Standards/WikiData/WD~Gabriel_Marcel,154145]]"
-  - "[[_Standards/WikiData/WD~Émile_Bréhier,274978]]"
-  - "[[_Standards/WikiData/WD~Louis_Lavelle,467668]]"
-  - "[[_Standards/WikiData/WD~Albert_Thibaudet,1898915]]"
-  - "[[_Standards/WikiData/WD~Joseph_Baruzi,102377884]]"
-  - "[[_Standards/WikiData/WD~Marcel_Proust,7199]]"
+  - '[[_Standards/WikiData/WD~Gabriel_Marcel,154145]]'
+  - '[[_Standards/WikiData/WD~Émile_Bréhier,274978]]'
+  - '[[_Standards/WikiData/WD~Louis_Lavelle,467668]]'
+  - '[[_Standards/WikiData/WD~Albert_Thibaudet,1898915]]'
+  - '[[_Standards/WikiData/WD~Joseph_Baruzi,102377884]]'
+  - '[[_Standards/WikiData/WD~Marcel_Proust,7199]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Académie_Française,161806]]"
-  - "[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]"
-  - "[[_Standards/WikiData/WD~Académie_des_Sciences_Morales_et_Politiques,337543]]"
-  - "[[_Standards/WikiData/WD~Lincean_Academy,338432]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]"
-cause_of_death: "[[_Standards/WikiData/WD~bronchitis,173022]]"
+  - '[[_Standards/WikiData/WD~Académie_Française,161806]]'
+  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+  - '[[_Standards/WikiData/WD~Académie_des_Sciences_Morales_et_Politiques,337543]]'
+  - '[[_Standards/WikiData/WD~Lincean_Academy,338432]]'
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]'
+cause_of_death: '[[_Standards/WikiData/WD~bronchitis,173022]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~philosophy_of_mathematics,180536]]"
-  - "[[_Standards/WikiData/WD~philosophy_of_language,484761]]"
-  - "[[_Standards/WikiData/WD~irrationalism,7481907]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~epistemology,9471]]"
-  - "[[_Standards/WikiData/WD~metaphysics,35277]]"
+  - '[[_Standards/WikiData/WD~philosophy_of_mathematics,180536]]'
+  - '[[_Standards/WikiData/WD~philosophy_of_language,484761]]'
+  - '[[_Standards/WikiData/WD~irrationalism,7481907]]'
+  - '[[_Standards/WikiData/WD~philosophy,5891]]'
+  - '[[_Standards/WikiData/WD~epistemology,9471]]'
+  - '[[_Standards/WikiData/WD~metaphysics,35277]]'
 employer:
-  - "[[_Standards/WikiData/WD~Collège_de_France,202660]]"
+  - '[[_Standards/WikiData/WD~Collège_de_France,202660]]'
   - "[[_Standards/WikiData/WD~lycée_David_d'Angers,3268642]]"
 student_of:
-  - "[[_Standards/WikiData/WD~Émile_Boutroux,274969]]"
-  - "[[_Standards/WikiData/WD~Félix_Ravaisson_Mollien,1479519]]"
-sibling: "[[_Standards/WikiData/WD~Moina_Mathers,459138]]"
-academic_degree: "[[_Standards/WikiData/WD~doctorate,849697]]"
+  - '[[_Standards/WikiData/WD~Émile_Boutroux,274969]]'
+  - '[[_Standards/WikiData/WD~Félix_Ravaisson_Mollien,1479519]]'
+sibling: '[[_Standards/WikiData/WD~Moina_Mathers,459138]]'
+academic_degree: '[[_Standards/WikiData/WD~doctorate,849697]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Concours_général,908793]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Legion_of_Honour,10855226]]"
-  - "[[_Standards/WikiData/WD~honorary_doctorate_from_the_University_of_Cambridge,41795465]]"
-  - "[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Oxford,42043175]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]"
-  - "[[_Standards/WikiData/WD~Honorary_Doctorate_from_the_National_Autonomous_University_of_Mexico,64152520]]"
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
+  - '[[_Standards/WikiData/WD~Concours_général,908793]]'
+  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Legion_of_Honour,10855226]]'
+  - '[[_Standards/WikiData/WD~honorary_doctorate_from_the_University_of_Cambridge,41795465]]'
+  - '[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Oxford,42043175]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+  - '[[_Standards/WikiData/WD~Honorary_Doctorate_from_the_National_Autonomous_University_of_Mexico,64152520]]'
+  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
 position_held:
-  - "[[_Standards/WikiData/WD~president,1255921]]"
-  - "[[_Standards/WikiData/WD~seat_7_of_the_Académie_française,70495951]]"
-given_name: "[[_Standards/WikiData/WD~Q1605665,1605665]]"
-assessment: "[[_Standards/WikiData/WD~agrégation_of_philosophy,2827292]]"
-father: "[[_Standards/WikiData/WD~Michał_Bergson,3308715]]"
+  - '[[_Standards/WikiData/WD~president,1255921]]'
+  - '[[_Standards/WikiData/WD~seat_7_of_the_Académie_française,70495951]]'
+given_name: '[[_Standards/WikiData/WD~Q1605665,1605665]]'
+assessment: '[[_Standards/WikiData/WD~agrégation_of_philosophy,2827292]]'
+father: '[[_Standards/WikiData/WD~Michał_Bergson,3308715]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-family_name: "[[_Standards/WikiData/WD~Bergson,21493590]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-place_of_burial: "[[_Standards/WikiData/WD~Cemetery_of_Garches,83376011]]"
-spouse: "[[_Standards/WikiData/WD~Louise_Neuberger,108664023]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+family_name: '[[_Standards/WikiData/WD~Bergson,21493590]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+place_of_burial: '[[_Standards/WikiData/WD~Cemetery_of_Garches,83376011]]'
+spouse: '[[_Standards/WikiData/WD~Louise_Neuberger,108664023]]'
 date_of_birth: 1859-10-18T00:00:00Z
-religion_or_worldview: "[[_Standards/WikiData/WD~Judaism,9268]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~Paris,90]]"
-place_of_birth: "[[_Standards/WikiData/WD~Paris,90]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-writing_language: "[[_Standards/WikiData/WD~French,150]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
-nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
-Dewey_Decimal_Classification: "143"
-movement: "[[_Standards/WikiData/WD~continental_philosophy,59104]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Judaism,9268]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~Paris,90]]'
+place_of_birth: '[[_Standards/WikiData/WD~Paris,90]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+writing_language: '[[_Standards/WikiData/WD~French,150]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
+Dewey_Decimal_Classification: 143
+movement: '[[_Standards/WikiData/WD~continental_philosophy,59104]]'
 Commons_category: Henri Bergson
 Commons_Creator_page: Henri Bergson
 PhilPapers_topic: henri-bergson
@@ -123,7 +124,7 @@ BHCL_UUID: 8a59d1c5-639c-4fe9-b87d-ee0c3fb744e3
 date_of_death: 1941-01-04T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Bergson%2002.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20Henri%20Bergson.svg
-ISNI: "0000000121355394"
+ISNI: 0000000121355394
 Europeana_entity: agent/base/145322
 Regensburg_Classification: BF 5190
 Wolfram_Language_entity_code: Entity["Concept", "Bergson::4hrwk"]

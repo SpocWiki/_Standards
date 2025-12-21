@@ -1,14 +1,15 @@
 ---
 aliases:
   - Paläolithikum
+  - Paleolithic
 has_id_wikidata: Q40203
-theorized_by: "[[_Standards/WikiData/WD~John_Lubbock,_1st_Baron_Avebury,312503]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Paleolithic,10858338]]"
+theorized_by: '[[_Standards/WikiData/WD~John_Lubbock,_1st_Baron_Avebury,312503]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Paleolithic,10858338]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-  - "[[_Standards/WikiData/WD~archaeological_period,15401633]]"
-  - "[[_Standards/WikiData/WD~culture,11042]]"
+  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
+  - '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
+  - '[[_Standards/WikiData/WD~culture,11042]]'
 start_time: -3300000-01-01T00:00:00Z
 end_time: -13000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nucleus%20Brassempouy%20Global%20fond.jpg

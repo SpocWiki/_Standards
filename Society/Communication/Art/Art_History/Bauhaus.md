@@ -1,8 +1,9 @@
 ---
-has_id_wikidata: Q124354
 aliases:
   - Staatliches Bauhaus
   - International Style
+  - Bauhaus
+has_id_wikidata: Q124354
 ---
 
 # [[Bauhaus]] 

@@ -1,32 +1,33 @@
 ---
 aliases:
   - Scepticism
+  - Skepticism
 has_id_wikidata: Q1395219
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~attitude,622645]]"
-  - "[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]"
+  - '[[_Standards/WikiData/WD~attitude,622645]]'
+  - '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~scientific_skepticism,929771]]"
-  - "[[_Standards/WikiData/WD~philosophical_skepticism,1998646]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Skepticism,8005825]]"
-subclass_of: "[[_Standards/WikiData/WD~tendency,55919789]]"
-practiced_by: "[[_Standards/WikiData/WD~skeptic,106640477]]"
-contributing_factor_of: "[[_Standards/WikiData/WD~doubt,34302]]"
+  - '[[_Standards/WikiData/WD~scientific_skepticism,929771]]'
+  - '[[_Standards/WikiData/WD~philosophical_skepticism,1998646]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Skepticism,8005825]]'
+subclass_of: '[[_Standards/WikiData/WD~tendency,55919789]]'
+practiced_by: '[[_Standards/WikiData/WD~skeptic,106640477]]'
+contributing_factor_of: '[[_Standards/WikiData/WD~doubt,34302]]'
 IMDb_keyword: skepticism
 native_label: σκεπτικός
 subreddit: skeptic
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Head%20Karneades%20Glyptothek%20Munich.jpg
-Dewey_Decimal_Classification: "211.7"
+Dewey_Decimal_Classification: 211.7
 Krugosvet_article: gumanitarnye_nauki/filosofiya/SKEPTITSIZM.html
 Commons_category: Skepticism
 ---

@@ -4,10 +4,12 @@ aliases:
   - incendiary device
   - incendiary munition
   - incendiary bomb
+  - Incendiary_Weapon
+  - Incendiary Weapon
 has_id_wikidata: Q898389
-instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
-subclass_of: "[[_Standards/WikiData/WD~weapon,728]]"
-Nomenclature_for_Museum_Cataloging: "7740"
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+subclass_of: '[[_Standards/WikiData/WD~weapon,728]]'
+Nomenclature_for_Museum_Cataloging: 7740
 Commons_category: Incendiary weapons
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/38%20Molotov-koktelo.svg
 ---

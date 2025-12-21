@@ -1,6 +1,7 @@
 ---
 aliases:
   - Beton
+  - Concrete
 has_id_wikidata: Q22657
 ---
 

@@ -1,34 +1,35 @@
 ---
 aliases:
   - Karneval
+  - Carnival
 has_id_wikidata: Q4618
 subclass_of:
-  - "[[_Standards/WikiData/WD~festival,132241]]"
-  - "[[_Standards/WikiData/WD~season,10688145]]"
-  - "[[_Standards/WikiData/WD~annual_event,11483816]]"
-  - "[[_Standards/WikiData/WD~Reversal_ritual,115755288]]"
+  - '[[_Standards/WikiData/WD~festival,132241]]'
+  - '[[_Standards/WikiData/WD~season,10688145]]'
+  - '[[_Standards/WikiData/WD~annual_event,11483816]]'
+  - '[[_Standards/WikiData/WD~Reversal_ritual,115755288]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q14616585,14616585]]"
-different_from: "[[_Standards/WikiData/WD~Faslam,48315612]]"
-instance_of: "[[_Standards/WikiData/WD~form_of_festival,108680062]]"
-depicted_by: "[[_Standards/WikiData/WD~Procession_of_the_Prince_Giovanni_Battista_Borghese_for_the_1664_Carnival_of_Rome,132397679]]"
-time_period: "[[_Standards/WikiData/WD~winter,1311]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q14616585,14616585]]'
+different_from: '[[_Standards/WikiData/WD~Faslam,48315612]]'
+instance_of: '[[_Standards/WikiData/WD~form_of_festival,108680062]]'
+depicted_by: '[[_Standards/WikiData/WD~Procession_of_the_Prince_Giovanni_Battista_Borghese_for_the_1664_Carnival_of_Rome,132397679]]'
+time_period: '[[_Standards/WikiData/WD~winter,1311]]'
 event_interval: 1
-OmegaWiki_Defined_Meaning: "1189958"
+OmegaWiki_Defined_Meaning: 1189958
 Commons_category: Carnivals
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DIOSESANCESTRALES%20HUGOMONCAYO2007%204.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Carnaval-article.ogg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Rio%20carnaval%20Wikivoyage%20banner%20002.jpg
-Dewey_Decimal_Classification: "394.25"
-P8189: "987007284886305171"
+Dewey_Decimal_Classification: 394.25
+P8189: 987007284886305171
 Krugosvet_article: teatr-i-kino/karnaval
 ---
 

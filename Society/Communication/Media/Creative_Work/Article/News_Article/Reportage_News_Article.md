@@ -4,20 +4,22 @@ aliases:
   - reportage_news_article
   - ReportageNewsArticle
   - is_a_reportage_news_article
+  - Reportage_News_Article
+  - Reportage News Article
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - reportage_news_article
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_reportage_news_article Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,44 +1,46 @@
 ---
-excludes: 
+aliases:
+  - FileClass~NewsMediaOrganization
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization
 fields:
-- id: k5qzmS
-  name: Masthead
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
-  type: MultiFile
-  path: ''
-- id: f7Mlwm
-  name: MissionCoveragePrioritiesPolicy
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
-  type: MultiFile
-  path: ''
-- id: AvrNC1
-  name: NoBylinesPolicy
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
-  type: MultiFile
-  path: ''
-- id: iMC6An
-  name: VerificationFactCheckingPolicy
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
-  type: MultiFile
-  path: ''
+  - id: k5qzmS
+    name: Masthead
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ''
+  - id: f7Mlwm
+    name: MissionCoveragePrioritiesPolicy
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ''
+  - id: AvrNC1
+    name: NoBylinesPolicy
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ''
+  - id: iMC6An
+    name: VerificationFactCheckingPolicy
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/NewsMediaOrganization
-- class/Thing/Organization/NewsMediaOrganization
-- is_a_/NewsMediaOrganization
-- schema-org/NewsMediaOrganization
+  - class/NewsMediaOrganization
+  - class/Thing/Organization/NewsMediaOrganization
+  - is_a_/NewsMediaOrganization
+  - schema-org/NewsMediaOrganization
 tags:
-- class/FileClass
-- class/NewsMediaOrganization
-- is_a_/NewsMediaOrganization
-- class/Thing/Organization/NewsMediaOrganization
+  - class/FileClass
+  - class/NewsMediaOrganization
+  - is_a_/NewsMediaOrganization
+  - class/Thing/Organization/NewsMediaOrganization
 version: 2.0
 ---
 

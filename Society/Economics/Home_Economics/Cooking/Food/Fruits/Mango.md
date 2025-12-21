@@ -22,26 +22,26 @@ color:
 food_energy: 70
 water_footprint: 1800
 PLU_code:
-  - "4315"
-  - "4314"
-  - "4313"
-  - "3488"
-  - "4316"
-OmegaWiki_Defined_Meaning: "395778"
+  - 4315
+  - 4314
+  - 4313
+  - 3488
+  - 4316
+OmegaWiki_Defined_Meaning: 395778
 Commons_gallery: Mango
 Commons_category: Mango
 USDA_NDB_number:
-  - "09436"
-  - "09176"
+  - 9436
+  - 9176
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mangos%20-%20single%20and%20halved.jpg
 Dewey_Decimal_Classification:
-  - "583.77"
-  - "634.44"
-  - "641.3444"
+  - 583.77
+  - 634.44
+  - 641.3444
 sectional_view:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Apple%20mango%20and%20cross%20section.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Mangifera%20foetida%20fruit%20longitudinal%20cut%20Pj%2020160311%20203342.JPG
-Amazon_com_browse_node: "6464959011"
+Amazon_com_browse_node: 6464959011
 Wolfram_Language_entity_code: Entity["FoodType", "Mango"]
 UNII: I629I3NR86
 Colon_Classification: J3751
@@ -49,7 +49,7 @@ Baidu_Tieba_name: 芒果
 Unicode_character: 🥭
 ---
 
-# [[Mango]]
+# [[Mango]] 🥭 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Mango,169|WD~Mango,169]]
 

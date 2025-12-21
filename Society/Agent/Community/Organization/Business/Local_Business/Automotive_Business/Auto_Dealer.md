@@ -4,20 +4,22 @@ aliases:
   - auto_dealer
   - AutoDealer
   - is_an_auto_dealer
+  - Auto_Dealer
+  - Auto Dealer
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - auto_dealer
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_auto_dealer Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

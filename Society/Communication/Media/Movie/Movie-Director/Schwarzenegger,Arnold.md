@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Arnold Schwarzenegger"
+  - Arnold Schwarzenegger
+  - Schwarzenegger,Arnold
 ---
 
 #has_/time_/started :: 1947-07-30 

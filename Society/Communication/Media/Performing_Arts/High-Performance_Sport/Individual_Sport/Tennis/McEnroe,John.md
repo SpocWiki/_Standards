@@ -2,6 +2,7 @@
 aliases:
   - John McEnroe
   - John_McEnroe
+  - McEnroe,John
 has_id_wikidata: Q16474
 ---
 

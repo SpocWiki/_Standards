@@ -4,21 +4,23 @@ aliases:
   - business_support
   - BusinessSupport
   - is_a_business_support
+  - Business_Support
+  - Business Support
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: GovernmentBenefitsType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - business_support
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_business_support Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

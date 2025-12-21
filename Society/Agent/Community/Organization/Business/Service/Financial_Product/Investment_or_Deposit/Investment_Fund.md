@@ -4,20 +4,22 @@ aliases:
   - investment_fund
   - InvestmentFund
   - is_an_investment_fund
+  - Investment_Fund
+  - Investment Fund
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - investment_fund
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_investment_fund Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

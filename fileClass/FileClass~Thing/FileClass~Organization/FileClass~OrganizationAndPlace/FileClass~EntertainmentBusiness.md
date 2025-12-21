@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~EntertainmentBusiness
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/EntertainmentBusiness
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness
-- is_an_/EntertainmentBusiness
-- schema-org/EntertainmentBusiness
+  - class/EntertainmentBusiness
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness
+  - is_an_/EntertainmentBusiness
+  - schema-org/EntertainmentBusiness
 tags:
-- class/FileClass
-- class/EntertainmentBusiness
-- '#is_an_/EntertainmentBusiness'
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness
+  - class/FileClass
+  - class/EntertainmentBusiness
+  - '#is_an_/EntertainmentBusiness'
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness
 version: 2.0
 ---
 

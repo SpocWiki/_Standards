@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Bhutan
+  - Bhután
+  - Bhoutan
+  - بوتان
+  - 不丹
+  - Бутан
+  - the Kingdom of Bhutan
+  - el Reino de Bhután
+has_id_wikidata: Q917
 instance_of:
   - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
   - "[[_Standards/WikiData/WD~kingdom,417175]]"
@@ -287,7 +297,6 @@ location:
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q917
 SpocWebEntityId: 26855
 isDeleted: false
 confidential: public
@@ -298,21 +307,12 @@ cssclasses:
   - Country
 publish: true
 title: Bhutan
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Bhutan
-  - Bhután
-  - Bhoutan
-  - بوتان
-  - 不丹
-  - Бутан
-  - the Kingdom of Bhutan
-  - el Reino de Bhután
+publishDate: ""
+expiryDate: ""
 Languages:
   - dz
 icon: flag-bt

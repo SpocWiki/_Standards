@@ -2,64 +2,65 @@
 aliases:
   - Cole Porter
   - Cole Albert Porter
+  - Porter,Cole
 has_id_wikidata: Q215120
-nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]"
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
 occupation:
-  - "[[_Standards/WikiData/WD~playwright,214917]]"
-  - "[[_Standards/WikiData/WD~pianist,486748]]"
-  - "[[_Standards/WikiData/WD~songwriter,753110]]"
-  - "[[_Standards/WikiData/WD~lyricist,822146]]"
-  - "[[_Standards/WikiData/WD~film_score_composer,1415090]]"
-  - "[[_Standards/WikiData/WD~art_collector,10732476]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
+  - '[[_Standards/WikiData/WD~playwright,214917]]'
+  - '[[_Standards/WikiData/WD~pianist,486748]]'
+  - '[[_Standards/WikiData/WD~songwriter,753110]]'
+  - '[[_Standards/WikiData/WD~lyricist,822146]]'
+  - '[[_Standards/WikiData/WD~film_score_composer,1415090]]'
+  - '[[_Standards/WikiData/WD~art_collector,10732476]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
 student_of:
   - "[[_Standards/WikiData/WD~Vincent_d'Indy,313584]]"
-  - "[[_Standards/WikiData/WD~Pietro_Yon,1426421]]"
-copyright_representative: "[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]"
-place_of_birth: "[[_Standards/WikiData/WD~Peru,386657]]"
-cause_of_death: "[[_Standards/WikiData/WD~kidney_failure,476921]]"
+  - '[[_Standards/WikiData/WD~Pietro_Yon,1426421]]'
+copyright_representative: '[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]'
+place_of_birth: '[[_Standards/WikiData/WD~Peru,386657]]'
+cause_of_death: '[[_Standards/WikiData/WD~kidney_failure,476921]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Q577011,577011]]"
-  - "[[_Standards/WikiData/WD~Cole,1899888]]"
+  - '[[_Standards/WikiData/WD~Q577011,577011]]'
+  - '[[_Standards/WikiData/WD~Cole,1899888]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Worcester_Academy,1256922]]"
-  - "[[_Standards/WikiData/WD~Schola_Cantorum_de_Paris,1407107]]"
-  - "[[_Standards/WikiData/WD~Harvard_University,13371]]"
-  - "[[_Standards/WikiData/WD~Yale_University,49112]]"
-  - "[[_Standards/WikiData/WD~Harvard_Law_School,49122]]"
+  - '[[_Standards/WikiData/WD~Worcester_Academy,1256922]]'
+  - '[[_Standards/WikiData/WD~Schola_Cantorum_de_Paris,1407107]]'
+  - '[[_Standards/WikiData/WD~Harvard_University,13371]]'
+  - '[[_Standards/WikiData/WD~Yale_University,49112]]'
+  - '[[_Standards/WikiData/WD~Harvard_Law_School,49122]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Night_and_Day,1477068]]"
-  - "[[_Standards/WikiData/WD~So_Near_and_Yet_so_Far,7549453]]"
+  - '[[_Standards/WikiData/WD~Night_and_Day,1477068]]'
+  - '[[_Standards/WikiData/WD~So_Near_and_Yet_so_Far,7549453]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Tony_Award_for_Best_Original_Score,1478089]]"
-  - "[[_Standards/WikiData/WD~Tony_Award_for_Best_Musical,1780176]]"
-  - "[[_Standards/WikiData/WD~Grammy_Trustees_Award,5593916]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-family_name: "[[_Standards/WikiData/WD~Porter,2105042]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Original_Score,1478089]]'
+  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Musical,1780176]]'
+  - '[[_Standards/WikiData/WD~Grammy_Trustees_Award,5593916]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+family_name: '[[_Standards/WikiData/WD~Porter,2105042]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~Irving_S._Gilmore_Music_Library,28042478]]"
-  - "[[_Standards/WikiData/WD~Stanford_University_Libraries_Department_of_Special_Collections_and_University_Archives,60339057]]"
-  - "[[_Standards/WikiData/WD~Library_of_Congress_Music_Division,98608837]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+  - '[[_Standards/WikiData/WD~Irving_S._Gilmore_Music_Library,28042478]]'
+  - '[[_Standards/WikiData/WD~Stanford_University_Libraries_Department_of_Special_Collections_and_University_Archives,60339057]]'
+  - '[[_Standards/WikiData/WD~Library_of_Congress_Music_Division,98608837]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Indiana_Authors_and_Their_Books,_1917_1966,117272481]]"
-  - "[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-place_of_burial: "[[_Standards/WikiData/WD~Mount_Hope_Cemetery,86023061]]"
-discography: "[[_Standards/WikiData/WD~Cole_Porter_discography,94522716]]"
-mother: "[[_Standards/WikiData/WD~Kate_Porter,104537529]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Indiana_Authors_and_Their_Books,_1917_1966,117272481]]'
+  - '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+place_of_burial: '[[_Standards/WikiData/WD~Mount_Hope_Cemetery,86023061]]'
+discography: '[[_Standards/WikiData/WD~Cole_Porter_discography,94522716]]'
+mother: '[[_Standards/WikiData/WD~Kate_Porter,104537529]]'
 date_of_birth: 1891-06-09T00:00:00Z
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-genre: "[[_Standards/WikiData/WD~musical,2743]]"
-instrument: "[[_Standards/WikiData/WD~piano,5994]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_death: "[[_Standards/WikiData/WD~Santa_Monica,47164]]"
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+genre: '[[_Standards/WikiData/WD~musical,2743]]'
+instrument: '[[_Standards/WikiData/WD~piano,5994]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_death: '[[_Standards/WikiData/WD~Santa_Monica,47164]]'
 Commons_Creator_page: Cole Porter
 Commons_category: Cole Porter
 Libris_URI: tr57b7vc1ml11tj
@@ -69,11 +70,11 @@ date_of_death: 1964-10-15T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Coleporter.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Coleportergrave.jpg
 official_website: http://www.coleporter.org/
-ISNI: "0000000108653610"
-IPI_name_number: "00024742104"
-U_S_National_Archives_Identifier: "10580242"
-Facebook_username: "154568127429"
-P8189: "987007266611405171"
+ISNI: 0000000108653610
+IPI_name_number: 00024742104
+U_S_National_Archives_Identifier: 10580242
+Facebook_username: 154568127429
+P8189: 987007266611405171
 Europeana_entity: agent/base/147047
 ---
 

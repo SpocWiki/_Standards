@@ -4,20 +4,21 @@ aliases:
   - body_of_water
   - BodyOfWater
   - is_a_body_of_water
+  - body of water
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - body_of_water
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_body_of_water Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

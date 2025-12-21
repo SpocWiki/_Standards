@@ -2,12 +2,13 @@
 aliases:
   - has-broadcast-channel
   - has_broadcast_channel
+  - has broadcast channel
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - channel
   - broadcast_channel
   - hasBroadcastChannel
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_broadcast_channel
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

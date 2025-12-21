@@ -1,24 +1,25 @@
 ---
 aliases:
   - Northern_Islands
+  - Northern Islands
 confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords:
+keywords: ''
 Languages:
   - de
-layout:
+layout: ''
 license: CC BY-SA 4.0
-linkTitle:
+linkTitle: ''
 location:
   - 16.36
   - 145.67
 publish: true
-publishDate:
+publishDate: ''
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region

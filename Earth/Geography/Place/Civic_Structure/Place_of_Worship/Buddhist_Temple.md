@@ -4,20 +4,22 @@ aliases:
   - buddhist_temple
   - BuddhistTemple
   - is_a_buddhist_temple
+  - Buddhist_Temple
+  - Buddhist Temple
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - buddhist_temple
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_buddhist_temple Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -4,21 +4,22 @@ aliases:
   - advance-booking-requirement
   - advanceBookingRequirement
   - has_value_for_advance_booking_requirement
+  - has value for advance booking requirement
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - advance-booking-requirement
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_advance-booking-requirement
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

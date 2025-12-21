@@ -5,14 +5,14 @@ aliases:
   - mobocracy
 has_id_wikidata: Q191031
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-instance_of: "[[_Standards/WikiData/WD~form_of_government,1307214]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~social_issue,1920219]]"
-  - "[[_Standards/WikiData/WD~political_system,28108]]"
-part_of: "[[_Standards/WikiData/WD~crowd_psychology_terminology,77716235]]"
+  - '[[_Standards/WikiData/WD~social_issue,1920219]]'
+  - '[[_Standards/WikiData/WD~political_system,28108]]'
+part_of: '[[_Standards/WikiData/WD~crowd_psychology_terminology,77716235]]'
 ---
 
 # [[Ochlocracy]] 

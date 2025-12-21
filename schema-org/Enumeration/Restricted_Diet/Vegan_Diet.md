@@ -4,21 +4,23 @@ aliases:
   - vegan_diet
   - VeganDiet
   - is_a_vegan_diet
+  - Vegan_Diet
+  - Vegan Diet
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: RestrictedDiet
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - vegan_diet
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_vegan_diet Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

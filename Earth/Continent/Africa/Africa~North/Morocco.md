@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Morocco
+  - Marruecos
+  - Maroc
+  - المغرب
+  - 摩洛哥
+  - Марокко
+  - the Kingdom of Morocco
+  - el Reino de Marruecos
+has_id_wikidata: Q1028
 named_after:
   - "[[_Standards/WikiData/WD~Marrakesh,101625]]"
   - "[[_Standards/WikiData/WD~Mauri_people,6792792]]"
@@ -324,7 +334,7 @@ native_label:
   - المغرب
   - المملكة المغربية
 short_name: 🇲🇦
-inception: "0789"
+inception: 789
 has_time_started: 0789-06
 UMLS_CUI: C0020822
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Morocco%20relief%20location%20map.jpg
@@ -394,7 +404,6 @@ urban_population:
   - 23753114
   - 24196351
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/A%C3%AFt%20Arbi%20%28Maroc%29%20banner%20Vall%C3%A9e%20des%20Gorges%20du%20Dad%C3%A8s.jpg
-has_id_wikidata: Q1028
 location:
   - 33.0225
   - -7.6125
@@ -411,21 +420,12 @@ cssclasses:
   - Country
 publish: true
 title: Morocco
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Morocco
-  - Marruecos
-  - Maroc
-  - المغرب
-  - 摩洛哥
-  - Марокко
-  - the Kingdom of Morocco
-  - el Reino de Marruecos
+publishDate: ""
+expiryDate: ""
 Languages:
   - ar-MA
   - ber

@@ -4,6 +4,7 @@ aliases:
   - Oscar Ribeiro de Almeida Niemeyer Soares Filho
   - Oscar Niemeyer
   - Niemeyer
+  - Niemeyer,Oscar
 has_id_wikidata: Q134165
 ---
 

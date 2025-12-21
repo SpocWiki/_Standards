@@ -1,6 +1,7 @@
 ---
 aliases:
-- Katakana
+  - Katakana
+  - Script~Kana
 ---
 
 Katakana Script is used in [[../../Earth/Continent/Asia/Asia~East/Japan|Japan]]. 

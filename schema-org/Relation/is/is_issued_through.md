@@ -4,22 +4,23 @@ aliases:
   - issued_through
   - issuedThrough
   - is_issued_through
+  - is issued through
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - issued
   - through
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_issued_through
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

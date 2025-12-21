@@ -2,18 +2,20 @@
 aliases:
   - Cooking oil
   - edible oil
+  - Cooking_Oil
+  - Cooking Oil
 has_id_wikidata: Q427457
-opposite_of: "[[_Standards/WikiData/WD~mineral_oil,583582]]"
-different_from: "[[_Standards/WikiData/WD~edible_fats_and_oils,912613]]"
+opposite_of: '[[_Standards/WikiData/WD~mineral_oil,583582]]'
+different_from: '[[_Standards/WikiData/WD~edible_fats_and_oils,912613]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~edible_fats_and_oils,912613]]"
-  - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
-  - "[[_Standards/WikiData/WD~oil,42962]]"
-OmegaWiki_Defined_Meaning: "1300436"
+  - '[[_Standards/WikiData/WD~edible_fats_and_oils,912613]]'
+  - '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+  - '[[_Standards/WikiData/WD~oil,42962]]'
+OmegaWiki_Defined_Meaning: 1300436
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Olive%20oil%20from%20Oneglia.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Oil%20in%20frying%20pan.png
-Amazon_com_browse_node: "16320331"
+Amazon_com_browse_node: 16320331
 Commons_category: Cooking oils
 Wolfram_Language_entity_code: Entity["FoodType", "Oil"]
 ---

@@ -2,6 +2,7 @@
 aliases:
   - Kanye West
   - Kanye Omari West
+  - West,Kanye
 ---
 
 # [[West,Kanye]] 

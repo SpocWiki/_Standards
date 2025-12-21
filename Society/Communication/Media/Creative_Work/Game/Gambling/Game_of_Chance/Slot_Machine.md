@@ -7,6 +7,8 @@ aliases:
   - pokie
   - One-Armed Bandit
   - Spielautomat
+  - Slot_Machine
+  - Slot Machine
 has_id_wikidata: Q33972
 location: "[[_Standards/WikiData/WD~casino,133215]]"
 instance_of:
@@ -20,7 +22,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~arcade_game,113726751]]"
   - "[[_Standards/WikiData/WD~game,11410]]"
 has_part_s_: "[[_Standards/WikiData/WD~lever,40164]]"
-Nomenclature_for_Museum_Cataloging: "14201"
+Nomenclature_for_Museum_Cataloging: 14201
 IMDb_keyword: slot-machine
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Spielautomat.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Slot%20machine.jpg
@@ -28,7 +30,7 @@ Unicode_character: 🎰
 Commons_category: Slot machines
 ---
 
-# [[Slot_Machine]] 
+# [[Slot_Machine]] 🎰 
 
 #is_/same_as :: [[WD~Slot_machine,33972]] 
 

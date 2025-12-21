@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _City_DB
+  - ' City DB'
 database_plugin: basic
 ---
 

@@ -1,5 +1,4 @@
 ---
-age_of_majority: 18
 aliases:
   - Maldives
   - Maldivas
@@ -8,6 +7,8 @@ aliases:
   - Мальдивские Острова
   - the Republic of Maldives
   - la República de Maldivas
+has_id_wikidata: Q826
+age_of_majority: 18
 anthem: "[[_Standards/WikiData/WD~Gaumiii_salaaam,660117]]"
 area: 298
 birth_rate:
@@ -135,7 +136,7 @@ emergency_phone_number:
   - "[[_Standards/WikiData/WD~119,2807090]]"
   - "[[_Standards/WikiData/WD~118,11185210]]"
   - "[[_Standards/WikiData/WD~102,25648798]]"
-expiryDate:
+expiryDate: ""
 female_population: 187698
 FIPS_10_4_countries_and_regions_: MV
 flag: "[[_Standards/WikiData/WD~flag_of_Maldives,169441]]"
@@ -146,7 +147,6 @@ Gini_coefficient: 29.3
 GitHub_topic: maldives
 hashtag: Maldives
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
-has_id_wikidata: Q826
 head_of_government: "[[_Standards/WikiData/WD~Mohamed_Muizzu,116293030]]"
 head_of_state: "[[_Standards/WikiData/WD~Mohamed_Muizzu,116293030]]"
 highest_point:
@@ -173,7 +173,7 @@ ISO_3166_1_alpha_3_code: MDV
 ISO_3166_1_numeric_code: 462
 isReadOnly: false
 ITU_letter_code: MLD
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/MALDIVI.html
 Languages:
   - dv
@@ -181,11 +181,11 @@ Languages:
 language_used:
   - "[[_Standards/WikiData/WD~English,1860]]"
   - "[[_Standards/WikiData/WD~Divehi,32656]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~People's_Majlis,650066]]"
 license: CC BY-SA 4.0
 life_expectancy: 77.339
-linkTitle:
+linkTitle: ""
 literacy_rate: 97.7
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~South_Asia,771405]]"
 located_in_time_zone:
@@ -253,7 +253,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9288%20%28heb%29-YaronSh-%D7%94%D7%90%D7%99%D7%99%D7%9D%20%D7%94%D7%9E%D7%9C%D7%93%D7%99%D7%91%D7%99%D7%99%D7%9D.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Maldive.wav
 publish: true
-publishDate:
+publishDate: ""
 religion_or_worldview: "[[_Standards/WikiData/WD~Sunni_Islam,483654]]"
 replaces:
   - "[[_Standards/WikiData/WD~United_Suvadive_Republic,150069]]"

@@ -7,28 +7,30 @@ aliases:
   - Lorenzo Medici
   - Lorenzo the Magnificent
   - Lorenzo il Magnifico
+  - Medici,Lorenzo_de
+  - Medici,Lorenzo de
 has_id_wikidata: Q177854
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~banker,806798]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~banker,806798]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
 child:
-  - "[[_Standards/WikiData/WD~Clement_VII,83159]]"
-  - "[[_Standards/WikiData/WD~Piero_the_Unfortunate,262212]]"
+  - '[[_Standards/WikiData/WD~Clement_VII,83159]]'
+  - '[[_Standards/WikiData/WD~Piero_the_Unfortunate,262212]]'
   - "[[_Standards/WikiData/WD~Giuliano_de'_Medici,_Duke_of_Nemours,333340]]"
   - "[[_Standards/WikiData/WD~Maddalena_de'_Medici,465166]]"
   - "[[_Standards/WikiData/WD~Lucrezia_de'_Medici,548314]]"
   - "[[_Standards/WikiData/WD~Contessina_de'_Medici,610743]]"
   - "[[_Standards/WikiData/WD~Luisa_de'_Medici,3840478]]"
-  - "[[_Standards/WikiData/WD~Leo_X,49237]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Republic_of_Florence,148540]]"
-family: "[[_Standards/WikiData/WD~House_of_Medici,170022]]"
+  - '[[_Standards/WikiData/WD~Leo_X,49237]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Republic_of_Florence,148540]]'
+family: '[[_Standards/WikiData/WD~House_of_Medici,170022]]'
 student_of:
-  - "[[_Standards/WikiData/WD~Marsilio_Ficino,192374]]"
+  - '[[_Standards/WikiData/WD~Marsilio_Ficino,192374]]'
   - "[[_Standards/WikiData/WD~Gentile_de'_Becchi,3760154]]"
-  - "[[_Standards/WikiData/WD~John_Argyropoulos,26648]]"
-spouse: "[[_Standards/WikiData/WD~Clarice_Orsini,261871]]"
+  - '[[_Standards/WikiData/WD~John_Argyropoulos,26648]]'
+spouse: '[[_Standards/WikiData/WD~Clarice_Orsini,261871]]'
 sibling:
   - "[[_Standards/WikiData/WD~Giuliano_de'_Medici,298877]]"
   - "[[_Standards/WikiData/WD~Bianca_de'_Medici,1089049]]"
@@ -37,31 +39,31 @@ sibling:
   - "[[_Standards/WikiData/WD~Maria_di_Piero_de'_Medici,3847629]]"
 father: "[[_Standards/WikiData/WD~Piero_di_Cosimo_de'_Medici,299663]]"
 owner_of:
-  - "[[_Standards/WikiData/WD~Villa_Medici,733389]]"
-  - "[[_Standards/WikiData/WD~Villa_Castello,2094778]]"
-residence: "[[_Standards/WikiData/WD~Palazzo_Medici_Riccardi,911047]]"
-place_of_death: "[[_Standards/WikiData/WD~Careggi,913109]]"
-mother: "[[_Standards/WikiData/WD~Lucrezia_Tornabuoni,1113645]]"
-place_of_burial: "[[_Standards/WikiData/WD~Medici_Chapels,1357573]]"
+  - '[[_Standards/WikiData/WD~Villa_Medici,733389]]'
+  - '[[_Standards/WikiData/WD~Villa_Castello,2094778]]'
+residence: '[[_Standards/WikiData/WD~Palazzo_Medici_Riccardi,911047]]'
+place_of_death: '[[_Standards/WikiData/WD~Careggi,913109]]'
+mother: '[[_Standards/WikiData/WD~Lucrezia_Tornabuoni,1113645]]'
+place_of_burial: '[[_Standards/WikiData/WD~Medici_Chapels,1357573]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Lucrezia_Donati,3839022]]"
-given_name: "[[_Standards/WikiData/WD~Lorenzo,4267021]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Medici,23039018]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Lucrezia_Donati,3839022]]'
+given_name: '[[_Standards/WikiData/WD~Lorenzo,4267021]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Medici,23039018]]'
 date_of_death: 1492-04-17T00:00:00Z
 depicted_by:
   - "[[_Standards/WikiData/WD~Portrait_of_Lorenzo_de'_Medici,61707613]]"
   - "[[_Standards/WikiData/WD~Lorenzo_de'_Medici,120307525]]"
 date_of_birth: 1449-01-10T00:00:00Z
-writing_language: "[[_Standards/WikiData/WD~Italian,652]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Italian,652]]"
-place_of_birth: "[[_Standards/WikiData/WD~Florence,2044]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+writing_language: '[[_Standards/WikiData/WD~Italian,652]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Italian,652]]'
+place_of_birth: '[[_Standards/WikiData/WD~Florence,2044]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_gallery: Lorenzo il Magnifico
 name:
   - Laurent de Médicis

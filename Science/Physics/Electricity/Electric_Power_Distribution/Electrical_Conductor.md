@@ -4,20 +4,21 @@ aliases:
   - elektrischer Leiter
   - Leiter
   - Conductor
+  - Electrical_Conductor
 has_id_wikidata: Q124291
 made_from_material:
-  - "[[_Standards/WikiData/WD~electrolyte,162908]]"
-  - "[[_Standards/WikiData/WD~graphite,5309]]"
-  - "[[_Standards/WikiData/WD~metal,11426]]"
-opposite_of: "[[_Standards/WikiData/WD~insulator,178150]]"
+  - '[[_Standards/WikiData/WD~electrolyte,162908]]'
+  - '[[_Standards/WikiData/WD~graphite,5309]]'
+  - '[[_Standards/WikiData/WD~metal,11426]]'
+opposite_of: '[[_Standards/WikiData/WD~insulator,178150]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~temperature_coefficient,898642]]"
-  - "[[_Standards/WikiData/WD~current_voltage_characteristic,1893753]]"
-  - "[[_Standards/WikiData/WD~electrical_conductivity,4593291]]"
+  - '[[_Standards/WikiData/WD~temperature_coefficient,898642]]'
+  - '[[_Standards/WikiData/WD~current_voltage_characteristic,1893753]]'
+  - '[[_Standards/WikiData/WD~electrical_conductivity,4593291]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-subclass_of: "[[_Standards/WikiData/WD~conductor,26717101]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+subclass_of: '[[_Standards/WikiData/WD~conductor,26717101]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stranded%20lamp%20wire.jpg
 IEV_number: 121-12-02
 Commons_category: Electrical conductors

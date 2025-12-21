@@ -2,11 +2,13 @@
 aliases:
   - Buddhist philosophy
   - Buddhistische Philosophie
+  - Buddhist_Philosophy
+  - Buddhist Philosophy
 has_id_wikidata: Q1001079
-subclass_of: "[[_Standards/WikiData/WD~religious_philosophy,2054106]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Buddhist_Philosophy_sidebar,99340903]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Buddhism,748]]"
-P8189: "987007541111005171"
+subclass_of: '[[_Standards/WikiData/WD~religious_philosophy,2054106]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Buddhist_Philosophy_sidebar,99340903]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Buddhism,748]]'
+P8189: 987007541111005171
 ---
 
 # [[Buddhist_Philosophy]] 

@@ -1,12 +1,15 @@
 ---
+aliases:
+  - Tristan_da_Cunha-Islands
+  - Tristan da Cunha-Islands
 confidential: public
 isDeleted: false
 location:
-- -15.9167
-- -5.71667
+  - -15.9167
+  - -5.71667
 SpocWebEntityId: 27015
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

@@ -1,23 +1,24 @@
 ---
 aliases:
   - Leutnant
+  - Lieutenant
 has_id_wikidata: Q186024
 next_higher_rank:
-  - "[[_Standards/WikiData/WD~senior_lieutenant,330459]]"
-  - "[[_Standards/WikiData/WD~captain,19100]]"
+  - '[[_Standards/WikiData/WD~senior_lieutenant,330459]]'
+  - '[[_Standards/WikiData/WD~captain,19100]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-subclass_of: "[[_Standards/WikiData/WD~junior_officer,1156796]]"
-next_lower_rank: "[[_Standards/WikiData/WD~sub_lieutenant,10918728]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~poruchik,15055248]]"
-NATO_code_for_grade: "[[_Standards/WikiData/WD~OF_1,18536818]]"
-honorific_prefix: "[[_Standards/WikiData/WD~Lieutenant,123564138]]"
-instance_of: "[[_Standards/WikiData/WD~military_rank,56019]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~junior_officer,1156796]]'
+next_lower_rank: '[[_Standards/WikiData/WD~sub_lieutenant,10918728]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~poruchik,15055248]]'
+NATO_code_for_grade: '[[_Standards/WikiData/WD~OF_1,18536818]]'
+honorific_prefix: '[[_Standards/WikiData/WD~Lieutenant,123564138]]'
+instance_of: '[[_Standards/WikiData/WD~military_rank,56019]]'
 IPA_transcription: /lɛfˈtɛnənt/
 Commons_category: Lieutenants
 female_form_of_label:

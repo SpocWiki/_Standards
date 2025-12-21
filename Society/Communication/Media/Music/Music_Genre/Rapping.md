@@ -6,26 +6,27 @@ aliases:
   - emceeing
   - MCing
   - Rap
+  - Rapping
 has_id_wikidata: Q6010
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~singing_style,112613966]]"
+  - '[[_Standards/WikiData/WD~music_genre,188451]]'
+  - '[[_Standards/WikiData/WD~art_movement,968159]]'
+  - '[[_Standards/WikiData/WD~singing_style,112613966]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~spoken_language,1322198]]"
-  - "[[_Standards/WikiData/WD~chant,1553339]]"
-opposite_of: "[[_Standards/WikiData/WD~patter_song,2058312]]"
+  - '[[_Standards/WikiData/WD~spoken_language,1322198]]'
+  - '[[_Standards/WikiData/WD~chant,1553339]]'
+opposite_of: '[[_Standards/WikiData/WD~patter_song,2058312]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~rapper,2252262]]"
-  - "[[_Standards/WikiData/WD~MC,73399344]]"
+  - '[[_Standards/WikiData/WD~rapper,2252262]]'
+  - '[[_Standards/WikiData/WD~MC,73399344]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~musical_performance,6942562]]"
-  - "[[_Standards/WikiData/WD~hip_hop,11401]]"
-part_of: "[[_Standards/WikiData/WD~hip_hop_subculture,12726073]]"
+  - '[[_Standards/WikiData/WD~musical_performance,6942562]]'
+  - '[[_Standards/WikiData/WD~hip_hop,11401]]'
+part_of: '[[_Standards/WikiData/WD~hip_hop_subculture,12726073]]'
 different_from:
-  - "[[_Standards/WikiData/WD~hip_hop,11401]]"
-  - "[[_Standards/WikiData/WD~tail,60960]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~hip_hop,11401]]'
+  - '[[_Standards/WikiData/WD~tail,60960]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 inception: 1970-01-01T00:00:00Z
 subreddit: rap
 social_media_followers: 941323
@@ -39,9 +40,9 @@ related_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Rakim%20at%20Paid%20Dues%202.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Snoop%20Dogg%202%2C%202011.jpg
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/HIP-HOP_REP.html
-OmegaWiki_Defined_Meaning: "1638397"
+OmegaWiki_Defined_Meaning: 1638397
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Razrfish%20-%20Mocassins.opus
-Dewey_Decimal_Classification: "781.649"
+Dewey_Decimal_Classification: 781.649
 Library_of_Congress_Classification: ML3918.R37
 ---
 

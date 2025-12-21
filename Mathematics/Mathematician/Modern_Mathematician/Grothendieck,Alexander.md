@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Alexander Grothendieck"
+  - Alexander Grothendieck
+  - Grothendieck,Alexander
 ---
 
 #has_/time_/started :: 1928-03-28 

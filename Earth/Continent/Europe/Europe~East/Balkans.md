@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Balkans
 has_id_wikidata: Q23522
 ---
 

@@ -2,20 +2,21 @@
 aliases:
   - Green tea
   - Grüner Tee
+  - Green_tea
 has_id_wikidata: Q484083
-natural_product_of_taxon: "[[_Standards/WikiData/WD~Camellia_sinensis,101815]]"
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Camellia_sinensis,101815]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~crude_drug,735160]]"
-  - "[[_Standards/WikiData/WD~herbal_medicinal_product,95997873]]"
-different_from: "[[_Standards/WikiData/WD~Q9390986,9390986]]"
+  - '[[_Standards/WikiData/WD~crude_drug,735160]]'
+  - '[[_Standards/WikiData/WD~herbal_medicinal_product,95997873]]'
+different_from: '[[_Standards/WikiData/WD~Q9390986,9390986]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~kampo_herb,27684991]]"
-  - "[[_Standards/WikiData/WD~tea_leaves,32022234]]"
-  - "[[_Standards/WikiData/WD~tea,6097]]"
-part_of: "[[_Standards/WikiData/WD~senkyuchachosan,27868307]]"
-LiverTox_likelihood_score: "[[_Standards/WikiData/WD~LiverTox_toxicity_likelihood_category_A,83283320]]"
-has_use: "[[_Standards/WikiData/WD~tea,6097]]"
-made_from_material: "[[_Standards/WikiData/WD~leaf,33971]]"
+  - '[[_Standards/WikiData/WD~kampo_herb,27684991]]'
+  - '[[_Standards/WikiData/WD~tea_leaves,32022234]]'
+  - '[[_Standards/WikiData/WD~tea,6097]]'
+part_of: '[[_Standards/WikiData/WD~senkyuchachosan,27868307]]'
+LiverTox_likelihood_score: '[[_Standards/WikiData/WD~LiverTox_toxicity_likelihood_category_A,83283320]]'
+has_use: '[[_Standards/WikiData/WD~tea,6097]]'
+made_from_material: '[[_Standards/WikiData/WD~leaf,33971]]'
 water_footprint: 8856
 Commons_category: Green tea
 native_label:

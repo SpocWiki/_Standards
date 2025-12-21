@@ -1,31 +1,32 @@
 ---
 aliases:
   - Reformed Christianity
+  - Calvinism
 has_id_wikidata: Q101849
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Presbyterianism,178169]]"
-  - "[[_Standards/WikiData/WD~Congregational_churches,1062789]]"
-  - "[[_Standards/WikiData/WD~Continental_Reformed_Protestantism,49830]]"
+  - '[[_Standards/WikiData/WD~Presbyterianism,178169]]'
+  - '[[_Standards/WikiData/WD~Congregational_churches,1062789]]'
+  - '[[_Standards/WikiData/WD~Continental_Reformed_Protestantism,49830]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Calvinism,5775505]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Calvinism,12126657]]"
-practiced_by: "[[_Standards/WikiData/WD~Reformed_pastor,56033776]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Calvinism,5775505]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Calvinism,12126657]]'
+practiced_by: '[[_Standards/WikiData/WD~Reformed_pastor,56033776]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Christianity,5043]]"
-subclass_of: "[[_Standards/WikiData/WD~Protestantism,23540]]"
-Dewey_Decimal_Classification: "285"
+  - '[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]'
+  - '[[_Standards/WikiData/WD~religion,9174]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
+subclass_of: '[[_Standards/WikiData/WD~Protestantism,23540]]'
+Dewey_Decimal_Classification: 285
 BHCL_UUID: fc7a514c-b212-4ede-9cc3-13cdc1d99d66
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ReformationWallGeneva.JPG
-U_S_National_Archives_Identifier: "10042751"
+U_S_National_Archives_Identifier: 10042751
 Provenio_UUID:
   - 71032021-cbe6-4a0b-96b4-a517929f51a4
   - 9adf6273-f3c8-4b16-8383-5579a5952750

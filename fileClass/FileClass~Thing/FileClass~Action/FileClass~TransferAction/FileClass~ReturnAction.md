@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ReturnAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 fields:
-- id: cYnFkQ
-  name: Recipient
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/Audience')"
-  type: MultiFile
-  path: ''
+  - id: cYnFkQ
+    name: Recipient
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ReturnAction
-- class/Thing/Action/TransferAction/ReturnAction
-- is_a_/ReturnAction
-- schema-org/ReturnAction
+  - class/ReturnAction
+  - class/Thing/Action/TransferAction/ReturnAction
+  - is_a_/ReturnAction
+  - schema-org/ReturnAction
 tags:
-- class/FileClass
-- class/ReturnAction
-- is_a_/ReturnAction
-- class/Thing/Action/TransferAction/ReturnAction
+  - class/FileClass
+  - class/ReturnAction
+  - is_a_/ReturnAction
+  - class/Thing/Action/TransferAction/ReturnAction
 version: 2.0
 ---
 

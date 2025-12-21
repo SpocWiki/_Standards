@@ -4,21 +4,23 @@ aliases:
   - paid_leave
   - PaidLeave
   - is_a_paid_leave
+  - Paid_Leave
+  - Paid Leave
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: GovernmentBenefitsType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - paid_leave
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_paid_leave Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

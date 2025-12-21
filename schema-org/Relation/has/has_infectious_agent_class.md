@@ -3,12 +3,13 @@ aliases:
   - has infectious-agent-class
   - infectiousAgentClass
   - has_infectious_agent_class
+  - has infectious agent class
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - infectious
   - agent
   - class
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_infectious_agent_class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

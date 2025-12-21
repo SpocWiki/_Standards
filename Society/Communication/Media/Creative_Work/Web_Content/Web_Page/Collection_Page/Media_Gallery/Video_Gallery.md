@@ -4,20 +4,22 @@ aliases:
   - video_gallery
   - VideoGallery
   - is_a_video_gallery
+  - Video_Gallery
+  - Video Gallery
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - video_gallery
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_video_gallery Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

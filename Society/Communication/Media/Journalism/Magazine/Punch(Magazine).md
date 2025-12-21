@@ -1,34 +1,35 @@
 ---
 aliases:
   - London Charivari
+  - Punch(Magazine)
 has_id_wikidata: Q849759
-editor: "[[_Standards/WikiData/WD~Mark_Lemon,680327]]"
+editor: '[[_Standards/WikiData/WD~Mark_Lemon,680327]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-founded_by: "[[_Standards/WikiData/WD~Henry_Mayhew,1227273]]"
-named_after: "[[_Standards/WikiData/WD~Punch,61314378]]"
+founded_by: '[[_Standards/WikiData/WD~Henry_Mayhew,1227273]]'
+named_after: '[[_Standards/WikiData/WD~Punch,61314378]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Punch,_Volume_I,109378623]]"
-  - "[[_Standards/WikiData/WD~Punch,_Volume_CXXIII,109378919]]"
-  - "[[_Standards/WikiData/WD~Punch,_Volume_129,109380213]]"
-  - "[[_Standards/WikiData/WD~Punch,_Volume_130,109383669]]"
-  - "[[_Standards/WikiData/WD~Punch,_Volume_Cxliv,109385031]]"
-  - "[[_Standards/WikiData/WD~Punch,_Volume_cxxxii,109483773]]"
-instance_of: "[[_Standards/WikiData/WD~satirical_magazine,111914189]]"
+  - '[[_Standards/WikiData/WD~Punch,_Volume_I,109378623]]'
+  - '[[_Standards/WikiData/WD~Punch,_Volume_CXXIII,109378919]]'
+  - '[[_Standards/WikiData/WD~Punch,_Volume_129,109380213]]'
+  - '[[_Standards/WikiData/WD~Punch,_Volume_130,109383669]]'
+  - '[[_Standards/WikiData/WD~Punch,_Volume_Cxliv,109385031]]'
+  - '[[_Standards/WikiData/WD~Punch,_Volume_cxxxii,109483773]]'
+instance_of: '[[_Standards/WikiData/WD~satirical_magazine,111914189]]'
 publication_date: 1841-07-17T00:00:00Z
 start_time: 1841-01-01T00:00:00Z
 inception: 1841-01-01T00:00:00Z
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-headquarters_location: "[[_Standards/WikiData/WD~London,84]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+headquarters_location: '[[_Standards/WikiData/WD~London,84]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 ISSN_L: 2365-6824
 ISSN:
   - 2365-6824
   - 2059-9293
-British_Library_system_number: "008549761"
+British_Library_system_number: 008549761
 official_website:
   - http://punch.uni-hd.de
   - http://www.ub.uni-heidelberg.de/helios/fachinfo/www/kunst/digilit/punch.html

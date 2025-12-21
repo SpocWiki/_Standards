@@ -2,40 +2,41 @@
 aliases:
   - Explosive chemical
   - explosive material
+  - Explosive
 has_id_wikidata: Q12870
 subclass_of:
-  - "[[_Standards/WikiData/WD~chemical_substance,79529]]"
-  - "[[_Standards/WikiData/WD~hazardous_substances,757138]]"
-  - "[[_Standards/WikiData/WD~energetic_material,5376832]]"
+  - '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+  - '[[_Standards/WikiData/WD~hazardous_substances,757138]]'
+  - '[[_Standards/WikiData/WD~energetic_material,5376832]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~explosion,179057]]"
-  - "[[_Standards/WikiData/WD~detonation,786054]]"
+  - '[[_Standards/WikiData/WD~explosion,179057]]'
+  - '[[_Standards/WikiData/WD~detonation,786054]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-has_use: "[[_Standards/WikiData/WD~detonation,786054]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+has_use: '[[_Standards/WikiData/WD~detonation,786054]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~brisance,899092]]"
-  - "[[_Standards/WikiData/WD~chemical_stability,903517]]"
-  - "[[_Standards/WikiData/WD~sensitivity_of_explosives,3738765]]"
-  - "[[_Standards/WikiData/WD~minimum_explosive_concentration,77569705]]"
+  - '[[_Standards/WikiData/WD~brisance,899092]]'
+  - '[[_Standards/WikiData/WD~chemical_stability,903517]]'
+  - '[[_Standards/WikiData/WD~sensitivity_of_explosives,3738765]]'
+  - '[[_Standards/WikiData/WD~minimum_explosive_concentration,77569705]]'
 different_from:
-  - "[[_Standards/WikiData/WD~explosive,911807]]"
-  - "[[_Standards/WikiData/WD~Materiał_wybuchowy,11771346]]"
-has_part_s_: "[[_Standards/WikiData/WD~explosophore,5421455]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]"
+  - '[[_Standards/WikiData/WD~explosive,911807]]'
+  - '[[_Standards/WikiData/WD~Materiał_wybuchowy,11771346]]'
+has_part_s_: '[[_Standards/WikiData/WD~explosophore,5421455]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]'
 Dewey_Decimal_Classification:
-  - "662"
-  - "662.2"
-OmegaWiki_Defined_Meaning: "1386"
-Common_Procurement_Vocabulary_code: "24600000"
-U_S_National_Archives_Identifier: "10637807"
+  - 662
+  - 662.2
+OmegaWiki_Defined_Meaning: 1386
+Common_Procurement_Vocabulary_code: 24600000
+U_S_National_Archives_Identifier: 10637807
 Commons_category: Explosives
 video: http://commons.wikimedia.org/wiki/Special:FilePath/17.%20%D0%95%D0%BA%D1%81%D0%BF%D0%BB%D0%BE%D0%B7%D0%B8%D0%B2%D0%BD%D0%B8%20%D1%81%D0%B2%D0%BE%D1%98%D1%81%D1%82%D0%B2%D0%B0%20%D0%BD%D0%B0%20%D1%82%D1%80%D0%B8%20%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D1%87%D0%BD%D0%B8%20%D1%82%D0%B8%D0%BF%D0%BE%D0%B2%D0%B8%20%D0%B5%D0%BA%D1%81%D0%BF%D0%BB%D0%BE%D0%B7%D0%B8%D0%B2%D0%B8.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/C4%20plastic%20explosive.jpg

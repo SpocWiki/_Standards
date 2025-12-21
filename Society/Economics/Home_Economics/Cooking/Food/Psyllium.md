@@ -3,6 +3,7 @@ aliases:
   - Flohsamenschalen
   - Isabgol
   - ispaghula
+  - Psyllium
 ---
 
 # [[Psyllium]] 

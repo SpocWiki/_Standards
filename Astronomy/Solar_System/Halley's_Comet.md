@@ -1,6 +1,7 @@
 ---
 aliases:
   - Halley's Comet
+  - Halley's_Comet
 has_id_wikidata: Q23054
 provisional_designation:
   - 1P/66 B1
@@ -9,32 +10,32 @@ provisional_designation:
   - 1P/837 F1
   - 1P/912 J1
   - 1P/989 N1
-  - "1301"
-  - "1066"
-  - "1145"
-  - "141"
-  - "218"
-  - "451"
-  - "66"
-  - "374"
-  - "530"
-  - "1531"
-  - "912"
-  - "1607"
-  - "295"
-  - "989"
-  - "684"
-  - "1682"
-  - "837"
-  - "1222"
-  - "607"
-  - "1456"
-  - "1378"
-  - "-239"
-  - "760"
-  - "-11"
-  - "-86"
-  - "-163"
+  - 1301
+  - 1066
+  - 1145
+  - 141
+  - 218
+  - 451
+  - 66
+  - 374
+  - 530
+  - 1531
+  - 912
+  - 1607
+  - 295
+  - 989
+  - 684
+  - 1682
+  - 837
+  - 1222
+  - 607
+  - 1456
+  - 1378
+  - -239
+  - 760
+  - -11
+  - -86
+  - -163
   - 1759 I
   - 1835 III
   - 1909c
@@ -71,27 +72,27 @@ Wolfram_Language_entity_code: Entity["Comet", "Comet1PHalley"]
 time_of_periapsis: 2446470.1488983454
 mean_anomaly: 274.1404919498392
 apoapsis: 35.28091967
-child_astronomical_body: "[[_Standards/WikiData/WD~Eta_Aquariids,249546]]"
-different_from: "[[_Standards/WikiData/WD~Halley,258114]]"
+child_astronomical_body: '[[_Standards/WikiData/WD~Eta_Aquariids,249546]]'
+different_from: '[[_Standards/WikiData/WD~Halley,258114]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~near_Earth_object,265392]]"
-  - "[[_Standards/WikiData/WD~periodic_comet,11416914]]"
-  - "[[_Standards/WikiData/WD~Halley_type_comet,11741560]]"
+  - '[[_Standards/WikiData/WD~near_Earth_object,265392]]'
+  - '[[_Standards/WikiData/WD~periodic_comet,11416914]]'
+  - '[[_Standards/WikiData/WD~Halley_type_comet,11741560]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~perihelion_passage,11638551]]"
-  - "[[_Standards/WikiData/WD~flyby,60323459]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~perihelion_passage,11638551]]'
+  - '[[_Standards/WikiData/WD~flyby,60323459]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 time_of_discovery_or_invention: -0465-01-01T00:00:00Z
 semi_major_axis_of_an_orbit: 17.92781774
 longitude_of_ascending_node: 59.11448293673941
 orbital_eccentricity: 0.967942791
-parent_astronomical_body: "[[_Standards/WikiData/WD~Sun,525]]"
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
 albedo: 0.04
 diameter: 11
 mass: 220
 absolute_magnitude: 5.5
 density: 850
-named_after: "[[_Standards/WikiData/WD~Edmond_Halley,47434]]"
+named_after: '[[_Standards/WikiData/WD~Edmond_Halley,47434]]'
 orbital_period: 27726.15005
 periapsis: 0.5747158
 argument_of_periapsis: 112.25779

@@ -2,12 +2,13 @@
 aliases:
   - has data-feed-element
   - has_data_feed_element
+  - has data feed element
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - element
   - data_feed_element
   - dataFeedElement
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_data_feed_element
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

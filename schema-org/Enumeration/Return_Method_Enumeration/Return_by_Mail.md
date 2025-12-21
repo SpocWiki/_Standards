@@ -4,21 +4,23 @@ aliases:
   - return_by_mail
   - ReturnByMail
   - is_a_return_by_mail
+  - Return_by_Mail
+  - Return by Mail
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: ReturnMethodEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - return_by_mail
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_return_by_mail Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

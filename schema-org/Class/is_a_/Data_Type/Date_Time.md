@@ -1,28 +1,30 @@
 ---
 aliases:
-- date-time
-- date_time
-- DateTime
-- is_a_date_time
+  - date-time
+  - date_time
+  - DateTime
+  - is_a_date_time
+  - Date_Time
+  - Date Time
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- date_time
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_date_time Class"
+  - date_time
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_a_date_time Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Class
-- schema-org/Class
-- class/data_type
-title: "is_a_date_time Class"
+  - class/Class
+  - schema-org/Class
+  - class/data_type
+title: is_a_date_time Class
 type: Type
 ---
 

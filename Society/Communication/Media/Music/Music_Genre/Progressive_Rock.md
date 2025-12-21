@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Progressive Rock
+  - Prog Rock
+  - Progressive_Rock
+has_id_wikidata: Q49451
 isDeleted: false
 isReadOnly: false
 MusicGenreId: 275
@@ -6,10 +11,6 @@ SpocWebEntityId: 114609
 tags:
   - music/genre
 type: musicGenre
-has_id_wikidata: Q49451
-aliases:
-  - Progressive Rock
-  - Prog Rock
 ---
 
 # [[Progressive_Rock]] 

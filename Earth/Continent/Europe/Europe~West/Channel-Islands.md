@@ -1,6 +1,8 @@
 ---
+aliases:
+  - Channel-Islands
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

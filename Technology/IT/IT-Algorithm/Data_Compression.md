@@ -4,24 +4,26 @@ aliases:
   - source coding
   - bit-rate reduction
   - compression
+  - Data_Compression
+  - Data Compression
 has_id_wikidata: Q2493
 has_use:
-  - "[[_Standards/WikiData/WD~transmission,118093]]"
-  - "[[_Standards/WikiData/WD~backup,194274]]"
+  - '[[_Standards/WikiData/WD~transmission,118093]]'
+  - '[[_Standards/WikiData/WD~backup,194274]]'
 uses:
-  - "[[_Standards/WikiData/WD~code,188889]]"
-  - "[[_Standards/WikiData/WD~algorithm,8366]]"
-instance_of: "[[_Standards/WikiData/WD~technical_process,500669]]"
+  - '[[_Standards/WikiData/WD~code,188889]]'
+  - '[[_Standards/WikiData/WD~algorithm,8366]]'
+instance_of: '[[_Standards/WikiData/WD~technical_process,500669]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~capacity_optimization,5034491]]"
-  - "[[_Standards/WikiData/WD~data_processing,6661985]]"
+  - '[[_Standards/WikiData/WD~capacity_optimization,5034491]]'
+  - '[[_Standards/WikiData/WD~data_processing,6661985]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Compression_formats,6719840]]"
-  - "[[_Standards/WikiData/WD~Template_Compression_methods,7646244]]"
-has_effect: "[[_Standards/WikiData/WD~compressed_file,11819729]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-OmegaWiki_Defined_Meaning: "703451"
-ACM_Classification_Code_2012_: "10002975"
+  - '[[_Standards/WikiData/WD~Template_Compression_formats,6719840]]'
+  - '[[_Standards/WikiData/WD~Template_Compression_methods,7646244]]'
+has_effect: '[[_Standards/WikiData/WD~compressed_file,11819729]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+OmegaWiki_Defined_Meaning: 703451
+ACM_Classification_Code_2012_: 10002975
 Stack_Exchange_tag: https://stackoverflow.com/tags/compression
 Commons_category: Data compression
 MeSH_tree_code:

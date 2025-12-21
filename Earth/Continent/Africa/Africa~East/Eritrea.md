@@ -7,6 +7,7 @@ aliases:
   - Эритрея
   - the State of Eritrea
   - el Estado de Eritrea
+has_id_wikidata: Q986
 anthem: "[[_Standards/WikiData/WD~Ertra,_Ertra,_Ertra,857605]]"
 area: 117600
 birth_rate:
@@ -124,7 +125,7 @@ emergency_phone_number:
   - "[[_Standards/WikiData/WD~114,2945964]]"
   - "[[_Standards/WikiData/WD~116,25648807]]"
   - "[[_Standards/WikiData/WD~113,25648804]]"
-expiryDate:
+expiryDate: ""
 female_population:
   - 1773958
   - 1802355
@@ -140,7 +141,6 @@ hashtag:
   - State-of-Eritrea
   - Eritrea
 has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
-has_id_wikidata: Q986
 has_time_started: 1993-05-24
 head_of_government: "[[_Standards/WikiData/WD~Isaias_Afwerki,57348]]"
 head_of_state: "[[_Standards/WikiData/WD~Isaias_Afwerki,57348]]"
@@ -163,7 +163,7 @@ ISO_3166_1_alpha_3_code: ERI
 ISO_3166_1_numeric_code: 232
 isReadOnly: false
 ITU_letter_code: ERI
-keywords:
+keywords: ""
 Krugosvet_article: strany_mira/ERITREYA.html
 Languages:
   - aa-ER
@@ -184,13 +184,13 @@ language_used:
   - "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
   - "[[_Standards/WikiData/WD~Blin,56491]]"
   - "[[_Standards/WikiData/WD~English,1860]]"
-layout:
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~National_Assembly,2094027]]"
 Libris_URI: khwzxfh35lb4g66
 licence_plate_code: ER
 license: CC BY-SA 4.0
 life_expectancy: 65.092
-linkTitle:
+linkTitle: ""
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~East_Africa,27407]]"
 located_in_time_zone:
   - "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
@@ -260,7 +260,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%87%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE.wav
 public_holiday: "[[_Standards/WikiData/WD~Independence_Day,10488275]]"
 publish: true
-publishDate:
+publishDate: ""
 rural_population:
   - 2074379
   - 2085623

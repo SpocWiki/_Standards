@@ -1,18 +1,20 @@
 ---
 aliases:
   - Gödel's_incompleteness_theorems
+  - Gödel's_Incompleteness_Theorems
+  - Gödel's Incompleteness Theorems
 has_id_wikidata: Q200787
-instance_of: "[[_Standards/WikiData/WD~theorem,65943]]"
-studied_by: "[[_Standards/WikiData/WD~foundations_of_mathematics,833585]]"
+instance_of: '[[_Standards/WikiData/WD~theorem,65943]]'
+studied_by: '[[_Standards/WikiData/WD~foundations_of_mathematics,833585]]'
 different_from: "[[_Standards/WikiData/WD~Gödel's_completeness_theorem,902052]]"
-part_of: "[[_Standards/WikiData/WD~list_of_theorems,944443]]"
+part_of: '[[_Standards/WikiData/WD~list_of_theorems,944443]]'
 has_part_s_:
   - "[[_Standards/WikiData/WD~Gödel's_second_incompleteness_theorem,1031460]]"
   - "[[_Standards/WikiData/WD~Godel's_first_incompleteness_theorem,62091930]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-proved_by: "[[_Standards/WikiData/WD~Kurt_Gödel,41390]]"
-named_after: "[[_Standards/WikiData/WD~Kurt_Gödel,41390]]"
-Dewey_Decimal_Classification: "511.3"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+proved_by: '[[_Standards/WikiData/WD~Kurt_Gödel,41390]]'
+named_after: '[[_Standards/WikiData/WD~Kurt_Gödel,41390]]'
+Dewey_Decimal_Classification: 511.3
 ---
 
 # [[Gödel's_Incompleteness_Theorems]] 

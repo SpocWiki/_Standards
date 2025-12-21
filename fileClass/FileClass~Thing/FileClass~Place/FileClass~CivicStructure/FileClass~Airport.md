@@ -1,29 +1,31 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Airport
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 fields:
-- id: sX1XOX
-  name: IataCode
-  options: {}
-  type: Input
-  path: ''
-- id: Rq30J5
-  name: IcaoCode
-  options: {}
-  type: Input
-  path: ''
+  - id: sX1XOX
+    name: IataCode
+    options: {}
+    type: Input
+    path: ''
+  - id: Rq30J5
+    name: IcaoCode
+    options: {}
+    type: Input
+    path: ''
 icon: plane-landing
 limit: 9
 mapWithTag: false
 tagNames:
-- class/Airport
-- class/Thing/Place/CivicStructure/Airport
-- is_an_/Airport
-- schema-org/Airport
+  - class/Airport
+  - class/Thing/Place/CivicStructure/Airport
+  - is_an_/Airport
+  - schema-org/Airport
 tags:
-- class/Airport
-- '#is_an_/Airport'
-- class/Thing/Place/CivicStructure/Airport
+  - class/Airport
+  - '#is_an_/Airport'
+  - class/Thing/Place/CivicStructure/Airport
 version: 2.0
 ---
 

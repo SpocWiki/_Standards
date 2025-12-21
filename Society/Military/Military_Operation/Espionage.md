@@ -1,25 +1,27 @@
 ---
+aliases:
+  - Espionage
 has_id_wikidata: Q165950
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~double_agent,1058375]]"
-  - "[[_Standards/WikiData/WD~covert_agent,5179297]]"
-  - "[[_Standards/WikiData/WD~spy,9352089]]"
-instance_of: "[[_Standards/WikiData/WD~violation_of_law,1456832]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~information_leak,2904148]]"
-subclass_of: "[[_Standards/WikiData/WD~clandestine_HUMINT,3782242]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Espionage,7419724]]"
+  - '[[_Standards/WikiData/WD~double_agent,1058375]]'
+  - '[[_Standards/WikiData/WD~covert_agent,5179297]]'
+  - '[[_Standards/WikiData/WD~spy,9352089]]'
+instance_of: '[[_Standards/WikiData/WD~violation_of_law,1456832]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~information_leak,2904148]]'
+subclass_of: '[[_Standards/WikiData/WD~clandestine_HUMINT,3782242]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Espionage,7419724]]'
 described_at_URL: https://wikispooks.com/wiki/Espionage
 IMDb_keyword: espionage
 Wikitribune_category: espionage
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Spies%20and%20secrets%20banner%20GCHQ%20Bude%20dishes.jpg
-MIL_STD_2525_Symbol_Identification_Code: "10014000001306000000"
-P8189: "987007553175405171"
+MIL_STD_2525_Symbol_Identification_Code: 10014000001306000000
+P8189: 987007553175405171
 Commons_category: Espionage
 Universal_Decimal_Classification: 341.326.12
 ---

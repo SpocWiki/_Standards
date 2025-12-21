@@ -3,77 +3,78 @@ aliases:
   - Ezra Weston Loomis Pound
   - Ezra Pound
   - Pound
+  - Pound,Ezra
 has_id_wikidata: Q163366
 child:
-  - "[[_Standards/WikiData/WD~Mary_de_Rachewiltz,137683]]"
-  - "[[_Standards/WikiData/WD~Omar_Pound,7089791]]"
+  - '[[_Standards/WikiData/WD~Mary_de_Rachewiltz,137683]]'
+  - '[[_Standards/WikiData/WD~Omar_Pound,7089791]]'
 occupation:
-  - "[[_Standards/WikiData/WD~economist,188094]]"
-  - "[[_Standards/WikiData/WD~translator,333634]]"
-  - "[[_Standards/WikiData/WD~journalist,1930187]]"
-  - "[[_Standards/WikiData/WD~radio_personality,2722764]]"
-  - "[[_Standards/WikiData/WD~literary_critic,4263842]]"
-  - "[[_Standards/WikiData/WD~literary_historian,13570226]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+  - '[[_Standards/WikiData/WD~economist,188094]]'
+  - '[[_Standards/WikiData/WD~translator,333634]]'
+  - '[[_Standards/WikiData/WD~journalist,1930187]]'
+  - '[[_Standards/WikiData/WD~radio_personality,2722764]]'
+  - '[[_Standards/WikiData/WD~literary_critic,4263842]]'
+  - '[[_Standards/WikiData/WD~literary_historian,13570226]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~composer,36834]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Bollingen_Prize,194944]]"
-  - "[[_Standards/WikiData/WD~Fellowship_of_the_Academy_of_American_Poets,94660580]]"
-member_of: "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]"
+  - '[[_Standards/WikiData/WD~Bollingen_Prize,194944]]'
+  - '[[_Standards/WikiData/WD~Fellowship_of_the_Academy_of_American_Poets,94660580]]'
+member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~National_Library_of_Wales,666063]]"
-  - "[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]"
-  - "[[_Standards/WikiData/WD~Princeton_University_Library,3297681]]"
-  - "[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]"
-  - "[[_Standards/WikiData/WD~Lilly_Library,6548368]]"
-  - "[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]"
-  - "[[_Standards/WikiData/WD~Stuart_A._Rose_Manuscript,_Archives,_and_Rare_Book_Library,72941560]]"
-spouse: "[[_Standards/WikiData/WD~Dorothy_Shakespear,751416]]"
+  - '[[_Standards/WikiData/WD~National_Library_of_Wales,666063]]'
+  - '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
+  - '[[_Standards/WikiData/WD~Princeton_University_Library,3297681]]'
+  - '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
+  - '[[_Standards/WikiData/WD~Lilly_Library,6548368]]'
+  - '[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]'
+  - '[[_Standards/WikiData/WD~Stuart_A._Rose_Manuscript,_Archives,_and_Rare_Book_Library,72941560]]'
+spouse: '[[_Standards/WikiData/WD~Dorothy_Shakespear,751416]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~UbuWeb,1145552]]"
+  - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-place_of_birth: "[[_Standards/WikiData/WD~Hailey,1517614]]"
-cause_of_death: "[[_Standards/WikiData/WD~gastrointestinal_system_disease,2300099]]"
-relative: "[[_Standards/WikiData/WD~Thaddeus_C._Pound,2408311]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+place_of_birth: '[[_Standards/WikiData/WD~Hailey,1517614]]'
+cause_of_death: '[[_Standards/WikiData/WD~gastrointestinal_system_disease,2300099]]'
+relative: '[[_Standards/WikiData/WD~Thaddeus_C._Pound,2408311]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Hamilton_College,3113011]]"
-  - "[[_Standards/WikiData/WD~University_of_Pennsylvania,49117]]"
-place_of_burial: "[[_Standards/WikiData/WD~Cemetery_of_San_Michele,3676942]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-personal_library_at: "[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-residence: "[[_Standards/WikiData/WD~Homer_Pound_House,14687074]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Iseult_Gonne,15303126]]"
-student_of: "[[_Standards/WikiData/WD~Herman_Vandenburg_Ames,15945076]]"
-given_name: "[[_Standards/WikiData/WD~Ezra,17642702]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Ezra_Pound,20339595]]"
-family_name: "[[_Standards/WikiData/WD~Pound,20997663]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-significant_person: "[[_Standards/WikiData/WD~Else_Seel,94514551]]"
-father: "[[_Standards/WikiData/WD~Homer_Loomis_Pound,101040253]]"
-mother: "[[_Standards/WikiData/WD~Isabel_Weston,101040263]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Harry_Ransom_Center,105936481]]"
+  - '[[_Standards/WikiData/WD~Hamilton_College,3113011]]'
+  - '[[_Standards/WikiData/WD~University_of_Pennsylvania,49117]]'
+place_of_burial: '[[_Standards/WikiData/WD~Cemetery_of_San_Michele,3676942]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+personal_library_at: '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+residence: '[[_Standards/WikiData/WD~Homer_Pound_House,14687074]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Iseult_Gonne,15303126]]'
+student_of: '[[_Standards/WikiData/WD~Herman_Vandenburg_Ames,15945076]]'
+given_name: '[[_Standards/WikiData/WD~Ezra,17642702]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Ezra_Pound,20339595]]'
+family_name: '[[_Standards/WikiData/WD~Pound,20997663]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+significant_person: '[[_Standards/WikiData/WD~Else_Seel,94514551]]'
+father: '[[_Standards/WikiData/WD~Homer_Loomis_Pound,101040253]]'
+mother: '[[_Standards/WikiData/WD~Isabel_Weston,101040263]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Harry_Ransom_Center,105936481]]'
 date_of_birth: 1885-10-30T00:00:00Z
-place_of_death: "[[_Standards/WikiData/WD~Venice,641]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-political_ideology: "[[_Standards/WikiData/WD~fascism,6223]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
+place_of_death: '[[_Standards/WikiData/WD~Venice,641]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+political_ideology: '[[_Standards/WikiData/WD~fascism,6223]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
 Commons_category: Ezra Pound
 DPLA_subject_term:
   - Ezra Loomis Pound
   - Pound, Ezra, 1885-1972
-U_S_National_Archives_Identifier: "10581148"
+U_S_National_Archives_Identifier: 10581148
 BHCL_UUID: 86d08926-8f08-4390-932d-abb6b4ae9472
 date_of_death: 1972-11-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ezra%20Pound%20by%20Alvin%20Langdon%20Coburn%2C%201913%2C%20collotype%20photograph%2C%20from%20the%20National%20Portrait%20Gallery%20-%20NPG-NPG%2078%2014Pound-000001.jpg
-ISNI: "0000000116087663"
+ISNI: 0000000116087663
 Libris_URI: 97mpqg4t1k2wz4t
 Europeana_entity: agent/base/146994
 Archival_Resource_Key: ark:/99166/w6650f4k

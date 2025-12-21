@@ -2,31 +2,32 @@
 aliases:
   - nighttime
   - Night
+  - Nighttime
 has_id_wikidata: Q575
 has_part_s_:
-  - "[[_Standards/WikiData/WD~twilight,164160]]"
-  - "[[_Standards/WikiData/WD~astronomical_night,73605035]]"
-  - "[[_Standards/WikiData/WD~overnight_hours,109667766]]"
-  - "[[_Standards/WikiData/WD~midnight,36402]]"
-follows: "[[_Standards/WikiData/WD~sunset,166564]]"
+  - '[[_Standards/WikiData/WD~twilight,164160]]'
+  - '[[_Standards/WikiData/WD~astronomical_night,73605035]]'
+  - '[[_Standards/WikiData/WD~overnight_hours,109667766]]'
+  - '[[_Standards/WikiData/WD~midnight,36402]]'
+follows: '[[_Standards/WikiData/WD~sunset,166564]]'
 followed_by:
-  - "[[_Standards/WikiData/WD~sunrise,193294]]"
-  - "[[_Standards/WikiData/WD~red_sky_at_morning,635954]]"
-  - "[[_Standards/WikiData/WD~morning,7722]]"
-has_characteristic: "[[_Standards/WikiData/WD~darkness,204170]]"
+  - '[[_Standards/WikiData/WD~sunrise,193294]]'
+  - '[[_Standards/WikiData/WD~red_sky_at_morning,635954]]'
+  - '[[_Standards/WikiData/WD~morning,7722]]'
+has_characteristic: '[[_Standards/WikiData/WD~darkness,204170]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-subclass_of: "[[_Standards/WikiData/WD~time_of_day,1260524]]"
-different_from: "[[_Standards/WikiData/WD~Lyle,2357973]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+subclass_of: '[[_Standards/WikiData/WD~time_of_day,1260524]]'
+different_from: '[[_Standards/WikiData/WD~Lyle,2357973]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Astronomy,8493596]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Time,13548104]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828600,22828600]]"
-part_of: "[[_Standards/WikiData/WD~day,573]]"
-opposite_of: "[[_Standards/WikiData/WD~daytime,52643]]"
-OmegaWiki_Defined_Meaning: "5486"
+  - '[[_Standards/WikiData/WD~WikiProject_Astronomy,8493596]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Time,13548104]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828600,22828600]]'
+part_of: '[[_Standards/WikiData/WD~day,573]]'
+opposite_of: '[[_Standards/WikiData/WD~daytime,52643]]'
+OmegaWiki_Defined_Meaning: 5486
 Commons_category: Night
 hashtag:
   - Goodnight

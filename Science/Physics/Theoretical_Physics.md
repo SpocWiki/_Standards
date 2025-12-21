@@ -2,17 +2,19 @@
 aliases:
   - Theoretische Physik
   - Theoretical physics
+  - Theoretical_Physics
+  - Theoretical Physics
 has_id_wikidata: Q18362
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~mathematical_physics,156495]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~mathematical_physics,156495]]'
 opposite_of:
-  - "[[_Standards/WikiData/WD~applied_physics,373065]]"
-  - "[[_Standards/WikiData/WD~experimental_physics,18366]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
-practiced_by: "[[_Standards/WikiData/WD~theoretical_physicist,19350898]]"
-part_of: "[[_Standards/WikiData/WD~physics,413]]"
-subclass_of: "[[_Standards/WikiData/WD~physics,413]]"
-Dewey_Decimal_Classification: "530.1"
-OmegaWiki_Defined_Meaning: "795609"
+  - '[[_Standards/WikiData/WD~applied_physics,373065]]'
+  - '[[_Standards/WikiData/WD~experimental_physics,18366]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
+practiced_by: '[[_Standards/WikiData/WD~theoretical_physicist,19350898]]'
+part_of: '[[_Standards/WikiData/WD~physics,413]]'
+subclass_of: '[[_Standards/WikiData/WD~physics,413]]'
+Dewey_Decimal_Classification: 530.1
+OmegaWiki_Defined_Meaning: 795609
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89cole%20de%20Physique%20des%20Houches%20%28Les%20Houches%20Physics%20School%29%20main%20lecture%20hall%201972.jpg
 Stack_Exchange_tag: https://hsm.stackexchange.com/tags/theoretical-physics
 Commons_category: Theoretical physics

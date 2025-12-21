@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~BusinessEvent
+excludes: ''
 extends: FileClass~Thing/FileClass~Event
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/BusinessEvent
-- class/Thing/Event/BusinessEvent
-- is_a_/BusinessEvent
-- schema-org/BusinessEvent
+  - class/BusinessEvent
+  - class/Thing/Event/BusinessEvent
+  - is_a_/BusinessEvent
+  - schema-org/BusinessEvent
 tags:
-- class/FileClass
-- class/BusinessEvent
-- is_a_/BusinessEvent
-- class/Thing/Event/BusinessEvent
+  - class/FileClass
+  - class/BusinessEvent
+  - is_a_/BusinessEvent
+  - class/Thing/Event/BusinessEvent
 version: 2.0
 ---
 

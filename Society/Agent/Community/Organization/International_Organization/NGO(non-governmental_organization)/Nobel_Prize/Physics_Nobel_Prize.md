@@ -1,7 +1,9 @@
 ---
 aliases:
-- "Nobel Prize in Physics"
-- "Nobelpriset i fysik"
+  - Nobel Prize in Physics
+  - Nobelpriset i fysik
+  - Physics_Nobel_Prize
+  - Physics Nobel Prize
 ---
 
 ## #has_/text_of_/abstract 

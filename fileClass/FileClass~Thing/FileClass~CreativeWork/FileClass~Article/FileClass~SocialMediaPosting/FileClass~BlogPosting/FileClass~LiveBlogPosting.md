@@ -1,40 +1,42 @@
 ---
-excludes: 
+aliases:
+  - FileClass~LiveBlogPosting
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting
 fields:
-- id: A3ZBCU
-  name: CoverageEndTime
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: DV4ARf
-  name: CoverageStartTime
-  options:
-    dateFormat: YYYY-MM-DD
-    defaultInsertAsLink: false
-  type: Date
-  path: ''
-- id: J1xxoo
-  name: LiveBlogUpdate
-  options:
-    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting')"
-  type: MultiFile
-  path: ''
+  - id: A3ZBCU
+    name: CoverageEndTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: DV4ARf
+    name: CoverageStartTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: false
+    type: Date
+    path: ''
+  - id: J1xxoo
+    name: LiveBlogUpdate
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/LiveBlogPosting
-- class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting/LiveBlogPosting
-- is_a_/LiveBlogPosting
-- schema-org/LiveBlogPosting
+  - class/LiveBlogPosting
+  - class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting/LiveBlogPosting
+  - is_a_/LiveBlogPosting
+  - schema-org/LiveBlogPosting
 tags:
-- class/FileClass
-- class/LiveBlogPosting
-- is_a_/LiveBlogPosting
-- class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting/LiveBlogPosting
+  - class/FileClass
+  - class/LiveBlogPosting
+  - is_a_/LiveBlogPosting
+  - class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting/LiveBlogPosting
 version: 2.0
 ---
 

@@ -1,18 +1,20 @@
 ---
 aliases:
   - Primärfarbe
+  - Primary_Color
+  - Primary Color
 has_id_wikidata: Q166902
-followed_by: "[[_Standards/WikiData/WD~secondary_color,373934]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q14358921,14358921]]"
-instance_of: "[[_Standards/WikiData/WD~triad,29430681]]"
+followed_by: '[[_Standards/WikiData/WD~secondary_color,373934]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q14358921,14358921]]'
+instance_of: '[[_Standards/WikiData/WD~triad,29430681]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Q60971377,60971377]]"
-  - "[[_Standards/WikiData/WD~primary_brand_color,98242249]]"
-subclass_of: "[[_Standards/WikiData/WD~color,1075]]"
+  - '[[_Standards/WikiData/WD~Q60971377,60971377]]'
+  - '[[_Standards/WikiData/WD~primary_brand_color,98242249]]'
+subclass_of: '[[_Standards/WikiData/WD~color,1075]]'
 color:
-  - "[[_Standards/WikiData/WD~blue,1088]]"
-  - "[[_Standards/WikiData/WD~green,3133]]"
-  - "[[_Standards/WikiData/WD~red,3142]]"
+  - '[[_Standards/WikiData/WD~blue,1088]]'
+  - '[[_Standards/WikiData/WD~green,3133]]'
+  - '[[_Standards/WikiData/WD~red,3142]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Paavarit-RGB-CMY.jpg
 Wolfram_Language_entity_code: Entity["Concept", "PrimaryColor::5yjnm"]
 Commons_category: Primary colors

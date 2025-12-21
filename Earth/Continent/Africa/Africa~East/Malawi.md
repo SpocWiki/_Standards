@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Malawi
+  - ملاوي
+  - 马拉维
+  - Малави
+  - the Republic of Malawi
+  - la República de Malawi
+has_id_wikidata: Q1020
 flag: "[[_Standards/WikiData/WD~flag_of_Malawi,103001]]"
 instance_of:
   - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
@@ -281,7 +289,6 @@ coordinates_of_northernmost_point: Point(33.0 -9.37)
 Unicode_character: 🇲🇼
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Malawi.svg
 coordinates_of_easternmost_point: Point(35.9185 -14.8954)
-has_id_wikidata: Q1020
 location:
   - -13.95
   - 33.7
@@ -298,19 +305,12 @@ cssclasses:
   - Country
 publish: true
 title: Malawi
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Malawi
-  - ملاوي
-  - 马拉维
-  - Малави
-  - the Republic of Malawi
-  - la República de Malawi
+publishDate: ""
+expiryDate: ""
 Languages:
   - ny
   - yao

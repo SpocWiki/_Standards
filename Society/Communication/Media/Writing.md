@@ -1,6 +1,7 @@
 ---
 aliases:
   - Schreiben
+  - Writing
 has_id_wikidata: Q37260
 uses:
   - "[[_Standards/WikiData/WD~writing_implement,121916]]"
@@ -33,16 +34,16 @@ described_by_source:
 has_use: "[[_Standards/WikiData/WD~communication,11024]]"
 used_by: "[[_Standards/WikiData/WD~human,5]]"
 practiced_by: "[[_Standards/WikiData/WD~writer,36180]]"
-U_S_National_Archives_Identifier: "10641060"
+U_S_National_Archives_Identifier: 10641060
 subreddit: writing
 Stack_Exchange_site_URL: https://writing.stackexchange.com/
-Dewey_Decimal_Classification: "652.1"
+Dewey_Decimal_Classification: 652.1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rosetta%20Stone.JPG
 Unicode_character:
   - ✍️
   - 🖎
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Writing%20with%20feltpen.ogg
-P8189: "987007529633305171"
+P8189: 987007529633305200
 UMLS_CUI: C0043266
 Krugosvet_article: gumanitarnye_nauki/lingvistika/PISMO.html
 MeSH_tree_code: L01.559.423.906
@@ -50,7 +51,7 @@ Commons_category: Writing
 Library_of_Congress_Classification: Z40-Z104.5
 ---
 
-# [[Writing]] 
+# [[Writing]] ✍️ 
 
 #has_/dual_ :: [[Reading]] 
 #is_/same_as :: [[../../../WikiData/WD~Writing,37260|WD~Writing,37260]] 

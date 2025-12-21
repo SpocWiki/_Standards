@@ -4,51 +4,52 @@ aliases:
   - Paavo Johannes Nurmi
   - Paavo Nurmi
   - Nurmi
+  - Nurmi,Paavo
 has_id_wikidata: Q101942
 nickname: Lentävä suomalainen
 birth_name: Paavo Johannes Nurmi
 date_of_death: 1973-10-02T00:00:00Z
 work_period_start_: 1914-01-01T00:00:00Z
-lifestyle: "[[_Standards/WikiData/WD~vegetarianism,83364]]"
+lifestyle: '[[_Standards/WikiData/WD~vegetarianism,83364]]'
 award_received:
-  - "[[_Standards/WikiData/WD~The_Great_Cross_of_Merit_of_Finnish_Sports_and_Culture_of_Physical_Exercise,741156]]"
-  - "[[_Standards/WikiData/WD~Knight_First_Class_of_the_Order_of_the_White_Rose_of_Finland,23774382]]"
-  - "[[_Standards/WikiData/WD~Knight_First_Class_of_the_Order_of_the_Lion_of_Finland,47338068]]"
-  - "[[_Standards/WikiData/WD~Finnish_Olympic_Cross_of_Merit,_First_Class,119009390]]"
-  - "[[_Standards/WikiData/WD~First_Class_Medal_of_the_Order_of_the_White_Rose_of_Finland,122093858]]"
-member_of_sports_team: "[[_Standards/WikiData/WD~Turun_Urheiluliitto,825456]]"
+  - '[[_Standards/WikiData/WD~The_Great_Cross_of_Merit_of_Finnish_Sports_and_Culture_of_Physical_Exercise,741156]]'
+  - '[[_Standards/WikiData/WD~Knight_First_Class_of_the_Order_of_the_White_Rose_of_Finland,23774382]]'
+  - '[[_Standards/WikiData/WD~Knight_First_Class_of_the_Order_of_the_Lion_of_Finland,47338068]]'
+  - '[[_Standards/WikiData/WD~Finnish_Olympic_Cross_of_Merit,_First_Class,119009390]]'
+  - '[[_Standards/WikiData/WD~First_Class_Medal_of_the_Order_of_the_White_Rose_of_Finland,122093858]]'
+member_of_sports_team: '[[_Standards/WikiData/WD~Turun_Urheiluliitto,825456]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Paavo,2045089]]"
-  - "[[_Standards/WikiData/WD~Johannes,2117521]]"
+  - '[[_Standards/WikiData/WD~Paavo,2045089]]'
+  - '[[_Standards/WikiData/WD~Johannes,2117521]]'
 occupation:
-  - "[[_Standards/WikiData/WD~long_distance_runner,4439155]]"
-  - "[[_Standards/WikiData/WD~athletics_competitor,11513337]]"
-  - "[[_Standards/WikiData/WD~marathon_runner,13382460]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-place_of_burial: "[[_Standards/WikiData/WD~Turku_Cemetery,7855547]]"
-family_name: "[[_Standards/WikiData/WD~Nurmi,21513081]]"
+  - '[[_Standards/WikiData/WD~long_distance_runner,4439155]]'
+  - '[[_Standards/WikiData/WD~athletics_competitor,11513337]]'
+  - '[[_Standards/WikiData/WD~marathon_runner,13382460]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+place_of_burial: '[[_Standards/WikiData/WD~Turku_Cemetery,7855547]]'
+family_name: '[[_Standards/WikiData/WD~Nurmi,21513081]]'
 date_of_birth: 1897-06-13T00:00:00Z
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Finnish,1412]]"
-  - "[[_Standards/WikiData/WD~Swedish,9027]]"
-sport: "[[_Standards/WikiData/WD~athletics,542]]"
-place_of_death: "[[_Standards/WikiData/WD~Helsinki,1757]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Finland,33]]"
-country_for_sport: "[[_Standards/WikiData/WD~Finland,33]]"
+  - '[[_Standards/WikiData/WD~Latin,397]]'
+  - '[[_Standards/WikiData/WD~Finnish,1412]]'
+  - '[[_Standards/WikiData/WD~Swedish,9027]]'
+sport: '[[_Standards/WikiData/WD~athletics,542]]'
+place_of_death: '[[_Standards/WikiData/WD~Helsinki,1757]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Finland,33]]'
+country_for_sport: '[[_Standards/WikiData/WD~Finland,33]]'
 mass: 65
 height: 174
-place_of_birth: "[[_Standards/WikiData/WD~Turku,38511]]"
-residence: "[[_Standards/WikiData/WD~Turku,38511]]"
-sports_discipline_competed_in: "[[_Standards/WikiData/WD~marathon,40244]]"
+place_of_birth: '[[_Standards/WikiData/WD~Turku,38511]]'
+residence: '[[_Standards/WikiData/WD~Turku,38511]]'
+sports_discipline_competed_in: '[[_Standards/WikiData/WD~marathon,40244]]'
 Commons_gallery: Paavo Nurmi
 Commons_category: Paavo Nurmi
 name_in_native_language: Paavo Nurmi
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Fi-Paavo%20Nurmi.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Paavo%20Nurmi%20%28Antwerp%201920%29.jpg
-ISNI: "0000000039979739"
-Munzinger_Sport_number: "01000050056"
+ISNI: 0000000039979739
+Munzinger_Sport_number: 01000050056
 pseudonym: El Finlandès volador
 ---
 

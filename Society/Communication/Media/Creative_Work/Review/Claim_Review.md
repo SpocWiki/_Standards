@@ -4,20 +4,22 @@ aliases:
   - claim_review
   - ClaimReview
   - is_a_claim_review
+  - Claim_Review
+  - Claim Review
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - claim_review
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_claim_review Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

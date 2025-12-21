@@ -4,21 +4,23 @@ aliases:
   - significance
   - significance
   - has_text_of_significance
+  - has_significance
+  - has significance
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - significance
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_significance
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

@@ -1,31 +1,33 @@
 ---
-excludes: 
+aliases:
+  - FileClass~WarrantyPromise
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-- id: AWlW8G
-  name: DurationOfWarranty
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
-  type: MultiFile
-  path: ''
-- id: vjan04
-  name: WarrantyScope
-  options: {}
-  type: Input
-  path: ''
+  - id: AWlW8G
+    name: DurationOfWarranty
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ''
+  - id: vjan04
+    name: WarrantyScope
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/WarrantyPromise
-- class/Thing/Intangible/StructuredValue/WarrantyPromise
-- is_a_/WarrantyPromise
-- schema-org/WarrantyPromise
+  - class/WarrantyPromise
+  - class/Thing/Intangible/StructuredValue/WarrantyPromise
+  - is_a_/WarrantyPromise
+  - schema-org/WarrantyPromise
 tags:
-- class/FileClass
-- class/WarrantyPromise
-- is_a_/WarrantyPromise
-- class/Thing/Intangible/StructuredValue/WarrantyPromise
+  - class/FileClass
+  - class/WarrantyPromise
+  - is_a_/WarrantyPromise
+  - class/Thing/Intangible/StructuredValue/WarrantyPromise
 version: 2.0
 ---
 

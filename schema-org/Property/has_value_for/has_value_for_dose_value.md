@@ -4,21 +4,23 @@ aliases:
   - dose-value
   - doseValue
   - has_value_for_dose
+  - has_value_for_dose_value
+  - has value for dose value
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - dose-value
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_dose-value
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

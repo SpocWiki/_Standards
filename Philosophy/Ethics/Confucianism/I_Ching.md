@@ -2,33 +2,35 @@
 aliases:
   - Yijing
   - 易經
+  - I_Ching
+  - I Ching
 has_id_wikidata: Q181937
-derivative_work: "[[_Standards/WikiData/WD~Ten_Wings,184529]]"
-creator: "[[_Standards/WikiData/WD~Fuxi,236972]]"
-author: "[[_Standards/WikiData/WD~Fuxi,236972]]"
+derivative_work: '[[_Standards/WikiData/WD~Ten_Wings,184529]]'
+creator: '[[_Standards/WikiData/WD~Fuxi,236972]]'
+author: '[[_Standards/WikiData/WD~Fuxi,236972]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - '[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Chinese_classics,576921]]"
-  - "[[_Standards/WikiData/WD~Five_Classics,1148214]]"
-  - "[[_Standards/WikiData/WD~Three_Books_of_Changes,10866092]]"
+  - '[[_Standards/WikiData/WD~Chinese_classics,576921]]'
+  - '[[_Standards/WikiData/WD~Five_Classics,1148214]]'
+  - '[[_Standards/WikiData/WD~Three_Books_of_Changes,10866092]]'
 main_subject:
-  - "[[_Standards/WikiData/WD~divination,1043197]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
+  - '[[_Standards/WikiData/WD~divination,1043197]]'
+  - '[[_Standards/WikiData/WD~philosophy,5891]]'
 genre:
-  - "[[_Standards/WikiData/WD~divination,1043197]]"
-  - "[[_Standards/WikiData/WD~cosmology,338]]"
+  - '[[_Standards/WikiData/WD~divination,1043197]]'
+  - '[[_Standards/WikiData/WD~cosmology,338]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~divination,1043197]]"
-  - "[[_Standards/WikiData/WD~literary_work,7725634]]"
-has_use: "[[_Standards/WikiData/WD~I_Ching_divination,1987140]]"
-studied_by: "[[_Standards/WikiData/WD~I_Ching_studies,3738441]]"
-has_edition_or_translation: "[[_Standards/WikiData/WD~Q76730987,76730987]]"
+  - '[[_Standards/WikiData/WD~divination,1043197]]'
+  - '[[_Standards/WikiData/WD~literary_work,7725634]]'
+has_use: '[[_Standards/WikiData/WD~I_Ching_divination,1987140]]'
+studied_by: '[[_Standards/WikiData/WD~I_Ching_studies,3738441]]'
+has_edition_or_translation: '[[_Standards/WikiData/WD~Q76730987,76730987]]'
 earliest_date: -1000-01-01T00:00:00Z
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~Old_Chinese,35137]]"
-country_of_origin: "[[_Standards/WikiData/WD~Zhou_dynasty,35216]]"
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Old_Chinese,35137]]'
+country_of_origin: '[[_Standards/WikiData/WD~Zhou_dynasty,35216]]'
 BISAC_Subject_Heading: OCC038000
 title:
   - 周易

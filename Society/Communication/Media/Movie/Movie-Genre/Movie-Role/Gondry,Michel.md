@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Michel Gondry"
+  - Michel Gondry
+  - Gondry,Michel
 ---
 
 ## #has_/text_of_/abstract 

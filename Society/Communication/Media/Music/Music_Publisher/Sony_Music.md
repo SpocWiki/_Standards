@@ -2,14 +2,15 @@
 aliases:
   - Sony Music Entertainment
   - Sony Music
+  - Sony_Music
 has_id_wikidata: Q330629
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-different_from: "[[_Standards/WikiData/WD~Sony_Music,56760250]]"
-operator: "[[_Standards/WikiData/WD~Sony_Music,56760250]]"
-discography: "[[_Standards/WikiData/WD~Sony_Music_catalog,105047442]]"
-instance_of: "[[_Standards/WikiData/WD~record_label,18127]]"
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+different_from: '[[_Standards/WikiData/WD~Sony_Music,56760250]]'
+operator: '[[_Standards/WikiData/WD~Sony_Music,56760250]]'
+discography: '[[_Standards/WikiData/WD~Sony_Music_catalog,105047442]]'
+instance_of: '[[_Standards/WikiData/WD~record_label,18127]]'
 social_media_followers: 62071
-Labelcode: "06667"
+Labelcode: 06667
 inception: 1991-01-01T00:00:00Z
 name: Sony Music
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Music%20Entertainment%20Logo%202023.svg

@@ -1,28 +1,29 @@
 ---
 aliases:
-- domain_includes
-- domainIncludes
-- has_domain_includes
-- has_domain
-- "rdfs:domain"
+  - domain_includes
+  - domainIncludes
+  - has_domain_includes
+  - has_domain
+  - rdfs:domain
+  - has domain
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- domain
-- includes
-layout: 
-license: "CC BY-SA 4.0"
+  - domain
+  - includes
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_domain_includes
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- schema-org/Relation
+  - schema-org/Relation
 title: has_domain
 type: Predi_Relation
 ---

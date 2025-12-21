@@ -1,6 +1,8 @@
 ---
 aliases:
   - Wärmeleitfähigkeit
+  - Thermal_Conductivity
+  - Thermal Conductivity
 has_id_wikidata: Q487005
 subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
@@ -41,8 +43,8 @@ Commons_category:
   - Heat conduction
   - Thermal conductivity
 Dewey_Decimal_Classification:
-  - "536.2012"
-  - "620.11296"
+  - 536.2012
+  - 620.11296
 ---
 
 # [[Thermal_Conductivity]] 

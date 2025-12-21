@@ -1,43 +1,45 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ListItem
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: xkerYo
-  name: Item
-  options:
-    dvQueryString: "dv.pages('#class/Thing')"
-  type: MultiFile
-  path: ''
-- id: Gk4n9Q
-  name: NextItem
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/ListItem')"
-  type: MultiFile
-  path: ''
-- id: 6yfE6F
-  name: Position
-  options: {}
-  type: Number
-  path: ''
-- id: RXta2m
-  name: PreviousItem
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/ListItem')"
-  type: MultiFile
-  path: ''
+  - id: xkerYo
+    name: Item
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ''
+  - id: Gk4n9Q
+    name: NextItem
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ListItem')
+    type: MultiFile
+    path: ''
+  - id: 6yfE6F
+    name: Position
+    options: {}
+    type: Number
+    path: ''
+  - id: RXta2m
+    name: PreviousItem
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ListItem')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ListItem
-- class/Thing/Intangible/ListItem
-- is_a_/ListItem
-- schema-org/ListItem
+  - class/ListItem
+  - class/Thing/Intangible/ListItem
+  - is_a_/ListItem
+  - schema-org/ListItem
 tags:
-- class/FileClass
-- class/ListItem
-- is_a_/ListItem
-- class/Thing/Intangible/ListItem
+  - class/FileClass
+  - class/ListItem
+  - is_a_/ListItem
+  - class/Thing/Intangible/ListItem
 version: 2.0
 ---
 

@@ -4,23 +4,25 @@ aliases:
   - postal_code_begin
   - postalCodeBegin
   - has_text_of_postal_code_begin
+  - has_postal_code_begin
+  - has postal code begin
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - postal
   - code
   - begin
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_postal_code_begin
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

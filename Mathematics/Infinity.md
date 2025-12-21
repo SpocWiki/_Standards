@@ -1,29 +1,31 @@
 ---
+aliases:
+  - Infinity
+has_id_wikidata: Q205
 Commons_category: Infinity
 described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units___Part_2__Mathematics,109490582]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units___Part_2__Mathematics,109490582]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Dewey_Decimal_Classification: 111.6
-different_from: "[[_Standards/WikiData/WD~infinity_symbol,6030066]]"
-facet_of: "[[_Standards/WikiData/WD~infinity,1405962]]"
-has_id_wikidata: Q205
+different_from: '[[_Standards/WikiData/WD~infinity_symbol,6030066]]'
+facet_of: '[[_Standards/WikiData/WD~infinity,1405962]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Infinite.svg
-instance_of: "[[_Standards/WikiData/WD~mathematical_concept,24034552]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-notation: "[[_Standards/WikiData/WD~infinity_symbol,6030066]]"
+instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+notation: '[[_Standards/WikiData/WD~infinity_symbol,6030066]]'
 OmegaWiki_Defined_Meaning: 968848
 opposite_of:
-  - "[[_Standards/WikiData/WD~infinitesimal,193885]]"
-  - "[[_Standards/WikiData/WD~zero,204]]"
+  - '[[_Standards/WikiData/WD~infinitesimal,193885]]'
+  - '[[_Standards/WikiData/WD~zero,204]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~division_by_zero,848539]]"
-  - "[[_Standards/WikiData/WD~infinity,1405962]]"
-  - "[[_Standards/WikiData/WD~semi-infinite,7449306]]"
-subclass_of: "[[_Standards/WikiData/WD~cardinality,4049983]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infinity,15603314]]"
+  - '[[_Standards/WikiData/WD~division_by_zero,848539]]'
+  - '[[_Standards/WikiData/WD~infinity,1405962]]'
+  - '[[_Standards/WikiData/WD~semi-infinite,7449306]]'
+subclass_of: '[[_Standards/WikiData/WD~cardinality,4049983]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infinity,15603314]]'
 ---
 
 # [[Infinity]] 

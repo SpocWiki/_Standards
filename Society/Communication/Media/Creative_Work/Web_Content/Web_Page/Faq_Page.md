@@ -4,20 +4,22 @@ aliases:
   - faq_page
   - FAQPage
   - is_a_faq_page
+  - Faq_Page
+  - Faq Page
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - faq_page
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_faq_page Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

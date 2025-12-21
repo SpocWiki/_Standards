@@ -1,6 +1,7 @@
 ---
 aliases:
   - Atlas
+  - Atlas(Mythology)
 ---
 
 # [[Atlas(Mythology)]] 

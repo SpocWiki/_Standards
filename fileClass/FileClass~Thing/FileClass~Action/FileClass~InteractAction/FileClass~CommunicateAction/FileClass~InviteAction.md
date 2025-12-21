@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~InviteAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 fields:
-- id: T7Mdfq
-  name: Events
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Event')"
-  type: MultiFile
-  path: ''
+  - id: T7Mdfq
+    name: Events
+    options:
+      dvQueryString: dv.pages('#class/Thing/Event')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/InviteAction
-- class/Thing/Action/InteractAction/CommunicateAction/InviteAction
-- is_an_/InviteAction
-- schema-org/InviteAction
+  - class/InviteAction
+  - class/Thing/Action/InteractAction/CommunicateAction/InviteAction
+  - is_an_/InviteAction
+  - schema-org/InviteAction
 tags:
-- class/FileClass
-- class/InviteAction
-- '#is_an_/InviteAction'
-- class/Thing/Action/InteractAction/CommunicateAction/InviteAction
+  - class/FileClass
+  - class/InviteAction
+  - '#is_an_/InviteAction'
+  - class/Thing/Action/InteractAction/CommunicateAction/InviteAction
 version: 2.0
 ---
 

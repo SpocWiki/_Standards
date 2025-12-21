@@ -2,6 +2,7 @@
 aliases:
   - Presentation Program
   - presentation software
+  - SW~Presentation
 has_id_wikidata: Q2115026
 ---
 

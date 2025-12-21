@@ -1,24 +1,25 @@
 ---
 aliases:
   - Supraleitfähigkeit
+  - Superconductivity
 has_id_wikidata: Q124131
 studied_by:
-  - "[[_Standards/WikiData/WD~materials_science,228736]]"
-  - "[[_Standards/WikiData/WD~BCS_theory,722131]]"
-  - "[[_Standards/WikiData/WD~cryophysics,908692]]"
+  - '[[_Standards/WikiData/WD~materials_science,228736]]'
+  - '[[_Standards/WikiData/WD~BCS_theory,722131]]'
+  - '[[_Standards/WikiData/WD~cryophysics,908692]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_state,230855]]"
-  - "[[_Standards/WikiData/WD~electrical_conductivity,4593291]]"
+  - '[[_Standards/WikiData/WD~physical_state,230855]]'
+  - '[[_Standards/WikiData/WD~electrical_conductivity,4593291]]'
 different_from:
-  - "[[_Standards/WikiData/WD~color_superconductivity,1396451]]"
-  - "[[_Standards/WikiData/WD~superconductor,16331841]]"
+  - '[[_Standards/WikiData/WD~color_superconductivity,1396451]]'
+  - '[[_Standards/WikiData/WD~superconductor,16331841]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~macroscopic_quantum_phenomena,3457198]]"
-  - "[[_Standards/WikiData/WD~type_of_property,96253971]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Superconductivity,123383284]]"
-U_S_National_Archives_Identifier: "10675917"
-OmegaWiki_Defined_Meaning: "426523"
-Basisklassifikation: "33.74"
+  - '[[_Standards/WikiData/WD~macroscopic_quantum_phenomena,3457198]]'
+  - '[[_Standards/WikiData/WD~type_of_property,96253971]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Superconductivity,123383284]]'
+U_S_National_Archives_Identifier: 10675917
+OmegaWiki_Defined_Meaning: 426523
+Basisklassifikation: 33.74
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Flyingsuperconductor.ogv
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A4%E0%A6%BE.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Magnet%204.jpg
@@ -27,7 +28,7 @@ UMLS_CUI: C0597544
 MeSH_tree_code: G01.358.500.875
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/SVERHPROVODIMOST.html
 Commons_category: Superconductivity
-Dewey_Decimal_Classification: "537.623"
+Dewey_Decimal_Classification: 537.623
 ---
 
 # [[Superconductivity]] 

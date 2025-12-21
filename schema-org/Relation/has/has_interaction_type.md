@@ -3,23 +3,24 @@ aliases:
   - has interaction-type
   - interactionType
   - has_interaction_type
+  - has interaction type
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - interaction_type
   - interaction
   - type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_interaction_type
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

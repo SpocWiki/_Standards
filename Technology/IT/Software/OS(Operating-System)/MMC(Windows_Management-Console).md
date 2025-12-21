@@ -1,26 +1,27 @@
 ---
 aliases:
-- MMC(Windows_Management-Console)
-- 
+  - MMC(Windows_Management-Console)
+  - ''
+  - MMC(Windows Management-Console)
 confidential: private
-cssclasses: "private note"
+cssclasses: private note
 draft: true
-expiryDate: 
+expiryDate: ''
 has_Template:
-- Extract~Note~Template
+  - Extract~Note~Template
 has_time_started: 2025-02-25
 isDeleted: false
 isReadOnly: false
 keywords: MMC(Windows_Management-Console)
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: MMC(Windows_Management-Console)
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- MMC(Windows_Management-Console)
-- 
+  - MMC(Windows_Management-Console)
+  - ''
 title: MMC(Windows_Management-Console)
 type: private_note
 ---

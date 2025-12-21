@@ -2,7 +2,9 @@
 aliases:
   - Pocket billiards
   - Pool billiards
-has_id_wikidata:
+  - Pocket_Billiards
+  - Pocket Billiards
+has_id_wikidata: ''
 ---
 
 

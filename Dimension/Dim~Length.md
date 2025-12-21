@@ -1,6 +1,7 @@
 ---
 aliases:
   - Length
+  - Dim~Length
 has_id_wikidata: Q36253
 subclass_of:
   - "[[_Standards/WikiData/WD~distance,126017]]"

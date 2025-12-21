@@ -1,28 +1,30 @@
 ---
 aliases:
-  - "{ label-dash: }":
-  - "{ has_label_snail: }":
-  - "{ label: }":
+  - '{ label-dash: }': ''
+  - '{ has_label_snail: }': ''
+  - '{ label: }': ''
   - is_{{has_label_snail}}
+  - _True-Template
+  - ' True-Template'
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - "{ has_label_snail: }":
-layout:
+  - '{ has_label_snail: }': ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_{{has_label_snail}}
 publish: true
-publishDate:
+publishDate: ''
 superseded_by:
-  "{ supersededBy: }":
+  '{ supersededBy: }': ''
 supersedes:
-  "{ supersedes: }":
+  '{ supersedes: }': ''
 tags:
   - class/Property
   - schema-org/Property/True

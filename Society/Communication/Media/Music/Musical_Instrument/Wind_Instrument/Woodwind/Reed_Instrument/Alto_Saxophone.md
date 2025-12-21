@@ -1,18 +1,21 @@
 ---
+aliases:
+  - Alto_Saxophone
+  - Alto Saxophone
 has_id_wikidata: Q445275
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Adolphe_Sax,181995]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Adolphe_Sax,181995]]'
 time_of_discovery_or_invention: 1846-06-28T00:00:00Z
-subclass_of: "[[_Standards/WikiData/WD~saxophone,9798]]"
-Nomenclature_for_Museum_Cataloging: "10856"
+subclass_of: '[[_Standards/WikiData/WD~saxophone,9798]]'
+Nomenclature_for_Museum_Cataloging: 10856
 Amazon_com_browse_node:
-  - "11969851"
-  - "11969911"
-  - "11969651"
-  - "11969721"
+  - 11969851
+  - 11969911
+  - 11969651
+  - 11969721
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Yamaha%20Saxophone%20YAS-62.tif
 Hornbostel_Sachs_classification: 422.212-71
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sax%20range.svg
-P8189: "987007558346605171"
+P8189: 987007558346605171
 Commons_category: Alto saxophones
 ---
 

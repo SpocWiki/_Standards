@@ -4,20 +4,22 @@ aliases:
   - gas_station
   - GasStation
   - is_a_gas_station
+  - Gas_Station
+  - Gas Station
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - gas_station
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_gas_station Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

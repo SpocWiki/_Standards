@@ -4,22 +4,23 @@ aliases:
   - id_entertain_edit
   - editEIDR
   - has_id_entertain_edit
+  - has id entertain edit
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - edit
   - eidr
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_id_entertain_edit
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

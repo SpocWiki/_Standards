@@ -2,6 +2,7 @@
 aliases:
   - Drucker
   - printer
+  - Printer(Computing)
 has_id_wikidata: Q82
 has_use: "[[_Standards/WikiData/WD~printing_press,144334]]"
 subclass_of:
@@ -16,13 +17,13 @@ different_from:
 has_characteristic: "[[_Standards/WikiData/WD~printer_resolution,54315216]]"
 has_part_s_: "[[_Standards/WikiData/WD~printer_carriage,97584727]]"
 facet_of: "[[_Standards/WikiData/WD~office_technology,106707749]]"
-Nomenclature_for_Museum_Cataloging: "10521"
-Amazon_com_browse_node: "172635"
+Nomenclature_for_Museum_Cataloging: 10521
+Amazon_com_browse_node: 172635
 Commons_gallery: Printer
-OmegaWiki_Defined_Meaning: "960286"
+OmegaWiki_Defined_Meaning: 960286
 Dewey_Decimal_Classification:
-  - "004.77"
-  - "681.62"
+  - 4.77
+  - 681.62
 Commons_category: Printers
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HP%20Deskjet%20All%20in%20One%20Printer.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-imprimante.wav
@@ -37,7 +38,7 @@ vocalized_name: מַדְפֶּסֶת
 OpenStreetMap_tag: amenity=printer
 ---
 
-# [[Printer(Computing)]] 
+# [[Printer(Computing)]] 🖶 
 
 #is_/same_as :: [[WD~Printer,82]] 
 

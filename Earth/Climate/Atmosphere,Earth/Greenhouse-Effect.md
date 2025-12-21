@@ -1,6 +1,7 @@
 ---
 aliases:
-- Treibhaus-Effekt
+  - Treibhaus-Effekt
+  - Greenhouse-Effect
 ---
 
 # [[Greenhouse-Effect]] 

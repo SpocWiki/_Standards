@@ -9,16 +9,16 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: PriceComponentTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - installment
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_installment Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

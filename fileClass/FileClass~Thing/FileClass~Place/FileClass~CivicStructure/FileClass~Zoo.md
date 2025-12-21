@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Zoo
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/Zoo
-- class/Thing/Place/CivicStructure/Zoo
-- is_a_/Zoo
-- schema-org/Zoo
+  - class/Zoo
+  - class/Thing/Place/CivicStructure/Zoo
+  - is_a_/Zoo
+  - schema-org/Zoo
 tags:
-- class/FileClass
-- class/Zoo
-- is_a_/Zoo
-- class/Thing/Place/CivicStructure/Zoo
+  - class/FileClass
+  - class/Zoo
+  - is_a_/Zoo
+  - class/Thing/Place/CivicStructure/Zoo
 version: 2.0
 ---
 

@@ -4,20 +4,22 @@ aliases:
   - un_register_action
   - UnRegisterAction
   - is_an_un_register_action
+  - Un_Register_Action
+  - Un Register Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - un_register_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_un_register_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

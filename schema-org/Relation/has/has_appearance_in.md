@@ -3,22 +3,23 @@ aliases:
   - has_appearance_in
   - has_appeared_in
   - is_appearing_in
+  - has appearance in
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - appearance
   - appearanceIn
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_appearance_in
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

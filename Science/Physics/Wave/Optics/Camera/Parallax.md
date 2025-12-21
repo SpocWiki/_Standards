@@ -1,23 +1,24 @@
 ---
 aliases:
   - Parallaxe
+  - Parallax
 has_id_wikidata: Q165074
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~angular_measure,1357788]]"
-  - "[[_Standards/WikiData/WD~apparent_movement,2232743]]"
-  - "[[_Standards/WikiData/WD~optical_phenomenon,14506045]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~parallax,3564893]]"
-instance_of: "[[_Standards/WikiData/WD~difference,29896155]]"
+  - '[[_Standards/WikiData/WD~angular_measure,1357788]]'
+  - '[[_Standards/WikiData/WD~apparent_movement,2232743]]'
+  - '[[_Standards/WikiData/WD~optical_phenomenon,14506045]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~parallax,3564893]]'
+instance_of: '[[_Standards/WikiData/WD~difference,29896155]]'
 Wikidata_property: parallax
-has_use: "[[_Standards/WikiData/WD~measurement,12453]]"
+has_use: '[[_Standards/WikiData/WD~measurement,12453]]'
 Commons_category: Parallax
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B2%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%A8.wav

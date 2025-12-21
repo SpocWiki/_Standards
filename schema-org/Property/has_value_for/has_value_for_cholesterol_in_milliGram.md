@@ -4,21 +4,22 @@ aliases:
   - cholesterol-content
   - cholesterolContent
   - has_value_for_cholesterol_in_milliGram
+  - has value for cholesterol in milliGram
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - cholesterol-content
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_cholesterol-content
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

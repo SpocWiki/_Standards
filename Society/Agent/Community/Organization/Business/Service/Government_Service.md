@@ -4,20 +4,22 @@ aliases:
   - government_service
   - GovernmentService
   - is_a_government_service
+  - Government_Service
+  - Government Service
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - government_service
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_government_service Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

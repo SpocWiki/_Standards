@@ -1,6 +1,7 @@
 ---
 aliases:
   - Garbe
+  - Sheaf(Agriculture)
 has_id_wikidata: Q942040
 ---
 

@@ -4,75 +4,76 @@ aliases:
   - George Walton Lucas Jr.
   - George Walton Lucas
   - Lucas
+  - Lucas,George
 has_id_wikidata: Q38222
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]"
-residence: "[[_Standards/WikiData/WD~Marin_County,108117]]"
-different_from: "[[_Standards/WikiData/WD~Georg_Lukács,151523]]"
-place_of_birth: "[[_Standards/WikiData/WD~Modesto,204561]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
+residence: '[[_Standards/WikiData/WD~Marin_County,108117]]'
+different_from: '[[_Standards/WikiData/WD~Georg_Lukács,151523]]'
+place_of_birth: '[[_Standards/WikiData/WD~Modesto,204561]]'
 occupation:
-  - "[[_Standards/WikiData/WD~cinematographer,222344]]"
-  - "[[_Standards/WikiData/WD~executive_producer,1053574]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~film_editor,7042855]]"
-  - "[[_Standards/WikiData/WD~art_collector,10732476]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~science_fiction_writer,18844224]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~businessperson,43845]]"
+  - '[[_Standards/WikiData/WD~cinematographer,222344]]'
+  - '[[_Standards/WikiData/WD~executive_producer,1053574]]'
+  - '[[_Standards/WikiData/WD~film_director,2526255]]'
+  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
+  - '[[_Standards/WikiData/WD~director,3455803]]'
+  - '[[_Standards/WikiData/WD~film_editor,7042855]]'
+  - '[[_Standards/WikiData/WD~art_collector,10732476]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
+  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~businessperson,43845]]'
 award_received:
-  - "[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]"
-  - "[[_Standards/WikiData/WD~Disney_Legends,1150306]]"
+  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+  - '[[_Standards/WikiData/WD~Disney_Legends,1150306]]'
   - "[[_Standards/WikiData/WD~Honorary_Palme_d'Or,1321674]]"
-  - "[[_Standards/WikiData/WD~Inkpot_Award,2687578]]"
-  - "[[_Standards/WikiData/WD~Hugo_Award_for_Best_Dramatic_Presentation,3414212]]"
-  - "[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]"
-  - "[[_Standards/WikiData/WD~Science_Fiction_and_Fantasy_Hall_of_Fame,48961500]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]"
-  - "[[_Standards/WikiData/WD~Jane_Fonda_Humanitarian_Award,133176391]]"
+  - '[[_Standards/WikiData/WD~Inkpot_Award,2687578]]'
+  - '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Dramatic_Presentation,3414212]]'
+  - '[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]'
+  - '[[_Standards/WikiData/WD~Science_Fiction_and_Fantasy_Hall_of_Fame,48961500]]'
+  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+  - '[[_Standards/WikiData/WD~Jane_Fonda_Humanitarian_Award,133176391]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~American_Graffiti,375855]]"
-  - "[[_Standards/WikiData/WD~THX_1138,783365]]"
-  - "[[_Standards/WikiData/WD~Q462,462]]"
+  - '[[_Standards/WikiData/WD~American_Graffiti,375855]]'
+  - '[[_Standards/WikiData/WD~THX_1138,783365]]'
+  - '[[_Standards/WikiData/WD~Q462,462]]'
 member_of:
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~Writers_Guild_of_America_West,8038459]]"
+  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+  - '[[_Standards/WikiData/WD~Writers_Guild_of_America_West,8038459]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~USC_School_of_Cinematic_Arts,1583249]]"
-  - "[[_Standards/WikiData/WD~Downey_High_School,5303131]]"
-  - "[[_Standards/WikiData/WD~Modesto_Junior_College,6889228]]"
-  - "[[_Standards/WikiData/WD~Thomas_Downey_High_School,7789043]]"
-  - "[[_Standards/WikiData/WD~University_of_Southern_California,4614]]"
-family_name: "[[_Standards/WikiData/WD~Lucas,1873014]]"
-genre: "[[_Standards/WikiData/WD~speculative_fiction_film,2973181]]"
-student_of: "[[_Standards/WikiData/WD~Lester_Novros,3236800]]"
+  - '[[_Standards/WikiData/WD~USC_School_of_Cinematic_Arts,1583249]]'
+  - '[[_Standards/WikiData/WD~Downey_High_School,5303131]]'
+  - '[[_Standards/WikiData/WD~Modesto_Junior_College,6889228]]'
+  - '[[_Standards/WikiData/WD~Thomas_Downey_High_School,7789043]]'
+  - '[[_Standards/WikiData/WD~University_of_Southern_California,4614]]'
+family_name: '[[_Standards/WikiData/WD~Lucas,1873014]]'
+genre: '[[_Standards/WikiData/WD~speculative_fiction_film,2973181]]'
+student_of: '[[_Standards/WikiData/WD~Lester_Novros,3236800]]'
 relative:
-  - "[[_Standards/WikiData/WD~Amanda_Lucas,4739681]]"
-  - "[[_Standards/WikiData/WD~Katie_Lucas,6377498]]"
+  - '[[_Standards/WikiData/WD~Amanda_Lucas,4739681]]'
+  - '[[_Standards/WikiData/WD~Katie_Lucas,6377498]]'
 child:
-  - "[[_Standards/WikiData/WD~Amanda_Lucas,4739681]]"
-  - "[[_Standards/WikiData/WD~Katie_Lucas,6377498]]"
-filmography: "[[_Standards/WikiData/WD~George_Lucas_filmography,5541862]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-spouse: "[[_Standards/WikiData/WD~Mellody_Hobson,6813152]]"
-present_in_work: "[[_Standards/WikiData/WD~iSteve,12125162]]"
+  - '[[_Standards/WikiData/WD~Amanda_Lucas,4739681]]'
+  - '[[_Standards/WikiData/WD~Katie_Lucas,6377498]]'
+filmography: '[[_Standards/WikiData/WD~George_Lucas_filmography,5541862]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+spouse: '[[_Standards/WikiData/WD~Mellody_Hobson,6813152]]'
+present_in_work: '[[_Standards/WikiData/WD~iSteve,12125162]]'
 given_name:
-  - "[[_Standards/WikiData/WD~George,15921732]]"
-  - "[[_Standards/WikiData/WD~Walton,29370047]]"
+  - '[[_Standards/WikiData/WD~George,15921732]]'
+  - '[[_Standards/WikiData/WD~Walton,29370047]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~NFF_Archive,131377870]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~NFF_Archive,131377870]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 4
 net_worth: 5000000000
 height: 168
@@ -91,7 +92,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/George%20Lucas%202024.
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33673%20%28kan%29-Omshivaprakash-%E0%B2%9C%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%9C%E0%B3%8D%20%E0%B2%B2%E0%B3%8D%E0%B2%AF%E0%B3%82%E0%B2%95%E0%B2%BE%E0%B2%B8%E0%B3%8D.wav
 ISNI:
   - 000000012095650X
-  - "0000000120966492"
+  - 0000000120966492
 ---
 
 # [[Lucas,George]] 

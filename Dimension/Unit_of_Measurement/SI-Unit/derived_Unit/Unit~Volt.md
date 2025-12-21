@@ -1,41 +1,42 @@
 ---
 aliases:
   - Volt
+  - Unit~Volt
 has_id_wikidata: Q25250
 measured_physical_quantity:
-  - "[[_Standards/WikiData/WD~electromotive_force,185329]]"
-  - "[[_Standards/WikiData/WD~membrane_potential,389844]]"
-  - "[[_Standards/WikiData/WD~bioelectric_potential_difference,1048073]]"
-  - "[[_Standards/WikiData/WD~electrotonic_potential,1327664]]"
-  - "[[_Standards/WikiData/WD~Q4530817,4530817]]"
-  - "[[_Standards/WikiData/WD~electric_potential_difference,77597807]]"
-  - "[[_Standards/WikiData/WD~Peltier_coefficient,105801003]]"
-  - "[[_Standards/WikiData/WD~voltage,25428]]"
-  - "[[_Standards/WikiData/WD~electric_potential,55451]]"
+  - '[[_Standards/WikiData/WD~electromotive_force,185329]]'
+  - '[[_Standards/WikiData/WD~membrane_potential,389844]]'
+  - '[[_Standards/WikiData/WD~bioelectric_potential_difference,1048073]]'
+  - '[[_Standards/WikiData/WD~electrotonic_potential,1327664]]'
+  - '[[_Standards/WikiData/WD~Q4530817,4530817]]'
+  - '[[_Standards/WikiData/WD~electric_potential_difference,77597807]]'
+  - '[[_Standards/WikiData/WD~Peltier_coefficient,105801003]]'
+  - '[[_Standards/WikiData/WD~voltage,25428]]'
+  - '[[_Standards/WikiData/WD~electric_potential,55451]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Volt,418918]]"
-  - "[[_Standards/WikiData/WD~V,27254]]"
+  - '[[_Standards/WikiData/WD~Volt,418918]]'
+  - '[[_Standards/WikiData/WD~V,27254]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]"
-  - "[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]"
-  - "[[_Standards/WikiData/WD~unit_of_electric_potential,126899076]]"
-  - "[[_Standards/WikiData/WD~unit_of_electric_potential_difference,126899121]]"
-  - "[[_Standards/WikiData/WD~unit_of_voltage,126900030]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110096012,110096012]]"
-named_after: "[[_Standards/WikiData/WD~Alessandro_Volta,680]]"
+  - '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
+  - '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+  - '[[_Standards/WikiData/WD~unit_of_electric_potential,126899076]]'
+  - '[[_Standards/WikiData/WD~unit_of_electric_potential_difference,126899121]]'
+  - '[[_Standards/WikiData/WD~unit_of_voltage,126900030]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110096012,110096012]]'
+named_after: '[[_Standards/WikiData/WD~Alessandro_Volta,680]]'
 derived_from_base_unit:
-  - "[[_Standards/WikiData/WD~kilogram,11570]]"
-  - "[[_Standards/WikiData/WD~second,11574]]"
-  - "[[_Standards/WikiData/WD~metre,11573]]"
-  - "[[_Standards/WikiData/WD~ampere,25272]]"
+  - '[[_Standards/WikiData/WD~kilogram,11570]]'
+  - '[[_Standards/WikiData/WD~second,11574]]'
+  - '[[_Standards/WikiData/WD~metre,11573]]'
+  - '[[_Standards/WikiData/WD~ampere,25272]]'
 conversion_to_SI_unit: 1
 UCUM_code: V
-OmegaWiki_Defined_Meaning: "332914"
+OmegaWiki_Defined_Meaning: 332914
 Commons_category: Volt
 unit_symbol:
   - V

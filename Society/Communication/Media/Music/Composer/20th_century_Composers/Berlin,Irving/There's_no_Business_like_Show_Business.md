@@ -1,15 +1,17 @@
 ---
 aliases:
   - There's No Business Like Show Business
+  - There's_no_Business_like_Show_Business
+  - There's no Business like Show Business
 has_id_wikidata: Q2419754
-lyricist: "[[_Standards/WikiData/WD~Irving_Berlin,128746]]"
-composer: "[[_Standards/WikiData/WD~Irving_Berlin,128746]]"
-genre: "[[_Standards/WikiData/WD~popular_music,373342]]"
-music_created_for: "[[_Standards/WikiData/WD~Annie_Get_Your_Gun,566949]]"
-has_characteristic: "[[_Standards/WikiData/WD~show_tune,661651]]"
-instance_of: "[[_Standards/WikiData/WD~musical_work_composition,105543609]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~song,7366]]"
+lyricist: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
+composer: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
+genre: '[[_Standards/WikiData/WD~popular_music,373342]]'
+music_created_for: '[[_Standards/WikiData/WD~Annie_Get_Your_Gun,566949]]'
+has_characteristic: '[[_Standards/WikiData/WD~show_tune,661651]]'
+instance_of: '[[_Standards/WikiData/WD~musical_work_composition,105543609]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~song,7366]]'
 ISWC: T-070.179.409-3
 title: There's No Business Like Show Business
 publication_date: 1946-01-01T00:00:00Z

@@ -2,6 +2,7 @@
 aliases:
   - Brownian motion
   - Brownsche Bewegung
+  - Brownian_motion
 has_id_wikidata: Q178036
 ---
 

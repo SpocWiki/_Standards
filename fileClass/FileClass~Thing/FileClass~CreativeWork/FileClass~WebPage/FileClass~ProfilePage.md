@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ProfilePage
+excludes: ''
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ProfilePage
-- class/Thing/CreativeWork/WebPage/ProfilePage
-- is_a_/ProfilePage
-- schema-org/ProfilePage
+  - class/ProfilePage
+  - class/Thing/CreativeWork/WebPage/ProfilePage
+  - is_a_/ProfilePage
+  - schema-org/ProfilePage
 tags:
-- class/FileClass
-- class/ProfilePage
-- is_a_/ProfilePage
-- class/Thing/CreativeWork/WebPage/ProfilePage
+  - class/FileClass
+  - class/ProfilePage
+  - is_a_/ProfilePage
+  - class/Thing/CreativeWork/WebPage/ProfilePage
 version: 2.0
 ---
 

@@ -3,23 +3,24 @@ aliases:
   - has subtitle-language
   - subtitleLanguage
   - has_subtitle_language
+  - has subtitle language
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - subtitle_language
   - subtitle
   - language
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_subtitle_language
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

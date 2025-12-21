@@ -4,21 +4,22 @@ aliases:
   - child-min-age
   - childMinAge
   - has_value_for_child_min_age
+  - has value for child min age
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - child-min-age
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_child-min-age
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

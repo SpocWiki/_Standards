@@ -3,23 +3,24 @@ aliases:
   - has population-type
   - populationType
   - has_population_type
+  - has population type
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - population_type
   - population
   - type
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_population_type
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

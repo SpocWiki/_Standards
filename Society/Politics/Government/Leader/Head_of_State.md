@@ -1,18 +1,20 @@
 ---
 aliases:
   - Staatsoberhaupt
+  - Head_of_State
+  - Head of State
 has_id_wikidata: Q48352
-instance_of: "[[_Standards/WikiData/WD~public_office,294414]]"
+instance_of: '[[_Standards/WikiData/WD~public_office,294414]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~statesperson,372436]]"
-  - "[[_Standards/WikiData/WD~leader,1251441]]"
-different_from: "[[_Standards/WikiData/WD~head_of_government,2285706]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_monarch,5626285]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Heads_of_state_and_government,59961946]]"
+  - '[[_Standards/WikiData/WD~statesperson,372436]]'
+  - '[[_Standards/WikiData/WD~leader,1251441]]'
+different_from: '[[_Standards/WikiData/WD~head_of_government,2285706]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_monarch,5626285]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Heads_of_state_and_government,59961946]]'
 Wikidata_property:
   - office held by head of state
   - head of state
-part_of: "[[_Standards/WikiData/WD~state,7275]]"
+part_of: '[[_Standards/WikiData/WD~state,7275]]'
 female_form_of_label:
   - кіраўніца дзяржавы
   - cap d'estat

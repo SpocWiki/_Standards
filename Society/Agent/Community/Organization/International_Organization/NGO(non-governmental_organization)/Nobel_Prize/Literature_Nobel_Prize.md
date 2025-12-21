@@ -1,8 +1,10 @@
 ---
 aliases:
-- "Nobel Prize in Literature"
-- "Nobelpriset i litteratur"
-- Literaturnobelpreis
+  - Nobel Prize in Literature
+  - Nobelpriset i litteratur
+  - Literaturnobelpreis
+  - Literature_Nobel_Prize
+  - Literature Nobel Prize
 ---
 
 ## #has_/text_of_/abstract 

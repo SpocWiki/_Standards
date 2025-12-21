@@ -4,20 +4,22 @@ aliases:
   - film_action
   - FilmAction
   - is_a_film_action
+  - Film_Action
+  - Film Action
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - film_action
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_film_action Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -4,21 +4,22 @@ aliases:
   - experience_in_place_of_education
   - experienceInPlaceOfEducation
   - is_experience_in_place_of_education
+  - is experience in place of education
 confidential: public
 cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - experience_in_place_of_education
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_experience_in_place_of_education
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True

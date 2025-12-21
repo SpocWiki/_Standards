@@ -1,25 +1,27 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MovieTheater
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness
 fields:
-- id: OnJdil
-  name: ScreenCount
-  options: {}
-  type: Number
-  path: ''
+  - id: OnJdil
+    name: ScreenCount
+    options: {}
+    type: Number
+    path: ''
 icon: clapperboard
 limit: 9
 mapWithTag: false
 tagNames:
-- class/MovieTheater
-- class/Thing/Place/CivicStructure/CivicStructureAndEntertainmentBusiness/MovieTheater
-- is_a_/MovieTheater
-- schema-org/MovieTheater
+  - class/MovieTheater
+  - class/Thing/Place/CivicStructure/CivicStructureAndEntertainmentBusiness/MovieTheater
+  - is_a_/MovieTheater
+  - schema-org/MovieTheater
 tags:
-- class/FileClass
-- class/MovieTheater
-- is_a_/MovieTheater
-- class/Thing/Place/CivicStructure/CivicStructureAndEntertainmentBusiness/MovieTheater
+  - class/FileClass
+  - class/MovieTheater
+  - is_a_/MovieTheater
+  - class/Thing/Place/CivicStructure/CivicStructureAndEntertainmentBusiness/MovieTheater
 version: 2.0
 ---
 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Stuhl
+  - Chair
 has_id_wikidata: Q15026
 has_characteristic:
   - "[[_Standards/WikiData/WD~height,208826]]"
@@ -30,8 +31,8 @@ on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,
 subclass_of:
   - "[[_Standards/WikiData/WD~seating_furniture,129006002]]"
   - "[[_Standards/WikiData/WD~furniture,14745]]"
-Nomenclature_for_Museum_Cataloging: "1090"
-OmegaWiki_Defined_Meaning: "6162"
+Nomenclature_for_Museum_Cataloging: 1090
+OmegaWiki_Defined_Meaning: 6162
 subreddit: chairs
 Commons_gallery: Chair
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Silla-Abuelo.jpg
@@ -42,7 +43,7 @@ Iconclass_notation: 41A721
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33578%20%28ibo%29-Deventus-Oche.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Ramjit%20Tudu-%E1%B1%B4%E1%B1%AE%E1%B1%B1%E1%B1%B0%E1%B1%9F%E1%B1%A8%20%E1%B1%A2%E1%B1%9F%E1%B1%B9%E1%B1%AA%E1%B1%A4.wav
-P8189: "987007284804105171"
+P8189: 987007284804105200
 Commons_category: Chairs
 OpenStreetMap_tag_or_key:
   - Tag:amenity=chair
@@ -50,7 +51,7 @@ OpenStreetMap_tag_or_key:
 Unicode_character: 🪑
 ---
 
-# [[Chair]] 
+# [[Chair]] 🪑 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Chair,15026|WD~Chair,15026]] 
 

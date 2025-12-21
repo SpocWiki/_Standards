@@ -1,30 +1,31 @@
 ---
 aliases:
   - Skandinavien
+  - Scandinavia
 has_id_wikidata: Q21195
-instance_of: "[[_Standards/WikiData/WD~region,82794]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Scandinavian_Mountains,186547]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Scandinavia,568251]]"
-part_of: "[[_Standards/WikiData/WD~Fennoscandia,604496]]"
+instance_of: '[[_Standards/WikiData/WD~region,82794]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Scandinavian_Mountains,186547]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Scandinavia,568251]]'
+part_of: '[[_Standards/WikiData/WD~Fennoscandia,604496]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q10728876,10728876]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Scandinavia,14204302]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q10728876,10728876]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Scandinavia,14204302]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q25696234,25696234]]"
-  - "[[_Standards/WikiData/WD~Q25696259,25696259]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~North_Sea,1693]]"
+  - '[[_Standards/WikiData/WD~Q25696234,25696234]]'
+  - '[[_Standards/WikiData/WD~Q25696259,25696259]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~North_Sea,1693]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Norway,20]]"
-  - "[[_Standards/WikiData/WD~Sweden,34]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
+  - '[[_Standards/WikiData/WD~Norway,20]]'
+  - '[[_Standards/WikiData/WD~Sweden,34]]'
+  - '[[_Standards/WikiData/WD~Denmark,35]]'
 country:
-  - "[[_Standards/WikiData/WD~Norway,20]]"
-  - "[[_Standards/WikiData/WD~Sweden,34]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-different_from: "[[_Standards/WikiData/WD~Nordic_countries,52062]]"
+  - '[[_Standards/WikiData/WD~Norway,20]]'
+  - '[[_Standards/WikiData/WD~Sweden,34]]'
+  - '[[_Standards/WikiData/WD~Denmark,35]]'
+different_from: '[[_Standards/WikiData/WD~Nordic_countries,52062]]'
 coordinate_location: Point(14.760936 64.779642)
 BHCL_UUID:
   - a3d1e5f4-c8e8-48ef-a3d5-18ba61854f33
@@ -34,7 +35,7 @@ Commons_category: Scandinavia
 PM20_geo_code: A14
 coordinates_of_westernmost_point: Point(4.638277777 61.042972222)
 demonym: skandinav
-U_S_National_Archives_Identifier: "10046298"
+U_S_National_Archives_Identifier: 10046298
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Norsk%20skjaergard%20banner%202.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Scandinavia.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Scandinavia.svg

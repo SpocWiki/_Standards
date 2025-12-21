@@ -3,23 +3,24 @@ aliases:
   - has-menu-item
   - hasMenuItem
   - has_menu_item
+  - has menu item
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - menu_item
   - menu
   - item
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_menu_item
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

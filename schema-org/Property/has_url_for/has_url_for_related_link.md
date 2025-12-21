@@ -4,21 +4,22 @@ aliases:
   - related_link
   - relatedLink
   - has_url_for_related_link
+  - has url for related link
 confidential: public
 cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - related_link
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_related_link
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url

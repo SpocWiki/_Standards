@@ -1,23 +1,25 @@
 ---
+aliases:
+  - Baryon
 has_id_wikidata: Q159731
 subclass_of:
-  - "[[_Standards/WikiData/WD~hadron,101667]]"
-  - "[[_Standards/WikiData/WD~matter_composed_of_quarks,28729554]]"
-  - "[[_Standards/WikiData/WD~fermion,44363]]"
-follows: "[[_Standards/WikiData/WD~meson,102742]]"
-followed_by: "[[_Standards/WikiData/WD~tetraquark,606387]]"
-has_list: "[[_Standards/WikiData/WD~list_of_baryons,1194544]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-antiparticle: "[[_Standards/WikiData/WD~antibaryon,14861565]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~quark,6718]]"
+  - '[[_Standards/WikiData/WD~hadron,101667]]'
+  - '[[_Standards/WikiData/WD~matter_composed_of_quarks,28729554]]'
+  - '[[_Standards/WikiData/WD~fermion,44363]]'
+follows: '[[_Standards/WikiData/WD~meson,102742]]'
+followed_by: '[[_Standards/WikiData/WD~tetraquark,606387]]'
+has_list: '[[_Standards/WikiData/WD~list_of_baryons,1194544]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+antiparticle: '[[_Standards/WikiData/WD~antibaryon,14861565]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~quark,6718]]'
 interaction:
-  - "[[_Standards/WikiData/WD~strong_interaction,11415]]"
-  - "[[_Standards/WikiData/WD~gravity,11412]]"
+  - '[[_Standards/WikiData/WD~strong_interaction,11415]]'
+  - '[[_Standards/WikiData/WD~gravity,11412]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Baryon-octet.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A8.wav
-Dewey_Decimal_Classification: "539.72164"
-P8189: "987007282991905171"
+Dewey_Decimal_Classification: 539.72164
+P8189: 987007282991905171
 Commons_category: Baryons
 ---
 

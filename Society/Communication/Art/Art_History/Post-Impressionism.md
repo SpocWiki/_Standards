@@ -1,12 +1,13 @@
 ---
 aliases:
   - Postimpressionism
+  - Post-Impressionism
 has_id_wikidata: Q166713
-instance_of: "[[_Standards/WikiData/WD~art_movement,968159]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Post_Impressionism,11011136]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Art+Feminism,24909800]]"
+instance_of: '[[_Standards/WikiData/WD~art_movement,968159]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Post_Impressionism,11011136]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
 start_time: 1886-01-01T00:00:00Z
-follows: "[[_Standards/WikiData/WD~Impressionism,40415]]"
+follows: '[[_Standards/WikiData/WD~Impressionism,40415]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20%28French%29%20-%20A%20Centennial%20of%20Independence%20-%20Google%20Art%20Project.jpg
 Wolfram_Language_entity_code: Entity["Concept", "Post-impressionist::5zwbp"]
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/POSTIMPRESSIONIZM.html

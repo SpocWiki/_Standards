@@ -4,19 +4,21 @@ aliases:
   - galaxy clusters
   - cluster of galaxies
   - clusters of galaxies
+  - Galaxy_Cluster
+  - Galaxy Cluster
 has_id_wikidata: Q204107
 different_from:
-  - "[[_Standards/WikiData/WD~star_cluster,168845]]"
-  - "[[_Standards/WikiData/WD~galaxy_group,1491746]]"
+  - '[[_Standards/WikiData/WD~star_cluster,168845]]'
+  - '[[_Standards/WikiData/WD~galaxy_group,1491746]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~deep_sky_object,249389]]"
-  - "[[_Standards/WikiData/WD~galaxy_group_or_cluster,14515149]]"
-has_part_s_: "[[_Standards/WikiData/WD~brightest_cluster_galaxy,1151284]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_galaxy_cluster,11167589]]"
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~galaxy,318]]"
-part_of: "[[_Standards/WikiData/WD~supercluster,27521]]"
-OmegaWiki_Defined_Meaning: "639453"
+  - '[[_Standards/WikiData/WD~deep_sky_object,249389]]'
+  - '[[_Standards/WikiData/WD~galaxy_group_or_cluster,14515149]]'
+has_part_s_: '[[_Standards/WikiData/WD~brightest_cluster_galaxy,1151284]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_galaxy_cluster,11167589]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~galaxy,318]]'
+part_of: '[[_Standards/WikiData/WD~supercluster,27521]]'
+OmegaWiki_Defined_Meaning: 639453
 Commons_category: Galaxy clusters
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Artist%E2%80%99s%20impression%20of%20a%20protocluster%20forming%20in%20the%20early%20Universe.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Galaxienhaufen%20von%20SMACS%200723.jpg

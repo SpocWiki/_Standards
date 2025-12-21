@@ -8,6 +8,8 @@ aliases:
   - Экваториальная Гвинея
   - the Republic of Equatorial Guinea
   - la República de Guinea Ecuatorial
+  - Equatorial_Guinea
+has_id_wikidata: Q983
 location:
   - 3.75
   - 8.78333
@@ -23,16 +25,15 @@ source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
 title: Equatorial Guinea
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 Languages:
   - es-GQ
   - fr
-has_id_wikidata: Q983
 language_used:
   - "[[_Standards/WikiData/WD~Spanish,1321]]"
   - "[[_Standards/WikiData/WD~Lengue,13345]]"

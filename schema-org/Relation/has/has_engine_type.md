@@ -2,12 +2,13 @@
 aliases:
   - has engine-type
   - has_engine_type
+  - has engine type
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -15,11 +16,11 @@ keywords:
   - type
   - engine_type
   - engineType
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_engine_type
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

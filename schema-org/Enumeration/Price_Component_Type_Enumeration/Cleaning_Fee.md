@@ -4,21 +4,23 @@ aliases:
   - cleaning_fee
   - CleaningFee
   - is_a_cleaning_fee
+  - Cleaning_Fee
+  - Cleaning Fee
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: PriceComponentTypeEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - cleaning_fee
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_cleaning_fee Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

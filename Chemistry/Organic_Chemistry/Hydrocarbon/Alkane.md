@@ -1,32 +1,34 @@
 ---
+aliases:
+  - Alkane
+has_id_wikidata: Q41581
 CAS_Registry_Number: 308061-45-2
 Commons_category: Alkanes
 Common_Procurement_Vocabulary_code: 24321100
-CXSMILES: "[H]C([H])([H])[H] |Sg:n:1,2,3:n:ht|"
+CXSMILES: '[H]C([H])([H])[H] |Sg:n:1,2,3:n:ht|'
 described_by_source: '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
 different_from: '[[_Standards/WikiData/WD~alkene,81406]]'
-has_id_wikidata: Q41581
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ethylene-3D-vdW.png"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Ethylene-3D-vdW.png
 instance_of:
-- '[[_Standards/WikiData/WD~homologous_series,741844]]'
-- '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+  - '[[_Standards/WikiData/WD~homologous_series,741844]]'
+  - '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 Krugosvet_article: nauka_i_tehnika/himiya/ALKANI_I_TSIKLOALKANI.html
 MeSH_tree_code: D02.455.326.146
 OmegaWiki_Defined_Meaning: 137
 P8189: 987007563165105171
 part_of:
-- '[[_Standards/WikiData/WD~alkane_catabolic_process,21757711]]'
-- '[[_Standards/WikiData/WD~response_to_alkane,22273147]]'
-- '[[_Standards/WikiData/WD~cellular_response_to_alkane,22273149]]'
-- '[[_Standards/WikiData/WD~cellular_alkane_metabolic_process,22281433]]'
-- '[[_Standards/WikiData/WD~alkane_biosynthetic_process,22282953]]'
-- '[[_Standards/WikiData/WD~alkane_transport,22290412]]'
-- '[[_Standards/WikiData/WD~alkylmercury_lyase_activity,22324140]]'
-- '[[_Standards/WikiData/WD~alkane_transmembrane_transporter_activity,22324616]]'
+  - '[[_Standards/WikiData/WD~alkane_catabolic_process,21757711]]'
+  - '[[_Standards/WikiData/WD~response_to_alkane,22273147]]'
+  - '[[_Standards/WikiData/WD~cellular_response_to_alkane,22273149]]'
+  - '[[_Standards/WikiData/WD~cellular_alkane_metabolic_process,22281433]]'
+  - '[[_Standards/WikiData/WD~alkane_biosynthetic_process,22282953]]'
+  - '[[_Standards/WikiData/WD~alkane_transport,22290412]]'
+  - '[[_Standards/WikiData/WD~alkylmercury_lyase_activity,22324140]]'
+  - '[[_Standards/WikiData/WD~alkane_transmembrane_transporter_activity,22324616]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~acyclic_compound,344942]]'
-- '[[_Standards/WikiData/WD~saturated_compound,2700049]]'
-- '[[_Standards/WikiData/WD~aliphatic_hydrocarbon,47165582]]'
+  - '[[_Standards/WikiData/WD~acyclic_compound,344942]]'
+  - '[[_Standards/WikiData/WD~saturated_compound,2700049]]'
+  - '[[_Standards/WikiData/WD~aliphatic_hydrocarbon,47165582]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Alkanes,6676263]]'
 UMLS_CUI: C0002065
 UNSPSC_Code: 12352001

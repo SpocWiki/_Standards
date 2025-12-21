@@ -2,19 +2,20 @@
 aliases:
   - Glanz
   - Gloss
+  - Gloss(Optics)
 has_id_wikidata: Q900581
 different_from:
-  - "[[_Standards/WikiData/WD~Glosa,395165]]"
-  - "[[_Standards/WikiData/WD~Glans,5059471]]"
-  - "[[_Standards/WikiData/WD~luster_glaze,12369303]]"
-  - "[[_Standards/WikiData/WD~luster,47495874]]"
-instance_of: "[[_Standards/WikiData/WD~property,937228]]"
-has_characteristic: "[[_Standards/WikiData/WD~specular_reflection,1079524]]"
+  - '[[_Standards/WikiData/WD~Glosa,395165]]'
+  - '[[_Standards/WikiData/WD~Glans,5059471]]'
+  - '[[_Standards/WikiData/WD~luster_glaze,12369303]]'
+  - '[[_Standards/WikiData/WD~luster,47495874]]'
+instance_of: '[[_Standards/WikiData/WD~property,937228]]'
+has_characteristic: '[[_Standards/WikiData/WD~specular_reflection,1079524]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~optical_property,2643571]]"
-  - "[[_Standards/WikiData/WD~sheen,17097994]]"
-opposite_of: "[[_Standards/WikiData/WD~matte,68978897]]"
-facet_of: "[[_Standards/WikiData/WD~optics,14620]]"
+  - '[[_Standards/WikiData/WD~optical_property,2643571]]'
+  - '[[_Standards/WikiData/WD~sheen,17097994]]'
+opposite_of: '[[_Standards/WikiData/WD~matte,68978897]]'
+facet_of: '[[_Standards/WikiData/WD~optics,14620]]'
 Commons_category: Gloss
 IEV_number: 845-24-080
 ---

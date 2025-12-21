@@ -3,23 +3,24 @@ aliases:
   - has measured-value
   - measuredValue
   - has_measured_value
+  - has measured value
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - measured_value
   - measured
   - value
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_measured_value
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

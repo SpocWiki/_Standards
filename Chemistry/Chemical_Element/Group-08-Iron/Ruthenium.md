@@ -1,7 +1,9 @@
 ---
+aliases:
+  - Ruthenium
 has_id_wikidata: Q1086
 atomic_number: 44
-canonical_SMILES: "[Ru]"
+canonical_SMILES: '[Ru]'
 CAS_Registry_Number: 7440-18-8
 chemical_formula: Ru
 Commons_category: Ruthenium
@@ -11,47 +13,47 @@ Common_Procurement_Vocabulary_code:
   - 14743000
 CPV_Supplementary_code: AA21
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Karl_Ernst_Claus,554178]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Karl_Ernst_Claus,554178]]'
 DSSTOX_compound_identifier: DTXCID1047651
 EC_number: 231-127-1
 electronegativity: 2.2
-electron_configuration: "[Kr] 4d⁷ 5s¹"
+electron_configuration: '[Kr] 4d⁷ 5s¹'
 element_symbol: Ru
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ruthenium%20a%20half%20bar.jpg
 InChI: InChI=1S/Ru
 InChIKey: KJTLSVCANCCWHF-UHFFFAOYSA-N
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
   - 0.36
   - 0.38
   - 0.57
   - 0.62
   - 0.68
-location_of_discovery: "[[_Standards/WikiData/WD~Q56007908,56007908]]"
+location_of_discovery: '[[_Standards/WikiData/WD~Q56007908,56007908]]'
 mass: 101.07
 MeSH_tree_code:
   - D01.268.556.805
   - D01.268.956.812
   - D01.552.544.805
-named_after: "[[_Standards/WikiData/WD~Ruthenia,1147883]]"
+named_after: '[[_Standards/WikiData/WD~Ruthenia,1147883]]'
 OmegaWiki_Defined_Meaning: 351999
 oxidation_state:
   - 3
   - 4
 part_of:
-  - "[[_Standards/WikiData/WD~group_8,202224]]"
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q13202794,13202794]]"
+  - '[[_Standards/WikiData/WD~group_8,202224]]'
+  - '[[_Standards/WikiData/WD~period_5,244982]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202794,13202794]]'
 PubChem_CID: 23950
 SpocWebEntityId: 21942
 subclass_of:
-  - "[[_Standards/WikiData/WD~platinum_group,223995]]"
-  - "[[_Standards/WikiData/WD~transition_metal,19588]]"
+  - '[[_Standards/WikiData/WD~platinum_group,223995]]'
+  - '[[_Standards/WikiData/WD~transition_metal,19588]]'
 time_of_discovery_or_invention: 1844
 type: Element
 UMLS_CUI: C0035973

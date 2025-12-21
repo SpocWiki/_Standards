@@ -4,72 +4,73 @@ aliases:
   - Huldrych Zwingli
   - Ulrich Zwingli
   - Zwingli
+  - Zwingli,Huldrych
 has_id_wikidata: Q123034
 significant_person:
-  - "[[_Standards/WikiData/WD~Jakob_Wimpfeling,71848]]"
-  - "[[_Standards/WikiData/WD~Philipp_Melanchthon,76325]]"
-  - "[[_Standards/WikiData/WD~Beatus_Rhenanus,646092]]"
-  - "[[_Standards/WikiData/WD~Wolfgang_Capito,1368362]]"
-  - "[[_Standards/WikiData/WD~Erasmus,43499]]"
-  - "[[_Standards/WikiData/WD~Willibald_Pirckheimer,62663]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Reformed_Christianity,101849]]"
+  - '[[_Standards/WikiData/WD~Jakob_Wimpfeling,71848]]'
+  - '[[_Standards/WikiData/WD~Philipp_Melanchthon,76325]]'
+  - '[[_Standards/WikiData/WD~Beatus_Rhenanus,646092]]'
+  - '[[_Standards/WikiData/WD~Wolfgang_Capito,1368362]]'
+  - '[[_Standards/WikiData/WD~Erasmus,43499]]'
+  - '[[_Standards/WikiData/WD~Willibald_Pirckheimer,62663]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Reformed_Christianity,101849]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Vienna,165980]]"
-  - "[[_Standards/WikiData/WD~University_of_Basel,372608]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Victoria_and_Albert_Museum,213322]]"
+  - '[[_Standards/WikiData/WD~University_of_Vienna,165980]]'
+  - '[[_Standards/WikiData/WD~University_of_Basel,372608]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Victoria_and_Albert_Museum,213322]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]"
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Contemporaries_of_Erasmus_(vol._3),114245308]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Contemporaries_of_Erasmus_(vol._3),114245308]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
 occupation:
-  - "[[_Standards/WikiData/WD~translator,333634]]"
-  - "[[_Standards/WikiData/WD~preacher,432386]]"
-  - "[[_Standards/WikiData/WD~Protestant_reformer,763779]]"
-  - "[[_Standards/WikiData/WD~theologian,1234713]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~priest,42603]]"
-position_held: "[[_Standards/WikiData/WD~Antistes,352719]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Old_Swiss_Confederacy,435583]]"
-spouse: "[[_Standards/WikiData/WD~Anna_Reinhart,563063]]"
-place_of_birth: "[[_Standards/WikiData/WD~Wildhaus,597413]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-given_name: "[[_Standards/WikiData/WD~Ulrich,18011418]]"
-manner_of_death: "[[_Standards/WikiData/WD~death_in_battle,18663901]]"
+  - '[[_Standards/WikiData/WD~translator,333634]]'
+  - '[[_Standards/WikiData/WD~preacher,432386]]'
+  - '[[_Standards/WikiData/WD~Protestant_reformer,763779]]'
+  - '[[_Standards/WikiData/WD~theologian,1234713]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~priest,42603]]'
+position_held: '[[_Standards/WikiData/WD~Antistes,352719]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Old_Swiss_Confederacy,435583]]'
+spouse: '[[_Standards/WikiData/WD~Anna_Reinhart,563063]]'
+place_of_birth: '[[_Standards/WikiData/WD~Wildhaus,597413]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~Ulrich,18011418]]'
+manner_of_death: '[[_Standards/WikiData/WD~death_in_battle,18663901]]'
 child:
-  - "[[_Standards/WikiData/WD~Regula_Gwalther_Zwingli,21855678]]"
-  - "[[_Standards/WikiData/WD~Wilhelm_Zwingli,64667452]]"
-  - "[[_Standards/WikiData/WD~Huldrich_Zwingli,64667462]]"
-  - "[[_Standards/WikiData/WD~Anna_Zwingli,64667463]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-family_name: "[[_Standards/WikiData/WD~Zwingli,64667652]]"
-depicted_by: "[[_Standards/WikiData/WD~portrait_of_Huldrych_Zwingli,64691662]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+  - '[[_Standards/WikiData/WD~Regula_Gwalther_Zwingli,21855678]]'
+  - '[[_Standards/WikiData/WD~Wilhelm_Zwingli,64667452]]'
+  - '[[_Standards/WikiData/WD~Huldrich_Zwingli,64667462]]'
+  - '[[_Standards/WikiData/WD~Anna_Zwingli,64667463]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+family_name: '[[_Standards/WikiData/WD~Zwingli,64667652]]'
+depicted_by: '[[_Standards/WikiData/WD~portrait_of_Huldrych_Zwingli,64691662]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Andreas_Zwingli,126727319]]"
-  - "[[_Standards/WikiData/WD~Jakob_Zwingli,126727320]]"
-  - "[[_Standards/WikiData/WD~Klaus_Zwingli,126727331]]"
-  - "[[_Standards/WikiData/WD~Heini_Zwingli,126727344]]"
+  - '[[_Standards/WikiData/WD~Andreas_Zwingli,126727319]]'
+  - '[[_Standards/WikiData/WD~Jakob_Zwingli,126727320]]'
+  - '[[_Standards/WikiData/WD~Klaus_Zwingli,126727331]]'
+  - '[[_Standards/WikiData/WD~Heini_Zwingli,126727344]]'
 date_of_birth: 1484-01-10T00:00:00Z
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-writing_language: "[[_Standards/WikiData/WD~German,188]]"
-place_of_death: "[[_Standards/WikiData/WD~Kappel_am_Albis,64589]]"
+  - '[[_Standards/WikiData/WD~Latin,397]]'
+  - '[[_Standards/WikiData/WD~German,188]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+writing_language: '[[_Standards/WikiData/WD~German,188]]'
+place_of_death: '[[_Standards/WikiData/WD~Kappel_am_Albis,64589]]'
 Commons_category: Ulrich Zwingli
 Commons_gallery: Ulrich Zwingli
 Libris_URI:

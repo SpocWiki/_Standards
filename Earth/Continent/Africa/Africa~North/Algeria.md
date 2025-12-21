@@ -1,11 +1,20 @@
 ---
+aliases:
+  - Algeria
+  - Argelia
+  - Algérie
+  - الجزائر
+  - 阿尔及利亚
+  - Алжир
+  - the People's Democratic Republic of Algeria
+  - la República Argelina Democrática y Popular
+has_id_wikidata: Q262
 location:
   - 36.78
   - 3.05
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q262
 SpocWebEntityId: 26883
 isDeleted: false
 confidential: public
@@ -16,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Algeria
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Algeria
-  - Argelia
-  - Algérie
-  - الجزائر
-  - 阿尔及利亚
-  - Алжир
-  - the People's Democratic Republic of Algeria
-  - la República Argelina Democrática y Popular
+publishDate: ""
+expiryDate: ""
 Languages:
   - ar-DZ
 flag: "[[_Standards/WikiData/WD~flag_of_Algeria,83392]]"

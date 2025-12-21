@@ -1,13 +1,14 @@
 ---
 aliases:
   - Karavelle
+  - Caravel
 has_id_wikidata: Q169560
-subclass_of: "[[_Standards/WikiData/WD~sailing_ship,170483]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-instance_of: "[[_Standards/WikiData/WD~ship_type,2235308]]"
+subclass_of: '[[_Standards/WikiData/WD~sailing_ship,170483]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+instance_of: '[[_Standards/WikiData/WD~ship_type,2235308]]'
 discoverer_or_inventor: http://www.wikidata.org/.well-known/genid/0e216915ba3cf9f93c4dd3eca09a6f42
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Caravela%20Vera%20Cruz%20no%20rio%20Tejo.jpg
-P8189: "987007548938405171"
+P8189: 987007548938405171
 Commons_category: Caravels
 ---
 

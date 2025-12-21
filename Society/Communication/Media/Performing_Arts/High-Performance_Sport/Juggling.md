@@ -1,6 +1,7 @@
 ---
 aliases:
   - Jonglage
+  - Juggling
 has_id_wikidata: Q194326
 ---
 

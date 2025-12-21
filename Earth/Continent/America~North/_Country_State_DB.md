@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _Country_State_DB
+  - ' Country State DB'
 database_plugin: basic
 ---
 

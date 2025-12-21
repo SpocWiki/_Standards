@@ -1,30 +1,32 @@
 ---
 aliases:
   - Flusssäure
+  - Hydrofluoric_Acid
+  - Hydrofluoric Acid
 has_id_wikidata: Q209569
-named_after: "[[_Standards/WikiData/WD~fluorite,102151]]"
-found_in_taxon: "[[_Standards/WikiData/WD~Catha_edulis,207642]]"
+named_after: '[[_Standards/WikiData/WD~fluorite,102151]]'
+found_in_taxon: '[[_Standards/WikiData/WD~Catha_edulis,207642]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~aqueous_solution,906356]]"
-  - "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
-subclass_of: "[[_Standards/WikiData/WD~hydrohalic_acid,12018897]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
+  - '[[_Standards/WikiData/WD~aqueous_solution,906356]]'
+  - '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+subclass_of: '[[_Standards/WikiData/WD~hydrohalic_acid,12018897]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~water,283]]"
-  - "[[_Standards/WikiData/WD~hydrogen_fluoride,2468]]"
+  - '[[_Standards/WikiData/WD~water,283]]'
+  - '[[_Standards/WikiData/WD~hydrogen_fluoride,2468]]'
 melting_point: -44
 pKa: 3.17
 boiling_point: 85.8
 UN_packaging_group: I
 PubChem_CID:
-  - "14917"
-  - "16211014"
+  - 14917
+  - 16211014
 canonical_SMILES: F
 UNII: RGL5YE86CZ
-NSC_number: "750679"
+NSC_number: 750679
 InChI: InChI=1S/FH/h1H
-ZVG_number: "520038"
+ZVG_number: 520038
 InChIKey: KRHYYFGTRYWZRS-UHFFFAOYSA-N
 chemical_formula: HF
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen%20fluoride.JPG

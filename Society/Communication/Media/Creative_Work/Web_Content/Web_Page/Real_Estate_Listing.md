@@ -4,20 +4,22 @@ aliases:
   - real_estate_listing
   - RealEstateListing
   - is_a_real_estate_listing
+  - Real_Estate_Listing
+  - Real Estate Listing
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - real_estate_listing
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_real_estate_listing Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

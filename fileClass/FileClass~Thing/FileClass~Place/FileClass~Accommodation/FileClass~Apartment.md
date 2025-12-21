@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Apartment
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: false
 tagNames:
-- class/Apartment
-- class/Thing/Place/Accommodation/Apartment
-- is_an_/Apartment
-- schema-org/Apartment
+  - class/Apartment
+  - class/Thing/Place/Accommodation/Apartment
+  - is_an_/Apartment
+  - schema-org/Apartment
 tags:
-- class/FileClass
-- class/Apartment
-- '#is_an_/Apartment'
-- class/Thing/Place/Accommodation/Apartment
+  - class/FileClass
+  - class/Apartment
+  - '#is_an_/Apartment'
+  - class/Thing/Place/Accommodation/Apartment
 version: 2.0
 ---
 

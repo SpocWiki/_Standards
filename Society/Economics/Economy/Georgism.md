@@ -2,12 +2,13 @@
 aliases:
   - Geoism
   - single tax movement
+  - Georgism
 has_id_wikidata: Q679595
-named_after: "[[../../../WikiData/WD~Henry_George,355245]]"
-part_of: "[[_Standards/WikiData/WD~heterodox_economics,1582475]]"
+named_after: '[[../../../WikiData/WD~Henry_George,355245]]'
+part_of: '[[_Standards/WikiData/WD~heterodox_economics,1582475]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~economic_ideology,5333510]]"
-  - "[[_Standards/WikiData/WD~political_ideology,12909644]]"
+  - '[[_Standards/WikiData/WD~economic_ideology,5333510]]'
+  - '[[_Standards/WikiData/WD~political_ideology,12909644]]'
 described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Everybody%20works%20but%20the%20vacant%20lot%20%28cropped%29.jpg

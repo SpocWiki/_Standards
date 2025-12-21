@@ -4,22 +4,24 @@ aliases:
   - tracking_number
   - trackingNumber
   - has_text_of_tracking_number
+  - has_tracking_number
+  - has tracking number
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - tracking
   - number
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_tracking_number
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

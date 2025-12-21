@@ -2,12 +2,14 @@
 aliases:
   - Gross domestic product
   - GDP
+  - GDP(Gross_domestic_Product)
+  - GDP(Gross domestic Product)
 has_id_wikidata: Q12638
 different_from: "[[_Standards/WikiData/WD~list_of_countries_by_GDP_(PPP)_per_capita,207987]]"
 subclass_of: "[[_Standards/WikiData/WD~macroeconomic_indicator,9378373]]"
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>1</mn></mrow></mrow></msup></mstyle></mrow></math>
 studied_by: "[[_Standards/WikiData/WD~macroeconomics,39680]]"
-OmegaWiki_Defined_Meaning: "4438"
+OmegaWiki_Defined_Meaning: 4438
 image: http://commons.wikimedia.org/wiki/Special:FilePath/How%20is%20GDP%20calculated%3F.png
 UMLS_CUI: C2936646
 Commons_gallery: Gross domestic product

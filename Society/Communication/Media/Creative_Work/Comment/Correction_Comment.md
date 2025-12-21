@@ -4,20 +4,22 @@ aliases:
   - correction_comment
   - CorrectionComment
   - is_a_correction_comment
+  - Correction_Comment
+  - Correction Comment
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - correction_comment
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_correction_comment Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

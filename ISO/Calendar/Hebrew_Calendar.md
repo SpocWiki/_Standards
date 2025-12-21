@@ -3,17 +3,19 @@ aliases:
   - Hebrew calendar
   - הַלּוּחַ הָעִבְרִי
   - Jewish calendar
+  - Hebrew_Calendar
+  - Hebrew Calendar
 has_id_wikidata: Q44722
-subclass_of: "[[_Standards/WikiData/WD~lunisolar_calendar,194235]]"
+subclass_of: '[[_Standards/WikiData/WD~lunisolar_calendar,194235]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-influenced_by: "[[_Standards/WikiData/WD~Babylonian_calendar,726847]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_12_months_of_the_Hebrew_calendar,10513307]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~month_of_the_Hebrew_calendar,18602451]]"
-has_use: "[[_Standards/WikiData/WD~timing,21013308]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+influenced_by: '[[_Standards/WikiData/WD~Babylonian_calendar,726847]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_12_months_of_the_Hebrew_calendar,10513307]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~month_of_the_Hebrew_calendar,18602451]]'
+has_use: '[[_Standards/WikiData/WD~timing,21013308]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/JudischerKalender-1831%20ubt.jpeg
 Commons_gallery: Hebrew calendar
 Commons_category: Hebrew calendar

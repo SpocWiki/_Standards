@@ -4,20 +4,22 @@ aliases:
   - background_news_article
   - BackgroundNewsArticle
   - is_a_background_news_article
+  - Background_News_Article
+  - Background News Article
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - background_news_article
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_background_news_article Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

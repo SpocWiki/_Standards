@@ -1,24 +1,26 @@
 ---
 aliases:
   - Segrè chart
+  - Table_of_Nuclides
+  - Table of Nuclides
 has_id_wikidata: Q130399
 contributor_to_the_creative_work_or_subject:
-  - "[[_Standards/WikiData/WD~Walter_Seelmann_Eggebert,91383]]"
-  - "[[_Standards/WikiData/WD~Emilio_G._Segrè,173028]]"
-  - "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
-named_after: "[[_Standards/WikiData/WD~Emilio_G._Segrè,173028]]"
+  - '[[_Standards/WikiData/WD~Walter_Seelmann_Eggebert,91383]]'
+  - '[[_Standards/WikiData/WD~Emilio_G._Segrè,173028]]'
+  - '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
+named_after: '[[_Standards/WikiData/WD~Emilio_G._Segrè,173028]]'
 uses:
-  - "[[_Standards/WikiData/WD~quantity,309314]]"
-  - "[[_Standards/WikiData/WD~atomic_number,23809]]"
+  - '[[_Standards/WikiData/WD~quantity,309314]]'
+  - '[[_Standards/WikiData/WD~atomic_number,23809]]'
 depicts:
-  - "[[_Standards/WikiData/WD~decay_mode,1048111]]"
-  - "[[_Standards/WikiData/WD~half_life,47270]]"
+  - '[[_Standards/WikiData/WD~decay_mode,1048111]]'
+  - '[[_Standards/WikiData/WD~half_life,47270]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~valley_of_stability,3554047]]"
-  - "[[_Standards/WikiData/WD~island_of_stability,11774759]]"
-  - "[[_Standards/WikiData/WD~continent_of_stability,55608358]]"
-  - "[[_Standards/WikiData/WD~sea_of_instability,121503442]]"
-subclass_of: "[[_Standards/WikiData/WD~chart,28923]]"
+  - '[[_Standards/WikiData/WD~valley_of_stability,3554047]]'
+  - '[[_Standards/WikiData/WD~island_of_stability,11774759]]'
+  - '[[_Standards/WikiData/WD~continent_of_stability,55608358]]'
+  - '[[_Standards/WikiData/WD~sea_of_instability,121503442]]'
+subclass_of: '[[_Standards/WikiData/WD~chart,28923]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NuclideMap%20stitched%202.png
 Commons_category: Chart of nuclides
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
   - Wurst
+  - Sausage
 has_id_wikidata: Q131419
 has_part_s_:
-  - "[[_Standards/WikiData/WD~fat,127980]]"
-  - "[[_Standards/WikiData/WD~food_additive,189567]]"
-  - "[[_Standards/WikiData/WD~sausage_casing,1372144]]"
-  - "[[_Standards/WikiData/WD~minced_meat,13400960]]"
-  - "[[_Standards/WikiData/WD~table_salt,11254]]"
-subclass_of: "[[_Standards/WikiData/WD~charcuterie,260568]]"
+  - '[[_Standards/WikiData/WD~fat,127980]]'
+  - '[[_Standards/WikiData/WD~food_additive,189567]]'
+  - '[[_Standards/WikiData/WD~sausage_casing,1372144]]'
+  - '[[_Standards/WikiData/WD~minced_meat,13400960]]'
+  - '[[_Standards/WikiData/WD~table_salt,11254]]'
+subclass_of: '[[_Standards/WikiData/WD~charcuterie,260568]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Vienna_sausage,327316]]"
-  - "[[_Standards/WikiData/WD~Frankfurter_Würstchen,681770]]"
+  - '[[_Standards/WikiData/WD~Vienna_sausage,327316]]'
+  - '[[_Standards/WikiData/WD~Frankfurter_Würstchen,681770]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-instance_of: "[[_Standards/WikiData/WD~human_food,8195619]]"
-has_list: "[[_Standards/WikiData/WD~list_of_sausages,17099036]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+instance_of: '[[_Standards/WikiData/WD~human_food,8195619]]'
+has_list: '[[_Standards/WikiData/WD~list_of_sausages,17099036]]'
 carbon_footprint: 12.1
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-%D0%BA%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%B0.ogg
@@ -30,7 +31,7 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/P%C3%B8lse%20med%20potetmos.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sausages%20%283166899455%29.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Wurstteller%20mit%20Bierschinken%2C%20ger%C3%A4ucherte%20Leberwurst%20und%20Blutwurst.jpg
-USDA_NDB_number: "07927"
+USDA_NDB_number: 07927
 booru_tag: sausage
 Danbooru_tag: sausage
 IMDb_keyword: sausage
@@ -40,8 +41,8 @@ video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sausage%20production%20italy%2001.ogv
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sausage%20production%20italy%2002.ogv
 exact_match: http://purl.obolibrary.org/obo/ENVO_00002166
-Common_Procurement_Vocabulary_code: "15131130"
-Amazon_com_browse_node: "371476011"
+Common_Procurement_Vocabulary_code: 15131130
+Amazon_com_browse_node: 371476011
 Iconclass_notation: 41C693
 FoodEx2_code: A024F
 Commons_category: Sausages

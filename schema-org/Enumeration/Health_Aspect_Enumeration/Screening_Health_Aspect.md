@@ -4,21 +4,23 @@ aliases:
   - screening_health_aspect
   - ScreeningHealthAspect
   - is_a_screening_health_aspect
+  - Screening_Health_Aspect
+  - Screening Health Aspect
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - screening_health_aspect
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_screening_health_aspect Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

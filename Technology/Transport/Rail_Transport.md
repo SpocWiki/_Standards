@@ -4,6 +4,8 @@ aliases:
   - Rail transport
   - Train transportation
   - Train transport
+  - Rail_Transport
+  - Rail Transport
 has_id_wikidata: Q3565868
 uses:
   - "[[_Standards/WikiData/WD~railway_track,160342]]"
@@ -39,11 +41,11 @@ part_of:
   - "[[_Standards/WikiData/WD~rail_transport_industry,136688018]]"
   - "[[_Standards/WikiData/WD~transport,7590]]"
 Dewey_Decimal_Classification:
-  - "385"
-  - "625"
-IAB_code: "669"
-International_Standard_Industrial_Classification_code_Rev_4: "491"
-U_S_National_Archives_Identifier: "10641497"
+  - 385
+  - 625
+IAB_code: 669
+International_Standard_Industrial_Classification_code_Rev_4: 491
+U_S_National_Archives_Identifier: 10641497
 Colon_Classification:
   - D515
   - X415
@@ -54,7 +56,7 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Amtrak%20Califor
 IPTC_NewsCode: mediatopic/20000340
 ---
 
-# [[Rail_Transport]] 
+# [[Rail_Transport]] 🛤 
 
 #is_/same_as :: [[../../WikiData/WD~Rail_transport,3565868|WD~Rail_transport,3565868]]
 

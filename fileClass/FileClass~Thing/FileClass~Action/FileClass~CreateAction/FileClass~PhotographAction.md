@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PhotographAction
+excludes: ''
 extends: FileClass~Thing/FileClass~Action/FileClass~CreateAction
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PhotographAction
-- class/Thing/Action/CreateAction/PhotographAction
-- is_a_/PhotographAction
-- schema-org/PhotographAction
+  - class/PhotographAction
+  - class/Thing/Action/CreateAction/PhotographAction
+  - is_a_/PhotographAction
+  - schema-org/PhotographAction
 tags:
-- class/FileClass
-- class/PhotographAction
-- is_a_/PhotographAction
-- class/Thing/Action/CreateAction/PhotographAction
+  - class/FileClass
+  - class/PhotographAction
+  - is_a_/PhotographAction
+  - class/Thing/Action/CreateAction/PhotographAction
 version: 2.0
 ---
 

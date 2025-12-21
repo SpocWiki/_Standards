@@ -1,6 +1,7 @@
 ---
 aliases:
   - Teleskop
+  - Telescope
 has_id_wikidata: Q4213
 discoverer_or_inventor:
   - "[[_Standards/WikiData/WD~Hans_Lippershay,76468]]"
@@ -27,10 +28,10 @@ different_from:
   - "[[_Standards/WikiData/WD~Telescopium,10546]]"
 practiced_by: "[[_Standards/WikiData/WD~telescope_maker,66060315]]"
 inception: 1607-01-01T00:00:00Z
-Amazon_com_browse_node: "281063"
-OmegaWiki_Defined_Meaning: "456430"
-U_S_National_Archives_Identifier: "10666372"
-Iconclass_notation: "49E2514"
+Amazon_com_browse_node: 281063
+OmegaWiki_Defined_Meaning: 456430
+U_S_National_Archives_Identifier: 10666372
+Iconclass_notation: .inf
 Google_Doodle: 400th-anniversary-of-galileos-telescope
 Commons_category: Telescopes
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lunette%20mg%202368.jpg
@@ -41,7 +42,7 @@ OpenStreetMap_tag_or_key: Tag:man_made=telescope
 Commons_gallery: Telescope
 ---
 
-# [[Telescope]] 
+# [[Telescope]] 🔭 
 
 #is_/same_as :: [[../../../WikiData/WD~Telescope,4213|WD~Telescope,4213]] 
 

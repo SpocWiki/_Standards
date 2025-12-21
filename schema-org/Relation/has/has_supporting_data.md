@@ -3,23 +3,24 @@ aliases:
   - has supporting-data
   - supportingData
   - has_supporting_data
+  - has supporting data
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - supporting_data
   - supporting
   - data
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_supporting_data
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

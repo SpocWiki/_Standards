@@ -1,26 +1,28 @@
 ---
-has_id_wikidata: Q11366
 aliases:
   - Alternative rock
   - alt-rock
+  - Alternative_Rock
+  - Alternative Rock
+has_id_wikidata: Q11366
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~radio_format,589183]]"
-different_from: "[[_Standards/WikiData/WD~alternative_music,1695023]]"
+  - '[[_Standards/WikiData/WD~music_genre,188451]]'
+  - '[[_Standards/WikiData/WD~radio_format,589183]]'
+different_from: '[[_Standards/WikiData/WD~alternative_music,1695023]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~alternative_music,1695023]]"
-  - "[[_Standards/WikiData/WD~rock_music,11399]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Alternative_rock,14615030]]"
-has_characteristic: "[[_Standards/WikiData/WD~rock_genre,107975727]]"
+  - '[[_Standards/WikiData/WD~alternative_music,1695023]]'
+  - '[[_Standards/WikiData/WD~rock_music,11399]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Alternative_rock,14615030]]'
+has_characteristic: '[[_Standards/WikiData/WD~rock_genre,107975727]]'
 country_of_origin:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-IAB_code: "365"
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+IAB_code: 365
 inception: 1978-01-01T00:00:00Z
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Padova%20REM%20concert%20July%2022%202003%20blue.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sonic%20Youth%20live%2020050707.jpg
-P8189: "987007549222205171"
+P8189: 987007549222205171
 Commons_category: Alternative rock
 subreddit: alternativerock
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Portrayal%20-%2001%20-%20Lost%20Souls.ogg

@@ -1,20 +1,21 @@
 ---
 aliases:
   - Great Attractor
+  - Great_Attractor
 has_id_wikidata: Q656857
-research_site: "[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]"
+research_site: '[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~galaxy_filament,1133705]]"
-  - "[[_Standards/WikiData/WD~gravity_anomaly,1413914]]"
-  - "[[_Standards/WikiData/WD~supercluster,27521]]"
-has_effect: "[[_Standards/WikiData/WD~peculiar_velocity,1253791]]"
-different_from: "[[_Standards/WikiData/WD~dark_flow,1266091]]"
+  - '[[_Standards/WikiData/WD~galaxy_filament,1133705]]'
+  - '[[_Standards/WikiData/WD~gravity_anomaly,1413914]]'
+  - '[[_Standards/WikiData/WD~supercluster,27521]]'
+has_effect: '[[_Standards/WikiData/WD~peculiar_velocity,1253791]]'
+different_from: '[[_Standards/WikiData/WD~dark_flow,1266091]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Zone_of_Avoidance,2081504]]"
-  - "[[_Standards/WikiData/WD~Laniakea_Supercluster,17863945]]"
-theorized_by: "[[_Standards/WikiData/WD~Alan_Dressler,4706535]]"
-constellation: "[[_Standards/WikiData/WD~Norma,10582]]"
-named_after: "[[_Standards/WikiData/WD~gravity,11412]]"
+  - '[[_Standards/WikiData/WD~Zone_of_Avoidance,2081504]]'
+  - '[[_Standards/WikiData/WD~Laniakea_Supercluster,17863945]]'
+theorized_by: '[[_Standards/WikiData/WD~Alan_Dressler,4706535]]'
+constellation: '[[_Standards/WikiData/WD~Norma,10582]]'
+named_after: '[[_Standards/WikiData/WD~gravity,11412]]'
 declination: -46
 speed: 0
 mass: 50000000000000000

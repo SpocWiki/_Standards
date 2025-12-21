@@ -2,6 +2,7 @@
 aliases:
   - vapourisation
   - Verdunstung
+  - Vaporization
 has_id_wikidata: Q6452502
 ---
 

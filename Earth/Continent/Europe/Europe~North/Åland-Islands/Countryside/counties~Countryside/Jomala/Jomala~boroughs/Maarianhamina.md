@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Maarianhamina
 confidential: public
 isDeleted: false
 location:
-- 60.1
-- 19.95
+  - 60.1
+  - 19.95
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32200
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

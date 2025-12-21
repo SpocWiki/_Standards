@@ -1,48 +1,49 @@
 ---
 aliases:
   - Folter
+  - Torture
 has_id_wikidata: Q132781
 Archive_of_Our_Own_tag: Torture
 Commons_category: Torture
-Dewey_Decimal_Classification: "365.64"
+Dewey_Decimal_Classification: 365.64
 booru_tag:
   - implied_torture
   - torture
-has_effect: "[[_Standards/WikiData/WD~pain,81938]]"
+has_effect: '[[_Standards/WikiData/WD~pain,81938]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~crime,83267]]"
-  - "[[_Standards/WikiData/WD~criminal_justice,117488]]"
-  - "[[_Standards/WikiData/WD~violence,124490]]"
-  - "[[_Standards/WikiData/WD~intentional_human_activity,451967]]"
-  - "[[_Standards/WikiData/WD~human_rights_violation,11376059]]"
-  - "[[_Standards/WikiData/WD~inhumane_treatment,65969379]]"
-  - "[[_Standards/WikiData/WD~corporal_punishment,305]]"
+  - '[[_Standards/WikiData/WD~crime,83267]]'
+  - '[[_Standards/WikiData/WD~criminal_justice,117488]]'
+  - '[[_Standards/WikiData/WD~violence,124490]]'
+  - '[[_Standards/WikiData/WD~intentional_human_activity,451967]]'
+  - '[[_Standards/WikiData/WD~human_rights_violation,11376059]]'
+  - '[[_Standards/WikiData/WD~inhumane_treatment,65969379]]'
+  - '[[_Standards/WikiData/WD~corporal_punishment,305]]'
 has_use:
-  - "[[_Standards/WikiData/WD~punishment,186361]]"
-  - "[[_Standards/WikiData/WD~interrogation,327018]]"
+  - '[[_Standards/WikiData/WD~punishment,186361]]'
+  - '[[_Standards/WikiData/WD~interrogation,327018]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Convention_against_Torture_and_Other_Cruel,_Inhuman_or_Degrading_Treatment_or_Punishment,851857]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~enhanced_interrogation_techniques,3516835]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-practiced_by: "[[_Standards/WikiData/WD~torturer,20725072]]"
-different_from: "[[_Standards/WikiData/WD~Tortura,21057449]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Torture,59962934]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_crime,130583773]]"
-OmegaWiki_Defined_Meaning: "883139"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Convention_against_Torture_and_Other_Cruel,_Inhuman_or_Degrading_Treatment_or_Punishment,851857]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~enhanced_interrogation_techniques,3516835]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+practiced_by: '[[_Standards/WikiData/WD~torturer,20725072]]'
+different_from: '[[_Standards/WikiData/WD~Tortura,21057449]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Torture,59962934]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_crime,130583773]]'
+OmegaWiki_Defined_Meaning: 883139
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Brockhaus%20and%20Efron%20Encyclopedic%20Dictionary%20b50%20897-0.jpg
 IMDb_keyword: torture
 PhilPapers_topic: torture
 Iconclass_notation: 44G33
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Folter.ogg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Torture.mp3
-U_S_National_Archives_Identifier: "10644608"
+U_S_National_Archives_Identifier: 10644608
 UMLS_CUI: C0040488
 MeSH_tree_code:
   - I01.198.240.856.825

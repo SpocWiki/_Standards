@@ -1,22 +1,24 @@
 ---
 aliases:
   - Laplace transform
+  - Laplace_Transform
+  - Laplace Transform
 has_id_wikidata: Q199691
-subclass_of: "[[_Standards/WikiData/WD~integral_transform,877802]]"
+subclass_of: '[[_Standards/WikiData/WD~integral_transform,877802]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~integral_transform,877802]]"
-  - "[[_Standards/WikiData/WD~mathematical_concept,24034552]]"
-mathematical_inverse: "[[_Standards/WikiData/WD~inverse_Laplace_transform,2162701]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]"
-different_from: "[[_Standards/WikiData/WD~Laplace_transformation,111178326]]"
-uses: "[[_Standards/WikiData/WD~complex_frequency,123669327]]"
+  - '[[_Standards/WikiData/WD~integral_transform,877802]]'
+  - '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+mathematical_inverse: '[[_Standards/WikiData/WD~inverse_Laplace_transform,2162701]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+different_from: '[[_Standards/WikiData/WD~Laplace_transformation,111178326]]'
+uses: '[[_Standards/WikiData/WD~complex_frequency,123669327]]'
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi data-mjx-variant="-tex-calligraphic">ℒ</mi></mrow><mi>f</mi></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>s</mi></mstyle></mrow></math>
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mrow data-mjx-texclass="ORD"><mi data-mjx-variant="-tex-calligraphic">ℒ</mi></mrow><mi>f</mi><mo data-mjx-texclass="CLOSE">)</mo></mrow><mo stretchy="false">(</mo><mi>s</mi><mo stretchy="false">)</mo><mo stretchy="false">=</mo><munderover><mo form="prefix" stretchy="false">&#x222B;</mo><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">&#x221E;</mi></mrow></munderover><msup><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">e</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mi>s</mi><mi>t</mi></mrow></mrow></msup><mi>f</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">d</mi></mrow><mi>t</mi></mstyle></mrow></math>
-named_after: "[[_Standards/WikiData/WD~Pierre_Simon_Laplace,44481]]"
+named_after: '[[_Standards/WikiData/WD~Pierre_Simon_Laplace,44481]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Laplace%20animation%20of%20Cubic%20Polynomial.gif
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Laplace%20transform%20visual.png
 schematic:

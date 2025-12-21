@@ -1,6 +1,9 @@
 ---
+aliases:
+  - Gallium
+has_id_wikidata: Q861
 atomic_number: 31
-canonical_SMILES: "[Ga]"
+canonical_SMILES: '[Ga]'
 CAS_Registry_Number: 7440-55-3
 chemical_formula: Ga
 Commons_category: Gallium
@@ -13,50 +16,49 @@ density:
   - 5.904
   - 6.095
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Gallium,84658438]]"
-different_from: "[[_Standards/WikiData/WD~Gal,141487]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Paul-Émile_Lecoq_de_Boisbaudran,366827]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Gallium,84658438]]'
+different_from: '[[_Standards/WikiData/WD~Gal,141487]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Paul-Émile_Lecoq_de_Boisbaudran,366827]]'
 DSSTOX_compound_identifier: DTXCID5047661
 EC_number: 231-163-8
 electronegativity: 1.81
 element_symbol: Ga
-has_effect: "[[_Standards/WikiData/WD~embrittlement,2919530]]"
-has_id_wikidata: Q861
+has_effect: '[[_Standards/WikiData/WD~embrittlement,2919530]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gallium%20crystals.jpg
 InChI: InChI=1S/Ga
 InChIKey: GYHNNYVSQQEPJS-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
   - 0.47
   - 0.62
 Krugosvet_article: nauka_i_tehnika/himiya/GALLI.html
 made_from_material:
-  - "[[_Standards/WikiData/WD~bauxite,102078]]"
-  - "[[_Standards/WikiData/WD~gallite,411230]]"
-  - "[[_Standards/WikiData/WD~zinc_ore,12168819]]"
+  - '[[_Standards/WikiData/WD~bauxite,102078]]'
+  - '[[_Standards/WikiData/WD~gallite,411230]]'
+  - '[[_Standards/WikiData/WD~zinc_ore,12168819]]'
 mass: 69.723
 MeSH_tree_code:
   - D01.268.556.289
   - D01.552.544.289
-named_after: "[[_Standards/WikiData/WD~Gaul,38060]]"
+named_after: '[[_Standards/WikiData/WD~Gaul,38060]]'
 OmegaWiki_Defined_Meaning: 159177
 oxidation_state:
   - 1
   - 2
   - 3
 part_of:
-  - "[[_Standards/WikiData/WD~group_13,189294]]"
-  - "[[_Standards/WikiData/WD~period_4,239825]]"
+  - '[[_Standards/WikiData/WD~group_13,189294]]'
+  - '[[_Standards/WikiData/WD~period_4,239825]]'
 PubChem_CID: 5360835
 SpocWebEntityId: 21929
-subclass_of: "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
+subclass_of: '[[_Standards/WikiData/WD~post-transition_metal,19591]]'
 time_of_discovery_or_invention: 1875
 type: Element
 UMLS_CUI: C0016980

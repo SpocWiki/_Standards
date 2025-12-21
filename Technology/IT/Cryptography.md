@@ -1,33 +1,34 @@
 ---
 aliases:
   - Kryptographie
+  - Cryptography
 has_id_wikidata: Q8789
 has_part_s_:
-  - "[[_Standards/WikiData/WD~public_key_cryptography,201339]]"
-  - "[[_Standards/WikiData/WD~symmetric_key_algorithm,327675]]"
-  - "[[_Standards/WikiData/WD~quantum_cryptography,471906]]"
-  - "[[_Standards/WikiData/WD~post_quantum_cryptography,7233576]]"
+  - '[[_Standards/WikiData/WD~public_key_cryptography,201339]]'
+  - '[[_Standards/WikiData/WD~symmetric_key_algorithm,327675]]'
+  - '[[_Standards/WikiData/WD~quantum_cryptography,471906]]'
+  - '[[_Standards/WikiData/WD~post_quantum_cryptography,7233576]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~security_engineering,365674]]"
-  - "[[_Standards/WikiData/WD~technique,2695280]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_cryptography,467928]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_cryptography,620009]]"
+  - '[[_Standards/WikiData/WD~security_engineering,365674]]'
+  - '[[_Standards/WikiData/WD~technique,2695280]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_cryptography,467928]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_cryptography,620009]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Security_Engineering_A_Guide_to_Building_Dependable_Distributed_Systems,_2nd_edition,47482102]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-is_the_study_of: "[[_Standards/WikiData/WD~cryptosystem,976521]]"
-part_of: "[[_Standards/WikiData/WD~cryptology,1430062]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Cryptography_navbox,10858706]]"
-instance_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-practiced_by: "[[_Standards/WikiData/WD~cryptographer,15442776]]"
-significant_event: "[[_Standards/WikiData/WD~crypto_wars,18387876]]"
-OmegaWiki_Defined_Meaning: "676340"
-U_S_National_Archives_Identifier: "10644644"
-ACM_Classification_Code_2012_: "10002979"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Security_Engineering_A_Guide_to_Building_Dependable_Distributed_Systems,_2nd_edition,47482102]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+is_the_study_of: '[[_Standards/WikiData/WD~cryptosystem,976521]]'
+part_of: '[[_Standards/WikiData/WD~cryptology,1430062]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Cryptography_navbox,10858706]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~cryptographer,15442776]]'
+significant_event: '[[_Standards/WikiData/WD~crypto_wars,18387876]]'
+OmegaWiki_Defined_Meaning: 676340
+U_S_National_Archives_Identifier: 10644644
+ACM_Classification_Code_2012_: 10002979
 GitHub_topic:
   - cryptography
   - crypto

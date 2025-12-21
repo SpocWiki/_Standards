@@ -1,21 +1,23 @@
 ---
 aliases:
   - Zins
+  - Interest_Payment
+  - Interest Payment
 has_id_wikidata: Q170924
-instance_of: "[[_Standards/WikiData/WD~rate,736288]]"
-part_of: "[[_Standards/WikiData/WD~banking_system,806737]]"
+instance_of: '[[_Standards/WikiData/WD~rate,736288]]'
+part_of: '[[_Standards/WikiData/WD~banking_system,806737]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-subclass_of: "[[_Standards/WikiData/WD~money_amount,30242023]]"
-OmegaWiki_Defined_Meaning: "1980"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+subclass_of: '[[_Standards/WikiData/WD~money_amount,30242023]]'
+OmegaWiki_Defined_Meaning: 1980
 Library_of_Congress_Classification: HB535-HB551
-U_S_National_Archives_Identifier: "10637866"
+U_S_National_Archives_Identifier: 10637866
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Malawi%20interest%20rates.JPG
 Iconclass_notation: 46B4711
 ---

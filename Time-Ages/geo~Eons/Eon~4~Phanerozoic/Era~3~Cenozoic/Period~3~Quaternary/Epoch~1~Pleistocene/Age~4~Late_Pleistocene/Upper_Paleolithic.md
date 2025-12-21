@@ -3,14 +3,15 @@ aliases:
   - Upper Palaeolithic
   - Upper Paleolithic
   - Jungpaläolithikum
+  - Upper_Paleolithic
 has_id_wikidata: Q479505
 instance_of:
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-  - "[[_Standards/WikiData/WD~archaeological_period,15401633]]"
+  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
+  - '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
 start_time:
   - -38000-01-01T00:00:00Z
   - -48000-01-01T00:00:00Z
-location: "[[_Standards/WikiData/WD~Eurasia,5401]]"
+location: '[[_Standards/WikiData/WD~Eurasia,5401]]'
 end_time: -7700-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lascaux%20painting.jpg
 Commons_category: Upper Paleolithic

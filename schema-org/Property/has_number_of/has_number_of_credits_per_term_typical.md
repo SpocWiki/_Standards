@@ -4,21 +4,22 @@ aliases:
   - typical_credits_per_term
   - typicalCreditsPerTerm
   - has_number_of_credits_per_term_typical
+  - has number of credits per term typical
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - typical_credits_per_term
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_typical_credits_per_term
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

@@ -5,20 +5,21 @@ aliases:
   - Uralic languages
   - Uralic language
   - Uralic
+  - LangFamily-Uralic
 has_id_wikidata: Q34113
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Ugric,156631]]"
-  - "[[_Standards/WikiData/WD~Finno_Permic,161240]]"
-  - "[[_Standards/WikiData/WD~Samoyedic,34005]]"
-  - "[[_Standards/WikiData/WD~Yukaghir,34164]]"
-linguistic_typology: "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
-studied_by: "[[_Standards/WikiData/WD~uralistics,2499930]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Uralic_languages,6098427]]"
-different_from: "[[_Standards/WikiData/WD~Urali,7899602]]"
-subclass_of: "[[_Standards/WikiData/WD~human_language,20162172]]"
-instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
-Dewey_Decimal_Classification: "494"
-OmegaWiki_Defined_Meaning: "344173"
+  - '[[_Standards/WikiData/WD~Ugric,156631]]'
+  - '[[_Standards/WikiData/WD~Finno_Permic,161240]]'
+  - '[[_Standards/WikiData/WD~Samoyedic,34005]]'
+  - '[[_Standards/WikiData/WD~Yukaghir,34164]]'
+linguistic_typology: '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
+studied_by: '[[_Standards/WikiData/WD~uralistics,2499930]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Uralic_languages,6098427]]'
+different_from: '[[_Standards/WikiData/WD~Urali,7899602]]'
+subclass_of: '[[_Standards/WikiData/WD~human_language,20162172]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
+Dewey_Decimal_Classification: 494
+OmegaWiki_Defined_Meaning: 344173
 start_time: -5000-06
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%B8%D0%B5%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8%20%D0%B2%20%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9%20%D1%81%D0%B5%D0%BC%D1%8C%D0%B5.png

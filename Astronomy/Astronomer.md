@@ -1,11 +1,12 @@
 ---
 aliases:
   - Astronom
+  - Astronomer
 has_id_wikidata: Q11063
 described_by_source:
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 male_form_of_label:
   - فلكي
   - astronomo
@@ -49,19 +50,19 @@ female_form_of_label:
   - astronomka
   - астрономка
   - jistelavan
-opposite_of: "[[_Standards/WikiData/WD~pseudoastronomer,120628718]]"
-subclass_of: "[[_Standards/WikiData/WD~scientist,901]]"
-instance_of: "[[_Standards/WikiData/WD~profession,28640]]"
-ISCO_08_occupation_class: "2111"
-ISCO_88_occupation_class: "2111"
-OmegaWiki_Defined_Meaning: "392133"
-CPP_2010: "2111.2"
+opposite_of: '[[_Standards/WikiData/WD~pseudoastronomer,120628718]]'
+subclass_of: '[[_Standards/WikiData/WD~scientist,901]]'
+instance_of: '[[_Standards/WikiData/WD~profession,28640]]'
+ISCO_08_occupation_class: 2111
+ISCO_88_occupation_class: 2111
+OmegaWiki_Defined_Meaning: 392133
+CPP_2010: 2111.2
 SOC_Code_2010_: 19-2011
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Islamic%20astronomer%20book%20page.jpg
 Dictionary_of_Occupational_Titles_Code_fourth_edition_revised_: 021.067-010
 O_NET_OnLine_code: 19-2011.00
-Dewey_Decimal_Classification: "520.92"
-P8189: "987007295080705171"
+Dewey_Decimal_Classification: 520.92
+P8189: 987007295080705171
 Commons_category: Astronomers
 Provenio_UUID: bfe867b8-334c-4500-9a80-0c267556ca37
 UMLS_CUI: C0334726

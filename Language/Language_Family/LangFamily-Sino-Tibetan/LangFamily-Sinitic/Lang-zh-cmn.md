@@ -1,71 +1,72 @@
 ---
-ABS_ASCL_2011_code: 7104
 aliases:
-- Chinese
-- Mandarin
-- "Mandarin Chinese"
-Commons_category: "Mandarin Chinese language"
+  - Chinese
+  - Mandarin
+  - Mandarin Chinese
+  - Lang-zh-cmn
+has_id_wikidata: Q9192
+ABS_ASCL_2011_code: 7104
+Commons_category: Mandarin Chinese language
 country:
-- '[[_Standards/WikiData/WD~Singapore,334]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Brunei,921]]'
-- '[[_Standards/WikiData/WD~Philippines,928]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Indonesia,252]]'
+  - '[[_Standards/WikiData/WD~Singapore,334]]'
+  - '[[_Standards/WikiData/WD~Malaysia,833]]'
+  - '[[_Standards/WikiData/WD~Taiwan,865]]'
+  - '[[_Standards/WikiData/WD~Brunei,921]]'
+  - '[[_Standards/WikiData/WD~Philippines,928]]'
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - '[[_Standards/WikiData/WD~Indonesia,252]]'
 different_from:
-- '[[_Standards/WikiData/WD~Mandarin,10948482]]'
-- '[[_Standards/WikiData/WD~Putonghua,24841726]]'
-distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Chinois%20Mandarin.png"
+  - '[[_Standards/WikiData/WD~Mandarin,10948482]]'
+  - '[[_Standards/WikiData/WD~Putonghua,24841726]]'
+distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Chinois%20Mandarin.png
 Ethnologue_com_language_code: cmn
 Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546]]'
 GitHub_topic: mandarin
 Glottolog_code: mand1415
-has_id_wikidata: Q9192
 IETF_language_tag: cmn
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Guanhua%20swapped.svg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Guanhua%20swapped.svg
 indigenous_to:
-- '[[_Standards/WikiData/WD~Beijing,956]]'
-- '[[_Standards/WikiData/WD~Hong_Kong,8646]]'
-- '[[_Standards/WikiData/WD~Chongqing,11725]]'
-- '[[_Standards/WikiData/WD~Tianjin,11736]]'
-- '[[_Standards/WikiData/WD~Macau,14773]]'
-- '[[_Standards/WikiData/WD~Guangxi,15176]]'
-- '[[_Standards/WikiData/WD~Jiangsu,16963]]'
-- '[[_Standards/WikiData/WD~Heilongjiang,19206]]'
-- '[[_Standards/WikiData/WD~Sichuan,19770]]'
-- '[[_Standards/WikiData/WD~Hebei,21208]]'
-- '[[_Standards/WikiData/WD~Xinjiang,34800]]'
-- '[[_Standards/WikiData/WD~Anhui,40956]]'
-- '[[_Standards/WikiData/WD~Inner_Mongolia,41079]]'
-- '[[_Standards/WikiData/WD~Gansu,42392]]'
-- '[[_Standards/WikiData/WD~Yunnan,43194]]'
-- '[[_Standards/WikiData/WD~Shandong,43407]]'
-- '[[_Standards/WikiData/WD~Henan,43684]]'
-- '[[_Standards/WikiData/WD~Liaoning,43934]]'
-- '[[_Standards/WikiData/WD~Jilin,45208]]'
-- '[[_Standards/WikiData/WD~Hunan,45761]]'
-- '[[_Standards/WikiData/WD~Qinghai,45833]]'
-- '[[_Standards/WikiData/WD~Hubei,46862]]'
-- '[[_Standards/WikiData/WD~Shanxi,46913]]'
-- '[[_Standards/WikiData/WD~Guizhou,47097]]'
-- '[[_Standards/WikiData/WD~Shaanxi,47974]]'
-- '[[_Standards/WikiData/WD~Jiangxi,57052]]'
-- '[[_Standards/WikiData/WD~Ningxia,57448]]'
+  - '[[_Standards/WikiData/WD~Beijing,956]]'
+  - '[[_Standards/WikiData/WD~Hong_Kong,8646]]'
+  - '[[_Standards/WikiData/WD~Chongqing,11725]]'
+  - '[[_Standards/WikiData/WD~Tianjin,11736]]'
+  - '[[_Standards/WikiData/WD~Macau,14773]]'
+  - '[[_Standards/WikiData/WD~Guangxi,15176]]'
+  - '[[_Standards/WikiData/WD~Jiangsu,16963]]'
+  - '[[_Standards/WikiData/WD~Heilongjiang,19206]]'
+  - '[[_Standards/WikiData/WD~Sichuan,19770]]'
+  - '[[_Standards/WikiData/WD~Hebei,21208]]'
+  - '[[_Standards/WikiData/WD~Xinjiang,34800]]'
+  - '[[_Standards/WikiData/WD~Anhui,40956]]'
+  - '[[_Standards/WikiData/WD~Inner_Mongolia,41079]]'
+  - '[[_Standards/WikiData/WD~Gansu,42392]]'
+  - '[[_Standards/WikiData/WD~Yunnan,43194]]'
+  - '[[_Standards/WikiData/WD~Shandong,43407]]'
+  - '[[_Standards/WikiData/WD~Henan,43684]]'
+  - '[[_Standards/WikiData/WD~Liaoning,43934]]'
+  - '[[_Standards/WikiData/WD~Jilin,45208]]'
+  - '[[_Standards/WikiData/WD~Hunan,45761]]'
+  - '[[_Standards/WikiData/WD~Qinghai,45833]]'
+  - '[[_Standards/WikiData/WD~Hubei,46862]]'
+  - '[[_Standards/WikiData/WD~Shanxi,46913]]'
+  - '[[_Standards/WikiData/WD~Guizhou,47097]]'
+  - '[[_Standards/WikiData/WD~Shaanxi,47974]]'
+  - '[[_Standards/WikiData/WD~Jiangxi,57052]]'
+  - '[[_Standards/WikiData/WD~Ningxia,57448]]'
 instance_of: '[[_Standards/WikiData/WD~language,34770]]'
 ISO_639_3_code: cmn
 Linguasphere_code: 79-AAA-b
 linguistic_typology:
-- '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
-- '[[_Standards/WikiData/WD~isolating_language,7423311]]'
+  - '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
+  - '[[_Standards/WikiData/WD~isolating_language,7423311]]'
 number_of_speakers_writers_or_signers: 918000000
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Chinese%20phrasebook%20Street%20in%20Fuzhou.jpg"
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Chinese%20phrasebook%20Street%20in%20Fuzhou.jpg
 replaces: '[[_Standards/WikiData/WD~Middle_Chinese,2016252]]'
 short_name: паўночнакітайская
-Stack_Exchange_tag: "https://linguistics.stackexchange.com/tags/mandarin"
+Stack_Exchange_tag: https://linguistics.stackexchange.com/tags/mandarin
 subclass_of: '[[_Standards/WikiData/WD~Chinese,7850]]'
 tags:
-- Lang/zh
+  - Lang/zh
 topic_s_main_template: '[[_Standards/WikiData/WD~Q20690025,20690025]]'
 type: Lang
 WALS_lect_code: mnd

@@ -4,20 +4,22 @@ aliases:
   - employer_review
   - EmployerReview
   - is_an_employer_review
+  - Employer_Review
+  - Employer Review
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - employer_review
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_employer_review Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

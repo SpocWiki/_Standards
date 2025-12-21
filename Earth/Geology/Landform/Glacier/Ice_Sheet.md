@@ -1,19 +1,21 @@
 ---
 aliases:
   - continental glacier
+  - Ice_Sheet
+  - Ice Sheet
 has_id_wikidata: Q12599
 different_from:
-  - "[[_Standards/WikiData/WD~ice_cap,878077]]"
-  - "[[_Standards/WikiData/WD~ice_shelf,46966]]"
-subclass_of: "[[_Standards/WikiData/WD~ice_cap,878077]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q3761676,3761676]]"
+  - '[[_Standards/WikiData/WD~ice_cap,878077]]'
+  - '[[_Standards/WikiData/WD~ice_shelf,46966]]'
+subclass_of: '[[_Standards/WikiData/WD~ice_cap,878077]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q3761676,3761676]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Antarctica_The_Melting_Continent,127164207]]"
-has_part_s_: "[[_Standards/WikiData/WD~glacial_lobe,98857704]]"
-made_from_material: "[[_Standards/WikiData/WD~ice,23392]]"
-studied_by: "[[_Standards/WikiData/WD~glaciology,52120]]"
-OmegaWiki_Defined_Meaning: "1307432"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Antarctica_The_Melting_Continent,127164207]]'
+has_part_s_: '[[_Standards/WikiData/WD~glacial_lobe,98857704]]'
+made_from_material: '[[_Standards/WikiData/WD~ice,23392]]'
+studied_by: '[[_Standards/WikiData/WD~glaciology,52120]]'
+OmegaWiki_Defined_Meaning: 1307432
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Greenland-ice%20sheet%20hg.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000132
 Commons_category: Ice sheets

@@ -1,19 +1,20 @@
 ---
 aliases:
   - Utilitarismus
+  - Utilitarianism
 has_id_wikidata: Q160590
-subclass_of: "[[_Standards/WikiData/WD~consequentialism,646102]]"
+subclass_of: '[[_Standards/WikiData/WD~consequentialism,646102]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-instance_of: "[[_Standards/WikiData/WD~ethical_theory,58927801]]"
-main_subject: "[[_Standards/WikiData/WD~greatest_happiness_to_the_greatest_number_of_people,115686092]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+instance_of: '[[_Standards/WikiData/WD~ethical_theory,58927801]]'
+main_subject: '[[_Standards/WikiData/WD~greatest_happiness_to_the_greatest_number_of_people,115686092]]'
 developer:
-  - "[[_Standards/WikiData/WD~John_Stuart_Mill,50020]]"
-  - "[[_Standards/WikiData/WD~Jeremy_Bentham,60887]]"
-Dewey_Decimal_Classification: "144.6"
+  - '[[_Standards/WikiData/WD~John_Stuart_Mill,50020]]'
+  - '[[_Standards/WikiData/WD~Jeremy_Bentham,60887]]'
+Dewey_Decimal_Classification: 144.6
 subreddit: Utilitarianism
 Commons_category: Utilitarianism
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Utilitarianism%20%28spoken%20by%20AI%20voice%29.mp3

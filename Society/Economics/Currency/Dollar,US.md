@@ -6,15 +6,16 @@ aliases:
   - dollar
   - U.S. dollar
   - USD
+  - Dollar,US
 has_id_wikidata: Q4917
 instance_of:
-  - "[[_Standards/WikiData/WD~reserve_currency,756202]]"
-  - "[[_Standards/WikiData/WD~currency,8142]]"
-  - "[[_Standards/WikiData/WD~dollar,14083]]"
-different_from: "[[_Standards/WikiData/WD~dollar_sign,11110]]"
-currency_symbol_description: "[[_Standards/WikiData/WD~dollar_sign,11110]]"
-applies_to_jurisdiction: "[[_Standards/WikiData/WD~United_States,30]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~reserve_currency,756202]]'
+  - '[[_Standards/WikiData/WD~currency,8142]]'
+  - '[[_Standards/WikiData/WD~dollar,14083]]'
+different_from: '[[_Standards/WikiData/WD~dollar_sign,11110]]'
+currency_symbol_description: '[[_Standards/WikiData/WD~dollar_sign,11110]]'
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 price:
   - 15
   - 2.7
@@ -31,8 +32,8 @@ price:
   - 0.29963
   - 3.6725
   - 177.721
-central_bank_issuer: "[[_Standards/WikiData/WD~Federal_Reserve_System,53536]]"
-subdivision_of_this_unit: "[[_Standards/WikiData/WD~cent,58093]]"
+central_bank_issuer: '[[_Standards/WikiData/WD~Federal_Reserve_System,53536]]'
+subdivision_of_this_unit: '[[_Standards/WikiData/WD~cent,58093]]'
 ISO_4217_code: USD
 official_name: Federal Reserve System
 unit_symbol: $

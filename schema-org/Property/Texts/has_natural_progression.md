@@ -4,22 +4,24 @@ aliases:
   - natural_progression
   - naturalProgression
   - has_text_of_natural_progression
+  - has_natural_progression
+  - has natural progression
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - natural
   - progression
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_natural_progression
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

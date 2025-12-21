@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Peter Gabriel"
+  - Peter Gabriel
+  - Gabriel,Peter
 ---
 
 > Peter Brian Gabriel (born 13 February 1950) is an English singer, songwriter 

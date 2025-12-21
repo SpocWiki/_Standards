@@ -1,9 +1,10 @@
 ---
 aliases:
-- "Skeletal formula"
-- "line-angle formula"
-- "bond-line formula"
-- "shorthand formula"
+  - Skeletal formula
+  - line-angle formula
+  - bond-line formula
+  - shorthand formula
+  - Skeletal_formula
 ---
 
 ## #has_/text_of_/abstract 

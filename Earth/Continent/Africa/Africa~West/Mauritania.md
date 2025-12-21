@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Mauritania
+  - Mauritanie
+  - موريتانيا
+  - 毛里塔尼亚
+  - Мавритания
+  - the Islamic Republic of Mauritania
+  - la República Islámica de Mauritania
+has_id_wikidata: Q1025
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Sahel,66065]]"
 flag: "[[_Standards/WikiData/WD~flag_of_Mauritania,102977]]"
 member_of:
@@ -308,7 +317,6 @@ Inequality_adjusted_Human_Development_Index: 0.389
 Democracy_Index: 3.92
 madhhab: "[[_Standards/WikiData/WD~Malikism,48221]]"
 Human_Development_Index: 0.556
-has_id_wikidata: Q1025
 location:
   - 18.15
   - -15.9667
@@ -325,20 +333,12 @@ cssclasses:
   - Country
 publish: true
 title: Mauritania
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Mauritania
-  - Mauritanie
-  - موريتانيا
-  - 毛里塔尼亚
-  - Мавритания
-  - the Islamic Republic of Mauritania
-  - la República Islámica de Mauritania
+publishDate: ""
+expiryDate: ""
 Languages:
   - ar-MR
   - fuc

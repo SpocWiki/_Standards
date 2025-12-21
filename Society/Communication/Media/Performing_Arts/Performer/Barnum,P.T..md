@@ -3,66 +3,67 @@ aliases:
   - P._T._Barnum
   - Phineas Taylor Barnum
   - Barnum
+  - Barnum,P.T.
 has_id_wikidata: Q223766
 Libris_URI: xv8cmm2g1wnvlbw
 name_in_native_language: Phineas Barnum
 birth_name: Phineas Taylor Barnum.
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~showman,355242]]"
-  - "[[_Standards/WikiData/WD~circus_performer,17307272]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~businessperson,43845]]"
-place_of_birth: "[[_Standards/WikiData/WD~Bethel,263912]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~showman,355242]]'
+  - '[[_Standards/WikiData/WD~circus_performer,17307272]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+place_of_birth: '[[_Standards/WikiData/WD~Bethel,263912]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_Biographical_Dictionary_of_America,19079852]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~The_Biographical_Dictionary_of_America,19079852]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfzehnter_Band,136385610]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfzehnter_Band,136385610]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Phineas,3090424]]"
-  - "[[_Standards/WikiData/WD~Taylor,3981665]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+  - '[[_Standards/WikiData/WD~Phineas,3090424]]'
+  - '[[_Standards/WikiData/WD~Taylor,3981665]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Joice_Heth,4413239]]"
-  - "[[_Standards/WikiData/WD~waterfall,34038]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-place_of_burial: "[[_Standards/WikiData/WD~Mountain_Grove_Cemetery,6924965]]"
-archives_at: "[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]"
-social_classification: "[[_Standards/WikiData/WD~slave_owner,10076267]]"
+  - '[[_Standards/WikiData/WD~Joice_Heth,4413239]]'
+  - '[[_Standards/WikiData/WD~waterfall,34038]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+place_of_burial: '[[_Standards/WikiData/WD~Mountain_Grove_Cemetery,6924965]]'
+archives_at: '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
+social_classification: '[[_Standards/WikiData/WD~slave_owner,10076267]]'
 position_held:
-  - "[[_Standards/WikiData/WD~Mayor_of_Bridgeport,_Connecticut,11722685]]"
-  - "[[_Standards/WikiData/WD~Member_of_the_Connecticut_House_of_Representatives,18763331]]"
-family_name: "[[_Standards/WikiData/WD~Barnum,28649126]]"
+  - '[[_Standards/WikiData/WD~Mayor_of_Bridgeport,_Connecticut,11722685]]'
+  - '[[_Standards/WikiData/WD~Member_of_the_Connecticut_House_of_Representatives,18763331]]'
+family_name: '[[_Standards/WikiData/WD~Barnum,28649126]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Nancy_Fish,64027451]]"
-  - "[[_Standards/WikiData/WD~Charity_Hallett,109320562]]"
-father: "[[_Standards/WikiData/WD~Philo_Barnum,100947757]]"
-mother: "[[_Standards/WikiData/WD~Irene_Taylor,100947900]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]"
+  - '[[_Standards/WikiData/WD~Nancy_Fish,64027451]]'
+  - '[[_Standards/WikiData/WD~Charity_Hallett,109320562]]'
+father: '[[_Standards/WikiData/WD~Philo_Barnum,100947757]]'
+mother: '[[_Standards/WikiData/WD~Irene_Taylor,100947900]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
 date_of_death: 1891-04-07T00:00:00Z
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-cause_of_death: "[[_Standards/WikiData/WD~stroke,12202]]"
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+cause_of_death: '[[_Standards/WikiData/WD~stroke,12202]]'
 member_of_political_party:
-  - "[[_Standards/WikiData/WD~Republican_Party,29468]]"
-  - "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_death: "[[_Standards/WikiData/WD~Bridgeport,49174]]"
+  - '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+  - '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_death: '[[_Standards/WikiData/WD~Bridgeport,49174]]'
 Commons_gallery: Phineas Taylor Barnum
 Commons_category: Phineas Taylor Barnum
 date_of_birth: 1810-07-05T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/P.%20T.%20Barnum%20-%2002176a%20%28cropped%29.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/PT%20Barnum%20Signature.svg
-ISNI: "0000000110351945"
+ISNI: 0000000110351945
 ---
 
 # [[Barnum,P.T.]] 

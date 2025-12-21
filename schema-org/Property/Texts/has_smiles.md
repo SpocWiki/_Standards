@@ -4,21 +4,23 @@ aliases:
   - smiles
   - smiles
   - has_text_of_smiles
+  - has_smiles
+  - has smiles
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - smiles
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_smiles
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

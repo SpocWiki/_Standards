@@ -4,21 +4,23 @@ aliases:
   - unemployment_support
   - UnemploymentSupport
   - is_an_unemployment_support
+  - Unemployment_Support
+  - Unemployment Support
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: GovernmentBenefitsType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - unemployment_support
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_unemployment_support Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

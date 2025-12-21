@@ -2,107 +2,108 @@
 aliases:
   - Audrey Hepburn
   - Audrey Kathleen Ruston
+  - Hepburn,Audrey
 has_id_wikidata: Q42786
-place_of_death: "[[_Standards/WikiData/WD~Tolochenaz,69398]]"
-residence: "[[_Standards/WikiData/WD~Tolochenaz,69398]]"
-nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]"
+place_of_death: '[[_Standards/WikiData/WD~Tolochenaz,69398]]'
+residence: '[[_Standards/WikiData/WD~Tolochenaz,69398]]'
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]"
-  - "[[_Standards/WikiData/WD~Tony_Award_for_Best_Actress_in_a_Play,185299]]"
-  - "[[_Standards/WikiData/WD~Jean_Hersholt_Humanitarian_Award,202051]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_Motion_Picture_Drama,463085]]"
-  - "[[_Standards/WikiData/WD~Theatre_World_Award,1131356]]"
-  - "[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]"
-  - "[[_Standards/WikiData/WD~New_York_Film_Critics_Circle_Award_for_Best_Actress,1790273]]"
-  - "[[_Standards/WikiData/WD~Special_Tony_Award,2308234]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Spoken_Word_Album_for_Children,3113382]]"
-  - "[[_Standards/WikiData/WD~Donaldson_Awards,5295360]]"
-  - "[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Crystal_Award,56085709]]"
-  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
-  - "[[_Standards/WikiData/WD~Academy_Awards,19020]]"
-  - "[[_Standards/WikiData/WD~Grammy_Awards,41254]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actress_in_a_Play,185299]]'
+  - '[[_Standards/WikiData/WD~Jean_Hersholt_Humanitarian_Award,202051]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_Motion_Picture_Drama,463085]]'
+  - '[[_Standards/WikiData/WD~Theatre_World_Award,1131356]]'
+  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]'
+  - '[[_Standards/WikiData/WD~New_York_Film_Critics_Circle_Award_for_Best_Actress,1790273]]'
+  - '[[_Standards/WikiData/WD~Special_Tony_Award,2308234]]'
+  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Spoken_Word_Album_for_Children,3113382]]'
+  - '[[_Standards/WikiData/WD~Donaldson_Awards,5295360]]'
+  - '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - '[[_Standards/WikiData/WD~Crystal_Award,56085709]]'
+  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+  - '[[_Standards/WikiData/WD~Academy_Awards,19020]]'
+  - '[[_Standards/WikiData/WD~Grammy_Awards,41254]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Funny_Face,147068]]"
-  - "[[_Standards/WikiData/WD~Sabrina,152493]]"
+  - '[[_Standards/WikiData/WD~Funny_Face,147068]]'
+  - '[[_Standards/WikiData/WD~Sabrina,152493]]'
   - "[[_Standards/WikiData/WD~Breakfast_at_Tiffany's,193066]]"
-  - "[[_Standards/WikiData/WD~My_Fair_Lady,201215]]"
-  - "[[_Standards/WikiData/WD~Roman_Holiday,201293]]"
-  - "[[_Standards/WikiData/WD~Charade,496266]]"
+  - '[[_Standards/WikiData/WD~My_Fair_Lady,201215]]'
+  - '[[_Standards/WikiData/WD~Roman_Holiday,201293]]'
+  - '[[_Standards/WikiData/WD~Charade,496266]]'
   - "[[_Standards/WikiData/WD~The_Nun's_Story,781608]]"
-  - "[[_Standards/WikiData/WD~Wait_Until_Dark,5493376]]"
+  - '[[_Standards/WikiData/WD~Wait_Until_Dark,5493376]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~acting,222749]]"
-  - "[[_Standards/WikiData/WD~aid_agency,336473]]"
-  - "[[_Standards/WikiData/WD~film_acting,115160932]]"
+  - '[[_Standards/WikiData/WD~acting,222749]]'
+  - '[[_Standards/WikiData/WD~aid_agency,336473]]'
+  - '[[_Standards/WikiData/WD~film_acting,115160932]]'
 student_of:
-  - "[[_Standards/WikiData/WD~Marie_Rambert,240736]]"
-  - "[[_Standards/WikiData/WD~Constance_Collier,443743]]"
-  - "[[_Standards/WikiData/WD~Sonia_Gaskell,1191898]]"
-  - "[[_Standards/WikiData/WD~Felix_Aylmer,1403322]]"
+  - '[[_Standards/WikiData/WD~Marie_Rambert,240736]]'
+  - '[[_Standards/WikiData/WD~Constance_Collier,443743]]'
+  - '[[_Standards/WikiData/WD~Sonia_Gaskell,1191898]]'
+  - '[[_Standards/WikiData/WD~Felix_Aylmer,1403322]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Mel_Ferrer,333475]]"
-  - "[[_Standards/WikiData/WD~Andrea_Dotti,536106]]"
-medical_condition: "[[_Standards/WikiData/WD~pseudomyxoma_peritonei,574694]]"
-cause_of_death: "[[_Standards/WikiData/WD~pseudomyxoma_peritonei,574694]]"
-employer: "[[_Standards/WikiData/WD~UNICEF,740308]]"
+  - '[[_Standards/WikiData/WD~Mel_Ferrer,333475]]'
+  - '[[_Standards/WikiData/WD~Andrea_Dotti,536106]]'
+medical_condition: '[[_Standards/WikiData/WD~pseudomyxoma_peritonei,574694]]'
+cause_of_death: '[[_Standards/WikiData/WD~pseudomyxoma_peritonei,574694]]'
+employer: '[[_Standards/WikiData/WD~UNICEF,740308]]'
 occupation:
-  - "[[_Standards/WikiData/WD~ballet_dancer,805221]]"
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~model,4610556]]"
-  - "[[_Standards/WikiData/WD~dancer,5716684]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~philanthropist,12362622]]"
-  - "[[_Standards/WikiData/WD~humanitarian,22336956]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Robert_Wolders,1344534]]"
+  - '[[_Standards/WikiData/WD~ballet_dancer,805221]]'
+  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+  - '[[_Standards/WikiData/WD~model,4610556]]'
+  - '[[_Standards/WikiData/WD~dancer,5716684]]'
+  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
+  - '[[_Standards/WikiData/WD~philanthropist,12362622]]'
+  - '[[_Standards/WikiData/WD~humanitarian,22336956]]'
+  - '[[_Standards/WikiData/WD~actor,33999]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Robert_Wolders,1344534]]'
 wears:
-  - "[[_Standards/WikiData/WD~pixie_cut,2097536]]"
-  - "[[_Standards/WikiData/WD~black_Givenchy_dress_of_Audrey_Hepburn,4000130]]"
-hair_color: "[[_Standards/WikiData/WD~brown_hair,2367101]]"
+  - '[[_Standards/WikiData/WD~pixie_cut,2097536]]'
+  - '[[_Standards/WikiData/WD~black_Givenchy_dress_of_Audrey_Hepburn,4000130]]'
+hair_color: '[[_Standards/WikiData/WD~brown_hair,2367101]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Audrey,2639295]]"
-  - "[[_Standards/WikiData/WD~Kathleen,16290387]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-has_list: "[[_Standards/WikiData/WD~list_of_awards_and_honours_received_by_Audrey_Hepburn,6606480]]"
+  - '[[_Standards/WikiData/WD~Audrey,2639295]]'
+  - '[[_Standards/WikiData/WD~Kathleen,16290387]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+has_list: '[[_Standards/WikiData/WD~list_of_awards_and_honours_received_by_Audrey_Hepburn,6606480]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~1001_Vrouwen_uit_de_Nederlandse_geschiedenis,13423107]]"
-  - "[[_Standards/WikiData/WD~1001_vrouwen_in_de_20ste_eeuw,20031271]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~The_Royal_Descents_of_600_Immigrants_to_the_American_Colonies_or_the_United_States_(2004),104788952]]"
-mother: "[[_Standards/WikiData/WD~Ella_van_Heemstra,16010942]]"
-filmography: "[[_Standards/WikiData/WD~Audrey_Hepburn_filmography,16238749]]"
+  - '[[_Standards/WikiData/WD~1001_Vrouwen_uit_de_Nederlandse_geschiedenis,13423107]]'
+  - '[[_Standards/WikiData/WD~1001_vrouwen_in_de_20ste_eeuw,20031271]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~The_Royal_Descents_of_600_Immigrants_to_the_American_Colonies_or_the_United_States_(2004),104788952]]'
+mother: '[[_Standards/WikiData/WD~Ella_van_Heemstra,16010942]]'
+filmography: '[[_Standards/WikiData/WD~Audrey_Hepburn_filmography,16238749]]'
 family_name:
-  - "[[_Standards/WikiData/WD~Hepburn,16842504]]"
-  - "[[_Standards/WikiData/WD~Ruston,37330423]]"
-  - "[[_Standards/WikiData/WD~Hepburn_Ruston,111509624]]"
+  - '[[_Standards/WikiData/WD~Hepburn,16842504]]'
+  - '[[_Standards/WikiData/WD~Ruston,37330423]]'
+  - '[[_Standards/WikiData/WD~Hepburn_Ruston,111509624]]'
 child:
-  - "[[_Standards/WikiData/WD~Sean_Hepburn_Ferrer,17181913]]"
-  - "[[_Standards/WikiData/WD~Luca_Dotti,46991646]]"
-position_held: "[[_Standards/WikiData/WD~UNICEF_Goodwill_Ambassador,19969187]]"
+  - '[[_Standards/WikiData/WD~Sean_Hepburn_Ferrer,17181913]]'
+  - '[[_Standards/WikiData/WD~Luca_Dotti,46991646]]'
+position_held: '[[_Standards/WikiData/WD~UNICEF_Goodwill_Ambassador,19969187]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~Art+Feminism,24909800]]"
-  - "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
-  - "[[_Standards/WikiData/WD~Exciting_women_in_history_on_Wikipedia,85319493]]"
+  - '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+  - '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+  - '[[_Standards/WikiData/WD~Exciting_women_in_history_on_Wikipedia,85319493]]'
 Plex_person_key: 5d776825151a60001f24a429
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-father: "[[_Standards/WikiData/WD~Joseph_Victor_Anthony_Hepburn_Ruston,76019674]]"
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+father: '[[_Standards/WikiData/WD~Joseph_Victor_Anthony_Hepburn_Ruston,76019674]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Arnoud_Quarles_van_Ufford,76019676]]"
-  - "[[_Standards/WikiData/WD~Ian_Quarles_van_Ufford,76019677]]"
-place_of_birth: "[[_Standards/WikiData/WD~Rue_Keyenveld_Keienveldstraat,80336784]]"
-place_of_burial: "[[_Standards/WikiData/WD~Cemetery_of_Tolochenaz,112842737]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
+  - '[[_Standards/WikiData/WD~Arnoud_Quarles_van_Ufford,76019676]]'
+  - '[[_Standards/WikiData/WD~Ian_Quarles_van_Ufford,76019677]]'
+place_of_birth: '[[_Standards/WikiData/WD~Rue_Keyenveld_Keienveldstraat,80336784]]'
+place_of_burial: '[[_Standards/WikiData/WD~Cemetery_of_Tolochenaz,112842737]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Dutch,7411]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-native_language: "[[_Standards/WikiData/WD~Dutch,7411]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-work_locations: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Dutch,7411]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+native_language: '[[_Standards/WikiData/WD~Dutch,7411]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+work_locations: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 number_of_children: 2
 height: 170
 social_media_followers: 26130
@@ -123,8 +124,8 @@ plaque_image:
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Audrey%20Hepburn%20signature.svg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grave%20of%20Audrey%20Hepburn%2C%20Tolochenaz%2C%20Switzerland%20-%2020080711.jpg
 ISNI: 000000011068327X
-Facebook_username: "35824635063"
-P8189: "987007442624405171"
+Facebook_username: 35824635063
+P8189: 987007442624405171
 Google_Doodle: audrey-hepburns-85th-birthday
 subreddit: audreyhepburn
 Libris_URI: b8nqt6zv1vhxlwn

@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~MedicalSignOrSymptom
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/MedicalSignOrSymptom
-- class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom
-- is_a_/MedicalSignOrSymptom
-- schema-org/MedicalSignOrSymptom
+  - class/MedicalSignOrSymptom
+  - class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom
+  - is_a_/MedicalSignOrSymptom
+  - schema-org/MedicalSignOrSymptom
 tags:
-- class/FileClass
-- class/MedicalSignOrSymptom
-- is_a_/MedicalSignOrSymptom
-- class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom
+  - class/FileClass
+  - class/MedicalSignOrSymptom
+  - is_a_/MedicalSignOrSymptom
+  - class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom
 version: 2.0
 ---
 

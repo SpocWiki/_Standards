@@ -4,40 +4,42 @@ aliases:
   - tv_season
   - TVSeason
   - is_a_tv_season
-confidential: public
+  - TV_Season
+  - TV Season
 has_id_wikidata: Q3464665
+confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - tv_season
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_tv_season Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_tv_season Class
 type: Type
-part_of: "[[_Standards/WikiData/WD~television_series,5398426]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_television_season,5625698]]"
+part_of: '[[_Standards/WikiData/WD~television_series,5398426]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_television_season,5625698]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~series_of_creative_works,7725310]]"
-  - "[[_Standards/WikiData/WD~creative_work_season,70990126]]"
-  - "[[_Standards/WikiData/WD~television_program,15416]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Film,8485793]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~television_series_episode,21191270]]"
-has_part_s_: "[[_Standards/WikiData/WD~television_series_episode,21191270]]"
+  - '[[_Standards/WikiData/WD~series_of_creative_works,7725310]]'
+  - '[[_Standards/WikiData/WD~creative_work_season,70990126]]'
+  - '[[_Standards/WikiData/WD~television_program,15416]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Film,8485793]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~television_series_episode,21191270]]'
+has_part_s_: '[[_Standards/WikiData/WD~television_series_episode,21191270]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~number_of_seasons_produced,41783959]]"
-  - "[[_Standards/WikiData/WD~number_of_seasons_aired,41783986]]"
-  - "[[_Standards/WikiData/WD~number_of_seasons_planned,41784016]]"
-has_list: "[[_Standards/WikiData/WD~list_of_television_seasons,51710385]]"
+  - '[[_Standards/WikiData/WD~number_of_seasons_produced,41783959]]'
+  - '[[_Standards/WikiData/WD~number_of_seasons_aired,41783986]]'
+  - '[[_Standards/WikiData/WD~number_of_seasons_planned,41784016]]'
+has_list: '[[_Standards/WikiData/WD~list_of_television_seasons,51710385]]'
 properties_for_this_type:
   - has part(s)
   - start time

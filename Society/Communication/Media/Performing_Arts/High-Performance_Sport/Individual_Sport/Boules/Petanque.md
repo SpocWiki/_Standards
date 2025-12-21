@@ -2,18 +2,19 @@
 aliases:
   - Pétanque
   - petanca
+  - Petanque
 has_id_wikidata: Q189317
 uses:
-  - "[[_Standards/WikiData/WD~cochonnet,198992]]"
-  - "[[_Standards/WikiData/WD~pétanque_ball,9181927]]"
+  - '[[_Standards/WikiData/WD~cochonnet,198992]]'
+  - '[[_Standards/WikiData/WD~pétanque_ball,9181927]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~bocce,895060]]"
-  - "[[_Standards/WikiData/WD~lawn_game,1296819]]"
-intangible_cultural_heritage_status: "[[_Standards/WikiData/WD~National_Inventory_of_Intangible_Cultural_Heritage_in_France,21011287]]"
-practiced_by: "[[_Standards/WikiData/WD~pétanque_player,23452173]]"
-regulated_by: "[[_Standards/WikiData/WD~Fédération_Internationale_de_Pétanque_et_Jeu_Provençal,33130789]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-country_of_origin: "[[_Standards/WikiData/WD~France,142]]"
+  - '[[_Standards/WikiData/WD~bocce,895060]]'
+  - '[[_Standards/WikiData/WD~lawn_game,1296819]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~National_Inventory_of_Intangible_Cultural_Heritage_in_France,21011287]]'
+practiced_by: '[[_Standards/WikiData/WD~pétanque_player,23452173]]'
+regulated_by: '[[_Standards/WikiData/WD~Fédération_Internationale_de_Pétanque_et_Jeu_Provençal,33130789]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
 Commons_gallery: Pétanque
 Commons_category: Pétanque
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Petanque.jpg

@@ -2,48 +2,50 @@
 aliases:
   - Euclid's Elements
   - Elements
+  - Euclids_Elements
+  - Euclids Elements
 has_id_wikidata: Q172891
-different_from: "[[_Standards/WikiData/WD~Element,180750]]"
+different_from: '[[_Standards/WikiData/WD~Element,180750]]'
 after_a_work_by:
-  - "[[_Standards/WikiData/WD~Eudoxus_of_Cnidus,185150]]"
-  - "[[_Standards/WikiData/WD~Archytas,202001]]"
-  - "[[_Standards/WikiData/WD~Hippocrates_of_Chios,312629]]"
-  - "[[_Standards/WikiData/WD~Theaetetus,920912]]"
-genre: "[[_Standards/WikiData/WD~treatise,384515]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - '[[_Standards/WikiData/WD~Eudoxus_of_Cnidus,185150]]'
+  - '[[_Standards/WikiData/WD~Archytas,202001]]'
+  - '[[_Standards/WikiData/WD~Hippocrates_of_Chios,312629]]'
+  - '[[_Standards/WikiData/WD~Theaetetus,920912]]'
+genre: '[[_Standards/WikiData/WD~treatise,384515]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Elements_Book_3,3257191]]"
-  - "[[_Standards/WikiData/WD~Elements_Book_9,3257194]]"
-  - "[[_Standards/WikiData/WD~Elements_Book_4,3257193]]"
-  - "[[_Standards/WikiData/WD~Elements_Book_2,3257198]]"
-  - "[[_Standards/WikiData/WD~Elements_Book_1,3257197]]"
-  - "[[_Standards/WikiData/WD~Elements_Book_7,3257203]]"
-  - "[[_Standards/WikiData/WD~Elements_Book_8,3257200]]"
-  - "[[_Standards/WikiData/WD~Elements_Book_13,3257206]]"
-  - "[[_Standards/WikiData/WD~Elements_Book_12,3257207]]"
-  - "[[_Standards/WikiData/WD~Elements_Book_6,3257204]]"
-  - "[[_Standards/WikiData/WD~Elements_Book_5,3257205]]"
-  - "[[_Standards/WikiData/WD~Elements_Book_10,3257210]]"
-  - "[[_Standards/WikiData/WD~Elements_Book_11,3257208]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~Elements_Book_3,3257191]]'
+  - '[[_Standards/WikiData/WD~Elements_Book_9,3257194]]'
+  - '[[_Standards/WikiData/WD~Elements_Book_4,3257193]]'
+  - '[[_Standards/WikiData/WD~Elements_Book_2,3257198]]'
+  - '[[_Standards/WikiData/WD~Elements_Book_1,3257197]]'
+  - '[[_Standards/WikiData/WD~Elements_Book_7,3257203]]'
+  - '[[_Standards/WikiData/WD~Elements_Book_8,3257200]]'
+  - '[[_Standards/WikiData/WD~Elements_Book_13,3257206]]'
+  - '[[_Standards/WikiData/WD~Elements_Book_12,3257207]]'
+  - '[[_Standards/WikiData/WD~Elements_Book_6,3257204]]'
+  - '[[_Standards/WikiData/WD~Elements_Book_5,3257205]]'
+  - '[[_Standards/WikiData/WD~Elements_Book_10,3257210]]'
+  - '[[_Standards/WikiData/WD~Elements_Book_11,3257208]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~The_Elements_of_Euclid_for_the_Use_of_Schools_and_Colleges,19967013]]"
-  - "[[_Standards/WikiData/WD~Euclide_Megarense_philosopho_solo_introduttore_delle_scientie_mathematice,23304764]]"
-  - "[[_Standards/WikiData/WD~Tutte_le_opere,23575302]]"
-  - "[[_Standards/WikiData/WD~Los_Elementos,30346917]]"
-  - "[[_Standards/WikiData/WD~The_Elements_of_Euclid,_viz._the_first_sixs_books,_together_with_eleventh_and_twelfh,32631704]]"
-  - "[[_Standards/WikiData/WD~Eukleidovy_základy,91761394]]"
-  - "[[_Standards/WikiData/WD~Q130424799,130424799]]"
-  - "[[_Standards/WikiData/WD~Euclidii_Elementi,134500063]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q22798906,22798906]]"
+  - '[[_Standards/WikiData/WD~The_Elements_of_Euclid_for_the_Use_of_Schools_and_Colleges,19967013]]'
+  - '[[_Standards/WikiData/WD~Euclide_Megarense_philosopho_solo_introduttore_delle_scientie_mathematice,23304764]]'
+  - '[[_Standards/WikiData/WD~Tutte_le_opere,23575302]]'
+  - '[[_Standards/WikiData/WD~Los_Elementos,30346917]]'
+  - '[[_Standards/WikiData/WD~The_Elements_of_Euclid,_viz._the_first_sixs_books,_together_with_eleventh_and_twelfh,32631704]]'
+  - '[[_Standards/WikiData/WD~Eukleidovy_základy,91761394]]'
+  - '[[_Standards/WikiData/WD~Q130424799,130424799]]'
+  - '[[_Standards/WikiData/WD~Euclidii_Elementi,134500063]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q22798906,22798906]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~written_work,47461344]]"
-  - "[[../../../WikiData/WD~reference_work,13136]]"
+  - '[[_Standards/WikiData/WD~written_work,47461344]]'
+  - '[[../../../WikiData/WD~reference_work,13136]]'
 inception: -0300-01-01T00:00:00Z
-main_subject: "[[_Standards/WikiData/WD~mathematics,395]]"
-author: "[[_Standards/WikiData/WD~Euclid,8747]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
+main_subject: '[[_Standards/WikiData/WD~mathematics,395]]'
+author: '[[_Standards/WikiData/WD~Euclid,8747]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Title%20page%20of%20Sir%20Henry%20Billingsley%27s%20first%20English%20version%20of%20Euclid%27s%20Elements%2C%201570%20%28560x900%29.jpg
 work_available_at_URL:
   - http://farside.ph.utexas.edu/Books/Euclid/Elements.pdf

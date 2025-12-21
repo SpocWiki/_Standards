@@ -6,10 +6,11 @@ aliases:
   - Victor Marius Alphonse Petipa
   - Marius Petipa
   - Petipa
+  - Petipa,Marius
 has_id_wikidata: Q312320
 ISNI:
-  - "0000000121491599"
-  - "0000000108659203"
+  - 0000000121491599
+  - 0000000108659203
 Europeana_entity: agent/base/72130
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/PETIPA_MARIUS_IVANOVICH.html
 pseudonym: Мариус Иванович Петипа
@@ -18,56 +19,56 @@ birth_name: Victor Alphonse Petipa
 date_of_death: 1910-07-14T00:00:00Z
 AGORHA_UUID: 08677815-ac6c-4eee-ad74-f54d060d2234
 notable_work:
-  - "[[_Standards/WikiData/WD~The_Nutcracker,193705]]"
-  - "[[_Standards/WikiData/WD~Swan_Lake,199786]]"
-  - "[[_Standards/WikiData/WD~La_Bayadère,674967]]"
-  - "[[_Standards/WikiData/WD~The_Sleeping_Beauty,838051]]"
-  - "[[_Standards/WikiData/WD~Don_Quixote,1239463]]"
+  - '[[_Standards/WikiData/WD~The_Nutcracker,193705]]'
+  - '[[_Standards/WikiData/WD~Swan_Lake,199786]]'
+  - '[[_Standards/WikiData/WD~La_Bayadère,674967]]'
+  - '[[_Standards/WikiData/WD~The_Sleeping_Beauty,838051]]'
+  - '[[_Standards/WikiData/WD~Don_Quixote,1239463]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_the_Crown,278739]]"
-  - "[[_Standards/WikiData/WD~French_Order_of_Academic_Palms,760940]]"
-  - "[[_Standards/WikiData/WD~Order_of_Saint_Anna,_2nd_class,15972370]]"
-  - "[[_Standards/WikiData/WD~Order_of_Saint_Stanislaus,_3rd_class,18084456]]"
-  - "[[_Standards/WikiData/WD~Order_of_St._Vladimir,_4th_class,21148960]]"
-educated_at: "[[_Standards/WikiData/WD~Royal_Conservatory_of_Brussels,336968]]"
+  - '[[_Standards/WikiData/WD~Order_of_the_Crown,278739]]'
+  - '[[_Standards/WikiData/WD~French_Order_of_Academic_Palms,760940]]'
+  - '[[_Standards/WikiData/WD~Order_of_Saint_Anna,_2nd_class,15972370]]'
+  - '[[_Standards/WikiData/WD~Order_of_Saint_Stanislaus,_3rd_class,18084456]]'
+  - '[[_Standards/WikiData/WD~Order_of_St._Vladimir,_4th_class,21148960]]'
+educated_at: '[[_Standards/WikiData/WD~Royal_Conservatory_of_Brussels,336968]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 occupation:
-  - "[[_Standards/WikiData/WD~ballet_dancer,805221]]"
-  - "[[_Standards/WikiData/WD~ballet_master,805253]]"
-  - "[[_Standards/WikiData/WD~choreographer,2490358]]"
-  - "[[_Standards/WikiData/WD~dancer,5716684]]"
-  - "[[_Standards/WikiData/WD~librettist,8178443]]"
-  - "[[_Standards/WikiData/WD~teacher,37226]]"
-place_of_death: "[[_Standards/WikiData/WD~Hurzuf,1026062]]"
+  - '[[_Standards/WikiData/WD~ballet_dancer,805221]]'
+  - '[[_Standards/WikiData/WD~ballet_master,805253]]'
+  - '[[_Standards/WikiData/WD~choreographer,2490358]]'
+  - '[[_Standards/WikiData/WD~dancer,5716684]]'
+  - '[[_Standards/WikiData/WD~librettist,8178443]]'
+  - '[[_Standards/WikiData/WD~teacher,37226]]'
+place_of_death: '[[_Standards/WikiData/WD~Hurzuf,1026062]]'
 child:
-  - "[[_Standards/WikiData/WD~Marie_Petipa,1749273]]"
-  - "[[_Standards/WikiData/WD~Marius_Mariusovich_Petipa,4360301]]"
-  - "[[_Standards/WikiData/WD~Mariy_Petipa,113552844]]"
-  - "[[_Standards/WikiData/WD~Nadezhda_Petipa,120691087]]"
+  - '[[_Standards/WikiData/WD~Marie_Petipa,1749273]]'
+  - '[[_Standards/WikiData/WD~Marius_Mariusovich_Petipa,4360301]]'
+  - '[[_Standards/WikiData/WD~Mariy_Petipa,113552844]]'
+  - '[[_Standards/WikiData/WD~Nadezhda_Petipa,120691087]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Mariia_Surovshchikova_Petipa,1749281]]"
-  - "[[_Standards/WikiData/WD~Lyubov_Savitskaya,21737763]]"
-given_name: "[[_Standards/WikiData/WD~Marius,2159938]]"
-place_of_burial: "[[_Standards/WikiData/WD~Tikhvin_Cemetery,2272835]]"
-genre: "[[_Standards/WikiData/WD~classical_ballet,2342373]]"
-sibling: "[[_Standards/WikiData/WD~Lucien_Petipa,2521558]]"
-employer: "[[_Standards/WikiData/WD~Bolshoi_Kamenny_Theatre,2722950]]"
-father: "[[_Standards/WikiData/WD~Jean_Antoine_Petipa,3163722]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Petipa,21449219]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-archives_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-place_of_birth: "[[_Standards/WikiData/WD~rue_Dumarsais,110959387]]"
-field_of_work: "[[_Standards/WikiData/WD~dance,11639]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Mariia_Surovshchikova_Petipa,1749281]]'
+  - '[[_Standards/WikiData/WD~Lyubov_Savitskaya,21737763]]'
+given_name: '[[_Standards/WikiData/WD~Marius,2159938]]'
+place_of_burial: '[[_Standards/WikiData/WD~Tikhvin_Cemetery,2272835]]'
+genre: '[[_Standards/WikiData/WD~classical_ballet,2342373]]'
+sibling: '[[_Standards/WikiData/WD~Lucien_Petipa,2521558]]'
+employer: '[[_Standards/WikiData/WD~Bolshoi_Kamenny_Theatre,2722950]]'
+father: '[[_Standards/WikiData/WD~Jean_Antoine_Petipa,3163722]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Petipa,21449219]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+archives_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+place_of_birth: '[[_Standards/WikiData/WD~rue_Dumarsais,110959387]]'
+field_of_work: '[[_Standards/WikiData/WD~dance,11639]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~France,142]]'
+  - '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 Commons_category: Marius Petipa
 date_of_birth: 1818-03-11T00:00:00Z
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grabmal%20Petipa%20in%20Sankt%20Petersburg.jpg

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Woman
+has_id_wikidata: Q467
 Baidu_Tieba_name: 女人
 category_for_eponymous_categories: "[[_Standards/WikiData/WD~Q60607743,60607743]]"
 Colon_Classification: Y15
@@ -11,7 +14,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Encyclopedia_of_Women_in_Today's_World,101407938]]"
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-Dewey_Decimal_Classification: "920.72"
+Dewey_Decimal_Classification: 920.72
 different_from:
   - "[[_Standards/WikiData/WD~wife,188830]]"
   - "[[_Standards/WikiData/WD~Dame,229756]]"
@@ -29,7 +32,6 @@ has_characteristic:
   - "[[_Standards/WikiData/WD~fertility,964401]]"
   - "[[_Standards/WikiData/WD~female_body_shape,3543843]]"
   - "[[_Standards/WikiData/WD~female_voice,50810224]]"
-has_id_wikidata: Q467
 has_list: "[[_Standards/WikiData/WD~list_of_lists_of_women,6626611]]"
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/FemaleBlack.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Human-woman.png
@@ -44,7 +46,7 @@ literal_translation:
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Women,21712210]]"
 MeSH_tree_code: M01.975
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20Montage%20%281%29.jpg
-OmegaWiki_Defined_Meaning: "4165"
+OmegaWiki_Defined_Meaning: 4165
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
 opposite_of: "[[_Standards/WikiData/WD~man,8441]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828751,22828751]]"
@@ -61,7 +63,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~female_human,84048852]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Women,15656558]]"
 Unicode_character: 👩
-U_S_National_Archives_Identifier: "10642093"
+U_S_National_Archives_Identifier: 10642093
 depicted_by:
   - "[[_Standards/WikiData/WD~Portrait_of_a_Lady_as_Mary_Magdalen,28797582]]"
   - "[[_Standards/WikiData/WD~Model_of_the_Virgin_Mary_and_Three_Holy_Women,131501714]]"
@@ -72,7 +74,7 @@ hashtag_: woman
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Body%20female%20realistic%20by%20Dan%20Ulrich%20%28CC0%29.stl
 ---
 
-# [[Woman]]
+# [[Woman]] 👩 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Woman,467|WD~Woman,467]] 
 

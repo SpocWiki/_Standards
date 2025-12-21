@@ -5,8 +5,9 @@ aliases:
   - aṣ-Ṣūfiyya
   - التصوف
   - at-Taṣawwuf
+  - Sufism
 has_id_wikidata: Q9603
-Dewey_Decimal_Classification: "297.4"
+Dewey_Decimal_Classification: 297.4
 Library_of_Congress_Classification: BP188.45-BP190
 Wolfram_Language_entity_code: Entity["Religion", "Sufism"]
 Krugosvet_article_archived_: religiya/sufizm
@@ -17,72 +18,72 @@ vocalized_name: التَّصَوُّفُ
 native_label: التَّصَوُّفُ
 OpenStreetMap_tag: denomination=sufi
 different_from:
-  - "[[_Standards/WikiData/WD~Kabbalah,123006]]"
-  - "[[_Standards/WikiData/WD~zindīq,10283252]]"
-  - "[[_Standards/WikiData/WD~The_Sufis,124338185]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~asceticism,179807]]"
+  - '[[_Standards/WikiData/WD~Kabbalah,123006]]'
+  - '[[_Standards/WikiData/WD~zindīq,10283252]]'
+  - '[[_Standards/WikiData/WD~The_Sufis,124338185]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~asceticism,179807]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~ummah,205766]]"
-  - "[[_Standards/WikiData/WD~Muslim,47740]]"
+  - '[[_Standards/WikiData/WD~ummah,205766]]'
+  - '[[_Standards/WikiData/WD~Muslim,47740]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Universalis,1340194]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Universalis,1340194]]'
   - "[[_Standards/WikiData/WD~Encyclopaedia_of_the_Qur'ān,2617708]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Online,5375741]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Online,5375741]]'
   - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~TDV_Islamic_Encyclopedia,21527102]]"
-  - "[[_Standards/WikiData/WD~The_Oxford_Encyclopedia_of_the_Islamic_World,57275338]]"
-  - "[[_Standards/WikiData/WD~Encyclopaedia_of_Islam,_1st_edition,64729097]]"
-  - "[[_Standards/WikiData/WD~Encyclopaedia_of_Islam_New_Edition_Online_(EI_2_English),126919314]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~TDV_Islamic_Encyclopedia,21527102]]'
+  - '[[_Standards/WikiData/WD~The_Oxford_Encyclopedia_of_the_Islamic_World,57275338]]'
+  - '[[_Standards/WikiData/WD~Encyclopaedia_of_Islam,_1st_edition,64729097]]'
+  - '[[_Standards/WikiData/WD~Encyclopaedia_of_Islam_New_Edition_Online_(EI_2_English),126919314]]'
 location:
-  - "[[_Standards/WikiData/WD~Muslim_world,779924]]"
-  - "[[_Standards/WikiData/WD~worldwide,13780930]]"
-  - "[[_Standards/WikiData/WD~world,16502]]"
+  - '[[_Standards/WikiData/WD~Muslim_world,779924]]'
+  - '[[_Standards/WikiData/WD~worldwide,13780930]]'
+  - '[[_Standards/WikiData/WD~world,16502]]'
 main_subject:
-  - "[[_Standards/WikiData/WD~Dua,879046]]"
-  - "[[_Standards/WikiData/WD~dhikr,948437]]"
-  - "[[_Standards/WikiData/WD~Sabr,7396324]]"
-part_of: "[[_Standards/WikiData/WD~worship_in_Islam,1231595]]"
+  - '[[_Standards/WikiData/WD~Dua,879046]]'
+  - '[[_Standards/WikiData/WD~dhikr,948437]]'
+  - '[[_Standards/WikiData/WD~Sabr,7396324]]'
+part_of: '[[_Standards/WikiData/WD~worship_in_Islam,1231595]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~maqam,1600162]]"
-  - "[[_Standards/WikiData/WD~Lataif_e_sitta,1750863]]"
-  - "[[_Standards/WikiData/WD~ḥāl,3782498]]"
-  - "[[_Standards/WikiData/WD~Wird,6083961]]"
-  - "[[_Standards/WikiData/WD~Warid,42343108]]"
+  - '[[_Standards/WikiData/WD~maqam,1600162]]'
+  - '[[_Standards/WikiData/WD~Lataif_e_sitta,1750863]]'
+  - '[[_Standards/WikiData/WD~ḥāl,3782498]]'
+  - '[[_Standards/WikiData/WD~Wird,6083961]]'
+  - '[[_Standards/WikiData/WD~Warid,42343108]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~religious_movement,1826286]]"
-  - "[[_Standards/WikiData/WD~religious_denomination,13414953]]"
-  - "[[_Standards/WikiData/WD~way_of_life,24034076]]"
-  - "[[_Standards/WikiData/WD~lifestyle,32090]]"
+  - '[[_Standards/WikiData/WD~religious_movement,1826286]]'
+  - '[[_Standards/WikiData/WD~religious_denomination,13414953]]'
+  - '[[_Standards/WikiData/WD~way_of_life,24034076]]'
+  - '[[_Standards/WikiData/WD~lifestyle,32090]]'
 has_use:
-  - "[[_Standards/WikiData/WD~iḥsān,2082422]]"
-  - "[[_Standards/WikiData/WD~Muraqaba,2275149]]"
-  - "[[_Standards/WikiData/WD~Tajalli,3980235]]"
-  - "[[_Standards/WikiData/WD~Kashf,6374232]]"
-  - "[[_Standards/WikiData/WD~iman,8245340]]"
-  - "[[_Standards/WikiData/WD~Shuhud,102309582]]"
-operator: "[[_Standards/WikiData/WD~Sufi,2892720]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Zuhd,3576256]]"
+  - '[[_Standards/WikiData/WD~iḥsān,2082422]]'
+  - '[[_Standards/WikiData/WD~Muraqaba,2275149]]'
+  - '[[_Standards/WikiData/WD~Tajalli,3980235]]'
+  - '[[_Standards/WikiData/WD~Kashf,6374232]]'
+  - '[[_Standards/WikiData/WD~iman,8245340]]'
+  - '[[_Standards/WikiData/WD~Shuhud,102309582]]'
+operator: '[[_Standards/WikiData/WD~Sufi,2892720]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Zuhd,3576256]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Islam,5496999]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Sufism,125577596]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Sufism,8087772]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Sufism,14614992]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Islam,5496999]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Sufism,125577596]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Sufism,8087772]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Sufism,14614992]]'
 connects_with:
-  - "[[_Standards/WikiData/WD~rahma,20726202]]"
-  - "[[_Standards/WikiData/WD~love_for_God_in_Islam,101415904]]"
-followed_by: "[[_Standards/WikiData/WD~wasil,104585790]]"
+  - '[[_Standards/WikiData/WD~rahma,20726202]]'
+  - '[[_Standards/WikiData/WD~love_for_God_in_Islam,101415904]]'
+followed_by: '[[_Standards/WikiData/WD~wasil,104585790]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Islamic_activity,124789528]]"
-  - "[[_Standards/WikiData/WD~obedience_in_Islam,125791477]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
-founded_by: "[[_Standards/WikiData/WD~Muhammad,9458]]"
-facet_of: "[[_Standards/WikiData/WD~mysticism,45996]]"
+  - '[[_Standards/WikiData/WD~Islamic_activity,124789528]]'
+  - '[[_Standards/WikiData/WD~obedience_in_Islam,125791477]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
+founded_by: '[[_Standards/WikiData/WD~Muhammad,9458]]'
+facet_of: '[[_Standards/WikiData/WD~mysticism,45996]]'
 Commons_category: Sufism
 Archive_of_Our_Own_tag: Sufism
 DPLA_subject_term: Sufism

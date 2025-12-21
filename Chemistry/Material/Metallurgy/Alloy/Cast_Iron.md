@@ -2,22 +2,24 @@
 aliases:
   - Gusseisen
   - Cast iron
+  - Cast_Iron
+  - Cast Iron
 has_id_wikidata: Q483269
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~ferroalloy,907347]]"
-  - "[[_Standards/WikiData/WD~alloy,37756]]"
+  - '[[_Standards/WikiData/WD~ferroalloy,907347]]'
+  - '[[_Standards/WikiData/WD~alloy,37756]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~carbon,623]]"
-  - "[[_Standards/WikiData/WD~iron,677]]"
+  - '[[_Standards/WikiData/WD~carbon,623]]'
+  - '[[_Standards/WikiData/WD~iron,677]]'
 Library_of_Congress_Classification: TA474-TA475
-OmegaWiki_Defined_Meaning: "701115"
+OmegaWiki_Defined_Meaning: 701115
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Poids%20fonte%205%20kg%20trapezoidal.jpg
 CAS_Registry_Number: 11097-15-7
 EC_number: 601-019-2
-P8189: "987007284871105171"
+P8189: 987007284871105171
 Commons_category: Cast iron
 ---
 

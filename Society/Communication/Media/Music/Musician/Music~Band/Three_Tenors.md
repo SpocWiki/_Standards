@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Three Tenors"
-- "3 Tenors"
+  - Three Tenors
+  - 3 Tenors
+  - Three_Tenors
 ---
 
 Appeared first during the Soccer WM 1990 in [[../../../../../../../_Standards/Earth/Continent/Europe/Europe~South/Italy|Italy]]. 

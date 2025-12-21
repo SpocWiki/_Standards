@@ -4,21 +4,22 @@ aliases:
   - page_end
   - pageEnd
   - has_number_of_page_end
+  - has number of page end
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - page_end
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_page_end
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

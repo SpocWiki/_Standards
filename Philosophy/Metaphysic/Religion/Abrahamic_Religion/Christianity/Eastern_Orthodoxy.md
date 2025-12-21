@@ -3,40 +3,41 @@ aliases:
   - Eastern Orthodoxy
   - Eastern Orthodox Christianity
   - Byzantine Christianity
+  - Eastern_Orthodoxy
 has_id_wikidata: Q3333484
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Old_Believers,223710]]"
-  - "[[_Standards/WikiData/WD~Abkhazian_Orthodox_Church,307001]]"
-  - "[[_Standards/WikiData/WD~Ukrainian_Orthodox_Church_Kyiv_Patriarchate,389676]]"
-  - "[[_Standards/WikiData/WD~Montenegrin_Orthodox_Church,523137]]"
-  - "[[_Standards/WikiData/WD~Latvian_Orthodox_Church,1129463]]"
-  - "[[_Standards/WikiData/WD~Belarusian_Autocephalous_Orthodox_Church,2626385]]"
-  - "[[_Standards/WikiData/WD~Western_Rite_Orthodoxy,2638583]]"
-  - "[[_Standards/WikiData/WD~Evangelical_Orthodox_Church,3555768]]"
-  - "[[_Standards/WikiData/WD~American_Orthodox_Catholic_Church,4744612]]"
-  - "[[_Standards/WikiData/WD~Orthodox_Catholic_Church_of_America,7104443]]"
-  - "[[_Standards/WikiData/WD~Turkish_Orthodox_Church_in_the_United_States,7855302]]"
-  - "[[_Standards/WikiData/WD~Lusitanian_Catholic_Orthodox_Church,16122898]]"
-  - "[[_Standards/WikiData/WD~True_Orthodox_church,17036536]]"
-  - "[[_Standards/WikiData/WD~Communion_of_the_Western_Orthodox_Churches,19894567]]"
-  - "[[_Standards/WikiData/WD~Eastern_Orthodox_Church,35032]]"
+  - '[[_Standards/WikiData/WD~Old_Believers,223710]]'
+  - '[[_Standards/WikiData/WD~Abkhazian_Orthodox_Church,307001]]'
+  - '[[_Standards/WikiData/WD~Ukrainian_Orthodox_Church_Kyiv_Patriarchate,389676]]'
+  - '[[_Standards/WikiData/WD~Montenegrin_Orthodox_Church,523137]]'
+  - '[[_Standards/WikiData/WD~Latvian_Orthodox_Church,1129463]]'
+  - '[[_Standards/WikiData/WD~Belarusian_Autocephalous_Orthodox_Church,2626385]]'
+  - '[[_Standards/WikiData/WD~Western_Rite_Orthodoxy,2638583]]'
+  - '[[_Standards/WikiData/WD~Evangelical_Orthodox_Church,3555768]]'
+  - '[[_Standards/WikiData/WD~American_Orthodox_Catholic_Church,4744612]]'
+  - '[[_Standards/WikiData/WD~Orthodox_Catholic_Church_of_America,7104443]]'
+  - '[[_Standards/WikiData/WD~Turkish_Orthodox_Church_in_the_United_States,7855302]]'
+  - '[[_Standards/WikiData/WD~Lusitanian_Catholic_Orthodox_Church,16122898]]'
+  - '[[_Standards/WikiData/WD~True_Orthodox_church,17036536]]'
+  - '[[_Standards/WikiData/WD~Communion_of_the_Western_Orthodox_Churches,19894567]]'
+  - '[[_Standards/WikiData/WD~Eastern_Orthodox_Church,35032]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Eastern_Christianity,245177]]"
-  - "[[_Standards/WikiData/WD~Chalcedonian_Christianity,2711500]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~orthodoxy,383258]]"
+  - '[[_Standards/WikiData/WD~Eastern_Christianity,245177]]'
+  - '[[_Standards/WikiData/WD~Chalcedonian_Christianity,2711500]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~orthodoxy,383258]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Christian_denomination,879146]]"
-  - "[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]"
+  - '[[_Standards/WikiData/WD~Christian_denomination,879146]]'
+  - '[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Churches_of_the_two_councils,3562325]]"
-  - "[[_Standards/WikiData/WD~Oriental_Orthodoxy,111464733]]"
-  - "[[_Standards/WikiData/WD~Eastern_Orthodox_Church,35032]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Christianity,5043]]"
+  - '[[_Standards/WikiData/WD~Churches_of_the_two_councils,3562325]]'
+  - '[[_Standards/WikiData/WD~Oriental_Orthodoxy,111464733]]'
+  - '[[_Standards/WikiData/WD~Eastern_Orthodox_Church,35032]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
 Unicode_character: ☦
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ecumenical%20Councils.jpg
 Stack_Exchange_tag: https://christianity.stackexchange.com/tags/eastern-orthodox

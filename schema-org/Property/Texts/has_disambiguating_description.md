@@ -4,22 +4,24 @@ aliases:
   - disambiguating_description
   - disambiguatingDescription
   - has_text_of_disambiguating_description
+  - has_disambiguating_description
+  - has disambiguating description
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - disambiguating
   - description
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_disambiguating_description
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

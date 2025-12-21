@@ -4,50 +4,51 @@ aliases:
   - Michael Caine
   - Maurice Joseph Micklewhite
   - Michael_Caine
+  - Caine,Michael
 has_id_wikidata: Q123351
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]"
-  - "[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Actor,602299]]"
-  - "[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Supporting_Actor_Razzie_Award,641316]]"
-  - "[[_Standards/WikiData/WD~European_Film_Award_for_Best_Actor,932281]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Actor,602299]]'
+  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Supporting_Actor_Razzie_Award,641316]]'
+  - '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Actor,932281]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Musical_or_Comedy,181883]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Miniseries_or_Television_Film,251542]]"
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]"
-  - "[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]"
-  - "[[_Standards/WikiData/WD~Knight_Bachelor,833163]]"
-  - "[[_Standards/WikiData/WD~Britannia_Awards,849771]]"
-  - "[[_Standards/WikiData/WD~Donostia_Award,908858]]"
-  - "[[_Standards/WikiData/WD~European_Film_Award_for_Best_Actor,932281]]"
-  - "[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]"
-  - "[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]"
-  - "[[_Standards/WikiData/WD~European_Film_Academy_Honorary_Award,80482724]]"
-military_branch: "[[_Standards/WikiData/WD~British_Army,222595]]"
-residence: "[[_Standards/WikiData/WD~Windsor,464955]]"
-noble_title: "[[_Standards/WikiData/WD~Knight_Bachelor,833163]]"
+  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Musical_or_Comedy,181883]]'
+  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Miniseries_or_Television_Film,251542]]'
+  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]'
+  - '[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]'
+  - '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
+  - '[[_Standards/WikiData/WD~Britannia_Awards,849771]]'
+  - '[[_Standards/WikiData/WD~Donostia_Award,908858]]'
+  - '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Actor,932281]]'
+  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
+  - '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+  - '[[_Standards/WikiData/WD~European_Film_Academy_Honorary_Award,80482724]]'
+military_branch: '[[_Standards/WikiData/WD~British_Army,222595]]'
+residence: '[[_Standards/WikiData/WD~Windsor,464955]]'
+noble_title: '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Maurice,1472321]]"
-  - "[[_Standards/WikiData/WD~Michael,4927524]]"
-place_of_birth: "[[_Standards/WikiData/WD~Rotherhithe,2886632]]"
-educated_at: "[[_Standards/WikiData/WD~Hackney_Downs_School,5637362]]"
-spouse: "[[_Standards/WikiData/WD~Shakira_Caine,6337248]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-sibling: "[[_Standards/WikiData/WD~Stanley_Caine,7599509]]"
-occupation: "[[_Standards/WikiData/WD~film_actor,10800557]]"
-filmography: "[[_Standards/WikiData/WD~Michael_Caine_filmography,13648698]]"
+  - '[[_Standards/WikiData/WD~Maurice,1472321]]'
+  - '[[_Standards/WikiData/WD~Michael,4927524]]'
+place_of_birth: '[[_Standards/WikiData/WD~Rotherhithe,2886632]]'
+educated_at: '[[_Standards/WikiData/WD~Hackney_Downs_School,5637362]]'
+spouse: '[[_Standards/WikiData/WD~Shakira_Caine,6337248]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+sibling: '[[_Standards/WikiData/WD~Stanley_Caine,7599509]]'
+occupation: '[[_Standards/WikiData/WD~film_actor,10800557]]'
+filmography: '[[_Standards/WikiData/WD~Michael_Caine_filmography,13648698]]'
 family_name:
-  - "[[_Standards/WikiData/WD~Caine,16865293]]"
-  - "[[_Standards/WikiData/WD~Micklewhite,123570475]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~International_Roma_Day_Edit_a_thon,117352722]]"
+  - '[[_Standards/WikiData/WD~Caine,16865293]]'
+  - '[[_Standards/WikiData/WD~Micklewhite,123570475]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~International_Roma_Day_Edit_a_thon,117352722]]'
 child:
-  - "[[_Standards/WikiData/WD~Natasha_Caine,129571260]]"
-  - "[[_Standards/WikiData/WD~Dominique_Caine,129571270]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~Natasha_Caine,129571260]]'
+  - '[[_Standards/WikiData/WD~Dominique_Caine,129571270]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 Commons_gallery: Michael Caine
 Commons_category: Michael Caine
 social_media_followers: 772261
@@ -57,8 +58,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Caine%20-%20
 audio_recording_of_the_subject_s_spoken_voice: http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Caine%20BBC%20Radio4%20Front%20Row%2029%20Sept%202010%20b00tyv8c.flac
 official_website: https://www.michaelcaine.com/
 ISNI:
-  - "0000000121336708"
-  - "0000000368642117"
+  - 0000000121336708
+  - 0000000368642117
 Libris_URI: 31fjn49m5frcn8n
 Plex_person_key: 5d776825880197001ec90390
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/KEN_MAKL.html

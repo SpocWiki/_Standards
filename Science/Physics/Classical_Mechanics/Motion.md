@@ -1,22 +1,23 @@
 ---
 aliases:
   - Bewegung
+  - Motion
 has_id_wikidata: Q79782
 has_part_s_:
-  - "[[_Standards/WikiData/WD~rotation,107617]]"
-  - "[[_Standards/WikiData/WD~linear_motion,2035846]]"
+  - '[[_Standards/WikiData/WD~rotation,107617]]'
+  - '[[_Standards/WikiData/WD~linear_motion,2035846]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~trajectory,193139]]"
-  - "[[_Standards/WikiData/WD~acceleration,11376]]"
-  - "[[_Standards/WikiData/WD~velocity,11465]]"
+  - '[[_Standards/WikiData/WD~trajectory,193139]]'
+  - '[[_Standards/WikiData/WD~acceleration,11376]]'
+  - '[[_Standards/WikiData/WD~velocity,11465]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~change,1150070]]"
-  - "[[_Standards/WikiData/WD~physical_process,17320256]]"
-manifestation_of: "[[_Standards/WikiData/WD~geometric_motion,4300759]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q19860238,19860238]]"
-criterion_used: "[[_Standards/WikiData/WD~relative_location,23008351]]"
-studied_by: "[[_Standards/WikiData/WD~mechanics,41217]]"
-Dewey_Decimal_Classification: "152"
+  - '[[_Standards/WikiData/WD~change,1150070]]'
+  - '[[_Standards/WikiData/WD~physical_process,17320256]]'
+manifestation_of: '[[_Standards/WikiData/WD~geometric_motion,4300759]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q19860238,19860238]]'
+criterion_used: '[[_Standards/WikiData/WD~relative_location,23008351]]'
+studied_by: '[[_Standards/WikiData/WD~mechanics,41217]]'
+Dewey_Decimal_Classification: 152
 Iconclass_notation: 51L1
 Commons_category: Kinematics
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Circlestrafing%20animation.gif

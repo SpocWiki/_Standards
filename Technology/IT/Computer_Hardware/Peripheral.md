@@ -1,20 +1,21 @@
 ---
 aliases:
   - Peripherie
+  - Peripheral
 has_id_wikidata: Q178648
-different_from: "[[_Standards/WikiData/WD~input_output_device,2384798]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~input_output_device,2384798]]"
-has_part_s_: "[[_Standards/WikiData/WD~peripheral_controller,64819603]]"
+different_from: '[[_Standards/WikiData/WD~input_output_device,2384798]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~input_output_device,2384798]]'
+has_part_s_: '[[_Standards/WikiData/WD~peripheral_controller,64819603]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~add_on,117670709]]"
-  - "[[_Standards/WikiData/WD~computer_hardware,3966]]"
-instance_of: "[[_Standards/WikiData/WD~Q125391054,125391054]]"
-IAB_code: "601"
-Nomenclature_for_Museum_Cataloging: "10493"
-OmegaWiki_Defined_Meaning: "1220169"
+  - '[[_Standards/WikiData/WD~add_on,117670709]]'
+  - '[[_Standards/WikiData/WD~computer_hardware,3966]]'
+instance_of: '[[_Standards/WikiData/WD~Q125391054,125391054]]'
+IAB_code: 601
+Nomenclature_for_Museum_Cataloging: 10493
+OmegaWiki_Defined_Meaning: 1220169
 Dewey_Decimal_Classification:
-  - "621.3984"
-  - "004.7"
+  - 621.3984
+  - 004.7
   - 1--028547
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Atari%201020%20plotter.jpg

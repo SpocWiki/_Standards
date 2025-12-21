@@ -4,20 +4,22 @@ aliases:
   - organization_role
   - OrganizationRole
   - is_an_organization_role
+  - Organization_Role
+  - Organization Role
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - organization_role
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_organization_role Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -4,20 +4,22 @@ aliases:
   - day_spa
   - DaySpa
   - is_a_day_spa
+  - Day_Spa
+  - Day Spa
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - day_spa
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_day_spa Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

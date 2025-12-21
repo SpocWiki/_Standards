@@ -6,6 +6,7 @@ aliases:
   - fey
   - fair folk
   - faerie
+  - Fairy
 has_id_wikidata: Q8028
 different_from:
   - "[[_Standards/WikiData/WD~elf,174396]]"
@@ -37,11 +38,11 @@ instance_of:
   - "[[_Standards/WikiData/WD~mythical_ethnic_group,63046488]]"
 model_item: "[[_Standards/WikiData/WD~fairy_in_a_work_of_fiction,30318131]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~fairy_in_a_work_of_fiction,30318131]]"
-OmegaWiki_Defined_Meaning: "502976"
+OmegaWiki_Defined_Meaning: 502976
 Commons_category: Fairies
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Falero%20Luis%20Ricardo%20Lily%20Fairy%201888.jpg
 Dewey_Decimal_Classification:
-  - "398.21"
+  - 398.21
   - 3C--375
 Iconclass_notation: 31A4581
 Unicode_character:
@@ -49,7 +50,7 @@ Unicode_character:
   - 🧚♂️
 ---
 
-# [[Fairy]] 
+# [[Fairy]] 🧚  
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Fairy,8028|WD~Fairy,8028]] 
 

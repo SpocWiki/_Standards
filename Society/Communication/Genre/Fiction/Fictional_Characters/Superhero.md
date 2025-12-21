@@ -2,6 +2,7 @@
 aliases:
   - Superheld
   - superheroine
+  - Superhero
 has_id_wikidata: Q188784
 uses:
   - "[[_Standards/WikiData/WD~situation_awareness,478123]]"
@@ -61,7 +62,7 @@ male_form_of_label:
   - superjunak
 ---
 
-# [[Superhero]] 
+# [[Superhero]] 🦸 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Superhero,188784|WD~Superhero,188784]]  
 

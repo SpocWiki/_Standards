@@ -4,20 +4,22 @@ aliases:
   - publication_event
   - PublicationEvent
   - is_a_publication_event
+  - Publication_Event
+  - Publication Event
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - publication_event
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_publication_event Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

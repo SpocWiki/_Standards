@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~Park
+excludes: ''
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 fields: []
 icon: trees
 limit: 9
 mapWithTag: false
 tagNames:
-- class/Park
-- class/Thing/Place/CivicStructure/Park
-- is_a_/Park
-- schema-org/Park
+  - class/Park
+  - class/Thing/Place/CivicStructure/Park
+  - is_a_/Park
+  - schema-org/Park
 tags:
-- class/FileClass
-- class/Park
-- is_a_/Park
-- class/Thing/Place/CivicStructure/Park
+  - class/FileClass
+  - class/Park
+  - is_a_/Park
+  - class/Thing/Place/CivicStructure/Park
 version: 2.0
 ---
 

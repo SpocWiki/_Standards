@@ -1,6 +1,7 @@
 ---
 aliases:
   - Saint Pierre and Miquelon
+  - Saint-Pierre-et-Miquelon
 has_id_wikidata: Q34617
 confidential: public
 icon: flag-pm
@@ -19,8 +20,8 @@ detail_map:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Map%20Saint%20Pierre%20et%20Miquelon.svg
 official_website: http://www.spm-ct975.fr/
 streaming_media_URL: https://balticlivecam.com/cameras/france/saint-pierre-and-miquelon/saint-pierre-and-miquelon/
-telephone_country_code: "+508"
-WOEID: "23424939"
+telephone_country_code: +508
+WOEID: 23424939
 ISO_3166_2_code: FR-PM
 Commons_category: Saint-Pierre and Miquelon
 Commons_gallery: Saint-Pierre-et-Miquelon
@@ -30,69 +31,69 @@ demonym:
   - Senpjerci
   - Saint-Pierrais
 top_level_Internet_domain:
-  - "[[_Standards/WikiData/WD~.pm,133434]]"
-  - "[[_Standards/WikiData/WD~.fr,37271]]"
+  - '[[_Standards/WikiData/WD~.pm,133434]]'
+  - '[[_Standards/WikiData/WD~.fr,37271]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Saint_Pierre,185678]]"
+  - '[[_Standards/WikiData/WD~Saint_Pierre,185678]]'
   - "[[_Standards/WikiData/WD~L'Ile_aux_Marins,292246]]"
-  - "[[_Standards/WikiData/WD~Miquelon_Langlade,570289]]"
-capital: "[[_Standards/WikiData/WD~Saint_Pierre,185678]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Saint_Pierre_and_Miquelon,234956]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~overseas_collectivity_of_France,719487]]"
-instance_of: "[[_Standards/WikiData/WD~overseas_collectivity_of_France,719487]]"
+  - '[[_Standards/WikiData/WD~Miquelon_Langlade,570289]]'
+capital: '[[_Standards/WikiData/WD~Saint_Pierre,185678]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Saint_Pierre_and_Miquelon,234956]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~overseas_collectivity_of_France,719487]]'
+instance_of: '[[_Standards/WikiData/WD~overseas_collectivity_of_France,719487]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclop�dia_Britannica,15987490]]"
-list_of_monuments: "[[_Standards/WikiData/WD~Q2365400,2365400]]"
-legislative_body: "[[_Standards/WikiData/WD~Territorial_Council_of_Saint_Pierre_and_Miquelon,2994335]]"
-highest_point: "[[_Standards/WikiData/WD~Morne_de_la_Grande_Montagne,3051597]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Saint_Pierre_and_Miquelon,3123285]]"
-head_of_government: "[[_Standards/WikiData/WD~St�phane_Artano,3501568]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Saint_Pierre_and_Miquelon,5256072]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Saint_Pierre_and_Miquelon,5333763]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Saint_Pierre_and_Miquelon,15264772]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Saint_Pierre_and_Miquelon,15585178]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q26938477,26938477]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q27884524,27884524]]"
+  - '[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~1922_Encyclop�dia_Britannica,15987490]]'
+list_of_monuments: '[[_Standards/WikiData/WD~Q2365400,2365400]]'
+legislative_body: '[[_Standards/WikiData/WD~Territorial_Council_of_Saint_Pierre_and_Miquelon,2994335]]'
+highest_point: '[[_Standards/WikiData/WD~Morne_de_la_Grande_Montagne,3051597]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Saint_Pierre_and_Miquelon,3123285]]'
+head_of_government: '[[_Standards/WikiData/WD~St�phane_Artano,3501568]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Saint_Pierre_and_Miquelon,5256072]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Saint_Pierre_and_Miquelon,5333763]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Saint_Pierre_and_Miquelon,15264772]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Saint_Pierre_and_Miquelon,15585178]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q26938477,26938477]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q27884524,27884524]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%B8%E0%A9%87%E0%A8%82%E0%A8%9F%20%E0%A8%AA%E0%A9%80%E0%A8%8F%E0%A8%B0%20%E0%A8%85%E0%A8%A4%E0%A9%87%20%E0%A8%AE%E0%A9%80%E0%A8%95%E0%A8%B2%E0%A9%8B%E0%A8%82.wav
 coordinate_location: Point(-56.3 46.85)
 inception: 1700-01-01T00:00:00Z
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_03_00,6513]]"
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_03_00,6513]]'
 minimum_temperature_record: -18.7
-enclave_within: "[[_Standards/WikiData/WD~Canada,16]]"
-shares_border_with: "[[_Standards/WikiData/WD~Canada,16]]"
-continent: "[[_Standards/WikiData/WD~North_America,49]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
-exclave_of: "[[_Standards/WikiData/WD~France,142]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~France,142]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
-official_language: "[[_Standards/WikiData/WD~French,150]]"
-language_used: "[[_Standards/WikiData/WD~French,150]]"
+enclave_within: '[[_Standards/WikiData/WD~Canada,16]]'
+shares_border_with: '[[_Standards/WikiData/WD~Canada,16]]'
+continent: '[[_Standards/WikiData/WD~North_America,49]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+exclave_of: '[[_Standards/WikiData/WD~France,142]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~France,142]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
+official_language: '[[_Standards/WikiData/WD~French,150]]'
+language_used: '[[_Standards/WikiData/WD~French,150]]'
 elevation_above_sea_level: 240
 area: 242
-anthem: "[[_Standards/WikiData/WD~La_Marseillaise,41180]]"
+anthem: '[[_Standards/WikiData/WD~La_Marseillaise,41180]]'
 maximum_temperature_record: 28.4
-INSEE_department_code: "975"
-local_dialing_code: "508"
-IAB_code: "1393"
+INSEE_department_code: 975
+local_dialing_code: 508
+IAB_code: 1393
 population: 5974
-maritime_identification_digits: "361"
-M49_code: "666"
-ISO_3166_1_numeric_code: "666"
+maritime_identification_digits: 361
+M49_code: 666
+ISO_3166_1_numeric_code: 666
 ISO_3166_1_alpha_2_code: PM
-postal_code: "97500"
+postal_code: 97500
 flag_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saint-Pierre%20and%20Miquelon.svg
 FIPS_10_4_countries_and_regions_: SB
-OmegaWiki_Defined_Meaning: "646021"
+OmegaWiki_Defined_Meaning: 646021
 ISO_3166_1_alpha_3_code: SPM
 UNDP_country_code: FOS
 PM20_geo_code: E10
 native_label: Saint-Pierre-et-Miquelon
 official_name: Saint-Pierre-et-Miquelon
-U_S_National_Archives_Identifier: "10044678"
+U_S_National_Archives_Identifier: 10044678
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Armoiries%20SaintPierreetMiquelon.svg
 Dewey_Decimal_Classification: 2--7188
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Miquelon%20banner.jpg

@@ -1,11 +1,20 @@
 ---
+aliases:
+  - Mexico
+  - México
+  - Mexique
+  - المكسيك
+  - 墨西哥
+  - Мексика
+  - the United Mexican States
+  - los Estados Unidos Mexicanos
+has_id_wikidata: Q96
 location:
   - 19.4
   - -99.15
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q96
 SpocWebEntityId: 26974
 isDeleted: false
 confidential: public
@@ -16,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Mexico
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Mexico
-  - México
-  - Mexique
-  - المكسيك
-  - 墨西哥
-  - Мексика
-  - the United Mexican States
-  - los Estados Unidos Mexicanos
+publishDate: ""
+expiryDate: ""
 Languages:
   - es-MX
 icon: flag-mx

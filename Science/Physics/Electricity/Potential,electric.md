@@ -5,6 +5,7 @@ aliases:
   - potential drop
   - electrostatic potential
   - Electric_Potential
+  - Potential,electric
 has_id_wikidata: Q55451
 subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"

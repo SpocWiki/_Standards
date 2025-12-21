@@ -4,21 +4,22 @@ aliases:
   - contained_in
   - containedIn
   - has_location_contained_in
+  - has location contained in
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - contained_in
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_contained_in
 publish: true
-publishDate:
+publishDate: ''
 superseded_by: containedInPlace
 tags:
   - class/Property

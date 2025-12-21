@@ -4,22 +4,23 @@ aliases:
   - sourced_from
   - sourcedFrom
   - is_sourced_from
+  - is sourced from
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sourced
   - from
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_sourced_from
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

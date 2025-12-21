@@ -3,41 +3,43 @@ aliases:
   - Kleiner Bär
   - Kleiner Wagen
   - Ursa Minor
+  - Zodiac~Ursa_Minor
+  - Zodiac~Ursa Minor
+has_id_wikidata: Q10478
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-has_id_wikidata: Q10478
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
-  - "[[_Standards/WikiData/WD~Ursa_Minor,105082316]]"
-  - "[[_Standards/WikiData/WD~Enciclopedia_universal_ilustrada_europeo_americana_(1908_1930),115627942]]"
-part_of: "[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+  - '[[_Standards/WikiData/WD~Ursa_Minor,105082316]]'
+  - '[[_Standards/WikiData/WD~Enciclopedia_universal_ilustrada_europeo_americana_(1908_1930),115627942]]'
+part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Four_Advisors,5475009]]"
-  - "[[_Standards/WikiData/WD~Northern_Pole,7058862]]"
-  - "[[_Standards/WikiData/WD~Curved_Array,7254772]]"
-  - "[[_Standards/WikiData/WD~Celestial_Bed,10939549]]"
-  - "[[_Standards/WikiData/WD~Royal_Secretary,17024875]]"
-  - "[[_Standards/WikiData/WD~Polaris,12980]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Stars_of_Ursa_Minor,10857910]]"
+  - '[[_Standards/WikiData/WD~Four_Advisors,5475009]]'
+  - '[[_Standards/WikiData/WD~Northern_Pole,7058862]]'
+  - '[[_Standards/WikiData/WD~Curved_Array,7254772]]'
+  - '[[_Standards/WikiData/WD~Celestial_Bed,10939549]]'
+  - '[[_Standards/WikiData/WD~Royal_Secretary,17024875]]'
+  - '[[_Standards/WikiData/WD~Polaris,12980]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Stars_of_Ursa_Minor,10857910]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~heptad,29441572]]"
-  - "[[_Standards/WikiData/WD~constellation,8928]]"
+  - '[[_Standards/WikiData/WD~heptad,29441572]]'
+  - '[[_Standards/WikiData/WD~constellation,8928]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Draco,8675]]"
-  - "[[_Standards/WikiData/WD~Camelopardalis,8832]]"
-  - "[[_Standards/WikiData/WD~Cepheus,10468]]"
-different_from: "[[_Standards/WikiData/WD~Ursa_Minor_Dwarf,32883]]"
+  - '[[_Standards/WikiData/WD~Draco,8675]]'
+  - '[[_Standards/WikiData/WD~Camelopardalis,8832]]'
+  - '[[_Standards/WikiData/WD~Cepheus,10468]]'
+different_from: '[[_Standards/WikiData/WD~Ursa_Minor_Dwarf,32883]]'
 area: 256
 native_label:
   - Little Bear

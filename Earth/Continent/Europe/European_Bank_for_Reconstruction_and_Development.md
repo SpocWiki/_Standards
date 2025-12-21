@@ -1,23 +1,25 @@
 ---
 aliases:
-  - "European Bank for Reconstruction and Development, shortened to EBRD (French: Banque européenne pour la reconstruction et le développement or BERD"
+  - 'European Bank for Reconstruction and Development, shortened to EBRD (French: Banque européenne pour la reconstruction et le développement or BERD'
+  - European_Bank_for_Reconstruction_and_Development
+  - European Bank for Reconstruction and Development
 has_id_wikidata: Q488981
-different_from: "[[_Standards/WikiData/WD~Council_of_Europe_Development_Bank,611107]]"
+different_from: '[[_Standards/WikiData/WD~Council_of_Europe_Development_Bank,611107]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~international_financial_institution,1345691]]"
-  - "[[_Standards/WikiData/WD~multilateral_development_bank,105758271]]"
+  - '[[_Standards/WikiData/WD~international_financial_institution,1345691]]'
+  - '[[_Standards/WikiData/WD~multilateral_development_bank,105758271]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~TransContainer,4461999]]"
-  - "[[_Standards/WikiData/WD~Grandi_Stazioni_Česká_republika,24352534]]"
-  - "[[_Standards/WikiData/WD~Kamaz,30378]]"
-chairperson: "[[_Standards/WikiData/WD~Odile_Renaud_Basso,24937938]]"
-member_of: "[[_Standards/WikiData/WD~Network_for_Greening_the_Financial_System,104872529]]"
+  - '[[_Standards/WikiData/WD~TransContainer,4461999]]'
+  - '[[_Standards/WikiData/WD~Grandi_Stazioni_Česká_republika,24352534]]'
+  - '[[_Standards/WikiData/WD~Kamaz,30378]]'
+chairperson: '[[_Standards/WikiData/WD~Odile_Renaud_Basso,24937938]]'
+member_of: '[[_Standards/WikiData/WD~Network_for_Greening_the_Financial_System,104872529]]'
 industry:
-  - "[[_Standards/WikiData/WD~international_governmental_or_non_governmental_organizations,107607934]]"
-  - "[[_Standards/WikiData/WD~bank,22687]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~President_of_the_European_Bank_for_Reconstruction_and_Development,131994204]]"
-headquarters_locations: "[[_Standards/WikiData/WD~London,84]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~international_governmental_or_non_governmental_organizations,107607934]]'
+  - '[[_Standards/WikiData/WD~bank,22687]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~President_of_the_European_Bank_for_Reconstruction_and_Development,131994204]]'
+headquarters_locations: '[[_Standards/WikiData/WD~London,84]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 social_media_followers: 55398
 Commons_category: European Bank for Reconstruction and Development
 EU_Corporate_body_code: BERD
@@ -29,7 +31,7 @@ inception: 1991-01-01T00:00:00Z
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/EBRD%20logo.png
 official_website: https://www.ebrd.com/
 ISNI:
-  - "0000000122918136"
+  - 0000000122918136
   - 000000040497219X
 Libris_URI: 0xbdbq7j2t14m1x
 Instagram_username: ebrd_official

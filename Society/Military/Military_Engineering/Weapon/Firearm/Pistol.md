@@ -1,6 +1,7 @@
 ---
 aliases:
   - Pistole
+  - Pistol
 has_id_wikidata: Q1907525
 has_part_s_:
   - "[[_Standards/WikiData/WD~magazine,148958]]"
@@ -39,17 +40,17 @@ subclass_of:
 uses: "[[_Standards/WikiData/WD~pistol_cartridge,9150231]]"
 ammunition: "[[_Standards/WikiData/WD~pistol_cartridge,9150231]]"
 instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
-Nomenclature_for_Museum_Cataloging: "8278"
+Nomenclature_for_Museum_Cataloging: 8278
 Commons_category: Pistols
 image: http://commons.wikimedia.org/wiki/Special:FilePath/M9-pistolet.jpg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Gunshots%208.ogg
 IMDb_keyword: pistol
 Unicode_character: 🔫
 MCN_code: 9305.10.00
-U_S_National_Archives_Identifier: "10664383"
+U_S_National_Archives_Identifier: 10664383
 ---
 
-# [[Pistol]] 
+# [[Pistol]] 🔫 
 
 #is_/same_as :: [[WD~Pistol,1907525]] 
 

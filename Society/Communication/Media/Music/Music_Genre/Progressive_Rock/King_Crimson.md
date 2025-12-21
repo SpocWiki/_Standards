@@ -1,6 +1,7 @@
 ---
 aliases:
-- "King Crimson"
+  - King Crimson
+  - King_Crimson
 ---
 
 ## #has_/text_of_/abstract 

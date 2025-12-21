@@ -3,12 +3,13 @@ aliases:
   - has event-attendance-mode
   - eventAttendanceMode
   - has_event_attendance_mode
+  - has event attendance mode
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - attendance
   - mode
   - event_attendance_mode
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_event_attendance_mode
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

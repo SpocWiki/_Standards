@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Böhm–Jacopini theorem"
+  - Böhm–Jacopini theorem
+  - Structured_program_theorem
+  - Structured program theorem
 ---
 
 # [[Structured_program_theorem]] 

@@ -2,34 +2,35 @@
 aliases:
   - Armbrust
   - arbalest
+  - Crossbow
 has_id_wikidata: Q181947
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~bow_string,890542]]"
-  - "[[_Standards/WikiData/WD~Crossbow_nut,2005489]]"
-  - "[[_Standards/WikiData/WD~Q9394447,9394447]]"
-  - "[[_Standards/WikiData/WD~bow_limbs,9394522]]"
-uses: "[[_Standards/WikiData/WD~quarrel,891691]]"
+  - '[[_Standards/WikiData/WD~bow_string,890542]]'
+  - '[[_Standards/WikiData/WD~Crossbow_nut,2005489]]'
+  - '[[_Standards/WikiData/WD~Q9394447,9394447]]'
+  - '[[_Standards/WikiData/WD~bow_limbs,9394522]]'
+uses: '[[_Standards/WikiData/WD~quarrel,891691]]'
 used_by:
-  - "[[_Standards/WikiData/WD~arbalist,2859615]]"
-  - "[[_Standards/WikiData/WD~Genoese_crossbowmen,3633318]]"
+  - '[[_Standards/WikiData/WD~arbalist,2859615]]'
+  - '[[_Standards/WikiData/WD~Genoese_crossbowmen,3633318]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~draft_weapon,30750835]]"
-  - "[[_Standards/WikiData/WD~neuroballistic_weapon,122452002]]"
-instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
-Nomenclature_for_Museum_Cataloging: "8163"
+  - '[[_Standards/WikiData/WD~draft_weapon,30750835]]'
+  - '[[_Standards/WikiData/WD~neuroballistic_weapon,122452002]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+Nomenclature_for_Museum_Cataloging: 8163
 IMDb_keyword: crossbow
-OmegaWiki_Defined_Meaning: "159533"
+OmegaWiki_Defined_Meaning: 159533
 Dewey_Decimal_Classification:
-  - "623.441"
-  - "799.20285"
+  - 623.441
+  - 799.20285
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Armborst%2C%201500-tal%20-%20Livrustkammaren%20-%20106793.tif
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Can%20I%20Make%20a%20Crossbow%20From%20Scratch.webm
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Kruisboog-article.ogg

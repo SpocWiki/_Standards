@@ -1,31 +1,32 @@
 ---
 aliases:
-- included-in-data-catalog
-- included_in_data_catalog
-- includedInDataCatalog
-- is_included_in_data_catalog
-- is_included_in_data_catalog
+  - included-in-data-catalog
+  - included_in_data_catalog
+  - includedInDataCatalog
+  - is_included_in_data_catalog
+  - is_included_in_data_catalog
+  - is included in data catalog
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- included
-- in
-- data
-- catalog
-layout: 
-license: "CC BY-SA 4.0"
+  - included
+  - in
+  - data
+  - catalog
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: is_included_in_data_catalog
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_included_in_data_catalog
 type: Predi_Relation
 ---

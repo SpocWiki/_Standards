@@ -4,21 +4,23 @@ aliases:
   - failed_action_status
   - FailedActionStatus
   - is_a_failed_action_status
+  - Failed_Action_Status
+  - Failed Action Status
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: ActionStatusType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - failed_action_status
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_failed_action_status Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

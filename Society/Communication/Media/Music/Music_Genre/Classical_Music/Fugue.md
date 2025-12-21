@@ -1,32 +1,33 @@
 ---
 aliases:
   - Fuge
+  - Fugue
 has_id_wikidata: Q181014
 uses:
-  - "[[_Standards/WikiData/WD~counterpoint,186393]]"
-  - "[[_Standards/WikiData/WD~theme,833053]]"
-  - "[[_Standards/WikiData/WD~imitation,1049742]]"
+  - '[[_Standards/WikiData/WD~counterpoint,186393]]'
+  - '[[_Standards/WikiData/WD~theme,833053]]'
+  - '[[_Standards/WikiData/WD~imitation,1049742]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~counterpoint,186393]]"
-  - "[[_Standards/WikiData/WD~composed_musical_work,207628]]"
-  - "[[_Standards/WikiData/WD~classical_music,9730]]"
+  - '[[_Standards/WikiData/WD~counterpoint,186393]]'
+  - '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
+  - '[[_Standards/WikiData/WD~classical_music,9730]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~musical_form,862597]]"
-  - "[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]"
+  - '[[_Standards/WikiData/WD~music_genre,188451]]'
+  - '[[_Standards/WikiData/WD~musical_form,862597]]'
+  - '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~coda,852466]]"
-  - "[[_Standards/WikiData/WD~episode,1347347]]"
-  - "[[_Standards/WikiData/WD~fugue_stretto,126944682]]"
+  - '[[_Standards/WikiData/WD~coda,852466]]'
+  - '[[_Standards/WikiData/WD~episode,1347347]]'
+  - '[[_Standards/WikiData/WD~fugue_stretto,126944682]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wiki-fugue-analysis.jpg
 Commons_category: Fugues
 Krugosvet_article: kultura_i_obrazovanie/muzyka/FUGA.html

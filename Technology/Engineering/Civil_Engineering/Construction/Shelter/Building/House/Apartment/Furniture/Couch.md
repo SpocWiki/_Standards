@@ -5,22 +5,23 @@ aliases:
   - settee
   - chesterfield
   - davenport
+  - Couch
 has_id_wikidata: Q131514
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Couches,907729]]"
-  - "[[_Standards/WikiData/WD~divan,2354542]]"
-  - "[[_Standards/WikiData/WD~couch,111325693]]"
+  - '[[_Standards/WikiData/WD~Couches,907729]]'
+  - '[[_Standards/WikiData/WD~divan,2354542]]'
+  - '[[_Standards/WikiData/WD~couch,111325693]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~seating_furniture,129006002]]"
-  - "[[_Standards/WikiData/WD~furniture,14745]]"
+  - '[[_Standards/WikiData/WD~seating_furniture,129006002]]'
+  - '[[_Standards/WikiData/WD~furniture,14745]]'
 Nomenclature_for_Museum_Cataloging:
-  - "1207"
-  - "1149"
+  - 1207
+  - 1149
 Commons_gallery: Sofa
-OmegaWiki_Defined_Meaning: "5631"
+OmegaWiki_Defined_Meaning: 5631
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/19CentSofaMusDF.JPG
   - http://commons.wikimedia.org/wiki/Special:FilePath/0%204374%20Couch%20im%20Freien.jpg

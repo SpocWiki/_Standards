@@ -1,28 +1,30 @@
 ---
 aliases:
-- range-includes
-- range_includes
-- rangeIncludes
-- has_range_includes
-- "rdfs:range"
+  - range-includes
+  - range_includes
+  - rangeIncludes
+  - has_range_includes
+  - rdfs:range
+  - has_range
+  - has range
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- range
-- includes
-layout: 
-license: "CC BY-SA 4.0"
+  - range
+  - includes
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_range_includes
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- schema-org/Relation
+  - schema-org/Relation
 title: has_range_includes
 type: Predi_Relation
 ---

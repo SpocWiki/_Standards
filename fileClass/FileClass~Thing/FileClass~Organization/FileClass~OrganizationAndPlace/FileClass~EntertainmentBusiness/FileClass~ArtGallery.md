@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ArtGallery
+excludes: ''
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ArtGallery
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/ArtGallery
-- is_an_/ArtGallery
-- schema-org/ArtGallery
+  - class/ArtGallery
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/ArtGallery
+  - is_an_/ArtGallery
+  - schema-org/ArtGallery
 tags:
-- class/FileClass
-- class/ArtGallery
-- '#is_an_/ArtGallery'
-- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/ArtGallery
+  - class/FileClass
+  - class/ArtGallery
+  - '#is_an_/ArtGallery'
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/ArtGallery
 version: 2.0
 ---
 

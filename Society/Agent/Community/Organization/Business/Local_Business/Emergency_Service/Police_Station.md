@@ -4,20 +4,22 @@ aliases:
   - police_station
   - PoliceStation
   - is_a_police_station
+  - Police_Station
+  - Police Station
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - police_station
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_police_station Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

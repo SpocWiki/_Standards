@@ -3,19 +3,20 @@ aliases:
   - Western European Union
   - Union de l'Europe occidentale
   - Westeuropäische Union
+  - Western_European_Union
 has_id_wikidata: Q189946
 instance_of:
-  - "[[_Standards/WikiData/WD~international_organization,484652]]"
-  - "[[_Standards/WikiData/WD~military_alliance,1127126]]"
-  - "[[_Standards/WikiData/WD~multinational_military_coalition,100906234]]"
-follows: "[[_Standards/WikiData/WD~Western_Union,7988404]]"
-replaced_by: "[[_Standards/WikiData/WD~European_Union,458]]"
+  - '[[_Standards/WikiData/WD~international_organization,484652]]'
+  - '[[_Standards/WikiData/WD~military_alliance,1127126]]'
+  - '[[_Standards/WikiData/WD~multinational_military_coalition,100906234]]'
+follows: '[[_Standards/WikiData/WD~Western_Union,7988404]]'
+replaced_by: '[[_Standards/WikiData/WD~European_Union,458]]'
 followed_by:
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
-headquarters_location: "[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]"
-country: "[[_Standards/WikiData/WD~Belgium,31]]"
-capital: "[[_Standards/WikiData/WD~Brussels_Capital_Region,240]]"
+  - '[[_Standards/WikiData/WD~European_Union,458]]'
+  - '[[_Standards/WikiData/WD~Council_of_Europe,8908]]'
+headquarters_location: '[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]'
+country: '[[_Standards/WikiData/WD~Belgium,31]]'
+capital: '[[_Standards/WikiData/WD~Brussels_Capital_Region,240]]'
 inception: 1954-01-01T00:00:00Z
 flag_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Western%20European%20Union.svg
@@ -24,7 +25,7 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/WEU%20Map.
 official_website: http://www.weu.int/
 ISNI: 000000040611616X
 Libris_URI: 0xbdcj7j4c29p0p
-P1015: "90811838"
+P1015: 90811838
 Krugosvet_article_archived_: gumanitarnye_nauki/ekonomika_i_pravo/ZAPADNOEVROPESKI_SOYUZ_ZES.html
 Commons_category: Western European Union
 EU_Corporate_body_code: WEU

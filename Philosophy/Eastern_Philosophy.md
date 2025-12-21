@@ -1,16 +1,18 @@
 ---
 aliases:
-  - Eastern philosophy 
-  - Asian philosophy 
+  - Eastern philosophy
+  - Asian philosophy
   - Oriental philosophy
+  - Eastern_Philosophy
+  - Eastern Philosophy
 has_id_wikidata: Q307043
-has_part_s_: "[[_Standards/WikiData/WD~Chinese_philosophy,184663]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Asian_philosophy_sidebar,58195448]]"
-different_from: "[[_Standards/WikiData/WD~oriental_philology,112259816]]"
-facet_of: "[[_Standards/WikiData/WD~philosophy,5891]]"
-subclass_of: "[[_Standards/WikiData/WD~philosophy,5891]]"
-Dewey_Decimal_Classification: "180"
+has_part_s_: '[[_Standards/WikiData/WD~Chinese_philosophy,184663]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Asian_philosophy_sidebar,58195448]]'
+different_from: '[[_Standards/WikiData/WD~oriental_philology,112259816]]'
+facet_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
+Dewey_Decimal_Classification: 180
 PhilPapers_topic: asian-philosophy
 Commons_category: Eastern philosophy
 ---

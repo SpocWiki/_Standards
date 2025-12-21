@@ -1,26 +1,28 @@
 ---
-excludes: 
+aliases:
+  - FileClass~CompoundPriceSpecification
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification
 fields:
-- id: bpfu1r
-  name: PriceComponent
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification')"
-  type: MultiFile
-  path: ''
+  - id: bpfu1r
+    name: PriceComponent
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification')
+    type: MultiFile
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/CompoundPriceSpecification
-- class/Thing/Intangible/StructuredValue/PriceSpecification/CompoundPriceSpecification
-- is_a_/CompoundPriceSpecification
-- schema-org/CompoundPriceSpecification
+  - class/CompoundPriceSpecification
+  - class/Thing/Intangible/StructuredValue/PriceSpecification/CompoundPriceSpecification
+  - is_a_/CompoundPriceSpecification
+  - schema-org/CompoundPriceSpecification
 tags:
-- class/FileClass
-- class/CompoundPriceSpecification
-- is_a_/CompoundPriceSpecification
-- class/Thing/Intangible/StructuredValue/PriceSpecification/CompoundPriceSpecification
+  - class/FileClass
+  - class/CompoundPriceSpecification
+  - is_a_/CompoundPriceSpecification
+  - class/Thing/Intangible/StructuredValue/PriceSpecification/CompoundPriceSpecification
 version: 2.0
 ---
 

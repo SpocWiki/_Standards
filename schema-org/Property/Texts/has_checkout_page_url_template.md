@@ -4,12 +4,14 @@ aliases:
   - checkout_page_url_template
   - checkoutPageURLTemplate
   - has_text_of_checkout_page_url_template
+  - has_checkout_page_url_template
+  - has checkout page url template
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +19,11 @@ keywords:
   - page
   - url
   - template
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_checkout_page_url_template
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

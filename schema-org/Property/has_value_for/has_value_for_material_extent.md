@@ -4,21 +4,22 @@ aliases:
   - material-extent
   - materialExtent
   - has_value_for_material_extent
+  - has value for material extent
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - material-extent
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_material-extent
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity

@@ -1,18 +1,20 @@
 ---
 aliases:
   - Civil liberties
+  - Civil_Liberties
+  - Civil Liberties
 has_id_wikidata: Q29556
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~civil_and_political_rights,191600]]"
-  - "[[_Standards/WikiData/WD~civil_rights,25447176]]"
-  - "[[_Standards/WikiData/WD~human_rights,8458]]"
+  - '[[_Standards/WikiData/WD~civil_and_political_rights,191600]]'
+  - '[[_Standards/WikiData/WD~civil_rights,25447176]]'
+  - '[[_Standards/WikiData/WD~human_rights,8458]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~rights,780687]]"
-  - "[[_Standards/WikiData/WD~liberty,2979]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
+  - '[[_Standards/WikiData/WD~rights,780687]]'
+  - '[[_Standards/WikiData/WD~liberty,2979]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Li-ber-ty.jpg
 described_at_URL: https://wikispooks.com/wiki/Civil_liberties
 Commons_category: Civil rights and liberties

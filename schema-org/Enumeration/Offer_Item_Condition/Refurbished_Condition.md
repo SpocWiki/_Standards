@@ -4,21 +4,23 @@ aliases:
   - refurbished_condition
   - RefurbishedCondition
   - is_a_refurbished_condition
+  - Refurbished_Condition
+  - Refurbished Condition
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: OfferItemCondition
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - refurbished_condition
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_refurbished_condition Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

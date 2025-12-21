@@ -1,26 +1,28 @@
 ---
 aliases:
-- "Special relativity"
-Commons_category: "Special relativity"
+  - Special relativity
+  - Special_Relativity
+  - Special Relativity
+has_id_wikidata: Q11455
+Commons_category: Special relativity
 described_by_source:
-- '[[_Standards/WikiData/WD~On_the_Electrodynamics_of_Moving_Bodies,3020388]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+  - '[[_Standards/WikiData/WD~On_the_Electrodynamics_of_Moving_Bodies,3020388]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Albert_Einstein,937]]'
 has_characteristic: '[[_Standards/WikiData/WD~mass_in_special_relativity,719048]]'
-has_id_wikidata: Q11455
 has_time_started: 1905-01-01
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gedankenexperiment%20Zeitdilitation.svg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Gedankenexperiment%20Zeitdilitation.svg
 inception: 1905
 instance_of:
-- '[[_Standards/WikiData/WD~physical_law,214070]]'
-- '[[_Standards/WikiData/WD~scientific_theory,3239681]]'
+  - '[[_Standards/WikiData/WD~physical_law,214070]]'
+  - '[[_Standards/WikiData/WD~scientific_theory,3239681]]'
 is_invariant_under: '[[_Standards/WikiData/WD~Lorentz_transformation,217255]]'
 Krugosvet_article: nauka_i_tehnika/fizika/OTNOSITELNOSTI_TEORIYA_SPETSIALNAYA_–.html
 part_of: '[[_Standards/WikiData/WD~theory_of_relativity,43514]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Formulations_of_special_relativity,7574858]]'
-Stack_Exchange_tag: "https://physics.stackexchange.com/tags/special-relativity"
+Stack_Exchange_tag: https://physics.stackexchange.com/tags/special-relativity
 time_of_discovery_or_invention: 1905
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Experiment%20zur%20Relativit%C3%A4tstheorie.webm"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Experiment%20zur%20Relativit%C3%A4tstheorie.webm
 ---
 
 # [[Special_Relativity]]

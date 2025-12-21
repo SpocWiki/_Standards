@@ -4,22 +4,24 @@ aliases:
   - transmission_method
   - transmissionMethod
   - has_text_of_transmission_method
+  - has_transmission_method
+  - has transmission method
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - transmission
   - method
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_transmission_method
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

@@ -3,23 +3,24 @@ aliases:
   - has imaging-technique
   - imagingTechnique
   - has_imaging_technique
+  - has imaging technique
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - imaging_technique
   - imaging
   - technique
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_imaging_technique
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

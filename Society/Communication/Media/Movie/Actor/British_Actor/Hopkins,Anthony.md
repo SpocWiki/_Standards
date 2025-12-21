@@ -3,6 +3,7 @@ aliases:
   - Philip Anthony Hopkins
   - Anthony Hopkins
   - Sir Philip Anthony Hopkins
+  - Hopkins,Anthony
 has_id_wikidata: Q65932
 ---
 

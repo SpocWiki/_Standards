@@ -4,21 +4,22 @@ aliases:
   - collection_size
   - collectionSize
   - has_number_of_items_in_collection
+  - has number of items in collection
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - collection_size
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_collection_size
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count

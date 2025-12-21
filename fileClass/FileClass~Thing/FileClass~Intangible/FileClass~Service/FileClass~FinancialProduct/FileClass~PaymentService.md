@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~PaymentService
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/PaymentService
-- class/Thing/Intangible/Service/FinancialProduct/PaymentService
-- is_a_/PaymentService
-- schema-org/PaymentService
+  - class/PaymentService
+  - class/Thing/Intangible/Service/FinancialProduct/PaymentService
+  - is_a_/PaymentService
+  - schema-org/PaymentService
 tags:
-- class/FileClass
-- class/PaymentService
-- is_a_/PaymentService
-- class/Thing/Intangible/Service/FinancialProduct/PaymentService
+  - class/FileClass
+  - class/PaymentService
+  - is_a_/PaymentService
+  - class/Thing/Intangible/Service/FinancialProduct/PaymentService
 version: 2.0
 ---
 

@@ -4,10 +4,12 @@ aliases:
   - eurozone crisis
   - European debt crisis
   - European sovereign debt crisis
+  - European_sovereign-debt_crisis
+  - European sovereign-debt crisis
 has_id_wikidata: Q217197
-instance_of: "[[_Standards/WikiData/WD~debt_crisis,773335]]"
-has_cause: "[[_Standards/WikiData/WD~Causes_of_the_Eurozone_crisis,16829027]]"
-locations: "[[_Standards/WikiData/WD~European_Union,458]]"
+instance_of: '[[_Standards/WikiData/WD~debt_crisis,773335]]'
+has_cause: '[[_Standards/WikiData/WD~Causes_of_the_Eurozone_crisis,16829027]]'
+locations: '[[_Standards/WikiData/WD~European_Union,458]]'
 point_in_time: 2010-01-01T00:00:00Z
 ---
 

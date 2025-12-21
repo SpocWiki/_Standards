@@ -1,37 +1,39 @@
 ---
 aliases:
-- "William Randolph Hearst"
-- "William Randolph Hearst Sr."
+  - William Randolph Hearst
+  - William Randolph Hearst Sr.
+  - Hearst,William_Randolph
+  - Hearst,William Randolph
+has_id_wikidata: Q294931
 BHCL_UUID: 69edc9b2-575d-469b-a161-7462ce661151
 cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
 child:
-- '[[_Standards/WikiData/WD~George_Randolph_Hearst,5543710]]'
-- '[[_Standards/WikiData/WD~John_Randolph_Hearst,6254217]]'
-- '[[_Standards/WikiData/WD~Randolph_Apperson_Hearst,7291784]]'
-- '[[_Standards/WikiData/WD~William_Randolph_Hearst_Jr.,8017363]]'
-- '[[_Standards/WikiData/WD~David_Whitmore_Hearst,75907687]]'
-Commons_category: "William Randolph Hearst"
-Commons_gallery: "William Randolph Hearst"
+  - '[[_Standards/WikiData/WD~George_Randolph_Hearst,5543710]]'
+  - '[[_Standards/WikiData/WD~John_Randolph_Hearst,6254217]]'
+  - '[[_Standards/WikiData/WD~Randolph_Apperson_Hearst,7291784]]'
+  - '[[_Standards/WikiData/WD~William_Randolph_Hearst_Jr.,8017363]]'
+  - '[[_Standards/WikiData/WD~David_Whitmore_Hearst,75907687]]'
+Commons_category: William Randolph Hearst
+Commons_gallery: William Randolph Hearst
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
-date_of_birth: "1863-04-29T00:00:00Z"
-date_of_death: "1951-08-14T00:00:00Z"
+date_of_birth: 1863-04-29T00:00:00Z
+date_of_death: 1951-08-14T00:00:00Z
 described_by_source:
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 educated_at:
-- "[[_Standards/WikiData/WD~St._Paul's_School,906930]]"
-- '[[_Standards/WikiData/WD~Harvard_University,13371]]'
-- '[[_Standards/WikiData/WD~Harvard_College,49123]]'
+  - "[[_Standards/WikiData/WD~St._Paul's_School,906930]]"
+  - '[[_Standards/WikiData/WD~Harvard_University,13371]]'
+  - '[[_Standards/WikiData/WD~Harvard_College,49123]]'
 family_name: '[[_Standards/WikiData/WD~Hearst,20996400]]'
 father: '[[_Standards/WikiData/WD~George_Hearst,561826]]'
 given_name:
-- '[[_Standards/WikiData/WD~William,12344159]]'
-- '[[_Standards/WikiData/WD~Randolph,21485499]]'
-has_id_wikidata: Q294931
+  - '[[_Standards/WikiData/WD~William,12344159]]'
+  - '[[_Standards/WikiData/WD~Randolph,21485499]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Randolph%20Hearst%20cph%203a49373.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/William%20Randolph%20Hearst%20cph%203a49373.jpg
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 000000012117311X
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
@@ -39,36 +41,36 @@ Libris_URI: 42gjk99n14ws4bz
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
 mother: '[[_Standards/WikiData/WD~Phoebe_Hearst,463046]]'
-name_in_native_language: "William Randolph Hearst"
+name_in_native_language: William Randolph Hearst
 occupation:
-- '[[_Standards/WikiData/WD~politician,82955]]'
-- '[[_Standards/WikiData/WD~socialite,512314]]'
-- '[[_Standards/WikiData/WD~publisher,2516866]]'
-- '[[_Standards/WikiData/WD~art_collector,10732476]]'
-- '[[_Standards/WikiData/WD~reporter,42909]]'
-- '[[_Standards/WikiData/WD~businessperson,43845]]'
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~socialite,512314]]'
+  - '[[_Standards/WikiData/WD~publisher,2516866]]'
+  - '[[_Standards/WikiData/WD~art_collector,10732476]]'
+  - '[[_Standards/WikiData/WD~reporter,42909]]'
+  - '[[_Standards/WikiData/WD~businessperson,43845]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
 owner_of:
-- '[[_Standards/WikiData/WD~Hearst_Castle,378143]]'
-- '[[_Standards/WikiData/WD~Beacon_Towers,4875993]]'
-- '[[_Standards/WikiData/WD~Syracuse_Telegram,7663072]]'
-- '[[_Standards/WikiData/WD~New_York_Daily_Mirror,13436639]]'
-- '[[_Standards/WikiData/WD~New_York_Morning_Journal,46034403]]'
+  - '[[_Standards/WikiData/WD~Hearst_Castle,378143]]'
+  - '[[_Standards/WikiData/WD~Beacon_Towers,4875993]]'
+  - '[[_Standards/WikiData/WD~Syracuse_Telegram,7663072]]'
+  - '[[_Standards/WikiData/WD~New_York_Daily_Mirror,13436639]]'
+  - '[[_Standards/WikiData/WD~New_York_Morning_Journal,46034403]]'
 P8189: 987007312900405171
 place_of_birth: '[[_Standards/WikiData/WD~San_Francisco,62]]'
 place_of_burial: '[[_Standards/WikiData/WD~Cypress_Lawn_Memorial_Park,3084115]]'
 place_of_death: '[[_Standards/WikiData/WD~Beverly_Hills,127856]]'
 position_held: '[[_Standards/WikiData/WD~member_of_the_United_States_House_of_Representatives,13218630]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-signature: "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Randolph%20Hearst%20Signature.svg"
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/William%20Randolph%20Hearst%20Signature.svg
 spouse: '[[_Standards/WikiData/WD~Millicent_Hearst,3314333]]'
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/13325
 unmarried_partner: '[[_Standards/WikiData/WD~Marion_Davies,242416]]'
 U_S_National_Archives_Identifier: 10582861
-Wolfram_Language_entity_code: "Entity[\"Concept\", \"Hearst::7k585\"]"
+Wolfram_Language_entity_code: Entity["Concept", "Hearst::7k585"]
 work_location: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
-work_period_end_: "1949-01-01T00:00:00Z"
-work_period_start_: "1880-01-01T00:00:00Z"
+work_period_end_: 1949-01-01T00:00:00Z
+work_period_start_: 1880-01-01T00:00:00Z
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 ---
 

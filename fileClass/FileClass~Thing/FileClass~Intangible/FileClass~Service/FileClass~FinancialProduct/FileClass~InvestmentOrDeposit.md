@@ -1,25 +1,27 @@
 ---
-excludes: 
+aliases:
+  - FileClass~InvestmentOrDeposit
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct
 fields:
-- id: pkH3z7
-  name: Amount
-  options: {}
-  type: Number
-  path: ''
+  - id: pkH3z7
+    name: Amount
+    options: {}
+    type: Number
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/InvestmentOrDeposit
-- class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit
-- is_an_/InvestmentOrDeposit
-- schema-org/InvestmentOrDeposit
+  - class/InvestmentOrDeposit
+  - class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit
+  - is_an_/InvestmentOrDeposit
+  - schema-org/InvestmentOrDeposit
 tags:
-- class/FileClass
-- class/InvestmentOrDeposit
-- '#is_an_/InvestmentOrDeposit'
-- class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit
+  - class/FileClass
+  - class/InvestmentOrDeposit
+  - '#is_an_/InvestmentOrDeposit'
+  - class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit
 version: 2.0
 ---
 

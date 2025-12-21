@@ -2,29 +2,30 @@
 aliases:
   - Tötungsdelikt
   - Tötung
+  - Homicide
 has_id_wikidata: Q149086
 different_from:
-  - "[[_Standards/WikiData/WD~attempted_murder,81672]]"
-  - "[[_Standards/WikiData/WD~murder,132821]]"
-  - "[[_Standards/WikiData/WD~killing,844482]]"
-  - "[[_Standards/WikiData/WD~assassination,3882219]]"
-  - "[[_Standards/WikiData/WD~justifiable_homicide,6317275]]"
-has_cause: "[[_Standards/WikiData/WD~violence,124490]]"
+  - '[[_Standards/WikiData/WD~attempted_murder,81672]]'
+  - '[[_Standards/WikiData/WD~murder,132821]]'
+  - '[[_Standards/WikiData/WD~killing,844482]]'
+  - '[[_Standards/WikiData/WD~assassination,3882219]]'
+  - '[[_Standards/WikiData/WD~justifiable_homicide,6317275]]'
+has_cause: '[[_Standards/WikiData/WD~violence,124490]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~killing,844482]]"
-  - "[[_Standards/WikiData/WD~violent_death,74948922]]"
-  - "[[_Standards/WikiData/WD~criminal_attempt,29142]]"
+  - '[[_Standards/WikiData/WD~killing,844482]]'
+  - '[[_Standards/WikiData/WD~violent_death,74948922]]'
+  - '[[_Standards/WikiData/WD~criminal_attempt,29142]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~English_Chinese_Dictionary_of_Anglo_American_Law,108732786]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~English_Chinese_Dictionary_of_Anglo_American_Law,108732786]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~manner_of_death,2438541]]"
-  - "[[_Standards/WikiData/WD~type_of_crime,130583773]]"
-has_effect: "[[_Standards/WikiData/WD~death,4]]"
+  - '[[_Standards/WikiData/WD~manner_of_death,2438541]]'
+  - '[[_Standards/WikiData/WD~type_of_crime,130583773]]'
+has_effect: '[[_Standards/WikiData/WD~death,4]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Charlotte%20Corday.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Fatal%20Injury%20Felony%20Hit%20and%20Run%20in%20Hollenbeck%20Division%20NR24165cm-dm.webm
-MIL_STD_2525_Symbol_Identification_Code: "10014000001101080000"
+MIL_STD_2525_Symbol_Identification_Code: 10014000001101080000
 MeSH_tree_code:
   - I01.198.240.470
   - I01.880.735.344

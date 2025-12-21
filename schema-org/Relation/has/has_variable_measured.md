@@ -3,23 +3,24 @@ aliases:
   - has variable-measured
   - variableMeasured
   - has_variable_measured
+  - has variable measured
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - variable_measured
   - variable
   - measured
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_variable_measured
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

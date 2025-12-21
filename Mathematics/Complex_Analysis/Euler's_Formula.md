@@ -4,17 +4,18 @@ aliases:
   - Euler formula
   - Euler's_Formula
   - Euler_Formula
+  - Euler's Formula
 has_id_wikidata: Q184871
 instance_of:
-  - "[[_Standards/WikiData/WD~theorem,65943]]"
-  - "[[_Standards/WikiData/WD~identity,609647]]"
+  - '[[_Standards/WikiData/WD~theorem,65943]]'
+  - '[[_Standards/WikiData/WD~identity,609647]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~complex_analysis,193756]]"
-  - "[[_Standards/WikiData/WD~trigonometry,8084]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - '[[_Standards/WikiData/WD~complex_analysis,193756]]'
+  - '[[_Standards/WikiData/WD~trigonometry,8084]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 time_of_discovery_or_invention: 1748-01-01T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~Leonhard_Euler,7604]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Leonhard_Euler,7604]]"
+named_after: '[[_Standards/WikiData/WD~Leonhard_Euler,7604]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Leonhard_Euler,7604]]'
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>e</mi></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>i</mi></mstyle></mrow></math>

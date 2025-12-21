@@ -5,16 +5,17 @@ aliases:
   - duralum
   - durallium
   - dural
+  - Duralumin
 has_id_wikidata: Q243558
-instance_of: "[[_Standards/WikiData/WD~aluminium_alloy,447725]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Dürener_Metallwerke,1272012]]"
+instance_of: '[[_Standards/WikiData/WD~aluminium_alloy,447725]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Dürener_Metallwerke,1272012]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~aluminium,663]]"
-  - "[[_Standards/WikiData/WD~magnesium,660]]"
-  - "[[_Standards/WikiData/WD~silicon,670]]"
-  - "[[_Standards/WikiData/WD~iron,677]]"
-  - "[[_Standards/WikiData/WD~manganese,731]]"
-  - "[[_Standards/WikiData/WD~copper,753]]"
+  - '[[_Standards/WikiData/WD~aluminium,663]]'
+  - '[[_Standards/WikiData/WD~magnesium,660]]'
+  - '[[_Standards/WikiData/WD~silicon,670]]'
+  - '[[_Standards/WikiData/WD~iron,677]]'
+  - '[[_Standards/WikiData/WD~manganese,731]]'
+  - '[[_Standards/WikiData/WD~copper,753]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DLZ129%20spar.jpg
 Commons_category: Aluminium alloys
 ---

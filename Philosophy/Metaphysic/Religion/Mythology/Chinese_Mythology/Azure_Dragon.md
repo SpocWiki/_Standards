@@ -5,9 +5,10 @@ aliases:
   - Qīnglóng
   - Blue-green Dragon
   - Green Dragon
-  - Blue Dragon 
+  - Blue Dragon
   - 蒼龍
   - Cānglóng
+  - Azure_Dragon
 has_id_wikidata: Q515882
 follows: "[[_Standards/WikiData/WD~Black_Tortoise,125696]]"
 subclass_of: "[[_Standards/WikiData/WD~Loong,215605]]"
@@ -29,7 +30,7 @@ native_label:
 Unicode_character: 🐉
 ---
 
-# [[Azure_Dragon]] 
+# [[Azure_Dragon]] 🐉 
 
 #is_/same_as :: [[WD~Azure_Dragon,515882]] 
 

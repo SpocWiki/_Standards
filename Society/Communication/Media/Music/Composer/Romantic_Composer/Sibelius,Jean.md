@@ -5,6 +5,7 @@ aliases:
   - Johan Sibelius
   - Sibelius
   - Jean Sibelius
+  - Sibelius,Jean
 has_id_wikidata: Q45682
 ---
 

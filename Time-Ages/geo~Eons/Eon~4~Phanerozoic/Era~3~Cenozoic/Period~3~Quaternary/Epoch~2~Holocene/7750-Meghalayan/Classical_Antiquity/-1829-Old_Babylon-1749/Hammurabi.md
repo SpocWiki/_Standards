@@ -3,6 +3,7 @@ aliases:
   - 𒄩𒄠𒈬𒊏𒁉
   - Ḫâmmurapi
   - Hammurapi
+  - Hammurabi
 has_id_wikidata: Q36359
 Libris_URI: 64jlp6xq52z876s
 Krugosvet_article_archived_: istoriya/HAMMURAPI.html

@@ -4,22 +4,24 @@ aliases:
   - departure_platform
   - departurePlatform
   - has_text_of_departure_platform
+  - has_departure_platform
+  - has departure platform
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - departure
   - platform
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_departure_platform
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

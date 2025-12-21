@@ -4,21 +4,23 @@ aliases:
   - wearable_size_group_short
   - WearableSizeGroupShort
   - is_a_wearable_size_group_short
+  - Wearable_Size_Group_Short
+  - Wearable Size Group Short
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableSizeGroupEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_size_group_short
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_size_group_short Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

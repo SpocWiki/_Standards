@@ -4,17 +4,19 @@ aliases:
   - random quantity
   - aleatory variable
   - stochastic variable
+  - Random_Variable
+  - Random Variable
 has_id_wikidata: Q176623
 subclass_of:
-  - "[[_Standards/WikiData/WD~random_element,166211]]"
-  - "[[_Standards/WikiData/WD~variable,50701]]"
-part_of: "[[_Standards/WikiData/WD~probability_theory,5862903]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-different_from: "[[_Standards/WikiData/WD~stochastic_quantity,108920450]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]"
-notation: "[[_Standards/WikiData/WD~X_x,9968]]"
-facet_of: "[[_Standards/WikiData/WD~statistics,12483]]"
+  - '[[_Standards/WikiData/WD~random_element,166211]]'
+  - '[[_Standards/WikiData/WD~variable,50701]]'
+part_of: '[[_Standards/WikiData/WD~probability_theory,5862903]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+different_from: '[[_Standards/WikiData/WD~stochastic_quantity,108920450]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
+notation: '[[_Standards/WikiData/WD~X_x,9968]]'
+facet_of: '[[_Standards/WikiData/WD~statistics,12483]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Random%20Variable%20as%20a%20Function-en.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Vari%C3%A1vel%20aleat%C3%B3ria.ogg
 described_at_URL: https://www.encyclopediaofmath.org/index.php?title=Random_variable

@@ -5,25 +5,26 @@ aliases:
   - Священный союз
   - Svyashchennyy soyuz
   - Grand Alliance
+  - Holy_Alliance
 has_id_wikidata: Q154640
 signatory:
-  - "[[_Standards/WikiData/WD~Austrian_Empire,131964]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]"
-  - "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+  - '[[_Standards/WikiData/WD~Austrian_Empire,131964]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
+  - '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Austrian_Empire,131964]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]"
-  - "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+  - '[[_Standards/WikiData/WD~Austrian_Empire,131964]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
+  - '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-instance_of: "[[_Standards/WikiData/WD~military_alliance,1127126]]"
-locations: "[[_Standards/WikiData/WD~Paris,90]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[_Standards/WikiData/WD~military_alliance,1127126]]'
+locations: '[[_Standards/WikiData/WD~Paris,90]]'
 Library_of_Congress_Classification: KZ1358-KZ1358.3
 BHCL_UUID: 6e56e916-9e63-4988-8fbb-927b7a309dd7
 start_time: 1815-09-26T00:00:00Z

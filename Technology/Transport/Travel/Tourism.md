@@ -1,6 +1,7 @@
 ---
 aliases:
   - Tourismus
+  - Tourism
 has_id_wikidata: Q49389
 MeSH_tree_code: I03.883.694
 IPTC_NewsCode: mediatopic/20000564
@@ -9,38 +10,38 @@ GitHub_topic: tourism
 Baidu_Tieba_name: 旅游
 OpenStreetMap_tag: tourism=yes
 has_use:
-  - "[[_Standards/WikiData/WD~entertainment,173799]]"
-  - "[[_Standards/WikiData/WD~education,8434]]"
+  - '[[_Standards/WikiData/WD~entertainment,173799]]'
+  - '[[_Standards/WikiData/WD~education,8434]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~tourism_studies,976962]]"
-  - "[[_Standards/WikiData/WD~tourism_management,15851294]]"
-  - "[[_Standards/WikiData/WD~sociology_of_tourism,113884258]]"
-geography_of_topic: "[[_Standards/WikiData/WD~tourism_geography,1350203]]"
-described_by_source: "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - '[[_Standards/WikiData/WD~tourism_studies,976962]]'
+  - '[[_Standards/WikiData/WD~tourism_management,15851294]]'
+  - '[[_Standards/WikiData/WD~sociology_of_tourism,113884258]]'
+geography_of_topic: '[[_Standards/WikiData/WD~tourism_geography,1350203]]'
+described_by_source: '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~economic_sector,3958441]]"
-  - "[[_Standards/WikiData/WD~travel,61509]]"
+  - '[[_Standards/WikiData/WD~economic_sector,3958441]]'
+  - '[[_Standards/WikiData/WD~travel,61509]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~tourist,5633897]]"
-  - "[[_Standards/WikiData/WD~traveler,12356615]]"
-  - "[[_Standards/WikiData/WD~hospitality_occupation,60534774]]"
-  - "[[_Standards/WikiData/WD~tourism_expert,124516389]]"
+  - '[[_Standards/WikiData/WD~tourist,5633897]]'
+  - '[[_Standards/WikiData/WD~traveler,12356615]]'
+  - '[[_Standards/WikiData/WD~hospitality_occupation,60534774]]'
+  - '[[_Standards/WikiData/WD~tourism_expert,124516389]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Tourism,8069987]]"
-  - "[[_Standards/WikiData/WD~Template_Tourism_in_Europe,13219028]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Travel_and_Tourism,10803972]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Tourism,10978597]]"
-uses: "[[_Standards/WikiData/WD~travel_service,12162950]]"
-related_category: "[[_Standards/WikiData/WD~Q13337886,13337886]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+  - '[[_Standards/WikiData/WD~Template_Tourism,8069987]]'
+  - '[[_Standards/WikiData/WD~Template_Tourism_in_Europe,13219028]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Travel_and_Tourism,10803972]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Tourism,10978597]]'
+uses: '[[_Standards/WikiData/WD~travel_service,12162950]]'
+related_category: '[[_Standards/WikiData/WD~Q13337886,13337886]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 part_of:
-  - "[[_Standards/WikiData/WD~commerce,_management,_tourism_and_services,113043123]]"
-  - "[[_Standards/WikiData/WD~tertiary_sector_of_the_economy,55638]]"
-OmegaWiki_Defined_Meaning: "3790"
-Dewey_Decimal_Classification: "910"
+  - '[[_Standards/WikiData/WD~commerce,_management,_tourism_and_services,113043123]]'
+  - '[[_Standards/WikiData/WD~tertiary_sector_of_the_economy,55638]]'
+OmegaWiki_Defined_Meaning: 3790
+Dewey_Decimal_Classification: 910
 Commons_category: Tourism
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Tourismus.ogg
-U_S_National_Archives_Identifier: "10644612"
+U_S_National_Archives_Identifier: 10644612
 Iconclass_notation: 46C54
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Tourism.png

@@ -1,42 +1,44 @@
 ---
-excludes: 
+aliases:
+  - FileClass~DeliveryTimeSettings
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-- id: 2cP98C
-  name: DeliveryTime
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/ShippingDeliveryTime')"
-  type: MultiFile
-  path: ''
-- id: 3vKICY
-  name: IsUnlabelledFallback
-  options: {}
-  type: Boolean
-  path: ''
-- id: H5Gotc
-  name: ShippingDestination
-  options:
-    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/DefinedRegion')"
-  type: MultiFile
-  path: ''
-- id: sv1rwk
-  name: TransitTimeLabel
-  options: {}
-  type: Input
-  path: ''
+  - id: 2cP98C
+    name: DeliveryTime
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ShippingDeliveryTime')
+    type: MultiFile
+    path: ''
+  - id: 3vKICY
+    name: IsUnlabelledFallback
+    options: {}
+    type: Boolean
+    path: ''
+  - id: H5Gotc
+    name: ShippingDestination
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/DefinedRegion')
+    type: MultiFile
+    path: ''
+  - id: sv1rwk
+    name: TransitTimeLabel
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/DeliveryTimeSettings
-- class/Thing/Intangible/StructuredValue/DeliveryTimeSettings
-- is_a_/DeliveryTimeSettings
-- schema-org/DeliveryTimeSettings
+  - class/DeliveryTimeSettings
+  - class/Thing/Intangible/StructuredValue/DeliveryTimeSettings
+  - is_a_/DeliveryTimeSettings
+  - schema-org/DeliveryTimeSettings
 tags:
-- class/FileClass
-- class/DeliveryTimeSettings
-- is_a_/DeliveryTimeSettings
-- class/Thing/Intangible/StructuredValue/DeliveryTimeSettings
+  - class/FileClass
+  - class/DeliveryTimeSettings
+  - is_a_/DeliveryTimeSettings
+  - class/Thing/Intangible/StructuredValue/DeliveryTimeSettings
 version: 2.0
 ---
 

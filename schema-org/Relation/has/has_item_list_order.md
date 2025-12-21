@@ -3,12 +3,13 @@ aliases:
   - has item-list-order
   - itemListOrder
   - has_item_list_order
+  - has item list order
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - item
   - list
   - order
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_item_list_order
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

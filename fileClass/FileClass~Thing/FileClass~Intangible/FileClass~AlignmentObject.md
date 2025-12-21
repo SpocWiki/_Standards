@@ -1,45 +1,47 @@
 ---
-excludes: 
+aliases:
+  - FileClass~AlignmentObject
+excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-- id: tIrNHg
-  name: AlignmentType
-  options: {}
-  type: Input
-  path: ''
-- id: a0BDav
-  name: EducationalFramework
-  options: {}
-  type: Input
-  path: ''
-- id: kJU6Q2
-  name: TargetDescription
-  options: {}
-  type: Input
-  path: ''
-- id: 66sZaT
-  name: TargetName
-  options: {}
-  type: Input
-  path: ''
-- id: tSaRs0
-  name: TargetUrl
-  options: {}
-  type: Input
-  path: ''
+  - id: tIrNHg
+    name: AlignmentType
+    options: {}
+    type: Input
+    path: ''
+  - id: a0BDav
+    name: EducationalFramework
+    options: {}
+    type: Input
+    path: ''
+  - id: kJU6Q2
+    name: TargetDescription
+    options: {}
+    type: Input
+    path: ''
+  - id: 66sZaT
+    name: TargetName
+    options: {}
+    type: Input
+    path: ''
+  - id: tSaRs0
+    name: TargetUrl
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/AlignmentObject
-- class/Thing/Intangible/AlignmentObject
-- is_an_/AlignmentObject
-- schema-org/AlignmentObject
+  - class/AlignmentObject
+  - class/Thing/Intangible/AlignmentObject
+  - is_an_/AlignmentObject
+  - schema-org/AlignmentObject
 tags:
-- class/FileClass
-- class/AlignmentObject
-- '#is_an_/AlignmentObject'
-- class/Thing/Intangible/AlignmentObject
+  - class/FileClass
+  - class/AlignmentObject
+  - '#is_an_/AlignmentObject'
+  - class/Thing/Intangible/AlignmentObject
 version: 2.0
 ---
 

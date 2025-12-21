@@ -2,6 +2,7 @@
 aliases:
   - Hadj
   - Hadsch
+  - Hajj
 has_id_wikidata: Q234915
 Commons_category: Hajj
 DPLA_subject_term: Hajj
@@ -13,35 +14,35 @@ Library_of_Congress_Classification:
   - KBP184.73.A-KBP184.73.Z
   - BP181
 Gujarati_Vishwakosh_entry: હજ
-part_of: "[[_Standards/WikiData/WD~Five_Pillars_of_Islam,176770]]"
+part_of: '[[_Standards/WikiData/WD~Five_Pillars_of_Islam,176770]]'
 significant_place:
-  - "[[_Standards/WikiData/WD~Mount_Arafat,216894]]"
-  - "[[_Standards/WikiData/WD~Mina,753276]]"
-  - "[[_Standards/WikiData/WD~Muzdalifah_Valley,1788735]]"
-  - "[[_Standards/WikiData/WD~Kaaba,29466]]"
+  - '[[_Standards/WikiData/WD~Mount_Arafat,216894]]'
+  - '[[_Standards/WikiData/WD~Mina,753276]]'
+  - '[[_Standards/WikiData/WD~Muzdalifah_Valley,1788735]]'
+  - '[[_Standards/WikiData/WD~Kaaba,29466]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Fard,844614]]"
-  - "[[_Standards/WikiData/WD~pilgrimage,1644573]]"
-has_effect: "[[_Standards/WikiData/WD~Hajji,1066124]]"
-has_part_s_: "[[_Standards/WikiData/WD~Types_of_Hajj,12183653]]"
-organizer: "[[_Standards/WikiData/WD~Ministry_of_Hajj_and_Umrah_(Saudi_Arabia),12250954]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Hajj,18206448]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
-country: "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-destination_point: "[[_Standards/WikiData/WD~Mecca,5806]]"
-participant: "[[_Standards/WikiData/WD~Muslim,47740]]"
+  - '[[_Standards/WikiData/WD~Fard,844614]]'
+  - '[[_Standards/WikiData/WD~pilgrimage,1644573]]'
+has_effect: '[[_Standards/WikiData/WD~Hajji,1066124]]'
+has_part_s_: '[[_Standards/WikiData/WD~Types_of_Hajj,12183653]]'
+organizer: '[[_Standards/WikiData/WD~Ministry_of_Hajj_and_Umrah_(Saudi_Arabia),12250954]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Hajj,18206448]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
+country: '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
+destination_point: '[[_Standards/WikiData/WD~Mecca,5806]]'
+participant: '[[_Standards/WikiData/WD~Muslim,47740]]'
 IMDb_keyword: hajj
 GitHub_topic: hajj
 subreddit: hajj
-OmegaWiki_Defined_Meaning: "413571"
+OmegaWiki_Defined_Meaning: 413571
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Al-Haram%20mosque%20-%20Flickr%20-%20Al%20Jazeera%20English.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Hajj.ogv
 coordinate_location: Point(39.826166666 21.4225)

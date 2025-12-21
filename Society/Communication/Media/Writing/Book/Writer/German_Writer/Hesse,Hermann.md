@@ -4,96 +4,97 @@ aliases:
   - Hermann Karl Hesse
   - Hermann Hesse
   - Hesse
+  - Hesse,Hermann
 has_id_wikidata: Q25973
-father: "[[_Standards/WikiData/WD~Johannes_Hesse,106996]]"
+father: '[[_Standards/WikiData/WD~Johannes_Hesse,106996]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Pour_le_Mérite,156478]]"
-  - "[[_Standards/WikiData/WD~Goethe_Prize,159909]]"
-  - "[[_Standards/WikiData/WD~Bauernfeld_prize,811248]]"
-  - "[[_Standards/WikiData/WD~Wilhelm_Raabe_Prize,1922741]]"
-  - "[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]"
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
+  - '[[_Standards/WikiData/WD~Pour_le_Mérite,156478]]'
+  - '[[_Standards/WikiData/WD~Goethe_Prize,159909]]'
+  - '[[_Standards/WikiData/WD~Bauernfeld_prize,811248]]'
+  - '[[_Standards/WikiData/WD~Wilhelm_Raabe_Prize,1922741]]'
+  - '[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]'
+  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Pietism,193664]]"
-  - "[[_Standards/WikiData/WD~Buddhism_as_a_religion,19523829]]"
-  - "[[_Standards/WikiData/WD~psychoanalysis,41630]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]"
+  - '[[_Standards/WikiData/WD~Pietism,193664]]'
+  - '[[_Standards/WikiData/WD~Buddhism_as_a_religion,19523829]]'
+  - '[[_Standards/WikiData/WD~psychoanalysis,41630]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Steppenwolf,217073]]"
-  - "[[_Standards/WikiData/WD~Siddhartha,457289]]"
-  - "[[_Standards/WikiData/WD~Peter_Camenzind,576493]]"
-  - "[[_Standards/WikiData/WD~The_Glass_Bead_Game,836841]]"
-  - "[[_Standards/WikiData/WD~Demian,860577]]"
-  - "[[_Standards/WikiData/WD~Narcissus_and_Goldmund,1502926]]"
+  - '[[_Standards/WikiData/WD~Steppenwolf,217073]]'
+  - '[[_Standards/WikiData/WD~Siddhartha,457289]]'
+  - '[[_Standards/WikiData/WD~Peter_Camenzind,576493]]'
+  - '[[_Standards/WikiData/WD~The_Glass_Bead_Game,836841]]'
+  - '[[_Standards/WikiData/WD~Demian,860577]]'
+  - '[[_Standards/WikiData/WD~Narcissus_and_Goldmund,1502926]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~Austrian_National_Library,304037]]"
-  - "[[_Standards/WikiData/WD~Swiss_Literary_Archives,675617]]"
-  - "[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]"
+  - '[[_Standards/WikiData/WD~Austrian_National_Library,304037]]'
+  - '[[_Standards/WikiData/WD~Swiss_Literary_Archives,675617]]'
+  - '[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Ninon_Hesse,371210]]"
-  - "[[_Standards/WikiData/WD~Ruth_Wenger,2177796]]"
-  - "[[_Standards/WikiData/WD~Mia_Hesse_Bernoulli,56234397]]"
-place_of_birth: "[[_Standards/WikiData/WD~Calw,487921]]"
+  - '[[_Standards/WikiData/WD~Ninon_Hesse,371210]]'
+  - '[[_Standards/WikiData/WD~Ruth_Wenger,2177796]]'
+  - '[[_Standards/WikiData/WD~Mia_Hesse_Bernoulli,56234397]]'
+place_of_birth: '[[_Standards/WikiData/WD~Calw,487921]]'
 occupation:
-  - "[[_Standards/WikiData/WD~illustrator,644687]]"
-  - "[[_Standards/WikiData/WD~bookseller,998550]]"
-  - "[[_Standards/WikiData/WD~painter,1028181]]"
-  - "[[_Standards/WikiData/WD~resistance_fighter,1397808]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~novelist,6625963]]"
-  - "[[_Standards/WikiData/WD~literary_scholar,6673651]]"
-  - "[[_Standards/WikiData/WD~librettist,8178443]]"
-  - "[[_Standards/WikiData/WD~pacifist,16003550]]"
-  - "[[_Standards/WikiData/WD~Nobel_Prize_winner,115784320]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+  - '[[_Standards/WikiData/WD~illustrator,644687]]'
+  - '[[_Standards/WikiData/WD~bookseller,998550]]'
+  - '[[_Standards/WikiData/WD~painter,1028181]]'
+  - '[[_Standards/WikiData/WD~resistance_fighter,1397808]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~novelist,6625963]]'
+  - '[[_Standards/WikiData/WD~literary_scholar,6673651]]'
+  - '[[_Standards/WikiData/WD~librettist,8178443]]'
+  - '[[_Standards/WikiData/WD~pacifist,16003550]]'
+  - '[[_Standards/WikiData/WD~Nobel_Prize_winner,115784320]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~poet,49757]]'
 work_location:
-  - "[[_Standards/WikiData/WD~Montagnola,694086]]"
-  - "[[_Standards/WikiData/WD~Bern,70]]"
-place_of_death: "[[_Standards/WikiData/WD~Montagnola,694086]]"
+  - '[[_Standards/WikiData/WD~Montagnola,694086]]'
+  - '[[_Standards/WikiData/WD~Bern,70]]'
+place_of_death: '[[_Standards/WikiData/WD~Montagnola,694086]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Hermann,1158570]]"
-  - "[[_Standards/WikiData/WD~Karl,15731830]]"
+  - '[[_Standards/WikiData/WD~Hermann,1158570]]'
+  - '[[_Standards/WikiData/WD~Karl,15731830]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Evangelical_Seminaries_of_Maulbronn_and_Blaubeuren,1381118]]"
-  - "[[_Standards/WikiData/WD~Johannes_Kepler_Gymnasium,1697093]]"
-family_name: "[[_Standards/WikiData/WD~Hesse,1615700]]"
+  - '[[_Standards/WikiData/WD~Evangelical_Seminaries_of_Maulbronn_and_Blaubeuren,1381118]]'
+  - '[[_Standards/WikiData/WD~Johannes_Kepler_Gymnasium,1697093]]'
+family_name: '[[_Standards/WikiData/WD~Hesse,1615700]]'
 child:
-  - "[[_Standards/WikiData/WD~Martin_Hesse,1904059]]"
-  - "[[_Standards/WikiData/WD~Bruno_Hesse,17579880]]"
-  - "[[_Standards/WikiData/WD~Heiner_Hesse,95007481]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-artist_files_at: "[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Martin_Hesse,1904059]]'
+  - '[[_Standards/WikiData/WD~Bruno_Hesse,17579880]]'
+  - '[[_Standards/WikiData/WD~Heiner_Hesse,95007481]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+artist_files_at: '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Hermann_Hesse,110197689]]"
-mother: "[[_Standards/WikiData/WD~Marie_Hesse,23059263]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+  - '[[_Standards/WikiData/WD~Hermann_Hesse,110197689]]'
+mother: '[[_Standards/WikiData/WD~Marie_Hesse,23059263]]'
 place_of_burial: "[[_Standards/WikiData/WD~Sant'Abbondio_Cemetery_in_Gentilino,29527196]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-sibling: "[[_Standards/WikiData/WD~Marulla_Hesse,94752453]]"
-different_from: "[[_Standards/WikiData/WD~Hermann_Hesse,96474418]]"
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+sibling: '[[_Standards/WikiData/WD~Marulla_Hesse,94752453]]'
+different_from: '[[_Standards/WikiData/WD~Hermann_Hesse,96474418]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Monte_Verità,136326833]]"
-partner_in_business_or_sport: "[[_Standards/WikiData/WD~Gertrud_Zwingli_Häusermann,120328189]]"
+  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Monte_Verità,136326833]]'
+partner_in_business_or_sport: '[[_Standards/WikiData/WD~Gertrud_Zwingli_Häusermann,120328189]]'
 date_of_birth: 1877-07-02T00:00:00Z
-field_of_work: "[[_Standards/WikiData/WD~prose,676]]"
-cause_of_death: "[[_Standards/WikiData/WD~stroke,12202]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+field_of_work: '[[_Standards/WikiData/WD~prose,676]]'
+cause_of_death: '[[_Standards/WikiData/WD~stroke,12202]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Switzerland,39]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~German_Empire,43287]]"
-writing_language: "[[_Standards/WikiData/WD~German,188]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~German,188]]"
-nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
-movement: "[[_Standards/WikiData/WD~existentialism,38066]]"
+  - '[[_Standards/WikiData/WD~Switzerland,39]]'
+  - '[[_Standards/WikiData/WD~Germany,183]]'
+  - '[[_Standards/WikiData/WD~German_Empire,43287]]'
+writing_language: '[[_Standards/WikiData/WD~German,188]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
+movement: '[[_Standards/WikiData/WD~existentialism,38066]]'
 Commons_category: Hermann Hesse
 Commons_Creator_page: Hermann Hesse
 Commons_gallery: Hermann Hesse
@@ -116,10 +117,10 @@ described_at_URL:
   - http://www.digiporta.net/index.php?id=885247598
 IPA_transcription: /ˈhɛɐman ˈhɛsə/
 ISNI:
-  - "0000000121296240"
-  - "0000000368640816"
-  - "0000000368640824"
-NLC_authorities: "000148900"
+  - 0000000121296240
+  - 0000000368640816
+  - 0000000368640824
+NLC_authorities: 000148900
 ---
 
 # [[Hesse,Hermann]] 

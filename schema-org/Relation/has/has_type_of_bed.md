@@ -3,12 +3,13 @@ aliases:
   - has type-of-bed
   - typeOfBed
   - has_type_of_bed
+  - has type of bed
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - type
   - of
   - bed
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_type_of_bed
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

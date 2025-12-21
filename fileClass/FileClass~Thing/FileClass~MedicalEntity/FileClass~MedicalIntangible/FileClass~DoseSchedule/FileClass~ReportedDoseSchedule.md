@@ -1,20 +1,22 @@
 ---
-excludes: 
+aliases:
+  - FileClass~ReportedDoseSchedule
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule
 fields: []
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/ReportedDoseSchedule
-- class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/ReportedDoseSchedule
-- is_a_/ReportedDoseSchedule
-- schema-org/ReportedDoseSchedule
+  - class/ReportedDoseSchedule
+  - class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/ReportedDoseSchedule
+  - is_a_/ReportedDoseSchedule
+  - schema-org/ReportedDoseSchedule
 tags:
-- class/FileClass
-- class/ReportedDoseSchedule
-- is_a_/ReportedDoseSchedule
-- class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/ReportedDoseSchedule
+  - class/FileClass
+  - class/ReportedDoseSchedule
+  - is_a_/ReportedDoseSchedule
+  - class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/ReportedDoseSchedule
 version: 2.0
 ---
 

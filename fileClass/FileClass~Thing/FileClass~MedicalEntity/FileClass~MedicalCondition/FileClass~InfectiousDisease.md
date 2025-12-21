@@ -1,30 +1,32 @@
 ---
-excludes: 
+aliases:
+  - FileClass~InfectiousDisease
+excludes: ''
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition
 fields:
-- id: HEJbDZ
-  name: InfectiousAgent
-  options: {}
-  type: Input
-  path: ''
-- id: LX1q2h
-  name: TransmissionMethod
-  options: {}
-  type: Input
-  path: ''
+  - id: HEJbDZ
+    name: InfectiousAgent
+    options: {}
+    type: Input
+    path: ''
+  - id: LX1q2h
+    name: TransmissionMethod
+    options: {}
+    type: Input
+    path: ''
 icon: link-2
 limit: 9
 mapWithTag: true
 tagNames:
-- class/InfectiousDisease
-- class/Thing/MedicalEntity/MedicalCondition/InfectiousDisease
-- is_an_/InfectiousDisease
-- schema-org/InfectiousDisease
+  - class/InfectiousDisease
+  - class/Thing/MedicalEntity/MedicalCondition/InfectiousDisease
+  - is_an_/InfectiousDisease
+  - schema-org/InfectiousDisease
 tags:
-- class/FileClass
-- class/InfectiousDisease
-- '#is_an_/InfectiousDisease'
-- class/Thing/MedicalEntity/MedicalCondition/InfectiousDisease
+  - class/FileClass
+  - class/InfectiousDisease
+  - '#is_an_/InfectiousDisease'
+  - class/Thing/MedicalEntity/MedicalCondition/InfectiousDisease
 version: 2.0
 ---
 

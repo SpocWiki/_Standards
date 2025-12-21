@@ -3,23 +3,24 @@ aliases:
   - has experience-requirements
   - experienceRequirements
   - has_experience_requirements
+  - has experience requirements
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - experience
   - requirements
   - experience_requirements
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_experience_requirements
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation

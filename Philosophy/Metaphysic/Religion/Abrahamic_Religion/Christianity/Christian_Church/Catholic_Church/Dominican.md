@@ -3,6 +3,7 @@ aliases:
   - Dominican_Order
   - Order of Preachers
   - Dominican Order
+  - Dominican
 has_id_wikidata: Q131479
 ---
 

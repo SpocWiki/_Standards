@@ -1,9 +1,11 @@
 ---
 aliases:
   - molecular orbital theory
+  - Molecular_Orbital_Theory
+  - Molecular Orbital Theory
 has_id_wikidata: Q898432
-is_the_study_of: "[[_Standards/WikiData/WD~molecular_orbital,725417]]"
-instance_of: "[[_Standards/WikiData/WD~chemical_bonding_model,5090444]]"
+is_the_study_of: '[[_Standards/WikiData/WD~molecular_orbital,725417]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_bonding_model,5090444]]'
 Commons_category: Molecular orbitals
 ---
 

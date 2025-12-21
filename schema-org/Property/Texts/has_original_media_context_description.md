@@ -4,12 +4,14 @@ aliases:
   - original_media_context_description
   - originalMediaContextDescription
   - has_text_of_original_media_context_description
+  - has_original_media_context_description
+  - has original media context description
 confidential: public
 cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,11 +19,11 @@ keywords:
   - media
   - context
   - description
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_original_media_context_description
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text

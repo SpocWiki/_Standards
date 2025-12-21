@@ -1,28 +1,28 @@
 ---
 aliases:
-- has translator
-- has_translator
-- "schema:translator"
-- "dbo:translator"
-- "wdt:P655"
+  - has translator
+  - has_translator
+  - schema:translator
+  - dbo:translator
+  - wdt:P655
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- translator
-layout: 
-license: "CC BY-SA 4.0"
+  - translator
+layout: ''
+license: CC BY-SA 4.0
 linkTitle: has_translator
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_translator
 type: Predi_Relation
 ---

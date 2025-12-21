@@ -4,21 +4,23 @@ aliases:
   - locker_delivery
   - LockerDelivery
   - is_a_locker_delivery
+  - Locker_Delivery
+  - Locker Delivery
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: DeliveryMethod
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - locker_delivery
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_locker_delivery Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,13 +1,15 @@
 ---
-has_location_created: 
-has_location_destroyed: 
-has_time_created: 
-has_time_destroyed: 
-name: "Schema.org Ontology"
+aliases:
+  - UNSPSC
+has_location_created: ''
+has_location_destroyed: ''
+has_time_created: ''
+has_time_destroyed: ''
+name: Schema.org Ontology
 subjectOf:
   \@type: Book
-  name: "The Complete History of Schema.org"
-_context: "https://schema.org/"
+  name: The Complete History of Schema.org
+_context: https://schema.org/
 _type: Thing
 ---
 

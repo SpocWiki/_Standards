@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Animal Farm"
+  - Animal Farm
+  - Animal_Farm
 ---
 
 #has_/creator :: [[../Orwell,George|Orwell,George]] 

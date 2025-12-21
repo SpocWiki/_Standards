@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Brad Pitt"
+  - Brad Pitt
+  - Pitt,Brad
 ---
 
 #has_/time_/started :: 1963-12-18 

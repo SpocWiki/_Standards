@@ -1,39 +1,41 @@
 ---
+aliases:
+  - Bisexuality
 has_id_wikidata: Q43200
 different_from:
-  - "[[_Standards/WikiData/WD~bi_curious,255155]]"
-  - "[[_Standards/WikiData/WD~pansexuality,271534]]"
-  - "[[_Standards/WikiData/WD~bisociality,106667104]]"
-  - "[[_Standards/WikiData/WD~duogamy,131387931]]"
+  - '[[_Standards/WikiData/WD~bi_curious,255155]]'
+  - '[[_Standards/WikiData/WD~pansexuality,271534]]'
+  - '[[_Standards/WikiData/WD~bisociality,106667104]]'
+  - '[[_Standards/WikiData/WD~duogamy,131387931]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~non_heterosexuality,339014]]"
-  - "[[_Standards/WikiData/WD~ambiphilia,50810374]]"
-  - "[[_Standards/WikiData/WD~allosexuality,64737936]]"
-  - "[[_Standards/WikiData/WD~plurisexuality,106589379]]"
+  - '[[_Standards/WikiData/WD~non_heterosexuality,339014]]'
+  - '[[_Standards/WikiData/WD~ambiphilia,50810374]]'
+  - '[[_Standards/WikiData/WD~allosexuality,64737936]]'
+  - '[[_Standards/WikiData/WD~plurisexuality,106589379]]'
 part_of:
-  - "[[_Standards/WikiData/WD~bisexual_community,351403]]"
-  - "[[_Standards/WikiData/WD~LGBT_community,51393]]"
-flag: "[[_Standards/WikiData/WD~bisexual_pride_flag,1426529]]"
+  - '[[_Standards/WikiData/WD~bisexual_community,351403]]'
+  - '[[_Standards/WikiData/WD~LGBT_community,51393]]'
+flag: '[[_Standards/WikiData/WD~bisexual_pride_flag,1426529]]'
 named_after:
-  - "[[_Standards/WikiData/WD~bi_,1973487]]"
-  - "[[_Standards/WikiData/WD~sexuality,3043188]]"
+  - '[[_Standards/WikiData/WD~bi_,1973487]]'
+  - '[[_Standards/WikiData/WD~sexuality,3043188]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~romantic_orientation,4688879]]"
-  - "[[_Standards/WikiData/WD~sexual_orientation,17888]]"
-P8189: "987007282561505171"
-practiced_by: "[[_Standards/WikiData/WD~bisexual,12905217]]"
+  - '[[_Standards/WikiData/WD~romantic_orientation,4688879]]'
+  - '[[_Standards/WikiData/WD~sexual_orientation,17888]]'
+P8189: 987007282561505171
+practiced_by: '[[_Standards/WikiData/WD~bisexual,12905217]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_LGBTQ+_studies,15092984]]"
-  - "[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_bisexuality,17166092]]"
+  - '[[_Standards/WikiData/WD~WikiProject_LGBTQ+_studies,15092984]]'
+  - '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_bisexuality,17166092]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~ambiphilia,50810374]]"
-  - "[[_Standards/WikiData/WD~ambisexuality,55973762]]"
+  - '[[_Standards/WikiData/WD~ambiphilia,50810374]]'
+  - '[[_Standards/WikiData/WD~ambisexuality,55973762]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~male_bisexuality,105079290]]"
-  - "[[_Standards/WikiData/WD~female_bisexuality,105079904]]"
-  - "[[_Standards/WikiData/WD~non_binary_bisexual,115870499]]"
-OmegaWiki_Defined_Meaning: "373182"
+  - '[[_Standards/WikiData/WD~male_bisexuality,105079290]]'
+  - '[[_Standards/WikiData/WD~female_bisexuality,105079904]]'
+  - '[[_Standards/WikiData/WD~non_binary_bisexual,115870499]]'
+OmegaWiki_Defined_Meaning: 373182
 social_media_followers: 529981
 IMDb_keyword: bisexual
 subreddit: bisexual

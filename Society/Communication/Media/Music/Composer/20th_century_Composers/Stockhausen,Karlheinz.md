@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Karlheinz Stockhausen"
+  - Karlheinz Stockhausen
+  - Stockhausen,Karlheinz
 ---
 
 # [[Stockhausen,Karlheinz]] 

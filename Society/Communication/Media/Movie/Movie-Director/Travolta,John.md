@@ -1,6 +1,7 @@
 ---
 aliases:
-- "John Travolta"
+  - John Travolta
+  - Travolta,John
 ---
 
 ## #has_/text_of_/abstract 

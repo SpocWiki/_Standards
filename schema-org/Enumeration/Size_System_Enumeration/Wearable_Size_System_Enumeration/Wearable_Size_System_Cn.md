@@ -4,21 +4,23 @@ aliases:
   - wearable_size_system_cn
   - WearableSizeSystemCN
   - is_a_wearable_size_system_cn
+  - Wearable_Size_System_Cn
+  - Wearable Size System Cn
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: WearableSizeSystemEnumeration
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_size_system_cn
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_size_system_cn Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,6 +1,7 @@
 ---
 aliases:
-- Chibanian
+  - Chibanian
+  - Age~3~Chibanian
 has_id_wikidata: Q492596
 ---
 

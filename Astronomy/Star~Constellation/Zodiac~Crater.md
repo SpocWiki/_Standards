@@ -2,26 +2,27 @@
 aliases:
   - Crater
   - Becher
+  - Zodiac~Crater
+has_id_wikidata: Q9282
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-has_id_wikidata: Q9282
-named_after: "[[_Standards/WikiData/WD~krater,476968]]"
-part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Stars_of_Crater,10729099]]"
+named_after: '[[_Standards/WikiData/WD~krater,476968]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Stars_of_Crater,10729099]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]"
-  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
+  - '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]'
+  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Virgo,8842]]"
-  - "[[_Standards/WikiData/WD~Leo,8853]]"
-  - "[[_Standards/WikiData/WD~Corvus,10517]]"
-  - "[[_Standards/WikiData/WD~Sextans,10525]]"
-  - "[[_Standards/WikiData/WD~Hydra,10578]]"
-instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+  - '[[_Standards/WikiData/WD~Virgo,8842]]'
+  - '[[_Standards/WikiData/WD~Leo,8853]]'
+  - '[[_Standards/WikiData/WD~Corvus,10517]]'
+  - '[[_Standards/WikiData/WD~Sextans,10525]]'
+  - '[[_Standards/WikiData/WD~Hydra,10578]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
 area: 282
 official_name: Crater
 Hederich_encyclopedia_article: Crater

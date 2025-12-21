@@ -2,6 +2,8 @@
 aliases:
   - Romantic painting
   - Romantic painter
+  - Romantic_Painting
+  - Romantic Painting
 ---
 
 

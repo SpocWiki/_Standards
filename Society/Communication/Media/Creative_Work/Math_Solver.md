@@ -4,20 +4,22 @@ aliases:
   - math_solver
   - MathSolver
   - is_a_math_solver
+  - Math_Solver
+  - Math Solver
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - math_solver
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_math_solver Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

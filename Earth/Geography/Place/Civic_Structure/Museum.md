@@ -9,59 +9,59 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - museum
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_museum Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_museum Class
 type: Type
 subclass_of:
-  - "[[_Standards/WikiData/WD~institution,178706]]"
-  - "[[_Standards/WikiData/WD~GLAM,1030034]]"
-  - "[[_Standards/WikiData/WD~venue,17350442]]"
+  - '[[_Standards/WikiData/WD~institution,178706]]'
+  - '[[_Standards/WikiData/WD~GLAM,1030034]]'
+  - '[[_Standards/WikiData/WD~venue,17350442]]'
 model_item:
-  - "[[_Standards/WikiData/WD~Rijksmuseum,190804]]"
-  - "[[_Standards/WikiData/WD~Pablo_Gargallo_Museum,11323320]]"
+  - '[[_Standards/WikiData/WD~Rijksmuseum,190804]]'
+  - '[[_Standards/WikiData/WD~Pablo_Gargallo_Museum,11323320]]'
 subject_has_role:
-  - "[[_Standards/WikiData/WD~restoration,217102]]"
-  - "[[_Standards/WikiData/WD~exhibition,464980]]"
-  - "[[_Standards/WikiData/WD~collection,2668072]]"
-  - "[[_Standards/WikiData/WD~education,8434]]"
-  - "[[_Standards/WikiData/WD~communication,11024]]"
-  - "[[_Standards/WikiData/WD~research,42240]]"
+  - '[[_Standards/WikiData/WD~restoration,217102]]'
+  - '[[_Standards/WikiData/WD~exhibition,464980]]'
+  - '[[_Standards/WikiData/WD~collection,2668072]]'
+  - '[[_Standards/WikiData/WD~education,8434]]'
+  - '[[_Standards/WikiData/WD~communication,11024]]'
+  - '[[_Standards/WikiData/WD~research,42240]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~museology,460162]]"
-  - "[[_Standards/WikiData/WD~sociology_of_museums,131825954]]"
+  - '[[_Standards/WikiData/WD~museology,460162]]'
+  - '[[_Standards/WikiData/WD~sociology_of_museums,131825954]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Kartographer_icon,134980502]]"
-interested_in: "[[_Standards/WikiData/WD~preservation,830393]]"
-has_list: "[[_Standards/WikiData/WD~list_of_museums,1346256]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_museum,6232685]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Museums,14615937]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Museums,14942921]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~museum_director,22132694]]"
-uses: "[[_Standards/WikiData/WD~museum_building,24699794]]"
-different_from: "[[_Standards/WikiData/WD~museum_building,24699794]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_museums,113861702]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Open_Culture_GLAM_Glossary,115123216]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_institution,117023459]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Kartographer_icon,134980502]]'
+interested_in: '[[_Standards/WikiData/WD~preservation,830393]]'
+has_list: '[[_Standards/WikiData/WD~list_of_museums,1346256]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_museum,6232685]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Museums,14615937]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Museums,14942921]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~museum_director,22132694]]'
+uses: '[[_Standards/WikiData/WD~museum_building,24699794]]'
+different_from: '[[_Standards/WikiData/WD~museum_building,24699794]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_museums,113861702]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Open_Culture_GLAM_Glossary,115123216]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_institution,117023459]]'
 properties_for_this_type:
   - Museofile ID
   - officially opened by
@@ -87,8 +87,8 @@ properties_for_this_type:
   - located in the administrative territorial entity
   - operator
   - logo image
-IAB_code: "155"
-OmegaWiki_Defined_Meaning: "2443"
+IAB_code: 155
+OmegaWiki_Defined_Meaning: 2443
 OpenStreetMap_key: museum
 IMDb_keyword: museum
 GitHub_topic: museum
@@ -99,7 +99,7 @@ sRGB_color_hex_triplet: 8B4513
 Commons_category: Museums
 Archive_of_Our_Own_tag: Museums
 DPLA_subject_term: Museums
-U_S_National_Archives_Identifier: "10643497"
+U_S_National_Archives_Identifier: 10643497
 image: http://commons.wikimedia.org/wiki/Special:FilePath/GD-EG-Caire-Mus%C3%A9e007.JPG
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Maki7-museum.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Museums%20banner%20Kelvingrove%20Art%20Gallery%20and%20Museum%20East%20Court.jpg
@@ -110,7 +110,7 @@ equivalent_class:
   - https://schema.org/Museum
 EntitySchema_for_this_class: E125
 Iconclass_notation: 48A821
-UNSPSC_Code: "90151501"
+UNSPSC_Code: 90151501
 UMLS_CUI: C0026863
 MeSH_tree_code:
   - J03.570

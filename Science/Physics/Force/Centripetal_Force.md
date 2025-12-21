@@ -1,6 +1,8 @@
 ---
 aliases:
   - Zentripetalkraft
+  - Centripetal_Force
+  - Centripetal Force
 has_id_wikidata: Q172881
 has_part_s_:
   - "[[_Standards/WikiData/WD~radius,173817]]"

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Drusen
+  - Druze
 has_id_wikidata: Q163943
 ---
 
