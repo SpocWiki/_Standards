@@ -1,90 +1,90 @@
 ---
 aliases:
-- Pea
-- Peas
-- Erbse
-- Erbsen
-- pisum
-- "Lathyrus oleraceus"
-award_received: '[[_Standards/WikiData/WD~Vegetable_of_the_year,1344055]]'
-Commons_category: "Pisum sativum"
-Commons_gallery: "Pisum sativum"
+  - Pea
+  - Peas
+  - Erbse
+  - Erbsen
+  - pisum
+  - Lathyrus oleraceus
+award_received: "[[_Standards/WikiData/WD~Vegetable_of_the_year,1344055]]"
+Commons_category: Pisum sativum
+Commons_gallery: Pisum sativum
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_42(2),112869425]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
+  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_42(2),112869425]]"
 different_from:
-- '[[_Standards/WikiData/WD~Pī,22673904]]'
-- '[[_Standards/WikiData/WD~pea,29472543]]'
+  - "[[_Standards/WikiData/WD~Pī,22673904]]"
+  - "[[_Standards/WikiData/WD~pea,29472543]]"
 EPPO_Code: PIBSX
 GenBank_assembly_accession_number:
-- GCA_003013575.1
-- GCA_014905515.1
-- GCA_024530875.1
-- GCA_900700895.2
-GRIN_URL: "https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=300472"
-hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131]]'
+  - GCA_003013575.1
+  - GCA_014905515.1
+  - GCA_024530875.1
+  - GCA_900700895.2
+GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=300472
+hardiness_of_plant: "[[_Standards/WikiData/WD~2,99546131]]"
 has_id_wikidata: Q25237
 has_use:
-- '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
-- '[[_Standards/WikiData/WD~fodder,211439]]'
-- '[[_Standards/WikiData/WD~vegetable,11004]]'
+  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
+  - "[[_Standards/WikiData/WD~fodder,211439]]"
+  - "[[_Standards/WikiData/WD~vegetable,11004]]"
 image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Doperwt%20rijserwt%20peulen%20Pisum%20sativum.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/NCI%20peas%20in%20pod.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Atlas%20roslin%20pl%20Groch%20zwyczajny%2010130%207607.jpg"
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Doperwt%20rijserwt%20peulen%20Pisum%20sativum.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/NCI%20peas%20in%20pod.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Atlas%20roslin%20pl%20Groch%20zwyczajny%2010130%207607.jpg
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: 26867
 MeSH_tree_code: B01.875.800.575.912.250.401.630
 NBN_System_Key: NBNSYS0000014224
 OmegaWiki_Defined_Meaning: 726623
-parent_taxon: '[[_Standards/WikiData/WD~Pisum,144795]]'
+parent_taxon: "[[_Standards/WikiData/WD~Pisum,144795]]"
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AE%E0%A6%9F%E0%A6%B0%E0%A6%B6%E0%A7%81%E0%A6%81%E0%A6%9F%E0%A6%BF.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Sv-%C3%A4rt.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BE%E0%AE%A3%E0%AE%BF.ogg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AE%E0%A6%9F%E0%A6%B0%E0%A6%B6%E0%A7%81%E0%A6%81%E0%A6%9F%E0%A6%BF.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Sv-%C3%A4rt.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BE%E0%AE%A3%E0%AE%BF.ogg
 short_name:
-- "L. oleraceus"
-- "P. sativum"
-subclass_of: '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+  - L. oleraceus
+  - P. sativum
+subclass_of: "[[_Standards/WikiData/WD~useful_plant,11992872]]"
 taxon_author_citation: L.
 taxon_common_name:
-- 豌豆
-- 豌豆花
-- エンドウ
-- 豌豆苗
-- 豆
-- Erwt
-- arbeyera
-- 豌豆荚
-- بازلاء
-- "hrách setý"
-- "pysen yr ardd"
-- "garden pea"
-- satoherne
-- 완두
-- "navadni grah"
-- 大薸
-- 豌豆尖
-- 回鹘豆
-- 荷兰豆
-- 豌豆
-- 雪豆
-- 麦豆
-taxon_name: "Pisum sativum"
+  - 豌豆
+  - 豌豆花
+  - エンドウ
+  - 豌豆苗
+  - 豆
+  - Erwt
+  - arbeyera
+  - 豌豆荚
+  - بازلاء
+  - hrách setý
+  - pysen yr ardd
+  - garden pea
+  - satoherne
+  - 완두
+  - navadni grah
+  - 大薸
+  - 豌豆尖
+  - 回鹘豆
+  - 荷兰豆
+  - 豌豆
+  - 雪豆
+  - 麦豆
+taxon_name: Pisum sativum
 taxon_range:
-- '[[_Standards/WikiData/WD~Beijing,956]]'
-- '[[_Standards/WikiData/WD~Guangdong,15175]]'
-- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Fujian,41705]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-taxon_synonym_of: '[[_Standards/WikiData/WD~Lathyrus_oleraceus,109902416]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~pea,29472543]]'
+  - "[[_Standards/WikiData/WD~Beijing,956]]"
+  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
+  - "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Fujian,41705]]"
+taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+taxon_synonym_of: "[[_Standards/WikiData/WD~Lathyrus_oleraceus,109902416]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~pea,29472543]]"
 UMLS_CUI: C1262903
-Unicode_character: "\U0001FADB"
+Unicode_character: 🫛
 UNII: J21YE3W98E
 USDA_NDB_number: 11303
 water_footprint: 1979
