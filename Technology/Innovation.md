@@ -57,6 +57,17 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Tip-of-the-day-bulb-%28
 > [Wikipedia](https://en.wikipedia.org/wiki/Innovation)  
 
 
+## Patterns of Failure  
+
+- wrong timing (too early, sometimes too late) 
+- misunderstanding usage (video telephony seen as invasive) 
+- internal concurrence 
+- high cost => below network effect 
+- too high a jump culturally or financially 
+- instable regulation  
+- mistrust 
+- goal conflicts 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Innovation](/_Standards/Technology/Innovation.md) 
