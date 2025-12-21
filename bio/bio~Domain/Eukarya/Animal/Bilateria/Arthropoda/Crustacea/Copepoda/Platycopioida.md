@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Platycopioida
 title: Platycopioida
 ---
 

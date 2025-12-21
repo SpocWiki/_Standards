@@ -1,5 +1,7 @@
 ---
-title: "non-core Caryophyllales"
+aliases:
+  - Polygonales
+title: non-core Caryophyllales
 ---
 
 # non-core Caryophyllales

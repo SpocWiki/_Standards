@@ -1,6 +1,7 @@
 ---
 aliases:
-- Commelinales
+  - Commelinales
+  - Commelinanae
 title: Commelinanae
 ---
 

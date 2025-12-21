@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Synotaxidae
 title: Synotaxidae
 ---
 

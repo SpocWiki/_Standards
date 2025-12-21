@@ -1,7 +1,7 @@
 ---
 aliases:
-- Ceratophyllaceae
-- coontail
+  - Ceratophyllaceae
+  - coontail
 title: Ceratophyllaceae
 ---
 

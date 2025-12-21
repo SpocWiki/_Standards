@@ -1,5 +1,7 @@
 ---
-title: "Cynarospermum asperrimum"
+aliases:
+  - Cynarospermum
+title: Cynarospermum asperrimum
 ---
 
 ## [[Cynarospermum]] 

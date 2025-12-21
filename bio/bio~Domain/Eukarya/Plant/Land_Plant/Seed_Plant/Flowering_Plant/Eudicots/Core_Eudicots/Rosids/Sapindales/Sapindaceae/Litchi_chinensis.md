@@ -6,6 +6,16 @@ aliases:
   - lìzhī
   - lai6 zi1
   - nāi-chi
+  - Litchi_chinensis
+  - Litsi
+  - lichi
+  - 荔枝叶
+  - 荔枝壳
+  - 荔枝核
+  - 荔枝根
+  - 离枝
+  - lychee
+  - liči
 has_id_wikidata: Q13182
 taxon_common_name:
   - Litsi
@@ -20,36 +30,36 @@ taxon_common_name:
   - liči
   - 荔枝
 has_use:
-  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
-  - "[[_Standards/WikiData/WD~wood,287]]"
-  - "[[_Standards/WikiData/WD~fruit,1364]]"
-  - "[[_Standards/WikiData/WD~food,2095]]"
-parent_taxon: "[[_Standards/WikiData/WD~Litchi,655597]]"
+  - '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+  - '[[_Standards/WikiData/WD~wood,287]]'
+  - '[[_Standards/WikiData/WD~fruit,1364]]'
+  - '[[_Standards/WikiData/WD~food,2095]]'
+parent_taxon: '[[_Standards/WikiData/WD~Litchi,655597]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_47(1),112869436]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_47(1),112869436]]'
 taxon_synonym:
-  - "[[_Standards/WikiData/WD~Litchi_sinensis,15525678]]"
-  - "[[_Standards/WikiData/WD~Euphoria_litchi,107568871]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~lychee,105428070]]"
+  - '[[_Standards/WikiData/WD~Litchi_sinensis,15525678]]'
+  - '[[_Standards/WikiData/WD~Euphoria_litchi,107568871]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~lychee,105428070]]'
 color:
-  - "[[_Standards/WikiData/WD~red,3142]]"
-  - "[[_Standards/WikiData/WD~white,23444]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+  - '[[_Standards/WikiData/WD~red,3142]]'
+  - '[[_Standards/WikiData/WD~white,23444]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 taxon_range:
-  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
-  - "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[_Standards/WikiData/WD~Guangdong,15175]]'
+  - '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 USDA_NDB_number:
-  - "09165"
-  - "09164"
-PLU_code: "4309"
-OmegaWiki_Defined_Meaning: "395866"
+  - 09165
+  - 09164
+PLU_code: 4309
+OmegaWiki_Defined_Meaning: 395866
 short_name: L. chinensis
-ITIS_TSN: "503504"
+ITIS_TSN: 503504
 Commons_category: Litchi chinensis
 taxon_name: Litchi chinensis
 Commons_gallery: Litchi chinensis

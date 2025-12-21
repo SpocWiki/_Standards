@@ -3,27 +3,54 @@ aliases:
   - Dinkel
   - Triticum_spelta
   - Triticum spelta
+  - Spelt
+  - Spelttivehnä
+  - Épeautre
+  - כוסמין
+  - Pir (biljka)
+  - Krupnik
+  - Tönkölybúza
+  - 스펠트 밀
+  - Крупник
+  - dinkeltarwe
+  - tarwe spelta
+  - pszenica orkisz
+  - szpelc
+  - Спельта
+  - Pira
+  - Прапшеница
+  - Kavuzlu buğday
+  - Speate
+  - Yell
+  - orkisz
+  - escanda (var. fisga)
+  - динкел (dinkel)
+  - pšenice špalda
+  - Όλυρα
+  - spelt
+  - spelt wheat
+  - Speltanisu
+has_id_wikidata: Q158767
 Commons_category: Triticum aestivum subsp. spelta
 Commons_gallery: Triticum spelta
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 EPPO_Code: TRZSP
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=40617
-has_effect: "[[_Standards/WikiData/WD~gluten-related_disorder,1367782]]"
-has_id_wikidata: Q158767
+has_effect: '[[_Standards/WikiData/WD~gluten-related_disorder,1367782]]'
 has_use:
-  - "[[_Standards/WikiData/WD~cereal_grain,12117]]"
+  - '[[_Standards/WikiData/WD~cereal_grain,12117]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/202304%207%20Tr.spelta%20color.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Illustration%20Triticum%20spelta0.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Spelt.jpg
-inflorescence: "[[_Standards/WikiData/WD~spike_of_spikelets,28771787]]"
+inflorescence: '[[_Standards/WikiData/WD~spike_of_spikelets,28771787]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~grain_crop,113976623]]"
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[_Standards/WikiData/WD~grain_crop,113976623]]'
+  - '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 42243
 NBN_System_Key: NBNSYS0200003391
-parent_taxon: "[[_Standards/WikiData/WD~Triticum,12106]]"
+parent_taxon: '[[_Standards/WikiData/WD~Triticum,12106]]'
 sequenced_genome_URL:
   - https://plants.ensembl.org/Triticum_spelta
 short_name:
@@ -31,7 +58,7 @@ short_name:
 spoken_text_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Spelt.ogg
 subclass_of:
-  - "[[_Standards/WikiData/WD~wheat,15645384]]"
+  - '[[_Standards/WikiData/WD~wheat,15645384]]'
 taxon_author_citation: L.
 taxon_common_name:
   - Spelttivehnä
@@ -64,11 +91,11 @@ taxon_common_name:
   - spelt wheat
   - Speltanisu
 taxon_name: Triticum spelta
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~Grünkern,142116]]"
-  - "[[_Standards/WikiData/WD~spelt_flour,3066924]]"
-  - "[[_Standards/WikiData/WD~wheat,15645384]]"
+  - '[[_Standards/WikiData/WD~Grünkern,142116]]'
+  - '[[_Standards/WikiData/WD~spelt_flour,3066924]]'
+  - '[[_Standards/WikiData/WD~wheat,15645384]]'
 UMLS_CUI: C0331515
 UNII: W8705D5S0Q
 ---

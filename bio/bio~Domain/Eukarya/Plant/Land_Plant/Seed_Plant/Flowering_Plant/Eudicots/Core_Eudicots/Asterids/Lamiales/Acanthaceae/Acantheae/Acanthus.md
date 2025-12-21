@@ -1,5 +1,7 @@
 ---
-title: "Acanthus Clade"
+aliases:
+  - Acanthus
+title: Acanthus Clade
 ---
 
 # [[Acanthus]]

@@ -4,20 +4,22 @@ aliases:
   - medical_test
   - MedicalTest
   - is_a_medical_test
+  - Medical_Test
+  - Medical Test
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_test
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_test Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

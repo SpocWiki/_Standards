@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Clubionidae
 title: Clubionidae
 ---
 

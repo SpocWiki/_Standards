@@ -1,32 +1,33 @@
 ---
 aliases:
   - Geriatrie
+  - Geriatrics
 has_id_wikidata: Q10384
 medical_condition_treated:
-  - "[[_Standards/WikiData/WD~dementia,83030]]"
-  - "[[_Standards/WikiData/WD~osteoporosis,165328]]"
-  - "[[_Standards/WikiData/WD~arthritis,170990]]"
-  - "[[_Standards/WikiData/WD~rheumatoid_arthritis,187255]]"
-  - "[[_Standards/WikiData/WD~heart_disease,190805]]"
-  - "[[_Standards/WikiData/WD~hypercholesterolemia,762713]]"
-  - "[[_Standards/WikiData/WD~atherosclerosis,12252367]]"
+  - '[[_Standards/WikiData/WD~dementia,83030]]'
+  - '[[_Standards/WikiData/WD~osteoporosis,165328]]'
+  - '[[_Standards/WikiData/WD~arthritis,170990]]'
+  - '[[_Standards/WikiData/WD~rheumatoid_arthritis,187255]]'
+  - '[[_Standards/WikiData/WD~heart_disease,190805]]'
+  - '[[_Standards/WikiData/WD~hypercholesterolemia,762713]]'
+  - '[[_Standards/WikiData/WD~atherosclerosis,12252367]]'
   - "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
-  - "[[_Standards/WikiData/WD~arterial_hypertension,41861]]"
-  - "[[_Standards/WikiData/WD~osteoarthritis,62736]]"
+  - '[[_Standards/WikiData/WD~arterial_hypertension,41861]]'
+  - '[[_Standards/WikiData/WD~osteoarthritis,62736]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~medical_specialty,930752]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - '[[_Standards/WikiData/WD~medical_specialty,930752]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~health_services_research,2518253]]"
-  - "[[_Standards/WikiData/WD~gerontology,10387]]"
-  - "[[_Standards/WikiData/WD~medicine,11190]]"
+  - '[[_Standards/WikiData/WD~health_services_research,2518253]]'
+  - '[[_Standards/WikiData/WD~gerontology,10387]]'
+  - '[[_Standards/WikiData/WD~medicine,11190]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~geriatrician,2580327]]"
-  - "[[_Standards/WikiData/WD~geriatric_health_care_professional,121856350]]"
-different_from: "[[_Standards/WikiData/WD~gerontology,10387]]"
-IAB_code: "230"
-All_Science_Journal_Classification_Codes: "2717"
-OmegaWiki_Defined_Meaning: "397302"
+  - '[[_Standards/WikiData/WD~geriatrician,2580327]]'
+  - '[[_Standards/WikiData/WD~geriatric_health_care_professional,121856350]]'
+different_from: '[[_Standards/WikiData/WD~gerontology,10387]]'
+IAB_code: 230
+All_Science_Journal_Classification_Codes: 2717
+OmegaWiki_Defined_Meaning: 397302
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nurse%20in%20geriatry.jpg
 exact_match: https://schema.org/Geriatric
 Iconclass_notation: 49G65

@@ -3,40 +3,42 @@ aliases:
   - hoof-and-mouth disease
   - Maul- und Klauenseuche
   - foot-and-mouth disease
+  - Hoof-and-Mouth_Disease
+  - Hoof-and-Mouth Disease
 has_id_wikidata: Q152401
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~poisoning,114953]]"
-  - "[[_Standards/WikiData/WD~aphthous_stomatitis,189956]]"
-  - "[[_Standards/WikiData/WD~myalgia,474959]]"
-  - "[[_Standards/WikiData/WD~arthralgia,683498]]"
-  - "[[_Standards/WikiData/WD~saliva_secretion,4424146]]"
-  - "[[_Standards/WikiData/WD~fever,38933]]"
+  - '[[_Standards/WikiData/WD~poisoning,114953]]'
+  - '[[_Standards/WikiData/WD~aphthous_stomatitis,189956]]'
+  - '[[_Standards/WikiData/WD~myalgia,474959]]'
+  - '[[_Standards/WikiData/WD~arthralgia,683498]]'
+  - '[[_Standards/WikiData/WD~saliva_secretion,4424146]]'
+  - '[[_Standards/WikiData/WD~fever,38933]]'
 health_specialty:
-  - "[[_Standards/WikiData/WD~veterinary_medicine,170201]]"
-  - "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+  - '[[_Standards/WikiData/WD~veterinary_medicine,170201]]'
+  - '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-has_cause: "[[_Standards/WikiData/WD~foot_and_mouth_disease_virus,1911079]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+has_cause: '[[_Standards/WikiData/WD~foot_and_mouth_disease_virus,1911079]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~bovine_disease,3473026]]"
-  - "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+  - '[[_Standards/WikiData/WD~bovine_disease,3473026]]'
+  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 has_natural_reservoir:
-  - "[[_Standards/WikiData/WD~Q4289565,4289565]]"
-  - "[[_Standards/WikiData/WD~cattle,4767951]]"
-  - "[[_Standards/WikiData/WD~pig,787]]"
-disease_transmission_process: "[[_Standards/WikiData/WD~contact_transmission,15304512]]"
-subclass_of: "[[_Standards/WikiData/WD~Picornaviridae_infectious_disease,18975569]]"
+  - '[[_Standards/WikiData/WD~Q4289565,4289565]]'
+  - '[[_Standards/WikiData/WD~cattle,4767951]]'
+  - '[[_Standards/WikiData/WD~pig,787]]'
+disease_transmission_process: '[[_Standards/WikiData/WD~contact_transmission,15304512]]'
+subclass_of: '[[_Standards/WikiData/WD~Picornaviridae_infectious_disease,18975569]]'
 minimal_incubation_period_in_humans: 3
 maximal_incubation_period_in_humans: 7
-DiseasesDB: "31707"
-U_S_National_Archives_Identifier: "10637262"
+DiseasesDB: 31707
+U_S_National_Archives_Identifier: 10637262
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Foot%20and%20mouth%20disease%20in%20mouth.jpg
 UMLS_CUI: C0016514
 MeSH_tree_code:

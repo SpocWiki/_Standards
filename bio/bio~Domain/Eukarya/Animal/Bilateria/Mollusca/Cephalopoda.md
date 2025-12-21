@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cephalopoda
 title: Cephalopoda
 ---
 

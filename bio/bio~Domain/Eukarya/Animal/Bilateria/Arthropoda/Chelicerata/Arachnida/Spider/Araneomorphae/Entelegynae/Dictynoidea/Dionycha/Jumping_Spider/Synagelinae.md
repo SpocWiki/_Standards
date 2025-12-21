@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Synagelinae
 title: Synagelinae
 ---
 

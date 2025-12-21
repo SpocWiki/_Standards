@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Latrodectus
 title: Latrodectus
 ---
 

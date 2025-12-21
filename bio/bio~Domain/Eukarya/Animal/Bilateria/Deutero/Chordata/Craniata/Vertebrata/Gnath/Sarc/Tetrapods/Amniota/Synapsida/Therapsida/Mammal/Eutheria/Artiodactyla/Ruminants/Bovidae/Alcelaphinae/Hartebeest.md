@@ -1,10 +1,10 @@
 ---
 aliases:
-- "Alcelaphus buselaphus"
-- kongoni
-- kaama
-- Hartebeest
-title: "Alcelaphus buselaphus"
+  - Alcelaphus buselaphus
+  - kongoni
+  - kaama
+  - Hartebeest
+title: Alcelaphus buselaphus
 ---
 
 # Alcelaphus buselaphus 

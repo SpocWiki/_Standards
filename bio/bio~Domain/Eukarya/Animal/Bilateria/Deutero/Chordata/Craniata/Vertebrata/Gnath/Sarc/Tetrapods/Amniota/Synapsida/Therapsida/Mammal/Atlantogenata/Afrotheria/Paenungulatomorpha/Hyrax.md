@@ -7,21 +7,22 @@ aliases:
   - dassies
   - dassie
   - Procaviidae
+  - Hyrax
 has_id_wikidata: Q2388549
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Procaviidae,14463362]]"
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
+  - '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Procaviidae,14463362]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ein%20klippschliefer.jpg
-ITIS_TSN: "584893"
+ITIS_TSN: 584893
 EPPO_Code: 1PROAF
 Commons_gallery: Procaviidae
 Commons_category: Procaviidae
 taxon_name: Procaviidae
-parent_taxon: "[[../Paenungulatomorpha]]"
+parent_taxon: '[[../Paenungulatomorpha]]'
 ---
 
 # [[Hyrax]] 

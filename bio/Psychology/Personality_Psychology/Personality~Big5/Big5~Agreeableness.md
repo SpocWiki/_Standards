@@ -1,31 +1,32 @@
 ---
 aliases:
-- Verträglichkeit
-- amicability
-- agreeableness
+  - Verträglichkeit
+  - amicability
+  - agreeableness
+  - Big5~Agreeableness
 confidential: private
 cssclasses:
-- private
-- note
+  - private
+  - note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: 
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 has_time_started: 2025-06-29
 isDeleted: false
 isReadOnly: false
 keywords: Verträglichkeit
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Verträglichkeit
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Verträglichkeit
-- excalidraw
+  - Verträglichkeit
+  - excalidraw
 title: Verträglichkeit
 type: private_note
 ---

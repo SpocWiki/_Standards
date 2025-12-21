@@ -1,10 +1,11 @@
 ---
 aliases:
   - Solanaceae
+  - Solaneae
 has_id_wikidata: Q3489128
-taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
-parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Solanoideae,2560968]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
+parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Solanoideae,2560968]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Starr%20020323-0062%20Solanum%20seaforthianum.jpg
 Commons_category: Solaneae
 taxon_name: Solaneae

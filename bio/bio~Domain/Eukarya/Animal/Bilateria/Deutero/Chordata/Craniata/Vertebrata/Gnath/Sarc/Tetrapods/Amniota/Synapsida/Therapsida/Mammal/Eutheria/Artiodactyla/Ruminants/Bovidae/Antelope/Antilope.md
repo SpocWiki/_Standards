@@ -1,5 +1,7 @@
 ---
-title: "Antilope cervicapra"
+aliases:
+  - Antilope
+title: Antilope cervicapra
 ---
 
 # [[Antilope]]

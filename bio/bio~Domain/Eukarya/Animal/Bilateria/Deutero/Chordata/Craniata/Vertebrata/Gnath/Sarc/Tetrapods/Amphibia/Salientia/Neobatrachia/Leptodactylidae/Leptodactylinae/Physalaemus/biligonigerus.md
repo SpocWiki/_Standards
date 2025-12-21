@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus biligonigerus"
+aliases:
+  - biligonigerus
+title: Physalaemus biligonigerus
 ---
 
 ## Phylogeny 

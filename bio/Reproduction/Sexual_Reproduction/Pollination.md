@@ -4,19 +4,19 @@ aliases:
   - Bestäubung
 has_id_wikidata: Q134624
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~biological_process,2996394]]"
-  - "[[_Standards/WikiData/WD~science,336]]"
-different_from: "[[_Standards/WikiData/WD~Q3242742,3242742]]"
-subclass_of: "[[_Standards/WikiData/WD~reproductive_process,14885910]]"
-part_of: "[[_Standards/WikiData/WD~multi_multicellular_organism_process,22294339]]"
+  - '[[_Standards/WikiData/WD~biological_process,2996394]]'
+  - '[[_Standards/WikiData/WD~science,336]]'
+different_from: '[[_Standards/WikiData/WD~Q3242742,3242742]]'
+subclass_of: '[[_Standards/WikiData/WD~reproductive_process,14885910]]'
+part_of: '[[_Standards/WikiData/WD~multi_multicellular_organism_process,22294339]]'
 Wikidata_property: is pollinated by
-OmegaWiki_Defined_Meaning: "1405150"
+OmegaWiki_Defined_Meaning: 1405150
 Commons_gallery: Pollination
 Commons_category: Pollination
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bee%20pollinating%20a%20rose.jpg
@@ -25,8 +25,8 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Pollination%20Diag
 exact_match: http://purl.obolibrary.org/obo/GO_0009856
 Iconclass_notation: 47I1341
 Dewey_Decimal_Classification:
-  - "571.8642"
-  - "576.875"
+  - 571.8642
+  - 576.875
 UMLS_CUI: C1522786
 MeSH_tree_code:
   - G08.686.784.743

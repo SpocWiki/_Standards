@@ -1,6 +1,6 @@
 ---
 aliases:
-- Crossosomatales
+  - Crossosomatales
 title: Crossosomatales
 ---
 

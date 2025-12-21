@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ceramiales
 title: Ceramiales
 ---
 

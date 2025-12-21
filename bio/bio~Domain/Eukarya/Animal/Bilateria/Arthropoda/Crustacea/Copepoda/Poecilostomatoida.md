@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Poecilostomatoida
 title: Poecilostomatoida
 ---
 

@@ -6,6 +6,24 @@ aliases:
   - aubergine
   - brinjal
   - baigan
+  - 茄
+  - 茄子
+  - eggplant
+  - jajčevec
+  - berenxenera
+  - lilek vejcoplodý
+  - patamunakoiso
+  - 茄（白茄、大圆茄）
+  - 茄叶
+  - 茄子根
+  - 茄根
+  - 茄花
+  - 茄蒂
+  - 吊菜子
+  - 白茄
+  - 矮瓜
+  - 紫茄
+  - 落苏
 has_id_wikidata: Q7540
 subclass_of:
   - "[[_Standards/WikiData/WD~perennial_plant,157957]]"
@@ -39,12 +57,12 @@ taxon_range:
 taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
 has_fruit_type: "[[_Standards/WikiData/WD~berry,13184]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-USDA_NDB_number: "11209"
+USDA_NDB_number: 11209
 PLU_code:
-  - "4600"
-  - "4602"
-ITIS_TSN: "30446"
-OmegaWiki_Defined_Meaning: "507273"
+  - 4600
+  - 4602
+ITIS_TSN: 30446
+OmegaWiki_Defined_Meaning: 507273
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Solanum%20melongena%2024%2008%202012%20%281%29.JPG
   - http://commons.wikimedia.org/wiki/Special:FilePath/Des%20aubergines%20violettes.jpg
@@ -85,7 +103,7 @@ Unicode_character: 🍆
 described_at_URL: http://nadeaud.ilm.pf/liste-bibliotaxons?page=634
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=101312
 UNII: 5DS5EE0N93
-Amazon_com_browse_node: "724702011"
+Amazon_com_browse_node: 724702011
 MeSH_tree_code: B01.875.800.575.912.250.908.500.725.666
 UMLS_CUI: C1123002
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/BAKLAZHAN.html
@@ -95,7 +113,7 @@ short_name: S. melongena
 external_data_available_at_URL: https://www.gbif.org/dataset/93725bf2-6ada-47f9-bd5e-0e679e3d245e
 ---
 
-# [[Eggplant]] 
+# [[Eggplant]] 🍆 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Solanum_melongena,7540|WD~Solanum_melongena,7540]]  
 

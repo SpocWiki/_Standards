@@ -4,20 +4,22 @@ aliases:
   - blood_test
   - BloodTest
   - is_a_blood_test
+  - Blood_Test
+  - Blood Test
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - blood_test
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_blood_test Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

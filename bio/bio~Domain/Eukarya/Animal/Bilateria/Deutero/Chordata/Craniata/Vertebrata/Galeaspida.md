@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Galeaspida
 title: Galeaspida
 ---
 

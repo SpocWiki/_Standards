@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ostracoda
 title: Ostracoda
 ---
 

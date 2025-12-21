@@ -3,6 +3,33 @@ aliases:
   - Hydrochoerus
   - Hydrochoerus hydrochaeris
   - Capybara
+  - Großes Wasserschwein
+  - Capibara
+  - Greater Capybara
+  - kapibaro
+  - chiguire
+  - chiguiro
+  - Kapybara
+  - vesisika
+  - קפיבארה
+  - Kapibara
+  - カピバラ
+  - 카피 바라
+  - капибара
+  - kapibara wielka
+  - Porc de apă
+  - Капибара
+  - kapibara
+  - kapybara
+  - vattensvin
+  - 水豚
+  - Wasserschwein
+  - carpincho
+  - capybara
+  - capivara
+  - خنزير الماء
+  - capibara
+  - Kapivar
 has_id_wikidata: Q131538
 taxon_common_name:
   - Capybara
@@ -46,39 +73,39 @@ taxon_common_name:
   - Capibara
 nickname: masbro
 short_name: H. hydrochaeris
-has_characteristic: "[[_Standards/WikiData/WD~viviparity,120446]]"
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
+has_characteristic: '[[_Standards/WikiData/WD~viviparity,120446]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-diel_cycle: "[[_Standards/WikiData/WD~crepuscular,3255068]]"
-original_combination: "[[_Standards/WikiData/WD~Sus_hydrochaeris,28545647]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+  - '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+diel_cycle: '[[_Standards/WikiData/WD~crepuscular,3255068]]'
+original_combination: '[[_Standards/WikiData/WD~Sus_hydrochaeris,28545647]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 taxon_range:
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~Venezuela,717]]"
-  - "[[_Standards/WikiData/WD~Paraguay,733]]"
-  - "[[_Standards/WikiData/WD~Colombia,739]]"
-  - "[[_Standards/WikiData/WD~Ecuador,736]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-  - "[[_Standards/WikiData/WD~Panama,804]]"
-  - "[[_Standards/WikiData/WD~Uruguay,77]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-  - "[[_Standards/WikiData/WD~Manicoré,43490]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[_Standards/WikiData/WD~Argentina,414]]'
+  - '[[_Standards/WikiData/WD~Peru,419]]'
+  - '[[_Standards/WikiData/WD~Venezuela,717]]'
+  - '[[_Standards/WikiData/WD~Paraguay,733]]'
+  - '[[_Standards/WikiData/WD~Colombia,739]]'
+  - '[[_Standards/WikiData/WD~Ecuador,736]]'
+  - '[[_Standards/WikiData/WD~Bolivia,750]]'
+  - '[[_Standards/WikiData/WD~Panama,804]]'
+  - '[[_Standards/WikiData/WD~Uruguay,77]]'
+  - '[[_Standards/WikiData/WD~Brazil,155]]'
+  - '[[_Standards/WikiData/WD~Manicoré,43490]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 litter_size: 4
 gestation_period: 150
 mass:
   - 1.5
   - 48.9
 longest_observed_lifespan: 15.1
-ITIS_TSN: "825303"
+ITIS_TSN: 825303
 taxon_name: Hydrochoerus hydrochaeris
 Commons_gallery: Hydrochoeris hydrochaeris
 Commons_category: Hydrochoeris hydrochaeris

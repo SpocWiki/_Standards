@@ -2,6 +2,25 @@
 aliases:
   - cucumber
   - Cucumis sativus
+  - Cucumber
+  - pepinu
+  - Cogombre
+  - okurka setá
+  - cucumer
+  - garden cucumber
+  - vihanneskurkku
+  - キュウリ
+  - Komkommer
+  - kumara
+  - 黃瓜
+  - 胡瓜
+  - 黄瓜
+  - 黄瓜叶
+  - 黄瓜子
+  - 黄瓜根
+  - 黄瓜皮
+  - 黄瓜藤
+  - 黄瓜霜
 has_id_wikidata: Q23425
 UNII: 50560UL2YV
 MeSH_tree_code: B01.875.800.575.912.250.300.188.666
@@ -77,7 +96,7 @@ taxon_range:
   - "[[_Standards/WikiData/WD~Fujian,41705]]"
 taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-ITIS_TSN: "22364"
+ITIS_TSN: 22364
 Commons_gallery: Cucumis sativus
 Commons_category: Cucumis sativus
 taxon_name: Cucumis sativus
@@ -95,7 +114,7 @@ sequenced_genome_URL: https://plants.ensembl.org/Cucumis_sativus
 Common_Procurement_Vocabulary_code: 03221270-9
 ---
 
-# [[Cucumber]] 
+# [[Cucumber]] 🥒 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Cucumis_sativus,23425|WD~Cucumis_sativus,23425]] 
 

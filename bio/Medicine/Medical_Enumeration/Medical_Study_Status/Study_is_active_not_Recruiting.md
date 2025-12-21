@@ -4,21 +4,23 @@ aliases:
   - active_not_recruiting
   - ActiveNotRecruiting
   - is_an_active_not_recruiting
+  - Study_is_active_not_Recruiting
+  - Study is active not Recruiting
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalStudyStatus
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - active_not_recruiting
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_active_not_recruiting Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

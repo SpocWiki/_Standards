@@ -1,5 +1,8 @@
 ---
-title: "Notobatrachus degiustoi"
+aliases:
+  - Notobatrachus_degiustoi
+  - Notobatrachus degiustoi
+title: Notobatrachus degiustoi
 ---
 
 # Notobatrachus degiustoi 

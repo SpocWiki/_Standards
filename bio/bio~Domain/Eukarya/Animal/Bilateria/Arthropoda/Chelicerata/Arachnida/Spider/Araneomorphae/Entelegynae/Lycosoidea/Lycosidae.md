@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Lycosidae
 title: Lycosidae
 ---
 

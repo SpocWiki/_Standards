@@ -1,4 +1,61 @@
 ---
+aliases:
+  - Potato
+  - бульба
+  - patata
+  - kartoffel
+  - kartul
+  - peruna
+  - pataca
+  - आलू
+  - ジャガイモ
+  - kartupelis
+  - компир
+  - ഉരുളക്കിഴങ്ങ്
+  - potet
+  - ziemniak
+  - batata
+  - cartof
+  - patates
+  - картопля
+  - بطاطس
+  - pataquera
+  - Erdo(ä)pfé
+  - Grumpirn
+  - Kartóffé
+  - картоф
+  - অালু
+  - lilek brambor
+  - taten
+  - Yevúte
+  - Russian Potato
+  - Eerdaapel
+  - Iartapel
+  - Irpel
+  - potato
+  - aardappel
+  - Kartoffel
+  - patate
+  - pomme de terre
+  - 土豆
+  - papa
+  - 馬鈴薯
+  - 马铃薯
+  - Бәрәңге
+  - potatis
+  - Erdapfel
+  - Baloca
+  - batatinha
+  - krompir
+  - кромпир
+  - 阳芋
+  - 阳芋（马铃薯）
+  - 地蛋
+  - 山药蛋
+  - 山药豆
+  - 洋芋
+  - 荷兰薯
+has_id_wikidata: Q10998
 award_received:
   - "[[_Standards/WikiData/WD~Vegetable_of_the_year,1344055]]"
   - "[[_Standards/WikiData/WD~Poisonous_Plant_of_the_Year,1523589]]"
@@ -33,7 +90,6 @@ GenBank_assembly_accession_number:
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=103137
 hardiness_of_plant: "[[_Standards/WikiData/WD~2,99546131]]"
 has_fruit_type: "[[_Standards/WikiData/WD~berry,13184]]"
-has_id_wikidata: Q10998
 has_part_s_of_the_class:
   - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
 has_use:
@@ -144,7 +200,7 @@ UNII: 2A8I57T4MX
 parent_taxon: "[[../../../../../../../../../../../../../../WikiData/WD~Solanum,146555]]"
 ---
 
-# [[Potato]] 
+# [[Potato]] 🥔 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Potato,10998|WD~Potato,10998]] 
 

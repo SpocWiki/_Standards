@@ -1,5 +1,7 @@
 ---
-title: "subgenus Strobus"
+aliases:
+  - Strobus
+title: subgenus Strobus
 ---
 
 # [[Strobus(subgenus)]] 

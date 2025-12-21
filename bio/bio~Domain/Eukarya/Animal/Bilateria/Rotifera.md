@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Rotifera
 title: Rotifera
 ---
 

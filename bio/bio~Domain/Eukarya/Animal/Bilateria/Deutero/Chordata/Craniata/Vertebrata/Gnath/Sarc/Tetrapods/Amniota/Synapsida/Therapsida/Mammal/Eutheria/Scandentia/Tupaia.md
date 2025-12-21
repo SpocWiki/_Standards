@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Tupaia
 title: Tupaia
 ---
 

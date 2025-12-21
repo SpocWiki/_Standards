@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sanchezia
 title: Sanchezia
 ---
 

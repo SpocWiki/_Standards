@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Caprinae
 title: Caprinae
 ---
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Brachypauropodidae
 title: Brachypauropodidae
 ---
 

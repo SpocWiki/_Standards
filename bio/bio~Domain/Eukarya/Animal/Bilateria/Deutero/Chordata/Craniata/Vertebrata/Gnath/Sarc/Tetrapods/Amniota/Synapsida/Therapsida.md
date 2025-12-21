@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Therapsida
 title: Therapsida
 ---
 

@@ -1,7 +1,7 @@
 ---
 aliases:
-- snakeherb
-- Dyschoriste
+  - snakeherb
+  - Dyschoriste
 title: Dyschoriste
 ---
 

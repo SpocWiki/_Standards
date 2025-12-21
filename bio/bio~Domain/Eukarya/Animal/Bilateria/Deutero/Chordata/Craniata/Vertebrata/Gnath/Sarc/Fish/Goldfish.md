@@ -2,6 +2,66 @@
 aliases:
   - Goldfish
   - Goldfisch
+  - Goudvis
+  - سمك ذهبي
+  - carpín doráu
+  - Qızılı balıqcıq
+  - Шлаер
+  - Pesk-aour
+  - Zlatna ribica
+  - Carpí daurat
+  - carpí vermell
+  - Hohtâhé-noma'he
+  - karas stříbřitý
+  - Pysgodyn aur
+  - Χρυσόψαρο
+  - Carassin
+  - Orfiŝo
+  - Carpa dorada
+  - Carpín dorado
+  - Kuldkala
+  - Urre-arrain
+  - ماهی قرمز
+  - kultakala
+  - Iasc órga
+  - Òr-iasg
+  - ગોલ્ડફિશ
+  - דג זהב
+  - सुनहरी मछली (गोल्डफिश)
+  - Aranyhal
+  - Gullfiskur
+  - キンギョ
+  - ოქროს თევზი
+  - ಗೋಲ್ಡ್ ಫಿಷ್ (ಹೊಮ್ಮೀನು)
+  - 금붕어
+  - Auksinė žuvelė
+  - Zelta zivtiņa
+  - златна рипка
+  - സ്വർണ്ണമത്സ്യം
+  - Ikan Mas
+  - Kim-hî
+  - Rouche-pichon
+  - karaś złocisty
+  - Pess ross
+  - Caras auriu
+  - Karas striebristý
+  - Златни караш
+  - Guldfisk
+  - గోల్డ్ ఫిష్
+  - Моҳии заррин
+  - ปลาเงินปลาทอง
+  - ปลาทอง
+  - Japon balığı
+  - Карась китайський
+  - Cá vàng
+  - גאלדפיש
+  - 金鱼
+  - 鲫鱼
+  - guldfisk
+  - Золотая рыбка
+  - Poisson rouge
+  - Gold carp
+  - Gullfisk
 has_id_wikidata: Q123141
 MeSH_tree_code: B01.050.150.900.493.200.244.248.480
 UMLS_CUI: C0018038
@@ -77,35 +137,35 @@ taxon_common_name:
   - Poisson rouge
   - Gold carp
   - Gullfisk
-uses: "[[_Standards/WikiData/WD~pheromone,167377]]"
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
-parent_taxon: "[[_Standards/WikiData/WD~Carassius,237800]]"
+uses: '[[_Standards/WikiData/WD~pheromone,167377]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
+parent_taxon: '[[_Standards/WikiData/WD~Carassius,237800]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~aquarium_fish,1448518]]"
-different_from: "[[_Standards/WikiData/WD~Carassius_auratus_auratus,13586001]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-Status_in_the_Red_List_of_Threatened_Species_in_the_Czech_Republic: "[[_Standards/WikiData/WD~not_applicable,56660253]]"
-award_received: "[[_Standards/WikiData/WD~Alien_of_the_Year,59874768]]"
+  - '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~aquarium_fish,1448518]]'
+different_from: '[[_Standards/WikiData/WD~Carassius_auratus_auratus,13586001]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+Status_in_the_Red_List_of_Threatened_Species_in_the_Czech_Republic: '[[_Standards/WikiData/WD~not_applicable,56660253]]'
+award_received: '[[_Standards/WikiData/WD~Alien_of_the_Year,59874768]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~pet_fish,74744464]]"
-  - "[[_Standards/WikiData/WD~pet,39201]]"
-NZTCS_conservation_status: "[[_Standards/WikiData/WD~introduced_and_naturalised,108448612]]"
-invasive_to: "[[_Standards/WikiData/WD~Australia,408]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[_Standards/WikiData/WD~pet_fish,74744464]]'
+  - '[[_Standards/WikiData/WD~pet,39201]]'
+NZTCS_conservation_status: '[[_Standards/WikiData/WD~introduced_and_naturalised,108448612]]'
+invasive_to: '[[_Standards/WikiData/WD~Australia,408]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_range:
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
+  - '[[_Standards/WikiData/WD~Brazil,155]]'
 minimum_frequency_of_audible_sound: 20
 maximum_frequency_of_audible_sound: 3000
-ITIS_TSN: "163350"
+ITIS_TSN: 163350
 subreddit: Goldfish
-U_S_National_Archives_Identifier: "10645316"
+U_S_National_Archives_Identifier: 10645316
 Commons_gallery: Carassius auratus
 Commons_category: Carassius auratus
 taxon_name: Carassius auratus

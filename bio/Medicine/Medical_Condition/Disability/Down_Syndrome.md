@@ -5,32 +5,34 @@ aliases:
   - trisomy 21
   - Down Syndrom
   - Trisomie 21
+  - Down_Syndrome
+  - Down Syndrome
 has_id_wikidata: Q47715
 health_specialty:
-  - "[[_Standards/WikiData/WD~neurology,83042]]"
-  - "[[_Standards/WikiData/WD~medical_genetics,1071953]]"
-named_after: "[[_Standards/WikiData/WD~John_Langdon_Down,315940]]"
-genetic_association: "[[_Standards/WikiData/WD~human_chromosome_21,753218]]"
-chromosome: "[[_Standards/WikiData/WD~human_chromosome_21,753218]]"
-has_cause: "[[_Standards/WikiData/WD~trisomy,844903]]"
+  - '[[_Standards/WikiData/WD~neurology,83042]]'
+  - '[[_Standards/WikiData/WD~medical_genetics,1071953]]'
+named_after: '[[_Standards/WikiData/WD~John_Langdon_Down,315940]]'
+genetic_association: '[[_Standards/WikiData/WD~human_chromosome_21,753218]]'
+chromosome: '[[_Standards/WikiData/WD~human_chromosome_21,753218]]'
+has_cause: '[[_Standards/WikiData/WD~trisomy,844903]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~trisomy,844903]]"
-  - "[[_Standards/WikiData/WD~chromosomal_disease,4501577]]"
-  - "[[_Standards/WikiData/WD~total_autosomal_trisomy,55789082]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Mongolian_idiocy,21469259]]"
+  - '[[_Standards/WikiData/WD~trisomy,844903]]'
+  - '[[_Standards/WikiData/WD~chromosomal_disease,4501577]]'
+  - '[[_Standards/WikiData/WD~total_autosomal_trisomy,55789082]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Mongolian_idiocy,21469259]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-  - "[[_Standards/WikiData/WD~disability,12131]]"
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+  - '[[_Standards/WikiData/WD~disability,12131]]'
 prevalence: 0.001
 chromosome_count: 47
-DiseasesDB: "3898"
+DiseasesDB: 3898
 ICD_10_CM:
   - Q90
   - Q90.9
-OmegaWiki_Defined_Meaning: "742641"
-ICD_9_CM: "758.0"
+OmegaWiki_Defined_Meaning: 742641
+ICD_9_CM: 758.0
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Boy%20with%20Down%20Syndrome.JPG
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%A1%E0%AC%BE%E0%AC%89%E0%AC%A8%20%E0%AC%B8%E0%AC%BF%E0%AC%A3%E0%AD%8D%E0%AC%A1%E0%AD%8D%E0%AC%B0%E0%AD%8B%E0%AC%AE.wav
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/down_syndrome
@@ -38,8 +40,8 @@ exact_match:
   - http://identifiers.org/doid/DOID:14250
   - http://purl.obolibrary.org/obo/DOID_14250
 Dewey_Decimal_Classification:
-  - "616.858842"
-  - "618.92858842"
+  - 616.858842
+  - 618.92858842
 UMLS_CUI: C0013080
 MeSH_tree_code:
   - C10.597.606.360.220

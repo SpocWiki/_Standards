@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Aquifoliales
 title: Aquifoliales
 ---
 

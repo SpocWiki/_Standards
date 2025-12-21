@@ -1,6 +1,16 @@
 ---
 aliases:
   - Formicidae
+  - Ant
+  - النَمْلِيّات
+  - مور
+  - مورنیک
+  - '*āmaitijā'
+  - '*miurijā'
+  - mravlje
+  - муравьи
+  - ants
+  - maur
 has_id_wikidata: Q7386
 Krugosvet_article: nauka_i_tehnika/biologiya/MURAVI.html
 NBN_System_Key: NBNSYS0000037030
@@ -9,32 +19,32 @@ taxon_common_name:
   - النَمْلِيّات
   - مور
   - مورنیک
-  - "*āmaitijā"
-  - "*miurijā"
+  - '*āmaitijā'
+  - '*miurijā'
   - mravlje
   - муравьи
   - ants
   - maur
-named_after: "[[_Standards/WikiData/WD~cutting,196751]]"
-studied_by: "[[_Standards/WikiData/WD~myrmecology,499578]]"
+named_after: '[[_Standards/WikiData/WD~cutting,196751]]'
+studied_by: '[[_Standards/WikiData/WD~myrmecology,499578]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica,455]]"
-parent_taxon: "[[_Standards/WikiData/WD~Formicoidea,4038925]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_ants,7112553]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-OmegaWiki_Defined_Meaning: "160271"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica,455]]'
+parent_taxon: '[[_Standards/WikiData/WD~Formicoidea,4038925]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_ants,7112553]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+OmegaWiki_Defined_Meaning: 160271
 subreddit: ant
-ITIS_TSN: "154193"
+ITIS_TSN: 154193
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Camponotus%20vagus.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Meat%20eater%20ant%20feeding%20on%20honey02.jpg
@@ -53,7 +63,7 @@ pronunciation_audio:
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Ant%20%28intro%29.ogg
 exact_match: http://wordnet-rdf.princeton.edu/wn30/02219486-n
 EPPO_Code: 1FORMF
-Dewey_Decimal_Classification: "595.796"
+Dewey_Decimal_Classification: 595.796
 MeSH_tree_code: B01.050.500.131.617.720.500.500.875.205
 UMLS_CUI: C0003455
 ---

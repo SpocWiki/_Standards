@@ -1,31 +1,33 @@
 ---
-anatomical_location: "[[_Standards/WikiData/WD~peripheral_nervous_system,169953]]"
+aliases:
+  - Poliomyelitis
+has_id_wikidata: Q12195
+anatomical_location: '[[_Standards/WikiData/WD~peripheral_nervous_system,169953]]'
 Commons_category: Polio
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 Dewey_Decimal_Classification:
   - 614.549
   - 616.835
   - 618.92835
 DiseasesDB: 10209
 disease_transmission_process:
-  - "[[_Standards/WikiData/WD~fecal_oral_route,2272069]]"
-  - "[[_Standards/WikiData/WD~contact_transmission,15304512]]"
+  - '[[_Standards/WikiData/WD~fecal_oral_route,2272069]]'
+  - '[[_Standards/WikiData/WD~contact_transmission,15304512]]'
 exact_match:
   - http://identifiers.org/doid/DOID:4953
   - http://purl.obolibrary.org/obo/DOID_4953
   - http://www.orpha.net/ORDO/Orphanet_2912
 hashtag: polio
-has_cause: "[[_Standards/WikiData/WD~poliovirus,12438936]]"
-has_id_wikidata: Q12195
-has_natural_reservoir: "[[_Standards/WikiData/WD~human,5]]"
+has_cause: '[[_Standards/WikiData/WD~poliovirus,12438936]]'
+has_natural_reservoir: '[[_Standards/WikiData/WD~human,5]]'
 health_specialty:
-  - "[[_Standards/WikiData/WD~neurology,83042]]"
-  - "[[_Standards/WikiData/WD~orthopedics,216685]]"
-  - "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+  - '[[_Standards/WikiData/WD~neurology,83042]]'
+  - '[[_Standards/WikiData/WD~orthopedics,216685]]'
+  - '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 ICD_10_CM:
   - A80.0
   - A80.1
@@ -41,15 +43,15 @@ ICD_9_CM:
   - 45.9
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Polio%20sequelle.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-  - "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
+  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+  - '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
 Krugosvet_article: medicina/POLIOMIELIT.html
 maximal_incubation_period_in_humans: 35
 medical_examination:
-  - "[[_Standards/WikiData/WD~physical_examination,835153]]"
-  - "[[_Standards/WikiData/WD~viral_culture,7933598]]"
-  - "[[_Standards/WikiData/WD~serological_test,25438941]]"
+  - '[[_Standards/WikiData/WD~physical_examination,835153]]'
+  - '[[_Standards/WikiData/WD~viral_culture,7933598]]'
+  - '[[_Standards/WikiData/WD~serological_test,25438941]]'
 MeSH_tree_code:
   - C01.207.618.750
   - C01.925.782.687.359.764
@@ -59,33 +61,33 @@ MeSH_tree_code:
   - C10.586.750.850
 minimal_incubation_period_in_humans: 5
 named_after:
-  - "[[_Standards/WikiData/WD~Jakob_Heine,70238]]"
-  - "[[_Standards/WikiData/WD~Karl_Oskar_Medin,524574]]"
+  - '[[_Standards/WikiData/WD~Jakob_Heine,70238]]'
+  - '[[_Standards/WikiData/WD~Karl_Oskar_Medin,524574]]'
 OmegaWiki_Defined_Meaning: 7856
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 possible_treatment:
-  - "[[_Standards/WikiData/WD~massage,179415]]"
-  - "[[_Standards/WikiData/WD~anti-inflammatory_agent,581996]]"
-  - "[[_Standards/WikiData/WD~symptomatic_treatment,621558]]"
-  - "[[_Standards/WikiData/WD~orthopedic_surgery,15218776]]"
-  - "[[_Standards/WikiData/WD~physiotherapy,16643870]]"
-  - "[[_Standards/WikiData/WD~hypnotic,62962]]"
+  - '[[_Standards/WikiData/WD~massage,179415]]'
+  - '[[_Standards/WikiData/WD~anti-inflammatory_agent,581996]]'
+  - '[[_Standards/WikiData/WD~symptomatic_treatment,621558]]'
+  - '[[_Standards/WikiData/WD~orthopedic_surgery,15218776]]'
+  - '[[_Standards/WikiData/WD~physiotherapy,16643870]]'
+  - '[[_Standards/WikiData/WD~hypnotic,62962]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~peripheral_neuropathy,945238]]"
-  - "[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]"
-  - "[[_Standards/WikiData/WD~central_nervous_system_viral_disease,5062121]]"
-  - "[[_Standards/WikiData/WD~Enterovirus_infectious_disease,19000403]]"
-  - "[[_Standards/WikiData/WD~acquired_motor_neuron_disease,55789139]]"
-  - "[[_Standards/WikiData/WD~pandemic_and_epidemic-prone_diseases,131345497]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
+  - '[[_Standards/WikiData/WD~peripheral_neuropathy,945238]]'
+  - '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
+  - '[[_Standards/WikiData/WD~central_nervous_system_viral_disease,5062121]]'
+  - '[[_Standards/WikiData/WD~Enterovirus_infectious_disease,19000403]]'
+  - '[[_Standards/WikiData/WD~acquired_motor_neuron_disease,55789139]]'
+  - '[[_Standards/WikiData/WD~pandemic_and_epidemic-prone_diseases,131345497]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~paralysis,107231]]"
-  - "[[_Standards/WikiData/WD~vomiting,127076]]"
-  - "[[_Standards/WikiData/WD~muscle_weakness,270421]]"
-  - "[[_Standards/WikiData/WD~paresis,1126769]]"
-  - "[[_Standards/WikiData/WD~meningism_signs,12122651]]"
-  - "[[_Standards/WikiData/WD~fever,38933]]"
-  - "[[_Standards/WikiData/WD~diarrhea,40878]]"
+  - '[[_Standards/WikiData/WD~paralysis,107231]]'
+  - '[[_Standards/WikiData/WD~vomiting,127076]]'
+  - '[[_Standards/WikiData/WD~muscle_weakness,270421]]'
+  - '[[_Standards/WikiData/WD~paresis,1126769]]'
+  - '[[_Standards/WikiData/WD~meningism_signs,12122651]]'
+  - '[[_Standards/WikiData/WD~fever,38933]]'
+  - '[[_Standards/WikiData/WD~diarrhea,40878]]'
 UMLS_CUI: C0032371
 U_S_National_Archives_Identifier: 10644486
 ---

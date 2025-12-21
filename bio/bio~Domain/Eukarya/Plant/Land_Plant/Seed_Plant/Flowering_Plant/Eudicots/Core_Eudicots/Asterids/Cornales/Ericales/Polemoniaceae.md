@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Polemoniaceae
 title: Polemoniaceae
 ---
 

@@ -5,41 +5,42 @@ aliases:
   - sewage system
   - sewerage system
   - sewer system
+  - Sewer Network
 has_id_wikidata: Q156849
 subclass_of:
-  - "[[_Standards/WikiData/WD~infrastructure,121359]]"
-  - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
-  - "[[_Standards/WikiData/WD~sociotechnical_system,1639361]]"
-  - "[[_Standards/WikiData/WD~engineered_physical_system,120926552]]"
+  - '[[_Standards/WikiData/WD~infrastructure,121359]]'
+  - '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+  - '[[_Standards/WikiData/WD~sociotechnical_system,1639361]]'
+  - '[[_Standards/WikiData/WD~engineered_physical_system,120926552]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~sewerage_pumping_station,336164]]"
-  - "[[_Standards/WikiData/WD~sewer_line,336169]]"
-  - "[[_Standards/WikiData/WD~outfall,2533913]]"
-  - "[[_Standards/WikiData/WD~wastewater_treatment_plant,15242449]]"
+  - '[[_Standards/WikiData/WD~sewerage_pumping_station,336164]]'
+  - '[[_Standards/WikiData/WD~sewer_line,336169]]'
+  - '[[_Standards/WikiData/WD~outfall,2533913]]'
+  - '[[_Standards/WikiData/WD~wastewater_treatment_plant,15242449]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~wastewater_technology,336170]]"
-  - "[[_Standards/WikiData/WD~water_supply_and_sanitation,121135097]]"
+  - '[[_Standards/WikiData/WD~wastewater_technology,336170]]'
+  - '[[_Standards/WikiData/WD~water_supply_and_sanitation,121135097]]'
 different_from:
-  - "[[_Standards/WikiData/WD~combined_sewer_network,361472]]"
-  - "[[_Standards/WikiData/WD~stormwater_network,1139766]]"
-  - "[[_Standards/WikiData/WD~inverted_siphon,1425971]]"
-  - "[[_Standards/WikiData/WD~sanitary_sewer_network,1805497]]"
-  - "[[_Standards/WikiData/WD~tail_race,122332853]]"
+  - '[[_Standards/WikiData/WD~combined_sewer_network,361472]]'
+  - '[[_Standards/WikiData/WD~stormwater_network,1139766]]'
+  - '[[_Standards/WikiData/WD~inverted_siphon,1425971]]'
+  - '[[_Standards/WikiData/WD~sanitary_sewer_network,1805497]]'
+  - '[[_Standards/WikiData/WD~tail_race,122332853]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 has_use:
-  - "[[_Standards/WikiData/WD~sanitation,949149]]"
-  - "[[_Standards/WikiData/WD~sewerage,21040870]]"
-  - "[[_Standards/WikiData/WD~water_supply_and_sanitation,121135097]]"
-uses: "[[_Standards/WikiData/WD~water_treatment,1058719]]"
-contains: "[[_Standards/WikiData/WD~sewer_gas,2863977]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q12548099,12548099]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q32104500,32104500]]"
-OmegaWiki_Defined_Meaning: "4497"
+  - '[[_Standards/WikiData/WD~sanitation,949149]]'
+  - '[[_Standards/WikiData/WD~sewerage,21040870]]'
+  - '[[_Standards/WikiData/WD~water_supply_and_sanitation,121135097]]'
+uses: '[[_Standards/WikiData/WD~water_treatment,1058719]]'
+contains: '[[_Standards/WikiData/WD~sewer_gas,2863977]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12548099,12548099]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32104500,32104500]]'
+OmegaWiki_Defined_Meaning: 4497
 Commons_category: Sewerage
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bazellgette%20Sewer%20Network%20EN.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Riool-article.ogg

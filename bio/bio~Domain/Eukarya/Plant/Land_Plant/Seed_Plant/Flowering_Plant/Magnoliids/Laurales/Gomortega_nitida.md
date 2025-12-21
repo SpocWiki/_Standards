@@ -1,5 +1,8 @@
 ---
-title: "Gomortega nitida"
+aliases:
+  - Gomortega_nitida
+  - Gomortega nitida
+title: Gomortega nitida
 ---
 
 # [[Gomortega_nitida]] 

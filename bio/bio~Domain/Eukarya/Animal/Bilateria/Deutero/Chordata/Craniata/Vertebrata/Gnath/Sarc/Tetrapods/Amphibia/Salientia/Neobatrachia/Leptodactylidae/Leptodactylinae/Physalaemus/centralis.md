@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus centralis"
+aliases:
+  - centralis
+title: Physalaemus centralis
 ---
 
 ## Phylogeny 

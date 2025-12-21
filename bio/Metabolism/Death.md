@@ -2,6 +2,7 @@
 aliases:
   - Death
   - Tod
+has_id_wikidata: Q4
 Archive_of_Our_Own_tag: Death
 Colon_Classification: Q:361
 Commons_category: Death
@@ -45,7 +46,6 @@ has_characteristic:
   - "[[_Standards/WikiData/WD~cause_of_death,1931388]]"
   - "[[_Standards/WikiData/WD~manner_of_death,2438541]]"
 has_effect: "[[_Standards/WikiData/WD~dead,83978562]]"
-has_id_wikidata: Q4
 has_immediate_cause:
   - "[[_Standards/WikiData/WD~dying,267505]]"
   - "[[_Standards/WikiData/WD~clinical_death,1989450]]"
@@ -103,7 +103,7 @@ studied_by:
 topic_has_template: "[[_Standards/WikiData/WD~Template_Death,10728979]]"
 ---
 
-# [[Death]]
+# [[Death]] ☠ 
 
 #is_/same_as :: [[../../WikiData/WD~Death,4|WD~Death,4]] 
 

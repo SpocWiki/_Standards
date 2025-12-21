@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Opisthoteuthidae
 title: Opisthoteuthidae
 ---
 

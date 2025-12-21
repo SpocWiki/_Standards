@@ -1,21 +1,22 @@
 ---
 aliases:
   - Dschungel
+  - Jungle
 has_id_wikidata: Q191086
 subclass_of:
-  - "[[_Standards/WikiData/WD~region,82794]]"
-  - "[[_Standards/WikiData/WD~forest,4421]]"
+  - '[[_Standards/WikiData/WD~region,82794]]'
+  - '[[_Standards/WikiData/WD~forest,4421]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~vegetational_formation,2083910]]"
-  - "[[_Standards/WikiData/WD~ecosystem,37813]]"
-  - "[[_Standards/WikiData/WD~habitat,52105]]"
-different_from: "[[_Standards/WikiData/WD~Q27466065,27466065]]"
+  - '[[_Standards/WikiData/WD~vegetational_formation,2083910]]'
+  - '[[_Standards/WikiData/WD~ecosystem,37813]]'
+  - '[[_Standards/WikiData/WD~habitat,52105]]'
+different_from: '[[_Standards/WikiData/WD~Q27466065,27466065]]'
 Commons_category: Jungles
 IMDb_keyword: jungle
-OmegaWiki_Defined_Meaning: "701018"
+OmegaWiki_Defined_Meaning: 701018
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jungle.jpg
 ---
 

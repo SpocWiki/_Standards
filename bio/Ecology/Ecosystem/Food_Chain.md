@@ -1,29 +1,31 @@
 ---
 aliases:
   - Nahrungskette
+  - Food_Chain
+  - Food Chain
 has_id_wikidata: Q159462
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Al_Jahiz,293497]]"
-  - "[[_Standards/WikiData/WD~Charles_Sutherland_Elton,1066200]]"
+  - '[[_Standards/WikiData/WD~Al_Jahiz,293497]]'
+  - '[[_Standards/WikiData/WD~Charles_Sutherland_Elton,1066200]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~keystone_species,518808]]"
-  - "[[_Standards/WikiData/WD~trophic_level,1053008]]"
+  - '[[_Standards/WikiData/WD~keystone_species,518808]]'
+  - '[[_Standards/WikiData/WD~trophic_level,1053008]]'
 manifestation_of:
-  - "[[_Standards/WikiData/WD~biological_organisation,803888]]"
-  - "[[_Standards/WikiData/WD~biological_interaction,1823478]]"
+  - '[[_Standards/WikiData/WD~biological_organisation,803888]]'
+  - '[[_Standards/WikiData/WD~biological_interaction,1823478]]'
 part_of:
-  - "[[_Standards/WikiData/WD~food_web,1775153]]"
-  - "[[_Standards/WikiData/WD~ecosystem,37813]]"
-instance_of: "[[_Standards/WikiData/WD~biological_interaction,1823478]]"
+  - '[[_Standards/WikiData/WD~food_web,1775153]]'
+  - '[[_Standards/WikiData/WD~ecosystem,37813]]'
+instance_of: '[[_Standards/WikiData/WD~biological_interaction,1823478]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]"
-  - "[[_Standards/WikiData/WD~Q60852062,60852062]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]'
+  - '[[_Standards/WikiData/WD~Q60852062,60852062]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~biology,420]]"
-  - "[[_Standards/WikiData/WD~ecology,7150]]"
-  - "[[_Standards/WikiData/WD~economics,8134]]"
-OmegaWiki_Defined_Meaning: "1507"
+  - '[[_Standards/WikiData/WD~biology,420]]'
+  - '[[_Standards/WikiData/WD~ecology,7150]]'
+  - '[[_Standards/WikiData/WD~economics,8134]]'
+OmegaWiki_Defined_Meaning: 1507
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FoodWeb.svg
 Commons_category: Food chain
 MeSH_tree_code:

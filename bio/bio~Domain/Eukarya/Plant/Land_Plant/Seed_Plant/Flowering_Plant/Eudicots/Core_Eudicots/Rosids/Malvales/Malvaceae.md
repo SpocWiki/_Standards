@@ -1,6 +1,62 @@
 ---
 aliases:
   - mallows
+  - Malvaceae
+  - malvácees
+  - Əməköməcikimilər
+  - Мальвавыя
+  - Слезови
+  - মালভেসি
+  - Malvàcia
+  - slézovité
+  - Katost-familien
+  - Malvengewächse
+  - Μαλαχώδη
+  - Malvacoj
+  - malváceas
+  - Kassinaerilised
+  - Malvakasvit
+  - Sljezovke
+  - Šlězowe rostliny
+  - Mályvafélék
+  - մոլոշազգիներ
+  - տուղտազգիներ
+  - Փիփերթազգիներ
+  - Malvo
+  - ბალბისებრნი
+  - Құлқайыргүлділер тұқымдасы
+  - 아욱과
+  - Мальва котыр
+  - Famîleya tolikê
+  - Dedešviniai
+  - Malvu dzimta
+  - മാൽവേസീ
+  - Мальва йишвлӓ
+  - Kattostfamilien
+  - Kaasjeskruidachtigen
+  - Kaasjeskruidfamilie
+  - کپآ ٹبر
+  - Malwa yura rikch'aq ayllu
+  - Slezovke
+  - slezovité
+  - slezenovke
+  - Malvaväxter
+  - மால்வேசியே
+  - మాల్వేసి
+  - วงศ์ชบา
+  - Ebegümecigiller
+  - Gulxayridoshlar
+  - Họ Cẩm quỳ
+  - 锦葵科
+  - חלמיתיים
+  - پنیرکیان
+  - Tolık
+  - Ślazowate
+  - Мальвовые
+  - Mauves
+  - アオイ科
+  - Мальвові
+  - خبازية
 has_id_wikidata: Q156551
 taxon_common_name:
   - malvácees
@@ -63,20 +119,20 @@ taxon_common_name:
   - アオイ科
   - Мальвові
   - خبازية
-taxonomic_type: "[[_Standards/WikiData/WD~Malva,147325]]"
+taxonomic_type: '[[_Standards/WikiData/WD~Malva,147325]]'
 has_fruit_type:
-  - "[[_Standards/WikiData/WD~capsule,147768]]"
-  - "[[_Standards/WikiData/WD~berry,13184]]"
+  - '[[_Standards/WikiData/WD~capsule,147768]]'
+  - '[[_Standards/WikiData/WD~berry,13184]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(2),112869441]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Malvales,21908]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "21608"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(2),112869441]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Malvales,21908]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 21608
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/%28MHNT%29%20Malva%20parviflora%20-%20Habitus.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Malva%20sp%2012%20maig%202006%20015.jpg

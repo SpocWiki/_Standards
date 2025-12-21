@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus albonotatus"
+aliases:
+  - albonotatus
+title: Physalaemus albonotatus
 ---
 
 ## Phylogeny 

@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus fuscomaculatus"
+aliases:
+  - fuscomaculatus
+title: Physalaemus fuscomaculatus
 ---
 
 ## Phylogeny 

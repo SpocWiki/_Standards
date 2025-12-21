@@ -4,21 +4,23 @@ aliases:
   - single_center_trial
   - SingleCenterTrial
   - is_a_single_center_trial
+  - Single_Center_Trial
+  - Single Center Trial
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalTrialDesign
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - single_center_trial
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_single_center_trial Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sicariidae
 title: Sicariidae
 ---
 

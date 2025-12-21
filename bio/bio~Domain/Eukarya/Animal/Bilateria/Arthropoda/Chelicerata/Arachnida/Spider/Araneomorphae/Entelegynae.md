@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Entelegynae
 title: Entelegynae
 ---
 

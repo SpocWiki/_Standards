@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Chiroteuthidae
 title: Chiroteuthidae
 ---
 

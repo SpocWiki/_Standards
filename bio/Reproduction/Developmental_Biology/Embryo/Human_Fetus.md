@@ -4,18 +4,20 @@ aliases:
   - foetus
   - fetuses
   - foetuses
+  - Human_Fetus
+  - Human Fetus
 has_id_wikidata: Q26513
-described_by_source: "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-instance_of: "[[_Standards/WikiData/WD~phase_of_human_life,785260]]"
+described_by_source: '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+instance_of: '[[_Standards/WikiData/WD~phase_of_human_life,785260]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~fetus,17013437]]"
-  - "[[_Standards/WikiData/WD~unborn_child,63177820]]"
-  - "[[_Standards/WikiData/WD~fetal_structure,66560257]]"
-  - "[[_Standards/WikiData/WD~human,5]]"
-different_from: "[[_Standards/WikiData/WD~unborn_child,63177820]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~unborn_child,63177820]]"
-follows: "[[_Standards/WikiData/WD~human_embryo,63177917]]"
-has_part_s_: "[[_Standards/WikiData/WD~human_fetal_tissue,131599009]]"
+  - '[[_Standards/WikiData/WD~fetus,17013437]]'
+  - '[[_Standards/WikiData/WD~unborn_child,63177820]]'
+  - '[[_Standards/WikiData/WD~fetal_structure,66560257]]'
+  - '[[_Standards/WikiData/WD~human,5]]'
+different_from: '[[_Standards/WikiData/WD~unborn_child,63177820]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~unborn_child,63177820]]'
+follows: '[[_Standards/WikiData/WD~human_embryo,63177917]]'
+has_part_s_: '[[_Standards/WikiData/WD~human_fetal_tissue,131599009]]'
 Iconclass_notation: 42A121
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Human%20fetus%2010%20weeks%20with%20amniotic%20sac%20-%20therapeutic%20abortion.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8785%20%28hye%29-Emptyfear-%D5%8A%D5%BF%D5%B8%D6%82%D5%B2.wav

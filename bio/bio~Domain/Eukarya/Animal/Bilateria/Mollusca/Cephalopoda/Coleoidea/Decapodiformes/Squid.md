@@ -1,6 +1,7 @@
 ---
 aliases:
   - Teuthida
+  - Squid
 has_id_wikidata: Q81900
 this_taxon_is_source_of: "[[_Standards/WikiData/WD~squid_as_food,550774]]"
 parent_taxon: "[[_Standards/WikiData/WD~Decapodiformes,843338]]"
@@ -9,7 +10,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-ITIS_TSN: "82367"
+ITIS_TSN: 82367
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mastigoteuthis%20flammea.jpg
 Archive_of_Our_Own_tag: Octopi *a* Squid
 Commons_gallery: Teuthida
@@ -17,12 +18,12 @@ Commons_category: Teuthida
 taxon_name: Teuthida
 MCN_code: 0307.43.10
 EPPO_Code: 1TEUTO
-Dewey_Decimal_Classification: "594.58"
+Dewey_Decimal_Classification: 594.58
 NBN_System_Key: NHMSYS0021055248
 Unicode_character: 🦑
 ---
 
-# [[Squid]]  
+# [[Squid]] 🦑 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Teuthida,81900|WD~Teuthida,81900]]  
 

@@ -1,17 +1,18 @@
 ---
 aliases:
   - Holstein Cattle
-  - Friesian Cattle 
+  - Friesian Cattle
   - Black and White Cattle
-  - Schwarzbunte 
+  - Schwarzbunte
+  - Holstein_Cattle
 has_id_wikidata: Q58910
 subclass_of:
-  - "[[_Standards/WikiData/WD~cattle,4767951]]"
-  - "[[_Standards/WikiData/WD~dairy_cattle,2915]]"
-instance_of: "[[_Standards/WikiData/WD~cattle_breed,12045585]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+  - '[[_Standards/WikiData/WD~cattle,4767951]]'
+  - '[[_Standards/WikiData/WD~dairy_cattle,2915]]'
+instance_of: '[[_Standards/WikiData/WD~cattle_breed,12045585]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Behi%20frisiarrak.jpg
-Dewey_Decimal_Classification: "636.234"
+Dewey_Decimal_Classification: 636.234
 Commons_category: Holstein Friesian cattle
 ---
 

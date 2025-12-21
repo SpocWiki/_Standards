@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Protentomidae
 title: Protentomidae
 ---
 

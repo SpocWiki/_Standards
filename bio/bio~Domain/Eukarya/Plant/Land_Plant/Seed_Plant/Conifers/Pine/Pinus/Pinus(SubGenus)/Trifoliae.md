@@ -1,5 +1,7 @@
 ---
-title: "section Trifoliae"
+aliases:
+  - Trifoliae
+title: section Trifoliae
 ---
 
 # [[Trifoliae(Section)]] 

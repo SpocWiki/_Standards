@@ -1,8 +1,10 @@
 ---
-Commons_category: Taxonomy
 aliases:
-  - Biological Taxonomy 
+  - Biological Taxonomy
   - Biological Classification
+  - Biological_Classification
+has_id_wikidata: Q11398
+Commons_category: Taxonomy
 confidential: private
 cssclasses:
   - note
@@ -15,7 +17,6 @@ excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: Null
-has_id_wikidata: Q11398
 has_Template:
   - '[[Extract~Note~Template]]'
 has_time_started:
@@ -25,12 +26,12 @@ instance_of:
 isDeleted: false
 isReadOnly: false
 keywords:
-  'Biological_Classification': Null
+  Biological_Classification: Null
 lang: en
 layout: Null
 license: (c)copyrighted
 linkTitle:
-  'Biological_Classification': Null
+  Biological_Classification: Null
 publish: false
 publishDate: Null
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~taxonomy,8269924]]'
@@ -38,13 +39,12 @@ subclass_of:
   - '[[_Standards/WikiData/WD~specialised_classification_scheme,24249534]]'
   - '[[_Standards/WikiData/WD~taxonomy,7211]]'
 topic_s_main_template:
-  - >-
-    [[_Standards/WikiData/WD~Template_Biological_kingdom_classification,6221922]]
+  - '[[_Standards/WikiData/WD~Template_Biological_kingdom_classification,6221922]]'
   - '[[_Standards/WikiData/WD~Template_Biological_classification,6470140]]'
 tags:
   - excalidraw
 title:
-  'Biological_Classification': Null
+  Biological_Classification: Null
 type: private_note
 uses:
   - '[[_Standards/WikiData/WD~cladistics,192210]]'

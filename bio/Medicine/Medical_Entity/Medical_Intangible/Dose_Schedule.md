@@ -4,20 +4,22 @@ aliases:
   - dose_schedule
   - DoseSchedule
   - is_a_dose_schedule
+  - Dose_Schedule
+  - Dose Schedule
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - dose_schedule
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_dose_schedule Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

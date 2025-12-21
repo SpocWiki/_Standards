@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Loxodontomys
 title: Loxodontomys
 ---
 

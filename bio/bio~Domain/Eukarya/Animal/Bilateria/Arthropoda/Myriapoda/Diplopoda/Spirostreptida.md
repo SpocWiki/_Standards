@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Spirostreptida
 title: Spirostreptida
 ---
 

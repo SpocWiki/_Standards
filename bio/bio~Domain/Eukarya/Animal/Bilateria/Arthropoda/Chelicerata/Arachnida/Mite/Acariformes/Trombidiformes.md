@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Trombidiformes
 title: Trombidiformes
 ---
 

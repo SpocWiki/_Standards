@@ -1,12 +1,14 @@
 ---
 aliases:
   - Ecological niche
+  - Ecological_Niche
+  - Ecological Niche
 has_id_wikidata: Q172861
-subclass_of: "[[_Standards/WikiData/WD~context,196626]]"
-has_effect: "[[_Standards/WikiData/WD~annidation,1308433]]"
-instance_of: "[[_Standards/WikiData/WD~term,1969448]]"
-part_of: "[[_Standards/WikiData/WD~biogeocenosis,2626809]]"
-different_from: "[[_Standards/WikiData/WD~microhabitat,97379588]]"
+subclass_of: '[[_Standards/WikiData/WD~context,196626]]'
+has_effect: '[[_Standards/WikiData/WD~annidation,1308433]]'
+instance_of: '[[_Standards/WikiData/WD~term,1969448]]'
+part_of: '[[_Standards/WikiData/WD~biogeocenosis,2626809]]'
+different_from: '[[_Standards/WikiData/WD~microhabitat,97379588]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Garden%20in%20Munich%20neglected%20for%20more%20then%20seven%20years%2C%20with%20continuous%20battle%20for%20ecological%20niches.jpg
 Commons_category: Ecological niche
 Biology_Online_Biology_Dictionary_entry: ecological-niche

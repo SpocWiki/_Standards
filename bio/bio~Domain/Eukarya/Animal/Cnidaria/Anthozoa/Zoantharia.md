@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Zoantharia
 title: Zoantharia
 ---
 

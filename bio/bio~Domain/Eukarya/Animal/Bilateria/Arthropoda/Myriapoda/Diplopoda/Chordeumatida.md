@@ -1,7 +1,7 @@
 ---
 aliases:
-- "sausage millipedes"
-- Chordeumatida
+  - sausage millipedes
+  - Chordeumatida
 title: Chordeumatida
 ---
 

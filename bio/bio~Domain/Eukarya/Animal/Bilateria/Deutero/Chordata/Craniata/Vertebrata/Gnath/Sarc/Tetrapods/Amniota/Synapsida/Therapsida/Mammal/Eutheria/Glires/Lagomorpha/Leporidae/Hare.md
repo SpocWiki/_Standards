@@ -4,23 +4,26 @@ aliases:
   - Lepus
   - Hase
   - leveret
+  - hare
+  - Iepure propriu-zis
+  - pravi zajec
 has_id_wikidata: Q46076
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Hase,700566]]"
-  - "[[_Standards/WikiData/WD~Q51641604,51641604]]"
-homonymous_taxon: "[[_Standards/WikiData/WD~Lepus_(Lepus),3830767]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~hare_meat,55557452]]"
-has_use: "[[_Standards/WikiData/WD~hare,63941258]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "180111"
+  - '[[_Standards/WikiData/WD~Hase,700566]]'
+  - '[[_Standards/WikiData/WD~Q51641604,51641604]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Lepus_(Lepus),3830767]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~hare_meat,55557452]]'
+has_use: '[[_Standards/WikiData/WD~hare,63941258]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 180111
 taxon_common_name:
   - hare
   - Iepure propriu-zis

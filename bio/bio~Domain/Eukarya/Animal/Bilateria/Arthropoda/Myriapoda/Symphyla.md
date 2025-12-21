@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Symphyla
 title: Symphyla
 ---
 

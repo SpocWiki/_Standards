@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Placozoa
 title: Placozoa
 ---
 

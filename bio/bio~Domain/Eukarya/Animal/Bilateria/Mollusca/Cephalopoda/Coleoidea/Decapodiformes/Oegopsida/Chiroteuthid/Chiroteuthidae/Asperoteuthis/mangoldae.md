@@ -1,5 +1,7 @@
 ---
-title: "Asperoteuthis mangoldae"
+aliases:
+  - mangoldae
+title: Asperoteuthis mangoldae
 ---
 
 ## Phylogeny 

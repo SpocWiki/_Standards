@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Argonautidae
 title: Argonauta
 ---
 

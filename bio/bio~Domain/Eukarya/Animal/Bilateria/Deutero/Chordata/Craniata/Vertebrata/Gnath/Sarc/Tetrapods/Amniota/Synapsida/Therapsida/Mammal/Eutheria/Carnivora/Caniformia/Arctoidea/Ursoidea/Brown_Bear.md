@@ -3,6 +3,7 @@ aliases:
   - Brown Bear
   - Braunbär
   - Ursus arctos
+  - Brown_Bear
 has_id_wikidata: Q36341
 ---
 

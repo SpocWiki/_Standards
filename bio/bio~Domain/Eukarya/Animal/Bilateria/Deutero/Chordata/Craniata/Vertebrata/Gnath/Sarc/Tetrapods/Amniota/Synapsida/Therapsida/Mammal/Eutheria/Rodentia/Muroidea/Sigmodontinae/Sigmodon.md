@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sigmodon
 title: Sigmodon
 ---
 

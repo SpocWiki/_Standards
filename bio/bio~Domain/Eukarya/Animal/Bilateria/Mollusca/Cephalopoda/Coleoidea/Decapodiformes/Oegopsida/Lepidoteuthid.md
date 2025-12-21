@@ -1,5 +1,7 @@
 ---
-title: "Lepidoteuthid families"
+aliases:
+  - Lepidoteuthid
+title: Lepidoteuthid families
 ---
 
 ## Phylogeny 

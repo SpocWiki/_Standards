@@ -1,5 +1,7 @@
 ---
-title: "Cirroctopus glacialis"
+aliases:
+  - glacialis
+title: Cirroctopus glacialis
 ---
 
 ## Phylogeny 

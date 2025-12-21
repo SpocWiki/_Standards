@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Alcelaphinae
 title: Alcelaphinae
 ---
 

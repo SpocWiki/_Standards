@@ -1,29 +1,30 @@
 ---
 aliases:
   - Chirurgie
+  - Surgery
 has_id_wikidata: Q40821
-different_from: "[[_Standards/WikiData/WD~surgical_operation,600236]]"
+different_from: '[[_Standards/WikiData/WD~surgical_operation,600236]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~surgeon,774306]]"
-  - "[[_Standards/WikiData/WD~eye_surgeon,117289501]]"
+  - '[[_Standards/WikiData/WD~surgeon,774306]]'
+  - '[[_Standards/WikiData/WD~eye_surgeon,117289501]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~medical_specialty,930752]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - '[[_Standards/WikiData/WD~medical_specialty,930752]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_medical_intervention,13365385]]"
-  - "[[_Standards/WikiData/WD~Template_Medical_placement_and_administration_procedures,22758871]]"
-subclass_of: "[[_Standards/WikiData/WD~clinical_sciences,113129019]]"
-Dewey_Decimal_Classification: "617"
-All_Science_Journal_Classification_Codes: "2746"
-IAB_code: "321"
+  - '[[_Standards/WikiData/WD~Template_Infobox_medical_intervention,13365385]]'
+  - '[[_Standards/WikiData/WD~Template_Medical_placement_and_administration_procedures,22758871]]'
+subclass_of: '[[_Standards/WikiData/WD~clinical_sciences,113129019]]'
+Dewey_Decimal_Classification: 617
+All_Science_Journal_Classification_Codes: 2746
+IAB_code: 321
 Commons_category: Surgery
-OmegaWiki_Defined_Meaning: "397841"
+OmegaWiki_Defined_Meaning: 397841
 IMDb_keyword: surgery
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Marcelletti%20SO2.jpg
 spherical_panorama_image: http://commons.wikimedia.org/wiki/Special:FilePath/Surgery%20%E2%80%93%20Panorama%20%28Oliksiy%20Yakovlyev%20via%20Poly%20Haven%29.jpg

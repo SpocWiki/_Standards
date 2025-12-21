@@ -1,23 +1,25 @@
 ---
-All_Science_Journal_Classification_Codes: '1311'
-Basisklassifikation: '42.20'
+aliases:
+  - Genetik
+  - Genetics
+has_id_wikidata: Q7162
+All_Science_Journal_Classification_Codes: 1311
+Basisklassifikation: 42.20
 Commons_category: Genetics
 Colon_Classification: G:6
-Dewey_Decimal_Classification: '576.5'
+Dewey_Decimal_Classification: 576.5
 GitHub_topic: genetic
-IAB_code: '468'
+IAB_code: 468
 IPTC_NewsCode: mediatopic/20000721
 Krugosvet_article: nauka_i_tehnika/biologiya/GENETIKA.html
 MeSH_tree_code: H01.158.273.343
-OmegaWiki_Defined_Meaning: '1637'
-P8189: '987007562698805171'
+OmegaWiki_Defined_Meaning: 1637
+P8189: 987007562698805171
 Stack_Exchange_tag: https://biology.stackexchange.com/tags/genetics
-Universal_Decimal_Classification: '575'
-U_S_National_Archives_Identifier: '10639210'
+Universal_Decimal_Classification: 575
+U_S_National_Archives_Identifier: 10639210
 UMLS_CUI: C0017398
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_genetics,7112645]]'
-aliases:
-  - Genetik
 different_from: '[[_Standards/WikiData/WD~genology,3508604]]'
 described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 founded_by:
@@ -25,13 +27,12 @@ founded_by:
   - '[[_Standards/WikiData/WD~Hugo_de_Vries,160192]]'
   - '[[_Standards/WikiData/WD~Gregor_Mendel,37970]]'
   - '[[_Standards/WikiData/WD~Carl_Correns,62096]]'
-has_id_wikidata: Q7162
 history_of_topic: '[[_Standards/WikiData/WD~history_of_genetics,465920]]'
 instance_of:
   - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
   - '[[_Standards/WikiData/WD~branch_of_biology,28598684]]'
   - '[[_Standards/WikiData/WD~science,336]]'
-inception: '1900-01-01T00:00:00Z'
+inception: 1900-01-01T00:00:00Z
 is_the_study_of: '[[_Standards/WikiData/WD~genome,7020]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gene.png
 practiced_by: '[[_Standards/WikiData/WD~geneticist,3126128]]'

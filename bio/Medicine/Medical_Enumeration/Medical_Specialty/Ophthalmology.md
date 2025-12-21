@@ -1,36 +1,37 @@
 ---
 aliases:
   - oculism
+  - Ophthalmology
 has_id_wikidata: Q161437
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~medical_specialty,930752]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-practiced_by: "[[_Standards/WikiData/WD~ophthalmologist,12013238]]"
-part_of: "[[_Standards/WikiData/WD~ophthalmology_and_optometry,113129180]]"
+  - '[[_Standards/WikiData/WD~medical_specialty,930752]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~ophthalmologist,12013238]]'
+part_of: '[[_Standards/WikiData/WD~ophthalmology_and_optometry,113129180]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~ophthalmology_and_optometry,113129180]]"
-  - "[[_Standards/WikiData/WD~medicine,11190]]"
+  - '[[_Standards/WikiData/WD~ophthalmology_and_optometry,113129180]]'
+  - '[[_Standards/WikiData/WD~medicine,11190]]'
 Dewey_Decimal_Classification:
-  - "617"
-  - "617.7"
+  - 617
+  - 617.7
 social_media_followers: 10158
-All_Science_Journal_Classification_Codes: "2731"
-OmegaWiki_Defined_Meaning: "801736"
+All_Science_Journal_Classification_Codes: 2731
+OmegaWiki_Defined_Meaning: 801736
 subreddit: Ophthalmology
 Commons_category: Ophthalmology
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Spaltlampe-2.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage%20banner%20Snellen%20chart%20%28cropped%29.jpg
 Iconclass_notation: 49G6181
-UNSPSC_Code: "85121610"
+UNSPSC_Code: 85121610
 UMLS_CUI: C0029087
 MeSH_tree_code: H02.403.810.468
 Baidu_Tieba_name: 眼科

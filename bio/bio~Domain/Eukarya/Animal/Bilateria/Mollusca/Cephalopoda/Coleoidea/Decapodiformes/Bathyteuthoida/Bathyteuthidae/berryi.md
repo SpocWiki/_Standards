@@ -1,5 +1,7 @@
 ---
-title: "Bathyteuthis berryi"
+aliases:
+  - berryi
+title: Bathyteuthis berryi
 ---
 
 ## Phylogeny 

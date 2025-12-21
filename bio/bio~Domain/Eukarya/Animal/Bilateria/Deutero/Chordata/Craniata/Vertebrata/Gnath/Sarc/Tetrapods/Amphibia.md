@@ -3,43 +3,79 @@ aliases:
   - Amphibians
   - Amphibian
   - Amphibia
+  - dvoživke
+  - البَرْمائِيَّات
+  - القَوَازِبُ
+  - Земнаводныя
+  - Земноводни
+  - Divelfenneg
+  - Amfibis
+  - obojživelníci
+  - Amphibien
+  - Αμφίβια
+  - Anfibios
+  - Sammakkoeläimet
+  - Amphibiens
+  - Amfiibie
+  - anfíbios
+  - דו חיים
+  - Kétéltűek
+  - Երկկենցաղներ
+  - Anfibi
+  - 両生綱
+  - 양서강
+  - Водоземци
+  - amfibier
+  - Amfibieën
+  - płazy
+  - Anfíbios
+  - Amfibieni
+  - Земноводные
+  - Obojživelníky
+  - Groddjur
+  - สัตว์ครึ่งบกครึ่งน้ำ
+  - สัตว์สะเทินน้ำสะเทินบก
+  - İki yaşamlılar
+  - Земноводні
+  - lớp lưỡng cư or động vật lưỡng cư
+  - 兩棲綱
+has_id_wikidata: Q10908
 Archive_of_Our_Own_tag:
   - amphibian
   - Amphibians
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
 Commons_category: Amphibia
 described_by_source:
-  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+  - '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 EPPO_Code: 1AMPHC
 GS1_GPC_code: 10005458
-has_id_wikidata: Q10908
-has_use: "[[_Standards/WikiData/WD~biological_pest_control,116890]]"
+has_use: '[[_Standards/WikiData/WD~biological_pest_control,116890]]'
 Iconclass_notation: 25F5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Amphibia.png
 instance_of:
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 173420
 Krugosvet_article: nauka_i_tehnika/biologiya/ZEMNOVODNIE.html
 main_food_source:
-  - "[[_Standards/WikiData/WD~Gastropoda,4867740]]"
-  - "[[_Standards/WikiData/WD~worm,47253]]"
+  - '[[_Standards/WikiData/WD~Gastropoda,4867740]]'
+  - '[[_Standards/WikiData/WD~worm,47253]]'
 MeSH_tree_code: B01.050.150.900.090
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Examples%20of%20Amphibia.png
 OmegaWiki_Defined_Meaning: 162
-parent_taxon: "[[_Standards/WikiData/WD~Batrachomorpha,2521462]]"
+parent_taxon: '[[_Standards/WikiData/WD~Batrachomorpha,2521462]]'
 Provenio_UUID:
   - 2c8b2bd3-c61d-4e11-90a1-65ca8c618173
 start_time: -370000000-01-01
 studied_in:
-  - "[[_Standards/WikiData/WD~herpetology,174416]]"
-  - "[[_Standards/WikiData/WD~batrachology,4869597]]"
+  - '[[_Standards/WikiData/WD~herpetology,174416]]'
+  - '[[_Standards/WikiData/WD~batrachology,4869597]]'
 subreddit:
   - Amphibians
 taxon_common_name:
@@ -81,12 +117,12 @@ taxon_common_name:
   - lớp lưỡng cư or động vật lưỡng cư
   - 兩棲綱
 taxon_name: Amphibia
-taxon_rank: "[[_Standards/WikiData/WD~class,37517]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~amphibian_as_food,124813117]]"
+taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~amphibian_as_food,124813117]]'
 title: Living Amphibians
-topic_s_main_category: "[[_Standards/WikiData/WD~Q8878457,8878457]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Amphibians,6677674]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Amphibians,21813728]]"
+topic_s_main_category: '[[_Standards/WikiData/WD~Q8878457,8878457]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Amphibians,6677674]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Amphibians,21813728]]'
 UMLS_CUI: C0002668
 ---
 

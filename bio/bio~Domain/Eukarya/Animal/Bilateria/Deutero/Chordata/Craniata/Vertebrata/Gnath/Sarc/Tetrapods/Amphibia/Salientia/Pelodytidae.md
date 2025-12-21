@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Pelodytidae
 title: Pelodytidae
 ---
 

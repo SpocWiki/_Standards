@@ -1,6 +1,8 @@
 ---
 aliases:
   - Molecular biology
+  - Molecular_Biology
+  - Molecular Biology
 has_id_wikidata: Q7202
 ---
 

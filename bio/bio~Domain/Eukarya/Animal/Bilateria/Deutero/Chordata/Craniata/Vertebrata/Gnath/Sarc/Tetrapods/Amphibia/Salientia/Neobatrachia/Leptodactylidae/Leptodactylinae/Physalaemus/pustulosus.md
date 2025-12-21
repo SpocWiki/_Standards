@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus pustulosus"
+aliases:
+  - pustulosus
+title: Physalaemus pustulosus
 ---
 
 ## Phylogeny 

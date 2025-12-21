@@ -3,8 +3,8 @@ aliases:
   - Ovis aries
   - aries
   - Sheep
-title: Ovis aries
 has_id_wikidata: Q7368
+title: Ovis aries
 described_by_source:
   - "[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -42,8 +42,8 @@ has_use:
   - "[[_Standards/WikiData/WD~meat,10990]]"
   - "[[_Standards/WikiData/WD~wool,42329]]"
 longest_observed_lifespan: 22.8
-OmegaWiki_Defined_Meaning: "5819"
-ITIS_TSN: "552475"
+OmegaWiki_Defined_Meaning: 5819
+ITIS_TSN: 552475
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Yorkshire%20dales%20sheep.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ber%C3%A5%20Tirehaline%20x%20Timhadite.jpg
@@ -59,7 +59,7 @@ name:
   - بھیڈ
 Iconclass_notation: 47I213
 Commons_category: Sheep
-UNSPSC_Code: "10101507"
+UNSPSC_Code: 10101507
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Sheep%20bleating.ogg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20Sheep%20smooth%20edit.stl
 model_image: http://commons.wikimedia.org/wiki/Special:FilePath/Didactic%20model%20of%20a%20sheep%20muscular%20system%2001-FMVZ%20USP-28.jpeg
@@ -72,7 +72,7 @@ Colon_Classification: KX783
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/OVTSA.html
 ---
 
-# [[Sheep]] 
+# [[Sheep]] 🐏 
 
 ![ ](Sheep/Sheep.jpg)
 

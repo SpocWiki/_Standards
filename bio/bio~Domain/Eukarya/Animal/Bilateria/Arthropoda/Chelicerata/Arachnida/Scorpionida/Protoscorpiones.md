@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Protoscorpiones
 title: Protoscorpiones
 ---
 

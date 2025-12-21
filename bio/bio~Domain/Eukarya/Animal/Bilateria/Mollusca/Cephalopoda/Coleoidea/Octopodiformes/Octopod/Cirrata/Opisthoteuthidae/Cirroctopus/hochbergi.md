@@ -1,5 +1,7 @@
 ---
-title: "Cirroctopus hochbergi"
+aliases:
+  - hochbergi
+title: Cirroctopus hochbergi
 ---
 
 ## Phylogeny 

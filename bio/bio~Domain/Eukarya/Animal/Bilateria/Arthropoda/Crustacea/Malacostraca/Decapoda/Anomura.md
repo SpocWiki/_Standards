@@ -1,7 +1,7 @@
 ---
 aliases:
-- Anomura
-- Anomala
+  - Anomura
+  - Anomala
 title: Anomura
 ---
 

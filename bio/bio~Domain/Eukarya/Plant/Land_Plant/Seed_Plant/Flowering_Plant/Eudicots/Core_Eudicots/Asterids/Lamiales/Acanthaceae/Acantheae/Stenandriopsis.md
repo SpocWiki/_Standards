@@ -1,5 +1,7 @@
 ---
-title: "Stenandriopsis Clade"
+aliases:
+  - Stenandriopsis
+title: Stenandriopsis Clade
 ---
 
 # [[Stenandriopsis]] 

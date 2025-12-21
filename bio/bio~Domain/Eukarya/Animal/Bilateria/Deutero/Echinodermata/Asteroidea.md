@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Asteroidea
 title: Asteroidea
 ---
 

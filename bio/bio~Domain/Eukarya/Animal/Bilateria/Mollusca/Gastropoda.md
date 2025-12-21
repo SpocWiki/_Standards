@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Gastropoda
 title: Gastropoda
 ---
 

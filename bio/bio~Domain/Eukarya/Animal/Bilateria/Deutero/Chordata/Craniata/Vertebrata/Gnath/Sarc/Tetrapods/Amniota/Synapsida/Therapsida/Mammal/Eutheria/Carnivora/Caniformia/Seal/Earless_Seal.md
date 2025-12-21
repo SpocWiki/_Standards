@@ -3,6 +3,9 @@ aliases:
   - earless seal
   - phocid
   - true seal
+  - Earless_Seal
+  - Earless Seal
+  - selfamilien
 has_id_wikidata: Q25587
 taxonomic_type: "[[_Standards/WikiData/WD~Phoca,878742]]"
 described_by_source:
@@ -14,7 +17,7 @@ parent_taxon: "[[_Standards/WikiData/WD~Phocoidea,119809215]]"
 uses: "[[_Standards/WikiData/WD~galumphing,134300141]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "180640"
+ITIS_TSN: 180640
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%B5%D1%80%D0%BF%D0%B8%D1%87%D0%B8%D0%B9%20%D0%B2%D0%B7%D0%B3%D0%BB%D1%8F%D0%B4.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Blanchon-idlm2006.jpg
@@ -30,7 +33,7 @@ Unicode_character: 🦭
 taxon_common_name: selfamilien
 ---
 
-# [[Earless_Seal]] 
+# [[Earless_Seal]] 🦭 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Phocidae,25587|WD~Phocidae,25587]] 
 

@@ -1,5 +1,7 @@
 ---
-title: "Mastigoteuthis pyrodes"
+aliases:
+  - pyrodes
+title: Mastigoteuthis pyrodes
 ---
 
 ## Phylogeny 

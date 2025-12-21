@@ -14,40 +14,40 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - pediatric
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_pediatric Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_pediatric Class
 type: Type
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~medical_specialty,930752]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-practiced_by: "[[_Standards/WikiData/WD~pediatrician,1919436]]"
-field_of_work: "[[_Standards/WikiData/WD~child_health,57354899]]"
-subclass_of: "[[_Standards/WikiData/WD~medicine,11190]]"
-IAB_code: "224"
+  - '[[_Standards/WikiData/WD~medical_specialty,930752]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~pediatrician,1919436]]'
+field_of_work: '[[_Standards/WikiData/WD~child_health,57354899]]'
+subclass_of: '[[_Standards/WikiData/WD~medicine,11190]]'
+IAB_code: 224
 All_Science_Journal_Classification_Codes:
-  - "2919"
-  - "2735"
+  - 2919
+  - 2735
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Examination%20of%20a%20boy%20in%20Kenya.jpg
-OmegaWiki_Defined_Meaning: "921874"
-U_S_National_Archives_Identifier: "10641370"
-Basisklassifikation: "44.67"
+OmegaWiki_Defined_Meaning: 921874
+U_S_National_Archives_Identifier: 10641370
+Basisklassifikation: 44.67
 Iconclass_notation: 49G64
 UMLS_CUI: C0030755
 MeSH_tree_code: H02.403.670

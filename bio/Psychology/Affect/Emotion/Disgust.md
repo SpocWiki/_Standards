@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ekel
+  - Disgust
 has_id_wikidata: Q208351
 ---
 

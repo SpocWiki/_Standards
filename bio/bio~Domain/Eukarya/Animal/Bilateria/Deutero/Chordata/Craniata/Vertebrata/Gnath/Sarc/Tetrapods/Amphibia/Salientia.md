@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Salientia
 title: Salientia
 ---
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Seymouriamorpha
 title: Seymouriamorpha
 ---
 

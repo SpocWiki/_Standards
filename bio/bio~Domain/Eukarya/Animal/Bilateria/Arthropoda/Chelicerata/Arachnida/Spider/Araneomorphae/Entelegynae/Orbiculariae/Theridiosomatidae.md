@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Theridiosomatidae
 title: Theridiosomatidae
 ---
 

@@ -1,20 +1,22 @@
 ---
 aliases:
   - Human overpopulation
+  - Human_Overpopulation
+  - Human Overpopulation
 has_id_wikidata: Q331439
-handled_mitigated_or_managed_by: "[[_Standards/WikiData/WD~human_population_control,130819]]"
-has_cause: "[[_Standards/WikiData/WD~human_population_explosion,851982]]"
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~human_population_control,130819]]'
+has_cause: '[[_Standards/WikiData/WD~human_population_explosion,851982]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~climate_catastrophe,1774397]]"
-  - "[[_Standards/WikiData/WD~urban_decay,2039238]]"
-  - "[[_Standards/WikiData/WD~food_crisis,2964234]]"
-  - "[[_Standards/WikiData/WD~conflict_escalation,5160184]]"
-instance_of: "[[_Standards/WikiData/WD~environmental_issue,2144359]]"
+  - '[[_Standards/WikiData/WD~climate_catastrophe,1774397]]'
+  - '[[_Standards/WikiData/WD~urban_decay,2039238]]'
+  - '[[_Standards/WikiData/WD~food_crisis,2964234]]'
+  - '[[_Standards/WikiData/WD~conflict_escalation,5160184]]'
+instance_of: '[[_Standards/WikiData/WD~environmental_issue,2144359]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~Q6173448,6173448]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-different_from: "[[_Standards/WikiData/WD~overpopulation,7113866]]"
-subclass_of: "[[_Standards/WikiData/WD~overpopulation,7113866]]"
+  - '[[_Standards/WikiData/WD~Q6173448,6173448]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+different_from: '[[_Standards/WikiData/WD~overpopulation,7113866]]'
+subclass_of: '[[_Standards/WikiData/WD~overpopulation,7113866]]'
 Commons_category: Human overpopulation
 image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20population%20v3.svg
 ---

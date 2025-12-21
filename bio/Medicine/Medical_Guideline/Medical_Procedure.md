@@ -1,25 +1,27 @@
 ---
-has_id_wikidata: Q796194
 aliases:
   - medical-procedure
   - medical_procedure
   - MedicalProcedure
   - is_a_medical_procedure
+  - Medical_Procedure
+  - Medical Procedure
+has_id_wikidata: Q796194
 confidential: public
 cssclasses:
   - Type
 draft: false
 equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/50731006
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_procedure
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_procedure Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

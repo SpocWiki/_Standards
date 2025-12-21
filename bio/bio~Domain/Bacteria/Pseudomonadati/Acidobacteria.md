@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Acidobacteria
 title: Acidobacteria
 ---
 

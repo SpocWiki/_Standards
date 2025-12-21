@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Limnodynastinae
 title: Limnodynastinae
 ---
 

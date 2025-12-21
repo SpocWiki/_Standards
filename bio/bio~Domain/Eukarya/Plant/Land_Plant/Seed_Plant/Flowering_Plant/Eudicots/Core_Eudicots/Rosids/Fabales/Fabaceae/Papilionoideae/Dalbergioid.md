@@ -1,5 +1,7 @@
 ---
-title: "Dalbergioid sensu lato clade"
+aliases:
+  - Dalbergioid
+title: Dalbergioid sensu lato clade
 ---
 
 # [[Dalbergioid]] sensu lato  

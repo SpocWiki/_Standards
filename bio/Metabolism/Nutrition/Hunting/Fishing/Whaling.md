@@ -1,25 +1,26 @@
 ---
 aliases:
   - Walfang
+  - Whaling
 has_id_wikidata: Q42767
-instance_of: "[[_Standards/WikiData/WD~industry,268592]]"
+instance_of: '[[_Standards/WikiData/WD~industry,268592]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-archives_at: "[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]"
-practiced_by: "[[_Standards/WikiData/WD~whaler,28466165]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Animal_heritage,115236198]]"
-subclass_of: "[[_Standards/WikiData/WD~fishing,14373]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+archives_at: '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]'
+practiced_by: '[[_Standards/WikiData/WD~whaler,28466165]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Animal_heritage,115236198]]'
+subclass_of: '[[_Standards/WikiData/WD~fishing,14373]]'
 Commons_gallery: Whaling
 Commons_category: Whaling
-U_S_National_Archives_Identifier: "10643617"
+U_S_National_Archives_Identifier: 10643617
 Iconclass_notation: 47K11
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Bungartz%20-%20Walfang%20nach%20neuster%20Fangmethode%20%281885%29.jpg
-P2167: "70101506"
+P2167: 70101506
 Dewey_Decimal_Classification:
-  - "639.28"
-  - "338.37295"
+  - 639.28
+  - 338.37295
 ---
 
 # [[Whaling]]  

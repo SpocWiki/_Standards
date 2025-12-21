@@ -1,5 +1,8 @@
 ---
-title: "Magnapinna pacifica"
+aliases:
+  - Magnapinna_pacifica
+  - Magnapinna pacifica
+title: Magnapinna pacifica
 ---
 
 # *Magnapinna pacifica* [Vecchione and Young, 1998]

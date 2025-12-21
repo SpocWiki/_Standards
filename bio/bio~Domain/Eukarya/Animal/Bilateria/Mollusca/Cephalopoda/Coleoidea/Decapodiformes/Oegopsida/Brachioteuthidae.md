@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Brachioteuthidae
 title: Brachioteuthidae
 ---
 

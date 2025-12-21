@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Buthoidea
 title: Buthoidea
 ---
 

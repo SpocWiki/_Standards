@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Nymphaeaceae
 title: Nymphaeaceae
 ---
 

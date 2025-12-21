@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Phyllotini
 title: Phyllotini
 ---
 

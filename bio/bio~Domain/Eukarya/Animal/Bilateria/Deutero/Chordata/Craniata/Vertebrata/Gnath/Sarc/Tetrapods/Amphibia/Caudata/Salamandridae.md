@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Salamandridae
 title: Salamandridae
 ---
 

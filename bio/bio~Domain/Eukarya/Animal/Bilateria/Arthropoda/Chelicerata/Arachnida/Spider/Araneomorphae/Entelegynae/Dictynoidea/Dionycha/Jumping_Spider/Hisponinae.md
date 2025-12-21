@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Hisponinae
 title: Hisponinae
 ---
 

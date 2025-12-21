@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Pareledone
 title: Pareledone
 ---
 

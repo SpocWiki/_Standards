@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Diplura
 title: Diplura
 ---
 

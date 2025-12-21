@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Balaenidae
 title: Balaenidae
 ---
 

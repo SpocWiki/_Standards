@@ -1,5 +1,8 @@
 ---
-title: "Magnapinna atlantica"
+aliases:
+  - Magnapinna_atlantica
+  - Magnapinna atlantica
+title: Magnapinna atlantica
 ---
 
 # *Magnapinna atlantica* [Vecchione and Young 2006] 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Poduromorpha
 title: Poduromorpha
 ---
 

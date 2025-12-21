@@ -1,5 +1,8 @@
 ---
-title: "Ariekanerpeton sigalovi"
+aliases:
+  - Ariekanerpeton_sigalovi
+  - Ariekanerpeton sigalovi
+title: Ariekanerpeton sigalovi
 ---
 
 ## Phylogeny 

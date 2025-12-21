@@ -2,6 +2,8 @@
 aliases:
   - Autoimmune disease
   - Autoimmunkrankheit
+  - Autoimmune_Disease
+  - Autoimmune Disease
 has_id_wikidata: Q8084905
 ---
 

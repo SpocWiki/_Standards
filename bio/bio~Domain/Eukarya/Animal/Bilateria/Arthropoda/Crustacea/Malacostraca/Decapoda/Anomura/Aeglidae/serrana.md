@@ -1,5 +1,7 @@
 ---
-title: "Aegla serrana"
+aliases:
+  - serrana
+title: Aegla serrana
 ---
 
 # Aegla serrana 

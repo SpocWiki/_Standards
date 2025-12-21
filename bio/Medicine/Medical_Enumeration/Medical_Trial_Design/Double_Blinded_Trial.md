@@ -4,21 +4,23 @@ aliases:
   - double_blinded_trial
   - DoubleBlindedTrial
   - is_a_double_blinded_trial
+  - Double_Blinded_Trial
+  - Double Blinded Trial
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalTrialDesign
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - double_blinded_trial
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_double_blinded_trial Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

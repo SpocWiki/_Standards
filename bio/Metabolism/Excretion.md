@@ -1,20 +1,21 @@
 ---
 aliases:
   - Exkretion
+  - Excretion
 has_id_wikidata: Q185557
-opposite_of: "[[_Standards/WikiData/WD~eating,213449]]"
+opposite_of: '[[_Standards/WikiData/WD~eating,213449]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~expulsion,779939]]"
-  - "[[_Standards/WikiData/WD~system_process,22299483]]"
+  - '[[_Standards/WikiData/WD~expulsion,779939]]'
+  - '[[_Standards/WikiData/WD~system_process,22299483]]'
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~excrement,1383944]]"
-  - "[[_Standards/WikiData/WD~external_secretion,28539843]]"
-instance_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
+  - '[[_Standards/WikiData/WD~excrement,1383944]]'
+  - '[[_Standards/WikiData/WD~external_secretion,28539843]]'
+instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%81M%2066%2C%2076r%2C%20Mead%20of%20Poetry.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B0%E0%A7%87%E0%A6%9A%E0%A6%A8.wav
 exact_match: http://purl.obolibrary.org/obo/GO_0007588

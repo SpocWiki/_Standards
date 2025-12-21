@@ -3,6 +3,7 @@ aliases:
   - Ei
   - Eier
   - Eggs
+  - Egg
 has_id_wikidata: Q17147
 has_use: "[[_Standards/WikiData/WD~egg_as_food,93189]]"
 facet_of:
@@ -33,7 +34,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~developmental_stage_of_animal,20056177]]"
   - "[[_Standards/WikiData/WD~class_of_living_thing,55597235]]"
 subclass_of: "[[_Standards/WikiData/WD~covering,23497974]]"
-OmegaWiki_Defined_Meaning: "1100"
+OmegaWiki_Defined_Meaning: 1100
 Commons_category: Eggs
 Commons_gallery: Egg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%EA%A0%84%EA%A0%98%EA%A0%86%EA%A0%92%EA%A0%A3.jpg
@@ -45,13 +46,13 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%AE%E0%AF%81%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88.ogg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Oeuf.stl
 exact_match: https://turkic.elegantlexicon.com/turkforms.php?form=eggegg
-U_S_National_Archives_Identifier: "10637232"
+U_S_National_Archives_Identifier: 10637232
 Krugosvet_article: nauka_i_tehnika/biologiya/YATSO.html
 Unicode_character: 🥚
 name: ꠄꠘ꠆ꠒꠣ
 ---
 
-# [[Egg]] 
+# [[Egg]] 🥚 
 
 #is_/similar_to :: [[Spore]] 
 #is_/similar_to :: [[Seed]]

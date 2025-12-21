@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Archosauria
 title: Archosauria
 ---
 

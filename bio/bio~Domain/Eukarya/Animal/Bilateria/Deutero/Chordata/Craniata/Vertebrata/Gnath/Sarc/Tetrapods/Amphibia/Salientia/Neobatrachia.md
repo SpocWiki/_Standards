@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Neobatrachia
 title: Neobatrachia
 ---
 

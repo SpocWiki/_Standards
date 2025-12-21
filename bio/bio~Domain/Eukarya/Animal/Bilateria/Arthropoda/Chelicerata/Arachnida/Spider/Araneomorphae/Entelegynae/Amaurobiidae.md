@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Amaurobiidae
 title: Amaurobiidae
 ---
 

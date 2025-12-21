@@ -1,5 +1,7 @@
 ---
-title: "Stenandrium Clade"
+aliases:
+  - Stenandrium
+title: Stenandrium Clade
 ---
 
 ## Phylogeny 

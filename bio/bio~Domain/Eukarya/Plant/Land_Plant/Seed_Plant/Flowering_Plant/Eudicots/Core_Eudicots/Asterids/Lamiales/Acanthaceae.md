@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Acanthaceae
 title: Acanthaceae
 ---
 

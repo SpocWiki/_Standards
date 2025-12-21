@@ -2,6 +2,83 @@
 aliases:
   - Löwe
   - Leo
+  - Lion
+  - Leeuw
+  - Leeu
+  - Gyata
+  - Leyón
+  - Lión
+  - أَسَدٌ
+  - لَيْثٌ
+  - lleón
+  - Léwe
+  - Леў (Lew)
+  - Лъв (Lăv)
+  - Лоьм
+  - Llew
+  - Løve
+  - Dzata
+  - Λιοντάρι (Liondári)
+  - Lehoi
+  - Leyva
+  - leon
+  - León-leoa
+  - સિંહ
+  - Liona
+  - Oroszlán
+  - առյուծ
+  - Առյուծ
+  - Ljón
+  - ლომი
+  - 사자
+  - Арстан
+  - Léiw
+  - Liew
+  - Nkosi
+  - Liūtas
+  - Lauva
+  - Лав (lav)
+  - സിംഹം (simham)
+  - शेर (Śēra)
+  - सिंह (singh
+  - Iljun
+  - Náshdóítsoh bitsiijįʼ daditłʼooígíí
+  - ਬੱਬਰ ਸ਼ੇਰ
+  - lew afrykański
+  - Leu
+  - Лев (Lev)
+  - Lioni
+  - Lev
+  - Libubesi
+  - Tau
+  - Lejon
+  - Simba
+  - Aslan
+  - Leon
+  - Sư tử
+  - לייב
+  - León
+  - सिंह
+  - شیر
+  - ライオン
+  - शेर
+  - সিংহ
+  - சிங்கம்
+  - lev
+  - אריה
+  - Leono
+  - Lööw
+  - Lõvi
+  - Leone
+  - Lleó
+  - African Lion
+  - Leijona
+  - Leão
+  - Lav
+  - Singa
+  - Lion d'Afrique
+  - สิงโต
+  - 狮子
 has_id_wikidata: Q140
 has_characteristic:
   - "[[_Standards/WikiData/WD~carnivore,81875]]"
@@ -65,7 +142,7 @@ mass:
   - 126
   - 1.65
   - 188
-OmegaWiki_Defined_Meaning: "5961"
+OmegaWiki_Defined_Meaning: 5961
 taxon_common_name:
   - Leeuw
   - Lion
@@ -151,9 +228,9 @@ taxon_common_name:
   - Lion d'Afrique
   - สิงโต
   - 狮子
-ITIS_TSN: "183803"
+ITIS_TSN: 183803
 Baidu_Tieba_name: 狮子
-U_S_National_Archives_Identifier: "10665610"
+U_S_National_Archives_Identifier: 10665610
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Okonjima%20Lioness.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lion%20in%20masai%20mara.jpg
@@ -180,14 +257,14 @@ sequenced_genome_URL: http://www.ensembl.org/Panthera_leo
 exact_match:
   - https://ids.clld.org/parameters/3-720
   - https://turkic.elegantlexicon.com/turkforms.php?form=lionlion
-Dewey_Decimal_Classification: "599.757"
+Dewey_Decimal_Classification: 599.757
 MeSH_tree_code: B01.050.150.900.649.313.750.377.750.600.500
 Krugosvet_article_archived_: biologiya/lev
 UMLS_CUI: C0023756
 EPPO_Code: PNTHLE
 ---
 
-# [[Lion]] 
+# [[Lion]] 🦁 
 
 #is_/same_as :: [[WD~Lion,140]] 
 

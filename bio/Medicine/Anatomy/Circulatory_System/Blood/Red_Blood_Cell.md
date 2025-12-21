@@ -1,24 +1,26 @@
 ---
-has_id_wikidata: Q37187
 aliases:
   - Rote Blutkörperchen
   - erythrocyte
   - red cell
   - erythroid cell
   - haematid
-instance_of: "[[_Standards/WikiData/WD~cell_type,189118]]"
-subclass_of: "[[_Standards/WikiData/WD~blood_cell,211709]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Jan_Swammerdam,336794]]"
-produced_by: "[[_Standards/WikiData/WD~bone_marrow,546523]]"
+  - Red_Blood_Cell
+  - Red Blood Cell
+has_id_wikidata: Q37187
+instance_of: '[[_Standards/WikiData/WD~cell_type,189118]]'
+subclass_of: '[[_Standards/WikiData/WD~blood_cell,211709]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Jan_Swammerdam,336794]]'
+produced_by: '[[_Standards/WikiData/WD~bone_marrow,546523]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-different_from: "[[_Standards/WikiData/WD~red_blood_cell_count,48632255]]"
-part_of: "[[_Standards/WikiData/WD~blood,7873]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+different_from: '[[_Standards/WikiData/WD~red_blood_cell_count,48632255]]'
+part_of: '[[_Standards/WikiData/WD~blood,7873]]'
 diameter: 7
-OmegaWiki_Defined_Meaning: "1074184"
+OmegaWiki_Defined_Meaning: 1074184
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Red%20Blood%20Cell.jpg
 MeSH_tree_code:
   - A11.118.290

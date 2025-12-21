@@ -1,5 +1,7 @@
 ---
-title: "Mastigoteuthis hjorti"
+aliases:
+  - hjorti
+title: Mastigoteuthis hjorti
 ---
 
 ## Phylogeny 

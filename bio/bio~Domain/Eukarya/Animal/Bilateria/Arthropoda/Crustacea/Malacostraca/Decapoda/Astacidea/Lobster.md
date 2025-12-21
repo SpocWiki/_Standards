@@ -4,18 +4,18 @@ aliases:
   - Lobster
 has_id_wikidata: Q1038113
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
 parent_taxon:
-  - "[[_Standards/WikiData/WD~Astacidea,929163]]"
-  - "[[_Standards/WikiData/WD~Nephropoidea,1189722]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Taxonomy_Nephropidae,39755585]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~lobster,61864890]]"
-has_use: "[[_Standards/WikiData/WD~lobster,61864890]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "97307"
-OmegaWiki_Defined_Meaning: "456555"
+  - '[[_Standards/WikiData/WD~Astacidea,929163]]'
+  - '[[_Standards/WikiData/WD~Nephropoidea,1189722]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Nephropidae,39755585]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~lobster,61864890]]'
+has_use: '[[_Standards/WikiData/WD~lobster,61864890]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 97307
+OmegaWiki_Defined_Meaning: 456555
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/KreeftbijDenOsse.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Homarus%20gammarus%2801%29.jpg

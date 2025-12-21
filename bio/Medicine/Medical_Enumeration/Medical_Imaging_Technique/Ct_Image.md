@@ -4,21 +4,23 @@ aliases:
   - ct
   - CT
   - is_a_ct
+  - Ct_Image
+  - Ct Image
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalImagingTechnique
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - ct
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_ct Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

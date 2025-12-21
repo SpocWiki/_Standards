@@ -1,4 +1,51 @@
 ---
+aliases:
+  - Arthropoda
+  - Членистоногие
+  - مفصليات الأرجل
+  - Gliaderfiassler
+  - Членестоноги
+  - সন্ধিপদ
+  - Artròpodes
+  - členovci
+  - Leddyr
+  - Gliederfüßer
+  - Αρθρόποδα
+  - Arthropod
+  - Artrópodos
+  - Lülijalgsed
+  - Niveljalkaiset
+  - Arthropodes
+  - Laspuateten
+  - Artrapód
+  - Gliderfießler
+  - פרוקי רגליים
+  - Člankonošci
+  - Ízeltlábúak
+  - Հոդվածոտանիներ
+  - Artropodi
+  - 節足動物門
+  - 절지동물문(節肢動物門)
+  - Nariuotakojai
+  - Членконоги
+  - leddyr
+  - Geleedpotigen
+  - Artropòdes
+  - stawonogi
+  - Artrópode
+  - Artropode
+  - Artropodu
+  - Článkonožce
+  - Členonožci
+  - Зглавкари
+  - Leddjur
+  - "[[:w:ta:கணுக்காலி"
+  - Eklem bacaklılar
+  - Членистоногі
+  - Động vật chân đốt
+  - 節肢動物門
+  - 节肢动物门
+has_id_wikidata: Q1360
 Commons_category: Arthropoda
 described_by_source:
   - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -16,7 +63,6 @@ different_from:
   - "[[_Standards/WikiData/WD~Arthropoda,21385261]]"
   - "[[_Standards/WikiData/WD~Arthropoda,116480554]]"
 EPPO_Code: 1ARTHP
-has_id_wikidata: Q1360
 Iconclass_notation: 25F71
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Abludomelita%20obtusata.jpg
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
@@ -89,7 +135,7 @@ Unicode_character: 🐛
 union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 ---
 
-# [[Arthropoda]] 
+# [[Arthropoda]] 🐛 
 
 ![Eumorpha achemon moth](Arthropoda/Eumorpha_achemon.jpg)  ![jumping spider](Arthropoda/jumping_spider.gif)  ![Crangon septemspinosa](Arthropoda/Crangon_septemspinosa.gif) 
 

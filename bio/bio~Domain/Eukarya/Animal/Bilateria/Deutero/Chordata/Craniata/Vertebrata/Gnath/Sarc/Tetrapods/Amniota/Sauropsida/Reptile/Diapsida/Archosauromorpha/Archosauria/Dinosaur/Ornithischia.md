@@ -1,8 +1,8 @@
 ---
-title: Ornithischia
 aliases:
   - Ornithischia
   - Vogelbecken-Dinosaurier
+title: Ornithischia
 ---
 
 # [[Ornithischia]]

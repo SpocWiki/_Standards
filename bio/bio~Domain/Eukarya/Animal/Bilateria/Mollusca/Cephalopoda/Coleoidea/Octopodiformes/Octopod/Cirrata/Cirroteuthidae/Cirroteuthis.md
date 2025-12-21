@@ -1,5 +1,7 @@
 ---
-title: "Cirroteuthis muelleri"
+aliases:
+  - Cirroteuthis
+title: Cirroteuthis muelleri
 ---
 
 ## Phylogeny 

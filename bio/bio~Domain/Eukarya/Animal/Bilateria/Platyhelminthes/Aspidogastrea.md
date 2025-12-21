@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Aspidogastrea
 title: Aspidogastrea
 ---
 

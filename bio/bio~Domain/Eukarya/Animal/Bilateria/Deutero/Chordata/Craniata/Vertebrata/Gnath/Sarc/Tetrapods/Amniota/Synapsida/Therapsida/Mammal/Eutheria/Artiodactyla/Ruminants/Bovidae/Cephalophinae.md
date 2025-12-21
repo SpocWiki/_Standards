@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cephalophinae
 title: Cephalophinae
 ---
 

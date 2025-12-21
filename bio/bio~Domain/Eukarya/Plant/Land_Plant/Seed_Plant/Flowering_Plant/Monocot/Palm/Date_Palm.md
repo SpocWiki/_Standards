@@ -1,30 +1,46 @@
 ---
 aliases:
   - Phoenix dactylifera
+  - Date_Palm
+  - Date Palm
+  - date palm
+  - 海枣
+  - palmera datilera
+  - آبدندان
+  - välimerentaateli
+  - palma da datteri
+  - datljeva palma
+  - 无漏子
+  - 仙枣
+  - 伊拉克枣
+  - 枣椰子
+  - 波斯枣
+  - 海棕
+  - 番枣
 has_id_wikidata: Q25292
 has_use:
-  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
-  - "[[_Standards/WikiData/WD~afforestation,2384419]]"
-  - "[[_Standards/WikiData/WD~food,2095]]"
-  - "[[../../../../../../../../../WikiData/WD~fiber,161]]"
+  - '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+  - '[[_Standards/WikiData/WD~afforestation,2384419]]'
+  - '[[_Standards/WikiData/WD~food,2095]]'
+  - '[[../../../../../../../../../WikiData/WD~fiber,161]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Flora_of_the_Lesser_Antilles,_Leeward_and_Windward_Islands,10878728]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Flora_of_the_Lesser_Antilles,_Leeward_and_Windward_Islands,10878728]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_13(1),112869385]]"
+  - '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_13(1),112869385]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~date,1652093]]"
-  - "[[_Standards/WikiData/WD~date_juice,13057671]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+  - '[[_Standards/WikiData/WD~date,1652093]]'
+  - '[[_Standards/WikiData/WD~date_juice,13057671]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 taxon_range:
-  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
-  - "[[_Standards/WikiData/WD~Fujian,41705]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Phoenix,27685]]"
-ITIS_TSN: "42458"
+  - '[[_Standards/WikiData/WD~Guangdong,15175]]'
+  - '[[_Standards/WikiData/WD~Fujian,41705]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Phoenix,27685]]'
+ITIS_TSN: 42458
 taxon_common_name:
   - date palm
   - 海枣
@@ -43,7 +59,7 @@ taxon_common_name:
   - 海棕
   - 番枣
 taxon_author_citation: L.
-USDA_NDB_number: "09421"
+USDA_NDB_number: 09421
 Commons_gallery: Phoenix dactylifera
 Commons_category: Phoenix dactylifera
 taxon_name: Phoenix dactylifera

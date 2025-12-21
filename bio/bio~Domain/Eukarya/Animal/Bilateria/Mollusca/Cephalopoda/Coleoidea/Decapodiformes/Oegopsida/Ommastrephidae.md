@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ommastrephidae
 title: Ommastrephidae
 ---
 

@@ -3,55 +3,111 @@ aliases:
   - coconut palm
   - coconut tree
   - Cocos nucifera
+  - Coconut_Palm
+  - Coconut Palm
+  - coconut
+  - نارگیل
+  - नारियल
+  - Coconut
+  - niu
+  - 椰子
+  - തെങ്ങ്
+  - Kokospalme
+  - Kalapa
+  - Kokosnöt
+  - Mnazi (mti)
+  - Nuu-hun
+  - มะพร้าว
+  - Hindistan cevizi
+  - Dừa
+  - 可可椰子
+  - 奶桃
+  - 椰子（椰树）
+  - 椰子壳
+  - 椰子根
+  - 椰子油
+  - 椰子浆
+  - 椰子瓤
+  - 椰根
+  - קוקוס
+  - ココナッツ
+  - Coqueiro
+  - Coco
+  - Cocotier
+  - Kelapa
+  - Kube
+  - فارسی
+  - cocotal
+  - Cocoter
+  - kokosovník ořechoplodý
+  - Kokos
+  - Néti
+  - Kokoso
+  - Cocotero
+  - Kookospalmu
+  - ololani
+  - Kokosova palma
+  - Kókuszpálma
+  - palma da cocco
+  - Riešutinė kokospalmė
+  - Кокосова палма
+  - Pokok Kelapa
+  - Iâ-á
+  - Kokosnøtt
+  - Kokospalm
+  - palma kokosowa
+  - Кокосовая пальма
+  - පොල්
+  - navadna kokosova palma
 has_id_wikidata: Q13187
 has_use:
-  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
-  - "[[_Standards/WikiData/WD~afforestation,2384419]]"
-  - "[[_Standards/WikiData/WD~wood,287]]"
-  - "[[_Standards/WikiData/WD~fruit,1364]]"
-  - "[[_Standards/WikiData/WD~food,2095]]"
-  - "[[../../../../../../../../../WikiData/WD~fiber,161]]"
+  - '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+  - '[[_Standards/WikiData/WD~afforestation,2384419]]'
+  - '[[_Standards/WikiData/WD~wood,287]]'
+  - '[[_Standards/WikiData/WD~fruit,1364]]'
+  - '[[_Standards/WikiData/WD~food,2095]]'
+  - '[[../../../../../../../../../WikiData/WD~fiber,161]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~copra,193726]]"
-  - "[[_Standards/WikiData/WD~coconut_oil,216235]]"
-  - "[[_Standards/WikiData/WD~coconut_water,633401]]"
-  - "[[_Standards/WikiData/WD~coir,1029620]]"
-  - "[[_Standards/WikiData/WD~coconut,3342808]]"
-  - "[[_Standards/WikiData/WD~coconut_timber,5139862]]"
-  - "[[_Standards/WikiData/WD~coconut_sugar,5139861]]"
-  - "[[_Standards/WikiData/WD~Coconut_oil,11981420]]"
-  - "[[_Standards/WikiData/WD~coconut_shell,16137729]]"
-  - "[[_Standards/WikiData/WD~coconut_leaf,107564994]]"
+  - '[[_Standards/WikiData/WD~copra,193726]]'
+  - '[[_Standards/WikiData/WD~coconut_oil,216235]]'
+  - '[[_Standards/WikiData/WD~coconut_water,633401]]'
+  - '[[_Standards/WikiData/WD~coir,1029620]]'
+  - '[[_Standards/WikiData/WD~coconut,3342808]]'
+  - '[[_Standards/WikiData/WD~coconut_timber,5139862]]'
+  - '[[_Standards/WikiData/WD~coconut_sugar,5139861]]'
+  - '[[_Standards/WikiData/WD~Coconut_oil,11981420]]'
+  - '[[_Standards/WikiData/WD~coconut_shell,16137729]]'
+  - '[[_Standards/WikiData/WD~coconut_leaf,107564994]]'
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Flora_of_the_Lesser_Antilles,_Leeward_and_Windward_Islands,10878728]]"
-  - "[[_Standards/WikiData/WD~Q19133013,19133013]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_13(1),112869385]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfzehnter_Band,136385610]]"
-subclass_of: "[[_Standards/WikiData/WD~useful_plant,11992872]]"
-parent_taxon: "[[_Standards/WikiData/WD~Cocos,13099531]]"
-seed_dispersal: "[[_Standards/WikiData/WD~nautochory,28772043]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-hardiness_of_plant: "[[_Standards/WikiData/WD~10,99549892]]"
-NZTCS_conservation_status: "[[_Standards/WikiData/WD~vagrant,108448817]]"
+  - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Flora_of_the_Lesser_Antilles,_Leeward_and_Windward_Islands,10878728]]'
+  - '[[_Standards/WikiData/WD~Q19133013,19133013]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_13(1),112869385]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfzehnter_Band,136385610]]'
+subclass_of: '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+parent_taxon: '[[_Standards/WikiData/WD~Cocos,13099531]]'
+seed_dispersal: '[[_Standards/WikiData/WD~nautochory,28772043]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~10,99549892]]'
+NZTCS_conservation_status: '[[_Standards/WikiData/WD~vagrant,108448817]]'
 start_time: -55000000-01-01T00:00:00Z
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-has_fruit_type: "[[_Standards/WikiData/WD~drupe,14712]]"
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+has_fruit_type: '[[_Standards/WikiData/WD~drupe,14712]]'
 taxon_range:
-  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
-  - "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
-  - "[[_Standards/WikiData/WD~Fujian,41705]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-USDA_NDB_number: "12104"
-ITIS_TSN: "42451"
-U_S_National_Archives_Identifier: "10638306"
-OmegaWiki_Defined_Meaning: "1311390"
+  - '[[_Standards/WikiData/WD~Guangdong,15175]]'
+  - '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
+  - '[[_Standards/WikiData/WD~Fujian,41705]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+USDA_NDB_number: 12104
+ITIS_TSN: 42451
+U_S_National_Archives_Identifier: 10638306
+OmegaWiki_Defined_Meaning: 1311390
 Flora_of_the_Hawaiian_Islands_URL: https://naturalhistory2.si.edu/botany/hawaiianflora/speciesdescr.cfm?genus=Cocos&species=nucifera
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%A8%E0%A8%BE%E0%A8%B0%E0%A9%80%E0%A8%85%E0%A8%B2.oga
@@ -129,10 +185,10 @@ Australasian_Pollen_and_Spore_Atlas_Code_archived_:
 UNII: 245J88W96L
 Universal_Decimal_Classification:
   - 582.511.2
-  - "634.616"
+  - 634.616
 Dewey_Decimal_Classification:
-  - "584.5"
-  - "634.61"
+  - 584.5
+  - 634.61
 Krugosvet_article_archived_: biologiya/kokosovaya-palma
 EPPO_Code: CCNNU
 Commons_category: Cocos nucifera

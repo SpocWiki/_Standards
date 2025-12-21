@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Chiroteuthis
 title: Chiroteuthis
 ---
 

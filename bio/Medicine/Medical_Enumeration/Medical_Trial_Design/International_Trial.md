@@ -4,21 +4,23 @@ aliases:
   - international_trial
   - InternationalTrial
   - is_an_international_trial
+  - International_Trial
+  - International Trial
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalTrialDesign
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - international_trial
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_international_trial Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

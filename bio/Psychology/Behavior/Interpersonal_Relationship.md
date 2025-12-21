@@ -1,16 +1,18 @@
 ---
 aliases:
-  - interpersonal relation 
+  - interpersonal relation
   - interpersonal relationship
+  - Interpersonal_Relationship
+  - Interpersonal Relationship
 has_id_wikidata: Q223642
-subclass_of: "[[_Standards/WikiData/WD~social_relation,853725]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~social_behavior,921513]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_relationships,7112715]]"
+subclass_of: '[[_Standards/WikiData/WD~social_relation,853725]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~social_behavior,921513]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_relationships,7112715]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Close_relationships,7641127]]"
-  - "[[_Standards/WikiData/WD~Template_Interpersonal_relationships_footer,20333655]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_relation,130324710]]"
+  - '[[_Standards/WikiData/WD~Template_Close_relationships,7641127]]'
+  - '[[_Standards/WikiData/WD~Template_Interpersonal_relationships_footer,20333655]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_relation,130324710]]'
 Commons_category: Relationships
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20Sailor%20hugs%20his%20wife.jpg
 equivalent_class: https://www.w3.org/ns/activitystreams#Relationship

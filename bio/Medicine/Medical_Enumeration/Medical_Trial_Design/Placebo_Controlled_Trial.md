@@ -4,21 +4,23 @@ aliases:
   - placebo_controlled_trial
   - PlaceboControlledTrial
   - is_a_placebo_controlled_trial
+  - Placebo_Controlled_Trial
+  - Placebo Controlled Trial
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalTrialDesign
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - placebo_controlled_trial
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_placebo_controlled_trial Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

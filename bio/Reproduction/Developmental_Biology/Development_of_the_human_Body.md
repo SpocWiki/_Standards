@@ -1,19 +1,21 @@
 ---
 aliases:
   - Development of the human body
+  - Development_of_the_human_Body
+  - Development of the human Body
 has_id_wikidata: Q2347178
-different_from: "[[_Standards/WikiData/WD~human_development,2917873]]"
-has_effect: "[[_Standards/WikiData/WD~personality_development,3520110]]"
+different_from: '[[_Standards/WikiData/WD~human_development,2917873]]'
+has_effect: '[[_Standards/WikiData/WD~personality_development,3520110]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Human_development,6987795]]"
-  - "[[_Standards/WikiData/WD~Template_Organ_system_development,96034308]]"
-instance_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - '[[_Standards/WikiData/WD~Template_Human_development,6987795]]'
+  - '[[_Standards/WikiData/WD~Template_Organ_system_development,96034308]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~animal_development,41805950]]"
-  - "[[_Standards/WikiData/WD~education,8434]]"
-  - "[[_Standards/WikiData/WD~health,12147]]"
-  - "[[_Standards/WikiData/WD~sociology,21201]]"
-characteristic_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~animal_development,41805950]]'
+  - '[[_Standards/WikiData/WD~education,8434]]'
+  - '[[_Standards/WikiData/WD~health,12147]]'
+  - '[[_Standards/WikiData/WD~sociology,21201]]'
+characteristic_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_category: Human development
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Human%20development%20stages%20%28collage%29.jpg
 UMLS_CUI: C0020119

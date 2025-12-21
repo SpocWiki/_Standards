@@ -1,6 +1,7 @@
 ---
 aliases:
   - Intelligenz
+  - Intelligence
 has_id_wikidata: Q83500
 ---
 

@@ -1,9 +1,72 @@
 ---
-has_id_wikidata: Q132922
 aliases:
   - Mongolian camel
   - two-humped camel
   - double humped camel
+  - Bactrian_camel
+  - Bactrian camel
+  - شتر دوکوهانه
+  - Kaksikyttyräinen kameli
+  - Kameli
+  - Chameau de Bactriane
+  - גמל דו-דבשתי
+  - Dvogrba deva
+  - Kétpúpú teve
+  - Camelo
+  - Unta Baktria
+  - Kameldýr
+  - Cammello
+  - フタコブラクダ
+  - Айыр өркешті түйе
+  - 쌍봉낙타
+  - Төө
+  - эки өркөчтүү
+  - Dvikupris kupranugaris
+  - Кокпӱгыран тӱе
+  - ബാക്ട്രീയൻ ഒട്ടകം
+  - Baktriakamel
+  - Ghą́ą́ʼnaakiskʼidii
+  - Wielbłąd dwugarbny
+  - camelo-asiático
+  - camelo-bactriano
+  - Двугорбый верблюд
+  - Camiddu
+  - Baktrijska kamila
+  - dvogrba kamela
+  - Двогрба камила
+  - Dwupuklato kamela
+  - இரட்டைத்திமில் ஒட்டகம்
+  - Çift hörgüçlü
+  - ئوتتۇرا ئاسىيا ياۋا تۆگىسى
+  - Двогорбий верблюд
+  - Lạc đà hai bướu
+  - 雙峰駱駝
+  - 双峰骆驼
+  - 野骆驼
+  - ťava
+  - baktrian
+  - Trampeltier
+  - deve
+  - Kamel
+  - Kameel
+  - Baktriese kameel
+  - جمل ذو سنامين
+  - camellu bactrianu
+  - İkihürgüclü dəvə
+  - Вярблюд двухгорбы
+  - Двугърба камила
+  - Kañval Baktria
+  - Camell bactrià
+  - Cammellu
+  - velbloud dvouhrbý
+  - Baktrisches Kamel
+  - Zweihöckriges Kamel
+  - Κάμηλος η βακτριανή
+  - Baktria kamelo
+  - camello asiático
+  - Camello bactriano
+  - Gamelu
+has_id_wikidata: Q132922
 taxon_common_name:
   - شتر دوکوهانه
   - Kaksikyttyräinen kameli
@@ -84,7 +147,7 @@ taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
 has_use: "[[_Standards/WikiData/WD~transport,7590]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 longest_observed_lifespan: 35.4
-ITIS_TSN: "625026"
+ITIS_TSN: 625026
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/2011%20Trampeltier%201528.JPG
   - http://commons.wikimedia.org/wiki/Special:FilePath/202406%20Bactrian%20camel.svg
@@ -93,7 +156,7 @@ image:
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bactriancamel-range.png
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Bactrian%20Camel%20%28intro%29.ogg
 Unicode_character: 🐫
-P8189: "987007293653705171"
+P8189: 987007293653705200
 Commons_gallery: Camelus bactrianus
 Commons_category: Camelus bactrianus
 taxon_name: Camelus bactrianus
@@ -105,7 +168,7 @@ NBN_System_Key: NHMSYS0020975294
 UNII: U2064W5CCV
 ---
 
-# [[Bactrian_camel]] 
+# [[Bactrian_camel]] 🐫 
 
 ![[Camelus_bactrianus.jpg]] 
 

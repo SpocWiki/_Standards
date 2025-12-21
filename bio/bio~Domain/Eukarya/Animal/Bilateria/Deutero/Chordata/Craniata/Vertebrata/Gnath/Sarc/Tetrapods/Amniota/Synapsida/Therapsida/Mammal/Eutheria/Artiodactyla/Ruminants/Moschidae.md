@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Moschidae
 title: Moschidae
 ---
 

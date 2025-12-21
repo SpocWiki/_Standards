@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Octopodiformes
 title: Octopodiformes
 ---
 

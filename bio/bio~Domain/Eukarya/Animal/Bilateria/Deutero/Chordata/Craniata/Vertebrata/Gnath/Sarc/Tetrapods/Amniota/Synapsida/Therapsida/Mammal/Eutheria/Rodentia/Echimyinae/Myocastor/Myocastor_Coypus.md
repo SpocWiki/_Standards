@@ -4,7 +4,20 @@ aliases:
   - coypu
   - Myocastor coypus
   - Wasserschwein
-  - 
+  - ''
+  - Myocastor_Coypus
+  - Myocastor Coypus
+  - coipú
+  - Nutria, Sumpfbiber
+  - Coypu
+  - coypu, nutria
+  - ragondin
+  - sumpbever
+  - beverrat
+  - Nutria
+  - Sumpfbiber
+  - nutrie
+  - nutrija
 has_id_wikidata: Q187704
 UNII: KP9TW0VFWD
 EPPO_Code: MYOCCO
@@ -23,23 +36,23 @@ taxon_common_name:
   - nutrija
   - Nutria
 short_name: M. coypus
-taxon_range: "[[_Standards/WikiData/WD~Canoas,194325]]"
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
+taxon_range: '[[_Standards/WikiData/WD~Canoas,194325]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~nutria_fur,2005595]]"
-  - "[[_Standards/WikiData/WD~nutria_meat,104176416]]"
-parent_taxon: "[[_Standards/WikiData/WD~Myocastor,10795801]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-Status_in_the_Red_List_of_Threatened_Species_in_the_Czech_Republic: "[[_Standards/WikiData/WD~not_evaluated,56660255]]"
-diel_cycle: "[[_Standards/WikiData/WD~nocturnal,101029366]]"
-original_combination: "[[_Standards/WikiData/WD~Mus_coypus,125856651]]"
-invasive_to: "[[_Standards/WikiData/WD~European_Union,458]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[_Standards/WikiData/WD~nutria_fur,2005595]]'
+  - '[[_Standards/WikiData/WD~nutria_meat,104176416]]'
+parent_taxon: '[[_Standards/WikiData/WD~Myocastor,10795801]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+Status_in_the_Red_List_of_Threatened_Species_in_the_Czech_Republic: '[[_Standards/WikiData/WD~not_evaluated,56660255]]'
+diel_cycle: '[[_Standards/WikiData/WD~nocturnal,101029366]]'
+original_combination: '[[_Standards/WikiData/WD~Mus_coypus,125856651]]'
+invasive_to: '[[_Standards/WikiData/WD~European_Union,458]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 litter_size: 4.5
 mass:
   - 6.7
@@ -47,7 +60,7 @@ mass:
   - 6.36
 longest_observed_lifespan: 8.5
 gestation_period: 133
-ITIS_TSN: "180402"
+ITIS_TSN: 180402
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Myocastor%20coypus%20-%20ragondin.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/202401%20Myocastor%20coypus.svg

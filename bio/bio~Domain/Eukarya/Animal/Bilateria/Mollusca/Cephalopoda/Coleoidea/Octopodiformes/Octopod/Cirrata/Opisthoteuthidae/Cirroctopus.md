@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cirroctopus
 title: Cirroctopus
 ---
 

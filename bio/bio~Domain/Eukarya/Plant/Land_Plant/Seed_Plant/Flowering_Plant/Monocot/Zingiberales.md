@@ -1,7 +1,8 @@
 ---
-title: Zingiberanae
 aliases:
   - Zingiberanae
+  - Zingiberales
+title: Zingiberanae
 ---
 
 # [[Zingiberales]]

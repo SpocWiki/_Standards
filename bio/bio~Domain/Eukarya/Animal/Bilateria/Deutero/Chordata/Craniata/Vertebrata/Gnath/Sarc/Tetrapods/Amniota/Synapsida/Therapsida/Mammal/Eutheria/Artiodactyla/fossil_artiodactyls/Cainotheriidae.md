@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cainotheriidae
 title: Cainotheriidae
 ---
 

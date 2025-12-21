@@ -1,8 +1,9 @@
 ---
-title: Sauropodomorpha
 aliases:
   - sauropod
-has_id_wikidata:
+  - Sauropodomorpha
+has_id_wikidata: ''
+title: Sauropodomorpha
 ---
 
 # [[Sauropodomorpha]] 

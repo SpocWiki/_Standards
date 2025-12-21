@@ -1,7 +1,7 @@
 ---
 aliases:
-- Plexippinae
-- Plexippini
+  - Plexippinae
+  - Plexippini
 title: Plexippinae
 ---
 

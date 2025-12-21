@@ -1,79 +1,82 @@
 ---
+aliases:
+  - Myocardial_Infarction
+  - Myocardial Infarction
+has_id_wikidata: Q12152
 afflicts: '[[_Standards/WikiData/WD~coronary_artery,18361829]]'
-Commons_category: "Myocardial infarction"
+Commons_category: Myocardial infarction
 DiseasesDB: 8664
 drug_or_therapy_used_for_treatment:
-- '[[_Standards/WikiData/WD~(RS)-metoprolol,409468]]'
-- '[[_Standards/WikiData/WD~verapamil,410291]]'
-- '[[_Standards/WikiData/WD~atenolol,411325]]'
-- '[[_Standards/WikiData/WD~bisoprolol,412515]]'
-- '[[_Standards/WikiData/WD~carvedilol,412534]]'
-- '[[_Standards/WikiData/WD~(S)-(_)-timolol,413994]]'
-- '[[_Standards/WikiData/WD~tirofiban,415366]]'
-- '[[_Standards/WikiData/WD~Streptokinase,416485]]'
-- '[[_Standards/WikiData/WD~pindolol,418101]]'
-- '[[_Standards/WikiData/WD~esmolol,418139]]'
-- '[[_Standards/WikiData/WD~acebutolol,418857]]'
-- '[[_Standards/WikiData/WD~diltiazem,422229]]'
-- '[[_Standards/WikiData/WD~propranolol,423364]]'
-- '[[_Standards/WikiData/WD~nadolol,424952]]'
-- '[[_Standards/WikiData/WD~penbutolol,944244]]'
-- '[[_Standards/WikiData/WD~labetalol,958087]]'
-- '[[_Standards/WikiData/WD~tenecteplase,1644947]]'
-- '[[_Standards/WikiData/WD~dalteparin,1851701]]'
-- '[[_Standards/WikiData/WD~eptifibatide,2295855]]'
-- '[[_Standards/WikiData/WD~pharmaceutical_preparation_of_nitroglycerin,3221044]]'
-- '[[_Standards/WikiData/WD~anisindione,3617574]]'
-- '[[_Standards/WikiData/WD~sulfinpyrazone,3790542]]'
-- '[[_Standards/WikiData/WD~anistreplase,4765471]]'
-- '[[_Standards/WikiData/WD~esatenolol,24255323]]'
-- '[[_Standards/WikiData/WD~urokinase,110969665]]'
+  - '[[_Standards/WikiData/WD~(RS)-metoprolol,409468]]'
+  - '[[_Standards/WikiData/WD~verapamil,410291]]'
+  - '[[_Standards/WikiData/WD~atenolol,411325]]'
+  - '[[_Standards/WikiData/WD~bisoprolol,412515]]'
+  - '[[_Standards/WikiData/WD~carvedilol,412534]]'
+  - '[[_Standards/WikiData/WD~(S)-(_)-timolol,413994]]'
+  - '[[_Standards/WikiData/WD~tirofiban,415366]]'
+  - '[[_Standards/WikiData/WD~Streptokinase,416485]]'
+  - '[[_Standards/WikiData/WD~pindolol,418101]]'
+  - '[[_Standards/WikiData/WD~esmolol,418139]]'
+  - '[[_Standards/WikiData/WD~acebutolol,418857]]'
+  - '[[_Standards/WikiData/WD~diltiazem,422229]]'
+  - '[[_Standards/WikiData/WD~propranolol,423364]]'
+  - '[[_Standards/WikiData/WD~nadolol,424952]]'
+  - '[[_Standards/WikiData/WD~penbutolol,944244]]'
+  - '[[_Standards/WikiData/WD~labetalol,958087]]'
+  - '[[_Standards/WikiData/WD~tenecteplase,1644947]]'
+  - '[[_Standards/WikiData/WD~dalteparin,1851701]]'
+  - '[[_Standards/WikiData/WD~eptifibatide,2295855]]'
+  - '[[_Standards/WikiData/WD~pharmaceutical_preparation_of_nitroglycerin,3221044]]'
+  - '[[_Standards/WikiData/WD~anisindione,3617574]]'
+  - '[[_Standards/WikiData/WD~sulfinpyrazone,3790542]]'
+  - '[[_Standards/WikiData/WD~anistreplase,4765471]]'
+  - '[[_Standards/WikiData/WD~esatenolol,24255323]]'
+  - '[[_Standards/WikiData/WD~urokinase,110969665]]'
 exact_match:
-- "http://identifiers.org/doid/DOID:5844"
-- "http://purl.obolibrary.org/obo/DOID_5844"
-- "http://purl.obolibrary.org/obo/HP_0001658"
+  - http://identifiers.org/doid/DOID:5844
+  - http://purl.obolibrary.org/obo/DOID_5844
+  - http://purl.obolibrary.org/obo/HP_0001658
 genetic_association:
-- '[[_Standards/WikiData/WD~PLCL2,18037015]]'
-- '[[_Standards/WikiData/WD~WDR12,18042029]]'
-- '[[_Standards/WikiData/WD~PHACTR1,18053521]]'
-- '[[_Standards/WikiData/WD~MIA3,18056131]]'
+  - '[[_Standards/WikiData/WD~PLCL2,18037015]]'
+  - '[[_Standards/WikiData/WD~WDR12,18042029]]'
+  - '[[_Standards/WikiData/WD~PHACTR1,18053521]]'
+  - '[[_Standards/WikiData/WD~MIA3,18056131]]'
 has_effect: '[[_Standards/WikiData/WD~heart_failure,181754]]'
-has_id_wikidata: Q12152
 health_specialty: '[[_Standards/WikiData/WD~cardiology,10379]]'
 ICD_10_CM:
-- I21
-- I22
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Heart%20attack%20diagram.png"
+  - I21
+  - I22
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Heart%20attack%20diagram.png
 instance_of:
-- '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
-- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
-- '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+  - '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+  - '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
 MeSH_tree_code:
-- C14.907.585.500
-- C23.550.513.355.750
-- C23.550.717.489.750
-- C14.280.647.500
+  - C14.907.585.500
+  - C23.550.513.355.750
+  - C23.550.717.489.750
+  - C14.280.647.500
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 PubMed_Health: PMH0001246
 risk_factor:
-- '[[_Standards/WikiData/WD~smoking,662860]]'
-- '[[_Standards/WikiData/WD~hypercholesterolemia,762713]]'
-- '[[_Standards/WikiData/WD~sedentary_lifestyle,1349358]]'
-- '[[_Standards/WikiData/WD~tobacco_smoking,7212330]]'
-- '[[_Standards/WikiData/WD~obesity,12174]]'
-- '[[_Standards/WikiData/WD~diabetes,12206]]'
-- '[[_Standards/WikiData/WD~arterial_hypertension,41861]]'
+  - '[[_Standards/WikiData/WD~smoking,662860]]'
+  - '[[_Standards/WikiData/WD~hypercholesterolemia,762713]]'
+  - '[[_Standards/WikiData/WD~sedentary_lifestyle,1349358]]'
+  - '[[_Standards/WikiData/WD~tobacco_smoking,7212330]]'
+  - '[[_Standards/WikiData/WD~obesity,12174]]'
+  - '[[_Standards/WikiData/WD~diabetes,12206]]'
+  - '[[_Standards/WikiData/WD~arterial_hypertension,41861]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~ischemia,188151]]'
-- '[[_Standards/WikiData/WD~infarction,207550]]'
-- '[[_Standards/WikiData/WD~coronary_artery_disease,844935]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
+  - '[[_Standards/WikiData/WD~ischemia,188151]]'
+  - '[[_Standards/WikiData/WD~infarction,207550]]'
+  - '[[_Standards/WikiData/WD~coronary_artery_disease,844935]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
 symptoms_and_signs:
-- '[[_Standards/WikiData/WD~edema,152234]]'
-- '[[_Standards/WikiData/WD~necrosis,178069]]'
-- '[[_Standards/WikiData/WD~angina_pectoris,180762]]'
-- '[[_Standards/WikiData/WD~nausea,186889]]'
-- '[[_Standards/WikiData/WD~chest_pain,693058]]'
+  - '[[_Standards/WikiData/WD~edema,152234]]'
+  - '[[_Standards/WikiData/WD~necrosis,178069]]'
+  - '[[_Standards/WikiData/WD~angina_pectoris,180762]]'
+  - '[[_Standards/WikiData/WD~nausea,186889]]'
+  - '[[_Standards/WikiData/WD~chest_pain,693058]]'
 UMLS_CUI: C0027051
 ---
 

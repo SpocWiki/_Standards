@@ -4,37 +4,48 @@ aliases:
   - Olive tree
   - Olea europaea
   - Olea_europaea
+  - divja oljka
+  - 木樨榄
+  - 木犀榄
+  - 欧洲橄榄
+  - 洋橄揽
+  - 油橄榄
+  - 齐墩果
+  - olive
+  - olive tree
+  - 牛白藤根
+  - Olienhout
+has_id_wikidata: Q37083
 Commons_category: Olea europaea
 Commons_gallery: Olea europaea
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_61,112869463]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_61,112869463]]'
 EPPO_Code: OLVEU
-foliage_type: "[[_Standards/WikiData/WD~evergreen_plant,190489]]"
+foliage_type: '[[_Standards/WikiData/WD~evergreen_plant,190489]]'
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=25555
-hardiness_of_plant: "[[_Standards/WikiData/WD~8,99549220]]"
-has_fruit_type: "[[_Standards/WikiData/WD~drupe,14712]]"
-has_id_wikidata: Q37083
+hardiness_of_plant: '[[_Standards/WikiData/WD~8,99549220]]'
+has_fruit_type: '[[_Standards/WikiData/WD~drupe,14712]]'
 has_use:
-  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
-  - "[[_Standards/WikiData/WD~afforestation,2384419]]"
-  - "[[_Standards/WikiData/WD~food,2095]]"
+  - '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+  - '[[_Standards/WikiData/WD~afforestation,2384419]]'
+  - '[[_Standards/WikiData/WD~food,2095]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/El%20Perell%C3%B3%20-%20Old%20olive%20tree.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 32990
 Krugosvet_article: nauka_i_tehnika/biologiya/MASLINA_EVROPESKAYA.html
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 OmegaWiki_Defined_Meaning: 1041875
-parent_taxon: "[[_Standards/WikiData/WD~Olea,296910]]"
+parent_taxon: '[[_Standards/WikiData/WD~Olea,296910]]'
 short_name:
   - O. europaea
 start_time: -60000-01-01
 subclass_of:
-  - "[[_Standards/WikiData/WD~useful_plant,11992872]]"
-  - "[[_Standards/WikiData/WD~tree,10884]]"
+  - '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+  - '[[_Standards/WikiData/WD~tree,10884]]'
 taxon_author_citation: L.
 taxon_common_name:
   - divja oljka
@@ -53,16 +64,16 @@ taxon_common_name:
   - Olienhout
 taxon_name: Olea europaea
 taxon_range:
-  - "[[_Standards/WikiData/WD~Mediterranean_Basin,72499]]"
-  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
-  - "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
+  - '[[_Standards/WikiData/WD~Mediterranean_Basin,72499]]'
+  - '[[_Standards/WikiData/WD~Guangdong,15175]]'
+  - '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Olea%20europaea%20range.svg
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~olive,1621080]]"
-  - "[[_Standards/WikiData/WD~olive_leaf,7087231]]"
-  - "[[_Standards/WikiData/WD~olive_wood,35101402]]"
+  - '[[_Standards/WikiData/WD~olive,1621080]]'
+  - '[[_Standards/WikiData/WD~olive_leaf,7087231]]'
+  - '[[_Standards/WikiData/WD~olive_wood,35101402]]'
 UNII: 769297N5OK
 UNSPSC_Code: 10161501
 ---

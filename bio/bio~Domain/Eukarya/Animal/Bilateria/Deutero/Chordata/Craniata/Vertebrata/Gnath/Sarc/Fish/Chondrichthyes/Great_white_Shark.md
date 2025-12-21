@@ -4,6 +4,72 @@ aliases:
   - white shark
   - white pointer
   - great white
+  - Great_white_Shark
+  - Great white Shark
+  - tiburón blancu
+  - Böyük ağ köpəkbalığı
+  - Голяма бяла акула
+  - সাদা হাঙ্গর
+  - Rinkin gwenn
+  - Velika bijela ajkula
+  - Tauró blanc
+  - žralok bílý
+  - Hvid haj
+  - Weißer Hai
+  - ފެމުނު މިޔަރު
+  - Μεγάλος λευκός καρχαρίας
+  - Mõrtsukhai
+  - Marrazo zuri
+  - کوسه بزرگ سفید
+  - Valkohai
+  - Grand requin blanc
+  - Siorc bán mór
+  - Quenlla branca
+  - עמלציים
+  - קרחה לבנה
+  - pas ljudožder
+  - Velika bijela psina
+  - Fehér cápa
+  - Hiu putih.
+  - Hvíthákarl
+  - Squalo bianco
+  - ホホジロザメ
+  - Hiu putih
+  - თეთრი ზვიგენი
+  - Үлкен ақ акула
+  - 백상아리
+  - Didysis baltasis ryklys
+  - Lielā baltā haizivs
+  - Аврага цагаан загас
+  - Toā-pe̍h-soa
+  - Hvithai
+  - Witte haai
+  - Kvithai
+  - Łóóʼ hashkéhétsoh
+  - Żarłacz biały
+  - چٹی وڈی شارک
+  - Tubarão-branco
+  - Белая акула
+  - Žralok modrý (Carcharodon carcharias)
+  - beli morski volk
+  - Велика бела ајкула
+  - Vithaj
+  - வெள்ளைச் சுறா
+  - ปลาฉลามขาว
+  - Büyük beyaz köpek balığı
+  - Акула біла
+  - Yirik oq akula
+  - Cá mập trắng lớn
+  - 噬人鯊
+  - 大白鯊
+  - 食人鮫
+  - 食人鯊
+  - jaquetón
+  - Gran tiburón blanco
+  - 大白鲨
+  - Great White Shark
+  - withaai
+  - قرش أبيض كبير
 has_id_wikidata: Q129026
 taxon_common_name:
   - tiburón blancu
@@ -75,22 +141,22 @@ taxon_common_name:
 short_name: C. carcharias
 start_time: -16000000-06
 taxon_range:
-  - "[[_Standards/WikiData/WD~Gulf_of_California,132811]]"
-  - "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
-  - "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
-  - "[[_Standards/WikiData/WD~Gulf_of_Mexico,12630]]"
-  - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
-  - "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Vulnerable,278113]]"
-CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]"
-original_combination: "[[_Standards/WikiData/WD~Squalus_carcharias,48410245]]"
-NZTCS_conservation_status: "[[_Standards/WikiData/WD~nationally_endangered,108449541]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[_Standards/WikiData/WD~Gulf_of_California,132811]]'
+  - '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
+  - '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
+  - '[[_Standards/WikiData/WD~Gulf_of_Mexico,12630]]'
+  - '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+  - '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Vulnerable,278113]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
+original_combination: '[[_Standards/WikiData/WD~Squalus_carcharias,48410245]]'
+NZTCS_conservation_status: '[[_Standards/WikiData/WD~nationally_endangered,108449541]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 gestation_period: 18
 mass: 2400
 life_expectancy: 73
-ITIS_TSN: "159903"
+ITIS_TSN: 159903
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/202410%20Great%20white%20shark.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Great%20white%20shark.jpg

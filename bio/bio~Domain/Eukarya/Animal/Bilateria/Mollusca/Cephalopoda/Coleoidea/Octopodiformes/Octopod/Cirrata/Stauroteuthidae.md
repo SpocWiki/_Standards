@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Stauroteuthidae
 title: Stauroteuthis
 ---
 

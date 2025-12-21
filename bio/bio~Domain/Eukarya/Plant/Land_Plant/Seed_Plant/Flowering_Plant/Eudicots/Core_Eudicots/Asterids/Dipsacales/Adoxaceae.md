@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Adoxaceae
 title: Adoxaceae
 ---
 

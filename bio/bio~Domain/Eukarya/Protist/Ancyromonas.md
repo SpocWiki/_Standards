@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ancyromonas
 title: Ancyromonas
 ---
 

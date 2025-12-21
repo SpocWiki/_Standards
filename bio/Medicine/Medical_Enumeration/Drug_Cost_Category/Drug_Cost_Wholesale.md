@@ -4,21 +4,23 @@ aliases:
   - wholesale
   - Wholesale
   - is_a_wholesale
+  - Drug_Cost_Wholesale
+  - Drug Cost Wholesale
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: DrugCostCategory
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - wholesale
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_wholesale Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

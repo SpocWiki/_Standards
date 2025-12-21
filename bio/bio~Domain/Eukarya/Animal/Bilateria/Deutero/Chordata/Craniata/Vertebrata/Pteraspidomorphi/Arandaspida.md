@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Arandaspida
 title: Arandaspida
 ---
 

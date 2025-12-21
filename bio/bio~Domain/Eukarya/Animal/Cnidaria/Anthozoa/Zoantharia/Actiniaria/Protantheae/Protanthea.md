@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Protanthea
 title: Protanthea
 ---
 

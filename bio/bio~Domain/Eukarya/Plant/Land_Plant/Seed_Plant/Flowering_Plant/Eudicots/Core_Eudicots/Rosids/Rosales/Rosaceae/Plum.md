@@ -1,9 +1,9 @@
 ---
 aliases:
-- Plum
-- Plums
-- Pflaume
-- Pflaumen
+  - Plum
+  - Plums
+  - Pflaume
+  - Pflaumen
 ---
 
 # [[Plum]] 

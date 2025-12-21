@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Nemertea
 title: Nemertea
 ---
 

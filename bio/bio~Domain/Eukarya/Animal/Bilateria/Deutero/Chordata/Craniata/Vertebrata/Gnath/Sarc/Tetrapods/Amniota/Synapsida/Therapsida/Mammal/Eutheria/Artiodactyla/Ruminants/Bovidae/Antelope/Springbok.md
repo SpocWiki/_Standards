@@ -1,10 +1,11 @@
 ---
 aliases:
-- "Antidorcas marsupialis"
-- springbok
-- Springbock
-- springbuck
-title: "Antidorcas marsupialis"
+  - Antidorcas marsupialis
+  - springbok
+  - Springbock
+  - springbuck
+  - Springbok
+title: Antidorcas marsupialis
 ---
 
 [Temporary Page](tree/home.pages/pagestatus.html)

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Hemisus
 title: Hemisus
 ---
 

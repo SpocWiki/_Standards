@@ -1,5 +1,7 @@
 ---
-title: "Ancyromonas sigmoides"
+aliases:
+  - sigmoides
+title: Ancyromonas sigmoides
 ---
 
 ## Phylogeny 

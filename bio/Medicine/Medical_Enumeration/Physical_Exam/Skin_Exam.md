@@ -3,21 +3,23 @@ aliases:
   - skin examination
   - skin exam
   - is_a_skin_examination
+  - Skin_Exam
+  - Skin Exam
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - skin
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_skin Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

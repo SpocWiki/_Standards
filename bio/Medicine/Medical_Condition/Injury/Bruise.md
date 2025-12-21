@@ -4,23 +4,24 @@ aliases:
   - contusion
   - hematoma
   - Hämatom
+  - Bruise
 has_id_wikidata: Q574491
 subclass_of:
-  - "[[_Standards/WikiData/WD~blunt_trauma,770709]]"
-  - "[[_Standards/WikiData/WD~ecchymosis,1322382]]"
-  - "[[_Standards/WikiData/WD~skin_and_integumentary_tissue_symptom,100751718]]"
+  - '[[_Standards/WikiData/WD~blunt_trauma,770709]]'
+  - '[[_Standards/WikiData/WD~ecchymosis,1322382]]'
+  - '[[_Standards/WikiData/WD~skin_and_integumentary_tissue_symptom,100751718]]'
 different_from:
-  - "[[_Standards/WikiData/WD~skin_abrasion,939378]]"
-  - "[[_Standards/WikiData/WD~laceration,4391416]]"
-health_specialty: "[[_Standards/WikiData/WD~emergency_medicine,2861470]]"
+  - '[[_Standards/WikiData/WD~skin_abrasion,939378]]'
+  - '[[_Standards/WikiData/WD~laceration,4391416]]'
+health_specialty: '[[_Standards/WikiData/WD~emergency_medicine,2861470]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-instance_of: "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
-DiseasesDB: "31998"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+instance_of: '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+DiseasesDB: 31998
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pferdekuss.jpg
 exact_match: http://purl.obolibrary.org/obo/SYMP_0000406
-P8189: "987007566218705171"
+P8189: 987007566218705171
 UMLS_CUI: C0009938
 MeSH_tree_code: C26.974.250
 ---

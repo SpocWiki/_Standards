@@ -2,14 +2,19 @@
 aliases:
   - Phocoenidae
   - Porpoise
+  - Porpoises
+  - Pyöriäiset
+  - nisefamilien
+  - rjave pliskavke
+  - พอร์พอยส์
 has_id_wikidata: Q10867
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25681647,25681647]]"
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681647,25681647]]'
 start_time: -15970000-01-01T00:00:00Z
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-OmegaWiki_Defined_Meaning: "1210547"
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+OmegaWiki_Defined_Meaning: 1210547
 Commons_category: Phocoenidae
 taxon_name: Phocoenidae
 taxon_common_name:
@@ -18,7 +23,7 @@ taxon_common_name:
   - nisefamilien
   - rjave pliskavke
   - พอร์พอยส์
-ITIS_TSN: "552307"
+ITIS_TSN: 552307
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Harbor.Porpoise.4.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Porpoise%20042.jpg

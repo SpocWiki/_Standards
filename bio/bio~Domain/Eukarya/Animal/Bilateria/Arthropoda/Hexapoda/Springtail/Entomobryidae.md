@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Entomobryidae
 title: Entomobryidae
 ---
 

@@ -9,16 +9,16 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - infectious
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_infectious Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

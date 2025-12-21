@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Siphonostomatoida
 title: Siphonostomatoida
 ---
 

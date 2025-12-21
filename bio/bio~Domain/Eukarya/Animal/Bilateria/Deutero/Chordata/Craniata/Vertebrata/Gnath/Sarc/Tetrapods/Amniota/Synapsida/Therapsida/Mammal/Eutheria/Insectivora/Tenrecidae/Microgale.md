@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Microgale
 title: Microgale
 ---
 

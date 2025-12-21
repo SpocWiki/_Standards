@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Helicobasidiales
 title: Helicobasidiales
 ---
 

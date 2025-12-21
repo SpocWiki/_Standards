@@ -3,8 +3,22 @@ aliases:
   - Aepyceros melampus
   - Impala
   - rooibok
-title: Aepyceros melampus
+  - Імпала
+  - 高角羚
+  - impala
+  - อิมพาลา
+  - Rooibok
+  - Импала
+  - Schwarzfersenantilope
+  - Black-faced Impala
+  - Common Impala
+  - Impalo
+  - אימפלה
+  - インパラ
+  - impala zwyczajna
+  - İmpala
 has_id_wikidata: Q132576
+title: Aepyceros melampus
 taxon_common_name:
   - Імпала
   - Impala
@@ -44,19 +58,19 @@ taxon_common_name:
   - Импала
   - Impala
   - İmpala
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-parent_taxon: "[[_Standards/WikiData/WD~Aepyceros,10730799]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-original_combination: "[[_Standards/WikiData/WD~Antilope_melampus,122418440]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-subclass_of: "[[_Standards/WikiData/WD~antelope,25894]]"
+  - '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+parent_taxon: '[[_Standards/WikiData/WD~Aepyceros,10730799]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+original_combination: '[[_Standards/WikiData/WD~Antilope_melampus,122418440]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+subclass_of: '[[_Standards/WikiData/WD~antelope,25894]]'
 longest_observed_lifespan: 25.6
 gestation_period: 6.75
-ITIS_TSN: "625076"
+ITIS_TSN: 625076
 short_name: A. melampus
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Aepyceros%20melampus.svg
 image:

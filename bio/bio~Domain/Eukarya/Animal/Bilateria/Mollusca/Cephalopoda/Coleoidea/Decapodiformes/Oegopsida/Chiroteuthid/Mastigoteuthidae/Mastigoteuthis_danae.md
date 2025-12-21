@@ -1,5 +1,8 @@
 ---
-title: "Mastigoteuthis danae"
+aliases:
+  - Mastigoteuthis_danae
+  - Mastigoteuthis danae
+title: Mastigoteuthis danae
 ---
 
 # *Mastigoteuthis danae* [(Joubin, 1933)] 

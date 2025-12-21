@@ -1,5 +1,7 @@
 ---
-title: "Praomys group"
+aliases:
+  - Praomys
+title: Praomys group
 ---
 
 # Praomys Murinae 

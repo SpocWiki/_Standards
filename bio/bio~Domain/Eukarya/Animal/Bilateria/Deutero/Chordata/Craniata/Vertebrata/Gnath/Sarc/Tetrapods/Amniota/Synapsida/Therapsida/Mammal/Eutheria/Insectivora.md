@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Insectivora
 title: Insectivora
 ---
 

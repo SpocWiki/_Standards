@@ -10,16 +10,16 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: InfectiousAgentClass
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - prion
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_prion Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

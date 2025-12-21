@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Pteromyini
 title: Pteromyini
 ---
 

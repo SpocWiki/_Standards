@@ -1,33 +1,36 @@
 ---
+aliases:
+  - Sexual_Reproduction
+  - Sexual Reproduction
 has_id_wikidata: Q182353
-opposite_of: "[[_Standards/WikiData/WD~asexual_reproduction,173432]]"
+opposite_of: '[[_Standards/WikiData/WD~asexual_reproduction,173432]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~mating,228395]]"
-  - "[[_Standards/WikiData/WD~fertilization,14890574]]"
-  - "[[_Standards/WikiData/WD~gamete_generation,14903781]]"
-  - "[[_Standards/WikiData/WD~sporocarp_development_involved_in_sexual_reproduction,22294168]]"
-  - "[[_Standards/WikiData/WD~sexual_sporulation,22294442]]"
-history_of_topic: "[[_Standards/WikiData/WD~evolution_of_sexual_reproduction,2915088]]"
+  - '[[_Standards/WikiData/WD~mating,228395]]'
+  - '[[_Standards/WikiData/WD~fertilization,14890574]]'
+  - '[[_Standards/WikiData/WD~gamete_generation,14903781]]'
+  - '[[_Standards/WikiData/WD~sporocarp_development_involved_in_sexual_reproduction,22294168]]'
+  - '[[_Standards/WikiData/WD~sexual_sporulation,22294442]]'
+history_of_topic: '[[_Standards/WikiData/WD~evolution_of_sexual_reproduction,2915088]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~biological_process,2996394]]"
-  - "[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803]]"
-facet_of: "[[_Standards/WikiData/WD~animal_reproduction,3427333]]"
+  - '[[_Standards/WikiData/WD~biological_process,2996394]]'
+  - '[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803]]'
+facet_of: '[[_Standards/WikiData/WD~animal_reproduction,3427333]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Biology,6723002]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Sexology_and_sexuality,8485943]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Molecular_and_Cell_Biology,15884967]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Animal_anatomy,21829301]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Biology,6723002]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Sexology_and_sexuality,8485943]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Molecular_and_Cell_Biology,15884967]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Animal_anatomy,21829301]]'
   - "[[_Standards/WikiData/WD~WikiProject_Women's_Health,21831121]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~multi_organism_reproductive_process,22271532]]"
-  - "[[_Standards/WikiData/WD~reproduction,11990]]"
+  - '[[_Standards/WikiData/WD~multi_organism_reproductive_process,22271532]]'
+  - '[[_Standards/WikiData/WD~reproduction,11990]]'
 Library_of_Congress_Classification: QH481-QH487
-OmegaWiki_Defined_Meaning: "799321"
+OmegaWiki_Defined_Meaning: 799321
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Sexual%20cycle.svg
 exact_match: http://purl.obolibrary.org/obo/GO_0019953
 Stack_Exchange_tag: https://biology.stackexchange.com/tags/sexual-reproduction
-P8189: "987007534051905171"
+P8189: 987007534051905171
 UMLS_CUI: C0871354
 Terminologia_Embryologica: E1.0.0.0.0.0.2
 Colon_Classification: G:675

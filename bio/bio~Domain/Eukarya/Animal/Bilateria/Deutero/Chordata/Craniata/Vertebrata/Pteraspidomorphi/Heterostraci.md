@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Heterostraci
 title: Heterostraci
 ---
 

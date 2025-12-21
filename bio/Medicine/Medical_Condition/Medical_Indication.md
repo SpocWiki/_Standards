@@ -4,20 +4,22 @@ aliases:
   - medical_indication
   - MedicalIndication
   - is_a_medical_indication
+  - Medical_Indication
+  - Medical Indication
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_indication
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_indication Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

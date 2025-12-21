@@ -2,6 +2,10 @@
 aliases:
   - Broccoli
   - Brokkoli
+  - 绿花菜
+  - sprouting broccoli
+  - brokoli
+has_id_wikidata: Q47722
 Amazon_com_browse_node:
   - 6459252011
   - 6507071011
@@ -16,7 +20,6 @@ FoodEx2_code: A00FN
 food_energy: 34
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=105447
 hardiness_of_plant: "[[_Standards/WikiData/WD~2,99546131]]"
-has_id_wikidata: Q47722
 has_use: "[[_Standards/WikiData/WD~vegetable,11004]]"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Broccoli%20plant.jpg
@@ -51,7 +54,7 @@ water_footprint: 285
 Wolfram_Language_entity_code: Entity["FoodType", "Broccoli"]
 ---
 
-# [[Broccoli]]
+# [[Broccoli]] 🥦 
 
 #is_/same_as : [[../../../../../../../../../../../WikiData/WD~Broccoli,47722|WD~Broccoli,47722]] 
 

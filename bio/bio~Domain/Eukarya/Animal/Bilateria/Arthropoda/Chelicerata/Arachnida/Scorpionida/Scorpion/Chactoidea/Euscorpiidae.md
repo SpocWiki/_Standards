@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Euscorpiidae
 title: Euscorpiidae
 ---
 

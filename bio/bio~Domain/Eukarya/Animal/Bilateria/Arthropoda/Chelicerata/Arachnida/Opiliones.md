@@ -2,16 +2,21 @@
 aliases:
   - Weberknecht
   - Phalangida
+  - Opiliones
+  - Opilion
+  - vevkjerringer
+  - Hooiwagens
+  - suhe južine
 has_id_wikidata: Q19116
-different_from: "[[_Standards/WikiData/WD~Plantcutter,748418]]"
+different_from: '[[_Standards/WikiData/WD~Plantcutter,748418]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 start_time: -410000000-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-ITIS_TSN: "82753"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+ITIS_TSN: 82753
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Opiliones%20harvestman.jpg
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Opiliones%20collage.png
 EPPO_Code: 1OPIOO

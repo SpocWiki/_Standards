@@ -2,10 +2,12 @@
 aliases:
   - Brain damage
   - Brain injury
+  - Brain_Damage
+  - Brain Damage
 has_id_wikidata: Q720026
-subclass_of: "[[_Standards/WikiData/WD~lesion,827023]]"
-instance_of: "[[_Standards/WikiData/WD~cause_of_death,1931388]]"
-anatomical_locations: "[[_Standards/WikiData/WD~brain,1073]]"
+subclass_of: '[[_Standards/WikiData/WD~lesion,827023]]'
+instance_of: '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
+anatomical_locations: '[[_Standards/WikiData/WD~brain,1073]]'
 IMDb_keyword: brain-damage
 Commons_category: Brain damage
 ---

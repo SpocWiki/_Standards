@@ -4,20 +4,22 @@ aliases:
   - medical_device_purpose
   - MedicalDevicePurpose
   - is_a_medical_device_purpose
+  - Medical_Device_Purpose
+  - Medical Device Purpose
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_device_purpose
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_device_purpose Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

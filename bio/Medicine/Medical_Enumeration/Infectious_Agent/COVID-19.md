@@ -1,7 +1,8 @@
 ---
 aliases:
-- Coronavirus
-- SARS-CoV-2
+  - Coronavirus
+  - SARS-CoV-2
+  - COVID-19
 ---
 
 #has_/time_/started :: 2019-12 

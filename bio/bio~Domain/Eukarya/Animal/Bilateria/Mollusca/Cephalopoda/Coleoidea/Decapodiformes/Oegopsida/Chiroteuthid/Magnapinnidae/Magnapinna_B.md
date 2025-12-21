@@ -1,5 +1,8 @@
 ---
-title: "Magnapinna sp. B"
+aliases:
+  - Magnapinna_B
+  - Magnapinna B
+title: Magnapinna sp. B
 ---
 
 # [[Magnapinna_B]] 

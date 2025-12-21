@@ -1,5 +1,7 @@
 ---
-title: "Ebracteolate clade"
+aliases:
+  - Ebracteolate
+title: Ebracteolate clade
 ---
 
 # [[Ebracteolate]]  

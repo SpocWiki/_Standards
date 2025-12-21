@@ -1,5 +1,7 @@
 ---
-title: "Aegla leptochela"
+aliases:
+  - leptochela
+title: Aegla leptochela
 ---
 
 # Aegla leptochela 

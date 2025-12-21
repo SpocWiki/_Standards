@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Tylopoda
 title: Tylopoda
 ---
 

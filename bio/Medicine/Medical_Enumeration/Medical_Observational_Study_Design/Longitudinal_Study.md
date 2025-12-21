@@ -2,21 +2,23 @@
 aliases:
   - longitudinal_Study
   - is_a_longitudinal_Study
+  - Longitudinal_Study
+  - Longitudinal Study
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalObservationalStudyDesign
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - longitudinal
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_longitudinal Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

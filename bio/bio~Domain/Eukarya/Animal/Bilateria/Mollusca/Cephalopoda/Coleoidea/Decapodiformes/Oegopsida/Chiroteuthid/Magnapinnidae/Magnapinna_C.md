@@ -1,5 +1,8 @@
 ---
-title: "Magnapinna sp. C"
+aliases:
+  - Magnapinna_C
+  - Magnapinna C
+title: Magnapinna sp. C
 ---
 
 # *Magnapinna sp. C* 

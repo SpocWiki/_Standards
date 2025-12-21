@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bufonidae
 title: Bufonidae
 ---
 

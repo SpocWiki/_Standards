@@ -3,15 +3,21 @@ aliases:
   - Pseudoscorpiones
   - Pseudoscorpionida
   - Chelonethida
+  - Pseudoscorpion
+  - pseudoescorpión
+  - Pseudoscorpions
+  - Pseudoscorpión
+  - mosskorpioner
+  - Pseudoschorpioenen
 has_id_wikidata: Q19119
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-parent_taxon: "[[../../../../../../../../../WikiData/WD~Dromopoda,5308296]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Pseudoscorpionida,35135521]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-ITIS_TSN: "690741"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+parent_taxon: '[[../../../../../../../../../WikiData/WD~Dromopoda,5308296]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Pseudoscorpionida,35135521]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+ITIS_TSN: 690741
 start_time: -380000000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Neopseudogarypus%20scutellatus.jpg
 EPPO_Code: 1PSESO

@@ -1,5 +1,8 @@
 ---
-title: "Mastigoteuthis atlantica"
+aliases:
+  - Mastigoteuthis_atlantica
+  - Mastigoteuthis atlantica
+title: Mastigoteuthis atlantica
 ---
 
 # *Mastigoteuthis atlantica* [Joubin, 1933] 

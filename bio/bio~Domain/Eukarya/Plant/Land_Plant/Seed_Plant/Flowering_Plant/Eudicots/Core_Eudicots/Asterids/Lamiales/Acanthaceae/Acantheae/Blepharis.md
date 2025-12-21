@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Blepharis
 title: Blepharis
 ---
 

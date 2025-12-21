@@ -1,5 +1,7 @@
 ---
-title: "Cirrothauma murrayi"
+aliases:
+  - murrayi
+title: Cirrothauma murrayi
 ---
 
 ## Phylogeny 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Astacus
 title: Astacus
 ---
 

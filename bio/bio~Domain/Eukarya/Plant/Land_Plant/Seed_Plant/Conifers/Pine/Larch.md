@@ -1,8 +1,8 @@
 ---
 aliases:
-- Larch
-- Larix
-- Lärche
+  - Larch
+  - Larix
+  - Lärche
 title: Larix
 ---
 

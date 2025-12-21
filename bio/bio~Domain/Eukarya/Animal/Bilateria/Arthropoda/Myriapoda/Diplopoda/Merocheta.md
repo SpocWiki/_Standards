@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Merocheta
 title: Polydesmida
 ---
 

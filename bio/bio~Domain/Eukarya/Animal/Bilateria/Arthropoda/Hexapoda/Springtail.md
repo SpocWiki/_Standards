@@ -3,20 +3,21 @@ aliases:
   - Springtail
   - Springtails
   - Collembola
-title: Collembola
+  - Springtails and allies
 has_id_wikidata: Q190701
+title: Collembola
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-parent_taxon: "[[_Standards/WikiData/WD~Entognatha,623286]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~Collophore,5147575]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+parent_taxon: '[[_Standards/WikiData/WD~Entognatha,623286]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~Collophore,5147575]]'
 taxon_rank:
-  - "[[_Standards/WikiData/WD~subclass,5867051]]"
-  - "[[_Standards/WikiData/WD~class,37517]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q9563297,9563297]]"
-homonymous_taxon: "[[_Standards/WikiData/WD~Collembola,119788786]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-ITIS_TSN: "914185"
+  - '[[_Standards/WikiData/WD~subclass,5867051]]'
+  - '[[_Standards/WikiData/WD~class,37517]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9563297,9563297]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Collembola,119788786]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 914185
 Commons_gallery: Collembola
 Commons_category: Collembola
 taxon_name: Collembola

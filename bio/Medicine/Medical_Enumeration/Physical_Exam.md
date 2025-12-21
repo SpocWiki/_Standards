@@ -4,20 +4,22 @@ aliases:
   - physical_exam
   - PhysicalExam
   - is_a_physical_exam
+  - Physical_Exam
+  - Physical Exam
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - physical_exam
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_physical_exam Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

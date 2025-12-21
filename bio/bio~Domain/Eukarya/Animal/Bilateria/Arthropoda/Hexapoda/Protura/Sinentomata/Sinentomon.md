@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sinentomon
 title: Sinentomon
 ---
 

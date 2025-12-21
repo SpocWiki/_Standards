@@ -3,25 +3,29 @@ aliases:
   - gnu
   - Connochaetes taurinus
   - Wildebeast
-title: Connochaetes taurinus
+  - Wildebeest
+  - гну
+  - ñu
+  - антилопа гну
 has_id_wikidata: Q7609
-parent_taxon: "[[_Standards/WikiData/WD~Alcelaphinae,615263]]"
+title: Connochaetes taurinus
+parent_taxon: '[[_Standards/WikiData/WD~Alcelaphinae,615263]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-endemic_to: "[[_Standards/WikiData/WD~Africa,15]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+endemic_to: '[[_Standards/WikiData/WD~Africa,15]]'
 longest_observed_lifespan: 20
 litter_size: 1.5
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 period_of_lactation: 7.5
 gestation_period: 8.5
-OmegaWiki_Defined_Meaning: "7294"
+OmegaWiki_Defined_Meaning: 7294
 taxon_common_name:
   - гну
   - ñu
   - антилопа гну
-ITIS_TSN: "624963"
+ITIS_TSN: 624963
 start_time: -2500000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Wildebeest%2C%20Ngorongoro.jpg
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Connochaetes%20map.png

@@ -1,5 +1,8 @@
 ---
-title: "Core Malvales"
+aliases:
+  - Core_Malvales
+  - Core Malvales
+title: Core Malvales
 ---
 
 # Core Malvales 

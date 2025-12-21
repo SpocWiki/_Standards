@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Rhinoderma
 title: Rhinoderma
 ---
 

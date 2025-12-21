@@ -1,6 +1,7 @@
 ---
 aliases:
-- milkwort
+  - milkwort
+  - Polygalaceae
 title: Polygalaceae
 ---
 

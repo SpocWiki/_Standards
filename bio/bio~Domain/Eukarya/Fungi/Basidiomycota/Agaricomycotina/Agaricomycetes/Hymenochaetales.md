@@ -1,5 +1,7 @@
 ---
-title: "Hymenochaetoid clade"
+aliases:
+  - Hymenochaetales
+title: Hymenochaetoid clade
 ---
 
 ## Phylogeny 

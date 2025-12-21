@@ -1,5 +1,7 @@
 ---
-title: "Planctoteuthis exopthalmica"
+aliases:
+  - exopthalmica
+title: Planctoteuthis exopthalmica
 ---
 
 # Planctoteuthis [[exopthalmica]] 

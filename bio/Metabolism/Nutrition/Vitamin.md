@@ -1,30 +1,31 @@
 ---
 aliases:
   - vitamer
+  - Vitamin
 has_id_wikidata: Q34956
 named_after:
-  - "[[_Standards/WikiData/WD~amine,167198]]"
-  - "[[_Standards/WikiData/WD~life,3]]"
+  - '[[_Standards/WikiData/WD~amine,167198]]'
+  - '[[_Standards/WikiData/WD~life,3]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~organic_compound,174211]]"
-  - "[[_Standards/WikiData/WD~nutrient,181394]]"
-  - "[[_Standards/WikiData/WD~micronutrient,531507]]"
-opposite_of: "[[_Standards/WikiData/WD~antivitamin,410918]]"
+  - '[[_Standards/WikiData/WD~organic_compound,174211]]'
+  - '[[_Standards/WikiData/WD~nutrient,181394]]'
+  - '[[_Standards/WikiData/WD~micronutrient,531507]]'
+opposite_of: '[[_Standards/WikiData/WD~antivitamin,410918]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Vitamins,5912294]]"
-  - "[[_Standards/WikiData/WD~Q25738602,25738602]]"
-depicted_by: "[[_Standards/WikiData/WD~Vitamine,15987487]]"
+  - '[[_Standards/WikiData/WD~Template_Vitamins,5912294]]'
+  - '[[_Standards/WikiData/WD~Q25738602,25738602]]'
+depicted_by: '[[_Standards/WikiData/WD~Vitamine,15987487]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~Q25504439,25504439]]"
-  - "[[_Standards/WikiData/WD~vitaminology,127270670]]"
+  - '[[_Standards/WikiData/WD~Q25504439,25504439]]'
+  - '[[_Standards/WikiData/WD~vitaminology,127270670]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~group_of_chemical_entities,55640599]]"
-  - "[[_Standards/WikiData/WD~nutrient_group,136908428]]"
-named_by: "[[_Standards/WikiData/WD~Casimir_Funk,28738]]"
-OmegaWiki_Defined_Meaning: "3973"
+  - '[[_Standards/WikiData/WD~group_of_chemical_entities,55640599]]'
+  - '[[_Standards/WikiData/WD~nutrient_group,136908428]]'
+named_by: '[[_Standards/WikiData/WD~Casimir_Funk,28738]]'
+OmegaWiki_Defined_Meaning: 3973
 Commons_gallery: Vitamin
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Crystals%20of%20vitamin%20C.jpg
 CAS_Registry_Number: 308080-82-2
@@ -35,7 +36,7 @@ MeSH_tree_code:
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/VITAMINI.html
 Commons_category: Vitamins
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Vitamin2.ogg
-Dewey_Decimal_Classification: "572.58"
+Dewey_Decimal_Classification: 572.58
 ---
 
 # [[Vitamin]] 

@@ -1,27 +1,28 @@
 ---
 aliases:
   - Hüfte
+  - Pelvis
 has_id_wikidata: Q713102
-connects_with: "[[_Standards/WikiData/WD~vertebral_column,482853]]"
+connects_with: '[[_Standards/WikiData/WD~vertebral_column,482853]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
   - "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~pelvic_cavity,1547362]]"
-  - "[[_Standards/WikiData/WD~hip_bone,3356933]]"
-  - "[[_Standards/WikiData/WD~sex_organ,4620674]]"
-  - "[[_Standards/WikiData/WD~large_intestine,11083]]"
-  - "[[_Standards/WikiData/WD~buttocks,42165]]"
+  - '[[_Standards/WikiData/WD~pelvic_cavity,1547362]]'
+  - '[[_Standards/WikiData/WD~hip_bone,3356933]]'
+  - '[[_Standards/WikiData/WD~sex_organ,4620674]]'
+  - '[[_Standards/WikiData/WD~large_intestine,11083]]'
+  - '[[_Standards/WikiData/WD~buttocks,42165]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~cardinal_body_part,17781690]]"
-  - "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
+  - '[[_Standards/WikiData/WD~cardinal_body_part,17781690]]'
+  - '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
-  - "[[_Standards/WikiData/WD~solitary_organism_subdivision_type,113147985]]"
+  - '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+  - '[[_Standards/WikiData/WD~solitary_organism_subdivision_type,113147985]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sobo%201909%20211.png
 Commons_gallery: Bones of the human pelvis
 TA98_Latin_term: pelvis

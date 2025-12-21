@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Grimpoteuthis
 title: Grimpoteuthis
 ---
 

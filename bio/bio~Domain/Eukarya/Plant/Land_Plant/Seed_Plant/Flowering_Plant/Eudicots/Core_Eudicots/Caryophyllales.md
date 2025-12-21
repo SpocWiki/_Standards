@@ -1,6 +1,6 @@
 ---
 aliases:
-- Caryophyllales
+  - Caryophyllales
 title: Caryophyllales
 ---
 

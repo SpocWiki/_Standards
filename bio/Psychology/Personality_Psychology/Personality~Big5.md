@@ -1,9 +1,10 @@
 ---
 aliases:
-- "Big Five"
-- "Big Five personality traits"
-- "five-factor model"
-- "five factor model"
+  - Big Five
+  - Big Five personality traits
+  - five-factor model
+  - five factor model
+  - Personality~Big5
 ---
 
 # [[Personality~Big5]] 

@@ -1,11 +1,12 @@
 ---
 aliases:
-  - hemo 
-  - hemato 
-  - haemo 
+  - hemo
+  - hemato
+  - haemo
   - haemato
   - Blut
-  - 
+  - ''
+  - Blood
 ---
 
 # [[Blood]] 

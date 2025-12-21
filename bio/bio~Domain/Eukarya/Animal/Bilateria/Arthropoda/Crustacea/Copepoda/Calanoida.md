@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Calanoida
 title: Calanoida
 ---
 

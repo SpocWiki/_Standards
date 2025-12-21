@@ -4,20 +4,22 @@ aliases:
   - maximum_dose_schedule
   - MaximumDoseSchedule
   - is_a_maximum_dose_schedule
+  - Maximum_Dose_Schedule
+  - Maximum Dose Schedule
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - maximum_dose_schedule
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_maximum_dose_schedule Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

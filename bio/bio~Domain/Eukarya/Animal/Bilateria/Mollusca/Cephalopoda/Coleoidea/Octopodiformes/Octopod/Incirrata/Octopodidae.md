@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Octopodidae
 title: Octopodidae
 ---
 

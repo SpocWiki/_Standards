@@ -9,16 +9,16 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - surgical
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_surgical Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

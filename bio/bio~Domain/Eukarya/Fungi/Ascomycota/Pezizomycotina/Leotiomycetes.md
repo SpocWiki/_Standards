@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Leotiomycetes
 title: Leotiomycetes
 ---
 

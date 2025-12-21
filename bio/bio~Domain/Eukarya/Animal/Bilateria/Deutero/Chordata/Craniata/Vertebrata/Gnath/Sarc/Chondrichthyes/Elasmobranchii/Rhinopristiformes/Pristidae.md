@@ -4,17 +4,20 @@ aliases:
   - carpenter sharks
   - Sägefisch
   - Sägerochen
+  - Pristidae
+  - pexe xerra
+  - pilarji
 has_id_wikidata: Q190736
 described_by_source:
-  - "[[../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
-different_from: "[[_Standards/WikiData/WD~Pristiophoridae,3404184]]"
-parent_taxon: "[[../../../../../../../../../../../../../../WikiData/WD~Rhinopristiformes,25366201]]"
+  - '[[../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
+different_from: '[[_Standards/WikiData/WD~Pristiophoridae,3404184]]'
+parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Rhinopristiformes,25366201]]'
 start_time: -99700000-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "160807"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 160807
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pristis%20pristis%20-%20Georgia%20Aquarium%20Jan%202006.jpg
 EPPO_Code: 1PSTIF
 UMLS_CUI: C0327688

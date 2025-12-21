@@ -1,6 +1,6 @@
 ---
 aliases:
-- Laurales
+  - Laurales
 title: Laurales
 ---
 

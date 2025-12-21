@@ -1,6 +1,7 @@
 ---
 aliases:
   - Kohlehydrate
+  - Carbohydrate
 has_id_wikidata: Q11358
 ---
 

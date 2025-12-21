@@ -1,21 +1,26 @@
 ---
+aliases:
+  - Malacostraca
+  - storkrepser
+  - Echte kreeftachtigen
+  - višji raki
+has_id_wikidata: Q182978
 Commons_category: Malacostraca
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 EPPO_Code: 1MALAC
-has_id_wikidata: Q182978
 image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Eoph%20MagelaT%20site2.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Crustacea.jpg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Eoph%20MagelaT%20site2.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Crustacea.jpg
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 89787
 parent_taxon: '[[_Standards/WikiData/WD~Multicrustacea,11937877]]'
 taxon_common_name:
-- storkrepser
-- "Echte kreeftachtigen"
-- "višji raki"
+  - storkrepser
+  - Echte kreeftachtigen
+  - višji raki
 taxon_name: Malacostraca
 taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
 title: Malacostraca

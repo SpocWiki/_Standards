@@ -2,32 +2,47 @@
 aliases:
   - vicuña
   - Vikunja
-  - 
-title: Vicugna vicugna
+  - ''
+  - Vicugna
+  - Vigogne
+  - Vicuña
+  - Vicuna
+  - فكونة
+  - Вікунья
+  - Vicunya
+  - vikuňa
+  - Βικούνια
+  - Vicugna vicugna
+  - Bikuina
+  - شترچه
+  - ビクーニャ
+  - 비쿠냐
+  - 小羊駝
 has_id_wikidata: Q167797
-has_characteristic: "[[_Standards/WikiData/WD~viviparity,120446]]"
-different_from: "[[_Standards/WikiData/WD~Vicuña,201007]]"
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
+title: Vicugna vicugna
+has_characteristic: '[[_Standards/WikiData/WD~viviparity,120446]]'
+different_from: '[[_Standards/WikiData/WD~Vicuña,201007]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-parent_taxon: "[[_Standards/WikiData/WD~Vicugna,2703941]]"
+  - '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+parent_taxon: '[[_Standards/WikiData/WD~Vicugna,2703941]]'
 CITES_Appendix:
-  - "[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]"
-  - "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~vicuña_wool,21064966]]"
-original_combination: "[[_Standards/WikiData/WD~Camelus_vicugna,27064374]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+  - '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
+  - '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~vicuña_wool,21064966]]'
+original_combination: '[[_Standards/WikiData/WD~Camelus_vicugna,27064374]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 taxon_range:
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[_Standards/WikiData/WD~Chile,298]]'
+  - '[[_Standards/WikiData/WD~Argentina,414]]'
+  - '[[_Standards/WikiData/WD~Peru,419]]'
+  - '[[_Standards/WikiData/WD~Bolivia,750]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 gestation_period: 340
 longest_observed_lifespan: 31.6
-ITIS_TSN: "625031"
+ITIS_TSN: 625031
 taxon_common_name:
   - Vigogne
   - Vicuña

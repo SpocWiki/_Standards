@@ -1,24 +1,27 @@
 ---
+aliases:
+  - Apatosaurus
+  - 迷惑龍
 has_id_wikidata: Q14326
 location_of_discovery:
-  - "[[_Standards/WikiData/WD~Morrison_Formation,1195552]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Brontosaurus,3222766]]"
-described_by_source: "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
+  - '[[_Standards/WikiData/WD~Morrison_Formation,1195552]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Brontosaurus,3222766]]'
+described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
 end_time: -151000000-06
 length:
   - 21
   - 22.8
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 mass: 22.4
-main_food_source: "[[_Standards/WikiData/WD~herbivore,59099]]"
+main_food_source: '[[_Standards/WikiData/WD~herbivore,59099]]'
 Commons_gallery: Apatosaurus
 Commons_category: Apatosaurus
 taxon_name: Apatosaurus
 size_comparison_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Apatosaurus%20scale%20mmartyniuk%20wiki.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Louisae.jpg
-P8189: "987007532188805171"
+P8189: 987007532188805171
 Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Apatosaurus"]
 taxon_common_name: 迷惑龍
 start_time: -152000000-06

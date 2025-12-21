@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bombinatoridae
 title: Bombinatoridae
 ---
 

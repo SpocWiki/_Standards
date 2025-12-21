@@ -3,28 +3,33 @@ aliases:
   - Fichte
   - spruce
   - Picea
+  - Spruce
+  - Spar
+  - smreka
+  - kuuset
+  - 云杉属
 has_id_wikidata: Q26782
-taxonomic_type: "[[_Standards/WikiData/WD~Picea_abies,145992]]"
+taxonomic_type: '[[_Standards/WikiData/WD~Picea_abies,145992]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_7,112869376]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~spruce,2046308]]"
-parent_taxon: "[[_Standards/WikiData/WD~Piceoideae,14920716]]"
-different_from: "[[_Standards/WikiData/WD~Q21850859,21850859]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q62686382,62686382]]"
-award_received: "[[_Standards/WikiData/WD~Tree_of_the_Year_(Austria),91888146]]"
-subclass_of: "[[_Standards/WikiData/WD~tree,10884]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "18033"
-OmegaWiki_Defined_Meaning: "1581689"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_7,112869376]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~spruce,2046308]]'
+parent_taxon: '[[_Standards/WikiData/WD~Piceoideae,14920716]]'
+different_from: '[[_Standards/WikiData/WD~Q21850859,21850859]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q62686382,62686382]]'
+award_received: '[[_Standards/WikiData/WD~Tree_of_the_Year_(Austria),91888146]]'
+subclass_of: '[[_Standards/WikiData/WD~tree,10884]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 18033
+OmegaWiki_Defined_Meaning: 1581689
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Picea%20abies.jpg
 taxon_common_name:
   - spruce
@@ -34,7 +39,7 @@ taxon_common_name:
   - 云杉属
   - 云杉属
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=9366
-U_S_National_Archives_Identifier: "10663415"
+U_S_National_Archives_Identifier: 10663415
 EPPO_Code: 1PIEG
 MeSH_tree_code: B01.875.800.575.912.625.875.755
 UMLS_CUI: C0949850

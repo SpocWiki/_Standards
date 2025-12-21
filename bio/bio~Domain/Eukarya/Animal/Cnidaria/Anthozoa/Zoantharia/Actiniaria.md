@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Actiniaria
 title: Actiniaria
 ---
 

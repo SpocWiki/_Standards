@@ -1,5 +1,7 @@
 ---
-title: "Chiroteuthis joubini"
+aliases:
+  - joubini
+title: Chiroteuthis joubini
 ---
 
 ## Phylogeny 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Vaejovidae
 title: Vaejovidae
 ---
 

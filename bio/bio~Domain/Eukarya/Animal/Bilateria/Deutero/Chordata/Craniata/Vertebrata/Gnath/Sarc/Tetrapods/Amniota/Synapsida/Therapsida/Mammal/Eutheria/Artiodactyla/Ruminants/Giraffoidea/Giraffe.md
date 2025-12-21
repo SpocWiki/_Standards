@@ -1,6 +1,96 @@
 ---
 aliases:
   - Giraffe
+  - ᏗᎦᎵᏍᏚᎩᏍᎩ
+  - Tsêhe'êsenotováhe
+  - زەڕافە
+  - Giraf
+  - Zırafa
+  - Ĝirafo
+  - Jirafa
+  - Kirahvi
+  - Giraffur
+  - Girafe
+  - Sioráf
+  - 長頸鹿
+  - Sioraf
+  - Xirafa
+  - જિરાફ
+  - Mwannalagh
+  - Raƙumin dawa
+  - Chhòng-kiáng-lu̍k
+  - Kamelopaki
+  - Kilape
+  - जिराफ़
+  - Žirafa
+  - Jiraf
+  - Zsiráf
+  - Jerapah
+  - Jirafo
+  - Gíraffi
+  - djirafa
+  - Amdeɣ
+  - Керік
+  - ಜಿರಾಫೆ
+  - Сурахай
+  - Canhêştir
+  - Giraff
+  - СсурухӀи
+  - Dikálá
+  - Žirafe
+  - Жираф
+  - Жирафа
+  - Анааш
+  - जिराफ
+  - Zirafah
+  - သစ်ကုလားအုပ်
+  - Tn̂g-ām-lo̍k
+  - Sjiraff
+  - Tsin yilátah ayání
+  - زرافہ
+  - Girafa
+  - Hirapha
+  - Girafă
+  - Kôlo
+  - ජිරාෆ්
+  - Žirafa štíhla
+  - severna žirafa
+  - Twiza
+  - Geri
+  - Gjirafa
+  - Jarapah
+  - Twiga
+  - ஒட்டகச் சிவிங்கி
+  - జిరాఫీ
+  - Зарофа
+  - ยีราฟ
+  - Zürafa
+  - زىراپە
+  - Hươu cao cổ
+  - זשיראף
+  - 长颈鹿
+  - Indlulamithi
+  - زرافه
+  - Kaelkirjak
+  - jirafa
+  - žirafa
+  - ജിറാഫ്
+  - জিরাফ
+  - ג'ירף
+  - Żyrafa
+  - زرافة
+  - Καμηλοπάρδαλη
+  - キリン
+  - 기린
+  - Kameelperd
+  - ቀጭኔ
+  - xirafa
+  - Zürafə
+  - Жырафа
+  - Ntilen
+  - ཤ་བ་སྐེ་རིང་།
+  - Jirafenn
+  - Hirapa
 has_id_wikidata: Q15083
 taxon_common_name:
   - ᏗᎦᎵᏍᏚᎩᏍᎩ
@@ -116,26 +206,26 @@ taxon_common_name:
   - Žirafa
   - Girafa
   - Hirapa
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Vulnerable,278113]]"
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Vulnerable,278113]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]"
-different_from: "[[_Standards/WikiData/WD~Giraffe,4180503]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-original_combination: "[[_Standards/WikiData/WD~Cervus_camelopardalis,110259076]]"
+  - '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
+different_from: '[[_Standards/WikiData/WD~Giraffe,4180503]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+original_combination: '[[_Standards/WikiData/WD~Cervus_camelopardalis,110259076]]'
 taxon_rank:
-  - "[[_Standards/WikiData/WD~group_of_subspecies,123575881]]"
-  - "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[_Standards/WikiData/WD~group_of_subspecies,123575881]]'
+  - '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 litter_size: 1
 heart_rate: 150
 height: 5.5
 longest_observed_lifespan: 39.5
 gestation_period: 457
 mass: 54.5
-OmegaWiki_Defined_Meaning: "6795"
-ITIS_TSN: "625036"
+OmegaWiki_Defined_Meaning: 6795
+ITIS_TSN: 625036
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Giraffa%20camelopardalis%20distribution.svg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Giraffa%20camelopardalis%203d%20scan%20Natural%20History%20Museum%20University%20of%20Pisa%20C%20217.stl
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Giraffe%20Hum.oga

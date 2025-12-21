@@ -1,5 +1,8 @@
 ---
-title: "Chiroteuthis sp. B2"
+aliases:
+  - sp._B2
+  - sp. B2
+title: Chiroteuthis sp. B2
 ---
 
 ## Phylogeny 

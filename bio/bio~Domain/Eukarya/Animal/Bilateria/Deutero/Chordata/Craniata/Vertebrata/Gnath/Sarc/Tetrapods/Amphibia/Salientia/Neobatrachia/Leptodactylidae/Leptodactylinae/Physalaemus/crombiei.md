@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus crombiei"
+aliases:
+  - crombiei
+title: Physalaemus crombiei
 ---
 
 ## Phylogeny 

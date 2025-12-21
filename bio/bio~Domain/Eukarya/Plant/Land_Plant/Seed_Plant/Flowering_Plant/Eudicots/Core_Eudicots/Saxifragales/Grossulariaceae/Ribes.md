@@ -4,28 +4,32 @@ aliases:
   - blackcurrants
   - whitecurrants
   - gooseberries
+  - Ribes
+  - currant
+  - 茶藨子属
+  - kosmulja, grozdičje
 has_id_wikidata: Q22691
-taxonomic_type: "[[_Standards/WikiData/WD~Ribes_rubrum,146661]]"
-has_part_s_: "[[_Standards/WikiData/WD~tannin,187607]]"
+taxonomic_type: '[[_Standards/WikiData/WD~Ribes_rubrum,146661]]'
+has_part_s_: '[[_Standards/WikiData/WD~tannin,187607]]'
 described_by_source:
-  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_35(1),112869415]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~currant,3241599]]"
+  - '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_35(1),112869415]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~currant,3241599]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~fruit,3314483]]"
-  - "[[_Standards/WikiData/WD~berry,13184]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25929154,25929154]]"
-has_list: "[[_Standards/WikiData/WD~list_of_Ribes_species,85778392]]"
-has_fruit_type: "[[_Standards/WikiData/WD~berry,13184]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-parent_taxon: "[[../../../../../../../../../../../WikiData/WD~Grossulariaceae,41387]]"
-ITIS_TSN: "24448"
-USDA_NDB_number: "09084"
-OmegaWiki_Defined_Meaning: "941843"
+  - '[[_Standards/WikiData/WD~fruit,3314483]]'
+  - '[[_Standards/WikiData/WD~berry,13184]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25929154,25929154]]'
+has_list: '[[_Standards/WikiData/WD~list_of_Ribes_species,85778392]]'
+has_fruit_type: '[[_Standards/WikiData/WD~berry,13184]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+parent_taxon: '[[../../../../../../../../../../../WikiData/WD~Grossulariaceae,41387]]'
+ITIS_TSN: 24448
+USDA_NDB_number: 09084
+OmegaWiki_Defined_Meaning: 941843
 taxon_common_name:
   - currant
   - Ribes
@@ -40,7 +44,7 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ribes%20divaricatum%205391.JPG
   - http://commons.wikimedia.org/wiki/Special:FilePath/Rote%20johannisbeere.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=10469
-U_S_National_Archives_Identifier: "10663416"
+U_S_National_Archives_Identifier: 10663416
 EPPO_Code: 1RIBG
 MeSH_tree_code: B01.875.800.575.912.250.859.937.311.500
 UMLS_CUI:

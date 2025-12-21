@@ -1,10 +1,11 @@
 ---
 aliases:
   - Regenwald
+  - Rainforest
 has_id_wikidata: Q9444
-subclass_of: "[[_Standards/WikiData/WD~moist_forest,93734705]]"
-OmegaWiki_Defined_Meaning: "3101"
-U_S_National_Archives_Identifier: "10675925"
+subclass_of: '[[_Standards/WikiData/WD~moist_forest,93734705]]'
+OmegaWiki_Defined_Meaning: 3101
+U_S_National_Archives_Identifier: 10675925
 Commons_category: Rainforests
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Taman-Negara.jpg
 MeSH_tree_code:

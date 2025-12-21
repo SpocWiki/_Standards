@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ammotrechidae
 title: Ammotrechidae
 ---
 

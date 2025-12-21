@@ -2,14 +2,15 @@
 aliases:
   - cartilaginous fish
   - Knorpelfisch
+  - Chondrichthyes
 has_id_wikidata: Q25371
-described_by_source: "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Taxonomy_Chondrichthyes,13217777]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~class,37517]]"
-ITIS_TSN: "159785"
+described_by_source: '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Chondrichthyes,13217777]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
+ITIS_TSN: 159785
 Iconclass_notation: 25F61
 Commons_category: Chondrichthyes
 taxon_name: Chondrichthyes

@@ -5,24 +5,24 @@ aliases:
   - Hämoglobin
 has_id_wikidata: Q43041
 subclass_of:
-  - "[[_Standards/WikiData/WD~globin,412234]]"
-  - "[[_Standards/WikiData/WD~metalloprotein,423350]]"
-  - "[[_Standards/WikiData/WD~protein,8054]]"
+  - '[[_Standards/WikiData/WD~globin,412234]]'
+  - '[[_Standards/WikiData/WD~metalloprotein,423350]]'
+  - '[[_Standards/WikiData/WD~protein,8054]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-different_from: "[[_Standards/WikiData/WD~hemoglobinometry,10431462]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~hemoglobinometry,10431462]]'
 part_of:
-  - "[[_Standards/WikiData/WD~hemoglobin_metabolic_process,14819250]]"
-  - "[[_Standards/WikiData/WD~hemoglobin_binding,14820933]]"
-  - "[[_Standards/WikiData/WD~hemoglobin_biosynthetic_process,14852014]]"
-  - "[[_Standards/WikiData/WD~hemoglobin_catabolic_process,22282546]]"
-  - "[[_Standards/WikiData/WD~endocytic_hemoglobin_import_into_cell,22290745]]"
-instance_of: "[[_Standards/WikiData/WD~family_of_protein_complexes,78155096]]"
-physically_interacts_with: "[[_Standards/WikiData/WD~oxygen,629]]"
-CosIng_number: "85111"
+  - '[[_Standards/WikiData/WD~hemoglobin_metabolic_process,14819250]]'
+  - '[[_Standards/WikiData/WD~hemoglobin_binding,14820933]]'
+  - '[[_Standards/WikiData/WD~hemoglobin_biosynthetic_process,14852014]]'
+  - '[[_Standards/WikiData/WD~hemoglobin_catabolic_process,22282546]]'
+  - '[[_Standards/WikiData/WD~endocytic_hemoglobin_import_into_cell,22290745]]'
+instance_of: '[[_Standards/WikiData/WD~family_of_protein_complexes,78155096]]'
+physically_interacts_with: '[[_Standards/WikiData/WD~oxygen,629]]'
+CosIng_number: 85111
 Commons_category: Hemoglobin
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Redbloodcells.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%B9%E0%A4%BF%E0%A4%AE%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%B2%E0%A5%8B%E0%A4%AC%E0%A4%BF%E0%A4%A8.wav

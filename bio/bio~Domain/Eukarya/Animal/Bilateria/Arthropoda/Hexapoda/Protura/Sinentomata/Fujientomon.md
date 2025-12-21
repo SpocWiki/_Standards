@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Fujientomon
 title: Fujientomon
 ---
 

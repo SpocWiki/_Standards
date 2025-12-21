@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Araneidae
 title: Araneidae
 ---
 

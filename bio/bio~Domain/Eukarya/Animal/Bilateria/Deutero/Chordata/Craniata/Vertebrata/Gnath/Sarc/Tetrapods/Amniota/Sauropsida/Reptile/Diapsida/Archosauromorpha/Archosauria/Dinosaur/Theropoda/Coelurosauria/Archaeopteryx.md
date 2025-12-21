@@ -1,31 +1,34 @@
 ---
+aliases:
+  - Archaeopteryx
+  - 始祖鳥
 has_id_wikidata: Q100196
-main_food_source: "[[_Standards/WikiData/WD~carnivore,81875]]"
-different_from: "[[_Standards/WikiData/WD~Archaeopteris,134691]]"
+main_food_source: '[[_Standards/WikiData/WD~carnivore,81875]]'
+different_from: '[[_Standards/WikiData/WD~Archaeopteris,134691]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
-instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Friedrich_Häberlein,123555128]]"
+  - '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Friedrich_Häberlein,123555128]]'
 time_of_discovery_or_invention: 1861-01-01T00:00:00Z
-location_of_discovery: "[[_Standards/WikiData/WD~Germany,183]]"
+location_of_discovery: '[[_Standards/WikiData/WD~Germany,183]]'
 length: 0.5
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 Commons_gallery: Archaeopteryx
 Commons_category: Archaeopteryx
 taxon_name: Archaeopteryx
-OmegaWiki_Defined_Meaning: "1311114"
+OmegaWiki_Defined_Meaning: 1311114
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx%20lithographica%20-%20Pedro%20Jos%C3%A9%20Salas%20Fontelles%20%28flipped%29.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx%20lithographica%20by%20durbed.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx%20NT.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Berlin%20Archaeopteryx.jpg
 size_comparison_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx%20Scale.svg
-P8189: "987007294839505171"
+P8189: 987007294839505171
 Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Archaeopteryx"]
 taxon_common_name: 始祖鳥
 end_time: -148500000-06

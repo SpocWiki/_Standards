@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Dendrohyrax
 title: Dendrohyrax
 ---
 

@@ -1,7 +1,7 @@
 ---
 aliases:
-- Zygnematales
-- Conjugatales
+  - Zygnematales
+  - Conjugatales
 title: Zygnematales
 ---
 

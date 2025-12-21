@@ -1,6 +1,7 @@
 ---
 aliases:
-- echinoderm
+  - echinoderm
+  - Echinodermata
 title: Echinodermata
 ---
 

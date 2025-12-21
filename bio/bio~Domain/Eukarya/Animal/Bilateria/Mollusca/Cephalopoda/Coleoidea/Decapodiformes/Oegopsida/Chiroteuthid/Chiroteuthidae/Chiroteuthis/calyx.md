@@ -1,5 +1,7 @@
 ---
-title: "Chiroteuthis calyx"
+aliases:
+  - calyx
+title: Chiroteuthis calyx
 ---
 
 ## Phylogeny 

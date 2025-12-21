@@ -4,21 +4,23 @@ aliases:
   - therapeutic_procedure
   - TherapeuticProcedure
   - is_a_therapeutic_procedure
+  - Therapeutic_Procedure
+  - Therapeutic Procedure
 confidential: public
 cssclasses:
   - Type
 draft: false
 equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/277132007
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - therapeutic_procedure
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_therapeutic_procedure Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

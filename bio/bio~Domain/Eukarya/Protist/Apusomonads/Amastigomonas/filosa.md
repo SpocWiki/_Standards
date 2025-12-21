@@ -1,5 +1,7 @@
 ---
-title: "Amastigomonas filosa"
+aliases:
+  - filosa
+title: Amastigomonas filosa
 ---
 
 ## Phylogeny 

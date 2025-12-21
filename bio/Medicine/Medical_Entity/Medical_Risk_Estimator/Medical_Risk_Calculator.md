@@ -4,20 +4,22 @@ aliases:
   - medical_risk_calculator
   - MedicalRiskCalculator
   - is_a_medical_risk_calculator
+  - Medical_Risk_Calculator
+  - Medical Risk Calculator
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_risk_calculator
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_risk_calculator Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

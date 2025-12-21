@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sooglossidae
 title: Sooglossidae
 ---
 

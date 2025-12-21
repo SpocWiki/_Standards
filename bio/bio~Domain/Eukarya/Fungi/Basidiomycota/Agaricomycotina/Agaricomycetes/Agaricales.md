@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Agaricales
 title: Agaricales
 ---
 

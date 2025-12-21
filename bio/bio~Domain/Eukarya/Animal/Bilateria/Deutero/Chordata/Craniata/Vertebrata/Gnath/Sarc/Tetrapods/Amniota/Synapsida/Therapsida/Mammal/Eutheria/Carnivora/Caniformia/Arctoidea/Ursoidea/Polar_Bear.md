@@ -3,6 +3,19 @@ aliases:
   - Eisbär
   - Ursus maritimus
   - polar bear
+  - Polar_Bear
+  - Polar Bear
+  - osu polar
+  - Oso Polar
+  - jääkarhu
+  - Äisbier
+  - Polarbier
+  - niedźwiedź biały
+  - niedźwiedź polarny
+  - isbjørn
+  - Ours blanc
+  - ホッキョクグマ
+  - Ours polaire
 has_id_wikidata: Q33609
 UMLS_CUI: C0325023
 subreddit: polarbears
@@ -69,8 +82,8 @@ gestation_period:
   - 8.5
 mass: 450
 longest_observed_lifespan: 43.8
-ITIS_TSN: "180542"
-OmegaWiki_Defined_Meaning: "398900"
+ITIS_TSN: 180542
+OmegaWiki_Defined_Meaning: 398900
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Polar%20Bear%20-%20Alaska%20%28cropped%29.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Cub%20polar%20bear%20is%20nursing%202.ogv
 Library_of_Congress_Classification: QL737.C27
@@ -89,7 +102,7 @@ sequenced_genome_URL:
 Unicode_character: 🐻❄️
 ---
 
-# [[Polar_Bear]] 
+# [[Polar_Bear]] 🐻❄️ 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Polar_bear,33609|WD~Polar_bear,33609]]  
 

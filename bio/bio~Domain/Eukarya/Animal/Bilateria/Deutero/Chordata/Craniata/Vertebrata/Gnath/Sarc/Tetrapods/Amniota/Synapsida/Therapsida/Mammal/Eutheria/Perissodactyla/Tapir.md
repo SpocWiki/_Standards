@@ -2,7 +2,7 @@
 aliases:
   - Tapiridae
   - Tapir
-  - "Tapir": 
+  - Tapir: ''
 has_id_wikidata: Q128001
 confidential: private
 cssclasses:
@@ -12,26 +12,26 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: 
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: ''
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  "{ \"date:YYYY-MM-DD\": null }": 
+  '{ "date:YYYY-MM-DD": null }': ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  "Tapir": 
+  Tapir: ''
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle:
-  "Tapir": 
+  Tapir: ''
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-  - "Tapir": 
+  - Tapir: ''
   - excalidraw
 title:
-  "Tapir": 
+  Tapir: ''
 type: private_note
 ---
 

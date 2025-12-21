@@ -1,26 +1,39 @@
 ---
 aliases:
   - myrtle family
+  - Myrtaceae
+  - Миртовые
+  - Mirtáceas
+  - Myrttikasvit
+  - Myrtenplaanten
+  - Мирти
+  - Mirteachtigen
+  - mirtovke
+  - วงศ์ชมพู่
+  - Mersingiller
+  - Миртові
+  - 桃金娘科
+  - 桃金孃科
 has_id_wikidata: Q156563
 has_fruit_type:
-  - "[[_Standards/WikiData/WD~capsule,147768]]"
-  - "[[_Standards/WikiData/WD~berry,13184]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Q165152,165152]]"
+  - '[[_Standards/WikiData/WD~capsule,147768]]'
+  - '[[_Standards/WikiData/WD~berry,13184]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Q165152,165152]]'
 described_by_source:
-  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_53(1),112869448]]"
+  - '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_53(1),112869448]]'
 taxon_synonym:
-  - "[[_Standards/WikiData/WD~Psiloxylaceae,13633878]]"
-  - "[[_Standards/WikiData/WD~Heteropyxidaceae,13633887]]"
+  - '[[_Standards/WikiData/WD~Psiloxylaceae,13633878]]'
+  - '[[_Standards/WikiData/WD~Heteropyxidaceae,13633887]]'
 start_time: -22000000-06
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Myrtales,21866]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "27172"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Myrtales,21866]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 27172
 taxon_common_name:
   - Миртовые
   - Mirtáceas

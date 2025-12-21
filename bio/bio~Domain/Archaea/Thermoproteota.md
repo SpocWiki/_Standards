@@ -1,7 +1,7 @@
 ---
 aliases:
-- Thermoproteota
-- Crenarchaeota
+  - Thermoproteota
+  - Crenarchaeota
 title: Crenarchaeota
 ---
 

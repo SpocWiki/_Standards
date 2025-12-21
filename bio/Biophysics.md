@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Biophysics
 has_id_wikidata: Q7100
 ---
 

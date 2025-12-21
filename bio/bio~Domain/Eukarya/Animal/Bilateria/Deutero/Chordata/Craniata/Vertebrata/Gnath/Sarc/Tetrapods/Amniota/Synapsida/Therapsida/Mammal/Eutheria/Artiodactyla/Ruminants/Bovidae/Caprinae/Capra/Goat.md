@@ -2,6 +2,11 @@
 aliases:
   - Capra hircus
   - domestic goat
+  - Goat
+  - koza
+  - Hausziege
+  - cabra
+  - Domestic Goat
 has_id_wikidata: Q2934
 taxon_rank: "[[_Standards/WikiData/WD~subspecies,68947]]"
 has_part_s_: "[[_Standards/WikiData/WD~horn,82025]]"
@@ -39,7 +44,7 @@ gestation_period: 22
 heart_rate: 75
 longest_observed_lifespan: 20.8
 period_of_lactation: 305
-OmegaWiki_Defined_Meaning: "6257"
+OmegaWiki_Defined_Meaning: 6257
 taxon_common_name:
   - Goat
   - koza
@@ -51,11 +56,11 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Billy%20goat.jpg
 Iconclass_notation:
   - 47I214
   - 25F24(GOAT)
-UNSPSC_Code: "10101508"
+UNSPSC_Code: 10101508
 taxon_name: Capra aegagrus hircus
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Baby%20goats%20in%20Ireland.webm
 Unicode_character: 🐐
-P8189: "987007533768305171"
+P8189: 987007533768305200
 MeSH_tree_code: B01.050.150.900.649.313.500.380.513
 Krugosvet_article: biologiya/koza
 UMLS_CUI: C1510458
@@ -63,7 +68,7 @@ Commons_category: Goats
 UNII: S1T5L68831
 ---
 
-# [[Goat]] 
+# [[Goat]] 🐐  
 
 
 ![[Goat/Goat.jpg]]

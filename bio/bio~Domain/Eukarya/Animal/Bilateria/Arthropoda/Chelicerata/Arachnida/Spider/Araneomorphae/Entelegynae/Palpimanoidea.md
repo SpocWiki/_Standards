@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Palpimanoidea
 title: Palpimanoidea
 ---
 

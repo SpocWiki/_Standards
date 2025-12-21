@@ -1,5 +1,7 @@
 ---
-title: "Acanthostega gunnari"
+aliases:
+  - Acanthostega
+title: Acanthostega gunnari
 ---
 
 ## [[Acanthostega]]

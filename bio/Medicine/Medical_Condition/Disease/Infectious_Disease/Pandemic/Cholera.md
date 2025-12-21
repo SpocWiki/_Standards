@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cholera
 has_id_wikidata: Q12090
 ---
 

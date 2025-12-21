@@ -4,20 +4,22 @@ aliases:
   - medical_trial_design
   - MedicalTrialDesign
   - is_a_medical_trial_design
+  - Medical_Trial_Design
+  - Medical Trial Design
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_trial_design
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_trial_design Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

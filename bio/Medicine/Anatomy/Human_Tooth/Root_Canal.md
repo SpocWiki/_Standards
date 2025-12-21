@@ -1,10 +1,12 @@
 ---
 aliases:
   - Wurzelkanal
+  - Root_Canal
+  - Root Canal
 has_id_wikidata: Q848390
-part_of: "[[_Standards/WikiData/WD~radice,24960869]]"
-subclass_of: "[[_Standards/WikiData/WD~subdivision_of_cavity_of_tooth,66545293]]"
-instance_of: "[[_Standards/WikiData/WD~anatomical_space_class_type,113571289]]"
+part_of: '[[_Standards/WikiData/WD~radice,24960869]]'
+subclass_of: '[[_Standards/WikiData/WD~subdivision_of_cavity_of_tooth,66545293]]'
+instance_of: '[[_Standards/WikiData/WD~anatomical_space_class_type,113571289]]'
 Commons_category: Dentistry
 WordLift_URL: http://data.wordlift.io/wl01714/entity/root_canal
 MeSH_tree_code: A14.549.167.900.750

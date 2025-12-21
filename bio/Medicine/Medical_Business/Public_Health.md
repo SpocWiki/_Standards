@@ -6,22 +6,24 @@ aliases:
   - PublicHealth
   - is_a_public_health
   - Health
+  - Public_Health
+  - Public Health
 has_id_wikidata: Q189603
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - public_health
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_public_health Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
@@ -31,26 +33,26 @@ Library_of_Congress_Classification:
   - RA421-RA790.95
   - RA
 OpenStreetMap_tag: healthcare:speciality=community
-facet_of: "[[_Standards/WikiData/WD~risk_management,189447]]"
+facet_of: '[[_Standards/WikiData/WD~risk_management,189447]]'
 instance_of:
-  - "[[../../../WikiData/WD~work,268378]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - '[[../../../WikiData/WD~work,268378]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~health_sciences,843601]]"
-  - "[[_Standards/WikiData/WD~social_science,34749]]"
+  - '[[_Standards/WikiData/WD~health_sciences,843601]]'
+  - '[[_Standards/WikiData/WD~social_science,34749]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~public_health_physician,10334684]]"
-  - "[[_Standards/WikiData/WD~public_health_scientist,24017732]]"
+  - '[[_Standards/WikiData/WD~public_health_physician,10334684]]'
+  - '[[_Standards/WikiData/WD~public_health_scientist,24017732]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Public_health,10987181]]"
-  - "[[_Standards/WikiData/WD~Template_Public_health_sidebar,124618992]]"
+  - '[[_Standards/WikiData/WD~Template_Public_health,10987181]]'
+  - '[[_Standards/WikiData/WD~Template_Public_health_sidebar,124618992]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-  - "[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-studied_by: "[[_Standards/WikiData/WD~health_economics,31218]]"
-OmegaWiki_Defined_Meaning: "3034"
-U_S_National_Archives_Identifier: "10643794"
+  - '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+  - '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+studied_by: '[[_Standards/WikiData/WD~health_economics,31218]]'
+OmegaWiki_Defined_Meaning: 3034
+U_S_National_Archives_Identifier: 10643794
 DPLA_subject_term: Public Health
 subreddit: publichealth
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Salk%20headlines.jpg

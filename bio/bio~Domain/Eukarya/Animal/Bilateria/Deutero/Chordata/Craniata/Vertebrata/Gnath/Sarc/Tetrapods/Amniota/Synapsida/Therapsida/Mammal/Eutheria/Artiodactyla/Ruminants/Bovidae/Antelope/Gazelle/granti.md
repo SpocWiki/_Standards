@@ -1,5 +1,7 @@
 ---
-title: "Gazella granti"
+aliases:
+  - granti
+title: Gazella granti
 ---
 
 # Gazella granti 

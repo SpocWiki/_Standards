@@ -1,7 +1,8 @@
 ---
 aliases:
-- Deuter
-- Deuterostomia
+  - Deuter
+  - Deuterostomia
+  - Deutero
 title: Deuterostomia
 ---
 

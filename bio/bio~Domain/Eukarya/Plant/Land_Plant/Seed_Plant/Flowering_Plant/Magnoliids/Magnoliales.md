@@ -1,6 +1,6 @@
 ---
 aliases:
-- Magnoliales
+  - Magnoliales
 title: Magnoliales
 ---
 

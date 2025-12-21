@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Agaricomycotina
 title: Agaricomycotina
 ---
 

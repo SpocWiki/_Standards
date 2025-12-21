@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Pickfordiateuthis
 title: Pickfordiateuthis
 ---
 

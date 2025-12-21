@@ -1,21 +1,26 @@
 ---
+aliases:
+  - Citrus
+  - 柑桔属
+  - citrus
+  - 柑橘属
+has_id_wikidata: Q81513
 Commons_category: Citrus
 Commons_gallery: Citrus
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_43(2),112869427]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_43(2),112869427]]'
 Dewey_Decimal_Classification:
-- 634.304
-- 635.93377
-- 583.77
+  - 634.304
+  - 635.93377
+  - 583.77
 EPPO_Code: 1CIDG
-GRIN_URL: "https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=2640"
+GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=2640
 has_fruit_type: '[[_Standards/WikiData/WD~hesperidium,1429336]]'
-has_id_wikidata: Q81513
 image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Mandarin%20tree%20closeup.JPG"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/OrangeBloss%20wb.jpg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Mandarin%20tree%20closeup.JPG
+  - http://commons.wikimedia.org/wiki/Special:FilePath/OrangeBloss%20wb.jpg
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 28882
 MeSH_tree_code: B01.875.800.575.912.250.875.177
@@ -24,17 +29,17 @@ OmegaWiki_Defined_Meaning: 492529
 parent_taxon: '[[_Standards/WikiData/WD~Citreae,3216053]]'
 subclass_of: '[[_Standards/WikiData/WD~fruit,3314483]]'
 taxon_common_name:
-- 柑桔属
-- citrus
-- citrus
-- 柑橘属
-- 柑橘属
+  - 柑桔属
+  - citrus
+  - citrus
+  - 柑橘属
+  - 柑橘属
 taxon_name: Citrus
 taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 taxon_synonym: '[[_Standards/WikiData/WD~Fortunella,106090]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~citrus_fruit,2574750]]'
-- '[[_Standards/WikiData/WD~citrus_juice,104126379]]'
+  - '[[_Standards/WikiData/WD~citrus_fruit,2574750]]'
+  - '[[_Standards/WikiData/WD~citrus_juice,104126379]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Citrus,7638507]]'
 UMLS_CUI: C1258049
 UNII: C43ZMR4H4K

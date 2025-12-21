@@ -1,9 +1,9 @@
 ---
-title: Caudata
 aliases:
   - Caudata
   - Salamander
 has_id_wikidata: Q53663
+title: Caudata
 ---
 
 # [[Caudata]]

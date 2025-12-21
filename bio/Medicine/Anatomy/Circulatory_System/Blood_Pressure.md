@@ -1,7 +1,9 @@
 ---
-has_id_wikidata: Q82642
 aliases:
   - Blutdruck
+  - Blood_Pressure
+  - Blood Pressure
+has_id_wikidata: Q82642
 ---
 
 # [[Blood_Pressure]] 

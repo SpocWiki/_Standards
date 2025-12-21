@@ -4,21 +4,23 @@ aliases:
   - fd_anot_evaluated
   - FDAnotEvaluated
   - is_a_fd_anot_evaluated
+  - Fda_not_Evaluated
+  - Fda not Evaluated
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: DrugPregnancyCategory
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - fd_anot_evaluated
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_fd_anot_evaluated Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

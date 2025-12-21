@@ -1,5 +1,7 @@
 ---
-title: "Aegla obstipa"
+aliases:
+  - obstipa
+title: Aegla obstipa
 ---
 
 ## Phylogeny 

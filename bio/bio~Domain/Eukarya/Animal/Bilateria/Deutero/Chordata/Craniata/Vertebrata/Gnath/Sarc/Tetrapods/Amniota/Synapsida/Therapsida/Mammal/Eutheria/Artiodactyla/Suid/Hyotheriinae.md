@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Hyotheriinae
 title: Hyotheriinae
 ---
 

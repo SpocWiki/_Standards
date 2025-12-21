@@ -1,5 +1,7 @@
 ---
-title: "Mastigoteuthis famelica"
+aliases:
+  - famelica
+title: Mastigoteuthis famelica
 ---
 
 ## Phylogeny 

@@ -1,5 +1,7 @@
 ---
-title: "Ruellia inflata clade"
+aliases:
+  - inflata
+title: Ruellia inflata clade
 ---
 
 # Ruellia inflata  

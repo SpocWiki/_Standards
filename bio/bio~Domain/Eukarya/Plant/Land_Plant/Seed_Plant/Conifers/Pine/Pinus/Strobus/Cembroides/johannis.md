@@ -1,5 +1,7 @@
 ---
-title: "Pinus johannis"
+aliases:
+  - johannis
+title: Pinus johannis
 ---
 
 ## Phylogeny 

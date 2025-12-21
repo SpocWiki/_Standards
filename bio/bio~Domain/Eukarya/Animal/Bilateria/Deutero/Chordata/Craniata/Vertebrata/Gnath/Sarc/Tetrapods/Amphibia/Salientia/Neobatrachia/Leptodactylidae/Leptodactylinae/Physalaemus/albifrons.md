@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus albifrons"
+aliases:
+  - albifrons
+title: Physalaemus albifrons
 ---
 
 ## Phylogeny 

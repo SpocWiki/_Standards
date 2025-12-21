@@ -4,21 +4,23 @@ aliases:
   - recruiting
   - Recruiting
   - is_a_recruiting
+  - Study_is_recruiting
+  - Study is recruiting
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalStudyStatus
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - recruiting
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_recruiting Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,9 +1,41 @@
 ---
+aliases:
+  - Tyrannosauroidea
+  - Тираннозавр
+  - Тиранозавр
+  - Тиранозавър
+  - Tiranosaor
+  - Tiranosaure
+  - टायरानोसौरस
+  - Tiranosaur
+  - Tiranozauras
+  - Tiranozauri
+  - Tyranozaur
+  - Tiranossauro
+  - Tiranuozaurs
+  - טירנוזאוריים
+  - ንጉሥ አምባገነን እንሽላሊት
+  - تيرانوصور
+  - Тѷранносаѵръ
+  - Τυραννόσαυρος
+  - Tiranosaŭro
+  - Tiranosaurio
+  - Tyrannilisko
+  - Tyrannosaure
+  - Gramedla
+  - ティラノサウルス属
+  - 티라노사우루스 렉스
+  - റ്റിറാനോസാറസ് റക്സ്
+  - tiranozaver
+  - Тираносаурус
+  - ไทรันโนซอรัส เร็กซ์
+  - 暴龍
+  - 暴龍屬
+has_id_wikidata: Q14332
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaurus%20rex%20skeleton.stl
 Commons_category: Tyrannosaurus
 Commons_gallery: Tyrannosaurus
 end_time: -66000000-01-01
-has_id_wikidata: Q14332
 height: 3.6
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stan%20the%20Trex%20at%20Manchester%20Museum.jpg
 instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
@@ -58,7 +90,7 @@ Unicode_character: 🦖
 Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Tyrannosaurus"]
 ---
 
-# [[Tyrannosauroidea]]
+# [[Tyrannosauroidea]] 🦖 
 
 ![[Tyrannosauroid.jpg]]
 

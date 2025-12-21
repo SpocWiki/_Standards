@@ -1,6 +1,16 @@
 ---
 aliases:
   - Rüsselkäfer
+  - Curculionidae
+  - słoniki
+  - pravi rilčkarji
+  - 象甲科
+  - curculionids
+  - snout beetles
+  - true weevils
+  - Snuitkevers
+  - snutebiller
+  - ryjkowcowate
 has_id_wikidata: Q7415384
 taxon_common_name:
   - słoniki
@@ -13,16 +23,16 @@ taxon_common_name:
   - Snuitkevers
   - snutebiller
   - ryjkowcowate
-parent_taxon: "[[_Standards/WikiData/WD~Curculionoidea,383963]]"
+parent_taxon: '[[_Standards/WikiData/WD~Curculionoidea,383963]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-different_from: "[[_Standards/WikiData/WD~pipe,41551]]"
-ITIS_TSN: "114666"
+  - '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+different_from: '[[_Standards/WikiData/WD~pipe,41551]]'
+ITIS_TSN: 114666
 Commons_category: Curculionidae
 taxon_name: Curculionidae
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Weevil%20September%202008-1.jpg

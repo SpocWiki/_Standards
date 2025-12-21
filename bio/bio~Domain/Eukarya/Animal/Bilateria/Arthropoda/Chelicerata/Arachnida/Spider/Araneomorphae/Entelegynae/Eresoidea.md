@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Eresoidea
 title: Eresoidea
 ---
 

@@ -1,6 +1,48 @@
 ---
 aliases:
   - hemp family
+  - Cannabaceae
+  - アサ科
+  - კანაფისებრნი
+  - 삼과
+  - Kanapiniai
+  - Kaņepju dzimta
+  - Конопи
+  - Олсныхон
+  - Hampfamilien
+  - Hennepfamilie
+  - بھنگ ٹبر
+  - Kañamu yura rikch'aq ayllu
+  - Коноплёвые
+  - konopovité
+  - konopljevke
+  - Hampväxter
+  - วงศ์กัญชา
+  - Kendirgiller
+  - Киндерчәләр
+  - Коноплеві
+  - Nashadoshlar
+  - Họ Gai dầu
+  - 大麻科
+  - Konopiowate
+  - قنبية
+  - Kənafkimilər
+  - Cannabàcia
+  - Hamp-familien
+  - Hanfgewächse
+  - Hemp family
+  - Kanabacoj
+  - Cannabáceas
+  - Kanepilised
+  - شاهدانگان
+  - Hamppukasvit
+  - Cannabinacée
+  - Henepplaanten
+  - קנאביים
+  - Konopljovke
+  - Konopowe rostliny
+  - Kenderfélék
+  - Humlaætt
 has_id_wikidata: Q156338
 taxon_common_name:
   - アサ科
@@ -45,12 +87,12 @@ taxon_common_name:
   - Konopowe rostliny
   - Kenderfélék
   - Humlaætt
-taxonomic_type: "[[_Standards/WikiData/WD~Cannabis,79817]]"
-described_by_source: "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[../../../../../../../../../../../WikiData/WD~Rosales,21895]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "19118"
+taxonomic_type: '[[_Standards/WikiData/WD~Cannabis,79817]]'
+described_by_source: '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[../../../../../../../../../../../WikiData/WD~Rosales,21895]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 19118
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Cannabis%2001%20bgiu.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Hop%20mannelijke%20bloeiwijze%20Humulus%20lupulus%20male%20plant.jpg

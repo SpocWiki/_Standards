@@ -1,5 +1,8 @@
 ---
-title: "Promachoteuthis sp. B"
+aliases:
+  - Promachoteuthis_B
+  - Promachoteuthis B
+title: Promachoteuthis sp. B
 ---
 
 ## [[Promachoteuthis_B]] 

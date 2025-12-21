@@ -1,15 +1,17 @@
 ---
 aliases:
   - optische Täuschung
+  - Optical_Illusion
+  - Optical Illusion
 has_id_wikidata: Q174923
-subclass_of: "[[_Standards/WikiData/WD~illusion,182593]]"
+subclass_of: '[[_Standards/WikiData/WD~illusion,182593]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-different_from: "[[_Standards/WikiData/WD~optical_illusion_image,123261191]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+different_from: '[[_Standards/WikiData/WD~optical_illusion_image,123261191]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Grey%20square%20optical%20illusion.svg
 Commons_category: Optical illusions
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Aniopticalillusion.gif

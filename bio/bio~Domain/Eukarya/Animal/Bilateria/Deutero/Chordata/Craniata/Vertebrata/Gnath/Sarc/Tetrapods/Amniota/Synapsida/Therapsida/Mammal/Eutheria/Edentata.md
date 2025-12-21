@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Edentata
 title: Edentata
 ---
 

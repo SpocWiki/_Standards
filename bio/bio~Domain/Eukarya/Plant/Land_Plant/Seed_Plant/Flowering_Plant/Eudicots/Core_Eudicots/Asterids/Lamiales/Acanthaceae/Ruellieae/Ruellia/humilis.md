@@ -1,5 +1,7 @@
 ---
-title: "Ruellia humilis clade"
+aliases:
+  - humilis
+title: Ruellia humilis clade
 ---
 
 # Ruellia humilis  

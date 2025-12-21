@@ -1,5 +1,8 @@
 ---
-title: "New Genus C"
+aliases:
+  - Planctoteuthis_C
+  - Planctoteuthis C
+title: New Genus C
 ---
 
 # *New Genus C* 

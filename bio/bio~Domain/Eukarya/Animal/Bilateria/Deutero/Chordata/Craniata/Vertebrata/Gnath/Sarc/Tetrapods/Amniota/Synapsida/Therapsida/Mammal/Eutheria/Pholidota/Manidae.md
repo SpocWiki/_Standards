@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Manidae
 title: Manidae
 ---
 

@@ -1,9 +1,9 @@
 ---
-has_id_wikidata: Q995745
 aliases:
   - Selective breeding
   - Artificial Selection
   - Artificial_Selection
+has_id_wikidata: Q995745
 ---
 
 # [[Artificial_Selection]] 

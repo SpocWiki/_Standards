@@ -1,6 +1,6 @@
 ---
 aliases:
-- Liliales
+  - Liliales
 title: Liliales
 ---
 

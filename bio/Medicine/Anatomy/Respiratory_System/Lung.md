@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Lung
+has_id_wikidata: Q7886
 anatomical_location: "[[_Standards/WikiData/WD~cavity_of_bony_thorax,994554]]"
 arterial_supply: "[[_Standards/WikiData/WD~pulmonary_artery,206280]]"
 Baidu_Tieba_name: 肺
@@ -12,7 +15,6 @@ described_by_source:
 development_of_anatomical_structure: "[[_Standards/WikiData/WD~lung_development,14327711]]"
 different_from: "[[_Standards/WikiData/WD~pair_of_lungs,103998540]]"
 ground_level_360_degree_view_URL: https://www.zygotebody.com/#nav=-4.65,113.68,119.59,0,0,0,0&sel=p:;h:;s:1175,1177;c:-0.6;o:-0.75&layers=0,0,5000,0,0,0,0,10000,10000,10000,10000
-has_id_wikidata: Q7886
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~pulmonary_lobe,7259536]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thorax%20Lung%203d%20from%20ct%20scans.jpg
 instance_of:
@@ -35,7 +37,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/So%20funktioniert%20di
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/lungs
 ---
 
-# [[Lung]] 
+# [[Lung]] 🫁 
 
 #is_/same_as :: [[../../../../WikiData/WD~Lung,7886|WD~Lung,7886]] 
 

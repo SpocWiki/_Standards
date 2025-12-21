@@ -3,6 +3,7 @@ aliases:
   - Dog
   - dogs
   - Hund
+has_id_wikidata: Q144
 Archive_of_Our_Own_tag: Dog (Character)
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Barking%20of%20a%20dog%202.ogg
 Baidu_Tieba_name: 狗
@@ -56,7 +57,6 @@ hashtag:
 has_characteristic:
   - "[[_Standards/WikiData/WD~activity_policy_on_dogs,110997494]]"
   - "[[_Standards/WikiData/WD~starch_digestion_ability,115298800]]"
-has_id_wikidata: Q144
 has_use:
   - "[[_Standards/WikiData/WD~medical_treatment,179661]]"
   - "[[_Standards/WikiData/WD~guard,680928]]"
@@ -120,7 +120,7 @@ uses: "[[_Standards/WikiData/WD~dog_bed,54502633]]"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Canemangia.ogv
 ---
 
-# [[Dog]] 
+# [[Dog]] 🐶 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Dog,144|WD~Dog,144]]  
 

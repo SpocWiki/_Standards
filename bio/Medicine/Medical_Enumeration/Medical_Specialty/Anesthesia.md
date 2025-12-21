@@ -1,25 +1,25 @@
 ---
-has_id_wikidata: Q131130
 aliases:
   - anesthesia
   - Anaesthesia
   - Anesthesia
   - is_an_anesthesia
+has_id_wikidata: Q131130
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - anesthesia
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_anesthesia Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

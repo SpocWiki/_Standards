@@ -1,5 +1,7 @@
 ---
-title: "Aegla franciscana"
+aliases:
+  - franciscana
+title: Aegla franciscana
 ---
 
 ## Phylogeny 

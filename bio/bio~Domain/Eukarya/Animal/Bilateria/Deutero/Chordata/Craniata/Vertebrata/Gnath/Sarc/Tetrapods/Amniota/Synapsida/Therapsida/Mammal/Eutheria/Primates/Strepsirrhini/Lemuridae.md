@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Lemuridae
 title: Lemuridae
 ---
 

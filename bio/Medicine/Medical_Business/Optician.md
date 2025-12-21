@@ -10,27 +10,27 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - optician
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_optician Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_optician Class
 type: Type
-subclass_of: "[[_Standards/WikiData/WD~physicist,169470]]"
-different_from: "[[_Standards/WikiData/WD~optician,1996635]]"
+subclass_of: '[[_Standards/WikiData/WD~physicist,169470]]'
+different_from: '[[_Standards/WikiData/WD~optician,1996635]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~occupation,12737077]]"
-  - "[[_Standards/WikiData/WD~profession,28640]]"
-field_of_this_occupation: "[[_Standards/WikiData/WD~optics,14620]]"
+  - '[[_Standards/WikiData/WD~occupation,12737077]]'
+  - '[[_Standards/WikiData/WD~profession,28640]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~optics,14620]]'
 female_form_of_label:
   - opticienne
   - Optikerin

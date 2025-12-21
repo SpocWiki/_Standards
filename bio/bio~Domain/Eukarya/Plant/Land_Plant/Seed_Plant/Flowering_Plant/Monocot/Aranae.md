@@ -1,8 +1,9 @@
 ---
 aliases:
-- aroid
-- Arana
-- Ariflorae
+  - aroid
+  - Arana
+  - Ariflorae
+  - Aranae
 title: Aranae
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: "Cirroctopus mawsoni"
+aliases:
+  - mawsoni
+title: Cirroctopus mawsoni
 ---
 
 ## Phylogeny 

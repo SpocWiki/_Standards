@@ -1,30 +1,31 @@
 ---
 aliases:
   - polycarbohydrates
+  - Polysaccharide
 has_id_wikidata: Q134219
-polymer_of: "[[_Standards/WikiData/WD~monosaccharide,133516]]"
+polymer_of: '[[_Standards/WikiData/WD~monosaccharide,133516]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~macromolecule,178593]]"
-  - "[[_Standards/WikiData/WD~biopolymer,422649]]"
-  - "[[_Standards/WikiData/WD~carbohydrate,11358]]"
-opposite_of: "[[_Standards/WikiData/WD~oligosaccharide,320607]]"
+  - '[[_Standards/WikiData/WD~macromolecule,178593]]'
+  - '[[_Standards/WikiData/WD~biopolymer,422649]]'
+  - '[[_Standards/WikiData/WD~carbohydrate,11358]]'
+opposite_of: '[[_Standards/WikiData/WD~oligosaccharide,320607]]'
 described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
 part_of:
-  - "[[_Standards/WikiData/WD~polysaccharide_metabolic_process,14911882]]"
-  - "[[_Standards/WikiData/WD~polysaccharide_binding,14913994]]"
-  - "[[_Standards/WikiData/WD~polysaccharide_catabolic_process,21100756]]"
-  - "[[_Standards/WikiData/WD~polysaccharide_biosynthetic_process,21123055]]"
-  - "[[_Standards/WikiData/WD~polysaccharide_localization,21130056]]"
-  - "[[_Standards/WikiData/WD~polysaccharide_transmembrane_transporter_activity,21758315]]"
-  - "[[_Standards/WikiData/WD~polysaccharide_immune_receptor_activity,22243600]]"
-  - "[[_Standards/WikiData/WD~glycolysis_from_storage_polysaccharide_through_glucose_1_phosphate,22275638]]"
-  - "[[_Standards/WikiData/WD~polysaccharide_transport,22292328]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+  - '[[_Standards/WikiData/WD~polysaccharide_metabolic_process,14911882]]'
+  - '[[_Standards/WikiData/WD~polysaccharide_binding,14913994]]'
+  - '[[_Standards/WikiData/WD~polysaccharide_catabolic_process,21100756]]'
+  - '[[_Standards/WikiData/WD~polysaccharide_biosynthetic_process,21123055]]'
+  - '[[_Standards/WikiData/WD~polysaccharide_localization,21130056]]'
+  - '[[_Standards/WikiData/WD~polysaccharide_transmembrane_transporter_activity,21758315]]'
+  - '[[_Standards/WikiData/WD~polysaccharide_immune_receptor_activity,22243600]]'
+  - '[[_Standards/WikiData/WD~glycolysis_from_storage_polysaccharide_through_glucose_1_phosphate,22275638]]'
+  - '[[_Standards/WikiData/WD~polysaccharide_transport,22292328]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~hydrogen,556]]"
-  - "[[_Standards/WikiData/WD~carbon,623]]"
-  - "[[_Standards/WikiData/WD~oxygen,629]]"
-OmegaWiki_Defined_Meaning: "428407"
+  - '[[_Standards/WikiData/WD~hydrogen,556]]'
+  - '[[_Standards/WikiData/WD~carbon,623]]'
+  - '[[_Standards/WikiData/WD~oxygen,629]]'
+OmegaWiki_Defined_Meaning: 428407
 UMLS_CUI: C0032594
 MeSH_tree_code: D09.698
 Commons_category: Polysaccharides

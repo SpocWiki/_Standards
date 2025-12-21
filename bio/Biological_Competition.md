@@ -1,9 +1,12 @@
 ---
+aliases:
+  - Biological_Competition
+  - Biological Competition
 has_id_wikidata: Q45767
-different_from: "[[_Standards/WikiData/WD~economic_competition,319676]]"
-subclass_of: "[[_Standards/WikiData/WD~competition,476300]]"
-part_of: "[[_Standards/WikiData/WD~phytosociology,1138244]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q9484464,9484464]]"
+different_from: '[[_Standards/WikiData/WD~economic_competition,319676]]'
+subclass_of: '[[_Standards/WikiData/WD~competition,476300]]'
+part_of: '[[_Standards/WikiData/WD~phytosociology,1138244]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9484464,9484464]]'
 Commons_category: Competition (biology)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20bucks%20of%20Tal%20Chappar.jpg
 ---

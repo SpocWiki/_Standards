@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Baphetidae
 title: Baphetidae
 ---
 

@@ -1,13 +1,20 @@
 ---
 aliases:
   - Gila monster
+  - Gila_monster
+  - Gila Monster
+  - monstruu de xila
+  - Monstruo de Gila
+  - Lézard perlé
+  - Monstre de gila
+  - strupeni bradavičar
 has_id_wikidata: Q207058
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Near_Threatened,719675]]"
-parent_taxon: "[[_Standards/WikiData/WD~Heloderma,729412]]"
-diel_cycle: "[[_Standards/WikiData/WD~cathemeral,5052479]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-ITIS_TSN: "174113"
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Near_Threatened,719675]]'
+parent_taxon: '[[_Standards/WikiData/WD~Heloderma,729412]]'
+diel_cycle: '[[_Standards/WikiData/WD~cathemeral,5052479]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 174113
 taxon_common_name:
   - Gila monster
   - Gila Monster

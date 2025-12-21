@@ -4,8 +4,9 @@ aliases:
   - Squirrel
   - Squirrels
   - Eichhörnchen
-title: Sciuridae
+  - ekornfamilien
 has_id_wikidata: Q9482
+title: Sciuridae
 described_by_source:
   - "[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -20,7 +21,7 @@ this_taxon_is_source_of: "[[_Standards/WikiData/WD~squirrel_skin,111045633]]"
 code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "180135"
+ITIS_TSN: 180135
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sciurus%20carolinensis.jpg
 taxon_common_name: ekornfamilien
 Commons_gallery: Sciuridae
@@ -33,10 +34,10 @@ EPPO_Code: 1SCIUF
 MeSH_tree_code: B01.050.150.900.649.313.992.750
 UMLS_CUI: C0087017
 NBN_System_Key: NHMSYS0000376182
-Dewey_Decimal_Classification: "599.36"
+Dewey_Decimal_Classification: 599.36
 ---
 
-# [[Squirrel]]
+# [[Squirrel]] 🐿 
  
 
  ![](Squirrel/gndsqu.jpg)  ![ ](Squirrel/Marmot.jpg) 

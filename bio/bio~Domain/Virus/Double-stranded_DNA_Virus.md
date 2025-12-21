@@ -1,5 +1,8 @@
 ---
-title: "Double-stranded DNA Viruses"
+aliases:
+  - Double-stranded_DNA_Virus
+  - Double-stranded DNA Virus
+title: Double-stranded DNA Viruses
 ---
 
 ## Phylogeny 

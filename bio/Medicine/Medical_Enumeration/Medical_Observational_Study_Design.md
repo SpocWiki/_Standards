@@ -4,20 +4,22 @@ aliases:
   - medical_observational_study_design
   - MedicalObservationalStudyDesign
   - is_a_medical_observational_study_design
+  - Medical_Observational_Study_Design
+  - Medical Observational Study Design
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_observational_study_design
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_observational_study_design Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

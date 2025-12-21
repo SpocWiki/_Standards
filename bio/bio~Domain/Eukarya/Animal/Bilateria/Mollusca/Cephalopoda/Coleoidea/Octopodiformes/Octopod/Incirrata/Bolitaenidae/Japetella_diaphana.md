@@ -1,5 +1,8 @@
 ---
-title: "Japetella diaphana"
+aliases:
+  - Japetella_diaphana
+  - Japetella diaphana
+title: Japetella diaphana
 ---
 
 # [[Japetella diaphana]] 

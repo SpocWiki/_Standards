@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Palaeobatrachidae
 title: Palaeobatrachidae
 ---
 

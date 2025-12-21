@@ -1,5 +1,7 @@
 ---
-title: "Aegla ligulata"
+aliases:
+  - ligulata
+title: Aegla ligulata
 ---
 
 # Aegla ligulata 

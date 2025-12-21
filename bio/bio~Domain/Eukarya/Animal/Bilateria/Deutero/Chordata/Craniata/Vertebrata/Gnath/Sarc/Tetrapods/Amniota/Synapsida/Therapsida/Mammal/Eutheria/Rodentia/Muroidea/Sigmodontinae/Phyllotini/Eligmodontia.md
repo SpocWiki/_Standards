@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Eligmodontia
 title: Eligmodontia
 ---
 

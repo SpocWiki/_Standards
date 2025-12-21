@@ -3,6 +3,7 @@ aliases:
   - Cadaver
   - Leiche
   - Leichnam
+  - Corpse
 has_id_wikidata: Q48422
 ---
 

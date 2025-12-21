@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Astacidea
 title: Astacidea
 ---
 

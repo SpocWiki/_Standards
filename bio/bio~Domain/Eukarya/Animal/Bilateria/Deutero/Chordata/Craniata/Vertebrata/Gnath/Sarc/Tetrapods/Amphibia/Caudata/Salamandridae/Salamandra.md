@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Salamandra
 title: Salamandra
 ---
 

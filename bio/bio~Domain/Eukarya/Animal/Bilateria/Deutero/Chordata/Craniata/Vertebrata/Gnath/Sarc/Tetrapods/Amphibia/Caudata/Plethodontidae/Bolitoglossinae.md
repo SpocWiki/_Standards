@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bolitoglossinae
 title: Bolitoglossinae
 ---
 

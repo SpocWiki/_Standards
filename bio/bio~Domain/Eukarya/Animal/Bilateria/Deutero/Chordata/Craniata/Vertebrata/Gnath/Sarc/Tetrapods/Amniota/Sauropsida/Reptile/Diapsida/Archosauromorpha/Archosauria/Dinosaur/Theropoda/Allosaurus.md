@@ -1,22 +1,39 @@
 ---
+aliases:
+  - Allosaurus
+  - アロサウルス
+  - ألوصور
+  - Алозавър
+  - Al·losaure
+  - Αλλόσαυρος
+  - Alosaŭro
+  - Allosaure
+  - אלוזאור שברירי
+  - अल्लोसौरस
+  - 알로사우루스
+  - Alozauras
+  - Allozaur
+  - Alossauro
+  - Аллозавр
+  - 異特龍屬
 has_id_wikidata: Q14400
-main_food_source: "[[_Standards/WikiData/WD~carnivore,81875]]"
+main_food_source: '[[_Standards/WikiData/WD~carnivore,81875]]'
 taxon_synonym:
-  - "[[_Standards/WikiData/WD~Wyomingraptor,995519]]"
-  - "[[_Standards/WikiData/WD~Madsenius,6728748]]"
+  - '[[_Standards/WikiData/WD~Wyomingraptor,995519]]'
+  - '[[_Standards/WikiData/WD~Madsenius,6728748]]'
 location_of_discovery:
-  - "[[_Standards/WikiData/WD~Dinosaur_National_Monument,1226698]]"
-  - "[[_Standards/WikiData/WD~Garden_Park,3095430]]"
-  - "[[_Standards/WikiData/WD~Dry_Mesa_Quarry,5309537]]"
-  - "[[_Standards/WikiData/WD~Cleveland_Lloyd_Dinosaur_Quarry,32356]]"
-  - "[[_Standards/WikiData/WD~Portugal,45]]"
-instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
-parent_taxon: "[[_Standards/WikiData/WD~Allosaurinae,33149455]]"
+  - '[[_Standards/WikiData/WD~Dinosaur_National_Monument,1226698]]'
+  - '[[_Standards/WikiData/WD~Garden_Park,3095430]]'
+  - '[[_Standards/WikiData/WD~Dry_Mesa_Quarry,5309537]]'
+  - '[[_Standards/WikiData/WD~Cleveland_Lloyd_Dinosaur_Quarry,32356]]'
+  - '[[_Standards/WikiData/WD~Portugal,45]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
+parent_taxon: '[[_Standards/WikiData/WD~Allosaurinae,33149455]]'
 mass: 6
 length:
   - 12
   - 8.5
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Allosaurus%20Juvenile%20Reconstruction.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Allosaurus%20atrox%20%28theropod%20dinosaur%29%20%28Morrison%20Formation%2C%20Upper%20Jurassic%3B%20Carnegie%20Quarry%2C%20Dinosaur%20National%20Monument%2C%20Utah%2C%20USA%29%206%20%2848691922246%29.jpg

@@ -1,10 +1,11 @@
 ---
 aliases:
-- dominion
-- superkingdom
-- realm
-- empire
-- regio
+  - dominion
+  - superkingdom
+  - realm
+  - empire
+  - regio
+  - ReadMe
 has_id_wikidata: Q146481
 ---
 

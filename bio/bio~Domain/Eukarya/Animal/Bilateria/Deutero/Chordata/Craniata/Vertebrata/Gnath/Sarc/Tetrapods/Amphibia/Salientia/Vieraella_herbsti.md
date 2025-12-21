@@ -1,5 +1,8 @@
 ---
-title: "Vieraella herbsti"
+aliases:
+  - Vieraella_herbsti
+  - Vieraella herbsti
+title: Vieraella herbsti
 ---
 
 # Vieraella herbsti

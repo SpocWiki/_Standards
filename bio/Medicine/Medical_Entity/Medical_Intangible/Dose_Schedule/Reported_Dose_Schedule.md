@@ -4,20 +4,22 @@ aliases:
   - reported_dose_schedule
   - ReportedDoseSchedule
   - is_a_reported_dose_schedule
+  - Reported_Dose_Schedule
+  - Reported Dose Schedule
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - reported_dose_schedule
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_reported_dose_schedule Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

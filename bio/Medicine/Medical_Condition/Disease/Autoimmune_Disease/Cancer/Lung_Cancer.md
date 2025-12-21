@@ -2,68 +2,70 @@
 aliases:
   - Lung cancer
   - lung carcinoma
+  - Lung_Cancer
+  - Lung Cancer
 has_id_wikidata: Q47912
 Commons_category: Cancers of bronchus and lung
 GitHub_topic: lung-cancer
 has_cause:
-  - "[[_Standards/WikiData/WD~air_pollution,131123]]"
-  - "[[_Standards/WikiData/WD~passive_smoking,259516]]"
-  - "[[_Standards/WikiData/WD~smoking,662860]]"
-  - "[[_Standards/WikiData/WD~asbestosis,664174]]"
-  - "[[_Standards/WikiData/WD~tobacco_smoking,7212330]]"
-  - "[[_Standards/WikiData/WD~radon,1133]]"
+  - '[[_Standards/WikiData/WD~air_pollution,131123]]'
+  - '[[_Standards/WikiData/WD~passive_smoking,259516]]'
+  - '[[_Standards/WikiData/WD~smoking,662860]]'
+  - '[[_Standards/WikiData/WD~asbestosis,664174]]'
+  - '[[_Standards/WikiData/WD~tobacco_smoking,7212330]]'
+  - '[[_Standards/WikiData/WD~radon,1133]]'
 health_specialty:
-  - "[[_Standards/WikiData/WD~oncology,162555]]"
-  - "[[_Standards/WikiData/WD~pulmonology,203337]]"
+  - '[[_Standards/WikiData/WD~oncology,162555]]'
+  - '[[_Standards/WikiData/WD~pulmonology,203337]]'
 medical_examination:
-  - "[[_Standards/WikiData/WD~biopsy,179991]]"
-  - "[[_Standards/WikiData/WD~bronchoscopy,237232]]"
-  - "[[_Standards/WikiData/WD~radiography,245341]]"
-  - "[[_Standards/WikiData/WD~computed_tomography,32566]]"
+  - '[[_Standards/WikiData/WD~biopsy,179991]]'
+  - '[[_Standards/WikiData/WD~bronchoscopy,237232]]'
+  - '[[_Standards/WikiData/WD~radiography,245341]]'
+  - '[[_Standards/WikiData/WD~computed_tomography,32566]]'
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~dyspnea,188008]]"
-  - "[[_Standards/WikiData/WD~anorexia,254327]]"
-  - "[[_Standards/WikiData/WD~wheeze,517104]]"
-  - "[[_Standards/WikiData/WD~hemoptysis,647099]]"
-  - "[[_Standards/WikiData/WD~chest_pain,693058]]"
-  - "[[_Standards/WikiData/WD~weight_loss,718113]]"
-  - "[[_Standards/WikiData/WD~fatigue,9690]]"
-  - "[[_Standards/WikiData/WD~cough,35805]]"
-studied_by: "[[_Standards/WikiData/WD~pulmonology,203337]]"
-risk_factor: "[[_Standards/WikiData/WD~smoking,662860]]"
+  - '[[_Standards/WikiData/WD~dyspnea,188008]]'
+  - '[[_Standards/WikiData/WD~anorexia,254327]]'
+  - '[[_Standards/WikiData/WD~wheeze,517104]]'
+  - '[[_Standards/WikiData/WD~hemoptysis,647099]]'
+  - '[[_Standards/WikiData/WD~chest_pain,693058]]'
+  - '[[_Standards/WikiData/WD~weight_loss,718113]]'
+  - '[[_Standards/WikiData/WD~fatigue,9690]]'
+  - '[[_Standards/WikiData/WD~cough,35805]]'
+studied_by: '[[_Standards/WikiData/WD~pulmonology,203337]]'
+risk_factor: '[[_Standards/WikiData/WD~smoking,662860]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~rare_disease,929833]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-anatomical_locations: "[[_Standards/WikiData/WD~human_lung,2640512]]"
+  - '[[_Standards/WikiData/WD~rare_disease,929833]]'
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+anatomical_locations: '[[_Standards/WikiData/WD~human_lung,2640512]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~lung_disease,3392853]]"
-  - "[[_Standards/WikiData/WD~respiratory_system_cancer,7315926]]"
-  - "[[_Standards/WikiData/WD~lung_neoplasm,15124212]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+  - '[[_Standards/WikiData/WD~lung_disease,3392853]]'
+  - '[[_Standards/WikiData/WD~respiratory_system_cancer,7315926]]'
+  - '[[_Standards/WikiData/WD~lung_neoplasm,15124212]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 genetic_association:
-  - "[[_Standards/WikiData/WD~GPC5,5573603]]"
-  - "[[_Standards/WikiData/WD~EGFR,14865565]]"
-  - "[[_Standards/WikiData/WD~CHEK2,14912280]]"
-  - "[[_Standards/WikiData/WD~TP63,15313986]]"
-  - "[[_Standards/WikiData/WD~TERT,15315135]]"
-  - "[[_Standards/WikiData/WD~BPTF,17927359]]"
-  - "[[_Standards/WikiData/WD~IL1RAP,18027817]]"
-  - "[[_Standards/WikiData/WD~RAD52,18031020]]"
-  - "[[_Standards/WikiData/WD~MTMR3,18033514]]"
-  - "[[_Standards/WikiData/WD~TGM5,18034010]]"
-  - "[[_Standards/WikiData/WD~PHACTR2,18034642]]"
-  - "[[_Standards/WikiData/WD~LRFN2,18043088]]"
-  - "[[_Standards/WikiData/WD~CLPTM1L,18046843]]"
-  - "[[_Standards/WikiData/WD~VTI1A,18051065]]"
-has_effect: "[[_Standards/WikiData/WD~death,4]]"
-DiseasesDB: "7616"
+  - '[[_Standards/WikiData/WD~GPC5,5573603]]'
+  - '[[_Standards/WikiData/WD~EGFR,14865565]]'
+  - '[[_Standards/WikiData/WD~CHEK2,14912280]]'
+  - '[[_Standards/WikiData/WD~TP63,15313986]]'
+  - '[[_Standards/WikiData/WD~TERT,15315135]]'
+  - '[[_Standards/WikiData/WD~BPTF,17927359]]'
+  - '[[_Standards/WikiData/WD~IL1RAP,18027817]]'
+  - '[[_Standards/WikiData/WD~RAD52,18031020]]'
+  - '[[_Standards/WikiData/WD~MTMR3,18033514]]'
+  - '[[_Standards/WikiData/WD~TGM5,18034010]]'
+  - '[[_Standards/WikiData/WD~PHACTR2,18034642]]'
+  - '[[_Standards/WikiData/WD~LRFN2,18043088]]'
+  - '[[_Standards/WikiData/WD~CLPTM1L,18046843]]'
+  - '[[_Standards/WikiData/WD~VTI1A,18051065]]'
+has_effect: '[[_Standards/WikiData/WD~death,4]]'
+DiseasesDB: 7616
 PubMed_Health: PMH0004529
 ICD_9_CM:
-  - "162.5"
-  - "162.3"
-  - "162.4"
-  - "162.8"
+  - 162.5
+  - 162.3
+  - 162.4
+  - 162.8
 ICD_10_CM:
   - C34.1
   - C34.2

@@ -5,6 +5,11 @@ aliases:
   - Dinosaurs
   - Dinosaurier
   - Dinosauria
+  - ਡਾਇਨਾਸੌਰ
+  - ڈائناسور
+  - ڈائناسر
+  - ڈائنوسار
+has_id_wikidata: Q430
 title: Dinosauria
 Commons_category: Dinosauria
 Commons_gallery: Dinosauria
@@ -19,7 +24,6 @@ different_from:
 hashtag:
   - dinosaur
   - dinosaurs
-has_id_wikidata: Q430
 has_list: "[[_Standards/WikiData/WD~list_of_dinosaurs,718452]]"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Brontosaurus%20parvus.jpg
@@ -56,7 +60,7 @@ Wolfram_Language_entity_type: Dinosaur
 WordLift_URL: http://data.thenextweb.com/tnw/entity/dinosaur
 ---
 
-# [[Dinosaur]] 
+# [[Dinosaur]] 🦕 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Dinosaur,430|WD~Dinosaur,430]] 
 

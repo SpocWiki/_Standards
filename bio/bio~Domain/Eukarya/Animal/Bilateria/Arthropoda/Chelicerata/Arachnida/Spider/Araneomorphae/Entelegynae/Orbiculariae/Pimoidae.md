@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Pimoidae
 title: Pimoidae
 ---
 

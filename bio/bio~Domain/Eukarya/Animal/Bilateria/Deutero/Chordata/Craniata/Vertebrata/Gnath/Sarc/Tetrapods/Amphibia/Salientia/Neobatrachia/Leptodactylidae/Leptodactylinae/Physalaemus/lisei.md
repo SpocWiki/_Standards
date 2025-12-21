@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus lisei"
+aliases:
+  - lisei
+title: Physalaemus lisei
 ---
 
 ## Phylogeny 

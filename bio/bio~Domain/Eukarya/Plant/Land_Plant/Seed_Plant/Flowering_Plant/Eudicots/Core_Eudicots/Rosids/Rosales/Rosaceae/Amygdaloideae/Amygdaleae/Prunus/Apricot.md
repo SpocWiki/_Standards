@@ -2,49 +2,60 @@
 aliases:
   - apricot
   - Prunus armeniaca
+  - Apricot
+  - 杏
+  - 野杏
+  - 归勒斯
+  - 杏树
+  - 杏花
+  - marelica
+  - albaricocal
+  - albercoquer
+  - meruňka obecná
+  - Abrikoos
 has_id_wikidata: Q37453
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~apricot_kernel,165527]]"
-  - "[[_Standards/WikiData/WD~apricot_oil,621880]]"
-  - "[[_Standards/WikiData/WD~apricot_juice,3337673]]"
-  - "[[_Standards/WikiData/WD~apricot,3733836]]"
-  - "[[_Standards/WikiData/WD~Armeniacae_Semen,27584859]]"
-  - "[[_Standards/WikiData/WD~apricot_wood,110785991]]"
-  - "[[_Standards/WikiData/WD~apricot_blossom,133168699]]"
-  - "[[_Standards/WikiData/WD~Q136648019,136648019]]"
-  - "[[_Standards/WikiData/WD~Q136648035,136648035]]"
+  - '[[_Standards/WikiData/WD~apricot_kernel,165527]]'
+  - '[[_Standards/WikiData/WD~apricot_oil,621880]]'
+  - '[[_Standards/WikiData/WD~apricot_juice,3337673]]'
+  - '[[_Standards/WikiData/WD~apricot,3733836]]'
+  - '[[_Standards/WikiData/WD~Armeniacae_Semen,27584859]]'
+  - '[[_Standards/WikiData/WD~apricot_wood,110785991]]'
+  - '[[_Standards/WikiData/WD~apricot_blossom,133168699]]'
+  - '[[_Standards/WikiData/WD~Q136648019,136648019]]'
+  - '[[_Standards/WikiData/WD~Q136648035,136648035]]'
 has_use:
-  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
-  - "[[_Standards/WikiData/WD~fruit,3314483]]"
-parent_taxon: "[[../../../../../../../../../../../../../../../WikiData/WD~Prunus,190545]]"
+  - '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+  - '[[_Standards/WikiData/WD~fruit,3314483]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../WikiData/WD~Prunus,190545]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Technical_Encyclopedia,_1st_edition,20078551]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
-subclass_of: "[[_Standards/WikiData/WD~fruit_tree,904653]]"
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Data_Deficient,3245245]]"
-NatureServe_conservation_status: "[[_Standards/WikiData/WD~secure,55707349]]"
-hardiness_of_plant: "[[_Standards/WikiData/WD~5,96279266]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-has_fruit_type: "[[_Standards/WikiData/WD~drupe,14712]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Technical_Encyclopedia,_1st_edition,20078551]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
+subclass_of: '[[_Standards/WikiData/WD~fruit_tree,904653]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Data_Deficient,3245245]]'
+NatureServe_conservation_status: '[[_Standards/WikiData/WD~secure,55707349]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~5,96279266]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+has_fruit_type: '[[_Standards/WikiData/WD~drupe,14712]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_range:
-  - "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
-  - "[[_Standards/WikiData/WD~Xinjiang,34800]]"
+  - '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
+  - '[[_Standards/WikiData/WD~Xinjiang,34800]]'
 water_footprint: 1287
-PLU_code: "3422"
-ITIS_TSN: "24769"
-OmegaWiki_Defined_Meaning: "359558"
-UNSPSC_Code: "50102101"
+PLU_code: 3422
+ITIS_TSN: 24769
+OmegaWiki_Defined_Meaning: 359558
+UNSPSC_Code: 50102101
 taxon_common_name:
   - apricot
   - 杏

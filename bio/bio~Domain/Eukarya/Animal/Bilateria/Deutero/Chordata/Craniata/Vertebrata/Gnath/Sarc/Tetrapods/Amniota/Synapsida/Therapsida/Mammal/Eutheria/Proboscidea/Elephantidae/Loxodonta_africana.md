@@ -1,5 +1,8 @@
 ---
-title: "Loxodonta africana"
+aliases:
+  - Loxodonta_africana
+  - Loxodonta africana
+title: Loxodonta africana
 ---
 
 # Loxodonta africana

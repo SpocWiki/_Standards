@@ -1,12 +1,12 @@
 ---
 aliases:
-- "Douglas fir"
-- Douglas-fir
-- "Douglas tree"
-- "Oregon pine"
-- "Bigcone spruce"
-- Pseudo-tsuga
-- Pseudotsuga
+  - Douglas fir
+  - Douglas-fir
+  - Douglas tree
+  - Oregon pine
+  - Bigcone spruce
+  - Pseudo-tsuga
+  - Pseudotsuga
 title: Pseudotsuga
 ---
 

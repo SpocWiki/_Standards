@@ -1,25 +1,26 @@
 ---
 aliases:
   - Radiologie
+  - Radiology
 has_id_wikidata: Q77604
 subclass_of:
-  - "[[_Standards/WikiData/WD~medical_diagnosis,177719]]"
-  - "[[_Standards/WikiData/WD~medicine,11190]]"
-has_part_s_: "[[_Standards/WikiData/WD~interventional_radiology,426449]]"
-instance_of: "[[_Standards/WikiData/WD~medical_specialty,930752]]"
+  - '[[_Standards/WikiData/WD~medical_diagnosis,177719]]'
+  - '[[_Standards/WikiData/WD~medicine,11190]]'
+has_part_s_: '[[_Standards/WikiData/WD~interventional_radiology,426449]]'
+instance_of: '[[_Standards/WikiData/WD~medical_specialty,930752]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~radiographer,2294052]]"
-  - "[[_Standards/WikiData/WD~radiologist,18245236]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~roentgenology,10659067]]"
-part_of: "[[_Standards/WikiData/WD~medicine,11190]]"
+  - '[[_Standards/WikiData/WD~radiographer,2294052]]'
+  - '[[_Standards/WikiData/WD~radiologist,18245236]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~roentgenology,10659067]]'
+part_of: '[[_Standards/WikiData/WD~medicine,11190]]'
 GitHub_topic: radiology
-U_S_National_Archives_Identifier: "10640986"
-OmegaWiki_Defined_Meaning: "397916"
+U_S_National_Archives_Identifier: 10640986
+OmegaWiki_Defined_Meaning: 397916
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20MacIntyre%27s%20X-Ray%20film.webm
 subreddit: Radiology
 Commons_category: Radiology
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Medical%20X-Ray%20imaging%20TIN07%20nevit.jpg
-Basisklassifikation: "44.64"
+Basisklassifikation: 44.64
 IEV_number: 881-01-01
 UMLS_CUI: C0034599
 MeSH_tree_code: H02.403.740

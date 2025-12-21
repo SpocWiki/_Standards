@@ -1,8 +1,9 @@
 ---
-has_id_wikidata: Q506
 aliases:
   - bloom
   - blossom
+  - Flower
+has_id_wikidata: Q506
 different_from:
   - "[[_Standards/WikiData/WD~Malva,147325]]"
   - "[[_Standards/WikiData/WD~flowering_plant,886167]]"
@@ -35,10 +36,10 @@ develops_from:
 has_characteristic: "[[_Standards/WikiData/WD~flowering_stage,30513971]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q134124751,134124751]]"
 Wikidata_property: flower color
-Dewey_Decimal_Classification: "582"
+Dewey_Decimal_Classification: 582
 Commons_gallery: Flowers
 Commons_category: Flowers
-OmegaWiki_Defined_Meaning: "1068317"
+OmegaWiki_Defined_Meaning: 1068317
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Flores.gif
 Iconclass_notation: 25G41
 Unicode_character:
@@ -50,12 +51,12 @@ Baidu_Tieba_name: 花
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Time%20lapse%20of%20Peony%20flower%20blooming.webm
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Swl-blomma-13928.ogv
 exact_match: https://turkic.elegantlexicon.com/turkforms.php?form=flowerflower
-P8189: "987007538583805171"
+P8189: 987007538583805200
 MeSH_tree_code: A18.024.249.500
 UMLS_CUI: C1138416
 ---
 
-# [[Flower]] 
+# [[Flower]] 🥀 
 
 #is_/same_as :: [[../../WikiData/WD~Flower,506|WD~Flower,506]] 
 

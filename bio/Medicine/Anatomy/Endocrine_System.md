@@ -1,10 +1,13 @@
 ---
-Commons_category: "Endocrine system"
-Commons_gallery: "Endocrine system"
-development_of_anatomical_structure: '[[_Standards/WikiData/WD~endocrine_system_development,21425993]]'
+aliases:
+  - Endocrine_System
+  - Endocrine System
 has_id_wikidata: Q11078
+Commons_category: Endocrine system
+Commons_gallery: Endocrine system
+development_of_anatomical_structure: '[[_Standards/WikiData/WD~endocrine_system_development,21425993]]'
 Iconclass_notation: 49G615
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Endocrine%20English.svg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Endocrine%20English.svg
 instance_of: '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
 Krugosvet_article: nauka_i_tehnika/biologiya/ENDOKRINNAYA_SISTEMA.html
 Library_of_Congress_Classification: QP187.A1-QP187.Z
@@ -13,8 +16,8 @@ opposite_of: '[[_Standards/WikiData/WD~exocrine_system,28539636]]'
 part_of: '[[_Standards/WikiData/WD~organ_system,188193]]'
 studied_in: '[[_Standards/WikiData/WD~endocrinology,162606]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
-- '[[_Standards/WikiData/WD~glandular_system,126129074]]'
+  - '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
+  - '[[_Standards/WikiData/WD~glandular_system,126129074]]'
 UMLS_CUI: C0014136
 ---
 

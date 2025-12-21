@@ -3,6 +3,25 @@ aliases:
   - Liquorice
   - licorice
   - Lakritz
+  - regalicia
+  - lékořice lysá
+  - cultivated licorice
+  - сладунец
+  - golostebelni sladki koren
+  - 洋甘草
+  - 洋甘草（光果甘草）
+  - 光果甘草
+  - 欧亚甘草
+  - 欧甘草
+  - 疏小叶甘草
+  - 落果甘草
+  - 甘草
+  - 山小橘
+  - அதிமதுரம்
+  - 甘草头
+  - 甘草梢
+  - 甘草膏
+  - 甘草节
 has_id_wikidata: Q257106
 EPPO_Code: GYCGL
 UNII: M1F96IE0ZC
@@ -29,27 +48,27 @@ taxon_common_name:
   - 甘草膏
   - 甘草节
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~licorice_candy,138811]]"
-  - "[[_Standards/WikiData/WD~liquorice_root,27631426]]"
-  - "[[_Standards/WikiData/WD~licorice_extract,104189182]]"
-parent_taxon: "[[_Standards/WikiData/WD~Glycyrrhiza,157830]]"
+  - '[[_Standards/WikiData/WD~licorice_candy,138811]]'
+  - '[[_Standards/WikiData/WD~liquorice_root,27631426]]'
+  - '[[_Standards/WikiData/WD~licorice_extract,104189182]]'
+parent_taxon: '[[_Standards/WikiData/WD~Glycyrrhiza,157830]]'
 has_use:
-  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
-  - "[[_Standards/WikiData/WD~food,2095]]"
+  - '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+  - '[[_Standards/WikiData/WD~food,2095]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~herb,207123]]"
-  - "[[_Standards/WikiData/WD~useful_plant,11992872]]"
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
+  - '[[_Standards/WikiData/WD~herb,207123]]'
+  - '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_42(2),112869425]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_range: "[[_Standards/WikiData/WD~Xinjiang,34800]]"
-ITIS_TSN: "26718"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_42(2),112869425]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_range: '[[_Standards/WikiData/WD~Xinjiang,34800]]'
+ITIS_TSN: 26718
 short_name: G. glabra
 Commons_category: Glycyrrhiza glabra
 taxon_name: Glycyrrhiza glabra

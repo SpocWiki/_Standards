@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Astraspida
 title: Astraspida
 ---
 

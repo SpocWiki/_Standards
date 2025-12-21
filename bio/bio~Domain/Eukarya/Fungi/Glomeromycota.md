@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Glomeromycota
 title: Glomeromycota
 ---
 

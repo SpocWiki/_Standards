@@ -1,5 +1,8 @@
 ---
-title: "Eastern Palearctic water frogs"
+aliases:
+  - Eastern_Water_Frogs
+  - Eastern Water Frogs
+title: Eastern Palearctic water frogs
 ---
 
 # Eastern Palearctic water frogs 

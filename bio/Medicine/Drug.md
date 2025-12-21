@@ -4,6 +4,7 @@ aliases:
   - Drug
   - is_a_drug
   - Droge
+has_id_wikidata: Q8386
 confidential: private
 cssclasses:
   - Type
@@ -11,46 +12,45 @@ cssclasses:
   - note
 draft: true
 equivalent_class: http://dbpedia.org/ontology/Drug
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - drug
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle:
-  "Drug": 
+  Drug: ''
 publish: false
-publishDate: 
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
   - excalidraw
 title:
-  "Drug": 
+  Drug: ''
 type: private_note
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 has_Template:
-  - "[[Extract~Note~Template]]"
+  - '[[Extract~Note~Template]]'
 has_time_started:
-  "{ \"date:YYYY-MM-DD\": null }": 
+  '{ "date:YYYY-MM-DD": null }': ''
 lang: en
-has_id_wikidata: Q8386
 different_from:
-  - "[[_Standards/WikiData/WD~Stoff,341867]]"
-  - "[[_Standards/WikiData/WD~narcotic,940]]"
-  - "[[_Standards/WikiData/WD~medication,12140]]"
+  - '[[_Standards/WikiData/WD~Stoff,341867]]'
+  - '[[_Standards/WikiData/WD~narcotic,940]]'
+  - '[[_Standards/WikiData/WD~medication,12140]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~xenobiotic,409205]]"
-  - "[[_Standards/WikiData/WD~chemical_compound,11173]]"
+  - '[[_Standards/WikiData/WD~xenobiotic,409205]]'
+  - '[[_Standards/WikiData/WD~chemical_compound,11173]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-has_characteristic: "[[_Standards/WikiData/WD~dose_response_relationship,1251001]]"
-has_effect: "[[_Standards/WikiData/WD~drug_allergy,2068896]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q12034587,12034587]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+has_characteristic: '[[_Standards/WikiData/WD~dose_response_relationship,1251001]]'
+has_effect: '[[_Standards/WikiData/WD~drug_allergy,2068896]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12034587,12034587]]'
 properties_for_this_type: route of administration
 hashtag_: drug
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Psychoactive%20Drugs.jpg

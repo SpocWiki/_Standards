@@ -1,6 +1,11 @@
 ---
 aliases:
   - Minze
+  - Mentha
+  - 薄荷属
+  - mint
+  - Munt
+  - meta
 has_id_wikidata: Q47859
 taxon_common_name:
   - 薄荷属
@@ -8,30 +13,30 @@ taxon_common_name:
   - mint
   - Munt
   - meta
-taxonomic_type: "[[_Standards/WikiData/WD~Mentha_spicata,160114]]"
+taxonomic_type: '[[_Standards/WikiData/WD~Mentha_spicata,160114]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - '[[../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_66,112869470]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-named_after: "[[_Standards/WikiData/WD~Minthe,1546353]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_66,112869470]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+named_after: '[[_Standards/WikiData/WD~Minthe,1546353]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~plant_as_food,9323487]]"
-  - "[[_Standards/WikiData/WD~mint_leaf,27640062]]"
-  - "[[_Standards/WikiData/WD~smell_of_mint,135191165]]"
-parent_taxon: "[[_Standards/WikiData/WD~Menthinae,12248709]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-PLU_code: "4896"
-ITIS_TSN: "32264"
+  - '[[_Standards/WikiData/WD~plant_as_food,9323487]]'
+  - '[[_Standards/WikiData/WD~mint_leaf,27640062]]'
+  - '[[_Standards/WikiData/WD~smell_of_mint,135191165]]'
+parent_taxon: '[[_Standards/WikiData/WD~Menthinae,12248709]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+PLU_code: 4896
+ITIS_TSN: 32264
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mentha%20longifolia%202005.08.02%2009.53.56.jpg
 taxon_name: Mentha
 Commons_gallery: Mentha

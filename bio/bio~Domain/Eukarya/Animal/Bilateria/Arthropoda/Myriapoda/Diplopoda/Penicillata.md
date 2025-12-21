@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Penicillata
 title: Polyxenida
 ---
 

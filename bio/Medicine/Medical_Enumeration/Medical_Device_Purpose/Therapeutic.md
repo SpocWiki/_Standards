@@ -9,16 +9,16 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalDevicePurpose
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - therapeutic
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_therapeutic Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

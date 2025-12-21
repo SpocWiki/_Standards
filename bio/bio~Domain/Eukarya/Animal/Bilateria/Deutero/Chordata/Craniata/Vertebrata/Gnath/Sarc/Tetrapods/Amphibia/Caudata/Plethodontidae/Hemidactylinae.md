@@ -1,5 +1,7 @@
 ---
-title: "Hemidactylium scutatum"
+aliases:
+  - Hemidactylinae
+title: Hemidactylium scutatum
 ---
 
 ## [[Hemidactylinae]] 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Geoglossaceae
 title: Geoglossaceae
 ---
 

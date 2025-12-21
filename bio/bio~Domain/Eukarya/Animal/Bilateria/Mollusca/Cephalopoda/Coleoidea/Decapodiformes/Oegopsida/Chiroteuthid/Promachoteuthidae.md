@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Promachoteuthidae
 title: Promachoteuthis
 ---
 

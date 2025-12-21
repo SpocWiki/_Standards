@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Iuridae
 title: Iuridae
 ---
 

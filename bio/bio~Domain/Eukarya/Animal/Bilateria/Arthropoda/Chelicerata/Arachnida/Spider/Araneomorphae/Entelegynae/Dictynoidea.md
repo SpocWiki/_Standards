@@ -1,8 +1,8 @@
 ---
 aliases:
-- Dictynoidea
-- dictynoids
-- dictynoid
+  - Dictynoidea
+  - dictynoids
+  - dictynoid
 title: Dictynoidea
 ---
 

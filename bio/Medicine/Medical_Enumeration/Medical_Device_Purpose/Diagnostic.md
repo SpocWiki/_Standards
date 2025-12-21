@@ -9,16 +9,16 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalDevicePurpose
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - diagnostic
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_diagnostic Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

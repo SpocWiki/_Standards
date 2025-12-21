@@ -1,8 +1,10 @@
 ---
 aliases:
-- Eurypterids
-- "sea scorpion"
-- Eurypterida
+  - Eurypterids
+  - sea scorpion
+  - Eurypterida
+  - Sea_Scorpion
+  - Sea Scorpion
 title: Eurypterida
 ---
 

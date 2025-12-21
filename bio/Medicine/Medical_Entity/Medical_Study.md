@@ -4,20 +4,22 @@ aliases:
   - medical_study
   - MedicalStudy
   - is_a_medical_study
+  - Medical_Study
+  - Medical Study
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_study
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_study Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

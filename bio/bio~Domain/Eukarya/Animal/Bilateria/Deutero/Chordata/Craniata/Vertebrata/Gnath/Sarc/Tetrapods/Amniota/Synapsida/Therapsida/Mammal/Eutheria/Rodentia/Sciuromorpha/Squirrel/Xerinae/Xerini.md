@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Xerini
 title: Xerini
 ---
 

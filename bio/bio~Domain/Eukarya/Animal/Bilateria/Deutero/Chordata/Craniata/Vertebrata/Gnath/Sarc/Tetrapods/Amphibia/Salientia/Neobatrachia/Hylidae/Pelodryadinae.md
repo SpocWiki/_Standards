@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Pelodryadinae
 title: Pelodryadinae
 ---
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Reduncinae
 title: Reduncinae
 ---
 

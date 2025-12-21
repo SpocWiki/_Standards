@@ -1,6 +1,7 @@
 ---
 aliases:
   - Monosaccharid
+  - Monosaccharide
 has_id_wikidata: Q133516
 ---
 

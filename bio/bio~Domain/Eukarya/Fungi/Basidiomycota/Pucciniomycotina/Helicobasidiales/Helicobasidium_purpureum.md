@@ -1,5 +1,8 @@
 ---
-title: "Helicobasidium purpureum"
+aliases:
+  - Helicobasidium_purpureum
+  - Helicobasidium purpureum
+title: Helicobasidium purpureum
 ---
 
 ## Phylogeny 

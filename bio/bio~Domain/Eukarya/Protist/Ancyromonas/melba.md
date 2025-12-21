@@ -1,5 +1,7 @@
 ---
-title: "Ancyromonas melba"
+aliases:
+  - melba
+title: Ancyromonas melba
 ---
 
 ## Phylogeny 

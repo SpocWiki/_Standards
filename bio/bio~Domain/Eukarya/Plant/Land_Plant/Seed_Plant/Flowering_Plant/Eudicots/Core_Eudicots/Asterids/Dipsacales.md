@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Dipsacales
 title: Dipsacales
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: "Mastigoteuthis magna"
+aliases:
+  - magna
+title: Mastigoteuthis magna
 ---
 
 ## Phylogeny 

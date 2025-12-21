@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cercopithecidae
 title: Cercopithecidae
 ---
 

@@ -1,8 +1,8 @@
 ---
 aliases:
-- Dictyoglomi
-- Dictyoglomus
-- Dictyoglomerota
+  - Dictyoglomi
+  - Dictyoglomus
+  - Dictyoglomerota
 title: Dictyoglomi
 ---
 

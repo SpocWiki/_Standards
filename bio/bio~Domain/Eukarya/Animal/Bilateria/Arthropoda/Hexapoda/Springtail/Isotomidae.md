@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Isotomidae
 title: Isotomidae
 ---
 

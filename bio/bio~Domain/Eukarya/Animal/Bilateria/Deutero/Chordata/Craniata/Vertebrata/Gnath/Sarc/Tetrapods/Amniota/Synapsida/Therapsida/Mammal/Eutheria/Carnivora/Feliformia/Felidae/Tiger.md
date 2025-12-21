@@ -1,6 +1,17 @@
 ---
 aliases:
   - Tiger
+  - البَبْر
+  - tigre
+  - tiikeri
+  - 호랑이
+  - పులి
+  - tiger
+  - harimau
+  - बाघ
+  - 虎
+  - Tigre
+  - Тигр
 has_id_wikidata: Q19939
 MeSH_tree_code: B01.050.150.900.649.313.750.377.750.600.800
 UMLS_CUI: C0325115
@@ -69,8 +80,8 @@ gestation_period: 107
 mass: 1.19
 bite_force_quotient: 127
 longest_observed_lifespan: 26.3
-OmegaWiki_Defined_Meaning: "8437"
-ITIS_TSN: "183805"
+OmegaWiki_Defined_Meaning: 8437
+ITIS_TSN: 183805
 size_comparison_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Ben-007.gif
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DAK%20Panthera%20tigris%2002a-cropped.jpg
 pronunciation_audio:
@@ -87,7 +98,7 @@ Unicode_character:
 ---
 
 
-# [[Tiger]]
+# [[Tiger]] 🐯 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tiger,19939|WD~Tiger,19939]] 
 

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Farbsehen
+  - Color_Vision
+  - Color Vision
 has_id_wikidata: Q374259
 ---
 

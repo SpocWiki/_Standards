@@ -1,7 +1,8 @@
 ---
 aliases:
-- Madoqua
-- dik-dik
+  - Madoqua
+  - dik-dik
+  - Dik-dik
 title: Madoqua
 ---
 

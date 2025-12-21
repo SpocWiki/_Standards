@@ -1,7 +1,7 @@
 ---
-title: Ankylosauromorpha
 aliases:
   - Ankylosauromorpha
+title: Ankylosauromorpha
 ---
 
 # [[Ankylosauromorpha]] 

@@ -1,42 +1,45 @@
 ---
+aliases:
+  - Nervous_System
+  - Nervous System
+has_id_wikidata: Q9404
 Colon_Classification: L7
 Commons_category: Nervous system
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-development_of_anatomical_structure: "[[_Standards/WikiData/WD~nervous_system_development,1345738]]"
-different_from: "[[_Standards/WikiData/WD~human_nervous_system,11392181]]"
-has_id_wikidata: Q9404
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+development_of_anatomical_structure: '[[_Standards/WikiData/WD~nervous_system_development,1345738]]'
+different_from: '[[_Standards/WikiData/WD~human_nervous_system,11392181]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~peripheral_nervous_system,169953]]"
-  - "[[_Standards/WikiData/WD~neuroglia,177105]]"
-  - "[[_Standards/WikiData/WD~neuron,43054]]"
-  - "[[_Standards/WikiData/WD~central_nervous_system,47273]]"
+  - '[[_Standards/WikiData/WD~peripheral_nervous_system,169953]]'
+  - '[[_Standards/WikiData/WD~neuroglia,177105]]'
+  - '[[_Standards/WikiData/WD~neuron,43054]]'
+  - '[[_Standards/WikiData/WD~central_nervous_system,47273]]'
 Iconclass_notation: 49G619
 instance_of:
-  - "[[_Standards/WikiData/WD~anatomical_system_type,104027169]]"
-  - "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
+  - '[[_Standards/WikiData/WD~anatomical_system_type,104027169]]'
+  - '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
 Krugosvet_article: nauka_i_tehnika/biologiya/NERVNAYA_SISTEMA.html
 Library_of_Congress_Classification:
   - QL921-QL939
   - QP351-QP495
-made_from_material: "[[_Standards/WikiData/WD~nervous_tissue,203850]]"
+made_from_material: '[[_Standards/WikiData/WD~nervous_tissue,203850]]'
 MeSH_tree_code: A08
-part_of: "[[_Standards/WikiData/WD~neurovascular_system,2330350]]"
+part_of: '[[_Standards/WikiData/WD~neurovascular_system,2330350]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%9A%E0%A5%87%E0%A4%A4%E0%A4%BE%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE.wav
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Nervous%20system%20diagram-de.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/TE-Nervous%20system%20diagram-ru.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/TE-Nervous%20system%20diagram.svg
-studied_in: "[[_Standards/WikiData/WD~neurology,83042]]"
+studied_in: '[[_Standards/WikiData/WD~neurology,83042]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~organ_system,188193]]"
-  - "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
+  - '[[_Standards/WikiData/WD~organ_system,188193]]'
+  - '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
 TA98_Latin_term: systema nervosum
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Nervous_system,5754642]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Nervous_system,5754642]]'
 UMLS_CUI: C0027763
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/nervous_system_2
 ---
 

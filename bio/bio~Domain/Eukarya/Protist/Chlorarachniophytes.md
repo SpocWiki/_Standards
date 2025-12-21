@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Chlorarachniophytes
 title: Chlorarachniophytes
 ---
 

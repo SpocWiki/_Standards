@@ -1,5 +1,7 @@
 ---
-title: "Spirula spirula"
+aliases:
+  - Spirulida
+title: Spirula spirula
 ---
 
 ## Phylogeny 

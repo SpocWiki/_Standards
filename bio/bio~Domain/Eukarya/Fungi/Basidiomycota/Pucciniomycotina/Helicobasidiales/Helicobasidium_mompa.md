@@ -1,5 +1,8 @@
 ---
-title: "Helicobasidium mompa"
+aliases:
+  - Helicobasidium_mompa
+  - Helicobasidium mompa
+title: Helicobasidium mompa
 ---
 
 ## Phylogeny 

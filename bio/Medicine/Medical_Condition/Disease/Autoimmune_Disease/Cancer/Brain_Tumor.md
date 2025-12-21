@@ -2,22 +2,24 @@
 aliases:
   - brain cancer
   - brain tumor
+  - Brain_Tumor
+  - Brain Tumor
 has_id_wikidata: Q233309
 health_specialty:
-  - "[[_Standards/WikiData/WD~neurology,83042]]"
-  - "[[_Standards/WikiData/WD~oncology,162555]]"
-  - "[[_Standards/WikiData/WD~neurosurgery,188449]]"
+  - '[[_Standards/WikiData/WD~neurology,83042]]'
+  - '[[_Standards/WikiData/WD~oncology,162555]]'
+  - '[[_Standards/WikiData/WD~neurosurgery,188449]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~central_nervous_system_neoplasm,4335557]]"
-  - "[[_Standards/WikiData/WD~intracranial_tumor,11702952]]"
-anatomical_locations: "[[_Standards/WikiData/WD~brain,1073]]"
-DiseasesDB: "30781"
+  - '[[_Standards/WikiData/WD~central_nervous_system_neoplasm,4335557]]'
+  - '[[_Standards/WikiData/WD~intracranial_tumor,11702952]]'
+anatomical_locations: '[[_Standards/WikiData/WD~brain,1073]]'
+DiseasesDB: 30781
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hirnmetastase%20MRT-T1%20KM.jpg
 described_at_URL:
   - https://www.cancer.net/cancer-types/brain-tumor
   - https://www.mayoclinic.org/diseases-conditions/brain-tumor/symptoms-causes/syc-20350084
   - https://www.webmd.com/cancer/brain-cancer/brain-tumors-in-adults
-P8189: "987007283700505171"
+P8189: 987007283700505171
 IMDb_keyword: brain-tumor
 MeSH_tree_code:
   - C04.588.614.250.195

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Boloceroidaria
 title: Boloceroidaria
 ---
 

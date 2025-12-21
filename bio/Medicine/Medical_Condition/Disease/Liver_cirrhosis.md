@@ -6,65 +6,67 @@ aliases:
   - chronic liver failure
   - chronic hepatic failure
   - end-stage liver disease
+  - Liver_cirrhosis
+  - Liver cirrhosis
 has_id_wikidata: Q147778
 Commons_category: Cirrhosis
 ICD_10_CM: K74.60
 Krugosvet_article_archived_: medicina/TSIRROZ.html
 has_cause:
-  - "[[_Standards/WikiData/WD~Wilson_disease,117121]]"
-  - "[[_Standards/WikiData/WD~hepatitis,131742]]"
-  - "[[_Standards/WikiData/WD~autoimmune_hepatitis,786844]]"
-  - "[[_Standards/WikiData/WD~primary_sclerosing_cholangitis,1058608]]"
-  - "[[_Standards/WikiData/WD~hereditary_haemochromatosis,3144934]]"
-  - "[[_Standards/WikiData/WD~Indian_childhood_cirrhosis,17135346]]"
-  - "[[_Standards/WikiData/WD~alcoholism,15326]]"
+  - '[[_Standards/WikiData/WD~Wilson_disease,117121]]'
+  - '[[_Standards/WikiData/WD~hepatitis,131742]]'
+  - '[[_Standards/WikiData/WD~autoimmune_hepatitis,786844]]'
+  - '[[_Standards/WikiData/WD~primary_sclerosing_cholangitis,1058608]]'
+  - '[[_Standards/WikiData/WD~hereditary_haemochromatosis,3144934]]'
+  - '[[_Standards/WikiData/WD~Indian_childhood_cirrhosis,17135346]]'
+  - '[[_Standards/WikiData/WD~alcoholism,15326]]'
 health_specialty:
-  - "[[_Standards/WikiData/WD~gastroenterology,120569]]"
-  - "[[_Standards/WikiData/WD~hepatology,668064]]"
+  - '[[_Standards/WikiData/WD~gastroenterology,120569]]'
+  - '[[_Standards/WikiData/WD~hepatology,668064]]'
 medical_examination:
-  - "[[_Standards/WikiData/WD~medical_ultrasonography,234904]]"
-  - "[[_Standards/WikiData/WD~liver_biopsy,360841]]"
-  - "[[_Standards/WikiData/WD~blood_test,886837]]"
-  - "[[_Standards/WikiData/WD~computed_tomography,32566]]"
+  - '[[_Standards/WikiData/WD~medical_ultrasonography,234904]]'
+  - '[[_Standards/WikiData/WD~liver_biopsy,360841]]'
+  - '[[_Standards/WikiData/WD~blood_test,886837]]'
+  - '[[_Standards/WikiData/WD~computed_tomography,32566]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~bumetanide,275926]]"
-  - "[[_Standards/WikiData/WD~adefovir,353551]]"
-  - "[[_Standards/WikiData/WD~furosemide,388801]]"
-  - "[[_Standards/WikiData/WD~boceprevir,410551]]"
-  - "[[_Standards/WikiData/WD~rifaximin,416073]]"
-  - "[[_Standards/WikiData/WD~ethacrynic_acid,418571]]"
-  - "[[_Standards/WikiData/WD~torasemide,419948]]"
-  - "[[_Standards/WikiData/WD~peginterferon_alfa_2a,420056]]"
-  - "[[_Standards/WikiData/WD~ribavirin,421862]]"
-  - "[[_Standards/WikiData/WD~tolvaptan,426132]]"
-  - "[[_Standards/WikiData/WD~sofosbuvir,2502747]]"
-  - "[[_Standards/WikiData/WD~daclatasvir,5207712]]"
-  - "[[_Standards/WikiData/WD~peginterferon_alfa_2b,7160789]]"
-  - "[[_Standards/WikiData/WD~simeprevir,7517689]]"
-  - "[[_Standards/WikiData/WD~obeticholic_acid,15708271]]"
-  - "[[_Standards/WikiData/WD~ledipasvir_sofosbuvir,19597688]]"
-  - "[[_Standards/WikiData/WD~entecavir_hydrate,27126952]]"
-  - "[[_Standards/WikiData/WD~ethacrynate_sodium,27281933]]"
+  - '[[_Standards/WikiData/WD~bumetanide,275926]]'
+  - '[[_Standards/WikiData/WD~adefovir,353551]]'
+  - '[[_Standards/WikiData/WD~furosemide,388801]]'
+  - '[[_Standards/WikiData/WD~boceprevir,410551]]'
+  - '[[_Standards/WikiData/WD~rifaximin,416073]]'
+  - '[[_Standards/WikiData/WD~ethacrynic_acid,418571]]'
+  - '[[_Standards/WikiData/WD~torasemide,419948]]'
+  - '[[_Standards/WikiData/WD~peginterferon_alfa_2a,420056]]'
+  - '[[_Standards/WikiData/WD~ribavirin,421862]]'
+  - '[[_Standards/WikiData/WD~tolvaptan,426132]]'
+  - '[[_Standards/WikiData/WD~sofosbuvir,2502747]]'
+  - '[[_Standards/WikiData/WD~daclatasvir,5207712]]'
+  - '[[_Standards/WikiData/WD~peginterferon_alfa_2b,7160789]]'
+  - '[[_Standards/WikiData/WD~simeprevir,7517689]]'
+  - '[[_Standards/WikiData/WD~obeticholic_acid,15708271]]'
+  - '[[_Standards/WikiData/WD~ledipasvir_sofosbuvir,19597688]]'
+  - '[[_Standards/WikiData/WD~entecavir_hydrate,27126952]]'
+  - '[[_Standards/WikiData/WD~ethacrynate_sodium,27281933]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~liver_cancer,623031]]"
-  - "[[_Standards/WikiData/WD~liver_failure,970208]]"
+  - '[[_Standards/WikiData/WD~liver_cancer,623031]]'
+  - '[[_Standards/WikiData/WD~liver_failure,970208]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~liver_disease,929737]]"
-  - "[[_Standards/WikiData/WD~cirrosis,12569389]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-possible_treatment: "[[_Standards/WikiData/WD~liver_transplantation,1368191]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+  - '[[_Standards/WikiData/WD~liver_disease,929737]]'
+  - '[[_Standards/WikiData/WD~cirrosis,12569389]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
+possible_treatment: '[[_Standards/WikiData/WD~liver_transplantation,1368191]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 genetic_association:
-  - "[[_Standards/WikiData/WD~TSBP1,18035589]]"
-  - "[[_Standards/WikiData/WD~BTNL2,18042335]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-anatomical_locations: "[[_Standards/WikiData/WD~liver,9368]]"
-afflicts: "[[_Standards/WikiData/WD~human,5]]"
-DiseasesDB: "2729"
-OmegaWiki_Defined_Meaning: "713751"
+  - '[[_Standards/WikiData/WD~TSBP1,18035589]]'
+  - '[[_Standards/WikiData/WD~BTNL2,18042335]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+anatomical_locations: '[[_Standards/WikiData/WD~liver,9368]]'
+afflicts: '[[_Standards/WikiData/WD~human,5]]'
+DiseasesDB: 2729
+OmegaWiki_Defined_Meaning: 713751
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Cirrhosis%20Liver%204x.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Karaci%C4%9Fer%20sirozu.png
@@ -77,7 +79,7 @@ exact_match:
   - http://purl.obolibrary.org/obo/DOID_5082
   - http://purl.obolibrary.org/obo/HP_0001394
   - http://purl.obolibrary.org/obo/HP_0001395
-ICD_9_CM: "571.5"
+ICD_9_CM: 571.5
 UMLS_CUI:
   - C0023890
   - C0239946

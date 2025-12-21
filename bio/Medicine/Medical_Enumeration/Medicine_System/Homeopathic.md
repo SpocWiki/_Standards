@@ -7,21 +7,21 @@ aliases:
   - homöopathisch
   - homoeopathy
 has_id_wikidata: Q81058
-founded_by: "[[_Standards/WikiData/WD~Samuel_Hahnemann,157056]]"
-subclass_of: "[[_Standards/WikiData/WD~alternative_medicine,188504]]"
+founded_by: '[[_Standards/WikiData/WD~Samuel_Hahnemann,157056]]'
+subclass_of: '[[_Standards/WikiData/WD~alternative_medicine,188504]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclop�dia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclop�dia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclop�dia,3181656]]'
+  - '[[_Standards/WikiData/WD~The_American_Cyclop�dia,19077875]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~parascience,1517851]]"
-  - "[[_Standards/WikiData/WD~alternative_medicine,31338769]]"
-  - "[[_Standards/WikiData/WD~branch_of_pseudoscience,60031086]]"
-uses: "[[_Standards/WikiData/WD~homeopathic_preparation,1626450]]"
-practiced_by: "[[_Standards/WikiData/WD~homeopath,12020057]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27096430,27096430]]"
-OmegaWiki_Defined_Meaning: "8121"
+  - '[[_Standards/WikiData/WD~parascience,1517851]]'
+  - '[[_Standards/WikiData/WD~alternative_medicine,31338769]]'
+  - '[[_Standards/WikiData/WD~branch_of_pseudoscience,60031086]]'
+uses: '[[_Standards/WikiData/WD~homeopathic_preparation,1626450]]'
+practiced_by: '[[_Standards/WikiData/WD~homeopath,12020057]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27096430,27096430]]'
+OmegaWiki_Defined_Meaning: 8121
 Colon_Classification: LL
 Commons_category: Homeopathy
 time_of_discovery_or_invention: 1796-01-01T00:00:00Z
@@ -30,8 +30,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Homoepathikas.png
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Lecture%205%20-%20Homeopathy.webm
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/homeopathy
 Dewey_Decimal_Classification:
-  - "615.532"
-  - "636.0895532"
+  - 615.532
+  - 636.0895532
 UMLS_CUI: C0684199
 MeSH_tree_code: E02.190.388
 OpenStreetMap_tag: healthcare:speciality=homeopathy
@@ -40,16 +40,16 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: MedicineSystem
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - homeopathic
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_homeopathic Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

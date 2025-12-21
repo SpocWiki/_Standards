@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Thermodesulfobacteria
 title: Thermodesulfobacteria
 ---
 

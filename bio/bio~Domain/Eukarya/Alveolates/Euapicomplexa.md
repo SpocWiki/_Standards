@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Euapicomplexa
 title: Euapicomplexa
 ---
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Scorpionoidea
 title: Scorpionoidea
 ---
 

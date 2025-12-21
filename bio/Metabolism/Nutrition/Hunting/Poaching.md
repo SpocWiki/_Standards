@@ -1,20 +1,21 @@
 ---
 aliases:
   - Wilderei
+  - Poaching
 has_id_wikidata: Q34577
-different_from: "[[_Standards/WikiData/WD~poaching,263588]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Strafgesetzbuch,674827]]"
+different_from: '[[_Standards/WikiData/WD~poaching,263588]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Strafgesetzbuch,674827]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~environmental_crime,1156265]]"
-  - "[[_Standards/WikiData/WD~activity,1914636]]"
-  - "[[_Standards/WikiData/WD~poaching,2659247]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiData/WD~Target_15.7_of_the_Sustainable_Development_Goals,57590911]]"
-practiced_by: "[[_Standards/WikiData/WD~poacher,97279487]]"
-Nomenclature_for_Museum_Cataloging: "3999"
+  - '[[_Standards/WikiData/WD~environmental_crime,1156265]]'
+  - '[[_Standards/WikiData/WD~activity,1914636]]'
+  - '[[_Standards/WikiData/WD~poaching,2659247]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_15.7_of_the_Sustainable_Development_Goals,57590911]]'
+practiced_by: '[[_Standards/WikiData/WD~poacher,97279487]]'
+Nomenclature_for_Museum_Cataloging: 3999
 Commons_category: Poaching (criminal activity)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Le%20braconnier%20par%20Fr%C3%A9d%C3%A9ric%20Rouge.jpg
 ---

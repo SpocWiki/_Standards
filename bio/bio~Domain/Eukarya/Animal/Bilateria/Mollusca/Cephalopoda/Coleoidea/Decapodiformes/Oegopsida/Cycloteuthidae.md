@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cycloteuthidae
 title: Cycloteuthidae
 ---
 

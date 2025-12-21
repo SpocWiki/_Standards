@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Entoprocta
 title: Entoprocta
 ---
 

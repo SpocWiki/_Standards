@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Listriodontinae
 title: Listriodontinae
 ---
 

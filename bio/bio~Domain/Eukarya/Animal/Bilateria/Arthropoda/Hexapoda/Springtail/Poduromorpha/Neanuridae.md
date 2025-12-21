@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Neanuridae
 title: Neanuridae
 ---
 

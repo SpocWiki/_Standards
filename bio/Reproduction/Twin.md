@@ -1,17 +1,18 @@
 ---
 aliases:
   - Zwilling
+  - Twin
 has_id_wikidata: Q159979
 different_from:
-  - "[[_Standards/WikiData/WD~two_cylinder_engine,243822]]"
-  - "[[_Standards/WikiData/WD~twins,14756018]]"
-  - "[[_Standards/WikiData/WD~twin_sibling,131440579]]"
-instance_of: "[[_Standards/WikiData/WD~quality,1207505]]"
-part_of: "[[_Standards/WikiData/WD~twins,14756018]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-has_cause: "[[_Standards/WikiData/WD~twin_sibling,131440579]]"
-subclass_of: "[[_Standards/WikiData/WD~multiple_birth,25671]]"
+  - '[[_Standards/WikiData/WD~two_cylinder_engine,243822]]'
+  - '[[_Standards/WikiData/WD~twins,14756018]]'
+  - '[[_Standards/WikiData/WD~twin_sibling,131440579]]'
+instance_of: '[[_Standards/WikiData/WD~quality,1207505]]'
+part_of: '[[_Standards/WikiData/WD~twins,14756018]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+has_cause: '[[_Standards/WikiData/WD~twin_sibling,131440579]]'
+subclass_of: '[[_Standards/WikiData/WD~multiple_birth,25671]]'
 male_form_of_label:
   - twin brother
   - Zwillingsbruder
@@ -42,8 +43,8 @@ kinship_equivalent_in_SPARQL_at_Wikidata:
   - ?person p:P3373 [ rdf:type wikibase:BestRank ; ps:P3373 ?relative ; pq:P1039 wd:Q159979 ]
   - ?person wdt:P3373 ?relative ; wdt:P569 ?dob . ?relative wdt:P569 ?dob
 Dewey_Decimal_Classification:
-  - "155.444"
-  - "306.875"
+  - 155.444
+  - 306.875
 UMLS_CUI: C0041427
 MeSH_tree_code: M01.438.873
 ---

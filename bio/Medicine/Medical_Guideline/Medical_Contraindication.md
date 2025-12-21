@@ -4,20 +4,22 @@ aliases:
   - medical_guideline_contraindication
   - MedicalGuidelineContraindication
   - is_a_medical_guideline_contraindication
+  - Medical_Contraindication
+  - Medical Contraindication
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_guideline_contraindication
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_guideline_contraindication Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

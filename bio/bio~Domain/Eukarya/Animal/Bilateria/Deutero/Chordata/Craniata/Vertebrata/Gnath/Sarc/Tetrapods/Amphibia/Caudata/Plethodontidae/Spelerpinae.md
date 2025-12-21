@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Spelerpinae
 title: Spelerpinae
 ---
 

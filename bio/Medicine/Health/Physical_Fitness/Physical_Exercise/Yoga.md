@@ -2,56 +2,57 @@
 aliases:
   - योग
   - Joga
+  - Yoga
 has_id_wikidata: Q9350
 has_part_s_:
-  - "[[_Standards/WikiData/WD~meditation,108458]]"
-  - "[[_Standards/WikiData/WD~asana,466797]]"
-  - "[[_Standards/WikiData/WD~Pranayama,839496]]"
+  - '[[_Standards/WikiData/WD~meditation,108458]]'
+  - '[[_Standards/WikiData/WD~asana,466797]]'
+  - '[[_Standards/WikiData/WD~Pranayama,839496]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_exercise,219067]]"
-  - "[[_Standards/WikiData/WD~spiritual_practice,2270606]]"
-  - "[[_Standards/WikiData/WD~mind_body_interventions,3527307]]"
+  - '[[_Standards/WikiData/WD~physical_exercise,219067]]'
+  - '[[_Standards/WikiData/WD~spiritual_practice,2270606]]'
+  - '[[_Standards/WikiData/WD~mind_body_interventions,3527307]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~yoga_instructor,2600526]]"
-  - "[[_Standards/WikiData/WD~yogi,2901587]]"
-  - "[[_Standards/WikiData/WD~yogini,3632935]]"
+  - '[[_Standards/WikiData/WD~yoga_instructor,2600526]]'
+  - '[[_Standards/WikiData/WD~yogi,2901587]]'
+  - '[[_Standards/WikiData/WD~yogini,3632935]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Yoga,4022807]]"
-  - "[[_Standards/WikiData/WD~Ioga,4202614]]"
+  - '[[_Standards/WikiData/WD~Yoga,4022807]]'
+  - '[[_Standards/WikiData/WD~Ioga,4202614]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Spirituality,9078457]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Alternative_medicine,10464433]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Hinduism,10858467]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Buddhism,11008004]]"
-  - "[[_Standards/WikiData/WD~WikiProject_India,11037573]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Skepticism,11343063]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Health_and_fitness,15305001]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Nepal,15884983]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Hindu_philosophy,21830121]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Eastern_philosophy,21830610]]"
-  - "[[_Standards/WikiData/WD~Wikiproject_New_religious_movements,21830697]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Yoga,21831130]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_yoga,10297413]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Yoga,10815179]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Yoga,11098651]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Spirituality,9078457]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Alternative_medicine,10464433]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Hinduism,10858467]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Buddhism,11008004]]'
+  - '[[_Standards/WikiData/WD~WikiProject_India,11037573]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Skepticism,11343063]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Health_and_fitness,15305001]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Nepal,15884983]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Hindu_philosophy,21830121]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Eastern_philosophy,21830610]]'
+  - '[[_Standards/WikiData/WD~Wikiproject_New_religious_movements,21830697]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Yoga,21831130]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_yoga,10297413]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Yoga,10815179]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Yoga,11098651]]'
 intangible_cultural_heritage_status:
-  - "[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]"
-  - "[[_Standards/WikiData/WD~National_List_for_Intangible_Cultural_Heritage_(ICH),113105924]]"
-country_of_origin: "[[_Standards/WikiData/WD~India,668]]"
-part_of: "[[_Standards/WikiData/WD~intangible_cultural_heritage,59544]]"
+  - '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
+  - '[[_Standards/WikiData/WD~National_List_for_Intangible_Cultural_Heritage_(ICH),113105924]]'
+country_of_origin: '[[_Standards/WikiData/WD~India,668]]'
+part_of: '[[_Standards/WikiData/WD~intangible_cultural_heritage,59544]]'
 booru_tag: yoga
 IMDb_keyword: yoga
 APA_Dictionary_of_Psychology_entry: yoga
 subreddit: yoga
-OmegaWiki_Defined_Meaning: "903451"
+OmegaWiki_Defined_Meaning: 903451
 WordLift_URL:
   - https://mahiyoga.com/mahi-yoga-blog/
   - https://gyanyogbreath.com/
@@ -78,7 +79,7 @@ Libris_URI: tr5769tc3d0d6rz
 PhilPapers_topic: www.mahiyoga.com
 Baidu_Tieba_name: 瑜伽
 OpenStreetMap_tag: sport=yoga
-Dewey_Decimal_Classification: "181.45"
+Dewey_Decimal_Classification: 181.45
 ---
 
 # [[Yoga]] 

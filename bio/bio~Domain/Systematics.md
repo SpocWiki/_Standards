@@ -1,22 +1,23 @@
 ---
 aliases:
   - Systematik
+  - Systematics
 has_id_wikidata: Q3516404
 subclass_of:
-  - "[[_Standards/WikiData/WD~systematics,105769]]"
-  - "[[_Standards/WikiData/WD~zoology,431]]"
+  - '[[_Standards/WikiData/WD~systematics,105769]]'
+  - '[[_Standards/WikiData/WD~zoology,431]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-part_of: "[[_Standards/WikiData/WD~evolutionary_biology,840400]]"
-different_from: "[[_Standards/WikiData/WD~taxonomy,8269924]]"
-has_part_s_: "[[_Standards/WikiData/WD~taxonomy,8269924]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_biology,28598684]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+part_of: '[[_Standards/WikiData/WD~evolutionary_biology,840400]]'
+different_from: '[[_Standards/WikiData/WD~taxonomy,8269924]]'
+has_part_s_: '[[_Standards/WikiData/WD~taxonomy,8269924]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_biology,28598684]]'
 Dewey_Decimal_Classification:
-  - "570.12"
-  - "578.012"
-  - "580.12"
-  - "590.12"
+  - 570.12
+  - 578.012
+  - 580.12
+  - 590.12
 Commons_category: Biological classification
 ---
 

@@ -3,14 +3,20 @@ aliases:
   - Milbe
   - Mite
   - Acari
+  - клещи
+  - midd
+  - Milben
+  - Mijten
+  - acariens
+  - pršice
+has_id_wikidata: Q19137
 Commons_category: Acari
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-has_id_wikidata: Q19137
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Peacock%20mite%2C%20Tuckerella%20sp.jpg
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 733321
 Krugosvet_article: biologiya/kleshchi
 MeSH_tree_code: B01.050.500.131.166.132
@@ -25,9 +31,9 @@ taxon_common_name:
   - acariens
   - pršice
 taxon_name: Acari
-taxon_rank: "[[_Standards/WikiData/WD~subclass,5867051]]"
+taxon_rank: '[[_Standards/WikiData/WD~subclass,5867051]]'
 title: Acari
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Taxonomy_Acari,38018029]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Acari,38018029]]'
 UMLS_CUI: C0000890
 ---
 

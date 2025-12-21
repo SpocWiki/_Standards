@@ -5,8 +5,9 @@ aliases:
   - Palms
   - Palme
   - Palmen
-title: Arecanae
+  - Palm
 has_id_wikidata: Q14080
+title: Arecanae
 ---
 
 # [[Palm]]

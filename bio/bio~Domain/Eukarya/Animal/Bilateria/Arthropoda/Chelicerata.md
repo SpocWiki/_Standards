@@ -1,38 +1,59 @@
 ---
+aliases:
+  - Chelicerata
+  - Örümceğimsiler
+  - Хелицерови
+  - Chelicerates
+  - Quelicerados
+  - Leukakoukulliset
+  - Chélicérates
+  - Chélicérés
+  - Chifelchlauetreger
+  - Csáprágósok
+  - 鋏角亜門
+  - 협각아문(鋏角亞門)
+  - Хелицерати
+  - Chelicerendragers
+  - szczękoczułkowce
+  - Chelicerate
+  - Хелицеровые
+  - pipalkarji
+  - Palpkäkar
+  - เชลิเซอราตา
+has_id_wikidata: Q1359
 Commons_category: Chelicerata
 EPPO_Code: 1CHELQ
-has_id_wikidata: Q1359
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20scorpion.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20scorpion.jpg
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 IPA_transcription: ˌt͡ʃɛlɪˈsɜɹɑtə
 ITIS_TSN: 82697
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Chelicerata%20collage%202-3.png"
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Chelicerata%20collage%202-3.png
 OmegaWiki_Defined_Meaning: 538
 parent_taxon:
-- '[[_Standards/WikiData/WD~Arachnomorpha,3773000]]'
-- '[[_Standards/WikiData/WD~Heptopodomera,112271405]]'
+  - '[[_Standards/WikiData/WD~Arachnomorpha,3773000]]'
+  - '[[_Standards/WikiData/WD~Heptopodomera,112271405]]'
 start_time: -508000000-01-01
 taxon_common_name:
-- Örümceğimsiler
-- Хелицерови
-- Chelicerates
-- Quelicerados
-- Leukakoukulliset
-- Chélicérates
-- Chélicérés
-- Chifelchlauetreger
-- Csáprágósok
-- 鋏角亜門
-- 협각아문(鋏角亞門)
-- Хелицерати
-- Chelicerendragers
-- szczękoczułkowce
-- Quelicerados
-- Chelicerate
-- Хелицеровые
-- pipalkarji
-- Palpkäkar
-- เชลิเซอราตา
+  - Örümceğimsiler
+  - Хелицерови
+  - Chelicerates
+  - Quelicerados
+  - Leukakoukulliset
+  - Chélicérates
+  - Chélicérés
+  - Chifelchlauetreger
+  - Csáprágósok
+  - 鋏角亜門
+  - 협각아문(鋏角亞門)
+  - Хелицерати
+  - Chelicerendragers
+  - szczękoczułkowce
+  - Quelicerados
+  - Chelicerate
+  - Хелицеровые
+  - pipalkarji
+  - Palpkäkar
+  - เชลิเซอราตา
 taxon_name: Chelicerata
 taxon_rank: '[[_Standards/WikiData/WD~subphylum,1153785]]'
 UMLS_CUI: C0998333

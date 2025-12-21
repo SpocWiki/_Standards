@@ -1,5 +1,7 @@
 ---
-title: "Chtenopteryx sepioloides"
+aliases:
+  - sepioloides
+title: Chtenopteryx sepioloides
 ---
 
 ## Phylogeny 

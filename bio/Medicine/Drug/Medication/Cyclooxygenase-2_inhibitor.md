@@ -1,6 +1,8 @@
 ---
 aliases:
-- coxib
+  - coxib
+  - Cyclooxygenase-2_inhibitor
+  - Cyclooxygenase-2 inhibitor
 ---
 
 ## #has_/text_of_/abstract 

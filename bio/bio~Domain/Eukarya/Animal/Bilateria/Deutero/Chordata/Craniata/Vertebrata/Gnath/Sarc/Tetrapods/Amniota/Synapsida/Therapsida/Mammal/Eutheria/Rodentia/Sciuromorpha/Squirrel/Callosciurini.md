@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Callosciurini
 title: Callosciurini
 ---
 

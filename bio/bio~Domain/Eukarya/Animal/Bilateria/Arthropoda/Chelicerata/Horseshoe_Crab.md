@@ -1,9 +1,11 @@
 ---
 aliases:
-- Xiphosura
-- Merostomata
-- "Horseshoe crab"
-- "Horseshoe crabs"
+  - Xiphosura
+  - Merostomata
+  - Horseshoe crab
+  - Horseshoe crabs
+  - Horseshoe_Crab
+  - Horseshoe Crab
 title: Xiphosura
 ---
 

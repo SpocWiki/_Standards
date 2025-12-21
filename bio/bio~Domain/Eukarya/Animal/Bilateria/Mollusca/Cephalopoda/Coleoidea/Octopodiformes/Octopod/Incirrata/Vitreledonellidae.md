@@ -1,5 +1,7 @@
 ---
-title: "Vitreledonella richardi"
+aliases:
+  - Vitreledonellidae
+title: Vitreledonella richardi
 ---
 
 # [[Vitreledonellidae]] 

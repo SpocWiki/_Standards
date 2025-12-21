@@ -1,5 +1,7 @@
 ---
-title: "Firoloida desmaresti"
+aliases:
+  - Firoloida
+title: Firoloida desmaresti
 ---
 
 ## Phylogeny 

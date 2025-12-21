@@ -1,10 +1,14 @@
 ---
 aliases:
   - Meeresschildkröte
+  - Sea_Turtle
+  - Sea Turtle
+  - Sea Turtles
+  - tortuga marina
 has_id_wikidata: Q219329
-taxon_rank: "[[_Standards/WikiData/WD~superfamily,2136103]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-ITIS_TSN: "948946"
+taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 948946
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lepidochelys-olivacea-K%C3%A9lonia-1.JPG
 UMLS_CUI: C1001720
 Commons_category: Chelonioidea

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Thiodininae
 title: Thiodininae
 ---
 

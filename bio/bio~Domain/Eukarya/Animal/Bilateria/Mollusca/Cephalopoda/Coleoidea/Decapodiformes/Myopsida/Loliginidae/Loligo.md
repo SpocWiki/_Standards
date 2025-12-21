@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Loligo
 title: Loligo
 ---
 

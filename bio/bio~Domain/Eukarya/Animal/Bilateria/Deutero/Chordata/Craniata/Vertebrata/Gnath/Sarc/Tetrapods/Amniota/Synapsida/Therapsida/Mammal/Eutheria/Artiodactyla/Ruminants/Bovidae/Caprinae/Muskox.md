@@ -1,29 +1,36 @@
 ---
 aliases:
-  - Ovibos 
+  - Ovibos
   - Ovibos moschatus
   - Ovibos_moschatus
   - Moschusochse
+  - Muskox
+  - güe almizcleru
+  - Musk Ox
+  - moskusfe
+  - piżmowół arktyczny
+  - wół piżmowy
+  - bœuf musqué
 has_id_wikidata: Q184004
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~qiviut,1673300]]"
-parent_taxon: "[[_Standards/WikiData/WD~Ovibos,19817365]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-original_combination: "[[_Standards/WikiData/WD~Bos_moschatus,122524998]]"
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~qiviut,1673300]]'
+parent_taxon: '[[_Standards/WikiData/WD~Ovibos,19817365]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+original_combination: '[[_Standards/WikiData/WD~Bos_moschatus,122524998]]'
 start_time: -200000-01-01T00:00:00Z
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 litter_size: 1
 gestation_period: 8.5
 longest_observed_lifespan: 27.4
-ITIS_TSN: "180708"
+ITIS_TSN: 180708
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ovibos%20moschatus.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ovibos%20moschatus%20qtl3.jpg

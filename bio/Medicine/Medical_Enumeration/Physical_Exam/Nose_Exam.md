@@ -3,21 +3,23 @@ aliases:
   - nose examination
   - nose exam
   - is_a_nose_examination
+  - Nose_Exam
+  - Nose Exam
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - nose
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_nose Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

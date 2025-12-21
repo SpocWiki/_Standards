@@ -6,6 +6,28 @@ aliases:
   - Erbsen
   - pisum
   - Lathyrus oleraceus
+  - 豌豆
+  - 豌豆花
+  - エンドウ
+  - 豌豆苗
+  - 豆
+  - Erwt
+  - arbeyera
+  - 豌豆荚
+  - بازلاء
+  - hrách setý
+  - pysen yr ardd
+  - garden pea
+  - satoherne
+  - 완두
+  - navadni grah
+  - 大薸
+  - 豌豆尖
+  - 回鹘豆
+  - 荷兰豆
+  - 雪豆
+  - 麦豆
+has_id_wikidata: Q25237
 award_received: "[[_Standards/WikiData/WD~Vegetable_of_the_year,1344055]]"
 Commons_category: Pisum sativum
 Commons_gallery: Pisum sativum
@@ -26,7 +48,6 @@ GenBank_assembly_accession_number:
   - GCA_900700895.2
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=300472
 hardiness_of_plant: "[[_Standards/WikiData/WD~2,99546131]]"
-has_id_wikidata: Q25237
 has_use:
   - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
   - "[[_Standards/WikiData/WD~fodder,211439]]"
@@ -90,7 +111,7 @@ USDA_NDB_number: 11303
 water_footprint: 1979
 ---
 
-# [[Pea]] 
+# [[Pea]] 🫛 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Pea,25237|WD~Pea,25237]] 
 

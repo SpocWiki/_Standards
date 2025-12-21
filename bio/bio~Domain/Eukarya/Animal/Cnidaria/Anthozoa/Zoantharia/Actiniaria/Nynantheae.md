@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Nynantheae
 title: Nynantheae
 ---
 

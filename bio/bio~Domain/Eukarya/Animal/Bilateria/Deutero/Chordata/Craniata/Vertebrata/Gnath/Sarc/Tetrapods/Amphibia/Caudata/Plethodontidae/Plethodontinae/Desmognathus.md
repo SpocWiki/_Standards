@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Desmognathus
 title: Desmognathus
 ---
 

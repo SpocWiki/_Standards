@@ -1,24 +1,25 @@
 ---
 aliases:
   - Genuss
+  - Pleasure
 has_id_wikidata: Q208195
-opposite_of: "[[_Standards/WikiData/WD~pain,81938]]"
+opposite_of: '[[_Standards/WikiData/WD~pain,81938]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfzehnter_Band,136385610]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfzehnter_Band,136385610]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Q1288392,1288392]]"
-  - "[[_Standards/WikiData/WD~Ĝuo,12357383]]"
-  - "[[_Standards/WikiData/WD~pleasure,13403650]]"
-  - "[[_Standards/WikiData/WD~enjoyment,16515248]]"
+  - '[[_Standards/WikiData/WD~Q1288392,1288392]]'
+  - '[[_Standards/WikiData/WD~Ĝuo,12357383]]'
+  - '[[_Standards/WikiData/WD~pleasure,13403650]]'
+  - '[[_Standards/WikiData/WD~enjoyment,16515248]]'
 part_of:
-  - "[[_Standards/WikiData/WD~theory_of_emotion,9357054]]"
-  - "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-instance_of: "[[_Standards/WikiData/WD~positive_emotion,60539479]]"
+  - '[[_Standards/WikiData/WD~theory_of_emotion,9357054]]'
+  - '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+instance_of: '[[_Standards/WikiData/WD~positive_emotion,60539479]]'
 different_from:
-  - "[[_Standards/WikiData/WD~pleasure,113958188]]"
-  - "[[_Standards/WikiData/WD~Pleasure,123382713]]"
-subclass_of: "[[_Standards/WikiData/WD~emotion,9415]]"
+  - '[[_Standards/WikiData/WD~pleasure,113958188]]'
+  - '[[_Standards/WikiData/WD~Pleasure,123382713]]'
+subclass_of: '[[_Standards/WikiData/WD~emotion,9415]]'
 PhilPapers_topic: pleasure
 Commons_category: Pleasure
 image:

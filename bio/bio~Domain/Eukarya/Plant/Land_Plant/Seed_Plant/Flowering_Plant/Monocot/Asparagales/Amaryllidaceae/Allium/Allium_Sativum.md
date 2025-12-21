@@ -1,40 +1,54 @@
 ---
 aliases:
   - Garlic
+  - Allium_Sativum
+  - Allium Sativum
+  - ail
+  - Knoblauch
+  - 蒜
+  - 大蒜
+  - ayu
+  - kynsilaukka
+  - česen
+  - česnek kuchyňský
+  - cultivated garlic
+  - ail commun
+  - ail cultivé
+  - 蒜（大蒜）
 has_id_wikidata: Q23400
-has_fruit_type: "[[_Standards/WikiData/WD~capsule,147768]]"
+has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768]]'
 has_use:
-  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
-  - "[[_Standards/WikiData/WD~vegetable,11004]]"
-  - "[[_Standards/WikiData/WD~spice,42527]]"
+  - '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+  - '[[_Standards/WikiData/WD~vegetable,11004]]'
+  - '[[_Standards/WikiData/WD~spice,42527]]'
 described_by_source:
-  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Q19133013,19133013]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_14,112869388]]"
-award_received: "[[_Standards/WikiData/WD~Medicinal_plant_of_the_year,718769]]"
-subclass_of: "[[_Standards/WikiData/WD~useful_plant,11992872]]"
+  - '[[_Standards/WikiData/WD~Q19133013,19133013]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_14,112869388]]'
+award_received: '[[_Standards/WikiData/WD~Medicinal_plant_of_the_year,718769]]'
+subclass_of: '[[_Standards/WikiData/WD~useful_plant,11992872]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~garlic,21546392]]"
-  - "[[_Standards/WikiData/WD~garlic_oil,72480094]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-hardiness_of_plant: "[[_Standards/WikiData/WD~4,99547071]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+  - '[[_Standards/WikiData/WD~garlic,21546392]]'
+  - '[[_Standards/WikiData/WD~garlic_oil,72480094]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~4,99547071]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 taxon_range:
-  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
-  - "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
+  - '[[_Standards/WikiData/WD~Guangdong,15175]]'
+  - '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Fujian,41705]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Allium,49391]]"
+  - '[[_Standards/WikiData/WD~Fujian,41705]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Allium,49391]]'
 water_footprint: 589
-ITIS_TSN: "42652"
-OmegaWiki_Defined_Meaning: "434345"
+ITIS_TSN: 42652
+OmegaWiki_Defined_Meaning: 434345
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Garlic%20bulbs%20and%20cloves.jpg
 taxon_common_name:
   - ail

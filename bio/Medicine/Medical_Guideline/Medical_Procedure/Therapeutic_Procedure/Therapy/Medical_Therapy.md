@@ -6,35 +6,37 @@ aliases:
   - is_a_medical_therapy
   - Medical_Treatment
   - Medical Treatment
+  - Medical_Therapy
+  - Medical Therapy
+has_id_wikidata: Q179661
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_therapy
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_therapy Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_medical_therapy Class
 type: Type
-has_id_wikidata: Q179661
-subclass_of: "[[_Standards/WikiData/WD~medical_procedure,796194]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-has_use: "[[_Standards/WikiData/WD~remedy,1595418]]"
-practiced_by: "[[_Standards/WikiData/WD~therapist,2419397]]"
+subclass_of: '[[_Standards/WikiData/WD~medical_procedure,796194]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+has_use: '[[_Standards/WikiData/WD~remedy,1595418]]'
+practiced_by: '[[_Standards/WikiData/WD~therapist,2419397]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_medical_intervention,13365385]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox_medical_intervention_(new),89043345]]"
-instance_of: "[[_Standards/WikiData/WD~medical_procedure_type,55214844]]"
-has_characteristic: "[[_Standards/WikiData/WD~type_of_medical_treatment,130705900]]"
+  - '[[_Standards/WikiData/WD~Template_Infobox_medical_intervention,13365385]]'
+  - '[[_Standards/WikiData/WD~Template_Infobox_medical_intervention_(new),89043345]]'
+instance_of: '[[_Standards/WikiData/WD~medical_procedure_type,55214844]]'
+has_characteristic: '[[_Standards/WikiData/WD~type_of_medical_treatment,130705900]]'
 Wikidata_property:
   - possible treatment
   - negative therapeutic predictor for
@@ -42,10 +44,10 @@ Wikidata_property:
 properties_for_this_type:
   - health specialty
   - medical condition treated
-facet_of: "[[_Standards/WikiData/WD~health_care,31207]]"
+facet_of: '[[_Standards/WikiData/WD~health_care,31207]]'
 Dewey_Decimal_Classification:
-  - "615"
-  - "616.891"
+  - 615
+  - 616.891
 Archive_of_Our_Own_tag: Therapy
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Polio%20physical%20therapy.jpg
 equivalent_class: https://schema.org/MedicalTherapy

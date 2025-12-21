@@ -1,5 +1,8 @@
 ---
-title: "Single-stranded DNA Viruses"
+aliases:
+  - Single-stranded_DNA_Virus
+  - Single-stranded DNA Virus
+title: Single-stranded DNA Viruses
 ---
 
 ## Phylogeny 

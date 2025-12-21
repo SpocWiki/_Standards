@@ -1,5 +1,7 @@
 ---
-title: "Latrodectus geometricus"
+aliases:
+  - geometricus
+title: Latrodectus geometricus
 ---
 
 ## Phylogeny 

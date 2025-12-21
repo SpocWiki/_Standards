@@ -1,8 +1,9 @@
 ---
-title: Antilocapra americana
 aliases:
   - antelope-goat
-has_id_wikidata: "19817351"
+  - Antilocapra
+has_id_wikidata: 19817351
+title: Antilocapra americana
 ---
 
 # [[Antilocapra]] 

@@ -1,6 +1,8 @@
 ---
 aliases:
   - humpback whale
+  - Humpback_Whale
+  - Humpback Whale
 has_id_wikidata: Q132905
 ---
 

@@ -10,22 +10,22 @@ aliases:
   - Lipicanec
 has_id_wikidata: Q217671
 instance_of:
-  - "[[_Standards/WikiData/WD~tradition,82821]]"
-  - "[[_Standards/WikiData/WD~horse_breed,1160573]]"
-subclass_of: "[[_Standards/WikiData/WD~Baroque_horse,808569]]"
-color: "[[_Standards/WikiData/WD~gray,1145422]]"
+  - '[[_Standards/WikiData/WD~tradition,82821]]'
+  - '[[_Standards/WikiData/WD~horse_breed,1160573]]'
+subclass_of: '[[_Standards/WikiData/WD~Baroque_horse,808569]]'
+color: '[[_Standards/WikiData/WD~gray,1145422]]'
 has_use:
-  - "[[_Standards/WikiData/WD~combined_driving,1392681]]"
-  - "[[_Standards/WikiData/WD~classical_dressage,1744672]]"
-  - "[[_Standards/WikiData/WD~Q16641397,16641397]]"
-  - "[[_Standards/WikiData/WD~dressage_at_the_Summer_Olympics,76496910]]"
+  - '[[_Standards/WikiData/WD~combined_driving,1392681]]'
+  - '[[_Standards/WikiData/WD~classical_dressage,1744672]]'
+  - '[[_Standards/WikiData/WD~Q16641397,16641397]]'
+  - '[[_Standards/WikiData/WD~dressage_at_the_Summer_Olympics,76496910]]'
 intangible_cultural_heritage_status:
-  - "[[_Standards/WikiData/WD~Register_of_the_Intangible_Cultural_Heritage_in_Slovenia,18398453]]"
-  - "[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]"
+  - '[[_Standards/WikiData/WD~Register_of_the_Intangible_Cultural_Heritage_in_Slovenia,18398453]]'
+  - '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
 country_of_origin:
-  - "[[_Standards/WikiData/WD~Austria,40]]"
-  - "[[_Standards/WikiData/WD~Slovenia,215]]"
+  - '[[_Standards/WikiData/WD~Austria,40]]'
+  - '[[_Standards/WikiData/WD~Slovenia,215]]'
 mass: 550
 population: 10766
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lipicanec%20PRMO.jpg

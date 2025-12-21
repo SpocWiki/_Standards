@@ -4,20 +4,22 @@ aliases:
   - drug_strength
   - DrugStrength
   - is_a_drug_strength
+  - Drug_Strength
+  - Drug Strength
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - drug_strength
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_drug_strength Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

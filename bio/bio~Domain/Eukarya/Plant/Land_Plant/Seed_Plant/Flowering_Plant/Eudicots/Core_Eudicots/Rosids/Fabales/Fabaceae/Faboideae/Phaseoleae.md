@@ -1,6 +1,6 @@
 ---
 aliases:
-- Phaseoleae
+  - Phaseoleae
 ---
 
 # [[Phaseoleae]] 

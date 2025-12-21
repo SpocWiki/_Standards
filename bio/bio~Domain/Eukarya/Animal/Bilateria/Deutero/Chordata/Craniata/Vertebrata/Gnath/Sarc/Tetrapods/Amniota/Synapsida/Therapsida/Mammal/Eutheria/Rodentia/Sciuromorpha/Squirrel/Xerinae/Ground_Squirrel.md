@@ -3,13 +3,16 @@ aliases:
   - Marmotini
   - Ground squirrels
   - Ground squirrel
+  - Ground_Squirrel
+  - Ground Squirrel
+  - ground squirrel
 has_id_wikidata: Q389250
 title: Marmotini
-taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Xerinae,53112]]"
-ITIS_TSN: "930212"
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Xerinae,53112]]'
+ITIS_TSN: 930212
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ground%20squirrel%20berkeley%20marina%2001.jpg
 UMLS_CUI: C1641147
 Commons_category: Marmotini

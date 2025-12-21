@@ -1,30 +1,31 @@
 ---
 aliases:
-- Gewissenhaftigkeit
-- conscientiousness
+  - Gewissenhaftigkeit
+  - conscientiousness
+  - Big5~Conscientiousness
 confidential: private
 cssclasses:
-- private
-- note
+  - private
+  - note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: 
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 has_time_started: 2025-06-29
 isDeleted: false
 isReadOnly: false
 keywords: Gewissenhaftigkeit
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Gewissenhaftigkeit
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Gewissenhaftigkeit
-- excalidraw
+  - Gewissenhaftigkeit
+  - excalidraw
 title: Gewissenhaftigkeit
 type: private_note
 ---

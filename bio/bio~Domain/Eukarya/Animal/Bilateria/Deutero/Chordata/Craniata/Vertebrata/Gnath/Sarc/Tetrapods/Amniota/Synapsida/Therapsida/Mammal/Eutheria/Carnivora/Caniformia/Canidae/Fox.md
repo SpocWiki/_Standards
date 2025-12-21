@@ -2,6 +2,24 @@
 aliases:
   - Fuchs
   - Füchse
+  - Fox
+  - খেঁকশিয়াল
+  - Rubah
+  - Vulpe
+  - నక్క
+  - Tilki
+  - ہوٗن
+  - நரி
+  - लोमड़ी
+  - 狐
+  - Renard
+  - Zorro
+  - キツネ
+  - 여우
+  - ثعلب
+  - Cáo
+  - lapsa
+  - Vulpini
 has_id_wikidata: Q8331
 Baidu_Tieba_name: 狐狸
 Unicode_character: 🦊
@@ -67,7 +85,7 @@ color:
   - "[[_Standards/WikiData/WD~brown,47071]]"
 IMDb_keyword: fox
 hashtag_: fox
-U_S_National_Archives_Identifier: "10648553"
+U_S_National_Archives_Identifier: 10648553
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vulpes%20vulpes%20laying%20in%20snow.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Fuchs2.ogg
 subreddit: foxes
@@ -79,7 +97,7 @@ MeSH_tree_code: B01.050.150.900.649.313.750.250.216.250
 UMLS_CUI: C0325013
 ---
 
-# [[Fox]] 
+# [[Fox]] 🦊 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Fox,8331|WD~Fox,8331]] 
 

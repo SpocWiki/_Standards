@@ -1,5 +1,7 @@
 ---
-title: "Siphoniulus neotropicus"
+aliases:
+  - Siphoniulida
+title: Siphoniulus neotropicus
 ---
 
 ## [[Siphoniulida]] 

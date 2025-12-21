@@ -1,7 +1,8 @@
 ---
 aliases:
-- Polyplacophora
-- Chiton
+  - Polyplacophora
+  - Chiton
+  - Chitons
 title: Polyplacophora
 ---
 

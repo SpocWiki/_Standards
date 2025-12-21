@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Julius Michael Johannes Maggi"
+  - Julius Michael Johannes Maggi
+  - Maggi,Julius
 ---
 
 #has_/time_/started ::  1846-10-09 

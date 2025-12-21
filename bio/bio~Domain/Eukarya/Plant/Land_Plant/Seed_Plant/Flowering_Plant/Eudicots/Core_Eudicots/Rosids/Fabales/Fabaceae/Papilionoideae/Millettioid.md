@@ -1,5 +1,7 @@
 ---
-title: "Millettioid sensu lato clade"
+aliases:
+  - Millettioid
+title: Millettioid sensu lato clade
 ---
 
 # [[Millettioid]] sensu lato 

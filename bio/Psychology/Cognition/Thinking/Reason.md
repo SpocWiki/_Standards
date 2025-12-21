@@ -1,23 +1,24 @@
 ---
 aliases:
   - Vernunft
+  - Reason
 has_id_wikidata: Q178354
 different_from:
-  - "[[_Standards/WikiData/WD~Reason,298903]]"
-  - "[[_Standards/WikiData/WD~Vernunft,2517380]]"
-opposite_of: "[[_Standards/WikiData/WD~absurdity,430727]]"
+  - '[[_Standards/WikiData/WD~Reason,298903]]'
+  - '[[_Standards/WikiData/WD~Vernunft,2517380]]'
+opposite_of: '[[_Standards/WikiData/WD~absurdity,430727]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Elfter_Band,133465506]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierzehnter_Band,135913667]]"
-subclass_of: "[[_Standards/WikiData/WD~cognitive_process,781413]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~reasoning,1156402]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Elfter_Band,133465506]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierzehnter_Band,135913667]]'
+subclass_of: '[[_Standards/WikiData/WD~cognitive_process,781413]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~reasoning,1156402]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~philosophical_concept,33104279]]"
-  - "[[_Standards/WikiData/WD~psychology_concept,96634632]]"
+  - '[[_Standards/WikiData/WD~philosophical_concept,33104279]]'
+  - '[[_Standards/WikiData/WD~psychology_concept,96634632]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Vernunft.ogg
 Commons_category: Reasoning
 Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/RAZUM.html

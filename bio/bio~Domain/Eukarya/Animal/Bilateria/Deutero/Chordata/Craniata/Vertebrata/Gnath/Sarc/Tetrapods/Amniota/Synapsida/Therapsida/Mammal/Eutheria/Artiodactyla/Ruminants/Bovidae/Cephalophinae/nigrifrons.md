@@ -1,5 +1,7 @@
 ---
-title: "Cephalophus nigrifrons"
+aliases:
+  - nigrifrons
+title: Cephalophus nigrifrons
 ---
 
 ## Phylogeny 

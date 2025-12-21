@@ -1,28 +1,45 @@
 ---
 aliases:
   - Dahlie
+  - Dahlia
+  - dahlia
+  - דליה
+  - Dahlien
+  - Георгина
+  - Ντάλια
+  - Далия
+  - dalia
+  - Daaliat
+  - डहेलिया
+  - ဒေလီယာ
+  - dalija
+  - georgina
+  - Dahliasläktet
+  - Yıldız çiçeği
+  - 大丽花属
+  - 大丽菊
 has_id_wikidata: Q130918
-named_after: "[[_Standards/WikiData/WD~Anders_Dahl,496775]]"
+named_after: '[[_Standards/WikiData/WD~Anders_Dahl,496775]]'
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_75,112869482]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-subclass_of: "[[_Standards/WikiData/WD~flowering_plant,886167]]"
-parent_taxon: "[[_Standards/WikiData/WD~Coreopsidinae,3693495]]"
-homonymous_taxon: "[[_Standards/WikiData/WD~Dahlia,5208900]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_75,112869482]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+subclass_of: '[[_Standards/WikiData/WD~flowering_plant,886167]]'
+parent_taxon: '[[_Standards/WikiData/WD~Coreopsidinae,3693495]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Dahlia,5208900]]'
 has_list:
-  - "[[_Standards/WikiData/WD~list_of_dahlia_diseases,6615447]]"
-  - "[[_Standards/WikiData/WD~list_of_dahlia_species,6615451]]"
-  - "[[_Standards/WikiData/WD~list_of_Award_of_Garden_Merit_dahlias,17097372]]"
-  - "[[_Standards/WikiData/WD~list_of_Dahlia_cultivars,18388808]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~dahlia,84267512]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "37223"
+  - '[[_Standards/WikiData/WD~list_of_dahlia_diseases,6615447]]'
+  - '[[_Standards/WikiData/WD~list_of_dahlia_species,6615451]]'
+  - '[[_Standards/WikiData/WD~list_of_Award_of_Garden_Merit_dahlias,17097372]]'
+  - '[[_Standards/WikiData/WD~list_of_Dahlia_cultivars,18388808]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~dahlia,84267512]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 37223
 Commons_gallery: Dahlia
 Commons_category: Dahlia
 taxon_name: Dahlia

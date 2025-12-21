@@ -1,5 +1,8 @@
 ---
-title: "Pecari tajacu"
+aliases:
+  - Pecari_tajacu
+  - Pecari tajacu
+title: Pecari tajacu
 ---
 
 # Pecari tajacu

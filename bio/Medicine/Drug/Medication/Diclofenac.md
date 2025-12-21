@@ -1,6 +1,7 @@
 ---
 aliases:
-- Voltaren
+  - Voltaren
+  - Diclofenac
 ---
 
 ## #has_/text_of_/abstract 

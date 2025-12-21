@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cambarellinae
 title: Cambarellinae
 ---
 

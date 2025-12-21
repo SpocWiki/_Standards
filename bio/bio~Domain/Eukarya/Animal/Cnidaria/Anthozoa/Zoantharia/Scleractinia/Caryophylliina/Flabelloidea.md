@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Flabelloidea
 title: Flabelloidea
 ---
 

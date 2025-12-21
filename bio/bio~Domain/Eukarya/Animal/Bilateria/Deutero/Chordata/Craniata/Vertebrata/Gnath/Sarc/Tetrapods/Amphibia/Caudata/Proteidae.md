@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Proteidae
 title: Proteidae
 ---
 

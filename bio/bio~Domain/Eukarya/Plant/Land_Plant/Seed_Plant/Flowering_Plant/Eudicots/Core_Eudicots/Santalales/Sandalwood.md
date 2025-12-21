@@ -1,8 +1,8 @@
 ---
 aliases:
-- Santalum
-- Sandalwood
-- Sandelholz
+  - Santalum
+  - Sandalwood
+  - Sandelholz
 ---
 
 ## #has_/text_of_/abstract 

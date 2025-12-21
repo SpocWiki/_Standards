@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Oegopsida
 title: Oegopsida
 ---
 

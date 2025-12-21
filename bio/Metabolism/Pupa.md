@@ -2,20 +2,21 @@
 aliases:
   - chrysalis
   - tumbler
+  - Pupa
 has_id_wikidata: Q170595
-followed_by: "[[_Standards/WikiData/WD~imago,207254]]"
+followed_by: '[[_Standards/WikiData/WD~imago,207254]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~chrysalis,1781247]]"
-follows: "[[_Standards/WikiData/WD~insect_larva,15630878]]"
-subclass_of: "[[_Standards/WikiData/WD~developmental_stage_of_animal,20056177]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_living_thing,55597235]]"
-OmegaWiki_Defined_Meaning: "1085095"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~chrysalis,1781247]]'
+follows: '[[_Standards/WikiData/WD~insect_larva,15630878]]'
+subclass_of: '[[_Standards/WikiData/WD~developmental_stage_of_animal,20056177]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_living_thing,55597235]]'
+OmegaWiki_Defined_Meaning: 1085095
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cetoine%20global.jpg
 MeSH_tree_code:
   - B05.500.700

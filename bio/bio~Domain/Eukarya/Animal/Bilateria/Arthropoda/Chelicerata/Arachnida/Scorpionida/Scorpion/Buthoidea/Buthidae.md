@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Buthidae
 title: Buthidae
 ---
 

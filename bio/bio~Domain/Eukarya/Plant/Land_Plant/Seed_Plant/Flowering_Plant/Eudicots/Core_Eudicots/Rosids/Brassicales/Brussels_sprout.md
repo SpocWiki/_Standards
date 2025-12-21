@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Brussels sprout"
-- Rosenkohl
+  - Brussels sprout
+  - Rosenkohl
+  - Brussels_sprout
 ---
 
 # [[Brussels_sprout]] 

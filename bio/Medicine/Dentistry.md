@@ -1,41 +1,43 @@
 ---
+aliases:
+  - Dentistry
+has_id_wikidata: Q12128
 All_Science_Journal_Classification_Codes: 3501
 Basisklassifikation: 44.96
 Commons_category: Dentistry
 Commons_gallery: Dentistry
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Dewey_Decimal_Classification:
   - 617
   - 617.6
-different_from: "[[_Standards/WikiData/WD~oral_medicine,3673891]]"
+different_from: '[[_Standards/WikiData/WD~oral_medicine,3673891]]'
 exact_match: https://schema.org/Dentistry
 GitHub_topic: dentistry
 Gujarati_Vishwakosh_entry: દાંત-અને-દંતવિદ્યા
-has_id_wikidata: Q12128
-has_part_s_: "[[_Standards/WikiData/WD~clinical_dentistry,121493590]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_dentistry,2155629]]"
+has_part_s_: '[[_Standards/WikiData/WD~clinical_dentistry,121493590]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_dentistry,2155629]]'
 Iconclass_notation: 49G6131
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dental%20surgery%20aboard%20USS%20Eisenhower%2C%20January%201990.JPEG
 instance_of:
-  - "[[_Standards/WikiData/WD~medical_specialty,930752]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - '[[_Standards/WikiData/WD~medical_specialty,930752]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 IPTC_NewsCode: mediatopic/20000712
 MeSH_tree_code:
   - H02.163
   - E06
 OmegaWiki_Defined_Meaning: 451926
 practiced_by:
-  - "[[_Standards/WikiData/WD~Q3349342,3349342]]"
-  - "[[_Standards/WikiData/WD~professor_of_dentistry,130629406]]"
-  - "[[_Standards/WikiData/WD~dentist,27349]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~oral_medicine,3673891]]"
-subclass_of: "[[_Standards/WikiData/WD~medicine,11190]]"
+  - '[[_Standards/WikiData/WD~Q3349342,3349342]]'
+  - '[[_Standards/WikiData/WD~professor_of_dentistry,130629406]]'
+  - '[[_Standards/WikiData/WD~dentist,27349]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~oral_medicine,3673891]]'
+subclass_of: '[[_Standards/WikiData/WD~medicine,11190]]'
 subreddit: Dentistry
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Dentistry,10887576]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Dentistry,10887576]]'
 UMLS_CUI: C0011438
 U_S_National_Archives_Identifier: 10646970
 WordLift_URL: http://data.wordlift.io/wl01714/entity/dentistry

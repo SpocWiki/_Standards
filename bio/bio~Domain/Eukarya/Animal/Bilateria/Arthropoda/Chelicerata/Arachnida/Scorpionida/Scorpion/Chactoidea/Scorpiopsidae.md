@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Scorpiopsidae
 title: Scorpiopsidae
 ---
 

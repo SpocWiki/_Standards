@@ -1,4 +1,6 @@
 ---
+aliases:
+  - capricornia
 title: capricornia
 ---
 

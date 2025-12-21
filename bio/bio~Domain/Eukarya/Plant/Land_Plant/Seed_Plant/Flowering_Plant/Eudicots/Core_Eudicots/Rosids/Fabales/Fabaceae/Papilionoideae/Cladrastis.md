@@ -1,5 +1,7 @@
 ---
-title: "Cladrastis clade"
+aliases:
+  - Cladrastis
+title: Cladrastis clade
 ---
 
 ## Phylogeny 

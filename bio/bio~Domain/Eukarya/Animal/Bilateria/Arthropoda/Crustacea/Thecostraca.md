@@ -1,9 +1,9 @@
 ---
 aliases:
-- Thecostraca
-- Barnacle
-- Rankenfußkrebse
-- Seepocken
+  - Thecostraca
+  - Barnacle
+  - Rankenfußkrebse
+  - Seepocken
 title: Thecostraca
 ---
 

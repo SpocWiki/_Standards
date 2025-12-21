@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Russulales
 title: Russulales
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: "Afrauropus occiduus"
+aliases:
+  - Afrauropodidae
+title: Afrauropus occiduus
 ---
 
 ## [[Afrauropodidae]] 

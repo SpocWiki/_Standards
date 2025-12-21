@@ -1,5 +1,8 @@
 ---
-title: "Eucritta melanolimnetes"
+aliases:
+  - Eucritta_melanolimnetes
+  - Eucritta melanolimnetes
+title: Eucritta melanolimnetes
 ---
 
 # [[Eucritta_melanolimnetes]]  

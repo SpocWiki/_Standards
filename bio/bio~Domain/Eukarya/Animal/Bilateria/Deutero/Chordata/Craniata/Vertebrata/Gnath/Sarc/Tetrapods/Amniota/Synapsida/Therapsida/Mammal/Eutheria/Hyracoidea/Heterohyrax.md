@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Heterohyrax
 title: Heterohyrax
 ---
 

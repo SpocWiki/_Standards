@@ -5,6 +5,8 @@ aliases:
   - sensus communis
   - bon sens
   - κοινὴ αἴσθησις
+  - Common_Sense
+  - Common Sense
 has_id_wikidata: Q332880
 ---
 

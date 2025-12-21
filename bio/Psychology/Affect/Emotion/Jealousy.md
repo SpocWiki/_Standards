@@ -1,20 +1,21 @@
 ---
 aliases:
   - Eifersucht
+  - Jealousy
 has_id_wikidata: Q6545811
 different_from:
-  - "[[_Standards/WikiData/WD~envy,188739]]"
-  - "[[_Standards/WikiData/WD~Q20397722,20397722]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-subclass_of: "[[_Standards/WikiData/WD~defensive_pessimism,1182638]]"
-opposite_of: "[[_Standards/WikiData/WD~compersion,1283059]]"
-depicted_by: "[[_Standards/WikiData/WD~jealousy_in_art,17098485]]"
-studied_by: "[[_Standards/WikiData/WD~social_aspects_of_jealousy,17145952]]"
-instance_of: "[[_Standards/WikiData/WD~negative_emotion,60539481]]"
-part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-physically_interacts_with: "[[_Standards/WikiData/WD~Anger_of_God_in_Islam,125946849]]"
+  - '[[_Standards/WikiData/WD~envy,188739]]'
+  - '[[_Standards/WikiData/WD~Q20397722,20397722]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+subclass_of: '[[_Standards/WikiData/WD~defensive_pessimism,1182638]]'
+opposite_of: '[[_Standards/WikiData/WD~compersion,1283059]]'
+depicted_by: '[[_Standards/WikiData/WD~jealousy_in_art,17098485]]'
+studied_by: '[[_Standards/WikiData/WD~social_aspects_of_jealousy,17145952]]'
+instance_of: '[[_Standards/WikiData/WD~negative_emotion,60539481]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+physically_interacts_with: '[[_Standards/WikiData/WD~Anger_of_God_in_Islam,125946849]]'
 Commons_category: Jealousy
-OmegaWiki_Defined_Meaning: "980918"
+OmegaWiki_Defined_Meaning: 980918
 IMDb_keyword: jealousy
 PhilPapers_topic: jealousy
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Young%20Romance.jpg

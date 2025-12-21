@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Acerentomidae
 title: Acerentomidae
 ---
 

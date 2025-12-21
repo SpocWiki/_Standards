@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Hyracoidea
 title: Hyracoidea
 ---
 

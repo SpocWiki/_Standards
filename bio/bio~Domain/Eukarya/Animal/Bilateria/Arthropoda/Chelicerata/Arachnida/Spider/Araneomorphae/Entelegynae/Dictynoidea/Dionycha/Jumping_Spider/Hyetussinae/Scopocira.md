@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Scopocira
 title: Scopocira
 ---
 

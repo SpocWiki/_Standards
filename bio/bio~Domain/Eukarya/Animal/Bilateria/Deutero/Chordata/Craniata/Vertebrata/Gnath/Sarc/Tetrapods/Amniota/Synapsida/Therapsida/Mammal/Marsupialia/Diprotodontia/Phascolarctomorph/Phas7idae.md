@@ -1,13 +1,14 @@
 ---
 aliases:
   - Phascolarctidae
+  - Phas7idae
 has_id_wikidata: Q431978
-taxonomic_type: "[[_Standards/WikiData/WD~Phascolarctos,209692]]"
-parent_taxon: "[[_Standards/WikiData/WD~Phascolarctomorphia,131468339]]"
-endemic_to: "[[_Standards/WikiData/WD~Australia,408]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "552319"
+taxonomic_type: '[[_Standards/WikiData/WD~Phascolarctos,209692]]'
+parent_taxon: '[[_Standards/WikiData/WD~Phascolarctomorphia,131468339]]'
+endemic_to: '[[_Standards/WikiData/WD~Australia,408]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 552319
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Koala%20climbing%20tree.jpg
 Commons_category: Phascolarctidae
 taxon_name: Phascolarctidae

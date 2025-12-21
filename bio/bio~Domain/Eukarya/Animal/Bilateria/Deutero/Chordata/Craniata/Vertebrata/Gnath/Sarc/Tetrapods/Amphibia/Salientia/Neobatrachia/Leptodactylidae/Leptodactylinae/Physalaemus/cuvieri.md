@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus cuvieri"
+aliases:
+  - cuvieri
+title: Physalaemus cuvieri
 ---
 
 ## Phylogeny 

@@ -4,20 +4,21 @@ aliases:
   - nerve
   - Nerve
   - is_a_nerve
+  - nerve 1
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - nerve
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_nerve Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

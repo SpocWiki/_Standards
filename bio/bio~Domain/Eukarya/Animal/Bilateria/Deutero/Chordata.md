@@ -1,17 +1,74 @@
 ---
+aliases:
+  - Chordata
+  - Chordater
+  - Chordatiere
+  - Χορδωτά
+  - Chordates
+  - Ĥordulo
+  - Cordados
+  - Keelikloomad
+  - Selkäjänteiset
+  - Chordés
+  - Cordés
+  - Ragstringdiarten
+  - Rêchstringdier
+  - Cordaigh
+  - Saitetierer
+  - મેરૂદંડી
+  - מיתרניים
+  - रज्जुकी
+  - Svitkovci
+  - Gerinchúrosok
+  - Քորդավորներ
+  - Chordatos
+  - Kordata
+  - Seildýr
+  - 脊索動物門
+  - skoselti'e
+  - 척삭동물문(脊索動物門)
+  - Stûnpiştdaran
+  - Chordiniai
+  - Hordaiņi
+  - Хордати
+  - Хөвчтөний хүрээ
+  - Ryggstrengdyr
+  - Chordadieren
+  - Gewervelde dieren
+  - Strunowce
+  - Cordado
+  - Cordate
+  - Хордовые
+  - Strunovce
+  - strunarji
+  - Ryggsträngsdjur
+  - สัตว์มีแกนสันหลัง
+  - Kordalılar
+  - Хордові
+  - حبلیات
+  - Động vật có dây sống
+  - 脊索动物门
+  - Cordati
+  - Cordatos
+  - حبليات
+  - Хордови
+  - Hordati
+  - Cordats
+  - strunatci
+  - Cordog
+has_id_wikidata: Q10915
 Commons_category: Chordata
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Dewey_Decimal_Classification: 596
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 EPPO_Code: 1CHORP
 equivalent_class: http://kbpedia.org/kko/rc/ChordataPhylum
-has_id_wikidata: Q10915
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chordata.png
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 158852
 MeSH_tree_code: B01.050.150
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Chordata%202.jpg
@@ -83,11 +140,11 @@ taxon_common_name:
   - strunatci
   - Cordog
 taxon_name: Chordata
-taxon_rank: "[[_Standards/WikiData/WD~phylum,38348]]"
+taxon_rank: '[[_Standards/WikiData/WD~phylum,38348]]'
 title: Chordata
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Chordata,8084565]]"
-  - "[[_Standards/WikiData/WD~Template_Taxonomy_Chordata,10947570]]"
+  - '[[_Standards/WikiData/WD~Template_Chordata,8084565]]'
+  - '[[_Standards/WikiData/WD~Template_Taxonomy_Chordata,10947570]]'
 UMLS_CUI: C0920312
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: "section Pinus"
+aliases:
+  - Pinus(Section)
+title: section Pinus
 ---
 
 # [[Pinus(Section)]] 

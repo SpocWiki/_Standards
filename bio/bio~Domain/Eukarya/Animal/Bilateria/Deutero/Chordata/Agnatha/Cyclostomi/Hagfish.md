@@ -2,18 +2,21 @@
 aliases:
   - Myxiniformes
   - Myxini
+  - Hagfish
+  - mixín
+  - slimålfamilien
 has_id_wikidata: Q75713
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-different_from: "[[_Standards/WikiData/WD~Hogfish,1278753]]"
-parent_taxon: "[[_Standards/WikiData/WD~Myxiniformes,2072138]]"
-named_after: "[[_Standards/WikiData/WD~hag,9303881]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "159753"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Hogfish,1278753]]'
+parent_taxon: '[[_Standards/WikiData/WD~Myxiniformes,2072138]]'
+named_after: '[[_Standards/WikiData/WD~hag,9303881]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 159753
 Commons_category: Myxinidae
 taxon_name: Myxinidae
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pacific%20hagfish%20Myxine.jpg

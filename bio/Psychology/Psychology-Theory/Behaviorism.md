@@ -1,15 +1,17 @@
 ---
+aliases:
+  - Behaviorism
 has_id_wikidata: Q168338
-facet_of: "[[_Standards/WikiData/WD~classical_conditioning,212737]]"
-different_from: "[[_Standards/WikiData/WD~behavioralism,814451]]"
-instance_of: "[[_Standards/WikiData/WD~learning_theory,1790374]]"
-described_by_source: "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-subclass_of: "[[_Standards/WikiData/WD~research,42240]]"
+facet_of: '[[_Standards/WikiData/WD~classical_conditioning,212737]]'
+different_from: '[[_Standards/WikiData/WD~behavioralism,814451]]'
+instance_of: '[[_Standards/WikiData/WD~learning_theory,1790374]]'
+described_by_source: '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+subclass_of: '[[_Standards/WikiData/WD~research,42240]]'
 Library_of_Congress_Classification: BF199
-Universal_Decimal_Classification: "159.922"
-Basisklassifikation: "77.20"
-P8189: "987007283142205171"
+Universal_Decimal_Classification: 159.922
+Basisklassifikation: 77.20
+P8189: 987007283142205171
 Commons_category: Behaviorism
 UMLS_CUI: C0004942
 Krugosvet_article: gumanitarnye_nauki/psihologiya_i_pedagogika/BIHEVIORIZM.html

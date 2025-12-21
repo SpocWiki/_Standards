@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus gracilis"
+aliases:
+  - gracilis
+title: Physalaemus gracilis
 ---
 
 ## Phylogeny 

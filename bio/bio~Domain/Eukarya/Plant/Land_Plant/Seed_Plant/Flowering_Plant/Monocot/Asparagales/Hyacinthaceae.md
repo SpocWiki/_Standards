@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Hyacinthaceae
 title: Hyacinthaceae
 ---
 

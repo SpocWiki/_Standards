@@ -1,11 +1,14 @@
 ---
+aliases:
+  - Antiretroviral_therapy_for_HIV_AIDS
+  - Antiretroviral therapy for HIV AIDS
 has_id_wikidata: Q583050
 subclass_of:
-  - "[[_Standards/WikiData/WD~antiviral_drug,846227]]"
-  - "[[_Standards/WikiData/WD~antiretroviral_therapy,114595933]]"
-has_part_s_: "[[_Standards/WikiData/WD~highly_active_antiretroviral_therapy,3536652]]"
-OmegaWiki_Defined_Meaning: "491557"
-RIA_Novosti_reference: "56288135"
+  - '[[_Standards/WikiData/WD~antiviral_drug,846227]]'
+  - '[[_Standards/WikiData/WD~antiretroviral_therapy,114595933]]'
+has_part_s_: '[[_Standards/WikiData/WD~highly_active_antiretroviral_therapy,3536652]]'
+OmegaWiki_Defined_Meaning: 491557
+RIA_Novosti_reference: 56288135
 Commons_category: Antiretroviral drugs
 ---
 

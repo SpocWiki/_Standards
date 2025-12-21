@@ -1,6 +1,6 @@
 ---
 aliases:
-- Berberidopsidales
+  - Berberidopsidales
 title: Berberidopsidales
 ---
 

@@ -4,19 +4,22 @@ aliases:
   - Perissodactyla
   - odd-toed ungulate
   - Odd-toed_Ungulate
-title: Perissodactyla
+  - perisodáctilos
+  - hovdyr
+  - lihoprsti kopitarji
 has_id_wikidata: Q25374
+title: Perissodactyla
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Perissodactyla,6418784]]"
-  - "[[_Standards/WikiData/WD~Template_Taxonomy_Perissodactyla,13218341]]"
-parent_taxon: "[[_Standards/WikiData/WD~Perissodactylamorpha,125762739]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-ITIS_TSN: "180687"
+  - '[[_Standards/WikiData/WD~Template_Perissodactyla,6418784]]'
+  - '[[_Standards/WikiData/WD~Template_Taxonomy_Perissodactyla,13218341]]'
+parent_taxon: '[[_Standards/WikiData/WD~Perissodactylamorpha,125762739]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+ITIS_TSN: 180687
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/00296%20zebra.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Zebra%20chapman%20za%202003.jpg

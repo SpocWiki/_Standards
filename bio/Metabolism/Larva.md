@@ -2,15 +2,16 @@
 aliases:
   - Larve
   - larvae
+  - Larva
 has_id_wikidata: Q129270
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-facet_of: "[[_Standards/WikiData/WD~holometabolism,2048559]]"
-subclass_of: "[[_Standards/WikiData/WD~baby_animal,12038335]]"
-different_from: "[[_Standards/WikiData/WD~Q25416096,25416096]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_living_thing,55597235]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+facet_of: '[[_Standards/WikiData/WD~holometabolism,2048559]]'
+subclass_of: '[[_Standards/WikiData/WD~baby_animal,12038335]]'
+different_from: '[[_Standards/WikiData/WD~Q25416096,25416096]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_living_thing,55597235]]'
 Commons_category: Larvae
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ladybug%20larva%20%28Coccinellidae%29.jpg
 MeSH_tree_code:

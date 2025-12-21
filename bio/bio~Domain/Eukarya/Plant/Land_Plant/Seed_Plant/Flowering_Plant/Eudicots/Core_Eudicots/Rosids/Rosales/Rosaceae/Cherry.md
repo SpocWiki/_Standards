@@ -3,6 +3,7 @@ aliases:
   - Cherry
   - Cherries
   - Kirsche
+has_id_wikidata: Q196
 Amazon_com_browse_node:
   - 16319021
   - 6464952011
@@ -19,7 +20,6 @@ described_by_source:
 different_from:
   - "[[_Standards/WikiData/WD~Prunus_avium,165137]]"
   - "[[_Standards/WikiData/WD~Cereza,1055207]]"
-has_id_wikidata: Q196
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cherry%20Stella444.jpg
 natural_product_of_taxon:
   - "[[_Standards/WikiData/WD~Prunus_cerasus,131517]]"
@@ -48,7 +48,7 @@ USDA_NDB_number:
   - 9075
 ---
 
-# [[Cherry]] 
+# [[Cherry]] 🍒 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Cherry,196|WD~Cherry,196]]
 

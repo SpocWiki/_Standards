@@ -1,5 +1,7 @@
 ---
-title: "\\'Leptodactylidae\\'"
+aliases:
+  - Leptodactylidae
+title: \'Leptodactylidae\'
 ---
 
 # [[Leptodactylidae]] 

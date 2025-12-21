@@ -2,13 +2,14 @@
 aliases:
   - German_Shepherd
   - Schäferhund
+  - German Shepherd
 has_id_wikidata: Q38280
 color:
-  - "[[_Standards/WikiData/WD~bordeaux,10859033]]"
-  - "[[_Standards/WikiData/WD~black,23445]]"
-subclass_of: "[[_Standards/WikiData/WD~dog,144]]"
+  - '[[_Standards/WikiData/WD~bordeaux,10859033]]'
+  - '[[_Standards/WikiData/WD~black,23445]]'
+subclass_of: '[[_Standards/WikiData/WD~dog,144]]'
 life_expectancy: 10
-country_of_origin: "[[_Standards/WikiData/WD~Germany,183]]"
+country_of_origin: '[[_Standards/WikiData/WD~Germany,183]]'
 mass:
   - 30
   - 40
@@ -18,9 +19,9 @@ height:
   - 60
   - 55
 litter_size: 6.1
-instance_of: "[[_Standards/WikiData/WD~dog_breed,39367]]"
-catalog_code: "166"
-OmegaWiki_Defined_Meaning: "801954"
+instance_of: '[[_Standards/WikiData/WD~dog_breed,39367]]'
+catalog_code: 166
+OmegaWiki_Defined_Meaning: 801954
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pastor%20aleman%20a.jpg
 Commons_gallery: German Shepherd Dog
 Commons_category: German Shepherd Dog

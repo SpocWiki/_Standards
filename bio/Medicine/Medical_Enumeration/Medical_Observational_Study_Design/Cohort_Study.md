@@ -4,21 +4,23 @@ aliases:
   - cohort_study
   - CohortStudy
   - is_a_cohort_study
+  - Cohort_Study
+  - Cohort Study
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalObservationalStudyDesign
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - cohort_study
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_cohort_study Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

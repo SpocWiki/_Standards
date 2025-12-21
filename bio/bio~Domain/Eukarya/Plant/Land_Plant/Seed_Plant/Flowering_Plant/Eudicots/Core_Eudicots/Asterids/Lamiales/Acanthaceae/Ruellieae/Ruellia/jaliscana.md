@@ -1,5 +1,7 @@
 ---
-title: "Ruellia jaliscana clade"
+aliases:
+  - jaliscana
+title: Ruellia jaliscana clade
 ---
 
 # Ruellia jaliscana  

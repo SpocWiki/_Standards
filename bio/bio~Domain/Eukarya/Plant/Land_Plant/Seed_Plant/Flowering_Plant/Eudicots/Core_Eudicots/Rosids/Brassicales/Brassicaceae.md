@@ -1,6 +1,7 @@
 ---
 aliases:
   - Cruciferae
+  - Brassicaceae
 has_id_wikidata: Q156888
 ---
 

@@ -5,6 +5,59 @@ aliases:
   - lute turtle
   - leathery turtle
   - Lederschildkröte
+  - Leatherback_Sea_Turtle
+  - Leatherback Sea Turtle
+  - اللَّجأة جِلديّة الظَهْر
+  - tartuga coriácea
+  - Δερματοχελώνα
+  - Coffin-back
+  - Leatherback
+  - Leatherback turtle
+  - Leathery Turtle
+  - Luth
+  - Pacific Leatherback Sea Turtle
+  - Trunk Turtle
+  - Trunkback Turtle
+  - Leddorsa martestudo
+  - Baula
+  - Dorso de Cuero
+  - Galapagos
+  - Siete Lomos
+  - Siete Quillas
+  - Tinglada
+  - Tinglar
+  - Tortuga Caná
+  - Tortuga Laud
+  - Tortuga laúd
+  - tortue luth
+  - Tortue luth
+  - צב ים גילדי
+  - Sedmopruga usminjača
+  - Kérgesteknős
+  - Tartaruga liuto
+  - オサガメ
+  - 장수거북
+  - toti cerkeil
+  - toti cui
+  - toti fran
+  - lederschildpad
+  - Lederschildpad
+  - Żółw skórzasty
+  - Tartaruga-de-couro
+  - tartaruga-gigante
+  - Кожистая черепаха
+  - பேராமை
+  - เต่าเหลี่ยม
+  - Deri sırtlı deniz kaplumbağası
+  - 棱皮龜
+  - 棱皮龟
+  - 稜皮龜
+  - 革龜
+  - Cardon
+  - Canal
+  - Tora
+  - Havlærskilpadde
+  - เต่ามะเฟือง
 has_id_wikidata: Q120043
 GenBank_assembly_accession_number:
   - GCA_009764565.4
@@ -65,21 +118,21 @@ taxon_common_name:
   - Leatherback Sea Turtle
   - Havlærskilpadde
   - เต่ามะเฟือง
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Vulnerable,278113]]"
-CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
-diel_cycle: "[[_Standards/WikiData/WD~cathemeral,5052479]]"
-parent_taxon: "[[../../../../../../../../../../../../../../../../../../_Standards/WikiData/Dermochelys]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-Wildlife_Protection_Act_1972_India_schedule: "[[_Standards/WikiData/WD~Schedule_I_(Part_II)_of_Wildlife_Protection_Act,_1972,74713860]]"
-original_combination: "[[_Standards/WikiData/WD~Testudo_coriacea,107055807]]"
-NZTCS_conservation_status: "[[_Standards/WikiData/WD~migrant,108448684]]"
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Vulnerable,278113]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
+diel_cycle: '[[_Standards/WikiData/WD~cathemeral,5052479]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../_Standards/WikiData/Dermochelys]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+Wildlife_Protection_Act_1972_India_schedule: '[[_Standards/WikiData/WD~Schedule_I_(Part_II)_of_Wildlife_Protection_Act,_1972,74713860]]'
+original_combination: '[[_Standards/WikiData/WD~Testudo_coriacea,107055807]]'
+NZTCS_conservation_status: '[[_Standards/WikiData/WD~migrant,108448684]]'
 start_time: -12000-01-01T00:00:00Z
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_range: "[[_Standards/WikiData/WD~Pará,39517]]"
-ITIS_TSN: "173843"
-OmegaWiki_Defined_Meaning: "714289"
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_range: '[[_Standards/WikiData/WD~Pará,39517]]'
+ITIS_TSN: 173843
+OmegaWiki_Defined_Meaning: 714289
 Commons_gallery: Dermochelys coriacea
 Commons_category: Dermochelys coriacea
 taxon_name: Dermochelys coriacea

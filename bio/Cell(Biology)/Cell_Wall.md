@@ -1,12 +1,14 @@
 ---
 aliases:
   - Zellwand
+  - Cell_Wall
+  - Cell Wall
 has_id_wikidata: Q128700
-instance_of: "[[_Standards/WikiData/WD~cellular_component,5058355]]"
-subclass_of: "[[_Standards/WikiData/WD~external_encapsulating_structure,22328085]]"
+instance_of: '[[_Standards/WikiData/WD~cellular_component,5058355]]'
+subclass_of: '[[_Standards/WikiData/WD~external_encapsulating_structure,22328085]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eukaryota%20cell%20strucutre.PNG
 exact_match: http://purl.obolibrary.org/obo/GO_0005618
-P8189: "987007550790905171"
+P8189: 987007550790905171
 MeSH_tree_code: A11.284.183
 UMLS_CUI: C0007623
 Commons_category: Cell wall

@@ -1,13 +1,15 @@
 ---
-has_id_wikidata: Q21742
 aliases:
   - mint order
+  - Lamiales
+  - 唇形目
+has_id_wikidata: Q21742
 title: Lamiales
-parent_taxon: "[[_Standards/WikiData/WD~lamiids,2182368]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-ITIS_TSN: "31632"
-OmegaWiki_Defined_Meaning: "358548"
+parent_taxon: '[[_Standards/WikiData/WD~lamiids,2182368]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+ITIS_TSN: 31632
+OmegaWiki_Defined_Meaning: 358548
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lamium%20album4%20ies.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Starr%20070906-9094%20Sutera%20cordata.jpg

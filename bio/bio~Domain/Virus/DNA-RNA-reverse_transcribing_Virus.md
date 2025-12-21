@@ -1,5 +1,8 @@
 ---
-title: "DNA-RNA Reverse Transcribing Viruses"
+aliases:
+  - DNA-RNA-reverse_transcribing_Virus
+  - DNA-RNA-reverse transcribing Virus
+title: DNA-RNA Reverse Transcribing Viruses
 ---
 
 ## Phylogeny 

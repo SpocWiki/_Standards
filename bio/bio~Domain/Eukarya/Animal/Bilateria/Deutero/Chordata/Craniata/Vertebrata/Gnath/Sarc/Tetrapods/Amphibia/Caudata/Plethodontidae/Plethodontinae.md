@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Plethodontinae
 title: Plethodontinae
 ---
 

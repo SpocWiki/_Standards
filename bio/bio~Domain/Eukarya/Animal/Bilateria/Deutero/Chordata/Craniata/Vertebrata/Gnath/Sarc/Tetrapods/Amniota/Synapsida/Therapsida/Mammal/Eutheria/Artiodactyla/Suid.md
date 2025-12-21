@@ -1,8 +1,8 @@
 ---
-title: Suidae
 aliases:
   - Suidae
   - Suid
+title: Suidae
 ---
 
 # [[Suid]]

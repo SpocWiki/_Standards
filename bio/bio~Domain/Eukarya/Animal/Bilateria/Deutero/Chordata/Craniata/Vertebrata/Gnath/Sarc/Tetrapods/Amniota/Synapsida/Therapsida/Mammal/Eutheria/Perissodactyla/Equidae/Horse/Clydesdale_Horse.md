@@ -1,17 +1,19 @@
 ---
 aliases:
   - Clydesdale horse
+  - Clydesdale_Horse
+  - Clydesdale Horse
 has_id_wikidata: Q844058
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-named_after: "[[_Standards/WikiData/WD~Clydesdale,796188]]"
-instance_of: "[[_Standards/WikiData/WD~horse_breed,1160573]]"
+  - '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+named_after: '[[_Standards/WikiData/WD~Clydesdale,796188]]'
+instance_of: '[[_Standards/WikiData/WD~horse_breed,1160573]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~coldbloods,1513036]]"
-  - "[[_Standards/WikiData/WD~draft_horse,18562285]]"
-country_of_origin: "[[_Standards/WikiData/WD~Scotland,22]]"
+  - '[[_Standards/WikiData/WD~coldbloods,1513036]]'
+  - '[[_Standards/WikiData/WD~draft_horse,18562285]]'
+country_of_origin: '[[_Standards/WikiData/WD~Scotland,22]]'
 Commons_gallery: Clydesdale
 Commons_category: Clydesdale
 image: http://commons.wikimedia.org/wiki/Special:FilePath/3%20Clydesdale%20horses.JPG

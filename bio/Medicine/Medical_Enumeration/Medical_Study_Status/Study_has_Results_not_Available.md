@@ -4,21 +4,23 @@ aliases:
   - results_not_available
   - ResultsNotAvailable
   - is_a_results_not_available
+  - Study_has_Results_not_Available
+  - Study has Results not Available
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalStudyStatus
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - results_not_available
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_results_not_available Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

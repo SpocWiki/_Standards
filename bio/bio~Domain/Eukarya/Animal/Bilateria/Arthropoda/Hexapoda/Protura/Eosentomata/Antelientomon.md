@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Antelientomon
 title: Antelientomon
 ---
 

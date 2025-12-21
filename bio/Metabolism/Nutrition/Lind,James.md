@@ -1,6 +1,7 @@
 ---
 aliases:
-- "James Lind"
+  - James Lind
+  - Lind,James
 ---
 
 #has_/time_/started ::  1716-10-04 

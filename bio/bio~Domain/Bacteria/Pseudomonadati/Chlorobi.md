@@ -1,6 +1,6 @@
 ---
 aliases:
-- Chlorobi
+  - Chlorobi
 title: Chlorobi
 ---
 

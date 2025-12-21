@@ -4,8 +4,8 @@ aliases:
   - Ruminants
   - Ruminant
   - Ruminantia
-title: Ruminantia
 has_id_wikidata: Q192164
+title: Ruminantia
 ---
 
 # [[Ruminants]] 

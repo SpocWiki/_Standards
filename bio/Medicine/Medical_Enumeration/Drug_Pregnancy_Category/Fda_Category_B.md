@@ -4,21 +4,23 @@ aliases:
   - fd_acategory_b
   - FDAcategoryB
   - is_a_fd_acategory_b
+  - Fda_Category_B
+  - Fda Category B
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: DrugPregnancyCategory
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - fd_acategory_b
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_fd_acategory_b Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

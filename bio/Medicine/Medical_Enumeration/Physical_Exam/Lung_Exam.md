@@ -3,21 +3,23 @@ aliases:
   - lung examination
   - lung exam
   - is_a_lung_examination
+  - Lung_Exam
+  - Lung Exam
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - lung
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_lung Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

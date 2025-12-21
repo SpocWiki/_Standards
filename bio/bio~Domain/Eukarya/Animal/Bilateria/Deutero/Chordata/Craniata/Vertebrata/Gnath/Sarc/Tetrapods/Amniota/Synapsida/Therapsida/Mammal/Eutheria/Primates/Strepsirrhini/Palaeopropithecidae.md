@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Palaeopropithecidae
 title: Palaeopropithecidae
 ---
 

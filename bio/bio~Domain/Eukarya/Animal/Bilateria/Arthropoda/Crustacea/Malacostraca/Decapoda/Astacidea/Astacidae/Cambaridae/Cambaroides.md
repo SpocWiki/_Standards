@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cambaroides
 title: Cambaroides
 ---
 

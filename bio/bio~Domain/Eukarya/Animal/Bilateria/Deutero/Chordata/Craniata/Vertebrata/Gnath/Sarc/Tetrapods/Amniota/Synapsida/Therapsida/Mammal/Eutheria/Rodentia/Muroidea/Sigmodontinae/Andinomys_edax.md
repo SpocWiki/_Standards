@@ -1,5 +1,8 @@
 ---
-title: "Andinomys edax"
+aliases:
+  - Andinomys_edax
+  - Andinomys edax
+title: Andinomys edax
 ---
 
 # [[Andinomys_edax]] 

@@ -1,14 +1,15 @@
 ---
 aliases:
   - Pubertät
+  - Puberty
 has_id_wikidata: Q101065
 instance_of:
-  - "[[_Standards/WikiData/WD~phase_of_human_life,785260]]"
-  - "[[_Standards/WikiData/WD~physiological_condition,7189713]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-has_characteristic: "[[_Standards/WikiData/WD~secondary_sex_characteristic,1784017]]"
-subclass_of: "[[_Standards/WikiData/WD~development_of_the_human_body,2347178]]"
-facet_of: "[[_Standards/WikiData/WD~pubescent,114047877]]"
+  - '[[_Standards/WikiData/WD~phase_of_human_life,785260]]'
+  - '[[_Standards/WikiData/WD~physiological_condition,7189713]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+has_characteristic: '[[_Standards/WikiData/WD~secondary_sex_characteristic,1784017]]'
+subclass_of: '[[_Standards/WikiData/WD~development_of_the_human_body,2347178]]'
+facet_of: '[[_Standards/WikiData/WD~pubescent,114047877]]'
 Commons_category: Puberty
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pubertaro.jpg
 UMLS_CUI: C0034011

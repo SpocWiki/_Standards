@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus signifer"
+aliases:
+  - signifer
+title: Physalaemus signifer
 ---
 
 ## Phylogeny 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- Bacteroidetes
+  - Bacteroidetes
 title: Bacteroidetes
 ---
 

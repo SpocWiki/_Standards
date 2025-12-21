@@ -4,21 +4,23 @@ aliases:
   - ultrasound
   - Ultrasound
   - is_an_ultrasound
+  - Ultrasound_Image
+  - Ultrasound Image
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalImagingTechnique
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - ultrasound
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_ultrasound Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

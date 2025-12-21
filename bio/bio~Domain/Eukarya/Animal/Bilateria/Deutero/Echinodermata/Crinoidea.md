@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Crinoidea
 title: Crinoidea
 ---
 

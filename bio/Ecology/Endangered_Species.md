@@ -1,9 +1,12 @@
 ---
-Commons_category: "Endangered species"
-different_from:
-- '[[_Standards/WikiData/WD~moderately_threatened,10677610]]'
-- '[[_Standards/WikiData/WD~endangered,56660246]]'
+aliases:
+  - Endangered_Species
+  - Endangered Species
 has_id_wikidata: Q11394
+Commons_category: Endangered species
+different_from:
+  - '[[_Standards/WikiData/WD~moderately_threatened,10677610]]'
+  - '[[_Standards/WikiData/WD~endangered,56660246]]'
 instance_of: '[[_Standards/WikiData/WD~conservation_status,82673]]'
 IPTC_NewsCode: mediatopic/20000443
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Endangered_status,96377276]]'

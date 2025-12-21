@@ -1,5 +1,7 @@
 ---
-title: "Latrodectus renivulvatus"
+aliases:
+  - renivulvatus
+title: Latrodectus renivulvatus
 ---
 
 ## Phylogeny 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Brachiopoda
 title: Brachiopoda
 ---
 

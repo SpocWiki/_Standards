@@ -1,25 +1,27 @@
 ---
 aliases:
   - Integument
+  - Integumentary_System
+  - Integumentary System
 has_id_wikidata: Q483213
 part_of:
-  - "[[_Standards/WikiData/WD~organ_system,188193]]"
-  - "[[_Standards/WikiData/WD~covering,23497974]]"
-  - "[[_Standards/WikiData/WD~human_body,23852]]"
-subclass_of: "[[_Standards/WikiData/WD~organ_system,188193]]"
+  - '[[_Standards/WikiData/WD~organ_system,188193]]'
+  - '[[_Standards/WikiData/WD~covering,23497974]]'
+  - '[[_Standards/WikiData/WD~human_body,23852]]'
+subclass_of: '[[_Standards/WikiData/WD~organ_system,188193]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~organ_system,188193]]"
-  - "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
+  - '[[_Standards/WikiData/WD~organ_system,188193]]'
+  - '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Anatomy,8487304]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Animal_anatomy,21829301]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Systems,21830857]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Anatomy,8487304]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Animal_anatomy,21829301]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Systems,21830857]]'
 MeSH_tree_code: A17
 TA98_Latin_term: integumentum commune
 Dewey_Decimal_Classification:
-  - "573.5"
-  - "591.47"
-  - "636.089279"
+  - 573.5
+  - 591.47
+  - 636.089279
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Skin%20blank.jpg
 UMLS_CUI: C0037267
 Wolfram_Language_entity_code: Entity["AnatomicalStructure", "IntegumentarySystem"]

@@ -1,29 +1,33 @@
 ---
-title: Monotremata
 aliases:
   - Monotreme
+  - Monotremata
+  - kloakkdyr
+  - 单孔目
+  - stekowiec
 has_id_wikidata: Q21790
-mode_of_reproduction: "[[_Standards/WikiData/WD~oviparity,212306]]"
+title: Monotremata
+mode_of_reproduction: '[[_Standards/WikiData/WD~oviparity,212306]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - '[[../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 parent_taxon:
-  - "[[_Standards/WikiData/WD~Australosphenida,783432]]"
-  - "[[_Standards/WikiData/WD~Monotremaformes,127347675]]"
+  - '[[_Standards/WikiData/WD~Australosphenida,783432]]'
+  - '[[_Standards/WikiData/WD~Monotremaformes,127347675]]'
 start_time: -210000000-01-01T00:00:00Z
 properties_for_this_type: time in the pouch
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-has_part_s_: "[[_Standards/WikiData/WD~penis,58]]"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+has_part_s_: '[[_Standards/WikiData/WD~penis,58]]'
 litter_size: 1
 egg_incubation_period: 10.5
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-ITIS_TSN: "179915"
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+ITIS_TSN: 179915
 taxon_common_name:
   - kloakkdyr
   - 单孔目

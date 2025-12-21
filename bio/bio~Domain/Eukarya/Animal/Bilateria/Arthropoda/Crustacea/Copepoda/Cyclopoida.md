@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cyclopoida
 title: Cyclopoida
 ---
 

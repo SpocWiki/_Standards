@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Florideophyceae
 title: Florideophyceae
 ---
 

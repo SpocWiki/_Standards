@@ -4,15 +4,17 @@ aliases:
   - medical examination
   - clinical examination
   - medical checkup
+  - Medical_Examination
+  - Medical Examination
 has_id_wikidata: Q835153
-has_use: "[[_Standards/WikiData/WD~medical_diagnosis,177719]]"
-part_of: "[[_Standards/WikiData/WD~health_risk_assessment,2284929]]"
+has_use: '[[_Standards/WikiData/WD~medical_diagnosis,177719]]'
+part_of: '[[_Standards/WikiData/WD~health_risk_assessment,2284929]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~medical_examination,4287917]]"
-  - "[[_Standards/WikiData/WD~health_assessment,5690807]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Medical_records_and_physical_exam,10541826]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-has_evaluation: "[[_Standards/WikiData/WD~physical_finding,69034079]]"
+  - '[[_Standards/WikiData/WD~medical_examination,4287917]]'
+  - '[[_Standards/WikiData/WD~health_assessment,5690807]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Medical_records_and_physical_exam,10541826]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+has_evaluation: '[[_Standards/WikiData/WD~physical_finding,69034079]]'
 Wikidata_property: medical examination
 Commons_category: Physical examinations
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Attending%20surgeon%27s%20office%3B%20examination%20room%2C%20Washington%2C%20D.C.%20World%20War%201%20%281910s%29.jpg

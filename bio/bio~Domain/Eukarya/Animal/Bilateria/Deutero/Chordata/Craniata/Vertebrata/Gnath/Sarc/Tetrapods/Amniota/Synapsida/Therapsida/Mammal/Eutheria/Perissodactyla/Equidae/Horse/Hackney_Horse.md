@@ -1,15 +1,17 @@
 ---
 aliases:
   - Hackney horse
+  - Hackney_Horse
+  - Hackney Horse
 has_id_wikidata: Q635926
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-instance_of: "[[_Standards/WikiData/WD~horse_breed,1160573]]"
-subclass_of: "[[_Standards/WikiData/WD~light_draught_horse,2962909]]"
-FAO_risk_status: "[[_Standards/WikiData/WD~endangered,21604719]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~horse_breed,1160573]]'
+subclass_of: '[[_Standards/WikiData/WD~light_draught_horse,2962909]]'
+FAO_risk_status: '[[_Standards/WikiData/WD~endangered,21604719]]'
 inception: 1883-01-01T00:00:00Z
-country_of_origin: "[[_Standards/WikiData/WD~England,21]]"
+country_of_origin: '[[_Standards/WikiData/WD~England,21]]'
 population: 30
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hackney%20horse.jpg
 Commons_category: Hackney horse

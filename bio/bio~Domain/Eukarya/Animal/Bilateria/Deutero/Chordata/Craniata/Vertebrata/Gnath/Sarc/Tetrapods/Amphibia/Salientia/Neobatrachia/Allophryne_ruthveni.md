@@ -1,5 +1,8 @@
 ---
-title: "Allophryne ruthveni"
+aliases:
+  - Allophryne_ruthveni
+  - Allophryne ruthveni
+title: Allophryne ruthveni
 ---
 
 # Allophryne ruthveni 

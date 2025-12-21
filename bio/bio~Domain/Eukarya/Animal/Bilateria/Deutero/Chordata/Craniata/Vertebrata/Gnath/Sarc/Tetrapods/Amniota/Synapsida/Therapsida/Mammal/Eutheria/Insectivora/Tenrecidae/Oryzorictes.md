@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Oryzorictes
 title: Oryzorictes
 ---
 

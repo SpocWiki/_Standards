@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Surianaceae
 title: Surianaceae
 ---
 

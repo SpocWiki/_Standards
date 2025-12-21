@@ -1,5 +1,7 @@
 ---
-title: "Chiroteuthid families"
+aliases:
+  - Chiroteuthid
+title: Chiroteuthid families
 ---
 
 ## Phylogeny 

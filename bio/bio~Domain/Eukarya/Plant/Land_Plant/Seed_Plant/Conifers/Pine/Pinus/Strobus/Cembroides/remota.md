@@ -1,5 +1,7 @@
 ---
-title: "Pinus remota"
+aliases:
+  - remota
+title: Pinus remota
 ---
 
 # [[Pinus remota]]

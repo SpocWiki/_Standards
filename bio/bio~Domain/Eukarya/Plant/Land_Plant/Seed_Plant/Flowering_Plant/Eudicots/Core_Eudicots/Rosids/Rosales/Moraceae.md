@@ -2,19 +2,35 @@
 aliases:
   - mulberry family
   - fig family
+  - Moraceae
+  - Црници
+  - Mulberry or Fig Family
+  - Mooruselised
+  - Mulperikasvit
+  - Թթազգիներ
+  - Zīdkoku dzimta
+  - Moerbeifamilie
+  - Moerbezieachtigen
+  - Amoreiras e figueiras
+  - Тутовые
+  - murvovke
+  - วงศ์มะเดื่อ
+  - Dutgiller
+  - Тутові
+  - 桑科
 has_id_wikidata: Q156579
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_23(1),112869399]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_23(1),112869399]]'
 start_time: -80000000-01-01T00:00:00Z
-has_fruit_type: "[[_Standards/WikiData/WD~drupe,14712]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[../../../../../../../../../../../WikiData/WD~Rosales,21895]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Morus,44789]]"
-ITIS_TSN: "19063"
+has_fruit_type: '[[_Standards/WikiData/WD~drupe,14712]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[../../../../../../../../../../../WikiData/WD~Rosales,21895]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Morus,44789]]'
+ITIS_TSN: 19063
 Commons_category: Moraceae
 taxon_name: Moraceae
 taxon_common_name:

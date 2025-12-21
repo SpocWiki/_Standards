@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Oxyopidae
 title: Oxyopidae
 ---
 

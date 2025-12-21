@@ -4,19 +4,23 @@ aliases:
   - Pantopoda
   - Sea spider
   - Sea spiders
-title: Pycnogonida
+  - Sea_Spider
+  - Sea Spider
+  - havedderkopper
+  - Zeespinnen
 has_id_wikidata: Q19106
+title: Pycnogonida
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-homonymous_taxon: "[[_Standards/WikiData/WD~Pycnogonida,119166895]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~class,37517]]"
-ITIS_TSN: "83545"
+  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Pycnogonida,119166895]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
+ITIS_TSN: 83545
 Commons_category: Pycnogonida
 taxon_name: Pycnogonida
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/20200205%20Pycnogonida%20Pantopoda%20morphology.png

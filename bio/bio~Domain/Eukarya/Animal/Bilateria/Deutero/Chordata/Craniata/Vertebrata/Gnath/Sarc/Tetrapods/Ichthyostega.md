@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ichthyostega
 title: Ichthyostega
 ---
 

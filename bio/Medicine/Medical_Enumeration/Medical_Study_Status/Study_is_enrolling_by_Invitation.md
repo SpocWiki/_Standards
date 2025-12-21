@@ -4,21 +4,23 @@ aliases:
   - enrolling_by_invitation
   - EnrollingByInvitation
   - is_an_enrolling_by_invitation
+  - Study_is_enrolling_by_Invitation
+  - Study is enrolling by Invitation
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalStudyStatus
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - enrolling_by_invitation
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_enrolling_by_invitation Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

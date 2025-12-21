@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Phyllotis
 title: Phyllotis
 ---
 

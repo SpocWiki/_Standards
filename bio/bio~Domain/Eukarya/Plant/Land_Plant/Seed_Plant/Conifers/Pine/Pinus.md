@@ -2,8 +2,78 @@
 aliases:
   - Pine Tree
   - Pinus
-title: Pinus
+  - Pīntrēoƿ
+  - Şam ağacı
+  - Kiefan
+  - Хвоя
+  - ཐང་ཤིང་།
+  - Pino
+  - Fyrreslægten
+  - Chójca
+  - Πεύκο
+  - Mänd
+  - Pinu
+  - Männyt
+  - Sjüüren
+  - Péine
+  - Giuthas
+  - Juys
+  - चीड़
+  - Chójna
+  - Tusam
+  - マツ属
+  - ფიჭვი
+  - 소나무속
+  - Пожум
+  - یارِکُل
+  - Пожӧм
+  - pušis
+  - Пиче
+  - Пӱнчӧ
+  - Бор
+  - പൈൻ
+  - Нарснууд
+  - पाईन वृक्ष
+  - Йӓктӹ
+  - ထင်းရှူး
+  - Furu
+  - Furuslekta
+  - Ńdíshchííʼ
+  - Pin
+  - Нæзы
+  - Beintbaam
+  - پائن
+  - pinus
+  - Umubunda
+  - Бэс
+  - Oppinu
+  - Borovica
+  - bor
+  - Fjuurenboom
+  - Pines
+  - Tallar
+  - పైన్
+  - Пужым
+  - Pynboom
+  - סאסנע
+  - 松属
+  - 松屬
+  - Den
+  - کاج
+  - borovice
+  - Kiefern
+  - sosna
+  - אורן
+  - Pinheiro
+  - Pine
+  - Çam
+  - Piñeiro
+  - صنوبر
+  - Priedes
+  - Сосна
+  - Pi
 has_id_wikidata: Q12024
+title: Pinus
 EPPO_Code: 1PIUG
 MeSH_tree_code: B01.875.800.575.912.625.875.777
 Krugosvet_article_archived_: biologiya/sosna
@@ -94,34 +164,34 @@ taxon_common_name:
   - Сосна
   - Pin
   - Furu
-nomenclatural_type_of: "[[_Standards/WikiData/WD~Pinaceae,101680]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Pinus_sylvestris,133128]]"
+nomenclatural_type_of: '[[_Standards/WikiData/WD~Pinaceae,101680]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Pinus_sylvestris,133128]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~pine_nut,212933]]"
-  - "[[_Standards/WikiData/WD~Myrtol_standardized,730609]]"
-  - "[[_Standards/WikiData/WD~pine_oil,990187]]"
-  - "[[_Standards/WikiData/WD~pine,1503211]]"
-  - "[[_Standards/WikiData/WD~naval_stores,6982026]]"
-  - "[[_Standards/WikiData/WD~pine_needle,59672484]]"
-  - "[[_Standards/WikiData/WD~pine_cone,118185651]]"
+  - '[[_Standards/WikiData/WD~pine_nut,212933]]'
+  - '[[_Standards/WikiData/WD~Myrtol_standardized,730609]]'
+  - '[[_Standards/WikiData/WD~pine_oil,990187]]'
+  - '[[_Standards/WikiData/WD~pine,1503211]]'
+  - '[[_Standards/WikiData/WD~naval_stores,6982026]]'
+  - '[[_Standards/WikiData/WD~pine_needle,59672484]]'
+  - '[[_Standards/WikiData/WD~pine_cone,118185651]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_7,112869376]]"
-parent_taxon: "[[_Standards/WikiData/WD~Pinoideae,9339721]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q10514261,10514261]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-subclass_of: "[[_Standards/WikiData/WD~tree,10884]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "18035"
-OmegaWiki_Defined_Meaning: "706003"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_7,112869376]]'
+parent_taxon: '[[_Standards/WikiData/WD~Pinoideae,9339721]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q10514261,10514261]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+subclass_of: '[[_Standards/WikiData/WD~tree,10884]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 18035
+OmegaWiki_Defined_Meaning: 706003
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D1%96%D1%81%D0%BE%D1%81%D0%BC%D1%83%D0%B3%D0%B0%20%D0%B1%D1%96%D0%BB%D1%8F%20%D0%9E%D0%BB%D0%B5%D1%88%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D1%85%20%D0%BF%D1%96%D1%81%D0%BA%D1%96%D0%B2.webm
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Pinus%20lambertiana%20cones%20Cucamonga%20Peak.jpg

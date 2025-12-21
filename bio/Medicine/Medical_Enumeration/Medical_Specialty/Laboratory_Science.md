@@ -4,21 +4,23 @@ aliases:
   - laboratory_science
   - LaboratoryScience
   - is_a_laboratory_science
+  - Laboratory_Science
+  - Laboratory Science
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - laboratory_science
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_laboratory_science Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

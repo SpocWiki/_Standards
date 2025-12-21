@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Hyetussa
 title: Hyetussa
 ---
 

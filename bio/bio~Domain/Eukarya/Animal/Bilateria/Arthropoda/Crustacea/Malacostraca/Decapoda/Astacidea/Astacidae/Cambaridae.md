@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cambaridae
 title: Cambaridae
 ---
 

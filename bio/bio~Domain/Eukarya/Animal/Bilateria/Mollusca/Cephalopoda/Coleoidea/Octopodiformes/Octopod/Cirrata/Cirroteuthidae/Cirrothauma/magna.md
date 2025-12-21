@@ -1,5 +1,7 @@
 ---
-title: "Cirrothauma magna"
+aliases:
+  - magna
+title: Cirrothauma magna
 ---
 
 ## Phylogeny 

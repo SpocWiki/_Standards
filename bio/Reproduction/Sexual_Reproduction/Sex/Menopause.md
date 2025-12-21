@@ -2,27 +2,28 @@
 aliases:
   - climacteric
   - Klimakterium
+  - Menopause
 has_id_wikidata: Q177708
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~climacteric,603557]]"
-  - "[[_Standards/WikiData/WD~menstrual_cycle_phase,14908045]]"
-  - "[[_Standards/WikiData/WD~reproductive_senescence,22299008]]"
-start_period: "[[_Standards/WikiData/WD~50,712519]]"
-health_specialty: "[[_Standards/WikiData/WD~gynaecology,1221899]]"
+  - '[[_Standards/WikiData/WD~climacteric,603557]]'
+  - '[[_Standards/WikiData/WD~menstrual_cycle_phase,14908045]]'
+  - '[[_Standards/WikiData/WD~reproductive_senescence,22299008]]'
+start_period: '[[_Standards/WikiData/WD~50,712519]]'
+health_specialty: '[[_Standards/WikiData/WD~gynaecology,1221899]]'
 instance_of:
   - "[[_Standards/WikiData/WD~women's_disease,1451794]]"
-  - "[[_Standards/WikiData/WD~biological_process,2996394]]"
-part_of: "[[_Standards/WikiData/WD~development_of_the_human_body,2347178]]"
+  - '[[_Standards/WikiData/WD~biological_process,2996394]]'
+part_of: '[[_Standards/WikiData/WD~development_of_the_human_body,2347178]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~human_reproduction,3427336]]"
+  - '[[_Standards/WikiData/WD~human_reproduction,3427336]]'
   - "[[_Standards/WikiData/WD~women's_health,8031191]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
-IAB_code: "292"
-DiseasesDB: "8034"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+IAB_code: 292
+DiseasesDB: 8034
 Commons_category: Menopause
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Vaginal%20Canal%20Normal%20vs.%20Menopause.png

@@ -1,5 +1,7 @@
 ---
-title: "Abrothicine group"
+aliases:
+  - Abrothicine
+title: Abrothicine group
 ---
 
 # Abrothicine group 

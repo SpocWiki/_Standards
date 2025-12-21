@@ -1,70 +1,71 @@
 ---
 aliases:
   - Hirnhautentzündung
+  - Meningitis
 has_id_wikidata: Q48143
 Krugosvet_article_archived_: medicina/MENINGIT.html
 health_specialty:
-  - "[[_Standards/WikiData/WD~neurology,83042]]"
-  - "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+  - '[[_Standards/WikiData/WD~neurology,83042]]'
+  - '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~vomiting,127076]]"
-  - "[[_Standards/WikiData/WD~nausea,186889]]"
-  - "[[_Standards/WikiData/WD~photophobia,281289]]"
-  - "[[_Standards/WikiData/WD~meningeal_syndrome,28868265]]"
-  - "[[_Standards/WikiData/WD~headache,86]]"
-  - "[[_Standards/WikiData/WD~fever,38933]]"
+  - '[[_Standards/WikiData/WD~vomiting,127076]]'
+  - '[[_Standards/WikiData/WD~nausea,186889]]'
+  - '[[_Standards/WikiData/WD~photophobia,281289]]'
+  - '[[_Standards/WikiData/WD~meningeal_syndrome,28868265]]'
+  - '[[_Standards/WikiData/WD~headache,86]]'
+  - '[[_Standards/WikiData/WD~fever,38933]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~Neisseria_meningitidis,154625]]"
-  - "[[_Standards/WikiData/WD~Streptococcus_pneumoniae,221179]]"
-  - "[[_Standards/WikiData/WD~Listeria_monocytogenes,292015]]"
-  - "[[_Standards/WikiData/WD~Haemophilus_influenzae,1141979]]"
-  - "[[_Standards/WikiData/WD~cranial_leak_of_cerebrospinal_fluid,115744557]]"
-  - "[[_Standards/WikiData/WD~virus,808]]"
+  - '[[_Standards/WikiData/WD~Neisseria_meningitidis,154625]]'
+  - '[[_Standards/WikiData/WD~Streptococcus_pneumoniae,221179]]'
+  - '[[_Standards/WikiData/WD~Listeria_monocytogenes,292015]]'
+  - '[[_Standards/WikiData/WD~Haemophilus_influenzae,1141979]]'
+  - '[[_Standards/WikiData/WD~cranial_leak_of_cerebrospinal_fluid,115744557]]'
+  - '[[_Standards/WikiData/WD~virus,808]]'
 medical_examination:
-  - "[[_Standards/WikiData/WD~polymerase_chain_reaction,176996]]"
-  - "[[_Standards/WikiData/WD~lumbar_puncture,719444]]"
-  - "[[_Standards/WikiData/WD~microbiological_culture,1125312]]"
-  - "[[_Standards/WikiData/WD~neurological_examination,2916167]]"
-  - "[[_Standards/WikiData/WD~viral_culture,7933598]]"
-  - "[[_Standards/WikiData/WD~optical_microscopy,65788354]]"
+  - '[[_Standards/WikiData/WD~polymerase_chain_reaction,176996]]'
+  - '[[_Standards/WikiData/WD~lumbar_puncture,719444]]'
+  - '[[_Standards/WikiData/WD~microbiological_culture,1125312]]'
+  - '[[_Standards/WikiData/WD~neurological_examination,2916167]]'
+  - '[[_Standards/WikiData/WD~viral_culture,7933598]]'
+  - '[[_Standards/WikiData/WD~optical_microscopy,65788354]]'
 possible_treatment:
-  - "[[_Standards/WikiData/WD~steroid,177911]]"
-  - "[[_Standards/WikiData/WD~pharmacotherapy,701216]]"
-  - "[[_Standards/WikiData/WD~antiviral_drug,846227]]"
-  - "[[_Standards/WikiData/WD~antibiotic,12187]]"
+  - '[[_Standards/WikiData/WD~steroid,177911]]'
+  - '[[_Standards/WikiData/WD~pharmacotherapy,701216]]'
+  - '[[_Standards/WikiData/WD~antiviral_drug,846227]]'
+  - '[[_Standards/WikiData/WD~antibiotic,12187]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~5_fluorocytosine,238490]]"
-  - "[[_Standards/WikiData/WD~amikacin,408529]]"
-  - "[[_Standards/WikiData/WD~DL_ofloxacin,411447]]"
-  - "[[_Standards/WikiData/WD~minocycline,415336]]"
-  - "[[_Standards/WikiData/WD~ceftriaxone,421713]]"
-  - "[[_Standards/WikiData/WD~flucloxacillin,1994556]]"
-anatomical_locations: "[[_Standards/WikiData/WD~meninges,268930]]"
+  - '[[_Standards/WikiData/WD~5_fluorocytosine,238490]]'
+  - '[[_Standards/WikiData/WD~amikacin,408529]]'
+  - '[[_Standards/WikiData/WD~DL_ofloxacin,411447]]'
+  - '[[_Standards/WikiData/WD~minocycline,415336]]'
+  - '[[_Standards/WikiData/WD~ceftriaxone,421713]]'
+  - '[[_Standards/WikiData/WD~flucloxacillin,1994556]]'
+anatomical_locations: '[[_Standards/WikiData/WD~meninges,268930]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 disease_transmission_process:
-  - "[[_Standards/WikiData/WD~droplet_infection,871752]]"
-  - "[[_Standards/WikiData/WD~airborne_transmission,11986959]]"
+  - '[[_Standards/WikiData/WD~droplet_infection,871752]]'
+  - '[[_Standards/WikiData/WD~airborne_transmission,11986959]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~encephalomyelitis,1634879]]"
-  - "[[_Standards/WikiData/WD~central_nervous_system_disease,5062122]]"
-  - "[[_Standards/WikiData/WD~pandemic_and_epidemic_prone_diseases,131345497]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+  - '[[_Standards/WikiData/WD~encephalomyelitis,1634879]]'
+  - '[[_Standards/WikiData/WD~central_nervous_system_disease,5062122]]'
+  - '[[_Standards/WikiData/WD~pandemic_and_epidemic_prone_diseases,131345497]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-  - "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
-afflicts: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+  - '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+afflicts: '[[_Standards/WikiData/WD~human,5]]'
 number_of_deaths: 379000
 ICD_9_CM:
-  - "322"
-  - "322.9"
-DiseasesDB: "22543"
-OmegaWiki_Defined_Meaning: "492121"
+  - 322
+  - 322.9
+DiseasesDB: 22543
+OmegaWiki_Defined_Meaning: 492121
 Commons_category: Meningitis
 ICD_10_CM:
   - G03

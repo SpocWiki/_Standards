@@ -1,8 +1,9 @@
 ---
 aliases:
-- Alpaka
-- "Lama pacos"
-title: "Lama pacos"
+  - Alpaka
+  - Lama pacos
+  - Alpaca
+title: Lama pacos
 ---
 
 # Alpaca 

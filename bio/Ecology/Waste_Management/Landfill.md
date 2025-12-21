@@ -1,26 +1,27 @@
 ---
 aliases:
   - Mülldeponie
+  - Landfill
 has_id_wikidata: Q152810
 uses:
-  - "[[_Standards/WikiData/WD~waste_management,180388]]"
-  - "[[_Standards/WikiData/WD~burial,106562186]]"
+  - '[[_Standards/WikiData/WD~waste_management,180388]]'
+  - '[[_Standards/WikiData/WD~burial,106562186]]'
 different_from:
-  - "[[_Standards/WikiData/WD~civic_amenity_site,1056327]]"
-  - "[[_Standards/WikiData/WD~transfer_station,4992010]]"
-  - "[[_Standards/WikiData/WD~materials_recovery_facility,5573447]]"
+  - '[[_Standards/WikiData/WD~civic_amenity_site,1056327]]'
+  - '[[_Standards/WikiData/WD~transfer_station,4992010]]'
+  - '[[_Standards/WikiData/WD~materials_recovery_facility,5573447]]'
 by_product:
-  - "[[_Standards/WikiData/WD~landfill_gas,1191614]]"
-  - "[[_Standards/WikiData/WD~landfill_leachate,2281647]]"
+  - '[[_Standards/WikiData/WD~landfill_gas,1191614]]'
+  - '[[_Standards/WikiData/WD~landfill_leachate,2281647]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~infestation,1292038]]"
-  - "[[_Standards/WikiData/WD~disruption,2956685]]"
-  - "[[_Standards/WikiData/WD~pollution,58734]]"
-subclass_of: "[[_Standards/WikiData/WD~place,98929991]]"
-described_by_source: "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
-has_use: "[[_Standards/WikiData/WD~disposal,106561871]]"
-part_of: "[[_Standards/WikiData/WD~Q134053554,134053554]]"
-OmegaWiki_Defined_Meaning: "2074"
+  - '[[_Standards/WikiData/WD~infestation,1292038]]'
+  - '[[_Standards/WikiData/WD~disruption,2956685]]'
+  - '[[_Standards/WikiData/WD~pollution,58734]]'
+subclass_of: '[[_Standards/WikiData/WD~place,98929991]]'
+described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
+has_use: '[[_Standards/WikiData/WD~disposal,106561871]]'
+part_of: '[[_Standards/WikiData/WD~Q134053554,134053554]]'
+OmegaWiki_Defined_Meaning: 2074
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Decharge%20Conakry%208780.webm
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000533
 Commons_category: Landfills

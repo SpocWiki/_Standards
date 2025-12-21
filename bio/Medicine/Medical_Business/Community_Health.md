@@ -4,21 +4,23 @@ aliases:
   - community_health
   - CommunityHealth
   - is_a_community_health
+  - Community_Health
+  - Community Health
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - community_health
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_community_health Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

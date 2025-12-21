@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Synapsida
 title: Synapsida
 ---
 

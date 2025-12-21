@@ -1,8 +1,9 @@
 ---
-Colon_Classification: S67
 aliases:
   - Deafness
   - Taubheit
+has_id_wikidata: Q12133
+Colon_Classification: S67
 Commons_category: Deafness
 described_by_source:
   - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -12,7 +13,6 @@ exact_match:
   - http://purl.obolibrary.org/obo/HP_0000365
   - http://purl.obolibrary.org/obo/SYMP_0000019
 genetic_association: "[[_Standards/WikiData/WD~GJB2,18025996]]"
-has_id_wikidata: Q12133
 health_specialty: "[[_Standards/WikiData/WD~otolaryngology,189553]]"
 ICD_10_CM: H90
 ICD_9_CM:
@@ -52,7 +52,7 @@ U_S_National_Archives_Identifier: 10640037
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/hearing_loss
 ---
 
-# [[Deafness]] 
+# [[Deafness]] 🧏 
 
 #is_/same_as :: [[../../../../WikiData/WD~Deafness,12133|WD~Deafness,12133]] 
 

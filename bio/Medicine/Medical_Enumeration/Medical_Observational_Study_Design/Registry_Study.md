@@ -3,21 +3,23 @@ aliases:
   - registry_Study
   - registry
   - is_a_registry_Study
+  - Registry_Study
+  - Registry Study
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalObservationalStudyDesign
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - registry
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_registry Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

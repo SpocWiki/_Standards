@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ceratopia
+  - Ceratopsia
 ---
 
 # [[Ceratopsia]] 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- Proteales
+  - Proteales
 title: Proteales
 ---
 

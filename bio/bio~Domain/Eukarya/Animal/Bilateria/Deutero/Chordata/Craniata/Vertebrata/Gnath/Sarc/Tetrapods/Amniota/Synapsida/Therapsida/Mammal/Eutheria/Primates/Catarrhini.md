@@ -7,8 +7,27 @@ aliases:
   - Monkey
   - Ape
   - Apes
-title: Catarrhini
+  - Catarrhini
+  - குரங்கு
+  - サル
+  - बंदर
+  - 원숭이
+  - 猴
+  - Singe
+  - Mono
+  - Khỉ
+  - बानर
+  - Μαϊμού
+  - Monyet
+  - 猴仔
+  - kâu-á
+  - opica
+  - కోతి
+  - ลิง
+  - Maymun
+  - Мавпи
 has_id_wikidata: Q1367
+title: Catarrhini
 taxon_known_by_this_common_name: "[[_Standards/WikiData/WD~Cercopithecidae,182968]]"
 described_by_source:
   - "[[../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -26,9 +45,9 @@ depicted_by:
   - "[[_Standards/WikiData/WD~Monkey_from_the_Iseum_Campense,131588037]]"
   - "[[_Standards/WikiData/WD~Fontana_delle_scimmie,131812862]]"
   - "[[_Standards/WikiData/WD~Sala_delle_Scimmie,131813529]]"
-OmegaWiki_Defined_Meaning: "5870"
+OmegaWiki_Defined_Meaning: 5870
 Commons_gallery: Monkey
-U_S_National_Archives_Identifier: "10646707"
+U_S_National_Archives_Identifier: 10646707
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Cebus%20albifrons%20edit.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Squirrel%20monkey.jpg
@@ -64,7 +83,7 @@ Iconclass_notation: 43A3741
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/OBEZYANI.html
 ---
 
-# [[Catarrhini]]
+# [[Catarrhini]] 🐵 
 
 #is_/instance_of :: [[ParvOrder]] 
 ## Humans, great apes, gibbons, Old World monkeys 

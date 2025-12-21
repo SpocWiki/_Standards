@@ -3,14 +3,16 @@ aliases:
   - Plant hormones
   - phytohormones
   - phytohormone
+  - Plant_Hormone
+  - Plant Hormone
 has_id_wikidata: Q192949
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Plant_hormones,10723130]]"
-instance_of: "[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]"
-subclass_of: "[[_Standards/WikiData/WD~hormone,125790843]]"
-has_use: "[[_Standards/WikiData/WD~plant,756]]"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Plant_hormones,10723130]]'
+instance_of: '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]'
+subclass_of: '[[_Standards/WikiData/WD~hormone,125790843]]'
+has_use: '[[_Standards/WikiData/WD~plant,756]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Auxin.jpg
-UNSPSC_Code: "10171502"
+UNSPSC_Code: 10171502
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/GORMONI_RASTENI.html
 Commons_category: Plant hormones
 ---

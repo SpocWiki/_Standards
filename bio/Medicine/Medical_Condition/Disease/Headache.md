@@ -2,6 +2,7 @@
 aliases:
   - Kopfschmerz
   - Kopfschmerzen
+  - Headache
 has_id_wikidata: Q86
 subclass_of:
   - "[[_Standards/WikiData/WD~pain,81938]]"
@@ -24,8 +25,8 @@ instance_of:
   - "[[_Standards/WikiData/WD~symptom_type,130753312]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Headache,14446487]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]"
-DiseasesDB: "19825"
-OmegaWiki_Defined_Meaning: "6982"
+DiseasesDB: 19825
+OmegaWiki_Defined_Meaning: 6982
 name: κεφαλόπονος
 IMDb_keyword: headache
 Commons_category: Headaches
@@ -36,15 +37,15 @@ exact_match:
   - http://purl.obolibrary.org/obo/SYMP_0000504
 Iconclass_notation: 31A46331
 Dewey_Decimal_Classification:
-  - "616.8491"
-  - "618.928491"
+  - 616.8491
+  - 618.928491
 UMLS_CUI: C0018681
 MeSH_tree_code: C23.888.592.612.441
 Krugosvet_article_archived_: medicina/GOLOVNAYA_BOL.html
 Unicode_character: 🤕
 ---
 
-# [[Headache]] 
+# [[Headache]] 🤕 
 
 #is_/same_as :: [[../../../../WikiData/WD~Headache,86|WD~Headache,86]] 
 

@@ -1,5 +1,7 @@
 ---
-title: "subgenus Pinus"
+aliases:
+  - Pinus(SubGenus)
+title: subgenus Pinus
 ---
 
 # [[Pinus(SubGenus)]] 

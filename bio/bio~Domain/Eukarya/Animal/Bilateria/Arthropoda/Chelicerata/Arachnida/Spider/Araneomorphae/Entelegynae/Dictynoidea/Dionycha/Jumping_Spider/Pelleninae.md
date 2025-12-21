@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Pelleninae
 title: Pelleninae
 ---
 

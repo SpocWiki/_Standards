@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Diplocentridae
 title: Diplocentridae
 ---
 

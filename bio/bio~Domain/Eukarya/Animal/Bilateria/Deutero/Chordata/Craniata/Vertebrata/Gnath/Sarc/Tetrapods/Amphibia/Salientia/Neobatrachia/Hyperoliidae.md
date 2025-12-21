@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Hyperoliidae
 title: Hyperoliidae
 ---
 

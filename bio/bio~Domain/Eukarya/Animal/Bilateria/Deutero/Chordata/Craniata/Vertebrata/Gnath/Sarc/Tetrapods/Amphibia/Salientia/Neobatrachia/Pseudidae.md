@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Pseudidae
 title: Pseudidae
 ---
 

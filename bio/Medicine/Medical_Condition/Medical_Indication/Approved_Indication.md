@@ -4,20 +4,22 @@ aliases:
   - approved_indication
   - ApprovedIndication
   - is_an_approved_indication
+  - Approved_Indication
+  - Approved Indication
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - approved_indication
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_approved_indication Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

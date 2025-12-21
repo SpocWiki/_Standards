@@ -3,43 +3,45 @@ aliases:
   - Intellectual disability
   - general learning disability
   - mental retardation
+  - Intellectual_Disability
+  - Intellectual Disability
 has_id_wikidata: Q183560
 Baidu_Tieba_name:
   - 弱智
   - 智障
 health_specialty:
-  - "[[_Standards/WikiData/WD~neurology,83042]]"
-  - "[[_Standards/WikiData/WD~medical_specialist_for_people_with_intellectual_disability,2522100]]"
-  - "[[_Standards/WikiData/WD~psychiatry,7867]]"
-  - "[[_Standards/WikiData/WD~psychology,9418]]"
+  - '[[_Standards/WikiData/WD~neurology,83042]]'
+  - '[[_Standards/WikiData/WD~medical_specialist_for_people_with_intellectual_disability,2522100]]'
+  - '[[_Standards/WikiData/WD~psychiatry,7867]]'
+  - '[[_Standards/WikiData/WD~psychology,9418]]'
 different_from:
-  - "[[_Standards/WikiData/WD~learning_disability,860740]]"
-  - "[[_Standards/WikiData/WD~developmental_disability,1142806]]"
-practiced_by: "[[_Standards/WikiData/WD~medical_specialist_for_people_with_intellectual_disability,2522100]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+  - '[[_Standards/WikiData/WD~learning_disability,860740]]'
+  - '[[_Standards/WikiData/WD~developmental_disability,1142806]]'
+practiced_by: '[[_Standards/WikiData/WD~medical_specialist_for_people_with_intellectual_disability,2522100]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~cognitive_deficit,5141203]]"
-  - "[[_Standards/WikiData/WD~specific_developmental_disorder,7574983]]"
-  - "[[_Standards/WikiData/WD~disability,12131]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
+  - '[[_Standards/WikiData/WD~cognitive_deficit,5141203]]'
+  - '[[_Standards/WikiData/WD~specific_developmental_disorder,7574983]]'
+  - '[[_Standards/WikiData/WD~disability,12131]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
 genetic_association:
-  - "[[_Standards/WikiData/WD~SET,18031447]]"
-  - "[[_Standards/WikiData/WD~TUSC3,18032694]]"
-  - "[[_Standards/WikiData/WD~KALRN,18033696]]"
+  - '[[_Standards/WikiData/WD~SET,18031447]]'
+  - '[[_Standards/WikiData/WD~TUSC3,18032694]]'
+  - '[[_Standards/WikiData/WD~KALRN,18033696]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 prevalence: 0.03
-ICD_9_CM: "319"
-DSM_IV_classification: "319"
+ICD_9_CM: 319
+DSM_IV_classification: 319
 DSM_5_identifier_:
-  - "317"
-  - "318.1"
-  - "318.2"
-  - "318.0"
-DiseasesDB: "4509"
-OmegaWiki_Defined_Meaning: "742719"
+  - 317
+  - 318.1
+  - 318.2
+  - 318.0
+DiseasesDB: 4509
+OmegaWiki_Defined_Meaning: 742719
 UMLS_CUI:
   - C3161330
   - C0020796

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Isopoda
 title: Isopoda
 ---
 

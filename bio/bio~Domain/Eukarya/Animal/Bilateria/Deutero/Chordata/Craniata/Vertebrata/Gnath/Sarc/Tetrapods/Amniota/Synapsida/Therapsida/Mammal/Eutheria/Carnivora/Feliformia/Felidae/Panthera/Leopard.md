@@ -1,6 +1,20 @@
 ---
 aliases:
   - Panthera pardus
+  - Leopard
+  - lampart plamisty
+  - leopard
+  - לעמפערט
+  - נמר
+  - leopardo
+  - Leopardo
+  - Panthère
+  - Léopard
+  - Pantera
+  - 豹
+  - 金钱豹
+  - leopárd
+  - macan tutul
 has_id_wikidata: Q34706
 main_food_source:
   - "[[_Standards/WikiData/WD~senegal_bushbaby,77332]]"
@@ -124,9 +138,9 @@ taxon_common_name:
   - leopárd
   - macan tutul
 longest_observed_lifespan: 27.3
-ITIS_TSN: "183804"
-U_S_National_Archives_Identifier: "10663620"
-OmegaWiki_Defined_Meaning: "503381"
+ITIS_TSN: 183804
+U_S_National_Archives_Identifier: 10663620
+OmegaWiki_Defined_Meaning: 503381
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Male%20leopard%20-%20Mara.jpg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Panthera%20pardus%203d%20scan%20Natural%20History%20Museum%20University%20of%20Pisa%20C%201389.stl
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Wiki-Panthera%20pardus.png
@@ -142,7 +156,7 @@ Commons_gallery: Panthera pardus
 EPPO_Code: PNTHPA
 ---
 
-# [[Leopard]] 
+# [[Leopard]] 🐆 
 
 #is_/same_as :: [[WD~Leopard,34706]] 
 

@@ -1,5 +1,7 @@
 ---
-title: "Crossandrella dusenii"
+aliases:
+  - Crossandrella
+title: Crossandrella dusenii
 ---
 
 ## [[Crossandrella]] 

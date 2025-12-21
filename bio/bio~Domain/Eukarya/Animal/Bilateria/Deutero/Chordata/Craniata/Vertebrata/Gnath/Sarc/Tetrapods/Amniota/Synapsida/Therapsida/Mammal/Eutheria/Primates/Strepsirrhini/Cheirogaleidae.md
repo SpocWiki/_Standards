@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cheirogaleidae
 title: Cheirogaleidae
 ---
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Piroplasmorida
 title: Piroplasmorida
 ---
 

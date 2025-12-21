@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Chaerilidae
 title: Chaerilus
 ---
 

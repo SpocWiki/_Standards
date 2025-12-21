@@ -5,54 +5,61 @@ aliases:
   - cacao tree
   - cocoa tree
   - Theobroma_Cacao
+  - Cacao_Tree
+  - Cacao Tree
+  - 黄背草
+  - 可可
+  - kakav
+  - 可可（可可树、柯柯豆、柯柯树）
+  - 可可樹
 has_id_wikidata: Q42385
-parent_taxon: "[[../../../../../../../../../../../../../../../WikiData/WD~Theobroma,162078]]"
-indigenous_to: "[[_Standards/WikiData/WD~Amazon_rainforest,177567]]"
+parent_taxon: '[[../../../../../../../../../../../../../../../WikiData/WD~Theobroma,162078]]'
+indigenous_to: '[[_Standards/WikiData/WD~Amazon_rainforest,177567]]'
 has_use:
-  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
-  - "[[_Standards/WikiData/WD~afforestation,2384419]]"
-  - "[[_Standards/WikiData/WD~psychoactive_drug,3706669]]"
-  - "[[_Standards/WikiData/WD~food,2095]]"
+  - '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+  - '[[_Standards/WikiData/WD~afforestation,2384419]]'
+  - '[[_Standards/WikiData/WD~psychoactive_drug,3706669]]'
+  - '[[_Standards/WikiData/WD~food,2095]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
-  - "[[_Standards/WikiData/WD~fruit_tree,904653]]"
-  - "[[_Standards/WikiData/WD~useful_plant,11992872]]"
+  - '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+  - '[[_Standards/WikiData/WD~fruit_tree,904653]]'
+  - '[[_Standards/WikiData/WD~useful_plant,11992872]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~cocoa_bean,208008]]"
-  - "[[_Standards/WikiData/WD~cocoa_powder,1062396]]"
-  - "[[_Standards/WikiData/WD~cacao_pod,108167643]]"
-  - "[[_Standards/WikiData/WD~chocolate,195]]"
+  - '[[_Standards/WikiData/WD~cocoa_bean,208008]]'
+  - '[[_Standards/WikiData/WD~cocoa_powder,1062396]]'
+  - '[[_Standards/WikiData/WD~cacao_pod,108167643]]'
+  - '[[_Standards/WikiData/WD~chocolate,195]]'
 different_from:
-  - "[[_Standards/WikiData/WD~cacao,257263]]"
-  - "[[_Standards/WikiData/WD~Theobroma,2372186]]"
-  - "[[_Standards/WikiData/WD~Cacao,56876848]]"
+  - '[[_Standards/WikiData/WD~cacao,257263]]'
+  - '[[_Standards/WikiData/WD~Theobroma,2372186]]'
+  - '[[_Standards/WikiData/WD~Cacao,56876848]]'
 taxon_range:
-  - "[[_Standards/WikiData/WD~Imperatriz,504755]]"
-  - "[[_Standards/WikiData/WD~Açailândia,1763534]]"
-  - "[[_Standards/WikiData/WD~Gabon,1000]]"
-  - "[[_Standards/WikiData/WD~Maranhão,42362]]"
+  - '[[_Standards/WikiData/WD~Imperatriz,504755]]'
+  - '[[_Standards/WikiData/WD~Açailândia,1763534]]'
+  - '[[_Standards/WikiData/WD~Gabon,1000]]'
+  - '[[_Standards/WikiData/WD~Maranhão,42362]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(2),112869441]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-owned_by: "[[_Standards/WikiData/WD~Indigenous_peoples_of_South_America,1479328]]"
+  - '[[../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(2),112869441]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+owned_by: '[[_Standards/WikiData/WD~Indigenous_peoples_of_South_America,1479328]]'
 is_pollinated_by:
-  - "[[_Standards/WikiData/WD~Ceratopogonidae,1533239]]"
-  - "[[_Standards/WikiData/WD~Forcipomyia_squamipennis,14545918]]"
+  - '[[_Standards/WikiData/WD~Ceratopogonidae,1533239]]'
+  - '[[_Standards/WikiData/WD~Forcipomyia_squamipennis,14545918]]'
 part_of:
-  - "[[_Standards/WikiData/WD~chocolate_industry,21156489]]"
-  - "[[_Standards/WikiData/WD~cocoa,45912917]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-hardiness_of_plant: "[[_Standards/WikiData/WD~11,99550180]]"
-studied_by: "[[_Standards/WikiData/WD~theobromatology,134987139]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Christopher_Columbus,7322]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-location_of_discovery: "[[_Standards/WikiData/WD~Mexico,96]]"
-ITIS_TSN: "505487"
-OmegaWiki_Defined_Meaning: "799280"
+  - '[[_Standards/WikiData/WD~chocolate_industry,21156489]]'
+  - '[[_Standards/WikiData/WD~cocoa,45912917]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~11,99550180]]'
+studied_by: '[[_Standards/WikiData/WD~theobromatology,134987139]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Christopher_Columbus,7322]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Mexico,96]]'
+ITIS_TSN: 505487
+OmegaWiki_Defined_Meaning: 799280
 taxon_common_name:
   - cacao
   - 黄背草
@@ -64,7 +71,7 @@ taxon_common_name:
 taxon_author_citation: L.
 short_name: T. cacao
 official_name: Indigenous Cacao
-Dewey_Decimal_Classification: "583.68"
+Dewey_Decimal_Classification: 583.68
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Theobroma%20cacao%20-%20K%C3%B6hler%E2%80%93s%20Medizinal-Pflanzen-136.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Digital%20Inclusion%20in%20the%20Peruvian%20Amazon%20-%2048138694956.jpg

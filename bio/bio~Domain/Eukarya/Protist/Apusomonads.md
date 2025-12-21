@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Apusomonads
 title: Apusomonads
 ---
 

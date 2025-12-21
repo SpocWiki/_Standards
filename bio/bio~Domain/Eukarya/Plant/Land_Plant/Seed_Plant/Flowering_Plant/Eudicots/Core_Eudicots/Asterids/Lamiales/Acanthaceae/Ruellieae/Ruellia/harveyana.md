@@ -1,5 +1,7 @@
 ---
-title: "Ruellia harveyana clade"
+aliases:
+  - harveyana
+title: Ruellia harveyana clade
 ---
 
 # Ruellia harveyana  

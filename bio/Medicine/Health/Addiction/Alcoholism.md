@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Alcoholism
 has_id_wikidata: Q15326
 DiseasesDB: alcoholism
 IMDb_keyword: alcoholism
@@ -17,48 +19,48 @@ Wolfram_Language_entity_code: Entity["Concept", "Dipsomania::ggbg7"]
 Krugosvet_article: medicina/ALKOGOLIZM.html
 Colon_Classification: Y:411
 has_effect:
-  - "[[_Standards/WikiData/WD~Marchiafava_Bignami_disease,94796]]"
-  - "[[_Standards/WikiData/WD~liver_cirrhosis,147778]]"
-  - "[[_Standards/WikiData/WD~heart_failure,181754]]"
-  - "[[_Standards/WikiData/WD~alcohol_amnestic_disorder,45462238]]"
+  - '[[_Standards/WikiData/WD~Marchiafava_Bignami_disease,94796]]'
+  - '[[_Standards/WikiData/WD~liver_cirrhosis,147778]]'
+  - '[[_Standards/WikiData/WD~heart_failure,181754]]'
+  - '[[_Standards/WikiData/WD~alcohol_amnestic_disorder,45462238]]'
 possible_treatment:
-  - "[[_Standards/WikiData/WD~psychotherapy,183257]]"
-  - "[[_Standards/WikiData/WD~cognitive_behavioral_therapy,1147152]]"
+  - '[[_Standards/WikiData/WD~psychotherapy,183257]]'
+  - '[[_Standards/WikiData/WD~cognitive_behavioral_therapy,1147152]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 afflicts:
-  - "[[_Standards/WikiData/WD~teenager,1492760]]"
-  - "[[_Standards/WikiData/WD~adult_human,9584157]]"
-  - "[[_Standards/WikiData/WD~child,7569]]"
-has_cause: "[[_Standards/WikiData/WD~alcohol_consumption,2647488]]"
+  - '[[_Standards/WikiData/WD~teenager,1492760]]'
+  - '[[_Standards/WikiData/WD~adult_human,9584157]]'
+  - '[[_Standards/WikiData/WD~child,7569]]'
+has_cause: '[[_Standards/WikiData/WD~alcohol_consumption,2647488]]'
 health_specialty:
-  - "[[_Standards/WikiData/WD~narcology,4313186]]"
-  - "[[_Standards/WikiData/WD~vocational_rehabilitation,6130303]]"
-  - "[[_Standards/WikiData/WD~medical_toxicology,6806614]]"
-  - "[[_Standards/WikiData/WD~psychiatry,7867]]"
-  - "[[_Standards/WikiData/WD~psychology,9418]]"
+  - '[[_Standards/WikiData/WD~narcology,4313186]]'
+  - '[[_Standards/WikiData/WD~vocational_rehabilitation,6130303]]'
+  - '[[_Standards/WikiData/WD~medical_toxicology,6806614]]'
+  - '[[_Standards/WikiData/WD~psychiatry,7867]]'
+  - '[[_Standards/WikiData/WD~psychology,9418]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~alcohol_abuse,7331102]]"
-  - "[[_Standards/WikiData/WD~substance_use_disorder,7632070]]"
-  - "[[_Standards/WikiData/WD~dependence_syndrome,16697828]]"
-practiced_by: "[[_Standards/WikiData/WD~alcoholic,9148481]]"
-instance_of: "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
+  - '[[_Standards/WikiData/WD~alcohol_abuse,7331102]]'
+  - '[[_Standards/WikiData/WD~substance_use_disorder,7632070]]'
+  - '[[_Standards/WikiData/WD~dependence_syndrome,16697828]]'
+practiced_by: '[[_Standards/WikiData/WD~alcoholic,9148481]]'
+instance_of: '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
 social_media_followers: 60030
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Geikie%20-%20Drunken%20Man%20-%20WGA8520.jpg
-OmegaWiki_Defined_Meaning: "774865"
-U_S_National_Archives_Identifier: "10640440"
+OmegaWiki_Defined_Meaning: 774865
+U_S_National_Archives_Identifier: 10640440
 Iconclass_notation: 31B531
 Dewey_Decimal_Classification:
-  - "362.292"
-  - "616.861"
-P8189: "987007293069305171"
+  - 362.292
+  - 616.861
+P8189: 987007293069305171
 ---
 
 # [[Alcoholism]] 

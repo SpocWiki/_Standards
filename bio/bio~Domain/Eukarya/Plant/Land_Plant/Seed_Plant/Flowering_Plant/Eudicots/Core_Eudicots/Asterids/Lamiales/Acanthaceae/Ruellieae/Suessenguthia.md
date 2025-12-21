@@ -1,6 +1,6 @@
 ---
 aliases:
-- Suessenguthia
+  - Suessenguthia
 title: Suessenguthia
 ---
 

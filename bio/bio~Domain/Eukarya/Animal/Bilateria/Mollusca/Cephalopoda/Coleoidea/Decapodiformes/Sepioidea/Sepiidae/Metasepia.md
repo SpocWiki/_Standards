@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Metasepia
 title: Metasepia
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: "Mastigoteuthis cordiformis"
+aliases:
+  - cordiformis
+title: Mastigoteuthis cordiformis
 ---
 
 ## Phylogeny 

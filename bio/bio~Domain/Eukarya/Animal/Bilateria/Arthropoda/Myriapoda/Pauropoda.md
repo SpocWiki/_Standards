@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Pauropoda
 title: Pauropoda
 ---
 

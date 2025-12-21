@@ -1,16 +1,17 @@
 ---
 aliases:
   - Überraschung
+  - Surprise
 has_id_wikidata: Q333173
-opposite_of: "[[_Standards/WikiData/WD~anticipation,255266]]"
-has_cause: "[[_Standards/WikiData/WD~deviation,849149]]"
+opposite_of: '[[_Standards/WikiData/WD~anticipation,255266]]'
+has_cause: '[[_Standards/WikiData/WD~deviation,849149]]'
 part_of:
-  - "[[_Standards/WikiData/WD~theory_of_emotion,9357054]]"
-  - "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
+  - '[[_Standards/WikiData/WD~theory_of_emotion,9357054]]'
+  - '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~basic_emotion,16748867]]"
-  - "[[_Standards/WikiData/WD~reaction,31983622]]"
-  - "[[_Standards/WikiData/WD~emotion,9415]]"
+  - '[[_Standards/WikiData/WD~basic_emotion,16748867]]'
+  - '[[_Standards/WikiData/WD~reaction,31983622]]'
+  - '[[_Standards/WikiData/WD~emotion,9415]]'
 Commons_category: Surprise
 subreddit: WTF
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-%C3%9Cberraschung2.ogg

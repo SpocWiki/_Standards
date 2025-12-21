@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Geogalinae
 title: Geogalinae
 ---
 

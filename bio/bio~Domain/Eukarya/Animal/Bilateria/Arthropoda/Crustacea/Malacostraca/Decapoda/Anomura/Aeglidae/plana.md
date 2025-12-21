@@ -1,5 +1,7 @@
 ---
-title: "Aegla plana"
+aliases:
+  - plana
+title: Aegla plana
 ---
 
 ## Phylogeny 

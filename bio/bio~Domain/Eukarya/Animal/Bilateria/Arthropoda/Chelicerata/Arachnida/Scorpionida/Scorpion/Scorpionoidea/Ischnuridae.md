@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ischnuridae
 title: Ischnuridae
 ---
 

@@ -2,12 +2,18 @@
 aliases:
   - Lactuceae
   - Cichorieae
+  - هندباوية
+  - Cicòria
+  - タンポポ連
+  - 치커리족
+  - Голици
+  - 菊苣族
 has_id_wikidata: Q134662
 parent_taxon:
-  - "[[../../../../../../../../../../../WikiData/WD~Cichorioideae,133142]]"
-  - "[[_Standards/WikiData/WD~Carduoideae,134508]]"
-taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[../../../../../../../../../../../WikiData/WD~Cichorioideae,133142]]'
+  - '[[_Standards/WikiData/WD~Carduoideae,134508]]'
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Cichorium%20intybus-alvesgaspar1.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Cichorium%20intybus%20Slovakia.jpg

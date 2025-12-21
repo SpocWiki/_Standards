@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Synemosyninae
 title: Synemosyninae
 ---
 

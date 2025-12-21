@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Lepidosauromorpha
 title: Lepidosauromorpha
 ---
 

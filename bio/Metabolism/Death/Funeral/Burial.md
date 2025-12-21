@@ -2,30 +2,31 @@
 aliases:
   - Begräbnis
   - interment or inhumation
+  - Burial
 has_id_wikidata: Q331055
 different_from:
-  - "[[_Standards/WikiData/WD~funeral,201676]]"
-  - "[[_Standards/WikiData/WD~sediment_burial,2399875]]"
-  - "[[_Standards/WikiData/WD~location_of_burial,12131650]]"
-  - "[[_Standards/WikiData/WD~burial,106562186]]"
-part_of: "[[_Standards/WikiData/WD~funeral,201676]]"
+  - '[[_Standards/WikiData/WD~funeral,201676]]'
+  - '[[_Standards/WikiData/WD~sediment_burial,2399875]]'
+  - '[[_Standards/WikiData/WD~location_of_burial,12131650]]'
+  - '[[_Standards/WikiData/WD~burial,106562186]]'
+part_of: '[[_Standards/WikiData/WD~funeral,201676]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-instance_of: "[[_Standards/WikiData/WD~occurrence,1190554]]"
-opposite_of: "[[_Standards/WikiData/WD~exhumation,1898510]]"
-subclass_of: "[[_Standards/WikiData/WD~burial,106562186]]"
-has_part_s_: "[[_Standards/WikiData/WD~Islamic_burial,131861551]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+instance_of: '[[_Standards/WikiData/WD~occurrence,1190554]]'
+opposite_of: '[[_Standards/WikiData/WD~exhumation,1898510]]'
+subclass_of: '[[_Standards/WikiData/WD~burial,106562186]]'
+has_part_s_: '[[_Standards/WikiData/WD~Islamic_burial,131861551]]'
 Wikidata_property:
   - burial plot reference
   - quantity buried
   - date of burial or cremation
-Iconclass_notation: "42E23"
+Iconclass_notation: 42E23
 Library_of_Congress_Classification: KBP184.55
 Commons_category: Burials
 inception: -100000-06

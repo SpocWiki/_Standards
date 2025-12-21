@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Eriptychiida
 title: Eriptychiida
 ---
 

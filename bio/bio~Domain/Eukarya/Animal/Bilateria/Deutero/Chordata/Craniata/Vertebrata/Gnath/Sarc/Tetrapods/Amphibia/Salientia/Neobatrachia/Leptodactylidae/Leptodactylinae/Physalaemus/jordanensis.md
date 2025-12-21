@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus jordanensis"
+aliases:
+  - jordanensis
+title: Physalaemus jordanensis
 ---
 
 ## Phylogeny 

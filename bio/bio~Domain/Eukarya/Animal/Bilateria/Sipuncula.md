@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sipuncula
 title: Sipuncula
 ---
 

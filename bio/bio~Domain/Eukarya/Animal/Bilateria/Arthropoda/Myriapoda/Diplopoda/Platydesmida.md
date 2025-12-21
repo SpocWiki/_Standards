@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Platydesmida
 title: Platydesmida
 ---
 

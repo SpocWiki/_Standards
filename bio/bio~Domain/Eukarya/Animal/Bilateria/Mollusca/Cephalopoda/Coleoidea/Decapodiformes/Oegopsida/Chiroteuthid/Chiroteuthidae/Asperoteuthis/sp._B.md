@@ -1,5 +1,8 @@
 ---
-title: "Asperoteuthis sp. B"
+aliases:
+  - sp._B
+  - sp. B
+title: Asperoteuthis sp. B
 ---
 
 ## Phylogeny 

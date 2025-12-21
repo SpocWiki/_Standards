@@ -1,5 +1,8 @@
 ---
-title: "Double-stranded RNA Viruses"
+aliases:
+  - Double-stranded_RNA_Virus
+  - Double-stranded RNA Virus
+title: Double-stranded RNA Viruses
 ---
 
 ## Phylogeny 

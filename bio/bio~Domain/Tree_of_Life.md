@@ -1,5 +1,8 @@
 ---
-title: "Tree of Life"
+aliases:
+  - Tree_of_Life
+  - Tree of Life
+title: Tree of Life
 ---
 
 # [[Tree_of_Life]]   

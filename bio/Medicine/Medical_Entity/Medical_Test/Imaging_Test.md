@@ -4,20 +4,22 @@ aliases:
   - imaging_test
   - ImagingTest
   - is_an_imaging_test
+  - Imaging_Test
+  - Imaging Test
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - imaging_test
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_imaging_test Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

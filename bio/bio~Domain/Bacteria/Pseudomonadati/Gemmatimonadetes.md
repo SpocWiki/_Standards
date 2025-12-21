@@ -1,5 +1,7 @@
 ---
-title: "Gemmatimonas aurantiaca"
+aliases:
+  - Gemmatimonadetes
+title: Gemmatimonas aurantiaca
 ---
 
 ## [[Gemmatimonadetes]] 

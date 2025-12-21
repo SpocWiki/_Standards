@@ -3,6 +3,44 @@ aliases:
   - saffron crocus
   - autumn crocus
   - Crocus sativus
+  - Saffron_Crocus
+  - Saffron Crocus
+  - Azafrán
+  - šafrán setý
+  - Brugo
+  - Chruogo
+  - Gewürzsafran
+  - Kruago
+  - Saffaran
+  - Saffaren
+  - Saffart
+  - Safferain
+  - Safferen
+  - Safferntblume
+  - Safferon
+  - Saffrat
+  - Saffrath
+  - Safrich
+  - Seydfarb
+  - Sintvarwe
+  - Soffraen
+  - Suffran
+  - Maustesahrami
+  - Safraan
+  - Jóféle sáfrány
+  - Zafferano vero
+  - saffraankrokus
+  - szafran uprawny
+  - Šafran
+  - หญ้าฝรั่น
+  - 番红花
+  - 藏红花
+  - 西红花
+  - azafrán
+  - Schaffner
+  - Croc
+  - Broze
+  - Saffran
 has_id_wikidata: Q15041677
 taxon_common_name:
   - Azafrán
@@ -45,28 +83,28 @@ taxon_common_name:
   - Croc
   - Broze
   - Saffran
-parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Crocus,157806]]"
+parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Crocus,157806]]'
 has_use:
-  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
-  - "[[_Standards/WikiData/WD~dye,189720]]"
-  - "[[_Standards/WikiData/WD~spice,42527]]"
+  - '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+  - '[[_Standards/WikiData/WD~dye,189720]]'
+  - '[[_Standards/WikiData/WD~spice,42527]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Flora_of_the_Lesser_Antilles,_Leeward_and_Windward_Islands,10878728]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(1),112869390]]"
-subclass_of: "[[_Standards/WikiData/WD~useful_plant,11992872]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-hardiness_of_plant: "[[_Standards/WikiData/WD~5,96279266]]"
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Flora_of_the_Lesser_Antilles,_Leeward_and_Windward_Islands,10878728]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(1),112869390]]'
+subclass_of: '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~5,96279266]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~Crocus_sativus_flower,102317584]]"
-  - "[[_Standards/WikiData/WD~saffron_oil,102317694]]"
-  - "[[_Standards/WikiData/WD~saffron,25434]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[_Standards/WikiData/WD~Crocus_sativus_flower,102317584]]'
+  - '[[_Standards/WikiData/WD~saffron_oil,102317694]]'
+  - '[[_Standards/WikiData/WD~saffron,25434]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_range: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-ITIS_TSN: "501794"
-OmegaWiki_Defined_Meaning: "847814"
+ITIS_TSN: 501794
+OmegaWiki_Defined_Meaning: 847814
 taxon_author_citation: L.
 short_name: C. sativus
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Saffran%20crocus%20sativus%20moist.jpg

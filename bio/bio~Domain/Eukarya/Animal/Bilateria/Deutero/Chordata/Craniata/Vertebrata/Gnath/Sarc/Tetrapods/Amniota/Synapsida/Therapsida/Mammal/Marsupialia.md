@@ -4,21 +4,27 @@ aliases:
   - Marsupial
   - Marsupials
   - Beuteltier
-title: Marsupialia
+  - marsupiali
+  - torbacze
+  - Beuteltiere
+  - الجرابيَّات
+  - vrečarji
+  - 有袋上目
 has_id_wikidata: Q25336
+title: Marsupialia
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-parent_taxon: "[[_Standards/WikiData/WD~Metatheria,1096960]]"
-taxon_rank: "[[_Standards/WikiData/WD~infraclass,2007442]]"
+  - '[[../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+parent_taxon: '[[_Standards/WikiData/WD~Metatheria,1096960]]'
+taxon_rank: '[[_Standards/WikiData/WD~infraclass,2007442]]'
 start_time: -66000000-01-01T00:00:00Z
 properties_for_this_type: time in the pouch
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-OmegaWiki_Defined_Meaning: "2281"
-ITIS_TSN: "179918"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+OmegaWiki_Defined_Meaning: 2281
+ITIS_TSN: 179918
 taxon_common_name:
   - marsupiali
   - torbacze
@@ -28,7 +34,7 @@ taxon_common_name:
   - 有袋上目
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kangaroo%20and%20joey03.jpg
 Biology_Online_Biology_Dictionary_entry: marsupial
-GS1_GPC_code: "10005467"
+GS1_GPC_code: 10005467
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9288%20%28heb%29-Buffer-%D7%97%D7%99%D7%95%D7%AA%20%D7%9B%D7%99%D7%A1.wav
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Marsupial%20world%20distribution%20map.svg
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Marsupialia%20collage.png

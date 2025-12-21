@@ -4,20 +4,22 @@ aliases:
   - medical_risk_score
   - MedicalRiskScore
   - is_a_medical_risk_score
+  - Medical_Risk_Score
+  - Medical Risk Score
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_risk_score
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_risk_score Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

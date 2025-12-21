@@ -6,6 +6,20 @@ aliases:
   - Asian water buffalo
   - Asiatic water buffalo
   - Wasserbüffel
+  - Water_Buffalo
+  - Water Buffalo
+  - Keubeue
+  - búfalu acuáticu
+  - Asiatischer Büffel
+  - Hauswasserbüffel
+  - Asian Water Buffalo
+  - Kabau
+  - indijski bivol
+  - vodni bivol
+  - Carabao
+  - Asian buffalo
+  - Wild Water Buffalo
+  - Kerbau
 has_id_wikidata: Q42710
 Gujarati_Vishwakosh_entry: ભેંસ
 taxon_common_name:
@@ -43,9 +57,9 @@ taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 gestation_period: 320
 longest_observed_lifespan: 34.9
-OmegaWiki_Defined_Meaning: "529788"
+OmegaWiki_Defined_Meaning: 529788
 taxon_author_citation: (Linnaeus, 1758)
-ITIS_TSN: "552476"
+ITIS_TSN: 552476
 short_name: B. bubalis
 taxon_name: Bubalus bubalis
 Commons_gallery: Bubalus bubalis
@@ -69,7 +83,7 @@ GenBank_assembly_accession_number:
 NBN_System_Key: NHMSYS0020975275
 ---
 
-# [[Water_Buffalo]] 
+# [[Water_Buffalo]] 🐃 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Water_buffalo,42710|WD~Water_buffalo,42710]]  
 

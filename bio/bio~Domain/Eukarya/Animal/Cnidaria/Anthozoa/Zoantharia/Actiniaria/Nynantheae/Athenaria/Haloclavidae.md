@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Haloclavidae
 title: Haloclavidae
 ---
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Celastrales
 title: Celastrales
 ---
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Gonatidae
 title: Gonatidae
 ---
 

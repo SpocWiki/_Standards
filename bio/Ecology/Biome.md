@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Biome
 has_id_wikidata: Q101998
 ---
 

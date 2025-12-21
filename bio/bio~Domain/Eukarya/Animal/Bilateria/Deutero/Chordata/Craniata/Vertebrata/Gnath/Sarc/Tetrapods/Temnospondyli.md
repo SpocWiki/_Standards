@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Temnospondyli
 title: Temnospondyli
 ---
 

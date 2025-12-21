@@ -1,6 +1,6 @@
 ---
 aliases:
-- Santalales
+  - Santalales
 title: Santalales
 ---
 

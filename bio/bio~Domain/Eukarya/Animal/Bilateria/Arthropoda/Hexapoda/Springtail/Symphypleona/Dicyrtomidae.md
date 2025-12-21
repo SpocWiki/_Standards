@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Dicyrtomidae
 title: Dicyrtomidae
 ---
 

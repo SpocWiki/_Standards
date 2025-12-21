@@ -1,5 +1,7 @@
 ---
-title: "Cassieae sensu lato (pro parte)"
+aliases:
+  - Cassieae
+title: Cassieae sensu lato (pro parte)
 ---
 
 # [[Cassieae]] sensu lato (pro parte) 

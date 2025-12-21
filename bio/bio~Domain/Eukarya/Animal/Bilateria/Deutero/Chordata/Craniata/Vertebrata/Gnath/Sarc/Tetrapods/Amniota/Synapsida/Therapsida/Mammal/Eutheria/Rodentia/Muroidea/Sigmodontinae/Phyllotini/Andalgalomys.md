@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Andalgalomys
 title: Andalgalomys
 ---
 

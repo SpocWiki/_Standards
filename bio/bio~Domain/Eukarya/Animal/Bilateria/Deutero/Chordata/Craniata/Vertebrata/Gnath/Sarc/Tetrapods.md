@@ -3,27 +3,30 @@ aliases:
   - Tetrapods
   - Terrestrial Vertebrates
   - Tetrapoda
+  - tetrapod
+  - teitreapód
+  - 四足总纲
 has_id_wikidata: Q19159
 Commons_category: Tetrapoda
-different_from: "[[_Standards/WikiData/WD~quadruped,777371]]"
+different_from: '[[_Standards/WikiData/WD~quadruped,777371]]'
 earliest_date: -390000000-01-01
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Feuer%20Salamander%202.jpg
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 IPA_transcription: ˌtɛt͡ʃɹəˈpɑdə
 ITIS_TSN: 914181
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Extant%20tetrapoda.jpg
 start_time: -367500000-01-01
-subclass_of: "[[_Standards/WikiData/WD~quadruped,777371]]"
+subclass_of: '[[_Standards/WikiData/WD~quadruped,777371]]'
 taxon_common_name:
   - tetrapod
   - teitreapód
   - 四足总纲
 taxon_name: Tetrapoda
-taxon_rank: "[[_Standards/WikiData/WD~superclass,3504061]]"
+taxon_rank: '[[_Standards/WikiData/WD~superclass,3504061]]'
 title: Terrestrial Vertebrates
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Tetrapoda,16354712]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Tetrapoda,16354712]]'
 UMLS_CUI: C1004206
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 ---
 
 # Terrestrial Vertebrates

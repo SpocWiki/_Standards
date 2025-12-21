@@ -1,20 +1,36 @@
 ---
 aliases:
   - Schellfisch
+  - Haddock
+  - haddock
+  - hyse
+  - Anon
+  - Âne
+  - agrafín
+  - Eglefino
+  - Aiglefin
+  - Bourricot
+  - Calever
+  - Eglefin
+  - églefin
+  - Églefin
+  - Habillot
+  - Saint-pierre
+  - schelvis
 has_id_wikidata: Q202406
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Vulnerable,278113]]"
-subclass_of: "[[_Standards/WikiData/WD~fish_as_food,600396]]"
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Vulnerable,278113]]'
+subclass_of: '[[_Standards/WikiData/WD~fish_as_food,600396]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
+  - '[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~food_product,951964]]"
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Melanogrammus,17379593]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-ITIS_TSN: "164744"
-OmegaWiki_Defined_Meaning: "1153638"
+  - '[[_Standards/WikiData/WD~food_product,951964]]'
+  - '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Melanogrammus,17379593]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+ITIS_TSN: 164744
+OmegaWiki_Defined_Meaning: 1153638
 taxon_common_name:
   - Haddock
   - haddock
@@ -42,7 +58,7 @@ Commons_category: Melanogrammus aeglefinus
 taxon_name: Melanogrammus aeglefinus
 MCN_code: 0302.52.00
 Common_Procurement_Vocabulary_code: 03311240-6
-Amazon_com_browse_node: "6519639011"
+Amazon_com_browse_node: 6519639011
 FoodEx2_code: A02CA
 UNII: BP7T337SBG
 UMLS_CUI: C0328436

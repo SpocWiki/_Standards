@@ -1,6 +1,6 @@
 ---
 aliases:
-- Oxalidales
+  - Oxalidales
 title: Oxalidales
 ---
 

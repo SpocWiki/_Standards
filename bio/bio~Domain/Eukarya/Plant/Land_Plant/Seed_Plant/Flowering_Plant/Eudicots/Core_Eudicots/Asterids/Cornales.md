@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cornales
 title: Cornales
 ---
 

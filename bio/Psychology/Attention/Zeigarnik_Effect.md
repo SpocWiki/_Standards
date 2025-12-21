@@ -1,6 +1,7 @@
 ---
 aliases:
   - Zeigarnik Effect
+  - Zeigarnik_Effect
 ---
 
 # [[Zeigarnik_Effect]] 

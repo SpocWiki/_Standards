@@ -1,5 +1,7 @@
 ---
-title: "Budorcas taxicolor"
+aliases:
+  - Budorcas
+title: Budorcas taxicolor
 ---
 
 ## Phylogeny 

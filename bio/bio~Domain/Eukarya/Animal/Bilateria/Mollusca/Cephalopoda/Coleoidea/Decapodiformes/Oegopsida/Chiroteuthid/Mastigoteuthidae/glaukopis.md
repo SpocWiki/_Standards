@@ -1,5 +1,7 @@
 ---
-title: "Mastigoteuthis glaukopis"
+aliases:
+  - glaukopis
+title: Mastigoteuthis glaukopis
 ---
 
 ## Phylogeny 

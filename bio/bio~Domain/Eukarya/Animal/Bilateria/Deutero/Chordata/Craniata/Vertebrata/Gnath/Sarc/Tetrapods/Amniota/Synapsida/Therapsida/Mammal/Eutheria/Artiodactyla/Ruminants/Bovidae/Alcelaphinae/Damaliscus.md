@@ -1,5 +1,7 @@
 ---
-title: "Damaliscus lunatus"
+aliases:
+  - Damaliscus
+title: Damaliscus lunatus
 ---
 
 # [[Damaliscus]] lunatus 

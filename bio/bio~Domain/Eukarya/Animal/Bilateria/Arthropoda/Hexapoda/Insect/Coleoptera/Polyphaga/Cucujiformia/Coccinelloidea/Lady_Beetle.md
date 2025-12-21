@@ -10,7 +10,13 @@ aliases:
   - ladybird
   - Coccinellidae
   - Coccinellida
-has_id_wikidata: Q25327 
+  - Lady_Beetle
+  - Lady Beetle
+  - marihøner
+  - Lieveheersbeestjes
+  - polonice
+  - 瓢虫科
+has_id_wikidata: Q25327
 has_use: "[[_Standards/WikiData/WD~biological_pest_control,116890]]"
 has_characteristic: "[[_Standards/WikiData/WD~hibernation,159408]]"
 main_food_source: "[[_Standards/WikiData/WD~aphid,183350]]"
@@ -29,8 +35,8 @@ color:
   - "[[_Standards/WikiData/WD~black,23445]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "114329"
-OmegaWiki_Defined_Meaning: "629382"
+ITIS_TSN: 114329
+OmegaWiki_Defined_Meaning: 629382
 Commons_category: Coccinellidae
 taxon_name: Coccinellidae
 image:
@@ -53,7 +59,7 @@ taxon_common_name:
   - 瓢虫科
 ---
 
-# [[Lady_Beetle]] 
+# [[Lady_Beetle]]  🐞 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Coccinellidae,25327|WD~Coccinellidae,25327]] 
 

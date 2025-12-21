@@ -4,51 +4,51 @@ aliases:
   - joint
   - Joint
   - is_a_joint
+has_id_wikidata: Q9644
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - joint
-layout: 
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_joint Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_joint Class
 type: Type
-has_id_wikidata: Q9644
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-produced_sound: "[[_Standards/WikiData/WD~cracking_joints,1417078]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Joints,14402946]]"
-different_from: "[[_Standards/WikiData/WD~Cymal,21061384]]"
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+produced_sound: '[[_Standards/WikiData/WD~cracking_joints,1417078]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Joints,14402946]]'
+different_from: '[[_Standards/WikiData/WD~Cymal,21061384]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~heterogeneous_anatomical_cluster,66561296]]"
-  - "[[_Standards/WikiData/WD~joint,109321311]]"
-  - "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
-instance_of: "[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748]]"
+  - '[[_Standards/WikiData/WD~heterogeneous_anatomical_cluster,66561296]]'
+  - '[[_Standards/WikiData/WD~joint,109321311]]'
+  - '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
+instance_of: '[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748]]'
 TA98_Latin_term: junctura
-OmegaWiki_Defined_Meaning: "1652935"
+OmegaWiki_Defined_Meaning: 1652935
 Commons_category: Joints
 Dewey_Decimal_Classification:
-  - "611.72"
-  - "573.78"
-  - "612.752"
+  - 611.72
+  - 573.78
+  - 612.752
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Joints%201%20--%20Smart-Servier.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%BF.wav
 equivalent_class: https://schema.org/Joint
-P8189: "987007536286105171"
+P8189: 987007536286105171
 MeSH_tree_code: A02.835.583
 UMLS_CUI: C0022417
 Krugosvet_article: medicina/SUSTAV.html

@@ -3,6 +3,7 @@ aliases:
   - hyenas
   - Hyäne
   - Hyänen
+  - Hyena
 ---
 
 # [[Hyena]] 

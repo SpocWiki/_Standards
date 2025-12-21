@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bathyteuthidae
 title: Bathyteuthis
 ---
 

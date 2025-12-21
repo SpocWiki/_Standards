@@ -1,12 +1,38 @@
 ---
-title: Sus scrofa
 aliases:
   - Wildschwein
   - Sus scrofa
   - Sus_scrofa
   - wild swine
   - wild pig
+  - Wild_Boar
+  - Wild Boar
+  - boyak
+  - sanglier
+  - Keiler
+  - Sanglier
+  - Jabalí
+  - 멧돼지
+  - Wild boar
+  - イノシシ
+  - xabalín
+  - xabaril
+  - Eurasisches Wildschwein
+  - Europäisches Wildschwein
+  - Eurasian Wild Pig
+  - European Wild Pig
+  - Ryukyu Islands Wild Pig
+  - wild boar, eurasian wild boar
+  - Villisika
+  - Sanglier d'Eurasie
+  - Sanglier d'Europe
+  - जंगली सूअर
+  - Villsvin
+  - Wild zwijn
+  - Divja svinja
+  - 野猪
 has_id_wikidata: Q58697
+title: Sus scrofa
 IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
 described_by_source:
   - "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -45,8 +71,8 @@ parent_taxon: "[[_Standards/WikiData/WD~Sus,10798]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 longest_observed_lifespan: 27
 gestation_period: 121
-OmegaWiki_Defined_Meaning: "462653"
-ITIS_TSN: "180722"
+OmegaWiki_Defined_Meaning: 462653
+ITIS_TSN: 180722
 taxon_common_name:
   - Wildschwein
   - boyak
@@ -87,9 +113,9 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Metssea%20emis%20poegadega%20maanteed%20%C3%BCletamas.%20K%C3%B5rvemaa%2C%202016.%20a.%20aprill..jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Wildschwein%2C%20N%C3%A4he%20Pulverstampftor.jpg
 Dewey_Decimal_Classification:
-  - "636.96332"
-  - "632.69633"
-  - "599.6332"
+  - 636.96332
+  - 632.69633
+  - 599.6332
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Boar.Grwls%281%29.ogg
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sus%20scrofa%20range%20map.jpg
 sequenced_genome_URL: http://www.ensembl.org/Sus_scrofa
@@ -120,7 +146,7 @@ EPPO_Code: SUXXSC
 short_name: S. scrofa
 ---
 
-# [[Wild_Boar]]
+# [[Wild_Boar]] 🐗 
 
 ## Wild boar 
 

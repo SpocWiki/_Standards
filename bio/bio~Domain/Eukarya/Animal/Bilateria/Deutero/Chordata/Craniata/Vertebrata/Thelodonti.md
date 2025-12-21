@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Thelodonti
 title: Thelodonti
 ---
 

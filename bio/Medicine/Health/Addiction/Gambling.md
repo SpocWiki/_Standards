@@ -2,44 +2,45 @@
 aliases:
   - betting
   - gaming
+  - Gambling
 has_id_wikidata: Q11416
 has_part_s_:
-  - "[[_Standards/WikiData/WD~casino,133215]]"
-  - "[[_Standards/WikiData/WD~lottery,189409]]"
-  - "[[_Standards/WikiData/WD~amusement_arcade,260676]]"
-  - "[[_Standards/WikiData/WD~bookmaker,664702]]"
-  - "[[_Standards/WikiData/WD~betting_shop,1719063]]"
+  - '[[_Standards/WikiData/WD~casino,133215]]'
+  - '[[_Standards/WikiData/WD~lottery,189409]]'
+  - '[[_Standards/WikiData/WD~amusement_arcade,260676]]'
+  - '[[_Standards/WikiData/WD~bookmaker,664702]]'
+  - '[[_Standards/WikiData/WD~betting_shop,1719063]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~recreation,184872]]"
-  - "[[_Standards/WikiData/WD~playing,1150958]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~prediction_market,282283]]"
+  - '[[_Standards/WikiData/WD~recreation,184872]]'
+  - '[[_Standards/WikiData/WD~playing,1150958]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~prediction_market,282283]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zwölfter_Band,133933209]]"
-has_effect: "[[_Standards/WikiData/WD~problem_gambling,748309]]"
-contributing_factor_of: "[[_Standards/WikiData/WD~problem_gambling,748309]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~competition,841654]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zwölfter_Band,133933209]]'
+has_effect: '[[_Standards/WikiData/WD~problem_gambling,748309]]'
+contributing_factor_of: '[[_Standards/WikiData/WD~problem_gambling,748309]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~competition,841654]]'
 uses:
-  - "[[_Standards/WikiData/WD~bet,2565881]]"
-  - "[[_Standards/WikiData/WD~game_of_chance,3590573]]"
+  - '[[_Standards/WikiData/WD~bet,2565881]]'
+  - '[[_Standards/WikiData/WD~game_of_chance,3590573]]'
 different_from:
-  - "[[_Standards/WikiData/WD~game_of_chance,3590573]]"
-  - "[[_Standards/WikiData/WD~video_gaming,107022968]]"
-practiced_by: "[[_Standards/WikiData/WD~gambler,9286830]]"
-has_characteristic: "[[_Standards/WikiData/WD~excitement,16301153]]"
-instance_of: "[[_Standards/WikiData/WD~game_genre,107551175]]"
+  - '[[_Standards/WikiData/WD~game_of_chance,3590573]]'
+  - '[[_Standards/WikiData/WD~video_gaming,107022968]]'
+practiced_by: '[[_Standards/WikiData/WD~gambler,9286830]]'
+has_characteristic: '[[_Standards/WikiData/WD~excitement,16301153]]'
+instance_of: '[[_Standards/WikiData/WD~game_genre,107551175]]'
 Dewey_Decimal_Classification:
-  - "795"
-  - "306.482"
+  - 795
+  - 306.482
 Library_of_Congress_Classification: K915
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gambling%20image.jpg
-U_S_National_Archives_Identifier: "10636709"
-OmegaWiki_Defined_Meaning: "697231"
+U_S_National_Archives_Identifier: 10636709
+OmegaWiki_Defined_Meaning: 697231
 Commons_category: Gambling
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Gambling%20banner%20Sahara%20Hotel.jpg
 Iconclass_notation: 43C56

@@ -3,17 +3,19 @@ aliases:
   - Safe sex
   - safer sex
   - protected sex
+  - Safe_Sex
+  - Safe Sex
 has_id_wikidata: Q318529
 subclass_of:
-  - "[[_Standards/WikiData/WD~harm_reduction,1458711]]"
-  - "[[_Standards/WikiData/WD~human_sexual_behavior,608]]"
+  - '[[_Standards/WikiData/WD~harm_reduction,1458711]]'
+  - '[[_Standards/WikiData/WD~human_sexual_behavior,608]]'
 opposite_of:
-  - "[[_Standards/WikiData/WD~sexual_risk_behavior,2990601]]"
-  - "[[_Standards/WikiData/WD~unprotected_sex,98381467]]"
-described_by_source: "[[_Standards/WikiData/WD~Q72527089,72527089]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]"
-instance_of: "[[_Standards/WikiData/WD~sexual_intercourse,5873]]"
-uses: "[[_Standards/WikiData/WD~condom,14076]]"
+  - '[[_Standards/WikiData/WD~sexual_risk_behavior,2990601]]'
+  - '[[_Standards/WikiData/WD~unprotected_sex,98381467]]'
+described_by_source: '[[_Standards/WikiData/WD~Q72527089,72527089]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
+instance_of: '[[_Standards/WikiData/WD~sexual_intercourse,5873]]'
+uses: '[[_Standards/WikiData/WD~condom,14076]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Tassaert-Die%20vorsichtige%20Geliebte.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Safe%20sex.webm
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/safer_sex

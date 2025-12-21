@@ -1,5 +1,7 @@
 ---
-title: "Ruellia inundata clade"
+aliases:
+  - inundata
+title: Ruellia inundata clade
 ---
 
 # Ruellia inundata  

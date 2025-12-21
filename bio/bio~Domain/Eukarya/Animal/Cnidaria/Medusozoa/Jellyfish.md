@@ -1,6 +1,7 @@
 ---
 aliases:
   - Qualle
+  - Jellyfish
 has_id_wikidata: Q30178
 taxon_known_by_this_common_name:
   - "[[_Standards/WikiData/WD~box_jellyfish,273179]]"
@@ -16,7 +17,7 @@ different_from:
   - "[[_Standards/WikiData/WD~Medusa,11776853]]"
   - "[[_Standards/WikiData/WD~Meduza,72977655]]"
 instance_of: "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
-OmegaWiki_Defined_Meaning: "1392505"
+OmegaWiki_Defined_Meaning: 1392505
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-%D0%BC%D0%B5%D0%B4%D1%83%D0%B7%D0%B0.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Mila%20Rose%20L.%20%28BiblioCanet66%29-m%C3%A9duse.wav
@@ -31,7 +32,7 @@ exact_match: http://wordnet-rdf.princeton.edu/wn30/01910747-n
 subreddit: Hammyfish
 ---
 
-# [[Jellyfish]] 
+# [[Jellyfish]] 🪼 
 
 #is_/same_as :: [[WD~Jellyfish,30178]] 
 

@@ -1,22 +1,34 @@
 ---
 aliases:
   - Gladiolen
+  - Gladiolus
+  - шпажник
+  - gladiolus
+  - gladiolo
+  - Miekkaliljat
+  - Kardvirág
+  - Gladiolo
+  - gladiolas
+  - Гладиолус
+  - gladiolussläktet
+  - glayöl
+  - 唐菖蒲属
 has_id_wikidata: Q156207
-taxonomic_type: "[[_Standards/WikiData/WD~Gladiolus_communis,143012]]"
-has_fruit_type: "[[_Standards/WikiData/WD~capsule,147768]]"
+taxonomic_type: '[[_Standards/WikiData/WD~Gladiolus_communis,143012]]'
+has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768]]'
 described_by_source:
-  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(1),112869390]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-different_from: "[[_Standards/WikiData/WD~Q11779628,11779628]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "43293"
+  - '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(1),112869390]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+different_from: '[[_Standards/WikiData/WD~Q11779628,11779628]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 43293
 taxon_common_name:
   - шпажник
   - gladiolus

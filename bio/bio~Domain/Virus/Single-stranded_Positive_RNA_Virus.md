@@ -1,5 +1,8 @@
 ---
-title: "Single-stranded Positive Sense RNA Virus"
+aliases:
+  - Single-stranded_Positive_RNA_Virus
+  - Single-stranded Positive RNA Virus
+title: Single-stranded Positive Sense RNA Virus
 ---
 
 ## Phylogeny 

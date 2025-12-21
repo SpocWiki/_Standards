@@ -4,20 +4,22 @@ aliases:
   - medical_evidence_level
   - MedicalEvidenceLevel
   - is_a_medical_evidence_level
+  - Medical_Evidence_Level
+  - Medical Evidence Level
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_evidence_level
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_evidence_level Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

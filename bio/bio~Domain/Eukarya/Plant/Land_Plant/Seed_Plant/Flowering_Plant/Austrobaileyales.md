@@ -1,6 +1,6 @@
 ---
 aliases:
-- Austrobaileyales
+  - Austrobaileyales
 title: Austrobaileyales
 ---
 

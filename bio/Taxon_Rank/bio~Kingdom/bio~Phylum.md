@@ -4,20 +4,21 @@ aliases:
   - division
   - phyla
   - Phylum
+  - bio~Phylum
 has_id_wikidata: Q38348
-different_from: "[[_Standards/WikiData/WD~division,334460]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~division,334460]]"
+different_from: '[[_Standards/WikiData/WD~division,334460]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~division,334460]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~taxonomic_rank,427626]]"
-  - "[[_Standards/WikiData/WD~rank_in_zoology,13578154]]"
+  - '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
+  - '[[_Standards/WikiData/WD~rank_in_zoology,13578154]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 part_of:
-  - "[[_Standards/WikiData/WD~superphylum,2111790]]"
-  - "[[_Standards/WikiData/WD~subkingdom,2752679]]"
-  - "[[_Standards/WikiData/WD~branch,3418438]]"
-OmegaWiki_Defined_Meaning: "799635"
+  - '[[_Standards/WikiData/WD~superphylum,2111790]]'
+  - '[[_Standards/WikiData/WD~subkingdom,2752679]]'
+  - '[[_Standards/WikiData/WD~branch,3418438]]'
+OmegaWiki_Defined_Meaning: 799635
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AC.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Linnaeus%20-%20%C3%96rtaboken%2C%20early%20manuscript%2C%201725.jpg
 ---

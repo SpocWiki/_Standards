@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Myopsida
 title: Myopsida
 ---
 

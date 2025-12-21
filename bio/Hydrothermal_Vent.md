@@ -1,8 +1,10 @@
 ---
 aliases:
-  - black smoker 
-  - Hydrothermal vent 
-  - white smoker 
+  - black smoker
+  - Hydrothermal vent
+  - white smoker
+  - Hydrothermal_Vent
+  - Hydrothermal Vent
 ---
 
 # [[Hydrothermal_Vent]] 

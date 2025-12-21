@@ -1,8 +1,9 @@
 ---
 aliases:
-- Chaetognatha
-- chaetognath
-- "Arrow Worm"
+  - Chaetognatha
+  - chaetognath
+  - Arrow Worm
+  - Arrow_Worm
 title: Chaetognatha
 ---
 

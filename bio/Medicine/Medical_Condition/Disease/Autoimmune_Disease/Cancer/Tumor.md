@@ -2,6 +2,7 @@
 aliases:
   - neoplasm
   - tumour
+  - Tumor
 has_id_wikidata: Q133212
 ---
 

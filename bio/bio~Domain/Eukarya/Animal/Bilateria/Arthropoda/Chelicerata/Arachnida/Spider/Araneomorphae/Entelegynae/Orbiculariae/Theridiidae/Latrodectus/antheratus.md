@@ -1,5 +1,7 @@
 ---
-title: "Latrodectus antheratus"
+aliases:
+  - antheratus
+title: Latrodectus antheratus
 ---
 
 ## Phylogeny 

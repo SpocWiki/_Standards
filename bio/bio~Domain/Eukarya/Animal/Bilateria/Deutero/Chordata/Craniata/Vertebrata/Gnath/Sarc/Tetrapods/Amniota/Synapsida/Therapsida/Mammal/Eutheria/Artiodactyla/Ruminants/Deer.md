@@ -1,36 +1,38 @@
 ---
-3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20deer%20mesh%20smooth.stl
 aliases:
   - Cervidae
   - deer
+  - Deer
+  - hjortefamilien
 has_id_wikidata: Q23390
+3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20deer%20mesh%20smooth.stl
 Commons_category: Cervidae
 Commons_gallery: Cervidae
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 EPPO_Code: 1CERVF
-has_use: "[[_Standards/WikiData/WD~deer,29838690]]"
+has_use: '[[_Standards/WikiData/WD~deer,29838690]]'
 Iconclass_notation: 25F24(DEER)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Huemul.jpg
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-invasive_to: "[[_Standards/WikiData/WD~Australian_continent,3960]]"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+invasive_to: '[[_Standards/WikiData/WD~Australian_continent,3960]]'
 ITIS_TSN: 180693
 Krugosvet_article: nauka_i_tehnika/biologiya/OLENEVIE.html
 Library_of_Congress_Classification:
   - QL737.U55
   - SF997.5.C46
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 MeSH_tree_code: B01.050.150.900.649.313.500.380.373
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Family%20Cervidae%20five%20species.jpg
 NBN_System_Key: NHMSYS0000376180
@@ -41,13 +43,13 @@ pronunciation_audio:
 taxon_common_name: hjortefamilien
 taxon_name: Cervidae
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Deer%20range.png
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~venison,2296872]]"
-  - "[[_Standards/WikiData/WD~buff_leather,25038245]]"
-  - "[[_Standards/WikiData/WD~antler,29838581]]"
-  - "[[_Standards/WikiData/WD~deer_liver,96756392]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Q25720523,25720523]]"
+  - '[[_Standards/WikiData/WD~venison,2296872]]'
+  - '[[_Standards/WikiData/WD~buff_leather,25038245]]'
+  - '[[_Standards/WikiData/WD~antler,29838581]]'
+  - '[[_Standards/WikiData/WD~deer_liver,96756392]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q25720523,25720523]]'
 UMLS_CUI: C0011133
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Hirv%20Uppsala%20%C3%A4%C3%A4relinnas.webm
 ---

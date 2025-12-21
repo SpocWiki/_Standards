@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Eosentomata
 title: Eosentomata
 ---
 

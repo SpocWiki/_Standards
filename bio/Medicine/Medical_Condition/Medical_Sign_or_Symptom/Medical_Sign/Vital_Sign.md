@@ -4,20 +4,22 @@ aliases:
   - vital_sign
   - VitalSign
   - is_a_vital_sign
+  - Vital_Sign
+  - Vital Sign
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - vital_sign
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_vital_sign Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

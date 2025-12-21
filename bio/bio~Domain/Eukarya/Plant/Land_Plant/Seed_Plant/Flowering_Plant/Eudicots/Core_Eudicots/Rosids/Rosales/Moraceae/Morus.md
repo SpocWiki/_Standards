@@ -2,28 +2,32 @@
 aliases:
   - mulberry
   - Maulbeer
+  - Morus
+  - murva
+  - 桑属
+  - Moerbei
 has_id_wikidata: Q44789
-taxonomic_type: "[[_Standards/WikiData/WD~Morus_nigra,161040]]"
+taxonomic_type: '[[_Standards/WikiData/WD~Morus_nigra,161040]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
 color:
-  - "[[_Standards/WikiData/WD~purple,3257809]]"
-  - "[[_Standards/WikiData/WD~red,3142]]"
+  - '[[_Standards/WikiData/WD~purple,3257809]]'
+  - '[[_Standards/WikiData/WD~red,3142]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~mulberry,11113119]]"
-  - "[[_Standards/WikiData/WD~mulberry_wood,110807092]]"
-named_after: "[[_Standards/WikiData/WD~Morea,12755738]]"
-subclass_of: "[[_Standards/WikiData/WD~tree,10884]]"
-has_fruit_type: "[[_Standards/WikiData/WD~drupe,14712]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "19064"
-USDA_NDB_number: "09190"
+  - '[[_Standards/WikiData/WD~mulberry,11113119]]'
+  - '[[_Standards/WikiData/WD~mulberry_wood,110807092]]'
+named_after: '[[_Standards/WikiData/WD~Morea,12755738]]'
+subclass_of: '[[_Standards/WikiData/WD~tree,10884]]'
+has_fruit_type: '[[_Standards/WikiData/WD~drupe,14712]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 19064
+USDA_NDB_number: 09190
 taxon_common_name:
   - mulberry
   - murva

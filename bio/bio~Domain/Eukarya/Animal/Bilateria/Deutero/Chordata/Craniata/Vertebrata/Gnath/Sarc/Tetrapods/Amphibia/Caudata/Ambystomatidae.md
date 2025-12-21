@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ambystomatidae
 title: Ambystomatidae
 ---
 

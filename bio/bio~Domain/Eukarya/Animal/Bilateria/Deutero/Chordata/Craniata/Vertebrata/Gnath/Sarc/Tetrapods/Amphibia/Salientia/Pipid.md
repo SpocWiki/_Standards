@@ -1,8 +1,8 @@
 ---
-title: Pipidae
 aliases:
   - Pipidae
   - Pipid
+title: Pipidae
 ---
 
 # [[Pipid]]

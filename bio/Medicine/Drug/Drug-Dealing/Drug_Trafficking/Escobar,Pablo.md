@@ -4,6 +4,7 @@ aliases:
   - Pablo Emilio Escobar Gaviria
   - Pablo Escobar
   - Escobar
+  - Escobar,Pablo
 has_id_wikidata: Q187447
 pseudonym:
   - El Doctor
@@ -19,56 +20,56 @@ pseudonym:
 birth_name: Pablo Emilio Escobar Gaviria
 name_in_native_language: Pablo Escobar
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~drug_lord,2543769]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~drug_lord,2543769]]'
 convicted_of:
-  - "[[_Standards/WikiData/WD~bribery,187436]]"
-  - "[[_Standards/WikiData/WD~drug_trafficking,844924]]"
-  - "[[_Standards/WikiData/WD~racketeering,1283181]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Colombian_Liberal_Party,939021]]"
-member_of: "[[_Standards/WikiData/WD~Medellín_Cartel,1046933]]"
+  - '[[_Standards/WikiData/WD~bribery,187436]]'
+  - '[[_Standards/WikiData/WD~drug_trafficking,844924]]'
+  - '[[_Standards/WikiData/WD~racketeering,1283181]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Colombian_Liberal_Party,939021]]'
+member_of: '[[_Standards/WikiData/WD~Medellín_Cartel,1046933]]'
 position_held:
-  - "[[_Standards/WikiData/WD~director,1162163]]"
-  - "[[_Standards/WikiData/WD~member_of_the_Chamber_of_Representatives_of_Colombia,18960607]]"
-residence: "[[_Standards/WikiData/WD~La_Catedral,1619360]]"
-place_of_birth: "[[_Standards/WikiData/WD~Rionegro,1774644]]"
+  - '[[_Standards/WikiData/WD~director,1162163]]'
+  - '[[_Standards/WikiData/WD~member_of_the_Chamber_of_Representatives_of_Colombia,18960607]]'
+residence: '[[_Standards/WikiData/WD~La_Catedral,1619360]]'
+place_of_birth: '[[_Standards/WikiData/WD~Rionegro,1774644]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Pablo_Daniel_Escobar,1775499]]"
-  - "[[_Standards/WikiData/WD~Pablo_Sidar_Escobar,6056457]]"
-  - "[[_Standards/WikiData/WD~Pablo_Andrés_Escobar,7121564]]"
-given_name: "[[_Standards/WikiData/WD~Pablo,2045138]]"
-cause_of_death: "[[_Standards/WikiData/WD~gunshot_wound,2140674]]"
-owner_of: "[[_Standards/WikiData/WD~Hacienda_Nápoles,2788637]]"
+  - '[[_Standards/WikiData/WD~Pablo_Daniel_Escobar,1775499]]'
+  - '[[_Standards/WikiData/WD~Pablo_Sidar_Escobar,6056457]]'
+  - '[[_Standards/WikiData/WD~Pablo_Andrés_Escobar,7121564]]'
+given_name: '[[_Standards/WikiData/WD~Pablo,2045138]]'
+cause_of_death: '[[_Standards/WikiData/WD~gunshot_wound,2140674]]'
+owner_of: '[[_Standards/WikiData/WD~Hacienda_Nápoles,2788637]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Roberto_Escobar,6109726]]"
-  - "[[_Standards/WikiData/WD~Luz_María_Escobar,102184036]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-killed_by: "[[_Standards/WikiData/WD~Search_Bloc,7441623]]"
+  - '[[_Standards/WikiData/WD~Roberto_Escobar,6109726]]'
+  - '[[_Standards/WikiData/WD~Luz_María_Escobar,102184036]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+killed_by: '[[_Standards/WikiData/WD~Search_Bloc,7441623]]'
 child:
-  - "[[_Standards/WikiData/WD~Juan_Pablo_Escobar_Henao,16217604]]"
-  - "[[_Standards/WikiData/WD~Manuela_Escobar,21092326]]"
-family_name: "[[_Standards/WikiData/WD~Escobar,16463330]]"
-spouse: "[[_Standards/WikiData/WD~María_Isabel_Santos_Caballero,21092328]]"
-unmarried_partner: "[[_Standards/WikiData/WD~María_Isabel_Santos_Caballero,21092328]]"
-filmography: "[[_Standards/WikiData/WD~Pablo_Escobar_filmography,26185032]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-father: "[[_Standards/WikiData/WD~Abel_de_Jesús_Escobar_Echeverri,102184047]]"
-mother: "[[_Standards/WikiData/WD~Hemilda_de_los_Dolores_Gaviria_Berrío,102184054]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Colombia,739]]"
-native_language: "[[_Standards/WikiData/WD~Spanish,1321]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Spanish,1321]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_burial: "[[_Standards/WikiData/WD~Medellín,48278]]"
-place_of_death: "[[_Standards/WikiData/WD~Medellín,48278]]"
+  - '[[_Standards/WikiData/WD~Juan_Pablo_Escobar_Henao,16217604]]'
+  - '[[_Standards/WikiData/WD~Manuela_Escobar,21092326]]'
+family_name: '[[_Standards/WikiData/WD~Escobar,16463330]]'
+spouse: '[[_Standards/WikiData/WD~María_Isabel_Santos_Caballero,21092328]]'
+unmarried_partner: '[[_Standards/WikiData/WD~María_Isabel_Santos_Caballero,21092328]]'
+filmography: '[[_Standards/WikiData/WD~Pablo_Escobar_filmography,26185032]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+father: '[[_Standards/WikiData/WD~Abel_de_Jesús_Escobar_Echeverri,102184047]]'
+mother: '[[_Standards/WikiData/WD~Hemilda_de_los_Dolores_Gaviria_Berrío,102184054]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Colombia,739]]'
+native_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_burial: '[[_Standards/WikiData/WD~Medellín,48278]]'
+place_of_death: '[[_Standards/WikiData/WD~Medellín,48278]]'
 Commons_category: Pablo Escobar
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pablo%20Escobar%20Mug.jpg
 date_of_birth: 1949-12-01T00:00:00Z
 date_of_death: 1993-12-02T00:00:00Z
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Pablo%20Escobar%20signature.svg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Pablo%20Escobar%20Tomb.jpg
-ISNI: "0000000122792940"
+ISNI: 0000000122792940
 ---
 
 # [[Escobar,Pablo]] 

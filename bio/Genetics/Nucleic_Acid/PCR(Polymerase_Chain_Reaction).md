@@ -1,15 +1,17 @@
 ---
 aliases:
   - polymerase chain reaction
+  - PCR(Polymerase_Chain_Reaction)
+  - PCR(Polymerase Chain Reaction)
 has_id_wikidata: Q176996
-part_of: "[[_Standards/WikiData/WD~medical_diagnosis,177719]]"
+part_of: '[[_Standards/WikiData/WD~medical_diagnosis,177719]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~nucleic_acid_test,348667]]"
-  - "[[_Standards/WikiData/WD~DNA_amplification,105364650]]"
-  - "[[_Standards/WikiData/WD~RNA_amplification,106311245]]"
-instance_of: "[[_Standards/WikiData/WD~periodic_health_examination,1762591]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_polymerase_chain_reaction,5868383]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_PCR,14401688]]"
+  - '[[_Standards/WikiData/WD~nucleic_acid_test,348667]]'
+  - '[[_Standards/WikiData/WD~DNA_amplification,105364650]]'
+  - '[[_Standards/WikiData/WD~RNA_amplification,106311245]]'
+instance_of: '[[_Standards/WikiData/WD~periodic_health_examination,1762591]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_polymerase_chain_reaction,5868383]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_PCR,14401688]]'
 short_name:
   - PCR
   - ПЛР

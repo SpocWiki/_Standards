@@ -5,6 +5,12 @@ aliases:
   - legume family
   - pea family
   - bean family
+  - metuljnice
+  - Vlinderbloemenfamilie
+  - วงศ์ถั่ว
+  - 콩과
+  - 豆科
+  - 蝶形花科
 has_id_wikidata: Q44448
 title: Fabaceae
 taxon_common_name:
@@ -14,24 +20,24 @@ taxon_common_name:
   - 콩과
   - 豆科
   - 蝶形花科
-different_from: "[[_Standards/WikiData/WD~Caesalpinioideae,157156]]"
+different_from: '[[_Standards/WikiData/WD~Caesalpinioideae,157156]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~bean,379813]]"
-  - "[[_Standards/WikiData/WD~mung_bean_sprout,7635866]]"
+  - '[[_Standards/WikiData/WD~bean,379813]]'
+  - '[[_Standards/WikiData/WD~mung_bean_sprout,7635866]]'
 described_by_source:
-  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Flora_partis_europaeae_URSS,113988328]]"
-taxon_synonym: "[[_Standards/WikiData/WD~Leguminosae,14856098]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Faba,64752871]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Fabales,21878]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "500059"
+  - '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Flora_partis_europaeae_URSS,113988328]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Leguminosae,14856098]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Faba,64752871]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Fabales,21878]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 500059
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fabaceae%20flower.jpg
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Legume%20Biogeography.svg
 Montana_Plant_Life_URL: http://montana.plant-life.org/cgi-bin/family03.cgi?Fabaceae

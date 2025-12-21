@@ -5,51 +5,94 @@ aliases:
   - bacterium
   - bacteria
   - is_a_bacteria
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Nomenclature_of_Prokaryotes,743780]]"
+  - Bakterien
+  - Бактерии
+  - Bakteri
+  - Bakterije
+  - Bacteris
+  - bakterie
+  - Bakterie
+  - Bακτήρια
+  - Bacterium
+  - Bakterioj
+  - Bakterid
+  - Bakteerit
+  - Bactéries
+  - Bakteerien
+  - Baictéir
+  - חיידקים אמיתיים
+  - जीवाणु
+  - Baktérium
+  - Բակտերիա
+  - Bacterios
+  - Batteri
+  - វេត្រាណូ
+  - 세균
+  - Bakterijos
+  - Baktērijas
+  - Bakterier
+  - Bacteriën
+  - Bacterias
+  - Bactéria
+  - Añaki
+  - Bacterii
+  - Baktérie
+  - Бактерије
+  - பாக்டீரியா
+  - แบคทีเรีย
+  - Bakterya
+  - Бактерії
+  - Vi khuẩn
+  - באַקטעריעס
+  - 细菌
+  - 細菌
+  - باکتری
+  - بكتيريا
+has_id_wikidata: Q10876
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Nomenclature_of_Prokaryotes,743780]]'
 Commons_category: Bacteria
 confidential: public
 cssclasses:
   - Type
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 draft: false
 enumerationtype: InfectiousAgentClass
 EPPO_Code: 1BACTK
-expiryDate:
+expiryDate: ''
 has_effect:
-  - "[[_Standards/WikiData/WD~bacterial_infectious_disease,727028]]"
-  - "[[_Standards/WikiData/WD~bacterial_pneumonia,3776920]]"
-has_id_wikidata: Q10876
-homonymous_taxon: "[[_Standards/WikiData/WD~Bacteria,4034791]]"
+  - '[[_Standards/WikiData/WD~bacterial_infectious_disease,727028]]'
+  - '[[_Standards/WikiData/WD~bacterial_pneumonia,3776920]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Bacteria,4034791]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/E.%20coli%20Bacteria%20%287316101966%29.jpg
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 isDeleted: false
 isReadOnly: false
 ITIS_TSN: 50
 keywords:
   - bacteria
 Krugosvet_article: nauka_i_tehnika/biologiya/BAKTERII.html
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_bacteria Class
 LPSN_URL: https://lpsn.dsmz.de/domain/bacteria
 MeSH_tree_code: B03
-mode_of_reproduction: "[[_Standards/WikiData/WD~cell_division,188909]]"
+mode_of_reproduction: '[[_Standards/WikiData/WD~cell_division,188909]]'
 OmegaWiki_Defined_Meaning: 302
-parent_taxon: "[[_Standards/WikiData/WD~Biota,2382443]]"
+parent_taxon: '[[_Standards/WikiData/WD~Biota,2382443]]'
 publish: true
-publishDate:
+publishDate: ''
 start_time: -3500000000-01-01
-subclass_of: "[[_Standards/WikiData/WD~microorganism,39833]]"
+subclass_of: '[[_Standards/WikiData/WD~microorganism,39833]]'
 tags:
   - class/Class
   - schema-org/Class
   - class/infectious_agent
-taxonomic_type: "[[_Standards/WikiData/WD~Bacillus,212032]]"
+taxonomic_type: '[[_Standards/WikiData/WD~Bacillus,212032]]'
 taxon_common_name:
   - Bakterien
   - Бактерии
@@ -105,12 +148,12 @@ taxon_common_name:
   - Бактерии
   - بكتيريا
 taxon_name: Bacteria
-taxon_rank: "[[_Standards/WikiData/WD~domain,146481]]"
+taxon_rank: '[[_Standards/WikiData/WD~domain,146481]]'
 title: is_a_bacteria Class
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q42353284,42353284]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42353284,42353284]]'
 type: Type
 UMLS_CUI: C0004611
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/A-Microscope-Automated-Fluidic-System-to-Study-Bacterial-Processes-in-Real-Time-pone.0007282.s002.ogv
   - http://commons.wikimedia.org/wiki/Special:FilePath/A-Microscope-Automated-Fluidic-System-to-Study-Bacterial-Processes-in-Real-Time-pone.0007282.s003.ogv

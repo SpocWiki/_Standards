@@ -1,5 +1,8 @@
 ---
-title: "Western Palearctic water frogs"
+aliases:
+  - Western_Water_Frogs
+  - Western Water Frogs
+title: Western Palearctic water frogs
 ---
 
 # [[Western_Water_Frogs]] 

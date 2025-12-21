@@ -1,8 +1,8 @@
 ---
 aliases:
-- Acerentomata
-- Protura
-- proturans
+  - Acerentomata
+  - Protura
+  - proturans
 title: Acerentomata
 ---
 

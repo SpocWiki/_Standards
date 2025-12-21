@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cercideae
 title: Cercideae
 ---
 

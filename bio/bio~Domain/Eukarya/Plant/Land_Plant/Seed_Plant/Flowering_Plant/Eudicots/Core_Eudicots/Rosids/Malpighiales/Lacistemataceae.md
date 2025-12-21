@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Lacistemataceae
 title: Lacistemataceae
 ---
 

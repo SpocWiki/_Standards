@@ -2,8 +2,10 @@
 aliases:
   - Salmonella typhi
   - Typhoid fever
+  - Typhoid_Fever
+  - Typhoid Fever
 has_id_wikidata: Q83319
-ICD_9_CM: "002.0"
+ICD_9_CM: 002.0
 ICD_10_CM:
   - A01.00
   - A01.0
@@ -11,78 +13,78 @@ UMLS_CUI: C0041466
 MeSH_tree_code: C01.150.252.400.310.821.873
 Krugosvet_article_archived_: medicina/TIF_BRYUSHNO.html
 Dewey_Decimal_Classification:
-  - "616.9272"
-  - "614.5112"
-different_from: "[[_Standards/WikiData/WD~typhus,160649]]"
+  - 616.9272
+  - 614.5112
+different_from: '[[_Standards/WikiData/WD~typhus,160649]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~cefixime,163901]]"
-  - "[[_Standards/WikiData/WD~azithromycin,165399]]"
-  - "[[_Standards/WikiData/WD~amoxicillin,201928]]"
-  - "[[_Standards/WikiData/WD~ampicillin,244150]]"
-  - "[[_Standards/WikiData/WD~ciprofloxacin,256602]]"
-  - "[[_Standards/WikiData/WD~DL_ofloxacin,411447]]"
-  - "[[_Standards/WikiData/WD~cefotaxime,417968]]"
-  - "[[_Standards/WikiData/WD~aztreonam,418546]]"
-  - "[[_Standards/WikiData/WD~ceftriaxone,421713]]"
-  - "[[_Standards/WikiData/WD~levofloxacin,424193]]"
-  - "[[_Standards/WikiData/WD~imipen,425152]]"
-  - "[[_Standards/WikiData/WD~gatifloxacin,2365016]]"
-  - "[[_Standards/WikiData/WD~pefloxacin,2601859]]"
+  - '[[_Standards/WikiData/WD~cefixime,163901]]'
+  - '[[_Standards/WikiData/WD~azithromycin,165399]]'
+  - '[[_Standards/WikiData/WD~amoxicillin,201928]]'
+  - '[[_Standards/WikiData/WD~ampicillin,244150]]'
+  - '[[_Standards/WikiData/WD~ciprofloxacin,256602]]'
+  - '[[_Standards/WikiData/WD~DL_ofloxacin,411447]]'
+  - '[[_Standards/WikiData/WD~cefotaxime,417968]]'
+  - '[[_Standards/WikiData/WD~aztreonam,418546]]'
+  - '[[_Standards/WikiData/WD~ceftriaxone,421713]]'
+  - '[[_Standards/WikiData/WD~levofloxacin,424193]]'
+  - '[[_Standards/WikiData/WD~imipen,425152]]'
+  - '[[_Standards/WikiData/WD~gatifloxacin,2365016]]'
+  - '[[_Standards/WikiData/WD~pefloxacin,2601859]]'
 medical_examination:
-  - "[[_Standards/WikiData/WD~polymerase_chain_reaction,176996]]"
-  - "[[_Standards/WikiData/WD~ELISA,332126]]"
-  - "[[_Standards/WikiData/WD~physical_examination,835153]]"
-  - "[[_Standards/WikiData/WD~complete_blood_count,886518]]"
-  - "[[_Standards/WikiData/WD~microbiological_culture,1125312]]"
-  - "[[_Standards/WikiData/WD~Widal_test,1550257]]"
+  - '[[_Standards/WikiData/WD~polymerase_chain_reaction,176996]]'
+  - '[[_Standards/WikiData/WD~ELISA,332126]]'
+  - '[[_Standards/WikiData/WD~physical_examination,835153]]'
+  - '[[_Standards/WikiData/WD~complete_blood_count,886518]]'
+  - '[[_Standards/WikiData/WD~microbiological_culture,1125312]]'
+  - '[[_Standards/WikiData/WD~Widal_test,1550257]]'
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~constipation,178436]]"
-  - "[[_Standards/WikiData/WD~delusion,189643]]"
-  - "[[_Standards/WikiData/WD~bradycardia,217111]]"
-  - "[[_Standards/WikiData/WD~leukopenia,496812]]"
-  - "[[_Standards/WikiData/WD~rash,653197]]"
-  - "[[_Standards/WikiData/WD~splenomegaly,1129121]]"
-  - "[[_Standards/WikiData/WD~hepatomegaly,1362864]]"
-  - "[[_Standards/WikiData/WD~gastrointestinal_bleeding,1495657]]"
-  - "[[_Standards/WikiData/WD~insomnia,1869874]]"
-  - "[[_Standards/WikiData/WD~pallor,2336398]]"
-  - "[[_Standards/WikiData/WD~abdominal_distention,2536390]]"
-  - "[[_Standards/WikiData/WD~prostration,3407854]]"
-  - "[[_Standards/WikiData/WD~intestinal_perforation,18554982]]"
-  - "[[_Standards/WikiData/WD~continuous_fever,29644032]]"
-  - "[[_Standards/WikiData/WD~confusion_of_consciousness,65202123]]"
-  - "[[_Standards/WikiData/WD~fatigue,9690]]"
-  - "[[_Standards/WikiData/WD~headache,86]]"
-  - "[[_Standards/WikiData/WD~diarrhea,40878]]"
+  - '[[_Standards/WikiData/WD~constipation,178436]]'
+  - '[[_Standards/WikiData/WD~delusion,189643]]'
+  - '[[_Standards/WikiData/WD~bradycardia,217111]]'
+  - '[[_Standards/WikiData/WD~leukopenia,496812]]'
+  - '[[_Standards/WikiData/WD~rash,653197]]'
+  - '[[_Standards/WikiData/WD~splenomegaly,1129121]]'
+  - '[[_Standards/WikiData/WD~hepatomegaly,1362864]]'
+  - '[[_Standards/WikiData/WD~gastrointestinal_bleeding,1495657]]'
+  - '[[_Standards/WikiData/WD~insomnia,1869874]]'
+  - '[[_Standards/WikiData/WD~pallor,2336398]]'
+  - '[[_Standards/WikiData/WD~abdominal_distention,2536390]]'
+  - '[[_Standards/WikiData/WD~prostration,3407854]]'
+  - '[[_Standards/WikiData/WD~intestinal_perforation,18554982]]'
+  - '[[_Standards/WikiData/WD~continuous_fever,29644032]]'
+  - '[[_Standards/WikiData/WD~confusion_of_consciousness,65202123]]'
+  - '[[_Standards/WikiData/WD~fatigue,9690]]'
+  - '[[_Standards/WikiData/WD~headache,86]]'
+  - '[[_Standards/WikiData/WD~diarrhea,40878]]'
 possible_treatment:
-  - "[[_Standards/WikiData/WD~blood_transfusion,183605]]"
-  - "[[_Standards/WikiData/WD~diet,474191]]"
-  - "[[_Standards/WikiData/WD~surgical_operation,600236]]"
-  - "[[_Standards/WikiData/WD~detoxification,1090423]]"
-  - "[[_Standards/WikiData/WD~antibiotic,12187]]"
+  - '[[_Standards/WikiData/WD~blood_transfusion,183605]]'
+  - '[[_Standards/WikiData/WD~diet,474191]]'
+  - '[[_Standards/WikiData/WD~surgical_operation,600236]]'
+  - '[[_Standards/WikiData/WD~detoxification,1090423]]'
+  - '[[_Standards/WikiData/WD~antibiotic,12187]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-health_specialty: "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~anthroponotic_disease,1049711]]"
-  - "[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]"
-  - "[[_Standards/WikiData/WD~pandemic_and_epidemic_prone_diseases,131345497]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-has_cause: "[[_Standards/WikiData/WD~Salmonella_enterica,2264864]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+  - '[[_Standards/WikiData/WD~anthroponotic_disease,1049711]]'
+  - '[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]'
+  - '[[_Standards/WikiData/WD~pandemic_and_epidemic_prone_diseases,131345497]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
+has_cause: '[[_Standards/WikiData/WD~Salmonella_enterica,2264864]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-has_natural_reservoir: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+has_natural_reservoir: '[[_Standards/WikiData/WD~human,5]]'
 number_of_cases: 20000000
 maximal_incubation_period_in_humans: 30
 minimal_incubation_period_in_humans: 7
 number_of_deaths: 161000
-DiseasesDB: "27829"
-OmegaWiki_Defined_Meaning: "160612"
-U_S_National_Archives_Identifier: "10646455"
+DiseasesDB: 27829
+OmegaWiki_Defined_Meaning: 160612
+U_S_National_Archives_Identifier: 10646455
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Infectious%20diseases%20Vaccine.jpg
 Commons_category: Typhoid fever
 Commons_gallery: Typhoid fever

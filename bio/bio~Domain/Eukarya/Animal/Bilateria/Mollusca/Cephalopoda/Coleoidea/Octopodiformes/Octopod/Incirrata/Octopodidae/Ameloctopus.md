@@ -1,5 +1,7 @@
 ---
-title: "Ameloctopus litoralis"
+aliases:
+  - Ameloctopus
+title: Ameloctopus litoralis
 ---
 
 ## Phylogeny 

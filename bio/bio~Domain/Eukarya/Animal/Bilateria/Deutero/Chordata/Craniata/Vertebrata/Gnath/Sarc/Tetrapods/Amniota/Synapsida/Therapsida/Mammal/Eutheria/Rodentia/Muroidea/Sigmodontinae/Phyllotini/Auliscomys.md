@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Auliscomys
 title: Auliscomys
 ---
 

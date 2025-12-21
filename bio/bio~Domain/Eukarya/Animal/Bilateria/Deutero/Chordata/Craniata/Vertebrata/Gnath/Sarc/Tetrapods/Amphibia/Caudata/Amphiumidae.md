@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Amphiumidae
 title: Amphiumidae
 ---
 

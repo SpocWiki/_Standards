@@ -1,6 +1,7 @@
 ---
 aliases:
   - Gewissen
+  - Conscience
 has_id_wikidata: Q193526
 ---
 

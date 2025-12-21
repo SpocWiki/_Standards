@@ -2,23 +2,40 @@
 aliases:
   - Chilopoda
   - Centipede
-title: Chilopoda
+  - Губаногія
+  - বিছে
+  - Quilòpodes
+  - stonožky
+  - Skolopender
+  - Hundertfüßer
+  - Σαρανταποδαρούσα
+  - Centipedes
+  - Centpieduloj
+  - Sadajalgsed
+  - لبپایان
+  - Juoksujalkaiset
+  - ムカデ
+  - Klabang
+  - ტუჩფეხიანები
+  - 순각류
+  - skolopendere
 has_id_wikidata: Q43447
+title: Chilopoda
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q8919754,8919754]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Myriapoda,25823]]"
-taxon_rank: "[[_Standards/WikiData/WD~class,37517]]"
-ITIS_TSN: "154400"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q8919754,8919754]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Myriapoda,25823]]'
+taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
+ITIS_TSN: 154400
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Chilopoda%20collage.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lithobius%20forficatus.jpg
 Commons_category: Chilopoda
 taxon_name: Chilopoda
 exact_match: http://wordnet-rdf.princeton.edu/wn30/01784675-n
 EPPO_Code: 1CHILC
-P8189: "987007284971805171"
+P8189: 987007284971805171
 MeSH_tree_code: B01.050.500.131.266
 Wolfram_Language_entity_code: Entity["Concept", "Chilopoda::gvyd6"]
 taxon_common_name:

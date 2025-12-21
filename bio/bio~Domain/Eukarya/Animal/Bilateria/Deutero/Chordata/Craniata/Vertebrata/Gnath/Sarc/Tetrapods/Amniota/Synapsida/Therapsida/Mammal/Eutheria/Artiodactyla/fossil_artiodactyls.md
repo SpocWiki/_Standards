@@ -1,5 +1,8 @@
 ---
-title: "Miscellaneous fossil artiodactyls"
+aliases:
+  - fossil_artiodactyls
+  - fossil artiodactyls
+title: Miscellaneous fossil artiodactyls
 ---
 
 # Miscellaneous fossil artiodactyls

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Vaejovoidea
 title: Vaejovoidea
 ---
 

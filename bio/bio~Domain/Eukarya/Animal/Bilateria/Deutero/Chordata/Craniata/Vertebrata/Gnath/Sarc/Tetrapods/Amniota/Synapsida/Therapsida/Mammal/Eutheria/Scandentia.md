@@ -1,5 +1,4 @@
 ---
-title: Scandentia
 aliases:
   - treeshrews
   - tree shrews
@@ -7,18 +6,21 @@ aliases:
   - treeshrew
   - tree shrew
   - banxring
+  - Scandentia
+  - trespissmus
 has_id_wikidata: Q231550
+title: Scandentia
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]"
-homonymous_taxon: "[[_Standards/WikiData/WD~Scandentia,87182710]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Scandentia,87182710]]'
 start_time: -86200000-01-01T00:00:00Z
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-ITIS_TSN: "552291"
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+ITIS_TSN: 552291
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Bayu%20Gita-Semal.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-Semal.wav

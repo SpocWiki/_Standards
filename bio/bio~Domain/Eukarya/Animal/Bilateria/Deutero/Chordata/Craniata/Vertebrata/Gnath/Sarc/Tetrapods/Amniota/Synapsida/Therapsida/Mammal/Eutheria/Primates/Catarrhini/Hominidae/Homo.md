@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Homo
 title: Homo
 ---
 

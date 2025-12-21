@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Geophilomorpha
 title: Geophilomorpha
 ---
 

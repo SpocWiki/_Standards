@@ -1,5 +1,7 @@
 ---
-title: "Apusomonas australiensis"
+aliases:
+  - australiensis
+title: Apusomonas australiensis
 ---
 
 ## Phylogeny 

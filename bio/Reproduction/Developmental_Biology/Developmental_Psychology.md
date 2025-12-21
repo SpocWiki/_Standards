@@ -2,22 +2,24 @@
 aliases:
   - Developmental psychology
   - Entwicklungspsychologie
+  - Developmental_Psychology
+  - Developmental Psychology
 has_id_wikidata: Q175002
-is_the_study_of: "[[_Standards/WikiData/WD~language_development,2330667]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~child_psychology,3411686]]"
+is_the_study_of: '[[_Standards/WikiData/WD~language_development,2330667]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~child_psychology,3411686]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_psychology,60680430]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Human_psychological_development,67657421]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_psychology,60680430]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Human_psychological_development,67657421]]'
 part_of:
-  - "[[_Standards/WikiData/WD~applied_and_developmental_psychology,113043917]]"
-  - "[[_Standards/WikiData/WD~psychology,9418]]"
-practiced_by: "[[_Standards/WikiData/WD~developmental_psychologist,122658333]]"
-subclass_of: "[[_Standards/WikiData/WD~psychology,9418]]"
-Dewey_Decimal_Classification: "155"
-All_Science_Journal_Classification_Codes: "3204"
+  - '[[_Standards/WikiData/WD~applied_and_developmental_psychology,113043917]]'
+  - '[[_Standards/WikiData/WD~psychology,9418]]'
+practiced_by: '[[_Standards/WikiData/WD~developmental_psychologist,122658333]]'
+subclass_of: '[[_Standards/WikiData/WD~psychology,9418]]'
+Dewey_Decimal_Classification: 155
+All_Science_Journal_Classification_Codes: 3204
 Stack_Exchange_tag: https://psychology.stackexchange.com/tags/developmental-psychology
 UMLS_CUI: C1511810
 Commons_category: Developmental psychology

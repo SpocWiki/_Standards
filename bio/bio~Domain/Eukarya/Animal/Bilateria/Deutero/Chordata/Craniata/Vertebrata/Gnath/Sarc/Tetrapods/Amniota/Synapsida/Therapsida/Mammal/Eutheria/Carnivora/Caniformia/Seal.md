@@ -4,18 +4,18 @@ aliases:
   - Pinnipedia
 has_id_wikidata: Q30263
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-taxon_rank: "[[_Standards/WikiData/WD~infraorder,2889003]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Pinnipedia,25778585]]"
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+taxon_rank: '[[_Standards/WikiData/WD~infraorder,2889003]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Pinnipedia,25778585]]'
 start_time: -24000000-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 longest_observed_lifespan: 46
-ITIS_TSN: "180614"
+ITIS_TSN: 180614
 MCN_code: 0106.12.00
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Common%20seal%20%28Phoca%20vitulina%29%202.jpg
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pinniped%20range.jpg

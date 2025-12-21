@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Mysticeti
 title: Mysticeti
 ---
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Amastigomonas
 title: Amastigomonas
 ---
 

@@ -1,7 +1,8 @@
 ---
 aliases:
-- Umami
-- herzhaft
+  - Umami
+  - herzhaft
+  - Savoriness
 ---
 
 ## #has_/text_of_/abstract 

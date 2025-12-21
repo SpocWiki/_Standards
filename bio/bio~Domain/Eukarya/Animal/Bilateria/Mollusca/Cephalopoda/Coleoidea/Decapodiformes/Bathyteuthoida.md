@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bathyteuthoida
 title: Bathyteuthoida
 ---
 

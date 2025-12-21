@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Heleophryne
 title: Heleophryne
 ---
 

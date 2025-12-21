@@ -1,20 +1,25 @@
 ---
 aliases:
   - Kürbis
+  - Cucurbita
+  - gourd
+  - Pompoen
+  - カボチャ属
+  - 南瓜属
 has_id_wikidata: Q5339301
 described_by_source:
-  - "[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_73(1),112869479]]"
-parent_taxon: "[[../../../../../../../../../../../../../WikiData/WD~Cucurbiteae,5192459]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Cucurbita_pepo,7229863]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~squash_blossom,42293042]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "22365"
+  - '[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_73(1),112869479]]'
+parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Cucurbiteae,5192459]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Cucurbita_pepo,7229863]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~squash_blossom,42293042]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 22365
 taxon_common_name:
   - gourd
   - Pompoen

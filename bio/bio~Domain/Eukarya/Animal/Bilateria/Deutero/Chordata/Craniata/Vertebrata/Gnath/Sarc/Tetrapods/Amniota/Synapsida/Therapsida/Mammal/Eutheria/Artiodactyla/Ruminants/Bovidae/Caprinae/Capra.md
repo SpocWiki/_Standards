@@ -1,22 +1,22 @@
 ---
-title: Capra
 aliases:
   - Capra
   - Goat
 has_id_wikidata: Q172923
+title: Capra
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-different_from: "[[_Standards/WikiData/WD~Capra,12786688]]"
-parent_taxon: "[[_Standards/WikiData/WD~Caprini,19806047]]"
+  - '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Capra,12786688]]'
+parent_taxon: '[[_Standards/WikiData/WD~Caprini,19806047]]'
 start_time: -2600000-06
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "180714"
-OmegaWiki_Defined_Meaning: "1033135"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 180714
+OmegaWiki_Defined_Meaning: 1033135
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Sebastian%20Wallroth-Ziegen.wav
 taxon_author_citation: Linnaeus, 1758
 Commons_gallery: Capra
@@ -25,7 +25,7 @@ taxon_name: Capra
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bouquetin01.jpg
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Capra%20range%20map2.jpg
 EPPO_Code: 1CAPAG
-P8189: "987007283348305171"
+P8189: 987007283348305171
 Krugosvet_article: nauka_i_tehnika/biologiya/KOZLI.html
 NBN_System_Key: NHMSYS0000376187
 ---

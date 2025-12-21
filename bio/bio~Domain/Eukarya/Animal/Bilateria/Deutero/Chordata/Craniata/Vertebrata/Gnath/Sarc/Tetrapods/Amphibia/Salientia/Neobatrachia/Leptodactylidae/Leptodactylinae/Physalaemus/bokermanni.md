@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus bokermanni"
+aliases:
+  - bokermanni
+title: Physalaemus bokermanni
 ---
 
 ## Phylogeny 

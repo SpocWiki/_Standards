@@ -2,45 +2,47 @@
 aliases:
   - Vertebrata
   - Vertebrate
+  - virveldyr
+  - 脊椎动物亚门
 has_id_wikidata: Q25241
 Biology_Online_Biology_Dictionary_entry: vertebrata
 Colon_Classification: K9
 Commons_category: Vertebrata
 Commons_gallery: Vertebrata
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 EPPO_Code: 1VERTQ
 equivalent_class: http://kbpedia.org/kko/rc/Vertebrate
 GS1_GPC_code: 89020200
-homonymous_taxon: "[[_Standards/WikiData/WD~Vertebrata,3556237]]"
+homonymous_taxon: '[[_Standards/WikiData/WD~Vertebrata,3556237]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lizard%20on%20leaf%20cutted.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Tiliqua%20scincoides%20scincoides.jpg
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 331030
 MeSH_tree_code: B01.050.150.900
-mode_of_reproduction: "[[_Standards/WikiData/WD~sexual_reproduction,182353]]"
+mode_of_reproduction: '[[_Standards/WikiData/WD~sexual_reproduction,182353]]'
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Vertebrates.png
 OmegaWiki_Defined_Meaning: 3963
-opposite_of: "[[_Standards/WikiData/WD~invertebrate,43806]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25681521,25681521]]"
+opposite_of: '[[_Standards/WikiData/WD~invertebrate,43806]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681521,25681521]]'
 start_time: -525000000-01-01
-studied_by: "[[_Standards/WikiData/WD~vertebrate_zoology,18358830]]"
+studied_by: '[[_Standards/WikiData/WD~vertebrate_zoology,18358830]]'
 taxon_common_name:
   - virveldyr
   - 脊椎动物亚门
 taxon_name: Vertebrata
-taxon_rank: "[[_Standards/WikiData/WD~subphylum,1153785]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~offal,157484]]"
+taxon_rank: '[[_Standards/WikiData/WD~subphylum,1153785]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~offal,157484]]'
 title: Vertebrata
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Taxonomy_Vertebrata,10966653]]"
-  - "[[_Standards/WikiData/WD~Template_Vertebrates,26138979]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+  - '[[_Standards/WikiData/WD~Template_Taxonomy_Vertebrata,10966653]]'
+  - '[[_Standards/WikiData/WD~Template_Vertebrates,26138979]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 ---
 
 # [[Vertebrata]] 

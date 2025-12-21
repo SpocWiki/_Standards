@@ -4,21 +4,23 @@ aliases:
   - completed
   - Completed
   - is_a_completed
+  - Study_is_completed
+  - Study is completed
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalStudyStatus
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - completed
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_completed Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

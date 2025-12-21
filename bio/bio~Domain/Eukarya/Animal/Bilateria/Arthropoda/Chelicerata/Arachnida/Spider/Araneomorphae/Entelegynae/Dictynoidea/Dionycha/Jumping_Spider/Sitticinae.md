@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sitticinae
 title: Sitticinae
 ---
 

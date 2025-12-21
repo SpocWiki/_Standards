@@ -1,6 +1,8 @@
 ---
 aliases:
   - Folivora
+  - Sloth
+  - lenivci
 has_id_wikidata: Q2274076
 parent_taxon: "[[../Pilosa]]"
 described_by_source:
@@ -12,10 +14,10 @@ instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 life_expectancy:
   - 20
   - 30
-ITIS_TSN: "727503"
+ITIS_TSN: 727503
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bradypus.jpg
-U_S_National_Archives_Identifier: "10646247"
-OmegaWiki_Defined_Meaning: "710705"
+U_S_National_Archives_Identifier: 10646247
+OmegaWiki_Defined_Meaning: 710705
 Unicode_character: 🦥
 MeSH_tree_code: B01.050.150.900.649.313.999.750
 UMLS_CUI: C0037331
@@ -27,7 +29,7 @@ subreddit: sloths
 taxon_common_name: lenivci
 ---
 
-# [[Sloth]] 
+# [[Sloth]] 🦥 
 
 #is_/same_as :: [[WD~Sloth,2274076]] 
 

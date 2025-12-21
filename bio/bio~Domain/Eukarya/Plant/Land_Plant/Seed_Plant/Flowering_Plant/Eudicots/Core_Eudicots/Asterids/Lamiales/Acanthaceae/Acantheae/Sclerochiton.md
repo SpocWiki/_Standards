@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sclerochiton
 title: Sclerochiton
 ---
 

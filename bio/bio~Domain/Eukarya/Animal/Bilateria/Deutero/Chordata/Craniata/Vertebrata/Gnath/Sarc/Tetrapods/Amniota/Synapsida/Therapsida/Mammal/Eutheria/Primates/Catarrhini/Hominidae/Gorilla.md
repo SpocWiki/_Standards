@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Gorilla
 title: Gorilla
 ---
 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Blatt
+  - Leaf
 has_id_wikidata: Q33971
 part_of:
   - "[[_Standards/WikiData/WD~bulb,188748]]"
@@ -33,10 +34,10 @@ different_from:
 instance_of: "[[_Standards/WikiData/WD~plant_structure,20011319]]"
 disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 subclass_of: "[[_Standards/WikiData/WD~plant_organ,24060707]]"
-OmegaWiki_Defined_Meaning: "1504"
+OmegaWiki_Defined_Meaning: 1504
 IMDb_keyword: leaf
 Commons_category: Leaves
-U_S_National_Archives_Identifier: "10637883"
+U_S_National_Archives_Identifier: 10637883
 Unicode_character:
   - 🍃
   - 🍂
@@ -49,7 +50,7 @@ name: nate
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leaf%20Varieties%20%2815%20sp%29.png
 ---
 
-# [[Leaf]] 
+# [[Leaf]] 🍃 
 
 #is_/same_as :: [[WD~Leaf,33971]] 
 

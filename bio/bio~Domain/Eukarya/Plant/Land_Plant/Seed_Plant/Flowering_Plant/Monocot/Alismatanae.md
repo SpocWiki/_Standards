@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Alismatanae
 title: Alismatanae
 ---
 

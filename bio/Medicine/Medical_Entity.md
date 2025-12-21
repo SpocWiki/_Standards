@@ -4,20 +4,22 @@ aliases:
   - medical_entity
   - MedicalEntity
   - is_a_medical_entity
+  - Medical_Entity
+  - Medical Entity
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_entity
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_entity Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

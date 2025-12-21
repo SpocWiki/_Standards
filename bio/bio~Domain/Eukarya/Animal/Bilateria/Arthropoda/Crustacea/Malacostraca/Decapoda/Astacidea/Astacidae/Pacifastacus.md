@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Pacifastacus
 title: Pacifastacus
 ---
 

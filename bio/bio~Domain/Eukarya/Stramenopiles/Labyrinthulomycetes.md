@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Labyrinthulomycetes
 title: Labyrinthulomycetes
 ---
 

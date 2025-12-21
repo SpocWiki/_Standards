@@ -1,28 +1,30 @@
 ---
 aliases:
-- infectious-agent-class
-- infectious_agent_class
-- InfectiousAgentClass
-- is_an_infectious_agent_class
+  - infectious-agent-class
+  - infectious_agent_class
+  - InfectiousAgentClass
+  - is_an_infectious_agent_class
+  - Infectious_Agent
+  - Infectious Agent
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- infectious_agent_class
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_infectious_agent_class Class"
+  - infectious_agent_class
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_an_infectious_agent_class Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Class
-- schema-org/Class
-- class/infectious_agent
-title: "is_an_infectious_agent_class Class"
+  - class/Class
+  - schema-org/Class
+  - class/infectious_agent
+title: is_an_infectious_agent_class Class
 type: Type
 ---
 

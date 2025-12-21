@@ -1,6 +1,29 @@
 ---
 aliases:
   - "Canis lupus; pl.: wolves"
+  - Wolf
+  - vlk obecný
+  - common wolf
+  - timber wolf
+  - Gray Wolf
+  - Lobo gris
+  - Loup commun
+  - Loup vulgaire
+  - lupo grigio
+  - wilk szary
+  - ulv
+  - wolf
+  - gråvarg
+  - loup
+  - 狼
+  - varg
+  - Wolfe
+  - susi
+  - wilk
+  - Lobo
+  - Grey Wolf
+  - Loup gris
+  - オオカミ
 has_id_wikidata: Q18498
 main_food_source:
   - "[[_Standards/WikiData/WD~red_deer,79794]]"
@@ -120,8 +143,8 @@ taxon_common_name:
   - オオカミ
   - Lobo
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Canis%20lupus%20distribution%20%28IUCN%29.png
-ITIS_TSN: "180596"
-OmegaWiki_Defined_Meaning: "158033"
+ITIS_TSN: 180596
+OmegaWiki_Defined_Meaning: 158033
 Commons_gallery: Canis lupus
 Commons_category: Canis lupus
 taxon_name: Canis lupus
@@ -137,7 +160,7 @@ UMLS_CUI: C1510418
 EPPO_Code: CANILU
 ---
 
-# [[Wolf]] 
+# [[Wolf]] 🐺 
 
 #is_/same_as :: [[WD~Wolf,18498]] 
 

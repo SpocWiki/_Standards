@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bilateria
 title: Bilateria
 ---
 

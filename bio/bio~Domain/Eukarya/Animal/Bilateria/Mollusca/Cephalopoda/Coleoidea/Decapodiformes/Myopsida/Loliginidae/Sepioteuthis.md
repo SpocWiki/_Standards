@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sepioteuthis
 title: Sepioteuthis
 ---
 

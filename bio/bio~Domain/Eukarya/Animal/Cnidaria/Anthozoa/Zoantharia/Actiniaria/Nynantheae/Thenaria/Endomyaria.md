@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Endomyaria
 title: Endomyaria
 ---
 

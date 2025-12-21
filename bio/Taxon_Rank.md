@@ -3,6 +3,8 @@ aliases:
   - taxonomic rank
   - taxon rank
   - nomenclatural rank
+  - Taxon_Rank
+  - Taxon Rank
 ---
 
 # [[Taxon_Rank]] 

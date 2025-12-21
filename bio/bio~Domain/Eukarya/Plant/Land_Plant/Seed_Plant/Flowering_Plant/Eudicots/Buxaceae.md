@@ -1,9 +1,9 @@
 ---
 aliases:
-- Buchsbaum
-- Buchsbaumgewächs
-- Buxaceae
-- Buxus
+  - Buchsbaum
+  - Buchsbaumgewächs
+  - Buxaceae
+  - Buxus
 title: Buxaceae
 ---
 

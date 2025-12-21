@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Physalaemus
 title: Physalaemus
 ---
 

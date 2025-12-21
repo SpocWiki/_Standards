@@ -3,6 +3,7 @@ aliases:
   - Klonen
   - Klon
   - Clone
+  - Cloning
 has_id_wikidata: Q120877
 ---
 

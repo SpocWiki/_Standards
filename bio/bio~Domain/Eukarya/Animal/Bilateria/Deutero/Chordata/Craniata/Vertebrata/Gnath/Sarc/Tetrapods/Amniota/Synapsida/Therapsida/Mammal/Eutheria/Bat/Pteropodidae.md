@@ -3,19 +3,20 @@ aliases:
   - fruit bats
   - Old World fruit bats
   - flying fox
+  - Pteropodidae
 has_id_wikidata: Q185230
-taxonomic_type: "[[_Standards/WikiData/WD~Pteropus,1241332]]"
-diel_cycle: "[[_Standards/WikiData/WD~crepuscular,3255068]]"
-natural_reservoir_of: "[[_Standards/WikiData/WD~Ebolavirus,5331908]]"
+taxonomic_type: '[[_Standards/WikiData/WD~Pteropus,1241332]]'
+diel_cycle: '[[_Standards/WikiData/WD~crepuscular,3255068]]'
+natural_reservoir_of: '[[_Standards/WikiData/WD~Ebolavirus,5331908]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
 Commons_gallery: Pteropodidae
 Commons_category: Pteropodidae
 taxon_name: Pteropodidae
-ITIS_TSN: "180029"
+ITIS_TSN: 180029
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pteropodidae%20distribution.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pteropus%20conspicillatus.jpg
 EPPO_Code: 1PTPOF

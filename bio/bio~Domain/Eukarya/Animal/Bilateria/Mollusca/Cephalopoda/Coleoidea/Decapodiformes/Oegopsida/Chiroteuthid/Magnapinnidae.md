@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Magnapinnidae
 title: Magnapinna
 ---
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Deomyinae
 title: Deomyinae
 ---
 

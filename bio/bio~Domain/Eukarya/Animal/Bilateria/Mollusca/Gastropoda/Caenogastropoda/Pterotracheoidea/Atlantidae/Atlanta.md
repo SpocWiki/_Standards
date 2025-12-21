@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Atlanta
 title: Atlanta
 ---
 

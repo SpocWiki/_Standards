@@ -1,29 +1,31 @@
 ---
 aliases:
   - Weiße Blutkörperchen
+  - White_Blood_Cell
+  - White Blood Cell
 has_id_wikidata: Q42395
 has_part_s_:
-  - "[[_Standards/WikiData/WD~eosinophil,107238]]"
-  - "[[_Standards/WikiData/WD~monocyte,107244]]"
-  - "[[_Standards/WikiData/WD~basophil,107988]]"
-  - "[[_Standards/WikiData/WD~neutrophil,188417]]"
-  - "[[_Standards/WikiData/WD~lymphocyte,715347]]"
-instance_of: "[[_Standards/WikiData/WD~cell_type,189118]]"
+  - '[[_Standards/WikiData/WD~eosinophil,107238]]'
+  - '[[_Standards/WikiData/WD~monocyte,107244]]'
+  - '[[_Standards/WikiData/WD~basophil,107988]]'
+  - '[[_Standards/WikiData/WD~neutrophil,188417]]'
+  - '[[_Standards/WikiData/WD~lymphocyte,715347]]'
+instance_of: '[[_Standards/WikiData/WD~cell_type,189118]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~blood_cell,211709]]"
-  - "[[_Standards/WikiData/WD~differentiated_hemal_cell,66568348]]"
-  - "[[_Standards/WikiData/WD~immune_cell,104524156]]"
+  - '[[_Standards/WikiData/WD~blood_cell,211709]]'
+  - '[[_Standards/WikiData/WD~differentiated_hemal_cell,66568348]]'
+  - '[[_Standards/WikiData/WD~immune_cell,104524156]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-different_from: "[[_Standards/WikiData/WD~white_blood_cell_count,52307097]]"
-part_of: "[[_Standards/WikiData/WD~blood,7873]]"
-OmegaWiki_Defined_Meaning: "1074142"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~white_blood_cell_count,52307097]]'
+part_of: '[[_Standards/WikiData/WD~blood,7873]]'
+OmegaWiki_Defined_Meaning: 1074142
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Immunzellen%20des%20menschlichen%20K%C3%B6rpers.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Large%20granulated%20lymphocyte-9.JPG
-Dewey_Decimal_Classification: "612.112"
-P8189: "987007563020705171"
+Dewey_Decimal_Classification: 612.112
+P8189: 987007563020705171
 MeSH_tree_code:
   - A11.118.637
   - A15.145.229.637

@@ -1,10 +1,12 @@
 ---
 aliases:
   - Homo erectus pekinensis
+  - Peking_Man
+  - Peking Man
 has_id_wikidata: Q45931
-taxon_rank: "[[_Standards/WikiData/WD~subspecies,68947]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
+taxon_rank: '[[_Standards/WikiData/WD~subspecies,68947]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
 start_time: -500000-01-01T00:00:00Z
 Commons_category: Peking Man
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sinathropus%20pekinensis.jpg

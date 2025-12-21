@@ -1,5 +1,7 @@
 ---
-title: "Ocythoe tuberculata"
+aliases:
+  - Ocythoidae
+title: Ocythoe tuberculata
 ---
 
 ## Phylogeny 

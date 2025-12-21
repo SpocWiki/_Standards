@@ -1,6 +1,8 @@
 ---
 aliases:
   - Lama_glama
+  - Llama
+  - lama andyjska
 has_id_wikidata: Q42569
 described_by_source:
   - "[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -27,12 +29,12 @@ instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 litter_size: 1
 longest_observed_lifespan: 28.9
 gestation_period: 358
-OmegaWiki_Defined_Meaning: "666574"
-ITIS_TSN: "625028"
+OmegaWiki_Defined_Meaning: 666574
+ITIS_TSN: 625028
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/18-08-25-%C3%85land%20RRK6596a.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lama%20glama%20Laguna%20Colorada%202.jpg
-U_S_National_Archives_Identifier: "10646476"
+U_S_National_Archives_Identifier: 10646476
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lama%20glama%20Vicugna%20pacos%20range.png
 sequenced_genome_URL: https://www.dnazoo.org/assemblies/Lama_glama
 UNII: 4451E3NH98
@@ -50,7 +52,7 @@ short_name: L. glama
 taxon_common_name: lama andyjska
 ---
 
-# [[Llama]] 
+# [[Llama]] 🦙 
 
 #is_/same_as :: [[WD~Lama_glama,42569]]
 

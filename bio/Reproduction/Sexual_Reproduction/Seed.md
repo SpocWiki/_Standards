@@ -3,34 +3,35 @@ aliases:
   - seeds
   - Samen
   - Saat
+  - Seed
 has_id_wikidata: Q40763
 has_part_s_:
-  - "[[_Standards/WikiData/WD~cotyledon,193026]]"
-  - "[[_Standards/WikiData/WD~epicotyl,1347099]]"
-  - "[[_Standards/WikiData/WD~germ,1377980]]"
-  - "[[_Standards/WikiData/WD~seed_coat,2217063]]"
-  - "[[_Standards/WikiData/WD~endosperm,25624]]"
-develops_from: "[[_Standards/WikiData/WD~ovule,380138]]"
+  - '[[_Standards/WikiData/WD~cotyledon,193026]]'
+  - '[[_Standards/WikiData/WD~epicotyl,1347099]]'
+  - '[[_Standards/WikiData/WD~germ,1377980]]'
+  - '[[_Standards/WikiData/WD~seed_coat,2217063]]'
+  - '[[_Standards/WikiData/WD~endosperm,25624]]'
+develops_from: '[[_Standards/WikiData/WD~ovule,380138]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q13156346,13156346]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q13156346,13156346]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~plant_structure,20011319]]"
-  - "[[_Standards/WikiData/WD~food,2095]]"
-different_from: "[[_Standards/WikiData/WD~seed,100275245]]"
-OmegaWiki_Defined_Meaning: "3361"
+  - '[[_Standards/WikiData/WD~plant_structure,20011319]]'
+  - '[[_Standards/WikiData/WD~food,2095]]'
+different_from: '[[_Standards/WikiData/WD~seed,100275245]]'
+OmegaWiki_Defined_Meaning: 3361
 Commons_gallery: Seeds
 Commons_category: Seeds
 Dewey_Decimal_Classification:
-  - "631.521"
-  - "575.68"
-  - "581.467"
-  - "631.531"
+  - 631.521
+  - 575.68
+  - 581.467
+  - 631.531
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%B5%20%D1%81%D0%B5%D0%BC%D1%8F%D0%BD.jpg
-Common_Procurement_Vocabulary_code: "03111000"
+Common_Procurement_Vocabulary_code: 03111000
 Krugosvet_article: biologiya/semya
 ---
 

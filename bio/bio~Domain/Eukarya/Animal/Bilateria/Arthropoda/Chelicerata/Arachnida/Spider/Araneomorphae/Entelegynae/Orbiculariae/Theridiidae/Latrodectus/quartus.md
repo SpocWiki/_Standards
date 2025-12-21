@@ -1,5 +1,7 @@
 ---
-title: "Latrodectus quartus"
+aliases:
+  - quartus
+title: Latrodectus quartus
 ---
 
 ## Phylogeny 

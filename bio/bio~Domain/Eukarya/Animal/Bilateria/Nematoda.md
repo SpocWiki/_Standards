@@ -2,28 +2,34 @@
 aliases:
   - Nematode
   - Nematoda
+  - Fadenwürmer
+  - roundworm
+  - nématode
+  - rundormer
+  - Rondwormen
+  - gliste
+has_id_wikidata: Q5185
 Biology_Online_Biology_Dictionary_entry: nematoda
 Commons_category: Nematoda
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-different_from: "[[_Standards/WikiData/WD~Nematodes,21445586]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+different_from: '[[_Standards/WikiData/WD~Nematodes,21445586]]'
 EPPO_Code: 1NEMAP
 exact_match: http://wordnet-rdf.princeton.edu/wn30/01930112-n
-has_id_wikidata: Q5185
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Soybean%20cyst%20nematode%20and%20egg%20SEM.jpg
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 59490
 Krugosvet_article: biologiya/kruglye-chervi
 MeSH_tree_code: B01.050.500.500.294
 OmegaWiki_Defined_Meaning: 951208
-parent_taxon: "[[_Standards/WikiData/WD~Ecdysozoa,5176]]"
+parent_taxon: '[[_Standards/WikiData/WD~Ecdysozoa,5176]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B8%E0%A7%81%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%83%E0%A6%AE%E0%A6%BF.wav
 start_time: -525000000-01-01
-studied_in: "[[_Standards/WikiData/WD~nematology,2355208]]"
-subclass_of: "[[_Standards/WikiData/WD~worm,47253]]"
+studied_in: '[[_Standards/WikiData/WD~nematology,2355208]]'
+subclass_of: '[[_Standards/WikiData/WD~worm,47253]]'
 taxon_common_name:
   - Fadenwürmer
   - roundworm
@@ -32,9 +38,9 @@ taxon_common_name:
   - Rondwormen
   - gliste
 taxon_name: Nematoda
-taxon_rank: "[[_Standards/WikiData/WD~phylum,38348]]"
+taxon_rank: '[[_Standards/WikiData/WD~phylum,38348]]'
 title: Nematoda
-topic_s_main_category: "[[_Standards/WikiData/WD~Q9038399,9038399]]"
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9038399,9038399]]'
 UMLS_CUI:
   - C1704319
   - C0027581

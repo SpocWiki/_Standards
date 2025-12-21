@@ -1,7 +1,7 @@
 ---
 aliases:
-- "Placental Mammals"
-- Eutheria
+  - Placental Mammals
+  - Eutheria
 title: Eutheria
 ---
 

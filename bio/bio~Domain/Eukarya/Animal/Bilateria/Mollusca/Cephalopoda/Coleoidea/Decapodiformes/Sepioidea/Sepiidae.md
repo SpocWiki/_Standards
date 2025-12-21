@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sepiidae
 title: Sepiidae
 ---
 

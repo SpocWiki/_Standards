@@ -1,5 +1,7 @@
 ---
-title: "Chtenopteryx sicula"
+aliases:
+  - sicula
+title: Chtenopteryx sicula
 ---
 
 ## Phylogeny 

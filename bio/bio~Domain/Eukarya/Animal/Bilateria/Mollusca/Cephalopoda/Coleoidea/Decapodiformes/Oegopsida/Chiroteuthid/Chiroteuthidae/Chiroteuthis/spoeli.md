@@ -1,5 +1,7 @@
 ---
-title: "Chiroteuthis spoeli"
+aliases:
+  - spoeli
+title: Chiroteuthis spoeli
 ---
 
 ## Phylogeny 

@@ -1,5 +1,8 @@
 ---
-title: "Rana ridibunda"
+aliases:
+  - Rana_ridibunda
+  - Rana ridibunda
+title: Rana ridibunda
 ---
 
 # [[Rana_ridibunda]] 

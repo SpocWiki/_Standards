@@ -7,12 +7,14 @@ aliases:
   - Füllung
   - Zahnfüllungen
   - Füllungen
+  - Dental_Restoration
+  - Dental Restoration
 has_id_wikidata: Q907359
 subclass_of:
-  - "[[_Standards/WikiData/WD~restorative_dentistry,7316230]]"
-  - "[[_Standards/WikiData/WD~dentistry,12128]]"
-instance_of: "[[_Standards/WikiData/WD~dental_specialty,7574929]]"
-described_by_source: "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - '[[_Standards/WikiData/WD~restorative_dentistry,7316230]]'
+  - '[[_Standards/WikiData/WD~dentistry,12128]]'
+instance_of: '[[_Standards/WikiData/WD~dental_specialty,7574929]]'
+described_by_source: '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 short_name: OC
 WordLift_URL:
   - http://data.medicalrecords.com/medicalrecords/healthwise/fillings_restorations

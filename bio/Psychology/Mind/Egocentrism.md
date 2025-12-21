@@ -3,14 +3,15 @@ aliases:
   - Egozentrik
   - Egozentrisch
   - egocentric
+  - Egocentrism
 has_id_wikidata: Q463910
 different_from:
-  - "[[_Standards/WikiData/WD~narcissism,186529]]"
-  - "[[_Standards/WikiData/WD~egoism,238350]]"
-subclass_of: "[[_Standards/WikiData/WD~personality_trait,2393196]]"
+  - '[[_Standards/WikiData/WD~narcissism,186529]]'
+  - '[[_Standards/WikiData/WD~egoism,238350]]'
+subclass_of: '[[_Standards/WikiData/WD~personality_trait,2393196]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 ---
 
 # [[Egocentrism]] 

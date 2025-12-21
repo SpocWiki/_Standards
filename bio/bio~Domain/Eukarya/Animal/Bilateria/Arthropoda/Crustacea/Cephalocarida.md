@@ -1,6 +1,7 @@
 ---
 aliases:
-- "horseshoe shrimp"
+  - horseshoe shrimp
+  - Cephalocarida
 title: Cephalocarida
 ---
 

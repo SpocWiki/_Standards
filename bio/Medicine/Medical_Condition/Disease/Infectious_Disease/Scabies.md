@@ -1,43 +1,44 @@
 ---
 aliases:
   - Krätze
+  - Scabies
 has_id_wikidata: Q167178
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~itch,199602]]"
-  - "[[_Standards/WikiData/WD~rash,653197]]"
-  - "[[_Standards/WikiData/WD~fever,38933]]"
+  - '[[_Standards/WikiData/WD~itch,199602]]'
+  - '[[_Standards/WikiData/WD~rash,653197]]'
+  - '[[_Standards/WikiData/WD~fever,38933]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~lindane,282003]]"
-  - "[[_Standards/WikiData/WD~permethrin,411635]]"
-  - "[[_Standards/WikiData/WD~ivermectin,415178]]"
-  - "[[_Standards/WikiData/WD~piperonyl_butoxide,420891]]"
-  - "[[_Standards/WikiData/WD~(E)_crotamiton,2439845]]"
+  - '[[_Standards/WikiData/WD~lindane,282003]]'
+  - '[[_Standards/WikiData/WD~permethrin,411635]]'
+  - '[[_Standards/WikiData/WD~ivermectin,415178]]'
+  - '[[_Standards/WikiData/WD~piperonyl_butoxide,420891]]'
+  - '[[_Standards/WikiData/WD~(E)_crotamiton,2439845]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~acariasis,337998]]"
-  - "[[_Standards/WikiData/WD~neglected_tropical_disease,929451]]"
-  - "[[_Standards/WikiData/WD~skin_infection,2458539]]"
-  - "[[_Standards/WikiData/WD~acarodermatitis,4059324]]"
-  - "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-has_cause: "[[_Standards/WikiData/WD~Sarcoptes_scabiei,500869]]"
+  - '[[_Standards/WikiData/WD~acariasis,337998]]'
+  - '[[_Standards/WikiData/WD~neglected_tropical_disease,929451]]'
+  - '[[_Standards/WikiData/WD~skin_infection,2458539]]'
+  - '[[_Standards/WikiData/WD~acarodermatitis,4059324]]'
+  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
+has_cause: '[[_Standards/WikiData/WD~Sarcoptes_scabiei,500869]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-health_specialty: "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-different_from: "[[_Standards/WikiData/WD~Gurr,5620258]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+different_from: '[[_Standards/WikiData/WD~Gurr,5620258]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-afflicts: "[[_Standards/WikiData/WD~human,5]]"
-DiseasesDB: "11841"
+  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+afflicts: '[[_Standards/WikiData/WD~human,5]]'
+DiseasesDB: 11841
 ICD_10_CM: B86
-OmegaWiki_Defined_Meaning: "1071412"
-ICD_9_CM: "133.0"
+OmegaWiki_Defined_Meaning: 1071412
+ICD_9_CM: 133.0
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%95%E0%AC%BE%E0%AC%9B%E0%AD%81.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sarcoptes%20scabei%202.jpg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Scabies%20LifeCycle.gif

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Discoglossidae
 title: Discoglossidae
 ---
 

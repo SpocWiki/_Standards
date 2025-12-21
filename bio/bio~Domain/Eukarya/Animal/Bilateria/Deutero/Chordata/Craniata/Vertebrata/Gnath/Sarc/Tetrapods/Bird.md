@@ -5,6 +5,12 @@ aliases:
   - Birds
   - Vogel
   - Vögel
+  - birds
+  - fugler
+  - 鳥
+  - ptiči
+  - chiáu
+has_id_wikidata: Q5113
 Archive_of_Our_Own_tag: Birds
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Tooth-billed%20Catbird%20audio09.ogg
 code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
@@ -37,7 +43,6 @@ hashtag:
   - bird
   - birds
   - birb
-has_id_wikidata: Q5113
 has_list: "[[_Standards/WikiData/WD~list_of_birds,28854985]]"
 IAB_code: 423
 Iconclass_notation: 25F3
@@ -84,7 +89,7 @@ U_S_National_Archives_Identifier: 10639913
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_birds,6210059]]"
 ---
 
-# [[Bird]](Aves)
+# [[Bird]](Aves) 🐦 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Bird,5113|WD~Bird,5113]]
 ## #has_/text_of_/abstract 

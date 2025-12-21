@@ -1,10 +1,12 @@
 ---
-title: Xerinae
+aliases:
+  - Xerinae
 has_id_wikidata: Q53112
-taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
-parent_taxon: "[[_Standards/WikiData/WD~squirrel,9482]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-ITIS_TSN: "930206"
+title: Xerinae
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
+parent_taxon: '[[_Standards/WikiData/WD~squirrel,9482]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 930206
 Commons_gallery: Xerinae
 Commons_category: Xerinae
 taxon_name: Xerinae

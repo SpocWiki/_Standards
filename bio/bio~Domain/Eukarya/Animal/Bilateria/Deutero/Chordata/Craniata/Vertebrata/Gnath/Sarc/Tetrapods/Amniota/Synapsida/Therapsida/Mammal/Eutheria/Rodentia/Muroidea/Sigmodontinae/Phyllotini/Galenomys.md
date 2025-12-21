@@ -1,5 +1,7 @@
 ---
-title: "Galenomys garleppi"
+aliases:
+  - Galenomys
+title: Galenomys garleppi
 ---
 
 ## Phylogeny 

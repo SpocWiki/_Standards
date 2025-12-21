@@ -1,5 +1,8 @@
 ---
-title: "Rana cretensis"
+aliases:
+  - Rana_cretensis
+  - Rana cretensis
+title: Rana cretensis
 ---
 
 # [[Rana_cretensis]] 

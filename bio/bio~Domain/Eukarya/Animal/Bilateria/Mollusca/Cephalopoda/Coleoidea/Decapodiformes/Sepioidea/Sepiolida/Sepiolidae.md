@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sepiolidae
 title: Sepiolidae
 ---
 

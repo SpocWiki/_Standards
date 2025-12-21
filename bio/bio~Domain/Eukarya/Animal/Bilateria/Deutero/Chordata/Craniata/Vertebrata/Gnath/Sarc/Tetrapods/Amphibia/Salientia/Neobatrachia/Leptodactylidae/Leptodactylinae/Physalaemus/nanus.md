@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus nanus"
+aliases:
+  - nanus
+title: Physalaemus nanus
 ---
 
 ## Phylogeny 

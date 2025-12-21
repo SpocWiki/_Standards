@@ -2,22 +2,46 @@
 aliases:
   - Lizard
   - Lacertilia
+  - Echsen
+  - Lizards
+  - Ящерицы
+  - ještěři
+  - Madfall
+  - Saurios
+  - Liskot
+  - Lézards
+  - Gyíkok
+  - Մողեսներ
+  - Lucertole
+  - トカゲ亜目
+  - Øgle
+  - Hagedissen
+  - Jaszczurki
+  - Lagartos
+  - kuščarji
+  - Ödlor
+  - กะปอม
+  - กิ้งก่า
+  - Kertenkeleler
+  - Ящірки
+  - Ligaóra
+  - Lusèrtola
 has_id_wikidata: Q15879
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - '[[../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-taxon_rank: "[[_Standards/WikiData/WD~suborder,5867959]]"
-studied_by: "[[_Standards/WikiData/WD~saurology,111389636]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-ITIS_TSN: "173862"
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+taxon_rank: '[[_Standards/WikiData/WD~suborder,5867959]]'
+studied_by: '[[_Standards/WikiData/WD~saurology,111389636]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 173862
 taxon_common_name:
   - Echsen
   - Lizards

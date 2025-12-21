@@ -1,25 +1,26 @@
 ---
 aliases:
   - Kannibalismus
+  - Cannibalism
 has_id_wikidata: Q44595
 subclass_of:
-  - "[[_Standards/WikiData/WD~predation,170430]]"
-  - "[[_Standards/WikiData/WD~feeding_behavior,14819856]]"
-has_part_s_: "[[_Standards/WikiData/WD~eating,213449]]"
+  - '[[_Standards/WikiData/WD~predation,170430]]'
+  - '[[_Standards/WikiData/WD~feeding_behavior,14819856]]'
+has_part_s_: '[[_Standards/WikiData/WD~eating,213449]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-different_from: "[[_Standards/WikiData/WD~human_cannibalism,2853058]]"
-characteristic_of: "[[_Standards/WikiData/WD~congener,27342414]]"
-practiced_by: "[[_Standards/WikiData/WD~cannibal,60526706]]"
-OmegaWiki_Defined_Meaning: "911615"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+different_from: '[[_Standards/WikiData/WD~human_cannibalism,2853058]]'
+characteristic_of: '[[_Standards/WikiData/WD~congener,27342414]]'
+practiced_by: '[[_Standards/WikiData/WD~cannibal,60526706]]'
+OmegaWiki_Defined_Meaning: 911615
 Provenio_UUID: 5ce11acc-c5c2-438a-a454-d8155d97755d
 Iconclass_notation: 41C9
 Archive_of_Our_Own_tag: Cannibalism
 Commons_category: Cannibalism
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cannibalism%20during%20Russian%20famine%201921.jpg
-P8189: "987007283359605171"
+P8189: 987007283359605171
 UMLS_CUI: C0006875
 MeSH_tree_code: F01.145.113.547.200
 ---

@@ -3,21 +3,23 @@ aliases:
   - case-series_Study
   - case_series_Study
   - is_a_case_series_Study
+  - Case_Series_Study
+  - Case Series Study
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalObservationalStudyDesign
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - case_series
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_case_series Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,7 +1,8 @@
 ---
 aliases:
   - Kastanie
-has_id_wikidata:
+  - Chestnut
+has_id_wikidata: ''
 ---
 
 # [[Chestnut]] 

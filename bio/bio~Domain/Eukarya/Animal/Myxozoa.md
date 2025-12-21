@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Myxozoa
 title: Myxozoa
 ---
 

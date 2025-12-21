@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Platyrrhini
 title: Platyrrhini
 ---
 

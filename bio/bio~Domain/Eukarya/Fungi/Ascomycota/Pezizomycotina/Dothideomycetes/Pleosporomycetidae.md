@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Pleosporomycetidae
 title: Pleosporomycetidae
 ---
 

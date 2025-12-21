@@ -1,21 +1,22 @@
 ---
 aliases:
   - Chihuahueño
+  - Chihuahua
 has_id_wikidata: Q653
-different_from: "[[_Standards/WikiData/WD~Chihuahua,860671]]"
-named_after: "[[_Standards/WikiData/WD~Chihuahua,655]]"
-country_of_origin: "[[_Standards/WikiData/WD~Mexico,96]]"
-subclass_of: "[[_Standards/WikiData/WD~dog,144]]"
+different_from: '[[_Standards/WikiData/WD~Chihuahua,860671]]'
+named_after: '[[_Standards/WikiData/WD~Chihuahua,655]]'
+country_of_origin: '[[_Standards/WikiData/WD~Mexico,96]]'
+subclass_of: '[[_Standards/WikiData/WD~dog,144]]'
 mass:
   - 1.5
   - 2.5
 litter_size: 3.2
 has_use:
-  - "[[_Standards/WikiData/WD~companion_dog,38499]]"
-  - "[[_Standards/WikiData/WD~lap_dog,38914]]"
-instance_of: "[[_Standards/WikiData/WD~dog_breed,39367]]"
-catalog_code: "218"
-OmegaWiki_Defined_Meaning: "646166"
+  - '[[_Standards/WikiData/WD~companion_dog,38499]]'
+  - '[[_Standards/WikiData/WD~lap_dog,38914]]'
+instance_of: '[[_Standards/WikiData/WD~dog_breed,39367]]'
+catalog_code: 218
+OmegaWiki_Defined_Meaning: 646166
 Commons_gallery: Chihuahua (dog)
 Commons_category: Chihuahua (dog)
 subreddit: Chihuahua
@@ -24,7 +25,7 @@ exact_match:
   - http://wordnet-rdf.princeton.edu/wn30/02085620-n
   - http://wordnet-rdf.princeton.edu/wn31/102088394-n
   - https://www.dogmal.com/different-colors-of-long-haired-chihuahua/
-P8189: "987007285516805171"
+P8189: 987007285516805171
 Library_of_Congress_Classification: SF429.C45
 ---
 # [[Chihuahua]] 

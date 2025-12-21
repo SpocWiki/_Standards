@@ -1,19 +1,20 @@
 ---
 aliases:
   - Syndrom
+  - Syndrome
 has_id_wikidata: Q179630
-has_part_s_: "[[_Standards/WikiData/WD~symptom,169872]]"
+has_part_s_: '[[_Standards/WikiData/WD~symptom,169872]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~symptom,169872]]"
-  - "[[_Standards/WikiData/WD~physiological_condition,7189713]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
+  - '[[_Standards/WikiData/WD~symptom,169872]]'
+  - '[[_Standards/WikiData/WD~physiological_condition,7189713]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~umbrella_term,210588]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-  - "[[_Standards/WikiData/WD~symptom_type,130753312]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-OmegaWiki_Defined_Meaning: "348605"
+  - '[[_Standards/WikiData/WD~umbrella_term,210588]]'
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+  - '[[_Standards/WikiData/WD~symptom_type,130753312]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+OmegaWiki_Defined_Meaning: 348605
 exact_match:
   - http://identifiers.org/doid/DOID:225
   - http://purl.obolibrary.org/obo/DOID_225

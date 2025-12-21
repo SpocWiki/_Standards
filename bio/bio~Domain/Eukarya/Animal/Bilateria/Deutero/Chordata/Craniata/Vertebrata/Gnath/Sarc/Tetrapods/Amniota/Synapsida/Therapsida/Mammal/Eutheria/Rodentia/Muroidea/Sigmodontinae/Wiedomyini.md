@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Wiedomyini
 title: Wiedomyini
 ---
 

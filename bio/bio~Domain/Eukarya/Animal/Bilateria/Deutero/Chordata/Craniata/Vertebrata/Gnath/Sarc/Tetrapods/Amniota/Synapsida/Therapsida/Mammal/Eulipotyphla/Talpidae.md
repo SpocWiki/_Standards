@@ -1,24 +1,31 @@
 ---
 aliases:
   - Talpidae
+  - Maulwürfe
+  - Talpedoj
+  - モグラ科
+  - ติ่ง
+  - ตุ่น
+  - Köstebekgiller
+  - Кроти
 has_id_wikidata: Q104825
 main_food_source:
-  - "[[_Standards/WikiData/WD~caterpillar,81825]]"
-  - "[[_Standards/WikiData/WD~chrysalis,1781247]]"
-  - "[[_Standards/WikiData/WD~worm,47253]]"
-has_use: "[[_Standards/WikiData/WD~biological_pest_control,116890]]"
+  - '[[_Standards/WikiData/WD~caterpillar,81825]]'
+  - '[[_Standards/WikiData/WD~chrysalis,1781247]]'
+  - '[[_Standards/WikiData/WD~worm,47253]]'
+has_use: '[[_Standards/WikiData/WD~biological_pest_control,116890]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q9136422,9136422]]"
-parent_taxon: "[[../../../../../../../../../../../../../../../../../WikiData/WD~Eulipotyphla,16635184]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~Q118587591,118587591]]"
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "179962"
+  - '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9136422,9136422]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../WikiData/WD~Eulipotyphla,16635184]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~Q118587591,118587591]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 179962
 Commons_gallery: Talpidae
 Commons_category: Talpidae
 taxon_name: Talpidae
@@ -35,7 +42,7 @@ montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Talpidae%20fam
 EPPO_Code: 1TALPF
 Common_Procurement_Vocabulary_code: 43124100-9
 NBN_System_Key: NHMSYS0000376159
-Dewey_Decimal_Classification: "599.335"
+Dewey_Decimal_Classification: 599.335
 ---
 
 # [[Talpidae]] 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Amycinae
 title: Amycinae
 ---
 

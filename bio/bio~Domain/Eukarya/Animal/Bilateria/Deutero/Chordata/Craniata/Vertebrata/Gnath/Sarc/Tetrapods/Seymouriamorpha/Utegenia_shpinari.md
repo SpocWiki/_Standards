@@ -1,5 +1,8 @@
 ---
-title: "Utegenia shpinari"
+aliases:
+  - Utegenia_shpinari
+  - Utegenia shpinari
+title: Utegenia shpinari
 ---
 
 ## Phylogeny 

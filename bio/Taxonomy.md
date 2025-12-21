@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Taxonomy
 has_id_wikidata: Q7211
 ---
 

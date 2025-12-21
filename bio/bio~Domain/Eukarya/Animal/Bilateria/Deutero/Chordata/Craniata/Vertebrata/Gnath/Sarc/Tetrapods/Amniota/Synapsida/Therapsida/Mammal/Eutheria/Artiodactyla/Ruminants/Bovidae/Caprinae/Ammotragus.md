@@ -1,5 +1,7 @@
 ---
-title: "Ammotragus lervia"
+aliases:
+  - Ammotragus
+title: Ammotragus lervia
 ---
 
 ## Phylogeny 

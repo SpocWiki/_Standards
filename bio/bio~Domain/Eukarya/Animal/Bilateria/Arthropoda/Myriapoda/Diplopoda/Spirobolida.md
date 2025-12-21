@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Spirobolida
 title: Spirobolida
 ---
 

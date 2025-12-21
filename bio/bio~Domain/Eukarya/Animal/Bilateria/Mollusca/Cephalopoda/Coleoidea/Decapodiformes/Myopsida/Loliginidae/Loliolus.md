@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Loliolus
 title: Loliolus
 ---
 

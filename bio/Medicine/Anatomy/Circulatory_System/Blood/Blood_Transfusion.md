@@ -1,24 +1,26 @@
 ---
 aliases:
   - Bluttransfusion
+  - Blood_Transfusion
+  - Blood Transfusion
 has_id_wikidata: Q183605
-subclass_of: "[[_Standards/WikiData/WD~medical_treatment,179661]]"
-studied_by: "[[_Standards/WikiData/WD~transfusion_medicine,1318451]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+subclass_of: '[[_Standards/WikiData/WD~medical_treatment,179661]]'
+studied_by: '[[_Standards/WikiData/WD~transfusion_medicine,1318451]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
-OmegaWiki_Defined_Meaning: "508164"
-ICD_9_CM: "99.0"
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+OmegaWiki_Defined_Meaning: 508164
+ICD_9_CM: 99.0
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Erythrozytenkonzentrat%20neu.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Odolaren%20bidea.webm
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/blood_transfusion_2
 Dewey_Decimal_Classification:
-  - "344.04194"
-  - "362.1784"
-  - "615.39"
-RIA_Novosti_reference: "42379212"
-P8189: "987007283115205171"
+  - 344.04194
+  - 362.1784
+  - 615.39
+RIA_Novosti_reference: 42379212
+P8189: 987007283115205171
 Commons_category: Blood transfusion
 IMDb_keyword: blood-transfusion
 UMLS_CUI: C0005841

@@ -4,20 +4,22 @@ aliases:
   - medical_imaging_technique
   - MedicalImagingTechnique
   - is_a_medical_imaging_technique
+  - Medical_Imaging_Technique
+  - Medical Imaging Technique
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_imaging_technique
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_imaging_technique Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

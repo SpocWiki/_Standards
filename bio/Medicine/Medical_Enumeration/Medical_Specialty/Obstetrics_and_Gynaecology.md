@@ -1,22 +1,24 @@
 ---
 aliases:
   - gynecology
-  - Obstetrics 
+  - Obstetrics
   - gynaecology
+  - Obstetrics_and_Gynaecology
+  - Obstetrics and Gynaecology
 has_id_wikidata: Q80015
 different_from:
-  - "[[_Standards/WikiData/WD~midwife,185196]]"
-  - "[[_Standards/WikiData/WD~gynecologist,2640827]]"
+  - '[[_Standards/WikiData/WD~midwife,185196]]'
+  - '[[_Standards/WikiData/WD~gynecologist,2640827]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~health_sciences,843601]]"
-  - "[[_Standards/WikiData/WD~medicine,11190]]"
-instance_of: "[[_Standards/WikiData/WD~medical_specialty,930752]]"
+  - '[[_Standards/WikiData/WD~health_sciences,843601]]'
+  - '[[_Standards/WikiData/WD~medicine,11190]]'
+instance_of: '[[_Standards/WikiData/WD~medical_specialty,930752]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~gynaecology,1221899]]"
-  - "[[_Standards/WikiData/WD~obstetrics,5284418]]"
-practiced_by: "[[_Standards/WikiData/WD~obstetrician_gynecologist,21002422]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-OmegaWiki_Defined_Meaning: "1588711"
+  - '[[_Standards/WikiData/WD~gynaecology,1221899]]'
+  - '[[_Standards/WikiData/WD~obstetrics,5284418]]'
+practiced_by: '[[_Standards/WikiData/WD~obstetrician_gynecologist,21002422]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+OmegaWiki_Defined_Meaning: 1588711
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Handgriffe.JPG
 subreddit: obgyn
 Iconclass_notation: 49G6161

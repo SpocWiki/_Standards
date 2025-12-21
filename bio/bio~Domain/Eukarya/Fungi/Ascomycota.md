@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ascomycota
 title: Ascomycota
 ---
 

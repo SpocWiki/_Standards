@@ -4,6 +4,7 @@ aliases:
   - cassava
   - manioc
   - yuca
+  - Cassava
 has_id_wikidata: Q83124
 ---
 

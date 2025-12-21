@@ -1,5 +1,7 @@
 ---
-title: "Atlanta californiensis"
+aliases:
+  - californiensis
+title: Atlanta californiensis
 ---
 
 ## Phylogeny 

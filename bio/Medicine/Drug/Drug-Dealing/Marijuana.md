@@ -1,31 +1,32 @@
 ---
 aliases:
-- Marihuana
-- marijuana
-- weed
-- Gras
-- pot
-- hemp
+  - Marihuana
+  - marijuana
+  - weed
+  - Gras
+  - pot
+  - hemp
+  - Marijuana
 confidential: private
 cssclasses:
-- private
-- note
+  - private
+  - note
 draft: true
-expiryDate: 
+expiryDate: ''
 has_Template:
-- Extract~Note~Template
+  - Extract~Note~Template
 has_time_started: 2024-09-26
 isDeleted: false
 isReadOnly: false
 keywords: Marihuana
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Marihuana
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Marihuana
+  - Marihuana
 title: Marihuana
 type: private_note
 ---

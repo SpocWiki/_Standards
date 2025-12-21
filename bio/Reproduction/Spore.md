@@ -2,6 +2,7 @@
 aliases:
   - Spores
   - Sporen
+  - Spore
 has_id_wikidata: Q177332
 ---
 

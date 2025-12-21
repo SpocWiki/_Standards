@@ -1,7 +1,7 @@
 ---
 aliases:
-- Cycliophora
-- Symbion
+  - Cycliophora
+  - Symbion
 title: Cycliophora
 ---
 

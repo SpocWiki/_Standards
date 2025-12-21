@@ -1,5 +1,8 @@
 ---
-title: "Ascaphus truei"
+aliases:
+  - Ascaphus_truei
+  - Ascaphus truei
+title: Ascaphus truei
 ---
 
 # [[Ascaphus truei]]

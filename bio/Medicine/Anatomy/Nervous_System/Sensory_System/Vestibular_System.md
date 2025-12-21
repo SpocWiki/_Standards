@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Vestibular System"
+  - Vestibular System
+  - Vestibular_System
 ---
 
 ## #has_/text_of_/abstract 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Acantheae
 title: Acantheae
 ---
 

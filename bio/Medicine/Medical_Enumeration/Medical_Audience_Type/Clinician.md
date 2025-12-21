@@ -9,16 +9,16 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalAudienceType
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - clinician
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_clinician Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

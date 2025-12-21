@@ -1,26 +1,28 @@
 ---
-Commons_category: Malnutrition
-exact_match: "http://purl.obolibrary.org/obo/HP_0004395"
-facet_of: '[[_Standards/WikiData/WD~poverty,10294]]'
+aliases:
+  - Malnutrition
 has_id_wikidata: Q12167
+Commons_category: Malnutrition
+exact_match: http://purl.obolibrary.org/obo/HP_0004395
+facet_of: '[[_Standards/WikiData/WD~poverty,10294]]'
 health_specialty:
-- '[[_Standards/WikiData/WD~endocrinology,162606]]'
-- '[[_Standards/WikiData/WD~intensive_care_medicine,679690]]'
-- '[[_Standards/WikiData/WD~nutrition,2138622]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kwashiorkor%206180.jpg"
+  - '[[_Standards/WikiData/WD~endocrinology,162606]]'
+  - '[[_Standards/WikiData/WD~intensive_care_medicine,679690]]'
+  - '[[_Standards/WikiData/WD~nutrition,2138622]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Kwashiorkor%206180.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~failure_mode,100151658]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~failure_mode,100151658]]'
 MeSH_tree_code: C18.654.521
 OmegaWiki_Defined_Meaning: 2232
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Mangelern%C3%A4hrung.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%95%E0%AD%81%E0%AC%AA%E0%AD%8B%E0%AC%B7%E0%AC%A3.wav"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Mangelern%C3%A4hrung.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%95%E0%AD%81%E0%AC%AA%E0%AD%8B%E0%AC%B7%E0%AC%A3.wav
 relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_2.2_of_the_Sustainable_Development_Goals,57590463]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~nutrition_disorder,1361144]]'
-- '[[_Standards/WikiData/WD~clinical_sign,1441305]]'
+  - '[[_Standards/WikiData/WD~nutrition_disorder,1361144]]'
+  - '[[_Standards/WikiData/WD~clinical_sign,1441305]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Nutritional_pathology,8096293]]'
 UMLS_CUI: C0162429
 U_S_National_Archives_Identifier: 10638452

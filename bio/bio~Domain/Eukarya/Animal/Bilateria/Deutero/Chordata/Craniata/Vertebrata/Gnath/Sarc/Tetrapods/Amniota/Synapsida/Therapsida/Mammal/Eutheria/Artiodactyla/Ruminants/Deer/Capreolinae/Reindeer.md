@@ -5,10 +5,11 @@ aliases:
   - caribou
   - Rentier
   - Ren
+  - Reindeer
 has_id_wikidata: Q18460419
-parent_taxon: "[[WD~Capreolinae,118722]]"
-taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+parent_taxon: '[[WD~Capreolinae,118722]]'
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rangifer%20tarandus%20%28Wroclaw%20zoo%29%20-%20young%20-%20face.JPG
 taxon_name: Rangiferini
 ---

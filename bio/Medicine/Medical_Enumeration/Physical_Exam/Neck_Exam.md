@@ -3,21 +3,23 @@ aliases:
   - neck examination
   - neck exam
   - is_a_neck_examination
+  - Neck_Exam
+  - Neck Exam
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - neck
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_neck Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

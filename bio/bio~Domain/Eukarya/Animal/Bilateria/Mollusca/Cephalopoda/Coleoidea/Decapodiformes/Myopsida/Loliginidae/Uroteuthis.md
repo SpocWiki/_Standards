@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Uroteuthis
 title: Uroteuthis
 ---
 

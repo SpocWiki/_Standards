@@ -4,20 +4,22 @@ aliases:
   - drug_pregnancy_category
   - DrugPregnancyCategory
   - is_a_drug_pregnancy_category
+  - Drug_Pregnancy_Category
+  - Drug Pregnancy Category
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - drug_pregnancy_category
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_drug_pregnancy_category Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,24 +1,25 @@
 ---
 aliases:
   - Dickdarm
+  - Colon(Anatomy)
 has_id_wikidata: Q5982337
 connects_with:
-  - "[[_Standards/WikiData/WD~rectum,158716]]"
-  - "[[_Standards/WikiData/WD~cecum,185317]]"
-  - "[[_Standards/WikiData/WD~ileum,233345]]"
+  - '[[_Standards/WikiData/WD~rectum,158716]]'
+  - '[[_Standards/WikiData/WD~cecum,185317]]'
+  - '[[_Standards/WikiData/WD~ileum,233345]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~sigmoid_colon,677253]]"
-  - "[[_Standards/WikiData/WD~ascending_colon,2562556]]"
-  - "[[_Standards/WikiData/WD~descending_colon,2562565]]"
-  - "[[_Standards/WikiData/WD~transverse_colon,2619732]]"
+  - '[[_Standards/WikiData/WD~sigmoid_colon,677253]]'
+  - '[[_Standards/WikiData/WD~ascending_colon,2562556]]'
+  - '[[_Standards/WikiData/WD~descending_colon,2562565]]'
+  - '[[_Standards/WikiData/WD~transverse_colon,2619732]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~segment_of_large_intestine,66509764]]"
-  - "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
-part_of: "[[_Standards/WikiData/WD~large_intestine,11083]]"
-OmegaWiki_Defined_Meaning: "681970"
+  - '[[_Standards/WikiData/WD~segment_of_large_intestine,66509764]]'
+  - '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+part_of: '[[_Standards/WikiData/WD~large_intestine,11083]]'
+OmegaWiki_Defined_Meaning: 681970
 TA98_Latin_term: colon
-P8189: "987007284598705171"
+P8189: 987007284598705171
 MeSH_tree_code:
   - A03.556.124.526.356
   - A03.556.249.249.356

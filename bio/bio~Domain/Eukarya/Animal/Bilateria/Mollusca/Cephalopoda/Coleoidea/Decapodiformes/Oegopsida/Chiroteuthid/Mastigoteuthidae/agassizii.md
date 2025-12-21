@@ -1,5 +1,7 @@
 ---
-title: "Mastigoteuthis agassizii"
+aliases:
+  - agassizii
+title: Mastigoteuthis agassizii
 ---
 
 # *Mastigoteuthis agassizii* [Verrill, 1881] 

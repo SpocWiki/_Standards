@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus aguirrei"
+aliases:
+  - aguirrei
+title: Physalaemus aguirrei
 ---
 
 ## Phylogeny 

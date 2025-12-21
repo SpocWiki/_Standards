@@ -2,11 +2,13 @@
 aliases:
   - Influenza A virus
   - IAV
+  - Influenza_A_Virus
+  - Influenza A Virus
 has_id_wikidata: Q160122
-parent_taxon: "[[_Standards/WikiData/WD~influenza_A_virus,834390]]"
-has_effect: "[[_Standards/WikiData/WD~Transmission_and_infection_of_H5N1,7834633]]"
-instance_of: "[[_Standards/WikiData/WD~subtype,19862317]]"
-OmegaWiki_Defined_Meaning: "440383"
+parent_taxon: '[[_Standards/WikiData/WD~influenza_A_virus,834390]]'
+has_effect: '[[_Standards/WikiData/WD~Transmission_and_infection_of_H5N1,7834633]]'
+instance_of: '[[_Standards/WikiData/WD~subtype,19862317]]'
+OmegaWiki_Defined_Meaning: 440383
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Colorized%20transmission%20electron%20micrograph%20of%20Avian%20influenza%20A%20H5N1%20viruses.jpg
 UNII: 6Z1X9E3UQD
 MeSH_tree_code: B04.820.480.968.405.400.500

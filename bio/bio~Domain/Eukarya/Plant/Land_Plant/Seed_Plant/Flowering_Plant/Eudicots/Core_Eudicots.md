@@ -2,12 +2,13 @@
 aliases:
   - Core Eudicots
   - Core Tricolpates
-title: Core Eudicots
+  - Core_Eudicots
 has_id_wikidata: Q869087
-subclass_of: "[[_Standards/WikiData/WD~eudicots,165468]]"
-parent_taxon: "[[_Standards/WikiData/WD~eudicots,165468]]"
-instance_of: "[[_Standards/WikiData/WD~clade,713623]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~core_eudicots,124037561]]"
+title: Core Eudicots
+subclass_of: '[[_Standards/WikiData/WD~eudicots,165468]]'
+parent_taxon: '[[_Standards/WikiData/WD~eudicots,165468]]'
+instance_of: '[[_Standards/WikiData/WD~clade,713623]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~core_eudicots,124037561]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leucophyllum%20frutescens%20%28Purple%20Sage%29%20W%20IMG%201125.jpg
 taxon_name: core eudicots
 Commons_category: Core eudicots

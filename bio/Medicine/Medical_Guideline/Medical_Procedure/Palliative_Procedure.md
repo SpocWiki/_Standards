@@ -4,20 +4,22 @@ aliases:
   - palliative_procedure
   - PalliativeProcedure
   - is_a_palliative_procedure
+  - Palliative_Procedure
+  - Palliative Procedure
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - palliative_procedure
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_palliative_procedure Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

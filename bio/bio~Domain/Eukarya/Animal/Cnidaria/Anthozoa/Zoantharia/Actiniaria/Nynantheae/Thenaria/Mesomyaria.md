@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Mesomyaria
 title: Mesomyaria
 ---
 

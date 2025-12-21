@@ -1,9 +1,10 @@
 ---
 aliases:
   - Great Dane
+  - Great_Dane
 has_id_wikidata: Q5414
-subclass_of: "[[_Standards/WikiData/WD~dog,144]]"
-country_of_origin: "[[_Standards/WikiData/WD~Germany,183]]"
+subclass_of: '[[_Standards/WikiData/WD~dog,144]]'
+country_of_origin: '[[_Standards/WikiData/WD~Germany,183]]'
 mass:
   - 50
   - 60
@@ -16,8 +17,8 @@ height:
   - 84
 life_expectancy: 9
 litter_size: 7.1
-instance_of: "[[_Standards/WikiData/WD~dog_breed,39367]]"
-catalog_code: "235"
+instance_of: '[[_Standards/WikiData/WD~dog_breed,39367]]'
+catalog_code: 235
 Commons_gallery: Great Dane
 Commons_category: Great Dane
 image: http://commons.wikimedia.org/wiki/Special:FilePath/8675eds%20win.jpg

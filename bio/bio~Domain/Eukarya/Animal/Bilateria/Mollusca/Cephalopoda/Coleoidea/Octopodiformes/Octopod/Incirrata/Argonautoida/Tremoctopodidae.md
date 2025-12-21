@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Tremoctopodidae
 title: Tremoctopus
 ---
 

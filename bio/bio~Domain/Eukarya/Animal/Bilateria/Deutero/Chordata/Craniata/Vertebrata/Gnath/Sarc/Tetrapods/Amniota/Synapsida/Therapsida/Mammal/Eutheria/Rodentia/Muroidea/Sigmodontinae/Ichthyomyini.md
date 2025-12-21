@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ichthyomyini
 title: Ichthyomyini
 ---
 

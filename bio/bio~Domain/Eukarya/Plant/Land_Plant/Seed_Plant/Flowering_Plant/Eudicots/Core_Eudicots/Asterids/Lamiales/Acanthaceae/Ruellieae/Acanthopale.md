@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Acanthopale
 title: Acanthopale
 ---
 

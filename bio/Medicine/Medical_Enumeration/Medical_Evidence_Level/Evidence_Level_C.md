@@ -4,21 +4,23 @@ aliases:
   - evidence_level_c
   - EvidenceLevelC
   - is_an_evidence_level_c
+  - Evidence_Level_C
+  - Evidence Level C
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalEvidenceLevel
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - evidence_level_c
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_evidence_level_c Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

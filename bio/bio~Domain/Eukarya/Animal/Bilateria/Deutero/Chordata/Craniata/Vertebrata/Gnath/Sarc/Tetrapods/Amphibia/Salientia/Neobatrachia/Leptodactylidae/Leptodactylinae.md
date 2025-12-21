@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Leptodactylinae
 title: Leptodactylinae
 ---
 

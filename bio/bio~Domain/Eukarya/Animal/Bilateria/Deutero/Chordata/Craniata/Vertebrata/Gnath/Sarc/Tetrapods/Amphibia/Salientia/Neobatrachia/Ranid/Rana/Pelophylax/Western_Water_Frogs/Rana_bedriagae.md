@@ -1,5 +1,8 @@
 ---
-title: "Rana bedriagae"
+aliases:
+  - Rana_bedriagae
+  - Rana bedriagae
+title: Rana bedriagae
 ---
 
 # [[Rana_bedriagae]] 

@@ -3,6 +3,35 @@ aliases:
   - Hordeum_vulgare
   - Hordeum vulgare
   - Gerste
+  - Barley
+  - árpa
+  - jęczmień
+  - Gerst
+  - Ječmen
+  - 麦芽
+  - Ohra
+  - common barley
+  - Cebada
+  - 大麥
+  - cebada
+  - ječmen obecný
+  - haidd chwerhesog
+  - κριθάρι
+  - pelto-ohra
+  - Bere
+  - Ječam
+  - négysoros árpa
+  - takarmányárpa
+  - オオムギ
+  - Јачмен
+  - Ячмень обыкновенный
+  - 二棱大麥
+  - 大麦
+  - 大麦秸
+  - 大麦苗
+  - ječmen
+  - seksradsbygg
+has_id_wikidata: Q11577
 Commons_category: Hordeum vulgare
 Commons_gallery: Hordeum vulgare
 Dewey_Decimal_Classification:
@@ -17,33 +46,32 @@ NBN_System_Key: NBNSYS0000002604
 OmegaWiki_Defined_Meaning: 398106
 UNII: 8JBE478M5Q
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_9(3),112869380]]"
-has_fruit_type: "[[_Standards/WikiData/WD~caryopsis,506139]]"
-has_id_wikidata: Q11577
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_9(3),112869380]]'
+has_fruit_type: '[[_Standards/WikiData/WD~caryopsis,506139]]'
 has_use:
-  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
-  - "[[_Standards/WikiData/WD~fodder,211439]]"
-  - "[[_Standards/WikiData/WD~cereal_grain,12117]]"
-  - "[[../../../../../../../../../../../../WikiData/WD~fiber,161]]"
+  - '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+  - '[[_Standards/WikiData/WD~fodder,211439]]'
+  - '[[_Standards/WikiData/WD~cereal_grain,12117]]'
+  - '[[../../../../../../../../../../../../WikiData/WD~fiber,161]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~grain_crop,113976623]]"
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[_Standards/WikiData/WD~grain_crop,113976623]]'
+  - '[[_Standards/WikiData/WD~taxon,16521]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Escourgeon-Hordeum%20vulgare%20subsp.%20vulgare.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Barley.jpg
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Agriculture,10549418]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Plants,10823481]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-parent_taxon: "[[_Standards/WikiData/WD~Hordeum,518044]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q117712931,117712931]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Agriculture,10549418]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Plants,10823481]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+parent_taxon: '[[_Standards/WikiData/WD~Hordeum,518044]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q117712931,117712931]]'
 short_name: H. vulgare
 sequenced_genome_URL:
   - https://plants.ensembl.org/Hordeum_vulgare
@@ -82,16 +110,16 @@ taxon_common_name:
   - seksradsbygg
 taxon_name: Hordeum vulgare
 taxon_range:
-  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
-  - "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
+  - '[[_Standards/WikiData/WD~Guangdong,15175]]'
+  - '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Fujian,41705]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+  - '[[_Standards/WikiData/WD~Fujian,41705]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~Q15789710,15789710]]"
-  - "[[_Standards/WikiData/WD~Hordei_Fructus_Germinatus,27660203]]"
-  - "[[_Standards/WikiData/WD~barley,61665121]]"
-  - "[[_Standards/WikiData/WD~barley_bran,104219028]]"
+  - '[[_Standards/WikiData/WD~Q15789710,15789710]]'
+  - '[[_Standards/WikiData/WD~Hordei_Fructus_Germinatus,27660203]]'
+  - '[[_Standards/WikiData/WD~barley,61665121]]'
+  - '[[_Standards/WikiData/WD~barley_bran,104219028]]'
 ---
 
 # [[Barley]] 

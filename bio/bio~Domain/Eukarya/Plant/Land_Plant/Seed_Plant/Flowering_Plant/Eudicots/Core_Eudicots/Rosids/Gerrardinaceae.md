@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Gerrardinaceae
 title: Gerrardina
 ---
 

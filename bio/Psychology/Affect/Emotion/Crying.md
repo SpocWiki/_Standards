@@ -1,6 +1,7 @@
 ---
 aliases:
   - Weinen
+  - Crying
 has_id_wikidata: Q152247
 uses: "[[_Standards/WikiData/WD~tear,76469]]"
 opposite_of: "[[_Standards/WikiData/WD~laughter,170579]]"
@@ -30,7 +31,7 @@ UMLS_CUI: C0010399
 IMDb_keyword: crying
 ---
 
-# [[Crying]] 
+# [[Crying]] 😭 
 
 #is_/same_as :: [[../../../../WikiData/WD~Crying,152247|WD~Crying,152247]] 
 

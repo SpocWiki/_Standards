@@ -2,17 +2,19 @@
 aliases:
   - Oraler Sex
   - oral intercourse
+  - Oral_Sex
+  - Oral Sex
 has_id_wikidata: Q2122
 has_part_s_:
-  - "[[_Standards/WikiData/WD~anilingus,210749]]"
-  - "[[_Standards/WikiData/WD~cunnilingus,8402]]"
-  - "[[_Standards/WikiData/WD~fellatio,8401]]"
+  - '[[_Standards/WikiData/WD~anilingus,210749]]'
+  - '[[_Standards/WikiData/WD~cunnilingus,8402]]'
+  - '[[_Standards/WikiData/WD~fellatio,8401]]'
 uses:
-  - "[[_Standards/WikiData/WD~human_mouth,1370895]]"
-  - "[[_Standards/WikiData/WD~sex_organ,4620674]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-subclass_of: "[[_Standards/WikiData/WD~human_sexual_behavior,608]]"
-opposite_of: "[[_Standards/WikiData/WD~anal_sex,8398]]"
+  - '[[_Standards/WikiData/WD~human_mouth,1370895]]'
+  - '[[_Standards/WikiData/WD~sex_organ,4620674]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+subclass_of: '[[_Standards/WikiData/WD~human_sexual_behavior,608]]'
+opposite_of: '[[_Standards/WikiData/WD~anal_sex,8398]]'
 Commons_category: Oral sex
 Archive_of_Our_Own_tag: Oral Sex
 IMDb_keyword: oral-sex

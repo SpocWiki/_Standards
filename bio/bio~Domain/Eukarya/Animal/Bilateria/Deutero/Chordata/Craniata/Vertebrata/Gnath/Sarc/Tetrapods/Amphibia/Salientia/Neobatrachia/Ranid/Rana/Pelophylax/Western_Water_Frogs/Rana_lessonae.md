@@ -1,5 +1,8 @@
 ---
-title: "Rana lessonae"
+aliases:
+  - Rana_lessonae
+  - Rana lessonae
+title: Rana lessonae
 ---
 
 # [[Rana_lessonae]] 

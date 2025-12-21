@@ -1,9 +1,9 @@
 ---
 aliases:
-- Lentil
-- Lentils
-- "Vicia lens"
-- "Lens culinaris"
+  - Lentil
+  - Lentils
+  - Vicia lens
+  - Lens culinaris
 ---
 
 ## #has_/text_of_/abstract 

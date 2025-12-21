@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Siphonophorida
 title: Siphonophorida
 ---
 

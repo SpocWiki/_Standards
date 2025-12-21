@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Palaeoscorpiones
 title: Palaeoscorpiones
 ---
 

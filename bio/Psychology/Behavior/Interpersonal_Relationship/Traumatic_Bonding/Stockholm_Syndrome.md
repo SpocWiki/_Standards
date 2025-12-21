@@ -1,13 +1,15 @@
 ---
 aliases:
   - Stockholm Syndrom
+  - Stockholm_Syndrome
+  - Stockholm Syndrome
 has_id_wikidata: Q180242
-opposite_of: "[[_Standards/WikiData/WD~Lima_syndrome,3508666]]"
-instance_of: "[[_Standards/WikiData/WD~psychological_phenomenon,12047512]]"
-subclass_of: "[[_Standards/WikiData/WD~traumatic_bonding,17143762]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Helsinki_syndrome,109927469]]"
-health_specialty: "[[_Standards/WikiData/WD~psychology,9418]]"
-country: "[[_Standards/WikiData/WD~Sweden,34]]"
+opposite_of: '[[_Standards/WikiData/WD~Lima_syndrome,3508666]]'
+instance_of: '[[_Standards/WikiData/WD~psychological_phenomenon,12047512]]'
+subclass_of: '[[_Standards/WikiData/WD~traumatic_bonding,17143762]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Helsinki_syndrome,109927469]]'
+health_specialty: '[[_Standards/WikiData/WD~psychology,9418]]'
+country: '[[_Standards/WikiData/WD~Sweden,34]]'
 Archive_of_Our_Own_tag: Stockholm Syndrome
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Stockholm-Syndroms.ogg

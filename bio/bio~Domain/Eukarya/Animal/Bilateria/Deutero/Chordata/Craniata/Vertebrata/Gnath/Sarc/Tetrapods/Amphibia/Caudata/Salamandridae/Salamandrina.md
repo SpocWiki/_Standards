@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Salamandrina
 title: Salamandrina
 ---
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Idiosepiidae
 title: Idiosepiidae
 ---
 

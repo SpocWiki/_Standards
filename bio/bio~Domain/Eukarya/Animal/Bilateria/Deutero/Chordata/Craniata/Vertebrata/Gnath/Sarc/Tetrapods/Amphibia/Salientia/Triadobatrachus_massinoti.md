@@ -1,5 +1,8 @@
 ---
-title: "Triadobatrachus massinoti"
+aliases:
+  - Triadobatrachus_massinoti
+  - Triadobatrachus massinoti
+title: Triadobatrachus massinoti
 ---
 
 # [[Triadobatrachus_massinoti]] 

@@ -1,9 +1,9 @@
 ---
 aliases:
-- Branchiura
-- Argulidae
-- "fish lice"
-- "carp lice"
+  - Branchiura
+  - Argulidae
+  - fish lice
+  - carp lice
 title: Branchiura
 ---
 

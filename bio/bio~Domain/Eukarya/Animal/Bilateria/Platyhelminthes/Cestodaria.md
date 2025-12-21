@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cestodaria
 title: Cestodaria
 ---
 

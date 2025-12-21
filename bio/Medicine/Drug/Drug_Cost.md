@@ -4,20 +4,22 @@ aliases:
   - drug_cost
   - DrugCost
   - is_a_drug_cost
+  - Drug_Cost
+  - Drug Cost
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - drug_cost
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_drug_cost Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

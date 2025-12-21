@@ -1,24 +1,25 @@
 ---
 aliases:
   - Pessimismus
+  - Pessimism
 has_id_wikidata: Q484954
-opposite_of: "[[_Standards/WikiData/WD~optimism,485446]]"
+opposite_of: '[[_Standards/WikiData/WD~optimism,485446]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-subclass_of: "[[_Standards/WikiData/WD~attitude,622645]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+subclass_of: '[[_Standards/WikiData/WD~attitude,622645]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~school_of_thought,1387659]]"
-  - "[[_Standards/WikiData/WD~emotions,9415]]"
+  - '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
+  - '[[_Standards/WikiData/WD~emotions,9415]]'
 part_of:
-  - "[[_Standards/WikiData/WD~theory_of_emotion,9357054]]"
-  - "[[_Standards/WikiData/WD~optimism_and_pessimism,18122377]]"
-  - "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-facet_of: "[[_Standards/WikiData/WD~psychology,9418]]"
-OmegaWiki_Defined_Meaning: "735174"
+  - '[[_Standards/WikiData/WD~theory_of_emotion,9357054]]'
+  - '[[_Standards/WikiData/WD~optimism_and_pessimism,18122377]]'
+  - '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+facet_of: '[[_Standards/WikiData/WD~psychology,9418]]'
+OmegaWiki_Defined_Meaning: 735174
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Punishment%20sisyph.jpg
 Iconclass_notation: 32A32
 UMLS_CUI: C0424134

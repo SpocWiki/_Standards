@@ -1,7 +1,9 @@
 ---
-has_id_wikidata: Q131755
 aliases:
   - manic depression
+  - Bipolar_Disorder
+  - Bipolar Disorder
+has_id_wikidata: Q131755
 ---
 
 # [[Bipolar_Disorder]] 

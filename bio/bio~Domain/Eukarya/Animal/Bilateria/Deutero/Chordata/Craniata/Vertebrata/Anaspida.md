@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Anaspida
 title: Anaspida
 ---
 

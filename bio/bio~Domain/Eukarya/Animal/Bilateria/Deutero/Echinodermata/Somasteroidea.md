@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Somasteroidea
 title: Somasteroidea
 ---
 

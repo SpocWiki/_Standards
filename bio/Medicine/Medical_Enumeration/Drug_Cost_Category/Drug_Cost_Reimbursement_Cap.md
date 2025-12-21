@@ -4,21 +4,23 @@ aliases:
   - reimbursement_cap
   - ReimbursementCap
   - is_a_reimbursement_cap
+  - Drug_Cost_Reimbursement_Cap
+  - Drug Cost Reimbursement Cap
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: DrugCostCategory
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - reimbursement_cap
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_reimbursement_cap Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

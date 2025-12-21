@@ -4,21 +4,23 @@ aliases:
   - randomized_trial
   - RandomizedTrial
   - is_a_randomized_trial
+  - Randomized_Trial
+  - Randomized Trial
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalTrialDesign
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - randomized_trial
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_randomized_trial Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

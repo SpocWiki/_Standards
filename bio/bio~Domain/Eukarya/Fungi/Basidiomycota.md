@@ -1,6 +1,8 @@
 ---
-title: Basidiomycota
+aliases:
+  - Basidiomycota
 has_id_wikidata: Q174698
+title: Basidiomycota
 ---
 
 # [[Basidiomycota]]

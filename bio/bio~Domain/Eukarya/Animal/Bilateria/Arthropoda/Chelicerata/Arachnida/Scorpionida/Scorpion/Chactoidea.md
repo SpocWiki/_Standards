@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Chactoidea
 title: Chactoidea
 ---
 

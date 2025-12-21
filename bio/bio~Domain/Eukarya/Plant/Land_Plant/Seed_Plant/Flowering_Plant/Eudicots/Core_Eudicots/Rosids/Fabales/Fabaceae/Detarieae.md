@@ -1,5 +1,7 @@
 ---
-title: "Detarieae sensu lato"
+aliases:
+  - Detarieae
+title: Detarieae sensu lato
 ---
 
 ## Phylogeny 

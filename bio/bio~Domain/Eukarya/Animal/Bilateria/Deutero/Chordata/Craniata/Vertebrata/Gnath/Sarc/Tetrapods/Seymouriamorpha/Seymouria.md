@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Seymouria
 title: Seymouria
 ---
 

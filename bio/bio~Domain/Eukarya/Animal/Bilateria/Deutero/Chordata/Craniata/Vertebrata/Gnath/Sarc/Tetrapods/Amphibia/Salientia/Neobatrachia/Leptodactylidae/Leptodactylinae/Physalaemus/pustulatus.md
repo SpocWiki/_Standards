@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus pustulatus"
+aliases:
+  - pustulatus
+title: Physalaemus pustulatus
 ---
 
 ## Phylogeny 

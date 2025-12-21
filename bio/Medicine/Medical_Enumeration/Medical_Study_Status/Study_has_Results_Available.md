@@ -4,21 +4,23 @@ aliases:
   - results_available
   - ResultsAvailable
   - is_a_results_available
+  - Study_has_Results_Available
+  - Study has Results Available
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalStudyStatus
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - results_available
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_results_available Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,5 +1,8 @@
 ---
-title: "core Caryophyllales"
+aliases:
+  - Core_Caryophyllales
+  - Core Caryophyllales
+title: core Caryophyllales
 ---
 
 # [[Core_Caryophyllales]]

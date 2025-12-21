@@ -1,51 +1,52 @@
 ---
-Colon_Classification: G11
-Commons_category: Cells
-described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-development_of_anatomical_structure: "[[_Standards/WikiData/WD~cell_development,14859963]]"
-different_from:
-  - "[[_Standards/WikiData/WD~cell_biology,7141]]"
-has_characteristic:
-  - "[[_Standards/WikiData/WD~cell_cycle,188941]]"
-  - "[[_Standards/WikiData/WD~cell_type,189118]]"
-  - "[[_Standards/WikiData/WD~cell_potency,862600]]"
-  - "[[_Standards/WikiData/WD~cell_aging,14818028]]"
-  - "[[_Standards/WikiData/WD~cell_function,95674809]]"
-has_id_wikidata: Q7868
-has_part_s_:
-  - "[[_Standards/WikiData/WD~cellular_component,5058355]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Wilson1900Fig2.jpg
-instance_of:
-  - "[[_Standards/WikiData/WD~cell_type,189118]]"
-  - "[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748]]"
-Krugosvet_article: biologiya/kletka
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Anatomy,8487304]]"
-MeSH_tree_code:
-  - A11
-named_by: "[[_Standards/WikiData/WD~Robert_Hooke,46830]]"
-part_of:
-  - "[[_Standards/WikiData/WD~group_of_cells,20088819]]"
-  - "[[_Standards/WikiData/WD~multicellular_structure,27062218]]"
-  - "[[_Standards/WikiData/WD~tissue,40397]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~cell,7868]]"
-studied_in:
-  - "[[_Standards/WikiData/WD~cytology,3009579]]"
-  - "[[_Standards/WikiData/WD~cell_biology,7141]]"
-subclass_of:
-  - "[[_Standards/WikiData/WD~anatomical_structure,4936952]]"
-  - "[[_Standards/WikiData/WD~biological_component,28845870]]"
-Terminologia_Histologica: H1.00.01.0.00001
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 aliases:
   - Cell
   - Zelle
+  - Cell(Biology)
+has_id_wikidata: Q7868
+Colon_Classification: G11
+Commons_category: Cells
+described_by_source:
+  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+development_of_anatomical_structure: '[[_Standards/WikiData/WD~cell_development,14859963]]'
+different_from:
+  - '[[_Standards/WikiData/WD~cell_biology,7141]]'
+has_characteristic:
+  - '[[_Standards/WikiData/WD~cell_cycle,188941]]'
+  - '[[_Standards/WikiData/WD~cell_type,189118]]'
+  - '[[_Standards/WikiData/WD~cell_potency,862600]]'
+  - '[[_Standards/WikiData/WD~cell_aging,14818028]]'
+  - '[[_Standards/WikiData/WD~cell_function,95674809]]'
+has_part_s_:
+  - '[[_Standards/WikiData/WD~cellular_component,5058355]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Wilson1900Fig2.jpg
+instance_of:
+  - '[[_Standards/WikiData/WD~cell_type,189118]]'
+  - '[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748]]'
+Krugosvet_article: biologiya/kletka
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Anatomy,8487304]]'
+MeSH_tree_code:
+  - A11
+named_by: '[[_Standards/WikiData/WD~Robert_Hooke,46830]]'
+part_of:
+  - '[[_Standards/WikiData/WD~group_of_cells,20088819]]'
+  - '[[_Standards/WikiData/WD~multicellular_structure,27062218]]'
+  - '[[_Standards/WikiData/WD~tissue,40397]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~cell,7868]]'
+studied_in:
+  - '[[_Standards/WikiData/WD~cytology,3009579]]'
+  - '[[_Standards/WikiData/WD~cell_biology,7141]]'
+subclass_of:
+  - '[[_Standards/WikiData/WD~anatomical_structure,4936952]]'
+  - '[[_Standards/WikiData/WD~biological_component,28845870]]'
+Terminologia_Histologica: H1.00.01.0.00001
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 ---
 
 # [[Cell(Biology)]] 

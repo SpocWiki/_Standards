@@ -4,45 +4,46 @@ aliases:
   - oncologic
   - Oncologic
   - is_an_oncologic
+  - Oncology
 has_id_wikidata: Q162555
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - oncologic
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_oncologic Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_oncologic Class
 type: Type
 instance_of:
-  - "[[_Standards/WikiData/WD~medical_specialty,930752]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - '[[_Standards/WikiData/WD~medical_specialty,930752]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-practiced_by: "[[_Standards/WikiData/WD~oncologist,16062369]]"
-part_of: "[[_Standards/WikiData/WD~oncology_and_carcinogenesis,113066539]]"
-subclass_of: "[[_Standards/WikiData/WD~medicine,11190]]"
-is_the_study_of: "[[_Standards/WikiData/WD~cancer,12078]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+practiced_by: '[[_Standards/WikiData/WD~oncologist,16062369]]'
+part_of: '[[_Standards/WikiData/WD~oncology_and_carcinogenesis,113066539]]'
+subclass_of: '[[_Standards/WikiData/WD~medicine,11190]]'
+is_the_study_of: '[[_Standards/WikiData/WD~cancer,12078]]'
 All_Science_Journal_Classification_Codes:
-  - "2730"
-  - "2917"
-OmegaWiki_Defined_Meaning: "2653"
+  - 2730
+  - 2917
+OmegaWiki_Defined_Meaning: 2653
 GitHub_topic: oncology
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tumor%20Mesothelioma2%20legend.jpg
 exact_match: https://schema.org/Oncologic
-Basisklassifikation: "44.81"
+Basisklassifikation: 44.81
 subreddit: Oncology
 Commons_category: Oncology
 OpenStreetMap_tag: healthcare:speciality=oncology

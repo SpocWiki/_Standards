@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Stomatopoda
 title: Stomatopoda
 ---
 

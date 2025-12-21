@@ -2,21 +2,23 @@
 aliases:
   - Clinical psychology
   - Klinische Psychology
+  - Clinical_Psychology
+  - Clinical Psychology
 has_id_wikidata: Q199906
-practiced_by: "[[_Standards/WikiData/WD~clinical_psychologist,1113899]]"
-founded_by: "[[_Standards/WikiData/WD~Lightner_Witmer,1399152]]"
+practiced_by: '[[_Standards/WikiData/WD~clinical_psychologist,1113899]]'
+founded_by: '[[_Standards/WikiData/WD~Lightner_Witmer,1399152]]'
 different_from:
-  - "[[_Standards/WikiData/WD~medical_psychology,1916597]]"
-  - "[[_Standards/WikiData/WD~psychiatry,7867]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_psychology,60680430]]"
-part_of: "[[_Standards/WikiData/WD~clinical_and_health_psychology,113212893]]"
+  - '[[_Standards/WikiData/WD~medical_psychology,1916597]]'
+  - '[[_Standards/WikiData/WD~psychiatry,7867]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_psychology,60680430]]'
+part_of: '[[_Standards/WikiData/WD~clinical_and_health_psychology,113212893]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~clinical_and_health_psychology,113212893]]"
-  - "[[_Standards/WikiData/WD~psychology,9418]]"
+  - '[[_Standards/WikiData/WD~clinical_and_health_psychology,113212893]]'
+  - '[[_Standards/WikiData/WD~psychology,9418]]'
 inception: 1896-01-01T00:00:00Z
 Stack_Exchange_tag: https://psychology.stackexchange.com/tags/clinical-psychology
-Basisklassifikation: "77.70"
-P8189: "987007283930105171"
+Basisklassifikation: 77.70
+P8189: 987007283930105171
 UMLS_CUI: C0033912
 MeSH_tree_code: F04.096.628.579
 ---

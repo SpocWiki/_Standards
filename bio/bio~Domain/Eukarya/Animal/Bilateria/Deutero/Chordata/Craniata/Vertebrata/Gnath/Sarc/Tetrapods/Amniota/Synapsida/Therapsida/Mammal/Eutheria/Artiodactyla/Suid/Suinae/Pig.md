@@ -3,20 +3,54 @@ aliases:
   - Sus
   - pigs
   - pig
-title: Sus
+  - Pig
+  - Schwein
+  - prase
+  - Babi
+  - Porc
+  - Svin
+  - Pr3ko
+  - গাহৰি
+  - Gochu
+  - Свиня
+  - ཕག་པ།
+  - Pomoc'h
+  - porc
+  - Mochyn
+  - Γουρούνι
+  - Υς
+  - Χοίρος
+  - Porko
+  - Cerdo
+  - Siat
+  - Swin
+  - Muc
+  - 멧돼지속
+  - Gris
+  - Swien
+  - Varken
+  - Bisóodi
+  - Pòrc
+  - Porco
+  - свиња
+  - Yaban domuzu
+  - Mas-cio
+  - Heo
+  - 猪
 has_id_wikidata: Q10798
+title: Sus
 different_from:
-  - "[[_Standards/WikiData/WD~Sus,858848]]"
-  - "[[_Standards/WikiData/WD~Sus,4792031]]"
-  - "[[_Standards/WikiData/WD~Sus,7647444]]"
-  - "[[_Standards/WikiData/WD~Sus,12004076]]"
-  - "[[_Standards/WikiData/WD~Sus,37003135]]"
-  - "[[_Standards/WikiData/WD~sus,111512764]]"
-parent_taxon: "[[_Standards/WikiData/WD~Suini,15618436]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-has_part_s_: "[[_Standards/WikiData/WD~penis,58]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "180721"
+  - '[[_Standards/WikiData/WD~Sus,858848]]'
+  - '[[_Standards/WikiData/WD~Sus,4792031]]'
+  - '[[_Standards/WikiData/WD~Sus,7647444]]'
+  - '[[_Standards/WikiData/WD~Sus,12004076]]'
+  - '[[_Standards/WikiData/WD~Sus,37003135]]'
+  - '[[_Standards/WikiData/WD~sus,111512764]]'
+parent_taxon: '[[_Standards/WikiData/WD~Suini,15618436]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+has_part_s_: '[[_Standards/WikiData/WD~penis,58]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 180721
 taxon_common_name:
   - Schwein
   - prase

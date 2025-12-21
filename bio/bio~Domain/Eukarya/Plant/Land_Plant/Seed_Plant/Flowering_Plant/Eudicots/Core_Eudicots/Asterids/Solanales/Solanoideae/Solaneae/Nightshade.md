@@ -1,5 +1,4 @@
 ---
-has_id_wikidata: Q146555
 aliases:
   - Naachtskaad
   - סולנום
@@ -48,20 +47,22 @@ aliases:
   - Maavits
   - Koisot
   - Morelle
-taxonomic_type: "[[_Standards/WikiData/WD~Solanum_nigrum,146400]]"
+  - Nightshade
+has_id_wikidata: Q146555
+taxonomic_type: '[[_Standards/WikiData/WD~Solanum_nigrum,146400]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~Solanum_alkaloids,2298266]]"
-  - "[[_Standards/WikiData/WD~Bush_tomato,5001454]]"
-parent_taxon: "[[../../../../../../../../../../../../../WikiData/WD~Solaneae,3489128]]"
+  - '[[_Standards/WikiData/WD~Solanum_alkaloids,2298266]]'
+  - '[[_Standards/WikiData/WD~Bush_tomato,5001454]]'
+parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Solaneae,3489128]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_67(1),112869471]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_67(1),112869471]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 start_time: -55000000-01-01T00:00:00Z
-has_fruit_type: "[[_Standards/WikiData/WD~berry,13184]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "30412"
+has_fruit_type: '[[_Standards/WikiData/WD~berry,13184]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 30412
 Commons_gallery: Solanum
 Commons_category: Solanum
 taxon_name: Solanum

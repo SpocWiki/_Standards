@@ -1,29 +1,30 @@
 ---
 aliases:
   - poppy tears, or Lachryma papaveris
+  - Opium
 has_id_wikidata: Q46452
-natural_product_of_taxon: "[[_Standards/WikiData/WD~Papaver_somniferum,131584]]"
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Papaver_somniferum,131584]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~constipation,178436]]"
-  - "[[_Standards/WikiData/WD~analgesia,484785]]"
-  - "[[_Standards/WikiData/WD~sleep_induction,7539756]]"
+  - '[[_Standards/WikiData/WD~constipation,178436]]'
+  - '[[_Standards/WikiData/WD~analgesia,484785]]'
+  - '[[_Standards/WikiData/WD~sleep_induction,7539756]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~crude_drug,735160]]"
-  - "[[_Standards/WikiData/WD~psychoactive_drug,3706669]]"
-subclass_of: "[[_Standards/WikiData/WD~opiate,2026938]]"
+  - '[[_Standards/WikiData/WD~crude_drug,735160]]'
+  - '[[_Standards/WikiData/WD~psychoactive_drug,3706669]]'
+subclass_of: '[[_Standards/WikiData/WD~opiate,2026938]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~carbon,623]]"
-  - "[[_Standards/WikiData/WD~nitrogen,627]]"
-RxNorm_CUI: "7676"
-U_S_National_Archives_Identifier: "10641589"
+  - '[[_Standards/WikiData/WD~carbon,623]]'
+  - '[[_Standards/WikiData/WD~nitrogen,627]]'
+RxNorm_CUI: 7676
+U_S_National_Archives_Identifier: 10641589
 Commons_category: Opium
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Calcium%20morphenate.svg
 image:

@@ -1,5 +1,7 @@
 ---
-title: "Physiruellia clade"
+aliases:
+  - Physiruellia
+title: Physiruellia clade
 ---
 
 # Physiruellia  

@@ -3,21 +3,23 @@ aliases:
   - appearance examination
   - appearance exam
   - is_an_appearance_examination
+  - Appearance_Exam
+  - Appearance Exam
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - appearance
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_appearance Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,106 +1,108 @@
 ---
 aliases:
   - Prostatakrebs
+  - Prostate_Cancer
+  - Prostate Cancer
 has_id_wikidata: Q181257
 health_specialty:
-  - "[[_Standards/WikiData/WD~urology,105650]]"
-  - "[[_Standards/WikiData/WD~oncology,162555]]"
+  - '[[_Standards/WikiData/WD~urology,105650]]'
+  - '[[_Standards/WikiData/WD~oncology,162555]]'
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~erectile_dysfunction,184674]]"
-  - "[[_Standards/WikiData/WD~frequent_urination,352585]]"
-  - "[[_Standards/WikiData/WD~weight_loss,718113]]"
-  - "[[_Standards/WikiData/WD~bone_pain,3480107]]"
-  - "[[_Standards/WikiData/WD~back_pain,5781808]]"
-  - "[[_Standards/WikiData/WD~odynorgasmia,7078393]]"
-  - "[[_Standards/WikiData/WD~pelvic_pain,7161805]]"
+  - '[[_Standards/WikiData/WD~erectile_dysfunction,184674]]'
+  - '[[_Standards/WikiData/WD~frequent_urination,352585]]'
+  - '[[_Standards/WikiData/WD~weight_loss,718113]]'
+  - '[[_Standards/WikiData/WD~bone_pain,3480107]]'
+  - '[[_Standards/WikiData/WD~back_pain,5781808]]'
+  - '[[_Standards/WikiData/WD~odynorgasmia,7078393]]'
+  - '[[_Standards/WikiData/WD~pelvic_pain,7161805]]'
 medical_examination:
-  - "[[_Standards/WikiData/WD~positron_emission_tomography,208376]]"
-  - "[[_Standards/WikiData/WD~medical_ultrasonography,234904]]"
-  - "[[_Standards/WikiData/WD~Kallikrein_related_peptidase_3,409450]]"
-  - "[[_Standards/WikiData/WD~prostate_cancer_screening,7250979]]"
+  - '[[_Standards/WikiData/WD~positron_emission_tomography,208376]]'
+  - '[[_Standards/WikiData/WD~medical_ultrasonography,234904]]'
+  - '[[_Standards/WikiData/WD~Kallikrein_related_peptidase_3,409450]]'
+  - '[[_Standards/WikiData/WD~prostate_cancer_screening,7250979]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~hydroxycarbamide,212272]]"
-  - "[[_Standards/WikiData/WD~zoledronic_acid,218507]]"
-  - "[[_Standards/WikiData/WD~mitoxantrone,239426]]"
-  - "[[_Standards/WikiData/WD~(RS)_aminoglutethimide,241150]]"
-  - "[[_Standards/WikiData/WD~cisplatin,412415]]"
-  - "[[_Standards/WikiData/WD~estramustine,412939]]"
-  - "[[_Standards/WikiData/WD~cabazitaxel,412963]]"
-  - "[[_Standards/WikiData/WD~ethinylestradiol,415563]]"
-  - "[[_Standards/WikiData/WD~flutamide,418669]]"
-  - "[[_Standards/WikiData/WD~etoposide,418817]]"
-  - "[[_Standards/WikiData/WD~17β_estradiol,422416]]"
-  - "[[_Standards/WikiData/WD~diethylstilbestrol,423989]]"
-  - "[[_Standards/WikiData/WD~finasteride,424167]]"
-  - "[[_Standards/WikiData/WD~cyproterone_acetate,426185]]"
-  - "[[_Standards/WikiData/WD~leuprolide,907160]]"
-  - "[[_Standards/WikiData/WD~bicalutamide,1988832]]"
-  - "[[_Standards/WikiData/WD~nilutamide,3877030]]"
-  - "[[_Standards/WikiData/WD~radium_ra_223_dichloride,4735269]]"
-  - "[[_Standards/WikiData/WD~chlorotrianisene,5103213]]"
-  - "[[_Standards/WikiData/WD~doxorubicin_hydrochloride,27032359]]"
-  - "[[_Standards/WikiData/WD~goserelin_acetate,27265738]]"
+  - '[[_Standards/WikiData/WD~hydroxycarbamide,212272]]'
+  - '[[_Standards/WikiData/WD~zoledronic_acid,218507]]'
+  - '[[_Standards/WikiData/WD~mitoxantrone,239426]]'
+  - '[[_Standards/WikiData/WD~(RS)_aminoglutethimide,241150]]'
+  - '[[_Standards/WikiData/WD~cisplatin,412415]]'
+  - '[[_Standards/WikiData/WD~estramustine,412939]]'
+  - '[[_Standards/WikiData/WD~cabazitaxel,412963]]'
+  - '[[_Standards/WikiData/WD~ethinylestradiol,415563]]'
+  - '[[_Standards/WikiData/WD~flutamide,418669]]'
+  - '[[_Standards/WikiData/WD~etoposide,418817]]'
+  - '[[_Standards/WikiData/WD~17β_estradiol,422416]]'
+  - '[[_Standards/WikiData/WD~diethylstilbestrol,423989]]'
+  - '[[_Standards/WikiData/WD~finasteride,424167]]'
+  - '[[_Standards/WikiData/WD~cyproterone_acetate,426185]]'
+  - '[[_Standards/WikiData/WD~leuprolide,907160]]'
+  - '[[_Standards/WikiData/WD~bicalutamide,1988832]]'
+  - '[[_Standards/WikiData/WD~nilutamide,3877030]]'
+  - '[[_Standards/WikiData/WD~radium_ra_223_dichloride,4735269]]'
+  - '[[_Standards/WikiData/WD~chlorotrianisene,5103213]]'
+  - '[[_Standards/WikiData/WD~doxorubicin_hydrochloride,27032359]]'
+  - '[[_Standards/WikiData/WD~goserelin_acetate,27265738]]'
 genetic_association:
-  - "[[_Standards/WikiData/WD~ANK2,4033031]]"
-  - "[[_Standards/WikiData/WD~AOPEP,5008444]]"
-  - "[[_Standards/WikiData/WD~KLK3,14859580]]"
-  - "[[_Standards/WikiData/WD~RNASEL,14877422]]"
-  - "[[_Standards/WikiData/WD~GLI2,14886491]]"
-  - "[[_Standards/WikiData/WD~FSHR,14904760]]"
-  - "[[_Standards/WikiData/WD~TERT,15315135]]"
-  - "[[_Standards/WikiData/WD~MLPH,15320780]]"
-  - "[[_Standards/WikiData/WD~ANXA13,17828822]]"
-  - "[[_Standards/WikiData/WD~BIK,17848647]]"
-  - "[[_Standards/WikiData/WD~HAPLN1,17909834]]"
-  - "[[_Standards/WikiData/WD~CTBP2,17911327]]"
-  - "[[_Standards/WikiData/WD~EVC,17917650]]"
-  - "[[_Standards/WikiData/WD~FGF10,17927902]]"
-  - "[[_Standards/WikiData/WD~TNC,18027461]]"
-  - "[[_Standards/WikiData/WD~ITGA6,18027984]]"
-  - "[[_Standards/WikiData/WD~ABLIM1,18028566]]"
-  - "[[_Standards/WikiData/WD~MSMB,18029439]]"
-  - "[[_Standards/WikiData/WD~PKHD1,18030567]]"
-  - "[[_Standards/WikiData/WD~PTGFRN,18030903]]"
-  - "[[_Standards/WikiData/WD~SLC22A3,18031583]]"
-  - "[[_Standards/WikiData/WD~HNF1B,18031868]]"
-  - "[[_Standards/WikiData/WD~RBM10,18032782]]"
-  - "[[_Standards/WikiData/WD~CTDSPL,18035132]]"
-  - "[[_Standards/WikiData/WD~PDLIM5,18035527]]"
-  - "[[_Standards/WikiData/WD~LMTK2,18036537]]"
-  - "[[_Standards/WikiData/WD~CEP152,18036643]]"
-  - "[[_Standards/WikiData/WD~TNRC6B,18036732]]"
-  - "[[_Standards/WikiData/WD~EHBP1,18037073]]"
-  - "[[_Standards/WikiData/WD~UPF2,18037876]]"
-  - "[[_Standards/WikiData/WD~CNNM3,18038265]]"
-  - "[[_Standards/WikiData/WD~LRP1B,18040616]]"
-  - "[[_Standards/WikiData/WD~CCHCR1,18041076]]"
-  - "[[_Standards/WikiData/WD~ACOXL,18041733]]"
-  - "[[_Standards/WikiData/WD~BAIAP2L1,18042195]]"
-  - "[[_Standards/WikiData/WD~TTC7A,18042985]]"
-  - "[[_Standards/WikiData/WD~THADA,18045480]]"
-  - "[[_Standards/WikiData/WD~KIF13A,18045524]]"
-  - "[[_Standards/WikiData/WD~EBF2,18045699]]"
-  - "[[_Standards/WikiData/WD~TSEN2,18046761]]"
-  - "[[_Standards/WikiData/WD~SPATA16,18047321]]"
-  - "[[_Standards/WikiData/WD~FOXP4,18049196]]"
-  - "[[_Standards/WikiData/WD~ZNF280B,18051031]]"
-  - "[[_Standards/WikiData/WD~TMTC2,18052459]]"
-  - "[[_Standards/WikiData/WD~DNAH12,18053229]]"
-  - "[[_Standards/WikiData/WD~JAZF1,18053535]]"
-  - "[[_Standards/WikiData/WD~ZBTB38,18053696]]"
-  - "[[_Standards/WikiData/WD~EPHA10,18054359]]"
-  - "[[_Standards/WikiData/WD~RNASE9,18056906]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+  - '[[_Standards/WikiData/WD~ANK2,4033031]]'
+  - '[[_Standards/WikiData/WD~AOPEP,5008444]]'
+  - '[[_Standards/WikiData/WD~KLK3,14859580]]'
+  - '[[_Standards/WikiData/WD~RNASEL,14877422]]'
+  - '[[_Standards/WikiData/WD~GLI2,14886491]]'
+  - '[[_Standards/WikiData/WD~FSHR,14904760]]'
+  - '[[_Standards/WikiData/WD~TERT,15315135]]'
+  - '[[_Standards/WikiData/WD~MLPH,15320780]]'
+  - '[[_Standards/WikiData/WD~ANXA13,17828822]]'
+  - '[[_Standards/WikiData/WD~BIK,17848647]]'
+  - '[[_Standards/WikiData/WD~HAPLN1,17909834]]'
+  - '[[_Standards/WikiData/WD~CTBP2,17911327]]'
+  - '[[_Standards/WikiData/WD~EVC,17917650]]'
+  - '[[_Standards/WikiData/WD~FGF10,17927902]]'
+  - '[[_Standards/WikiData/WD~TNC,18027461]]'
+  - '[[_Standards/WikiData/WD~ITGA6,18027984]]'
+  - '[[_Standards/WikiData/WD~ABLIM1,18028566]]'
+  - '[[_Standards/WikiData/WD~MSMB,18029439]]'
+  - '[[_Standards/WikiData/WD~PKHD1,18030567]]'
+  - '[[_Standards/WikiData/WD~PTGFRN,18030903]]'
+  - '[[_Standards/WikiData/WD~SLC22A3,18031583]]'
+  - '[[_Standards/WikiData/WD~HNF1B,18031868]]'
+  - '[[_Standards/WikiData/WD~RBM10,18032782]]'
+  - '[[_Standards/WikiData/WD~CTDSPL,18035132]]'
+  - '[[_Standards/WikiData/WD~PDLIM5,18035527]]'
+  - '[[_Standards/WikiData/WD~LMTK2,18036537]]'
+  - '[[_Standards/WikiData/WD~CEP152,18036643]]'
+  - '[[_Standards/WikiData/WD~TNRC6B,18036732]]'
+  - '[[_Standards/WikiData/WD~EHBP1,18037073]]'
+  - '[[_Standards/WikiData/WD~UPF2,18037876]]'
+  - '[[_Standards/WikiData/WD~CNNM3,18038265]]'
+  - '[[_Standards/WikiData/WD~LRP1B,18040616]]'
+  - '[[_Standards/WikiData/WD~CCHCR1,18041076]]'
+  - '[[_Standards/WikiData/WD~ACOXL,18041733]]'
+  - '[[_Standards/WikiData/WD~BAIAP2L1,18042195]]'
+  - '[[_Standards/WikiData/WD~TTC7A,18042985]]'
+  - '[[_Standards/WikiData/WD~THADA,18045480]]'
+  - '[[_Standards/WikiData/WD~KIF13A,18045524]]'
+  - '[[_Standards/WikiData/WD~EBF2,18045699]]'
+  - '[[_Standards/WikiData/WD~TSEN2,18046761]]'
+  - '[[_Standards/WikiData/WD~SPATA16,18047321]]'
+  - '[[_Standards/WikiData/WD~FOXP4,18049196]]'
+  - '[[_Standards/WikiData/WD~ZNF280B,18051031]]'
+  - '[[_Standards/WikiData/WD~TMTC2,18052459]]'
+  - '[[_Standards/WikiData/WD~DNAH12,18053229]]'
+  - '[[_Standards/WikiData/WD~JAZF1,18053535]]'
+  - '[[_Standards/WikiData/WD~ZBTB38,18053696]]'
+  - '[[_Standards/WikiData/WD~EPHA10,18054359]]'
+  - '[[_Standards/WikiData/WD~RNASE9,18056906]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~male_reproductive_organ_cancer,18556093]]"
-  - "[[_Standards/WikiData/WD~prostate_disease,18556445]]"
-  - "[[_Standards/WikiData/WD~prostate_neoplasm,56014511]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-anatomical_location: "[[_Standards/WikiData/WD~prostate,9625]]"
-afflicts: "[[_Standards/WikiData/WD~prostate,9625]]"
-ICD_9_CM: "185"
-DiseasesDB: "10780"
+  - '[[_Standards/WikiData/WD~male_reproductive_organ_cancer,18556093]]'
+  - '[[_Standards/WikiData/WD~prostate_disease,18556445]]'
+  - '[[_Standards/WikiData/WD~prostate_neoplasm,56014511]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+anatomical_location: '[[_Standards/WikiData/WD~prostate,9625]]'
+afflicts: '[[_Standards/WikiData/WD~prostate,9625]]'
+ICD_9_CM: 185
+DiseasesDB: 10780
 ICD_10_CM: C61
 described_at_URL: https://www.medicalnewstoday.com/articles/150086
 Commons_category: Prostate cancer

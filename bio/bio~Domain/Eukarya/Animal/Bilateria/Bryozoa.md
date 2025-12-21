@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bryozoa
 title: Bryozoa
 ---
 

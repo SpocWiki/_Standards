@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Dugongidae
 title: Dugongidae
 ---
 

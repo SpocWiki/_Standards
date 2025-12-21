@@ -2,53 +2,55 @@
 aliases:
   - Herpes
   - Herpes simplex
+  - Herpes_Simplex
+  - Herpes Simplex
 has_id_wikidata: Q6473911
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~aciclovir,147101]]"
-  - "[[_Standards/WikiData/WD~vidarabine,415107]]"
-  - "[[_Standards/WikiData/WD~valacyclovir,418594]]"
-  - "[[_Standards/WikiData/WD~famciclovir,420186]]"
-  - "[[_Standards/WikiData/WD~penciclovir,420364]]"
-  - "[[_Standards/WikiData/WD~foscarnet,420387]]"
-  - "[[_Standards/WikiData/WD~benzocaine,422745]]"
-  - "[[_Standards/WikiData/WD~trifluridine,2359590]]"
-  - "[[_Standards/WikiData/WD~docosanol,3033497]]"
-  - "[[_Standards/WikiData/WD~acedoben_sodium,27280825]]"
+  - '[[_Standards/WikiData/WD~aciclovir,147101]]'
+  - '[[_Standards/WikiData/WD~vidarabine,415107]]'
+  - '[[_Standards/WikiData/WD~valacyclovir,418594]]'
+  - '[[_Standards/WikiData/WD~famciclovir,420186]]'
+  - '[[_Standards/WikiData/WD~penciclovir,420364]]'
+  - '[[_Standards/WikiData/WD~foscarnet,420387]]'
+  - '[[_Standards/WikiData/WD~benzocaine,422745]]'
+  - '[[_Standards/WikiData/WD~trifluridine,2359590]]'
+  - '[[_Standards/WikiData/WD~docosanol,3033497]]'
+  - '[[_Standards/WikiData/WD~acedoben_sodium,27280825]]'
 health_specialty:
-  - "[[_Standards/WikiData/WD~dermatology,171171]]"
-  - "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+  - '[[_Standards/WikiData/WD~dermatology,171171]]'
+  - '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~blister,276469]]"
-  - "[[_Standards/WikiData/WD~low_grade_fever,480971]]"
-  - "[[_Standards/WikiData/WD~rash,653197]]"
-  - "[[_Standards/WikiData/WD~lymphadenopathy,847726]]"
+  - '[[_Standards/WikiData/WD~blister,276469]]'
+  - '[[_Standards/WikiData/WD~low_grade_fever,480971]]'
+  - '[[_Standards/WikiData/WD~rash,653197]]'
+  - '[[_Standards/WikiData/WD~lymphadenopathy,847726]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]"
-  - "[[_Standards/WikiData/WD~Simplexvirus_infectious_disease,55009463]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
+  - '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
+  - '[[_Standards/WikiData/WD~Simplexvirus_infectious_disease,55009463]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-  - "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+  - '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 facet_of: "[[_Standards/WikiData/WD~women's_health,8031191]]"
 disease_transmission_process:
-  - "[[_Standards/WikiData/WD~airborne_transmission,11986959]]"
-  - "[[_Standards/WikiData/WD~placental_transmission,12059568]]"
-  - "[[_Standards/WikiData/WD~contact_transmission,15304512]]"
+  - '[[_Standards/WikiData/WD~airborne_transmission,11986959]]'
+  - '[[_Standards/WikiData/WD~placental_transmission,12059568]]'
+  - '[[_Standards/WikiData/WD~contact_transmission,15304512]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-  - "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
+  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+  - '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~Simplexvirus_humanalpha2,18965147]]"
-  - "[[_Standards/WikiData/WD~Simplexvirus_humanalpha1,24808667]]"
+  - '[[_Standards/WikiData/WD~Simplexvirus_humanalpha2,18965147]]'
+  - '[[_Standards/WikiData/WD~Simplexvirus_humanalpha1,24808667]]'
 minimal_incubation_period_in_humans: 4
 maximal_incubation_period_in_humans: 12
 DiseasesDB:
-  - "5841"
-  - "33021"
+  - 5841
+  - 33021
 ICD_9_CM:
-  - "054"
-  - "058.89"
+  - 054
+  - 058.89
 ICD_10_CM:
   - B00
   - B00.9
@@ -60,8 +62,8 @@ exact_match:
   - http://identifiers.org/doid/DOID:8566
   - http://purl.obolibrary.org/obo/DOID_8566
 Dewey_Decimal_Classification:
-  - "614.5812"
-  - "616.522"
+  - 614.5812
+  - 616.522
 UMLS_CUI: C0019348
 MeSH_tree_code:
   - C01.925.256.466.382

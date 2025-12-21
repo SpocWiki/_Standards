@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Symphytognathidae
 title: Symphytognathidae
 ---
 

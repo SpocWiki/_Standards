@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Pelobatidae
 title: Pelobatidae
 ---
 

@@ -2,15 +2,17 @@
 aliases:
   - Cretaceous–Paleogene extinction event
   - Cretaceous-Tertiary extinction event
+  - Cretaceous–Paleogene_Extinction_Event
+  - Cretaceous–Paleogene Extinction Event
 has_id_wikidata: Q55811
-different_from: "[[_Standards/WikiData/WD~Cretaceous_Paleogene_boundary,682871]]"
+different_from: '[[_Standards/WikiData/WD~Cretaceous_Paleogene_boundary,682871]]'
 immediate_cause_of:
-  - "[[_Standards/WikiData/WD~starvation,853930]]"
-  - "[[_Standards/WikiData/WD~impact_winter,3032301]]"
-has_cause: "[[_Standards/WikiData/WD~Chicxulub_impactor,5096573]]"
-described_by_source: "[[_Standards/WikiData/WD~Q38103952,38103952]]"
+  - '[[_Standards/WikiData/WD~starvation,853930]]'
+  - '[[_Standards/WikiData/WD~impact_winter,3032301]]'
+has_cause: '[[_Standards/WikiData/WD~Chicxulub_impactor,5096573]]'
+described_by_source: '[[_Standards/WikiData/WD~Q38103952,38103952]]'
 point_in_time: -66000000-06
-instance_of: "[[_Standards/WikiData/WD~extinction_event,55814]]"
+instance_of: '[[_Standards/WikiData/WD~extinction_event,55814]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Impact%20event.jpg
 Commons_category: K/T Event
 ---

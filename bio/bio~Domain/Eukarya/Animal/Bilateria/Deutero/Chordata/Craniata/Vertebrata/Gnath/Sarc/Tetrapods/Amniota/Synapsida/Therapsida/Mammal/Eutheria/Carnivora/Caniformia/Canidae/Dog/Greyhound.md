@@ -2,8 +2,8 @@
 aliases:
   - Greyhound
 has_id_wikidata: Q38571
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 mass:
   - 27
   - 29
@@ -12,14 +12,14 @@ height:
   - 68
   - 71
   - 76
-subclass_of: "[[_Standards/WikiData/WD~sighthound,39344]]"
-instance_of: "[[_Standards/WikiData/WD~dog_breed,39367]]"
-catalog_code: "158"
+subclass_of: '[[_Standards/WikiData/WD~sighthound,39344]]'
+instance_of: '[[_Standards/WikiData/WD~dog_breed,39367]]'
+catalog_code: 158
 social_media_followers: 71622
 Commons_gallery: Greyhound
 Commons_category: Greyhound
 image: http://commons.wikimedia.org/wiki/Special:FilePath/GraceTheGreyhound.jpg
-Dewey_Decimal_Classification: "636.7534"
+Dewey_Decimal_Classification: 636.7534
 subreddit: Greyhounds
 Baidu_Tieba_name: 格力犬
 ---

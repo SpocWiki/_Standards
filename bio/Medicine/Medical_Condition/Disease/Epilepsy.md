@@ -1,77 +1,78 @@
 ---
 aliases:
   - Epilepsie
+  - Epilepsy
 has_id_wikidata: Q41571
 health_specialty:
-  - "[[_Standards/WikiData/WD~neurology,83042]]"
-  - "[[_Standards/WikiData/WD~epileptology,23688644]]"
+  - '[[_Standards/WikiData/WD~neurology,83042]]'
+  - '[[_Standards/WikiData/WD~epileptology,23688644]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~oxcarbazepine,176301]]"
-  - "[[_Standards/WikiData/WD~diazepam,210402]]"
-  - "[[_Standards/WikiData/WD~zonisamide,219957]]"
-  - "[[_Standards/WikiData/WD~topiramate,221174]]"
-  - "[[_Standards/WikiData/WD~phenobarbital,407241]]"
-  - "[[_Standards/WikiData/WD~clonazepam,407988]]"
-  - "[[_Standards/WikiData/WD~brivaracetam,408099]]"
-  - "[[_Standards/WikiData/WD~lamotrigine,410346]]"
-  - "[[_Standards/WikiData/WD~gabapentin,410352]]"
-  - "[[_Standards/WikiData/WD~phenytoin,410400]]"
-  - "[[_Standards/WikiData/WD~carbamazepin,410412]]"
-  - "[[_Standards/WikiData/WD~mephobarbital,411697]]"
-  - "[[_Standards/WikiData/WD~clobazam,412164]]"
-  - "[[_Standards/WikiData/WD~pregabalin,412174]]"
-  - "[[_Standards/WikiData/WD~acetazolamide,413690]]"
-  - "[[_Standards/WikiData/WD~(S)_etiracetam,417227]]"
-  - "[[_Standards/WikiData/WD~lacosamide,420077]]"
-  - "[[_Standards/WikiData/WD~primidone,420383]]"
-  - "[[_Standards/WikiData/WD~felbamate,421301]]"
-  - "[[_Standards/WikiData/WD~ethosuximide,421567]]"
-  - "[[_Standards/WikiData/WD~vigabatrin,421663]]"
-  - "[[_Standards/WikiData/WD~perampanel,868658]]"
-  - "[[_Standards/WikiData/WD~methsuximide,906414]]"
-  - "[[_Standards/WikiData/WD~ezogabine,2146170]]"
-  - "[[_Standards/WikiData/WD~ethotoin,4533122]]"
-  - "[[_Standards/WikiData/WD~fosphenytoin,5473363]]"
-  - "[[_Standards/WikiData/WD~pheneturide,7181340]]"
-  - "[[_Standards/WikiData/WD~potassium_bromide,2546]]"
+  - '[[_Standards/WikiData/WD~oxcarbazepine,176301]]'
+  - '[[_Standards/WikiData/WD~diazepam,210402]]'
+  - '[[_Standards/WikiData/WD~zonisamide,219957]]'
+  - '[[_Standards/WikiData/WD~topiramate,221174]]'
+  - '[[_Standards/WikiData/WD~phenobarbital,407241]]'
+  - '[[_Standards/WikiData/WD~clonazepam,407988]]'
+  - '[[_Standards/WikiData/WD~brivaracetam,408099]]'
+  - '[[_Standards/WikiData/WD~lamotrigine,410346]]'
+  - '[[_Standards/WikiData/WD~gabapentin,410352]]'
+  - '[[_Standards/WikiData/WD~phenytoin,410400]]'
+  - '[[_Standards/WikiData/WD~carbamazepin,410412]]'
+  - '[[_Standards/WikiData/WD~mephobarbital,411697]]'
+  - '[[_Standards/WikiData/WD~clobazam,412164]]'
+  - '[[_Standards/WikiData/WD~pregabalin,412174]]'
+  - '[[_Standards/WikiData/WD~acetazolamide,413690]]'
+  - '[[_Standards/WikiData/WD~(S)_etiracetam,417227]]'
+  - '[[_Standards/WikiData/WD~lacosamide,420077]]'
+  - '[[_Standards/WikiData/WD~primidone,420383]]'
+  - '[[_Standards/WikiData/WD~felbamate,421301]]'
+  - '[[_Standards/WikiData/WD~ethosuximide,421567]]'
+  - '[[_Standards/WikiData/WD~vigabatrin,421663]]'
+  - '[[_Standards/WikiData/WD~perampanel,868658]]'
+  - '[[_Standards/WikiData/WD~methsuximide,906414]]'
+  - '[[_Standards/WikiData/WD~ezogabine,2146170]]'
+  - '[[_Standards/WikiData/WD~ethotoin,4533122]]'
+  - '[[_Standards/WikiData/WD~fosphenytoin,5473363]]'
+  - '[[_Standards/WikiData/WD~pheneturide,7181340]]'
+  - '[[_Standards/WikiData/WD~potassium_bromide,2546]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~encephalopathy,576349]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
+  - '[[_Standards/WikiData/WD~encephalopathy,576349]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-has_effect: "[[_Standards/WikiData/WD~Postictal_twilight_state,1537070]]"
-has_cause: "[[_Standards/WikiData/WD~asphyxia_neonatorum,2694437]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+has_effect: '[[_Standards/WikiData/WD~Postictal_twilight_state,1537070]]'
+has_cause: '[[_Standards/WikiData/WD~asphyxia_neonatorum,2694437]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 genetic_association:
-  - "[[_Standards/WikiData/WD~CHRM3,17861955]]"
-  - "[[_Standards/WikiData/WD~GABRG2,18025166]]"
-  - "[[_Standards/WikiData/WD~PLA2G4A,18030575]]"
-  - "[[_Standards/WikiData/WD~PTPRD,18030938]]"
-  - "[[_Standards/WikiData/WD~SCN1A,18031391]]"
-  - "[[_Standards/WikiData/WD~SCN8A,18031400]]"
-  - "[[_Standards/WikiData/WD~PCDH19,18043114]]"
-  - "[[_Standards/WikiData/WD~MAST4,18056155]]"
-studied_by: "[[_Standards/WikiData/WD~epileptology,23688644]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
+  - '[[_Standards/WikiData/WD~CHRM3,17861955]]'
+  - '[[_Standards/WikiData/WD~GABRG2,18025166]]'
+  - '[[_Standards/WikiData/WD~PLA2G4A,18030575]]'
+  - '[[_Standards/WikiData/WD~PTPRD,18030938]]'
+  - '[[_Standards/WikiData/WD~SCN1A,18031391]]'
+  - '[[_Standards/WikiData/WD~SCN8A,18031400]]'
+  - '[[_Standards/WikiData/WD~PCDH19,18043114]]'
+  - '[[_Standards/WikiData/WD~MAST4,18056155]]'
+studied_by: '[[_Standards/WikiData/WD~epileptology,23688644]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 prevalence: 0.009
 ICD_9_CM:
-  - "345"
-  - "345.9"
-  - "345.8"
-  - "345.80"
-  - "345.90"
-  - "345.91"
-DiseasesDB: "4366"
-OmegaWiki_Defined_Meaning: "523176"
+  - 345
+  - 345.9
+  - 345.8
+  - 345.80
+  - 345.90
+  - 345.91
+DiseasesDB: 4366
+OmegaWiki_Defined_Meaning: 523176
 ICD_10_CM:
   - G40
   - G40.9

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Zygophyllales
 title: Zygophyllales
 ---
 

@@ -1,66 +1,68 @@
 ---
 aliases:
   - COPD
+  - COPD(Chronic_obstructive_pulmonary_disease)
+  - COPD(Chronic obstructive pulmonary disease)
 has_id_wikidata: Q199804
 ICD_10_CM: J44.9
 has_cause:
-  - "[[_Standards/WikiData/WD~dust,165632]]"
-  - "[[_Standards/WikiData/WD~smoking,662860]]"
+  - '[[_Standards/WikiData/WD~dust,165632]]'
+  - '[[_Standards/WikiData/WD~smoking,662860]]'
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~dyspnea,188008]]"
-  - "[[_Standards/WikiData/WD~wheeze,517104]]"
-  - "[[_Standards/WikiData/WD~cough,35805]]"
-health_specialty: "[[_Standards/WikiData/WD~pulmonology,203337]]"
+  - '[[_Standards/WikiData/WD~dyspnea,188008]]'
+  - '[[_Standards/WikiData/WD~wheeze,517104]]'
+  - '[[_Standards/WikiData/WD~cough,35805]]'
+health_specialty: '[[_Standards/WikiData/WD~pulmonology,203337]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~ambroxol,221637]]"
-  - "[[_Standards/WikiData/WD~(RS)_clenbuterol,223412]]"
-  - "[[_Standards/WikiData/WD~glycopyrrolate,411917]]"
-  - "[[_Standards/WikiData/WD~L_carbocysteine,423408]]"
-  - "[[_Standards/WikiData/WD~indacaterol,425654]]"
-  - "[[_Standards/WikiData/WD~formoterol,637247]]"
-  - "[[_Standards/WikiData/WD~fluticasone_furoate,2166700]]"
-  - "[[_Standards/WikiData/WD~bambuterol,3633651]]"
-  - "[[_Standards/WikiData/WD~erdosteine,3731252]]"
-  - "[[_Standards/WikiData/WD~etofylline,3733837]]"
-  - "[[_Standards/WikiData/WD~indacaterol_maleate,27137018]]"
-possible_treatment: "[[_Standards/WikiData/WD~symptomatic_treatment,621558]]"
+  - '[[_Standards/WikiData/WD~ambroxol,221637]]'
+  - '[[_Standards/WikiData/WD~(RS)_clenbuterol,223412]]'
+  - '[[_Standards/WikiData/WD~glycopyrrolate,411917]]'
+  - '[[_Standards/WikiData/WD~L_carbocysteine,423408]]'
+  - '[[_Standards/WikiData/WD~indacaterol,425654]]'
+  - '[[_Standards/WikiData/WD~formoterol,637247]]'
+  - '[[_Standards/WikiData/WD~fluticasone_furoate,2166700]]'
+  - '[[_Standards/WikiData/WD~bambuterol,3633651]]'
+  - '[[_Standards/WikiData/WD~erdosteine,3731252]]'
+  - '[[_Standards/WikiData/WD~etofylline,3733837]]'
+  - '[[_Standards/WikiData/WD~indacaterol_maleate,27137018]]'
+possible_treatment: '[[_Standards/WikiData/WD~symptomatic_treatment,621558]]'
 medical_examination:
-  - "[[_Standards/WikiData/WD~arterial_blood_gas_analysis,648497]]"
-  - "[[_Standards/WikiData/WD~spirometry,653305]]"
-risk_factor: "[[_Standards/WikiData/WD~smoking,662860]]"
+  - '[[_Standards/WikiData/WD~arterial_blood_gas_analysis,648497]]'
+  - '[[_Standards/WikiData/WD~spirometry,653305]]'
+risk_factor: '[[_Standards/WikiData/WD~smoking,662860]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~obstructive_lung_disease,3508797]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+  - '[[_Standards/WikiData/WD~obstructive_lung_disease,3508797]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 genetic_association:
-  - "[[_Standards/WikiData/WD~HLA_C,14906978]]"
-  - "[[_Standards/WikiData/WD~SCGB1A1,14907362]]"
-  - "[[_Standards/WikiData/WD~TGFB2,14908050]]"
-  - "[[_Standards/WikiData/WD~ANXA5,14908239]]"
-  - "[[_Standards/WikiData/WD~FTO,14912501]]"
-  - "[[_Standards/WikiData/WD~SFTPD,14914144]]"
-  - "[[_Standards/WikiData/WD~ANXA11,17828712]]"
-  - "[[_Standards/WikiData/WD~CHRNA3,17861975]]"
-  - "[[_Standards/WikiData/WD~EYA1,17917742]]"
-  - "[[_Standards/WikiData/WD~P2RX7,18030320]]"
-  - "[[_Standards/WikiData/WD~CDYL,18034084]]"
-  - "[[_Standards/WikiData/WD~ATP2C2,18034877]]"
-  - "[[_Standards/WikiData/WD~FAM13A,18035067]]"
-  - "[[_Standards/WikiData/WD~PLCE1,18040087]]"
-  - "[[_Standards/WikiData/WD~HYDIN,18041246]]"
-  - "[[_Standards/WikiData/WD~RNF150,18043075]]"
-  - "[[_Standards/WikiData/WD~RIN3,18046442]]"
-  - "[[_Standards/WikiData/WD~ASRGL1,18046601]]"
-  - "[[_Standards/WikiData/WD~SCLT1,18050381]]"
-  - "[[_Standards/WikiData/WD~PSORS1C1,18052963]]"
-  - "[[_Standards/WikiData/WD~JAKMIP3,18054044]]"
-  - "[[_Standards/WikiData/WD~FAM19A2,18055255]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-DiseasesDB: "2672"
+  - '[[_Standards/WikiData/WD~HLA_C,14906978]]'
+  - '[[_Standards/WikiData/WD~SCGB1A1,14907362]]'
+  - '[[_Standards/WikiData/WD~TGFB2,14908050]]'
+  - '[[_Standards/WikiData/WD~ANXA5,14908239]]'
+  - '[[_Standards/WikiData/WD~FTO,14912501]]'
+  - '[[_Standards/WikiData/WD~SFTPD,14914144]]'
+  - '[[_Standards/WikiData/WD~ANXA11,17828712]]'
+  - '[[_Standards/WikiData/WD~CHRNA3,17861975]]'
+  - '[[_Standards/WikiData/WD~EYA1,17917742]]'
+  - '[[_Standards/WikiData/WD~P2RX7,18030320]]'
+  - '[[_Standards/WikiData/WD~CDYL,18034084]]'
+  - '[[_Standards/WikiData/WD~ATP2C2,18034877]]'
+  - '[[_Standards/WikiData/WD~FAM13A,18035067]]'
+  - '[[_Standards/WikiData/WD~PLCE1,18040087]]'
+  - '[[_Standards/WikiData/WD~HYDIN,18041246]]'
+  - '[[_Standards/WikiData/WD~RNF150,18043075]]'
+  - '[[_Standards/WikiData/WD~RIN3,18046442]]'
+  - '[[_Standards/WikiData/WD~ASRGL1,18046601]]'
+  - '[[_Standards/WikiData/WD~SCLT1,18050381]]'
+  - '[[_Standards/WikiData/WD~PSORS1C1,18052963]]'
+  - '[[_Standards/WikiData/WD~JAKMIP3,18054044]]'
+  - '[[_Standards/WikiData/WD~FAM19A2,18055255]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+DiseasesDB: 2672
 ICD_9_CM:
-  - "496"
+  - 496
   - 490-496.99
-OmegaWiki_Defined_Meaning: "717373"
+OmegaWiki_Defined_Meaning: 717373
 Commons_category: Chronic obstructive pulmonary disease
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Centrilobular%20emphysema%20865%20lores.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-COPD-article.ogg
@@ -68,7 +70,7 @@ exact_match:
   - http://identifiers.org/doid/DOID:3083
   - http://purl.obolibrary.org/obo/DOID_3083
   - http://purl.obolibrary.org/obo/HP_0006510
-P8189: "987007538668305171"
+P8189: 987007538668305171
 UMLS_CUI: C0024117
 MeSH_tree_code:
   - C08.381.495.389

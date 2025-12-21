@@ -2,19 +2,25 @@
 aliases:
   - brambles
   - Brombeere
+  - Rubus
+  - blackberry
+  - Braam
+  - robida
+  - Ronce
+  - 悬钩子属
 has_id_wikidata: Q602740
-parent_taxon: "[[../../../../../../../../../../../../../WikiData/WD~Rosoideae,134655]]"
+parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Rosoideae,134655]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - '[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_37,112869418]]"
-taxon_synonym: "[[_Standards/WikiData/WD~Parmena,18339851]]"
-has_fruit_type: "[[_Standards/WikiData/WD~drupe,14712]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "24848"
+  - '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_37,112869418]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Parmena,18339851]]'
+has_fruit_type: '[[_Standards/WikiData/WD~drupe,14712]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 24848
 taxon_common_name:
   - blackberry
   - Braam
@@ -24,7 +30,7 @@ taxon_common_name:
   - 悬钩子属
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Blackberry%20fruits%202008%20G1.jpg
 taxon_author_citation: L.
-OmegaWiki_Defined_Meaning: "541771"
+OmegaWiki_Defined_Meaning: 541771
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=10574
 EPPO_Code: 1RUBG
 MeSH_tree_code: B01.875.800.575.912.250.859.937.500.764

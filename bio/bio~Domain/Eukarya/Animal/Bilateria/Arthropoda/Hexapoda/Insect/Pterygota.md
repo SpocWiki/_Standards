@@ -1,18 +1,28 @@
 ---
-title: Pterygota
 aliases:
   - Winged insects
   - Winged insect
+  - Pterygota
+  - مکھّی
+  - Fluginsekten
+  - Geflügelte Insekten
+  - pterygotan
+  - Pterigotos
+  - Ptérygotes
+  - Gevleugelde insecten
+  - krilate žuželke
+  - крилаті комахи
 has_id_wikidata: Q22708
-homonymous_taxon: "[[_Standards/WikiData/WD~Pterygota,2743384]]"
-taxon_rank: "[[_Standards/WikiData/WD~subclass,5867051]]"
-has_part_s_: "[[_Standards/WikiData/WD~animal_wing,12032322]]"
+title: Pterygota
+homonymous_taxon: '[[_Standards/WikiData/WD~Pterygota,2743384]]'
+taxon_rank: '[[_Standards/WikiData/WD~subclass,5867051]]'
+has_part_s_: '[[_Standards/WikiData/WD~animal_wing,12032322]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Paranotalia,123422282]]"
-studied_by: "[[_Standards/WikiData/WD~entomology,39286]]"
-ITIS_TSN: "100500"
+  - '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+  - '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Paranotalia,123422282]]'
+studied_by: '[[_Standards/WikiData/WD~entomology,39286]]'
+ITIS_TSN: 100500
 taxon_common_name:
   - مکھّی
   - Fluginsekten
@@ -24,7 +34,7 @@ taxon_common_name:
   - Pterigotos
   - krilate žuželke
   - крилаті комахи
-Dewey_Decimal_Classification: "595.7"
+Dewey_Decimal_Classification: 595.7
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pterygota.jpg
 MeSH_tree_code: B01.050.500.131.617.720
 UMLS_CUI: C0998616

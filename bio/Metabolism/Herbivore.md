@@ -1,16 +1,17 @@
 ---
 aliases:
   - Herbivor
+  - Herbivore
 has_id_wikidata: Q59099
-subclass_of: "[[_Standards/WikiData/WD~consumer,72638]]"
-opposite_of: "[[_Standards/WikiData/WD~carnivore,81875]]"
+subclass_of: '[[_Standards/WikiData/WD~consumer,72638]]'
+opposite_of: '[[_Standards/WikiData/WD~carnivore,81875]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~trophic_level,1053008]]"
-  - "[[_Standards/WikiData/WD~herbivory,45874067]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~vegetarian,18338317]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-instance_of: "[[_Standards/WikiData/WD~group_or_class_of_living_things,21871294]]"
-OmegaWiki_Defined_Meaning: "1760"
+  - '[[_Standards/WikiData/WD~trophic_level,1053008]]'
+  - '[[_Standards/WikiData/WD~herbivory,45874067]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~vegetarian,18338317]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~group_or_class_of_living_things,21871294]]'
+OmegaWiki_Defined_Meaning: 1760
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fawn%20and%20mother.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Moose%20on%20Seedskadee%20National%20Wildlife%20Refuge.webm
 Commons_category: Herbivores

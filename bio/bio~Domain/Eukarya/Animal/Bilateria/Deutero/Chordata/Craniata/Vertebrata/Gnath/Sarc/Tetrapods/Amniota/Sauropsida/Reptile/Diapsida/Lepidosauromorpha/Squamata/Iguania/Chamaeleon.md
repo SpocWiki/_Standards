@@ -3,21 +3,24 @@ aliases:
   - Chamäleon
   - Chameleon
   - Chameleons
+  - Chamaeleon
+  - kameleoner
+  - kameleoni
 has_id_wikidata: Q37686
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Bunglon,12477905]]"
-parent_taxon: "[[_Standards/WikiData/WD~Acrodonta,60790273]]"
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
+  - '[[_Standards/WikiData/WD~Bunglon,12477905]]'
+parent_taxon: '[[_Standards/WikiData/WD~Acrodonta,60790273]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "208969"
-OmegaWiki_Defined_Meaning: "640095"
+  - '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 208969
+OmegaWiki_Defined_Meaning: 640095
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bradypodion%20pumilum%20Cape%20chameleon%20female%20IMG%201767%20%28cropped%29.jpg
 taxon_common_name:
   - kameleoner
@@ -27,7 +30,7 @@ taxon_name: Chamaeleonidae
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cameleonidae%20Repartition%20Map.png
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Green%20chameleon.ogv
 EPPO_Code: 1CHMLF
-P8189: "987007284948305171"
+P8189: 987007284948305171
 subreddit:
   - Chameleons
 NBN_System_Key: NHMSYS0000065901

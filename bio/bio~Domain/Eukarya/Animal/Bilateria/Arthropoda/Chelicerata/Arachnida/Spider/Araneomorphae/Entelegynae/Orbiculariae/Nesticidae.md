@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Nesticidae
 title: Nesticidae
 ---
 

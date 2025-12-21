@@ -1,5 +1,7 @@
 ---
-title: "Mastigoteuthis psychrophila"
+aliases:
+  - psychrophila
+title: Mastigoteuthis psychrophila
 ---
 
 ## Phylogeny 

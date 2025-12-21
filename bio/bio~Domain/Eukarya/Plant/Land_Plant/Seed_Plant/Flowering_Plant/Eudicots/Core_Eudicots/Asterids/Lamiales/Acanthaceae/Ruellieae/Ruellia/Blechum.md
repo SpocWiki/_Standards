@@ -1,5 +1,7 @@
 ---
-title: "Blechum clade"
+aliases:
+  - Blechum
+title: Blechum clade
 ---
 
 ## Phylogeny 

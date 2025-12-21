@@ -15,7 +15,7 @@ taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
 Commons_gallery: Gorilla
 Commons_category: Gorilla
 taxon_name: Gorilla
-ITIS_TSN: "572837"
+ITIS_TSN: 572837
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lowland%20Gorilla%20%288973697544%29.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Mountain%20gorilla%2C%202-year-old%2C%20Mubare%20Group%2C%20Buhoma%2C%20Bwindi%20Impenetrable%20Forest%2C%20Uganda.jpg
@@ -27,7 +27,7 @@ NBN_System_Key: NHMSYS0000376721
 Unicode_character: 🦍
 ---
 
-# [[Gorilla]]
+# [[Gorilla]] 🦍 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Gorilla,36611|WD~Gorilla,36611]]
 

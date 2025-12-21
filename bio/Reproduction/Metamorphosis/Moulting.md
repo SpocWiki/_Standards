@@ -1,14 +1,15 @@
 ---
 aliases:
   - Häutung
+  - Moulting
 has_id_wikidata: Q381084
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-different_from: "[[_Standards/WikiData/WD~muda,1951705]]"
-subclass_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q12846774,12846774]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+different_from: '[[_Standards/WikiData/WD~muda,1951705]]'
+subclass_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12846774,12846774]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Dragonfly%20metamorphosis.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Rod%20Gryllus.jpg

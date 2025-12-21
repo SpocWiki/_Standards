@@ -1,5 +1,7 @@
 ---
-title: "Streptosiphon hirsutus"
+aliases:
+  - Streptosiphon
+title: Streptosiphon hirsutus
 ---
 
 ## [[Streptosiphon]] 

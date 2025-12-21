@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Theridiidae
 title: Theridiidae
 ---
 

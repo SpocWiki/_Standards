@@ -1,5 +1,7 @@
 ---
-title: "African Ruellia"
+aliases:
+  - Africanis
+title: African Ruellia
 ---
 
 # Ruellia_Africanis 

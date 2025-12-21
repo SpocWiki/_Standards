@@ -1,7 +1,7 @@
 ---
 aliases:
-- Pseudomonadota
-- Proteobacteria
+  - Pseudomonadota
+  - Proteobacteria
 title: Proteobacteria
 ---
 

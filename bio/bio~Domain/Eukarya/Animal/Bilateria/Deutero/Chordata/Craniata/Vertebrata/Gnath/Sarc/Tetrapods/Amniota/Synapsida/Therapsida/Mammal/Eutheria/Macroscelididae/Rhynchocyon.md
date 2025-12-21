@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Rhynchocyon
 title: Rhynchocyon
 ---
 

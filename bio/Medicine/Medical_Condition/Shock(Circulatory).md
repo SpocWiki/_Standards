@@ -1,22 +1,23 @@
 ---
 aliases:
   - Schock
+  - Shock(Circulatory)
 has_id_wikidata: Q178061
 instance_of:
-  - "[[_Standards/WikiData/WD~syndrome,179630]]"
-  - "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
+  - '[[_Standards/WikiData/WD~syndrome,179630]]'
+  - '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-health_specialty: "[[_Standards/WikiData/WD~intensive_care_medicine,679690]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+health_specialty: '[[_Standards/WikiData/WD~intensive_care_medicine,679690]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~circulatory_collapse,5121708]]"
-  - "[[_Standards/WikiData/WD~cardiovascular_system_symptom,102186826]]"
-different_from: "[[_Standards/WikiData/WD~Q42885871,42885871]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_shock_types,97914593]]"
-DiseasesDB: "12013"
+  - '[[_Standards/WikiData/WD~circulatory_collapse,5121708]]'
+  - '[[_Standards/WikiData/WD~cardiovascular_system_symptom,102186826]]'
+different_from: '[[_Standards/WikiData/WD~Q42885871,42885871]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_shock_types,97914593]]'
+DiseasesDB: 12013
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Shock.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Versorgung%20eines%20Notfallpatienten.jpg
 exact_match: http://purl.obolibrary.org/obo/SYMP_0000450

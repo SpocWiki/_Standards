@@ -1,11 +1,19 @@
 ---
-3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20pig%20smooth.stl
 aliases:
   - Domestic pig
   - Sus domesticus
   - Swine
   - Hausschwein
   - hog
+  - Domestic_Pig
+  - Domestic Pig
+  - gochu
+  - tamgris
+  - świnia domowa
+  - domači prašič
+  - spekkhogger
+has_id_wikidata: Q787
+3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20pig%20smooth.stl
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Mudchute%20pig%201.ogg
 Commons_category: Sus scrofa domesticus
 Commons_gallery: Sus scrofa domesticus
@@ -18,7 +26,6 @@ GenBank_assembly_accession_number:
   - GCA_017957985.1
   - GCA_020567905.1
   - GCA_029890225.1
-has_id_wikidata: Q787
 has_part_s_:
   - "[[_Standards/WikiData/WD~male_pig,1484022]]"
   - "[[_Standards/WikiData/WD~female_pig,15942027]]"
@@ -68,7 +75,7 @@ UNSPSC_Code: 10101511
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Pigsinapen-usdavideo.ogv
 ---
 
-# [[Domestic_Pig]] 
+# [[Domestic_Pig]] 🐷 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Pig,787|WD~Pig,787]] 
 

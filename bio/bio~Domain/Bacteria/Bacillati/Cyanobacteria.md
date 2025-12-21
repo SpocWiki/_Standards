@@ -1,8 +1,8 @@
 ---
 aliases:
-- "blue-green algae"
-- Blaualge
-- Cyanobacteria
+  - blue-green algae
+  - Blaualge
+  - Cyanobacteria
 title: Cyanobacteria
 ---
 

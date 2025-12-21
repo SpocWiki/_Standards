@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Loliginidae
 title: Loliginidae
 ---
 

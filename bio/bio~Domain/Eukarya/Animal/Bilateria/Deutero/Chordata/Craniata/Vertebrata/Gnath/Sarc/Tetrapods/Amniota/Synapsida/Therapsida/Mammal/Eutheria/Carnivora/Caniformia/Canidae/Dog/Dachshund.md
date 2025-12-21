@@ -7,10 +7,11 @@ aliases:
   - badger dog
   - doxen
   - doxie
+  - Dachshund
 has_id_wikidata: Q29099
-different_from: "[[_Standards/WikiData/WD~Q11716842,11716842]]"
-subclass_of: "[[_Standards/WikiData/WD~dog,144]]"
-country_of_origin: "[[_Standards/WikiData/WD~Germany,183]]"
+different_from: '[[_Standards/WikiData/WD~Q11716842,11716842]]'
+subclass_of: '[[_Standards/WikiData/WD~dog,144]]'
+country_of_origin: '[[_Standards/WikiData/WD~Germany,183]]'
 height:
   - 5
   - 9
@@ -20,17 +21,17 @@ diameter:
   - 45
   - 47
 litter_size: 5.4
-has_characteristic: "[[_Standards/WikiData/WD~length,36253]]"
-instance_of: "[[_Standards/WikiData/WD~dog_breed,39367]]"
-catalog_code: "148"
+has_characteristic: '[[_Standards/WikiData/WD~length,36253]]'
+instance_of: '[[_Standards/WikiData/WD~dog_breed,39367]]'
+catalog_code: 148
 subreddit:
   - Dachshund
   - dachshunds
 Commons_gallery: Dachshund
 Commons_category: Dachshund
-OmegaWiki_Defined_Meaning: "352491"
+OmegaWiki_Defined_Meaning: 352491
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MiniDachshund1%20wb.jpg
-Dewey_Decimal_Classification: "636.7538"
+Dewey_Decimal_Classification: 636.7538
 ---
 
 # [[Dachshund]] 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Parasitengona
 title: Parasitengona
 ---
 

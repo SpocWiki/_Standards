@@ -1,5 +1,7 @@
 ---
-title: "Tree of Life"
+aliases:
+  - bio~Tree
+title: Tree of Life
 ---
 
 # Tree_of_Life   

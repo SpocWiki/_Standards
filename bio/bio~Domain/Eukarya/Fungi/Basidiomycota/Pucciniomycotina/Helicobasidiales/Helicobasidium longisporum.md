@@ -1,5 +1,7 @@
 ---
-title: "Helicobasidium longisporum"
+aliases:
+  - Helicobasidium longisporum
+title: Helicobasidium longisporum
 ---
 
 ## Phylogeny 

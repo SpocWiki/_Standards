@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Discosauriscus
 title: Discosauriscus
 ---
 

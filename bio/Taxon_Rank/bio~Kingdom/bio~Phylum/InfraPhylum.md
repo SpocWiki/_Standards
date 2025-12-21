@@ -1,12 +1,13 @@
 ---
 aliases:
   - subphylum
+  - InfraPhylum
 has_id_wikidata: Q2361851
-instance_of: "[[_Standards/WikiData/WD~taxonomic_rank,427626]]"
+instance_of: '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
 part_of:
-  - "[[_Standards/WikiData/WD~subphylum,1153785]]"
-  - "[[_Standards/WikiData/WD~subdivision,3491997]]"
-different_from: "[[_Standards/WikiData/WD~infradivision,23759835]]"
+  - '[[_Standards/WikiData/WD~subphylum,1153785]]'
+  - '[[_Standards/WikiData/WD~subdivision,3491997]]'
+different_from: '[[_Standards/WikiData/WD~infradivision,23759835]]'
 ---
 
 # [[InfraPhylum]] 

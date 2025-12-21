@@ -4,21 +4,23 @@ aliases:
   - terminated
   - Terminated
   - is_a_terminated
+  - Study_is_terminated
+  - Study is terminated
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalStudyStatus
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - terminated
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_terminated Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

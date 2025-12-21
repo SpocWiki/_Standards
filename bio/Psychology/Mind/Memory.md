@@ -1,6 +1,7 @@
 ---
 aliases:
   - Gedächtnis
+  - Memory
 has_id_wikidata: Q492
 ---
 

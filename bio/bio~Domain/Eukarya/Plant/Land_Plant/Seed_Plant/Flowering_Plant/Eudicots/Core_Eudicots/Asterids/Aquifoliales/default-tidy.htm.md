@@ -1,5 +1,7 @@
 ---
-generator: "HTML Tidy for Windows (vers 1st November 2003), see www.w3.org"
+aliases:
+  - default-tidy.htm
+generator: HTML Tidy for Windows (vers 1st November 2003), see www.w3.org
 ---
 
 -   [Flowering_Plant](../../../../../Flowering_Plant.md)

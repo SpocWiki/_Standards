@@ -1,5 +1,7 @@
 ---
-title: "Oreamnos americanus"
+aliases:
+  - Oreamnos
+title: Oreamnos americanus
 ---
 
 ## Phylogeny 

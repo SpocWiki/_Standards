@@ -1,17 +1,19 @@
 ---
 aliases:
   - Developmental biology
+  - Developmental_Biology
+  - Developmental Biology
 has_id_wikidata: Q213713
-has_part_s_: "[[_Standards/WikiData/WD~morphogenesis,815547]]"
-different_from: "[[_Standards/WikiData/WD~evolutionary_biology,840400]]"
+has_part_s_: '[[_Standards/WikiData/WD~morphogenesis,815547]]'
+different_from: '[[_Standards/WikiData/WD~evolutionary_biology,840400]]'
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~developmental_process,2843407]]"
-  - "[[_Standards/WikiData/WD~embryogenesis,28962]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Developmental_biology,14387634]]"
-practiced_by: "[[_Standards/WikiData/WD~developmental_biologist,15839135]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_biology,28598684]]"
-subclass_of: "[[_Standards/WikiData/WD~biology,420]]"
-All_Science_Journal_Classification_Codes: "1309"
+  - '[[_Standards/WikiData/WD~developmental_process,2843407]]'
+  - '[[_Standards/WikiData/WD~embryogenesis,28962]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Developmental_biology,14387634]]'
+practiced_by: '[[_Standards/WikiData/WD~developmental_biologist,15839135]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_biology,28598684]]'
+subclass_of: '[[_Standards/WikiData/WD~biology,420]]'
+All_Science_Journal_Classification_Codes: 1309
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/11-stages-womanhood-1840s.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Bourgery%20-%20Trait%C3%A9%20d%27anatomie%20-%20Frontispice.jpg

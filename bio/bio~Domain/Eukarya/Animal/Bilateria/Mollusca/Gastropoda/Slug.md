@@ -1,18 +1,19 @@
 ---
 aliases:
   - Nacktschnecke
+  - Slug
 has_id_wikidata: Q1953597
 different_from:
-  - "[[_Standards/WikiData/WD~snail,308841]]"
-  - "[[_Standards/WikiData/WD~semi_slug,7449322]]"
+  - '[[_Standards/WikiData/WD~snail,308841]]'
+  - '[[_Standards/WikiData/WD~semi_slug,7449322]]'
 taxon_known_by_this_common_name:
-  - "[[_Standards/WikiData/WD~Soleolifera,3087946]]"
-  - "[[_Standards/WikiData/WD~Onchidiidae,3174175]]"
+  - '[[_Standards/WikiData/WD~Soleolifera,3087946]]'
+  - '[[_Standards/WikiData/WD~Onchidiidae,3174175]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-subclass_of: "[[_Standards/WikiData/WD~Gastropoda,4867740]]"
-instance_of: "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+subclass_of: '[[_Standards/WikiData/WD~Gastropoda,4867740]]'
+instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
 Commons_gallery: Slug
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Slug%20in%20VanDusen%20Botanical%20Garden.jpg
 Commons_category: Slugs

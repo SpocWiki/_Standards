@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Lorisiformes
 title: Lorisiformes
 ---
 

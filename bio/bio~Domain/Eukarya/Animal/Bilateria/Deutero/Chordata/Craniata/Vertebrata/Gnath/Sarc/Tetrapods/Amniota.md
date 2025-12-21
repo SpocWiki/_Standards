@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Amniota
 title: Amniota
 ---
 

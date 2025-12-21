@@ -4,6 +4,7 @@ aliases:
   - European wood bison
   - zubr
   - European buffalo
+  - Wisent
 ---
 
 # [[Wisent]] 

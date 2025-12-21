@@ -3,6 +3,8 @@ aliases:
   - Süßkartoffel
   - sweet potato
   - sweetpotato
+  - Sweet_Potato
+  - Sweet Potato
 has_id_wikidata: Q37937
 UNII: 46B7278T57
 MeSH_tree_code: B01.875.800.575.912.250.238.500.500
@@ -14,7 +16,7 @@ Danbooru_tag: sweet_potato
 hashtag: sweet_potato
 short_name: I. batatas
 external_data_available_at_URL: https://www.gbif.org/dataset/31dc1507-a6e1-4233-a8df-c7a78596a7e4
-Dewey_Decimal_Classification: "641.3522"
+Dewey_Decimal_Classification: 641.3522
 parent_taxon: "[[_Standards/WikiData/WD~Ipomoea,161173]]"
 has_use:
   - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
@@ -51,10 +53,10 @@ taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 food_energy: 86
 USDA_NDB_number:
-  - "11877"
-  - "11505"
-ITIS_TSN: "30764"
-OmegaWiki_Defined_Meaning: "1336889"
+  - 11877
+  - 11505
+ITIS_TSN: 30764
+OmegaWiki_Defined_Meaning: 1336889
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ipomoea%20batatas%20006.JPG
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ipomoea%20batatas%20%28Sweet%20Potato%29%20Flower.jpg
@@ -75,7 +77,7 @@ GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=20142
 Unicode_character: 🍠
 ---
 
-# [[Sweet_Potato]] 
+# [[Sweet_Potato]] 🍠 
 
 #is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Sweet_potato,37937|WD~Sweet_potato,37937]]  
 

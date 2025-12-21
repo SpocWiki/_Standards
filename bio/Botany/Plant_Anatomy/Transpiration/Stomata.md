@@ -2,18 +2,19 @@
 aliases:
   - stomate
   - stomates
+  - Stomata
 has_id_wikidata: Q216635
-has_part_s_: "[[_Standards/WikiData/WD~guard_cell,241368]]"
-subclass_of: "[[_Standards/WikiData/WD~body_orifice,546776]]"
+has_part_s_: '[[_Standards/WikiData/WD~guard_cell,241368]]'
+subclass_of: '[[_Standards/WikiData/WD~body_orifice,546776]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Great_Encyclopedia_of_Cyril_and_Methodius,4091875]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Great_Encyclopedia_of_Cyril_and_Methodius,4091875]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-has_use: "[[_Standards/WikiData/WD~gas_exchange,1146120]]"
-instance_of: "[[_Standards/WikiData/WD~plant_structure,20011319]]"
-OmegaWiki_Defined_Meaning: "1250652"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+has_use: '[[_Standards/WikiData/WD~gas_exchange,1146120]]'
+instance_of: '[[_Standards/WikiData/WD~plant_structure,20011319]]'
+OmegaWiki_Defined_Meaning: 1250652
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lilium%20stoma%20L.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Tomato%20leaf%20stomate%201.jpg

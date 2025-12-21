@@ -2,8 +2,11 @@
 aliases:
   - Octopoda
   - Octopod
-title: Octopoda
+  - Achtfüßer
+  - åttearmete blekkspruter
+  - hobotnice
 has_id_wikidata: Q40152
+title: Octopoda
 uses:
   - "[[_Standards/WikiData/WD~mimicry,192627]]"
   - "[[_Standards/WikiData/WD~physical_object,223557]]"
@@ -26,10 +29,10 @@ has_part_s_: "[[_Standards/WikiData/WD~brain,1073]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 litter_size: 80000
 taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-ITIS_TSN: "82589"
+ITIS_TSN: 82589
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Octopus2.jpg
 Unicode_character: 🐙
-Dewey_Decimal_Classification: "564.56"
+Dewey_Decimal_Classification: 564.56
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/OSMINOGI.html
 NBN_System_Key: NHMSYS0021055250
 Commons_category: Octopoda
@@ -41,7 +44,7 @@ taxon_common_name:
 start_time: -323200000-01-01T00:00:00Z
 ---
 
-# [[Octopod]] 
+# [[Octopod]] 🐙 
 
 Octopods or devilfishes 
 

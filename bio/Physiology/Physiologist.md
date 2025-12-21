@@ -1,15 +1,16 @@
 ---
 aliases:
   - Physiologe
+  - Physiologist
 has_id_wikidata: Q2055046
-subclass_of: "[[_Standards/WikiData/WD~biologist,864503]]"
+subclass_of: '[[_Standards/WikiData/WD~biologist,864503]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~position,4164871]]"
-  - "[[_Standards/WikiData/WD~profession,28640]]"
-different_from: "[[_Standards/WikiData/WD~Q4483585,4483585]]"
-field_of_this_occupation: "[[_Standards/WikiData/WD~physiology,521]]"
-ISCO_88_occupation_class: "2212"
-ISCO_08_occupation_class: "2131"
+  - '[[_Standards/WikiData/WD~position,4164871]]'
+  - '[[_Standards/WikiData/WD~profession,28640]]'
+different_from: '[[_Standards/WikiData/WD~Q4483585,4483585]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~physiology,521]]'
+ISCO_88_occupation_class: 2212
+ISCO_08_occupation_class: 2131
 male_form_of_label:
   - fisiologo
   - fiziolog

@@ -1,6 +1,7 @@
 ---
 aliases:
   - aging
+  - Ageing
 ---
 
 # [[Ageing]] 

@@ -19,12 +19,12 @@ instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 color:
   - "[[_Standards/WikiData/WD~white,23444]]"
   - "[[_Standards/WikiData/WD~black,23445]]"
-OmegaWiki_Defined_Meaning: "7849"
+OmegaWiki_Defined_Meaning: 7849
 IMDb_keyword: zebra
 Biology_Online_Biology_Dictionary_entry: zebra
 Commons_gallery: Zebra
 Commons_category: Zebras
-ITIS_TSN: "926087"
+ITIS_TSN: 926087
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Plains%20Zebra%20Equus%20quagga.jpg
 taxon_name: Hippotigris
 Library_of_Congress_Classification:
@@ -32,13 +32,12 @@ Library_of_Congress_Classification:
   - QL795.Z42
   - Z7996.Z43
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Warum%20hat%20ein%20Zebra%20Streifen%3F.webm
-Dewey_Decimal_Classification: "599.6657"
+Dewey_Decimal_Classification: 599.6657
 Krugosvet_article: nauka_i_tehnika/biologiya/ZEBRI.html
 Unicode_character: 🦓
 ---
 
-
-# [[Zebra]]
+# [[Zebra]] 🦓 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Zebra,32789|WD~Zebra,32789]]
 

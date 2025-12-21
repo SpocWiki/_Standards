@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Kubanochoerinae
 title: Kubanochoerinae
 ---
 

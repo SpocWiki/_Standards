@@ -1,23 +1,29 @@
 ---
 aliases:
   - Platane
+  - Platanus
+  - Plane
+  - Plataan
+  - Sycamore
+  - platana
+  - 悬铃木属
 has_id_wikidata: Q163025
-taxonomic_type: "[[_Standards/WikiData/WD~Plantanus_orientalis,161105]]"
+taxonomic_type: '[[_Standards/WikiData/WD~Plantanus_orientalis,161105]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_35(2),112869416]]"
-  - "[[_Standards/WikiData/WD~Flora_partis_europaeae_URSS,113988328]]"
-has_fruit_type: "[[_Standards/WikiData/WD~nucule,5118786]]"
-different_from: "[[_Standards/WikiData/WD~Plataan,15977691]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~sycamore,21418842]]"
-subclass_of: "[[_Standards/WikiData/WD~tree,10884]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "19019"
-OmegaWiki_Defined_Meaning: "915543"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_35(2),112869416]]'
+  - '[[_Standards/WikiData/WD~Flora_partis_europaeae_URSS,113988328]]'
+has_fruit_type: '[[_Standards/WikiData/WD~nucule,5118786]]'
+different_from: '[[_Standards/WikiData/WD~Plataan,15977691]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~sycamore,21418842]]'
+subclass_of: '[[_Standards/WikiData/WD~tree,10884]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 19019
+OmegaWiki_Defined_Meaning: 915543
 taxon_common_name:
   - Plane
   - Plataan
@@ -35,9 +41,9 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=9494
 EPPO_Code: 1PLTG
 Dewey_Decimal_Classification:
-  - "583.44"
-  - "634.97344"
-  - "635.977344"
+  - 583.44
+  - 634.97344
+  - 635.977344
 UMLS_CUI: C0997105
 NBN_System_Key: NHMSYS0000461776
 Library_of_Congress_Classification:

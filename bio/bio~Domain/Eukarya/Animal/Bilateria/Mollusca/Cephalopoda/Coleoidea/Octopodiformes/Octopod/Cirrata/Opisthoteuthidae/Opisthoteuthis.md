@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Opisthoteuthis
 title: Opisthoteuthis
 ---
 

@@ -2,29 +2,29 @@
 aliases:
   - Gazella
   - Gazelle
-title: Gazella
 has_id_wikidata: Q190858
+title: Gazella
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-parent_taxon: "[[_Standards/WikiData/WD~Antilopini,924023]]"
-different_from: "[[_Standards/WikiData/WD~gazelle,29001815]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Capra_dorcas,109647099]]"
+  - '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+parent_taxon: '[[_Standards/WikiData/WD~Antilopini,924023]]'
+different_from: '[[_Standards/WikiData/WD~gazelle,29001815]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Capra_dorcas,109647099]]'
 homonymous_taxon:
-  - "[[_Standards/WikiData/WD~Gazella_Pallas,_1769,122352120]]"
-  - "[[_Standards/WikiData/WD~Gazella_Lichtenstein,_1814,122352832]]"
-  - "[[_Standards/WikiData/WD~Gazella_Rafinesque,_1815,122353006]]"
+  - '[[_Standards/WikiData/WD~Gazella_Pallas,_1769,122352120]]'
+  - '[[_Standards/WikiData/WD~Gazella_Lichtenstein,_1814,122352832]]'
+  - '[[_Standards/WikiData/WD~Gazella_Rafinesque,_1815,122353006]]'
 taxon_synonym:
-  - "[[_Standards/WikiData/WD~Gazella_Pallas,_1769,122352120]]"
-  - "[[_Standards/WikiData/WD~Gazella_Lichtenstein,_1814,122352832]]"
-  - "[[_Standards/WikiData/WD~Gazella_Rafinesque,_1815,122353006]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-OmegaWiki_Defined_Meaning: "1018466"
-ITIS_TSN: "624969"
+  - '[[_Standards/WikiData/WD~Gazella_Pallas,_1769,122352120]]'
+  - '[[_Standards/WikiData/WD~Gazella_Lichtenstein,_1814,122352832]]'
+  - '[[_Standards/WikiData/WD~Gazella_Rafinesque,_1815,122353006]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+OmegaWiki_Defined_Meaning: 1018466
+ITIS_TSN: 624969
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Thompson%27s%20Gazelle.jpeg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Slender-horned%20gazelle%20%28Cincinnati%20Zoo%29.jpg

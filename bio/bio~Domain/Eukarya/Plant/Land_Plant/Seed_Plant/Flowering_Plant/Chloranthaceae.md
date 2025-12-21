@@ -1,6 +1,6 @@
 ---
 aliases:
-- Chloranthaceae
+  - Chloranthaceae
 title: Chloranthaceae
 ---
 

@@ -1,23 +1,25 @@
 ---
 aliases:
   - Gewichtsverlust
+  - Weight_Loss
+  - Weight Loss
 has_id_wikidata: Q718113
 facet_of:
-  - "[[_Standards/WikiData/WD~human_body_weight,620876]]"
+  - '[[_Standards/WikiData/WD~human_body_weight,620876]]'
   - "[[_Standards/WikiData/WD~women's_health,8031191]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~clinical_sign,1441305]]"
-  - "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
-drug_or_therapy_used_for_treatment: "[[_Standards/WikiData/WD~bariatric_medicine,1470093]]"
-opposite_of: "[[_Standards/WikiData/WD~weight_gain,3403879]]"
+  - '[[_Standards/WikiData/WD~clinical_sign,1441305]]'
+  - '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+drug_or_therapy_used_for_treatment: '[[_Standards/WikiData/WD~bariatric_medicine,1470093]]'
+opposite_of: '[[_Standards/WikiData/WD~weight_gain,3403879]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~management_of_obesity,6746705]]"
-  - "[[_Standards/WikiData/WD~body_weight_change,21128838]]"
-  - "[[_Standards/WikiData/WD~reduction,47496130]]"
-  - "[[_Standards/WikiData/WD~nutrition,_metabolism,_and_development_symptom,102187407]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
-IAB_code: "231"
-DiseasesDB: "28440"
+  - '[[_Standards/WikiData/WD~management_of_obesity,6746705]]'
+  - '[[_Standards/WikiData/WD~body_weight_change,21128838]]'
+  - '[[_Standards/WikiData/WD~reduction,47496130]]'
+  - '[[_Standards/WikiData/WD~nutrition,_metabolism,_and_development_symptom,102187407]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+IAB_code: 231
+DiseasesDB: 28440
 subreddit: loseit
 Commons_category: Weight loss
 image:

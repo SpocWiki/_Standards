@@ -7,6 +7,29 @@ aliases:
   - ten-lined potato beetle
   - potato bug
   - Colorado potato beetle
+  - Potato_Beetle
+  - Pásavka zemiaková
+  - koloradski hrošč
+  - Coloradoskalbagge
+  - Patates böceği
+  - Колорадський жук
+  - Doryphore
+  - Колорадски бръмбар
+  - mandelinka bramborová
+  - Terpoma skarabo
+  - Escarabajo de la patata
+  - Kartulimardikas
+  - koloradonkuoriainen
+  - Dorifora della patata
+  - コロラドハムシ
+  - Kolorado vabalas
+  - koloradobille
+  - potetbille
+  - Coloradokever
+  - Stonka ziemniaczana
+  - Besouro-da-batata
+  - Gândacul de colorado
+  - Колорадский картофельный жук
 has_id_wikidata: Q156954
 taxon_common_name:
   - Pásavka zemiaková
@@ -36,28 +59,28 @@ taxon_common_name:
   - Gândacul de colorado
   - Колорадский картофельный жук
 described_by_source:
-  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-parent_taxon: "[[_Standards/WikiData/WD~Leptinotarsa,602990]]"
-different_from: "[[_Standards/WikiData/WD~PKP_class_SM42,720925]]"
-has_pattern: "[[_Standards/WikiData/WD~stripe,3421342]]"
-has_characteristic: "[[_Standards/WikiData/WD~War_against_the_potato_beetle,17033151]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+parent_taxon: '[[_Standards/WikiData/WD~Leptinotarsa,602990]]'
+different_from: '[[_Standards/WikiData/WD~PKP_class_SM42,720925]]'
+has_pattern: '[[_Standards/WikiData/WD~stripe,3421342]]'
+has_characteristic: '[[_Standards/WikiData/WD~War_against_the_potato_beetle,17033151]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[_Standards/WikiData/WD~taxon,16521]]'
 main_food_source:
-  - "[[_Standards/WikiData/WD~tomato,23501]]"
-OmegaWiki_Defined_Meaning: "690515"
-ITIS_TSN: "720110"
+  - '[[_Standards/WikiData/WD~tomato,23501]]'
+OmegaWiki_Defined_Meaning: 690515
+ITIS_TSN: 720110
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Colorado%20potato%20beetle.jpg
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Potato%20beetle%20diffusion.jpg
 UNII: 5G7820U646
-P8189: "987007284890305171"
+P8189: 987007284890305171
 UMLS_CUI: C0998633
 taxon_name: Leptinotarsa decemlineata
 Commons_gallery: Leptinotarsa decemlineata

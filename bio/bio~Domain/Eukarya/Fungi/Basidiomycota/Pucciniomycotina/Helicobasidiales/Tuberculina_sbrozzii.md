@@ -1,5 +1,8 @@
 ---
-title: "Tuberculina sbrozzii"
+aliases:
+  - Tuberculina_sbrozzii
+  - Tuberculina sbrozzii
+title: Tuberculina sbrozzii
 ---
 
 ## Phylogeny 

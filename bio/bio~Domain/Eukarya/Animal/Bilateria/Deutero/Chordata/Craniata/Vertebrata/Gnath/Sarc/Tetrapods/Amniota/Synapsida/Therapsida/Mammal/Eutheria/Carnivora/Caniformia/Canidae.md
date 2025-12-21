@@ -1,18 +1,23 @@
 ---
+aliases:
+  - Canidae
+  - hundefamilien
+  - hondachtigen
+  - psowate
 has_id_wikidata: Q25324
-habitat: "[[_Standards/WikiData/WD~landmass,205895]]"
+habitat: '[[_Standards/WikiData/WD~landmass,205895]]'
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Canidae_nav,6861923]]"
-  - "[[_Standards/WikiData/WD~Q10716565,10716565]]"
-  - "[[_Standards/WikiData/WD~Template_Taxonomy_Canidae,13217763]]"
-parent_taxon: "[[_Standards/WikiData/WD~Canoidea,21446607]]"
-means_of_locomotion: "[[_Standards/WikiData/WD~quadrupedalism,21907045]]"
+  - '[[_Standards/WikiData/WD~Template_Canidae_nav,6861923]]'
+  - '[[_Standards/WikiData/WD~Q10716565,10716565]]'
+  - '[[_Standards/WikiData/WD~Template_Taxonomy_Canidae,13217763]]'
+parent_taxon: '[[_Standards/WikiData/WD~Canoidea,21446607]]'
+means_of_locomotion: '[[_Standards/WikiData/WD~quadrupedalism,21907045]]'
 start_time: -39750000-06
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-OmegaWiki_Defined_Meaning: "481"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+OmegaWiki_Defined_Meaning: 481
 IMDb_keyword: canine
-ITIS_TSN: "180594"
+ITIS_TSN: 180594
 Commons_gallery: Canidae
 Commons_category: Canidae
 taxon_name: Canidae

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bothriuridae
 title: Bothriuridae
 ---
 

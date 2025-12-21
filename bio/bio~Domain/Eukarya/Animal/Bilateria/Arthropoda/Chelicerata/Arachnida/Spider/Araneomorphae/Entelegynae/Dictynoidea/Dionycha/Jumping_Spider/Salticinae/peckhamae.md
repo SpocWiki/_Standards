@@ -1,5 +1,7 @@
 ---
-title: "Salticus peckhamae"
+aliases:
+  - peckhamae
+title: Salticus peckhamae
 ---
 
 ## Phylogeny 

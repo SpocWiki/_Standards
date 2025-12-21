@@ -2,16 +2,25 @@
 aliases:
   - Tagetes
   - cempōhualxōchitl
+  - marigold
+  - Samettikukat
+  - Tagète
+  - Bársonyvirágfélék
+  - Afrikaantje
+  - Бархатцы
+  - Kadife çiçeği
+  - 万寿菊属
+  - 孔雀草属
 has_id_wikidata: Q147552
-named_after: "[[_Standards/WikiData/WD~Tages,659594]]"
+named_after: '[[_Standards/WikiData/WD~Tages,659594]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
-  - "[[_Standards/WikiData/WD~Q19133013,19133013]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_75,112869482]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "38482"
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+  - '[[_Standards/WikiData/WD~Q19133013,19133013]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_75,112869482]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 38482
 taxon_common_name:
   - marigold
   - Samettikukat

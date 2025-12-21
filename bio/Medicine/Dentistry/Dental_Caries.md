@@ -2,53 +2,55 @@
 aliases:
   - Tooth decay
   - caries
+  - Dental_Caries
+  - Dental Caries
 has_id_wikidata: Q133772
 has_cause:
-  - "[[_Standards/WikiData/WD~Streptococcus_mutans,131452]]"
-  - "[[_Standards/WikiData/WD~Lactobacillus,1061596]]"
-  - "[[_Standards/WikiData/WD~sugar,11002]]"
+  - '[[_Standards/WikiData/WD~Streptococcus_mutans,131452]]'
+  - '[[_Standards/WikiData/WD~Lactobacillus,1061596]]'
+  - '[[_Standards/WikiData/WD~sugar,11002]]'
 afflicts:
-  - "[[_Standards/WikiData/WD~tooth_enamel,143942]]"
-  - "[[_Standards/WikiData/WD~dentin,189637]]"
+  - '[[_Standards/WikiData/WD~tooth_enamel,143942]]'
+  - '[[_Standards/WikiData/WD~dentin,189637]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~tin(II)_fluoride,204962]]"
-  - "[[_Standards/WikiData/WD~xylitol,212093]]"
-  - "[[_Standards/WikiData/WD~sodium_fluoride,407520]]"
-  - "[[_Standards/WikiData/WD~caries_vaccine,5039551]]"
-  - "[[_Standards/WikiData/WD~aluminum_chloride_hexahydrate,17028316]]"
-  - "[[_Standards/WikiData/WD~tooth_regeneration,18394785]]"
-  - "[[_Standards/WikiData/WD~Amine_Fluoride,25324102]]"
+  - '[[_Standards/WikiData/WD~tin(II)_fluoride,204962]]'
+  - '[[_Standards/WikiData/WD~xylitol,212093]]'
+  - '[[_Standards/WikiData/WD~sodium_fluoride,407520]]'
+  - '[[_Standards/WikiData/WD~caries_vaccine,5039551]]'
+  - '[[_Standards/WikiData/WD~aluminum_chloride_hexahydrate,17028316]]'
+  - '[[_Standards/WikiData/WD~tooth_regeneration,18394785]]'
+  - '[[_Standards/WikiData/WD~Amine_Fluoride,25324102]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~caries,2250111]]"
-  - "[[_Standards/WikiData/WD~teeth_hard_tissue_disease,18555006]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-studied_by: "[[_Standards/WikiData/WD~cariology,5749238]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~caries,12824473]]"
+  - '[[_Standards/WikiData/WD~caries,2250111]]'
+  - '[[_Standards/WikiData/WD~teeth_hard_tissue_disease,18555006]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+studied_by: '[[_Standards/WikiData/WD~cariology,5749238]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~caries,12824473]]'
 genetic_association:
-  - "[[_Standards/WikiData/WD~SCN9A,14907685]]"
-  - "[[_Standards/WikiData/WD~ABCB5,14907881]]"
-  - "[[_Standards/WikiData/WD~PROM1,14911519]]"
-  - "[[_Standards/WikiData/WD~APBB2,17829281]]"
-  - "[[_Standards/WikiData/WD~MPPED2,17854249]]"
-  - "[[_Standards/WikiData/WD~SLC25A10,17910993]]"
-  - "[[_Standards/WikiData/WD~PCDH9,18030378]]"
-  - "[[_Standards/WikiData/WD~RPS6KA2,18031287]]"
-  - "[[_Standards/WikiData/WD~ADAMTS3,18034337]]"
-  - "[[_Standards/WikiData/WD~MYO16,18036665]]"
-  - "[[_Standards/WikiData/WD~CTNNA3,18039623]]"
-  - "[[_Standards/WikiData/WD~SIDT1,18041305]]"
-  - "[[_Standards/WikiData/WD~EXOC2,18042039]]"
-  - "[[_Standards/WikiData/WD~CHST9,18047180]]"
-  - "[[_Standards/WikiData/WD~BOC,18048543]]"
-  - "[[_Standards/WikiData/WD~LYZL2,18049345]]"
-  - "[[_Standards/WikiData/WD~NT5DC1,18053486]]"
-  - "[[_Standards/WikiData/WD~ATXN7L1,18053558]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-health_specialty: "[[_Standards/WikiData/WD~dentistry,12128]]"
-DiseasesDB: "29357"
+  - '[[_Standards/WikiData/WD~SCN9A,14907685]]'
+  - '[[_Standards/WikiData/WD~ABCB5,14907881]]'
+  - '[[_Standards/WikiData/WD~PROM1,14911519]]'
+  - '[[_Standards/WikiData/WD~APBB2,17829281]]'
+  - '[[_Standards/WikiData/WD~MPPED2,17854249]]'
+  - '[[_Standards/WikiData/WD~SLC25A10,17910993]]'
+  - '[[_Standards/WikiData/WD~PCDH9,18030378]]'
+  - '[[_Standards/WikiData/WD~RPS6KA2,18031287]]'
+  - '[[_Standards/WikiData/WD~ADAMTS3,18034337]]'
+  - '[[_Standards/WikiData/WD~MYO16,18036665]]'
+  - '[[_Standards/WikiData/WD~CTNNA3,18039623]]'
+  - '[[_Standards/WikiData/WD~SIDT1,18041305]]'
+  - '[[_Standards/WikiData/WD~EXOC2,18042039]]'
+  - '[[_Standards/WikiData/WD~CHST9,18047180]]'
+  - '[[_Standards/WikiData/WD~BOC,18048543]]'
+  - '[[_Standards/WikiData/WD~LYZL2,18049345]]'
+  - '[[_Standards/WikiData/WD~NT5DC1,18053486]]'
+  - '[[_Standards/WikiData/WD~ATXN7L1,18053558]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+health_specialty: '[[_Standards/WikiData/WD~dentistry,12128]]'
+DiseasesDB: 29357
 ICD_10_CM:
   - K02
   - K02.6
@@ -61,10 +63,10 @@ exact_match:
   - http://purl.obolibrary.org/obo/DOID_216
   - http://purl.obolibrary.org/obo/HP_0000670
 ICD_9_CM:
-  - "521.0"
-  - "521.00"
-  - "521.06"
-  - "521.07"
+  - 521.0
+  - 521.00
+  - 521.06
+  - 521.07
 UMLS_CUI:
   - C0011334
   - C0043154

@@ -1,5 +1,7 @@
 ---
-title: "Thysanoteuthis rhombus"
+aliases:
+  - Thysanoteuthidae
+title: Thysanoteuthis rhombus
 ---
 
 ## Phylogeny 

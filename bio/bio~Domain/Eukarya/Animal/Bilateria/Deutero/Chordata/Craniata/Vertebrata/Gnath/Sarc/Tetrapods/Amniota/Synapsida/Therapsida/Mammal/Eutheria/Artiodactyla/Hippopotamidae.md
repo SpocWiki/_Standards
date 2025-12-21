@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Hippopotamidae
 title: Hippopotamidae
 ---
 

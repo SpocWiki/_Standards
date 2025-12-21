@@ -1,17 +1,19 @@
 ---
-title: Tayassuidae
 aliases:
   - Peccaries
   - javelinas
   - skunk pigs
+  - Tayassuidae
+  - pekariji
 has_id_wikidata: Q232866
+title: Tayassuidae
 described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~peccary,70388489]]"
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "180723"
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~peccary,70388489]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 180723
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Collared%20peccary02%20-%20melbourne%20zoo.jpg
 start_time: -33900000-01-01T00:00:00Z
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Peccary%20range.png

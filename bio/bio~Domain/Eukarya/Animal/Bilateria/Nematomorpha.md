@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Nematomorpha
 title: Nematomorpha
 ---
 

@@ -1,5 +1,8 @@
 ---
-title: "IRLC (Inverted Repeat-lacking clade)"
+aliases:
+  - Inverted_Repeat-lacking
+  - Inverted Repeat-lacking
+title: IRLC (Inverted Repeat-lacking clade)
 ---
 
 # IRLC (Inverted Repeat-lacking clade) 

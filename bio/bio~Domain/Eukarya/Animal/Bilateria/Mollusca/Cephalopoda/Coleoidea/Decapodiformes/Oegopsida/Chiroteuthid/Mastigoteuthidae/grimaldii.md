@@ -1,5 +1,7 @@
 ---
-title: "Mastigoteuthis grimaldii"
+aliases:
+  - grimaldii
+title: Mastigoteuthis grimaldii
 ---
 
 ## Phylogeny 

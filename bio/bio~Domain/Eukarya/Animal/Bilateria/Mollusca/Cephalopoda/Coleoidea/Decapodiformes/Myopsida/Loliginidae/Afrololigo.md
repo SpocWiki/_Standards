@@ -1,5 +1,7 @@
 ---
-title: "Afrololigo mercatoris"
+aliases:
+  - Afrololigo
+title: Afrololigo mercatoris
 ---
 
 ## Phylogeny 

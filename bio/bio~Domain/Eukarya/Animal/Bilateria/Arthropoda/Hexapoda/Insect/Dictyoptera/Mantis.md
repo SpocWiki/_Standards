@@ -3,21 +3,35 @@ aliases:
   - Mantodea
   - Mantis
   - Fangschrecken
+  - knelere
+  - kudlanky
+  - Rukoilijasirkat
+  - Bogomoljke
+  - Աղոթարարներ
+  - カマキリ目 (蟷螂目)
+  - 사마귀목 (당랑목)
+  - tigʷərere
+  - Богомолки
+  - Bogomoljke / Богомољке
+  - Modlivky
+  - ตั๊กแตนต่อยมวย
+  - ตั๊กแตนตำข้าว
+  - 螳螂目
 has_id_wikidata: Q131250
-has_list: "[[_Standards/WikiData/WD~list_of_mantis_genera_and_species,195730]]"
+has_list: '[[_Standards/WikiData/WD~list_of_mantis_genera_and_species,195730]]'
 parent_taxon:
-  - "[[_Standards/WikiData/WD~Polyneoptera,822890]]"
-  - "[[_Standards/WikiData/WD~Dictyoptera,2087279]]"
+  - '[[_Standards/WikiData/WD~Polyneoptera,822890]]'
+  - '[[_Standards/WikiData/WD~Dictyoptera,2087279]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-homonymous_taxon: "[[_Standards/WikiData/WD~Mantodea,111446659]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-ITIS_TSN: "914220"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Mantodea,111446659]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+ITIS_TSN: 914220
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Praying%20mantis%20india.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Mantis%20religiosa%20MHNT%20enti%C3%A8re.jpg

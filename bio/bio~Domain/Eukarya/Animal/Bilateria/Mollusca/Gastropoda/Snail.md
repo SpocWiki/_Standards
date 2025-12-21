@@ -16,18 +16,17 @@ subclass_of: "[[_Standards/WikiData/WD~Gastropoda,4867740]]"
 has_part_s_: "[[_Standards/WikiData/WD~mollusc_shell,6445670]]"
 instance_of: "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
 partially_coincident_with: "[[_Standards/WikiData/WD~hibernator,123655335]]"
-OmegaWiki_Defined_Meaning: "638694"
+OmegaWiki_Defined_Meaning: 638694
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Snail.jpg
 Commons_category: Snails
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-R%20Ashwani%20Banjan%20Murmu-%E1%B1%9C%E1%B1%9A%E1%B1%9D%E1%B1%9C%E1%B1%B7%E1%B1%9F.wav
 Unicode_character: 🐌
-Amazon_com_browse_node: "15500529011"
+Amazon_com_browse_node: 15500529011
 UNII: 2VIO5GL90I
 MeSH_tree_code: B01.050.500.644.400.750
 ---
 
-
-# [[Snail]]
+# [[Snail]] 🐌 
 
 #is_/similar_to :: [[Slug]] 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Snail,308841|WD~Snail,308841]]

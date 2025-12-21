@@ -1,5 +1,7 @@
 ---
-title: "Solenodonsaurus janenschi"
+aliases:
+  - Solenodonsaurus
+title: Solenodonsaurus janenschi
 ---
 
 ## [[Solenodonsaurus]]

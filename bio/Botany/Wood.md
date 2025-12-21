@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Wood
+has_id_wikidata: Q287
 Commons_category: Wood
 Commons_gallery: Wood
 described_at_URL: https://www.fpl.fs.fed.us/documnts/pdf2013/fpl_2013_rowell002.pdf
@@ -24,7 +27,6 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00002040
 has_characteristic:
   - "[[_Standards/WikiData/WD~hygroscopy,216678]]"
   - "[[_Standards/WikiData/WD~type_of_wood,1493054]]"
-has_id_wikidata: Q287
 has_use:
   - "[[_Standards/WikiData/WD~natural_building_material,3300024]]"
   - "[[_Standards/WikiData/WD~sculpture_material,21685333]]"
@@ -62,7 +64,7 @@ used_by:
 ZVG_number: 531358
 ---
 
-# [[Wood]] 
+# [[Wood]] 🪵 
 
 #is_/same_as :: [[../../WikiData/WD~Wood,287|WD~Wood,287]] 
 

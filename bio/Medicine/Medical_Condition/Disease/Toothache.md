@@ -1,21 +1,22 @@
 ---
 aliases:
   - Zahnschmerzen
+  - Toothache
 has_id_wikidata: Q143925
 subclass_of:
-  - "[[_Standards/WikiData/WD~pain,81938]]"
-  - "[[_Standards/WikiData/WD~dental_disease,5259414]]"
-  - "[[_Standards/WikiData/WD~orofacial_pain,17149257]]"
-health_specialty: "[[_Standards/WikiData/WD~gastroenterology,120569]]"
-risk_factor: "[[_Standards/WikiData/WD~smoking,662860]]"
+  - '[[_Standards/WikiData/WD~pain,81938]]'
+  - '[[_Standards/WikiData/WD~dental_disease,5259414]]'
+  - '[[_Standards/WikiData/WD~orofacial_pain,17149257]]'
+health_specialty: '[[_Standards/WikiData/WD~gastroenterology,120569]]'
+risk_factor: '[[_Standards/WikiData/WD~smoking,662860]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Dentistry,10997336]]"
-different_from: "[[_Standards/WikiData/WD~Toothache,8261177]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Dentistry,10997336]]'
+different_from: '[[_Standards/WikiData/WD~Toothache,8261177]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-DiseasesDB: "27698"
+  - '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
+DiseasesDB: 27698
 Commons_category: Toothache
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20man%20suffering%20from%20Toothache.png
 WordLift_URL: http://data.wordlift.io/wl01714/entity/toothache

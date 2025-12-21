@@ -4,21 +4,23 @@ aliases:
   - pet
   - PET
   - is_a_pet
+  - Pet_Image
+  - Pet Image
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalImagingTechnique
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - pet
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_pet Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

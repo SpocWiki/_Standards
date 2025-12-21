@@ -1,6 +1,6 @@
 ---
 aliases:
-- Rosids
+  - Rosids
 title: Rosids
 ---
 

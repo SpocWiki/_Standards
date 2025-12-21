@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Akodontini
 title: Akodontini
 ---
 

@@ -2,28 +2,34 @@
 aliases:
   - poinsettia
   - Euphorbia pulcherrima
-  - Weihnachtsstern 
+  - Weihnachtsstern
   - Adventsstern
-  - Christstern 
+  - Christstern
   - Poinsettie
+  - Poinsettia
+  - 一品红
+  - flor de pascua
+  - 猩猩木
+  - 聖誕紅
+  - 老来娇
 has_id_wikidata: Q208253
-has_use: "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
-named_after: "[[_Standards/WikiData/WD~Joel_Roberts_Poinsett,723956]]"
+has_use: '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
+named_after: '[[_Standards/WikiData/WD~Joel_Roberts_Poinsett,723956]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_44(3),112869431]]"
-parent_taxon: "[[_Standards/WikiData/WD~Euphorbia_subsect._Stormieae,21389038]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-basionym_of: "[[_Standards/WikiData/WD~Poinsettia_pulcherrima,87624187]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_44(3),112869431]]'
+parent_taxon: '[[_Standards/WikiData/WD~Euphorbia_subsect._Stormieae,21389038]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+basionym_of: '[[_Standards/WikiData/WD~Poinsettia_pulcherrima,87624187]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 taxon_range:
-  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
+  - '[[_Standards/WikiData/WD~Guangdong,15175]]'
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Fujian,41705]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-OmegaWiki_Defined_Meaning: "7035"
+  - '[[_Standards/WikiData/WD~Fujian,41705]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+OmegaWiki_Defined_Meaning: 7035
 EPPO_Code: EPHPU
 taxon_common_name:
   - poinsettia
@@ -34,7 +40,7 @@ taxon_common_name:
   - 聖誕紅
   - 猩猩木
   - 老来娇
-ITIS_TSN: "502548"
+ITIS_TSN: 502548
 short_name: E. pulcherrima
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Euphorbia%20pulcherrima%20%28Barlovento%29%2004.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=16403

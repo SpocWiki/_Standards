@@ -1,7 +1,7 @@
 ---
 aliases:
-- Hylobatidae
-- Gibbon
+  - Hylobatidae
+  - Gibbon
 title: Hylobatidae
 ---
 

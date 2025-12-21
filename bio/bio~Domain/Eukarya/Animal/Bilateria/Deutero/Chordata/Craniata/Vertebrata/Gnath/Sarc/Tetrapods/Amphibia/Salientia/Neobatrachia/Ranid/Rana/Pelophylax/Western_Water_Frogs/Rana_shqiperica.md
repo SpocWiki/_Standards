@@ -1,5 +1,8 @@
 ---
-title: "Rana shqiperica"
+aliases:
+  - Rana_shqiperica
+  - Rana shqiperica
+title: Rana shqiperica
 ---
 
 # [[Rana_shqiperica]] 

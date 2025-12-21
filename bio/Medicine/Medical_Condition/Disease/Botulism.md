@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Botulism
 has_id_wikidata: Q154865
 ---
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Endocoelantheae
 title: Endocoelantheae
 ---
 

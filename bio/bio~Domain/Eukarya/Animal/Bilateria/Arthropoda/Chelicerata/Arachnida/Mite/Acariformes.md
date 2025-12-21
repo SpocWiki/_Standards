@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Acariformes
 title: Acariformes
 ---
 

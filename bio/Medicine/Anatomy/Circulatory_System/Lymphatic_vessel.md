@@ -5,20 +5,22 @@ aliases:
   - LymphaticVessel
   - is_a_lymphatic_vessel
   - lymphatics
+  - Lymphatic_vessel
+  - Lymphatic vessel
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - lymphatic_vessel
-layout: 
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_lymphatic_vessel Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

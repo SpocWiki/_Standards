@@ -1,6 +1,8 @@
 ---
 aliases:
   - BMI
+  - BMI(Body_Mass_Index)
+  - BMI(Body Mass Index)
 has_id_wikidata: Q131191
 short_name:
   - BMI
@@ -42,143 +44,32 @@ short_name:
   - KMI
   - KMI
   - IMC
-ISQ_dimension: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\mathsf {L}}^{-2}{\mathsf {M}}}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <msup>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mrow class="MJX-TeXAtom-ORD">
-                <mi mathvariant="sans-serif">L</mi>
-              </mrow>
-            </mrow>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo>&#x2212;<!-- − --></mo>
-              <mn>2</mn>
-            </mrow>
-          </msup>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="sans-serif">M</mi>
-            </mrow>
-          </mrow>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle {\mathsf {L}}^{-2}{\mathsf {M}}}</annotation>
-    </semantics>
-  </math>
-defining_formula: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \mathrm {BMI} ={\frac {m}{l^{2}}}}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi mathvariant="normal">B</mi>
-            <mi mathvariant="normal">M</mi>
-            <mi mathvariant="normal">I</mi>
-          </mrow>
-          <mo>=</mo>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mfrac>
-              <mi>m</mi>
-              <msup>
-                <mi>l</mi>
-                <mrow class="MJX-TeXAtom-ORD">
-                  <mn>2</mn>
-                </mrow>
-              </msup>
-            </mfrac>
-          </mrow>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle \mathrm {BMI} ={\frac {m}{l^{2}}}}</annotation>
-    </semantics>
-  </math>
+ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {L}}^{-2}{\\mathsf {M}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">L</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mo>&#x2212;<!-- − --></mo>\n            <mn>2</mn>\n          </mrow>\n        </msup>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi mathvariant=\"sans-serif\">M</mi>\n          </mrow>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {L}}^{-2}{\\mathsf {M}}}</annotation>\n  </semantics>\n</math>"
+defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\mathrm {BMI} ={\\frac {m}{l^{2}}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"normal\">B</mi>\n          <mi mathvariant=\"normal\">M</mi>\n          <mi mathvariant=\"normal\">I</mi>\n        </mrow>\n        <mo>=</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mi>m</mi>\n            <msup>\n              <mi>l</mi>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mfrac>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle \\mathrm {BMI} ={\\frac {m}{l^{2}}}}</annotation>\n  </semantics>\n</math>"
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-  - "[[_Standards/WikiData/WD~anthropometric_index,11385167]]"
+  - '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+  - '[[_Standards/WikiData/WD~anthropometric_index,11385167]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~clinical_sign,1441305]]"
-  - "[[_Standards/WikiData/WD~biomedical_measurand_type,42014143]]"
-different_from: "[[_Standards/WikiData/WD~surface_density,1907514]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-replaces: "[[_Standards/WikiData/WD~Broca_Index,11344245]]"
-has_use: "[[_Standards/WikiData/WD~classification_of_obesity,22907290]]"
-recommended_unit_of_measurement: "[[_Standards/WikiData/WD~kilogram_per_square_metre,25377184]]"
-reference_value: "[[_Standards/WikiData/WD~reference_range_as_qualifier,55426051]]"
+  - '[[_Standards/WikiData/WD~clinical_sign,1441305]]'
+  - '[[_Standards/WikiData/WD~biomedical_measurand_type,42014143]]'
+different_from: '[[_Standards/WikiData/WD~surface_density,1907514]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+replaces: '[[_Standards/WikiData/WD~Broca_Index,11344245]]'
+has_use: '[[_Standards/WikiData/WD~classification_of_obesity,22907290]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~kilogram_per_square_metre,25377184]]'
+reference_value: '[[_Standards/WikiData/WD~reference_range_as_qualifier,55426051]]'
 in_defining_formula:
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle m}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>m</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle m}</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \mathrm {BMI} }">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="normal">B</mi>
-              <mi mathvariant="normal">M</mi>
-              <mi mathvariant="normal">I</mi>
-            </mrow>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle \mathrm {BMI} }</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle l}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>l</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle l}</annotation>
-      </semantics>
-    </math>
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle m}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>m</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle m}</annotation>\n  </semantics>\n</math>"
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\mathrm {BMI} }\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"normal\">B</mi>\n          <mi mathvariant=\"normal\">M</mi>\n          <mi mathvariant=\"normal\">I</mi>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle \\mathrm {BMI} }</annotation>\n  </semantics>\n</math>"
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle l}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>l</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle l}</annotation>\n  </semantics>\n</math>"
 quantity_symbol_LaTeX_:
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \mathrm {BMI} }">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="normal">B</mi>
-              <mi mathvariant="normal">M</mi>
-              <mi mathvariant="normal">I</mi>
-            </mrow>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle \mathrm {BMI} }</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\text{&#x418;&#x41C;&#x422;}}}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mtext>&#x418;&#x41C;&#x422;</mtext>
-            </mrow>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle {\text{ИМТ}}}</annotation>
-      </semantics>
-    </math>
-facet_of: "[[_Standards/WikiData/WD~health,12147]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Adolphe_Quetelet,20012]]"
-OmegaWiki_Defined_Meaning: "800983"
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\mathrm {BMI} }\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"normal\">B</mi>\n          <mi mathvariant=\"normal\">M</mi>\n          <mi mathvariant=\"normal\">I</mi>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle \\mathrm {BMI} }</annotation>\n  </semantics>\n</math>"
+  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\text{&#x418;&#x41C;&#x422;}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mtext>&#x418;&#x41C;&#x422;</mtext>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\text{ИМТ}}}</annotation>\n  </semantics>\n</math>"
+facet_of: '[[_Standards/WikiData/WD~health,12147]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Adolphe_Quetelet,20012]]'
+OmegaWiki_Defined_Meaning: 800983
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Body%20mass%20index.png
-P8189: "987007532838105171"
+P8189: 987007532838105171
 Commons_category: Body mass index
 UMLS_CUI: C1305855
 MeSH_tree_code:

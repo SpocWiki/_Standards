@@ -1,6 +1,6 @@
 ---
 aliases:
-- Chlamydiae
+  - Chlamydiae
 title: Chlamydiae
 ---
 

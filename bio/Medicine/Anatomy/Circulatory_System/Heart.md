@@ -1,6 +1,7 @@
 ---
 aliases:
   - Herz
+  - Heart
 has_id_wikidata: Q1072
 Krugosvet_article: medicina/SERDTSE.html
 Unicode_character: 🫀
@@ -39,7 +40,7 @@ connects_with:
   - "[[_Standards/WikiData/WD~artery,9655]]"
 studied_by: "[[_Standards/WikiData/WD~cardiology,10379]]"
 part_of: "[[_Standards/WikiData/WD~circulatory_system,11068]]"
-OmegaWiki_Defined_Meaning: "5475"
+OmegaWiki_Defined_Meaning: 5475
 TA98_Latin_term: cor
 Commons_gallery: Heart
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Heart%20numlabels.svg
@@ -58,7 +59,7 @@ UMLS_CUI: C0018787
 Commons_category: Heart (organ)
 ---
 
-# [[Heart]] 
+# [[Heart]] 🫀 
 
 #is_/same_as :: [[../../../../WikiData/WD~Heart,1072|WD~Heart,1072]] 
 

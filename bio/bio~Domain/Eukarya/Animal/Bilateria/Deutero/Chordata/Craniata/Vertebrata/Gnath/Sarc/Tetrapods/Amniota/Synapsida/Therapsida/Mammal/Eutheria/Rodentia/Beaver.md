@@ -3,6 +3,7 @@ aliases:
   - Castoridae
   - Castorinae
   - Castor
+  - Beaver
 ---
 
 # [[Beaver]] 

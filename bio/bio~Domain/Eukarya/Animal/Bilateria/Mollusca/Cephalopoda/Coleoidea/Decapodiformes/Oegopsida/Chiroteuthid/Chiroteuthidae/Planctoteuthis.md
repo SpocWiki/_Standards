@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Planctoteuthis
 title: Planctoteuthis
 ---
 

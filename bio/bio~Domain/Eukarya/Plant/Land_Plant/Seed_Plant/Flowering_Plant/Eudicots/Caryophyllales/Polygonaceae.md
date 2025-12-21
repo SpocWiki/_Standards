@@ -3,6 +3,57 @@ aliases:
   - knotweed family
   - smartweed family
   - buckwheat family
+  - Polygonaceae
+  - पॉलीगोनेसी
+  - Dvornikovke
+  - Wuroćowe rostliny
+  - Keserűfűfélék
+  - Հնդկացորենազգիներ
+  - Մատիտեզազգիներ
+  - タデ科
+  - მატიტელასებრნი
+  - Тарандар тұқымдасы
+  - 마디풀과
+  - Famîleya tirşoyan
+  - Rūgtiniai
+  - троскоти
+  - Шим шӓдӓнгӹ йишвлӓ
+  - Slireknefamilien
+  - Syrefamilien
+  - Duizendknoopfamilie
+  - Rdestowate
+  - Pika-pika yura rikch'aq ayllu
+  - Гречишные
+  - Juopmošattut
+  - stavikrvovité
+  - dresnovke
+  - Slideväxter
+  - วงศ์ผักไผ่
+  - Kuzukulağıgiller
+  - Гречкові
+  - Torondoshlar
+  - Họ Rau răm
+  - Poligonacêye
+  - 蓼科
+  - بطباطية
+  - centinodias
+  - Qırxbuğumkimilər
+  - Лападови
+  - Poligonàcia
+  - rdesnovité
+  - Хура тулă йышĕ
+  - Pileurt-familien
+  - Knöterichgewächse
+  - Knotweed Family
+  - Smartweed Family
+  - Poligonacoj
+  - Centinodias
+  - Tatralised
+  - هفتبندیان
+  - Tatarkasvit
+  - Polygonacées
+  - Düüsenknober
+  - ארכוביתיים
 has_id_wikidata: Q156117
 taxon_common_name:
   - पॉलीगोनेसी
@@ -57,18 +108,18 @@ taxon_common_name:
   - Polygonacées
   - Düüsenknober
   - ארכוביתיים
-taxonomic_type: "[[_Standards/WikiData/WD~Polygonum,271400]]"
+taxonomic_type: '[[_Standards/WikiData/WD~Polygonum,271400]]'
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Flora_URSS,5862833]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_25(1),112869402]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[../../../../../../../../../WikiData/WD~Caryophyllales,21808]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "20842"
+  - '[[_Standards/WikiData/WD~Flora_URSS,5862833]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_25(1),112869402]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[../../../../../../../../../WikiData/WD~Caryophyllales,21808]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 20842
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Polygonum%20persicaria%20bgiu.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=905
 EPPO_Code: 1POLF

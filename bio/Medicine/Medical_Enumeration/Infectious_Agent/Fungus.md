@@ -1,29 +1,29 @@
 ---
 aliases:
-- fungus
-- fungus
-- Fungus
-- is_a_fungus
+  - fungus
+  - fungus
+  - Fungus
+  - is_a_fungus
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
 enumerationtype: InfectiousAgentClass
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- fungus
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_fungus Class"
+  - fungus
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_a_fungus Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Class
-- schema-org/Class
-- class/infectious_agent
-title: "is_a_fungus Class"
+  - class/Class
+  - schema-org/Class
+  - class/infectious_agent
+title: is_a_fungus Class
 type: Type
 ---
 

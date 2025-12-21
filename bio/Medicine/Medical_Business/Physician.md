@@ -9,16 +9,16 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - physician
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_physician Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
@@ -26,10 +26,10 @@ title: is_a_physician Class
 type: Type
 SOC_Code_2010_: 29-1060
 Dewey_Decimal_Classification:
-  - "305.43610695"
-  - "610.92"
-  - "362.172"
-  - "610.695"
+  - 305.43610695
+  - 610.92
+  - 362.172
+  - 610.695
 Provenio_UUID:
   - 7375a24b-8889-4a90-be2e-e60051e427cd
   - afbe673d-e78f-4492-8a42-6db679db270a
@@ -94,28 +94,28 @@ female_form_of_label:
   - médica
 OpenStreetMap_tag: healthcare=doctor
 different_from:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]"
-  - "[[_Standards/WikiData/WD~Practitioner,7237369]]"
+  - '[[_Standards/WikiData/WD~physicist,169470]]'
+  - '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
+  - '[[_Standards/WikiData/WD~Practitioner,7237369]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~health_profession,3922583]]"
-  - "[[_Standards/WikiData/WD~position,4164871]]"
-  - "[[_Standards/WikiData/WD~occupation,12737077]]"
-  - "[[_Standards/WikiData/WD~medical_profession,66811410]]"
-  - "[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140]]"
-subclass_of: "[[_Standards/WikiData/WD~health_professional,11974939]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_physician,26139017]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Physician,55744184]]"
-field_of_this_occupation: "[[_Standards/WikiData/WD~medicine,11190]]"
-SSYK_2012_The_Swedish_Standard_Classification_of_Occupations: "221"
-ISCO_08_occupation_class: "221"
-Merchant_Category_Code: "8011"
-ISCO_88_occupation_class: "2221"
+  - '[[_Standards/WikiData/WD~health_profession,3922583]]'
+  - '[[_Standards/WikiData/WD~position,4164871]]'
+  - '[[_Standards/WikiData/WD~occupation,12737077]]'
+  - '[[_Standards/WikiData/WD~medical_profession,66811410]]'
+  - '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140]]'
+subclass_of: '[[_Standards/WikiData/WD~health_professional,11974939]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_physician,26139017]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Physician,55744184]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~medicine,11190]]'
+SSYK_2012_The_Swedish_Standard_Classification_of_Occupations: 221
+ISCO_08_occupation_class: 221
+Merchant_Category_Code: 8011
+ISCO_88_occupation_class: 2221
 Iconclass_notation: 49G1
-U_S_National_Archives_Identifier: "10644533"
+U_S_National_Archives_Identifier: 10644533
 IMDb_keyword: doctor
 Commons_category: Physicians
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Auscultation%20of%20a%20women.jpg

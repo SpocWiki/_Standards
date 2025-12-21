@@ -4,20 +4,22 @@ aliases:
   - drug_legal_status
   - DrugLegalStatus
   - is_a_drug_legal_status
+  - Drug_Legal_Status
+  - Drug Legal Status
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - drug_legal_status
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_drug_legal_status Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

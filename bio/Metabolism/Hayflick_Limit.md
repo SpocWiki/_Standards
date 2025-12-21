@@ -2,6 +2,8 @@
 aliases:
   - Hayflick limit
   - Hayflick phenomenon
+  - Hayflick_Limit
+  - Hayflick Limit
 ---
 
 # [[Hayflick_Limit]] 

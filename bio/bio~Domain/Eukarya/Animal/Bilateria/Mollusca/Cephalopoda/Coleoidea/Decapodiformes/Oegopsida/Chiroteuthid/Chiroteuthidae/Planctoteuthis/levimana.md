@@ -1,5 +1,7 @@
 ---
-title: "Planctoteuthis levimana"
+aliases:
+  - levimana
+title: Planctoteuthis levimana
 ---
 
 # Planctoteuthis [[levimana]] 

@@ -4,20 +4,22 @@ aliases:
   - medical_condition
   - MedicalCondition
   - is_a_medical_condition
+  - Medical_Condition
+  - Medical Condition
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_condition
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_condition Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

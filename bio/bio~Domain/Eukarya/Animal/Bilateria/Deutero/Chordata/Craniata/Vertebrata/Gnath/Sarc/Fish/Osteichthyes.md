@@ -3,20 +3,23 @@ aliases:
   - osteichthyans
   - bony fish
   - Knochenfisch
-  - 
+  - ''
+  - Osteichthyes
+  - ryby kostnoszkieletowe
+  - 硬骨鱼亚纲
 has_id_wikidata: Q27207
 instance_of:
-  - "[[_Standards/WikiData/WD~synonym,1040689]]"
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Eugnathostomata,3059636]]"
+  - '[[_Standards/WikiData/WD~synonym,1040689]]'
+  - '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Eugnathostomata,3059636]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Taxonomy_Osteichthyes,13217896]]"
-  - "[[_Standards/WikiData/WD~Template_Bony_fish,22897937]]"
-  - "[[_Standards/WikiData/WD~Q124327451,124327451]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-taxon_rank: "[[_Standards/WikiData/WD~megaclass,60922428]]"
+  - '[[_Standards/WikiData/WD~Template_Taxonomy_Osteichthyes,13217896]]'
+  - '[[_Standards/WikiData/WD~Template_Bony_fish,22897937]]'
+  - '[[_Standards/WikiData/WD~Q124327451,124327451]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+taxon_rank: '[[_Standards/WikiData/WD~megaclass,60922428]]'
 Commons_gallery: Fish
-ITIS_TSN: "161030"
+ITIS_TSN: 161030
 Commons_category: Osteichthyes
 taxon_name: Osteichthyes
 Iconclass_notation: 25F62

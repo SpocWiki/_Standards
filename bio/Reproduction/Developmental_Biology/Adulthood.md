@@ -1,18 +1,19 @@
 ---
 aliases:
   - Adult
+  - Adulthood
 has_id_wikidata: Q80994
 instance_of:
-  - "[[_Standards/WikiData/WD~age_of_a_person,185836]]"
-  - "[[_Standards/WikiData/WD~phase_of_human_life,785260]]"
-  - "[[_Standards/WikiData/WD~population_group,851990]]"
-  - "[[_Standards/WikiData/WD~demographic_profile,5932254]]"
-has_characteristic: "[[_Standards/WikiData/WD~adulthood,378915]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~adulthood,378915]]"
-opposite_of: "[[_Standards/WikiData/WD~juvenile,1516282]]"
-has_part_s_: "[[_Standards/WikiData/WD~working_adult,11588201]]"
-subclass_of: "[[_Standards/WikiData/WD~organism,7239]]"
-OmegaWiki_Defined_Meaning: "57"
+  - '[[_Standards/WikiData/WD~age_of_a_person,185836]]'
+  - '[[_Standards/WikiData/WD~phase_of_human_life,785260]]'
+  - '[[_Standards/WikiData/WD~population_group,851990]]'
+  - '[[_Standards/WikiData/WD~demographic_profile,5932254]]'
+has_characteristic: '[[_Standards/WikiData/WD~adulthood,378915]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~adulthood,378915]]'
+opposite_of: '[[_Standards/WikiData/WD~juvenile,1516282]]'
+has_part_s_: '[[_Standards/WikiData/WD~working_adult,11588201]]'
+subclass_of: '[[_Standards/WikiData/WD~organism,7239]]'
+OmegaWiki_Defined_Meaning: 57
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Delacroix%20-%20Les%20Natchez%2C%201835%20%28Metropolitan%20Museum%20of%20Art%29FXD.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5218%20%28que%29-Eavq-Sayaq%20runa.wav
 Commons_category: Adults

@@ -1,13 +1,14 @@
 ---
 aliases:
   - Brassicales
-title: Brassicales
+  - 十字花目
 has_id_wikidata: Q21904
-parent_taxon: "[[_Standards/WikiData/WD~malvids,2133361]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-OmegaWiki_Defined_Meaning: "358574"
-ITIS_TSN: "822943"
+title: Brassicales
+parent_taxon: '[[_Standards/WikiData/WD~malvids,2133361]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+OmegaWiki_Defined_Meaning: 358574
+ITIS_TSN: 822943
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Capparis%20zoharyi%204.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/%28MHNT%29%20Alliaria%20petiolata%20-%20flowers.jpg

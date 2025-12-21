@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Phyllodocida
 title: Phyllodocida
 ---
 

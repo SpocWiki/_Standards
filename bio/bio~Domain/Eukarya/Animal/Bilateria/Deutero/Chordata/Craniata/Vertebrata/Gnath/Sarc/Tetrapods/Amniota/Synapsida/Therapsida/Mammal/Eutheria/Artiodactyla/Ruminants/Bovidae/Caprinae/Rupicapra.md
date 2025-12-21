@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Rupicapra
 title: Rupicapra
 ---
 

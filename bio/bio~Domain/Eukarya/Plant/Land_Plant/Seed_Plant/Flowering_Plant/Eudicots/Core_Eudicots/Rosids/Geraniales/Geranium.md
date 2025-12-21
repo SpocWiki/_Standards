@@ -2,27 +2,29 @@
 aliases:
   - Geranie
   - cranesbills
+  - Geranium
+  - Crane's-bills
 has_id_wikidata: Q157211
-has_fruit_type: "[[_Standards/WikiData/WD~capsule,147768]]"
-parent_taxon: "[[_Standards/WikiData/WD~Geraniaceae,155945]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Geranium_sylvaticum,161644]]"
+has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768]]'
+parent_taxon: '[[_Standards/WikiData/WD~Geraniaceae,155945]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Geranium_sylvaticum,161644]]'
 described_by_source:
-  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_43(1),112869426]]"
-  - "[[_Standards/WikiData/WD~Q114268958,114268958]]"
-award_received: "[[_Standards/WikiData/WD~perennial_of_the_year,2334413]]"
-named_after: "[[_Standards/WikiData/WD~Gerana,3625564]]"
-different_from: "[[_Standards/WikiData/WD~germanium,867]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "29104"
+  - '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_43(1),112869426]]'
+  - '[[_Standards/WikiData/WD~Q114268958,114268958]]'
+award_received: '[[_Standards/WikiData/WD~perennial_of_the_year,2334413]]'
+named_after: '[[_Standards/WikiData/WD~Gerana,3625564]]'
+different_from: '[[_Standards/WikiData/WD~germanium,867]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 29104
 Commons_gallery: Geranium
 Commons_category: Geranium
 taxon_name: Geranium
-OmegaWiki_Defined_Meaning: "1216543"
+OmegaWiki_Defined_Meaning: 1216543
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Geranium%20February%202008-1.jpg
 Flora_of_the_Hawaiian_Islands_URL: https://naturalhistory2.si.edu/botany/hawaiianflora/genusdescr.cfm?genus=Geranium
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=4924

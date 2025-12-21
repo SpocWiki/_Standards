@@ -1,5 +1,7 @@
 ---
-title: "Apusomonas proboscidea"
+aliases:
+  - a.proboscidea
+title: Apusomonas proboscidea
 ---
 
 # *Apusomonas proboscidea* [Aléxéieff 1924] 

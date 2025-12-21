@@ -2,6 +2,7 @@
 aliases:
   - Apfelsine
   - Orange
+  - Orange(Fruit)
 has_id_wikidata: Q13191
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Local%20Orange%20Variety%20of%20Kozan%20-%20Kozan%20Yerli%20Portakal%2004.jpg
@@ -46,21 +47,21 @@ carbon_footprint: 0.7
 water_footprint: 560
 color: "[[_Standards/WikiData/WD~orange,39338]]"
 USDA_NDB_number:
-  - "09202"
-  - "85000"
-  - "09201"
-  - "09216"
-  - "09205"
-  - "09203"
-OmegaWiki_Defined_Meaning: "5821"
-U_S_National_Archives_Identifier: "10645350"
+  - 9202
+  - 85000
+  - 9201
+  - 9216
+  - 9205
+  - 9203
+OmegaWiki_Defined_Meaning: 5821
+U_S_National_Archives_Identifier: 10645350
 IMDb_keyword: orange
 Commons_category: Oranges
 Colon_Classification: J372
 Dewey_Decimal_Classification:
-  - "583.77"
-  - "634.31"
-  - "641.3431"
+  - 583.77
+  - 634.31
+  - 641.3431
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Apelsin%20spreadthesign.ogv
 exact_match:
   - http://wordnet-rdf.princeton.edu/wn30/07747607-n
@@ -70,14 +71,14 @@ OKPD_code_of_the_good_or_service: 01.13.22.110
 OKPD2_product_code:
   - 01.23.13
   - 01.23.13.000
-Amazon_com_browse_node: "16319051"
+Amazon_com_browse_node: 16319051
 UNII: 5EVU04N5QU
-P8189: "987007548581605171"
+P8189: 987007548581605100
 Wolfram_Language_entity_code: Entity["FoodType", "Orange"]
 Gujarati_Vishwakosh_entry: નારંગી
 ---
 
-# [[Orange(Fruit)]] 
+# [[Orange(Fruit)]] 🍊 
 
 #is_a :: [[Fruit]] 
 #is_a_/fruit 

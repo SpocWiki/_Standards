@@ -4,20 +4,22 @@ aliases:
   - medical_study_status
   - MedicalStudyStatus
   - is_a_medical_study_status
+  - Medical_Study_Status
+  - Medical Study Status
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_study_status
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_study_status Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Haplogynae
 title: Haplogynae
 ---
 

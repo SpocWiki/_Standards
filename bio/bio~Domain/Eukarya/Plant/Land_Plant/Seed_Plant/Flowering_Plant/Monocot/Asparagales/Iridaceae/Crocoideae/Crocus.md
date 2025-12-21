@@ -2,6 +2,45 @@
 aliases:
   - Krokus
   - Crocus
+  - Krookje
+  - Crócas
+  - Barbička
+  - sáfrány
+  - Քրքում
+  - Krókus
+  - ზაფრანა
+  - Запырангүл
+  - Pîvok
+  - Krokussen
+  - Krokas
+  - Krokusslekta
+  - Уæдæрттæг
+  - šafran
+  - žafran
+  - Krokussläktet
+  - Бойчечак
+  - Шафран (рід)
+  - 番紅花屬
+  - 番红花属
+  - زعفران
+  - crocus
+  - כרכום
+  - Krokusse
+  - Шафран
+  - クロッカス
+  - Crocco
+  - Szafran
+  - Croco
+  - Çiğdem
+  - Минзухар
+  - Качунка
+  - Zəfəran
+  - šafrán
+  - Κρόκος
+  - Krokuso
+  - krookukset
+  - Sahramit
+  - Krokusen
 has_id_wikidata: Q157806
 taxon_common_name:
   - Krookje
@@ -49,23 +88,23 @@ taxon_common_name:
   - krookukset
   - Sahramit
   - Krokusen
-has_fruit_type: "[[_Standards/WikiData/WD~capsule,147768]]"
+has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768]]'
 described_by_source:
-  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Norsk_Haandlexikon,65528751]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(1),112869390]]"
-uses: "[[_Standards/WikiData/WD~corm,858568]]"
-parent_taxon: "[[../../../../../../../../../../../WikiData/WD~Crocoideae,5187415]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Crocus_sativus,15041677]]"
-habitat: "[[_Standards/WikiData/WD~dry_soil,30313267]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "43285"
+  - '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Norsk_Haandlexikon,65528751]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(1),112869390]]'
+uses: '[[_Standards/WikiData/WD~corm,858568]]'
+parent_taxon: '[[../../../../../../../../../../../WikiData/WD~Crocoideae,5187415]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Crocus_sativus,15041677]]'
+habitat: '[[_Standards/WikiData/WD~dry_soil,30313267]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 43285
 Commons_gallery: Crocus
 Commons_category: Crocus
 taxon_name: Crocus

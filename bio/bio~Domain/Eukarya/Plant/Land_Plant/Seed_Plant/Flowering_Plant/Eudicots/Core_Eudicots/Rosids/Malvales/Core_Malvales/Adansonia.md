@@ -1,7 +1,8 @@
 ---
 aliases:
-- Baobab
-- "upside down tree"
+  - Baobab
+  - upside down tree
+  - Adansonia
 has_id_wikidata: Q157991
 ---
 

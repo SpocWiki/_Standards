@@ -21,12 +21,12 @@ depicted_by:
   - "[[_Standards/WikiData/WD~The_Rhinoceros,110619157]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-OmegaWiki_Defined_Meaning: "8335"
+OmegaWiki_Defined_Meaning: 8335
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Nashorn2.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Bayu%20Gita-Warak.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-Warak.wav
-ITIS_TSN: "624916"
+ITIS_TSN: 624916
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhinocerotidae-01.jpg
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhinocerotidae%20distribution%20map%20en.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Waterberg%20Nashorn1.jpg
@@ -39,7 +39,7 @@ taxon_name: Rhinocerotidae
 Unicode_character: 🦏
 ---
 
-# [[Rhinoceros]] 
+# [[Rhinoceros]] 🦏 
 
 ![[Rhinoceros/black_rhinos.jpg]]
 

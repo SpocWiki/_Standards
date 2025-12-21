@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Gelidiales
 title: Gelidiales
 ---
 

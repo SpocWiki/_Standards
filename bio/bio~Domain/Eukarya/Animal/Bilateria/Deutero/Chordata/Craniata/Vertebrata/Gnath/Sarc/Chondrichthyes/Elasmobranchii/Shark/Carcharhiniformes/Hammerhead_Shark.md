@@ -3,17 +3,19 @@ aliases:
   - hammerhead shark
   - Sphyrnidae
   - Sphyrnida
+  - Hammerhead_Shark
+  - Hammerhead Shark
 has_id_wikidata: Q208490
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 parent_taxon:
-  - "[[_Standards/WikiData/WD~Carcharhinoidei,131599375]]"
-  - "[[../../../../../../../../../../../../../../../WikiData/WD~Carcharhiniformes,48178]]"
+  - '[[_Standards/WikiData/WD~Carcharhinoidei,131599375]]'
+  - '[[../../../../../../../../../../../../../../../WikiData/WD~Carcharhiniformes,48178]]'
 start_time: -55800000-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "160497"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 160497
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Hammerhead%20shark.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Hammerhead%20Shark%20-%20Marko%20Dimitrijevic.jpg

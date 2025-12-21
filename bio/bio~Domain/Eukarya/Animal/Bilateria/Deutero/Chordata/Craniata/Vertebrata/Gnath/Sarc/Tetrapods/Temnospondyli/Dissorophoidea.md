@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Dissorophoidea
 title: Dissorophoidea
 ---
 

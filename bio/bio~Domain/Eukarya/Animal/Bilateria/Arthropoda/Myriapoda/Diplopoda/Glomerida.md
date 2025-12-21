@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Glomerida
 title: Glomerida
 ---
 

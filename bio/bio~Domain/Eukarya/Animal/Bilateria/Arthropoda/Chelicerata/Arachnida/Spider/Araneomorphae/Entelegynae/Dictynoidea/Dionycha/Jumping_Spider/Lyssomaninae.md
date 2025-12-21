@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Lyssomaninae
 title: Lyssomaninae
 ---
 

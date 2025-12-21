@@ -1,11 +1,14 @@
 ---
-title: Asterales
+aliases:
+  - Asterales
+  - 菊目
 has_id_wikidata: Q21730
-parent_taxon: "[[_Standards/WikiData/WD~campanulids,2935471]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-ITIS_TSN: "35419"
-OmegaWiki_Defined_Meaning: "358536"
+title: Asterales
+parent_taxon: '[[_Standards/WikiData/WD~campanulids,2935471]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+ITIS_TSN: 35419
+OmegaWiki_Defined_Meaning: 358536
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/A%20sunflower.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Asteracea%20poster.jpg

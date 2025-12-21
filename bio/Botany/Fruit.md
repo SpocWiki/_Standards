@@ -2,47 +2,48 @@
 aliases:
   - fruit
   - Frucht
+  - Fruit
+has_id_wikidata: Q1364
 Commons_category: Fruits
 Danbooru_tag: fruit
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Q101001976,101001976]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-develops_from: "[[_Standards/WikiData/WD~gynoecium,588964]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Q101001976,101001976]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+develops_from: '[[_Standards/WikiData/WD~gynoecium,588964]]'
 Dewey_Decimal_Classification: 634
 different_from:
-  - "[[_Standards/WikiData/WD~fruit,3314483]]"
-  - "[[_Standards/WikiData/WD~type_of_fruit,28149961]]"
+  - '[[_Standards/WikiData/WD~fruit,3314483]]'
+  - '[[_Standards/WikiData/WD~type_of_fruit,28149961]]'
 EPPO_Code: 2FRUI
 exact_match: http://purl.obolibrary.org/obo/ENVO_00003877
 facet_of:
-  - "[[_Standards/WikiData/WD~plant_anatomy,4021]]"
+  - '[[_Standards/WikiData/WD~plant_anatomy,4021]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~type_of_fruit,28149961]]"
-has_id_wikidata: Q1364
+  - '[[_Standards/WikiData/WD~type_of_fruit,28149961]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~pericarp,876445]]"
+  - '[[_Standards/WikiData/WD~pericarp,876445]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/%28MHNT%29%20Geum%20urbanum%20-%20Fruit.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Fruit%20bowl.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~botanical_term,27494256]]"
+  - '[[_Standards/WikiData/WD~botanical_term,27494256]]'
 MeSH_tree_code:
   - A18.024.500
   - G07.203.300.562
   - J02.500.562
 OmegaWiki_Defined_Meaning: 1572
-partially_coincident_with: "[[_Standards/WikiData/WD~fruit,3314483]]"
-part_of: "[[_Standards/WikiData/WD~Angiosperms,25314]]"
+partially_coincident_with: '[[_Standards/WikiData/WD~fruit,3314483]]'
+part_of: '[[_Standards/WikiData/WD~Angiosperms,25314]]'
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Frucht2.ogg
 subclass_of:
-  - "[[_Standards/WikiData/WD~plant_organ,24060707]]"
-  - "[[_Standards/WikiData/WD~plant_ovary,109121364]]"
+  - '[[_Standards/WikiData/WD~plant_organ,24060707]]'
+  - '[[_Standards/WikiData/WD~plant_ovary,109121364]]'
 ---
 
 # [[Fruit]] 

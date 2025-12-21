@@ -1,5 +1,7 @@
 ---
-title: "Latrodectus indistinctus"
+aliases:
+  - indistinctus
+title: Latrodectus indistinctus
 ---
 
 ## Phylogeny 

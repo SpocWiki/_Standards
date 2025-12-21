@@ -1,5 +1,7 @@
 ---
-title: "Atlantoxerus getulus"
+aliases:
+  - Atlantoxerus
+title: Atlantoxerus getulus
 ---
 
 ## *Atlantoxerus* 

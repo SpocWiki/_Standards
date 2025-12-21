@@ -1,19 +1,20 @@
 ---
-title: Diplopoda
 aliases:
   - Diplopoda
+  - Millipedes
 has_id_wikidata: Q167367
+title: Diplopoda
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-has_effect: "[[_Standards/WikiData/WD~millipede_burn,4331898]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~millipede,11185669]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Millipedes,20367008]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+has_effect: '[[_Standards/WikiData/WD~millipede_burn,4331898]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~millipede,11185669]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Millipedes,20367008]]'
 start_time: -428000000-06
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Myriapoda,25823]]"
-taxon_rank: "[[_Standards/WikiData/WD~class,37517]]"
-ITIS_TSN: "154409"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Myriapoda,25823]]'
+taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
+ITIS_TSN: 154409
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Millipede.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Millipede%20coiled%20on%20the%20ground.jpg

@@ -1,5 +1,7 @@
 ---
-title: "Crassigyrinus scoticus"
+aliases:
+  - Crassigyrinus
+title: Crassigyrinus scoticus
 ---
 
 ## Crassigyrinus

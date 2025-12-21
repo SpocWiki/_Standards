@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Athenaria
 title: Athenaria
 ---
 

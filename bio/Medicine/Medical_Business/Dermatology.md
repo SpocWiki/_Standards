@@ -3,6 +3,8 @@ aliases:
   - dermatology
   - Dermatologie
   - is_a_dermatology
+  - Dermatology
+has_id_wikidata: Q171171
 confidential: private
 cssclasses:
   - Type
@@ -10,15 +12,15 @@ cssclasses:
   - note
 draft: true
 enumerationtype: MedicalSpecialty
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - dermatology
-layout:
+layout: ''
 license: (c)copyrighted
 publish: false
-publishDate:
+publishDate: ''
 supersedes: Dermatologic
 tags:
   - class/Class
@@ -28,31 +30,30 @@ type: private_note
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-has_Template: "[[Extract~Note~Template]]"
+has_Template: '[[Extract~Note~Template]]'
 lang: en
-has_id_wikidata: Q171171
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~health_sciences,843601]]"
-  - "[[_Standards/WikiData/WD~clinical_sciences,113129019]]"
+  - '[[_Standards/WikiData/WD~health_sciences,843601]]'
+  - '[[_Standards/WikiData/WD~clinical_sciences,113129019]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~medical_specialty,930752]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - '[[_Standards/WikiData/WD~medical_specialty,930752]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~skin_disease,949302]]"
-  - "[[_Standards/WikiData/WD~skin,1074]]"
-practiced_by: "[[_Standards/WikiData/WD~dermatologist,2447386]]"
-IAB_code: "309"
-All_Science_Journal_Classification_Codes: "2708"
+  - '[[_Standards/WikiData/WD~skin_disease,949302]]'
+  - '[[_Standards/WikiData/WD~skin,1074]]'
+practiced_by: '[[_Standards/WikiData/WD~dermatologist,2447386]]'
+IAB_code: 309
+All_Science_Journal_Classification_Codes: 2708
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Severerash.jpg
 GitHub_topic: dermatology
 subreddit: dermatology
-OmegaWiki_Defined_Meaning: "722226"
+OmegaWiki_Defined_Meaning: 722226
 Stack_Exchange_tag: https://medicalsciences.stackexchange.com/tags/dermatology
 exact_match: https://schema.org/Dermatology
-Basisklassifikation: "44.93"
+Basisklassifikation: 44.93
 UMLS_CUI: C0011627
 Commons_gallery: Dermatology
 Commons_category: Dermatology

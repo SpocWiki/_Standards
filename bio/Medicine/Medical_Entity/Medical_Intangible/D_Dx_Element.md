@@ -4,20 +4,22 @@ aliases:
   - d_dx_element
   - DDxElement
   - is_a_d_dx_element
+  - D_Dx_Element
+  - D Dx Element
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - d_dx_element
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_d_dx_element Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

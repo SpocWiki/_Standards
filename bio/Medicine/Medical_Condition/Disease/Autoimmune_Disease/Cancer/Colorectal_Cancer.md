@@ -4,81 +4,82 @@ aliases:
   - bowel cancer
   - colon cancer
   - rectal cancer
+  - Colorectal_Cancer
 has_id_wikidata: Q188874
 medical_examination:
-  - "[[_Standards/WikiData/WD~magnetic_resonance_imaging,161238]]"
-  - "[[_Standards/WikiData/WD~positron_emission_tomography,208376]]"
-  - "[[_Standards/WikiData/WD~virtual_colonoscopy,302481]]"
-  - "[[_Standards/WikiData/WD~colonoscopy,840387]]"
-  - "[[_Standards/WikiData/WD~blood_test,886837]]"
-  - "[[_Standards/WikiData/WD~sigmoidoscopy,941169]]"
-  - "[[_Standards/WikiData/WD~lower_gastrointestinal_series,1549149]]"
-  - "[[_Standards/WikiData/WD~RAS_test,16613270]]"
-  - "[[_Standards/WikiData/WD~computed_tomography,32566]]"
-health_specialty: "[[_Standards/WikiData/WD~oncology,162555]]"
+  - '[[_Standards/WikiData/WD~magnetic_resonance_imaging,161238]]'
+  - '[[_Standards/WikiData/WD~positron_emission_tomography,208376]]'
+  - '[[_Standards/WikiData/WD~virtual_colonoscopy,302481]]'
+  - '[[_Standards/WikiData/WD~colonoscopy,840387]]'
+  - '[[_Standards/WikiData/WD~blood_test,886837]]'
+  - '[[_Standards/WikiData/WD~sigmoidoscopy,941169]]'
+  - '[[_Standards/WikiData/WD~lower_gastrointestinal_series,1549149]]'
+  - '[[_Standards/WikiData/WD~RAS_test,16613270]]'
+  - '[[_Standards/WikiData/WD~computed_tomography,32566]]'
+health_specialty: '[[_Standards/WikiData/WD~oncology,162555]]'
 risk_factor:
-  - "[[_Standards/WikiData/WD~age_of_a_person,185836]]"
-  - "[[_Standards/WikiData/WD~smoking,662860]]"
-  - "[[_Standards/WikiData/WD~alcohol_and_cancer,4713253]]"
-  - "[[_Standards/WikiData/WD~obesity,12174]]"
+  - '[[_Standards/WikiData/WD~age_of_a_person,185836]]'
+  - '[[_Standards/WikiData/WD~smoking,662860]]'
+  - '[[_Standards/WikiData/WD~alcohol_and_cancer,4713253]]'
+  - '[[_Standards/WikiData/WD~obesity,12174]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~irinotecan,412197]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+  - '[[_Standards/WikiData/WD~irinotecan,412197]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 genetic_association:
-  - "[[_Standards/WikiData/WD~CCND2,5198271]]"
-  - "[[_Standards/WikiData/WD~COX1,14865314]]"
-  - "[[_Standards/WikiData/WD~WRN,14883734]]"
-  - "[[_Standards/WikiData/WD~PIK3CA,14887700]]"
-  - "[[_Standards/WikiData/WD~CTNNB1,14902794]]"
-  - "[[_Standards/WikiData/WD~SMAD3,14903974]]"
-  - "[[_Standards/WikiData/WD~SMAD4,14904154]]"
-  - "[[_Standards/WikiData/WD~SMAD7,14904375]]"
-  - "[[_Standards/WikiData/WD~GNAS,14905160]]"
-  - "[[_Standards/WikiData/WD~MSH2,14911688]]"
-  - "[[_Standards/WikiData/WD~MLH1,14911708]]"
-  - "[[_Standards/WikiData/WD~MSH6,14911717]]"
-  - "[[_Standards/WikiData/WD~TCF7L2,14913892]]"
-  - "[[_Standards/WikiData/WD~AKT1,17816452]]"
-  - "[[_Standards/WikiData/WD~BRAF,17853226]]"
-  - "[[_Standards/WikiData/WD~CDH1,17859787]]"
-  - "[[_Standards/WikiData/WD~DPP6,17914420]]"
-  - "[[_Standards/WikiData/WD~ALOX12,18016430]]"
-  - "[[_Standards/WikiData/WD~LAMA5,18028450]]"
-  - "[[_Standards/WikiData/WD~LAMC1,18028460]]"
-  - "[[_Standards/WikiData/WD~MTHFD1,18029537]]"
-  - "[[_Standards/WikiData/WD~PDGFRL,18030423]]"
-  - "[[_Standards/WikiData/WD~SLC22A3,18031583]]"
-  - "[[_Standards/WikiData/WD~TBX3,18031866]]"
-  - "[[_Standards/WikiData/WD~RBM10,18032782]]"
-  - "[[_Standards/WikiData/WD~AXIN2,18032812]]"
-  - "[[_Standards/WikiData/WD~POLD3,18035617]]"
-  - "[[_Standards/WikiData/WD~MLH3,18038559]]"
-  - "[[_Standards/WikiData/WD~MORC1,18038668]]"
-  - "[[_Standards/WikiData/WD~PNMA8A,18041678]]"
-  - "[[_Standards/WikiData/WD~ACOXL,18041733]]"
-  - "[[_Standards/WikiData/WD~MYNN,18042141]]"
-  - "[[_Standards/WikiData/WD~NXN,18045643]]"
-  - "[[_Standards/WikiData/WD~RHPN2,18048027]]"
-  - "[[_Standards/WikiData/WD~HSPA12A,18053900]]"
-  - "[[_Standards/WikiData/WD~CCDC190,18055322]]"
-  - "[[_Standards/WikiData/WD~EPHA3,18250396]]"
-  - "[[_Standards/WikiData/WD~RET,18253720]]"
-  - "[[_Standards/WikiData/WD~NF1,20782771]]"
-anatomical_locations: "[[_Standards/WikiData/WD~colon,5982337]]"
+  - '[[_Standards/WikiData/WD~CCND2,5198271]]'
+  - '[[_Standards/WikiData/WD~COX1,14865314]]'
+  - '[[_Standards/WikiData/WD~WRN,14883734]]'
+  - '[[_Standards/WikiData/WD~PIK3CA,14887700]]'
+  - '[[_Standards/WikiData/WD~CTNNB1,14902794]]'
+  - '[[_Standards/WikiData/WD~SMAD3,14903974]]'
+  - '[[_Standards/WikiData/WD~SMAD4,14904154]]'
+  - '[[_Standards/WikiData/WD~SMAD7,14904375]]'
+  - '[[_Standards/WikiData/WD~GNAS,14905160]]'
+  - '[[_Standards/WikiData/WD~MSH2,14911688]]'
+  - '[[_Standards/WikiData/WD~MLH1,14911708]]'
+  - '[[_Standards/WikiData/WD~MSH6,14911717]]'
+  - '[[_Standards/WikiData/WD~TCF7L2,14913892]]'
+  - '[[_Standards/WikiData/WD~AKT1,17816452]]'
+  - '[[_Standards/WikiData/WD~BRAF,17853226]]'
+  - '[[_Standards/WikiData/WD~CDH1,17859787]]'
+  - '[[_Standards/WikiData/WD~DPP6,17914420]]'
+  - '[[_Standards/WikiData/WD~ALOX12,18016430]]'
+  - '[[_Standards/WikiData/WD~LAMA5,18028450]]'
+  - '[[_Standards/WikiData/WD~LAMC1,18028460]]'
+  - '[[_Standards/WikiData/WD~MTHFD1,18029537]]'
+  - '[[_Standards/WikiData/WD~PDGFRL,18030423]]'
+  - '[[_Standards/WikiData/WD~SLC22A3,18031583]]'
+  - '[[_Standards/WikiData/WD~TBX3,18031866]]'
+  - '[[_Standards/WikiData/WD~RBM10,18032782]]'
+  - '[[_Standards/WikiData/WD~AXIN2,18032812]]'
+  - '[[_Standards/WikiData/WD~POLD3,18035617]]'
+  - '[[_Standards/WikiData/WD~MLH3,18038559]]'
+  - '[[_Standards/WikiData/WD~MORC1,18038668]]'
+  - '[[_Standards/WikiData/WD~PNMA8A,18041678]]'
+  - '[[_Standards/WikiData/WD~ACOXL,18041733]]'
+  - '[[_Standards/WikiData/WD~MYNN,18042141]]'
+  - '[[_Standards/WikiData/WD~NXN,18045643]]'
+  - '[[_Standards/WikiData/WD~RHPN2,18048027]]'
+  - '[[_Standards/WikiData/WD~HSPA12A,18053900]]'
+  - '[[_Standards/WikiData/WD~CCDC190,18055322]]'
+  - '[[_Standards/WikiData/WD~EPHA3,18250396]]'
+  - '[[_Standards/WikiData/WD~RET,18253720]]'
+  - '[[_Standards/WikiData/WD~NF1,20782771]]'
+anatomical_locations: '[[_Standards/WikiData/WD~colon,5982337]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~large_intestine_cancer,12048781]]"
-  - "[[_Standards/WikiData/WD~colorectal_neoplasm,58833976]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
+  - '[[_Standards/WikiData/WD~large_intestine_cancer,12048781]]'
+  - '[[_Standards/WikiData/WD~colorectal_neoplasm,58833976]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Colorectal_cancer,27725127]]"
-  - "[[_Standards/WikiData/WD~Q55924124,55924124]]"
+  - '[[_Standards/WikiData/WD~Colorectal_cancer,27725127]]'
+  - '[[_Standards/WikiData/WD~Q55924124,55924124]]'
 subreddit:
   - coloncancer
 instance_of:
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-ICD_O: "8140"
-DiseasesDB: "2975"
-OmegaWiki_Defined_Meaning: "681996"
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+ICD_O: 8140
+DiseasesDB: 2975
+OmegaWiki_Defined_Meaning: 681996
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Liseriketa%20sistemaren%20diagrama-eu.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Stomach%20colon%20rectum%20diagram-en.svg
@@ -91,8 +92,8 @@ exact_match:
   - http://purl.obolibrary.org/obo/DOID_9256
 Wikimedia_import_URL: https://en.wikipedia.org/wiki/Colorectal_cancer
 P8189:
-  - "987007284598505171"
-  - "987007530016405171"
+  - 987007284598505171
+  - 987007530016405171
 UMLS_CUI: C1527249
 Wolfram_Language_entity_code:
   - Entity["Concept", "ColonCancer::525v4"]

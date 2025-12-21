@@ -2,19 +2,21 @@
 aliases:
   - Hand, foot, and mouth disease
   - HFMD
+  - HFMD(Hand,Foot_and_Mouth_Disease)
+  - HFMD(Hand,Foot and Mouth Disease)
 has_id_wikidata: Q652744
-symptoms_and_signs: "[[_Standards/WikiData/WD~rash,653197]]"
-health_specialty: "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+symptoms_and_signs: '[[_Standards/WikiData/WD~rash,653197]]'
+health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]"
-  - "[[_Standards/WikiData/WD~skin_infection,2458539]]"
-  - "[[_Standards/WikiData/WD~coxsackievirus_infectious_disease,18966421]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+  - '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
+  - '[[_Standards/WikiData/WD~skin_infection,2458539]]'
+  - '[[_Standards/WikiData/WD~coxsackievirus_infectious_disease,18966421]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-DiseasesDB: "5622"
+  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+DiseasesDB: 5622
 ICD_10_CM: B08.4
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Hand%20Foot%20Mouth%20Disease.png
@@ -22,7 +24,7 @@ image:
 exact_match:
   - http://identifiers.org/doid/DOID:10881
   - http://purl.obolibrary.org/obo/DOID_10881
-ICD_9_CM: "074.3"
+ICD_9_CM: 074.3
 UMLS_CUI: C0018572
 MeSH_tree_code: C01.925.782.687.359.213.331
 Wolfram_Language_entity_code: Entity["Disease", "ICDNine074.3"]

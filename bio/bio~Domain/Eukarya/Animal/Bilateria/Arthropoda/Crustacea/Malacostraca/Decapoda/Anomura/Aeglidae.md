@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Aeglidae
 title: Aegla
 ---
 

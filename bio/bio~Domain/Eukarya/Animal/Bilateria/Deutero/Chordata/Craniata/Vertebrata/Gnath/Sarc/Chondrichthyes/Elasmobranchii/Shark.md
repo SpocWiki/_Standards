@@ -47,7 +47,7 @@ Unicode_character: 🦈
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_sharks,7112728]]"
 ---
 
-# [[Shark]] 
+# [[Shark]] 🦈 
  
 #is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Shark,7372|WD~Shark,7372]]  
 

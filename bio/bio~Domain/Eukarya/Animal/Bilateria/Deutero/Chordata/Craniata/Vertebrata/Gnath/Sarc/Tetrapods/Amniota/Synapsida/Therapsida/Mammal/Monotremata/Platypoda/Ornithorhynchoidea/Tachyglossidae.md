@@ -1,23 +1,27 @@
 ---
 aliases:
   - Tachyglossidae
+  - Equidna
+  - آكل النمل الشائك
+  - النَضْناض
+  - قنفذ النمل
 has_id_wikidata: Q21824
 has_characteristic:
-  - "[[_Standards/WikiData/WD~viviparity,120446]]"
-  - "[[_Standards/WikiData/WD~oviparity,212306]]"
+  - '[[_Standards/WikiData/WD~viviparity,120446]]'
+  - '[[_Standards/WikiData/WD~oviparity,212306]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-parent_taxon: "[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Ornithorhynchoidea,126163427]]"
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Ornithorhynchoidea,126163427]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 egg_incubation_period: 10
 litter_size: 400
 time_in_the_pouch: 50
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "552308"
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 552308
 taxon_common_name:
   - Equidna
   - آكل النمل الشائك

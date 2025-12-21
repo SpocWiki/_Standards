@@ -3,6 +3,7 @@ aliases:
   - bunnies
   - bunny
   - Rabbits
+  - Rabbit
 has_id_wikidata: Q9394
 taxon_known_by_this_common_name:
   - "[[_Standards/WikiData/WD~Pronolagus,685653]]"
@@ -38,13 +39,13 @@ opposite_of: "[[_Standards/WikiData/WD~hare,63941258]]"
 subreddit: Rabbits
 Commons_category: Rabbits
 social_media_followers: 311379
-OmegaWiki_Defined_Meaning: "501465"
+OmegaWiki_Defined_Meaning: 501465
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ikesbunny.jpg
 MCN_code: 0106.14.00
 start_time: -53000000-01-01T00:00:00Z
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Lapin%20Nm%201%202%201%20-%20Elix.webm
 IMDb_keyword: rabbit
-UNSPSC_Code: "10101512"
+UNSPSC_Code: 10101512
 Unicode_character:
   - 🐇
   - 🐰
@@ -53,7 +54,7 @@ UMLS_CUI: C3887509
 Wolfram_Language_entity_code: Entity["FoodType", "Rabbit"]
 ---
 
-# [[Rabbit]] 
+# [[Rabbit]] 🐰 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Rabbit,9394|WD~Rabbit,9394]] 
 

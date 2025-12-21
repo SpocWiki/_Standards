@@ -1,6 +1,50 @@
 ---
-title: Oleaceae
+aliases:
+  - Oleaceae
+  - 물푸레나무과
+  - Famîleya darzeytûnan
+  - Alyvmediniai
+  - Маслинки
+  - ഒലിയേസീ
+  - Oljetrefamilien
+  - Olijffamilie
+  - Oliwkowate
+  - زیتون ٹبر
+  - Oleacee
+  - Маслиновые
+  - olivovníkovité
+  - oljkovke
+  - Syrenväxter
+  - วงศ์มะลิ
+  - Zeytingiller
+  - Маслинові
+  - Zaytundoshlar
+  - Họ Ô liu
+  - Olyfboomachtign
+  - 木樨科
+  - 木犀科
+  - زيتونية
+  - Oleacees
+  - Zeytunkimilər
+  - Маслинови
+  - Oleàcia
+  - Oliven-familien
+  - Ölbaumgewächse
+  - olive Family
+  - Oleacoj
+  - Oleáceas
+  - Õlipuulised
+  - oleazeoak
+  - تیره زیتون
+  - Öljypuukasvit
+  - Maslinovke
+  - Wolijowcowe rostliny
+  - Olajfafélék
+  - Ձիթենազգիներ
+  - モクセイ科
+  - Зәйтүн тұқымдасы
 has_id_wikidata: Q155966
+title: Oleaceae
 taxon_common_name:
   - 물푸레나무과
   - Famîleya darzeytûnan
@@ -48,17 +92,17 @@ taxon_common_name:
   - Ձիթենազգիներ
   - モクセイ科
   - Зәйтүн тұқымдасы
-taxonomic_type: "[[_Standards/WikiData/WD~Olea,296910]]"
+taxonomic_type: '[[_Standards/WikiData/WD~Olea,296910]]'
 described_by_source:
-  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_61,112869463]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Lamiales,21742]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "32927"
+  - '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_61,112869463]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Lamiales,21742]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 32927
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Olive-tree-fruit-august-0.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=787
 EPPO_Code: 1OLEF

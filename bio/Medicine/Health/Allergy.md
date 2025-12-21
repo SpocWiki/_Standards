@@ -1,52 +1,54 @@
 ---
+aliases:
+  - Allergy
 has_id_wikidata: Q42982
 UMLS_CUI: C1690571
 Krugosvet_article: medicina/ALLERGIYA.html
 ICD_10_CM: T78.40
-health_specialty: "[[_Standards/WikiData/WD~immunology,101929]]"
-has_cause: "[[_Standards/WikiData/WD~allergen,186752]]"
+health_specialty: '[[_Standards/WikiData/WD~immunology,101929]]'
+has_cause: '[[_Standards/WikiData/WD~allergen,186752]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~acrivastine,342745]]"
-  - "[[_Standards/WikiData/WD~omalizumab,415392]]"
-  - "[[_Standards/WikiData/WD~methylprednisolone,417222]]"
-  - "[[_Standards/WikiData/WD~dexamethasone,422252]]"
-  - "[[_Standards/WikiData/WD~astemizole,423437]]"
-  - "[[_Standards/WikiData/WD~loratadine,424049]]"
-  - "[[_Standards/WikiData/WD~prednisone,424972]]"
-  - "[[_Standards/WikiData/WD~chloropyramine,729863]]"
-  - "[[_Standards/WikiData/WD~triamcinolone,1074056]]"
-  - "[[_Standards/WikiData/WD~prednisolone,11426176]]"
-studied_by: "[[_Standards/WikiData/WD~allergology,1046686]]"
+  - '[[_Standards/WikiData/WD~acrivastine,342745]]'
+  - '[[_Standards/WikiData/WD~omalizumab,415392]]'
+  - '[[_Standards/WikiData/WD~methylprednisolone,417222]]'
+  - '[[_Standards/WikiData/WD~dexamethasone,422252]]'
+  - '[[_Standards/WikiData/WD~astemizole,423437]]'
+  - '[[_Standards/WikiData/WD~loratadine,424049]]'
+  - '[[_Standards/WikiData/WD~prednisone,424972]]'
+  - '[[_Standards/WikiData/WD~chloropyramine,729863]]'
+  - '[[_Standards/WikiData/WD~triamcinolone,1074056]]'
+  - '[[_Standards/WikiData/WD~prednisolone,11426176]]'
+studied_by: '[[_Standards/WikiData/WD~allergology,1046686]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~runny_nose,1115038]]"
-  - "[[_Standards/WikiData/WD~allergic_response,4732121]]"
+  - '[[_Standards/WikiData/WD~runny_nose,1115038]]'
+  - '[[_Standards/WikiData/WD~allergic_response,4732121]]'
 different_from:
-  - "[[_Standards/WikiData/WD~sensibility,1195509]]"
-  - "[[_Standards/WikiData/WD~drug_intolerance,1671531]]"
-  - "[[_Standards/WikiData/WD~Pseudoallergy,2115709]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+  - '[[_Standards/WikiData/WD~sensibility,1195509]]'
+  - '[[_Standards/WikiData/WD~drug_intolerance,1671531]]'
+  - '[[_Standards/WikiData/WD~Pseudoallergy,2115709]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~hypersensitivity,5958765]]"
-  - "[[_Standards/WikiData/WD~immunoglobulin_mediated_immune_response,14905917]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~hypersensitivity,5958765]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Hypersensitivity_disease_by_system,6676522]]"
+  - '[[_Standards/WikiData/WD~hypersensitivity,5958765]]'
+  - '[[_Standards/WikiData/WD~immunoglobulin_mediated_immune_response,14905917]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~hypersensitivity,5958765]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Hypersensitivity_disease_by_system,6676522]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-  - "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+  - '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
 genetic_association:
-  - "[[_Standards/WikiData/WD~IL2,14864515]]"
-  - "[[_Standards/WikiData/WD~ABL2,17708701]]"
-  - "[[_Standards/WikiData/WD~DNAH5,17914027]]"
-  - "[[_Standards/WikiData/WD~EPS15,17916981]]"
+  - '[[_Standards/WikiData/WD~IL2,14864515]]'
+  - '[[_Standards/WikiData/WD~ABL2,17708701]]'
+  - '[[_Standards/WikiData/WD~DNAH5,17914027]]'
+  - '[[_Standards/WikiData/WD~EPS15,17916981]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-age_of_onset: "[[_Standards/WikiData/WD~any_age,118907676]]"
-IAB_code: "288"
-DiseasesDB: "33481"
-OmegaWiki_Defined_Meaning: "140"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+age_of_onset: '[[_Standards/WikiData/WD~any_age,118907676]]'
+IAB_code: 288
+DiseasesDB: 33481
+OmegaWiki_Defined_Meaning: 140
 subreddit:
   - Allergy
   - Allergies
@@ -61,7 +63,7 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Skintest2.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%86%E0%AC%B2%E0%AC%B0%E0%AD%8D%E0%AC%9C%E0%AC%BF.wav
 exact_match: http://purl.obolibrary.org/obo/DOID_1205
-P8189: "987007293920805171"
+P8189: 987007293920805171
 Commons_category: Allergies
 ---
 

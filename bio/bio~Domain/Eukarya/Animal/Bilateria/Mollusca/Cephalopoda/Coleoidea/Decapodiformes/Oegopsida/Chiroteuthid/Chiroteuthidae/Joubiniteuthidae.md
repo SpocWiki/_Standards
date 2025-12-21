@@ -1,5 +1,7 @@
 ---
-title: "Joubiniteuthis portieri"
+aliases:
+  - Joubiniteuthidae
+title: Joubiniteuthis portieri
 ---
 
 ## Joubiniteuthidae [Naef, 1922] 

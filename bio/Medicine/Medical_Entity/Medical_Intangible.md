@@ -4,20 +4,22 @@ aliases:
   - medical_intangible
   - MedicalIntangible
   - is_a_medical_intangible
+  - Medical_Intangible
+  - Medical Intangible
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_intangible
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_intangible Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,7 +1,7 @@
 ---
 aliases:
-- Procaryote
-- prokaryotic
+  - Procaryote
+  - prokaryotic
 ---
 
 This is a Super-[[../Taxon~Domain]]. 

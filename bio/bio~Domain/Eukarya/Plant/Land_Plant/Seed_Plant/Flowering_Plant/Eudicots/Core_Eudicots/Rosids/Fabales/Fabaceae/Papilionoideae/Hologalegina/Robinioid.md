@@ -1,5 +1,7 @@
 ---
-title: "Robinioid clade"
+aliases:
+  - Robinioid
+title: Robinioid clade
 ---
 
 # [[Robinioid]] 

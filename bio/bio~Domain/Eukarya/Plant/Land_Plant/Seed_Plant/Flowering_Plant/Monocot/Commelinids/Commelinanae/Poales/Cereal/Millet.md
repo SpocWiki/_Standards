@@ -4,24 +4,24 @@ aliases:
   - Millet
 has_id_wikidata: Q259438
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~grain,2995529]]"
-  - "[[_Standards/WikiData/WD~cereal_grain,12117]]"
+  - '[[_Standards/WikiData/WD~grain,2995529]]'
+  - '[[_Standards/WikiData/WD~cereal_grain,12117]]'
 has_use:
-  - "[[_Standards/WikiData/WD~food,2095]]"
-  - "[[_Standards/WikiData/WD~flour,36465]]"
-  - "[[_Standards/WikiData/WD~drink,40050]]"
+  - '[[_Standards/WikiData/WD~food,2095]]'
+  - '[[_Standards/WikiData/WD~flour,36465]]'
+  - '[[_Standards/WikiData/WD~drink,40050]]'
 water_footprint: 4478
 Commons_category: Millet
-OmegaWiki_Defined_Meaning: "397763"
+OmegaWiki_Defined_Meaning: 397763
 Dewey_Decimal_Classification:
-  - "584.92"
-  - "664.72"
-  - "633.171"
-  - "641.33171"
-  - "641.63171"
+  - 584.92
+  - 664.72
+  - 633.171
+  - 641.33171
+  - 641.63171
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Panicum%20miliaceum0.jpg
 MeSH_tree_code: B01.875.800.575.912.250.822.587
 UMLS_CUI: C4018864

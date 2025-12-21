@@ -4,6 +4,56 @@ aliases:
   - euphorbias
   - Wolfsmilchgewächs
   - Euphorbie
+  - Euphorbiaceae
+  - Euforbiàcia
+  - pryšcovité
+  - Vortemælk-familien
+  - Wolfsmilchgewächse
+  - Ευφορβίδες
+  - Spurge family
+  - Eŭforbiacoj
+  - Piimalillelised
+  - تیره فرفریون
+  - Tyräkkikasvit
+  - Euphorbiacées
+  - Euforbiáceas
+  - חלבלוביים
+  - एरण्ड कुल
+  - Mlječikovke
+  - Mlóčenjowe rostliny
+  - Kutyatejfélék
+  - Euforbiacee
+  - トウダイグサ科
+  - რძიანასებრნი
+  - Сүттіген тұқымдасы
+  - 대극과
+  - Эуфорбия котыр
+  - Famîleya giyaşîrkan
+  - Karpažoliniai
+  - Eiforbiju dzimta
+  - Млечки
+  - യൂഫോർബിയേസീ
+  - Vortemelkfamilien
+  - Wolfsmelkfamilie
+  - wilczomleczowate
+  - Wachanqa yura rikch'aq ayllu
+  - prýštecovité
+  - mlečkovke
+  - Törelväxter
+  - ஆமணக்குக் குடும்பம்
+  - యుఫోర్బియేసి
+  - วงศ์เปล้า
+  - วงศ์ยางพารา
+  - Молочайні
+  - Sutlamadoshlar
+  - Họ Đại kích
+  - 大戟科
+  - Молочайные
+  - Sütleğengiller
+  - فربيونية
+  - Südləyənkimilər
+  - Малачайныя
+  - Млечкови
 has_id_wikidata: Q156584
 taxon_common_name:
   - Euforbiàcia
@@ -57,17 +107,17 @@ taxon_common_name:
   - Südləyənkimilər
   - Малачайныя
   - Млечкови
-taxonomic_type: "[[_Standards/WikiData/WD~Euphorbia,146567]]"
-uses: "[[_Standards/WikiData/WD~CAM_photosynthesis,858313]]"
+taxonomic_type: '[[_Standards/WikiData/WD~Euphorbia,146567]]'
+uses: '[[_Standards/WikiData/WD~CAM_photosynthesis,858313]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_44(1),112869429]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_44(1),112869429]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
 social_media_followers: 10820
-ITIS_TSN: "28031"
+ITIS_TSN: 28031
 Commons_category: Euphorbiaceae
 taxon_name: Euphorbiaceae
 subreddit: Euphorbiaceae

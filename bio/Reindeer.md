@@ -1,6 +1,7 @@
 ---
 aliases:
-- caribou
+  - caribou
+  - Reindeer
 ---
 
 # [[Reindeer]] 

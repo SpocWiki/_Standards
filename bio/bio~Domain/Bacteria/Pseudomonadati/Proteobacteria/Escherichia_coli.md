@@ -1,6 +1,8 @@
 ---
 aliases:
   - Escherichia_coli
+  - Escherichia coli
+  - 大腸埃希氏菌
 has_id_wikidata: Q25419
 GenBank_assembly_accession_number:
   - GCA_003018135.1
@@ -127,27 +129,27 @@ Krugosvet_article: meditsina/kishechnaya-palochka
 short_name: E. coli
 taxon_common_name: 大腸埃希氏菌
 instance_of:
-  - "[[_Standards/WikiData/WD~model_organism,213907]]"
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Escherichia,311055]]"
-Gram_staining: "[[_Standards/WikiData/WD~gram_negative_bacteria,632006]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~Q21024265,21024265]]"
+  - '[[_Standards/WikiData/WD~model_organism,213907]]'
+  - '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Escherichia,311055]]'
+Gram_staining: '[[_Standards/WikiData/WD~gram_negative_bacteria,632006]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~Q21024265,21024265]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Escherichia_coli,22721381]]"
-  - "[[_Standards/WikiData/WD~Q22865440,22865440]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25681522,25681522]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-taxon_synonym: "[[_Standards/WikiData/WD~Bacillus_coli_communis,100621690]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-ITIS_TSN: "285"
-OmegaWiki_Defined_Meaning: "1299610"
+  - '[[_Standards/WikiData/WD~Template_Escherichia_coli,22721381]]'
+  - '[[_Standards/WikiData/WD~Q22865440,22865440]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681522,25681522]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Bacillus_coli_communis,100621690]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+ITIS_TSN: 285
+OmegaWiki_Defined_Meaning: 1299610
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/E.%20coli%20Bacteria%20%287316101966%29.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/202502%20Escherichia%20coli.svg
 Commons_category: Escherichia coli
 taxon_name: Escherichia coli
 LPSN_URL: https://lpsn.dsmz.de/species/escherichia-coli
-UNSPSC_Code: "51201702"
+UNSPSC_Code: 51201702
 UNII: 514B9K0L10
 FoodEx2_code: A0CQA
 MeSH_tree_code:

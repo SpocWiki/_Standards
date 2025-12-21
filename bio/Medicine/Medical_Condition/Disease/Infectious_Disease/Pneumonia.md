@@ -1,58 +1,59 @@
 ---
 aliases:
   - Lungenentzündung
+  - Pneumonia
 has_id_wikidata: Q12192
 Commons_category: Pneumonia
 Commons_gallery: Pneumonia
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 DiseasesDB: 10166
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~antibiotic,12187]]"
-  - "[[_Standards/WikiData/WD~clarithromycin,118551]]"
-  - "[[_Standards/WikiData/WD~azithromycin,165399]]"
-  - "[[_Standards/WikiData/WD~metronidazole,169569]]"
-  - "[[_Standards/WikiData/WD~ciprofloxacin,256602]]"
-  - "[[_Standards/WikiData/WD~rac-salbutamol,410358]]"
-  - "[[_Standards/WikiData/WD~linezolid,411377]]"
-  - "[[_Standards/WikiData/WD~voriconazole,412236]]"
-  - "[[_Standards/WikiData/WD~cefuroxime,413728]]"
-  - "[[_Standards/WikiData/WD~tigecycline,420595]]"
-  - "[[_Standards/WikiData/WD~Ceftriaxone,421713]]"
-  - "[[_Standards/WikiData/WD~doxycycline,422442]]"
-  - "[[_Standards/WikiData/WD~vancomycin,424027]]"
-  - "[[_Standards/WikiData/WD~tiotropium,424316]]"
-  - "[[_Standards/WikiData/WD~moxifloxacin,424940]]"
-  - "[[_Standards/WikiData/WD~antiviral_drug,846227]]"
-  - "[[_Standards/WikiData/WD~budesonide_formoterol,863389]]"
-  - "[[_Standards/WikiData/WD~tobramycin,1758380]]"
-  - "[[_Standards/WikiData/WD~oxygen_therapy,1988216]]"
-  - "[[_Standards/WikiData/WD~cefepime,2552927]]"
-  - "[[_Standards/WikiData/WD~tosufloxacin,3995932]]"
-  - "[[_Standards/WikiData/WD~dicloxacillin_sodium,27116225]]"
-  - "[[_Standards/WikiData/WD~meropenem_trihydrate,47495774]]"
-  - "[[_Standards/WikiData/WD~levofloxacin_hemihydrate,47495791]]"
-  - "[[_Standards/WikiData/WD~albuterol___ipratropium,48566653]]"
-  - "[[_Standards/WikiData/WD~sulfamethoxazole___trimethoprim,48566821]]"
+  - '[[_Standards/WikiData/WD~antibiotic,12187]]'
+  - '[[_Standards/WikiData/WD~clarithromycin,118551]]'
+  - '[[_Standards/WikiData/WD~azithromycin,165399]]'
+  - '[[_Standards/WikiData/WD~metronidazole,169569]]'
+  - '[[_Standards/WikiData/WD~ciprofloxacin,256602]]'
+  - '[[_Standards/WikiData/WD~rac-salbutamol,410358]]'
+  - '[[_Standards/WikiData/WD~linezolid,411377]]'
+  - '[[_Standards/WikiData/WD~voriconazole,412236]]'
+  - '[[_Standards/WikiData/WD~cefuroxime,413728]]'
+  - '[[_Standards/WikiData/WD~tigecycline,420595]]'
+  - '[[_Standards/WikiData/WD~Ceftriaxone,421713]]'
+  - '[[_Standards/WikiData/WD~doxycycline,422442]]'
+  - '[[_Standards/WikiData/WD~vancomycin,424027]]'
+  - '[[_Standards/WikiData/WD~tiotropium,424316]]'
+  - '[[_Standards/WikiData/WD~moxifloxacin,424940]]'
+  - '[[_Standards/WikiData/WD~antiviral_drug,846227]]'
+  - '[[_Standards/WikiData/WD~budesonide_formoterol,863389]]'
+  - '[[_Standards/WikiData/WD~tobramycin,1758380]]'
+  - '[[_Standards/WikiData/WD~oxygen_therapy,1988216]]'
+  - '[[_Standards/WikiData/WD~cefepime,2552927]]'
+  - '[[_Standards/WikiData/WD~tosufloxacin,3995932]]'
+  - '[[_Standards/WikiData/WD~dicloxacillin_sodium,27116225]]'
+  - '[[_Standards/WikiData/WD~meropenem_trihydrate,47495774]]'
+  - '[[_Standards/WikiData/WD~levofloxacin_hemihydrate,47495791]]'
+  - '[[_Standards/WikiData/WD~albuterol___ipratropium,48566653]]'
+  - '[[_Standards/WikiData/WD~sulfamethoxazole___trimethoprim,48566821]]'
 exact_match:
   - http://identifiers.org/doid/DOID:552
   - http://purl.obolibrary.org/obo/DOID_552
   - http://purl.obolibrary.org/obo/HP_0002090
   - http://purl.obolibrary.org/obo/SYMP_0019168
 has_cause:
-  - "[[_Standards/WikiData/WD~infection,166231]]"
-  - "[[_Standards/WikiData/WD~smoking,662860]]"
-  - "[[_Standards/WikiData/WD~aspiration_pneumonia,677449]]"
+  - '[[_Standards/WikiData/WD~infection,166231]]'
+  - '[[_Standards/WikiData/WD~smoking,662860]]'
+  - '[[_Standards/WikiData/WD~aspiration_pneumonia,677449]]'
 health_specialty:
-  - "[[_Standards/WikiData/WD~pulmonology,203337]]"
-  - "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+  - '[[_Standards/WikiData/WD~pulmonology,203337]]'
+  - '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 ICD_9_CM:
   - 483
   - 486
@@ -60,44 +61,44 @@ ICD_9_CM:
   - 483.8
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pneumonia%2C%20mixed%20patterns%2C%20lobar%20and%20bronchopneumonia%20%283679096639%29.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~cause_of_death,1931388]]"
-  - "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
+  - '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
+  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 Krugosvet_article: medicina/PNEVMONIYA.html
 medical_examination:
-  - "[[_Standards/WikiData/WD~computed_tomography,32566]]"
-  - "[[_Standards/WikiData/WD~chest_radiograph,1283318]]"
-  - "[[_Standards/WikiData/WD~sputum_culture,7581635]]"
+  - '[[_Standards/WikiData/WD~computed_tomography,32566]]'
+  - '[[_Standards/WikiData/WD~chest_radiograph,1283318]]'
+  - '[[_Standards/WikiData/WD~sputum_culture,7581635]]'
 MeSH_tree_code:
   - C01.748.610
   - C08.381.677
   - C08.730.610
 OmegaWiki_Defined_Meaning: 1192280
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-  - "[[_Standards/WikiData/WD~WikiProject_COVID-19,87748614]]"
-possible_treatment: "[[_Standards/WikiData/WD~medication,12140]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+  - '[[_Standards/WikiData/WD~WikiProject_COVID-19,87748614]]'
+possible_treatment: '[[_Standards/WikiData/WD~medication,12140]]'
 risk_factor:
-  - "[[_Standards/WikiData/WD~diabetes,12206]]"
-  - "[[_Standards/WikiData/WD~asthma,35869]]"
-  - "[[_Standards/WikiData/WD~cystic_fibrosis,178194]]"
-  - "[[_Standards/WikiData/WD~heart_failure,181754]]"
-  - "[[_Standards/WikiData/WD~chronic_obstructive_pulmonary_disease,199804]]"
-  - "[[_Standards/WikiData/WD~smoking,662860]]"
+  - '[[_Standards/WikiData/WD~diabetes,12206]]'
+  - '[[_Standards/WikiData/WD~asthma,35869]]'
+  - '[[_Standards/WikiData/WD~cystic_fibrosis,178194]]'
+  - '[[_Standards/WikiData/WD~heart_failure,181754]]'
+  - '[[_Standards/WikiData/WD~chronic_obstructive_pulmonary_disease,199804]]'
+  - '[[_Standards/WikiData/WD~smoking,662860]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-  - "[[_Standards/WikiData/WD~pneumonitis,1284347]]"
-  - "[[_Standards/WikiData/WD~lung_disease,3392853]]"
-  - "[[_Standards/WikiData/WD~lower_respiratory_tract_infection,3631290]]"
+  - '[[_Standards/WikiData/WD~disease,12136]]'
+  - '[[_Standards/WikiData/WD~pneumonitis,1284347]]'
+  - '[[_Standards/WikiData/WD~lung_disease,3392853]]'
+  - '[[_Standards/WikiData/WD~lower_respiratory_tract_infection,3631290]]'
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~cough,35805]]"
-  - "[[_Standards/WikiData/WD~fever,38933]]"
-  - "[[_Standards/WikiData/WD~dyspnea,188008]]"
-  - "[[_Standards/WikiData/WD~snoring,205835]]"
-  - "[[_Standards/WikiData/WD~tachypnea,570920]]"
-  - "[[_Standards/WikiData/WD~hemoptysis,647099]]"
-  - "[[_Standards/WikiData/WD~chills,2260058]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Pneumonia,14459235]]"
+  - '[[_Standards/WikiData/WD~cough,35805]]'
+  - '[[_Standards/WikiData/WD~fever,38933]]'
+  - '[[_Standards/WikiData/WD~dyspnea,188008]]'
+  - '[[_Standards/WikiData/WD~snoring,205835]]'
+  - '[[_Standards/WikiData/WD~tachypnea,570920]]'
+  - '[[_Standards/WikiData/WD~hemoptysis,647099]]'
+  - '[[_Standards/WikiData/WD~chills,2260058]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Pneumonia,14459235]]'
 UMLS_CUI: C0032285
 ---
 

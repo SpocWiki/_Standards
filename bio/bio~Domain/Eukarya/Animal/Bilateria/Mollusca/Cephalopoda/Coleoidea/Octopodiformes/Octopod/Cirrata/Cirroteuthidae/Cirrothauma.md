@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cirrothauma
 title: Cirrothauma
 ---
 

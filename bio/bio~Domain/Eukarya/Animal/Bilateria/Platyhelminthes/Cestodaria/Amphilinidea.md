@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Amphilinidea
 title: Amphilinidea
 ---
 

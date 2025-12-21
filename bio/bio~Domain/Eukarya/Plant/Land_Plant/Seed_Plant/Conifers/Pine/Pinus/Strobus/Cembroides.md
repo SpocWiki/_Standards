@@ -1,5 +1,7 @@
 ---
-title: "subsection Cembroides"
+aliases:
+  - Cembroides
+title: subsection Cembroides
 ---
 
 # subsection Cembroides 

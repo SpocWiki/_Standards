@@ -1,42 +1,43 @@
 ---
 aliases:
   - Ökosystem
+  - Ecosystem
 has_id_wikidata: Q37813
 has_part_s_:
-  - "[[_Standards/WikiData/WD~consumer,72638]]"
-  - "[[_Standards/WikiData/WD~autotroph,131427]]"
-  - "[[_Standards/WikiData/WD~heterotroph,159344]]"
-  - "[[_Standards/WikiData/WD~food_chain,159462]]"
-  - "[[_Standards/WikiData/WD~biogeochemical_cycle,846303]]"
-  - "[[_Standards/WikiData/WD~primary_producer,1758713]]"
+  - '[[_Standards/WikiData/WD~consumer,72638]]'
+  - '[[_Standards/WikiData/WD~autotroph,131427]]'
+  - '[[_Standards/WikiData/WD~heterotroph,159344]]'
+  - '[[_Standards/WikiData/WD~food_chain,159462]]'
+  - '[[_Standards/WikiData/WD~biogeochemical_cycle,846303]]'
+  - '[[_Standards/WikiData/WD~primary_producer,1758713]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~sustainability,219416]]"
-  - "[[_Standards/WikiData/WD~ecosystem_diversity,842388]]"
-  - "[[_Standards/WikiData/WD~biological_interaction,1823478]]"
-  - "[[_Standards/WikiData/WD~balance_of_nature,2246744]]"
-  - "[[_Standards/WikiData/WD~adaptive_capacity,3738275]]"
-  - "[[_Standards/WikiData/WD~consumer_resource_interactions,5164625]]"
-  - "[[_Standards/WikiData/WD~ecological_efficiency,5333232]]"
-  - "[[_Standards/WikiData/WD~ecological_stability,5333257]]"
-  - "[[_Standards/WikiData/WD~ecosystem_health,17011699]]"
-  - "[[_Standards/WikiData/WD~ecosystem_type,125824188]]"
+  - '[[_Standards/WikiData/WD~sustainability,219416]]'
+  - '[[_Standards/WikiData/WD~ecosystem_diversity,842388]]'
+  - '[[_Standards/WikiData/WD~biological_interaction,1823478]]'
+  - '[[_Standards/WikiData/WD~balance_of_nature,2246744]]'
+  - '[[_Standards/WikiData/WD~adaptive_capacity,3738275]]'
+  - '[[_Standards/WikiData/WD~consumer_resource_interactions,5164625]]'
+  - '[[_Standards/WikiData/WD~ecological_efficiency,5333232]]'
+  - '[[_Standards/WikiData/WD~ecological_stability,5333257]]'
+  - '[[_Standards/WikiData/WD~ecosystem_health,17011699]]'
+  - '[[_Standards/WikiData/WD~ecosystem_type,125824188]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~life_sciences,864928]]"
-  - "[[_Standards/WikiData/WD~ecological_assessment,5333223]]"
-  - "[[_Standards/WikiData/WD~ecology,7150]]"
-theorized_by: "[[_Standards/WikiData/WD~Arthur_Roy_Clapham,2402366]]"
+  - '[[_Standards/WikiData/WD~life_sciences,864928]]'
+  - '[[_Standards/WikiData/WD~ecological_assessment,5333223]]'
+  - '[[_Standards/WikiData/WD~ecology,7150]]'
+theorized_by: '[[_Standards/WikiData/WD~Arthur_Roy_Clapham,2402366]]'
 part_of:
-  - "[[_Standards/WikiData/WD~bioregion,2904233]]"
-  - "[[_Standards/WikiData/WD~natural_environment,43619]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q6224334,6224334]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~socio_ecological_system,7552762]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Ecosystem,14339573]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-subclass_of: "[[_Standards/WikiData/WD~biological_system,30336093]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~ecological_unit,55610479]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_system,96116695]]"
-described_by_source: "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-OmegaWiki_Defined_Meaning: "1071"
+  - '[[_Standards/WikiData/WD~bioregion,2904233]]'
+  - '[[_Standards/WikiData/WD~natural_environment,43619]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q6224334,6224334]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~socio_ecological_system,7552762]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Ecosystem,14339573]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+subclass_of: '[[_Standards/WikiData/WD~biological_system,30336093]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~ecological_unit,55610479]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_system,96116695]]'
+described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+OmegaWiki_Defined_Meaning: 1071
 Commons_category: Ecosystems
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Bali%20riziere.jpg

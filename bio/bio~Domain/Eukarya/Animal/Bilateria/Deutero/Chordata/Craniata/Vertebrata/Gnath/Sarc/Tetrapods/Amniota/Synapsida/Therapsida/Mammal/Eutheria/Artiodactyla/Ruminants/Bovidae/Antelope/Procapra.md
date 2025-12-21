@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Procapra
 title: Procapra
 ---
 

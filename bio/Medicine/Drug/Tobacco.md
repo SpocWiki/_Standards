@@ -1,19 +1,21 @@
 ---
+aliases:
+  - Tobacco
+has_id_wikidata: Q1566
 CAS_Registry_Number: 8037-19-2
 Colon_Classification: J456
 Commons_category: Tobacco
 Commons_gallery: Tobacco
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 different_from:
-  - "[[_Standards/WikiData/WD~Tabac,264459]]"
-  - "[[_Standards/WikiData/WD~Tabacco,7672854]]"
-has_effect: "[[_Standards/WikiData/WD~tobacco_use_disorder,152100]]"
-has_id_wikidata: Q1566
-has_part_s_: "[[_Standards/WikiData/WD~tobacco_leaf,111130823]]"
+  - '[[_Standards/WikiData/WD~Tabac,264459]]'
+  - '[[_Standards/WikiData/WD~Tabacco,7672854]]'
+has_effect: '[[_Standards/WikiData/WD~tobacco_use_disorder,152100]]'
+has_part_s_: '[[_Standards/WikiData/WD~tobacco_leaf,111130823]]'
 Iconclass_notation: 41C74
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tabak%209290019.JPG
 IPTC_NewsCode: mediatopic/20000330
@@ -22,9 +24,9 @@ OmegaWiki_Defined_Meaning: 3785
 OpenStreetMap_tag_or_key: Key:tobacco
 Provenio_UUID: e9b3dc2f-ee4b-4784-af8f-dcb436130b48
 subclass_of:
-  - "[[_Standards/WikiData/WD~stimulant,211036]]"
-  - "[[_Standards/WikiData/WD~commodity,317088]]"
-  - "[[_Standards/WikiData/WD~produce,1913301]]"
+  - '[[_Standards/WikiData/WD~stimulant,211036]]'
+  - '[[_Standards/WikiData/WD~commodity,317088]]'
+  - '[[_Standards/WikiData/WD~produce,1913301]]'
 U_S_National_Archives_Identifier: 10643339
 water_footprint: 2925
 ---

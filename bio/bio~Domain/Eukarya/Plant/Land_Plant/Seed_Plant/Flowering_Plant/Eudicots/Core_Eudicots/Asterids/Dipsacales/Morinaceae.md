@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Morinaceae
 title: Morinaceae
 ---
 

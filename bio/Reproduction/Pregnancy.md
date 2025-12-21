@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Pregnancy
+has_id_wikidata: Q11995
 Commons_category: Human pregnancy
 Commons_gallery: Human pregnancy
 described_by_source:
@@ -14,7 +17,6 @@ has_cause:
   - "[[_Standards/WikiData/WD~in_vitro_fertilization,200117]]"
   - "[[_Standards/WikiData/WD~human_fertilization,2666904]]"
 has_effect: "[[_Standards/WikiData/WD~parturition,34581]]"
-has_id_wikidata: Q11995
 health_specialty: "[[_Standards/WikiData/WD~gynaecology,1221899]]"
 IAB_code: 305
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Baby-1295826.svg
@@ -43,6 +45,8 @@ Unicode_character:
   - 🫃
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Time%20Lapse%20Pregnancy%20-%206800%20pictures%20in%2037%20seconds.webm
 ---
+
+# [[Pregnancy]] 🤰 
 
 ## #has_/text_of_/abstract 
 

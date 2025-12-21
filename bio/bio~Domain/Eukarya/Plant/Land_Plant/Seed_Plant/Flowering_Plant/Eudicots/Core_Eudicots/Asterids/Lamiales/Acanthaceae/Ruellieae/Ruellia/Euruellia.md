@@ -1,5 +1,7 @@
 ---
-title: "Euruellia clade"
+aliases:
+  - Euruellia
+title: Euruellia clade
 ---
 
 ## Phylogeny 

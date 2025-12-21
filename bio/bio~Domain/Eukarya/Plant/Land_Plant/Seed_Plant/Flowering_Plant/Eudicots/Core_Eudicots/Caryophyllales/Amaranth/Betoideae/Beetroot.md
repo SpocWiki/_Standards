@@ -4,30 +4,32 @@ aliases:
   - table beet
   - garden beet
   - dinner beet
+  - Beetroot
+  - punajuurikkaat
 has_id_wikidata: Q165437
-parent_taxon: "[[_Standards/WikiData/WD~Beta_vulgaris_vulgaris,2240448]]"
-taxon_rank: "[[_Standards/WikiData/WD~cultivar_group,4150646]]"
+parent_taxon: '[[_Standards/WikiData/WD~Beta_vulgaris_vulgaris,2240448]]'
+taxon_rank: '[[_Standards/WikiData/WD~cultivar_group,4150646]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~young_beets,9178190]]"
-  - "[[_Standards/WikiData/WD~beet,99548274]]"
+  - '[[_Standards/WikiData/WD~young_beets,9178190]]'
+  - '[[_Standards/WikiData/WD~beet,99548274]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~useful_plant,11992872]]"
-  - "[[_Standards/WikiData/WD~vegetable,11004]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q95388733,95388733]]"
-hardiness_of_plant: "[[_Standards/WikiData/WD~2,99546131]]"
+  - '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+  - '[[_Standards/WikiData/WD~vegetable,11004]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q95388733,95388733]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131]]'
 has_use:
-  - "[[_Standards/WikiData/WD~vegetable,11004]]"
+  - '[[_Standards/WikiData/WD~vegetable,11004]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[_Standards/WikiData/WD~taxon,16521]]'
 food_energy: 43
 PLU_code:
-  - "4539"
-  - "4540"
-  - "4541"
+  - 4539
+  - 4540
+  - 4541
 USDA_NDB_number:
-  - "11082"
-  - "11080"
-OmegaWiki_Defined_Meaning: "1277422"
+  - 11082
+  - 11080
+OmegaWiki_Defined_Meaning: 1277422
 Commons_category: Beetroot
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Beets-Bundle.jpg
@@ -37,7 +39,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Fr-betterave.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-rode%20biet.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sv-r%C3%B6dbeta.ogg
-P8189: "987007283145305171"
+P8189: 987007283145305171
 taxon_name: Beta vulgaris subsp. vulgaris Conditiva Group
 taxon_common_name:
   - punajuurikkaat

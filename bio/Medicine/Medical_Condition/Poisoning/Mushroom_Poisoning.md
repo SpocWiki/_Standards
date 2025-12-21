@@ -1,15 +1,17 @@
 ---
 aliases:
   - Mushroom poisoning
+  - Mushroom_Poisoning
+  - Mushroom Poisoning
 has_id_wikidata: Q852186
 subclass_of:
-  - "[[_Standards/WikiData/WD~poisoning,114953]]"
-  - "[[_Standards/WikiData/WD~foodborne_illness,272002]]"
-  - "[[_Standards/WikiData/WD~mycotoxicosis,30892676]]"
-has_cause: "[[_Standards/WikiData/WD~poisonous_mushroom,359511]]"
+  - '[[_Standards/WikiData/WD~poisoning,114953]]'
+  - '[[_Standards/WikiData/WD~foodborne_illness,272002]]'
+  - '[[_Standards/WikiData/WD~mycotoxicosis,30892676]]'
+has_cause: '[[_Standards/WikiData/WD~poisonous_mushroom,359511]]'
 health_specialty:
-  - "[[_Standards/WikiData/WD~emergency_medicine,2861470]]"
-  - "[[_Standards/WikiData/WD~mycotoxicology,6947231]]"
+  - '[[_Standards/WikiData/WD~emergency_medicine,2861470]]'
+  - '[[_Standards/WikiData/WD~mycotoxicology,6947231]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Amanita%20phalloides%201.JPG
 UMLS_CUI: C0026865
 MeSH_tree_code:

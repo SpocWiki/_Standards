@@ -1,8 +1,8 @@
 ---
 aliases:
-- Gnetophyta
-- Gnetales
-- Gnetidae
+  - Gnetophyta
+  - Gnetales
+  - Gnetidae
 title: Gnetales
 ---
 

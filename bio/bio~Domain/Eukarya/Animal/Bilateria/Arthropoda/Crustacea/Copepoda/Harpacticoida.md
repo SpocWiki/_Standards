@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Harpacticoida
 title: Harpacticoida
 ---
 

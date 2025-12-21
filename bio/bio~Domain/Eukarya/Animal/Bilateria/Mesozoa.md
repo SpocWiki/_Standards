@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Mesozoa
 title: Mesozoa
 ---
 

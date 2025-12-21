@@ -1,5 +1,7 @@
 ---
-title: "Latrodectus diaguita"
+aliases:
+  - diaguita
+title: Latrodectus diaguita
 ---
 
 ## Phylogeny 

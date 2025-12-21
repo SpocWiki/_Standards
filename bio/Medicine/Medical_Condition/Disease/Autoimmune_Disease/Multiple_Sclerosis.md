@@ -2,132 +2,134 @@
 aliases:
   - Multiple sclerosis
   - Multiple Sklerose
+  - Multiple_Sclerosis
+  - Multiple Sclerosis
 has_id_wikidata: Q8277
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~hydroxocobalamin,73972]]"
-  - "[[_Standards/WikiData/WD~corticotropin,185690]]"
-  - "[[_Standards/WikiData/WD~mitoxantrone,239426]]"
-  - "[[_Standards/WikiData/WD~cyanocobalamin,252251]]"
-  - "[[_Standards/WikiData/WD~dalfampridine,372539]]"
-  - "[[_Standards/WikiData/WD~natalizumab,386119]]"
-  - "[[_Standards/WikiData/WD~(RS)_cyclophosphamide,408524]]"
-  - "[[_Standards/WikiData/WD~gabapentin,410352]]"
-  - "[[_Standards/WikiData/WD~modafinil,410441]]"
-  - "[[_Standards/WikiData/WD~pregabalin,412174]]"
-  - "[[_Standards/WikiData/WD~rituximab,412323]]"
-  - "[[_Standards/WikiData/WD~daclizumab,412920]]"
-  - "[[_Standards/WikiData/WD~(RS)_baclofen,413717]]"
-  - "[[_Standards/WikiData/WD~cladribine,414030]]"
-  - "[[_Standards/WikiData/WD~betamethasone,416132]]"
-  - "[[_Standards/WikiData/WD~methylprednisolone,417222]]"
-  - "[[_Standards/WikiData/WD~dimethyl_fumarate,418123]]"
-  - "[[_Standards/WikiData/WD~armodafinil,418913]]"
-  - "[[_Standards/WikiData/WD~alemtuzumab,420164]]"
-  - "[[_Standards/WikiData/WD~dantrolene,421274]]"
-  - "[[_Standards/WikiData/WD~fingolimod,425137]]"
-  - "[[_Standards/WikiData/WD~interferon_beta_1b,1851162]]"
-  - "[[_Standards/WikiData/WD~interferon_beta_1a,2450337]]"
-  - "[[_Standards/WikiData/WD~apremilast,2858961]]"
-  - "[[_Standards/WikiData/WD~teriflunomide,3077133]]"
-  - "[[_Standards/WikiData/WD~monomethyl_fumarate,27087639]]"
-  - "[[_Standards/WikiData/WD~azathioprine,18939]]"
-health_specialty: "[[_Standards/WikiData/WD~neurology,83042]]"
-different_from: "[[_Standards/WikiData/WD~sclerosis,140067]]"
+  - '[[_Standards/WikiData/WD~hydroxocobalamin,73972]]'
+  - '[[_Standards/WikiData/WD~corticotropin,185690]]'
+  - '[[_Standards/WikiData/WD~mitoxantrone,239426]]'
+  - '[[_Standards/WikiData/WD~cyanocobalamin,252251]]'
+  - '[[_Standards/WikiData/WD~dalfampridine,372539]]'
+  - '[[_Standards/WikiData/WD~natalizumab,386119]]'
+  - '[[_Standards/WikiData/WD~(RS)_cyclophosphamide,408524]]'
+  - '[[_Standards/WikiData/WD~gabapentin,410352]]'
+  - '[[_Standards/WikiData/WD~modafinil,410441]]'
+  - '[[_Standards/WikiData/WD~pregabalin,412174]]'
+  - '[[_Standards/WikiData/WD~rituximab,412323]]'
+  - '[[_Standards/WikiData/WD~daclizumab,412920]]'
+  - '[[_Standards/WikiData/WD~(RS)_baclofen,413717]]'
+  - '[[_Standards/WikiData/WD~cladribine,414030]]'
+  - '[[_Standards/WikiData/WD~betamethasone,416132]]'
+  - '[[_Standards/WikiData/WD~methylprednisolone,417222]]'
+  - '[[_Standards/WikiData/WD~dimethyl_fumarate,418123]]'
+  - '[[_Standards/WikiData/WD~armodafinil,418913]]'
+  - '[[_Standards/WikiData/WD~alemtuzumab,420164]]'
+  - '[[_Standards/WikiData/WD~dantrolene,421274]]'
+  - '[[_Standards/WikiData/WD~fingolimod,425137]]'
+  - '[[_Standards/WikiData/WD~interferon_beta_1b,1851162]]'
+  - '[[_Standards/WikiData/WD~interferon_beta_1a,2450337]]'
+  - '[[_Standards/WikiData/WD~apremilast,2858961]]'
+  - '[[_Standards/WikiData/WD~teriflunomide,3077133]]'
+  - '[[_Standards/WikiData/WD~monomethyl_fumarate,27087639]]'
+  - '[[_Standards/WikiData/WD~azathioprine,18939]]'
+health_specialty: '[[_Standards/WikiData/WD~neurology,83042]]'
+different_from: '[[_Standards/WikiData/WD~sclerosis,140067]]'
 medical_examination:
-  - "[[_Standards/WikiData/WD~magnetic_resonance_imaging,161238]]"
-  - "[[_Standards/WikiData/WD~positron_emission_tomography,208376]]"
-  - "[[_Standards/WikiData/WD~lumbar_puncture,719444]]"
+  - '[[_Standards/WikiData/WD~magnetic_resonance_imaging,161238]]'
+  - '[[_Standards/WikiData/WD~positron_emission_tomography,208376]]'
+  - '[[_Standards/WikiData/WD~lumbar_puncture,719444]]'
 genetic_association:
-  - "[[_Standards/WikiData/WD~RELN,414043]]"
-  - "[[_Standards/WikiData/WD~C1GALT1,5007698]]"
-  - "[[_Standards/WikiData/WD~GPC5,5573603]]"
-  - "[[_Standards/WikiData/WD~MET,14875866]]"
-  - "[[_Standards/WikiData/WD~RNASEL,14877422]]"
-  - "[[_Standards/WikiData/WD~HLA_DRA,14904874]]"
-  - "[[_Standards/WikiData/WD~PVR,14906072]]"
-  - "[[_Standards/WikiData/WD~SYK,14907337]]"
-  - "[[_Standards/WikiData/WD~CD86,14907527]]"
-  - "[[_Standards/WikiData/WD~CXCR5,14911988]]"
-  - "[[_Standards/WikiData/WD~STAT3,14912019]]"
-  - "[[_Standards/WikiData/WD~MAPK1,15317730]]"
-  - "[[_Standards/WikiData/WD~ZFP36L1,17853452]]"
-  - "[[_Standards/WikiData/WD~CBLB,17856033]]"
-  - "[[_Standards/WikiData/WD~CD6,17858168]]"
-  - "[[_Standards/WikiData/WD~CD58,17859685]]"
-  - "[[_Standards/WikiData/WD~CYP24A1,17912224]]"
-  - "[[_Standards/WikiData/WD~MLANA,17928811]]"
-  - "[[_Standards/WikiData/WD~IL2RA,18027819]]"
-  - "[[_Standards/WikiData/WD~IL7R,18027842]]"
-  - "[[_Standards/WikiData/WD~MGAT5,18029085]]"
-  - "[[_Standards/WikiData/WD~RPS6KB1,18031289]]"
-  - "[[_Standards/WikiData/WD~RREB1,18031325]]"
-  - "[[_Standards/WikiData/WD~TLL1,18032010]]"
-  - "[[_Standards/WikiData/WD~TNFRSF1A,18032044]]"
-  - "[[_Standards/WikiData/WD~VAV2,18032316]]"
-  - "[[_Standards/WikiData/WD~YWHAG,18032408]]"
-  - "[[_Standards/WikiData/WD~EVI5,18032619]]"
-  - "[[_Standards/WikiData/WD~TNFSF14,18033284]]"
-  - "[[_Standards/WikiData/WD~SAE1,18034988]]"
-  - "[[_Standards/WikiData/WD~MPHOSPH9,18035112]]"
-  - "[[_Standards/WikiData/WD~DLEU1,18035255]]"
-  - "[[_Standards/WikiData/WD~MERTK,18035403]]"
-  - "[[_Standards/WikiData/WD~BATF,18035466]]"
-  - "[[_Standards/WikiData/WD~RGS14,18035550]]"
-  - "[[_Standards/WikiData/WD~TSBP1,18035589]]"
-  - "[[_Standards/WikiData/WD~MALT1,18035923]]"
-  - "[[_Standards/WikiData/WD~SP140,18036441]]"
-  - "[[_Standards/WikiData/WD~KIF1B,18036720]]"
-  - "[[_Standards/WikiData/WD~PLCL2,18037015]]"
-  - "[[_Standards/WikiData/WD~CLEC16A,18037055]]"
-  - "[[_Standards/WikiData/WD~TRIM2,18037089]]"
-  - "[[_Standards/WikiData/WD~EGFL6,18037844]]"
-  - "[[_Standards/WikiData/WD~DKKL1,18038635]]"
-  - "[[_Standards/WikiData/WD~PDZRN4,18039725]]"
-  - "[[_Standards/WikiData/WD~AHI1,18041269]]"
-  - "[[_Standards/WikiData/WD~CHST12,18041829]]"
-  - "[[_Standards/WikiData/WD~MYNN,18042141]]"
-  - "[[_Standards/WikiData/WD~BTNL2,18042335]]"
-  - "[[_Standards/WikiData/WD~ZMIZ1,18042957]]"
-  - "[[_Standards/WikiData/WD~HACE1,18043118]]"
-  - "[[_Standards/WikiData/WD~EPS15L1,18045009]]"
-  - "[[_Standards/WikiData/WD~BACH2,18045327]]"
-  - "[[_Standards/WikiData/WD~CLSTN2,18045550]]"
-  - "[[_Standards/WikiData/WD~CSMD1,18045682]]"
-  - "[[_Standards/WikiData/WD~NDFIP1,18046775]]"
-  - "[[_Standards/WikiData/WD~MPV17L2,18047766]]"
-  - "[[_Standards/WikiData/WD~FCRL3,18049153]]"
-  - "[[_Standards/WikiData/WD~ALPK2,18049169]]"
-  - "[[_Standards/WikiData/WD~TAGAP,18049296]]"
-  - "[[_Standards/WikiData/WD~ZBTB46,18050866]]"
-  - "[[_Standards/WikiData/WD~VTI1A,18051065]]"
-  - "[[_Standards/WikiData/WD~CLECL1,18052462]]"
-  - "[[_Standards/WikiData/WD~NLRP11,18053305]]"
-  - "[[_Standards/WikiData/WD~SUMF1,18054463]]"
-  - "[[_Standards/WikiData/WD~SAMD12,18057719]]"
-  - "[[_Standards/WikiData/WD~CUEDC1,18057962]]"
-  - "[[_Standards/WikiData/WD~SGCD,24292611]]"
+  - '[[_Standards/WikiData/WD~RELN,414043]]'
+  - '[[_Standards/WikiData/WD~C1GALT1,5007698]]'
+  - '[[_Standards/WikiData/WD~GPC5,5573603]]'
+  - '[[_Standards/WikiData/WD~MET,14875866]]'
+  - '[[_Standards/WikiData/WD~RNASEL,14877422]]'
+  - '[[_Standards/WikiData/WD~HLA_DRA,14904874]]'
+  - '[[_Standards/WikiData/WD~PVR,14906072]]'
+  - '[[_Standards/WikiData/WD~SYK,14907337]]'
+  - '[[_Standards/WikiData/WD~CD86,14907527]]'
+  - '[[_Standards/WikiData/WD~CXCR5,14911988]]'
+  - '[[_Standards/WikiData/WD~STAT3,14912019]]'
+  - '[[_Standards/WikiData/WD~MAPK1,15317730]]'
+  - '[[_Standards/WikiData/WD~ZFP36L1,17853452]]'
+  - '[[_Standards/WikiData/WD~CBLB,17856033]]'
+  - '[[_Standards/WikiData/WD~CD6,17858168]]'
+  - '[[_Standards/WikiData/WD~CD58,17859685]]'
+  - '[[_Standards/WikiData/WD~CYP24A1,17912224]]'
+  - '[[_Standards/WikiData/WD~MLANA,17928811]]'
+  - '[[_Standards/WikiData/WD~IL2RA,18027819]]'
+  - '[[_Standards/WikiData/WD~IL7R,18027842]]'
+  - '[[_Standards/WikiData/WD~MGAT5,18029085]]'
+  - '[[_Standards/WikiData/WD~RPS6KB1,18031289]]'
+  - '[[_Standards/WikiData/WD~RREB1,18031325]]'
+  - '[[_Standards/WikiData/WD~TLL1,18032010]]'
+  - '[[_Standards/WikiData/WD~TNFRSF1A,18032044]]'
+  - '[[_Standards/WikiData/WD~VAV2,18032316]]'
+  - '[[_Standards/WikiData/WD~YWHAG,18032408]]'
+  - '[[_Standards/WikiData/WD~EVI5,18032619]]'
+  - '[[_Standards/WikiData/WD~TNFSF14,18033284]]'
+  - '[[_Standards/WikiData/WD~SAE1,18034988]]'
+  - '[[_Standards/WikiData/WD~MPHOSPH9,18035112]]'
+  - '[[_Standards/WikiData/WD~DLEU1,18035255]]'
+  - '[[_Standards/WikiData/WD~MERTK,18035403]]'
+  - '[[_Standards/WikiData/WD~BATF,18035466]]'
+  - '[[_Standards/WikiData/WD~RGS14,18035550]]'
+  - '[[_Standards/WikiData/WD~TSBP1,18035589]]'
+  - '[[_Standards/WikiData/WD~MALT1,18035923]]'
+  - '[[_Standards/WikiData/WD~SP140,18036441]]'
+  - '[[_Standards/WikiData/WD~KIF1B,18036720]]'
+  - '[[_Standards/WikiData/WD~PLCL2,18037015]]'
+  - '[[_Standards/WikiData/WD~CLEC16A,18037055]]'
+  - '[[_Standards/WikiData/WD~TRIM2,18037089]]'
+  - '[[_Standards/WikiData/WD~EGFL6,18037844]]'
+  - '[[_Standards/WikiData/WD~DKKL1,18038635]]'
+  - '[[_Standards/WikiData/WD~PDZRN4,18039725]]'
+  - '[[_Standards/WikiData/WD~AHI1,18041269]]'
+  - '[[_Standards/WikiData/WD~CHST12,18041829]]'
+  - '[[_Standards/WikiData/WD~MYNN,18042141]]'
+  - '[[_Standards/WikiData/WD~BTNL2,18042335]]'
+  - '[[_Standards/WikiData/WD~ZMIZ1,18042957]]'
+  - '[[_Standards/WikiData/WD~HACE1,18043118]]'
+  - '[[_Standards/WikiData/WD~EPS15L1,18045009]]'
+  - '[[_Standards/WikiData/WD~BACH2,18045327]]'
+  - '[[_Standards/WikiData/WD~CLSTN2,18045550]]'
+  - '[[_Standards/WikiData/WD~CSMD1,18045682]]'
+  - '[[_Standards/WikiData/WD~NDFIP1,18046775]]'
+  - '[[_Standards/WikiData/WD~MPV17L2,18047766]]'
+  - '[[_Standards/WikiData/WD~FCRL3,18049153]]'
+  - '[[_Standards/WikiData/WD~ALPK2,18049169]]'
+  - '[[_Standards/WikiData/WD~TAGAP,18049296]]'
+  - '[[_Standards/WikiData/WD~ZBTB46,18050866]]'
+  - '[[_Standards/WikiData/WD~VTI1A,18051065]]'
+  - '[[_Standards/WikiData/WD~CLECL1,18052462]]'
+  - '[[_Standards/WikiData/WD~NLRP11,18053305]]'
+  - '[[_Standards/WikiData/WD~SUMF1,18054463]]'
+  - '[[_Standards/WikiData/WD~SAMD12,18057719]]'
+  - '[[_Standards/WikiData/WD~CUEDC1,18057962]]'
+  - '[[_Standards/WikiData/WD~SGCD,24292611]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~demyelinating_disease,1186703]]"
-  - "[[_Standards/WikiData/WD~autoimmune_disease_of_central_nervous_system,18553585]]"
-  - "[[_Standards/WikiData/WD~demyelinating_disease_of_central_nervous_system,19000726]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Demyelinating_diseases_of_CNS,10723617]]"
+  - '[[_Standards/WikiData/WD~demyelinating_disease,1186703]]'
+  - '[[_Standards/WikiData/WD~autoimmune_disease_of_central_nervous_system,18553585]]'
+  - '[[_Standards/WikiData/WD~demyelinating_disease_of_central_nervous_system,19000726]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Demyelinating_diseases_of_CNS,10723617]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~designated_intractable_rare_disease,42303753]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-  - "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
-symptoms_and_signs: "[[_Standards/WikiData/WD~chronic_neuropathic_pain,58490835]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Jean_Martin_Charcot,20710]]"
+  - '[[_Standards/WikiData/WD~designated_intractable_rare_disease,42303753]]'
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+  - '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+symptoms_and_signs: '[[_Standards/WikiData/WD~chronic_neuropathic_pain,58490835]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Jean_Martin_Charcot,20710]]'
 prevalence: 0.00032
-ICD_9_CM: "340"
-DiseasesDB: "8412"
+ICD_9_CM: 340
+DiseasesDB: 8412
 external_data_available_at_URL: http://www.nanbyou.or.jp/entry/3806
-OmegaWiki_Defined_Meaning: "1036110"
+OmegaWiki_Defined_Meaning: 1036110
 ICD_10_CM: G35
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MS%20Demyelinisation%20CD68%2010xv2.jpg
 Commons_category: Multiple sclerosis

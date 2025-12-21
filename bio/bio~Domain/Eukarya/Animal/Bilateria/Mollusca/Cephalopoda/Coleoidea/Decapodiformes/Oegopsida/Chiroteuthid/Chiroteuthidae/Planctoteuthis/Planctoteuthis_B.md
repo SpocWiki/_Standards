@@ -1,5 +1,8 @@
 ---
-title: "New Genus B"
+aliases:
+  - Planctoteuthis_B
+  - Planctoteuthis B
+title: New Genus B
 ---
 
 # *New Genus B* 

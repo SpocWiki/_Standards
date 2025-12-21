@@ -1,6 +1,8 @@
 ---
-title: Bivalvia
+aliases:
+  - Bivalvia
 has_id_wikidata: Q25368
+title: Bivalvia
 ---
 
 # [[Bivalvia]]

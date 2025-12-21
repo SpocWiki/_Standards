@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cirrata
 title: Cirrata
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: "Chrysiogenes arsenatis"
+aliases:
+  - Chrysiogenes
+title: Chrysiogenes arsenatis
 ---
 
 # [[Chrysiogenetes]] 

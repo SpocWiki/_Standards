@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Camelidae
 title: Camelidae
 ---
 

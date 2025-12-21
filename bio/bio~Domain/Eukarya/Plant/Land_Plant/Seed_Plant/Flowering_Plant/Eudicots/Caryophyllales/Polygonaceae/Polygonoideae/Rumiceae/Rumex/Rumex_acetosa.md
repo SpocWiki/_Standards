@@ -7,6 +7,21 @@ aliases:
   - spinach dock
   - narrow-leaved dock
   - Sauerampfer
+  - Rumex_acetosa
+  - agrieta
+  - šťovík kyselý
+  - Wiesen-Sauer-Ampfer
+  - Common Sorrel
+  - oseille sauvage
+  - veldzuring
+  - navadna kislica
+  - 酸模（毛脉酸模）
+  - 酸模
+  - 酸溜溜
+  - 酸模叶
+  - 遏蓝菜
+  - Veldzuring
+  - niittysuolaheinä
 has_id_wikidata: Q26297
 UNII: IA49H9SY8T
 NBN_System_Key: NBNSYS0000003778
@@ -32,39 +47,39 @@ taxon_common_name:
   - niittysuolaheinä
 short_name: R. acetosa
 external_data_available_at_URL: https://www.gbif.org/dataset/31dc1507-a6e1-4233-a8df-c7a78596a7e4
-parent_taxon: "[[_Standards/WikiData/WD~Rumex,157264]]"
+parent_taxon: '[[_Standards/WikiData/WD~Rumex,157264]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~perennial_plant,157957]]"
-  - "[[_Standards/WikiData/WD~herbaceous_plant,190903]]"
-  - "[[_Standards/WikiData/WD~useful_plant,11992872]]"
+  - '[[_Standards/WikiData/WD~perennial_plant,157957]]'
+  - '[[_Standards/WikiData/WD~herbaceous_plant,190903]]'
+  - '[[_Standards/WikiData/WD~useful_plant,11992872]]'
 has_use:
-  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
-  - "[[_Standards/WikiData/WD~fodder,211439]]"
-  - "[[_Standards/WikiData/WD~vegetable,11004]]"
+  - '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+  - '[[_Standards/WikiData/WD~fodder,211439]]'
+  - '[[_Standards/WikiData/WD~vegetable,11004]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_25(1),112869402]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_25(1),112869402]]'
 taxon_range:
-  - "[[_Standards/WikiData/WD~Zhoushan_Archipelago,5009441]]"
-  - "[[_Standards/WikiData/WD~Beijing,956]]"
-  - "[[_Standards/WikiData/WD~Gabon,1000]]"
-  - "[[_Standards/WikiData/WD~Shanghai,8686]]"
-  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
-  - "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
+  - '[[_Standards/WikiData/WD~Zhoushan_Archipelago,5009441]]'
+  - '[[_Standards/WikiData/WD~Beijing,956]]'
+  - '[[_Standards/WikiData/WD~Gabon,1000]]'
+  - '[[_Standards/WikiData/WD~Shanghai,8686]]'
+  - '[[_Standards/WikiData/WD~Guangdong,15175]]'
+  - '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Xinjiang,34800]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~Ramon,12559759]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q23014514,23014514]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-hardiness_of_plant: "[[_Standards/WikiData/WD~3,99546471]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-has_fruit_type: "[[_Standards/WikiData/WD~achene,14714]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-PLU_code: "4905"
-OmegaWiki_Defined_Meaning: "977315"
-ITIS_TSN: "504901"
+  - '[[_Standards/WikiData/WD~Xinjiang,34800]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~Ramon,12559759]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q23014514,23014514]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~3,99546471]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+has_fruit_type: '[[_Standards/WikiData/WD~achene,14714]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+PLU_code: 4905
+OmegaWiki_Defined_Meaning: 977315
+ITIS_TSN: 504901
 taxon_author_citation: L.
 image: http://commons.wikimedia.org/wiki/Special:FilePath/20150423Rumex%20acetosa4.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=32518

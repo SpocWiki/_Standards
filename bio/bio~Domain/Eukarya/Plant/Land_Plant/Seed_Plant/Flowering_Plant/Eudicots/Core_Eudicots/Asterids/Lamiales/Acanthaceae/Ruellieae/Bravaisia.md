@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bravaisia
 title: Bravaisia
 ---
 

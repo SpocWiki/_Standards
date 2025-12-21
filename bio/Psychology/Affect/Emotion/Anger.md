@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Anger
 has_id_wikidata: Q79871
 instance_of:
   - "[[_Standards/WikiData/WD~seven_deadly_sins,166502]]"
@@ -25,7 +27,7 @@ said_to_be_the_same_as: "[[_Standards/WikiData/WD~anger,16700267]]"
 partially_coincident_with: "[[_Standards/WikiData/WD~Anger_of_God_in_Islam,125946849]]"
 subclass_of: "[[_Standards/WikiData/WD~emotions,9415]]"
 social_media_followers: 37765
-OmegaWiki_Defined_Meaning: "1156554"
+OmegaWiki_Defined_Meaning: 1156554
 subreddit:
   - angry
   - Anger
@@ -39,15 +41,15 @@ Unicode_character:
   - 💢
   - 😠
   - 😡
-Dewey_Decimal_Classification: "152.47"
+Dewey_Decimal_Classification: 152.47
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20frontal%20outline%20and%20a%20profile%20of%20faces%20expressing%20anger.%20E%20Wellcome%20V0009398.jpg
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Colere%20Nf%201%201%201%20-%20Elix.webm
-P8189: "987007294722505171"
+P8189: 987007294722505200
 UMLS_CUI: C0002957
 MeSH_tree_code: F01.470.093
 ---
 
-# [[Anger]] 
+# [[Anger]] 😡 
 
 #is_/same_as :: [[../../../../WikiData/WD~Anger,79871]] 
 

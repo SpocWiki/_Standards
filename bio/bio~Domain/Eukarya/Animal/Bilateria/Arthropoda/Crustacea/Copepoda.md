@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Copepoda
 title: Copepoda
 ---
 

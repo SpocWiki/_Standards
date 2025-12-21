@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sphaerotheriida
 title: Sphaerotheriida
 ---
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Caryophyllioidea
 title: Caryophyllioidea
 ---
 

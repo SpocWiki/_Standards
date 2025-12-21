@@ -1,20 +1,30 @@
 ---
 aliases:
   - Kohl
+  - Brassica
+  - cabbage
+  - mustard
+  - Kool
+  - Капуста
+  - kapus
+  - repa
+  - ogrščica
+  - 芸苔属
+  - 芸薹属
 has_id_wikidata: Q58677
-taxonomic_type: "[[../../../../../../../../../../../../WikiData/WD~Brassica_oleracea,146212]]"
-has_fruit_type: "[[_Standards/WikiData/WD~silique,148529]]"
+taxonomic_type: '[[../../../../../../../../../../../../WikiData/WD~Brassica_oleracea,146212]]'
+has_fruit_type: '[[_Standards/WikiData/WD~silique,148529]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_33,112869412]]"
-parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Brassiceae,15054388]]"
-has_use: "[[_Standards/WikiData/WD~vegetable,11004]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_33,112869412]]'
+parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Brassiceae,15054388]]'
+has_use: '[[_Standards/WikiData/WD~vegetable,11004]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 carbon_footprint: 0.6
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "23054"
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 23054
 taxon_common_name:
   - cabbage
   - mustard

@@ -2,11 +2,12 @@
 aliases:
   - Highland Cattle
   - Bò Ghàidhealach
+  - Highland_Cattle
 has_id_wikidata: Q58903
-instance_of: "[[_Standards/WikiData/WD~cattle_breed,12045585]]"
-subclass_of: "[[_Standards/WikiData/WD~cattle,830]]"
-country_of_origin: "[[_Standards/WikiData/WD~Scotland,22]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+instance_of: '[[_Standards/WikiData/WD~cattle_breed,12045585]]'
+subclass_of: '[[_Standards/WikiData/WD~cattle,830]]'
+country_of_origin: '[[_Standards/WikiData/WD~Scotland,22]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Schottisches%20Hochlandrind.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/HighlandCow.01.jpg

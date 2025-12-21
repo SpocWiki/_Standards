@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Protoxerini
 title: Protoxerini
 ---
 

@@ -1,5 +1,8 @@
 ---
-title: "Rana epeirotica"
+aliases:
+  - Rana_epeirotica
+  - Rana epeirotica
+title: Rana epeirotica
 ---
 
 # [[Rana_epeirotica]] 

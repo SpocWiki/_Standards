@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Magnoliids
 title: magnoliids
 ---
 

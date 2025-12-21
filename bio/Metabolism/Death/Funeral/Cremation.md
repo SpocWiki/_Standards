@@ -1,18 +1,19 @@
 ---
 aliases:
   - Feuerbestattung
+  - Cremation
 has_id_wikidata: Q207315
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-different_from: "[[_Standards/WikiData/WD~holocaust,1148722]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+different_from: '[[_Standards/WikiData/WD~holocaust,1148722]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~key_event,2245405]]"
-  - "[[_Standards/WikiData/WD~disposal_of_human_corpses,5282671]]"
-uses: "[[_Standards/WikiData/WD~cremator,3080000]]"
-instance_of: "[[_Standards/WikiData/WD~disposal_of_human_corpses,5282671]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~Secular_humanism,106303278]]"
+  - '[[_Standards/WikiData/WD~key_event,2245405]]'
+  - '[[_Standards/WikiData/WD~disposal_of_human_corpses,5282671]]'
+uses: '[[_Standards/WikiData/WD~cremator,3080000]]'
+instance_of: '[[_Standards/WikiData/WD~disposal_of_human_corpses,5282671]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Secular_humanism,106303278]]'
 Wikidata_property: date of burial or cremation
 carbon_footprint: 233
 quantity: 49743
@@ -27,7 +28,7 @@ Commons_category: Cremations
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Feuerbestattung.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Kremierung.ogg
-Iconclass_notation: "42E25"
+Iconclass_notation: 42E25
 UMLS_CUI: C0010302
 Commons_gallery: Cremation
 MeSH_tree_code: I01.076.201.450.550.175

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Dothideomycetidae
 title: Dothideomycetidae
 ---
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- Ctenophora
+  - Ctenophora
 title: Ctenophora
 ---
 

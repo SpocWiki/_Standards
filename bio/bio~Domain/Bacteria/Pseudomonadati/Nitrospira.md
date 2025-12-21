@@ -1,6 +1,6 @@
 ---
 aliases:
-- Nitrospira
+  - Nitrospira
 title: Nitrospira
 ---
 

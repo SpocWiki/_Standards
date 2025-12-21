@@ -1,5 +1,7 @@
 ---
-title: "Haliphron atlanticus"
+aliases:
+  - Alloposidae
+title: Haliphron atlanticus
 ---
 
 ## Phylogeny 

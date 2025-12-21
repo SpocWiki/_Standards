@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus obtectus"
+aliases:
+  - obtectus
+title: Physalaemus obtectus
 ---
 
 ## Phylogeny 

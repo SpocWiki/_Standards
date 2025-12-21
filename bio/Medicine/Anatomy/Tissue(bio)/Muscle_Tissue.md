@@ -1,7 +1,9 @@
 ---
 aliases:
   - muscle tissue
-has_id_wikidata:
+  - Muscle_Tissue
+  - Muscle Tissue
+has_id_wikidata: ''
 ---
 
 # [[Muscle_Tissue]] 

@@ -1,8 +1,8 @@
 ---
 aliases:
-- Fusobacteriota
-- Fusobacteria
-- Fusobacteriati
+  - Fusobacteriota
+  - Fusobacteria
+  - Fusobacteriati
 title: Fusobacteria
 ---
 

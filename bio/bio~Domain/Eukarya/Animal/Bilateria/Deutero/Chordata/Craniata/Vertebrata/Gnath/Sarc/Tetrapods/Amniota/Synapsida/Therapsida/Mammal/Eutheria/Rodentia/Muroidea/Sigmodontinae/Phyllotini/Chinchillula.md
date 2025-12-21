@@ -1,5 +1,7 @@
 ---
-title: "Chinchillula sahamae"
+aliases:
+  - Chinchillula
+title: Chinchillula sahamae
 ---
 
 ## Phylogeny 

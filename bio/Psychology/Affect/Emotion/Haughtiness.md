@@ -1,22 +1,23 @@
 ---
 aliases:
   - Hochmut
+  - Haughtiness
 has_id_wikidata: Q187234
 opposite_of:
-  - "[[_Standards/WikiData/WD~shame,152282]]"
-  - "[[_Standards/WikiData/WD~humility,1186677]]"
-  - "[[_Standards/WikiData/WD~modesty,11199149]]"
-part_of: "[[_Standards/WikiData/WD~seven_deadly_sins,166502]]"
+  - '[[_Standards/WikiData/WD~shame,152282]]'
+  - '[[_Standards/WikiData/WD~humility,1186677]]'
+  - '[[_Standards/WikiData/WD~modesty,11199149]]'
+part_of: '[[_Standards/WikiData/WD~seven_deadly_sins,166502]]'
 different_from:
-  - "[[_Standards/WikiData/WD~arrogance,777939]]"
-  - "[[_Standards/WikiData/WD~pride,3071551]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~arrogance,777939]]"
+  - '[[_Standards/WikiData/WD~arrogance,777939]]'
+  - '[[_Standards/WikiData/WD~pride,3071551]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~arrogance,777939]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~arrogance,777939]]"
-  - "[[_Standards/WikiData/WD~vanity,1321250]]"
-  - "[[_Standards/WikiData/WD~arrogans,28120051]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-instance_of: "[[_Standards/WikiData/WD~moral_quality,31172650]]"
+  - '[[_Standards/WikiData/WD~arrogance,777939]]'
+  - '[[_Standards/WikiData/WD~vanity,1321250]]'
+  - '[[_Standards/WikiData/WD~arrogans,28120051]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~moral_quality,31172650]]'
 Commons_category: Pride
 Provenio_UUID: 92ac9e5a-3eb2-4166-8899-26cb2bcd214b
 ---

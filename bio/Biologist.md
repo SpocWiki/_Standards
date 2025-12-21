@@ -1,21 +1,22 @@
 ---
 aliases:
   - Biologe
+  - Biologist
 has_id_wikidata: Q864503
-has_list: "[[_Standards/WikiData/WD~list_of_biologists,910047]]"
+has_list: '[[_Standards/WikiData/WD~list_of_biologists,910047]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~taxonomist,1907198]]"
-  - "[[_Standards/WikiData/WD~naturalist,18805]]"
-category_for_eponymous_categories: "[[_Standards/WikiData/WD~Q59576028,59576028]]"
-uses: "[[_Standards/WikiData/WD~biology_terminology,77698139]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_University_of_Washington,98970039]]"
-field_of_this_occupation: "[[_Standards/WikiData/WD~biology,420]]"
-subclass_of: "[[_Standards/WikiData/WD~scientist,901]]"
-instance_of: "[[_Standards/WikiData/WD~profession,28640]]"
-ISCO_88_occupation_class: "2211"
-ISCO_08_occupation_class: "2131"
-KldB_2010_occupation_code: "41204"
-U_S_National_Archives_Identifier: "10639635"
+  - '[[_Standards/WikiData/WD~taxonomist,1907198]]'
+  - '[[_Standards/WikiData/WD~naturalist,18805]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59576028,59576028]]'
+uses: '[[_Standards/WikiData/WD~biology_terminology,77698139]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_University_of_Washington,98970039]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~biology,420]]'
+subclass_of: '[[_Standards/WikiData/WD~scientist,901]]'
+instance_of: '[[_Standards/WikiData/WD~profession,28640]]'
+ISCO_88_occupation_class: 2211
+ISCO_08_occupation_class: 2131
+KldB_2010_occupation_code: 41204
+U_S_National_Archives_Identifier: 10639635
 male_form_of_label:
   - biologo
   - Biologe
@@ -56,15 +57,15 @@ female_form_of_label:
   - jilifavan
 IMDb_keyword: biologist
 Dewey_Decimal_Classification:
-  - "570.92"
-  - "570.23"
+  - 570.92
+  - 570.23
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Barbara%20McClintock%20%281902-1992%29%20shown%20in%20her%20laboratory%20in%201947.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Martinus%20Willem%20Beijerinck%20in%20the%20lab%20in%201921.jpg
 Commons_category: Biologists
 Dictionary_of_Occupational_Titles_Code_fourth_edition_revised_: 041.061-030
 O_NET_OnLine_code: 19-1029.04
-CPP_2010: "2131.1"
+CPP_2010: 2131.1
 Provenio_UUID: 4579248b-38f5-41a8-8446-44e132c6642f
 UMLS_CUI: C0334861
 ---

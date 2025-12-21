@@ -1,25 +1,41 @@
 ---
-title: Marmota
 aliases:
   - Murmeltier
   - Groundhog
+  - Marmota
+  - Marmot
+  - Murmeldjur
+  - Świstak
+  - Marmotte
+  - сурок
+  - svišť
+  - Murmeltiereu
+  - Marmoto
+  - Murmeli
+  - Marmotta
+  - Švilpikai
+  - Murmeldyr
+  - Marmotten
+  - Сурок
+  - svizec
 has_id_wikidata: Q131567
-parent_taxon: "[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~ground_squirrels,389250]]"
+title: Marmota
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~ground_squirrels,389250]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
-diel_cycle: "[[_Standards/WikiData/WD~diurnality,4284186]]"
-homonymous_taxon: "[[_Standards/WikiData/WD~Marmota,18402507]]"
-different_from: "[[_Standards/WikiData/WD~marmoset,19829485]]"
-taxon_synonym: "[[_Standards/WikiData/WD~Arctomys,24502341]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~marmot_oil,104776699]]"
-gait: "[[_Standards/WikiData/WD~half_bound,109579787]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-OmegaWiki_Defined_Meaning: "1048856"
-ITIS_TSN: "180136"
+  - '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Marmota,18402507]]'
+different_from: '[[_Standards/WikiData/WD~marmoset,19829485]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Arctomys,24502341]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~marmot_oil,104776699]]'
+gait: '[[_Standards/WikiData/WD~half_bound,109579787]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+OmegaWiki_Defined_Meaning: 1048856
+ITIS_TSN: 180136
 taxon_common_name:
   - Marmot
   - Murmeldjur

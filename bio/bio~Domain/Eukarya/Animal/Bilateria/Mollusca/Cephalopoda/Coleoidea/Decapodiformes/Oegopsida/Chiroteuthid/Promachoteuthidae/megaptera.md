@@ -1,5 +1,7 @@
 ---
-title: "Promachoteuthis megaptera"
+aliases:
+  - megaptera
+title: Promachoteuthis megaptera
 ---
 
 ## Phylogeny 

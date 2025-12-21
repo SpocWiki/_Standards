@@ -1,6 +1,6 @@
 ---
 aliases:
-- Deferribacteres
+  - Deferribacteres
 title: Deferribacteres
 ---
 

@@ -4,21 +4,23 @@ aliases:
   - medical_device
   - MedicalDevice
   - is_a_medical_device
+  - Medical_Device
+  - Medical Device
 confidential: public
 cssclasses:
   - Type
 draft: false
 equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/63653004
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_device
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_device Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

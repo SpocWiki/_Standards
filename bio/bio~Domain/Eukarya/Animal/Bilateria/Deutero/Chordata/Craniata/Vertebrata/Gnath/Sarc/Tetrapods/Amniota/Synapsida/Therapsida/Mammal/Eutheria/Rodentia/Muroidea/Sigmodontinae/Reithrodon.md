@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Reithrodon
 title: Reithrodon
 ---
 

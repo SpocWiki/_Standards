@@ -1,5 +1,4 @@
 ---
-title: Chiroptera
 aliases:
   - Bat
   - Bats
@@ -7,6 +6,7 @@ aliases:
   - Fledermaus
   - Fledermäuse
 has_id_wikidata: Q28425
+title: Chiroptera
 ---
 
 # [[Bat]]

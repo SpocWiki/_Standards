@@ -1,67 +1,69 @@
 ---
-has_id_wikidata: Q43522
 aliases:
   - Antonie Philips van Leeuwenhoek
   - Antonie van Leeuwenhoek
-member_of: "[[_Standards/WikiData/WD~Royal_Society,123885]]"
+  - Leeuwenhoek,Antoni_van
+  - Leeuwenhoek,Antoni van
+has_id_wikidata: Q43522
+member_of: '[[_Standards/WikiData/WD~Royal_Society,123885]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Royal_Society,123885]]"
-  - "[[_Standards/WikiData/WD~Museum_Boerhaave,759169]]"
-  - "[[_Standards/WikiData/WD~University_Museum_Utrecht,14510918]]"
+  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+  - '[[_Standards/WikiData/WD~Museum_Boerhaave,759169]]'
+  - '[[_Standards/WikiData/WD~University_Museum_Utrecht,14510918]]'
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~merchant,215536]]"
-  - "[[_Standards/WikiData/WD~surveyor,294126]]"
-  - "[[_Standards/WikiData/WD~accountant,326653]]"
-  - "[[_Standards/WikiData/WD~treasurer,388338]]"
-  - "[[_Standards/WikiData/WD~biologist,864503]]"
-  - "[[_Standards/WikiData/WD~instrument_maker,2341443]]"
-  - "[[_Standards/WikiData/WD~wine_measurer,2555619]]"
-  - "[[_Standards/WikiData/WD~microbiologist,3779582]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Dutch_Republic,170072]]"
+  - '[[_Standards/WikiData/WD~physicist,169470]]'
+  - '[[_Standards/WikiData/WD~merchant,215536]]'
+  - '[[_Standards/WikiData/WD~surveyor,294126]]'
+  - '[[_Standards/WikiData/WD~accountant,326653]]'
+  - '[[_Standards/WikiData/WD~treasurer,388338]]'
+  - '[[_Standards/WikiData/WD~biologist,864503]]'
+  - '[[_Standards/WikiData/WD~instrument_maker,2341443]]'
+  - '[[_Standards/WikiData/WD~wine_measurer,2555619]]'
+  - '[[_Standards/WikiData/WD~microbiologist,3779582]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Dutch_Republic,170072]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]"
-  - "[[_Standards/WikiData/WD~Nieuw_Nederlandsch_Biografisch_Woordenboek,1989413]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Biographisch_woordenboek_der_Nederlanden,21073999]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Biographisch_Woordenboek_der_Noord_en_Zuidnederlandsche_Letterkunde,65621670]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-place_of_burial: "[[_Standards/WikiData/WD~Oude_Kerk,612065]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]'
+  - '[[_Standards/WikiData/WD~Nieuw_Nederlandsch_Biografisch_Woordenboek,1989413]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Biographisch_woordenboek_der_Nederlanden,21073999]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Biographisch_Woordenboek_der_Noord_en_Zuidnederlandsche_Letterkunde,65621670]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+place_of_burial: '[[_Standards/WikiData/WD~Oude_Kerk,612065]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~microscopy,1074953]]"
-  - "[[_Standards/WikiData/WD~microbiology,7193]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-award_received: "[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]"
-depicted_by: "[[_Standards/WikiData/WD~Portrait_of_Anthonie_van_Leeuwenhoek,_Natural_Philosopher_and_Zoologist_in_Delft,16712379]]"
-given_name: "[[_Standards/WikiData/WD~Antoni,17480899]]"
-family_name: "[[_Standards/WikiData/WD~Leeuwenhoek,61983507]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
+  - '[[_Standards/WikiData/WD~microscopy,1074953]]'
+  - '[[_Standards/WikiData/WD~microbiology,7193]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+award_received: '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
+depicted_by: '[[_Standards/WikiData/WD~Portrait_of_Anthonie_van_Leeuwenhoek,_Natural_Philosopher_and_Zoologist_in_Delft,16712379]]'
+given_name: '[[_Standards/WikiData/WD~Antoni,17480899]]'
+family_name: '[[_Standards/WikiData/WD~Leeuwenhoek,61983507]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Barbara_de_Mey,108675012]]"
-  - "[[_Standards/WikiData/WD~Cornelia_Swalmius,108675020]]"
-mother: "[[_Standards/WikiData/WD~Margaretha_Bel_van_der_Berch,108840462]]"
-father: "[[_Standards/WikiData/WD~Philips_Antonisz._van_Leeuwenhoek,108840461]]"
-position_held: "[[_Standards/WikiData/WD~chamberkeeper,118494877]]"
+  - '[[_Standards/WikiData/WD~Barbara_de_Mey,108675012]]'
+  - '[[_Standards/WikiData/WD~Cornelia_Swalmius,108675020]]'
+mother: '[[_Standards/WikiData/WD~Margaretha_Bel_van_der_Berch,108840462]]'
+father: '[[_Standards/WikiData/WD~Philips_Antonisz._van_Leeuwenhoek,108840461]]'
+position_held: '[[_Standards/WikiData/WD~chamberkeeper,118494877]]'
 date_of_death: 1723-08-26T00:00:00Z
 work_location:
-  - "[[_Standards/WikiData/WD~Delft,690]]"
-  - "[[_Standards/WikiData/WD~Amsterdam,727]]"
-place_of_death: "[[_Standards/WikiData/WD~Delft,690]]"
-place_of_birth: "[[_Standards/WikiData/WD~Delft,690]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Dutch,7411]]"
-native_language: "[[_Standards/WikiData/WD~Dutch,7411]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-residence: "[[_Standards/WikiData/WD~Netherlands,55]]"
-influenced_by: "[[_Standards/WikiData/WD~Robert_Hooke,46830]]"
+  - '[[_Standards/WikiData/WD~Delft,690]]'
+  - '[[_Standards/WikiData/WD~Amsterdam,727]]'
+place_of_death: '[[_Standards/WikiData/WD~Delft,690]]'
+place_of_birth: '[[_Standards/WikiData/WD~Delft,690]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Dutch,7411]]'
+native_language: '[[_Standards/WikiData/WD~Dutch,7411]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+residence: '[[_Standards/WikiData/WD~Netherlands,55]]'
+influenced_by: '[[_Standards/WikiData/WD~Robert_Hooke,46830]]'
 Commons_Creator_page: Antoni van Leeuwenhoek
 Commons_gallery: Antoni van Leeuwenhoek
 Commons_category: Antoni van Leeuwenhoek
@@ -70,9 +72,9 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Verkolje%20-%20A
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Antonie%20van%20Leeuwenhoek%20Signature.svg
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel%20Antoni%20van%20Leeuwenhoek.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20Antoni%20van%20Leeuwenhoek.jpg
-ISNI: "0000000081509407"
+ISNI: 0000000081509407
 Libris_URI: 86lnpkjs14l7458
-P8189: "987007264308705171"
+P8189: 987007264308705171
 Google_Doodle: antoni-van-leeuwenhoeks-384th-birthday
 Krugosvet_article: biologiya/levenguk-antoni-van
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/58347

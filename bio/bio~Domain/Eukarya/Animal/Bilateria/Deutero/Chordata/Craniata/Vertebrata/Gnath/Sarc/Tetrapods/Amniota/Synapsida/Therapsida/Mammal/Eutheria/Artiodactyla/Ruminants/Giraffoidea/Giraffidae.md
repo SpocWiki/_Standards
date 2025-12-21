@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Giraffidae
 title: Giraffidae
 ---
 

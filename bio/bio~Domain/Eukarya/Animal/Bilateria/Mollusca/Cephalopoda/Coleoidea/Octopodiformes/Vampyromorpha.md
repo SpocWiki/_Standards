@@ -1,5 +1,7 @@
 ---
-title: "Vampyroteuthis infernalis"
+aliases:
+  - Vampyromorpha
+title: Vampyroteuthis infernalis
 ---
 
 # [[Vampyromorpha]] 

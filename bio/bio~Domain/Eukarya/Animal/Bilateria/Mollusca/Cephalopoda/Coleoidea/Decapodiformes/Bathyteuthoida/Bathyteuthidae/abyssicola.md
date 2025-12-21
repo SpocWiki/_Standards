@@ -1,5 +1,7 @@
 ---
-title: "Bathyteuthis abyssicola"
+aliases:
+  - abyssicola
+title: Bathyteuthis abyssicola
 ---
 
 ## Phylogeny 

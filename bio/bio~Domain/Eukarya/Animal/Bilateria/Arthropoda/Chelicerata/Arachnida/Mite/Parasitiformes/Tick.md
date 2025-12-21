@@ -1,9 +1,9 @@
 ---
 aliases:
-- Ixodida
-- Tick
-- Zecke
-- Ticks
+  - Ixodida
+  - Tick
+  - Zecke
+  - Ticks
 title: Ixodida
 ---
 

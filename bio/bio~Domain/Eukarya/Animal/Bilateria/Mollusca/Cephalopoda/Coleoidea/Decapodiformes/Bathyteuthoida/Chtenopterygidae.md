@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Chtenopterygidae
 title: Chtenopteryx
 ---
 

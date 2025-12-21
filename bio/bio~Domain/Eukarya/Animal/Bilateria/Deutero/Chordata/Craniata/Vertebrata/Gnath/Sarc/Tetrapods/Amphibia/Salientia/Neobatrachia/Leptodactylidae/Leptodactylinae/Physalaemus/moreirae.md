@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus moreirae"
+aliases:
+  - moreirae
+title: Physalaemus moreirae
 ---
 
 ## Phylogeny 

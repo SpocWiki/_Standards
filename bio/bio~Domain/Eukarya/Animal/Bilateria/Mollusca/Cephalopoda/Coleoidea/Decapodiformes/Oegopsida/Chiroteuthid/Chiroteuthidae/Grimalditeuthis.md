@@ -1,5 +1,7 @@
 ---
-title: "Grimalditeuthis bonplandi"
+aliases:
+  - Grimalditeuthis
+title: Grimalditeuthis bonplandi
 ---
 
 ## Phylogeny 

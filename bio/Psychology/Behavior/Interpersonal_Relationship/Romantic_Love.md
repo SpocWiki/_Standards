@@ -2,15 +2,17 @@
 aliases:
   - Romance
   - Romantic love
+  - Romantic_Love
+  - Romantic Love
 has_id_wikidata: Q1189047
-opposite_of: "[[_Standards/WikiData/WD~platonic_love,209041]]"
+opposite_of: '[[_Standards/WikiData/WD~platonic_love,209041]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~interpersonal_relationship,223642]]"
-  - "[[_Standards/WikiData/WD~love,316]]"
-named_after: "[[_Standards/WikiData/WD~chivalric_romance,1159457]]"
-different_from: "[[_Standards/WikiData/WD~romantic_friendship,2487865]]"
-part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-has_characteristic: "[[_Standards/WikiData/WD~love,316]]"
+  - '[[_Standards/WikiData/WD~interpersonal_relationship,223642]]'
+  - '[[_Standards/WikiData/WD~love,316]]'
+named_after: '[[_Standards/WikiData/WD~chivalric_romance,1159457]]'
+different_from: '[[_Standards/WikiData/WD~romantic_friendship,2487865]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+has_characteristic: '[[_Standards/WikiData/WD~love,316]]'
 Archive_of_Our_Own_tag: Romance
 Commons_category: Romance
 Baidu_Tieba_name: 浪漫

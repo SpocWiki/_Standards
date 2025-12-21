@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Trichechidae
 title: Trichechidae
 ---
 

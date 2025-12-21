@@ -1,5 +1,8 @@
 ---
-title: "Miscellaneous fossil bovids"
+aliases:
+  - fossil_bovids
+  - fossil bovids
+title: Miscellaneous fossil bovids
 ---
 
 # Miscellaneous fossil bovids

@@ -4,26 +4,28 @@ aliases:
   - anatomical_structure
   - AnatomicalStructure
   - is_an_anatomical_structure
+  - Anatomical_Structure
+  - Anatomical Structure
+has_id_wikidata: 4936952
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - anatomical_structure
-layout: 
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_anatomical_structure Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_anatomical_structure Class
 type: Type
-has_id_wikidata: "4936952"
 ---
 
 # [[Anatomical_Structure]] 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Astacidae
 title: Astacidae
 ---
 

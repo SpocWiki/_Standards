@@ -1,6 +1,7 @@
 ---
 aliases:
   - Angst
+  - Fear
 has_id_wikidata: Q44619
 subclass_of:
   - "[[_Standards/WikiData/WD~anxiety,154430]]"
@@ -26,22 +27,22 @@ subreddit: fear
 Archive_of_Our_Own_tag: Fear
 Commons_category: Fear
 Dewey_Decimal_Classification:
-  - "152.46"
-  - "155.41246"
-  - "201.615246"
-  - "302.17"
+  - 152.46
+  - 155.41246
+  - 201.615246
+  - 302.17
 Iconclass_notation: 56DD1
 hashtag: scared
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Scared%20Child%20at%20Nighttime.jpg
 Stack_Exchange_tag: https://psychology.stackexchange.com/tags/fear
 Unicode_character: 😨
-P8189: "987007529153305171"
+P8189: 987007529153305200
 UMLS_CUI: C0015726
 MeSH_tree_code: F01.470.361
 Colon_Classification: S:526
 ---
 
-# [[Fear]] 
+# [[Fear]] 😨 
 
 #is_/different_from :: [[Anxiety]] 
 #is_/same_as :: [[../../../../WikiData/WD~Fear,44619|WD~Fear,44619]] 

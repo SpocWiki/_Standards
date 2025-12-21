@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Giraffoidea
 title: Giraffoidea
 ---
 

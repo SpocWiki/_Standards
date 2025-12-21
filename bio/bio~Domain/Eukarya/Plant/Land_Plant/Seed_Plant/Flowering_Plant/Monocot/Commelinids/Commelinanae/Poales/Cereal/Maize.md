@@ -2,6 +2,86 @@
 aliases:
   - corn
   - Mais
+  - Maize
+  - boroña
+  - الذُرة الشاميَّة
+  - الذُرة الصفراء
+  - الذُرة المصريَّة
+  - الذُرة الإسبانيَّة
+  - عَيْش الريف
+  - حِنْطَة الجِرْذَان
+  - トウモロコシ
+  - Maïs
+  - Кукуруза
+  - Corn
+  - Jagung
+  - Formenton
+  - Kaba
+  - Indian Corn
+  - maize
+  - मक्का
+  - kukuřice
+  - ذرت
+  - Meis
+  - Kukurydza
+  - Mısır
+  - 玉蜀黍
+  - Granturco
+  - 玉米
+  - 玉米花
+  - 玉米轴
+  - 玉米须
+  - 玉蜀黍叶
+  - 玉蜀黍根
+  - 玉蜀黍苞片
+  - 糯玉米
+  - 包谷
+  - 珍珠米
+  - 苞芦
+  - 玉米油
+  - תירס
+  - jagung
+  - Panís
+  - Aburoo
+  - maíz
+  - Gugarutz
+  - Tyrk
+  - Царевица
+  - Blat de moro
+  - Dacsa
+  - India-corn
+  - Majs
+  - Kukuruz
+  - Bli
+  - Καλαμπόκι
+  - corn,
+  - Teosinte
+  - Maizo
+  - Coronta o Panocha
+  - Elote o Choclo
+  - Maiz
+  - Olote
+  - Maissi
+  - viljamaissi
+  - blé d’Inde
+  - Kukorica
+  - Maís
+  - zumri
+  - Parastā kukurūza
+  - ਮੱਕੀ
+  - abati
+  - auati
+  - avati
+  - Milho
+  - Kukurica siata
+  - koruza
+  - Кукуруз
+  - சோளம்
+  - ข้าวโพด
+  - ظات حعشلعق قوناق
+  - Sorgo Turco
+  - Dinrêye
+has_id_wikidata: Q11575
 Amazon_com_browse_node:
   - 16319431
   - 6465013011
@@ -37,7 +117,6 @@ EPPO_Code: ZEAMX
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=42207
 hardiness_of_plant: "[[_Standards/WikiData/WD~2,99546131]]"
 has_fruit_type: "[[_Standards/WikiData/WD~caryopsis,506139]]"
-has_id_wikidata: Q11575
 has_part_s_: "[[_Standards/WikiData/WD~corncob,1885918]]"
 has_use:
   - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
@@ -194,7 +273,7 @@ water_footprint:
   - 1314
 ---
 
-# [[Maize]] 
+# [[Maize]] 🌽 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Maize,11575|WD~Maize,11575]] 
 

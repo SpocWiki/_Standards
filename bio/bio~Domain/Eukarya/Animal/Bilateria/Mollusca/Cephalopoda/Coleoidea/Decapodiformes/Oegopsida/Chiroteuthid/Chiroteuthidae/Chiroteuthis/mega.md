@@ -1,5 +1,7 @@
 ---
-title: "Chiroteuthis mega"
+aliases:
+  - mega
+title: Chiroteuthis mega
 ---
 
 ## Phylogeny 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Brillantaisia
 title: Brillantaisia
 ---
 

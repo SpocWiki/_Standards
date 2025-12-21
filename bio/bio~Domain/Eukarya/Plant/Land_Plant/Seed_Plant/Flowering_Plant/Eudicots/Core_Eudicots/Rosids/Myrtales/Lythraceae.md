@@ -1,6 +1,40 @@
 ---
 aliases:
   - Punicaceae
+  - Lythraceae
+  - లైత్రేసి
+  - วงศ์ตะแบก
+  - Kınagiller
+  - Дербенникові
+  - Họ Bằng lăng
+  - 千屈菜科
+  - Krwawnicowate
+  - خثرية
+  - Litràcia
+  - kyprejovité
+  - Kattehale-familien
+  - Weiderichgewächse
+  - loosestrife family
+  - Litrumacoj
+  - Kukesabalised
+  - حناییان
+  - Rantakukkakasvit
+  - Lythracées
+  - כופריים
+  - Krawinowe rostliny
+  - Füzényfélék
+  - Արենախոտազգիներ
+  - ミソハギ科
+  - ცოცხმაგარასებრნი
+  - 부처꽃과
+  - Famîleya hine û hinaran
+  - Raudokliniai
+  - ലൈത്രേസി
+  - Kattehalefamilien
+  - Kattenstaartfamilie
+  - Дербенниковые
+  - vrbicovité
+  - Fackelblomsväxter
 has_id_wikidata: Q156022
 taxon_common_name:
   - లైత్రేసి
@@ -37,15 +71,15 @@ taxon_common_name:
   - Дербенниковые
   - vrbicovité
   - Fackelblomsväxter
-taxonomic_type: "[[_Standards/WikiData/WD~Lythrum,156845]]"
-taxon_synonym: "[[_Standards/WikiData/WD~Punicaceae,1446177]]"
+taxonomic_type: '[[_Standards/WikiData/WD~Lythrum,156845]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Punicaceae,1446177]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_52(2),112869447]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Myrtales,21866]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "27074"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_52(2),112869447]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Myrtales,21866]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 27074
 taxon_author_citation: J.St.-Hil.
 taxon_name: Lythraceae
 Commons_category: Lythraceae

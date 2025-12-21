@@ -1,30 +1,31 @@
 ---
 aliases:
-- Offenheit
-- openness
+  - Offenheit
+  - openness
+  - Big5~Openness
 confidential: private
 cssclasses:
-- private
-- note
+  - private
+  - note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: 
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 has_time_started: 2025-06-29
 isDeleted: false
 isReadOnly: false
 keywords: Offenheit
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Offenheit
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Offenheit
-- excalidraw
+  - Offenheit
+  - excalidraw
 title: Offenheit
 type: private_note
 ---

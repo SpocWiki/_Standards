@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Myobatrachinae
 title: Myobatrachinae
 ---
 

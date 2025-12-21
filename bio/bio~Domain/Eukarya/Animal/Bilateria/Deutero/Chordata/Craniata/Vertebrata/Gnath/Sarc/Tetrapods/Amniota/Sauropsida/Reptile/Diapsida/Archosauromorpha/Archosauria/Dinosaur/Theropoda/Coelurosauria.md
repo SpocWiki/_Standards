@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Coelurosauria
 title: Coelurosauria
 ---
 

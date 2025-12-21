@@ -1,20 +1,20 @@
 ---
 aliases:
-  - Cro-Magnon 
-  - Cro-Magnons 
+  - Cro-Magnon
+  - Cro-Magnons
   - European early modern human
 has_id_wikidata: Q179234
-named_after: "[[_Standards/WikiData/WD~Cro_Magnon_site,331409]]"
-locations: "[[_Standards/WikiData/WD~Les_Eyzies_de_Tayac_Sireuil,426834]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Louis_Lartet,946158]]"
+named_after: '[[_Standards/WikiData/WD~Cro_Magnon_site,331409]]'
+locations: '[[_Standards/WikiData/WD~Les_Eyzies_de_Tayac_Sireuil,426834]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Louis_Lartet,946158]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~European_early_modern_humans,24300417]]"
-instance_of: "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~European_early_modern_humans,24300417]]'
+instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
 time_of_discovery_or_invention: 1868-01-01T00:00:00Z
-subclass_of: "[[_Standards/WikiData/WD~human,5]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
+subclass_of: '[[_Standards/WikiData/WD~human,5]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
 Commons_gallery: Cro-Magnon
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cro-Magnon.jpg
 Commons_category: Cro-Magnons

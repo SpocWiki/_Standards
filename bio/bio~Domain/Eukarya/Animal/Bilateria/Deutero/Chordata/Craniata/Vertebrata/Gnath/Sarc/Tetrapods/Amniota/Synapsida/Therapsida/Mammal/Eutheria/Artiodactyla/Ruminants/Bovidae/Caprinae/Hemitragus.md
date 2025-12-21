@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Hemitragus
 title: Hemitragus
 ---
 

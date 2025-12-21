@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ballinae
 title: Ballinae
 ---
 

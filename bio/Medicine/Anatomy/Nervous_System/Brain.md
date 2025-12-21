@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Brain
+has_id_wikidata: Q1073
 anatomical_location: "[[_Standards/WikiData/WD~cranial_cavity,1710207]]"
 Colon_Classification: L72
 Commons_category: Brain
@@ -26,7 +29,6 @@ ground_level_360_degree_view_URL:
 has_cause:
   - "[[_Standards/WikiData/WD~cephalization,1054543]]"
   - "[[_Standards/WikiData/WD~brain_development,14330969]]"
-has_id_wikidata: Q1073
 has_part_s_:
   - "[[_Standards/WikiData/WD~brain_stem,182228]]"
   - "[[_Standards/WikiData/WD~Mesencephalon,185080]]"
@@ -61,6 +63,10 @@ UMLS_CUI:
 Unicode_character: 🧠
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Garuna%2C%20erosle.webm
 ---
+
+# [[Brain]] 🧠 
+
+#is_/same_as :: [[../../../../WikiData/WD~Brain,1073|WD~Brain,1073]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,5 +1,7 @@
 ---
-title: "Aegla inconspicua"
+aliases:
+  - inconspicua
+title: Aegla inconspicua
 ---
 
 # Aegla inconspicua 

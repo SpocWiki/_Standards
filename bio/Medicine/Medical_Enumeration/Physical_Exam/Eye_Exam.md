@@ -3,31 +3,33 @@ aliases:
   - eye_examination
   - Eye exam
   - is_an_eye
+  - Eye_Exam
+  - Eye Exam
+has_id_wikidata: Q796207
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - eye
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_eye Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_eye Class
 type: Type
-has_id_wikidata: Q796207
 subclass_of:
-  - "[[_Standards/WikiData/WD~medical_diagnosis,177719]]"
-  - "[[_Standards/WikiData/WD~ophthalmological_diagnostic_techniques,64722791]]"
-instance_of: "[[_Standards/WikiData/WD~measurement,12453]]"
+  - '[[_Standards/WikiData/WD~medical_diagnosis,177719]]'
+  - '[[_Standards/WikiData/WD~ophthalmological_diagnostic_techniques,64722791]]'
+instance_of: '[[_Standards/WikiData/WD~measurement,12453]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CCMDonation11.JPG
 Commons_category: Eye examinations
 ---

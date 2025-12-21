@@ -1,18 +1,21 @@
 ---
-Commons_category: "Immune system"
+aliases:
+  - Immune_System
+  - Immune System
+has_id_wikidata: Q1059
+Commons_category: Immune system
 development_of_anatomical_structure: '[[_Standards/WikiData/WD~immune_system_development,14863467]]'
 has_effect: '[[_Standards/WikiData/WD~immunity,182581]]'
-has_id_wikidata: Q1059
 has_part_s_: '[[_Standards/WikiData/WD~memory_T_cell,2304808]]'
 instance_of: '[[_Standards/WikiData/WD~anatomical_system_type,104027169]]'
 MeSH_tree_code: A15.382
 studied_in: '[[_Standards/WikiData/WD~immunology,101929]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~organ_system,188193]]'
-- '[[_Standards/WikiData/WD~biological_system,30336093]]'
+  - '[[_Standards/WikiData/WD~organ_system,188193]]'
+  - '[[_Standards/WikiData/WD~biological_system,30336093]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Lymph_immune_and_complement_navs,11112574]]'
 UMLS_CUI: C0020962
-WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/immune_system_2"
+WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/immune_system_2
 ---
 
 # [[Immune_System]] 

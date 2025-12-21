@@ -27,28 +27,29 @@ aliases:
   - Sypressit
   - Cyprès
   - イトスギ属
+  - Cypress
 has_id_wikidata: Q146911
 taxon_synonym:
-  - "[[_Standards/WikiData/WD~Xanthocyparis,133623]]"
-  - "[[_Standards/WikiData/WD~Hesperocyparis,16983101]]"
-  - "[[_Standards/WikiData/WD~Callitropsis,17165731]]"
+  - '[[_Standards/WikiData/WD~Xanthocyparis,133623]]'
+  - '[[_Standards/WikiData/WD~Hesperocyparis,16983101]]'
+  - '[[_Standards/WikiData/WD~Callitropsis,17165731]]'
 parent_taxon:
-  - "[[_Standards/WikiData/WD~Cupressaceae,146037]]"
-  - "[[_Standards/WikiData/WD~Cupressoideae,1851840]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Cupressus_sempervirens,147513]]"
+  - '[[_Standards/WikiData/WD~Cupressaceae,146037]]'
+  - '[[_Standards/WikiData/WD~Cupressoideae,1851840]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Cupressus_sempervirens,147513]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_7,112869376]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~cypress_wood,28942717]]"
-subclass_of: "[[_Standards/WikiData/WD~tree,10884]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "183455"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_7,112869376]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~cypress_wood,28942717]]'
+subclass_of: '[[_Standards/WikiData/WD~tree,10884]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 183455
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Cupressus%20nootkatensis%2043603.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Cupressus%20pygmaea%20foliage%20cones.jpg

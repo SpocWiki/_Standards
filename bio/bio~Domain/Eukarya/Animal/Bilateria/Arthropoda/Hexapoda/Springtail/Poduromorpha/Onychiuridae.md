@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Onychiuridae
 title: Onychiuridae
 ---
 

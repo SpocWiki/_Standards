@@ -1,36 +1,37 @@
 ---
 aliases:
   - Niere
+  - Kidney
 has_id_wikidata: Q9377
 part_of:
-  - "[[_Standards/WikiData/WD~urinary_system,181100]]"
-  - "[[_Standards/WikiData/WD~endocrine_system,11078]]"
+  - '[[_Standards/WikiData/WD~urinary_system,181100]]'
+  - '[[_Standards/WikiData/WD~endocrine_system,11078]]'
 different_from:
-  - "[[_Standards/WikiData/WD~bud,189838]]"
-  - "[[_Standards/WikiData/WD~Nerka,11790669]]"
-  - "[[_Standards/WikiData/WD~human_kidney,112107043]]"
+  - '[[_Standards/WikiData/WD~bud,189838]]'
+  - '[[_Standards/WikiData/WD~Nerka,11790669]]'
+  - '[[_Standards/WikiData/WD~human_kidney,112107043]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~urinary_organ,956898]]"
-  - "[[_Standards/WikiData/WD~animal_organ,24060765]]"
-  - "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
-development_of_anatomical_structure: "[[_Standards/WikiData/WD~kidney_development,2336077]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~renal_segment,47507681]]"
+  - '[[_Standards/WikiData/WD~urinary_organ,956898]]'
+  - '[[_Standards/WikiData/WD~animal_organ,24060765]]'
+  - '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
+development_of_anatomical_structure: '[[_Standards/WikiData/WD~kidney_development,2336077]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~renal_segment,47507681]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~organ_type,103812529]]"
-  - "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
-has_part_s_: "[[_Standards/WikiData/WD~nephron,58184]]"
-OmegaWiki_Defined_Meaning: "155634"
+  - '[[_Standards/WikiData/WD~organ_type,103812529]]'
+  - '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+has_part_s_: '[[_Standards/WikiData/WD~nephron,58184]]'
+OmegaWiki_Defined_Meaning: 155634
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Kidney%20icon.svg
 TA98_Latin_term: ren
 Dewey_Decimal_Classification:
-  - "612.463"
-  - "573.496"
-  - "611.61"
+  - 612.463
+  - 573.496
+  - 611.61
 Commons_gallery: Kidney
 Commons_category: Kidneys
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kidney%20section%20vertical.png

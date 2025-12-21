@@ -1,5 +1,8 @@
 ---
-title: "Eodiscoglossus santonjae"
+aliases:
+  - Eodiscoglossus_santonjae
+  - Eodiscoglossus santonjae
+title: Eodiscoglossus santonjae
 ---
 
 # Eodiscoglossus santonjae 

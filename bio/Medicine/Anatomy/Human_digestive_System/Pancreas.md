@@ -1,32 +1,33 @@
 ---
 aliases:
   - Bauchspeicheldrüse
+  - Pancreas
 has_id_wikidata: Q9618
 innervated_by:
-  - "[[_Standards/WikiData/WD~vagus_nerve,190140]]"
-  - "[[_Standards/WikiData/WD~celiac_ganglia,897760]]"
-  - "[[_Standards/WikiData/WD~pancreatic_plexus,7130417]]"
+  - '[[_Standards/WikiData/WD~vagus_nerve,190140]]'
+  - '[[_Standards/WikiData/WD~celiac_ganglia,897760]]'
+  - '[[_Standards/WikiData/WD~pancreatic_plexus,7130417]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
   - "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-anatomical_location: "[[_Standards/WikiData/WD~abdominal_cavity,682466]]"
-arterial_supply: "[[_Standards/WikiData/WD~inferior_pancreaticoduodenal_artery,707436]]"
+anatomical_location: '[[_Standards/WikiData/WD~abdominal_cavity,682466]]'
+arterial_supply: '[[_Standards/WikiData/WD~inferior_pancreaticoduodenal_artery,707436]]'
 lymphatic_drainage:
-  - "[[_Standards/WikiData/WD~Celiac_lymph_nodes,1995284]]"
-  - "[[_Standards/WikiData/WD~splenic_lymph_nodes,7578544]]"
-  - "[[_Standards/WikiData/WD~Superior_mesenteric_lymph_nodes,7643652]]"
-venous_drainage: "[[_Standards/WikiData/WD~pancreaticoduodenal_veins,7130422]]"
-development_of_anatomical_structure: "[[_Standards/WikiData/WD~pancreas_development,14859942]]"
+  - '[[_Standards/WikiData/WD~Celiac_lymph_nodes,1995284]]'
+  - '[[_Standards/WikiData/WD~splenic_lymph_nodes,7578544]]'
+  - '[[_Standards/WikiData/WD~Superior_mesenteric_lymph_nodes,7643652]]'
+venous_drainage: '[[_Standards/WikiData/WD~pancreaticoduodenal_veins,7130422]]'
+development_of_anatomical_structure: '[[_Standards/WikiData/WD~pancreas_development,14859942]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~lobular_organ,28846466]]"
-  - "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
-  - "[[_Standards/WikiData/WD~glandular_organ,126131070]]"
+  - '[[_Standards/WikiData/WD~lobular_organ,28846466]]'
+  - '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
+  - '[[_Standards/WikiData/WD~glandular_organ,126131070]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~organ_type,103812529]]"
-  - "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
-OmegaWiki_Defined_Meaning: "348084"
+  - '[[_Standards/WikiData/WD~organ_type,103812529]]'
+  - '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+OmegaWiki_Defined_Meaning: 348084
 TA98_Latin_term: pancreas
 Colon_Classification: L293
 Commons_gallery: Pancreas

@@ -1,5 +1,7 @@
 ---
-title: "Planctoteuthis lippula"
+aliases:
+  - lippula
+title: Planctoteuthis lippula
 ---
 
 ## Phylogeny 

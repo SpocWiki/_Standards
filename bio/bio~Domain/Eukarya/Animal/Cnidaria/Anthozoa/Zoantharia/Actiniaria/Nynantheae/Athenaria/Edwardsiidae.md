@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Edwardsiidae
 title: Edwardsiidae
 ---
 

@@ -1,6 +1,9 @@
 ---
 aliases:
   - Juniperus
+  - Juniper
+  - 刺柏属
+  - juniper
 has_id_wikidata: Q25662
 taxon_common_name:
   - 刺柏属
@@ -8,30 +11,30 @@ taxon_common_name:
   - Juniperus
   - juniper
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_7,112869376]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-parent_taxon: "[[_Standards/WikiData/WD~Cupressoideae,1851840]]"
-different_from: "[[_Standards/WikiData/WD~Jałowiec,6168533]]"
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_7,112869376]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+parent_taxon: '[[_Standards/WikiData/WD~Cupressoideae,1851840]]'
+different_from: '[[_Standards/WikiData/WD~Jałowiec,6168533]]'
 taxon_synonym:
-  - "[[_Standards/WikiData/WD~Sabina,14437383]]"
-  - "[[_Standards/WikiData/WD~Arceuthos,15038800]]"
-subclass_of: "[[_Standards/WikiData/WD~tree,10884]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Juniperus_communis,26325]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-has_use: "[[_Standards/WikiData/WD~spice,42527]]"
-ITIS_TSN: "18047"
-OmegaWiki_Defined_Meaning: "535532"
+  - '[[_Standards/WikiData/WD~Sabina,14437383]]'
+  - '[[_Standards/WikiData/WD~Arceuthos,15038800]]'
+subclass_of: '[[_Standards/WikiData/WD~tree,10884]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Juniperus_communis,26325]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+has_use: '[[_Standards/WikiData/WD~spice,42527]]'
+ITIS_TSN: 18047
+OmegaWiki_Defined_Meaning: 535532
 Commons_gallery: Juniperus
 Commons_category: Juniperus
 taxon_name: Juniperus

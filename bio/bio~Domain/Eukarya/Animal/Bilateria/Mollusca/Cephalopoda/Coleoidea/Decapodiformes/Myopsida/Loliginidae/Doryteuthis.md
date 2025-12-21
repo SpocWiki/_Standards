@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Doryteuthis
 title: Doryteuthis
 ---
 

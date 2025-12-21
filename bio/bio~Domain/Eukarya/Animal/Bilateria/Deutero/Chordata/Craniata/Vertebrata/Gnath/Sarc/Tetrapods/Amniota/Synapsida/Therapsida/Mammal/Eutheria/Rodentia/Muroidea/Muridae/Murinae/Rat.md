@@ -1,6 +1,11 @@
 ---
 aliases:
   - Rattus
+  - Rat
+  - Rata
+  - podgana
+  - Podgana
+  - rata
 has_id_wikidata: Q36396
 described_by_source:
   - "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -16,7 +21,7 @@ different_from: "[[_Standards/WikiData/WD~Szczur,4529225]]"
 parent_taxon: "[[_Standards/WikiData/WD~Rattini,18706623]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "180361"
+ITIS_TSN: 180361
 taxon_common_name:
   - Rat
   - Rat
@@ -26,7 +31,7 @@ taxon_common_name:
   - rata
 IMDb_keyword: rat
 Unicode_character: 🐀
-P2167: "10101505"
+P2167: 10101505
 image: http://commons.wikimedia.org/wiki/Special:FilePath/WildRat.jpg
 EPPO_Code: 1RATTG
 MeSH_tree_code: B01.050.150.900.649.313.992.635.505.700
@@ -37,13 +42,13 @@ Commons_category: Rattus
 taxon_name: Rattus
 Gujarati_Vishwakosh_entry: ઉંદર
 Dewey_Decimal_Classification:
-  - "599.352"
-  - "616.02733"
-  - "636.9352"
+  - 599.352
+  - 616.02733
+  - 636.9352
 title: Rattus group
 ---
 
-# [[Rat]]
+# [[Rat]] 🐀 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~True_rats,36396|WD~True_rats,36396]]  
 

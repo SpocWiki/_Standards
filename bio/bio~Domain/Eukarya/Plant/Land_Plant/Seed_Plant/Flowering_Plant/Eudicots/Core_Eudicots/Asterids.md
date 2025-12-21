@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Asterids
 title: Asterids
 ---
 

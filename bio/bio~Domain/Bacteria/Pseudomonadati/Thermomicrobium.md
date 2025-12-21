@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Thermomicrobium
 title: Thermomicrobium
 ---
 

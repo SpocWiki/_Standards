@@ -6,14 +6,18 @@ aliases:
   - pika
   - lagomorphs
   - lagomorph
-title: Lagomorpha
+  - خرگوش
+  - харгӯш
+  - haredyr
+  - қоянтәрізділер
 has_id_wikidata: Q25401
-parent_taxon: "[[_Standards/WikiData/WD~Glires,660432]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Master_Lampe,1918298]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Lagomorpha,106498011]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-ITIS_TSN: "180105"
+title: Lagomorpha
+parent_taxon: '[[_Standards/WikiData/WD~Glires,660432]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Master_Lampe,1918298]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Lagomorpha,106498011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+ITIS_TSN: 180105
 taxon_common_name:
   - خرگوش
   - харгӯш

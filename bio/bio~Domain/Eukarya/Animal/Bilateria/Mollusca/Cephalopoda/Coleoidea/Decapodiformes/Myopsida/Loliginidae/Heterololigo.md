@@ -1,5 +1,7 @@
 ---
-title: "Heterololigo bleekeri"
+aliases:
+  - Heterololigo
+title: Heterololigo bleekeri
 ---
 
 ## Phylogeny 

@@ -1,7 +1,7 @@
 ---
 aliases:
-- Hippotraginae
-- Hippotragini
+  - Hippotraginae
+  - Hippotragini
 title: Hippotraginae
 ---
 

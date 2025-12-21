@@ -1,13 +1,15 @@
 ---
+aliases:
+  - Biopsy
 has_id_wikidata: Q179991
 subclass_of:
-  - "[[_Standards/WikiData/WD~sampling,7410159]]"
-  - "[[_Standards/WikiData/WD~invasive_test,85850823]]"
-instance_of: "[[_Standards/WikiData/WD~medical_test_type,55215251]]"
-health_specialty: "[[_Standards/WikiData/WD~surgery,40821]]"
-OmegaWiki_Defined_Meaning: "864919"
+  - '[[_Standards/WikiData/WD~sampling,7410159]]'
+  - '[[_Standards/WikiData/WD~invasive_test,85850823]]'
+instance_of: '[[_Standards/WikiData/WD~medical_test_type,55215251]]'
+health_specialty: '[[_Standards/WikiData/WD~surgery,40821]]'
+OmegaWiki_Defined_Meaning: 864919
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Brain%20biopsy%20under%20stereotaxy.jpg
-P8189: "987007282393605171"
+P8189: 987007282393605171
 Commons_category: Biopsies
 UMLS_CUI: C0005558
 MeSH_tree_code:

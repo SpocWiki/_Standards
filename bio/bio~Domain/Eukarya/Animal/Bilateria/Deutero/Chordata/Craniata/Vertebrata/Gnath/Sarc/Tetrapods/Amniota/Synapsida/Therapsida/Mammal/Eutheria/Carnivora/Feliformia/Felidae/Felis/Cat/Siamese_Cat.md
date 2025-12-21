@@ -2,13 +2,15 @@
 aliases:
   - Siamese cat
   - Siamkatze
-  - 
+  - ''
+  - Siamese_Cat
+  - Siamese Cat
 has_id_wikidata: Q42604
 country_of_origin:
-  - "[[_Standards/WikiData/WD~Siam,1081620]]"
-  - "[[_Standards/WikiData/WD~Thailand,869]]"
-produced_sound: "[[_Standards/WikiData/WD~meow,3307942]]"
-eye_color: "[[_Standards/WikiData/WD~blue_eyed_cat,133816602]]"
+  - '[[_Standards/WikiData/WD~Siam,1081620]]'
+  - '[[_Standards/WikiData/WD~Thailand,869]]'
+produced_sound: '[[_Standards/WikiData/WD~meow,3307942]]'
+eye_color: '[[_Standards/WikiData/WD~blue_eyed_cat,133816602]]'
 height:
   - 10
   - 8
@@ -17,8 +19,8 @@ price:
   - 600
   - 1200
 life_expectancy: 15
-follows: "[[_Standards/WikiData/WD~Thai,42732]]"
-instance_of: "[[_Standards/WikiData/WD~cat_breed,43577]]"
+follows: '[[_Standards/WikiData/WD~Thai,42732]]'
+instance_of: '[[_Standards/WikiData/WD~cat_breed,43577]]'
 social_media_followers: 53706
 Commons_category: Siamese cats
 video:

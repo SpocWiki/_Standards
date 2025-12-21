@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Theropoda
 title: Theropoda
 ---
 

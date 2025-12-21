@@ -1,6 +1,7 @@
 ---
 aliases:
   - Human Pregnancy
+  - Human_Pregnancy
 has_id_wikidata: Q11995
 Commons_gallery: Human pregnancy
 Commons_category: Human pregnancy
@@ -40,9 +41,9 @@ on_focus_list_of_Wikimedia_project:
 different_from: "[[_Standards/WikiData/WD~gestation,28627]]"
 duration: 38
 has_effect: "[[_Standards/WikiData/WD~parturition,34581]]"
-IAB_code: "305"
-DiseasesDB: "10545"
-OmegaWiki_Defined_Meaning: "1232378"
+IAB_code: 305
+DiseasesDB: 10545
+OmegaWiki_Defined_Meaning: 1232378
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/PregnancyinCrossSection.jpg
 Iconclass_notation: 42A1
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Baby-1295826.svg
@@ -54,7 +55,7 @@ Terminologia_Embryologica: E1.0.2.6.1.0.1
 MeSH_tree_code: G08.686.784.769
 ---
 
-# [[Human_Pregnancy]] 
+# [[Human_Pregnancy]] 🤰 
 
 #is_/same_as :: [[WD~Human_pregnancy,11995]] 
 

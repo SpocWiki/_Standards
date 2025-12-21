@@ -1,5 +1,7 @@
 ---
-title: "Hemigraphis + Strobilanthes + relatives"
+aliases:
+  - Hemigraphis
+title: Hemigraphis + Strobilanthes + relatives
 ---
 
 # *Hemigraphis + Strobilanthes + relatives* 

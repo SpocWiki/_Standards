@@ -1,19 +1,28 @@
 ---
-AlgaeBase_URL: "https://www.algaebase.org/browse/taxonomy/detail/?taxonid=86701"
 aliases:
-- Eukaryotes
-- Eukaryota
-- Eukaryote
-- Eukarya
+  - Eukaryotes
+  - Eukaryota
+  - Eukaryote
+  - Eukarya
+  - eukaryote
+  - eukarionty
+  - jądrowce
+  - karionty
+  - karioty
+  - organizmy eukariotyczne
+  - organizmy jądrowe
+  - evkarionti
+  - 真核域
+has_id_wikidata: Q19088
+AlgaeBase_URL: https://www.algaebase.org/browse/taxonomy/detail/?taxonid=86701
 Commons_category: Eukaryota
 described_by_source: "[[_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422]]"
 disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 equivalent_class:
-- "http://dbpedia.org/ontology/Eukaryote"
-- "http://kbpedia.org/kko/rc/EukaryoticOrganism"
+  - http://dbpedia.org/ontology/Eukaryote
+  - http://kbpedia.org/kko/rc/EukaryoticOrganism
 has_characteristic: '[[_Standards/WikiData/WD~eukaryality,115254102]]'
-has_id_wikidata: Q19088
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Eukaryota%20diversity%202.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Eukaryota%20diversity%202.jpg
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 IPA_transcription: ˈjukɛɚiˈɑtə
 MeSH_tree_code: B01
@@ -22,23 +31,23 @@ parent_taxon: '[[_Standards/WikiData/WD~Cytota,3322575]]'
 start_time: -2700000000-01-01
 subclass_of: '[[_Standards/WikiData/WD~organism,7239]]'
 taxon_common_name:
-- eukaryote
-- eukarionty
-- jądrowce
-- karionty
-- karioty
-- "organizmy eukariotyczne"
-- "organizmy jądrowe"
-- evkarionti
-- 真核域
+  - eukaryote
+  - eukarionty
+  - jądrowce
+  - karionty
+  - karioty
+  - organizmy eukariotyczne
+  - organizmy jądrowe
+  - evkarionti
+  - 真核域
 taxon_name: Eukaryota
 taxon_rank:
-- '[[_Standards/WikiData/WD~domain,146481]]'
-- '[[_Standards/WikiData/WD~superkingdom,19858692]]'
+  - '[[_Standards/WikiData/WD~domain,146481]]'
+  - '[[_Standards/WikiData/WD~superkingdom,19858692]]'
 title: Eukaryotes
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Eukaryota,13421047]]'
 UMLS_CUI: C0684063
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/A-Detailed-History-of-Intron-rich-Eukaryotic-Ancestors-Inferred-from-a-Global-Survey-of-100-pcbi.1002150.s003.ogv"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/A-Detailed-History-of-Intron-rich-Eukaryotic-Ancestors-Inferred-from-a-Global-Survey-of-100-pcbi.1002150.s003.ogv
 ---
 
 # [[Eukarya]]

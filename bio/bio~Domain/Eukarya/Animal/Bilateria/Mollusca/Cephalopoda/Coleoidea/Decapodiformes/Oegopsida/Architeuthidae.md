@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Architeuthidae
 title: Architeuthis
 ---
 

@@ -1,19 +1,20 @@
 ---
 aliases:
   - Genie
+  - Genius
 has_id_wikidata: Q185030
-opposite_of: "[[_Standards/WikiData/WD~idiot,193607]]"
-subclass_of: "[[_Standards/WikiData/WD~person,215627]]"
+opposite_of: '[[_Standards/WikiData/WD~idiot,193607]]'
+subclass_of: '[[_Standards/WikiData/WD~person,215627]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~personality_trait,2393196]]"
-  - "[[_Standards/WikiData/WD~approbative,4781727]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q3370181,3370181]]"
-different_from: "[[_Standards/WikiData/WD~Q60448623,60448623]]"
+  - '[[_Standards/WikiData/WD~personality_trait,2393196]]'
+  - '[[_Standards/WikiData/WD~approbative,4781727]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q3370181,3370181]]'
+different_from: '[[_Standards/WikiData/WD~Q60448623,60448623]]'
 Colon_Classification: S61
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Croce-Mozart-Detail.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Relief%20t%C3%AAte%20de%20genie%20ail%C3%A9%20palais%20d%27Asurbanipal%20II%20%C3%A0%20Nimroud%20%28Khalu%29.jpg

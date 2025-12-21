@@ -1,22 +1,23 @@
 ---
 aliases:
-- Kingdom
+  - Kingdom
+  - bio~Kingdom
 has_id_wikidata: Q36732
 described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-- '[[_Standards/WikiData/WD~kingdom,417175]]'
-- '[[_Standards/WikiData/WD~realm,62075839]]'
-- '[[_Standards/WikiData/WD~Rike,100235356]]'
+  - '[[_Standards/WikiData/WD~kingdom,417175]]'
+  - '[[_Standards/WikiData/WD~realm,62075839]]'
+  - '[[_Standards/WikiData/WD~Rike,100235356]]'
 instance_of:
-- '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
-- '[[_Standards/WikiData/WD~rank_in_botany,3100180]]'
-- '[[_Standards/WikiData/WD~rank_in_zoology,13578154]]'
+  - '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
+  - '[[_Standards/WikiData/WD~rank_in_botany,3100180]]'
+  - '[[_Standards/WikiData/WD~rank_in_zoology,13578154]]'
 OmegaWiki_Defined_Meaning: 801379
 part_of:
-- '[[_Standards/WikiData/WD~subdomain,3491996]]'
-- '[[_Standards/WikiData/WD~superkingdom,19858692]]'
-- '[[_Standards/WikiData/WD~realm,62075839]]'
-- '[[_Standards/WikiData/WD~subrealm,65082852]]'
+  - '[[_Standards/WikiData/WD~subdomain,3491996]]'
+  - '[[_Standards/WikiData/WD~superkingdom,19858692]]'
+  - '[[_Standards/WikiData/WD~realm,62075839]]'
+  - '[[_Standards/WikiData/WD~subrealm,65082852]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Full_biological_kingdom_classification,6458785]]'
 ---
 

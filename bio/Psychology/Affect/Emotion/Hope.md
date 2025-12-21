@@ -1,6 +1,7 @@
 ---
 aliases:
   - Hoffnung
+  - Hope
 has_id_wikidata: Q190507
 ---
 

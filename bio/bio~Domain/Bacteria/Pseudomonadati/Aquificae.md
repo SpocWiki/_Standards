@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Aquificae
 title: Aquificae
 ---
 

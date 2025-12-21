@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Incirrata
 title: Incirrata
 ---
 

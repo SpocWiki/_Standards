@@ -4,26 +4,26 @@ aliases:
   - bone
   - Bone
   - is_a_bone
+has_id_wikidata: Q265868
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - bone
-layout: 
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_bone Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_bone Class
 type: Type
-has_id_wikidata: Q265868
 ---
 
 # [[Bone]] 

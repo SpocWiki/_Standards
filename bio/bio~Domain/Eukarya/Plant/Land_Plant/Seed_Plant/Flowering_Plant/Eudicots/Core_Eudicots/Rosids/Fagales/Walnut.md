@@ -1,47 +1,47 @@
 ---
 aliases:
-- Walnut
-- Walnuss
+  - Walnut
+  - Walnuss
+has_id_wikidata: Q208021
 carbon_footprint: 3
 color:
-- '[[_Standards/WikiData/WD~green,3133]]'
-- '[[_Standards/WikiData/WD~brown,47071]]'
+  - '[[_Standards/WikiData/WD~green,3133]]'
+  - '[[_Standards/WikiData/WD~brown,47071]]'
 Commons_category: Walnuts
 CosIng_number: 34785
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 FoodEx2_code:
-- A014R
-- A0DXG
-has_id_wikidata: Q208021
+  - A014R
+  - A0DXG
 has_part_s_:
-- '[[_Standards/WikiData/WD~walnut_shell,55758268]]'
-- '[[_Standards/WikiData/WD~seed,40763]]'
+  - '[[_Standards/WikiData/WD~walnut_shell,55758268]]'
+  - '[[_Standards/WikiData/WD~seed,40763]]'
 Iconclass_notation: 25G21(WALNUT)
 image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Juglans%20regia%20011.JPG"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Walnuts%20-%20whole%20and%20open%20with%20halved%20kernel.jpg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Juglans%20regia%20011.JPG
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Walnuts%20-%20whole%20and%20open%20with%20halved%20kernel.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-- '[[_Standards/WikiData/WD~plant_product,107122793]]'
+  - '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+  - '[[_Standards/WikiData/WD~plant_product,107122793]]'
 natural_product_of_taxon: '[[_Standards/WikiData/WD~Jugo,46871]]'
 OmegaWiki_Defined_Meaning: 404735
 part_of: '[[_Standards/WikiData/WD~Turkish_cuisine,654493]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27132574,27132574]]'
 PLU_code:
-- 4943
-- 4946
-- 4944
-- 4945
+  - 4943
+  - 4946
+  - 4944
+  - 4945
 subclass_of:
-- '[[_Standards/WikiData/WD~nut,3320037]]'
-- '[[_Standards/WikiData/WD~nut,11009]]'
-- '[[_Standards/WikiData/WD~drupe,14712]]'
+  - '[[_Standards/WikiData/WD~nut,3320037]]'
+  - '[[_Standards/WikiData/WD~nut,11009]]'
+  - '[[_Standards/WikiData/WD~drupe,14712]]'
 UNII: 1V3SHR7QB7
 water_footprint: 9280
-Wolfram_Language_entity_code: "Entity[\"FoodType\", \"Walnut\"]"
+Wolfram_Language_entity_code: Entity["FoodType", "Walnut"]
 ---
 
 # [[Walnut]] 

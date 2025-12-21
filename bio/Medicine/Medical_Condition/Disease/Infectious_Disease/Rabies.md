@@ -1,8 +1,9 @@
 ---
 aliases:
   - hydrophobia
+  - Rabies
 has_id_wikidata: Q39222
-RIA_Novosti_reference: "61575680"
+RIA_Novosti_reference: 61575680
 ICD_10_CM:
   - A82.0
   - A82.1
@@ -13,68 +14,68 @@ MeSH_tree_code: C01.925.782.580.830.750
 Commons_category: Rabies
 Baidu_Tieba_name: 狂犬病
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~pain,81938]]"
-  - "[[_Standards/WikiData/WD~paralysis,107231]]"
-  - "[[_Standards/WikiData/WD~vomiting,127076]]"
-  - "[[_Standards/WikiData/WD~hallucination,130741]]"
-  - "[[_Standards/WikiData/WD~cardiac_arrest,202837]]"
-  - "[[_Standards/WikiData/WD~photophobia,281289]]"
-  - "[[_Standards/WikiData/WD~hypersalivation,761862]]"
-  - "[[_Standards/WikiData/WD~paresthesia,769220]]"
-  - "[[_Standards/WikiData/WD~mydriasis,1128283]]"
-  - "[[_Standards/WikiData/WD~hyperactivity,1640850]]"
-  - "[[_Standards/WikiData/WD~insomnia,1869874]]"
-  - "[[_Standards/WikiData/WD~chills,2260058]]"
-  - "[[_Standards/WikiData/WD~phonophobia,2434711]]"
-  - "[[_Standards/WikiData/WD~respiratory_arrest,3774744]]"
-  - "[[_Standards/WikiData/WD~increase,9073584]]"
-  - "[[_Standards/WikiData/WD~hydrophobia_(sign),56635009]]"
-  - "[[_Standards/WikiData/WD~irritability,29299]]"
-  - "[[_Standards/WikiData/WD~headache,86]]"
-  - "[[_Standards/WikiData/WD~fever,38933]]"
-  - "[[_Standards/WikiData/WD~fear,44619]]"
+  - '[[_Standards/WikiData/WD~pain,81938]]'
+  - '[[_Standards/WikiData/WD~paralysis,107231]]'
+  - '[[_Standards/WikiData/WD~vomiting,127076]]'
+  - '[[_Standards/WikiData/WD~hallucination,130741]]'
+  - '[[_Standards/WikiData/WD~cardiac_arrest,202837]]'
+  - '[[_Standards/WikiData/WD~photophobia,281289]]'
+  - '[[_Standards/WikiData/WD~hypersalivation,761862]]'
+  - '[[_Standards/WikiData/WD~paresthesia,769220]]'
+  - '[[_Standards/WikiData/WD~mydriasis,1128283]]'
+  - '[[_Standards/WikiData/WD~hyperactivity,1640850]]'
+  - '[[_Standards/WikiData/WD~insomnia,1869874]]'
+  - '[[_Standards/WikiData/WD~chills,2260058]]'
+  - '[[_Standards/WikiData/WD~phonophobia,2434711]]'
+  - '[[_Standards/WikiData/WD~respiratory_arrest,3774744]]'
+  - '[[_Standards/WikiData/WD~increase,9073584]]'
+  - '[[_Standards/WikiData/WD~hydrophobia_(sign),56635009]]'
+  - '[[_Standards/WikiData/WD~irritability,29299]]'
+  - '[[_Standards/WikiData/WD~headache,86]]'
+  - '[[_Standards/WikiData/WD~fever,38933]]'
+  - '[[_Standards/WikiData/WD~fear,44619]]'
 named_after:
-  - "[[_Standards/WikiData/WD~rage,153641]]"
-  - "[[_Standards/WikiData/WD~dog,144]]"
+  - '[[_Standards/WikiData/WD~rage,153641]]'
+  - '[[_Standards/WikiData/WD~dog,144]]'
 health_specialty:
-  - "[[_Standards/WikiData/WD~veterinary_medicine,170201]]"
-  - "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+  - '[[_Standards/WikiData/WD~veterinary_medicine,170201]]'
+  - '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~encephalitis,199615]]"
-  - "[[_Standards/WikiData/WD~myelitis,551085]]"
+  - '[[_Standards/WikiData/WD~encephalitis,199615]]'
+  - '[[_Standards/WikiData/WD~myelitis,551085]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~notifiable_disease,314676]]"
-  - "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
+  - '[[_Standards/WikiData/WD~notifiable_disease,314676]]'
+  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-has_cause: "[[_Standards/WikiData/WD~rabies_virus,698976]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+has_cause: '[[_Standards/WikiData/WD~rabies_virus,698976]]'
 disease_transmission_process:
-  - "[[_Standards/WikiData/WD~animal_bite,866650]]"
-  - "[[_Standards/WikiData/WD~contact_transmission,15304512]]"
-possible_treatment: "[[_Standards/WikiData/WD~post_exposure_prophylaxis,1361206]]"
+  - '[[_Standards/WikiData/WD~animal_bite,866650]]'
+  - '[[_Standards/WikiData/WD~contact_transmission,15304512]]'
+possible_treatment: '[[_Standards/WikiData/WD~post_exposure_prophylaxis,1361206]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]"
-  - "[[_Standards/WikiData/WD~central_nervous_system_viral_disease,5062121]]"
-  - "[[_Standards/WikiData/WD~Rhabdoviridae_infectious_disease,18968214]]"
-  - "[[_Standards/WikiData/WD~Lyssavirus_infection,24863584]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+  - '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
+  - '[[_Standards/WikiData/WD~central_nervous_system_viral_disease,5062121]]'
+  - '[[_Standards/WikiData/WD~Rhabdoviridae_infectious_disease,18968214]]'
+  - '[[_Standards/WikiData/WD~Lyssavirus_infection,24863584]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 maximal_incubation_period_in_humans: 1
 minimal_incubation_period_in_humans: 7
-DiseasesDB: "11148"
+DiseasesDB: 11148
 described_at_URL:
   - https://www.who.int/news-room/fact-sheets/detail/rabies
   - https://www.cdc.gov.tw/Disease/SubIndex/u5dFJL5s1K6uh0EcWVzJYQ
-ICD_9_CM: "071"
+ICD_9_CM: 071
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Infectious%20diseases%20Vaccine.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Hydrophobia%20in%20rabies.webm
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%9C%E0%AC%B3%E0%AC%BE%E0%AC%A4%E0%AC%99%E0%AD%8D%E0%AC%95.wav

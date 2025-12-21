@@ -1,7 +1,7 @@
 ---
 aliases:
-- Kale
-- Salat
+  - Kale
+  - Salat
 ---
 
 # [[Kale]] 

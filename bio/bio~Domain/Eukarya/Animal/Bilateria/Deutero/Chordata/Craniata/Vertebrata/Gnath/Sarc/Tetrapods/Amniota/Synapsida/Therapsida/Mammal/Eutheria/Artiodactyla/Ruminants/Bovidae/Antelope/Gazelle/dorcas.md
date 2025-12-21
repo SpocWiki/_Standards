@@ -1,5 +1,7 @@
 ---
-title: "Gazella dorcas"
+aliases:
+  - dorcas
+title: Gazella dorcas
 ---
 
 # Gazella dorcas 

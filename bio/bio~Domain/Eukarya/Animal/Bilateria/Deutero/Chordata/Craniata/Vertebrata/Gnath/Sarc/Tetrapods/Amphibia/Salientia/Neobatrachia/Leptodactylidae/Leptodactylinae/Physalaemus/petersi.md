@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus petersi"
+aliases:
+  - petersi
+title: Physalaemus petersi
 ---
 
 ## Phylogeny 

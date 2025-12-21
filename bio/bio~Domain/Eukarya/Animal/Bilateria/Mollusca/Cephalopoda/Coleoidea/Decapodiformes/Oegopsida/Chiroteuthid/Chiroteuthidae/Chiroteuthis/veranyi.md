@@ -1,5 +1,7 @@
 ---
-title: "Chiroteuthis veranyi"
+aliases:
+  - veranyi
+title: Chiroteuthis veranyi
 ---
 
 ## Phylogeny 

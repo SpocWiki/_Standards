@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Rhinolophoidea
 title: Rhinolophoidea
 ---
 

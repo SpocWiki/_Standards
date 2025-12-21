@@ -3,6 +3,17 @@ aliases:
   - Felis
   - Felis catus
   - domestic cat
+  - Cat
+  - ucing
+  - 貓
+  - kissa
+  - huskatt
+  - Pisică sălbatică
+  - domača mačka
+  - ꠝꠦꠇꠥꠞ
+  - السِّنَّور البرّي
+  - الضَيْوَن
+  - القط البرِّي
 has_id_wikidata: Q20980826
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Meow.ogg
 Baidu_Tieba_name:
@@ -126,7 +137,7 @@ invasive_to:
   - "[[_Standards/WikiData/WD~Australia,408]]"
   - "[[_Standards/WikiData/WD~Australian_continent,3960]]"
 taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-ITIS_TSN: "183798"
+ITIS_TSN: 183798
 taxon_common_name:
   - ucing
   - Cat
@@ -147,7 +158,7 @@ UNII: P0Z08E99JB
 short_name: F. catus
 ---
 
-# [[Cat]]
+# [[Cat]] 🐱 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~House_cat,146|WD~House_cat,146]]   
 #is_/same_as :: [[_Standards/WikiData/WD~Felis_catus,20980826]] 

@@ -5,8 +5,74 @@ aliases:
   - Protoctista
   - Protista
   - protist
-title: The other protists
+  - Protist
+  - Միաբջիջներ
+  - Պրոտոզոաներ
+  - Պրոտոզոններ
+  - Protistas
+  - Protisto
+  - Protisti
+  - პროტისტები
+  - Споралылар
+  - បឋមត្ថិកសត្វ
+  - 원생생물
+  - Protistai
+  - protisti
+  - Протисти
+  - പ്രോട്ടിസ്റ്റ
+  - प्रोटिस्टा
+  - Protister
+  - Protisten
+  - Protistar
+  - Protisty
+  - پروٹسٹ
+  - Ch'ulla kawsaykuq
+  - Protiste
+  - Протисты / Простейшие
+  - Протистар
+  - ප්රෝටිස්ටා රාජධානිය
+  - Urdjur / Protozoer / Protister
+  - அதிநுண்ணுயிரி
+  - ప్రోటిస్టా
+  - โปรติสต์
+  - Meʻamoʻuimuʻa
+  - اولانیات
+  - Protistad
+  - Sinh vật nguyên sinh
+  - פראטיסטן
+  - 原生生物
+  - 原生生物界
+  - تکیاختگان
+  - Algloomad
+  - Frumdýr
+  - Prvoky
+  - Найпростіші
+  - طلائعيات
+  - প্ৰটিষ্টা
+  - İbtidailər
+  - Prótisten
+  - Пратысты
+  - Протиста
+  - প্রোটিস্ট
+  - شانشینی پێشەنگییەکان
+  - prvoci / Protisté
+  - Protosoa
+  - Protozo / Protister / Protist
+  - Πρώτιστα
+  - Protistoj
+  - protobacteria
+  - Protistid
+  - Alkueliöt
+  - Protistes
+  - Uurdiarten
+  - Protischte
+  - פרוטיסטים
+  - प्रोटिस्ट
+  - Pwotis
+  - protiszták
+  - Véglények
 has_id_wikidata: Q10892
+title: The other protists
 taxon_common_name:
   - Միաբջիջներ
   - Պրոտոզոաներ
@@ -86,19 +152,19 @@ taxon_common_name:
   - Véglények
 NBN_System_Key: NBNSYS0100004887
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-studied_by: "[[_Standards/WikiData/WD~protistology,2467781]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+studied_by: '[[_Standards/WikiData/WD~protistology,2467781]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~grade,2612572]]"
-  - "[[_Standards/WikiData/WD~paraphyletic_group,58051350]]"
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Protist_structures,20346012]]"
+  - '[[_Standards/WikiData/WD~grade,2612572]]'
+  - '[[_Standards/WikiData/WD~paraphyletic_group,58051350]]'
+  - '[[_Standards/WikiData/WD~taxon,16521]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Protist_structures,20346012]]'
 inception: -2100000000-01-01T00:00:00Z
-subclass_of: "[[_Standards/WikiData/WD~organism,7239]]"
-taxon_rank: "[[_Standards/WikiData/WD~kingdom,36732]]"
+subclass_of: '[[_Standards/WikiData/WD~organism,7239]]'
+taxon_rank: '[[_Standards/WikiData/WD~kingdom,36732]]'
 Commons_category: Protista
 taxon_name: Protista
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Protist%20collage.jpg

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Euneomys
 title: Euneomys
 ---
 

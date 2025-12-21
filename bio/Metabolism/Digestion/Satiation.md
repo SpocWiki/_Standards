@@ -1,7 +1,7 @@
 ---
 aliases:
-- Satiety
-- Satiation
+  - Satiety
+  - Satiation
 ---
 
 ## #has_/text_of_/abstract 

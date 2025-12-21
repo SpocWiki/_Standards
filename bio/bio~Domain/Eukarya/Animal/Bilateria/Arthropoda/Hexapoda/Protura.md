@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Protura
 title: Protura
 ---
 

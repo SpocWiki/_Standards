@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Megophryidae
 title: Megophryidae
 ---
 

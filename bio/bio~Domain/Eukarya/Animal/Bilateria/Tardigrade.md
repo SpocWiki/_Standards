@@ -1,10 +1,11 @@
 ---
 aliases:
-- Tardigrada
-- Tardigrades
-- Bärtierchen
-- "water bear"
-- "moss piglet"
+  - Tardigrada
+  - Tardigrades
+  - Bärtierchen
+  - water bear
+  - moss piglet
+  - Tardigrade
 title: Tardigrada
 ---
 

@@ -1,20 +1,22 @@
 ---
+aliases:
+  - Ayurveda
 has_id_wikidata: Q132325
-subclass_of: "[[_Standards/WikiData/WD~alternative_medicine,188504]]"
+subclass_of: '[[_Standards/WikiData/WD~alternative_medicine,188504]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~crenotherapy,1727131]]"
-  - "[[_Standards/WikiData/WD~alternative_medicine,31338769]]"
-  - "[[_Standards/WikiData/WD~healing_knowledge,20532]]"
-part_of: "[[_Standards/WikiData/WD~traditional_Asian_medicine,3439913]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Ayurveda,25976856]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Ayurveda,27115626]]"
-practiced_by: "[[_Standards/WikiData/WD~Ayurvedacharya,110898124]]"
+  - '[[_Standards/WikiData/WD~crenotherapy,1727131]]'
+  - '[[_Standards/WikiData/WD~alternative_medicine,31338769]]'
+  - '[[_Standards/WikiData/WD~healing_knowledge,20532]]'
+part_of: '[[_Standards/WikiData/WD~traditional_Asian_medicine,3439913]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Ayurveda,25976856]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Ayurveda,27115626]]'
+practiced_by: '[[_Standards/WikiData/WD~Ayurvedacharya,110898124]]'
 social_media_followers: 16119
 subreddit: Ayurveda
 Commons_category: Ayurveda
 Colon_Classification: LB
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ayurveda.jpg
-P8189: "987007560491105171"
+P8189: 987007560491105171
 MeSH_tree_code:
   - E02.190.488.515
   - I01.076.201.450.654.515

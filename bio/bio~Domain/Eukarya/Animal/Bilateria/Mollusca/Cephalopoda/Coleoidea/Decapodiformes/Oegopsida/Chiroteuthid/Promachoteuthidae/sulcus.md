@@ -1,5 +1,7 @@
 ---
-title: "Promachoteuthis sulcus"
+aliases:
+  - sulcus
+title: Promachoteuthis sulcus
 ---
 
 ## Phylogeny 

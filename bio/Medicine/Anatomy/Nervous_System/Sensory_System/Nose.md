@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Nose
 has_id_wikidata: Q7363
 has_part_s_:
   - "[[_Standards/WikiData/WD~nasal_cavity,156104]]"
@@ -28,7 +30,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828723,22828723]]"
 instance_of: "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
-OmegaWiki_Defined_Meaning: "5471"
+OmegaWiki_Defined_Meaning: 5471
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dog%20nose.jpg
 Commons_gallery: Nose
 TA98_Latin_term: nasus
@@ -41,7 +43,7 @@ MeSH_tree_code:
 UMLS_CUI: C0028429
 ---
 
-# [[Nose]] 
+# [[Nose]] 👃 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Nose,7363|WD~Nose,7363]] 
 

@@ -1,23 +1,25 @@
 ---
-has_id_wikidata: Q165115
 aliases:
   - horse family
+  - Equidae
+  - hestefamilien
+has_id_wikidata: Q165115
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 parent_taxon:
-  - "[[_Standards/WikiData/WD~Hippomorpha,2292292]]"
-  - "[[_Standards/WikiData/WD~Equoidea,21445554]]"
-has_list: "[[_Standards/WikiData/WD~glossary_of_equestrian_terms,2950573]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Taxonomy_Equidae,13218338]]"
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-OmegaWiki_Defined_Meaning: "1335"
-ITIS_TSN: "180688"
+  - '[[_Standards/WikiData/WD~Hippomorpha,2292292]]'
+  - '[[_Standards/WikiData/WD~Equoidea,21445554]]'
+has_list: '[[_Standards/WikiData/WD~glossary_of_equestrian_terms,2950573]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Equidae,13218338]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+OmegaWiki_Defined_Meaning: 1335
+ITIS_TSN: 180688
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Equus%20species.jpg
 EPPO_Code: 1EQUUF
 MeSH_tree_code: B01.050.150.900.649.313.984.235

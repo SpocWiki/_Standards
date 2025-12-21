@@ -1,5 +1,7 @@
 ---
-title: "Bathyteuthis bacidifera"
+aliases:
+  - bacidifera
+title: Bathyteuthis bacidifera
 ---
 
 ## Phylogeny 

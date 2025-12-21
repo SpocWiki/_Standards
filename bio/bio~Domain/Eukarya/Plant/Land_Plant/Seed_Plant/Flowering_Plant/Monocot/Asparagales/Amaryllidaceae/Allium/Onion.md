@@ -1,10 +1,10 @@
 ---
 aliases:
   - Onion
-  - Allium cepa 
-  - bulb onion 
+  - Allium cepa
+  - bulb onion
   - common onion
-has_id_wikidata:
+has_id_wikidata: ''
 ---
 
 # [[Onion]] 

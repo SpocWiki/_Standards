@@ -1,5 +1,7 @@
 ---
-title: "Magnapinna talismani"
+aliases:
+  - talismani
+title: Magnapinna talismani
 ---
 
 ## Phylogeny 

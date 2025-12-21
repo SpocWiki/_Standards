@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Alveolates
 title: Alveolates
 ---
 

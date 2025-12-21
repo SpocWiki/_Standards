@@ -4,55 +4,56 @@ aliases:
   - Claudius Galenus
   - Κλαύδιος Γαληνός
   - Galen of Pergamon
+  - Galen
 has_id_wikidata: Q8778
-gens: "[[_Standards/WikiData/WD~Aelia_gens,380806]]"
+gens: '[[_Standards/WikiData/WD~Aelia_gens,380806]]'
 occupation:
-  - "[[_Standards/WikiData/WD~physician_writer,551835]]"
-  - "[[_Standards/WikiData/WD~surgeon,774306]]"
-  - "[[_Standards/WikiData/WD~biologist,864503]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~neuroscientist,6337803]]"
-  - "[[_Standards/WikiData/WD~physician,39631]]"
+  - '[[_Standards/WikiData/WD~physician_writer,551835]]'
+  - '[[_Standards/WikiData/WD~surgeon,774306]]'
+  - '[[_Standards/WikiData/WD~biologist,864503]]'
+  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+  - '[[_Standards/WikiData/WD~neuroscientist,6337803]]'
+  - '[[_Standards/WikiData/WD~physician,39631]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Q28200872,28200872]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~Q34096684,34096684]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Q28200872,28200872]]'
+  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+  - '[[_Standards/WikiData/WD~Q34096684,34096684]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
 student_of:
-  - "[[_Standards/WikiData/WD~Albinus,657941]]"
-  - "[[_Standards/WikiData/WD~Satyros,1295204]]"
-  - "[[_Standards/WikiData/WD~Aelianus_Meccius,4687699]]"
-father: "[[_Standards/WikiData/WD~Aelius_Nicon,1218142]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-nomen_gentilicium: "[[_Standards/WikiData/WD~Claudius,30006705]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+  - '[[_Standards/WikiData/WD~Albinus,657941]]'
+  - '[[_Standards/WikiData/WD~Satyros,1295204]]'
+  - '[[_Standards/WikiData/WD~Aelianus_Meccius,4687699]]'
+father: '[[_Standards/WikiData/WD~Aelius_Nicon,1218142]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+nomen_gentilicium: '[[_Standards/WikiData/WD~Claudius,30006705]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_birth: 0129-09-01T00:00:00Z
-different_from: "[[_Standards/WikiData/WD~Pseudo_Galen,95721323]]"
-cognomen: "[[_Standards/WikiData/WD~Galenus,113976282]]"
+different_from: '[[_Standards/WikiData/WD~Pseudo_Galen,95721323]]'
+cognomen: '[[_Standards/WikiData/WD~Galenus,113976282]]'
 praenomen: http://www.wikidata.org/.well-known/genid/d9546d00bacd8df427bba399d36dbcca
 field_of_work:
-  - "[[_Standards/WikiData/WD~anatomy,514]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~logic,8078]]"
-  - "[[_Standards/WikiData/WD~medicine,11190]]"
-residence: "[[_Standards/WikiData/WD~Pergamon,18986]]"
-place_of_birth: "[[_Standards/WikiData/WD~Pergamon,18986]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~Rome,220]]"
-writing_language: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
-present_in_work: "[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]"
+  - '[[_Standards/WikiData/WD~anatomy,514]]'
+  - '[[_Standards/WikiData/WD~philosophy,5891]]'
+  - '[[_Standards/WikiData/WD~logic,8078]]'
+  - '[[_Standards/WikiData/WD~medicine,11190]]'
+residence: '[[_Standards/WikiData/WD~Pergamon,18986]]'
+place_of_birth: '[[_Standards/WikiData/WD~Pergamon,18986]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~Rome,220]]'
+writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+present_in_work: '[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]'
 Wolfram_Language_entity_code: Entity["Concept", "Galen::j8c78"]
 Krugosvet_article: nauka_i_tehnika/biologiya/GALEN.html
 Libris_URI: vs688b4d1lwrknr
@@ -69,7 +70,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Galenus.jpg
 described_at_URL:
   - http://www.digiporta.net/index.php?id=393203015
   - http://www.digiporta.net/index.php?id=535006676
-ISNI: "0000000121302401"
+ISNI: 0000000121302401
 ---
 
 # [[Galen]] 

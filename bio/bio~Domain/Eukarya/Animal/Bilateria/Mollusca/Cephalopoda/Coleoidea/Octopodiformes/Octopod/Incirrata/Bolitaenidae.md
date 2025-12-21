@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bolitaenidae
 title: Bolitaenidae
 ---
 

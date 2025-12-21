@@ -1,6 +1,22 @@
 ---
 aliases:
   - Rotwild
+  - Red_Deer
+  - Red Deer
+  - venáu
+  - West European red deer
+  - western red deer
+  - Cerf Élaphe
+  - cerf rouge
+  - edelhert
+  - cerb comun
+  - navadni jelen
+  - ἔλαφος
+  - red deer
+  - hjort
+  - Edelhirsch
+  - Rothirsch
+  - Ciervo
 has_id_wikidata: Q79794
 GenBank_assembly_accession_number:
   - GCA_910593805.1
@@ -37,8 +53,8 @@ taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 longest_observed_lifespan: 31.5
 gestation_period: 33.5
-OmegaWiki_Defined_Meaning: "858"
-ITIS_TSN: "180695"
+OmegaWiki_Defined_Meaning: 858
+ITIS_TSN: 180695
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Red%20deer%20%28Cervus%20elaphus%29%20hind.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Cervus%20elaphus%20Luc%20Viatour%206.jpg
@@ -54,7 +70,7 @@ UNII: AE45O9AR61
 EPPO_Code: CERVEL
 ---
 
-# [[Red_Deer]] 
+# [[Red_Deer]] 🦌 
 
 #is_/same_as :: [[WD~Red_deer,79794]] 
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Lepilemur
 title: Lepilemur
 ---
 

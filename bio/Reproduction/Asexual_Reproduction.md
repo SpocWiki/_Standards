@@ -1,22 +1,25 @@
 ---
+aliases:
+  - Asexual_Reproduction
+  - Asexual Reproduction
 has_id_wikidata: Q173432
-opposite_of: "[[_Standards/WikiData/WD~sexual_reproduction,182353]]"
-different_from: "[[_Standards/WikiData/WD~asexuality,724351]]"
+opposite_of: '[[_Standards/WikiData/WD~sexual_reproduction,182353]]'
+different_from: '[[_Standards/WikiData/WD~asexuality,724351]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~biological_process,2996394]]"
-  - "[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803]]"
+  - '[[_Standards/WikiData/WD~biological_process,2996394]]'
+  - '[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-has_effect: "[[_Standards/WikiData/WD~clone,131727693]]"
-subclass_of: "[[_Standards/WikiData/WD~reproduction,11990]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+has_effect: '[[_Standards/WikiData/WD~clone,131727693]]'
+subclass_of: '[[_Standards/WikiData/WD~reproduction,11990]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Binary%20Fission.png
 exact_match: http://purl.obolibrary.org/obo/GO_0019954
 Stack_Exchange_tag: https://biology.stackexchange.com/tags/asexual-reproduction
-U_S_National_Archives_Identifier: "10644054"
-P8189: "987007531630105171"
+U_S_National_Archives_Identifier: 10644054
+P8189: 987007531630105171
 Commons_category: Asexual reproduction
 UMLS_CUI: C0035152
 Colon_Classification: G:676

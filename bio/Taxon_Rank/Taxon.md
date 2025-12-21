@@ -8,16 +8,16 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - taxon
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_taxon Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

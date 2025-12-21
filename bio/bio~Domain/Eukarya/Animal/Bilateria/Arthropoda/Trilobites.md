@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Trilobites
 title: Trilobites
 ---
 

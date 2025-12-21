@@ -3,21 +3,23 @@ aliases:
   - abdomen examination
   - abdomen exam
   - is_an_abdomen_examination
+  - Abdomen_Exam
+  - Abdomen Exam
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - abdomen
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_abdomen Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

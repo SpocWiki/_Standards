@@ -2,6 +2,7 @@
 aliases:
   - Snake
   - Schlange
+has_id_wikidata: Q2102
 Commons_category: Serpentes
 Commons_gallery: Serpentes
 described_at_URL: https://neal.fun/earth-reviews/snakes
@@ -18,7 +19,6 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 different_from: "[[_Standards/WikiData/WD~Wąż,9381354]]"
 hashtag: snake
-has_id_wikidata: Q2102
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Snakes%20Diversity.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/A%20snake%20coiled%20in%20the%20cavity%20of%20a%20tree.jpg
@@ -27,7 +27,7 @@ Krugosvet_article: nauka_i_tehnika/biologiya/ZMEI.html
 means_of_locomotion: "[[_Standards/WikiData/WD~snake_locomotion,29378923]]"
 MeSH_tree_code: B01.050.150.900.833.672
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Snakes%20Diversity.jpg
-OmegaWiki_Defined_Meaning: "3388"
+OmegaWiki_Defined_Meaning: 3388
 studied_in: "[[_Standards/WikiData/WD~ophiology,577555]]"
 subreddit:
   - snakes
@@ -43,7 +43,7 @@ IMDb_keyword: snake
 hashtag_: snake
 ---
 
-# [[Snake]] 
+# [[Snake]] 🐍 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Snake,2102|WD~Snake,2102]] 
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Raphicerus
 title: Raphicerus
 ---
 

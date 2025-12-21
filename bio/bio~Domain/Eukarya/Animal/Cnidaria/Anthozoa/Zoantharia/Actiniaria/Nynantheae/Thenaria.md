@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Thenaria
 title: Thenaria
 ---
 

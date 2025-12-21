@@ -1,5 +1,7 @@
 ---
-title: "Australiteuthis aldrichi"
+aliases:
+  - Australiteuthidae
+title: Australiteuthis aldrichi
 ---
 
 ## Phylogeny 

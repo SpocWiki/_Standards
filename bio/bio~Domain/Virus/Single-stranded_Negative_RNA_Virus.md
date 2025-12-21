@@ -1,5 +1,8 @@
 ---
-title: "Single-stranded Negative Sense RNA Virus"
+aliases:
+  - Single-stranded_Negative_RNA_Virus
+  - Single-stranded Negative RNA Virus
+title: Single-stranded Negative Sense RNA Virus
 ---
 
 ## Phylogeny 

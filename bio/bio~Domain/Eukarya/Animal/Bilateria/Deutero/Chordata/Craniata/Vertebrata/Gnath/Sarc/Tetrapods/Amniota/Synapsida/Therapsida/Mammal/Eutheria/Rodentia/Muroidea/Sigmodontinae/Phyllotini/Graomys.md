@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Graomys
 title: Graomys
 ---
 

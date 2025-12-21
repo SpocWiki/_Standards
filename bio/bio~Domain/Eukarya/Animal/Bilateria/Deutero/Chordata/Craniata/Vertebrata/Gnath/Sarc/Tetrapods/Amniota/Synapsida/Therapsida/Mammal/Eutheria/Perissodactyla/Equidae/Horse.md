@@ -1,9 +1,14 @@
 ---
-3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20Horse%20smooth.stl
 aliases:
   - Pferd
   - equus
   - Equus ferus caballus
+  - Horse
+  - omid
+  - horse
+  - caballu
+has_id_wikidata: Q726
+3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20Horse%20smooth.stl
 Archive_of_Our_Own_tag: Horses
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Mares-Prefer-the-Voices-of-Highly-Fertile-Stallions-pone.0118468.s001.oga
 Colon_Classification: KX442
@@ -27,7 +32,6 @@ has_characteristic:
   - "[[_Standards/WikiData/WD~impulsion,56882]]"
 has_effect:
   - "[[_Standards/WikiData/WD~allergy_to_horses,82747771]]"
-has_id_wikidata: Q726
 has_part_s_:
   - "[[_Standards/WikiData/WD~fur,197204]]"
   - "[[_Standards/WikiData/WD~stallion,757833]]"
@@ -112,7 +116,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/20120616Domaene%20Mech
 Wolfram_Language_entity_code: Entity["Concept", "EquusCaballus::x93n2"]
 ---
 
-# [[Horse]] 
+# [[Horse]] 🐎 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Horse,726|WD~Horse,726]] 
 

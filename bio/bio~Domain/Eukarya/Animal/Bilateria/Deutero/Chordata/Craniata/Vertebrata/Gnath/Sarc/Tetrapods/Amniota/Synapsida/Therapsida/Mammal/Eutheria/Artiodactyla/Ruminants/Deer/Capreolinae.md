@@ -1,11 +1,17 @@
 ---
 aliases:
   - telemetacarpal deer
+  - Capreolinae
+  - Καπρεολώδη
+  - Kapreolenoj
+  - Peurat
+  - varsinaiset hirvet
+  - Capreolíneos
 has_id_wikidata: Q118722
-taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Cervidae,23390]]"
-ITIS_TSN: "552369"
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Cervidae,23390]]'
+ITIS_TSN: 552369
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mule%20deer%20in%20Bryce%20NP.jpg
 Commons_category: Capreolinae
 taxon_name: Capreolinae

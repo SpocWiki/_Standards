@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus olfersii"
+aliases:
+  - olfersii
+title: Physalaemus olfersii
 ---
 
 ## Phylogeny 

@@ -1,17 +1,20 @@
 ---
-title: Asparagales
+aliases:
+  - Asparagales
+  - 天门冬目
 has_id_wikidata: Q26229
-parent_taxon: "[[_Standards/WikiData/WD~monocots,78961]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-ITIS_TSN: "897479"
-OmegaWiki_Defined_Meaning: "358558"
+title: Asparagales
+parent_taxon: '[[_Standards/WikiData/WD~monocots,78961]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+ITIS_TSN: 897479
+OmegaWiki_Defined_Meaning: 358558
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Asperge%20in%20bloei%20Asparagus%20officinalis.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Illustration%20Asparagus%20officinalis0b.jpg
 PAEnflowered_taxon_URL: https://www.paenflowered.org/apgii/asparagales
 EPPO_Code: 1ASGO
-P8189: "987007530396505171"
+P8189: 987007530396505171
 Commons_gallery: Asparagales
 Commons_category: Asparagales
 taxon_name: Asparagales

@@ -1,6 +1,13 @@
 ---
 aliases:
   - Phascolarctos
+  - Koala
+  - каала
+  - Aschgrauer Beutelbär
+  - Beutelbär
+  - Koalabär
+  - koala
+  - cóála
 has_id_wikidata: Q36101
 GenBank_assembly_accession_number:
   - GCA_003287225.2
@@ -57,9 +64,9 @@ speed:
 longest_observed_lifespan: 22
 gestation_period: 37
 main_food_source: "[[_Standards/WikiData/WD~leaf,33971]]"
-OmegaWiki_Defined_Meaning: "1183212"
+OmegaWiki_Defined_Meaning: 1183212
 social_media_followers: 35109
-ITIS_TSN: "552677"
+ITIS_TSN: 552677
 short_name: P. cinereus
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Koala%20climbing%20tree.jpg
 subreddit: koalas
@@ -74,7 +81,7 @@ taxon_author_citation: (Goldfuss, 1817)
 Unicode_character: 🐨
 ---
 
-# [[Koala]] 
+# [[Koala]]  🐨
 
 #is_/same_as :: [[WD~Koala,36101]] 
 

@@ -1,21 +1,22 @@
 ---
 aliases:
   - Neid
+  - Envy
 has_id_wikidata: Q188739
 instance_of:
-  - "[[_Standards/WikiData/WD~seven_deadly_sins,166502]]"
-  - "[[_Standards/WikiData/WD~negative_emotion,60539481]]"
-opposite_of: "[[_Standards/WikiData/WD~kindness,488085]]"
-subclass_of: "[[_Standards/WikiData/WD~desire,775842]]"
+  - '[[_Standards/WikiData/WD~seven_deadly_sins,166502]]'
+  - '[[_Standards/WikiData/WD~negative_emotion,60539481]]'
+opposite_of: '[[_Standards/WikiData/WD~kindness,488085]]'
+subclass_of: '[[_Standards/WikiData/WD~desire,775842]]'
 different_from:
-  - "[[_Standards/WikiData/WD~jealousy,6545811]]"
-  - "[[_Standards/WikiData/WD~Q20397722,20397722]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~envy,10423642]]"
-described_by_source: "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-has_part_s_: "[[_Standards/WikiData/WD~envy_in_Islam,126616316]]"
+  - '[[_Standards/WikiData/WD~jealousy,6545811]]'
+  - '[[_Standards/WikiData/WD~Q20397722,20397722]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~envy,10423642]]'
+described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+has_part_s_: '[[_Standards/WikiData/WD~envy_in_Islam,126616316]]'
 Commons_category: Envy
-OmegaWiki_Defined_Meaning: "1086952"
+OmegaWiki_Defined_Meaning: 1086952
 image: http://commons.wikimedia.org/wiki/Special:FilePath/005.Cain%20Slays%20Abel.jpg
 PhilPapers_topic: envy
 ---

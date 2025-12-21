@@ -2,24 +2,26 @@
 aliases:
   - General practitioner
   - Allgemeinarzt
+  - General_Practitioner
+  - General Practitioner
 has_id_wikidata: Q6500773
 field_of_this_occupation:
-  - "[[_Standards/WikiData/WD~primary_health_care,623543]]"
-  - "[[_Standards/WikiData/WD~primary_care,3259956]]"
-  - "[[_Standards/WikiData/WD~family_medicine,3505712]]"
-  - "[[_Standards/WikiData/WD~general_practice,11607623]]"
-  - "[[_Standards/WikiData/WD~general_medical_practice_activities,29585987]]"
-different_from: "[[_Standards/WikiData/WD~district_doctor,10474533]]"
+  - '[[_Standards/WikiData/WD~primary_health_care,623543]]'
+  - '[[_Standards/WikiData/WD~primary_care,3259956]]'
+  - '[[_Standards/WikiData/WD~family_medicine,3505712]]'
+  - '[[_Standards/WikiData/WD~general_practice,11607623]]'
+  - '[[_Standards/WikiData/WD~general_medical_practice_activities,29585987]]'
+different_from: '[[_Standards/WikiData/WD~district_doctor,10474533]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~healthcare_provider,23905463]]"
-  - "[[_Standards/WikiData/WD~primary_care_physician,55379489]]"
-  - "[[_Standards/WikiData/WD~physician,39631]]"
+  - '[[_Standards/WikiData/WD~healthcare_provider,23905463]]'
+  - '[[_Standards/WikiData/WD~primary_care_physician,55379489]]'
+  - '[[_Standards/WikiData/WD~physician,39631]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140]]"
-  - "[[_Standards/WikiData/WD~profession,28640]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~general_practitioner,118154409]]"
-ISCO_08_occupation_class: "2211"
-OmegaWiki_Defined_Meaning: "375841"
+  - '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140]]'
+  - '[[_Standards/WikiData/WD~profession,28640]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~general_practitioner,118154409]]'
+ISCO_08_occupation_class: 2211
+OmegaWiki_Defined_Meaning: 375841
 female_form_of_label:
   - Hausärztin
   - družinska zdravnica
@@ -35,7 +37,7 @@ female_form_of_label:
   - médica de família
   - сімейна лікарка
 short_name: GP
-SBC_2010_occupation_code: "870210"
+SBC_2010_occupation_code: 870210
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Alcal%C3%A1%20de%20Henares%20%28RPS%2015-09-2008%29%20Centro%20de%20salud%20Miguel%20de%20Cervantes.jpg
 SOC_Code_2010_: 29-1062
 UMLS_CUI: C0017319

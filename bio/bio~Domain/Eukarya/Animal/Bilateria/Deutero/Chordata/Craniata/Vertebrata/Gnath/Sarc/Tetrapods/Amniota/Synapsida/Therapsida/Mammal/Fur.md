@@ -3,34 +3,35 @@ aliases:
   - Fell
   - Pelt
   - Pelz
+  - Fur
 has_id_wikidata: Q197204
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+  - '[[../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~hide,3291230]]"
-  - "[[_Standards/WikiData/WD~fur,15401728]]"
-  - "[[_Standards/WikiData/WD~fur,108696356]]"
+  - '[[_Standards/WikiData/WD~hide,3291230]]'
+  - '[[_Standards/WikiData/WD~fur,15401728]]'
+  - '[[_Standards/WikiData/WD~fur,108696356]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~hide,3291230]]"
-  - "[[_Standards/WikiData/WD~skin,1074]]"
-part_of: "[[_Standards/WikiData/WD~horse,726]]"
-OmegaWiki_Defined_Meaning: "1590"
+  - '[[_Standards/WikiData/WD~hide,3291230]]'
+  - '[[_Standards/WikiData/WD~skin,1074]]'
+part_of: '[[_Standards/WikiData/WD~horse,726]]'
+OmegaWiki_Defined_Meaning: 1590
 Dewey_Decimal_Classification:
-  - "685"
-  - "675"
-  - "639.117"
-  - "675.3"
-  - "636.97"
-  - "745.593"
+  - 685
+  - 675
+  - 639.117
+  - 675.3
+  - 636.97
+  - 745.593
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fur%20crossfox.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Fell.ogg
 Commons_category: Furs

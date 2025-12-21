@@ -1,6 +1,7 @@
 ---
 aliases:
   - Kreativität
+  - Creativity
 has_id_wikidata: Q170658
 ---
 

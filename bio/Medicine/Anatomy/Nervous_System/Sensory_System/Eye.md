@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Eye
+has_id_wikidata: Q7364
 Baidu_Tieba_name: 眼睛
 Colon_Classification: L185
 Commons_category: Eyes
@@ -26,7 +29,6 @@ different_from:
   - "[[_Standards/WikiData/WD~Ain_El_Delb,4697341]]"
 Gujarati_Vishwakosh_entry: આંખ
 has_characteristic: "[[_Standards/WikiData/WD~eye_color,23786]]"
-has_id_wikidata: Q7364
 has_part_s_:
   - "[[_Standards/WikiData/WD~sclera,193107]]"
   - "[[_Standards/WikiData/WD~choroid,271762]]"
@@ -59,7 +61,7 @@ Unicode_character:
   - 👁
 ---
 
-# [[Eye]] 
+# [[Eye]] 👁 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Eye,7364|WD~Eye,7364]] 
 

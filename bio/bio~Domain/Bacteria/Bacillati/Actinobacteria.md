@@ -1,7 +1,7 @@
 ---
 aliases:
-- Actinomycetota
-- Actinobacteria
+  - Actinomycetota
+  - Actinobacteria
 title: Actinobacteria
 ---
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sigmodontinae
 title: Sigmodontinae
 ---
 

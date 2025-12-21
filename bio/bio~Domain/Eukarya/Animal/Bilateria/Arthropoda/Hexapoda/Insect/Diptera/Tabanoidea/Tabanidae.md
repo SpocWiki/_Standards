@@ -5,24 +5,29 @@ aliases:
   - Horse fly
   - deer fly
   - Bremse
+  - Tabanidae
+  - klegg
+  - Horse and Deer Flies
+  - dazen
+  - obadi
 has_id_wikidata: Q228241
 different_from:
-  - "[[_Standards/WikiData/WD~Musca_domestica,166111]]"
-  - "[[_Standards/WikiData/WD~brake,1534839]]"
+  - '[[_Standards/WikiData/WD~Musca_domestica,166111]]'
+  - '[[_Standards/WikiData/WD~brake,1534839]]'
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Checklist_of_Diptera_of_the_Czech_Republic_and_Slovakia,110655761]]"
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Checklist_of_Diptera_of_the_Czech_Republic_and_Slovakia,110655761]]'
 parent_taxon:
-  - "[[_Standards/WikiData/WD~Tabanomorpha,855002]]"
-  - "[[../../../../../../../../../../WikiData/WD~Tabanoidea,1617308]]"
-diel_cycle: "[[_Standards/WikiData/WD~diurnality,4284186]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "130934"
+  - '[[_Standards/WikiData/WD~Tabanomorpha,855002]]'
+  - '[[../../../../../../../../../../WikiData/WD~Tabanoidea,1617308]]'
+diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 130934
 taxon_common_name:
   - klegg
   - Horse and Deer Flies

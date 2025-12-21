@@ -1,26 +1,27 @@
 ---
 aliases:
   - Fortpflanzung
+  - Reproduction
 has_id_wikidata: Q11990
-product_or_material_produced: "[[_Standards/WikiData/WD~offspring,239526]]"
+product_or_material_produced: '[[_Standards/WikiData/WD~offspring,239526]]'
 described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-has_effect: "[[_Standards/WikiData/WD~procreation,1899900]]"
+  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+has_effect: '[[_Standards/WikiData/WD~procreation,1899900]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~plant_reproduction,2725616]]"
-  - "[[_Standards/WikiData/WD~animal_reproduction,3427333]]"
-  - "[[_Standards/WikiData/WD~human_reproduction,3427336]]"
+  - '[[_Standards/WikiData/WD~plant_reproduction,2725616]]'
+  - '[[_Standards/WikiData/WD~animal_reproduction,3427333]]'
+  - '[[_Standards/WikiData/WD~human_reproduction,3427336]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~biological_process,2996394]]"
-  - "[[_Standards/WikiData/WD~creation,11398090]]"
+  - '[[_Standards/WikiData/WD~biological_process,2996394]]'
+  - '[[_Standards/WikiData/WD~creation,11398090]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~biological_process,2996394]]"
-  - "[[_Standards/WikiData/WD~type_of_process,116505632]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-has_characteristic: "[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803]]"
-OmegaWiki_Defined_Meaning: "3188"
+  - '[[_Standards/WikiData/WD~biological_process,2996394]]'
+  - '[[_Standards/WikiData/WD~type_of_process,116505632]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+has_characteristic: '[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803]]'
+OmegaWiki_Defined_Meaning: 3188
 Commons_category: Reproduction
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%9C%E0%A4%A8%E0%A4%A8.wav

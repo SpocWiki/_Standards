@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus kroyeri"
+aliases:
+  - kroyeri
+title: Physalaemus kroyeri
 ---
 
 ## Phylogeny 

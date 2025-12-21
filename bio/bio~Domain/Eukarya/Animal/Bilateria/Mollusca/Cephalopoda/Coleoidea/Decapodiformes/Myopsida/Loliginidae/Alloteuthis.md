@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Alloteuthis
 title: Alloteuthis
 ---
 

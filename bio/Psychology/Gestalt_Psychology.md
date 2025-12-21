@@ -1,12 +1,14 @@
 ---
 aliases:
   - Gestalt psychology
+  - Gestalt_Psychology
+  - Gestalt Psychology
 has_id_wikidata: Q272021
-has_use: "[[_Standards/WikiData/WD~user_interface_design,135707]]"
-practiced_by: "[[_Standards/WikiData/WD~Gestalt_psychologists,5674506]]"
-part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-subclass_of: "[[_Standards/WikiData/WD~psychology,9418]]"
+has_use: '[[_Standards/WikiData/WD~user_interface_design,135707]]'
+practiced_by: '[[_Standards/WikiData/WD~Gestalt_psychologists,5674506]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+subclass_of: '[[_Standards/WikiData/WD~psychology,9418]]'
 Commons_category: Gestalt
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Invariance.jpg

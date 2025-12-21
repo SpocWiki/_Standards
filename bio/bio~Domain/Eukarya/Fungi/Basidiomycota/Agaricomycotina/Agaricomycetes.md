@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Agaricomycetes
 title: Agaricomycetes
 ---
 

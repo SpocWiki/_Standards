@@ -3,27 +3,45 @@ aliases:
   - Komodowaran
   - Komodo dragon (Varanus komodoensis), also known as the Komodo monitor
   - Varanus_komodoensis
+  - Komodo_Dragon
+  - Komodo Dragon
+  - Ora
+  - العظاية التنين
+  - تنين الكمودو
+  - تنين كومودو
+  - ورل كومودو
+  - dragón de komodo
+  - Komododrache
+  - Komodo dragon
+  - Komodo Monitor
+  - Varano de Komodo
+  - Dragon de Komodo
+  - Dragon des Komodos
+  - Varan de Komodo
+  - crocodilo-da-terra
+  - dragão-de-komodo
+  - komodoški varan
 has_id_wikidata: Q4504
-Dewey_Decimal_Classification: "597.95968"
-parent_taxon: "[[_Standards/WikiData/WD~Varanus,81228]]"
-named_after: "[[_Standards/WikiData/WD~Komodo_Island,107640]]"
-main_food_source: "[[_Standards/WikiData/WD~carrion,202994]]"
-CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
+Dewey_Decimal_Classification: 597.95968
+parent_taxon: '[[_Standards/WikiData/WD~Varanus,81228]]'
+named_after: '[[_Standards/WikiData/WD~Komodo_Island,107640]]'
+main_food_source: '[[_Standards/WikiData/WD~carrion,202994]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
 color:
-  - "[[_Standards/WikiData/WD~dark_green,22963901]]"
-  - "[[_Standards/WikiData/WD~black,23445]]"
-  - "[[_Standards/WikiData/WD~grey,42519]]"
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Endangered_status,96377276]]"
+  - '[[_Standards/WikiData/WD~dark_green,22963901]]'
+  - '[[_Standards/WikiData/WD~black,23445]]'
+  - '[[_Standards/WikiData/WD~grey,42519]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Endangered_status,96377276]]'
 start_time: -3800000-01-01T00:00:00Z
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~tooth,553]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~East_Nusa_Tenggara,5061]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~tooth,553]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~East_Nusa_Tenggara,5061]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 maximum_frequency_of_audible_sound: 2000
 speed: 20
 life_expectancy: 30
 minimum_frequency_of_audible_sound: 400
-endemic_to: "[[_Standards/WikiData/WD~Indonesia,252]]"
+endemic_to: '[[_Standards/WikiData/WD~Indonesia,252]]'
 mass: 70
 length: 1.5
 taxon_common_name:
@@ -45,7 +63,7 @@ taxon_common_name:
   - crocodilo-da-terra
   - dragão-de-komodo
   - komodoški varan
-ITIS_TSN: "202168"
+ITIS_TSN: 202168
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Komodo%20dragons%20video.ogv
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Komodo%20dragon%20distribution.gif
 image:

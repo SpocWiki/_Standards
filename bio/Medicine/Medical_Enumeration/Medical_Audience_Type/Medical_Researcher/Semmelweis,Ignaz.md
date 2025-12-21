@@ -1,32 +1,32 @@
 ---
 aliases:
-- "Ignaz Philipp Semmelweis"
-- "Ignaz Semmelweis"
-- "Semmelweis Ignác Fülöp"
-- Semmelweis,Ignaz
+  - Ignaz Philipp Semmelweis
+  - Ignaz Semmelweis
+  - Semmelweis Ignác Fülöp
+  - Semmelweis,Ignaz
 confidential: private
 cssclasses:
-- private
-- note
+  - private
+  - note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: 
+expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 has_time_started: 2025-07-20
 isDeleted: false
 isReadOnly: false
 keywords: Semmelweis,Ignaz
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle: Semmelweis,Ignaz
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-- Semmelweis,Ignaz
-- excalidraw
+  - Semmelweis,Ignaz
+  - excalidraw
 title: Semmelweis,Ignaz
 type: private_note
 ---

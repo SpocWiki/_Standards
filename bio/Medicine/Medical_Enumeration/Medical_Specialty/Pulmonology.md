@@ -6,16 +6,16 @@ aliases:
   - pneumonology
 has_id_wikidata: Q203337
 subclass_of:
-  - "[[_Standards/WikiData/WD~pediatrics,123028]]"
-  - "[[_Standards/WikiData/WD~internal_medicine,11180]]"
+  - '[[_Standards/WikiData/WD~pediatrics,123028]]'
+  - '[[_Standards/WikiData/WD~internal_medicine,11180]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~medical_specialty,930752]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-has_part_s_: "[[_Standards/WikiData/WD~phthisiology,2624918]]"
-practiced_by: "[[_Standards/WikiData/WD~pulmonologist,24017632]]"
-part_of: "[[_Standards/WikiData/WD~internal_medicine,11180]]"
-All_Science_Journal_Classification_Codes: "2740"
-Basisklassifikation: "44.84"
+  - '[[_Standards/WikiData/WD~medical_specialty,930752]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+has_part_s_: '[[_Standards/WikiData/WD~phthisiology,2624918]]'
+practiced_by: '[[_Standards/WikiData/WD~pulmonologist,24017632]]'
+part_of: '[[_Standards/WikiData/WD~internal_medicine,11180]]'
+All_Science_Journal_Classification_Codes: 2740
+Basisklassifikation: 44.84
 UMLS_CUI: C0034060
 MeSH_tree_code: H02.403.429.675
 Commons_category: Pulmonology

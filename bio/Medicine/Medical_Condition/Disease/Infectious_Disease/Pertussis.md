@@ -2,43 +2,44 @@
 aliases:
   - Whooping cough
   - Keuchhusten
+  - Pertussis
 has_id_wikidata: Q134859
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~clarithromycin,118551]]"
-  - "[[_Standards/WikiData/WD~azithromycin,165399]]"
-  - "[[_Standards/WikiData/WD~erythromycin,213511]]"
-  - "[[_Standards/WikiData/WD~guaifenesin,420682]]"
-  - "[[_Standards/WikiData/WD~demeclocycline,2736402]]"
+  - '[[_Standards/WikiData/WD~clarithromycin,118551]]'
+  - '[[_Standards/WikiData/WD~azithromycin,165399]]'
+  - '[[_Standards/WikiData/WD~erythromycin,213511]]'
+  - '[[_Standards/WikiData/WD~guaifenesin,420682]]'
+  - '[[_Standards/WikiData/WD~demeclocycline,2736402]]'
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~vomiting,127076]]"
-  - "[[_Standards/WikiData/WD~apnea,754424]]"
-  - "[[_Standards/WikiData/WD~runny_nose,1115038]]"
-  - "[[_Standards/WikiData/WD~fatigue,9690]]"
-  - "[[_Standards/WikiData/WD~cough,35805]]"
-  - "[[_Standards/WikiData/WD~fever,38933]]"
-has_cause: "[[_Standards/WikiData/WD~Bordetella_pertussis,137103]]"
+  - '[[_Standards/WikiData/WD~vomiting,127076]]'
+  - '[[_Standards/WikiData/WD~apnea,754424]]'
+  - '[[_Standards/WikiData/WD~runny_nose,1115038]]'
+  - '[[_Standards/WikiData/WD~fatigue,9690]]'
+  - '[[_Standards/WikiData/WD~cough,35805]]'
+  - '[[_Standards/WikiData/WD~fever,38933]]'
+has_cause: '[[_Standards/WikiData/WD~Bordetella_pertussis,137103]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-health_specialty: "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 disease_transmission_process:
-  - "[[_Standards/WikiData/WD~droplet_infection,871752]]"
-  - "[[_Standards/WikiData/WD~airborne_transmission,11986959]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+  - '[[_Standards/WikiData/WD~droplet_infection,871752]]'
+  - '[[_Standards/WikiData/WD~airborne_transmission,11986959]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~commensal_bacterial_infectious_disease,18553248]]"
-  - "[[_Standards/WikiData/WD~Bordetella_infections,66773817]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-possible_treatment: "[[_Standards/WikiData/WD~antibiotic,12187]]"
+  - '[[_Standards/WikiData/WD~commensal_bacterial_infectious_disease,18553248]]'
+  - '[[_Standards/WikiData/WD~Bordetella_infections,66773817]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+possible_treatment: '[[_Standards/WikiData/WD~antibiotic,12187]]'
 minimal_incubation_period_in_humans: 7
 maximal_incubation_period_in_humans: 21
 number_of_deaths: 58700
-DiseasesDB: "1523"
-OmegaWiki_Defined_Meaning: "1119667"
+DiseasesDB: 1523
+OmegaWiki_Defined_Meaning: 1119667
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pertussis.jpg
 disease_burden: 6142377
 Commons_category: Pertussis

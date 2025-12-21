@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Asperoteuthis
 title: Asperoteuthis
 ---
 

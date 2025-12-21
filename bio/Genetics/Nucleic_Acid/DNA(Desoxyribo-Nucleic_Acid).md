@@ -1,4 +1,8 @@
 ---
+aliases:
+  - DNA(Desoxyribo-Nucleic_Acid)
+  - DNA(Desoxyribo-Nucleic Acid)
+has_id_wikidata: Q7430
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/3D-Modell%20DNA-Doppelhelix%2020220603.stl
 Biology_Online_Biology_Dictionary_entry: deoxyribonucleic-acid
 CAS_Registry_Number: 9007-49-2
@@ -9,7 +13,6 @@ develops_from: "[[_Standards/WikiData/WD~RNA,11053]]"
 disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 Google_Doodle: celebrating-dnas-50th-anniversary
 hashtag: DNA
-has_id_wikidata: Q7430
 has_part_s_:
   - "[[_Standards/WikiData/WD~polynucleotide,80756]]"
   - "[[_Standards/WikiData/WD~nucleotide,28745]]"
@@ -56,7 +59,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/CRISPR-Cas9%2C%20genea
 Wikimedia_outline: "[[_Standards/WikiData/WD~Q2682086,2682086]]"
 ---
 
-# [[DNA(Desoxyribo-Nucleic_Acid)]] 
+# [[DNA(Desoxyribo-Nucleic_Acid)]] 🧬 
 
 #is_/same_as :: [[../../../WikiData/WD~DNA,7430|WD~DNA,7430]] 
 

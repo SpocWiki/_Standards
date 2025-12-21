@@ -4,20 +4,22 @@ aliases:
   - drug_prescription_status
   - DrugPrescriptionStatus
   - is_a_drug_prescription_status
+  - Drug_Prescription_Status
+  - Drug Prescription Status
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - drug_prescription_status
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_drug_prescription_status Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

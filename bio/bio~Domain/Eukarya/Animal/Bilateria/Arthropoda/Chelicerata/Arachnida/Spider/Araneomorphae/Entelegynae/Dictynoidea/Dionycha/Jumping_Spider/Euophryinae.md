@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Euophryinae
 title: Euophryinae
 ---
 

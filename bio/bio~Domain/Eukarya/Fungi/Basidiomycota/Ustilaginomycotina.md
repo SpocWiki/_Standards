@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ustilaginomycotina
 title: Ustilaginomycetes
 ---
 

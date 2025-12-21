@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Phoronida
 title: Phoronida
 ---
 

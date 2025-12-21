@@ -1,12 +1,13 @@
 ---
 aliases:
   - Eutrophierung
+  - Eutrophication
 has_id_wikidata: Q156698
-facet_of: "[[_Standards/WikiData/WD~nutrient,181394]]"
-subclass_of: "[[_Standards/WikiData/WD~environmental_issue,2144359]]"
-instance_of: "[[_Standards/WikiData/WD~process,3249551]]"
-has_cause: "[[_Standards/WikiData/WD~sewage,10966166]]"
-OmegaWiki_Defined_Meaning: "1362"
+facet_of: '[[_Standards/WikiData/WD~nutrient,181394]]'
+subclass_of: '[[_Standards/WikiData/WD~environmental_issue,2144359]]'
+instance_of: '[[_Standards/WikiData/WD~process,3249551]]'
+has_cause: '[[_Standards/WikiData/WD~sewage,10966166]]'
+OmegaWiki_Defined_Meaning: 1362
 Commons_category: Eutrophication
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Eutrophication.jpg

@@ -1,14 +1,16 @@
 ---
 aliases:
   - genetically modified organism
+  - GMO(genetically_modified_Organism)
+  - GMO(genetically modified Organism)
 has_id_wikidata: Q182726
 has_characteristic:
-  - "[[_Standards/WikiData/WD~transformation,461499]]"
-  - "[[_Standards/WikiData/WD~gene_delivery,2790163]]"
+  - '[[_Standards/WikiData/WD~transformation,461499]]'
+  - '[[_Standards/WikiData/WD~gene_delivery,2790163]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~mutant,3285695]]"
-  - "[[_Standards/WikiData/WD~class_of_living_thing,55597235]]"
-described_by_source: "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+  - '[[_Standards/WikiData/WD~mutant,3285695]]'
+  - '[[_Standards/WikiData/WD~class_of_living_thing,55597235]]'
+described_by_source: '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 Library_of_Congress_Classification: QH442.6
 short_name:
   - GMO

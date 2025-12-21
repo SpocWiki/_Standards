@@ -1,29 +1,29 @@
 ---
 aliases:
-- protozoa
-- protozoa
-- Protozoa
-- is_a_protozoa
+  - protozoa
+  - protozoa
+  - Protozoa
+  - is_a_protozoa
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
 enumerationtype: InfectiousAgentClass
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- protozoa
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_protozoa Class"
+  - protozoa
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_a_protozoa Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
-- class/Class
-- schema-org/Class
-- class/infectious_agent
-title: "is_a_protozoa Class"
+  - class/Class
+  - schema-org/Class
+  - class/infectious_agent
+title: is_a_protozoa Class
 type: Type
 ---
 

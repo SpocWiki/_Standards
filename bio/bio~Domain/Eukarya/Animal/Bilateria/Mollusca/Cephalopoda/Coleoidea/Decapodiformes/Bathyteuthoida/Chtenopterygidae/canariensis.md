@@ -1,5 +1,7 @@
 ---
-title: "Chtenopteryx canariensis"
+aliases:
+  - canariensis
+title: Chtenopteryx canariensis
 ---
 
 ## Phylogeny 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Apusomonas
 title: Apusomonas
 ---
 

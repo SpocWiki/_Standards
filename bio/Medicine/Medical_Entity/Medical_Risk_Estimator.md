@@ -4,20 +4,22 @@ aliases:
   - medical_risk_estimator
   - MedicalRiskEstimator
   - is_a_medical_risk_estimator
+  - Medical_Risk_Estimator
+  - Medical Risk Estimator
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_risk_estimator
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_risk_estimator Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

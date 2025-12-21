@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sepiella
 title: Sepiella
 ---
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Faviina
 title: Faviina
 ---
 

@@ -1,6 +1,7 @@
 ---
 aliases:
-- Psychologists
+  - Psychologists
+  - Psychologist
 ---
 
 ## #has_/text_of_/abstract 

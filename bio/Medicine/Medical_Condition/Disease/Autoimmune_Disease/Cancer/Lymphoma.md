@@ -1,69 +1,70 @@
 ---
 aliases:
   - Lymphom
+  - Lymphoma
 has_id_wikidata: Q208414
 health_specialty:
-  - "[[_Standards/WikiData/WD~hematology,103824]]"
-  - "[[_Standards/WikiData/WD~oncology,162555]]"
+  - '[[_Standards/WikiData/WD~hematology,103824]]'
+  - '[[_Standards/WikiData/WD~oncology,162555]]'
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~swelling,109186]]"
-  - "[[_Standards/WikiData/WD~itch,199602]]"
-  - "[[_Standards/WikiData/WD~night_sweats,474718]]"
-  - "[[_Standards/WikiData/WD~chest_pain,693058]]"
-  - "[[_Standards/WikiData/WD~weight_loss,718113]]"
-  - "[[_Standards/WikiData/WD~fatigue,9690]]"
-  - "[[_Standards/WikiData/WD~fever,38933]]"
-anatomical_locations: "[[_Standards/WikiData/WD~lymph_node,170758]]"
+  - '[[_Standards/WikiData/WD~swelling,109186]]'
+  - '[[_Standards/WikiData/WD~itch,199602]]'
+  - '[[_Standards/WikiData/WD~night_sweats,474718]]'
+  - '[[_Standards/WikiData/WD~chest_pain,693058]]'
+  - '[[_Standards/WikiData/WD~weight_loss,718113]]'
+  - '[[_Standards/WikiData/WD~fatigue,9690]]'
+  - '[[_Standards/WikiData/WD~fever,38933]]'
+anatomical_locations: '[[_Standards/WikiData/WD~lymph_node,170758]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~cytarabine,180983]]"
-  - "[[_Standards/WikiData/WD~mitoxantrone,239426]]"
-  - "[[_Standards/WikiData/WD~vincristine,408977]]"
-  - "[[_Standards/WikiData/WD~irinotecan,412197]]"
-  - "[[_Standards/WikiData/WD~rituximab,412323]]"
-  - "[[_Standards/WikiData/WD~gemcitabine,414143]]"
-  - "[[_Standards/WikiData/WD~thiotepa,416507]]"
-  - "[[_Standards/WikiData/WD~mechlorethamine,418011]]"
-  - "[[_Standards/WikiData/WD~procarbazine,418656]]"
-  - "[[_Standards/WikiData/WD~etoposide,418817]]"
-  - "[[_Standards/WikiData/WD~everolimus,421052]]"
-  - "[[_Standards/WikiData/WD~asparaginase,421534]]"
-  - "[[_Standards/WikiData/WD~methotrexate,422232]]"
-  - "[[_Standards/WikiData/WD~dexamethasone,422252]]"
-  - "[[_Standards/WikiData/WD~brentuximab_vedotin,422324]]"
-  - "[[_Standards/WikiData/WD~(RS)_lenalidomide,425681]]"
-  - "[[_Standards/WikiData/WD~bendamustine,425745]]"
-  - "[[_Standards/WikiData/WD~pegfilgrastim,1592932]]"
-  - "[[_Standards/WikiData/WD~idelalisib,5908266]]"
-  - "[[_Standards/WikiData/WD~ibrutinib,5984881]]"
-  - "[[_Standards/WikiData/WD~nivolumab,7041828]]"
-  - "[[_Standards/WikiData/WD~prednisolone,11426176]]"
-  - "[[_Standards/WikiData/WD~doxorubicin_hydrochloride,27032359]]"
-  - "[[_Standards/WikiData/WD~doxorubicin,18936]]"
+  - '[[_Standards/WikiData/WD~cytarabine,180983]]'
+  - '[[_Standards/WikiData/WD~mitoxantrone,239426]]'
+  - '[[_Standards/WikiData/WD~vincristine,408977]]'
+  - '[[_Standards/WikiData/WD~irinotecan,412197]]'
+  - '[[_Standards/WikiData/WD~rituximab,412323]]'
+  - '[[_Standards/WikiData/WD~gemcitabine,414143]]'
+  - '[[_Standards/WikiData/WD~thiotepa,416507]]'
+  - '[[_Standards/WikiData/WD~mechlorethamine,418011]]'
+  - '[[_Standards/WikiData/WD~procarbazine,418656]]'
+  - '[[_Standards/WikiData/WD~etoposide,418817]]'
+  - '[[_Standards/WikiData/WD~everolimus,421052]]'
+  - '[[_Standards/WikiData/WD~asparaginase,421534]]'
+  - '[[_Standards/WikiData/WD~methotrexate,422232]]'
+  - '[[_Standards/WikiData/WD~dexamethasone,422252]]'
+  - '[[_Standards/WikiData/WD~brentuximab_vedotin,422324]]'
+  - '[[_Standards/WikiData/WD~(RS)_lenalidomide,425681]]'
+  - '[[_Standards/WikiData/WD~bendamustine,425745]]'
+  - '[[_Standards/WikiData/WD~pegfilgrastim,1592932]]'
+  - '[[_Standards/WikiData/WD~idelalisib,5908266]]'
+  - '[[_Standards/WikiData/WD~ibrutinib,5984881]]'
+  - '[[_Standards/WikiData/WD~nivolumab,7041828]]'
+  - '[[_Standards/WikiData/WD~prednisolone,11426176]]'
+  - '[[_Standards/WikiData/WD~doxorubicin_hydrochloride,27032359]]'
+  - '[[_Standards/WikiData/WD~doxorubicin,18936]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~lymphoma_and_pseudolymphoma,1537773]]"
-  - "[[_Standards/WikiData/WD~lymphatic_system_cancer,18553634]]"
-  - "[[_Standards/WikiData/WD~hematologic_cancer,18975047]]"
-  - "[[_Standards/WikiData/WD~lymphoid_neoplasm,55950048]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-genetic_association: "[[_Standards/WikiData/WD~HLA_DQB2,18026955]]"
+  - '[[_Standards/WikiData/WD~lymphoma_and_pseudolymphoma,1537773]]'
+  - '[[_Standards/WikiData/WD~lymphatic_system_cancer,18553634]]'
+  - '[[_Standards/WikiData/WD~hematologic_cancer,18975047]]'
+  - '[[_Standards/WikiData/WD~lymphoid_neoplasm,55950048]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+genetic_association: '[[_Standards/WikiData/WD~HLA_DQB2,18026955]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-  - "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+  - '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
 ICD_O:
-  - "959"
-  - "9999"
-  - "9590"
+  - 959
+  - 9999
+  - 9590
   - 959-972
   - 9590/3
-OmegaWiki_Defined_Meaning: "950517"
+OmegaWiki_Defined_Meaning: 950517
 ICD_9_CM:
-  - "200.1"
-  - "202.80"
-  - "200.0"
+  - 200.1
+  - 202.80
+  - 200.0
 ICD_10_CM: C85.9
 UMLS_CUI:
   - C0280803

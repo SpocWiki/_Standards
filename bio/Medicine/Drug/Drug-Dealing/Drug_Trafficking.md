@@ -3,17 +3,19 @@ aliases:
   - drug trade
   - drug trafficking
   - narcotrafficking
+  - Drug_Trafficking
+  - Drug Trafficking
 has_id_wikidata: Q844924
 subclass_of:
-  - "[[_Standards/WikiData/WD~crime,83267]]"
-  - "[[_Standards/WikiData/WD~black_market,50851]]"
+  - '[[_Standards/WikiData/WD~crime,83267]]'
+  - '[[_Standards/WikiData/WD~black_market,50851]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~drug_dealer,3020602]]"
-  - "[[_Standards/WikiData/WD~drug_trafficker,10384029]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~narcotráfico,6965698]]"
-uses: "[[_Standards/WikiData/WD~illegal_drug,10268802]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_crime,130583773]]"
-U_S_National_Archives_Identifier: "10636668"
+  - '[[_Standards/WikiData/WD~drug_dealer,3020602]]'
+  - '[[_Standards/WikiData/WD~drug_trafficker,10384029]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~narcotráfico,6965698]]'
+uses: '[[_Standards/WikiData/WD~illegal_drug,10268802]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_crime,130583773]]'
+U_S_National_Archives_Identifier: 10636668
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MV%20Gatun%20Cocaine%20seizure%20by%20USCG.jpg
 UMLS_CUI: C0556449
 IMDb_keyword: drug-trafficking

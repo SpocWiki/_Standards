@@ -1,5 +1,7 @@
 ---
-title: "Spermophilopsis leptodactylus"
+aliases:
+  - Spermophilopsis
+title: Spermophilopsis leptodactylus
 ---
 
 ## *Spermophilopsis* 

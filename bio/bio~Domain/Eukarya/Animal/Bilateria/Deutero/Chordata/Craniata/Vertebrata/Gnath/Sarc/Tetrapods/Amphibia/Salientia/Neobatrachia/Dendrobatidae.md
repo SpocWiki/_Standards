@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Dendrobatidae
 title: Dendrobatidae
 ---
 

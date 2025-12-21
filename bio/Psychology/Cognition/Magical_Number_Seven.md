@@ -1,9 +1,11 @@
 ---
 aliases:
-- "Miller's_law"
-- "Miller's law"
-- Millers_law
-- Millers law
+  - Miller's_law
+  - Miller's law
+  - Millers_law
+  - Millers law
+  - Magical_Number_Seven
+  - Magical Number Seven
 ---
 
 # [[Magical_Number_Seven]] 

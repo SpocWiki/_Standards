@@ -1,5 +1,7 @@
 ---
-title: "Mastigoteuthis schmidti"
+aliases:
+  - schmidti
+title: Mastigoteuthis schmidti
 ---
 
 ## Phylogeny 

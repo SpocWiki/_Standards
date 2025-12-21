@@ -4,7 +4,28 @@ aliases:
   - red currant
   - Ribes rubrum
   - Rote Johannisbeere
-  - 
+  - ''
+  - Ribes_rubrum
+  - brixelal
+  - meruzalka červená
+  - meruzalka zahradní
+  - rybíz červený
+  - Llwyn Cwrens Coch
+  - cultivated currant
+  - Red Currant
+  - Redcurrant
+  - Punane sõstar
+  - lännenpunaherukka
+  - punaherukka
+  - groseillier rouge
+  - aalbes
+  - Aalbes
+  - ùa spinèla
+  - 红茶藨子
+  - 欧洲红穗醋栗
+  - 红果茶藨
+  - 红醋栗
+  - rdeče grozdičje
 has_id_wikidata: Q146661
 taxon_common_name:
   - brixelal
@@ -31,19 +52,19 @@ taxon_common_name:
   - 红醋栗
   - rdeče grozdičje
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~redcurrant_juice,11889044]]"
-  - "[[_Standards/WikiData/WD~redcurrant,14714085]]"
-NatureServe_conservation_status: "[[_Standards/WikiData/WD~apparently_secure,55714106]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-described_by_source: "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_35(1),112869415]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-has_fruit_type: "[[_Standards/WikiData/WD~berry,13184]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Ribes,22691]]"
-subclass_of: "[[_Standards/WikiData/WD~shrub,42295]]"
-PLU_code: "3088"
-ITIS_TSN: "504798"
-OmegaWiki_Defined_Meaning: "941843"
+  - '[[_Standards/WikiData/WD~redcurrant_juice,11889044]]'
+  - '[[_Standards/WikiData/WD~redcurrant,14714085]]'
+NatureServe_conservation_status: '[[_Standards/WikiData/WD~apparently_secure,55714106]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+described_by_source: '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_35(1),112869415]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+has_fruit_type: '[[_Standards/WikiData/WD~berry,13184]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Ribes,22691]]'
+subclass_of: '[[_Standards/WikiData/WD~shrub,42295]]'
+PLU_code: 3088
+ITIS_TSN: 504798
+OmegaWiki_Defined_Meaning: 941843
 short_name: R. rubrum
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ribes%20rubrum%201.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=31860

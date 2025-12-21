@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Arthroleptidae
 title: Arthroleptidae
 ---
 

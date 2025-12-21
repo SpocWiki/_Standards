@@ -1,60 +1,74 @@
 ---
 aliases:
   - American jackal, prairie wolf, or brush wolf
+  - Coyote
+  - coyote
+  - Kojote
+  - Tallapus
+  - American jackal
+  - brush wolf
+  - prairie wolf
+  - kojootti
+  - kojot
+  - prérifarkas
+  - coiote
+  - lupo della prateria
+  - kojot preriowy
+  - kujot
 has_id_wikidata: Q44299
 main_food_source:
-  - "[[_Standards/WikiData/WD~mushroom,83093]]"
-  - "[[_Standards/WikiData/WD~Mephitidae,83244]]"
-  - "[[_Standards/WikiData/WD~egg_as_food,93189]]"
-  - "[[_Standards/WikiData/WD~raccoon,121439]]"
-  - "[[_Standards/WikiData/WD~Didelphis_virginiana,147267]]"
-  - "[[_Standards/WikiData/WD~carrion,202994]]"
-  - "[[_Standards/WikiData/WD~Talpa_europaea,209067]]"
-  - "[[_Standards/WikiData/WD~white_tailed_deer,215887]]"
-  - "[[_Standards/WikiData/WD~dried_fruit,234901]]"
-  - "[[_Standards/WikiData/WD~mule_deer,338831]]"
-  - "[[_Standards/WikiData/WD~Crotalus,463637]]"
-  - "[[_Standards/WikiData/WD~antelope_jackrabbit,577630]]"
-  - "[[_Standards/WikiData/WD~Greater_Roadrunner,634804]]"
-  - "[[_Standards/WikiData/WD~Lepus_californicus,640645]]"
-  - "[[_Standards/WikiData/WD~Geomyidae,756901]]"
-  - "[[_Standards/WikiData/WD~Arvicolinae,840750]]"
-  - "[[_Standards/WikiData/WD~gopher_tortoise,914338]]"
-  - "[[_Standards/WikiData/WD~Olympic_marmot,1242811]]"
-  - "[[_Standards/WikiData/WD~Tamias_minimus,1765515]]"
-  - "[[_Standards/WikiData/WD~salmon,2796766]]"
-  - "[[_Standards/WikiData/WD~frog,3116510]]"
-  - "[[_Standards/WikiData/WD~fruit,3314483]]"
-  - "[[_Standards/WikiData/WD~North_American_porcupine,10758828]]"
-  - "[[_Standards/WikiData/WD~chicken,780]]"
-  - "[[_Standards/WikiData/WD~goat,2934]]"
-  - "[[_Standards/WikiData/WD~red_squirrel,4388]]"
-  - "[[_Standards/WikiData/WD~sheep,7368]]"
-  - "[[_Standards/WikiData/WD~food_waste,18919]]"
-  - "[[_Standards/WikiData/WD~mallard,25348]]"
-  - "[[_Standards/WikiData/WD~European_Rabbit,25851]]"
-  - "[[_Standards/WikiData/WD~grey_partridge,26106]]"
-  - "[[_Standards/WikiData/WD~Canada_Goose,26733]]"
-  - "[[_Standards/WikiData/WD~wild_turkey,26844]]"
-  - "[[_Standards/WikiData/WD~Cynomys,30359]]"
-  - "[[_Standards/WikiData/WD~Rattus,36396]]"
-  - "[[_Standards/WikiData/WD~Soricidae,41631]]"
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
+  - '[[_Standards/WikiData/WD~mushroom,83093]]'
+  - '[[_Standards/WikiData/WD~Mephitidae,83244]]'
+  - '[[_Standards/WikiData/WD~egg_as_food,93189]]'
+  - '[[_Standards/WikiData/WD~raccoon,121439]]'
+  - '[[_Standards/WikiData/WD~Didelphis_virginiana,147267]]'
+  - '[[_Standards/WikiData/WD~carrion,202994]]'
+  - '[[_Standards/WikiData/WD~Talpa_europaea,209067]]'
+  - '[[_Standards/WikiData/WD~white_tailed_deer,215887]]'
+  - '[[_Standards/WikiData/WD~dried_fruit,234901]]'
+  - '[[_Standards/WikiData/WD~mule_deer,338831]]'
+  - '[[_Standards/WikiData/WD~Crotalus,463637]]'
+  - '[[_Standards/WikiData/WD~antelope_jackrabbit,577630]]'
+  - '[[_Standards/WikiData/WD~Greater_Roadrunner,634804]]'
+  - '[[_Standards/WikiData/WD~Lepus_californicus,640645]]'
+  - '[[_Standards/WikiData/WD~Geomyidae,756901]]'
+  - '[[_Standards/WikiData/WD~Arvicolinae,840750]]'
+  - '[[_Standards/WikiData/WD~gopher_tortoise,914338]]'
+  - '[[_Standards/WikiData/WD~Olympic_marmot,1242811]]'
+  - '[[_Standards/WikiData/WD~Tamias_minimus,1765515]]'
+  - '[[_Standards/WikiData/WD~salmon,2796766]]'
+  - '[[_Standards/WikiData/WD~frog,3116510]]'
+  - '[[_Standards/WikiData/WD~fruit,3314483]]'
+  - '[[_Standards/WikiData/WD~North_American_porcupine,10758828]]'
+  - '[[_Standards/WikiData/WD~chicken,780]]'
+  - '[[_Standards/WikiData/WD~goat,2934]]'
+  - '[[_Standards/WikiData/WD~red_squirrel,4388]]'
+  - '[[_Standards/WikiData/WD~sheep,7368]]'
+  - '[[_Standards/WikiData/WD~food_waste,18919]]'
+  - '[[_Standards/WikiData/WD~mallard,25348]]'
+  - '[[_Standards/WikiData/WD~European_Rabbit,25851]]'
+  - '[[_Standards/WikiData/WD~grey_partridge,26106]]'
+  - '[[_Standards/WikiData/WD~Canada_Goose,26733]]'
+  - '[[_Standards/WikiData/WD~wild_turkey,26844]]'
+  - '[[_Standards/WikiData/WD~Cynomys,30359]]'
+  - '[[_Standards/WikiData/WD~Rattus,36396]]'
+  - '[[_Standards/WikiData/WD~Soricidae,41631]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 color:
-  - "[[_Standards/WikiData/WD~cinereous,5120881]]"
-  - "[[_Standards/WikiData/WD~grey,42519]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+  - '[[_Standards/WikiData/WD~cinereous,5120881]]'
+  - '[[_Standards/WikiData/WD~grey,42519]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 litter_size: 6
 gestation_period: 62
 bite_force_quotient: 88
 longest_observed_lifespan: 21.8
 mass: 262.5
-ITIS_TSN: "180599"
+ITIS_TSN: 180599
 IMDb_keyword: coyote
 subreddit: coyote
 taxon_common_name:
@@ -78,7 +92,7 @@ taxon_common_name:
   - kujot
   - kojot
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Coyote%20Tule%20Lake%20CA.jpg
-OmegaWiki_Defined_Meaning: "388687"
+OmegaWiki_Defined_Meaning: 388687
 EPPO_Code: CANILA
 Commons_gallery: Canis latrans
 Commons_category: Canis latrans

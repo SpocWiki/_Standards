@@ -2,34 +2,36 @@
 aliases:
   - Bubonic plague
   - Beulenpest
+  - Bubonic_Plague
+  - Bubonic Plague
 has_id_wikidata: Q217519
 different_from:
-  - "[[_Standards/WikiData/WD~plague,133780]]"
-  - "[[_Standards/WikiData/WD~Q15962797,15962797]]"
+  - '[[_Standards/WikiData/WD~plague,133780]]'
+  - '[[_Standards/WikiData/WD~Q15962797,15962797]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~plague,133780]]"
-  - "[[_Standards/WikiData/WD~lymph_node_disease,18558262]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-has_cause: "[[_Standards/WikiData/WD~Yersinia_pestis,153875]]"
-anatomical_locations: "[[_Standards/WikiData/WD~lymph_node,170758]]"
+  - '[[_Standards/WikiData/WD~plague,133780]]'
+  - '[[_Standards/WikiData/WD~lymph_node_disease,18558262]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
+has_cause: '[[_Standards/WikiData/WD~Yersinia_pestis,153875]]'
+anatomical_locations: '[[_Standards/WikiData/WD~lymph_node,170758]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~ciprofloxacin,256602]]"
-  - "[[_Standards/WikiData/WD~doxycycline,422442]]"
-  - "[[_Standards/WikiData/WD~gentamicin,422482]]"
-  - "[[_Standards/WikiData/WD~Xadani,20126637]]"
-health_specialty: "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+  - '[[_Standards/WikiData/WD~ciprofloxacin,256602]]'
+  - '[[_Standards/WikiData/WD~doxycycline,422442]]'
+  - '[[_Standards/WikiData/WD~gentamicin,422482]]'
+  - '[[_Standards/WikiData/WD~Xadani,20126637]]'
+health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~chills,2260058]]"
-  - "[[_Standards/WikiData/WD~prostration,3407854]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-OmegaWiki_Defined_Meaning: "1074391"
-DiseasesDB: "14226"
+  - '[[_Standards/WikiData/WD~chills,2260058]]'
+  - '[[_Standards/WikiData/WD~prostration,3407854]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+OmegaWiki_Defined_Meaning: 1074391
+DiseasesDB: 14226
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Yersinia%20pestis.jpg
 exact_match:
   - http://identifiers.org/doid/DOID:10773
   - http://purl.obolibrary.org/obo/DOID_10773
-ICD_9_CM: "020.0"
+ICD_9_CM: 020.0
 ICD_10_CM: A20.0
 Commons_category: Bubonic plague
 UMLS_CUI: C0282312

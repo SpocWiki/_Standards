@@ -1,5 +1,7 @@
 ---
-title: "Chiroteuthis picteti"
+aliases:
+  - picteti
+title: Chiroteuthis picteti
 ---
 
 ## Phylogeny 

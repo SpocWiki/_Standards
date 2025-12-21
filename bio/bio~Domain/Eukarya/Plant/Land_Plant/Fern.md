@@ -8,20 +8,20 @@ aliases:
 has_id_wikidata: Q80005
 title: Filicopsida
 different_from:
-  - "[[_Standards/WikiData/WD~Pteridophyta,178249]]"
-  - "[[_Standards/WikiData/WD~Paprocie,_West_Pomeranian_Voivodeship,7133133]]"
-part_of: "[[_Standards/WikiData/WD~Pteridophyta,178249]]"
+  - '[[_Standards/WikiData/WD~Pteridophyta,178249]]'
+  - '[[_Standards/WikiData/WD~Paprocie,_West_Pomeranian_Voivodeship,7133133]]'
+part_of: '[[_Standards/WikiData/WD~Pteridophyta,178249]]'
 taxon_known_by_this_common_name:
-  - "[[_Standards/WikiData/WD~Polypodiopsida,373615]]"
-  - "[[_Standards/WikiData/WD~Polypodiophyta,98522578]]"
+  - '[[_Standards/WikiData/WD~Polypodiopsida,373615]]'
+  - '[[_Standards/WikiData/WD~Polypodiophyta,98522578]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Fiernat,13038932]]"
-instance_of: "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Fern_classification,122463201]]"
-has_use: "[[_Standards/WikiData/WD~food,2095]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Fiernat,13038932]]'
+instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Fern_classification,122463201]]'
+has_use: '[[_Standards/WikiData/WD~food,2095]]'
 Danbooru_tag: fern
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Athyrium%20filix-femina0.jpg
 Commons_category: Pteridophyta

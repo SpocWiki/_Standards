@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Kinorhyncha
 title: Kinorhyncha
 ---
 

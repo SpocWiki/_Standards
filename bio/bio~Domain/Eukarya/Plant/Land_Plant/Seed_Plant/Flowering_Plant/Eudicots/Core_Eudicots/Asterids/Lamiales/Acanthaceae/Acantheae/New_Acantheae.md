@@ -1,5 +1,8 @@
 ---
-title: "Other New World Acantheae"
+aliases:
+  - New_Acantheae
+  - New Acantheae
+title: Other New World Acantheae
 ---
 
 # New World Acantheae 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Pseudois
 title: Pseudois
 ---
 

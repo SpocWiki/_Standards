@@ -2,28 +2,29 @@
 aliases:
   - Family (biology)
   - Family
+  - bio~Family
+has_id_wikidata: Q35409
 Commons_category: Family (biology)
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-  - "[[_Standards/WikiData/WD~group,83306]]"
-  - "[[_Standards/WikiData/WD~Rodina,2161157]]"
-  - "[[_Standards/WikiData/WD~gene_family,2278983]]"
-  - "[[_Standards/WikiData/WD~ichnofamily,115227428]]"
-  - "[[_Standards/WikiData/WD~oofamily,125838324]]"
-  - "[[_Standards/WikiData/WD~family,8436]]"
-has_id_wikidata: Q35409
+  - '[[_Standards/WikiData/WD~group,83306]]'
+  - '[[_Standards/WikiData/WD~Rodina,2161157]]'
+  - '[[_Standards/WikiData/WD~gene_family,2278983]]'
+  - '[[_Standards/WikiData/WD~ichnofamily,115227428]]'
+  - '[[_Standards/WikiData/WD~oofamily,125838324]]'
+  - '[[_Standards/WikiData/WD~family,8436]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~taxonomic_rank,427626]]"
-  - "[[_Standards/WikiData/WD~rank_in_botany,3100180]]"
-  - "[[_Standards/WikiData/WD~rank_in_zoology,13578154]]"
+  - '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
+  - '[[_Standards/WikiData/WD~rank_in_botany,3100180]]'
+  - '[[_Standards/WikiData/WD~rank_in_zoology,13578154]]'
 OmegaWiki_Defined_Meaning: 347856
 part_of:
-  - "[[_Standards/WikiData/WD~suborder,5867959]]"
-  - "[[_Standards/WikiData/WD~group,9281160]]"
-  - "[[_Standards/WikiData/WD~epifamily,10296147]]"
-  - "[[_Standards/WikiData/WD~order,36602]]"
+  - '[[_Standards/WikiData/WD~suborder,5867959]]'
+  - '[[_Standards/WikiData/WD~group,9281160]]'
+  - '[[_Standards/WikiData/WD~epifamily,10296147]]'
+  - '[[_Standards/WikiData/WD~order,36602]]'
 ---
 
 # [[bio~Family]] 

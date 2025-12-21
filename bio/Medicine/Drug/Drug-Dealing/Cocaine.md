@@ -1,112 +1,113 @@
 ---
 aliases:
   - Kokain
+  - Cocaine
 has_id_wikidata: Q41576
 medical_condition_treated:
-  - "[[_Standards/WikiData/WD~pain,81938]]"
-  - "[[_Standards/WikiData/WD~cough,35805]]"
+  - '[[_Standards/WikiData/WD~pain,81938]]'
+  - '[[_Standards/WikiData/WD~cough,35805]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~ester,101487]]"
-  - "[[_Standards/WikiData/WD~tertiary_amine,72801119]]"
-  - "[[_Standards/WikiData/WD~cocaine,105381234]]"
+  - '[[_Standards/WikiData/WD~ester,101487]]'
+  - '[[_Standards/WikiData/WD~tertiary_amine,72801119]]'
+  - '[[_Standards/WikiData/WD~cocaine,105381234]]'
 significant_drug_interaction:
-  - "[[_Standards/WikiData/WD~clarithromycin,118551]]"
-  - "[[_Standards/WikiData/WD~pimozide,144085]]"
-  - "[[_Standards/WikiData/WD~azithromycin,165399]]"
-  - "[[_Standards/WikiData/WD~droperidol,174259]]"
-  - "[[_Standards/WikiData/WD~(RS)_methadone,179996]]"
-  - "[[_Standards/WikiData/WD~erythromycin,213511]]"
-  - "[[_Standards/WikiData/WD~haloperidol,251347]]"
-  - "[[_Standards/WikiData/WD~chlorpromazine,407972]]"
-  - "[[_Standards/WikiData/WD~anagrelide,408163]]"
-  - "[[_Standards/WikiData/WD~dronedarone,408637]]"
-  - "[[_Standards/WikiData/WD~(RS)_citalopram,409672]]"
-  - "[[_Standards/WikiData/WD~ondansetron,410011]]"
-  - "[[_Standards/WikiData/WD~amiodarone,410061]]"
-  - "[[_Standards/WikiData/WD~quinidine,412496]]"
-  - "[[_Standards/WikiData/WD~sotalol,413591]]"
-  - "[[_Standards/WikiData/WD~pentamidine,416206]]"
-  - "[[_Standards/WikiData/WD~procainamide,417597]]"
-  - "[[_Standards/WikiData/WD~terfenadine,417909]]"
-  - "[[_Standards/WikiData/WD~sevoflurane,419394]]"
-  - "[[_Standards/WikiData/WD~flecainide,421381]]"
-  - "[[_Standards/WikiData/WD~(RS)_sulpiride,422418]]"
-  - "[[_Standards/WikiData/WD~chloroquine,422438]]"
-  - "[[_Standards/WikiData/WD~astemizole,423437]]"
-  - "[[_Standards/WikiData/WD~escitalopram,423757]]"
-  - "[[_Standards/WikiData/WD~domperidone,424238]]"
-  - "[[_Standards/WikiData/WD~moxifloxacin,424940]]"
-  - "[[_Standards/WikiData/WD~disopyramide,425120]]"
-  - "[[_Standards/WikiData/WD~cisapride,425295]]"
-  - "[[_Standards/WikiData/WD~halofantrine,947595]]"
-  - "[[_Standards/WikiData/WD~sparfloxacin,976559]]"
-  - "[[_Standards/WikiData/WD~dofetilide,3712521]]"
-  - "[[_Standards/WikiData/WD~ibutilide,3791612]]"
-  - "[[_Standards/WikiData/WD~bepridil,4890934]]"
-  - "[[_Standards/WikiData/WD~mesoridazine,6821618]]"
-  - "[[_Standards/WikiData/WD~probucol,10354103]]"
-  - "[[_Standards/WikiData/WD~arsenic_trioxide,7739]]"
-  - "[[_Standards/WikiData/WD~thioridazine,58375]]"
+  - '[[_Standards/WikiData/WD~clarithromycin,118551]]'
+  - '[[_Standards/WikiData/WD~pimozide,144085]]'
+  - '[[_Standards/WikiData/WD~azithromycin,165399]]'
+  - '[[_Standards/WikiData/WD~droperidol,174259]]'
+  - '[[_Standards/WikiData/WD~(RS)_methadone,179996]]'
+  - '[[_Standards/WikiData/WD~erythromycin,213511]]'
+  - '[[_Standards/WikiData/WD~haloperidol,251347]]'
+  - '[[_Standards/WikiData/WD~chlorpromazine,407972]]'
+  - '[[_Standards/WikiData/WD~anagrelide,408163]]'
+  - '[[_Standards/WikiData/WD~dronedarone,408637]]'
+  - '[[_Standards/WikiData/WD~(RS)_citalopram,409672]]'
+  - '[[_Standards/WikiData/WD~ondansetron,410011]]'
+  - '[[_Standards/WikiData/WD~amiodarone,410061]]'
+  - '[[_Standards/WikiData/WD~quinidine,412496]]'
+  - '[[_Standards/WikiData/WD~sotalol,413591]]'
+  - '[[_Standards/WikiData/WD~pentamidine,416206]]'
+  - '[[_Standards/WikiData/WD~procainamide,417597]]'
+  - '[[_Standards/WikiData/WD~terfenadine,417909]]'
+  - '[[_Standards/WikiData/WD~sevoflurane,419394]]'
+  - '[[_Standards/WikiData/WD~flecainide,421381]]'
+  - '[[_Standards/WikiData/WD~(RS)_sulpiride,422418]]'
+  - '[[_Standards/WikiData/WD~chloroquine,422438]]'
+  - '[[_Standards/WikiData/WD~astemizole,423437]]'
+  - '[[_Standards/WikiData/WD~escitalopram,423757]]'
+  - '[[_Standards/WikiData/WD~domperidone,424238]]'
+  - '[[_Standards/WikiData/WD~moxifloxacin,424940]]'
+  - '[[_Standards/WikiData/WD~disopyramide,425120]]'
+  - '[[_Standards/WikiData/WD~cisapride,425295]]'
+  - '[[_Standards/WikiData/WD~halofantrine,947595]]'
+  - '[[_Standards/WikiData/WD~sparfloxacin,976559]]'
+  - '[[_Standards/WikiData/WD~dofetilide,3712521]]'
+  - '[[_Standards/WikiData/WD~ibutilide,3791612]]'
+  - '[[_Standards/WikiData/WD~bepridil,4890934]]'
+  - '[[_Standards/WikiData/WD~mesoridazine,6821618]]'
+  - '[[_Standards/WikiData/WD~probucol,10354103]]'
+  - '[[_Standards/WikiData/WD~arsenic_trioxide,7739]]'
+  - '[[_Standards/WikiData/WD~thioridazine,58375]]'
 natural_product_of_taxon:
-  - "[[_Standards/WikiData/WD~Erythroxylum_coca,158018]]"
-  - "[[_Standards/WikiData/WD~Erythroxylum_novogranatense,5396543]]"
+  - '[[_Standards/WikiData/WD~Erythroxylum_coca,158018]]'
+  - '[[_Standards/WikiData/WD~Erythroxylum_novogranatense,5396543]]'
 found_in_taxon:
-  - "[[_Standards/WikiData/WD~Erythroxylum_coca,158018]]"
-  - "[[_Standards/WikiData/WD~Erythroxylum_novogranatense,5396543]]"
-  - "[[_Standards/WikiData/WD~Erythroxylum_citrifolium,15376016]]"
-  - "[[_Standards/WikiData/WD~Erythroxylum_deciduum,15376261]]"
-  - "[[_Standards/WikiData/WD~Erythroxylum_panamense,15377372]]"
-  - "[[_Standards/WikiData/WD~Erythroxylum_campestre,15377746]]"
-  - "[[_Standards/WikiData/WD~Erythroxylum_pulchrum,15377923]]"
-  - "[[_Standards/WikiData/WD~Erythroxylum_pelleterianum,15378731]]"
-  - "[[_Standards/WikiData/WD~Erythroxylum_rufum,15379745]]"
+  - '[[_Standards/WikiData/WD~Erythroxylum_coca,158018]]'
+  - '[[_Standards/WikiData/WD~Erythroxylum_novogranatense,5396543]]'
+  - '[[_Standards/WikiData/WD~Erythroxylum_citrifolium,15376016]]'
+  - '[[_Standards/WikiData/WD~Erythroxylum_deciduum,15376261]]'
+  - '[[_Standards/WikiData/WD~Erythroxylum_panamense,15377372]]'
+  - '[[_Standards/WikiData/WD~Erythroxylum_campestre,15377746]]'
+  - '[[_Standards/WikiData/WD~Erythroxylum_pulchrum,15377923]]'
+  - '[[_Standards/WikiData/WD~Erythroxylum_pelleterianum,15378731]]'
+  - '[[_Standards/WikiData/WD~Erythroxylum_rufum,15379745]]'
 subject_has_role:
-  - "[[_Standards/WikiData/WD~stimulant,211036]]"
-  - "[[_Standards/WikiData/WD~dopamine_reuptake_inhibitor,899647]]"
-  - "[[_Standards/WikiData/WD~local_anesthetic,1868462]]"
-  - "[[_Standards/WikiData/WD~vasoconstrictor_agents,3359124]]"
-  - "[[_Standards/WikiData/WD~female_reproductive_toxicant,55427776]]"
-  - "[[_Standards/WikiData/WD~developmental_toxicant,72941151]]"
+  - '[[_Standards/WikiData/WD~stimulant,211036]]'
+  - '[[_Standards/WikiData/WD~dopamine_reuptake_inhibitor,899647]]'
+  - '[[_Standards/WikiData/WD~local_anesthetic,1868462]]'
+  - '[[_Standards/WikiData/WD~vasoconstrictor_agents,3359124]]'
+  - '[[_Standards/WikiData/WD~female_reproductive_toxicant,55427776]]'
+  - '[[_Standards/WikiData/WD~developmental_toxicant,72941151]]'
 active_ingredient_in:
-  - "[[_Standards/WikiData/WD~crack,330694]]"
-  - "[[_Standards/WikiData/WD~Goprelto,48829055]]"
+  - '[[_Standards/WikiData/WD~crack,330694]]'
+  - '[[_Standards/WikiData/WD~Goprelto,48829055]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Cocaine,341649]]"
-  - "[[_Standards/WikiData/WD~Kokain,12956720]]"
-  - "[[_Standards/WikiData/WD~cocaine_hydrochloride,27225784]]"
+  - '[[_Standards/WikiData/WD~Cocaine,341649]]'
+  - '[[_Standards/WikiData/WD~Kokain,12956720]]'
+  - '[[_Standards/WikiData/WD~cocaine_hydrochloride,27225784]]'
 route_of_administration:
-  - "[[_Standards/WikiData/WD~topical_medication,420054]]"
-  - "[[_Standards/WikiData/WD~insufflation,3153701]]"
+  - '[[_Standards/WikiData/WD~topical_medication,420054]]'
+  - '[[_Standards/WikiData/WD~insufflation,3153701]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]'
 part_of:
-  - "[[_Standards/WikiData/WD~cellular_response_to_cocaine,14819899]]"
-  - "[[_Standards/WikiData/WD~response_to_cocaine,14820884]]"
-  - "[[_Standards/WikiData/WD~cocaine_binding,14860804]]"
-  - "[[_Standards/WikiData/WD~cocaine_metabolic_process,14913509]]"
-  - "[[_Standards/WikiData/WD~cocaine_biosynthetic_process,22275972]]"
-  - "[[_Standards/WikiData/WD~cocaine_catabolic_process,22275973]]"
-physically_interacts_with: "[[_Standards/WikiData/WD~5_hydroxytryptamine_receptor_3A,21108125]]"
+  - '[[_Standards/WikiData/WD~cellular_response_to_cocaine,14819899]]'
+  - '[[_Standards/WikiData/WD~response_to_cocaine,14820884]]'
+  - '[[_Standards/WikiData/WD~cocaine_binding,14860804]]'
+  - '[[_Standards/WikiData/WD~cocaine_metabolic_process,14913509]]'
+  - '[[_Standards/WikiData/WD~cocaine_biosynthetic_process,22275972]]'
+  - '[[_Standards/WikiData/WD~cocaine_catabolic_process,22275973]]'
+physically_interacts_with: '[[_Standards/WikiData/WD~5_hydroxytryptamine_receptor_3A,21108125]]'
 stereoisomer_of:
-  - "[[_Standards/WikiData/WD~pseudococaine,27254174]]"
-  - "[[_Standards/WikiData/WD~Methyl_(1R,2R,3R,5S)_3_benzoyloxy_8_methyl_8_azabicyclo_3.2.1_octane_2_carboxylate,81976595]]"
-  - "[[_Standards/WikiData/WD~Pseudoallococaine,81977525]]"
-  - "[[_Standards/WikiData/WD~Methyl_(1S,2R,3R,5R)_3_(benzoyloxy)_8_methyl_8_azabicyclo_3.2.1_octane_2_carboxylate,82124331]]"
-pregnancy_category: "[[_Standards/WikiData/WD~US_pregnancy_category_C,28123617]]"
-conjugate_acid: "[[_Standards/WikiData/WD~protonated_cocaine,107289245]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+  - '[[_Standards/WikiData/WD~pseudococaine,27254174]]'
+  - '[[_Standards/WikiData/WD~Methyl_(1R,2R,3R,5S)_3_benzoyloxy_8_methyl_8_azabicyclo_3.2.1_octane_2_carboxylate,81976595]]'
+  - '[[_Standards/WikiData/WD~Pseudoallococaine,81977525]]'
+  - '[[_Standards/WikiData/WD~Methyl_(1S,2R,3R,5R)_3_(benzoyloxy)_8_methyl_8_azabicyclo_3.2.1_octane_2_carboxylate,82124331]]'
+pregnancy_category: '[[_Standards/WikiData/WD~US_pregnancy_category_C,28123617]]'
+conjugate_acid: '[[_Standards/WikiData/WD~protonated_cocaine,107289245]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~hydrogen,556]]"
-  - "[[_Standards/WikiData/WD~carbon,623]]"
-  - "[[_Standards/WikiData/WD~nitrogen,627]]"
-  - "[[_Standards/WikiData/WD~oxygen,629]]"
-has_use: "[[_Standards/WikiData/WD~medication,12140]]"
+  - '[[_Standards/WikiData/WD~hydrogen,556]]'
+  - '[[_Standards/WikiData/WD~carbon,623]]'
+  - '[[_Standards/WikiData/WD~nitrogen,627]]'
+  - '[[_Standards/WikiData/WD~oxygen,629]]'
+has_use: '[[_Standards/WikiData/WD~medication,12140]]'
 sublimation_temperature: 90
 melting_point: 98
 density: 1.22
@@ -141,20 +142,20 @@ SPLASH:
   - splash10-0ue9-0609000000-bd90cd1f98ce1845ba6b
   - splash10-0ue9-0709000000-d19680d406708cbbc59b
 RTECS_number: YM2800000
-Gmelin_number: "170209"
+Gmelin_number: 170209
 refractive_index: 1.5022
-RxNorm_CUI: "2653"
-CCDC_Number: "1128132"
+RxNorm_CUI: 2653
+CCDC_Number: 1128132
 InChIKey: ZPUCINDJVBIVPJ-LJISPDSOSA-N
 Reaxys_registry_number:
-  - "91034"
-  - "3621912"
-  - "5291037"
+  - 91034
+  - 3621912
+  - 5291037
 mass: 303.147
-PubChem_CID: "446220"
-OmegaWiki_Defined_Meaning: "371872"
+PubChem_CID: 446220
+OmegaWiki_Defined_Meaning: 371872
 UNII: I5Y540LHVR
-U_S_National_Archives_Identifier: "10638032"
+U_S_National_Archives_Identifier: 10638032
 InChI: InChI=1S/C17H21NO4/c1-18-12-8-9-13(18)15(17(20)21-2)14(10-12)22-16(19)11-6-4-3-5-7-11/h3-7,12-15H,8-10H2,1-2H3/t12-,13+,14-,15+/m0/s1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Amapolaa%20en%20polvo%20%28cocaina%29.jpg
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Kokain%20-%20Cocaine.svg
@@ -167,12 +168,12 @@ image_of_molecular_model_or_crystal_lattice_model: http://commons.wikimedia.org/
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Cocaine%20-%20Do%E2%80%99s%20and%20don%E2%80%99ts%20-%20Drugslab.webm
 EC_number: 200-032-7
 Dewey_Decimal_Classification:
-  - "362.298"
-  - "613.84"
-  - "615.785"
-  - "616.8647"
+  - 362.298
+  - 613.84
+  - 615.785
+  - 616.8647
 CAS_Registry_Number: 50-36-2
-P8189: "987007284046305171"
+P8189: 987007284046305171
 UMLS_CUI: C0009170
 isomeric_SMILES: CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)OC(=O)C3=CC=CC=C3)C(=O)OC
 CSD_Refcode: COCAIN10

@@ -1,6 +1,6 @@
 ---
 aliases:
-- Charales
+  - Charales
 title: Charales
 ---
 

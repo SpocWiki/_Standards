@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Onychoteuthidae
 title: Onychoteuthidae
 ---
 

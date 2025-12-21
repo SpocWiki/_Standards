@@ -4,21 +4,23 @@ aliases:
   - traditional_chinese
   - TraditionalChinese
   - is_a_traditional_chinese
+  - Traditional_Chinese
+  - Traditional Chinese
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicineSystem
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - traditional_chinese
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_traditional_chinese Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

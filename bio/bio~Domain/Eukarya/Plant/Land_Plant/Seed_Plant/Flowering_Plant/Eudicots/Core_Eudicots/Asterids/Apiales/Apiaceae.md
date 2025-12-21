@@ -2,6 +2,62 @@
 aliases:
   - Umbelliferae
   - Apiaceae
+  - Skærmplante-familien
+  - Wokołkowe rostliny
+  - Umbellifers
+  - Apiacoj
+  - Umbelíferas
+  - Sarikalised
+  - چتریان
+  - Sarjakukkaiskasvit
+  - Apiacées
+  - Ombellifères
+  - Skiremplaanten
+  - Štitarke
+  - Zellerfélék
+  - հովանոցավորներ
+  - Նեխուրազգիներ
+  - Suku adas-adasan
+  - Sveipjurtaætt
+  - セリ科
+  - ქოლგოსანნი
+  - Шатыршагүлділер тұқымдасы
+  - 미나리과
+  - Famîleya bexdenûsan
+  - Salieriniai
+  - Čemurziežu dzimta
+  - штитоцветни
+  - അംബെല്ലിഫെറേ
+  - Skjermplantefamilien
+  - Schermbloemenfamilie
+  - Аууондархуызтæ
+  - selerowate
+  - چھتری ٹبر
+  - Raqacha yura rikch'aq ayllu
+  - Зонтичные
+  - zelerovité
+  - kobulnice
+  - штитаре
+  - штитоноше
+  - Flockblommiga växter
+  - అంబెల్లిఫెరె
+  - วงศ์ผักชี
+  - Maydanozgiller
+  - Зонтичні
+  - کرفسان
+  - Ziradoshlar
+  - Họ Hoa tán
+  - Schermblommign
+  - Ombrelires
+  - סוככים
+  - Doldenblütler
+  - 伞形科
+  - خيمية
+  - Kərəvüzkimilər
+  - Парасонавыя
+  - Сенникоцветни
+  - Apiàcia
+  - miříkovité
 has_id_wikidata: Q145794
 taxon_common_name:
   - Skærmplante-familien
@@ -63,15 +119,15 @@ taxon_common_name:
   - Сенникоцветни
   - Apiàcia
   - miříkovité
-uses: "[[_Standards/WikiData/WD~CAM_photosynthesis,858313]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Apium,2284228]]"
-taxon_synonym: "[[_Standards/WikiData/WD~Umbelliferae,10387485]]"
-has_fruit_type: "[[_Standards/WikiData/WD~achene,14714]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Apiales,21138]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "500042"
+uses: '[[_Standards/WikiData/WD~CAM_photosynthesis,858313]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Apium,2284228]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Umbelliferae,10387485]]'
+has_fruit_type: '[[_Standards/WikiData/WD~achene,14714]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Apiales,21138]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 500042
 Commons_category: Apiaceae
 taxon_name: Apiaceae
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Umbelliferae-apium-daucus-foeniculum-eryngium-petroselinum.jpg

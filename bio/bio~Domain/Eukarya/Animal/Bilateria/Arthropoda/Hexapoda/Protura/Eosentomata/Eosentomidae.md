@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Eosentomidae
 title: Eosentomidae
 ---
 

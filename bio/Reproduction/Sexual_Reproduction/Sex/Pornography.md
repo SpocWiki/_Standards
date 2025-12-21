@@ -2,40 +2,41 @@
 aliases:
   - Pornographie
   - porn or porno
+  - Pornography
 has_id_wikidata: Q291
-different_from: "[[_Standards/WikiData/WD~erotica,181001]]"
+different_from: '[[_Standards/WikiData/WD~erotica,181001]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pornopedia,1393730]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Pornopedia,1393730]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
-has_effect: "[[_Standards/WikiData/WD~pornography_addiction,1319971]]"
-opposite_of: "[[_Standards/WikiData/WD~opposition_to_pornography,2745509]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Pornography,11052852]]"
+  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
+  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+has_effect: '[[_Standards/WikiData/WD~pornography_addiction,1319971]]'
+opposite_of: '[[_Standards/WikiData/WD~opposition_to_pornography,2745509]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Pornography,11052852]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Porn_stub,13379779]]"
-  - "[[_Standards/WikiData/WD~Template_Pornography,19822711]]"
+  - '[[_Standards/WikiData/WD~Template_Porn_stub,13379779]]'
+  - '[[_Standards/WikiData/WD~Template_Pornography,19822711]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~creative_work,17537576]]"
-  - "[[_Standards/WikiData/WD~erotic_product,115921406]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_arts,56055944]]"
-studied_by: "[[_Standards/WikiData/WD~porn_studies,97360329]]"
-practiced_by: "[[_Standards/WikiData/WD~pornographer,135004949]]"
+  - '[[_Standards/WikiData/WD~creative_work,17537576]]'
+  - '[[_Standards/WikiData/WD~erotic_product,115921406]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
+studied_by: '[[_Standards/WikiData/WD~porn_studies,97360329]]'
+practiced_by: '[[_Standards/WikiData/WD~pornographer,135004949]]'
 Commons_category: Pornography
 PhilPapers_topic: pornography
-ACM_Classification_Code_2012_: "10003481"
+ACM_Classification_Code_2012_: 10003481
 Dewey_Decimal_Classification:
-  - "306.77"
-  - "363.47"
+  - 306.77
+  - 363.47
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Debbie%20Does%20Dallas%2C%201978%2C%20trailer.webm
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Pornproject%20logo.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Pornography.mp3
 WordLift_URL: http://data.thenextweb.com/tnw/entity/pornography
-U_S_National_Archives_Identifier: "10643026"
+U_S_National_Archives_Identifier: 10643026
 subreddit:
   - 60fpsporn
   - porn_gifs

@@ -1,8 +1,9 @@
 ---
 aliases:
-- Phacochoerus
-- warthogs
-- warthog
+  - Phacochoerus
+  - warthogs
+  - warthog
+  - Warthog
 title: Phacochoerus
 ---
 

@@ -6,27 +6,29 @@ aliases:
   - hyaena
   - Hyaenidae
   - ὕαινα
+  - hyenas
+  - hyenefamilien
 has_id_wikidata: Q42046
-different_from: "[[_Standards/WikiData/WD~African_wild_dog,173651]]"
+different_from: '[[_Standards/WikiData/WD~African_wild_dog,173651]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Hyaena,1417638]]"
+  - '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Hyaena,1417638]]'
 parent_taxon:
-  - "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Aeluroidea,4687717]]"
-  - "[[_Standards/WikiData/WD~Herpestoidea,9776204]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q135108936,135108936]]"
+  - '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Aeluroidea,4687717]]'
+  - '[[_Standards/WikiData/WD~Herpestoidea,9776204]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q135108936,135108936]]'
 start_time: -26000000-06
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "621756"
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 621756
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hyaenidae%20Diversity.jpg
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Proteles%20cristatus1.jpg
@@ -34,7 +36,7 @@ image:
 taxon_common_name:
   - hyenas
   - hyenefamilien
-OmegaWiki_Defined_Meaning: "736876"
+OmegaWiki_Defined_Meaning: 736876
 Iconclass_notation: 25F23(HYENA)
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hyaenidae%20range.png
 exact_match:

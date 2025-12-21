@@ -1,5 +1,7 @@
 ---
-title: "Salticus palpalis"
+aliases:
+  - palpalis
+title: Salticus palpalis
 ---
 
 ## Phylogeny 

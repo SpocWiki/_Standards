@@ -4,21 +4,23 @@ aliases:
   - genito-urinary exam
   - Genitourinary
   - is_a_genitourinary_examination
+  - Genitourinary_Exam
+  - Genitourinary Exam
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - genitourinary
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_genitourinary Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

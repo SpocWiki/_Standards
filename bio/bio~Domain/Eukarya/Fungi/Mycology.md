@@ -1,20 +1,21 @@
 ---
 aliases:
   - Pilzkunde
+  - Mycology
 has_id_wikidata: Q7175
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~branch_of_biology,28598684]]"
-practiced_by: "[[_Standards/WikiData/WD~mycologist,2487799]]"
-subclass_of: "[[_Standards/WikiData/WD~biology,420]]"
-OmegaWiki_Defined_Meaning: "2454"
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~branch_of_biology,28598684]]'
+practiced_by: '[[_Standards/WikiData/WD~mycologist,2487799]]'
+subclass_of: '[[_Standards/WikiData/WD~biology,420]]'
+OmegaWiki_Defined_Meaning: 2454
 GitHub_topic: mycology
 subreddit: mycology
 Commons_category: Mycology
@@ -26,9 +27,9 @@ image:
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Bandeau%20du%20portail%20Mycologie%20haut%20gauche.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%9B%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8.wav
 Dewey_Decimal_Classification:
-  - "579.5"
-  - "616.96901"
-P8189: "987007555873105171"
+  - 579.5
+  - 616.96901
+P8189: 987007555873105171
 UMLS_CUI: C0026932
 MeSH_tree_code: H01.158.273.540.553
 ---

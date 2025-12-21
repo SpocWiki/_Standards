@@ -1,5 +1,7 @@
 ---
-title: "Stauroteuthis syrtensis"
+aliases:
+  - syrtensis
+title: Stauroteuthis syrtensis
 ---
 
 # Stauroteuthis syrtensis [Verrill 1879] 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Tragulidae
 title: Tragulidae
 ---
 

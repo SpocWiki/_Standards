@@ -1,5 +1,7 @@
 ---
-title: "Physalaemus cicada"
+aliases:
+  - cicada
+title: Physalaemus cicada
 ---
 
 ## Phylogeny 

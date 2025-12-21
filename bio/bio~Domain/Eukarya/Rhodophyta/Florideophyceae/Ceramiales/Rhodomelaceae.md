@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Rhodomelaceae
 title: Rhodomelaceae
 ---
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Choanoflagellates
 title: Choanoflagellates
 ---
 

@@ -4,20 +4,22 @@ aliases:
   - medical_specialty
   - MedicalSpecialty
   - is_a_medical_specialty
+  - Medical_Specialty
+  - Medical Specialty
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_specialty
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_specialty Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

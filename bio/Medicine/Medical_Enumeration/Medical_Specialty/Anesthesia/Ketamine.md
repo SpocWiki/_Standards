@@ -35,57 +35,57 @@ World_Health_Organisation_international_non_proprietary_name:
   - 氯胺酮
   - ketamine
   - кетамин
-Dewey_Decimal_Classification: "615.781"
+Dewey_Decimal_Classification: 615.781
 medical_condition_treated:
-  - "[[_Standards/WikiData/WD~pain,81938]]"
-  - "[[_Standards/WikiData/WD~substance_abuse,3184856]]"
+  - '[[_Standards/WikiData/WD~pain,81938]]'
+  - '[[_Standards/WikiData/WD~substance_abuse,3184856]]'
 subject_has_role:
-  - "[[_Standards/WikiData/WD~analgesic,173235]]"
-  - "[[_Standards/WikiData/WD~dopamine_agonist,600203]]"
-  - "[[_Standards/WikiData/WD~Dissociative,900394]]"
-  - "[[_Standards/WikiData/WD~excitatory_amino_acid_antagonist,5419644]]"
-  - "[[_Standards/WikiData/WD~dissociative_anesthetics,50429828]]"
-  - "[[_Standards/WikiData/WD~essential_medicine,35456]]"
+  - '[[_Standards/WikiData/WD~analgesic,173235]]'
+  - '[[_Standards/WikiData/WD~dopamine_agonist,600203]]'
+  - '[[_Standards/WikiData/WD~Dissociative,900394]]'
+  - '[[_Standards/WikiData/WD~excitatory_amino_acid_antagonist,5419644]]'
+  - '[[_Standards/WikiData/WD~dissociative_anesthetics,50429828]]'
+  - '[[_Standards/WikiData/WD~essential_medicine,35456]]'
 different_from:
-  - "[[_Standards/WikiData/WD~esketamine,2365493]]"
-  - "[[_Standards/WikiData/WD~(RS)_ketamine_hydrochloride,27105184]]"
+  - '[[_Standards/WikiData/WD~esketamine,2365493]]'
+  - '[[_Standards/WikiData/WD~(RS)_ketamine_hydrochloride,27105184]]'
 pregnancy_category:
-  - "[[_Standards/WikiData/WD~Australian_pregnancy_category_B3,3679234]]"
-  - "[[_Standards/WikiData/WD~US_pregnancy_category_C,28123617]]"
+  - '[[_Standards/WikiData/WD~Australian_pregnancy_category_B3,3679234]]'
+  - '[[_Standards/WikiData/WD~US_pregnancy_category_C,28123617]]'
 physically_interacts_with:
-  - "[[_Standards/WikiData/WD~Glutamate_ionotropic_receptor_NMDA_type_subunit_2A,21115815]]"
-  - "[[_Standards/WikiData/WD~Glutamate_ionotropic_receptor_NMDA_type_subunit_2C,21115819]]"
-  - "[[_Standards/WikiData/WD~Glutamate_ionotropic_receptor_NMDA_type_subunit_2B,21115816]]"
-  - "[[_Standards/WikiData/WD~Glutamate_ionotropic_receptor_NMDA_type_subunit_1,21118862]]"
-  - "[[_Standards/WikiData/WD~Glutamate_ionotropic_receptor_NMDA_type_subunit_3A,21118868]]"
-  - "[[_Standards/WikiData/WD~Glutamate_ionotropic_receptor_NMDA_type_subunit_2D,21130911]]"
-part_of: "[[_Standards/WikiData/WD~response_to_ketamine,21119124]]"
+  - '[[_Standards/WikiData/WD~Glutamate_ionotropic_receptor_NMDA_type_subunit_2A,21115815]]'
+  - '[[_Standards/WikiData/WD~Glutamate_ionotropic_receptor_NMDA_type_subunit_2C,21115819]]'
+  - '[[_Standards/WikiData/WD~Glutamate_ionotropic_receptor_NMDA_type_subunit_2B,21115816]]'
+  - '[[_Standards/WikiData/WD~Glutamate_ionotropic_receptor_NMDA_type_subunit_1,21118862]]'
+  - '[[_Standards/WikiData/WD~Glutamate_ionotropic_receptor_NMDA_type_subunit_3A,21118868]]'
+  - '[[_Standards/WikiData/WD~Glutamate_ionotropic_receptor_NMDA_type_subunit_2D,21130911]]'
+part_of: '[[_Standards/WikiData/WD~response_to_ketamine,21119124]]'
 active_ingredient_in:
-  - "[[_Standards/WikiData/WD~Ketalar,48825978]]"
-  - "[[_Standards/WikiData/WD~Ketathesia,48826009]]"
-  - "[[_Standards/WikiData/WD~Ketaset,48826132]]"
-  - "[[_Standards/WikiData/WD~Ketaved,48826235]]"
-  - "[[_Standards/WikiData/WD~Zetamine,48828311]]"
-  - "[[_Standards/WikiData/WD~Ketaject,48828933]]"
-  - "[[_Standards/WikiData/WD~Vetaket,48829264]]"
-instance_of: "[[_Standards/WikiData/WD~group_of_stereoisomers,59199015]]"
-studied_by: "[[_Standards/WikiData/WD~ketamine_in_depression,65939664]]"
+  - '[[_Standards/WikiData/WD~Ketalar,48825978]]'
+  - '[[_Standards/WikiData/WD~Ketathesia,48826009]]'
+  - '[[_Standards/WikiData/WD~Ketaset,48826132]]'
+  - '[[_Standards/WikiData/WD~Ketaved,48826235]]'
+  - '[[_Standards/WikiData/WD~Zetamine,48828311]]'
+  - '[[_Standards/WikiData/WD~Ketaject,48828933]]'
+  - '[[_Standards/WikiData/WD~Vetaket,48829264]]'
+instance_of: '[[_Standards/WikiData/WD~group_of_stereoisomers,59199015]]'
+studied_by: '[[_Standards/WikiData/WD~ketamine_in_depression,65939664]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~monochlorobenzene,72580449]]"
-  - "[[_Standards/WikiData/WD~secondary_amine,73304699]]"
-  - "[[_Standards/WikiData/WD~cyclohexanones,76544197]]"
-LiverTox_likelihood_score: "[[_Standards/WikiData/WD~LiverTox_toxicity_likelihood_category_B,83284157]]"
+  - '[[_Standards/WikiData/WD~monochlorobenzene,72580449]]'
+  - '[[_Standards/WikiData/WD~secondary_amine,73304699]]'
+  - '[[_Standards/WikiData/WD~cyclohexanones,76544197]]'
+LiverTox_likelihood_score: '[[_Standards/WikiData/WD~LiverTox_toxicity_likelihood_category_B,83284157]]'
 has_use:
-  - "[[_Standards/WikiData/WD~Ketamine_assisted_psychotherapy,113144093]]"
-  - "[[_Standards/WikiData/WD~medication,12140]]"
-by_product: "[[_Standards/WikiData/WD~CanKet,114763654]]"
+  - '[[_Standards/WikiData/WD~Ketamine_assisted_psychotherapy,113144093]]'
+  - '[[_Standards/WikiData/WD~medication,12140]]'
+by_product: '[[_Standards/WikiData/WD~CanKet,114763654]]'
 mass: 237.092042
-PubChem_CID: "3821"
-RxNorm_CUI: "6130"
-NSC_number: "70151"
+PubChem_CID: 3821
+RxNorm_CUI: 6130
+NSC_number: 70151
 UNII: 690G0D6V8H
 InChIKey: YQEZLKZALYSWHR-UHFFFAOYSA-N
-Reaxys_registry_number: "2216965"
+Reaxys_registry_number: 2216965
 InChI: InChI=1S/C13H16ClNO/c1-15-13(9-5-4-8-12(13)16)10-6-2-3-7-11(10)14/h2-3,6-7,15H,4-5,8-9H2,1H3
 chemical_formula: C₁₃H₁₆ClNO
 canonical_SMILES: CNC1(CCCCC1=O)C2=CC=CC=C2Cl

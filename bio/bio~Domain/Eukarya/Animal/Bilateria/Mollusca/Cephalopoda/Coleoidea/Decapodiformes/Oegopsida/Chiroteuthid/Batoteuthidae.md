@@ -1,5 +1,7 @@
 ---
-title: "Batoteuthis skolops"
+aliases:
+  - Batoteuthidae
+title: Batoteuthis skolops
 ---
 
 ## Phylogeny 

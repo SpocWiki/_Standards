@@ -2,6 +2,7 @@
 aliases:
   - Dian Fossey
   - Dian_Fossey
+  - Fossey,Dian
 ---
 
 # [[Fossey,Dian]]

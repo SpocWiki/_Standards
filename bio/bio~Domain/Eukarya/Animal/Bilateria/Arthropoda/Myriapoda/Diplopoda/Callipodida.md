@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Callipodida
 title: Callipodida
 ---
 

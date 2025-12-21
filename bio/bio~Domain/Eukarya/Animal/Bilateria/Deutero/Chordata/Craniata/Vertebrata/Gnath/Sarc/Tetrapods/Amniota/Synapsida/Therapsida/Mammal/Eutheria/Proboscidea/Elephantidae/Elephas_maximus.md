@@ -1,5 +1,8 @@
 ---
-title: "Elephas maximus"
+aliases:
+  - Elephas_maximus
+  - Elephas maximus
+title: Elephas maximus
 ---
 
 # Elephas maximus

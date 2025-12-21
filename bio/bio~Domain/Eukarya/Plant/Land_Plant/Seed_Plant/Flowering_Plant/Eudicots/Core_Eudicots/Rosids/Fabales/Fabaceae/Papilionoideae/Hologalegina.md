@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Hologalegina
 title: Hologalegina
 ---
 

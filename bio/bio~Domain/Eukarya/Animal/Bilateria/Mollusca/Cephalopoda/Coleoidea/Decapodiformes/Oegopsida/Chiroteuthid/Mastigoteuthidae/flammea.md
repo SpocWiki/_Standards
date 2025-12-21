@@ -1,5 +1,7 @@
 ---
-title: "Mastigoteuthis flammea"
+aliases:
+  - flammea
+title: Mastigoteuthis flammea
 ---
 
 ## Phylogeny 

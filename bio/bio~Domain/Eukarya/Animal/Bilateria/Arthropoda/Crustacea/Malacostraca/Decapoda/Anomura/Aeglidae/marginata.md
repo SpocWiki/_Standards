@@ -1,5 +1,7 @@
 ---
-title: "Aegla marginata"
+aliases:
+  - marginata
+title: Aegla marginata
 ---
 
 ## Phylogeny 

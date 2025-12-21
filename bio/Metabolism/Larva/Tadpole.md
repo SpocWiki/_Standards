@@ -6,19 +6,19 @@ aliases:
   - pollywog
 has_id_wikidata: Q168525
 subclass_of:
-  - "[[_Standards/WikiData/WD~larva,129270]]"
-  - "[[_Standards/WikiData/WD~hatchling,2892050]]"
+  - '[[_Standards/WikiData/WD~larva,129270]]'
+  - '[[_Standards/WikiData/WD~hatchling,2892050]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-different_from: "[[_Standards/WikiData/WD~Kijanka,11739152]]"
-OmegaWiki_Defined_Meaning: "505289"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Kijanka,11739152]]'
+OmegaWiki_Defined_Meaning: 505289
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tadpoles%2010%20days.jpg
 Commons_gallery: Tadpole
 Commons_category: Tadpoles
-Dewey_Decimal_Classification: "597.81392"
+Dewey_Decimal_Classification: 597.81392
 ---
 
 # [[Tadpole]] 

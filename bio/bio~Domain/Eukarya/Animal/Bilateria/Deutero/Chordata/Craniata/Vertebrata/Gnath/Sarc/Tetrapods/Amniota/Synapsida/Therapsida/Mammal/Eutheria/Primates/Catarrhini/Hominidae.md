@@ -3,18 +3,35 @@ aliases:
   - great ape
   - hominid
   - Hominoidea
-title: Hominidae
+  - Hominidae
+  - ape
+  - Akaatia
+  - hominoidi
+  - homoideo
+  - Hominoideos
+  - Hominoïdes
+  - Minskoortagen
+  - Ominoidi
+  - ヒト上科
+  - 사람상과
+  - Małpy człekokształtne
+  - Человекообразные обезьяны
+  - človečnjaki
+  - Gibboner och hominider (Hominoider)
+  - İnsanımsılar
+  - 人型超科
 has_id_wikidata: Q102470
+title: Hominidae
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-taxon_rank: "[[_Standards/WikiData/WD~superfamily,2136103]]"
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103]]'
 start_time: -20400000-06
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-ITIS_TSN: "943782"
-U_S_National_Archives_Identifier: "10648081"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 943782
+U_S_National_Archives_Identifier: 10648081
 IMDb_keyword: ape
 subreddit: ape
 taxon_common_name:

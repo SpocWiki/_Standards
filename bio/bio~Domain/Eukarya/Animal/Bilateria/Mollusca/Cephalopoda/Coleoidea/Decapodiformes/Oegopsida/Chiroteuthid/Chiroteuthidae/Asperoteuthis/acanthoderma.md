@@ -1,5 +1,7 @@
 ---
-title: "Asperoteuthis acanthoderma"
+aliases:
+  - acanthoderma
+title: Asperoteuthis acanthoderma
 ---
 
 ## Phylogeny 

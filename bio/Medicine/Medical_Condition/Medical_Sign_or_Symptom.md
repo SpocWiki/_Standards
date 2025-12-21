@@ -4,20 +4,22 @@ aliases:
   - medical_sign_or_symptom
   - MedicalSignOrSymptom
   - is_a_medical_sign_or_symptom
+  - Medical_Sign_or_Symptom
+  - Medical Sign or Symptom
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_sign_or_symptom
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_sign_or_symptom Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

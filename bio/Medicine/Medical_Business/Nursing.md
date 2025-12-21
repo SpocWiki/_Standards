@@ -10,16 +10,16 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate:
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - nursing
-layout:
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_nursing Class
 publish: true
-publishDate:
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
@@ -53,15 +53,15 @@ subclass_of:
 has_part_s_: "[[_Standards/WikiData/WD~psychiatric_nursing,2801621]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Nursing,10769058]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Nursing,11722213]]"
-U_S_National_Archives_Identifier: "10644008"
+U_S_National_Archives_Identifier: 10644008
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nurse%20checks%20blood%20pressure.jpg
 exact_match: https://schema.org/Nursing
 described_at_URL: https://www.nursingworld.org/practice-policy/workforce/what-is-nursing/
 Unicode_character:
   - 👨⚕️
   - 👩⚕️
-Basisklassifikation: "44.63"
-Dewey_Decimal_Classification: "610.73"
+Basisklassifikation: 44.63
+Dewey_Decimal_Classification: 610.73
 UMLS_CUI: C0028677
 MeSH_tree_code:
   - H02.478
@@ -73,7 +73,7 @@ Commons_gallery: Nursing
 Commons_category: Nursing
 ---
 
-# [[Nursing]] 
+# [[Nursing]] 👨⚕️ 
 
 Class of all nursing Processes.
 

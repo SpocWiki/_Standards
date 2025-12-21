@@ -2,6 +2,7 @@
 aliases:
   - Carl Ransom Rogers
   - Carl Rogers
+  - Rogers,Carl
 has_id_wikidata: Q191004
 ---
 

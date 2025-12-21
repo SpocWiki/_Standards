@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Limuloidea
 title: Limuloidea
 ---
 

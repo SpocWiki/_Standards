@@ -1,23 +1,25 @@
 ---
 aliases:
   - Cognitive psychology
+  - Cognitive_Psychology
+  - Cognitive Psychology
 has_id_wikidata: Q23373
-topic_has_template: "[[_Standards/WikiData/WD~Template_Cognitive_psychology,25731877]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_psychology,60680430]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Cognitive_psychology,25731877]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_psychology,60680430]]'
 part_of:
-  - "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-  - "[[_Standards/WikiData/WD~psychology,9418]]"
-practiced_by: "[[_Standards/WikiData/WD~cognitive_psychologist,98393581]]"
-subclass_of: "[[_Standards/WikiData/WD~psychology,9418]]"
+  - '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+  - '[[_Standards/WikiData/WD~psychology,9418]]'
+practiced_by: '[[_Standards/WikiData/WD~cognitive_psychologist,98393581]]'
+subclass_of: '[[_Standards/WikiData/WD~psychology,9418]]'
 Dewey_Decimal_Classification:
-  - "153"
-  - "155.413"
-  - "155.513"
-  - "155.6713"
-OmegaWiki_Defined_Meaning: "671788"
+  - 153
+  - 155.413
+  - 155.513
+  - 155.6713
+OmegaWiki_Defined_Meaning: 671788
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Working-memory-en.svg
 Stack_Exchange_tag: https://psychology.stackexchange.com/tags/cognitive-psychology
-P8189: "987007539274705171"
+P8189: 987007539274705171
 UMLS_CUI: C0678963
 Commons_category: Cognitive psychology
 MeSH_tree_code:

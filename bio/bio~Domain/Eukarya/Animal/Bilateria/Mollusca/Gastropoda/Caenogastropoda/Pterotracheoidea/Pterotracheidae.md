@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Pterotracheidae
 title: Pterotracheidae
 ---
 

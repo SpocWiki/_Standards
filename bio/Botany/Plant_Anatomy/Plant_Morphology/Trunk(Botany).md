@@ -3,18 +3,19 @@ aliases:
   - Stamm
   - bole
   - boles
+  - Trunk(Botany)
 has_id_wikidata: Q193472
 subclass_of:
-  - "[[_Standards/WikiData/WD~plant_stem,134267]]"
-  - "[[_Standards/WikiData/WD~raw_material,192355]]"
+  - '[[_Standards/WikiData/WD~plant_stem,134267]]'
+  - '[[_Standards/WikiData/WD~raw_material,192355]]'
 different_from:
-  - "[[_Standards/WikiData/WD~gun_barrel,487192]]"
-  - "[[_Standards/WikiData/WD~Trunko,913481]]"
-  - "[[_Standards/WikiData/WD~log,12029485]]"
+  - '[[_Standards/WikiData/WD~gun_barrel,487192]]'
+  - '[[_Standards/WikiData/WD~Trunko,913481]]'
+  - '[[_Standards/WikiData/WD~log,12029485]]'
   - "[[_Standards/WikiData/WD~elephant's_trunk,63255087]]"
-has_use: "[[_Standards/WikiData/WD~log_cabin,695207]]"
-instance_of: "[[_Standards/WikiData/WD~plant_structure,20011319]]"
-part_of: "[[_Standards/WikiData/WD~tree,10884]]"
+has_use: '[[_Standards/WikiData/WD~log_cabin,695207]]'
+instance_of: '[[_Standards/WikiData/WD~plant_structure,20011319]]'
+part_of: '[[_Standards/WikiData/WD~tree,10884]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Yellow%20birch%20trunk.jpg
 Commons_gallery: Tree trunks
 Commons_category: Tree trunks

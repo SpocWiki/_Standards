@@ -1,6 +1,8 @@
 ---
 aliases:
-- Gefühlsvampir
+  - Gefühlsvampir
+  - Emotional_Vampire
+  - Emotional Vampire
 ---
 
 ## #has_/text_of_/abstract 

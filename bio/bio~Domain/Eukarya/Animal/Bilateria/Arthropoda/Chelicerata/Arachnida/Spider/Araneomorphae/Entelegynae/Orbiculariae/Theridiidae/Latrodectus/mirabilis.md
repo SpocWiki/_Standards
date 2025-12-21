@@ -1,5 +1,7 @@
 ---
-title: "Latrodectus mirabilis"
+aliases:
+  - mirabilis
+title: Latrodectus mirabilis
 ---
 
 ## Phylogeny 

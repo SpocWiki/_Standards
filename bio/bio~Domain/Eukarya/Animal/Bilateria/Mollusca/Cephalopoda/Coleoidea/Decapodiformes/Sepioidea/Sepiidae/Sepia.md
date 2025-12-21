@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sepia
 title: Sepia
 ---
 

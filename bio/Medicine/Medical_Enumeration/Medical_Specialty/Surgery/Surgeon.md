@@ -1,28 +1,29 @@
 ---
 aliases:
   - Chirurg
+  - Surgeon
 has_id_wikidata: Q774306
-patron_saint: "[[_Standards/WikiData/WD~Roch,152457]]"
+patron_saint: '[[_Standards/WikiData/WD~Roch,152457]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_degree,189533]]"
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~position,4164871]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~medical_profession,66811410]]"
+  - '[[_Standards/WikiData/WD~academic_degree,189533]]'
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~position,4164871]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~medical_profession,66811410]]'
 follows:
-  - "[[_Standards/WikiData/WD~barber_surgeon,781850]]"
-  - "[[_Standards/WikiData/WD~surgeon,1360697]]"
+  - '[[_Standards/WikiData/WD~barber_surgeon,781850]]'
+  - '[[_Standards/WikiData/WD~surgeon,1360697]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-subclass_of: "[[_Standards/WikiData/WD~medical_specialist,3332438]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+subclass_of: '[[_Standards/WikiData/WD~medical_specialist,3332438]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Al_Jarrah,61590692]]"
-  - "[[_Standards/WikiData/WD~surgeon,107356307]]"
-field_of_this_occupation: "[[_Standards/WikiData/WD~surgery,40821]]"
-ISCO_08_occupation_class: "2211"
-ISCO_88_occupation_class: "2221"
-OmegaWiki_Defined_Meaning: "397877"
+  - '[[_Standards/WikiData/WD~Al_Jarrah,61590692]]'
+  - '[[_Standards/WikiData/WD~surgeon,107356307]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~surgery,40821]]'
+ISCO_08_occupation_class: 2211
+ISCO_88_occupation_class: 2221
+OmegaWiki_Defined_Meaning: 397877
 male_form_of_label:
   - chirurgo
   - chirurgien
@@ -58,7 +59,7 @@ female_form_of_label:
   - лікарка-хірургиня
   - jikötetavan
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Surgeon%20operating%2C%20Fitzsimons%20Army%20Medical%20Center%2C%20circa%201990.JPEG
-U_S_National_Archives_Identifier: "10645089"
+U_S_National_Archives_Identifier: 10645089
 SOC_Code_2010_: 29-1067
 UMLS_CUI: C0582175
 Provenio_UUID: ef34fdd1-434a-4e7b-93fa-e1ddc2003d56
@@ -66,7 +67,7 @@ MeSH_tree_code:
   - M01.526.485.810.910
   - N02.360.810.910
 Commons_category: Surgeons
-Dewey_Decimal_Classification: "617.092"
+Dewey_Decimal_Classification: 617.092
 ---
 
 # [[Surgeon]] 

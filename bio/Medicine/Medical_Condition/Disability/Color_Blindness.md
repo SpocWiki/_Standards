@@ -1,23 +1,25 @@
 ---
 aliases:
   - Farbenblind
+  - Color_Blindness
+  - Color Blindness
 has_id_wikidata: Q133696
-health_specialty: "[[_Standards/WikiData/WD~ophthalmology,161437]]"
+health_specialty: '[[_Standards/WikiData/WD~ophthalmology,161437]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~vision_disorder,767669]]"
-  - "[[_Standards/WikiData/WD~blindness,10874]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
+  - '[[_Standards/WikiData/WD~vision_disorder,767669]]'
+  - '[[_Standards/WikiData/WD~blindness,10874]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-named_after: "[[_Standards/WikiData/WD~John_Dalton,41284]]"
-medical_examination: "[[_Standards/WikiData/WD~Ishihara_test,64152]]"
-DiseasesDB: "2999"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+named_after: '[[_Standards/WikiData/WD~John_Dalton,41284]]'
+medical_examination: '[[_Standards/WikiData/WD~Ishihara_test,64152]]'
+DiseasesDB: 2999
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ishihara%209.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Kleurenblindheid-article.ogg
 exact_match:
@@ -25,13 +27,13 @@ exact_match:
   - http://purl.obolibrary.org/obo/DOID_13399
   - http://www.orpha.net/ORDO/Orphanet_98658
 Stack_Exchange_tag: https://stackoverflow.com/tags/color-blindness
-OmegaWiki_Defined_Meaning: "1487486"
+OmegaWiki_Defined_Meaning: 1487486
 ICD_9_CM:
-  - "368.5"
-  - "368.59"
+  - 368.5
+  - 368.59
 Dewey_Decimal_Classification:
-  - "614.5997"
-  - "617.759"
+  - 614.5997
+  - 617.759
 UMLS_CUI:
   - C0242225
   - C5681659

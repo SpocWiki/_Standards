@@ -1,10 +1,11 @@
 ---
 aliases:
-  - Gregor Johann Mendel 
+  - Gregor Johann Mendel
   - Řehoř Jan Mendel
   - Gregor_Mendel
-  - Gregor Mendel 
+  - Gregor Mendel
   - Mendel
+  - Mendel,Gregor
 has_id_wikidata: Q37970
 ---
 

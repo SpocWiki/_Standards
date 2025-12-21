@@ -2,17 +2,19 @@
 aliases:
   - Depression
   - clinical depression
+  - Major_depressive_Disorder
+  - Major depressive Disorder
 has_id_wikidata: Q42844
 ICD_9_CM:
-  - "296.30"
-  - "296.2"
-  - "296.3"
-  - "296.20"
+  - 296.30
+  - 296.2
+  - 296.3
+  - 296.20
 Dewey_Decimal_Classification:
-  - "618.928527"
-  - "618.9768527"
-  - "362.25"
-  - "616.8527"
+  - 618.928527
+  - 618.9768527
+  - 362.25
+  - 616.8527
 UMLS_CUI:
   - C0011574
   - C0024517
@@ -28,77 +30,77 @@ ICD_10_CM:
   - F32
 Commons_category: Major depressive disorder
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~antidepressant,76560]]"
-  - "[[_Standards/WikiData/WD~antipsychotics,208144]]"
-  - "[[_Standards/WikiData/WD~5_HTP,238544]]"
-  - "[[../../../WikiData/WD~(RS)_ketamine,243547]]"
-  - "[[_Standards/WikiData/WD~selective_serotonin_reuptake_inhibitor,334477]]"
-  - "[[_Standards/WikiData/WD~agomelatine,395229]]"
-  - "[[_Standards/WikiData/WD~(S)_duloxetine,411932]]"
-  - "[[_Standards/WikiData/WD~maprotiline,418361]]"
-  - "[[_Standards/WikiData/WD~levosulpiride,1452256]]"
-  - "[[_Standards/WikiData/WD~serotonin_norepinephrine_reuptake_inhibitor,2273909]]"
-  - "[[_Standards/WikiData/WD~mood_stabilizer,2622367]]"
-  - "[[_Standards/WikiData/WD~levomilnacipran,6535779]]"
-  - "[[_Standards/WikiData/WD~wake_therapy,7961010]]"
-  - "[[_Standards/WikiData/WD~vilazodone_hydrochloride,27139037]]"
-  - "[[_Standards/WikiData/WD~Bupropion,72513765]]"
-  - "[[_Standards/WikiData/WD~amoxapine,58356]]"
+  - '[[_Standards/WikiData/WD~antidepressant,76560]]'
+  - '[[_Standards/WikiData/WD~antipsychotics,208144]]'
+  - '[[_Standards/WikiData/WD~5_HTP,238544]]'
+  - '[[../../../WikiData/WD~(RS)_ketamine,243547]]'
+  - '[[_Standards/WikiData/WD~selective_serotonin_reuptake_inhibitor,334477]]'
+  - '[[_Standards/WikiData/WD~agomelatine,395229]]'
+  - '[[_Standards/WikiData/WD~(S)_duloxetine,411932]]'
+  - '[[_Standards/WikiData/WD~maprotiline,418361]]'
+  - '[[_Standards/WikiData/WD~levosulpiride,1452256]]'
+  - '[[_Standards/WikiData/WD~serotonin_norepinephrine_reuptake_inhibitor,2273909]]'
+  - '[[_Standards/WikiData/WD~mood_stabilizer,2622367]]'
+  - '[[_Standards/WikiData/WD~levomilnacipran,6535779]]'
+  - '[[_Standards/WikiData/WD~wake_therapy,7961010]]'
+  - '[[_Standards/WikiData/WD~vilazodone_hydrochloride,27139037]]'
+  - '[[_Standards/WikiData/WD~Bupropion,72513765]]'
+  - '[[_Standards/WikiData/WD~amoxapine,58356]]'
 possible_treatment:
-  - "[[_Standards/WikiData/WD~antidepressant,76560]]"
-  - "[[_Standards/WikiData/WD~psychotherapy,183257]]"
-  - "[[_Standards/WikiData/WD~physical_exercise,219067]]"
-  - "[[_Standards/WikiData/WD~light_therapy,243570]]"
-  - "[[_Standards/WikiData/WD~transcranial_magnetic_stimulation,263962]]"
+  - '[[_Standards/WikiData/WD~antidepressant,76560]]'
+  - '[[_Standards/WikiData/WD~psychotherapy,183257]]'
+  - '[[_Standards/WikiData/WD~physical_exercise,219067]]'
+  - '[[_Standards/WikiData/WD~light_therapy,243570]]'
+  - '[[_Standards/WikiData/WD~transcranial_magnetic_stimulation,263962]]'
 different_from:
-  - "[[_Standards/WikiData/WD~depression,190429]]"
-  - "[[_Standards/WikiData/WD~depression,4340209]]"
+  - '[[_Standards/WikiData/WD~depression,190429]]'
+  - '[[_Standards/WikiData/WD~depression,4340209]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~mental_health,317309]]"
-  - "[[_Standards/WikiData/WD~depression,4340209]]"
-  - "[[_Standards/WikiData/WD~depressive_disorder,11076418]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
+  - '[[_Standards/WikiData/WD~mental_health,317309]]'
+  - '[[_Standards/WikiData/WD~depression,4340209]]'
+  - '[[_Standards/WikiData/WD~depressive_disorder,11076418]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
 risk_factor:
-  - "[[_Standards/WikiData/WD~chronic_condition,383126]]"
-  - "[[_Standards/WikiData/WD~family_medical_history,2857712]]"
-  - "[[_Standards/WikiData/WD~substance_abuse,3184856]]"
-symptoms_and_signs: "[[_Standards/WikiData/WD~depressive_syndrome,1046055]]"
+  - '[[_Standards/WikiData/WD~chronic_condition,383126]]'
+  - '[[_Standards/WikiData/WD~family_medical_history,2857712]]'
+  - '[[_Standards/WikiData/WD~substance_abuse,3184856]]'
+symptoms_and_signs: '[[_Standards/WikiData/WD~depressive_syndrome,1046055]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Merck_Manual_of_Diagnosis_and_Therapy,2666167]]"
+  - '[[_Standards/WikiData/WD~Merck_Manual_of_Diagnosis_and_Therapy,2666167]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~environmental_factor,2142347]]"
-  - "[[_Standards/WikiData/WD~Q127525993,127525993]]"
-  - "[[_Standards/WikiData/WD~genetics,7162]]"
+  - '[[_Standards/WikiData/WD~environmental_factor,2142347]]'
+  - '[[_Standards/WikiData/WD~Q127525993,127525993]]'
+  - '[[_Standards/WikiData/WD~genetics,7162]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-  - "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+  - '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 facet_of:
   - "[[_Standards/WikiData/WD~men's_health,4141483]]"
   - "[[_Standards/WikiData/WD~women's_health,8031191]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~depressive_personality_disorder,5260921]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~depressive_personality_disorder,5260921]]'
 genetic_association:
-  - "[[_Standards/WikiData/WD~ESRRG,5401840]]"
-  - "[[_Standards/WikiData/WD~CACNA1C,14905744]]"
-  - "[[_Standards/WikiData/WD~TRPS1,15323140]]"
-  - "[[_Standards/WikiData/WD~DRD2,15335165]]"
-  - "[[_Standards/WikiData/WD~ANK3,17826316]]"
-  - "[[_Standards/WikiData/WD~GRM7,18026554]]"
-  - "[[_Standards/WikiData/WD~MYO10,18029805]]"
-  - "[[_Standards/WikiData/WD~ITGA11,18036498]]"
-  - "[[_Standards/WikiData/WD~SYNE1,18037107]]"
-  - "[[_Standards/WikiData/WD~KCNH5,18038666]]"
-  - "[[_Standards/WikiData/WD~PCLO,18038817]]"
-  - "[[_Standards/WikiData/WD~ENOX1,18041520]]"
-  - "[[_Standards/WikiData/WD~FAT4,18046219]]"
-  - "[[_Standards/WikiData/WD~CCBE1,18051562]]"
-  - "[[_Standards/WikiData/WD~SHC4,18057438]]"
-  - "[[_Standards/WikiData/WD~SP4,20970130]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110097216,110097216]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
+  - '[[_Standards/WikiData/WD~ESRRG,5401840]]'
+  - '[[_Standards/WikiData/WD~CACNA1C,14905744]]'
+  - '[[_Standards/WikiData/WD~TRPS1,15323140]]'
+  - '[[_Standards/WikiData/WD~DRD2,15335165]]'
+  - '[[_Standards/WikiData/WD~ANK3,17826316]]'
+  - '[[_Standards/WikiData/WD~GRM7,18026554]]'
+  - '[[_Standards/WikiData/WD~MYO10,18029805]]'
+  - '[[_Standards/WikiData/WD~ITGA11,18036498]]'
+  - '[[_Standards/WikiData/WD~SYNE1,18037107]]'
+  - '[[_Standards/WikiData/WD~KCNH5,18038666]]'
+  - '[[_Standards/WikiData/WD~PCLO,18038817]]'
+  - '[[_Standards/WikiData/WD~ENOX1,18041520]]'
+  - '[[_Standards/WikiData/WD~FAT4,18046219]]'
+  - '[[_Standards/WikiData/WD~CCBE1,18051562]]'
+  - '[[_Standards/WikiData/WD~SHC4,18057438]]'
+  - '[[_Standards/WikiData/WD~SP4,20970130]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110097216,110097216]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 disease_burden: 76500242
-health_specialty: "[[_Standards/WikiData/WD~psychiatry,7867]]"
-DiseasesDB: "3589"
+health_specialty: '[[_Standards/WikiData/WD~psychiatry,7867]]'
+DiseasesDB: 3589
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20Van%20Gogh%20-%20Sorrow.JPG
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Hoe%20genees%20je%20een%20depressie%20-%20praten%20of%20pillen.webm
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Mdd2%20003.ogg

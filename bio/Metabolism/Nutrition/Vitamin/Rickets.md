@@ -1,6 +1,7 @@
 ---
 aliases:
-- rachitis
+  - rachitis
+  - Rickets
 ---
 
 ## #has_/text_of_/abstract 

@@ -1,10 +1,12 @@
 ---
-has_id_wikidata: Q122224
 aliases:
-  - Birth control 
-  - contraception 
-  - anticonception 
+  - Birth control
+  - contraception
+  - anticonception
   - fertility control
+  - Birth_Control
+  - Birth Control
+has_id_wikidata: Q122224
 ---
 
 # [[Birth_Control]] 

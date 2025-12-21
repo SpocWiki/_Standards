@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Notostigmophora
 title: Scutigeromorpha
 ---
 

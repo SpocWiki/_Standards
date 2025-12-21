@@ -2,12 +2,14 @@
 aliases:
   - Great Dying
   - Permian–Triassic extinction event
+  - Permian-Triassic_Extinction_Event
+  - Permian-Triassic Extinction Event
 has_id_wikidata: Q141118
-subclass_of: "[[_Standards/WikiData/WD~phenomenon,483247]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Online,5375741]]"
-has_cause: "[[_Standards/WikiData/WD~global_environmental_change,134519251]]"
+subclass_of: '[[_Standards/WikiData/WD~phenomenon,483247]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Online,5375741]]'
+has_cause: '[[_Standards/WikiData/WD~global_environmental_change,134519251]]'
 point_in_time: -251900000-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~extinction_event,55814]]"
+instance_of: '[[_Standards/WikiData/WD~extinction_event,55814]]'
 Commons_category: Permian–Triassic extinction event
 ---
 

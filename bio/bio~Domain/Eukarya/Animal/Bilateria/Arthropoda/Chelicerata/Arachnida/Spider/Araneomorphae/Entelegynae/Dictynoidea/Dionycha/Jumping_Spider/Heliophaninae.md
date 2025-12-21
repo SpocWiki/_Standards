@@ -1,7 +1,7 @@
 ---
 aliases:
-- Heliophaninae
-- Chrysillini
+  - Heliophaninae
+  - Chrysillini
 title: Heliophaninae
 ---
 

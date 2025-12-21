@@ -1,12 +1,14 @@
 ---
 aliases:
-- Leptosporangiate
-- "leptosporangiate fern"
-- Polypodiidae
-- Leptosporangiatae
-- Filicidae
-- Filicales
-title: "leptosporangiate ferns"
+  - Leptosporangiate
+  - leptosporangiate fern
+  - Polypodiidae
+  - Leptosporangiatae
+  - Filicidae
+  - Filicales
+  - Leptosporangiate_Ferns
+  - Leptosporangiate Ferns
+title: leptosporangiate ferns
 ---
 
 # [[Leptosporangiate_Ferns]] 

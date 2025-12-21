@@ -1,5 +1,7 @@
 ---
-title: "Planctoteuthis oligobessa"
+aliases:
+  - oligobessa
+title: Planctoteuthis oligobessa
 ---
 
 ## Phylogeny 

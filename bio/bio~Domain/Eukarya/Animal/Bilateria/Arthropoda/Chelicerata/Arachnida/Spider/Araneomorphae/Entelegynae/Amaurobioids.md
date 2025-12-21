@@ -1,5 +1,7 @@
 ---
-title: "other amaurobioids"
+aliases:
+  - Amaurobioids
+title: other amaurobioids
 ---
 
 # other amaurobioids 

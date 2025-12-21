@@ -4,20 +4,22 @@ aliases:
   - physical_therapy
   - PhysicalTherapy
   - is_a_physical_therapy
+  - Physical_Therapy
+  - Physical Therapy
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - physical_therapy
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_physical_therapy Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,7 +1,7 @@
 ---
 aliases:
-- Craniate
-- Craniata
+  - Craniate
+  - Craniata
 title: Craniata
 ---
 

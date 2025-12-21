@@ -1,5 +1,7 @@
 ---
-title: "Genistoid clade"
+aliases:
+  - Genistoid
+title: Genistoid clade
 ---
 
 ## Phylogeny 

@@ -1,5 +1,7 @@
 ---
-title: "Salticus scenicus"
+aliases:
+  - scenicus
+title: Salticus scenicus
 ---
 
 # *Salticus scenicus* 

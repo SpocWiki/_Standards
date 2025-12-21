@@ -4,20 +4,22 @@ aliases:
   - covid_testing_facility
   - CovidTestingFacility
   - is_a_covid_testing_facility
+  - Covid_Testing_Facility
+  - Covid Testing Facility
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - covid_testing_facility
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_covid_testing_facility Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

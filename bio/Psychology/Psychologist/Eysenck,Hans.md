@@ -4,56 +4,57 @@ aliases:
   - Hans Jürgen Eysenck
   - Hans Eysenck
   - Eysenck
+  - Eysenck,Hans
 has_id_wikidata: Q58632
 Wolfram_Language_entity_code: Entity["Concept", "Eysenck::ztdg7"]
 name_in_native_language: Hans Jürgen Eysenck
 date_of_birth:
   - 1916-03-16T00:00:00Z
   - 1916-03-04T00:00:00Z
-mother: "[[_Standards/WikiData/WD~Helga_Molander,84452]]"
+mother: '[[_Standards/WikiData/WD~Helga_Molander,84452]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_London,170027]]"
-  - "[[_Standards/WikiData/WD~University_College_London,193196]]"
+  - '[[_Standards/WikiData/WD~University_of_London,170027]]'
+  - '[[_Standards/WikiData/WD~University_College_London,193196]]'
 occupation:
-  - "[[_Standards/WikiData/WD~psychologist,212980]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
+  - '[[_Standards/WikiData/WD~psychologist,212980]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
 employer: "[[_Standards/WikiData/WD~King's_College_London,245247]]"
-doctoral_advisor: "[[_Standards/WikiData/WD~Cyril_Burt,513197]]"
-given_name: "[[_Standards/WikiData/WD~Hans,632842]]"
-interested_in: "[[_Standards/WikiData/WD~personality,641118]]"
+doctoral_advisor: '[[_Standards/WikiData/WD~Cyril_Burt,513197]]'
+given_name: '[[_Standards/WikiData/WD~Hans,632842]]'
+interested_in: '[[_Standards/WikiData/WD~personality,641118]]'
 academic_degree:
-  - "[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]"
-  - "[[_Standards/WikiData/WD~Doctor_of_Science,2248352]]"
-family_name: "[[_Standards/WikiData/WD~Eysenck,977887]]"
+  - '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
+  - '[[_Standards/WikiData/WD~Doctor_of_Science,2248352]]'
+family_name: '[[_Standards/WikiData/WD~Eysenck,977887]]'
 doctoral_student:
-  - "[[_Standards/WikiData/WD~Chris_D._Frith,1077217]]"
-  - "[[_Standards/WikiData/WD~Frank_Farley,17505083]]"
-child: "[[_Standards/WikiData/WD~Michael_Eysenck,1467600]]"
-spouse: "[[_Standards/WikiData/WD~Sybil_B._G._Eysenck,1784125]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-student: "[[_Standards/WikiData/WD~José_Luis_Pinillos,3753446]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-cause_of_death: "[[_Standards/WikiData/WD~brain_cancer,9303627]]"
-award_received: "[[_Standards/WikiData/WD~William_James_Fellow_Award,15253460]]"
-father: "[[_Standards/WikiData/WD~Eduard_Eysenck,15434821]]"
+  - '[[_Standards/WikiData/WD~Chris_D._Frith,1077217]]'
+  - '[[_Standards/WikiData/WD~Frank_Farley,17505083]]'
+child: '[[_Standards/WikiData/WD~Michael_Eysenck,1467600]]'
+spouse: '[[_Standards/WikiData/WD~Sybil_B._G._Eysenck,1784125]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+student: '[[_Standards/WikiData/WD~José_Luis_Pinillos,3753446]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+cause_of_death: '[[_Standards/WikiData/WD~brain_cancer,9303627]]'
+award_received: '[[_Standards/WikiData/WD~William_James_Fellow_Award,15253460]]'
+father: '[[_Standards/WikiData/WD~Eduard_Eysenck,15434821]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-field_of_work: "[[_Standards/WikiData/WD~psychology,9418]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-residence: "[[_Standards/WikiData/WD~England,21]]"
-place_of_birth: "[[_Standards/WikiData/WD~Berlin,64]]"
-place_of_death: "[[_Standards/WikiData/WD~London,84]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+field_of_work: '[[_Standards/WikiData/WD~psychology,9418]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+residence: '[[_Standards/WikiData/WD~England,21]]'
+place_of_birth: '[[_Standards/WikiData/WD~Berlin,64]]'
+place_of_death: '[[_Standards/WikiData/WD~London,84]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+  - '[[_Standards/WikiData/WD~Germany,183]]'
 Libris_URI: fcrtttcz5p1pg54
 Commons_category: Hans Eysenck
 date_of_death: 1997-09-04T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hans.Eysenck.jpg
-ISNI: "0000000121468874"
+ISNI: 0000000121468874
 ---
 
 # [[Eysenck,Hans]] 

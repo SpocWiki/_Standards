@@ -1,5 +1,7 @@
 ---
-title: "Ourebia ourebi"
+aliases:
+  - Ourebia
+title: Ourebia ourebi
 ---
 
 # Ourebia ourebi 

@@ -3,6 +3,10 @@ aliases:
   - Scorpion
   - Scorpiones
   - Scorpions
+  - skorpioner
+  - ščipalci
+  - скорпіон
+has_id_wikidata: Q19125
 Commons_category: Scorpiones
 Commons_gallery: Scorpion
 described_by_source:
@@ -16,7 +20,6 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 EPPO_Code: 1SCORO
-has_id_wikidata: Q19125
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Asian%20forest%20scorpion%20in%20Khao%20Yai%20National%20Park.JPG
   - http://commons.wikimedia.org/wiki/Special:FilePath/Black%20scorpion.jpg
@@ -45,7 +48,7 @@ Unicode_character: 🦂
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/scorpion
 ---
 
-# [[Scorpion]]
+# [[Scorpion]] 🦂 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Scorpion,19125|WD~Scorpion,19125]] 
 

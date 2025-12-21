@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Deinopidae
 title: Deinopidae
 ---
 

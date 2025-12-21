@@ -1,24 +1,25 @@
 ---
 aliases:
   - Photosynthese
+  - Photosynthesis
+has_id_wikidata: Q11982
 Commons_category: Photosynthesis
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 Dewey_Decimal_Classification: 572.46
 exact_match: http://purl.obolibrary.org/obo/GO_0015979
-facet_of: "[[_Standards/WikiData/WD~metabolism,1057]]"
-has_characteristic: "[[_Standards/WikiData/WD~photosynthetic_efficiency,7187915]]"
-has_id_wikidata: Q11982
+facet_of: '[[_Standards/WikiData/WD~metabolism,1057]]'
+has_characteristic: '[[_Standards/WikiData/WD~photosynthetic_efficiency,7187915]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Calvin_cycle,220389]]"
-  - "[[_Standards/WikiData/WD~light-dependent_reactions,862876]]"
-  - "[[_Standards/WikiData/WD~photosynthesis,_dark_reaction,22283112]]"
-history_of_topic: "[[_Standards/WikiData/WD~Evolution_of_photosynthesis,17012783]]"
+  - '[[_Standards/WikiData/WD~Calvin_cycle,220389]]'
+  - '[[_Standards/WikiData/WD~light-dependent_reactions,862876]]'
+  - '[[_Standards/WikiData/WD~photosynthesis,_dark_reaction,22283112]]'
+history_of_topic: '[[_Standards/WikiData/WD~Evolution_of_photosynthesis,17012783]]'
 IEV_number: 845-26-078
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leaves%20in%20iran%20%D8%A8%D8%B1%DA%AF%20%DA%AF%D9%84%D9%87%D8%A7%20%D9%88%20%DA%AF%DB%8C%D8%A7%D9%87%D8%A7%D9%86%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%2032.jpg
-instance_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
+instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
 Krugosvet_article: biologiya/fotosintez
 Library_of_Congress_Classification: QR88.5
 MeSH_tree_code:
@@ -31,21 +32,21 @@ MeSH_tree_code:
   - G15.568
 OmegaWiki_Defined_Meaning: 2786
 operator:
-  - "[[_Standards/WikiData/WD~phytoplankton,184755]]"
-  - "[[_Standards/WikiData/WD~plant,756]]"
-  - "[[_Standards/WikiData/WD~algae,37868]]"
+  - '[[_Standards/WikiData/WD~phytoplankton,184755]]'
+  - '[[_Standards/WikiData/WD~plant,756]]'
+  - '[[_Standards/WikiData/WD~algae,37868]]'
 product_material_or_service_produced_or_provided:
-  - "[[_Standards/WikiData/WD~oxygen,629]]"
-  - "[[_Standards/WikiData/WD~glucose,37525]]"
+  - '[[_Standards/WikiData/WD~oxygen,629]]'
+  - '[[_Standards/WikiData/WD~glucose,37525]]'
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Photosynthesis%20en.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Photosynthesis%20equation.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Simple%20photosynthesis%20overview.svg
-subclass_of: "[[_Standards/WikiData/WD~cell_metabolism,13416689]]"
+subclass_of: '[[_Standards/WikiData/WD~cell_metabolism,13416689]]'
 uses:
-  - "[[_Standards/WikiData/WD~sunlight,193788]]"
-  - "[[_Standards/WikiData/WD~water,283]]"
-  - "[[_Standards/WikiData/WD~carbon_dioxide,1997]]"
+  - '[[_Standards/WikiData/WD~sunlight,193788]]'
+  - '[[_Standards/WikiData/WD~water,283]]'
+  - '[[_Standards/WikiData/WD~carbon_dioxide,1997]]'
 ---
 
 # [[Photosynthesis]] 

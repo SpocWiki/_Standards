@@ -1,5 +1,8 @@
 ---
-title: "Miscellaneous fossil pecorans"
+aliases:
+  - fossil_pecorans
+  - fossil pecorans
+title: Miscellaneous fossil pecorans
 ---
 
 # Miscellaneous fossil pecorans

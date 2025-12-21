@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Scleractinia
 title: Scleractinia
 ---
 

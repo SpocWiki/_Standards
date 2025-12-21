@@ -4,6 +4,14 @@ aliases:
   - dromedary camel
   - Arabian camel
   - one-humped camel
+  - Dromedary
+  - Dromadaire
+  - Dromader
+  - dromedariu
+  - Einhöckriges Kamel
+  - One-humped Camel
+  - dromedario
+  - enogrba kamela
 has_id_wikidata: Q71516
 this_taxon_is_source_of:
   - "[[_Standards/WikiData/WD~camel_milk,623636]]"
@@ -24,8 +32,8 @@ mass:
   - 450
 gestation_period: 12.5
 longest_observed_lifespan: 28.4
-ITIS_TSN: "625027"
-OmegaWiki_Defined_Meaning: "407624"
+ITIS_TSN: 625027
+OmegaWiki_Defined_Meaning: 407624
 taxon_common_name:
   - Dromedar
   - Dromadaire
@@ -54,7 +62,7 @@ EPPO_Code: CMELDR
 NBN_System_Key: NHMSYS0020975292
 ---
 
-# [[Dromedary]] 
+# [[Dromedary]] 🐪 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Dromedary,71516|WD~Dromedary,71516]] 
 

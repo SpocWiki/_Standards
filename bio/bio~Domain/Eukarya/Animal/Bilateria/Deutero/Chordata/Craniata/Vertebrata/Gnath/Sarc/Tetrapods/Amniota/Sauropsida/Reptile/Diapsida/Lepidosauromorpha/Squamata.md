@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Squamata
 title: Squamata
 ---
 

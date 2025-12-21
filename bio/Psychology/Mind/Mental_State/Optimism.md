@@ -1,25 +1,26 @@
 ---
 aliases:
   - Optimismus
+  - Optimism
 has_id_wikidata: Q485446
-opposite_of: "[[_Standards/WikiData/WD~pessimism,484954]]"
+opposite_of: '[[_Standards/WikiData/WD~pessimism,484954]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
 different_from:
-  - "[[_Standards/WikiData/WD~best_of_all_possible_worlds,1217908]]"
-  - "[[_Standards/WikiData/WD~positive_mental_attitude,1969752]]"
+  - '[[_Standards/WikiData/WD~best_of_all_possible_worlds,1217908]]'
+  - '[[_Standards/WikiData/WD~positive_mental_attitude,1969752]]'
 part_of:
-  - "[[_Standards/WikiData/WD~theory_of_emotion,9357054]]"
-  - "[[_Standards/WikiData/WD~optimism_and_pessimism,18122377]]"
-  - "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-instance_of: "[[_Standards/WikiData/WD~advanced_emotion,16748888]]"
-subclass_of: "[[_Standards/WikiData/WD~belief,34394]]"
-OmegaWiki_Defined_Meaning: "735225"
-Dewey_Decimal_Classification: "149.5"
+  - '[[_Standards/WikiData/WD~theory_of_emotion,9357054]]'
+  - '[[_Standards/WikiData/WD~optimism_and_pessimism,18122377]]'
+  - '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+instance_of: '[[_Standards/WikiData/WD~advanced_emotion,16748888]]'
+subclass_of: '[[_Standards/WikiData/WD~belief,34394]]'
+OmegaWiki_Defined_Meaning: 735225
+Dewey_Decimal_Classification: 149.5
 Commons_category: Optimism
 IMDb_keyword: optimism
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BerlinWallMonumentWestView.jpg

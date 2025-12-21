@@ -1,5 +1,8 @@
 ---
-title: "Bolitaena pygmaea"
+aliases:
+  - Bolitaena_pygmaea
+  - Bolitaena pygmaea
+title: Bolitaena pygmaea
 ---
 
 ## Phylogeny 

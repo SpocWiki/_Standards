@@ -1,5 +1,7 @@
 ---
-title: "Arvicanthine group"
+aliases:
+  - Arvicanthine
+title: Arvicanthine group
 ---
 
 # [[Arvicanthine]] Murinae 

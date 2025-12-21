@@ -4,21 +4,23 @@ aliases:
   - plastic_surgery
   - PlasticSurgery
   - is_a_plastic_surgery
+  - Plastic_Surgery
+  - Plastic Surgery
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - plastic_surgery
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_plastic_surgery Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

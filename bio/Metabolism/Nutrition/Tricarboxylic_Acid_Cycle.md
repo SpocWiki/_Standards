@@ -5,26 +5,28 @@ aliases:
   - TCA cycle
   - tricarboxylic acid cycle
   - citric acid cycle
+  - Tricarboxylic_Acid_Cycle
+  - Tricarboxylic Acid Cycle
 has_id_wikidata: Q133895
 has_part_s_:
-  - "[[_Standards/WikiData/WD~citric_acid,159683]]"
-  - "[[_Standards/WikiData/WD~Oxaloacetate_+_Acetyl_CoA_+_H_O_Citrate_+_CoA_SH,87407249]]"
-  - "[[_Standards/WikiData/WD~Citrate_cis_Aconitate_+_H_O,87407783]]"
-  - "[[_Standards/WikiData/WD~cis_Aconitate_+_H_O_Isocitrate,87407794]]"
-  - "[[_Standards/WikiData/WD~Isocitrate_+_NAD_Oxalosuccinate_+_NADH_+_H_,87407799]]"
-  - "[[_Standards/WikiData/WD~Oxalosuccinate_α_Ketoglutarate_+_CO_,87410199]]"
-  - "[[_Standards/WikiData/WD~α_Ketoglutarate_+_NAD_+_CoA_SH_Succinyl_CoA_+_NADH_+_H_+_CO_,87410234]]"
-  - "[[_Standards/WikiData/WD~Succinyl_CoA_+_GDP_+_Pᵢ_Succinate_+_CoA_SH_+_GTP,87410532]]"
-  - "[[_Standards/WikiData/WD~Succinate_+_ubiquinone_(Q)_Fumarate_+_ubiquinol_(QH_),87410557]]"
-  - "[[_Standards/WikiData/WD~Fumarate_+_H_O_L_Malate,87410579]]"
-  - "[[_Standards/WikiData/WD~L_Malate_+_NAD_Oxaloacetate_+_NADH_+_H_,87721805]]"
-instance_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
-part_of: "[[_Standards/WikiData/WD~aerobic_respiration,3783645]]"
-subclass_of: "[[_Standards/WikiData/WD~primary_metabolic_process,19708902]]"
+  - '[[_Standards/WikiData/WD~citric_acid,159683]]'
+  - '[[_Standards/WikiData/WD~Oxaloacetate_+_Acetyl_CoA_+_H_O_Citrate_+_CoA_SH,87407249]]'
+  - '[[_Standards/WikiData/WD~Citrate_cis_Aconitate_+_H_O,87407783]]'
+  - '[[_Standards/WikiData/WD~cis_Aconitate_+_H_O_Isocitrate,87407794]]'
+  - '[[_Standards/WikiData/WD~Isocitrate_+_NAD_Oxalosuccinate_+_NADH_+_H_,87407799]]'
+  - '[[_Standards/WikiData/WD~Oxalosuccinate_α_Ketoglutarate_+_CO_,87410199]]'
+  - '[[_Standards/WikiData/WD~α_Ketoglutarate_+_NAD_+_CoA_SH_Succinyl_CoA_+_NADH_+_H_+_CO_,87410234]]'
+  - '[[_Standards/WikiData/WD~Succinyl_CoA_+_GDP_+_Pᵢ_Succinate_+_CoA_SH_+_GTP,87410532]]'
+  - '[[_Standards/WikiData/WD~Succinate_+_ubiquinone_(Q)_Fumarate_+_ubiquinol_(QH_),87410557]]'
+  - '[[_Standards/WikiData/WD~Fumarate_+_H_O_L_Malate,87410579]]'
+  - '[[_Standards/WikiData/WD~L_Malate_+_NAD_Oxaloacetate_+_NADH_+_H_,87721805]]'
+instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
+part_of: '[[_Standards/WikiData/WD~aerobic_respiration,3783645]]'
+subclass_of: '[[_Standards/WikiData/WD~primary_metabolic_process,19708902]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~TCA_cycle_(aka_Krebs_or_citric_acid_cycle),27436670]]"
-  - "[[_Standards/WikiData/WD~TCA_Cycle,27436713]]"
-  - "[[_Standards/WikiData/WD~Citric_acid_cycle_(TCA_cycle),28031545]]"
+  - '[[_Standards/WikiData/WD~TCA_cycle_(aka_Krebs_or_citric_acid_cycle),27436670]]'
+  - '[[_Standards/WikiData/WD~TCA_Cycle,27436713]]'
+  - '[[_Standards/WikiData/WD~Citric_acid_cycle_(TCA_cycle),28031545]]'
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D1%80%D0%B5%D0%B1%D1%81%D0%BE%D0%B2%20%D1%86%D0%B8%D0%BA%D0%BB%D1%83%D1%81-%D0%9C%D0%9A.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Cicle%20dels%20%C3%A0cids%20tricarbox%C3%ADlics.svg

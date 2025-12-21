@@ -1,13 +1,15 @@
 ---
 aliases:
   - Sexual attraction
+  - Sexual_Attraction
+  - Sexual Attraction
 has_id_wikidata: Q464859
 facet_of:
-  - "[[_Standards/WikiData/WD~human_sexuality,154136]]"
-  - "[[_Standards/WikiData/WD~courtship_display,10968643]]"
-subclass_of: "[[_Standards/WikiData/WD~interpersonal_attraction,2632514]]"
-different_from: "[[_Standards/WikiData/WD~romantic_attraction,97154434]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q113495152,113495152]]"
+  - '[[_Standards/WikiData/WD~human_sexuality,154136]]'
+  - '[[_Standards/WikiData/WD~courtship_display,10968643]]'
+subclass_of: '[[_Standards/WikiData/WD~interpersonal_attraction,2632514]]'
+different_from: '[[_Standards/WikiData/WD~romantic_attraction,97154434]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q113495152,113495152]]'
 Wikidata_property: attraction to
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20Fair%20Exchange%2C%20Life%20Cartoons%20%28NYPL%20b12647398-70358%29.tiff
 Commons_category: Sexual attraction

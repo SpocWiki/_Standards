@@ -1,7 +1,7 @@
 ---
 aliases:
-- Anthocerotophyta
-- Hornwort
+  - Anthocerotophyta
+  - Hornwort
 title: Anthocerotophyta
 ---
 

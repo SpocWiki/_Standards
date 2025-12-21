@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Acontiaria
 title: Acontiaria
 ---
 

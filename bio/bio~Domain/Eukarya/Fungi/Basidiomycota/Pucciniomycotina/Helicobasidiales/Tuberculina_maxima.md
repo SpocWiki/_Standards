@@ -1,5 +1,8 @@
 ---
-title: "Tuberculina maxima"
+aliases:
+  - Tuberculina_maxima
+  - Tuberculina maxima
+title: Tuberculina maxima
 ---
 
 ## Phylogeny 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Indridae
 title: Indridae
 ---
 

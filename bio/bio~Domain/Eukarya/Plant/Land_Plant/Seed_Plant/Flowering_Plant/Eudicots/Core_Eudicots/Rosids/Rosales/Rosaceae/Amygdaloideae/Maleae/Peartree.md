@@ -4,6 +4,9 @@ aliases:
   - Birnenbaum
   - Birne
   - Pyrus
+  - pear
+  - Peer
+  - 梨属
 has_id_wikidata: Q434
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -26,7 +29,7 @@ subclass_of: "[[_Standards/WikiData/WD~tree,10884]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
 has_fruit_type: "[[_Standards/WikiData/WD~pome,41274]]"
-ITIS_TSN: "25294"
+ITIS_TSN: 25294
 taxon_common_name:
   - pear
   - Peer
@@ -47,7 +50,7 @@ UMLS_CUI: C1138601
 NBN_System_Key: NHMSYS0000462196
 ---
 
-# [[Peartree]] 
+# [[Peartree]] 🍐 
 
 #is_/same_as :: [[WD~Pyrus,434]] 
 

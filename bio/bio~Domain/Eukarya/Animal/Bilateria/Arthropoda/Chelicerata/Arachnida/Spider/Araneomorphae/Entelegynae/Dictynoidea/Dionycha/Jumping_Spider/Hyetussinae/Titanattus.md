@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Titanattus
 title: Titanattus
 ---
 

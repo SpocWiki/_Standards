@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cyatholipidae
 title: Cyatholipidae
 ---
 

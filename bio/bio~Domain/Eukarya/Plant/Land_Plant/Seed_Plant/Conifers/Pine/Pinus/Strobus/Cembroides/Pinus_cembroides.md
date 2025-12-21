@@ -1,5 +1,8 @@
 ---
-title: "Pinus cembroides"
+aliases:
+  - Pinus_cembroides
+  - Pinus cembroides
+title: Pinus cembroides
 ---
 
 # [[Pinus_cembroides]] 

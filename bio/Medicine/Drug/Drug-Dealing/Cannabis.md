@@ -3,6 +3,10 @@ aliases:
   - hemp
   - Marijuana
   - weed
+  - Cannabis
+  - 大麻属
+  - конопля
+  - Hanf
 has_id_wikidata: Q79817
 NBN_System_Key: NHMSYS0000456774
 taxon_common_name:
@@ -11,29 +15,29 @@ taxon_common_name:
   - hemp
   - конопля
   - Hanf
-parent_taxon: "[[../../../../WikiData/WD~Cannabaceae,156338]]"
+parent_taxon: '[[../../../../WikiData/WD~Cannabaceae,156338]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Q19177016,19177016]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_23(1),112869399]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Q19177016,19177016]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_23(1),112869399]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~hemp_oil,1575477]]"
-  - "[[_Standards/WikiData/WD~kief,2641893]]"
-legal_status_medicine_: "[[_Standards/WikiData/WD~legality_of_cannabis,2135494]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Cannabis,5609335]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Cannabis,10730069]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q32446829,32446829]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_cannabis,48731694]]"
-has_fruit_type: "[[_Standards/WikiData/WD~achene,14714]]"
+  - '[[_Standards/WikiData/WD~hemp_oil,1575477]]'
+  - '[[_Standards/WikiData/WD~kief,2641893]]'
+legal_status_medicine_: '[[_Standards/WikiData/WD~legality_of_cannabis,2135494]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Cannabis,5609335]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cannabis,10730069]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32446829,32446829]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_cannabis,48731694]]'
+has_fruit_type: '[[_Standards/WikiData/WD~achene,14714]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Cannabis_sativa,26726]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "19108"
+  - '[[_Standards/WikiData/WD~taxon,16521]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Cannabis_sativa,26726]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 19108
 Commons_category: Cannabis
 taxon_name: Cannabis
 hashtag_: Cannabis

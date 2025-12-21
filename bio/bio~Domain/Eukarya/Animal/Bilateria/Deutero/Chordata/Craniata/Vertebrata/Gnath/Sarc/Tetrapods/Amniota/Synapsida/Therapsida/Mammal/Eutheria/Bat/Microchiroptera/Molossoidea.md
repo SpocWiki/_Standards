@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Molossoidea
 title: Molossoidea
 ---
 

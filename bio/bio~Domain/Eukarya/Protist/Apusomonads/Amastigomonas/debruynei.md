@@ -1,5 +1,7 @@
 ---
-title: "Amastigomonas debruynei"
+aliases:
+  - debruynei
+title: Amastigomonas debruynei
 ---
 
 ## Phylogeny 

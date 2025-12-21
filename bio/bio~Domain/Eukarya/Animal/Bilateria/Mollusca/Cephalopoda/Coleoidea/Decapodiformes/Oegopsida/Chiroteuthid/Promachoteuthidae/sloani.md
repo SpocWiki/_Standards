@@ -1,5 +1,7 @@
 ---
-title: "Promachoteuthis sloani"
+aliases:
+  - sloani
+title: Promachoteuthis sloani
 ---
 
 ## Phylogeny 

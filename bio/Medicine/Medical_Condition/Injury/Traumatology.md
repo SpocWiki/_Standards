@@ -2,15 +2,16 @@
 aliases:
   - Traumatologie
   - accident surgery
+  - Traumatology
 has_id_wikidata: Q376680
-subclass_of: "[[_Standards/WikiData/WD~medical_treatment,179661]]"
-has_part_s_: "[[_Standards/WikiData/WD~trauma_surgery,338379]]"
-instance_of: "[[_Standards/WikiData/WD~medical_specialty,930752]]"
-part_of: "[[_Standards/WikiData/WD~orthopedic_surgery,15218776]]"
-practiced_by: "[[_Standards/WikiData/WD~traumatologist,26203274]]"
-OmegaWiki_Defined_Meaning: "1227991"
+subclass_of: '[[_Standards/WikiData/WD~medical_treatment,179661]]'
+has_part_s_: '[[_Standards/WikiData/WD~trauma_surgery,338379]]'
+instance_of: '[[_Standards/WikiData/WD~medical_specialty,930752]]'
+part_of: '[[_Standards/WikiData/WD~orthopedic_surgery,15218776]]'
+practiced_by: '[[_Standards/WikiData/WD~traumatologist,26203274]]'
+OmegaWiki_Defined_Meaning: 1227991
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Practicing.JPG
-U_S_National_Archives_Identifier: "10643850"
+U_S_National_Archives_Identifier: 10643850
 UMLS_CUI: C0040801
 MeSH_tree_code: H02.403.810.104.500
 Commons_category: Traumatology

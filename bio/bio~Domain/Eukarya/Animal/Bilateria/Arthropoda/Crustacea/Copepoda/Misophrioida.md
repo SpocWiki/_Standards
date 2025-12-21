@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Misophrioida
 title: Misophrioida
 ---
 

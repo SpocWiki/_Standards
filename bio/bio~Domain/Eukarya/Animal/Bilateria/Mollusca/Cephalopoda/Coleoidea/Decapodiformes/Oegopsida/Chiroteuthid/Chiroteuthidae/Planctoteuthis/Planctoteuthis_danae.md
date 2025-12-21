@@ -1,5 +1,8 @@
 ---
-title: "Planctoteuthis danae"
+aliases:
+  - Planctoteuthis_danae
+  - Planctoteuthis danae
+title: Planctoteuthis danae
 ---
 
 # [[Planctoteuthis_danae]] 

@@ -2,6 +2,14 @@
 aliases:
   - Citrus × limon
   - limon
+  - Lemon
+  - lemin
+  - limón
+  - lemon
+  - citron
+  - limone
+  - limão
+  - limona
 has_id_wikidata: Q500
 EPPO_Code: CIDLI
 Commons_category: Citrus × limon
@@ -62,14 +70,14 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Rocky%20734-%E1%B1%9E%E1%B1%A4%E1%B1%A2%E1%B1%B5%E1%B1%A9.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5137%20%28guj%29-Sushant%20savla-%E0%AA%B2%E0%AB%80%E0%AA%82%E0%AA%AC%E0%AB%81.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/Q500-ar.ogg
-ITIS_TSN: "825214"
+ITIS_TSN: 825214
 Unicode_character: 🍋
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/3DLemon001%20HQ-4K-PNG.stl
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=10732
 Common_Procurement_Vocabulary_code: 03222210-8
 ---
 
-# [[Lemon]] 
+# [[Lemon]]  🍋 
 
 #has_/created :: [[../../../../../../../../../../../../../../Society/Economics/Home_Economics/Cooking/Food/Fruits/Lime(Fruit)|Lime(Fruit)]] 
 #is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Citrus___limon,500|WD~Citrus___limon,500]]  

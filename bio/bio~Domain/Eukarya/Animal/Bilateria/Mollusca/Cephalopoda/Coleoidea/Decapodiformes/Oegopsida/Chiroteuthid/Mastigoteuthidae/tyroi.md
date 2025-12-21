@@ -1,5 +1,7 @@
 ---
-title: "Mastigoteuthis tyroi"
+aliases:
+  - tyroi
+title: Mastigoteuthis tyroi
 ---
 
 ## Phylogeny 

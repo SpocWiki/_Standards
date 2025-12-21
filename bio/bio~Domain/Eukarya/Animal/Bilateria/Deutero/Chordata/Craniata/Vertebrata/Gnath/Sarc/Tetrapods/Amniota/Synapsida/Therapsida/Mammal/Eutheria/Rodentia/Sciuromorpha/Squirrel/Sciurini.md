@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sciurini
 title: Sciurini
 ---
 

@@ -2,6 +2,7 @@
 aliases:
   - Delfin
   - Delphin
+  - Dolphin
 has_id_wikidata: Q7369
 described_by_source:
   - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
@@ -26,7 +27,7 @@ Commons_category: Delphinidae
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Parc%20Asterix%2020.jpg
 Commons_gallery: Dolphin
 Unicode_character: 🐬
-OmegaWiki_Defined_Meaning: "616807"
+OmegaWiki_Defined_Meaning: 616807
 hashtag: dolphins
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Dolphin.stl
 pronunciation_audio:
@@ -38,7 +39,7 @@ MeSH_tree_code: B01.050.150.900.649.313.875.267
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/DELFINI.html
 ---
 
-# [[Dolphin]] 
+# [[Dolphin]] 🐬 
 
 #is_/same_as :: [[WD~dolphin,7369]] 
 

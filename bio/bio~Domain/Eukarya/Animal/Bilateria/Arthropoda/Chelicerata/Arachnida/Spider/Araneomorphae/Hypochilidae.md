@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Hypochilidae
 title: Hypochilidae
 ---
 

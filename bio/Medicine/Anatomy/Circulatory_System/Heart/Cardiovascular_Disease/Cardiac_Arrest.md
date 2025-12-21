@@ -1,33 +1,35 @@
 ---
 aliases:
   - Herzstillstand
+  - Cardiac_Arrest
+  - Cardiac Arrest
 has_id_wikidata: Q202837
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~epinephrine,132621]]"
-  - "[[_Standards/WikiData/WD~sodium_bicarbonate,179731]]"
-  - "[[_Standards/WikiData/WD~calcium_chloride,208451]]"
-  - "[[_Standards/WikiData/WD~calcium_gluconate,413739]]"
-  - "[[_Standards/WikiData/WD~calcium_gluceptate,5018826]]"
-  - "[[_Standards/WikiData/WD~atropine,26272]]"
+  - '[[_Standards/WikiData/WD~epinephrine,132621]]'
+  - '[[_Standards/WikiData/WD~sodium_bicarbonate,179731]]'
+  - '[[_Standards/WikiData/WD~calcium_chloride,208451]]'
+  - '[[_Standards/WikiData/WD~calcium_gluconate,413739]]'
+  - '[[_Standards/WikiData/WD~calcium_gluceptate,5018826]]'
+  - '[[_Standards/WikiData/WD~atropine,26272]]'
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~heart_failure,181754]]"
-  - "[[_Standards/WikiData/WD~unconsciousness,12829165]]"
-first_aid_measures: "[[_Standards/WikiData/WD~cardiopulmonary_resuscitation,185325]]"
+  - '[[_Standards/WikiData/WD~heart_failure,181754]]'
+  - '[[_Standards/WikiData/WD~unconsciousness,12829165]]'
+first_aid_measures: '[[_Standards/WikiData/WD~cardiopulmonary_resuscitation,185325]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~cause_of_death,1931388]]"
-  - "[[_Standards/WikiData/WD~thoracic_disease,18553676]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
+  - '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
+  - '[[_Standards/WikiData/WD~thoracic_disease,18553676]]'
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 health_specialty:
-  - "[[_Standards/WikiData/WD~emergency_medicine,2861470]]"
-  - "[[_Standards/WikiData/WD~cardiology,10379]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-genetic_association: "[[_Standards/WikiData/WD~AKAP10,18036405]]"
+  - '[[_Standards/WikiData/WD~emergency_medicine,2861470]]'
+  - '[[_Standards/WikiData/WD~cardiology,10379]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+genetic_association: '[[_Standards/WikiData/WD~AKAP10,18036405]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~congestive_heart_failure,19000661]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-different_from: "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
-DiseasesDB: "2095"
-OmegaWiki_Defined_Meaning: "1258990"
+  - '[[_Standards/WikiData/WD~congestive_heart_failure,19000661]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
+different_from: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
+DiseasesDB: 2095
+OmegaWiki_Defined_Meaning: 1258990
 ICD_10_CM: I46
 UMLS_CUI:
   - C0085298
@@ -41,8 +43,8 @@ exact_match:
   - http://purl.obolibrary.org/obo/DOID_0060319
   - http://purl.obolibrary.org/obo/HP_0001695
   - http://www.orpha.net/ORDO/Orphanet_871
-ICD_9_CM: "427.5"
-P8189: "987007283480005171"
+ICD_9_CM: 427.5
+P8189: 987007283480005171
 MeSH_tree_code: C14.280.383
 Commons_category: Cardiac arrest
 ---

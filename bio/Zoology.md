@@ -1,6 +1,7 @@
 ---
 aliases:
   - Zoologie
+  - Zoology
 has_id_wikidata: Q431
 ---
 

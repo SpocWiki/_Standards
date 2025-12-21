@@ -2,18 +2,20 @@
 aliases:
   - Dalmatian
   - Dalmatian dog
+  - Dalmatian_Dog
+  - Dalmatian Dog
 has_id_wikidata: Q17504
-subclass_of: "[[_Standards/WikiData/WD~dog,144]]"
-country_of_origin: "[[_Standards/WikiData/WD~Croatia,224]]"
+subclass_of: '[[_Standards/WikiData/WD~dog,144]]'
+country_of_origin: '[[_Standards/WikiData/WD~Croatia,224]]'
 height:
   - 60
   - 54
   - 56
   - 62
 litter_size: 8.4
-instance_of: "[[_Standards/WikiData/WD~dog_breed,39367]]"
-catalog_code: "153"
-OmegaWiki_Defined_Meaning: "1117110"
+instance_of: '[[_Standards/WikiData/WD~dog_breed,39367]]'
+catalog_code: 153
+OmegaWiki_Defined_Meaning: 1117110
 Commons_gallery: Dalmatian
 Commons_category: Dalmatian
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dalmatien.jpg

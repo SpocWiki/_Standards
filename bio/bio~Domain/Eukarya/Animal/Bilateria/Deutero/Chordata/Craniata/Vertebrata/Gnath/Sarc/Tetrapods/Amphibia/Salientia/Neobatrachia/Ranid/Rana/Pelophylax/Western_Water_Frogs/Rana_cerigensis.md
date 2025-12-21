@@ -1,5 +1,8 @@
 ---
-title: "Rana cerigensis"
+aliases:
+  - Rana_cerigensis
+  - Rana cerigensis
+title: Rana cerigensis
 ---
 
 # [[Rana_cerigensis]] 

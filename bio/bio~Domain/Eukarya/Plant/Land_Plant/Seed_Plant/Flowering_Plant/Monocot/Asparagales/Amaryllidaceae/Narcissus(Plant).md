@@ -6,25 +6,30 @@ aliases:
   - narcissus
   - narcissi
   - jonquil
+  - Narcissus(Plant)
+  - Narcis
+  - narcis
+  - narcisa
+  - 水仙属
 has_id_wikidata: Q29465
-different_from: "[[_Standards/WikiData/WD~Narcissus,223967]]"
+different_from: '[[_Standards/WikiData/WD~Narcissus,223967]]'
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(1),112869390]]"
-parent_taxon: "[[_Standards/WikiData/WD~Narcisseae,10594556]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-depicted_by: "[[_Standards/WikiData/WD~Narcissus_medioluteus;_Narcissus_pseudonarcissus;_Narcissus;_Narcissus_poeticus;_Narcissus_tenuior,114628404]]"
-color: "[[_Standards/WikiData/WD~yellow,943]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Narcissus_poeticus,27983]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-OmegaWiki_Defined_Meaning: "398166"
-ITIS_TSN: "500435"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(1),112869390]]'
+parent_taxon: '[[_Standards/WikiData/WD~Narcisseae,10594556]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+depicted_by: '[[_Standards/WikiData/WD~Narcissus_medioluteus;_Narcissus_pseudonarcissus;_Narcissus;_Narcissus_poeticus;_Narcissus_tenuior,114628404]]'
+color: '[[_Standards/WikiData/WD~yellow,943]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Narcissus_poeticus,27983]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+OmegaWiki_Defined_Meaning: 398166
+ITIS_TSN: 500435
 Commons_gallery: Narcissus
 Commons_category: Narcissus
 taxon_name: Narcissus

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Mund
+  - Mouth
 has_id_wikidata: Q9635
 has_use:
   - "[[_Standards/WikiData/WD~eating,213449]]"
@@ -27,7 +28,7 @@ subclass_of:
 anatomical_locations: "[[_Standards/WikiData/WD~head,23640]]"
 part_of: "[[_Standards/WikiData/WD~head,23640]]"
 TA98_Latin_term: os
-OmegaWiki_Defined_Meaning: "5470"
+OmegaWiki_Defined_Meaning: 5470
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Mund2.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mechelen%20St-Rombouts%20waterspuwers%2033.jpg
 Colon_Classification: L21
@@ -47,7 +48,7 @@ MeSH_tree_code:
   - A14.549
 ---
 
-# [[Mouth]] 
+# [[Mouth]] 👄 
 
 #is_/same_as :: [[WD~Mouth,9635]] 
 

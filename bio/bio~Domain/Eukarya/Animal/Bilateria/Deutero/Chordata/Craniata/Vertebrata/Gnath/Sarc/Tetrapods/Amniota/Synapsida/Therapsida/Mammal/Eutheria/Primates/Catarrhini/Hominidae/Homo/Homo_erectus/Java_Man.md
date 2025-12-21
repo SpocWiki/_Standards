@@ -6,12 +6,12 @@ aliases:
   - Anthropopithecus erectus
   - Pithecanthropus erectus
 has_id_wikidata: Q192993
-taxon_rank: "[[_Standards/WikiData/WD~subspecies,68947]]"
+taxon_rank: '[[_Standards/WikiData/WD~subspecies,68947]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Javamensch%20Replik%20Rosensteinmuseum.jpg
 taxon_name: Homo erectus erectus
 Commons_category: Java Man

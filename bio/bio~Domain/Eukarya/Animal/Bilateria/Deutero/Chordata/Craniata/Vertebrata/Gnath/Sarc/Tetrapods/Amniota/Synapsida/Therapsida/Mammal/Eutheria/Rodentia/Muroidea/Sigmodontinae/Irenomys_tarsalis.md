@@ -1,5 +1,8 @@
 ---
-title: "Irenomys tarsalis"
+aliases:
+  - Irenomys_tarsalis
+  - Irenomys tarsalis
+title: Irenomys tarsalis
 ---
 
 # [[Irenomys_tarsalis]] 

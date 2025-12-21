@@ -5,22 +5,24 @@ aliases:
   - MRI
   - is_a_mri
   - Magnetic resonance imaging
+  - MRI(Magnetic_Resonance_Imaging)
+  - MRI(Magnetic Resonance Imaging)
 has_id_wikidata: Q161238
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalImagingTechnique
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - mri
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_mri Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

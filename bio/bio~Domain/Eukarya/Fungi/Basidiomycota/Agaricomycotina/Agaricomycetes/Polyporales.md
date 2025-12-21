@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Polyporales
 title: Polyporales
 ---
 

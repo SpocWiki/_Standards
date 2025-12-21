@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Hynobiidae
 title: Hynobiidae
 ---
 

@@ -4,20 +4,22 @@ aliases:
   - prevention_indication
   - PreventionIndication
   - is_a_prevention_indication
+  - Prevention_Indication
+  - Prevention Indication
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - prevention_indication
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_prevention_indication Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

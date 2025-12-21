@@ -1,38 +1,39 @@
 ---
 aliases:
   - Impfung
+  - Vaccination
 has_id_wikidata: Q192995
 uses:
-  - "[[_Standards/WikiData/WD~vaccine,134808]]"
-  - "[[_Standards/WikiData/WD~injection,245359]]"
-instance_of: "[[_Standards/WikiData/WD~medical_treatment,179661]]"
+  - '[[_Standards/WikiData/WD~vaccine,134808]]'
+  - '[[_Standards/WikiData/WD~injection,245359]]'
+instance_of: '[[_Standards/WikiData/WD~medical_treatment,179661]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~preventive_medicine,1773974]]"
-  - "[[_Standards/WikiData/WD~active_immunotherapy,4677560]]"
-has_effect: "[[_Standards/WikiData/WD~active_immunity,70710352]]"
-opposite_of: "[[_Standards/WikiData/WD~antibody_injection,91623919]]"
+  - '[[_Standards/WikiData/WD~preventive_medicine,1773974]]'
+  - '[[_Standards/WikiData/WD~active_immunotherapy,4677560]]'
+has_effect: '[[_Standards/WikiData/WD~active_immunity,70710352]]'
+opposite_of: '[[_Standards/WikiData/WD~antibody_injection,91623919]]'
 ICD_9_CM:
-  - "99.5"
-  - "99.3"
-OmegaWiki_Defined_Meaning: "453567"
+  - 99.5
+  - 99.3
+OmegaWiki_Defined_Meaning: 453567
 IMDb_keyword: vaccination
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Infectious%20diseases%20Vaccine.jpg
 Krugosvet_article_archived_: medicina/VAKTSINATSIYA_I_IMMUNIZATSIYA.html
 Commons_category: Vaccinations
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Geschichte%20des%20Impfens.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Young%20girl%20about%20to%20receive%20a%20vaccine%20in%20her%20upper%20arm%20%2848545990252%29.jpg
-U_S_National_Archives_Identifier: "10641304"
+U_S_National_Archives_Identifier: 10641304
 Iconclass_notation: 49G371
-Dewey_Decimal_Classification: "614.47"
+Dewey_Decimal_Classification: 614.47
 UMLS_CUI: C0042196
 MeSH_tree_code:
   - E02.095.465.425.400.530.890

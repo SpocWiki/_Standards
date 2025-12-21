@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Dendryphantinae
 title: Dendryphantinae
 ---
 

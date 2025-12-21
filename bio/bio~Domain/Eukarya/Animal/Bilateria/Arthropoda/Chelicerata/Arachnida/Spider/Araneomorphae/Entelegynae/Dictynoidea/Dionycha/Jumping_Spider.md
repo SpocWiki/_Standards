@@ -1,7 +1,8 @@
 ---
 aliases:
-- Salticidae
-- "Jumping Spider"
+  - Salticidae
+  - Jumping Spider
+  - Jumping_Spider
 title: Salticidae
 ---
 

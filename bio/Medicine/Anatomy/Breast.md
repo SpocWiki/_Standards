@@ -1,6 +1,7 @@
 ---
 aliases:
   - Brust
+  - Breast
 has_id_wikidata: Q9103
 ---
 

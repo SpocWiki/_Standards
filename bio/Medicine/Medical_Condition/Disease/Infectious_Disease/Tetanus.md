@@ -1,69 +1,70 @@
 ---
 aliases:
   - lockjaw
+  - Tetanus
 has_id_wikidata: Q47790
 UMLS_CUI: C0039614
 MeSH_tree_code: C01.150.252.410.222.864
 Krugosvet_article_archived_: medicina/STOLBNYAK.html
 Library_of_Congress_Classification: RA644.T4
-Dewey_Decimal_Classification: "616.9318"
+Dewey_Decimal_Classification: 616.9318
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~pain,81938]]"
-  - "[[_Standards/WikiData/WD~tachycardia,209583]]"
-  - "[[_Standards/WikiData/WD~spasm,574360]]"
-  - "[[_Standards/WikiData/WD~dysphagia,623289]]"
-  - "[[_Standards/WikiData/WD~respiratory_failure,767485]]"
-  - "[[_Standards/WikiData/WD~neck_stiffness,841878]]"
-  - "[[_Standards/WikiData/WD~trismus,936070]]"
-  - "[[_Standards/WikiData/WD~Risus_sardonicus,2001556]]"
-  - "[[_Standards/WikiData/WD~saliva_secretion,4424146]]"
-  - "[[_Standards/WikiData/WD~tetanus_triad,56233069]]"
-  - "[[_Standards/WikiData/WD~irritability,29299]]"
-  - "[[_Standards/WikiData/WD~headache,86]]"
-  - "[[_Standards/WikiData/WD~fever,38933]]"
+  - '[[_Standards/WikiData/WD~pain,81938]]'
+  - '[[_Standards/WikiData/WD~tachycardia,209583]]'
+  - '[[_Standards/WikiData/WD~spasm,574360]]'
+  - '[[_Standards/WikiData/WD~dysphagia,623289]]'
+  - '[[_Standards/WikiData/WD~respiratory_failure,767485]]'
+  - '[[_Standards/WikiData/WD~neck_stiffness,841878]]'
+  - '[[_Standards/WikiData/WD~trismus,936070]]'
+  - '[[_Standards/WikiData/WD~Risus_sardonicus,2001556]]'
+  - '[[_Standards/WikiData/WD~saliva_secretion,4424146]]'
+  - '[[_Standards/WikiData/WD~tetanus_triad,56233069]]'
+  - '[[_Standards/WikiData/WD~irritability,29299]]'
+  - '[[_Standards/WikiData/WD~headache,86]]'
+  - '[[_Standards/WikiData/WD~fever,38933]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~metronidazole,169569]]"
-  - "[[_Standards/WikiData/WD~methocarbamol,411456]]"
-  - "[[_Standards/WikiData/WD~phenazepam,421138]]"
-  - "[[_Standards/WikiData/WD~orphenadrine,3292273]]"
-  - "[[_Standards/WikiData/WD~gidazepam,4138012]]"
-  - "[[_Standards/WikiData/WD~cyclobenzaprine,5198674]]"
-  - "[[_Standards/WikiData/WD~metocurine_iodide,20817012]]"
-has_cause: "[[_Standards/WikiData/WD~Clostridium_tetani,309471]]"
+  - '[[_Standards/WikiData/WD~metronidazole,169569]]'
+  - '[[_Standards/WikiData/WD~methocarbamol,411456]]'
+  - '[[_Standards/WikiData/WD~phenazepam,421138]]'
+  - '[[_Standards/WikiData/WD~orphenadrine,3292273]]'
+  - '[[_Standards/WikiData/WD~gidazepam,4138012]]'
+  - '[[_Standards/WikiData/WD~cyclobenzaprine,5198674]]'
+  - '[[_Standards/WikiData/WD~metocurine_iodide,20817012]]'
+has_cause: '[[_Standards/WikiData/WD~Clostridium_tetani,309471]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~notifiable_disease,314676]]"
-  - "[[_Standards/WikiData/WD~bacterial_infectious_disease,727028]]"
-  - "[[_Standards/WikiData/WD~geonosis,1503299]]"
-  - "[[_Standards/WikiData/WD~infectious_disease_of_the_nervous_system,10336461]]"
-  - "[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
+  - '[[_Standards/WikiData/WD~notifiable_disease,314676]]'
+  - '[[_Standards/WikiData/WD~bacterial_infectious_disease,727028]]'
+  - '[[_Standards/WikiData/WD~geonosis,1503299]]'
+  - '[[_Standards/WikiData/WD~infectious_disease_of_the_nervous_system,10336461]]'
+  - '[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
 possible_treatment:
-  - "[[_Standards/WikiData/WD~cardiac_glycoside,422238]]"
-  - "[[_Standards/WikiData/WD~anticonvulsant_agent,576618]]"
-  - "[[_Standards/WikiData/WD~antipyretic,582687]]"
-  - "[[_Standards/WikiData/WD~pharmacotherapy,701216]]"
-  - "[[_Standards/WikiData/WD~ventilator,813243]]"
-  - "[[_Standards/WikiData/WD~beta_blocker,816759]]"
-  - "[[_Standards/WikiData/WD~muscle_relaxant,1225289]]"
-  - "[[_Standards/WikiData/WD~Q20091097,20091097]]"
-  - "[[_Standards/WikiData/WD~anti_tetanus_immunoglobulin,28163645]]"
+  - '[[_Standards/WikiData/WD~cardiac_glycoside,422238]]'
+  - '[[_Standards/WikiData/WD~anticonvulsant_agent,576618]]'
+  - '[[_Standards/WikiData/WD~antipyretic,582687]]'
+  - '[[_Standards/WikiData/WD~pharmacotherapy,701216]]'
+  - '[[_Standards/WikiData/WD~ventilator,813243]]'
+  - '[[_Standards/WikiData/WD~beta_blocker,816759]]'
+  - '[[_Standards/WikiData/WD~muscle_relaxant,1225289]]'
+  - '[[_Standards/WikiData/WD~Q20091097,20091097]]'
+  - '[[_Standards/WikiData/WD~anti_tetanus_immunoglobulin,28163645]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-health_specialty: "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 medical_examination:
-  - "[[_Standards/WikiData/WD~physical_examination,835153]]"
-  - "[[_Standards/WikiData/WD~microbiological_culture,1125312]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-disease_transmission_process: "[[_Standards/WikiData/WD~contact_transmission,15304512]]"
+  - '[[_Standards/WikiData/WD~physical_examination,835153]]'
+  - '[[_Standards/WikiData/WD~microbiological_culture,1125312]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+disease_transmission_process: '[[_Standards/WikiData/WD~contact_transmission,15304512]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
+  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 minimal_incubation_period_in_humans: 3
 maximal_incubation_period_in_humans: 31
 number_of_deaths: 38000
-DiseasesDB: "2829"
+DiseasesDB: 2829
 ICD_10_CM:
   - A33
   - A35
@@ -72,9 +73,9 @@ Commons_gallery: Tetanus
 Commons_category: Tetanus
 image: http://commons.wikimedia.org/wiki/Special:FilePath/PHIL%20tetanus.jpg
 ICD_9_CM:
-  - "037"
-  - "041.84"
-OmegaWiki_Defined_Meaning: "526696"
+  - 037
+  - 041.84
+OmegaWiki_Defined_Meaning: 526696
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%A7%E0%AC%A8%E0%AD%81%E0%AC%B7%E0%AD%8D%E0%AC%9F%E0%AC%99%E0%AD%8D%E0%AC%95%E0%AC%BE%E0%AC%B0.wav
 distribution_map:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Number%20of%20deaths%20from%20tetanus%2C%20OWID.svg

@@ -4,6 +4,8 @@ aliases:
   - Emotional Stability
   - neuroticism
   - Equanimity
+  - Big5~Emotional_Stability
+  - Big5~Emotional Stability
 confidential: private
 cssclasses:
   - private
@@ -12,18 +14,18 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: ''
+has_Template: '[[Extract~Note~Template]]'
 has_time_started: 2025-06-29
 isDeleted: false
 isReadOnly: false
 keywords: Emotionale Stabilität
 lang: en
-layout:
+layout: ''
 license: (c)copyrighted
 linkTitle: Emotionale Stabilität
 publish: false
-publishDate:
+publishDate: ''
 tags:
   - Emotionale Stabilität
   - excalidraw

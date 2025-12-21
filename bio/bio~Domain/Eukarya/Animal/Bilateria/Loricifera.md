@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Loricifera
 title: Loricifera
 ---
 

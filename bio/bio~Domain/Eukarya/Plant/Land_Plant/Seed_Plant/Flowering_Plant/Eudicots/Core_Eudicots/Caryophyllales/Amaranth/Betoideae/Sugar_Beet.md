@@ -1,7 +1,9 @@
 ---
 aliases:
-- Zuckerrübe
-- "sugar beet"
+  - Zuckerrübe
+  - sugar beet
+  - Sugar_Beet
+  - Sugar Beet
 ---
 
 #has_/time_/started :: 1802-06-01 

@@ -1,5 +1,8 @@
 ---
-title: "Rana saharica"
+aliases:
+  - Rana_saharica
+  - Rana saharica
+title: Rana saharica
 ---
 
 # [[Rana_saharica]] 

@@ -3,6 +3,8 @@ aliases:
   - Fisch
   - Fishes
   - Fische
+  - Fish
+has_id_wikidata: Q152
 carbon_footprint: 1.1
 Colon_Classification: K92
 Commons_category: Fish
@@ -31,7 +33,6 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00003875
 GS1_GPC_code: 10005456
 habitat: "[[_Standards/WikiData/WD~body_of_water,15324]]"
 has_characteristic: "[[_Standards/WikiData/WD~diversity_of_fish,5283970]]"
-has_id_wikidata: Q152
 has_use:
   - "[[_Standards/WikiData/WD~fish_as_food,600396]]"
 IAB_code: 426
@@ -87,7 +88,7 @@ video:
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_fish,7112636]]"
 ---
 
-# [[Fish]] 
+# [[Fish]] 🐟 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Fish,152|WD~Fish,152]]  
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Osteichthyes,27207|WD~Osteichthyes,27207]]  

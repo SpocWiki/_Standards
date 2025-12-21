@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Tenrecidae
 title: Tenrecidae
 ---
 

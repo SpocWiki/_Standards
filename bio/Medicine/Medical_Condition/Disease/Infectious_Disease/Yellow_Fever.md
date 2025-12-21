@@ -1,95 +1,97 @@
 ---
 aliases:
   - Gelbfieber
+  - Yellow_Fever
+  - Yellow Fever
 has_id_wikidata: Q154874
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~swelling,109186]]"
-  - "[[_Standards/WikiData/WD~vomiting,127076]]"
-  - "[[_Standards/WikiData/WD~jaundice,133244]]"
-  - "[[_Standards/WikiData/WD~bleeding,166019]]"
-  - "[[_Standards/WikiData/WD~shock,178061]]"
-  - "[[_Standards/WikiData/WD~abdominal_pain,183425]]"
-  - "[[_Standards/WikiData/WD~nausea,186889]]"
-  - "[[_Standards/WikiData/WD~cyanosis,192120]]"
-  - "[[_Standards/WikiData/WD~encephalitis,199615]]"
-  - "[[_Standards/WikiData/WD~tachycardia,209583]]"
-  - "[[_Standards/WikiData/WD~bradycardia,217111]]"
-  - "[[_Standards/WikiData/WD~anorexia,254327]]"
-  - "[[_Standards/WikiData/WD~hypotension,275419]]"
-  - "[[_Standards/WikiData/WD~myalgia,474959]]"
-  - "[[_Standards/WikiData/WD~anuria,612681]]"
-  - "[[_Standards/WikiData/WD~asthenia,633403]]"
-  - "[[_Standards/WikiData/WD~arthralgia,683498]]"
-  - "[[_Standards/WikiData/WD~hyperaemia,948806]]"
-  - "[[_Standards/WikiData/WD~oliguria,961326]]"
-  - "[[_Standards/WikiData/WD~splenomegaly,1129121]]"
-  - "[[_Standards/WikiData/WD~melena,1163908]]"
-  - "[[_Standards/WikiData/WD~hepatomegaly,1362864]]"
-  - "[[_Standards/WikiData/WD~chills,2260058]]"
-  - "[[_Standards/WikiData/WD~Faget_sign,5429401]]"
-  - "[[_Standards/WikiData/WD~back_pain,5781808]]"
-  - "[[_Standards/WikiData/WD~dark_urine,21110084]]"
-  - "[[_Standards/WikiData/WD~body_ache,102187006]]"
-  - "[[_Standards/WikiData/WD~fatigue,9690]]"
-  - "[[_Standards/WikiData/WD~headache,86]]"
-  - "[[_Standards/WikiData/WD~fever,38933]]"
+  - '[[_Standards/WikiData/WD~swelling,109186]]'
+  - '[[_Standards/WikiData/WD~vomiting,127076]]'
+  - '[[_Standards/WikiData/WD~jaundice,133244]]'
+  - '[[_Standards/WikiData/WD~bleeding,166019]]'
+  - '[[_Standards/WikiData/WD~shock,178061]]'
+  - '[[_Standards/WikiData/WD~abdominal_pain,183425]]'
+  - '[[_Standards/WikiData/WD~nausea,186889]]'
+  - '[[_Standards/WikiData/WD~cyanosis,192120]]'
+  - '[[_Standards/WikiData/WD~encephalitis,199615]]'
+  - '[[_Standards/WikiData/WD~tachycardia,209583]]'
+  - '[[_Standards/WikiData/WD~bradycardia,217111]]'
+  - '[[_Standards/WikiData/WD~anorexia,254327]]'
+  - '[[_Standards/WikiData/WD~hypotension,275419]]'
+  - '[[_Standards/WikiData/WD~myalgia,474959]]'
+  - '[[_Standards/WikiData/WD~anuria,612681]]'
+  - '[[_Standards/WikiData/WD~asthenia,633403]]'
+  - '[[_Standards/WikiData/WD~arthralgia,683498]]'
+  - '[[_Standards/WikiData/WD~hyperaemia,948806]]'
+  - '[[_Standards/WikiData/WD~oliguria,961326]]'
+  - '[[_Standards/WikiData/WD~splenomegaly,1129121]]'
+  - '[[_Standards/WikiData/WD~melena,1163908]]'
+  - '[[_Standards/WikiData/WD~hepatomegaly,1362864]]'
+  - '[[_Standards/WikiData/WD~chills,2260058]]'
+  - '[[_Standards/WikiData/WD~Faget_sign,5429401]]'
+  - '[[_Standards/WikiData/WD~back_pain,5781808]]'
+  - '[[_Standards/WikiData/WD~dark_urine,21110084]]'
+  - '[[_Standards/WikiData/WD~body_ache,102187006]]'
+  - '[[_Standards/WikiData/WD~fatigue,9690]]'
+  - '[[_Standards/WikiData/WD~headache,86]]'
+  - '[[_Standards/WikiData/WD~fever,38933]]'
 medical_examination:
-  - "[[_Standards/WikiData/WD~polymerase_chain_reaction,176996]]"
-  - "[[_Standards/WikiData/WD~ELISA,332126]]"
-  - "[[_Standards/WikiData/WD~immunoassay,759183]]"
-  - "[[_Standards/WikiData/WD~physical_examination,835153]]"
-  - "[[_Standards/WikiData/WD~immunohistochemistry,899285]]"
-  - "[[_Standards/WikiData/WD~histopathology,1070952]]"
-  - "[[_Standards/WikiData/WD~viral_culture,7933598]]"
+  - '[[_Standards/WikiData/WD~polymerase_chain_reaction,176996]]'
+  - '[[_Standards/WikiData/WD~ELISA,332126]]'
+  - '[[_Standards/WikiData/WD~immunoassay,759183]]'
+  - '[[_Standards/WikiData/WD~physical_examination,835153]]'
+  - '[[_Standards/WikiData/WD~immunohistochemistry,899285]]'
+  - '[[_Standards/WikiData/WD~histopathology,1070952]]'
+  - '[[_Standards/WikiData/WD~viral_culture,7933598]]'
 possible_treatment:
-  - "[[_Standards/WikiData/WD~hemodialysis,391744]]"
-  - "[[_Standards/WikiData/WD~symptomatic_treatment,621558]]"
-  - "[[_Standards/WikiData/WD~detoxification,1090423]]"
-  - "[[_Standards/WikiData/WD~liver_transplantation,1368191]]"
-  - "[[_Standards/WikiData/WD~emergency_bleeding_control,2450377]]"
-  - "[[_Standards/WikiData/WD~intravenous_fluid_replacement,24885926]]"
+  - '[[_Standards/WikiData/WD~hemodialysis,391744]]'
+  - '[[_Standards/WikiData/WD~symptomatic_treatment,621558]]'
+  - '[[_Standards/WikiData/WD~detoxification,1090423]]'
+  - '[[_Standards/WikiData/WD~liver_transplantation,1368191]]'
+  - '[[_Standards/WikiData/WD~emergency_bleeding_control,2450377]]'
+  - '[[_Standards/WikiData/WD~intravenous_fluid_replacement,24885926]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~endemic_disease,506680]]"
-  - "[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]"
-  - "[[_Standards/WikiData/WD~skin_infection,2458539]]"
-  - "[[_Standards/WikiData/WD~arbovirosis,2859732]]"
-  - "[[_Standards/WikiData/WD~flavivirus_infectious_disease,19001421]]"
-  - "[[_Standards/WikiData/WD~rare_skin_disease,55788696]]"
-  - "[[_Standards/WikiData/WD~pandemic_and_epidemic_prone_diseases,131345497]]"
+  - '[[_Standards/WikiData/WD~endemic_disease,506680]]'
+  - '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
+  - '[[_Standards/WikiData/WD~skin_infection,2458539]]'
+  - '[[_Standards/WikiData/WD~arbovirosis,2859732]]'
+  - '[[_Standards/WikiData/WD~flavivirus_infectious_disease,19001421]]'
+  - '[[_Standards/WikiData/WD~rare_skin_disease,55788696]]'
+  - '[[_Standards/WikiData/WD~pandemic_and_epidemic_prone_diseases,131345497]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~endemic_disease,506680]]"
-  - "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-  - "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
+  - '[[_Standards/WikiData/WD~endemic_disease,506680]]'
+  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+  - '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-health_specialty: "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
-has_cause: "[[_Standards/WikiData/WD~yellow_fever_virus,836749]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
+has_cause: '[[_Standards/WikiData/WD~yellow_fever_virus,836749]]'
 has_natural_reservoir:
-  - "[[_Standards/WikiData/WD~Aedes_aegypti,1148004]]"
-  - "[[_Standards/WikiData/WD~Sabethes,4048935]]"
-  - "[[_Standards/WikiData/WD~Haemagogus_spegazzinii,13852302]]"
+  - '[[_Standards/WikiData/WD~Aedes_aegypti,1148004]]'
+  - '[[_Standards/WikiData/WD~Sabethes,4048935]]'
+  - '[[_Standards/WikiData/WD~Haemagogus_spegazzinii,13852302]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-disease_transmission_process: "[[_Standards/WikiData/WD~mosquito_borne_transmission,15304532]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+disease_transmission_process: '[[_Standards/WikiData/WD~mosquito_borne_transmission,15304532]]'
 minimal_incubation_period_in_humans: 3
 number_of_deaths: 60000
 maximal_incubation_period_in_humans: 6
 number_of_cases: 170000
-DiseasesDB: "14203"
-U_S_National_Archives_Identifier: "10641580"
-OmegaWiki_Defined_Meaning: "1273021"
+DiseasesDB: 14203
+U_S_National_Archives_Identifier: 10641580
+OmegaWiki_Defined_Meaning: 1273021
 DPLA_subject_term:
   - Yellow Fever
   - Yellow fever
 ICD_9_CM:
-  - "060"
-  - "060.9"
+  - 060
+  - 060.9
 ICD_10_CM:
   - A95
   - A95.0
@@ -119,8 +121,8 @@ MeSH_tree_code:
 Krugosvet_article_archived_: meditsina/zheltaya-likhoradka
 Library_of_Congress_Classification: RA644.Y4
 Dewey_Decimal_Classification:
-  - "614.541"
-  - "616.91854"
+  - 614.541
+  - 616.91854
 ---
 
 # [[Yellow_Fever]] 

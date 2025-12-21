@@ -1,5 +1,7 @@
 ---
-title: "Enoploteuthid families"
+aliases:
+  - Enoploteuthid
+title: Enoploteuthid families
 ---
 
 ## Phylogeny 

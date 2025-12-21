@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Symphypleona
 title: Symphypleona
 ---
 

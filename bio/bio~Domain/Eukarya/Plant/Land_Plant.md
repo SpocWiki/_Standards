@@ -4,16 +4,18 @@ aliases:
   - land plants
   - Landpflanze
   - Embryophytes
-title: Embryophytes
+  - Land_Plant
+  - Land Plant
 has_id_wikidata: Q192154
-parent_taxon: "[[_Standards/WikiData/WD~Streptophyta,133527]]"
-taxon_rank: "[[_Standards/WikiData/WD~superdivision,23760204]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-studied_by: "[[_Standards/WikiData/WD~phytology,133501250]]"
-subclass_of: "[[_Standards/WikiData/WD~plant,756]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-named_after: "[[_Standards/WikiData/WD~embryo,33196]]"
-ITIS_TSN: "954900"
+title: Embryophytes
+parent_taxon: '[[_Standards/WikiData/WD~Streptophyta,133527]]'
+taxon_rank: '[[_Standards/WikiData/WD~superdivision,23760204]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+studied_by: '[[_Standards/WikiData/WD~phytology,133501250]]'
+subclass_of: '[[_Standards/WikiData/WD~plant,756]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+named_after: '[[_Standards/WikiData/WD~embryo,33196]]'
+ITIS_TSN: 954900
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Plants.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Plants.jpg
 MeSH_tree_code: B01.875.800.575

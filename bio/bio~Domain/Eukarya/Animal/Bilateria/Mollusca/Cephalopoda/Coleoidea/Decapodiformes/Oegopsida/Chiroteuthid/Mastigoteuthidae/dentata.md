@@ -1,5 +1,7 @@
 ---
-title: "Mastigoteuthis dentata"
+aliases:
+  - dentata
+title: Mastigoteuthis dentata
 ---
 
 ## Phylogeny 

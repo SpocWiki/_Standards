@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Pauropodidae
 title: Pauropodidae
 ---
 

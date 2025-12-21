@@ -1,6 +1,6 @@
 ---
 aliases:
-- Neornithes
+  - Neornithes
 title: Neornithes
 ---
 

@@ -4,20 +4,22 @@ aliases:
   - lifestyle_modification
   - LifestyleModification
   - is_a_lifestyle_modification
+  - Lifestyle_Modification
+  - Lifestyle Modification
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - lifestyle_modification
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_lifestyle_modification Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

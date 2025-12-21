@@ -1,5 +1,7 @@
 ---
-title: "Histioteuthid families"
+aliases:
+  - Histioteuthid
+title: Histioteuthid families
 ---
 
 ## Phylogeny 

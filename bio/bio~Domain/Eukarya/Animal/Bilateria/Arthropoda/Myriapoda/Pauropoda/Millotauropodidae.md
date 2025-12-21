@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Millotauropodidae
 title: Millotauropodidae
 ---
 

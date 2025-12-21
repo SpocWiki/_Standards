@@ -3,6 +3,8 @@ aliases:
   - Pongo
   - Orangutan
   - Orang Utan
+  - orangután de Bornéu
+  - orangutan
 has_id_wikidata: Q41050
 title: Pongo
 different_from: "[[_Standards/WikiData/WD~Pongo,403861]]"
@@ -19,12 +21,12 @@ taxonomic_type: "[[_Standards/WikiData/WD~Pongo_borneo,122832537]]"
 main_food_source: "[[_Standards/WikiData/WD~fruit,1364]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-OmegaWiki_Defined_Meaning: "8111"
+OmegaWiki_Defined_Meaning: 8111
 Commons_gallery: Pongo
 Commons_category: Pongo
 taxon_name: Pongo
 subreddit: orangutan
-ITIS_TSN: "572839"
+ITIS_TSN: 572839
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bornean%2C%20Sumatran%20%26%20Tapanuli%20orangs%20%28horizontal%29.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Orang-Utan.ogg
 size_comparison_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Orangutan-human%20comparison.svg
@@ -39,7 +41,7 @@ taxon_common_name:
 native_label: orang hutan
 ---
 
-# [[Orangutan]]
+# [[Orangutan]] 🦧 
 
 ![ ](Orangutan/Pongo_pygmaeus0040.jpg)
 

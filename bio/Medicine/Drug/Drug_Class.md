@@ -4,20 +4,23 @@ aliases:
   - drug_class
   - DrugClass
   - is_a_drug_class
+  - Drug_Class
+  - Drug Class
+has_id_wikidata: 2585617
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - drug_class
-layout: 
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_drug_class Class
 publish: true
-publishDate: 
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class
@@ -28,11 +31,10 @@ excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 has_Template:
-  - "[[Extract~Note~Template]]"
+  - '[[Extract~Note~Template]]'
 has_time_started:
-  "{ \"date:YYYY-MM-DD\": null }": 
+  '{ "date:YYYY-MM-DD": null }': ''
 lang: en
-has_id_wikidata: "2585617"
 ---
 
 # [[Drug_Class]] 

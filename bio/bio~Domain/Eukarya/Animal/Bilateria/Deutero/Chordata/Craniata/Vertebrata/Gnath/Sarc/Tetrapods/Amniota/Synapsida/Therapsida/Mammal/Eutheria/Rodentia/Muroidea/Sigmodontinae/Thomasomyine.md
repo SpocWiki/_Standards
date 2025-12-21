@@ -1,5 +1,7 @@
 ---
-title: "Thomasomyine group and Sigmodontinae incertae sedis"
+aliases:
+  - Thomasomyine
+title: Thomasomyine group and Sigmodontinae incertae sedis
 ---
 
 # Thomasomyine group and Sigmodontinae incertae sedis 

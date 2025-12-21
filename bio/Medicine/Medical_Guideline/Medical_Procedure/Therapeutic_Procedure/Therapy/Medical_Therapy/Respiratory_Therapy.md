@@ -4,21 +4,23 @@ aliases:
   - respiratory_therapy
   - RespiratoryTherapy
   - is_a_respiratory_therapy
+  - Respiratory_Therapy
+  - Respiratory Therapy
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - respiratory_therapy
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_respiratory_therapy Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

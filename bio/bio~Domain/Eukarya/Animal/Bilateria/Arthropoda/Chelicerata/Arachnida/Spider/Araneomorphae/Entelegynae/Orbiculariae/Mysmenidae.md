@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Mysmenidae
 title: Mysmenidae
 ---
 

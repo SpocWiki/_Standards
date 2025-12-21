@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Centrolenidae
 title: Centrolenidae
 ---
 

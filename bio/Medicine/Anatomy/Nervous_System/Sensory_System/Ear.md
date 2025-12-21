@@ -3,6 +3,7 @@ aliases:
   - Ear
   - Ohr
   - Ohren
+has_id_wikidata: Q7362
 APA_Dictionary_of_Psychology_entry: ear
 Archive_of_Our_Own_tag: Ears
 Colon_Classification: L183
@@ -21,7 +22,6 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 different_from: "[[_Standards/WikiData/WD~Q92842179,92842179]]"
-has_id_wikidata: Q7362
 has_part_s_:
   - "[[_Standards/WikiData/WD~inner_ear,212344]]"
   - "[[_Standards/WikiData/WD~auricle,379858]]"
@@ -34,7 +34,7 @@ Krugosvet_article: nauka_i_tehnika/biologiya/UHO.html
 MeSH_tree_code:
   - A01.456.313
   - A09.246
-OmegaWiki_Defined_Meaning: "5510"
+OmegaWiki_Defined_Meaning: 5510
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Hearing_Health,123226125]]"
 part_of: "[[_Standards/WikiData/WD~head,23640]]"
 permanent_duplicated_item:
@@ -57,7 +57,7 @@ topic_has_template:
   - "[[_Standards/WikiData/WD~Template_Ear_(anatomy),26047074]]"
 ---
 
-# Ear
+# Ear 👂 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Ear,7362|WD~Ear,7362]]
 

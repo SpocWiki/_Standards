@@ -1,5 +1,7 @@
 ---
-title: "Cirroctopus antarctica"
+aliases:
+  - antarctica
+title: Cirroctopus antarctica
 ---
 
 ## Phylogeny 

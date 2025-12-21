@@ -1,5 +1,8 @@
 ---
-title: "Scyphostegia borneensis"
+aliases:
+  - Scyphostegia_borneensis
+  - Scyphostegia borneensis
+title: Scyphostegia borneensis
 ---
 
 # [[Scyphostegia borneensis]]  

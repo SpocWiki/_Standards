@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Onychophora
 title: Onychophora
 ---
 

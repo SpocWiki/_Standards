@@ -1,30 +1,31 @@
 ---
 aliases:
   - Blattgrün
+  - Chlorophyll
 has_id_wikidata: Q43177
 has_part_s_:
-  - "[[_Standards/WikiData/WD~chlorophyll_d,82182]]"
-  - "[[_Standards/WikiData/WD~hydrogen,556]]"
-  - "[[_Standards/WikiData/WD~carbon,623]]"
-  - "[[_Standards/WikiData/WD~nitrogen,627]]"
-  - "[[_Standards/WikiData/WD~oxygen,629]]"
-  - "[[_Standards/WikiData/WD~magnesium,660]]"
+  - '[[_Standards/WikiData/WD~chlorophyll_d,82182]]'
+  - '[[_Standards/WikiData/WD~hydrogen,556]]'
+  - '[[_Standards/WikiData/WD~carbon,623]]'
+  - '[[_Standards/WikiData/WD~nitrogen,627]]'
+  - '[[_Standards/WikiData/WD~oxygen,629]]'
+  - '[[_Standards/WikiData/WD~magnesium,660]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 part_of:
-  - "[[_Standards/WikiData/WD~chlorophyll_biosynthetic_process,21761097]]"
-  - "[[_Standards/WikiData/WD~chlorophyll_metabolic_process,22276106]]"
-  - "[[_Standards/WikiData/WD~chlorophyll_catabolic_process,22276107]]"
-  - "[[_Standards/WikiData/WD~chlorophyll_binding,22313572]]"
-instance_of: "[[_Standards/WikiData/WD~group_of_chemical_entities,55640599]]"
-subclass_of: "[[_Standards/WikiData/WD~magnesium_porphyrin,74798533]]"
+  - '[[_Standards/WikiData/WD~chlorophyll_biosynthetic_process,21761097]]'
+  - '[[_Standards/WikiData/WD~chlorophyll_metabolic_process,22276106]]'
+  - '[[_Standards/WikiData/WD~chlorophyll_catabolic_process,22276107]]'
+  - '[[_Standards/WikiData/WD~chlorophyll_binding,22313572]]'
+instance_of: '[[_Standards/WikiData/WD~group_of_chemical_entities,55640599]]'
+subclass_of: '[[_Standards/WikiData/WD~magnesium_porphyrin,74798533]]'
 mass: 892.53531
-physically_interacts_with: "[[_Standards/WikiData/WD~photon,3198]]"
-RxNorm_CUI: "2388"
-OmegaWiki_Defined_Meaning: "581"
+physically_interacts_with: '[[_Standards/WikiData/WD~photon,3198]]'
+RxNorm_CUI: 2388
+OmegaWiki_Defined_Meaning: 581
 Commons_category: Chlorophyll
 E_number: E140
 UNII: 00WNZ48OR9
@@ -33,7 +34,7 @@ chemical_formula: C₅₅H₇₂MgN₄O₅
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chlorophyll-a-3D-vdW.png
 CAS_Registry_Number: 1406-65-1
 EC_number: 215-800-7
-P8189: "987007285766705171"
+P8189: 987007285766705171
 isomeric_SMILES: C1=2N3C(C=C4[N+]5=C(C=C6N7C8=C(C9=[N+](C(=C1)[C@H]([C@@H]9CCC(OC/C=C(/CCC[C@@H](CCC[C@@H](CCCC(C)C)C)C)\C)=O)C)[Mg-2]735)[C@H](C(C8=C6C)=O)C(=O)OC)C(=C4*)*)=C(C2*)*
 MeSH_tree_code:
   - D03.383.129.578.840.374

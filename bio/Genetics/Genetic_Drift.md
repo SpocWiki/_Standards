@@ -1,11 +1,12 @@
 ---
 aliases:
   - Genetic Drift
+  - Genetic_Drift
 has_id_wikidata: Q486420
-subclass_of: "[[_Standards/WikiData/WD~evolutionary_process,18054608]]"
-has_effect: "[[_Standards/WikiData/WD~evolution,1063]]"
+subclass_of: '[[_Standards/WikiData/WD~evolutionary_process,18054608]]'
+has_effect: '[[_Standards/WikiData/WD~evolution,1063]]'
 PhilPapers_topic: genetic-drift
-Dewey_Decimal_Classification: "576.58"
+Dewey_Decimal_Classification: 576.58
 UMLS_CUI: C0917892
 MeSH_tree_code:
   - G05.045.300

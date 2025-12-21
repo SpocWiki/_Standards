@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sinentomata
 title: Sinentomata
 ---
 

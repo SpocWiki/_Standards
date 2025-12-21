@@ -1,30 +1,31 @@
 ---
 aliases:
   - Knolle
+  - Tuber
 has_id_wikidata: Q183319
 different_from:
-  - "[[_Standards/WikiData/WD~tuba,131168]]"
-  - "[[_Standards/WikiData/WD~YouTuber,17125263]]"
+  - '[[_Standards/WikiData/WD~tuba,131168]]'
+  - '[[_Standards/WikiData/WD~YouTuber,17125263]]'
 develops_from:
-  - "[[_Standards/WikiData/WD~rhizome,184208]]"
-  - "[[_Standards/WikiData/WD~stolon,633912]]"
-  - "[[_Standards/WikiData/WD~root,41500]]"
+  - '[[_Standards/WikiData/WD~rhizome,184208]]'
+  - '[[_Standards/WikiData/WD~stolon,633912]]'
+  - '[[_Standards/WikiData/WD~root,41500]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-subclass_of: "[[_Standards/WikiData/WD~plant_structure,20011319]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~plant_structure,20011319]]'
 water_footprint:
   - 0.47
   - 387
-OmegaWiki_Defined_Meaning: "4912"
+OmegaWiki_Defined_Meaning: 4912
 Commons_gallery: Tuber
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ipomoea%20batatasL%20ja01.jpg
 MeSH_tree_code: A18.400.625
 UMLS_CUI: C1136058
 Commons_category: Tubers
-Dewey_Decimal_Classification: "581.46"
+Dewey_Decimal_Classification: 581.46
 ---
 
 # [[Tuber]] 

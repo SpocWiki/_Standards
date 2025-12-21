@@ -1,32 +1,34 @@
 ---
+aliases:
+  - Skin
 has_id_wikidata: Q1074
-studied_by: "[[_Standards/WikiData/WD~dermatology,171171]]"
+studied_by: '[[_Standards/WikiData/WD~dermatology,171171]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~epidermis,212743]]"
-  - "[[_Standards/WikiData/WD~dermis,505531]]"
+  - '[[_Standards/WikiData/WD~epidermis,212743]]'
+  - '[[_Standards/WikiData/WD~dermis,505531]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
   - "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~animal_product,629103]]"
-  - "[[_Standards/WikiData/WD~sensory_organ,3355930]]"
-  - "[[_Standards/WikiData/WD~animal_organ,24060765]]"
-  - "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
-has_characteristic: "[[_Standards/WikiData/WD~complexion,1146989]]"
-has_use: "[[_Standards/WikiData/WD~protection,2251595]]"
+  - '[[_Standards/WikiData/WD~animal_product,629103]]'
+  - '[[_Standards/WikiData/WD~sensory_organ,3355930]]'
+  - '[[_Standards/WikiData/WD~animal_organ,24060765]]'
+  - '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
+has_characteristic: '[[_Standards/WikiData/WD~complexion,1146989]]'
+has_use: '[[_Standards/WikiData/WD~protection,2251595]]'
 different_from:
-  - "[[_Standards/WikiData/WD~human_skin,5259911]]"
-  - "[[_Standards/WikiData/WD~leather,286]]"
-development_of_anatomical_structure: "[[_Standards/WikiData/WD~skin_development,14599571]]"
-connects_with: "[[_Standards/WikiData/WD~subcutaneous_bursa,29079566]]"
+  - '[[_Standards/WikiData/WD~human_skin,5259911]]'
+  - '[[_Standards/WikiData/WD~leather,286]]'
+development_of_anatomical_structure: '[[_Standards/WikiData/WD~skin_development,14599571]]'
+connects_with: '[[_Standards/WikiData/WD~subcutaneous_bursa,29079566]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~organ_type,103812529]]"
-  - "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
-OmegaWiki_Defined_Meaning: "3430"
+  - '[[_Standards/WikiData/WD~organ_type,103812529]]'
+  - '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+OmegaWiki_Defined_Meaning: 3430
 Commons_category: Skin
 TA98_Latin_term: cutis
 hashtag: skin

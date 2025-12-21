@@ -1,25 +1,26 @@
 ---
 aliases:
   - Leiden
+  - Suffering
 has_id_wikidata: Q5780945
 subclass_of:
-  - "[[_Standards/WikiData/WD~sense,173253]]"
-  - "[[_Standards/WikiData/WD~qualia,282250]]"
-  - "[[_Standards/WikiData/WD~sentiment,7451247]]"
-different_from: "[[_Standards/WikiData/WD~Suffering,21055630]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~suffering,21169160]]"
+  - '[[_Standards/WikiData/WD~sense,173253]]'
+  - '[[_Standards/WikiData/WD~qualia,282250]]'
+  - '[[_Standards/WikiData/WD~sentiment,7451247]]'
+different_from: '[[_Standards/WikiData/WD~Suffering,21055630]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~suffering,21169160]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~religious_concept,23847174]]"
-  - "[[_Standards/WikiData/WD~sociological_concept,33104129]]"
+  - '[[_Standards/WikiData/WD~religious_concept,23847174]]'
+  - '[[_Standards/WikiData/WD~sociological_concept,33104129]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification:
-  - "152.4"
-  - "128.4"
-  - "202.118"
-  - "155.93"
+  - 152.4
+  - 128.4
+  - 202.118
+  - 155.93
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dramaten%20mask%202008a.jpg
 UMLS_CUI: CL493593
 Commons_gallery: Human suffering

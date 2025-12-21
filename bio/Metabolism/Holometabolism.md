@@ -1,10 +1,11 @@
 ---
 aliases:
   - complete metamorphosis
+  - Holometabolism
 has_id_wikidata: Q2048559
-instance_of: "[[_Standards/WikiData/WD~anatomical_structure,4936952]]"
-subclass_of: "[[_Standards/WikiData/WD~metabolism,1057]]"
-OmegaWiki_Defined_Meaning: "1085116"
+instance_of: '[[_Standards/WikiData/WD~anatomical_structure,4936952]]'
+subclass_of: '[[_Standards/WikiData/WD~metabolism,1057]]'
+OmegaWiki_Defined_Meaning: 1085116
 ---
 
 # [[Holometabolism]] 

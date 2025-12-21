@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Adaptation
 has_id_wikidata: Q483921
 ---
 

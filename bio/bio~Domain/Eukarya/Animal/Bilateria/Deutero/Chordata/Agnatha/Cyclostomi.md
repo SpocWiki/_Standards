@@ -1,6 +1,7 @@
 ---
 aliases:
   - Rundmäuler
+  - Cyclostomi
 ---
 
 # [[Cyclostomi]] 

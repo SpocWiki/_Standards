@@ -2,44 +2,88 @@
 aliases:
   - pomegranate
   - Punica granatum
+  - Punica_granatum
+  - Pomegranate
+  - Granatapfel
+  - 石榴
+  - romã
+  - granateple
+  - Granatäpple
+  - Grenadier
+  - Nar
+  - 白石榴
+  - Granado
+  - granátové jablko
+  - Magraner
+  - الرمان
+  - almingranal
+  - marhaník obecný
+  - Grawnafal
+  - Ρόδι
+  - Granato
+  - Granaattiomena
+  - רימון מצוי
+  - Melograno
+  - ザクロ
+  - Granatapel
+  - granaatappel
+  - انار
+  - Malgaragno/Magragno
+  - Pomoingranà/Pomogranà
+  - Quả lựu
+  - 安石榴
+  - 甜石榴
+  - 白石榴根
+  - 白石榴花
+  - 石榴叶
+  - 石榴子
+  - 石榴根
+  - 石榴根皮
+  - 石榴皮
+  - 石榴花
+  - 石權（安石横、石榴树）
+  - 酸石榴
+  - 丹若
+  - 山力叶
+  - 若榴木
 has_id_wikidata: Q13188
 has_use:
-  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
-  - "[[_Standards/WikiData/WD~food,2095]]"
-  - "[[_Standards/WikiData/WD~vegetable,11004]]"
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
+  - '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+  - '[[_Standards/WikiData/WD~food,2095]]'
+  - '[[_Standards/WikiData/WD~vegetable,11004]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_52(2),112869447]]"
-foliage_type: "[[_Standards/WikiData/WD~deciduous_plant,1131316]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_52(2),112869447]]'
+foliage_type: '[[_Standards/WikiData/WD~deciduous_plant,1131316]]'
 taxon_range:
-  - "[[_Standards/WikiData/WD~Tutóia,2012483]]"
-  - "[[_Standards/WikiData/WD~Myanmar,836]]"
-  - "[[_Standards/WikiData/WD~Afghanistan,889]]"
-  - "[[_Standards/WikiData/WD~Gabon,1000]]"
-  - "[[_Standards/WikiData/WD~Shanghai,8686]]"
-  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
-  - "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
-  - "[[_Standards/WikiData/WD~São_Luís,28441]]"
+  - '[[_Standards/WikiData/WD~Tutóia,2012483]]'
+  - '[[_Standards/WikiData/WD~Myanmar,836]]'
+  - '[[_Standards/WikiData/WD~Afghanistan,889]]'
+  - '[[_Standards/WikiData/WD~Gabon,1000]]'
+  - '[[_Standards/WikiData/WD~Shanghai,8686]]'
+  - '[[_Standards/WikiData/WD~Guangdong,15175]]'
+  - '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
+  - '[[_Standards/WikiData/WD~São_Luís,28441]]'
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Fujian,41705]]"
+  - '[[_Standards/WikiData/WD~Fujian,41705]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~pomegranate_juice,3567034]]"
-  - "[[_Standards/WikiData/WD~pomegranate,13222088]]"
-  - "[[_Standards/WikiData/WD~pomegranate_seed,103829622]]"
-  - "[[_Standards/WikiData/WD~pomegranate_seed_oil,103829677]]"
-  - "[[_Standards/WikiData/WD~pomegranate_tree_wood,110800399]]"
-parent_taxon: "[[../../../../../../../../../../../../../WikiData/WD~Punica,4959355]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+  - '[[_Standards/WikiData/WD~pomegranate_juice,3567034]]'
+  - '[[_Standards/WikiData/WD~pomegranate,13222088]]'
+  - '[[_Standards/WikiData/WD~pomegranate_seed,103829622]]'
+  - '[[_Standards/WikiData/WD~pomegranate_seed_oil,103829677]]'
+  - '[[_Standards/WikiData/WD~pomegranate_tree_wood,110800399]]'
+parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Punica,4959355]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Textile_with_Pomegranate_Motif,131557522]]"
-  - "[[_Standards/WikiData/WD~Textile_with_Pomegranate_Design,131557521]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-named_after: "[[_Standards/WikiData/WD~Granada,8810]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-ITIS_TSN: "27278"
+  - '[[_Standards/WikiData/WD~Textile_with_Pomegranate_Motif,131557522]]'
+  - '[[_Standards/WikiData/WD~Textile_with_Pomegranate_Design,131557521]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+named_after: '[[_Standards/WikiData/WD~Granada,8810]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 27278
 taxon_common_name:
   - Pomegranate
   - pomegranate
@@ -87,7 +131,7 @@ taxon_common_name:
   - 山力叶
   - 石榴
   - 若榴木
-USDA_NDB_number: "09286"
+USDA_NDB_number: 09286
 taxon_author_citation: L.
 short_name: P. granatum
 pronunciation_audio:

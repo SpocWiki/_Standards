@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Anostraca
 title: Anostraca
 ---
 

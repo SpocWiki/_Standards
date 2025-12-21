@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Remipedia
 title: Remipedia
 ---
 

@@ -4,74 +4,76 @@ aliases:
   - Jean-Baptiste Pierre Antoine de Monet, chevalier de Lamarck
   - Jean-Baptiste de Lamarck
   - Lamarck
+  - Lamarck,Jean-Baptiste_de
+  - Lamarck,Jean-Baptiste de
 has_id_wikidata: Q82122
-collection_items_at: "[[_Standards/WikiData/WD~Botanic_Garden_and_Botanical_Museum_Berlin,163255]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~lieutenant,186024]]"
+collection_items_at: '[[_Standards/WikiData/WD~Botanic_Garden_and_Botanical_Museum_Berlin,163255]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~lieutenant,186024]]'
 member_of:
-  - "[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]"
-  - "[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]"
-  - "[[_Standards/WikiData/WD~Société_Philomathique_de_Paris,3291340]]"
-place_of_burial: "[[_Standards/WikiData/WD~Montparnasse_Cemetery,272208]]"
-military_branch: "[[_Standards/WikiData/WD~grenadier,313303]]"
+  - '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
+  - '[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]'
+  - '[[_Standards/WikiData/WD~Société_Philomathique_de_Paris,3291340]]'
+place_of_burial: '[[_Standards/WikiData/WD~Montparnasse_Cemetery,272208]]'
+military_branch: '[[_Standards/WikiData/WD~grenadier,313303]]'
 occupation:
-  - "[[_Standards/WikiData/WD~zoologist,350979]]"
-  - "[[_Standards/WikiData/WD~chemist,593644]]"
-  - "[[_Standards/WikiData/WD~encyclopédistes,744738]]"
-  - "[[_Standards/WikiData/WD~biologist,864503]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~paleontologist,1662561]]"
-  - "[[_Standards/WikiData/WD~meteorologist,2310145]]"
-  - "[[_Standards/WikiData/WD~botanist,2374149]]"
-  - "[[_Standards/WikiData/WD~academic,3400985]]"
-  - "[[_Standards/WikiData/WD~evolutionary_biologist,16063497]]"
-  - "[[_Standards/WikiData/WD~malacologist,16271261]]"
-  - "[[_Standards/WikiData/WD~naturalist,18805]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - '[[_Standards/WikiData/WD~zoologist,350979]]'
+  - '[[_Standards/WikiData/WD~chemist,593644]]'
+  - '[[_Standards/WikiData/WD~encyclopédistes,744738]]'
+  - '[[_Standards/WikiData/WD~biologist,864503]]'
+  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+  - '[[_Standards/WikiData/WD~paleontologist,1662561]]'
+  - '[[_Standards/WikiData/WD~meteorologist,2310145]]'
+  - '[[_Standards/WikiData/WD~botanist,2374149]]'
+  - '[[_Standards/WikiData/WD~academic,3400985]]'
+  - '[[_Standards/WikiData/WD~evolutionary_biologist,16063497]]'
+  - '[[_Standards/WikiData/WD~malacologist,16271261]]'
+  - '[[_Standards/WikiData/WD~naturalist,18805]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Adrián_Escudero,377873]]"
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[_Standards/WikiData/WD~Adrián_Escudero,377873]]'
+  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-different_from: "[[_Standards/WikiData/WD~Jean_Maximilien_Lamarque,580516]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+different_from: '[[_Standards/WikiData/WD~Jean_Maximilien_Lamarque,580516]]'
 employer: "[[_Standards/WikiData/WD~Muséum_national_d'histoire_naturelle,838691]]"
 field_of_work:
-  - "[[_Standards/WikiData/WD~evolutionary_biology,840400]]"
-  - "[[_Standards/WikiData/WD~evolutionary_theory,1382537]]"
-  - "[[_Standards/WikiData/WD~biology,420]]"
-  - "[[_Standards/WikiData/WD~zoology,431]]"
-  - "[[_Standards/WikiData/WD~botany,441]]"
-  - "[[_Standards/WikiData/WD~geology,1069]]"
-  - "[[_Standards/WikiData/WD~meteorology,25261]]"
-given_name: "[[_Standards/WikiData/WD~Jean_Baptiste,1499767]]"
-sibling: "[[_Standards/WikiData/WD~Philippe_François_de_Monet_de_Lamarck,3379853]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Roman_Catholic,7361618]]"
-award_received: "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
-cause_of_death: "[[_Standards/WikiData/WD~heart_attack,11490616]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Royal_Collections_of_the_Netherlands,50632603]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+  - '[[_Standards/WikiData/WD~evolutionary_biology,840400]]'
+  - '[[_Standards/WikiData/WD~evolutionary_theory,1382537]]'
+  - '[[_Standards/WikiData/WD~biology,420]]'
+  - '[[_Standards/WikiData/WD~zoology,431]]'
+  - '[[_Standards/WikiData/WD~botany,441]]'
+  - '[[_Standards/WikiData/WD~geology,1069]]'
+  - '[[_Standards/WikiData/WD~meteorology,25261]]'
+given_name: '[[_Standards/WikiData/WD~Jean_Baptiste,1499767]]'
+sibling: '[[_Standards/WikiData/WD~Philippe_François_de_Monet_de_Lamarck,3379853]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Roman_Catholic,7361618]]'
+award_received: '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+cause_of_death: '[[_Standards/WikiData/WD~heart_attack,11490616]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Royal_Collections_of_the_Netherlands,50632603]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Marie_Anne_Rosalie_Delaporte,108676090]]"
-  - "[[_Standards/WikiData/WD~Charlotte_Reverdy,108676092]]"
-  - "[[_Standards/WikiData/WD~Julie_Mallet,108676093]]"
-child: "[[_Standards/WikiData/WD~Auguste_de_Lamarck,110470983]]"
-family_name: "[[_Standards/WikiData/WD~de_Monet_de_Lamarck,115985231]]"
+  - '[[_Standards/WikiData/WD~Marie_Anne_Rosalie_Delaporte,108676090]]'
+  - '[[_Standards/WikiData/WD~Charlotte_Reverdy,108676092]]'
+  - '[[_Standards/WikiData/WD~Julie_Mallet,108676093]]'
+child: '[[_Standards/WikiData/WD~Auguste_de_Lamarck,110470983]]'
+family_name: '[[_Standards/WikiData/WD~de_Monet_de_Lamarck,115985231]]'
 date_of_birth: 1744-08-01T00:00:00Z
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~Paris,90]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-place_of_birth: "[[_Standards/WikiData/WD~Bazentin,45755]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~Paris,90]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+place_of_birth: '[[_Standards/WikiData/WD~Bazentin,45755]]'
 Commons_gallery: Jean-Baptiste Lamarck
 Commons_category: Jean-Baptiste Lamarck
 birth_name: Jean-Baptiste Pierre Antoine de Monet de Lamarck
@@ -89,7 +91,7 @@ described_at_URL:
   - http://www.digiporta.net/index.php?id=179104595
   - http://www.digiporta.net/index.php?id=725411981
   - http://www.digiporta.net/index.php?id=986955350
-ISNI: "0000000121296742"
+ISNI: 0000000121296742
 Krugosvet_article_archived_: biologiya/lamark-zhan-batist-antuan-de-mone
 Libris_URI: c9prmgbw26t1fkf
 Commons_Creator_page: Jean-Baptiste de Lamarck

@@ -2,8 +2,9 @@
 aliases:
   - Birutė Galdikas
   - Birutė_Galdikas
-  - Biruté Marija Filomena Galdikas 
+  - Biruté Marija Filomena Galdikas
   - Biruté Mary Galdikas
+  - Galdikas,Birutė
 ---
 
 # [[Galdikas,Birutė]] 

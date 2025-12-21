@@ -1,5 +1,7 @@
 ---
-title: "Aegla itacolomiensis"
+aliases:
+  - itacolomiensis
+title: Aegla itacolomiensis
 ---
 
 # *Aegla itacolomiensis* 

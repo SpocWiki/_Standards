@@ -1,9 +1,10 @@
 ---
-title:
-  "Bovidae": 
-has_id_wikidata: Q25497
 aliases:
-  - "Bovidae": 
+  - Bovidae: ''
+  - Bovidae
+has_id_wikidata: Q25497
+title:
+  Bovidae: ''
 confidential: private
 cssclasses:
   - private
@@ -12,23 +13,23 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: 
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: ''
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  "{ \"date:YYYY-MM-DD\": null }": 
+  '{ "date:YYYY-MM-DD": null }': ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  "Bovidae": 
+  Bovidae: ''
 lang: en
-layout: 
+layout: ''
 license: (c)copyrighted
 linkTitle:
-  "Bovidae": 
+  Bovidae: ''
 publish: false
-publishDate: 
+publishDate: ''
 tags:
-  - "Bovidae": 
+  - Bovidae: ''
   - excalidraw
 type: private_note
 ---

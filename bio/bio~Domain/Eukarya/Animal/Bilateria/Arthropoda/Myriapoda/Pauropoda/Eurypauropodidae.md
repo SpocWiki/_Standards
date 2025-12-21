@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Eurypauropodidae
 title: Eurypauropodidae
 ---
 

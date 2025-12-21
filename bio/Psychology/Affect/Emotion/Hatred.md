@@ -1,22 +1,23 @@
 ---
 aliases:
   - Hass
+  - Hatred
 has_id_wikidata: Q160232
-greater_than: "[[_Standards/WikiData/WD~antipathy,581459]]"
-has_effect: "[[_Standards/WikiData/WD~injustice,770480]]"
+greater_than: '[[_Standards/WikiData/WD~antipathy,581459]]'
+has_effect: '[[_Standards/WikiData/WD~injustice,770480]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
-different_from: "[[_Standards/WikiData/WD~Q11791645,11791645]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Nnecca,13197000]]"
-subclass_of: "[[_Standards/WikiData/WD~aversion,13631330]]"
-instance_of: "[[_Standards/WikiData/WD~negative_emotion,60539481]]"
-part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-physically_interacts_with: "[[_Standards/WikiData/WD~Anger_of_God_in_Islam,125946849]]"
-opposite_of: "[[_Standards/WikiData/WD~love,316]]"
-OmegaWiki_Defined_Meaning: "6587"
+  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+different_from: '[[_Standards/WikiData/WD~Q11791645,11791645]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Nnecca,13197000]]'
+subclass_of: '[[_Standards/WikiData/WD~aversion,13631330]]'
+instance_of: '[[_Standards/WikiData/WD~negative_emotion,60539481]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+physically_interacts_with: '[[_Standards/WikiData/WD~Anger_of_God_in_Islam,125946849]]'
+opposite_of: '[[_Standards/WikiData/WD~love,316]]'
+OmegaWiki_Defined_Meaning: 6587
 Commons_category: Hate
 APA_Dictionary_of_Psychology_entry: hate
 hashtag_: hate

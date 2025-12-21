@@ -6,6 +6,63 @@ aliases:
   - Apfel
   - Malus
   - Malus domestica
+  - Appletree
+  - ГIеч
+  - Алмағас
+  - Яблыня
+  - Avalenn
+  - Pomera
+  - Æble-slægten
+  - Jabłušcyna
+  - Pomarbo
+  - Õunapuu
+  - Omenapuut
+  - Aapelbuumer
+  - Maceira
+  - Jabuke
+  - Jabłučina
+  - Խնձորենի
+  - 사과나무속
+  - Гьивч
+  - Obelis
+  - Ābeles
+  - Марлю
+  - Олмапу
+  - Олмаву
+  - Умарина
+  - Epleslekten
+  - Appel
+  - Pommyi
+  - Фæткъуыбæлас
+  - Punmié
+  - Macieira
+  - Mar
+  - Яблоня
+  - Eppelmuorat
+  - jabloň
+  - jablana
+  - Tufaax
+  - Aplar
+  - Mtofaa
+  - Alimangong mansanas
+  - Çiçek elması
+  - Алмагач
+  - Улмопу
+  - Яблуня
+  - Jablokpu
+  - Chi Hải đường
+  - უშქური
+  - 苹果属
+  - apple
+  - سیب
+  - リンゴ属
+  - Appels
+  - jabłoń
+  - Äpfel
+  - ვაშლი
+  - Pommier
+  - تفاح
+  - pumar
 has_id_wikidata: Q104819
 taxon_common_name:
   - ГIеч
@@ -69,29 +126,29 @@ taxon_common_name:
   - Pommier
   - تفاح
   - pumar
-parent_taxon: "[[_Standards/WikiData/WD~Maloideae,148737]]"
+parent_taxon: '[[_Standards/WikiData/WD~Maloideae,148737]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~perennial_plant,157957]]"
-  - "[[_Standards/WikiData/WD~tree,10884]]"
+  - '[[_Standards/WikiData/WD~perennial_plant,157957]]'
+  - '[[_Standards/WikiData/WD~tree,10884]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_36,112869417]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~apple_tree,60458657]]"
+  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_36,112869417]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~apple_tree,60458657]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~apple_wood,62474609]]"
-  - "[[_Standards/WikiData/WD~apple_blossom,123914734]]"
-  - "[[_Standards/WikiData/WD~Q136647889,136647889]]"
-  - "[[_Standards/WikiData/WD~apple,89]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-has_fruit_type: "[[_Standards/WikiData/WD~pome,41274]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Malus_sylvestris,47161]]"
-ITIS_TSN: "25254"
-USDA_NDB_number: "09077"
+  - '[[_Standards/WikiData/WD~apple_wood,62474609]]'
+  - '[[_Standards/WikiData/WD~apple_blossom,123914734]]'
+  - '[[_Standards/WikiData/WD~Q136647889,136647889]]'
+  - '[[_Standards/WikiData/WD~apple,89]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+has_fruit_type: '[[_Standards/WikiData/WD~pome,41274]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Malus_sylvestris,47161]]'
+ITIS_TSN: 25254
+USDA_NDB_number: 09077
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Purple%20prince%20crabapple%20tree.JPG
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=7215
 EPPO_Code: 1MABG

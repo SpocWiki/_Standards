@@ -2,10 +2,11 @@
 aliases:
   - Lepra
   - Hansen's disease
+  - Leprosy
 has_id_wikidata: Q36956
 ICD_9_CM:
-  - "030.9"
-  - "030"
+  - 030.9
+  - 030
 Krugosvet_article_archived_: medicina/PROKAZA.html
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%95%E0%AD%81%E0%AC%B7%E0%AD%8D%E0%AC%A0.wav
 exact_match:
@@ -22,69 +23,69 @@ Wolfram_Language_entity_code: Entity["Disease", "ICDNine030"]
 Commons_gallery: Leprosy
 Commons_category: Leprosy
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~clarithromycin,118551]]"
-  - "[[_Standards/WikiData/WD~azithromycin,165399]]"
-  - "[[_Standards/WikiData/WD~DL_ofloxacin,411447]]"
-  - "[[_Standards/WikiData/WD~minocycline,415336]]"
-  - "[[_Standards/WikiData/WD~clofazimine,418611]]"
-  - "[[_Standards/WikiData/WD~dapsone,422226]]"
-  - "[[_Standards/WikiData/WD~rifampicin,422652]]"
-  - "[[_Standards/WikiData/WD~prednisolone,11426176]]"
+  - '[[_Standards/WikiData/WD~clarithromycin,118551]]'
+  - '[[_Standards/WikiData/WD~azithromycin,165399]]'
+  - '[[_Standards/WikiData/WD~DL_ofloxacin,411447]]'
+  - '[[_Standards/WikiData/WD~minocycline,415336]]'
+  - '[[_Standards/WikiData/WD~clofazimine,418611]]'
+  - '[[_Standards/WikiData/WD~dapsone,422226]]'
+  - '[[_Standards/WikiData/WD~rifampicin,422652]]'
+  - '[[_Standards/WikiData/WD~prednisolone,11426176]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~Mycobacterium_leprae,155891]]"
-  - "[[_Standards/WikiData/WD~Mycobacterium_lepromatosis,10748967]]"
+  - '[[_Standards/WikiData/WD~Mycobacterium_leprae,155891]]'
+  - '[[_Standards/WikiData/WD~Mycobacterium_lepromatosis,10748967]]'
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~nosebleed,202013]]"
-  - "[[_Standards/WikiData/WD~lagophthalmos,620918]]"
-  - "[[_Standards/WikiData/WD~keratitis,757838]]"
-  - "[[_Standards/WikiData/WD~mutilation,767568]]"
-  - "[[_Standards/WikiData/WD~paresthesia,769220]]"
-  - "[[_Standards/WikiData/WD~contracture,1480291]]"
-  - "[[_Standards/WikiData/WD~polyneuropathy,1502312]]"
-  - "[[_Standards/WikiData/WD~muscle_atrophy,1557686]]"
-  - "[[_Standards/WikiData/WD~hypoesthesia,1641556]]"
-  - "[[_Standards/WikiData/WD~depigmentation,3705665]]"
-  - "[[_Standards/WikiData/WD~nasal_septal_perforation,3899830]]"
-  - "[[_Standards/WikiData/WD~dystrophy,4162411]]"
-named_after: "[[_Standards/WikiData/WD~Gerhard_Armauer_Hansen,217344]]"
+  - '[[_Standards/WikiData/WD~nosebleed,202013]]'
+  - '[[_Standards/WikiData/WD~lagophthalmos,620918]]'
+  - '[[_Standards/WikiData/WD~keratitis,757838]]'
+  - '[[_Standards/WikiData/WD~mutilation,767568]]'
+  - '[[_Standards/WikiData/WD~paresthesia,769220]]'
+  - '[[_Standards/WikiData/WD~contracture,1480291]]'
+  - '[[_Standards/WikiData/WD~polyneuropathy,1502312]]'
+  - '[[_Standards/WikiData/WD~muscle_atrophy,1557686]]'
+  - '[[_Standards/WikiData/WD~hypoesthesia,1641556]]'
+  - '[[_Standards/WikiData/WD~depigmentation,3705665]]'
+  - '[[_Standards/WikiData/WD~nasal_septal_perforation,3899830]]'
+  - '[[_Standards/WikiData/WD~dystrophy,4162411]]'
+named_after: '[[_Standards/WikiData/WD~Gerhard_Armauer_Hansen,217344]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-possible_treatment: "[[_Standards/WikiData/WD~pharmacotherapy,701216]]"
-health_specialty: "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+possible_treatment: '[[_Standards/WikiData/WD~pharmacotherapy,701216]]'
+health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~neglected_tropical_disease,929451]]"
-  - "[[_Standards/WikiData/WD~peripheral_neuropathy,945238]]"
-  - "[[_Standards/WikiData/WD~eye_disease,3041498]]"
-  - "[[_Standards/WikiData/WD~mycobacterium_infectious_disease,4293079]]"
-  - "[[_Standards/WikiData/WD~testicular_disease,7705854]]"
-  - "[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]"
-  - "[[_Standards/WikiData/WD~upper_respiratory_tract_disease,18558209]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-different_from: "[[_Standards/WikiData/WD~Reporting_from_underworld,9362506]]"
-disease_transmission_process: "[[_Standards/WikiData/WD~contact_transmission,15304512]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_leprosy,17078489]]"
+  - '[[_Standards/WikiData/WD~neglected_tropical_disease,929451]]'
+  - '[[_Standards/WikiData/WD~peripheral_neuropathy,945238]]'
+  - '[[_Standards/WikiData/WD~eye_disease,3041498]]'
+  - '[[_Standards/WikiData/WD~mycobacterium_infectious_disease,4293079]]'
+  - '[[_Standards/WikiData/WD~testicular_disease,7705854]]'
+  - '[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]'
+  - '[[_Standards/WikiData/WD~upper_respiratory_tract_disease,18558209]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+different_from: '[[_Standards/WikiData/WD~Reporting_from_underworld,9362506]]'
+disease_transmission_process: '[[_Standards/WikiData/WD~contact_transmission,15304512]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_leprosy,17078489]]'
 genetic_association:
-  - "[[_Standards/WikiData/WD~RIPK2,18033332]]"
-  - "[[_Standards/WikiData/WD~RPS6KA4,18033617]]"
-  - "[[_Standards/WikiData/WD~TNFSF15,18034921]]"
+  - '[[_Standards/WikiData/WD~RIPK2,18033332]]'
+  - '[[_Standards/WikiData/WD~RPS6KA4,18033617]]'
+  - '[[_Standards/WikiData/WD~TNFSF15,18034921]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
+  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 minimal_incubation_period_in_humans: 1
 maximal_incubation_period_in_humans: 20
-DiseasesDB: "8478"
+DiseasesDB: 8478
 number_of_cases: 173358
-OmegaWiki_Defined_Meaning: "1128347"
+OmegaWiki_Defined_Meaning: 1128347
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leprosy.jpg
 prevalence: 0.00002413966
-U_S_National_Archives_Identifier: "10664110"
+U_S_National_Archives_Identifier: 10664110
 ---
 
 # [[Leprosy]] 

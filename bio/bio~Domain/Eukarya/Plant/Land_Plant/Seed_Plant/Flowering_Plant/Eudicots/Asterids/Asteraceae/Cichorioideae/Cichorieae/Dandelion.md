@@ -2,6 +2,42 @@
 aliases:
   - Taraxacum
   - Dandelion
+  - طرخشقون
+  - smetánka
+  - Кукшапуҫ
+  - dent-de-lion
+  - Beàrnan-brìde
+  - Maslačak
+  - Խատուտիկ
+  - Randa tapak
+  - 민들레속
+  - Каакым
+  - Løvetannslekta
+  - Béésh yiltʼąąʼí
+  - Къаппа-къуппа
+  - دوڌي ٻوٽي
+  - regrat
+  - Luleshurdha mjekësore
+  - சீமைக் காட்டுமுள்ளங்கி
+  - Тузганак
+  - ککروندا
+  - Chi Địa đinh
+  - לופטל
+  - 蒲公英属
+  - dandelion
+  - pissenlit
+  - pampeliška
+  - Löwenzahn
+  - סביון
+  - Mniszek
+  - Глухарче
+  - タンポポ
+  - Mælkebøtte
+  - leontodo
+  - Одуванчик
+  - Caisearbhán
+  - Zəncirotu
+  - Кульбаба
 has_id_wikidata: Q30024
 taxon_common_name:
   - طرخشقون
@@ -45,23 +81,23 @@ taxon_common_name:
   - Zəncirotu
   - Кульбаба
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~plant_sap,76626]]"
-  - "[[_Standards/WikiData/WD~rubber,18113858]]"
-parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Cichorieae,134662]]"
+  - '[[_Standards/WikiData/WD~plant_sap,76626]]'
+  - '[[_Standards/WikiData/WD~rubber,18113858]]'
+parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Cichorieae,134662]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_80(2),112869491]]"
-different_from: "[[_Standards/WikiData/WD~Mniszek,65165330]]"
-studied_by: "[[_Standards/WikiData/WD~taraxacology,104370513]]"
-flower_color: "[[_Standards/WikiData/WD~yellow,943]]"
-has_fruit_type: "[[_Standards/WikiData/WD~achene,14714]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "36199"
+  - '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_80(2),112869491]]'
+different_from: '[[_Standards/WikiData/WD~Mniszek,65165330]]'
+studied_by: '[[_Standards/WikiData/WD~taraxacology,104370513]]'
+flower_color: '[[_Standards/WikiData/WD~yellow,943]]'
+has_fruit_type: '[[_Standards/WikiData/WD~achene,14714]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 36199
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Dandelion%20%28Taraxacum%29%20Clock%20-%20Tennessee%2C%20USA%20-%20May%2031%2C%202014.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/DandelionFlower.jpg

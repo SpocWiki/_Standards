@@ -1,5 +1,7 @@
 ---
-title: "Ruellia s. l."
+aliases:
+  - Ruellia
+title: Ruellia s. l.
 ---
 
 # *Ruellia s. l.* 

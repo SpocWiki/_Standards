@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Geraniales
 title: Geraniales
 ---
 

@@ -1,5 +1,8 @@
 ---
-title: "Rana perezi"
+aliases:
+  - Rana_perezi
+  - Rana perezi
+title: Rana perezi
 ---
 
 # [[Rana_perezi]] 

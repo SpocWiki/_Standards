@@ -2,32 +2,34 @@
 aliases:
   - Human teeth
   - tooth
+  - Human_Tooth
+  - Human Tooth
 has_id_wikidata: Q561
-maintenance_method: "[[_Standards/WikiData/WD~tooth_brushing,93935]]"
+maintenance_method: '[[_Standards/WikiData/WD~tooth_brushing,93935]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~neck_of_tooth,143634]]"
-  - "[[_Standards/WikiData/WD~tooth_enamel,143942]]"
-  - "[[_Standards/WikiData/WD~dentin,189637]]"
-  - "[[_Standards/WikiData/WD~crown,940147]]"
-  - "[[_Standards/WikiData/WD~radice,24960869]]"
-  - "[[_Standards/WikiData/WD~cavity_of_tooth,66545289]]"
-  - "[[_Standards/WikiData/WD~dental_pulp,48286]]"
+  - '[[_Standards/WikiData/WD~neck_of_tooth,143634]]'
+  - '[[_Standards/WikiData/WD~tooth_enamel,143942]]'
+  - '[[_Standards/WikiData/WD~dentin,189637]]'
+  - '[[_Standards/WikiData/WD~crown,940147]]'
+  - '[[_Standards/WikiData/WD~radice,24960869]]'
+  - '[[_Standards/WikiData/WD~cavity_of_tooth,66545289]]'
+  - '[[_Standards/WikiData/WD~dental_pulp,48286]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 part_of:
-  - "[[_Standards/WikiData/WD~dentition,641973]]"
-  - "[[_Standards/WikiData/WD~phonation,678132]]"
-  - "[[_Standards/WikiData/WD~human_mouth,1370895]]"
+  - '[[_Standards/WikiData/WD~dentition,641973]]'
+  - '[[_Standards/WikiData/WD~phonation,678132]]'
+  - '[[_Standards/WikiData/WD~human_mouth,1370895]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Anatomy,8487304]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Dentistry,10997336]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Anatomy,8487304]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Dentistry,10997336]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~set_of_organs,66568715]]"
-  - "[[_Standards/WikiData/WD~tooth,553]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
-OmegaWiki_Defined_Meaning: "5946"
+  - '[[_Standards/WikiData/WD~set_of_organs,66568715]]'
+  - '[[_Standards/WikiData/WD~tooth,553]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+OmegaWiki_Defined_Meaning: 5946
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Teeth%20by%20David%20Shankbone.jpg
 TA98_Latin_term: dens
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Tooth.stl

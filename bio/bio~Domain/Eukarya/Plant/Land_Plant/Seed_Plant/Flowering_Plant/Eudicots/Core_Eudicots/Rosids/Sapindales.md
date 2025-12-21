@@ -1,6 +1,6 @@
 ---
 aliases:
-- Sapindales
+  - Sapindales
 title: Sapindales
 ---
 

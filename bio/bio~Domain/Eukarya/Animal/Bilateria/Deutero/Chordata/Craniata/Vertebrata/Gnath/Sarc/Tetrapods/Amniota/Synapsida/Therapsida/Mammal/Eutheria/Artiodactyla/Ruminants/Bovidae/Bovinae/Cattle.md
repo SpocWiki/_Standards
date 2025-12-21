@@ -1,7 +1,4 @@
 ---
-age_of_onset_of_sexual_maturity:
-  - 7
-  - 8
 aliases:
   - cow
   - Bos taurus
@@ -12,6 +9,12 @@ aliases:
   - bullock
   - steer
   - Stier
+  - Cattle
+  - vaca
+has_id_wikidata: Q830
+age_of_onset_of_sexual_maturity:
+  - 7
+  - 8
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Mudchute%20cow%201.ogg
 Commons_category: Cattle
 Commons_gallery: Cattle
@@ -28,7 +31,6 @@ different_from:
   - "[[_Standards/WikiData/WD~cow,11748378]]"
 earliest_date: -10500-01-01
 gestation_period: 9
-has_id_wikidata: Q830
 has_part_s_:
   - "[[_Standards/WikiData/WD~bull,693690]]"
   - "[[_Standards/WikiData/WD~cow,11748378]]"
@@ -88,7 +90,7 @@ video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Bos%20taurus%2002.ogv
 ---
 
-# [[Cattle]] 
+# [[Cattle]] 🐮 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cattle,830|WD~Cattle,830]]  
 #is_/same_as :: [[_Standards/WikiData/WD~cow,11748378]] 

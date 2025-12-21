@@ -2,21 +2,23 @@
 aliases:
   - throat examination
   - is_a_throat_examination
+  - Throat_Exam
+  - Throat Exam
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - throat
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_throat Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

@@ -1,21 +1,23 @@
 ---
+aliases:
+  - Brachiosaurus
 has_id_wikidata: Q14397
 location_of_discovery:
-  - "[[_Standards/WikiData/WD~Morrison_Formation,1195552]]"
-  - "[[_Standards/WikiData/WD~Colorado_River_Valley,49789241]]"
-  - "[[_Standards/WikiData/WD~Algeria,262]]"
+  - '[[_Standards/WikiData/WD~Morrison_Formation,1195552]]'
+  - '[[_Standards/WikiData/WD~Colorado_River_Valley,49789241]]'
+  - '[[_Standards/WikiData/WD~Algeria,262]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Dinosaurs,10564112]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Palaeontology,10565469]]"
-  - "[[_Standards/WikiData/WD~WikiProject_United_States,10816993]]"
-instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Dinosaurs,10564112]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Palaeontology,10565469]]'
+  - '[[_Standards/WikiData/WD~WikiProject_United_States,10816993]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
 start_time: -154000000-06
 length:
   - 30
   - 21
 mass: 58
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-main_food_source: "[[_Standards/WikiData/WD~herbivore,59099]]"
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+main_food_source: '[[_Standards/WikiData/WD~herbivore,59099]]'
 Commons_gallery: Brachiosaurus
 Commons_category: Brachiosaurus
 taxon_name: Brachiosaurus

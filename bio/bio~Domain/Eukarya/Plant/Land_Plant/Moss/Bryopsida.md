@@ -1,6 +1,6 @@
 ---
 aliases:
-- Bryopsida
+  - Bryopsida
 title: Bryopsida
 ---
 

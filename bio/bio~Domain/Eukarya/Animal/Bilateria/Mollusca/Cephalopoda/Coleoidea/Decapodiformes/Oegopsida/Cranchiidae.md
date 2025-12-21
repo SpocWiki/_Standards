@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cranchiidae
 title: Cranchiidae
 ---
 

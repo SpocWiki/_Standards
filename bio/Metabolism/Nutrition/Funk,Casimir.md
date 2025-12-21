@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Casimir Funk"
-- "Kazimierz Funk"
+  - Casimir Funk
+  - Kazimierz Funk
+  - Funk,Casimir
 ---
 
 #has_/time_/started ::  1884-02-23

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Acanthopsis
 title: Acanthopsis
 ---
 

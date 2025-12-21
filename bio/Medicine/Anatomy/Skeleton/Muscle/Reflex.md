@@ -3,18 +3,18 @@ aliases:
   - Reflex
 has_id_wikidata: Q179405
 different_from:
-  - "[[_Standards/WikiData/WD~classical_conditioning,212737]]"
-  - "[[_Standards/WikiData/WD~Q56304506,56304506]]"
+  - '[[_Standards/WikiData/WD~classical_conditioning,212737]]'
+  - '[[_Standards/WikiData/WD~Q56304506,56304506]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~motor_control,2996165]]"
-  - "[[_Standards/WikiData/WD~response_to_external_stimulus,14863388]]"
-instance_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~involuntary_action,6061399]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Reflex,20378850]]"
+  - '[[_Standards/WikiData/WD~motor_control,2996165]]'
+  - '[[_Standards/WikiData/WD~response_to_external_stimulus,14863388]]'
+instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~involuntary_action,6061399]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Reflex,20378850]]'
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Afferent%20and%20efferent%20neurons.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Afferent%20and%20efferent%20neurons%20en.svg

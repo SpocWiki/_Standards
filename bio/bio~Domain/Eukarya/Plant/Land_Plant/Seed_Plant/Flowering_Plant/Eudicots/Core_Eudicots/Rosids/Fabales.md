@@ -1,13 +1,14 @@
 ---
 aliases:
   - Fabales
-title: Fabales
+  - 豆目
 has_id_wikidata: Q21878
-parent_taxon: "[[_Standards/WikiData/WD~fabids,2683213]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-OmegaWiki_Defined_Meaning: "358691"
-ITIS_TSN: "500022"
+title: Fabales
+parent_taxon: '[[_Standards/WikiData/WD~fabids,2683213]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+OmegaWiki_Defined_Meaning: 358691
+ITIS_TSN: 500022
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Fabaceae%20flower.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Polygala%20senega%20-%20K%C3%B6hler%E2%80%93s%20Medizinal-Pflanzen-247.jpg

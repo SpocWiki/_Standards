@@ -4,21 +4,23 @@ aliases:
   - western_conventional
   - WesternConventional
   - is_a_western_conventional
+  - Western_Conventional
+  - Western Conventional
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype: MedicineSystem
-expiryDate:
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - western_conventional
-layout:
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_western_conventional Class
 publish: true
-publishDate:
+publishDate: ''
 tags:
   - class/Class
   - schema-org/Class

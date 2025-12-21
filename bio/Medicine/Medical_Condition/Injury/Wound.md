@@ -1,22 +1,23 @@
 ---
 aliases:
   - Wunde
+  - Wound
 has_id_wikidata: Q184753
-different_from: "[[_Standards/WikiData/WD~Rana,350621]]"
+different_from: '[[_Standards/WikiData/WD~Rana,350621]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-has_use: "[[_Standards/WikiData/WD~Traumatic_insemination,2244781]]"
-health_specialty: "[[_Standards/WikiData/WD~emergency_medicine,2861470]]"
-subclass_of: "[[_Standards/WikiData/WD~skin_trauma,7535430]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q22833731,22833731]]"
-drug_or_therapy_used_for_treatment: "[[_Standards/WikiData/WD~wound_closure_technique,72257696]]"
-OmegaWiki_Defined_Meaning: "480931"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+has_use: '[[_Standards/WikiData/WD~Traumatic_insemination,2244781]]'
+health_specialty: '[[_Standards/WikiData/WD~emergency_medicine,2861470]]'
+subclass_of: '[[_Standards/WikiData/WD~skin_trauma,7535430]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q22833731,22833731]]'
+drug_or_therapy_used_for_treatment: '[[_Standards/WikiData/WD~wound_closure_technique,72257696]]'
+OmegaWiki_Defined_Meaning: 480931
 IMDb_keyword: wound
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chapter1figure1-Superficial%20bullet%20wound.jpg
 UMLS_CUI: C0043250
 Commons_category: Wounds
-Dewey_Decimal_Classification: "617.14"
+Dewey_Decimal_Classification: 617.14
 ---
 
 # [[Wound]] 

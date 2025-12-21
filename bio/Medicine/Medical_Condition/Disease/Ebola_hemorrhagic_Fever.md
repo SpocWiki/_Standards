@@ -3,79 +3,81 @@ aliases:
   - Ebola
   - Ebola virus disease
   - Ebola hemorrhagic fever
+  - Ebola_hemorrhagic_Fever
+  - Ebola hemorrhagic Fever
 has_id_wikidata: Q51993
 possible_treatment:
-  - "[[_Standards/WikiData/WD~blood_plasma,79749]]"
-  - "[[_Standards/WikiData/WD~analgesic,173235]]"
-  - "[[_Standards/WikiData/WD~blood_transfusion,183605]]"
-  - "[[_Standards/WikiData/WD~hydration,356243]]"
-  - "[[_Standards/WikiData/WD~antipyretic,582687]]"
-  - "[[_Standards/WikiData/WD~symptomatic_treatment,621558]]"
-  - "[[_Standards/WikiData/WD~intravenous_fluid_replacement,24885926]]"
+  - '[[_Standards/WikiData/WD~blood_plasma,79749]]'
+  - '[[_Standards/WikiData/WD~analgesic,173235]]'
+  - '[[_Standards/WikiData/WD~blood_transfusion,183605]]'
+  - '[[_Standards/WikiData/WD~hydration,356243]]'
+  - '[[_Standards/WikiData/WD~antipyretic,582687]]'
+  - '[[_Standards/WikiData/WD~symptomatic_treatment,621558]]'
+  - '[[_Standards/WikiData/WD~intravenous_fluid_replacement,24885926]]'
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~poisoning,114953]]"
-  - "[[_Standards/WikiData/WD~vomiting,127076]]"
-  - "[[_Standards/WikiData/WD~bleeding,166019]]"
-  - "[[_Standards/WikiData/WD~conjunctivitis,167844]]"
-  - "[[_Standards/WikiData/WD~abdominal_pain,183425]]"
-  - "[[_Standards/WikiData/WD~nausea,186889]]"
-  - "[[_Standards/WikiData/WD~dyspnea,188008]]"
-  - "[[_Standards/WikiData/WD~nosebleed,202013]]"
-  - "[[_Standards/WikiData/WD~myalgia,474959]]"
-  - "[[_Standards/WikiData/WD~rash,653197]]"
-  - "[[_Standards/WikiData/WD~arthralgia,683498]]"
-  - "[[_Standards/WikiData/WD~internal_bleeding,2361887]]"
-  - "[[_Standards/WikiData/WD~headache,86]]"
-  - "[[_Standards/WikiData/WD~fever,38933]]"
-  - "[[_Standards/WikiData/WD~diarrhea,40878]]"
+  - '[[_Standards/WikiData/WD~poisoning,114953]]'
+  - '[[_Standards/WikiData/WD~vomiting,127076]]'
+  - '[[_Standards/WikiData/WD~bleeding,166019]]'
+  - '[[_Standards/WikiData/WD~conjunctivitis,167844]]'
+  - '[[_Standards/WikiData/WD~abdominal_pain,183425]]'
+  - '[[_Standards/WikiData/WD~nausea,186889]]'
+  - '[[_Standards/WikiData/WD~dyspnea,188008]]'
+  - '[[_Standards/WikiData/WD~nosebleed,202013]]'
+  - '[[_Standards/WikiData/WD~myalgia,474959]]'
+  - '[[_Standards/WikiData/WD~rash,653197]]'
+  - '[[_Standards/WikiData/WD~arthralgia,683498]]'
+  - '[[_Standards/WikiData/WD~internal_bleeding,2361887]]'
+  - '[[_Standards/WikiData/WD~headache,86]]'
+  - '[[_Standards/WikiData/WD~fever,38933]]'
+  - '[[_Standards/WikiData/WD~diarrhea,40878]]'
 medical_examination:
-  - "[[_Standards/WikiData/WD~electron_microscope,132560]]"
-  - "[[_Standards/WikiData/WD~polymerase_chain_reaction,176996]]"
-  - "[[_Standards/WikiData/WD~ELISA,332126]]"
-  - "[[_Standards/WikiData/WD~immunofluorescence_microscopy,592324]]"
-  - "[[_Standards/WikiData/WD~physical_examination,835153]]"
-  - "[[_Standards/WikiData/WD~complete_blood_count,886518]]"
-  - "[[_Standards/WikiData/WD~viral_culture,7933598]]"
+  - '[[_Standards/WikiData/WD~electron_microscope,132560]]'
+  - '[[_Standards/WikiData/WD~polymerase_chain_reaction,176996]]'
+  - '[[_Standards/WikiData/WD~ELISA,332126]]'
+  - '[[_Standards/WikiData/WD~immunofluorescence_microscopy,592324]]'
+  - '[[_Standards/WikiData/WD~physical_examination,835153]]'
+  - '[[_Standards/WikiData/WD~complete_blood_count,886518]]'
+  - '[[_Standards/WikiData/WD~viral_culture,7933598]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~viral_hemorrhagic_fever,162272]]"
-  - "[[_Standards/WikiData/WD~hospital_acquired_infection,215509]]"
-  - "[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]"
-  - "[[_Standards/WikiData/WD~Filoviridae_infectious_disease,18975835]]"
-  - "[[_Standards/WikiData/WD~pandemic_and_epidemic_prone_diseases,131345497]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
+  - '[[_Standards/WikiData/WD~viral_hemorrhagic_fever,162272]]'
+  - '[[_Standards/WikiData/WD~hospital_acquired_infection,215509]]'
+  - '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
+  - '[[_Standards/WikiData/WD~Filoviridae_infectious_disease,18975835]]'
+  - '[[_Standards/WikiData/WD~pandemic_and_epidemic_prone_diseases,131345497]]'
+  - '[[_Standards/WikiData/WD~disease,12136]]'
 has_natural_reservoir:
   - "[[_Standards/WikiData/WD~Franquet's_Epauletted_Fruit_Bat,303030]]"
-  - "[[_Standards/WikiData/WD~Hammer_headed_bat,304912]]"
-  - "[[_Standards/WikiData/WD~Little_Collared_Fruit_Bat,1763436]]"
-  - "[[_Standards/WikiData/WD~human,5]]"
-health_specialty: "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+  - '[[_Standards/WikiData/WD~Hammer_headed_bat,304912]]'
+  - '[[_Standards/WikiData/WD~Little_Collared_Fruit_Bat,1763436]]'
+  - '[[_Standards/WikiData/WD~human,5]]'
+health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 location_of_discovery:
-  - "[[_Standards/WikiData/WD~Ebola_River,934455]]"
-  - "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
-named_after: "[[_Standards/WikiData/WD~Ebola_River,934455]]"
-has_characteristic: "[[_Standards/WikiData/WD~contagiousness,1783077]]"
+  - '[[_Standards/WikiData/WD~Ebola_River,934455]]'
+  - '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]'
+named_after: '[[_Standards/WikiData/WD~Ebola_River,934455]]'
+has_characteristic: '[[_Standards/WikiData/WD~contagiousness,1783077]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~Ebolavirus,5331908]]"
-  - "[[_Standards/WikiData/WD~Orthoebolavirus_zairense,10538943]]"
+  - '[[_Standards/WikiData/WD~Ebolavirus,5331908]]'
+  - '[[_Standards/WikiData/WD~Orthoebolavirus_zairense,10538943]]'
 disease_transmission_process:
-  - "[[_Standards/WikiData/WD~contact_transmission,15304512]]"
-  - "[[_Standards/WikiData/WD~haemocontact_transmission_of_pathogen,34683744]]"
+  - '[[_Standards/WikiData/WD~contact_transmission,15304512]]'
+  - '[[_Standards/WikiData/WD~haemocontact_transmission_of_pathogen,34683744]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-biosafety_level: "[[_Standards/WikiData/WD~biosafety_level_4,18396539]]"
-bibliography: "[[_Standards/WikiData/WD~bibliography_of_Ebola,85315256]]"
+  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+biosafety_level: '[[_Standards/WikiData/WD~biosafety_level_4,18396539]]'
+bibliography: '[[_Standards/WikiData/WD~bibliography_of_Ebola,85315256]]'
 minimal_incubation_period_in_humans: 2
 maximal_incubation_period_in_humans: 21
-OmegaWiki_Defined_Meaning: "1074891"
+OmegaWiki_Defined_Meaning: 1074891
 number_of_cases:
   - 3786
   - 13494
   - 27953
-DiseasesDB: "18043"
+DiseasesDB: 18043
 subreddit: ebola
 Commons_gallery: Ebola
 time_of_discovery_or_invention: 1976-08-26T00:00:00Z

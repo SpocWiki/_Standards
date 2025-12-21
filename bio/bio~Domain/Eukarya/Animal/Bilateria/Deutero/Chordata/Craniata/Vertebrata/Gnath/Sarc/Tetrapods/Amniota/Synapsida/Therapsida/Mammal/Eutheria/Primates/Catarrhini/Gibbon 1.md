@@ -1,25 +1,26 @@
 ---
 aliases:
   - Gibbon
+  - Gibbon 1
 has_id_wikidata: Q185939
-means_of_locomotion: "[[_Standards/WikiData/WD~brachiation,848840]]"
+means_of_locomotion: '[[_Standards/WikiData/WD~brachiation,848840]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-different_from: "[[_Standards/WikiData/WD~Gibbons,2650984]]"
-CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
-diel_cycle: "[[_Standards/WikiData/WD~diurnality,4284186]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q9689569,9689569]]"
-award_received: "[[_Standards/WikiData/WD~Q25385081,25385081]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q65320373,65320373]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q65320373,65320373]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+different_from: '[[_Standards/WikiData/WD~Gibbons,2650984]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
+diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9689569,9689569]]'
+award_received: '[[_Standards/WikiData/WD~Q25385081,25385081]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q65320373,65320373]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q65320373,65320373]]'
 start_time: -8000000-06
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 mass: 8.5
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "572775"
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 572775
 Commons_gallery: Hylobatidae
 Commons_category: Hylobatidae
 taxon_name: Hylobatidae
