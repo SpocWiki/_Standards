@@ -92,7 +92,7 @@ Libris_URI: ljx01d641fffcg4
 # [[Ockham,William_of]] 
 
 #is_/same_as :: [[WD~William_of_Ockham,43936]] 
-#has_/created :: [[../../../Science/Occam's_Razor|Occam's_Razor]] 
+#has_/created :: [[../../../Science/Scientific_Method/Occam's_Razor|Occam's_Razor]] 
 
 ## #has_/text_of_/abstract 
 

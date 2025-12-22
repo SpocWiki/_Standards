@@ -55,7 +55,7 @@ Wolfram_Language_entity_type: Dam
 
 # [[Dam]] 
 
-#is_/different_from :: [[../../../../WikiData/Levee|Levee]] 
+#is_/different_from :: [[../Hydraulic_Engineering/Levee|Levee]] 
 #is_/same_as :: [[../../../../WikiData/WD~Dam,12323|WD~Dam,12323]] 
 
 ## #has_/text_of_/abstract 

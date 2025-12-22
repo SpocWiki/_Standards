@@ -79,7 +79,7 @@ PhilPapers_topic: conspiracy-theories
 
 # [[Conspiracy_theory]] 
 
-#is_/same_as :: [[../../WikiData/WD~Conspiracy_theory,159535|WD~Conspiracy_theory,159535]] 
+#is_/same_as :: [[../../../../WikiData/WD~Conspiracy_theory,159535|WD~Conspiracy_theory,159535]] 
 
 ## #has_/text_of_/abstract 
 

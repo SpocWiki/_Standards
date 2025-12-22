@@ -11,9 +11,9 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%
 Commons_category: Scientific revolution
 ---
 
-# [[Scientific_Revolution]] 
+# [[1543-Scientific_Revolution+1687]] 
 
-#is_/same_as :: [[../WikiData/WD~Scientific_Revolution,214078|WD~Scientific_Revolution,214078]]  
+#is_/same_as :: [[../../WikiData/WD~Scientific_Revolution,214078|WD~Scientific_Revolution,214078]]  
 
 ## #has_/text_of_/abstract 
 

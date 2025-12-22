@@ -57,7 +57,7 @@ Commons_category: Scientific theories
 > that has already been tested and is widely accepted as valid.
 >
 > The strength of a scientific theory is related to the diversity of phenomena it can explain 
-> and its simplicity (see [[../Science/Occam's_Razor|Occam's_Razor]]). 
+> and its simplicity (see [[../Occam's_Razor|Occam's_Razor]]). 
 > 
 > As additional scientific evidence is gathered, a scientific theory may be modified 
 > or ultimately rejected if it cannot be made to fit the new findings; 

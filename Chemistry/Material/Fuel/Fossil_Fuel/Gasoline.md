@@ -55,7 +55,7 @@ RTECS_number: LX3300000
 
 # [[Gasoline]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Gasoline,39558|WD~Gasoline,39558]] 
+#is_/same_as :: [[../../../../WikiData/WD~Gasoline,39558|WD~Gasoline,39558]] 
 
 ## #has_/text_of_/abstract 
 

@@ -38,11 +38,11 @@ Use it like this:
 - [ #has_/text_of_/award :: Text ] or 
 - [ has_text_of_award :: Text ] 
 
-An award won by or for this item.
+Description of an award won by or for this item.
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork, Organization, Person, Product, Service ]
-( #has_/name :: has_text_of_award )
+( #has_/name :: has_award )
 ( #has_/range :: Text )
 
 

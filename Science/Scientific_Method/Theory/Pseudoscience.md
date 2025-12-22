@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Pseudo-Science
 has_id_wikidata: Q483677
 has_contributing_factor: "[[_Standards/WikiData/WD~anecdotal_evidence,143636]]"
 partially_coincident_with:
