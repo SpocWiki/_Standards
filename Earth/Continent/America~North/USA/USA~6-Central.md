@@ -1,12 +1,25 @@
-USA States in the Central Time Zone UTC+
+---
+location:
+- 35
+- -90.0
+---
+
+# [[USA~6-Central]] 
+
+USA States in the Central Time Zone UTC+6
+
+## #has_/map  
 
 ```leaflet
-id: United States of America
+id: USA~6-Central
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 3 
+defaultZoom: 5
 maxZoom: 18
-geojsonFolder: ./USA~Central/
-markerFolder: ./USA~Central/
+geojsonFolder: ./USA~6-Central/
+markerFolder: ./USA~6-Central/
+coordinates: [[USA~6-Central]] 
+markerFile: [[USA~6-Central]] 
 ```
 
 

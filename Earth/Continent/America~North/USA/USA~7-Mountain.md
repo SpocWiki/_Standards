@@ -1,12 +1,25 @@
-Mountain Time Zone
+---
+location:
+- 40
+- -105.0
+---
+
+# [[USA~7-Mountain]] 
+
+USA States in the Mountain Time Zone UTC+7 
+
+## #has_/map  
 
 ```leaflet
-id: United States of America
+id: USA~7-Mountain
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 3 
+defaultZoom: 5
 maxZoom: 18
-geojsonFolder: ./USA~Mountain/
-markerFolder: ./USA~Mountain/
+geojsonFolder: ./USA~7-Mountain/
+markerFolder: ./USA~7-Mountain/
+coordinates: [[USA~7-Mountain]] 
+markerFile: [[USA~7-Mountain]] 
 ```
 
 

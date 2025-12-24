@@ -1,16 +1,24 @@
+---
+location:
+- 40
+- -120.0
+---
+# [[USA~8-Pacific]] 
 
-# [[USA~Pacific]]
+USA States in the Pacific Time Zone UTC+8 
 
-Pacific Time Zone
+## #has_/map 
 
 ```leaflet
-id: United States of America
+id: USA~8-Pacific
 zoomFeatures: true 
 minZoom: 3 
-defaultZoom: 4
+defaultZoom: 5
 maxZoom: 18
-geojsonFolder: ./USA~Pacific/
-markerFolder: ./USA~Pacific/
+geojsonFolder: ./USA~8-Pacific/
+markerFolder: ./USA~8-Pacific/
+coordinates: [[USA~8-Pacific]] 
+markerFile: [[USA~8-Pacific]] 
 ```
 
 

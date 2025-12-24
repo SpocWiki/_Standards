@@ -1,12 +1,26 @@
-Eastern Time Zone
+---
+location:
+- 35
+- -77.0
+---
+
+# [[USA~5-Eastern]] 
+
+USA States in the Eastern Time Zone UTC+5
+
+## #has_/map 
 
 ```leaflet
-id: United States of America
+id: USA~5-Eastern
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 3 
+defaultZoom: 5
 maxZoom: 18
-geojsonFolder: ./USA~Eastern/
-markerFolder: ./USA~Eastern/
+geojsonFolder: ./USA~5-Eastern/
+markerFolder: ./USA~5-Eastern/
+coordinates: [[USA~5-Eastern]] 
+markerFile: [[USA~5-Eastern]] 
+zoomFeatures: true
 ```
 
 
