@@ -242,6 +242,10 @@ node_modules/
 /Earth/Continent/America~South/**/Venezuela
 /Earth/Continent/America~North/Canada
 /Earth/Continent/America~North/Saint-Pierre-et-Miquelon
-/Earth/Continent/America~North/USA
+#/Earth/Continent/America~North/USA
+/Earth/Continent/America~North/USA/USA~5-Eastern
+/Earth/Continent/America~North/USA/USA~6-Central
+/Earth/Continent/America~North/USA/USA~7-Mountain
+/Earth/Continent/America~North/USA/USA~8-Pacific
 /Earth/Continent/America~Caribbean
 Timor-Leste
