@@ -6,23 +6,23 @@ aliases:
   - valour
   - valor
 has_id_wikidata: Q208160
-instance_of: '[[_Standards/WikiData/WD~virtue,157811]]'
-subclass_of: '[[_Standards/WikiData/WD~feeling,205555]]'
+instance_of: "[[_Standards/WikiData/WD~virtue,157811]]"
+subclass_of: "[[../../../../WikiData/WD~feeling,205555]]"
 partially_coincident_with:
-  - '[[_Standards/WikiData/WD~boldness,362547]]'
-  - '[[_Standards/WikiData/WD~panache,3809419]]'
+  - "[[_Standards/WikiData/WD~boldness,362547]]"
+  - "[[_Standards/WikiData/WD~panache,3809419]]"
 different_from:
-  - '[[_Standards/WikiData/WD~Courage,417427]]'
-  - '[[_Standards/WikiData/WD~masculinity,1076509]]'
-  - '[[_Standards/WikiData/WD~Q95492778,95492778]]'
+  - "[[_Standards/WikiData/WD~Courage,417427]]"
+  - "[[_Standards/WikiData/WD~masculinity,1076509]]"
+  - "[[_Standards/WikiData/WD~Q95492778,95492778]]"
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~fortitude,605035]]'
-  - '[[_Standards/WikiData/WD~Fonse,12890705]]'
-  - '[[_Standards/WikiData/WD~bravery,16514804]]'
-  - '[[_Standards/WikiData/WD~Q109334100,109334100]]'
-opposite_of: '[[_Standards/WikiData/WD~cowardice,1401607]]'
-part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+  - "[[_Standards/WikiData/WD~fortitude,605035]]"
+  - "[[_Standards/WikiData/WD~Fonse,12890705]]"
+  - "[[_Standards/WikiData/WD~bravery,16514804]]"
+  - "[[_Standards/WikiData/WD~Q109334100,109334100]]"
+opposite_of: "[[_Standards/WikiData/WD~cowardice,1401607]]"
+part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
+described_by_source: "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
 Commons_category: Courage
 OmegaWiki_Defined_Meaning: 424986
 PhilPapers_topic: courage

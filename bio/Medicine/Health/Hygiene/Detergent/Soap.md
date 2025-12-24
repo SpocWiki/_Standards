@@ -4,10 +4,10 @@ aliases:
 has_id_wikidata: Q34396
 subclass_of:
   - "[[_Standards/WikiData/WD~organic_compound,174211]]"
-  - "[[_Standards/WikiData/WD~detergent,334637]]"
+  - "[[../../../../../WikiData/WD~detergent,334637]]"
   - "[[_Standards/WikiData/WD~salt,12370]]"
 has_use:
-  - "[[_Standards/WikiData/WD~detergent,334637]]"
+  - "[[../../../../../WikiData/WD~detergent,334637]]"
   - "[[_Standards/WikiData/WD~shaving,369570]]"
   - "[[_Standards/WikiData/WD~hand_washing,552461]]"
 described_by_source:

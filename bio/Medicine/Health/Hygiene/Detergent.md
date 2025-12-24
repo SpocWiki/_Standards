@@ -30,7 +30,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/MOYUSH
 
 # [[Detergent]] 
 
-#is_/same_as :: [[WD~detergent,334637]] 
+#is_/same_as :: [[../../../../WikiData/WD~detergent,334637]] 
 
 ## #has_/text_of_/abstract 
 

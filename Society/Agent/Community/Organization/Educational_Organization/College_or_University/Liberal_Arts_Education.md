@@ -64,7 +64,7 @@ Commons_category: Seven liberal arts
 > - [[../../../../../Anthropology/Sociology|Sociology]], 
 > - [[../../../../../Communication/Media/Music|Music]], 
 > - [[../../../../../Communication/Media/Journalism|Journalism]], 
-> - [[../../../../../../_internal/Society/Economics|Economics]], 
+> - [[../../../../../Economics|Economics]], 
 > - [[../../../../../Law|Law]], 
 > - [[../../../../../Communication|Communications]], 
 > - [[../../../../../../Technology/Engineering/Civil_Engineering/Construction/Architecture|Architecture]], 

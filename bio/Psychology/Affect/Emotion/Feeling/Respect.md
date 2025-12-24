@@ -3,7 +3,7 @@ aliases:
   - esteem
   - Respekt
 has_id_wikidata: Q28510
-instance_of: "[[_Standards/WikiData/WD~feeling,205555]]"
+instance_of: "[[../../../../../WikiData/WD~feeling,205555]]"
 opposite_of: "[[_Standards/WikiData/WD~disrespect,12764567]]"
 described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 partially_coincident_with: "[[_Standards/WikiData/WD~esteem,104602026]]"

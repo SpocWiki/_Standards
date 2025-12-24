@@ -27,7 +27,7 @@ Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/CHUVSTV
 
 # [[Feeling]] 
 
-#is_/same_as :: [[WD~feeling,205555]] 
+#is_/same_as :: [[../../../../WikiData/WD~feeling,205555]] 
 
 ## #has_/text_of_/abstract 
 

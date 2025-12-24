@@ -4,25 +4,25 @@ aliases:
   - Guilt
 has_id_wikidata: Q628939
 different_from:
-  - '[[_Standards/WikiData/WD~Guilt,80411]]'
-  - '[[_Standards/WikiData/WD~shame,152282]]'
-  - '[[_Standards/WikiData/WD~guilty,705178]]'
-  - '[[_Standards/WikiData/WD~culpability,1365664]]'
+  - "[[_Standards/WikiData/WD~Guilt,80411]]"
+  - "[[_Standards/WikiData/WD~shame,152282]]"
+  - "[[_Standards/WikiData/WD~guilty,705178]]"
+  - "[[_Standards/WikiData/WD~culpability,1365664]]"
 partially_coincident_with:
-  - '[[_Standards/WikiData/WD~shame,152282]]'
-  - '[[_Standards/WikiData/WD~self_blame,26833776]]'
-facet_of: '[[_Standards/WikiData/WD~conscience,193526]]'
-subclass_of: '[[_Standards/WikiData/WD~feeling,205555]]'
+  - "[[_Standards/WikiData/WD~shame,152282]]"
+  - "[[_Standards/WikiData/WD~self_blame,26833776]]"
+facet_of: "[[_Standards/WikiData/WD~conscience,193526]]"
+subclass_of: "[[../../../../WikiData/WD~feeling,205555]]"
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~remorse,490149]]'
-  - '[[_Standards/WikiData/WD~guilt,960496]]'
-  - '[[_Standards/WikiData/WD~fault,16515402]]'
+  - "[[_Standards/WikiData/WD~remorse,490149]]"
+  - "[[_Standards/WikiData/WD~guilt,960496]]"
+  - "[[_Standards/WikiData/WD~fault,16515402]]"
 described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-instance_of: '[[_Standards/WikiData/WD~negative_emotion,60539481]]'
-part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-opposite_of: '[[_Standards/WikiData/WD~clear_conscience,121027920]]'
-has_cause: '[[_Standards/WikiData/WD~knowledge,9081]]'
-studied_by: '[[_Standards/WikiData/WD~psychology,9418]]'
+instance_of: "[[_Standards/WikiData/WD~negative_emotion,60539481]]"
+part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
+opposite_of: "[[_Standards/WikiData/WD~clear_conscience,121027920]]"
+has_cause: "[[_Standards/WikiData/WD~knowledge,9081]]"
+studied_by: "[[_Standards/WikiData/WD~psychology,9418]]"
 OmegaWiki_Defined_Meaning: 1264516
 IMDb_keyword: guilt
 Iconclass_notation: 57A43

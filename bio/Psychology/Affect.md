@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q159904
 subclass_of:
-  - "[[_Standards/WikiData/WD~feeling,205555]]"
+  - "[[../../WikiData/WD~feeling,205555]]"
   - "[[_Standards/WikiData/WD~pattern,2083958]]"
   - "[[_Standards/WikiData/WD~emotion,9415]]"
 different_from:

@@ -53,7 +53,7 @@ SOC_Code_2010_: 11-0000
 
 # [[Management]] 
 
-#is_/similar_to :: [[../../_internal/Society/Economics|Economics]] 
+#is_/similar_to :: [[../Economics|Economics]] 
 #is_/similar_to :: [[../../Technology/Engineering/Control_Engineering/Control_Theory|Control_Theory]] 
 #is_/same_as :: [[../../WikiData/WD~Management,2920921|WD~Management,2920921]] 
 

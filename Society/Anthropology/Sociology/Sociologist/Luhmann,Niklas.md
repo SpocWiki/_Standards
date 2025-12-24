@@ -99,7 +99,7 @@ Wolfram_Language_entity_code: Entity["Person", "NiklasLuhmann::4796k"]
 > into various autonomously working functional areas such as 
 > - [[../../../Politics|Politics]], 
 > - [[../../../Law|Law]], 
-> - [[../../../../_internal/Society/Economics|Economics]], 
+> - [[../../../Economics|Economics]], 
 > - [[../../../../Science|Science]], 
 > - [[../../../../Philosophy/Metaphysic/Religion|Religion]] and 
 > - [[../../../Communication/Art|Art]]. 

@@ -1,4 +1,4 @@
-Central Time Zone
+USA States in the Central Time Zone UTC+
 
 ```leaflet
 id: United States of America

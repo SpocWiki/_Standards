@@ -47,9 +47,8 @@ UMLS_CUI: C0039371
 
 ## #has_/text_of_/abstract  
 
-
-> A **Tax** is a mandatory financial charge or levy imposed on a taxpayer 
-> (an individual or legal entity) by a governmental organization 
+> A **Tax** is a mandatory financial charge or levy imposed on a taxpayer (an individual or legal entity) 
+> by a governmental organization 
 > to support government spending and public expenditures collectively 
 > or to regulate and reduce negative externalities. 
 > 

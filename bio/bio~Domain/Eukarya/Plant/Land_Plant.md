@@ -32,7 +32,7 @@ taxon_name: Embryophytes
 
 ![ ](Land_Plant/Rosa_canina.jpg) ![](Land_Plant/Asplenium_australasicum.jpg) 
 
-#is_/same_as :: [[../../../../_Standards/WikiData/WD~Embryophytes,192154|WD~Embryophytes,192154]] 
+#is_/same_as :: [[../../../../WikiData/WD~Embryophytes,192154 1|WD~Embryophytes,192154 1]] 
 
 ## #has_/text_of_/abstract 
 
