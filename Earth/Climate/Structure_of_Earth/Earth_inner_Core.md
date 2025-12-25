@@ -38,7 +38,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCnyan%C4%B1n%20i
 > about the temperature at the surface of the Sun.
 >
 > The inner core is solid at high temperature because of its high pressure, 
-> in accordance with the [[Simon-Glatzel Equation]].
+> in accordance with the [[../../../Science/Physics/State_of_Matter/Phase_Transition/Simon-Glatzel_Equation]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Earth's%20inner%20core) 
 

@@ -1,3 +1,30 @@
+---
+has_id_wikidata: Q74363
+different_from:
+  - "[[_Standards/WikiData/WD~hippocamp,816795]]"
+  - "[[_Standards/WikiData/WD~seahorse,11709836]]"
+  - "[[_Standards/WikiData/WD~Seepferdchen,33053504]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]"
+parent_taxon: "[[_Standards/WikiData/WD~Hippocampinae,3135825]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+Commons_gallery: Seahorse
+ITIS_TSN: "166487"
+OmegaWiki_Defined_Meaning: "1450404"
+Commons_category: Hippocampus
+taxon_name: Hippocampus
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Hippocampus%20hippocampus%20%28on%20Ascophyllum%20nodosum%29.jpg
+start_time: -23000000-01-01T00:00:00Z
+EPPO_Code: 1HPPCG
+NBN_System_Key: NHMSYS0021053453
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hippocampus%20%2810.3897-zookeys.883.39662%29%20Figure%204.jpg
+---
 
 # [[Hippocampus]] 
 

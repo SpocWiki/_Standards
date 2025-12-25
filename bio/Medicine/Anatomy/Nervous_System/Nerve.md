@@ -1,6 +1,29 @@
 ---
 aliases:
+  - Nerv
+  - nerve
   - Nerve
+  - is_a_nerve
+  - nerve 1
+confidential: public
+cssclasses:
+  - Type
+draft: false
+expiryDate: ''
+isDeleted: false
+isReadOnly: false
+keywords:
+  - nerve
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_a_nerve Class
+publish: true
+publishDate: ''
+tags:
+  - class/Class
+  - schema-org/Class
+title: is_a_nerve Class
+type: Type
 has_id_wikidata: Q9620
 Commons_category: Nerves
 described_by_source:
@@ -32,7 +55,27 @@ WordLift_URL: http://data.wordlift.io/wl01714/entity/nerves
 
 # [[Nerve]] 
 
+
+[ #is_/sub_class_of :: [[../AnatomicalStructure]] ]
+
+[ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, branch, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, nerveMotor, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, sensoryUnit, sourcedFrom, study, subStructure, subjectOf, url ] ]
+
 #is_/same_as :: [[../../../../WikiData/WD~Nerve,9620|WD~Nerve,9620]] 
+
+Class of all nerves.
+A common pathway for the electrochemical nerve impulses that are transmitted along each of the axons.
+
+Tag Instances like this: 
+#is_a_/nerve
+
+
+
+Class of all nerves.
+A common pathway for the electrochemical nerve impulses that are transmitted along each of the axons.
+
+Tag Instances like this: 
+#is_a_/nerve
+
 
 ## #has_/text_of_/abstract 
 
