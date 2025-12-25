@@ -1,0 +1,1 @@
+git clone "https://github.com/SpocWiki/America-USA-5-Eastern" USA~5-Eastern
