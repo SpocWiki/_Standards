@@ -1,5 +1,5 @@
 
-#has_/created [[goodRelations|goodRelations]] 
+#has_/created [[../../Schemas/goodRelations|goodRelations]] 
 
 Univ.-Prof. Dr. Martin Hepp  
 E-Business and Web Science Research Group  

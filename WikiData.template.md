@@ -4,7 +4,7 @@ aliases:
 has_id_wikidata: Q{{id}}
 ---
 
-# [[WD~{{FileName}}]]
+# [[WD~{{FileName}},{{id}}]]
 
 
 {{description}}
