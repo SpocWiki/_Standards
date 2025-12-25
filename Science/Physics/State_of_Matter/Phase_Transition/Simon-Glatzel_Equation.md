@@ -3,7 +3,7 @@ aliases:
 has_id_wikidata: Q7520530
 ---
 
-# [[Simon-Glatzel Equation]] 
+# [[Simon-Glatzel_Equation]] 
 
 #is_/same_as :: [[WD~Simon-Glatzel Equation,7520530]] 
 
