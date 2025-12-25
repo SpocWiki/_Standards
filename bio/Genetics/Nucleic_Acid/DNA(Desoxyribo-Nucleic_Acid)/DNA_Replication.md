@@ -36,16 +36,26 @@ RNA is copied from DNA through the process of **Transcription**.
 
 ### Scientific Opinions and Evidence
 
-The mechanisms of DNA replication and RNA transcription have been extensively researched and are well-documented. According to the **National Center for Biotechnology Information (NCBI)**, the foundational understanding of these processes comes from numerous molecular biology studies (https://www.ncbi.nlm.nih.gov).
+While the basic principles are universally agreed upon, 
+slight differences in replication and transcription exist among different organisms, 
+such as prokaryotes and eukaryotes. 
 
-While the basic principles are universally agreed upon, slight differences in replication and transcription exist among different organisms, such as prokaryotes and eukaryotes. Eukaryotic cells, for example, have additional complexity due to the presence of histones and nucleosomes affecting DNA unwinding.
+Eukaryotic cells, for example, have additional complexity 
+due to the presence of histones and nucleosomes affecting DNA unwinding.
 
-### Error Rates
+### Error Rates: errors per base pair per replication
+
+| Replication stage     | Error rate value      |
+| --------------------- | --------------------- |
+| Base selection only   | 1 × 10⁻⁵              |
+| After proofreading    | 1 × 10⁻⁷              |
+| After mismatch repair | 1 × 10⁻¹⁰ to 1 × 10⁻⁹ |
 
 1. **Replication**: Despite proofreading, some errors occur, contributing to genetic variation and potential mutations. 
-2. **Transcription**: While not as accurate as replication, errors in transcription are generally less critical since RNA is not heritable and errors can be corrected through processes such as splicing and degradation. 
+2. **Transcription**: While not as accurate as replication, 
+   errors in transcription are generally less critical since RNA is not heritable 
+   and errors can be corrected through processes such as splicing and degradation. 
 
-This information consolidates the current understanding as of 2023-10 and reflects the scientific consensus on these fundamental cellular processes. Please confirm any additional or updated data from primary scientific resources or databases before application, especially in experimental settings or clinical implications.
 
 
 ## Confidential Links & Embeds: 

@@ -14,9 +14,11 @@
 
 #is_/same_as :: [[_Standards/WikiData/WD~safety,10566551]] 
 
+Security is Safety against [[../../../Agent|Agent]]s 
+
 ## #has_/text_of_/abstract 
 
-> **Safety** is the state of being protected from harm or other danger. 
+> **Safety** is the state of being protected from harm or other danger from non-[[../../../Agent|Agent]]s. 
 > Safety can also refer to the control of recognized hazards 
 > in order to achieve an acceptable level of risk.
 >

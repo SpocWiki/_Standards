@@ -664,7 +664,7 @@ defaultZoom: 11
 [Area-Land::20120]
 has_place_continent:: [[Europe]]  
 [VehicleCode::SLO]
-Capital :: [[Slovenia/Counties/Osrednje_slovenska/Ljubljana/City/Ljubliana]]  
+Capital :: [[Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana,City]]  
 ![[Coat_of_arms_of_Slovenia.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Slovenia.mp3]]
 ![[Flag_of_Slovenia.svg|350]]

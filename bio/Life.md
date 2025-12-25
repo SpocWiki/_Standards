@@ -81,7 +81,7 @@ reducing Entropy locally.
 
 Life has a Chicken-and-Egg Problem: 
 - Protein-Synthesis is encoded in DNA 
-- [[DNA_Replication]] requires  encodes the Proteins, especially necessary Enzymes 
+- [[Genetics/Nucleic_Acid/DNA(Desoxyribo-Nucleic_Acid)/DNA_Replication]] requires  encodes the Proteins, especially necessary Enzymes 
 
 [[LUCA(Last_Universal_Common_Ancestor)]] has hundreds of chemical Reaction chains. 
 Current investigations check whether these Enzymes can appear or be substituted naturally 

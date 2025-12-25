@@ -1,4 +1,5 @@
 # Wiki Growth Process
+
 In the process of expanding a Topic it happens regularly that a single Markdown File is not sufficient due to...
 - becoming too large: Notes should be atomic and easy to grasp at a glance and one consequence is that they should fit on a single Screen. 
 - additional (usually multimedia) Files need to be collected 

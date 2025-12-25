@@ -30,10 +30,18 @@ type: private note
 
 # [[goodRelations]] 
 
-#is_/part_of :: [[GoodRelations]] 
+#is_/part_of :: [[goodRelations]] 
+#has_/url :: http://www.heppnetz.de/projects/goodrelations/ 
 
+#has_/creator :: [[Mathematics/Mathematician/Hepp,Martin]] 
 
-> **GoodRelations** is a Web Ontology Language-compliant ontology for Semantic Web online data, dealing with business-related goods and services. It handles the individual relationships between a buyer, a seller and the products and services offered. 
+## #has_/text_of_/abstract 
+
+> **GoodRelations** is a Web Ontology Language-compliant 
+> ontology for Semantic Web online data, dealing with business-related goods and services. 
+> 
+> It handles the individual relationships between a buyer, a seller 
+> and the products and services offered. 
 > 
 > In November 2012, it was integrated into the Schema.org ontology.
 >
@@ -41,10 +49,6 @@ type: private note
 
 Consequently it uses the `schema` Prefix for its Definitions. 
 
-
-#has_/url :: http://www.heppnetz.de/projects/goodrelations/ 
-
-#has_/creator :: [[Mathematics/Mathematician/Hepp,Martin]] 
 
 ## Edit
 

@@ -4,6 +4,8 @@ aliases:
   - Maggi,Julius
 ---
 
+# [[Maggi,Julius]] 
+
 #has_/time_/started ::  1846-10-09 
 #has_/time_/stopped  ::  1912-10-19 
 

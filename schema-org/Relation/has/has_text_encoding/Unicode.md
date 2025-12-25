@@ -1,5 +1,11 @@
 
-> **Unicode**, formally The Unicode Standard, is a text encoding standard maintained by the Unicode Consortium 
+# [[Unicode]]  
+
+
+## #has_/text_of_/abstract  
+
+> **Unicode**, formally The Unicode Standard, 
+> is a text encoding standard maintained by the Unicode Consortium 
 > designed to support the use of text written in all of the world's major writing systems. 
 > Version 15.1 of the standard defines 149813 characters and 161 scripts 
 > used in various ordinary, literary, academic, and technical contexts.

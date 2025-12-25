@@ -10,7 +10,7 @@ aliases:
 Used to describe the Byte-Encoding of a Text. 
 
 After 2008-06 the most common Encoding on the [[../../../WikiData/WD~Internet,75_WD~Internet,75]] is [[UTF-8]], before it was [[Latin1]]. 
-Before [[../../../Unicode|Unicode]], thousands of Encodings were used to store Texts, most of them based on [[ASCII]],
+Before [[has_text_encoding/Unicode|Unicode]], thousands of Encodings were used to store Texts, most of them based on [[ASCII]],
 but diverging above 2^7=128 Code-Point. 
 
 The Encoding of a non-Unicode-Document can __only be determined heuristically__. 

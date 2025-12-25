@@ -28,16 +28,18 @@ title: Json-LD
 type: private note
 ---
 
-# [[JSON-LD]]
+# [[Json-LD]]
 
 JSON-Linked Data 
 
 #is_/using :: [[../Knowledge/Languages/Data~Languages/Json-Format|Json-Format]] 
 
 
-#is_/similar_to :: [[YAML-LD]] 
+#is_/similar_to :: [[Technology/IT/Data/Data_Language/YAML-LD]] 
 #has_/url_for_/best_practices:: https://w3c.github.io/json-ld-bp/ 
 #has_/url_for_/discussion :: https://json-ld.org/ 
+
+## #has_/text_of_/abstract  
 
 > **JSON-LD** (JavaScript Object Notation for Linked Data) is a method of encoding linked data using JSON. One goal for JSON-LD was to require as little effort as possible from developers to transform their existing JSON to JSON-LD. JSON-LD allows data to be serialized in a way that is similar to traditional JSON. It was initially developed by the JSON for Linking Data Community Group before being transferred to the W3C RDF Working Group for review, improvement, and standardization, and is currently maintained by the W3C JSON-LD Working Group. JSON-LD is a W3C (World Wide Web Consortium) Recommendation.
 >
