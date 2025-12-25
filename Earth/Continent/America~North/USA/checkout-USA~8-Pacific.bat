@@ -1,0 +1,1 @@
+git clone "https://github.com/SpocWiki/America-USA-8-Pacific" USA~8-Pacific

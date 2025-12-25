@@ -1,0 +1,1 @@
+git clone "https://github.com/SpocWiki/America-USA-6-Central" USA~6-Central

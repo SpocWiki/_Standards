@@ -1,0 +1,1 @@
+git clone "https://github.com/SpocWiki/America-USA-7-Mountain" USA~7-Mountain
