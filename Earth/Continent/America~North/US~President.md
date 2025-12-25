@@ -65,7 +65,7 @@ has_id_wikidata: Q11696
 > In addition, nine vice presidents have become president 
 > by virtue of a president's intra-term death or resignation. 
 > In all, 45 individuals have served 46 presidencies spanning 58 four-year terms. 
-> [[US~President/Biden,Joe]] is the 46th and current president of the United States, 
+> [[USA/US_President/Biden,Joe]] is the 46th and current president of the United States, 
 > having assumed office on January 20, 2021.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/President%20of%20the%20United%20States)
