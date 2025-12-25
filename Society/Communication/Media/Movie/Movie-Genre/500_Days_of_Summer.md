@@ -8,6 +8,7 @@ aliases:
 
 > 500 Days of Summer is a 2009 American comedy-drama film directed by Marc Webb, 
 > written by Scott Neustadter and Michael H. Weber, and produced by Mark Waters. 
+> 
 > The film stars [[Joseph Gordon-Levitt]] and [[Zooey Deschanel]] as Tom and Summer respectively, 
 > and in a nonlinear narrative structure, Tom chronicles the story of his relationship with Summer. 
 >

@@ -1,6 +1,7 @@
 ---
 aliases:
   - John_Milton
+  - John Milton
   - Milton,John
 has_id_wikidata: Q79759
 place_of_death: "[[_Standards/WikiData/WD~St_Luke's,124252]]"
