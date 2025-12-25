@@ -8,7 +8,7 @@ aliases:
   - 美属维尔京群岛
   - Виргинские oстрова Coeдинeнныx Штaтoв
   - ''
-  - USA_Virgin-Islands
+  - USA~Virgin-Islands
   - USA Virgin-Islands
 type: Country
 tags:
@@ -33,6 +33,7 @@ Languages:
   - en-VI
 ---
 
+# [[USA~Virgin-Islands]] 
 
 [	ISO4217-currency_alphabetic	 :: USD ] 
 [	ISO4217-currency_name	 :: US Dollar ] 
@@ -97,21 +98,20 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 850 ] 
 
-
-
 [ISO2::VI] 
 [ISO3::VIR] 
 
 ## #has_/map 
 
-
 ```leaflet
-id: Virgin Islands (U.S.)
+id: USA~Virgin-Islands
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./USA_Virgin-Islands/
-markerFolder: ./USA_Virgin-Islands/
+geojsonFolder: ./USA~Virgin-Islands//
+markerFolder: ./USA~Virgin-Islands/
+coordinates: [[USA~Virgin-Islands]] 
+markerFile: [[USA~Virgin-Islands]] 
 ```
 
 [name-en::Virgin Islands (U.S.)] 
@@ -131,17 +131,17 @@ Continent :: [[South-America]]
 
 ## Confidential Links & Embeds: 
 
-### [USA_Virgin-Islands](/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands.md) 
+### [USA~Virgin-Islands](/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.md) 
 
-### [USA_Virgin-Islands.public](/_public/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands.public.md) 
+### [USA~Virgin-Islands.public](/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.public.md) 
 
-### [USA_Virgin-Islands.internal](/_internal/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands.internal.md) 
+### [USA~Virgin-Islands.internal](/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.internal.md) 
 
-### [USA_Virgin-Islands.protect](/_protect/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands.protect.md) 
+### [USA~Virgin-Islands.protect](/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.protect.md) 
 
-### [USA_Virgin-Islands.private](/_private/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands.private.md) 
+### [USA~Virgin-Islands.private](/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.private.md) 
 
-### [USA_Virgin-Islands.personal](/_personal/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands.personal.md) 
+### [USA~Virgin-Islands.personal](/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.personal.md) 
 
-### [USA_Virgin-Islands.secret](/_secret/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands.secret.md)
+### [USA~Virgin-Islands.secret](/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands.secret.md)
 
