@@ -4,7 +4,30 @@ aliases:
   - Socialization
   - socialisation
 has_id_wikidata: Q185467
+studied_by: "[[_Standards/WikiData/WD~sociolinguistics,160845]]"
+different_from:
+  - "[[_Standards/WikiData/WD~sociability,366435]]"
+  - "[[_Standards/WikiData/WD~social_integration,370735]]"
+  - "[[_Standards/WikiData/WD~socialization,1190277]]"
+  - "[[_Standards/WikiData/WD~resocialization,2638787]]"
+subclass_of: "[[_Standards/WikiData/WD~habituation,1136816]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~social_process,2305441]]"
+  - "[[_Standards/WikiData/WD~human_behavior,3769299]]"
+facet_of: "[[_Standards/WikiData/WD~individual_and_society,97830117]]"
+described_by_source: "[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602]]"
+Dewey_Decimal_Classification:
+  - "649.1"
+  - "303.32"
+  - "305.231"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Duck%20Duck%20Goose.jpg
+UMLS_CUI: C0037447
+Krugosvet_article_archived_: gumanitarnye_nauki/sociologiya/SOTSIALIZATSIYA.html
+MeSH_tree_code: I01.880.853.934
+Gujarati_Vishwakosh_entry: સામાજિકીકરણ-socialization
 ---
+
+# [[Socialization]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Socialization,185467|WD~Socialization,185467]]  
 

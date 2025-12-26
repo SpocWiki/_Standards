@@ -5,6 +5,33 @@ aliases:
   - Leichnam
   - Corpse
 has_id_wikidata: Q48422
+subclass_of:
+  - "[[_Standards/WikiData/WD~carrion,202994]]"
+  - "[[_Standards/WikiData/WD~dead_organic_matter,11770757]]"
+  - "[[_Standards/WikiData/WD~human_remains,131599095]]"
+  - "[[_Standards/WikiData/WD~carcass,131599228]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+different_from: "[[_Standards/WikiData/WD~The_Dead_Man,7729306]]"
+manifestation_of:
+  - "[[_Standards/WikiData/WD~dead_human,18093576]]"
+  - "[[_Standards/WikiData/WD~death,4]]"
+has_use: "[[_Standards/WikiData/WD~posthumous_donation,125666470]]"
+has_cause: "[[_Standards/WikiData/WD~human,5]]"
+Dewey_Decimal_Classification:
+  - "614.1"
+  - "616.078"
+  - "616.0759"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Corpse%20of%20a%20presumed%20Boko%20Haram%20member2.jpg
+UMLS_CUI: C0006629
+MeSH_tree_code: C23.550.260.224
+IMDb_keyword:
+  - corpse
+  - dead-body
+Commons_category: Human corpses
 ---
 
 # [[Corpse]] 

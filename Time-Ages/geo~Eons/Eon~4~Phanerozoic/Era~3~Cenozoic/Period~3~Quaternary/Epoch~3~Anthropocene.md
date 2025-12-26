@@ -2,8 +2,11 @@
 aliases:
   - Anthropozän
   - Epoch~3~Anthropocene
+  - Anthropocene
 has_id_wikidata: Q26841
 ---
+
+# [[Epoch~3~Anthropocene]] 
 
 #has_/time_/started :: 1492
 
@@ -15,7 +18,6 @@ has_id_wikidata: Q26841
 #has_/next_/item :: ---
 
 ## #has_/text_of_/abstract 
-
 
 > **Anthropocene** is a term that has been used to refer to the period of time 
 > during which humanity has become a planetary force of change. 

@@ -7,6 +7,11 @@ aliases:
   - Galaxy_Group
   - Galaxy Group
 has_id_wikidata: Q1491746
+different_from: "[[_Standards/WikiData/WD~galaxy_cluster,204107]]"
+subclass_of: "[[_Standards/WikiData/WD~galaxy_group_or_cluster,14515149]]"
+instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~galaxy,318]]"
+Commons_category: Galaxy groups
 ---
 
 # [[Galaxy_Group]] 

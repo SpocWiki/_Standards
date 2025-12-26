@@ -1,6 +1,15 @@
 ---
 aliases:
 has_id_wikidata: Q39017
+instance_of:
+  - "[[_Standards/WikiData/WD~type_of_hunting_dog,137222993]]"
+  - "[[_Standards/WikiData/WD~dog_type,38672]]"
+subclass_of: "[[_Standards/WikiData/WD~dog,144]]"
+Commons_category: Retrievers
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/A%20retriever%20NLW3363265.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Chocolate%20Labrador%20Retriever%20pheasant.jpg
+Dewey_Decimal_Classification: "636.7527"
 ---
 
 # [[Retriever]] 

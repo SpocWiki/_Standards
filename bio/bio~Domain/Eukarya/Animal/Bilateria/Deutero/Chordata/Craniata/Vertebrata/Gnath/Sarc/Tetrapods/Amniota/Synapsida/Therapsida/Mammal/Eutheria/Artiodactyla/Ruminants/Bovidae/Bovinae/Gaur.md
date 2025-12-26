@@ -3,6 +3,42 @@ aliases:
   - Bos gaurus
   - Gaur
 has_id_wikidata: Q174296
+parent_taxon: "[[_Standards/WikiData/WD~Bos,237993]]"
+IUCN_conservation_status: "[[_Standards/WikiData/WD~Vulnerable,278113]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+different_from: "[[_Standards/WikiData/WD~Gauḍa,1496277]]"
+CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
+diel_cycle: "[[_Standards/WikiData/WD~diurnality,4284186]]"
+protonym_of: "[[_Standards/WikiData/WD~Bos_frontalis_gaurus,20908494]]"
+Wildlife_Protection_Act_1972_India_schedule: "[[_Standards/WikiData/WD~Schedule_I_(Part_I)_of_Wildlife_Protection_Act,_1972,74713579]]"
+habitat:
+  - "[[_Standards/WikiData/WD~forest,4421]]"
+  - "[[_Standards/WikiData/WD~savanna,42320]]"
+taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+gestation_period: 275
+taxon_synonym: "[[_Standards/WikiData/WD~Bos_frontalis,45079]]"
+ITIS_TSN: "183841"
+taxon_common_name:
+  - Gaur
+  - Gaur
+  - gaur
+  - Indian Bison
+  - 印度野牛
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Gaur%20at%20the%20Bronx%20Zoo.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Gaur%20Indian%20Bison.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Indian%20Gaur%20from%20anaimalai%20hills%20JEG5290.jpg
+taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Gaur%20map.png
+Commons_category: Bos gaurus
+taxon_name: Bos gaurus
+EPPO_Code: BOVSGA
+UMLS_CUI: C0325249
+short_name: B. gaurus
 ---
 # [[Gaur]] 
 

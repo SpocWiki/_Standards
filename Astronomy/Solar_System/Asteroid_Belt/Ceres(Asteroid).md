@@ -1,6 +1,64 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q596
+argument_of_periapsis: 73.29975464616518
+time_of_periapsis: 2461599.9493352976
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+asteroid_spectral_type:
+  - "[[_Standards/WikiData/WD~C_type_asteroid,729623]]"
+  - "[[_Standards/WikiData/WD~G_type_asteroid,2009707]]"
+different_from:
+  - "[[_Standards/WikiData/WD~Ceres,1055257]]"
+  - "[[_Standards/WikiData/WD~Ceres_Station,124380517]]"
+has_use: "[[_Standards/WikiData/WD~colonization_of_Ceres,2279715]]"
+site_of_astronomical_discovery: "[[_Standards/WikiData/WD~Astronomical_observatory_of_Palermo,3886764]]"
+significant_event: "[[_Standards/WikiData/WD~naming,25488743]]"
+orbital_period: 1679.910572771899
+orbital_inclination: 10.58788658206854
+apoapsis: 2.985693167435478
+periapsis: 2.545538135581839
+parent_astronomical_body: "[[_Standards/WikiData/WD~Sun,525]]"
+location: "[[_Standards/WikiData/WD~asteroid_belt,2179]]"
+minor_planet_group: "[[_Standards/WikiData/WD~asteroid_belt,2179]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~dwarf_planet,2199]]"
+  - "[[_Standards/WikiData/WD~asteroid,3863]]"
+followed_by: "[[_Standards/WikiData/WD~Q3002,3002]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Giuseppe_Piazzi,14280]]"
+named_after: "[[_Standards/WikiData/WD~Ceres,32102]]"
+albedo: 0.09
+absolute_magnitude: 3.34
+volume_as_quantity: 434000000
+apparent_magnitude: 6.79
+angular_diameter: 0.854
+density: 2.162
+mass: 939300000000000000000
+diameter: 939.4
+rotation_period: 9.07417
+orbit_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Ceres%20Orbit.svg
+provisional_designation:
+  - 1899 OF
+  - 1943 XB
+  - A801 AA
+  - A899 OF
+OmegaWiki_Defined_Meaning: "843959"
+Iconclass_notation: 24C11
+mean_anomaly: 231.5397330043706
+time_of_discovery_or_invention: 1801-01-01T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Ceres%20-%20RC3%20-%20Haulani%20Crater%20%2822381131691%29%20%28cropped%29.jpg
+astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ceres%20symbol%20%28fixed%20width%29.svg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Ceres.ogg
+Commons_gallery: (1) Ceres
+IPA_transcription: ˈt͡seːʁɛs
+Unicode_character: ⚳
+Commons_category: Ceres (dwarf planet)
+Wolfram_Language_entity_code: Entity["MinorPlanet", "Ceres"]
+orbital_eccentricity: 0.07957631994408416
+semi_major_axis_of_an_orbit: 2.765615651508659
+longitude_of_ascending_node: 80.24963090816965
 ---
 
 # [[Ceres(Asteroid)]] 

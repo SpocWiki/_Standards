@@ -5,6 +5,43 @@ aliases:
   - Autoimmune_Disease
   - Autoimmune Disease
 has_id_wikidata: Q8084905
+health_specialty:
+  - "[[_Standards/WikiData/WD~immunology,101929]]"
+  - "[[_Standards/WikiData/WD~rheumatology,327657]]"
+has_effect:
+  - "[[_Standards/WikiData/WD~rheumatoid_arthritis,187255]]"
+  - "[[_Standards/WikiData/WD~nodding_disease,895930]]"
+  - "[[_Standards/WikiData/WD~systemic_lupus_erythematosus,1485]]"
+manifestation_of: "[[_Standards/WikiData/WD~autoimmunity,192360]]"
+drug_or_therapy_used_for_treatment:
+  - "[[_Standards/WikiData/WD~cyclosporine,367700]]"
+  - "[[_Standards/WikiData/WD~methylprednisolone,417222]]"
+  - "[[_Standards/WikiData/WD~dexamethasone,422252]]"
+  - "[[_Standards/WikiData/WD~prednisone,424972]]"
+  - "[[_Standards/WikiData/WD~azathioprine,18939]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~primary_immunodeficiency_disease,3043160]]"
+  - "[[_Standards/WikiData/WD~immune_disorder,3843811]]"
+  - "[[_Standards/WikiData/WD~hypersensitivity,5958765]]"
+  - "[[_Standards/WikiData/WD~disease,12136]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+has_cause: "[[_Standards/WikiData/WD~type_II_hypersensitivity,5898312]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Hypersensitivity_disease_by_cause,6330513]]"
+instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
+afflicts: "[[_Standards/WikiData/WD~immune_system,1059]]"
+ICD_9_CM: "720"
+DiseasesDB: "28805"
+Commons_category: Autoimmune diseases and disorders
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Warm%20autoimmune%20hemolytic%20anemia.jpg
+exact_match:
+  - http://identifiers.org/doid/DOID:417
+  - http://purl.obolibrary.org/obo/DOID_417
+subreddit: Autoimmune
+UMLS_CUI:
+  - C0003089
+  - C0004364
+MeSH_tree_code: C20.111
+Dewey_Decimal_Classification: "571.973"
 ---
 
 # [[Autoimmune_Disease]] 

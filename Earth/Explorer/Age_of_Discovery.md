@@ -4,6 +4,17 @@ aliases:
   - Age_of_Discovery
   - Age of Discovery
 has_id_wikidata: Q133641
+instance_of:
+  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+  - "[[_Standards/WikiData/WD~age,17522177]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Age%20of%20Discovery%20Banner.jpg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33491%20%28hat%29-Jnermano-Gwo%20dekouv%C3%A8t.wav
+Commons_category: Age of Discovery
+Krugosvet_article_archived_: istoriya/VELIKIE_GEOGRAFICHESKIE_OTKRITIYA_I_KOLONIALNIE_ZAHVATI.html
+end_time: 1800-01-01T00:00:00Z
+start_time: 1500-01-01T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Doncker%20sea%20atlas%20world%20map.jpg
 ---
 
 # [[Age_of_Discovery]] 

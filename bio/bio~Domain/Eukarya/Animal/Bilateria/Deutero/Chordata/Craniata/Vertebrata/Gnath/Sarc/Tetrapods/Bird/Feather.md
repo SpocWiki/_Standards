@@ -1,5 +1,6 @@
 ---
 aliases:
+  - down
 has_id_wikidata: Q81025
 described_by_source:
   - "[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -34,6 +35,20 @@ ATC_code: V01AA01
 # [[Feather]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Feather,81025|WD~Feather,81025]] 
+#is_/better_than :: [[../Amniota/Synapsida/Therapsida/Mammal/Fur|Fur]] 
+
+Feathers trap more air relative to their mass than fur, resulting in lower effective heat transfer.
+
+#### Loft
+
+Feathers consist of a central rachis with barbs and barbules that interlock, 
+forming a three-dimensional lattice. 
+This structure traps air with minimal material mass, yielding high insulation efficiency. 
+Down feathers can reach loft values exceeding 600 cm³/g 
+compared to only 250 cm³/g for fur.
+
+But Fur retains relatively more air under Compression and Humidity (when oiled) than feathers. 
+
 
 ## #has_/text_of_/abstract 
 
@@ -41,19 +56,39 @@ ATC_code: V01AA01
 > that form a distinctive outer covering, or plumage, on both avian (bird) 
 > and some non-avian dinosaurs and other archosaurs. 
 > 
-> They are the most complex integumentary structures found in vertebrates 
+> They are the **most complex integumentary structures found in vertebrates** 
 > and an example of a complex evolutionary novelty. 
 > They are among the characteristics that distinguish the extant birds from other living groups.
 >
 > Although feathers cover most of the bird's body, 
 > they arise only from certain well-defined tracts on the skin. 
-> They aid in flight, thermal insulation, and waterproofing. 
+> They **aid in flight, thermal insulation, and waterproofing**. 
 > In addition, coloration helps in communication and protection. 
 > The study of feathers is called plumology (or plumage science).
 >
 > People use feathers in many ways that are practical, cultural, and religious. 
-> Feathers are both soft and excellent at trapping heat; 
-> thus, they are sometimes used in high-class bedding, especially pillows, blankets, and mattresses. They are also used as filling for winter clothing and outdoor bedding, such as quilted coats and sleeping bags. Goose and eider down have great loft, the ability to expand from a compressed, stored state to trap large amounts of compartmentalized, insulating air. Feathers of large birds (most often geese) have been and are used to make quill pens. Historically, the hunting of birds for decorative and ornamental feathers has endangered some species and helped to contribute to the extinction of others. Today, feathers used in fashion and in military headdresses and clothes are obtained as a waste product of poultry farming, including chickens, geese, turkeys, pheasants, and ostriches. These feathers are dyed and manipulated to enhance their appearance, as poultry feathers are naturally often dull in appearance compared to the feathers of wild birds.
+> Feathers are both soft and excellent at trapping heat; thus, they are 
+> sometimes used in high-class bedding, especially pillows, blankets, and mattresses. 
+> 
+> They are also used as filling for winter clothing and outdoor bedding, 
+> such as quilted coats and sleeping bags. 
+> 
+> Goose and eider down have great **loft**, the ability to expand 
+> from a compressed, stored state 
+> to trap large amounts of compartmentalized, insulating air. 
+> 
+> Feathers of large birds (most often geese) have been and are used to make quill pens. 
+> 
+> Historically, the hunting of birds for decorative and ornamental feathers 
+> has endangered some species and helped to contribute to the extinction of others. 
+> 
+> Today, feathers used in fashion and in military headdresses and clothes 
+> are obtained as a waste product of poultry farming, including 
+> chickens, geese, turkeys, pheasants, and ostriches. 
+> 
+> These feathers are dyed and manipulated to enhance their appearance, 
+> as poultry feathers are naturally often dull in appearance 
+> compared to the feathers of wild birds.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Feather) 
 

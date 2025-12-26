@@ -3,6 +3,64 @@ aliases:
   - Bronchitis
   - chest cold
 has_id_wikidata: Q173022
+drug_or_therapy_used_for_treatment:
+  - "[[_Standards/WikiData/WD~cefixime,163901]]"
+  - "[[_Standards/WikiData/WD~azithromycin,165399]]"
+  - "[[_Standards/WikiData/WD~cefpodoxime,415173]]"
+  - "[[_Standards/WikiData/WD~josamycin,423369]]"
+  - "[[_Standards/WikiData/WD~sparfloxacin,976559]]"
+  - "[[_Standards/WikiData/WD~dyphylline,1073333]]"
+  - "[[_Standards/WikiData/WD~cefdinir,1453445]]"
+  - "[[_Standards/WikiData/WD~methacycline,2365033]]"
+  - "[[_Standards/WikiData/WD~erdosteine,3731252]]"
+  - "[[_Standards/WikiData/WD~acefylline,4673059]]"
+  - "[[_Standards/WikiData/WD~dicloxacillin_sodium,27116225]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~chronic_obstructive_pulmonary_disease,199804]]"
+  - "[[_Standards/WikiData/WD~bronchospasm,279330]]"
+  - "[[_Standards/WikiData/WD~respiratory_signs_and_symptoms,42183538]]"
+  - "[[_Standards/WikiData/WD~disease,12136]]"
+health_specialty: "[[_Standards/WikiData/WD~pulmonology,203337]]"
+different_from: "[[_Standards/WikiData/WD~bronchiolitis,424227]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+on_focus_list_of_Wikimedia_project:
+  - "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+  - "[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q63807836,63807836]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
+  - "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
+ICD_9_CM:
+  - "491"
+  - "490"
+  - "466.0"
+  - "491.8"
+  - "491.9"
+DiseasesDB: "29135"
+Commons_category: Bronchitis
+OmegaWiki_Defined_Meaning: "907783"
+ICD_10_CM:
+  - J20
+  - J42
+  - J40
+  - J20.9
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Acute-bronchitis.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Respiratory%20system%20-%20Chronic%20bronchitis%20--%20Smart-Servier.png
+exact_match:
+  - http://identifiers.org/doid/DOID:6132
+  - http://purl.obolibrary.org/obo/DOID_6132
+  - http://purl.obolibrary.org/obo/SYMP_0000324
+UMLS_CUI: C0006277
+MeSH_tree_code:
+  - C01.748.099
+  - C08.127.446
+  - C08.381.495.146
+  - C08.730.099
+Krugosvet_article_archived_: medicina/BRONHIT.html
 ---
 
 # [[Bronchitis]] 

@@ -2,6 +2,18 @@
 aliases:
   - Biomolecule
 has_id_wikidata: Q206229
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~biopolymer,422649]]"
+different_from: "[[_Standards/WikiData/WD~natural_product,901227]]"
+part_of: "[[_Standards/WikiData/WD~natural_product,901227]]"
+has_characteristic:
+  - "[[_Standards/WikiData/WD~molecular_function,14860489]]"
+  - "[[_Standards/WikiData/WD~biomolecular_structure,15712714]]"
+instance_of: "[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_source_or_occurrence,56256178]]"
+subclass_of: "[[_Standards/WikiData/WD~chemical_compound,11173]]"
+OmegaWiki_Defined_Meaning: "1459536"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Myoglobin.png
+equivalent_class: http://dbpedia.org/ontology/Biomolecule
+Commons_category: Biomolecules
 ---
 
 # [[Biomolecule]] 

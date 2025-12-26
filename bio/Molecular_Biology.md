@@ -4,6 +4,33 @@ aliases:
   - Molecular_Biology
   - Molecular Biology
 has_id_wikidata: Q7202
+history_of_topic: "[[_Standards/WikiData/WD~history_of_molecular_biology,866982]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+has_part_s_: "[[_Standards/WikiData/WD~enzymology,2880775]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Molecular_biology,7478166]]"
+practiced_by: "[[_Standards/WikiData/WD~molecular_biologist,15839206]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Molecular_and_Cell_Biology,15884967]]"
+instance_of: "[[_Standards/WikiData/WD~branch_of_biology,28598684]]"
+part_of: "[[_Standards/WikiData/WD~biology,420]]"
+subclass_of: "[[_Standards/WikiData/WD~biology,420]]"
+is_the_study_of: "[[_Standards/WikiData/WD~molecule,11369]]"
+has_characteristic: "[[_Standards/WikiData/WD~central_dogma_of_molecular_biology,47072]]"
+P10203: "1312"
+OmegaWiki_Defined_Meaning: "2396"
+Basisklassifikation: "42.13"
+Commons_category: Molecular biology
+image: http://commons.wikimedia.org/wiki/Special:FilePath/DNA%20Repair.jpg
+Dewey_Decimal_Classification:
+  - "611.01816"
+  - "572.8"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Microarray%20printing.ogv
+Stack_Exchange_tag: https://biology.stackexchange.com/tags/molecular-biology
+MeSH_tree_code:
+  - H01.158.201.636
+  - H01.158.273.343.595
+  - H01.181.122.650
+GitHub_topic: molecular-biology
+Krugosvet_article_archived_: nauka_i_tehnika/biologiya/MOLEKULYARNAYA_BIOLOGIYA.html
 ---
 
 # [[Molecular_Biology]] 

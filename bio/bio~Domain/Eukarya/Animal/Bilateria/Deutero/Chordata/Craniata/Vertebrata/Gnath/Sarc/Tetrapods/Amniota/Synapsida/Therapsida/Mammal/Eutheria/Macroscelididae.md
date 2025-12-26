@@ -1,12 +1,43 @@
 ---
 title: Macroscelididae
 aliases:
+  - Macroscelidea
+  - Macroscelididae
 has_id_wikidata: Q9324400
+parent_taxon: "[[_Standards/WikiData/WD~Macroscelidea,129513]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+topic_has_template: "[[_Standards/WikiData/WD~Q22841138,22841138]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
+ITIS_TSN: "584894"
+taxon_common_name:
+  - прыгунчики
+  - Rüsselspringer
+  - bércouni
+  - Springspidsmus
+  - ハネジネズミ科
+  - Springspissmus
+  - Musaranho-elefante
+  - слоновые землеройки
+  - Springnäbbmöss
+  - เซงกิ
+  - เซงกิส
+  - หนูผีช้าง
+  - murgañu elefante
+  - Elephant Shrews
+  - Springspitsmuizen
+  - Ryjoskoczki
+  - прыгунчиковые
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Macroscelides.%20proboscideus.6869.jpg
+Commons_gallery: Macroscelididae
+Commons_category: Macroscelididae
+taxon_name: Macroscelididae
+UMLS_CUI: C0324735
 ---
 
-## Macroscelidea 
-
 # [[Macroscelididae]]
+
+## Macroscelidea 
 
 ## Elephant shrews, Sengis 
 

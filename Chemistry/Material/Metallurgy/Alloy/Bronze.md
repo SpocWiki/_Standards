@@ -1,6 +1,35 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q34095
+instance_of: "[[_Standards/WikiData/WD~material,214609]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~copper_based_alloy,518350]]"
+  - "[[_Standards/WikiData/WD~sculpture_material,21685333]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+fabrication_method: "[[_Standards/WikiData/WD~bronze_casting,928402]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~copper,753]]"
+  - "[[_Standards/WikiData/WD~tin,1096]]"
+Mohs_hardness: 3
+density: 8600
+different_from: "[[_Standards/WikiData/WD~brass,39782]]"
+Commons_gallery: Bronze
+Commons_category: Bronze
+OmegaWiki_Defined_Meaning: "884962"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Assorted%20bronze%20castings.JPG
+Dewey_Decimal_Classification:
+  - "620.182"
+  - "669.3"
+  - "673.3"
 ---
 
 # [[Bronze]] 

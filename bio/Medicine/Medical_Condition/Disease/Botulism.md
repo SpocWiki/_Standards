@@ -2,6 +2,75 @@
 aliases:
   - Botulism
 has_id_wikidata: Q154865
+UMLS_CUI: C0006057
+MeSH_tree_code:
+  - C01.150.252.410.222.151
+  - C10.668.758.200
+  - C10.720.150
+  - C25.723.415.151
+Dewey_Decimal_Classification:
+  - "616.9315"
+  - "615.9529364"
+  - "614.5125"
+  - "636.08969315"
+has_cause:
+  - "[[_Standards/WikiData/WD~Clostridium_botulinum,131268]]"
+  - "[[_Standards/WikiData/WD~botulinum_toxin_group,208413]]"
+drug_or_therapy_used_for_treatment:
+  - "[[_Standards/WikiData/WD~metronidazole,169569]]"
+  - "[[_Standards/WikiData/WD~clindamycin,422273]]"
+  - "[[_Standards/WikiData/WD~ipidacrine,15409425]]"
+  - "[[_Standards/WikiData/WD~heptavalent_botulism_antitoxin,17148719]]"
+symptoms_and_signs:
+  - "[[_Standards/WikiData/WD~constipation,178436]]"
+  - "[[_Standards/WikiData/WD~dysarthria,225957]]"
+  - "[[_Standards/WikiData/WD~muscle_weakness,270421]]"
+  - "[[_Standards/WikiData/WD~dysautonomia,620639]]"
+  - "[[_Standards/WikiData/WD~ptosis,622427]]"
+  - "[[_Standards/WikiData/WD~diplopia,775940]]"
+  - "[[_Standards/WikiData/WD~mydriasis,1128283]]"
+  - "[[_Standards/WikiData/WD~xerostomia,1162276]]"
+  - "[[_Standards/WikiData/WD~urinary_retention,1366695]]"
+  - "[[_Standards/WikiData/WD~tympanites,1413614]]"
+  - "[[_Standards/WikiData/WD~blurred_vision,4930803]]"
+  - "[[_Standards/WikiData/WD~acute_respiratory_insufficiency,21006662]]"
+possible_treatment:
+  - "[[_Standards/WikiData/WD~enema,194517]]"
+  - "[[_Standards/WikiData/WD~symptomatic_treatment,621558]]"
+  - "[[_Standards/WikiData/WD~hyperbaric_medicine,731615]]"
+  - "[[_Standards/WikiData/WD~detoxification,1090423]]"
+  - "[[_Standards/WikiData/WD~gastric_lavage,1755116]]"
+  - "[[_Standards/WikiData/WD~mechanical_ventilation,3766250]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~foodborne_illness,272002]]"
+  - "[[_Standards/WikiData/WD~bacterial_infectious_disease,727028]]"
+  - "[[_Standards/WikiData/WD~geonosis,1503299]]"
+  - "[[_Standards/WikiData/WD~infectious_disease_of_the_nervous_system,10336461]]"
+  - "[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]"
+  - "[[_Standards/WikiData/WD~acquired_neuromuscular_junction_disease,55789136]]"
+health_specialty: "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+maintained_by_WikiProject:
+  - "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Microbiology,10444284]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
+  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
+different_from: "[[_Standards/WikiData/WD~Q25590095,25590095]]"
+maximal_incubation_period_in_humans: 10
+minimal_incubation_period_in_humans: 6
+has_natural_reservoir: "[[_Standards/WikiData/WD~soil,36133]]"
+DiseasesDB: "2811"
+OmegaWiki_Defined_Meaning: "906031"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Clostridium%20botulinum.jpg
+WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/botulism_2
+exact_match:
+  - http://identifiers.org/doid/DOID:11976
+  - http://purl.obolibrary.org/obo/DOID_11976
+  - http://www.orpha.net/ORDO/Orphanet_1267
+ICD_10_CM: A05.1
+Commons_category: Botulism
 ---
 
 # [[Botulism]] 

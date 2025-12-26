@@ -4,6 +4,24 @@ aliases:
   - Functional_Group
   - Functional Group
 has_id_wikidata: Q170409
+different_from:
+  - "[[_Standards/WikiData/WD~group,83306]]"
+  - "[[_Standards/WikiData/WD~radical,185056]]"
+  - "[[_Standards/WikiData/WD~functional_group,5508822]]"
+used_by: "[[_Standards/WikiData/WD~chemical_classification,732744]]"
+facet_of:
+  - "[[_Standards/WikiData/WD~structure_activity_relationship,1772003]]"
+  - "[[_Standards/WikiData/WD~molecular_function,14860489]]"
+part_of: "[[_Standards/WikiData/WD~molecular_entity,2393187]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~molecular_entity,2393187]]"
+  - "[[_Standards/WikiData/WD~moiety,23005640]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Functional_groups,5618299]]"
+OmegaWiki_Defined_Meaning: "427527"
+Dewey_Decimal_Classification:
+  - "541.39"
+  - "547.2"
+Commons_category: Functional groups
 ---
 
 # [[Functional_Group]] 

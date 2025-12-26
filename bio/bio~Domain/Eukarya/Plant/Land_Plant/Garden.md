@@ -1,6 +1,45 @@
 ---
 aliases:
 has_id_wikidata: Q1107656
+subclass_of:
+  - "[[_Standards/WikiData/WD~landscape,107425]]"
+  - "[[_Standards/WikiData/WD~workplace,628858]]"
+  - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
+  - "[[_Standards/WikiData/WD~exterior_space,21950738]]"
+  - "[[_Standards/WikiData/WD~artificial_geographic_object,35145743]]"
+has_use: "[[_Standards/WikiData/WD~pleasure,208195]]"
+different_from: "[[_Standards/WikiData/WD~kitchen_garden,624114]]"
+used_by: "[[_Standards/WikiData/WD~gardener,758780]]"
+award_received: "[[_Standards/WikiData/WD~biotope_of_the_year,864861]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Horticulture_and_gardening,10797217]]"
+studied_by: "[[_Standards/WikiData/WD~landscape_architectural_studies,11639732]]"
+has_characteristic: "[[_Standards/WikiData/WD~type_of_garden,96338860]]"
+depicted_by: "[[_Standards/WikiData/WD~The_imperial_pleasure_palace_Schloss_Hof,_garden_side,131613617]]"
+OmegaWiki_Defined_Meaning: "1601"
+Dewey_Decimal_Classification: "635"
+Commons_gallery: Garden
+IMDb_keyword: garden
+Commons_category: Gardens
+Iconclass_notation: 41A6
+U_S_National_Archives_Identifier: "10637269"
+place_name_sign: http://commons.wikimedia.org/wiki/Special:FilePath/De%20Haan%20Street%20sign%20Streuvelslaan%20-%20Consciencelaan.jpg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/French%20Formal%20Garden%20in%20Loire%20Valley.jpg
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20883674%20cc%20Symbolon%20tree%20icon.svg
+equivalent_class: http://dbpedia.org/ontology/Garden
+exact_match: http://purl.obolibrary.org/obo/ENVO_00000011
+hashtag: gardens
+MeSH_tree_code:
+  - J01.040.415
+  - J03.320
+EAGLE_id: objtyp/lod/384
+GeoNames_feature_code: S.GDN
+OpenStreetMap_tag: leisure=garden
 ---
 
 # [[Garden]] 

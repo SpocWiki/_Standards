@@ -10,6 +10,52 @@ aliases:
   - Tower of Big Ben
   - Big_Ben
 has_id_wikidata: Q41225
+has_part_s_of_the_class:
+  - "[[_Standards/WikiData/WD~bell,101401]]"
+  - "[[_Standards/WikiData/WD~turret_clock,188298]]"
+  - "[[_Standards/WikiData/WD~storey,831691]]"
+  - "[[_Standards/WikiData/WD~spire,852590]]"
+  - "[[_Standards/WikiData/WD~lantern,862454]]"
+  - "[[_Standards/WikiData/WD~tread,3289701]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~City_of_Westminster,179351]]"
+architectural_style: "[[_Standards/WikiData/WD~Gothic_Revival,186363]]"
+architect:
+  - "[[_Standards/WikiData/WD~Augustus_Pugin,313288]]"
+  - "[[_Standards/WikiData/WD~Charles_Barry,552584]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~architectural_element,391414]]"
+  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
+  - "[[_Standards/WikiData/WD~inclined_tower,797765]]"
+  - "[[_Standards/WikiData/WD~national_symbol,1128637]]"
+  - "[[_Standards/WikiData/WD~striking_clock,1480017]]"
+  - "[[_Standards/WikiData/WD~cultural_icon,3139104]]"
+made_from_material:
+  - "[[_Standards/WikiData/WD~Caen_stone,1421807]]"
+  - "[[_Standards/WikiData/WD~limestone,23757]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~Big_Ben,37733713]]"
+  - "[[_Standards/WikiData/WD~mechanism_room_of_Elizabeth_Tower,107605146]]"
+coordinate_location: Point(-0.12457 51.50067)
+inception: 1843-09-28T00:00:00Z
+historic_county: "[[_Standards/WikiData/WD~Middlesex,19186]]"
+location: "[[_Standards/WikiData/WD~London,84]]"
+country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+elevation_above_sea_level: 17
+height: 96
+part_of: "[[_Standards/WikiData/WD~Palace_of_Westminster,62408]]"
+Commons_gallery: Big Ben
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Clock%20Tower%2C%20London%2C%2021st%20august%202017%2010.00.webm
+3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Big%20Ben.stl
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/Big%20Ben%20recorded%20in%201890.ogg
+nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Big%20Ben%2C%20Londres%2C%20Inglaterra%2C%202014-08-11%2C%20DD%20200.JPG
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Clock%20Tower%20-%20Palace%20of%20Westminster%2C%20London%20-%20May%202007.jpg
+view: http://commons.wikimedia.org/wiki/Special:FilePath/London%20Eye%20from%20Westminster%20clock%20tower%20-%20geograph.org.uk%20-%20414374.jpg
+image_of_interior: http://commons.wikimedia.org/wiki/Special:FilePath/Rear%20of%20Big%20Ben%20clock%20face.jpg
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/World%20landmarks%20icons%20-%20Big%20Ben.svg
+official_website: https://www.parliament.uk/bigben/
+Google_Doodle: 150th-anniversary-of-big-ben
+Commons_category: Elizabeth Tower
+hashtag: ElizabethTower
 ---
 
 # [[Big_Ben]] 

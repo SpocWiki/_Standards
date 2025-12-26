@@ -7,7 +7,36 @@ aliases:
   - Identity_Document
   - Identity Document
 has_id_wikidata: Q47988
+model_item:
+  - "[[_Standards/WikiData/WD~driver's_license,205647]]"
+  - "[[_Standards/WikiData/WD~library_card,2367654]]"
+  - "[[_Standards/WikiData/WD~national_identity_card,106485119]]"
+  - "[[_Standards/WikiData/WD~passport,43812]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~driver's_license,205647]]"
+  - "[[_Standards/WikiData/WD~national_identity_card,106485119]]"
+  - "[[_Standards/WikiData/WD~passport,43812]]"
+different_from:
+  - "[[_Standards/WikiData/WD~identity,844569]]"
+  - "[[_Standards/WikiData/WD~personal_identity,2254571]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~identity_certificate,1369862]]"
+  - "[[_Standards/WikiData/WD~personal_data,3702971]]"
+has_use: "[[_Standards/WikiData/WD~identification,3265221]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_identity_document,6366238]]"
+Dewey_Decimal_Classification:
+  - "340"
+  - "929.9"
+Unicode_character:
+  - 🪪
+  - 🆔
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Bilhete%20de%20identidade%20%28Mozambique%29.jpg
+Commons_gallery: Identity document
+Commons_category: Identity documents
+Library_of_Congress_Classification: KJC6038
 ---
+
+# [[Identity_Document]] 
 
 #is_/same_as :: [[WD~Identity_document,47988]] 
 

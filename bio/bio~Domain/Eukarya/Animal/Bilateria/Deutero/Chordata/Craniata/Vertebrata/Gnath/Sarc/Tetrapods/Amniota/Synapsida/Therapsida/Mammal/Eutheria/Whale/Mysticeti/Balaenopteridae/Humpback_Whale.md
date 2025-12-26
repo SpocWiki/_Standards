@@ -4,6 +4,64 @@ aliases:
   - Humpback_Whale
   - Humpback Whale
 has_id_wikidata: Q132905
+MeSH_tree_code: B01.050.150.900.649.313.875.865.400
+UMLS_CUI: C0999577
+GenBank_assembly_accession_number: GCA_004329385.1
+Commons_gallery: Megaptera novaeangliae
+Commons_category: Megaptera novaeangliae
+taxon_name: Megaptera novaeangliae
+EPPO_Code: MGPANO
+NBN_System_Key: NBNSYS0000005159
+short_name: M. novaeangliae
+taxon_common_name: długopłetwiec oceaniczny
+spoken_text_audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/En-Humpback-whale-article.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/En-humpback%20whale.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Fr-baleine%20a%20bosse.ogg
+IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
+main_food_source:
+  - "[[_Standards/WikiData/WD~zooplankton,842627]]"
+  - "[[_Standards/WikiData/WD~Euphausiacea,29498]]"
+  - "[[_Standards/WikiData/WD~Atlantic_mackerel,30153]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+taxon_range:
+  - "[[_Standards/WikiData/WD~Quatipuru,2008521]]"
+  - "[[_Standards/WikiData/WD~Brazil,155]]"
+CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
+parent_taxon: "[[_Standards/WikiData/WD~Megaptera,12771348]]"
+Wildlife_Protection_Act_1972_India_schedule: "[[_Standards/WikiData/WD~Schedule_I_(Part_I)_of_Wildlife_Protection_Act,_1972,74713579]]"
+NZTCS_conservation_status: "[[_Standards/WikiData/WD~migrant,108448684]]"
+original_combination: "[[_Standards/WikiData/WD~Balaena_novaeangliae,122984319]]"
+taxon_synonym:
+  - "[[_Standards/WikiData/WD~Megaptera_longipinna,122984432]]"
+  - "[[_Standards/WikiData/WD~Balaena_nodosa,122989330]]"
+does_not_have_part: "[[_Standards/WikiData/WD~tooth,553]]"
+taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+litter_size: 1
+period_of_lactation: 11
+gestation_period: 12
+mass:
+  - 1.5
+  - 45
+length:
+  - 16
+  - 4.5
+life_expectancy: 47.5
+ITIS_TSN: "180530"
+U_S_National_Archives_Identifier: "10640866"
+OmegaWiki_Defined_Meaning: "1032404"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Humpback%20whales%20in%20singing%20position.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/202312%20Humpback%20whale.svg
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20three%20humpback%20whales%20%28Megaptera%20novaeangliae%29%20near%20Cape%20Solander%2C%20New%20South%20Wales%2C%20Australia.webm
+taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cypron-Range%20Megaptera%20novaeangliae.svg
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/Humpback-Whale-Song-on-the-Southern-Ocean-Feeding-Grounds-Implications-for-Cultural-Transmission-pone.0079422.s003.oga
+size_comparison_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Humpback%20whale%20size.svg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-Xabier%20Ca%C3%B1as-Xibarta.wav
+taxon_author_citation: (Borowski, 1781)
 ---
 
 # [[Humpback_Whale]] 

@@ -2,7 +2,37 @@
 aliases:
   - Enzyme
 has_id_wikidata: Q8047
+molecular_function: "[[_Standards/WikiData/WD~catalysis,82264]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~biocatalysts,426799]]"
+  - "[[_Standards/WikiData/WD~protein,8054]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+subject_has_role: "[[_Standards/WikiData/WD~enzyme_catalysis,2941663]]"
+part_of:
+  - "[[_Standards/WikiData/WD~enzymatic_reaction,3454362]]"
+  - "[[_Standards/WikiData/WD~Enzyme_linked_receptor,5381540]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Infobox_enzyme,6453709]]"
+  - "[[_Standards/WikiData/WD~Template_Enzymes,10980674]]"
+different_from: "[[_Standards/WikiData/WD~pseudoenzyme,28456397]]"
+instance_of: "[[_Standards/WikiData/WD~group_or_class_of_proteins,84467700]]"
+OmegaWiki_Defined_Meaning: "1332"
+GitHub_topic: enzyme
+Commons_category: Enzymes
+Dewey_Decimal_Classification: "572.7"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Triosephosphate%20isomerase.jpg
+equivalent_class: http://dbpedia.org/ontology/Enzyme
+Common_Procurement_Vocabulary_code: 24965000-6
+UMLS_CUI: C0014442
+MeSH_tree_code: D08.811
+Krugosvet_article_archived_: nauka_i_tehnika/biologiya/FERMENTI.html
 ---
+
+# [[Enzyme]] 
 
 ## #has_/text_of_/abstract 
 

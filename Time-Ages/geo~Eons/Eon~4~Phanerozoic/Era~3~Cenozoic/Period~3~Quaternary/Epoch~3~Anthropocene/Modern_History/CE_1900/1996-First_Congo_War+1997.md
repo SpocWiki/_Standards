@@ -1,6 +1,7 @@
 ---
 aliases:
-  - First Congo War, also known as Africa's First World War
+  - First Congo War
+  - Africa's First World War
   - 1996-First_Congo_War+1997
   - 1996-First Congo War+1997
 has_id_wikidata: Q838695

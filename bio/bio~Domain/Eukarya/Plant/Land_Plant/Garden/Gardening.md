@@ -1,6 +1,44 @@
 ---
 aliases:
 has_id_wikidata: Q124946
+practiced_by:
+  - "[[_Standards/WikiData/WD~gardener,758780]]"
+  - "[[_Standards/WikiData/WD~garden_consultant,77958773]]"
+  - "[[_Standards/WikiData/WD~hobby_gardener,112119524]]"
+location: "[[_Standards/WikiData/WD~garden,1107656]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_gardening,1361707]]"
+uses: "[[_Standards/WikiData/WD~garden_tool,1494647]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~branch_of_agriculture,5687161]]"
+  - "[[_Standards/WikiData/WD~hobby,47728]]"
+has_list: "[[_Standards/WikiData/WD~list_of_garden_types,6621504]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Horticulture_and_gardening,10797217]]"
+  - "[[_Standards/WikiData/WD~Template_Gardening,10797231]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Gardening,10814990]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~hobby,47728]]"
+  - "[[_Standards/WikiData/WD~horticulture,48803]]"
+Dewey_Decimal_Classification: "635"
+IAB_code: "275"
+Colon_Classification: J1
+OmegaWiki_Defined_Meaning: "1067312"
+U_S_National_Archives_Identifier: "10637268"
+Stack_Exchange_site_URL: https://gardening.stackexchange.com/
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Matauk%20i%20kj%C3%B8kkenhagen.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wall%20planting%20in%20Salem.jpg
+Iconclass_notation: 41A681
+Provenio_UUID: 5e8b125c-f486-4731-a975-05253869ff2b
+subreddit: gardening
+hashtag: gardening
+Commons_category: Gardening
+MeSH_tree_code:
+  - I03.450.642.581.500
+  - J01.040.498.500
 ---
 
 # [[Gardening]] 

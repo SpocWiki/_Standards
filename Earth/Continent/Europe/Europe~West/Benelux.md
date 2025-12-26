@@ -7,6 +7,66 @@ aliases:
   - Benelux-Unioun
   - Benelux
 has_id_wikidata: Q13116
+inception: 1944-09-05T00:00:00Z
+located_in_on_physical_feature:
+  - "[[_Standards/WikiData/WD~Low_Countries,476033]]"
+  - "[[_Standards/WikiData/WD~Europe,46]]"
+legislative_body: "[[_Standards/WikiData/WD~Benelux_Parliament,723249]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Benelux,2361835]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Benelux_Court_of_Justice,2613970]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~regional_organization,4120211]]"
+  - "[[_Standards/WikiData/WD~triad,29430681]]"
+  - "[[_Standards/WikiData/WD~political_economic_union,120121699]]"
+official_language:
+  - "[[_Standards/WikiData/WD~Dutch,7411]]"
+  - "[[_Standards/WikiData/WD~French,150]]"
+country:
+  - "[[_Standards/WikiData/WD~Belgium,31]]"
+  - "[[_Standards/WikiData/WD~Luxembourg,32]]"
+  - "[[_Standards/WikiData/WD~Netherlands,55]]"
+named_after:
+  - "[[_Standards/WikiData/WD~Belgium,31]]"
+  - "[[_Standards/WikiData/WD~Luxembourg,32]]"
+  - "[[_Standards/WikiData/WD~Netherlands,55]]"
+founded_by:
+  - "[[_Standards/WikiData/WD~Belgium,31]]"
+  - "[[_Standards/WikiData/WD~Luxembourg,32]]"
+  - "[[_Standards/WikiData/WD~Netherlands,55]]"
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
+location_of_formation: "[[_Standards/WikiData/WD~London,84]]"
+shares_border_with:
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+headquarters_location: "[[_Standards/WikiData/WD~City_of_Brussels,239]]"
+OmegaWiki_Defined_Meaning: "761726"
+official_website: https://benelux.int
+native_label:
+  - Benelux
+  - Benelux
+  - Benelúks
+  - Benelux
+  - Benelux
+  - Benelux
+  - Benelusse
+PM20_geo_code: A21a
+Commons_category: Benelux
+locator_map_image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Benelux.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Benelux%20schematic%20map.svg
+location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Benelux%20location%20map.svg
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Benelux%20Logo.svg
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Benelux.svg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Marken%2C%20the%20Netherlands%20banner.jpg
+enterprise_number_Belgium_: "0923971520"
+U_S_National_Archives_Identifier: "10044963"
+EU_Corporate_body_code: BENELUX
+Colon_Classification: SG--596
+official_name:
+  - Union Benelux
+  - Benelux Unie
+street_address: Regentschapsstraat 39
 ---
 
 # [[Benelux]] 

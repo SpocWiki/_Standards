@@ -45,6 +45,14 @@ OpenStreetMap_tag_or_key: Tag:clothes=fur
 # [[Fur]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../WikiData/WD~Fur,197204|WD~Fur,197204]] 
+#is_/worse_than :: [[../../../../Bird/Feather|Feather]] 
+
+Fur consists of keratin hairs with no branching, unlike Feathers. 
+Dense underfur improves insulation, 
+but overall air retention per g is typically 200 cm³ to 300 cm³ per g in small mammals.
+compared to 600cm³ for [[../../../../Bird/Feather|Feather]]s. 
+
+Fur retains more air under Compression and Humidity (when oiled). 
 
 ## #has_/text_of_/abstract 
 

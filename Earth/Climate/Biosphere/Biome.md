@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Biome
 has_id_wikidata: Q101998
 subclass_of:
   - "[[_Standards/WikiData/WD~landscape,107425]]"
@@ -10,13 +11,15 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9217
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vegetation.png
 Commons_category: Biomes
 ---
-# [[Biome]]  
 
-#is_/same_as :: [[../../../WikiData/WD~Biome,101998|WD~Biome,101998]] 
+# [[Biome]] 
+
+#is_/same_as :: [[../../WikiData/WD~Biome,101998|WD~Biome,101998]] 
 
 ## #has_/text_of_/abstract 
 
-> A biome is a distinct geographical region with specific climate, vegetation, and animal life. 
+> A **Biome** is a distinct geographical region with specific climate, vegetation, and animal life. 
+> 
 > It consists of a biological community 
 > that has formed in response to its physical environment and regional climate. 
 > In 1935, Tansley added the climatic and soil aspects to the idea, calling it ecosystem. 

@@ -4,6 +4,21 @@ aliases:
   - Artificial Selection
   - Artificial_Selection
 has_id_wikidata: Q995745
+subclass_of:
+  - "[[_Standards/WikiData/WD~intentional_human_activity,451967]]"
+  - "[[_Standards/WikiData/WD~biological_selection,1094654]]"
+different_from:
+  - "[[_Standards/WikiData/WD~biological_selection,1094654]]"
+  - "[[_Standards/WikiData/WD~selection,12888920]]"
+said_to_be_the_same_as:
+  - "[[_Standards/WikiData/WD~selective_breeding,4023882]]"
+  - "[[_Standards/WikiData/WD~Livestock_Rearing,9379111]]"
+described_by_source: "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+opposite_of: "[[_Standards/WikiData/WD~natural_selection,43478]]"
+OmegaWiki_Defined_Meaning: "808800"
+Commons_category: Breeding
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Cornselection.jpg
+Krugosvet_article_archived_: biologiya/selektsiya
 ---
 
 # [[Artificial_Selection]] 

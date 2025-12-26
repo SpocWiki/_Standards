@@ -4,6 +4,14 @@ aliases:
   - Open_Cluster
   - Open Cluster
 has_id_wikidata: Q11387
+subclass_of: "[[_Standards/WikiData/WD~star_cluster,168845]]"
+instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_open_cluster,25813647]]"
+part_of: "[[_Standards/WikiData/WD~galaxy,318]]"
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Open%20cluster-article.ogg
+OmegaWiki_Defined_Meaning: "1487992"
+Dewey_Decimal_Classification: "523.852"
+Commons_category: Open clusters
 ---
 
 # [[Open_Cluster]] 

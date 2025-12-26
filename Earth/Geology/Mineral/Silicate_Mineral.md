@@ -1,6 +1,18 @@
 ---
 aliases:
 has_id_wikidata: Q178977
+part_of_the_series: "[[_Standards/WikiData/WD~Nickel_Strunz_classification,928461]]"
+follows: "[[_Standards/WikiData/WD~phosphate_mineral,3092395]]"
+followed_by: "[[_Standards/WikiData/WD~organic_class_of_minerals,4335792]]"
+described_by_source: "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+instance_of: "[[_Standards/WikiData/WD~mineral_class,12110334]]"
+subclass_of: "[[_Standards/WikiData/WD~mineral,7946]]"
+name: silicate mineral
+OmegaWiki_Defined_Meaning: "951418"
+Commons_category: Silicates
+Dewey_Decimal_Classification:
+  - "549.6"
+  - "546.68324"
 ---
 
 # [[Silicate_Mineral]] 

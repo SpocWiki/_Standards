@@ -174,6 +174,21 @@ UMLS_CUI: C0028410
 
 #is_/same_as :: [[../../WikiData/WD~North_Sea,1693|WD~North_Sea,1693]] 
 
+## #has_/map 
+
+```leaflet
+id: North_Sea
+minZoom: 2 
+defaultZoom: 3
+maxZoom: 18
+geojsonFolder: ./North_Sea/
+markerFolder: ./North_Sea/
+long: 26.6
+lat: 67.8
+
+```
+
+
 ## #has_/text_of_/abstract 
 
 > The North Sea lies between Great Britain, Denmark, Norway, Germany, the Netherlands, Belgium and France. An epeiric sea on the European continental shelf, it connects to the Atlantic Ocean through the English Channel in the south and the Norwegian Sea in the north. It is more than 970 kilometres (600 mi) long and 580 kilometres (360 mi) wide, covering 570,000 square kilometres (220,000 sq mi).
@@ -187,19 +202,6 @@ UMLS_CUI: C0028410
 > Due to the dense population, heavy industrialisation, and intense use of the sea and the area surrounding it, various environmental issues affect the sea's ecosystems. Adverse environmental issues – commonly including overfishing, industrial and agricultural runoff, dredging, and dumping, among others –  have led to several efforts to prevent degradation and to safeguard long-term economic benefits.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/North%20Sea)
-
-
-```leaflet
-id: North_Sea
-minZoom: 2 
-defaultZoom: 3
-maxZoom: 18
-geojsonFolder: ./North_Sea/
-markerFolder: ./North_Sea/
-long: 26.6
-lat: 67.8
-
-```
 
 67.8,26.6
 ## All Contents

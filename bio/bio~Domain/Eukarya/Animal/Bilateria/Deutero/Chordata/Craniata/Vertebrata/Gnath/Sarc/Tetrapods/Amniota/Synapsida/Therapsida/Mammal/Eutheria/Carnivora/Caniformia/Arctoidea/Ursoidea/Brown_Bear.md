@@ -5,6 +5,152 @@ aliases:
   - Ursus arctos
   - Brown_Bear
 has_id_wikidata: Q36341
+habitat:
+  - "[[_Standards/WikiData/WD~taiga,69564]]"
+  - "[[_Standards/WikiData/WD~shrubland,879641]]"
+  - "[[_Standards/WikiData/WD~forest,4421]]"
+foods_traditionally_associated:
+  - "[[_Standards/WikiData/WD~red_deer,79794]]"
+  - "[[_Standards/WikiData/WD~Cucumis_melo,81602]]"
+  - "[[_Standards/WikiData/WD~house_mouse,83310]]"
+  - "[[_Standards/WikiData/WD~egg_as_food,93189]]"
+  - "[[_Standards/WikiData/WD~Vaccinium_vitis_idaea,93235]]"
+  - "[[_Standards/WikiData/WD~roe_deer,122069]]"
+  - "[[_Standards/WikiData/WD~Marmota,131567]]"
+  - "[[_Standards/WikiData/WD~Fragaria_vesca,146684]]"
+  - "[[_Standards/WikiData/WD~carrion,202994]]"
+  - "[[_Standards/WikiData/WD~lawn,207766]]"
+  - "[[_Standards/WikiData/WD~Sorghum_bicolor,332062]]"
+  - "[[_Standards/WikiData/WD~mule_deer,338831]]"
+  - "[[_Standards/WikiData/WD~Cape_ground_squirrel,609173]]"
+  - "[[_Standards/WikiData/WD~Erethizon,732499]]"
+  - "[[_Standards/WikiData/WD~chestnut,773987]]"
+  - "[[_Standards/WikiData/WD~Arvicolinae,840750]]"
+  - "[[_Standards/WikiData/WD~ibex,951220]]"
+  - "[[_Standards/WikiData/WD~trout,2258881]]"
+  - "[[_Standards/WikiData/WD~fruit,3314483]]"
+  - "[[_Standards/WikiData/WD~melon,5881191]]"
+  - "[[_Standards/WikiData/WD~strawberry,14458220]]"
+  - "[[_Standards/WikiData/WD~blackberry,19842373]]"
+  - "[[_Standards/WikiData/WD~Richardson's_ground_squirrel,21730517]]"
+  - "[[_Standards/WikiData/WD~pig,787]]"
+  - "[[_Standards/WikiData/WD~cattle,830]]"
+  - "[[_Standards/WikiData/WD~goat,2934]]"
+  - "[[_Standards/WikiData/WD~red_squirrel,4388]]"
+  - "[[_Standards/WikiData/WD~sheep,7368]]"
+  - "[[_Standards/WikiData/WD~honey,10987]]"
+  - "[[_Standards/WikiData/WD~vegetable,11004]]"
+  - "[[_Standards/WikiData/WD~nut,11009]]"
+  - "[[_Standards/WikiData/WD~maize,11575]]"
+  - "[[_Standards/WikiData/WD~Vaccinium_sect._Cyanococcus,13178]]"
+  - "[[_Standards/WikiData/WD~berry,13184]]"
+  - "[[_Standards/WikiData/WD~food_waste,18919]]"
+  - "[[_Standards/WikiData/WD~Tamias,22364]]"
+  - "[[_Standards/WikiData/WD~apple,89]]"
+  - "[[_Standards/WikiData/WD~cherry,196]]"
+  - "[[_Standards/WikiData/WD~Alces_alces,35517]]"
+  - "[[_Standards/WikiData/WD~watermelon,38645]]"
+  - "[[_Standards/WikiData/WD~worm,47253]]"
+  - "[[_Standards/WikiData/WD~Sus_scrofa,58697]]"
+main_food_source:
+  - "[[_Standards/WikiData/WD~red_deer,79794]]"
+  - "[[_Standards/WikiData/WD~mushroom,83093]]"
+  - "[[_Standards/WikiData/WD~Lactuca_sativa,83193]]"
+  - "[[_Standards/WikiData/WD~egg_as_food,93189]]"
+  - "[[_Standards/WikiData/WD~Vaccinium_vitis_idaea,93235]]"
+  - "[[_Standards/WikiData/WD~roe_deer,122069]]"
+  - "[[_Standards/WikiData/WD~honeycomb,123339]]"
+  - "[[_Standards/WikiData/WD~larva,129270]]"
+  - "[[_Standards/WikiData/WD~chamois,131340]]"
+  - "[[_Standards/WikiData/WD~Marmota,131567]]"
+  - "[[_Standards/WikiData/WD~tuber,183319]]"
+  - "[[_Standards/WikiData/WD~Siberian_musk_deer,190508]]"
+  - "[[_Standards/WikiData/WD~carrion,202994]]"
+  - "[[_Standards/WikiData/WD~herb,207123]]"
+  - "[[_Standards/WikiData/WD~white_tailed_deer,215887]]"
+  - "[[_Standards/WikiData/WD~lemming,234150]]"
+  - "[[_Standards/WikiData/WD~mule_deer,338831]]"
+  - "[[_Standards/WikiData/WD~Dall_sheep,576112]]"
+  - "[[_Standards/WikiData/WD~European_mouflon,993274]]"
+  - "[[_Standards/WikiData/WD~cetacean_stranding,1366544]]"
+  - "[[_Standards/WikiData/WD~trout,2258881]]"
+  - "[[_Standards/WikiData/WD~salmon,2796766]]"
+  - "[[_Standards/WikiData/WD~shellfish,6501235]]"
+  - "[[_Standards/WikiData/WD~plum,12372598]]"
+  - "[[_Standards/WikiData/WD~pear,13099586]]"
+  - "[[_Standards/WikiData/WD~strawberry,14458220]]"
+  - "[[_Standards/WikiData/WD~Richardson's_ground_squirrel,21730517]]"
+  - "[[_Standards/WikiData/WD~pig,787]]"
+  - "[[_Standards/WikiData/WD~cattle,830]]"
+  - "[[_Standards/WikiData/WD~goat,2934]]"
+  - "[[_Standards/WikiData/WD~red_squirrel,4388]]"
+  - "[[_Standards/WikiData/WD~sheep,7368]]"
+  - "[[_Standards/WikiData/WD~grape,10978]]"
+  - "[[_Standards/WikiData/WD~honey,10987]]"
+  - "[[_Standards/WikiData/WD~maize,11575]]"
+  - "[[_Standards/WikiData/WD~berry,13184]]"
+  - "[[_Standards/WikiData/WD~food_waste,18919]]"
+  - "[[_Standards/WikiData/WD~Cucumis_sativus,23425]]"
+  - "[[_Standards/WikiData/WD~European_Rabbit,25851]]"
+  - "[[_Standards/WikiData/WD~Lepus_europaeus,26838]]"
+  - "[[_Standards/WikiData/WD~apple,89]]"
+  - "[[_Standards/WikiData/WD~cherry,196]]"
+  - "[[_Standards/WikiData/WD~Alces_alces,35517]]"
+  - "[[_Standards/WikiData/WD~watermelon,38645]]"
+  - "[[_Standards/WikiData/WD~worm,47253]]"
+  - "[[_Standards/WikiData/WD~Sus_scrofa,58697]]"
+IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~bile_bear,1019113]]"
+CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
+different_from: "[[_Standards/WikiData/WD~Q16292004,16292004]]"
+subclass_of: "[[_Standards/WikiData/WD~bear,30090244]]"
+Status_in_the_Red_List_of_Threatened_Species_in_the_Czech_Republic: "[[_Standards/WikiData/WD~critically_endangered,56084734]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+Wildlife_Protection_Act_1972_India_schedule: "[[_Standards/WikiData/WD~Schedule_I_(Part_I)_of_Wildlife_Protection_Act,_1972,74713579]]"
+award_received:
+  - "[[_Standards/WikiData/WD~Animal_of_the_Year,109758329]]"
+  - "[[_Standards/WikiData/WD~Q109758751,109758751]]"
+taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+longest_observed_lifespan: 40
+mass: 500
+gestation_period: 7
+UMLS_CUI: C0325021
+NBN_System_Key: NBNSYS0000005185
+taxon_common_name:
+  - medvěd hnědý
+  - Mexican Grizzly Bear
+  - Oso Pardo
+  - Orso bruno
+  - niedźwiedź brunatny
+  - urso-pardo
+  - rjavi medved
+  - 棕熊
+  - Braunbär
+  - karhu
+  - brunbjørn
+  - Ours brun
+  - Grizzly Bear
+  - Brown Bear
+short_name: U. arctos
+Dewey_Decimal_Classification: "599.784"
+litter_size: 2.5
+bite_force_quotient: 78
+ITIS_TSN: "180543"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Brown%20bear.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/202309%20Ezo%20brown%20bear.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Brown%20bear%20%28Ursus%20arctos%29%2C%20Viiksimo%2C%20Kainuu%20region%2C%20Finland%20%2829058988558%29.jpg
+Library_of_Congress_Classification: QL737.C27
+Commons_category: Ursus arctos
+taxon_name: Ursus arctos
+Commons_gallery: Ursus arctos
+start_time: -500000-01-01T00:00:00Z
+taxon_range_map_image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Bulgaria%20Distribution%20Ursus%20arctos.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ursus%20arctos%20range%20map.svg
+Digital_Atlas_of_Idaho_URL: https://digitalatlas.cose.isu.edu/bio/mammal/Carn/bears/grbe/grbefrm.htm
+sequenced_genome_URL: https://www.dnazoo.org/assemblies/Ursus_arctos
 ---
 
 # [[Brown_Bear]] 

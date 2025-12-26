@@ -1,6 +1,31 @@
 ---
 aliases:
 has_id_wikidata: Q42918
+has_cause: "[[_Standards/WikiData/WD~mutagen,221696]]"
+different_from: "[[_Standards/WikiData/WD~Mutation,413689]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~somatic_mutation,2215243]]"
+  - "[[_Standards/WikiData/WD~germline_mutation,5552256]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~biological_process,2996394]]"
+  - "[[_Standards/WikiData/WD~sequence_variant,15304597]]"
+  - "[[_Standards/WikiData/WD~variation,102116514]]"
+  - "[[_Standards/WikiData/WD~genetic_event,115865817]]"
+has_effect: "[[_Standards/WikiData/WD~mutant,3285695]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Mutation,13501050]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+has_characteristic: "[[_Standards/WikiData/WD~mutational_signature,28790837]]"
+OmegaWiki_Defined_Meaning: "2453"
+Commons_category: Mutations
+NCI_Dictionary_of_Genetics_Terms_entry: mutation
+video:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Otitis-Media-in-a-New-Mouse-Model-for-CHARGE-Syndrome-with-a-Deletion-in-the-Chd7-Gene-pone.0034944.s002.ogv
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Otitis-Media-in-a-New-Mouse-Model-for-CHARGE-Syndrome-with-a-Deletion-in-the-Chd7-Gene-pone.0034944.s003.ogv
+IEV_number: 881-17-16
+MeSH_tree_code: G05.365.590
+Dewey_Decimal_Classification: "576.549"
 ---
 
 # [[Mutation]] 
@@ -9,11 +34,25 @@ has_id_wikidata: Q42918
 
 ## #has_/text_of_/abstract 
 
-> In biology, a **Mutation** is an alteration in the nucleic acid sequence of the genome of an organism, virus, or extrachromosomal DNA. Viral genomes contain either DNA or RNA. Mutations result from errors during DNA or viral replication, mitosis, or meiosis or other types of damage to DNA (such as pyrimidine dimers caused by exposure to ultraviolet radiation), which then may undergo error-prone repair (especially microhomology-mediated end joining), cause an error during other forms of repair, or cause an error during replication (translesion synthesis). Mutations may also result from substitution, insertion or deletion of segments of DNA due to mobile genetic elements.
->
+> In biology, a **Mutation** is an alteration in the nucleic acid sequence 
+> of the genome of an organism, virus, or extrachromosomal DNA. 
 > 
+> Viral genomes contain either DNA or RNA. 
+> Mutations result from errors during DNA or viral replication, 
+> mitosis, or meiosis or other types of damage to DNA 
+> (such as pyrimidine dimers caused by exposure to ultraviolet radiation), 
+> which then may undergo error-prone repair 
+> (especially microhomology-mediated end joining), 
+> cause an error during other forms of repair, 
+> or cause an error during replication (translesion synthesis). 
+> 
+> Mutations may also result from substitution, 
+> insertion or deletion of segments of DNA due to mobile genetic elements.
 >
-> Mutations may or may not produce detectable changes in the observable characteristics (phenotype) of an organism. Mutations play a part in both normal and abnormal biological processes including: evolution, cancer, and the development of the immune system, including junctional diversity. Mutation is the ultimate source of all genetic variation, providing the raw material on which evolutionary forces such as natural selection can act.
+> Mutations may or may not produce detectable 
+> changes in the observable characteristics (phenotype) of an organism. 
+> 
+> Mutations play a part in both normal and abnormal biological processes including: evolution, cancer, and the development of the immune system, including junctional diversity. Mutation is the ultimate source of all genetic variation, providing the raw material on which evolutionary forces such as natural selection can act.
 >
 > Mutation can result in many different types of change in sequences. Mutations in genes can have no effect, alter the product of a gene, or prevent the gene from functioning properly or completely. Mutations can also occur in non-genic regions. A 2007 study on genetic variations between different species of Drosophila suggested that, if a mutation changes a protein produced by a gene, the result is likely to be harmful, with an estimated 70% of amino acid polymorphisms that have damaging effects, and the remainder being either neutral or marginally beneficial.
 >

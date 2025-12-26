@@ -3,6 +3,19 @@ aliases:
   - Chromatographie
   - Chromatography
 has_id_wikidata: Q170050
+instance_of: "[[_Standards/WikiData/WD~separation_process,898987]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~lab_technique,3247516]]"
+  - "[[_Standards/WikiData/WD~analytical_chemical_technique,4751159]]"
+uses: "[[_Standards/WikiData/WD~chromatograph,107049539]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
+OmegaWiki_Defined_Meaning: "584"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Chromatography%20of%20chlorophyll%20-%20Step%207.jpg
+Common_Procurement_Vocabulary_code: "38432200"
+Dewey_Decimal_Classification: "543.8"
+UMLS_CUI: C0008550
+Commons_category: Chromatography
+MeSH_tree_code: E05.196.181
 ---
 
 # [[Chromatography]] 

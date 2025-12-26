@@ -3,6 +3,45 @@ aliases:
   - Brust
   - Breast
 has_id_wikidata: Q9103
+has_use: "[[_Standards/WikiData/WD~breastfeeding,174876]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~mammary_gland,189961]]"
+  - "[[_Standards/WikiData/WD~gendered_anatomical_structure,43022214]]"
+  - "[[_Standards/WikiData/WD~region_of_pectoral_part_of_chest,66557754]]"
+  - "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
+different_from:
+  - "[[_Standards/WikiData/WD~Meme,409607]]"
+  - "[[_Standards/WikiData/WD~male_breast,66511267]]"
+arterial_supply: "[[_Standards/WikiData/WD~internal_thoracic_artery,497563]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~sexual_characteristic,1517875]]"
+  - "[[_Standards/WikiData/WD~organ_type,103812529]]"
+  - "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
+part_of:
+  - "[[_Standards/WikiData/WD~secondary_sex_characteristic,1784017]]"
+  - "[[_Standards/WikiData/WD~thorax,9645]]"
+  - "[[_Standards/WikiData/WD~human_body,23852]]"
+venous_drainage: "[[_Standards/WikiData/WD~internal_thoracic_vein,3509884]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Breast_anatomy,6726980]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
+sexually_homologous_with: "[[_Standards/WikiData/WD~male_breast,66511267]]"
+OmegaWiki_Defined_Meaning: "5992"
+TA98_Latin_term: mamma
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Breasts%20close-up%20%284%29.jpg
+IMDb_keyword: breasts
+Commons_category: Breasts
+sectional_view: http://commons.wikimedia.org/wiki/Special:FilePath/Breast%20Anatomy%20Sagittal%20Cut%20Unlabeled.jpg
+3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/We%20Are%20Beautiful%20%E2%80%93%20883440-BSNN-1%20%E2%80%93%20solid.stl
+Iconclass_notation: 31A2223
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%A8.wav
+Dewey_Decimal_Classification:
+  - "611.49"
+  - "612.664"
+MeSH_tree_code: A01.236
+UMLS_CUI: C0006141
 ---
 
 # [[Breast]] 

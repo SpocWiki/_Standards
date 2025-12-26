@@ -4,6 +4,28 @@ aliases:
   - Capital_City
   - Capital City
 has_id_wikidata: Q5119
+different_from:
+  - "[[_Standards/WikiData/WD~seat,470540]]"
+  - "[[_Standards/WikiData/WD~The_Capitol,709151]]"
+  - "[[_Standards/WikiData/WD~administrative_centre,1306755]]"
+  - "[[_Standards/WikiData/WD~Q20451116,20451116]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~chef_lieu,956214]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~administrative_centre,1306755]]"
+  - "[[_Standards/WikiData/WD~city,515]]"
+opposite_of: "[[_Standards/WikiData/WD~former_capital,27554677]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~largest_city,51929311]]"
+main_Wikidata_property:
+  - capital of
+  - capital
+OpenStreetMap_key: capital
+Dewey_Decimal_Classification: "307.76"
+Commons_category: Capitals
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Tavares.Forum.Romanum.redux.jpg
+equivalent_class: http://dbpedia.org/ontology/Capital
+Provenio_UUID: 6b91e8b0-1af9-40ae-ad7f-c48f0ce044f4
+GeoNames_feature_code: P.PPLC
+OpenStreetMap_tag: capital=yes
 ---
 
 # [[Capital_City]] 

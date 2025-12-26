@@ -3,6 +3,41 @@ aliases:
   - Gobi Desert
   - Gobi_Desert
 has_id_wikidata: Q42070
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Svensk_uppslagsbok,1766280]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+lowest_point: "[[_Standards/WikiData/WD~Nemegt_Basin,626720]]"
+highest_point: "[[_Standards/WikiData/WD~Bogd_Khan_Mountain,654413]]"
+Köppen_climate_classification: "[[_Standards/WikiData/WD~cold_desert_climate,23662277]]"
+ecoregion_WWF_:
+  - "[[_Standards/WikiData/WD~Alashan_Plateau_semi_desert,70159905]]"
+  - "[[_Standards/WikiData/WD~Eastern_Gobi_Desert_steppe,70255611]]"
+  - "[[_Standards/WikiData/WD~Gobi_Lakes_Valley_desert_steppe,90648800]]"
+country:
+  - "[[_Standards/WikiData/WD~Mongolia,711]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+instance_of: "[[_Standards/WikiData/WD~desert,8514]]"
+continent: "[[_Standards/WikiData/WD~Asia,48]]"
+length: 1500
+elevation_above_sea_level: 1547
+area: 2354460
+native_label:
+  - ᠭᠣᠪᠢ
+  - Говь
+  - 戈壁
+coordinate_location: Point(103.0 42.5)
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/China%20edcp%20relief%20location%20map%20Gobi%20de.jpg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-W%C3%BCste%20Gobi.ogg
+aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Gobi.png
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mongolia%20%2835427009881%29.jpg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/South%20Gobi%20banner%20Tost%20Protected%20Area.jpg
+Commons_gallery: Gobi Desert
+Commons_category: Gobi Desert
 ---
 
 # [[Gobi_Desert]] 

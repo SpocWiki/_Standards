@@ -5,6 +5,8 @@ aliases:
   - Compact_Star
   - Compact Star
 has_id_wikidata: Q368442
+subclass_of: "[[_Standards/WikiData/WD~star,523]]"
+has_part_s_: "[[_Standards/WikiData/WD~degenerate_matter,51368]]"
 ---
 
 # [[Compact_Star]] 

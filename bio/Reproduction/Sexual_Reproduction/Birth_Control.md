@@ -7,6 +7,35 @@ aliases:
   - Birth_Control
   - Birth Control
 has_id_wikidata: Q122224
+different_from: "[[_Standards/WikiData/WD~human_population_control,130819]]"
+part_of: "[[_Standards/WikiData/WD~human_population_control,130819]]"
+has_part_s_: "[[_Standards/WikiData/WD~comparison_of_birth_control_methods,666544]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~family_planning,1280670]]"
+  - "[[_Standards/WikiData/WD~reproductive_health,1981388]]"
+  - "[[_Standards/WikiData/WD~medical_prevention,117824058]]"
+has_use: "[[_Standards/WikiData/WD~prevention,1717246]]"
+facet_of: "[[_Standards/WikiData/WD~women's_health,8031191]]"
+on_focus_list_of_Wikimedia_project:
+  - "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+  - "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~Secular_humanism,106303278]]"
+described_by_source: "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+IAB_code: "303"
+OmegaWiki_Defined_Meaning: "404"
+Dewey_Decimal_Classification:
+  - "176.3"
+  - "363.96"
+  - "618.18"
+U_S_National_Archives_Identifier: "10636922"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Condom%20rolled.jpg
+pronunciation_audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%9C%E0%AC%A8%E0%AD%8D%E0%AC%AE%20%E0%AC%A8%E0%AC%BF%E0%AC%B0%E0%AD%8B%E0%AC%A7.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Empf%C3%A4ngnisverh%C3%BCtung.ogg
+DOI: 10.1163/1875-3922_Q3_EQSIM_00051
+subreddit: birthcontrol
+Commons_category: Contraception
+MeSH_tree_code: E02.875.194
 ---
 
 # [[Birth_Control]] 
