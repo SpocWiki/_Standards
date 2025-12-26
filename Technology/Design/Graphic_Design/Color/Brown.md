@@ -3,6 +3,22 @@ aliases:
   - Braun
   - Brown
 has_id_wikidata: Q47071
+instance_of:
+  - "[[_Standards/WikiData/WD~HTML4_named_color,56053097]]"
+  - "[[_Standards/WikiData/WD~color,1075]]"
+subclass_of: "[[_Standards/WikiData/WD~light,9128]]"
+OmegaWiki_Defined_Meaning: "6938"
+CSS_color_keyword: brown
+Commons_category: Brown
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Color%20icon%20brown.svg
+sRGB_color_hex_triplet: 964B00
+Iconclass_notation: 22C4(BROWN)
+pronunciation_audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-marr%C3%B3.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9129%20%28gre%29-MARKELLOS-%CE%BA%CE%B1%CF%86%CE%AD.wav
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Bruin-article.ogg
+Wolfram_Language_entity_code: Entity["Color", {"WolframLanguage", "Brown"}]
+OpenStreetMap_tag: colour=brown
 ---
 
 ## [[Brown]]

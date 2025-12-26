@@ -4,6 +4,13 @@ aliases:
   - Fugenmörtel
   - Grout
 has_id_wikidata: Q4580104
+subclass_of:
+  - "[[_Standards/WikiData/WD~slurry,23925154]]"
+  - "[[_Standards/WikiData/WD~concrete,22657]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+Nomenclature_for_Museum_Cataloging: "66"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Applying%20grout.jpg
+Commons_category: Grouting
 ---
 
 # [[Grout]] 

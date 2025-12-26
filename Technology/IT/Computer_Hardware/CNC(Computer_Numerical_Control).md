@@ -6,6 +6,15 @@ aliases:
   - CNC(Computer_Numerical_Control)
   - CNC(Computer Numerical Control)
 has_id_wikidata: Q190247
+subclass_of:
+  - "[[_Standards/WikiData/WD~controller,1321995]]"
+  - "[[_Standards/WikiData/WD~production_process,1408286]]"
+  - "[[_Standards/WikiData/WD~digital_control,2720568]]"
+  - "[[_Standards/WikiData/WD~numerical_control,3689317]]"
+used_by: "[[_Standards/WikiData/WD~CNC_machine,13231055]]"
+subreddit: CNC
+Commons_gallery: CNC
+Commons_category: Computer numerical control
 ---
 
 # [[CNC(Computer_Numerical_Control)]] 

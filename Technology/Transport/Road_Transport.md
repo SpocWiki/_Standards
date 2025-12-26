@@ -4,7 +4,30 @@ aliases:
   - Road_Transport
   - Road Transport
 has_id_wikidata: Q516739
+has_effect: "[[_Standards/WikiData/WD~economic_growth,189833]]"
+instance_of: "[[_Standards/WikiData/WD~mode_of_transport,334166]]"
+produced_sound: "[[_Standards/WikiData/WD~roadway_noise,1850027]]"
+has_part_s_: "[[_Standards/WikiData/WD~road_tunnel,2354973]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~traffic,4323994]]"
+  - "[[_Standards/WikiData/WD~land_transport,4354683]]"
+uses: "[[_Standards/WikiData/WD~road,34442]]"
+Dewey_Decimal_Classification:
+  - "388.41"
+  - "388.3"
+  - "343.0982"
+  - "343.094"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/COLLECTIE%20TROPENMUSEUM%20Verkeersdrukte%20op%20De%20Groote%20Postweg%20Oost%20in%20de%20binnenstad%20van%20Bandoeng%20TMnr%2010014702.jpg
+Library_of_Congress_Classification: HE5601-HE5725
+IPTC_NewsCode: mediatopic/20000341
+Krugosvet_article_archived_: nauka_i_tehnika/transport_i_svyaz/AVTOTRANSPORT.html
+Commons_gallery: Road transport
+Commons_category: Road transport
 ---
+
+# [[Road_Transport]] 
+
+#is_/same_as :: [[_Standards/WikiData/WD~road_transport,516739]] 
 
 ## #has_/text_of_/abstract 
 

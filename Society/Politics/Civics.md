@@ -3,6 +3,15 @@ aliases:
   - Gemeinschaftskunde
   - Civics
 has_id_wikidata: Q837313
+instance_of:
+  - "[[_Standards/WikiData/WD~school_subject,362165]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+has_part_s_: "[[_Standards/WikiData/WD~citizenship_education,10270843]]"
+subclass_of: "[[_Standards/WikiData/WD~social_science,34749]]"
+different_from: "[[_Standards/WikiData/WD~citizenship,42138]]"
+U_S_National_Archives_Identifier: "10638300"
+Commons_category: Civics
+Library_of_Congress_Classification: LB1139.5.S64
 ---
 # [[Civics]] 
 

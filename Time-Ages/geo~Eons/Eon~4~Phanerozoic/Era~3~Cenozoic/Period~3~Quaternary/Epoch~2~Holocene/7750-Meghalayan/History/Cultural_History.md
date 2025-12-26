@@ -5,6 +5,19 @@ aliases:
   - Cultural_History
   - Cultural History
 has_id_wikidata: Q858517
+subclass_of:
+  - "[[_Standards/WikiData/WD~study_of_history,1066186]]"
+  - "[[_Standards/WikiData/WD~cultural_studies,1143546]]"
+  - "[[_Standards/WikiData/WD~history,309]]"
+practiced_by: "[[_Standards/WikiData/WD~cultural_historian,15462162]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
+  - "[[_Standards/WikiData/WD~branch_of_history,81517619]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+is_the_study_of: "[[_Standards/WikiData/WD~culture,11042]]"
+facet_of: "[[_Standards/WikiData/WD~culture,11042]]"
+Commons_category: Cultural history
+IPTC_NewsCode: mediatopic/20000039
 ---
 
 # [[Cultural_History]] 

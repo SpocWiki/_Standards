@@ -4,6 +4,44 @@ aliases:
   - Central_Processing_Unit
   - Central Processing Unit
 has_id_wikidata: Q5300
+has_part_s_:
+  - "[[_Standards/WikiData/WD~CPU_cache,352090]]"
+  - "[[_Standards/WikiData/WD~processor_design,1303814]]"
+connects_with: "[[_Standards/WikiData/WD~CPU_socket,727009]]"
+different_from:
+  - "[[_Standards/WikiData/WD~processor,1466064]]"
+  - "[[_Standards/WikiData/WD~data_processing_unit,5227334]]"
+  - "[[_Standards/WikiData/WD~computer,68]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~processor,1466064]]"
+  - "[[_Standards/WikiData/WD~computer_hardware,3966]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Infobox_CPU,6978288]]"
+  - "[[_Standards/WikiData/WD~Template_Processor_technologies,8084425]]"
+instance_of: "[[_Standards/WikiData/WD~processor_type,124996351]]"
+main_Wikidata_property: CPU
+properties_for_this_type:
+  - socket supported
+  - instruction set
+  - number of processor cores
+  - fabrication method
+  - clock frequency
+  - FSB speed
+  - microarchitecture
+  - CPUID
+  - number of processor threads
+part_of: "[[_Standards/WikiData/WD~computer,68]]"
+short_name:
+  - ЦП
+  - CPU
+video: http://commons.wikimedia.org/wiki/Special:FilePath/AMD%20Ryzen%20Threadripper%207970X%20%E2%86%92%20Ein%20Rundumblick.webm
+Baidu_Tieba_name: cpu
+Commons_category: Microprocessors
+image: http://commons.wikimedia.org/wiki/Special:FilePath/2023%20Intel%20Core%20i7%2012700KF%20%283%29.jpg
+3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/3D-Modell%20Intel%20C4004%2020240623.stl
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Gnome-cpu.png
+Stack_Exchange_tag: https://stackoverflow.com/tags/cpu
+IEV_number: 171-04-05
 ---
 
 # [[Central_Processing_Unit]] 

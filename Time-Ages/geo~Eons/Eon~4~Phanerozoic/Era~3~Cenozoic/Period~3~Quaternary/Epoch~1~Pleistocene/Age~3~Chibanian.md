@@ -3,6 +3,20 @@ aliases:
   - Chibanian
   - Age~3~Chibanian
 has_id_wikidata: Q492596
+named_after: "[[_Standards/WikiData/WD~Chiba_Prefecture,80011]]"
+significant_place: "[[_Standards/WikiData/WD~Ichihara,207881]]"
+follows: "[[_Standards/WikiData/WD~Early_Pleistocene,444693]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Chibanian,133756548]]"
+coordinate_location: Point(140.146527777 35.294333333)
+sRGB_color_hex_triplet: FFF2C7
+start_time: -774100-01-01T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Chibanian%20Strata%20Stake.jpg
+Commons_category: Chibanian
+end_time: -129000-01-01T00:00:00Z
 ---
 
 # [[Age~3~Chibanian]]

@@ -3,6 +3,38 @@ aliases:
   - Möbel
   - Furniture
 has_id_wikidata: Q14745
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~particle_board,898776]]"
+  - "[[_Standards/WikiData/WD~plank,1355652]]"
+  - "[[_Standards/WikiData/WD~fiberboard,1397443]]"
+  - "[[_Standards/WikiData/WD~furniture_hardware,43192208]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q10815145,10815145]]"
+subclass_of: "[[_Standards/WikiData/WD~fittings,11631761]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_furniture,13383856]]"
+manufacturer: "[[_Standards/WikiData/WD~furniture_factory,60077401]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
+Dewey_Decimal_Classification:
+  - "645"
+  - "749"
+Nomenclature_for_Museum_Cataloging: "1062"
+Commons_gallery: Furniture
+Commons_category: Furniture
+U_S_National_Archives_Identifier: "10640568"
+Iconclass_notation: 41A761
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Mobiliario-article.ogg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/P%C5%82ock%2C%20Muzeum%20Mazowieckie%20%2828%29.jpg
+OpenStreetMap_key: furniture
+IMDb_keyword: furniture
+GitHub_topic: furniture
+subreddit: furniture
 ---
 
 # [[Furniture]] 

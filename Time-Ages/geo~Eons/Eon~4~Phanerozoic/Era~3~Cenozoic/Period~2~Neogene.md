@@ -23,6 +23,19 @@ aliases:
   - 晚第三纪
   - Period~2~Neogene
 has_id_wikidata: Q103924
+named_by: "[[_Standards/WikiData/WD~Moriz_Hoernes,115209]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~period,392928]]"
+  - "[[_Standards/WikiData/WD~system,403523]]"
+different_from: "[[_Standards/WikiData/WD~Neogene_(genus),1382612]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+start_time: -23030000-01-01T00:00:00Z
+end_time: -2580000-01-01T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%2015%20Ma%20%28Langhian%20Age%29.png
+sRGB_color_hex_triplet: FFE619
+Commons_category: Neogene
+Dewey_Decimal_Classification: "551.786"
 ---
 
 # [[Period~2~Neogene]] 

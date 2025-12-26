@@ -5,6 +5,30 @@ aliases:
   - Biomedical_Engineering
   - Biomedical Engineering
 has_id_wikidata: Q327092
+instance_of:
+  - "[[_Standards/WikiData/WD~industry,268592]]"
+  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~biomedicine,864601]]"
+  - "[[_Standards/WikiData/WD~engineering,11023]]"
+said_to_be_the_same_as:
+  - "[[_Standards/WikiData/WD~health_technology,1519843]]"
+  - "[[_Standards/WikiData/WD~medical_technology,10379048]]"
+practiced_by:
+  - "[[_Standards/WikiData/WD~biomedical_engineer,19902880]]"
+  - "[[_Standards/WikiData/WD~biomedical_equipment_technician,55605490]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+P10203: "2204"
+Commons_category: Biomedical engineering
+Dewey_Decimal_Classification:
+  - "610.28"
+  - "681.761"
+GitHub_topic: biomedical-engineering
+MeSH_tree_code:
+  - H02.070
+  - J01.293.140
+Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/BIOMEDITSINSKAYA_INZHENERIYA.html
 ---
 
 # [[Biomedical_Engineering]] 

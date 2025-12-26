@@ -18,7 +18,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%
 
 # [[Nuclear_Technology]] 
 
-#is_/same_as :: [[WD~Nuclear_technology,348091]] 
+#is_/same_as :: [[../../../WikiData/WD~Nuclear_technology,348091]] 
 
 ## #has_/text_of_/abstract 
 

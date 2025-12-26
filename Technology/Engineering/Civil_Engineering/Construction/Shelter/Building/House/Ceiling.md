@@ -3,6 +3,37 @@ aliases:
   - Decke
   - Ceiling
 has_id_wikidata: Q221706
+opposite_of: "[[_Standards/WikiData/WD~floor,217164]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~architectural_element,391414]]"
+  - "[[_Standards/WikiData/WD~horizontal_structural_element,30327093]]"
+different_from:
+  - "[[_Standards/WikiData/WD~Plafond,402611]]"
+  - "[[_Standards/WikiData/WD~Strop,9346777]]"
+  - "[[_Standards/WikiData/WD~Decke,12140815]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+location: "[[_Standards/WikiData/WD~top,30504649]]"
+connects_with: "[[_Standards/WikiData/WD~mawaribuchi,131603329]]"
+facet_of: "[[_Standards/WikiData/WD~building,41176]]"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Systeemplafond.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/2043-01470%20Plafond%20van%20de%20Grote%20Tempel.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Holmens%20Kirke%20Copenhagen%20ceiling%20deco3.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Laterano%2C%20Roma.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Torun%20Kopernika%2021%20pietro%20strop%20%282%29.jpg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-plafond.wav
+spoken_text_audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Plafond%20%28bouw%29-article.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Q221706-ar.ogg
+Commons_category: Ceilings
+Dewey_Decimal_Classification: "721.7"
+OpenStreetMap_tag: support=ceiling
 ---
 
 # [[Ceiling]] 

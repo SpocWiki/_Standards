@@ -3,6 +3,31 @@ aliases:
   - Segel
   - Sail
 has_id_wikidata: Q25999
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+part_of: "[[_Standards/WikiData/WD~sailboat,1075310]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~product,2424752]]"
+  - "[[_Standards/WikiData/WD~propulsion,2583685]]"
+  - "[[_Standards/WikiData/WD~ship_element,15688633]]"
+has_use: "[[_Standards/WikiData/WD~propulsion,2583685]]"
+different_from: "[[_Standards/WikiData/WD~sail_plan,6497053]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q23014507,23014507]]"
+depicted_by: "[[_Standards/WikiData/WD~Sewing_the_sail,51726313]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B8%20%D0%BA%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5%20%C2%AB%D0%9F%D0%B0%D1%80%D1%83%D1%81%D0%B0%C2%BB.%20%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%20%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0%20%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%201911-1915%29.jpg
+Nomenclature_for_Museum_Cataloging: "12513"
+OmegaWiki_Defined_Meaning: "345771"
+Commons_category: Sails
+Iconclass_notation: 46C24111
+Dewey_Decimal_Classification: "623.862"
 ---
 
 # [[Sail]] 

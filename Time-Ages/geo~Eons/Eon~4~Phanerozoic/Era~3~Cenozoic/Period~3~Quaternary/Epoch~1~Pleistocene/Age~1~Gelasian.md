@@ -23,6 +23,20 @@ aliases:
   - 格拉斯期
   - Age~1~Gelasian
 has_id_wikidata: Q428579
+part_of:
+  - "[[_Standards/WikiData/WD~Early_Pleistocene,444693]]"
+  - "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Gelasian,1487069]]"
+coordinate_location: Point(14.2035 37.1469)
+start_time: -2580000-01-01T00:00:00Z
+end_time: -1800000-01-01T00:00:00Z
+significant_place: "[[_Standards/WikiData/WD~Gela,39971]]"
+named_after: "[[_Standards/WikiData/WD~Gela,39971]]"
+Commons_category: Gelasian
+sRGB_color_hex_triplet: FFEDB3
 ---
 
 # [[Age~1~Gelasian]] 
