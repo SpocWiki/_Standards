@@ -4,6 +4,32 @@ aliases:
   - exobiology
   - Astrobiology
 has_id_wikidata: Q411
+instance_of:
+  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
+  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
+  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - "[[_Standards/WikiData/WD~branch_of_biology,28598684]]"
+  - "[[_Standards/WikiData/WD~branch_of_astronomy,131565179]]"
+practiced_by: "[[_Standards/WikiData/WD~astrobiologist,3061999]]"
+different_from:
+  - "[[_Standards/WikiData/WD~xenobiology,3545894]]"
+  - "[[_Standards/WikiData/WD~exobiology,18620965]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Astrobiology,6689385]]"
+described_by_source: "[[_Standards/WikiData/WD~English_Wiktionary,22001375]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Astrobiology,50674023]]"
+subclass_of: "[[_Standards/WikiData/WD~biology,420]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Blacksmoker%20in%20Atlantic%20Ocean.jpg
+GitHub_topic: astrobiology
+OmegaWiki_Defined_Meaning: "665173"
+subreddit: Astrobiology
+Commons_category: Astrobiology
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8.wav
+Stack_Exchange_tag: https://worldbuilding.stackexchange.com/tags/xenobiology
+Dewey_Decimal_Classification: "576.839"
+UMLS_CUI: C2713307
+MeSH_tree_code: H01.158.273.295
+Krugosvet_article_archived_: nauka_i_tehnika/biologiya/ASTROBIOLOGIYA.html
 ---
 
 # [[Astrobiology]] 

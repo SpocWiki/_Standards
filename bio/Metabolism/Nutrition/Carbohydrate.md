@@ -3,10 +3,56 @@ aliases:
   - Kohlehydrate
   - Carbohydrate
 has_id_wikidata: Q11358
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Wie%20werden%20Kohlenhydrate%20verstoffwechselt.webm
+Dewey_Decimal_Classification: "572.56"
+subclass_of:
+  - "[[_Standards/WikiData/WD~polyol,415812]]"
+  - "[[_Standards/WikiData/WD~carbohydrate_derivative,64698788]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+part_of:
+  - "[[_Standards/WikiData/WD~carbohydrate_metabolic_process,2734081]]"
+  - "[[_Standards/WikiData/WD~carbohydrate_binding,14633866]]"
+  - "[[_Standards/WikiData/WD~carbohydrate_transport,14887311]]"
+  - "[[_Standards/WikiData/WD~response_to_carbohydrate,14890579]]"
+  - "[[_Standards/WikiData/WD~cellular_response_to_carbohydrate_stimulus,14912641]]"
+  - "[[_Standards/WikiData/WD~carbohydrate_biosynthetic_process,21102359]]"
+  - "[[_Standards/WikiData/WD~carbohydrate_proton_symporter_activity,21106264]]"
+  - "[[_Standards/WikiData/WD~carbohydrate_transmembrane_transport,21121265]]"
+  - "[[_Standards/WikiData/WD~carbohydrate_homeostasis,21122289]]"
+  - "[[_Standards/WikiData/WD~carbohydrate_catabolic_process,21151801]]"
+  - "[[_Standards/WikiData/WD~carbohydrate_export,22290444]]"
+  - "[[_Standards/WikiData/WD~carbohydrate_import_across_plasma_membrane,22291667]]"
+  - "[[_Standards/WikiData/WD~carbohydrate_transmembrane_transporter_activity,22320699]]"
+  - "[[_Standards/WikiData/WD~ABC_type_carbohydrate_transporter_activity,22320700]]"
+  - "[[_Standards/WikiData/WD~carbohydrate_cation_symporter_activity,22324692]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Carbohydrates,6863216]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+  - "[[_Standards/WikiData/WD~nutrient_group,136908428]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~complex_carbohydrates,136192512]]"
+  - "[[_Standards/WikiData/WD~simple_carbohydrates,136192523]]"
+different_from:
+  - "[[_Standards/WikiData/WD~sugar,11002]]"
+  - "[[_Standards/WikiData/WD~hydrocarbon,43648]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~sugar,11002]]"
+OmegaWiki_Defined_Meaning: "483"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Carbohydrates.jpeg
+Basisklassifikation:
+  - "35.63"
+  - "35.77"
+UMLS_CUI: C0007004
+Commons_category: Carbohydrates
+MeSH_tree_code: D09
 ---
 
 # [[Carbohydrate]] 
-
 
 The different levels of carbohydrates are classified based on their complexity and structure. 
 

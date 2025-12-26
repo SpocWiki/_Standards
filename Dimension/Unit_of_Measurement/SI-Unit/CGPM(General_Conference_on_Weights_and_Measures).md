@@ -35,7 +35,7 @@ official_website:
 > 
 > The CGPM is made up of delegates of the governments of the member states 
 > and observers from the Associates of the CGPM. 
-> It elects the [[CIPM(General_Conference_on_Weights_and_Measures]] 
+> It elects the [[CIPM(General_Conference_on_Weights_and_Measures)]] 
 > (abbreviated CIPM from the Comité international des poids et mesures) 
 > as the supervisory board of the BIPM to direct and supervise it.
 >

@@ -5,6 +5,89 @@ aliases:
   - Centaurus A
   - Centaurus_A
 has_id_wikidata: Q487255
+instance_of:
+  - "[[_Standards/WikiData/WD~lenticular_galaxy,192078]]"
+  - "[[_Standards/WikiData/WD~BL_Lacertae_object,195385]]"
+  - "[[_Standards/WikiData/WD~radio_galaxy,217012]]"
+  - "[[_Standards/WikiData/WD~starburst_galaxy,726611]]"
+  - "[[_Standards/WikiData/WD~peculiar_galaxy,2014003]]"
+  - "[[_Standards/WikiData/WD~astrophysical_X_ray_source,2154519]]"
+  - "[[_Standards/WikiData/WD~centimetric_radio_source,67201524]]"
+  - "[[_Standards/WikiData/WD~infrared_source,67206691]]"
+  - "[[_Standards/WikiData/WD~Seyfert_2_galaxy,71965638]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~James_Dunlop,375158]]"
+part_of:
+  - "[[_Standards/WikiData/WD~Centaurus_A_M83_Group,1881065]]"
+  - "[[_Standards/WikiData/WD~Q67623596,67623596]]"
+  - "[[_Standards/WikiData/WD~Q67625752,67625752]]"
+  - "[[_Standards/WikiData/WD~Q67791039,67791039]]"
+  - "[[_Standards/WikiData/WD~Q67796421,67796421]]"
+right_ascension: 201.365062879333
+declination: -43.019112667361
+constellation: "[[_Standards/WikiData/WD~Centaurus,8844]]"
+distance_from_Earth:
+  - 10000000
+  - 3.66
+redshift: 0.0008
+radial_velocity: 552
+apparent_magnitude: 6.84
+galaxy_morphological_type:
+  - E
+  - S0pec
+time_of_discovery_or_invention: 1826-04-29T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/ESO%20Centaurus%20A%20LABOCA.jpg
+catalog_code:
+  - "[A94] 35"
+  - "[MGL2009] BZU J1325-4301"
+  - "[SLK2004] 837"
+  - "[VDD93] 184"
+  - "[WCO2009] J132533-425925"
+  - 1ES 1322-42.7
+  - 2A 1322-427
+  - 2EG J1324-4317
+  - 2FGL J1324.0-4330e
+  - 2FGL J1325.6-4300
+  - 2FHL J1325.6-4301
+  - 2MASX J13252775-4301073
+  - 2MAXI J1325-429
+  - 2U 1322-42
+  - 3A 1322-427
+  - 3EG J1324-4314
+  - 3FGL J1324.0-4330e
+  - 3FGL J1325.4-4301
+  - 3FHL J1325.5-4300
+  - 3U 1322-42
+  - 4U 1322-42
+  - 6dFGS gJ132527.7-430108
+  - AM 1322-424
+  - APG 153
+  - ESO 270-9
+  - ESO-LV 270-0090
+  - HIPASS J1324-42
+  - INTREF 559
+  - IRAS 13225-4245
+  - IRAS F13225-4245
+  - LEDA 46957
+  - MCG-07-28-001
+  - MRC 1322-427
+  - MSH 13-4-02
+  - NGC 5128
+  - PBC J1325.4-4301
+  - PGC 46957
+  - PKS 1322-42
+  - PKS 1322-427
+  - PKS 1322-428
+  - PKS J1325-4303
+  - PRC C-45
+  - PSCz Q13225-4245
+  - QSO B1322-428
+  - RX J1325.5-4301
+  - RX J132524.4-430100
+  - SGC 132233-4245.4
+  - SPB 216
+  - SUMSS J132528-430110
+  - XSS J13253-4302
+Commons_category: Centaurus A
 ---
 
 # [[Centaurus_A]] 

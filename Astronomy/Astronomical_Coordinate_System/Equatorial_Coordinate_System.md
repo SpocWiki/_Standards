@@ -4,6 +4,15 @@ aliases:
   - Equatorial_Coordinate_System
   - Equatorial Coordinate System
 has_id_wikidata: Q208617
+subclass_of: "[[_Standards/WikiData/WD~astronomical_coordinate_system,86394]]"
+different_from:
+  - "[[_Standards/WikiData/WD~first_equatorial_coordinate_system,9364775]]"
+  - "[[_Standards/WikiData/WD~second_equatorial_coordinate_system,9364777]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q143%20%28epo%29-Nealmcb-ekvatora%20koordinatsistemo.wav
+Commons_category: Equatorial coordinate system
 ---
 
 # [[Equatorial_Coordinate_System]] 

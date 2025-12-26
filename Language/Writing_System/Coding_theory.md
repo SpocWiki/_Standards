@@ -3,6 +3,16 @@ aliases:
   - Coding theory
   - Coding_theory
 has_id_wikidata: Q602136
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+subclass_of: "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
+has_characteristic: "[[_Standards/WikiData/WD~addition,23009538]]"
+Dewey_Decimal_Classification: "003.54"
+ACM_Classification_Code_2012_: "10003713"
+Commons_category: Coding theory
+Stack_Exchange_tag:
+  - https://cs.stackexchange.com/tags/coding-theory
+  - https://math.stackexchange.com/tags/coding-theory
+  - https://mathoverflow.net/tags/coding-theory
 ---
 
 # [[Coding_theory]] 

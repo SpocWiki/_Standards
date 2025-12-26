@@ -4,6 +4,29 @@ aliases:
   - Angström
   - Ångström
 has_id_wikidata: Q81454
+named_after: "[[_Standards/WikiData/WD~Anders_Jonas_Ångström,187258]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~unit_of_length,1978718]]"
+  - "[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+different_from: "[[_Standards/WikiData/WD~Å,9989]]"
+conversion_to_standard_unit: 1000000000
+conversion_to_SI_unit: 1e-10
+measured_physical_quantity: "[[_Standards/WikiData/WD~length,36253]]"
+UN_CEFACT_Common_Code: A11
+OmegaWiki_Defined_Meaning: "542808"
+UCUM_code: Ao
+unit_symbol:
+  - Å
+  - Å
+Unicode_character: Å
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%8F%E0%A6%95%E0%A6%95.wav
+Wolfram_Language_unit_code: '"Angstroms"'
+IEV_number: 881-04-01
+Commons_category: Ångström (unit of length)
+Wolfram_Language_entity_code: Entity["SolarSystemFeature", "AngstromAMoon"]
+Wikidata_SPARQL_query_equivalent: wd:Q81454 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
+UMLS_CUI: C0560170
 ---
 
 # [[Ångström]] 

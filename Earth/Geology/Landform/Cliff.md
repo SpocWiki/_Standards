@@ -3,6 +3,19 @@ aliases:
   - Klippe
   - Cliff
 has_id_wikidata: Q107679
+subclass_of:
+  - "[[_Standards/WikiData/WD~landform,271669]]"
+  - "[[_Standards/WikiData/WD~escarpment,1174791]]"
+different_from: "[[_Standards/WikiData/WD~Centrum_Handlowe_Klif,9362481]]"
+described_by_source: "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+OmegaWiki_Defined_Meaning: "4261"
+Commons_category: Cliffs
+Commons_gallery: Cliff
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Isla%20de%20Mona%2C%20Puerto%20Rico.jpg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-falaise.wav
+exact_match: http://purl.obolibrary.org/obo/ENVO_00000087
+GeoNames_feature_code: T.CLF
+OpenStreetMap_tag: natural=cliff
 ---
 
 # [[Cliff]] 

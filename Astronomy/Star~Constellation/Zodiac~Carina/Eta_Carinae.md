@@ -6,6 +6,62 @@ aliases:
   - η Car
   - η Argus
 has_id_wikidata: Q12185
+type_of_variable_star: "[[_Standards/WikiData/WD~luminous_blue_variable,742741]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Pieter_Dirkszoon_Keyser,961926]]"
+time_of_discovery_or_invention: 1595-01-01T00:00:00Z
+right_ascension: 161.26474075372
+constellation: "[[_Standards/WikiData/WD~Carina,10470]]"
+instance_of: "[[_Standards/WikiData/WD~double_star,13890]]"
+absolute_magnitude: -8.6
+radial_velocity: -25
+right_ascension_component_of_proper_motion: -11
+radius: 800
+orbital_eccentricity: 0.9
+declination_component_of_proper_motion: 4.1
+color_index: 0.61
+distance_from_Earth: 7500
+apparent_magnitude: 6.48
+image: http://commons.wikimedia.org/wiki/Special:FilePath/EtaCarinae.jpg
+catalog_code:
+  - 1ES 1043-59.4
+  - 2FGL J1045.0-5941
+  - 2FHL J1045.2-5942
+  - 2MASS J10450360-5941040
+  - 3A 1042-595
+  - 3FGL J1045.1-5941
+  - 3FHL J1045.1-5941
+  - 4U 1037-60
+  - 4U 1053-58
+  - AAVSO 1041-59
+  - ALS 1868
+  - CEL 3689
+  - CPC 20 3145
+  - eta Car
+  - Gaia DR2 5350358580171706624
+  - Gaia DR3 5350358584482202880
+  - GC 14799
+  - GCRV 6692
+  - GCRV 6693
+  - GPS 1043-595
+  - HD 93308
+  - HD 93308B
+  - HR 4210
+  - IRAS 10431-5925
+  - JP11 1994
+  - LLNS 2725
+  - PBC J1044.8-5942
+  - PPM 339408
+  - RAFGL 4114
+  - SAO 238429
+  - TIC 458859916
+  - TYC 8626-2809-1
+  - UCAC4 152-053215
+  - WDS J10451-5941
+  - WEB 9578
+  - η Car
+Commons_category: Eta Carinae
+spectral_class: O5.5III-O7I
+declination: -59.6844587777
 ---
 
 # [[Eta_Carinae]] 

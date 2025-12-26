@@ -3,6 +3,24 @@ aliases:
   - Kation
   - Cation
 has_id_wikidata: Q326277
+opposite_of: "[[_Standards/WikiData/WD~anion,107968]]"
+part_of:
+  - "[[_Standards/WikiData/WD~cation_transport,14884611]]"
+  - "[[_Standards/WikiData/WD~cation_transmembrane_transporter_activity,14907992]]"
+  - "[[_Standards/WikiData/WD~cation_binding,14914252]]"
+  - "[[_Standards/WikiData/WD~cellular_cation_homeostasis,21135414]]"
+  - "[[_Standards/WikiData/WD~cation_transmembrane_transport,21750224]]"
+  - "[[_Standards/WikiData/WD~cation_homeostasis,22298096]]"
+  - "[[_Standards/WikiData/WD~solute_cation_antiporter_activity,22324933]]"
+  - "[[_Standards/WikiData/WD~calcium_cation_antiporter_activity,22324938]]"
+instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+subclass_of: "[[_Standards/WikiData/WD~ion,36496]]"
+OmegaWiki_Defined_Meaning: "510"
+IEV_number: 114-01-13
+UMLS_CUI: C0007447
+Commons_category: Cations
+MeSH_tree_code: D01.248.497.300
+Dewey_Decimal_Classification: "541.372"
 ---
 
 # [[Cation]] 

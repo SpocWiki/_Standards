@@ -4,6 +4,28 @@ aliases:
   - Beringov proliv
   - Bering_Strait
 has_id_wikidata: Q11769
+named_after: "[[_Standards/WikiData/WD~Vitus_Bering,127641]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+coordinate_location: Point(-168.976944444 65.75)
+part_of:
+  - "[[_Standards/WikiData/WD~Arctic_Ocean,788]]"
+  - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Alaska,797]]"
+country: "[[_Standards/WikiData/WD~Russia,159]]"
+vertical_depth: 90
+instance_of: "[[_Standards/WikiData/WD~strait,37901]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Bering%20Strait.jpeg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bering%20Strait%20in%20its%20region.svg
+U_S_National_Archives_Identifier: "10046362"
+Commons_category: Bering Strait
+coordinates_of_geographic_center: Point(-168.88625 65.861388888)
 ---
 
 # [[Bering_Strait]] 

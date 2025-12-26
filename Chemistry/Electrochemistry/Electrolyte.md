@@ -1,6 +1,32 @@
 ---
 aliases:
 has_id_wikidata: Q162908
+instance_of: "[[_Standards/WikiData/WD~chemical_substance,79529]]"
+part_of: "[[_Standards/WikiData/WD~electrochemical_cell,80097]]"
+has_characteristic:
+  - "[[_Standards/WikiData/WD~electrical_conductor,124291]]"
+  - "[[_Standards/WikiData/WD~liquid,11435]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~solvent,146505]]"
+  - "[[_Standards/WikiData/WD~electrolyte,124131159]]"
+  - "[[_Standards/WikiData/WD~ion,36496]]"
+subclass_of: "[[_Standards/WikiData/WD~material,214609]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+different_from: "[[_Standards/WikiData/WD~electrolyte,124131159]]"
+OmegaWiki_Defined_Meaning: "1589459"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Chloralkali%20membrane.svg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Elektrolyt-article.ogg
+IEV_number: 114-01-02
+UMLS_CUI: C0013832
+MeSH_tree_code: D01.248
+Commons_category: Electrolytes
+Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/ELEKTROLITI.html
+Dewey_Decimal_Classification: "541.372"
 ---
 
 # [[Electrolyte]] 

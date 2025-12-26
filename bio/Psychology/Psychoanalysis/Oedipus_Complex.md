@@ -1,6 +1,34 @@
 ---
 aliases:
 has_id_wikidata: Q131246
+named_after: "[[_Standards/WikiData/WD~Oedipus,130890]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~concept,151885]]"
+  - "[[_Standards/WikiData/WD~idiom_derived_from_Greco_Roman_mythology,125501827]]"
+different_from:
+  - "[[_Standards/WikiData/WD~Electra_complex,324081]]"
+  - "[[_Standards/WikiData/WD~mother's_boy,1971115]]"
+  - "[[_Standards/WikiData/WD~Oedipus_complex,4529890]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~complex,679989]]"
+  - "[[_Standards/WikiData/WD~motif,1229071]]"
+  - "[[_Standards/WikiData/WD~narrative_motif,1697305]]"
+opposite_of: "[[_Standards/WikiData/WD~Jocasta_complex,6207067]]"
+part_of: "[[_Standards/WikiData/WD~psychological_terminology,77468620]]"
+time_of_discovery_or_invention: 1899-01-01T00:00:00Z
+facet_of:
+  - "[[_Standards/WikiData/WD~mother_and_son,115558860]]"
+  - "[[_Standards/WikiData/WD~psychology,9418]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Sigmund_Freud,9215]]"
+studied_by:
+  - "[[_Standards/WikiData/WD~psychology,9418]]"
+  - "[[_Standards/WikiData/WD~psychoanalysis,41630]]"
+Dewey_Decimal_Classification: "150.1952"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Oedipus%20and%20the%20Sphinx%20MET%20DP-14201-023.jpg
+UMLS_CUI: C0028885
+MeSH_tree_code: F02.739.794.653
+Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/EDIPOV_KOMPLEKS.html
+Gujarati_Vishwakosh_entry: ઈડિપસ-ગ્રંથિ-અને-ઇલેક્ટ્
 ---
 
 # [[Oedipus_Complex]] 

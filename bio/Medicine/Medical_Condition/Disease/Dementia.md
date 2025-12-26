@@ -1,6 +1,82 @@
 ---
 aliases:
 has_id_wikidata: Q83030
+health_specialty:
+  - "[[_Standards/WikiData/WD~neurology,83042]]"
+  - "[[_Standards/WikiData/WD~psychiatry,7867]]"
+risk_factor:
+  - "[[_Standards/WikiData/WD~air_pollution,131123]]"
+  - "[[_Standards/WikiData/WD~smoking,662860]]"
+  - "[[_Standards/WikiData/WD~sedentary_lifestyle,1349358]]"
+  - "[[_Standards/WikiData/WD~social_isolation,1778765]]"
+  - "[[_Standards/WikiData/WD~cranial_trauma,2920572]]"
+  - "[[_Standards/WikiData/WD~depression,4340209]]"
+  - "[[_Standards/WikiData/WD~alcohol_abuse,7331102]]"
+  - "[[_Standards/WikiData/WD~overtreatment_of_diabetes_in_older_people,128396730]]"
+  - "[[_Standards/WikiData/WD~deafness,12133]]"
+  - "[[_Standards/WikiData/WD~obesity,12174]]"
+  - "[[_Standards/WikiData/WD~diabetes,12206]]"
+  - "[[_Standards/WikiData/WD~arterial_hypertension,41861]]"
+drug_or_therapy_used_for_treatment:
+  - "[[_Standards/WikiData/WD~olanzapine,201872]]"
+  - "[[_Standards/WikiData/WD~quetiapine,408535]]"
+  - "[[_Standards/WikiData/WD~(RS)_citalopram,409672]]"
+  - "[[_Standards/WikiData/WD~aripiprazole,411188]]"
+  - "[[_Standards/WikiData/WD~rivastigmine,411887]]"
+  - "[[_Standards/WikiData/WD~memantine,412189]]"
+  - "[[_Standards/WikiData/WD~risperidone,412443]]"
+  - "[[_Standards/WikiData/WD~galantamine,412690]]"
+  - "[[_Standards/WikiData/WD~donepezil,415081]]"
+  - "[[_Standards/WikiData/WD~tacrine,421076]]"
+  - "[[_Standards/WikiData/WD~perphenazine,423520]]"
+  - "[[_Standards/WikiData/WD~dihydro_α_ergocryptine,905717]]"
+  - "[[_Standards/WikiData/WD~dihydroergocristine,5276428]]"
+  - "[[_Standards/WikiData/WD~pimavanserin,7194603]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~organic_brain_syndrome,360341]]"
+  - "[[_Standards/WikiData/WD~clinical_sign,1441305]]"
+  - "[[_Standards/WikiData/WD~cognitive_disorder,3065932]]"
+  - "[[_Standards/WikiData/WD~disability_affecting_intellectual_abilities,3317827]]"
+  - "[[_Standards/WikiData/WD~disease,12136]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+handled_mitigated_or_managed_by: "[[_Standards/WikiData/WD~prevention_of_dementia,7242391]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
+  - "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
+prevalence:
+  - 0.026
+  - 0.039
+  - 0.062
+  - 0.065
+DiseasesDB: "29283"
+OmegaWiki_Defined_Meaning: "1043985"
+ICD_9_CM:
+  - "294.1"
+  - "290.8"
+  - "294.8"
+IMDb_keyword: dementia
+subreddit: dementia
+PhilPapers_topic: dementia
+Commons_category: Dementia
+image: http://commons.wikimedia.org/wiki/Special:FilePath/An%20old%20man%20diagnosed%20as%20suffering%20from%20senile%20dementia.%20Colo%20Wellcome%20L0026689.jpg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%A1%E0%AC%BF%E0%AC%AE%E0%AD%87%E0%AC%A8%E0%AD%8D%E0%AC%B8%E0%AC%BF%E0%AC%86.wav
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Dementie-article.ogg
+exact_match:
+  - http://identifiers.org/doid/DOID:1307
+  - http://purl.obolibrary.org/obo/DOID_1307
+  - http://purl.obolibrary.org/obo/HP_0000726
+  - http://www.orpha.net/ORDO/Orphanet_89043
+UMLS_CUI:
+  - C0154319
+  - C0497327
+  - C5681447
+MeSH_tree_code:
+  - C10.228.140.380
+  - F03.615.400
+Dewey_Decimal_Classification: "362.19683"
 ---
 
 # [[Dementia]] 

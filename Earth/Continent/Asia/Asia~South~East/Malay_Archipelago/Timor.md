@@ -5,6 +5,44 @@ aliases:
   - Ilha de Timor
   - Illa Timór
 has_id_wikidata: Q83067
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Timor_Sea,131418]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Sunda_Islands,154190]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+highest_point: "[[_Standards/WikiData/WD~Tatamailau,1539961]]"
+part_of:
+  - "[[_Standards/WikiData/WD~Timor_archipelago,15060436]]"
+  - "[[_Standards/WikiData/WD~Lesser_Sunda_Islands,3803]]"
+coordinate_location:
+  - Point(125.083333333 -9.083333333)
+  - Point(124.354636111 -9.712225)
+country:
+  - "[[_Standards/WikiData/WD~Timor_Leste,574]]"
+  - "[[_Standards/WikiData/WD~Indonesia,252]]"
+instance_of: "[[_Standards/WikiData/WD~island,23442]]"
+continent: "[[_Standards/WikiData/WD~Asia,48]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Indonesia,252]]"
+width: 102
+length: 476
+elevation_above_sea_level: 2963
+area: 30777
+population: 3368735
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Timor%20island2.jpg
+name: Timor
+Commons_gallery: Timor
+Commons_category: Timor
+detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/East%20Timor%20map%20mhn.jpg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/ID%20-%20Timor.PNG
+relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Timor.png
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Timor%20banner.jpg
+U_S_National_Archives_Identifier: "10044832"
+Wolfram_Language_entity_code: Entity["Island", "Timor"]
+demonym:
+  - טימורי
+  - טימורית
 ---
 
 # [[Timor]] 

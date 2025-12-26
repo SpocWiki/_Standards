@@ -4,6 +4,33 @@ aliases:
   - Sporen
   - Spore
 has_id_wikidata: Q177332
+instance_of:
+  - "[[_Standards/WikiData/WD~cell_type,189118]]"
+  - "[[_Standards/WikiData/WD~phase_of_life,1811014]]"
+  - "[[_Standards/WikiData/WD~class_of_living_thing,55597235]]"
+opposite_of: "[[_Standards/WikiData/WD~gamete,211050]]"
+studied_by: "[[_Standards/WikiData/WD~palynology,212919]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+different_from:
+  - "[[_Standards/WikiData/WD~English_Strait,2783335]]"
+  - "[[_Standards/WikiData/WD~Q16701403,16701403]]"
+produced_by: "[[_Standards/WikiData/WD~sporangium,4832012]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~reproductive_cell,12050000]]"
+  - "[[_Standards/WikiData/WD~nonmammalian_cell,116723217]]"
+has_part_s_: "[[_Standards/WikiData/WD~spore_wall,22328087]]"
+Commons_category: Spores
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Sporic%20meiosis.svg
+MeSH_tree_code:
+  - A11.870
+  - B05.775
+UMLS_CUI: C0038027
+Dewey_Decimal_Classification:
+  - "561.13"
+  - "571.847"
 ---
 
 # [[Spore]] 

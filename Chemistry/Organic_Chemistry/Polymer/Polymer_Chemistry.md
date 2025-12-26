@@ -4,6 +4,14 @@ aliases:
   - Polymer_Chemistry
   - Polymer Chemistry
 has_id_wikidata: Q750446
+subclass_of:
+  - "[[_Standards/WikiData/WD~solid_state_chemistry,908684]]"
+  - "[[_Standards/WikiData/WD~organic_chemistry,11351]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
+  - "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
+practiced_by: "[[_Standards/WikiData/WD~polymer_chemist,111018205]]"
+Commons_category: Polymer chemistry
 ---
 
 # [[Polymer_Chemistry]] 

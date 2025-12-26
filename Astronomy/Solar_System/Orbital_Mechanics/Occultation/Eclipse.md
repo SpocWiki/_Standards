@@ -1,6 +1,33 @@
 ---
 aliases:
 has_id_wikidata: Q141022
+has_effect: "[[_Standards/WikiData/WD~shadow,160020]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~astronomical_phenomenon,751989]]"
+  - "[[_Standards/WikiData/WD~occurrence,1190554]]"
+  - "[[_Standards/WikiData/WD~syzygy,13567909]]"
+different_from: "[[_Standards/WikiData/WD~Zaćmienie,64961729]]"
+Commons_gallery: Eclipse
+U_S_National_Archives_Identifier: "10648564"
+OmegaWiki_Defined_Meaning: "501600"
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Eclipse%20banner.jpg
+schematic:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Esquema%20nodos%20eu.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Geometry%20of%20Solar%20eclipses%20and%20Lunar%20eclipses.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/The%201919%20solar%20eclipse.jpg
+RIA_Novosti_reference: "41580575"
+Colon_Classification: B9:57
+Commons_category: Eclipses
+Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/ZATMENIYA.html
+Dewey_Decimal_Classification: "523.99"
 ---
 
 # [[Eclipse]] 

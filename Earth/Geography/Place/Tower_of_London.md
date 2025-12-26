@@ -3,6 +3,78 @@ aliases:
   - Tower of London
   - Tower_of_London
 has_id_wikidata: Q62378
+Wolfram_Language_entity_code: Entity["Castle", "TowerOfLondon"]
+Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/TAUER.html
+Facebook_username: toweroflondon
+X_Twitter_username: TowerOfLondon
+OS_grid_reference: TQ3358580570
+street_address: Tower Hill, London EC3N 4AB
+has_part_s_of_the_class:
+  - "[[_Standards/WikiData/WD~moat,88480]]"
+  - "[[_Standards/WikiData/WD~inner_bailey,381634]]"
+  - "[[_Standards/WikiData/WD~outer_bailey,1401281]]"
+architectural_style: "[[_Standards/WikiData/WD~Norman_architecture,136693]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~London_Borough_of_Tower_Hamlets,208152]]"
+heritage_designation:
+  - "[[_Standards/WikiData/WD~scheduled_monument,219538]]"
+  - "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
+  - "[[_Standards/WikiData/WD~archaeological_site,839954]]"
+  - "[[_Standards/WikiData/WD~independent_museum,115154402]]"
+  - "[[_Standards/WikiData/WD~castle,23413]]"
+  - "[[_Standards/WikiData/WD~museum,33506]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Sketchfab,7534755]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]"
+  - "[[_Standards/WikiData/WD~CastlesFortsBattles,113626792]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]"
+made_from_material:
+  - "[[_Standards/WikiData/WD~Caen_stone,1421807]]"
+  - "[[_Standards/WikiData/WD~mudstone,6642424]]"
+  - "[[_Standards/WikiData/WD~rag_stone,7282754]]"
+  - "[[_Standards/WikiData/WD~Reigate_stone,63385305]]"
+has_part_s_: "[[_Standards/WikiData/WD~White_Tower,1528473]]"
+has_facility: "[[_Standards/WikiData/WD~accessible_toilet,2775009]]"
+category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q9914330,9914330]]"
+category_for_people_buried_here: "[[_Standards/WikiData/WD~Q14920101,14920101]]"
+World_Heritage_criteria:
+  - "[[_Standards/WikiData/WD~(iv),23038978]]"
+  - "[[_Standards/WikiData/WD~(ii),23038976]]"
+category_of_associated_people: "[[_Standards/WikiData/WD~Q32649077,32649077]]"
+inception: 1066-01-01T00:00:00Z
+historic_county: "[[_Standards/WikiData/WD~Middlesex,19186]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~River_Thames,19686]]"
+country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+founded_by: "[[_Standards/WikiData/WD~William_the_Conqueror,37594]]"
+commissioned_by: "[[_Standards/WikiData/WD~William_the_Conqueror,37594]]"
+owned_by: "[[_Standards/WikiData/WD~Charles_III,43274]]"
+ARCHON_code: "2919"
+social_media_followers: 95826
+National_Heritage_List_for_England_number:
+  - "1002061"
+  - "1000092"
+Commons_category: Tower of London
+Commons_Institution_page: Tower of London
+Commons_gallery: Tower of London
+native_label: Tower of London
+visitors_per_year: 2741126
+postal_code: EC3N 4AB
+coordinate_location: Point(-0.076198055 51.5082)
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Banner%20-%20London%202.jpg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Tower%20of%20London-article.ogg
+panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/Panoramic%20view%20from%20Tower%20of%20London%20cropped.jpg
+detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/PLAN%20OF%20THE%20TOWER%20OF%20LONDON.jpg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Tower%20of%20London%20viewed%20from%20the%20River%20Thames.jpg
+official_website: https://www.hrp.org.uk/tower-of-london/
+ISNI: "0000000404923259"
+P1015: "90166256"
 ---
 
 # [[Tower_of_London]] 

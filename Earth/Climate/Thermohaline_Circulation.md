@@ -4,6 +4,15 @@ aliases:
   - Thermohaline_Circulation
   - Thermohaline Circulation
 has_id_wikidata: Q463223
+class_of_object_s_of_occurrence: "[[_Standards/WikiData/WD~sea_water,184395]]"
+subclass_of: "[[_Standards/WikiData/WD~fluid_flow,12142910]]"
+Colon_Classification: U256
+Commons_category: Ocean currents
+distribution_map:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Thermohaline%20Circulation%202.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Conveyor%20belt-ru.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Conveyor%20belt.svg
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Thermohaline%20Circulation%20using%20Improved%20Flow%20Field.ogv
 ---
 
 # [[Thermohaline_Circulation]] 
@@ -16,7 +25,8 @@ has_id_wikidata: Q463223
 > driven by global density gradients formed by surface heat and freshwater fluxes. 
 > 
 > The name thermohaline is derived from thermo-, referring to temperature, 
-> and haline, referring to salt content—factors which together determine the density of sea water. 
+> and haline, referring to salt content—factors which 
+> together determine the density of sea water. 
 >
 > Wind-driven surface currents (such as the Gulf Stream) travel polewards from the equatorial Atlantic Ocean, cooling and sinking en-route to higher latitudes - eventually becoming part of the North Atlantic Deep Water - before flowing into the ocean basins. While the bulk of thermohaline water upwells in the Southern Ocean, the oldest waters (with a transit time of approximately 1000 years) upwell in the North Pacific; extensive mixing takes place between the ocean basins, reducing the difference in their densities, forming the Earth's oceans a global system. The water in these circuits transport energy - as heat - and mass - as dissolved solids and gases - around the globe. Consequently, the state of the circulation greatly impacts the climate of Earth.
 >

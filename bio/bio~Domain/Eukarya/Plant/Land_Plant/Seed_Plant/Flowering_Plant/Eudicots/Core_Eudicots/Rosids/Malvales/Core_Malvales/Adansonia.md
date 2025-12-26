@@ -4,6 +4,58 @@ aliases:
   - upside down tree
   - Adansonia
 has_id_wikidata: Q157991
+has_fruit_type: "[[_Standards/WikiData/WD~capsule,147768]]"
+taxonomic_type: "[[_Standards/WikiData/WD~Adansonia_digitata,158742]]"
+named_after: "[[_Standards/WikiData/WD~Michel_Adanson,315861]]"
+subclass_of: "[[_Standards/WikiData/WD~Bombacoideae,532007]]"
+parent_taxon: "[[_Standards/WikiData/WD~Bombacoideae,532007]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(2),112869441]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~baobab_wood,110797545]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+ITIS_TSN: "21590"
+OmegaWiki_Defined_Meaning: "428797"
+taxon_common_name:
+  - Affenbrotbaum
+  - Baobab
+  - Adido
+  - Embondeiro
+  - Imbondeiro
+  - Baobab
+  - Baobab
+  - Baobab
+  - ɔdadeɛ
+  - Nsirasun
+  - Baobabo
+  - Apinanleipäpuut
+  - Baobabas
+  - Baobab
+  - Baobá
+  - Calabaceira
+  - kruhovec
+  - Баобаб
+  - Baobab
+  - باؤباب
+  - 猴面包树属
+  - 猴麵包樹
+  - 猴面包树属
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Baobab%20Adansonia%20digitata.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Baobob%20tree.jpg
+GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=167
+EPPO_Code: 1AADG
+Commons_gallery: Adansonia
+Commons_category: Adansonia
+taxon_name: Adansonia
+MeSH_tree_code: B01.875.800.575.912.250.859.821.500.108
+UMLS_CUI: C1084996
 ---
 
 # [[Adansonia]] 

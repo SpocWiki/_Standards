@@ -4,6 +4,66 @@ aliases:
   - Cyg X-1
   - Cygnus_X-1
 has_id_wikidata: Q332674
+instance_of:
+  - "[[_Standards/WikiData/WD~high_mass_X_ray_binary,845169]]"
+  - "[[_Standards/WikiData/WD~near_IR_source,67206785]]"
+  - "[[_Standards/WikiData/WD~variable_star,6243]]"
+  - "[[_Standards/WikiData/WD~binary_star,50053]]"
+different_from: "[[_Standards/WikiData/WD~Cygnus_X_3,1147725]]"
+type_of_variable_star: "[[_Standards/WikiData/WD~rotating_ellipsoidal_variable,1332364]]"
+declination: 35.20160680908
+right_ascension: 299.59031556498
+right_ascension_component_of_proper_motion: -3.812
+constellation: "[[_Standards/WikiData/WD~Cygnus,8921]]"
+declination_component_of_proper_motion: -6.31
+absolute_magnitude: -6.5
+radial_velocity: -2.7
+age_estimated_by_a_dating_method: 5000000
+radius: 21
+effective_temperature: 31000
+luminosity: 105
+stellar_rotational_velocity: 106
+mass: 14.8
+apparent_magnitude: 8.91
+parallax: 0.4439
+distance_from_Earth: 2252.76
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Chandra%20image%20of%20Cygnus%20X-1.jpg
+catalog_code:
+  - 1RXS J195821.9+351156
+  - 1XRS 19564+350
+  - 2MASS J19582166+3512057
+  - 2U 1956+35
+  - 3A 1956+350
+  - 3U 1956+35
+  - 4U 1956+35
+  - AAVSO 1954+34
+  - AG+35 1910
+  - ALS 10678
+  - BD+34 3815
+  - CGO 548
+  - Gaia DR2 2059383668236814720
+  - Gaia DR3 2059383668236814720
+  - GCRV 12319
+  - GOS G071.34+03.07 01
+  - GSC 02678-00791
+  - HD 226868
+  - HIC 98298
+  - HIP 98298
+  - INTREF 1001
+  - PBC J1958.3+3512
+  - PPM 83929
+  - SAO 69181
+  - SBC7 776
+  - SBC9 1193
+  - TIC 102604645
+  - TYC 2678-791-1
+  - UBV 17047
+  - UBV M 27507
+  - uvby98 100226868
+  - V1357 Cyg
+  - WEB 17338
+Commons_category: Cygnus X-1
+spectral_class: O9.7Iabpvar
 ---
 
 # [[Cygnus_X-1]] 

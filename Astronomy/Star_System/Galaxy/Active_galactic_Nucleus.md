@@ -3,6 +3,17 @@ aliases:
   - Active_galactic_Nucleus
   - Active galactic Nucleus
 has_id_wikidata: Q46587
+part_of:
+  - "[[_Standards/WikiData/WD~galactic_bulge,854155]]"
+  - "[[_Standards/WikiData/WD~active_galaxy,130640765]]"
+instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
+subclass_of: "[[_Standards/WikiData/WD~galaxy,318]]"
+short_name:
+  - AGN
+  - АЯГ
+  - NAG
+Dewey_Decimal_Classification: "523.112"
+Commons_category: Active galactic nuclei
 ---
 
 # [[Active_galactic_Nucleus]] 

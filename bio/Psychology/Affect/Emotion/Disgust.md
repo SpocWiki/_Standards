@@ -3,6 +3,19 @@ aliases:
   - Ekel
   - Disgust
 has_id_wikidata: Q208351
+studied_by: "[[_Standards/WikiData/WD~theory_of_emotion,9357054]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~basic_emotion,16748867]]"
+  - "[[_Standards/WikiData/WD~negative_emotion,60539481]]"
+opposite_of: "[[_Standards/WikiData/WD~attraction,24238252]]"
+part_of: "[[_Standards/WikiData/WD~psychological_terminology,77468620]]"
+has_cause: "[[_Standards/WikiData/WD~disapproval,108899640]]"
+OmegaWiki_Defined_Meaning: "1044495"
+Commons_category: Disgust
+Dewey_Decimal_Classification: "152.4"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Expression%20of%20the%20Emotions%20Plate%20V%2C%202%2B3.jpg
+UMLS_CUI: C0683283
+MeSH_tree_code: F01.470.307
 ---
 
 # [[Disgust]] 

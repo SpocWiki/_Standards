@@ -5,6 +5,14 @@ aliases:
   - Circumstellar_habitable_Zone
   - Circumstellar habitable Zone
 has_id_wikidata: Q215913
+part_of: "[[_Standards/WikiData/WD~planetary_system,206717]]"
+subclass_of: "[[_Standards/WikiData/WD~zone,219858]]"
+instance_of: "[[_Standards/WikiData/WD~zone,219858]]"
+has_characteristic:
+  - "[[_Standards/WikiData/WD~Habitability,21012180]]"
+  - "[[_Standards/WikiData/WD~liquid_water,29053744]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Kepler-22%20diagram.jpg
+Commons_category: Habitable zone
 ---
 # [[Circumstellar_habitable_Zone]] 
 

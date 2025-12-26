@@ -5,6 +5,22 @@ aliases:
   - El Nino
   - El_Niño
 has_id_wikidata: Q7939
+opposite_of: "[[_Standards/WikiData/WD~La_Niña,642867]]"
+connects_with:
+  - "[[_Standards/WikiData/WD~Southern_Oscillation,1423047]]"
+  - "[[_Standards/WikiData/WD~El_Niño_Current,19949840]]"
+different_from: "[[_Standards/WikiData/WD~El_Niño,3050124]]"
+part_of: "[[_Standards/WikiData/WD~El_Niño_southern_oscillation,14524818]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+subclass_of: "[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]"
+OmegaWiki_Defined_Meaning: "671675"
+Commons_category: El Niño
+video:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/El%20Ni%C3%B1o%20%E2%80%93%20WMO%20animated%20explainer%20video.webm
+  - http://commons.wikimedia.org/wiki/Special:FilePath/El%20Ni%C3%B1o%20%E2%80%93%20WMO%20animated%20explainer%20video%20%28Spanish%29.webm
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wetterph%C3%A4nomen%20El%20Ni%C3%B1o%20-%20kurzerkl%C3%A4rt.webm
+image: http://commons.wikimedia.org/wiki/Special:FilePath/ENSO%20-%20El%20Ni%C3%B1o.svg
 ---
 # [[El_Niño]] 
 

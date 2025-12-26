@@ -1,6 +1,18 @@
 ---
 aliases:
 has_id_wikidata: Q1048687
+part_of: "[[_Standards/WikiData/WD~muscular_system,7060553]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~striated_muscle_tissue_development,14860179]]"
+  - "[[_Standards/WikiData/WD~muscle,7365]]"
+MeSH_tree_code:
+  - A02.633.567
+  - A10.690.552.500
+UMLS_CUI: C1522259
+Terminologia_Histologica: H2.00.05.2.00002
+Commons_category: Skeletal muscle
+native_label: muscularis striatus skeletalis
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Blausen%200801%20SkeletalMuscle.png
 ---
 
 # [[Skeletal_striated_Muscle]] 

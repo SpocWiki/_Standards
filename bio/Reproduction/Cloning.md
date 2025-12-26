@@ -5,6 +5,45 @@ aliases:
   - Clone
   - Cloning
 has_id_wikidata: Q120877
+Library_of_Congress_Classification: QH442.2
+Dewey_Decimal_Classification: "571.89"
+model_item: "[[_Standards/WikiData/WD~Dolly_the_Sheep,171433]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~asexual_reproduction,173432]]"
+  - "[[_Standards/WikiData/WD~kindred,1313923]]"
+  - "[[_Standards/WikiData/WD~artificial_reproduction,4115658]]"
+different_from: "[[_Standards/WikiData/WD~Cloning,531838]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+instance_of: "[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803]]"
+OmegaWiki_Defined_Meaning: "618"
+schematic:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Clonagem%20portugues.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Clonazione.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Cloning.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Cloning%20diagram%20deutsch.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Cloning%20diagram%20french.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Cloning%20diagram%20NL.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Cloning%20Diagram%20PL.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Cloning%20diagram%20ukr.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Dolly%20clone.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Dolly%20clone%20hi.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Experimento-gurdon.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Pyrenean%20ibex%20Cloning-ru.jpg
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Cloned%20mice%20with%20different%20DNA%20methylation.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Human%20cell-line%20colony%20being%20cloned%20in%20vitro%20through%20use%20of%20cloning%20rings.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Salvia-mothers-and-daughters.JPG
+equivalent_class: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/94760
+Krugosvet_article_archived_: biologiya/klonirovanie
+UMLS_CUI: C0009015
+PhilPapers_topic: cloning
+Commons_category: Cloning
+DPLA_subject_term:
+  - Cloning
+  - Cloning, Organism
+MeSH_tree_code:
+  - E05.393.240
+  - E05.820.180
 ---
 
 # [[Cloning]] 

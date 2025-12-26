@@ -2,7 +2,29 @@
 aliases:
   - Taxonomy
 has_id_wikidata: Q7211
+different_from:
+  - "[[_Standards/WikiData/WD~Q324254,324254]]"
+  - "[[_Standards/WikiData/WD~taxonomy,8269924]]"
+  - "[[_Standards/WikiData/WD~thesaurus_(IR),17152639]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+opposite_of: "[[_Standards/WikiData/WD~meronomy,2465551]]"
+main_subject: "[[_Standards/WikiData/WD~knowledge_representation_and_reasoning,3478658]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~classification_scheme,5962346]]"
+  - "[[_Standards/WikiData/WD~hierarchical_classification,17625380]]"
+based_on: "[[_Standards/WikiData/WD~taxonomy,8269924]]"
+OmegaWiki_Defined_Meaning: "3718"
+identifiers_org_prefix: taxonomy
+Commons_category: Taxonomy
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Hierarchical%20clustering%20simple%20diagram.svg
+exact_match:
+  - http://purl.org/spar/fabio/Taxonomy
+  - http://w3id.org/nkos/nkostype#taxonomy
 ---
+
+# [[Taxonomy]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~taxonomy,7211]] 
 

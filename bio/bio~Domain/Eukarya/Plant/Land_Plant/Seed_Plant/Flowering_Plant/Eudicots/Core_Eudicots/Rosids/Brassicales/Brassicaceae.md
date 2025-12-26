@@ -2,7 +2,106 @@
 aliases:
   - Cruciferae
   - Brassicaceae
+  - cabbage family
+  - mustards
 has_id_wikidata: Q156888
+taxon_common_name:
+  - Korsblomst-familien
+  - Kreuzblütengewächse
+  - Cabbage Family
+  - Crucifers
+  - Mustard family
+  - Brasikacoj
+  - Kruciferacoj
+  - Brasicáceas
+  - Crucíferas
+  - Ristõielised
+  - شببویان
+  - Ristikukkaiskasvit
+  - Brassicacées
+  - Krüsbloosen
+  - Brasicáceas
+  - ब्रैसिकेसी
+  - Krstašice
+  - Křižnokwětne rostliny
+  - Káposztafélék
+  - խաչածաղկավորներ
+  - Կաղամբազգիներ
+  - Suku kubis-kubisan
+  - Krossblómaætt
+  - crocifere
+  - アブラナ科
+  - ჯვაროსნები
+  - Орамжапырақ тұқымдасы
+  - 배추과
+  - Famîleya selketûran
+  - Bastutiniai augalai
+  - Krustziežu (kāpostu) dzimta
+  - Зелки
+  - ബ്രാസ്സിക്കേസീ
+  - Korsblomstfamilien
+  - Kruisbloemenfamilie
+  - Krossblomfamilien
+  - kapustowate
+  - سروں دا ٹبر
+  - brassicáceas
+  - crucíferas
+  - Chakana tuktuyuq rikch'aq ayllu
+  - brassicaceele
+  - cruciferele
+  - Капустные
+  - Krīžmažėidē augalā
+  - Krstašice
+  - kapustovité
+  - križnice
+  - Kupusnjače
+  - Korsblommiga växter
+  - బ్రాసికేసి
+  - วงศ์ผักกาด
+  - Turpgiller
+  - Капустяні
+  - Họ Cải
+  - Kruusblommign
+  - Cabutreces
+  - מצליבים
+  - 十字花科
+  - كرنبية
+  - brasicacees
+  - crucíferas
+  - Kələmçiçəyikimilər
+  - Кәбеҫтә һымаҡтар
+  - Капуставыя
+  - Кръстоцветни
+  - Brassicàcia
+  - brukvovité
+Dewey_Decimal_Classification: "583.64"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+has_fruit_type: "[[_Standards/WikiData/WD~silicle,3361146]]"
+has_list: "[[_Standards/WikiData/WD~list_of_Brassicaceae,12480245]]"
+subclass_of: "[[_Standards/WikiData/WD~plant,756]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+parent_taxon: "[[_Standards/WikiData/WD~Brassicales,21904]]"
+taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
+taxonomic_type: "[[_Standards/WikiData/WD~Brassica,58677]]"
+ITIS_TSN: "22669"
+Montana_Plant_Life_URL: http://montana.plant-life.org/cgi-bin/family03.cgi?Brassicaceae
+Commons_category: Brassicaceae
+taxon_name: Brassicaceae
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Barbarea%20vulgaris1.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Choux-fleurs%20de%20toutes%20les%20couleurs.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Eruca%20February%202008-1.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Mustardgreensraw.jpg
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Brassica%20flowerdiagram.png
+GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=166
+OmegaWiki_Defined_Meaning: "1504933"
+EPPO_Code: 1CRUF
+MeSH_tree_code: B01.875.800.575.912.250.157
+Krugosvet_article_archived_: biologiya/krestocvetnye
+NBN_System_Key: NBNSYS0000002798
 ---
 
 # [[Brassicaceae]] 

@@ -4,6 +4,9 @@ aliases:
   - Double_Displacement_Reaction
   - Double Displacement Reaction
 has_id_wikidata: Q13533728
+different_from: "[[_Standards/WikiData/WD~inversion,23010680]]"
+subclass_of: "[[_Standards/WikiData/WD~chemical_reaction,36534]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Golden%20rain%20demonstration.jpg
 ---
 
 # [[Double_Displacement_Reaction]] 

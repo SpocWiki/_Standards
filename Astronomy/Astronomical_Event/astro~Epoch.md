@@ -3,6 +3,12 @@ aliases:
   - Epoch
   - astro~Epoch
 has_id_wikidata: Q2703
+subclass_of: "[[_Standards/WikiData/WD~epoch,507810]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+instance_of: "[[_Standards/WikiData/WD~astronomical_concepts,22337463]]"
+main_Wikidata_property: epoch
 ---
 
 # [[astro~Epoch]] 

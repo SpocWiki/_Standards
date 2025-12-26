@@ -3,6 +3,55 @@ aliases:
   - Gedächtnis
   - Memory
 has_id_wikidata: Q492
+video:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Comment%20fonctionne%20notre%20m%C3%A9moire.webm
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Come%20funziona%20la%20nostra%20memoria.webm
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wie%20funktioniert%20unser%20Ged%C3%A4chtnis.webm
+different_from:
+  - "[[_Standards/WikiData/WD~Memory_(littoral_meaning),228636]]"
+  - "[[_Standards/WikiData/WD~computer_memory,5830907]]"
+  - "[[_Standards/WikiData/WD~memory,104127086]]"
+  - "[[_Standards/WikiData/WD~memory,110224124]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+instance_of: "[[_Standards/WikiData/WD~cognitive_process,781413]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Q10703806,10703806]]"
+  - "[[_Standards/WikiData/WD~Template_Memory,12433042]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~creation,11398090]]"
+  - "[[_Standards/WikiData/WD~short_term_memory,18599]]"
+  - "[[_Standards/WikiData/WD~long_term_memory,18601]]"
+  - "[[_Standards/WikiData/WD~explicit_memory,18608]]"
+  - "[[_Standards/WikiData/WD~implicit_memory,18614]]"
+  - "[[_Standards/WikiData/WD~recall,18733]]"
+subclass_of: "[[_Standards/WikiData/WD~learning_or_memory,14819853]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+has_characteristic: "[[_Standards/WikiData/WD~memory_type,27555265]]"
+has_effect: "[[_Standards/WikiData/WD~memory,104127086]]"
+studied_by: "[[_Standards/WikiData/WD~memory_and_attention,110620109]]"
+Commons_category: Memory
+Library_of_Congress_Classification: QP406
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Human%20brain%20NIH.png
+IMDb_keyword: memory
+PhilPapers_topic: memory
+exact_match: http://purl.obolibrary.org/obo/GO_0007613
+Stack_Exchange_tag: https://psychology.stackexchange.com/tags/memory
+Dewey_Decimal_Classification:
+  - "128.3"
+  - "153.12"
+  - "370.1522"
+  - "612.823312"
+Iconclass_notation: 52A3
+MeSH_tree_code: F02.463.425.540
+Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/PAMYAT.html
+Colon_Classification: S:43
 ---
 
 # [[Memory]] 

@@ -1,7 +1,68 @@
 ---
 aliases:
   - Balkans
+  - Balkan
 has_id_wikidata: Q23522
+Colon_Classification: SG--592
+MeSH_tree_code: Z01.542.101
+demonym: Balcánach
+coordinate_location: Point(22.0 42.0)
+instance_of:
+  - "[[_Standards/WikiData/WD~region,82794]]"
+  - "[[_Standards/WikiData/WD~historical_region,1620908]]"
+  - "[[_Standards/WikiData/WD~cultural_region,3502482]]"
+  - "[[_Standards/WikiData/WD~peninsula,34763]]"
+named_after: "[[_Standards/WikiData/WD~Balkan_Mountains,170427]]"
+highest_point: "[[_Standards/WikiData/WD~Musala_(peak),209341]]"
+part_of: "[[_Standards/WikiData/WD~Southeast_Europe,263686]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southeast_Europe,263686]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q42351355,42351355]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~Greece,41]]"
+  - "[[_Standards/WikiData/WD~Slovenia,215]]"
+  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
+  - "[[_Standards/WikiData/WD~Albania,222]]"
+  - "[[_Standards/WikiData/WD~North_Macedonia,221]]"
+  - "[[_Standards/WikiData/WD~Croatia,224]]"
+  - "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
+  - "[[_Standards/WikiData/WD~Montenegro,236]]"
+located_in_or_next_to_body_of_water:
+  - "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
+  - "[[_Standards/WikiData/WD~Adriatic_Sea,13924]]"
+  - "[[_Standards/WikiData/WD~Black_Sea,166]]"
+  - "[[_Standards/WikiData/WD~Aegean_Sea,34575]]"
+  - "[[_Standards/WikiData/WD~Ionian_Sea,37495]]"
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
+area: 470000
+different_from: "[[_Standards/WikiData/WD~Baltic_states,39731]]"
+OmegaWiki_Defined_Meaning: "1019655"
+BHCL_UUID:
+  - 85dc6fe2-df83-4dbd-b89b-857822a1172a
+  - 4827b756-864a-4438-b631-30d05aee01fb
+  - a62705ab-ef5a-476a-ba61-0445ddd87837
+Basisklassifikation: "15.70"
+Commons_category: Balkans
+Commons_gallery: Balkans
+locator_map_image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Balkan%20topo%20en.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Balkans-political1.png
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Balkan-range-satellite.jpg
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Balkans%20culture%20collage.jpg
+detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Geographic%20map%20of%20Balkan%20Peninsula.svg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Mostar%20bridge%20banner.jpg
+U_S_National_Archives_Identifier: "10045631"
+Libris_URI: 97mpn0nt37c7dxq
+booru_tag: balkans
+UMLS_CUI: C3494471
 ---
 
 # [[Balkans]] 
@@ -12,6 +73,7 @@ has_id_wikidata: Q23522
 
 > The **Balkans** ( BAWL-kənz,  BOL-kənz), corresponding partially with the Balkan Peninsula, 
 > is a geographical area in southeastern Europe with various geographical and historical definitions. 
+> 
 > The region takes its name from the Balkan Mountains that stretch throughout the whole of Bulgaria. 
 > 
 > The term has acquired a stigmatized and pejorative meaning related to the process of Balkanization. 

@@ -3,12 +3,34 @@ aliases:
   - Amazon_Rainforest
   - Amazon Rainforest
 has_id_wikidata: Q177567
+instance_of: "[[_Standards/WikiData/WD~tropical_forest,199403]]"
+location: "[[_Standards/WikiData/WD~Amazonia,2841453]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Amazon_Rainforest,15584566]]"
+different_from: "[[_Standards/WikiData/WD~Panamazonia,62096465]]"
+coordinate_location: Point(-60.03 -3.16)
+country:
+  - "[[_Standards/WikiData/WD~Peru,419]]"
+  - "[[_Standards/WikiData/WD~Venezuela,717]]"
+  - "[[_Standards/WikiData/WD~Suriname,730]]"
+  - "[[_Standards/WikiData/WD~Guyana,734]]"
+  - "[[_Standards/WikiData/WD~Colombia,739]]"
+  - "[[_Standards/WikiData/WD~Ecuador,736]]"
+  - "[[_Standards/WikiData/WD~Bolivia,750]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~Brazil,155]]"
+continent: "[[_Standards/WikiData/WD~Americas,828]]"
+part_of: "[[_Standards/WikiData/WD~South_America,18]]"
+population: 34000000
+area: 6900000
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Amazon%20Manaus%20forest.jpg
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Amazon%20Rainforest%20Brazil%20Google%20Earth%20Timelapse%201984-2018.webm
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Amazonia%20Wikivoyage%20Banner.jpg
+Commons_category: Amazon Rainforest
 ---
 
 # [[Amazon_Rainforest]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Amazon_rainforest,177567|WD~Amazon_rainforest,177567]] 
-
 
 ## #has_/text_of_/abstract 
 
