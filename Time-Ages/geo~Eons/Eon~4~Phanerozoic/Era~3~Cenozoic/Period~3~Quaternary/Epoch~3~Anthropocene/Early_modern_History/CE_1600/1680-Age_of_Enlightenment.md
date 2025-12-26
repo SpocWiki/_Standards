@@ -7,31 +7,31 @@ aliases:
 has_id_wikidata: Q12539
 Commons_category: Age of Enlightenment
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-different_from: '[[_Standards/WikiData/WD~Q253669,253669]]'
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
+different_from: "[[_Standards/WikiData/WD~Q253669,253669]]"
 end_time: 1820-01-01T00:00:00Z
-followed_by: '[[_Standards/WikiData/WD~French_Romanticism,27301872]]'
+followed_by: "[[_Standards/WikiData/WD~French_Romanticism,27301872]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Haskalah,472670]]'
-  - '[[_Standards/WikiData/WD~Scottish_Enlightenment,1063038]]'
-  - '[[_Standards/WikiData/WD~Russian_Enlightenment,3560581]]'
-  - '[[_Standards/WikiData/WD~Enlightenment_in_Poland,3796477]]'
-  - '[[_Standards/WikiData/WD~American_Enlightenment,4064242]]'
-  - '[[_Standards/WikiData/WD~French_Enlightenment,20574959]]'
-influenced_by: '[[_Standards/WikiData/WD~renaissance_humanism,846933]]'
-instance_of: '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
+  - "[[_Standards/WikiData/WD~Haskalah,472670]]"
+  - "[[_Standards/WikiData/WD~Scottish_Enlightenment,1063038]]"
+  - "[[_Standards/WikiData/WD~Russian_Enlightenment,3560581]]"
+  - "[[_Standards/WikiData/WD~Enlightenment_in_Poland,3796477]]"
+  - "[[_Standards/WikiData/WD~American_Enlightenment,4064242]]"
+  - "[[_Standards/WikiData/WD~French_Enlightenment,20574959]]"
+influenced_by: "[[_Standards/WikiData/WD~renaissance_humanism,846933]]"
+instance_of: "[[_Standards/WikiData/WD~cultural_movement,2198855]]"
 Krugosvet_article: istoriya/EPOHA_PROSVESHCHENIYA.html
-location: '[[_Standards/WikiData/WD~Western_Europe,27496]]'
+location: "[[_Standards/WikiData/WD~Western_Europe,27496]]"
 P8189: 987007548261505200
 start_time: 1700-01-01T00:00:00Z
 subject_named_as: Aufklärung
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Age_of_Enlightenment,10962287]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Age_of_Enlightenment,10962287]]"
 ---
 
-# [[Age_of_Enlightenment]] 
+# [[1680-Age_of_Enlightenment]] 
 
 #has_/time_/started :: 1680-06 
 #has_/time_/stopped ::  1840-06

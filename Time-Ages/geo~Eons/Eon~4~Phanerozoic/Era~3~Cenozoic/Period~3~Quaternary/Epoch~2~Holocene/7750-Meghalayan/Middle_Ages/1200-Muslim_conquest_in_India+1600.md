@@ -1,6 +1,8 @@
 ---
 aliases:
+  - Muslim conquests in India
 has_id_wikidata: Q2566899
+instance_of: "[[_Standards/WikiData/WD~conquest,1361229]]"
 ---
 
 # [[1200-Muslim_conquest_in_India+1600]] 
