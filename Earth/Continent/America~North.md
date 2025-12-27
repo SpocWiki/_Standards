@@ -4,6 +4,12 @@ aliases:
   - North_America
   - America~North
 has_id_wikidata: Q49
+coordinates_of_easternmost_point: Point(-52.619444444 47.523611111)
+coordinates_of_northernmost_point: Point(-69.958333333 83.111388888)
+coordinates_of_southernmost_point: Point(-80.885555555 7.211666666)
+coordinates_of_westernmost_point: Point(172.437080555 52.921119444)
+coordinate_location: Point(-105.0 47.0)
+location: [ 47.0, -105.0] 
 Archive_of_Our_Own_tag: North America
 area: 24930000
 Basisklassifikation: 74.25
@@ -40,11 +46,6 @@ contains_the_administrative_territorial_entity:
   - '[[_Standards/WikiData/WD~Belize,242]]'
   - '[[_Standards/WikiData/WD~Cuba,241]]'
   - '[[_Standards/WikiData/WD~Barbados,244]]'
-coordinates_of_easternmost_point: Point(-52.619444444 47.523611111)
-coordinates_of_northernmost_point: Point(-69.958333333 83.111388888)
-coordinates_of_southernmost_point: Point(-80.885555555 7.211666666)
-coordinates_of_westernmost_point: Point(172.437080555 52.921119444)
-coordinate_location: Point(-105.0 47.0)
 demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_North_America,105743111]]'
 described_by_source:
   - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
@@ -136,15 +137,15 @@ Wolfram_Language_entity_code: Entity["HistoricalCountry", "NorthAmerica"]
 ## #has_/map 
 
 ```leaflet
-id: North-America
-minZoom: 4 
+id: America~North
+minZoom: 2 
 maxZoom: 18
-defaultZoom: 4
+defaultZoom: 3
 geojsonFolder: ./America~North/
 markerFolder: ./America~North/
-zoomFeatures: true 
-long: -100
-lat: 45
+coordinates: [[America~North]] 
+markerFile: [[America~North]] 
+zoomFeatures: false
 ```
 
 [name-en::North America]

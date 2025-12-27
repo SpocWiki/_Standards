@@ -8,6 +8,16 @@ confidential_: public
 icon: flag-eu
 isDeleted: false
 SpocWebEntityId: 1111
+location: [ 48.690959, 9.14062]
+coordinates_of_easternmost_point: Point(41.0 56.0)
+coordinates_of_westernmost_point: Point(-10.0 52.0)
+coordinates_of_southernmost_point: Point(-6.0 36.0)
+coordinates_of_northernmost_point: Point(24.0 71.0)
+population: 744094971
+time_of_discovery_or_invention:
+  - -200000-06
+  - -1200000-06
+coordinate_location: Point(9.14062 48.690959)
 tags:
   - geo/Continent
 type: Continent
@@ -69,12 +79,6 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Europe,7112259]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q20820598,20820598]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~Europe_as_a_continent,92076511]]'
-coordinates_of_easternmost_point: Point(41.0 56.0)
-coordinates_of_westernmost_point: Point(-10.0 52.0)
-time_of_discovery_or_invention:
-  - -200000-06
-  - -1200000-06
-coordinate_location: Point(9.14062 48.690959)
 most_populous_urban_area: '[[_Standards/WikiData/WD~Istanbul,406]]'
 lowest_point: '[[_Standards/WikiData/WD~Caspian_Sea,5484]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
@@ -154,9 +158,6 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Vatican%20banner
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20orthographic%20Caucasus%20Urals%20boundary%20%28with%20borders%29.svg
 Dewey_Decimal_Classification: 2--4
 Stack_Exchange_tag: https://opendata.stackexchange.com/tags/europe
-coordinates_of_southernmost_point: Point(-6.0 36.0)
-population: 744094971
-coordinates_of_northernmost_point: Point(24.0 71.0)
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20countries%20map%20en%202.png
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20laea%20location%20map.svg
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20relief%20laea%20location%20map.jpg
@@ -186,6 +187,26 @@ Most European Countries have joined the [[Europe/EU(European_Union)]].
 which started out as an the [[European_Coal_and_Steel_Community]] (Montan-Union)
 after WW2 and developed into the Economic Union, which merged with other european Agencies into the [[Europe/EU(European_Union)]], 
 which now largely represents Europe. 
+
+
+## #has_/map 
+
+```leaflet
+id: Europe
+zoomFeatures: true 
+defaultZoom: 3
+minZoom: 3 
+maxZoom: 18
+long = 0
+lat = 50
+geojsonFolder: ./Europe//
+markerFolder: ./Europe/City/
+```
+
+[name-en::Europe]
+[name-de::Europa]
+[ #has_/code  :: EU ]
+
 
 ## #has_/text_of_/abstract 
 
@@ -282,25 +303,6 @@ which now largely represents Europe.
 > they are considered to be the second-largest democratic elections in the world after India's. The EU is the third-largest economy in the world.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Europe)
-
-
-## #has_/map 
-
-```leaflet
-id: Europe
-zoomFeatures: true 
-defaultZoom: 4
-minZoom: 4 
-maxZoom: 18
-long = 0
-lat = 50
-geojsonFolder: ./Europe//
-markerFolder: ./Europe/City/
-```
-
-[name-en::Europe]
-[name-de::Europa]
-[ #has_/code  :: EU ]
 
 ## #has_/image_for_/flag 
 

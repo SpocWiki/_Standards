@@ -4,6 +4,10 @@ aliases:
 confidential: public
 isDeleted: false
 SpocWebEntityId: 27157
+location:
+- -30
+- 145
+
 tags:
   - geo/Continent
 type: Continent
@@ -29,9 +33,9 @@ maxZoom: 18
 defaultZoom: 3
 geojsonFolder: ./Australasia//
 markerFolder: ./Australasia//
+coordinates: [[Australasia]] 
+markerFile: [[Australasia]] 
 zoomFeatures: false 
-long: 145
-lat: -30
 ```
 
 [name-en::Australia]
