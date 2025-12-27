@@ -31,11 +31,13 @@ title: Verträglichkeit
 type: private_note
 ---
 
-# [[Big5~Agreeableness]] 
+# [[Big5~A-Agreeableness]] 
 
 #is_/part_of :: [[../Personality~Big5]] 
 
 amicability or agreeableness (A) measures kindness, helpfulness, and willingness to cooperate.  
+HEXACO Agreeableness emphasizes forgiveness, patience, and tolerance.  
+Big Five Agreeableness emphasizes kindness and cooperation.
 
 ## #has_/text_of_/abstract 
 
@@ -68,7 +70,7 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Big5~Agreeableness](/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Agreeableness.md) 
+### #is_/same_as :: [Big5~A-Agreeableness](Big5~A-Agreeableness.md) 
 
 ### #is_/same_as :: [Big5~Agreeableness.public](/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Agreeableness.public.md) 
 
