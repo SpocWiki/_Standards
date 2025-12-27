@@ -1,0 +1,8 @@
+﻿<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path fill="gold" d="M0 0h300v200H0z"/>
+  <g transform="matrix(.25015 0 0 .25015 150 100)" stroke="#bf0a30">
+    <path id="a" d="M164.75226 38.281583h-329.50451m356.12916-25.531455h-382.75382m382.75305-25.500255h-382.75228m356.12839-25.531455h-329.5045" stroke-linecap="round" stroke-width="17.0002"/>
+    <use transform="rotate(90)" xlink:href="#a"/>
+    <circle r="61.542633" fill="gold" stroke-width="10.1674"/>
+  </g>
+</svg>
