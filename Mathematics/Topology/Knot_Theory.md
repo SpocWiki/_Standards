@@ -1,6 +1,25 @@
 ---
 aliases:
 has_id_wikidata: Q849798
+is_the_study_of:
+  - "[[_Standards/WikiData/WD~knot,1188853]]"
+  - "[[_Standards/WikiData/WD~link,1760728]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~branch_of_mathematics,1936384]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+subclass_of: "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Knot_theory,20320993]]"
+part_of: "[[_Standards/WikiData/WD~topology,42989]]"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/6%E2%82%82%20knot%20and%20corresponding%20surface.webm
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Gwegwefewc.tif
+Stack_Exchange_tag:
+  - https://math.stackexchange.com/tags/knot-theory
+  - https://mathoverflow.net/tags/knot-theory
+Commons_category: Knot theory
+GitHub_topic: knot-theory
+Dewey_Decimal_Classification: "514.2242"
 ---
 
 # [[Knot_Theory]] 

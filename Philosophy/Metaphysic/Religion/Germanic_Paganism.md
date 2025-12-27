@@ -4,6 +4,14 @@ aliases:
   - Germanic_Paganism
   - Germanic Paganism
 has_id_wikidata: Q1122452
+part_of: "[[_Standards/WikiData/WD~Germanic_mythology,1009917]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~Germanic_religion,5551929]]"
+  - "[[_Standards/WikiData/WD~paganism,29536]]"
+instance_of: "[[_Standards/WikiData/WD~religion,9174]]"
+practiced_by: "[[_Standards/WikiData/WD~Germanic_people,22633]]"
+Dewey_Decimal_Classification: "293"
+Commons_category: Germanic mythology
 ---
 
 # [[Germanic_Paganism]] 

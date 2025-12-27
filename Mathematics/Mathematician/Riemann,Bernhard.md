@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Georg Friedrich Bernhard Riemann
   - Bernhard Riemann
   - Riemann,Bernhard
 has_id_wikidata: Q42299
@@ -102,6 +103,9 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Bernhard_Riemann,10658
 writing_language: '[[_Standards/WikiData/WD~German,188]]'
 ---
 
+# [[Riemann,Bernhard]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Bernhard_Riemann,42299|WD~Bernhard_Riemann,42299]] 
 
 #has_/time_/started :: 1826-09-17
 #has_/time_/stopped :: 1866-07-20
@@ -112,11 +116,14 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 > Georg Friedrich **Bernhard Riemann** (German: [ˈɡeːɔʁk ˈfʁiːdʁɪç ˈbɛʁnhaʁt ˈʁiːman] ; 
 > 17 September 1826 – 20 July 1866) was a German mathematician 
 > who made profound contributions to analysis, number theory, and differential geometry. 
-> In the field of real analysis, he is mostly known for the 
-> first rigorous formulation of the integral, the Riemann integral, and his work on Fourier series. 
-> His contributions to complex analysis include most notably the 
-> introduction of Riemann surfaces, breaking new ground 
-> in a natural, geometric treatment of complex analysis. 
+> 
+> In the field of real analysis, he is mostly known for 
+> the first rigorous formulation of the integral, the Riemann integral, 
+> and his work on Fourier series. 
+> 
+> His contributions to complex analysis include most notably 
+> the introduction of Riemann surfaces, 
+> breaking new ground in a natural, geometric treatment of complex analysis. 
 > 
 > His 1859 paper on the prime-counting function, 
 > containing the original statement of the Riemann hypothesis, 

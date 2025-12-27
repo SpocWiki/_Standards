@@ -1,6 +1,27 @@
 ---
 aliases:
 has_id_wikidata: Q368498
+has_part_s_: "[[_Standards/WikiData/WD~religious_experience,143210]]"
+is_the_study_of:
+  - "[[_Standards/WikiData/WD~indoctrination,375159]]"
+  - "[[_Standards/WikiData/WD~religiosity,1553701]]"
+  - "[[_Standards/WikiData/WD~religious_group,111252415]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~applied_psychology,538904]]"
+  - "[[_Standards/WikiData/WD~religion_and_health,7311140]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
+  - "[[_Standards/WikiData/WD~branch_of_psychology,60680430]]"
+practiced_by: "[[_Standards/WikiData/WD~psychologist_of_religion,88195566]]"
+Library_of_Congress_Classification:
+  - BL53-BL54
+  - BF1-BF990
+Basisklassifikation: "11.06"
+UMLS_CUI: C0035042
+MeSH_tree_code:
+  - F02.880
+  - K01.844.664
+Dewey_Decimal_Classification: "200.19"
 ---
 
 # [[Psychology_of_Religion]] 

@@ -3,6 +3,11 @@ aliases:
   - Applied_Ethics
   - Applied Ethics
 has_id_wikidata: Q538733
+instance_of: "[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]"
+part_of: "[[_Standards/WikiData/WD~ethics,9465]]"
+subclass_of: "[[_Standards/WikiData/WD~ethics,9465]]"
+Library_of_Congress_Classification: BJ1545-BJ1691
+Commons_category: Applied ethics
 ---
 
 # [[Applied_Ethics]] 

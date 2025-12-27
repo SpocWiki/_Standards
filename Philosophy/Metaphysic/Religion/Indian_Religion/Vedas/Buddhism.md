@@ -5,6 +5,92 @@ aliases:
   - Dharmavinaya
   - Buddhism
 has_id_wikidata: Q748
+Stack_Exchange_site_URL: https://buddhism.stackexchange.com
+Stack_Exchange_tag:
+  - https://christianity.stackexchange.com/tags/buddhism
+  - https://hinduism.stackexchange.com/tags/buddhism
+Dewey_Decimal_Classification: "294.3"
+Antique_Chinese_and_Japanese_Porcelain_Dictionary_and_Glossary_of_Terms_entry: buddhism
+IMDb_keyword: buddhism
+GitHub_topic: buddhism
+PhilPapers_topic: buddhism
+MeSH_tree_code: K01.844.117
+Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/BUDDA_I_BUDDIZM.html
+IPTC_NewsCode: mediatopic/20000658
+OpenStreetMap_tag: religion=buddhist
+location_of_formation: "[[_Standards/WikiData/WD~Bodh_Gaya,176767]]"
+history_of_topic:
+  - "[[_Standards/WikiData/WD~timeline_of_Buddhism,186955]]"
+  - "[[_Standards/WikiData/WD~history_of_Buddhism,464200]]"
+different_from: "[[_Standards/WikiData/WD~Lama,191421]]"
+practiced_by:
+  - "[[_Standards/WikiData/WD~saṅgha,193944]]"
+  - "[[_Standards/WikiData/WD~Buddhists,6926246]]"
+separated_from: "[[_Standards/WikiData/WD~Historical_Vedic_religion,194497]]"
+follows: "[[_Standards/WikiData/WD~Historical_Vedic_religion,194497]]"
+has_part_s_: "[[_Standards/WikiData/WD~school_of_Buddhism,222516]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+studied_by: "[[_Standards/WikiData/WD~Buddhist_studies,1000976]]"
+flag: "[[_Standards/WikiData/WD~Buddhist_flag,1130142]]"
+foundational_text: "[[_Standards/WikiData/WD~Tripitaka,1321432]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~Indian_religions,1651597]]"
+  - "[[_Standards/WikiData/WD~subject_of_depiction,53001749]]"
+has_characteristic: "[[_Standards/WikiData/WD~religious_philosophy,2054106]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~philosophical_movement,2915955]]"
+  - "[[_Standards/WikiData/WD~major_religious_group,6957341]]"
+  - "[[_Standards/WikiData/WD~religion,9174]]"
+  - "[[_Standards/WikiData/WD~lifestyle,32090]]"
+  - "[[_Standards/WikiData/WD~world_view,49447]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Buddhism,6328236]]"
+  - "[[_Standards/WikiData/WD~Template_Buddhism_topics,6731904]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Buddhism,7112212]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Buddhism,8207681]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Buddhism,11008004]]"
+location: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+inception: http://www.wikidata.org/.well-known/genid/773771617a6bd6932df3429addcc4dac
+official_religion:
+  - "[[_Standards/WikiData/WD~Myanmar,836]]"
+  - "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
+  - "[[_Standards/WikiData/WD~Thailand,869]]"
+  - "[[_Standards/WikiData/WD~Bhutan,917]]"
+named_after: "[[_Standards/WikiData/WD~Buddha,7055]]"
+founded_by: "[[_Standards/WikiData/WD~The_Buddha,9441]]"
+Universal_Decimal_Classification: "24"
+IAB_code: "458"
+U_S_National_Archives_Identifier: "10644225"
+OmegaWiki_Defined_Meaning: "683408"
+member_count: 520002000
+Library_of_Congress_Classification: BQ1-BQ9800
+Colon_Classification: Q4
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Large%20Gautama%20Buddha%20statue%20in%20Buddha%20Park%20of%20Ravangla%2C%20Sikkim.jpg
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Buddhism.svg
+Commons_category: Buddhism
+subreddit: Buddhism
+Basisklassifikation: "11.93"
+Unicode_character: ☸︎
+detail_map:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/A%20buddhizmus%20elterjed%C3%A9se%20%C3%81zsi%C3%A1ban.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Buddhism%20Map.png
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Boeddhisme.ogg
+distribution_map:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Buddhist%20World.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/The%20Refuge%20in%20Three%20Jewels%20%28Buddhism%29.png
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Dharma%20Wheel%20%282%29.svg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Ho%20Chi%20Minh%20city%20banner%20Bai%20Buddhas.jpg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%AC%E0%A5%8C%E0%A4%A6%E0%A5%8D%E0%A4%A7%20%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE.wav
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Mani%20Rimdu%20festival.webm
 ---
 
 # [[Buddhism]] 

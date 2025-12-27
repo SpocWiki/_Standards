@@ -1,6 +1,29 @@
 ---
 aliases:
 has_id_wikidata: Q1436668
+different_from:
+  - "[[_Standards/WikiData/WD~blind_experiment,608510]]"
+  - "[[_Standards/WikiData/WD~randomized_controlled_trial,130616270]]"
+partially_coincident_with:
+  - "[[_Standards/WikiData/WD~blind_experiment,608510]]"
+  - "[[_Standards/WikiData/WD~single_blind_clinical_trial,108482620]]"
+  - "[[_Standards/WikiData/WD~double_blind_clinical_trial,108483352]]"
+  - "[[_Standards/WikiData/WD~triple_blind_clinical_trial,108483576]]"
+  - "[[_Standards/WikiData/WD~quadruple_blind_clinical_trial,108510128]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~randomized_experiment,1231081]]"
+  - "[[_Standards/WikiData/WD~scholarly_article,13442814]]"
+  - "[[_Standards/WikiData/WD~study_type,78088984]]"
+  - "[[_Standards/WikiData/WD~controlled_trial,106489573]]"
+  - "[[_Standards/WikiData/WD~clinical_trial,30612]]"
+uses:
+  - "[[_Standards/WikiData/WD~control_group,2148398]]"
+  - "[[_Standards/WikiData/WD~group_in_an_experiment,7836899]]"
+  - "[[_Standards/WikiData/WD~treatment_group,106486532]]"
+MeSH_tree_code:
+  - E05.318.372.250.250.365.500
+  - N05.715.360.330.250.250.365.500
+  - N06.850.520.450.250.250.365.500
 ---
 
 # [[Randomized_controlled_Trial]] 
