@@ -1,6 +1,20 @@
 ---
-aliases: 
+aliases:
+  - Commutative_Ring
+  - commutative ring
 has_id_wikidata: Q858656
+has_part_s_:
+  - "[[_Standards/WikiData/WD~abelian_group,181296]]"
+  - "[[_Standards/WikiData/WD~commutative_monoid,19934355]]"
+studied_by: "[[_Standards/WikiData/WD~commutative_algebra,727659]]"
+opposite_of: "[[_Standards/WikiData/WD~noncommutative_ring,7049224]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~polynomial_identity_ring,7226641]]"
+  - "[[_Standards/WikiData/WD~graded_commutative_ring,28458059]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~affine_scheme,91435997]]"
+OmegaWiki_Defined_Meaning: "1413178"
+Dewey_Decimal_Classification: "512.44"
 ---
 # [[Commutative_Ring]] 
 
@@ -39,4 +53,3 @@ has_id_wikidata: Q858656
 ### #is_/same_as :: [Commutative_Ring.personal](/_personal/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.personal.md) 
 
 ### #is_/same_as :: [Commutative_Ring.secret](/_secret/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.secret.md)
-

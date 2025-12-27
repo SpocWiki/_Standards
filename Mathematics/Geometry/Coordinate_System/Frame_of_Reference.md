@@ -7,6 +7,28 @@ aliases:
   - Frame_of_Reference
   - Frame of Reference
 has_id_wikidata: Q184876
+has_part_s_:
+  - "[[_Standards/WikiData/WD~basis,189569]]"
+  - "[[_Standards/WikiData/WD~reference_point,23008367]]"
+different_from: "[[_Standards/WikiData/WD~inertial_frame_of_reference,192735]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~conceptual_model,2623243]]"
+  - "[[_Standards/WikiData/WD~conceptual_system,3622126]]"
+  - "[[_Standards/WikiData/WD~point_of_view,12558574]]"
+  - "[[_Standards/WikiData/WD~Q113360143,113360143]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+instance_of: "[[_Standards/WikiData/WD~physics_term,100724091]]"
+used_by: "[[_Standards/WikiData/WD~physics,413]]"
+manifestation_of: "[[_Standards/WikiData/WD~coordinate_system,11210]]"
+OmegaWiki_Defined_Meaning: "1413120"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Inertial%20hi.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Reference%20frame%20and%20observer.svg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteuse%20Journ%C3%A9e%202%20-%201%20%28Madehub%29-r%C3%A9f%C3%A9rentiel.wav
+Stack_Exchange_tag: https://physics.stackexchange.com/tags/reference-frames
+Commons_category: Frames of reference
+Krugosvet_article_archived_: nauka_i_tehnika/fizika/SISTEMI_OTSCHETA.html
 ---
 
 # [[Frame_of_Reference]] 

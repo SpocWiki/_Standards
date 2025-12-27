@@ -4,6 +4,18 @@ aliases:
   - System_of_linear_Equations
   - System of linear Equations
 has_id_wikidata: Q11203
+has_part_s_: "[[_Standards/WikiData/WD~linear_equation,484637]]"
+different_from: "[[_Standards/WikiData/WD~linear_system,1072174]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~linear_system,1072174]]"
+  - "[[_Standards/WikiData/WD~system_of_polynomial_equations,7663735]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Secretsharing%203-point.svg
+Commons_category: System of linear equations
+short_name:
+  - LGS
+  - СЛАУ
+  - СЛУ
 ---
 
 # [[System_of_linear_Equations]] 
