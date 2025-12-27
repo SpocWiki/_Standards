@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Acoustics
 has_id_wikidata: Q82811
 described_by_source:
   - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"

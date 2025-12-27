@@ -4,7 +4,39 @@ aliases:
   - Radioactive_Decay
   - Radioactive Decay
 has_id_wikidata: Q11448
+different_from: "[[_Standards/WikiData/WD~activity,317949]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+has_characteristic: "[[_Standards/WikiData/WD~decay_mode,1048111]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
+  - "[[_Standards/WikiData/WD~physical_process,17320256]]"
+class_of_object_s_of_occurrence: "[[_Standards/WikiData/WD~atomic_nucleus,37147]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Henri_Becquerel,41269]]"
+OmegaWiki_Defined_Meaning: "3092"
+Unicode_character: ☢
+Commons_category: Radioactivity
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Alpha%20Decay.svg
+video:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Classroom%20Aid%20-%20Radioactivity.webm
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Popcorn%20Model%20for%20Radioactivity.webm
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20iso%20radiation.svg
+U_S_National_Archives_Identifier: "10640985"
+Basisklassifikation: "33.43"
+Iconclass_notation: "49E272"
+IEV_number: 881-02-26
+UMLS_CUI: C0034553
+MeSH_tree_code: G01.828
+Krugosvet_article_archived_: nauka_i_tehnika/fizika/RADIOAKTIVNOST.html
+Dewey_Decimal_Classification: "539.752"
 ---
+
+# [[Radioactive_Decay]] 
 
 ## #has_/text_of_/abstract 
 

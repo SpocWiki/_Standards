@@ -5,6 +5,25 @@ aliases:
   - Compton_Effect
   - Compton Effect
 has_id_wikidata: Q171516
+named_after: "[[_Standards/WikiData/WD~Arthur_Holly_Compton,127944]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Arthur_Holly_Compton,127944]]"
+instance_of: "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+different_from: "[[_Standards/WikiData/WD~Compton_scattering,25424022]]"
+subclass_of: "[[_Standards/WikiData/WD~Compton_scattering,25424022]]"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Compton%20Effect.gif
+schematic:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Compton%20Effect%20Schematic-de.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Compton%20Effect%20Schematic-ro.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Comptonefeqti.jpg
+IEV_number:
+  - 395-02-07
+  - 881-02-86
+Commons_category: Compton scattering
+Wolfram_Language_entity_code: Entity["PhysicalEffect", "ComptonEffect"]
+Krugosvet_article_archived_: fizika/komptona-effekt
+time_of_discovery_or_invention: 1922-01-01T00:00:00Z
+Dewey_Decimal_Classification: "539.756"
 ---
 
 # [[Compton_Effect]] 

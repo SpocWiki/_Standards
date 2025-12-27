@@ -4,7 +4,16 @@ aliases:
   - Individual_Sport
   - Individual Sport
 has_id_wikidata: Q2755547
+opposite_of: "[[_Standards/WikiData/WD~team_sport,216048]]"
+subclass_of: "[[_Standards/WikiData/WD~sport,349]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+Commons_category: Individual sports
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Competitive%20table%20tennis.jpg
 ---
+
+# [[Individual_Sport]] 
+
+#is_/same_as :: [[_Standards/WikiData/WD~individual_sport,2755547]] 
 
 ## #has_/text_of_/abstract 
 

@@ -6,6 +6,22 @@ aliases:
   - Electromagnetic_Field
   - Electromagnetic Field
 has_id_wikidata: Q177625
+subclass_of: "[[_Standards/WikiData/WD~field,185674]]"
+manifestation_of: "[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~magnetic_field,11408]]"
+  - "[[_Standards/WikiData/WD~electric_field,46221]]"
+OmegaWiki_Defined_Meaning: "1590728"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Onde%20electromagnetique.svg
+video: http://commons.wikimedia.org/wiki/Special:FilePath/60.%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B5%D1%82%D0%BD%D0%BE%20%D0%BF%D0%BE%D0%BB%D0%B5%20%D0%BD%D0%B0%20%D1%81%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B8%D0%B4.ogg
+IEV_number: 121-11-61
+UMLS_CUI: C0013835
+Commons_category: Electromagnetic field
+MeSH_tree_code:
+  - G01.358.500.260
+  - G01.358.750.500
+Dewey_Decimal_Classification: "530.141"
 ---
 
 # [[Electromagnetic_Field]] 

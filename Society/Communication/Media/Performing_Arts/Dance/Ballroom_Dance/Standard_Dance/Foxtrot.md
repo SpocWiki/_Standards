@@ -1,6 +1,13 @@
 ---
 aliases:
 has_id_wikidata: Q245418
+named_after: "[[_Standards/WikiData/WD~Harry_Fox,1992638]]"
+different_from: "[[_Standards/WikiData/WD~foxtrot,57392588]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_dance,107357104]]"
+subclass_of: "[[_Standards/WikiData/WD~dance,11639]]"
+Commons_category: Ballroom dance
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Vernon%20and%20Irene%20Castle2.jpg
+Dewey_Decimal_Classification: "793.33"
 ---
 
 # [[Foxtrot]] 

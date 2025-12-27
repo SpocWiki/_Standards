@@ -3,6 +3,51 @@ aliases:
   - Scheidung
   - Divorce
 has_id_wikidata: Q93190
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+follows:
+  - "[[_Standards/WikiData/WD~legal_separation,1142948]]"
+  - "[[_Standards/WikiData/WD~married,37713312]]"
+has_immediate_cause: "[[_Standards/WikiData/WD~sham_marriage,1189309]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~key_event,2245405]]"
+  - "[[_Standards/WikiData/WD~dissolution,5282797]]"
+  - "[[_Standards/WikiData/WD~end_cause,22087155]]"
+  - "[[_Standards/WikiData/WD~separation,124324604]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~infidelity,2914621]]"
+has_cause:
+  - "[[_Standards/WikiData/WD~marital_breakdown,6765759]]"
+  - "[[_Standards/WikiData/WD~breakup,100926628]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~marital_status,11920938]]"
+  - "[[_Standards/WikiData/WD~Wikibase_reason_for_deprecated_rank,27949697]]"
+different_from: "[[_Standards/WikiData/WD~Rozvod,13403673]]"
+part_of: "[[_Standards/WikiData/WD~list_of_Wikidata_reasons_for_deprecation,52105174]]"
+has_effect: "[[_Standards/WikiData/WD~divorcee,110088366]]"
+opposite_of: "[[_Standards/WikiData/WD~marriage,8445]]"
+IAB_code: "189"
+subreddit: Divorce
+Commons_category: Divorce
+U_S_National_Archives_Identifier: "10636943"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/NoWedding.jpg
+IMDb_keyword: divorce
+Iconclass_notation: 42D5
+Dewey_Decimal_Classification: "306.89"
+Unicode_character: ⚮
+MeSH_tree_code:
+  - F01.829.263.315.500.300
+  - I01.240.361.500.300
+  - I01.880.735.255
+  - I01.880.853.150.423.500.300
+  - N01.224.361.500.300
+  - N01.824.308.500.300
+IPTC_NewsCode: mediatopic/20000783
 ---
 
 # [[Divorce]] 

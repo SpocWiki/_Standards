@@ -1,6 +1,16 @@
 ---
 aliases:
 has_id_wikidata: Q2440857
+subclass_of:
+  - "[[_Standards/WikiData/WD~hadron,101667]]"
+  - "[[_Standards/WikiData/WD~exotic_particle,2703366]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q10193194,10193194]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
+different_from: "[[_Standards/WikiData/WD~Exotic_hadron,55186092]]"
+studied_by: "[[_Standards/WikiData/WD~particle_physics,18334]]"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Pentaquark-generic.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Exotic%20mesons.svg
 ---
 
 # [[Exotic_Hadron]] 

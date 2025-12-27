@@ -3,6 +3,35 @@ aliases:
   - Piraterie
   - Piracy
 has_id_wikidata: Q45393
+facet_of: "[[_Standards/WikiData/WD~admiralty_law,382113]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achtzehnter_Band,137552066]]"
+different_from:
+  - "[[_Standards/WikiData/WD~copyright_infringement,647578]]"
+  - "[[_Standards/WikiData/WD~aircraft_hijacking,898712]]"
+instance_of: "[[_Standards/WikiData/WD~activity,1914636]]"
+subclass_of: "[[_Standards/WikiData/WD~hijacking,1933595]]"
+history_of_topic:
+  - "[[_Standards/WikiData/WD~timeline_of_piracy,7806147]]"
+  - "[[_Standards/WikiData/WD~Q12390422,12390422]]"
+practiced_by: "[[_Standards/WikiData/WD~pirate,10729326]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Piracy,13365750]]"
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Edward%20England.svg
+Commons_gallery: Piracy
+Commons_category: Piracy
+Dewey_Decimal_Classification: "364.164"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Somali%20Pirates.jpg
+Iconclass_notation: 44G562
+Krugosvet_article_archived_: istoriya/PIRATSTVO.html
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Pirates%20Banner.jpg
 ---
 
 # [[Piracy]] 

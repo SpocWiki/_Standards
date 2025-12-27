@@ -5,6 +5,41 @@ aliases:
   - G7(Group_of_Seven)
   - G7(Group of Seven)
 has_id_wikidata: Q1764511
+instance_of:
+  - "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
+  - "[[_Standards/WikiData/WD~international_organization,484652]]"
+  - "[[_Standards/WikiData/WD~group_of_major_economic_countries,28963381]]"
+  - "[[_Standards/WikiData/WD~heptad,29441572]]"
+different_from:
+  - "[[_Standards/WikiData/WD~G7,363716]]"
+  - "[[_Standards/WikiData/WD~G8,37143]]"
+replaces:
+  - "[[_Standards/WikiData/WD~G6,10287157]]"
+  - "[[_Standards/WikiData/WD~G8,37143]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Group_of_7,22736998]]"
+  - "[[_Standards/WikiData/WD~Q25942093,25942093]]"
+participant:
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~Japan,17]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+replaced_by: "[[_Standards/WikiData/WD~G8,37143]]"
+social_media_followers: 118534
+EU_Corporate_body_code: G7
+Facebook_username: G7
+X_Twitter_username: G7
+Instagram_username: g7
+inception: 1975-11-01T00:00:00Z
+Commons_category: Group of Seven
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Group%20of%20Seven%20%28G7%29%20Countries.svg
+official_website: http://www.g7italy.it/
+ISNI: "0000000115480025"
+RIA_Novosti_reference: "1557774589"
+short_name: G7
 ---
 
 # [[G7(Group_of_Seven)]] 

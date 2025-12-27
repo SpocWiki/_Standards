@@ -4,6 +4,12 @@ aliases:
   - Impressionist_Music
   - Impressionist Music
 has_id_wikidata: Q105697765
+instance_of:
+  - "[[_Standards/WikiData/WD~music_genre,188451]]"
+  - "[[_Standards/WikiData/WD~musical_style,11921029]]"
+different_from: "[[_Standards/WikiData/WD~impressionism_in_music,837182]]"
+part_of: "[[_Standards/WikiData/WD~impressionism_in_music,837182]]"
+subclass_of: "[[_Standards/WikiData/WD~modern_classical_music,65937946]]"
 ---
 
 # [[Impressionist_Music]] 

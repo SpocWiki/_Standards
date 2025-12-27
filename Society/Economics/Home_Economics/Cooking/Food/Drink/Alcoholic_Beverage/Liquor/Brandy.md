@@ -4,6 +4,32 @@ aliases:
   - Cognac
   - Armagnac
 has_id_wikidata: Q146470
+different_from: "[[_Standards/WikiData/WD~brännvin,510461]]"
+color: "[[_Standards/WikiData/WD~amber,679355]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+based_on:
+  - "[[_Standards/WikiData/WD~Pixie_Grape,7199733]]"
+  - "[[_Standards/WikiData/WD~wine,282]]"
+  - "[[_Standards/WikiData/WD~apple,89]]"
+subclass_of: "[[_Standards/WikiData/WD~wine_spirit,50091090]]"
+named_after: "[[_Standards/WikiData/WD~Cognac,285]]"
+alcohol_by_volume:
+  - 40
+  - 60
+has_characteristic: "[[_Standards/WikiData/WD~fermentation,41760]]"
+instance_of: "[[_Standards/WikiData/WD~liquor,56139]]"
+object_named_as:
+  - brande
+  - brandy
+Commons_category: Brandy
+OmegaWiki_Defined_Meaning: "906315"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Martell%20in%20brandy%20snifter.jpg
+Dewey_Decimal_Classification: "641.253"
+Wolfram_Language_entity_code: Entity["FoodType", "Brandy"]
 ---
 
 # [[Brandy]] 

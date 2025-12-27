@@ -4,6 +4,24 @@ aliases:
   - Boarding_School
   - Boarding School
 has_id_wikidata: Q269770
+subclass_of:
+  - "[[_Standards/WikiData/WD~dwelling,699405]]"
+  - "[[_Standards/WikiData/WD~school_building,1244442]]"
+  - "[[_Standards/WikiData/WD~educational_institution,2385804]]"
+  - "[[_Standards/WikiData/WD~school,3914]]"
+different_from:
+  - "[[_Standards/WikiData/WD~boarding_house,1558858]]"
+  - "[[_Standards/WikiData/WD~boarding,10253004]]"
+has_list: "[[_Standards/WikiData/WD~list_of_boarding_schools,6607991]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_educational_institution,112872396]]"
+country: "[[_Standards/WikiData/WD~Italy,38]]"
+OmegaWiki_Defined_Meaning: "902215"
+U_S_National_Archives_Identifier: "10638275"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Norman%20staircase%20and%20schoolhouse%20in%20The%20King%27s%20School%2C%20Canterbury.jpg
+Commons_category: Boarding schools
+IMDb_keyword: boarding-school
+Gujarati_Vishwakosh_entry: આશ્રમશાળા
+Dewey_Decimal_Classification: "373.222"
 ---
 
 # [[Boarding_School]] 

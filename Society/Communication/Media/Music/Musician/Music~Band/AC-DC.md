@@ -3,6 +3,62 @@ aliases:
   - AC/DC
   - AC-DC
 has_id_wikidata: Q27593
+TikTok_username: acdc
+Giphy_username: acdc
+Facebook_username: acdc
+Instagram_username: acdc
+X_Twitter_username:
+  - acdc
+  - AC_DC
+stylized_name: ACϟDC
+Wolfram_Language_entity_code: Entity["MusicAct", "ACDC::j5n2w"]
+official_name: AC/DC
+genre:
+  - "[[_Standards/WikiData/WD~hard_rock,83270]]"
+  - "[[_Standards/WikiData/WD~blues_rock,193355]]"
+  - "[[_Standards/WikiData/WD~classic_rock,56351111]]"
+  - "[[_Standards/WikiData/WD~rock_and_roll,7749]]"
+named_after:
+  - "[[_Standards/WikiData/WD~alternating_current,124164]]"
+  - "[[_Standards/WikiData/WD~direct_current,159241]]"
+award_received: "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
+record_label:
+  - "[[_Standards/WikiData/WD~Columbia_Records,183387]]"
+  - "[[_Standards/WikiData/WD~Island_Records,190585]]"
+  - "[[_Standards/WikiData/WD~Geffen_Records,212699]]"
+  - "[[_Standards/WikiData/WD~Epic_Records,216364]]"
+  - "[[_Standards/WikiData/WD~Interscope_Records,231694]]"
+  - "[[_Standards/WikiData/WD~Hollywood_Records,387539]]"
+  - "[[_Standards/WikiData/WD~Sony_Music,56760250]]"
+  - "[[_Standards/WikiData/WD~Universal_Music_Group,38903]]"
+instance_of: "[[_Standards/WikiData/WD~musical_group,215380]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~Brian_Johnson,295948]]"
+  - "[[_Standards/WikiData/WD~Cliff_Williams,318694]]"
+  - "[[_Standards/WikiData/WD~Chris_Chaney,598026]]"
+  - "[[_Standards/WikiData/WD~Stevie_Young,1319593]]"
+  - "[[_Standards/WikiData/WD~Matt_Laug,1756558]]"
+  - "[[_Standards/WikiData/WD~Angus_Young,43932]]"
+influenced_by: "[[_Standards/WikiData/WD~Airbourne,408139]]"
+discography: "[[_Standards/WikiData/WD~AC_DC_discography,430476]]"
+has_list: "[[_Standards/WikiData/WD~list_of_band_members_of_AC_DC,3044863]]"
+different_from: "[[_Standards/WikiData/WD~AC_DC_receiver_design,4650474]]"
+archives_at: "[[_Standards/WikiData/WD~Australian_Performing_Arts_Collection,7168281]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_AC_DC,7219634]]"
+described_by_source: "[[_Standards/WikiData/WD~Myggans_nöjeslexikon_1_A_Barc_(Swedish),101089426]]"
+country_of_origin: "[[_Standards/WikiData/WD~Australia,408]]"
+location_of_formation: "[[_Standards/WikiData/WD~Sydney,3130]]"
+social_media_followers: 10900000
+Commons_gallery: AC/DC
+Commons_category: AC/DC
+work_period_start_: 1973-01-01T00:00:00Z
+inception: 1973-12-31T00:00:00Z
+subreddit: ACDC
+image: http://commons.wikimedia.org/wiki/Special:FilePath/AC%20DC%20at%20London%27s%20Olympic%20Stadium.jpg
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20ACDC.svg
+official_website: https://acdc.com
+official_shop_URL: https://shop.acdc.com/
+ISNI: 000000012271298X
 ---
 
 # [[AC-DC]]

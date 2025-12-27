@@ -1,6 +1,8 @@
 ---
 aliases:
 has_id_wikidata: Q889796
+subclass_of: "[[_Standards/WikiData/WD~mechanical_wave,1132631]]"
+Dewey_Decimal_Classification: "530.417"
 ---
 
 # [[Surface_Wave]] 

@@ -3,6 +3,22 @@ aliases:
   - Aerial_warfare
   - Aerial warfare
 has_id_wikidata: Q471145
+subclass_of:
+  - "[[_Standards/WikiData/WD~military_aviation,627716]]"
+  - "[[_Standards/WikiData/WD~warfare,12786121]]"
+history_of_topic: "[[_Standards/WikiData/WD~Q20918167,20918167]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_war,124867660]]"
+Commons_category: Aerial warfare
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Boeing%20B-52%20dropping%20bombs.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/German%20MiG-29%20in%20F-18C%20gun%20camera.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Luftkampf%20im%20Pazifik%20Juni%201942.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Zeplin%20orta.jpg
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Bombers%20of%20WW1.ogv
+U_S_National_Archives_Identifier: "10637965"
+Provenio_UUID: 37b787ce-a765-4295-8aa3-73fee039ac32
+Colon_Classification: MV48
+Dewey_Decimal_Classification: "358.4"
 ---
 
 # [[Aerial_warfare]] 

@@ -2,6 +2,25 @@
 aliases:
   - Antineutron
 has_id_wikidata: Q156530
+interaction:
+  - "[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]"
+  - "[[_Standards/WikiData/WD~strong_interaction,11415]]"
+  - "[[_Standards/WikiData/WD~gravity,11412]]"
+  - "[[_Standards/WikiData/WD~weak_interaction,11418]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Bruce_Cork,4115407]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
+subclass_of: "[[_Standards/WikiData/WD~antinucleon,28855250]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+antiparticle: "[[_Standards/WikiData/WD~neutron,2348]]"
+electric_charge: 0
+isospin_z_component: 0.5
+isospin_quantum_number: 0.5
+spin_quantum_number: 0.5
+OmegaWiki_Defined_Meaning: "1376311"
+Monte_Carlo_Particle_Number: "-2112"
+time_of_discovery_or_invention: 1956-01-01T00:00:00Z
+mass: 939.56542052
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Quark%20structure%20antineutron.svg
 ---
 
 # [[Antineutron]] 

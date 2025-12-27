@@ -6,6 +6,25 @@ aliases:
   - espresso maker
   - Coffeemaker
 has_id_wikidata: Q211841
+uses: "[[_Standards/WikiData/WD~coffee_bean,153697]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~home_appliance,212920]]"
+  - "[[_Standards/WikiData/WD~coffeemaking_implement,117207980]]"
+has_use:
+  - "[[_Standards/WikiData/WD~coffee_preparation,19903001]]"
+  - "[[_Standards/WikiData/WD~coffee,8486]]"
+Nomenclature_for_Museum_Cataloging: "4104"
+pronunciation_audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Kaffeemaschine.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Kaffeemaschine2.ogg
+MCN_code: 7013.42.10
+Dewey_Decimal_Classification:
+  - "643.3"
+  - "683.82"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Krups%20koffiezetapparaat%20van%20Van%20Nelle%2C%20zwart%2C%20objectnr%2090899-A-B.JPG
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/WWS%20Coffeemaker.ogg
+Commons_category: Coffee machines
+IMDb_keyword: coffee-machine
 ---
 
 # [[Coffeemaker]] 

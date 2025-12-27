@@ -1,6 +1,27 @@
 ---
 aliases:
 has_id_wikidata: Q193217
+subclass_of:
+  - "[[_Standards/WikiData/WD~polyphony,179465]]"
+  - "[[_Standards/WikiData/WD~composed_musical_work,207628]]"
+  - "[[_Standards/WikiData/WD~music_of_Europe,3328676]]"
+  - "[[_Standards/WikiData/WD~classical_music,9730]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~music_genre,188451]]"
+  - "[[_Standards/WikiData/WD~musical_form,862597]]"
+  - "[[_Standards/WikiData/WD~song_form,1824109]]"
+  - "[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+follows: "[[_Standards/WikiData/WD~frottola,944800]]"
+Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/MADRIGAL.html
+Commons_category: Madrigals
+Dewey_Decimal_Classification: "782.43"
 ---
 
 # [[Madrigal]] 

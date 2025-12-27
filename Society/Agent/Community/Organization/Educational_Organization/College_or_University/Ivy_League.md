@@ -2,9 +2,30 @@
 aliases:
   - Ivy League
 has_id_wikidata: Q49113
+part_of: "[[_Standards/WikiData/WD~NCAA_Division_I,2842604]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Ivy_League,6148939]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q31961554,31961554]]"
+instance_of: "[[_Standards/WikiData/WD~college_athletic_conference,67476316]]"
+sport: "[[_Standards/WikiData/WD~basketball,5372]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~Harvard_University,13371]]"
+  - "[[_Standards/WikiData/WD~Princeton_University,21578]]"
+  - "[[_Standards/WikiData/WD~Columbia_University,49088]]"
+  - "[[_Standards/WikiData/WD~Brown_University,49114]]"
+  - "[[_Standards/WikiData/WD~Cornell_University,49115]]"
+  - "[[_Standards/WikiData/WD~Yale_University,49112]]"
+  - "[[_Standards/WikiData/WD~Dartmouth_College,49116]]"
+  - "[[_Standards/WikiData/WD~University_of_Pennsylvania,49117]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
+NCAA_organization_code: "865"
+Commons_gallery: Star Wars
+inception: 1954-01-01T00:00:00Z
+Commons_category: Ivy League
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ivy%20league%20simple%20logo.png
+official_website: https://www.ivyleaguesports.com
 ---
 
-# [[Ivy League]] 
+# [[Ivy_League]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Ivy_League,49113|WD~Ivy_League,49113]] 
 

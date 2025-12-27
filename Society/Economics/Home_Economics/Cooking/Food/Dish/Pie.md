@@ -3,6 +3,29 @@ aliases:
   - Kuchen
   - Pie
 has_id_wikidata: Q13360264
+different_from:
+  - "[[_Standards/WikiData/WD~Pie,230776]]"
+  - "[[_Standards/WikiData/WD~pirog,858627]]"
+  - "[[_Standards/WikiData/WD~cake,13276]]"
+fabrication_method: "[[_Standards/WikiData/WD~frying,300472]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~stuffing,745361]]"
+  - "[[_Standards/WikiData/WD~pie_crust,5190246]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~baked_good,2251745]]"
+  - "[[_Standards/WikiData/WD~torta,3573026]]"
+  - "[[_Standards/WikiData/WD~bánh,5004791]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki_Loves_Cultura_Popular_Brasil_Culinária,116741808]]"
+Commons_category: Pies
+Commons_gallery: Pie
+booru_tag: pie
+Danbooru_tag: pie
+hashtag: pie
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Pumpkin%20Pie.jpg
+Wolfram_Language_entity_code: Entity["FoodType", "Pie"]
+Unicode_character: 🥧
 ---
 
 # [[Pie]] 

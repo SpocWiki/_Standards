@@ -1,6 +1,9 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q26844385
+subclass_of: "[[_Standards/WikiData/WD~process,3249551]]"
+facet_of: "[[_Standards/WikiData/WD~collective_farming,4314084]]"
+Commons_category: Collectivization
 ---
 
 # [[Collectivization]] 

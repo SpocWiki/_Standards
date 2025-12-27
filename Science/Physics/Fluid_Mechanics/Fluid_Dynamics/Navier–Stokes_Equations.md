@@ -1,6 +1,30 @@
 ---
 aliases:
 has_id_wikidata: Q201321
+named_after:
+  - "[[_Standards/WikiData/WD~Sir_George_Stokes,_1st_Baronet,155907]]"
+  - "[[_Standards/WikiData/WD~Claude_Louis_Navier,313512]]"
+facet_of: "[[_Standards/WikiData/WD~Navier_Stokes_existence_and_smoothness,1098081]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+subclass_of: "[[_Standards/WikiData/WD~nonlinear_partial_differential_equation,28088256]]"
+instance_of: "[[_Standards/WikiData/WD~system_of_differential_equations,96407346]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt"><mtr><mtd><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>u</mi><mo>→</mo></mover></mrow></mrow></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi><mi>t</mi></mrow></mrow></mfrac></mrow><mo stretchy="false">+</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>u</mi><mo>→</mo></mover></mrow></mrow><mo stretchy="false">&#x22C5;</mo><mi mathvariant="normal">&#x2207;</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>u</mi><mo>→</mo></mover></mrow></mrow><mo stretchy="false">&#x2212;</mo><mi>&#x03BD;</mi><msup><mi mathvariant="normal">&#x2207;</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>u</mi><mo>→</mo></mover></mrow></mrow></mtd><mtd><mo stretchy="false">=</mo><mo stretchy="false">&#x2212;</mo><mi mathvariant="normal">&#x2207;</mi><mi>h</mi></mtd></mtr><mtr><mtd><mi mathvariant="normal">&#x2207;</mi><mo stretchy="false">&#x22C5;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>u</mi><mo>→</mo></mover></mrow></mrow></mtd><mtd><mo stretchy="false">=</mo><mn>0</mn></mtd></mtr></mtable></mrow></mstyle></mrow></math>
+in_defining_formula:
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi><mi>t</mi></mrow></mrow></mfrac></mrow></mstyle></mrow></math>
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>h</mi></mstyle></mrow></math>
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03BD;</mi></mstyle></mrow></math>
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mi mathvariant="normal">&#x2207;</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mstyle></mrow></math>
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x2207;</mi><mo stretchy="false">&#x22C5;</mo></mstyle></mrow></math>
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x2207;</mi></mstyle></mrow></math>
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>u</mi><mo>→</mo></mover></mrow></mrow></mstyle></mrow></math>
+Commons_category: Navier-Stokes equations
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Navier-Stokes%20equations.jpg
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Navier%20Stokes%20equation.webm
+Stack_Exchange_tag:
+  - https://mathoverflow.net/tags/navier-stokes
+  - https://physics.stackexchange.com/tags/navier-stokes
+Dewey_Decimal_Classification: "532.5101"
 ---
 
 # [[Navier–Stokes_Equations]] 

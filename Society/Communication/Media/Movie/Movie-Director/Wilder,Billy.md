@@ -4,6 +4,95 @@ aliases:
   - Billy Wilder
   - Wilder,Billy
 has_id_wikidata: Q51547
+nominated_for:
+  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]"
+  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
+  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]"
+  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Story,504298]]"
+  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]"
+award_received:
+  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]"
+  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
+  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]"
+  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Film,139184]]"
+  - "[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]"
+  - "[[_Standards/WikiData/WD~European_Film_Academy_Lifetime_Achievement_Award,514445]]"
+  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Director,586356]]"
+  - "[[_Standards/WikiData/WD~Goethe_Medal,675309]]"
+  - "[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]"
+  - "[[_Standards/WikiData/WD~Berliner_Bär,821456]]"
+  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Screenplay,849124]]"
+  - "[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]"
+  - "[[_Standards/WikiData/WD~Knight_Commander's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905235]]"
+  - "[[_Standards/WikiData/WD~Great_Golden_Medal_of_Honour_for_Services_to_the_Republic_of_Austria,17505835]]"
+  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
+  - "[[_Standards/WikiData/WD~honorary_citizen_of_Vienna,61627749]]"
+  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]"
+place_of_death: "[[_Standards/WikiData/WD~Beverly_Hills,127856]]"
+notable_work:
+  - "[[_Standards/WikiData/WD~Sabrina,152493]]"
+  - "[[_Standards/WikiData/WD~Some_Like_It_Hot,190086]]"
+  - "[[_Standards/WikiData/WD~Sunset_Boulevard,193570]]"
+  - "[[_Standards/WikiData/WD~Witness_for_the_Prosecution,196977]]"
+  - "[[_Standards/WikiData/WD~The_Apartment,270510]]"
+  - "[[_Standards/WikiData/WD~The_Seven_Year_Itch,290679]]"
+  - "[[_Standards/WikiData/WD~Double_Indemnity,478209]]"
+  - "[[_Standards/WikiData/WD~Stalag_17,1356753]]"
+  - "[[_Standards/WikiData/WD~Ace_in_the_Hole,1545826]]"
+  - "[[_Standards/WikiData/WD~The_Fortune_Cookie,1572700]]"
+educated_at: "[[_Standards/WikiData/WD~University_of_Vienna,165980]]"
+place_of_birth: "[[_Standards/WikiData/WD~Sucha_Beskidzka,745005]]"
+place_of_burial: "[[_Standards/WikiData/WD~Westwood_Village_Memorial_Park_Cemetery,1358639]]"
+occupation:
+  - "[[_Standards/WikiData/WD~journalist,1930187]]"
+  - "[[_Standards/WikiData/WD~film_director,2526255]]"
+  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
+  - "[[_Standards/WikiData/WD~director,3455803]]"
+  - "[[_Standards/WikiData/WD~producer,47541952]]"
+  - "[[_Standards/WikiData/WD~film_screenwriter,69423232]]"
+  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
+  - "[[_Standards/WikiData/WD~writer,36180]]"
+different_from: "[[_Standards/WikiData/WD~William_Wilder,2807998]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+filmography: "[[_Standards/WikiData/WD~Billy_Wilder_filmography,4913463]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Billy_Wilder,6599155]]"
+sibling: "[[_Standards/WikiData/WD~W._Lee_Wilder,7945800]]"
+member_of: "[[_Standards/WikiData/WD~Writers_Guild_of_America_West,8038459]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]"
+given_name: "[[_Standards/WikiData/WD~Billy,19816507]]"
+family_name: "[[_Standards/WikiData/WD~Wilder,21501738]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]"
+languages_spoken_written_or_signed:
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~German,188]]"
+cause_of_death: "[[_Standards/WikiData/WD~pneumonia,12192]]"
+country_of_citizenship:
+  - "[[_Standards/WikiData/WD~Austria_Hungary,28513]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Austria,40]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+birth_name: Samuel Wilder
+work_period_start_: 1929-01-01T00:00:00Z
+date_of_birth: 1906-06-22T00:00:00Z
+Commons_category: Billy Wilder
+work_period_end_: 1981-01-01T00:00:00Z
+name_in_native_language: Billy Wilder
+date_of_death: 2002-03-27T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Gloria%20Swanson%20%26%20Billy%20Wilder%20-%20ca.%201950.JPG
+image_of_grave:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Billy%20Wilder%20headstone.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Billy%20Wilders%20grave%20%28978339409%29.jpg
+plaque_image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Billy%20Wilder%20Stern.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/BillyWilder-Targa.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Schild%20Wilder.JPG
+ISNI: "0000000122842100"
+Libris_URI: 31fhk0qm57xf738
+P1015: "90639253"
 ---
 
 # [[Wilder,Billy]] 

@@ -1,6 +1,24 @@
 ---
 aliases:
 has_id_wikidata: Q193972
+subclass_of: "[[_Standards/WikiData/WD~physical_quantity,107715]]"
+part_of: "[[_Standards/WikiData/WD~impedance,179043]]"
+opposite_of: "[[_Standards/WikiData/WD~susceptance,509598]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]"
+  - "[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]"
+recommended_unit_of_measurement:
+  - "[[_Standards/WikiData/WD~kilogram_square_metre_per_cubic_second_square_ampere,119205557]]"
+  - "[[_Standards/WikiData/WD~ohm,47083]]"
+in_defining_formula:
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><munder><mi>Z</mi><mo>_</mo></munder></mrow></mstyle></mrow></math>
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>X</mi></mstyle></mrow></math>
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi data-mjx-texclass="OP" mathvariant="normal">Im</mi></mstyle></mrow></math>
+defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>X</mi><mo stretchy="false">=</mo><mi data-mjx-texclass="OP" mathvariant="normal">Im</mi><mo>&#x2061;</mo><mrow data-mjx-texclass="ORD"><munder><mi>Z</mi><mo>_</mo></munder></mrow></mstyle></mrow></math>
+ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mrow data-mjx-texclass="ORD"><mi>𝖬</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>3</mn></mrow></mrow></msup><msup><mrow data-mjx-texclass="ORD"><mi>𝖨</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>
+quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>X</mi></mstyle></mrow></math>
+IEV_number: 131-12-46
 ---
 
 # [[Electric_Reactance]] 

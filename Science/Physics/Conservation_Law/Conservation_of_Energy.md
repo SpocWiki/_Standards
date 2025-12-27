@@ -1,6 +1,23 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q11382
+instance_of:
+  - "[[_Standards/WikiData/WD~conservation_law,205805]]"
+  - "[[_Standards/WikiData/WD~physical_law,214070]]"
+different_from: "[[_Standards/WikiData/WD~energy_conservation,380170]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~conservation_of_mass,483948]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+has_part_s_: "[[_Standards/WikiData/WD~energy,11379]]"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%20%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8.webm
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B7%D5%B6%D5%A5%D6%80%D5%A3%D5%AB%D5%A1%D5%B5%D5%AB%20%D5%BA%D5%A1%D5%B0%D5%BA%D5%A1%D5%B6%D5%B4%D5%A1%D5%B6%20%D6%85%D6%80%D5%A5%D5%B6%D6%84%20%28Conservation%20of%20energy%29.ogg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Michael%20Schoenitzer%20%28MichaelSchoenitzer%29-Energieerhaltungssatz.wav
+Stack_Exchange_tag: https://physics.stackexchange.com/tags/energy-conservation
+Commons_category: Conservation of energy
+defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>E</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>t</mi><mi>o</mi><mi>t</mi><mo>,</mo><mn>1</mn></mrow></mrow></msub><mo stretchy="false">=</mo><msub><mi>E</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>t</mi><mi>o</mi><mi>t</mi><mo>,</mo><mn>2</mn></mrow></mrow></msub></mstyle></mrow></math>
+Dewey_Decimal_Classification: "531.62"
 ---
 
 # [[Conservation_of_Energy]] 
@@ -20,42 +37,20 @@ has_id_wikidata: Q11382
 > Energy can neither be created nor destroyed; rather, it can only be transformed or transferred from one form to another. For instance, chemical energy is converted to kinetic energy when a stick of dynamite explodes. If one adds up all forms of energy that were released in the explosion, such as the kinetic energy and potential energy of the pieces, as well as heat and sound, one will get the exact decrease of chemical energy in the combustion of the dynamite.
 >
 > Classically, the conservation of energy was distinct from the conservation of mass. However, special relativity shows that mass is related to energy and vice versa by 
+>      E=mc²
+> , the equation representing mass–energy equivalence, 
+> and science now takes the view that mass-energy as a whole is conserved. 
+> 
+> This implies that  mass can be converted to energy, and vice versa. 
+> This is observed in the nuclear binding energy of atomic nuclei, where a mass defect is measured. 
+> 
+> It is believed that mass-energy equivalence becomes important in extreme physical conditions, 
+> such as those that likely existed in the universe very shortly after the Big Bang 
+> or when black holes emit Hawking radiation.
 >
->   
->
->     
->
->       
->
->         E
->
->         =
->
->         m
->
->         
->
->           c
->
->           
->
->             2
->
->           
->
->         
->
->       
->
->     
->
->     {\displaystyle E=mc^{2}}
->
->   
->
-> , the equation representing mass–energy equivalence, and science now takes the view that mass-energy as a whole is conserved. This implies that  mass can be converted to energy, and vice versa. This is observed in the nuclear binding energy of atomic nuclei, where a mass defect is measured. It is believed that mass-energy equivalence becomes important in extreme physical conditions, such as those that likely existed in the universe very shortly after the Big Bang or when black holes emit Hawking radiation.
->
-> Given the stationary-action principle, the conservation of energy can be rigorously proven by Noether's theorem as a consequence of continuous time translation symmetry; that is, from the fact that the laws of physics do not change over time.
+> Given the stationary-action principle, the conservation of energy can be rigorously proven 
+> by Noether's theorem as a consequence of continuous time translation symmetry; 
+> that is, from the fact that the laws of physics do not change over time.
 >
 > A consequence of the law of conservation of energy is that a perpetual motion machine of the first kind cannot exist; that is to say, no system without an external energy supply can deliver an unlimited amount of energy to its surroundings. Depending on the definition of energy, the conservation of energy can arguably be violated by general relativity on the cosmological scale. In quantum mechanics, Noether's theorem is known to apply to the expected value, making any consistent conservation violation provably impossible, but whether individual conservation-violating events could ever exist or be observed is subject to some debate.
 >

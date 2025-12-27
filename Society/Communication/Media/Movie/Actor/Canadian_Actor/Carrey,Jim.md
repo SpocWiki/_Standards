@@ -3,7 +3,84 @@ aliases:
   - Jim Carrey
   - Carrey,Jim
 has_id_wikidata: Q40504
+unmarried_partner:
+  - "[[_Standards/WikiData/WD~Renée_Zellweger,122614]]"
+  - "[[_Standards/WikiData/WD~Jenny_McCarthy,230993]]"
+  - "[[_Standards/WikiData/WD~Ginger_Gonzaga,66313855]]"
+  - "[[_Standards/WikiData/WD~Laurie_Holden,18947]]"
+medical_condition: "[[_Standards/WikiData/WD~dyslexia,132971]]"
+spouse:
+  - "[[_Standards/WikiData/WD~Lauren_Holly,229560]]"
+  - "[[_Standards/WikiData/WD~Melissa_Womer,47003901]]"
+occupation:
+  - "[[_Standards/WikiData/WD~comedian,245068]]"
+  - "[[_Standards/WikiData/WD~painter,1028181]]"
+  - "[[_Standards/WikiData/WD~voice_actor,2405480]]"
+  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
+  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
+  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
+  - "[[_Standards/WikiData/WD~stand_up_comedian,18545066]]"
+  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
+  - "[[_Standards/WikiData/WD~actor,33999]]"
+award_received:
+  - "[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Kiss,257235]]"
+  - "[[_Standards/WikiData/WD~Ordre_des_Arts_et_des_Lettres,716909]]"
+  - "[[_Standards/WikiData/WD~Canada's_Walk_of_Fame,857933]]"
+  - "[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Comedic_Performance,905247]]"
+  - "[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Breakthrough_Performance,1062019]]"
+  - "[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Villain,1062026]]"
+  - "[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Male_Performance,4220901]]"
+  - "[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528]]"
+given_name:
+  - "[[_Standards/WikiData/WD~Eugene,545971]]"
+  - "[[_Standards/WikiData/WD~James,677191]]"
+residence: "[[_Standards/WikiData/WD~Brentwood,909975]]"
+educated_at:
+  - "[[_Standards/WikiData/WD~Agincourt_Collegiate_Institute,4692571]]"
+  - "[[_Standards/WikiData/WD~Aldershot_School,4713737]]"
+  - "[[_Standards/WikiData/WD~Northview_Heights_Secondary_School,7059860]]"
+  - "[[_Standards/WikiData/WD~Blessed_Trinity_Catholic_School,54862860]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+filmography: "[[_Standards/WikiData/WD~Jim_Carrey_filmography,12728283]]"
+eye_color: "[[_Standards/WikiData/WD~dark_brown,17244894]]"
+child: "[[_Standards/WikiData/WD~Jane_Carrey,27445213]]"
+hair_color: "[[_Standards/WikiData/WD~dark_brown_hair,28961883]]"
+family_name: "[[_Standards/WikiData/WD~Carrey,37435654]]"
+father: "[[_Standards/WikiData/WD~Percy_Carrey,42720174]]"
+mother: "[[_Standards/WikiData/WD~Kathleen_Carrey,42720450]]"
+described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+writing_language: "[[_Standards/WikiData/WD~English,1860]]"
+native_language: "[[_Standards/WikiData/WD~English,1860]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+country_of_citizenship:
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+number_of_children: 1
+social_media_followers:
+  - 15700
+  - 18924138
+place_of_birth: "[[_Standards/WikiData/WD~Newmarket,52999]]"
+pseudonym: Jim Carrey
+Commons_category: Jim Carrey
+birth_name: James Eugene Carrey
+name_in_native_language: Jim Carrey
+date_of_birth: 1962-01-17T00:00:00Z
+work_period_start_: 1981-01-01T00:00:00Z
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Firma%20de%20Jim%20Carrey.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Jim%20Carrey%202020%20cropped.jpg
+described_at_URL:
+  - https://www.ranker.com/list/jim-carrey-dark-facts/lila-reid
+  - https://www.tvinsider.com/people/jim-carrey/
+ISNI: "0000000114494687"
+Plex_person_key: 5d776825880197001ec9030e
+P1015: "99070988"
+Know_Your_Meme_slug: jim-carrey
+X_Twitter_username: JimCarrey
+YouTube_handle: JimCarreyisHere
 ---
+
+# [[Carrey,Jim]] 
 
 #has_/time_/started :: 1962-01-17 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

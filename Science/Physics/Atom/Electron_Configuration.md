@@ -5,6 +5,18 @@ aliases:
   - Electron_Configuration
   - Electron Configuration
 has_id_wikidata: Q53859
+depicts: "[[_Standards/WikiData/WD~electron_shell,193793]]"
+subclass_of: "[[_Standards/WikiData/WD~quality,1207505]]"
+main_Wikidata_property: electron configuration
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20orbitals%20crop.svg
+Commons_category: Electron configurations
+described_at_URL:
+  - https://www.chem.fsu.edu/chemlab/chm1045/e_config.html
+  - https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Quantum_Mechanics/10%3A_Multi-electron_Atoms/Electron_Configuration
+  - https://www.khanacademy.org/science/hs-chemistry/x2613d8165d88df5e:atomic-models-and-periodicity/x2613d8165d88df5e:the-quantum-model/v/introduction-to-electron-configurations
+  - https://www.bbc.co.uk/bitesize/guides/z36cfcw/revision/4
+  - https://www.khanacademy.org/science/physical-chemistry-essentials/x98cdf762ed888601:structure-of-atom/x98cdf762ed888601:electronic-configuration-of-atom/a/electron-configurations-article
+  - https://chemed.chem.purdue.edu/genchem/topicreview/bp/ch6/quantum.html#top
 ---
 
 # [[Electron_Configuration]] 

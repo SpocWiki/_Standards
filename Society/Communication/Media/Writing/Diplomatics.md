@@ -1,6 +1,23 @@
 ---
 aliases:
 has_id_wikidata: Q378426
+part_of: "[[_Standards/WikiData/WD~auxiliary_science_of_history,770723]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+instance_of: "[[_Standards/WikiData/WD~field_of_study,1047113]]"
+is_the_study_of: "[[_Standards/WikiData/WD~Q11812270,11812270]]"
+practiced_by: "[[_Standards/WikiData/WD~diplomatician,47520669]]"
+different_from: "[[_Standards/WikiData/WD~diplomacy,1889]]"
+subclass_of: "[[_Standards/WikiData/WD~philology,40634]]"
+Dewey_Decimal_Classification: "909"
+OmegaWiki_Defined_Meaning: "1259240"
+BHCL_UUID: cab10834-8ae6-4965-a5c5-d2f7f62d14af
+Commons_category: Diplomatics
+Regensburg_Classification: NZ 50550
 ---
 
 # [[Diplomatics]] 
@@ -10,7 +27,11 @@ has_id_wikidata: Q378426
 
 ## #has_/text_of_/abstract 
 
-> **Diplomatics** (in American English, and in most anglophone countries), or diplomatic (in British English), is a scholarly discipline centred on the critical analysis of documents, especially historical documents. It focuses on the conventions, protocols and formulae that have been used by document creators, and uses these to increase understanding of the processes of document creation, of information transmission, and of the relationships between the facts which the documents purport to record and reality.
+> **Diplomatics** (in American English, and in most anglophone countries), or diplomatic (BE), 
+> is a scholarly discipline centred on the critical analysis of documents, especially historical documents. 
+> 
+> It focuses on the conventions, protocols and formulae that have been used by document creators, 
+> and uses these to increase understanding of the processes of document creation, of information transmission, and of the relationships between the facts which the documents purport to record and reality.
 >
 > The discipline originally evolved as a tool for studying and determining the authenticity of the official charters and diplomas issued by royal and papal chanceries. It was subsequently appreciated that many of the same underlying principles could be applied to other types of official document and legal instrument, to non-official documents such as private letters, and, most recently, to the metadata of electronic records.
 >

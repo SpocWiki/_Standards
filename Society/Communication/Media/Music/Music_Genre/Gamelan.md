@@ -1,6 +1,32 @@
 ---
 aliases:
 has_id_wikidata: Q194492
+instance_of:
+  - "[[_Standards/WikiData/WD~music_genre,188451]]"
+  - "[[_Standards/WikiData/WD~music_tradition,60733114]]"
+location_of_creation:
+  - "[[_Standards/WikiData/WD~Bali,3125978]]"
+  - "[[_Standards/WikiData/WD~Java,3757]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+subclass_of: "[[_Standards/WikiData/WD~Southeast_Asian_classical_music,106586998]]"
+intangible_cultural_heritage_status:
+  - "[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]"
+  - "[[_Standards/WikiData/WD~National_Inventory_of_Intangible_Cultural_Heritage_in_Malaysia,113768320]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]"
+practiced_by:
+  - "[[_Standards/WikiData/WD~gamelan,113016974]]"
+  - "[[_Standards/WikiData/WD~gamelan_player,116811307]]"
+different_from: "[[_Standards/WikiData/WD~gamelan,113016974]]"
+location: "[[_Standards/WikiData/WD~Riau_Islands,2223]]"
+indigenous_to: "[[_Standards/WikiData/WD~Indonesia,252]]"
+country_of_origin: "[[_Standards/WikiData/WD~Indonesia,252]]"
+Commons_gallery: Gamelan
+Commons_category: Gamelan
+image: http://commons.wikimedia.org/wiki/Special:FilePath/165%20Museu%20de%20la%20M%C3%BAsica%2C%20gamelan.jpg
+described_at_URL:
+  - https://ich.unesco.org/en/RL/01607
+  - https://ich.unesco.org/es/RL/01607
+  - https://ich.unesco.org/fr/RL/01607
 ---
 
 # [[Gamelan]] 

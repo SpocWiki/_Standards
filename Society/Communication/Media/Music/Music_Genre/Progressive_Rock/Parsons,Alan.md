@@ -4,6 +4,52 @@ aliases:
   - Alan_Parsons
   - Parsons,Alan
 has_id_wikidata: Q212089
+occupation:
+  - "[[_Standards/WikiData/WD~audio_engineer,128124]]"
+  - "[[_Standards/WikiData/WD~singer,177220]]"
+  - "[[_Standards/WikiData/WD~record_producer,183945]]"
+  - "[[_Standards/WikiData/WD~songwriter,753110]]"
+  - "[[_Standards/WikiData/WD~guitarist,855091]]"
+  - "[[_Standards/WikiData/WD~keyboardist,1075651]]"
+  - "[[_Standards/WikiData/WD~recording_artist,55960555]]"
+  - "[[_Standards/WikiData/WD~composer,36834]]"
+place_of_birth: "[[_Standards/WikiData/WD~Willesden,146702]]"
+record_label: "[[_Standards/WikiData/WD~EMI,183412]]"
+given_name: "[[_Standards/WikiData/WD~Alan,294833]]"
+genre:
+  - "[[_Standards/WikiData/WD~pop_rock,484641]]"
+  - "[[_Standards/WikiData/WD~progressive_rock,49451]]"
+member_of: "[[_Standards/WikiData/WD~The_Alan_Parsons_Project,533478]]"
+instrument:
+  - "[[_Standards/WikiData/WD~electronic_keyboard,1343007]]"
+  - "[[_Standards/WikiData/WD~guitar,6607]]"
+different_from: "[[_Standards/WikiData/WD~Alan_Parsons,2636804]]"
+father: "[[_Standards/WikiData/WD~Denys_Parsons,3023414]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+copyright_representative: "[[_Standards/WikiData/WD~SESAC,7389867]]"
+family_name: "[[_Standards/WikiData/WD~Parsons,16880979]]"
+described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+mother: "[[_Standards/WikiData/WD~Kelty_MacLeod,111442811]]"
+discography: "[[_Standards/WikiData/WD~Alan_Parsons_discography,115197104]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+social_media_followers:
+  - 44800
+  - 20684
+Commons_category: Alan Parsons
+work_period_start_: 1967-01-01T00:00:00Z
+P1015: "2112803"
+date_of_birth: 1948-12-20T00:00:00Z
+official_website:
+  - http://alanparsons.com/
+  - http://www.the-alan-parsons-project.com/
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Parsons%202017-05-19%20ap0033cwo.jpg
+ISNI: "0000000078284294"
+IPI_name_number: "00089770715"
+Europeana_entity: agent/base/86776
+Facebook_username: alanparsons
+X_Twitter_username: alanparsons
 ---
 
 # [[Parsons,Alan]] 

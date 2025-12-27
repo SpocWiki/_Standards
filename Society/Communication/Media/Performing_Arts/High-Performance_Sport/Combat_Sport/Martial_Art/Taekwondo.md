@@ -1,6 +1,39 @@
 ---
 aliases:
 has_id_wikidata: Q36389
+different_from:
+  - "[[_Standards/WikiData/WD~Muay_Thai,120931]]"
+  - "[[_Standards/WikiData/WD~kickboxing,178678]]"
+  - "[[_Standards/WikiData/WD~kung_fu,208607]]"
+  - "[[_Standards/WikiData/WD~Shorinji_Kempo,933634]]"
+  - "[[_Standards/WikiData/WD~full_contact_karate,3754231]]"
+  - "[[_Standards/WikiData/WD~Taekwondo,9355136]]"
+  - "[[_Standards/WikiData/WD~karate,11419]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
+  - "[[_Standards/WikiData/WD~martial_art,11417]]"
+authority: "[[_Standards/WikiData/WD~World_Taekwondo,696406]]"
+practiced_by: "[[_Standards/WikiData/WD~taekwondo_athlete,13382533]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Taekwondo,18929289]]"
+country_of_origin:
+  - "[[_Standards/WikiData/WD~North_Korea,423]]"
+  - "[[_Standards/WikiData/WD~South_Korea,884]]"
+  - "[[_Standards/WikiData/WD~Korean_Empire,28233]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+OmegaWiki_Defined_Meaning: "1018936"
+Commons_gallery: Taekwondo
+Commons_category: Taekwondo
+IMDb_keyword: taekwondo
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Taekwondo%20pictogram.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/COOK%20%28GBR%29%20VS%20ZHU%20%28CHN%29%20BM%20-80KGM12.JPG
+IPTC_NewsCode: mediatopic/20001084
+Krugosvet_article_archived_: sport/THEKVONDO.html
+McCune_Reischauer_romanization: T'aekwŏndo
+Revised_Romanization: Taegwondo
+Baidu_Tieba_name: 跆拳道
+native_label: 태권도
+OpenStreetMap_tag: sport=taekwondo
+Dewey_Decimal_Classification: "796.8157"
 ---
 
 # [[Taekwondo]] 

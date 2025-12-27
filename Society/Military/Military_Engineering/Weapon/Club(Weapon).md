@@ -12,6 +12,25 @@ aliases:
   - Schläger
   - Club(Weapon)
 has_id_wikidata: Q392326
+subclass_of:
+  - "[[_Standards/WikiData/WD~archaeological_artefact,220659]]"
+  - "[[_Standards/WikiData/WD~blunt_instrument,339828]]"
+  - "[[_Standards/WikiData/WD~artificial_physical_object,8205328]]"
+  - "[[_Standards/WikiData/WD~stick,10971443]]"
+  - "[[_Standards/WikiData/WD~weapon,728]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+different_from: "[[_Standards/WikiData/WD~club,988108]]"
+has_list: "[[_Standards/WikiData/WD~list_of_clubs,1523590]]"
+instance_of: "[[_Standards/WikiData/WD~weapon_type,124078422]]"
+Nomenclature_for_Museum_Cataloging: "8338"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Ball-headed%20Club%20MET%20DT258525.jpg
+OmegaWiki_Defined_Meaning: "713958"
+Commons_gallery: Club (weapon)
+Commons_category: Club (weapon)
 ---
 
 # [[Club(Weapon)]] 

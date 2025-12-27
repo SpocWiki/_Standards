@@ -2,7 +2,42 @@
 aliases:
   - Ritter
   - Knight
+  - chevalier
 has_id_wikidata: Q102083
+honorific_prefix: "[[_Standards/WikiData/WD~Sir,209690]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~noble_title,355567]]"
+  - "[[_Standards/WikiData/WD~profession,28640]]"
+  - "[[_Standards/WikiData/WD~military_rank,56019]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+field_of_this_occupation: "[[_Standards/WikiData/WD~chivalry,1056721]]"
+subclass_of: "[[_Standards/WikiData/WD~warrior,1250916]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~knight,2261440]]"
+category_for_eponymous_categories: "[[_Standards/WikiData/WD~Q59576034,59576034]]"
+OmegaWiki_Defined_Meaning: "459910"
+Commons_category: Knights
+IMDb_keyword: knight
+male_form_of_label:
+  - cavaliere
+  - فارس
+  - riteris
+female_form_of_label:
+  - Ritterin
+  - فارسة
+  - caballera
+  - cavalleressa
+  - chevalière
+  - cavaliera
+  - riterė
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Miniatura%20dei%20Carmina%20regia%2002.jpg
+Iconclass_notation: 46A124
+Dewey_Decimal_Classification: "394.7"
 ---
 
 # [[Knight]] 

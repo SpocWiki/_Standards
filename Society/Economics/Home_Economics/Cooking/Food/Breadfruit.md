@@ -3,6 +3,75 @@ aliases:
   - Brotfrucht
   - Breadfruit
 has_id_wikidata: Q14677
+taxon_common_name:
+  - עץ הלחם
+  - パンノキ
+  - Kuru
+  - Brødfrukt
+  - Broodboom
+  - fruta-pão
+  - rima
+  - navadni kruhovec
+  - Brödfruktträd
+  - Ekmek ağacı
+  - 麵包樹
+  - 面包树
+  - 麵包樹
+  - 面包果树
+  - 面包树
+  - breadfruit
+  - sukun
+  - ʻulu
+  - ʻuru
+  - Brotfruchtbaum
+  - Breadfruit
+  - Breadnut
+  - Arbre del pa
+  - chlebovník obecný
+  - Breadfruit Tree
+  - dugdug
+  - Panarbo
+  - árbol del pan
+  - fruta de pan
+  - Leipäpuu
+  - arbre à pain
+  - Arbre à pain
+  - "'ulu"
+external_data_available_at_URL: https://www.gbif.org/dataset/31dc1507-a6e1-4233-a8df-c7a78596a7e4
+parent_taxon: "[[_Standards/WikiData/WD~Artocarpus,161085]]"
+has_use: "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~breadfruit,5869893]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Veritab,12898088]]"
+taxon_synonym: "[[_Standards/WikiData/WD~Artocarpus_communis,24852921]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+taxon_range:
+  - "[[_Standards/WikiData/WD~Gabon,1000]]"
+  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
+  - "[[_Standards/WikiData/WD~Fujian,41705]]"
+taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+ITIS_TSN: "184181"
+Commons_category: Artocarpus altilis
+taxon_name: Artocarpus altilis
+Commons_gallery: Artocarpus altilis
+short_name: A. altilis
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Artocarpus%20altilis%20%28fruit%29.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Artocarpus%20incisus%20Blanco2.267.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Starr%20031209-0031%20Artocarpus%20altilis.jpg
+GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=4319
+taxon_author_citation: (Parkinson) Fosberg
+Dewey_Decimal_Classification:
+  - "583.45"
+  - "634.39"
+EPPO_Code: ABFAL
+UMLS_CUI: C1256657
+UNII: MW47R8XY1O
 ---
 
 # [[Breadfruit]] 
@@ -41,4 +110,3 @@ has_id_wikidata: Q14677
 ### #is_/same_as :: [Breadfruit.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Breadfruit.personal.md) 
 
 ### #is_/same_as :: [Breadfruit.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Breadfruit.secret.md)
-

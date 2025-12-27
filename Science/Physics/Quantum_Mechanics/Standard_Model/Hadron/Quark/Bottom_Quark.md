@@ -8,6 +8,24 @@ aliases:
   - Bottom_Quark
   - Bottom Quark
 has_id_wikidata: Q6786
+studied_by: "[[_Standards/WikiData/WD~B_physics,795113]]"
+interaction:
+  - "[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]"
+  - "[[_Standards/WikiData/WD~strong_interaction,11415]]"
+  - "[[_Standards/WikiData/WD~gravity,11412]]"
+  - "[[_Standards/WikiData/WD~weak_interaction,11418]]"
+antiparticle: "[[_Standards/WikiData/WD~bottom_antiquark,11905758]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
+electric_charge: -0.3333333333333333
+subclass_of:
+  - "[[_Standards/WikiData/WD~quark,6718]]"
+  - "[[_Standards/WikiData/WD~elementary_particle,43116]]"
+follows: "[[_Standards/WikiData/WD~strange_quark,6763]]"
+parity_quantum_number: 1
+spin_quantum_number: 0.5
+Monte_Carlo_Particle_Number: "5"
+mass: 4.183
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Bottom%20quark.svg
 ---
 
 # [[Bottom_Quark]] 

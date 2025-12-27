@@ -4,6 +4,29 @@ aliases:
   - Coriolis_Force
   - Coriolis Force
 has_id_wikidata: Q169973
+subclass_of:
+  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
+  - "[[_Standards/WikiData/WD~fictitious_force,212126]]"
+named_after: "[[_Standards/WikiData/WD~Gaspard_Gustave_de_Coriolis,202827]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Gaspard_Gustave_de_Coriolis,202827]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+different_from: "[[_Standards/WikiData/WD~Coriolis_acceleration,2822923]]"
+instance_of: "[[_Standards/WikiData/WD~scientific_theory,3239681]]"
+ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><mrow data-mjx-texclass="ORD"><mi>𝖬</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>
+time_of_discovery_or_invention: 1835-01-01T00:00:00Z
+measurement_scale: "[[_Standards/WikiData/WD~newton,12438]]"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Low%20pressure%20system%20over%20Iceland.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Coriolis%20effect14.png
+Commons_category: Coriolis force
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Corioliskraftanimation.gif
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Helperofhumanity-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%93%E0%A6%B2%E0%A6%BF%E0%A6%B8%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%AC.wav
+OmegaWiki_Defined_Meaning: "921069"
+Commons_gallery: Coriolis effect
+MeSH_tree_code: G01.482.311
 ---
 
 # [[Coriolis_Force]] 

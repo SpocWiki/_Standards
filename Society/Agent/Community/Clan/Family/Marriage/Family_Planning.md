@@ -1,6 +1,37 @@
 ---
 aliases:
 has_id_wikidata: Q1280670
+has_part_s_:
+  - "[[_Standards/WikiData/WD~birth_control,122224]]"
+  - "[[_Standards/WikiData/WD~adoption,180472]]"
+  - "[[_Standards/WikiData/WD~sex_education,192280]]"
+  - "[[_Standards/WikiData/WD~abortion,8452]]"
+facet_of:
+  - "[[_Standards/WikiData/WD~human_population_control,130819]]"
+  - "[[_Standards/WikiData/WD~sex_education,192280]]"
+  - "[[_Standards/WikiData/WD~women's_health,8031191]]"
+  - "[[_Standards/WikiData/WD~family,8436]]"
+subclass_of: "[[_Standards/WikiData/WD~planning,309100]]"
+has_use: "[[_Standards/WikiData/WD~climate_change_mitigation,898653]]"
+instance_of: "[[_Standards/WikiData/WD~medical_specialty,930752]]"
+on_focus_list_of_Wikimedia_project:
+  - "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+  - "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Project_Drawdown,27218199]]"
+  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+followed_by: "[[_Standards/WikiData/WD~starting_a_family,130746549]]"
+Dewey_Decimal_Classification:
+  - "363.96"
+  - "304.666"
+  - "613.94"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/HK%20FPA%20Poster%201952.jpg
+Commons_category: Family planning
+IPTC_NewsCode: mediatopic/20000784
+MeSH_tree_code:
+  - N02.421.143.401
+  - N02.421.800.249
 ---
 
 # [[Family_Planning]] 

@@ -5,6 +5,18 @@ aliases:
   - 1450-Renaissance_Music+1550
   - 1450-Renaissance Music+1550
 has_id_wikidata: Q201405
+instance_of:
+  - "[[_Standards/WikiData/WD~music_genre,188451]]"
+  - "[[_Standards/WikiData/WD~musical_movement,12020884]]"
+  - "[[_Standards/WikiData/WD~music_by_period_of_time,106834231]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~Renaissance_art,1133779]]"
+  - "[[_Standards/WikiData/WD~music_of_Europe,3328676]]"
+  - "[[_Standards/WikiData/WD~classical_music,9730]]"
+followed_by: "[[_Standards/WikiData/WD~Baroque_music,8361]]"
+location: "[[_Standards/WikiData/WD~Europe,46]]"
+inception: 1400-01-01T00:00:00Z
+Commons_category: Renaissance music
 ---
 
 # [[1450-Renaissance_Music+1550]] 
