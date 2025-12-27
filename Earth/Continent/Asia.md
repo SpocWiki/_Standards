@@ -1,7 +1,13 @@
 ---
 aliases:
   - Asia
-has_id_wikidata: Q48
+has_id_wikidata: Q48 
+coordinates_of_easternmost_point: Point(-169.65 66.08)
+coordinates_of_northernmost_point: Point(59.239444444 81.843055555)
+coordinates_of_southernmost_point: Point(122.87475 -11.007561111)
+coordinates_of_westernmost_point: Point(25.665472222 40.125)
+coordinate_location: Point(87.331111111 43.681111111)
+location: [43.681111111, 87.331111111]
 Archive_of_Our_Own_tag: Asia
 area: 44614500
 Baidu_Tieba_name: 亚洲
@@ -10,11 +16,6 @@ Colon_Classification: SG--4
 Commons_category: Asia
 Commons_gallery: Asia
 confidential: public
-coordinates_of_easternmost_point: Point(-169.65 66.08)
-coordinates_of_northernmost_point: Point(59.239444444 81.843055555)
-coordinates_of_southernmost_point: Point(122.87475 -11.007561111)
-coordinates_of_westernmost_point: Point(25.665472222 40.125)
-coordinate_location: Point(87.331111111 43.681111111)
 demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Asia,3044208]]'
 demonym:
   - Áiseach
@@ -154,16 +155,20 @@ Wikitribune_category: asia
 
 # [[Asia]] 
 
+## #has_/map  
+
 ```leaflet
 id: Asia
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 3 
 maxZoom: 18
 defaultZoom: 3
 long: 99.0
 lat: 40
 geojsonFolder: ./Asia/
 markerFolder: ./Asia/
+coordinates: [[Asia]] 
+markerFile: [[Asia]] 
 ```
 
 [name-en::Asia]

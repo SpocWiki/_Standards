@@ -3,6 +3,12 @@ aliases:
   - Südamerika
   - America~South
 has_id_wikidata: Q18
+coordinates_of_easternmost_point: Point(-34.793055555 -7.155555555)
+coordinates_of_northernmost_point: Point(-63.619416666 15.670972222)
+coordinates_of_southernmost_point: Point(-68.72005 -56.538261111)
+coordinates_of_westernmost_point: Point(-81.328611111 -4.682777777)
+coordinate_location: Point(-59.0 -21.0)
+location: [ -21.0, -59.0]
 Archive_of_Our_Own_tag: South America
 area: 17843000
 Basisklassifikation: 74.26
@@ -25,11 +31,6 @@ contains_the_administrative_territorial_entity:
   - '[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]'
   - '[[_Standards/WikiData/WD~Uruguay,77]]'
   - '[[_Standards/WikiData/WD~Brazil,155]]'
-coordinates_of_easternmost_point: Point(-34.793055555 -7.155555555)
-coordinates_of_northernmost_point: Point(-63.619416666 15.670972222)
-coordinates_of_southernmost_point: Point(-68.72005 -56.538261111)
-coordinates_of_westernmost_point: Point(-81.328611111 -4.682777777)
-coordinate_location: Point(-59.0 -21.0)
 demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_South_America,5256080]]'
 demonym:
   - South American
@@ -142,9 +143,9 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_South_America,7112458]]'
 ## #has_/map  
 
 ```leaflet
-id: South America
+id: America~South
 defaultZoom: 3 
-minZoom: 4 
+minZoom: 3 
 maxZoom: 18
 long: -65
 lat: -25
