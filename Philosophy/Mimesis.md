@@ -2,6 +2,20 @@
 aliases:
   - Mimesis
 has_id_wikidata: Q468427
+opposite_of: "[[_Standards/WikiData/WD~diegesis,1790314]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~artistic_technique,11177771]]"
+  - "[[_Standards/WikiData/WD~philosophical_concept,33104279]]"
+  - "[[_Standards/WikiData/WD~aesthetic_concept,55387456]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+different_from: "[[_Standards/WikiData/WD~mimpathy,23014678]]"
+subclass_of: "[[_Standards/WikiData/WD~communication,11024]]"
+Dewey_Decimal_Classification:
+  - "801.93"
+  - "700.108"
+  - "809.912"
 ---
 
 # [[Mimesis]] 

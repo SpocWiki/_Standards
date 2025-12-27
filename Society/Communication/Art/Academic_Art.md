@@ -3,6 +3,14 @@ aliases:
   - Academic_Art
   - Academic Art
 has_id_wikidata: Q189458
+instance_of:
+  - "[[_Standards/WikiData/WD~art_movement,968159]]"
+  - "[[_Standards/WikiData/WD~architectural_style,32880]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~L'art_pompier,3268288]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20Cabanel%20-%20The%20Birth%20of%20Venus%20-%20Google%20Art%20Project%202.jpg
+Commons_gallery: Academic art
+Commons_category: Academic art
 ---
 
 # [[Academic_Art]] 

@@ -5,6 +5,28 @@ aliases:
   - Binary_Relation
   - Binary Relation
 has_id_wikidata: Q130901
+part_of: "[[_Standards/WikiData/WD~Cartesian_product,173740]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~ordered_pair,191290]]"
+has_characteristic:
+  - "[[_Standards/WikiData/WD~codomain,199006]]"
+  - "[[_Standards/WikiData/WD~arity,1315869]]"
+  - "[[_Standards/WikiData/WD~input_set,18720436]]"
+subclass_of: "[[_Standards/WikiData/WD~relation,203066]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Binary_relations,22722987]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_relation,130324710]]"
+defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>R</mi><mo stretchy="false">&#x2286;</mo><mi>A</mi><mo stretchy="false">&#x00D7;</mo><mi>B</mi></mstyle></mrow></math>
+IEV_number: 102-01-07
+Commons_category: Binary relations
+in_defining_formula:
+  - <math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>R</mi></mstyle></mrow></math>
+  - <math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>B</mi></mstyle></mrow></math>
+  - <math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>A</mi></mstyle></mrow></math>
+described_at_URL:
+  - https://www.geeksforgeeks.org/maths/binary-relation/
+  - https://web.stanford.edu/class/archive/cs/cs103/cs103.1198/lectures/06-BinaryRelationsI/Binary%20Relations.pdf
+  - https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session7.pdf
+  - https://math.libretexts.org/Courses/Mount_Royal_University/Higher_Arithmetic/2%3A_Binary_relations/2.1%3A_Binary_Relations
 ---
 
 # [[Binary_Relation]] 

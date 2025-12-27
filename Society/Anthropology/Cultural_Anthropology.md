@@ -4,6 +4,20 @@ aliases:
   - Cultural_Anthropology
   - Cultural Anthropology
 has_id_wikidata: Q28598
+instance_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+different_from:
+  - "[[_Standards/WikiData/WD~European_ethnology_(Volkskunde),15075764]]"
+  - "[[_Standards/WikiData/WD~social_anthropology,29051]]"
+  - "[[_Standards/WikiData/WD~ethnology,43455]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Cultural_anthropology,18857149]]"
+part_of: "[[_Standards/WikiData/WD~social_and_cultural_anthropology,21505779]]"
+practiced_by: "[[_Standards/WikiData/WD~cultural_anthropologist,30131998]]"
+subclass_of: "[[_Standards/WikiData/WD~anthropology,23404]]"
+Commons_category: Cultural anthropology
+Dewey_Decimal_Classification: "305.8"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Cultural%20evolution.PNG
+Wolfram_Language_entity_code: Entity["Concept", "CulturalAnthropology::7p3wn"]
+MeSH_tree_code: I01.076.201
 ---
 
 # [[Cultural_Anthropology]] 

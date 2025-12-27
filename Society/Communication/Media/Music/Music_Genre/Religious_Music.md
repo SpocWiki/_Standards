@@ -1,6 +1,23 @@
 ---
 aliases:
 has_id_wikidata: Q1065742
+instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+opposite_of:
+  - "[[_Standards/WikiData/WD~secular_music,2707298]]"
+  - "[[_Standards/WikiData/WD~atheist_music,130397591]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Religious_music,18932440]]"
+subclass_of: "[[_Standards/WikiData/WD~functional_music,26897135]]"
+has_characteristic: "[[_Standards/WikiData/WD~music_tradition,60733114]]"
+has_use: "[[_Standards/WikiData/WD~religion,9174]]"
+IAB_code: "361"
+Classification_of_Instructional_Programs_code:
+  - "39.05"
+  - "39.0501"
+Commons_category: Religious music
+Dewey_Decimal_Classification: "781.7"
 ---
 
 # [[Religious_Music]] 

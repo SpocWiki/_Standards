@@ -5,6 +5,20 @@ aliases:
   - Commutative_Algebra
   - Commutative Algebra
 has_id_wikidata: Q727659
+is_the_study_of:
+  - "[[_Standards/WikiData/WD~commutative_ring,858656]]"
+  - "[[_Standards/WikiData/WD~module,18848]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~branch_of_mathematics,1936384]]"
+  - "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+opposite_of: "[[_Standards/WikiData/WD~noncommutative_algebra,61793851]]"
+part_of: "[[_Standards/WikiData/WD~algebra,3968]]"
+Stack_Exchange_tag:
+  - https://math.stackexchange.com/tags/commutative-algebra
+  - https://mathoverflow.net/tags/ac.commutative-algebra
+Commons_category: Commutative algebra
+Dewey_Decimal_Classification: "512.44"
 ---
 
 # [[Commutative_Algebra]] 

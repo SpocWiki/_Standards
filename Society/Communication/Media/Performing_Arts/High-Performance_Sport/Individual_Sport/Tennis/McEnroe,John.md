@@ -4,6 +4,65 @@ aliases:
   - John_McEnroe
   - McEnroe,John
 has_id_wikidata: Q16474
+singles_record: 881–198
+name_in_native_language: John McEnroe
+work_period_end_: 1994-01-01T00:00:00Z
+spouse: "[[_Standards/WikiData/WD~Patty_Smyth,444096]]"
+sibling: "[[_Standards/WikiData/WD~Patrick_McEnroe,614675]]"
+award_received:
+  - "[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]"
+  - "[[_Standards/WikiData/WD~Philippe_Chatrier_Award,10349157]]"
+  - "[[_Standards/WikiData/WD~International_Tennis_Hall_of_Fame,52454]]"
+playing_hand: "[[_Standards/WikiData/WD~left_handedness,789447]]"
+handedness: "[[_Standards/WikiData/WD~left_handedness,789447]]"
+member_of_sports_team:
+  - "[[_Standards/WikiData/WD~United_States_Davis_Cup_team,1389353]]"
+  - "[[_Standards/WikiData/WD~Stanford_Cardinal_men's_tennis,107881483]]"
+occupation:
+  - "[[_Standards/WikiData/WD~journalist,1930187]]"
+  - "[[_Standards/WikiData/WD~tennis_player,10833314]]"
+  - "[[_Standards/WikiData/WD~tennis_coach,13219424]]"
+given_name: "[[_Standards/WikiData/WD~John,4925477]]"
+educated_at:
+  - "[[_Standards/WikiData/WD~Buckley_Country_Day_School,4983350]]"
+  - "[[_Standards/WikiData/WD~Ivy_Preparatory_School_League,6099917]]"
+  - "[[_Standards/WikiData/WD~Trinity_School,7842961]]"
+  - "[[_Standards/WikiData/WD~Stanford_University,41506]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+sports_discipline_competed_in:
+  - "[[_Standards/WikiData/WD~mixed_doubles,16629853]]"
+  - "[[_Standards/WikiData/WD~tennis_singles,18123880]]"
+  - "[[_Standards/WikiData/WD~tennis_doubles,18123885]]"
+family_name: "[[_Standards/WikiData/WD~McEnroe,21492066]]"
+child:
+  - "[[_Standards/WikiData/WD~Sean_McEnroe,75761311]]"
+  - "[[_Standards/WikiData/WD~Kevin_John_McEnroe,75761309]]"
+  - "[[_Standards/WikiData/WD~Emily_McEnroe,75761313]]"
+field_of_work: "[[_Standards/WikiData/WD~tennis,847]]"
+sport: "[[_Standards/WikiData/WD~tennis,847]]"
+place_of_birth: "[[_Standards/WikiData/WD~Wiesbaden,1721]]"
+native_language: "[[_Standards/WikiData/WD~English,1860]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
+employer: "[[_Standards/WikiData/WD~British_Broadcasting_Corporation,9531]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+country_for_sport: "[[_Standards/WikiData/WD~United_States,30]]"
+residence: "[[_Standards/WikiData/WD~New_York_City,60]]"
+ranking: 1
+height: 180
+mass: 75
+Commons_category: John McEnroe
+work_period_start_: 1978-01-01T00:00:00Z
+date_of_birth: 1959-02-16T00:00:00Z
+prize_money: 12552132
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/John%20McEnroe%20at%20the%202009%20US%20Open%2001a%20%28cropped%29.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/John%20McEnroe%20by%20David%20Shankbone.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/John%20McEnroe%20WTT.jpg
+ISNI: "0000000080982796"
+Munzinger_Sport_number: "01000000831"
+doubles_record: 543–103
+Plex_person_key: 5d77682b151a60001f24ba94
 ---
 
 # [[McEnroe,John]] 

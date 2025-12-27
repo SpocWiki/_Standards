@@ -22,6 +22,10 @@ aliases:
   - 冥古宙（非正式）
   - Eon~1~Hadean
 has_id_wikidata: Q30957
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q31799336,31799336]]"
+instance_of: "[[_Standards/WikiData/WD~year,577]]"
+Commons_category: "48"
+point_in_time: 0048-01-01T00:00:00Z
 ---
 
 # [[Eon~1~Hadean]] 

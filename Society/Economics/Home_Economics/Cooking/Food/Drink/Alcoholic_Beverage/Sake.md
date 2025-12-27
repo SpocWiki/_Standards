@@ -3,6 +3,26 @@ aliases:
   - Japanese rice wine
   - Sake
 has_id_wikidata: Q170219
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+subclass_of: "[[_Standards/WikiData/WD~rice_wine,1142986]]"
+made_from_material: "[[_Standards/WikiData/WD~sake_rice,2204436]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_sake,11509280]]"
+has_list: "[[_Standards/WikiData/WD~list_of_sake_brands,11509281]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Liquor_Tax_Act,11644367]]"
+different_from: "[[_Standards/WikiData/WD~Q22386583,22386583]]"
+country_of_origin: "[[_Standards/WikiData/WD~Japan,17]]"
+OmegaWiki_Defined_Meaning: "876443"
+subreddit: Sake
+Commons_category: Sake
+native_label: 酒
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Sake%20set.jpg
+exact_match: http://purl.obolibrary.org/obo/ENVO_00003912
+Unicode_character: 🍶
+Wolfram_Language_entity_code: Entity["FoodType", "Sake"]
+Commons_gallery: 日本酒
 ---
 
 # [[Sake]] 

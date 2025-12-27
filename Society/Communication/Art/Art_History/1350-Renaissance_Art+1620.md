@@ -1,6 +1,24 @@
 ---
 aliases:
 has_id_wikidata: Q1133779
+has_part_s_:
+  - "[[_Standards/WikiData/WD~Renaissance_music,201405]]"
+  - "[[_Standards/WikiData/WD~Renaissance_architecture,236122]]"
+  - "[[_Standards/WikiData/WD~Renaissance_sculpture,936588]]"
+  - "[[_Standards/WikiData/WD~Renaissance_dance,978825]]"
+  - "[[_Standards/WikiData/WD~Renaissance_literature,1781608]]"
+  - "[[_Standards/WikiData/WD~Renaissance_theatre,3527942]]"
+  - "[[_Standards/WikiData/WD~Renaissance_painting,15885248]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~art_style,1792644]]"
+  - "[[_Standards/WikiData/WD~aspect_in_a_historical_period,111676757]]"
+subclass_of: "[[_Standards/WikiData/WD~Western_art,31793078]]"
+facet_of:
+  - "[[_Standards/WikiData/WD~history_of_the_Renaissance,112647812]]"
+  - "[[_Standards/WikiData/WD~art_history,50637]]"
+Commons_gallery: Renaissance art
+Commons_category: Renaissance art
+Gujarati_Vishwakosh_entry: રેનેસાંસ-કલા-renaissance-art
 ---
 
 # [[1350-Renaissance_Art+1620]] 

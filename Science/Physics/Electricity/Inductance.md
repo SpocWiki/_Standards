@@ -3,6 +3,34 @@ aliases:
   - Induktivität
   - Inductance
 has_id_wikidata: Q177897
+subclass_of:
+  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
+  - "[[_Standards/WikiData/WD~scalar_quantity,181175]]"
+recommended_unit_of_measurement:
+  - "[[_Standards/WikiData/WD~henry,163354]]"
+  - "[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second_square_ampere,119085737]]"
+different_from:
+  - "[[_Standards/WikiData/WD~electromagnetic_induction,988780]]"
+  - "[[_Standards/WikiData/WD~mutual_inductance,78101401]]"
+  - "[[_Standards/WikiData/WD~self_inductance,102274741]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]"
+  - "[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+quantity_symbol_LaTeX_:
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>L</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">m</mi></mrow></mrow></msub></mstyle></mrow></math>
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>L</mi></mstyle></mrow></math>
+ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mrow data-mjx-texclass="ORD"><mi>𝖬</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>2</mn></mrow></mrow></msup><msup><mrow data-mjx-texclass="ORD"><mi>𝖨</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>
+OmegaWiki_Defined_Meaning: "771150"
+in_defining_formula:
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>I</mi></mstyle></mrow></math>
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>L</mi></mstyle></mrow></math>
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x03A8;</mi></mstyle></mrow></math>
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Inductor.jpg
+Stack_Exchange_tag: https://physics.stackexchange.com/tags/inductance
+IEV_number: 131-12-19
+defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>L</mi><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">&#x03A8;</mi></mrow><mrow data-mjx-texclass="ORD"><mi>I</mi></mrow></mfrac></mrow></mstyle></mrow></math>
 ---
 
 # [[Inductance]] 

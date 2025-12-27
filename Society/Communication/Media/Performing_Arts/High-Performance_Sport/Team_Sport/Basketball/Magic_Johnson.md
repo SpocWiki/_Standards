@@ -4,6 +4,111 @@ aliases:
   - Earvin Johnson Jr
   - Magic Johnson
 has_id_wikidata: Q134183
+drafted_by: "[[_Standards/WikiData/WD~Los_Angeles_Lakers,121783]]"
+member_of_sports_team:
+  - "[[_Standards/WikiData/WD~Los_Angeles_Lakers,121783]]"
+  - "[[_Standards/WikiData/WD~Michigan_State_Spartans_men's_basketball,3856893]]"
+residence:
+  - "[[_Standards/WikiData/WD~Beverly_Hills,127856]]"
+  - "[[_Standards/WikiData/WD~Dana_Point,852638]]"
+occupation:
+  - "[[_Standards/WikiData/WD~entrepreneur,131524]]"
+  - "[[_Standards/WikiData/WD~television_producer,578109]]"
+  - "[[_Standards/WikiData/WD~financier,1979607]]"
+  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
+  - "[[_Standards/WikiData/WD~basketball_player,3665646]]"
+  - "[[_Standards/WikiData/WD~basketball_coach,5137571]]"
+  - "[[_Standards/WikiData/WD~motivational_speaker,15982858]]"
+  - "[[_Standards/WikiData/WD~HIV_AIDS_activist,96034777]]"
+  - "[[_Standards/WikiData/WD~actor,33999]]"
+  - "[[_Standards/WikiData/WD~businessperson,43845]]"
+league_or_competition:
+  - "[[_Standards/WikiData/WD~National_Basketball_Association,155223]]"
+  - "[[_Standards/WikiData/WD~NCAA_Division_I_men's_basketball,94861615]]"
+position_played_on_team_speciality:
+  - "[[_Standards/WikiData/WD~point_guard,212413]]"
+  - "[[_Standards/WikiData/WD~power_forward,462471]]"
+owner_of:
+  - "[[_Standards/WikiData/WD~Washington_Commanders,212654]]"
+  - "[[_Standards/WikiData/WD~Los_Angeles_Sparks,1329633]]"
+award_received:
+  - "[[_Standards/WikiData/WD~NBA_Most_Valuable_Player_Award,222047]]"
+  - "[[_Standards/WikiData/WD~All_NBA_Team,674359]]"
+  - "[[_Standards/WikiData/WD~Bill_Russell_NBA_Finals_Most_Valuable_Player_Award,739499]]"
+  - "[[_Standards/WikiData/WD~NBA_All_Rookie_Team,1418009]]"
+  - "[[_Standards/WikiData/WD~J._Walter_Kennedy_Citizenship_Award,1501719]]"
+  - "[[_Standards/WikiData/WD~BET_Humanitarian_Award,4835493]]"
+  - "[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]"
+  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Audio_Book,_Narration_&_Storytelling_Recording,5593890]]"
+  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
+  - "[[_Standards/WikiData/WD~Phoenix_Award,118697991]]"
+  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
+  - "[[_Standards/WikiData/WD~NBA_All_Star_Game_Kobe_Bryant_Most_Valuable_Player_Award,31391]]"
+educated_at:
+  - "[[_Standards/WikiData/WD~Michigan_State_University,270222]]"
+  - "[[_Standards/WikiData/WD~Everett_High_School,5417023]]"
+different_from:
+  - "[[_Standards/WikiData/WD~Dennis_Johnson,352162]]"
+  - "[[_Standards/WikiData/WD~Ervin_Johnson,1638664]]"
+  - "[[_Standards/WikiData/WD~Edgar_Jones,2343352]]"
+  - "[[_Standards/WikiData/WD~Michael_Jordan,41421]]"
+medical_condition: "[[_Standards/WikiData/WD~serostatus,1084257]]"
+family_name: "[[_Standards/WikiData/WD~Johnson,1158485]]"
+uses: "[[_Standards/WikiData/WD~Q3368230,3368230]]"
+nominated_for: "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Audio_Book,_Narration_&_Storytelling_Recording,5593890]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+child: "[[_Standards/WikiData/WD~EJ_Johnson,29532274]]"
+given_name:
+  - "[[_Standards/WikiData/WD~Earvin,60794310]]"
+  - "[[_Standards/WikiData/WD~Magic,87325462]]"
+described_by_source: "[[_Standards/WikiData/WD~Medvik,99413897]]"
+participant_in: "[[_Standards/WikiData/WD~Global_Conference_2019,116813843]]"
+languages_spoken_written_or_signed:
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~French,150]]"
+native_language: "[[_Standards/WikiData/WD~English,1860]]"
+writing_language: "[[_Standards/WikiData/WD~English,1860]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Christianity,5043]]"
+sport: "[[_Standards/WikiData/WD~basketball,5372]]"
+place_of_birth: "[[_Standards/WikiData/WD~Lansing,28237]]"
+member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+country_for_sport: "[[_Standards/WikiData/WD~United_States,30]]"
+mass: 100
+height: 206
+ethnic_group: "[[_Standards/WikiData/WD~African_Americans,49085]]"
+sport_number:
+  - "33"
+  - "32"
+nickname:
+  - Magic
+  - Buck
+  - The Magic Show
+  - June Bug
+  - Mr. J
+  - E.J. the Deejay
+  - The Magic Man
+  - Tragic Johnson
+Commons_category: Magic Johnson
+social_media_followers: 5334321
+work_period_start_: 1979-01-01T00:00:00Z
+date_of_birth: 1959-08-14T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Magic%20Johnson%20at%20SXSW%202022%20%2851958828669%29%20%28cropped%29.jpg
+official_website: https://magicjohnson.com/
+ISNI:
+  - "0000000110734436"
+  - "0000000368581203"
+Munzinger_Sport_number: "01000002324"
+U_S_National_Archives_Identifier: "10570297"
+Plex_person_key: 5d776835a091de001f2e7ea7
+Libris_URI: b8nr13cv14qxbvz
+Wolfram_Language_entity_code: Entity["HistoricalEvent", "MagicJohnsonAnnouncedHIVInfection1991"]
+Instagram_username: magicjohnson
+Facebook_username: MagicJohnson
+X_Twitter_username: MagicJohnson
+birth_name: Earvin Johnson Jr.
+work_period_end_: 1991-01-01T00:00:00Z
 ---
 
 # [[Magic_Johnson]] 

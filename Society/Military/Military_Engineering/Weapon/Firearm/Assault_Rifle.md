@@ -3,6 +3,15 @@ aliases:
   - Assault_Rifle
   - Assault Rifle
 has_id_wikidata: Q177456
+subclass_of:
+  - "[[_Standards/WikiData/WD~rifle,124072]]"
+  - "[[_Standards/WikiData/WD~selective_fire_firearm,9180315]]"
+instance_of: "[[_Standards/WikiData/WD~weapon_type,124078422]]"
+Nomenclature_for_Museum_Cataloging: "8301"
+Commons_category: Assault rifles
+image: http://commons.wikimedia.org/wiki/Special:FilePath/M16A1%20brimob.jpg
+exact_match: http://wordnet-rdf.princeton.edu/wn30/02749479-n
+IMDb_keyword: assault-rifle
 ---
 
 # [[Assault_Rifle]] 

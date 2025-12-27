@@ -2,6 +2,49 @@
 aliases:
   - Amun
 has_id_wikidata: Q58373
+instance_of:
+  - "[[_Standards/WikiData/WD~Ancient_Egyptian_deity,146083]]"
+  - "[[_Standards/WikiData/WD~sky_deity,6639573]]"
+child:
+  - "[[_Standards/WikiData/WD~Khonsu,190521]]"
+  - "[[_Standards/WikiData/WD~Monthu,626032]]"
+worshipped_by:
+  - "[[_Standards/WikiData/WD~Egyptian_mythology,205740]]"
+  - "[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131]]"
+part_of:
+  - "[[_Standards/WikiData/WD~Egyptian_mythology,205740]]"
+  - "[[_Standards/WikiData/WD~Q117313246,117313246]]"
+father: "[[_Standards/WikiData/WD~Nun,276563]]"
+different_from: "[[_Standards/WikiData/WD~Amon,473916]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+  - "[[_Standards/WikiData/WD~Easton's_Bible_Dictionary,_1897,48606171]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+epithet: "[[_Standards/WikiData/WD~Eleutherios,106542644]]"
+spouse: "[[_Standards/WikiData/WD~Mut,29409]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Zeus,34201]]"
+Commons_category: Amun
+OmegaWiki_Defined_Meaning: "1648367"
+Hederich_encyclopedia_article: Ammon
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Amun%20post%20Amarna%20%28azure%20skin%20color%29.svg
+Iconclass_notation: 12C13(AMON-RE)
+name_in_hiero_markup: i-mn:N35-C12
+Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/AMON.html
 ---
 
 # [[Amun]] 

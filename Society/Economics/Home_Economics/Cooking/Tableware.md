@@ -4,7 +4,37 @@ aliases:
   - dishware
   - Tableware
 has_id_wikidata: Q851782
+has_part_s_:
+  - "[[_Standards/WikiData/WD~teacup,81707]]"
+  - "[[_Standards/WikiData/WD~cup,81727]]"
+  - "[[_Standards/WikiData/WD~cutlery,81944]]"
+  - "[[_Standards/WikiData/WD~plate,57216]]"
+part_of:
+  - "[[_Standards/WikiData/WD~eating,213449]]"
+  - "[[_Standards/WikiData/WD~table_setting,1758541]]"
+  - "[[_Standards/WikiData/WD~everyday_culture,2649476]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+instance_of: "[[_Standards/WikiData/WD~table_set,1191255]]"
+subclass_of: "[[_Standards/WikiData/WD~kitchenware,1521410]]"
+different_from: "[[_Standards/WikiData/WD~table_linen,111366781]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Silbertafel%20Reiss%203%20rem.jpg
+Iconclass_notation: 41C31
+U_S_National_Archives_Identifier: "10642939"
+Commons_category: Tableware
+Dewey_Decimal_Classification: "642.7"
+Common_Procurement_Vocabulary_code:
+  - "39221200"
+  - "39221220"
+GS1_GPC_code: "73050000"
+EAGLE_id: objtyp/lod/1780
+X_Twitter_username: tablewareintmag
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Essgeschirr.ogg
 ---
+
+# [[Tableware]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~tableware,851782]]
 

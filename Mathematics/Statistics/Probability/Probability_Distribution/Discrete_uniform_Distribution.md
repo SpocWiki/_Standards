@@ -4,6 +4,11 @@ aliases:
   - Discrete_uniform_Distribution
   - Discrete uniform Distribution
 has_id_wikidata: Q3574718
+subclass_of:
+  - "[[_Standards/WikiData/WD~beta_binomial_distribution,307557]]"
+  - "[[_Standards/WikiData/WD~location_scale_family,6664772]]"
+  - "[[_Standards/WikiData/WD~symmetric_probability_distribution,16000505]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 ---
 
 # [[Discrete_uniform_Distribution]] 

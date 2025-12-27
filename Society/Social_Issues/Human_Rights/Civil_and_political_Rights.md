@@ -4,6 +4,46 @@ aliases:
   - Civil and political rights
   - Civil and political Rights
 has_id_wikidata: Q191600
+has_part_s_:
+  - "[[_Standards/WikiData/WD~freedom_of_assembly,162254]]"
+  - "[[_Standards/WikiData/WD~freedom_of_religion,171899]]"
+  - "[[_Standards/WikiData/WD~freedom_of_thought,277569]]"
+  - "[[_Standards/WikiData/WD~freedom_of_movement,1344824]]"
+  - "[[_Standards/WikiData/WD~Natural_justice,2976061]]"
+  - "[[_Standards/WikiData/WD~political_rights,3709056]]"
+  - "[[_Standards/WikiData/WD~civil_rights,25447176]]"
+  - "[[_Standards/WikiData/WD~freedom_of_the_press,22688]]"
+  - "[[_Standards/WikiData/WD~freedom_of_speech,22692]]"
+  - "[[_Standards/WikiData/WD~right_to_life,25822]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~rights,780687]]"
+  - "[[_Standards/WikiData/WD~human_rights,8458]]"
+facet_of:
+  - "[[_Standards/WikiData/WD~individual,795052]]"
+  - "[[_Standards/WikiData/WD~social_organization,4430243]]"
+  - "[[_Standards/WikiData/WD~government,7188]]"
+has_effect: "[[_Standards/WikiData/WD~political_freedom,831058]]"
+on_focus_list_of_Wikimedia_project:
+  - "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
+  - "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
+  - "[[_Standards/WikiData/WD~Princeton_Encyclopedia_of_American_Political_History,20751032]]"
+  - "[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice,21002838]]"
+  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights,7813]]"
+partially_coincident_with:
+  - "[[_Standards/WikiData/WD~civil_rights,25447176]]"
+  - "[[_Standards/WikiData/WD~human_rights,8458]]"
+  - "[[_Standards/WikiData/WD~civil_liberties,29556]]"
+Dewey_Decimal_Classification: "323"
+Library_of_Congress_Classification: JC571
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Code%20Civil%201804.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Locke%20treatises%20of%20government%20page.jpg
+MeSH_tree_code:
+  - I01.880.604.473.352
+  - N03.706.437.352
 ---
 
 # [[Civil_and_political_Rights]] 

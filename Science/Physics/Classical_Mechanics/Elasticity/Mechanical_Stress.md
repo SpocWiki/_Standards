@@ -1,6 +1,22 @@
 ---
 aliases:
 has_id_wikidata: Q206175
+subclass_of: "[[_Standards/WikiData/WD~physical_quantity,107715]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~shear_stress,657936]]"
+  - "[[_Standards/WikiData/WD~normal_stress,11425837]]"
+different_from:
+  - "[[_Standards/WikiData/WD~stress_tensor,13409892]]"
+  - "[[_Standards/WikiData/WD~pressure,39552]]"
+described_by_source: "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+has_characteristic: "[[_Standards/WikiData/WD~unit_of_mechanical_stress,131179447]]"
+ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>1</mn></mrow></mrow></msup><mrow data-mjx-texclass="ORD"><mi>𝖬</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>
+recommended_unit_of_measurement: "[[_Standards/WikiData/WD~pascal,44395]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Plastic%20Protractor%20Polarized%2005375.jpg
+UMLS_CUI: C0038442
+MeSH_tree_code: G01.374.835
+Commons_category: Stress (mechanics)
+Dewey_Decimal_Classification: "531.381"
 ---
 
 # [[Mechanical_Stress]] 

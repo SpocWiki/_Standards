@@ -3,6 +3,15 @@ aliases:
   - Air_defense
   - Air defense
 has_id_wikidata: Q843941
+instance_of:
+  - "[[_Standards/WikiData/WD~branch_of_service,690109]]"
+  - "[[_Standards/WikiData/WD~military_branch,781132]]"
+  - "[[_Standards/WikiData/WD~defense,1985622]]"
+subclass_of: "[[_Standards/WikiData/WD~anti_aircraft_warfare,86739852]]"
+Commons_category: Anti-aircraft weapons
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Bofors-aa-gun-algeria.jpg
+Dewey_Decimal_Classification: "355.422"
+Krugosvet_article_archived_: nauka_i_tehnika/voennaya_tehnika/PROTIVOVOZDUSHNAYA_OBORONA.html
 ---
 
 # [[Air_defense]] 

@@ -1,6 +1,20 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q17723
+instance_of:
+  - "[[_Standards/WikiData/WD~music_genre,188451]]"
+  - "[[_Standards/WikiData/WD~musical_movement,12020884]]"
+different_from:
+  - "[[_Standards/WikiData/WD~art_music,1583807]]"
+  - "[[_Standards/WikiData/WD~classical_music,9730]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~music_of_Europe,3328676]]"
+  - "[[_Standards/WikiData/WD~classical_music,9730]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Classical_period_(music),20343920]]"
+inception: 1730-01-01T00:00:00Z
+follows: "[[_Standards/WikiData/WD~Baroque_music,8361]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mozart%20family%20crop.jpg
+Commons_category: Classical music (period)
 ---
 
 # [[Classical_Period]] 

@@ -3,6 +3,21 @@ aliases:
   - Helligkeit
   - Brightness
 has_id_wikidata: Q221656
+part_of: "[[_Standards/WikiData/WD~visual_perception,162668]]"
+opposite_of: "[[_Standards/WikiData/WD~darkness,204170]]"
+different_from:
+  - "[[_Standards/WikiData/WD~specular_reflection,1079524]]"
+  - "[[_Standards/WikiData/WD~lightness,19426]]"
+has_characteristic: "[[_Standards/WikiData/WD~subjectivity,1139554]]"
+instance_of: "[[_Standards/WikiData/WD~measurand,1924249]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03BC;</mi><mo stretchy="false">=</mo><mfrac><mrow><mi>R</mi><mo stretchy="false">+</mo><mi>G</mi><mo stretchy="false">+</mo><mi>B</mi></mrow><mrow><mn>3</mn></mrow></mfrac></mstyle></mrow></math>
+Stack_Exchange_tag: https://stackoverflow.com/tags/brightness
+IEV_number: 845-22-059
+Commons_category: Brightness
+Dewey_Decimal_Classification:
+  - "523.822"
+  - "152.143"
 ---
 
 # [[Brightness]] 

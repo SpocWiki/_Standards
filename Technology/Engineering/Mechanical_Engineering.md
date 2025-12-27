@@ -40,6 +40,7 @@ Commons_category: Mechanical engineering
 IPTC_NewsCode: mediatopic/20000716
 ---
 
+
 # [[Mechanical_Engineering]] 
 
 #is_/same_as :: [[../../WikiData/WD~Mechanical_engineering,101333|WD~Mechanical_engineering,101333]]  
@@ -56,12 +57,6 @@ IPTC_NewsCode: mediatopic/20000716
 > Mechanical engineering emerged as a field during the Industrial Revolution in Europe in the 18th century; however, its development can be traced back several thousand years around the world. In the 19th century, developments in physics led to the development of mechanical engineering science. The field has continually evolved to incorporate advancements; today mechanical engineers are pursuing developments in such areas as composites, mechatronics, and nanotechnology. It also overlaps with aerospace engineering, metallurgical engineering, civil engineering, structural engineering, electrical engineering, manufacturing engineering, chemical engineering, industrial engineering, and other engineering disciplines to varying amounts. Mechanical engineers may also work in the field of biomedical engineering, specifically with biomechanics, transport phenomena, biomechatronics, bionanotechnology, and modelling of biological systems.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mechanical%20engineering) 
-
-
-
----
-has_id_wikidata: Q101333
----
 
 
 ## Confidential Links & Embeds: 

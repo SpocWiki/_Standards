@@ -4,6 +4,17 @@ aliases:
   - Military_Tactics
   - Military Tactics
 has_id_wikidata: Q207645
+facet_of: "[[_Standards/WikiData/WD~military_strategy,219087]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+subclass_of: "[[_Standards/WikiData/WD~tactic,2000344]]"
+part_of: "[[_Standards/WikiData/WD~military_art,2560087]]"
+instance_of: "[[_Standards/WikiData/WD~military_term,66740226]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/2014.5.15%20%EC%9C%A1%EA%B5%B0%2011%EC%82%AC%EB%8B%A8%20%EB%B0%A9%EA%B3%B5%EB%8C%80%EB%8C%80%20%EB%B9%84%ED%98%B8%EC%82%AC%EA%B2%A9%ED%9B%88%EB%A0%A8%20Republic%20of%20Korea%20Army%2011th%20Division%20%2814008622537%29.jpg
+Commons_category: Military tactics
+Dewey_Decimal_Classification: "355.42"
 ---
 
 # [[Military_Tactics]] 

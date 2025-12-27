@@ -4,8 +4,18 @@ aliases:
   - Chain-mail
   - Chain mail
   - maille
-  - ''
 has_id_wikidata: Q659631
+subclass_of:
+  - "[[_Standards/WikiData/WD~body_armor,485027]]"
+  - "[[_Standards/WikiData/WD~ring_armour,736868]]"
+  - "[[_Standards/WikiData/WD~coat_armor,5660520]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+made_from_material: "[[_Standards/WikiData/WD~mail,29000384]]"
+OmegaWiki_Defined_Meaning: "454253"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Chain%20mail%20shirt%20-%20Georgian.jpg
+Commons_category: Mail (armour)
 ---
 
 # [[Chainmail]] 

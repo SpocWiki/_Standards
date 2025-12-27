@@ -5,6 +5,23 @@ aliases:
   - Four_Color_Theorem
   - Four Color Theorem
 has_id_wikidata: Q184410
+instance_of:
+  - "[[_Standards/WikiData/WD~theorem,65943]]"
+  - "[[_Standards/WikiData/WD~computer_assisted_proof,1150675]]"
+  - "[[_Standards/WikiData/WD~proof_by_exhaustion,9299950]]"
+studied_by: "[[_Standards/WikiData/WD~graph_theory,131476]]"
+proved_by:
+  - "[[_Standards/WikiData/WD~Kenneth_Appel,224787]]"
+  - "[[_Standards/WikiData/WD~Wolfgang_Haken,65082]]"
+statement_describes:
+  - "[[_Standards/WikiData/WD~graph_coloring,504843]]"
+  - "[[_Standards/WikiData/WD~planar_graph,547823]]"
+part_of: "[[_Standards/WikiData/WD~list_of_theorems,944443]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+uses: "[[_Standards/WikiData/WD~proof_assistant,11387554]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%A9or%C3%A8me%20des%20quatre%20couleurs.jpg
+Commons_category: Four-color theorem
+nickname: Guthrie's problem
 ---
 
 # [[Four_Color_Theorem]] 

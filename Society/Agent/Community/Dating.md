@@ -3,6 +3,28 @@ aliases:
   - Verabreden
   - Dating
 has_id_wikidata: Q654810
+followed_by: "[[_Standards/WikiData/WD~courtship,376596]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~activity,1914636]]"
+  - "[[_Standards/WikiData/WD~human_behavior,3769299]]"
+has_part_s_: "[[_Standards/WikiData/WD~date,16302720]]"
+different_from:
+  - "[[_Standards/WikiData/WD~dating,25567667]]"
+  - "[[_Standards/WikiData/WD~dating_method,97359583]]"
+has_goal:
+  - "[[_Standards/WikiData/WD~romantic_relationship,110088311]]"
+  - "[[_Standards/WikiData/WD~sexual_intercourse,5873]]"
+IAB_code: "188"
+Archive_of_Our_Own_tag: Dating
+social_media_followers:
+  - 2200715
+  - 4341532
+subreddit:
+  - dating
+  - dating_advice
+hashtag: dating
+Commons_category: Dating (romantic relationships)
+OpenStreetMap_tag: activity:dating=yes
 ---
 
 # [[Dating]] 

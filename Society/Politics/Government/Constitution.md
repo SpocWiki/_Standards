@@ -1,6 +1,48 @@
 ---
 aliases:
 has_id_wikidata: Q7755
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Verfassung2.ogg
+Dewey_Decimal_Classification:
+  - "342.02"
+  - "342.023"
+different_from:
+  - "[[_Standards/WikiData/WD~Konstitution,256836]]"
+  - "[[_Standards/WikiData/WD~Q11743044,11743044]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~constitutional_document,680655]]"
+  - "[[_Standards/WikiData/WD~statute,820655]]"
+  - "[[_Standards/WikiData/WD~sources_of_law,846882]]"
+  - "[[_Standards/WikiData/WD~structure,6671777]]"
+  - "[[_Standards/WikiData/WD~authorizing_legislation,106706188]]"
+studied_by: "[[_Standards/WikiData/WD~constitutional_history,2515460]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~article_of_constitution,19917774]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_law,63718619]]"
+properties_for_this_type:
+  - inception
+  - country
+main_Wikidata_property: main regulatory text
+Nomenclature_for_Museum_Cataloging: "13271"
+U_S_National_Archives_Identifier: "10639950"
+OmegaWiki_Defined_Meaning: "379531"
+Library_of_Congress_Classification: K3154-K3370
+IMDb_keyword: constitution
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Konstytucja%203%20Maja.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Progla%C5%A1enje%20Vidovdanskog%20ustava%201921.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Texas%20Constitution%201836.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/A%20Carta%20Constitucional%20e%20a%20fam%C3%ADlia%20real.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Kanun-i%20Esasi.jpg
+Commons_category: Constitutions
+Krugosvet_article_archived_:
+  - ekonomika-i-pravo/konstitutsiya
+  - ekonomika-i-pravo/konstitutsiya-0
+IPTC_NewsCode: mediatopic/20000597
 ---
 
 # [[Constitution]] 

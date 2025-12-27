@@ -3,6 +3,27 @@ aliases:
   - Purpur
   - Magenta
 has_id_wikidata: Q3276756
+different_from: "[[_Standards/WikiData/WD~Magenta,166818]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~primary_color,166902]]"
+  - "[[_Standards/WikiData/WD~color,1075]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~amaranth,454847]]"
+opposite_of: "[[_Standards/WikiData/WD~chartreuse,1153119]]"
+part_of:
+  - "[[_Standards/WikiData/WD~shade_of_purple,7460344]]"
+  - "[[_Standards/WikiData/WD~shade_of_red,7460345]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+CSS_color_keyword: magenta
+image: http://commons.wikimedia.org/wiki/Special:FilePath/MagentaIcon.png
+sRGB_color_hex_triplet: FF00FF
+OmegaWiki_Defined_Meaning: "826893"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-magenta.wav
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Magenta%20%28kleur%29-article.ogg
+Wolfram_Language_entity_code:
+  - Entity["Color", {"Crayola", "Magenta"}]
+  - Entity["Color", {"WolframLanguage", "Magenta"}]
+Commons_category: Magenta (colour)
+name_in_kana: マジェンタ
 ---
 
 # [[Magenta]] 

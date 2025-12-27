@@ -1,6 +1,32 @@
 ---
 aliases:
 has_id_wikidata: Q215613
+instance_of:
+  - "[[_Standards/WikiData/WD~international_organization,484652]]"
+  - "[[_Standards/WikiData/WD~organization,43229]]"
+archives_at: "[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]"
+award_received: "[[_Standards/WikiData/WD~Petra_Kelly_Preis,2080088]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_UNPO,6633604]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
+official_language: "[[_Standards/WikiData/WD~English,1860]]"
+country: "[[_Standards/WikiData/WD~Netherlands,55]]"
+headquarters_location: "[[_Standards/WikiData/WD~The_Hague,36600]]"
+social_media_followers: 12467
+total_revenue: 232434
+Commons_category: Unrepresented Nations and Peoples Organization
+inception: 1991-02-11T00:00:00Z
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Unrepresented%20Nations%20and%20Peoples%20Organisation.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A2nkaart%20UNPO-lidmaatskip.png
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/UNPO.svg
+official_website: https://unpo.org
+ISNI: "0000000453767811"
+domain_name: unpo.org
+Instagram_username: unpointl
+Facebook_username: UNPOintl
+X_Twitter_username: UNPOintl
+short_name:
+  - UNPO
+  - ОНН
 ---
 
 # [[Unrepresented_Nations_and_Peoples_Organization]] 

@@ -3,6 +3,50 @@ aliases:
   - Federball
   - Badminton
 has_id_wikidata: Q7291
+Krugosvet_article_archived_: sport/BADMINTON.html
+Baidu_Tieba_name: 羽毛球
+Unicode_character: 🏸
+OpenStreetMap_tag: sport=badminton
+Dewey_Decimal_Classification: "796.345"
+authority: "[[_Standards/WikiData/WD~Badminton_World_Federation,126638]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
+  - "[[_Standards/WikiData/WD~racket_sport,2426135]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
+  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+  - "[[_Standards/WikiData/WD~hobby,47728]]"
+different_from: "[[_Standards/WikiData/WD~Badminton,799600]]"
+uses:
+  - "[[_Standards/WikiData/WD~badminton_racket,799666]]"
+  - "[[_Standards/WikiData/WD~shuttlecock,874669]]"
+  - "[[_Standards/WikiData/WD~badminton_court,2488656]]"
+  - "[[_Standards/WikiData/WD~stringing_machine,7624024]]"
+  - "[[_Standards/WikiData/WD~net,47530522]]"
+practiced_by:
+  - "[[_Standards/WikiData/WD~badminton_umpire,799665]]"
+  - "[[_Standards/WikiData/WD~badminton_player,13141064]]"
+  - "[[_Standards/WikiData/WD~badminton_coach,28143257]]"
+  - "[[_Standards/WikiData/WD~badminton_executive_and_administrator,29817148]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+named_after: "[[_Standards/WikiData/WD~Badminton_House,2628510]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Badminton,13406680]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Badminton,15139693]]"
+minimum_number_of_players: 2
+maximum_number_of_players: 4
+IAB_code: "534"
+OmegaWiki_Defined_Meaning: "449022"
+Commons_category: Badminton
+Commons_gallery: Badminton
+subreddit: badminton
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Badmintonpan.jpg
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Badminton%20pictogram.svg
+Iconclass_notation: 43C4154
+IPTC_NewsCode: mediatopic/20000847
+Colon_Classification: MY2132
 ---
 
 # [[Badminton]] 

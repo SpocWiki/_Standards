@@ -24,6 +24,20 @@ aliases:
   - 卡拉布里亚期
   - Age~2~Calabrian
 has_id_wikidata: Q567911
+part_of:
+  - "[[_Standards/WikiData/WD~Early_Pleistocene,444693]]"
+  - "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Calabrian,1487061]]"
+start_time: -1800000-01-01T00:00:00Z
+named_after: "[[_Standards/WikiData/WD~Calabria,1458]]"
+significant_place: "[[_Standards/WikiData/WD~Crotone,6681]]"
+coordinate_location: Point(17.1348 39.0385)
+end_time: -774100-01-01T00:00:00Z
+Commons_category: Calabrian
+sRGB_color_hex_triplet: FFF2BA
 ---
 
 # [[Age~2~Calabrian]] 

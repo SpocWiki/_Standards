@@ -1,6 +1,35 @@
 ---
 aliases:
 has_id_wikidata: Q189753
+contains_the_administrative_territorial_entity:
+  - "[[_Standards/WikiData/WD~modern_Asatru,213483]]"
+  - "[[_Standards/WikiData/WD~heathenry,285441]]"
+  - "[[_Standards/WikiData/WD~Kemetism,1081042]]"
+  - "[[_Standards/WikiData/WD~Rodnovery,1258217]]"
+  - "[[_Standards/WikiData/WD~Hellenism,1539307]]"
+  - "[[_Standards/WikiData/WD~Druidism_Modern,1541838]]"
+  - "[[_Standards/WikiData/WD~Roman_polytheistic_reconstructionism,2254859]]"
+  - "[[_Standards/WikiData/WD~Q28196969,28196969]]"
+  - "[[_Standards/WikiData/WD~Wicca,59774]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~new_religious_movement,477544]]"
+  - "[[_Standards/WikiData/WD~religion,9174]]"
+  - "[[_Standards/WikiData/WD~world_view,49447]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~pantheism,728455]]"
+  - "[[_Standards/WikiData/WD~idolatry,840665]]"
+  - "[[_Standards/WikiData/WD~polytheistic_religion,108704490]]"
+  - "[[_Standards/WikiData/WD~paganism,29536]]"
+has_list:
+  - "[[_Standards/WikiData/WD~list_of_Neopagan_movements,1261170]]"
+  - "[[_Standards/WikiData/WD~list_of_Modern_Pagan_Temples,28456894]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~polytheistic_reconstructionism,3191950]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Paganism_topics,10686857]]"
+based_on: "[[_Standards/WikiData/WD~paganism,29536]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A5rblot%202010%20offerg%C3%A5vor.jpg
+Commons_category: Neopaganism
+OpenStreetMap_tag: religion=pagan
+Dewey_Decimal_Classification: "299.94"
 ---
 
 # [[Modern_Paganism]] 

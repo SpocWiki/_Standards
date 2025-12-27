@@ -4,6 +4,28 @@ aliases:
   - BSD Unix
   - BSD-Unix
 has_id_wikidata: Q34264
+developer: "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
+named_after: "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
+copyright_license: "[[_Standards/WikiData/WD~BSD_licenses,191307]]"
+followed_by:
+  - "[[_Standards/WikiData/WD~386BSD,228413]]"
+  - "[[_Standards/WikiData/WD~BSD_OS,336773]]"
+  - "[[_Standards/WikiData/WD~DEMOS,4153388]]"
+  - "[[_Standards/WikiData/WD~Q34225,34225]]"
+based_on: "[[_Standards/WikiData/WD~Research_Unix,2666693]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Berkeley_Software_Distribution,9133389]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
+different_from: "[[_Standards/WikiData/WD~BSD,58636917]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
+follows: "[[_Standards/WikiData/WD~Q11368,11368]]"
+instance_of: "[[_Standards/WikiData/WD~Q11368,11368]]"
+programmed_in: "[[_Standards/WikiData/WD~Q15777,15777]]"
+short_name: BSD
+inception: 1977-01-01T00:00:00Z
+subreddit: BSD
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/BSD%20wordmark.svg
+software_version_identifier: 4.4-Lite2
+Commons_category: Berkeley Software Distribution
 ---
 
 # [[BSD-Unix]] 

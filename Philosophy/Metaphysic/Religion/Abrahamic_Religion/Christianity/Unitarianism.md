@@ -1,6 +1,22 @@
 ---
 aliases:
 has_id_wikidata: Q106687
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+part_of: "[[_Standards/WikiData/WD~liberal_Christianity,859557]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~religious_denomination,13414953]]"
+  - "[[_Standards/WikiData/WD~religion,9174]]"
+practiced_by: "[[_Standards/WikiData/WD~Unitarian_pastor,97486349]]"
+subclass_of: "[[_Standards/WikiData/WD~Protestantism,23540]]"
+opposite_of: "[[_Standards/WikiData/WD~Holy_Trinity,37090]]"
+related_image: http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%B6r%C3%B6sf%C5%91i-Kriesch%20Alad%C3%A1r%20Tordai%20orsz%C3%A1ggy%C5%B1l%C3%A9s.jpg
+Stack_Exchange_tag: https://christianity.stackexchange.com/tags/unitarianism
+Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/UNITARII.html
+Commons_category: Unitarianism
 ---
 
 # [[Unitarianism]] 

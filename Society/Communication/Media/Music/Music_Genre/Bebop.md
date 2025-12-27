@@ -2,6 +2,14 @@
 aliases:
   - Bebop
 has_id_wikidata: Q105513
+instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
+different_from: "[[_Standards/WikiData/WD~bop,108297200]]"
+subclass_of: "[[_Standards/WikiData/WD~jazz,8341]]"
+country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+native_label: Bebop
+Commons_category: Bebop
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20McGhee%2C%20Brick%20Fleagle%20and%20Miles%20Davis%2C%20ca%20September%201947%20%28Gottlieb%29.jpg
+inception: 1945-01-01T00:00:00Z
 ---
 
 # [[Bebop]] 

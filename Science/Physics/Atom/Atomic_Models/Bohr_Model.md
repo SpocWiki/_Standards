@@ -5,6 +5,21 @@ aliases:
   - Bohr_Model
   - Bohr Model
 has_id_wikidata: Q172948
+facet_of: "[[_Standards/WikiData/WD~spectral_line,212111]]"
+derivative_work:
+  - "[[_Standards/WikiData/WD~Bohr_Sommerfeld_atom_model,360686]]"
+  - "[[_Standards/WikiData/WD~Kimball_atom_model,1791159]]"
+instance_of: "[[_Standards/WikiData/WD~atom_model,780649]]"
+has_part_s_of_the_class:
+  - "[[_Standards/WikiData/WD~electron,2225]]"
+  - "[[_Standards/WikiData/WD~atomic_nucleus,37147]]"
+  - "[[_Standards/WikiData/WD~atomic_orbital,53860]]"
+creator: "[[_Standards/WikiData/WD~Niels_Bohr,7085]]"
+named_after: "[[_Standards/WikiData/WD~Niels_Bohr,7085]]"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Bohr%20atom%20animation%202.gif
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Bohr%20atom%20model.svg
+Commons_category: Bohr model
+inception: 1913-01-01T00:00:00Z
 ---
 
 # [[Bohr_Model]] 

@@ -3,9 +3,42 @@ aliases:
   - Rakete
   - Rocket
 has_id_wikidata: Q41291
+different_from:
+  - "[[_Standards/WikiData/WD~rocket,226808]]"
+  - "[[_Standards/WikiData/WD~rocket,2037215]]"
+described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+part_of: "[[_Standards/WikiData/WD~spacecraft_propulsion,609089]]"
+model_item: "[[_Standards/WikiData/WD~launch_vehicle,697175]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~disposable_product,1194058]]"
+  - "[[_Standards/WikiData/WD~flying_machine,7194062]]"
+  - "[[_Standards/WikiData/WD~vehicle,42889]]"
+has_use: "[[_Standards/WikiData/WD~propulsion,2583685]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Infobox_rocket,6586809]]"
+  - "[[_Standards/WikiData/WD~Template_Infobox_rocket,25744065]]"
+instance_of: "[[_Standards/WikiData/WD~first_order_class,104086571]]"
+Commons_category: Rockets
+Unicode_character:
+  - 🚀
+  - 🙬
+  - 🙭
+  - 🙮
+  - 🙯
+Wolfram_Language_entity_type: Rocket
+Commons_gallery: Rocket
+IMDb_keyword: rocket
+Dewey_Decimal_Classification: "621.4356"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Apollo%2011%20Saturn%20V%20lifting%20off%20on%20July%2016%2C%201969.jpg
+small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Font%20Awesome%205%20solid%20rocket.svg
+equivalent_class: http://dbpedia.org/ontology/Rocket
+EntitySchema_for_this_class: E333
+U_S_National_Archives_Identifier: "10644823"
+Iconclass_notation: 46C41
+Krugosvet_article_archived_: nauka_i_tehnika/voennaya_tehnika/RAKETA.html
 ---
 
-# [[Rocket]] 
+# [[Rocket]] 🚀 
 
 #is_/same_as :: [[../../WikiData/WD~Rocket,41291|WD~Rocket,41291]] 
 

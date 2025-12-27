@@ -3,6 +3,32 @@ aliases:
   - Munition
   - Ammunition
 has_id_wikidata: Q185785
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~disposable_product,1194058]]"
+  - "[[_Standards/WikiData/WD~artificial_physical_object,8205328]]"
+  - "[[_Standards/WikiData/WD~weapon,728]]"
+used_by:
+  - "[[_Standards/WikiData/WD~projectile_weapon,1194773]]"
+  - "[[_Standards/WikiData/WD~firearm,12796]]"
+location:
+  - "[[_Standards/WikiData/WD~ammunition_box,1953318]]"
+  - "[[_Standards/WikiData/WD~ammunition_dump,2153495]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~military_equipment,18643213]]"
+instance_of: "[[_Standards/WikiData/WD~weapon_type,124078422]]"
+main_Wikidata_property: ammunition
+social_media_followers: 25885
+Nomenclature_for_Museum_Cataloging: "7735"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20close%20up%20of%200.50%20Caliber%20%2812.7%20mm%29%20Browning%20Ball%20M33%20Ammunition%20loaded%20onto%20a%20Browning%20M2%20HB%200.50%20caliber%20heavy%20machine.JPEG
+IMDb_keyword: ammunition
+U_S_National_Archives_Identifier: "10639346"
+Dewey_Decimal_Classification:
+  - "623.45"
+  - "355.825"
+subreddit: ammo
+Iconclass_notation: 45C161
+Commons_gallery: Ammunition
+short_name: Mun.
 ---
 
 # [[Ammunition]] 

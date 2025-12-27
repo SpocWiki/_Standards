@@ -8,7 +8,7 @@ aliases:
 has_id_wikidata: Q192245
 ---
 
-# [[Anthony,Susan_B.]] 
+# [[Anthony,Susan_B]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Susan_B._Anthony,192245|WD~Susan_B._Anthony,192245]]  
 

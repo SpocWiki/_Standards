@@ -1,6 +1,7 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q1744580
+subclass_of: "[[_Standards/WikiData/WD~algebraic_number_theory,613048]]"
 ---
 
 # [[Class_Field_Theory]] 

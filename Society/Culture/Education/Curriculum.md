@@ -4,6 +4,40 @@ aliases:
   - curricula
   - Curriculum
 has_id_wikidata: Q207137
+has_characteristic:
+  - "[[_Standards/WikiData/WD~age_of_a_person,185836]]"
+  - "[[_Standards/WikiData/WD~convention,367293]]"
+  - "[[_Standards/WikiData/WD~competence_(human_resources),2015382]]"
+  - "[[_Standards/WikiData/WD~degree_of_difficulty,11659512]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - "[[_Standards/WikiData/WD~professional_certification,16023913]]"
+  - "[[_Standards/WikiData/WD~start_time,24575110]]"
+  - "[[_Standards/WikiData/WD~end_time,24575125]]"
+  - "[[_Standards/WikiData/WD~source_entity,31464082]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~course,600134]]"
+instance_of: "[[_Standards/WikiData/WD~plan,1371819]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~curriculum,1402601]]"
+subclass_of: "[[_Standards/WikiData/WD~educational_program,5341296]]"
+described_by_source: "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Standard_curricula,19359757]]"
+part_of: "[[_Standards/WikiData/WD~education,8434]]"
+Dewey_Decimal_Classification: "375"
+OmegaWiki_Defined_Meaning: "812"
+U_S_National_Archives_Identifier: "10660546"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Philo%20mediev.jpg
+equivalent_class:
+  - http://lemac.sgcb.mcu.es/Autoridades/LEMAC201210862/concept
+  - http://skos.um.es/unescothes/C00934
+Basisklassifikation: "81.62"
+UMLS_CUI:
+  - C0010478
+  - C0036999
+Commons_category: Curricula
+MeSH_tree_code: I02.158
+Library_of_Congress_Classification: LB1570-LB1571
+IPTC_NewsCode: mediatopic/20000412
+Colon_Classification: T:2
 ---
 
 # [[Curriculum]] 

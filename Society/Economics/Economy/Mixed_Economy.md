@@ -4,6 +4,11 @@ aliases:
   - Mixed_Economy
   - Mixed Economy
 has_id_wikidata: Q191675
+subclass_of: "[[_Standards/WikiData/WD~economic_system,273005]]"
+described_by_source: "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_economic_system,137189275]]"
+OmegaWiki_Defined_Meaning: "536114"
+Dewey_Decimal_Classification: "338.749"
 ---
 
 # [[Mixed_Economy]] 

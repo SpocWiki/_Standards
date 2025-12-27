@@ -6,6 +6,98 @@ aliases:
   - God's Architect
   - Gaudi,Antoni
 has_id_wikidata: Q25328
+medical_condition:
+  - "[[_Standards/WikiData/WD~rheumatoid_arthritis,187255]]"
+  - "[[_Standards/WikiData/WD~rheumatism,684924]]"
+has_works_in_the_collection:
+  - "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
+  - "[[_Standards/WikiData/WD~Museu_Nacional_d'Art_de_Catalunya,861252]]"
+  - "[[_Standards/WikiData/WD~Swedish_Centre_for_Architecture_and_Design,4356728]]"
+  - "[[_Standards/WikiData/WD~Museu_del_Modernisme_Català,15735772]]"
+  - "[[_Standards/WikiData/WD~Musée_d'Orsay,23402]]"
+notable_work:
+  - "[[_Standards/WikiData/WD~La_Pedrera,207870]]"
+  - "[[_Standards/WikiData/WD~Park_Güell,212867]]"
+  - "[[_Standards/WikiData/WD~Casa_Batlló,461371]]"
+  - "[[_Standards/WikiData/WD~Palacio_Episcopal_de_Astorga,507390]]"
+  - "[[_Standards/WikiData/WD~Güell_Pavilions,595553]]"
+  - "[[_Standards/WikiData/WD~Palau_Güell,597051]]"
+  - "[[_Standards/WikiData/WD~Casa_Vicens,746333]]"
+  - "[[_Standards/WikiData/WD~Bellesguard,815935]]"
+  - "[[_Standards/WikiData/WD~Casa_Calvet,1046405]]"
+  - "[[_Standards/WikiData/WD~El_Capricho,2096776]]"
+  - "[[_Standards/WikiData/WD~Church_of_Colònia_Güell,2160663]]"
+  - "[[_Standards/WikiData/WD~Bodegas_Güell,2326886]]"
+  - "[[_Standards/WikiData/WD~Casa_de_los_Botines,2547508]]"
+  - "[[_Standards/WikiData/WD~Artigas_Gardens,2814599]]"
+  - "[[_Standards/WikiData/WD~Basilica_and_Expiatory_Church_of_the_Holy_Family,48435]]"
+significant_person:
+  - "[[_Standards/WikiData/WD~Jacint_Verdaguer,379290]]"
+  - "[[_Standards/WikiData/WD~Eusebio_Güell,464640]]"
+  - "[[_Standards/WikiData/WD~Joan_Maragall,562402]]"
+  - "[[_Standards/WikiData/WD~Josep_Torras_i_Bages,4893825]]"
+place_of_birth: "[[_Standards/WikiData/WD~Reus,487096]]"
+occupation:
+  - "[[_Standards/WikiData/WD~drafter,683754]]"
+  - "[[_Standards/WikiData/WD~designer,5322166]]"
+  - "[[_Standards/WikiData/WD~architect,42973]]"
+canonization_status: "[[_Standards/WikiData/WD~Servant_of_God,869974]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~UbuWeb,1145552]]"
+  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - "[[_Standards/WikiData/WD~Enciclopedia_universal_ilustrada_europeo_americana_(1908_1930),115627942]]"
+student:
+  - "[[_Standards/WikiData/WD~Cèsar_Martinell_i_Brunet,1150065]]"
+  - "[[_Standards/WikiData/WD~Josep_Francesc_Ràfols_i_Fontanals,3051129]]"
+  - "[[_Standards/WikiData/WD~Isidre_Puig_Boada,3499274]]"
+  - "[[_Standards/WikiData/WD~Joan_Bergós_i_Massó,9011849]]"
+educated_at:
+  - "[[_Standards/WikiData/WD~Escola_de_la_Llotja,2362608]]"
+  - "[[_Standards/WikiData/WD~Escola_Tècnica_Superior_d'Arquitectura_de_Barcelona,2735032]]"
+member_of: "[[_Standards/WikiData/WD~Centre_Excursionista_de_Catalunya,3753211]]"
+artist_files_at:
+  - "[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]"
+  - "[[_Standards/WikiData/WD~Q117794751,117794751]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Roman_Catholic,7361618]]"
+cause_of_death: "[[_Standards/WikiData/WD~tram_accident,7833114]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Antoni_Gaudí,11008720]]"
+given_name: "[[_Standards/WikiData/WD~Antoni,17480899]]"
+manner_of_death: "[[_Standards/WikiData/WD~accidental_death,21142718]]"
+second_family_name_in_Spanish_name: "[[_Standards/WikiData/WD~Cornet,24014792]]"
+award_received: "[[_Standards/WikiData/WD~illustrious_son,56035316]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
+family_name: "[[_Standards/WikiData/WD~Gaudí,124653654]]"
+date_of_birth: 1852-06-25T00:00:00Z
+languages_spoken_written_or_signed:
+  - "[[_Standards/WikiData/WD~Spanish,1321]]"
+  - "[[_Standards/WikiData/WD~Catalan,7026]]"
+work_location: "[[_Standards/WikiData/WD~Barcelona,1492]]"
+place_of_death: "[[_Standards/WikiData/WD~Barcelona,1492]]"
+native_language: "[[_Standards/WikiData/WD~Catalan,7026]]"
+field_of_work: "[[_Standards/WikiData/WD~architecture,12271]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Spain,29]]"
+place_of_burial: "[[_Standards/WikiData/WD~Basilica_and_Expiatory_Church_of_the_Holy_Family,48435]]"
+BHCL_UUID: aab212a4-6661-4146-9466-24b31dbe70c7
+Google_Doodle: antoni-gaudis-161st-birthday
+Libris_URI: hftwr2k11vn13tz
+Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/GAUDI_ANTONI.html
+name_in_native_language: Antoni Gaudí i Cornet
+date_of_death: 1926-06-10T00:00:00Z
+Commons_category: Antoni Gaudí
+Commons_Creator_page: Antoni Gaudí
+described_at_URL:
+  - http://arch-pavouk.cz/index.php/architekti/1665-gaudi-antoni
+  - https://arteforadomuseu.com.br/artistas/antoni-gaudi/
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Gaud%C3%AD%20%281878%29.jpg
+image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Gauditomb.jpg
+plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Placa%20Gaud%C3%AD%20Mas%20Calderera%202002.jpg
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20Antoni%20Gaud%C3%AD.svg
+ISNI: "0000000120955718"
+P1015: "90101092"
+Commons_gallery: Antoni Gaudí i Cornet
 ---
 
 # [[Gaudi,Antoni]] 

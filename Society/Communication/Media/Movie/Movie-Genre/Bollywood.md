@@ -4,6 +4,24 @@ aliases:
   - Bombay cinema
   - Bollywood
 has_id_wikidata: Q93196
+instance_of:
+  - "[[_Standards/WikiData/WD~film_genre,201658]]"
+  - "[[_Standards/WikiData/WD~cinema_by_country_or_region,67515288]]"
+subclass_of: "[[_Standards/WikiData/WD~cinema_of_India,328799]]"
+different_from: "[[_Standards/WikiData/WD~Marathi_cinema,3345861]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Hindi_cinema,12902752]]"
+headquarters_location: "[[_Standards/WikiData/WD~Mumbai,1156]]"
+named_after:
+  - "[[_Standards/WikiData/WD~Mumbai,1156]]"
+  - "[[_Standards/WikiData/WD~Hollywood,34006]]"
+language_used:
+  - "[[_Standards/WikiData/WD~Hindi,1568]]"
+  - "[[_Standards/WikiData/WD~Urdu,1617]]"
+  - "[[_Standards/WikiData/WD~Hindustani,11051]]"
+Commons_category: Bollywood
+Know_Your_Meme_slug: bollywood
+subreddit: bollywood
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Film%20City%2C%20Mumbai.jpg
 ---
 
 # [[Bollywood]] 

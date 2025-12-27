@@ -3,6 +3,27 @@ aliases:
   - Hobel
   - Plane(Tool)
 has_id_wikidata: Q204260
+used_by: "[[_Standards/WikiData/WD~joiner,326358]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~hand_tool,2578402]]"
+  - "[[_Standards/WikiData/WD~woodworking_tool,11789812]]"
+uses: "[[_Standards/WikiData/WD~planing,7201294]]"
+source_of_energy: "[[_Standards/WikiData/WD~human_energy,20984829]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~plane_iron,105512698]]"
+  - "[[_Standards/WikiData/WD~sole,105531251]]"
+  - "[[_Standards/WikiData/WD~chip_breaker,105531300]]"
+Nomenclature_for_Museum_Cataloging: "7447"
+MCN_code: 8205.30.00
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Rodz%20strugow.jpg
+Iconclass_notation: 47D8(PLANE)
+Commons_gallery: Plane (tool)
+Commons_category: Planes (tools)
+Dewey_Decimal_Classification: "621.912"
 ---
 
 # [[Plane(Tool)]] 

@@ -5,9 +5,22 @@ aliases:
   - 1970-Bhola_cyclone
   - 1970-Bhola cyclone
 has_id_wikidata: Q245551
+location: "[[_Standards/WikiData/WD~East_Pakistan,842931]]"
+part_of: "[[_Standards/WikiData/WD~Arch_of_Tiberius,2310019]]"
+instance_of: "[[_Standards/WikiData/WD~tropical_cyclone,8092]]"
+number_of_deaths:
+  - 300000
+  - 500000
+maximum_sustained_winds: 240
+lowest_atmospheric_pressure: 966
+start_time: 1970-11-03T00:00:00Z
+end_time: 1970-11-13T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/15B%201970-11-12%200956Z.png
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Bhola%20cyclone%20%28intro%29.ogg
+Commons_category: 1970 Bhola cyclone
 ---
 
-#[[1970-Bhola_cyclone]]] 
+# [[1970-Bhola_cyclone]] 
 
 
 #is_/same_as :: [[../../../../WikiData/WD~1970_Bhola_cyclone,245551]]

@@ -3,6 +3,89 @@ aliases:
   - Tim Burton
   - Burton,Tim
 has_id_wikidata: Q56008
+unmarried_partner:
+  - "[[_Standards/WikiData/WD~Monica_Bellucci,81819]]"
+  - "[[_Standards/WikiData/WD~Helena_Bonham_Carter,170428]]"
+  - "[[_Standards/WikiData/WD~Lisa_Marie,242015]]"
+nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Animated_Feature,106800]]"
+has_works_in_the_collection:
+  - "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
+  - "[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]"
+award_received:
+  - "[[_Standards/WikiData/WD~Hugo_Award,188914]]"
+  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Motion_Picture_Musical_or_Comedy,670282]]"
+  - "[[_Standards/WikiData/WD~Saturn_Award_for_Best_Animated_Film,1231643]]"
+  - "[[_Standards/WikiData/WD~Inkpot_Award,2687578]]"
+  - "[[_Standards/WikiData/WD~Daytime_Emmy_Award_for_Outstanding_Children's_Animated_Program,3019369]]"
+  - "[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]"
+  - "[[_Standards/WikiData/WD~Lumière_Award,_Lyon_Festival_of_cinema,3404975]]"
+  - "[[_Standards/WikiData/WD~Hugo_Award_for_Best_Dramatic_Presentation,3414212]]"
+  - "[[_Standards/WikiData/WD~Winsor_McCay_Award,8025998]]"
+  - "[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]"
+  - "[[_Standards/WikiData/WD~David_di_Donatello_Award_for_Lifetime_Achievement,13634272]]"
+occupation:
+  - "[[_Standards/WikiData/WD~animator,266569]]"
+  - "[[_Standards/WikiData/WD~film_director,2526255]]"
+  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
+  - "[[_Standards/WikiData/WD~director,3455803]]"
+  - "[[_Standards/WikiData/WD~designer,5322166]]"
+  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
+  - "[[_Standards/WikiData/WD~actor,33999]]"
+  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - "[[_Standards/WikiData/WD~poet,49757]]"
+given_name:
+  - "[[_Standards/WikiData/WD~Walter,499249]]"
+  - "[[_Standards/WikiData/WD~William,12344159]]"
+  - "[[_Standards/WikiData/WD~Timothy,15885954]]"
+student_of: "[[_Standards/WikiData/WD~Jules_Engel,540866]]"
+educated_at:
+  - "[[_Standards/WikiData/WD~California_Institute_of_the_Arts,1026827]]"
+  - "[[_Standards/WikiData/WD~Burbank_High_School,4998156]]"
+family_name: "[[_Standards/WikiData/WD~Burton,1259568]]"
+employer: "[[_Standards/WikiData/WD~Walt_Disney_Studios,2216535]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+filmography: "[[_Standards/WikiData/WD~Tim_Burton_filmography,7803260]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Tim_Burton,8097175]]"
+position_held: "[[_Standards/WikiData/WD~President_of_the_Jury_at_the_Cannes_Festival,23958341]]"
+child:
+  - "[[_Standards/WikiData/WD~Billy_Burton,29168703]]"
+  - "[[_Standards/WikiData/WD~Nell_Burton,75972052]]"
+spouse: "[[_Standards/WikiData/WD~Lena_Gieseke,56256181]]"
+described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
+mother: "[[_Standards/WikiData/WD~Jean_Rae_Erickson,108844355]]"
+father: "[[_Standards/WikiData/WD~Bill_Burton,108844353]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]"
+different_from: "[[_Standards/WikiData/WD~Timothy_Burt,113170803]]"
+notable_work: "[[_Standards/WikiData/WD~The_Nightmare_Before_Christmas,136673038]]"
+writing_language: "[[_Standards/WikiData/WD~English,1860]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
+native_language:
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~American_English,7976]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+number_of_children: 2
+residence: "[[_Standards/WikiData/WD~Burbank,39561]]"
+place_of_birth: "[[_Standards/WikiData/WD~Burbank,39561]]"
+identifier_in_filmpolski_movie_database: "2885"
+social_media_followers: 21338
+Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/BERTON_TIM.html
+Instagram_username: timburton
+Facebook_username: TimBurton
+X_Twitter_username: TimBurton_JP
+birth_name: Timothy Walter Burton
+Commons_category: Tim Burton
+work_period_start_: 1971-01-01T00:00:00Z
+date_of_birth: 1958-08-25T00:00:00Z
+name_in_native_language: Tim Burton
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Burton-63605.jpg
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Burton%20signature.png
+official_website: http://www.timburton.com
+ISNI: "0000000123213875"
+Libris_URI: 42gjmkxn2xts0pn
+Plex_person_key: 5d7768243c3c2a001fbca919
+P1015: "90813024"
 ---
 
 # [[Burton,Tim]]

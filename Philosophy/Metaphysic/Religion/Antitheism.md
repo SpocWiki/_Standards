@@ -2,6 +2,9 @@
 aliases:
   - Antitheism
 has_id_wikidata: Q5522978
+instance_of: "[[_Standards/WikiData/WD~philosophical_movement,2915955]]"
+different_from: "[[_Standards/WikiData/WD~pantitheism,18480570]]"
+subreddit: Antitheism
 ---
 
 # [[Antitheism]] 

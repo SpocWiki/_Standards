@@ -3,6 +3,29 @@ aliases:
   - Monogamie
   - Monogamy
 has_id_wikidata: Q184211
+subclass_of:
+  - "[[_Standards/WikiData/WD~social_norm,205665]]"
+  - "[[_Standards/WikiData/WD~interpersonal_relationship,223642]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~agreement,321839]]"
+  - "[[_Standards/WikiData/WD~mating_system,4584563]]"
+does_not_have_characteristic: "[[_Standards/WikiData/WD~extramarital_sex,629129]]"
+has_characteristic: "[[_Standards/WikiData/WD~sexual_partner,1611410]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Azerbaijani_Soviet_Encyclopedia,2634919]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+opposite_of: "[[_Standards/WikiData/WD~non_monogamy,3436958]]"
+different_from:
+  - "[[_Standards/WikiData/WD~Monogamous_pairing_in_animals,6901585]]"
+  - "[[_Standards/WikiData/WD~monoromantic,124473248]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~monoamory,124461433]]"
+number_of_participants: 2
+Commons_category: Monogamy
+OmegaWiki_Defined_Meaning: "1267519"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Old%20marriage%20at%20Plac%20Kaszubski.jpg
+subreddit: monogamy
 ---
 
 # [[Monogamy]] 

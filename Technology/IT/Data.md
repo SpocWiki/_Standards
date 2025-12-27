@@ -3,6 +3,17 @@ aliases:
   - Daten
   - Data
 has_id_wikidata: Q494756
+subclass_of:
+  - "[[_Standards/WikiData/WD~manifestation,286583]]"
+  - "[[_Standards/WikiData/WD~source_of_information,3523102]]"
+  - "[[_Standards/WikiData/WD~data,42848]]"
+has_characteristic: "[[_Standards/WikiData/WD~data_format,494823]]"
+has_use: "[[_Standards/WikiData/WD~data_processing,6661985]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Data,42298143]]"
+facet_of: "[[_Standards/WikiData/WD~computer_science,21198]]"
+Dewey_Decimal_Classification: "005"
+WordLift_URL: http://data.thenextweb.com/tnw/entity/data_2
+Commons_category: Computer data
 ---
 
 # [[Data]] 

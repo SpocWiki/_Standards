@@ -4,6 +4,13 @@ aliases:
   - saturation
   - Colorfulness
 has_id_wikidata: Q27673
+subclass_of: "[[_Standards/WikiData/WD~quality,185957]]"
+different_from: "[[_Standards/WikiData/WD~Saturation,220395]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+facet_of: "[[_Standards/WikiData/WD~color,1075]]"
+Commons_category: Colorful
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Pharmacie%20Centrale%20Belge%20-%20340996%20-%20onroerenderfgoed.jpg
+IEV_number: 845-22-072
 ---
 
 # [[Colorfulness]] 

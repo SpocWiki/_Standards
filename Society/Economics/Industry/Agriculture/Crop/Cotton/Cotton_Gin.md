@@ -5,6 +5,15 @@ aliases:
   - Cotton_Gin
   - Cotton Gin
 has_id_wikidata: Q1136790
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Eli_Whitney,280930]]"
+subclass_of: "[[_Standards/WikiData/WD~agricultural_machinery,16000047]]"
+different_from:
+  - "[[_Standards/WikiData/WD~lint,110521706]]"
+  - "[[_Standards/WikiData/WD~ginning,121144794]]"
+Nomenclature_for_Museum_Cataloging: "6969"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Cotton%20gin%20EWM%202007.jpg
+Commons_category: Cotton gins
+time_of_discovery_or_invention: 1793-01-01T00:00:00Z
 ---
 
 # [[Cotton_Gin]] 

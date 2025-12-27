@@ -4,6 +4,16 @@ aliases:
   - Crystal_Structure
   - Crystal Structure
 has_id_wikidata: Q895901
+different_from: "[[_Standards/WikiData/WD~crystallins,2992167]]"
+subclass_of: "[[_Standards/WikiData/WD~structure,6671777]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q21334542,21334542]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+properties_for_this_type: Hermann-Mauguin notation
+characteristic_of: "[[_Standards/WikiData/WD~crystal,43533]]"
+Commons_category: Crystal structures
+image: http://commons.wikimedia.org/wiki/Special:FilePath/NaCl-Ionengitter.svg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Fr-structure%20cristalline.ogg
 ---
 
 # [[Crystal_Structure]] 

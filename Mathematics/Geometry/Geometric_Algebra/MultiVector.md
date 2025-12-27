@@ -4,6 +4,10 @@ aliases:
   - multor
   - MultiVector
 has_id_wikidata: Q2377336
+subclass_of: "[[_Standards/WikiData/WD~tensor,188524]]"
+part_of: "[[_Standards/WikiData/WD~exterior_algebra,1196652]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/N%20vector%20positive.svg
+Commons_category: Multivectors
 ---
 
 # [[MultiVector]] 

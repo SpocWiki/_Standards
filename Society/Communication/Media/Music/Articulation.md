@@ -2,6 +2,13 @@
 aliases:
   - Articulation
 has_id_wikidata: Q372923
+different_from: "[[_Standards/WikiData/WD~Articulation,230158]]"
+subclass_of: "[[_Standards/WikiData/WD~musical_parameter,1639408]]"
+Commons_category: Articulation (music)
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Articulaciones-duracion.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Articulaciones-intensidad.png
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Artikulation.ogg
 ---
 
 # [[Articulation]] 

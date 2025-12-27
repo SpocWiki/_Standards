@@ -3,6 +3,20 @@ aliases:
   - Black_Tea
   - Black Tea
 has_id_wikidata: Q203415
+different_from: "[[_Standards/WikiData/WD~black_drink,2611017]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~caffeinated_drink,5017160]]"
+  - "[[_Standards/WikiData/WD~tea_leaves,32022234]]"
+  - "[[_Standards/WikiData/WD~tea,6097]]"
+has_part_s_: "[[_Standards/WikiData/WD~Theaflavin_3,3'_digallate,7777226]]"
+topic_has_template: "[[_Standards/WikiData/WD~Q20697801,20697801]]"
+part_of: "[[_Standards/WikiData/WD~tea,6097]]"
+country_of_origin: "[[_Standards/WikiData/WD~China,29520]]"
+water_footprint: 8856
+OmegaWiki_Defined_Meaning: "1075894"
+Unicode_character: ☕
+image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20cup%20of%20black%20tea%20from%20Srimangal%20Bangladesh.jpg
+Commons_category: Black tea
 ---
 
 # [[Black_Tea]] 

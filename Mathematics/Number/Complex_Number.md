@@ -3,6 +3,55 @@ aliases:
   - Complex_Number
   - Complex Number
 has_id_wikidata: Q11567
+subclass_of:
+  - "[[_Standards/WikiData/WD~quaternion,173853]]"
+  - "[[_Standards/WikiData/WD~ordered_pair,191290]]"
+  - "[[_Standards/WikiData/WD~hypercomplex_number,837414]]"
+  - "[[_Standards/WikiData/WD~number,11563]]"
+followed_by: "[[_Standards/WikiData/WD~quaternion,173853]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~imaginary_unit,193796]]"
+  - "[[_Standards/WikiData/WD~real_part,1156910]]"
+  - "[[_Standards/WikiData/WD~imaginary_part,1341545]]"
+  - "[[_Standards/WikiData/WD~real_number,12916]]"
+named_by: "[[_Standards/WikiData/WD~Lazare_Carnot,310767]]"
+has_characteristic:
+  - "[[_Standards/WikiData/WD~real_part,1156910]]"
+  - "[[_Standards/WikiData/WD~imaginary_part,1341545]]"
+  - "[[_Standards/WikiData/WD~argument,1780131]]"
+  - "[[_Standards/WikiData/WD~magnitude_of_a_complex_number,3317982]]"
+  - "[[_Standards/WikiData/WD~absolute_value,4669840]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+has_part_s_of_the_class:
+  - "[[_Standards/WikiData/WD~imaginary_number,9165172]]"
+  - "[[_Standards/WikiData/WD~real_number,12916]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+part_of: "[[_Standards/WikiData/WD~set_of_complex_numbers,26851286]]"
+facet_of: "[[_Standards/WikiData/WD~dyad,29431432]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_number,47460393]]"
+defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>z</mi><mo stretchy="false">=</mo><mi>x</mi><mo stretchy="false">+</mo><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow><mi>y</mi></mstyle></mrow></math>
+opposite_of: "[[_Standards/WikiData/WD~real_number,12916]]"
+different_from: "[[_Standards/WikiData/WD~Q28006,28006]]"
+in_defining_formula:
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>x</mi></mstyle></mrow></math>
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>z</mi></mstyle></mrow></math>
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>y</mi></mstyle></mrow></math>
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow></mstyle></mrow></math>
+video: http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20Zenbaki%20konplexuak.webm
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/A%20plus%20bi.svg
+Stack_Exchange_tag:
+  - https://dsp.stackexchange.com/tags/complex
+  - https://math.stackexchange.com/tags/complex-numbers
+  - https://matheducators.stackexchange.com/tags/complex-numbers
+  - https://mathematica.stackexchange.com/tags/complex
+  - https://physics.stackexchange.com/tags/complex-numbers
+  - https://stats.stackexchange.com/tags/complex-numbers
+IEV_number: 102-02-09
+Commons_category: Complex numbers
+Dewey_Decimal_Classification: "512.788"
 ---
 
 ## #has_/text_of_/abstract 

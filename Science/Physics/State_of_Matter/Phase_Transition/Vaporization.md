@@ -4,6 +4,20 @@ aliases:
   - Verdunstung
   - Vaporization
 has_id_wikidata: Q6452502
+different_from:
+  - "[[_Standards/WikiData/WD~evaporation,132814]]"
+  - "[[_Standards/WikiData/WD~vaporization,9256973]]"
+  - "[[_Standards/WikiData/WD~boiling,41716]]"
+opposite_of: "[[_Standards/WikiData/WD~condensation,166583]]"
+subclass_of: "[[_Standards/WikiData/WD~phase_change,185357]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+uses: "[[_Standards/WikiData/WD~liquid_state_of_matter,6761456]]"
+has_effect: "[[_Standards/WikiData/WD~gaseous_state_of_matter,29147941]]"
+studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Phase%20change%20-%20en.svg
+Commons_category: Vaporization
 ---
 
 # [[Vaporization]] 

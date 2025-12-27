@@ -4,6 +4,16 @@ aliases:
   - Blue_Cheese
   - Blue Cheese
 has_id_wikidata: Q746471
+subclass_of: "[[_Standards/WikiData/WD~mould_cheese,391604]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_cheese,3546121]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Blue_cheeses,6721489]]"
+country_of_origin: "[[_Standards/WikiData/WD~France,142]]"
+USDA_NDB_number: "01004"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Danish%20Blue%20cheese.jpg
+Commons_category: Blue cheese
+exact_match: http://purl.obolibrary.org/obo/ENVO_00003887
+Amazon_com_browse_node: "2256176011"
+UMLS_CUI: C1440430
 ---
 
 # [[Blue_Cheese]] 

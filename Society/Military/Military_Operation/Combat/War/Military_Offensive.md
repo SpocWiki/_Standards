@@ -7,6 +7,23 @@ aliases:
   - Military_Offensive
   - Military Offensive
 has_id_wikidata: Q2001676
+subclass_of:
+  - "[[_Standards/WikiData/WD~armed_conflict,350604]]"
+  - "[[_Standards/WikiData/WD~military_operation,645883]]"
+  - "[[_Standards/WikiData/WD~attack,1174599]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+has_characteristic:
+  - "[[_Standards/WikiData/WD~attacker,31924059]]"
+  - "[[_Standards/WikiData/WD~defender,111729140]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_conflict,125092269]]"
+U_S_National_Archives_Identifier: "10665873"
+Provenio_UUID: cb9aa200-5b3d-490e-a497-114223a4ed6c
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Warley%20camp%20the%20mock%20attack%201779.jpg
+Dewey_Decimal_Classification: "355.4"
 ---
 
 # [[Military_Offensive]] 
