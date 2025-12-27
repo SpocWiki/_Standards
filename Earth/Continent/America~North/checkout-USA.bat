@@ -1,1 +1,0 @@
-git clone "https://github.com/SpocWiki/America-United_States_of_America" USA
