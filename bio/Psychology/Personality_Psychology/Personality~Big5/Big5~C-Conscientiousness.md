@@ -30,7 +30,7 @@ title: Gewissenhaftigkeit
 type: private_note
 ---
 
-# [[Big5~Conscientiousness]] 
+# [[Big5~C-Conscientiousness]] 
 
 #is_/part_of :: [[../Personality~Big5]] 
 
@@ -68,7 +68,7 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Big5~Conscientiousness](/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Conscientiousness.md) 
+### #is_/same_as :: [Big5~C-Conscientiousness](Big5~C-Conscientiousness.md) 
 
 ### #is_/same_as :: [Big5~Conscientiousness.public](/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Conscientiousness.public.md) 
 

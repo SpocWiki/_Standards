@@ -33,11 +33,37 @@ title: Emotionale Stabilität
 type: private_note
 ---
 
-# [[Big5~Emotional_Stability]] 
+# [[Big5~E-Emotional_Stability]] 
 
 #is_/part_of :: [[../Personality~Big5]] 
 
-neuroticism (N) measures depression, irritability, and moodiness. 
+| Dimension    | Core Strength                        | Core Cost             | Net Favorability      |
+| ------------ | ------------------------------------ | --------------------- | --------------------- |
+| Emotionality | emotional depth, Empathy, attachment | Stress sensitivity    | Context-dependent     |
+| Neuroticism  | Threat detection                     | Emotional instability | Generally unfavorable |
+
+## Emotionality (HEXACO)
+
+Emotionality includes fearfulness, anxiety, dependence, sentimentality, attachment and empathy.  
+It emphasizes **threat sensitivity** and **attachment**-related affect.
+
+## Neuroticism (Big Five)
+
+Neuroticism includes anxiety, anger, irritability, depression, self-consciousness, moodiness and emotional volatility.  
+It emphasizes **negative affect and emotional instability**.
+Neuroticism shares anxiety and emotional instability 
+but excludes attachment and empathy.
+
+High Neuroticism is generally unfavorable for well-being and long-term performance.  
+However, it can be advantageous in roles requiring vigilance, risk detection, and sensitivity to problems. 
+
+
+Despite conceptual differences, statistical overlap with HEXACO Emotionality approaches +45%,
+the remaining 55% variance is primarily sentimentality and dependence.
+
+Anger and hostility facets of Neuroticism correlate negatively with low HEXACO Agreeableness. 
+i.e. high Emotion.
+
 
 ## #has_/text_of_/abstract 
 
@@ -49,7 +75,8 @@ neuroticism (N) measures depression, irritability, and moodiness.
 > is extolled and advocated by a number of major [[../../../../Philosophy/Metaphysic/Religion|Religion]]s and ancient [[../../../../Philosophy|Philosophies]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Equanimity) 
-> 
+
+The Set-Point Theory documents the fact that People return to their specific emotional Set Point even after strong emotional Disturbances. 
 
 ## Emotionale Stabilität 
 
@@ -73,7 +100,7 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Big5~Emotional_Stability](/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Emotional_Stability.md) 
+### #is_/same_as :: [Big5~E-Emotional_Stability](Big5~E-Emotional_Stability.md) 
 
 ### #is_/same_as :: [Big5~Emotional_Stability.public](/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Emotional_Stability.public.md) 
 
