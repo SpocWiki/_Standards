@@ -4,16 +4,16 @@ aliases:
 title: Euapicomplexa
 ---
 
-# [[Euapicomplexa]] 
-![ ](Euapicomplexa/Cryptosporidium_parvum7829_.jpg)) ![](Euapicomplexa/Plasmodium_vivax.jpg)
+# [[Apicomplexa]] 
+![ ](Apicomplexa/Cryptosporidium_parvum7829_.jpg)) ![](Apicomplexa/Plasmodium/Plasmodium_vivax.jpg)
 
 
 
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Alveolates](../Alveolates.md))
-    -  [Eukarya](../../Eukarya.md))
+    -  [Alveolate](../Alveolate.md) 
+    -  [Eukarya](../../Eukarya.md) 
     -   [Tree of Life](../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Alveolates
@@ -21,10 +21,10 @@ title: Euapicomplexa
 
 -   » Sub-Groups
     -   [Plasmodiidae](Plasmodiidae)
-    -  [Piroplasmorida](Euapicomplexa/Piroplasmorida.md))
+    -  [Piroplasmorida](Apicomplexa/Piroplasmorida.md) 
 	-   *Aconoidasida*
 	    -   *[Haemospororida](Plasmodiidae)*
-	    -   [Piroplasmorida](Euapicomplexa/Piroplasmorida.md "go to ToL page"))*
+	    -   [Piroplasmorida](Apicomplexa/Piroplasmorida.md "go to ToL page"))*
 	-   *Conoidasida*
 	    -   *Coccidiasina*
 	        -   *Agamococcidiorida*
@@ -41,7 +41,9 @@ title: Euapicomplexa
 ## Title Illustrations
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------![Cryptosporidium parvum](Euapicomplexa/Cryptosporidium_parvum7829_.jpg)) 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Cryptosporidium parvum](Apicomplexa/Cryptosporidium_parvum7829_.jpg)) 
 Scientific Name ::     Cryptosporidium parvum
 Comments             This photomicrograph revealed the morphologic details of Cryptosporidium parvum oocysts, i.e., encapsulated zygotes, which had been stained using the modified acid-fast method. These oocysts exhibit a bright red coloration when using this staining technique, and in this case, you'll note the sporozoites that were made visible inside the two oocysts on the right. Sporozoites are the nucleated, motile stage of development through which many protozoans pass such as C. parvum, on their way to becoming adults, and represent a very infectious form of these organisms. The sporozoites will be released from these C. parvum oocysts.
 Creator              Melanie Moser (Center for Disease Control)
@@ -50,7 +52,7 @@ Life Cycle Stage ::     oocysts
 Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 ---------------------------------------
-![Plasmodium vivax](Euapicomplexa/Plasmodium_vivax.jpg)
+![Plasmodium vivax](Apicomplexa/Plasmodium/Plasmodium_vivax.jpg)
 Scientific Name ::     Plasmodium vivax
 Comments             micrograph depicting a red blood cell containing four Plasmodium vivax rings, next to a growing trophozoite
 Creator              CDC/Dr. Mae Melvin

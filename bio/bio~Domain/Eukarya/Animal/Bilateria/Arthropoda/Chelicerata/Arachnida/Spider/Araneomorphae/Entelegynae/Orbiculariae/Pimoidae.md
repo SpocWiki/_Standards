@@ -7,31 +7,31 @@ title: Pimoidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Orbiculariae](../Orbiculariae.md))
-    -  [Entelegynae](../../Entelegynae.md))
-    -  [Araneomorphae](../../../Araneomorphae.md))
+    -  [Orbiculariae](../Orbiculariae.md) 
+    -  [Entelegynae](../../Entelegynae.md) 
+    -  [Araneomorphae](../../../Araneomorphae.md) 
     -   [Spider](../../../../Spider.md)
-    -  [Arachnida](../../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Orbiculariae
-    -  [Anapidae](Anapidae.md))
-    -  [Mysmenidae](Mysmenidae.md))
-    -  [Deinopidae](Deinopidae.md))
-    -  [Uloboridae](Uloboridae.md))
-    -  [Araneidae](Araneidae.md))
-    -  [Theridiosomatidae](Theridiosomatidae.md))
-    -  [Symphytognathidae](Symphytognathidae.md))
-    -  [Linyphiidae](Linyphiidae.md))
+    -  [Anapidae](Anapidae.md) 
+    -  [Mysmenidae](Mysmenidae.md) 
+    -  [Deinopidae](Deinopidae.md) 
+    -  [Uloboridae](Uloboridae.md) 
+    -  [Araneidae](Araneidae.md) 
+    -  [Theridiosomatidae](Theridiosomatidae.md) 
+    -  [Symphytognathidae](Symphytognathidae.md) 
+    -  [Linyphiidae](Linyphiidae.md) 
     -   Pimoidae
-    -  [Synotaxidae](Synotaxidae.md))
-    -  [Cyatholipidae](Cyatholipidae.md))
-    -  [Nesticidae](Nesticidae.md))
-    -  [Theridiidae](Theridiidae.md))
+    -  [Synotaxidae](Synotaxidae.md) 
+    -  [Cyatholipidae](Cyatholipidae.md) 
+    -  [Nesticidae](Nesticidae.md) 
+    -  [Theridiidae](Theridiidae.md) 
 
 -   » Sub-Groups 
 
@@ -39,7 +39,7 @@ title: Pimoidae
 ![ ](Pimoidae/pimoidae_0730.jpg))
 ![ ](Pimoidae/pimoidae_0988.jpg)
 
-Containing group:[Orbiculariae](../Orbiculariae.md))
+Containing group:[Orbiculariae](../Orbiculariae.md) 
 
 ### References
 
@@ -85,6 +85,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
   Life Cycle Stage ::   adult
   Size               ca. 60 cm. across
   Copyright ::          © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+ 
   ---------------------------------------------------------------------------------
 ![](Pimoidae/pimoidae_0988.jpg))
 
@@ -98,6 +99,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
   Life Cycle Stage ::     adult
   Size                 Spider body length ca. 13 mm.
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+ 
   ---------------------------------------------------------------------------------
 
 

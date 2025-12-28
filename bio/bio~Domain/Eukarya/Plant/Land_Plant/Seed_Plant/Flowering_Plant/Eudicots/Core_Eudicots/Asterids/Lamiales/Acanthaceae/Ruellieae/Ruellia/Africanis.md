@@ -59,13 +59,13 @@ species, and thus they are deserving of further study.
     -   [Acanthaceae](../../../Acanthaceae.md)
     -   [Lamiales](../../../../Lamiales.md)
     -   [Asterids](../../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Ruellia s. l.
@@ -106,7 +106,8 @@ Identified By        Erin A. Tripp
 Collection           Wild collected in Socotra (Yemen)
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
------------------------------------------------------------------------![Ruellia_](Africanis/Ruellia_megachlamys.jpg))
+----------------------------------------------------------------------- 
+![Ruellia_](Africanis/Ruellia_megachlamys.jpg))
 Scientific Name ::     Ruellia megachlamys S. Moore
 Location ::           cultivated, DUKE greenhouses
 Specimen Condition   Live Specimen

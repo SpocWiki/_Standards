@@ -10,7 +10,7 @@ title: Amastigomonas debruynei
     -   [Amastigomonas](../Amastigomonas.md)
     -   [Apusomonads](../../Apusomonads.md)
     -   [The other protists](The_other_protists)
-    -  [Eukarya](../../../../Eukarya.md))
+    -  [Eukarya](../../../../Eukarya.md) 
     -   [Tree of Life](../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Amastigomonas
@@ -95,6 +95,7 @@ Natural History 34: 483-562.
   --------------------------------------------------------------------------------
   Scientific Name ::  Amastigomonas debruynei
   Copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+ 
   --------------------------------------------------------------------------------
 ![](debruynei/pamastigod.jpg))
 
@@ -103,6 +104,7 @@ Natural History 34: 483-562.
   Comments             phase contrast light micrographs of living cells
   Specimen Condition   Live Specimen
   Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+ 
   ---------------------------------------------------------------------------------
 ![](debruynei/pamastigod2.jpg))
 
@@ -111,6 +113,7 @@ Natural History 34: 483-562.
   Comments             phase contrast light micrographs of living cell
   Specimen Condition   Live Specimen
   Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+ 
   ---------------------------------------------------------------------------------
 
 

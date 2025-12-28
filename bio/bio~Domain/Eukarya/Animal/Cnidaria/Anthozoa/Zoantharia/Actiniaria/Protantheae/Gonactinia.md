@@ -7,18 +7,18 @@ title: Gonactinia
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Protantheae](../Protantheae.md))
-    -  [Actiniaria](../../Actiniaria.md))
-    -  [Zoantharia](../../../Zoantharia.md))
-    -  [Anthozoa](../../../../Anthozoa.md))
-    -  [Cnidaria](../../../../../Cnidaria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Protantheae](../Protantheae.md) 
+    -  [Actiniaria](../../Actiniaria.md) 
+    -  [Zoantharia](../../../Zoantharia.md) 
+    -  [Anthozoa](../../../../Anthozoa.md) 
+    -  [Cnidaria](../../../../../Cnidaria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Protantheae
     -   Gonactinia
-    -  [Protanthea](Protanthea.md))
+    -  [Protanthea](Protanthea.md) 
 
 -   » Sub-Groups 
 
@@ -31,7 +31,7 @@ inconsistencies need to be resolved in a future revision of this genus
 
 -   *Actinia prolifera* [M. Sars 1835]
 
-Containing group:[Protantheae](../Protantheae.md))
+Containing group:[Protantheae](../Protantheae.md) 
 
 ### Characteristics
 

@@ -9,7 +9,7 @@ title: Mastigoteuthis agassizii
 [Michael Vecchione and Richard E. Young]()
 ![ ](agassizii/MAgassShale2.jpg))
 
-Containing group:[Mastigoteuthidae](../Mastigoteuthidae.md))
+Containing group:[Mastigoteuthidae](../Mastigoteuthidae.md) 
 
 ## Introduction
 
@@ -98,14 +98,14 @@ Type locality: Off northeast coast of the United States at 33°25\'N,
 -   « Ancestral Groups  
     -   [Mastigoteuthis](Mastigoteuthis)
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Mastigoteuthis

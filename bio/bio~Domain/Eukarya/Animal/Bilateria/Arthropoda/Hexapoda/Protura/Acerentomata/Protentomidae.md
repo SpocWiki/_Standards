@@ -15,19 +15,19 @@ title: Protentomidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Acerentomata](../Acerentomata.md))
-    -  [Protura](../../Protura.md))
-    -  [Hexapoda](../../../Hexapoda.md))
-    -  [Arthropoda](../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Acerentomata](../Acerentomata.md) 
+    -  [Protura](../../Protura.md) 
+    -  [Hexapoda](../../../Hexapoda.md) 
+    -  [Arthropoda](../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Acerentomata
-    -  [Hesperentomidae](Hesperentomidae.md))
+    -  [Hesperentomidae](Hesperentomidae.md) 
     -   Protentomidae
-    -  [Acerentomidae](Acerentomidae.md))
+    -  [Acerentomidae](Acerentomidae.md) 
 
 -   » Sub-Groups 
 	-   *Condeellum*

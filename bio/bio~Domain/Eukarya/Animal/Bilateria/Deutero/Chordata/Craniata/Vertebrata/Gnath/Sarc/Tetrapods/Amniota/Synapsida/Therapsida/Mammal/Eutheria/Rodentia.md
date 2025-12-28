@@ -158,8 +158,8 @@ U_S_National_Archives_Identifier:
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Eutheria](../Eutheria.md))
-    -  [Mammal](../../Mammal.md))
+    -  [Eutheria](../Eutheria.md) 
+    -  [Mammal](../../Mammal.md) 
     -   [Therapsida](../../../Therapsida.md)
     -   [Synapsida](../../../../Synapsida.md)
     -   [Amniota](../../../../../Amniota.md)
@@ -170,15 +170,15 @@ U_S_National_Archives_Identifier:
     -   [Craniata](../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Eutheria
     -   [Edentata](Edentata.md)
     -   [Pholidota](Pholidota.md)
-    -  [Lagomorpha](Glires/Lagomorpha.md))
+    -  [Lagomorpha](Glires/Lagomorpha.md) 
     -   Rodentia
     -   [Macroscelididae](Macroscelididae.md)
     -   [Primates](Primates.md)
@@ -196,13 +196,14 @@ U_S_National_Archives_Identifier:
     -   [Proboscidea](Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Terrestrial/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea.md)
 
 -   » Sub-Groups
-    -  [Muroidea](Rodentia/Muroidea.md))
+    -  [Muroidea](Rodentia/Muroidea.md) 
     -   [Squirrel](Rodentia/Sciuromorpha/Squirrel.md)
 
 
 ## Title Illustrations
 
--------------------------------------------------------------------------![Crested Porcupine ( Hystrix cristata ) family, Serengeti](Rodentia/porcufam.jpg))
+------------------------------------------------------------------------- 
+![Crested Porcupine ( Hystrix cristata ) family, Serengeti](Rodentia/porcufam.jpg))
 Scientific Name ::     Hystrix cristata
 Location ::           Serengeti National Park
 Comments             This was an unusual sighting, not only of a pair with young, but in open country at mid-day. Crested porcupines are mainly nocturnal.
@@ -214,7 +215,8 @@ Life Cycle Stage ::     Adults and young
 View                 Frontal/lateral
 Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
--------------------------------------------------------------------------![](Rodentia/Spermophilus-parryii.jpg))
+------------------------------------------------------------------------- 
+![](Rodentia/Spermophilus-parryii.jpg))
 Scientific Name ::     Spermophilus parryii
 Comments             Arctic ground squirrel
 Creator              Jim McCarthy

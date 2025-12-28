@@ -8,13 +8,13 @@ title: Incirrata
 
 -   « Ancestral Groups  
     -   [Octopod](../Octopod.md)
-    -  [Octopodiformes](../../Octopodiformes.md))
-    -  [Coleoidea](../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Octopodiformes](../../Octopodiformes.md) 
+    -  [Coleoidea](../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Octopoda
@@ -220,6 +220,7 @@ African Jour. Mar. Sci. .
   Location ::           Great Barrier Reef
   Specimen Condition   Live Specimen
   Copyright ::            © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
+ 
   ---------------------------------------------------------------------------
 
 

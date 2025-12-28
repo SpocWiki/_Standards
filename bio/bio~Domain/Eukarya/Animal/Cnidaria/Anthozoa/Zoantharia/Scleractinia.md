@@ -7,21 +7,21 @@ title: Scleractinia
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Zoantharia](../Zoantharia.md))
-    -  [Anthozoa](../../Anthozoa.md))
-    -  [Cnidaria](../../../Cnidaria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Zoantharia](../Zoantharia.md) 
+    -  [Anthozoa](../../Anthozoa.md) 
+    -  [Cnidaria](../../../Cnidaria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Zoantharia
-    -  [Actiniaria](Actiniaria.md))
+    -  [Actiniaria](Actiniaria.md) 
     -   Scleractinia
 
 -   » Sub-Groups
-    -  [Fungiina](Scleractinia/Fungiina.md))
-    -  [Faviina](Scleractinia/Faviina.md))
-    -  [Caryophylliina](Scleractinia/Caryophylliina.md))
+    -  [Fungiina](Scleractinia/Fungiina.md) 
+    -  [Faviina](Scleractinia/Faviina.md) 
+    -  [Caryophylliina](Scleractinia/Caryophylliina.md) 
     -   [Dendrophylliidae](Dendrophylliidae)
 
 # Scleractinia
@@ -47,7 +47,7 @@ title: Scleractinia
 
 Classification after Veron (1995: 110).
 
-Containing group:[Zoantharia](../Zoantharia.md))
+Containing group:[Zoantharia](../Zoantharia.md) 
 
 ### Information on the Internet
 

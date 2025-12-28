@@ -85,59 +85,62 @@ Snails, clams, mussels, squids, octopi, chitons, and tusk shells
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Bilateria](../Bilateria.md))
-    -  [Animals](../../Animals.md))
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Bilateria](../Bilateria.md) 
+    -  [Animals](../../Animals.md) 
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Bilateria
     -   [Deuterostomia](Deutero.md)
-    -  [Arthropoda](Arthropoda.md))
-    -  [Onychophora](Onychophora.md))
+    -  [Arthropoda](Arthropoda.md) 
+    -  [Onychophora](Onychophora.md) 
     -   [Tardigrade](Tardigrade.md)
-    -  [Nematoda](Nematoda.md))
-    -  [Nematomorpha](Nematomorpha.md))
-    -  [Kinorhyncha](Kinorhyncha.md))
-    -  [Loricifera](Loricifera.md))
-    -  [Priapulida](Priapulida.md))
+    -  [Nematoda](Nematoda.md) 
+    -  [Nematomorpha](Nematomorpha.md) 
+    -  [Kinorhyncha](Kinorhyncha.md) 
+    -  [Loricifera](Loricifera.md) 
+    -  [Priapulida](Priapulida.md) 
     -   [Arrow_Worm](Arrow_Worm.md)
-    -  [Gastrotricha](Gastrotricha.md))
-    -  [Rotifera](Rotifera.md))
-    -  [Gnathostomulida](Gnathostomulida.md))
+    -  [Gastrotricha](Gastrotricha.md) 
+    -  [Rotifera](Rotifera.md) 
+    -  [Gnathostomulida](Gnathostomulida.md) 
     -   [Limnognathia maerski](Limnognathia_maerski)
-    -  [Cycliophora](Cycliophora.md))
-    -  [Mesozoa](Mesozoa.md))
-    -  [Platyhelminthes](Platyhelminthes.md))
-    -  [Annelida](Annelida.md))
-    -  [Bryozoa](Bryozoa.md))
-    -  [Sipuncula](Sipuncula.md))
+    -  [Cycliophora](Cycliophora.md) 
+    -  [Mesozoa](Mesozoa.md) 
+    -  [Platyhelminthes](Platyhelminthes.md) 
+    -  [Annelida](Annelida.md) 
+    -  [Bryozoa](Bryozoa.md) 
+    -  [Sipuncula](Sipuncula.md) 
     -   Mollusca
-    -  [Nemertea](Nemertea.md))
-    -  [Entoprocta](Entoprocta.md))
-    -  [Phoronida](Phoronida.md))
-    -  [Brachiopoda](Brachiopoda.md))
+    -  [Nemertea](Nemertea.md) 
+    -  [Entoprocta](Entoprocta.md) 
+    -  [Phoronida](Phoronida.md) 
+    -  [Brachiopoda](Brachiopoda.md) 
 
 -   » Sub-Groups
     -   [Chitons](Mollusca/Chitons.md)
-    -  [Bivalvia](Mollusca/Bivalvia.md))
-    -  [Gastropoda](Mollusca/Gastropoda.md))
-    -  [Cephalopoda](Mollusca/Cephalopoda.md))
+    -  [Bivalvia](Mollusca/Bivalvia.md) 
+    -  [Gastropoda](Mollusca/Gastropoda.md) 
+    -  [Cephalopoda](Mollusca/Cephalopoda.md) 
 
 
 ## Title Illustrations
 
 
---------------------------------------------------------------------------------![](Mollusca/lunatia.gif))
+-------------------------------------------------------------------------------- 
+![](Mollusca/lunatia.gif))
 Scientific Name ::   Lunatia
 Acknowledgements   Gray Museum Slide Collection
 Copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 
-------------------------------------------------------------------------------![](Mollusca/scallop.gif))
+------------------------------------------------------------------------------ 
+![](Mollusca/scallop.gif))
 Scientific Name ::   Placopecten magellanicus (top), Polyplacophora (bottom)
 Acknowledgements   Gray Museum Slide Collection
 Copyright ::          © [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 
---------------------------------------------------------------------------------![ Loligo pealei](Mollusca/loligo.gif))
+-------------------------------------------------------------------------------- 
+![ Loligo pealei](Mollusca/loligo.gif))
 Scientific Name ::   Loligo pealei
 Creator            Photograph by David Remsen
 Acknowledgements   Gray Museum Slide Collection

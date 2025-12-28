@@ -15,9 +15,9 @@ title: Utegenia shpinari
     -   [Craniata](../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Seymouriamorpha
@@ -115,6 +115,7 @@ Vertebrate Paleontology 29 pages, 6 figures.
   Specimen Condition   Fossil
   View                 ventral
   Copyright ::            © 1996 [Michel Laurin](http://tolweb.org/tree/laurin/Laurin_Home_page.html) 
+ 
   ---------------------------------------------------------------------------------
 
 

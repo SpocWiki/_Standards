@@ -135,9 +135,9 @@ the myobatrachines. However, reversing the polarity of the characters
     -   [Craniata](../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Neobatrachia

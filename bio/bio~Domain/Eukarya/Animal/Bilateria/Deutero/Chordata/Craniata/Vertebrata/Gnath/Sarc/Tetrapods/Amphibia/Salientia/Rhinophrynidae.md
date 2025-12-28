@@ -105,9 +105,9 @@ by Cannatella (1985) and Hay et al. (1995).
     -   [Craniata](../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Salientia
@@ -134,7 +134,8 @@ by Cannatella (1985) and Hay et al. (1995).
 
 ## Title Illustrations
 
-------------![Rhinophrynus dorsalis](Rhinophrynidae/rhinophrynus.jpg))
+------------ 
+![Rhinophrynus dorsalis](Rhinophrynidae/rhinophrynus.jpg))
 Scientific Name ::  Rhinophrynus dorsalis
 Copyright ::         © 1995 E. D. Brodie, Jr.
 

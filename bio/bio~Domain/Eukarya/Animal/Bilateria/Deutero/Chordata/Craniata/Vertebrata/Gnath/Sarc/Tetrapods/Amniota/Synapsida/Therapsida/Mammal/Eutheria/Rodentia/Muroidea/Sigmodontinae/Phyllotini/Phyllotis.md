@@ -7,12 +7,12 @@ title: Phyllotis
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Phyllotini](../Phyllotini.md))
-    -  [Sigmodontinae](../../Sigmodontinae.md))
-    -  [Muroidea](../../../Muroidea.md))
-    -  [Rodentia](../../../../Rodentia.md))
-    -  [Eutheria](../../../../../Eutheria.md))
-    -  [Mammal](../../../../../../Mammal.md))
+    -  [Phyllotini](../Phyllotini.md) 
+    -  [Sigmodontinae](../../Sigmodontinae.md) 
+    -  [Muroidea](../../../Muroidea.md) 
+    -  [Rodentia](../../../../Rodentia.md) 
+    -  [Eutheria](../../../../../Eutheria.md) 
+    -  [Mammal](../../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../../Amniota.md)
@@ -23,9 +23,9 @@ title: Phyllotis
     -   [Craniata](../../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Phyllotini
@@ -57,7 +57,7 @@ Tree derived from cytochrome b phylogeny of Steppan (1995a;
 [1998](http://bio.fsu.edu/%7Esteppan/Phyllotis_cytb.html)) and
 morphology based phylogeny of [Steppan (1995b)](http://bio.fsu.edu/%7Esteppan/Fieldiana.html).
 
-Containing group:[Phyllotini](../Phyllotini.md))
+Containing group:[Phyllotini](../Phyllotini.md) 
 
 ### Information on the Internet
 

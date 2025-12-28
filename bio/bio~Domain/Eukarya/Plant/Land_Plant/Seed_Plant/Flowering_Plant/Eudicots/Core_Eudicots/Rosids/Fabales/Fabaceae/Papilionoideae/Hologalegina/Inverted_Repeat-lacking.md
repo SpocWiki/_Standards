@@ -125,13 +125,13 @@ Ellison et al., 2006).
     -   [Fabaceae](../../../Fabaceae.md)
     -   [Fabales](../../../../Fabales.md)
     -   [Rosids](../../../../../Rosids.md)
-    -  [Core Eudicots](../../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Hologalegina
@@ -143,12 +143,14 @@ Ellison et al., 2006).
 
 ## Title Illustrations
 
-------------------------------![Medicago sativa](Inverted_Repeat-lacking/Medicago_sativa.jpg))
+------------------------------ 
+![Medicago sativa](Inverted_Repeat-lacking/Medicago_sativa.jpg))
 Scientific Name ::     Medicago sativa L.
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [International Legume Research Institute](http://www.tropicalforages.info/)
 
----------------------![Astragalus purshii](Inverted_Repeat-lacking/Astragalus_purshii.jpg))
+--------------------- 
+![Astragalus purshii](Inverted_Repeat-lacking/Astragalus_purshii.jpg))
 Scientific Name ::     Astragalus purshii Dougl. ex G.Don
 Location ::           California, USA
 Specimen Condition   Live Specimen
@@ -161,7 +163,8 @@ Location ::           Island of Mallorca, Spain
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Jardin Mundani](http://jardin-mundani.info/)
 
--------------------------![Wisteria sinensis](Inverted_Repeat-lacking/Wisteria_sinensis.jpg))
+------------------------- 
+![Wisteria sinensis](Inverted_Repeat-lacking/Wisteria_sinensis.jpg))
 Scientific Name ::     Wisteria sinensis (Sims) Sweet
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Annette Höggemeier](http://www.boga.ruhr-uni-bochum.de/)

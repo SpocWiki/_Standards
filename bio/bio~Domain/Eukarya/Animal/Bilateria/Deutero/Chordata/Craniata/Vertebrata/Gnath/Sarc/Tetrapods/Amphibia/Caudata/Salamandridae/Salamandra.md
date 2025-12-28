@@ -29,9 +29,9 @@ title: Salamandra
     -   [Craniata](../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Salamandridae
@@ -42,7 +42,8 @@ title: Salamandra
 
 ## Title Illustrations
 
------------------------------------------------------------------------![](Salamandra/img_3736_2.jpg))
+----------------------------------------------------------------------- 
+![](Salamandra/img_3736_2.jpg))
 Scientific Name ::     Salamandra salamandra
 Location ::           Romania
 Specimen Condition   Live Specimen
@@ -50,7 +51,8 @@ Identified By        Horia Bogdan
 Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
 Copyright ::            © [Horia Bogdan](http://herp-or.uv.ro/index) 
 
------------------------------------------------------------------------![](Salamandra/205901169_5896159ed0_o.jpg))
+----------------------------------------------------------------------- 
+![](Salamandra/205901169_5896159ed0_o.jpg))
 Scientific Name ::     Salamandra atra
 Location ::           Pont de Nant nature reserve in the western swiss alps
 Specimen Condition   Live Specimen

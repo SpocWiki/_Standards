@@ -13,21 +13,21 @@ Copyright ::   © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Cambaridae](../Cambaridae.md))
-    -  [Astacidea](../../../Astacidea.md))
-    -  [Decapoda](../../../../Decapoda.md))
-    -  [Malacostraca](../../../../../Malacostraca.md))
-    -  [Crustacea](../../../../../../Crustacea.md))
-    -  [Arthropoda](../../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Cambaridae](../Cambaridae.md) 
+    -  [Astacidea](../../../Astacidea.md) 
+    -  [Decapoda](../../../../Decapoda.md) 
+    -  [Malacostraca](../../../../../Malacostraca.md) 
+    -  [Crustacea](../../../../../../Crustacea.md) 
+    -  [Arthropoda](../../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Cambaridae
     -   Cambarellinae
-    -  [Cambarinae](Cambarinae.md))
-    -  [Cambaroides](Cambaroides.md))
+    -  [Cambarinae](Cambarinae.md) 
+    -  [Cambaroides](Cambaroides.md) 
 
 -   » Sub-Groups
     -   [Cambarellus (Dirigicambarus)         shufeldtii](Cambarellus_%28Dirigicambarus%29_shufeldtii)

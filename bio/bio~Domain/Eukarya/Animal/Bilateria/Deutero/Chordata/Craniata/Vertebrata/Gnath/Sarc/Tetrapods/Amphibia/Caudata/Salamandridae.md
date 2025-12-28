@@ -323,9 +323,9 @@ of evolution in the Salamandridae.
     -   [Craniata](../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Caudata
@@ -347,7 +347,8 @@ of evolution in the Salamandridae.
 
 ## Title Illustrations
 
-------------![](Salamandridae/tarichagranulosa.jpg))
+------------ 
+![](Salamandridae/tarichagranulosa.jpg))
 Scientific Name ::  Taricha granulosa
 Location ::        California
 Copyright ::         © 1996 Dr. Tom A. Titus

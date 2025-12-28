@@ -7,9 +7,9 @@ title: Agaricomycotina
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Basidiomycota](../Basidiomycota.md))
-    -  [Fungi](../../Fungi.md))
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Basidiomycota](../Basidiomycota.md) 
+    -  [Fungi](../../Fungi.md) 
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Basidiomycota
@@ -18,7 +18,7 @@ title: Agaricomycotina
     -   [Urediniomycotina](Urediniomycotina)
 
 -   » Sub-Groups
-    -  [Agaricomycetes](Agaricomycotina/Agaricomycetes.md))
+    -  [Agaricomycetes](Agaricomycotina/Agaricomycetes.md) 
 
 # Agaricomycotina
 
@@ -34,7 +34,7 @@ Binder, 2002; Swann and Taylor, 1993; 1995), as well as analyses that
 include rRNA and protein-coding gene sequences (Matheny et al. 2006,
 2007).\
 
-Containing group:[Basidiomycota](../Basidiomycota.md))
+Containing group:[Basidiomycota](../Basidiomycota.md) 
 
 ### Information on the Internet
 
@@ -474,6 +474,7 @@ J., McLaughlin, E. G. and Lemke, P. A., eds.). Springer-Verlag, Berlin.
   Scientific Name ::  Gomphus
   Comments          Agaricomycetes
   Copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
+ 
   -----------------------------------------------------------------------------
 
 

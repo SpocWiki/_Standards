@@ -44,22 +44,22 @@ Barnacles and their relatives
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Crustacea](../Crustacea.md))
-    -  [Arthropoda](../../Arthropoda.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Crustacea](../Crustacea.md) 
+    -  [Arthropoda](../../Arthropoda.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Crustacea
-    -  [Branchiopoda](Branchiopoda.md))
-    -  [Remipedia](Remipedia.md))
-    -  [Cephalocarida](Cephalocarida.md))
-    -  [Copepoda](Copepoda.md))
-    -  [Ostracoda](Ostracoda.md))
-    -  [Branchiura](Branchiura.md))
+    -  [Branchiopoda](Branchiopoda.md) 
+    -  [Remipedia](Remipedia.md) 
+    -  [Cephalocarida](Cephalocarida.md) 
+    -  [Copepoda](Copepoda.md) 
+    -  [Ostracoda](Ostracoda.md) 
+    -  [Branchiura](Branchiura.md) 
     -   Thecostraca
-    -  [Malacostraca](Malacostraca.md))
+    -  [Malacostraca](Malacostraca.md) 
 
 -   » Sub-Groups
     -   [Cirripedia](Cirripedia)

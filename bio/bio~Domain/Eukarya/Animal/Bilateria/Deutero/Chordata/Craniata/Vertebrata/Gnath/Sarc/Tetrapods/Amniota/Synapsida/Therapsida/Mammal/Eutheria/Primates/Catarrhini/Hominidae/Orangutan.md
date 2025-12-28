@@ -62,11 +62,11 @@ native_label: orang hutan
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Hominidae](../Hominidae.md))
-    -  [Catarrhini](../../Catarrhini.md))
-    -  [Primates](../../../Primates.md))
-    -  [Eutheria](../../../../Eutheria.md))
-    -  [Mammal](../../../../../Mammal.md))
+    -  [Hominidae](../Hominidae.md) 
+    -  [Catarrhini](../../Catarrhini.md) 
+    -  [Primates](../../../Primates.md) 
+    -  [Eutheria](../../../../Eutheria.md) 
+    -  [Mammal](../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../Amniota.md)
@@ -77,9 +77,9 @@ native_label: orang hutan
     -   [Craniata](../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Hominidae
@@ -110,6 +110,7 @@ native_label: orang hutan
   Specimen Condition   Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+ 
   ------------------------------------------------------------------------------
 
 

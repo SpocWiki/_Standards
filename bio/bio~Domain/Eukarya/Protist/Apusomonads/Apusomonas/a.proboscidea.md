@@ -17,7 +17,7 @@ title: Apusomonas proboscidea
     -   [Apusomonas](../Apusomonas.md)
     -   [Apusomonads](../../Apusomonads.md)
     -   [The other protists](The_other_protists)
-    -  [Eukarya](../../../../Eukarya.md))
+    -  [Eukarya](../../../../Eukarya.md) 
     -   [Tree of Life](../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Apusomonas

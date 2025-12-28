@@ -7,37 +7,37 @@ title: Lycosoidea
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Entelegynae](../Entelegynae.md))
-    -  [Araneomorphae](../../Araneomorphae.md))
+    -  [Entelegynae](../Entelegynae.md) 
+    -  [Araneomorphae](../../Araneomorphae.md) 
     -   [Spider](../../../Spider.md)
-    -  [Arachnida](../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Entelegynae
-    -  [Amaurobiidae](Amaurobiidae.md))
-    -  [Eresoidea](Eresoidea.md))
+    -  [Amaurobiidae](Amaurobiidae.md) 
+    -  [Eresoidea](Eresoidea.md) 
     -   [other entelegynes](other_entelegynes)
-    -  [Palpimanoidea](Palpimanoidea.md))
-    -  [Dictynoidea](Dictynoidea.md))
-    -  [Orbiculariae](Orbiculariae.md))
-    -  [Dionycha](Dictynoidea/Dionycha.md))
+    -  [Palpimanoidea](Palpimanoidea.md) 
+    -  [Dictynoidea](Dictynoidea.md) 
+    -  [Orbiculariae](Orbiculariae.md) 
+    -  [Dionycha](Dictynoidea/Dionycha.md) 
     -   [other amaurobioids](other_amaurobioids)
     -   Lycosoidea
 
 -   » Sub-Groups
-    -  [Lycosidae](Lycosoidea/Lycosidae.md))
-    -  [Oxyopidae](Lycosoidea/Oxyopidae.md))
+    -  [Lycosidae](Lycosoidea/Lycosidae.md) 
+    -  [Oxyopidae](Lycosoidea/Oxyopidae.md) 
 
 # Lycosoidea 
 ![ ](Lycosoidea/Lycosa_helluo2.jpg))![ ](Lycosoidea/Lynx_Spider0082.jpg))
 
 Tree from Coddington and Levi (1991)
 
-Containing group:[Entelegynae](../Entelegynae.md))
+Containing group:[Entelegynae](../Entelegynae.md) 
 
 ### References
 
@@ -71,6 +71,7 @@ Oxyopidae). Journal of Zoology 253:309-332.
   Sex ::                Female
   Life Cycle Stage ::     adult, egg sac
   Copyright ::            © [Jim Kalisch](http://entomology.unl.edu/) 
+ 
   -----------------------------------------------------------------------
 ![](Lycosoidea/Lynx_Spider0082.jpg))
 
@@ -82,6 +83,7 @@ Oxyopidae). Journal of Zoology 253:309-332.
   Behavior             predation
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+ 
   ------------------------------------------------------------------------------
 
 

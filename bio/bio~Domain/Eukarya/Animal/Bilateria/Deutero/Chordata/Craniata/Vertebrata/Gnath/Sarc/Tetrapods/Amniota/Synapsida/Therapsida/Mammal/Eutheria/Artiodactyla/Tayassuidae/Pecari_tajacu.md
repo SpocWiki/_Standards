@@ -28,10 +28,10 @@ title: Pecari tajacu
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Tayassuidae](../Tayassuidae.md))
-    -  [Artiodactyla](../../Artiodactyla.md))
-    -  [Eutheria](../../../Eutheria.md))
-    -  [Mammal](../../../../Mammal.md))
+    -  [Tayassuidae](../Tayassuidae.md) 
+    -  [Artiodactyla](../../Artiodactyla.md) 
+    -  [Eutheria](../../../Eutheria.md) 
+    -  [Mammal](../../../../Mammal.md) 
     -   [Therapsida](../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../Amniota.md)
@@ -42,9 +42,9 @@ title: Pecari tajacu
     -   [Craniata](../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Tayassuidae
@@ -62,7 +62,8 @@ title: Pecari tajacu
 ## Title Illustrations
 
 
-----------------------------![](Pecari_tajacu/121975688_cc08a08d1e_b.jpg))
+---------------------------- 
+![](Pecari_tajacu/121975688_cc08a08d1e_b.jpg))
 Scientific Name ::                    Tayassu tajacu
 Location ::                          Living Desert State Park, New Mexico, USA
 Acknowledgements                    The copyright owner has released this image under the

@@ -74,13 +74,13 @@ paraphyletic Phaseoleae.
     -   [Fabaceae](../../Fabaceae.md)
     -   [Fabales](../../../Fabales.md)
     -   [Rosids](../../../../Rosids.md)
-    -  [Core Eudicots](../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Papilionoideae
@@ -95,12 +95,14 @@ paraphyletic Phaseoleae.
 
 ## Title Illustrations
 
-----------------------![Phaseolus vulgaris](../Faboideae/Phaseoleae/Phaseolus_vulgaris/Phaseolus_vulgaris.jpg))
+---------------------- 
+![Phaseolus vulgaris](../Faboideae/Phaseoleae/Phaseolus_vulgaris/Phaseolus_vulgaris.jpg))
 Scientific Name ::     Phaseolus vulgaris L.
 Specimen Condition   Live Specimen
 Copyright ::            © [Robert Kiedrowski](http://www.danad.com.pl/foto.htm)
 
------------------------![Erythrina falcata](Millettioid/Erythrina_falcata.jpg))
+----------------------- 
+![Erythrina falcata](Millettioid/Erythrina_falcata.jpg))
 Scientific Name ::     Erythrina falcata Bentham
 Location ::           Peru
 Comments             Member of tribe Phaseoleae

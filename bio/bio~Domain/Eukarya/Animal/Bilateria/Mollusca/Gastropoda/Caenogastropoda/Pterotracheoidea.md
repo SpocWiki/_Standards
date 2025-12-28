@@ -188,12 +188,12 @@ upward-searching predators (Seapy and Young, 1986).
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Caenogastropoda](../Caenogastropoda.md))
-    -  [Gastropoda](../../Gastropoda.md))
-    -  [Mollusca](../../../Mollusca.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Caenogastropoda](../Caenogastropoda.md) 
+    -  [Gastropoda](../../Gastropoda.md) 
+    -  [Mollusca](../../../Mollusca.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Caenogastropoda
@@ -201,8 +201,8 @@ upward-searching predators (Seapy and Young, 1986).
 
 -   » Sub-Groups
 	-  Carinarioidea [Blainville, 1818]
-    -  [Atlantidae](Pterotracheoidea/Atlantidae.md))
-    -  [Pterotracheidae](Pterotracheoidea/Pterotracheidae.md))
+    -  [Atlantidae](Pterotracheoidea/Atlantidae.md) 
+    -  [Pterotracheidae](Pterotracheoidea/Pterotracheidae.md) 
 	-   [Atlantidae](Pterotracheoidea/Atlantidae.md "go to ToL page"))*[ Rang,
 	    1829]
 	-   [Pterotracheidae](Pterotracheoidea/Pterotracheidae.md "go to ToL page"))*[
@@ -224,17 +224,20 @@ upward-searching predators (Seapy and Young, 1986).
 ## Title Illustrations
 
 
--------------------------------------------------------------------------![](Pterotracheoidea/Oxygyrus_keraudreni.jpg))
+------------------------------------------------------------------------- 
+![](Pterotracheoidea/Oxygyrus_keraudreni.jpg))
 Scientific Name ::     Oxygyrus keraudreni
 Specimen Condition   Live Specimen
 Copyright ::            © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu) 
 
--------------------------------------------------------------------------![](Pterotracheoidea/Carinaria_japonica.jpg))
+------------------------------------------------------------------------- 
+![](Pterotracheoidea/Carinaria_japonica.jpg))
 Scientific Name ::     Carinaria japonica
 Specimen Condition   Live Specimen
 Copyright ::            © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu) 
 
--------------------------------------------------------------------------![](Pterotracheoidea/Pterotrachea_coronata.jpg))
+------------------------------------------------------------------------- 
+![](Pterotracheoidea/Pterotrachea_coronata.jpg))
 Scientific Name ::     Pterotrachea coronata
 Specimen Condition   Live Specimen
 Copyright ::            © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu) 

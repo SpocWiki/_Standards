@@ -16,7 +16,7 @@ title: Promachoteuthis sp. D
 
 The catalogue number of the holotype is: USNM 00730701.
 
-Containing group:[Promachoteuthidae](../Promachoteuthidae.md))
+Containing group:[Promachoteuthidae](../Promachoteuthidae.md) 
 
 ## Introduction
 
@@ -81,14 +81,14 @@ from the WALTHER HERWIG at 1550 m depth.
 -   « Ancestral Groups  
     -   [Promachoteuthis](Promachoteuthis)
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Promachoteuthis
@@ -114,6 +114,7 @@ from the WALTHER HERWIG at 1550 m depth.
   View                 Dorsal and ventral
   Type                 Holotype
   Copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
+ 
   -----------------------------------------------------------------------
 ![](D/PromachSpDdors.jpg))
 
@@ -123,6 +124,7 @@ from the WALTHER HERWIG at 1550 m depth.
   Specimen Condition   Dead Specimen
   View                 Dorsal
   Copyright ::            © 2003 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   --------------------------------------------------------------------------------
 ![](D/PromachSpDvent.jpg))
 
@@ -132,6 +134,7 @@ from the WALTHER HERWIG at 1550 m depth.
   Specimen Condition   Dead Specimen
   View                 Ventral
   Copyright ::            © 2003 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   --------------------------------------------------------------------------------
 
 

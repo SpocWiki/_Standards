@@ -7,18 +7,18 @@ title: Sinentomon
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Sinentomata](../Sinentomata.md))
-    -  [Protura](../../Protura.md))
-    -  [Hexapoda](../../../Hexapoda.md))
-    -  [Arthropoda](../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Sinentomata](../Sinentomata.md) 
+    -  [Protura](../../Protura.md) 
+    -  [Hexapoda](../../../Hexapoda.md) 
+    -  [Arthropoda](../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Sinentomata
     -   Sinentomon
-    -  [Fujientomon](Fujientomon.md))
+    -  [Fujientomon](Fujientomon.md) 
 
 -   » Sub-Groups 
 
@@ -30,7 +30,7 @@ title: Sinentomon
 -   *Sinentomon erythranum*
 -   *Sinentomon yoroi*
 
-Containing group:[Sinentomata](../Sinentomata.md))
+Containing group:[Sinentomata](../Sinentomata.md) 
 
 
 ## Confidential Links & Embeds: 

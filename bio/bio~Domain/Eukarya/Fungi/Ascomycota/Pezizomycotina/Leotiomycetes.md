@@ -7,18 +7,18 @@ title: Leotiomycetes
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Pezizomycotina](../Pezizomycotina.md))
-    -  [Ascomycota](../../Ascomycota.md))
-    -  [Fungi](../../../Fungi.md))
-    -  [Eukarya](../../../../Eukarya.md))
+    -  [Pezizomycotina](../Pezizomycotina.md) 
+    -  [Ascomycota](../../Ascomycota.md) 
+    -  [Fungi](../../../Fungi.md) 
+    -  [Eukarya](../../../../Eukarya.md) 
     -   [Tree of Life](../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Pezizomycotina
-    -  [Lecanoromycetes](Lecanoromycetes.md))
-    -  [Eurotiomycetes](Eurotiomycetes.md))
+    -  [Lecanoromycetes](Lecanoromycetes.md) 
+    -  [Eurotiomycetes](Eurotiomycetes.md) 
     -   Leotiomycetes
-    -  [Geoglossaceae](Geoglossaceae.md))
-    -  [Dothideomycetes](Dothideomycetes.md))
+    -  [Geoglossaceae](Geoglossaceae.md) 
+    -  [Dothideomycetes](Dothideomycetes.md) 
 
 -   » Sub-Groups 
 
@@ -30,7 +30,7 @@ title: Leotiomycetes
 -   *Rhytismatales*
 -   *Thelebolales*
 
-Containing group:[Pezizomycotina](../Pezizomycotina.md))
+Containing group:[Pezizomycotina](../Pezizomycotina.md) 
 
 
 ## Confidential Links & Embeds: 

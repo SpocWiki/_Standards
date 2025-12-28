@@ -27,13 +27,13 @@ title: Cynarospermum asperrimum
     -   [Acanthaceae](../../Acanthaceae.md)
     -   [Lamiales](../../../Lamiales.md)
     -   [Asterids](../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Acantheae
@@ -69,13 +69,15 @@ seeds have conical tubercles.
 
 ## Title Illustrations
 
---------------------------------------------------------------------------![Cynarospermum](Cynarospermum/Cynaro.jpg))
+-------------------------------------------------------------------------- 
+![Cynarospermum](Cynarospermum/Cynaro.jpg))
 Scientific Name ::     Cynarospermum asperrimum (Ness) Vollesen
 Location ::           Mysore, India
 Specimen Condition   Dead Specimen
 Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
----------------------------------------------------------------------------![Cynarospermum](Cynarospermum/Cynarosp_004.jpg))
+--------------------------------------------------------------------------- 
+![Cynarospermum](Cynarospermum/Cynarosp_004.jpg))
 Scientific Name ::     Cynarospermum asperrimum (Ness) Vollesen
 Location ::           Mysore, India
 Reference            KEW

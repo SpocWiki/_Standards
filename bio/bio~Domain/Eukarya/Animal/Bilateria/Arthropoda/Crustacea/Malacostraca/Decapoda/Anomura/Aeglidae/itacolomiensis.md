@@ -8,7 +8,7 @@ title: Aegla itacolomiensis
 
 ![ ](itacolomiensis/itacolomiensis1.jpg))
 
-Containing group:[Aeglidae](../Aeglidae.md))
+Containing group:[Aeglidae](../Aeglidae.md) 
 
 ### Types
 
@@ -37,14 +37,14 @@ Eastern Rio Grande do Sul, Brazil.
 
 -   « Ancestral Groups  
     -   [Aegla](Aegla)
-    -  [Anomura](../../Anomura.md))
-    -  [Decapoda](../../../Decapoda.md))
-    -  [Malacostraca](../../../../Malacostraca.md))
-    -  [Crustacea](../../../../../Crustacea.md))
-    -  [Arthropoda](../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Anomura](../../Anomura.md) 
+    -  [Decapoda](../../../Decapoda.md) 
+    -  [Malacostraca](../../../../Malacostraca.md) 
+    -  [Crustacea](../../../../../Crustacea.md) 
+    -  [Arthropoda](../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Aegla
@@ -113,7 +113,8 @@ Eastern Rio Grande do Sul, Brazil.
 ## Title Illustrations
 
 
------------------![](itacolomiensis/itacolomiensis1.jpg))
+----------------- 
+![](itacolomiensis/itacolomiensis1.jpg))
 Scientific Name ::  Aegla itacolomiensis
 Creator           Ana Rossi
 Sex ::             Male

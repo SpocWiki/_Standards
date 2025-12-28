@@ -22,15 +22,15 @@ the New World.
 
 -   « Ancestral Groups  
     -   [Jumping_Spider](../Jumping_Spider.md)
-    -  [Dionycha](../../Dionycha.md))
-    -  [Entelegynae](../../../../Entelegynae.md))
-    -  [Araneomorphae](../../../../../Araneomorphae.md))
+    -  [Dionycha](../../Dionycha.md) 
+    -  [Entelegynae](../../../../Entelegynae.md) 
+    -  [Araneomorphae](../../../../../Araneomorphae.md) 
     -   [Spider](../../../../../../Spider.md)
-    -  [Arachnida](../../../../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Salticidae
@@ -71,6 +71,7 @@ the New World.
 
   ---------------------------------------------------------------------------
   Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
+ 
   ---------------------------------------------------------------------------
 
 

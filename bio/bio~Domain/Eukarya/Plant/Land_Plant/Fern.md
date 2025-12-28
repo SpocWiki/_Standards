@@ -84,8 +84,8 @@ Ferns
 
 -   « Ancestral Groups  
     -   [Land_Plant](../Land_Plant.md)
-    -  [Green plants](../../Plant.md))
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Green plants](../../Plant.md) 
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Embryophytes
@@ -95,7 +95,7 @@ Ferns
     -   [Seed_Plant](Seed_Plant.md)
 
 -   » Sub-Groups
-    -  [leptosporangiate ferns](Fern/Leptosporangiate_Ferns.md))
+    -  [leptosporangiate ferns](Fern/Leptosporangiate_Ferns.md) 
 
 
 ## Confidential Links & Embeds: 

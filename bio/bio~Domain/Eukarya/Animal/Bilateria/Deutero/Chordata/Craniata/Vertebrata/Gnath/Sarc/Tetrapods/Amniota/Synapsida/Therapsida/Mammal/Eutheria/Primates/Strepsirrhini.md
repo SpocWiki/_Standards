@@ -69,9 +69,9 @@ taxon_name: Strepsirrhini
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Primates](../Primates.md))
-    -  [Eutheria](../../Eutheria.md))
-    -  [Mammal](../../../Mammal.md))
+    -  [Primates](../Primates.md) 
+    -  [Eutheria](../../Eutheria.md) 
+    -  [Mammal](../../../Mammal.md) 
     -   [Therapsida](../../../../Therapsida.md)
     -   [Synapsida](../../../../../Synapsida.md)
     -   [Amniota](../../../../../../Amniota.md)
@@ -82,9 +82,9 @@ taxon_name: Strepsirrhini
     -   [Craniata](../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Primates
@@ -94,12 +94,12 @@ taxon_name: Strepsirrhini
     -   Strepsirrhini
 
 -   » Sub-Groups
-    -  [Lemuridae](Strepsirrhini/Lemuridae.md))
-    -  [Indridae](Strepsirrhini/Indridae.md))
-    -  [Palaeopropithecidae](Strepsirrhini/Palaeopropithecidae.md))
-    -  [Cheirogaleidae](Strepsirrhini/Cheirogaleidae.md))
-    -  [Lepilemur](Strepsirrhini/Lepilemur.md))
-    -  [Lorisiformes](Strepsirrhini/Lorisiformes.md))
+    -  [Lemuridae](Strepsirrhini/Lemuridae.md) 
+    -  [Indridae](Strepsirrhini/Indridae.md) 
+    -  [Palaeopropithecidae](Strepsirrhini/Palaeopropithecidae.md) 
+    -  [Cheirogaleidae](Strepsirrhini/Cheirogaleidae.md) 
+    -  [Lepilemur](Strepsirrhini/Lepilemur.md) 
+    -  [Lorisiformes](Strepsirrhini/Lorisiformes.md) 
 
 
 ### Information on the Internet

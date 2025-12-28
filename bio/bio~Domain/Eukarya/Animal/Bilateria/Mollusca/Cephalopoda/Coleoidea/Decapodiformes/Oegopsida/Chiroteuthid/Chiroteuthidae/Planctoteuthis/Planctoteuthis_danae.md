@@ -99,17 +99,17 @@ Lu, 1975 and Lu and Clarke, 1975).
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Planctoteuthis](../Planctoteuthis.md))
-    -  [Chiroteuthidae](../../Chiroteuthidae.md))
+    -  [Planctoteuthis](../Planctoteuthis.md) 
+    -  [Chiroteuthidae](../../Chiroteuthidae.md) 
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Planctoteuthis
@@ -124,7 +124,8 @@ Lu, 1975 and Lu and Clarke, 1975).
 
 ## Title Illustrations
 
-------------------------------------------------------------------------------![](Planctoteuthis_danae/PDanaeType.jpg))
+------------------------------------------------------------------------------ 
+![](Planctoteuthis_danae/PDanaeType.jpg))
 Scientific Name ::     Planctoteuthis danae
 Reference            Joubin, L. 1931. Notes preliminaires sur les cephalopodes des croiseires du "Dana" (1921-1922). Annales de l'Institut Oceanographique, 10: 169-211.
 Specimen Condition   Preserved

@@ -24,17 +24,17 @@ title: Anomura
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Decapoda](../Decapoda.md))
-    -  [Malacostraca](../../Malacostraca.md))
-    -  [Crustacea](../../../Crustacea.md))
-    -  [Arthropoda](../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Decapoda](../Decapoda.md) 
+    -  [Malacostraca](../../Malacostraca.md) 
+    -  [Crustacea](../../../Crustacea.md) 
+    -  [Arthropoda](../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Decapoda
-    -  [Astacidea](Astacidea.md))
+    -  [Astacidea](Astacidea.md) 
     -   Anomura
 
 -   » Sub-Groups

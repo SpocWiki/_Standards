@@ -187,37 +187,39 @@ relationships is badly needed (Young, *et al.*, 1999).
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Coleoidea](../Coleoidea.md))
-    -  [Cephalopoda](../../Cephalopoda.md))
-    -  [Mollusca](../../../Mollusca.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Coleoidea](../Coleoidea.md) 
+    -  [Cephalopoda](../../Cephalopoda.md) 
+    -  [Mollusca](../../../Mollusca.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Coleoidea
     -   Decapodiformes
-    -  [Octopodiformes](Octopodiformes.md))
+    -  [Octopodiformes](Octopodiformes.md) 
 
 -   » Sub-Groups
-    -  [Bathyteuthoida](Decapodiformes/Bathyteuthoida.md))
-    -  [Idiosepiidae](Decapodiformes/Idiosepiidae.md))
-    -  [Myopsida](Decapodiformes/Myopsida.md))
-    -  [Oegopsida](Decapodiformes/Oegopsida.md))
-    -  [Sepioidea](Decapodiformes/Sepioidea.md))
+    -  [Bathyteuthoida](Decapodiformes/Bathyteuthoida.md) 
+    -  [Idiosepiidae](Decapodiformes/Idiosepiidae.md) 
+    -  [Myopsida](Decapodiformes/Myopsida.md) 
+    -  [Oegopsida](Decapodiformes/Oegopsida.md) 
+    -  [Sepioidea](Decapodiformes/Sepioidea.md) 
     -   [Spirula spirula](Spirula_spirula)
 
 
 ## Title Illustrations
 
 
--------------------------------------------------------------------------------![](Decapodiformes/Histioteuthis.jpg))
+------------------------------------------------------------------------------- 
+![](Decapodiformes/Histioteuthis.jpg))
 Scientific Name ::  Histioteuthis
 Location ::        Hawaii
 View              Oral view showing eight arms and two tentacles
 Copyright ::         © 1995 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
 
--------------------------------------------------------------------------------![Pyroteuthis addolux](Decapodiformes/Pyroteuthis_addolux.jpg))
+------------------------------------------------------------------------------- 
+![Pyroteuthis addolux](Decapodiformes/Pyroteuthis_addolux.jpg))
 Scientific Name ::  Pyroteuthis addolux
 Location ::        Hawaii
 View              Dorsal view showing eight arms and two tentacles

@@ -11,13 +11,13 @@ title: Cirroctopus hochbergi
     -   [Opisthoteuthidae](../../Opisthoteuthidae.md)
     -   [Cirrata](../../../Cirrata.md)
     -   [Octopod](../../../../Octopod.md)
-    -  [Octopodiformes](../../../../../Octopodiformes.md))
-    -  [Coleoidea](../../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Octopodiformes](../../../../../Octopodiformes.md) 
+    -  [Coleoidea](../../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Cirroctopus
@@ -101,6 +101,7 @@ Mar. Sci. 20: 421-428.\'
   Size              90 mm ML
   Type              Holotype
   Copyright ::         © [Steve O\'Shea](mailto:steve.oshea@aut.ac.nz) 
+ 
   ------------------------------------------------------------------------
 
 

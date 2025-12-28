@@ -10,13 +10,13 @@ title: Haliphron atlanticus
     -   [Argonautoida](../Argonautoida.md)
     -   [Incirrata](../../Incirrata.md)
     -   [Octopod](../../../Octopod.md)
-    -  [Octopodiformes](../../../../Octopodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Octopodiformes](../../../../Octopodiformes.md) 
+    -  [Coleoidea](../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Argonautoida
@@ -192,6 +192,7 @@ of the Hawaiian mesopelagic-boundary region. Pacific Science, 49:
   View              Lateral
   Size              54 mm ML
   Copyright ::         © 2004 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   -------------------------------------------------------------------------------
 ![](Alloposidae/HaliphronDraw.jpg))
 

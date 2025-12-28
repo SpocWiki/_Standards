@@ -22,8 +22,8 @@ title: Pholidota
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Eutheria](../Eutheria.md))
-    -  [Mammal](../../Mammal.md))
+    -  [Eutheria](../Eutheria.md) 
+    -  [Mammal](../../Mammal.md) 
     -   [Therapsida](../../../Therapsida.md)
     -   [Synapsida](../../../../Synapsida.md)
     -   [Amniota](../../../../../Amniota.md)
@@ -34,15 +34,15 @@ title: Pholidota
     -   [Craniata](../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Eutheria
     -   [Edentata](Edentata.md)
     -   Pholidota
-    -  [Lagomorpha](Glires/Lagomorpha.md))
+    -  [Lagomorpha](Glires/Lagomorpha.md) 
     -   [Rodentia](Rodentia.md)
     -   [Macroscelididae](Macroscelididae.md)
     -   [Primates](Primates.md)
@@ -60,7 +60,7 @@ title: Pholidota
     -   [Proboscidea](Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Terrestrial/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea.md)
 
 -   » Sub-Groups
-    -  [Manidae](Pholidota/Manidae.md))
+    -  [Manidae](Pholidota/Manidae.md) 
 
 	-   *Metacheiromyidae* †
 	-   [Manidae](Pholidota/Manidae.md "go to ToL page"))*
@@ -72,7 +72,8 @@ title: Pholidota
 
 ## Title Illustrations
 
--------------------------------------------------------------------------![Cape pangolin](Pholidota/Pangolin01.jpg))
+------------------------------------------------------------------------- 
+![Cape pangolin](Pholidota/Pangolin01.jpg))
 Scientific Name ::     Manis temmincki
 Location ::           Serengeti NP, Tanzania
 Specimen Condition   Live Specimen
@@ -83,7 +84,8 @@ Body Part            whole
 View                 side
 Copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
 
--------------------------------------------------------------------------![Cape pangolin](Pholidota/Pangolin02.jpg))
+------------------------------------------------------------------------- 
+![Cape pangolin](Pholidota/Pangolin02.jpg))
 Scientific Name ::     Manis temmincki
 Location ::           Serengeti NP, Tanzania
 Specimen Condition   Live Specimen

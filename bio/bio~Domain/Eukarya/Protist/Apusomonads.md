@@ -65,7 +65,7 @@ synapomorphies for the five species contained within this group.
 
 -   « Ancestral Groups  
     -   [The other protists](The_other_protists)
-    -  [Eukarya](../../Eukarya.md))
+    -  [Eukarya](../../Eukarya.md) 
     -   [Tree of Life](../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  The other protists
@@ -106,6 +106,7 @@ Patterson, D. J. 1999. The diversity of eukaryotes. American Naturalist
   Scientific Name ::     Amastigomonas debruynei
   Specimen Condition   Dead Specimen
   Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+ 
   ---------------------------------------------------------------------------------
 ![](Apusomonads/papuprob.jpg))
 

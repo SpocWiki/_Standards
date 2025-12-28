@@ -64,23 +64,23 @@ positioning of Parastacidae is shown as unresolved.
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Decapoda](../Decapoda.md))
-    -  [Malacostraca](../../Malacostraca.md))
-    -  [Crustacea](../../../Crustacea.md))
-    -  [Arthropoda](../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Decapoda](../Decapoda.md) 
+    -  [Malacostraca](../../Malacostraca.md) 
+    -  [Crustacea](../../../Crustacea.md) 
+    -  [Arthropoda](../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Decapoda
     -   Astacidea
-    -  [Anomura](Anomura.md))
+    -  [Anomura](Anomura.md) 
 
 -   » Sub-Groups
     -   [Parastacidae](Parastacidae)
-    -  [Astacidae](Astacidea/Astacidae.md))
-    -  [Cambaridae](Astacidea/Astacidae/Cambaridae.md))
+    -  [Astacidae](Astacidea/Astacidae.md) 
+    -  [Cambaridae](Astacidea/Astacidae/Cambaridae.md) 
 
 
 ## Title Illustrations

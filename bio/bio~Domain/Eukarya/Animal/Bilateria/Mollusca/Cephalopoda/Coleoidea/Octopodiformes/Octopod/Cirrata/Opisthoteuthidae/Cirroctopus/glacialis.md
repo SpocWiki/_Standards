@@ -11,13 +11,13 @@ title: Cirroctopus glacialis
     -   [Opisthoteuthidae](../../Opisthoteuthidae.md)
     -   [Cirrata](../../../Cirrata.md)
     -   [Octopod](../../../../Octopod.md)
-    -  [Octopodiformes](../../../../../Octopodiformes.md))
-    -  [Coleoidea](../../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Octopodiformes](../../../../../Octopodiformes.md) 
+    -  [Coleoidea](../../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Cirroctopus
@@ -88,6 +88,7 @@ Mar. Sci. 20: 421-428.
   Scientific Name ::  Cirroctopus glacialis
   Reference         Vecchione, M., U. Piatkowski and A. L. Allcock. 1998. Biology of the cirrate octopod Grimpoteuthis glacialis (Cephalopoda; Opisthoteuthidae) in the South Shetland Islands, Antarctica. S. Afr. J. Mar. Sci. 20: 421-428.
   Copyright ::         © 1998 [Michael Vecchione](mailto:vecchiom@si.edu) 
+ 
   ------------------------------------------------------------------------
 ![](glacialis/CirroctGlacDors.jpg))
 
@@ -95,6 +96,7 @@ Mar. Sci. 20: 421-428.
   Scientific Name ::  Cirroctopus glacialis
   Reference         Vecchione, M., U. Piatkowski and A. L. Allcock. 1998. Biology of the cirrate octopod Grimpoteuthis glacialis (Cephalopoda; Opisthoteuthidae) in the South Shetland Islands, Antarctica. S. Afr. J. Mar. Sci. 20: 421-428.
   Copyright ::         © 1998 [Michael Vecchione](mailto:vecchiom@si.edu) 
+ 
   ------------------------------------------------------------------------
 
 

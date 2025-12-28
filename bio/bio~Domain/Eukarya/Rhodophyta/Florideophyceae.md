@@ -123,16 +123,16 @@ in the Florideophyceae.
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Rhodophyta](../Rhodophyta.md))
-    -  [Eukarya](../../Eukarya.md))
+    -  [Rhodophyta](../Rhodophyta.md) 
+    -  [Eukarya](../../Eukarya.md) 
     -   [Tree of Life](../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Rhodophyta
     -   Florideophyceae
 
 -   » Sub-Groups
-    -  [Ceramiales](Florideophyceae/Ceramiales.md))
-    -  [Gelidiales](Florideophyceae/Gelidiales.md))
+    -  [Ceramiales](Florideophyceae/Ceramiales.md) 
+    -  [Gelidiales](Florideophyceae/Gelidiales.md) 
 
 ## Title Illustrations
 

@@ -23,37 +23,37 @@ goblet worms, nodding heads, kamptozoans
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Bilateria](../Bilateria.md))
-    -  [Animals](../../Animals.md))
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Bilateria](../Bilateria.md) 
+    -  [Animals](../../Animals.md) 
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Bilateria
     -   [Deuterostomia](Deutero.md)
-    -  [Arthropoda](Arthropoda.md))
-    -  [Onychophora](Onychophora.md))
+    -  [Arthropoda](Arthropoda.md) 
+    -  [Onychophora](Onychophora.md) 
     -   [Tardigrade](Tardigrade.md)
-    -  [Nematoda](Nematoda.md))
-    -  [Nematomorpha](Nematomorpha.md))
-    -  [Kinorhyncha](Kinorhyncha.md))
-    -  [Loricifera](Loricifera.md))
-    -  [Priapulida](Priapulida.md))
+    -  [Nematoda](Nematoda.md) 
+    -  [Nematomorpha](Nematomorpha.md) 
+    -  [Kinorhyncha](Kinorhyncha.md) 
+    -  [Loricifera](Loricifera.md) 
+    -  [Priapulida](Priapulida.md) 
     -   [Arrow_Worm](Arrow_Worm.md)
-    -  [Gastrotricha](Gastrotricha.md))
-    -  [Rotifera](Rotifera.md))
-    -  [Gnathostomulida](Gnathostomulida.md))
+    -  [Gastrotricha](Gastrotricha.md) 
+    -  [Rotifera](Rotifera.md) 
+    -  [Gnathostomulida](Gnathostomulida.md) 
     -   [Limnognathia maerski](Limnognathia_maerski)
-    -  [Cycliophora](Cycliophora.md))
-    -  [Mesozoa](Mesozoa.md))
-    -  [Platyhelminthes](Platyhelminthes.md))
-    -  [Annelida](Annelida.md))
-    -  [Bryozoa](Bryozoa.md))
-    -  [Sipuncula](Sipuncula.md))
-    -  [Mollusca](Mollusca.md))
-    -  [Nemertea](Nemertea.md))
+    -  [Cycliophora](Cycliophora.md) 
+    -  [Mesozoa](Mesozoa.md) 
+    -  [Platyhelminthes](Platyhelminthes.md) 
+    -  [Annelida](Annelida.md) 
+    -  [Bryozoa](Bryozoa.md) 
+    -  [Sipuncula](Sipuncula.md) 
+    -  [Mollusca](Mollusca.md) 
+    -  [Nemertea](Nemertea.md) 
     -   Entoprocta
-    -  [Phoronida](Phoronida.md))
-    -  [Brachiopoda](Brachiopoda.md))
+    -  [Phoronida](Phoronida.md) 
+    -  [Brachiopoda](Brachiopoda.md) 
 -   » Sub-Groups 
 	-   *Solitaria*
 	    -   *Loxosomatidae*
@@ -71,7 +71,8 @@ Pedicellina (Pedicellinidae). Part of an entoproct colony.\
 Drawing by Stritch. Copyright © 2001
 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
---------------------------------------------------------------------------![](Entoprocta/ento003b.gif))
+-------------------------------------------------------------------------- 
+![](Entoprocta/ento003b.gif))
 Copyright ::   © 2001 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 

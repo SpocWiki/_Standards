@@ -233,9 +233,9 @@ comprehensive and rigorous available for Paleozoic echinoderms.
 
 -   « Ancestral Groups  
     -   [Deuterostomia](../Deutero.md)
-    -  [Bilateria](../../Bilateria.md))
-    -  [Animals](../../../Animals.md))
-    -  [Eukarya](../../../../Eukarya.md))
+    -  [Bilateria](../../Bilateria.md) 
+    -  [Animals](../../../Animals.md) 
+    -  [Eukarya](../../../../Eukarya.md) 
     -   [Tree of Life](../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Deuterostomia
@@ -254,21 +254,24 @@ comprehensive and rigorous available for Paleozoic echinoderms.
 ## Title Illustrations
 
 
----------------------------![Feather star](Echinodermata/crinoid.jpg))
+--------------------------- 
+![Feather star](Echinodermata/crinoid.jpg))
 Scientific Name ::     Crinoidea
 Location ::           Palau, Micronesia
 Comments             Feather star
 Specimen Condition   Live Specimen
 Copyright ::            © 1998 [Edoardo Bellotti, e&c Photo Gallery](http://www.e-bellotti.com/)
 
---------------------------![Ruby brittle star on brain coral](Echinodermata/brittle.jpg))
+-------------------------- 
+![Ruby brittle star on brain coral](Echinodermata/brittle.jpg))
 Scientific Name ::     Ophioderma rubicundum
 Location ::           Grand Cayman, British West Indies
 Comments             Ruby brittle star on brain coral
 Specimen Condition   Live Specimen
 Copyright ::            © 1998 [M. Benjamin Cowan, Ocean Images](http://www.uwphotos.com/)
 
---------------------------------------------------------------------------![Sea urchin](Echinodermata/urchin.jpg))
+-------------------------------------------------------------------------- 
+![Sea urchin](Echinodermata/urchin.jpg))
 Scientific Name ::     Strongylocentrotus purpuratus
 Location ::           Cape Perpetua, Oregon, USA
 Comments             Sea urchin

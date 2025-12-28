@@ -240,9 +240,9 @@ Leptodactylidae, an arrangement that agrees with Lynch (1971).
     -   [Craniata](../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Salientia
@@ -288,7 +288,8 @@ Leptodactylidae, an arrangement that agrees with Lynch (1971).
 
 ## Title Illustrations
 
-------------------------------![cane toad](Neobatrachia/Bufo_marinus1354003.jpg))
+------------------------------ 
+![cane toad](Neobatrachia/Bufo_marinus1354003.jpg))
 Scientific Name ::     Bufo marinus
 Comments             cane toad
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1354003)
@@ -296,7 +297,8 @@ Specimen Condition   Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
 Copyright ::            © Kevin Enge, Florida Fish and Wildlife Conservation Commission
 
-------------------------------![](Neobatrachia/1109hyla.jpg))
+------------------------------ 
+![](Neobatrachia/1109hyla.jpg))
 Scientific Name ::     Hyla punctata
 Location ::           lowland Amazon rain forest, Peru
 Specimen Condition   Live Specimen

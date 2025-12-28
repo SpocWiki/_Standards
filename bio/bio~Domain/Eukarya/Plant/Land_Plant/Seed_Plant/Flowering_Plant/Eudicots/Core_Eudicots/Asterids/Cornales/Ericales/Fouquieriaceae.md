@@ -22,13 +22,13 @@ title: Fouquieria
 -   « Ancestral Groups  
     -   [Ericales](../Ericales.md)
     -   [Asterids](../../../Asterids.md)
-    -  [Core Eudicots](../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Ericales
@@ -42,7 +42,8 @@ title: Fouquieria
 ## Title Illustrations
 
 
--------------------------------------------------------------![Fouquieria_splendens](Fouquieriaceae/Fouquieria_splendens.jpg))
+------------------------------------------------------------- 
+![Fouquieria_splendens](Fouquieriaceae/Fouquieria_splendens.jpg))
 Scientific Name ::     Fouquieria splendens
 Location ::           Anza-Borrego Desert State Park, California, USA
 Specimen Condition   Live Specimen
@@ -51,7 +52,8 @@ Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
 Copyright ::            © 2003 [Anita Gould](http://flickr.com/people/anitagould/)
 
--------------------------------------------------------------![Fouquieria_splendens-blosssom](Fouquieriaceae/Fouquieria_splendens-blosssom.jpg))
+------------------------------------------------------------- 
+![Fouquieria_splendens-blosssom](Fouquieriaceae/Fouquieria_splendens-blosssom.jpg))
 Scientific Name ::     Fouquieria splendens
 Location ::           Anza-Borrego Desert State Park, California, USA
 Specimen Condition   Live Specimen

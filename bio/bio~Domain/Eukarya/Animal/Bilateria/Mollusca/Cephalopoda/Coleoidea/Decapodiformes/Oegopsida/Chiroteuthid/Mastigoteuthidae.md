@@ -8,19 +8,19 @@ title: Mastigoteuthis
 
 -   « Ancestral Groups  
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../Oegopsida.md))
-    -  [Decapodiformes](../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../Oegopsida.md) 
+    -  [Decapodiformes](../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Chiroteuthid families
     -   [Batoteuthis skolops](Batoteuthis_skolops)
-    -  [Chiroteuthidae](Chiroteuthidae.md))
+    -  [Chiroteuthidae](Chiroteuthidae.md) 
     -   [Joubiniteuthis portieri](Joubiniteuthis_portieri)
     -   [Magnapinna](Magnapinna)
     -   Mastigoteuthis
@@ -56,7 +56,7 @@ title: Mastigoteuthis
 This family contains a single genus, *Mastigoteuthis* Verrill, 1881,
 with 14 nominal species, many of which are poorly known.
 
-Containing group:[Chiroteuthid families](../Chiroteuthid.md))
+Containing group:[Chiroteuthid families](../Chiroteuthid.md) 
 
 ## Introduction
 

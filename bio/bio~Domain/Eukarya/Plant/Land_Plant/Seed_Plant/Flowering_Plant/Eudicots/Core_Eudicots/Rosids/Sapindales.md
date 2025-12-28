@@ -66,13 +66,13 @@ title: Sapindales
 -
 -   « Ancestral Groups  
     -   [Rosids](../Rosids.md)
-    -  [Core Eudicots](../../Core_Eudicots.md))
+    -  [Core Eudicots](../../Core_Eudicots.md) 
     -   [Eudicots](../../../Eudicots.md)
     -   [Flowering_Plant](../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Rosids
@@ -108,6 +108,7 @@ title: Sapindales
   Specimen Condition   Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
+ 
   ------------------------------------------------------------------------------
 ![Dictamnus dasycarpus](Sapindales/Dictamnus_dasycarpus.jpg))
 
@@ -118,6 +119,7 @@ title: Sapindales
   Specimen Condition   Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
+ 
   -------------------------------------------------------------------------
 ![Elephant tree, Bursera microphylla](Sapindales/Bursera_microphylla0036.jpg))
 
@@ -129,6 +131,7 @@ title: Sapindales
   Specimen Condition   Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
+ 
   ------------------------------------------------------------------------------
 
 

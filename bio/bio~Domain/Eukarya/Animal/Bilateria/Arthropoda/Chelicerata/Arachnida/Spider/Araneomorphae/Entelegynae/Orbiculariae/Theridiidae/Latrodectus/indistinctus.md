@@ -7,17 +7,17 @@ title: Latrodectus indistinctus
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Latrodectus](../Latrodectus.md))
-    -  [Theridiidae](../../Theridiidae.md))
-    -  [Orbiculariae](../../../Orbiculariae.md))
-    -  [Entelegynae](../../../../Entelegynae.md))
-    -  [Araneomorphae](../../../../../Araneomorphae.md))
+    -  [Latrodectus](../Latrodectus.md) 
+    -  [Theridiidae](../../Theridiidae.md) 
+    -  [Orbiculariae](../../../Orbiculariae.md) 
+    -  [Entelegynae](../../../../Entelegynae.md) 
+    -  [Araneomorphae](../../../../../Araneomorphae.md) 
     -   [Spider](../../../../../../Spider.md)
-    -  [Arachnida](../../../../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Latrodectus
@@ -52,6 +52,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Sex ::                Female
   Life Cycle Stage ::     Adult
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+ 
   ---------------------------------------------------------------------------------------
 ![](indistinctus/dsc_0185.jpg))
 
@@ -63,6 +64,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Sex ::                Female
   Life Cycle Stage ::     Adult
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+ 
   ---------------------------------------------------------------------------------------
 ![](indistinctus/dsc_0083.jpg))
 
@@ -72,6 +74,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Specimen Condition   Live Specimen
   Life Cycle Stage ::     Egg case
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+ 
   ---------------------------------------------------------------------------------------
 
 

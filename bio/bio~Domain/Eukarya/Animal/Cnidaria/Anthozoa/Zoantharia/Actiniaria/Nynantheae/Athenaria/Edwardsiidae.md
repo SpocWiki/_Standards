@@ -7,26 +7,26 @@ title: Edwardsiidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Athenaria](../Athenaria.md))
-    -  [Nynantheae](../../Nynantheae.md))
-    -  [Actiniaria](../../../Actiniaria.md))
-    -  [Zoantharia](../../../../Zoantharia.md))
-    -  [Anthozoa](../../../../../Anthozoa.md))
-    -  [Cnidaria](../../../../../../Cnidaria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Athenaria](../Athenaria.md) 
+    -  [Nynantheae](../../Nynantheae.md) 
+    -  [Actiniaria](../../../Actiniaria.md) 
+    -  [Zoantharia](../../../../Zoantharia.md) 
+    -  [Anthozoa](../../../../../Anthozoa.md) 
+    -  [Cnidaria](../../../../../../Cnidaria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Athenaria
     -   Edwardsiidae
     -   [Halcampoididae](Halcampoididae)
-    -  [Haloclavidae](Haloclavidae.md))
+    -  [Haloclavidae](Haloclavidae.md) 
     -   [Andresiidae](Andresiidae)
     -   [Halcampidae](Halcampidae)
     -   [Limnactiniidae](Limnactiniidae)
     -   [Haliactiidae](Haliactiidae)
     -   [Octineonidae](Octineonidae)
-    -  [Andwakiidae](Andwakiidae.md))
+    -  [Andwakiidae](Andwakiidae.md) 
 
 -   » Sub-Groups
     -   [Edwardsia](Edwardsia)
@@ -52,7 +52,7 @@ title: Edwardsiidae
 -   *[Drillactis](Drillactis)*
 -   *[Metedwardsia](Metedwardsia)*
 
-Containing group:[Athenaria](../Athenaria.md))
+Containing group:[Athenaria](../Athenaria.md) 
 
 ## Introduction
 

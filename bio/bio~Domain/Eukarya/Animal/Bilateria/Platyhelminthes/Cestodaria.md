@@ -16,18 +16,18 @@ title: Cestodaria
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Platyhelminthes](../Platyhelminthes.md))
-    -  [Bilateria](../../Bilateria.md))
-    -  [Animals](../../../Animals.md))
-    -  [Eukarya](../../../../Eukarya.md))
+    -  [Platyhelminthes](../Platyhelminthes.md) 
+    -  [Bilateria](../../Bilateria.md) 
+    -  [Animals](../../../Animals.md) 
+    -  [Eukarya](../../../../Eukarya.md) 
     -   [Tree of Life](../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Platyhelminthes
-    -  [Aspidogastrea](Aspidogastrea.md))
+    -  [Aspidogastrea](Aspidogastrea.md) 
     -   Cestodaria
 
 -   » Sub-Groups
-    -  [Amphilinidea](Cestodaria/Amphilinidea.md))
+    -  [Amphilinidea](Cestodaria/Amphilinidea.md) 
 	-   *Gyrocotylidea*
 	-   [Amphilinidea](Cestodaria/Amphilinidea.md "go to ToL page"))*
 

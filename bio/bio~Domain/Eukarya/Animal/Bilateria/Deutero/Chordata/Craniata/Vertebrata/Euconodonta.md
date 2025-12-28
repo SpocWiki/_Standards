@@ -93,9 +93,9 @@ Prionodontida, Prioniodinida, and Ozarkodinida.
     -   [Craniata](../../Craniata.md)
     -   [Chordata](../../../Chordata.md)
     -   [Deuterostomia](../../../../Deutero.md)
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Vertebrata
@@ -121,7 +121,8 @@ odds with conventional vertebrate hard tissues. Nevertheless, the eyes,
 body shape, and tail stucture of the euconodonta are strikingly
 vertebrate-like. (After Purnell et al. 1995.)
 
-----------![euconodonta](Euconodonta/euconodonta.gif))
+---------- 
+![euconodonta](Euconodonta/euconodonta.gif))
 Copyright ::   © 1997 Philippe Janvier
 
 

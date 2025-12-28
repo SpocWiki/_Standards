@@ -7,30 +7,30 @@ title: Athenaria
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Nynantheae](../Nynantheae.md))
-    -  [Actiniaria](../../Actiniaria.md))
-    -  [Zoantharia](../../../Zoantharia.md))
-    -  [Anthozoa](../../../../Anthozoa.md))
-    -  [Cnidaria](../../../../../Cnidaria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Nynantheae](../Nynantheae.md) 
+    -  [Actiniaria](../../Actiniaria.md) 
+    -  [Zoantharia](../../../Zoantharia.md) 
+    -  [Anthozoa](../../../../Anthozoa.md) 
+    -  [Cnidaria](../../../../../Cnidaria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Nynantheae
     -   Athenaria
-    -  [Boloceroidaria](Boloceroidaria.md))
-    -  [Thenaria](Thenaria.md))
+    -  [Boloceroidaria](Boloceroidaria.md) 
+    -  [Thenaria](Thenaria.md) 
 
 -   » Sub-Groups
-    -  [Edwardsiidae](Athenaria/Edwardsiidae.md))
+    -  [Edwardsiidae](Athenaria/Edwardsiidae.md) 
     -   [Halcampoididae](Halcampoididae)
-    -  [Haloclavidae](Athenaria/Haloclavidae.md))
+    -  [Haloclavidae](Athenaria/Haloclavidae.md) 
     -   [Andresiidae](Andresiidae)
     -   [Halcampidae](Halcampidae)
     -   [Limnactiniidae](Limnactiniidae)
     -   [Haliactiidae](Haliactiidae)
     -   [Octineonidae](Octineonidae)
-    -  [Andwakiidae](Athenaria/Andwakiidae.md))
+    -  [Andwakiidae](Athenaria/Andwakiidae.md) 
 
 # Athenaria 
 
@@ -46,7 +46,7 @@ title: Athenaria
 -   *[Octineonidae](Octineonidae)*
 -   [Andwakiidae](Athenaria/Andwakiidae.md "go to ToL page"))*
 
-Containing group:[Nynantheae](../Nynantheae.md))
+Containing group:[Nynantheae](../Nynantheae.md) 
 
 ### Characteristics
 

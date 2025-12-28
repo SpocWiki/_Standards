@@ -29,9 +29,9 @@ title: Tenrecidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Insectivora](../Insectivora.md))
-    -  [Eutheria](../../Eutheria.md))
-    -  [Mammal](../../../Mammal.md))
+    -  [Insectivora](../Insectivora.md) 
+    -  [Eutheria](../../Eutheria.md) 
+    -  [Mammal](../../../Mammal.md) 
     -   [Therapsida](../../../../Therapsida.md)
     -   [Synapsida](../../../../../Synapsida.md)
     -   [Amniota](../../../../../../Amniota.md)
@@ -42,9 +42,9 @@ title: Tenrecidae
     -   [Craniata](../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Insectivora
@@ -52,14 +52,15 @@ title: Tenrecidae
     -   Tenrecidae
 
 -   » Sub-Groups
-    -  [Micropotamogale](Tenrecidae/Micropotamogale.md))
-    -  [Oryzorictes](Tenrecidae/Oryzorictes.md))
-    -  [Microgale](Tenrecidae/Microgale.md))
-    -  [Geogalinae](Tenrecidae/Geogalinae.md))
+    -  [Micropotamogale](Tenrecidae/Micropotamogale.md) 
+    -  [Oryzorictes](Tenrecidae/Oryzorictes.md) 
+    -  [Microgale](Tenrecidae/Microgale.md) 
+    -  [Geogalinae](Tenrecidae/Geogalinae.md) 
 
 ## Title Illustrations
 
-------------------------------------------------------------------------------![](Tenrecidae/Hemicentetes_semispin.jpg))
+------------------------------------------------------------------------------ 
+![](Tenrecidae/Hemicentetes_semispin.jpg))
 Scientific Name ::     Hemicentetes semispinosus (Tenrecidae)
 Location ::           Perinet Reserve (Madagascar)
 Comments             Lowland streaked tenrec

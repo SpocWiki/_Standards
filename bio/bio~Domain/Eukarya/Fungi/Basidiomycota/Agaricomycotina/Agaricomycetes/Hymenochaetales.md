@@ -7,18 +7,18 @@ title: Hymenochaetoid clade
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Agaricomycetes](../Agaricomycetes.md))
-    -  [Agaricomycotina](../../Agaricomycotina.md))
-    -  [Basidiomycota](../../../Basidiomycota.md))
-    -  [Fungi](../../../../Fungi.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Agaricomycetes](../Agaricomycetes.md) 
+    -  [Agaricomycotina](../../Agaricomycotina.md) 
+    -  [Basidiomycota](../../../Basidiomycota.md) 
+    -  [Fungi](../../../../Fungi.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Agaricomycetes
-    -  [Agaricales](Agaricales.md))
-    -  [Atheliales](Atheliales.md))
-    -  [Russulales](Russulales.md))
-    -  [Polyporales](Polyporales.md))
+    -  [Agaricales](Agaricales.md) 
+    -  [Atheliales](Atheliales.md) 
+    -  [Russulales](Russulales.md) 
+    -  [Polyporales](Polyporales.md) 
     -   [Thelephorales](Thelephorales)
     -   [Corticiales](Corticiales)
     -   Hymenochaetoid clade
@@ -41,7 +41,7 @@ based on some analyses of ribosomal DNA sequences (Wagner and Fischer,
 2001; Hibbett and Binder 2002; Wagner and Fischer, 2002a; Wagner and
 Fischer, 2002b; Wagner and Ryvarden, 2002; Moncalvo et al., 2002 ).
 
-Containing group:[Agaricomycetes](../Agaricomycetes.md))
+Containing group:[Agaricomycetes](../Agaricomycetes.md) 
 
 ### Information on the Internet
 
@@ -385,6 +385,7 @@ Biotechnology Adv. 22(1-2):161-187.
   Identified By        Aristóteles Góes-Neto
   Body Part            basidiomata
   Copyright ::            © [Aristóteles Góes-Neto](http://www.uefs.br/lapem) 
+ 
   -------------------------------------------------------------------------
 
 

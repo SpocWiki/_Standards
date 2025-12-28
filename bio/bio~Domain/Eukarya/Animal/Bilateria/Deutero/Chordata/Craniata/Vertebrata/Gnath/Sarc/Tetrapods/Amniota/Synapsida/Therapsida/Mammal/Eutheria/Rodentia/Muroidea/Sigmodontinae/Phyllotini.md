@@ -189,11 +189,11 @@ the appropriate view below.
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Sigmodontinae](../Sigmodontinae.md))
-    -  [Muroidea](../../Muroidea.md))
-    -  [Rodentia](../../../Rodentia.md))
-    -  [Eutheria](../../../../Eutheria.md))
-    -  [Mammal](../../../../../Mammal.md))
+    -  [Sigmodontinae](../Sigmodontinae.md) 
+    -  [Muroidea](../../Muroidea.md) 
+    -  [Rodentia](../../../Rodentia.md) 
+    -  [Eutheria](../../../../Eutheria.md) 
+    -  [Mammal](../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../Amniota.md)
@@ -204,9 +204,9 @@ the appropriate view below.
     -   [Craniata](../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Sigmodontinae
@@ -225,24 +225,26 @@ the appropriate view below.
 
 -   » Sub-Groups
     -   [Reithrodon group sensu         stricto](Reithrodon_group_sensu_stricto)
-    -  [Calomys](Phyllotini/Calomys.md))
-    -  [Eligmodontia](Phyllotini/Eligmodontia.md))
-    -  [Graomys](Phyllotini/Graomys.md))
-    -  [Phyllotis](Phyllotini/Phyllotis.md))
-    -  [Auliscomys](Phyllotini/Auliscomys.md))
+    -  [Calomys](Phyllotini/Calomys.md) 
+    -  [Eligmodontia](Phyllotini/Eligmodontia.md) 
+    -  [Graomys](Phyllotini/Graomys.md) 
+    -  [Phyllotis](Phyllotini/Phyllotis.md) 
+    -  [Auliscomys](Phyllotini/Auliscomys.md) 
     -   [Galenomys garleppi](Galenomys_garleppi)
-    -  [Loxodontomys](Phyllotini/Loxodontomys.md))
+    -  [Loxodontomys](Phyllotini/Loxodontomys.md) 
     -   [Chinchillula sahamae](Chinchillula_sahamae)
-    -  [Andalgalomys](Phyllotini/Andalgalomys.md))
+    -  [Andalgalomys](Phyllotini/Andalgalomys.md) 
 
 
 ## Title Illustrations
 
-----------![Phyllotis darwini](Phyllotini/Phyllotis/P.jpg))
+---------- 
+![Phyllotis darwini](Phyllotini/Phyllotis/P.jpg))
 Scientific Name ::  Phyllotis darwini
 Copyright ::         © 1996 P. L. Meserve
 
-----------![Chinchilla mouse](Phyllotini/Chinchillula1.jpg))
+---------- 
+![Chinchilla mouse](Phyllotini/Chinchillula1.jpg))
 Scientific Name ::  Chinchillula sahamae
 Comments          Chinchilla mouse
 Copyright ::         © 1996 J. Anderson

@@ -19,13 +19,13 @@ title: Gesneriaceae
 -   « Ancestral Groups  
     -   [Lamiales](../Lamiales.md)
     -   [Asterids](../../Asterids.md)
-    -  [Core Eudicots](../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Lamiales
@@ -143,7 +143,8 @@ is in its traditional place as a member of the Cyrtandroideae.
 ## Title Illustrations
 
 
----------------------------------------------------------------------------![Neomortonia](Gesneriaceae/neomortonia.jpg))
+--------------------------------------------------------------------------- 
+![Neomortonia](Gesneriaceae/neomortonia.jpg))
 Scientific Name ::     Neomortonia
 Location ::           Peru
 Comments             This plant demonstrates the long, brightly colored corolla common in the neotropical members of the Gesneriaceae.

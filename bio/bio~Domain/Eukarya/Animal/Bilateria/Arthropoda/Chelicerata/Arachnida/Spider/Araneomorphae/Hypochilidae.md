@@ -7,7 +7,7 @@ title: Hypochilidae
 # [[Hypochilidae]]  
 ![ ](Hypochilidae/hypochilus_pococki.jpg))
 
-Containing group:[Araneomorphae](../Araneomorphae.md))
+Containing group:[Araneomorphae](../Araneomorphae.md) 
 
 ## #has_/text_of_/abstract 
 
@@ -20,26 +20,27 @@ Containing group:[Araneomorphae](../Araneomorphae.md))
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Araneomorphae](../Araneomorphae.md))
+    -  [Araneomorphae](../Araneomorphae.md) 
     -   [Spider](../../Spider.md)
-    -  [Arachnida](../../../Arachnida.md))
-    -  [Arthropoda](../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Araneomorphae
-    -  [Haplogynae](Haplogynae.md))
+    -  [Haplogynae](Haplogynae.md) 
     -   Hypochilidae
-    -  [Entelegynae](Entelegynae.md))
+    -  [Entelegynae](Entelegynae.md) 
 
 -   » Sub-Groups 
 
 
 ## Title Illustrations
 
----------------------------------------------------------------------------------![](Hypochilidae/hypochilus_pococki.jpg))
+--------------------------------------------------------------------------------- 
+![](Hypochilidae/hypochilus_pococki.jpg))
 Scientific Name ::     Hypochilus pococki
 Location ::           Great Smoky Mountains, North Carolina
 Specimen Condition   Live Specimen

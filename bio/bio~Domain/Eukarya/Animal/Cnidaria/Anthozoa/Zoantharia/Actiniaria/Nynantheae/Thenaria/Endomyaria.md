@@ -7,20 +7,20 @@ title: Endomyaria
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Thenaria](../Thenaria.md))
-    -  [Nynantheae](../../Nynantheae.md))
-    -  [Actiniaria](../../../Actiniaria.md))
-    -  [Zoantharia](../../../../Zoantharia.md))
-    -  [Anthozoa](../../../../../Anthozoa.md))
-    -  [Cnidaria](../../../../../../Cnidaria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Thenaria](../Thenaria.md) 
+    -  [Nynantheae](../../Nynantheae.md) 
+    -  [Actiniaria](../../../Actiniaria.md) 
+    -  [Zoantharia](../../../../Zoantharia.md) 
+    -  [Anthozoa](../../../../../Anthozoa.md) 
+    -  [Cnidaria](../../../../../../Cnidaria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Thenaria
     -   Endomyaria
-    -  [Mesomyaria](Mesomyaria.md))
-    -  [Acontiaria](Acontiaria.md))
+    -  [Mesomyaria](Mesomyaria.md) 
+    -  [Acontiaria](Acontiaria.md) 
 
 -   » Sub-Groups
     -   [Aliciidae](Aliciidae)
@@ -49,7 +49,7 @@ title: Endomyaria
 -   *[Stoichactiidae](Stoichactiidae)*
 -   *[Phymanthidae](Phymanthidae)*
 
-Containing group:[Thenaria](../Thenaria.md))
+Containing group:[Thenaria](../Thenaria.md) 
 
 ### Characteristics
 

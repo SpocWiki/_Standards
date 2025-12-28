@@ -23,13 +23,13 @@ title: Fagales
 
 -   « Ancestral Groups  
     -   [Rosids](../Rosids.md)
-    -  [Core Eudicots](../../Core_Eudicots.md))
+    -  [Core Eudicots](../../Core_Eudicots.md) 
     -   [Eudicots](../../../Eudicots.md)
     -   [Flowering_Plant](../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Rosids
@@ -54,7 +54,8 @@ title: Fagales
 
 ## Title Illustrations
 
-----------------------------![Red Alder, Alnus rubra](Fagales/Alnus_rubra.jpg))
+---------------------------- 
+![Red Alder, Alnus rubra](Fagales/Alnus_rubra.jpg))
 Scientific Name ::     Alnus rubra (Betulaceae)
 Location ::           Wildcat Canyon Park, East Bay Hills (Contra Costa County, California, USA)
 Comments             Red Alder
@@ -62,7 +63,8 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2002 [Tony Morosco](mailto:tony-morosco@calflora.org)
 
-------------------------------------------------------------------------------![Blue oak, Quercus douglasii](Fagales/Quercus_Douglasii.jpg))
+------------------------------------------------------------------------------ 
+![Blue oak, Quercus douglasii](Fagales/Quercus_Douglasii.jpg))
 Scientific Name ::     Quercus douglasii
 Location ::           Red Bluff (Tehama County, California, USA)
 Comments             Blue oak (Fagaceae)
@@ -71,7 +73,8 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
-------------------------------------------------------------------------![Black walnut, Juglans regia](Fagales/Juglans_regia.jpg))
+------------------------------------------------------------------------ 
+![Black walnut, Juglans regia](Fagales/Juglans_regia.jpg))
 Scientific Name ::   Juglans regia
 Location ::         Allschwil, Basel, Switzerland.
 Comments           Black walnut (Juglandaceae), in winter condition.

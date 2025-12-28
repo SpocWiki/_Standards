@@ -42,36 +42,36 @@ title: Brachiopoda
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Bilateria](../Bilateria.md))
-    -  [Animals](../../Animals.md))
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Bilateria](../Bilateria.md) 
+    -  [Animals](../../Animals.md) 
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Bilateria
     -   [Deuterostomia](Deutero.md)
-    -  [Arthropoda](Arthropoda.md))
-    -  [Onychophora](Onychophora.md))
+    -  [Arthropoda](Arthropoda.md) 
+    -  [Onychophora](Onychophora.md) 
     -   [Tardigrade](Tardigrade.md)
-    -  [Nematoda](Nematoda.md))
-    -  [Nematomorpha](Nematomorpha.md))
-    -  [Kinorhyncha](Kinorhyncha.md))
-    -  [Loricifera](Loricifera.md))
-    -  [Priapulida](Priapulida.md))
+    -  [Nematoda](Nematoda.md) 
+    -  [Nematomorpha](Nematomorpha.md) 
+    -  [Kinorhyncha](Kinorhyncha.md) 
+    -  [Loricifera](Loricifera.md) 
+    -  [Priapulida](Priapulida.md) 
     -   [Arrow_Worm](Arrow_Worm.md)
-    -  [Gastrotricha](Gastrotricha.md))
-    -  [Rotifera](Rotifera.md))
-    -  [Gnathostomulida](Gnathostomulida.md))
+    -  [Gastrotricha](Gastrotricha.md) 
+    -  [Rotifera](Rotifera.md) 
+    -  [Gnathostomulida](Gnathostomulida.md) 
     -   [Limnognathia maerski](Limnognathia_maerski)
-    -  [Cycliophora](Cycliophora.md))
-    -  [Mesozoa](Mesozoa.md))
-    -  [Platyhelminthes](Platyhelminthes.md))
-    -  [Annelida](Annelida.md))
-    -  [Bryozoa](Bryozoa.md))
-    -  [Sipuncula](Sipuncula.md))
-    -  [Mollusca](Mollusca.md))
-    -  [Nemertea](Nemertea.md))
-    -  [Entoprocta](Entoprocta.md))
-    -  [Phoronida](Phoronida.md))
+    -  [Cycliophora](Cycliophora.md) 
+    -  [Mesozoa](Mesozoa.md) 
+    -  [Platyhelminthes](Platyhelminthes.md) 
+    -  [Annelida](Annelida.md) 
+    -  [Bryozoa](Bryozoa.md) 
+    -  [Sipuncula](Sipuncula.md) 
+    -  [Mollusca](Mollusca.md) 
+    -  [Nemertea](Nemertea.md) 
+    -  [Entoprocta](Entoprocta.md) 
+    -  [Phoronida](Phoronida.md) 
     -   Brachiopoda
 
 -   » Sub-Groups 
@@ -89,7 +89,8 @@ Creator              Photograph by P. Crawford, UPEI
 Specimen Condition   Live Specimen
 Copyright ::            © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
------------------------------------------------------------![Brachiopoda](Brachiopoda/Brachiopoda-Fossil.jpg))
+----------------------------------------------------------- 
+![Brachiopoda](Brachiopoda/Brachiopoda-Fossil.jpg))
 Scientific Name ::     Brachiopoda
 Location ::           Upper Fullers Earth Clays, West Bay, Dorset UK
 Acknowledgements     The copyright owner has released this image under the [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).

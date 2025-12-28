@@ -29,30 +29,30 @@ title: Entelegynae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Araneomorphae](../Araneomorphae.md))
+    -  [Araneomorphae](../Araneomorphae.md) 
     -   [Spider](../../Spider.md)
-    -  [Arachnida](../../../Arachnida.md))
-    -  [Arthropoda](../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md) 
 
 -   ◊ Sibling Groups of  Araneomorphae
-    -  [Haplogynae](Haplogynae.md))
-    -  [Hypochilidae](Hypochilidae.md))
+    -  [Haplogynae](Haplogynae.md) 
+    -  [Hypochilidae](Hypochilidae.md) 
     -   Entelegynae
 
 -   » Sub-Groups
-    -  [Amaurobiidae](Entelegynae/Amaurobiidae.md))
-    -  [Eresoidea](Entelegynae/Eresoidea.md))
+    -  [Amaurobiidae](Entelegynae/Amaurobiidae.md) 
+    -  [Eresoidea](Entelegynae/Eresoidea.md) 
     -   [other entelegynes](other_entelegynes)
-    -  [Palpimanoidea](Entelegynae/Palpimanoidea.md))
-    -  [Dictynoidea](Entelegynae/Dictynoidea.md))
-    -  [Orbiculariae](Entelegynae/Orbiculariae.md))
-    -  [Dionycha](Entelegynae/Dictynoidea/Dionycha.md))
+    -  [Palpimanoidea](Entelegynae/Palpimanoidea.md) 
+    -  [Dictynoidea](Entelegynae/Dictynoidea.md) 
+    -  [Orbiculariae](Entelegynae/Orbiculariae.md) 
+    -  [Dionycha](Entelegynae/Dictynoidea/Dionycha.md) 
     -   [other amaurobioids](other_amaurobioids)
-    -  [Lycosoidea](Entelegynae/Lycosoidea.md))
+    -  [Lycosoidea](Entelegynae/Lycosoidea.md) 
 
 
 ## Title Illustrations
@@ -66,7 +66,8 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2000 [Joseph Dougherty](http://www.ecology.org/) 
 
------------------------------------------------------------------------![](Entelegynae/Dolomedes_tenebrosus.jpg))
+----------------------------------------------------------------------- 
+![](Entelegynae/Dolomedes_tenebrosus.jpg))
 Scientific Name ::     Dolomedes tenebrosus
 Comments             Fishing spider with egg case.
 Specimen Condition   Live Specimen

@@ -59,20 +59,20 @@ Sea anemones, corals, jellyfish, sea pens, hydra
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Animals](../Animals.md))
-    -  [Eukarya](../../Eukarya.md))
+    -  [Animals](../Animals.md) 
+    -  [Eukarya](../../Eukarya.md) 
     -   [Tree of Life](../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Animals
-    -  [Bilateria](Bilateria.md))
-    -  [Myxozoa](Myxozoa.md))
+    -  [Bilateria](Bilateria.md) 
+    -  [Myxozoa](Myxozoa.md) 
     -   Cnidaria
-    -  [Ctenophora](Ctenophora.md))
-    -  [Placozoa](Placozoa.md))
+    -  [Ctenophora](Ctenophora.md) 
+    -  [Placozoa](Placozoa.md) 
     -   [Sponge](Sponge.md)
 
 -   » Sub-Groups
-    -  [Anthozoa](Cnidaria/Anthozoa.md))
+    -  [Anthozoa](Cnidaria/Anthozoa.md) 
 
 ## Introduction
 

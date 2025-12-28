@@ -90,7 +90,7 @@ and relationships of all living organisms on Earth.
 -   » Sub-Groups
 
     -   [Bacteria](Bacteria.md)
-    -  [Eukarya](Eukarya.md))
+    -  [Eukarya](Eukarya.md) 
     -   [Archaea](Archaea.md)
     -   [Virus](Virus.md)
 
@@ -130,12 +130,14 @@ The \"eocyte tree\":
   Comments             Blister beetle (Polyphaga) on a composite flower
   Specimen Condition   Live Specimen
   Copyright ::            © 1995 [David R. Maddison](http://david.bembidion.org/) 
+ 
   ---------------------------------------------------------------------------
 ![Fischerella ](fischerella.gif)
 
   ----------------------------------------------------------------------
   Scientific Name ::  Fischerella (Eubacteria, Cyanobacteria)
   Copyright ::         © 1995 [Sue Barns](mailto:sbarns@lanl.gov) 
+ 
   ----------------------------------------------------------------------
 
 

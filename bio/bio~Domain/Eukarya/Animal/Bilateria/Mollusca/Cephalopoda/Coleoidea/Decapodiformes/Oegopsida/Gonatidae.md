@@ -7,29 +7,29 @@ title: Gonatidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Oegopsida](../Oegopsida.md))
-    -  [Decapodiformes](../../Decapodiformes.md))
-    -  [Coleoidea](../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../Oegopsida.md) 
+    -  [Decapodiformes](../../Decapodiformes.md) 
+    -  [Coleoidea](../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Oegopsida
     -   [Architeuthis](Architeuthis)
-    -  [Brachioteuthidae](Brachioteuthidae.md))
+    -  [Brachioteuthidae](Brachioteuthidae.md) 
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Cranchiidae](Cranchiidae.md))
-    -  [Cycloteuthidae](Cycloteuthidae.md))
+    -  [Cranchiidae](Cranchiidae.md) 
+    -  [Cycloteuthidae](Cycloteuthidae.md) 
     -   [Enoploteuthid families](Enoploteuthid_families)
     -   [Histioteuthid families](Histioteuthid_families)
     -   Gonatidae
     -   [Lepidoteuthid families](Lepidoteuthid_families)
-    -  [Neoteuthidae](Neoteuthidae.md))
-    -  [Ommastrephidae](Ommastrephidae.md))
-    -  [Onychoteuthidae](Onychoteuthidae.md))
+    -  [Neoteuthidae](Neoteuthidae.md) 
+    -  [Ommastrephidae](Ommastrephidae.md) 
+    -  [Onychoteuthidae](Onychoteuthidae.md) 
     -   [Thysanoteuthis rhombus](Thysanoteuthis_rhombus)
 
 -   » Sub-Groups
@@ -46,7 +46,7 @@ title: Gonatidae
 
 This family contains the following four genera with 19 species.
 
-Containing group:[Oegopsida](../Oegopsida.md))
+Containing group:[Oegopsida](../Oegopsida.md) 
 
 ## Introduction
 
@@ -283,6 +283,7 @@ Zool., 97: 1-159.
   Specimen Condition   Live Specimen
   View                 Side
   Copyright ::            © 2004 [Michael Vecchione](mailto:vecchiom@si.edu) 
+ 
   -------------------------------------------------------------------------
 ![](Gonatidae/Gberryi1.jpg))
 
@@ -293,6 +294,7 @@ Zool., 97: 1-159.
   View              Ventral
   Size              119 mm PL
   Copyright ::         © 1972 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   -------------------------------------------------------------------------------
 
 

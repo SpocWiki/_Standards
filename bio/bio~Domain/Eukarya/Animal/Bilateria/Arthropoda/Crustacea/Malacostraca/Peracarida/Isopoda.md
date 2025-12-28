@@ -7,13 +7,13 @@ title: Isopoda
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Peracarida](../Peracarida.md))
-    -  [Malacostraca](../../Malacostraca.md))
-    -  [Crustacea](../../../Crustacea.md))
-    -  [Arthropoda](../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Peracarida](../Peracarida.md) 
+    -  [Malacostraca](../../Malacostraca.md) 
+    -  [Crustacea](../../../Crustacea.md) 
+    -  [Arthropoda](../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Peracarida

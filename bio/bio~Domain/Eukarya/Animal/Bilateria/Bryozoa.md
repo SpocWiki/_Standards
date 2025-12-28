@@ -34,37 +34,37 @@ Moss Animals, Sea Mats, Ectoprocts
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Bilateria](../Bilateria.md))
-    -  [Animals](../../Animals.md))
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Bilateria](../Bilateria.md) 
+    -  [Animals](../../Animals.md) 
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Bilateria
     -   [Deuterostomia](Deutero.md)
-    -  [Arthropoda](Arthropoda.md))
-    -  [Onychophora](Onychophora.md))
+    -  [Arthropoda](Arthropoda.md) 
+    -  [Onychophora](Onychophora.md) 
     -   [Tardigrade](Tardigrade.md)
-    -  [Nematoda](Nematoda.md))
-    -  [Nematomorpha](Nematomorpha.md))
-    -  [Kinorhyncha](Kinorhyncha.md))
-    -  [Loricifera](Loricifera.md))
-    -  [Priapulida](Priapulida.md))
+    -  [Nematoda](Nematoda.md) 
+    -  [Nematomorpha](Nematomorpha.md) 
+    -  [Kinorhyncha](Kinorhyncha.md) 
+    -  [Loricifera](Loricifera.md) 
+    -  [Priapulida](Priapulida.md) 
     -   [Arrow_Worm](Arrow_Worm.md)
-    -  [Gastrotricha](Gastrotricha.md))
-    -  [Rotifera](Rotifera.md))
-    -  [Gnathostomulida](Gnathostomulida.md))
+    -  [Gastrotricha](Gastrotricha.md) 
+    -  [Rotifera](Rotifera.md) 
+    -  [Gnathostomulida](Gnathostomulida.md) 
     -   [Limnognathia maerski](Limnognathia_maerski)
-    -  [Cycliophora](Cycliophora.md))
-    -  [Mesozoa](Mesozoa.md))
-    -  [Platyhelminthes](Platyhelminthes.md))
-    -  [Annelida](Annelida.md))
+    -  [Cycliophora](Cycliophora.md) 
+    -  [Mesozoa](Mesozoa.md) 
+    -  [Platyhelminthes](Platyhelminthes.md) 
+    -  [Annelida](Annelida.md) 
     -   Bryozoa
-    -  [Sipuncula](Sipuncula.md))
-    -  [Mollusca](Mollusca.md))
-    -  [Nemertea](Nemertea.md))
-    -  [Entoprocta](Entoprocta.md))
-    -  [Phoronida](Phoronida.md))
-    -  [Brachiopoda](Brachiopoda.md))
+    -  [Sipuncula](Sipuncula.md) 
+    -  [Mollusca](Mollusca.md) 
+    -  [Nemertea](Nemertea.md) 
+    -  [Entoprocta](Entoprocta.md) 
+    -  [Phoronida](Phoronida.md) 
+    -  [Brachiopoda](Brachiopoda.md) 
 
 -   » Sub-Groups 
 
@@ -81,19 +81,22 @@ Moss Animals, Sea Mats, Ectoprocts
 
 ## Title Illustrations
 
---------------------------------------------![flustra](Bryozoa/flustra.jpg))
+-------------------------------------------- 
+![flustra](Bryozoa/flustra.jpg))
 Scientific Name ::    Flustra
 Reference           Ernst Haeckel\'\'s Kunstformen der Natur published 1899-1904 by Verlag des Bibliographischen Instituts, Leipzig and Vienna.
 Body Part           Skeleton of a colony
 Source Collection   [BioLib Online Library of Biological Books](http://www.biolib.de/)
 
---------------------------------------------![Lophophus crystallinus](Bryozoa/lophophus.jpg))
+-------------------------------------------- 
+![Lophophus crystallinus](Bryozoa/lophophus.jpg))
 Scientific Name ::    Lophophus crystallinus
 Reference           Ernst Haeckel\'\'s Kunstformen der Natur published 1899-1904 by Verlag des Bibliographischen Instituts, Leipzig and Vienna.
 Body Part           Young colony consisting of five zooids.
 Source Collection   [BioLib Online Library of Biological Books](http://www.biolib.de/)
 
---------------------------------------------![Cristatella mucedo](Bryozoa/cristatella.jpg))
+-------------------------------------------- 
+![Cristatella mucedo](Bryozoa/cristatella.jpg))
 Scientific Name ::    Cristatella mucedo
 Comments            Colonies of this species can creep through the water.
 Reference           Ernst Haeckel\'\'s Kunstformen der Natur published 1899-1904 by Verlag des Bibliographischen Instituts, Leipzig and Vienna.

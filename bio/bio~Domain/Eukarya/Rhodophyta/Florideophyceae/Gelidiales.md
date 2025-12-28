@@ -7,13 +7,13 @@ title: Gelidiales
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Florideophyceae](../Florideophyceae.md))
-    -  [Rhodophyta](../../Rhodophyta.md))
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Florideophyceae](../Florideophyceae.md) 
+    -  [Rhodophyta](../../Rhodophyta.md) 
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Florideophyceae
-    -  [Ceramiales](Ceramiales.md))
+    -  [Ceramiales](Ceramiales.md) 
     -   Gelidiales
 
 -   » Sub-Groups 
@@ -30,7 +30,7 @@ labels refer to the type of morphology and development of the female
 reproductive system and carposporophyte as discussed in Bailey and
 Freshwater (1997).
 
-Containing group:[Florideophyceae](../Florideophyceae.md))
+Containing group:[Florideophyceae](../Florideophyceae.md) 
 
 ## Introduction
 
@@ -171,6 +171,7 @@ press).
   Location ::        collected at Cahuita on the Caribbean coast of Costa Rica
   Comments          5 Colones coin = 2 cm
   Copyright ::         © 2002 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
+ 
   ---------------------------------------------------------------------------
 ![Gelidium arbuscula](Gelidiales/grancanar.jpg))
 
@@ -179,6 +180,7 @@ press).
   Location ::         collected on the north coast of Gran Canaria, Canary Islands
   Acknowledgements   Hand model courtesy of Jose Rico
   Copyright ::          © 2002 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
+ 
   ---------------------------------------------------------------------------
 
 

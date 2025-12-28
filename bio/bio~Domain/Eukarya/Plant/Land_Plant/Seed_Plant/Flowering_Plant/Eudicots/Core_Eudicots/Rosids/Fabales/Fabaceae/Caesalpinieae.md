@@ -34,13 +34,13 @@ title: Caesalpinieae s.l. & s.s., Cassieae sensu stricto, Mimosoideae
     -   [Fabaceae](../Fabaceae.md)
     -   [Fabales](../../Fabales.md)
     -   [Rosids](../../../Rosids.md)
-    -  [Core Eudicots](../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Fabaceae
@@ -118,20 +118,23 @@ still poorly resolved.
 ## Title Illustrations
 
 
----------------------![Senna marilandica](Caesalpinieae/Senna_marilandica.jpg))
+--------------------- 
+![Senna marilandica](Caesalpinieae/Senna_marilandica.jpg))
 Scientific Name ::     Senna marilandica (L.) \[=Cassia marilandica L.\]
 Location ::           Konza Prairie, Riley County, Kansas
 Comments             Commonly called Wild Senna or Maryland Senna.
 Specimen Condition   Live Specimen
 Copyright ::            © [Eva Horne](http://www.lib.ksu.edu/wildflower/)
 
-----------------------![Caesalpinia pulcherrima](Caesalpinieae/Caesalpinia_pulcherrima.jpg))
+---------------------- 
+![Caesalpinia pulcherrima](Caesalpinieae/Caesalpinia_pulcherrima.jpg))
 Scientific Name ::     Caesalpinia pulcherrima Sw.
 Location ::           Arizona
 Specimen Condition   Live Specimen
 Copyright ::            © [Chris Martin](http://www.public.asu.edu/%7Ecamartin/)
 
----------------------------![Ceratonia siliqua](Caesalpinieae/Ceratonia_siliqua.jpg))
+--------------------------- 
+![Ceratonia siliqua](Caesalpinieae/Ceratonia_siliqua.jpg))
 Scientific Name ::     Ceratonia siliqua L.
 Specimen Condition   Live Specimen
 Copyright ::            © [Annette Hoggemeier](http://www.boga.ruhr-uni-bochum.de/index.html)

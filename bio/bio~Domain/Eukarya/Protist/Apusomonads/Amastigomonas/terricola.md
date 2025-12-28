@@ -10,7 +10,7 @@ title: Amastigomonas terricola
     -   [Amastigomonas](../Amastigomonas.md)
     -   [Apusomonads](../../Apusomonads.md)
     -   [The other protists](The_other_protists)
-    -  [Eukarya](../../../../Eukarya.md))
+    -  [Eukarya](../../../../Eukarya.md) 
     -   [Tree of Life](../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Amastigomonas
@@ -73,6 +73,7 @@ cultivated garden soil in Australia. Archiv für Protistenkunde 148:
   --------------------------------------------------------------------------------
   Scientific Name ::  Amastigomonas terricola
   Copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+ 
   --------------------------------------------------------------------------------
 
 

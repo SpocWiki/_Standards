@@ -21,9 +21,9 @@ title: Neotragus
 -   « Ancestral Groups  
     -   [Bovidae](../Bovidae.md)
     -   [Ruminants](../../Ruminants.md)
-    -  [Artiodactyla](../../../Artiodactyla.md))
-    -  [Eutheria](../../../../Eutheria.md))
-    -  [Mammal](../../../../../Mammal.md))
+    -  [Artiodactyla](../../../Artiodactyla.md) 
+    -  [Eutheria](../../../../Eutheria.md) 
+    -  [Mammal](../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../Amniota.md)
@@ -34,9 +34,9 @@ title: Neotragus
     -   [Craniata](../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Bovidae
@@ -47,7 +47,7 @@ title: Neotragus
     -   [Aepyceros melampus](Impala.md)
     -   [Cephalophinae](Cephalophinae.md)
     -   [Reduncinae](Reduncinae.md)
-    -  [Antelope](Antelope.md))
+    -  [Antelope](Antelope.md) 
     -   Neotragus
     -   [Miscellaneous fossil         bovids](Miscellaneous_fossil_bovids)
 
@@ -60,7 +60,8 @@ title: Neotragus
 
 ## Title Illustrations
 
--------------------------------------------------------------------------![Suni (Neotragus moschatus), Kenya](Neotragus/suni.jpg))
+------------------------------------------------------------------------- 
+![Suni (Neotragus moschatus), Kenya](Neotragus/suni.jpg))
 Scientific Name ::     Neotragus moschatus
 Location ::           Mt Kenya Safari Club, Kenya
 Comments             Captive, probably from Mt Kenya population.

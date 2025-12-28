@@ -109,8 +109,8 @@ from Purvis (1995).
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Eutheria](../Eutheria.md))
-    -  [Mammal](../../Mammal.md))
+    -  [Eutheria](../Eutheria.md) 
+    -  [Mammal](../../Mammal.md) 
     -   [Therapsida](../../../Therapsida.md)
     -   [Synapsida](../../../../Synapsida.md)
     -   [Amniota](../../../../../Amniota.md)
@@ -121,15 +121,15 @@ from Purvis (1995).
     -   [Craniata](../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Eutheria
     -   [Edentata](Edentata.md)
     -   [Pholidota](Pholidota.md)
-    -  [Lagomorpha](Glires/Lagomorpha.md))
+    -  [Lagomorpha](Glires/Lagomorpha.md) 
     -   [Rodentia](Rodentia.md)
     -   [Macroscelididae](Macroscelididae.md)
     -   Primates
@@ -147,10 +147,10 @@ from Purvis (1995).
     -   [Proboscidea](Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Terrestrial/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea.md)
 
 -   » Sub-Groups
-    -  [Platyrrhini](Primates/Platyrrhini.md))
-    -  [Catarrhini](Primates/Catarrhini.md))
-    -  [Tarsier](Primates/Tarsier.md))
-    -  [Strepsirrhini](Primates/Strepsirrhini.md))
+    -  [Platyrrhini](Primates/Platyrrhini.md) 
+    -  [Catarrhini](Primates/Catarrhini.md) 
+    -  [Tarsier](Primates/Tarsier.md) 
+    -  [Strepsirrhini](Primates/Strepsirrhini.md) 
 
 
 ## #has_/text_of_/abstract 
@@ -342,6 +342,7 @@ of extant primates. Nature 416:726-729.
   Scientific Name ::  Lemur catta
   Comments          Ring-tailed lemurs (Strepsirrhini)
   Copyright ::         © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+ 
   ------------------------------------------------------------------------------
 ![Squirrel monkey (Platyrrhini)](Primates/saimiri.jpg))
 
@@ -349,6 +350,7 @@ of extant primates. Nature 416:726-729.
   Scientific Name ::  Saimiri oerstedi
   Comments          Squirrel monkey (Platyrrhini)
   Copyright ::         © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+ 
   ------------------------------------------------------------------------------
 ![Vervet monkey (Catarrhini)](Primates/vervet.jpg))
 
@@ -356,6 +358,7 @@ of extant primates. Nature 416:726-729.
   Scientific Name ::  Cercopithecus aethiops
   Comments          Vervet monkey (Catarrhini)
   Copyright ::         © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+ 
   ------------------------------------------------------------------------------
 
 

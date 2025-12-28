@@ -28,8 +28,8 @@ title: Labyrinthulomycetes
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Stramenopiles](../Stramenopiles.md))
-    -  [Eukarya](../../Eukarya.md))
+    -  [Stramenopiles](../Stramenopiles.md) 
+    -  [Eukarya](../../Eukarya.md) 
     -   [Tree of Life](../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Stramenopiles

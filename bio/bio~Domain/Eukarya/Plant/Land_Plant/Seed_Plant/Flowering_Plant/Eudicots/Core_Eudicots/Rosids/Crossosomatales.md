@@ -8,13 +8,13 @@ title: Crossosomatales
 
 -   « Ancestral Groups  
     -   [Rosids](../Rosids.md)
-    -  [Core Eudicots](../../Core_Eudicots.md))
+    -  [Core Eudicots](../../Core_Eudicots.md) 
     -   [Eudicots](../../../Eudicots.md)
     -   [Flowering_Plant](../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Rosids
@@ -51,7 +51,8 @@ title: Crossosomatales
 ## Title Illustrations
 
 
-------------------------------------------------------------------------------![California rockflower, Crossosoma californicum](Crossosomatales/Crossosoma_californicum.jpg))
+------------------------------------------------------------------------------ 
+![California rockflower, Crossosoma californicum](Crossosomatales/Crossosoma_californicum.jpg))
 Scientific Name ::     Crossosoma californicum
 Location ::           Forrestal Quarry, Rancho Palos Verdes, \~560\' elev. (Los Angeles County, California, USA)
 Comments             California rockflower (Crossosomataceae)
@@ -60,12 +61,14 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1990 [California Native Plant Society](mailto:dtibor@CNPS.org) 
 
----------------------------------------------------------------------![Stachyurus chinensis](Crossosomatales/Stachyurus_chinensis.jpg))
+--------------------------------------------------------------------- 
+![Stachyurus chinensis](Crossosomatales/Stachyurus_chinensis.jpg))
 Scientific Name ::  Stachyurus chinensis
 Comments          Stachyuraceae
 Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
----------------------------------------------------------------------------------![Bladdernut, Staphylea bolanderi ](Crossosomatales/Staphylea_bolanderi.jpg))
+--------------------------------------------------------------------------------- 
+![Bladdernut, Staphylea bolanderi ](Crossosomatales/Staphylea_bolanderi.jpg))
 Scientific Name ::     Staphylea bolanderi
 Location ::           California, USA
 Comments             Bladdernut (Staphyleaceae)

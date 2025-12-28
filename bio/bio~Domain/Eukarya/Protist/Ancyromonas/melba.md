@@ -9,7 +9,7 @@ title: Ancyromonas melba
 -   « Ancestral Groups  
     -   [Ancyromonas](../Ancyromonas.md)
     -   [The other protists](The_other_protists)
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Ancyromonas
@@ -83,6 +83,7 @@ European Journal of Protistology 32:423-448.
   --------------------------------------------------------------------------------
   Scientific Name ::  Ancyromonas melba
   Copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+ 
   --------------------------------------------------------------------------------
 ![](melba/pancyrom.jpg))
 

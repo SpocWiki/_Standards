@@ -16,9 +16,9 @@ title: Ariekanerpeton sigalovi
     -   [Craniata](../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Seymouriamorpha
@@ -105,6 +105,7 @@ Vertebrate Paleontology 16 (4): 653-665.
   Comments             Skeleton of a small postmetamorphic specimen
   Specimen Condition   Fossil
   Copyright ::            © 1996 [Michel Laurin](http://tolweb.org/tree/laurin/Laurin_Home_page.html) 
+ 
   ---------------------------------------------------------------------------------
 
 

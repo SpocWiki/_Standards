@@ -24,14 +24,14 @@ and the six eyes, grouped in pairs.\
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Haplogynae](../Haplogynae.md))
-    -  [Araneomorphae](../../Araneomorphae.md))
+    -  [Haplogynae](../Haplogynae.md) 
+    -  [Araneomorphae](../../Araneomorphae.md) 
     -   [Spider](../../../Spider.md)
-    -  [Arachnida](../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Haplogynae
@@ -43,7 +43,8 @@ and the six eyes, grouped in pairs.\
 ## Title Illustrations
 
 
----------------------------------------------------------------------------------![](Sicariidae/loxosceles_laeta_1875.jpg))
+--------------------------------------------------------------------------------- 
+![](Sicariidae/loxosceles_laeta_1875.jpg))
 Scientific Name ::     Loxosceles laeta
 Location ::           ex Instituto Butanan, Sao Paulo, Brazil
 Specimen Condition   Live Specimen
@@ -52,7 +53,8 @@ Sex ::                Female
 Life Cycle Stage ::     adult
 Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
 
----------------------------------------------------------------------------------![](Sicariidae/loxosceles_laeta_1888.jpg))
+--------------------------------------------------------------------------------- 
+![](Sicariidae/loxosceles_laeta_1888.jpg))
 Scientific Name ::     Loxoscleles laeta
 Location ::           ex Instituto Butanan, Sao Paulo, Brazil
 Specimen Condition   Live Specimen
@@ -61,7 +63,8 @@ Sex ::                Female
 Life Cycle Stage ::     adult
 Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
 
----------------------------------------------------------------------------------![](Sicariidae/loxosceles_laetamm_1898.jpg))
+--------------------------------------------------------------------------------- 
+![](Sicariidae/loxosceles_laetamm_1898.jpg))
 Scientific Name ::   Loxosceles laeta
 Location ::         ex Instituto Butanan, Sao Paulo Brazil
 Identified By      Jonathan Coddington

@@ -8,14 +8,14 @@ title: Chtenopteryx sicula
 
 -   « Ancestral Groups  
     -   [Chtenopteryx](Chtenopteryx)
-    -  [Bathyteuthoida](../../Bathyteuthoida.md))
-    -  [Decapodiformes](../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Bathyteuthoida](../../Bathyteuthoida.md) 
+    -  [Decapodiformes](../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Chtenopteryx
@@ -31,7 +31,7 @@ title: Chtenopteryx sicula
 
 ![ ](sicula/ChtenSicula.jpg)
 
-Containing group:[Chtenopterygidae](../Chtenopterygidae.md))
+Containing group:[Chtenopterygidae](../Chtenopterygidae.md) 
 
 ## Introduction
 

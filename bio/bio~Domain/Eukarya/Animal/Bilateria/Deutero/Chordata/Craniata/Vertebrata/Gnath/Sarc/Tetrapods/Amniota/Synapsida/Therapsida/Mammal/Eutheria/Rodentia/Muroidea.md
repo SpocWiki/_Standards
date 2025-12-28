@@ -62,9 +62,9 @@ that situation.
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Rodentia](../Rodentia.md))
-    -  [Eutheria](../../Eutheria.md))
-    -  [Mammal](../../../Mammal.md))
+    -  [Rodentia](../Rodentia.md) 
+    -  [Eutheria](../../Eutheria.md) 
+    -  [Mammal](../../../Mammal.md) 
     -   [Therapsida](../../../../Therapsida.md)
     -   [Synapsida](../../../../../Synapsida.md)
     -   [Amniota](../../../../../../Amniota.md)
@@ -75,9 +75,9 @@ that situation.
     -   [Craniata](../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Rodentia
@@ -85,10 +85,10 @@ that situation.
     -   [Squirrel](Sciuromorpha/Squirrel.md)
 
 -   » Sub-Groups
-    -  [Murinae](Muroidea/Muridae/Murinae.md))
-    -  [Deomyinae](Muroidea/Deomyinae.md))
-    -  [Sigmodontinae](Muroidea/Sigmodontinae.md))
-    -  [Tylomyinae](Muroidea/Tylomyinae.md))
+    -  [Murinae](Muroidea/Muridae/Murinae.md) 
+    -  [Deomyinae](Muroidea/Deomyinae.md) 
+    -  [Sigmodontinae](Muroidea/Sigmodontinae.md) 
+    -  [Tylomyinae](Muroidea/Tylomyinae.md) 
 
 
 ## Title Illustrations

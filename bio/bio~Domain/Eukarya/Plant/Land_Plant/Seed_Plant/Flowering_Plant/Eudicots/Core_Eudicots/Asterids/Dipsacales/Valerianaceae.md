@@ -54,13 +54,13 @@ title: Valerianaceae
 -   « Ancestral Groups  
     -   [Dipsacales](../Dipsacales.md)
     -   [Asterids](../../Asterids.md)
-    -  [Core Eudicots](../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Dipsacales
@@ -184,7 +184,8 @@ Valeriana and Centranthus.
 ## Title Illustrations
 
 
-----------------------------------------------------------------------------![Patrinia triloba](Valerianaceae/Patrinia_triloba.gif))
+---------------------------------------------------------------------------- 
+![Patrinia triloba](Valerianaceae/Patrinia_triloba.gif))
 Scientific Name ::  Patrinia triloba
 Comments          Flowers
 Copyright ::         © 2004 [Charles D. Bell](http://www.phylodiversity.net/cbell/) 

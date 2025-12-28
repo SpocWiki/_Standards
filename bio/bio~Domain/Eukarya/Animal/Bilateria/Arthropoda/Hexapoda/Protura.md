@@ -69,28 +69,29 @@ Other characteristics:
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Hexapoda](../Hexapoda.md))
-    -  [Arthropoda](../../Arthropoda.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Hexapoda](../Hexapoda.md) 
+    -  [Arthropoda](../../Arthropoda.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Hexapoda
     -   [Springtail](Springtail.md)
     -   Protura
-    -  [Diplura](Diplura.md))
-    -  [Insect](Insect.md))
+    -  [Diplura](Diplura.md) 
+    -  [Insect](Insect.md) 
 
 -   » Sub-Groups
-    -  [Sinentomata](Protura/Sinentomata.md))
-    -  [Acerentomata](Protura/Acerentomata.md))
-    -  [Eosentomata](Protura/Eosentomata.md))
+    -  [Sinentomata](Protura/Sinentomata.md) 
+    -  [Acerentomata](Protura/Acerentomata.md) 
+    -  [Eosentomata](Protura/Eosentomata.md) 
 
 
 ## Title Illustrations
 
----------------------------------------------------------------------------![](Protura/DSCN1510.jpg))
+--------------------------------------------------------------------------- 
+![](Protura/DSCN1510.jpg))
 Scientific Name ::     Protura
 Location ::           USA: North Carolina: Durham
 Specimen Condition   Live Specimen

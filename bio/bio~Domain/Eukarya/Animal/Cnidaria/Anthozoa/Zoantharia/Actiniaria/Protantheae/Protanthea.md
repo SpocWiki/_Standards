@@ -7,17 +7,17 @@ title: Protanthea
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Protantheae](../Protantheae.md))
-    -  [Actiniaria](../../Actiniaria.md))
-    -  [Zoantharia](../../../Zoantharia.md))
-    -  [Anthozoa](../../../../Anthozoa.md))
-    -  [Cnidaria](../../../../../Cnidaria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Protantheae](../Protantheae.md) 
+    -  [Actiniaria](../../Actiniaria.md) 
+    -  [Zoantharia](../../../Zoantharia.md) 
+    -  [Anthozoa](../../../../Anthozoa.md) 
+    -  [Cnidaria](../../../../../Cnidaria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Protantheae
-    -  [Gonactinia](Gonactinia.md))
+    -  [Gonactinia](Gonactinia.md) 
     -   Protanthea
 
 -   » Sub-Groups 
@@ -27,7 +27,7 @@ title: Protanthea
 
 -   *Protanthea simplex* [Carlgren 1891]
 
-Containing group:[Protantheae](../Protantheae.md))
+Containing group:[Protantheae](../Protantheae.md) 
 
 ### Characteristics
 

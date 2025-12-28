@@ -9,14 +9,14 @@ title: Promachoteuthis sulcus
 -   « Ancestral Groups  
     -   [Promachoteuthis](Promachoteuthis)
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Promachoteuthis
@@ -34,7 +34,7 @@ title: Promachoteuthis sulcus
 
 ![ ](sulcus/PromachoSpC.jpg)![ ](sulcus/promachSpCVent.jpg))
 
-Containing group:[Promachoteuthidae](../Promachoteuthidae.md))
+Containing group:[Promachoteuthidae](../Promachoteuthidae.md) 
 
 ## Introduction
 
@@ -92,6 +92,7 @@ Ocean. Captured from WALTHER HERWIG at 1750-2000 m depth (open net).
   Collection         NMNH 730702
   Type               Holotype
   Copyright ::          © [Michael Vecchione](mailto:vecchiom@si.edu) 
+ 
   -----------------------------------------------------------------------
 ![](sulcus/promachSpCVent.jpg))
 
@@ -106,6 +107,7 @@ Ocean. Captured from WALTHER HERWIG at 1750-2000 m depth (open net).
   Collection           NMNH 730702
   Type                 Holotype
   Copyright ::            © 2003 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   --------------------------------------------------------------------------------
 
 

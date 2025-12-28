@@ -187,9 +187,9 @@ lineage that has no close phylogenetic relatives among extant organisms.
     -   [Craniata](../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Caudata
@@ -209,7 +209,8 @@ lineage that has no close phylogenetic relatives among extant organisms.
 
 ## Title Illustrations
 
------------------------![](Sirenidae/sirenintermediac.jpg))
+----------------------- 
+![](Sirenidae/sirenintermediac.jpg))
 Scientific Name ::  Siren intermedia
 Location ::        Berkeley Co., South Carolina
 Copyright ::         © 1996 [Greg Sievert](http://academic.emporia.edu/sievertg/)

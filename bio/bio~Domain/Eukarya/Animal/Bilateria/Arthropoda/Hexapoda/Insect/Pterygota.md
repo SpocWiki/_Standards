@@ -161,17 +161,17 @@ in support of monophyly of Odonata + Neoptera:
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Insect](../Insect.md))
-    -  [Hexapoda](../../Hexapoda.md))
-    -  [Arthropoda](../../../Arthropoda.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Insect](../Insect.md) 
+    -  [Hexapoda](../../Hexapoda.md) 
+    -  [Arthropoda](../../../Arthropoda.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Insecta
-    -  [Archaeognatha](Archaeognatha.md))
-    -  [Thysanura](Thysanura.md))
+    -  [Archaeognatha](Archaeognatha.md) 
+    -  [Thysanura](Thysanura.md) 
     -   Pterygota
 
 -   » Sub-Groups

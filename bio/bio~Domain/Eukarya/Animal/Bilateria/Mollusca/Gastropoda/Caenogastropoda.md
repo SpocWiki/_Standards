@@ -24,11 +24,11 @@ title: Caenogastropoda
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Gastropoda](../Gastropoda.md))
-    -  [Mollusca](../../Mollusca.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Gastropoda](../Gastropoda.md) 
+    -  [Mollusca](../../Mollusca.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Gastropoda

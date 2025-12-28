@@ -41,13 +41,13 @@ NBN_System_Key: NHMSYS0000065728
 
 -   « Ancestral Groups  
     -   [Asterids](../Asterids.md)
-    -  [Core Eudicots](../../Core_Eudicots.md))
+    -  [Core Eudicots](../../Core_Eudicots.md) 
     -   [Eudicots](../../../Eudicots.md)
     -   [Flowering_Plant](../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Asterids
@@ -69,7 +69,8 @@ NBN_System_Key: NHMSYS0000065728
 ## Title Illustrations
 
 
--------------------------------------------------------------------------![Castor aralia, Kalopanax septemlobus](Apiales/Kalopanax_septemlobus.jpg))
+------------------------------------------------------------------------- 
+![Castor aralia, Kalopanax septemlobus](Apiales/Kalopanax_septemlobus.jpg))
 Scientific Name ::     Kalopanax septemlobus
 Location ::           Vladivostok suburb, Primorsky Territory (Russian Federation)
 Comments             Castor aralia (Araliaceae)
@@ -77,7 +78,8 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
-------------------------------------------------------------------------------![Stiffleaf cheesewood, Pittosporum crassifolium](Apiales/Pittosporum_crassifolium.jpg))
+------------------------------------------------------------------------------ 
+![Stiffleaf cheesewood, Pittosporum crassifolium](Apiales/Pittosporum_crassifolium.jpg))
 Scientific Name ::     Pittosporum crassifolium
 Location ::           Golden Gate Park (San Francisco County, California, USA)
 Comments             Stiffleaf cheesewood (Pittosporaceae)
@@ -86,7 +88,8 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
-------------------------------------------------------------------------------![Cow parsnip, Heracleum lanatum](Apiales/Heracleum_lanatum.jpg))
+------------------------------------------------------------------------------ 
+![Cow parsnip, Heracleum lanatum](Apiales/Heracleum_lanatum.jpg))
 Scientific Name ::     Heracleum lanatum (Apiaceae)
 Location ::           Point Reyes National Seashore (Marin County, California, USA)
 Creator              Photograph by Jo-Ann Ordano

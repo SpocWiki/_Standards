@@ -22,18 +22,18 @@ title: Antelientomon
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Eosentomata](../Eosentomata.md))
-    -  [Protura](../../Protura.md))
-    -  [Hexapoda](../../../Hexapoda.md))
-    -  [Arthropoda](../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Eosentomata](../Eosentomata.md) 
+    -  [Protura](../../Protura.md) 
+    -  [Hexapoda](../../../Hexapoda.md) 
+    -  [Arthropoda](../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Eosentomata
     -   Antelientomon
-    -  [Eosentomidae](Eosentomidae.md))
+    -  [Eosentomidae](Eosentomidae.md) 
 
 -   » Sub-Groups 
 

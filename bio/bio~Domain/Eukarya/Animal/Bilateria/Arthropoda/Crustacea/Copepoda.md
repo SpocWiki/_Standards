@@ -58,31 +58,31 @@ title: Copepoda
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Crustacea](../Crustacea.md))
-    -  [Arthropoda](../../Arthropoda.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Crustacea](../Crustacea.md) 
+    -  [Arthropoda](../../Arthropoda.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Crustacea
-    -  [Branchiopoda](Branchiopoda.md))
-    -  [Remipedia](Remipedia.md))
-    -  [Cephalocarida](Cephalocarida.md))
+    -  [Branchiopoda](Branchiopoda.md) 
+    -  [Remipedia](Remipedia.md) 
+    -  [Cephalocarida](Cephalocarida.md) 
     -   Copepoda
-    -  [Ostracoda](Ostracoda.md))
-    -  [Branchiura](Branchiura.md))
-    -  [Thecostraca](Thecostraca.md))
-    -  [Malacostraca](Malacostraca.md))
+    -  [Ostracoda](Ostracoda.md) 
+    -  [Branchiura](Branchiura.md) 
+    -  [Thecostraca](Thecostraca.md) 
+    -  [Malacostraca](Malacostraca.md) 
 
 -   » Sub-Groups
-    -  [Platycopioida](Copepoda/Platycopioida.md))
-    -  [Calanoida](Copepoda/Calanoida.md))
-    -  [Misophrioida](Copepoda/Misophrioida.md))
-    -  [Cyclopoida](Copepoda/Cyclopoida.md))
-    -  [Harpacticoida](Copepoda/Harpacticoida.md))
-    -  [Poecilostomatoida](Copepoda/Poecilostomatoida.md))
-    -  [Siphonostomatoida](Copepoda/Siphonostomatoida.md))
+    -  [Platycopioida](Copepoda/Platycopioida.md) 
+    -  [Calanoida](Copepoda/Calanoida.md) 
+    -  [Misophrioida](Copepoda/Misophrioida.md) 
+    -  [Cyclopoida](Copepoda/Cyclopoida.md) 
+    -  [Harpacticoida](Copepoda/Harpacticoida.md) 
+    -  [Poecilostomatoida](Copepoda/Poecilostomatoida.md) 
+    -  [Siphonostomatoida](Copepoda/Siphonostomatoida.md) 
 	-   *Gelyelloida*
 	-   *Mormonilloida*
 	-   *Monstrilloida*

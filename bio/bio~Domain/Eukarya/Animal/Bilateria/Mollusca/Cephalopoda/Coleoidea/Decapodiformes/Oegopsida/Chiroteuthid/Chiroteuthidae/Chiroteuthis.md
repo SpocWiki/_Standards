@@ -7,23 +7,23 @@ title: Chiroteuthis
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Chiroteuthidae](../Chiroteuthidae.md))
+    -  [Chiroteuthidae](../Chiroteuthidae.md) 
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Chiroteuthidae
-    -  [Asperoteuthis](Asperoteuthis.md))
+    -  [Asperoteuthis](Asperoteuthis.md) 
     -   Chiroteuthis
     -   [Grimalditeuthis         bonplandi](Grimalditeuthis_bonplandi)
-    -  [Planctoteuthis](Planctoteuthis.md))
+    -  [Planctoteuthis](Planctoteuthis.md) 
     -   [New Genus B](New_Genus_B)
     -   [New Genus C](New_Genus_C)
 
@@ -45,7 +45,7 @@ title: Chiroteuthis
 This genus has six recognized species and at least one undescribed
 species.
 
-Containing group:[Chiroteuthidae](../Chiroteuthidae.md))
+Containing group:[Chiroteuthidae](../Chiroteuthidae.md) 
 
 ## Introduction
 
@@ -251,6 +251,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
   Location ::        Hawaii
   View              ventral
   Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   -------------------------------------------------------------------------------
 
 

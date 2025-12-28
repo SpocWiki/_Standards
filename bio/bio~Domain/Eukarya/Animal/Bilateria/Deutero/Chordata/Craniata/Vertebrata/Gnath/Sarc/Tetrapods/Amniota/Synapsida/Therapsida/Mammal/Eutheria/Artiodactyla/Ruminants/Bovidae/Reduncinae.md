@@ -14,9 +14,9 @@ title: Reduncinae
 -   « Ancestral Groups  
     -   [Bovidae](../Bovidae.md)
     -   [Ruminants](../../Ruminants.md)
-    -  [Artiodactyla](../../../Artiodactyla.md))
-    -  [Eutheria](../../../../Eutheria.md))
-    -  [Mammal](../../../../../Mammal.md))
+    -  [Artiodactyla](../../../Artiodactyla.md) 
+    -  [Eutheria](../../../../Eutheria.md) 
+    -  [Mammal](../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../Amniota.md)
@@ -27,9 +27,9 @@ title: Reduncinae
     -   [Craniata](../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Bovidae
@@ -40,7 +40,7 @@ title: Reduncinae
     -   [Aepyceros melampus](Impala.md)
     -   [Cephalophinae](Cephalophinae.md)
     -   Reduncinae
-    -  [Antelope](Antelope.md))
+    -  [Antelope](Antelope.md) 
     -   [Neotragus](Neotragus.md)
     -   [Miscellaneous fossil         bovids](Miscellaneous_fossil_bovids)
 
@@ -50,7 +50,8 @@ title: Reduncinae
 
 ## Title Illustrations
 
--------------------------------------------------------------------------![Bohor reedbuck](Reduncinae/reedbuck.jpg))
+------------------------------------------------------------------------- 
+![Bohor reedbuck](Reduncinae/reedbuck.jpg))
 Scientific Name ::     Redunca redunca
 Location ::           Tarangire NP, Tanzania
 Specimen Condition   Live Specimen

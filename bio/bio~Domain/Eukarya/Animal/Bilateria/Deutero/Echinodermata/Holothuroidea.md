@@ -294,9 +294,9 @@ palaeontological information is available from Mike Reich\'s [Fossil Holothuroid
 -   « Ancestral Groups  
     -   [Echinodermata](../Echinodermata.md)
     -   [Deuterostomia](../../Deutero.md)
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Echinodermata
@@ -309,19 +309,22 @@ palaeontological information is available from Mike Reich\'s [Fossil Holothuroid
 
 ## Title Illustrations
 
-----------------------------![Synaptula](Holothuroidea/synaptula.jpg))
+---------------------------- 
+![Synaptula](Holothuroidea/synaptula.jpg))
 Scientific Name ::     Synaptula (Apodida)
 Location ::           coral reef on the Eastern Coast of Thailand
 Specimen Condition   Live Specimen
 Copyright ::            © 2000 [Sumaitt Putchakarn](http://www.nrm.se/ev/dok/thaiechinod.html.en)
 
-----------------------------![Holothuria (Halodeima) atra](Holothuroidea/holatra.jpg))
+---------------------------- 
+![Holothuria (Halodeima) atra](Holothuroidea/holatra.jpg))
 Scientific Name ::     Holothuria (Halodeima) atra (Aspidochirotida)
 Location ::           coral reef on the Eastern Coast of Thailand
 Specimen Condition   Live Specimen
 Copyright ::            © 2000 [Sumaitt Putchakarn](http://www.nrm.se/ev/dok/thaiechinod.html.en)
 
-----------------------------![Cucumaria](Holothuroidea/inv076.jpg))
+---------------------------- 
+![Cucumaria](Holothuroidea/inv076.jpg))
 Scientific Name ::     Cucumaria (Dendrochirotida)
 Location ::           Ross Sea, Antarctica
 Specimen Condition   Live Specimen

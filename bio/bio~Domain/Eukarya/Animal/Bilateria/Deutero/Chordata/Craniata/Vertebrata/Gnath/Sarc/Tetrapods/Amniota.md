@@ -111,9 +111,9 @@ others place them among Diapsida (deBraga & Rieppel, 1996, 1997; Rieppel
     -   [Craniata](../../../../../Craniata.md)
     -   [Chordata](../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Terrestrial Vertebrates
@@ -130,7 +130,7 @@ others place them among Diapsida (deBraga & Rieppel, 1996, 1997; Rieppel
 -   » Sub-Groups
     -   [Synapsida](Amniota/Synapsida.md)
     - [Turtle](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle.md)))
-    -  [Diapsida](Amniota/Sauropsida/Reptile/Diapsida.md))
+    -  [Diapsida](Amniota/Sauropsida/Reptile/Diapsida.md) 
 
 
 [Michel Laurin and Jacques A. Gauthier]()

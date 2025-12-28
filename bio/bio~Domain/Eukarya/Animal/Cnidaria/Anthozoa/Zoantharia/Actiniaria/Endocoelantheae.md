@@ -7,18 +7,18 @@ title: Endocoelantheae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Actiniaria](../Actiniaria.md))
-    -  [Zoantharia](../../Zoantharia.md))
-    -  [Anthozoa](../../../Anthozoa.md))
-    -  [Cnidaria](../../../../Cnidaria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Actiniaria](../Actiniaria.md) 
+    -  [Zoantharia](../../Zoantharia.md) 
+    -  [Anthozoa](../../../Anthozoa.md) 
+    -  [Cnidaria](../../../../Cnidaria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Actiniaria
-    -  [Protantheae](Protantheae.md))
+    -  [Protantheae](Protantheae.md) 
     -   Endocoelantheae
-    -  [Nynantheae](Nynantheae.md))
+    -  [Nynantheae](Nynantheae.md) 
 
 -   » Sub-Groups
     -   [Halcuriidae](Halcuriidae)
@@ -29,7 +29,7 @@ title: Endocoelantheae
 -   *[Halcuriidae](Halcuriidae)*
 -   *[Actinernidae](Actinernidae)*
 
-Containing group:[Actiniaria](../Actiniaria.md))
+Containing group:[Actiniaria](../Actiniaria.md) 
 
 ### Characteristics
 

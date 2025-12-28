@@ -16,9 +16,9 @@ title: Bombinatoridae
     -   [Craniata](../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Salientia
@@ -126,6 +126,7 @@ for general list of references
   -------------------------------------------------------------------------
   Scientific Name ::  Bombina orientalis
   Copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
+ 
   -------------------------------------------------------------------------
 ![](Bombinatoridae/bombina.jpg))
 
@@ -133,6 +134,7 @@ for general list of references
   Scientific Name ::  Bombina orientalis
   View              ventral
   Copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
+ 
   -------------------------------------------------------------------------
 
 

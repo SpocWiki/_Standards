@@ -52,22 +52,22 @@ Scorpions and their extinct relatives
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Arachnida](../Arachnida.md))
-    -  [Arthropoda](../../../Arthropoda.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Arachnida](../Arachnida.md) 
+    -  [Arthropoda](../../../Arthropoda.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Arachnida
-    -  [Solifugae](Solifugae.md))
+    -  [Solifugae](Solifugae.md) 
     -   [Spider](Spider.md)
     -   [Mite](Mite.md)
     -   Scorpionida
 
 -   » Sub-Groups
-    -  [Protoscorpiones](Scorpionida/Protoscorpiones.md))
-    -  [Palaeoscorpiones](Scorpionida/Palaeoscorpiones.md))
+    -  [Protoscorpiones](Scorpionida/Protoscorpiones.md) 
+    -  [Palaeoscorpiones](Scorpionida/Palaeoscorpiones.md) 
     -   [Scorpion](Scorpionida/Scorpion.md)
 
 
@@ -151,7 +151,8 @@ Recent.
 
 ## Title Illustrations
 
-----------------------------------![Cyclophthalmus_senior](Scorpionida/Cyclophthalmus_senior.jpg))
+---------------------------------- 
+![Cyclophthalmus_senior](Scorpionida/Cyclophthalmus_senior.jpg))
 Scientific Name ::     Cyclophthalmus senior
 Location ::           Bohemia
 Reference            Nicholson, H. A. 1897. Ancient Life-History of the Earth. D. Appleton and Company, New York.

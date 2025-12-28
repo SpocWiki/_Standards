@@ -232,13 +232,13 @@ rather than black chromatophores.
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Octopodiformes](../Octopodiformes.md))
-    -  [Coleoidea](../../Coleoidea.md))
-    -  [Cephalopoda](../../../Cephalopoda.md))
-    -  [Mollusca](../../../../Mollusca.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Octopodiformes](../Octopodiformes.md) 
+    -  [Coleoidea](../../Coleoidea.md) 
+    -  [Cephalopoda](../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Octopodiformes
@@ -258,7 +258,8 @@ Comments          Photographed in plankton kreisel aboard the R/V NEW HORIZON. C
 Size              25 cm total length
 Copyright ::         © 1999 Brad Seibel
 
-------------------------------------------------------------------------------![](Vampyromorpha/VampireDraw.jpg))
+------------------------------------------------------------------------------ 
+![](Vampyromorpha/VampireDraw.jpg))
 Scientific Name ::  Vampyroteuthis infernalis
 Reference         from Young, R. E. 1972. The systematics and areal distribution of pelagic cephalopods from the seas off Southern California. Smithson. Contr. Zool., 97: 1-159.
 Copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 

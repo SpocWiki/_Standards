@@ -24,10 +24,10 @@ title: Loxodonta africana
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Elephantidae](../Elephantidae.md))
+    -  [Elephantidae](../Elephantidae.md) 
     -   [proboscidea](../../../../../../../../../../../../../../../bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/proboscidea.md)
-    -  [Eutheria](../../../Eutheria.md))
-    -  [Mammal](../../../../Mammal.md))
+    -  [Eutheria](../../../Eutheria.md) 
+    -  [Mammal](../../../../Mammal.md) 
     -   [Therapsida](../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../Amniota.md)
@@ -38,9 +38,9 @@ title: Loxodonta africana
     -   [Craniata](../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Elephantidae
@@ -53,7 +53,8 @@ title: Loxodonta africana
 
 ## Title Illustrations
 
-------------------------------------------------------------------------------![](Loxodonta_africana/0706elephants.jpg))
+------------------------------------------------------------------------------ 
+![](Loxodonta_africana/0706elephants.jpg))
 Scientific Name ::  Loxodonta africana
 Location ::        Khwai, Okavango Delta, Botswana
 Comments          elephant breeding herd

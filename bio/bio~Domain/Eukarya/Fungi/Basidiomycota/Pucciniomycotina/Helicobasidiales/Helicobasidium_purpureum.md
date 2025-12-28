@@ -8,19 +8,19 @@ title: Helicobasidium purpureum
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Helicobasidiales](../Helicobasidiales.md))
+    -  [Helicobasidiales](../Helicobasidiales.md) 
     -   [Urediniomycotina](Urediniomycotina)
-    -  [Basidiomycota](../../../Basidiomycota.md))
-    -  [Fungi](../../../../Fungi.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Basidiomycota](../../../Basidiomycota.md) 
+    -  [Fungi](../../../../Fungi.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Helicobasidiales
-    -  [Tuberculina sbrozzii](Tuberculina_sbrozzii.md))
+    -  [Tuberculina sbrozzii](Tuberculina_sbrozzii.md) 
     -   Helicobasidium purpureum
-    -  [Tuberculina maxima](Tuberculina_maxima.md))
-    -  [Helicobasidium         longisporum](Helicobasidium_longisporum.md))
-    -  [Helicobasidium mompa](Helicobasidium_mompa.md))
+    -  [Tuberculina maxima](Tuberculina_maxima.md) 
+    -  [Helicobasidium         longisporum](Helicobasidium_longisporum.md) 
+    -  [Helicobasidium mompa](Helicobasidium_mompa.md) 
 
 -   » Sub-Groups 
 
@@ -30,7 +30,7 @@ title: Helicobasidium purpureum
 
 ![ ](Helicobasidium_purpureum/hp.jpg)![ ](Helicobasidium_purpureum/frz.jpg))![ ](Helicobasidium_purpureum/sc.jpg))
 
-Containing group:[Helicobasidiales](../Helicobasidiales.md))
+Containing group:[Helicobasidiales](../Helicobasidiales.md) 
 
 ## Title Illustrations
 
@@ -44,6 +44,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md))
   Life Cycle Stage ::     Fruitbody of the phytoparasitic teleomorph
   Collection           2001
   Copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+ 
   -----------------------------------------------------------------------------
 ![](Helicobasidium_purpureum/frz.jpg))
 
@@ -55,6 +56,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md))
   Life Cycle Stage ::     Mycoparasitic anamorph of Helicobasidium purpureum Pat.
   Collection           2001
   Copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+ 
   -----------------------------------------------------------------------------
 ![](Helicobasidium_purpureum/sc.jpg))
 
@@ -66,6 +68,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md))
   Life Cycle Stage ::     Mycoparasitic anamorph of Helicobasidium purpureum Pat. forming conidia and sclerotia
   Collection           2001
   Copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+ 
   -----------------------------------------------------------------------------
 
 

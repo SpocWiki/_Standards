@@ -90,13 +90,13 @@ speciation.
     -   [Octopodidae](../Octopodidae.md)
     -   [Incirrata](../../Incirrata.md)
     -   [Octopod](../../../Octopod.md)
-    -  [Octopodiformes](../../../../Octopodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Octopodiformes](../../../../Octopodiformes.md) 
+    -  [Coleoidea](../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Octopodidae
@@ -108,17 +108,20 @@ speciation.
 
 ## Title Illustrations
 
-------------------![](Pareledone/PARELED1.JPG))
+------------------ 
+![](Pareledone/PARELED1.JPG))
 Scientific Name ::  Pareledone
 Copyright ::         © 1998 J. Gilbert / British Antarctic Survey
 
---------------------------------------------------------------------------![Pareledone framensis](Pareledone/PARELED3.JPG))
+-------------------------------------------------------------------------- 
+![Pareledone framensis](Pareledone/PARELED3.JPG))
 Scientific Name ::  Pareledone framensis
 Location ::        Eastern Antarctica
 View              dorsal
 Copyright ::         © 1998 [Chung Cheng Lu](mailto:cclu@dragon.nchu.edu.tw) 
 
-------------------------------------------------------------------------![Pareledone turqueti](Pareledone/PARELED2.JPG))
+------------------------------------------------------------------------ 
+![Pareledone turqueti](Pareledone/PARELED2.JPG))
 Scientific Name ::  Pareledone turqueti
 Location ::        Antarctic Peninsula
 Copyright ::         © 1998 [Louise Allcock](mailto:l.allcock@qub.ac.uk) 

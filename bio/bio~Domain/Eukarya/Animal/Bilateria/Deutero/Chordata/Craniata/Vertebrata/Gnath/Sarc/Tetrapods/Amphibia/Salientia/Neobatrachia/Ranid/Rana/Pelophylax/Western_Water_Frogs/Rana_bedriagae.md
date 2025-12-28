@@ -73,9 +73,9 @@ caralitana Arikan 1988, Rana levantina Schneider, Sinsch, and Nevo 1993.
     -   [Craniata](../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Western Palearctic water frogs
@@ -122,6 +122,7 @@ represent a new species. Zoologischer Anzeiger 1/2: 97 \-- 106.
   Scientific Name ::  Rana bedriagae
   Location ::        Center of Anatolia \[locality Beyshehir\]
   Copyright ::         © 1995 [Peter Beerli](http://www.csit.fsu.edu/%7Ebeerli) 
+ 
   --------------------------------------------------------------------------
 
 

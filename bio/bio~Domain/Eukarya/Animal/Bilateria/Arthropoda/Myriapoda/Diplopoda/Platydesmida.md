@@ -17,28 +17,28 @@ title: Platydesmida
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Diplopoda](../Diplopoda.md))
-    -  [Arthropoda](../../../Arthropoda.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Diplopoda](../Diplopoda.md) 
+    -  [Arthropoda](../../../Arthropoda.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Diplopoda
     -   [Polyxenida](Polyxenida)
     -   [Glomeridesmus](Glomeridesmus)
-    -  [Sphaerotheriida](Sphaerotheriida.md))
-    -  [Glomerida](Glomerida.md))
+    -  [Sphaerotheriida](Sphaerotheriida.md) 
+    -  [Glomerida](Glomerida.md) 
     -   [Siphoniulus neotropicus](Siphoniulus_neotropicus)
     -   Platydesmida
-    -  [Siphonophorida](Siphonophorida.md))
-    -  [Polyzoniida](Polyzoniida.md))
-    -  [Stemmiulida](Stemmiulida.md))
-    -  [Callipodida](Callipodida.md))
-    -  [Chordeumatida](Chordeumatida.md))
-    -  [Julida](Julida.md))
-    -  [Spirobolida](Spirobolida.md))
-    -  [Spirostreptida](Spirostreptida.md))
+    -  [Siphonophorida](Siphonophorida.md) 
+    -  [Polyzoniida](Polyzoniida.md) 
+    -  [Stemmiulida](Stemmiulida.md) 
+    -  [Callipodida](Callipodida.md) 
+    -  [Chordeumatida](Chordeumatida.md) 
+    -  [Julida](Julida.md) 
+    -  [Spirobolida](Spirobolida.md) 
+    -  [Spirostreptida](Spirostreptida.md) 
     -   [Polydesmida](Polydesmida)
 
 -   » Sub-Groups 
@@ -46,7 +46,7 @@ title: Platydesmida
 	-   *Andrognathidae*
 	-   *Platydesmidae*
 
-Containing group:[Diplopoda](../Diplopoda.md))
+Containing group:[Diplopoda](../Diplopoda.md) 
 
 
 ## Confidential Links & Embeds: 

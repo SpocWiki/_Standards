@@ -11,13 +11,13 @@ title: Stenandrium Clade
     -   [Acanthaceae](../../Acanthaceae.md)
     -   [Lamiales](../../../Lamiales.md)
     -   [Asterids](../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Acantheae
@@ -78,7 +78,8 @@ pollinators although empirical studies are few.
 ## Title Illustrations
 
 
---------------------------------------------------------------------------![Salpixantha coccinea](Stenandrium/Salpix.jpg))
+-------------------------------------------------------------------------- 
+![Salpixantha coccinea](Stenandrium/Salpix.jpg))
 Scientific Name ::     Salpixantha coccinea Hook.
 Reference            British Museum (BM)
 Specimen Condition   Dead Specimen
@@ -92,7 +93,8 @@ Scientific Name ::     Holographis argyrea (Leonard) T.F. Daniel
 Specimen Condition   Live Specimen
 Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
----------------------------------------------------------------------------![Holographis ehrenbergiana](Stenandrium/holographis.jpg))
+--------------------------------------------------------------------------- 
+![Holographis ehrenbergiana](Stenandrium/holographis.jpg))
 Scientific Name ::     Holographis ehrenbergiana Nees
 Location ::           Mexico
 Reference            Kew Botanical Gardens (KEW)

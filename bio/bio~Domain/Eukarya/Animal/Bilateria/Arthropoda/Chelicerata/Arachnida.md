@@ -124,24 +124,24 @@ Spiders, mites, scorpions, whipscorpions, pseudoscorpions
     -   [Tree of Life](../../../../../Tree_of_Life.md) 
 
 -   ◊ Sibling Groups of  Arthropoda
-    -  [Hexapoda](../Hexapoda.md))
-    -  [Crustacea](../Crustacea.md))
-    -  [Pauropoda](../Myriapoda/Pauropoda.md))
-    -  [Diplopoda](../Myriapoda/Diplopoda.md))
-    -  [Centipede](../Myriapoda/Centipede.md))
-    -  [Symphyla](../Myriapoda/Symphyla.md))
+    -  [Hexapoda](../Hexapoda.md) 
+    -  [Crustacea](../Crustacea.md) 
+    -  [Pauropoda](../Myriapoda/Pauropoda.md) 
+    -  [Diplopoda](../Myriapoda/Diplopoda.md) 
+    -  [Centipede](../Myriapoda/Centipede.md) 
+    -  [Symphyla](../Myriapoda/Symphyla.md) 
     -   Arachnida
     -   [Sea_Scorpion](Sea_Scorpion.md)
     -   [Horseshoe_Crab](Horseshoe_Crab.md)
     -   [Sea_Spider](Sea_Spider.md)
-    -  [Trilobites](../Trilobites.md))
+    -  [Trilobites](../Trilobites.md) 
 
 -   » Sub-Groups
 
-    -  [Solifugae](Arachnida/Solifugae.md))
+    -  [Solifugae](Arachnida/Solifugae.md) 
     -   [Spider](Arachnida/Spider.md)
     -   [Mite](Arachnida/Mite.md)
-    -  [Scorpionida](Arachnida/Scorpionida.md))
+    -  [Scorpionida](Arachnida/Scorpionida.md) 
 
 
 ## Title Illustrations

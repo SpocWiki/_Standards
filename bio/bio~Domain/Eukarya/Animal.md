@@ -221,7 +221,7 @@ of animals and their sibling groups within the broader context of eukaryotic div
     -   Animals
     -   [Fungi](Fungi.md)
     -   [Stramenopiles](Stramenopiles.md)
-    -   [Alveolates](Alveolates.md)
+    -   [Alveolate](Alveolate.md)
     -   [Rhodophyta](Rhodophyta.md)
     -   [Green plants](Plant.md)
     -   [The other protists](The_other_protists)

@@ -39,13 +39,13 @@ taxon_common_name: 龙胆目
 
 -   « Ancestral Groups  
     -   [Asterids](../Asterids.md)
-    -  [Core Eudicots](../../Core_Eudicots.md))
+    -  [Core Eudicots](../../Core_Eudicots.md) 
     -   [Eudicots](../../../Eudicots.md)
     -   [Flowering_Plant](../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Asterids
@@ -73,7 +73,8 @@ Comments           Carrion flower (Apocynaceae). Cultivated at the Botanical Gar
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
 Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
----------------------------------------![Rainier pleated gentian, Gentiana calycosa](Gentianales/Gentiana_calycosa.jpg))
+--------------------------------------- 
+![Rainier pleated gentian, Gentiana calycosa](Gentianales/Gentiana_calycosa.jpg))
 
 Scientific Name ::    Gentiana calycosa (Gentianaceae)
 Location ::          Kidd Basin, near Kidd Creek, north of Black Mountain in the Trinity Alps (Siskiyou County, California, USA).

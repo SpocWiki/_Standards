@@ -7,17 +7,17 @@ title: Asperoteuthis mangoldae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Asperoteuthis](../Asperoteuthis.md))
-    -  [Chiroteuthidae](../../Chiroteuthidae.md))
+    -  [Asperoteuthis](../Asperoteuthis.md) 
+    -  [Chiroteuthidae](../../Chiroteuthidae.md) 
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Asperoteuthis
@@ -185,6 +185,7 @@ pelagic cephalopods from Hawaiian waters. Fish. Bull., 76: 583-615.
   Collection         NMNH 729752
   Type               Holotype
   Copyright ::          © [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
+ 
   --------------------------------------------------------------------------
 
 

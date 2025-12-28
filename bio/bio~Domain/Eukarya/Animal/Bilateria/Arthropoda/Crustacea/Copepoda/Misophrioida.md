@@ -20,22 +20,22 @@ title: Misophrioida
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Copepoda](../Copepoda.md))
-    -  [Crustacea](../../Crustacea.md))
-    -  [Arthropoda](../../../Arthropoda.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Copepoda](../Copepoda.md) 
+    -  [Crustacea](../../Crustacea.md) 
+    -  [Arthropoda](../../../Arthropoda.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Copepoda
-    -  [Platycopioida](Platycopioida.md))
-    -  [Calanoida](Calanoida.md))
+    -  [Platycopioida](Platycopioida.md) 
+    -  [Calanoida](Calanoida.md) 
     -   Misophrioida
-    -  [Cyclopoida](Cyclopoida.md))
-    -  [Harpacticoida](Harpacticoida.md))
-    -  [Poecilostomatoida](Poecilostomatoida.md))
-    -  [Siphonostomatoida](Siphonostomatoida.md))
+    -  [Cyclopoida](Cyclopoida.md) 
+    -  [Harpacticoida](Harpacticoida.md) 
+    -  [Poecilostomatoida](Poecilostomatoida.md) 
+    -  [Siphonostomatoida](Siphonostomatoida.md) 
 
 -   » Sub-Groups 
 

@@ -216,9 +216,9 @@ defined (Gauthier et al., 1989).
     -   [Craniata](../../../../../Craniata.md)
     -   [Chordata](../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Terrestrial Vertebrates
@@ -237,7 +237,8 @@ defined (Gauthier et al., 1989).
 
 ## Title Illustrations
 
-  --------------------------------------------------------------------------------![](Temnospondyli/Eryops.jpg))
+  -------------------------------------------------------------------------------- 
+![](Temnospondyli/Eryops.jpg))
   Scientific Name ::   Eryops, Orthacanthus, Trimerorhachis
   Comments           The temnospondyl Eryops lunges after the shark Orthacanthus. Another, smaller temnospondyl (Trimerorhachis) swims in the foreground.
   Reference          From Czerkas S. J. & S. A. Czerkas. 1990. Dinosaurs, a complete world history. Surrey: Dragon\'\'s World Ltd.

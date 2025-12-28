@@ -8,14 +8,14 @@ title: Aegla obstipa
 
 -   « Ancestral Groups  
     -   [Aegla](Aegla)
-    -  [Anomura](../../Anomura.md))
-    -  [Decapoda](../../../Decapoda.md))
-    -  [Malacostraca](../../../../Malacostraca.md))
-    -  [Crustacea](../../../../../Crustacea.md))
-    -  [Arthropoda](../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Anomura](../../Anomura.md) 
+    -  [Decapoda](../../../Decapoda.md) 
+    -  [Malacostraca](../../../../Malacostraca.md) 
+    -  [Crustacea](../../../../../Crustacea.md) 
+    -  [Arthropoda](../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Aegla
@@ -85,7 +85,7 @@ title: Aegla obstipa
 
 ![ ](obstipa/obstipa1.jpg))
 
-Containing group:[Aeglidae](../Aeglidae.md))
+Containing group:[Aeglidae](../Aeglidae.md) 
 
 ### Types
 
@@ -116,7 +116,8 @@ Decapoda, Anomura). Arquivos de Zoologia 32:159-347.
 
 ## Title Illustrations
 
------------------![](obstipa/obstipa1.jpg))
+----------------- 
+![](obstipa/obstipa1.jpg))
 Scientific Name ::  Aegla obstipa
 Creator           Ana Rossi
 Sex ::             Male

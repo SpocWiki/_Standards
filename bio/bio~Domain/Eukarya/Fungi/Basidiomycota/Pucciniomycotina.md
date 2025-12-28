@@ -7,13 +7,13 @@ title: Urediniomycotina
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Basidiomycota](../Basidiomycota.md))
-    -  [Fungi](../../Fungi.md))
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Basidiomycota](../Basidiomycota.md) 
+    -  [Fungi](../../Fungi.md) 
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Basidiomycota
-    -  [Agaricomycotina](Agaricomycotina.md))
+    -  [Agaricomycotina](Agaricomycotina.md) 
     -   [Ustilaginomycetes](Ustilaginomycetes)
     -   Urediniomycotina
 
@@ -21,7 +21,7 @@ title: Urediniomycotina
     -   [Mixia osmundae](Mixia_osmundae)
     -   [Septobasidiales](Septobasidiales)
     -   [Uredinales](Uredinales)
-    -  [Helicobasidiales](Pucciniomycotina/Helicobasidiales.md))
+    -  [Helicobasidiales](Pucciniomycotina/Helicobasidiales.md) 
 
 ## Pucciniomycotina 
 
@@ -33,7 +33,7 @@ title: Urediniomycotina
 ![ ](Pucciniomycotina/Eo-MIN864444.jpg))
 ![ ](Pucciniomycotina/CoffeeRust21.jpg)![](Pucciniomycotina/HpMLutz.jpg))
 
-Containing group:[Basidiomycota](../Basidiomycota.md))
+Containing group:[Basidiomycota](../Basidiomycota.md) 
 
 ### Information on the Internet
 
@@ -116,6 +116,7 @@ urediniomycetous yeasts.
   Life Cycle Stage ::     uredinial stage
   Collection           MIN862012
   Copyright ::            © 1995 [Elizabeth M. Frieders](http://www.uwplatt.edu/biology/staff/frieders.html) 
+ 
   ------------------------------------------------------------------------------------
 ![](Pucciniomycotina/HpMLutz.jpg))
 
@@ -128,6 +129,7 @@ urediniomycetous yeasts.
   Collection           TUB 012601
   Collector            M. Lutz
   Copyright ::            © 2005 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+ 
   -----------------------------------------------------------------------------
 
 

@@ -7,18 +7,18 @@ title: Haloclavidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Athenaria](../Athenaria.md))
-    -  [Nynantheae](../../Nynantheae.md))
-    -  [Actiniaria](../../../Actiniaria.md))
-    -  [Zoantharia](../../../../Zoantharia.md))
-    -  [Anthozoa](../../../../../Anthozoa.md))
-    -  [Cnidaria](../../../../../../Cnidaria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Athenaria](../Athenaria.md) 
+    -  [Nynantheae](../../Nynantheae.md) 
+    -  [Actiniaria](../../../Actiniaria.md) 
+    -  [Zoantharia](../../../../Zoantharia.md) 
+    -  [Anthozoa](../../../../../Anthozoa.md) 
+    -  [Cnidaria](../../../../../../Cnidaria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Athenaria
-    -  [Edwardsiidae](Edwardsiidae.md))
+    -  [Edwardsiidae](Edwardsiidae.md) 
     -   [Halcampoididae](Halcampoididae)
     -   Haloclavidae
     -   [Andresiidae](Andresiidae)
@@ -26,7 +26,7 @@ title: Haloclavidae
     -   [Limnactiniidae](Limnactiniidae)
     -   [Haliactiidae](Haliactiidae)
     -   [Octineonidae](Octineonidae)
-    -  [Andwakiidae](Andwakiidae.md))
+    -  [Andwakiidae](Andwakiidae.md) 
 
 -   » Sub-Groups
     -   [Haloclava](Haloclava)
@@ -49,7 +49,7 @@ title: Haloclavidae
 -   *[Peachia](Peachia)*
 -   *[Oractis](Oractis)*
 
-Containing group:[Athenaria](../Athenaria.md))
+Containing group:[Athenaria](../Athenaria.md) 
 
 ### Characteristics
 

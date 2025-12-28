@@ -17,8 +17,8 @@ title: subgenus Strobus
     -   [Conifers](../../../Conifers.md)
     -   [Seed_Plant](../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Pinus
@@ -37,6 +37,7 @@ title: subgenus Strobus
   Scientific Name ::  Pinus monticola
   Body Part         ovulate cone
   Copyright ::         © [Aaron Liston](http://www.bcc.orst.edu/bpp/faculty/liston/) 
+ 
   ---------------------------------------------------------------------------
 
 

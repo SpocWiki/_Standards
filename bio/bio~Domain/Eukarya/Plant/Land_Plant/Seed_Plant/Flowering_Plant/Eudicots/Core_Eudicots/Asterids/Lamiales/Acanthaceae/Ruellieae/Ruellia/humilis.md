@@ -70,13 +70,13 @@ noctiflora* (Nees) A. Gray.\
     -   [Acanthaceae](../../../Acanthaceae.md)
     -   [Lamiales](../../../../Lamiales.md)
     -   [Asterids](../../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Ruellia s. l.
@@ -100,14 +100,16 @@ noctiflora* (Nees) A. Gray.\
 
 ## Title Illustrations
 
------------------------------------------------------------------------![Ruellia strepens](humilis/Ruellia_strepens.jpg))
+----------------------------------------------------------------------- 
+![Ruellia strepens](humilis/Ruellia_strepens.jpg))
 Scientific Name ::     Ruellia strepens L.
 Specimen Condition   Live Specimen
 Identified By        Erin A. Tripp
 Collector            Tripp
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
----------------------------![Ruellia humilis](humilis/Ruellia_humilis-Blossom.jpg)) 
+--------------------------- 
+![Ruellia humilis](humilis/Ruellia_humilis-Blossom.jpg)) 
 Scientific Name ::     Ruellia caroliniensis
 Specimen Condition   Live Specimen
 Body Part            flower
@@ -115,7 +117,8 @@ Source               [Ruellia just opening](http://www.flickr.com/photos/pcoin/5
 Source Collection    [Flickr](http://flickr.com/)
 Copyright ::            © 2007 [Patrick Coin](http://flickr.com/people/42264328@N00)
 
------------------------------------------------------------------------![Ruellia humilis](humilis/Ruellia_humilis.jpg)) 
+----------------------------------------------------------------------- 
+![Ruellia humilis](humilis/Ruellia_humilis.jpg)) 
 Scientific Name ::     Ruellia humilis Nutt.
 Location ::           Williamson County, Pennsylvania
 Specimen Condition   Live Specimen

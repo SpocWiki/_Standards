@@ -7,21 +7,21 @@ title: Idiosepiidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Decapodiformes](../Decapodiformes.md))
-    -  [Coleoidea](../../Coleoidea.md))
-    -  [Cephalopoda](../../../Cephalopoda.md))
-    -  [Mollusca](../../../../Mollusca.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Decapodiformes](../Decapodiformes.md) 
+    -  [Coleoidea](../../Coleoidea.md) 
+    -  [Cephalopoda](../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Decapodiformes
-    -  [Bathyteuthoida](Bathyteuthoida.md))
+    -  [Bathyteuthoida](Bathyteuthoida.md) 
     -   Idiosepiidae
-    -  [Myopsida](Myopsida.md))
-    -  [Oegopsida](Oegopsida.md))
-    -  [Sepioidea](Sepioidea.md))
+    -  [Myopsida](Myopsida.md) 
+    -  [Oegopsida](Oegopsida.md) 
+    -  [Sepioidea](Sepioidea.md) 
     -   [Spirula spirula](Spirula_spirula)
 
 -   » Sub-Groups 
@@ -46,7 +46,7 @@ species:
 -   *Idiosepius pygmaeus*
 -   *Idiosepius thailandicus*
 
-Containing group:[Decapodiformes](../Decapodiformes.md))
+Containing group:[Decapodiformes](../Decapodiformes.md) 
 
 ## Introduction
 

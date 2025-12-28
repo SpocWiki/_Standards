@@ -7,17 +7,17 @@ title: Geophilomorpha
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Centipede](../Centipede.md))
-    -  [Arthropoda](../../../Arthropoda.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Centipede](../Centipede.md) 
+    -  [Arthropoda](../../../Arthropoda.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Chilopoda
     -   [Scutigeromorpha](Scutigeromorpha)
     -   Geophilomorpha
-    -  [Scolopendromorpha](Scolopendromorpha.md))
+    -  [Scolopendromorpha](Scolopendromorpha.md) 
 
 -   » Sub-Groups 
 
@@ -25,7 +25,7 @@ title: Geophilomorpha
 
 Relationships after Edgecombe & Giribet 2004
 
-Containing group:[Centipede](../Centipede.md))
+Containing group:[Centipede](../Centipede.md) 
 
 ### References
 

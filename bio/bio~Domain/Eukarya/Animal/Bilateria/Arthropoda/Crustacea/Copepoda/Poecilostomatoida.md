@@ -17,22 +17,22 @@ title: Poecilostomatoida
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Copepoda](../Copepoda.md))
-    -  [Crustacea](../../Crustacea.md))
-    -  [Arthropoda](../../../Arthropoda.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Copepoda](../Copepoda.md) 
+    -  [Crustacea](../../Crustacea.md) 
+    -  [Arthropoda](../../../Arthropoda.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Copepoda
-    -  [Platycopioida](Platycopioida.md))
-    -  [Calanoida](Calanoida.md))
-    -  [Misophrioida](Misophrioida.md))
-    -  [Cyclopoida](Cyclopoida.md))
-    -  [Harpacticoida](Harpacticoida.md))
+    -  [Platycopioida](Platycopioida.md) 
+    -  [Calanoida](Calanoida.md) 
+    -  [Misophrioida](Misophrioida.md) 
+    -  [Cyclopoida](Cyclopoida.md) 
+    -  [Harpacticoida](Harpacticoida.md) 
     -   Poecilostomatoida
-    -  [Siphonostomatoida](Siphonostomatoida.md))
+    -  [Siphonostomatoida](Siphonostomatoida.md) 
 
 -   » Sub-Groups 
 	-   *Anchimolgidae*

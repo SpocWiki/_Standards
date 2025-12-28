@@ -177,7 +177,8 @@ evidence, with additional references, see Kristensen (1991).
 
 ## Title Illustrations
 
-------------------------------------------------------------------------![](Hexapoda/Monobella_grassei.jpg))
+------------------------------------------------------------------------ 
+![](Hexapoda/Monobella_grassei.jpg))
 Scientific Name ::     Monobella grassei
 Specimen Condition   Live Specimen
 Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
@@ -189,7 +190,8 @@ Location ::           San Francisco, California, USA.
 Specimen Condition   Live Specimen
 Copyright ::            © 2002 [David R. Maddison](http://david.bembidion.org/) 
 
-------------------------------------------------------------------------------![Mantis_religiosa](Hexapoda/Mantis_religiosa250.jpg))
+------------------------------------------------------------------------------ 
+![Mantis_religiosa](Hexapoda/Mantis_religiosa250.jpg))
 Scientific Name ::     Mantis religiosa
 Comments             Praying mantis
 Creator              Photograph by Robert Potts
@@ -200,28 +202,28 @@ Copyright ::            © 2002 [California Academy of Sciences](http://www.cala
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Arthropoda](../Arthropoda.md))
-    -  [Bilateria](../../Bilateria.md))
-    -  [Animals](../../../Animals.md))
-    -  [Eukarya](../../../../Eukarya.md))
+    -  [Arthropoda](../Arthropoda.md) 
+    -  [Bilateria](../../Bilateria.md) 
+    -  [Animals](../../../Animals.md) 
+    -  [Eukarya](../../../../Eukarya.md) 
     -   [Tree of Life](../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Arthropoda
     -   Hexapoda
-    -  [Crustacea](Crustacea.md))
-    -  [Pauropoda](Myriapoda/Pauropoda.md))
-    -  [Diplopoda](Myriapoda/Diplopoda.md))
-    -  [Centipede](Myriapoda/Centipede.md))
-    -  [Symphyla](Myriapoda/Symphyla.md))
-    -  [Arachnida](Chelicerata/Arachnida.md))
+    -  [Crustacea](Crustacea.md) 
+    -  [Pauropoda](Myriapoda/Pauropoda.md) 
+    -  [Diplopoda](Myriapoda/Diplopoda.md) 
+    -  [Centipede](Myriapoda/Centipede.md) 
+    -  [Symphyla](Myriapoda/Symphyla.md) 
+    -  [Arachnida](Chelicerata/Arachnida.md) 
     -   [[Sea_Scorpion](Chelicerata/Sea_Scorpion.md)    -   [Horseshoe_Crab](Chelicerata/Horseshoe_Crab.md)
     -   [Sea_Spider](Chelicerata/Sea_Spider.md)
-    -  [Trilobites](Trilobites.md))
+    -  [Trilobites](Trilobites.md) 
 
 -   » Sub-Groups
     -   [Springtail](Hexapoda/Springtail.md)
-    -  [Protura](Hexapoda/Protura.md))
-    -  [Diplura](Hexapoda/Diplura.md))
+    -  [Protura](Hexapoda/Protura.md) 
+    -  [Diplura](Hexapoda/Diplura.md) 
     -   [Insecta](Insecta.md)
 
 

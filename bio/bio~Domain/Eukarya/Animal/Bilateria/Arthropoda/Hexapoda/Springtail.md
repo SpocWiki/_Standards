@@ -70,18 +70,18 @@ vocalized_name: קְפִיץ-זַנְבָאִים
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Hexapoda](../Hexapoda.md))
-    -  [Arthropoda](../../Arthropoda.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Hexapoda](../Hexapoda.md) 
+    -  [Arthropoda](../../Arthropoda.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Hexapoda
     -   Collembola
-    -  [Protura](Protura.md))
-    -  [Diplura](Diplura.md))
-    -  [Insect](Insect.md))
+    -  [Protura](Protura.md) 
+    -  [Diplura](Diplura.md) 
+    -  [Insect](Insect.md) 
 
 -   » Sub-Groups
     -   [Poduromorpha](Springtail/Poduromorpha.md)

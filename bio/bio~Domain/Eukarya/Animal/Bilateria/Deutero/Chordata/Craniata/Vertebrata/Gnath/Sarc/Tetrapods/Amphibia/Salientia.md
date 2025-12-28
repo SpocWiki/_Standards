@@ -395,9 +395,9 @@ we consider †Palaeobatrachidae, †Thoraciliacus, †Cordicephalus,
     -   [Craniata](../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Living Amphibians
@@ -426,7 +426,8 @@ we consider †Palaeobatrachidae, †Thoraciliacus, †Cordicephalus,
 
 ## Title Illustrations
 
---------------------------------------------------------------------------![habitus of the tailed frog](Salientia/ascaphus.jpg))
+-------------------------------------------------------------------------- 
+![habitus of the tailed frog](Salientia/ascaphus.jpg))
 Scientific Name ::     Ascaphus truei
 Location ::           Oregon
 Specimen Condition   Live Specimen

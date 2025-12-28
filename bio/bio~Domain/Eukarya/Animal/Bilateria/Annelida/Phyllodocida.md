@@ -28,17 +28,17 @@ title: Phyllodocida
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Annelida](../Annelida.md))
-    -  [Bilateria](../../Bilateria.md))
-    -  [Animals](../../../Animals.md))
-    -  [Eukarya](../../../../Eukarya.md))
+    -  [Annelida](../Annelida.md) 
+    -  [Bilateria](../../Bilateria.md) 
+    -  [Animals](../../../Animals.md) 
+    -  [Eukarya](../../../../Eukarya.md) 
     -   [Tree of Life](../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Annelida
     -   Phyllodocida
 
 -   » Sub-Groups
-    -  [Hesionidae](Phyllodocida/Hesionidae.md))
+    -  [Hesionidae](Phyllodocida/Hesionidae.md) 
     -   [Minor holopelagic         Phyllodocida](Minor_holopelagic_Phyllodocida)
 
 
@@ -289,18 +289,21 @@ dorsal view, copyright © 2004 Fredrik Pleijel.
 
 ## Title Illustrations
 
-----------------------------------------------------------------------![Nereimyra punctata habitus](Phyllodocida/Nereimyra_punctata.jpg))
+---------------------------------------------------------------------- 
+![Nereimyra punctata habitus](Phyllodocida/Nereimyra_punctata.jpg))
 Scientific Name ::  Nereimyra punctata
 Location ::        south-western Iceland
 Comments          Hesionidae
 Copyright ::         © 2001 [Greg W. Rouse](http://mbrd.ucsd.edu/) 
 
-------------------------------------------------------------------------![Syllidae](Phyllodocida/Syllidae.jpg))
+------------------------------------------------------------------------ 
+![Syllidae](Phyllodocida/Syllidae.jpg))
 Scientific Name ::  Syllidae
 Location ::        Massachusetts, USA
 Copyright ::         © 1997 [Fredrik Pleijel](mailto:pleijel@mnhn.fr) 
 
-------------------------------------------------------------------------![Notophyllum foliosum](Phyllodocida/Notophyllum_foliosum.jpg))
+------------------------------------------------------------------------ 
+![Notophyllum foliosum](Phyllodocida/Notophyllum_foliosum.jpg))
 Scientific Name ::  Notophyllum foliosum
 Location ::        Trondheim, Norway
 Comments          Phyllodocidae

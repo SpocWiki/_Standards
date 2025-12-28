@@ -74,24 +74,24 @@ WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/scorpion
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Scorpionida](../Scorpionida.md))
-    -  [Arachnida](../../Arachnida.md))
-    -  [Arthropoda](../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Scorpionida](../Scorpionida.md) 
+    -  [Arachnida](../../Arachnida.md) 
+    -  [Arthropoda](../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Scorpionida
-    -  [Protoscorpiones](Protoscorpiones.md))
-    -  [Palaeoscorpiones](Palaeoscorpiones.md))
+    -  [Protoscorpiones](Protoscorpiones.md) 
+    -  [Palaeoscorpiones](Palaeoscorpiones.md) 
     -   Scorpiones
 
 -   » Sub-Groups
-    -  [Buthoidea](Scorpion/Buthoidea.md))
-    -  [Chactoidea](Scorpion/Chactoidea.md))
-    -  [Scorpionoidea](Scorpion/Scorpionoidea.md))
-    -  [Vaejovoidea](Scorpion/Vaejovoidea.md))
+    -  [Buthoidea](Scorpion/Buthoidea.md) 
+    -  [Chactoidea](Scorpion/Chactoidea.md) 
+    -  [Scorpionoidea](Scorpion/Scorpionoidea.md) 
+    -  [Vaejovoidea](Scorpion/Vaejovoidea.md) 
 
 
 ## Title Illustrations

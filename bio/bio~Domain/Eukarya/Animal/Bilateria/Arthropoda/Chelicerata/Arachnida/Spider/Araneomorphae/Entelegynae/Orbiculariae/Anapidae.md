@@ -7,31 +7,31 @@ title: Anapidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Orbiculariae](../Orbiculariae.md))
-    -  [Entelegynae](../../Entelegynae.md))
-    -  [Araneomorphae](../../../Araneomorphae.md))
+    -  [Orbiculariae](../Orbiculariae.md) 
+    -  [Entelegynae](../../Entelegynae.md) 
+    -  [Araneomorphae](../../../Araneomorphae.md) 
     -   [Spider](../../../../Spider.md)
-    -  [Arachnida](../../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Orbiculariae
     -   Anapidae
-    -  [Mysmenidae](Mysmenidae.md))
-    -  [Deinopidae](Deinopidae.md))
-    -  [Uloboridae](Uloboridae.md))
-    -  [Araneidae](Araneidae.md))
-    -  [Theridiosomatidae](Theridiosomatidae.md))
-    -  [Symphytognathidae](Symphytognathidae.md))
-    -  [Linyphiidae](Linyphiidae.md))
-    -  [Pimoidae](Pimoidae.md))
-    -  [Synotaxidae](Synotaxidae.md))
-    -  [Cyatholipidae](Cyatholipidae.md))
-    -  [Nesticidae](Nesticidae.md))
-    -  [Theridiidae](Theridiidae.md))
+    -  [Mysmenidae](Mysmenidae.md) 
+    -  [Deinopidae](Deinopidae.md) 
+    -  [Uloboridae](Uloboridae.md) 
+    -  [Araneidae](Araneidae.md) 
+    -  [Theridiosomatidae](Theridiosomatidae.md) 
+    -  [Symphytognathidae](Symphytognathidae.md) 
+    -  [Linyphiidae](Linyphiidae.md) 
+    -  [Pimoidae](Pimoidae.md) 
+    -  [Synotaxidae](Synotaxidae.md) 
+    -  [Cyatholipidae](Cyatholipidae.md) 
+    -  [Nesticidae](Nesticidae.md) 
+    -  [Theridiidae](Theridiidae.md) 
 
 -   » Sub-Groups 
 
@@ -40,7 +40,7 @@ title: Anapidae
 [Jonathan Coddington]()
 ![ ](Anapidae/gertschanapis01.jpg))
 
-Containing group:[Orbiculariae](../Orbiculariae.md))
+Containing group:[Orbiculariae](../Orbiculariae.md) 
 
 ## Title Illustrations
 
@@ -55,6 +55,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md))
   Sex ::                Female
   Life Cycle Stage ::     adult
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+ 
   ---------------------------------------------------------------------------------
 
 

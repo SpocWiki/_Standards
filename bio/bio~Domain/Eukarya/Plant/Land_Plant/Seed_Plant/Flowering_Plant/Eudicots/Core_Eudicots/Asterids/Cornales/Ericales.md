@@ -43,13 +43,13 @@ taxon_common_name: 杜鹃花目
 
 -   « Ancestral Groups  
     -   [Asterids](../../Asterids.md)
-    -  [Core Eudicots](../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Asterids
@@ -72,7 +72,8 @@ taxon_common_name: 杜鹃花目
 ## Title Illustrations
 
 
----------------------------------------------------------------------![Cornish heath, Erica vagans](Ericales/Erica_vagans.jpg))
+--------------------------------------------------------------------- 
+![Cornish heath, Erica vagans](Ericales/Erica_vagans.jpg))
 Scientific Name ::  Erica vagans
 Comments          Cornish heath (Ericaceae)
 Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
@@ -86,7 +87,8 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2000 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
----------------------![Pitcher plant, Sarracenia alabamensis](Ericales/Sarracenia_alabamensis.jpg))
+--------------------- 
+![Pitcher plant, Sarracenia alabamensis](Ericales/Sarracenia_alabamensis.jpg))
 Scientific Name ::     Sarracenia alabamensis
 Location ::           Near Selma (Alabama, USA)
 Comments             Pitcher plant (Sarraceniaceae)

@@ -51,8 +51,8 @@ title: eudicots
     -   [Flowering_Plant](../Flowering_Plant.md)
     -   [Seed_Plant](../../Seed_Plant.md)
     -   [Land_Plant](../../../Land_Plant.md)
-    -  [Green plants](../../../../Plant.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Green plants](../../../../Plant.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Angiosperms
@@ -69,7 +69,7 @@ title: eudicots
     -   [Buxaceae](Eudicots/Buxaceae.md)
     -   [Ranunculales](Eudicots/Ranunculales.md)
     -   [Proteales](Eudicots/Proteales.md)
-    -  [Core Eudicots](Eudicots/Core_Eudicots.md))
+    -  [Core Eudicots](Eudicots/Core_Eudicots.md) 
 
 ## Title Illustrations
 

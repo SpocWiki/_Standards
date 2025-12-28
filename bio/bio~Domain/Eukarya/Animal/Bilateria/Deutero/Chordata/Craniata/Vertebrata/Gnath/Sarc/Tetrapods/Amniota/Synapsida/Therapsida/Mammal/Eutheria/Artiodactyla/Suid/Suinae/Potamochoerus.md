@@ -22,11 +22,11 @@ title: Potamochoerus
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Suinae](../Suinae.md))
-    -  [Suid](../../Suid.md))
-    -  [Artiodactyla](../../../Artiodactyla.md))
-    -  [Eutheria](../../../../Eutheria.md))
-    -  [Mammal](../../../../../Mammal.md))
+    -  [Suinae](../Suinae.md) 
+    -  [Suid](../../Suid.md) 
+    -  [Artiodactyla](../../../Artiodactyla.md) 
+    -  [Eutheria](../../../../Eutheria.md) 
+    -  [Mammal](../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../Amniota.md)
@@ -37,9 +37,9 @@ title: Potamochoerus
     -   [Craniata](../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Suinae
@@ -61,7 +61,8 @@ Survey and Conservation Action Plan.
 ## Title Illustrations
 
 
--------------------------------------------------------------![](Potamochoerus/126136127_3fa04e5125_o.jpg))
+------------------------------------------------------------- 
+![](Potamochoerus/126136127_3fa04e5125_o.jpg))
 Scientific Name ::     Potamochoerus larvatus
 Location ::           captive, Uganda
 Specimen Condition   Live Specimen

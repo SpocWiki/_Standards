@@ -7,20 +7,20 @@ title: Sepiolidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Sepiolida](../Sepiolida.md))
-    -  [Sepioidea](../../Sepioidea.md))
-    -  [Decapodiformes](../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Sepiolida](../Sepiolida.md) 
+    -  [Sepioidea](../../Sepioidea.md) 
+    -  [Decapodiformes](../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Sepiolida
     -   Sepiolidae
-    -  [Sepiadariidae](Sepiadariidae.md))
+    -  [Sepiadariidae](Sepiadariidae.md) 
 
 -   » Sub-Groups
     -   [Choneteuthis tongaensis](Choneteuthis_tongaensis)
@@ -38,7 +38,7 @@ title: Sepiolidae
 This family is divided into three subfamilies and 13 genera and contains
 about 55 species.
 
-Containing group:[Sepiolida](../Sepiolida.md))
+Containing group:[Sepiolida](../Sepiolida.md) 
 
 ## Introduction
 
@@ -176,6 +176,7 @@ Neptune City, NJ, 351pp.
   Location ::           off Hawaii
   Specimen Condition   Live Specimen
   Copyright ::            © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   --------------------------------------------------------------------------------
 
 

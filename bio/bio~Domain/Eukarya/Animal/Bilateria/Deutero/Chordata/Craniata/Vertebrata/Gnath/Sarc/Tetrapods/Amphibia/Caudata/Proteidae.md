@@ -182,9 +182,9 @@ resolution of the phylogenetic relationships among the species of
     -   [Craniata](../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Caudata
@@ -203,7 +203,8 @@ resolution of the phylogenetic relationships among the species of
 
 ## Title Illustrations
 
------------------------![](Proteidae/necturusc.jpg))
+----------------------- 
+![](Proteidae/necturusc.jpg))
 Scientific Name ::  Necturus alabamensis
 Comments          The Alabama waterdog
 Copyright ::         © 1996 [Greg Sievert](http://academic.emporia.edu/sievertg/)

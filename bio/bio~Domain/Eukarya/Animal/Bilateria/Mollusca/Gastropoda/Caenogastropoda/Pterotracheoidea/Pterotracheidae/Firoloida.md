@@ -7,14 +7,14 @@ title: Firoloida desmaresti
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Pterotracheidae](../Pterotracheidae.md))
+    -  [Pterotracheidae](../Pterotracheidae.md) 
     -   [Carinarioidea](Carinarioidea)
-    -  [Caenogastropoda](../../../Caenogastropoda.md))
-    -  [Gastropoda](../../../../Gastropoda.md))
-    -  [Mollusca](../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Caenogastropoda](../../../Caenogastropoda.md) 
+    -  [Gastropoda](../../../../Gastropoda.md) 
+    -  [Mollusca](../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Pterotracheidae
@@ -89,7 +89,8 @@ A pterotracheid with:
 
 ## Title Illustrations
 
---------------![Firoloida desmaresti](Firoloida/Firoloida_desmaresti.jpg))
+-------------- 
+![Firoloida desmaresti](Firoloida/Firoloida_desmaresti.jpg))
 Scientific Name ::     Firoloida desmaresti
 Location ::           off Monterey Bay, California
 Specimen Condition   Live Specimen

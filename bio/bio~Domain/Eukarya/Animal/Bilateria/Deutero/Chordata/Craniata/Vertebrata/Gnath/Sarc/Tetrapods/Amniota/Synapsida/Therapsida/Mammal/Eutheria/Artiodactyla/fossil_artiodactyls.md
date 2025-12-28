@@ -12,9 +12,9 @@ title: Miscellaneous fossil artiodactyls
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Artiodactyla](../Artiodactyla.md))
-    -  [Eutheria](../../Eutheria.md))
-    -  [Mammal](../../../Mammal.md))
+    -  [Artiodactyla](../Artiodactyla.md) 
+    -  [Eutheria](../../Eutheria.md) 
+    -  [Mammal](../../../Mammal.md) 
     -   [Therapsida](../../../../Therapsida.md)
     -   [Synapsida](../../../../../Synapsida.md)
     -   [Amniota](../../../../../../Amniota.md)
@@ -25,9 +25,9 @@ title: Miscellaneous fossil artiodactyls
     -   [Craniata](../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Artiodactyla
@@ -39,10 +39,10 @@ title: Miscellaneous fossil artiodactyls
     -   Miscellaneous fossil artiodactyls
 
 -   » Sub-Groups
-    -  [Agriochoeridae](fossil_artiodactyls/Agriochoeridae.md))
-    -  [Anoplotheriidae](fossil_artiodactyls/Anoplotheriidae.md))
-    -  [Cainotheriidae](fossil_artiodactyls/Cainotheriidae.md))
-    -  [Choeropotamidae](fossil_artiodactyls/Choeropotamidae.md))
+    -  [Agriochoeridae](fossil_artiodactyls/Agriochoeridae.md) 
+    -  [Anoplotheriidae](fossil_artiodactyls/Anoplotheriidae.md) 
+    -  [Cainotheriidae](fossil_artiodactyls/Cainotheriidae.md) 
+    -  [Choeropotamidae](fossil_artiodactyls/Choeropotamidae.md) 
 	-   [Agriochoeridae](fossil_artiodactyls/Agriochoeridae.md "go to ToL page"))*
 	-   *Aksyiria* †
 	-   *Amphimerycidae* †
@@ -57,7 +57,7 @@ title: Miscellaneous fossil artiodactyls
 	-   *Raoellidae* †
 	-   *Sanitheriidae* †
 	
-Containing group:[Artiodactyla](../Artiodactyla.md))
+Containing group:[Artiodactyla](../Artiodactyla.md) 
 
 ## Title Illustrations
 

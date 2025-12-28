@@ -39,13 +39,13 @@ title: Ruellia s. l.
     -   [Acanthaceae](../../Acanthaceae.md)
     -   [Lamiales](../../../Lamiales.md)
     -   [Asterids](../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Ruellieae
@@ -134,14 +134,16 @@ these glands.
 ## Title Illustrations
 
 
-------------------------------------------------------------------------![](Ruellia/Ruellia_affinis23.jpg))
+------------------------------------------------------------------------ 
+![](Ruellia/Ruellia_affinis23.jpg))
 Scientific Name ::     Ruellia affinis Lindau
 Location ::           Duke Greenhouses
 Reference            Duke Greenhouses
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
------------------------------------------------------------------------![](Ruellia/et166b.jpg))
+----------------------------------------------------------------------- 
+![](Ruellia/et166b.jpg))
 Scientific Name ::     Ruellia cf. lactea Cav.
 Location ::           Estado de Mexico
 Specimen Condition   Live Specimen

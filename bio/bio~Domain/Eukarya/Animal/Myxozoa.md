@@ -37,16 +37,16 @@ title: Myxozoa
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Animals](../Animals.md))
-    -  [Eukarya](../../Eukarya.md))
+    -  [Animals](../Animals.md) 
+    -  [Eukarya](../../Eukarya.md) 
     -   [Tree of Life](../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Animals
-    -  [Bilateria](Bilateria.md))
+    -  [Bilateria](Bilateria.md) 
     -   Myxozoa
-    -  [Cnidaria](Cnidaria.md))
-    -  [Ctenophora](Ctenophora.md))
-    -  [Placozoa](Placozoa.md))
+    -  [Cnidaria](Cnidaria.md) 
+    -  [Ctenophora](Ctenophora.md) 
+    -  [Placozoa](Placozoa.md) 
     -   [Sponge](Sponge.md)
 
 -   » Sub-Groups 

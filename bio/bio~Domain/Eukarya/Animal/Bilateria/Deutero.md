@@ -66,37 +66,37 @@ that have shaped the diversity of deuterostome animals.
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Bilateria](../Bilateria.md))
-    -  [Animals](../../Animals.md))
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Bilateria](../Bilateria.md) 
+    -  [Animals](../../Animals.md) 
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Bilateria
     -   Deuterostomia
-    -  [Arthropoda](Arthropoda.md))
-    -  [Onychophora](Onychophora.md))
+    -  [Arthropoda](Arthropoda.md) 
+    -  [Onychophora](Onychophora.md) 
     -   [Tardigrada](Tardigrada)
-    -  [Nematoda](Nematoda.md))
-    -  [Nematomorpha](Nematomorpha.md))
-    -  [Kinorhyncha](Kinorhyncha.md))
-    -  [Loricifera](Loricifera.md))
-    -  [Priapulida](Priapulida.md))
+    -  [Nematoda](Nematoda.md) 
+    -  [Nematomorpha](Nematomorpha.md) 
+    -  [Kinorhyncha](Kinorhyncha.md) 
+    -  [Loricifera](Loricifera.md) 
+    -  [Priapulida](Priapulida.md) 
     -   [Arrow_Worm](Arrow_Worm.md)
-    -  [Gastrotricha](Gastrotricha.md))
-    -  [Rotifera](Rotifera.md))
-    -  [Gnathostomulida](Gnathostomulida.md))
+    -  [Gastrotricha](Gastrotricha.md) 
+    -  [Rotifera](Rotifera.md) 
+    -  [Gnathostomulida](Gnathostomulida.md) 
     -   [Limnognathia maerski](Limnognathia_maerski)
-    -  [Cycliophora](Cycliophora.md))
-    -  [Mesozoa](Mesozoa.md))
-    -  [Platyhelminthes](Platyhelminthes.md))
-    -  [Annelida](Annelida.md))
-    -  [Bryozoa](Bryozoa.md))
-    -  [Sipuncula](Sipuncula.md))
-    -  [Mollusca](Mollusca.md))
-    -  [Nemertea](Nemertea.md))
-    -  [Entoprocta](Entoprocta.md))
-    -  [Phoronida](Phoronida.md))
-    -  [Brachiopoda](Brachiopoda.md))
+    -  [Cycliophora](Cycliophora.md) 
+    -  [Mesozoa](Mesozoa.md) 
+    -  [Platyhelminthes](Platyhelminthes.md) 
+    -  [Annelida](Annelida.md) 
+    -  [Bryozoa](Bryozoa.md) 
+    -  [Sipuncula](Sipuncula.md) 
+    -  [Mollusca](Mollusca.md) 
+    -  [Nemertea](Nemertea.md) 
+    -  [Entoprocta](Entoprocta.md) 
+    -  [Phoronida](Phoronida.md) 
+    -  [Brachiopoda](Brachiopoda.md) 
 
 -   » Sub-Groups
 
@@ -106,7 +106,7 @@ that have shaped the diversity of deuterostome animals.
 
 Relationships after Cameron et al. 2000.
 
-Containing group:[Bilateria](../Bilateria.md))
+Containing group:[Bilateria](../Bilateria.md) 
 
 ### References
 
@@ -185,6 +185,7 @@ Biology and Evolution 19:762-776.
   Scientific Name ::  Smilisca phaeota
   Location ::        Costa Rica, cloud forest on Caribbean slope
   Copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+ 
   ----------------------------------------------------------------------------
 ![Saccoglossus kowalevskii](Deutero/saccoglossus.jpg))
 
@@ -192,6 +193,7 @@ Biology and Evolution 19:762-776.
   Scientific Name ::  Saccoglossus kowalevskii
   Creator           David Remsen
   Copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
+ 
   -------------------------------------------------------------------------------
 ![](Deutero/ophio02p.jpg))
 
@@ -200,6 +202,7 @@ Biology and Evolution 19:762-776.
   Creator              J. Houseman
   Specimen Condition   Dead Specimen
   Copyright ::            © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+ 
   ---------------------------------------------------------------------------
 
 

@@ -8,9 +8,9 @@ title: Helicobasidiales
 
 -   « Ancestral Groups  
     -   [Urediniomycotina](Urediniomycotina)
-    -  [Basidiomycota](../../Basidiomycota.md))
-    -  [Fungi](../../../Fungi.md))
-    -  [Eukarya](../../../../Eukarya.md))
+    -  [Basidiomycota](../../Basidiomycota.md) 
+    -  [Fungi](../../../Fungi.md) 
+    -  [Eukarya](../../../../Eukarya.md) 
     -   [Tree of Life](../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Urediniomycotina
@@ -20,11 +20,11 @@ title: Helicobasidiales
     -   Helicobasidiales
 
 -   » Sub-Groups
-    -  [Tuberculina sbrozzii](Helicobasidiales/Tuberculina_sbrozzii.md))
-    -  [](Helicobasidiales/Helicobasidium_purpureum.md))
-    -  [Tuberculina maxima](Helicobasidiales/Tuberculina_maxima.md))
-    -  [](Helicobasidiales/Helicobasidium_longisporum.md))
-    -  [Helicobasidium mompa](Helicobasidiales/Helicobasidium_mompa.md))
+    -  [Tuberculina sbrozzii](Helicobasidiales/Tuberculina_sbrozzii.md) 
+    -  [](Helicobasidiales/Helicobasidium_purpureum.md) 
+    -  [Tuberculina maxima](Helicobasidiales/Tuberculina_maxima.md) 
+    -  [](Helicobasidiales/Helicobasidium_longisporum.md) 
+    -  [Helicobasidium mompa](Helicobasidiales/Helicobasidium_mompa.md) 
 
 # Helicobasidiales
 
@@ -36,7 +36,7 @@ title: Helicobasidiales
 This tree represents a consensus among several phylogenetic analyses of
 ribosomal DNA sequences (Lutz et al. 2004a, b, Uetake et al. 2002).\
 
-Containing group:[Pucciniomycotina](../Pucciniomycotina.md))
+Containing group:[Pucciniomycotina](../Pucciniomycotina.md) 
 
 ### Information on the Internet
 
@@ -73,6 +73,7 @@ rDNA ITS regions. Mycological Research 106: 156-163.
   Collection           TUB 012601
   Collector            M. Lutz
   Copyright ::            © 2005 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+ 
   -----------------------------------------------------------------------------
 ![](Helicobasidiales/rr.jpg))
 
@@ -85,6 +86,7 @@ rDNA ITS regions. Mycological Research 106: 156-163.
   Life Cycle Stage ::     Sterile stage (Thanatophytum) of the phytoparasitic teleomorph
   Collection           2000
   Copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+ 
   -----------------------------------------------------------------------------
 ![](Helicobasidiales/tpp.jpg))
 
@@ -96,6 +98,7 @@ rDNA ITS regions. Mycological Research 106: 156-163.
   Life Cycle Stage ::     Mycoparasitic anamorph of Helicobasidium purpureum Pat.
   Collection           1999
   Copyright ::            © 1999 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
+ 
   ---------------------------------------------------------------------------------
 
 

@@ -160,18 +160,18 @@ relationship, the *Ankylosauromorpha* consists of *Scelidosaurus* +
     -   [Archosauria](../../../Archosauria.md)
     -   [Archosauromorpha](../../../../Archosauromorpha.md)
     -   [Diapsida](../../../../../Diapsida.md)
-    -  [Amniota](../../../../../../../../Amniota.md))
+    -  [Amniota](../../../../../../../../Amniota.md) 
     -   [Terrestrial Vertebrates](../../../../../../../Terrestrial.md)
-    -  [Sarcopterygii](../../../../../../../../../../Sarc.md))
-    -  [Gnathostomata](../../../../../../../../../../../Gnath.md))
-    -  [Vertebrata](../../../../../../../../../../../../Vertebrata.md))
-    -  [Craniata](../../../../../../../../../../../../../Craniata.md))
-    -  [Chordata](../../../../../../../../../../../../../../Chordata.md))
-    -  [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md))
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
-    -  [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md))
+    -  [Sarcopterygii](../../../../../../../../../../Sarc.md) 
+    -  [Gnathostomata](../../../../../../../../../../../Gnath.md) 
+    -  [Vertebrata](../../../../../../../../../../../../Vertebrata.md) 
+    -  [Craniata](../../../../../../../../../../../../../Craniata.md) 
+    -  [Chordata](../../../../../../../../../../../../../../Chordata.md) 
+    -  [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md) 
+    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md) 
+    -  [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md) 
 
 -   ◊ Sibling Groups of  Ornithischia
     -   Ankylosauromorpha
@@ -183,7 +183,8 @@ relationship, the *Ankylosauromorpha* consists of *Scelidosaurus* +
 
 ## Title Illustrations
 
-------------------------------------------------![Skeletal reconstruction of Scelidosaurus harrisoni](Scelidosaurus_harrisoni.jpg)) 
+------------------------------------------------ 
+![Skeletal reconstruction of Scelidosaurus harrisoni](Scelidosaurus_harrisoni.jpg)) 
   Scientific Name ::     Scelidosaurus harrisoni
   Location ::           England
   Comments             Skeletal reconstruction. The most characteristic feature of all ankylosauromorphs is extensive development of bone armor (tinted grey).

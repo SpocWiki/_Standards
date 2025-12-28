@@ -504,18 +504,18 @@ incorporated into eggshells forming around follicles in the oviducts.
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Amniota](../../../../../Amniota.md))
+    -  [Amniota](../../../../../Amniota.md) 
     -   [Terrestrial Vertebrates](../../Terrestrial.md)
-    -  [Sarcopterygii](../../../../../../../Sarc.md))
-    -  [Gnathostomata](../../../../../../../../Gnath.md))
-    -  [Vertebrata](../../../../../../../../../Vertebrata.md))
-    -  [Craniata](../../../../../../../../../../Craniata.md))
-    -  [Chordata](../../../../../../../../../../../Chordata.md))
-    -  [Deuterostomia](../../../../../../../../../../../../Deutero.md))
+    -  [Sarcopterygii](../../../../../../../Sarc.md) 
+    -  [Gnathostomata](../../../../../../../../Gnath.md) 
+    -  [Vertebrata](../../../../../../../../../Vertebrata.md) 
+    -  [Craniata](../../../../../../../../../../Craniata.md) 
+    -  [Chordata](../../../../../../../../../../../Chordata.md) 
+    -  [Deuterostomia](../../../../../../../../../../../../Deutero.md) 
     -   [Bilateria](../../../../../../../../../../../../../Bilateria.md)
     -   [Animals](../../../../../../../../../../../../../../Animals.md)
     -   [Eukarya](../../../../../../../../../../../../../../../Eukarya.md)
-    -  [Tree of Life](../../../../../../../../../../../../../../../Tree_of_Life.md))
+    -  [Tree of Life](../../../../../../../../../../../../../../../Tree_of_Life.md) 
 
 -   ◊ Sibling Groups of  Amniota
     -   [Synapsida](../../../../Synapsida.md)
@@ -527,7 +527,8 @@ incorporated into eggshells forming around follicles in the oviducts.
 
 ## Title Illustrations
 
-------------------------------------------------------------------------------![Olive ridley turtle](Testudines/01076turtle1.jpg))
+------------------------------------------------------------------------------ 
+![Olive ridley turtle](Testudines/01076turtle1.jpg))
 Scientific Name ::     Lepidochelys olivacea
 Location ::           Nancite Beach, Costa Rica
 Comments             Olive ridley turtle

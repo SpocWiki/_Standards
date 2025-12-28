@@ -7,24 +7,24 @@ title: Thenaria
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Nynantheae](../Nynantheae.md))
-    -  [Actiniaria](../../Actiniaria.md))
-    -  [Zoantharia](../../../Zoantharia.md))
-    -  [Anthozoa](../../../../Anthozoa.md))
-    -  [Cnidaria](../../../../../Cnidaria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Nynantheae](../Nynantheae.md) 
+    -  [Actiniaria](../../Actiniaria.md) 
+    -  [Zoantharia](../../../Zoantharia.md) 
+    -  [Anthozoa](../../../../Anthozoa.md) 
+    -  [Cnidaria](../../../../../Cnidaria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Nynantheae
-    -  [Athenaria](Athenaria.md))
-    -  [Boloceroidaria](Boloceroidaria.md))
+    -  [Athenaria](Athenaria.md) 
+    -  [Boloceroidaria](Boloceroidaria.md) 
     -   Thenaria
 
 -   » Sub-Groups
-    -  [Endomyaria](Thenaria/Endomyaria.md))
-    -  [Mesomyaria](Thenaria/Mesomyaria.md))
-    -  [Acontiaria](Thenaria/Acontiaria.md))
+    -  [Endomyaria](Thenaria/Endomyaria.md) 
+    -  [Mesomyaria](Thenaria/Mesomyaria.md) 
+    -  [Acontiaria](Thenaria/Acontiaria.md) 
 
 # Thenaria 
 
@@ -34,7 +34,7 @@ title: Thenaria
 -   [Mesomyaria](Thenaria/Mesomyaria.md "go to ToL page"))*
 -   [Acontiaria](Thenaria/Acontiaria.md "go to ToL page"))*
 
-Containing group:[Nynantheae](../Nynantheae.md))
+Containing group:[Nynantheae](../Nynantheae.md) 
 
 ## Introduction
 

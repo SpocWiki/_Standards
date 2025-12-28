@@ -7,29 +7,29 @@ title: Ommastrephidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Oegopsida](../Oegopsida.md))
-    -  [Decapodiformes](../../Decapodiformes.md))
-    -  [Coleoidea](../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../Oegopsida.md) 
+    -  [Decapodiformes](../../Decapodiformes.md) 
+    -  [Coleoidea](../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Oegopsida
     -   [Architeuthis](Architeuthis)
-    -  [Brachioteuthidae](Brachioteuthidae.md))
+    -  [Brachioteuthidae](Brachioteuthidae.md) 
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Cranchiidae](Cranchiidae.md))
-    -  [Cycloteuthidae](Cycloteuthidae.md))
+    -  [Cranchiidae](Cranchiidae.md) 
+    -  [Cycloteuthidae](Cycloteuthidae.md) 
     -   [Enoploteuthid families](Enoploteuthid_families)
     -   [Histioteuthid families](Histioteuthid_families)
-    -  [Gonatidae](Gonatidae.md))
+    -  [Gonatidae](Gonatidae.md) 
     -   [Lepidoteuthid families](Lepidoteuthid_families)
-    -  [Neoteuthidae](Neoteuthidae.md))
+    -  [Neoteuthidae](Neoteuthidae.md) 
     -   Ommastrephidae
-    -  [Onychoteuthidae](Onychoteuthidae.md))
+    -  [Onychoteuthidae](Onychoteuthidae.md) 
     -   [Thysanoteuthis rhombus](Thysanoteuthis_rhombus)
 
 -   » Sub-Groups
@@ -45,7 +45,7 @@ title: Ommastrephidae
 This family is generally divided into three subfamilies and eleven
 genera that contain 22 species.
 
-Containing group:[Oegopsida](../Oegopsida.md))
+Containing group:[Oegopsida](../Oegopsida.md) 
 
 ## Introduction
 
@@ -158,6 +158,7 @@ Contr. Zool., No. 586:373-384..
   Scientific Name ::  Nototodarus hawaiiensis
   Location ::        off Hawaii
   Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   -------------------------------------------------------------------------------
 ![](Ommastrephidae/eucleoteuthis.jpg))
 
@@ -165,6 +166,7 @@ Contr. Zool., No. 586:373-384..
   Scientific Name ::  Eucleoteuthis luminosa
   Location ::        off Hawaii
   Copyright ::         © 1996 [Michael Vecchione](mailto:vecchiom@si.edu) 
+ 
   ------------------------------------------------------------------------
 
 

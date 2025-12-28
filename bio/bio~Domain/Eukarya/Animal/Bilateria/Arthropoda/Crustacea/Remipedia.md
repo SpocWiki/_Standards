@@ -21,22 +21,22 @@ title: Remipedia
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Crustacea](../Crustacea.md))
-    -  [Arthropoda](../../Arthropoda.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Crustacea](../Crustacea.md) 
+    -  [Arthropoda](../../Arthropoda.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Crustacea
-    -  [Branchiopoda](Branchiopoda.md))
+    -  [Branchiopoda](Branchiopoda.md) 
     -   Remipedia
-    -  [Cephalocarida](Cephalocarida.md))
-    -  [Copepoda](Copepoda.md))
-    -  [Ostracoda](Ostracoda.md))
-    -  [Branchiura](Branchiura.md))
-    -  [Thecostraca](Thecostraca.md))
-    -  [Malacostraca](Malacostraca.md))
+    -  [Cephalocarida](Cephalocarida.md) 
+    -  [Copepoda](Copepoda.md) 
+    -  [Ostracoda](Ostracoda.md) 
+    -  [Branchiura](Branchiura.md) 
+    -  [Thecostraca](Thecostraca.md) 
+    -  [Malacostraca](Malacostraca.md) 
 
 -   » Sub-Groups 
 

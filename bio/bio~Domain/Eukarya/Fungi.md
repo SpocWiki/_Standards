@@ -121,25 +121,25 @@ Eumycota: mushrooms, sac fungi, yeast, molds, rusts, smuts, etc.
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Eukarya](../Eukarya.md))
+    -  [Eukarya](../Eukarya.md) 
     -   [Tree of Life](../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Eukaryotes
-    -  [Choanoflagellates](Choanoflagellates.md))
-    -  [Animals](Animals.md))
+    -  [Choanoflagellates](Choanoflagellates.md) 
+    -  [Animals](Animals.md) 
     -   Fungi
-    -  [Stramenopiles](Stramenopiles.md))
-    -  [Alveolates](Alveolates.md))
-    -  [Rhodophyta](Rhodophyta.md))
+    -  [Stramenopiles](Stramenopiles.md) 
+    -  [Alveolate](Alveolate.md) 
+    -  [Rhodophyta](Rhodophyta.md) 
     -   [Green plants](Plant.md)
     -   [The other protists](The_other_protists)
 
 -   » Sub-Groups
-    -  [Basidiomycota](Fungi/Basidiomycota.md))
-    -  [Ascomycota](Fungi/Ascomycota.md))
-    -  [Glomeromycota](Fungi/Glomeromycota.md))
+    -  [Basidiomycota](Fungi/Basidiomycota.md) 
+    -  [Ascomycota](Fungi/Ascomycota.md) 
+    -  [Glomeromycota](Fungi/Glomeromycota.md) 
     -   [Chytridiomycota](Chytridiomycota)
-    -  [Zygomycota](Fungi/Zygomycota.md))
+    -  [Zygomycota](Fungi/Zygomycota.md) 
 
 ## Introduction
 [Meredith Blackwell, Rytas Vilgalys, Timothy Y. James, and John W. Taylor](Fungi.md)) 
@@ -473,18 +473,21 @@ Auwera et al., 1995).
 
 ## Title Illustrations
 
---------------------------------------------------![Chytridium growing on a single pine pollen grain. Successive photos show zoospore release from the sporangium, and the arrow points to a flagellum.](Fungi/Chytridium.gif))
+-------------------------------------------------- 
+![Chytridium growing on a single pine pollen grain. Successive photos show zoospore release from the sporangium, and the arrow points to a flagellum.](Fungi/Chytridium.gif))
   Scientific Name ::  Chytridium (Chytridiomycota)
   Comments          Individual growing on a single pine pollen grain. Successive photos show zoospore release from the sporangium, and the arrow points to a flagellum.
   Copyright ::         © 1996 H. Whisler, M. Fuller
 
---------------------------------------------------![Black sporangium atop swollen Pilobolus sporangiophore](Fungi/Pilobolus_crystallinus.gif))
+-------------------------------------------------- 
+![Black sporangium atop swollen Pilobolus sporangiophore](Fungi/Pilobolus_crystallinus.gif))
   Scientific Name ::     Pilobolus crystallinus (Mucoromycotina)
   Comments             Black sporangium atop swollen sporangiophore. Shortly, the swollen subsporangial vesicle will burst to send the sporangium flying. Herbivores eat the sporangium, and the enclosed mitospores germinate in the dung. The bright yellow carotenoid pigment enables the sporangium to orient to light (phototropism). If you look closely, you can see masses of nematodes on the vesicle; probably herbivore pathogens hoping to hitch a ride.
   Specimen Condition   Live Specimen
   Copyright ::            © 1996 [Meredith Blackwell](http://www.biology.lsu.edu/faculty_listings/fac_pages/mblackwell.html) 
   
----------------------------------------------------------------------------------------------------------------------------------------------![Massed fruiting bodies of the chicken-of-the-woods](Fungi/Laetiporus_sulphureus.gif))
+--------------------------------------------------------------------------------------------------------------------------------------------- 
+![Massed fruiting bodies of the chicken-of-the-woods](Fungi/Laetiporus_sulphureus.gif))
   Scientific Name ::     Laetiporus sulphureus (Basidiomycota, Agaricomycetes, Polyporales)
   Comments             Massed fruiting bodies of the chicken-of-the-woods. The tiny tubular filaments (hyphae) that make the body of this fungus (mycelium) are growing in the old, dead wood of a large cherry tree. Laetiporus is not a parasite, but the decay may weaken the tree so much that wind or ice storms can topple it.
   Specimen Condition   Live Specimen

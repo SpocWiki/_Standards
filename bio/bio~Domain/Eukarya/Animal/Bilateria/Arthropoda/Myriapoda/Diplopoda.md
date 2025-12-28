@@ -35,39 +35,39 @@ NBN_System_Key: NBNSYS0000159868
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Arthropoda](../../Arthropoda.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Arthropoda](../../Arthropoda.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Arthropoda
-    -  [Hexapoda](../Hexapoda.md))
-    -  [Crustacea](../Crustacea.md))
-    -  [Pauropoda](Pauropoda.md))
+    -  [Hexapoda](../Hexapoda.md) 
+    -  [Crustacea](../Crustacea.md) 
+    -  [Pauropoda](Pauropoda.md) 
     -   Diplopoda
-    -  [Centipede](Centipede.md))
-    -  [Symphyla](Symphyla.md))
-    -  [Arachnida](../Chelicerata/Arachnida.md))
+    -  [Centipede](Centipede.md) 
+    -  [Symphyla](Symphyla.md) 
+    -  [Arachnida](../Chelicerata/Arachnida.md) 
     -   [[Sea_Scorpion](../Chelicerata/Sea_Scorpion.md)    -   [Horseshoe_Crab](../Chelicerata/Horseshoe_Crab.md)
     -   [Sea_Spider](../Chelicerata/Sea_Spider.md)
-    -  [Trilobites](../Trilobites.md))
+    -  [Trilobites](../Trilobites.md) 
 
 -   » Sub-Groups
     -   [Polyxenida](Polyxenida)
     -   [Glomeridesmus](Glomeridesmus)
-    -  [Sphaerotheriida](Diplopoda/Sphaerotheriida.md))
-    -  [Glomerida](Diplopoda/Glomerida.md))
+    -  [Sphaerotheriida](Diplopoda/Sphaerotheriida.md) 
+    -  [Glomerida](Diplopoda/Glomerida.md) 
     -   [Siphoniulus neotropicus](Siphoniulus_neotropicus)
-    -  [Platydesmida](Diplopoda/Platydesmida.md))
-    -  [Siphonophorida](Diplopoda/Siphonophorida.md))
-    -  [Polyzoniida](Diplopoda/Polyzoniida.md))
-    -  [Stemmiulida](Diplopoda/Stemmiulida.md))
-    -  [Callipodida](Diplopoda/Callipodida.md))
-    -  [Chordeumatida](Diplopoda/Chordeumatida.md))
-    -  [Julida](Diplopoda/Julida.md))
-    -  [Spirobolida](Diplopoda/Spirobolida.md))
-    -  [Spirostreptida](Diplopoda/Spirostreptida.md))
+    -  [Platydesmida](Diplopoda/Platydesmida.md) 
+    -  [Siphonophorida](Diplopoda/Siphonophorida.md) 
+    -  [Polyzoniida](Diplopoda/Polyzoniida.md) 
+    -  [Stemmiulida](Diplopoda/Stemmiulida.md) 
+    -  [Callipodida](Diplopoda/Callipodida.md) 
+    -  [Chordeumatida](Diplopoda/Chordeumatida.md) 
+    -  [Julida](Diplopoda/Julida.md) 
+    -  [Spirobolida](Diplopoda/Spirobolida.md) 
+    -  [Spirostreptida](Diplopoda/Spirostreptida.md) 
     -   [Polydesmida](Polydesmida)
 
 # [[Diplopoda]]
@@ -125,7 +125,8 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2000 [William Leonard](mailto:mollusca1@attbi.com)
 
----------------------![Californiulus euphanus](Diplopoda/Californiulus_euphanus.jpg))
+--------------------- 
+![Californiulus euphanus](Diplopoda/Californiulus_euphanus.jpg))
 Scientific Name ::     Californiulus euphanus
 Location ::           Catherine Creek, Klickitat County (Washington, US)
 Specimen Condition   Live Specimen

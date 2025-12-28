@@ -9,15 +9,15 @@ title: Hyetussa
 -   « Ancestral Groups  
     -   [Hyetussinae](../Hyetussinae.md)
     -   [Jumping_Spider](../../Jumping_Spider.md)
-    -  [Dionycha](../../../Dionycha.md))
-    -  [Entelegynae](../../../../../Entelegynae.md))
-    -  [Araneomorphae](../../../../../../Araneomorphae.md))
+    -  [Dionycha](../../../Dionycha.md) 
+    -  [Entelegynae](../../../../../Entelegynae.md) 
+    -  [Araneomorphae](../../../../../../Araneomorphae.md) 
     -   [Spider](../../../../../../../Spider.md)
-    -  [Arachnida](../../../../../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Hyetussinae
@@ -58,11 +58,13 @@ rainforest of the Cuyabeno Reserve, Ecuador.
 
   ---------------------------------------------------------------------------
   Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
+ 
   ---------------------------------------------------------------------------
 ![](Hyetussa/hyetussa_003.gif)
 
   ---------------------------------------------------------------------------
   Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
+ 
   ---------------------------------------------------------------------------
 
 

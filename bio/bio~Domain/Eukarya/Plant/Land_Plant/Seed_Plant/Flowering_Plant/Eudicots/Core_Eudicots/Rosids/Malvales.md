@@ -99,13 +99,13 @@ have been able to place it with certainty.
 
 -   « Ancestral Groups  
     -   [Rosids](../Rosids.md)
-    -  [Core Eudicots](../../Core_Eudicots.md))
+    -  [Core Eudicots](../../Core_Eudicots.md) 
     -   [Eudicots](../../../Eudicots.md)
     -   [Flowering_Plant](../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Rosids
@@ -126,12 +126,13 @@ have been able to place it with certainty.
     -   [Sapindales](Sapindales.md)
 
 -   » Sub-Groups
-    -  [Core Malvales](Malvales/Core_Malvales.md))
+    -  [Core Malvales](Malvales/Core_Malvales.md) 
 
 
 ## Title Illustrations
 
-------------------------------------------------------------------------------![Rock rose, Cistus](Malvales/Cistus.jpg))
+------------------------------------------------------------------------------ 
+![Rock rose, Cistus](Malvales/Cistus.jpg))
 Scientific Name ::     Cistus
 Location ::           Golden Gate Park, Strybing Arboretum (San Francisco County, California, USA)
 Comments             Rock rose (Cistaceae)
@@ -140,7 +141,8 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
-------------------------------------------------------------------------------![Baobab tree, Adansonia digitata](Malvales/Adansonia_digitata.jpg))
+------------------------------------------------------------------------------ 
+![Baobab tree, Adansonia digitata](Malvales/Adansonia_digitata.jpg))
 Scientific Name ::     Adansonia digitata
 Location ::           East Africa
 Comments             Baobab tree (Core Malvales).
@@ -149,7 +151,8 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
----------------------------------------------------------------------------------![High mallow, Malva sylvestris](Malvales/Malva_sylvestris.jpg))
+--------------------------------------------------------------------------------- 
+![High mallow, Malva sylvestris](Malvales/Malva_sylvestris.jpg))
 Scientific Name ::     Malva sylvestris (Core Malvales)
 Location ::           Bodega Bay (Sonoma County, California, USA)
 Comments             High mallow

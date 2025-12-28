@@ -24,21 +24,21 @@ title: Araneomorphae
 
 -   « Ancestral Groups  
     -   [Spider](../Spider.md)
-    -  [Arachnida](../../Arachnida.md))
-    -  [Arthropoda](../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Arachnida](../../Arachnida.md) 
+    -  [Arthropoda](../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Spider
-    -  [Mygalomorphae](Mygalomorphae.md))
+    -  [Mygalomorphae](Mygalomorphae.md) 
     -   Araneomorphae
 
 -   » Sub-Groups
-    -  [Haplogynae](Araneomorphae/Haplogynae.md))
-    -  [Hypochilidae](Araneomorphae/Hypochilidae.md))
-    -  [Entelegynae](Araneomorphae/Entelegynae.md))
+    -  [Haplogynae](Araneomorphae/Haplogynae.md) 
+    -  [Hypochilidae](Araneomorphae/Hypochilidae.md) 
+    -  [Entelegynae](Araneomorphae/Entelegynae.md) 
 
 
 ## Title Illustrations

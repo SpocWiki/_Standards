@@ -25,20 +25,20 @@ title: Pacifastacus
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Astacidae](../Astacidae.md))
-    -  [Astacidea](../../Astacidea.md))
-    -  [Decapoda](../../../Decapoda.md))
-    -  [Malacostraca](../../../../Malacostraca.md))
-    -  [Crustacea](../../../../../Crustacea.md))
-    -  [Arthropoda](../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Astacidae](../Astacidae.md) 
+    -  [Astacidea](../../Astacidea.md) 
+    -  [Decapoda](../../../Decapoda.md) 
+    -  [Malacostraca](../../../../Malacostraca.md) 
+    -  [Crustacea](../../../../../Crustacea.md) 
+    -  [Arthropoda](../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Astacidae
     -   Pacifastacus
-    -  [Astacus](Astacus.md))
+    -  [Astacus](Astacus.md) 
 
 -   » Sub-Groups
     -   [Pacifastacus         (Hobbsastacus)](Pacifastacus_%28Hobbsastacus%29)

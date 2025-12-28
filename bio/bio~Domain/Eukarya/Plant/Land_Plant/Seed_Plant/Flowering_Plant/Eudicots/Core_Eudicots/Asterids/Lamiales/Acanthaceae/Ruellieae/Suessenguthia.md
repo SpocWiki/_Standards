@@ -26,13 +26,13 @@ title: Suessenguthia
     -   [Acanthaceae](../../Acanthaceae.md)
     -   [Lamiales](../../../Lamiales.md)
     -   [Asterids](../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Ruellieae
@@ -69,13 +69,15 @@ al. 2005). The two genera bear many morphological similarities, but
 ## Title Illustrations
 
 
-----------------------![](Suessenguthia/5592.jpg))
+---------------------- 
+![](Suessenguthia/5592.jpg))
 Scientific Name ::     Suessenguthia multisetosa (Rusby) Wassh. & J.R.I.Wood
 Location ::           Thailand
 Specimen Condition   Live Specimen
 Copyright ::            © 2002-2006 [TopTropicals.com](http://toptropicals.com/)
 
-----------------------![](Suessenguthia/5591.jpg))
+---------------------- 
+![](Suessenguthia/5591.jpg))
 Scientific Name ::     Suessenguthia multisetosa (Rusby) Wassh. & J.R.I.Wood
 Specimen Condition   Live Specimen
 Copyright ::            © 2002-2006 [TopTropicals.com](http://toptropicals.com/)

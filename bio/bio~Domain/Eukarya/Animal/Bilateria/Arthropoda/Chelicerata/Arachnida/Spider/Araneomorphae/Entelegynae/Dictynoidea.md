@@ -22,26 +22,26 @@ title: Dictynoidea
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Entelegynae](../Entelegynae.md))
-    -  [Araneomorphae](../../Araneomorphae.md))
+    -  [Entelegynae](../Entelegynae.md) 
+    -  [Araneomorphae](../../Araneomorphae.md) 
     -   [Spider](../../../Spider.md)
-    -  [Arachnida](../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Entelegynae
-    -  [Amaurobiidae](Amaurobiidae.md))
-    -  [Eresoidea](Eresoidea.md))
+    -  [Amaurobiidae](Amaurobiidae.md) 
+    -  [Eresoidea](Eresoidea.md) 
     -   [other entelegynes](other_entelegynes)
-    -  [Palpimanoidea](Palpimanoidea.md))
+    -  [Palpimanoidea](Palpimanoidea.md) 
     -   Dictynoidea
-    -  [Orbiculariae](Orbiculariae.md))
-    -  [Dionycha](Dictynoidea/Dionycha.md))
+    -  [Orbiculariae](Orbiculariae.md) 
+    -  [Dionycha](Dictynoidea/Dionycha.md) 
     -   [other amaurobioids](other_amaurobioids)
-    -  [Lycosoidea](Lycosoidea.md))
+    -  [Lycosoidea](Lycosoidea.md) 
 
 -   » Sub-Groups 
 

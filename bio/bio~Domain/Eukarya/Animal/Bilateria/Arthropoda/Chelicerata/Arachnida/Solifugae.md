@@ -59,21 +59,21 @@ taxon_common_name:
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Arachnida](../Arachnida.md))
-    -  [Arthropoda](../../../Arthropoda.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Arachnida](../Arachnida.md) 
+    -  [Arthropoda](../../../Arthropoda.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Arachnida
     -   Solifugae
     -   [Spider](Spider.md)
     -   [Mite](Mite.md)
-    -  [Scorpionida](Scorpionida.md))
+    -  [Scorpionida](Scorpionida.md) 
 
 -   » Sub-Groups
-    -  [Ammotrechidae](Solifugae/Ammotrechidae.md))
+    -  [Ammotrechidae](Solifugae/Ammotrechidae.md) 
 
 	-   [Ammotrechidae](Solifugae/Ammotrechidae.md "go to ToL page"))*
 	-   *Ceromidae*
@@ -92,7 +92,8 @@ taxon_common_name:
 ## Title Illustrations
 
 
---------------![](Solifugae/Eremochelisbilobatus2.jpg))
+-------------- 
+![](Solifugae/Eremochelisbilobatus2.jpg))
 Scientific Name ::     Eremochelis bilobatus (Muma)
 Specimen Condition   Live Specimen
 Copyright ::            © 2003 Warren E. Savary

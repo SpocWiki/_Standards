@@ -55,28 +55,28 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Malacostraca,14334371]
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Crustacea](../Crustacea.md))
-    -  [Arthropoda](../../Arthropoda.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Crustacea](../Crustacea.md) 
+    -  [Arthropoda](../../Arthropoda.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Crustacea
-    -  [Branchiopoda](Branchiopoda.md))
-    -  [Remipedia](Remipedia.md))
-    -  [Cephalocarida](Cephalocarida.md))
-    -  [Copepoda](Copepoda.md))
-    -  [Ostracoda](Ostracoda.md))
-    -  [Branchiura](Branchiura.md))
-    -  [Thecostraca](Thecostraca.md))
+    -  [Branchiopoda](Branchiopoda.md) 
+    -  [Remipedia](Remipedia.md) 
+    -  [Cephalocarida](Cephalocarida.md) 
+    -  [Copepoda](Copepoda.md) 
+    -  [Ostracoda](Ostracoda.md) 
+    -  [Branchiura](Branchiura.md) 
+    -  [Thecostraca](Thecostraca.md) 
     -   Malacostraca
 
 -   » Sub-Groups
     -   [Leptostraca](Leptostraca)
-    -  [Stomatopoda](Malacostraca/Stomatopoda.md))
-    -  [Decapoda](Malacostraca/Decapoda.md))
-    -  [Peracarida](Malacostraca/Peracarida.md))
+    -  [Stomatopoda](Malacostraca/Stomatopoda.md) 
+    -  [Decapoda](Malacostraca/Decapoda.md) 
+    -  [Peracarida](Malacostraca/Peracarida.md) 
 
 ## Title Illustrations
 

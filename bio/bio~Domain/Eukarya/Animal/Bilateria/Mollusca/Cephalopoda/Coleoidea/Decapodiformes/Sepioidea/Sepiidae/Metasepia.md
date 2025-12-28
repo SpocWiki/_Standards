@@ -7,21 +7,21 @@ title: Metasepia
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Sepiidae](../Sepiidae.md))
-    -  [Sepioidea](../../Sepioidea.md))
-    -  [Decapodiformes](../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Sepiidae](../Sepiidae.md) 
+    -  [Sepioidea](../../Sepioidea.md) 
+    -  [Decapodiformes](../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Sepiidae
     -   Metasepia
-    -  [Sepia](Sepia.md))
-    -  [Sepiella](Sepiella.md))
+    -  [Sepia](Sepia.md) 
+    -  [Sepiella](Sepiella.md) 
 
 -   » Sub-Groups 
 
@@ -36,7 +36,7 @@ This genus contains the following two species:
 -   *Metasepia pfefferi*
 -   *Metasepia tullbergi*
 
-Containing group:[Sepiidae](../Sepiidae.md))
+Containing group:[Sepiidae](../Sepiidae.md) 
 
 ## Introduction
 

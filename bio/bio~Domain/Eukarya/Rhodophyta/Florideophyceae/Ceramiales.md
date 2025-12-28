@@ -15,17 +15,17 @@ title: Ceramiales
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Florideophyceae](../Florideophyceae.md))
-    -  [Rhodophyta](../../Rhodophyta.md))
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Florideophyceae](../Florideophyceae.md) 
+    -  [Rhodophyta](../../Rhodophyta.md) 
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Florideophyceae
     -   Ceramiales
-    -  [Gelidiales](Gelidiales.md))
+    -  [Gelidiales](Gelidiales.md) 
 
 -   » Sub-Groups
-    -  [Rhodomelaceae](Ceramiales/Rhodomelaceae.md))
+    -  [Rhodomelaceae](Ceramiales/Rhodomelaceae.md) 
 
 
 ## Confidential Links & Embeds: 

@@ -17,10 +17,10 @@ title: Suinae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Suid](../Suid.md))
-    -  [Artiodactyla](../../Artiodactyla.md))
-    -  [Eutheria](../../../Eutheria.md))
-    -  [Mammal](../../../../Mammal.md))
+    -  [Suid](../Suid.md) 
+    -  [Artiodactyla](../../Artiodactyla.md) 
+    -  [Eutheria](../../../Eutheria.md) 
+    -  [Mammal](../../../../Mammal.md) 
     -   [Therapsida](../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../Amniota.md)
@@ -31,9 +31,9 @@ title: Suinae
     -   [Craniata](../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Suidae
@@ -46,9 +46,9 @@ title: Suinae
 
 -   » Sub-Groups
     -   [Pig](Suinae/Pig.md)
-    -  [Babyrousa babyrussa](Suinae/Babyrousa_babyrussa.md))
+    -  [Babyrousa babyrussa](Suinae/Babyrousa_babyrussa.md) 
     -   [Warthog](Suinae/Warthog.md)
-    -  [Potamochoerus](Suinae/Potamochoerus.md))
+    -  [Potamochoerus](Suinae/Potamochoerus.md) 
 
 	-   *Eumaiochoerus* †
 	-   *Hippohyus* †

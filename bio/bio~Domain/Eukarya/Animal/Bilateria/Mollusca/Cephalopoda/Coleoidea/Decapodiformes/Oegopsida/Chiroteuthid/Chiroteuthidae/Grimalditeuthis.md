@@ -7,23 +7,23 @@ title: Grimalditeuthis bonplandi
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Chiroteuthidae](../Chiroteuthidae.md))
+    -  [Chiroteuthidae](../Chiroteuthidae.md) 
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Chiroteuthidae
-    -  [Asperoteuthis](Asperoteuthis.md))
-    -  [Chiroteuthis](Chiroteuthis.md))
+    -  [Asperoteuthis](Asperoteuthis.md) 
+    -  [Chiroteuthis](Chiroteuthis.md) 
     -   Grimalditeuthis bonplandi
-    -  [Planctoteuthis](Planctoteuthis.md))
+    -  [Planctoteuthis](Planctoteuthis.md) 
     -   [New Genus B](New_Genus_B)
     -   [New Genus C](New_Genus_C)
 
@@ -39,7 +39,7 @@ title: Grimalditeuthis bonplandi
 The holotype is thought to be deposited in the Museum of Natural
 History, Nice, France, but its existence is uncertain.
 
-Containing group:[Chiroteuthidae](../Chiroteuthidae.md))
+Containing group:[Chiroteuthidae](../Chiroteuthidae.md) 
 
 ## Introduction
 
@@ -213,6 +213,7 @@ waters. Bull. Mar. Sci. 49: 162-185.
   View              Ventral
   Size              89 mm ML
   Copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   ------------------------------------------------------------------------------
 ![](Grimalditeuthis/GrimaldiFins.jpg))
 
@@ -223,6 +224,7 @@ waters. Bull. Mar. Sci. 49: 162-185.
   Body Part         Fins
   View              Ventral
   Copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   ------------------------------------------------------------------------------
 
 

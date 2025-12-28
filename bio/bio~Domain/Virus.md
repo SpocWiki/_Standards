@@ -232,7 +232,7 @@ compared to cellular organisms.
 
 -   ◊ Sibling Groups of  Life on Earth
     -   [Bacteria](Bacteria.md)
-    -  [Eukarya](Eukarya.md))
+    -  [Eukarya](Eukarya.md) 
     -   [Archaea](Archaea)
     -   Viruses
 

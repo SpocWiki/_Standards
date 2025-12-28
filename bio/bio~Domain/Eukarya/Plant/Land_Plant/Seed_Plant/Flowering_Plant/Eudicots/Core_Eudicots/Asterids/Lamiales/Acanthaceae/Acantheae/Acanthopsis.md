@@ -21,13 +21,13 @@ title: Acanthopsis
     -   [Acanthaceae](../../Acanthaceae.md)
     -   [Lamiales](../../../Lamiales.md)
     -   [Asterids](../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Acantheae
@@ -67,7 +67,8 @@ the former two genera than is supported by our results.
 ## Title Illustrations
 
 
---------------------------------------------------------------------------![](Acanthopsis/acanthopsis-2-1.jpg))
+-------------------------------------------------------------------------- 
+![](Acanthopsis/acanthopsis-2-1.jpg))
 Scientific Name ::     Acanthopsis sp. Harv.
 Location ::           South Africa
 Specimen Condition   Live Specimen

@@ -163,12 +163,12 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_birds,6210059]]"
 ## Phylogeny 
 
 -   « Ancestral Groups  in ascending order 
-    -  [Coelurosauria](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria.md))
-    -  [Theropoda](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda.md))
-    -  [Dinosaur](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur.md))
-    -  [Archosauria](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria.md))
-    -  [Archosauromorpha](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha.md))
-    -  [Diapsida](Amniota/Sauropsida/Reptile/Diapsida.md))
+    -  [Coelurosauria](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria.md) 
+    -  [Theropoda](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda.md) 
+    -  [Dinosaur](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur.md) 
+    -  [Archosauria](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria.md) 
+    -  [Archosauromorpha](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha.md) 
+    -  [Diapsida](Amniota/Sauropsida/Reptile/Diapsida.md) 
     -   [Amniota](Amniota.md)
     -   [Terrestrial Vertebrates](../Terrestrial.md)
     -   [Sarcopterygii](../../Sarc.md)
@@ -183,7 +183,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_birds,6210059]]"
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md) 
 
 -   ◊ Sibling Groups of  Coelurosauria
-    -  [Tyrannosauroidea](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria/Tyrannosauroidea.md))
+    -  [Tyrannosauroidea](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria/Tyrannosauroidea.md) 
     -   Aves
 	-   *Confuciusornithidae* †
 	-   *Enantiornithes* †

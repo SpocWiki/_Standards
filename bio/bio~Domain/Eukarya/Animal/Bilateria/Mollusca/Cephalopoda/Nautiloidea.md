@@ -75,16 +75,16 @@ Photograph by J. Arnold.\
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Cephalopoda](../Cephalopoda.md))
-    -  [Mollusca](../../Mollusca.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Cephalopoda](../Cephalopoda.md) 
+    -  [Mollusca](../../Mollusca.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Cephalopoda
     -   Nautilidae
-    -  [Coleoidea](Coleoidea.md))
+    -  [Coleoidea](Coleoidea.md) 
 
 -   » Sub-Groups 
 	-   *Nautilus belauensis*
@@ -97,14 +97,16 @@ Photograph by J. Arnold.\
 ## Title Illustrations
 
 
--------------------------------------------------------------------------![](Nautiloidea/NautilusFront.JPG))
+------------------------------------------------------------------------- 
+![](Nautiloidea/NautilusFront.JPG))
 Scientific Name ::     Nautilus
 Location ::           Photographed at the U.S. National Zoo in Washington, D.C.
 Specimen Condition   Live Specimen
 View                 frontal
 Copyright ::            © 1996 [Michael Vecchione](mailto:vecchiom@si.edu) 
 
----------------------------------------------------------------------------![](Nautiloidea/NautilusInSitu.JPG))
+--------------------------------------------------------------------------- 
+![](Nautiloidea/NautilusInSitu.JPG))
 Scientific Name ::     Nautilus pompilius
 Location ::           Osprey Reef, Coral Sea
 Specimen Condition   Live Specimen

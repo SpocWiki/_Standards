@@ -36,16 +36,16 @@ Sponges
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Animals](../Animals.md))
-    -  [Eukarya](../../Eukarya.md))
+    -  [Animals](../Animals.md) 
+    -  [Eukarya](../../Eukarya.md) 
     -   [Tree of Life](../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Animals
-    -  [Bilateria](Bilateria.md))
-    -  [Myxozoa](Myxozoa.md))
-    -  [Cnidaria](Cnidaria.md))
-    -  [Ctenophora](Ctenophora.md))
-    -  [Placozoa](Placozoa.md))
+    -  [Bilateria](Bilateria.md) 
+    -  [Myxozoa](Myxozoa.md) 
+    -  [Cnidaria](Cnidaria.md) 
+    -  [Ctenophora](Ctenophora.md) 
+    -  [Placozoa](Placozoa.md) 
     -   Porifera
 
 -   » Sub-Groups 

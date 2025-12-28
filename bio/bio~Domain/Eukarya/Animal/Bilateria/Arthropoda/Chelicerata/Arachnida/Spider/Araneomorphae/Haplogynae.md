@@ -29,28 +29,29 @@ title: Haplogynae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Araneomorphae](../Araneomorphae.md))
+    -  [Araneomorphae](../Araneomorphae.md) 
     -   [Spider](../../Spider.md)
-    -  [Arachnida](../../../Arachnida.md))
-    -  [Arthropoda](../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Araneomorphae
     -   Haplogynae
-    -  [Hypochilidae](Hypochilidae.md))
-    -  [Entelegynae](Entelegynae.md))
+    -  [Hypochilidae](Hypochilidae.md) 
+    -  [Entelegynae](Entelegynae.md) 
 
 -   » Sub-Groups
-    -  [Sicariidae](Haplogynae/Sicariidae.md))
+    -  [Sicariidae](Haplogynae/Sicariidae.md) 
 
 
 ## Title Illustrations
 
 
-----------------------------------------------------------------------![](Haplogynae/Loxosceles_reclusa.jpg))
+---------------------------------------------------------------------- 
+![](Haplogynae/Loxosceles_reclusa.jpg))
 Scientific Name ::  Loxosceles reclusa
 Comments          Brown recluse spider
 Copyright ::         © [Jim Kalisch](http://entomology.unl.edu/) 

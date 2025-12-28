@@ -29,40 +29,40 @@ title: Annelida
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Bilateria](../Bilateria.md))
-    -  [Animals](../../Animals.md))
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Bilateria](../Bilateria.md) 
+    -  [Animals](../../Animals.md) 
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Bilateria
     -   [Deuterostomia](Deutero.md)
-    -  [Arthropoda](Arthropoda.md))
-    -  [Onychophora](Onychophora.md))
+    -  [Arthropoda](Arthropoda.md) 
+    -  [Onychophora](Onychophora.md) 
     -   [Tardigrade](Tardigrade.md)
-    -  [Nematoda](Nematoda.md))
-    -  [Nematomorpha](Nematomorpha.md))
-    -  [Kinorhyncha](Kinorhyncha.md))
-    -  [Loricifera](Loricifera.md))
-    -  [Priapulida](Priapulida.md))
+    -  [Nematoda](Nematoda.md) 
+    -  [Nematomorpha](Nematomorpha.md) 
+    -  [Kinorhyncha](Kinorhyncha.md) 
+    -  [Loricifera](Loricifera.md) 
+    -  [Priapulida](Priapulida.md) 
     -   [Arrow_Worm](Arrow_Worm.md)
-    -  [Gastrotricha](Gastrotricha.md))
-    -  [Rotifera](Rotifera.md))
-    -  [Gnathostomulida](Gnathostomulida.md))
+    -  [Gastrotricha](Gastrotricha.md) 
+    -  [Rotifera](Rotifera.md) 
+    -  [Gnathostomulida](Gnathostomulida.md) 
     -   [Limnognathia maerski](Limnognathia_maerski)
-    -  [Cycliophora](Cycliophora.md))
-    -  [Mesozoa](Mesozoa.md))
-    -  [Platyhelminthes](Platyhelminthes.md))
+    -  [Cycliophora](Cycliophora.md) 
+    -  [Mesozoa](Mesozoa.md) 
+    -  [Platyhelminthes](Platyhelminthes.md) 
     -   Annelida
-    -  [Bryozoa](Bryozoa.md))
-    -  [Sipuncula](Sipuncula.md))
-    -  [Mollusca](Mollusca.md))
-    -  [Nemertea](Nemertea.md))
-    -  [Entoprocta](Entoprocta.md))
-    -  [Phoronida](Phoronida.md))
-    -  [Brachiopoda](Brachiopoda.md))
+    -  [Bryozoa](Bryozoa.md) 
+    -  [Sipuncula](Sipuncula.md) 
+    -  [Mollusca](Mollusca.md) 
+    -  [Nemertea](Nemertea.md) 
+    -  [Entoprocta](Entoprocta.md) 
+    -  [Phoronida](Phoronida.md) 
+    -  [Brachiopoda](Brachiopoda.md) 
 
 -   » Sub-Groups
-    -  [Phyllodocida](Annelida/Phyllodocida.md))
+    -  [Phyllodocida](Annelida/Phyllodocida.md) 
 
 
 ## Introduction
@@ -296,19 +296,22 @@ Location ::        Bondi, Australia
 Comments          Syllidae
 Copyright ::         © 2001 [Greg W. Rouse](http://mbrd.ucsd.edu/) 
 
-----------------------------------------------------------------------![Acrocirrus validus habitus](Annelida/Acrocirrus_validus.jpg))
+---------------------------------------------------------------------- 
+![Acrocirrus validus habitus](Annelida/Acrocirrus_validus.jpg))
 Scientific Name ::  Acrocirrus validus
 Location ::        Misaki, Japan
 Comments          Acrocirridae
 Copyright ::         © 1999 [Greg W. Rouse](http://mbrd.ucsd.edu/) 
 
-----------------------------------------------------------------------![Chloeia habitus](Annelida/chloeia.jpg))
+---------------------------------------------------------------------- 
+![Chloeia habitus](Annelida/chloeia.jpg))
 Scientific Name ::  Chloeia
 Location ::        Misaki, Japan
 Comments          Amphinomidae
 Copyright ::         © 1999 [Greg W. Rouse](http://mbrd.ucsd.edu/) 
 
-----------------------------------------------------------------------![unidentified leech](Annelida/leech.jpg))
+---------------------------------------------------------------------- 
+![unidentified leech](Annelida/leech.jpg))
 Scientific Name ::  Hirudinea
 Location ::        Sydney, Australia
 Comments          unidentified leech

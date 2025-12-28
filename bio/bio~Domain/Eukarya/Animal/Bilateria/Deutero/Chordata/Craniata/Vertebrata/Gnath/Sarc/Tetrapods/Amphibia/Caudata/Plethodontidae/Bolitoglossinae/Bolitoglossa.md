@@ -162,9 +162,9 @@ sister to a clade containing *Nototriton* and *Oedipina , Bradytriton*.
     -   [Craniata](../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Bolitoglossinae
@@ -175,7 +175,8 @@ sister to a clade containing *Nototriton* and *Oedipina , Bradytriton*.
 
 ## Title Illustrations
 
-------------------------------------------------------------------![](Bolitoglossa/103881968_74ffee5d5b_o.jpg))
+------------------------------------------------------------------ 
+![](Bolitoglossa/103881968_74ffee5d5b_o.jpg))
 Scientific Name ::     Bolitoglossa striatula
 Location ::           Costa Rica
 Acknowledgements     This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).

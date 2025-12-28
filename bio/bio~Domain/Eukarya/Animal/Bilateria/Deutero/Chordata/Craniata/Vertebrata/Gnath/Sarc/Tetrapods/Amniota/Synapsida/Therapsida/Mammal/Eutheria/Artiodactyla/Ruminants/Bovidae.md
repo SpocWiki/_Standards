@@ -88,9 +88,9 @@ Africa, Europe, Asia, North America.
 
 -   « Ancestral Groups  
     -   [Ruminants](../Ruminants.md)
-    -  [Artiodactyla](../../Artiodactyla.md))
-    -  [Eutheria](../../../Eutheria.md))
-    -  [Mammal](../../../../Mammal.md))
+    -  [Artiodactyla](../../Artiodactyla.md) 
+    -  [Eutheria](../../../Eutheria.md) 
+    -  [Mammal](../../../../Mammal.md) 
     -   [Therapsida](../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../Amniota.md)
@@ -101,9 +101,9 @@ Africa, Europe, Asia, North America.
     -   [Craniata](../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Ruminantia
@@ -128,7 +128,8 @@ Africa, Europe, Asia, North America.
 
 ## Title Illustrations
 
--------------------------------------------------------------------------![Desert bighorn sheep (Ovis canadensis) and young, Arizona](Bovidae/bighorn_ma_inf.jpg))
+------------------------------------------------------------------------- 
+![Desert bighorn sheep (Ovis canadensis) and young, Arizona](Bovidae/bighorn_ma_inf.jpg))
 Scientific Name ::     Ovis canadensis
 Location ::           Arizona Sonora Desert Museum, Tucson, USA
 Comments             Mother with month-old lamb

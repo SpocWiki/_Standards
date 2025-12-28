@@ -7,12 +7,12 @@ title: Chinchillula sahamae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Phyllotini](../Phyllotini.md))
-    -  [Sigmodontinae](../../Sigmodontinae.md))
-    -  [Muroidea](../../../Muroidea.md))
-    -  [Rodentia](../../../../Rodentia.md))
-    -  [Eutheria](../../../../../Eutheria.md))
-    -  [Mammal](../../../../../../Mammal.md))
+    -  [Phyllotini](../Phyllotini.md) 
+    -  [Sigmodontinae](../../Sigmodontinae.md) 
+    -  [Muroidea](../../../Muroidea.md) 
+    -  [Rodentia](../../../../Rodentia.md) 
+    -  [Eutheria](../../../../../Eutheria.md) 
+    -  [Mammal](../../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../../Amniota.md)
@@ -23,9 +23,9 @@ title: Chinchillula sahamae
     -   [Craniata](../../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Phyllotini
@@ -52,7 +52,7 @@ title: Chinchillula sahamae
 
 ![Chinchilla mouse](chinch.jpg)
 
-Containing group:[Phyllotini](../Phyllotini.md))
+Containing group:[Phyllotini](../Phyllotini.md) 
 
 ### Generic Portrait
 

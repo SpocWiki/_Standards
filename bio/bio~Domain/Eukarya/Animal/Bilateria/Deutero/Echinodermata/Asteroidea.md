@@ -427,9 +427,9 @@ asteroid clade.
 -   « Ancestral Groups  
     -   [Echinodermata](../Echinodermata.md)
     -   [Deuterostomia](../../Deutero.md)
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Echinodermata
@@ -450,14 +450,16 @@ Location ::           Stord - Hordaland, Norway, 6 meters
 Specimen Condition   Live Specimen
 Copyright ::            © 2004 [Kåre Telnes](http://www.seawater.no/fauna/index.htm) 
 
-----------------------------------------------------------------------------![Linckia laevigata (Valvatida)](Asteroidea/Linckia_laevigata1.jpg))
+---------------------------------------------------------------------------- 
+![Linckia laevigata (Valvatida)](Asteroidea/Linckia_laevigata1.jpg))
 Scientific Name ::     Linckia laevigata (Valvatida)
 Location ::           Indo-Pacific
 Specimen Condition   Live Specimen
 Size                 Diameter 30 cm
 Copyright ::            © 2003 [Massimo Boyer](http://www.edge-of-reef.com/) 
 
--------------------------------------------------------------------------![](Asteroidea/Astropecten_irregularis1.jpg))
+------------------------------------------------------------------------- 
+![](Asteroidea/Astropecten_irregularis1.jpg))
 Scientific Name ::     Astropecten irregularis (Paxillosida)
 Location ::           Lauvsnes - North Trøndelag, Norway, 12 meters
 Specimen Condition   Live Specimen

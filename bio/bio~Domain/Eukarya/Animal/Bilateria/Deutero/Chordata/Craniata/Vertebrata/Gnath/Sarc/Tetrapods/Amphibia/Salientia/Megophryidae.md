@@ -67,9 +67,9 @@ megophryids has not been questioned.
     -   [Craniata](../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Salientia
@@ -103,7 +103,8 @@ megophryids has not been questioned.
 
 ## Title Illustrations
 
--------------------------------------------------------------------------![](Megophryidae/megophrys.jpg))
+------------------------------------------------------------------------- 
+![](Megophryidae/megophrys.jpg))
 Scientific Name ::  Megophrys montana
 Copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
 

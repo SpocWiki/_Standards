@@ -11,15 +11,15 @@ title: Proteales
     -   [Flowering_Plant](../../Flowering_Plant.md)
     -   [Seed_Plant](../../../Seed_Plant.md)
     -   [Land_Plant](../../../../Land_Plant.md)
-    -  [Green plants](../../../../../Plant.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  eudicots
     -   [Buxaceae](Buxaceae.md)
     -   [Ranunculales](Ranunculales.md)
     -   Proteales
-    -  [Core Eudicots](Core_Eudicots.md))
+    -  [Core Eudicots](Core_Eudicots.md) 
 
 -   » Sub-Groups 
 

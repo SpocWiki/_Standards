@@ -84,7 +84,7 @@ and reflect their unique reproductive, developmental, and ecological adaptations
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Mammal](../Mammal.md))
+    -  [Mammal](../Mammal.md) 
     -   [Therapsida](../../Therapsida.md)
     -   [Synapsida](../../../Synapsida.md)
     -   [Amniota](../../../../Amniota.md)
@@ -95,9 +95,9 @@ and reflect their unique reproductive, developmental, and ecological adaptations
     -   [Craniata](../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Mammalia
@@ -106,23 +106,23 @@ and reflect their unique reproductive, developmental, and ecological adaptations
     -   Eutheria
 
 -   » Sub-Groups
-    -  [Edentata](Eutheria/Edentata.md))
-    -  [Pholidota](Eutheria/Pholidota.md))
-    -  [Lagomorpha](Eutheria/Glires/Lagomorpha.md))
-    -  [Rodentia](Eutheria/Rodentia.md))
-    -  [Macroscelididae](Eutheria/Macroscelididae.md))
-    -  [Primates](Eutheria/Primates.md))
-    -  [Scandentia](Eutheria/Scandentia.md))
-    -  [Bat](Eutheria/Bat.md))
-    -  [Dermoptera](Eutheria/Dermoptera.md))
-    -  [Insectivora](Eutheria/Insectivora.md))
-    -  [Carnivora](Eutheria/Carnivora.md))
-    -  [Artiodactyla](Eutheria/Artiodactyla.md))
+    -  [Edentata](Eutheria/Edentata.md) 
+    -  [Pholidota](Eutheria/Pholidota.md) 
+    -  [Lagomorpha](Eutheria/Glires/Lagomorpha.md) 
+    -  [Rodentia](Eutheria/Rodentia.md) 
+    -  [Macroscelididae](Eutheria/Macroscelididae.md) 
+    -  [Primates](Eutheria/Primates.md) 
+    -  [Scandentia](Eutheria/Scandentia.md) 
+    -  [Bat](Eutheria/Bat.md) 
+    -  [Dermoptera](Eutheria/Dermoptera.md) 
+    -  [Insectivora](Eutheria/Insectivora.md) 
+    -  [Carnivora](Eutheria/Carnivora.md) 
+    -  [Artiodactyla](Eutheria/Artiodactyla.md) 
     -   [Whale](Eutheria/Whale.md)
-    -  [Tubulidentata](Eutheria/Tubulidentata.md))
-    -  [Perissodactyla](Eutheria/Perissodactyla.md))
-    -  [Hyracoidea](Eutheria/Hyracoidea.md))
-    -  [Sirenia](Eutheria/Sirenia.md))
+    -  [Tubulidentata](Eutheria/Tubulidentata.md) 
+    -  [Perissodactyla](Eutheria/Perissodactyla.md) 
+    -  [Hyracoidea](Eutheria/Hyracoidea.md) 
+    -  [Sirenia](Eutheria/Sirenia.md) 
     -   [Proboscidea](Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Terrestrial/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea.md)
 
 ### Information on the Internet
@@ -596,6 +596,7 @@ Artiodactyla (plus Cetacea). Molecular Biology and Evolution
   Comments             African elephant
   Specimen Condition   Live Specimen
   Copyright ::            © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+ 
   ------------------------------------------------------------------------------
 ![Two-toed sloth juvenile ](Eutheria/sloth.jpg))
 
@@ -604,6 +605,7 @@ Artiodactyla (plus Cetacea). Molecular Biology and Evolution
   Comments           Two-toed sloth
   Life Cycle Stage ::   juvenile
   Copyright ::          © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+ 
   ------------------------------------------------------------------------------
 ![Killer whale](Eutheria/orca.jpg))
 

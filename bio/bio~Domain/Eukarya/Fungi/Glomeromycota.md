@@ -20,7 +20,7 @@ title: Glomeromycota
 Phylogenetic tree based on analyses of ribosomal small subunit
 sequences. *Glomus* subgroups as defined by Schwarzott et al. (2001)
 
-Containing group:[Fungi](../Fungi.md))
+Containing group:[Fungi](../Fungi.md) 
 
 ### Information on the Internet
 
@@ -332,16 +332,16 @@ terrestrial plant life, it represents the archetypal mycorrhiza.
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Fungi](../Fungi.md))
-    -  [Eukarya](../../Eukarya.md))
+    -  [Fungi](../Fungi.md) 
+    -  [Eukarya](../../Eukarya.md) 
     -   [Tree of Life](../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Fungi
-    -  [Basidiomycota](Basidiomycota.md))
-    -  [Ascomycota](Ascomycota.md))
+    -  [Basidiomycota](Basidiomycota.md) 
+    -  [Ascomycota](Ascomycota.md) 
     -   Glomeromycota
     -   [Chytridiomycota](Chytridiomycota)
-    -  [Zygomycota](Zygomycota.md))
+    -  [Zygomycota](Zygomycota.md) 
 
 -   » Sub-Groups 
 
@@ -513,6 +513,7 @@ taxa in the Glomeromycota. Mycological Research 108, in press.
   Comments          Spore of Glomus sp. S328 with attached hypha.
   Size              Spore diameter is approximately 80 µm.
   Copyright ::         © 2000 [American Association for the Advancement of Science](http://www.sciencemag.org/) 
+ 
   ------------------------------------------------------------------------------------
 ![](Glomeromycota/arbuscule.jpg))
 
@@ -529,6 +530,7 @@ taxa in the Glomeromycota. Mycological Research 108, in press.
   Comments          Roots of Plantago media (plantain) colonized with Glomus clarum. Note the hyphae and spores on the roots.
   Size              Diameter of larger spores is approximately 200 µm
   Copyright ::         © [Dirk Redecker](http://www.unibas.ch/bothebel/people/redecker/redecker.htm) 
+ 
   ---------------------------------------------------------------------------------
 
 

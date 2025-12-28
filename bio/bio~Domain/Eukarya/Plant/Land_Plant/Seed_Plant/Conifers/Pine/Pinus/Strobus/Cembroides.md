@@ -18,15 +18,15 @@ title: subsection Cembroides
     -   [Conifers](../../../../Conifers.md)
     -   [Seed_Plant](../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  subgenus Strobus
     -   subsection Cembroides
 
 -   » Sub-Groups
-    -  [Pinus cembroides](Cembroides/Pinus_cembroides.md))
+    -  [Pinus cembroides](Cembroides/Pinus_cembroides.md) 
     -   [Pinus johannis](Pinus_johannis)
     -   [Pinus remota](Pinus_remota)
 

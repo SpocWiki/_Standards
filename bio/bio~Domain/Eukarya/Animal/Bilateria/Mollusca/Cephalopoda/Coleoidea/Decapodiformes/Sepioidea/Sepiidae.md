@@ -7,24 +7,24 @@ title: Sepiidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Sepioidea](../Sepioidea.md))
-    -  [Decapodiformes](../../Decapodiformes.md))
-    -  [Coleoidea](../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Sepioidea](../Sepioidea.md) 
+    -  [Decapodiformes](../../Decapodiformes.md) 
+    -  [Coleoidea](../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Sepioidea
     -   Sepiidae
-    -  [Sepiolida](Sepiolida.md))
+    -  [Sepiolida](Sepiolida.md) 
 
 -   » Sub-Groups
-    -  [Metasepia](Sepiidae/Metasepia.md))
-    -  [Sepia](Sepiidae/Sepia.md))
-    -  [Sepiella](Sepiidae/Sepiella.md))
+    -  [Metasepia](Sepiidae/Metasepia.md) 
+    -  [Sepia](Sepiidae/Sepia.md) 
+    -  [Sepiella](Sepiidae/Sepiella.md) 
 
 # [[Sepiidae]] 
 

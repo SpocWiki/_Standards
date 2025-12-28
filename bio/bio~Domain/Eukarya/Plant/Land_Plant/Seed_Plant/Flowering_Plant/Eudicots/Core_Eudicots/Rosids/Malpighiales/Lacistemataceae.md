@@ -40,13 +40,13 @@ title: Lacistemataceae
 -   « Ancestral Groups  
     -   [Malpighiales](../Malpighiales.md)
     -   [Rosids](../../Rosids.md)
-    -  [Core Eudicots](../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Malpighiales
@@ -90,7 +90,8 @@ embryo straight, cotyledons foliaceous.
 ## Title Illustrations
 
 
--------------------------------------------------------------------------![Lacistema](Lacistemataceae/Lacistema.jpg))
+------------------------------------------------------------------------- 
+![Lacistema](Lacistemataceae/Lacistema.jpg))
 Scientific Name ::     Lacistema aggregatum
 Location ::           Costa Rica: Guanacaste: 25 km NE of Liberia
 Specimen Condition   Live Specimen
@@ -99,7 +100,8 @@ Collection           BH
 Collector            Mac H. Alford
 Copyright ::            © 2002 [Mac H. Alford](http://www.usm.edu/biology/) 
 
---------------------------![Lacistema_Fruit](Lacistemataceae/Lacistema_Fruit.jpg))
+-------------------------- 
+![Lacistema_Fruit](Lacistemataceae/Lacistema_Fruit.jpg))
 Scientific Name ::  Lacistema aggregatum
 Location ::        Panama: Barro Colorado Island
 Creator           Steven Paton

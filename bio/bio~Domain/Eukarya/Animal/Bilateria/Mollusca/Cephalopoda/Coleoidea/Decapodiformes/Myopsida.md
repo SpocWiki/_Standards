@@ -7,26 +7,26 @@ title: Myopsida
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Decapodiformes](../Decapodiformes.md))
-    -  [Coleoidea](../../Coleoidea.md))
-    -  [Cephalopoda](../../../Cephalopoda.md))
-    -  [Mollusca](../../../../Mollusca.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Decapodiformes](../Decapodiformes.md) 
+    -  [Coleoidea](../../Coleoidea.md) 
+    -  [Cephalopoda](../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Decapodiformes
-    -  [Bathyteuthoida](Bathyteuthoida.md))
-    -  [Idiosepiidae](Idiosepiidae.md))
+    -  [Bathyteuthoida](Bathyteuthoida.md) 
+    -  [Idiosepiidae](Idiosepiidae.md) 
     -   Myopsida
-    -  [Oegopsida](Oegopsida.md))
-    -  [Sepioidea](Sepioidea.md))
+    -  [Oegopsida](Oegopsida.md) 
+    -  [Sepioidea](Sepioidea.md) 
     -   [Spirula spirula](Spirula_spirula)
 
 -   » Sub-Groups
     -   [Australiteuthis         aldrichi](Australiteuthis_aldrichi)
-    -  [Loliginidae](Myopsida/Loliginidae.md))
+    -  [Loliginidae](Myopsida/Loliginidae.md) 
 
 # Myopsida [Naef, 1916] 
 
@@ -34,7 +34,7 @@ title: Myopsida
 
 ![ ](Myopsida/LpealeiiMV3.jpg)
 
-Containing group:[Decapodiformes](../Decapodiformes.md))
+Containing group:[Decapodiformes](../Decapodiformes.md) 
 
 ## Introduction
 
@@ -106,6 +106,7 @@ Monographie 35, Vol I, Parts I and II, Systematik, pp 1-863.
   View                 Dorsal
   Size                 105 mm ML
   Copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
+ 
   -----------------------------------------------------------------------
 
 

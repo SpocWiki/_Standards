@@ -41,12 +41,12 @@ which includes the two primary taxa Galloanserae and Neoaves.
 
 -   « Ancestral Groups  
     -  [Bird](../Bird.md)) 
-    -  [Coelurosauria](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria.md))
-    -  [Theropoda](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda.md))
-    -  [Dinosaur](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur.md))
-    -  [Archosauria](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria.md))
-    -  [Archosauromorpha](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha.md))
-    -  [Diapsida](../Amniota/Sauropsida/Reptile/Diapsida.md))
+    -  [Coelurosauria](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria.md) 
+    -  [Theropoda](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda.md) 
+    -  [Dinosaur](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur.md) 
+    -  [Archosauria](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria.md) 
+    -  [Archosauromorpha](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha.md) 
+    -  [Diapsida](../Amniota/Sauropsida/Reptile/Diapsida.md) 
     -   [Amniota](../Amniota.md)
     -   [Terrestrial Vertebrates](../../Terrestrial.md)
     -   [Sarcopterygii](../../../Sarc.md)
@@ -55,9 +55,9 @@ which includes the two primary taxa Galloanserae and Neoaves.
     -   [Craniata](../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Aves

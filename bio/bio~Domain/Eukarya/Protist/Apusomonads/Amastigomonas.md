@@ -9,7 +9,7 @@ title: Amastigomonas
 -   « Ancestral Groups  
     -   [Apusomonads](../Apusomonads.md)
     -   [The other protists](The_other_protists)
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Apusomonads
@@ -96,6 +96,7 @@ Patterson, D. J. 1999. The diversity of eukaryotes. American Naturalist
   --------------------------------------------------------------------------------
   Scientific Name ::  Amastigomonas debruynei, Amastigomonas filosa (2), Amastigomonas proboscidea (3)
   Copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+ 
   --------------------------------------------------------------------------------
 
 

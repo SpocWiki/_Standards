@@ -21,12 +21,12 @@ title: Ourebia ourebi
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Antelope](../Antelope.md))
+    -  [Antelope](../Antelope.md) 
     -   [Bovidae](../../Bovidae.md)
     -   [Ruminants](../../../Ruminants.md)
-    -  [Artiodactyla](../../../../Artiodactyla.md))
-    -  [Eutheria](../../../../../Eutheria.md))
-    -  [Mammal](../../../../../../Mammal.md))
+    -  [Artiodactyla](../../../../Artiodactyla.md) 
+    -  [Eutheria](../../../../../Eutheria.md) 
+    -  [Mammal](../../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../../Amniota.md)
@@ -37,9 +37,9 @@ title: Ourebia ourebi
     -   [Craniata](../../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Antilopinae
@@ -57,7 +57,8 @@ title: Ourebia ourebi
 
 ## Title Illustrations
 
--------------------------------------------------------------![Ourebia](Ourebia/Ourebia.jpg))
+------------------------------------------------------------- 
+![Ourebia](Ourebia/Ourebia.jpg))
 Scientific Name ::     Ourebia ourebi
 Location ::           Murchison Falls, Bunyoro, Uganda
 Specimen Condition   Live Specimen

@@ -9,14 +9,14 @@ title: Promachoteuthis sloani
 -   « Ancestral Groups  
     -   [Promachoteuthis](Promachoteuthis)
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Promachoteuthis
@@ -34,7 +34,7 @@ title: Promachoteuthis sloani
 
 ![ ](sloani/PromachHolo.jpg)![ ](sloani/ProSloaniPara1.jpg))
 
-Containing group:[Promachoteuthidae](../Promachoteuthidae.md))
+Containing group:[Promachoteuthidae](../Promachoteuthidae.md) 
 
 ## Introduction
 
@@ -124,6 +124,7 @@ Zool., No. 586: 55-68.
   Size                 58 mm ML
   Type                 Holotype
   Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   ------------------------------------------------------------------------------
 ![](sloani/ProSloaniPara1.jpg))
 
@@ -137,6 +138,7 @@ Zool., No. 586: 55-68.
   Size                 102 mm ML
   Type                 Paratype
   Copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
+ 
   -----------------------------------------------------------------------
 
 

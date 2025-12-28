@@ -7,21 +7,21 @@ title: Bathyteuthoida
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Decapodiformes](../Decapodiformes.md))
-    -  [Coleoidea](../../Coleoidea.md))
-    -  [Cephalopoda](../../../Cephalopoda.md))
-    -  [Mollusca](../../../../Mollusca.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Decapodiformes](../Decapodiformes.md) 
+    -  [Coleoidea](../../Coleoidea.md) 
+    -  [Cephalopoda](../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Decapodiformes
     -   Bathyteuthoida
-    -  [Idiosepiidae](Idiosepiidae.md))
-    -  [Myopsida](Myopsida.md))
-    -  [Oegopsida](Oegopsida.md))
-    -  [Sepioidea](Sepioidea.md))
+    -  [Idiosepiidae](Idiosepiidae.md) 
+    -  [Myopsida](Myopsida.md) 
+    -  [Oegopsida](Oegopsida.md) 
+    -  [Sepioidea](Sepioidea.md) 
     -   [Spirula spirula](Spirula_spirula)
 
 -   » Sub-Groups
@@ -39,7 +39,7 @@ title: Bathyteuthoida
 -   *[Chtenopterygidae](Chtenopteryx)*[
     Grimpe 1922]
 
-Containing group:[Decapodiformes](../Decapodiformes.md))
+Containing group:[Decapodiformes](../Decapodiformes.md) 
 
 ## Introduction
 
@@ -151,6 +151,7 @@ the United States National Museum, 291:1-210.
   Comments          The visceral and ocular photophore are visible through the transparent mantle and head muscles.
   View              ventral
   Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   -------------------------------------------------------------------------------
 
 

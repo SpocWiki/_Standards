@@ -13,7 +13,7 @@ title: New Genus C
 
 This is an incompletely known species.
 
-Containing group:[Chiroteuthidae](../Planctoteuthis.md))
+Containing group:[Chiroteuthidae](../Planctoteuthis.md) 
 
 ## Introduction
 
@@ -56,23 +56,23 @@ Antarctic waters at 57° 21\'S., 74° 43\'W.
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Chiroteuthidae](../../Chiroteuthidae.md))
+    -  [Chiroteuthidae](../../Chiroteuthidae.md) 
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Chiroteuthidae
-    -  [Asperoteuthis](../Asperoteuthis.md))
-    -  [Chiroteuthis](../Chiroteuthis.md))
+    -  [Asperoteuthis](../Asperoteuthis.md) 
+    -  [Chiroteuthis](../Chiroteuthis.md) 
     -   [Grimalditeuthis         bonplandi](Grimalditeuthis_bonplandi)
-    -  [Planctoteuthis](../Planctoteuthis.md))
+    -  [Planctoteuthis](../Planctoteuthis.md) 
     -   [New Genus B](New_Genus_B)
     -   New Genus C
 

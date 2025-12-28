@@ -7,20 +7,20 @@ title: Sepiella
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Sepiidae](../Sepiidae.md))
-    -  [Sepioidea](../../Sepioidea.md))
-    -  [Decapodiformes](../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Sepiidae](../Sepiidae.md) 
+    -  [Sepioidea](../../Sepioidea.md) 
+    -  [Decapodiformes](../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Sepiidae
-    -  [Metasepia](Metasepia.md))
-    -  [Sepia](Sepia.md))
+    -  [Metasepia](Metasepia.md) 
+    -  [Sepia](Sepia.md) 
     -   Sepiella
 
 -   » Sub-Groups 
@@ -40,7 +40,7 @@ This genus contains the following six species:
 -   *Sepiella ocellata*
 -   *Sepiella weberi*
 
-Containing group:[Sepiidae](../Sepiidae.md))
+Containing group:[Sepiidae](../Sepiidae.md) 
 
 ## Introduction
 

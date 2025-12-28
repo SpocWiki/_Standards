@@ -7,28 +7,28 @@ title: Alloteuthis
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Loliginidae](../Loliginidae.md))
-    -  [Myopsida](../../Myopsida.md))
-    -  [Decapodiformes](../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Loliginidae](../Loliginidae.md) 
+    -  [Myopsida](../../Myopsida.md) 
+    -  [Decapodiformes](../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Loliginidae
-    -  [Loligo](Loligo.md))
+    -  [Loligo](Loligo.md) 
     -   [Afrololigo mercatoris](Afrololigo_mercatoris)
     -   Alloteuthis
-    -  [Doryteuthis](Doryteuthis.md))
+    -  [Doryteuthis](Doryteuthis.md) 
     -   [Heterololigo bleekeri](Heterololigo_bleekeri)
-    -  [Loliolus](Loliolus.md))
-    -  [Lolliguncula](Lolliguncula.md))
-    -  [Pickfordiateuthis](Pickfordiateuthis.md))
-    -  [Sepioteuthis](Sepioteuthis.md))
-    -  [Uroteuthis](Uroteuthis.md))
+    -  [Loliolus](Loliolus.md) 
+    -  [Lolliguncula](Lolliguncula.md) 
+    -  [Pickfordiateuthis](Pickfordiateuthis.md) 
+    -  [Sepioteuthis](Sepioteuthis.md) 
+    -  [Uroteuthis](Uroteuthis.md) 
 
 -   » Sub-Groups 
 
@@ -44,7 +44,7 @@ Type species. \-- ***Loligo media*** Linnè, 1758 by original designation
 of Naef in an unpublished manuscript cited by Wulker \[see Vecchione et
 al. (1998)\].
 
-Containing group:[Loliginidae](../Loliginidae.md))
+Containing group:[Loliginidae](../Loliginidae.md) 
 
 ## Introduction
 
@@ -143,6 +143,7 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
   View                 Ventral
   Size                 62 mm ML
   Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   ------------------------------------------------------------------------------
 
 

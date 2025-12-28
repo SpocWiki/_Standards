@@ -228,9 +228,9 @@ it contradicts monophyly of suborder Salamandroidea.\
     -   [Craniata](../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Living Amphibians
@@ -251,7 +251,8 @@ it contradicts monophyly of suborder Salamandroidea.\
 
 ## Title Illustrations
 
-------------![](Caudata/tylototritonshanjing.jpg))
+------------ 
+![](Caudata/tylototritonshanjing.jpg))
 Scientific Name ::     Tylototriton shanjing
 Location ::           China
 Comments             A newt (Salamandridae)

@@ -7,16 +7,16 @@ title: Octopodiformes
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Coleoidea](../Coleoidea.md))
-    -  [Cephalopoda](../../Cephalopoda.md))
-    -  [Mollusca](../../../Mollusca.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Coleoidea](../Coleoidea.md) 
+    -  [Cephalopoda](../../Cephalopoda.md) 
+    -  [Mollusca](../../../Mollusca.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Coleoidea
-    -  [Decapodiformes](Decapodiformes.md))
+    -  [Decapodiformes](Decapodiformes.md) 
     -   Octopodiformes
 
 -   » Sub-Groups
@@ -175,7 +175,8 @@ Comments          Photographed in plankton kreisel aboard the R/V NEW HORIZON. C
 Size              25 cm total length
 Copyright ::         © 1999 Brad Seibel
 
--------------![](Octopodiformes/Ocyanea.jpg))
+------------- 
+![](Octopodiformes/Ocyanea.jpg))
 Scientific Name ::  Octopus cyanea
 Location ::        Great Barrier Reef, Australia
 Copyright ::         © 1999 Mark Norman

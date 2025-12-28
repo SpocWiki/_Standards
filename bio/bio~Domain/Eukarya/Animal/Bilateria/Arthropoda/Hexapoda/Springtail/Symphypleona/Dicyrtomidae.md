@@ -9,11 +9,11 @@ title: Dicyrtomidae
 -   « Ancestral Groups  
     -   [Symphypleona](../Symphypleona.md)
     -   [Springtail](../../Springtail.md)
-    -  [Hexapoda](../../../Hexapoda.md))
-    -  [Arthropoda](../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Hexapoda](../../../Hexapoda.md) 
+    -  [Arthropoda](../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Symphypleona
@@ -50,6 +50,7 @@ Hawaii. Zoologica Scripta 19(1):73-99.
   Scientific Name ::     Dicyrtomina saundersi
   Specimen Condition   Live Specimen
   Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+ 
   ------------------------------------------------------------------------
 ![](Dicyrtomidae/DIfus_SMI_6.jpg))
 
@@ -57,6 +58,7 @@ Hawaii. Zoologica Scripta 19(1):73-99.
   Scientific Name ::     Dicyrtoma fusca
   Specimen Condition   Live Specimen
   Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+ 
   ------------------------------------------------------------------------
 
 

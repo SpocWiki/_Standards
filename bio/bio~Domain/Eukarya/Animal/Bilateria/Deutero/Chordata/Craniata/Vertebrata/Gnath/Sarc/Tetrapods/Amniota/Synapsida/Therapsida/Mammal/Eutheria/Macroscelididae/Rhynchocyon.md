@@ -30,9 +30,9 @@ title: Rhynchocyon
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Macroscelididae](../Macroscelididae.md))
-    -  [Eutheria](../../Eutheria.md))
-    -  [Mammal](../../../Mammal.md))
+    -  [Macroscelididae](../Macroscelididae.md) 
+    -  [Eutheria](../../Eutheria.md) 
+    -  [Mammal](../../../Mammal.md) 
     -   [Therapsida](../../../../Therapsida.md)
     -   [Synapsida](../../../../../Synapsida.md)
     -   [Amniota](../../../../../../Amniota.md)
@@ -43,9 +43,9 @@ title: Rhynchocyon
     -   [Craniata](../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Macroscelididae
@@ -67,7 +67,8 @@ title: Rhynchocyon
 Scientific Name ::  Rhynchocyon chrysopygus
 Creator           Joseph Smit (1836--1929)
 
------------------------------![](Rhynchocyon/210618830_bd29523f8b_o.jpg))
+----------------------------- 
+![](Rhynchocyon/210618830_bd29523f8b_o.jpg))
 Scientific Name ::                    Rhynchocyon petersi
 Location ::                          Philadelphia Zoo
 Acknowledgements                    This image is licensed under the

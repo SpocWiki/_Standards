@@ -7,12 +7,12 @@ title: capricornia
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Hesionidae](../Hesionidae.md))
-    -  [Phyllodocida](../../Phyllodocida.md))
-    -  [Annelida](../../../Annelida.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Hesionidae](../Hesionidae.md) 
+    -  [Phyllodocida](../../Phyllodocida.md) 
+    -  [Annelida](../../../Annelida.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Hesionidae
@@ -81,7 +81,8 @@ reference to the current resolution and knowledge.
 
 ## Title Illustrations 
 
-------------------------------------------------------------------------![habitus of a capricornia male](capricornia/capricornia.jpg))
+------------------------------------------------------------------------ 
+![habitus of a capricornia male](capricornia/capricornia.jpg))
 Scientific Name ::     capricornia
 Location ::           Great Barrier Reef
 Comments             Note paired penes on segment 9

@@ -7,11 +7,11 @@ title: Rhinolophidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Rhinolophoidea](../Rhinolophoidea.md))
-    -  [Microchiroptera](../../Microchiroptera.md))
-    -  [Bat](../../../Bat.md))
-    -  [Eutheria](../../../../Eutheria.md))
-    -  [Mammal](../../../../../Mammal.md))
+    -  [Rhinolophoidea](../Rhinolophoidea.md) 
+    -  [Microchiroptera](../../Microchiroptera.md) 
+    -  [Bat](../../../Bat.md) 
+    -  [Eutheria](../../../../Eutheria.md) 
+    -  [Mammal](../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../Amniota.md)
@@ -22,9 +22,9 @@ title: Rhinolophidae
     -   [Craniata](../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Rhinolophoidea
@@ -43,7 +43,7 @@ title: Rhinolophidae
 
 from Simmons (1998) and Simmons and Geisler (1998).
 
-Containing group:[Rhinolophoidea](../Rhinolophoidea.md))
+Containing group:[Rhinolophoidea](../Rhinolophoidea.md) 
 
 ## Introduction
 

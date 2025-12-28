@@ -200,9 +200,9 @@ shown above.
 -   « Ancestral Groups  
     -   [Echinodermata](../Echinodermata.md)
     -   [Deuterostomia](../../Deutero.md)
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Echinodermata
@@ -216,7 +216,8 @@ shown above.
 ## Title Illustrations
 
 
-------------------------------------![Villebrunaster thorali ventral side showing schematic of oral test](Somasteroidea/Villebrunaster_thoral.jpg))
+------------------------------------ 
+![Villebrunaster thorali ventral side showing schematic of oral test](Somasteroidea/Villebrunaster_thoral.jpg))
 Scientific Name ::     Villebrunaster thorali (Villebrunasteridae)
 Location ::           from south France
 Reference            After Spencer, W.K. 1951. Early Paleozoic starfish. Phil. Trans. R. Soc. Lond., ser. B 235:87-129.
@@ -224,7 +225,8 @@ Specimen Condition   Fossil \-- Period: Lower Ordovician, Tremadoc-Early Arenig
 Body Part            ventral side showing schematic of oral test
 Copyright ::            © 1951 Royal Society of London
 
-------------------------------------![Archegonaster pentagonus ventral side showing schematic of oral test](Somasteroidea/Archegonaster_pentagonus.jpg))
+------------------------------------ 
+![Archegonaster pentagonus ventral side showing schematic of oral test](Somasteroidea/Archegonaster_pentagonus.jpg))
 Scientific Name ::     Archegonaster pentagonus (Archegonasteridae)
 Location ::           from former Czechoslovakia
 Reference            After Spencer, W.K. 1951. Early Paleozoic starfish. Phil. Trans. R. Soc. Lond., ser. B 235:87-129.
@@ -232,7 +234,8 @@ Specimen Condition   Fossil \-- Period: Lower Ordovician, Late Arenig
 Body Part            ventral side showing schematic of oral test
 Copyright ::            © 1951 Royal Society of London
 
-------------------------------------![Chinianaster levyi ventral side showing schematic of oral test](Somasteroidea/Chinianaster_levy.jpg))
+------------------------------------ 
+![Chinianaster levyi ventral side showing schematic of oral test](Somasteroidea/Chinianaster_levy.jpg))
 Scientific Name ::     Chinianaster levyi (Chinianasteridae)
 Location ::           from south France
 Reference            After Spencer, W.K. 1951. Early Paleozoic starfish. Phil. Trans. R. Soc. Lond., ser. B 235:87-129.

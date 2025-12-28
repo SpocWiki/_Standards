@@ -7,21 +7,21 @@ title: Cambarinae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Cambaridae](../Cambaridae.md))
-    -  [Astacidea](../../../Astacidea.md))
-    -  [Decapoda](../../../../Decapoda.md))
-    -  [Malacostraca](../../../../../Malacostraca.md))
-    -  [Crustacea](../../../../../../Crustacea.md))
-    -  [Arthropoda](../../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Cambaridae](../Cambaridae.md) 
+    -  [Astacidea](../../../Astacidea.md) 
+    -  [Decapoda](../../../../Decapoda.md) 
+    -  [Malacostraca](../../../../../Malacostraca.md) 
+    -  [Crustacea](../../../../../../Crustacea.md) 
+    -  [Arthropoda](../../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Cambaridae
-    -  [Cambarellinae](Cambarellinae.md))
+    -  [Cambarellinae](Cambarellinae.md) 
     -   Cambarinae
-    -  [Cambaroides](Cambaroides.md))
+    -  [Cambaroides](Cambaroides.md) 
 
 -   » Sub-Groups
     -   [Fallicambarus](Fallicambarus)

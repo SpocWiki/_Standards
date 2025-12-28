@@ -26,13 +26,13 @@ title: Dyschoriste
     -   [Acanthaceae](../../Acanthaceae.md)
     -   [Lamiales](../../../Lamiales.md)
     -   [Asterids](../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Ruellieae
@@ -62,25 +62,29 @@ region of hyaline tissue between calyx lobes, a trait also found in some
 ## Title Illustrations
 
 
------------------------------------------------------------------------![Dyschoriste_Tehuantepec](Dyschoriste/Dyschoriste_Tehuantepec.jpg))
+----------------------------------------------------------------------- 
+![Dyschoriste_Tehuantepec](Dyschoriste/Dyschoriste_Tehuantepec.jpg))
 Scientific Name ::     Dyschoriste hirsutissima (Nees) Kuntze
 Location ::           Oaxaca, Mexico
 Specimen Condition   Live Specimen
 Collector            E. Tripp
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
-----------------------------------![Dyschoristelinearis](Dyschoriste/Dyschoriste_linearis.jpg))
+---------------------------------- 
+![Dyschoristelinearis](Dyschoriste/Dyschoriste_linearis.jpg))
 Scientific Name ::     Dyschoriste linearis (Torr. & A.Gray) Kuntze
 Location ::           Taylor County, Texas
 Specimen Condition   Live Specimen
 Copyright ::            © 2005 [Catnapin](http://www.catnapin.com/WildWeeds/Flowers-B/PurpleBlueBilateralAcanthus.htm)
 
---------------------------![dyschoriste](Dyschoriste/dyschoriste.jpg))
+-------------------------- 
+![dyschoriste](Dyschoriste/dyschoriste.jpg))
 Scientific Name ::     Dyschoriste oblongifolia Kuntze
 Specimen Condition   Live Specimen
 Copyright ::            © [Peter G. May](http://www.stetson.edu/%7Epmay/stock%20flora.htm)
 
-----------------------------------![](Dyschoriste/Dyschoriste_linearis-B.jpg))
+---------------------------------- 
+![](Dyschoriste/Dyschoriste_linearis-B.jpg))
 Scientific Name ::     Dyschoriste linearis (Torr. & A.Gray) Kuntze
 Specimen Condition   Live Specimen
 Copyright ::            © 2003 [Texas Tech University](http://www.depts.ttu.edu/hillcountry/research/wildflowers.htm)

@@ -11,22 +11,22 @@ title: Sinentomata
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Protura](../Protura.md))
-    -  [Hexapoda](../../Hexapoda.md))
-    -  [Arthropoda](../../../Arthropoda.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Protura](../Protura.md) 
+    -  [Hexapoda](../../Hexapoda.md) 
+    -  [Arthropoda](../../../Arthropoda.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Protura
     -   Sinentomata
-    -  [Acerentomata](Acerentomata.md))
-    -  [Eosentomata](Eosentomata.md))
+    -  [Acerentomata](Acerentomata.md) 
+    -  [Eosentomata](Eosentomata.md) 
 
 -   » Sub-Groups
-    -  [Sinentomon](Sinentomata/Sinentomon.md))
-    -  [Fujientomon](Sinentomata/Fujientomon.md))
+    -  [Sinentomon](Sinentomata/Sinentomon.md) 
+    -  [Fujientomon](Sinentomata/Fujientomon.md) 
 
 
 ## Confidential Links & Embeds: 

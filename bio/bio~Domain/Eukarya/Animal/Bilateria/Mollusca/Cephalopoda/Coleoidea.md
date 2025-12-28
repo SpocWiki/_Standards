@@ -8,11 +8,11 @@ title: Coleoidea
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Cephalopoda](../Cephalopoda.md))
-    -  [Mollusca](../../Mollusca.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Cephalopoda](../Cephalopoda.md) 
+    -  [Mollusca](../../Mollusca.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Cephalopoda
@@ -20,8 +20,8 @@ title: Coleoidea
     -   Coleoidea
 
 -   » Sub-Groups
-    -  [Decapodiformes](Coleoidea/Decapodiformes.md))
-    -  [Octopodiformes](Coleoidea/Octopodiformes.md))
+    -  [Decapodiformes](Coleoidea/Decapodiformes.md) 
+    -  [Octopodiformes](Coleoidea/Octopodiformes.md) 
 	-   *Neocoleoidea*
 	    -   [Decapodiformes](Coleoidea/Decapodiformes.md "go to ToL page"))*[
 	        Leach, 1817] [(squids, cuttlefishes and their
@@ -222,7 +222,8 @@ it equivocal support (Bonnaud *et al.*, 1997).
 ## Title Illustrations
 
 
---------------------------------------------------------------------------------![](Coleoidea/Sthenoteuthis.jpg))
+-------------------------------------------------------------------------------- 
+![](Coleoidea/Sthenoteuthis.jpg))
 Scientific Name ::     Sthenoteuthis oualaniensis
 Location ::           Hawaiian waters
 Specimen Condition   Live Specimen

@@ -7,18 +7,18 @@ title: Zoantharia
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Anthozoa](../Anthozoa.md))
-    -  [Cnidaria](../../Cnidaria.md))
-    -  [Animals](../../../Animals.md))
-    -  [Eukarya](../../../../Eukarya.md))
+    -  [Anthozoa](../Anthozoa.md) 
+    -  [Cnidaria](../../Cnidaria.md) 
+    -  [Animals](../../../Animals.md) 
+    -  [Eukarya](../../../../Eukarya.md) 
     -   [Tree of Life](../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Anthozoa
     -   Zoantharia
 
 -   » Sub-Groups
-    -  [Actiniaria](Zoantharia/Actiniaria.md))
-    -  [Scleractinia](Zoantharia/Scleractinia.md))
+    -  [Actiniaria](Zoantharia/Actiniaria.md) 
+    -  [Scleractinia](Zoantharia/Scleractinia.md) 
 
 # Zoantharia
 
@@ -29,7 +29,7 @@ title: Zoantharia
 
 Tree derived from Oliver 1996, France et al. 1996, and Chen et al. 1995.
 
-Containing group:[Anthozoa](../Anthozoa.md))
+Containing group:[Anthozoa](../Anthozoa.md) 
 
 ### Information on the Internet
 

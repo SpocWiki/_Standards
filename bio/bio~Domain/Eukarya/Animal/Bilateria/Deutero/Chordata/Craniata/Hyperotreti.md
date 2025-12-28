@@ -121,9 +121,9 @@ cyclostome paraphyly.
     -   [Craniata](../Craniata.md)
     -   [Chordata](../../Chordata.md)
     -   [Deuterostomia](../../../Deutero.md)
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Craniata
@@ -143,7 +143,8 @@ earliest known fossil hagfish, Myxinikela, from the Late Carboniferous
 of Illinois, had a much stouter body shape but clearly shows the
 tentacles (after Bardack 1991). Copyright © Philippe Janvier.
 
-----------![](Hyperotreti/hyperotreti.gif))
+---------- 
+![](Hyperotreti/hyperotreti.gif))
 Copyright ::   © 1997 Philippe Janvier
 
 

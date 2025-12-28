@@ -7,18 +7,18 @@ title: Fungiina
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Scleractinia](../Scleractinia.md))
-    -  [Zoantharia](../../Zoantharia.md))
-    -  [Anthozoa](../../../Anthozoa.md))
-    -  [Cnidaria](../../../../Cnidaria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Scleractinia](../Scleractinia.md) 
+    -  [Zoantharia](../../Zoantharia.md) 
+    -  [Anthozoa](../../../Anthozoa.md) 
+    -  [Cnidaria](../../../../Cnidaria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Scleractinia
     -   Fungiina
-    -  [Faviina](Faviina.md))
-    -  [Caryophylliina](Caryophylliina.md))
+    -  [Faviina](Faviina.md) 
+    -  [Caryophylliina](Caryophylliina.md) 
     -   [Dendrophylliidae](Dendrophylliidae)
 
 -   » Sub-Groups
@@ -33,7 +33,7 @@ title: Fungiina
 
 Classification after Wells (1956).
 
-Containing group:[Scleractinia](../Scleractinia.md))
+Containing group:[Scleractinia](../Scleractinia.md) 
 
 ## Introduction
 

@@ -7,19 +7,19 @@ title: Tuberculina sbrozzii
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Helicobasidiales](../Helicobasidiales.md))
+    -  [Helicobasidiales](../Helicobasidiales.md) 
     -   [Urediniomycotina](Urediniomycotina)
-    -  [Basidiomycota](../../../Basidiomycota.md))
-    -  [Fungi](../../../../Fungi.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Basidiomycota](../../../Basidiomycota.md) 
+    -  [Fungi](../../../../Fungi.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Helicobasidiales
     -   Tuberculina sbrozzii
-    -  [Helicobasidium         purpureum](Helicobasidium_purpureum.md))
-    -  [Tuberculina maxima](Tuberculina_maxima.md))
-    -  [Helicobasidium         longisporum](Helicobasidium_longisporum.md))
-    -  [Helicobasidium mompa](Helicobasidium_mompa.md))
+    -  [Helicobasidium         purpureum](Helicobasidium_purpureum.md) 
+    -  [Tuberculina maxima](Tuberculina_maxima.md) 
+    -  [Helicobasidium         longisporum](Helicobasidium_longisporum.md) 
+    -  [Helicobasidium mompa](Helicobasidium_mompa.md) 
 
 -   » Sub-Groups 
 
@@ -28,7 +28,7 @@ title: Tuberculina sbrozzii
 ![ ](Tuberculina_sbrozzii/Tsb1718.jpg)![ ](Tuberculina_sbrozzii/ts1.jpg))
 ![ ](Tuberculina_sbrozzii/Ts2.jpg)
 
-Containing group:[Helicobasidiales](../Helicobasidiales.md))
+Containing group:[Helicobasidiales](../Helicobasidiales.md) 
 
 ## Title Illustrations
 
@@ -42,6 +42,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md))
   Life Cycle Stage ::     Mycoparasitic anamorph
   Collection           2004
   Copyright ::            © 2004 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+ 
   -----------------------------------------------------------------------------
 ![](Tuberculina_sbrozzii/ts1.jpg))
 
@@ -53,6 +54,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md))
   Life Cycle Stage ::     Mycoparasitic anamorph
   Collection           2002
   Copyright ::            © 2002 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+ 
   -----------------------------------------------------------------------------
 ![](Tuberculina_sbrozzii/Ts2.jpg))
 
@@ -64,6 +66,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md))
   Life Cycle Stage ::     Mycoparasitic anamorph
   Collection           2002
   Copyright ::            © 2002 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+ 
   -----------------------------------------------------------------------------
 
 

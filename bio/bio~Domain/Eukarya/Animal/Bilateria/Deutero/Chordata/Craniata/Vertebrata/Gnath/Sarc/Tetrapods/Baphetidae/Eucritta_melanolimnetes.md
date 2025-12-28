@@ -51,9 +51,9 @@ melanolimnetes* (UMZC T.1347).  See Clack (2001). © [Jennifer A. Clack](http:/
     -   [Craniata](../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Baphetidae
@@ -64,7 +64,8 @@ melanolimnetes* (UMZC T.1347).  See Clack (2001). © [Jennifer A. Clack](http:/
 
 ## Title Illustrations
 
-------------------------------------------------------------------------------![](Eucritta_melanolimnetes/Eucritta.jpg))
+------------------------------------------------------------------------------ 
+![](Eucritta_melanolimnetes/Eucritta.jpg))
   Scientific Name ::     Eucritta melanolimnetes
   Reference            see Clack, J. A. 2001 Eucritta melanolimnetes from the Early Carboniferous of Scotland, a stem tetrapod showing a mosaic of characteristics. Trans R. Soc. Ed. 92, 75-95.
   Specimen Condition   Fossil

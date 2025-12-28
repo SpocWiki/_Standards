@@ -278,18 +278,18 @@ acetabulum, and reduction of the pubis to a small rectangular block.
     -   [Archosauria](../../../../Archosauria.md)
     -   [Archosauromorpha](../../../../../Archosauromorpha.md)
     -   [Diapsida](../../../../../../Diapsida.md)
-    -  [Amniota](../../../../../../../../../Amniota.md))
+    -  [Amniota](../../../../../../../../../Amniota.md) 
     -   [Terrestrial Vertebrates](../../../../../../../../Terrestrial.md)
-    -  [Sarcopterygii](../../../../../../../../../../../Sarc.md))
-    -  [Gnathostomata](../../../../../../../../../../../../Gnath.md))
-    -  [Vertebrata](../../../../../../../../../../../../../Vertebrata.md))
-    -  [Craniata](../../../../../../../../../../../../../../Craniata.md))
-    -  [Chordata](../../../../../../../../../../../../../../../Chordata.md))
-    -  [Deuterostomia](../../../../../../../../../../../../../../../../Deutero.md))
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
-    -  [Tree of Life](../../../../../../../../../../../../../../../../../../../Tree_of_Life.md))
+    -  [Sarcopterygii](../../../../../../../../../../../Sarc.md) 
+    -  [Gnathostomata](../../../../../../../../../../../../Gnath.md) 
+    -  [Vertebrata](../../../../../../../../../../../../../Vertebrata.md) 
+    -  [Craniata](../../../../../../../../../../../../../../Craniata.md) 
+    -  [Chordata](../../../../../../../../../../../../../../../Chordata.md) 
+    -  [Deuterostomia](../../../../../../../../../../../../../../../../Deutero.md) 
+    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md) 
+    -  [Tree of Life](../../../../../../../../../../../../../../../../../../../Tree_of_Life.md) 
 
 -   ◊ Sibling Groups of  Ankylosauromorpha
     -   Ankylosauria
@@ -302,7 +302,8 @@ acetabulum, and reduction of the pubis to a small rectangular block.
 
 ## Title Illustrations
 
-----------------------------------------------------------------![Two Edmontonia males in a shoving contest of strength](Ankylosauria/edmontonia.jpg))
+---------------------------------------------------------------- 
+![Two Edmontonia males in a shoving contest of strength](Ankylosauria/edmontonia.jpg))
 Scientific Name ::     Edmontonia
 Location ::           North America
 Comments             Life restoration. Two males are shown in a shoving contest of strength.

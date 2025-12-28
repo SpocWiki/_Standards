@@ -7,19 +7,19 @@ title: Boloceroidaria
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Nynantheae](../Nynantheae.md))
-    -  [Actiniaria](../../Actiniaria.md))
-    -  [Zoantharia](../../../Zoantharia.md))
-    -  [Anthozoa](../../../../Anthozoa.md))
-    -  [Cnidaria](../../../../../Cnidaria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Nynantheae](../Nynantheae.md) 
+    -  [Actiniaria](../../Actiniaria.md) 
+    -  [Zoantharia](../../../Zoantharia.md) 
+    -  [Anthozoa](../../../../Anthozoa.md) 
+    -  [Cnidaria](../../../../../Cnidaria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Nynantheae
-    -  [Athenaria](Athenaria.md))
+    -  [Athenaria](Athenaria.md) 
     -   Boloceroidaria
-    -  [Thenaria](Thenaria.md))
+    -  [Thenaria](Thenaria.md) 
 
 -   » Sub-Groups
     -   [Boloceroididae](Boloceroididae)
@@ -31,7 +31,7 @@ title: Boloceroidaria
 -   *[Boloceroididae](Boloceroididae)*
 -   *[Nevadneidae](Nevadneidae)*
 
-Containing group:[Nynantheae](../Nynantheae.md))
+Containing group:[Nynantheae](../Nynantheae.md) 
 
 ### Characteristics
 

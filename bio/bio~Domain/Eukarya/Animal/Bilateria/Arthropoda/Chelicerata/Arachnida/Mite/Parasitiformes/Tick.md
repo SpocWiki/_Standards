@@ -9,6 +9,15 @@ title: Ixodida
 
 # [[Tick]] 
 
+Ticks probably exist unchanged since 350e6y. 
+They survived 2 big Extinctions. 
+
+Transfers: 
+[[Borelliose]]  
+[[FSME]] 
+[[Lyme-Encephalitis]]  
+
+
 ![Amblyomma hebraeum male and female](Tick/Amblyomma_hebraeum.jpg)  ![Otobius megnini](Tick/Otobius_megnini.jpg) 
 
 ## #has_/text_of_/abstract 
@@ -58,11 +67,11 @@ title: Ixodida
 -   « Ancestral Groups  
     -   [Parasitiformes](../Parasitiformes.md)
     -   [Mite](../../Mite.md)
-    -  [Arachnida](../../../Arachnida.md))
-    -  [Arthropoda](../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Parasitiformes

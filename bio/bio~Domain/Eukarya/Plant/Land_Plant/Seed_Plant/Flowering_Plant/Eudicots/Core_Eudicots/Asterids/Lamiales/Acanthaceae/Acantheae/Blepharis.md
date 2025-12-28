@@ -24,13 +24,13 @@ title: Blepharis
     -   [Acanthaceae](../../Acanthaceae.md)
     -   [Lamiales](../../../Lamiales.md)
     -   [Asterids](../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Acantheae
@@ -100,13 +100,15 @@ advanced of the two subgenera.\
 ## Title Illustrations
 
 
----------------------------------------------------------------------------![Blepharis prostrata](Blepharis/Blepharis_prostrata.jpg))
+--------------------------------------------------------------------------- 
+![Blepharis prostrata](Blepharis/Blepharis_prostrata.jpg))
 Scientific Name ::     Blepharis sinuata (Nees) C.B Clarke, McDade & Dold
 Location ::           South Africa
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
----------------------------------------------------------------------------![blepharis3copy](Blepharis/blepharis_copy.jpg))
+--------------------------------------------------------------------------- 
+![blepharis3copy](Blepharis/blepharis_copy.jpg))
 Scientific Name ::     Blepharis natalensis Oberm.
 Location ::           Kwazulu-Natal, near Weenen, South Africa
 Specimen Condition   Live Specimen
