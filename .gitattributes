@@ -1,4 +1,6 @@
 *.md  linguist-detectable=true  
 *.geojson  linguist-detectable=true  
+*.svg  linguist-detectable=true  
+*.excalidraw  linguist-detectable=true  
 *.jpg  linguist-detectable=true  
 *.jpeg  linguist-detectable=true  
